@@ -1,5 +1,5 @@
 # Prostitution Reform Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Prostitution Reform Act 2003.
@@ -187,7 +187,7 @@ No person may receive a payment or other reward that he or she knows, or ought r
 
 ### 24 Purpose of inspection
 (1) The powers of inspection in section 26 may be used only for the purpose of determining whether or not a person is complying, or has complied, with section 8 or section 9.
-(2) This section does not limit the ability of an inspector to report any other offence or suspected offence to the police or any other relevant agency.
+(2) This section does not limit the ability of an inspector to report any other offence or suspected offence to the Police or any other relevant agency.
 
 ### 25 Inspectors
 (1) Every person designated as a Medical Officer of Health by the Director-General of Health under the Health Act 1956 is an inspector for the purposes of this Act.
@@ -215,7 +215,7 @@ No person may receive a payment or other reward that he or she knows, or ought r
 (1) An inspector may not enter a home under section 26 unless he or she—
   (a) has the consent of an occupier of that home; or
   (b) is authorised to do so by a warrant issued under subsection (2).
-(2) A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a member of the police) may issue a warrant to enter a home or part of a home if, on application made on oath, he or she is satisfied that there are reasonable grounds for believing that—
+(2) A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a constable) may issue a warrant to enter a home or part of a home if, on application made on oath, he or she is satisfied that there are reasonable grounds for believing that—
   (a) a business of prostitution is being carried on in the home; or
   (b) the home or the part of the home is the only practicable means through which to enter premises where a business of prostitution is being carried on.
 (3) The warrant must be directed to an inspector by name and must be in the prescribed form.
@@ -242,12 +242,12 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 
 **Powers of entry**
 
-### 30 Warrant for police to enter
-(1) A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a member of the police) may issue a warrant to enter a place if he or she is satisfied that—
+### 30 Warrant for Police to enter
+(1) A District Court Judge, Justice, Community Magistrate, or Registrar of a District Court (who is not a constable) may issue a warrant to enter a place if he or she is satisfied that—
   (a) there is good cause to suspect that an offence under either of the following provisions is being, has been, or is likely to be committed in the place:
     (i) section 23 (which concerns using persons under 18 years in prostitution):
     (ii) section 34 (which concerns being an operator while not holding a certificate); and
-  (b) there are reasonable grounds to believe that it is necessary for a member of the police to enter the place for the purpose of preventing the commission or repetition of that offence or investigating that offence.
+  (b) there are reasonable grounds to believe that it is necessary for a constable to enter the place for the purpose of preventing the commission or repetition of that offence or investigating that offence.
 (2) An application for a warrant must be made in writing and on oath.
 (3) The Judge, Justice, Community Magistrate, or Registrar may impose any reasonable conditions on the exercise of the warrant that he or she thinks fit.
 
@@ -257,7 +257,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
   (b) which of the offences listed in section 30 the warrant has been issued in respect of; and
   (c) the period during which the warrant may be executed, which must not exceed 14 days from the date of issue; and
   (d) any conditions that apply to the warrant under section 30(3).
-(2) The warrant must be directed generally to every member of the police.
+(2) The warrant must be directed generally to every constable.
 
 ### 32 Powers conferred by warrant
 (1) Subject to any conditions stated in the warrant, a warrant under section 30 authorises the person executing it to—
@@ -269,18 +269,18 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 (3) The power to enter a place under the warrant may be exercised once only.
 
 ### 33 Requirements when executing warrant
-(1) A member of the police who executes a warrant under section 30 must, on entering the place and when reasonably requested at any subsequent time, produce—
+(1) A constable who executes a warrant under section 30 must, on entering the place and when reasonably requested at any subsequent time, produce—
   (a) the warrant; and
-  (b) if not in uniform, evidence that he or she is a member of the police.
-(2) If the owner or occupier of the place is not present at the time the warrant is executed, the member of the police must—
+  (b) if not in uniform, evidence that he or she is a constable.
+(2) If the owner or occupier of the place is not present at the time the warrant is executed, the constable must—
   (a) leave in a prominent location at the place a written statement that includes the following information:
     (i) the time and date of the entry; and
-    (ii) the name of the member of the police who entered the place; and
-    (iii) the fact that the person is a member of the police; and
+    (ii) the name of the constable who entered the place; and
+    (iii) the fact that the person is a constable; and
     (iv) the reasons for the entry; and
-    (v) the address of the police station to which enquiries should be made; and
+    (v) the address of the Police station to which enquiries should be made; and
   (b) take all other reasonable steps to give that information to the owner or occupier of the place.
-(3) If any thing is seized in the execution of the warrant, the member of the police must leave in a prominent location at the place, or deliver or send by registered mail to the owner or occupier within 10 working days after the entry, a written inventory of all things seized.
+(3) If any thing is seized in the execution of the warrant, the constable must leave in a prominent location at the place, or deliver or send by registered mail to the owner or occupier within 10 working days after the entry, a written inventory of all things seized.
 (4) Section 199 of the Summary Proceedings Act 1957 applies to any thing seized in the execution of the warrant (with any necessary modifications).
 
 ## Part 3 — Operator certificates
@@ -320,7 +320,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
     (ii) sections 127 to 144C (includes sexual crimes):
     (iii) Part 8 (includes murder, manslaughter, assault, and abduction):
     (iv) sections 234 to 244 (robbery, extortion, and burglary):
-    (v) section 257A (money laundering).
+    (v) section 257A (money laundering):
   (c) an offence under the Arms Act 1983 that is punishable by imprisonment:
   (d) in relation to the Misuse of Drugs Act 1975,—
     (i) an offence under section 6 (other than possession of a Class C controlled drug):
@@ -338,14 +338,14 @@ Every person commits an offence, and is liable on summary conviction to a fine n
   (b) the applicant is not, and has not recently, been associated or involved with persons who would themselves be disqualified under section 36 and who might reasonably be expected to exert an influence on the applicant.
 (5) The District Court Judge who determines the application—
   (a) may not make the order until at least 2 weeks after receipt of the report provided under subsection (3); and
-  (b) must determine the application on the basis of the material contained in the application, the police report, and any further written material provided by the applicant, whether in response to the police report or otherwise.
+  (b) must determine the application on the basis of the material contained in the application, the Police report, and any further written material provided by the applicant, whether in response to the Police report or otherwise.
 (6) An order waiving disqualification remains in force until it is cancelled under subsection (7) or subsection (8).
 (7) An order waiving a disqualification is cancelled, by operation of this subsection, if the person to whom it applies is convicted of any offence referred to in section 36(2).
 (8) A District Court Judge may cancel an order waiving a person's disqualification if—
-  (a) the police make an application to the Registrar for an order cancelling the waiver; and
-  (b) a copy of the police application is sent to the person at the address supplied in his or her application for a certificate; and
+  (a) the Police make an application to the Registrar for an order cancelling the waiver; and
+  (b) a copy of the Police application is sent to the person at the address supplied in his or her application for a certificate; and
   (c) at least 2 weeks after sending that application, either the Registrar has not received any response from the certificate holder or, if the holder has made submissions in writing, the District Court Judge has considered those submissions; and
-  (d) the District Court Judge is satisfied, on the basis of the police application and any submissions received from the person concerned, that the waiver ought to be cancelled on the grounds that the person is associated or involved with persons who would themselves be disqualified under section 36 and who might reasonably be expected to be exerting an influence over the person.
+  (d) the District Court Judge is satisfied, on the basis of the Police application and any submissions received from the person concerned, that the waiver ought to be cancelled on the grounds that the person is associated or involved with persons who would themselves be disqualified under section 36 and who might reasonably be expected to be exerting an influence over the person.
 
 ### 38 Expiry, renewal, and replacement of certificate
 (1) A certificate expires 1 year after the date on which it is issued.
@@ -364,14 +364,14 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 (3) A person whose certificate is cancelled commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails to return the certificate to a District Court within 1 month of the cancellation of the certificate.
 
 ### 40 Operator to produce certificate on request
-(1) A member of the police may, on producing evidence that he or she is a member of the police, require any person whom the member believes on reasonable grounds is an operator to produce that person's certificate for inspection, and the person must produce his or her certificate to the member, or to another member of the police at a local police station, within 24 hours of the request.
+(1) A constable may, on producing evidence that he or she is a constable, require any person whom the member believes on reasonable grounds is an operator to produce that person's certificate for inspection, and the person must produce his or her certificate to the member, or to another constable at a local Police station, within 24 hours of the request.
 (2) If a request under subsection (1) is made to the holder of a certificate, that holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to produce his or her certificate as required by that subsection.
 
 ### 41 Court records
 (1) Court records concerning the identity of applicants for certificates, applicants for waiver of disqualification, and certificate holders may be searched, inspected, or copied only by—
   (a) the applicant or holder concerned; and
   (b) the Registrar; and
-  (c) the police, but only for the purpose of investigating an offence.
+  (c) the Police, but only for the purpose of investigating an offence.
 (2) Nothing in this section limits the power of the Registrar to prepare and supply (whether for use by the Department for Courts or any other purpose) statistical information about applicants for certificates, applicants for waiver of disqualification, and certificate holders, as long as the information is supplied in a form that does not identify individual applicants or certificate holders.
 (3) A person who, in contravention of this section, obtains or uses information that is sourced from, or purports to be sourced from, the court records referred to in this section commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
 
@@ -441,10 +441,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 **Repeals, amendments, and transitional provisions**
 
 ### 48 Repeals coming into force on day after Royal assent
-(1) The following enactments are repealed:
-  (a) sections 147 to 149A of the Crimes Act 1961 (1961 No 43) (1961 No 43):
-  (b) section 26 of the Summary Offences Act 1981 (1981 No 113) (1981 No 113).
-(2) Sections 30(1)(e), 31(1)(d), and 32 of the Massage Parlours Act 1978 are repealed.
+Amendment(s) incorporated in the Act(s).
 
 ### 49 Repeals and revocations coming into force when Part 3 comes into force
 (1) The Massage Parlours Act 1978 (1978 No 13) is repealed.
@@ -462,11 +459,3 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (c) imposing a penalty for the offence.
 
 ## Schedule Schedule — Consequential amendments to enactments
-
-| Part AB. Offences against the Prostitution Reform Act 2003 |  |
-| --- | --- |
-| Section of Act | Offence |
-| 16 | Inducing or compelling persons to provide commercial sexual services or earnings from prostitution |
-
-| The Prostitution Reform Act 2003 | section 23 | Offence to breach prohibitions on use in prostitution of persons under 18 years |
-| --- | --- | --- |
