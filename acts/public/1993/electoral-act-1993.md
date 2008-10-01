@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -493,7 +493,7 @@ A member of Parliament ceasing to be registered as an elector shall not from tha
   (a) means—
     (i) a public servant; and
     (ii) any other person whose conditions of employment are prescribed under, or are required by any enactment to be prescribed in accordance with or having regard to provisions of, the State Sector Act 1988; and
-  (b) includes members of the New Zealand Police.
+  (b) includes employees of the New Zealand Police.
 (2) Any State servant who desires to become a candidate for election as a member of Parliament shall be placed on leave of absence for the purposes of his or her candidature.
 (3) Subject to subsection (4), the period of leave shall commence on nomination day, and, in the event of his or her nomination as a constituency candidate or of the inclusion of his or her name in a list submitted under section 127, shall continue until the first working day after polling day, unless, in any case where he or she is a constituency candidate, he or she withdraws his or her nomination.
 (4) Where the employer of any State servant is satisfied that the State servant desires to become a candidate and that the candidacy will materially affect the ability of that State servant—the period of leave shall, if the employer so determines after consultation with the State servant, commence before nomination day on a day appointed by the employer.
