@@ -1,5 +1,5 @@
 # Petroleum Demand Restraint Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to make provision for the imposition of measures restraining the demand for petroleum products or ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand
 
@@ -15,6 +15,7 @@ In this Act, unless the context otherwise requires,—
       (ii) any person other than in his or her capacity as an officer or employee of the Crown or any such body; and
     (c) Which do not prescribe offences:
     (c) which do not prescribe offences
+  - **engine fuel** has the meaning given by section 1B of the Energy (Fuels, Levies, and References) Act 1989
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Petroleum demand restraint regulations** means regulations made under this Act
   - **Petroleum products** —
@@ -45,15 +46,15 @@ This Act shall bind the Crown.
 ### 4 Petroleum demand restraint regulations
 (1) Subject to section 5 of this Act, the Governor-General may from time to time, by Order in Council, make regulations (in this Act referred to as petroleum demand restraint regulations) for the purpose of restraining the demand for, or reducing the consumption of, petroleum products in New Zealand or for the purpose of ensuring the equitable distribution in New Zealand of petroleum products that are, or are likely to be, in short supply in New Zealand.
 (2) Regulations made under this section may—
-  (a) Control, regulate, prohibit, or otherwise make provision as to the acquisition, distribution, supply, storage, sale, or use of petroleum products in New Zealand:
+  (a) Control, regulate, prohibit, or otherwise make provision as to the acquisition, distribution, supply, storage, sale, or use of petroleum products or engine fuel in New Zealand:
   (b) Restrict, regulate, or prohibit the use of motor vehicles or of any class of motor vehicles:
-  (c) Prescribe a scheme for the rationing of petroleum products or of any class of petroleum products:
+  (c) Prescribe a scheme for the rationing of petroleum products or engine fuel or of any class of petroleum products or engine fuel:
   (d) Authorise the Governor-General, by Order in Council, to determine or alter the value of any coupons issued under any rationing scheme or to cancel any such coupons:
   (e) Enable coupons issued under any rationing scheme to be transferred, with or without consideration:
   (f) Authorise the Secretary ... to buy and sell coupons issued under any rationing scheme:
   (g) Provide for appeals against decisions made under the regulations:
   (h) Provide for exemptions from the regulations:
-  (i) Provide for the setting aside of reserve supplies of crude petroleum, condensate, or petroleum products or of any class of crude petroleum, condensate, or petroleum products:
+  (i) Provide for the setting aside of reserve supplies of crude petroleum, condensate, or petroleum products or engine fuel or of any class of crude petroleum, condensate, or petroleum products:
   (j) Provide for the appointment of officers and committees and other bodies (including tribunals), and define their functions and powers:
   (k) Deem any tribunal established by the regulations to be a commission of inquiry under the Commissions of Inquiry Act 1908; and apply that Act to any such tribunal with such modifications, if any, as are specified in the regulations:
   (ka)
@@ -63,8 +64,8 @@ This Act shall bind the Crown.
   (o) Provide for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
 (3) Any regulations made under this section may empower or provide for empowering such authorities, tribunals, persons, or classes of persons as may be specified in the regulations to give directions, notices, exemptions, or consents or make orders for any of the purposes for which regulations are authorised by this section to be made, and may contain such incidental and supplementary provisions as appear to the Governor-General in Council to be necessary or expedient for the purposes of the regulations.
 (4) Any regulations made under this section—
-  (a) May relate to petroleum products or classes of petroleum products generally; or
-  (b) May relate to particular petroleum products or particular classes of petroleum products; or
+  (a) May relate to petroleum products or engine fuel or classes of petroleum products or engine fuel generally; or
+  (b) May relate to particular petroleum products or engine fuel or particular classes of petroleum products or engine fuel; or
   (c) May make different provision in respect of different classes of persons.
 (5) All regulations made under this section shall be laid before the House of Representatives not later than the 16th sitting day of the House of Representatives after the day on which they are made.
 
@@ -75,7 +76,7 @@ This Act shall bind the Crown.
     (ii) In the case of regulations that apply only within a specified part or subdivision of a district of a local authority or within any specified part of New Zealand, in the area to which the regulations apply,—
   (b) The regulations provide (to the extent that they are not administrative regulations) that they shall come into force on a date to be appointed by Order in Council.
 (2) No Order in Council shall be made under any provision to which subsection (1)(b) of this section applies unless the Governor-General in Council is satisfied, in respect of the regulations to which the order relates, as to the matters specified in subparagraph (i) or subparagraph (ii) of subsection (1)(a) of this section, and so recites in the Order in Council.
-(3) Section 24 of the Acts Interpretation Act 1924 shall have effect subject to subsections (1) and (2) of this section.
+(3) Section 24 of the Interpretation Act 1999 has effect subject to subsections (1) and (2) of this section.
 
 ### 6 Regulations to expire unless confirmed by Act
 (1) All regulations laid before the House of Representatives in any session pursuant to section 4(5) of this Act shall expire on the close of the last day of that session except so far as they are expressly validated or confirmed by an Act of Parliament passed during that session.
@@ -84,14 +85,14 @@ This Act shall bind the Crown.
 
 ### 7 Power of Minister to give directions
 (1) Petroleum demand restraint regulations may authorise the Minister, after he has held appropriate consultations, to give, or revoke or vary, for the purposes of those regulations, directions—
-  (a) To any person carrying on an undertaking in the course of which he acquires, supplies, or distributes petroleum products, as to the acquisition, supply, or distribution thereof by him in New Zealand:
-  (b) To any person carrying on an undertaking which involves the use of petroleum products, as to the use thereof by him, whether for purposes specified by the Minister or during periods specified by him or otherwise.
+  (a) To any person carrying on an undertaking in the course of which he acquires, supplies, or distributes petroleum products or engine fuel, as to the acquisition, supply, or distribution thereof by him in New Zealand:
+  (b) To any person carrying on an undertaking which involves the use of petroleum products or engine fuel, as to the use thereof by him, whether for purposes specified by the Minister or during periods specified by him or otherwise.
 (2) Without restricting the generality of subsection (1)(b) of this section, petroleum demand restraint regulations may authorise the giving, for the purposes of those regulations, of a direction which—
-  (a) Prohibits or restricts the acquisition, supply, or distribution of petroleum products by or to persons specified by the Minister:
-  (b) Requires the supply or distribution of petroleum products to persons specified by the Minister in accordance with requirements specified by him.
+  (a) Prohibits or restricts the acquisition, supply, or distribution of petroleum products or engine fuel by or to persons specified by the Minister:
+  (b) Requires the supply or distribution of petroleum products or engine fuel to persons specified by the Minister in accordance with requirements specified by him.
 (3) For the purpose of subsection (1) of this section, appropriate consultations means such consultations as the Minister thinks practicable and appropriate—
-  (a) With persons who appear to him to be representative of those suppliers of petroleum products who are likely, in his opinion, to be affected by the directions or with representatives of those persons; and
-  (b) With persons who appear to him to be representative of those users of petroleum products who are likely, in his opinion, to be affected by the directions or with representatives of those persons.
+  (a) With persons who appear to him to be representative of those suppliers of petroleum products or engine fuel who are likely, in his opinion, to be affected by the directions or with representatives of those persons; and
+  (b) With persons who appear to him to be representative of those users of petroleum products or engine fuel who are likely, in his opinion, to be affected by the directions or with representatives of those persons.
 (4) Where the Minister gives, under any petroleum demand restraint regulations, a direction to which this section applies, he shall, as soon as practicable after the giving of that direction, publish in the Gazette and lay before the House of Representatives a copy of the direction.
 
 ### 8 Further provisions as to regulations
@@ -101,7 +102,7 @@ This Act shall bind the Crown.
   (c) The Transport Act 1962; or
   (d) The Land Transport Act 1998.
 (2) Petroleum demand restraint regulations may—
-  (a) Provide that a person acting in compliance with any such regulations, or with any direction or other instrument made thereunder, shall not be liable or held to account for contravening or failing to satisfy, whether in whole or in part, the requirements of any other enactment or of any contractual obligation relating to, or involving, the acquisition, distribution, supply, or use of petroleum products:
+  (a) Provide that a person acting in compliance with any such regulations, or with any direction or other instrument made thereunder, shall not be liable or held to account for contravening or failing to satisfy, whether in whole or in part, the requirements of any other enactment or of any contractual obligation relating to, or involving, the acquisition, distribution, supply, or use of petroleum products or engine fuel:
   (b) Make any incidental, supplementary, or transitional provision which is necessary or expedient for carrying out the purposes of this Act.
 (3) Nothing in section 7 of this Act shall limit the power in section 4 of this Act to make regulations as to any matter mentioned in the said section 7 applicable to all, or any class of, persons to whom, or in respect of whom, directions could be given under, or by virtue of, the said section 7.
 
@@ -144,7 +145,7 @@ The publication in the Gazette or in accordance with the Regulations Act 1936, w
 (3) Every person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
 (4) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or appointment or class of offices or appointments.
 (5) The delegation by the Minister or by any other person of any powers conferred on him by or under this Act or by or under any petroleum demand restraint regulations shall not prevent the personal exercise of those powers by the Minister or by that other person.
-(6) Subject to section 25(e) of the Acts Interpretation Act 1924 and to sections 14 and 15 of the Civil List Act 1979, the Minister shall not delegate the powers conferred on him by section 7 or section 10 of this Act.
+(6) Subject to section 14 of the Interpretation Act 1999 and to sections 14 and 15 of the Civil List Act 1979, the Minister shall not delegate the powers conferred on him by section 7 or section 10 of this Act.
 
 ### 15 Authentication of documents
 Any written notice, direction, approval, requisition, or other instrument, given, granted, or made by the Minister or by any other person authorised in that behalf under this Act or under any petroleum demand restraint regulations shall be sufficiently authenticated if it is signed by the Minister or authorised person or by any person on behalf of and by direction of the Minister or authorised person, as the case may be.
@@ -157,7 +158,7 @@ Any written notice, direction, approval, requisition, or other instrument, given
 (5) Any notice given under this Act or under any petroleum demand restraint regulations may be at any time varied or revoked by a subsequent notice.
 
 ### 17 Power of entry
-(1) Subject to subsection (2) of this section, a person authorised in writing by the Minister may enter any premises or vehicle of a retailer of petroleum products for the purpose of—
+(1) Subject to subsection (2) of this section, a person authorised in writing by the Minister may enter any premises or vehicle of a retailer of petroleum products or engine fuel for the purpose of—
   (a) Securing compliance with any petroleum demand restraint regulations or with any direction, requisition, or condition given or imposed under them; or
   (b) Making enquiries and inspections under the regulations; or
   (c) Purchasing or taking samples of any substance; or
