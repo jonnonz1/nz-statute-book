@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Act 2001
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Injury Prevention, Rehabilitation, and Compensation Act 2001.
@@ -464,7 +464,7 @@ This Part uses and defines the following key terms:
 
 **Principles**
 
-### 20 Cover for personal injury suffered in New Zealand (except mental injury caused by certain criminal acts)
+### 20 Cover for personal injury suffered in New Zealand (except mental injury caused by certain criminal acts or work-related mental injury)
 (1) A person has cover for a personal injury if—
   (a) he or she suffers the personal injury in New Zealand on or after 1 April 2002; and
   (b) the personal injury is any of the kinds of injuries described in section 26(1)(a) or (b) or (c) or (e); and
@@ -531,7 +531,36 @@ This Part uses and defines the following key terms:
     (ii) must advise the Corporation of the judgment:
   (e) if the plaintiff loses cover by virtue of paragraph (a) or paragraph (d), the Corporation may not recover any part of an amount that is deemed by subsection (4)(a) to be an entitlement paid to the plaintiff under the 1992 Act.
 
-### 22 Cover for personal injury suffered outside New Zealand (except mental injury caused by certain criminal acts)
+### 21B Cover for work-related mental injury
+(1) A person has cover for a personal injury that is a work-related mental injury if—
+  (a) he or she suffers the mental injury inside or outside New Zealand on or after 1 October 2008; and
+  (b) the mental injury is caused by a single event of a kind described in subsection (2).
+(2) Subsection (1)(b) applies to an event that—
+  (a) the person experiences, sees, or hears directly in the circumstances described in section 28(1); and
+  (b) is an event that could reasonably be expected to cause mental injury to people generally; and
+  (c) occurs—
+    (i) in New Zealand; or
+    (ii) outside New Zealand to a person who is ordinarily resident in New Zealand when the event occurs.
+(3) For the purposes of this section, it is irrelevant whether or not the person is ordinarily resident in New Zealand on the date on which he or she suffers the mental injury.
+(4) Section 36(1) describes how the date referred to in subsection (3) is determined.
+(5) In subsection (2)(a), a person experiences, sees, or hears an event directly if that person—
+  (a) is involved in or witnesses the event himself or herself; and
+  (b) is in close physical proximity to the event at the time it occurs.
+(6) To avoid doubt, a person does not experience, see, or hear an event directly if that person experiences, sees, or hears it through a secondary source, for example, by—
+  (a) seeing it on television (including closed circuit television):
+  (b) seeing pictures of, or reading about, it in news media:
+  (c) hearing it on radio or by telephone:
+  (d) hearing about it from radio, telephone, or another person.
+(7) In this section, event—
+  (a) means—
+    (i) an event that is sudden; or
+    (ii) a direct outcome of a sudden event; and
+  (b) includes a series of events that—
+    (i) arise from the same cause or circumstance; and
+    (ii) together comprise a single incident or occasion; but
+  (c) does not include a gradual process.
+
+### 22 Cover for personal injury suffered outside New Zealand (except mental injury caused by certain criminal acts or work-related mental injury)
 (1) A person has cover for a personal injury if—
   (a) he or she suffers the personal injury outside New Zealand on or after 1 April 2002; and
   (b) the personal injury is any of the kinds of injuries described in section 26(1)(a) or (b) or (c) or (e); and
@@ -545,6 +574,7 @@ This Part uses and defines the following key terms:
   (c) the person is ordinarily resident in New Zealand when the treatment is given (whether or not he or she is ordinarily resident in New Zealand on the date on which he or she suffers the personal injury).
 (5) Section 38 describes how the date on which the person suffers the personal injury referred to in subsection (4)(c) is determined.
 (6) A person who suffers personal injury that is mental injury in circumstances described in section 21 has cover under section 21, but not under this section.
+(7) A person who suffers personal injury that is work-related mental injury in circumstances described in section 21B has cover under section 21B, but not under this section.
 
 ### 23 Cover for personal injury suffered by persons not ordinarily resident in New Zealand: exclusions while travelling to, around, and from New Zealand
 (1) A person not ordinarily resident in New Zealand does not have cover for a personal injury if he or she suffers it while he or she—
@@ -594,6 +624,7 @@ This Part uses and defines the following key terms:
   (b) physical injuries suffered by a person, including, for example, a strain or a sprain; or
   (c) mental injury suffered by a person because of physical injuries suffered by the person; or
   (d) mental injury suffered by a person in the circumstances described in section 21; or
+  (da) work-related mental injury that is suffered by a person in the circumstances described in section 21B; or
   (e) damage (other than wear and tear) to dentures or prostheses that replace a part of the human body.
 (2) Personal injury does not include personal injury caused wholly or substantially by a gradual process, disease, or infection unless it is personal injury of a kind described in section 20(2)(e) to (h).
 (3) Personal injury does not include a cardio-vascular or cerebro-vascular episode unless it is personal injury of a kind described in section 20(2)(i) or (j).
@@ -619,6 +650,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
 (2) In subsection (1)(d), most direct practicable route does not include those parts of a route that deviate unreasonably from, or interrupt, a journey for purposes unrelated to the employment or the treatment.
 (3) Work-related personal injury includes a cardio-vascular or cerebro-vascular episode suffered by a person, if the episode is caused by physical effort or physical strain, in performing his or her employment, that is abnormal in application or excessive in intensity for the person.
 (4) Work-related personal injury includes personal injury caused by a work-related gradual process, disease, or infection.
+(4A) Work-related personal injury includes work-related mental injury that is suffered in the circumstances described in section 21B.
 (5) Work-related personal injury includes personal injury suffered by a person resulting from treatment for a work-related personal injury as defined in subsections (1), (3), or (4), whether or not the injury is a treatment injury as defined in section 32.
 (6) Work-related personal injury does not include personal injury suffered by a person when all the following conditions exist:
   (a) the personal injury is suffered in any of the circumstances described in subsection (1); and
@@ -749,9 +781,11 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
     (ii) arises out of the circumstances on which the earlier claim was based.
 
 ### 35 Motor vehicle injury
-(1) Motor vehicle injury means—
-  (a) a personal injury suffered because of the movement of a motor vehicle; or
-  (b) a personal injury suffered because of a stationary motor vehicle being struck by another motor vehicle or some other means of conveyance.
+(1) Motor vehicle injury—
+  (a) means—
+    (i) a personal injury suffered because of the movement of a motor vehicle; or
+    (ii) a personal injury suffered because of a stationary motor vehicle being struck by another motor vehicle or some other means of conveyance; but
+  (b) does not include a personal injury that is a work-related mental injury.
 (2) However, motor vehicle injury does not include a personal injury suffered—
   (a) in the course of loading, unloading, repairing, or servicing a motor vehicle; or
   (b) in the course of any use of a motor vehicle other than as a means of conveyance; or
@@ -762,7 +796,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
 **Relevant dates of injury**
 
 ### 36 Date on which person is to be regarded as suffering mental injury
-(1) The date on which a person suffers mental injury in the circumstances described in section 21 is the date on which the person first receives treatment for that mental injury as that mental injury.
+(1) The date on which a person suffers mental injury in the circumstances described in section 21 or 21B is the date on which the person first receives treatment for that mental injury as that mental injury.
 (2) The date on which a person suffers mental injury because of physical injuries suffered by the person is the date on which the physical injuries are suffered.
 (3) In subsection (1), treatment means treatment of a type that the person is entitled to under this Act or a former Act.
 (4) This section does not apply for the purposes of clause 55 of Schedule 1.
@@ -927,7 +961,7 @@ The Corporation must make every decision on a claim on reasonable grounds, and i
 
 ### 57 Steps Corporation takes to action complicated claims for cover
 (1) This section applies to a claim for cover—
-  (a) for mental injury in the circumstances described in section 21:
+  (a) for mental injury in the circumstances described in section 21 or 21B:
   (b) for personal injury caused by a work-related gradual process, disease, or infection:
   (c) for personal injury caused by treatment:
   (d) lodged outside the period stated in section 53.
@@ -1193,12 +1227,13 @@ The purpose of social rehabilitation is to assist in restoring a claimant's inde
 **Vocational rehabilitation**
 
 ### 85 Corporation liable to provide vocational rehabilitation
-The Corporation is liable to provide vocational rehabilitation to a claimant who—
+(1) The Corporation is liable to provide vocational rehabilitation to a claimant who—
   (a) has suffered personal injury for which he or she has cover; and
   (b) is—
     (i) entitled to weekly compensation; or
     (ii) likely, unless he or she has vocational rehabilitation, to be entitled to weekly compensation; or
     (iii) on parental leave.
+(2) Despite subsection (1)(b)(i), the Corporation is liable to provide vocational rehabilitation to a person who was entitled to weekly compensation and who would, but for clause 52 of Schedule 1 (relationship between weekly compensation and New Zealand superannuation), continue to be entitled to weekly compensation.
 
 ### 86 Matters to be considered in deciding whether to provide vocational rehabilitation
 (1) In deciding whether to provide vocational rehabilitation, the Corporation must have regard to the matters in section 87.
@@ -1216,6 +1251,12 @@ The Corporation is liable to provide vocational rehabilitation to a claimant who
   (b) whether the vocational rehabilitation is likely to be cost-effective, having regard to the likelihood that costs of entitlements under this Act will be reduced as a result of the provision of vocational rehabilitation; and
   (c) whether the vocational rehabilitation is appropriate in the circumstances.
 (2) The corporation must provide the vocational rehabilitation for the minimum period necessary to achieve its purpose, but must not provide any vocational rehabilitation for longer than 3 years (which need not be consecutive).
+(2A) Subsection (2) is subject to subsection (2B).
+(2B) Despite subsection (2), the Corporation may, at its discretion, provide vocational rehabilitation for longer than 3 years if the Corporation considers that—
+  (a) the vocational rehabilitation would be likely to achieve its purpose under the claimant’s individual rehabilitation plan; and
+  (b) the vocational rehabilitation would be likely to be cost-effective, having regard to the likelihood that costs of entitlements under this Act will be reduced as a result of the provision of vocational rehabilitation; and
+  (c) the vocational rehabilitation would be appropriate in the circumstances.
+(2C) However, despite subsections (1)(b) and (2B)(b), the Corporation must not take into account as a factor against providing vocational rehabilitation that the claimant is, or may become, a person to whom clause 52 of Schedule 1 (relationship between weekly compensation and New Zealand superannuation) applies.
 (3) This section is subject to any regulations made under section 324.
 
 ### 88 Vocational rehabilitation may start or resume if circumstances change
@@ -1240,6 +1281,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (a) take into account information provided by the Corporation and the claimant; and
   (b) discuss with the claimant all the types of work that are available in New Zealand and suitable for the claimant; and
   (c) consider any comments the claimant makes to the assessor about those types of work.
+(1A) In considering the suitability of the types of work referred to in subsection (1)(b), the occupational assessor must take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an initial occupational assessment.
 
 ### 92 Report on initial occupational assessment
@@ -2431,6 +2473,10 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (4) The levy payable under section 213(2)(c) is payable—
   (a) at the rate or rates per litre or other unit prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996.
+(4A) In this section and in section 213, a reference to excise duty or excise-equivalent duty being payable includes a reference to excise duty or excise-equivalent duty being payable except that the rate of duty is zero.
+(4B) The levy must be paid to the New Zealand Customs Service—
+  (a) by the person who would be liable to pay excise duty or excise-equivalent duty if any were payable; and
+  (b) when any excise duty or excise-equivalent duty would be paid if any were payable.
 (5) The rate or rates of the levy prescribed by regulations made under this Act, and the rate prescribed by subsection (4)(b), are exclusive of goods and services tax.
 
 ### 215 Basis on which funds to be calculated
@@ -4529,6 +4575,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (b) consider the individual rehabilitation plan prepared for the claimant and review the vocational rehabilitation carried out under the plan; and
   (c) discuss with the claimant all the types of work that the assessor identifies as suitable for the claimant; and
   (d) consider any comments the claimant makes to the assessor about those types of work.
+(1A) In considering the suitability of the types of work referred to in subclause (1)(c), the occupational assessor must take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an occupational assessment.
 
 ### 26 Report on occupational assessment
