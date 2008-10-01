@@ -1,5 +1,5 @@
 # Alcoholism and Drug Addiction Act 1966
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the Reformatory Institutions Act 1909 and its amendments, and to make better provision for the care and treatment of alcoholics and drug addicts
 
@@ -9,15 +9,15 @@ _Consolidation as at 2007-09-03_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Alcoholic** means a person whose persistent and excessive indulgence in alcoholic liquor is causing or is likely to cause serious injury to his health or is a source of harm, suffering, or serious annoyance to others or renders him incapable of properly managing himself or his affairs
-  - **Committal order** means an order requiring a person to be detained in an institution for treatment for alcoholism (other than an order made under section 8 of this Act)
-  - **Institution** means a certified institution under this Act
-  - **Managers** , in relation to any institution (other than an institution conducted by the Crown), means the person or body of persons having the possession and control of the institution
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **alcoholic** means a person whose persistent and excessive indulgence in alcoholic liquor is causing or is likely to cause serious injury to his health or is a source of harm, suffering, or serious annoyance to others or renders him incapable of properly managing himself or his affairs
+  - **committal order** means an order requiring a person to be detained in an institution for treatment for alcoholism (other than an order made under section 8)
+  - **institution** means a certified institution under this Act
+  - **managers** , in relation to any institution (other than an institution conducted by the Crown), means the person or body of persons having the possession and control of the institution
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of Health
-  - **Patient** means any person in respect of whom an order is in force for his detention in an institution, whether he is for the time being in the institution or elsewhere or is absent on leave under the provisions of this Act
-  - **Superintendent** , in relation to any institution, means the chief resident officer of the institution
-  - **Supervising Committee** , in relation to any institution, means a Supervising Committee appointed for the institution under section 7 of this Act.
+  - **patient** means any person in respect of whom an order is in force for his detention in an institution, whether he is for the time being in the institution or elsewhere or is absent on leave under the provisions of this Act
+  - **superintendent** , in relation to any institution, means the chief resident officer of the institution
+  - **supervising committee** , in relation to any institution, means a supervising committee appointed for the institution under section 7.
 
 ### 3 Drug addicts
 This Act shall apply, in the same way as it applies to an alcoholic, to any person whose addiction to intoxicating, stimulating, narcotic, or sedative drugs is causing or is likely to cause serious injury to his health or is a source of harm, suffering, or serious annoyance to others or renders him incapable of properly managing himself or his affairs.
@@ -28,32 +28,32 @@ This Act shall apply, in the same way as it applies to an alcoholic, to any pers
 (3) There may be paid to the members of any such committee, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the committee were a statutory Board within the meaning of that Act.
 (4) Subject to the provisions of this Act and of any regulations made under this Act, every such committee may regulate its own procedure.
 
-## Part  — Certified institutions
+**Certified institutions**
 
 ### 5 Certified institutions
-(1) Where any person or body of persons (whether incorporated or not) is desirous of establishing or maintaining an institution under this Act, the Governor-General may by Order in Council, on the recommendation of the Minister made on the application of that person or body, and if satisfied in respect of the fitness of the institution and of that person or body, certify the institution as an institution under this Act:
+(1) Where any person or body of persons (whether incorporated or not) is desirous of establishing or maintaining an institution under this Act, the Governor-General may by Order in Council, on the recommendation of the Minister made on the application of that person or body, and if satisfied in respect of the fitness of the institution and of that person or body, certify the institution as an institution under this Act.
 (2)
 (3) Any such Order may at any time be revoked by the Governor-General by Order in Council; and thereupon the institution shall cease to be an institution under this Act as from the date specified in that behalf in the last-mentioned Order.
 
 ### 6 Existing institutions
 Every institution which at the commencement of this Act is a certified Inebriates Home under the Reformatory Institutions Act 1909 shall be deemed to be a certified institution under this Act; and all the provisions of this Act shall apply thereto and to all persons received and detained therein, whether before or after the commencement of this Act:
-  Provided that any person detained in any such institution at the commencement of this Act shall be discharged on the date on which he would have been discharged if this Act had not been passed unless an order is made under this Act for his discharge on an earlier date.
+provided that any person detained in any such institution at the commencement of this Act shall be discharged on the date on which he would have been discharged if this Act had not been passed unless an order is made under this Act for his discharge on an earlier date.
 
-### 7 Supervising Committees for certain institutions
-(1) For the purposes of this Act the Minister may if the Minister thinks fit from time to time appoint, for any institution under this Act, a Supervising Committee, which shall have such functions as are conferred upon it by or under this Act.
-(2) Every such Committee shall consist of a District Court Judge, the superintendent of the institution, a medical practitioner attending the institution, and one other person.
-(3) The members of the Committee, other than the superintendent of the institution and the medical practitioner attending the institution, shall be appointed for a term of 3 years, but may from time to time be reappointed, or may at any time be removed from office by the Minister, or may at any time resign their office by writing addressed to the Minister.
-(4) The District Court Judge shall be the Chairman of the Committee.
-(5) The Chairman and the superintendent of the institution shall constitute a quorum at any meeting of the Committee.
-(6) The Chairman shall preside at all meetings of the Committee and shall have a deliberative vote, and, in the case of an equality of votes, shall also have a casting vote.
-(7) Every question before any meeting of the Committee shall be determined by a majority of the votes of the members present and voting thereon.
-(8) In any case where the Chairman of the Committee is prevented by illness or absence or any other cause from acting in his office, any District Court Judge may act in his place, and while so acting shall have all the powers and may perform the functions of the Chairman.
-(9) In the absence from any meeting of the Committee of the superintendent of the institution, any person authorised in that behalf by the superintendent may attend the meeting in his stead, and while so attending shall be deemed to be the superintendent of the institution.
-(10) The fact that any District Court Judge is acting for the Chairman or that any person is attending a meeting in the place of the superintendent of the institution shall be conclusive evidence of his authority to do so, and no person shall be concerned to inquire whether the occasion for his so acting or so attending has arisen or ceased.
-(11) Subject to the provisions of this Act and of any regulations made under this Act, the Committee may determine its own procedure.
-(12) There may be paid to the members of any Supervising Committee, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Committee were a statutory Board within the meaning of that Act.
+### 7 Supervising committees for certain institutions
+(1) For the purposes of this Act, the Minister may if the Minister thinks fit from time to time appoint, for any institution under this Act, a supervising committee, which shall have such functions as are conferred upon it by or under this Act.
+(2) Every such committee shall consist of a District Court Judge, the superintendent of the institution, a medical practitioner attending the institution, and 1 other person.
+(3) The members of the committee, other than the superintendent of the institution and the medical practitioner attending the institution, shall be appointed for a term of 3 years, but may from time to time be reappointed, or may at any time be removed from office by the Minister, or may at any time resign their office by writing addressed to the Minister.
+(4) The District Court Judge shall be the chairman of the committee.
+(5) The chairman and the superintendent of the institution shall constitute a quorum at any meeting of the committee.
+(6) The chairman shall preside at all meetings of the committee and shall have a deliberative vote, and, in the case of an equality of votes, shall also have a casting vote.
+(7) Every question before any meeting of the committee shall be determined by a majority of the votes of the members present and voting thereon.
+(8) In any case where the chairman of the committee is prevented by illness or absence or any other cause from acting in his office, any District Court Judge may act in his place, and while so acting shall have all the powers and may perform the functions of the chairman.
+(9) In the absence from any meeting of the committee of the superintendent of the institution, any person authorised in that behalf by the superintendent may attend the meeting in his stead, and while so attending shall be deemed to be the superintendent of the institution.
+(10) The fact that any District Court Judge is acting for the chairman or that any person is attending a meeting in the place of the superintendent of the institution shall be conclusive evidence of his authority to do so, and no person shall be concerned to inquire whether the occasion for his so acting or so attending has arisen or ceased.
+(11) Subject to the provisions of this Act and of any regulations made under this Act, the committee may determine its own procedure.
+(12) There may be paid to the members of any supervising committee, out of money appropriated by Parliament for the purpose, remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the committee were a statutory Board within the meaning of that Act.
 
-## Part  — Orders for detention and treatment
+**Orders for detention and treatment**
 
 ### 8 Voluntary applications for detention in institution
 (1) Any person desirous of being received into an institution may make application in person to a District Court Judge for an order under this section.
@@ -62,13 +62,13 @@ Every institution which at the commencement of this Act is a certified Inebriate
 (4) If the District Court Judge is satisfied, whether by the admission of the applicant or by any other evidence, that the applicant is an alcoholic, and that he fully understands the nature and effect of his application, the District Court Judge may, if he thinks fit, and if he is satisfied that the managers or the superintendent of the institution, as the case may require, are willing to receive the applicant into the institution, make an order in the prescribed form for the detention of the applicant, for treatment for alcoholism, in the institution named in the application.
 
 ### 9 Power of District Court Judge to order detention and treatment on application of relative or other reputable person
-(1) On the application in the prescribed form of a relative (as defined in this section) of any person, or on the application in the prescribed form of a member of the Police or of any other reputable person, that the person to whom the application relates is an alcoholic, any District Court Judge may if he thinks fit issue his summons to the alleged alcoholic to show cause why an order should not be made requiring him to be detained for treatment for alcoholism in an institution.
-(2) Where the application is made by a member of the Police or by any person who is not a relative of the alleged alcoholic, the application shall contain a statement of the reason why it is made by the applicant instead of by a relative.
+(1) On the application in the prescribed form of a relative (as defined in this section) of any person, or on the application in the prescribed form of a constable or of any other reputable person, that the person to whom the application relates is an alcoholic, any District Court Judge may if he thinks fit issue his summons to the alleged alcoholic to show cause why an order should not be made requiring him to be detained for treatment for alcoholism in an institution.
+(2) Where the application is made by a constable or by any person who is not a relative of the alleged alcoholic, the application shall contain a statement of the reason why it is made by the applicant instead of by a relative.
 (3) All statements contained in the application shall be verified by the statutory declaration of the applicant or of some other person, unless the District Court Judge otherwise permits, and, if the District Court Judge sees fit, by the evidence on oath of the applicant or some other person at the hearing of the application.
 (4) If, on any such application as aforesaid, the District Court Judge is satisfied, by evidence on oath, that a warrant is necessary to compel the attendance of the alleged alcoholic or that other circumstances exist that render the issue of a warrant expedient the District Court Judge may, whether or not a summons has been issued or served, issue his warrant for the arrest of the alleged alcoholic. Every person arrested pursuant to any such warrant shall be brought before a District Court Judge, as soon as possible, to be dealt with in accordance with this Act.
-(5) If the District Court Judge is satisfied that the alleged alcoholic has refused to undergo examination by 2 medical practitioners for the purposes of this Act or has wilfully failed to attend for any medical examination required for the purposes of this Act, he may issue his warrant under subsection (4) of this section for the arrest of the alleged alcoholic and may at the same time order that the alleged alcoholic shall, after his arrest, undergo medical examination by 2 medical practitioners.
-(6) On the hearing of the application the District Court Judge shall not make an order under subsection (7) of this section unless 2 medical practitioners either give evidence to the effect or give certificates in the prescribed form to the effect that they believe the alleged alcoholic to be an alcoholic within the meaning of this Act and that the making of an order for his detention and treatment as such is expedient in his own interest or in that of his relatives.
-(7) Subject to subsection (6) of this section, on the hearing of the application, the alleged alcoholic being then present before him, the District Court Judge may, if he thinks fit, and if he is satisfied of the truth of the application, and that the managers or the superintendent of an institution, as the case may require, are willing to receive the alcoholic into the institution, make an order requiring the alcoholic to be detained for treatment for alcoholism in that institution.
+(5) If the District Court Judge is satisfied that the alleged alcoholic has refused to undergo examination by 2 medical practitioners for the purposes of this Act or has wilfully failed to attend for any medical examination required for the purposes of this Act, he may issue his warrant under subsection (4) for the arrest of the alleged alcoholic and may at the same time order that the alleged alcoholic shall, after his arrest, undergo medical examination by 2 medical practitioners.
+(6) On the hearing of the application the District Court Judge shall not make an order under subsection (7) unless 2 medical practitioners either give evidence to the effect or give certificates in the prescribed form to the effect that they believe the alleged alcoholic to be an alcoholic within the meaning of this Act and that the making of an order for his detention and treatment as such is expedient in his own interest or in that of his relatives.
+(7) Subject to subsection (6), on the hearing of the application, the alleged alcoholic being then present before him, the District Court Judge may, if he thinks fit, and if he is satisfied of the truth of the application, and that the managers or the superintendent of an institution, as the case may require, are willing to receive the alcoholic into the institution, make an order requiring the alcoholic to be detained for treatment for alcoholism in that institution.
 (8) In this section, relative means, in relation to an alleged alcoholic (A), any of the following:
   (a) A's spouse, civil union partner, or de facto partner:
   (b) A's parent, grandparent, sibling, half-sibling, child, grandchild, or step-child:
@@ -80,58 +80,58 @@ Every institution which at the commencement of this Act is a certified Inebriate
 
 ### 11 Mode of computing period of detention
 (1) The period of the detention of any person in an institution under any order made pursuant to this Act shall be computed from the date of his first reception into an institution pursuant to the order.
-(2) Any period during which a person is lawfully absent on leave from an institution, or is absent pursuant to section 22 of this Act, shall be computed as part of the period of his detention.
+(2) Any period during which a person is lawfully absent on leave from an institution, or is absent pursuant to section 22, shall be computed as part of the period of his detention.
 (3) No period during which any person is detained in any prison, or is absent from an institution under this Act after the revocation of an order releasing him on leave of absence, or after his escape from the institution, shall be computed as part of the period of his detention.
 (4) Except as provided in this section, the period of detention of any person shall be computed continuously from the date of his actual reception into the institution.
 
-## Part  — Reception, transfer, and discharge
+**Reception, transfer, and discharge**
 
 ### 12 Enforcement of order of detention when term of imprisonment imposed
-When an order is made under this Act for the detention of any person in an institution, and at the same time, or at any time thereafter while he remains a patient of the institution, he is sentenced to imprisonment for any offence, he shall on the expiry of the period of his sentence, or on his earlier release from custody under that sentence, be taken by any member of the Police, or by an officer of any prison, to the institution under this Act in which he is ordered to be detained, and he shall be detained there in accordance with the order:
-  Provided that where the sentence was imposed while he was a patient at the institution he shall not be so taken to it if more than 2 years have elapsed since his first reception in an institution pursuant to the order.
+When an order is made under this Act for the detention of any person in an institution, and at the same time, or at any time thereafter while he remains a patient of the institution, he is sentenced to imprisonment for any offence, he shall on the expiry of the period of his sentence, or on his earlier release from custody under that sentence, be taken by any constable, or by an officer of any prison, to the institution under this Act in which he is ordered to be detained, and he shall be detained there in accordance with the order:
+provided that where the sentence was imposed while he was a patient at the institution he shall not be so taken to it if more than 2 years have elapsed since his first reception in an institution pursuant to the order.
 
 ### 13 Pending reception into institution, person may be detained
 After the making of an order for the detention of any person under this Act, and pending the reception of that person into an institution pursuant to the order, the District Court Judge by whom the order is made, or the Minister, may give such directions as he thinks fit in respect of the custody of that person, and may direct that he be kept in any police station, psychiatric hospital within the meaning of the Mental Health Act 1969, or other place of confinement:
-  Provided that the total period for which a person may be detained in custody under the authority of this section shall not exceed 10 days and any part of that period during which he is detained in a police station shall not exceed 48 hours.
+provided that the total period for which a person may be detained in custody under the authority of this section shall not exceed 10 days and any part of that period during which he is detained in a police station shall not exceed 48 hours.
 
 ### 14 Power of arrest
-Any member of the Police may arrest any person ordered to be detained under this Act and take him into custody for detention in accordance with the order and the provisions of this Act.
+Any constable may arrest any person ordered to be detained under this Act and take him into custody for detention in accordance with the order and the provisions of this Act.
 
 ### 15 Detention during transit
 While any patient is being taken to or from any institution, he may be detained in any other institution or in a police station, psychiatric hospital within the meaning of the Mental Health Act 1969, or other place of confinement.
 
 ### 16 Patient unlawfully absent may be arrested without warrant
-Any patient may at any time while he is absent from the institution without lawful justification, whether by reason of his escape from lawful custody or by reason of any other circumstance, be arrested without warrant by any member of the Police or by any officer or servant employed in or about the institution, and may thereupon be taken to the institution or otherwise dealt with according to law.
+Any patient may at any time while he is absent from the institution without lawful justification, whether by reason of his escape from lawful custody or by reason of any other circumstance, be arrested without warrant by any constable or by any officer or servant employed in or about the institution, and may thereupon be taken to the institution or otherwise dealt with according to law.
 
 ### 17 Discharge, transfer, or release on leave of patients
-(1) Subject to the provisions of this Act, the Minister, or the Supervising Committee (if any) of an institution, or the person in charge of a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, may at any time by order in writing—
-  (a) Discharge any patient:
-  (b) Transfer any patient who is detained under a committal order from one institution to any other institution under this Act with the consent of the medical superintendent or of the governing body of the receiving institution:
-  (c) Release any patient on leave of absence for any period not exceeding the balance of the period of 2 years for which he is liable to be detained, upon and subject to such terms and conditions (to be specified in the order) as the Minister or the Supervising Committee or the superintendent thinks fit.
+(1) Subject to the provisions of this Act, the Minister, or the supervising committee (if any) of an institution, or the person in charge of a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, may at any time by order in writing—
+  (a) discharge any patient:
+  (b) transfer any patient who is detained under a committal order from one institution to any other institution under this Act with the consent of the medical superintendent or of the governing body of the receiving institution:
+  (c) release any patient on leave of absence for any period not exceeding the balance of the period of 2 years for which he is liable to be detained, upon and subject to such terms and conditions (to be specified in the order) as the Minister or the supervising committee or the superintendent thinks fit.
 (2) Any patient ordered to be transferred from one institution to another under this section—
-  (a) May be taken in custody to that other institution by any member of the Police or by any officer or servant of either of the institutions and, while in such custody, shall be deemed to remain a patient of the institution from which he is transferred:
-  (b) Shall on his reception into the other institution become a patient of that institution and shall be detained there until the expiry of the period for which he is liable to be detained under the original order for detention, unless he is sooner discharged or released on leave or transferred under this Act.
-(3) Any patient who is on leave of absence under paragraph (c) of subsection (1) of this section may at any time during the currency of his period of leave be discharged under paragraph (a) of that subsection.
+  (a) may be taken in custody to that other institution by any constable or by any officer or servant of either of the institutions and, while in such custody, shall be deemed to remain a patient of the institution from which he is transferred:
+  (b) shall on his reception into the other institution become a patient of that institution and shall be detained there until the expiry of the period for which he is liable to be detained under the original order for detention, unless he is sooner discharged or released on leave or transferred under this Act.
+(3) Any patient who is on leave of absence under paragraph (c) of subsection (1) may at any time during the currency of his period of leave be discharged under paragraph (a) of that subsection.
 
 ### 18 Patient may apply for discharge
-(1) Any patient may at any time after the expiration of 6 months from his first reception in an institution pursuant to an order made under section 8 or section 9 of this Act request the Minister or the Supervising Committee or superintendent, as the case may require, in writing to discharge him under paragraph (a) of subsection (1) of section 17 of this Act and, if that request is refused, may then apply to a Judge of the High Court in writing for an order directing that he be discharged from detention under this Act.
+(1) Any patient may at any time after the expiration of 6 months from his first reception in an institution pursuant to an order made under section 8 or section 9 request the Minister or the supervising committee or superintendent, as the case may require, in writing to discharge him under paragraph (a) of subsection (1) of section 17 and, if that request is refused, may then apply to a Judge of the High Court in writing for an order directing that he be discharged from detention under this Act.
 (2) On any such application the Judge may order that the patient be brought before him for examination at a time to be specified in the order.
 (3) If on the examination of the applicant, and on such medical or other evidence as the Judge may require, the Judge is satisfied that the continued detention of the applicant is not expedient, either in his own interest or in the interest of others, or that he is unlawfully detained as an alcoholic, the Judge may by order direct that the patient be discharged, either forthwith or at such time as may be specified in the order, or that he be released on leave of absence for a period, not exceeding the balance of the period of 2 years for which he is liable to be detained, and upon and subject to such terms and conditions as the Judge thinks fit.
 (4) In deciding whether or not to make an order under this section the Judge may take into consideration the fact that any relative, including, without limitation, the patient's spouse, civil union partner, or de facto partner, or friend of the patient is able and willing to take care of him.
 (5) On the taking effect of an order of discharge under this section, the order for detention under which the patient is then detained shall be deemed to be revoked.
 (6) Nothing in this section shall prevent the exercise of any available remedy or proceeding by or on behalf of any person who is or is alleged to be unlawfully detained.
-(7) Where an application under this section is refused a further application under this section shall not be entertained unless 6 months have elapsed since the date of the refusal and unless the application has been preceded by a further request for the discharge of the applicant under paragraph (a) of subsection (1) of section 17 of this Act.
+(7) Where an application under this section is refused a further application under this section shall not be entertained unless 6 months have elapsed since the date of the refusal and unless the application has been preceded by a further request for the discharge of the applicant under paragraph (a) of subsection (1) of section 17.
 
 ### 19 Variation of conditions of leave of absence
-Where a patient is on leave of absence under paragraph (c) of subsection (1) of section 17 of this Act, the Minister, Committee, or superintendent who released the patient on leave of absence may, on the application of the patient, vary or revoke all or any of the terms and conditions on which the patient has been released and where a patient is on leave of absence under subsection (3) of section 18 of this Act, any Judge may, on the application of the patient, make an order varying or revoking all or any of the conditions on which the patient has been released.
+Where a patient is on leave of absence under paragraph (c) of subsection (1) of section 17, the Minister, committee, or superintendent who released the patient on leave of absence may, on the application of the patient, vary or revoke all or any of the terms and conditions on which the patient has been released and where a patient is on leave of absence under subsection (3) of section 18, any Judge may, on the application of the patient, make an order varying or revoking all or any of the conditions on which the patient has been released.
 
 ### 20 Revocation of leave of absence
-(1) Where any patient who is absent on leave from an institution is convicted in any Court of any offence of which drunkenness forms a necessary element, or of any offence which is shown to have been committed under the influence of alcohol or in which drunkenness is shown to be a contributing cause, the Judge or District Court Judge, as the case may be, may if he thinks fit revoke the order under which the patient was released on leave of absence and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
-(2) Where any District Court Judge, on the application of any member of the Police or of any other reputable person, is satisfied that any patient who is absent on leave from an institution has been taking or using in excess alcoholic liquor or any intoxicating, stimulating, narcotic, or sedative drug or drugs, or has contravened or failed to comply with any of the terms or conditions on or subject to which he was released on leave, the District Court Judge may if he thinks fit revoke the order under which the patient was released on leave and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
-(3) On any application under subsection (2) of this section the District Court Judge may, if he thinks fit, issue his warrant for the arrest of the patient.
+(1) Where any patient who is absent on leave from an institution is convicted in any court of any offence of which drunkenness forms a necessary element, or of any offence which is shown to have been committed under the influence of alcohol or in which drunkenness is shown to be a contributing cause, the Judge or District Court Judge, as the case may be, may if he thinks fit revoke the order under which the patient was released on leave of absence and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
+(2) Where any District Court Judge, on the application of any constable or of any other reputable person, is satisfied that any patient who is absent on leave from an institution has been taking or using in excess alcoholic liquor or any intoxicating, stimulating, narcotic, or sedative drug or drugs, or has contravened or failed to comply with any of the terms or conditions on or subject to which he was released on leave, the District Court Judge may if he thinks fit revoke the order under which the patient was released on leave and order that he be returned to the institution or removed to any other institution of a like kind, to be detained there in accordance with the original order for detention.
+(3) On any application under subsection (2) the District Court Judge may, if he thinks fit, issue his warrant for the arrest of the patient.
 (4) Where an order is made under this section the patient may be taken to an institution in the same manner as if the order were an order for detention under this Act.
-(5) On any application under subsection (2) of this section the District Court Judge may, in his discretion, adjourn the determination of the application from time to time, for periods not exceeding one month at any one time and not exceeding 2 months in the aggregate, and may from time to time make such order as he thinks fit for the care, control, and detention of the person to whom the application relates pending the determination of the application.
-(6) On any adjournment under subsection (5) of this section the District Court Judge may, if he thinks fit, cause the person to whom the application relates to be examined by a medical practitioner during the period of the adjournment, and may indicate the matters on which he requires the opinion of any such medical practitioner, and the medical practitioner examining that person pursuant to this subsection shall, upon the completion of such examination, report in writing to the District Court Judge with regard to the material facts and his opinion thereon.
+(5) On any application under subsection (2) the District Court Judge may, in his discretion, adjourn the determination of the application from time to time, for periods not exceeding 1 month at any one time and not exceeding 2 months in the aggregate, and may from time to time make such order as he thinks fit for the care, control, and detention of the person to whom the application relates pending the determination of the application.
+(6) On any adjournment under subsection (5) the District Court Judge may, if he thinks fit, cause the person to whom the application relates to be examined by a medical practitioner during the period of the adjournment, and may indicate the matters on which he requires the opinion of any such medical practitioner, and the medical practitioner examining that person pursuant to this subsection shall, upon the completion of such examination, report in writing to the District Court Judge with regard to the material facts and his opinion thereon.
 
 ### 21 Transfer of prisoner to institution
 (1) The Minister of the Crown who is responsible for the Department of Corrections, with the concurrence of the Minister of Health, may at any time, by order under his hand, transfer to an institution under this Act, for treatment for alcoholism, any person detained in a prison under a sentence of imprisonment.
@@ -139,35 +139,35 @@ Where a patient is on leave of absence under paragraph (c) of subsection (1) of 
 (3) While any person is detained in an institution under this section the term of any sentence he is then liable to serve shall continue to run. If at any time before the expiry of any such sentence he escapes from detention or custody the term of the sentence shall cease to run and shall not begin to run again until he is retaken.
 (4) A person detained in an institution under this section shall not be discharged or permitted to be absent from the institution under this Act except with the consent of the Minister of the Crown who is responsible for the Department of Corrections and on and subject to such terms and conditions as that Minister, with the concurrence of the Minister of Health, may impose.
 (5) The following provisions shall apply in respect of every person detained under this section:
-  (a) The provisions of section 10 of this Act shall apply as if the transfer under this section were an order for detention made under this Act:
-  (b) If every sentence of detention applicable to that person expires, or he is discharged thereunder, before the expiry of the period of 2 years referred to in the said section 10, he shall be discharged from the institution under this Act:
-  (c) If on the expiry of the said period of 2 years he is still liable to detention under any such sentence, he shall be returned to such prison as the Minister of the Crown who is responsible for the Department of Corrections directs.
+  (a) the provisions of section 10 shall apply as if the transfer under this section were an order for detention made under this Act:
+  (b) if every sentence of detention applicable to that person expires, or he is discharged thereunder, before the expiry of the period of 2 years referred to in the said section 10, he shall be discharged from the institution under this Act:
+  (c) if on the expiry of the said period of 2 years he is still liable to detention under any such sentence, he shall be returned to such prison as the Minister of the Crown who is responsible for the Department of Corrections directs.
 
 ### 22 Absence of patient for medical or dental treatment, etc
-(1) Subject to the provisions of this Act, in the case of the illness of any patient, he may, with the consent of the Supervising Committee or, if there is no Supervising Committee, a District Court Judge or the Minister, be removed by the managers or superintendent of the institution to any hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001.
+(1) Subject to the provisions of this Act, in the case of the illness of any patient, he may, with the consent of the supervising committee or, if there is no supervising committee, a District Court Judge or the Minister, be removed by the managers or superintendent of the institution to any hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001.
 (2) Subject to the provisions of this Act, the superintendent of an institution, on the recommendation of the medical practitioner attending the institution, may permit any patient to be absent from the institution for the purpose of receiving medical or dental treatment for any specified period, not exceeding 5 days at any one time.
-(3) Subject to the provisions of this Act, the superintendent of an institution may, with the consent of the Supervising Committee or, if there is no Supervising Committee, a District Court Judge or the Minister, permit any patient to be absent from the institution for any other purpose for any specified period not exceeding 14 days at any one time.
-(4) Any person removed or absent under this section shall be deemed to remain subject to the order by which he was detained in the institution under this Act, and may at any time be returned to the institution by the managers or superintendent of the institution, or by any member of the Police at the request of the managers or superintendent, or by any officer of any hospital or other institution to which he has been so removed.
+(3) Subject to the provisions of this Act, the superintendent of an institution may, with the consent of the supervising committee or, if there is no supervising committee, a District Court Judge or the Minister, permit any patient to be absent from the institution for any other purpose for any specified period not exceeding 14 days at any one time.
+(4) Any person removed or absent under this section shall be deemed to remain subject to the order by which he was detained in the institution under this Act, and may at any time be returned to the institution by the managers or superintendent of the institution, or by any constable at the request of the managers or superintendent, or by any officer of any hospital or other institution to which he has been so removed.
 
 ### 22A Managers to notify Police of deaths
-Where the managers of an institution where a patient is detained pursuant to an order under section 9 of this Act learn that the patient has died (whether within or outside the institution) they shall forthwith notify a member of the Police.
+Where the managers of an institution where a patient is detained pursuant to an order under section 9 learn that the patient has died (whether within or outside the institution) they shall forthwith notify a constable.
 
-## Part  — Appeals
+**Appeals**
 
 ### 23 Appeals against order of District Court Judge
 All the provisions of the Summary Proceedings Act 1957 in respect of appeals from convictions or orders shall apply, with the necessary modifications, to any order for detention and treatment or any order for the return or removal of a patient to an institution on the revocation of an order for leave of absence, made by a District Court Judge or a District Court under this Act, in the same manner as if the person ordered to be so detained and treated or returned or removed had been sentenced to detention within the meaning of the Summary Proceedings Act 1957:
-  Provided that an appeal under this section may be made at any time within 3 weeks after the date on which the order for detention and treatment or return or removal was signed by the District Court Judge.
+provided that an appeal under this section may be made at any time within 3 weeks after the date on which the order for detention and treatment or return or removal was signed by the District Court Judge.
 
-## Part  — Offences
+**Offences**
 
 ### 24 Unlawful detention in institution
-Every person commits an offence against this Act and is liable to imprisonment for a term not exceeding one year or to a fine not exceeding $1,000, or to both, who wilfully detains any other person, or wilfully procures the detention of any other person, in an institution under this Act otherwise than in due course of law, or for a longer period than is authorised by law.
+Every person commits an offence against this Act and is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000, or to both, who wilfully detains any other person, or wilfully procures the detention of any other person, in an institution under this Act otherwise than in due course of law, or for a longer period than is authorised by law.
 
 ### 25 Escaping from institution
 (1) Every patient commits an offence against this Act who—
-  (a) Escapes or attempts to escape from the institution; or
-  (b) Escapes or attempts to escape from lawful custody as a patient; or
-  (c) Wilfully refuses or fails to return to the institution after the expiration or determination of any period of lawful absence therefrom.
+  (a) escapes or attempts to escape from the institution; or
+  (b) escapes or attempts to escape from lawful custody as a patient; or
+  (c) wilfully refuses or fails to return to the institution after the expiration or determination of any period of lawful absence therefrom.
 (2) Every person commits an offence against this Act who induces or knowingly assists any patient to escape from an institution or from lawful custody or who knowingly assists any patient who has so escaped to avoid or attempt to avoid being retaken.
 
 ### 26 Improper conduct
@@ -181,25 +181,25 @@ Every person commits an offence against this Act who wilfully trespasses without
 
 ### 29 Ill-treatment of patients
 Every person commits an offence against this Act who—
-  (a) Ill-treats any patient in an institution; or
-  (b) Being an officer, servant, or other person employed in or about an institution, wilfully neglects any patient.
+  (a) ill-treats any patient in an institution; or
+  (b) being an officer, servant, or other person employed in or about an institution, wilfully neglects any patient.
 
-## Part  — Evidence
+**Evidence**
 
 ### 30 Evidence in proceedings
 In any proceedings under this Act (other than any prosecution for an offence)—
-  (a) The Judge or District Court Judge may receive any evidence that he thinks fit, whether or not the same would be admissible in a Court of law:
-  (b) The husband or wife of the applicant or alleged alcoholic shall be a competent but not compellable witness.
+  (a) the Judge or District Court Judge may receive any evidence that he thinks fit, whether or not the same would be admissible in a court of law:
+  (b) the husband or wife of the applicant or alleged alcoholic shall be a competent but not compellable witness.
 
 ### 31 Medical certificate evidence of certain facts
 Every medical certificate given for the purposes of this Act shall be evidence of the facts therein stated as known to or observed by the certifying medical practitioner, and of the opinion therein stated to have been formed by the certifying medical practitioner as to the condition of the person to whom the certificate relates.
 
 ### 32 Who may not sign medical certificate
-(1) A medical certificate given for the purposes of section 9 of this Act shall not be signed by any of the following persons:
-  (a) The applicant for the order:
-  (b) The superintendent, or a medical officer of the institution into which (if granted) the order would authorise the alleged alcoholic to be received:
+(1) A medical certificate given for the purposes of section 9 shall not be signed by any of the following persons:
+  (a) the applicant for the order:
+  (b) the superintendent, or a medical officer of the institution into which (if granted) the order would authorise the alleged alcoholic to be received:
   (c) a relative, business partner, principal, or assistant of the applicant or of the alleged alcoholic or the guardian or trustee of the alleged alcoholic:
-  (d) Any person by whom the order is made.
+  (d) any person by whom the order is made.
 (2) A medical practitioner who certifies the medical certificate may not be a relative, business partner, principal, or assistant of the other certifying medical practitioner.
 (3) Every such certificate shall contain a statement that the certifying medical practitioner is not prohibited by this Act from signing the same.
 (4) If an employee of a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 applies for a committal order under this Act, a medical practitioner employed by the operator—
@@ -216,21 +216,21 @@ Every medical certificate given for the purposes of this Act shall be evidence o
   (e) a child of the person:
   (f) a spouse, civil union partner, or de facto partner of a person referred to in paragraphs (d) or (e).
 
-## Part  — Procedure
+**Procedure**
 
 ### 33 Notice of order of detention to be given
 When an order is made under this Act or any other enactment for the detention of any person in an institution, or for his return or removal to an institution on the revocation of an order for leave of absence, a minute under the hand of the District Court Judge or of the Registrar or Deputy Registrar of the District Court or of the High Court, as the case may require, shall be sent forthwith—
-  (a) To the Director of the Division of Mental Health in the Ministry of Health; and
-  (b) To the superintendent of the institution.
+  (a) to the Director of the Division of Mental Health in the Ministry of Health; and
+  (b) to the superintendent of the institution.
 
 ### 34 Immaterial errors not to invalidate orders, etc
 No order, warrant, or other document made or issued in respect of any institution under this Act shall be invalidated by any misnomer or erroneous description of the institution, or of any person ordered to be detained, or by any other error or defect of form.
 
 ### 35 Legal proceedings
-(1) Every application made to a Court or a Judge or a District Court Judge under this Act shall be heard and determined in private.
+(1) Every application made to a court or a Judge or a District Court Judge under this Act shall be heard and determined in private.
 (2) Every person who is the subject of any such application shall be entitled to be heard and to give and call evidence and may be represented by a solicitor or counsel.
-(3) No Court fees shall be payable in respect of any such application.
-(4) The determination of an application under section 9 of this Act may be adjourned in accordance with the provisions of section 23 of the Mental Health Act 1969 which section shall apply with such modifications as are necessary, but this subsection shall not limit any other power of the Court, Judge, or District Court Judge to adjourn the determination of the application.
+(3) No court fees shall be payable in respect of any such application.
+(4) The determination of an application under section 9 may be adjourned in accordance with the provisions of section 23 of the Mental Health Act 1969 which section shall apply with such modifications as are necessary, but this subsection shall not limit any other power of the court, Judge, or District Court Judge to adjourn the determination of the application.
 
 ### 36 General penalty
 Every person who commits an offence against this Act for which no penalty is provided elsewhere than in this section is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $200 or to both.
@@ -238,21 +238,10 @@ Every person who commits an offence against this Act for which no penalty is pro
 ### 37 Offences to be punishable on summary conviction
 Every offence against this Act or against any regulations made under this Act shall be punishable on summary conviction.
 
-## Part  — Miscellaneous provisions
+**Miscellaneous provisions**
 
 ### 37A Persons found intoxicated in public place
-(1) For the purposes of this section, the Minister may from time to time, by notice in the Gazette, declare any premises to be a temporary shelter or a detoxification centre.
-(2) Any constable who finds any person intoxicated in any public place—
-  (a) May take or cause that person to be taken to his usual place of residence or, if he is temporarily residing elsewhere, to his temporary place of residence; or
-  (b) If that place cannot reasonably be ascertained or it is not reasonably practicable to take that person to it or it may not be safe to leave him there, may take that person or cause him to be taken to any temporary shelter or detoxification centre; or
-  (c) If neither the course authorised by paragraph (a) nor that authorised by paragraph (b) of this subsection is reasonably practicable, detain or cause that person to be detained in a police station for any period not exceeding 12 hours.
-(2A) Notwithstanding anything in subsection (2) of this section, where it is not immediately practicable for the constable to determine where to take the person in accordance with that subsection, the constable may take the person to a police station and detain that person there for such time as may be reasonably required to enable enquiries to be made as to the appropriate course to be followed.
-(3) If, after being detained under subsection (2)(c) of this section for a period of 12 hours, any person is still, in the opinion of any constable, so intoxicated as to be incapable of properly looking after himself, the constable may take that person or cause him to be taken to a temporary shelter or detoxification centre.
-(4) Where any person is being detained under subsection (2)(c) of this section, he shall be entitled to telephone one person of his choice.
-(5) Every constable is justified in detaining in accordance with this section, for any period not exceeding 12 hours, any person whom he believes on reasonable and probable grounds to be intoxicated.
-(6) Notwithstanding the foregoing provisions of this section, any constable who finds any person subject to the Armed Forces Discipline Act 1971 intoxicated in any public place may, instead of dealing with him under those provisions, deliver or cause him to be delivered into service custody to be dealt with in accordance with that Act.
-(7) For the purposes of this section, a person is intoxicated if he is under the influence of intoxicating liquor, drug, or other substance to such an extent as to be incapable of properly looking after himself.
-(8) In subsection (5) of this section justified means not guilty of an offence and not liable to any civil proceeding.
+[Repealed]
 
 ### 38 Protection from civil or criminal liability of persons acting under authority of this Act
 A person who does any act in pursuance or intended pursuance of any of the provisions of this Act shall not be under any civil or criminal liability in respect thereof, whether on the ground of want of jurisdiction, or mistake of law or fact, or any other ground, unless he has acted in bad faith or without reasonable care, and the provisions of section 124 of the Mental Health Act 1969 shall apply accordingly with such modifications as are necessary.
@@ -262,20 +251,20 @@ There shall be payable to medical practitioners, out of money appropriated by Pa
 
 ### 39 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing the conditions on which institutions may be certified under this Act:
-  (b) Regulating the establishment, management, maintenance, and inspection of institutions:
-  (c) Prescribing and regulating the functions and procedure of Supervising Committees appointed for institutions under this Act:
-  (d) Regulating and prescribing the appointment and duties of officers and servants of institutions:
-  (e) Regulating the classification, treatment, control, and discipline of patients:
-  (f) Prescribing and regulating employment for patients:
-  (g) Prescribing the sums to be paid by patients in respect of their maintenance in institutions, and the cases in which such sums are payable:
-  (h) Prescribing forms and fees for the purposes of this Act:
-  (i) Prescribing offences against any regulations made under this Act, and prescribing fines not exceeding $100 in respect of any such offence:
-  (j) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+  (a) prescribing the conditions on which institutions may be certified under this Act:
+  (b) regulating the establishment, management, maintenance, and inspection of institutions:
+  (c) prescribing and regulating the functions and procedure of supervising committees appointed for institutions under this Act:
+  (d) regulating and prescribing the appointment and duties of officers and servants of institutions:
+  (e) regulating the classification, treatment, control, and discipline of patients:
+  (f) prescribing and regulating employment for patients:
+  (g) prescribing the sums to be paid by patients in respect of their maintenance in institutions, and the cases in which such sums are payable:
+  (h) prescribing forms and fees for the purposes of this Act:
+  (i) prescribing offences against any regulations made under this Act, and prescribing fines not exceeding $100 in respect of any such offence:
+  (j) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Any regulations made under this section may apply either to all institutions under this Act, or to institutions of any specified class, or to any specified institution.
 
 ### 40 Repeals and amendments
-(1) The enactments specified in the Schedule to this Act are hereby repealed.
+(1) The enactments specified in the Schedule are hereby repealed.
 (2) Every reference in any enactment, or in any regulation, order, or warrant, or in any document whatsoever, to a certified inebriates home or an inebriates home shall hereafter, unless the context otherwise requires, be read as a reference to an institution within the meaning of this Act.
 
-## Schedule Schedule — Enactments repealed
+## Schedule  — Enactments repealed
