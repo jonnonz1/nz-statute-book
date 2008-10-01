@@ -1,5 +1,5 @@
 # Human Rights Act 1993
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights.
 
@@ -469,9 +469,9 @@ Nothing in section 22 of this Act shall prevent restrictions imposed by an emplo
 ### 33 Armed Forces
 [Repealed]
 
-### 34 Regular forces and Police
+### 34 Regular forces
 (1) Nothing in section 22(1)(c) or section 22(1)(d) of this Act shall prevent the Chief of Defence Force from instituting, under section 57A of the Defence Act 1990, the discharge or release of a member of the regular forces.
-(2) Nothing in section 22(1)(c) or section 22(1)(d) of this Act shall prevent the Commissioner of Police from instituting, under section 5A of the Police Act 1958, the removal of a member of the Police.
+(2)
 
 ### 35 General qualification on exceptions
 No employer shall be entitled, by virtue of any of the exceptions in this Part of this Act, to accord to any person in respect of any position different treatment based on a prohibited ground of discrimination even though some of the duties of that position would fall within any of those exceptions if, with some adjustment of the activities of the employer (not being an adjustment involving unreasonable disruption of the activities of the employer), some other employee could carry out those particular duties.
