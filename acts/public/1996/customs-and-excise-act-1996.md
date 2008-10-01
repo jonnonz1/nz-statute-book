@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2008-09-17_
+_Consolidation as at 2008-10-01_
 
 > An Act to—aReform the law relating to customs, excise, and other duties; andbProvide for the administration and enforcement of Customs controls at the border; andcRepeal the Customs Act 1966; anddProvide for related matters
 
@@ -95,6 +95,7 @@ _Consolidation as at 2008-09-17_
     (c) A duty imposed pursuant to sections 14, 16, 17, 17A, or 17B of the Dumping and Countervailing Duties Act 1988, including a duty resulting from the application of section 18 or section 19 of that Act; and
     (d) A duty or tax imposed by section 12 of the Goods and Services Tax Act 1985:
     (e) levies imposed by section 213(2)(c) of the Injury Prevention, Rehabilitation, and Compensation Act 2001
+    (f) levies imposed by the Energy (Fuels, Levies, and References) Act 1989
   - **electronic publication** means a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words
   - **Excisable goods** means goods on which excise duty is payable in accordance with Part A of Schedule 3 to this Act
   - **exportation** ,—
@@ -170,8 +171,8 @@ _Consolidation as at 2008-09-17_
   (a) The term alcoholic strength means alcoholic strength by volume at a temperature of 20ºC:
   (b) The alcoholic strength by volume of a mixture of water and ethyl alcohol is the ratio of the volume of alcohol present in the mixture at 20ºC to the total volume of the mixture at the same temperature:
   (c) The expressions percent volume and % vol are used to express alcoholic strength in parts of alcohol per 100 parts of the mixture:
-  (d) The term per litre, in respect of the levying of excise duty, in the case of petroleum products of excise items 99.75.15C, 99.75.18H, and 99.75.65K in Part A of Schedule 3 to this Act, means the quantity of product expressed in litres at a temperature of 15ºC:
-  (e) The term per litre, in respect of the levying of excise-equivalent duty, in the case of petroleum products of excise items 2710.00.18, 2710.00.28, and 2905.11.09 in Part B of Schedule 3 to this Act, means the quantity of product expressed in litres at a temperature of 15ºC.
+  (d) the term ‘per litre’, in respect of the levying of excise duty, for all Excise items under the heading Fuels in Part A of Schedule 3, means the quantity of product expressed in litres at a temperature of 15°C:
+  (e) the term ‘per litre’, in respect of the levying of excise-equivalent duty, for all Tariff items under the heading Fuels in Part B of Schedule 3, means the quantity of product expressed in litres at a temperature of 15°C.
 (3) For the purposes of paragraph (c)(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in Schedule 3 that are neither tobacco nor a fuel, means any 1 or more of the following processes:
   (a) filtering the goods, diluting the goods, or blending the goods with other goods (whether the other goods are the same as, similar to, or different from, the goods):
   (b) putting the goods for the first time into a container (for example, a bag, barrel, bottle, can, cask, drum, or keg) in which they might be presented, or from which they might be dispensed, for sale to the public or any member of the public:
@@ -238,7 +239,7 @@ The Customs flag shall be the New Zealand Ensign with the addition in the fly of
 **Customs controlled areas**
 
 ### 10 Customs controlled areas
-Subject to such exemptions as may be prescribed and to section 12(4) of this Act, no area shall be used for—unless that area is licensed as a Customs controlled area.
+Subject to such exemptions as may be prescribed and to sections 12(4) and 68A of this Act, no area shall be used for—unless that area is licensed as a Customs controlled area.
   (a) The manufacture of goods specified in Part A of Schedule 3 to this Act; or
   (b) The deposit, keeping, or securing of imported or excisable goods, without payment of duty on the goods, pending the export of those goods; or
   (c) The temporary holding of imported goods for the purposes of the examination of those goods under section 151 of this Act (including the holding of the goods while they are awaiting examination); or
@@ -1190,6 +1191,16 @@ Without limiting the power to make regulations conferred by section 286, the Gov
 ### 68 Manufacture of excisable goods
 Subject to such exceptions as may be provided for under this Act, no person shall manufacture goods specified in Part A of Schedule 3 to this Act except in a manufacturing area that is licensed under this Act.
 
+### 68A Exemption for tobacco manufactured for personal use
+(1) Section 68 does not apply to the manufacture of tobacco in a private house or dwelling place, but only if and as long as the conditions specified in subsection (2) are met.
+(2) The conditions are as follows:
+  (a) the tobacco must be manufactured by an individual (the individual) who is 18 years or older:
+  (b) the individual must manufacture the tobacco in the individual’s private house or dwelling place, for the individual’s personal use and not for sale to any other person:
+  (c) the leaves or plants used in the manufacture of the tobacco must have been grown—
+    (i) on the land on which the individual's private house or dwelling place is located; and
+    (ii) for the individual’s personal use and not for sale or other disposition to any other person:
+  (d) the amount of manufactured tobacco that is manufactured in the individual’s private house or dwelling place, in any year ending with 30 June, must not exceed 15 kilograms.
+
 ### 69 Goods deemed to have been manufactured
 For the purposes of this Act,—
   (a) Compressed natural gas is deemed to have been manufactured by a licensee of a manufacturing area when natural gas supplied by the licensee to a compressed natural gas fuelling facility is compressed for use as a motor vehicle fuel:
@@ -1244,7 +1255,8 @@ For the purposes of this Part of this Act, goods are deemed to be removed for ho
 (1) Subject to subsection (2) of this section, where goods specified in Part A of Schedule 3 to this Act are manufactured in an area that is not licensed pursuant to section 12 of this Act, the provisions of this Part and Part 8 of this Act shall apply as if the area were licensed as a manufacturing area under this Act.
 (2) Subsection (1) of this section does not apply in respect of goods—
   (a) That are manufactured in an area that pursuant to a direction of the Chief Executive under section 12(4) of this Act is not required to be licensed; or
-  (b) That are covered by an exemption prescribed under section 10 of this Act.
+  (b) That are covered by an exemption prescribed under section 10 of this Act; or
+  (c) that are manufactured in accordance with the conditions specified by section 68A.
 
 ### 75 Excise-equivalent duty on imported goods
 (1) Subject to this Act, and in addition to any other duties or levies payable on imported goods, excise-equivalent duty at the appropriate rate specified in Part B of Schedule 3 to this Act shall be levied, collected, and paid on all goods specified in Part B of Schedule 3 to this Act, that are imported.
@@ -1299,7 +1311,7 @@ For the purposes of this Part of this Act, goods are deemed to be removed for ho
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending Schedule 3.
 (2) In this section,—
   - **financial year** means the 12 months ending on the close of 30 June or any other date determined for the entity by the Minister of Finance
-  - **motor spirits** means motor spirit and fuels containing motor spirit specified in Excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2710.19.13, 2710.19.25, 2710.19.21, 2710.19.39, 2710.19.15, 2710.19.27, 2710.19.21, 2710.19.39, 2710.19.64, 2710.19.70, 2207.20.23, 2207.20.35, 3824.90.87, 3824.90.93, and 38.90.97 set out in Schedule 3.
+  - **motor spirits** means motor spirit and fuels containing motor spirit specified in Excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2207.20.23, 2207.20.35, 2710.19.13, 2710.19.15, 2710.19.21, 2710.19.25, 2710.19.27, 2710.19.39, 2710.19.64, 2710.19.70, 3824.90.87, 3824.90.93, and 3824.90.97 set out in Schedule 3.
 
 ### 80 Certain Orders in Council subject to confirmation
 (1) This section applies to the following Orders in Council:
@@ -3747,7 +3759,9 @@ Without limiting any other obligation imposed on the Chief Executive to give not
 
 ### 286 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing purposes in respect of which areas used for those purposes are required to be licensed as Customs controlled areas; and prescribing areas that are exempted from the requirement in section 10 of this Act to be licensed as a Customs controlled area:
+  (a) prescribing purposes in respect of which areas used for those purposes are or are not required to be licensed as Customs controlled areas; and prescribing circumstances in respect of which areas used in any or all of those circumstances are—
+    (i) exempted from the requirement to be licensed as a Customs controlled area (whether or not the exemption is on terms and conditions set by the Chief Executive):
+    (ii) required to be licensed as a Customs controlled area:
   (b) Prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a Customs controlled area:
   (ba) prescribing the form and content of, and the procedure to be followed in making, an application for an area to be licensed as a CASE:
   (c) Prescribing the circumstances in which and the period or periods of time for which no charges shall be made by the licensee of a Customs controlled area for the reception or storage of imported goods:
@@ -4383,3 +4397,18 @@ Where the value of the goods cannot be determined under clause 1 of this Schedul
 ## Schedule 9 — Tariff items removed from Tariff
 
 ## Schedule 10 — Substituted Tariff items
+
+### 1 Title
+This Act is the Customs and Excise Amendment Act (No 3) 2008.
+
+### 2 Commencement
+(1) Sections 3, 10, and 12 come into force on the day after the date on which this Act receives the Royal assent.
+(2) Sections 4, 8, 9, 20, and 23 come into force on 1 October 2008.
+(3) The rest of this Act comes into force on a day to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
+
+## Part 2 — Consequential amendments and transitional provisions
+
+**Transitional provisions**
+
+### 23 Transitional provision relating to exemption for tobacco manufactured for personal use
+Until the close of 30 June 2009, section 68A(2)(d) of the principal Act, as inserted by section 8 of this Act, must be read as if for any year ending with 30 June there were substituted the period commencing on 1 October 2008 and ending with the close of 30 June 2009.
