@@ -1,5 +1,5 @@
 # Meat Board Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Meat Board Act 2004.
@@ -43,7 +43,7 @@ The purpose of this Act is—
   - **licensed premises** means—
     (a) a licensed abattoir or licensed export slaughterhouse (within the meaning of the Meat Act 1981):
     (b) the premises of any animal product business within the meaning of the Animal Products Act 1999 in which livestock are slaughtered under a risk management programme registered under Part 2 of that Act or a regulated control scheme made under Part 3 of that Act
-  - **licensee** , in relation to premises of a kind referred to in paragraph (b) of the definition of licensed premises, means the operator of the animal product business concerned
+  - **licensee** , in relation to premises of a kind referred to in paragraph (b) of the definition of , means the operator of the animal product business concerned
   - **livestock** —
     (a) means animals that are cattle, goats, or sheep; and
     (b) includes animals of any other kind that are for the time being declared by the Governor-General by Order in Council to be livestock for the purposes of this Act
@@ -309,7 +309,7 @@ Where the Board has an allocation mechanism in operation in relation to a quota 
 
 ### 30 Revocation of allocation mechanisms
 (1) If satisfied that a quota market has ceased to exist, the Board must, as soon as practicable, revoke every allocation mechanism relating to that market.
-(2) The revocation of an allocation mechanism (whether under section 29(4) or under subsection (1))
+(2) The revocation of an allocation mechanism (whether under section 29(4) or under subsection (1))—
   (a) does not limit or affect—
     (i) the ability of the Board to put into effect any element of it providing for the adjustment of amounts of access already allocated or set aside under it; or
     (ii) the ability of the Board to take action under section 34 in respect of it; and
@@ -449,7 +449,7 @@ Unless it is sooner revoked, a mechanism that immediately before the commencemen
 (1) The person appointed to conduct a quota compliance audit (the auditor) may, for the purposes of the audit,—
   (a) examine the Board's systems, processes, and records:
   (b) examine the systems, processes, and records of any meat processor or exporter.
-(2) For the purposes of an audit, the auditor may at any reasonable time (within or outside business hours)
+(2) For the purposes of an audit, the auditor may at any reasonable time (within or outside business hours)—
   (a) enter any place where—
     (i) any meat products are held or are likely to be held; or
     (ii) any documents relating to any meat products are held or are likely to be held:
@@ -460,12 +460,12 @@ Unless it is sooner revoked, a mechanism that immediately before the commencemen
     (ii) require a person who has control of or knowledge of the documents or records to reproduce or assist in reproducing in usable form information recorded or stored in a computer or other device or system.
 (3) Subsection (2)(d)(ii) does not override the privilege against self-incrimination.
 (4) An auditor must not under subsection (2) enter any place that is not a place of business without a warrant issued under subsection (5).
-(5) A District Court Judge or a Court Registrar (not being a member of the police), who on an application in writing made on oath is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue a warrant in form 1 in Schedule 3 authorising the person named in the warrant to enter and inspect the other place.
+(5) A District Court Judge or a Court Registrar (not being a constable), who on an application in writing made on oath is satisfied that, as a consequence of the inspection under subsection (2) of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business—may issue a warrant in form 1 of Schedule 3 authorising the person named in the warrant to enter and inspect the other place.
   (a) any meat product; or
   (b) any document relating to any meat product,—
-(6) A warrant must be directed to the auditor by name, or to a member of the police by name or to every member of the police, but, in any of these cases, the warrant may be executed by any member of the police.
+(6) A warrant must be directed to the auditor by name, or to a constable by name or to every constable, but, in any of these cases, the warrant may be executed by any constable.
 (7) The warrant may be issued unconditionally or subject to conditions.
-(8) An auditor or member of the police entering any place under this section—
+(8) An auditor or constable entering any place under this section—
   (a) must identify himself or herself to the occupier; and
   (b) if asked by an occupier to do so, must produce evidence of identity; and
   (c) if entering under a warrant issued under subsection (5), must comply with section 63; and
@@ -587,7 +587,7 @@ Subject to section 54, any person who, immediately before the commencement of th
 **Enforcement**
 
 ### 60 Authorised persons
-(1) The Board may appoint or authorise suitably qualified and trained persons to exercise the powers conferred by section 61
+(1) The Board may appoint or authorise suitably qualified and trained persons to exercise the powers conferred by section 61.
 (2) The chief executive of the Ministry may, by notice in writing, give directions to the Board, or to any authorised person, as to the exercise by authorised persons of their powers under this Act, and the Board and any authorised person must take all reasonable steps to ensure those directions are complied with.
 
 ### 61 Powers of inspection
@@ -608,12 +608,12 @@ Subject to section 54, any person who, immediately before the commencement of th
 (5) Subsection (4)(b) does not override the privilege against self-incrimination.
 
 ### 62 Warrant to inspect place other than place of business
-(1) A District Court Judge or a Court Registrar (not being a member of the Police) who, on an application in writing made on oath, is satisfied that there are reasonable grounds to believe that—may issue a warrant in form 2 in Schedule 3 authorising the person named in the warrant to enter and inspect the place.
+(1) A District Court Judge or a Court Registrar (not being a constable) who, on an application in writing made on oath, is satisfied that there are reasonable grounds to believe that—may issue a warrant in form 2 of Schedule 3 authorising the person named in the warrant to enter and inspect the place.
   (a) a person has taken or is intending to take an action of a kind described in section 34(1)(a) or (b); and
   (b) there is or is likely to be in some place that is not a place of business any meat product, or any document relating to any meat product,—
-(2) A District Court Judge or a Court Registrar (not being a member of the Police) who, on an application in writing made on oath, is satisfied that, as a consequence of the inspection under section 61 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant in form 3 in Schedule 3 authorising the person named in the warrant to enter and inspect the other place.
+(2) A District Court Judge or a Court Registrar (not being a constable) who, on an application in writing made on oath, is satisfied that, as a consequence of the inspection under section 61 of a place of business, there are reasonable grounds to believe that there is or is likely to be in some other place that is not a place of business any meat product, or any document relating to any meat product, may issue a warrant in form 3 of Schedule 3 authorising the person named in the warrant to enter and inspect the other place.
 (3) A warrant issued under subsection (1) or subsection (2) may be issued unconditionally or subject to conditions.
-(4) A warrant under this section must be directed to the authorised person by name, or to a member of the police by name or to every member of the police, but, in any of these cases, the warrant may be executed by any member of the police.
+(4) A warrant under this section must be directed to the authorised person by name, or to a constable by name or to every constable, but, in any of these cases, the warrant may be executed by any constable.
 
 ### 63 Duties of persons executing warrants
 A person executing a warrant issued under section 62, or under section 42, in respect of any place—
@@ -721,7 +721,7 @@ No authorised person or person carrying out a quota compliance audit who does an
 (1) It is a defence in any proceedings for an offence under section 67(1) if the defendant proves that—
   (a) the contravention was due to an event or cause beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the contravention.
-(2) A defendant is not, without leave of the Court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the event or cause relied on by the defendant.
+(2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the event or cause relied on by the defendant.
 
 ### 73 Liability of companies and persons for actions of agents or employees
 (1) Any act or omission on behalf of a person other than a body corporate by—is treated, for the purpose of proceedings for an offence against this Act, also as the act or omission of the first-mentioned person.
@@ -759,7 +759,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information in respec
 
 ### 77 Minister may require information
 (1) The Board must supply to the Minister any information relating to quota markets that the Minister considers is relevant to the purpose in section 21 and that the Minister from time to time requests in writing.
-(2) Subsection (1) applies only to information that is in the Board's possession or that the Board can obtain without unreasonable difficulty or expense.
+(2) Subsection (1) applies only to information that is in the Board’s possession or that the Board can obtain without unreasonable difficulty or expense.
 
 ### 78 Disclosure of information
 (1) The chief executive of the Ministry (or any officer of the Ministry authorised in that behalf) and the Comptroller of Customs (or any officer of Customs authorised in that behalf) may, for the purpose of the administration of this Act or the Customs and Excise Act 1996, disclose to each other, on request, information on exporters of meat products exported or proposed to be exported.
@@ -770,29 +770,29 @@ Despite section 14 of the Summary Proceedings Act 1957, an information in respec
 
 ### 79 Board must disclose certain information to industry-good organisation
 (1) Subject to this section, the Board must, if the industry-good organisation requests it, supply the organisation with the following kinds of information:
-  (a) information of direct relevance to the monitoring or audit of the organisation's levy returns or receipts:
+  (a) information of direct relevance to the monitoring or audit of the organisation’s levy returns or receipts:
   (b) information of direct relevance to the organisation for trade policy or market access purposes:
   (c) information of a statistical kind that relates directly to the production and consumption of meat in New Zealand and the export of meat from New Zealand:
   (d) information on the agricultural, trade, or economic policies, agricultural productions, consumption, and imports or exports of any country other than New Zealand.
-(2) Subsection (1) applies only to information that is in the Board's possession.
-(3) Information of the kind referred to in subsection (1)(a) may be used only for the purpose of monitoring or auditing to industry-good organisation's levy returns or receipts, and for no other purpose.
+(2) Subsection (1) applies only to information that is in the Board’s possession.
+(3) Information of the kind referred to in subsection (1)(a) may be used only for the purpose of monitoring or auditing the industry-good organisation’s levy returns or receipts, and for no other purpose.
 (4) Information of the kinds referred to in subsection (1)(b) and (c) that is acquired by the Board after the commencement of this Act may be supplied to the industry-good organisation only if—except to the extent that the company or entity or group of companies or entities concerned has given its or their prior approval in writing to the supply of the information.
   (a) the information would not allow the organisation to separately identify or deduce data specific to a particular company or other trading entity, or a particular group of associated companies or entities; or
-  (b) information specific to a particular company or other trading entity, or a particular group of companies or entities, cannot be separately identified or deduced from the information requested;
+  (b) information specific to a particular company or other trading entity, or a particular group of companies or entities, cannot be separately identified or deduced from the information requested;—
 (5) Information of the kinds referred to in subsection (1)(b) and (c) that was held by the Board at the commencement of this Act and that the Board has supplied to the industry-good organisation may be supplied by the industry-good organisation to any other person only in the manner and circumstances described in subsection (4)(a) and (b), except to the extent that the company or entity or group of companies or entities concerned has given its or their prior approval in writing to the supply of the information.
 (6) The information referred to in subsection (1) includes information of the relevant kind that is—
   (a) held by the Board at the commencement of this Act; or
   (b) subsequently acquired by the Board.
-(7) In respect of information supplied to the industry-good organisation that was acquired by the Board after the commencement of this Act, the Board may charge the industry-good organisation an appropriate amount for the purpose of recovering part of the costs of the Board's acquisition of the information. The amount charged is recoverable by the Board as a debt.
+(7) In respect of information supplied to the industry-good organisation that was acquired by the Board after the commencement of this Act, the Board may charge the industry-good organisation an appropriate amount for the purpose of recovering part of the costs of the Board’s acquisition of the information. The amount charged is recoverable by the Board as a debt.
 (8) This section ceases to apply to require the Board to supply information to the industry-good organisation if the Minister is satisfied, and certifies accordingly, that—
   (a) the industry-good organisation is no longer owned by a trust the beneficiaries of which consist of all livestock farmers (except any reasonably excluded for reasons of administrative cost); or
-  (b) the majority of the industry-good organisation's directors are no longer elected by livestock farmers broadly in proportion to their share of the industry; or
+  (b) the majority of the industry-good organisation’s directors are no longer elected by livestock farmers broadly in proportion to their share of the industry; or
   (c) the industry-good organisation has been unable to collect levies, neither in relation to sheepmeat nor to beef, under the Commodity Levies Act 1990 for the entire immediately preceding year.
 (9) Where the Minister gives a certificate under subsection (8), the industry-good organisation must either return to the Board or destroy information of a kind referred to in subsection (5) that would allow a person to separately identify or deduce data specific to a particular company or other trading entity, or a particular group of associated companies or entities.
 
 **No Crown liability**
 
-### 80 No Crown liability for Board's debts
+### 80 No Crown liability for Board’s debts
 The Crown is not liable to any person for any amounts owing by the Board.
 
 **Regulations and notices**
@@ -812,12 +812,12 @@ The Governor-General may by Order in Council make regulations for all or any of 
 ### 82 Notices
 (1) The Board may give any person a notice under this Act by causing it to be—
   (a) delivered to the person; or
-  (b) addressed to the person and left at the person's home or business; or
-  (c) transmitted to the person at the person's home or business by fax; or
-  (d) transmitted to the person at the person's home or business by or through any other device or system of devices from or through which the person might reasonably be expected to receive it; or
-  (e) posted in a letter addressed to the person at the person's home or business.
-(2) For the purposes of subsection (1), a person's home or business—
-  (a) is the person's usual or last known place of abode or business; but
+  (b) addressed to the person and left at the person’s home or business; or
+  (c) transmitted to the person at the person’s home or business by fax; or
+  (d) transmitted to the person at the person’s home or business by or through any other device or system of devices from or through which the person might reasonably be expected to receive it; or
+  (e) posted in a letter addressed to the person at the person’s home or business.
+(2) For the purposes of subsection (1), a person’s home or business—
+  (a) is the person’s usual or last known place of abode or business; but
   (b) includes any place whose address is specified by the person (for the purpose of communications) in any application, notice, or other document received from the person by the Board.
 (3) If any such notice is posted to any person by registered letter, it is deemed to have been given to the person when it would have been delivered in the ordinary course of post; and in proving the delivery it is sufficient to prove that the letter was properly addressed and posted.
 
@@ -848,7 +848,7 @@ The Governor-General may by Order in Council make regulations for all or any of 
 **Tax provisions relating to restructuring**
 
 ### 85 Tax provisions relating to Meat and Wool New Zealand Limited
-(1) The transfer of assets and liabilities from the Board to Meat and Wool New Zealand Limited pursuant to section 84
+(1) The transfer of assets and liabilities from the Board to Meat and Wool New Zealand Limited pursuant to section 84—
   (a) is not a dutiable gift for the purposes of the Estate and Gift Duties Act 1968; and
   (b) is not a sale, disposal, disposition, distribution, or transfer of any asset or any liability for the purposes of the Income Tax Act 1994; and
   (c) is not a supply of goods or services for the purposes of the Goods and Services Tax Act 1985.
@@ -906,26 +906,26 @@ In sections 85 to 88,—
 A director, when exercising powers or performing duties, must act in good faith and as the director believes will best attain the objects of the Board.
 
 ### 2 Exercise of powers in relation to employees
-(1) Nothing in clause 1 limits the power of a director to make provision for the benefit of employees of the Board in connection with the Board's ceasing to carry on the whole or part of its affairs.
+(1) Nothing in clause 1 limits the power of a director to make provision for the benefit of employees of the Board in connection with the Board’s ceasing to carry on the whole or part of its affairs.
 (2) In subclause (1),—
   - **Board** includes a subsidiary of the Board; and
-  - **employees** includes former employees and the dependants of employees or former employees; but does not include an employee or former employee in that person's capacity as a director.
+  - **employees** includes former employees and the dependants of employees or former employees; but does not include an employee or former employee in that person’s capacity as a director.
 
 ### 3 Powers to be exercised for proper purpose
 A director must exercise a power for a proper purpose.
 
 ### 4 Directors to comply with Act
-A director must not act, or agree to the Board's acting, in a manner that contravenes this Act.
+A director must not act, or agree to the Board’s acting, in a manner that contravenes this Act.
 
 ### 5 Reckless trading
 A director must not—
-  (a) agree to the affairs of the Board being carried on in a manner likely to create a substantial risk of serious loss to the Board's creditors; or
-  (b) cause or allow the affairs of the Board to be carried on in a manner likely to create a substantial risk of serious loss to the Board's creditors.
+  (a) agree to the affairs of the Board being carried on in a manner likely to create a substantial risk of serious loss to the Board’s creditors; or
+  (b) cause or allow the affairs of the Board to be carried on in a manner likely to create a substantial risk of serious loss to the Board’s creditors.
 
 ### 6 Duty in relation to obligations
-A director must not agree to the Board's incurring an obligation unless the director believes at that time on reasonable grounds that the Board will be able to perform the obligation when it is required to do so.
+A director must not agree to the Board’s incurring an obligation unless the director believes at that time on reasonable grounds that the Board will be able to perform the obligation when it is required to do so.
 
-### 7 Director's duty of care
+### 7 Director’s duty of care
 A director, when exercising powers or performing duties as a director, must exercise the care, diligence, and skill that a reasonable director would exercise in the same circumstances taking into account, but without limitation,—
   (a) the nature of the Board; and
   (b) the nature of the decision; and
@@ -934,8 +934,8 @@ A director, when exercising powers or performing duties as a director, must exer
 ### 8 Use of information and advice
 (1) A director, when exercising powers or performing duties as a director, may rely on reports, statements, and financial data and other information prepared or supplied, and on professional or expert advice given, by any of the following persons:
   (a) an employee of the Board whom the director believes on reasonable grounds to be reliable and competent in relation to the matters concerned:
-  (b) a professional adviser or expert in relation to matters which the director believes on reasonable grounds to be within the person's professional or expert competence:
-  (c) any other director or committee of persons established by the Board (upon which the director did not serve) in relation to matters within the director's or committee's designated authority.
+  (b) a professional adviser or expert in relation to matters which the director believes on reasonable grounds to be within the person’s professional or expert competence:
+  (c) any other director or committee of persons established by the Board (upon which the director did not serve) in relation to matters within the director’s or committee’s designated authority.
 (2) Subclause (1) applies to a director only if the director—
   (a) acts in good faith; and
   (b) makes proper inquiry where the need for inquiry is indicated by the circumstances; and
@@ -951,12 +951,12 @@ A director, when exercising powers or performing duties as a director, must exer
 (2) For the purposes of this schedule, a director is not interested in a transaction involving a meat processor or exporter solely by reason of the director being a supplier of livestock to the processor or exporter in the ordinary course of farming business.
 (3) For the purposes of this schedule, a director is not interested in a transaction to which the Board is a party if the transaction comprises only the giving by the Board of security to a third party which has no connection with the director, at the request of the third party, in respect of a debt or obligation of the Board for which the director or another person has personally assumed responsibility in whole or in part under a guarantee, indemnity, or by the deposit of a security.
 (4) For the purposes of this clause and clause 10,—
-  (a) the exercise in relation to any person (or a group of persons including any person) of any of the Board's powers under Part 3 of this Act is a transaction, to which the Board is a party; and
+  (a) the exercise in relation to any person (or a group of persons including any person) of any of the Board’s powers under Part 3 is a transaction, to which the Board is a party; and
   (b) the exercise in relation to any person (or a group of persons including any person) of any power under an allocation mechanism to make a decision or recommendation is a transaction, to which the Board is a party.
 
 ### 10 Disclosure of interest
 (1) A director must, forthwith after becoming aware of the fact that he or she is interested in a transaction or proposed transaction with the Board, cause to be entered in the interests register and disclose to the board of directors,—
-  (a) if the monetary value of the director's interest is able to be quantified, the nature and monetary value of that interest; or
+  (a) if the monetary value of the director’s interest is able to be quantified, the nature and monetary value of that interest; or
   (b) if the monetary value of the director's interest cannot be quantified, the nature and extent of that interest.
 (2) For the purposes of subclause (1), a general notice entered in the interests register and disclosed to the board of directors to the effect that a director is a shareholder, director, officer or trustee of a person named in the notice and is to be regarded as interested in any transaction that may, after the day on which the notice is given to the board of directors, be entered into by the Board with that person, is a sufficient disclosure of interest in relation to that transaction.
 (3) A failure by a director to comply with subclause (1) does not affect the validity of a transaction entered into by the Board or the director.
@@ -1006,16 +1006,18 @@ The duties of the directors of the Board set out in this schedule are owed to th
 
 ## Schedule 2 — Provisions applying to Board and board of directors
 
+**Directors**
+
 ### 1 Term of office of directors
 (1) Except as otherwise provided in this Act—
   (a) a director nominated by the industry-good organisation holds office until the sooner of—
     (i) the person ceasing to be a director of the industry-good organisation; or
-    (ii) the close of 31 March in the 3rd year following the year in which the person was nominated as a director of the Board.
-  (b) a director appointed by the Minister holds office for a term expiring at the close of 31 March in the 3rd year following the year in which the director was appointed or at such earlier date as the Minister specifies at the time of the appointment.
+    (ii) the close of 31 March in the third year following the year in which the person was nominated as a director of the Board.
+  (b) a director appointed by the Minister holds office for a term expiring at the close of 31 March in the third year following the year in which the director was appointed or at such earlier date as the Minister specifies at the time of the appointment.
 (2) A director may continue in office after the expiry of the term for which the director was nominated or appointed or elected if the Minister—before that expiry (or before the expiry of any extension or extensions of that term authorised under this subclause).
   (a) authorises the director to continue in office; and
-  (b) determines the length of the director's extended term,—
-(3) If a director continues in office for any period after the expiry of the director's term, the successor's term of office is reduced by that period.
+  (b) determines the length of the director’s extended term,—
+(3) If a director continues in office for any period after the expiry of the director’s term, the successor’s term of office is reduced by that period.
 (4) Any director may from time to time be re-nominated or reappointed or re-elected.
 
 ### 2 Extraordinary vacancies
@@ -1025,7 +1027,7 @@ The duties of the directors of the Board set out in this schedule are owed to th
 (4) If a director nominated by the industry-good organisation dies or resigns or is removed from office, then—
   (a) the organisation may nominate another director of the organisation to fill the vacancy (not being a director who has previously been removed from the Board); or
   (b) if the organisation informs the Minister that it is unable to nominate a director under paragraph (a), or if it fails to nominate a director within a reasonable period of time, the Minister may, after consulting the industry-good organisation, appoint a person to fill the vacancy for the residue of the term (or what would have been the term, if the director had not died, resigned, or been removed) of the director who died, resigned, or was removed.
-(5) The powers of the Board or the board of directors are not affected by any vacancy in the hoard of directors (but subject to clause 5(3)).
+(5) The powers of the Board or the board of directors are not affected by any vacancy in the board of directors (but subject to clause 5(3)).
 
 ### 3 Deputies of Minister-appointed directors
 (1) If satisfied that a director appointed under section 13(2)(d) is, because of illness, absence, or other sufficient cause, incapable of performing the duties of a director, the Minister may, after consulting the Board where practicable, appoint a deputy to act for the director during the director's incapacity.
@@ -1037,13 +1039,15 @@ The board of directors has all the powers necessary—
   (a) for governing, and for directing and supervising the management of, the affairs of the Board; and
   (b) for exercising the powers of the Board.
 
+**Meetings of Board**
+
 ### 5 Meetings of Board
 (1) Meetings of the board of directors must be held at times and places it appoints.
 (2) The chairperson of the board of directors or any 3 directors may at any time call a special meeting of the board of directors.
 (3) At all meetings of the board of directors, the quorum necessary for the transaction of business is a majority of directors currently in office.
 (4) Subject to subclauses (5) and (6), all questions arising at any meeting of the board of directors must be decided by a majority of the votes cast by the directors present at the meeting.
-(5) Any decision relating directly to management of the Board's reserves will not however be treated as valid unless, in addition to being supported by an overall majority of votes, a majority of the farmer-selected directors present (or participating under subclause (7) or subclause (8)) and voting on the resolution concerned also supports the decision.
-(6) No decision relating directly to management of the Board's reserves may be taken unless a minimum of 2 farmer-selected directors are present (or participating under subclause (7) or subclause (8)) and voting on the resolution concerned.
+(5) Any decision relating directly to management of the Board’s reserves will not however be treated as valid unless, in addition to being supported by an overall majority of votes, a majority of the farmer-selected directors present (or participating under subclause (7) or subclause (8)) and voting on the resolution concerned also supports the decision.
+(6) No decision relating directly to management of the Board’s reserves may be taken unless a minimum of 2 farmer-selected directors are present (or participating under subclause (7) or subclause (8)) and voting on the resolution concerned.
 (7) A resolution assented to by letter, telegram, telex, fax, or electronic message by all directors is as valid and effectual as if it had been passed at a meeting of the board of directors duly called and constituted.
 (8) Where—the resolution is as valid and effectual as if it had been passed at a meeting of the board of directors duly called and constituted.
   (a) there is held a telephone or video conference of at least a majority of existing directors of the Board; and
@@ -1052,7 +1056,7 @@ The board of directors has all the powers necessary—
 (9) Except as provided in this Act and any regulations made under it, the board of directors may regulate its procedure at meetings in any manner it thinks fit.
 (10) In this clause, farmer-selected director means a director—
   (a) nominated by the industry-good organisation under section 13(2)(a); or
-  (b) nominated by the industry-good organisation under clause 2(4)(a) of this schedule, where the director concerned was elected by livestock farmers as a director of the industry-good organisation; or
+  (b) nominated by the industry-good organisation under clause 2(4)(a), where the director concerned was elected by livestock farmers as a director of the industry-good organisation; or
   (c) elected by livestock farmers to represent them under regulations made under this Act.
 
 ### 6 Chairperson
@@ -1063,11 +1067,13 @@ The board of directors has all the powers necessary—
 (5) At any meeting of the board of directors, the person presiding has a deliberative vote and, in the case of an equality of votes, also has a casting vote.
 (6) A chairperson may from time to time be re-elected.
 
+**Other matters**
+
 ### 7 Contracts of Board
 (1) Subject to clause 8, a contract or other enforceable obligation may be entered into by the Board as follows:
   (a) an obligation which, if entered into by a natural person, would, by law, be required to be by deed, may be entered into on behalf of the Board in writing signed under the name of the Board by—
-    (i) two or more directors; or
-    (ii) one or more persons authorised by the Board under clause 8:
+    (i) 2 or more directors; or
+    (ii) 1 or more persons authorised by the Board under clause 8:
   (b) an obligation which, if entered into by a natural person, would, by law, be required to be in writing, may be entered into on behalf of the Board in writing by a person acting under the Board's express or implied authority:
   (c) an obligation which, if entered into by a natural person would not, by law, be required to be in writing, may be entered into on behalf of the Board in writing or orally by a person acting under the Board's express or implied authority.
 (2) Nothing in subclause (1) limits or prevents the Board entering into a contract or other enforceable obligation in writing under its seal, if it has one.
@@ -1094,9 +1100,11 @@ The board of directors has all the powers necessary—
 ### 9 Expenditure not otherwise authorised
 The Board may, in any financial year, expend out of the funds of the Board for purposes not otherwise authorised by this Act or any other enactment any sum or sums not exceeding $5,000 in total.
 
+**Remuneration of directors, and indemnity and insurance of directors, employees, etc**
+
 ### 10 Remuneration of directors
 (1) Subject to subclauses (2) to (5), the Board must pay to each director the remuneration and benefits the Board from time to time determines.
-(2) The Board must pay to each director nominated or appointed by the Minister (whether under section 13(2)(d), section 13(6)(c), clause 2(3) or 3(1) of this schedule, or under regulations made under this Act) the remuneration and benefits that the Minister, after having regard to the Government's fees framework and to the level of remuneration and benefits paid to the industry-selected directors, from time to time determines and advises to the Board in writing.
+(2) The Board must pay to each director nominated or appointed by the Minister (whether under section 13(2)(d), section 13(6)(c), clause 2(3) or 3(1), or under regulations made under this Act) the remuneration and benefits that the Minister, after having regard to the Government's fees framework and to the level of remuneration and benefits paid to the industry-selected directors, from time to time determines and advises to the Board in writing.
 (3) During any financial year to which a resolution under section 59(2) (or, as the case requires, section 59(3)) applies, the Board must not pay to industry-selected directors (for services as a director) remuneration and benefits that are in the aggregate more than the maximum aggregate remuneration and benefits approved by the resolution.
 (4) During any financial year after the first year to which a resolution under section 59(2) applies (being a year to which neither a resolution under section 59(2) nor a resolution under section 59(3) applies), the Board must not pay to industry-selected directors (for services as a director) remuneration and benefits that are in the aggregate more than the maximum aggregate remuneration and benefits approved by the most recently passed resolution under section 59(2).
 (5) During any financial year before the first year to which a resolution under section 59(3) applies, the Board must not—
@@ -1113,9 +1121,9 @@ The Board may, in any financial year, expend out of the funds of the Board for p
   (a) liability for any act or omission in the official's capacity as an official of the corporation; or
   (b) costs incurred by the official in defending or settling any proceeding relating to any such liability.
 (2) An indemnification or agreement to indemnify effected or entered into in breach of subclause (1) is void.
-(3) If the Board becomes aware that any amount has been paid in breach of subclause (1),—the Board must take all reasonable steps to recover an equivalent amount from the person or persons responsible for paying the amount in breach of that subclause.
+(3) If the Board becomes aware that any amount has been paid in breach of subclause (1),—
   (a) the Board must take all reasonable steps to recover it from the person to whom it was paid or the person on whose behalf it was paid; or
-  (b) if—
+  (b) if—the Board must take all reasonable steps to recover an equivalent amount from the person or persons responsible for paying the amount in breach of that subclause.
     (i) it is impossible, impracticable, or in all the circumstances inappropriate to recover the amount from the person to whom it was paid; and
     (ii) it is impossible, impracticable, or in all the circumstances inappropriate to recover the amount from the person on whose behalf it was paid,—
 (4) The board of directors must ensure that particulars of every indemnification of or agreement to indemnify an official, and particulars of all insurance effected for any official,—
@@ -1158,7 +1166,7 @@ The Board may, in any financial year, expend out of the funds of the Board for p
     (ii) subclause (2) had been complied with, but reasonable grounds did not exist for the opinion set out in the certificate given under it,
 
 ### 14 Permitted insurance for other officials
-(1) The Board may, with the approval of the board of directors (given before or after the insurance is effected), effect insurance for any official in respect of
+(1) The Board may, with the approval of the board of directors (given before or after the insurance is effected), effect insurance for any official in respect of—
   (a) liability (not being criminal liability arising under New Zealand law) for any act or omission in the official's capacity as an official of the corporation; or
   (b) costs incurred by the official in defending or settling any proceeding relating to any such liability; or
   (c) costs incurred by the official in defending any criminal proceeding, in respect of an act or omission in the official's capacity as an official of the corporation, in which the official is acquitted.
