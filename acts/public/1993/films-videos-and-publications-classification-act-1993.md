@@ -1,5 +1,5 @@
 # Films, Videos, and Publications Classification Act 1993
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to the censoring of films, videos, books, and other publications; and to repeal the Indecent Publications Act 1963, the Films Act 1983, and the Video Recordings Act 1987
 
@@ -1403,9 +1403,9 @@ Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any 
 (5) No such delegation shall prevent the exercise by the Attorney-General of any power under subsection (1) of this section.
 
 ### 145 Delegation of powers by Commissioner of Police
-(1) The Commissioner of Police may from time to time, by writing under the Commissioner's hand, either generally or particularly, delegate to such member or members of the Police, of a rank not less than Inspector, as the Commissioner thinks fit, all or any of the powers delegated to the Commissioner under section 144 of this Act.
+(1) The Commissioner of Police may from time to time, by writing under the Commissioner's hand, either generally or particularly, delegate to such member or members of the Police, of a level of position not less than Inspector, as the Commissioner thinks fit, all or any of the powers delegated to the Commissioner under section 144 of this Act.
 (2) Every person purporting to act pursuant to any delegation under this section shall be presumed to be acting in accordance with the terms of the delegation in the absence of proof to the contrary.
-(3) Subject to subsection (1) of this section, any delegation under this section may be made to a specified member of the Police or to members of the Police of a specified rank or class, or may be made to the holder or holders for the time being of a specified office or class of offices.
+(3) Subject to subsection (1) of this section, any delegation under this section may be made to a specified member of the Police or to members of the Police of a specified level of position or class, or may be made to the holder or holders for the time being of a specified office or class of offices.
 (4) Every delegation under this section shall be revocable at will, and no such delegation shall prevent the exercise of any power by the Commissioner of Police.
 (5) Any such delegation shall, until revoked, continue in force according to its tenor, notwithstanding the fact that the Commissioner of Police by whom it was made may have ceased to hold office, and shall continue to have effect as if made by the successor in office of that Commissioner.
 (6) The revocation of any such delegation shall not affect in any way anything done under the delegated authority.
