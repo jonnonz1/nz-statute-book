@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2008-09-30_
+_Consolidation as at 2008-10-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -1766,7 +1766,7 @@ The Director-General may amend or revoke any dog control permit issued under sec
 
 ### 26ZZK Persons authorised to take dogs into controlled dog area without dog control permit
 (1) Any person being—may, in the course of his or her official duties or in the course of his or her training for those duties and without being the holder of a dog control permit, take a dog into a controlled dog area.
-  (a) A member of the Police; or
+  (a) A Police employee; or
   (b) A warranted officer; or
   (c) An officer or employee of the Department; or
   (d) A Customs Officer; or
