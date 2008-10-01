@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -495,7 +495,7 @@ A coroner may, by written notice to a doctor who attended a person before death,
 
 ### 43 Restriction on release if no post-mortem directed
 (1) A coroner who decides not to direct a pathologist to perform a post-mortem of a body under section 31 must not authorise its release under section 42 earlier than 24 hours after notifying a member of the police of the decision.
-(2) Subsection (1) does not apply if a member of the police of the rank of senior sergeant or above agrees to the coroner authorising the release of the body within the 24-hour period referred to in that subsection.
+(2) Subsection (1) does not apply if a member of the police of the level of position of senior sergeant or above agrees to the coroner authorising the release of the body within the 24-hour period referred to in that subsection.
 
 ### 44 Restriction on release if parts or samples to be retained
 A coroner who directs a pathologist to perform a post-mortem of a body under section 31 and who knows the pathologist wishes to retain a body part or bodily sample under section 48(2) must not authorise the release of the body under section 42 without first having determined as soon as practicable whether the retention of the part or sample is permitted by section 48(2).
@@ -1030,7 +1030,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
 **Administration**
 
 ### 115 Police to help coroners' investigations
-(1) The Commissioner of Police must cause members of the police to help coroners' investigations under this Act.
+(1) The Commissioner of Police must cause Police employees to help coroners' investigations under this Act.
 (2) This section does not limit section 17.
 
 ### 116 Responsible department to provide administrative support
