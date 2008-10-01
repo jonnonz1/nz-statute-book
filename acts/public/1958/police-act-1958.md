@@ -1,5 +1,5 @@
 # Police Act 1958
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to the establishment and regulation of the Police of New Zealand
 
