@@ -1,5 +1,5 @@
 # Victims' Rights Act 2002
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Victims' Rights Act 2002.
@@ -25,7 +25,7 @@ In this Act, unless the context otherwise requires,—
       (ii) the victim's child or step-child; or
       (iii) the victim's brother or sister or step-brother or step-sister; or
       (iv) a parent or step-parent of the victim; or
-      (v) a grandparent of the victim.
+      (v) a grandparent of the victim
   - **incapable** , in relation to a person,—
     (a) means that the person—
       (i) lacks, wholly or partly, the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare; or
@@ -47,7 +47,7 @@ In this Act, unless the context otherwise requires,—
     (b) a parent or another close relative or a legal guardian of the victim:
     (c) a Social Worker (as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989) if—
       (i) the victim is a child or young person who is in the custody or under the guardianship or in the care of the chief executive or another person under that Act; or
-      (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the Court by an order under section 31(1)(a) of the Care of Children Act 2004, and the Social Worker is appointed the agent of the Court by an order under section 31(1)(b) or section 33(1)(c)(ii) of that Act:
+      (ii) the victim is a child who is not married or in a civil union and who is placed under the guardianship of the court by an order under section 31(1)(a) of the Care of Children Act 2004, and the Social Worker is appointed the agent of the court by an order under section 31(1)(b) or section 33(1)(c)(ii) of that Act:
     (d) a welfare guardian of the victim, or manager of the property of the victim, appointed under the Protection of Personal and Property Rights Act 1988:
     (e) an attorney appointed by the victim under a power of attorney described in section 95 of the Protection of Personal and Property Rights Act 1988 if—
       (i) the matter is one relating to the personal care and welfare of the victim in relation to which the attorney is authorised to act under the power of attorney; and
@@ -85,7 +85,7 @@ This Act binds the Crown.
 **Principles guiding treatment of victims**
 
 ### 7 Treatment
-Any person who deals with a victim (for example, a judicial officer, lawyer, member of court staff, member of the police, or other official) should—
+Any person who deals with a victim (for example, a judicial officer, lawyer, member of court staff, Police employee, or other official) should—
   (a) treat the victim with courtesy and compassion; and
   (b) respect the victim's dignity and privacy.
 
@@ -109,8 +109,8 @@ Sections 7 to 9, and the principles in them guiding the treatment of victims, do
 (2) In this section, agency means—
   (a) the Accident Compensation Corporation:
   (b) the Department of Child, Youth and Family Services:
-  (c) the Department for Courts:
-  (d) the Department of Work and Income:
+  (c) the Ministry of Justice:
+  (d) the Ministry of Social Development:
   (e) a DHB (as defined in section 6(1) of the New Zealand Public Health and Disability Act 2000):
   (f) the New Zealand Police.
 (3) Nothing in this section prevents information of a kind that, under this section, must be given to a victim of an offence, from also being given to any other person (for example, to a person who was disadvantaged by the offence).
@@ -205,9 +205,9 @@ The prosecutor must make all reasonable efforts to ensure, before information is
 (3) In determining the weight (if any) to give to the information, the judicial officer must have regard to whether or not it was verified in the way stated in section 19(3) or (4).
 
 ### 22 Victim impact statement defined
-  - **victim impact statement** In sections 23 to 27, —
-    (a) means information prepared for submission to, or submitted to, a judicial officer, under sections 17 to 21; and
-    (b) includes any recording, summary, transcript, or other copy of information of that kind.
+In sections 23 to 27, victim impact statement—
+  (a) means information prepared for submission to, or submitted to, a judicial officer, under sections 17 to 21; and
+  (b) includes any recording, summary, transcript, or other copy of information of that kind.
 
 ### 23 Offender not to be given statement to keep
 (1) A prosecutor, or lawyer for an offender, who has a copy of a victim impact statement relating to an offender, must show the statement to the offender if asked to do so by the offender, unless the prosecutor or lawyer—
@@ -223,7 +223,7 @@ The prosecutor must make all reasonable efforts to ensure, before information is
   (a) means the date of disposal of all appeals (if any) against conviction of the offence, or a sentence imposed for the offence, or both, lodged by the date when the time for lodging those appeals expires; and
   (b) if there are no rights of appeal of that kind, the date on which proceedings relating to the offence are otherwise finally determined.
 (3) Subsection (1) does not apply to—
-  (a) the victim concerned, a member of court staff, member of the police, probation officer, or prosecutor; and
+  (a) the victim concerned, a member of court staff, Police employee, probation officer, or prosecutor; and
   (b) any other person (other than the offender) if the judicial officer, in his or her discretion and on an application for the purpose, orders that the other person need not return the copy or copies of the statement.
 
 ### 25 Judicial officer may withhold part of statement from offender to protect victim's physical safety or security
@@ -255,7 +255,7 @@ A judicial officer must not take into account in sentencing the offender a part 
   (b) having effect permanently.
 (2) If this section applies to a victim, the prosecutor—
   (a) must make all reasonable efforts to ensure that any views the victim has on the application are ascertained; and
-  (b) must inform the Court of any views ascertained under paragraph (a).
+  (b) must inform the court of any views ascertained under paragraph (a).
 
 ## Part 3 — Provisions relating to rights of victims of certain offences
 
@@ -274,7 +274,7 @@ Sections 30 to 48 apply to a victim only if the offence is—
 ### 30 Victim's views about release on bail of accused or offender
 If a person accused of the offence or, as the case requires, the offender, applies to a court for release on bail, the prosecutor must determine whether or not this section applies to a victim in accordance with section 29 and, if it does,—
   (a) must make all reasonable efforts to ensure that any views the victim has about the release on bail of the person accused of the offence or, as the case requires, the offender, are ascertained; and
-  (b) must inform the Court of any views ascertained under paragraph (a).
+  (b) must inform the court of any views ascertained under paragraph (a).
 
 **Sections 32 to 38 and 47 apply only to victim who asked for notice and gave his or her current address**
 
@@ -286,7 +286,7 @@ Sections 32 to 38 and 47 apply to a victim to whom this section applies only if 
   (b) given his or her current address (for example, a postal address, email address, fax number, or telephone number) to the New Zealand Police, at the same time as requesting the notice or advice and copies under paragraph (a); and
   (c) advised the people who would give or supply the notice or advice and copies of any changes to that address, before the time at which the notice or advice is, or the copies are, to be given or supplied.
 
-**Duties of police in relation to notice under sections 34 to 39**
+**Duties of Police in relation to notice under sections 34 to 39**
 
 ### 32 Police to give information about right to ask for notice and appointment of representative
 (1) As soon as practicable after a victim comes into contact with the New Zealand Police, the Commissioner of Police must determine whether or not this section applies to the victim in accordance with section 29 and, if it does,—
@@ -342,7 +342,7 @@ Sections 32 to 38 and 47 apply to a victim to whom this section applies only if 
 ### 35 Notice of temporary release from, or escape or absconding from, or death in, prison detention or home detention, of accused or offender
 (1) The chief executive of the Department of Corrections must give a victim to whom this section applies—
   (a) reasonable prior notice of the offender's impending—
-    (i) temporary release from the legal custody of the chief executive of the Department of Corrections, under section 62 of the Corrections Act 2004 (other than a release of that kind throughout which the offender is to be accompanied by a member or members of the police); or
+    (i) temporary release from the legal custody of the chief executive of the Department of Corrections, under section 62 of the Corrections Act 2004 (other than a release of that kind throughout which the offender is to be accompanied by a constable or constables); or
     (ii) part-time release from custody of that kind, to engage in employment, under section 62 of that Act; and
   (b) reasonable prior notice of the offender's impending release from prison detention or home detention if the offender does not have a parole eligibility date under section 20 of the Parole Act 2002; and
   (c) notice, as soon as practicable, of—
@@ -351,9 +351,9 @@ Sections 32 to 38 and 47 apply to a victim to whom this section applies only if 
   (d) notice, as soon as practicable, of the death in prison detention or home detention of the person accused of the offence or the offender.
 (2) However, notice under subsection (1)(c)(i) or (ii) need not be given if, before it has been practicable to give the notice, the accused or offender returns or is returned to the place of prison detention or to the residence in which he or she is on home detention.
 (3) In this section, prison detention—
-  (a) means detention in a prison (or in a police station or other place of confinement in accordance with section 35 of the Corrections Act 2004); and
+  (a) means detention in a prison (or in a Police station or other place of confinement in accordance with section 35 of the Corrections Act 2004); and
   (b) includes, if a child or young person is serving a sentence of imprisonment, detention of the child or young person under that sentence in a residence of the kind referred to in section 142A(1) of the Criminal Justice Act 1985; but
-  (c) does not include detention of a child or young person in police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)(d) or (e) of the Children, Young Persons, and Their Families Act 1989; and
+  (c) does not include detention of a child or young person in Police custody, or in the custody of the chief executive, an Iwi Social Service, or a Cultural Social Service, and pending hearing, under section 238(1)(d) or (e) of the Children, Young Persons, and Their Families Act 1989; and
   (d) does not include detention of a kind referred to in section 37(1)(a) or (b) of this Act.
 
 ### 36 Notice of convictions for breaching release or detention conditions and of decisions on recall orders
@@ -417,7 +417,7 @@ If a representative of a victim is appointed, then, unless the appointment is te
 ### 42 Victim's support person may be or appoint representative
 A victim's support person (person A) may appoint himself or herself, or another support person of the victim, as representative of the victim, on behalf of the victim, if—
   (a) the victim is not, or may not be, capable alone of appointing a representative; and
-  (b) No representative of the victim has been appointed (whether in reliance on this section or not); and
+  (b) no representative of the victim has been appointed (whether in reliance on this section or not); and
   (c) person A has discussed the appointment proposed with the victim and with each other support person of the victim who person A knows, or ought reasonably to know, is another support person of the victim.
 
 ### 43 Method of appointment of representative
@@ -468,7 +468,7 @@ A victim to whom this section applies may make submissions to the Minister of Im
 (2) The victim or person may complain to—
   (a) the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right:
   (b) an Ombudsman, in accordance with the Ombudsmen Act 1975, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, may be the subject of a complaint under that Act:
-  (c) the Independent Police Conduct Authority, in accordance with the Independent Police Conduct Authority Act 1988, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a member of the police:
+  (c) the Independent Police Conduct Authority, in accordance with the Independent Police Conduct Authority Act 1988, if the person who, under the relevant specified provisions, appears to be required to accord the victim or person the right, is a constable:
   (d) the Privacy Commissioner, in accordance with the Privacy Act 1993, if the matter involves, or may involve, an action that is, or appears to be, an interference with the privacy of the victim or person.
 
 ### 50 Other ways in which rights may be enforced
@@ -509,52 +509,4 @@ The Acts specified in the Schedule are amended in the manner indicated in that s
 ### 54 Victims of Offences Act 1987 repealed
 The Victims of Offences Act 1987 (1987 No 173) is repealed.
 
-## Schedule Schedule — Enactments amended
-
-### 93A Right of victims to make submissions on making of deportation order
-(1) In determining whether to make a deportation order under section 91 or section 92, the Minister must have regard to any written submissions made by a victim of an offence or offences of which the person who would be the subject of the order has been convicted and from which his or her liability to deportation arises.
-(2) The Minister must, on a request for the purpose, make available to a solicitor or counsel who is acting for a person who would be the subject of the order (if any) a copy of all written submissions made by the victim.
-(3) The Minister, or a solicitor or counsel acting for the person, must, on a request for the purpose, show the person a copy of all written submissions made by the victim. However, the person is not entitled to keep a copy of any of those submissions.
-(4) Despite subsections (2) and (3), the Minister may withhold from the person and every solicitor or counsel acting for the person (if any) any part of the victim's written submissions if, in the Minister's opinion, that withholding of the part is necessary to protect the physical safety or security of the victim concerned.
-(5) Despite subsection (1), the Minister must not have regard to any part of the victim's submissions that is withheld under subsection (4).
-(6) In this section, victim means a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002.
-
-### 105A Right of victims to make submissions on appeal
-(1) In determining an appeal under section 104, the Tribunal must have regard to—
-  (a) any written submissions made to it by a victim of an offence or offences of which the appellant has been convicted and from which the deportation order arose; and
-  (b) any relevant written submissions made by a victim to the Minister under section 93A.
-(2) In addition to, or instead of, making written submissions under this section, the victim may, with leave of the Tribunal, make oral submissions to the Tribunal on the appeal at the hearing of it.
-(3) The Tribunal must make available to a solicitor or counsel acting for the appellant, on a request for the purpose, a copy of all written submissions made by the victim under section 93A or this section.
-(4) The Tribunal, or a solicitor or counsel acting for the appellant, must, on a request for the purpose, show the appellant a copy of all written submissions made by the victim under section 93A or this section. However, the appellant is not entitled to keep a copy of any of those submissions.
-(5) Despite subsections (3) and (4), the Tribunal may withhold from the appellant and every solicitor or counsel acting for the appellant (if any) either or both of the following if, in the Tribunal's opinion, that withholding is necessary to protect the physical safety or security of the victim concerned:
-  (a) any part of the victim's written submissions under section 93A, whether or not that part was withheld by the Minister under section 93A(4):
-  (b) any part of the victim's written submissions under this section.
-(6) Despite subsection (1), the Tribunal must not have regard to any part of the victim's submissions that is withheld under subsection (5).
-(7) In this section, victim means a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002.
-
-### 43A Consultation and disclosure necessary to provide reports
-To avoid doubt, if a person providing a report referred to in section 43 considers that it is or may be necessary to do so in order to provide the report, he or she—
-  (a) may consult with any other person (for example, with any victim (as defined in section 4 of the Victims' Rights Act 2002)) who is or may be able to provide information relevant to the matters that the report must address (relevant information); and
-  (b) may, so far as it is or may be necessary to do so in order to ascertain from the other person relevant information, disclose to the other person information—
-    (i) about why the report must be provided; and
-    (ii) about the nature and purpose of the report.
-
-### 50A Submissions from, and interviews with, certain victims
-(1) This section applies to a person who—
-  (a) is not a victim as defined in section 4(1) of this Act; but
-  (b) is a victim as defined in section 4 of the Victims' Rights Act 2002.
-(2) To avoid doubt, the person—information relevant to, the substantive matter to be decided at a hearing referred to in section 42; and
-  (a) may, by writing to the Board, make submissions on, or give
-  (b) if the hearing is an unattended hearing, may, with the leave of the Board, have an interview before the hearing with 1 member of the panel allocated to conduct the hearing, in accordance with section 47(1) to (3); and
-  (c) if the hearing is an attended hearing, may, with the leave of the Board, appear and make oral submissions to the Board, in accordance with section 49(4).
-(3) If the person seeks information from the Board in order to take a step in subsection (2)(a) or (b) or (c), the Board may—
-  (a) advise the person of the relevant hearing date; and
-  (b) give the person any other information that is reasonably necessary to enable the person to take the step.
-(4) Neither the Board nor any other person has any liability for any act done in pursuance, or intended pursuance, of the Board's functions under this section or section 50B, unless the act was done in bad faith.
-
-### 50B Decisions to be notified to certain victims
-(1) The following persons must, after the hearing concerned, be advised of the matters in section 50(1)(a) to (c):
-  (a) a person who, by writing to the Board, makes submissions or gives relevant information as referred to in section 50A(2)(a):
-  (b) a person who is interviewed as referred to in section 50A(2)(b):
-  (c) a person who appears and makes oral submissions as referred to in section 50A(2)(c).
-(2) Advice under subsection (1) may include only those release or detention conditions that are of personal relevance to the person or his or her family, or that address the person's submissions.
+## Schedule  — Enactments amended
