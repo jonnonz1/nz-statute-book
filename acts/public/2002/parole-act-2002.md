@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -703,7 +703,7 @@ If a victim requests information on an offender under section 43(3), the Departm
 (2) Before an offender becomes subject to residential restrictions, the chief executive must advise the police of the date on which the restrictions commence and the date on which they cease to apply.
 
 ### 55 Release for purpose of deportation
-(1) The Minister of Immigration may, by notice in writing to the manager of a prison, order the release of an offender into the custody of any member of the police if—
+(1) The Minister of Immigration may, by notice in writing to the manager of a prison, order the release of an offender into the custody of any Police employee if—
   (a) the offender is subject to a sentence of imprisonment, including a sentence of imprisonment imposed under the Armed Forces Discipline Act 1971; and
   (b) the offender has been ordered to be deported from New Zealand by the Governor-General under section 72 of the Immigration Act 1987, or by the Minister of Immigration under any of sections 73, 91, or 92 of that Act; and
   (c) a copy of the order, or a notice of the making of the order, has been served on the offender; and
@@ -711,12 +711,12 @@ If a victim requests information on an offender under section 43(3), the Departm
     (i) the offender has no right of appeal under that Act against the making of that order:
     (ii) the time for bringing that appeal has expired and the offender has not brought an appeal:
     (iii) any such appeal has been determined and the order has not been quashed.
-(2) A notice issued under subsection (1) is sufficient authority for the manager to release the offender accordingly on request by any member of the police.
-(3) When a ship or aircraft becomes available to take the offender from New Zealand, and it is practicable in all the circumstances for the offender to leave on that ship or aircraft, a member of the police may require the manager, in accordance with subsection (1), to deliver the offender into the custody of the member; and the member must escort the offender (or arrange for him or her to be escorted) to the seaport or airport and ensure that the offender is placed upon the ship or aircraft and detained there until the ship or aircraft leaves New Zealand.
+(2) A notice issued under subsection (1) is sufficient authority for the manager to release the offender accordingly on request by any Police employee.
+(3) When a ship or aircraft becomes available to take the offender from New Zealand, and it is practicable in all the circumstances for the offender to leave on that ship or aircraft, a Police employee may require the manager, in accordance with subsection (1), to deliver the offender into the custody of the member; and the member must escort the offender (or arrange for him or her to be escorted) to the seaport or airport and ensure that the offender is placed upon the ship or aircraft and detained there until the ship or aircraft leaves New Zealand.
 (4) If for any reason that ship or aircraft is delayed in New Zealand for more than 24 hours, the offender must be returned to the custody of the manager, and, for that purpose, the warrant by which the offender was originally committed to the institution is deemed to be still in force.
-(5) If an offender is returned to custody under subsection (4), the manager must, on request by any member of the police, release the offender into the custody of that member for deportation, and the provisions of this section apply in respect of every request until the offender is finally deported.
-(6) Despite subsection (1), in respect of any offender to whom paragraphs (a) to (d) of that subsection apply, the chief executive may, at any time within 28 days preceding the offender's statutory release date, by notice in writing to the manager of the prison in which the offender is detained, order the release of the offender into the custody of any member of the police in possession of the notice; and that notice is sufficient authority for the manager to release the offender accordingly.
-(7) If an offender is released into the custody of a member of the police under subsection (6), subsections (3) to (5) apply as if the release were ordered by the Minister of Immigration.
+(5) If an offender is returned to custody under subsection (4), the manager must, on request by any Police employee, release the offender into the custody of that member for deportation, and the provisions of this section apply in respect of every request until the offender is finally deported.
+(6) Despite subsection (1), in respect of any offender to whom paragraphs (a) to (d) of that subsection apply, the chief executive may, at any time within 28 days preceding the offender's statutory release date, by notice in writing to the manager of the prison in which the offender is detained, order the release of the offender into the custody of any Police employee in possession of the notice; and that notice is sufficient authority for the manager to release the offender accordingly.
+(7) If an offender is released into the custody of a Police employee under subsection (6), subsections (3) to (5) apply as if the release were ordered by the Minister of Immigration.
 (8) If an offender is released and deported under this section, his or her sentence continues to run and, if the offender subsequently returns to New Zealand before the sentence expiry date, the offender is liable to resume serving it.
 
 **Variation and discharge of conditions**
@@ -841,7 +841,7 @@ The grounds for recall are that—
   (c) the Board may vary or discharge any conditions imposed by the Board that apply to the offender, without the need for an application under section 56.
 
 ### 66A Protection of members of police
-Section 39 of the Police Act 1958 applies to protect members of the police as if a warrant issued under section 63(1) or section 66(3) were a process issued out of a court.
+Section 44 of the Policing Act 2008 applies to protect members of the police as if a warrant issued under section 63(1) or section 66(3) were a process issued out of a court.
 
 **Reviews and appeals from decisions**
 
