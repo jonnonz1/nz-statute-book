@@ -1,7 +1,7 @@
 # Submarine Cables and Pipelines Protection Act 1996
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
-> An Act—aTo provide better protection of submarine cables and pipelines; andbTo continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcTo consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
+> An Act—ato provide better protection of submarine cables and pipelines; andbto continue, or enable, the implementation of obligations on New Zealand under various international conventions relating to protection of submarine cables and pipelines; andcto consolidate and amend the Submarine Cables and Pipelines Protection Act 1966
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Submarine Cables and Pipelines Protection Act 1996.
@@ -11,35 +11,35 @@ _Consolidation as at 2007-09-03_
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Anchor** includes an anchor chain and an anchor cable
-  - **Approved maritime surveillance equipment** means any maritime surveillance equipment of a kind approved by the Minister under section 35 of this Act
-  - **Cable** includes works within the meaning of section 2 of the Electricity Act 1992 and a line within the meaning of section 5 of the Telecommunications Act 2001
+  - **anchor** includes an anchor chain and an anchor cable
+  - **approved maritime surveillance equipment** means any maritime surveillance equipment of a kind approved by the Minister under section 35
+  - **cable** includes works within the meaning of section 2 of the Electricity Act 1992 and a line within the meaning of section 5 of the Telecommunications Act 2001
   - **Director** means the person who is for the time being the Director of Maritime New Zealand under section 439 of the Maritime Transport Act 1994
-  - **Enforcement officer** means—
-    (a) A member of the Police:
-    (b) An officer in command of a ship of the New Zealand Naval Forces:
-    (c) An officer of the New Zealand Naval Forces of the rank of Midshipman or above:
-  - **High seas** means all parts of the sea that are not included in the territorial sea or in the internal waters of a country
-  - **Image** , in relation to approved maritime surveillance equipment, includes a photograph, information stored in electronic form, and the display and transmission of pictorial or digital information
-  - **Internal waters of New Zealand** means the internal waters of New Zealand as defined by section 4 of the Territorial Sea and Exclusive Economic Zone Act 1977
-  - **Master** means a person (except a pilot) having command or charge of a ship
+  - **enforcement officer** means—
+    (a) a constable:
+    (b) an officer in command of a ship of the New Zealand Naval Forces:
+    (c) an officer of the New Zealand Naval Forces of the rank of Midshipman or above
+  - **high seas** means all parts of the sea that are not included in the territorial sea or in the internal waters of a country
+  - **image** , in relation to approved maritime surveillance equipment, includes a photograph, information stored in electronic form, and the display and transmission of pictorial or digital information
+  - **internal waters of New Zealand** means the internal waters of New Zealand as defined by section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
+  - **master** means a person (except a pilot) having command or charge of a ship
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand ship** means a ship that is registered under the Ship Registration Act 1992; and includes a ship that is not registered under that Act but is required or entitled to be registered under that Act
-  - **Owner** ,—
-    (a) In relation to a ship registered in New Zealand under the Ship Registration Act 1992, means the registered owner of the ship:
-    (b) In relation to a ship registered in any place outside New Zealand, means the registered owner of the ship:
-    (c) In relation to a fishing ship, other than one to which paragraph (a) or paragraph (b) of this definition applies, means the person registered as the owner of the ship under section 57 of the Fisheries Act 1983:
-    (d) In relation to a ship to which paragraph (a) or paragraph (b) or paragraph (c) of this definition applies, if, by virtue of any charter or demise or for any other reason, the registered owner is not responsible for the management of the ship, means the charterer or other person who is for the time being so responsible:
-    (e) In relation to an unregistered ship or a registered ship that does not have a registered owner, means the person who is for the time being responsible for the management of the ship:
-  - **Owner** , in relation to a submarine cable or submarine pipeline, includes the person who, if the cable or pipeline has ceased to be used, owned the cable or pipeline at the time it ceased to be used
-  - **Pipeline** means a pipeline used or intended to be used for the conveyance of gas (including natural gas), petroleum, oil, water, or any other mineral, liquid, or substance; and includes all fittings, pumps, tanks, appurtenances, or appliances used in connection with a pipeline
-  - **Protection officer** means a protection officer appointed under section 16 of this Act
-  - **Ship** means every description of boat or craft used in navigation, whether or not it has any means of propulsion; and includes—
-    (a) A barge, lighter, or other like vessel:
-    (b) A hovercraft or other thing deriving full or partial support in the atmosphere from the reaction of air against the surface of the water over which it operates:
-    (c) A submarine or other submersible:
-  - **Submarine cable** means a cable that lies beneath the high seas or the territorial sea of New Zealand or the internal waters of New Zealand
-  - **Submarine pipeline** means a pipeline that lies beneath the high seas or the territorial sea of New Zealand or the internal waters of New Zealand.
+  - **owner** ,—
+    (a) in relation to a ship registered in New Zealand under the Ship Registration Act 1992, means the registered owner of the ship:
+    (b) in relation to a ship registered in any place outside New Zealand, means the registered owner of the ship:
+    (c) in relation to a fishing ship, other than one to which paragraph (a) or paragraph (b) applies, means the person registered as the owner of the ship under section 57 of the Fisheries Act 1983:
+    (d) in relation to a ship to which paragraph (a) or paragraph (b) or paragraph (c) applies, if, by virtue of any charter or demise or for any other reason, the registered owner is not responsible for the management of the ship, means the charterer or other person who is for the time being so responsible:
+    (e) in relation to an unregistered ship or a registered ship that does not have a registered owner, means the person who is for the time being responsible for the management of the ship
+  - **owner** , in relation to a submarine cable or submarine pipeline, includes the person who, if the cable or pipeline has ceased to be used, owned the cable or pipeline at the time it ceased to be used
+  - **pipeline** means a pipeline used or intended to be used for the conveyance of gas (including natural gas), petroleum, oil, water, or any other mineral, liquid, or substance; and includes all fittings, pumps, tanks, appurtenances, or appliances used in connection with a pipeline
+  - **protection officer** means a protection officer appointed under section 16
+  - **ship** means every description of boat or craft used in navigation, whether or not it has any means of propulsion; and includes—
+    (a) a barge, lighter, or other like vessel:
+    (b) a hovercraft or other thing deriving full or partial support in the atmosphere from the reaction of air against the surface of the water over which it operates:
+    (c) a submarine or other submersible
+  - **submarine cable** means a cable that lies beneath the high seas or the territorial sea of New Zealand or the internal waters of New Zealand
+  - **submarine pipeline** means a pipeline that lies beneath the high seas or the territorial sea of New Zealand or the internal waters of New Zealand.
 
 **Application**
 
@@ -48,9 +48,9 @@ This Act binds the Crown.
 
 ### 4 Application of Act
 This Act applies to acts or omissions—
-  (a) By a person within the territorial sea of New Zealand or the internal waters of New Zealand; or
-  (b) By a person on board or by means of a New Zealand ship on the high seas; or
-  (c) By a New Zealand citizen or a person ordinarily resident in New Zealand on board or by means of a ship, other than a New Zealand ship, on the high seas.
+  (a) by a person within the territorial sea of New Zealand or the internal waters of New Zealand; or
+  (b) by a person on board or by means of a New Zealand ship on the high seas; or
+  (c) by a New Zealand citizen or a person ordinarily resident in New Zealand on board or by means of a ship, other than a New Zealand ship, on the high seas.
 
 ### 5 Other Acts not affected
 The provisions of this Act are in addition to, and not in substitution for, the provisions of any other enactment and, except as expressly provided by this Act, nothing in this Act derogates from the provisions of any other enactment.
@@ -64,16 +64,16 @@ Nothing in this Act limits or affects the liability for damages of any person in
 
 ### 7 Liability in respect of damage to cable or pipeline
 A person who, in the course of laying or repairing a submarine cable or submarine pipeline of which the person is the owner, damages another submarine cable or submarine pipeline, is liable for the cost of repairing that damage, and such liability—
-  (a) Is in addition to any other liability to which the person may be subject; and
-  (b) Applies whether or not—
-    (i) The damage to the submarine cable or submarine pipeline was caused by that person's negligence; or
-    (ii) The person has been convicted of an offence relating to that damage.
+  (a) is in addition to any other liability to which the person may be subject; and
+  (b) applies whether or not—
+    (i) the damage to the submarine cable or submarine pipeline was caused by that person's negligence; or
+    (ii) the person has been convicted of an offence relating to that damage.
 
 **Indemnity for loss of certain equipment**
 
 ### 8 Indemnity for loss of certain equipment
-(1) Subject to subsection (2) of this section, if after all reasonable precautions have been taken, an anchor, a net, or any other fishing equipment belonging to a ship is sacrificed in order to avoid damaging a submarine cable or submarine pipeline, the owner of the ship is entitled to be indemnified for that owner's loss by the owner of the cable or pipeline.
-(2) An owner of a ship is not entitled to be indemnified under subsection (1) of this section if a person is convicted of an offence against section 11(1) or section 13 of this Act arising out of the conduct that would, but for this subsection, give rise to the indemnity.
+(1) Subject to subsection (2), if after all reasonable precautions have been taken, an anchor, a net, or any other fishing equipment belonging to a ship is sacrificed in order to avoid damaging a submarine cable or submarine pipeline, the owner of the ship is entitled to be indemnified for that owner's loss by the owner of the cable or pipeline.
+(2) An owner of a ship is not entitled to be indemnified under subsection (1) if a person is convicted of an offence against section 11(1) or section 13 arising out of the conduct that would, but for this subsection, give rise to the indemnity.
 
 **Submarine cable or pipeline that has ceased to be used**
 
@@ -83,19 +83,19 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 
 ### 10 District Court may order removal of abandoned submarine cable or pipeline
 (1) On the application of the Minister, a District Court may order that a submarine cable or submarine pipeline, or part of the cable or pipeline, that, in its opinion,—be removed by the owner of the submarine cable or submarine pipeline, at the owner's expense, from the territorial sea of New Zealand or the internal waters of New Zealand, as the case may be, within such time and in accordance with such conditions as may be specified in the order.
-  (a) Is unlikely to be used again; and
-  (b) Constitutes a hazard to fishing operations or the anchoring of ships—
+  (a) is unlikely to be used again; and
+  (b) constitutes a hazard to fishing operations or the anchoring of ships—
 (2) If the owner of a submarine cable or submarine pipeline that has been ordered to be removed under this section fails to comply with all or any part of the order, within the time specified in the order or within such further period as the District Court may allow, the Minister may—
-  (a) Carry out all or any part of the work ordered to be carried out, and do all things incidental to the work; and
-  (b) Recover the costs for carrying out the work referred to in paragraph (a) of this subsection from the owner of the submarine cable or submarine pipeline, as the case may be, as a debt due to the Crown.
+  (a) carry out all or any part of the work ordered to be carried out, and do all things incidental to the work; and
+  (b) recover the costs for carrying out the work referred to in paragraph (a) from the owner of the submarine cable or submarine pipeline, as the case may be, as a debt due to the Crown.
 
 **Offence to damage submarine cable or pipeline**
 
 ### 11 Offence to damage submarine cable or pipeline
 (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $250,000 who—
-  (a) Wilfully or negligently either damages, or causes or permits a ship or equipment belonging to a ship to damage, a submarine cable or submarine pipeline; or
-  (b) Is the owner or master of a ship that is used in the commission of an offence against paragraph (a) of this subsection.
-(2) An owner or master of a ship who is convicted of an offence against paragraph (a) of subsection (1) of this section is not liable for an offence against paragraph (b) of that subsection arising out of the same course of conduct.
+  (a) wilfully or negligently either damages, or causes or permits a ship or equipment belonging to a ship to damage, a submarine cable or submarine pipeline; or
+  (b) is the owner or master of a ship that is used in the commission of an offence against paragraph (a).
+(2) An owner or master of a ship who is convicted of an offence against paragraph (a) of subsection (1) is not liable for an offence against paragraph (b) of that subsection arising out of the same course of conduct.
 (3) It is a defence to a prosecution for an offence against this section if the defendant proves that the damage which is alleged to constitute the offence was caused by persons acting with the sole object of saving life or a ship after having taken all reasonable precautions to avoid the damage.
 (4) For the purposes of this section, a person who causes an event by an act or omission which he or she knows would probably cause it, being reckless whether that event happens or not, is deemed to have caused it wilfully.
 
@@ -103,54 +103,54 @@ A person who, in the course of laying or repairing a submarine cable or submarin
 
 ### 12 Protected areas
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, declare any of the following areas to be a protected area for the purposes of this Act:
-  (a) An area within the internal waters of New Zealand:
-  (b) An area within the territorial sea of New Zealand:
-  (c) An area within the exclusive economic zone of New Zealand (as described in section 9 of the Territorial Sea and Exclusive Economic Zone Act 1977).
-(2) The Minister shall not make a recommendation under subsection (1) of this section unless—
-  (a) The Minister has first consulted with such persons or organisations representing such persons as the Minister considers would be affected by the order; and
-  (b) Those persons or organisations have a reasonable opportunity to make submissions to the Minister; and
-  (c) The Minister has regard to those submissions.
-(3) A failure to comply with subsection (2) of this section does not affect the validity of any Order in Council made under subsection (1) of this section.
-(4) An Order in Council under subsection (1) of this section may—
-  (a) Apply—
-    (i) Generally in respect of an area to which it relates:
-    (ii) Differently in respect of specified areas or classes of areas within the general area specified in the Order in Council:
-    (iii) Generally in respect of all ships:
-    (iv) Differently in respect of specified ships or classes of ships:
-    (v) Generally in respect of all methods of fishing:
-    (vi) Differently in respect of specified methods of fishing:
-  (b) Impose requirements in respect of specified ships or classes of ships that must be met before a ship or class of ships qualifies for exclusion from the application of the order.
-(5) The Minister shall publish a notice of the making of an Order in Council under subsection (1) of this section in—
-  (a) Each of the metropolitan daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively; and
-  (b) The Gazette.
+  (a) an area within the internal waters of New Zealand:
+  (b) an area within the territorial sea of New Zealand:
+  (c) an area within the exclusive economic zone of New Zealand (as described in section 9 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977).
+(2) The Minister shall not make a recommendation under subsection (1) unless—
+  (a) the Minister has first consulted with such persons or organisations representing such persons as the Minister considers would be affected by the order; and
+  (b) those persons or organisations have a reasonable opportunity to make submissions to the Minister; and
+  (c) the Minister has regard to those submissions.
+(3) A failure to comply with subsection (2) does not affect the validity of any Order in Council made under subsection (1).
+(4) An Order in Council under subsection (1) may—
+  (a) apply—
+    (i) generally in respect of an area to which it relates:
+    (ii) differently in respect of specified areas or classes of areas within the general area specified in the Order in Council:
+    (iii) generally in respect of all ships:
+    (iv) differently in respect of specified ships or classes of ships:
+    (v) generally in respect of all methods of fishing:
+    (vi) differently in respect of specified methods of fishing:
+  (b) impose requirements in respect of specified ships or classes of ships that must be met before a ship or class of ships qualifies for exclusion from the application of the order.
+(5) The Minister shall publish a notice of the making of an Order in Council under subsection (1) in—
+  (a) each of the metropolitan daily newspapers published in Auckland, Wellington, Christchurch, and Dunedin, respectively; and
+  (b) the Gazette.
 (6) The Minister may, by notice in the Gazette, declare that an Order in Council under this section does not apply in respect of a specified ship or class of ships, and may in like manner vary or revoke any such notice.
-(7) A declaration under subsection (6) of this section may be made unconditionally or upon or subject to such conditions that are specified in the notice.
+(7) A declaration under subsection (6) may be made unconditionally or upon or subject to such conditions that are specified in the notice.
 (8) Notwithstanding the provisions of an Order in Council under this section, any such notice has effect according to its tenor.
-(9) Subsections (2), (3), and (5) of this section apply, with such modifications as may be necessary, to the making of a declaration under subsection (6) of this section.
+(9) Subsections (2), (3), and (5) apply, with such modifications as may be necessary, to the making of a declaration under subsection (6).
 
 ### 13 Offences in respect of protected areas
-(1) Subject to subsection (3) of this section, if—the owner and the master of the ship each commits an offence and is each liable on summary conviction to the appropriate penalty under section 15 of this Act.
-  (a) Fishing operations are conducted from a ship in an area declared to be a protected area in respect of that ship under section 12(1) of this Act; or
-  (b) A ship is anchored in any such area—
-(2) Subject to subsection (3) of this section, every person who fails to comply with, or acts in contravention of, an Order in Council under section 12(1) of this Act commits an offence and is liable on summary conviction to the appropriate penalty under section 15 of this Act.
-(3) A person is not liable for an offence against this section involving a ship to which a notice under section 12(6) of this Act applies.
+(1) Subject to subsection (3), if—the owner and the master of the ship each commits an offence and is each liable on summary conviction to the appropriate penalty under section 15.
+  (a) fishing operations are conducted from a ship in an area declared to be a protected area in respect of that ship under section 12(1); or
+  (b) a ship is anchored in any such area—
+(2) Subject to subsection (3), every person who fails to comply with, or acts in contravention of, an Order in Council under section 12(1) commits an offence and is liable on summary conviction to the appropriate penalty under section 15.
+(3) A person is not liable for an offence against this section involving a ship to which a notice under section 12(6) applies.
 (4) Where in proceedings for an offence against this section, an enforcement officer or a protection officer gives evidence that he or she observed—it shall be presumed that, in the absence of evidence to the contrary, fishing operations were being conducted from the ship or the ship was anchored, as the case may be.
-  (a) A net, line, rope, chain, or any other thing used in connection with fishing operations being towed by, or operated or suspended from, a ship; or
-  (b) An anchor being lowered or suspended from, or raised by, a ship,—
+  (a) a net, line, rope, chain, or any other thing used in connection with fishing operations being towed by, or operated or suspended from, a ship; or
+  (b) an anchor being lowered or suspended from, or raised by, a ship,—
 (5) Where in proceedings for an offence against this section, evidence is given of an image made by approved maritime surveillance equipment, being an image showing—it shall be presumed that, in the absence of evidence to the contrary, fishing operations were being conducted from the ship or the ship was anchored, as the case may be.
-  (a) A net, line, rope, chain, or any other thing used in connection with fishing operations being towed by, or operated or suspended from, a ship; or
-  (b) An anchor being lowered or suspended from, or raised by, a ship,—
+  (a) a net, line, rope, chain, or any other thing used in connection with fishing operations being towed by, or operated or suspended from, a ship; or
+  (b) an anchor being lowered or suspended from, or raised by, a ship,—
 
 ### 14 Defences in respect of certain offences
-(1) It is a defence to a prosecution for an offence against section 13 of this Act if the defendant proves that any anchoring which is alleged to constitute the offence was necessary for the purpose of saving life or a ship.
-(2) It is a defence to a prosecution for an offence against section 13 of this Act if the defendant proves that the defendant took all reasonable steps to prevent the commission of the offence.
+(1) It is a defence to a prosecution for an offence against section 13 if the defendant proves that any anchoring which is alleged to constitute the offence was necessary for the purpose of saving life or a ship.
+(2) It is a defence to a prosecution for an offence against section 13 if the defendant proves that the defendant took all reasonable steps to prevent the commission of the offence.
 
 ### 15 Penalties in respect of certain offences
-Every person who commits an offence against section 13 of this Act is liable on summary conviction,—
-  (a) To a fine not exceeding $100,000, if—
-    (i) The offence was committed in the course of conducting an activity for the purpose of producing a commercial gain; or
-    (ii) A ship, which is used for an activity that has, as its predominant purpose, the making of a commercial gain, was used in the commission of the offence:
-  (b) To a fine not exceeding $20,000, if the offence was committed, otherwise than in any of the circumstances specified in paragraph (a) of this section.
+Every person who commits an offence against section 13 is liable on summary conviction,—
+  (a) to a fine not exceeding $100,000, if—
+    (i) the offence was committed in the course of conducting an activity for the purpose of producing a commercial gain; or
+    (ii) a ship, which is used for an activity that has, as its predominant purpose, the making of a commercial gain, was used in the commission of the offence:
+  (b) to a fine not exceeding $20,000, if the offence was committed, otherwise than in any of the circumstances specified in paragraph (a).
 
 **Appointment and powers of protection officers, etc**
 
@@ -159,143 +159,143 @@ Every person who commits an offence against section 13 of this Act is liable on 
 (2) For the purposes of this Act, an enforcement officer is deemed to be a protection officer.
 
 ### 17 Ship may be ordered from protected area
-(1) If a protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in a protected area in the commission of an offence against section 13 of this Act, the protection officer may, by any means of communication, order the master of the ship to remove the ship from that area.
+(1) If a protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in a protected area in the commission of an offence against section 13, the protection officer may, by any means of communication, order the master of the ship to remove the ship from that area.
 (2) Without derogating from any other provision of this Act, a master who, without reasonable cause, fails within a reasonable period of time to comply with an order given under this section, commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 
 ### 18 Seizure of fishing equipment in protected area
 (1) A protection officer who finds fishing equipment may seize the equipment if he or she believes on reasonable grounds that—
-  (a) The area in which he or she finds the equipment is declared to be a protected area by an Order in Council under section 12(1) of this Act; and
-  (b) The equipment has been left there by a ship to which the order applies.
-(2) A protection officer who has seized fishing equipment under subsection (1) of this section shall without delay arrange for notice of the seizure to be posted at the police station nearest to where the seizure was made.
-(3) Subject to subsection (4) of this section, a protection officer shall return fishing equipment seized under subsection (1) of this section, at the expense of the person, to a person who establishes ownership to the satisfaction of the protection officer.
-(4) If ownership of the fishing equipment is not established under subsection (3) of this section within 60 days after the posting of the notice of seizure under subsection (2) of this section,—
-  (a) The fishing equipment becomes the property of the Crown subject only to those encumbrances, liens, and interests of which a protection officer is aware at the time the fishing equipment becomes the property of the Crown; and
-  (b) The fishing equipment may be sold or otherwise disposed of as the Minister thinks fit.
+  (a) the area in which he or she finds the equipment is declared to be a protected area by an Order in Council under section 12(1); and
+  (b) the equipment has been left there by a ship to which the order applies.
+(2) A protection officer who has seized fishing equipment under subsection (1) shall without delay arrange for notice of the seizure to be posted at the Police station nearest to where the seizure was made.
+(3) Subject to subsection (4), a protection officer shall return fishing equipment seized under subsection (1), at the expense of the person, to a person who establishes ownership to the satisfaction of the protection officer.
+(4) If ownership of the fishing equipment is not established under subsection (3) within 60 days after the posting of the notice of seizure under subsection (2),—
+  (a) the fishing equipment becomes the property of the Crown subject only to those encumbrances, liens, and interests of which a protection officer is aware at the time the fishing equipment becomes the property of the Crown; and
+  (b) the fishing equipment may be sold or otherwise disposed of as the Minister thinks fit.
 
 ### 19 Master to identify ship
 (1) If,—the master of the ship must advise the protection officer of the master's name, owner's name, ship's name, place of registry, register number, and such further information as may be relevant to the identity of the master and owner and the identity of the ship that may be requested by the protection officer.
-  (a) A protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in the commission of an offence against section 13 of this Act; and
-  (b) A request for identification is made to the ship by the protection officer,—
-(2) A master who, without reasonable cause, fails within a reasonable period of time to comply with subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+  (a) a protection officer believes on reasonable grounds that a ship or equipment belonging to a ship is being used in the commission of an offence against section 13; and
+  (b) a request for identification is made to the ship by the protection officer,—
+(2) A master who, without reasonable cause, fails within a reasonable period of time to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 
 **Powers of enforcement officers, etc**
 
 ### 20 Power to obtain documents and information
 (1) If an enforcement officer has reasonable cause to believe that an offence is being or has been committed against this Act by or from or in relation to a ship, the enforcement officer may, for the purposes of enforcing the provisions of this Act,—
-  (a) Require the owner or the master or a member of the crew of the ship to produce a certificate, official logbook, or other document in the possession or under the control of the owner, master, or crew member that relates to the ship:
-  (b) Require the master to produce a certificate of registration, charter, or other document, or to provide other information relating to the owner of the ship:
-  (c) Require the master of the ship, or any other person on board the ship, to produce a document, or to give an explanation or information, as may be necessary to assist in identifying the location, conduct, and movements of the ship, or the actions of any person on board the ship at the time relevant to the suspected commission of an offence against this Act:
-  (d) Take or make copies of a document produced under this section, if the document is relevant to the suspected commission of an offence against this Act.
+  (a) require the owner or the master or a member of the crew of the ship to produce a certificate, official logbook, or other document in the possession or under the control of the owner, master, or crew member that relates to the ship:
+  (b) require the master to produce a certificate of registration, charter, or other document, or to provide other information relating to the owner of the ship:
+  (c) require the master of the ship, or any other person on board the ship, to produce a document, or to give an explanation or information, as may be necessary to assist in identifying the location, conduct, and movements of the ship, or the actions of any person on board the ship at the time relevant to the suspected commission of an offence against this Act:
+  (d) take or make copies of a document produced under this section, if the document is relevant to the suspected commission of an offence against this Act.
 (2) An enforcement officer may—
-  (a) Take possession of and remove any such document from the place where it is kept for such period of time as is reasonable in the circumstances; and
-  (b) Require a person to reproduce, or assist the enforcement officer to reproduce, in usable form any information recorded or stored on a document electronically or by other means.
-(3) Nothing in paragraph (b) or paragraph (c) of subsection (1) of this section requires a person to answer a question if to do so would tend to incriminate that person.
+  (a) take possession of and remove any such document from the place where it is kept for such period of time as is reasonable in the circumstances; and
+  (b) require a person to reproduce, or assist the enforcement officer to reproduce, in usable form any information recorded or stored on a document electronically or by other means.
+(3) Nothing in paragraph (b) or paragraph (c) of subsection (1) requires a person to answer a question if to do so would tend to incriminate that person.
 (4) For the purposes of this section document means a document in any form; and includes—
-  (a) Any writing on or in any material; and
-  (b) Information recorded or stored by means of a tape-recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
-  (c) A record, book, graph, or drawing; and
-  (d) A photograph, film, negative, tape, disk, or other device in which one or more visual images are embodied or stored so as to be capable (with or without the aid of equipment) of being reproduced.
-(5) Every person who fails without reasonable cause to comply with subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
+  (a) any writing on or in any material; and
+  (b) information recorded or stored by means of a tape recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
+  (c) a record, book, graph, or drawing; and
+  (d) a photograph, film, negative, tape, disk, or other device in which 1 or more visual images are embodied or stored so as to be capable (with or without the aid of equipment) of being reproduced.
+(5) Every person who fails without reasonable cause to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 
 ### 21 Power of seizure
-(1) An enforcement officer may seize a ship or other property if the officer believes on reasonable grounds that the ship or other property is being used in the commission of an offence against section 13 of this Act.
+(1) An enforcement officer may seize a ship or other property if the officer believes on reasonable grounds that the ship or other property is being used in the commission of an offence against section 13.
 (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who—
-  (a) Resists or obstructs an enforcement officer exercising the power of seizure under this section; or
-  (b) Fails without reasonable cause to comply with the requirements of an enforcement officer exercising the power of seizure under this section.
+  (a) resists or obstructs an enforcement officer exercising the power of seizure under this section; or
+  (b) fails without reasonable cause to comply with the requirements of an enforcement officer exercising the power of seizure under this section.
 
 ### 22 Persons assisting enforcement officer
 An enforcement officer exercising a power conferred on the officer by this Act may call upon a person in the vicinity for assistance, and every person so called upon is authorised to render such assistance.
 
 ### 23 Enforcement officer to produce evidence of authority to act
-Every enforcement officer exercising a power conferred by section 20 or section 21 of this Act shall, at the time of exercising that power, and thereafter on reasonable request, produce—
-  (a) Evidence that that person is an enforcement officer; and
-  (b) Evidence of that person's identity.
+Every enforcement officer exercising a power conferred by section 20 or section 21 shall, at the time of exercising that power, and thereafter on reasonable request, produce—
+  (a) evidence that that person is an enforcement officer; and
+  (b) evidence of that person's identity.
 
 **Provisions relating to seized property**
 
 ### 24 Custody of property seized
-(1) Subject to sections 25 and 26 of this Act, property seized under section 21 of this Act shall be held in the custody of the Crown and shall not be released until—and, in that event, it must be released immediately from the custody of the Crown.
-  (a) A decision is made not to lay an information in respect of the alleged offence for which the property was seized; or
-  (b) An information against the person charged with the offence for which the property was seized is dismissed,—
-(2) The decision whether or not to lay an information in respect of an alleged offence for which property is seized under section 21 of this Act shall be made as soon as reasonably practicable after the property is seized.
+(1) Subject to sections 25 and 26, property seized under section 21 shall be held in the custody of the Crown and shall not be released until—and, in that event, it must be released immediately from the custody of the Crown.
+  (a) a decision is made not to lay an information in respect of the alleged offence for which the property was seized; or
+  (b) an information against the person charged with the offence for which the property was seized is dismissed,—
+(2) The decision whether or not to lay an information in respect of an alleged offence for which property is seized under section 21 shall be made as soon as reasonably practicable after the property is seized.
 
 ### 25 Release of property by Minister
-(1) The Minister may, at any time after property has been seized under section 21 of this Act and before the completion of proceedings in respect of the alleged offence for which the property was seized under that section, on application by—release the property to that person under bond in such sum and under such sureties and conditions (if any) as the Minister may specify.
-  (a) The person from whom the property was seized; or
-  (b) The owner or person entitled to the possession of the property seized,—
-(2) If the person to whom property is released under subsection (1) of this section fails to comply with the conditions of a bond or with a condition specified by the Minister,—
-  (a) The property may be reseized at any time at the direction of the Minister; and
-  (b) The Minister may, in the case of failure to comply with the conditions of a bond, apply to a District Court for an order for estreat of the bond.
+(1) The Minister may, at any time after property has been seized under section 21 and before the completion of proceedings in respect of the alleged offence for which the property was seized under that section, on application by—release the property to that person under bond in such sum and under such sureties and conditions (if any) as the Minister may specify.
+  (a) the person from whom the property was seized; or
+  (b) the owner or person entitled to the possession of the property seized,—
+(2) If the person to whom property is released under subsection (1) fails to comply with the conditions of a bond or with a condition specified by the Minister,—
+  (a) the property may be reseized at any time at the direction of the Minister; and
+  (b) the Minister may, in the case of failure to comply with the conditions of a bond, apply to a District Court for an order for estreat of the bond.
 (3) If the Minister applies for an order for estreat of the bond, the Registrar shall fix a time and place for the hearing of the application, and shall, not less than 14 days before the time fixed, cause to be served on every person bound by the bond a notice of the time and place so fixed.
-(4) If, on the hearing of the application, it is proved to the satisfaction of the Court that a condition of the bond has not been kept, the Court may make an order to estreat the bond to such an amount as it thinks fit to any person bound by the bond on whom notice is proved to have been served in accordance with subsection (3) of this section.
-(5) A penalty payable under subsection (4) of this section is recoverable as if it were a fine.
+(4) If, on the hearing of the application, it is proved to the satisfaction of the court that a condition of the bond has not been kept, the court may make an order to estreat the bond to such an amount as it thinks fit to any person bound by the bond on whom notice is proved to have been served in accordance with subsection (3).
+(5) A penalty payable under subsection (4) is recoverable as if it were a fine.
 
-### 26 Release of property by Court
-(1) Where property has been seized under section 21 of this Act,—may, in accordance with this section, apply to a District Court or the High Court, as the case may be, for an order releasing the property to that person, and any such release may be subject to such sureties and conditions as the Court may specify.
-  (a) The person from whom the property was seized; or
-  (b) The owner or person entitled to the possession of the property seized,—
+### 26 Release of property by court
+(1) Where property has been seized under section 21,—may, in accordance with this section, apply to a District Court or the High Court, as the case may be, for an order releasing the property to that person, and any such release may be subject to such sureties and conditions as the court may specify.
+  (a) the person from whom the property was seized; or
+  (b) the owner or person entitled to the possession of the property seized,—
 (2) Where the property does not exceed $200,000 in value, the application shall be by way of originating application made to a District Court and the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application.
 (3) Where the property exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules apply with respect to every such application.
 
 **Proceedings for offences, etc**
 
 ### 27 Consent of Attorney-General required for certain proceedings
-(1) Notwithstanding anything in any other enactment, proceedings for an offence against this Act or regulations under this Act, being an offence that is alleged to have been committed—shall not be instituted in any Court except with the consent of the Attorney-General and on his or her certificate that it is expedient that the proceedings should be instituted.
-  (a) Outside the territorial sea of New Zealand; or
-  (b) On board or by means of a ship, other than a New Zealand ship; or
-  (c) By a person who is not a New Zealand citizen or a person ordinarily resident in New Zealand,—
-(2) Notwithstanding subsection (1) of this section, a person may be arrested, or a warrant for a person's arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further proceedings shall be taken until the Attorney-General's consent under subsection (1) of this section has been obtained.
+(1) Notwithstanding anything in any other enactment, proceedings for an offence against this Act or regulations under this Act, being an offence that is alleged to have been committed—shall not be instituted in any court except with the consent of the Attorney-General and on his or her certificate that it is expedient that the proceedings should be instituted.
+  (a) outside the territorial sea of New Zealand; or
+  (b) on board or by means of a ship, other than a New Zealand ship; or
+  (c) by a person who is not a New Zealand citizen or a person ordinarily resident in New Zealand,—
+(2) Notwithstanding subsection (1), a person may be arrested, or a warrant for a person's arrest may be issued and executed, and the person may be remanded in custody or on bail, but no further proceedings shall be taken until the Attorney-General's consent under subsection (1) has been obtained.
 
 ### 28 Evidential provisions relating to approved maritime surveillance equipment
 (1) In proceedings against a person for an offence against this Act or regulations under this Act, the production of an image produced by approved maritime surveillance equipment, being an image—is, in the absence of proof to the contrary, sufficient evidence that the ship was present in a particular position or that the image was taken on that date or at that time or at that location, as the case may be.
-  (a) Recording the presence or position of a ship; and
-  (b) Recording the date on which the image was taken, the time when the image was taken, and the location at which the image was taken, or recording any of those particulars,—
-(2) The production in evidence in the proceedings of an image that appears to be an image referred to in subsection (1) of this section is, in the absence of proof to the contrary, sufficient evidence that the image was produced by approved maritime surveillance equipment.
+  (a) recording the presence or position of a ship; and
+  (b) recording the date on which the image was taken, the time when the image was taken, and the location at which the image was taken, or recording any of those particulars,—
+(2) The production in evidence in the proceedings of an image that appears to be an image referred to in subsection (1) is, in the absence of proof to the contrary, sufficient evidence that the image was produced by approved maritime surveillance equipment.
 
 ### 29 Offence to tamper or interfere with approved maritime surveillance equipment
 Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who—
-  (a) Tampers with approved maritime surveillance equipment; or
-  (b) Interferes with—
-    (i) Approved maritime surveillance equipment; or
-    (ii) The operation of approved maritime surveillance equipment.
+  (a) tampers with approved maritime surveillance equipment; or
+  (b) interferes with—
+    (i) approved maritime surveillance equipment; or
+    (ii) the operation of approved maritime surveillance equipment.
 
 ### 30 Evidence of testing and accuracy of approved maritime surveillance equipment
 (1) In proceedings for an offence against this Act or regulations under this Act, the production of a certificate (or a document that appears to be a copy of the certificate) that appears to be signed by the Director or by a person authorised by the Director, as to the testing and accuracy of approved maritime surveillance equipment referred to in the certificate, is admissible as evidence that the equipment referred to has been tested and is accurate.
-(2) Every document that appears to be a copy of a certificate issued under subsection (1) of this section shall, in the absence of proof to the contrary, be presumed to be a true copy.
-(3) Every certificate issued under subsection (1) of this section shall, in the absence of proof to the contrary, be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for the certificate to show on its face that the person signing it was so authorised.
+(2) Every document that appears to be a copy of a certificate issued under subsection (1) shall, in the absence of proof to the contrary, be presumed to be a true copy.
+(3) Every certificate issued under subsection (1) shall, in the absence of proof to the contrary, be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for the certificate to show on its face that the person signing it was so authorised.
 
 **Forfeiture of property on conviction**
 
 ### 31 Forfeiture of property on conviction
 (1) On the conviction of a person for an offence against—the District Court in which the conviction is entered may order that a ship or other property used in respect of the commission of the offence be forfeited to the Crown.
-  (a) Section 11 of this Act; or
-  (b) Section 13 of this Act, in any case where the penalty imposed in respect of the offence is specified in section 15(a) of this Act,—
-(2) Where any property is forfeited to the Crown under subsection (1) of this section, the property shall upon forfeiture vest in the Crown absolutely and free of all encumbrances, liens, and interests.
+  (a) section 11; or
+  (b) section 13, in any case where the penalty imposed in respect of the offence is specified in section 15(a),—
+(2) Where any property is forfeited to the Crown under subsection (1), the property shall upon forfeiture vest in the Crown absolutely and free of all encumbrances, liens, and interests.
 
 ### 32 Court may grant relief to third party
-(1) Subject to subsection (2) of this section, if property has been forfeited to the Crown under section 31(1) of this Act, a person who claims that the person had an interest in the forfeited property prior to its forfeiture to the Crown may, in accordance with this section, apply to the District Court that ordered the forfeiture or the High Court, as the case may be, for an order under subsection (6) of this section.
-(2) Nothing in subsection (1) of this section applies to—
-  (a) A person who was involved in the commission of the offence in respect of which the property has been forfeited; or
-  (b) A person who did not acquire his or her interest in the property in good faith and who knew or had reason to believe at the time of the acquisition that the property was or would be involved in the commission of the offence in respect of which the property has been forfeited.
-(3) Where the property forfeited under section 31(1) of this Act does not exceed $200,000 in value, the application shall be by way of originating application made to, and filed in, the office of the District Court that ordered the forfeiture.
-(4) Except as modified by subsection (3) of this section, the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application made to the District Court that ordered the forfeiture.
-(5) Where the property forfeited under section 31(1) of this Act exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules apply with respect to every such application.
-(6) If the Court is satisfied that—the Court may make an order—
-  (a) The applicant is a person to whom subsection (1) of this section applies; and
-  (b) The applicant's claim to an interest in the property is valid,—
-  (c) Declaring the nature, extent, and value of the applicant's interest in the property; and
-  (d) Either—
-    (i) Directing the Crown to transfer the interest to the applicant; or
-    (ii) Declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the Court.
-(7) The Court may make an order under this section on such terms and conditions as the Court thinks fit.
+(1) Subject to subsection (2), if property has been forfeited to the Crown under section 31(1), a person who claims that the person had an interest in the forfeited property prior to its forfeiture to the Crown may, in accordance with this section, apply to the District Court that ordered the forfeiture or the High Court, as the case may be, for an order under subsection (6) of this section.
+(2) Nothing in subsection (1) applies to—
+  (a) a person who was involved in the commission of the offence in respect of which the property has been forfeited; or
+  (b) a person who did not acquire his or her interest in the property in good faith and who knew or had reason to believe at the time of the acquisition that the property was or would be involved in the commission of the offence in respect of which the property has been forfeited.
+(3) Where the property forfeited under section 31(1) does not exceed $200,000 in value, the application shall be by way of originating application made to, and filed in, the office of the District Court that ordered the forfeiture.
+(4) Except as modified by subsection (3), the rules relating to the practice and procedure of District Courts for the time being in force under the District Courts Act 1947 apply with respect to every such application made to the District Court that ordered the forfeiture.
+(5) Where the property forfeited under section 31(1) exceeds $200,000 in value, the application shall be by way of originating application made to the High Court and the High Court Rules apply with respect to every such application.
+(6) If the court is satisfied that—the court may make an order—
+  (a) the applicant is a person to whom subsection (1) applies; and
+  (b) the applicant's claim to an interest in the property is valid,—
+  (c) declaring the nature, extent, and value of the applicant's interest in the property; and
+  (d) either—
+    (i) directing the Crown to transfer the interest to the applicant; or
+    (ii) declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the court.
+(7) The court may make an order under this section on such terms and conditions as the court thinks fit.
 
 ### 33 Minister's powers in respect of forfeited property
-(1) The Minister may sell or otherwise dispose of property that is forfeited to the Crown under section 31(1) of this Act as the Minister thinks fit.
+(1) The Minister may sell or otherwise dispose of property that is forfeited to the Crown under section 31(1) as the Minister thinks fit.
 (2) A person who had a legal or equitable interest in such property prior to its forfeiture to the Crown may apply to the Minister within 30 days after the conviction for the release of the property so forfeited.
-(3) On an application under subsection (2) of this section, the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the property forfeited is estimated by the Minister to be likely to realise if sold by public auction in New Zealand.
+(3) On an application under subsection (2), the Minister may order the release of such property on payment to the Crown of such amount as the Minister thinks appropriate, being an amount not exceeding the amount the property forfeited is estimated by the Minister to be likely to realise if sold by public auction in New Zealand.
 
 ### 34 Forfeiture of property or redemption payment is in addition to any other penalty
-A forfeiture ordered by the Court under section 31(1) of this Act or a redemption payment imposed by the Minister under section 33(3) of this Act is in addition to, and not in substitution for, any other penalty that may be imposed by the Court.
+A forfeiture ordered by the court under section 31(1) or a redemption payment imposed by the Minister under section 33(3) is in addition to, and not in substitution for, any other penalty that may be imposed by the court.
 
 ## Part 3 — Miscellaneous provisions
 
@@ -304,20 +304,20 @@ The Minister may from time to time, by notice in the Gazette, approve equipment 
 
 ### 36 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Regulating the navigation or conduct of ships engaged in the laying, repairing, or maintenance of submarine cables or submarine pipelines and prescribing the lights or signals to be displayed by those ships while engaged in those operations:
-  (b) Prescribing the duties of owners of submarine cables or submarine pipelines in respect of the marking or definition of those cables and pipelines and prescribing records to be kept in respect of the location of those cables or pipelines:
-  (c) Regulating the navigation or conduct of ships in relation to other ships engaged in the laying, repairing, or maintenance of submarine cables or submarine pipelines or in relation to those cables or pipelines or in relation to buoys or signals indicating the presence or proximity of those cables or pipelines:
-  (d) Prescribing the duties of persons in respect of reporting damage caused or likely to be caused to submarine cables or submarine pipelines:
-  (e) Prescribing offences against the regulations and defining the persons or classes of persons liable to conviction for those offences:
-  (f) Prescribing fines not exceeding $50,000 for offences against the regulations:
-  (g) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration of this Act.
+  (a) regulating the navigation or conduct of ships engaged in the laying, repairing, or maintenance of submarine cables or submarine pipelines and prescribing the lights or signals to be displayed by those ships while engaged in those operations:
+  (b) prescribing the duties of owners of submarine cables or submarine pipelines in respect of the marking or definition of those cables and pipelines and prescribing records to be kept in respect of the location of those cables or pipelines:
+  (c) regulating the navigation or conduct of ships in relation to other ships engaged in the laying, repairing, or maintenance of submarine cables or submarine pipelines or in relation to those cables or pipelines or in relation to buoys or signals indicating the presence or proximity of those cables or pipelines:
+  (d) prescribing the duties of persons in respect of reporting damage caused or likely to be caused to submarine cables or submarine pipelines:
+  (e) prescribing offences against the regulations and defining the persons or classes of persons liable to conviction for those offences:
+  (f) prescribing fines not exceeding $50,000 for offences against the regulations:
+  (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration of this Act.
 
 ### 37 Repeals and savings
-(1) The enactments specified in the Schedule to this Act are hereby repealed.
-(2) Notwithstanding the repeal of the Submarine Cables and Pipelines Protection Act 1966 by subsection (1) of this section, every Order in Council, regulation, and notice made under that Act and in force immediately before its repeal shall, until revoked, continue in force after the repeal of that Act as if it had been made under this Act.
+(1) The enactments specified in the Schedule are hereby repealed.
+(2) Notwithstanding the repeal of the Submarine Cables and Pipelines Protection Act 1966 by subsection (1), every Order in Council, regulation, and notice made under that Act and in force immediately before its repeal shall, until revoked, continue in force after the repeal of that Act as if it had been made under this Act.
 (3) The Governor-General may from time to time, by Order in Council,—
-  (a) Make regulations amending, or revoking in whole or in part, any regulations continued in force by subsection (2) of this section; or
-  (b) Make Orders in Council amending, or revoking in whole or in part, any orders continued in force by subsection (2) of this section.
-(4) The Minister may from time to time, by notice in the Gazette, amend, or revoke in whole or in part, any notice continued in force by subsection (2) of this section.
+  (a) make regulations amending, or revoking in whole or in part, any regulations continued in force by subsection (2); or
+  (b) make Orders in Council amending, or revoking in whole or in part, any orders continued in force by subsection (2).
+(4) The Minister may from time to time, by notice in the Gazette, amend, or revoke in whole or in part, any notice continued in force by subsection (2).
 
 ## Schedule Schedule — Enactments repealed
