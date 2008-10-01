@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -72,7 +72,7 @@ The following persons shall not serve on any jury in any Court on any occasion:
   (d) Visiting Justices under the Corrections Act 2004, and members of the Parole Board:
   (e) Justices who have agreed to make themselves available from time to time to exercise the summary jurisdiction of District Courts:
   (f) lawyers within the meaning of the Lawyers and Conveyancers Act 2006:
-  (g) Members of the Police, and Traffic Officers:
+  (g) employees of the Police, and Traffic Officers:
   (h) an employee of the Public Service who is employed—
     (i) in the Ministry of Justice; or
     (ii) in the Department of Corrections; or
