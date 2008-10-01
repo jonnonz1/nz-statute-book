@@ -1,40 +1,40 @@
 # International Terrorism (Emergency Powers) Act 1987
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to make better provision to deal with international terrorist emergencies
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the International Terrorism (Emergency Powers) Act 1987.
-(2) This Act shall come into force on the 1st day of September 1987.
+(2) This Act shall come into force on 1 September 1987.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Emergency power** means any of the powers specified in section 10 or section 11 of this Act
+  - **emergency power** means any of the powers specified in section 10 or section 11
   - **intercept** , in relation to a private communication, includes hear, listen to, record, monitor, acquire, or receive the communication either—
     (a) while it is taking place; or
     (b) while it is in transit
-  - **International terrorist emergency** means a situation in which any person is threatening, causing, or attempting to cause—for the purpose of furthering, outside New Zealand, any political aim
-    (a) The death of, or serious injury or serious harm to, any person or persons; or
-    (b) The destruction of, or serious damage or serious injury to,—in order to coerce, deter, or intimidate—
-      (i) Any premises, building, erection, structure, installation, or road; or
-      (ii) Any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle; or
-      (iii) Any natural feature which is of such beauty, uniqueness, or scientific, economic, or cultural importance that its preservation from destruction, damage or injury is in the national interest; or
-      (iv) Any chattel of any kind which is of significant historical, archaeological, scientific, cultural, literary, or artistic value or importance; or
-      (v) Any animal—
-    (c) The Government of New Zealand, or any agency of the Government of New Zealand; or
-    (d) The Government of any other country, or any agency of the Government of any other country; or
-    (e) Any body or group of persons, whether inside or outside New Zealand,—
+  - **international terrorist emergency** means a situation in which any person is threatening, causing, or attempting to cause—in order to coerce, deter, or intimidate—for the purpose of furthering, outside New Zealand, any political aim
+    (a) the death of, or serious injury or serious harm to, any person or persons; or
+    (b) the destruction of, or serious damage or serious injury to,—
+      (i) any premises, building, erection, structure, installation, or road; or
+      (ii) any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle; or
+      (iii) any natural feature which is of such beauty, uniqueness, or scientific, economic, or cultural importance that its preservation from destruction, damage or injury is in the national interest; or
+      (iv) any chattel of any kind which is of significant historical, archaeological, scientific, cultural, literary, or artistic value or importance; or
+      (v) any animal—
+    (c) the Government of New Zealand, or any agency of the Government of New Zealand; or
+    (d) the Government of any other country, or any agency of the Government of any other country; or
+    (e) any body or group of persons, whether inside or outside New Zealand,—
   - **private communication** —
     (a) means a communication (whether in oral or written form or otherwise) made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
-    (b) does not include such a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so.
-  - **Public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
-  - **Road** includes any motorway, regional motorway, regional road, street, private road, access way, private way, or service lane, and every bridge, culvert, ford, gate, or other thing belonging to any road.
+    (b) does not include such a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so
+  - **public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
+  - **road** includes any motorway, regional motorway, regional road, street, private road, access way, private way, or service lane, and every bridge, culvert, ford, gate, or other thing belonging to any road.
 (2) A reference in this Act to a party to a private communication is a reference to—
-  (a) Any originator of the communication and any person intended by the originator to receive it; and
-  (b) A person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
+  (a) any originator of the communication and any person intended by the originator to receive it; and
+  (b) a person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
 (3) A reference in this Act to the Prime Minister means,—
-  (a) Where the Prime Minister is for any reason unavailable, the Deputy Prime Minister; and
-  (b) Where both the Prime Minister and the Deputy Prime Minister are for any reason unavailable, the next highest ranked Minister of the Crown available.
+  (a) where the Prime Minister is for any reason unavailable, the Deputy Prime Minister; and
+  (b) where both the Prime Minister and the Deputy Prime Minister are for any reason unavailable, the next highest ranked Minister of the Crown available.
 
 ### 3 This Act to bind the Crown
 This Act binds the Crown.
@@ -42,156 +42,156 @@ This Act binds the Crown.
 ### 4 This Act not to affect functions, duties, and powers under other Acts or general law
 Except as otherwise provided in this Act, nothing in this Act shall limit, or be in substitution for, or in any way affect, the functions, duties, or powers of any person under the provisions of any other enactment or any rule of law.
 
-## Part  — Authority to exercise emergency powers
+**Authority to exercise emergency powers**
 
 ### 5 Commissioner of Police to inform Prime Minister of existence of international terrorist emergency
 Where the Commissioner of Police believes—the Commissioner shall forthwith inform the Prime Minister that such an emergency is believed to be occurring and that it is or may be necessary to exercise emergency powers.
-  (a) That an emergency is occurring; and
-  (b) That the emergency may be an international terrorist emergency; and
-  (c) That the exercise of emergency powers is or may be necessary to deal with that emergency,—
+  (a) that an emergency is occurring; and
+  (b) that the emergency may be an international terrorist emergency; and
+  (c) that the exercise of emergency powers is or may be necessary to deal with that emergency,—
 
 ### 6 Meeting of Ministers may authorise exercise of emergency powers
-(1) Upon being informed pursuant to section 5 of this Act, the Prime Minister may cause a meeting of not fewer than 3 Ministers of the Crown to be held for the purpose of considering whether to exercise the power conferred by subsection (2) of this section.
-(2) The Ministers of the Crown, not being fewer than 3, present at the meeting held pursuant to subsection (1) of this section may, if they believe, on reasonable grounds,—by notice in writing signed by the Minister of the Crown presiding at the meeting, authorise the exercise, by the Police, of emergency powers.
-  (a) That an emergency is occurring; and
-  (b) That the emergency may be an international terrorist emergency; and
-  (c) That the exercise of emergency powers is necessary to deal with that emergency,—
-(3) Every notice given pursuant to subsection (2) of this section—
-  (a) Shall set out—
-    (i) The names of the Ministers of the Crown present at the meeting held pursuant to subsection (1) of this section at which the giving of the notice is approved; and
-    (ii) The date on which the notice is given; and
-    (iii) The authority under which the notice is given; and
-    (iv) The reasons for the giving of the notice; and
-    (v) The circumstances specified in subsection (4) of this section in which the authority to exercise emergency powers under the notice will expire; and
-  (b) May contain such other information as may be appropriate in the circumstances.
-(4) Subject to sections 7 and 8 of this Act, the authority to exercise emergency powers under any notice given pursuant to subsection (2) of this section shall expire—whichever occurs first.
-  (a) Once the Commissioner of Police is satisfied that the emergency is not an international terrorist emergency; or
-  (b) When the international terrorist emergency ends; or
-  (c) At the close of the day specified in the notice as the day when that notice expires; or
-  (d) At the close of the seventh day after the day on which the notice is given,—
-(5) The Minister of the Crown who signs any notice given pursuant to subsection (2) of this section shall forthwith give public notice of the giving of that notice by such means as are reasonable in the circumstances, and the notice shall be published in the Gazette as soon as practicable.
-(6) Notwithstanding anything to the contrary in any other Act, every notice given pursuant to subsection (2) of this section shall come into force when it is signed by the Minister of the Crown presiding at the meeting of Ministers held pursuant to subsection (1) of this section.
+(1) Upon being informed pursuant to section 5, the Prime Minister may cause a meeting of not fewer than 3 Ministers of the Crown to be held for the purpose of considering whether to exercise the power conferred by subsection (2).
+(2) The Ministers of the Crown, not being fewer than 3, present at the meeting held pursuant to subsection (1) may, if they believe, on reasonable grounds,—by notice in writing signed by the Minister of the Crown presiding at the meeting, authorise the exercise, by the Police, of emergency powers.
+  (a) that an emergency is occurring; and
+  (b) that the emergency may be an international terrorist emergency; and
+  (c) that the exercise of emergency powers is necessary to deal with that emergency,—
+(3) Every notice given pursuant to subsection (2)—
+  (a) shall set out—
+    (i) the names of the Ministers of the Crown present at the meeting held pursuant to subsection (1) at which the giving of the notice is approved; and
+    (ii) the date on which the notice is given; and
+    (iii) the authority under which the notice is given; and
+    (iv) the reasons for the giving of the notice; and
+    (v) the circumstances specified in subsection (4) in which the authority to exercise emergency powers under the notice will expire; and
+  (b) may contain such other information as may be appropriate in the circumstances.
+(4) Subject to sections 7 and 8, the authority to exercise emergency powers under any notice given pursuant to subsection (2) shall expire—whichever occurs first.
+  (a) once the Commissioner of Police is satisfied that the emergency is not an international terrorist emergency; or
+  (b) when the international terrorist emergency ends; or
+  (c) at the close of the day specified in the notice as the day when that notice expires; or
+  (d) at the close of the seventh day after the day on which the notice is given,—
+(5) The Minister of the Crown who signs any notice given pursuant to subsection (2) shall forthwith give public notice of the giving of that notice by such means as are reasonable in the circumstances, and the notice shall be published in the Gazette as soon as practicable.
+(6) Notwithstanding anything to the contrary in any other Act, every notice given pursuant to subsection (2) shall come into force when it is signed by the Minister of the Crown presiding at the meeting of Ministers held pursuant to subsection (1).
 
 ### 7 House of Representatives may extend authority to exercise emergency powers
-(1) Where any notice is given pursuant to section 6(2) of this Act authorising the exercise, by the Police, of emergency powers, the Minister of the Crown who signed that notice shall inform the House of Representatives that such authorisation has been given, and of the reasons why it was given,—
-  (a) Forthwith, if the House of Representatives is then sitting; or
-  (b) If the House of Representatives is not then sitting, at the earliest practicable opportunity.
-(2) Where the House of Representatives is informed, pursuant to subsection (1) of this section, that a notice has been given pursuant to section 6(2) of this Act authorising the exercise, by the Police, of emergency powers, the House of Representatives may, by resolution, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the resolution.
-(3) If, when a notice is given pursuant to subsection (2) of section 6 of this Act, Parliament has been dissolved or has expired and no Proclamation has been made summoning Parliament to meet on a day not later than the day on which the authority to exercise emergency powers pursuant to that notice would expire under subsection (4)(c) or (d) of that section, the Governor-General may, by Proclamation approved in Executive Council, where the Governor-General is satisfied that it is necessary to extend the authority to exercise emergency powers pursuant to that notice, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the Proclamation.
-(4) No resolutions passed by the House of Representatives under subsection (2) of this section, and no Proclamations made under subsection (3) of this section, may extend the authority to exercise emergency powers pursuant to a notice given pursuant to section 6(2) of this Act for a period which, in the aggregate, exceeds 14 days.
-(5) Nothing in subsection (2) or subsection (3) of this section authorises any person to exercise any emergency power after the emergency in respect of which authority to exercise emergency powers has been given under this Act ends.
+(1) Where any notice is given pursuant to section 6(2) authorising the exercise, by the Police, of emergency powers, the Minister of the Crown who signed that notice shall inform the House of Representatives that such authorisation has been given, and of the reasons why it was given,—
+  (a) forthwith, if the House of Representatives is then sitting; or
+  (b) if the House of Representatives is not then sitting, at the earliest practicable opportunity.
+(2) Where the House of Representatives is informed, pursuant to subsection (1), that a notice has been given pursuant to section 6(2) authorising the exercise, by the Police, of emergency powers, the House of Representatives may, by resolution, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the resolution.
+(3) If, when a notice is given pursuant to subsection (2) of section 6, Parliament has been dissolved or has expired and no Proclamation has been made summoning Parliament to meet on a day not later than the day on which the authority to exercise emergency powers pursuant to that notice would expire under subsection (4)(c) or (d) of that section, the Governor-General may, by Proclamation approved in Executive Council, where the Governor-General is satisfied that it is necessary to extend the authority to exercise emergency powers pursuant to that notice, from time to time extend that authority to exercise emergency powers for such period, not exceeding 7 days in each instance, as is specified in the Proclamation.
+(4) No resolutions passed by the House of Representatives under subsection (2), and no Proclamations made under subsection (3), may extend the authority to exercise emergency powers pursuant to a notice given pursuant to section 6(2) for a period which, in the aggregate, exceeds 14 days.
+(5) Nothing in subsection (2) or subsection (3) authorises any person to exercise any emergency power after the emergency in respect of which authority to exercise emergency powers has been given under this Act ends.
 
 ### 8 House of Representatives may revoke authority to exercise emergency powers
-Notwithstanding anything in section 6 or section 7 of this Act, the House of Representatives may at any time, by resolution, revoke—
-  (a) Any authority to exercise emergency powers under any notice given pursuant to section 6(2) of this Act:
-  (b) Any extension of any such authority pursuant to subsection (2) or subsection (3) of section 7 of this Act.
+Notwithstanding anything in section 6 or section 7, the House of Representatives may at any time, by resolution, revoke—
+  (a) any authority to exercise emergency powers under any notice given pursuant to section 6(2):
+  (b) any extension of any such authority pursuant to subsection (2) or subsection (3) of section 7.
 
-## Part  — Emergency powers
+**Emergency powers**
 
 ### 9 Proof of identity
-Every member of the Police shall, when exercising any emergency power,—
-  (a) Where it is reasonable and practical in the circumstances,—
-    (i) Identify himself or herself to every person who is directly affected by the exercise of that power; and
-    (ii) Inform such persons of the authority under which that member is acting and the power or powers that that member is exercising; and
-  (b) If that member of the Police is not in uniform, and if requested to do so, produce evidence that he or she is a member of the Police.
+Every constable shall, when exercising any emergency power,—
+  (a) where it is reasonable and practical in the circumstances,—
+    (i) identify himself or herself to every person who is directly affected by the exercise of that power; and
+    (ii) inform such persons of the authority under which that constable is acting and the power or powers that that constable is exercising; and
+  (b) if that constable is not in uniform, and if requested to do so, produce evidence that he or she is a constable.
 
 ### 10 Emergency powers
-(1) This section applies to any emergency in respect of which the Police are authorised, by or under section 6(2) or section 7 of this Act, to exercise emergency powers.
-(2) Subject to this Act, any member of the Police may, for the purpose of dealing with any emergency to which this section applies, or of preserving life or property threatened by that emergency,—
-  (a) Require the evacuation of any premises or place (including any public place), or the exclusion of persons or vehicles from any premises or place (including any public place), within the area in which the emergency is occurring:
-  (b) Enter, and if necessary break into, any premises or place, or any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle, within the area in which the emergency is occurring:
-  (c) Totally or partially prohibit or restrict public access, with or without vehicles, on any road or public place within the area in which the emergency is occurring:
-  (d) Remove from any road or public place within the area in which the emergency is occurring any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle impeding measures to deal with that emergency; and, where reasonably necessary for that purpose, may use force or may break into any such aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle:
-  (e) Destroy any property which is within the area in which the emergency is occurring and which that member of the Police believes, on reasonable grounds, constitutes a danger to any person:
-  (f) Require the owner or person for the time being in control of any land, building, vehicle, boat, apparatus, implement, or equipment (in this paragraph referred to as requisitioned property) that is within the area in which the emergency is occurring forthwith to place that requisitioned property under the direction and control of that member of the Police, or of any other member of the Police:
-  (g) Totally or partially prohibit or restrict land, air, or water traffic within the area in which the emergency is occurring.
-(3) Notwithstanding anything in any other Act, but subject to this Act, any member of the Police may, for the purpose of preserving life threatened by any emergency to which this section applies,—in the area in which the emergency is occurring.
-  (a) Connect any additional apparatus to, or otherwise interfere with the operation of, any part of the telecommunications system; and
-  (b) Intercept private communications—
-(4) The power specified in subsection (3) of this section may be exercised only by, or with the authority of, a commissioned officer of the Police, and only if that officer believes, on reasonable grounds, that the exercise of that power will facilitate the preservation of life threatened by the emergency.
+(1) This section applies to any emergency in respect of which the Police are authorised, by or under section 6(2) or section 7, to exercise emergency powers.
+(2) Subject to this Act, any constable may, for the purpose of dealing with any emergency to which this section applies, or of preserving life or property threatened by that emergency,—
+  (a) require the evacuation of any premises or place (including any public place), or the exclusion of persons or vehicles from any premises or place (including any public place), within the area in which the emergency is occurring:
+  (b) enter, and if necessary break into, any premises or place, or any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle, within the area in which the emergency is occurring:
+  (c) totally or partially prohibit or restrict public access, with or without vehicles, on any road or public place within the area in which the emergency is occurring:
+  (d) remove from any road or public place within the area in which the emergency is occurring any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle impeding measures to deal with that emergency; and, where reasonably necessary for that purpose, may use force or may break into any such aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle:
+  (e) destroy any property which is within the area in which the emergency is occurring and which that constable believes, on reasonable grounds, constitutes a danger to any person:
+  (f) require the owner or person for the time being in control of any land, building, vehicle, boat, apparatus, implement, or equipment (in this paragraph referred to as requisitioned property) that is within the area in which the emergency is occurring forthwith to place that requisitioned property under the direction and control of that constable, or of any other constable:
+  (g) totally or partially prohibit or restrict land, air, or water traffic within the area in which the emergency is occurring.
+(3) Notwithstanding anything in any other Act, but subject to this Act, any constable may, for the purpose of preserving life threatened by any emergency to which this section applies,—in the area in which the emergency is occurring.
+  (a) connect any additional apparatus to, or otherwise interfere with the operation of, any part of the telecommunications system; and
+  (b) intercept private communications—
+(4) The power specified in subsection (3) may be exercised only by, or with the authority of, a constable who is of or above the level of position of inspector, and only if that constable believes, on reasonable grounds, that the exercise of that power will facilitate the preservation of life threatened by the emergency.
 
 ### 11 Requisitioning powers
-(1) Any member of the Police exercising any power conferred on that member by section 10(2)(f) of this Act to requisition any property shall give to the owner or person in charge of the requisitioned property a written statement specifying the property that is requisitioned and the person under whose control the property is to be placed.
-(2) Where the owner or person for the time being in control of any property that may be requisitioned under section 10(2)(f) of this Act cannot be immediately found, any member of the Police may assume forthwith the control and direction of the requisitioned property.
-(3) Where any member of the Police assumes the control and direction of any property under subsection (2) of this section, that member shall ensure that, as soon as reasonably practicable in the circumstances, a written statement specifying the property that has been requisitioned, and the person under whose control it has been placed, is given to the owner or person formerly in charge of the requisitioned property.
+(1) Any constable exercising any power conferred on that constable by section 10(2)(f) to requisition any property shall give to the owner or person in charge of the requisitioned property a written statement specifying the property that is requisitioned and the person under whose control the property is to be placed.
+(2) Where the owner or person for the time being in control of any property that may be requisitioned under section 10(2)(f) cannot be immediately found, any constable may assume forthwith the control and direction of the requisitioned property.
+(3) Where any constable assumes the control and direction of any property under subsection (2), that constable shall ensure that, as soon as reasonably practicable in the circumstances, a written statement specifying the property that has been requisitioned, and the person under whose control it has been placed, is given to the owner or person formerly in charge of the requisitioned property.
 
 ### 12 Members of Armed Forces assisting Police may exercise emergency powers
-(1) Subject to this Act, any emergency power (except the power specified in section 10(3) of this Act) may be exercised by any member of the Armed Forces who is assisting the Police to deal with any emergency to which section 10 of this Act applies as if that member of the Armed Forces were a member of the Police.
-(2) Any member of the Armed Forces who is authorised by subsection (1) of this section to exercise any emergency power may exercise any such power only at, and in accordance with, the request of a member of the Police.
+(1) Subject to this Act, any emergency power (except the power specified in section 10(3)) may be exercised by any member of the Armed Forces who is assisting the Police to deal with any emergency to which section 10 applies as if that member of the Armed Forces were a constable.
+(2) Any member of the Armed Forces who is authorised by subsection (1) to exercise any emergency power may exercise any such power only at, and in accordance with, the request of a constable.
 
 ### 13 Compensation payable where property requisitioned or destroyed
-(1) Where any requisitioned property has come under the control of any person acting under section 10(2)(f) or section 11 or section 12 of this Act, there shall, on application by any person having an interest in the requisitioned property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for—
-  (a) The use of that requisitioned property while under that control; and
-  (b) Any loss of, or damage or injury to, that requisitioned property suffered or incurred while under that control.
-(2) Where any property (other than requisitioned property, or any property belonging to any person and used by that person for the purpose of, or in the course of, causing an emergency in respect of which authority to exercise emergency powers has been given under this Act) is damaged or injured or destroyed as a result of any action taken by any member of the Police, or any member of the Armed Forces assisting the Police, in the course of dealing with that emergency, there shall, on application by any person having an interest in the property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for such loss of, or damage or injury to, that property.
-(3) Where there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of such compensation, or as to the liability of the Crown to pay any such compensation, the matter shall be determined by any Court of competent jurisdiction.
+(1) Where any requisitioned property has come under the control of any person acting under section 10(2)(f) or section 11 or section 12, there shall, on application by any person having an interest in the requisitioned property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for—
+  (a) the use of that requisitioned property while under that control; and
+  (b) any loss of, or damage or injury to, that requisitioned property suffered or incurred while under that control.
+(2) Where any property (other than requisitioned property, or any property belonging to any person and used by that person for the purpose of, or in the course of, causing an emergency in respect of which authority to exercise emergency powers has been given under this Act) is damaged or injured or destroyed as a result of any action taken by any constable, or any member of the Armed Forces assisting the Police, in the course of dealing with that emergency, there shall, on application by any person having an interest in the property, be payable, out of money appropriated by Parliament for the purpose, reasonable compensation for such loss of, or damage or injury to, that property.
+(3) Where there is any dispute as to the entitlement of any person to compensation under this section, or as to the amount of such compensation, or as to the liability of the Crown to pay any such compensation, the matter shall be determined by any court of competent jurisdiction.
 
 ### 14 Prime Minister may prohibit publication or broadcasting of certain matters relating to international terrorist emergency
 (1) Where, in respect of any emergency in respect of which authority to exercise emergency powers has been given under this Act, the Prime Minister believes, on reasonable grounds, that the publication or broadcasting of—would be likely to endanger the safety of any person involved in dealing with that emergency, or of any other person, the Prime Minister may, by notice in writing, prohibit or restrict—of the identity of any person involved in dealing with that emergency, and any other information or material (including a photograph) which would be likely to identify any person as a person involved in dealing with that emergency.
-  (a) The identity of any person involved in dealing with that emergency; or
-  (b) Any other information or material (including a photograph) which would be likely to identify any person as a person involved in dealing with that emergency—
-  (c) The publication, in any newspaper or other document; and
-  (d) The broadcasting, by radio or television or otherwise,—
+  (a) the identity of any person involved in dealing with that emergency; or
+  (b) any other information or material (including a photograph) which would be likely to identify any person as a person involved in dealing with that emergency—
+  (c) the publication, in any newspaper or other document; and
+  (d) the broadcasting, by radio or television or otherwise,—
 (2) Where, in respect of any emergency in respect of which authority to exercise emergency powers has been given under this Act, the Prime Minister believes, on reasonable grounds, that the publication or broadcasting of any information or material (including a photograph) relating to any equipment or technique lawfully used to deal with that emergency would be likely to prejudice measures designed to deal with international terrorist emergencies, the Prime Minister may, by notice in writing, prohibit or restrict—of any information or material (including a photograph) of any such equipment or technique.
-  (a) The publication, in any newspaper or other document; and
-  (b) The broadcasting, by radio or television or otherwise,—
-(3) The Prime Minister may issue a notice under subsection (1) or subsection (2) of this section notwithstanding that the emergency in respect of which the notice is issued has ended.
-(4) Where any notice is issued under subsection (1) or subsection (2) of this section, the Prime Minister shall forthwith give public notice of the issue of that notice by such means as are practicable in the circumstances, and the notice shall be published in the Gazette as soon as practicable.
+  (a) the publication, in any newspaper or other document; and
+  (b) the broadcasting, by radio or television or otherwise,—
+(3) The Prime Minister may issue a notice under subsection (1) or subsection (2) notwithstanding that the emergency in respect of which the notice is issued has ended.
+(4) Where any notice is issued under subsection (1) or subsection (2), the Prime Minister shall forthwith give public notice of the issue of that notice by such means as are practicable in the circumstances, and the notice shall be published in the Gazette as soon as practicable.
 (5) Nothing in this section shall restrict the broadcasting or reporting of the proceedings of the House of Representatives.
 
 ### 15 Commencement, revocation, expiry, and renewal of notice issued under section 14
-(1) Notwithstanding anything in any other Act, every notice issued under section 14 of this Act shall become effective in relation to any person either—whichever occurs first.
-  (a) When that notice is delivered to that person; or
-  (b) On the giving of public notice of the issue of that notice pursuant to subsection (4) of that section,—
-(2) The Prime Minister may at any time, by notice in the Gazette, revoke any notice issued under section 14 of this Act.
-(3) Subject to subsections (2) and (4) of this section, every notice issued under section 14 of this Act shall expire 1 year after the date on which the notice was issued, or on such earlier date as may be specified in the notice.
-(4) Subject to subsection (2) of this section, the Prime Minister may, from time to time, by notice in the Gazette, renew any notice issued under section 14 of this Act for such period, not exceeding 5 years in each instance, as is specified in the notice of renewal, if the renewal of the notice is necessary—
-  (a) To protect the safety of any person; or
-  (b) To avoid prejudice to measures designed to deal with international terrorist emergencies.
+(1) Notwithstanding anything in any other Act, every notice issued under section 14 shall become effective in relation to any person either—whichever occurs first.
+  (a) when that notice is delivered to that person; or
+  (b) on the giving of public notice of the issue of that notice pursuant to subsection (4) of that section,—
+(2) The Prime Minister may at any time, by notice in the Gazette, revoke any notice issued under section 14.
+(3) Subject to subsections (2) and (4), every notice issued under section 14 shall expire 1 year after the date on which the notice was issued, or on such earlier date as may be specified in the notice.
+(4) Subject to subsection (2), the Prime Minister may, from time to time, by notice in the Gazette, renew any notice issued under section 14 for such period, not exceeding 5 years in each instance, as is specified in the notice of renewal, if the renewal of the notice is necessary—
+  (a) to protect the safety of any person; or
+  (b) to avoid prejudice to measures designed to deal with international terrorist emergencies.
 
 ### 16 Protection from liability
-Except as provided by section 13 of this Act, no action or proceeding shall be brought against the Crown, or any member of the Police, or any member of the Armed Forces, to recover damages for any loss of, or damage or injury to, any property where that loss, damage, or injury is due directly or indirectly to an emergency in respect of which authority to exercise emergency powers has been given under this Act, whether the loss or damage or injury is caused by any person taking any action, or failing to take any action, in the exercise or performance in good faith of that person's functions, duties, or powers under this Act.
+Except as provided by section 13, no action or proceeding shall be brought against the Crown, or any constable, or any member of the Armed Forces, to recover damages for any loss of, or damage or injury to, any property where that loss, damage, or injury is due directly or indirectly to an emergency in respect of which authority to exercise emergency powers has been given under this Act, whether the loss or damage or injury is caused by any person taking any action, or failing to take any action, in the exercise or performance in good faith of that person's functions, duties, or powers under this Act.
 
 ### 17 Commissioner of Police to give information to House of Representatives
 (1) As soon as practicable after the end of any emergency in respect of which authority to exercise emergency powers is given under this Act, the Commissioner of Police shall, if any emergency power was exercised under this Act during that emergency, make a report to the House of Representatives on the exercise of that power.
-(2) The Commissioner of Police shall include in every annual report prepared by the Commissioner for the purposes of section 65 of the Police Act 1958 information on the operation of any agreement between the Police and representatives of the news media under which guidelines are established for the reporting, by the news media, of terrorist incidents.
+(2) The Commissioner of Police shall include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 information on the operation of any agreement between the Police and representatives of the news media under which guidelines are established for the reporting, by the news media, of terrorist incidents.
 
-## Part  — Provisions relating to interception of private communications
+**Provisions relating to interception of private communications**
 
 ### 18 Prohibition on disclosure of private communications lawfully intercepted
 No person who—shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of that person's duty.
-  (a) Pursuant to the power conferred by section 10(3) of this Act, intercepts or assists in the interception of a private communication; or
-  (b) Acquires knowledge of a private communication as a direct or indirect result of that interception—
+  (a) pursuant to the power conferred by section 10(3), intercepts or assists in the interception of a private communication; or
+  (b) acquires knowledge of a private communication as a direct or indirect result of that interception—
 
 ### 19 Notice to be given of intention to produce evidence of private communication
-Particulars of a private communication intercepted pursuant to the power conferred by section 10(3) of this Act shall not be received in evidence by any Court against any person unless the party intending to adduce it has given to that person reasonable notice of that party's intention to do so, together with—
-  (a) A transcript of the private communication where that party intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where that party intends to adduce oral evidence of it; and
-  (b) A statement of the time, place, and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
+Particulars of a private communication intercepted pursuant to the power conferred by section 10(3) shall not be received in evidence by any court against any person unless the party intending to adduce it has given to that person reasonable notice of that party's intention to do so, together with—
+  (a) a transcript of the private communication where that party intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where that party intends to adduce oral evidence of it; and
+  (b) a statement of the time, place, and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
 
 ### 20 Inadmissibility of evidence of private communications lawfully intercepted
-Where—no particulars of that communication which relate to that offence shall be received in evidence by any Court against any person.
-  (a) A private communication is intercepted pursuant to the power conferred by section 10(3) of this Act during an emergency in respect of which authority to exercise emergency powers has been given under this Act; and
-  (b) That private communication discloses evidence relating to any offence that is not related to that emergency,—
+Where—no particulars of that communication which relate to that offence shall be received in evidence by any court against any person.
+  (a) a private communication is intercepted pursuant to the power conferred by section 10(3) during an emergency in respect of which authority to exercise emergency powers has been given under this Act; and
+  (b) that private communication discloses evidence relating to any offence that is not related to that emergency,—
 
-## Part  — Offences
+**Offences**
 
 ### 21 Offences
-(1) Subject to subsection (4) of this section, every person commits an offence who,—
-  (a) Without lawful excuse, fails or refuses to comply with any direction, requirement, prohibition, or restriction given to or imposed upon that person pursuant to section 10 of this Act—
-    (i) By any member of the Police; or
-    (ii) By any member of the Armed Forces acting under section 12 of this Act:
-  (b) Contrary to any notice issued by the Prime Minister under section 14 of this Act, publishes or causes or allows to be published in a newspaper or other document, or broadcasts or causes or allows to be broadcast by radio or television or otherwise,—
-    (i) The identity of any person involved in dealing with an emergency in respect of which authority to exercise emergency powers has been given under this Act, or any other information or material (including a photograph) which would be likely to identify any person as a person involved in dealing with any such emergency; or
-    (ii) Any information or material (including a photograph) of any equipment or technique lawfully used to deal with any such emergency.
-(2) Every person who commits an offence against subsection (1) of this section is liable on summary conviction,—
-  (a) In the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
-  (b) In the case of a body corporate, to a fine not exceeding $20,000.
-(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who acts in contravention of section 18 of this Act.
-(4) It is a defence to a charge under subsection (1)(a) of this section if the Court is satisfied that—
-  (a) The member of the Police, or the member of the Armed Forces acting under section 12 of this Act, as the case may require, did not have reasonable grounds for believing that in all the circumstances of the case the direction, requirement, prohibition, or restriction was necessary for the purposes of dealing with the emergency in respect of which the direction, requirement, prohibition, or restriction was given or imposed, or of preserving life or property threatened by that emergency; or
-  (b) The defendant had no reason to believe that the person giving or imposing that direction, requirement, prohibition, or restriction was a member of the Police, or a member of the Armed Forces acting under section 12 of this Act, as the case may require.
+(1) Subject to subsection (4), every person commits an offence who,—
+  (a) without lawful excuse, fails or refuses to comply with any direction, requirement, prohibition, or restriction given to or imposed upon that person pursuant to section 10—
+    (i) by any constable; or
+    (ii) by any member of the Armed Forces acting under section 12:
+  (b) contrary to any notice issued by the Prime Minister under section 14, publishes or causes or allows to be published in a newspaper or other document, or broadcasts or causes or allows to be broadcast by radio or television or otherwise,—
+    (i) the identity of any person involved in dealing with an emergency in respect of which authority to exercise emergency powers has been given under this Act, or any other information or material (including a photograph) which would be likely to identify any person as a person involved in dealing with any such emergency; or
+    (ii) any information or material (including a photograph) of any equipment or technique lawfully used to deal with any such emergency.
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000:
+  (b) in the case of a body corporate, to a fine not exceeding $20,000.
+(3) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who acts in contravention of section 18.
+(4) It is a defence to a charge under subsection (1)(a) if the court is satisfied that—
+  (a) the constable, or the member of the Armed Forces acting under section 12, as the case may require, did not have reasonable grounds for believing that in all the circumstances of the case the direction, requirement, prohibition, or restriction was necessary for the purposes of dealing with the emergency in respect of which the direction, requirement, prohibition, or restriction was given or imposed, or of preserving life or property threatened by that emergency; or
+  (b) the defendant had no reason to believe that the person giving or imposing that direction, requirement, prohibition, or restriction was a constable, or a member of the Armed Forces acting under section 12, as the case may require.
 
-## Part  — Consequential amendment
+**Consequential amendment**
 
-### 22
+### 22 Crimes Act 1961 amended
 [Repealed]
