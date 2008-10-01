@@ -1,5 +1,5 @@
 # Road User Charges Act 1977
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to impose a charge for the use of roads by heavy vehicles and certain other vehicles; and to abolish mileage tax and heavy-traffic licensing
 
@@ -11,6 +11,7 @@ _Consolidation as at 2008-08-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **biofuel** has the meaning given by section 1B of the Energy (Fuels, Levies, and References) Act 1989
   - **Chief executive** means the chief executive of the Ministry of Transport; and, in relation to any particular function, duty, or power of the chief executive under this Act, includes any person for the time being authorised to exercise or perform that function, duty, or power
   - **Commissioner**
   - **Distance licence** means a licence in the form prescribed for a distance licence that has been issued by an issuing officer in accordance with this Act
@@ -40,7 +41,7 @@ _Consolidation as at 2008-08-01_
   - **To operate** means to use or drive or ride on any road, or cause or permit to be driven or ridden on any road, or to permit to be on any road, whether the person operating is present in person or not
   - **Owner** , in relation to a motor vehicle, has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **Petrol** means—but does not include diesel or electricity
-    (a) Any motor spirits on which motor spirits duty is imposed; and
+    (a) Any motor spirits on which motor spirits duty is imposed, including motor spirits that are blended with a biofuel; and
     (b) Compressed natural gas and liquefied petroleum gas on which sales tax is imposed;—
   - **Prescribed** means prescribed by regulations made under this Act
   - **Quarter** means a period of 3 months ending with the last day of March, June, September, or December in any year
