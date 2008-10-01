@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to provide greater protection from domestic violence
 
@@ -375,7 +375,7 @@ Where the Court grants an application for a protection order, it must not also m
     (iii) The effect that the terms of the standard condition relating to weapons is having, or will have, on the persons to whom the condition applies, or will apply, if the powers are not exercised in the manner proposed:
     (iv) Such other matters as the Court considers relevant.
 (5) Where the terms of the standard condition relating to weapons are modified pursuant to section 22 of this Act, the terms of that standard condition (as set out in section 21 of this Act) apply subject to the terms of that modification, and the provisions of this Act apply accordingly.
-(6) The fact that—does not oblige any member of the Police to issue a firearms licence to any person to whom that standard condition applied or, as the case requires, applies.
+(6) The fact that—does not oblige any Police employee to issue a firearms licence to any person to whom that standard condition applied or, as the case requires, applies.
   (a) The standard condition relating to weapons has been discharged pursuant to section 22 of this Act; or
   (b) The terms of the standard condition relating to weapons have been modified pursuant to that section—
 
