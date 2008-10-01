@@ -1,5 +1,5 @@
 # Health and Disability Services (Safety) Act 2001
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Health and Disability Services (Safety) Act 2001.
@@ -22,7 +22,6 @@ The purpose of this Act is to—
 (1) In this Act, unless the context otherwise requires,—
   - **affected consumers** , in relation to any service standards or proposed service standards for providing health or disability services of any kind, means people for whom services of that kind are provided
   - **affected providers** , in relation to any service standards or proposed service standards for providing health or disability services of any kind, means people providing services of that kind
-  - **auditing agency** means a person for the time being designated under section 32(1)
   - **audit report** means a written report, prepared by an auditing agency, on the provision of health care services of a particular kind; and—
     (a) in relation to an auditing agency and a certified provider, means an audit report by the agency on the person's present and likely future provision of health care services of a kind the person is certified to provide, prepared in the light of—
       (i) the relevant service standards; and
@@ -30,6 +29,7 @@ The purpose of this Act is to—
       (iii) any requirements the person is required to meet by virtue of an exemption under section 23(1) from an element of those standards; and
       (iv) any conditions subject to which the person is exempted from an element of those standards; and
     (b) in relation to an auditing agency and a person intending to provide but not yet certified to provide health care services of any kind, means an audit report by the agency on the person's likely future provision of services of that kind, prepared in the light of the relevant service standards
+  - **auditing agency** means a person for the time being designated under section 32(1)
   - **authorised person** —
     (a) means a person authorised in writing by the Director-General to enter and inspect places for the purposes of this Act:
     (b) includes the Director-General
@@ -51,7 +51,7 @@ The purpose of this Act is to—
   - **relevant service standards** , in relation to health care services of any kind, means service standards (whether 1 set or 2 or more sets) for providing services of that kind
   - **residential disability care** means residential care provided in any premises for 5 or more people with an intellectual, physical, psychiatric, or sensory disability (or a combination of 2 or more such disabilities) to help them function independently
   - **rest home care** has the meaning given to it by section 6(2)
-  - **service standards** means standards for the time being approved under section 13 (as from time to time amended by amendments approved under section 14(1)).
+  - **service standards** means standards for the time being approved under section 13 (as from time to time amended by amendments approved under section 14(1))
   - **specified health or disability services** , means services of any kind declared under section 7 to be services to which this Act applies.
 (2) Services may be health or disability services, even if they are or include the provision of goods.
 
@@ -104,20 +104,7 @@ A person providing health care services of any kind must do so—
 Section 9 does not prevent an individual person who is not certified by the Director-General to provide health care services of any kind from providing health care services of that kind as the agent, employee, officer, or servant of some other person who is certified by the Director-General to provide health care services of that kind.
 
 ### 11 Transitional arrangements for existing providers
-(1) The provision before 1 October 2004 of hospital care complies with section 9 if it comprises—
-  (a) children's health services provided in premises licensed as a children's hospital; or
-  (b) convalescent services provided in premises licensed as a convalescent hospital; or
-  (c) geriatric services provided in premises licensed as a geriatric hospital; or
-  (d) maternity services provided in premises licensed as a maternity hospital; or
-  (e) medical services provided in premises licensed as a medical hospital; or
-  (f) mental health services provided in premises licensed as a psychiatric hospital; or
-  (g) surgical services provided in premises licensed as a surgical hospital.
-(2) In subsection (1), licensed means licensed under the Hospitals Act 1957.
-(3) The provision of residential disability care before 1 October 2004 complies with section 9 if the care is provided in a home registered or deemed to be registered under Part 2 of the Disabled Persons Community Welfare Act 1975.
-(4) The provision of rest home care before 1 October 2004 complies with section 9 if the care is provided—
-  (a) in a home within the meaning of the Old People's Homes Regulations 1987; and
-  (b) under the authority and in accordance with the terms of a licence granted under those regulations.
-(5) This section expires on 1 October 2004.
+[Repealed]
 
 ### 12 Act binds the Crown
 This Act binds the Crown.
@@ -126,7 +113,7 @@ This Act binds the Crown.
 
 **Service standards**
 
-### 13 Minister May Approve Service Standards
+### 13 Minister may approve service standards
 The Minister may, by written notice describing by name the standards concerned, approve standards for providing health or disability services of any kind.
 
 ### 14 Amendments and revocations
@@ -338,7 +325,7 @@ If required by section 18 or section 19 or section 24 to consult on a matter rel
   (d) in the case of a partnership, of any change in the partners.
 (5) A person certified to provide health care services of any kind must promptly give the Director-General written notice of—
   (a) any incident or situation (for example, a fire, flood, or failure of equipment or facilities) that has put at risk, may have put at risk, puts at risk, or may be putting at risk the health or safety of people for whom the person was or is providing the services; and
-  (b) any investigation commenced by a member of the police into any aspect of the services, their provision, or any premises in which they were provided; and
+  (b) any investigation commenced by a constable into any aspect of the services, their provision, or any premises in which they were provided; and
   (c) any death of a person to whom the person was providing the services, or occurring in any premises in which they were provided, that is required to be reported to a coroner under the Coroners Act 2006.
 
 **Auditing agencies**
@@ -444,7 +431,7 @@ Promptly after giving a certified provider or prospective provider an audit repo
   (e) take or make copies of, or of extracts from, any document inspected; and for that purpose—
     (i) take possession of and remove the document from the place, for any reasonable period:
     (ii) in the case of a document stored otherwise than on paper, take any reasonable steps to reproduce, in usable form, any or all of the information in it.
-(2) An authorised person exercising powers under subsection (1) or section 41(2) may be accompanied by a member of the police, and any assistants necessary in all the circumstances.
+(2) An authorised person exercising powers under subsection (1) or section 41(2) may be accompanied by a constable, and any assistants necessary in all the circumstances.
 
 ### 43 Requirement to answer questions
 (1) In exercising any of the powers conferred by section 42, an authorised person may require any person appearing to be in charge of, or to be employed in, or to be undertaking or have recently undertaken any work in, the place concerned (or any part of it) to answer any question the authorised person may reasonably ask for the purpose of—
@@ -457,11 +444,11 @@ Promptly after giving a certified provider or prospective provider an audit repo
 (1) An authorised person may not under section 42(1)(a) enter any place that is a dwellinghouse, except—
   (a) with the consent of an occupier; or
   (b) pursuant to a search warrant under this section.
-(2) A District Court Judge, a Justice, or a Court Registrar who is not a member of the police, may, on a written application made on oath by an authorised person, issue a search warrant in respect of a dwellinghouse, if satisfied that there are reasonable grounds to believe that health care services are being provided in the dwellinghouse (or in another place that cannot reasonably be entered except through the dwellinghouse), and that—
+(2) A District Court Judge, a Justice, or a court Registrar who is not a constable, may, on a written application made on oath by an authorised person, issue a search warrant in respect of a dwellinghouse, if satisfied that there are reasonable grounds to believe that health care services are being provided in the dwellinghouse (or in another place that cannot reasonably be entered except through the dwellinghouse), and that—
   (a) they are being provided otherwise than in compliance with section 9; or
   (b) they are being provided in an unsafe or insanitary manner; or
   (c) the dwellinghouse is (or the other place is) unsafe or insanitary.
-(3) The warrant must be in the form in Schedule 1, and may be issued unconditionally or subject to conditions.
+(3) The warrant must be in the form of Schedule 1, and may be issued unconditionally or subject to conditions.
 
 ### 45 Warrant to be produced
 An authorised person executing a search warrant in respect of any premises must produce it on initial entry, and if asked by an occupier, at any time afterwards.
@@ -529,7 +516,7 @@ Nothing in this Act limits the operation of Part 2 of the Crimes of Torture Act 
 (3) Unless the Director-General is satisfied that it is necessary in the public interest for the order to take effect earlier, the day on which it takes effect must be at least 21 days after the day on which it is served.
 (4) The Director-General must take all reasonable steps to ensure that, promptly after the order is served, written notice of the matters stated in subsection (5), and oral notice of those matters in terms appropriate to the abilities and condition of the person given the notice, is given—
   (a) to every resident of the place concerned for whom health care services were being provided in the place; and
-  (b) (b) to—
+  (b) to—
     (i) a person who has been nominated to the provider as the person to be notified in the case of an emergency involving the resident; or
     (ii) if no person has been nominated or the nominated person cannot immediately be ascertained or found, a member of the resident's family or whanau.
 (5) The matters are—
@@ -552,13 +539,13 @@ The Director-General may revoke a cessation order or a closing order if satisfie
 (2) An auditing agency may appeal to a District Court against the cancellation under section 37(1) of the agency's designation.
 (3) A person in respect of whom a cessation order or a closing order is served may appeal to a District Court against it.
 (4) An appeal against a cessation order or a closing order must be brought within 14 days after it is served.
-(5) The Court's decision is final.
+(5) The court's decision is final.
 
 ### 52 Suspension of cancellation or order
 (1) At any time after an appeal against the cancellation of a person's certification to provide health care services of any kind has been lodged, the District Court may suspend the cancellation until the appeal has been disposed of, if (and only if) it is satisfied that it is not necessary in the public interest for the person to be prevented from providing health care services of that kind until then.
 (2) At any time after an appeal against a cessation order or a closing order has been lodged, the District Court may suspend the operation of the order until the appeal has been disposed of, if (and only if) it is satisfied that it is not necessary in the public interest for the person to be prevented from providing health care services of the kind concerned or (as the case may be) using the place concerned until then.
-(3) A suspension may be unconditional, or subject to any conditions the Court thinks fit.
-(4) The Court may at any time cancel the suspension.
+(3) A suspension may be unconditional, or subject to any conditions the court thinks fit.
+(4) The court may at any time cancel the suspension.
 (5) Except as provided in subsections (1) and (2),—
   (a) the lodging of an appeal against the cancellation under section 30 of a person's certification to provide health care services of any kind does not affect the operation of the cancellation:
   (b) the lodging of an appeal against a cessation order or a closing order does not affect the operation of the order.
@@ -582,7 +569,7 @@ The Director-General may revoke a cessation order or a closing order if satisfie
   (a) provides health care services otherwise than in compliance with section 9; or
   (b) provides health care services of any kind, or controls the provision of health care services of any kind, while a cessation order relating to the provision of health care services of that kind by that person or under that person's control is in effect; or
   (c) provides health care services in any premises, or controls the provision of health care services in any premises, while a closing order relating to the premises is in effect.
-(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1000, who—
+(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who—
   (a) intentionally obstructs, hinders, or resists an authorised person exercising or attempting to exercise powers under any of sections 41 to 43; or
   (b) intentionally fails to answer a question (other than a question whose answer may tend to incriminate the person) asked by an authorised person under section 43; or
   (c) when asked a question by an authorised person under section 43, gives an answer the person knows to be false or misleading.
@@ -605,20 +592,7 @@ It is a defence in any proceedings for an offence against section 54(1) if the d
 **Limitations on licensing and registration**
 
 ### 57 Limitations on licensing and registration after 30 September 2002
-(1) After 30 September 2002,—
-  (a) No licence may be issued under Part 5 of the Hospitals Act 1957, unless—
-    (i) the premises concerned are already a licensed hospital within the meaning of section 118 of that Act; or
-    (ii) the licence is a substituted licence issued under section 128A of that Act:
-  (b) No home may be registered under section 18 of the Disabled Persons Community Welfare Act 1975, unless it is intended to accommodate people who will move there from a home already so registered:
-  (c) No licence may be granted in respect of any premises under the Old People's Homes Regulations 1987, unless—
-    (i) the premises are already a home (within the meaning of those regulations); or
-    (ii) the licence is a substituted licence granted under regulation 28 of those regulations.
-(2) The following enactments are repealed:
-  (a) subsections (1) and (2) of section 119, and section 134(1), of the Hospitals Act 1957:
-  (b) subsections (1), (2), and (6) of section 18 of the Disabled Persons Community Welfare Act 1975:
-  (c) section 4(1) of the Disabled Persons Community Welfare Amendment Act 1997.
-(3) Regulations 4, 21, and 22 of the Old People's Homes Regulations 1987 are revoked.
-(4) This section expires on 1 October 2004.
+[Repealed]
 
 **Amendments, repeals, revocations, and savings**
 
@@ -626,7 +600,7 @@ It is a defence in any proceedings for an offence against section 54(1) if the d
 (1) The enactments specified in Schedule 2 are amended in the manner indicated in that schedule.
 (2) The following enactments are consequentially repealed:
   (a)
-  (b) so much of the Schedule of the Medicines Amendment Act 1999 (1999 No 117) as relates to section 24 of the Misuse of Drugs Act 1975.
+  (b) Amendment(s) incorporated in the Act(s).
 (3) The Orders in Council specified in Schedule 3 are amended in the manner indicated in that schedule.
 (4) For the purposes of this subsection and the amendments effected by subsections (1) and (3), unless the context otherwise requires,—
   - **hospital care institution** —
@@ -651,7 +625,7 @@ It is a defence in any proceedings for an offence against section 54(1) if the d
 
 ### 59 Repeals and revocations
 (1) The enactments specified in Schedule 4 are repealed.
-(2) Section 138 of the Mental Health (Compulsory Assessment and Treatment) Act 1992 is repealed.
+(2) Amendment(s) incorporated in the Act(s).
 (3) The regulations, orders, and notices specified in Schedule 5 are revoked.
 
 ### 60 Savings
@@ -666,68 +640,7 @@ After 30 September 2002, a reference to a psychiatric hospital in an enactment m
 
 ## Schedule 1 — Form of search warrant
 
-| To: |  |
-| --- | --- |
-| authorised person |  |
-| Being satisfied on written application made on oath by an authorised person that there are reasonable grounds to believe that health care services are being provided in here describe dwellinghouse (or in another place that cannot reasonably be entered except through that dwellinghouse), and that— |  |
-| (a) | they are being provided otherwise than in compliance with section 9 of the Health and Disability Services (Safety) Act 2001; or |
-| (b) | they are being provided in an unsafe or insanitary manner; or |
-| (c) | the dwellinghouse is (or the other place is) unsafe or insanitary,— |
-| by this warrant I authorise you, on 1 occasion within 30 days of the issue of this warrant, to enter that dwellinghouse and exercise the powers conferred by sections 40 to 42 of that Act. |  |
-| Dated at [day] [month] [year]. |  |
-| Conditions (if any) subject to which warrant issued: |  |
-| District Court Judge (or Justice or Court Registrar (not being a member of the police)). |  |
-
 ## Schedule 2 — Enactments amended
-
-### 142 Agreements with persons providing residential disability care
-(1) This section applies to any child or young person who is a disabled person within the meaning of the Disabled Persons Community Welfare Act 1975.
-(2) Subject to this section, sections 143 to 145, and section 147, where every person who is a parent or guardian or person having the care of a child or young person to whom this section applies agrees to do so, those persons may, with the agreement of an operator, place the child or young person in the operator's care.
-(3) No agreement may be made under subsection (2) providing for the placement of any child or young person in the care of any operator for any period that exceeds 1 year; but any such agreement may from time to time be extended for any period (not exceeding 1 year in each instance) a family group conference approves.
-(4) Where, pursuant to an agreement made under subsection (2), a child or young person is placed in the care of an operator, that operator may place the child or young person in the charge of any person whom the operator considers suitable to provide for the care, control, and upbringing of the child or young person.
-(5) Section 363 applies, with all necessary modifications, in respect of any placement made under subsection (4) as if it were a placement made under section 362.
-(6) In this section, operator means a residential disability care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001.
-
-### 11
-The operation of—
-  (a) a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
-  (b) a service necessary for the operation of such an institution.
-
-### 24 Treatment of people dependent on controlled drugs
-(1) Every medical practitioner commits an offence who prescribes, administers, or supplies a controlled drug for or to a person who the practitioner has reason to believe is dependent on that or any other controlled drug,—
-  (a) in the course or for the purpose of the treatment of the person for dependency; and
-  (b) otherwise than in accordance with subsection (2).
-(1A) Every registered midwife or designated practitioner commits an offence against this Act who prescribes, administers, or supplies a controlled drug for or to a person who the midwife or practitioner has reason to believe is dependent on that or any other controlled drug, in the course of, or for the purpose of, the treatment of the person for dependency.
-(2) In the course or for the purpose of the treatment for dependency of a person who the practitioner has reason to believe is dependent on that or any other controlled drug, a medical practitioner may prescribe, administer, or provide a controlled drug for or to the person if the medical practitioner—
-  (a) is for the time being specified under subsection (7)(a); or
-  (b) is—
-    (i) working in an institution, clinic, or place for the time being specified under subsection (7)(b); and
-    (ii) for the time being authorised in writing to prescribe controlled drugs by a medical practitioner working in that institution, clinic, or place who is for the time being specified under subsection (7)(a); and
-  (c) is—
-    (i) acting in the medical practitioner's capacity as a medical officer employed by a hospital care operator within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001 for the time being specified under subsection (7)(b); and
-    (ii) for the time being authorised in writing by the person in charge of that institution, acting under the general or specific directions of a Medical Officer of Health, to prescribe controlled drugs; or
-  (d) is acting—
-    (i) with the permission in writing, given in relation to that particular person, of a medical practitioner for the time being authorised by paragraph (a) or paragraph (b) or paragraph (c) to do so; and
-    (ii) during the period, and in accordance with the terms and conditions (if any), specified or imposed in the permission, or in any written modification of the permission, given by that medical practitioner.
-(3) Except with the concurrence of the Medical Officer of Health, no permission under subsection (2)(d) may specify a period longer than 3 months.
-(4) A permission under subsection (2)(d) may from time to time be renewed by the person who gave it, or any other medical practitioner authorised by that paragraph to give such a permission.
-(5) Except with the concurrence of the Medical Officer of Health, no renewal under subsection (4) of a permission under subsection (2)(d) may be for a period longer than 3 months.
-(6) An authority or permission given or renewed under subsection (2) or subsection (4)—
-  (a) may at any time be withdrawn by the person who gave or renewed it, by written notice to the person to whom it was given; and
-  (b) is deemed to have been withdrawn when, as the case may be,—
-    (i) the notice under subsection (7)(a) specifying the medical practitioner by whom the authority or permission was given is revoked; or
-    (ii) the notice under subsection (7)(b) specifying the institution, clinic, or place, in respect of which the authority or permission concerned was given or renewed is revoked; or
-    (iii) the medical practitioner by whom the authority or permission was given dies, or ceases to work in the premises, clinic, or place to which the authority relates.
-(7) The Minister may from time to time, by notice in the Gazette,—
-  (a) specify any medical practitioner (by name) as a medical practitioner who may prescribe, administer, or supply controlled drugs for the purposes of this section:
-  (b) specify (by name or description) as a place at which controlled drugs may be prescribed, administered, or supplied for the purposes of this section—
-    (i) any hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
-    (ii) any clinic, or other place in which a medical practitioner for the time being specified under paragraph (a) works.
-(8) The Minister may from time to time, by notice in the Gazette, revoke or amend a notice under subsection (7).
-(9) This section does not apply to—
-  (a) the treatment of a patient, within the meaning of the Alcoholism and Drug Addiction Act 1966, while the patient is in an institution, within the meaning of that Act:
-  (b) the emergency treatment of a patient in a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001, for a period not exceeding 3 days:
-  (c) the treatment of any restricted person within the meaning of section 25.
 
 ## Schedule 3 — Consequential amendments to regulations
 
