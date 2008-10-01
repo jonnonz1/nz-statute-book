@@ -1,5 +1,5 @@
 # Proceeds of Crime Act 1991
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act—aTo provide for confiscation of the proceeds of serious criminal offending; andbTo provide for matters incidental thereto
 
@@ -918,8 +918,8 @@ In this Part of this Act, unless the context otherwise requires,—
 
 ### 69 Court may make production order
 (1) Where an application is made under section 68 of this Act to a Judge of the High Court for a production order against a person, the Judge may, subject to subsection (4) of this section and to sections 73 and 74 of this Act, make an order that the person—if the Judge is satisfied that there are reasonable grounds for making the order.
-  (a) Produce to a member of the Police any specified document or class of documents of the kind referred to in section 68(1)(b) of this Act that are in the person's possession or control; or
-  (b) Make available to a member of the Police, for inspection, any specified document or class of documents of that kind that are in the person's possession or control—
+  (a) Produce to a Police employee any specified document or class of documents of the kind referred to in section 68(1)(b) of this Act that are in the person's possession or control; or
+  (b) Make available to a Police employee, for inspection, any specified document or class of documents of that kind that are in the person's possession or control—
 (2) A Judge shall not make an order under subsection (1) of this section unless the application contains, or the applicant otherwise supplies to the Judge, such information as the Judge requires concerning the grounds on which the application is sought.
 (3) Where, on an application under section 68 of this Act for a production order in respect of an offence, the Judge is satisfied that there are reasonable grounds to believe that—the Judge may, having regard to the matters referred to in section 29(2) of this Act, treat any document relevant to identifying, locating, or quantifying that property as a property-tracking document in relation to the offence for the purposes of this section.
   (a) The person who was convicted of the offence, or who is believed to have committed the offence, derived a benefit, directly or indirectly, from the commission of the offence; and
@@ -927,20 +927,20 @@ In this Part of this Act, unless the context otherwise requires,—
 (4) An order under subsection (1)(a) of this section shall not be made in respect of bankers' books.
 
 ### 70 Time and place of production
-A production order requiring a person to produce or make available any document to a member of the Police—
+A production order requiring a person to produce or make available any document to a Police employee—
   (a) Shall specify when the document is to be produced or made available:
   (b) May specify—
     (i) The place where the document is to be produced or made available:
-    (ii) The member of the Police to whom the document is to be produced or made available.
+    (ii) The Police employee to whom the document is to be produced or made available.
 
-### 71 Powers and duties of police officers under production order
-(1) A member of the Police to whom a document is produced or made available for inspection in accordance with a production order under section 69 of this Act may do one or more of the following:
+### 71 Powers and duties of Police employees under production order
+(1) A Police employee to whom a document is produced or made available for inspection in accordance with a production order under section 69 of this Act may do one or more of the following:
   (a) Inspect the document:
   (b) Take extracts from the document:
   (c) Make copies of the document:
   (d) In the case of an order under subsection (1)(a) of that section, retain the document for as long as is reasonably necessary for the purposes of this Act.
-(2) Where a member of the Police retains a document pursuant to a production order, the member of the Police shall, on request by the person to whom the order was addressed,—
-  (a) Give the person a copy of the document certified by the member of the Police, in writing, to be a true copy of the document; or
+(2) Where a Police employee retains a document pursuant to a production order, the Police employee shall, on request by the person to whom the order was addressed,—
+  (a) Give the person a copy of the document certified by the Police employee, in writing, to be a true copy of the document; or
   (b) Permit the person to inspect, take extracts from, and make copies of, the document.
 
 ### 72 Production order to operate notwithstanding any other enactment or rule of law
