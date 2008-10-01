@@ -1,5 +1,5 @@
 # Extradition Act 1999
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to the extradition of persons to and from New Zealand
 
@@ -920,7 +920,7 @@ An Order in Council made under section 15 or section 16 or section 40 that recit
 ### 82 Search and seizure on arrest
 (1) If a person is arrested on a warrant issued or endorsed under this Act, a member of the police may search, without further warrant, the person arrested and may seize any thing, including any sum of money, found on the person or in the person's possession if the member of the police believes on reasonable grounds that the thing on the person or in the person's possession may be evidence as to the commission of any offence in relation to which the warrant to arrest was issued or endorsed or for which the surrender of the person is sought by the extradition country concerned.
 (2) If there is no suitable searcher available at the place where the search is to take place, the person to be searched may be taken to another place to be searched.
-(3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under section 57A of the Police Act 1958.
+(3) Nothing in this section limits or affects the right at common law of a constable to search a person on that person's arrest or any power under section 37 of the Policing Act 2008.
 
 ### 83 Search warrants
 (1) This section applies if—
