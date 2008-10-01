@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -2399,8 +2399,9 @@ Any contributor under this Part of this Act may, subject to regulations made und
 
 ### 88F Computation of retiring allowance
 (1) The retiring allowance of every contributor to the Fund under this Part of this Act—shall be an amount equal to the pension percentage of the contributor's final average earnings.
-  (a) Who elects or is required to retire from the Police under section 27 or section 28 of the Police Act 1958; or
-  (b) Who elects or is required to retire from the Police under section 28C or section 28D of the Police Act 1958 on or after attaining the age of 50 years—
+  (a) who elected or was required to retire from the police under section 27 or 28 of the Police Act 1958; or
+  (b) who elected or was required to retire from the police under section 28C or 28D of the Police Act 1958 on or after attaining the age of 50 years; or
+  (c) who elects or is required to leave the police under section 74 or 76 of the Policing Act 2008 on or after attaining the age of 50 years—
 (2) The retiring allowance of every contributor to the Fund under this Part of this Act—shall be an amount equal to the pension percentage of the contributor's final average earnings.
   (a) Who has attained the age of 50 years; and
   (b) Who has completed not less than 10 years' actual contributory service; and
@@ -2425,7 +2426,7 @@ Any contributor under this Part of this Act may, subject to regulations made und
 (8) For the purposes of determining the retiring allowance of any contributor under this Part of this Act, this section shall be deemed to include subsections (6) to (8) of section 61L of this Act and shall be read as if those subsections were part of this section.
 
 ### 88G Increases to benefits where contributor leaves Police under certain provisions due to lack of fitness
-(1) Where any contributor under this Part of this Act leaves the Police under section 28C or section 28D of the Police Act 1958 before attaining the age of 50 years, the contributor shall be entitled to exercise any of the options conferred by paragraphs (b), (c), and (d) of section 61S(1) of this Act (as applied by section 88H of this Act) or to receive a refund of the contributor's contributions to the Fund (less any amounts already received by the contributor from the Fund) increased by 0.25 percent for every month during which the contributor was a contributor under this Part or Part 2A of this Act, or as a member of the Police under Part 2 of the Government Superannuation Fund Amendment Act 1962 or any earlier scheme administered under any other Act.
+(1) Where any contributor under this Part of this Act left the police under section 28C or 28D of the Police Act 1958, or leaves the police under section 74 or 76 of the Policing Act 2008 before attaining the age of 50 years, the contributor shall be entitled to exercise any of the options conferred by paragraphs (b), (c), and (d) of section 61S(1) of this Act (as applied by section 88H of this Act) or to receive a refund of the contributor's contributions to the Fund (less any amounts already received by the contributor from the Fund) increased by 0.25 percent for every month during which the contributor was a contributor under this Part or Part 2A of this Act, or as a member of the Police under Part 2 of the Government Superannuation Fund Amendment Act 1962 or any earlier scheme administered under any other Act.
 (2) The refund payable under subsection (1) of this section to any person who has 5 or more years' service in the Police and who was a contributor to the Fund under Part 2 of the Government Superannuation Fund Amendment Act 1962 shall be further increased in accordance with the following formula: (A C E G) (- + - + - + -) X I (B D F H) where—
   (A) is the total contributions paid by the contributor as a member of the Police during the period that ended with the 31st day of March 1969 whether in respect of that period or any other period:
   (B) is the contributor's rate of contribution on the 31st day of March 1969:
