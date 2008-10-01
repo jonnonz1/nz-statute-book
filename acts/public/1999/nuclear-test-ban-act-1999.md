@@ -1,5 +1,5 @@
 # Nuclear-Test-Ban Act 1999
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to implement in the law of New Zealand the Comprehensive Nuclear-Test-Ban Treaty
 
@@ -74,14 +74,14 @@ This Act binds the Crown.
 
 ### 10 Clarification inspections
 (1) This section applies if another State Party, without having made a request for an on-site inspection under paragraph 34 of Article IV of the Treaty, requests New Zealand to clarify, either directly or through the Organization, whether or not at a place in New Zealand there has been non-compliance with Article I of the Treaty.
-(2) If this section applies, a member of the police may enter the place and conduct an inspection (a clarification inspection) of the place.
+(2) If this section applies, a constable may enter the place and conduct an inspection (a clarification inspection) of the place.
 (3) For the purposes of subsection (2),—
   (a) sections 17 and 19 apply (with necessary modification) as if the clarification inspection were an on-site inspection; and
-  (b) the member of the police has the functions contemplated, and the powers provided for, in the Treaty for on-site inspections by an international inspector.
+  (b) the constable has the functions contemplated, and the powers provided for, in the Treaty for on-site inspections by an international inspector.
 
 ## Part 5 — On-site inspections
 
-**Purpose of this part**
+**Purpose of this Part**
 
 ### 11 Purpose of this Part
 The purpose of this Part is to facilitate on-site inspections under the Treaty by—
@@ -101,7 +101,7 @@ An international inspector has the right, and every person must permit an intern
 To facilitate on-site inspections, an international inspector may be accompanied by—
   (a) up to 3 observers for the purposes of giving effect to paragraph 61 of Article IV of the Treaty:
   (b) a person appointed by the Minister under section 15:
-  (c) a member of the police.
+  (c) a constable.
 
 **Directions**
 
@@ -121,22 +121,22 @@ The Minister may issue a certificate identifying an international inspector or o
 **Enforcement**
 
 ### 17 Search warrants
-(1) A District Court Judge, Justice, Community Magistrate, or Registrar (not being a member of the police) may, on an application, issue a search warrant in respect of a place in New Zealand if satisfied that there are reasonable grounds for believing that—
+(1) A District Court Judge, Justice, Community Magistrate, or Registrar (not being a constable) may, on an application, issue a search warrant in respect of a place in New Zealand if satisfied that there are reasonable grounds for believing that—
   (a) the place is within an on-site inspection area; and
   (b) entry to the place is necessary for the purpose of exercising any function contemplated, or any power provided for, in the Treaty.
 (2) An application under subsection (1)—
   (a) may not be made unless the consent of a person in control of the place is not, or may not be, obtainable; and
-  (b) must be made in writing by a member of the police or person appointed under section 15; and
+  (b) must be made in writing by a constable or person appointed under section 15; and
   (c) must include a copy of relevant provisions of the Treaty and a copy of the inspection mandate.
 (3) For the purposes of subsection (2)(a), consent means consent to an international inspector, and any person accompanying or assisting the inspector, entering the place to exercise any function contemplated, or any power provided for, in the Treaty.
 (4) A warrant issued under subsection (1)—
   (a) authorises the international inspector (and any person authorised to accompany or assist the inspector) to enter the place, at any time within 14 days of the issue of the warrant (or within such further time as the Judge, Justice, Community Magistrate, or Registrar may specify in the warrant) for the purpose of exercising any function contemplated, or any power provided for, in the Treaty:
-  (b) authorises a member of the police, or person appointed under section 15, who accompanies the international inspector, to use such force as is reasonable in the circumstances for effecting entry to or inspection of a place specified in the warrant (including force to break down a door or break open anything in the place):
+  (b) authorises a constable, or person appointed under section 15, who accompanies the international inspector, to use such force as is reasonable in the circumstances for effecting entry to or inspection of a place specified in the warrant (including force to break down a door or break open anything in the place):
   (c) may be issued without conditions or subject to any conditions the Judge, Justice, Community Magistrate, or Registrar thinks fit.
 
 ### 18 Search without warrant
-(1) In the circumstances set out in subsection (2) an international inspector (and any member of the police, or person appointed under section 15) may exercise the powers in section 17(4) in respect of a place as if a warrant under section 17(1) had been issued in respect of the place.
-(2) The circumstances referred to in subsection (1) are that a member of the police, or person appointed under section 15, is satisfied that there are reasonable grounds for believing, in respect of the place, that—
+(1) In the circumstances set out in subsection (2) an international inspector (and any constable, or person appointed under section 15) may exercise the powers in section 17(4) in respect of a place as if a warrant under section 17(1) had been issued in respect of the place.
+(2) The circumstances referred to in subsection (1) are that a constable, or person appointed under section 15, is satisfied that there are reasonable grounds for believing, in respect of the place, that—
   (a) there are grounds for the issue of a warrant under section 17(1); and
   (b) it is not practicable to obtain possession of a warrant immediately; and
   (c) delaying entry until a warrant can be obtained would create a real risk that the exercise of a function contemplated, or a power provided for, in the Treaty, would be frustrated.
@@ -153,7 +153,7 @@ The Minister may issue a certificate identifying an international inspector or o
   (a) the time and date of entry:
   (b) the circumstances and purpose of entry:
   (c) the name of every person entering.
-(3) If a person appointed under section 15 discovers any offence or suspected offence under this Act as a result of accompanying an international inspector on an on-site inspection, the person must report that offence or suspected offence to the police as soon as practicable after the completion of that inspection.
+(3) If a person appointed under section 15 discovers any offence or suspected offence under this Act as a result of accompanying an international inspector on an on-site inspection, the person must report that offence or suspected offence to the Police as soon as practicable after the completion of that inspection.
 
 ### 20 Obstruction of international inspectors
 (1) Every person commits an offence who wilfully obstructs, hinders, resists, or deceives any international inspector who is exercising in New Zealand any function contemplated, or any power provided for, in the Treaty.
@@ -162,7 +162,7 @@ The Minister may issue a certificate identifying an international inspector or o
 
 ## Part 6 — Miscellaneous provisions
 
-**Self-Incrimination**
+**Self-incrimination**
 
 ### 21 Self-incrimination
 (1) A person is not excused from answering a question or giving any information or document under this Act or the Treaty on the ground that to do so may incriminate or tend to incriminate that person.
@@ -193,45 +193,57 @@ The Minister may issue a certificate identifying an international inspector or o
 **Amendment to Diplomatic Privileges and Immunities Act 1968**
 
 ### 24 Amendment to Diplomatic Privileges and Immunities Act 1968
-Amendment(s) incorporated in the Act(s).
+Section 10A of the Diplomatic Privileges and Immunities Act 1968 is amended by inserting, after paragraph (aa), the following paragraph:.
+  (ab) confer upon any persons to whom paragraph 57 of Article II of the Comprehensive Nuclear-Test-Ban Treaty applies, and any persons to whom Part II, Section B of the Protocol to that Treaty applies, any additional privileges and immunities that are required by that Treaty; and
 
-## Schedule Schedule — Extracts from the English text of The Comprehensive Nuclear-Test-Ban Treaty
+## Schedule Schedule — Extracts from the English text of the Comprehensive Nuclear-Test-Ban Treaty
 
-| [This table is not part of the Treaty and is included for convenience] |  |
-| --- | --- |
-|  | Page |
-| Preamble |  |
-| 1. Basic Obligations |  |
-| 2. The Organization |  |
-| 3. National Implementation Measures |  |
-| 4. Verification |  |
-| 5. Measures to Redress a Situation and to Ensure Compliance, Including Sanctions |  |
-| 6. Settlement of Disputes |  |
-| 7. Amendments |  |
-| 8. Review of the Treaty |  |
-| 9. Duration and Withdrawal |  |
-| 10. Status of the Protocol and Annexes |  |
-| 11. Signature |  |
-| 12. Ratification |  |
-| 13. Accession |  |
-| 14. Entry into Force |  |
-| 15. Reservations |  |
-| 16. Depositary |  |
-| 17. Authentic Texts |  |
-| Annex 1 to the Treaty – List of States Pursuant to Article II, Paragraph 28 |  |
-| Annex 2 to the Treaty – List of States Pursuant to Article XIV |  |
-| Protocol |  |
-| 1. The International Monitoring System and International Data Centre functions |  |
-| 2. On-site Inspections |  |
-| 3. Confidence-Building Measures |  |
-| Annex 1 to the Protocol (extracts only) – Tables listing stations and laboratories |  |
-| Annex 2 to the Protocol – List of Characterization Parameters for International Data Centre Standard Event Screening |  |
+| Contents |
+| --- |
+| [This table is not part of the Treaty and is included for convenience] |
+
+|  |  | Page |
+| --- | --- | --- |
+|  | Preamble | 16 |
+| 1. | Basic obligations | 17 |
+| 2. | The Organization | 18 |
+| 3. | National implementation measures | 31 |
+| 4. | Verification | 32 |
+| 5. | Measures to redress a situation and to ensure compliance including sanctions | 51 |
+| 6. | Settlement of disputes | 52 |
+| 7. | Amendments | 53 |
+| 8. | Review of the Treaty | 55 |
+| 9. | Duration and withdrawal | 56 |
+| 10. | Status of the Protocol and the Annexes | 56 |
+| 11. | Signature | 57 |
+| 12. | Ratification | 57 |
+| 13. | Accession | 57 |
+| 14. | Entry into force | 57 |
+| 15. | Reservations | 58 |
+| 16. | Depositary | 58 |
+| 17. | Authentic texts | 58 |
+| Annex 1 to the Treaty – List of States pursuant to Article II, paragraph 28 |  | 59 |
+| Annex 2 to the Treaty – List of States pursuant to Article XIV |  | 60 |
+| Protocol |  | 61 |
+| 1. | The International Monitoring System and International Data Centre functions | 61 |
+| 2. | On-site inspections | 69 |
+| 3. | Confidence-building measures | 95 |
+| Annex 1 to the Protocol (extracts only) – Tables listing stations and laboratories |  | 96 |
+| Annex 2 to the Protocol – List of characterization parameters for International Data Centre standard event screening |  | 98 |
+
+| The Comprehensive Nuclear-Test-Ban Treaty |
+| --- |
 
 |  | State responsible for station | Location | Latitude | Longitude | Type |
 | --- | --- | --- | --- | --- | --- |
-| 69 | New Zealand | EWZ Erewhon, South Island | 43.5 S | 170.9 E | 3-C |
-| 70 | New Zealand | RAO Raoul Island | 29.2 S | 177.9 W | 3-C |
-| 71 | New Zealand | URZ Urewera, North Island | 38.3 S | 177.1 E | 3-C |
+| 69 | New Zealand | EWZErewhon,South Island | 43.5 S | 170.9 E | 3-C |
+| 70 | New Zealand | RAORaoul Island | 29.2 S | 177.9 W | 3-C |
+| 71 | New Zealand | URZUrewera,North Island | 38.3 S | 177.1 E | 3-C |
+
+|  | State responsible for station | Location | Latitude | Longitude |
+| --- | --- | --- | --- | --- |
+| 46 | New Zealand | Chatham Island | 44.0 S | 176.5 W |
+| 47 | New Zealand | Kaitaia | 35.1 S | 173.3 E |
 
 |  | State responsible for laboratory | Name and place of laboratory |
 | --- | --- | --- |
