@@ -1,5 +1,5 @@
 # Misuse of Drugs Amendment Act 1978
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to facilitate the detection of certain drug dealing offences, to increase the maximum penalties that may be imposed in respect of such offences, and to amend the Misuse of Drugs Act 1975
 
@@ -323,7 +323,7 @@ The powers conferred by sections 13A to 13I of this Act may be exercised by any 
 (11) The decision of the High Court on an appeal under this section shall be final.
 
 ### 13M Commissioner of Police and Chief Executive of New Zealand Customs Service to report to Parliament
-The Commissioner of Police shall include in every annual report prepared by the Commissioner for the purposes of section 65 of the Police Act 1958, and the Chief Executive of the New Zealand Customs Service shall include in every annual report prepared by the Chief Executive for submission to Parliament, the following information in respect of the period under review:
+The Commissioner of Police shall include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008, and the Chief Executive of the New Zealand Customs Service shall include in every annual report prepared by the Chief Executive for submission to Parliament, the following information in respect of the period under review:
   (a) The number of applications for detention warrants made under section 13E of this Act by any member of the Police or (as the case may require) any officer of Customs:
   (b) The number of applications for renewals of detention warrants made under section 13I of this Act by any member of the Police or (as the case may require) any officer of Customs:
   (c) The number of such applications referred to in each of the preceding paragraphs of this section that were granted and the number that were refused:
@@ -361,7 +361,7 @@ The Commissioner of Police shall include in every annual report prepared by the 
 **Applications for interception warrants in relation to prescribed cannabis offences**
 
 ### 15A Application by Police for warrant to intercept private communications in relation to prescribed cannabis offences
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any member of the Police to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
+(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any Police employee to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
   (a) Any member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, a prescribed cannabis offence; and
   (b) The prescribed cannabis offence involves dealing in cannabis on a substantial scale; and
   (c) It is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
@@ -400,7 +400,7 @@ The Commissioner of Police shall include in every annual report prepared by the 
   (b) state,—
     (i) in the case of a warrant granted under section 15, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any person involved in the drug dealing offence; or
     (ii) in the case of a warrant granted under section 15B, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and.
-  (c) Specify the commissioned officer of Police who (with any other member of the Police or officer of Customs for the time being assisting him) may intercept the private communications; and
+  (c) Specify the commissioned officer of Police who (with any other Police employee or officer of Customs for the time being assisting him) may intercept the private communications; and
   (d) Where the Judge considers it necessary, contain express authority to enter (with force, where necessary) any craft, carriage, vehicle, or premises, for the purpose of placing, servicing, or retrieving an interception device; and
   (e) Contain such additional terms and conditions as the Judge considers advisable in the public interest.
 (2) Without limiting subsection (1) of this section, where it is proposed to place an interception device in the residential or business premises of a person who is a barrister or solicitor, or a clergyman, or a medical practitioner, the Judge shall prescribe such conditions (if any) as he considers desirable to avoid so far as practicable the interception of communications of a professional character to which the barrister or solicitor or clergyman or medical practitioner is a party.
@@ -439,7 +439,7 @@ Every interception warrant shall have effect, according to its terms, to authori
 (4) If, within 3 days after notice is given to the senior Police officer in the district under subsection (3) of this section, that officer gives written notice to the Registrar that he intends to oppose the production of the documents, the Registrar shall refer the matter to a Judge.
 (5) Where the senior Police officer in the district does not give written notice to the Registrar as aforesaid, the Registrar shall produce the documents to the party applying for production.
 (6) Where a matter is referred to a Judge pursuant to subsection (4) of this section, both the person requesting production of the documents and the member of the Police opposing production shall be given an opportunity to be heard.
-(7) If the Judge is satisfied that information in any document the production of which is in dispute identifies or is likely to lead to the identification of a person who gave information to the Police, or of any member of the Police whose identity was concealed for the purpose of any relevant investigation and has not been subsequently revealed, he may, if he believes it in the public interest to do so, order that the whole or any specified part of the document be not produced.
+(7) If the Judge is satisfied that information in any document the production of which is in dispute identifies or is likely to lead to the identification of a person who gave information to the Police, or of any Police employee whose identity was concealed for the purpose of any relevant investigation and has not been subsequently revealed, he may, if he believes it in the public interest to do so, order that the whole or any specified part of the document be not produced.
 (8) Subject to the provisions of subsection (7) of this section, the judge shall order the production of the documents to the party requesting it.
 (9) Where a request for the production of any document kept in safe custody pursuant to subsection (1) of this section is made in the course of any proceedings presided over by a Judge and the request is opposed, the judge shall adjudicate upon the matter as if it had been referred to him pursuant to subsection (4) of this section.
 (10) Where such a request is made in the course of any other proceedings, the presiding judicial officer shall forthwith refer the matter to a Judge for adjudication as aforesaid.
@@ -518,7 +518,7 @@ Where evidence obtained by the interception of a private communication would, bu
 (4) On receiving a report under this section, the Judge may require such further information relating to the matter as he thinks fit, and (in addition to any directions he gives for the purposes of section 22(3) of this Act) he may give such directions as he thinks desirable, whether relating to the retrieval of the interception device, or otherwise.
 
 ### 29 Commissioner of Police to give information to Parliament
-The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 65 of the Police Act 1958 the following information in respect of the period under review:
+The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 the following information in respect of the period under review:
   (a) The number of applications for warrants made under section 14; and
   (b) The number of applications for warrants made under section 15A; and
   (c) The number of applications for renewals of warrants made under section 18; and
