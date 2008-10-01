@@ -1,5 +1,5 @@
 # Births, Deaths, and Marriages Registration Act 1995
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to provide for—aThe recording of information relating to births, citizenship by birth, names, adoptions, sexual assignment and reassignment, deaths, marriages, and civil unions; andbAccess to information recorded in respect of any such matter; andcThe provision and effect of certificates relating to information recorded in respect of any birth, death, marriage, or civil union
 
@@ -102,7 +102,7 @@ Every birth in New Zealand shall be notified and registered in accordance with t
 Except as provided in sections 7(2) and 8 and Part 4 of this Act, no birth outside New Zealand shall be registered.
 
 ### 7 Foundlings
-(1) A person who—shall as soon as is practicable tell a member of the Police, who shall notify the Registrar-General.
+(1) A person who—shall as soon as is practicable tell a Police employee, who shall notify the Registrar-General.
   (a) Believes that a child in the person's charge is recently born and was found abandoned in New Zealand; and
   (b) Is not satisfied that a Registrar has been notified of the child's birth—
 (2) As far as it is practicable to do so, the Registrar-General shall register the birth of all children of whose finding the Registrar-General is notified under subsection (1) of this section.
@@ -422,7 +422,7 @@ Subject to any enactment to the contrary, a person having charge of a body shall
 (2) Subject to subsection (3) of this section,—without complying with subsection (1) of this section.
   (a) Any person having charge of a body who is not a funeral director may transfer charge of it to a funeral director; and
   (b) Any person having charge of a body may transfer charge of it to—
-    (i) A member of the Police; or
+    (i) A Police employee; or
     (ii) A doctor who has been directed by a coroner to perform a post-mortem examination of the body; or
     (iii) The occupier of a hospital,—
 (3) A person who, at the time the person transfers charge of a body to another person, has a doctor's certificate or coroner's order shall then give the other person the certificate or order.
@@ -495,10 +495,10 @@ A coroner who has established—shall notify a Registrar of the person's death.
   (a) A naval, military, or air force raised in New Zealand, or in—
     (i) Any other state that was a Commonwealth country when the force was raised; or
     (ii) Any state for whose international relations New Zealand or another state that was a Commonwealth country when the force was raised was then responsible; or
-  (b) A unit of the Police of New Zealand forming part of a United Nations force,—
+  (b) A United Nations activity within the meaning of sections 91 to 95 of the Policing Act 2008,—
 (2) The information to be recorded is:
   (a) Name and sex:
-  (b) Force or unit served in, and rank, at the time of death, and official number:
+  (b) Force or unit served in, and rank or level of position, at the time of death, and official number:
   (c) Last occupation and usual place of abode before departure from New Zealand:
   (d) Birthplace and parentage:
   (e) Date of birth, or age at date of death:
