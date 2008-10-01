@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -25,7 +25,7 @@ _Consolidation as at 2008-08-01_
       (iv) temporary additional support under section 61G of that Act or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; or
       (v) A disability allowance payable under section 69C of that Act:
   - **Committal for trial** means committal to the High Court or a District Court under section 168A of this Act
-  - **Constable** includes any member of the Police
+  - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **Conviction** includes an order; and has a corresponding meaning
   - **Court** means a District Court constituted under the District Courts Act 1947
   - **Court nearest to the committing Court** or any similar expression, includes, in relation to a District Court, any such Court presided over by a trial Judge sitting at the same place as the committing Court
@@ -2303,17 +2303,7 @@ If the person for whose protection a Court has required the defendant to find a 
 **Special constables**
 
 ### 192 Appointment and powers of special constables
-(1) If at any time the Commissioner of Police is of opinion that the members of the Police serving in any place are not sufficient in number for the preservation of the public peace and for the protection of the inhabitants and the security of the property in that place, the Commissioner may direct any constable to apply to any District Court Judge or Justice to appoint such number of suitable persons as the Commissioner considers necessary to be special constables for the preservation of the public peace and for the protection of the inhabitants and the security of the property in that place.
-(2) On application being made as aforesaid, the District Court Judge or Justice may appoint such persons as aforesaid, being persons willing to act, and shall administer to every person so appointed an oath in the prescribed form.
-(3) Every special constable shall be under the control and direction of the senior member of the Police for the time being acting in the locality in which is situated the place for which he was so appointed, and subject thereto shall, for the purpose of exercising the functions for which he was appointed, have such powers, authorities, immunities, duties, and responsibilities as he would have if he were a member of the Police appointed under the Police Act 1958.
-(4) The Commissioner of Police, or any commissioned officer of the Police for the time being acting in the locality for which special constables are appointed under this section, may at any time determine the services of or suspend or dismiss all or any of those special constables.
-(5) There may be paid to special constables such remuneration by way of fees, salary, allowances, or expenses as may from time to time be approved by the Minister of Finance.
-(6) The following provisions of the Police Act 1958 shall, with the necessary modifications, apply to special constables as if they were members of the Police, namely—
-  (a) Section 30 (which authorises the Commissioner of Police to issue general instructions for the guidance of members of the Police):
-  (b) Section 50 (which requires members of the Police on ceasing to hold office, to return all Government property in their possession).
-(7) Regulations may be made under section 64 of the Police Act 1958 fixing the conditions of appointment, resignation, and discharge of special constables, for securing that only fit and proper persons shall be appointed as special constables, and for rendering special constables efficient in the discharge of their duties.
-(8) Every person commits an offence and is liable on summary conviction by a Court presided over by a District Court Judge or 2 or more Justices to a fine not exceeding $150 who, being a special constable, refuses or neglects to obey such orders, directions, or instructions as are lawfully given for the performance of his duties.
-(9) Every person commits an offence, and is liable on summary conviction by a Court presided over by a District Court Judge or 2 or more Justices to a fine not exceeding $300 or to imprisonment for a term not exceeding 3 months, who resists or assaults or wilfully obstructs, or incites or encourages any person to resist, assault, or obstruct, any special constable in the execution of his duty or any person acting in aid of a special constable in the execution of his duty.
+[Repealed]
 
 ## Part 7 — Protection of Justices and Community Magistrates
 
