@@ -1,5 +1,5 @@
 # Medicines Act 1981
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to the manufacture, sale, and supply of medicines, medical devices, and related products
 
@@ -861,7 +861,7 @@ No person may operate any pharmacy that is not for the time being under the imme
   (g) Dentists:
   (ga) Registered midwives:
   (gb) Designated prescribers:
-  (h) Members of the Police:
+  (h) Police employees:
   (i) Persons who deal in prescription medicines or restricted medicines in the course of business.
 (4) Nothing in subsection (1) or subsection (2) of this section shall limit or affect any right or duty that a Medical Officer of Health may otherwise possess to publish a statement to any person.
 (5) Every person commits an offence against this Act who, except in the course of duty as a member of a class set out in subsection (3) of this section or as an officer or servant of the Crown, publishes any information obtained, whether by that person or any other person, from a statement made pursuant to subsection (1) of this section, or any comment on any such statement.
