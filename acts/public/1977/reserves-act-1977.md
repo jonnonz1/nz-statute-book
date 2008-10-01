@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -659,7 +659,7 @@ The administering body may, with the prior approval of the Minister, erect, or a
 (1) Subject to subsection (2) of this section and to the Resource Management Act 1991, in the case of reserves vested in an administering body, the administering body, with the consent of the Minister and on such conditions as the Minister thinks fit, may grant rights of way and other easements over any part of the reserve for—
   (a) Any public purpose; or
   (b) Providing access to any area included in an agreement, lease, or licence granted under the powers conferred by this Act; or
-  (c) The distribution or transmission by pipeline of natural or manufactured gas, petroleum, or geothermal energy; or
+  (c) The distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
   (d) An electrical installation or work, as defined in section 2 of the Electricity Act 1992; or
   (e) The provision of water systems; or
   (f) Providing or facilitating access or the supply of water to or the drainage of any other land not forming part of the reserve or for any other purpose connected with any such land.
