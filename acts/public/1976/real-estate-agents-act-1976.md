@@ -1,5 +1,5 @@
 # Real Estate Agents Act 1976
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to make better provision for the licensing of real estate agents and for matters related thereto, and to consolidate and amend the law relating to the conduct of the business of real estate agents
 
@@ -817,7 +817,7 @@ In any action brought against the Institute in relation to the Fund, all defence
 (3) Upon production by any person so appointed of his or her letter of appointment he or she shall be entitled, in respect of any real estate agent or firm of real estate agents, to exercise any of the powers conferred upon the Council by sections 88 and 89 of this Act:
   Provided that he or she shall not exercise the power conferred by section 89 of this Act except pursuant to a resolution of the Council passed in relation to any specified real estate agent or firm of real estate agents.
 (4) The person so appointed to make any examination of accounts for the purposes of this section shall not, otherwise than in the course of his or her report to the Council, communicate to any person any matter that may come to his or her knowledge in the course of his or her examination.
-(5) The Council shall consider the report in committee, but may disclose the contents to any member of the Police, or to the Council of the Institute of Chartered Accountants of New Zealand.
+(5) The Council shall consider the report in committee, but may disclose the contents to any Police employee, or to the Council of the Institute of Chartered Accountants of New Zealand.
 (6) No member or officer of the Council shall communicate to any person any information disclosed in the report, except in the performance of his or her duty.
 
 ### 92 Expenses of Council in investigating affairs of real estate agent
