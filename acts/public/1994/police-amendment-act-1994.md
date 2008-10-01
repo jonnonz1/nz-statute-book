@@ -1,5 +1,5 @@
 # Police Amendment Act 1994
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to amend the Police Act 1958
 
