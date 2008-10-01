@@ -1,5 +1,5 @@
 # Criminal Justice Act 1985
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to reform and revise the law relating to criminal justice, and to repeal and replace the Criminal Justice Act 1954 and its amendments
 
@@ -701,7 +701,7 @@ _Consolidation as at 2007-09-03_
     (i) The evidence adduced; or
     (ii) The submissions made:
   (b) An order forbidding the publication of the name of any witness or witnesses, or any name or particulars likely to lead to the identification of the witness or witnesses:
-  (c) Subject to subsection (3) of this section, an order excluding all or any persons other than the informant, any member of the Police, the defendant, any counsel engaged in the proceedings, and any officer of the court from the whole or any part of the proceedings.
+  (c) Subject to subsection (3) of this section, an order excluding all or any persons other than the informant, any Police employee, the defendant, any counsel engaged in the proceedings, and any officer of the court from the whole or any part of the proceedings.
 (3) The power conferred by paragraph (c) of subsection (2) of this section shall not, except where the interests of security or defence so require, be exercised so as to exclude any accredited news media reporter.
 (4) An order made under paragraph (a) or paragraph (b) of subsection (2) of this section—
   (a) May be made for a limited period or permanently; and
@@ -752,10 +752,10 @@ _Consolidation as at 2007-09-03_
 
 ### 141 Publication by or at request of Police, etc
 Nothing in sections 138 to 140 of this Act shall prevent—
-  (a) The publication by or at the request of any member of the Police of the name, address, or occupation of any person who has escaped from lawful custody or has failed to attend any court when lawfully required to do so, or of any particulars likely to lead to that person's identification, if that publication is made for the purpose of facilitating that person's recapture or arrest:
+  (a) The publication by or at the request of any Police employee of the name, address, or occupation of any person who has escaped from lawful custody or has failed to attend any court when lawfully required to do so, or of any particulars likely to lead to that person's identification, if that publication is made for the purpose of facilitating that person's recapture or arrest:
   (b) The publication of the name, address, or occupation of any person, or any particulars likely to lead to the identification of any person, or any details of the offences charged to—
     (i) Any person assisting with the administration of the sentence imposed on the person or with the rehabilitation of the person; or
-    (ii) Any member of the Police, or any officer or employee of the Department of Corrections or of the Department for Courts, who requires the information for the purposes of his or her official duties.
+    (ii) Any Police employee, or any officer or employee of the Department of Corrections or of the Department for Courts, who requires the information for the purposes of his or her official duties.
 
 ### 142 Special provisions as to young persons remanded or committed for trial or sentence
 (1) Notwithstanding anything in any other enactment, no person under the age of 16 years shall be remanded to a prison pending the hearing or trial of any charge or pending sentence.
