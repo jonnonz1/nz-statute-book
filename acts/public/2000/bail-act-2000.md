@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -177,38 +177,38 @@ A court may make an order prohibiting the publication of any report or descripti
 
 ## Part 2 — Police bail
 
-### 21 Defendant admitted to bail by member of police
-(1) Any member of the police may, if he or she considers it prudent to do so, take the bail bond of a person who—
+### 21 Defendant admitted to bail by Police employee
+(1) Any Police employee may, if he or she considers it prudent to do so, take the bail bond of a person who—
   (a) is charged with an offence for which that person may be proceeded against summarily; and
   (b) has been arrested without warrant; and
   (c) cannot practicably be brought immediately before a court.
 (2) In determining whether it is prudent to grant bail under subsection (1) to any person charged with an offence against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995, the need to protect the victim of the alleged offence is the paramount consideration.
 (2A) Despite section 7, no defendant is entitled to be granted bail under this section as of right.
 (3) Any bail bond taken under this section—
-  (a) may be either with or without sureties as the member of the police thinks fit; and
-  (b) must be in such sum or sums as the member of the police thinks sufficient; and
+  (a) may be either with or without sureties as the Police employee thinks fit; and
+  (b) must be in such sum or sums as the Police employee thinks sufficient; and
   (c) is subject to the condition that, at a time and place to be specified in the bond, being a time not later than 7 days from the date of the bond, the person bailed attend personally before a court.
-(4) If a person is granted bail under this section, the member of the police who takes the bail bond of the person may, in addition to the conditions that may be imposed under subsection (3), also impose any condition that might be imposed by a District Court or Registrar under subsection (2) or subsection (3) of section 31.
+(4) If a person is granted bail under this section, the Police employee who takes the bail bond of the person may, in addition to the conditions that may be imposed under subsection (3), also impose any condition that might be imposed by a District Court or Registrar under subsection (2) or subsection (3) of section 31.
 (5) A bail bond taken under this section has the same effect as if it had been taken before a Justice.
 
-### 22 Mode of taking bail bond by member of police
-(1) The member of the police taking a bail bond under section 21 must enter in it—
+### 22 Mode of taking bail bond by Police employee
+(1) The Police employee taking a bail bond under section 21 must enter in it—
   (a) the names, residence, and occupation of the defendant; and
   (b) the names, residence, and occupation of the defendant's surety or sureties (if any) entering into the bond; and
   (c) the condition or conditions of the bond; and
   (d) the sums respectively acknowledged.
 (2) The bond must be signed by the defendant and the defendant's surety or sureties (if any).
-(3) If the member of the police taking the bail bond thinks fit, the defendant may be required to deposit a sum of money equal to the sum acknowledged by the defendant.
+(3) If the Police employee taking the bail bond thinks fit, the defendant may be required to deposit a sum of money equal to the sum acknowledged by the defendant.
 (4) If at the time and place specified in the bond the defendant does not attend personally, and after hearing the charge in the defendant's absence the court convicts the defendant, the sum deposited may be applied in payment or part payment of any amount payable under the conviction.
 (5) In a case referred to in subsection (4), if the sum deposited is applied in payment or part payment of any amount payable under the conviction,—
   (a) section 25(2) does not apply; and
-  (b) if the defendant is entitled to a refund of the sum deposited or any part of it and does not claim it, the member of the police must pay the amount into court.
+  (b) if the defendant is entitled to a refund of the sum deposited or any part of it and does not claim it, the Police employee must pay the amount into court.
 
 ### 23 Bail and breach of protection order
-(1) If a person is arrested under section 50 of the Domestic Violence Act 1995 and charged with an offence against section 49 of that Act, the person must not be released on bail by a member of the police under section 21 during the 24 hours immediately following the arrest.
+(1) If a person is arrested under section 50 of the Domestic Violence Act 1995 and charged with an offence against section 49 of that Act, the person must not be released on bail by a Police employee under section 21 during the 24 hours immediately following the arrest.
 (2) Nothing in subsection (1) limits or affects the obligation of the police to bring a person who is charged with an offence before a court as soon as possible.
-(3) If a person to whom subsection (1) applies is not brought before a court during the 24 hours immediately following the arrest, the person may, at the expiry of that period, be released on bail by a member of the police under section 21.
-(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a member of the police under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against subsection (1)(a) or subsection (1)(b) of section 49 of the Domestic Violence Act 1995.
+(3) If a person to whom subsection (1) applies is not brought before a court during the 24 hours immediately following the arrest, the person may, at the expiry of that period, be released on bail by a Police employee under section 21.
+(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against subsection (1)(a) or subsection (1)(b) of section 49 of the Domestic Violence Act 1995.
 
 ### 24 Failure to answer police bail
 A defendant commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, having been released on bail by a member of the police, fails without reasonable excuse to attend personally at the time and the court specified in the bail bond.
