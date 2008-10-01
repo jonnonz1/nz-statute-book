@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -820,7 +820,7 @@ The following sections of the Family Proceedings Act 1980 apply, with the follow
   (a) the fact that a faxed copy of the warrant may be used for the purposes of executing the warrant; and
   (b) the date and time at which the authorisation expires, which must be the close of the third day after the day on which the authorisation is granted.
 (5) A faxed copy of a warrant in respect of which an authorisation granted under this section is in force must, for all purposes, be treated as if it were the warrant, and the provisions of this Act (for example, sections 75 and 79) apply accordingly with all necessary modifications.
-(6) Without limiting any other enactment or rule of law, section 39 of the Police Act 1958 (which relates to the protection of members of the police for acts pursuant to process) applies in relation to a faxed copy of a warrant in respect of which an authorisation granted under this section is in force as if that faxed copy were the warrant.
+(6) Without limiting any other enactment or rule of law, section 44 of the Policing Act 2008 (which relates to protection of Police employees for acts pursuant to process) applies in relation to a faxed copy of a warrant in respect of which an authorisation granted under this section is in force as if that faxed copy were the warrant.
 (7) Subsection (6) is for the avoidance of doubt.
 
 ### 77 Preventing removal of child from New Zealand
