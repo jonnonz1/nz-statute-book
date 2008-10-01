@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -3843,9 +3843,9 @@ The following provisions apply to each reorganisation scheme unless amended or d
 (5) An order of the Commission under subclause (2) may be enforced as if it were an agreement between the local authorities concerned.
 (6) For the purposes of the Income Tax Act 2007, the Goods and Services Tax Act 1985, and the Injury Prevention, Rehabilitation, and Compensation Act 2001, a local authority constituted under a reorganisation scheme is deemed to be the same local authority as each of the local authorities whose district, region, or functions are wholly transferred to that local authority.
 
-### 70 Apportionment of petroleum tax revenue
+### 70 Apportionment of fuel tax revenue
 (1) This clause applies if, under an Order in Council giving effect to a proposal in a final reorganisation scheme under this Act,—
-  (a) any proceeds of a petroleum tax levied under Part 11 of the Local Government Act 1974 are distributed among the component authorities affected by the proposal in accordance with Part 11 of that Act; and
+  (a) any proceeds of a fuel tax levied under Part 11 of the Local Government Act 1974 are distributed among the component authorities affected by the proposal in accordance with Part 11 of that Act; and
   (b) either—
     (i) a new district of a component authority is constituted comprising or including only part of another such district then existing; or
     (ii) the boundaries of the district of a component authority are altered by the inclusion of an area of land forming part of another such district.
