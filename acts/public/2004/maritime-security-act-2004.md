@@ -1,5 +1,5 @@
 # Maritime Security Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Maritime Security Act 2004.
@@ -36,12 +36,12 @@ The purpose of this Act is to—
 In this Act, unless the context otherwise requires,—
   - **authorised person** means—
     (a) a maritime security officer; or
-    (b) a member of the police; or
+    (b) a constable; or
     (c) a Customs officer
-  - **certificate** means a valid International Ship Security Certificate issued under section 9(1)(i) or a valid Interim International Ship Security Certificate issued under section 9(1)(i)
+  - **certificate** means a valid International Ship Security Certificate issued under section 9(1)(l) or a valid Interim International Ship Security Certificate issued under section 9(1)(l)
   - **chief executive** means the person who for the time being is the chief executive officer of the Designated Authority
   - **Code** means the International Code for the Security of Ships and of Port Facilities, consisting of Part A (the provisions of which are mandatory) and Part B (the provisions of which are recommendatory), as adopted, on 12 December 2002, by resolution 2 of the Conference of Contracting Governments to the Convention, and as may be amended by the International Maritime Organization, provided that—
-    (a) amendments to Part A of the Code are adopted, are brought into force, and take effect in accordance with article 8 of the Convention concerning the amendment procedures applicable under the Annex of the Convention other than Chapter I of that Annex; and
+    (a) amendments to Part A of the Code are adopted, are brought into force, and take effect in accordance with article VIII of the Convention concerning the amendment procedures applicable under the Annex of the Convention other than Chapter I of that Annex; and
     (b) amendments to Part B of the Code are adopted by the Maritime Safety Committee of the International Maritime Organization in accordance with its Rules of Procedure
   - **company** means the owner of the ship or any other organisation or person who has assumed the responsibility for the operation of the ship from the owner of the ship and who, on assuming such responsibility, has agreed to take over all the duties and responsibilities imposed by the International Safety Management Code
   - **company security officer** means the person designated by the company to—
@@ -56,7 +56,7 @@ In this Act, unless the context otherwise requires,—
   - **Customs officer** has the same meaning as in section 2(1) of the Customs and Excise Act 1996
   - **declaration of security** means an agreement between a ship and a port facility, or another ship, with which it interfaces that specifies the security measures each must implement
   - **Designated Authority** means the authority appointed under section 7
-  - **high-speed craft** means a craft capable of a maximum speed in metres per second equal to or exceeding—3.7∇ 0.1667where ∇ is the displacement corresponding to the design waterline (m3)
+  - **high-speed craft** means a craft capable of a maximum speed in metres per second equal to or exceeding—3.70.1667where is the displacement corresponding to the design waterline (m3)
   - **in writing** means printed, typewritten, or otherwise visibly represented, copied, or reproduced, including by fax or email or other electronic means
   - **International Safety Management Code** means the International Management Code for the Safe Operation of Ships and for Pollution Prevention adopted on 4 November 1993 by the International Maritime Organization by Resolution A.741(18), as amended from time to time by the International Maritime Organization
   - **maritime security document** means a document issued or approved by a party to the Convention for the purposes of the Code
@@ -140,7 +140,7 @@ The principal objectives of the Designated Authority are to ensure that—
     (i) any port security assessment carried out by a recognised security organisation in accordance with section 39; and
     (ii) any port facility security plan in accordance with section 41; and
     (iii) any amendment to an approved port facility security plan in accordance with section 41; and
-  (h) exercises the control measures specified in section 31(1) or takes 1 or more steps under section 34(1)(b); and—
+  (h) exercises the control measures specified in section 31(1) or takes 1 or more steps under section 34(1)(b); and
   (i) for the purpose of providing further information, publishes standards and codes of practice; and
   (j) authorises recognised security organisations in accordance with regulations made under this Act; and
   (k) undertakes any other functions or duties specified in regulations made under this Act; and
@@ -157,7 +157,7 @@ The principal objectives of the Designated Authority are to ensure that—
 ### 10 Functions and duties of chief executive
 The chief executive must—
   (a) discharge the functions and duties specified in section 9; and
-  (b) carry out, execute, or act on any lawful direction given by the Designated Authority under this Act or regulations made-under-this-Act.
+  (b) carry out, execute, or act on any lawful direction given by the Designated Authority under this Act or regulations made under this Act.
 
 ### 11 Chief executive may delegate certain functions and powers
 (1) The chief executive, either generally or particularly, may delegate to any employee of the Designated Authority any of the chief executive's functions and powers under this Act or regulations made under this Act.
@@ -234,7 +234,7 @@ The chief executive must—
   (c) with respect to each security level 3 specification under section 16, appropriate instructions, as necessary, to—
     (i) every affected New Zealand ship; and
     (ii) any other ship affected intending to operate, or operating, within the territorial limits of New Zealand; and
-    (iii) every affected port facility within the territorial limits or continental waters of New Zealand; and
+    (iii) every affected port facility within the territorial limits or continental waters of New Zealand.
 (2) For the purpose of this section, the chief executive must provide the master of the ship with any information or instructions required under subsection (1), as the chief executive considers necessary, by any means of communication, whether or not of a permanent nature, that the chief executive considers appropriate in the circumstances.
 
 ### 18 Chief executive must test security plans
@@ -554,7 +554,7 @@ The chief executive must approve a port facility security plan, or any amendment
 (4) An authorised person or a port facility security officer, and any person whom he or she calls to his or her assistance, may use any force that is reasonably necessary to remove from any port security area any person who fails or refuses to leave the port security area immediately after having been ordered by an authorised person or a port facility security officer to do so under subsection (3).
 (5) A person who refuses to comply with subsection (2) or subsection (3) and, after being warned that he or she commits an offence by not complying, persists in its commission,—
   (a) may be detained, with reasonable force (if necessary), by an authorised person or a port facility security officer; and
-  (b) in that case he or she must be delivered to a member of the police as soon as practicable.
+  (b) in that case he or she must be delivered to a constable as soon as practicable.
 (6) A passenger or crew member embarking or disembarking directly through gateways or thoroughfares in a port facility approved for that purpose by the port facility operator is deemed to be authorised by the chief executive to pass through any port security area forming part of those gateways or thoroughfares.
 (7) A person on official duties acting under a statutory power to enter an area to carry out his or her statutory functions or duties—
   (a) may enter a port security area; and
@@ -595,7 +595,7 @@ The chief executive must approve a port facility security plan, or any amendment
     (ii) any thing to be carried by a ship; and
     (iii) any thing in a port security area; and
     (iv) any person (including that person's personal effects) or vehicle entering, or within, a port security area; and
-    (v) any (as specified in the Gazette notice)
+    (v) any (as specified in the Gazette notice)—
       (A) ship or class of ship; or
       (B) port security area.
 (2) The Gazette notice must specify—
@@ -665,22 +665,21 @@ The chief executive must approve a port facility security plan, or any amendment
   (a) a person specified in subsection (1)(b)(i); or
   (b) a person (including that person's personal effects) or vehicle specified in subsection (1)(b)(iv); or
   (c) a ship specified in subsection (1)(b)(v).
-(5) If a search is conducted under a search warrant by an authorised person who is not a member of the police, that authorised person must be accompanied by a member of the police.
+(5) If a search is conducted under a search warrant by an authorised person who is not a constable, that authorised person must be accompanied by a constable.
 (6) If a person allows his or her person to be searched or is subject to a search warrant,—
   (a) that person may not be required to remove any article of clothing (other than a coat or similar article) for the purposes of being searched; and
   (b) if the search is not made by means of a mechanical or electronic device or similar mechanism, that person must be searched by an authorised person of the same gender.
-(7) Screening and searching may only be undertaken—
-  (a) in a port security area in areas that are designated for that purpose by signage that—
-    (i) is posted in the appropriate places; and
-    (ii) states the statutory authority for the screening and searching; and
-    (iii) has lettering of a size sufficient to indicate clearly to all persons on first entry to a port security area that screening and searching is being undertaken; and
+(7) Screening and searching may only be undertaken in a port security area in areas that are designated for that purpose by signage that—
+  (a) is posted in the appropriate places; and
+  (b) states the statutory authority for the screening and searching; and
+  (c) has lettering of a size sufficient to indicate clearly to all persons on first entry to a port security area that screening and searching is being undertaken.
 (8) Screening and searching may only be undertaken by an authorised person—
   (a) dressed in a uniform that clearly displays that person's identity and employer; or
   (b) who, if not in uniform, provides, if asked, evidence that he or she is an authorised person to the person to be screened or searched.
 (9) To avoid doubt, things, personal effects, and vehicles may be screened or searched without consent if they are unattended.
 (10) Despite subsection (1)(a)(ii) and (b)(ii), goods subject to the control of Customs may not be screened or searched without the authorisation of the New Zealand Customs Service.
 (11) Subsection (10) does not apply if the chief executive has specified that security level 3 applies to the port facility or ship where the screening or searching is to be done.
-(12) For the purposes of subsection (4), judicial officer means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a Court Registrar (other than a member of the police).
+(12) For the purposes of subsection (4), judicial officer means a District Court Judge, a Justice of the Peace, a Community Magistrate, or a court Registrar (other than a constable).
 
 ### 52 Power to seize items
 (1) If an authorised person detects an item specified in section 50(1), and has reasonable grounds to believe that the item may not lawfully be taken on board a ship or into a port security area, the authorised person may seize the item for the purpose of determining whether the item may lawfully be taken on board a ship or into a port security area.
@@ -695,8 +694,8 @@ The chief executive must approve a port facility security plan, or any amendment
 (5) Despite subsection (4),—
   (a) if the authorised person has reasonable grounds to believe that the seized item poses an imminent risk to safety, the authorised person may—
     (i) destroy or otherwise dispose of the item; or
-    (ii) deliver the item to the police; or
-  (b) if the authorised person has reasonable grounds to believe that the seized item may not be lawfully possessed, the authorised person may deliver the item to the police.
+    (ii) deliver the item to the Police; or
+  (b) if the authorised person has reasonable grounds to believe that the seized item may not be lawfully possessed, the authorised person may deliver the item to the Police.
 
 ### 53 Costs of seizures
 (1) If an authorised person has seized an item under section 52(1), the Designated Authority may recover from either the owner of the item or the person who was in possession of the item all reasonable costs of and incidental to that seizure.
@@ -714,22 +713,22 @@ The chief executive must approve a port facility security plan, or any amendment
 (2) If a person required to leave refuses to leave, an authorised person, and anyone asked to assist, may use any force that is reasonably necessary to remove that person.
 (3) A person who refuses to leave as required under subsection (1) and, after being warned that he or she commits an offence by not leaving, persists in its commission,—
   (a) may be forcibly detained by an authorised person; and
-  (b) if detained, must be delivered to a member of the police as soon as practicable.
+  (b) if detained, must be delivered to a constable as soon as practicable.
 (4) If the person who refuses to consent is a passenger or a crew member, a company or master may refuse to allow that passenger or crew member to board that company's ship.
 (5) A company or master who refuses to carry a passenger who refuses to consent is not liable to any civil proceedings, other than a proceeding in respect of any right that the passenger may have for the recovery of the fare or part of the fare.
 
 ### 55 Search of persons refusing consent to be searched
-(1) A member of the police may, without a warrant, search a person and that person's personal effects or vehicle, and may detain that person for the purposes of that search, and may take possession of any article referred to in section 50(1) found in the course of that search, if—
+(1) A constable may, without a warrant, search a person and that person's personal effects or vehicle, and may detain that person for the purposes of that search, and may take possession of any article referred to in section 50(1) found in the course of that search, if—
   (a) a company or master refuses to carry a person who has refused to consent to the searching of his or her person or personal effects or vehicle; and
-  (b) the member of the police has reasonable grounds to suspect that—
+  (b) the constable has reasonable grounds to suspect that—
     (i) an offence against this Act has been, is being, or is likely to be, committed, whether by that person or by any other person; or
     (ii) a search of the person refusing to consent is likely to disclose evidence that an offence against this Act has been, is being, or is likely to be, committed, whether by that person or another person.
 (2) The refusal of a person to consent to the searching of his or her person or personal effects or vehicle does not of itself constitute reasonable grounds for suspecting that an offence against this Act has been, is being, or is likely to be, committed.
-(3) A member of the police exercising the power of search under subsection (1) must, before the search is conducted, and on any subsequent request,—
+(3) A constable exercising the power of search under subsection (1) must, before the search is conducted, and on any subsequent request,—
   (a) provide evidence of his or her identity to the person to be searched; and
   (b) inform the person to be searched that the search is authorised under this section; and
-  (c) if not in uniform, provide evidence, if asked, that he or she is a member of the police to the person to be searched.
-(4) If a member of the police exercises the power of search under subsection (1), he or she must, within 3 days after the day on which he or she exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
+  (c) if not in uniform, provide evidence, if asked, that he or she is a constable to the person to be searched.
+(4) If a constable exercises the power of search under subsection (1), he or she must, within 3 days after the day on which he or she exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
 
 ### 56 Powers of arrest
 (1) An authorised person may, without a warrant, arrest any person in, or in the vicinity of, a port security area or on board a ship or in an exclusion zone if that authorised person has reasonable grounds to believe that the person has committed, or is committing, an offence against any of the following enactments:
@@ -738,21 +737,21 @@ The chief executive must approve a port facility security plan, or any amendment
   (c) section 45 of the Arms Act 1983 (which relates to unlawful carriage of firearms or explosives):
   (d) section 4 of the Maritime Crimes Act 1999 (which relates to crimes relating to ships).
 (2) A person may, in good faith, assist an authorised person in arresting any person if called upon to do so by that authorised person.
-(3) An authorised person who is not a member of the police must, as soon as practicable, deliver any person that he or she arrests to a member of the police.
+(3) An authorised person who is not a constable must, as soon as practicable, deliver any person that he or she arrests to a constable.
 (4) An authorised person exercising the power of arrest under subsection (1) must—
   (a) provide evidence of his or her identity to the person to be arrested; and
   (b) inform the person to be arrested that the arrest is authorised under this section; and
   (c) if not in uniform, provide, if asked, evidence that he or she is an authorised person to the person to be arrested.
-(5) An authorised person who arrests a person and delivers him or her to a member of the police, and any person who at the request of the authorised person and in good faith assists an authorised person in doing so, is justified in so arresting and delivering that person and in using any force that may be reasonably necessary.
+(5) An authorised person who arrests a person and delivers him or her to a constable, and any person who at the request of the authorised person and in good faith assists an authorised person in doing so, is justified in so arresting and delivering that person and in using any force that may be reasonably necessary.
 
-### 57 Arrest of persons delivered to police
-(1) A member of the police must accept delivery of a person that an authorised person arrests under section 56(1) or detains under section 46(5) or section 54(3) if that member of the police has reasonable grounds to suspect that person of having done, or having omitted to do, any thing that constitutes an offence under this Act or any enactment specified in section 56(1).
-(2) A member of the police who accepts delivery of a detained person may arrest that person.
+### 57 Arrest of persons delivered to Police
+(1) A constable must accept delivery of a person that an authorised person arrests under section 56(1) or detains under section 46(5) or section 54(3) if that constable has reasonable grounds to suspect that person of having done, or having omitted to do, any thing that constitutes an offence under this Act or any enactment specified in section 56(1).
+(2) A constable who accepts delivery of a detained person may arrest that person.
 
 ### 58 Right of access to port security areas and ships
 (1) An authorised person at any time while on duty may enter a port security area, or any building, vehicle, or place in any part of a port security area, or any ship, for the purpose of exercising and carrying out his or her powers, functions, and duties under this Act.
-(2) Unless a maritime security officer is accompanied by a member of the police, the power of entry conferred by subsection (1) is limited to peaceful and non-forcible entry.
-(3) If the police have taken command of any situation at a port security area, the right of a maritime security officer to enter any part of the port security area or any ship, building, or place is subject to the limitations that the senior member of the police present at the port security area specifies.
+(2) Unless a maritime security officer is accompanied by a constable, the power of entry conferred by subsection (1) is limited to peaceful and non-forcible entry.
+(3) If the Police have taken command of any situation at a port security area, the right of a maritime security officer to enter any part of the port security area or any ship, building, or place is subject to the limitations that the senior constable present at the port security area specifies.
 (4) If a ship, building, vehicle, or place is not being used for commercial purposes, subsection (1) does not apply unless the authorised person believes on reasonable grounds that a person or thing likely to endanger the port security area or any of its facilities or any person is in that ship, building, vehicle, or place.
 (5) An authorised person may not enter a dwellinghouse, crew quarters, or a passenger cabin without—
   (a) a search warrant; or
@@ -822,7 +821,7 @@ No employee of a port facility or an organisation servicing a port facility, or 
 
 ### 64 Right of appeal to District Court
 (1) A person has a right of appeal to a District Court if affected by a decision of the chief executive under section 23, section 25, section 41, or section 43.
-(2) The Court may confirm, reverse, or modify the decision appealed against.
+(2) The court may confirm, reverse, or modify the decision appealed against.
 (3) Every decision appealed against under this section continues in force pending the determination of the appeal, and no person is excused from complying with any of the provisions of this Act on the ground that any appeal is pending.
 (4) Even though an appeal under this section may have been determined in favour of the appellant, the chief executive may, subject to the like right of appeal, revoke the District Court's approval of a ship security plan or a port facility security plan if the chief executive has sufficient grounds supported by facts or evidence discovered since the hearing of the appeal.
 (5) If the chief executive revokes the District Court's approval of—
@@ -951,10 +950,10 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
   (b) the results of a security assessment of a ship under this Act.
 (3) If, following a security assessment under subsection (1), the Designated Authority considers that the Act should be extended to a ship or class of ship or a port facility, the Designated Authority must make a recommendation to that effect to the Minister.
 (4) Following a recommendation by the Designated Authority under subsection (3),—
-  (a) in an emergency, the Minister may extend the application of this Act to a ship or port facility by notice in the Gazette ; and
+  (a) in an emergency, the Minister may extend the application of this Act to a ship or port facility by notice in the Gazette; and
   (b) in any other case, the Governor-General, on the recommendation of the Minister, may extend the application of this Act to a ship or port facility by Order in Council.
 (5) For the purposes of subsection (4)(b), the Minister must consult with the affected ship (if any) and the affected port facility (if any).
-(6) A Gazette notice or Order in Council under subsection (4)
+(6) A Gazette notice or Order in Council under subsection (4)—
   (a) must—
     (i) clearly identify the ship or port facility concerned; and
     (ii) state which sections of this Act apply to that ship or port facility; and
@@ -968,7 +967,7 @@ Every person who intentionally contravenes section 61 by entering or leaving an 
 (8) An Order in Council made under subsection (4)(b),—
   (a) if made on or before 30 June in any year, expires on the close of 31 December of that year, except so far as it is expressly confirmed by Act of Parliament passed during that year; and
   (b) if made on or after 1 July in any year, expires on the close of 31 December in the following year, except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
-(9) A Gazette notice issued under subsection (4)(a) may be replaced by an Order in Council made under subsection 4(b).
+(9) A Gazette notice issued under subsection (4)(a) may be replaced by an Order in Council made under subsection (4)(b).
 (10) For the purposes of subsections (1) to (6),—
   - **port facility** means a port facility that is not included in section 4(1)(b)
   - **ship** means a ship that is not included in section 4(1)(a).
@@ -994,32 +993,15 @@ For the purposes of any inspection or audit carried out in respect of any person
 (3) The chief executive must not issue chief executive's instructions that conflict with the exercise of a power by—
   (a) a person under Part 5 of the Civil Defence Emergency Management Act 2002; or
   (b) a Recovery Co-ordinator appointed under section 29 of the Civil Defence Emergency Management Act 2002 and acting under that Act; or
-  (c) any member of the police under section 10 of the Inter-national Terrorism (Emergency Powers) Act 1987; or
+  (c) any constable under section 10 of the International Terrorism (Emergency Powers) Act 1987; or
   (d) a person under Part 4 of the Health Act 1956.
 
 ### 81 Consequential amendments
-(1) Section 430(1) of the Maritime Transport Act 1994 is amended by inserting, after paragraph (a), the following paragraph:.
-  (ab) promote maritime security; and
-(2) Section 431(1)(a) of the Maritime Transport Act 1994 is amended by inserting, after the word safety, the words and security.
-(3) Section 431(1)(a) of the Maritime Transport Act 1994 is amended by inserting, after the word shipping, the words and maritime security.
-(4) Section 431(1)(b) of the Maritime Transport Act 1994 is amended by inserting, after the word safety, the words and security.
-(5) Section 431(1)(c) of the Maritime Transport Act 1994 is amended by inserting, after the word safety, the words and security.
-(6) Section 431(1)(i) of the Maritime Transport Act 1994 is amended by inserting, after the words promote safety, the words and security.
-(7) Section 431(1)(i) of the Maritime Transport Act 1994 is amended by inserting, after the words marine safety, the words and maritime security.
-(8) Section 431(1)(j) of the Maritime Transport Act 1994 is amended by inserting, after the word incidents, the words and maritime security breaches and incidents.
+((1)–(8)) Amendment(s) incorporated in the Act(s).
 (9) The Maritime (Offences) Regulations 1998 (1998/444) are amended in the manner set out in Part 1 of the Schedule.
 (10) The Maritime Rules are amended in the manner set out in Part 2 of the Schedule.
 
 ## Schedule Schedule — Consequential amendments to Maritime Regulations and Maritime Rules
-
-| Provision | Brief Description | Maximum Penalty on Summary Conviction for Individual | Maximum Penalty on Summary Conviction for Body Corporate | Infringement Fee for Individual | Infringement Fee for Body Corporate |
-| --- | --- | --- | --- | --- | --- |
-|  |  | $ | $ | $ | $ |
-| Part 40B | Design, Construction and Equipment – SOLAS Ships |  |  |  |  |
-| Rule 40B.33 | Responsibilities of owner and master re automatic identification system | 5,000 | 30,000 |  |  |
-| Rule 40B.34 | Responsibility of owner re ship identification number | 5,000 | 30,000 |  |  |
-| Rule 40B.35 | Responsibilities of owner and master re continuous synopsis record | 5,000 | 30,000 |  |  |
-| Rule 40B.36 | Responsibility of owner re ship security alert system | 5,000 | 30,000 |  |  |
 
 ### 40B.33 Automatic identification system
 (1) The owner of a ship must ensure that an automatic identification system is fitted on board the ship in accordance with the requirements of regulation 19 of Chapter V of SOLAS (as amended in December 2002).
