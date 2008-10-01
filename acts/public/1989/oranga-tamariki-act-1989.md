@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—aTo advance the wellbeing of families and the wellbeing of children and young persons as members of families, whanau, hapu, iwi, and family groups:bTo make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cTo make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deTo repeal the Children and Young Persons Act 1974
 
@@ -2122,7 +2122,7 @@ Where, in respect of any offence alleged or admitted to have been committed by a
 (1) Where, in respect of any offence admitted or proved to have been committed by a child or young person, a family group conference recommends that a formal Police caution be given to the child or young person, a member of the Police may caution the child or young person.
 (2) The following provisions shall apply in respect of a formal Police caution given to a child or young person:
   (a) Where practicable, the caution shall be given at a Police station:
-  (b) The caution shall be given by a member of the Police who is of or above the rank of sergeant, or if no such member of the Police is available, by the highest ranking member available:
+  (b) The caution shall be given by a member of the Police who is of or above the level of position of sergeant, or if no such member of the Police is available, by the most senior member available:
   (c) The caution shall be given in the presence of—
     (i) A parent or guardian or other person having the care of the child or young person; or
     (ii) An adult person nominated by the child or young person.
@@ -3555,7 +3555,7 @@ The manager may cause to be inspected, in accordance with the regulations, any m
 
 ### 384D Use of dogs for searching
 (1) In exercising a power of search conferred by sections 384B and 384C, a member of staff may have with him or her, and use for the purposes of searching, any dog trained for that purpose.
-(2) A dog must not be used unless it is under the control of another person (being a member of the police, or a customs officer, or a member of the Armed Forces, or an employee of the Department of Corrections), who may accompany the member of staff for the purposes of the search.
+(2) A dog must not be used unless it is under the control of another person (being a Police employee, or a customs officer, or a member of the Armed Forces, or an employee of the Department of Corrections), who may accompany the member of staff for the purposes of the search.
 (3) A member of staff who uses a dog for the purposes of searching any child or young person must conduct the search with decency and sensitivity and in a manner that—
   (a) affords to the child or young person being searched the greatest degree of dignity consistent with the purpose of the search; and
   (b) prevents the dog coming into physical contact with the child or young person during the search.
@@ -4025,7 +4025,7 @@ Every Social Worker, member of the Police, or other person executing any warrant
   (a) The fact that a facsimile copy of the warrant may be used for the purpose of executing the warrant; and
   (b) The date and time at which the authorisation expires, which shall be the close of the third day after the day on which the authorisation is granted,—
 (5) A facsimile copy of a warrant in respect of which an authorisation granted under this section is in force shall be treated, for all purposes, as if it were the warrant, and the provisions of this Act (including, without limitation, sections 445A and 445C and section 446(1)(a) and (b) of this Act) shall apply accordingly with all necessary modifications.
-(6) Without limiting any other enactment or rule of law, it is hereby declared that section 39 of the Police Act 1958 (which relates to the protection of members of the Police for acts pursuant to process) applies in relation to a facsimile copy of a warrant in respect of which an authorisation granted under this section is in force as if that facsimile copy were the warrant.
+(6) Without limiting any other enactment or rule of law, it is hereby declared that section 44 of the Policing Act 2008 (which relates to protection of Police employees for acts pursuant to process) applies in relation to a facsimile copy of a warrant in respect of which an authorisation granted under this section is in force as if that facsimile copy were the warrant.
 
 ### 445C Issue and execution of warrants
 Any warrant issued under any provision of this Act may be issued or executed at any hour of the day or night and may be issued or executed on a Sunday as on any other day.
