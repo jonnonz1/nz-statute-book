@@ -1,5 +1,5 @@
 # United Nations (Police) Act 1964
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to confer jurisdiction on the Courts of New Zealand in respect of acts or omissions of members of the Police while outside New Zealand as members of a unit of the Police forming part of a United Nations force and to provide for the discipline of such members in respect of misconduct or neglect of duty
 
