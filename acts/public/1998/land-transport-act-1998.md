@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -386,7 +386,7 @@ This Act binds the Crown.
     (i) The emergency requires the licensed driver to perform other duties and it is impracticable for him or her to drive the ambulance, or the licensed driver is injured or otherwise unable to drive; and
     (ii) Unless the licensed driver was unable to do so, the licensed driver has requested that person to drive in place of the licensed driver; or
   (b) Is a member of a fire brigade and drives a motor vehicle used by a fire brigade for attendance at emergencies, so long as the vehicle being used at the time is used on urgent fire brigade service and it is impracticable for an appropriately licensed person to drive the vehicle; or
-  (c) Is a member of the Police and drives a motor vehicle in an emergency requiring Police attendance, and—
+  (c) Is a Police employee and drives a motor vehicle in an emergency requiring Police attendance, and—
     (i) The emergency is not reasonably foreseeable; and
     (ii) The driving is necessary in the interests of safety or public order; and
     (iii) An appropriately licensed person is not readily available.
@@ -443,7 +443,7 @@ A person who is required by or under this Act to give any specified information,
 
 ### 15 Persons not to impersonate enforcement officers
 (1) A person (other than an enforcement officer or a dangerous goods enforcement officer) may not by words, conduct, or demeanour pretend to be an enforcement officer or dangerous goods enforcement officer, or put on or assume the dress, name, designation, or description of an enforcement officer or dangerous goods enforcement officer.
-(2) This section does not affect section 51 of the Police Act 1958.
+(2) This section does not affect section 48 of the Policing Act 2008.
 
 ### 16 Heavy motor vehicles not to be overloaded
 A person operating a heavy motor vehicle or combination of vehicles may not operate the vehicle or vehicles in breach of the prescribed maximum gross weight limits for motor vehicles or prescribed maximum weight limits for axles or groups of axles of motor vehicles.
@@ -493,12 +493,12 @@ If an enforcement officer, acting in the course of his or her official duties, b
   (a) The driver's or rider's name and address; and
   (b) The name and address of the owner of the vehicle; and
   (c) If the vehicle concerned is a motor vehicle, the number or letters or other expression on the registration plates assigned to the vehicle.
-(3) If the accident involves an injury to or the death of a person, the driver or rider must report the accident in person at the nearest police station or to an enforcement officer as soon as reasonably practicable, and in any case not later than 24 hours after the time of the accident, unless the driver or rider is incapable of doing so by reason of injuries sustained by him or her in the accident.
+(3) If the accident involves an injury to or the death of a person, the driver or rider must report the accident to an enforcement officer as soon as reasonably practicable, and in any case not later than 24 hours after the time of the accident, unless the driver or rider is incapable of doing so by reason of injuries sustained by him or her in the accident.
 (4) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, the driver or rider must (unless he or she is incapable of doing so by reason of injuries sustained by him or her in the accident), not later than 48 hours after the time of the accident, report to the owner—
   (a) The driver's or rider's name and address; and
   (b) The number on the registration plates assigned to the motor vehicle; and
   (c) The location of the accident.
-(5) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, but the owner cannot readily be contacted or identified, the driver or rider must report the accident to the nearest police station or to an enforcement officer as soon as practicable and in any case within 60 hours after the time of the accident.
+(5) If the accident involves damage to an unoccupied motor vehicle or to other property belonging to a person other than the driver or rider, but the owner cannot readily be contacted or identified, the driver or rider must report the accident to an enforcement officer as soon as practicable and in any case within 60 hours after the time of the accident.
 (6) If the motor vehicle involved in the accident is a fire engine or an ambulance travelling to an emergency, the driver complies with subsection (1) if he or she stops the vehicle and sets down a member of the crew who is equipped with a first-aid kit and discharges all the other duties imposed on a driver by that subsection.
 (7) Subsections (3) to (5) do not apply if the driver or rider has been arrested or detained as a result of the accident.
 (8) This section does not apply to a rail vehicle unless that vehicle is a light rail vehicle.
@@ -1219,7 +1219,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 54 Personation of enforcement officer
 (1) A person commits an offence if the person (other than an enforcement officer or a dangerous goods enforcement officer), without reasonable excuse, by words, conduct, or demeanour pretends to be an enforcement officer or a dangerous goods enforcement officer, or puts on or assumes the dress, name, designation, or description of an enforcement officer or dangerous goods enforcement officer.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $10,000.
-(3) Subsection (1) does not affect section 51 of the Police Act 1958.
+(3) Subsection (1) does not affect section 48 of the Policing Act 2008.
 
 ### 55 Tampering with vehicle surveillance equipment
 (1) A person commits an offence if the person—
@@ -3286,7 +3286,7 @@ The functions of the Minister under this Act are—
   (a) The Commissioner must inform the applicant that information has been deleted or omitted from the copy of the report; and
   (b) The provisions of the Official Information Act 1982 and the Privacy Act 1993 apply to the deletion or omission as if, following a request under that Act for the information deleted or omitted, the information had been withheld in reliance on that Act.
 (3) The fee referred to in subsection (1) is, despite section 24(1) of the Official Information Act 1982 and section 35 of the Privacy Act 1993, payable by every person (including a natural person to whom the report relates) applying for a copy of a traffic accident report.
-(4) In this section, traffic accident report means a written report prepared by an enforcement officer who is a sworn or non-sworn member of the Police that relates to an investigation of a traffic accident.
+(4) In this section, traffic accident report means a written report prepared by an enforcement officer who is a Police employee that relates to an investigation of a traffic accident.
 
 ### 211A Payment of fees
 All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of Part 4A must be paid or credited to the Agency.
