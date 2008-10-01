@@ -1,5 +1,5 @@
 # New Zealand Security Intelligence Service Act 1969
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to make better provision for the New Zealand Security Intelligence Service
 
@@ -186,7 +186,7 @@ This Act shall bind the Crown.
 (3) Every person who knowingly fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
 
 ### 4H Prevention or detection of serious crime
-(1) Despite sections 4(1)(a) and 4G(1)(a), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to members of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
+(1) Despite sections 4(1)(a) and 4G(1)(a), the Director, for the purpose of preventing or detecting serious crime in New Zealand or in any other country, may retain any information that comes into the possession of the Security Intelligence Service and may communicate any such information to employees of the New Zealand Police or to any other persons, and in any manner, that the Director thinks fit.
 (2) In subsection (1), serious crime means,—
   (a) In relation to New Zealand, any indictable offence; and
   (b) In relation to an overseas country, any offence that, if it occurred in New Zealand, would be an indictable offence.
