@@ -1,5 +1,5 @@
 # State Sector Act 1988
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-10-01_
 
 > An Act—aTo ensure that employees in the State services are imbued with the spirit of service to the community; andbTo promote efficiency in the State services and other agencies; andcTo ensure the responsible management of the State services; anddTo maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeTo ensure that every employer in the State services is a good employer; andfTo promote equal employment opportunities in the State services; andgTo provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhTo repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
@@ -488,7 +488,7 @@ The Commissioner may, with the agreement of the Governor-General in Council, for
   (a) The Solicitor-General shall be the chief executive of the Crown Law Office:
   (b)
   (c) The State Services Commissioner shall be the chief executive in respect of the State Services Commission:
-  (d) The Commissioner of Police shall be the chief executive in respect of the Police Department (civilian staff):
+  (d) The Commissioner of Police is the chief executive of the New Zealand Police.
   (e) the director of the Government Communications Security Bureau is the chief executive of the Government Communications Security Bureau.
 
 ### 45 Application of Labour Relations Act 1987 in respect of chief executives
