@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2008-10-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2405,7 +2405,7 @@ Tax rate
 Reduction of income
 (7) The superannuation fund may reduce the income by 25% for each income year to which both the following apply:
   (a) the income year is 1 of the 4 income years before the income year in which the withdrawal is made; and
-  (b) in the corresponding tax year, the total of the member’s taxable income and the employer’s superannuation contributions to the fund for the member’s benefit is less than $60,000.
+  (b) in the corresponding tax year, the total of the member’s taxable income and the employer’s superannuation contributions to the fund for the member’s benefit is less than $70,000.
 Timing of income
 (8) The income is allocated as follows:
   (a) if the superannuation fund is wound up or becomes a foreign superannuation scheme, the income is allocated to the income year in which the withdrawal is made:
@@ -32054,7 +32054,7 @@ Standard method: 10% uplift
   (c) they have not provided the return on or before that date; and
   (d) the date is not the date of instalment F for the corresponding income year.
 Relationships and modification of standard method
-(4) Subsections (5) to (7) override subsection (3). Section RZ 3 (Standard method: 2008–09 and 2009–10 income years) modifies subsection (3).
+(4) Subsections (5) to (7) override subsection (3). Sections RZ 3 and RZ 5B (which relate to tax rate changes) modify subsections (2) and (3).
 Estimation method
 (5) The person may estimate their provisional tax liability for the tax year under section RC 7.
 GST ratio method
@@ -32144,7 +32144,7 @@ When no assessment for tax year before preceding tax year
 Total taxable supplies
 (8) In subsections (2), (5), and (7), and in sections RC 11, RC 19, and RC 31, total taxable supplies, for a person and a period, means the amount that is the total value of taxable supplies by the person for the period. The amount includes the GST charged on the supplies.
 Modification
-(9) Section RZ 4 (GST ratio method: 2008–09 and 2009–10 income years) modifies this section.
+(9) Sections RZ 4 and RZ 5C (which relate to tax rate changes) modify this section.
 
 **Instalments of provisional tax**
 
@@ -32200,8 +32200,8 @@ Calculation
 Definition of items in formula
 (3) In the formula,—
   (a) residual income tax is a person’s residual income tax, as applicable—
-    (i) for the preceding tax year, uplifted by 5% (modified as applicable by section RZ 5 (Calculating amounts under standard method: 2008–09 and 2009–10 income years); or
-    (ii) for the tax year before the preceding tax year, uplifted by 10% (modified as applicable by section RZ 5); or
+    (i) for the preceding tax year, uplifted by 5% (modified as applicable by sections RZ 5 and RZ 5B (which relate to tax rate changes); or
+    (ii) for the tax year before the preceding tax year, uplifted by 10% (modified as applicable by sections RZ 5 and RZ 5B); or
     (iii) the amount estimated by them:
   (b) instalment number is the number of the instalment for the tax year, whether first, second, or third:
   (c) total instalments is the total number of instalments for the tax year:
@@ -32217,7 +32217,7 @@ Definition of item in formula
 Taxable supplies when person pays on monthly basis
 (3) For the purposes of subsection (1), a person who pays GST on a 1-month cycle under section 15 of the Goods and Services Tax Act 1985 must apply the GST ratio to the sum of their taxable supplies in the current taxable period and the preceding taxable period, that is, the taxable supplies in the 2-month period matching the instalment period.
 Modification
-(4) Section RZ 4 (GST ratio method: 2008–09 and 2009–10 income years) modifies this section.
+(4) Sections RZ 4 and RZ 5C (which relate to tax rate changes) modify this section.
 
 ### RC 12 Voluntary payments
 A person who is liable to pay provisional tax may at any time make a voluntary payment of an amount of provisional tax that—
@@ -32843,7 +32843,7 @@ PAYE income payments other than schedular payments
 (1) The amount of tax for a PAYE income payment that a person must withhold and pay to the Commissioner under section RA 5 (Tax obligations for employment-related taxes) is the relevant amount under schedule 2 (Basic tax rates for PAYE income payments). Subsections (2) and (3) and sections RD 12 to RD 20 override this subsection.
 Choosing rate for extra pay
 (2) An employee who notifies their employer of their tax code may choose to have the amount of tax for an extra pay fixed as follows
-  (a) for an employee whose taxable income for the income year is expected to be no more than $60,000, the rate set out in schedule 2, part B, table 1, row 2; or
+  (a) for an employee whose taxable income for the income year is expected to be no more than $70,000, the rate set out in schedule 2, part B, table 1, row 2; or
   (b) for other employees, the rate set out in schedule 2, part B, table 1, row 3.
 Schedular payments
 (3) The amount of tax for a schedular payment is determined—
@@ -32933,10 +32933,10 @@ No amount of tax withheld
 ### RD 17 Payment of extra pay with other PAYE income payments
 When this section applies
 (1) This section applies when a person pays an amount of extra pay to an employee who also receives a PAYE income payment from the person. The amount of tax for the extra pay is based on the sum of the extra pay and the annualised value of all PAYE income payments made to the employee in the period that starts 4 weeks before the date of the payment of the extra pay and ends on the date of that payment.
-Between $38,000 and $60,000
-(2) If the sum of the amounts referred to in subsection (1) is more than $38,000 but no more than $60,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
-Over $60,000
-(3) If the sum of the amounts referred to in subsection (1) is more than $60,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 3.
+Between $40,000 and $70,000
+(2) If the sum of the amounts referred to in subsection (1) is more than $40,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
+Over $70,000
+(3) If the sum of the amounts referred to in subsection (1) is more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 3.
 
 ### RD 18 Schedular payments without notification
 When this section applies
@@ -35146,6 +35146,58 @@ Calculation modified: 2008–09 income year
   (b) for the tax year before the preceding tax year, the amount of residual income tax without any uplift.
 Calculation modified: 2009–10 income year
 (3) In the calculation of the amount of an instalment under section RC 10(2) for the 2009–10 income year, the item residual income tax in the formula is the amount of residual income tax for the tax year before the preceding tax year without any uplift.
+
+### RZ 5B Standard method: new personal tax rate persons from 1 October 2008 to end 2012–13 income year
+When this section applies
+(1) This section applies for a new personal tax rate person to the calculation of their provisional tax liability from 1 October 2008 to the end of the 2012–13 income year.
+Standard method modified: RIT reduction from 1 October 2008 to end 2008–09
+(2) For the purpose of the person’s provisional tax liability calculation from 1 October to the end of the 2008–09 income year, under section RC 5(2) and (3), and RC 10(3)(a)(i) and (ii), the following amounts are reduced by $730:
+  (a) the person’s residual income tax for the preceding tax year:
+  (b) the person’s residual income tax for the tax year before the preceding tax year.
+Standard method modified: RIT reduction 2009–10
+(3) For the purpose of the person’s provisional tax liability calculation for the 2009–10 income year,––
+  (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $730:
+  (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,460.
+Standard method modified: RIT reduction 2010–11
+(4) For the purpose of the person’s provisional tax liability calculation for the 2010–11 income year,—
+  (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $597.50:
+  (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,327.50.
+Standard method modified: RIT reduction 2011–12
+(5) For the purpose of the person’s provisional tax liability calculation for the 2011–12 income year,—
+  (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $812.50:
+  (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,410.
+Standard method modified: RIT reduction 2012–13
+(6) For the purpose of the person’s provisional tax liability calculation for the 2012–13 income year, under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $812.50.
+
+### RZ 5C GST ratio method: new personal tax rate persons from 1 October 2008 to end 2013–14 income year
+When this section applies
+(1) This section applies for a new personal tax rate person to the calculation of their provisional tax liability from 1 October 2008 to the end of the 2013–14 income year.
+GST method modified: RIT reduction from 1 October 2008 to end 2008–09
+(2) For the purposes of the person’s provisional tax liability and GST ratio calculation from 1 October 2008 to the end of the 2008–09 income year, under section RC 8(2) to (3B), and (7) to (7B), the following amounts are reduced by $730:
+  (a) the person’s residual income tax for the preceding tax year:
+  (b) the person’s income tax assessment or residual income tax for the tax year before the preceding tax year or the transitional year, as applicable:
+  (c) the person's income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable.
+GST method modified: RIT reduction 2009–10
+(3) For the purposes of the person’s provisional tax liability and GST ratio calculation for the 2009–10 income year,––
+  (a) under section RC 8(2), the amount of the person’s residual income tax for the preceding tax year is reduced by $730:
+  (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding tax year or the transitional year, as applicable, is reduced by $1,460:
+  (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $1,460.
+GST method modified: RIT reduction 2010–11
+(4) For the purposes of the person’s provisional tax liability and GST ratio calculation for the 2010–11 income year,—
+  (a) under section RC 8(2), the amount of the person’s residual income tax for the preceding year is reduced by $597.50:
+  (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by $1,327.50:
+  (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $2,057.50.
+GST method modified: RIT reduction 2011–12
+(5) For the purposes of the person’s provisional tax liability and GST ratio calculation for the 2011–12 income year,—
+  (a) under section RC 8(2), the amount of the person’s residual income tax for the preceding year is reduced by $812.50:
+  (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by $1,410:
+  (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $2,140.
+GST method modified: RIT reduction 2012–13
+(6) For the purposes of the person’s provisional tax liability calculation for the 2012–13 income year,—
+  (a) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by $812.50:
+  (b) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $1,410.
+GST method modified: RIT reduction 2013–14
+(7) For the purposes of the person’s provisional tax liability calculation for the 2013–14 income year, under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $812.50.
 
 **Refunds**
 
@@ -39196,8 +39248,7 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 
 ### 1 Amount of tax for section RD 67(a)
 If section RD 67(a) applies, the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution.
-Row ESCT rate threshold amount Tax rate 1$0 – $11,4000.152$11,401 – $45,6000.213$45,601 upwards0.33
-How to use this table Find the range, in the second column, for the last dollar of the amount of salary or wages under section RD 69(1) in order to find the relevant rate to apply, in the third column.
+Table 1RowESCT rate threshold amountTax rate1$0 – $16,8000.1252$16,801 – $48,0000.2103$48,001 upwards0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 If section RD 67(b) applies, the amount of tax is determined by applying the rate of 0.33 to each dollar of an employer’s superannuation contribution.
@@ -39459,7 +39510,7 @@ In this part,—
     (d) sphagnum moss.
 
 ### 1
-A personal service rehabilitation payment for a person under the Injury Prevention, Rehabilitation, and Compensation Act 2001 has a 0.15 rate of tax for each dollar of the payment.
+A personal service rehabilitation payment for a person under the Injury Prevention, Rehabilitation, and Compensation Act 2001 has a 0.125 rate of tax for each dollar of the payment.
 
 ## Schedule 5 — Fringe benefit values for motor vehicles
 
@@ -40054,9 +40105,8 @@ expenditure related to the acquisition of land
 | Annual amount, calculated in accordance with section MF 3(2)(a) | Annualised equivalent amount for section MF 3(2)(b) |
 | --- | --- |
 |  | $ |
-| Amount does not exceed $35,000 | 35,000 |
-| Amount exceeds $35,000 but does not exceed $36,500 | 36,500 |
-| Amount exceeds $36,500 but does not exceed $38,000 | 38,000 |
+| Amount does not exceed $36,827 | 36,827 |
+| Amount exceeds $36,827 but does not exceed $38,000 | 38,000 |
 | Amount exceeds $38,000 but does not exceed $39,500 | 39,500 |
 | Amount exceeds $39,500 but does not exceed $41,000 | 41,000 |
 | Amount exceeds $41,000 but does not exceed $42,500 | 42,500 |
@@ -47263,6 +47313,10 @@ In this Part, other than sections 4 and 9,—
 (1) Amendment incorporated in the principal Act.
 (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 income year and later income years.
+
+### 47 New sections RZ 5B and RZ 5C
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies for provisional tax instalments payable on or after 1 October 2008.
 
 ### 48 Definitions
 (1) This section amends section YA 1.
