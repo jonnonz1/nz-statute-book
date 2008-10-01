@@ -1,5 +1,5 @@
 # Corrections Act 2004
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Corrections Act 2004.
@@ -569,13 +569,13 @@ While any person is detained in a police station under section 35, the police st
   (a) every person lawfully detained in—
     (i) a police jail; or
     (ii) if section 35 applies, a police station:
-  (b) every person under the control of a member of the police or an officer of a police jail, while that person carries out courtroom custodial duties or escort duties.
+  (b) every person under the control of a Police employee, while that person carries out courtroom custodial duties or escort duties.
 (3) Legal custody under subsection (1) commences as soon as the person is received within a corrections prison or placed under the control of any security officer or officer of a corrections prison and continues while the person—
   (a) is detained in the prison; or
   (b) is for any reason outside the prison under the control or supervision of any security officer or officer of a corrections prison, staff member of a corrections prison, or probation officer, under the authority of this Act.
-(4) Legal custody under subsection (2) commences as soon as the person is received within a police jail or is placed under the control of an officer of a police jail or a member of the police and continues while the person—
+(4) Legal custody under subsection (2) commences as soon as the person is received within a police jail or is placed under the control of a Police employee and continues while the person—
   (a) is detained in the prison; or
-  (b) is for any reason outside the prison under the control of any officer of a police jail or member of the police, under the authority of this Act.
+  (b) is for any reason outside the prison under the control of any Police employee, under the authority of this Act.
 (5) Despite subsections (3) and (4), a person who is temporarily released from custody under section 62 or under any other enactment is not in legal custody at any time while he or she is at large following his or her release.
 (6) If any prisoner is for any reason outside a prison under the control or supervision of any probation officer under the authority of this Act, that probation officer has the powers of an officer to give any lawful order to the prisoner, and is an officer for the purposes of the following provisions:
   (a) section 21 (which relates to the protection of officers in the discharge of their functions):
@@ -583,7 +583,7 @@ While any person is detained in a police station under section 35, the police st
   (c) section 128(1) (which relates to offences by prisoners against discipline):
   (d) section 184 (which relates to the arrest of persons unlawfully at large).
 (7) The status of any person under this section as a person in the legal custody of the chief executive or the Commissioner of Police, as the case may be, is not affected by the person's presence in a courtroom (whether or not, for the purposes of any other enactment, the person is also in the custody of the court before, during, or after that period).
-(8) However, any security officer, other officer, or member of the police who is responsible for the control or supervision of the prisoner under this Act must—
+(8) However, any security officer, other officer, or Police employee who is responsible for the control or supervision of the prisoner under this Act must—
   (a) carry out, or facilitate the carrying out of, any directions given by the presiding Judge about the treatment or containment of the prisoner while the prisoner is on court premises; and
   (b) facilitate the exercise of powers by a courts security officer under section 26 of the Courts Security Act 1999 in relation to the prisoner.
 
