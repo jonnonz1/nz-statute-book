@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2008-10-01_
 
 > An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
 
@@ -71,7 +71,8 @@ _Consolidation as at 2008-02-29_
     (ii) A supply to another person of other goods in which the goods have been incorporated.
 
 ### 3 Application of Act to conduct outside New Zealand
-This Act extends to the engaging in conduct outside New Zealand by any person resident or carrying on business in New Zealand to the extent that such conduct relates to the supply of goods or services, or the granting of interests in land, within New Zealand.
+(1) This Act extends to the engaging in conduct outside New Zealand by any person resident or carrying on business in New Zealand to the extent that such conduct relates to the supply of goods or services, or the granting of interests in land, within New Zealand.
+(2) See section 51 for the application of this Act in relation to an international trade instrument.
 
 ### 4 Application of Act to the Crown
 (1) Subject to this section, this Act shall bind the Crown in so far as the Crown engages in trade.
@@ -610,6 +611,13 @@ Every person who resists, obstructs, or delays any authorised person acting purs
 ### 50 Saving of other laws
 (1) Nothing in this Act limits or affects the operation of any other Act.
 (2) Nothing in this Act limits or affects any liability that any person may incur under any rule of law or enactment other than this Act.
+
+### 51 Application of Act to goods that are, or may be, exported to China
+(1) This Act applies to conduct or representations relating to goods that are, or may be, exported from New Zealand pursuant to the Conformity Cooperation Agreement in the same way as this Act applies to goods supplied within New Zealand as follows:
+  (a) section 10 applies to conduct relating to goods that are, or may be, exported from New Zealand for supply to China:
+  (b) section 13 applies to representations relating to goods that are, or may be, exported from New Zealand for supply to China:
+  (c) a contravention of section 10 or 13 is an offence under section 40 and may authorise a warrant being issued in New Zealand under section 47(2) to search a place in New Zealand if the contravention relates to goods that are, or may be, exported from New Zealand for supply to China.
+(2) In this section, Conformity Cooperation Agreement means the Agreement between the Government of New Zealand and the Government of the People's Republic of China on Cooperation in the Field of Conformity Assessment in Relation to Electrical and Electronic Equipment and Components, which is Annex 14 of the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
 
 ## Schedule 1
 
