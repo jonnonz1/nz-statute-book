@@ -1,5 +1,5 @@
 # Summary Offences Act 1981
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2008-10-01_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
@@ -10,9 +10,10 @@ _Consolidation as at 2008-09-25_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other person to believe on reasonable grounds that he has, present ability to effect his purpose; and has a corresponding meaning
+  - **authorised officer** has the meaning given in section 4 of the Policing Act 2008
   - **claim of right** has the same meaning as it has in section 2(1) of the Crimes Act 1961
   - **Colour of right**
-  - **Constable** includes any member of the Police
+  - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **Crime** means an offence for which the offender may be proceeded against by indictment
   - **crime involving dishonesty** means any crime described in Part 10 of the Crimes Act 1961, except the crimes described in sections 267 to 272.
   - **Crime involving violence** means an offence against any of the provisions listed in Schedule 3
@@ -20,6 +21,8 @@ _Consolidation as at 2008-09-25_
   - **Is liable** means is liable on summary conviction
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **Newspaper** means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
+  - **Police dog** has the meaning given in section 4 of the Policing Act 2008
+  - **Police dog handler** has the meaning given in section 4 of the Policing Act 2008
   - **Prison officer** means an officer within the meaning of section 3(1) of the Corrections Act 2004; and includes a security officer within the meaning of that section
   - **Public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
   - **Serious drug offence** means an offence against any of the provisions listed in Schedule 4
@@ -298,12 +301,13 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 
 ### 23 Resisting Police, prison, or traffic officer
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who resists or intentionally obstructs, or incites or encourages any other person to resist or obstruct,—
-  (a) Any constable, or any prison officer, or any traffic officer, acting in the execution of his duty; or
-  (b) Any other person acting in aid of any such constable, prison officer, or traffic officer.
+  (a) Any constable or any authorised officer,, or any prison officer, or any traffic officer, acting in the execution of his duty; or
+  (b) Any other person acting in aid of any such constable authorised officer,, prison officer, or traffic officer.
+  (c) any Police dog working under the control of a Police dog handler.
 
 ### 24 False allegation or report to Police
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who,—
-  (a) Contrary to the fact and without a belief in the truth of the statement, makes or causes to be made to any constable any written or verbal statement alleging that an offence has been committed; or
+  (a) Contrary to the fact and without a belief in the truth of the statement, makes or causes to be made to any Police employee any written or verbal statement alleging that an offence has been committed; or
   (b) With the intention of causing wasteful deployment, or of diverting deployment, of Police personnel or resources, or being reckless as to that result,—
     (i) Makes a statement to any person that gives rise to serious apprehension for his own safety or the safety of any person or property, knowing that the statement is false; or
     (ii) Behaves in a manner that is likely to give rise to such apprehension, knowing that such apprehension would be groundless.
