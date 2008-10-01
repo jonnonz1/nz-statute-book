@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2008-08-08_
+_Consolidation as at 2008-10-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1226,9 +1226,9 @@ An information holder who is required to disclose information in relation to a p
 (3) An employee must notify their employer that their tax code is 1 of the following:
   (a) ‘M’ for primary employment earnings when the employee is not entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
   (b) ‘ML’ for primary employment earnings when the employee is entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
-  (c) ‘S’ for secondary employment earnings for an employee whose annual income is not more than $38,000:
-  (d) ‘SH’ for secondary employment earnings for an employee whose annual income is more than $38,000 but is not more than $60,000:
-  (e) ‘ST’ for secondary employment earnings for an employee whose annual income is more than $60,000:
+  (c) S for secondary employment earnings for an employee whose annual income is not more than $40,000:
+  (d) SH for secondary employment earnings for an employee whose annual income is more than $40,000 but is not more than $70,000:
+  (e) ST for secondary employment earnings for an employee whose annual income is more than $70,000:
   (f) ‘CAE’ for salary or wages for employment as a casual agricultural employee:
   (g) ‘EDW’ for salary or wages for employment as an election day worker:
   (h) ‘no notification’ when the employee has not provided their employer with a tax code notification or a tax code certificate.
@@ -3436,7 +3436,7 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
 (4) The information specified in subsection (3) must be provided to the best of the knowledge and belief of the person who provides the information if the person does not have certain knowledge of the relevant matters.
 (5) In this section and in section 85L, unless the context otherwise requires,—
   - **authorised officer of the Ministry** means an officer of the Ministry who is authorised by the chief executive of the Ministry to provide information under this section
-  - **authorised officer of the police** means a member of the New Zealand Police who is authorised by the Commissioner of Police to provide information under this section
+  - **authorised officer of the police** means a Police employee who is authorised by the Commissioner of Police to provide information under this section
   - **Ministry** means the Ministry of Justice
   - **sex offence** means an offence under any of sections 127 to 144C of the Crimes Act 1961
   - **victim** means the person against whom an offence is committed by another person.
