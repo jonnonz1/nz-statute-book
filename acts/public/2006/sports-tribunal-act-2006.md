@@ -1,5 +1,5 @@
 # Sports Anti-Doping Act 2006
-_Consolidation as at 2008-07-30_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Sports Anti-Doping Act 2006.
@@ -186,7 +186,7 @@ In the performance of its functions and the exercise of its powers, Drug Free Sp
   (c) protect athletes’ right to privacy.
 
 ### 28 Sharing of evidence and information by Customs, police, and others
-A member of the police, a Customs officer, or any other person may provide evidence or information to Drug Free Sport NZ if that person believes that that evidence or information may assist Drug Free Sport NZ in complying with or implementing the rules.
+A Police employee, a Customs officer, or any other person may provide evidence or information to Drug Free Sport NZ if that person believes that that evidence or information may assist Drug Free Sport NZ in complying with or implementing the rules.
 
 ## Part 3 — Sports Tribunal of New Zealand
 
