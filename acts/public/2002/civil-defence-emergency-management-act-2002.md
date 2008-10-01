@@ -1,5 +1,5 @@
 # Civil Defence Emergency Management Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Civil Defence Emergency Management Act 2002.
@@ -36,7 +36,7 @@ In this Act, unless the context otherwise requires,—
   - **civil defence emergency management group plan** means a plan prepared and approved under section 48
   - **civil defence emergency management plan** means a national civil defence emergency management plan or a civil defence emergency management group plan
   - **Controller** means the person who is the National Controller in accordance with section 10, or a Group Controller appointed under section 26
-  - **department** means a department of the public service listed in the First Schedule of the State Sector Act 1988
+  - **department** means a department of the public service listed in Schedule 1 of the State Sector Act 1988
   - **Director** means the Director of Civil Defence Emergency Management appointed under section 8
   - **district** means the district of a local authority; and includes a region
   - **emergency** means a situation that—
@@ -161,7 +161,7 @@ All persons exercising functions in relation to the development and implementati
   (a) every regional council and every territorial authority within that region must unite to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002:
   (b) subject to paragraph (c), a unitary authority must establish a Civil Defence Emergency Management Group for the purposes of this Act for the district of that unitary authority alone:
   (c) instead of establishing a Civil Defence Emergency Management Group in accordance with paragraph (b), a unitary authority may unite with a unitary authority or unitary authorities that border it, or a regional council that borders it, or all or any of them, to establish a Civil Defence Emergency Management Group for the purposes of this Act as a joint standing committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
-(2) clause 30(5) of Schedule 7 of the Local Government Act 2002 must not be read as permitting, during a term of local government or as a consequence of a local government election, the discharge or reconstitution of a Civil Defence Emergency Management Group established for the purposes of this Act.
+(2) Clause 30(5) of Schedule 7 of the Local Government Act 2002 must not be read as permitting, during a term of local government or as a consequence of a local government election, the discharge or reconstitution of a Civil Defence Emergency Management Group established for the purposes of this Act.
 (3) Nothing in this section requires the Minister of Local Government to be a member of a Civil Defence Emergency Management Group.
 
 ### 13 Membership of Civil Defence Emergency Management Groups
@@ -172,13 +172,13 @@ All persons exercising functions in relation to the development and implementati
 
 ### 14 Membership rules for territorial authorities
 (1) A territorial authority whose district is completely within the area of a regional council must be a member of the Civil Defence Emergency Management Group of which the regional council is a member.
-(2) Each territorial authority whose district is in the area of 2 or more regional councils must, after consulting with the relevant regional councils, join any 1, but only 1, of the Groups of which the relevant regional councils are members.
+(2) Each territorial authority whose district is in the area of 2 or more regional councils must, after consulting with the relevant regional councils, join any one, but only 1, of the Groups of which the relevant regional councils are members.
 (3) A territorial authority's decision to join a particular Group under subsection (2) is irrevocable, and must be made within 2 months of the establishment of the particular Group.
-(4) If a territorial authority's decision under subsection (2) is not made before the expiry of the time limit in subsection (3), the Minister must direct the territorial authority to join 1 of the relevant Groups.
+(4) If a territorial authority's decision under subsection (2) is not made before the expiry of the time limit in subsection (3), the Minister must direct the territorial authority to join one of the relevant Groups.
 (5) A territorial authority that is subject to a ministerial direction under subsection (4) must comply with that direction.
 
 ### 15 Appointment of chairperson
-(1) Each Civil Defence Emergency Management Group may appoint 1 of the representatives of its members to act as chairperson.
+(1) Each Civil Defence Emergency Management Group may appoint one of the representatives of its members to act as chairperson.
 (2) The appointed chairperson may hold office for the period agreed by the Group at the time of the appointment.
 (3) Despite subsection (2), the term of office of an appointed chairperson ends if that person ceases to be a representative of a member of the Group.
 
@@ -239,7 +239,7 @@ Each member of a Civil Defence Emergency Management Group—
 ### 20 Appointment and functions of Civil Defence Emergency Management Co-ordinating Executive Groups
 (1) A Civil Defence Emergency Management Group must establish and maintain a Civil Defence Emergency Management Co-ordinating Executive Group consisting of—
   (a) the chief executive officer of each member local authority or a person acting on the chief executive officer's behalf; and
-  (b) a senior member of the police who is assigned for the purpose by the Commissioner of Police; and
+  (b) a senior Police employee who is assigned for the purpose by the Commissioner of Police; and
   (c) a senior member of the Fire Service who is assigned for the purpose by the National Commander; and
   (d) the chief executive officer of the hospital and health services operating in the area or a person acting on the chief executive officer's behalf; and
   (e) any other persons that may be co-opted by the Civil Defence Emergency Management Group.
@@ -263,18 +263,18 @@ Each member of a Civil Defence Emergency Management Group—
 (2) If this section applies, then—
   (a) each affected regional council or unitary authority must establish or re-establish, as the case may be, a Civil Defence Emergency Management Group in accordance with this Act within 6 months of the effective date of its reorganisation:
   (b) each territorial authority whose district is completely within the affected regional council or unitary authority must be a member of the Group of which that regional council or unitary authority is a member:
-  (c) each territorial authority whose district is in the district of 2 or more affected regional councils or unitary authorities must, after consulting with the relevant regional councils or unitary authorities, join any 1, but only 1, of the Groups of which the relevant regional councils or unitary authorities are members:
-  (d) each territorial authority whose district is extended into the district of another regional council or unitary authority must, after consulting with the relevant regional councils or unitary authorities, join any 1, but only 1, of the Groups of which the relevant regional councils or unitary authorities are members.
+  (c) each territorial authority whose district is in the district of 2 or more affected regional councils or unitary authorities must, after consulting with the relevant regional councils or unitary authorities, join any one, but only 1, of the Groups of which the relevant regional councils or unitary authorities are members:
+  (d) each territorial authority whose district is extended into the district of another regional council or unitary authority must, after consulting with the relevant regional councils or unitary authorities, join any one, but only 1, of the Groups of which the relevant regional councils or unitary authorities are members.
 (3) A territorial authority's decision to join a particular Group under subsection (2)(c) or (d) is irrevocable, and must be made within 2 months of the establishment of the Group.
-(4) If a territorial authority's decision under subsection (2)(c) or (d) is not made before the expiry of the time limit in subsection (3), the Minister must direct the territorial authority to join 1 of the relevant Groups.
+(4) If a territorial authority's decision under subsection (2)(c) or (d) is not made before the expiry of the time limit in subsection (3), the Minister must direct the territorial authority to join one of the relevant Groups.
 (5) A territorial authority that is subject to a ministerial direction under subsection (4) must comply with that direction.
 
 ### 23 Establishment of administering authorities
 (1) The administering authority for each Civil Defence Emergency Management Group is a regional council or unitary authority that is a member of the Group.
 (2) If a unitary authority joins a Group that has a regional council as a member, the regional council must be the administering authority for that Group.
-(3) If a Group has 2 or more unitary authorities as members, the respective unitary authorities must reach an agreement within 2 months of the date on which the Group is established appointing 1 of the unitary authorities as the administering authority for that Group.
+(3) If a Group has 2 or more unitary authorities as members, the respective unitary authorities must reach an agreement within 2 months of the date on which the Group is established appointing one of the unitary authorities as the administering authority for that Group.
 (4) If the unitary authorities fail to reach an agreement, the Minister must—
-  (a) appoint 1 of the unitary authorities as the administering authority; or
+  (a) appoint one of the unitary authorities as the administering authority; or
   (b) direct 1, some, or all of the unitary authorities to establish their own Groups.
 (5) A unitary authority that is subject to a ministerial direction under subsection (4)(b) must comply with that direction.
 (6) If a Group has 2 or more unitary authorities as members, the unitary authorities may change the administering authority for their Group only if the Minister approves, in writing, an application from the respective unitary authorities to change the administering authority for their Group.
@@ -294,7 +294,7 @@ Each member of a Civil Defence Emergency Management Group—
   (a) whether the appointee has equal status to make a declaration or whether the appointee is authorised only to act in the absence of other named persons:
   (b) any other conditions or limitations.
 (4) If no appointed person is or is likely to be able to exercise his or her functions, duties, and powers under this Act, a representative of any member of the Group may exercise the power to declare a state of local emergency.
-(5) Despite subsections (1) to (4), the Mayor of a territorial authority, or an elected member of the territorial authority designated to act on behalf of the Mayor if the Mayor is absent, may declare a state of local emergency that covers the district of that territorial authority.
+(5) Despite subsections (1) to (4), the mayor of a territorial authority, or an elected member of the territorial authority designated to act on behalf of the mayor if the mayor is absent, may declare a state of local emergency that covers the district of that territorial authority.
 
 **Group Controllers**
 
@@ -349,7 +349,7 @@ Each member of a Civil Defence Emergency Management Group—
 ### 32 Procedure for completing national civil defence emergency management strategy
 (1) Before completing the national civil defence emergency management strategy, the Minister must—
   (a) publicly notify the proposed strategy by—
-    (i) publishing a notice in the Gazette ; and
+    (i) publishing a notice in the Gazette; and
     (ii) publishing a notice in 1 or more daily newspapers circulating in the major metropolitan areas; and
     (iii) giving any other notification that the Minister considers appropriate having regard to the persons likely to have an interest in the proposal; and
   (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
@@ -413,7 +413,7 @@ All persons exercising functions in relation to the development of civil defence
 ### 41 Notification of proposed national civil defence emergency management plan
 (1) The Minister must not recommend to the Governor-General the making of a national civil defence emergency management plan unless the Minister—
   (a) has publicly notified the proposed plan by—
-    (i) publishing a notice in the Gazette ; and
+    (i) publishing a notice in the Gazette; and
     (ii) publishing a notice in 1 or more daily newspapers circulating in the major metropolitan areas; and
     (iii) giving any other notification that the Minister considers appropriate, having regard to the persons likely to have an interest in the proposal; and
   (b) has presented the proposed plan to the House of Representatives at least 90 days before making the recommendation.
@@ -440,7 +440,7 @@ The Minister must, no later than 3 years after the date of the commencement of t
 
 ### 45 Currency of national civil defence emergency management plan
 A national civil defence emergency management plan—
-  (a) takes effect on the date specified in the Order in Council making the plan under section 39, which date must be no earlier than the 28th day after the date of the notification of the order in the Gazette ; and
+  (a) takes effect on the date specified in the Order in Council making the plan under section 39, which date must be no earlier than the 28th day after the date of the notification of the order in the Gazette; and
   (b) remains operative for the period specified in the Order in Council, but if the plan is not replaced before the close of that period it continues in force until replaced.
 
 **Review and amendment of national civil defence emergency management plan**
@@ -574,9 +574,9 @@ Emergency services must—
 
 ### 65 Duties to consider alternatives, assess benefits and costs, etc
 (1) In achieving the purpose of this Act, before proposing, recommending, or adopting any provisions or regulations in relation to any function described in subsection (2), any person described in that subsection must—
-  (a) have regard to—regulations that, under this Act or any other enactment, may be used in achieving the purpose of this Act, including the provision of information, services, or incentives; and
+  (a) have regard to—
     (i) the extent, if any, to which the provisions or regulations are necessary to achieve the purpose of this Act; and
-    (ii) other means in addition to or in place of the provisions or
+    (ii) other means in addition to or in place of the provisions or regulations that, under this Act or any other enactment, may be used in achieving the purpose of this Act, including the provision of information, services, or incentives; and
     (iii) the reasons for and against proposing, recommending, or adopting the proposed provisions or regulations and the principal alternative means available, or of taking no action if this Act does not require otherwise; and
   (b) carry out an evaluation, which the Minister or the Civil Defence Emergency Management Group is satisfied is appropriate to the circumstances, of the likely benefits and costs of the principal alternative means; and
   (c) be satisfied that the provisions or regulations (or any combination of them)—
@@ -665,7 +665,7 @@ Emergency services must—
 (3) Subject to subsections (4) to (6), if work is done or a function or duty is exercised or performed by or on behalf of the Director under this section, it must be treated for all purposes as having been done, exercised, or performed, as the case may be, by the Civil Defence Emergency Management Group or person responsible for performing the function or duty.
 (4) All expenses incurred by the Director under this section must be paid in the first instance out of public money.
 (5) Public money so paid, together with reasonable costs for administration, is recoverable as a debt due to the Crown from the Civil Defence Emergency Management Group or person responsible for performing the function or duty, or may be deducted from any money payable by the Crown to that debtor.
-(6) All money recovered from a debtor under this section, or deducted under subsection (5), must be paid into the Crown Bank Account or a departmental bank account.
+(6) All money recovered from a debtor under this section, or deducted under subsection (5), must be paid into a Crown Bank Account or a departmental bank account.
 (7) Nothing in this section limits the powers of the Minister under section 29.
 
 ### 76 Power to require information
@@ -681,12 +681,12 @@ Emergency services must—
 ### 77 Appeal against requirement to give information
 (1) A person who is required to give information under section 76 may appeal to a District Court on the grounds that the requirement is unreasonable.
 (2) The appeal must be brought within 10 working days after the date on which the requirement to give information was imposed, or within any further time that a District Court may allow.
-(3) The Court must inquire into the circumstances of the requirement and may vary, rescind, or confirm it.
+(3) The court must inquire into the circumstances of the requirement and may vary, rescind, or confirm it.
 (4) An appeal against a requirement to give information operates as a stay of the requirement.
 
 ### 78 Power of entry to obtain information in urgent cases
 (1) This section applies if a state of emergency is in force or the Director, a Controller, or a person authorised by a Civil Defence Emergency Management Group considers that an imminent threat of an emergency exists.
-(2) If this section applies, a District Court Judge may, by warrant, authorise any member of the police to enter and search any premises, not being a dwellinghouse, to obtain information if satisfied on oath by the Director, a Controller, or a person authorised by a Civil Defence Emergency Management Group that—
+(2) If this section applies, a District Court Judge may, by warrant, authorise any constable to enter and search any premises, not being a dwellinghouse, to obtain information if satisfied on oath by the Director, a Controller, or a person authorised by a Civil Defence Emergency Management Group that—
   (a) the information is urgently required in order to prevent or limit the extent of the emergency; and
   (b) the person in possession of the information has refused to provide the information.
 (3) A warrant may be issued under this section—
@@ -697,24 +697,24 @@ Emergency services must—
 A warrant issued under section 78 must—
   (a) be in the prescribed form; and
   (b) state the period, not exceeding 10 days, for which it is valid; and
-  (c) be directed to any member of the police by name, or to any class of members of the police stated in the warrant, or generally to every member of the police; and
+  (c) be directed to any constable by name, or to any class of constables stated in the warrant, or generally to every constable; and
   (d) be subject to any special conditions that the District Court Judge may state in the warrant.
 
 ### 80 Powers conferred by warrant
-(1) Subject to any special conditions stated in the warrant under section 79, every warrant issued under section 78 authorises the member of the police executing the warrant—
+(1) Subject to any special conditions stated in the warrant under section 79, every warrant issued under section 78 authorises the constable executing the warrant—
   (a) to enter and search the premises stated in the warrant at any time by day or night during the currency of the warrant; and
   (b) to use any assistants that may be reasonable in the circumstances for the purpose of the entry and search; and
   (c) to use any force that is reasonable in the circumstances for the purposes of effecting entry, and for breaking open anything in or on the place searched; and
   (d) to search for and seize the information referred to in section 78, and for that purpose,—
     (i) to take copies of any document, or extracts from any document; and
     (ii) to require any person who has a document in his or her possession or under his or her control to reproduce, or to assist the person executing the warrant to reproduce, in usable form, any information recorded or stored in the document.
-(2) Every person called on to assist any member of the police executing a warrant issued under section 78 has the powers described in paragraphs (c) and (d) of subsection (1).
+(2) Every person called on to assist any constable executing a warrant issued under section 78 has the powers described in paragraphs (c) and (d) of subsection (1).
 
 ### 81 Disposal of information
-(1) If a member of the police seizes any information or document under section 80, the member of the police must—
+(1) If a constable seizes any information or document under section 80, the constable must—
   (a) give it to the Director, a Controller, or a person authorised by a Civil Defence Emergency Management Group; or
   (b) if it is no longer required for the purpose for which it was seized, return it to the person from whom it was seized.
-(2) Any person to whom a member of the police gives any information or document under subsection (1)(a) must return it to the person from whom it was seized when the information is no longer required for the purpose for which it was seized.
+(2) Any person to whom a constable gives any information or document under subsection (1)(a) must return it to the person from whom it was seized when the information is no longer required for the purpose for which it was seized.
 
 ### 82 Certain information not to be disclosed or seized
 (1) No requirement to give information that is imposed under section 76 requires any person to give—
@@ -753,40 +753,40 @@ A warrant issued under section 78 must—
 (2) A Civil Defence Emergency Management Group must not act inconsistently with any directions given by the Minister or the Director.
 
 ### 86 Evacuation of premises and places
-If a state of emergency is in force and, in the opinion of a Controller or any member of the police, the action authorised by this section is necessary for the preservation of human life, that person or a person authorised by him or her may require, within the area or district in which the emergency is in force,—
+If a state of emergency is in force and, in the opinion of a Controller or any constable, the action authorised by this section is necessary for the preservation of human life, that person or a person authorised by him or her may require, within the area or district in which the emergency is in force,—
   (a) the evacuation of any premises or place, including any public place; or
   (b) the exclusion of persons or vehicles from any premises or place, including any public place.
 
 ### 87 Entry on premises
-If a state of emergency is in force in any area, a Controller or a member of the police, or any person acting under the authority of a Controller or member of the police, may enter on, and if necessary break into, any premises or place within the area or district in respect of which the state of emergency is in force if he or she believes on reasonable grounds that the action is necessary for—
+If a state of emergency is in force in any area, a Controller or a constable, or any person acting under the authority of a Controller or constable, may enter on, and if necessary break into, any premises or place within the area or district in respect of which the state of emergency is in force if he or she believes on reasonable grounds that the action is necessary for—
   (a) saving life, preventing injury, or rescuing and removing injured or endangered persons; or
   (b) permitting or facilitating the carrying out of any urgent measure for the relief of suffering or distress.
 
 ### 88 Closing roads and public places
-If a state of emergency is in force, a Controller or a member of the police, or any person acting under the authority of a Controller or member of the police, or any person so authorised in a relevant civil defence emergency management plan, may, in order to prevent or limit the extent of the emergency, totally or partially prohibit or restrict public access, with or without vehicles, to any road or public place within the area or district in respect of which the state of emergency is in force.
+If a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, or any person so authorised in a relevant civil defence emergency management plan, may, in order to prevent or limit the extent of the emergency, totally or partially prohibit or restrict public access, with or without vehicles, to any road or public place within the area or district in respect of which the state of emergency is in force.
 
 ### 89 Removal of aircraft, vessels, vehicles, etc
-If a state of emergency is in force, a Controller or a member of the police, or any other person acting under the authority of a Controller or member of the police, may, in order to prevent or limit the extent of the emergency,—
+If a state of emergency is in force, a Controller or a constable, or any other person acting under the authority of a Controller or constable, may, in order to prevent or limit the extent of the emergency,—
   (a) remove from any place within the area or district in respect of which the state of emergency is in force, any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle impeding civil defence emergency management; and
   (b) if reasonably necessary for that purpose, use force or break into the aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle.
 
 ### 90 Requisitioning powers
-(1) This section applies if a state of emergency is in force and, in the opinion of a Controller or a member of the police, the action authorised by this section is necessary for the preservation of human life.
-(2) The Controller or member of the police, or a person authorised by him or her, may direct the owner or person for the time being in control of any land, building, vehicle, animal, boat, apparatus, implement, earth-moving equipment, construction materials or equipment, furniture, bedding, food, medicines, medical supplies, or any other equipment, materials, or supplies, to immediately place that property (requisitioned property)—
+(1) This section applies if a state of emergency is in force and, in the opinion of a Controller or a constable, the action authorised by this section is necessary for the preservation of human life.
+(2) The Controller or constable, or a person authorised by him or her, may direct the owner or person for the time being in control of any land, building, vehicle, animal, boat, apparatus, implement, earth-moving equipment, construction materials or equipment, furniture, bedding, food, medicines, medical supplies, or any other equipment, materials, or supplies, to immediately place that property (requisitioned property)—
   (a) under his or her control and direction; or
-  (b) under the control and direction of a Controller or a member of the police, or person authorised by that Controller or member of the police, if that person has requested the person making the requisition to do so on his or her behalf.
+  (b) under the control and direction of a Controller or a constable, or person authorised by that Controller or constable, if that person has requested the person making the requisition to do so on his or her behalf.
 (3) A person exercising any power conferred on him or her by this section must give to the owner or person in charge of the requisitioned property a written statement specifying the property that is requisitioned and the person under whose control the property is to be placed.
-(4) If the owner or person for the time being in control of any property that may be requisitioned under this section cannot be immediately found, a Controller or a member of the police, or a person authorised by a Controller or member of the police, may assume immediately the control and direction of the requisitioned property.
+(4) If the owner or person for the time being in control of any property that may be requisitioned under this section cannot be immediately found, a Controller or a constable, or a person authorised by a Controller or constable, may assume immediately the control and direction of the requisitioned property.
 (5) If a person assumes the control and direction of requisitioned property under subsection (4), that person must ensure that, as soon as is reasonably practicable in the circumstances, a written statement specifying the property that has been requisitioned and the person under whose control it has been placed is given to the owner or person formerly in charge of the requisitioned property.
 (6) The owner or person in control of any property immediately before it is requisitioned under this section must provide the person exercising the power under this section with any assistance that the person may reasonably require for the effective and safe use of that property.
 
 ### 91 Power to give directions
-While a state of emergency is in force, a Controller or a member of the police, or any person acting under the authority of a Controller or member of the police, may—
+While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may—
   (a) direct any person to stop any activity that may cause or substantially contribute to an emergency:
   (b) request any person, either verbally or in writing, to take any action to prevent or limit the extent of the emergency.
 
 ### 92 Power to carry out inspections, etc
-While a state of emergency is in force, a Controller or a member of the police, or any person acting under the authority of a Controller or member of the police, may examine, mark, seize, sample, secure, disinfect, or destroy any property, animal, or any other thing in order to prevent or limit the extent of the emergency.
+While a state of emergency is in force, a Controller or a constable, or any person acting under the authority of a Controller or constable, may examine, mark, seize, sample, secure, disinfect, or destroy any property, animal, or any other thing in order to prevent or limit the extent of the emergency.
 
 ### 93 Person exercising emergency powers to provide proof of identity
 A person exercising a power conferred on him or her by this Part must—
@@ -820,7 +820,7 @@ A person commits an offence who, during a state of emergency, threatens, assault
 
 ### 99 Failure to comply with direction to evacuate premises or place
 (1) A person commits an offence who intentionally fails to comply with any direction given to the person under section 86.
-(2) It is a defence to any proceedings for an offence against this section if the Court is satisfied that the Controller or member of the police did not have reasonable grounds for believing that in all the circumstances of the case the requirement was necessary for the preservation of human life.
+(2) It is a defence to any proceedings for an offence against this section if the court is satisfied that the Controller or constable did not have reasonable grounds for believing that in all the circumstances of the case the requirement was necessary for the preservation of human life.
 
 ### 100 Failure to comply with prohibition or restriction on access to road or public place
 A person commits an offence who intentionally fails to comply with any prohibition or restriction imposed under section 88.
@@ -829,8 +829,8 @@ A person commits an offence who intentionally fails to comply with any prohibiti
 (1) A person commits an offence who—
   (a) intentionally fails to comply with any direction given to him or her under section 90(2); or
   (b) intentionally fails to provide assistance under section 90(6).
-(2) It is a defence in any proceedings for an offence against subsection (1)(a) if the Court is satisfied that the Controller or the member of the police did not have reasonable grounds for believing that in all the circumstances of the case the direction requisitioning property was necessary for the preservation of human life.
-(3) It is a defence in any proceedings for an offence against subsection (1)(b) if the Court is satisfied that the person had reasonable grounds for not providing assistance.
+(2) It is a defence in any proceedings for an offence against subsection (1)(a) if the court is satisfied that the Controller or the constable did not have reasonable grounds for believing that in all the circumstances of the case the direction requisitioning property was necessary for the preservation of human life.
+(3) It is a defence in any proceedings for an offence against subsection (1)(b) if the court is satisfied that the person had reasonable grounds for not providing assistance.
 
 ### 102 Failure to comply with direction
 A person commits an offence who intentionally fails to comply with a direction given under section 91(a).
@@ -862,7 +862,7 @@ A person who commits an offence against this Act is liable on summary conviction
 (5) Except as provided in subsection (4), this section does not limit or affect the application of the State Sector Act 1988.
 
 ### 107 Compensation if property requisitioned
-(1) Subsection (2) applies if any requisitioned property has come under the control of the National Controller, any member of the police, or a person authorised by the National Controller or member of the police, while acting under section 90 in a state of emergency.
+(1) Subsection (2) applies if any requisitioned property has come under the control of the National Controller, any constable, or a person authorised by the National Controller or constable, while acting under section 90 in a state of emergency.
 (2) There is payable, on application by any person having an interest in the requisitioned property, out of money appropriated by Parliament, reasonable compensation for—
   (a) the use of that requisitioned property while under that control; and
   (b) any loss of or damage or injury to that requisitioned property suffered or incurred while under that control.
@@ -893,7 +893,7 @@ A person who commits an offence against this Act is liable on summary conviction
 
 ### 109 Compensation for other matters
 (1) This section does not apply if section 107 or section 108 applies.
-(2) A person who has suffered loss or damage, as a result of any action or measure duly taken under instructions issued under any of sections 86 to 92 by the National Controller or a member of the police, or a person authorised by the National Controller or member of the police, may recover compensation from the Crown if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
+(2) A person who has suffered loss or damage, as a result of any action or measure duly taken under instructions issued under any of sections 86 to 92 by the National Controller or a constable, or a person authorised by the National Controller or constable, may recover compensation from the Crown if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
 (3) A person who has suffered loss or damage, as a result of any action or measure duly taken under instructions issued under any of sections 86 to 92 by a Group Controller, or a person authorised by him or her, may recover compensation from the Civil Defence Emergency Management Group that appointed the Group Controller if the action or measure was such that the good done, or likely to be done, by the action or measure for that person was disproportionately less than the loss or damage suffered by that person as a result of that action or that measure.
 (4) In determining the amount of compensation payable under this section for any loss or damage, any amount that the person has, or is likely to, recover under a contract of insurance or by any other means must be taken into account.
 (5) If a claim is brought against the Crown or a Civil Defence Emergency Management Group for compensation under this section, a court, in determining whether subsection (2) or subsection (3) applies, must take into account—
@@ -907,8 +907,8 @@ A person who commits an offence against this Act is liable on summary conviction
   (a) in relation to insured property,—
     (i) by any contract of insurance that covers the property regardless of how it describes loss or damage; and
     (ii) with respect to any loss or damage exceeding the cover of that contract of insurance,—
-    (A) by the local authorities that are members of the Civil Defence Emergency Management Group or Groups if the action or measure that caused the damage was undertaken by or on behalf of the Group or Groups; or
-    (B) by the Crown if the action or measure that caused the damage was undertaken by or on behalf of the Crown; and
+      (A) by the local authorities that are members of the Civil Defence Emergency Management Group or Groups if the action or measure that caused the damage was undertaken by or on behalf of the Group or Groups; or
+      (B) by the Crown if the action or measure that caused the damage was undertaken by or on behalf of the Crown; and
   (b) in the case of uninsured property,—
     (i) by the local authorities that are members of the relevant Civil Defence Emergency Management Group or Groups if the action or measure that caused the damage was undertaken by or on behalf of the Group or Groups; or
     (ii) by the Crown if the action or measure that caused the damage was undertaken by or on behalf of the Crown.
@@ -944,7 +944,7 @@ Subject to any agreement entered into between them, if a Civil Defence Emergency
   (c) by sending it by pre-paid post addressed to the person at the usual or last known place of residence or business of that person.
 (2) If a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body, or on the registered office of the body, in accordance with subsection (1) must be treated as service on the body.
 (3) If a notice or other document is to be served on a Civil Defence Emergency Management Group for the purposes of this Act, service on the chairperson of the Group or the administering authority of the Group must be treated as service on the Group.
-(4) If a notice or other document is to be served on a partnership for the purposes of this Act, service on any 1 of the partners in accordance with subsection (1) must be treated as service on the partnership.
+(4) If a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsection (1) must be treated as service on the partnership.
 (5) If a notice or other document is sent by post to a person in accordance with subsection (1)(c), it must be treated, in the absence of proof to the contrary, as having been received by the person at the time at which the letter would have been delivered in the ordinary course of the post.
 
 ### 115 Regulations
@@ -1020,7 +1020,7 @@ The entity (being an airport authority as defined in section 2 of the Airport Au
 The port company (as defined in section 2(1) of the Port Companies Act 1988) that carries out port-related commercial activities at Auckland, Bluff, Port Chalmers, Gisborne, Lyttleton, Napier, Nelson, Picton, Port Taranaki, Tauranga, Timaru, Wellington, Westport, or Whangarei.
 
 ### 7
-The Grey District Council, acting as the Greymouth harbour authority and owner and operator of the Port of Greymouth under Parts IV and VI of the Local Government (West Coast Region) Reorganisation Order 1989, Part 39A of the Local Government Act 1974, and section 16 of the Local Government Amendment Act (No 2) 1999.
+The Grey District Council, acting as the Greymouth harbour authority and owner and operator of the Port of Greymouth under Parts 4 and 6 of the Local Government (West Coast Region) Reorganisation Order 1989, Part 39A of the Local Government Act 1974, and section 16 of the Local Government Amendment Act (No 2) 1999.
 
 ### 1
 An entity that produces, supplies, or distributes manufactured gas or natural gas (whether it is supplied or distributed through a network or in bottles of more than 20 kg of gas).
@@ -1038,7 +1038,7 @@ An entity that provides a waste water or sewerage network or that disposes of se
 An entity that provides a telecommunications network (within the meaning of the Telecommunications Act 1987).
 
 ### 6
-An entity that provides a road network (including state highways).
+An entity that provides a road network (including State highways).
 
 ### 7
 An entity that produces, processes, or distributes to retail outlets and bulk customers any petroleum products used as an energy source or an essential lubricant or additive for motors for machinery.
@@ -1047,20 +1047,3 @@ An entity that produces, processes, or distributes to retail outlets and bulk cu
 An entity that provides a rail network or service.
 
 ## Schedule 2 — Acts amended
-
-### 648 Pipes to be kept charged with water
-(1) Except in case of unusual drought, or of accident, or of shortage from any cause of the water supply, or during necessary repairs, connections, or inspections, or in a case of a state of emergency declared under the Civil Defence Emergency Management Act 2002, the council must at all times keep charged with water the pipes in which fire hydrants are fixed by the council under section 647.
-(2) Subject to the overall requirements of any Controller while a state of emergency exists under the Civil Defence Emergency Management Act 2002, the council must allow all persons to take and use water from any waterworks or water race for extinguishing fire without any payment for the same.
-
-### 22
-Where any area of land is included in the district of another territorial authority, the civil defence emergency management group plan under the Civil Defence Emergency Management Act 2002 for the district in which the land is included must be the only civil defence emergency management group plan under the Civil Defence Emergency Management Act 2002 to apply in that area.
-
-### 23
-Where a new district is constituted, every civil defence emergency management group plan under the Civil Defence Emergency Management Act 2002 that is in force in respect of any area included in that district must continue in force until a new plan is prepared and approved for the district under Part 3 of the Civil Defence Emergency Management Act 2002.
-
-### 330B Emergency works under Civil Defence Emergency Management Act 2002
-(1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared under the Civil Defence Emergency Management Act 2002, the provisions of sections 9, 12, 13, 14, and 15 of this Act do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
-(2) If an activity is undertaken to which subsection (1) applies, the person who authorised the activity must advise the appropriate consent authority, within 7 days, that the activity has been undertaken.
-(3) If such an activity, but for this section, would contravene any of sections 9, 12, 13, 14, and 15 of this Act and the adverse effects of the activity continue, the person who authorised the activity must apply in writing to the appropriate consent authority for any necessary resource consents required in respect of the activity, within 20 working days of the notification under subsection (2).
-(4) If the application is made within the time stated in subsection (3), the activity may continue until the application for a resource consent and any appeals have been finally determined.
-(5) A person does not commit an offence under section 338(1)(a) of this Act by acting in accordance with this section.
