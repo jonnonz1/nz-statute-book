@@ -1,5 +1,5 @@
 # Misuse of Drugs (Classification of BZP) Amendment Act 2008
-_Consolidation as at 2008-03-14_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Misuse of Drugs (Classification of BZP) Amendment Act 2008.
@@ -23,11 +23,7 @@ Clause 1 of Schedule 5 is amended by inserting the items set out in Schedule 2 o
 **Amnesty provision**
 
 ### 6 Amnesty in relation to use and possession for personal use of BZP
-(1) Despite section 4 of this Act and section 7 of the principal Act, it is not an offence for a person, in relation to any of the controlled drugs added by section 4 of this Act to Part 1 of Schedule 3 of the principal Act, to do either or both of the following before 1 October 2008:
-  (a) to possess for his or her own use an amount of that controlled drug that is less than the amount, level, or quantity at and over which that controlled drug is presumed to be for supply, as specified in Schedule 5 of the principal Act (as amended by section 5 of this Act):
-  (b) to use that controlled drug.
-(2) This section is subject to section 6 of the principal Act and to section 5 of this Act.
-(3) This section expires at the close of 30 September 2008.
+[Repealed]
 
 ## Part 2 — Amendment to Misuse of Drugs Amendment Act 2005
 
