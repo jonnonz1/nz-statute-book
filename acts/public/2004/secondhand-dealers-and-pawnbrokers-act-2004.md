@@ -1,5 +1,5 @@
 # Secondhand Dealers and Pawnbrokers Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
@@ -13,7 +13,7 @@ This Act is the Secondhand Dealers and Pawnbrokers Act 2004.
 ### 3 Purpose
 The purpose of this Act is—
   (a) to make it harder for criminals to dispose of stolen goods through secondhand dealers and pawnbrokers; and
-  (b) to make it easier for the police to recover stolen goods and solve property crimes; and
+  (b) to make it easier for the Police to recover stolen goods and solve property crimes; and
   (c) to repeal and replace the Secondhand Dealers Act 1963 and the Pawnbrokers Act 1908.
 
 ### 4 Interpretation
@@ -23,7 +23,7 @@ In this Act, unless the context otherwise requires,—
   - **buyback contract** means a contract under which a seller sells goods to a buyer on condition that the seller can repurchase the goods at some future date, but at a price greater than the buyer paid for them
   - **certificate** means a certificate of approval issued under section 28
   - **certified copy** means a copy, certified by the Licensing Authority, of a licence
-  - **contact address** means, in relation to a person, the person's postal address and also, if the person's residential address is different from the postal address, the person's residential address
+  - **contact address** means, in relation to a person, the person’s postal address and also, if the person’s residential address is different from the postal address, the person’s residential address
   - **dispose of** , in relation to goods, includes—
     (a) passing possession of the goods to another person, whether by sale or otherwise; and
     (b) combining or dismantling the goods in such a way that they can no longer be recognised as the original goods
@@ -51,11 +51,11 @@ In this Act, unless the context otherwise requires,—
   - **secondhand dealer** means a person—
     (a) who buys (for the purpose of trade), sells, exchanges, or otherwise deals in secondhand articles or scrap metal; and
     (b) who is not a pawnbroker or the employee of a secondhand dealer and pawnbroker
-  - **secondhand dealer and pawnbroker** means any 1 or more of the following
+  - **secondhand dealer and pawnbroker** means any 1 or more of the following:
     (a) a secondhand dealer:
     (b) a pawnbroker:
     (c) a person who, not being an employee of a secondhand dealer or a pawnbroker, acts as both a secondhand dealer and as a pawnbroker
-  - **specified offence** means an offence under any of the following
+  - **specified offence** means an offence under any of the following:
     (a) sections 217 to 265 of the Crimes Act 1961 (which relate to crimes against rights of property):
     (b) the Fair Trading Act 1986
   - **transaction** means the passing of possession of goods from a seller to a secondhand dealer, or from a seller or pledger to a pawnbroker
@@ -73,7 +73,7 @@ This Act binds the Crown.
 (2) If 2 or more people engage in business as secondhand dealers in partnership, each partner must hold a licence.
 (3) For the purposes of this Act, a person is presumed (in the absence of evidence to the contrary) to be engaged in business as a secondhand dealer if, in any 12-month period, the person—
   (a) buys secondhand articles or scrap metal, for the purpose of trade, on 6 or more different days; or
-  (b) sells, exchanges, or otherwise deals in secondhand articles or scrap metal (being articles or scrap metal acquired for the purpose of trade)
+  (b) sells, exchanges, or otherwise deals in secondhand articles or scrap metal (being articles or scrap metal acquired for the purpose of trade)—
     (i) on 6 or more different days; or
     (ii) so as to receive revenue of $2,000 or more from the sale, exchange, or dealing.
 (4) For the purposes of this Act, the following are not engaged in business as secondhand dealers when selling secondhand articles or scrap metal:
@@ -81,7 +81,7 @@ This Act binds the Crown.
   (b) a charitable or non-profit organisation that sells secondhand articles or scrap metal, but only if—
     (i) no article, and none of the scrap metal, sold is acquired by the organisation by purchase or for valuable consideration; and
     (ii) any proceeds of sale are used solely for the purposes of the organisation:
-  (c) an internet auction provider:
+  (c) an Internet auction provider:
   (d) an agent of the Crown:
   (e) any other prescribed person.
 (5) Acquiring secondhand articles as trade-ins when selling new goods does not of itself indicate that a person is engaged in business as a secondhand dealer.
@@ -101,14 +101,14 @@ This Act binds the Crown.
   (b) supported by a statutory declaration; and
   (c) accompanied by the prescribed fee.
 (3) An application by an individual must be accompanied by 2 photographs of the applicant, authenticated in the prescribed manner, and must include the following information:
-  (a) the applicant's full name, residential address, and date of birth:
+  (a) the applicant’s full name, residential address, and date of birth:
   (b) the name under which the applicant engages in business:
   (c) the street address of the principal place of business used by the applicant for business purposes (unless the applicant is or proposes to be an itinerant secondhand dealer) and the street address of every other place of business used by the applicant:
   (d) the postal address (if any) used by the applicant for business purposes:
   (e) if the individual is in partnership, the full name and date of birth of every partner in the partnership:
   (f) any other prescribed matters.
 (4) An application by a company must include the following information:
-  (a) the applicant's name:
+  (a) the applicant’s name:
   (b) the registered address of the company:
   (c) the street address of the principal place of business used by the applicant for business purposes (unless the applicant is or proposes to be an itinerant secondhand dealer) and the street address of every other place of business used by the applicant:
   (d) the full name and date of birth of every person involved in the management of the company:
@@ -126,13 +126,13 @@ This Act binds the Crown.
   (a) the company is not disqualified under subsection (3) from holding a licence; and
   (b) either—
     (i) every person concerned in the management of the company is eligible to hold a certificate in his or her own right (see section 28(1)); or
-    (ii) only one person is concerned in the management of the company and that person holds a certificate; and
+    (ii) only 1 person is concerned in the management of the company and that person holds a certificate; and
   (c) the application complies with the requirements of section 8(2).
-(2) If more than one person is concerned in the management of an applicant that is a company, every person involved in the management must be checked under sections 24 to 27 to ascertain whether the person is currently eligible to hold a certificate, whether or not the person holds a certificate.
+(2) If more than 1 person is concerned in the management of an applicant that is a company, every person involved in the management must be checked under sections 24 to 27 to ascertain whether the person is currently eligible to hold a certificate, whether or not the person holds a certificate.
 (3) A company is disqualified from holding a licence if it—
   (a) has been convicted within the past 5 years of a specified offence; or
   (b) has had a licence cancelled within the past 5 years.
-(4) For the purpose of checking whether or not a company is disqualified from holding a licence, the Licensing Authority may seek information about the company's criminal convictions.
+(4) For the purpose of checking whether or not a company is disqualified from holding a licence, the Licensing Authority may seek information about the company’s criminal convictions.
 
 ### 11 Refusal to issue licence
 If the Licensing Authority declines an application, he or she must immediately notify the applicant in writing, and give reasons for the refusal.
@@ -168,8 +168,8 @@ If the Licensing Authority declines an application, he or she must immediately n
     (i) if any person concerned in the management of the company is not eligible, or ceases to be eligible, to hold a certificate; or
     (ii) if the company is disqualified (under section 10(3)) from holding a licence; or
   (c) in either case, if the Licensing Authority is satisfied that the licence was issued by fraud or mistake.
-(2) The Licensing Authority must cancel a licence held by a company if the company is convicted of an offence (other than an offence punishable by no more than a fine not exceeding $2,000) under this Act, unless the Licensing Authority is satisfied that there are special reasons why the company's licence should not be cancelled.
-(3) The Licensing Authority may not cancel a company's licence under subsection (1)(b)(i) if—
+(2) The Licensing Authority must cancel a licence held by a company if the company is convicted of an offence (other than an offence punishable by no more than a fine not exceeding $2,000) under this Act, unless the Licensing Authority is satisfied that there are special reasons why the company’s licence should not be cancelled.
+(3) The Licensing Authority may not cancel a company’s licence under subsection (1)(b)(i) if—
   (a) the person concerned in the management of a company has joined the company since it obtained its licence; and
   (b) within 2 weeks of the person joining, the company has applied to the Licensing Authority to check that the person is eligible to be issued with a certificate; and
   (c) either—
@@ -179,7 +179,7 @@ If the Licensing Authority declines an application, he or she must immediately n
 (5) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to return a cancelled licence, and every certified copy of it, to the Licensing Authority immediately upon cancellation of the licence.
 
 ### 17 Updating licence information
-(1) If any of the details that were included on the licence application change (for example. new places of business are added or a person concerned in the management of the company leaves), the licence holder must immediately advise the Licensing Authority of the change.
+(1) If any of the details that were included on the licence application change (for example, new places of business are added or a person concerned in the management of the company leaves), the licence holder must immediately advise the Licensing Authority of the change.
 (2) On receiving advice under subsection (1), the Licensing Authority must, if those details are reflected on the licence that has been issued, issue an amended licence (and certified copies, if applicable). An amended licence is not a new or renewed licence.
 (3) If an amended licence is issued, the licence holder must immediately return the old licence and any old certified copies of the licence to the Licensing Authority.
 (4) A licensed secondhand dealer and pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
@@ -223,8 +223,8 @@ If the Licensing Authority declines an application, he or she must immediately n
   (c) be accompanied by a statutory declaration by the applicant as to the truth of the information supplied in the application; and
   (d) be accompanied by the prescribed fee.
 (2) The form approved by the Licensing Authority must, without limitation, require the following information to be supplied:
-  (a) the applicant's full name and date of birth:
-  (b) the applicant's contact address and prescribed contact details:
+  (a) the applicant’s full name and date of birth:
+  (b) the applicant’s contact address and prescribed contact details:
   (c) any other prescribed information.
 (3) On receipt of an application, the Licensing Authority may make whatever inquiries he or she considers necessary in order to determine whether or not the applicant is disqualified from holding a certificate.
 
@@ -263,50 +263,50 @@ A person is disqualified from holding a certificate if he or she—
 
 ### 25 Police objection
 (1) The Commissioner of Police may, regardless of the content of the report prepared under section 24(1), object to an applicant being granted a certificate on the grounds that the applicant is not a fit and proper person to hold a certificate.
-(2) Any objection under subsection (1) (a police objection) must set out the reasons for it and be made—
+(2) Any objection under subsection (1) (a Police objection) must set out the reasons for it and be made—
   (a) within 3 weeks of receiving a copy of the application, if the report under section 24(1) is provided by the Commissioner of Police; or
   (b) within 3 weeks of receiving a copy of the report under section 24(1), if that report is not provided by the Commissioner of Police.
-(3) The Commissioner of Police must send a copy of the police objection, if any, to the applicant at the same time that it is sent to the Licensing Authority.
+(3) The Commissioner of Police must send a copy of the Police objection, if any, to the applicant at the same time that it is sent to the Licensing Authority.
 
-### 26 What happens if police object to applicant
-(1) An applicant who receives a copy of a police objection may—
+### 26 What happens if Police object to applicant
+(1) An applicant who receives a copy of a Police objection may—
   (a) request a hearing in person before the Licensing Authority on whether to dismiss or uphold the objection, in which case the request must be—
     (i) in writing and accompanied by the prescribed fee (if any); and
     (ii) received by the Licensing Authority within 3 weeks of the date on which the notice of objection was sent; or
   (b) make written submissions to the Licensing Authority, in which case the submissions must be received by the Licensing Authority within 3 weeks of the date on which the notice of objection was sent.
 (2) If an applicant requests a hearing in person,—
-  (a) if the applicant is also disqualified from holding a certificate, the Licensing Authority may not hold a hearing on the police objection until after he or she has made a decision under section 23 on whether to waive the disqualification; and
-  (b) if the applicant is not disqualified from holding a certificate, the Licensing Authority must arrange a time and place for the hearing under section 27 and give the Commissioner of Police and the applicant at least 14 days' written notice of it.
-(3) If an applicant sends written submissions to the Licensing Authority, or if the Licensing Authority has not heard from the applicant within 3 weeks of the date on which the notice of objection was sent, the Licensing Authority must, on the basis of the written material before him or her, determine whether to uphold or dismiss the police objection.
+  (a) if the applicant is also disqualified from holding a certificate, the Licensing Authority may not hold a hearing on the Police objection until after he or she has made a decision under section 23 on whether to waive the disqualification; and
+  (b) if the applicant is not disqualified from holding a certificate, the Licensing Authority must arrange a time and place for the hearing under section 27 and give the Commissioner of Police and the applicant at least 14 days’ written notice of it.
+(3) If an applicant sends written submissions to the Licensing Authority, or if the Licensing Authority has not heard from the applicant within 3 weeks of the date on which the notice of objection was sent, the Licensing Authority must, on the basis of the written material before him or her, determine whether to uphold or dismiss the Police objection.
 
-### 27 Hearing into police objection
-(1) For the purpose of conducting a hearing into a police objection, sections 4 to 12 of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
+### 27 Hearing into Police objection
+(1) For the purpose of conducting a hearing into a Police objection, sections 4 to 12 of the Commissions of Inquiry Act 1908 apply with any necessary modifications as if the Licensing Authority were a Commission appointed under that Act and as if the hearing were an inquiry held under that Act.
 (2) Without limiting subsection (1), at a hearing before the Licensing Authority,—
-  (a) the Commissioner of Police may be represented by any member of the police or by counsel; and
+  (a) the Commissioner of Police may be represented by any constable or by counsel; and
   (b) the applicant may appear in person or be represented by counsel, or both.
-(3) At the conclusion of the hearing, the Licensing Authority must determine whether to uphold or dismiss the police objection.
+(3) At the conclusion of the hearing, the Licensing Authority must determine whether to uphold or dismiss the Police objection.
 
 ### 28 Eligibility for, and issue of, certificate
 (1) A person is eligible to hold a certificate if—
   (a) the person is not disqualified under section 22 from holding a certificate or, if disqualified, the disqualification has been waived under section 23; and
-  (b) either no police objection has been raised under section 25 in relation to the person, or, if an objection has been raised, the Licensing Authority has dismissed the objection under section 26(3) or section 27(3).
+  (b) either no Police objection has been raised under section 25 in relation to the person, or, if an objection has been raised, the Licensing Authority has dismissed the objection under section 26(3) or section 27(3).
 (2) The Licensing Authority must issue a certificate to an applicant if—
   (a) the applicant is eligible to be issued with a certificate; and
   (b) the application complies with the requirements in section 21(1).
 (3) If the Licensing Authority refuses an application, he or she must notify the applicant in writing, and give reasons for the refusal.
 
-### 29 Complaints by police about certificate holders, licence holders, and persons concerned in management of company
+### 29 Complaints by Police about certificate holders, licence holders, and persons concerned in management of company
 (1) The Commissioner of Police may, at any time, make a complaint to the Licensing Authority about—
   (a) a certificate holder; or
   (b) a licence holder; or
   (c) a person who is concerned in the management of a company that is a licence holder.
-(2) The Licensing Authority must send a copy of any complaint received to the person concerned, and sections 26 and 27 apply as if the complaint were a police objection made under section 25.
+(2) The Licensing Authority must send a copy of any complaint received to the person concerned, and sections 26 and 27 apply as if the complaint were a Police objection made under section 25.
 (3) If the Licensing Authority upholds the complaint, he or she must,—
   (a) in the case of a certificate holder, cancel the certificate:
   (b) in the case of a licence holder, cancel the licence:
   (c) in the case of a person concerned in the management of a company that is a licence holder,—
-    (i) advise the company that a police complaint against the person has been upheld and that the person is no longer eligible to hold a certificate; and
-    (ii) 2 weeks after that advice is sent, cancel the company's licence unless, within that time, the company advises the Licensing Authority that the person is no longer a person concerned in the management of the company.
+    (i) advise the company that a Police complaint against the person has been upheld and that the person is no longer eligible to hold a certificate; and
+    (ii) 2 weeks after that advice is sent, cancel the company’s licence unless, within that time, the company advises the Licensing Authority that the person is no longer a person concerned in the management of the company.
 
 ### 30 Expiry and renewal of certificates
 (1) Unless cancelled earlier, a certificate expires 5 years from its date of issue.
@@ -317,8 +317,8 @@ A person is disqualified from holding a certificate if he or she—
 (6) A certificate holder may, at any time, return his or her certificate to the Licensing Authority, in which case the certificate expires on the date it is received by the Licensing Authority.
 
 ### 31 Cancellation and suspension of certificates
-(1) The Licensing Authority may cancel or suspend a person's certificate if—
-  (a) the Licensing Authority upholds a police complaint made under section 29; or
+(1) The Licensing Authority may cancel or suspend a person’s certificate if—
+  (a) the Licensing Authority upholds a Police complaint made under section 29; or
   (b) the Licensing Authority is satisfied that the person is disqualified from holding a certificate and—
     (i) the person has not sought a waiver of disqualification under section 23; or
     (ii) the Licensing Authority has refused an application by the person for a waiver of disqualification under section 23; or
@@ -330,12 +330,12 @@ A person is disqualified from holding a certificate if he or she—
 **Obligations of certificate holders**
 
 ### 32 Obligation to show certificate
-(1) At any time when a certificate holder is engaged in secondhand dealing or pawnbroking, he or she must, on request by a member of the police, show his or her certificate to that member.
+(1) At any time when a certificate holder is engaged in secondhand dealing or pawnbroking, he or she must, on request by a constable, show his or her certificate to that constable.
 (2) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with a request under subsection (1).
 (3) Section 83 applies to a charge under subsection (2).
 
 ### 33 Updating certificate information
-(1) If any of the details that were included on the certificate application change (for example, the certificate holder's contact address), the certificate holder must advise the Licensing Authority of the change.
+(1) If any of the details that were included on the certificate application change (for example, the certificate holder’s contact address), the certificate holder must advise the Licensing Authority of the change.
 (2) On receiving advice under subsection (1), the Licensing Authority must, if those details are reflected on the certificate that has been issued, issue an amended certificate. An amended certificate is not a new or renewed certificate.
 (3) If an amended certificate is issued, the certificate holder must immediately return the old certificate to the Licensing Authority.
 (4) A certificate holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (3).
@@ -343,24 +343,24 @@ A person is disqualified from holding a certificate if he or she—
 **Appeals**
 
 ### 34 Appeals against decision of Licensing Authority
-(1) An applicant for a licence or a certificate may appeal to a District Court against a decision by the Licensing Authority relating to the applicant's application.
-(2) The holder of a licence or certificate may appeal to a District Court against a decision by the Licensing Authority relating to the renewal, cancellation, or suspension of the holder's licence or certificate.
+(1) An applicant for a licence or a certificate may appeal to a District Court against a decision by the Licensing Authority relating to the applicant’s application.
+(2) The holder of a licence or certificate may appeal to a District Court against a decision by the Licensing Authority relating to the renewal, cancellation, or suspension of the holder’s licence or certificate.
 (3) To avoid doubt, there is no appeal under this section against a decision of the Licensing Authority relating to waiver of disqualification.
 (4) An appeal under this section must be brought within 20 days of the date of the decision appealed against, or within any longer period that the District Court, on application made before or after the expiration of that period, allows.
 
 ### 35 Determination of appeal
 (1) In determining an appeal, a District Court may confirm or reverse the decision of the Licensing Authority.
-(2) The District Court's decision in the determination of an appeal is final.
+(2) The District Court’s decision in the determination of an appeal is final.
 (3) To avoid doubt, nothing in this section or section 34 affects the right of any person to apply, in accordance with law, for judicial review of a decision of the Licensing Authority.
 
-## Part 3 — Obligations of licence holders, promoters, and internet auction providers
+## Part 3 — Obligations of licence holders, promoters, and Internet auction providers
 
 ### Subpart 1 — Obligations of all licence holders
 
 **Licences and records**
 
 ### 36 Obligation to show and to display licence
-(1) At any time when a licence holder who is an individual is engaged in secondhand dealing or pawnbroking, he or she must, on request by a member of the police, show his or her licence to that member.
+(1) At any time when a licence holder who is an individual is engaged in secondhand dealing or pawnbroking, he or she must, on request by a constable, show his or her licence to that constable.
 (2) Every licence holder must ensure that a certified copy of his or her licence is prominently displayed so as to be readily visible to the public at every place of business used by the licence holder for secondhand dealing or pawnbroking purposes.
 (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails without reasonable excuse to comply with subsection (1) or subsection (2).
 (4) Section 83 applies to a charge under subsection (3).
@@ -372,8 +372,8 @@ A person is disqualified from holding a certificate if he or she—
   (b) which employees (if any) hold a certificate, and the number of each certificate; and
   (c) the date on which each employee commenced employment with the licence holder.
 (3) The employee record must be kept—
-  (a) at the licence holder's principal place of business; or
-  (b) if the licence holder is an itinerant secondhand dealer, in the. possession of that, dealer; or
+  (a) at the licence holder’s principal place of business; or
+  (b) if the licence holder is an itinerant secondhand dealer, in the possession of that dealer; or
   (c) if regulations provide that employee records may also be kept elsewhere, in accordance with the regulations.
 (4) An employer must keep the records on the employee record that relate to each employee for at least 12 months from the date on which the relevant employee ceases employment with the employer.
 (5) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to—
@@ -382,10 +382,10 @@ A person is disqualified from holding a certificate if he or she—
   (c) keep it at the place and for the period required by this section.
 
 ### 38 Police access to employee records
-(1) A licence holder must, when required to do so by a member of the police,—
-  (a) show the member, without delay, his or her employee record and any information contained in it:
-  (b) make a copy of all or specified parts of it and give the copy to the member or, if that is impracticable, give the member the employee record or specified parts of it.
-(2) If a licence holder gives a member of the police his or her employee record, the member must—
+(1) A licence holder must, when required to do so by a constable,—
+  (a) show the constable, without delay, his or her employee record and any information contained in it:
+  (b) make a copy of all or specified parts of it and give the copy to the constable or, if that is impracticable, give the constable the employee record or specified parts of it.
+(2) If a licence holder gives a constable his or her employee record, the constable must—
   (a) give a receipt for the document; and
   (b) return it within 2 hours.
 (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
@@ -395,24 +395,24 @@ A person is disqualified from holding a certificate if he or she—
 
 ### 39 Obligation to report and hold stolen goods
 (1) A licence holder who has possession of, or who is offered for sale or pawn, any goods that he or she knows or suspects are stolen goods must—
-  (a) report the goods to a member of the police as soon as practicable; and
-  (b) if he or she has possession of the goods, hold them for 14 days from the date of the report to the member of the police.
-(2) If a member of the police gives a licence holder a notice that specified goods are, or are alleged to be, stolen goods, the licence holder must—
-  (a) immediately notify a member of the police if any of the specified goods are offered to the licence holder for sale or pawn; and
+  (a) report the goods to a constable as soon as practicable; and
+  (b) if he or she has possession of the goods, hold them for 14 days from the date of the report to the constable.
+(2) If a constable gives a licence holder a notice that specified goods are, or are alleged to be, stolen goods, the licence holder must—
+  (a) immediately notify a constable if any of the specified goods are offered to the licence holder for sale or pawn; and
   (b) check whether he or she already has possession of any of the specified goods and, if so, must comply with subsection (1)(a) and (b).
 (3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, with respect to goods that the licence holder knows, suspects, or ought reasonably to know or suspect are stolen goods, to comply with subsection (1)(a) or (b) or subsection (2)(a) or (b).
-(4) A licence holder may dispose of goods that he or she has reported to the police under this section after holding them for at least 14 days unless, before the expiry of the 14 days, the police issue a hold notice under section 40 with respect to the goods.
+(4) A licence holder may dispose of goods that he or she has reported to the Police under this section after holding them for at least 14 days unless, before the expiry of the 14 days, the Police issue a hold notice under section 40 with respect to the goods.
 (5) Subsection (4) does not override section 60.
 
 ### 40 Police may issue hold notice
-(1) A member of the police may issue a hold notice to a licence holder if the member has reasonable grounds to suspect that any goods held by the person are stolen goods.
-(2) If a licence holder is issued with a hold notice, he or she must not dispose of the goods identified in the notice for 28 days from the date of the notice except with the authority of a member of the police.
-(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she disposes of goods that are identified in a hold notice within 28 days of the issue of the notice without the authority of a member of the police.
+(1) A constable may issue a hold notice to a licence holder if the constable has reasonable grounds to suspect that any goods held by the person are stolen goods.
+(2) If a licence holder is issued with a hold notice, he or she must not dispose of the goods identified in the notice for 28 days from the date of the notice except with the authority of a constable.
+(3) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she disposes of goods that are identified in a hold notice within 28 days of the issue of the notice without the authority of a constable.
 (4) Subsection (2) does not override section 60.
 
-### 41 Obligation to give police access to goods
-(1) A licence holder must, when required to do so by a member of the police, show, or make available to, that member all or any of the goods held by the licence holder for the purpose of secondhand dealing or pawnbroking.
-(2) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse, on request by a member of the police, to show or make available to the member any goods as required by subsection (1).
+### 41 Obligation to give Police access to goods
+(1) A licence holder must, when required to do so by a constable, show, or make available to, that constable all or any of the goods held by the licence holder for the purpose of secondhand dealing or pawnbroking.
+(2) A licence holder commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse, on request by a constable, to show or make available to the constable any goods as required by subsection (1).
 (3) Section 83 applies to a charge under subsection (2).
 
 ### Subpart 2 — Obligations of licensed secondhand dealers
@@ -423,10 +423,10 @@ A person is disqualified from holding a certificate if he or she—
 (1) Every licensed secondhand dealer must keep a dealers record.
 (2) The dealers record must show the following information with respect to every article acquired by a licensed secondhand dealer in the course of business as a secondhand dealer:
   (a) the identity of the person from whom the article is acquired, which must include—
-    (i) the person's full name, contact address, and contact telephone number (if any):
-    (ii) the manner in which the person's identity was verified or, if the identity was not verified, the reason for that (as set out in section 43(3)):
-    (iii) the person's date of birth (unless the person's identity was not verified):
-    (iv) the person's signature (unless the person's identity was not verified):
+    (i) the person’s full name, contact address, and contact telephone number (if any):
+    (ii) the manner in which the person’s identity was verified or, if the identity was not verified, the reason for that (as set out in section 43(3)):
+    (iii) the person’s date of birth (unless the person’s identity was not verified):
+    (iv) the person’s signature (unless the person’s identity was not verified):
   (b) a description of the article and its serial number or other unique identifier (if any):
   (c) the purchase price paid by the secondhand dealer:
   (d) the number assigned by the licensed secondhand dealer to the article:
@@ -452,31 +452,31 @@ A person is disqualified from holding a certificate if he or she—
 
 ### 43 Verifying identity
 (1) A licensed secondhand dealer must verify the identity of the person from whom an article is acquired, except in the circumstances set out in subsection (3).
-(2) A person's identity may be verified for the purposes of subsection (1)—
-  (a) by sighting the person's authorised identification; or
-  (b) by personal knowledge, in which case if any details about the person that are recorded in the secondhand dealer's dealers record are incorrect, the secondhand dealer is regarded as having made a false entry, without reasonable excuse, in his or her dealers record; or
+(2) A person’s identity may be verified for the purposes of subsection (1)—
+  (a) by sighting the person’s authorised identification; or
+  (b) by personal knowledge, in which case if any details about the person that are recorded in the secondhand dealer’s dealers record are incorrect, the secondhand dealer is regarded as having made a false entry, without reasonable excuse, in his or her dealers record; or
   (c) by any other prescribed method.
 (3) A secondhand dealer need not obtain evidence of the identity of a person from whom goods are acquired in the following situations:
   (a) where the goods are acquired at a public auction conducted by a licensed auctioneer:
-  (b) where the goods are acquired through an internet auction run by an internet auction provider that complies with any prescribed requirements:
+  (b) where the goods are acquired through an Internet auction run by an Internet auction provider that complies with any prescribed requirements:
   (c) where the goods are acquired at a garage sale and the secondhand dealer keeps a record of the address at which the goods were sold:
   (d) where the goods are acquired from a seller who is overseas:
   (e) in any other prescribed situation.
 
 ### 44 Storage of dealers record
 (1) Every dealers record must be kept—
-  (a) at the secondhand dealer's principal place of business; or
+  (a) at the secondhand dealer’s principal place of business; or
   (b) in the case of an itinerant secondhand dealer, in the possession of that dealer; or
   (c) if regulations provide that dealers records may also be kept elsewhere, in accordance with the regulations.
 (2) The information in the dealers record relating to any article or scrap metal must be kept for not less than 3 years from the date of the transaction relating to that article or scrap metal.
-(3) Every dealers record must be kept available for inspection (at any reasonable hour) on request by a member of the police.
-(4) A licensed secondhand dealer commits an offence;. and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
+(3) Every dealers record must be kept available for inspection (at any reasonable hour) on request by a constable.
+(4) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to store his or her dealers record as required by this section.
 
 ### 45 Police access to dealers record
-(1) A licensed secondhand dealer must, when required to do so by a member of the police,—
-  (a) show the member his or her dealers record and any information contained in it; and
-  (b) make a copy of all or specified parts of it and give the copy to the member or, if that is impracticable, give the member the dealers record or specified parts of it.
-(2) If a licensed secondhand dealer gives a member of the police his or her dealers record, or any part of it, the member must—
+(1) A licensed secondhand dealer must, when required to do so by a constable,—
+  (a) show the constable his or her dealers record and any information contained in it; and
+  (b) make a copy of all or specified parts of it and give the copy to the constable or, if that is impracticable, give the constable the dealers record or specified parts of it.
+(2) If a licensed secondhand dealer gives a constable his or her dealers record, or any part of it, the constable must—
   (a) give a receipt for the document; and
   (b) return the document to the dealer within 2 hours.
 (3) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
@@ -489,14 +489,14 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 
 ### 47 Articles to be kept for 14 days
 (1) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be retained by the secondhand dealer in an unaltered state for 14 days from the date of the transaction.
-(2) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be stored, for the first 14 days after the transaction, in a place at which it can be reasonably conveniently inspected by a member of the police if the member asks to inspect it.
+(2) Every article acquired by a licensed secondhand dealer in the course of his or her secondhand dealing business must be stored, for the first 14 days after the transaction, in a place at which it can be reasonably conveniently inspected by a constable if the constable asks to inspect it.
 (3) Despite subsection (1), articles need not be retained for 14 days if—
   (a) the article was acquired by the licensed secondhand dealer from a licensed secondhand dealer and pawnbroker; or
   (b) the article is returned to the person from whom the licensed secondhand dealer acquired it; or
   (c) the article is being sold by the licensed secondhand dealer as agent for the owner, and the licensed secondhand dealer notes on his or her dealers record—
-    (i) the purchaser's full name, date of birth, contact address, and contact telephone number (if any); and
-    (ii) the manner in which the licensed secondhand dealer verified the purchaser's identity, which must be by one of the methods set out in section 43(2); and
-    (iii) the purchaser's signature.
+    (i) the purchaser’s full name, date of birth, contact address, and contact telephone number (if any); and
+    (ii) the manner in which the licensed secondhand dealer verified the purchaser’s identity, which must be by one of the methods set out in section 43(2); and
+    (iii) the purchaser’s signature.
 
 ### 48 Articles to be labelled
 (1) A label in the prescribed form bearing the number assigned by a secondhand dealer to an article must be affixed to the article at all times until it is sold or otherwise disposed of.
@@ -510,7 +510,7 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 (3) All remaining articles in the group must be treated as a single article for the purposes of this Act, and—
   (a) the individual articles in the group need not be labelled under section 48; and
   (b) the disposal of the group and the individual articles in it need not be recorded in the dealers record under section 42(2)(g).
-(4) The fact that an article is. offered for sale at a price of more than $40 (or other prescribed amount) is conclusive proof that the item has or had an apparent resale value of more than that amount.
+(4) The fact that an article is offered for sale at a price of more than $40 (or other prescribed amount) is conclusive proof that the item has or had an apparent resale value of more than that amount.
 
 ### 50 Offences relating to secondhand dealing
 (1) A licensed secondhand dealer commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she enters into a buyback contract as a buyer while apparently acting in the course of business as a secondhand dealer.
@@ -526,8 +526,8 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 (1) Every licensed pawnbroker must keep a pawnbrokers record.
 (2) The pawnbrokers record must show the following information with respect to all goods pledged to the pawnbroker in the course of business as a pawnbroker:
   (a) the identity of the pledger, which must include—
-    (i) the pledger's name, contact address, and contact telephone number (if any); and
-    (ii) the form of authorised identification used to verify the pledger's identity, date of birth, and fact that the pledger is aged 18 years or over; and
+    (i) the pledger’s name, contact address, and contact telephone number (if any); and
+    (ii) the form of authorised identification used to verify the pledger’s identity, date of birth, and fact that the pledger is aged 18 years or over; and
     (iii) the signature of the pledger:
   (b) a description of the pawned goods, including their serial numbers or other unique identifier (if any):
   (c) the number assigned by the pawnbroker to each item:
@@ -550,24 +550,24 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 
 ### 52 Verifying identity of pledgers
 (1) A licensed pawnbroker must verify the identity of every pledger from whom he or she accepts a pledge.
-(2) A pledger's identity may be verified for the purpose of subsection (1)—
-  (a) by sighting the person's authorised identification; or
-  (b) by personal knowledge, in which case if any details about the person that are recorded in the pawnbroker's pawnbrokers record are incorrect, the pawnbroker is regarded as having made a false entry without reasonable excuse in his or her pawnbrokers record; or
+(2) A pledger’s identity may be verified for the purpose of subsection (1)—
+  (a) by sighting the person’s authorised identification; or
+  (b) by personal knowledge, in which case if any details about the person that are recorded in the pawnbroker’s pawnbrokers record are incorrect, the pawnbroker is regarded as having made a false entry without reasonable excuse in his or her pawnbrokers record; or
   (c) by any other prescribed method.
 
 ### 53 Storage of pawnbrokers record
 (1) Every pawnbrokers record must be kept—
-  (a) at the pawnbroker's principal place of business; or
+  (a) at the pawnbroker’s principal place of business; or
   (b) if regulations provide that pawnbrokers records may also be kept elsewhere, in accordance with the regulations.
 (2) The information in the pawnbrokers record relating to any goods must be kept for not less than 3 years from the date of the transaction relating to those goods.
-(3) Every pawnbrokers record must be available for inspection on request at any reasonable hour by a member of the police.
+(3) Every pawnbrokers record must be available for inspection on request at any reasonable hour by a constable.
 (4) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails, without reasonable excuse, to store his or her pawnbrokers record as required by this section.
 
 ### 54 Police access to pawnbrokers record
-(1) A licensed pawnbroker must, when required to do so by a member of the police,-
-  (a) show the member his or her pawnbrokers record and any information contained in it; and
-  (b) make a copy of all or specified parts of it and give the copy to the member or, if that is impracticable, give the member the pawnbrokers record or specified parts of it.
-(2) If a licensed pawnbroker gives a member of the police his or her pawnbrokers record, or any part of it, the member must—
+(1) A licensed pawnbroker must, when required to do so by a constable,—
+  (a) show the constable his or her pawnbrokers record and any information contained in it; and
+  (b) make a copy of all or specified parts of it and give the copy to the constable or, if that is impracticable, give the constable the pawnbrokers record or specified parts of it.
+(2) If a licensed pawnbroker gives a constable his or her pawnbrokers record, or any part of it, the constable must—
   (a) give a receipt for the document; and
   (b) return the document to the pawnbroker within 2 hours.
 (3) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she fails without reasonable excuse to comply with subsection (1).
@@ -576,10 +576,10 @@ No licensed secondhand dealer may enter into a buyback contract as a buyer while
 **Pawnbroking**
 
 ### 55 Pawnbrokers not to enter into buyback contracts
-No licensed pawnbroker may enter into a buyback contract as a buyer while apparently acting in the business of. a pawnbroker.
+No licensed pawnbroker may enter into a buyback contract as a buyer while apparently acting in the business of a pawnbroker.
 
 ### 56 Pawnbrokers to enter into contracts only at pawnbroking premises
-A pawnbroker may enter into a pawnbroking contract only at pawnbroking business premises identified in the pawnbroker's licence.
+A pawnbroker may enter into a pawnbroking contract only at pawnbroking business premises identified in the pawnbroker’s licence.
 
 ### 57 Redemption price
 (1) The redemption price of any pawned goods is—
@@ -624,17 +624,17 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
 (2) Goods to be offered for sale by a pawnbroker must be offered for sale by way of—
   (a) a public auction conducted by a person who is not—
     (i) the pawnbroker; or
-    (ii) the pawnbroker's spouse, civil union partner, de facto partner, parent, child, or sibling; or
+    (ii) the pawnbroker’s spouse, civil union partner, de facto partner, parent, child, or sibling; or
     (iii) an employee of the pawnbroker; or
     (iv) in the case of a pawnbroker that is a company, a person concerned in the management of the company; or
-  (b) an internet auction conducted on a publicly accessible internet auction website that complies with any prescribed requirements.
+  (b) an Internet auction conducted on a publicly accessible Internet auction website that complies with any prescribed requirements.
 (3) If the redemption price (or more) of pawned goods is bid for those goods, the goods must be sold at the auction.
-(4) If, having been offered for sale at public auction or internet auction, the goods remain unsold, the pawnbroker may sell the goods in any other way that is reasonable, having regard to the need to obtain a realistic price for the goods. The fact that the goods are subsequently sold for a price less than the redemption price does not necessarily show that the subsequent method of sale was unreasonable.
+(4) If, having been offered for sale at public auction or Internet auction, the goods remain unsold, the pawnbroker may sell the goods in any other way that is reasonable, having regard to the need to obtain a realistic price for the goods. The fact that the goods are subsequently sold for a price less than the redemption price does not necessarily show that the subsequent method of sale was unreasonable.
 (5) When a pawnbroker sells pawned goods, he or she may retain from the sale price the redemption price of the goods.
 
 ### 64 What happens if sale price is greater than redemption price
 (1) In this section, excess means the amount (if any) by which the price that a pawnbroker sells pawned goods for exceeds the redemption price of those goods.
-(2) A pledger is entitled to 90% of any excess received by the pawnbroker on the sale of the pledger's goods, provided that the excess is claimed within 6 months of the date of the sale.
+(2) A pledger is entitled to 90% of any excess received by the pawnbroker on the sale of the pledger’s goods, provided that the excess is claimed within 6 months of the date of the sale.
 (3) The pawnbroker may retain the remaining 10% of the excess.
 (4) If an excess is $10 or more, the pawnbroker must, as soon as practicable after the sale, write to the pledger at his or her last known address advising him or her of—
   (a) the amount of excess to which he or she is entitled; and
@@ -662,13 +662,13 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (c) sells or otherwise disposes of any pawned goods on or before the redemption date of the goods:
   (d) fails to issue a pledge ticket, or issues a pledge ticket that does not comply with section 59:
   (e) fails to allow a pledger to redeem or inspect goods pawned by the pledger:
-  (f) sells pawned goods without first offering them for sale at public auction or internet auction:
+  (f) sells pawned goods without first offering them for sale at public auction or Internet auction:
   (g) fails, when a pledger claims an excess (as defined in section 64(1)) within 6 months of the disposal of pledged goods, to return to the pledger at least 90% of the excess:
   (h) accepts a pledge from a pledger aged under 18 years:
   (i) fails to comply with any of the conditions set out in section 66(1) when purchasing goods that are subject to a pawnbroking contract.
 (2) A licensed pawnbroker commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, if he or she fails, without reasonable excuse, to comply with any other obligation under any of sections 55 to 65.
 
-### Subpart 4 — Obligations of promoters and internet auction providers
+### Subpart 4 — Obligations of promoters and Internet auction providers
 
 **Records**
 
@@ -678,42 +678,42 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
   (a) the date or dates on, or the period during, which the market or fair operates; and
   (b) the location of the market or fair; and
   (c) in relation to every stallholder who proposes to sell secondhand articles or scrap metal at the market or fair,—
-    (i) the stallholder' s full name, date of birth, contact address, and contact telephone number (if any); and
+    (i) the stallholder’s full name, date of birth, contact address, and contact telephone number (if any); and
     (ii) if the stallholder holds a licence or a certificate, the number of that licence or certificate; and
     (iii) if the stallholder does not hold a licence or a certificate, a record of how the promoter verified the identity of the stallholder, which must be one of the methods set out in subsection (3); and
     (iv) the signature of the stallholder; and
     (v) any other prescribed information.
 (3) A promoter may verify the identity of a stallholder by—
-  (a) sighting the person's authorised identification; or
-  (b) personal knowledge, in which case if any details about the person that are recorded in the promoter's promoters record are incorrect, the promoter is regarded as having made a false entry, without reasonable excuse, in his or her promoters record; or
+  (a) sighting the person’s authorised identification; or
+  (b) personal knowledge, in which case if any details about the person that are recorded in the promoter’s promoters record are incorrect, the promoter is regarded as having made a false entry, without reasonable excuse, in his or her promoters record; or
   (c) any other prescribed method.
 (4) The information in a promoters record about a particular market or fair and the stallholders at it must be kept by the promoter for at least 12 months from the date of the market or fair.
-(5) A promoter must, when required to do so by a member of the police,—
-  (a) make, and give to the member of the police, a copy of all or any specified part of the promoter's promoters record; or
-  (b) if that is impracticable, give the promoters record or specified part of it to the member of the police, in which case the member must—
+(5) A promoter must, when required to do so by a constable,—
+  (a) make, and give to the constable, a copy of all or any specified part of the promoter’s promoters record; or
+  (b) if that is impracticable, give the promoters record or specified part of it to the constable, in which case the constable must—
     (i) give a receipt for the document; and
     (ii) return the document within 2 hours.
 (6) A promoter commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
   (a) fails to comply with the requirements of this section relating to the promoters record; or
   (b) makes a false entry in his or her promoters record; or
-  (c) fails to give his or her promoters record, or a specified part of it, to a member of the police when required to do so.
+  (c) fails to give his or her promoters record, or a specified part of it, to a constable when required to do so.
 (7) Section 83 applies to a charge under subsection (6)(c).
 
 ### 69 Internet auction providers record
-(1) Every internet auction provider must keep an internet auction providers record.
-(2) The internet auction providers record must show the following information:
-  (a) the full name, date of birth, contact telephone number, and email address of every person offering secondhand articles or scrap metal for sale on the internet auction provider's website; and
+(1) Every Internet auction provider must keep an Internet auction providers record.
+(2) The Internet auction providers record must show the following information:
+  (a) the full name, date of birth, contact telephone number, and email address of every person offering secondhand articles or scrap metal for sale on the Internet auction provider’s website; and
   (b) any other prescribed information.
-(3) The information in an internet auction providers record about a particular sale or attempted sale must be kept by the internet auction provider for at least 12 months from the date bids closed for that sale or attempted sale.
-(4) An internet auction provider must, when required to do so by a member of the police,—
-  (a) show the member his or her internet auction providers record and any information contained in it; or
-  (b) make a copy of all or specific parts of it and give the copy to the member or, if that is impracticable, give his or her internet auction providers record or a specific part of it to the member, in which case the member must—
+(3) The information in an Internet auction providers record about a particular sale or attempted sale must be kept by the Internet auction provider for at least 12 months from the date bids closed for that sale or attempted sale.
+(4) An Internet auction provider must, when required to do so by a constable,—
+  (a) show the constable his or her Internet auction providers record and any information contained in it; or
+  (b) make a copy of all or specific parts of it and give the copy to the constable or, if that is impracticable, give his or her Internet auction providers record or a specific part of it to the constable, in which case the constable must—
     (i) give a receipt for the document; or
-    (ii) return the document to the internet auction provider within 2 hours.
-(5) An internet auction provider commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
-  (a) fails to comply with the requirements of this section relating to his or her internet auction providers record; or
-  (b) makes a false entry in his or her internet auction providers record; or
-  (c) fails to provide access by a member of the police to his or her internet auction providers record in accordance with subsection (4) when required to do so.
+    (ii) return the document to the Internet auction provider within 2 hours.
+(5) An Internet auction provider commits an offence, and is liable on summary conviction to a fine not exceeding $10,000, if he or she, without reasonable excuse,—
+  (a) fails to comply with the requirements of this section relating to his or her Internet auction providers record; or
+  (b) makes a false entry in his or her Internet auction providers record; or
+  (c) fails to provide access by a constable to his or her Internet auction providers record in accordance with subsection (4) when required to do so.
 (6) Section 83 applies to a charge under subsection (5)(c).
 
 ## Part 4 — Licensing Authority of secondhand dealers and pawnbrokers, and miscellaneous provisions
@@ -733,7 +733,7 @@ A licensed pawnbroker may not dispose of pawned goods on or before the redemptio
 (1) The Minister of Justice may, by notice in the Gazette, appoint up to 2 Deputy Licensing Authorities if the Minister is satisfied that—
   (a) the Licensing Authority is unable, because of absence (whether by reason of leave, ill-health, or any other reason), to exercise his or her functions of office; or
   (b) the amount of work to be done by the Licensing Authority is more than can reasonably be done by 1 person at that time.
-(2) A Deputy Licensing Authority's term of office expires on the date specified in the appointment notice in the Gazette or, if no such date is specified, on the date specified by the Minister of Justice in a subsequent notice in the Gazette.
+(2) A Deputy Licensing Authority’s term of office expires on the date specified in the appointment notice in the Gazette or, if no such date is specified, on the date specified by the Minister of Justice in a subsequent notice in the Gazette.
 (3) A Deputy Licensing Authority has and may exercise the powers (including the powers listed in section 76(1)), duties, and functions of the Licensing Authority, subject to the control of the Licensing Authority.
 (4) The fact that a Deputy Licensing Authority exercises the powers, duties, and functions of the Licensing Authority is conclusive evidence of his or her authority to do so.
 (5) No appointment of a Deputy Licensing Authority, and no act done by him or her when acting as a Deputy Licensing Authority, may be called into question in any proceedings on the ground that the occasion for the appointment had not arisen or had ceased.
@@ -756,7 +756,7 @@ The responsible Minister must ensure that the department that is authorised by t
 
 ### 76 Delegations
 (1) The Licensing Authority may, in writing, delegate to any person any function, duty, or power under this Act, except the following:
-  (a) the power to conduct hearings into police objections and police complaints:
+  (a) the power to conduct hearings into Police objections and Police complaints:
   (b) the power to waive a disqualification from holding a certificate:
   (c) the power to cancel a licence, and the power to cancel or suspend a certificate:
   (d) the power, under section 18, to transfer a licence to a temporary licence holder:
@@ -770,7 +770,7 @@ The responsible Minister must ensure that the department that is authorised by t
 ### 77 Annual report
 (1) Within 3 months after the end of every financial year, the Licensing Authority must prepare and send to the Minister of Justice a report on the activities of the Licensing Authority during the previous financial year that contains the prescribed matters.
 (2) The Minister of Justice must present a copy of the report to the House of Representatives within 20 sitting days after the date on which the Minister receives it.
-(3) If the date of commencement of this Act is within 3 months before the end of a financial year, the first report of the Licensing Authority must be for the first full financial year of operation and include information relating to the previous year's operation.
+(3) If the date of commencement of this Act is within 3 months before the end of a financial year, the first report of the Licensing Authority must be for the first full financial year of operation and include information relating to the previous year’s operation.
 
 **Registers**
 
@@ -783,13 +783,13 @@ The responsible Minister must ensure that the department that is authorised by t
 ### 79 Content of licence holders register
 The licence holders register must contain the following information in relation to each licensed secondhand dealer and pawnbroker:
   (a) the full name of the licence holder:
-  (b) the licence holder's principal place of business:
+  (b) the licence holder’s principal place of business:
   (c) the number of the licence:
   (d) the date of issue of the licence:
   (e) in the case of a licence holder who is an individual, whether the person is in partnership and, if so, the name of every partner:
   (f) in the case of a licence holder that is a company, the name of every person concerned in the management of the company:
   (g) the street address of every place of business used by the licence holder:
-  (h) the licence holder's email address, but only if the licence holder supplies that information and agrees to the Licensing Authority including it in the register.
+  (h) the licence holder’s email address, but only if the licence holder supplies that information and agrees to the Licensing Authority including it in the register.
 
 ### 80 Content of certificate holders register
 (1) The certificate holders register must contain the following information in relation to each certificate holder:
@@ -804,7 +804,7 @@ The Licensing Authority must take all reasonable steps to ensure—
   (b) that members of the public may copy or purchase all, or any part of, the information contained in the public registers at no more than a reasonable cost.
 
 ### 82 Police access to other information held by Licensing Authority
-If a member of the police seeks any of the following information from the Licensing Authority, the Licensing Authority must supply it to the member as soon as practicable:
+If a constable seeks any of the following information from the Licensing Authority, the Licensing Authority must supply it to the constable as soon as practicable:
   (a) any information contained in an application for a licence or a certificate:
   (b) any information relating to changes to information provided by licence holders or certificate holders:
   (c) information relating to the cancellation of any licence or to the cancellation or suspension of any certificate.
@@ -812,15 +812,15 @@ If a member of the police seeks any of the following information from the Licens
 **Defences to certain charges**
 
 ### 83 Charges involving failure to show or make copy of document, or show or make available any thing
-(1) It is a defence to a charge under this Act involving a failure, following a request by a member of the police, to show, make a copy of, and give a document, or a failure to show or make available any other thing, to that member if—
-  (a) the member was not in uniform and did not, at the time of making the request, produce evidence that he or she was a member of the police; or
+(1) It is a defence to a charge under this Act involving a failure, following a request by a constable, to show, make a copy of, and give a document, or a failure to show or make available any other thing, to that constable if—
+  (a) the constable was not in uniform and did not, at the time of making the request, produce evidence that he or she was a constable; or
   (b) the request was made at a time or in a manner that was unreasonable in the circumstances.
 (2) This section does not limit any other defences that may be available.
 
 **Regulations**
 
 ### 84 Regulations
-The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:full effect.
+The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) amending Schedule 1 by removing items that are articles for the purpose of this Act:
   (b) amending Schedule 2 by—
     (i) adding or removing forms of identification that are authorised forms for the purposes of this Act; or
@@ -830,8 +830,8 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (e) prescribing a class or classes of secondhand dealers who are not engaged in business as secondhand dealers for the purposes of this Act:
   (f) prescribing fees for the purposes of this Act:
   (g) prescribing the size or form of photographs that are required to accompany applications, and prescribing the manner in which they are to be authenticated:
-  (h) prescribing alternative places in which, or arrangements under which, employee records, dealers records, pawnbrokers records, promoters records, and internet auction providers records may be kept:
-  (i) prescribing, with respect to dealers records, pawnbrokers records, promoters records, and internet auction providers records (or any of those records), any or all of the following:
+  (h) prescribing alternative places in which, or arrangements under which, employee records, dealers records, pawnbrokers records, promoters records, and Internet auction providers records may be kept:
+  (i) prescribing, with respect to dealers records, pawnbrokers records, promoters records, and Internet auction providers records (or any of those records), any or all of the following:
     (i) the form in which the records must be kept:
     (ii) the classes of person to which, or circumstances in which, the requirements of this Act or regulations made under this paragraph do not apply:
     (iii) additional information that must be recorded in any record:
@@ -842,11 +842,11 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (l) adjusting the amount referred to in section 49(2)(a):
   (m) prescribing the circumstances in which labels need not be affixed to articles, scrap metal, or pawned goods of a specified type or types, or prescribing articles, scrap metal, and pawned goods to which labels need never be affixed:
   (n) prescribing the form of pledge ticket:
-  (o) prescribing the requirements that must be satisfied by an internet auction website if—
-    (a) under section 43(3)(b), the requirement to verify the identity of sellers is not to apply when goods are purchased through that internet auction website; and
-    (b) pawnbrokers are to be permitted under section 63(2)(b) to dispose of goods through that internet auction website:
+  (o) prescribing the requirements that must be satisfied by an Internet auction website if—
+    (a) under section 43(3)(b), the requirement to verify the identity of sellers is not to apply when goods are purchased through that Internet auction website; and
+    (b) pawnbrokers are to be permitted under section 63(2)(b) to dispose of goods through that Internet auction website:
   (p) prescribing the matters to be included in the annual report of the Licensing Authority:
-  (q) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it
+  (q) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 **Transitional provisions**
 
