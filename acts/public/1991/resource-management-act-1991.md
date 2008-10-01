@@ -1,5 +1,5 @@
 # Resource Management Act 1991
-_Consolidation as at 2008-09-30_
+_Consolidation as at 2008-10-01_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
@@ -80,7 +80,7 @@ _Consolidation as at 2008-09-30_
   - **Conditions** , in relation to plans and resource consents, includes terms, standards, restrictions, and prohibitions
   - **Consent authority** means the Minister of Conservation, a regional council, a territorial authority, or a local authority that is both a regional council and a territorial authority, whose permission is required to carry out an activity for which a resource consent is required under this Act
   - **Consent notice** means a notice issued under section 221
-  - **Constable** means any member of the Police
+  - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **Contaminant** includes any substance (including gases, odorous compounds, liquids, solids, and micro-organisms) or energy (excluding noise) or heat, that either by itself or in combination with the same, similar, or other substances, energy, or heat—
     (a) When discharged into water, changes or is likely to change the physical, chemical, or biological condition of water; or
     (b) When discharged onto or into land or into air, changes or is likely to change the physical, chemical, or biological condition of the land or air onto or into which it is discharged:
@@ -165,7 +165,7 @@ _Consolidation as at 2008-09-30_
     (c) Any other premises from which a contaminant is discharged in connection with any industrial or trade process—
   - **Industrial or trade process** includes every part of a process from the receipt of raw material to the dispatch or use in another process or disposal of any product or waste material, and any intervening storage of the raw material, partly processed matter, or product
   - **infrastructure** , in section 30, means—
-    (a) pipelines that distribute or transmit natural or manufactured gas, petroleum, or geothermal energy:
+    (a) pipelines that distribute or transmit natural or manufactured gas, petroleum, biofuel, or geothermal energy:
     (b) a network for the purpose of telecommunication as defined in section 5 of the Telecommunications Act 2001:
     (c) a network for the purpose of radiocommunication as defined in section 2(1) of the Radiocommunications Act 1989:
     (d) facilities for the generation of electricity, lines used or intended to be used to convey electricity, and support structures for lines used or intended to be used to convey electricity, excluding facilities, lines, and support structures if a person—
@@ -3743,7 +3743,7 @@ The regional council may reject a request for a change if—
 In this Act—
   - **Designation** means a provision made in a district plan to give effect to a requirement made by a requiring authority under section 168 or section 168A or clause 4 of Schedule 1
   - **Network utility operator** means a person who—and the words have a corresponding meaning
-    (a) Undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, or geothermal energy; or
+    (a) Undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
     (b) operates or proposes to operate a network for the purpose of—
       (i) telecommunication as defined in section 5 of the Telecommunications Act 2001; or
       (ii) radiocommunication as defined in section 2(1) of the Radiocommunications Act 1989; or
