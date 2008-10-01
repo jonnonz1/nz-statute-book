@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2008-09-17_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -199,7 +199,7 @@ In this Act, unless the context otherwise requires,—
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
   - **natural hazard** has the meaning given to it by section 71
   - **network utility operator** means a person who—
-    (a) undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, or geothermal energy; or
+    (a) undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
     (b) operates or proposes to operate a network for the purpose of—
       (i) telecommunication as defined in section 5 of the Telecommunications Act 2001; or
       (ii) radiocommunications as defined in section 2(1) of the Radiocommunications Act 1989; or
