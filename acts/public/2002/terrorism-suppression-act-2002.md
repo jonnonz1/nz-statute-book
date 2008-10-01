@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -581,7 +581,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
     (i) by way of transmission by fax; or
     (ii) by another means (including, without limitation, by email or another similar means of communication) that may be agreed from time to time between that Commissioner and the financial institution or person concerned.
 (2) However, if the urgency of the situation requires, a report under section 43 may be made orally to any member of the police authorised for the purpose by the Commissioner of Police, but in any case of that kind the financial institution or other person must, as soon as practicable, forward to that Commissioner a report that complies with the requirements of subsection (1).
-(3) The Commissioner of Police may confer the authority to receive a report under subsection (2) on any specified member of the police or on members of the police of any specified rank or class, or on any member or members of the police for the time being holding any specified office or specified class of offices.
+(3) The Commissioner of Police may confer the authority to receive a report under subsection (2) on any specified member of the police or on members of the police of any specified level of position or class, or on any member or members of the police for the time being holding any specified office or specified class of offices.
 (4) If a report under section 43 is made by or on behalf of a financial institution in respect of property that came into the possession or immediate control of the financial institution through a transaction conducted or proposed to be conducted through the financial institution, the financial institution need not make a suspicious transaction report in respect of the transaction or proposed transaction unless asked to do so by or on behalf of the Commissioner of Police.
 (5) In this section, section 47, and Schedule 5, facility, financial institution, suspicious transaction report, and transaction have the meanings given to them in section 2(1) of the Financial Transactions Reporting Act 1996.
 
