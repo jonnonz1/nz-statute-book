@@ -1,5 +1,5 @@
 # Wine Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 ### 1 Title
 This Act is the Wine Act 2003.
@@ -89,9 +89,9 @@ The objects of this Act are to—
   - **wine business** means a business undertaking that, for reward or for the purposes of trade,—
     (a) makes wine; or
     (b) exports wine
-  - **wine officer** , or officer, means a person appointed as a wine officer under section 55; and includes the Director-General
+  - **wine officer** , or , means a person appointed as a wine officer under section 55; and includes the Director-General
   - **wine product** , subject to subsection (3), means a food (as defined in the Food Act 1981) containing no less than 700 ml/L of wine which has been formulated, processed, modified, or mixed with other foods such that it is not wine
-  - **wine standard** , or standard, means a standard prescribed under subpart 2 of Part 2 that specifies criteria that must be met to determine fitness for its intended purpose of any class or description of wine
+  - **wine standard** , or , means a standard prescribed under subpart 2 of Part 2 that specifies criteria that must be met to determine fitness for its intended purpose of any class or description of wine
   - **wine standards management plan** has the meaning given by section 8, and, except in subpart 1 of Part 2, is to be taken to refer to a registered wine standards management plan
   - **winemaker** means a person who, for reward (otherwise than as an employee) or for purposes of trade, makes wine.
 (2) In this Act, fit for intended purpose, used in relation to wine, means wine that has been made in accordance with the requirements of this Act and that meets any relevant wine standards and associated specifications set under subpart 2 of Part 2 and any relevant New Zealand food standards.
@@ -209,7 +209,7 @@ An operator of a wine standards management plan has the following duties:
   (d) set out appropriate and auditable documentation and record keeping:
   (e) as appropriate to the operations under the plan, contain the matters specified in, and otherwise comply with—
     (i) any relevant standard or other requirement prescribed by regulations made under this Act, and any relevant New Zealand food standard:
-    (ii) any relevant specifications set by the Director General under this Act (including location of reference material and documents recording specific procedures):
+    (ii) any relevant specifications set by the Director-General under this Act (including location of reference material and documents recording specific procedures):
   (f) cover all winemaking components and processes, and all premises and equipment:
   (g) document all processes involved in the making of wine.
 (3) In relation to hazards, a plan must demonstrate that the following matters have also been taken into account in its development:
@@ -223,7 +223,7 @@ An operator of a wine standards management plan has the following duties:
 (4) A proposed plan must also make appropriate provision for verification activities and the rights of recognised management plan verifiers, as specified by the Director-General.
 
 ### 15 Multi-business wine standards management plans
-(1) A registered wine standards management plan may apply to more than one business, if the Director-General approves.
+(1) A registered wine standards management plan may apply to more than 1 business, if the Director-General approves.
 (2) The Director-General may approve one person's wine standards management plan applying to all or part of the business or businesses of 1 or more other persons if satisfied that—
   (a) the plan is appropriate to the other businesses or part-businesses, as well as to the business of the person whose plan it is; and
   (b) the registered operator of the plan will have sufficient control, authority, and accountability for all matters covered by the plan in relation to the other businesses or part-businesses subject to its coverage; and
@@ -387,7 +387,7 @@ A person who is required to operate under a wine standards management plan must 
 (1) The operator of a registered wine standards management plan may at any time surrender registration of the plan by notice in writing to the Director-General.
 (2) Where the operator or wine business concerned ceases to operate as a wine business, that operator or wine business (or, where appropriate, the liquidator, receiver, executor, or other successor in title of the operator) must, within 20 working days of so ceasing,—
   (a) notify the Director-General in writing of that fact; and
-  (b) surrender the notice of registration to the Director General; and
+  (b) surrender the notice of registration to the Director-General; and
   (c) notify the appropriate recognised verifying agency of that fact.
 (3) At the same time as notification under subsection (1) or subsection (2), the operator or other relevant person must also notify the Director-General of how it is proposed to deal with any remaining wine covered by the wine standards management plan.
 (4) The Director-General may approve or agree to any such proposal, but may also, if appropriate, exercise any of his or her powers under section 59.
@@ -455,7 +455,7 @@ Standards and specifications set under this subpart may apply to wine products t
 (1) The Director-General may from time to time, by notice under section 120, set specifications and other detailed requirements that—
   (a) are specified or contemplated by or necessary to give effect to any prescribed standard; or
   (b) are necessary or desirable to amplify the manner in which any such standard may or must be achieved.
-(2) The Director-General may set specifications under this section only after having regard to the matters specified in section 34(1) and after appropriate consultation earned out in accordance with section 115.
+(2) The Director-General may set specifications under this section only after having regard to the matters specified in section 34(1) and after appropriate consultation carried out in accordance with section 115.
 
 ### Subpart 3 — Export of wine
 
@@ -538,9 +538,9 @@ It is the duty of every exporter of wine to which this subpart applies—
 ### 43 Form and content of official assurance
 (1) An official assurance may be in the form of a certificate or declaration or in such other form as may be determined by the Director-General.
 (2) An official assurance may relate to—
-  (a) one or more consignments of wine; or
-  (b) one or more makers or exporters of wine; or
-  (c) one or more export destinations; or
+  (a) 1 or more consignments of wine; or
+  (b) 1 or more makers or exporters of wine; or
+  (c) 1 or more export destinations; or
   (d) any combination of the above.
 (3) An official assurance may be communicated to its appropriate destination by writing, fax, electronic means, or any other form of communication that is accurate, clear, and verifiable.
 (4) The Director-General may issue notices under section 120 that set out requirements and procedures for the issue and control of official assurances.
@@ -594,7 +594,7 @@ The Director-General may designate 1 or more persons employed within the Ministr
   (c) there are other good grounds for considering that the applicant is likely in the future to fail to comply with the duties specified in section 40; or
   (d) subsection (3) applies to disqualify the person.
 (3) No person may be registered as an exporter unless—
-  (a) they area New Zealand resident within the meaning of section OE 1 or section OE 2 of the Income Tax Act 1994; or
+  (a) they are a New Zealand resident within the meaning of section OE 1 or section OE 2 of the Income Tax Act 1994; or
   (b) they have an agent who is a New Zealand resident within the meaning of those sections.
 (4) For the purpose of assessing the matters specified in subsection (2), the Director-General may require an applicant to supply information additional to that contained in the application.
 (5) If the applicant fails to supply the information within 3 months after the request, or within such further time as the Director-General may allow, the application lapses.
@@ -609,7 +609,7 @@ Where the Director-General determines to register an applicant as an exporter, t
   (a) a notice containing such particulars as will clearly inform the applicant of the substance of the grounds on which the Director-General proposes to refuse to register the applicant; and
   (b) a copy of any information on which the Director-General relies in proposing to refuse to register the applicant; and
   (c) a reasonable opportunity to make written submissions or be heard in respect of the matter.
-(2) Where the Director-General finally determines to refuse to register a person as an exporter, the Director-General must as soon as practicable notify the person, in writing, of
+(2) Where the Director-General finally determines to refuse to register a person as an exporter, the Director-General must as soon as practicable notify the person, in writing, of—
   (a) the decision; and
   (b) the reasons for the decision, and the facts or assumptions on which it is based.
 
@@ -688,7 +688,7 @@ The Director-General may from time to time issue notices as specified in section
   (e) suspends export operations of an exporter in accordance with section 52(3); or
   (f) has reasonable grounds to believe that a person who is required to be registered as an exporter under subpart 3 of Part 2 is exporting, has exported, or is about to export wine without being so registered; or
   (g) has reasonable grounds to believe that a person is exporting, has exported, or is about to export wine that does not meet relevant export eligibility requirements.
-(2) In a situation to which this section applies, the Director-General may, whether immediately before, at the same time as, or after taking any relevant action referred to in subsection (1)—
+(2) In a situation to which this section applies, the Director-General may, whether immediately before, at the same time as, or after taking any relevant action referred to in subsection (1),—
   (a) give directions to the relevant operator, person in charge (or person who reasonably appears to be in charge), owner of the wine, or exporter, or any of them, on the handling, storage, further processing, transport, identification, classification, reclassification, verification, condemnation, destruction, or disposal of the wine affected by the deregistration, surrender, suspension, or failure to register; and
   (b) if the directions are not complied with, undertake the appropriate directed activities himself or herself (through wine officers or other Ministry officers or employees) in relation to the affected wine.
 (3) The Director-General may recover all actual and reasonable costs of any activities undertaken under subsection (2)(b) from the person to whom the direction in question was given under subsection (2)(a) and who failed to comply with the direction.
@@ -703,12 +703,12 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
 **Powers of wine officers**
 
 ### 62 Power of entry
-(1) A wine officer may at any reasonable time, for the purpose of determining whether or not any person is complying with this Act, or any requirements made under this Act, or whether any wine is in compliance with the requirements of this Act or any requirements made under this Act, without a warrant enter any place (other than a dwellinghouse or marae) at, in, or from which—
+(1) A wine officer may at any reasonable time, for the purpose of determining whether or not any person is complying with this Act, or any requirements made under this Act, or whether any wine is in compliance with the requirements of this Act or any requirements made under this Act, without a warrant enter any place (other than a dwelling house or marae) at, in, or from which—
   (a) any winemaker operates, or any business that is subject to a wine standards management plan or that processes or sells food that is or includes wine, is operated; or
   (b) any exporter operates; or
   (c) any recognised agency or recognised person operates; or
   (d) the books or records, or other business information kept in writing or electronic form, of any such winemaker, wine business, exporter, recognised agency, or recognised person, are kept.
-(2) A wine officer may, pursuant to and in accordance with the conditions of a search warrant issued under section 65, enter any place (including a dwellinghouse or a marae) specified in the warrant, at any time that is reasonable in the circumstances.
+(2) A wine officer may, pursuant to and in accordance with the conditions of a search warrant issued under section 65, enter any place (including a dwelling house or a marae) specified in the warrant, at any time that is reasonable in the circumstances.
 (3) An officer who exercises any power under this section must produce his or her evidence of appointment as a wine officer, together with evidence of his or her identity,—
   (a) on first entering the place; and
   (b) whenever subsequently reasonably required to do so by a person appearing to have charge of the place or any part of the place.
@@ -737,42 +737,42 @@ The Director-General may delegate under section 41 of the State Sector Act 1988 
 (2) Where practicable in all the circumstances, the wine officer must consult with the operator or person in charge of the operations before exercising any powers under this section.
 
 ### 65 Issue of search warrant
-(1) Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant, in the form set out in Schedule 1, in respect of any place (including any dwellinghouse or marae), if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
+(1) Any District Court Judge, Community Magistrate, Justice of the Peace, or Registrar may issue a search warrant, in the form set out in Schedule 1, in respect of any place (including any dwelling house or marae), if satisfied, on application in writing made on oath, that there are reasonable grounds for believing that there is at that place any thing—
   (a) in respect of which an offence under this Act has been or is being committed; or
   (b) that has been, is being, or is intended to be used by any person for the commission of an offence under this Act; or
   (c) that is or may be evidence of the commission of an offence under this Act by any person.
 (2) The Judge, Community Magistrate, Justice, or Registrar may impose such reasonable conditions on the exercise of the warrant as he or she thinks fit.
-(3) A search warrant must be directed to a member of the police by name, or to every member of the police, or to a wine officer by name, but, in any of these cases, the warrant may be executed by any member of the police.
+(3) A search warrant must be directed to a constable by name, or to every constable, or to a wine officer by name, but, in any of these cases, the warrant may be executed by any constable.
 
-### 66 Powers of police and wine officers under warrant
-(1) Subject to any conditions imposed on the warrant, a search warrant authorises the member of the police or wine officer who is executing it, and any person called on by that member or officer to assist,—
-  (a) to enter the place, dwellinghouse, or marae on 1 occasion within 14 days after the date of the issue of the warrant at any time that is reasonable in the circumstances; and
+### 66 Powers of Police and wine officers under warrant
+(1) Subject to any conditions imposed on the warrant, a search warrant authorises the constable or wine officer who is executing it, and any person called on by that constable or officer to assist,—
+  (a) to enter the place, dwelling house, or marae on 1 occasion within 14 days after the date of the issue of the warrant at any time that is reasonable in the circumstances; and
   (b) to use such force as is reasonable in the circumstances, both for making entry and for breaking open anything on the premises; and
   (c) to search for and seize—
-    (i) any wine, substance, equipment, or other thing that the member or officer has reasonable grounds to suspect has been used or is to be used in, or evidences the commission of, an offence under this Act:
+    (i) any wine, substance, equipment, or other thing that the constable or officer has reasonable grounds to suspect has been used or is to be used in, or evidences the commission of, an offence under this Act:
     (ii) any documents or records (including documents and records in electronic or other form) that the officer has reasonable grounds to suspect may provide evidence of the commission of an offence under this Act; and
-  (d) to take any photographs, and make any drawings or other representations of any wine, structure, substance, equipment, container, packaging, label, or other thing, if the member or officer has reasonable grounds to suspect that object or thing in question is in breach of any requirement to this Act; and
+  (d) to take any photographs, and make any drawings or other representations of any wine, structure, substance, equipment, container, packaging, label, or other thing, if the constable or officer has reasonable grounds to suspect that object or thing in question is in breach of any requirement to this Act; and
   (e) to exercise all of the powers of a wine officer under sections 63 and 64, or only such of those powers as are specified in the warrant.
-(2) Where the place, dwellinghouse, or marae is occupied at the time, the member of police or wine officer must, before using any force for the purpose of making entry under subsection (1)(b), warn the occupant of the intention to use force if the occupant obstructs entry.
-(3) A member of the police must be present if the search warrant is executed at a dwellinghouse or marae.
-(4) A member of the police or a wine officer may call on any person to assist him or her in the execution of a search warrant. Such a person may act only under the supervision and in accordance with the instructions of the member of the police or wine officer.
+(2) Where the place, dwelling house, or marae is occupied at the time, the constable or wine officer must, before using any force for the purpose of making entry under subsection (1)(b), warn the occupant of the intention to use force if the occupant obstructs entry.
+(3) A constable must be present if the search warrant is executed at a dwelling house or marae.
+(4) A constable or a wine officer may call on any person to assist him or her in the execution of a search warrant. Such a person may act only under the supervision and in accordance with the instructions of the constable or wine officer.
 
 ### 67 Requirements when executing warrant
-(1) Any member of the police or wine officer who executes a search warrant must carry the warrant with him or her, and produce it for inspection, along with evidence of his or her identity,—
+(1) Any constable or wine officer who executes a search warrant must carry the warrant with him or her, and produce it for inspection, along with evidence of his or her identity,—
   (a) on first entering the place specified in the warrant, to the person appearing to be in charge of the place; and
   (b) whenever subsequently reasonably required to do so, at the place specified in the warrant, by any other person appearing to be in charge of the place or any part of the place.
-(2) If the occupier of the place is not present at the time the search warrant is executed, the member of the police or wine officer must leave in a prominent location at the place a written statement of the time and date of the search, the name of the member of the police or wine officer, and the address of the police station or other office to which enquiries should be made.
-(3) If anything is seized in the execution of a search warrant, the member of the police or wine officer executing the search warrant must leave in a prominent location at the place, or deliver or send by registered mail to the occupier within 10 working days after the search, a written inventory of all things seized.
-(4) A member of the police or wine officer who is exercising a power of entry in relation to a marae or a building associated with a marae must have regard to the kawa of the marae so far as is practicable in the circumstances.
+(2) If the occupier of the place is not present at the time the search warrant is executed, the constable or wine officer must leave in a prominent location at the place a written statement of the time and date of the search, the name of the constable or wine officer, and the address of the Police station or other office to which enquiries should be made.
+(3) If anything is seized in the execution of a search warrant, the constable or wine officer executing the search warrant must leave in a prominent location at the place, or deliver or send by registered mail to the occupier within 10 working days after the search, a written inventory of all things seized.
+(4) A constable or wine officer who is exercising a power of entry in relation to a marae or a building associated with a marae must have regard to the kawa of the marae so far as is practicable in the circumstances.
 
 ### 68 Disposal of property seized under search warrant
-Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a member of the police under a search warrant and, with any necessary modifications, to property seized under a search warrant by a wine officer, subject to the following provisions:
-  (a) if a member of the police seized the item in question, it may be retained by the Commissioner of Police pending the trial of the person for the offence in respect of which the item was seized:
+Section 199 of the Summary Proceedings Act 1957 applies to any property seized by a constable under a search warrant and, with any necessary modifications, to property seized under a search warrant by a wine officer, subject to the following provisions:
+  (a) if a constable seized the item in question, it may be retained by the Commissioner of Police pending the trial of the person for the offence in respect of which the item was seized:
   (b) if a wine officer seized the item in question, it may be retained by the Director-General pending the trial of the person for the offence in respect of which the item was seized:
   (c) the item in question must be returned to the person from whom it was seized—
     (i) if no proceedings are taken in respect of an offence to which the item relates within 2 years after its seizure; or
     (ii) if proceedings are completed in respect of such an offence and no order of forfeiture is made in respect of the item:
-  (d) if any person is convicted of an offence to which the item relates, the Court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the Court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General in retaining the item.
+  (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the Commissioner of Police or the Director-General in retaining the item.
 
 **Recognised agencies and persons**
 
@@ -977,22 +977,22 @@ The methods by which costs may be recovered under this subpart are as follows:
 ### 89 Regulations may impose levies
 (1) Regulations may be made under this Act, on the recommendation of the Minister, prescribing levies for the purposes of this Act.
 (2) Different levies or rates of levy or bases on which an amount of levy is to be calculated or ascertained may be prescribed for different purposes, and different levies or rates of levy or bases for calculation may be set for different classes or descriptions of wine, persons or businesses, operations, or other matters, or any combination of them.
-(3) Without limiting the generality of subsection (1), regulations imposing levies may—and provide for related matters, including procedures and remuneration for arbitrators or mediators.
+(3) Without limiting the generality of subsection (1), regulations imposing levies may—
   (a) specify when and how any levy is to be paid:
   (b) require that any levy, or estimated amount of levy, be paid in advance of performance of the services or functions to which it relates:
   (c) specify persons, other than persons primarily responsible for paying the levy, who are to be responsible for collecting a levy, and provide for retention of any part of the levy money collected as a fee for that service:
   (d) require, or empower the Director-General to require, the provision of information and returns in relation to levies:
   (e) require the keeping of separate trust accounts for levy money received or deducted by persons responsible for collecting levies, and prescribe matters in relation to those trust accounts:
-  (f) prescribe a method of arbitration or mediation in the case of disputes as to—
+  (f) prescribe a method of arbitration or mediation in the case of disputes as to—and provide for related matters, including procedures and remuneration for arbitrators or mediators.
     (i) whether or not any person is required to pay, or collect, the levy concerned; or
-    (ii) the amount of levy any person is required to pay or collect;
+    (ii) the amount of levy any person is required to pay or collect;—
 (4) The Minister may not recommend the making of regulations under this section unless satisfied that, to the extent appropriate in the circumstances, the requirements of sections 84 and 86 have been met.
 (5) Nothing in this section or in this subpart affects the power of persons within the winemaking industry to determine to introduce and impose a levy on wine in accordance with section 111.
 
 ### 90 Trust accounts required to be kept by persons collecting levies
 (1) If regulations made under section 89 require the operation of a trust account for any levy money by the person responsible for collecting the levy,—
   (a) any amount held in such an account that is due to be paid to the Director-General by the levy collector is to be treated as levy money held on trust for the Director-General; and
-  (b) any amount so held on trust is not available for the payment of any creditor (other than the Director-General ) of the levy collector, and is not liable to be attached or taken in execution at the instance of any such creditor; and
+  (b) any amount so held on trust is not available for the payment of any creditor (other than the Director-General) of the levy collector, and is not liable to be attached or taken in execution at the instance of any such creditor; and
   (c) a person who ceases to be a person responsible for collecting a levy must continue to maintain the trust account until all the levy money payable to the Director-General in respect of the period during which the person was responsible for collecting the levy has been paid.
 (2) Nothing in subsection (1)(c) affects any obligation or liability under this Act of any other person who has become responsible for collecting the levy concerned.
 
@@ -1017,7 +1017,7 @@ Any fee, levy, or charge that has become payable is a debt due to the Director-G
 ### 94 Penalties for failure to pay fee, levy, or charge
 (1) If a person has failed to pay to the Director-General by the due date any fee, levy, or charge payable under this subpart,—
   (a) section 14 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997 applies to increase the amount payable; and
-  (b) section 15 of that Act applies to allow the Director-General , in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
+  (b) section 15 of that Act applies to allow the Director-General, in appropriate cases, to waive the payment of all or any of the amount of any such increase; and
   (c) section 16 of that Act applies to allow the Director-General to withdraw, or refuse to provide the person in default with, any service of the kind to which the debt relates.
 (2) For the purposes of subsection (1)(c) of this section and section 16 of the Ministries of Agriculture and Forestry (Restructuring) Act 1997, and without limiting the generality of that section 16, the references in those provisions to the withdrawal or refusal to provide any service are to be treated as also authorising the Director-General, in an appropriate case, to—
   (a) withhold or suspend any approval under this Act, or refuse to perform any function under this Act in relation to the person in default:
@@ -1117,13 +1117,13 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 (1) In any prosecution for an offence against section 102 or section 103, it is a defence if the defendant proves that—
   (a) the breach or failure concerned was due to the act or omission of another person, or to an accident or some other cause outside the defendant's control; and
   (b) the defendant took reasonable precautions and exercised due diligence to avoid the breach or failure, or breaches or failures of that kind.
-(2) A defence under subsection (1) is available only if, at least 14 days before the date on which the hearing of the proceedings commences or within such further time as the Court may allow, the defendant delivers to the prosecutor a written notice that—
+(2) A defence under subsection (1) is available only if, at least 14 days before the date on which the hearing of the proceedings commences or within such further time as the court may allow, the defendant delivers to the prosecutor a written notice that—
   (a) states that the defendant intends to rely on the relevant defence; and
   (b) specifies the nature of the act or omission constituting the relevant breach or failure and the precautions taken against such breaches or failures.
 
 ### 105 Evidence in proceedings
 (1) In any proceedings for an offence under this Act, a certificate or document (including electronic copy) of any of the following kinds is admissible in evidence and, in the absence of proof to the contrary, is sufficient evidence of the matter stated in the certificate or of the contents of the document, as the case may require:
-  (a) a certificate purporting to be signed by the Director-General , or by a delegate of the Director-General, to the effect that, at any specified date or period,—
+  (a) a certificate purporting to be signed by the Director-General, or by a delegate of the Director-General, to the effect that, at any specified date or period,—
     (i) a named person or body is or was, or is not or was not, a wine officer, a recognised verifying agency, a recognised person, a recognised agency, or an employee of the Ministry; or
     (ii) a specified wine standards management plan was or was not registered or was or was not amended, deregistered, or surrendered under subpart 1 of Part 2; or
     (iii) a named person was or was not registered as an exporter under subpart 3 of Part 2, or the person's registration was or was not removed or surrendered; or
@@ -1151,15 +1151,15 @@ The obligation of a person to pay any fee, levy, or charge under this Act (inclu
 
 ### 106 Presumption as to authority
 (1) A return, record, transaction, form, application, or other information purporting to be completed, kept, or provided by or on behalf of a person is for the purposes of this Act to be presumed to have been completed, kept, or provided by that person unless the contrary is proved.
-(2) The production of—
-  (a) a document presented by a wine officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with section 116 or section 120, or a copy, of any such notice or extract; and
-  (b) a copy of the Gazette in which the notice was notified is in all courts and in all proceedings sufficient evidence, until the contrary is proved, of the existence, notification, and contents of the notice.
+(2) The production of—is in all courts and in all proceedings sufficient evidence, until the contrary is proved, of the existence, notification, and contents of the notice.
+  (a) a document presented by a wine officer purporting to be a notice or an extract from a notice issued by the Director-General in accordance with section 116 or section 120, or a copy of any such notice or extract; and
+  (b) a copy of the Gazette in which the notice was notified—
 
 ### 107 Liability of body corporate
 If, in the course of proceedings against a body corporate for an offence under this Act, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, employee, or agent of the body corporate, acting within the scope of that person's actual or apparent authority, had that state of mind.
 
 ### 108 Liability of directors and managers of companies
-Where a body corporate is convicted of an offence under this Act, every director and every person concerned in the management of the body corporate is also guilty of alike offence if it is proved that—
+Where a body corporate is convicted of an offence under this Act, every director and every person concerned in the management of the body corporate is also guilty of a like offence if it is proved that—
   (a) the act or omission that constituted the offence took place with the authority, permission, or consent of the director or person; or
   (b) the director or person knew that the offence was to be or was being committed, and failed to take all reasonable steps to prevent or stop it.
 
@@ -1250,7 +1250,7 @@ A person who is required by or under section 112 to keep records or any other in
 
 ### 116 Notification of certain matters
 (1) This section applies to notices issued by the Director-General that are of a kind listed in section 120.
-(2) Where any notice to. which this section applies affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
+(2) Where any notice to which this section applies affects only 1 person or a small number of persons, and the identity of those persons is known, the Director-General must—
   (a) notify the persons of the matter individually in accordance with section 117; and
   (b) either—
     (i) supply them with a copy of the specifications, requirements, exemption, or other matter concerned; or
@@ -1282,7 +1282,7 @@ A person who is required by or under section 112 to keep records or any other in
   (a) the notification must clearly identify the relevant person or class of relevant persons the notification is intended for; and
   (b) it is deemed to have been given to the relevant person or persons if given within a reasonable time before the notification is required to be acted upon; and
   (c) the employer is under a duty to inform the relevant person, or all persons of the relevant class, of the content of the notification as soon as reasonably practicable having regard to the tenor of the notification.
-(5) For the purposes of subsections (3) and (4), within a reasonable time means
+(5) For the purposes of subsections (3) and (4), within a reasonable time means—
   (a) within 7 days; or
   (b) within such greater or lesser period, or at such greater or lesser intervals in relation to groups of notifications, as may have been generally agreed between the Director-General and the employer, or notified by the Director-General to the employer, in respect of notifications of that kind.
 (6) In this section, employer, in relation to the relevant person, includes—
@@ -1359,12 +1359,7 @@ The Wine Makers Act 1981 is repealed, subject to section 129.
 
 ### 123 Wine Makers Levy Act 1976 repealed
 (1) The Wine Makers Levy Act 1976 is repealed.
-(2) Pending the commencement of subsection (1), the Wine Makers Levy Act 1976 is amended—
-  (a) by omitting from section 2 the definitions of wine and wine maker, and substituting the following definitions:
-    - **wine** means grape wine as defined in the Wine Act 2003
-    - **wine maker** means a person who, for reward (otherwise than as an employee) or for purposes of trade, makes grape wine
-  (b) by omitting from section 6(1) the words holder of a grape wine licence, and substituting the words wine maker
-  (c) by omitting from section 8(2) the words and the District Licensing Agency.
+(2) Amendment(s) incorporated in the Act(s).
 (3) Nothing in subsection (1) affects any liability arising before the date of commencement of that subsection.
 (4) On the commencement of subsection (1), all the rights, and liabilities of the trustee under the Wine Makers Levy Act 1976 are transferred to the Wine Institute of New Zealand Inc (the Institute), and for the purpose of exercising any of those rights or dealing with any of those liabilities the Institute (or its successor in title) is deemed to be the same person as the trustee under that Act.
 (5) Within 5 working days before the commencement of subsection (1), the trustee under the Wine Makers Levy Act 1976 must transfer all assets held as trustee to the Institute.
@@ -1374,26 +1369,19 @@ The Wine Makers Act 1981 is repealed, subject to section 129.
 (2) The Alcohol Advisory Council Act 1976 is amended in the manner indicated in Part 2 of Schedule 2 with effect on the close of 30 June 2004.
 
 ### 125 Food Act 1981 amended
-The Food Act 1981 is amended by inserting, after section 8AA, the following section:Relationship between this Part and Wine Act 2003
-  The following persons are exempt from the requirements of the Food Hygiene Regulations 1974, and therefore from the application of this Part, in respect of any operations carried out under a wine standards management plan registered under subpart 1 of Part 2 of the Wine Act 2003:
-    (a) winemakers (as defined in section 4 of that Act):
-    (b) makers of wine products (as defined in section 4 of that Act):
-    (c) any other person who is required to operate under a wine standards management plan under section 12 of that Act.
+Amendment(s) incorporated in the Act(s).
 
 ### 126 Privacy Act 1993 amended
-Part 1 of Schedule 2 of the Privacy Act 1993 is amended by adding the following item:Wine Act 2003Sections 17, 47, and 73
+Amendment(s) incorporated in the Act(s).
 
 ### 127 Customs and Excise Regulations 1996 amended
-(1) Regulation 6 of the Customs and Excise Regulations 1996 (SR 1996/232) is amended by revoking paragraph (a), and substituting the following paragraph:
-  (a) the storage by or for the manufacturer of wine (as defined in section 4 of the Wine Act 2003) manufactured in New Zealand, where the wine cannot be physically accommodated within the manufacturing area in which it was manufactured:.
-(2) Form 1 in the Schedule 2 of the Customs and Excise Regulations 1996 is amended by revoking clause 2(f), and substituting the following paragraph:.
-  (f) the storage by or for the manufacturer of wine (as defined in section 4 of the Wine Act 2003) manufactured in New Zealand, where the wine cannot be physically accommodated within the manufacturing area in which it was manufactured:
+Amendment(s) incorporated in the regulations.
 
 ### 128 Wine Makers Regulations 1990 revoked
 The Wine Makers Regulations 1990 (SR 1990/77) are revoked, subject to section 129.
 
 ### 129 Saving of provisions of Wine Makers Act 1981 and Wine Makers Regulations 1990 as export eligibility requirement regulations, etc
-(1) Despite sections 122 and 128, sections 25 and 26 of the Wine Makers Act 1981 and regulations 11 to 17 and forms 12 to 16 in the Schedule of the Wine Makers Regulations 1990 are deemed to continue in force as if they were regulations made under section 119(1)(d) of this Act.
+(1) Despite sections 122 and 128, sections 25 and 26 of the Wine Makers Act 1981 and regulations 11 to 17 and forms 12 to 16 of the Schedule of the Wine Makers Regulations 1990 are deemed to continue in force as if they were regulations made under section 119(1)(d) of this Act.
 (2) Regulations made under section 119 may amend, revoke, or replace those sections and regulations accordingly.
 (3) Any overseas market access requirements notified or made available by the Director-General under section 26A of the Wine Makers Act 1981, and any notices given by the Director-General under that section, are deemed to have been notified or made available by the Director-General under section 41 of this Act.
 
@@ -1416,12 +1404,3 @@ Despite section 86(1)(a), regulations under this Act may set a fee, charge, or l
 ## Schedule 1 — Form of search warrant
 
 ## Schedule 2 — Amendments to Alcohol Advisory Council Act 1976
-
-### 29A Payment and collection of levies in respect of beer, wine, and spirits
-(1) All levies payable under this Act in respect of any beer, wine, or spirits are payable to the Customs in addition to any duty payable to the Customs in respect of the beer, wine, or spirits under the Customs and Excise Act 1996.
-(2) For the purposes of subsection (1), the levies are payable to the Customs at the same time as the excise duty or excise equivalent duty is payable under the Customs and Excise Act 1996 in respect of the beer, wine, or spirits concerned.
-
-### 34 Crown may be reimbursed for collection of levies
-(1) Subject to subsection (2), for the purpose of reimbursing the Crown for any expenses incurred by the Customs in collecting any levies under this Act, the Customs may retain such percentage of every levy collected by it as may be determined by the Minister of Finance after consultation with the Council.
-(2) The amount of any levy retained under subsection (1) must not exceed 5% of the amount of the levies collected by the Customs.
-(3) The Crown is entitled in every financial year to recover from the Council out of the fund such sum in respect of the costs incurred by the Director-General of Health in administering this Act as may be determined by the Minister of Finance after consultation with the Council.
