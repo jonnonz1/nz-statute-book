@@ -1,5 +1,5 @@
 # Boxing and Wrestling Act 1981
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-01_
 
 > An Act to make better provision for regulating the promotion and conduct of boxing and wrestling contests, and to abolish the regulation of certain amateur wrestling contests
 
@@ -9,38 +9,38 @@ _Consolidation as at 2007-09-03_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Association** means any club or other body of persons (whether corporate or unincorporate) who have joined together with the intention of promoting or conducting a contest
-  - **Boxing or wrestling** means those forms of physical combat commonly known as boxing or, as the case may be, wrestling; but does not include any of those forms of physical combat commonly known as the Asian martial arts
-  - **Contest** means a boxing contest or a wrestling contest, as the case may require, being any boxing or wrestling match, competition, or exhibition to which a charge is made for admission or at which a collection is taken up, or at which those present are invited or permitted to contribute money or to throw money into the ring or to otherwise deposit it in the building where the contest is held or elsewhere, or on the result of which any stake, payment, or prize depends
+  - **association** means any club or other body of persons (whether corporate or unincorporate) who have joined together with the intention of promoting or conducting a contest
+  - **boxing or wrestling** means those forms of physical combat commonly known as boxing or, as the case may be, wrestling; but does not include any of those forms of physical combat commonly known as the Asian martial arts
+  - **contest** means a boxing contest or a wrestling contest, as the case may require, being any boxing or wrestling match, competition, or exhibition to which a charge is made for admission or at which a collection is taken up, or at which those present are invited or permitted to contribute money or to throw money into the ring or to otherwise deposit it in the building where the contest is held or elsewhere, or on the result of which any stake, payment, or prize depends
   - **Minister** means the Minister of Internal Affairs.
 (2) Nothing in this Act shall be construed as limiting or affecting the provisions of the Gambling Act 2003.
 
 ### 3 Permit for contest
-(1) No contest shall be promoted or conducted except in pursuance of a permit granted by a commissioned officer of Police of the district in which it is to be so promoted or conducted.
-(2) Such a permit may be granted, upon application, only to an association approved for that purpose by the Minister pursuant to section 4 of this Act.
+(1) No contest shall be promoted or conducted except in pursuance of a permit granted by a constable who is of or above the level of position of inspector of the district in which it is to be so promoted or conducted.
+(2) Such a permit may be granted, upon application, only to an association approved for that purpose by the Minister pursuant to section 4.
 
 ### 4 Approval of associations
 (1) An association may make application to the Minister to be approved for the promotion or conduct of contests.
 (2) Every application shall be made by a duly authorised member, officer, or agent of the association, and shall be accompanied by the prescribed fee (if any) and by 2 copies, or such other number of copies as may be prescribed, of—
-  (a) The names and addresses of the members of the executive committee, board of directors, or other governing body, and of the officers engaged in the management of the association:
-  (b) The constitution, articles, or rules, or proposed constitution, articles, or rules, of the association:
-  (c) The rules under which it is proposed to promote or conduct contests:
-  (d) Such other information as the Minister thinks necessary to assist him in considering the application.
-(3) In considering any application under subsection (1) of this section, the Minister may have regard to—
-  (a) The suitability of the constitution, articles, or rules, or proposed constitution, articles, or rules, of the association, subject to any regulations made under this Act:
-  (b) The suitability of the rules under which it is proposed to promote or conduct contests, subject to any regulations made under this Act:
-  (c) Any recommendations made by the Commissioner of Police in relation to the application:
-  (d) Such other matters as he considers relevant.
+  (a) the names and addresses of the members of the executive committee, board of directors, or other governing body, and of the officers engaged in the management of the association:
+  (b) the constitution, articles, or rules, or proposed constitution, articles, or rules, of the association:
+  (c) the rules under which it is proposed to promote or conduct contests:
+  (d) such other information as the Minister thinks necessary to assist him in considering the application.
+(3) In considering any application under subsection (1), the Minister may have regard to—
+  (a) the suitability of the constitution, articles, or rules, or proposed constitution, articles, or rules, of the association, subject to any regulations made under this Act:
+  (b) the suitability of the rules under which it is proposed to promote or conduct contests, subject to any regulations made under this Act:
+  (c) any recommendations made by the Commissioner of Police in relation to the application:
+  (d) such other matters as he considers relevant.
 (4) The Minister may approve or refuse to approve any association for the purposes of this Act; and any approval granted under this section may be withdrawn at any time where, in the opinion of the Minister, the public interest requires it, or where the association no longer acts as an association or has been wound up or dissolved or is convicted of an offence against this Act or regulations made under it.
 
 ### 5 Change in rules
-(1) Where any association that has been approved by the Minister pursuant to section 4 of this Act proposes to change its constitution, articles, or rules, or the rules under which contests are promoted or conducted by it, it may submit to the Minister 2 copies of the proposed changes; and the Minister shall indicate whether or not, if the changes were to be made, he would continue his approval of the association for the purposes of this Act, or, as the case may require, he may suggest any amendments to the proposal which would be required for him to continue his approval.
+(1) Where any association that has been approved by the Minister pursuant to section 4 proposes to change its constitution, articles, or rules, or the rules under which contests are promoted or conducted by it, it may submit to the Minister 2 copies of the proposed changes; and the Minister shall indicate whether or not, if the changes were to be made, he would continue his approval of the association for the purposes of this Act, or, as the case may require, he may suggest any amendments to the proposal which would be required for him to continue his approval.
 (2) Where any association has made any change to its constitution, articles, or rules, or to the rules under which contests are promoted or conducted by it, the association shall submit forthwith to the Minister 2 copies in writing of the changes as adopted by the association and certified by its principal officer accordingly.
-(3) Upon receiving notification under subsection (2) of this section of a change in the constitution, articles, or rules of the association, or the rules under which contests are promoted or conducted by it, the Minister may continue or withdraw his approval of the association for the purposes of this Act.
-(4) Where any association fails to submit notice of any change made to its constitution, articles, or rules, or to the rules under which contests are promoted or conducted by it, as required under subsection (2) of this section, the Minister may withdraw his approval of the association for the purposes of this Act.
+(3) Upon receiving notification under subsection (2) of a change in the constitution, articles, or rules of the association, or the rules under which contests are promoted or conducted by it, the Minister may continue or withdraw his approval of the association for the purposes of this Act.
+(4) Where any association fails to submit notice of any change made to its constitution, articles, or rules, or to the rules under which contests are promoted or conducted by it, as required under subsection (2), the Minister may withdraw his approval of the association for the purposes of this Act.
 
 ### 6 Conduct of contest
-(1) Every contest shall be conducted in accordance with the rules submitted under section 4(2) of this Act (as changed, as the case may be, under section 5 of this Act) by the association (being an association approved by the Minister) on whose application the permit for the contest was granted, and also in accordance with any regulations made under this Act.
+(1) Every contest shall be conducted in accordance with the rules submitted under section 4(2) (as changed, as the case may be, under section 5) by the association (being an association approved by the Minister) on whose application the permit for the contest was granted, and also in accordance with any regulations made under this Act.
 (2) A copy of the permit granted shall be posted up in a conspicuous position at the main entrance of the building or other place in which the contest is conducted.
 
 ### 7 Offences
@@ -54,23 +54,23 @@ Every person who commits an offence against this Act is liable on summary convic
 Any District Court Judge or Justice or Community Magistrate, or any Registrar of a District Court (not being a constable), may issue a search warrant, if, on application in writing made on oath, he is satisfied that there is reasonable ground for believing that on any premises a contest is being conducted in breach of this Act or any regulations made under it; and the provisions of sections 198 and 199 of the Summary Proceedings Act 1957 shall apply accordingly.
 
 ### 10 Police may arrest persons found on premises
-In any case to which section 9 of this Act applies, the member of the Police executing the warrant or any of his assistants may, without further warrant, arrest any person found on the premises if he has reasonable ground to believe that that person is committing or has committed an offence against this Act or any regulations made under it.
+In any case to which section 9 applies, the constable executing the warrant or any of his assistants may, without further warrant, arrest any person found on the premises if he has reasonable ground to believe that that person is committing or has committed an offence against this Act or any regulations made under it.
 
 ### 11 Regulations
 The Governor-General may, from time to time by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing the constitution, articles, rules, powers, or functions of associations generally:
-  (b) Prescribing fees payable by an association in respect of any application made under this Act:
-  (c) Prescribing rules for the promotion or conduct of contests:
-  (d) Prescribing offences in respect of contravention of or non-compliance with any regulations made under this Act; and prescribing penalties not exceeding the amount specified in section 8 of this Act in respect of any offences prescribed under this paragraph:
-  (e) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+  (a) prescribing the constitution, articles, rules, powers, or functions of associations generally:
+  (b) prescribing fees payable by an association in respect of any application made under this Act:
+  (c) prescribing rules for the promotion or conduct of contests:
+  (d) prescribing offences in respect of contravention of or non-compliance with any regulations made under this Act; and prescribing penalties not exceeding the amount specified in section 8 in respect of any offences prescribed under this paragraph:
+  (e) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 12 Repeals, amendment, revocation, and savings
-(1) The enactments specified in the Schedule to this Act are hereby repealed.
-(2) The heading to Part 3 of the Police Offences Act 1927 is hereby consequentially amended by omitting the words AND BOXING AND WRESTLING CONTESTS.
+(1) The enactments specified in the Schedule are hereby repealed.
+(2) Amendment(s) incorporated in the Act(s).
 (3) The Boxing and Wrestling Regulations 1958, Amendment No 2 is hereby consequentially revoked.
-(4) Without limiting anything in the Acts Interpretation Act 1924, the Boxing and Wrestling Regulations 1958 shall, notwithstanding the repeal of section 71 of the Police Offences Act 1927 by subsection (1) of this section, continue in force and have the same effect and may be amended as if they had been made pursuant to section 11 of this Act except so far as section 1(2) of this Act excludes their application.
+(4) Without limiting anything in the Acts and Regulations Publication Act 1989, the Boxing and Wrestling Regulations 1958 shall, notwithstanding the repeal of section 71 of the Police Offences Act 1927 by subsection (1), continue in force and have the same effect and may be amended as if they had been made pursuant to section 11 of this Act except so far as section 1(2) of this Act excludes their application.
 (5) Every club or association which, as at the commencement of this Act, is approved by the Minister pursuant to the Police Offences Act 1927 to hold or conduct a boxing contest or a wrestling contest shall—as at the day this Act comes into force.
-  (a) Be deemed to be an association approved for the purposes of this Act; and
-  (b) Be deemed to have an approved constitution, articles, or rules, and rules under which contests are promoted or conducted by it,—
+  (a) be deemed to be an association approved for the purposes of this Act; and
+  (b) be deemed to have an approved constitution, articles, or rules, and rules under which contests are promoted or conducted by it,—
 
 ## Schedule Schedule — Enactments repealed
