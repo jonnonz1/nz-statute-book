@@ -1,5 +1,5 @@
 # Fisheries Act 1996
-_Consolidation as at 2008-09-28_
+_Consolidation as at 2008-10-01_
 
 > An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
 
@@ -6600,6 +6600,9 @@ All positions and directions described in this Schedule are based on a geographi
 | Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken if— |  |
 |  |  |  | (a) that porbeagle shark is likely to survive on return; and |
 |  |  |  | (b) the return takes place as soon as practicable after the porbeagle shark is taken. |
+| Prawn killer (Ibacus alticrenatus) | All New Zealand fisheries waters | A commercial fisher may return any prawn killer to the waters from which it was taken if— |  |
+|  |  |  | (a) that prawn killer is likely to survive on return; and |
+|  |  |  | (b) the return takes place as soon as practicable after the prawn killer is taken. |
 | Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters |  | A commercial fisher may return any queen scallop to the waters from which it is taken if— |
 |  |  |  | (a) the queen scallop is likely to survive the return: and |
 |  |  |  | (b) the return takes place as soon as practicable after the queen scallop is taken. |
