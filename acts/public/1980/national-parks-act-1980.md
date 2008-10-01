@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -545,7 +545,7 @@ The Director-General may amend or revoke a dog control permit issued under secti
 
 ### 56E Persons authorised to take dogs into national park area without dog control permit
 (1) Any person being—may, in the course of his or her official duties or in the course of his or her training for those duties and without being the holder of a dog control permit, take a dog into a national park.
-  (a) A member of the Police; or
+  (a) A Police employee; or
   (b) A ranger; or
   (c) An officer or employee of the Department; or
   (d) A Customs Officer; or
