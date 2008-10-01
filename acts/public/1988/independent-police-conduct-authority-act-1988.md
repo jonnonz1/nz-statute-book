@@ -1,5 +1,5 @@
 # Independent Police Conduct Authority Act 1988
-_Consolidation as at 2007-11-29_
+_Consolidation as at 2008-10-01_
 
 > An Act to make better provision for the investigation and resolution of complaints against the Police by establishing the Independent Police Conduct Authority
 
@@ -11,7 +11,7 @@ _Consolidation as at 2007-11-29_
 In this Act, unless the context otherwise requires,—
   - **Authority** means the Independent Police Conduct Authority established under section 4
   - **chairperson** means the chairperson of the Authority appointed under section 5A(1).
-  - **Commissioner** means the Commissioner of Police appointed under the Police Act 1958
+  - **Commissioner** means the Commissioner of Police appointed under the Policing Act 2008
   - **member** means a member of the Authority appointed under section 5(1); and includes the chairperson.
 
 ### 3 Act to bind the Crown
@@ -97,21 +97,21 @@ The income of the Authority shall be exempt from income tax.
 ### 12 Functions of Authority
 (1) The functions of the Authority shall be—
   (a) To receive complaints—
-    (i) Alleging any misconduct or neglect of duty by any member of the Police; or
+    (i) Alleging any misconduct or neglect of duty by any Police employee; or
     (ii) Concerning any practice, policy, or procedure of the Police affecting the person or body of persons making the complaint in a personal capacity:
   (b) To investigate of its own motion, where it is satisfied that there are reasonable grounds to carry out an investigation in the public interest, any incident involving death or serious bodily harm notified to the Authority by the Commissioner under section 13 of this Act:
   (c) To take such action in respect of complaints, incidents, and other matters as is contemplated by this Act.
-(2) In the course of taking action in respect of any complaint the Authority may investigate any apparent misconduct or neglect of duty by a member of the Police, or any Police practice, policy, or procedure, which appears to the Authority to relate to the complaint, notwithstanding that the complaint itself does not refer to that misconduct, neglect, practice, policy, or procedure.
+(2) In the course of taking action in respect of any complaint the Authority may investigate any apparent misconduct or neglect of duty by a Police employee, or any Police practice, policy, or procedure, which appears to the Authority to relate to the complaint, notwithstanding that the complaint itself does not refer to that misconduct, neglect, practice, policy, or procedure.
 (2A) The Authority may receive complaints relating to a matter specified in subsection (1)(a) that occurred before, on, or after 1 April 1989.
-(3) Nothing in subsection (1) of this section shall authorise the Authority to investigate any matter relating to the terms and conditions of service of any person as a member of the Police.
+(3) Nothing in subsection (1) of this section shall authorise the Authority to investigate any matter relating to the terms and conditions of service of any person as a Police employee.
 
 ### 13 Duty of Commissioner to notify Authority of certain incidents involving death or serious bodily harm
-Where a member of the Police acting in the execution of his or her duty causes, or appears to have caused, death or serious bodily harm to any person, the Commissioner shall as soon as practicable give to the Authority a written notice setting out particulars of the incident in which the death or serious bodily harm was caused.
+Where a Police employee acting in the execution of his or her duty causes, or appears to have caused, death or serious bodily harm to any person, the Commissioner shall as soon as practicable give to the Authority a written notice setting out particulars of the incident in which the death or serious bodily harm was caused.
 
 ### 14 Mode of complaint
 (1) A complaint may be made either orally or in writing.
 (2) A complaint made orally shall be reduced to writing as soon as practicable.
-(3) A complaint may be made to the Authority, to any member of the Police, to an Ombudsman, or, where the complaint is in writing, to the Registrar or Deputy Registrar of any District Court.
+(3) A complaint may be made to the Authority, to any Police employee, to an Ombudsman, or, where the complaint is in writing, to the Registrar or Deputy Registrar of any District Court.
 (4) Any Ombudsman or Registrar or Deputy Registrar to whom a complaint is made shall forward it to the Authority as soon as practicable.
 (5) Notwithstanding any provision in any enactment, where any letter appearing to be written by or on behalf of—is addressed to the Authority, the person for the time being in charge of the place or institution where the person is in custody or is a patient shall immediately forward the letter, unopened, to the Authority.
   (a) A person in custody on a charge or after conviction of any offence; or
@@ -137,7 +137,7 @@ The Authority shall notify the Commissioner as soon as practicable of every comp
   (a) A complaint is made to the Police; and
   (b) The Authority decides to adopt the procedure provided for in paragraph (a) or paragraph (b) or paragraph (c) or paragraph (ca) of subsection (1) of this section; and
   (c) The Authority is satisfied that the Police will inform the complainant of the procedure to be followed,—
-(3) Where any complaint appears to the Authority to be capable of resolution by conciliation in accordance with any conciliation procedure established by or under the Police Act 1958, it may indicate that view to the Commissioner.
+(3) Where any complaint appears to the Authority to be capable of resolution by conciliation, it may indicate that view to the Commissioner.
 
 ### 18 Authority may decide to take no action on complaint
 (1) The Authority may in its discretion decide to take no action, or, as the case may require, no further action, on any complaint if—
@@ -227,13 +227,13 @@ The Authority may at any time—
 
 ### 27 Procedure after investigation by Authority
 (1) Where the Authority itself undertakes an investigation under this Act it shall form an opinion on whether or not any decision, recommendation, act, omission, conduct, policy, practice, or procedure which was the subject-matter of the investigation was contrary to law, unreasonable, unjustified, unfair, or undesirable.
-(2) The Authority shall convey its opinion, with reasons, to the Commissioner, and may make such recommendations as it thinks fit, including a recommendation that disciplinary or criminal proceedings be considered or instituted against any member of the Police.
+(2) The Authority shall convey its opinion, with reasons, to the Commissioner, and may make such recommendations as it thinks fit, including a recommendation that disciplinary or criminal proceedings be considered or instituted against any Police employee.
 
 ### 28 Procedure after investigation by Police
 (1) Where the Commissioner reports to the Authority, pursuant to section 20 of this Act, on a Police investigation of a complaint, the Authority shall form an opinion on whether or not any decision, recommendation, act, omission, conduct, policy, practice, or procedure which was the subject-matter of the investigation was contrary to law, unreasonable, unjustified, unfair, or undesirable.
 (2) After considering the Commissioner's report and forming its opinion, the Authority—
   (a) Shall indicate to the Commissioner whether or not it agrees with the Commissioner's decision or proposed decision in respect of the complaint:
-  (b) May, where it disagrees with the Commissioner's decision or proposed decision, make such recommendations, supported by reasons, as it thinks fit, including a recommendation that disciplinary or criminal proceedings be considered or instituted against any member of the Police.
+  (b) May, where it disagrees with the Commissioner's decision or proposed decision, make such recommendations, supported by reasons, as it thinks fit, including a recommendation that disciplinary or criminal proceedings be considered or instituted against any Police employee.
 
 ### 29 Implementation of recommendations of Authority
 (1) The Commissioner shall, as soon as reasonably practicable after receiving any recommendation of the Authority under section 27(2) or section 28(2) of this Act,—
