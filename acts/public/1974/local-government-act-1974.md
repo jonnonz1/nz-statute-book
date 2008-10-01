@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2008-10-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2398,27 +2398,36 @@ Nothing in this Part of this Act shall be construed to affect the validity or in
 ### 180 Security for loans
 [Repealed]
 
-## Part 11 — Local authorities petroleum tax
+## Part 11 — Local authorities fuel tax
 
 ### 181 Interpretation
-In this Part of this Act—
+(1) In this Part of this Act—
   - **Component authority** means a territorial authority
   - **Component district** means the district of a component authority
   - **Distribution authority** means the territorial authority in each tax area whose name is for the time being distinguished by the letter D in that part of the second column of Schedule 7 to this Act which relates to that tax area
-  - **Petroleum** means—but does not include—
-    (a) Motor spirits within the meaning of the Motor Spirits Duty Act 1961; and
-    (b) Diesel fuel, being a refined petroleum distillate with a distillation range normally within the limits of 180º Celsius and 370º Celsius, suitable for use as a fuel for high-speed diesel engines or for domestic and industrial heating, and being of such a nature that, when submitted to distillation in standard apparatus, not less than 90 percent by volume distils at 350º Celsius; and includes any blend of diesel fuel and kerosene;
-    (c) Petroleum supplied for use in the generation of electricity, or the manufacture of gas, for public use at any electric-power station or gas works; or
-    (d) Diesel fuel supplied for use as fuel for any ship, being a foreign-going ship or a home-trade ship or a New Zealand fishing boat, within the meaning of the Shipping and Seamen Act 1952, but not being a pleasure yacht within the meaning of that Act; or
-    (e) Aviation fuel, being petroleum supplied for use in aircraft; or
-    (f) Petroleum used in the manufacture of petroleum at any refinery; or
-    (g) Kerosene, being a refined petroleum distillate intermediate in volatility between motor spirits and diesel fuel, with a distillation range normally within the limits of 150º Celsius and 300º Celsius, suitable for use in lighting and heating or as a fuel for certain types of combustion engines:
+  - **engine fuel** has the meaning given by section 1B of the Energy (Fuels, Levies, and References) Act 1989
+  - **specified engine fuel** —
+    (a) means,—
+      (i) if no Order in Council is in force under subparagraph (ii), engine fuel specified in Schedule 3 of the Customs and Excise Act 1996 as a type of—
+        (A) motor spirit; or
+        (B) diesel (including blends of diesel and kerosene); or
+        (C) biodiesel; or
+        (D) ethyl alcohol specified under the heading Fuels in Part A or B of Schedule 3 of the Customs and Excise Act 1996; or
+      (ii) that part of engine fuel specified in Schedule 3 of the Customs and Excise Act 1996 and prescribed by an Order in Council made under section 199A; but
+    (b) excludes—
+      (i) engine fuel supplied for use in the generation of electricity, or the manufacture of gas, for public use at any electric-power station or gas works; or
+      (ii) engine fuel supplied for use as fuel for any commercial ship within the meaning of section 2(1) of the Maritime Transport Act 1994; or
+      (iii) engine fuel used in the manufacture of refined petroleum products at any refinery.
   - **Tax area** means a tax area under this Part of this Act
-  - **Wholesale distributor** has the same meaning as in the Motor Spirits Duty Act 1961; and also includes a wholesale distributor of any petroleum other than motor spirits.
+  - **wholesale distributor** means a person who, whether exclusively or not,—
+    (a) engages in the sale of engine fuel by wholesale; or
+    (b) sells engine fuel to a retailer; or
+    (c) manufactures or produces engine fuel within New Zealand.
+(2) For the purposes of this section, the part of engine fuel that is motor spirit, diesel, biodiesel, or ethyl alcohol remains so whether or not it is blended with anything else.
 
 ### 182 Application of this Part
-(1) Unless the Governor-General by Order in Council determines otherwise, a local authorities petroleum tax in accordance with this Part of this Act may be levied and collected, and shall be payable, on any petroleum purchased in New Zealand by the Crown.
-(2) This Part of this Act shall not apply in the Chatham Islands, or to petroleum sold, or agreed to be sold, or disposed of, for delivery within the Chatham Islands or used there by any wholesale distributor.
+(1) Unless the Governor-General by Order in Council determines otherwise, a local authorities fuel tax in accordance with this Part may be levied and collected by the Crown, and is payable on any specified engine fuel purchased in New Zealand.
+(2) This Part of this Act shall not apply in the Chatham Islands, or to specified engine fuel sold, or agreed to be sold, or disposed of, for delivery within the Chatham Islands or used there by any wholesale distributor.
 
 ### 183 Tax areas for purposes of tax
 (1) The tax areas shall be those named in the first column of Schedule 7 to this Act, and the component districts of each such tax area shall be those specified in the second column of the said Schedule opposite the name of the tax area.
@@ -2429,17 +2438,19 @@ Where pursuant to this Part of this Act the functions of a distribution authorit
   (a) Every wholesale distributor at his head office in New Zealand; and
   (b) The Secretary.
 
-### 185 Powers of component authorities to levy petroleum tax
-(1) There may from time to time, on behalf of the component authorities of any tax area, be levied in accordance with this Part of this Act a tax, to be called the local authorities petroleum tax, on all petroleum that, on or after the date on which the tax becomes effective, is—
+### 185 Powers of component authorities to levy fuel tax
+(1) There may from time to time, on behalf of the component authorities of any tax area, be levied in accordance with this Part of this Act a tax, to be called the local authorities fuel tax, on all specified engine fuel that, on or after the date on which the tax becomes effective, is—
   (a) Delivered within the tax area by or on behalf of any wholesale distributor pursuant to any sale, agreement to sell, or disposition made by the wholesale distributor before or after the commencement of this Part of this Act, irrespective of where the sale, agreement to sell, or disposition was made; or
   (b) Used by any wholesale distributor within the tax area.
 (2) Any tax so levied shall be—
   (a) At the rates specified in Scale A or in Scale B or in Scale C in Schedule 6 to this Act; and
-  (b) In respect of each class of petroleum specified in that Schedule, at the rate specified for that class in the scale under which the tax is levied.
-(3) Notwithstanding anything in subsection (1) of this section, no local authorities petroleum tax shall be levied or payable in respect of any transaction whereby—
-  (a) Any petroleum is sold or agreed to be sold or disposed of by a wholesale distributor to another wholesale distributor; or
-  (b) Any petroleum is exported by a wholesale distributor, or is sold or agreed to be sold or disposed of by him for exportation, and is loaded upon the exporting ship or aircraft.
+  (b) In respect of each class of specified engine fuel specified in that Schedule, at the rate specified for that class in the scale under which the tax is levied.
+(3) Notwithstanding anything in subsection (1) of this section, no local authorities fuel tax shall be levied or payable in respect of any transaction whereby—
+  (a) Any specified engine fuel is sold or agreed to be sold or disposed of by a wholesale distributor to another wholesale distributor; or
+  (b) Any specified engine fuel is exported by a wholesale distributor, or is sold or agreed to be sold or disposed of by him for exportation, and is loaded upon the exporting ship or aircraft.
+(3A) If any type of diesel is a specified engine fuel, the local authorities fuel tax applies to blends of kerosene and diesel as if they were entirely diesel.
 (4) Subject to this Part of this Act, the local authorities petroleum tax being levied immediately before the commencement of this Part of this Act pursuant to the Local Authorities (Petroleum Tax) Act 1970 shall continue to be levied under this Part of this Act, as if the decision to levy the tax had been made under this Part of this Act, until the scale of tax is altered pursuant to section 186 of this Act, and every notice in the form set out in Schedule 3 to the Local Authorities (Petroleum Tax) Act 1970 given by a local authority under section 10(a) of that Act shall continue in force after the commencement of this Part of this Act as if it were a notice given under this Act in the form set out in Schedule 8 to this Act.
+(5) Every reference in an enactment or document to the local authorities petroleum tax must, unless the context otherwise requires, be read as a reference to the local authorities fuel tax.
 
 ### 186 Alteration of scale of tax
 (1) The scale of the tax in force in any tax area may from time to time be altered by a determination of a meeting of representatives of all component authorities of the tax area.
@@ -2469,47 +2480,47 @@ The functions of a distribution authority shall be—
 **Collection of tax**
 
 ### 189 Returns by wholesale distributors
-(1) Within 28 days after the end of each accounting month within the meaning of the Motor Spirits Duty Act 1961, every wholesale distributor shall send to the principal administrative officer of the distribution authority of every tax area in which a local authorities petroleum tax is for the time being in force a return (hereafter referred to as the monthly return) in the prescribed form setting forth—
-  (a) The quantity of each class of petroleum delivered within the tax area by him or on his behalf pursuant to any sale, agreement to sell, or disposition to which section 185 of this Act applies, or used by him within the tax area, during that accounting month; and
-  (b) The amount of local authorities petroleum tax payable on each such quantity; and
+(1) Within 28 days after the end of each accounting month within the meaning of the Motor Spirits Duty Act 1961, every wholesale distributor shall send to the principal administrative officer of the distribution authority of every tax area in which a local authorities fuel tax is for the time being in force a return (hereafter referred to as the monthly return) in the prescribed form setting forth—
+  (a) The quantity of each class of specified engine fuel delivered within the tax area by him or on his behalf pursuant to any sale, agreement to sell, or disposition to which section 185 of this Act applies, or used by him within the tax area, during that accounting month; and
+  (b) The amount of local authorities fuel tax payable on each such quantity; and
   (c) Such other particulars (if any) as may be prescribed.
 (2) Every wholesale distributor who fails to send to any such principal administrative officer as aforesaid any monthly return required by this section commits an offence against this Act.
 
 ### 190 Assessment of tax
-(1) The monthly return under section 189 of this Act may be accepted by the principal administrative officer as sufficient proof of the matters set forth in them, and the local authorities petroleum tax may be assessed by the principal administrative officer accordingly.
-(2) For the purposes of this Part of this Act, the Auditor-General has, in respect of the records of wholesale distributors relating to petroleum sold, agreed to be sold, disposed of, delivered, or used by the local authority, the same powers as it has under the Public Audit Act 2001.
-(3) After any such inspection or examination as aforesaid, the Audit Office may require the principal administrative officer of the distribution authority of any tax area in which a local authorities petroleum tax is in force to make any assessment or amended assessment for the purpose of this Part, and it shall be the duty of the principal administrative officer to comply with that requirement.
+(1) The monthly return under section 189 of this Act may be accepted by the principal administrative officer as sufficient proof of the matters set forth in them, and the local authorities fuel tax may be assessed by the principal administrative officer accordingly.
+(2) For the purposes of this Part of this Act, the Auditor-General has, in respect of the records of wholesale distributors relating to specified engine fuel sold, agreed to be sold, disposed of, delivered, or used by the local authority, the same powers as it has under the Public Audit Act 2001.
+(3) After any such inspection or examination as aforesaid, the Audit Office may require the principal administrative officer of the distribution authority of any tax area in which a local authorities fuel tax is in force to make any assessment or amended assessment for the purpose of this Part, and it shall be the duty of the principal administrative officer to comply with that requirement.
 
 ### 191 Assessment presumed to be correct
-Every assessment made by the principal administrative officer under this Part of this Act shall be taken to be correct, and the tax shall be payable accordingly, unless, on an appeal under section 192 of this Act or in proceedings taken under this Act in a Court of competent jurisdiction, a different amount is proved to be the tax payable on the petroleum, or it is proved that no tax is payable, as the case may be.
+Every assessment made by the principal administrative officer under this Part of this Act shall be taken to be correct, and the tax shall be payable accordingly, unless, on an appeal under section 192 of this Act or in proceedings taken under this Act in a Court of competent jurisdiction, a different amount is proved to be the tax payable on the specified engine fuel, or it is proved that no tax is payable, as the case may be.
 
 ### 192 Appeal against assessment
 (1) Within 14 days after a demand for the tax is made by the principal administrative officer in accordance with his assessment, the wholesale distributor may appeal to a District Court, by way of originating application, against the assessment.
 (2) On the hearing of the appeal, the Court, whose decision shall be final, may confirm or amend the assessment made by the principal administrative officer.
 
 ### 193 Tax recoverable as a debt
-(1) Any local authorities petroleum tax payable on any petroleum shall, immediately on the delivery of the petroleum within the tax area, or on its use in the tax area by the wholesale distributor, constitute a debt owing to the distribution authority of the tax area by the wholesale distributor, and be recoverable accordingly.
-(2) Subject to this Part of this Act, any such debt in respect of any local authorities petroleum tax for any accounting month shall become payable by the wholesale distributor on the 20th day of the calendar month following that in which the monthly return for the accounting month is required by section 189 of this Act to be sent to the principal administrative officer, whether or not the return is so sent.
+(1) Any local authorities fuel tax payable on any specified engine fuel shall, immediately on the delivery of the specified engine fuel within the tax area, or on its use in the tax area by the wholesale distributor, constitute a debt owing to the distribution authority of the tax area by the wholesale distributor, and be recoverable accordingly.
+(2) Subject to this Part of this Act, any such debt in respect of any local authorities fuel tax for any accounting month shall become payable by the wholesale distributor on the 20th day of the calendar month following that in which the monthly return for the accounting month is required by section 189 of this Act to be sent to the principal administrative officer, whether or not the return is so sent.
 (3) The right to recover any tax as a debt under this section shall not be affected by the fact that no proper assessment of the tax has been made in due course under this Part of this Act, or that a deficient assessment of the tax has been made.
 
 ### 194 Penalty for late payment of tax
-Notwithstanding the provisions of this Part of this Act, if any local authorities petroleum tax that has become payable remains unpaid after the date on which it became payable under section 193 of this Act, 10 percent of the amount of the tax unpaid shall be added to it by way of additional tax, and shall be payable accordingly:
+Notwithstanding the provisions of this Part of this Act, if any local authorities fuel tax that has become payable remains unpaid after the date on which it became payable under section 193 of this Act, 10 percent of the amount of the tax unpaid shall be added to it by way of additional tax, and shall be payable accordingly:
   Provided that a meeting of representatives of the component authorities, held in accordance with section 186 of this Act, may in any particular case, for reasons which in its discretion it thinks sufficient, remit the whole or any part of the additional tax payable.
 
 **Application of proceeds of tax**
 
 ### 195 Separate bank account to be kept by distribution authority
-(1) All money received by the distribution authority of any tax area pursuant to this Part of this Act shall be paid into the bank at which the distribution authority keeps its general funds, to the credit of a separate account to be called The [Name of tax area] Local Authorities Petroleum Tax Account.
+(1) All money received by the distribution authority of any tax area pursuant to this Part of this Act shall be paid into the bank at which the distribution authority keeps its general funds, to the credit of a separate account to be called The [Name of tax area] Local Authorities Fuel Tax Account.
 (2) The provisions of this Act as to the manner in which money may be paid from its bank accounts shall apply with respect to payments made from the said account.
 
 ### 196 Accounts to be kept in accordance with requirements of Audit Office
-(1) The distribution authority of every tax area shall keep such accounts, and keep them in such manner, as may be directed by the Audit Office in respect of the collection, application, or distribution of the proceeds of any local authorities petroleum tax levied in the tax area.
+(1) The distribution authority of every tax area shall keep such accounts, and keep them in such manner, as may be directed by the Audit Office in respect of the collection, application, or distribution of the proceeds of any local authorities fuel tax levied in the tax area.
 (2) The decision of the Audit Office as to whether or not any expenditure is properly chargeable against any such account shall be final.
 
 ### 197 Transfer by distribution authority of authorised cost of services
-(1) The distribution authority of any tax area may from time to time transfer to its general revenues from the Local Authorities Petroleum Tax Account all reasonable costs and expenses incurred by it in or about the levying, collection, recovery, application, and distribution of any local authorities petroleum tax in the tax area, and a reasonable remuneration for clerical and other work done in the administration of this Part of this Act within the tax area.
+(1) The distribution authority of any tax area may from time to time transfer to its general revenues from the Local Authorities Fuel Tax Account all reasonable costs and expenses incurred by it in or about the levying, collection, recovery, application, and distribution of any local authorities fuel tax in the tax area, and a reasonable remuneration for clerical and other work done in the administration of this Part of this Act within the tax area.
 (2) If any dispute arises as to any amount transferred under subsection (1) of this section, or to be transferred or otherwise in relation thereto, it shall be decided by the Audit Office, whose decision shall be final.
-(3) Except as provided in this Part of this Act, it shall not be lawful for the distribution authority to transfer any money from the Local Authorities Petroleum Tax Account to any other account.
+(3) Except as provided in this Part of this Act, it shall not be lawful for the distribution authority to transfer any money from the Local Authorities Fuel Tax Account to any other account.
 
 ### 198 Distribution of proceeds
 (1) Subject to this Part of this Act, the proceeds of the tax in a tax area in any year shall be distributed by the distribution authority among the component authorities of the tax area (including the distribution authority) according to the proportion which the total rate revenue of each such component authority for the immediately preceding financial year bears to the total rate revenue of all the component authorities for that preceding financial year.
@@ -2518,9 +2529,18 @@ Notwithstanding the provisions of this Part of this Act, if any local authoritie
 (4) Any money paid to any component authority under this section shall form part of the general revenues of that component authority.
 
 ### 199 Effect on agreements of imposition or alteration of tax
-For the purposes of this Act, section 159 of the Customs Act 1966, so far as it is applicable and with all necessary modifications, shall apply to agreements for the sale of petroleum as if the local authorities petroleum tax were duty within the meaning of that Act, and as if the imposition or alteration of the tax were an alteration to which that section applies.
+For the purposes of this Act, section 159 of the Customs Act 1966, so far as it is applicable and with all necessary modifications, shall apply to agreements for the sale of specified engine fuel as if the local authorities fuel tax were duty within the meaning of that Act, and as if the imposition or alteration of the tax were an alteration to which that section applies.
 
-### 200 Regulations in respect of local authorities petroleum tax
+### 199A Order in Council prescribing local authorities fuel tax
+(1) The Governor-General may, by Order in Council,—
+  (a) specify the engine fuels set out in Schedule 3 of the Customs and Excise Act 1996 to be specified engine fuel for the purposes of this Act; and
+  (b) prescribe the scale rates for specified engine fuel.
+(2) The scale rates of the local authorities fuel tax prescribed by an Order in Council under subsection (1)(b) may not exceed the rate of the local authorities fuel tax scale rates set out in Schedule 6 for any class of engine fuel—
+  (a) for which the specified engine fuel is a functional substitute; or
+  (b) with which the specified engine fuel is commonly blended.
+(3) Subsection (2) overrides subsection (1).
+
+### 200 Regulations in respect of local authorities fuel tax
 Without limiting the power to make regulations conferred by section 723 of this Act, regulations may be made under that section for all or any of the following purposes:
   (a) Prescribing such forms, returns, and notices as may be necessary for any purpose under this Part of this Act:
   (b) Prescribing matters to be included in any returns to be made or accounts or records to be kept by wholesale distributors or other persons for any purpose under this Part of this Act:
@@ -3702,8 +3722,8 @@ Where a building-line restriction has been imposed under this Act or any former 
 ### 337 Alteration of pipes and drains
 The council may, by notice in writing, require the owner of any pipe, drain, or other apparatus of any kind on or under a road to raise, lower, or otherwise alter the same as the council directs, and if that alteration is not made within a reasonable time the council may make the same as it thinks fit; but, subject to the provisions of any other Act or to any agreement between the council and the person affected, the cost of any such alteration and any damage occasioned thereby shall be paid by and may be recovered from the council by any person affected.
 
-### 338 Council may grant right to lay petroleum conduit pipes along or under road
-(1) Subject to section 357 of this Act, the council may grant to any person an easement or other right for such period not exceeding 50 years and on such terms and conditions as the council thinks fit, authorising that person to lay conduit pipes for petroleum or for any other purpose in the district under or along any road or (with the consent of the owners) under or along any private road or private way; but no such grant shall be to the exclusion of like grants to any other person.
+### 338 Council may grant right to lay conduit pipes along or under road
+(1) Subject to section 357 of this Act, the council may grant to any person an easement or other right for such period not exceeding 50 years and on such terms and conditions as the council thinks fit, authorising that person to lay conduit pipes for petroleum or biofuel or for any other purpose in the district under or along any road or (with the consent of the owners) under or along any private road or private way; but no such grant shall be to the exclusion of like grants to any other person.
 (2) The grant of any such right or easement shall be subject to the payment of such rent, and to the observance of such conditions as to size, construction, repair, and maintenance of the conduit pipes, and as to repair of any road or private road or private way under or along which they are laid, as the council thinks fit.
 
 ### 339 Transport shelters
@@ -3753,11 +3773,7 @@ The council may, by notice in writing, require the owner of any pipe, drain, or 
 (2)
 
 ### 342A Temporary closing of roads by Police
-(1) Where the senior member of the Police for the time being in charge at any place has reasonable cause to believe that—he may temporarily close, for such period as is reasonably necessary, any road at or leading to or from or in the vicinity of that place, or any part of that road, to all traffic or to any specified type of traffic (including pedestrian traffic).
-  (a) Public disorder exists or is imminent at or adjacent to that place; or
-  (b) Danger to any member of the public exists or may reasonably be expected at or adjacent to that place; or
-  (c) An indictable offence not triable summarily under section 6 of the Summary Proceedings Act 1957 has been committed or discovered at or adjacent to that place,—
-(2) In this section the term road includes a motorway, within the meaning of the Public Works Act 1981, a private road, and a private way.
+[Repealed]
 
 ### 343 Consumption or possession of intoxicating liquor in roads closed for public function or gathering
 [Repealed]
@@ -8770,9 +8786,9 @@ If a local authority makes default in making a payment in accordance with clause
 
 ## Schedule 5A
 
-## Schedule 6 — Scales of local authorities petroleum tax
+## Schedule 6 — Scales of local authorities fuel tax
 
-| Scale | Motor Spirits Per Litre | Diesel Fuel Per Litre |
+| Scale | Specified engine fuel that is motor spirit or ethyl alcohol Per Litre | Specified engine fuel that is diesel or biodiesel Per Litre |
 | --- | --- | --- |
 | A | 0.66 cent | 0.33 cent |
 | B | 0.44 cent | 0.22 cent |
@@ -8858,7 +8874,7 @@ If a local authority makes default in making a payment in accordance with clause
 |  | Invercargill City (D) |
 |  | Gore District. |
 
-## Schedule 8 — Notice of imposition or alteration of local authorities petroleum tax
+## Schedule 8 — Notice of imposition or alteration of local authorities fuel tax
 
 | Scale | Motor Spirits Per Litre | Diesel Fuel Per Litre |
 | --- | --- | --- |
