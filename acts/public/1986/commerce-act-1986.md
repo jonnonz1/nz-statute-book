@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-14_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Commerce Act 1986.
@@ -566,99 +566,839 @@ Nothing in this Part of this Act applies—
 ### 51 Contracts subject to condition of clearance or authorisation
 [Repealed]
 
-## Part 4 — Controlled goods or services
+## Part 4 — Regulated goods or services
 
-**Imposition of control**
+### Subpart 1 — Preliminary provisions
 
-### 52 When control may be imposed
-Goods or services may be controlled if—
-  (a) the goods or services are, or will be, supplied or acquired in a market in which competition is limited or is likely to be lessened; and
-  (b) it is necessary or desirable for those goods or services to be controlled either—
-    (i) in the interests of persons acquiring the goods or services (whether directly or indirectly), if the goods or services are acquired from a person who faces limited or lessened competition for the supply of those goods or services; or
-    (ii) in the interests of suppliers, if the goods or services are supplied to a person who faces limited or lessened competition for the acquisition of those goods or services.
+### 52 Overview of Part
+This Part provides for the regulation of the price and quality of goods or services in markets where there is little or no competition and little or no likelihood of a substantial increase in competition.
 
-### 53 How control can be imposed
-(1) Goods or services are controlled if an Order in Council declares that they are controlled.
-(2) The Governor-General may make an order on the recommendation of the Minister.
-(3) The Minister must not make a recommendation unless the Minister is satisfied that the goods or services may be controlled under section 52.
-(4) The Minister may make a recommendation on his or her own initiative or following a report from the Commission.
+### 52A Purpose of Part
+(1) The purpose of this Part is to promote the long-term benefit of consumers in markets referred to in section 52 by promoting outcomes that are consistent with outcomes produced in competitive markets such that suppliers of regulated goods or services—
+  (a) have incentives to innovate and to invest, including in replacement, upgraded, and new assets; and
+  (b) have incentives to improve efficiency and provide services at a quality that reflects consumer demands; and
+  (c) share with consumers the benefits of efficiency gains in the supply of the regulated goods or services, including through lower prices; and
+  (d) are limited in their ability to extract excessive profits.
+(2) In this Part, the purpose set out in subsection (1) applies in place of the purpose set out in section 1A.
+
+### 52B Outline of Part
+(1) This Part provides—
+  (a) generic provisions for imposing any 1 or more of 3 types of regulation on goods or services (see subpart 2); and
+  (b) for the Commission to determine input methodologies applying to the supply of goods or services regulated under this Part (see subpart 3).
+(2) The different types of regulation under this Part are as follows:
+  (a) information disclosure regulation, under which regulated suppliers are required to disclose information in accordance with requirements determined by the Commission (see subpart 4):
+  (b) negotiate/arbitrate regulation, under which regulated suppliers are required to negotiate with other parties on prices and quality, and, if negotiation is unsuccessful, to enter into binding arbitration (see subpart 5):
+  (c) price-quality regulation, of which there are 2 types:
+    (i) default/customised price-quality regulation, under which default price-quality paths are set for regulated suppliers, but individual suppliers may seek a customised price-quality path instead (see subpart 6); and
+    (ii) individual price-quality regulation, under which the Commission sets a price-quality path for an individual regulated supplier (see subpart 7).
+(3) Regulation of the following services is dealt with by subparts 9 to 11:
+  (a) electricity lines services (subpart 9):
+  (b) gas pipeline services (subpart 10):
+  (c) services at certain airports (subpart 11).
+(4) This section is only a guide.
+
+### 52C Interpretation
+In this Part, unless the context otherwise requires,—
+  - **claw-back** has the meaning given to it by section 52D
+  - **consumer** (other than in sections 54C, 54D, and 55A) means a person that consumes or acquires regulated goods or services
+  - **information disclosure requirement** means a requirement that applies to a supplier of goods or services that are subject to information disclosure regulation, and is specified in a section 52P determination
+  - **input methodology** means a description of any methodology, process, rule, or matter that includes any of the matters listed in section 52T and that is published by the Commission under section 52W; and, in relation to particular goods or services, means any input methodology, or all input methodologies, that relate to the supply, or to suppliers, of those goods or services
+  - **inquiry** means an inquiry by the Commission carried out in accordance with sections 52H to 52J
+  - **price** —
+    (a) means any 1 or more of individual prices, aggregate prices, or revenues (whether in the form of specific numbers, or in the form of formulas by which specific numbers are derived); and
+    (b) includes any related terms of payment
+  - **pricing methodologies** means methodologies for setting the prices of individual goods or services, or classes of goods or services, and includes methodologies for setting different prices for different customer groups
+  - **publicly available** , in relation to making a document or information available, means that—
+    (a) the document or information is available for inspection, free of charge, on an Internet site that is publicly accessible at all reasonable times; and
+    (b) a copy of the document or information is available for inspection at all reasonable times, free of charge, at the head office of the person that is required to make it publicly available or, if the person is the Minister, at the head office of the department responsible for the administration of this Act; and
+    (c) copies of the document may be purchased by any person at a reasonable price
+  - **publicly disclose** , in relation to information required to be disclosed under information disclosure regulation, means to disclose information to the public in the manner required by a section 52P determination
+  - **regulated** means regulated under this Part
+  - **regulated goods or services** means goods or services that are declared to be regulated—
+    (a) by Order in Council made under section 52N; or
+    (b) by any of subparts 9 to 11
+  - **regulated supplier** means a person to whom a section 52P determination applies in relation to particular goods or services
+  - **section 52P determination** means a determination by the Commission under section 52P that sets out how each type of regulation that applies to particular regulated goods or services applies to a supplier of those goods or services; and, in relation to particular goods or services, means every section 52P determination relevant to the regulation of those goods or services.
+
+### 52D Meaning and application of claw-back
+(1) A reference to the Commission applying claw-back is a reference to the Commission doing either of the following:
+  (a) requiring a supplier to lower its prices on a temporary basis in order to compensate consumers for some or all of any over-recovery that occurred under the prices previously charged by the supplier:
+  (b) allowing a supplier to recover some or all of any shortfall in its revenues that occurred under the prices previously charged by the supplier.
+(2) If the Commission requires a supplier to lower its prices, it must also require that the lowering of prices must be spread over time in order to minimise undue financial hardship to the supplier.
+(3) If the Commission allows a supplier to recover any shortfall, it must require that any recovery must be spread over time in order to minimise price shocks to consumers.
+
+### Subpart 2 — Regulating particular goods or services
+
+### 52E Overview of process if regulation imposed on goods or services
+(1) The process for imposing regulation under this subpart on particular goods or services involves the following steps:
+  (a) the Commission holds an inquiry into whether, and if so how, to regulate the goods or services, and then makes a recommendation to the Minister under section 52K:
+  (b) the Minister considers the Commission’s recommendation and decides whether or not to recommend to the Governor-General that regulation be imposed and, if so, which type or types of regulation:
+  (c) if the Minister decides to recommend regulation, an Order in Council may be made under section 52N that makes the goods or services subject to regulation and identifies the type or types of regulation that apply:
+  (d) for each type of regulated goods or services, the Commission makes a section 52P determination specifying how the applicable type or types of regulation apply to a supplier of the regulated goods or services.
+(2) This section is only a guide.
+
+### 52F Effect of goods or services being subject to regulation
+(1) If goods or services are subject to regulation of a particular type, every regulated supplier of those goods or services must comply with—
+  (a) the requirements of this Part relating to that type of regulation; and
+  (b) every section 52P determination applying to the supplier.
+(2) Sections 86 to 87C (which relate to offences and civil proceedings relating to contraventions of this Part) apply to a regulated supplier on and from the date on which the supplier is obliged to comply with a relevant section 52P determination.
+(3) The Commission is entitled to exercise any of its powers under this Act for the purpose of monitoring compliance by regulated suppliers with regulation under this Part.
+
+### 52G When goods or services may be regulated
+(1) Goods or services may be regulated under this Part only if—
+  (a) the goods or services are supplied in a market where there is both—
+    (i) little or no competition; and
+    (ii) little or no likelihood of a substantial increase in competition; and
+  (b) there is scope for the exercise of substantial market power in relation to the goods or services, taking into account the effectiveness of existing regulation or arrangements (including ownership arrangements); and
+  (c) the benefits of regulating the goods or services in meeting the purpose of this Part materially exceed the costs of regulation.
+(2) In any consideration of this test, the part of the test in subsection (1)(c) need not be considered unless the parts of the test in subsection (1)(a) and (b) are satisfied.
+
+**Commission inquiry**
+
+### 52H How inquiry triggered
+(1) The Commission—
+  (a) must hold an inquiry if required to do so by the Minister; and
+  (b) may hold an inquiry on its own initiative.
+(2) Any requirement by the Minister must—
+  (a) be in writing; and
+  (b) specify the date by which the Commission must make a recommendation under section 52K to the Minister.
+
+### 52I Commission inquiry into particular goods or services
+(1) In conducting an inquiry into particular goods or services, the Commission must consider—
+  (a) whether the test in section 52G is satisfied in relation to the goods or services; and
+  (b) if that test is satisfied, whether the goods or services should be regulated; and
+  (c) if so, how the goods or services should be regulated, including—
+    (i) how the goods or services should be defined; and
+    (ii) which type or types of regulation (as set out in section 52B(2)) the goods or services should be subject to; and
+    (iii) how that type or those types of regulation should apply to suppliers of the goods or services.
+(2) As part of an inquiry into particular goods or services, the Commission—
+  (a) must determine (and then apply) input methodologies for the supply of the goods or services, in accordance with subpart 3; and
+  (b) must, when carrying out the analysis required by section 52G(1)(c), undertake a qualitative analysis of all material long-term efficiency and distributional considerations.
+(3) As part of that qualitative analysis, the Commission must, as far as practicable,—
+  (a) quantify material effects on allocative, productive, and dynamic efficiency; and
+  (b) quantify material distributional and welfare consequences on suppliers and consumers; and
+  (c) assess the direct and indirect costs and risks of any type of regulation considered, including administrative and compliance costs, transaction costs, and spill-over effects.
+(4) As part of an inquiry, the Commission must, when considering which type of regulation might be imposed,—
+  (a) assess the benefits of imposing different types of regulation in meeting the purpose of this Part against the costs of imposing those types of regulation; and
+  (b) consider what would be the most cost-effective type or types of regulation in the circumstances.
+(5) During an inquiry, the Commission may have regard to any other matters it considers necessary or desirable for the purpose of the inquiry.
+
+### 52J Process of inquiry
+(1) At the start of an inquiry, the Commission must publish in the Gazette a notice setting out,—
+  (a) in the case of an inquiry required by the Minister, the Minister’s requirements; and
+  (b) in the case of an inquiry on the initiative of the Commission, the terms of reference for the inquiry.
+(2) The notice must set out indicative time frames and key steps.
+(3) During the course of an inquiry, the Commission—
+  (a) may publish, in whatever way it considers appropriate, further notices, consultation documents, or papers; and
+  (b) must give interested persons a reasonable opportunity to give their views; and
+  (c) may hold 1 or more conferences; and
+  (d) must have regard to any views received from interested persons within any time frames set.
+(4) Before the end of an inquiry, the Commission must publish a proposed recommendation for consultation.
+
+### 52K Commission's recommendation following inquiry
+(1) At the end of an inquiry, having considered the matters in section 52I, the Commission must make a recommendation to the Minister on whether, in its opinion, the goods or services should be regulated.
+(2) If the recommendation is that particular goods or services should be regulated, the recommendation must state the following:
+  (a) how the goods or services should be specified:
+  (b) which type or types of regulation should apply to the goods or services:
+  (c) what input methodologies apply:
+  (d) if information disclosure regulation is recommended, the material provisions of the information disclosure requirements:
+  (e) if negotiate/arbitrate regulation is recommended, the material provisions of the negotiation process and arbitration process:
+  (f) if default/customised price-quality regulation is recommended, the default price path and quality standards:
+  (g) if individual price-quality regulation is recommended, the material provisions to apply.
+(3) The Minister must publish the Commission’s recommendation, and may do so in whatever way he or she considers appropriate.
+(4) To avoid doubt, a recommendation by the Commission is not a determination of the Commission.
+
+**Order in Council imposing regulation**
+
+### 52L Minister's consideration
+(1) The Minister must consider any recommendation of the Commission made under section 52K.
+(2) As part of that consideration, the Minister—
+  (a) must consult with the relevant sector Minister (such as the Minister of Energy or the Minister of Transport); and
+  (b) may request further information or advice from the Commission.
+(3) If the Minister proposes, contrary to the recommendation of the Commission, that the goods or services should be regulated, or that they should be subject to a type of regulation not recommended by the Commission, the Minister must ask the Commission for written advice on what the material provisions of the relevant section 52P determination would be likely to be if the goods or services were subject to the type or types of regulation proposed by the Minister.
+(4) Any request by the Minister under subsection (3), and the Commission's advice given following that request, must be made publicly available.
+(5) If the Commission receives a request under subsection (3), it may, at its discretion,—
+  (a) consult with interested parties; or
+  (b) reopen its inquiry, in which case section 52J applies with all necessary modifications.
+
+### 52M Minister's decision and recommendation
+(1) Having considered the Commission’s recommendation in accordance with section 52L and any advice given following a request under section 52L(3), the Minister must—
+  (a) decide whether, in the opinion of the Minister, the goods or services should be regulated; and
+  (b) if the goods or services are to be regulated, decide which type or types of regulation are to apply; and
+  (c) make a recommendation to that effect, if the goods or services are to be regulated.
+(2) The Minister's decision may be the same as, or different from, the Commission’s recommendation under section 52K.
+(3) If the Minister's decision is different from the Commission's recommendation, the Minister must set out the reasons for the decision and make the decision, with the reasons, publicly available.
+
+### 52N Order in Council imposing regulation
+(1) The Governor-General may, on the recommendation of the Minister made under section 52M, make an Order in Council imposing regulation on particular goods or services.
+(2) The order must—
+  (a) declare that the goods or services are regulated; and
+  (b) state which type or types of regulation the goods or services are subject to.
+(3) The order may identify the goods or services it relates to by reference to goods or (with all necessary modifications) services—
+  (a) supplied in or for delivery within specified regions, areas, or localities in New Zealand; or
+  (b) supplied in different quantities, qualities, grades, or classes; or
+  (c) supplied by or to or for the use of different persons or classes of persons; or
+  (d) any or all of paragraphs (a) to (c).
+(4) Subsection (3) applies so that any part or element of goods or services can be dealt with separately.
+(5) The order must include an expiry date, which must be a date not later than 20 years after its date of commencement.
+(6) The order is a regulation within the meaning of the Regulations (Disallowance) Act 1989 and the Acts and Regulations Publication Act 1989.
+
+### 52O Revocation or amendment of Order in Council
+(1) An Order in Council made under section 52N in respect of particular goods or services may not be revoked or significantly amended unless the Commission has held an inquiry into the goods or services.
+(2) In subsection (1), significantly amended means amended in a way that—
+  (a) alters the type or types of regulation applying to the goods or services; or
+  (b) materially alters the goods or services to which the regulation applies, so that either—
+    (i) the goods or services, or any of them, are no longer regulated; or
+    (ii) goods or services that were not identified in the original order are now subject to regulation.
+(3) An Order in Council made under section 52N may be amended in any other material way only after the Commission has consulted with interested parties, but may be amended in a non-material way without prior consultation.
+
+**Commission determination about how regulation applies**
+
+### 52P Determinations by Commission under this section
+(1) The Commission must make determinations under this section specifying how the relevant forms of regulation apply to suppliers of regulated goods or services.
+(2) Determinations must be made,—
+  (a) in the case of goods or services declared to be regulated by an Order in Council under section 52N, as soon as practicable after the Order in Council is made; and
+  (b) in the case of goods or services declared to be regulated under any of subparts 9 to 11, in accordance with sections 54I, 54J, 54K, 55E, and 56E.
+(3) Determinations must—
+  (a) set out, for each type of regulation to which the goods or services are subject, the requirements that apply to each regulated supplier; and
+  (b) set out any time frames (including the regulatory periods) that must be met or that apply; and
+  (c) specify the input methodologies that apply; and
+  (d) be consistent with this Part.
+(4) It is not necessary for a single determination to address all matters relating to particular regulated goods or services, or to a supplier of regulated goods or services, and different parts of any determination may come into effect at different times.
+(5) If a determination under this section is made following an inquiry and a recommendation under section 52K, the requirements referred to in subsection (3)(a) must not differ in any material respect from the recommendation, or (if applicable) from any advice given to the Minister under section 52L(3).
+(6) A determination under this section may require a supplier to comply with the requirements set out in any other determination that has been made under this section in respect of regulated goods or services of the same type.
+(7) The Commission must, as soon as practicable after making a determination under this section,—
+  (a) give a copy of the determination to each supplier to whom the determination relates; and
+  (b) publish a summary of it in the Gazette; and
+  (c) make the whole determination publicly available.
+(8) Each supplier to whom the determination relates must comply with the requirements imposed by the determination.
+
+### 52Q Amendment of section 52P determination
+(1) A section 52P determination may be amended in a material way only after the Commission has consulted with interested parties, but may be amended in a non-material way without prior consultation.
+(2) However, the Commission is not required to conduct an inquiry before amending a determination.
+(3) An amendment forms part of the determination it amends.
+(4) An amendment comes into force on the date specified in the amendment, which must be (except in the case of an amendment relating to a customised price-quality path that takes effect under section 53ZA(3)) a date on or after the date on which it, or a summary of it, is published in the Gazette.
+(5) The Commission must, as soon as practicable after making an amendment,—
+  (a) give a copy of the amendment to each supplier to whom the determination relates; and
+  (b) publish the amendment, or a summary of the amendment, in the Gazette; and
+  (c) make a copy of the determination, as amended by the amendment, publicly available.
+
+### Subpart 3 — Input methodologies
+
+### 52R Purpose of input methodologies
+The purpose of input methodologies is to promote certainty for suppliers and consumers in relation to the rules, requirements, and processes applying to the regulation, or proposed regulation, of goods or services under this Part.
+
+### 52S How published input methodologies apply
+Every relevant input methodology relating to the supply of particular goods or services that is published under section 52W must be applied,—
+  (a) if the goods or services are regulated, by every regulated supplier of the goods or services in accordance with the relevant section 52P determination; and
+  (b) in all cases, by every person entitled or required under this Act to recommend, decide, or determine—
+    (i) whether or how regulation under this Part should apply to the goods or services; or
+    (ii) the prices or quality standards applying to the goods or services.
+
+### 52T Matters covered by input methodologies
+(1) The input methodologies relating to particular goods or services must include, to the extent applicable to the type of regulation under consideration,—
+  (a) methodologies for evaluating or determining the following matters in respect of the supply of the goods or services:
+    (i) cost of capital:
+    (ii) valuation of assets, including depreciation, and treatment of revaluations:
+    (iii) allocation of common costs, including between activities, businesses, consumer classes, and geographic areas:
+    (iv) treatment of taxation; and
+  (b) pricing methodologies; and
+  (c) regulatory processes and rules, such as—
+    (i) the specification and definition of prices, including identifying any costs that can be passed through to prices (which may not include the legal costs of any appeals against input methodology determinations under this Part or of any appeals under section 91 or section 97); and
+    (ii) identifying circumstances in which price-quality paths may be reconsidered within a regulatory period; and
+  (d) matters relating to proposals by a regulated supplier for a customised price-quality path, including—
+    (i) requirements that must be met by the regulated supplier, including the scope and specificity of information required, the extent of independent verification and audit, and the extent of consultation and agreement with consumers; and
+    (ii) the criteria that the Commission will use to evaluate any proposal.
+(2) Every input methodology must, as far as is reasonably practicable,—
+  (a) set out the matters listed in subsection (1) in sufficient detail so that each affected supplier is reasonably able to estimate the material effects of the methodology on the supplier; and
+  (b) set out how the Commission intends to apply the input methodology to particular types of goods or services; and
+  (c) be consistent with the other input methodologies that relate to the same type of goods or services.
+(3) Any methodologies referred to in subsection (1)(a)(iii) must not unduly deter investment by a supplier of regulated goods or services in the provision of other goods or services.
+
+### 52U When input methodologies must be determined
+(1) The Commission must determine input methodologies for the goods or services regulated under subparts 9 to 11 no later than 30 June 2010.
+(2) The Minister may, on the written request of the Commission, extend the deadline referred to in subsection (1) once, by a period of up to 6 months, in which case notice of the extension must be given in the Gazette.
+(3) The Commission must determine input methodologies for any goods or services that are the subject of an inquiry as soon as practicable after the Commission is satisfied that the parts of the test for the regulation of goods or services set out in paragraphs (a) and (b) of section 52G(1) are satisfied.
+
+### 52V Commission process for determining input methodologies
+(1) When the Commission begins work on an input methodology, it must publish a notice of intention to do so that—
+  (a) outlines the process that will be followed; and
+  (b) sets out the proposed time frames.
+(2) During the course of its work on an input methodology, the Commission—
+  (a) must publish a draft methodology; and
+  (b) must give interested persons a reasonable opportunity to give their views on that draft methodology; and
+  (c) may hold 1 or more conferences; and
+  (d) must have regard to any views received from interested persons within any time frames set.
+(3) Despite subsections (1) and (2), any work done or action taken (including any consultation) by the Commission on input methodologies before the commencement of this section may be treated by the Commission and any person consulted as work done or action taken under this section.
+(4) The Commission must consult with interested parties before deciding to treat earlier work or action as work or action done under this section.
+
+### 52W Publication of input methodologies
+(1) The Commission must publish every input methodology, and every amendment to an input methodology,—
+  (a) within 10 working days after the Commission determines the input methodology or amendment; and
+  (b) if the input methodology or an amendment is determined by the High Court on appeal, within 10 working days after the Commission receives a copy of the decision of the High Court.
+(2) The publication must be by way of a notice in the Gazette setting out—
+  (a) a brief description of the nature of the methodology and the goods or services to which it applies; and
+  (b) the reasons for determining that methodology; and
+  (c) how it is publicly available.
+(3) The Commission must make every input methodology, and every amended input methodology, publicly available as soon as the input methodology or amendment is published.
+
+### 52X Amendment of input methodologies
+If the Commission proposes to amend an input methodology by making a material change, section 52V applies as if the amendment were a new input methodology.
+
+### 52Y Review and date of publication of input methodologies
+(1) The Commission must review each input methodology no later than 7 years after its date of publication and, after that, at intervals of no more than 7 years.
+(2) The date of publication of an input methodology is the date on which it is published under section 52W(1)(a) or, if it is subsequently published under section 52W(1)(b), the date of that later publication.
+(3) Section 52V applies, with all necessary modifications, as if the review were a new input methodology.
+(4) Section 52W applies if, following a review, an input methodology is replaced or amended.
+
+**Appeals against input methodology determinations**
+
+### 52Z Appeals against input methodology determinations
+(1) Any person who gave views on an input methodology determination to the Commission as part of the process under section 52V, and who, in the opinion of the Court, has a significant interest in the matter, may appeal to the High Court against the determination.
+(2) In this section and section 52ZA, input methodology determination means any of the following:
+  (a) the initial determination of an input methodology:
+  (b) any determination by the Commission that amends the input methodology:
+  (c) any determination by the Commission of an input methodology following a review of the input methodology.
+(3) In determining an appeal against an input methodology determination, the Court may do any of the following:
+  (a) decline the appeal and confirm the input methodology set out in the determination:
+  (b) allow the appeal by—
+    (i) amending the input methodology; or
+    (ii) revoking the input methodology and substituting a new one; or
+    (iii) referring the input methodology determination back to the Commission with directions as to the particular matters that require amendment.
+(4) The Court may only exercise its powers under subsection (3)(b) if it is satisfied that the amended or substituted input methodology is (or will be, in the case of subsection (3)(b)(iii)) materially better in meeting the purpose of this Part, the purpose in section 52R, or both.
+(5) If the Court allows an appeal, the Commission may seek clarification from the Court on any matter for the purpose of implementing the Court's decision.
+(6) There is a right of appeal under section 97 to the Court of Appeal from any decision or order of the High Court under this section on a point of law only.
+
+### 52ZA Process for appeals
+(1) Any appeal under section 52Z must be brought within 20 working days after the date on which the input methodology determination is published.
+(2) The appeal must be by way of rehearing and must be conducted solely on the basis of the documentary information and views that were before the Commission when it made its determination, and no party may introduce any new material during the appeal.
+(3) The High Court must sit with 2 lay members (unless the Court considers that only 1 is required).
+(4) Each of the lay members must have relevant experience and be appointed from the pool of people appointed under section 77 to be members of the Court for the purpose of hearing the appeal.
+(5) Section 77 applies, and section 77(14) is not limited by subsection (3) of this section.
+
+### 53 Input methodology applies pending outcome of appeal
+(1) The High Court may not stay the application of section 52S with respect to any input methodology published under section 52W until any appeal against it is finally determined.
+(2) Section 52S continues to apply with respect to every input methodology published under section 52W until any appeal against the input methodology is finally determined.
+
+### Subpart 4 — Information disclosure regulation
+
+### 53A Purpose of information disclosure regulation
+The purpose of information disclosure regulation is to ensure that sufficient information is readily available to interested persons to assess whether the purpose of this Part is being met.
+
+### 53B Effect of being subject to information disclosure regulation
+(1) Every supplier of goods or services that are subject to information disclosure regulation must—
+  (a) publicly disclose information in accordance with the information disclosure requirements set out in the relevant section 52P determination; and
+  (b) supply to the Commission a copy of all information disclosed in accordance with the section 52P determination, within 5 working days after the information is first made publicly available; and
+  (c) supply to the Commission, in accordance with a written notice by the Commission, any further statements, reports, agreements, particulars, or other information required for the purpose of monitoring the supplier’s compliance with the section 52P determination.
+(2) If a supplier of goods or services is subject to information disclosure regulation, the Commission—
+  (a) may monitor and analyse all information disclosed in accordance with the information disclosure requirements; and
+  (b) must, as soon as practicable after any information is publicly disclosed, publish a summary and analysis of that information for the purpose of promoting greater understanding of the performance of individual regulated suppliers, their relative performance, and the changes in performance over time.
+
+### 53C Section 52P determination to set out information disclosure requirements
+(1) A section 52P determination relating to goods or services that are subject to information disclosure regulation must—
+  (a) specify the goods or services to which it applies; and
+  (b) specify the suppliers to which it applies; and
+  (c) specify the information to be disclosed; and
+  (d) specify the manner in which the information is to be disclosed; and
+  (e) specify the form of disclosure; and
+  (f) specify when, and for how long, information must be disclosed; and
+  (g) specify the input methodologies that apply; and
+  (h) specify any other methodologies that are required in the preparation or compilation of the information.
+(2) Information required to be disclosed may include (without limitation) any or all of the following:
+  (a) financial statements (including projected financial statements):
+  (b) asset values and valuation reports:
+  (c) prices, terms and conditions relating to prices, and pricing methodologies:
+  (d) contracts:
+  (e) transactions with related parties:
+  (f) financial and non-financial performance measures:
+  (g) plans and forecasts, including (without limitation) plans and forecasts about demand, investments, prices, revenues, quality and service levels, capacity and spare capacity, and efficiency improvements:
+  (h) asset management plans:
+  (i) quality performance measures and statistics:
+  (j) assumptions, policies, and methodologies used or applied in these or other areas:
+  (k) consolidated information that includes information about unregulated goods or services, in which case section 53D applies.
+(3) The section 52P determination may do all or any of the following:
+  (a) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be verified by statutory declaration:
+  (b) require independent audits of disclosed information:
+  (c) require the retention of data on which disclosed information is based, and associated documentation:
+  (d) exempt any person or class of persons, or provide for exemptions, from any requirements of the determination, and provide for the revocation of exemptions:
+  (e) provide for transitional provisions:
+  (f) impose any other requirements that the Commission considers necessary or desirable to promote the purpose of information disclosure regulation.
+(4) The section 52P determination may not require a supplier to publicly disclose any provision of an existing contract that, immediately before the goods or services became subject to information disclosure regulation, was not required by or under Part 4A (as defined in section 54B) or any other enactment to be publicly disclosed.
+
+### 53D Consolidated information may also be required
+(1) The purpose of this section is to enable the Commission to monitor compliance with information disclosure regulation applying to regulated goods or services.
+(2) A section 52P determination may require information referred to in subsection (3) to be disclosed only to the extent required to enable the purpose in subsection (1) to be met.
+(3) If a regulated supplier provides goods or services that are not subject to regulation under this Part (unregulated goods or services), the supplier may be required to disclose—
+  (a) consolidated financial statements, and any other information referred to in section 53C, for all businesses (including those related to the supply of unregulated goods or services) undertaken by that supplier; and
+  (b) consolidated financial statements, and any other information referred to in section 53C, for the supply of all unregulated goods or services in aggregate; and
+  (c) reconciliation between information provided under paragraphs (a) and (b) with information disclosed in accordance with information disclosure requirements applying to the regulated goods or services.
+(4) If a supplier supplies more than 1 kind of regulated goods or services, the Commission may require the supplier to provide consolidated information and performance measures relating to all, or any combination of, the regulated goods or services.
+
+### 53E Charge for providing copies to public
+(1) A person who is required, by a section 52P determination, to provide copies of statements and information to the public on request may charge for providing those copies.
+(2) The charge must be no more than is reasonably required to recover the costs of providing those copies.
+
+### 53F Limited exception to obligation to apply input methodologies
+(1) Despite section 52S, suppliers that are subject only to information disclosure regulation do not have to apply the following input methodologies in accordance with that section:
+  (a) pricing methodologies:
+  (b) methodologies for evaluating or determining the cost of capital.
+(2) However, to avoid doubt, subsection (1) does not affect anything else in this subpart, and in particular does not affect—
+  (a) section 53B(2) (which means the Commission may use the input methodologies referred to in subsection (1) to monitor and analyse information); and
+  (b) section 53C(2) (which means that suppliers may still be required to disclose information about the pricing methodologies, and methodologies for evaluation or determining the cost of capital, that they do in fact use).
+
+### Subpart 5 — Negotiate/arbitrate regulation
+
+### 53G Purpose of negotiate/arbitrate regulation
+The purpose of negotiate/arbitrate regulation is to encourage a supplier and its customers to reach agreement, through negotiation, on the supplier's prices and quality standards during a specified regulatory period, and to provide for binding arbitration if negotiation is unsuccessful.
+
+### 53H Overview of negotiate/arbitrate regulation
+(1) If a regulated supplier is subject to negotiate/arbitrate regulation,—
+  (a) the supplier must enter into negotiations with parties identified by the Commission in order to reach agreement on the matters identified by the Commission (being the prices and quality standards associated with regulated goods or services) that will apply for the regulatory period specified by the Commission; and
+  (b) if the negotiations fail to reach a settlement of all the matters within the time frames set by the Commission, the parties must enter into arbitration to resolve the outstanding matters; and
+  (c) the terms of the arbitration are set by the Commission, and the arbitral award is binding on the parties unless or until they agree to vary it.
+(2) This section is only a guide.
+
+### 53I Section 52P determination to set out requirements for application of negotiate/arbitrate regulation
+(1) If negotiate/arbitrate regulation applies to regulated goods or services, the section 52P determination must set out the following:
+  (a) the parties to the negotiation or arbitration:
+  (b) the matters (including the prices and quality standards associated with the regulated goods or services) that the parties must agree to by negotiation, or are bound to by arbitral award:
+  (c) the period or periods for which any negotiated settlement or arbitral award applies:
+  (d) a reference to the input methodologies that apply:
+  (e) the information that the parties must provide to the other parties and, if necessary, the arbitrator, and the time frames for that provision:
+  (f) the processes for negotiations, including the form of involvement by the parties, and the form, scope, and coverage of any negotiated settlement:
+  (g) the time frames for the negotiations (including stages in negotiations) and, in particular, the date by which, if negotiations are not complete, the parties must enter into arbitration to settle any remaining unresolved matters:
+  (h) the terms of any compulsory arbitration that takes place under section 53J, including its form, procedures, the allocation of costs, and powers of the arbitrator:
+  (i) the date by which the arbitral award must be made:
+  (j) the manner in which the parties must make publicly available any negotiated settlement, arbitral award, or both.
+(2) The Commission may include in the determination any other matters it considers necessary or desirable to promote the purpose of negotiate/arbitrate regulation.
+(3) If the parties to a negotiation agree to arbitration, the arbitration may be on whatever terms they agree to, but must be completed within the time frames set for the negotiation.
+(4) The Commission may extend any time frames set out in a section 52P determination.
+(5) The terms of arbitration set by the Commission must—
+  (a) allow the parties a reasonable period within which to agree on an arbitrator but, if agreement is not reached within that period (or any extended period allowed under subsection (4)), the terms must provide that the Commission must appoint the arbitrator (and may not appoint itself as the arbitrator); and
+  (b) include provisions enabling the parties to enforce the arbitral award; and
+  (c) include a right of appeal to the High Court, exercisable by any party to the arbitration, on a point of law only.
+
+### 53J Compulsory arbitration
+(1) If a settlement is not reached (whether by negotiation or voluntary arbitration) within the time frame set by the Commission, the parties must enter into arbitration under this section on the terms set out in the section 52P determination.
+(2) The Arbitration Act 1996 does not apply to arbitration under this section, but the Commission may, in setting out the terms of the arbitration in the section 52P determination, apply any provisions of that Act to the arbitration.
+(3) The arbitrator’s role is to make an arbitral award that promotes the purpose of this Part.
+(4) If final consumers of regulated goods or services are not directly represented as parties in the arbitration, the arbitrator must have particular regard to the effect of the outcome of the arbitration on those final consumers.
+(5) The arbitral award is binding on the parties to the arbitration unless or until the parties agree to vary it.
+
+### Subpart 6 — Default/customised price-quality regulation
+
+### 53K Purpose of default/customised price-quality regulation
+The purpose of default/customised price-quality regulation is to provide a relatively low-cost way of setting price-quality paths for suppliers of regulated goods or services, while allowing the opportunity for individual regulated suppliers to have alternative price-quality paths that better meet their particular circumstances.
+
+### 53L Overview of default/customised price-quality regulation
+(1) If goods or services are subject to default/customised price-quality regulation,—
+  (a) the Commission sets default price-quality paths that apply for a regulatory period, and all regulated suppliers must apply those default price-quality paths; but
+  (b) individual suppliers may make a proposal to the Commission for a customised price-quality path; and
+  (c) the Commission may set a customised price-quality path for the supplier, and that then applies for a set period instead of a specified default price-quality path.
+(2) This section is only a guide.
+
+### 53M Content and timing of price-quality paths
+(1) Every price-quality path (whether a default price-quality path or a customised price-quality path under this subpart, or an individual price-quality path under subpart 7) must specify,—
+  (a) in relation to prices, either or both of the following with respect to a specified regulatory period:
+    (i) the maximum price or prices that may be charged by a regulated supplier:
+    (ii) the maximum revenues that may be recovered by a regulated supplier; and
+  (b) the quality standards that must be met by the regulated supplier; and
+  (c) the regulatory period.
+(2) A price-quality path may include incentives for an individual supplier to maintain or improve its quality of supply, and those incentives may include (without limitation) any of the following:
+  (a) penalties by way of a reduction in the supplier's maximum prices or revenues based on whether, or by what amount, the supplier fails to meet the required quality standards:
+  (b) rewards by way of an increase in the supplier's maximum prices or revenue based on whether, or by what amount, the supplier meets or exceeds the required quality standards:
+  (c) consumer compensation schemes that set minimum standards of performance and require the supplier to pay prescribed amounts of compensation to consumers if it fails to meet those standards:
+  (d) reporting requirements, including special reporting requirements in asset management plans, if the supplier fails to meet the quality standards.
+(3) Quality standards may be prescribed in any way the Commission considers appropriate (such as targets, bands, or formulae) and may include (without limitation)—
+  (a) responsiveness to consumers; and
+  (b) in relation to electricity lines services, reliability of supply, reduction in energy losses, and voltage stability or other technical requirements.
+(4) A regulatory period must be 5 years.
+(5) However, the Commission may set a shorter period than 5 years if it considers that it would better meet the purposes of this Part, but in any event may not set a term less than 4 years.
+(6) Subsections (4) and (5) are subject to section 53W.
+(7) No default price-quality path applies to a supplier until the date specified in the relevant section 52P determination, which must be a date at least 4 months after a summary of the determination is published in the Gazette under section 52P(7)(b).
+
+### 53N Monitoring compliance with price-quality paths
+For the purpose of monitoring compliance with a price-quality path (whether a default price-quality path or a customised price-quality path under this subpart, or an individual price-quality path under subpart 7), the Commission may, in addition to exercising its powers under section 98, issue a written notice to a regulated supplier requiring it to provide any or all of the following:
+  (a) a written statement that states whether or not the supplier has complied with the price-quality path applying to that supplier:
+  (b) a report on the written statement referred to in paragraph (a) that is signed by an auditor in accordance with any form specified by the Commission:
+  (c) sufficient information to enable the Commission to properly determine whether all applicable price-quality paths have been complied with:
+  (d) a certificate, in the form specified by the Commission and signed by at least one director of the supplier, confirming the truth and accuracy of any information provided under this section.
+
+**Default price-quality path**
+
+### 53O Section 52P determination to set out requirements of default price-quality paths
+If default price-quality regulation applies to regulated goods or services, the section 52P determination must set out a default price-quality path that includes—
+  (a) the starting prices that apply to the supply of the goods or services during the first regulatory period; and
+  (b) the rate or rates of change in prices, relative to the consumer price index, allowed during the first regulatory period; and
+  (c) the quality standards that apply during the first regulatory period; and
+  (d) the date or dates on which the default price-quality path (or any part of it) takes effect; and
+  (e) the annual date by which any proposal for a customised price-quality path must be received; and
+  (f) the annual date by which compliance must be demonstrated in accordance with section 53N.
+
+### 53P Resetting starting prices, rates of change, and quality standards
+(1) Before the end of the first and every subsequent regulatory period, the Commission must amend the section 52P determination by setting out the starting prices (as referred to in section 53O(a)), rates of change (as referred to in section 53O(b)), and quality standards (as referred to in section 53O(c)) that apply for the following regulatory period.
+(2) In resetting starting prices, rates of change, and quality standards, the Commission must consult with interested parties.
+(3) The starting prices must be either—
+  (a) the prices that applied at the end of the preceding regulatory period; or
+  (b) prices, determined by the Commission, that are based on the current and projected profitability of each supplier.
+(4) Starting prices set in accordance with subsection (3)(b) must not seek to recover any excessive profits made during any earlier period.
+(5) Subject to subsection (8), the Commission must set only one rate of change per type of regulated goods or services (for example, if the rate of change (x) is 1% in a CPI−x path, 1% must be the rate for all goods or services of that type).
+(6) The rate of change must be based on the long-run average productivity improvement rate achieved by either or both of suppliers in New Zealand, and suppliers in other comparable countries, of the relevant goods or services, using whatever measures of productivity the Commission considers appropriate.
+(7) When setting the rate of change, the Commission may take into account the effects of inflation on the inputs of suppliers of the relevant goods or services.
+(8) The Commission may set alternative rates of change for a particular supplier—
+  (a) as an alternative, in whole or in part, to the starting prices set under subsection (3)(b) if, in the Commission's opinion, this is necessary or desirable to minimise any undue financial hardship to the supplier or to minimise price shock to consumers; or
+  (b) as an incentive (under section 53M(2)) for the supplier to improve its quality of supply.
+(9) Any alternative rates of change set under subsection (8) may include step changes.
+(10) The Commission may not, for the purposes of this section, use comparative benchmarking on efficiency in order to set starting prices, rates of change, quality standards, or incentives to improve quality of supply.
+(11) If starting prices, rates of change, and quality standards have not been set by way of an amendment to the relevant section 52P determination by the end of the regulatory period to which it applies, the starting prices, rates of change, and quality standards that apply at the end of the regulatory period continue to apply until the reset starting prices, rates of change, and quality standards are set.
+
+**Customised price-quality paths**
+
+### 53Q Supplier may propose customised price-quality path
+(1) At any time after a default price-quality path is set by the Commission, a supplier that is (or is likely to be) subject to the default price-quality path may make a proposal to the Commission for a customised price-quality path to apply to that supplier.
+(2) Every proposal must—
+  (a) comply with the input methodologies referred to in section 52T(1)(d) relating to the process for, and content of, customised price-quality path proposals; and
+  (b) be made within the period, or by the annual date, specified for the purpose in the section 52P determination; and
+  (c) include the standard application fee for customised price-quality path proposals; and
+  (d) apply or adopt all relevant input methodologies.
+(3) A supplier may make only 1 proposal during a regulatory period, and may not make a proposal within the 12 months before a default price-quality path is due to be reset.
+(4) A supplier that makes a proposal must make it publicly available as soon as practicable after it has been made to the Commission.
+
+### 53R Effect of making proposal for customised price-quality path
+A supplier that makes a proposal to the Commission—
+  (a) cannot withdraw the proposal; and
+  (b) is bound, for the regulatory period to which it applies, by any customised price-quality path that the Commission subsequently sets for the supplier.
+
+### 53S Preliminary assessment of proposal
+(1) Within 40 working days after receiving a proposal, the Commission must determine whether the proposal complies with the input methodologies referred to in section 52T(1)(d) relating to the process for, and content of, customised price-quality path proposals.
+(2) If the proposal does not comply with those requirements, the Commission may, at its discretion,—
+  (a) discontinue any consideration of the proposal; or
+  (b) request the supplier to remedy the deficiencies in the proposal by providing additional information within 40 working days.
+(3) If the supplier fails to provide any additional information requested by the Commission under subsection (2)(b), the Commission may discontinue any consideration of the proposal.
+(4) If a proposal is discontinued under subsection (2) or (3), section 53Q(3) does not apply and the supplier may make another proposal within the regulatory period (except in the 12 months before the default price-quality path is due to be reset).
+
+### 53T Process and timing for assessing proposal
+(1) Once the Commission decides that a proposal complies with the input methodologies relating to the process for, and content of, customised price-quality path proposals, it must—
+  (a) give notice that the proposal is under consideration, and how copies of the proposal may be obtained; and
+  (b) set a date for interested persons to make submissions on the proposal; and
+  (c) have regard to any submissions made by that date.
+(2) The Commission must make a determination on a proposal for a customised price-quality path within 150 working days of receiving a complete proposal, subject to sections 53U and 53Z.
+
+### 53U Extension of time frames
+The time frames specified in sections 53S and 53T may, with the agreement of the supplier and the Commission, each be extended by a total of up to 30 working days.
+
+### 53V Determination setting customised price-quality path
+(1) The Commission may determine any customised price-quality path that the Commission considers appropriate for a supplier that has made a proposal.
+(2) To avoid doubt, and without limitation, in determining a customised price-quality path that complies with section 53M the Commission may do any of the following:
+  (a) set a price-quality path that is lower, or otherwise less favourable to the regulated supplier, than the default price-quality path that would otherwise apply:
+  (b) if it sets a lower or a higher price than applied under the default price-quality path, apply claw-back:
+  (c) with the agreement of the supplier, vary an input methodology that would otherwise apply to the supplier.
+(3) A customised price-quality path for a supplier is imposed by way of an amendment to the section 52P determination relating to the default/customised price-quality regulation applying to the supplier.
+
+### 53W Term of customised price-quality paths
+(1) A customised price-quality path applies for 5 years.
+(2) However, the Commission may set a shorter period than 5 years if it considers this would better meet the purpose of this Part, but in any event may not set a term less than 3 years.
+
+### 53X What happens when customised price-quality path ends
+(1) When the customised price-quality path of a supplier of goods or services ends, the supplier is subject to the default price-quality path that is generally applicable to other suppliers of those goods or services.
+(2) The starting prices that apply at the beginning of the default price-quality path are those that applied at the end of the customised price-quality path unless, at least 4 months before the end of the customised price-quality path, the Commission advises the supplier that different starting prices must apply.
+(3) The supplier remains subject to the default price-quality path until—
+  (a) the end of the period for which it applies to other suppliers; or
+  (b) a new customised price-quality path begins to apply to the supplier.
+(4) To avoid doubt, a supplier who is or was subject to a customised price-quality path may apply in accordance with section 53Q for another customised price-quality path.
+
+### 53Y Commission's costs in setting customised price-quality path
+(1) The Commission’s costs in setting a customised price-quality path must be met by the person who makes the proposal for a customised price-quality path.
+(2) The costs may be recovered in whatever manner the Commission determines.
+
+### 53Z Prioritisation by Commission
+(1) The Commission is not required to consider any more than 4 proposals for a customised price-quality path relating to the same type of regulated goods or services in any one year.
+(2) If the Commission receives more than 4 proposals for a customised price-quality path relating to the same type of regulated goods or services in any one year, the Commission—
+  (a) may defer the additional proposals to a subsequent year; but
+  (b) must prioritise its consideration of the proposals in accordance with the criteria in subsection (3).
+(3) The criteria for Commission decisions on priorities are as follows:
+  (a) quality and completeness of the initial proposal:
+  (b) urgency of any proposed additional investment (compared to historic rates of investment) required to meet consumer requirements on quality:
+  (c) materiality of the proposal relative to the size and revenues of the supplier.
+
+### 53ZA What happens if Commission does not make decision within time frame
+(1) This section applies if the Commission does not make a determination within 150 working days of receiving a complete proposal (or within any extended time agreed under section 53U).
+(2) If the regulated supplier has not complied, in the Commission’s opinion, with any reasonable exercise by the Commission of its information-gathering powers under section 53ZD or 98, the default price-quality path continues in effect at the close of that period, and the Commission must notify the supplier accordingly.
+(3) If the regulated supplier has so complied, the customised proposal made under section 53Q takes effect at the close of that period.
+(4) If a customised price-quality path proposal takes effect under subsection (3), the Commission must immediately prepare an amendment to the relevant section 52P determination, setting out the customised price-quality path applying to the supplier.
+
+**What happens to price-quality paths if input methodologies change**
+
+### 53ZB What happens to price-quality paths if input methodologies change
+(1) Default or customised price-quality paths may not be reopened within a regulatory period on the grounds of a change in an input methodology, except as provided in subsection (2).
+(2) Every default and customised price-quality path must be reset by the Commission in accordance with section 53P if—
+  (a) an input methodology changes as a result of an appeal under section 52Z; and
+  (b) had the changed methodology applied at the time the price-quality path was set, it would have resulted in a materially different path being set.
+(3) When resetting a default or customised price-quality path under subsection (2), the Commission must apply claw-back.
+
+### Subpart 7 — Individual price-quality regulation
+
+### 53ZC Price-quality path for individual businesses
+(1) If individual price-quality regulation applies to goods or services supplied by a supplier, the Commission may set the price-quality path for that supplier using any process, and in any way, it thinks fit, but must use the input methodologies that apply to the supply of those goods or services.
+(2) The following provisions of subpart 6 apply (with all necessary modifications) where individual price-quality regulation is imposed:
+  (a) sections 53M and 53N:
+  (b) section 53ZB.
+
+### Subpart 8 — Miscellaneous provisions
+
+### 53ZD Powers of Commission under this Part
+For the purpose of carrying out its functions and exercising its powers under this Part, the Commission may, in addition to exercising its powers under section 98, do any of the following:
+  (a) consult with any person the Commission considers may assist it:
+  (b) investigate any of the following:
+    (i) how effectively and efficiently any supplier of the goods or services is supplying the goods or services:
+    (ii) how any formula, methodology, or price-quality path being considered by the Commission may be applied, or how any formula, methodology, or price-quality provision determined or authorised by the Commission has been applied, in considering proposed prices or quality standards:
+    (iii) how any conditions relating to the quality of the goods or services may be, or are being, fulfilled:
+  (c) examine, consider, or investigate any activity, cost, revenue, transfer, asset valuation, circumstance, or event that is occurring or that has occurred during the previous 7 years:
+  (d) by notice in writing, require any supplier of the goods or services—
+    (i) to prepare and produce forecasts, forward plans, or other information; and
+    (ii) to apply any methodology specified by the Commission in the preparation of forecasts, forward plans, or other information:
+  (e) by notice in writing, require any supplier of the goods or services, or any previous supplier of them that the Commission has reason to believe may have information or documents relevant to the investigation, audit, or inquiry, at the time and place specified in the notice, to do either or both of the following:
+    (i) produce or supply to the Commission documents and information in relation to the goods or services, or the prices or operations of the person in respect of the goods or services:
+    (ii) to answer any questions about any matter that the Commission has reason to believe may be relevant to the investigation, audit, or inquiry:
+  (f) by notice in writing, require any supplier of the goods or services, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to the matters in paragraph (b), (c), (d), or (e)(i).
+
+### 53ZE Levies
+(1) Every supplier of regulated goods or services (or prescribed class of suppliers of regulated goods or services) must pay to the Minister the levy determined in accordance with regulations made under subsection (2).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
+  (a) specifying the amount of levies, or method of calculating or ascertaining the amount of levies, on the basis that the estimated costs of performing the Commission's functions, powers, and duties under this Part, and of collecting the levy money, should be met fully out of levies:
+  (b) including, or providing for the inclusion, in levies of any shortfall in recovering those actual costs:
+  (c) refunding, or providing for refunds of, any over-recovery of those actual costs:
+  (d) providing different levies for different classes of suppliers or goods or services:
+  (e) specifying the financial year or part financial year to which those levies apply, and applying to that financial year or part financial year and each subsequent financial year until revoked or replaced:
+  (f) providing for the payment and collection of those levies:
+  (g) for the first financial year to which the levy applies to a supplier or class of suppliers, including in the levy amount or method costs incurred by the Commission in connection with preparing itself to perform, and performing, its functions, powers, and duties under this Part, irrespective of the fact—
+    (i) that the regulations are made and come into effect after that year; or
+    (ii) that the goods or services become regulated after the costs were incurred (for example, costs incurred by the Commission in preparing input methodologies):
+  (h) requiring payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
+  (i) exempting or providing for exemptions from, and providing for waivers of, the whole or any part of the levy for any case or class of cases.
+(3) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+(4) The Minister must consult with the suppliers of regulated goods or services, or representatives of those suppliers, before making a recommendation for the purposes of subsection (2).
+
+### 53ZF Material may be incorporated by reference
+Schedule 5 applies if the Commission wishes to incorporate material by reference in any of the following documents:
+  (a) a section 52P determination:
+  (b) an input methodology.
+
+### 53ZG Power to exempt disclosure of commercially sensitive information
+(1) The Commission may, on application, exempt any person or class of persons, in respect of any information or class of information that the Commission considers to be commercially sensitive, from any obligation to make that information publicly available as part of the requirements of information disclosure regulation, negotiate/arbitrate regulation, or customised price-quality regulation.
+(2) The Commission may grant the exemption on any terms and conditions that it thinks fit.
+(3) The exemption must be granted by notice in the Gazette, and takes effect from the date specified in the exemption (which must not be earlier than the date of the Gazette notice).
+(4) The Commission may, in like manner, vary or revoke any exemption.
+(5) The Commission must keep a list of all current exemptions made by it under this section available for public inspection free of charge during normal office hours of the Commission at the offices of the Commission.
+(6) An exemption under this section is not a regulation within the meaning of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+
+### Subpart 9 — Electricity lines services
 
 ### 54 Minister may seek advice from Commission as to thresholds for imposing controls
-(1) The Minister may require the Commission to advise him or her on the thresholds that would assist him or her in assessing whether goods or services should be controlled under section 52.
-(2) Thresholds can be expressed in quantitative or qualitative terms.
-(3) If the Minister requires advice on thresholds under this section,—
-  (a) the requirement must be in writing; and
-  (b) the requirement must specify the date by which the Commission must provide the advice; and
-  (c) the Commission must advise accordingly.
-(4) The Minister must publish the Commission's advice in a manner that he or she considers appropriate.
+[Repealed]
 
-### 55 Effect of control being imposed
-(1) No person may supply any controlled goods or services unless—
-  (a) an authorisation under section 70 or section 71, or an undertaking under section 72, has come into effect in respect of those goods or services; and
-  (b) the goods or services are supplied in compliance with the authorisation or undertaking.
-(2) A provision of a contract or a covenant that contravenes subsection (1) is not enforceable.
+### 54D Definition of consumer-owned
+(1)
+(2)
+(3) As soon as practicable after this subsection comes into force, the Minister must publish a notice in the Gazette stating the names of the suppliers that are consumer-owned as at that date.
+(4)
 
-**Miscellaneous provisions**
+### 54N Breaches of thresholds and default price-quality paths before 1 April 2010
+(1) This section applies to—
+  (a) any breach of a threshold that occurred before the close of 31 March 2007; and
+  (b) any breach of a threshold that occurs on or after 1 April 2007 and before the close of 31 March 2009; and
+  (c) any breach of a default price-quality path that occurs on or after 1 April 2009 and before the close of 31 March 2010.
+(2) The Commission may not publish a notice of intention to declare control under Part 4A,—
+  (a) in respect of a breach referred to in subsection (1)(a), at any time after 1 October 2008; and
+  (b) in respect of a breach referred to in subsection (1)(b) or (c), at any time after the expiry of 12 months after the end of the financial year in which the breach occurs.
+(3) The Commission may, at any time before the expiry of 12 months after the date on which the Commission publishes a notice of intention to declare control under subsection (2) in respect of the breach,—
+  (a) make a control declaration under Part 4A; or
+  (b) enter into an administrative settlement in respect of the breach under Part 4A.
+(4) The Commission may do anything under subsections (2) and (3) as if the Commerce Amendment Act 2008 had not been enacted, except that the purpose in section 52A must be taken to be the purpose of Part 4A.
+(5) To avoid doubt, the Commission may, but need not, apply input methodologies in acting under subsection (3).
+(6) Despite anything in Part 4A, any control imposed, or administrative settlement entered into, under Part 4A in accordance with subsection (3) is subject to the following:
+  (a) the term of control, or of the settlement, must be not more than 5 years:
+  (b) the expiry of the term must be treated as if it were the expiry of a customised price-quality path, and section 53X applies accordingly (unless the supplier concerned would not otherwise be subject to default/customised price-quality regulation after the expiry of the term).
 
-### 56 Reports from Commission to Minister about controls
-(1) The Commission may report to the Minister on whether or not an Order in Council under section 53 should be made, amended, or revoked.
-(2) The Commission may have regard, in considering a report, to all matters it considers necessary or desirable.
-(3) The Commission may report at any time on its own initiative or following a request from the Minister.
-(4) If the Minister requests a report,—
-  (a) the request must be in writing; and
-  (b) the request must specify the date by which the Commission must report; and
-  (c) the Commission must report accordingly.
-(5) The Minister must publish the Commission's report in a manner that he or she considers appropriate.
-(6) Section 70E applies when the Commission is making a report as if the goods or services subject to the report were controlled goods or services, and with any other necessary modifications.
+### Subpart 10 — Gas pipeline services
+
+**Overview and interpretation**
+
+### 55 Overview of subpart
+(1) This subpart provides—
+  (a) that certain gas pipeline services are subject to information disclosure regulation and price-quality regulation; and
+  (b) for the transition to the new regime provided for in this Part.
+(2) This section is only a guide.
+
+### 55A Meaning of gas pipeline services
+(1) In this subpart, unless the context otherwise requires, gas pipeline services means the conveyance of natural gas by pipeline, including the assumption of responsibility for losses of natural gas.
+(2) However, none of the following are gas pipeline services:
+  (a) conveying natural gas to a gas processing facility:
+  (b) conveying natural gas if the total amount of gas conveyed to consumers by the supplier is less than 75 000 gigajoules per annum:
+  (c) conveying natural gas by a pipeline that is listed in the second column of Schedule 6.
+(3) The gas conveyed, when measured in relation to a supplier includes, for the purposes of subsection (2)(b), the gas conveyed by any associate of the supplier.
+(4) In this section, unless the context otherwise requires,—
+  - **associate** has the same meaning as in section 12 of the Electricity Industry Reform Act 1998
+  - **consumer** has the same meaning as in section 2(1) of the Gas Act 1992
+  - **container** has the same meaning as in section 2(1) of the Gas Act 1992
+  - **gas refueller** has the same meaning as in section 2(1) of the Gas Act 1992
+  - **pipeline** —
+    (a) means everything used, or designed or intended for use, (whether above or below ground) in or in connection with the conveyance of natural gas between—
+      (i) the boundary of the gas field or gas processing facility to the point of supply to a consumer or gas refueller; or
+      (ii) the outlet of the container in which gas is stored to the point of supply to a consumer or gas refueller; but
+    (b) excludes meters.
+(5) The Governor-General may, by Order in Council made on the recommendation of the Minister, amend Schedule 6 by—
+  (a) adding any pipeline:
+  (b) deleting any pipeline:
+  (c) changing the description of any pipeline or its owner.
+(6) The Minister may make a recommendation for the purpose of subsection (5) only if the Minister is satisfied that—
+  (a) the Commission has made a recommendation to the same effect; and
+  (b) in the case of a recommendation to add a pipeline, the gas pipeline services are supplied in a market where the owner of the pipeline does not have a substantial degree of market power; and
+  (c) in the case of a recommendation to delete a pipeline, the gas pipeline services are supplied in a market where the owner of the pipeline has a substantial degree of market power; and
+  (d) the Commission has consulted (without necessarily holding an inquiry) with interested parties.
+
+**Imposition of regulation under this Part**
+
+### 55B Gas pipeline services declared to be regulated
+Gas pipeline services are regulated under this Part.
+
+### 55C All gas pipeline services are subject to information disclosure regulation
+Gas pipeline services are subject to information disclosure regulation under this Part.
+
+### 55D All gas pipeline services are subject to price-quality regulation
+Gas pipeline services are subject to default/customised price-quality regulation under this Part on and after 1 July 2010.
+
+### 55E Commission must make section 52P determination specifying how subpart applies
+(1) The section 52P determinations that specify how information disclosure regulation applies to each supplier of gas pipeline services must be made as soon as practicable after this subpart comes into force.
+(2) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services must be made as soon as practicable after 1 July 2010, in the manner set out in section 55F.
+(3) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of gas pipeline services that become subject to that form of regulation as a result of an Order in Council made under section 55A(5)(a) must be made as soon as practicable after the order comes into force.
+
+### 55F Section 52P determinations setting out first default price-quality paths
+(1) The Commission must use the processes set out in section 53P in making the first section 52P determinations that set out how default price-quality regulation applies to suppliers of gas pipeline services as if 30 June 2010 were the end of the previous regulatory period.
+(2) However, if a supplier has increased its weighted average prices by more than the movement, or forecast movement, in the all groups index number of the New Zealand Consumer Price Index in the period beginning 1 January 2008 and ending with the date that the determination is made, the Commission may apply claw-back to the extent of requiring the supplier to lower its prices in order to compensate consumers for some or all of any over-recovery of revenues that occurred during that period.
+(3) The Commission may set a default price-quality path in respect of suppliers of gas pipeline services even if all or any of the relevant input methodologies have not been determined.
+(4) If an input methodology is published after a section 52P determination referred to in subsection (1) is made, and if, had that methodology applied at the time the default price-quality paths were set as required by subsection (1), it would have resulted in a materially different path being set, then the Commission may reset the default price-quality paths and may apply claw-back, despite section 53ZB(1).
+(5) However, the Commission may not exercise its powers in subsection (4) later than 9 months after the date of publication of the input methodology.
+
+**Services controlled by virtue of Commerce (Control of Natural Gas Services) Order 2005**
+
+### 55G Existing order, authorisations, and undertakings continue to apply until 1 July 2012 (or earlier expiry)
+(1) This section provides how price-quality regulation under this Part applies to services that are controlled by virtue of the Commerce (Control of Natural Gas Services) Order 2005 (the Order)
+(2) The Order continues in force, despite the repeal of Part 4 (as it was before its repeal by the Commerce Amendment Act 2008), until the date on which the Order expires or is revoked (the expiry date).
+(3) The enactment of the Commerce Amendment Act 2008 does not limit or affect, before the expiry date, any of the following in respect of the gas pipeline services that are controlled by virtue of the Order:
+  (a) any authorisation made (including the ability to amend or revoke an authorisation), or any undertaking obtained or accepted, under Part 5 before 1 April 2009; or
+  (b) the power of the Commission to obtain or accept any further undertakings under Part 5; or
+  (c) any action that may be commenced or continued in respect of a breach of any authorisation or undertaking.
+(4) To avoid doubt, subsection (3) applies as if the provisions of Parts 4 to 6 had not been amended or repealed by the Commerce Amendment Act 2008.
+(5) However, any breach of the Order after 1 April 2009 may be dealt with under Part 6 as if it were a breach of a customised price-quality path.
+
+### 55H How price-quality regulation under this Part applies after 1 July 2012 (or earlier expiry)
+(1) This section provides how price-quality regulation under this Part applies to a gas pipeline service after it ceases to be controlled by virtue of the Commerce (Control of Natural Gas Services) Order 2005 (the Order).
+(2) The expiry of the Order must be treated as if it were the expiry of a customised price-quality path, and section 53X applies accordingly.
+(3) In this section, the date on which the Order expires is—
+  (a) the expiry date referred to in section 55G; or
+  (b) if an undertaking is obtained or accepted from a supplier in respect of a service that expires on an earlier date, that earlier date, provided that the Order ceases to apply to that service on or before that date (by revocation of the Order or otherwise).
+
+**Interface with Gas Act 1992**
+
+### 55I Impact of certain decisions made under Gas Act 1992
+(1) The recommending body must advise the Commerce Commission as soon as practicable after making any recommendation for a gas governance regulation or rule under Part 4A of the Gas Act 1992, or after making any decision under gas governance regulations or rules, or after issuing any guidelines, that is or are likely to be relevant to the powers of the Commerce Commission under this Part.
+(2) The Commission must take into account, before exercising any of its powers under this Part,—
+  (a) any gas governance regulation or rule under Part 4A of the Gas Act 1992,, or decision under those gas governance regulations or rules, that relates to or affects the quality standards or pricing methodologies applicable to a pipeline owner:
+  (b) any guidelines issued by the recommending body of which it is advised under subsection (1) that are likely to be relevant to the powers of the Commerce Commission under this Part:
+  (c) the levy payable by any pipeline owner under the Gas Act 1992.
+(3) The Commission must, if asked by the recommending body to do so, reconsider any section 52P determination and, to the extent that the Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (2).
+(4) In this section, recommending body has the same meaning as in section 43D of the Gas Act 1992.
+
+**Savings provisions**
+
+### 55J Savings provision until Commission publishes information disclosure requirements
+(1) The Gas (Information Disclosure) Regulations 1997 continue to apply to each supplier of gas pipeline services in respect of every financial year that precedes the first financial year to which a determination made by the Commission referred to in section 55E(1) applies to that supplier.
+(2) After that, no regulations made under section 55 of the Gas Act 1992 apply to the supplier of gas pipeline services.
+
+### 55K Savings provision for existing levy regulations for services controlled under Commerce (Control of Natural Gas Services) Order 2005
+(1) Any regulations made pursuant to section 74 before the repeal of that section continue to apply to each person that is a supplier of controlled services under the Commerce (Control of Natural Gas Services) Order 2005 in respect of every financial year that precedes the first financial year to which levy regulations made under section 53ZE apply to that supplier.
+(2) Subsection (1) applies as if—
+  (a) references in those regulations to the Commission's costs include references to the costs of exercising the Commission's powers and performing its duties under this Part, and enforcing the obligations under this Part, in respect of those persons, and with all other necessary modifications; and
+  (b) terms used in subsection (1) have the same meaning as they do in those regulations.
+
+### Subpart 11 — Airport services
+
+**Overview and interpretation**
+
+### 56 Overview of subpart
+(1) This subpart provides—
+  (a) that specified airport services (at Auckland, Wellington, and Christchurch airports) are subject to information disclosure under this Part; and
+  (b) for the transition to the new regime provided for in this Part; and
+  (c) for a review of the new regime as soon as any new price is set in 2012 for specified airport services.
+(2) This section is only a guide.
+
+### 56A Meaning of specified airport services
+(1) In this Part, unless the context otherwise requires, specified airport services means all of the services supplied by the companies referred to in subsection (2) in markets directly related to the following activities (whether for international and domestic flights):
+  (a) aircraft and freight activities:
+  (b) airfield activities:
+  (c) specified passenger terminal activities:
+  (d) any other services that are determined by the Governor-General, by Order in Council made on the recommendation of the Minister under subsection (4), to be specified airport services for the purposes of this Part.
+(2) The companies are—
+  (a) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
+  (b) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport:
+  (c) the airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch International Airport or any subsidiary of, or successor to, that company that operates all or part of the airport.
+(3) Terms used in subsection (1)(a) to (c) have the same meanings as in section 2 of the Airport Authorities Act 1966.
+(4) The Minister may recommend that an Order in Council be made under subsection (1)(d) only if the Minister is satisfied that—
+  (a) the Commission has made a recommendation to the same effect; and
+  (b) the services are supplied in a market where any or all of the companies referred to in subsection (2) have a substantial degree of market power; and
+  (c) the Commission has consulted (without necessarily holding an inquiry) with interested parties.
+
+**Imposition of regulation under this Part**
+
+### 56B Specified airport services declared to be regulated
+Specified airport services are regulated under this Part.
+
+### 56C Specified airport services are subject to information disclosure regulation
+Specified airport services are subject to information disclosure regulation under this Part.
+
+### 56D Duty to also disclose to Secretary of Transport
+Each supplier of specified airport services must supply to the Secretary of Transport a copy of any information disclosed under this Part, as soon as practicable after so disclosing it.
+
+### 56E Commission must make determination specifying how subpart applies
+The section 52P determinations that specify how information disclosure regulation applies to each supplier of specified airport services must be made no later than 1 July 2010 (or, if the deadline for determining input methodologies is extended under section 52U(2), no later than the day after the date to which that deadline is extended).
+
+**How information disclosure regulation applies**
+
+### 56F Transitional provision until Commission publishes information disclosure requirements
+(1) The Airport Authorities (Airport Companies Information Disclosure) Regulations 1999 continue to apply to each supplier of specified airport services in respect of every financial year that precedes the first financial year to which a determination made by the Commission under section 56E applies to that supplier.
+(2) After that, no regulations made under section 9A of the Airport Authorities Act 1966 apply to that supplier.
+(3) Each supplier of specified airport services must supply to the Commission a copy of any information disclosed under those regulations, as soon as practicable after so disclosing.
+(4) The Commission may monitor and analyse any information supplied to it under this section.
+
+### 56G Transitional provision requiring review after new prices set
+(1) As soon as practicable after any new price for a specified airport service is set in or after 2012 by a supplier of the service, the Commission must—
+  (a) review the information that has been disclosed by suppliers of specified airport services under subpart 4; and
+  (b) consult (without necessarily holding an inquiry) with interested parties; and
+  (c) report to the Ministers of Commerce and Transport as to how effectively information disclosure regulation under this Part is promoting the purpose in section 52A in respect of the specified airport services.
+(2) To avoid doubt, subsection (1) applies regardless of whether or not any new price for a specified airport service is set before 2012.
 
 ### 57 Commission process
-(1) Before giving any advice to the Minister on thresholds under section 54 or making any report under section 56, the Commission must—
-  (a) publish its intention to do so and invite interested persons to give their views on the matter; and
-  (b) give a reasonable opportunity to interested persons to give those views; and
-  (c) have regard to those views.
-(2) The notice of intention must—
-  (a) be published in the Gazette and in any other manner (if any) that the Commission considers appropriate; and
-  (b) specify the matter to which the advice or report will relate; and
-  (c) invite interested persons to give their views on that matter to the Commission, and specify the time and manner within which they may do so.
+[Repealed]
 
 ### 57A Technical provisions relating to declaration of control
-(1) An Order in Council made under section 53 may identify the goods or services to which it relates—
-  (a) by a description of the goods or services; or
-  (b) by a description of the kind or class to which the goods or services belong.
-(2) The order may apply to goods or, with all necessary modifications, to services—
-  (a) supplied in or for delivery within specified regions, areas, or localities in New Zealand:
-  (b) supplied in different quantities, qualities, grades, or classes:
-  (c) supplied by or to or for the use of different persons or classes of persons.
-(3) This section applies so that any part or element of goods or services can be dealt with separately.
-(4) The order must specify the date on which it expires.
-(5) If an order is made in the interests of suppliers, references in this Act to supply and supplier are to be read with any necessary modifications as if they related to the acquisition, or person acquiring, the controlled goods or services.
-(6) The order is a regulation within the meaning of the Regulations (Disallowance) Act 1989.
+[Repealed]
 
 ### 57B Records to be kept for control purposes
-(1) Every supplier of controlled goods or services must retain the accounts and costing records in relation to the controlled goods or services that the Commission may from time to time specify, either in relation to suppliers of those goods or services generally, or in relation to a particular supplier of the goods or services.
-(2) The supplier must retain those accounts and records for a period of 7 years from the date on which the goods or services to which they relate cease to be controlled goods or services.
+[Repealed]
 
 ### 57C Other Acts relating to price control not affected
-Nothing in this Part and Part 5 limits or affects the exercise by any person of any power to authorise the prices for, or impose controls on, goods or services under any other Act.
+[Repealed]
 
 ### 57CA Impact of certain decisions made under Gas Act 1992
-(1) This section applies if—
-  (a) the Commission is exercising powers under this Part or sections 70 to 72 in relation to the gas industry; and
-  (b) the industry body is approved or the Energy Commission is established under Part 4A of the Gas Act 1992.
-(2) The Commission must take into account, before exercising any of its powers under this Part or sections 70 to 72,—
-  (a) any gas governance regulation or rule under Part 4A of the Gas Act 1992, or any decision under those gas governance regulations or rules, that relates to or affects the quality standards or pricing methodologies applicable to a pipeline owner:
-  (b) the levy payable by any pipeline owner under the Gas Act 1992.
-(3) The Commission must, if asked by the Energy Commission to do so, reconsider an existing authorisation or undertaking and, to the extent that the Commission considers it necessary or desirable to do so, vary the authorisation or accept a revised undertaking, to take account of any matter referred to in subsection (2).
+[Repealed]
 
 ## Part 4A — Provisions applicable to electricity industry
 
 ### 57D Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **consumer** has the same meaning as in section 2(1) of the Electricity Act 1992
-  - **electricity business** has the same meaning as in section 3 of the Electricity Industry Reform Act 1998
-  - **electricity lines business** has the same meaning as in section 4 of the Electricity Industry Reform Act 1998
   - **information and disclosed information** includes any statements, certificates, or other information required to be disclosed under subpart 3
-  - **involved** has the same meaning as in section 7 of the Electricity Industry Reform Act 1998
   - **large electricity distributor** means an electricity distributor other than a small lines business
   - **large electricity lines business** means an electricity lines business other than a small lines business
   - **large line owner** means a line owner other than a small lines business
@@ -672,6 +1412,62 @@ Nothing in this Part and Part 5 limits or affects the exercise by any person of 
     (d) the lines owned by the person (or over which electricity is conveyed by the person, as the case may be) are not connected, directly or indirectly, to the national grid
   - **Transpower** means Transpower New Zealand Limited or any subsidiary of, or successor to, that company.
 (2) The prescribed voltage electric lines, the electricity conveyed, or the number of consumers to whom electricity is conveyed, when measured in relation to a person (person A) include, for the purposes of subsection (1), the lines owned by, electricity conveyed by, or number of consumers of, any person (person B) who carries on an electricity business in which person A is involved or who is involved in the electricity business carried on by person A.
+(3) In this Part, unless the context otherwise requires,—
+  - **electricity business** means an electricity lines business or an electricity supply business or an unseparated electricity business
+  - **electricity lines business** has the same meaning as in section 57DAA
+  - **electricity supply business** has the same meaning as in section 57DAAB
+  - **involved** has the same meaning as it did in section 7 of the Electricity Industry Reform Act 1998 before the enactment of the Electricity Industry Reform Amendment Act 2008.
+(4) In relation to sections 57DAA and 57DAAB,—
+  (a) limitations, exclusions, or exemptions under those sections may be applied cumulatively; and
+  (b) references to an activity being carried out only or solely for a particular purpose or in a particular way must not be read as excluding reliance on any other limitation, exclusion, or exemption in either of those sections.
+
+### 57DAA Meaning of electricity lines business
+(1) For the purposes of this Part, electricity lines business—
+  (a) means a business that conveys electricity by line in New Zealand; and
+  (b) includes the ownership or operation, directly or indirectly, of lines in New Zealand or any other core assets of an electricity lines business.
+(2) None of the following activities brings a person within subsection (1):
+  (a) conveying, together with its associates (if any), less than 2.5 GWh per annum:
+  (b) conveying electricity solely for its own consumption or for the consumption of its associates:
+  (c) conveying electricity only from a generator to the national grid or from the national grid to a generator:
+  (d) conveying electricity (other than via the national grid) only from a generator to a local distribution network or from a local distribution network to a generator:
+  (e) conveying electricity by lines that are owned or operated by a business that also owns or operates a generator which generates electricity solely for the consumption of a local community, where both those lines and that generator are not connected, directly or indirectly, to the national grid:
+  (f) conveying electricity only by a line or lines that are mostly in competition with a line or lines operated by another electricity lines business that is not an associate of the person, provided that the competition is actual competition and not potential competition:
+  (g) owning or operating, directly or indirectly, lines referred to in any of paragraphs (a) to (f) or any other core assets of an electricity lines business used in connection with those lines.
+(3) Terms used in this definition have the same meanings as they did in the Electricity Industry Reform Act 1998 before the enactment of the Electricity Industry Reform Amendment Act 2008.
+
+### 57DAAB Meaning of electricity supply business
+(1) For the purposes of this Part, electricity supply business—
+  (a) means a business that—
+    (i) sells electricity in New Zealand:
+    (ii) sells financial hedges for risks relating to the price of electricity in New Zealand:
+    (iii) generates electricity in New Zealand:
+    (iv) trades in rights to sell or generate electricity in New Zealand; and
+  (b) includes the ownership or operation, directly or indirectly, of a generator in New Zealand or any other core generation assets; and
+  (c) includes the ownership or operation, directly or indirectly, of any core assets of an electricity retail business, which include—
+    (i) the customer database relating to, and used for the purposes of, an electricity retail or electricity trading business; and
+    (ii) the benefit of a contract to sell electricity; and
+    (iii) the benefit of an undertaking from any other electricity supply business not to compete with the business.
+(2) None of the following activities brings a person within subsection (1):
+  (a) generating or selling less than 2.5 GWh per annum:
+  (b) generating or selling electricity solely for its own consumption or for the consumption of its associates:
+  (c) generating electricity solely for the consumption of a local community, where—
+    (i) the generator is owned or operated by a business that also conveys electricity by line; and
+    (ii) both those lines and that generator are not connected, directly or indirectly, to the national grid:
+  (d) selling electricity that is generated at a generator referred to in paragraph (c) or subsection (3):
+  (e) generating electricity from distributed generation, and selling the electricity generated, if—
+    (i) the generating capacity of the distributed generation is no more, at any one time, than the greater of 5 MW (determined according to nameplate or nameplates) and 2% of the maximum demand, in the immediately preceding financial year, of the lines to which the distributed generation is connected; and
+    (ii) the distributed generation is owned or operated by a business that also conveys electricity by line and that distributed generation is connected to those lines:
+  (f) selling financial transmission rights that hedge risks arising from the effects of losses and constraints on the national grid:
+  (g) owning or operating, directly or indirectly, a generator referred to in any of paragraphs (b) to (f) or subsection (3) or any other core generation assets used in connection with those generators.
+(3) A person may, without coming within subsection (1), generate electricity at a generator or generators that are existing, and capable of generating electricity, as at 23 June 1998, if the total generating capacity (determined according to nameplate or nameplates) of the business, together with its associates (if any), is 5 MW or less.
+(4) Transpower New Zealand Limited, and any subsidiary of or successor to that company, may, without coming within subsection (1), contract with an electricity supply business for that electricity supply business to generate electricity for the purpose of deferring the need for investment by Transpower New Zealand Limited, or any subsidiary of or successor to that company, in the national grid.
+(5) For the purposes of subsection (2),—
+  - **financial transmission right** means a financial instrument issued by the real time co-ordinator of electricity supply and demand in New Zealand that—
+    (a) is funded exclusively by the difference between purchaser payments and generator receipts on the sale and purchase of electricity in the wholesale market that arises from the effect of losses and constraints on the national grid; and
+    (b) entitles the holder to receive, or requires the holder to make, payments in accordance with a formula based on prices for quantities of electricity at 1 or more points on the national grid
+  - **financial year** means a period of 12 months ending on 31 March
+  - **system** means all of the works over which a business conveys or intends to convey electricity.
+(6) Other terms used in this definition have the same meanings as they did in the Electricity Industry Reform Act 1998 before the enactment of the Electricity Industry Reform Amendment Act 2008.
 
 ### 57DA Body that exercises jurisdiction under this Part
 (1) The Commerce Commission established under this Act is the body that exercises jurisdiction under this Part in respect of a large electricity lines business unless an Order in Council is in force under section 57DB or section 57DC in respect of that business.
@@ -1120,8 +1916,8 @@ Nothing in section 59 or section 59A prevents conduct that occurred before an au
 (4) If each of the persons to whom a draft determination was sent under subsection (2) of this section—the Commission may make the determination at any time after the expiration of that period.
   (a) Notifies the Commission within the period of 10 working days prescribed in subsection (3) of this section that the person does not wish the Commission to hold a conference in relation to the draft determination; or
   (b) Does not notify the Commission within that period that the person wishes the Commission to hold such a conference—
-(5) If any of the persons to whom a draft determination was sent under subsection (2) of this section notifies the Commission, in writing, within the period of 10 working days prescribed in subsection (3) of this section that he wishes the Commission to hold a conference in relation to the draft determination, the Commission shall appoint a date (not being a date later than 20 working days after the expiration of that period), time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom a draft determination was sent under subsection (2) of this section.
-(6) The Commission may, of its own motion, determine to hold a conference in relation to the a draft determination and shall appoint a date (not being a date later than 20 working days after the expiration of the period referred to in subsection (3) of this section), time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom the draft determination was sent under subsection (2) of this section.
+(5) If any of the persons to whom a draft determination was sent under subsection (2) notifies the Commission, in writing, within the period of 10 working days prescribed in subsection (3) that he or she wishes the Commission to hold a conference in relation to the draft determination, the Commission must appoint a date, time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom a draft determination was sent under subsection (2).
+(6) The Commission may, of its own motion, determine to hold a conference in relation to the draft determination and must appoint a date, time, and place for the holding of the conference and give notice of the date, time, and place so appointed to each of the persons to whom the draft determination was sent under subsection (2).
 (7) Where the Commission is of the opinion that 2 or more applications for authorisations that are made by the same person, or by bodies corporate that are interconnected with each other, involve the same or substantially similar issues, the Commission may treat the applications as if they constitute a single application, and may prepare a single draft determination in relation to the applications and hold a single conference in relation to that draft determination.
 
 ### 63 Commission may grant provisional authorisation
@@ -1187,6 +1983,20 @@ Nothing in section 27 or section 47 of this Act applies to the acquisition of as
 (2) The Commission shall not accept an undertaking in relation to the giving of a clearance or the granting of an authorisation under section 66 or section 67 of this Act, other than an undertaking given under subsection (1) of this section.
 (3) An undertaking given to the Commission under subsection (1) of this section is deemed to form part of the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates.
 
+### 69AB Authorisation or clearance void if undertaking contravened
+(1) If a person contravenes an undertaking accepted under section 69A, the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates is void and of no effect from the date it was given or granted.
+(2) Subsection (1) does not prevent the Court from making an order under sections 85A to 85C in relation to the undertaking.
+
+### 69AC Variation of undertaking
+(1) The Commission may, on an application made under subsection (2), accept a variation of an undertaking given under section 69A if it considers that the variation would not have materially affected its decision to give the clearance or grant the authorisation in relation to the acquisition to which the undertaking relates if the variation had been proposed at the time of the decision.
+(2) An application for a variation under subsection (1)—
+  (a) may be made only by the person who gave the undertaking or on whose behalf the undertaking was given; and
+  (b) must be made no later than 20 working days before the date on which the relevant obligation under the undertaking must be met.
+(3) The Commission must notify the person who made the application of its decision on the application no later than 3 working days before the relevant obligation under the undertaking must be met.
+(4) A variation under subsection (1)—
+  (a) comes into force on a date specified in the variation (being a date that is on or after the date on which the variation is accepted); and
+  (b) is deemed to form part of the undertaking (and, accordingly, is deemed under section 69A(3) to form part of the clearance given or the authorisation granted in relation to the acquisition to which the undertaking relates).
+
 ### 69B Conferences in relation to business acquisitions
 (1) Before making a determination under section 66(3) or section 67(3) of this Act in relation to an acquisition, the Commission may determine to hold a conference and shall appoint a date, time, and place for the holding of the conference and give notice of the date, time, and place so appointed and of the matters to be considered at the conference to the persons entitled to be present at the conference.
 (2) The provisions of section 64 of this Act shall apply to every conference held under this section as if—
@@ -1197,98 +2007,37 @@ Nothing in section 27 or section 47 of this Act applies to the acquisition of as
 **Authorisations in respect of controlled goods or services**
 
 ### 70 Authorisations in respect of prices, revenues, and quality standards
-(1) The Commission may make an authorisation in respect of all or any component of the prices, revenues, or quality standards that apply in respect of the supply of controlled goods or services, using whatever approach it considers appropriate.
-(2) The approach may include the use of formulas or other methods from which prices or revenues, or any part of a price or revenue, may be determined.
-(3) Different authorisations in respect of prices, revenues, or quality standards for controlled goods or services may be made to meet different circumstances relating to the supply of those goods or services.
-(4) Section 57A(1) to (3) applies to the authorisation with any necessary modifications.
+[Repealed]
 
 ### 70A Considerations to be observed by Commission
-In exercising its powers under section 70, the Commission must have regard to—
-  (a) the extent to which competition is limited or is likely to be lessened in respect of the controlled goods or services:
-  (b) the necessity or desirability of safeguarding the interests of persons who acquire (whether directly or indirectly) or supply the controlled goods or services:
-  (c) the promotion of efficiency in the production and supply or acquisition of the controlled goods or services.
+[Repealed]
 
 ### 70B Procedure for making authorisations
-(1) An authorisation under section 70 may be made—
-  (a) on application by a supplier of controlled goods or services; or
-  (b) by the Commission on its own initiative.
-(2) Section 60 (procedure for applications), except subsections (3) and (6), applies to an application as if it were an application under section 58.
-(3) The Commission must have regard to any submissions made to it by the supplier or any acquirer of the goods or services.
-(4) The Commission must give a copy of the authorisation to the supplier of the goods or services.
-(5) The authorisation must include the Commission's reasons for making the authorisation.
-(6) The Commission must publicise the fact that it has given an authorisation, and details of where the authorisation may be found, in the Gazette.
+[Repealed]
 
 ### 70C Remedies and penalties if overcharging or quality standards breached
-(1) The Commission may impose, as part of an authorisation, provisions providing for remedies and penalties that apply if—
-  (a) the prices determined by the Commission in an authorisation are lower than any price charged to any person under a provisional authorisation:
-  (b) higher prices are charged, or higher revenues are derived, than those allowed for in an authorisation:
-  (c) quality standards are breached.
-(2) The remedies and penalties may include—
-  (a) the payment of refunds, specified amounts, and compensation to persons acquiring or supplying the goods or services; or
-  (b) the making of deductions from the prices charged in the future to persons acquiring the goods or services.
-(3) The remedies and penalties set by the Commission must be reasonable, taking into account the matters in section 70A.
-(4) The Commission may require the supplier to ensure that, to the extent practicable, the persons who have been affected by the higher prices or revenues or breach of quality standards receive the benefit of the remedies and penalties.
-(5) Subsection (4) applies whether or not those persons are persons in a direct contractual relationship with the supplier or are end consumers.
-(6) The Commission has the necessary powers to monitor and enforce a requirement under this section.
-(7) Section 86 applies to a failure to comply with this section as if it were a breach of section 55.
+[Repealed]
 
 ### 70D Terms of authorisations
-(1) An authorisation granted by the Commission under section 70 may include provisions, not inconsistent with this Act, as the Commission thinks necessary or desirable for the proper administration of the authorisation or to ensure compliance with its provisions.
-(2) For the purpose of informing acquirers and prospective acquirers of the effect of an authorisation, the Commission may require the supplier of those goods or services to communicate to acquirers the terms of an authorisation, in a manner and in the circumstances that the Commission thinks fit.
-(3) Section 70C does not limit this section.
+[Repealed]
 
 ### 70E Investigations and audits
-(1) The purpose of this section is to enable the Commission to gather information on which to make, administer, amend, or revoke authorisations in respect of controlled goods or services.
-(2) The Commission may—
-  (a) consult with any persons the Commission considers may assist it:
-  (b) conduct any investigations or audits—
-    (i) of how effectively and efficiently a supplier of controlled goods or services is supplying those goods or services:
-    (ii) of how any formula being considered by the Commission may be applied, or how any formula authorised by the Commission has been applied, in determining prices, revenues, or quality standards:
-    (iii) of how any conditions related to the quality of any controlled goods or services may be, or are being, fulfilled:
-  (c) as part of an investigation or audit, examine, consider, or investigate any activity, cost, revenue, transfer, asset valuation, circumstance, or event that is occurring or that occurred during the 7 years before the investigation or audit:
-  (d) by notice in writing, require the supplier of the goods or services—
-    (i) to prepare and produce forecasts, forward plans, or other information:
-    (ii) to apply any methodology specified by the Commission in the preparation of forecasts, forward plans, or other information:
-  (e) by notice in writing, require the supplier of the goods or services, or any previous supplier of the goods or services whom the Commission has reason to believe may have information or documents relevant to an investigation or audit, at the time and place specified in the notice,—
-    (i) to produce or supply to the Commission documents and information in relation to those goods or services, or the prices, revenues, or operations of that person in respect of those goods or services:
-    (ii) to answer any questions about any matter that the Commission has reason to believe may be relevant to the investigation or audit:
-  (f) by notice in writing, require the supplier of the goods or services, at the time and place specified in the notice, to produce or supply to the Commission an expert opinion from an appropriately qualified person, or from a member of a class of appropriately qualified persons, as determined by the Commission in relation to the matters in paragraphs (b), (c), or (e)(i).
-(3) A person is not excused from answering a question or giving any information or document under this section on the ground that to do so may incriminate or tend to incriminate that person.
-(4) Despite section 79, a self-incriminating statement or document made or given under this Act is not admissible as evidence in criminal proceedings (except proceedings under section 103).
-(5) The powers of the Commission under this section—
-  (a) do not limit its other powers under this Act; and
-  (b) do not, in their specificity, limit the generality of the other powers under this Act.
+[Repealed]
 
 ### 70F Revocation and amendment of authorisations
-(1) An authorisation made under section 70 may be amended or revoked at any time by the Commission by notice in the Gazette.
-(2) The Commission must, as soon as practicable, send a copy of a notice of revocation or amendment of an authorisation to the supplier of the goods or services.
+[Repealed]
 
 ### 71 Provisional authorisations
-(1) The Commission may authorise the supply of controlled goods or services to any person on terms determined by the Commission and specified in the notice, on the condition that the terms are only a provisional authorisation, pending the making of a final determination under section 70.
-(2) The provisions of this Act (except section 70A) applying to authorisations under section 70 apply with any necessary modifications to provisional authorisations.
+[Repealed]
 
 ### 72 Alternative undertakings
-(1) The Commission may, instead of making an authorisation in respect of controlled goods or services, obtain or accept a written undertaking from the supplier of those goods or services in relation to those goods or services.
-(2) Subsection (1) applies despite anything in this Part.
-(3) Sections 70A, 70E, and 70F (and section 70C, if the supplier agrees) apply with any necessary modifications as if the undertaking were an authorisation under section 70.
+[Repealed]
 
 ### 73 Conferences in relation to authorisations about controlled goods or services
-(1) The Commission may determine to hold a conference before making an authorisation, or obtaining or accepting an undertaking, in respect of any controlled goods or services, and—
-  (a) must appoint a date, time, and place for the holding of the conference; and
-  (b) must give notice of the date, time, and place, and of the matters to be considered at the conference, to the supplier.
-(2) Section 64 applies to a conference called under this section as if—
-  (a) the reference in that section to a conference called under section 62 were a reference to a conference called under this section; and
-  (b) the reference in section 64(1)(b) to a person to whom a draft determination was sent under section 62(2) were a reference to the supplier of the controlled goods or services; and
-  (c) the reference in section 64(6) to the making of a determination in respect of an application were a reference to making an authorisation in respect of the controlled goods or services or obtaining or accepting an undertaking in relation to the controlled goods or services, as the case may be.
+[Repealed]
 
 ### 74 Levies
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations requiring 1 or more suppliers of goods or services that are controlled under Part 4 to pay a levy to the Minister in each financial year.
-(2) The order must specify the amounts of the levy or the method by which the levy is to be calculated.
-(3) The Minister must calculate the amount of the levy to be paid so as to ensure that the estimated costs to the Commission of administering Part 4 and sections 70 to 74 for goods and services that are controlled under Part 4 can be met fully out of levies, and may recalculate that amount in any subsequent financial year.
-(4) Every supplier of controlled goods or services must pay any levy so required.
-(5) The Minister must consult with the suppliers of controlled goods or services, or representatives of those suppliers, before making a recommendation.
-(6) The Minister may refund, in whole or in part, payment of any levy paid by any 1 or more suppliers under this section.
-(7) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+[Repealed]
 
 ## Part 6 — Enforcement, remedies, and appeals
 
@@ -1343,8 +2092,8 @@ A cease and desist order may be made under section 74A only if—
 ### 74D Pecuniary penalties for contravention of cease and desist order
 (1) If the Court is satisfied on the application of the Commission that a person has acted in contravention of an order made under section 74A, the Court may order the person to pay to the Crown any pecuniary penalty that the Court determines to be appropriate.
 (2) The amount of any pecuniary penalty must not exceed $500,000.
-(3) The standard of proof in proceedings under this section is the standard of proof applying in civil proceedings.
-(4) In any proceedings under this section, the Commission, upon the order of the Court, may obtain discovery and administer interrogatories.
+(3)
+(4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
 
 **Jurisdiction of courts**
@@ -1361,16 +2110,20 @@ A cease and desist order may be made under section 74A only if—
     (ii) Applications for injunctions under section 84 of this Act:
     (iia) Actions for damages under section 84A of this Act:
     (iii) Proceedings under section 85 of this Act:
-  (c) In the case of contraventions of Part 4 of this Act, applications for injunctions under section 87 of this Act:
+  (c) in the case of contraventions relating to Part 4,—
+    (i) proceedings for the recovery of pecuniary penalties under section 86 or 87:
+    (ii) applications for orders under section 86A, 86C, or 87A:
+    (iii) applications for injunctions under section 87C:
   (d) Applications for orders under section 89 of this Act.
   (e) Appeals against determinations of the Commission.
   (f) applications for orders under section 80B or section 80C:
   (g) proceedings for offences against section 80E:
-  (h) applications for orders under section 82A.
+  (h) applications for orders under section 82A:
+  (i) applications for orders under section 85A or 85B.
 (2)
 
 ### 76 Jurisdiction of District Courts
-In accordance with this Part of this Act, the District Court shall hear and determine proceedings for offences against sections 86, 100, and 103 of this Act.
+In accordance with this Part of this Act, the District Court shall hear and determine proceedings for offences against sections 86B, 87B, 100, and 103 of this Act.
 
 ### 77 Additional lay members of High Court for purposes of appellate jurisdiction in respect of Commission determinations
 (1) For the purposes of the exercise by the Court of its jurisdiction and powers under this Part of this Act, there shall be lay members of the Court who shall be persons appointed from time to time by the Governor-General.
@@ -1413,7 +2166,18 @@ In accordance with this Part of this Act, the District Court shall hear and dete
   (f) To exercise the power to make an order directing the disposal of shares or assets under section 85 of this Act.
 
 ### 79 Evidence not otherwise admissible
-In the exercise of its jurisdiction under this Part of this Act, except in respect of criminal proceedings and proceedings under section 80 or section 83 of this Act, the Court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
+In the exercise of its jurisdiction under this Part of this Act, except in respect of criminal proceedings and proceedings for pecuniary penalties of this Act, the Court may receive in evidence any statement, document, or information that would not be otherwise admissible that may in its opinion assist it to deal effectively with the matter.
+
+**Proceedings for pecuniary penalties**
+
+### 79A Proceedings for pecuniary penalties
+In any proceedings under this Part for a pecuniary penalty—
+  (a) the standard of proof is the standard of proof applying in civil proceedings; and
+  (b) the Commission may, by the order of the Court, obtain discovery and administer interrogatories.
+
+### 79B Relationship between pecuniary penalties and criminal liability
+(1) Once criminal proceedings against a person for an offence under section 86B or 87B are determined, the High Court may not order the person to pay a pecuniary penalty in respect of the conduct, events, transactions, or other matters that were the subject of the criminal proceedings.
+(2) Once civil proceedings against a person for a pecuniary penalty under this Part are determined, the person may not be convicted of an offence under section 86B or 87B in respect of the conduct, events, transactions, or other matters that were the subject of the civil proceedings.
 
 **Restrictive trade practices**
 
@@ -1436,8 +2200,8 @@ In the exercise of its jurisdiction under this Part of this Act, except in respe
     (ii) either—
       (A) if it can be readily ascertained and if the Court is satisfied that the contravention occurred in the course of producing a commercial gain, 3 times the value of any commercial gain resulting from the contravention; or
       (B) if the commercial gain cannot be readily ascertained, 10% of the turnover of the body corporate and all of its interconnected bodies corporate (if any).
-(3) The standard of proof in proceedings under this section shall be the standard of proof applying in civil proceedings.
-(4) In any proceedings under this section, the Commission, upon the order of the Court, may obtain discovery and administer interrogatories.
+(3)
+(4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
 (6) Where conduct by any person constitutes a contravention of 2 or more provisions of Part 2 of this Act, proceedings may be instituted under this Act against that person in relation to the contravention of any one or more of the provisions; but no person shall be liable to more than one pecuniary penalty under this section in respect of the same conduct.
 
@@ -1455,8 +2219,8 @@ In the exercise of its jurisdiction under this Part of this Act, except in respe
 ### 80B Pecuniary penalties for contravention of section 80A
 (1) If the Court is satisfied on the application of the Commission that a body corporate has acted in contravention of section 80A, the Court may order the body corporate to pay to the Crown any pecuniary penalty that the Court determines to be appropriate.
 (2) The amount of any pecuniary penalty must not, in respect of each act or omission, exceed 2 times the value of any indemnity given in contravention of section 80A.
-(3) The standard of proof in proceedings under this section is the standard of proof applying in civil proceedings.
-(4) In any proceedings under this section, the Commission, upon the order of the Court, may obtain discovery and administer interrogatories.
+(3)
+(4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention was discovered or ought reasonably to have been discovered. However, no proceedings under this section may be commenced 10 years or more after the matter giving rise to the contravention.
 
 ### 80C Court may order certain persons to be excluded from management of body corporate
@@ -1519,13 +2283,13 @@ The Court may, on the application of the Commission or any other person, grant a
   (b) The nature and extent of any loss or damage suffered by any person as a result of the act or omission:
   (c) The circumstances in which the act or omission took place:
   (d) Whether or not the person has previously been found by the Court in proceedings under this Part of this Act to have engaged in any similar conduct.
-(3) The standard of proof in proceedings under this section shall be the standard of proof applying in civil proceedings.
-(4) In any proceedings under this section, the Commission, upon the order of the Court, may obtain discovery and administer interrogatories.
+(3)
+(4)
 (5) Proceedings under this section may be commenced within 3 years after the matter giving rise to the contravention arose.
 (6) A person is not liable to a pecuniary penalty under both section 80 of this Act and this section in respect of the same conduct.
 
-### 84 Injunctions may be granted by Court for contravention of Part 3
-Where it appears to the Court, on the application of the Commission, or any other person, that a person intends to engage, or is engaging, or has engaged, in conduct that constitutes or would constitute a contravention of section 47 of this Act, the Court, by order, may do all or any of the following things:
+### 84 Injunctions may be granted by Court for contravention of Part 3 or undertaking
+(1) Where it appears to the Court, on the application of the Commission, or any other person, that a person intends to engage, or is engaging, or has engaged, in conduct that constitutes or would constitute a contravention of section 47 of this Act, the Court, by order, may do all or any of the following things:
   (a) Grant an injunction restraining any person from engaging in conduct that constitutes or would constitute—
     (i) A contravention of section 47 of this Act:
     (ii) Any attempt to contravene that provision:
@@ -1535,6 +2299,16 @@ Where it appears to the Court, on the application of the Commission, or any othe
     (vi) Conspiring with any other person to contravene that provision:
   (b) Impose on any person obligations to be observed in the carrying on of any business or the safeguarding of any business or any assets of any business:
   (c) Provide for the carrying on of any business or the safeguarding of any business or assets of any business, either by the appointment of a person to conduct or supervise the conduct of any business (on such terms and with such powers as may be specified or described in the order), or in any other manner, as it thinks necessary in the circumstances of the case.
+(2) If it appears to the Court, on the application of the Commission, that a person intends to engage, or is engaging, or has engaged, in conduct that constitutes or would constitute a contravention of an undertaking accepted under section 69A, the Court, by order, may do all or any of the following things:
+  (a) grant an injunction restraining any person from engaging in conduct that constitutes or would constitute—
+    (i) a contravention of that undertaking:
+    (ii) any attempt to contravene that undertaking:
+    (iii) aiding, abetting, counselling, or procuring any other person to contravene that undertaking:
+    (iv) inducing or attempting to induce any other person, whether by threats, promises, or otherwise, to contravene that undertaking:
+    (v) being in any way directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of that undertaking:
+    (vi) conspiring with any other person to contravene that undertaking:
+  (b) impose on any person obligations to be observed in the carrying on of any business or the safeguarding of any business or any assets of any business:
+  (c) provide for the carrying on of any business or the safeguarding of any business or assets of any business, either by the appointment of a person to conduct or supervise the conduct of any business (on the terms and with the powers as may be specified or described in the order), or in any other manner, as it thinks necessary in the circumstances of the case.
 
 ### 84A Actions for damages for contravention of Part 3
 (1) Every person is liable in damages for any loss or damage caused by that person engaging in conduct that constitutes any of the following:
@@ -1553,25 +2327,123 @@ Where it appears to the Court, on the application of the Commission, or any othe
   (d) Give directions for the disposal by that person of any assets or shares in accordance with an undertaking given by the person under section 69A of this Act.
 (2) An application under subsection (1) of this section may be made at any time within 2 years from the date on which the contravention occurred.
 
-**Control of prices**
+### 85A Pecuniary penalties for contravention of undertaking
+(1) The Court may, on the application of the Commission, order a person to pay a pecuniary penalty to the Crown if the Court is satisfied that the person—
+  (a) has contravened an undertaking accepted under section 69A; or
+  (b) has attempted to contravene an undertaking accepted under section 69A; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene an undertaking accepted under section 69A; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene an undertaking accepted under section 69A; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of an undertaking accepted under section 69A; or
+  (f) has conspired with any other person to contravene an undertaking accepted under section 69A.
+(2) However, the Court may only make an order under subsection (1) if the acquisition to which the undertaking relates has proceeded.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000.
+(4) In setting the amount of pecuniary penalty, the Court must take into account all of the following matters:
+  (a) the nature and extent of the contravention:
+  (b) the circumstances in which the contravention took place:
+  (c) whether the person has obstructed or hindered the Commission in any attempt of the Commission to obtain compliance with the undertaking:
+  (d) whether the person has taken any steps with the intention of—
+    (i) impeding the disposal of assets or shares in accordance with the undertaking; or
+    (ii) limiting the effectiveness of the undertaking in preventing a substantial lessening of competition in a market:
+  (e) whether the person or an interconnected body corporate has previously been found by the Court in proceedings under this Part to have engaged in similar conduct.
+(5) Subsection (4) is subject to section 85C.
+(6) A person may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
+(7) An application under this section may be made at any time within 12 months from the date on which the relevant obligation under the undertaking was required to be met.
 
-### 86 Contravention of section 55 an offence
-(1) Every person who contravenes section 55 of this Act commits an offence and is liable on summary conviction—
-  (a) In the case of a person other than a body corporate, to a fine not exceeding $50,000:
-  (b) In the case of a body corporate, to a fine not exceeding $500,000.
-(2) On the conviction of any person for an offence against this section, the court may, on the application of the Commission, make an order for payment by the defendant of an amount not exceeding the difference (to be ascertained and specified by the court) between the price charged for the controlled goods or services and the price that should have been charged for those goods or services in accordance with the authorisation, provisional authorisation, or undertaking.
-(3) All money payable pursuant to an order made under subsection (2) of this section shall be recoverable in accordance with the Summary Proceedings Act 1957, in the same manner as fines and costs are recoverable.
-(4) Where in any such case the Court is satisfied that the whole or any part of the price has been paid to the defendant by any other person, the court, if it considers it just and equitable, may make an order authorising the payment to that other person of the whole or such part of any amount paid by the defendant under subsection (2) of this section, as the Court thinks fit.
-(5) An order made under subsection (4) of this section shall be sufficient authority to the Registrar of the court to pay the amount so authorised.
-(6) An information for an offence against this section may be laid at any time within 3 years from the time when the matter of the information arose.
+### 85B Court may order divestiture of assets or shares in respect of contravention of undertaking
+(1) If the Court, on the application of the Commission, is satisfied that any person has contravened an undertaking accepted under section 69A and the acquisition to which the undertaking relates has proceeded, the Court may, by order, give directions for the disposal by that person of any assets or shares in accordance with the undertaking.
+(2) An application under this section may be made at any time within 12 months from the date on which the relevant obligation under the undertaking was required to be met.
 
-### 87 Injunctions may be granted by Court for contravention of Part 4
-Where it appears to the Court, on the application of the Commission or any person, that controlled goods or services are being supplied or are likely to be supplied in contravention of section 55 of this Act, the Court may, by order—
-  (a) Grant an injunction restraining any person from supplying those controlled goods or services in contravention of section 55 of this Act:
-  (b) Require any person to supply those controlled goods or services in accordance with—
-    (i) Any authorisation made under section 70 of this Act in respect of those controlled goods or services:
-    (ii) any provisional authorisation under section 71 in respect of those controlled goods or services:
-    (iii) Any undertaking given under section 72 of this Act in relation to those controlled goods or services.
+### 85C Matters Court must not take into account under sections 85A and 85B
+For the purposes of sections 85A and 85B, the Court must not take into account any of the following:
+  (a) whether it was appropriate for the Commission to accept the undertaking under section 69A:
+  (b) whether the undertaking under section 69A is still necessary or desirable:
+  (c) whether any of the terms of the undertaking under section 69A are still necessary or desirable:
+  (d) the extent to which the contravention of the undertaking under section 69A may have lessened competition in a market.
+
+**Regulated goods or services**
+
+### 86 Pecuniary penalty for contravening information disclosure requirement
+(1) The Court may, on application by the Commission, order any person to pay a pecuniary penalty to the Crown if the Court is satisfied that the person—
+  (a) has contravened any information disclosure requirement (as defined in section 52C); or
+  (b) has attempted to contravene any such requirement; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene any such requirement; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene any such requirement; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of any such requirement; or
+  (f) has conspired with any other person to contravene any such requirement.
+(2) In subsection (1) and section 86B, a reference to contravening an information disclosure requirement includes all or any of the following:
+  (a) failing to disclose information required to be disclosed:
+  (b) failing to disclose information in the form or within the time required:
+  (c) disclosing information under an information disclosure requirement that is false or misleading.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in the case of a body corporate.
+(4) In determining the amount of pecuniary penalty, the Court must have regard to all relevant matters, including—
+  (a) the nature and extent of the contravention; and
+  (b) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence); and
+  (c) whether the person has previously been found by the Court in proceedings under this Part to have engaged in similar conduct.
+(5) A supplier may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
+(6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
+
+### 86A Order requiring information disclosure requirement to be complied with
+(1) The Court may, on application by the Commission, order a supplier of regulated goods or services to comply with an information disclosure requirement that applies to the supplier.
+(2) An order under this section must specify the date by which, or period within which, the supplier must comply with the requirement.
+
+### 86B Offences relating to information disclosure regulation
+(1) A person commits an offence if—
+  (a) the person, knowing that particular goods or services are subject to information disclosure regulation, intentionally contravenes any information disclosure requirement relating to those goods or services; or
+  (b) the person is subject to an order under section 86A and fails to comply with the order by the date, or within the period, specified.
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+(3) Despite section 14 of the Summary Proceedings Act 1957, proceedings for an offence under subsection (1)(a) may be commenced at any time within 3 years after the contravention occurred.
+
+### 86C Orders where negotiate/arbitrate regulation applies
+(1) The Court may, on the application of a party (party A) to negotiation or arbitration in respect of goods or services that are subject to negotiate/arbitrate regulation, make either or both of the following orders:
+  (a) an order requiring another party to the negotiation or arbitration (party B) to comply with the relevant section 52P determination in the manner specified by the Court:
+  (b) an order requiring party B to pay party A an amount to compensate party A for loss or damage suffered as a result of party B failing to co-operate, or inadequately co-operating with, the negotiation or arbitration.
+(2) Any application for an order under subsection (1)(b) must be made within 1 year after the date on which the failure to co-operate, or inadequate co-operation, occurred.
+(3) In setting an amount under subsection (1)(b), the Court must have regard to all relevant factors, including—
+  (a) the nature and extent of the failure to co-operate; and
+  (b) the extent to which the failure was the result of factors outside the control of party B; and
+  (c) whether party B has previously been ordered to pay compensation for a similar failure in proceedings under this section.
+
+### 87 Pecuniary penalty for contravening price-quality requirements
+(1) The Court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the Court is satisfied that the person—
+  (a) has contravened any price-quality requirement applying to the regulated goods or services; or
+  (b) has attempted to contravene any such requirement; or
+  (c) has aided, abetted, counselled, or procured any other person to contravene any such requirement; or
+  (d) has induced, or attempted to induce, any other person, whether by threats or promises or otherwise, to contravene any such requirement; or
+  (e) has been in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by any other person of any such requirement; or
+  (f) has conspired with any other person to contravene any such requirement.
+(2) In subsection (1) and sections 87A to 87C, a reference to contravening a price-quality requirement—
+  (a) refers to a requirement imposed by a determination made under section 52P in relation to goods or services that are subject to default/customised price-quality regulation or to individual price-quality regulation imposed under Part 4; and
+  (b) means either or both of the following:
+    (i) failing to comply with the requirements for prices, whether by charging a price for the goods or services that is higher than the maximum price permitted, or by receiving more revenue than is permitted, or in any other way:
+    (ii) refusing or failing to comply with any quality standards required under the price-quality regulation.
+(3) The amount of pecuniary penalty must not, in respect of each act or omission, exceed $500,000 in the case of an individual, or $5,000,000 in the case of a body corporate.
+(4) In setting the amount of pecuniary penalty, the Court must take into account all of the following matters:
+  (a) the nature and extent of the contravention:
+  (b) the nature and extent of any loss or damage suffered by any person as a result of the contravention:
+  (c) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence):
+  (d) whether or not the person has previously been found by the Court in proceedings under this Part to have engaged in similar conduct.
+(5) A supplier may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
+(6) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
+
+### 87A Compensation for contravention of price-quality requirement
+(1) If the Court orders a person to pay a pecuniary penalty under section 87 in respect of the contravention of a price-quality requirement, the Court may, in addition, order the person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (an aggrieved person).
+(2) An application for orders under this section may be made by the Commission or any aggrieved person.
+(3) The application must be made within 1 year of the date of the pecuniary penalty order.
+(4) The Court may make an order under this section whether or not any aggrieved person is party to the proceedings.
+(5) In proceedings under this section, the Court may make such orders as to cost as it thinks fit.
+
+### 87B Offence relating to price-quality regulation
+(1) A person commits an offence if—
+  (a) the person, knowing that particular goods or services are subject to price-quality regulation, intentionally contravenes a price-quality requirement in respect of the goods or services; or
+  (b) the person is subject to an order under section 87C(1)(b) and fails to comply with the order.
+(2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding $200,000 in the case of an individual, or $1,000,000 in the case of a body corporate.
+(3) Despite section 14 of the Summary Proceedings Act 1957, proceedings for an offence under subsection (1)(a) may be commenced at any time within 3 years after the contravention occurred.
+
+### 87C Injunction and other orders relating to price-quality regulation
+(1) If the Court is satisfied that goods or services that are subject to price-quality regulation are being supplied, or are likely to be supplied, in contravention of any price-quality requirement applying with respect to those goods or services, the Court may do either or both of the following:
+  (a) grant an injunction restraining any supplier of those goods or services from supplying them in contravention of the price-quality requirement:
+  (b) requiring the supplier to supply the goods or services in accordance with the price-quality requirement applying to them.
+(2) An application for an order under this section may be made by any person.
 
 **Injunctions generally**
 
@@ -1602,6 +2474,7 @@ Where it appears to the Court, on the application of the Commission or any perso
 (4) Nothing in subsection (2) or subsection (3) of this section shall prevent any proceedings being instituted or commenced under this Part of this Act.
 (5) Nothing in the Illegal Contracts Act 1970 applies to any contract entered into in contravention of this Act or to any contract which contains a provision the giving effect to of which would constitute a contravention of this Act.
 (6) Notwithstanding any enactment or rule of law, where a contract is entered into in contravention of this Act by reason that the contract contains a particular provision, or the contract contains a provision which if given effect to would contravene this Act, the enforceability of any other provision of the contract shall not be affected by the existence of that provision.
+(7) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under Part 4.
 
 ### 90 Conduct by servants or agents
 (1) Where, in proceedings under this Part of this Act in respect of any conduct engaged in by a body corporate, being conduct in relation to which any of the provisions of this Act applies, it is necessary to establish the state of mind of the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, acting within the scope of his actual or apparent authority, had that state of mind.
@@ -1617,15 +2490,13 @@ Where it appears to the Court, on the application of the Commission or any perso
 **Appeals from determinations of commission**
 
 ### 91 Appeals in relation to determinations by Commission
-(1) Subject to sections 92 to 95, and to subsection (2),—
-  (a) there is a right of appeal to the High Court against any determination of the Commission under this Act other than—
-    (i) a declaration under section 57F:
-    (ii) an authorisation under section 70 or a provisional authorisation under section 71:
-    (iii)
-    (iv)
-  (b) there is a right of appeal to the High Court by way of case stated for the opinion of the Court on a question of law only against—
-    (i) an authorisation under section 70 or a provisional authorisation under section 71:
-    (ii)
+(1) There is a right of appeal to the High Court under this subsection against any determination of the Commission under this Act, other than the following:
+  (a) a determination, or any part of a determination, made under section 52P (a section 52P determination) that sets out—
+    (i) how information disclosure regulation or negotiate/arbitrate regulation applies to regulated suppliers; or
+    (ii) the default price-quality path that applies to regulated suppliers:
+  (b) an input methodology determination (as defined in section 52Z, and for which a separate appeal right is given under that section).
+(1A) An appeal against a section 52P determination may not include an appeal against all or part of an input methodology, whether on a point of law or any other ground.
+(1B) There is a right of appeal to the High Court on a question of law against any determination of the Commission under this Act (including a determination referred to in subsection (1)).
 (2) Every such appeal shall be made by giving notice of appeal within 20 working days after the date of the determination appealed against or within such further time as the Court may allow.
 
 ### 92 Persons entitled to appeal
@@ -1636,12 +2507,12 @@ The following persons may exercise the right of appeal pursuant to section 91 of
     (i) The person who sought the clearance or the authorisation; and
     (ii) Any person whose assets, or the shares in which, are proposed to be acquired pursuant to the clearance or authorisation; and
     (iii) Any person who participated in any conference held by the Commission under section 69B of this Act in relation to the clearance or authorisation:
-  (d) In the case of an appeal against a determination of the Commission under section 70 of this Act made on the application of any person who is a supplier of controlled goods or services, the applicant and any person who in the opinion of the Court is a substantial consumer or purchaser of the controlled goods or services to which the determination relates or who represents a substantial group of consumers or purchasers of those goods or services:
-  (e) In the case of an appeal against a determination of the Commission under section 70 of this Act made by the Commission on its own motion, any person who is a supplier of controlled goods or services to which the determination relates and any person who in the opinion of the Court is a substantial consumer or purchaser of the controlled goods or services to which the determination relates or who represents a substantial group of consumers or purchasers of those goods or services.
+  (d) in the case of an appeal against a determination made under section 52P, any supplier or consumer (as defined in section 52C) of goods or services to which the determination relates:
+  (e)
   (f) in the case of an appeal against a determination of a Commissioner under section 74A, any person against whom a cease and desist order was made.
 
 ### 93 Determination of appeals
-In its determination of any appeal (other than an appeal under section 91(1)(b)), the Court may do any one or more of the following things:
+In determining an appeal under section 91(1), the Court may do any of the following:
   (a) Confirm, modify, or reverse the determination or any part of it:
   (b) Exercise any of the powers that could have been exercised by the Commission in relation to the matter to which the appeal relates.
 
@@ -1653,7 +2524,8 @@ In its determination of any appeal (other than an appeal under section 91(1)(b))
 (3) In reconsidering the matter so referred back, the Commission shall have regard to the Court's reasons for giving a direction under subsection (1) of this section, and the Court's directions under subsection (2) of this section.
 
 ### 95 Provisions pending determination of appeal
-Where an appeal is brought under any provision of this Part of this Act against any determination of the Commission, the determination to which the appeal relates shall remain in full force pending the determination of the appeal, unless the Court orders to the contrary.
+(1) Where an appeal is brought under any provision of this Part of this Act against any determination of the Commission, the determination to which the appeal relates shall remain in full force pending the determination of the appeal, unless the Court orders to the contrary.
+(2) However, the Court may not stay the application of a determination made under section 52P in respect of which an appeal is brought under section 91(1) or (1B).
 
 ### 96 Court may order proceedings to be heard in private
 (1) The Court may, in its discretion, order that the hearing or any part of the hearing of any proceedings under this Act shall be held in private.
@@ -1668,6 +2540,9 @@ Where an appeal is brought under any provision of this Part of this Act against 
   (d) Such other matters as in the particular circumstances the Court thinks fit.
 (3) The Court granting leave under this section may in its discretion impose such conditions as it thinks fit, whether as to costs or otherwise.
 (4)
+(5) An appeal to the Court of Appeal under this section may be made against either of the following only on a point of law:
+  (a) a decision or order of the High Court under section 52Z:
+  (b) a decision or order of the High Court on an appeal under section 91(1) or (1B) against a determination of the Commission made under section 52P.
 
 ## Part 7 — Miscellaneous provisions
 
@@ -1683,6 +2558,7 @@ Where the Commission considers it necessary or desirable for the purposes of car
 (3) A person who applies for a warrant shall, having made reasonable inquiries, disclose—
   (a) Details of every previous application for a warrant to search the place that the person knows has been made within the preceding 28 days; and
   (b) The result of the application.
+(4) In this section, a reference to a contravention of this Act includes a reference to contravening the requirements of any type of regulation under Part 4.
 
 ### 98B Powers conferred by warrant
 (1) A warrant issued under section 98A of this Act authorises the person named in it—
@@ -1774,7 +2650,7 @@ The Commission may exercise any power under sections 98 to 98F of this Act notwi
 
 ### 103 Offences
 (1) No person shall—
-  (a) Without reasonable excuse, refuse or fail to comply with a notice under section 70E or section 98 of this Act; or
+  (a) Without reasonable excuse, refuse or fail to comply with a notice under sections 53B(1)(c), 53N, 53ZD, and 98 of this Act; or
   (b) In purported compliance with such a notice, furnish information, or produce a document, or give evidence, knowing it to be false or misleading; or
   (c) Resist, obstruct, or delay an employee of the Commission acting pursuant to a warrant issued under section 98A of this Act.
 (2) No person shall attempt to deceive or knowingly mislead the Commission in relation to any matter before it.
@@ -1792,9 +2668,9 @@ The Commission may exercise any power under sections 98 to 98F of this Act notwi
 (3) A document purporting to be a copy of a determination, clearance, authorisation or decision of the Commission and to be certified to be a true copy in accordance with subsection (2) of this section shall, unless the contrary is established, be deemed to be such a copy and to be so certified.
 
 ### 105 Restriction on delegation
-(1) The Commission may not delegate its powers to grant, revoke, or vary an authorisation under this Act, except in accordance with subsection (2).
-(2) The Commission may delegate to the chief executive or any other employee or employees, or office holder or holders, of the Commission, or any class of employee or office holder, any of its powers under sections 70 to 74.
-(3) In other respects, section 73 of the Crown Entities Act 2004 applies.
+(1) The Commission may not delegate its powers to grant, revoke, or vary an authorisation under this Act.
+(2)
+(3)
 
 ### 106 Proceedings privileged
 (1) No proceedings, civil or criminal, shall lie against the Commission for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that the Commission acted without reasonable care or in bad faith.
@@ -1806,11 +2682,11 @@ The Commission may exercise any power under sections 98 to 98F of this Act notwi
 (3A) Section 59(3) of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown by the Commission that the person acted in bad faith.
 (3B) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (3C) This section contains an exception to section 121 of the Crown Entities Act 2004.
-(4) A person shall not be excused from complying with any requirement to furnish information, produce documents, or give evidence under this Act, or, on appearing before the Commission, from answering any question or producing any document, on the ground that to do so might tend to incriminate that person or that person's spouse.
-(5) A statement made by a person in answer to a question put by or before the Commission shall not in criminal proceedings or in proceedings under section 80 or section 83 of this Act, be admissible against that person, or that person's spouse.
+(4) A person shall not be excused from complying with any requirement to furnish information, produce documents, or give evidence under this Act, or, on appearing before the Commission, from answering any question or producing any document, on the ground that to do so might tend to incriminate that person.
+(5) A statement made by a person in answer to a question put by or before the Commission shall not in criminal proceedings or in proceedings for pecuniary penalties of this Act, be admissible against that person.
 (6) Nothing in subsection (5) of this section applies in respect of—
   (a) Proceedings on a charge of perjury against the maker of the statement; or
-  (b) Proceedings on a charge of an offence against section 103(1)(b) of this Act.
+  (b) Proceedings on a charge of an offence against section 103 of this Act.
 (7) No court or other person shall be entitled to require any member of the Commission, or any employee of the Commission or any other person present at any meeting of the Commission, to divulge or communicate any information furnished or obtained, documents produced, obtained or tendered, or evidence given, in connection with the operations of the Commission.
 (8) Nothing in subsection (7) of this section applies in respect of—
   (a) Any proceedings referred to in subsection (3) or subsection (6) of this section; or
@@ -1834,7 +2710,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (b) Prescribing forms of applications, notices, and other documents required for the purposes of this Act, and requiring the use of such forms:
   (c) Prescribing fees to be paid for the purposes of this Act:
   (ca) Authorising the Commission in its discretion, or on such grounds as may be prescribed, to refund a part of the prescribed fee paid by a person who gives a notice under section 67(1) of this Act in any case where the Commission gives a clearance under that section:
-  (cb) Authorising the Commission to refund a part of the prescribed fee paid by a person on an application under section 70B of this Act in any case where a written undertaking is obtained or accepted from that person in accordance with section 72 of this Act.
+  (cb) authorising the Commission to refund a part of a prescribed fee paid by a person in any case where a written undertaking is obtained or accepted from that person:
   (d) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 109 Commission may prescribe forms
@@ -1872,24 +2748,13 @@ For the purposes of this Act the Commission may from time to time prescribe form
 [Repealed]
 
 ### 116 Winding up of Commerce Commission established under Commerce Act 1975
-(1) All real and personal property of every description, rights, obligations, and liabilities which immediately before the commencement of this Act were vested in or imposed on the Commerce Commission established under the Commerce Act 1975 shall, after the commencement of this Act, vest in the Commission without conveyance or assignment, subject to all charges, encumbrances, estates, and interests affecting the same.
-(2) All funds standing to the credit of any account in the name of, or held on behalf of, the Commerce Commission established under the Commerce Act 1975 shall, without further appropriation than this section, be transferred to and form part of the funds of the Commission.
-(3) All documents and records kept by or on behalf of—for the purposes of the exercise of their respective functions and powers under any of the enactments repealed by section 110(2) of this Act shall be delivered to the Commission and upon that delivery shall be kept and maintained by the Commission.
-  (a) The Commerce Commission established under the Commerce Act 1975; or
-  (b) The Examiner of Commercial Practices appointed pursuant to the Commerce Act 1975; or
-  (c) The Secretary of Trade and Industry—
-(4) Nothing in this section shall limit or affect the rights of any member, officer, or employee of the Commerce Commission established under the Commerce Act 1975 under any superannuation or retiring allowances scheme established under section 17B of the Commerce Act 1975.
+[Repealed]
 
 ### 117 Members of Commerce Commission established under Commerce Act 1975 deemed to be members of Commission
-(1) Every member of the Commerce Commission established under the Commerce Act 1975 holding office immediately before the commencement of this Act shall be deemed to be a member of the Commission appointed under section 9 of this Act.
-(2) Every associate member of the Commerce Commission established under the Commerce Act 1975 and holding office immediately before the commencement of this Act shall be deemed to be an associate member of the Commission appointed under section 11 of this Act.
-(3) The chairperson and deputy chairperson of the Commerce Commission established under the Commerce Act 1975 holding office immediately before the commencement of this Act shall be deemed to be the chairperson and deputy chairperson of the Commission appointed under section 9(3) of this Act.
-(4) The term of office of every person deemed under this section to have been appointed a member or an associate member of the Commission shall expire on the date on which, but for the passing of this Act, that term would have expired under the provisions of the Commerce Act 1975.
+[Repealed]
 
 ### 118 Lay members of High Court appointed pursuant to Commerce Act 1975 deemed to be lay members of High Court appointed under this Act
-(1) Every person appointed as a lay member of the High Court pursuant to section 122A of the Commerce Act 1975 and holding office immediately before the commencement of this Act shall be deemed to be a lay member of the High Court appointed under section 77 of this Act.
-(2) The term of office of every such lay member shall expire on the date on which, but for the passing of this Act, that term would have expired.
-(3)
+[Repealed]
 
 ## Schedule 1 — Classes of merger or takeover proposals requiring prior clearance or authorisation by the Commission
 
@@ -1929,3 +2794,117 @@ For the purposes of this Act the Commission may from time to time prescribe form
 | Positive List of Controlled Goods and Services 1981, Amendment No 15 | 1985/303 |
 | Positive List of Controlled Goods and Services 1981, Amendment No 16 | 1986/30 |
 | Positive List of Controlled Goods and Services 1981, Amendment No 17 | 1986/56 |
+
+## Schedule 5 — Material incorporated by reference
+
+### 1 Definitions
+In this schedule, unless the context otherwise requires,—
+  - **material** means written material that is set out in a document other than a Part 4 determination
+  - **Part 4 determination** means either of the following:
+    (a) a determination made under section 52P:
+    (b) an input methodology published under section 52W.
+
+### 2 Material incorporated by reference into Part 4 determinations
+(1) The Commission may incorporate by reference any material into a Part 4 determination if—
+  (a) the material deals with technical matters; and
+  (b) it is impractical to include it in, or publish it as part of, the determination.
+(2) Material may be incorporated by reference into a Part 4 determination—
+  (a) in whole or in part; and
+  (b) with any modifications, additions, or variations specified in the Part 4 determination.
+(3) Material incorporated by reference—
+  (a) is the material as it exists at the time the Part 4 determination is published; and
+  (b) has legal effect as part of the Part 4 determination for all purposes, except as provided in clauses 8 and 9.
+
+### 3 Proof of material incorporated by reference
+(1) A copy of any material incorporated by reference in a Part 4 determination must be—
+  (a) certified by the chairperson as a correct copy of the material; and
+  (b) retained by the chairperson.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation of the material into the Part 4 determination.
+
+### 4 Access to material incorporated by reference
+(1) The Commission—
+  (a) must make copies of all material incorporated by reference in a Part 4 determination available for inspection during normal working hours at the head office of the Commission; and
+  (b) must make copies of the material available for purchase at a reasonable price from the head office of the Commission; and
+  (c) may make copies of the material available in any other way that the chairperson considers appropriate in the circumstances (such as on an Internet site); and
+  (d) must give notice in the Gazette of how the material is available for inspection and purchase.
+(2) Subclause (1) applies to material when it is first incorporated into a Part 4 determination, and to any subsequent amendment or replacement of the material that is incorporated into the determination.
+(3) A failure to comply with this clause does not invalidate a Part 4 determination.
+
+### 5 Effect of amendments to, or replacements of, material incorporated by reference
+An amendment to, or replacement of, material incorporated by reference in a Part 4 determination has legal effect as part of the determination only if—
+  (a) the amendment or replacement material is made by the person or organisation that made the original material; and
+  (b) the amendment or replacement material is of the same general character as the original material; and
+  (c) either—
+    (i) a subsequent Part 4 determination states that the particular amendment or replacement material has legal effect as part of the determination; or
+    (ii) the chairperson, by notice in the Gazette, adopts the amendment or replacement material as having legal effect as part of the determination.
+
+### 6 Effect of expiry of material incorporated by reference
+Material incorporated by reference in a Part 4 determination that expires, is revoked, or ceases to have effect, ceases to have legal effect as part of the Part 4 determination only if—
+  (a) a subsequent Part 4 determination states that the material ceases to have that legal effect; or
+  (b) the chairperson, by notice in the Gazette, states that the material ceases to have that legal effect.
+
+### 7 Consultation before material incorporated by reference
+(1) This clause applies if—
+  (a) the Commission proposes to incorporate material by reference into any Part 4 determination; or
+  (b) the Commission proposes to make a Part 4 determination adopting amended or replacement material; or
+  (c) the chairperson proposes to publish a notice in the Gazette adopting amended or replacement material.
+(2) If any of the things referred to in subclause (1) are proposed, the Commission—
+  (a) must make copies of the material (which in this subclause includes any amended or replacement material) proposed to be incorporated by reference available for inspection during normal working hours at the head office of the Commission; and
+  (b) must make copies of the material available for purchase at a reasonable price from the head office of the Commission; and
+  (c) may make copies of the material available in any other way that the chairperson considers appropriate in the circumstances (such as on an Internet site); and
+  (d) must give notice in the Gazette of how copies of the material may be inspected and purchased, and how people may make comments on the proposal; and
+  (e) must allow a reasonable opportunity for people to comment on the proposal; and
+  (f) must consider any comments made within the time allowed.
+(3) A failure to comply with this clause does not invalidate a Part 4 determination.
+
+### 8 Acts and Regulations Publication Act 1989 not applicable
+The Acts and Regulations Publication Act 1989 does not apply to material incorporated by reference in a Part 4 determination, or to any amendment to, or replacement of, the material.
+
+### 9 Regulations (Disallowance) Act 1989 not applicable
+The Regulations (Disallowance) Act 1989 does not apply to material incorporated by reference in a Part 4 determination, or to any amendment to, or replacement of, the material.
+
+## Schedule 6 — Exemptions from Part 4 in respect of specific pipelines
+
+| Pipeline owner | Pipeline |
+| --- | --- |
+| Todd Taranaki Limited | McKee Production Station—Tikorangi gas pipelines |
+| Swift Energy New Zealand Limited | Waihapa—New Plymouth gas pipeline |
+| Methanex New Zealand Limited | Bertrand Road—Waitara Valley Plant gas pipeline (via Faull Road Mixing station)Tikorangi—Faull Road Mixing Station gas pipelineFaull Road Mixing Station—Motunui Plant main process gas pipelineFaull Road Mixing Station—Waitara Valley Plant minor gas pipeline |
+| Energy Infrastructure Limited and Petroleum Infrastructure Limited | The 032 pipeline running from the T-junction on the Maui Pipeline at Ngatimaru Road to the Pohokura Production Station and the Methanex Motunui Methanol Plant |
+| Vector Limited | Kapuni—Faull Road Mixing Station low temperature separator gas pipeline |
+| Nova Gas Limited | All gas pipelines |
+
+### 1 Title
+This Act is the Commerce Amendment Act 2008.
+
+### 2 Commencement
+(1) The following come into force on 1 April 2009:
+  (a) sections 5 and 30 (which repeal Part 4A of the principal Act relating to electricity lines businesses); and
+  (b) subpart 9 of Part 4 of the principal Act (which relates to electricity lines businesses, as substituted by section 4 of this Act), except sections 54D(3) and 54N.
+(2) The rest of this Act comes into force on the 28th day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to Commerce Act 1986
+
+**Amendments to Part 5**
+
+### 6 Commission to prepare draft determination in relation to restrictive trade practices
+(1) Amendment incorporated in the principal Act
+(2) Section 62(5) and (6) of the principal Act (as amended by this section) apply in respect of every application for an authorisation under section 58 of the principal Act that is made after the commencement of this section.
+
+### 7 New sections 69AB and 69AC inserted
+(1) Amendment incorporated in the principal Act
+(2) Section 69AB of the principal Act (as inserted by this section) applies only to undertakings under section 69A of the principal Act that are accepted in relation to clearances given or authorisations granted on notices under section 66 or 67 of the principal Act that are registered after the commencement of this section.
+(3) Section 69AC of the principal Act (as inserted by this section) applies to—
+  (a) every undertaking accepted under section 69A of the principal Act before the commencement of this section, if the period for giving effect to the undertaking has not expired at the time of that commencement; and
+  (b) every undertaking accepted under section 69A of the principal Act after the commencement of this section.
+
+**Amendments to Part 6**
+
+### 13 Injunctions may be granted by Court for contravention of Part 3
+(1) Amendment incorporated in the principal Act
+(2) Amendment incorporated in the principal Act
+(3) Section 84(2) of the principal Act (as inserted by this section) applies only to undertakings under section 69A of the principal Act that are accepted in relation to clearances given or authorisations granted on notices under section 66 or 67 of the principal Act that are registered after the commencement of this section.
+
+### 14 New sections 85A to 85C inserted
+(1) Amendment incorporated in the principal Act
+(2) Sections 85A to 85C of the principal Act (as inserted by this section) apply only to undertakings under section 69A of the principal Act that are accepted in relation to clearances given or authorisations granted on notices under section 66 or 67 of the principal Act that are registered after the commencement of this section.
