@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2008-10-14_
 
 > An Act—aTo make better provision for the regulation of the supply of electricity and the electricity industry in New Zealand; andbTo consolidate and amend the law relating to the regulation and control of electrical workers; andcTo provide for matters incidental thereto; andcato provide for the regulation of fittings and electrical appliances that are, or may be, exported pursuant to an international trade instrument; anddTo repeal the Electric Linemen Act 1959, the Electricity Act 1968, and the Electrical Registration Act 1979
 
@@ -34,7 +34,7 @@ _Consolidation as at 2008-09-26_
   - **Construct** includes to erect, to lay, and to place; and has a corresponding meaning
   - **Consumer** —
     (a) Means any person who is supplied, or who applies to be supplied, with electricity; but
-    (b) Does not include the Corporation or any electricity distributor or electricity retailer, except where the Corporation or, as the case may be, the electricity distributor or electricity retailer is supplied, or applies to be supplied, with electricity for its own consumption and not for the purposes of resupply to any other person:
+    (b) Does not include any electricity generator or any electricity distributor or electricity retailer, except where the electricity generator or, as the case may be, the electricity distributor or electricity retailer is supplied, or applies to be supplied, with electricity for its own consumption and not for the purposes of resupply to any other person:
   - **Corporation** means a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 that is a generator of electricity and includes any subsidiary of any such State enterprise
   - **Council** means the Rural Electrical Reticulation Council continued by section 44 of this Act
   - **Customer trust** means an electricity trust (within the meaning of section 3(1) of the Electricity Industry Reform Act 1998) that is a customer trust under section 38 of that Act
@@ -234,12 +234,12 @@ This Act binds the Crown.
 (1) The Minister may, by notice in the Gazette, declare a person to be an electricity operator for the purposes of this Act or any provision or provisions of this Act if the Minister is satisfied that a declaration is necessary to enable the person to commence or carry on a business as an electricity distributor.
 (2) The Minister must, as soon as reasonably practicable, by notice in the Gazette, declare that a person ceases to be an electricity operator on a date stated in the notice if the Minister is satisfied that the person has ceased to carry on a business as an electricity distributor.
 
-### 4A Declaration of electricity supply businesses as electricity operators
-(1) The Minister may, by notice in the Gazette, declare an electricity supply business to be an electricity operator for the purposes of this Act or any provision or provisions of this Act if the Minister is satisfied—
-  (a) that a declaration is necessary to enable the person to carry on all or any of the activities referred to in section 4(2) of the Electricity Industry Reform Act 1998; and
-  (b) that the electricity distribution business interests of the electricity supply business in respect of which the declaration is made are confined to any or all of the activities set out in that subsection.
-(2) The Minister must, as soon as reasonably practicable, by notice in the Gazette, declare that a person ceases to be an electricity operator on a date stated in the notice if the Minister is satisfied that the person is no longer carrying out any of the activities referred to in section 4(2) of the Electricity Industry Reform Act 1998.
-(3) For the purposes of this section, electricity supply business has the meaning set out in section 5(1)(a)(iii) of the Electricity Industry Reform Act 1998.
+### 4A Declaration of electricity generators as electricity operators
+(1) The Minister may, by notice in the Gazette, declare an electricity generator to be an electricity operator for the purposes of this Act, or any provision or provisions of this Act, if the Minister is satisfied—
+  (a) that the declaration is necessary to enable the person to commence or carry on an activity as an electricity generator; and
+  (b) that the business interests in respect of which the declaration is made are confined to any or all of the works necessary to convey the electricity generated to an electricity installation owned by an electricity generator, electricity distributor, or a consumer.
+(2) The Minister must, as soon as is reasonably practicable, by notice in the Gazette, declare that a person ceases to be an electricity operator on a date stated in the notice if the Minister is satisfied that the person is no longer carrying out any of the activities referred to in subsection (1).
+(3)
 
 **Functions and powers of Secretary**
 
@@ -2137,7 +2137,7 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, an information f
     (iii) give those persons the opportunity to make submissions; and
     (iv) consider those submissions; and
   (c) no later than 10 working days after making a recommendation, the Commission must publicise the recommendation and the assessment completed under section 172F; and
-  (d) section 57MA(l) of the Commerce Act 1986 (which requires the Commission to advise the Commerce Commission of any recommendation that is likely to affect certain of the powers of the Commerce Commission under that Act) applies.
+  (d) section 54V of the Commerce Act 1986 (which requires the Commission to advise the Commerce Commission of any recommendation that is likely to affect certain of the powers of the Commerce Commission under that Act) applies.
 (3) Subsection (2)(b) and section 172F (which relate to consultation and assessments) do not apply if the Commission considers that it is necessary or desirable in the public interest that the proposed regulations be made urgently, and, in this case, the recommendation must state that it is made in reliance on this subsection and then, within 6 months of those regulations being made,—and then within a further 6 months, the Minister must make that recommendation.
   (a) the Commission must—
     (i) comply with subsection (2)(b) and section 172F; and
