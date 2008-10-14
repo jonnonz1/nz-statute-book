@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-10-14_
 
 > An Act to make better provision for the regulation, supply, and use of gas and the gas industry in New Zealand, and to repeal the Gas Act 1982
 
@@ -26,7 +26,7 @@ _Consolidation as at 2008-08-01_
   - **Board** means the Plumbers, Gasfitters, and Drainlayers Board constituted under the Plumbers, Gasfitters, and Drainlayers Act 1976
   - **Consumer** —
     (a) Means any person who is supplied, or who applies to be supplied, with gas; but
-    (b) Does not include the Corporation or any gas distributor or gas retailer, except where the Corporation or, as the case may be, the gas distributor or gas retailer is supplied, or applies to be supplied, with gas for its own consumption and not for the purposes of resupply to any other person:
+    (b) Does not include any gas producer or any gas distributor or gas retailer, except where the gas producer or, as the case may be, the gas distributor or gas retailer is supplied, or applies to be supplied, with gas for its own consumption and not for the purposes of resupply to any other person:
   - **Container** does not include a pipe
   - **Corporation** means the Natural Gas Corporation of New Zealand Limited
   - **Distribution system** means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—to the outlet of the gas measurement system of the place at which the gas is supplied to a consumer or gas refueller (or, where no such gas measurement system is provided, to the custody transfer point of the place at which the gas is supplied to a consumer or gas refueller); and, for the purposes of any regulations made under section 54 of this Act relating to odorisation or the measurement of calorific value, includes a gas transmission system
