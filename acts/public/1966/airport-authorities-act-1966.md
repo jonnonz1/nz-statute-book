@@ -1,5 +1,5 @@
 # Airport Authorities Act 1966
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-10-14_
 
 > An Act to consolidate and amend the Local Authorities Empowering (Aviation Encouragement) Act 1929 and its amendments and to confer powers on certain local authorities and other persons in respect of airports
 
@@ -134,6 +134,7 @@ An airport operated or managed by an airport authority which is not a local auth
 (1) Subject to section 4B, every airport company may, notwithstanding the provision of any regulations in force under section 38 or section 100 of the Civil Aviation Act 1990, set such charges as it from time to time thinks fit for the use of the airport operated or managed by it, or the services or facilities associated therewith.
 (2) Any charges set under this section may be charged to persons or classes of persons owning or operating aircraft, or to persons or classes of persons using or otherwise enjoying the benefit of the airport, services, or facilities, or to any other persons.
 (3) Nothing in section 43 of the Commerce Act 1986 applies in relation to the setting and charging of charges by an airport company.
+(4) This section does not limit the application of regulation under Part 4 of the Commerce Act 1986.
 
 ### 4B Airport companies must consult concerning charges
 (1) Every airport company must consult with every substantial customer in respect of any charge payable by that substantial customer to the airport company in respect of any or all identified airport activities—
@@ -226,6 +227,11 @@ Subject to the provisions of this section, any local authority may, for the purp
     (ii) In subsequent proceedings.
 
 ### 9A Regulations requiring disclosure of information by airport companies
+(1AAA) This section applies to each of the following airport companies until the end of the last day of the financial year that is referred to in section 56F of the Commerce Act 1986 in relation to that company:
+  (a) the company (as defined in section 2 of the Auckland Airport Act 1987) that operates Auckland International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
+  (b) the company (as defined in section 2 of the Wellington Airport Act 1990) that operates Wellington International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport):
+  (c) the airport company (as defined in section 2 of the Airport Authorities Act 1966) that operates Christchurch International Airport (including any subsidiary of, or successor to, that company that operates all or part of the airport).
+(1AAB) After the end of that day, this section does not apply to that company, and references in this section to every airport company are references to every company other than that company.
 (1) The Governor-General may from time to time, by Order in Council, make regulations for any or all of the following purposes:
   (a) Requiring every airport company, or every airport company of a specified class or classes (and, in particular, every specified airport company), to make publicly available information in relation to its identified airport activities or any of them, or any class or classes of its identified airport activities:
   (b) Requiring every airport company, or every airport company of a specified class or classes (and, in particular, every specified airport company), to complete, within a time prescribed by the regulations, financial statements (in this section referred to as disclosure financial statements) and financial forecasts (in this section referred to as disclosure financial forecasts), or either of them, in relation to its identified airport activities or any of them, or any class or classes of its identified airport activities:
