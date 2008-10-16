@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-10-16_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -225,7 +225,7 @@ In this Act, unless the context otherwise requires,—
     (a) the Crown; and
     (b) a corporation sole; and
     (c) a body of persons (whether corporate or unincorporate)
-  - **person with a disability** means a person who has an impairment or a combination of impairments that limits the extent to which the person can engage in the activities, pursuits, and processes of everyday life, including, without limitation, any of the following
+  - **person with a disability** means a person who has an impairment or a combination of impairments that limits the extent to which the person can engage in the activities, pursuits, and processes of everyday life, including, without limitation, any of the following:
     (a) a physical, sensory, neurological, or intellectual impairment:
     (b) a mental illness
   - **plans and specifications** —
@@ -243,7 +243,7 @@ In this Act, unless the context otherwise requires,—
     (b) does not include incorporeal forms of property
   - **publicly notify** means publish a notice—
     (a) in 1 or more daily newspapers circulating in each of the cities of Auckland, Hamilton, Wellington, Christchurch, and Dunedin; and
-    (b) in the Gazette ; and
+    (b) in the Gazette; and
     (c) on the Internet in an electronic form that is publicly accessible at all reasonable times
   - **recognised engineer** , in relation to a dam, means an engineer who meets the requirements in section 149
   - **regional authority** means—
@@ -252,7 +252,7 @@ In this Act, unless the context otherwise requires,—
   - **regional council** has the meaning given to it by section 5(1) of the Local Government Act 2002
   - **Registrar** has the meaning given to it by section 282
   - **regulations** means regulations in force under this Act
-  - **residential property developer** means a person who, in trade, does any of the following things in relation to a for the purpose of selling the household unit
+  - **residential property developer** means a person who, in trade, does any of the following things in relation to a household unit for the purpose of selling the household unit:
     (a) builds the household unit; or
     (b) arranges for the household unit to be built; or
     (c) acquires the household unit from a person who built it or arranged for it to be built
@@ -303,7 +303,7 @@ In this Act, unless the context otherwise requires,—
   (b) includes—
     (i) a mechanical, electrical, or other system; and
     (ii) a fence as defined in section 2 of the Fencing of Swimming Pools Act 1987; and
-    (iii) a vehicle or motor vehicle (including a vehicle or motor vehicle as defined in section 2(1) of the Land Transport Act 1998) that is immovable and is occupied by people on a permanent or longterm basis; and
+    (iii) a vehicle or motor vehicle (including a vehicle or motor vehicle as defined in section 2(1) of the Land Transport Act 1998) that is immovable and is occupied by people on a permanent or long-term basis; and
     (iv) a mast pole or a telecommunication aerial that is on, or forms part of, a building and that is more than 7 m in height above the point of its attachment or base support (except a dish aerial that is less than 2 m wide); and
   (c) includes any 2 or more buildings that, on completion of building work, are intended to be managed as one building with a common use and a common set of ownership arrangements; and
   (d) includes the non-moving parts of a cable car attached to or servicing a building; and
@@ -403,7 +403,7 @@ Under this Act, the chief executive—
     (i) they are altered; or
     (ii) their use is changed; or
     (iii) their specified intended life changes; and
-  (j) performs functions relating to dangerous, earthquake prone, or insanitary buildings; and
+  (j) performs functions relating to dangerous, earthquake-prone, or insanitary buildings; and
   (k) carries out any other functions and duties specified in this Act; and
   (l) carries out any functions that are incidental and related to, or consequential upon, the functions set out in paragraphs (a) to (k).
 
@@ -608,7 +608,7 @@ A person may comply with a compliance document in order to comply with the provi
   (a) explain the reasons for his or her decision; or
   (b) state where copies of that explanation may be obtained.
 
-### Subpart 3 — Building work-Project information memoranda and building consents
+### Subpart 3 — Building work—Project information memoranda and building consents
 
 **Project information memoranda**
 
@@ -697,7 +697,7 @@ If a project information memorandum contains information previously supplied to 
 ### 39 Territorial authority must advise New Zealand Historic Places Trust in certain circumstances
 (1) If the conditions set out in subsection (2) apply, a territorial authority must advise the New Zealand Historic Places Trust within 5 days after receiving an application for a project information memorandum.
 (2) The conditions are—
-  (a) that the application affects a registered historic place, historic area, w¯ahi tapu, or w¯ahi tapu area; and
+  (a) that the application affects a registered historic place, historic area, wāhi tapu, or wāhi tapu area; and
   (b) that the territorial authority has not previously issued a project information memorandum for the building work to which the application applies.
 
 **Building consents**
@@ -979,7 +979,7 @@ Despite section 71, a building consent authority that is a territorial authority
 ### 73 Conditions on building consents granted under section 72
 (1) A building consent authority that is a territorial authority that grants a building consent under section 72 must include, as a condition of the consent, that the building consent authority will, on issuing the consent, notify the consent to,—
   (a) in the case of an application made by, or on behalf of, the Crown, the appropriate Minister and the Surveyor-General; and
-  (b) in the case of an application made by, or on behalf of, the owners of Maori land, the Registrar of the Maori Land Court; and
+  (b) in the case of an application made by, or on behalf of, the owners of Māori land, the Registrar of the Maori Land Court; and
   (c) in any other case, the Registrar-General of Land.
 (2) The notification under subsection (1)(a) or (b) must be accompanied by a copy of the project information memorandum that relates to the building consent in question.
 (3) The notification under subsection (1)(c) must identify the natural hazard concerned.
@@ -1399,7 +1399,7 @@ An owner of a building for which a compliance schedule has been issued must—
 
 ### 112 Alterations to existing buildings
 (1) A building consent authority must not grant a building consent for the alteration of an existing building, or part of an existing building, unless the building consent authority is satisfied that, after the alteration, the building will—
-  (a) comply, as nearly as is reasonably practicable , with the provisions of the building code that relate to—
+  (a) comply, as nearly as is reasonably practicable, with the provisions of the building code that relate to—
     (i) means of escape from fire; and
     (ii) access and facilities for persons with disabilities (if this is a requirement in terms of section 118); and
   (b) continue to comply with the other provisions of the building code to at least the same extent as before the alteration.
@@ -1448,7 +1448,7 @@ An owner of a building must not change the use of the building,—
 
 ### 116A Code compliance requirements: subdivision
 A territorial authority must not issue a certificate under section 224(f) of the Resource Management Act 1991 for the purpose of giving effect to a subdivision affecting a building or part of a building unless satisfied, on reasonable grounds, that the building—
-  (a) will comply, as nearly as is reasonably practicable, with every provision of the building code that relates to one or more of the following matters:
+  (a) will comply, as nearly as is reasonably practicable, with every provision of the building code that relates to 1 or more of the following matters:
     (i) means of escape from fire:
     (ii) access and facilities for persons with disabilities (if this is a requirement under section 118):
     (iii) protection of other property; and
@@ -1901,7 +1901,7 @@ The provisions of sections 154 to 159 are in addition to, and do not limit, the 
 **Policy on dangerous dams**
 
 ### 161 Regional authority must adopt policy on dangerous dams, earthquake-prone dams, and flood-prone dams
-(1) A regional authority must, within 18 months after the commencement of this Part, adopt a policy on dangerous dams , earthquake-prone dams, and flood-prone dams within its region.
+(1) A regional authority must, within 18 months after the commencement of this Part, adopt a policy on dangerous dams, earthquake-prone dams, and flood-prone dams within its region.
 (2) The policy must state—
   (a) the approach that the regional authority will take in performing its functions under this Part; and
   (b) the regional authority's priorities in performing those functions; and
@@ -2053,7 +2053,9 @@ The chief executive must, in performing his or her functions, consult with,—
     (iii) licensed building practitioners.
 (2) Any information published by the chief executive under this section—
   (a) is only a guide; and
-  (b) if used, does not relieve any person of the obligation to consider any matter to which that information relates according to the circumstances of the particular case. Power of chief executive to make determinations
+  (b) if used, does not relieve any person of the obligation to consider any matter to which that information relates according to the circumstances of the particular case.
+
+**Power of chief executive to make determinations**
 
 ### 176 Meaning of party
 In sections 177 to 190, party, in relation to a determination, means any or all of the following persons affected by the determination:
@@ -2074,11 +2076,11 @@ A party may apply to the chief executive for a determination in relation to 1 or
   (a) whether particular matters comply with the building code:
   (b) a building consent authority's decision to—
     (i) issue, or refuse to issue, a building consent, code compliance certificate, or compliance schedule; or
-    (iii) refuse to allow, under section 52(b), an extension of the period during which building work must be commenced before a building consent lapses; or
-    (iv) issue a notice to fix; or
-    (v) refuse to allow, under section 93(2)(b)(ii), an extension of the period during which the building consent authority must decide whether or not to issue a code compliance certificate; or
-    (vi) amend a building consent, notice to fix, or code compliance certificate; or
-    (vii) impose a condition on a notice to fix or compliance schedule or to amend that condition:
+    (ii) refuse to allow, under section 52(b), an extension of the period during which building work must be commenced before a building consent lapses; or
+    (iii) issue a notice to fix; or
+    (iv) refuse to allow, under section 93(2)(b)(ii), an extension of the period during which the building consent authority must decide whether or not to issue a code compliance certificate; or
+    (v) amend a building consent, notice to fix, or code compliance certificate; or
+    (vi) impose a condition on a notice to fix or compliance schedule or to amend that condition:
   (c) a territorial authority's decision to—
     (i) grant or refuse a waiver or modification of the building code under section 67; or
     (ii) issue, or refuse to issue, a certificate of acceptance under section 96; or
@@ -2161,7 +2163,7 @@ The chief executive must, within 10 working days after the date on which he or s
 ### 186 Procedure for determination
 (1) In making a determination, the chief executive must—
   (a) avoid unnecessary delay and formality; and
-  (b) recognise tikanga Maori, and receive evidence, written or spoken, in Maori; and
+  (b) recognise tikanga Māori, and receive evidence, written or spoken, in Māori; and
   (c) receive any relevant evidence, whether or not it would be admissible in a court of law; and
   (d) comply with the principles of natural justice.
 (2) The chief executive may consider related applications together.
@@ -2295,7 +2297,7 @@ The chief executive must, as soon as practicable after receiving an application 
   (b) a matter on his or her own initiative under section 201.
 (2) The chief executive must, in the notice to the building consent authority concerned given under section 200(3) or, as the case may be, section 201(2),—
   (a) state that the chief executive has reason to believe that 1 or more grounds exist entitling him or her to exercise the disciplinary powers under section 203; and
-  (b) provide particulars that will clearly inform the registered person of the ground or grounds; and
+  (b) provide particulars that will clearly inform the building consent authority of the ground or grounds; and
   (c) give the building consent authority a reasonable opportunity to make written submissions on the matter; and
   (d) consider those submissions (if any).
 
@@ -2311,7 +2313,7 @@ The chief executive must, as soon as practicable after receiving an application 
   (c) limit the functions that the building consent authority may perform under this Part or Part 2 and record the limitation in the appropriate register accordingly:
   (d) in the case of a building consent authority that is not a territorial authority or a regional authority,—
     (i) suspend the authority's registration and record the suspension in the appropriate register accordingly; or
-    (ii) if the chief executive considers that the circumstances warrant it, revoke the authority's registration and remove the authority's name from the register of building consent authorities
+    (ii) if the chief executive considers that the circumstances warrant it, revoke the authority's registration and remove the authority's name from the register of building consent authorities:
   (e) in the case of a territorial authority or regional authority, recommend to the Minister that the Minister appoint 1 or more persons to act in the place of the territorial authority or, as the case may be, the regional authority in relation to all or any of its functions.
 (3) If subsection (2)(e) applies, sections 277 to 281 apply with all necessary modifications.
 (4) If the chief executive takes any action referred to in subsection (2), he or she must give written notice of the action to the building consent authority and the reasons for the action.
@@ -2398,7 +2400,7 @@ An authorised person supplied with a warrant under section 206—
 ### 211 Powers of District Court on appeal
 (1) On the hearing of an appeal under section 208, a District Court may—
   (a) confirm, reverse, or modify the determination or decision of the chief executive; or
-  (b) refer the matter back to the chief executive in accordance with the rules of Court; or
+  (b) refer the matter back to the chief executive in accordance with the rules of court; or
   (c) make any determination or decision that the chief executive could have made in respect of the matter.
 (2) This section does not give the District Court power to review any part of the chief executive's determination or decision other than the part against which the appellant has appealed.
 (3) Subject to any order of the District Court, every determination and decision of the chief executive against which an appeal is made continues in force and has effect according to its tenor pending the determination of the appeal.
@@ -2539,7 +2541,7 @@ A territorial authority must, for the purpose of ensuring that it complies with 
 (2) An authorised officer must, on entering private land under subsection (1), and when requested at any subsequent time, produce to the occupier of the land written evidence of the authorised officer's identity.
 (3) The powers conferred by this section are in addition to, and do not limit, the powers conferred by section 173 of the Local Government Act 2002.
 (4) In this section and sections 223 to 228,—
-  - **authorised officer** means an officer of a territorial authority to whom either or both of the following applies
+  - **authorised officer** means an officer of a territorial authority to whom either or both of the following applies:
     (a) he or she is authorised to carry out inspections; or
     (b) he or she is authorised to enter land—
       (i) by this Act; or
@@ -2579,7 +2581,7 @@ An authorised officer must, on entering private land and when requested at any s
 
 ### 227 District Court may authorise entry to household unit
 (1) A District Court, on the application of an authorised officer, may make an order authorising the officer to enter a household unit.
-(2) The Court may make the order under subsection (1)—
+(2) The court may make the order under subsection (1)—
   (a) only if it is satisfied that—
     (i) the proposed entry is necessary for the purposes of section 222; and
     (ii) the authorised officer has taken all reasonable steps to obtain the consent of the occupier to the proposed entry; and
@@ -2647,7 +2649,7 @@ This subpart applies to a building consent authority that—
   (b) provides services as a building consent authority in a district; but
   (c) is not—
     (i) the territorial authority for the district, or another territorial authority to which a function, duty, or power is transferred under section 233; or
-    (ii) the regional authority for the region, or another regional authority to which a function, duty, or power is transferred under section 244
+    (ii) the regional authority for the region, or another regional authority to which a function, duty, or power is transferred under section 244.
 
 ### 238 Duties of building consent authority
 (1) A building consent authority must, in performing its functions under Part 2,—
@@ -2790,11 +2792,11 @@ An application for accreditation under section 250 must—
   (b) has first given the building consent authority concerned a reasonable opportunity to be heard.
 (3) Despite subsection (2)(a), the building consent accreditation body or the chief executive must not revoke the accreditation of a building consent authority if—
   (a) the prescribed criteria and standards for accreditation are amended; and
-  (b) the building consent authority or regional authority no longer meets those criteria and standards solely as a result of the amendments.
+  (b) the building consent authority no longer meets those criteria and standards solely as a result of the amendments.
 (4) The limit in subsection (3) applies only during the period of 3 months after the date on which the amendments come into force.
 
 ### 255 Building consent accreditation body must notify chief executive of grant and revocation of accreditation
-(1) The building consent accreditation body must notify the chief executive when it grants or revokes an accreditation of a building consent authority .
+(1) The building consent accreditation body must notify the chief executive when it grants or revokes an accreditation of a building consent authority.
 (2) The notification must be given—
   (a) in the manner notified by the chief executive to the building consent accreditation body from time to time; and
   (b) within 7 days after the grant or revocation to which it relates.
@@ -3062,7 +3064,7 @@ In this Part, unless the context otherwise requires,—
     (a) apply to the licensing class in question; and
     (b) are contained in the rules
   - **Board** means the Building Practitioners Board established by section 341
-  - **building inspection work** means any of the following
+  - **building inspection work** means any of the following:
     (a) the assessment and approval of building design documents:
     (b) the undertaking of inspections of building work:
     (c) the issuing of building consents:
@@ -3465,7 +3467,7 @@ An appeal must be lodged—
 ### 332 Method of bringing appeal
 An appeal—
   (a) must be brought to the Board by notice in writing to the Board; or
-  (b) must be brought to the District Court by way of notice of appeal in accordance with the rules of Court.
+  (b) must be brought to the District Court by way of notice of appeal in accordance with the rules of court.
 
 ### 333 Notice of right of appeal
 When notifying a person under this Part of any decision or action against which section 330 gives him or her a right of appeal, the decision-maker must also notify the person in writing of the right of appeal and the time within which an appeal must be lodged.
@@ -3509,7 +3511,7 @@ On an appeal under this subpart, the appeal authority may order any party to the
 
 ### 340 Appeal on question of law
 (1) A party to an appeal to the District Court under this subpart may appeal to the High Court against any determination of law arising in the appeal.
-(2) The appeal must be heard and determined in accordance with the appropriate rules of Court.
+(2) The appeal must be heard and determined in accordance with the appropriate rules of court.
 (3) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
@@ -3824,7 +3826,7 @@ The continued existence of anything, or the intermittent repetition of any actio
 (4) The District Court may, at any time, rescind or vary an injunction granted or order made under section 381.
 
 ### 383 District Court may direct chief executive to make determination
-On an application under section 381(1), the District Court may direct the chief executive to make a determination under subpart 1 of Part 3 in respect of any matters that the Court specifies.
+On an application under section 381(1), the District Court may direct the chief executive to make a determination under subpart 1 of Part 3 in respect of any matters that the court specifies.
 
 ### 384 District Court may grant interim injunctions
 (1) If an application is made to the District Court under section 381(1) for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the District Court may,—
@@ -3916,7 +3918,7 @@ Any civil proceedings against a building consent authority in respect of the per
 (3) The persons specified in subsection (4) are not liable in any civil proceedings brought by any person who has an interest in the building referred to in subsection (2) on the grounds that the building consent authority issued a building consent for the building in the knowledge that the building for which the consent was issued, or the land on which the building was situated, was, or was likely to be, subject to damage arising, directly or indirectly, from a natural hazard.
 (4) The persons are—
   (a) the building consent authority concerned; and
-  (b) every member, employee, or agent of that building consent authority .
+  (b) every member, employee, or agent of that building consent authority.
 
 ### 393 Limitation defences
 (1) The provisions of the Limitation Act 1950 apply to civil proceedings against any person if those proceedings arise from—
@@ -3945,8 +3947,8 @@ Any civil proceedings against a building consent authority in respect of the per
   (c) in accordance with a method agreed between the informant and the organisation.
 (5) A notice or other document sent by post to a person in accordance with subsection (1)(d) must be treated as having been received by that person at the time at which the letter would have been delivered in the ordinary course of post.
 
-### 395 Notices in relation to Maori land
-Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under this Act on owners of Maori land, except that the period fixed for anything to be done by the owners must not be extended by more than 14 working days under section 181(4) of that Act, unless otherwise provided by the territorial authority or the regional authority concerned.
+### 395 Notices in relation to Māori land
+Part 10 of Te Ture Whenua Maori Act 1993 applies to the service of notices under this Act on owners of Māori land, except that the period fixed for anything to be done by the owners must not be extended by more than 14 working days under section 181(4) of that Act, unless otherwise provided by the territorial authority or the regional authority concerned.
 
 **Implied terms of contracts**
 
@@ -4395,7 +4397,7 @@ In sections 443 to 446, approved building certifier means a person—
 Every approved building certifier has until 31 May 2006 to apply to be registered as a building consent authority under section 191.
 
 ### 444 What happens if approved building certifier applies to be registered as building consent authority by 31 May 2006
-(1) An approved building certifier who applies to be registered as building consent authority by 31 May 2006 may, during the transitional period, issue either of the following in respect of building work for which a building consent was issued before the commencement of this section:
+(1) An approved building certifier who applies to be registered as a building consent authority by 31 May 2006 may, during the transitional period, issue either of the following in respect of building work for which a building consent was issued before the commencement of this section:
   (a) a building certificate under section 56 of the former Act; or
   (b) a code compliance certificate under section 95.
 (2) In this section, transitional period means the period commencing on the date of commencement of this section and ending on 30 November 2007.
@@ -4437,7 +4439,7 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
   (a) begins on the date of commencement of Part 2; and
   (b) ends on the earlier of—
     (i) the date on which an application for registration by the territorial authority under section 191 is granted or refused; or
-    (ii) 31 March 2009
+    (ii) 31 March 2009.
 (3A) A territorial authority that is registered under section 191 must, until the time specified in subsection (3B), act as a building consent authority in relation to a dam within the territorial authority's district.
 (3B) The time is the earlier of the following:
   (a) the close of the day before the date specified in subsection (3)(b)(ii); and
@@ -4463,9 +4465,17 @@ A territorial authority or a regional authority must, by 31 May 2006, apply to b
 
 ## Schedule 1 — Exempt building work
 
+| Compare: 1991 No 150 Schedule 3 |
+| --- |
+
 ## Schedule 2 — Buildings in respect of which requirement for provision of access and facilities for persons with disabilities applies
 
+| Compare: 1991 No 150 s 47A(4) |
+| --- |
+
 ## Schedule 3 — Further provisions applying to Board
+
+**Members' appointment**
 
 ### 1 Method of appointment
 (1) The Governor-General appoints a member by sending written notice to the member (with a copy to the Board).
@@ -4502,6 +4512,8 @@ The acts of a person as a member are valid even if—
 ### 5 Position where concurrent office
 A member may hold that office concurrently with any other office.
 
+**Resignation and removal of members**
+
 ### 6 Resignation
 (1) A member may resign from office by written notice to the Minister (with a copy to the Board) that is signed by the member.
 (2) The resignation is effective on receipt of the notice by the Minister or at any later time stated in the notice.
@@ -4525,6 +4537,8 @@ A member ceases to hold office if he or she—
   (c) becomes disqualified from being a member under clause 2; or
   (d) otherwise ceases to hold office in accordance with any enactment.
 
+**Vacancies in membership of Board**
+
 ### 10 Position where vacancy in membership
 (1) If a member, for any reason, ceases to hold office as a member, the Governor-General may appoint another person to act as a member.
 (2) A member who is appointed under subclause (1) is appointed for the residue of the term for which the vacating member was appointed.
@@ -4532,8 +4546,10 @@ A member ceases to hold office if he or she—
 ### 11 Effect of vacancy in membership
 The powers and functions of the Board are not affected by any vacancy in its membership.
 
+**Duties of members**
+
 ### 12 Accountability for duties
-(1) The duties of members of the Board under this Schedule are duties owed to the Minister, and do not provide any ground of action for any other person.
+(1) The duties of members of the Board under this schedule are duties owed to the Minister, and do not provide any ground of action for any other person.
 (2) If the Board breaches any of its duties under clause 14,—
   (a) each member of the Board is accountable to the Minister for the breach; and
   (b) that breach justifies all or any of the members being removed from office.
@@ -4546,17 +4562,19 @@ A member, when acting as a member, must act—
   (d) in accordance with any statement of expectations as to standards of good conduct for members of statutory bodies issued by 1 or more Ministers of the Crown that applies to statutory bodies (or classes of them) generally.
 
 ### 14 Collective duties of Board
-The Board must——
+The Board must—
   (a) not contravene this Act; and
   (b) act in a manner consistent with the objectives and functions of the Board; and
   (c) perform its functions efficiently and effectively and in a manner consistent with the spirit of service to the public.
+
+**Disclosure of interests of members in matters of Board**
 
 ### 15 Meaning of interested
 (1) A member is interested in a matter relating to the Board if, and only if, the member—
   (a) is a party to, or will or may derive a material financial benefit from, the matter; or
   (b) has a material financial interest in a person to whom the matter relates; or
   (c) is a director, officer, member, or trustee of a person who will or may derive a material financial benefit from the matter; or
-  (d) is the parent, child, spouse civil union partner, or de facto partner of a person who will or may derive a material financial benefit from the matter; or
+  (d) is the parent, child, spouse, civil union partner, or de facto partner of a person who will or may derive a material financial benefit from the matter; or
   (e) is otherwise directly or indirectly materially interested in the matter.
 (2) However, a member is not interested in a matter merely because he or she is a member of a professional building industry body.
 
@@ -4576,6 +4594,8 @@ A member who is interested in a matter relating to the Board—
   (a) must not vote or take part in any deliberation or decision of the Board relating to the matter; and
   (b) must be disregarded for the purpose of forming a quorum for that part of a meeting of the Board during which a deliberation or decision relating to the matter occurs or is made.
 
+**Confidentiality of information**
+
 ### 19 Confidentiality of information
 (1) A member who has information in his or her capacity as a member that would not otherwise be available to him or her must not disclose that information to any person, or make use of, or act on, that information, except—
   (a) for the purposes of the Board; or
@@ -4586,12 +4606,18 @@ A member who is interested in a matter relating to the Board—
   (a) the member is first authorised to do so by the Board; and
   (b) the disclosure, use, or act in question will not, or will not be likely to, prejudice the Board.
 
+**Liability of Board and others**
+
 ### 20 Liability of Board and others
 No member of the Board is liable for any act or omission done, in good faith, in the performance or intended performance and exercise of the functions and powers of the Board.
+
+**Members' remuneration and allowances**
 
 ### 21 Members' remuneration and allowances
 (1) The Board is a statutory board for the purposes of the Fees and Travelling Allowances Act 1951.
 (2) There may be paid, out of public money to the members of the Board, remuneration by way of fees, salary, or allowances and travelling allowances and travelling expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act apply accordingly.
+
+**Chairperson and deputy chairperson**
 
 ### 22 Appointment
 (1) The Minister may appoint one of the members as the chairperson, and another member as the deputy chairperson, of the Board by written notice to the member (with a copy to the Board).
@@ -4613,6 +4639,8 @@ The chairperson and the deputy chairperson each holds that office from the date 
 
 ### 26 Performance and exercise of chairperson's functions, duties, and powers during vacancy
 If there is no chairperson or, for any reason, the chairperson is unable to perform and exercise his or her functions, duties, and powers as chairperson, the deputy chairperson has all the functions, duties, and powers of the chairperson.
+
+**Procedures of Board**
 
 ### 27 Procedure generally
 Except as otherwise provided in this Act, the members may regulate their own procedure.
@@ -4657,25 +4685,6 @@ A meeting of the Board may be held—
 (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
 
 ## Schedule 4 — Enactments amended
-
-### 13B Fencing in accordance with Schedule must be treated as means of compliance
-Any provision that is made for the fencing of swimming pools that is in accordance with the Schedule must, in respect of—
-  (a) matters subject to the Building Act 2004, be treated as a compliance document establishing compliance with the building code for the purposes of section 19 of that Act, and the requirements of this Act:
-  (b) building and premises not subject to the Building Act 2004, be treated as a reasonable and adequate provision for the purposes of this Act.
-
-### 104 Chief executive responsible for Building Act 2004 may grant exemptions
-(1) The chief executive of the department of State responsible for the administration of the Building Act 2004 may, in writing, and for any period that the chief executive specifies, exempt specific works, electrical installations, fittings, electrical appliances, associated equipment, persons, or things from any requirement imposed by any regulations in Part 4 or Part 5 in any case where—
-  (a) compliance with an electrical code of practice is taken to be compliance with that regulation; and
-  (b) that electrical code of practice is approved by the chief executive for use in establishing compliance with the provisions of the building code made under the Building Act 2004.
-(2) The chief executive may amend or withdraw an exemption granted under these regulations—
-  (a) in order to prevent danger or potential danger to the safety of a person or property, on giving 20 working days' notice to the holder of the exemption; or
-  (b) if the holder asks the chief executive to withdraw the exemption.
-(3) The chief executive may grant the exemption subject to any conditions that the chief executive thinks fit.
-
-### 31 Chief executive responsible for Building Act 2004 may grant exemptions
-(1) The chief executive of the department of State responsible for the administration of the Building Act 2004 may, in writing, and for any period that the chief executive specifies, exempt any specific gas installation, gas appliance, fittings, person, or thing from any requirement imposed by regulation 12 if the exemption is required as a result of the grant of a waiver or modification of the building code, or a compliance document (within the meaning of the Building Act 2004), in relation to an application for a building consent that is referred to the chief executive under section 70 of that Act.
-(2) The chief executive may amend or withdraw an exemption granted under this regulation in order to prevent a gas hazard.
-(3) The chief executive may grant the exemption subject to any conditions that the chief executive thinks fit.
 
 ### 1 Title
 This Act is the Building Amendment Act 2008.
