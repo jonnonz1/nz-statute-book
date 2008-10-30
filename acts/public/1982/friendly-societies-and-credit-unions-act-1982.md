@@ -1,5 +1,5 @@
 # Friendly Societies And Credit Unions Act 1982
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-10-30_
 
 > An Act to consolidate and amend the law relating to friendly and certain other societies, to make better provision for the formation and administration of credit unions, and to provide for matters related thereto
 
@@ -314,7 +314,7 @@ Except as provided in this Part of this Act, the subscription of a person who is
 **Benefits**
 
 ### 42 Maximum gross sum for contracts of insurance
-(1) No member or person claiming through a member shall receive from any registered society or branch or from any registered society including its branches taken together more than $60,000 by way of gross sum together with any bonuses or additions declared upon assurances not exceeding that sum, or more than $5,000 a year by way of annuity together with any bonus or addition declared upon that annuity.
+(1) No member or person claiming through a member shall receive from any registered society or branch or from any registered society including its branches taken together more than $100,000 by way of gross sum together with any bonuses or additions declared upon assurances not exceeding that sum, or more than $5,000 a year by way of annuity together with any bonus or addition declared upon that annuity.
 (2) The Governor-General may, from time to time by Order in Council, amend any amount specified in subsection (1) of this section as being a maximum gross sum of assurances or annuity.
 (3) In this section, the term assurance includes all life and endowment assurance, and any assurance payable on the member's death provided by the society or branch in respect of any shares in or loans by a credit union.
 
