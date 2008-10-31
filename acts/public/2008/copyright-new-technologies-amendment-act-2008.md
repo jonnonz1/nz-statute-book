@@ -1,5 +1,5 @@
 # Copyright (New Technologies) Amendment Act 2008
-_Consolidation as at 2008-04-11_
+_Consolidation as at 2008-10-31_
 
 ### 1 Title
 This Act is the Copyright (New Technologies) Amendment Act 2008.
@@ -131,7 +131,7 @@ Section 33 is repealed and the following section substituted:Infringement by com
     (a) imports a copy of the film into New Zealand within 9 months of first being made available to the public; and
     (b) knows or has reason to believe that the film is imported into New Zealand within 9 months of first being made available to the public; and
     (c) is not the licensee of the copyright in New Zealand; and
-    (d) imports the film into New Zealand other than for that person's private and domestic use.
+    (d) imports the film into New Zealand other than for that person’s private and domestic use.
   (4) For the purposes of subsection (3), a film is first made available to the public (as set out in section 23(2)) by any authorised act whether in New Zealand or elsewhere.
   (5) Subsections (3) and (4) are repealed on 31 October 2013.
 
@@ -195,7 +195,7 @@ Section 48 is repealed and the following section substituted:Copying and communi
   (1) This section applies when a copy of a communication work is—
     (a) made or communicated by or on behalf of an educational establishment; or
     (b) made and supplied by an educational resource supplier to an educational establishment.
-  (2) In any case to which subsection (1)(a) applies, the making or communication of a copy of the communication work by or on behalf of an educational establishment, and the subsequent communication of the copy within the educational establishment, does not infringe copyright in the communication work or in any work included in it if the copy is made or communicated for the educational establishment's educational purposes.
+  (2) In any case to which subsection (1)(a) applies, the making or communication of a copy of the communication work by or on behalf of an educational establishment, and the subsequent communication of the copy within the educational establishment, does not infringe copyright in the communication work or in any work included in it if the copy is made or communicated for the educational establishment’s educational purposes.
   (3) In any case to which subsection (1)(b) applies, the making and supply of a copy of the communication work by an educational resource supplier does not infringe copyright in the communication work or in any work included in it if the copy is made and supplied for the educational purposes of the educational establishment to which it is supplied.
   (4) However, the exclusions from infringement of copyright in subsections (2) and (3) do not apply to—
     (a) the copying of a communication work if or to the extent that—
@@ -426,7 +426,7 @@ The following heading and sections are inserted after section 92:Internet servic
   (5) Nothing in this section limits the right of the copyright owner to injunctive relief in relation to a user’s infringement or any infringement by the Internet service provider.
   A notice referred to in section 92C(3) must—
     (a) contain the information prescribed by regulations made under this Act; and
-    (b) be signed by the copyright owner or the copyright owner's duly authorised agent.
+    (b) be signed by the copyright owner or the copyright owner’s duly authorised agent.
   (1) An Internet service provider does not infringe copyright in a work by caching material if the Internet service provider—
     (a) does not modify the material; and
     (b) complies with any conditions imposed by the copyright owner of the material for access to that material; and
@@ -761,7 +761,7 @@ Section 226 and the heading immediately above section 226 are repealed and the f
   (1) Nothing in this Act prevents any person from using a TPM circumvention device to exercise a permitted act under Part 3.
   (2) The user of a TPM work who wishes to exercise a permitted act under Part 3 but cannot practically do so because of a TPM may do either or both of the following:
     (a) apply to the copyright owner or the exclusive licensee for assistance enabling the user to exercise the permitted act:
-    (b) engage a qualified person (see section 226D(3)) to exercise the permitted act on the user’s behalf using a TPM circumvention device, but only if the copyright owner or the exclusive licensee has refused the user's request for assistance or has failed to respond to it within a reasonable time.
+    (b) engage a qualified person (see section 226D(3)) to exercise the permitted act on the user’s behalf using a TPM circumvention device, but only if the copyright owner or the exclusive licensee has refused the user’s request for assistance or has failed to respond to it within a reasonable time.
   (3) Nothing in this Act prevents any person from using a TPM circumvention device to undertake encryption research if that person—
     (a) is either—
       (i) engaged in a course of study at an educational establishment in the field of encryption technology; or
