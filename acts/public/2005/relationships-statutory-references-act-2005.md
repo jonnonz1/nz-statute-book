@@ -1,5 +1,5 @@
 # Relationships (Statutory References) Act 2005
-_Consolidation as at 2007-07-01_
+_Consolidation as at 2008-11-01_
 
 ### 1 Title
 This Act is the Relationships (Statutory References) Act 2005.
@@ -57,11 +57,11 @@ The Acts specified in Schedule 1 are amended in the manner set out in that sched
 
 ## Part 2 — Amendments to regulations
 
-**Family Courts Rules 2002**
+**Family Court Rules 2002**
 
 ### 8 Rules amended in Schedule 2
-(1) The rules and forms in the Family Courts Rules 2002 that are specified in Part 1 of Schedule 2 are amended by inserting, after the word marriage wherever it appears, the words or civil union.
-(2) The Family Courts Rules 2002 are also amended in the manner set out in Part 2 of Schedule 2.
+(1) The rules and forms in the Family Court Rules 2002 that are specified in Part 1 of Schedule 2 are amended by inserting, after the word marriage wherever it appears, the words or civil union.
+(2) The Family Court Rules 2002 are also amended in the manner set out in Part 2 of Schedule 2.
 
 **Property (Relationships) Forms Regulations 2001**
 
@@ -85,12 +85,12 @@ The regulations specified in Schedule 4 are amended in the manner set out in tha
 In this Act, partner, in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner.
 
 ### 27 Conflicting claims
-(1) If more than 1 person claims to be entitled to an annuity under section 4(2) or section 22(1)(b), or to a payment under section 23(1)(a), an authorised person must decide—
+(1) If more than 1 person claims to be entitled to an annuity under section 4(2) or section 22(1)﻿(b), or to a payment under section 23(1)﻿(a), an authorised person must decide—
   (a) whether more than 1 person is entitled to the annuity or payment; and
   (b) if so, the proportion of the annuity or payment payable to each person entitled to it.
 (2) In this section, authorised person means—
-  (a) in relation to an annuity under section 4(2) or section 22(1)(b), a person who has been authorised to make decisions under this section by the Minister who (with the authority of the Prime Minister) is responsible for Ministerial Services; and
-  (b) in relation to a payment made under section 23(1)(a), the Parliamentary Service established under the Parliamentary Service Act 2000.
+  (a) in relation to an annuity under section 4(2) or section 22(1)﻿(b), a person who has been authorised to make decisions under this section by the Minister who (with the authority of the Prime Minister) is responsible for Ministerial Services; and
+  (b) in relation to a payment made under section 23(1)﻿(a), the Parliamentary Service established under the Parliamentary Service Act 2000.
 (3) An authorised person must pay, or arrange for the payment of, an annuity or payment referred to in this section in accordance with any decision made by the authorised person under subsection (1).
 (4) If more than 1 person is entitled to an annuity or payment, the total annuity or payment paid to the persons entitled to it must not exceed the amount that would have been paid if only 1 person were entitled to it.
 (5) If a person who claims to be entitled to an annuity or payment referred to in this section is dissatisfied with a decision made by an authorised person under subsection (1), he or she may appeal against the decision to the High Court.
@@ -100,7 +100,7 @@ In this Act, partner, in the phrase spouse or partner and in related contexts, m
 ### 67 Conspiracy between spouses or civil union partners
 A person is capable of conspiring with his or her spouse or civil union partner or with his or her spouse or civil union partner and any other person.
 
-## Schedule 2 — Amendments to Family Courts Rules 2002
+## Schedule 2 — Amendments to Family Court Rules 2002
 
 ## Schedule 3 — New Schedules 1 and 2 in Property (Relationships) Forms Regulations 2001
 
