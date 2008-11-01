@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2008-11-01_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -842,6 +842,10 @@ No authorised person, or a person requested to assist an authorised person, or a
   (b) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under paragraph (a) and the amounts of fines that may be imposed in respect of those offences, which fines must not exceed $20,000:
   (c) prescribing the fees to be paid in relation to the taking of any action under Part 3 by the Registrar-General:
   (d) providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
+(1A) Regulations under subsection (1)(a)(i) may prescribe requirements (not inconsistent with this Act, the Health and Disability Commissioner (Code of Health and Disability Services Consumers’ Rights) Regulations 1996, or the Human Tissue Act 2008) for informed consent for collection of gametes, embryos, or both—
+  (a) from dead individuals; and
+  (b) in connection with, or for the purposes of, the performance of assisted reproductive procedures, the conduct of human reproductive research, or any other lawful use or uses of the gametes, embryos, or both.
+(1B) Subsection (1A) does not limit subsection (1)(a)(i) or the power under section 6 to declare procedures or treatments not to be established procedures if they involve the use of gametes or embryos collected from a person, who has since died, who did not consent to the specific use of the gametes or embryos before that person’s death.
 (2) Regulations under subsection (1)(a) may be made only on the recommendation of the Minister after the Minister has consulted and received advice from the advisory committee and consulted any other person the Minister thinks fit to consult.
 
 ### 77 Liability of employers, principals, and directors
