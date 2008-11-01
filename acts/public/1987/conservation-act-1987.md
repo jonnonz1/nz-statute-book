@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-11-01_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -915,7 +915,9 @@ Without limiting any other provision in this Part of this Act, upon application 
 ### 18 Minister may confer additional specific protection or preservation requirements
 (1) Subject to subsections (2) to (4) of this section, the Minister may, by notice in the Gazette describing the land concerned, declare any land or interest in land, held under this Act for conservation purposes to be held for the purpose of a conservation park, an ecological area, a sanctuary area, a wilderness area, for any other specified purpose or purposes, or for 2 or more of those purposes; and, subject to this Act, it shall thereafter so be held.
 (2) The Minister shall give public notice of intention to give a notice under subsection (1) of this section; and section 49 of this Act shall apply accordingly.
-(3) Every notice under subsection (1) of this section shall specify a name for the area concerned; and it shall thereafter be known by the name.
+(3) The public notice referred to in subsection (2) must specify the proposed name for the proposed park or area.
+(3A) After considering any submissions received in response to the public notice given under subsection (2), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa for review under section 27(3) of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008; and the provisions of sections 28 to 31 of that Act apply.
+(3B) The area for which a name is specified and determined under subsections (3) and (3A) must be known by its official geographic name.
 (4) Where any land or interest is declared to be held for the purpose of an ecological area under subsection (1) of this section, the notice concerned shall specify the particular scientific value for which it is held.
 (5) Every area held under this Act for one or more of the purposes described in subsection (1) of this section shall be managed in a manner consistent with the purpose or purposes concerned.
 (6) Nothing in sections 19 to 24 of this Act limits the generality of subsection (5) of this section.
