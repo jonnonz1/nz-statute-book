@@ -1,5 +1,5 @@
 # Reserves Act 1977
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-11-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to public reserves, to make further provision for their acquisition, control, management, maintenance, preservation (including the protection of the natural environment), development, and use, and to make provision for public access to the coastline and the countryside
 
@@ -300,6 +300,7 @@ There may from time to time be appointed under the State Sector Act 1988 a suita
 (9) Classification of a reserve under subsection (1) of this section shall not, unless the Minister in the notice otherwise directs, affect the appointment or term of the administering body controlling and managing the reserve or of any member thereof.
 (10) The Minister, or the territorial authority or regional council in the case of a reserve vested in a territorial authority or regional council, may from time to time, by notice in the Gazette, declare that a reserve shall be known by such name as is specified in the notice, and the Minister or the territorial authority or the regional council, as the case may be, may in like manner change the name of any reserve. Any change of name shall not affect the appointment or term of the administering body controlling the reserve or any member thereof:
   Provided that the Minister shall not change the name of a reserve that is controlled and managed by an administering body without consulting that administering body.
+(10A) Before the Minister gives notice in the Gazette under subsection (10), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
 (11) Notwithstanding anything in subsections (1) to (10) of this section,—
   (a) All reserves which immediately before the commencement of this Act were set apart as racecourse reserves or for racecourse purposes under the Reserves and Domains Act 1953 shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as recreation reserves under section 17 of this Act, subject to sections 65 to 70 of this Act:
   (b) All reserves created before the commencement of this Act pursuant to Part 28 of the Municipal Corporations Act 1933, Part 25 of the Municipal Corporations Act 1954 or Part 2 of the Counties Amendment Act 1961 shall, after the commencement of this Act, and without further notice or gazetting, be held and administered as follows:
@@ -717,6 +718,7 @@ The Minister may from time to time, by writing under his hand, and subject to su
 ### 52 Union of reserves
 (1) The Minister may, in the case of reserves of the same classification, by notice in the Gazette, declare that any 2 or more reserves, or parts of 2 or more reserves, or parts of one or more reserves and the whole of one or more other reserves, shall, as from a date to be specified in that behalf in the notice, be united to form one reserve, with such name as he thinks fit:
   Provided that where there is an administering body or bodies of one or more of those reserves, the consent of the administering body or bodies shall first be obtained.
+(1A) Before the Minister gives notice in the Gazette under subsection (1), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
 (2) Where 2 or more reserves, or parts of 2 or more reserves, or parts of one or more reserves and the whole of one or more other reserves, have been so declared to be united as one reserve, the Minister may appoint an administering body to control the reserve, and thereupon the previous administering body or bodies (if any) shall cease to hold office as such, and the new administering body shall have in respect of the united reserve all the rights and liabilities of the several former administering bodies of the several reserves.
 
 **Particular powers of Minister and administering body**
