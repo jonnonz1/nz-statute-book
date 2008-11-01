@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2008-11-01_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -743,7 +743,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
     (iv) the Coroners Act 2006; or
     (v) the Health Act 1956; or
     (vi) the Health and Disability Services (Safety) Act 2001; or
-    (vii) the Human Tissue Act 1964; or
+    (vii) the Human Tissue Act 2008; or
     (viii) the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
     (ix) the Medicines Act 1981; or
     (x) the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
@@ -1091,7 +1091,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
     (iv) the Coroners Act 2006; or
     (v) the Health Act 1956; or
     (vi) the Health and Disability Services (Safety) Act 2001; or
-    (vii) the Human Tissue Act 1964; or
+    (vii) the Human Tissue Act 2008; or
     (viii) the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
     (ix) the Medicines Act 1981; or
     (x) the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
