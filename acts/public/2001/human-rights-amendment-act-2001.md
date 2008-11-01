@@ -1,5 +1,5 @@
 # Human Rights Amendment Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-11-01_
 
 ### 1 Title
 (1) This Act is the Human Rights Amendment Act 2001.
@@ -860,12 +860,10 @@ Section 109(2)(b) of the Electoral Act 1993 is amended by omitting from subparag
 **Amendments to Human Tissue Act 1964**
 
 ### 53 Removal of human tissue for therapeutic purposes, etc
-Section 3(2)(b) of the Human Tissue Act 1964 (1964 No 19) is amended by inserting, after the words surviving spouse, the words , surviving de facto partner of the same or different sex,.
+[Repealed]
 
 ### 54 Anatomical examinations
-Section 5(1) of the Human Tissue Act 1964 is amended—
-  (a) by inserting in paragraph (a), after the words surviving spouse, the words or surviving de facto partner (whether of the same or different sex); and
-  (b) by inserting in paragraph (b), after the words surviving spouse, the words or surviving de facto partner (whether of the same or different sex).
+[Repealed]
 
 **Amendment to Immigration Act 1987**
 
