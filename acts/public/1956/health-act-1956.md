@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2008-10-16_
+_Consolidation as at 2008-11-01_
 
 > An Act to consolidate and amend the law relating to public health
 
@@ -265,7 +265,7 @@ In this section and sections 22C to 22H of this Act, unless the context otherwis
   (b) By a representative of that individual.
 
 ### 22E Duty to provide information for purposes of blood collection
-The Minister may, at any time, by notice in writing, require a district health board to provide to an entity appointed under section 92H, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in section 22B.
+The Minister may, at any time, by notice in writing, require a district health board to provide to an entity appointed under section 63 of the Human Tissue Act 2008, in such manner as the Minister specifies in the notice, such information as is specified in the notice, being health information of the kind referred to in paragraph (d) or paragraph (e) of the definition of that term in section 22B.
 
 ### 22F Communication of information for diagnostic and other purposes
 (1) Every person who holds health information of any kind shall, at the request of the individual about whom the information is held, or a representative of that individual, or any other person that is providing, or is to provide, services to that individual, disclose that information to that individual or, as the case requires, to that representative or to that other person.
@@ -1942,92 +1942,34 @@ Every person who knowingly infects any other person with a venereal disease, or 
 ## Part 3A — Trading in human blood and controlled human substance
 
 ### 92A Interpretation
-In this Part, unless the context otherwise requires,—
-  - **Appointed entity** means an entity appointed under section 92H
-  - **Blood** means human blood; and—
-    (a) Includes the following:
-      (i) A substance derived from blood:
-      (ii) A human organ, or human bone marrow, or human tissue, including the placenta, of a kind that is suitable as a source from which to derive a constituent of blood that may be used therapeutically or in the preparation of a substance for therapeutic use:
-      (iii) A constituent of an organ, bone marrow, or tissue described in subparagraph (ii):
-      (iv) Human haematopoietic stem cells, or a constituent of human haematopoietic stem cells, that may be used therapeutically or in the preparation of a substance for therapeutic use; but
-    (b) Does not include the following:
-      (i) Any substance derived from blood, a human organ, human bone marrow, human tissue, or human haematopoietic stem cells that is intended for use in quality control or as a diagnostic product:
-      (ii) Any substance containing a fraction of blood, a human organ, human bone marrow, human tissue, or human haematopoietic stem cells that the Governor-General by Order in Council declares not to be blood for the purposes of this Part:
-  - **Controlled human substance** —
-    (a) Means—
-      (i) Human bone marrow (other than human bone marrow referred to in paragraph (a)(ii) of the definition of the term blood in this section) that may be used therapeutically or in the preparation of a substance for therapeutic use; or
-      (ii) A constituent of human bone marrow described in subparagraph (i); or
-      (iii) Any other substance of the human body that may be used therapeutically or in the preparation of a substance for therapeutic use and that the Governor-General by Order in Council declares to be included in this definition; but
-    (b) Does not include—
-      (i) A product derived from any controlled human substance that is intended for use in quality control or as a diagnostic product; or
-      (ii) A substance containing a fraction of any controlled human substance that the Governor-General by Order in Council declares not to be a controlled human substance for the purposes of this Part.
+[Repealed]
 
 ### 92B Trading in own blood or controlled human substance prohibited
-(1) No person may require or accept financial or other consideration for the blood or any controlled human substance of that person.
-(2) No person may provide financial or other consideration for the taking of blood or any controlled human substance from the body of a person for administration to another person.
-(3) Every person commits an offence and is liable to a fine not exceeding $1,000 who contravenes subsection (1).
-(4) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who contravenes subsection (2).
+[Repealed]
 
 ### 92C Collection of blood or controlled human substance
-(1) No person may take blood or any controlled human substance from the body of a person for the purpose of obtaining that blood or that substance for administration to another person.
-(2) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who contravenes subsection (1).
-(3) Subsection (1) does not apply to—
-  (a) An appointed entity that is authorised to take blood and controlled human substances from persons; or
-  (b) An employee or agent of an appointed entity who is authorised by the entity to take blood or controlled human substances on behalf of the entity, if the entity has the power to authorise employees or agents to do so.
-(4) For the purposes of subsection (3), an appointed entity is authorised to take blood and controlled human substances, and has the power to authorise employees and agents of the entity to do so, unless the notice by which the entity is appointed provides otherwise.
-(5) Every appointed entity described in subsection (3)(a) and every employee or agent described in subsection (3)(b) who takes blood or any controlled human substance must give due recognition to the fact that the blood or controlled human substance has been donated.
+[Repealed]
 
 ### 92D Charging for administered blood or controlled human substance
-(1) No person who administers blood or any controlled human substance to another person may require or accept financial or other consideration for that blood or that substance from the person to whom it is administered.
-(2) Every person commits an offence and is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $5,000 who contravenes subsection (1).
+[Repealed]
 
 ### 92E Exemptions
-(1) The Minister may, in his or her discretion and on such terms and conditions (if any) as the Minister thinks fit, by notice in writing, exempt a person or persons or class of persons from compliance with any or all of the provisions of sections 92B(1), 92B(2), and 92D(1), and may in the same manner vary or revoke any such exemption.
-(2) Where a notice is given under subsection (1), the Minister must as soon as practicable after giving the notice, publish in the Gazette and present to the House of Representatives a copy of the notice.
+[Repealed]
 
 ### 92F Unauthorised advertising prohibited
-(1) No person may distribute an advertisement relating to the purchase or sale in New Zealand of blood or a controlled human substance.
-(2) For the purposes of subsection (1), distribute means—
-  (a) To publish or otherwise disseminate, by newspaper, magazine, periodical, book, billboard, radio, television, cinematograph film, or any other means whatever; or
-  (b) To exhibit to public view in any premises or place; or
-  (c) To deposit in any area, yard, garden, or enclosure comprising part of or appurtenant to any premises.
-(3) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,500 who contravenes subsection (1).
+[Repealed]
 
 ### 92G Liability of employers, principals, and directors
-(1) An act done by a person as the employee (the employee) of another person (the employer) is for the purposes of an offence against this Part to be treated as done by the employer as well as by the employee, if—
-  (a) The employer approved of the act; or
-  (b) The employer knew that the act was to be done or was being done and failed to take all reasonable steps to prevent it.
-(2) An act done by a person as the agent (the agent) of another person (the principal) is for the purposes of an offence against this Part to be treated as done by the principal as well as by the agent, if—
-  (a) The principal approved of the act; or
-  (b) The principal knew that the act was to be done or was being done and failed to take all reasonable steps to prevent it.
-(3) Where a body corporate is convicted of an offence against this Part, a director of the body corporate is to be treated as having committed the same offence if—
-  (a) The director approved of the act that constituted the offence; or
-  (b) The director knew the offence was to be or was being committed and failed to take all reasonable steps to prevent it.
-(4) In subsection (3), the term director includes a person who is concerned in the management of a body corporate.
+[Repealed]
 
 ### 92H Appointed entities to collect and distribute blood and controlled human substances
-(1) The Minister may from time to time, by notice in writing, appoint 1 or more entities to be responsible for the performance of such functions in relation to blood and controlled human substances as are specified in the notice.
-(2) An appointment under subsection (1) may be subject to such terms and conditions as are specified in the notice appointing the appointee.
-(3) The Minister may from time to time, by notice in writing, revoke, vary, or add to—
-  (a) Any of the functions for which an appointee is responsible:
-  (b) Any of the terms or conditions of the appointment.
-(4) The Minister may, at any time, by notice in writing, revoke an appointment made under subsection (1).
-(5) A notice given under this section takes effect on the date specified for the purpose in the notice or, if no date is specified for that purpose, on the day after the date on which it is issued.
-(6) An appointed entity that performs, in accordance with a notice given under this section, any function in relation to blood or a controlled human substance, is entitled to do anything, or refrain from doing anything, that is necessary or desirable for the purpose of performing that function, unless a notice given under this section provides otherwise.
-(7) As soon as practicable after the Minister gives a notice under subsection (1) or subsection (3)(a) or subsection (4), the Minister must—
-  (a) Publish a copy of it in the Gazette; and
-  (b) Present a copy of it to the House of Representatives.
+[Repealed]
 
 ### 92I Exemption from Part 2 of Commerce Act 1986
-Nothing in Part 2 of the Commerce Act 1986 applies to—
-  (a) Any contract, arrangement, understanding, or covenant in relation to blood or controlled human substances that—
-    (i) At the time it is entered into is, or is of a class that is, approved for the purposes of this section by the Governor-General by Order in Council; or
-    (ii) Is entered into by a person who (at the time it is entered into) is, or is of a class that is, approved for the purposes of this section by the Governor-General by Order in Council; or
-  (b) Any act done to give effect to a provision of any contract, arrangement, understanding, or covenant to which paragraph (a) applies.
+[Repealed]
 
 ### 92J Protection of appointed entities
-(1) Section 129 applies to any appointed entity, and to any employee or agent of an appointed entity, who, in pursuance or intended pursuance of a provision in a notice given under section 92H, does any act, or fails or refuses to do any act, in relation to blood or a controlled human substance.
-(2) For the purpose of applying section 129 in accordance with subsection (1), a provision in a notice given under section 92H is to be regarded as a provision of this Act.
+[Repealed]
 
 ### 92K Exemption from Part 2 of Commerce Act 1986
 [Repealed]
@@ -3081,3 +3023,23 @@ Every person or agency who is entered on the Ministry's register of accredited d
   (a) subsection (2) applies in respect of the drinking-water supplier who made the election as if each reference to standards were a reference to the 2000 Standards:
   (b) the other provisions of this Part apply as if the standards in force were the 2000 Standards.
 (6) In this section, specified period means a period beginning with the commencement of this section and ending on 31 December 2014.
+
+### 1 Title
+This Act is the Human Tissue Act 2008.
+
+### 2 Commencement
+(1) Sections 1, 2, and 89 come into force on the day after the date on which this Act receives the Royal assent.
+(2) Sections 87 and 88, and the heading above section 87, come into force as provided by section 89.
+(3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+
+## Part 3 — Technical and miscellaneous provisions
+
+**Savings and transitional provisions**
+
+### 94 Exemptions under section 92E(1) of Health Act 1956
+(1) This section applies to notices given under section 92E(1) of the Health Act 1956 if those notices were in force immediately before the repeal of Part 3A of that Act.
+(2) On and after that repeal, those notices must be treated as if they were given under section 60 (exemptions), and may be revoked, varied, or added to, under that section accordingly.
+
+### 95 Entities appointed under Health Act 1956 to collect and distribute blood and controlled human substances
+(1) This section applies to appointments under section 92H of the Health Act 1956 if those appointments were in force immediately before the repeal of Part 3A of that Act.
+(2) On and after that repeal, those appointments must be treated as if they were made under section 63 (appointed entities to collect and distribute blood and controlled human substances), and may be revoked, varied, or added to, under that section accordingly.
