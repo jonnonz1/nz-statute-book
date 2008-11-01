@@ -1,5 +1,5 @@
 # Human Tissue Act 1964
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-11-01_
 
 > An Act to consolidate certain enactments of the General Assembly relating to post-mortem examinations, the practice of anatomy, and the removal of human tissue for therapeutic purposes and for purposes of medical education and research
 
@@ -109,3 +109,33 @@ The following enactments are hereby repealed:
   (a) The Medical Act 1908:
   (b) Section 53 of the Statutes Amendment Act 1946:
   (c) The Medical Amendment Act 1954.
+
+### 1 Title
+This Act is the Human Tissue Act 2008.
+
+### 2 Commencement
+(1) Sections 1, 2, and 89 come into force on the day after the date on which this Act receives the Royal assent.
+(2) Sections 87 and 88, and the heading above section 87, come into force as provided by section 89.
+(3) The rest of this Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+
+## Part 3 — Technical and miscellaneous provisions
+
+**Savings and transitional provisions**
+
+### 96 Schools of anatomy and inspectors of them
+(1) Orders authorising the establishment of schools of anatomy and in force on the repeal of the Human Tissue Act 1964 must after that repeal be treated as orders under section 77, and may be amended, revoked, or revoked and replaced under that section accordingly.
+(2) Orders authorising the establishment of schools of anatomy means the following orders under section 3 of the Anatomy Act 1875 or section 7 of the Human Tissue Act 1964:
+  (a) Order in Council Authorising the Establishment of a School of Anatomy in connection with the University of Otago, 15 June 1876 New Zealand Gazette No 34 page 407:
+  (b) Order in Council Authorising the Establishment of a School of Anatomy in connection with Auckland University College, 5 March 1888 New Zealand Gazette No 14 page 298:
+  (c) University of Otago School of Anatomy Order 1969 (SR 1969/278) (Wellington Hospital):
+  (d) University of Otago School of Anatomy Order 1988 (SR 1988/206) (Christchurch Hospital).
+(3) Every inspector of a school of anatomy who was in office immediately before the repeal of the Human Tissue Act 1964 continues in office after that repeal as if appointed by the Director-General—
+  (a) under section 80(1) and (2)(a), if the inspector is a member of the police; and
+  (b) under section 80(1) and (2)(b), in every other case.
+(4) Every direction by the Minister to an inspector of a school of anatomy under section 8(1) of the Human Tissue Act 1964 and in force on the repeal of that Act must after that repeal be treated as a direction by the Director-General under section 83, and may be amended, revoked, or revoked and replaced under that section accordingly.
+
+### 97 Existing holdings of human tissue
+(1) This section applies to human tissue that, immediately before the repeal of the Human Tissue Act 1964, had been collected, or was being used (existing holdings).
+(2) Collection, use, exportation, and importation of existing holdings must comply with all relevant requirements and quality, safety, and other standards prescribed or approved by regulations under section 74 or 75.
+(3) However, no other requirements in this Act apply to existing holdings, and the Human Tissue Act 1964 continues to apply to existing holdings as if that Act had not been repealed.
+(4) To avoid doubt requirements, in subsection (3), includes requirements that are, or are part of, offences or prohibitions.
