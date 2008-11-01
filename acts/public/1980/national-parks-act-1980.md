@@ -1,5 +1,5 @@
 # National Parks Act 1980
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-11-01_
 
 > An Act to consolidate and amend the law relating to national parks
 
@@ -159,6 +159,7 @@ This Act shall bind the Crown.
   (c) Declare that any foreshore described in the order shall be a national park or be added to any park:
   (d) Assign a name to any new national park or change the name of any existing national park.
 (2) The Minister shall not make any recommendation under subsection (1) of this section except on the recommendation of the Authority made after consultation with the appropriate Board (if any).
+(2A) Before making a recommendation under subsection (1)(d), the Minister must refer the proposed name to the New Zealand Geographic Board Ngā Pou Taunaha o Aotearoa under section 27(2) or 30 of the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, as the case may be.
 (3)
 (4) No land subject to the Tourist and Health Resorts Control Act 1908 or the Tourist Hotel Corporation Act 1974 shall be declared to be a park or to be added to any park, except on the joint recommendation of the Minister and the Minister of Tourism.
 (5)
