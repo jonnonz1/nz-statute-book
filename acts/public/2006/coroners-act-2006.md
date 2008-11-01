@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-11-01_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
