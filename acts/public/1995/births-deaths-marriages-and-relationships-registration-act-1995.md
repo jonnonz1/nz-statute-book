@@ -1,5 +1,5 @@
 # Births, Deaths, and Marriages Registration Act 1995
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-11-01_
 
 > An Act to provide for—aThe recording of information relating to births, citizenship by birth, names, adoptions, sexual assignment and reassignment, deaths, marriages, and civil unions; andbAccess to information recorded in respect of any such matter; andcThe provision and effect of certificates relating to information recorded in respect of any birth, death, marriage, or civil union
 
@@ -410,13 +410,13 @@ Subject to any enactment to the contrary, a person having charge of a body shall
   (b) Cause it to be disposed of; or
   (c) Transfer charge of it to another person for—
     (i) Disposal; or
-    (ii) Removal for anatomical examination under the Human Tissue Act 1964; or
+    (ii) Removal for anatomical examination under the Human Tissue Act 2008; or
     (iii) Removal from New Zealand for disposal outside New Zealand.
 
 ### 40 Transfer of charge of body
 (1) Except as provided in subsection (2) of this section, no person having charge of a body shall transfer charge of it to another person without first—
   (a) Giving the other person a doctor's certificate or coroner's order; and
-  (b) Getting from the other person a notice in the prescribed form, signed by the other person, taking responsibility for notifying a Registrar under section 42 of this Act of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the Human Tissue Act 1964)—
+  (b) Getting from the other person a notice in the prescribed form, signed by the other person, taking responsibility for notifying a Registrar under section 42 of this Act of the death of the person whose body it is, and (except where the body is being removed by the other person for anatomical examination under the Human Tissue Act 2008)—
     (i) Taking responsibility for disposing of the body; and
     (ii) Describing (with enough detail to enable it to be identified) the place where the other person intends to dispose of the body.
 (2) Subject to subsection (3) of this section,—without complying with subsection (1) of this section.
@@ -426,7 +426,7 @@ Subject to any enactment to the contrary, a person having charge of a body shall
     (ii) A doctor who has been directed by a coroner to perform a post-mortem examination of the body; or
     (iii) The occupier of a hospital,—
 (3) A person who, at the time the person transfers charge of a body to another person, has a doctor's certificate or coroner's order shall then give the other person the certificate or order.
-(4) No person shall take charge of a body for anatomical examination under the Human Tissue Act 1964, or removal from New Zealand for disposal outside New Zealand, without first obtaining a doctor's certificate or coroner's order.
+(4) No person shall take charge of a body for anatomical examination under the Human Tissue Act 2008, or removal from New Zealand for disposal outside New Zealand, without first obtaining a doctor's certificate or coroner's order.
 
 ### 41 Medical certificate or coroner's order to be obtained before body disposed of
 No person shall dispose of a body, or cause or permit a body to be disposed of, unless the person in charge of the disposal has obtained a doctor's certificate or coroner's order.
@@ -435,7 +435,7 @@ No person shall dispose of a body, or cause or permit a body to be disposed of, 
 (1) A person who disposes of a body (not being the body of a person whose death has already been notified under subsection (2) of this section) shall forthwith notify a Registrar of the death of the person concerned.
 (2) Before removing a body—the person proposing to remove it shall notify a Registrar of the death of the person concerned.
   (a) From New Zealand for disposal outside New Zealand; or
-  (b) For anatomical examination under the Human Tissue Act 1964,—
+  (b) For anatomical examination under the Human Tissue Act 2008,—
 
 ### 43 Notification of death where Court gives leave to swear to death
 Where, in any proceedings under the Administration Act 1969, the High Court gives leave to swear to the death of any person,—
@@ -520,11 +520,11 @@ A coroner who has established—shall notify a Registrar of the person's death.
 (1) A person who disposes of a body that has been disinterred (otherwise than by returning it to the place where it was previously interred) shall, within 5 working days of doing so, notify a Registrar of where and how it was disposed of.
 (2) A person who removes—a body that has been disinterred shall notify a Registrar of the removal.
   (a) From New Zealand for disposal outside New Zealand; or
-  (b) For anatomical examination under the Human Tissue Act 1964,—
+  (b) For anatomical examination under the Human Tissue Act 2008,—
 (3) Subject to section 82 of this Act, a Registrar who is notified under this section shall record as information relating to the death of the person whose body has been disposed of or removed—
   (a) Where the body has been disposed of; or
   (b) That the body has been removed from New Zealand for disposal outside New Zealand; or
-  (c) That the body has been removed for anatomical examination under the Human Tissue Act 1964.
+  (c) That the body has been removed for anatomical examination under the Human Tissue Act 2008.
 
 ### 52 Deposit with Registrar-General of death certificates issued outside New Zealand
 (1) Subject to this section, any person may, on payment of the prescribed fee and in the manner prescribed by regulations made under this Act, deposit with the Registrar-General a death certificate issued outside New Zealand in respect of the death outside New Zealand, whether before or after the commencement of this Act, of a New Zealand citizen or of a person ordinarily resident in New Zealand.
