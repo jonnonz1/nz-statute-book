@@ -1,5 +1,5 @@
 # New Zealand Geographic Board Act 1946
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-11-01_
 
 > An Act to make better provision for the naming of places in New Zealand, and to establish the New Zealand Geographic Board
 
