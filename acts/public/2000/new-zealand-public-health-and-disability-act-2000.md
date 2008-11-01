@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-11-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -61,16 +61,16 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **annual plan** means an annual plan of a DHB under section 39
   - **board** , in relation to a publicly-owned health and disability organisation, means the members of the board of the organisation
   - **board committee** , in relation to the board of a DHB, means the community and public health advisory committee, disability support advisory committee, or hospital advisory committee, and any other committee of the board appointed under clause 38(1) of Schedule 3
-  - **board member** , in relation to a DHB, means a member of the board of that organisation
+  - **board member** , in relation to a publicly-owned health and disability organisation, means a member of the board of that organisation
+  - **CHFA** means the Crown Health Financing Agency continued by section 57
   - **community and public health advisory committee** means a committee established under section 34
   - **conflict of interest** , in relation to a person and a DHB, includes—
     (a) the person's interest in a transaction (within the meaning of subsection (2)) of the DHB; and
     (b) the person's interest that would, if the person were a member of the board of the DHB or a member of a committee of that board or a delegate of that board, be an interest in a transaction (within the meaning of subsection (2)) of the DHB; and
     (c) to avoid any doubt, the employment or engagement of the person, or of the person's spouse or partner, as an employee or contractor of the DHB
   - **Crown** means Her Majesty the Queen in right of New Zealand
-  - **Crown entity subsidiary** has the meaning set out in section 8(2) of the Crown Entities Act 2004.
+  - **Crown entity subsidiary** has the meaning set out in section 8(2) of the Crown Entities Act 2004
   - **Crown funding agreement** has the meaning given to it by section 10
-  - **CHFA** means the Crown Health Financing Agency continued by section 57
   - **DHB** means an organisation established as a DHB by or under section 19
   - **Director-General** means the chief executive or acting chief executive under the State Sector Act 1988 of the Ministry of Health
   - **disability support advisory committee** means a committee established under section 35
@@ -79,12 +79,12 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
     (b) provided for purposes related or incidental to the care or support of people with disabilities or to the promotion of the inclusion and participation in society, and independence of such people
   - **district strategic plan** means a plan of a DHB determined under section 38 covering a period of at least 5, and not more than 10, years
   - **eligible people** means people who are eligible to receive services funded under this Act, as specified by the Minister in a direction issued under section 103 of the Crown Entities Act 2004
-  - **good employer** has the same meaning as in section 118 of the Crown Entities Act 2004.
+  - **good employer** has the same meaning as in section 118 of the Crown Entities Act 2004
   - **health practitioner** —
     (a) has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003; and
     (b) includes—
       (i) a former health practitioner within the meaning of that section; and
-      (ii) a person who is receiving training or gaining experience under the supervision of a health practitioner.
+      (ii) a person who is receiving training or gaining experience under the supervision of a health practitioner
   - **health professional body** has the same meaning as that given to the term authority by section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **health services** means personal health services and public health services
   - **hospital advisory committee** means a committee established under section 36
@@ -95,10 +95,10 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **monitor** , in relation to a Crown funding agreement and in relation to the functions specified in section 23(1)(i) and in section 25,—
     (a) means to analyse on the basis of information provided under any relevant agreement and any other relevant substantiated information; and
     (b) includes assessing the timeliness of provision of information required to be provided under any agreement
-  - **NZBS** means the New Zealand Blood Service established by section 54
   - **New Zealand disability strategy** means a strategy referred to in section 8(2)
   - **New Zealand health strategy** means a strategy referred to in section 8(1)
-  - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or a de facto partner
+  - **NZBS** means the New Zealand Blood Service established by section 54
+  - **partner** , in the phrase spouse or partner and in related contexts, means a civil union partner or de facto partner
   - **personal health** means the health of an individual
   - **personal health services** means goods, services, and facilities provided to an individual for the purpose of improving or protecting the health of that individual, whether or not they are also provided for another purpose; and includes goods, services, and facilities provided for related or incidental purposes
   - **Pharmac** means the Pharmaceutical Management Agency established by section 46
@@ -108,20 +108,16 @@ In order to recognise and respect the principles of the Treaty of Waitangi, and 
   - **public health** means the health of all of—
     (a) the people of New Zealand; or
     (b) a community or section of such people
-  - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBS, and CHFA
   - **public health services** means goods, services, and facilities provided for the purpose of improving, promoting, or protecting public health or preventing population-wide disease, disability, or injury; and includes—
     (a) regulatory functions relating to health or disability matters; and
     (b) health protection and health promotion services; and
     (c) goods, services, and facilities provided for related or incidental functions or purposes
   - **publicly available** , in relation to a document, means that the document is promptly provided on request by any person on payment of a charge, if any, that is reasonable
+  - **publicly-owned health and disability organisation** means a DHB, Pharmac, NZBS, and CHFA
   - **resident population** , in relation to a DHB, means the eligible people residing in the geographical area of the DHB (as specified in Schedule 1)
-  - **RHMU**
   - **service agreement** has the meaning given to it by section 25
   - **services** means health services and disability support services
-  - **sitting day**
-  - **spouse**
   - **statement of intent** means a statement of intent prepared in accordance with the Crown Entities Act 2004 and section 42 or section 67
-  - **subsidiary**
   - **transaction** , in relation to a DHB, means—
     (a) the exercise or performance of a function, duty, or power of the DHB; or
     (b) an arrangement, agreement, or contract to which the DHB is a party; or
@@ -270,7 +266,7 @@ This Act binds the Crown.
 (7) Every person who discloses information contrary to Schedule 5 commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
 (8) Any member of a registered occupational profession who commits an offence under subsection (6) or subsection (7) is liable to any disciplinary proceedings of that profession in respect of the offence, whether or not he or she is fined under that subsection.
 
-## Part 3 — District health boards
+## Part 3 — District Health Boards
 
 ### 19 Establishment of DHBs
 (1) This section establishes each of the organisations named in column 1 of Schedule 1 as a DHB in respect of the geographical area specified in that schedule for the organisation.
@@ -614,10 +610,10 @@ The Minister must, as soon as practicable after giving a notice under section 47
 ### 55 Functions of NZBS
 (1) The functions of NZBS are—
   (a) to manage the donation, collection, processing, and supply of blood, controlled human substances, and related or incidental matters, in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004; and
-  (b) if it is an appointed entity (as defined in section 92A of the Health Act 1956), to perform the functions for which it is for the time being responsible under section 92H of that Act; and
+  (b) if it is an appointed entity (as defined in section 55 of the Human Tissue Act 2008), to perform the functions for which it is for the time being responsible under section 63 of that Act; and
   (c) to undertake any other functions it is for the time being given by or under any enactment, or authorised to perform by the Minister by written notice to the board of NZBS after consultation with it, in accordance with its statement of intent (including the statement of forecast service performance) and (subject to section 65) any directions given under the Crown Entities Act 2004.
 (2) The Minister must, as soon as practicable after giving a notice under subsection (1), publish in the Gazette, and present to the House of Representatives, a copy of the notice.
-(3) In this section, blood and controlled human substance have the same meaning as in Part 3A of the Health Act 1956.
+(3) In this section, blood and controlled human substance have the same meaning as in section 55 of the Human Tissue Act 2008.
 
 ### 56 Membership of board
 (1) The board of NZBS consists of up to 7 members appointed under section 28 of the Crown Entities Act 2004.
@@ -654,7 +650,7 @@ In sections 61 to 69, organisation means each of the following organisations:
   (b) NZBS:
   (c) CHFA.
 
-### 61 Role of Board
+### 61 Role of board
 The board of an organisation has the role set out in section 25 of the Crown Entities Act 2004.
 
 ### 62 Duties of board members
@@ -674,13 +670,13 @@ The board of an organisation has the role set out in section 25 of the Crown Ent
   (b) provide any pharmaceutical or pharmaceutical subsidy or other benefit to a named individual.
 (4) No direction under section 103 of the Crown Entities Act 2004 may be issued to NZBS unless it concerns—
   (a)
-  (b) protecting the gift status, donation, collection, processing, and supply of blood or controlled human substances (within the meaning of Part 3A of the Health Act 1956); or
+  (b) protecting the gift status, donation, collection, processing, and supply of blood or controlled human substances (as defined in section 55 of the Human Tissue Act 2008); or
   (c) withdrawal of contaminated blood or contaminated controlled human substances from supply.
 (4A) Despite anything in the Crown Entities Act 2004, subsection (4) does not limit—
   (a) the ability of the Minister to direct NZBS under section 147 of that Act; or
   (b) section 107 of that Act.
 (5)
-(6) Directions given under section 20 of the Health Reforms (Transitional Provisions) Act 1993 to RHMU are deemed to be directions given under section 103 of the Crown Entities Act 2004.
+(6) Directions given under section 20 of the Health Sector (Transfers) Act 1993 to RHMU are deemed to be directions given under section 103 of the Crown Entities Act 2004.
 
 ### 66 Pharmac, NZBS, and CHFA to operate in financially responsible manner
 (1) Every organisation must operate in a financially responsible manner and for this purpose must—
@@ -790,7 +786,7 @@ The instructions referred to in section 75(3)(b) are—
   (f) that the inquiry board receive any evidence written or spoken in Maori (but the fact that this instruction has, or has not, been given to the inquiry board is not to affect the application (if any) of the Maori Language Act 1987 in proceedings before the inquiry board):
   (g) that the questioning of witnesses (other than by the inquiry board or its support personnel) be available only if—
     (i) a person's interests may be adversely affected by evidence or a statement of a witness or, and in exceptional circumstances only, a refusal to allow questioning would otherwise contravene natural justice; and
-    (ii) No other procedure would protect adequately the person's interests or avoid the other contravention of natural justice:
+    (ii) no other procedure would protect adequately the person's interests or avoid the other contravention of natural justice:
   (h) that the inquiry board hold public hearings in places specified by the Minister, subject to the inquiry board's powers under section 79 to hold hearings in private and prohibit publication or disclosure of proceedings:
   (i) that witnesses who give information in a hearing be given a transcript of the hearing relating to the information and a reasonable chance to clarify the information or to provide any relevant further information:
   (j) that the inquiry board have the powers under section 82 to investigate and the power under section 83 to summon witnesses.
@@ -919,7 +915,7 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
 ### 92 Regulations
 (1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) imposing restrictions and requirements relating to reinsurance, service agreements, and notices under section 88:
-  (b) specifying the circumstances in which a person may lend money to a DHB:.
+  (b) specifying the circumstances in which a person may lend money to a DHB:
   (c) specifying any class of shares or interests that, and any conditions on which, DHBs may—
     (i) hold in a body corporate or in a partnership, joint venture, or other association of persons; or
     (ii) settle, or be or appoint a trustee of, a trust:
@@ -930,7 +926,7 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
   (h)
   (i) prescribing standard provisions that are to be regarded as being included in all Crown funding agreements between the Crown and DHBs:
   (j) providing for any other matters contemplated by this Act or necessary for its administration or necessary for giving it full effect.
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing rules by which disputes or differences between any one or more publicly-owned health and disability organisations or providers of services or other persons may be mediated or arbitrated with the agreement of the persons concerned.
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing rules by which disputes or differences between any 1 or more publicly-owned health and disability organisations or providers of services or other persons may be mediated or arbitrated with the agreement of the persons concerned.
 (3) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing for the issue of entitlement cards (including cards that may record information of any description that is capable of being read or processed by a computer, but not including cards that are themselves capable of processing information) to various classes of persons or the continuation of use of such cards issued under the Health Entitlement Cards Regulations 1993:
   (b) prescribing the classes of persons eligible to be issued with the cards:
@@ -948,7 +944,7 @@ Neither the Crown nor any publicly-owned health and disability organisation may 
 ### 93 Interpretation
 In this Part, unless the context otherwise requires,—
   - **assets** has the same meaning as in section 2(1) of the Health Sector (Transfers) Act 1993
-  - **dissolved entity** means any of the following
+  - **dissolved entity** means any of the following:
     (a) the Health Funding Authority:
     (b) any hospital and health service:
     (c) New Zealand Blood Service Limited:
@@ -1061,19 +1057,13 @@ In section 105, final report, in relation to a dissolved entity, means—
 **Amendments to other Acts**
 
 ### 107 Amendments to Commerce Act 1986
-(1) Section 2(7) of the Commerce Act 1986 is amended by inserting, after paragraph (b), the following paragraph:
-  (ba) both of them are entities referred to by any of the paragraphs (other than paragraph (e)) of the definition of transferor in section 2(1) of the Health Sector (Transfers) Act 1993; or.
-(2) Section 2(7A) of the Commerce Act 1986 is amended by omitting the expression subsection (7), and substituting the expression subsection (7)(a) and (b).
+Amendment(s) incorporated in the Act(s).
 
 ### 108 Amendments to State Sector Act 1988
-Section 2 of the State Sector Act 1988 is amended—
-  (a) by repealing the definition of Health service:
-  (b) by omitting from paragraph (b) of the definition of State Services the words and the Health service.
+Amendment(s) incorporated in the Act(s).
 
 ### 109 Amendment to Mental Health Commission Act 1998
-Section 13 of the Mental Health Commission Act 1998 is amended by repealing subsections (1) and (2), and substituting the following subsections:
-  (1) This Act expires at 5 pm on 31 August 2004.
-  (2) The Governor-General may by Order in Council, on the recommendation of the Minister, specify a later date in substitution for the date specified in subsection (1), but such substituted date may not be later than 31 August 2007.
+Amendment(s) incorporated in the Act(s).
 
 **Consequential repeals, revocations, and amendments**
 
@@ -1101,7 +1091,7 @@ Section 13 of the Mental Health Commission Act 1998 is amended by repealing subs
 
 ### 113 Interim authority of Crown to incur liabilities
 (1) Liabilities of up to a total of $1,200,000,000 may, during the 2000/01 year, be incurred in advance of appropriation in relation to Vote Health to provide the capital injections required to establish the District Health Boards.
-(2) All liabilities incurred under this section must be charged in the manner to be specified in an Appropriation Act for the 2000/01 year and, until the coming into force of the Appropriation Act in which that manner is specified, may be incurred during the 2000/01 year as if they had been incurred in accordance with 1 of the separate appropriations specified in section 4(3) of the Public Finance Act 1989.
+(2) All liabilities incurred under this section must be charged in the manner to be specified in an Appropriation Act for the 2000/01 year and, until the coming into force of the Appropriation Act in which that manner is specified, may be incurred during the 2000/01 year as if they had been incurred in accordance with one of the separate appropriations specified in section 4(3) of the Public Finance Act 1989.
 
 **Transitional provisions relating to New Zealand health strategy and New Zealand disability strategy**
 
@@ -1135,26 +1125,9 @@ Section 13 of the Mental Health Commission Act 1998 is amended by repealing subs
 | Otago DHB | Waitaki District, Queenstown-Lakes District (Wanaka Ward only), Central Otago District, Dunedin City, Clutha District |
 | Southland DHB | Southland District, Gore District, Invercargill City, Queenstown-Lakes District (Arrowtown and Queenstown Wakatipu Wards only) |
 
-## Schedule 2 — Membership of boards: election and appointment of members, and effect of boundary changes on membership
+## Schedule 2 — Membership of boards: Election and appointment of members, and effect of boundary changes on membership
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-|  | Interpretation |  | Conduct of election |
-| 1 | Interpretation | 12 | Postal voting |
-|  | Purpose of this schedule |  | Cost of elections |
-| 2 | Purpose | 13 | Cost to be borne by DHB |
-|  | Electors and candidates |  | When members come into office |
-| 3 | Residential qualification for electors | 14 | When elected members come into office |
-| 4 | Qualification for candidates | 15 | When appointed members come into office |
-| 5 | Candidates not to stand for more than 1 district |  | Appointment to boards of newly created DHBs |
-| 6 | Candidate to declare conflicts of interest | 16 | Appointment of new DHB |
-| 7 | Employees of DHBs may stand for elections |  | Persons who may not be members of boards |
-|  | Application of Local Elections and Polls Act 1976 | 17 | Certain persons disqualified from membership |
-| 8 | Elections governed by Local Elections and Polls Act 1976 |  | Effect of boundary changes |
-| 9 | Timing of elections | 18 | Reorganisation of districts |
-| 10 | No by-elections | 19 | Other alterations of districts |
-|  | Rolls for election | 20 | Inquiries by Local Government Commission |
-| 11 | Rolls for election |  |  |
+**Interpretation**
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
@@ -1167,12 +1140,16 @@ In this schedule, unless the context otherwise requires,—
   - **territorial authority** has the same meaning as in section 5(1) of the Local Government Act 2002; but does not include the Minister of the Crown responsible for the administration of that Act
   - **triennial general election** means a triennial general election held under the Local Electoral Act 2001.
 
+**Purpose of this schedule**
+
 ### 2 Purpose
 This schedule has the following purposes:
   (a) to state the qualifications of electors and candidates at DHB elections:
   (b) to apply, with certain modifications, the legislation governing the election of local authorities to DHB elections:
   (c) to link DHB elections to the triennial local authority elections so as to maximise voter participation at DHB elections through effective co-operation between DHBs and territorial authorities:
   (d) to provide for mechanisms relating to the membership and constitution of the boards of DHBs.
+
+**Electors and candidates**
 
 ### 3 Residential qualification for electors
 A person who is lawfully registered as a parliamentary elector under the Electoral Act 1993 in respect of an address that is within the constituency of a DHB is qualified to be an elector of that constituency at an election of the DHB.
@@ -1187,14 +1164,16 @@ A person may be a candidate at an election of a DHB if the person—
 (2) If a person is nominated in contravention of subclause (1), every nomination is void, if made with the person's consent.
 
 ### 6 Candidate to declare conflicts of interest
-When a candidate gives the responsible electoral Officer notice of the candidate's consent to being nominated as a candidate, the candidate must also give the electoral Officer a statement completed by the candidate in good faith that—
+When a candidate gives the responsible electoral officer notice of the candidate's consent to being nominated as a candidate, the candidate must also give the electoral officer a statement completed by the candidate in good faith that—
   (a) discloses any conflicts of interest that the candidate has with the DHB as at the date of the candidate's notice of consent, or states that the candidate has no such conflicts of interest as at that date; and
   (b) discloses any such conflicts of interest that the candidate believes are likely to arise in future, or states that the candidate does not believe that any such conflicts of interest are likely to arise in future.
 
 ### 7 Employees of DHBs may stand for elections
 A person is not prevented from being elected as a member of a DHB simply because the person is an employee of the DHB.
 
-### 8 Elections governed by Local Electoral Act 2001
+**Application of Local Electoral Act 2001**
+
+### 8 Elections governed by Local Electoral Act 2001 and regulations made under that Act
 (1) The provisions of the Local Electoral Act 2001 and any regulations made under that Act apply, with all necessary modifications, to every election of a DHB.
 (2) Subclause (1) is subject to the provisions of this Act and to any regulations made under this Act.
 
@@ -1205,16 +1184,20 @@ A person is not prevented from being elected as a member of a DHB simply because
 ### 9A Elections in 2004 and subsequently to be conducted using Single Transferable Voting
 The elections of DHBs to be held at the triennial general election in 2004 and at every subsequent triennial general election must be conducted by the Single Transferable Voting electoral system (STV) using the New Zealand method of counting single transferable votes.
 
-### 9B
+### 9B Related amendments to New Zealand Public Health and Disability Act 2000
 The person appointed by a District Health Board under section 12 of the Local Electoral Act 2001 must be a person who is also the electoral officer of a territorial authority in whose district the District Health Board is wholly or partly situated.
 
 ### 10 No by-elections
 No by-election or poll may be held under the Local Electoral Act 2001 for the purpose of electing a member to a board.
 
+**Rolls for election**
+
 ### 11 Rolls for election
 (1) If the district of a DHB is situated wholly within the district of any territorial authority, the part of the roll containing the details of the residential electors on the roll for that territorial authority's district whose addresses are within the DHB's district is the roll of electors for the election of the DHB.
 (2) In any other case, the relevant parts of the rolls containing the details of the residential electors of the districts of the territorial authorities that are situated wholly or partly within the district of a DHB whose addresses are within the district of the DHB are the rolls of electors for the election of the DHB.
 (3) The electoral officer of every territorial authority whose district is situated wholly or partly within the district of a DHB must indicate on the roll of electors for the district of that territorial authority, by appropriate words, abbreviations, or marks, the names of the persons entitled to vote at the election of the DHB; and if the district of the DHB has, by an Order in Council under section 19, been divided into constituencies, that officer must also indicate the constituency in respect of which those persons may vote at that election.
+
+**Conduct of election**
 
 ### 12 Postal voting
 (1)
@@ -1222,8 +1205,12 @@ No by-election or poll may be held under the Local Electoral Act 2001 for the pu
 (3) Every electoral officer must include in the papers that are sent to electors a copy of the statement relating to conflicts of interest provided to the electoral officer by each candidate under clause 6.
 (4) This clause is subject to any regulations made under this Act.
 
+**Cost of elections**
+
 ### 13 Cost to be borne by DHB
 The costs incurred by every territorial authority in conducting an election of a DHB must be borne and paid for by the DHB.
+
+**When members come into office**
 
 ### 14 When elected members come into office
 Despite anything in section 115 of the Local Electoral Act 2001, every person who is elected as a member of a board at an election of a DHB comes into office on the 58th day after polling day.
@@ -1231,15 +1218,19 @@ Despite anything in section 115 of the Local Electoral Act 2001, every person wh
 ### 15 When appointed members come into office
 Every appointed member comes into office on the date specified for that purpose in the notice appointing the member or, if no date is specified in the notice, from the date on which the notice is published in the Gazette.
 
+**Appointment to boards of newly created DHBs**
+
 ### 16 Appointment of new DHB
 (1) If an Order in Council made under section 19(2) creates a new DHB by adding it to Schedule 1, the Minister may appoint persons to hold positions on the board of that DHB that would otherwise be held by elected members.
 (2) Section 29(2) applies with any necessary modifications to an appointment made under subclause (1).
 (3) Persons appointed under subclause (1) hold office until the 58th day after polling day for the next election of the DHB (subject to clauses 7 and 8 of Schedule 3).
 (4) To avoid any doubt, for the purposes of subclause (1), the renaming of a DHB is not the creation of a new DHB.
 
+**Persons who may not be members of boards**
+
 ### 17 Certain persons disqualified from membership
 (1) None of the following persons may be elected or appointed as a member of a board, or appointed as a member of a board committee, of a DHB:
-  (a) a person described in section 30(2)(a) to (f) of the Crown Entities Act 2004:.
+  (a) a person described in section 30(2)(a) to (f) of the Crown Entities Act 2004:
   (b)
   (c)
   (d)
@@ -1247,6 +1238,8 @@ Every appointed member comes into office on the date specified for that purpose 
   (f) a person who has failed to declare a material conflict of interest before accepting nomination as candidate for an election of a DHB held in conjunction with the immediately preceding triennial general election.
 (2) In addition to the grounds specified in subclause (1), a person may not be elected as a member of a board if the person is incapable of being elected as a member of a local authority because of section 25 of the Local Electoral Act 2001.
 (3) However, subclause (1)(a) does not disqualify a person described in section 30(2)(f) of that Act who is elected (rather than appointed) to office as a member under any other Act.
+
+**Effect of boundary changes**
 
 ### 18 Reorganisation of districts
 (1) In this clause, Order in Council is a reference to an Order in Council made under section 19(2).
@@ -1267,55 +1260,19 @@ If at any time the Minister is of the opinion that for the purposes of this Act 
 
 ## Schedule 3 — Provisions applying to DHBs and their boards
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-|  | Interpretation | 26 | Further provisions relating to quorum |
-| 1 | Interpretation | 27 | Presiding member |
-|  | Members | 28 | Dealing with items not on agenda for meeting |
-| 2 | Appointed members | 29 | Voting |
-| 3 | Elected members | 30 | Supplementary procedure |
-| 4 | Terms or conditions of office, and remuneration (Repealed) |  | Admission of public |
-| 5 | Training relating to members' obligations and duties | 31 | Admission of public |
-| 6 | Resignation (Repealed) | 32 | Right of board to exclude public |
-| 7 | Vacation of office | 33 | Resolution excluding public |
-| 8 | Removal from office | 34 | Provisions applying when meeting open to public |
-| 9 | Reasons for removal of elected members | 35 | Maintenance of order |
-|  | Chairperson and deputy chairperson |  | Disclosure of members' interests |
-| 10 | Chairperson and deputy chairperson | 36 | Disclosure of interests |
-| 11 | Resignation | 37 | Minister may waive or modify application of clause 36(2) |
-| 12 | Vacation of office |  | Committees |
-| 13 | Removal from office | 38 | Committees |
-|  |  |  | Delegations |
-|  | Teleconferences | 39 | Delegations |
-| 14 | Teleconferences | 40 | Effect of delegation |
-| 15 | Further provisions relating to teleconferences (Repealed) |  | Seal (Repealed) |
-|  | Notice of meetings | 41 | Seal (Repealed) |
-| 16 | Meetings of boards to be publicly notified |  | Contracts and other enforceable obligations (Repealed) |
-| 17 | Meetings not publicly notified in accordance with clause 16 | 42 | Contracts and other enforceable obligations (Repealed) |
-| 18 | Members to be notified of meetings |  | Dealings with land |
-|  | Information relating to meetings | 43 | Dealings with land |
-| 19 | Availability of agendas and reports |  | Employees of DHBs |
-| 20 | Availability of agendas and reports in special circumstances | 44 | Employees of DHBs |
-| 21 | Public may inspect or request copies of minutes of meeting |  | Borrowing and investment |
-| 22 | Public notification of resolution at emergency meeting | 45 | Borrowing |
-|  |  | 45A | Restrictions on giving of guarantees and indemnities and the use of derivatives |
-| 23 | Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting | 46 | Investment |
-| 24 | Oral statements at meetings privileged |  | Tax status |
-|  | Procedure at meetings | 47 | Tax status (Repealed) |
-| 25 | Quorum |  | Address for service (Repealed) |
-|  |  | 48 | Address for service (Repealed) |
-|  |  |  | Public Records Act 2005 to apply |
-|  |  | 49 | Public Records Act 2005 to apply |
+**Interpretation**
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
   - **district** , in relation to a DHB, means the geographical area opposite to the DHB in column 2 of Schedule 1
   - **meeting** , in relation to a board, means any annual, biennial, triennial, ordinary, special, or emergency meeting of the board at which resolutions or decisions of the board are made
   - **minutes** , in relation to a meeting of a board, means any record of the meeting
-  - **publicly notify** , in relation to a board of a DHB, means to give the resident population of the DHB notice by advertisements in 1 or more newspapers circulating in the district of the DHB, or by advertisements of that kind and any 1 or more of the following means
+  - **publicly notify** , in relation to a board of a DHB, means to give the resident population of the DHB notice by advertisements in 1 or more newspapers circulating in the district of the DHB, or by advertisements of that kind and any 1 or more of the following means:
     (a) printed placards affixed to public places in that district:
     (b) radio or television broadcasts:
     (c) notices available on the Internet, or given by any other electronic means.
+
+**Members**
 
 ### 2 Appointed members
 (1) Appointed members of the board of a DHB—
@@ -1371,7 +1328,9 @@ The reasons referred to in clause 8(1)(b) are—
     (i) has neglected his or her duties as a member of the board; or
     (ii) has failed to perform his or her duties under this Act:
   (d) that the member has, without permission from the board or Minister and without any reasonable excuse, been absent from 4 consecutive meetings of the board:
-  (e) that the member has breached any of the obligations and duties of a board member and section 58(2) or section 59(2) of the Crown Entities Act 2004 applies..
+  (e) that the member has breached any of the obligations and duties of a board member and section 58(2) or section 59(2) of the Crown Entities Act 2004 applies.
+
+**Chairperson and deputy chairperson**
 
 ### 10 Chairperson and deputy chairperson
 (1) The Minister must, by notice in the Gazette, appoint 1 member from the elected or appointed members of the board as chairperson of the board, and another as deputy chairperson of the board.
@@ -1394,7 +1353,9 @@ The reasons referred to in clause 8(1)(b) are—
 ### 13 Removal from office
 (1) A chairperson or deputy chairperson may be removed from that office by the Minister by notice in the Gazette stating the date on which the removal takes effect, but only if the Minister has first consulted the chairperson or deputy chairperson, and board, about the removal.
 (2) Subclause (1) overrides any deed or agreement.
-(3) A chairperson or deputy chairperson removed from that office continues to be a member of the board unless also removed from that office, under section 36 of the Crown Entities Act 2004 or clause 8(1), as the case may be..
+(3) A chairperson or deputy chairperson removed from that office continues to be a member of the board unless also removed from that office, under section 36 of the Crown Entities Act 2004 or clause 8(1), as the case may be.
+
+**Teleconferences**
 
 ### 14 Teleconferences
 (1) A meeting of a board may be held—
@@ -1406,6 +1367,8 @@ The reasons referred to in clause 8(1)(b) are—
 
 ### 15 Further provisions relating to teleconferences
 [Repealed]
+
+**Notice of meetings**
 
 ### 16 Meetings of boards to be publicly notified
 (1) Each board must, not more than 14 days and not less than 5 days before the end of each month, publicly notify a list of all meetings of that board scheduled to be held in the following month, together with the dates on which, and the times and places at which, the meetings are to be held.
@@ -1421,8 +1384,10 @@ The reasons referred to in clause 8(1)(b) are—
 
 ### 18 Members to be notified of meetings
 (1) The chairperson must ensure that each member of a board is given notice of a meeting of the board as early as practicable before the meeting is to be held.
-(2) The notice must be written, and may be given by delivery or by electronic transmission (for example, by fax or e-mail).
+(2) The notice must be written, and may be given by delivery or by electronic transmission (for example, by fax or email).
 (3) For the purposes of subclause (1), it is enough if the chairperson made all reasonable efforts to ensure each member was given the notice by the time required under that subclause.
+
+**Information relating to meetings**
 
 ### 19 Availability of agendas and reports
 (1) Any member of the public may, without payment of any fee, inspect, during normal office hours, within a period of at least 2 working days before every meeting of a board, all agendas and associated reports circulated to members of the board and relating to the meeting.
@@ -1467,6 +1432,8 @@ If a resolution is passed at an emergency meeting of a board, the board must pub
 (2) This clause does not apply if, in any proceedings for defamation in respect of the statement, the plaintiff proves that, in making the statement, the defendant was predominantly motivated by ill will towards the plaintiff, or otherwise took improper advantage of the occasion of publication.
 (3) The privilege conferred by this clause is in addition to and not in substitution for or derogation of any other privilege, whether absolute or qualified, that applies, by virtue of any other enactment or rule of law, to meetings of any board.
 
+**Procedure at meetings**
+
 ### 25 Quorum
 (1) No authority, power, or discretion of a board can be exercised, and no business of a board can be transacted, at any meeting of the board, unless the quorum of members of the board is present at the meeting.
 (2) The quorum of members of a board is,—
@@ -1497,7 +1464,7 @@ For the purposes of subclauses (2) and (3) of clause 25,—
   (a) the item may be discussed at the meeting if—
     (i) the item is a minor matter relating to the general business of the board; and
     (ii) the presiding member explains at the beginning of the meeting, at a time when it is open to the public, that the item will be discussed at the meeting; but
-  (b) No resolution, decision, or recommendation may be made in respect of the item except to refer the item to a later meeting of the board for further discussion.
+  (b) no resolution, decision, or recommendation may be made in respect of the item except to refer the item to a later meeting of the board for further discussion.
 
 ### 29 Voting
 (1) All questions arising at any meeting of a board must be decided by a majority of the votes cast by the members present.
@@ -1505,6 +1472,8 @@ For the purposes of subclauses (2) and (3) of clause 25,—
 
 ### 30 Supplementary procedure
 A board may regulate its procedure, at its meetings and otherwise, in any manner not inconsistent with this Act it thinks fit.
+
+**Admission of public**
 
 ### 31 Admission of public
 Except as provided in clauses 32 to 35, every meeting of a board must be open to the public.
@@ -1542,9 +1511,11 @@ The following provisions apply when all or any part of a meeting of a board is r
 
 ### 35 Maintenance of order
 (1) At any meeting of any board the presiding member of the board may require a member of the public attending the meeting to leave it if the presiding member believes on reasonable grounds that, if the member of the public is permitted to remain, the behaviour of the member of the public is likely to prejudice, or to continue to prejudice, the orderly conduct of the meeting.
-(2) At the request of the presiding member, a member of the police, or officer or employee of the DHB concerned may remove or, as the case requires, exclude a member of the public from a meeting of a board if the member of the public has been required under this clause to leave the meeting but—
+(2) At the request of the presiding member, a constable, or officer or employee of the DHB concerned may remove or, as the case requires, exclude a member of the public from a meeting of a board if the member of the public has been required under this clause to leave the meeting but—
   (a) refuses or fails to leave it; or
   (b) having left it, attempts to re-enter it without the permission of the presiding member.
+
+**Disclosure of members' interests**
 
 ### 36 Disclosure of interests
 (1) A member of a board of a DHB who is interested in a transaction of the DHB must, as soon as practicable after the relevant facts have come to the member's knowledge, disclose the nature of the interest to the board.
@@ -1569,6 +1540,8 @@ The following provisions apply when all or any part of a meeting of a board is r
 (2) The Minister must effect any waiver or modification under subclause (1) by written notice to the board, and may make the waiver or modification subject to any conditions the Minister thinks fit.
 (3) The Minister must present to the House of Representatives a copy of any such notice within 12 sitting days after the date on which the Minister issues the notice.
 
+**Committees**
+
 ### 38 Committees
 (1) A board of a DHB may—
   (a) establish 1 or more committees of the board for a particular purpose or purposes:
@@ -1584,6 +1557,8 @@ The following provisions apply when all or any part of a meeting of a board is r
   (b) discloses any such conflicts of interest that the person believes are likely to arise in future, or states that the person does not believe that any such conflicts are likely to arise in future.
 (7) Nothing in this clause applies in respect of the community and public health advisory committee, or disability support advisory committee, or hospital advisory committee, of the board of any DHB.
 (8) Clauses 38 and 39 of Schedule 4 apply to every committee established under this clause.
+
+**Delegations**
 
 ### 39 Delegations
 (1) Every board must,—
@@ -1616,11 +1591,17 @@ The following provisions apply when all or any part of a meeting of a board is r
 (4) Nothing in this clause requires any delegate under clause 39(5) to hold a public meeting.
 (5) Every delegate who purports to perform a function or duty, or exercise a power, under a delegation under clause 39 is presumed to do so in accordance with that delegation, unless the contrary is proved.
 
+**Seal**
+
 ### 41 Seal
 [Repealed]
 
+**Contracts and other enforceable obligations**
+
 ### 42 Contracts and other enforceable obligations
 [Repealed]
+
+**Dealings with land**
 
 ### 43 Dealings with land
 (1) No DHB may sell, exchange, mortgage, or charge land without the prior written approval of the Minister.
@@ -1636,6 +1617,8 @@ The following provisions apply when all or any part of a meeting of a board is r
 (8) In this clause, DHB includes a Crown entity subsidiary of a DHB.
 (9) To avoid any doubt, the matters to which the Minister may have regard in giving an approval under subclause (2) in relation to any land include the question of the application to the land of clause 3 of Schedule 1 of the Health Sector (Transfers) Act 1993.
 
+**Employees of DHBs**
+
 ### 44 Employees of DHBs
 (1) The terms and conditions of employment of a chief executive of a DHB appointed by its board are to be determined by agreement between the board and the chief executive, except that the board must not finalise those terms and conditions, or agree to any amendments to any or all of those terms and conditions once they have been finalised, without first obtaining the consent of the State Services Commissioner.
 (2) The individual for the time being acting in the position of chief executive of a DHB may enter into a collective agreement on behalf of the DHB with any or all employees of the DHB, except that that individual must not finalise any such collective agreement without first consulting the Director-General on the terms and conditions of any such collective agreement.
@@ -1645,6 +1628,8 @@ The following provisions apply when all or any part of a meeting of a board is r
 (4) In respect of any DHB, matters relating to decisions on individual employees (for example, relating to the appointment, promotion, demotion, transfer, personal grievances, disciplining, or cessation of employment, of an employee) are the independent responsibility of the individual for the time being acting as chief executive of that DHB, without any interference from the board of the DHB or from committees of the board (or from members of the board or of committees of the board).
 (5) This clause applies despite sections 25 and 117 of the Crown Entities Act 2004.
 (6) Despite section 116(2) of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to a DHB.
+
+**Borrowing and investment**
 
 ### 45 Borrowing
 (1) No person may lend money to a DHB, except in accordance with regulations made under this Act or with the consent of the Minister of Finance.
@@ -1658,46 +1643,24 @@ The following provisions apply when all or any part of a meeting of a board is r
 ### 46 Investment
 Sections 160 and 161 of the Crown Entities Act 2004 (which relate to acquisition of securities) apply to a DHB subject to section 28.
 
+**Tax status**
+
 ### 47 Tax status
 [Repealed]
 
+**Address for service**
+
 ### 48 Address for service
 [Repealed]
+
+**Public Records Act 2005 to apply**
 
 ### 49 Public Records Act 2005 to apply
 The Public Records Act 2005 applies to information held by DHBs that is of a kind specified by regulations made under this Act.
 
 ## Schedule 4 — Provisions applying to community and public health advisory committees, disability support advisory committees, and hospital advisory committees
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-| Interpretation |  | Notice of meetings |  |
-| 1 | Interpretation | 18 | Meetings of committees to be publicly notified |
-| Functions of community and public health advisory committees |  | 19 | Meetings not publicly notified in accordance with clause 18 |
-| 2 | Functions of community and public health advisory committees | 20 | Members to be notified of meetings |
-| Functions of disability support advisory committees |  | Information relating to meetings |  |
-| 3 | Functions of disability support advisory committees | 21 | Availability of agendas and reports |
-| Functions of hospital advisory committees |  | 22 | Availability of agendas and reports in special circumstances |
-| 4 | Functions of hospital advisory committees | 23 | Public may inspect or request copies of minutes of meeting |
-| Other functions |  | 24 | Public notification of resolution at emergency meeting |
-| 5 | Committees may be given other functions by Order in Council | 25 | Defamatory matter in copy of agenda or additional particulars supplied to public or in minutes of meeting |
-| Members |  | 26 | Oral statements at meetings privileged |
-| 6 | Members | Procedure at meetings |  |
-| 7 | Terms or conditions of office, and remuneration | 27 | Quorum |
-| 8 | Resignation | 28 | Further provisions relating to quorum |
-| 9 | Vacation of office | 29 | Presiding member |
-| 10 | Removal from office | 30 | Dealing with items not on agenda for meeting |
-| Chairperson and deputy chairperson |  | 31 | Voting |
-| 11 | Chairperson and deputy chairperson | 32 | Supplementary procedure |
-| 12 | Resignation | Admission of public |  |
-| 13 | Vacation of office | 33 | Admission of public |
-| 14 | Removal from office | 34 | Right of committee to exclude public |
-| Board to notify Minister of appointments, etc |  | 35 | Resolution excluding public |
-| 15 | Board to notify Minister of appointments, etc | 36 | Provisions applying when meeting open to public |
-| Teleconferences |  | 37 | Maintenance of order |
-| 16 | Teleconferences | Disclosure of members' interests |  |
-| 17 | Further provisions relating to teleconferences (Repealed) | 38 | Disclosure of interests |
-|  |  | 39 | Board may waive or modify application of clause 38(2) |
+**Interpretation**
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
@@ -1706,10 +1669,12 @@ In this schedule, unless the context otherwise requires,—
   - **district** , in relation to a committee of the board of a DHB, means the geographical area opposite to the DHB in column 2 of Schedule 1
   - **meeting** , in relation to a committee, means any annual, biennial, triennial, ordinary, special, or emergency meeting of the committee at which resolutions or decisions of the committee are made
   - **minutes** , in relation to a meeting of a committee, means any record of the meeting
-  - **publicly notify** , in relation to a committee of the board of a DHB, means to give the resident population of the DHB notice by advertisements in 1 or more newspapers circulating in the district of the DHB, or by advertisements of that kind and any 1 or more of the following means
+  - **publicly notify** , in relation to a committee of the board of a DHB, means to give the resident population of the DHB notice by advertisements in 1 or more newspapers circulating in the district of the DHB, or by advertisements of that kind and any 1 or more of the following means:
     (a) printed placards affixed to public places in that district:
     (b) radio or television broadcasts:
     (c) notices available on the Internet, or given by any other electronic means.
+
+**Functions of community and public health advisory committees**
 
 ### 2 Functions of community and public health advisory committees
 (1) The functions of the community and public health advisory committee of the board of a DHB are to give the board advice on—
@@ -1720,6 +1685,8 @@ In this schedule, unless the context otherwise requires,—
   (b) all policies the DHB has adopted or could adopt for that population.
 (3) A community and public health advisory committee's advice may not be inconsistent with the New Zealand health strategy.
 
+**Functions of disability support advisory committees**
+
 ### 3 Functions of disability support advisory committees
 (1) The functions of the disability support advisory committee of the board of a DHB are to give the board advice on—
   (a) the disability support needs of the resident population of the DHB; and
@@ -1729,15 +1696,21 @@ In this schedule, unless the context otherwise requires,—
   (b) all policies the DHB has adopted or could adopt for those people.
 (3) A disability support advisory committee's advice may not be inconsistent with the New Zealand disability strategy.
 
+**Functions of hospital advisory committees**
+
 ### 4 Functions of hospital advisory committees
 The functions of the hospital advisory committee of the board of a DHB are to—
   (a) monitor the financial and operational performance of the hospitals (and related services) of the DHB; and
   (b) assess strategic issues relating to the provision of hospital services by or through the DHB; and
   (c) give the board advice and recommendations on that monitoring and that assessment.
 
+**Other functions**
+
 ### 5 Committees may be given other functions by Order in Council
 (1) In addition to the functions specified in clauses 2 to 4, a committee has such functions as are specified as functions of the committee, or of committees of the class to which the committee belongs, by the Governor-General by Order in Council on the recommendation of the Minister.
 (2) Before making a recommendation for the purposes of subclause (1), the Minister must consult with such persons as the Minister considers appropriate.
+
+**Members**
 
 ### 6 Members
 (1) Members of the committee—
@@ -1772,6 +1745,8 @@ A member of the committee may resign from that office by notice in writing to th
 (2) A board may exercise the power under subclause (1) only if it has first consulted the member, and committee, about the removal.
 (3) Subclauses (1) and (2) override any deed or agreement.
 
+**Chairperson and deputy chairperson**
+
 ### 11 Chairperson and deputy chairperson
 (1) A board—
   (a) must appoint a member of the committee as chairperson of the committee; and
@@ -1799,9 +1774,13 @@ A chairperson or deputy chairperson of the committee—
 (3) Subclauses (1) and (2) override any deed or agreement.
 (4) A chairperson or deputy chairperson removed from that office continues to be a member of the committee unless also removed from that office, under clause 10(1).
 
+**Board to notify Minister of appointments, etc**
+
 ### 15 Board to notify Minister of appointments, etc
 (1) The board must give the Minister notice of any appointment, resignation, vacation of office, or removal from office, of any chairperson, deputy chairperson, or member of a committee, under any of clauses 6, or 8 to 14.
 (2) The notice must be in writing and given as soon as practicable, and no later than 10 working days, after the board becomes aware of the appointment, resignation, vacation of office, or removal from office.
+
+**Teleconferences**
 
 ### 16 Teleconferences
 (1) A meeting of a committee may be held—
@@ -1813,6 +1792,8 @@ A chairperson or deputy chairperson of the committee—
 
 ### 17 Further provisions relating to teleconferences
 [Repealed]
+
+**Notice of meetings**
 
 ### 18 Meetings of committees to be publicly notified
 (1) Each committee must, not more than 14 days and not less than 5 days before the end of each month, publicly notify a list of all meetings of the committee scheduled to be held in the following month, together with the dates on which, and the times and places at which, the meetings are to be held.
@@ -1828,10 +1809,12 @@ A chairperson or deputy chairperson of the committee—
 
 ### 20 Members to be notified of meetings
 (1) The chairperson must ensure that each member of a committee is given notice of a meeting of the committee as early as practicable before the meeting is to be held.
-(2) The notice must be written, and may be given by delivery or by electronic transmission (for example, by fax or e-mail).
+(2) The notice must be written, and may be given by delivery or by electronic transmission (for example, by fax or email).
 (3) For the purposes of subclause (1), it is enough if the chairperson made all reasonable efforts to ensure each member was given the notice by the time required under that subclause.
 
-### 21 Information relating to meetings
+**Information relating to meetings**
+
+### 21 Availability of agendas and reports
 (1) Any member of the public may, without payment of any fee, inspect, during normal office hours, within a period of at least 2 working days before every meeting of a committee, all agendas and associated reports circulated to members of the committee and relating to the meeting.
 (2) The committee must, from time to time, authorise a person to act for it for the purposes of this subclause, and that person—
   (a) may exclude from the reports made available any reports or items from reports he or she reasonably expects the meeting to discuss with the public excluded; and
@@ -1854,7 +1837,7 @@ A chairperson or deputy chairperson of the committee—
 (1) Any member of the public may, within a reasonable time after any meeting of a committee, without payment of any fee and during normal office hours, inspect the minutes of the meeting or any part of it, unless it was a meeting or part of a meeting from which the public was excluded.
 (2) The minutes must be available for inspection at a place or places within the district.
 (3) Any member of the public may take notes from any minutes inspected by that member of the public.
-(4) Every member of the public inspecting any such minutes who requests a copy of all or any part of those minutes must, if he or she tenders an amount equal to the reasonable costs of making one available, be given such a copy
+(4) Every member of the public inspecting any such minutes who requests a copy of all or any part of those minutes must, if he or she tenders an amount equal to the reasonable costs of making one available, be given such a copy.
 (5) If any person requests a copy of the minutes of any meeting or part of a meeting from which the public was excluded, the committee must deal with the request as follows:
   (a) if it is made by or on behalf of a natural person, and is for access to any personal information that is about that person, as if it were a request made under subclause (1)(b) of principle 6 of the Privacy Act 1993:
   (b) in any other case, as if it were a request for access to official information made under the Official Information Act 1982.
@@ -1873,6 +1856,8 @@ If a resolution is passed at an emergency meeting of a committee, the committee 
 (1) Any oral statement made at any meeting of a committee in accordance with the rules that have been adopted by the committee for the guidance and order of its meetings is privileged.
 (2) This clause does not apply if, in any proceedings for defamation in respect of the statement, the plaintiff proves that, in making the statement, the defendant was predominantly motivated by ill will towards the plaintiff, or otherwise took improper advantage of the occasion of publication.
 (3) The privilege conferred by this clause is in addition to and not in substitution for or derogation of any other privilege, whether absolute or qualified, that applies, by virtue of any other enactment or rule of law, to the meetings of any committee.
+
+**Procedure at meetings**
 
 ### 27 Quorum
 (1) No authority, power, or discretion of a committee can be exercised, and no business of a committee can be transacted, at any meeting of the committee, unless the quorum of members of the committee is present at the meeting.
@@ -1909,6 +1894,8 @@ If a resolution is passed at an emergency meeting of a committee, the committee 
 ### 32 Supplementary procedure
 A committee may regulate its procedure, at its meetings and otherwise, in any manner not inconsistent with this Act it thinks fit.
 
+**Admission of public**
+
 ### 33 Admission of public
 Except as provided in clauses 34 to 37, every meeting of a committee must be open to the public.
 
@@ -1937,17 +1924,19 @@ A committee may by resolution exclude the public from the whole or any part of a
 (5) The person or persons must not disclose to anyone not present at the meeting while the public was excluded and the person or persons remained any information that the person or persons became aware of only at the meeting while the public was excluded and the person or persons remained.
 
 ### 36 Provisions applying when meeting open to public
-The following provisions apply when all or any part of a meeting of a committee is required by this Schedule to be open to the public:
-  (a) for the purposes of this Schedule, genuine members of the news media must be treated as members of the public, and are entitled to attend any meeting or any part of a meeting for the purpose of reporting the meeting for any news media:
+The following provisions apply when all or any part of a meeting of a committee is required by this schedule to be open to the public:
+  (a) for the purposes of this schedule, genuine members of the news media must be treated as members of the public, and are entitled to attend any meeting or any part of a meeting for the purpose of reporting the meeting for any news media:
   (b) if the agenda for any meeting is copied by any means for use by members of a committee, that committee must also cause to be made any additional copies of the agenda that in that committee's opinion may be necessary to ensure there is an adequate supply for any persons requesting copies under paragraph (c):
   (c) any member of the public who attends a meeting of a committee and requests a copy of the agenda must, if he or she tenders an amount equal to the reasonable costs of making one available, be given (and may take away with him or her) any spare copy of the agenda:
   (d) copies of the agenda supplied for members of the public as provided in paragraph (b) must include any further statements or particulars necessary to indicate the nature of any items included in the agenda, unless that item refers to any matter to be considered by the committee when the meeting is not likely to be open to the public.
 
 ### 37 Maintenance of order
 (1) At any meeting of any committee the presiding member of the committee may require a member of the public attending the meeting to leave it if the presiding member believes on reasonable grounds that, if the member of the public is permitted to remain, the behaviour of the member of the public is likely to prejudice, or to continue to prejudice, the orderly conduct of the meeting.
-(2) At the request of the presiding member, a member of the police, or officer or employee of the committee may remove or, as the case requires, exclude a member of the public from a meeting of a committee if the member of the public has been required under this clause to leave the meeting but—
+(2) At the request of the presiding member, a constable, or officer or employee of the committee may remove or, as the case requires, exclude a member of the public from a meeting of a committee if the member of the public has been required under this clause to leave the meeting but—
   (a) refuses or fails to leave it; or
   (b) having left it, attempts to re-enter it without the permission of the presiding member.
+
+**Disclosure of members' interests**
 
 ### 38 Disclosure of interests
 (1) A member of a committee who is interested in a transaction of the DHB must, as soon as practicable after the relevant facts have come to the member's knowledge, disclose the nature of the interest to the committee.
@@ -1974,14 +1963,7 @@ The following provisions apply when all or any part of a meeting of a committee 
 
 ## Schedule 5 — Provisions applying to mortality review committees
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-| Interpretation |  | 4 | Prohibitions on production, disclosure, and recording of information |
-| 1 | Interpretation | 5 | Exceptions to prohibitions |
-| Chairperson may require person to give information |  | 6 | Minister may authorise disclosure of information |
-|  | Chairperson may require person to give information | Supplementary procedure |  |
-| Production, disclosure, and recording of information |  | 7 | Supplementary procedure |
-| 3 | Meaning of information |  |  |
+**Interpretation**
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
@@ -1992,6 +1974,8 @@ In this schedule, unless the context otherwise requires,—
     (b) in force for the time being
   - **serious offence** means an offence punishable by imprisonment for a term of 2 years or more.
 
+**Chairperson may require person to give information**
+
 ### 2 Chairperson may require person to give information
 (1) If a mortality review committee gives its chairperson, or an agent the committee appoints for the purpose, authority in writing to do so, the chairperson or agent may, by notice in writing to any person, require the person to give the committee information in the person's possession, or under the person's control, and relevant to the performance by the committee of any of its functions.
 (2) Examples of the information the chairperson or agent may require are—
@@ -1999,6 +1983,8 @@ In this schedule, unless the context otherwise requires,—
   (b) answers to questions posed by the chairperson in the notice, and that the person is able to answer:
   (c) information that became known solely as a result of a declared quality assurance activity, within the meaning of Part 6 of the Medical Practitioners Act 1995, or a protected quality assurance activity within the meaning of section 53(1) of the Health Practitioners Competence Assurance Act 2003.
 (3) The person must take all reasonable steps to comply with the notice.
+
+**Production, disclosure, and recording of information**
 
 ### 3 Meaning of information
 In clauses 4 to 6, information means any information—
@@ -2018,7 +2004,7 @@ Clause 4 does not prohibit—
   (b) the disclosure of information—
     (i) with the consent of every person who would be directly or indirectly identified by the disclosure:
     (ii) to the Minister, or a person authorised by the Minister, for the purpose of enabling the Minister to decide whether or not to issue a ministerial authority:
-    (iii) for the purposes of the prosecution of an offence against section 18(7) (disclosure of information contrary to this Schedule).
+    (iii) for the purposes of the prosecution of an offence against section 18(7) (disclosure of information contrary to this schedule).
 
 ### 6 Minister may authorise disclosure of information
 (1) If the Minister is satisfied that information relates to conduct (whenever occurring) that constitutes or may constitute a serious offence, the Minister may, by notice in writing signed by the Minister, give a ministerial authority authorising the disclosure of the information, in the manner, and subject to any conditions, specified in the notice, for 1 or more of the following purposes:
@@ -2032,45 +2018,22 @@ Clause 4 does not prohibit—
   (a) require the disclosure of that information; or
   (b) create a duty to disclose that information.
 
+**Supplementary procedure**
+
 ### 7 Supplementary procedure
 A mortality review committee may regulate its procedure, at its meetings and otherwise, in any manner not inconsistent with this Act it thinks fit.
 
 ## Schedule 6 — Further provisions applying to Pharmac, NZBS, and CHFA
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-| Meaning of organisation |  | Disclosure of members' interests |  |
-| 1 | Meaning of organisation | 21 | Disclosure of interests |
-| Members |  | 22 | Minister may waive or modify application of clause 21(2) (Repealed) |
-| 2 | Members (Repealed) | Committees |  |
-| 3 | Terms and conditions of office, and remuneration (Repealed) | 23 | Committees |
-| 4 | Resignation (Repealed) | Delegations |  |
-| 5 | Vacation of office (Repealed) | 24 | Delegations |
-| 6 | Removal from office (Repealed) | 25 | Effect of delegation (Repealed) |
-| Chairperson and deputy chairperson |  | Seal |  |
-| 7 | Chairperson and deputy chairperson (Repealed) | 26 | Seal (Repealed) |
-| 8 | Resignation (Repealed) | Contracts and other enforceable obligations |  |
-| 9 | Vacation of office (Repealed) | 27 | Contracts and other enforceable obligations (Repealed) |
-| 10 | Removal from office (Repealed) | Dealings with land |  |
-| Teleconferences |  | 28 | Dealings with land |
-| 11 | Teleconferences (Repealed) | Employees |  |
-| 12 | Further provisions relating to teleconferences (Repealed) | 29 | Employees |
-| Meetings |  | Borrowing and investment (Repealed) |  |
-| 13 | Members to be notified of meetings (Repealed) | 30 | Borrowing (Repealed) |
-| 14 | Quorum (Repealed) | 31 | Investment (Repealed) |
-| 15 | Presiding member (Repealed) | Tax status (Repealed) |  |
-| 16 | Voting (Repealed) | 32 | Tax status (Repealed) |
-| 17 | Supplementary procedure (Repealed) | Public Records Act 2005 to apply |  |
-| Draft resolutions circulated for members' assent |  | 33 | Public Records Act 2005 to apply |
-| 18 | Draft resolution may be circulated to members for assent (Repealed) | Address for service (Repealed) |  |
-| 19 | Members to respond to draft resolution circulated (Repealed) | 34 | Address for service (Repealed) |
-| 20 | Draft resolutions assented to by a majority of members (Repealed) |  |  |
+**Meaning of organisation**
 
 ### 1 Meaning of organisation
 In this schedule, unless the context otherwise requires, organisation means each of the following organisations:
   (a) Pharmac:
   (b) NZBS:
   (c) CHFA.
+
+**Members**
 
 ### 2 Members
 [Repealed]
@@ -2087,6 +2050,8 @@ In this schedule, unless the context otherwise requires, organisation means each
 ### 6 Removal from office
 [Repealed]
 
+**Chairperson and deputy chairperson**
+
 ### 7 Chairperson and deputy chairperson
 [Repealed]
 
@@ -2099,11 +2064,15 @@ In this schedule, unless the context otherwise requires, organisation means each
 ### 10 Removal from office
 [Repealed]
 
+**Teleconferences**
+
 ### 11 Teleconferences
 [Repealed]
 
 ### 12 Further provisions relating to teleconferences
 [Repealed]
+
+**Meetings**
 
 ### 13 Members to be notified of meetings
 [Repealed]
@@ -2120,6 +2089,8 @@ In this schedule, unless the context otherwise requires, organisation means each
 ### 17 Supplementary procedure
 [Repealed]
 
+**Draft resolutions circulated for members' assent**
+
 ### 18 Draft resolution may be circulated to members for assent
 [Repealed]
 
@@ -2129,11 +2100,15 @@ In this schedule, unless the context otherwise requires, organisation means each
 ### 20 Draft resolutions assented to by a majority of members
 [Repealed]
 
+**Disclosure of members' interests**
+
 ### 21 Disclosure of interests
 Section 66 of the Crown Entities Act 2004 does not apply to a person who is interested in a matter only because he or she is a member of the board of another organisation or of a DHB.
 
 ### 22 Minister may waive or modify application of clause 21(2)
 [Repealed]
+
+**Committees**
 
 ### 23 Committees
 (1)
@@ -2141,6 +2116,8 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 (3)
 (4)
 (5)
+
+**Delegations**
 
 ### 24 Delegations
 (1) Every board of an organisation must,—
@@ -2158,11 +2135,17 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 ### 25 Effect of delegation
 [Repealed]
 
+**Seal**
+
 ### 26 Seal
 [Repealed]
 
+**Contracts and other enforceable obligations**
+
 ### 27 Contracts and other enforceable obligations
 [Repealed]
+
+**Dealings with land**
 
 ### 28 Dealings with land
 (1) No organisation may sell, exchange, mortgage, or charge land without the prior written approval of the Minister.
@@ -2172,6 +2155,8 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 (5) In this clause, organisation includes a Crown entity subsidiary of an organisation.
 (6) To avoid any doubt, the matters to which the Minister may have regard in giving an approval under subclause (2) in relation to any land include the question of the application to the land of clause 3 of Schedule 1 of the Health Sector (Transfers) Act 1993.
 (7) This clause applies despite sections 16 and 17 of the Crown Entities Act 2004.
+
+**Employees**
 
 ### 29 Employees
 (1)
@@ -2183,17 +2168,25 @@ Section 66 of the Crown Entities Act 2004 does not apply to a person who is inte
 (5) This clause applies despite section 117 of the Crown Entities Act 2004.
 (6) Despite section 116(2) of the Crown Entities Act 2004, the Governor-General may not make an Order in Council under section 116(1) of that Act in relation to an organisation.
 
+**Borrowing and investment**
+
 ### 30 Borrowing
 [Repealed]
 
 ### 31 Investment
 [Repealed]
 
+**Tax status**
+
 ### 32 Tax status
 [Repealed]
 
+**Public Records Act 2005 to apply**
+
 ### 33 Public Records Act 2005 to apply
 An organisation (other than NZBS) is a public office for the purposes of the Public Records Act 2005.
+
+**Address for service**
 
 ### 34 Address for service
 [Repealed]
@@ -2227,70 +2220,5 @@ An organisation (other than NZBS) is a public office for the purposes of the Pub
 ## Schedule 8 — Consequential revocations of instruments
 
 ## Schedule 9 — Consequential amendments to Acts
-
-### 366 Saving of transactions—
-(1) The validity or enforceability of any deed, agreement, right, or obligation made or incurred by the Crown or a Minister or a district health board is not affected by a failure of the Crown, the Minister, or the board to comply with—
-  (a) any provision, direction, or requirement referred to in section 87 of the New Zealand Public Health and Disability Act 2000; or
-  (b) section 361.
-(2) Sections 360 to 365 do not limit the power of an insurer and a district health board to make any agreement about the provision of goods or services other than public health acute services.
-
-### 367 No entitlement to review of certain arrangements—
-Nothing in this Part or in Part 6 entitles any person to apply for are view of the terms of an agreement or contract or arrangement between—
-  (a) an insurer and a district health board; or
-  (b) an insurer and any other hospital; or
-  (c) the Minister of Health and a district health board; or
-  (d) the Minister of Health and any other hospital; or
-  (e) the Minister of Health and a district health board under section 361.
-
-### 25A Right of review—
-(1) This Part applies to a person who—
-  (a) has an intellectual, physical, psychiatric, or sensory disability; and
-  (b) because of that disability, enters residential care of a kind that is funded under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000; and
-  (c) is not a person to whom section 69F of the Social Security Act 1964 applies.
-(2) A person to whom this Part applies has a right to a review of—
-  (a) the adequacy of any disability services needs assessment provided in respect of that person under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000; or
-  (b) whether or not the person's disability services needs, as assessed by a disability services needs assessment provided in respect of that person under a Crown funding agreement or a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000, are appropriately met by—
-    (i) the residential care the person entered following the disability services needs assessment; or
-    (ii) the residential care services purchased for the person following the disability services needs assessment.
-
-### 25C Procedure and time limits for applying for review—
-(1) An application for a review must—
-  (a) be made to the Director-General; and
-  (b) be in writing; and
-  (c) contain an address at which the applicant wishes to receive correspondence relating to the review.
-(2) An applicant for a review may at any time change the address for correspondence by notifying the Director-General in writing of the new address.
-(3) An application for a review must be made within 3 months of the latest of the following dates:
-  (a) the date on which a copy of the disability services needs assessment is given or sent to the person; or
-  (b) the date on which the person enters residential care; or
-  (c) the date on which the Minister of Health—
-    (i) enters into a Crown funding agreement with a service provider to provide residential care services to the person; or
-    (ii) enters into a Crown funding agreement in renewal of or substitution for a previous agreement, being a renewed or substituted agreement that contains a change in the residential care services to be provided to the person; or
-  (d) the date on which a district health board—
-    (i) enters into a service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000 with a service provider to provide residential care services to the person; or
-    (ii) enters into a service agreement or into an arrangement of that kind in renewal of or substitution for a previous service agreement or arrangement, being a renewed or substituted agreement or arrangement that contains a change in the residential care services to be provided to the person.
-(4) The Director-General may accept an application for a review after the time stated in subsection (3) if the Director-General is satisfied that there is good reason for the delay.
-
-### 25D Director-General to appoint disability services review officers—
-(1) The Director-General must appoint a sufficient number of persons to conduct reviews.
-(2) Every review officer must—
-  (a) be suitable, in the opinion of the Director-General, to conduct reviews; and
-  (b) be experienced in relation to the provision of disability services; and
-  (c) have a recognised qualification relating to the provision of disability services.
-(3) A review officer may be either—
-  (a) an employee of the Ministry of Health; or
-  (b) a person engaged by the Director-General to conduct a particular review or reviews generally. The person may carry out other functions for the Ministry of Health.
-(4) A review officer must not conduct a review if he or she was connected in any material way with—
-  (a) any disability services needs assessment made for the person; or
-  (b) the entry into residential care of the person; or
-  (c) any Crown funding agreement or service agreement or an arrangement of the kind described in section 88 of the New Zealand Public Health and Disability Act 2000 for residential care services for the person.
-(5) The Ministry of Health must supply all the secretarial and administrative services that the review officer needs to carry out his or her functions.
-
-### 13
-The manufacture or supply of a pharmaceutical that is for the time being listed in the pharmaceutical schedule under the New Zealand Public Health and Disability Act 2000.
-
-### 7 Strategies and objectives to be taken into account
-In exercising or performing any power or function under this Act, every person must—
-  (a) take into account the New Zealand health strategy and the New Zealand disability strategy issued under section 8 of the New Zealand Public Health and Disability Act 2000, so far as those strategies are applicable to the circumstances of the particular case; and
-  (b) take into account the objectives for district health boards set out in section 22(1) of the New Zealand Public Health and Disability Act 2000, so far as those objectives are applicable in the circumstances of the particular case.
 
 ## Schedule 10 — Consequential amendments to other instruments
