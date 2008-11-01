@@ -1,5 +1,5 @@
 # Health and Disability Commissioner Act 1994
-_Consolidation as at 2007-09-19_
+_Consolidation as at 2008-11-01_
 
 > An Act to promote and protect the rights of health consumers and disability services consumers, and, in particular,—aTo secure the fair, simple, speedy, and efficient resolution of complaints relating to infringements of those rights; andbTo provide for the appointment of a Health and Disability Commissioner to investigate complaints against persons or bodies who provide health care or disability services; and to define the Commissioner's functions and powers; andcTo provide for the establishment of a Health and Disability Services Consumer Advocacy Service; anddTo provide for the promulgation of a Code of Health and Disability Services Consumers's Rights; andeTo provide for matters incidental thereto
 
@@ -63,6 +63,9 @@ _Consolidation as at 2007-09-19_
       (ii) Contraception services and advice:
       (iii) Fertility services:
       (iv) Sterilisation services:
+  - **health treatment** , to avoid doubt, includes treatment of a person () that is, or is related to, the taking of human tissue from A for all or any of the following purposes:
+    (a) transplantation, or another therapeutic purpose, for the benefit of 1 or more persons other than A:
+    (b) educational purposes or research purposes
   - **Human Rights Commission** means the Human Rights Commission continued by section 4 of the Human Rights Act 1993
   - **Human Rights Review Tribunal or Tribunal** means the Human Rights Review Tribunal continued by section 93 of the Human Rights Act 1993.
   - **Informed consent** , in relation to a health consumer on or in respect of whom there is carried out any health care procedure, means consent to that procedure where that consent—
