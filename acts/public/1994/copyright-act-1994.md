@@ -1,5 +1,5 @@
 # Copyright Act 1994
-_Consolidation as at 2008-10-31_
+_Consolidation as at 2008-12-01_
 
 > An Act to consolidate and amend the law relating to copyright
 
@@ -73,7 +73,7 @@ _Consolidation as at 2008-10-31_
       (iii) Special clinic; or
       (iv) Special service—
     (c) Any special institution within the meaning of section 92(1) of the Education Act 1989:
-    (d) Any early childhood centre within the meaning of section 308(1) of the Education Act 1989:
+    (d) any early childhood service within the meaning of section 309 of the Education Act 1989:
     (e) Any—within the meaning of section 159(1) of the Education Act 1989, that is not conducted for profit:
       (i) Institution; or
       (ii) Private training establishment; or
