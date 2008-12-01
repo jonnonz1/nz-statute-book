@@ -1,5 +1,5 @@
 # Local Government (Rating) Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-12-01_
 
 ### 1 Title
 This Act is the Local Government (Rating) Act 2002.
@@ -36,10 +36,10 @@ The purpose of this Act is to promote the purpose of local government set out in
   (a) provisions that relate to the assessment and payment of rates, and to the recovery of unpaid rates; and
   (b) provisions that set out requirements that relate to remission of rates and postponement of the requirement to pay rates.
 (5) Part 4 contains—
-  (a) provisions that govern the liability for rates on Maori freehold land (including multiply-owned freehold land); and
-  (b) provisions that govern the power to recover unpaid rates through the Maori Land Court; and
-  (c) provisions that govern the remission and postponement of the requirement to pay rates assessed for Maori freehold land; and
-  (d) provisions that allow Maori freehold land to be exempted from the payment of rates.
+  (a) provisions that govern the liability for rates on Māori freehold land (including multiply-owned freehold land); and
+  (b) provisions that govern the power to recover unpaid rates through the Māori Land Court; and
+  (c) provisions that govern the remission and postponement of the requirement to pay rates assessed for Māori freehold land; and
+  (d) provisions that allow Māori freehold land to be exempted from the payment of rates.
 (6) Part 5 contains—
   (a) provisions that relate to the replacement of invalid rates; and
   (b) miscellaneous provisions, amendments to other enactments, and transitional and savings provisions.
@@ -68,9 +68,9 @@ In this Act, unless the context otherwise requires,—
   - **local authority** means a territorial authority or a regional council
   - **long-term council community plan** means a long-term council community plan under section 93 of the Local Government Act 2002
   - **lump sum contribution** has the meaning set out in section 117A
-  - **Maori freehold land** means land whose beneficial ownership has been determined by the Maori Land Court by freehold order
-  - **Maori freehold land in multiple ownership** means Maori freehold land owned by more than 2 persons
-  - **owner** , means the person who, whether jointly or separately, is seized or possessed of, or entitled to, any estate or interest in land constituting a rating unit
+  - **Māori freehold land** means land whose beneficial ownership has been determined by the Māori Land Court by freehold order
+  - **Māori freehold land in multiple ownership** means Māori freehold land owned by more than 2 persons
+  - **owner** means the person who, whether jointly or separately, is seized or possessed of, or entitled to, any estate or interest in land constituting a rating unit
   - **person actually using land** has the meaning given to it in section 96
   - **postponed rates** means rates for which the requirement to pay is postponed
   - **postponement policy** means a policy under section 110 of the Local Government Act 2002
@@ -83,11 +83,11 @@ In this Act, unless the context otherwise requires,—
     (b) includes a penalty added to a rate in accordance with section 58; but
     (c) does not include a lump sum contribution
   - **rateable value** means the rateable value of land under section 13(3)
-  - **rates assessment** means the document that gives notice of the ratepayer's liability to pay rates on a rating unit
+  - **rates assessment** means the document that gives notice of the ratepayer’s liability to pay rates on a rating unit
   - **rates invoice** means the document that notifies a ratepayer of the amount of rates that are payable for a rating unit under section 46
   - **rates record** means the record maintained by a local authority under section 37
   - **rating information database** means the database that is required to be kept by a local authority under section 27
-  - **rating sale or rating lease** means a sale or lease of a rating unit under section 68 to enforce a judgment for rates
+  - **rating sale** or means a sale or lease of a rating unit under section 68 to enforce a judgment for rates
   - **rating unit** means a rating unit for the purposes of the Rating Valuations Act 1998
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
   - **remission policy** means a policy under section 109 of the Local Government Act 2002
@@ -145,7 +145,7 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
   (a) in the case of a lease under subsection (2)(b)(iii)(A), the owner has provided a statutory declaration to the local authority that those provisions apply:
   (b) in the case of a lease under subsection (2)(b)(iii)(B), the owner has provided a certified copy of the certificate of title in relation to the unit that shows the lease has been registered.
 (5) For the purposes of subsection (2)(b)(ii), a lease must be treated as remaining in force if the lessee has exercised a right to renew the lease on the same terms and conditions.
-(6) In this section, lessee includes a person to whom the lessee transfers or assigns the lessee's interest in the lease.
+(6) In this section, lessee includes a person to whom the lessee transfers or assigns the lessee’s interest in the lease.
 
 **Who must pay rates?**
 
@@ -165,11 +165,11 @@ For the purposes of this Act, a ratepayer is the person who is named as a ratepa
     (i) the annual value of the land; or
     (ii) the capital value of the land; or
     (iii) the land value of the land; and
-  (b) must be identified in the local authority's funding impact statement as the value for setting a general rate.
+  (b) must be identified in the local authority’s funding impact statement as the value for setting a general rate.
 
 ### 14 Categories of rateable land for setting general rate differentially
 For the purposes of section 13(2)(b), categories of rateable land are categories that—
-  (a) are identified in the local authority's funding impact statement as categories for setting the general rate differentially; and
+  (a) are identified in the local authority’s funding impact statement as categories for setting the general rate differentially; and
   (b) are defined in terms of 1 or more of the matters listed in Schedule 2.
 
 ### 15 Uniform annual general charge
@@ -182,7 +182,7 @@ For the purposes of section 13(2)(b), categories of rateable land are categories
 (1) A local authority may set a targeted rate for 1 or more activities or groups of activities if those activities or groups of activities are identified in its funding impact statement as the activities or groups of activities for which the targeted rate is to be set.
 (2)
 (3) A targeted rate may be set in relation to—
-  (a) all rateable land within the local authority's district; or
+  (a) all rateable land within the local authority’s district; or
   (b) 1 or more categories of rateable land under section 17.
 (4) A targeted rate may be set—
   (a) on a uniform basis for all rateable land in respect of which the rate is set; or
@@ -190,12 +190,12 @@ For the purposes of section 13(2)(b), categories of rateable land are categories
 
 ### 17 Categories of rateable land for setting targeted rate
 For the purposes of section 16(3)(b) and (4)(b), categories of rateable land are categories that—
-  (a) are identified in the local authority's funding impact statement as categories for setting the targeted rate; and
+  (a) are identified in the local authority’s funding impact statement as categories for setting the targeted rate; and
   (b) are defined in terms of 1 or more of the matters listed in Schedule 2.
 
 ### 18 Calculating liability for targeted rate
 (1) The calculation of liability for a targeted rate set under section 16 must utilise only a factor or factors that—
-  (a) are identified in the local authority's funding impact statement as factors that must be used to calculate the liability for the targeted rate; and
+  (a) are identified in the local authority’s funding impact statement as factors that must be used to calculate the liability for the targeted rate; and
   (b) are listed in Schedule 3.
 (2) Despite subsection (1), the liability for a targeted rate may be calculated as a fixed amount per rating unit.
 (3) To avoid doubt, if targeted rates are set differentially, the rates concerned do not have to be calculated using the same factors for each category of land.
@@ -231,12 +231,12 @@ Two or more rating units must be treated as 1 unit for setting a rate if those u
 (1) Rates must be set by a resolution of the local authority.
 (2) Rates set by a local authority must—
   (a) relate to a financial year or part of a financial year; and
-  (b) be set in accordance with the relevant provisions of the local authority's long-term council community plan and funding impact statement for that financial year
+  (b) be set in accordance with the relevant provisions of the local authority’s long-term council community plan and funding impact statement for that financial year.
 (3) A local authority may set a rate that is not provided for in its long-term council community plan and funding impact statement only if—
   (a) the local authority is satisfied that the rate is required to meet an unforeseen and urgent need for revenue that cannot reasonably be met by any other means, having regard to the manner in which it has, in its long-term council community plan and funding impact statement allocated the costs of the activities or groups of activities to which the need for revenue relates; and
-  (b) the local authority has given at least 14 days' public notice of its intention to set the rate.
+  (b) the local authority has given at least 14 days’ public notice of its intention to set the rate.
 (4) Notice under subsection (3)(b) must include—
-  (a) the information in relation to the rate that would otherwise have been required to be included in the local authority's funding impact statement; and
+  (a) the information in relation to the rate that would otherwise have been required to be included in the local authority’s funding impact statement; and
   (b) a statement of the nature of the unforeseen and urgent need for revenue and the reasons why that need cannot reasonably be met by any other means, having regard to the manner in which the local authority has, in its long-term council community plan, allocated the costs of the activities or groups of activities to which the need for revenue relates.
 (5) The local authority must, within 20 working days after making a resolution, send a copy of it to the Secretary of Local Government.
 
@@ -281,17 +281,17 @@ A report complies with this section if—
   (a) to record all information required for setting and assessing rates; and
   (b) to enable a local authority to communicate with ratepayers; and
   (c) to enable members of the public to have reasonable access to the information in the database relating to the calculation of liability for rates.
-(4) The database must include, in relation to each rating unit within the local authority's district,—
+(4) The database must include, in relation to each rating unit within the local authority’s district,—
   (a) all information that relates to the unit that is included in the district valuation roll for the district; and
   (b) all information that relates to the unit that is required to—
     (i) determine the category (if any) to which the unit belongs for setting a general rate in accordance with section 13(2)(b); or
     (ii) determine the category (if any) to which the unit belongs for setting a targeted rate in accordance with section 16(3)(b) or (4)(b); or
-    (iii) calculate the amount of liability for a targeted rate under section 18; but
+    (iii) calculate the amount of liability for a targeted rate under section 18; and
   (c) any information required under section 117K(1) that relates to the unit.
 (5) The information in subsection (4) may be recorded separately for different parts of a rating unit if separate records are necessary because of different rating treatment of each part resulting from:
   (a) the inclusion of different parts in different categories under subsection (4)(b)(i) or (ii):
-  (b) the application of Part 1 or Part 2 of Schedule 1 to 1 or more parts of the rating unit:
-  (c) the application of a remission policy, a postponement policy, or a rates relief policy for Maori freehold land to 1 or more parts of the rating unit.
+  (b) the application of Part 1 or Part 2 of Schedule 1 to one or more parts of the rating unit:
+  (c) the application of a remission policy, a postponement policy, or a rates relief policy for Māori freehold land to 1 or more parts of the rating unit.
 (6) The rating information database must be maintained so that it may be searched according to—
   (a) the reference number of the unit; or
   (b) the address of the unit; or
@@ -309,11 +309,11 @@ A report complies with this section if—
 (4) The local authority must, during the month of May, give public notice that the rating information database is available for inspection and of the place and times it may be inspected.
 (5) In addition to the notice required under subsection (4), a local authority may notify ratepayers at any other time it considers appropriate and by any means it thinks fit.
 
-### 28A inspection of complete rating information database
+### 28A Inspection of complete rating information database
 (1) In this section, and sections 28B to 28D, database means the database—
   (a) that the local authority must make available under subsection (2); and
   (b) that contains the information required under subsection (3).
-(2) For the purpose of inspecting any information in relation to a particular rating unit, a copy of the local authority's complete rating information database must be—
+(2) For the purpose of inspecting any information in relation to a particular rating unit, a copy of the local authority’s complete rating information database must be—
   (a) available to any person—
     (i) at the principal public office of the local authority; and
     (ii) during office hours; and
@@ -380,7 +380,7 @@ In sections 31 to 36, relevant local authority means—
 (2) Notice under subsection (1) must include—
   (a) the full name and address of the purchaser or transferee; and
   (b) in the case of a sale, the sale price.
-(3) If a person becomes the owner of a rating unit by the operation of law (including the creation of a joint family home), the person must, within 1 month after the registration of the instrument under which the person became the owner, or 1 of the owners of the unit, notify the relevant local authority of the following matters:
+(3) If a person becomes the owner of a rating unit by the operation of law (including the creation of a joint family home), the person must, within 1 month after the registration of the instrument under which the person became the owner, or one of the owners of the unit, notify the relevant local authority of the following matters:
   (a) that he or she is the owner of the rating unit:
   (b) his or her full name and address.
 (4) If a solicitor or other authorised agent acted on behalf of the owner under subsection (1) or the person registering the instrument under subsection (3), the solicitor or agent must give the notice concerned.
@@ -414,7 +414,7 @@ The name of a person who is entered as a ratepayer in the rating information dat
 
 ### 37 Rates records
 (1) A local authority must keep and maintain a rates record for each rating unit in its district that clearly shows—
-  (a) the amount of the ratepayer's liability for rates in respect of that unit; and
+  (a) the amount of the ratepayer’s liability for rates in respect of that unit; and
   (b) any information required under section 117K(2) that relates to the unit.
 (2) Rates records may be kept and maintained in written or electronic form, or both.
 (3) If a rates record includes any information that is referred to in section 27(4), the local authority must ensure that the information is consistent with the current entry in the rating information database for the unit.
@@ -473,7 +473,7 @@ A local authority may correct an error in the rating information database or rat
   (a) there has been a change in any matter affecting the liability of the ratepayer to pay rates; and
   (b) the ratepayer has failed to notify the local authority of a change in circumstances in accordance with sections 31 to 33 or any other enactment, or did not do so within the required time; and
   (c) as a result, the local authority has not collected the full amount of rates to which it was entitled for the rating unit.
-(2) The amount of the additional rates recovered under subsection (1) must be calculated in accordance with the following formula:a - bwhere—
+(2) The amount of the additional rates recovered under subsection (1) must be calculated in accordance with the following formula:a − bwhere—
   (a) is the rates that would have been assessed on the rating unit if the notice had been given on time
   (b) is the rates that were actually assessed on the rating unit from that time.
 (3) The local authority may add interest to the amount calculated under subsection (2) at a rate per annum fixed by the local authority, except that the interest rate, when fixed, must not exceed the rate charged to the local authority by its bank for its day-to-day cash account.
@@ -496,7 +496,7 @@ A local authority may correct an error in the rating information database or rat
 **Notice to ratepayers of rates liability**
 
 ### 44 Notice of rates assessment
-(1) A local authority must deliver a rates assessment to a ratepayer to give notice of the ratepayer's liability for rates on a rating unit.
+(1) A local authority must deliver a rates assessment to a ratepayer to give notice of the ratepayer’s liability for rates on a rating unit.
 (2) A ratepayer is liable for rates on a rating unit when the local authority delivers the rates assessment for that unit to the ratepayer.
 
 ### 45 Contents of rates assessment
@@ -514,7 +514,7 @@ A local authority may correct an error in the rating information database or rat
   (i) information on the factors used to calculate the amount of the liability of a rating unit in respect of each targeted rate:
   (j) the financial year for which the rates are payable:
   (k) the total amount of rates payable on the rating unit for the financial year:
-  (l) whether or not the local authority has a remission policy, a postponement policy, or a rates relief policy for Maori freehold land and, if so, a brief description of the criteria for rates relief under each policy:
+  (l) whether or not the local authority has a remission policy, a postponement policy, or a rates relief policy for Māori freehold land and, if so, a brief description of the criteria for rates relief under each policy:
   (m) the methods by which rates may be paid and the date or, if the rates are payable by instalments, the dates by which specified amounts must be paid:
   (n) if applicable,—
     (i) the penalty regime of the local authority; and
@@ -526,7 +526,7 @@ A local authority may correct an error in the rating information database or rat
   (p) the right of ratepayers to—
     (i) inspect the rating information database and rates records; and
     (ii) object to any of the information included in the rating information database and rates records.
-(1A) If the ratepayer has elected to make a lump sum contribution to a local authority's capital project, the rates assessment must also identify the targeted rates for the financial year for which, as a result of the election, no liability attaches to the rating unit.
+(1A) If the ratepayer has elected to make a lump sum contribution to a local authority’s capital project, the rates assessment must also identify the targeted rates for the financial year for which, as a result of the election, no liability attaches to the rating unit.
 (2) A rates assessment may include any other information that the local authority thinks fit.
 (3) A rates assessment may be in 2 or more parts to identify the different treatment, for rating purposes, of different parts of a rating unit.
 (4) If subsection (3) applies,—
@@ -557,7 +557,7 @@ A local authority may correct an error in the rating information database or rat
 
 ### 47 Issue of amended rates invoice
 (1) If a rates invoice is incorrect as to the amount of rates payable by a ratepayer in respect of a rating unit, an amended invoice must be delivered to the ratepayer in accordance with section 46 setting out the correct liability of the ratepayer as to the amount of rates due for the rating unit.
-(2) The ratepayer's liability to pay is not affected by the fact that correction of the rates invoice is required.
+(2) The ratepayer’s liability to pay is not affected by the fact that correction of the rates invoice is required.
 (3) If an amended rates invoice is required under subsection (1),—
   (a) there is no limit as to the time by which delivery must be made:
   (b) penalties must not be charged on the difference between the amount stated on the incorrect rates invoice and the amount stated on the amended invoice before a date 14 days after delivery of the amended invoice.
@@ -570,7 +570,7 @@ A local authority may correct an error in the rating information database or rat
 ### 49 Late delivery of rates invoice
 If the rates invoice is not delivered at least 14 days before the due date, the rates payment is not due until 14 days after the rates invoice has been delivered to the ratepayer of the rating unit.
 
-### 50 Rates invoice based on previous year's rates
+### 50 Rates invoice based on previous year’s rates
 (1) A local authority may deliver a rates invoice for not more than 25% of the rates that are payable in the previous year if it is not able to deliver a rates assessment at least 14 days before—
   (a) the date on which the first payment of rates for the current year is payable in a case where the rates have been set by resolution of the local authority under section 23; or
   (b) the date 1 calendar year after the date when the first payment of rates for the previous year was payable in a case where no resolution has been made under section 23.
@@ -603,7 +603,7 @@ If the rates invoice is not delivered at least 14 days before the due date, the 
 (1) Despite the other provisions of this Act, if the rates payable on a rating unit in a financial year are, in the opinion of a local authority, uneconomic to collect, it may decide not to collect them.
 (2) If a local authority decides, under subsection (1), not to collect the rates,—
   (a) the ratepayer of the rating unit is not liable to pay the rates; and
-  (b) No penalties may be added to the unpaid rates.
+  (b) no penalties may be added to the unpaid rates.
 (3) If subsection (1) applies, the local authority—
   (a) must notify the ratepayer that the local authority has decided not to collect the rates; and
   (b) may, if a rates assessment for that rating unit has not been delivered,—
@@ -716,7 +716,7 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
 (2) Section 20 of the Limitation Act 1950 applies to subsection (1).
 (3) If a charging order for a judgment for rates is registered against a rating unit, the ratepayer must not register a dealing against the unit without the consent of the local authority.
 (4) This section applies to a charging order made under this Act or under the Rating Powers Act 1988.
-(5) This section and sections 67 to 83 do not apply to Maori freehold land or to the rates payable in respect of Maori freehold land.
+(5) This section and sections 67 to 83 do not apply to Māori freehold land or to the rates payable in respect of Māori freehold land.
 
 **Rating sales and leases**
 
@@ -743,10 +743,10 @@ A person must not refuse to pay rates on the ground that the rates are invalid u
     (i) the amount of the judgment and costs; and
     (ii) interest fixed by the local authority on the amount of the judgment and costs; and
     (iii) all rates due on the unit up to the date of payment; and
-    (iv) the Registrar's charges.
+    (iv) the Registrar’s charges.
 
 ### 69 Service of notice
-The notice required under section 68 must be served in 1 of the following ways:
+The notice required under section 68 must be served in one of the following ways:
   (a) by personal service:
   (b) by being left at, or posted to, the usual address of the person receiving the notice:
   (c) if the person receiving the notice is absent from New Zealand, but has an agent or attorney in New Zealand, by being served on the agent or attorney:
@@ -788,7 +788,7 @@ The notice required under section 68 must be served in 1 of the following ways:
 
 ### 75 Application of proceeds of rating sale or lease
 The proceeds of a sale or lease under section 71 or section 72 must be applied in the following order:
-  (a) the Registrar's fee:
+  (a) the Registrar’s fee:
   (b) the judgment, and any interest, costs, and disbursements:
   (c) any other unsatisfied judgment for rates for the same rating unit, with any interest, costs, and disbursements:
   (d) any other rates due at the date of the sale or lease of the same rating unit, whether or not those rates are still recoverable under section 65 (including, in the case of a lease, the rates (if any) that are or become due on the unit from the person on whose behalf the unit was leased while the Registrar received rents from it):
@@ -825,7 +825,7 @@ The proceeds of a sale or lease under section 71 or section 72 must be applied i
 ### 78 Court may order sale or lease of abandoned land
 If the District Court is satisfied that section 77 has been complied with, it may make an order to—
   (a) declare the land to be abandoned; and
-  (b) authorise the local authority to sell or lease the land under sections 79 to 83, subject to any advertising requirements that the Court thinks appropriate.
+  (b) authorise the local authority to sell or lease the land under sections 79 to 83, subject to any advertising requirements that the court thinks appropriate.
 
 ### 79 Conduct of sale or lease of abandoned land
 (1) A sale or lease of abandoned land must be by public auction or public tender.
@@ -924,20 +924,20 @@ The local authority must record the remitted rates—
   (b) in any other case, by a description adequate for the purposes of this section which may include a plan.
 (7) For the purposes of this section, Registrar means the Registrar-General of Land.
 
-## Part 4 — Rating of Maori freehold land
+## Part 4 — Rating of Māori freehold land
 
-### 91 Liability of Maori freehold land for rates
-Except where this Part otherwise provides, Maori freehold land is liable for rates in the same manner as if it were general land.
+### 91 Liability of Māori freehold land for rates
+Except where this Part otherwise provides, Māori freehold land is liable for rates in the same manner as if it were general land.
 
 **District valuation rolls**
 
 ### 92 Recording name of ratepayer
-(1) If Maori freehold land is owned legally and beneficially by 1 or 2 owners, the names of the owners must be entered as ratepayers in the rating information database and the district valuation roll.
-(2) If an entire rating unit that comprises Maori freehold land in multiple ownership is leased, the name of the lessee must be entered as the ratepayer in the rating information database and the district valuation roll, unless the lessor advises the local authority, or the lessee produces proof, that the lease provides for the lessor to be liable to pay the rates.
-(3) If an entire rating unit that comprises Maori freehold land in multiple ownership is subject to an occupation order made by the Maori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision), the name of the person in whose favour the order is made must be entered as the ratepayer in the rating information database and the district valuation roll, unless the order provides for the owners or trustees, as the case may be, to be liable to pay the rates.
+(1) If Māori freehold land is owned legally and beneficially by 1 or 2 owners, the names of the owners must be entered as ratepayers in the rating information database and the district valuation roll.
+(2) If an entire rating unit that comprises Māori freehold land in multiple ownership is leased, the name of the lessee must be entered as the ratepayer in the rating information database and the district valuation roll, unless the lessor advises the local authority, or the lessee produces proof, that the lease provides for the lessor to be liable to pay the rates.
+(3) If an entire rating unit that comprises Māori freehold land in multiple ownership is subject to an occupation order made by the Māori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision), the name of the person in whose favour the order is made must be entered as the ratepayer in the rating information database and the district valuation roll, unless the order provides for the owners or trustees, as the case may be, to be liable to pay the rates.
 (4) If subsection (2) or subsection (3) do not apply, the following names or descriptions must be entered as ratepayers in the rating information database and the district valuation roll:
-  (a) for Maori freehold land owned by more than 2 persons who are not trustees, the words the owners:
-  (b) for Maori freehold land vested in trustees, the names and designations of the trustees.
+  (a) for Māori freehold land owned by more than 2 persons who are not trustees, the words the owners:
+  (b) for Māori freehold land vested in trustees, the names and designations of the trustees.
 (5) For the purposes of this Part,—
   - **lease** includes a tenancy at will, and any other tenancy that confers a leasehold interest upon the tenant, whether at law or in equity
   - **trustee** includes a body corporate constituted under Part 13 of Te Ture Whenua Maori Act 1993.
@@ -947,16 +947,16 @@ Except where this Part otherwise provides, Maori freehold land is liable for rat
 **Land vested in trustees**
 
 ### 93 Limitation on trustee liability
-If trustees are liable to pay the rates on rateable Maori freehold land,—
+If trustees are liable to pay the rates on rateable Māori freehold land,—
   (a) the rates must be paid out of income derived from the land and received by the trustees for the beneficial owners of the land; and
   (b) the trustees are liable for rates only to the extent of the money derived from the land and received by the trustees on behalf of the beneficial owner or owners.
 
-**Maori freehold land in multiple ownership**
+**Māori freehold land in multiple ownership**
 
 ### 94 Appointment of person to receive notices
-(1) Unless section 92(2) applies, or the land is vested in trustees, this section applies to rateable Maori freehold land in multiple ownership.
-(2) Unless it would be unreasonable or impracticable to do so, the Maori Land Court, on application by the local authority, must appoint 1 of the owners, or an agent of the owners, to receive rates assessments and rates invoices for Maori freehold land in multiple ownership.
-(3) The name of the owner or agent appointed under subsection (2) must be entered as the ratepayer in the rating information database and the district valuation roll, followed by the words (Court appointee).
+(1) Unless section 92(2) applies, or the land is vested in trustees, this section applies to rateable Māori freehold land in multiple ownership.
+(2) Unless it would be unreasonable or impracticable to do so, the Māori Land Court, on application by the local authority, must appoint one of the owners, or an agent of the owners, to receive rates assessments and rates invoices for Māori freehold land in multiple ownership.
+(3) The name of the owner or agent appointed under subsection (2) must be entered as the ratepayer in the rating information database and the district valuation roll, followed by the words (court appointee).
 
 ### 95 Effect of appointment of owner or agent
 (1) An appointment of an owner or agent under section 94(2) applies solely for the purpose of section 94.
@@ -964,10 +964,10 @@ If trustees are liable to pay the rates on rateable Maori freehold land,—
 (3) If there has been an appointment under section 94(2), the rates assessment must be delivered to the appointee under section 44.
 (4) The delivery of a rates assessment under section 44 to an appointee does not make the appointee liable for the rates on the relevant land, except to the extent that the person would otherwise be liable.
 
-**Person actually using Maori freehold land in multiple ownership**
+**Person actually using Māori freehold land in multiple ownership**
 
 ### 96 Person actually using land liable for rates
-(1) A person actually using Maori freehold land in multiple ownership that is not vested in a trustee is liable for the rates on that land.
+(1) A person actually using Māori freehold land in multiple ownership that is not vested in a trustee is liable for the rates on that land.
 (2) For the purposes of this Part, person actually using land means a person who, alone or with others,—
   (a) leases the land; or
   (b) does 1 or more of the following things on the land for profit or other benefit:
@@ -981,8 +981,8 @@ If trustees are liable to pay the rates on rateable Maori freehold land,—
 (4) This section overrides section 12.
 
 ### 97 Rates assessment delivered to person actually using land
-(1) If section 96 applies, the rates assessment and rates invoice must be delivered to the person actually using the rateable Maori freehold land.
-(2) A person to whom section 96 applies and who is actually using part of the rateable Maori freehold land during a financial year must be treated as having used the whole of that land for the whole of that financial year unless that person establishes otherwise.
+(1) If section 96 applies, the rates assessment and rates invoice must be delivered to the person actually using the rateable Māori freehold land.
+(2) A person to whom section 96 applies and who is actually using part of the rateable Māori freehold land during a financial year must be treated as having used the whole of that land for the whole of that financial year unless that person establishes otherwise.
 (3) This section overrides sections 44 and 46.
 
 ### 98 Recovery of unpaid rates from person actually using land
@@ -995,16 +995,16 @@ In proceedings under section 63 for the recovery of unpaid rates against a perso
 **Charging orders**
 
 ### 99 Application for charging order
-(1) If the rates payable on rateable Maori freehold land are unpaid 6 months after the due date, the local authority may apply to the Maori Land Court for an order charging the unpaid rates against the land.
+(1) If the rates payable on rateable Māori freehold land are unpaid 6 months after the due date, the local authority may apply to the Māori Land Court for an order charging the unpaid rates against the land.
 (2) No application under subsection (1) may be made for an order charging a sum of less than $50.
 (3) An application under subsection (1) may not be made later than 6 years after the date on which—
   (a) the rates became due in that financial year in the case of rates payable in 1 payment in a financial year; or
   (b) the last payment of rates became due in that financial year in the case of rates payable by more than 1 payment in a financial year.
 (4) Section 82 of Te Ture Whenua Maori Act 1993 does not apply to a charging order made under this Part.
 
-### 100 Matters that must be taken into account by Maori Land Court
-(1) In a hearing by the Maori Land Court of an application made under section 99, the Maori Land Court must have regard to—
-  (a) the area and location of Maori freehold land in respect of which rates are unpaid; and
+### 100 Matters that must be taken into account by Māori Land Court
+(1) In a hearing by the Māori Land Court of an application made under section 99, the Māori Land Court must have regard to—
+  (a) the area and location of Māori freehold land in respect of which rates are unpaid; and
   (b) the name of any person actually using all or part of the rating unit during the period that the rates were unpaid; and
   (c) whether that person has an interest in the land; and
   (d) the purpose for which that person used the land during the period the rates were unpaid; and
@@ -1015,9 +1015,9 @@ In proceedings under section 63 for the recovery of unpaid rates against a perso
   (i) the objectives set out in section 17(1) of Te Ture Whenua Maori Act 1993.
 (2) Any defence that is available to a ratepayer is open to the owners of the land or their representatives.
 
-### 101 Powers of Maori Land Court to make charging order
-(1) If the Maori Land Court is satisfied, after hearing an application made under section 99, that the rates are payable and have been unpaid for more than 6 months since the due date, the Court must make a charging order against the land in favour of the local authority for the amount of the unpaid rates and the cost of obtaining the charging order.
-(2) Despite subsection (1), the Court must not make an order unless it is satisfied,—
+### 101 Powers of Māori Land Court to make charging order
+(1) If the Māori Land Court is satisfied, after hearing an application made under section 99, that the rates are payable and have been unpaid for more than 6 months since the due date, the court must make a charging order against the land in favour of the local authority for the amount of the unpaid rates and the cost of obtaining the charging order.
+(2) Despite subsection (1), the court must not make an order unless it is satisfied,—
   (a) if the land is vested in trustees, that all reasonable steps have been taken by the local authority to obtain payment of the rates from the trustees; or
   (b) if a person is liable to pay the rates because section 96 applies, that—
     (i) the local authority has taken proceedings against that person to recover judgment for all or some of the rates and has been unable to recover the amount of the judgment; or
@@ -1025,13 +1025,13 @@ In proceedings under section 63 for the recovery of unpaid rates against a perso
 (3) Subsection (2) does not override section 108.
 
 ### 102 Charging order must be registered
-A charging order made by the Maori Land Court under section 101(1) must be registered in accordance with the provisions of section 123 or section 124 of Te Ture Whenua Maori Act 1993, as the case may require, with the necessary modifications.
+A charging order made by the Māori Land Court under section 101(1) must be registered in accordance with the provisions of section 123 or section 124 of Te Ture Whenua Maori Act 1993, as the case may require, with the necessary modifications.
 
 ### 103 Charging order in favour of owner paying rates
-(1) An owner of Maori freehold land in multiple ownership who has paid the rates on that land may apply to the Maori Land Court for a charging order against the land for the excess amount of rates paid by that owner.
-(2) In this section, excess amount, in relation to an owner, means the amount paid by an owner in excess of the rates properly apportionable to that owner's interest in the land.
-(3) The Maori Land Court may make a charging order in favour of that owner for the excess amount if the Court is satisfied that the amount paid by the owner is an excess amount.
-(4) Despite subsections (1) to (3), the Court must not make an order unless it is satisfied,—
+(1) An owner of Māori freehold land in multiple ownership who has paid the rates on that land may apply to the Māori Land Court for a charging order against the land for the excess amount of rates paid by that owner.
+(2) In this section, excess amount, in relation to an owner, means the amount paid by an owner in excess of the rates properly apportionable to that owner’s interest in the land.
+(3) The Māori Land Court may make a charging order in favour of that owner for the excess amount if the court is satisfied that the amount paid by the owner is an excess amount.
+(4) Despite subsections (1) to (3), the court must not make an order unless it is satisfied,—
   (a) if the land is vested in trustees, that all reasonable steps have been taken by the local authority to obtain payment of the rates from the trustees; or
   (b) if a person is liable to pay the rates because section 96 applies, that—
     (i) the local authority has taken proceedings against that person to recover judgment for the amount of the rates, or an appropriate portion of the rates, and has been unable to recover the amount of the judgment; or
@@ -1043,27 +1043,27 @@ A charging order made by the Maori Land Court under section 101(1) must be regis
 ### 104 Effect of charging order
 If a charging order is made under section 101, no owner may deal with the land except—
   (a) with the consent of the local authority; or
-  (b) with the leave of the Maori Land Court.
+  (b) with the leave of the Māori Land Court.
 
 ### 105 Charging order in force until discharged
-(1) A charging order made against Maori freehold land under section 101 (or under the corresponding section of a former Act) is in force until it is discharged.
+(1) A charging order made against Māori freehold land under section 101 (or under the corresponding section of a former Act) is in force until it is discharged.
 (2) Subsection (1) does not override section 113 of this Act or section 20 of the Limitation Act 1950.
 
 ### 106 Consolidation of charging orders
-The Maori Land Court may consolidate more than 1 order against the same land into 1 order for the total amount of rates due and discharge previous charging orders.
+The Māori Land Court may consolidate more than 1 order against the same land into 1 order for the total amount of rates due and discharge previous charging orders.
 
 ### 107 Charging order apportioned if land partitioned
 (1) If a rating unit subject to a charging order made under section 101 is partitioned, the charging order must be apportioned according to the area of each partition.
-(2) Despite subsection (1), the Maori Land Court, in its discretion, may make an order that apportions the charge in any other manner that it considers fair and equitable.
+(2) Despite subsection (1), the Māori Land Court, in its discretion, may make an order that apportions the charge in any other manner that it considers fair and equitable.
 
 **Enforcement of charging orders**
 
-### 108 Maori Land Court may enforce charging order
-(1) If a charging order made under section 101 remains unsatisfied for 6 months, the local authority may apply to the Maori Land Court to enforce the charging order under subsection (2).
-(2) If the Maori Land Court is satisfied that it would not be contrary to the interests of the owners to do so, it must, without further application, enforce the charging order by—
+### 108 Māori Land Court may enforce charging order
+(1) If a charging order made under section 101 remains unsatisfied for 6 months, the local authority may apply to the Māori Land Court to enforce the charging order under subsection (2).
+(2) If the Māori Land Court is satisfied that it would not be contrary to the interests of the owners to do so, it must, without further application, enforce the charging order by—
   (a) appointing a receiver under section 83 of Te Ture Whenua Maori Act 1993 in respect of the relevant land for the purpose of enforcing the charging order; or
   (b) constituting an ahu whenua trust under section 215 of Te Ture Whenua Maori Act 1993.
-(3) The Maori Land Court must not make an order under subsection (2) unless it has first—
+(3) The Māori Land Court must not make an order under subsection (2) unless it has first—
   (a) considered whether the land is capable of producing an income that would enable the payment of rates on the land in the future; and
   (b) heard evidence and submissions put forward by any owners of the land and by the local authority.
 
@@ -1072,16 +1072,16 @@ An order made under section 108(2)—
   (a) must provide for the receiver or trustees, as the case may be, to satisfy the charging order; and
   (b) may authorise the receiver or trustees, as the case may be, on behalf of the owners, to recover—
     (i) money from any other person for the past use of the land by that person; or
-    (ii) the amount of rates payable for that land during that person's use of the land.
+    (ii) the amount of rates payable for that land during that person’s use of the land.
 
 ### 110 Cancellation of order to enforce charging order
-The Maori Land Court must cancel an order made under section 108(2) if, within 2 months after the making of that order, an owner of the land satisfies the Court that—
+The Māori Land Court must cancel an order made under section 108(2) if, within 2 months after the making of that order, an owner of the land satisfies the court that—
   (a) all outstanding rates have been paid; and
   (b) proper provision has been made for the payment of future rates.
 
-### 111 Maori Land Court may make order for payment
-(1) If the Maori Land Court has made a charging order under section 101, the Court may, on application from the local authority, make an order for the payment of unpaid rates by the Maori Trustee or any other person who holds, or is entitled to receive, on trust for the owners of the land, any money derived from the land.
-(2) Before making an order under subsection (1), the Court must be satisfied that there is a person liable for the satisfaction of the charging order and must give notice to that person of the application by the local authority for an order for payment under subsection (1).
+### 111 Māori Land Court may make order for payment
+(1) If the Māori Land Court has made a charging order under section 101, the court may, on application from the local authority, make an order for the payment of unpaid rates by the Māori Trustee or any other person who holds, or is entitled to receive, on trust for the owners of the land, any money derived from the land.
+(2) Before making an order under subsection (1), the court must be satisfied that there is a person liable for the satisfaction of the charging order and must give notice to that person of the application by the local authority for an order for payment under subsection (1).
 (3) An order made under subsection (1) may require any money that is held in trust for the liable person to be applied in payment of the rates to which the charging order relates.
 
 **Discharge of charging orders**
@@ -1091,12 +1091,12 @@ The Maori Land Court must cancel an order made under section 108(2) if, within 2
   (a) the rates for the land subject to the charging order have been paid; or
   (b) the rates have been remitted by the local authority under section 85.
 (2) If subsection (1) applies, either—
-  (a) the Maori Land Court must, by order of the Court, discharge the charging order; or
+  (a) the Māori Land Court must, by order of the court, discharge the charging order; or
   (b) the local authority must discharge the charging order in writing.
-(3) If the rates are paid in part or are remitted in part, the Maori Land Court or the local authority, as the case may be, must discharge the charging order in proportion to the amount of the rates paid or the amount for which the rates are remitted.
+(3) If the rates are paid in part or are remitted in part, the Māori Land Court or the local authority, as the case may be, must discharge the charging order in proportion to the amount of the rates paid or the amount for which the rates are remitted.
 
 ### 113 Notation and registration of discharge
-(1) If a discharge of a charging order is granted under section 112, the Registrar of the Maori Land Court must endorse the charging order,—
+(1) If a discharge of a charging order is granted under section 112, the Registrar of the Māori Land Court must endorse the charging order,—
   (a) if the discharge relates to the full amount of the unpaid rates, as being discharged in full; and
   (b) if the discharge relates to part of the unpaid rates, as being partially discharged, both as to the amount of the rates remaining unpaid and the portion of the land affected by the charging order.
 (2) A discharge referred to in section 112 must be registered in accordance with the provisions of section 123 or section 124 of Te Ture Whenua Maori Act 1993, as the case may require, with any necessary modifications.
@@ -1105,30 +1105,30 @@ The Maori Land Court must cancel an order made under section 108(2) if, within 2
 **Remission, postponement, and exemption of rates**
 
 ### 114 Remission of rates
-(1) A local authority may remit all or part of the rates (including penalties for unpaid rates) on Maori freehold land if—
-  (a) its policy on the remission and postponement of rates on Maori freehold land adopted under section 102(4)(f) of the Local Government Act 2002 includes provision for the remission of the rates; and
+(1) A local authority may remit all or part of the rates (including penalties for unpaid rates) on Māori freehold land if—
+  (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(4)(f) of the Local Government Act 2002 includes provision for the remission of the rates; and
   (b) the local authority is satisfied that the conditions and criteria in the policy are met.
 (2) Sections 85(2) and 86 apply to a remission made under subsection (1).
-(3) This section does not limit the application of section 85 to Maori freehold land.
+(3) This section does not limit the application of section 85 to Māori freehold land.
 
 ### 115 Postponement of requirement to pay rates
-(1) A local authority must postpone the requirement to pay all or part of the rates on Maori freehold land (including penalties for unpaid rates) if—
-  (a) its policy on the remission and postponement of rates on Maori freehold land adopted under section 102(4)(f) of the Local Government Act 2002 includes provision for the postponement of the requirement to pay rates; and
+(1) A local authority must postpone the requirement to pay all or part of the rates on Māori freehold land (including penalties for unpaid rates) if—
+  (a) its policy on the remission and postponement of rates on Māori freehold land adopted under section 102(4)(f) of the Local Government Act 2002 includes provision for the postponement of the requirement to pay rates; and
   (b) the ratepayer has applied in writing for a postponement; and
   (c) the local authority is satisfied that the conditions and criteria in the policy are met.
 (2) Sections 87(2), and 88 to 90 apply to postponements made under subsection (1).
-(3) This section does not limit the application of section 87 to Maori freehold land.
+(3) This section does not limit the application of section 87 to Māori freehold land.
 
-### 116 Exemption of Maori freehold land from rates
-(1) The Governor-General, by Order in Council made on the recommendation of the Maori Land Court and with the consent of the local authority in whose district the land is situated, may exempt Maori freehold land, as specified in the order, from some or all liability for rates.
+### 116 Exemption of Māori freehold land from rates
+(1) The Governor-General, by Order in Council made on the recommendation of the Māori Land Court and with the consent of the local authority in whose district the land is situated, may exempt Māori freehold land, as specified in the order, from some or all liability for rates.
 (2) An order made under subsection (1) may, at any time, be varied or cancelled by Order in Council.
 (3) In determining whether to consent to an order under subsection (1) or whether to seek an order under subsection (2), the local authority must consider—
-  (a) the provisions of the policy on the remission and postponement of rates on Maori freehold land adopted by the local authority under section 102(4)(f) of the Local Government Act 2002; and
-  (b) the objectives set out in Schedule 11 of the Local Government Act 2002
+  (a) the provisions of the policy on the remission and postponement of rates on Māori freehold land adopted by the local authority under section 102(4)(f) of the Local Government Act 2002; and
+  (b) the objectives set out in Schedule 11 of the Local Government Act 2002.
 
 ### 117 Effect of exemption
 (1) An order made under section 116 may—
-  (a) apply to specified Maori freehold land or to any specified class of that land; and
+  (a) apply to specified Māori freehold land or to any specified class of that land; and
   (b) release the persons liable from liability for rates that were unpaid before the order was made.
 (2) If an order is made under section 116, the local authority must write off any rates referred to in subsection (1)(b).
 
@@ -1151,7 +1151,7 @@ In this Part, unless the context otherwise requires,—
 (3) A funding plan must—
   (a) commence at the start of a financial year; and
   (b) contain the matters required under section 117E(1); and
-  (c) be adopted as part of the local authority's—
+  (c) be adopted as part of the local authority’s—
     (i) annual plan; or
     (ii) long-term council community plan (or as an amendment to its long-term council community plan).
 (4) In developing a funding plan, a local authority must give equal weight to the financial interests of those ratepayers who may elect to make a lump sum contribution and those who may decide not to do so.
@@ -1207,7 +1207,7 @@ No local authority may require a ratepayer to pay a lump sum contribution to a c
   (b) that apply to a rating unit whether or not the ratepayer in respect of the rating unit has elected to make a lump sum contribution.
 
 ### 117I Lump sum contribution invoice
-(1) This section applies to a rating unit in respect of which the eligible ratepayer has elected to make a lump sum contribution to a local authority's capital project.
+(1) This section applies to a rating unit in respect of which the eligible ratepayer has elected to make a lump sum contribution to a local authority’s capital project.
 (2) The local authority must deliver to the ratepayer in respect of the rating unit—
   (a) an invoice for the full contribution, if the lump sum contribution is to be paid in one amount; or
   (b) an invoice for each instalment, if the lump sum contribution is to be paid in instalments.
@@ -1265,7 +1265,7 @@ No local authority may require a ratepayer to pay a lump sum contribution to a c
 ### 117N Late payment or non-payment of lump sum contribution
 (1) This section applies if—
   (a) an eligible ratepayer has elected to make a lump sum contribution to a capital project in respect of a rating unit; and
-  (b) the eligible ratepayer (or any other person who is for the time being the ratepayer) in respect of the rating unit does not pay the contribution, or a contribution instalment, by its due date (including any amount due under section 117M(4)(b).
+  (b) the eligible ratepayer (or any other person who is for the time being the ratepayer) in respect of the rating unit does not pay the contribution, or a contribution instalment, by its due date (including any amount due under section 117M(4)(b)).
 (2) The local authority concerned may either—
   (a) cancel the election; or
   (b) recover the amount owing in a court of competent jurisdiction as a debt due.
@@ -1312,10 +1312,10 @@ In this subpart, unless the context otherwise requires,—
     (iii) a relevant change in circumstances; and
   (b) setting the rate again will not increase the amount of rates assessed to any rating unit.
 (3) A local authority may set a rate again only if—
-  (a) it has given 14 days' public notice of its intention to set the rate again; and
-  (b) it complies with the local authority's standing orders for the revocation and alteration of resolutions.
+  (a) it has given 14 days’ public notice of its intention to set the rate again; and
+  (b) it complies with the local authority’s standing orders for the revocation and alteration of resolutions.
 (4) Notice under subsection (3) must include—
-  (a) the information in relation to the rate that was, or would otherwise have been, required to be included in the local authority's long-term council community plan or annual plan; and
+  (a) the information in relation to the rate that was, or would otherwise have been, required to be included in the local authority’s long-term council community plan or annual plan; and
   (b) a statement of the reason why the local authority has determined that it is desirable to set the rate again.
 (5) If setting the rate again results in a change to the amount of rates to be assessed to any rating unit,—
   (a) the rates record for the rating unit must be corrected as soon as practicable; and
@@ -1468,14 +1468,14 @@ A Judge, Justice, or Community Magistrate must not be treated as interested in a
 (1) This section applies to the notification of a matter and the delivery of a notice, including a rates assessment or rates invoice.
 (2) The notice must be in writing and must be sent or delivered—
   (a) personally; or
-  (b) by post addressed to the person at the person's—
+  (b) by post addressed to the person at the person’s—
     (i) postal address, as notified to the local authority by the person; or
     (ii) last known business or residential address; or
-  (c) by fax addressed to the person at the person's fax number; or
+  (c) by fax addressed to the person at the person’s fax number; or
   (d) by any other means (including electronic means) acceptable to the person.
 (3) A notice that is posted to a person must be treated as received by that person not later than 7 days after the date on which it is posted.
 (4) A notice that is sent to a person at a fax number or electronic address must be treated as received by that person not later than 2 days after the date on which it is sent.
-(5) However, a notice must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person's part.
+(5) However, a notice must not be treated as received if the person to whom it is posted or sent proves that it was not received, otherwise than through fault on the person’s part.
 
 **Amendments, savings, repeals of other enactments, and transitional provisions**
 
@@ -1548,149 +1548,212 @@ Nothing in this Act limits the effect of a provision in another Act that allows 
 
 ## Schedule 1 — Categories of non-rateable land
 
+### 1
+Land forming part of—
+(a) a National Park under the National Parks Act 1980:
+(b) a reserve under the Reserves Act 1977:
+(c) a conservation area under the Conservation Act 1987:
+(d) a wildlife management reserve, wildlife refuge, or wildlife sanctuary under the Wildlife Act 1953.
+
+### 2
+Land vested in the Crown and forming part of—
+(a) a flood ponding area:
+(b) any foreshore:
+(c) the bed of the territorial sea:
+(d) the bed of any navigable lake or navigable river.
+
+### 3
+Land that is—
+(a) owned by a society or association of persons (whether incorporated or not); and
+(b) used for conservation or preservation purposes; and
+(c) not used for private pecuniary profit; and
+(d) able to be accessed by the general public.
+
+### 4
+Land used by a local authority—
+(a) for a public garden, reserve, or children’s playground:
+(b) for games and sports (except galloping races, harness races, or greyhound races):
+(c) for a public hall, library, athenaeum, museum, art gallery, or other similar institution:
+(d) for public baths, swimming baths, bathhouses, or sanitary conveniences:
+(e) for soil conservation and rivers control purposes, being land for which no revenue is received.
+
+### 5
+Land owned or used by, and for the purposes of,—
+(a) the New Zealand Historic Places Trust:
+(b) the Queen Elizabeth the Second National Trust:
+(c) the Museum of New Zealand Te Papa Tongarewa Board:
+(d) the charitable trust known as Children’s Health Camps—The New Zealand Foundation for Child and Family Health and Development:
+(e) the Royal New Zealand Foundation of the Blind, except as an endowment.
+
+### 6
+Land owned or used by, and for the purposes of,—
+(a) a special school established under section 98(1) of the Education Act 1964:
+(b) an educational establishment defined as—
+  (i) a state school under section 2(1) of the Education Act 1989:
+  (ii) an integrated school under section 2(1) of the Private Schools Conditional Integration Act 1975:
+  (iii) a special institution under section 92(1) of the Education Act 1989:
+  (iv) an early childhood education and care centre under section 309 of the Education Act 1989, excluding any early childhood centres that operate for profit:
+  (v) a school under section 35A of the Education Act 1989, excluding any registered schools that operate for profit:
+(c) an institution under section 159(1) of the Education Act 1989.
+
+### 7
+Land owned or used by, and for the purposes of, an institution for the instruction and training of students in theology and associated subjects, being land that does not exceed 1.5 hectares for any one institution.
+
+### 8
+Land owned or used by a district health board and used to provide health or related services (including living accommodation for hospital purposes and child welfare homes).
+
+### 9
+Land used solely or principally—
+(a) as a place of religious worship:
+(b) for a Sunday or Sabbath school or other form of religious education and not used for private pecuniary profit.
+
+### 10
+Land that does not exceed 2 hectares and that is used as—
+(a) a cemetery, crematorium, or burial ground, within the meaning of section 2(1) of the Burial and Cremation Act 1964 (except a burial ground or crematorium that is owned and conducted for private pecuniary profit):
+(b) a Māori burial ground.
+
+### 11
+Māori customary land.
+
+### 12
+Land that is set apart under section 338 of Te Ture Whenua Maori Act 1993 or any corresponding former provision of that Act and—
+(a) that is used for the purposes of a marae or meeting place and that does not exceed 2 hectares; or
+(b) that is a Māori reservation under section 340 of that Act.
+
+### 13
+Māori freehold land that does not exceed 2 hectares and on which a Māori meeting house is erected.
+
+### 14
+Māori freehold land that is, for the time being, non-rateable by virtue of an Order in Council made under section 116 of this Act, to the extent specified in the order.
+
+### 15
+Machinery, whether fixed to the soil or not, but excluding, in the case of a hydro-electric power station, everything other than the turbines, generator, and associated equipment through which the electricity produced by the generator passes.
+
+### 16
+Land that is specifically exempt from rates under the provisions of any other enactment, to the extent specified in the enactment.
+
+### 17
+Land vested in the Crown or a local authority that is formed and used for a road, limited access road, access way, or service lane.
+
+### 18
+Land vested in and occupied by the Crown, or by any airport authority, that is—
+(a) within the operational area of an aerodrome; and
+(b) used solely or principally—
+  (i) for the landing, departure, or movement of aircraft; or
+  (ii) for the loading of goods and passengers on to or from aircraft.
+
+### 19
+Land occupied by the New Zealand Railways Corporation, or by a railway operator, that is—
+(a) part of the permanent way of the railway, being land on which is sited any railway line together with contiguous areas of land that are occupied incidentally and not otherwise used; or
+(b) used, solely or principally, for the loading or unloading of goods or passengers on to or from trains situated on the railway line.
+
+### 20
+Land used as a wharf.
+
+### 21
+Land used or occupied by, or for the purposes of, an institution that is carried on for the free maintenance or relief of persons in need, being land that does not exceed 1.5 hectares for any one institution.
+
+### 22
+Land on which any vice-regal residence or Parliament building is situated.
+
+### 1
+Land owned or used by a society incorporated under the Agricultural and Pastoral Societies Act 1908 as a showground or place of meeting.
+
+### 2
+Land owned or used by a society or association of persons (whether incorporated or not) for games or sports, except galloping races, harness races, or greyhound races.
+
+### 3
+Land owned or used by a society or association of persons (whether incorporated or not) for the purpose of any branch of the arts.
+
 ## Schedule 2 — Matters that may be used to define categories of rateable land
 
+### 1
+The use to which the land is put.
+
+### 2
+The activities that are permitted, controlled, or discretionary for the area in which the land is situated, and the rules to which the land is subject under an operative district plan or regional plan under the Resource Management Act 1991.
+
+### 3
+The activities that are proposed to be permitted, controlled, or discretionary activities, and the proposed rules for the area in which the land is situated under a proposed district plan or proposed regional plan under the Resource Management Act 1991, but only if—
+(a) no submissions in opposition have been made under clause 6 of Schedule 1 of that Act on those proposed activities or rules, and the time for making submissions has expired; or
+(b) all submissions in opposition, and any appeals, have been determined, withdrawn, or dismissed.
+
+### 4
+The area of land within each rating unit.
+
+### 5
+The provision or availability to the land of a service provided by, or on behalf of, the local authority.
+
+### 6
+Where the land is situated.
+
+### 7
+The annual value of the land.
+
+### 8
+The capital value of the land.
+
+### 9
+The land value of the land.
+
 ## Schedule 3 — Factors that may be used in calculating liability for targeted rates
+
+### 1
+The annual value of the rating unit.
+
+### 2
+The capital value of the rating unit.
+
+### 3
+The land value of the rating unit.
+
+### 4
+The value of improvements to the rating unit.
+
+### 5
+The area of land within the rating unit.
+
+### 6
+The area of land within the rating unit that is sealed, paved, or built on.
+
+### 7
+The number of separately used or inhabited parts of the rating unit.
+
+### 8
+The extent of provision of any service to the rating unit by the local authority, including any limits or conditions that apply to the provision of the service.
+
+### 9
+The number or nature of connections from the land within each rating unit to any local authority reticulation system.
+
+### 10
+The area of land within the rating unit that is protected by any amenity or facility that is provided by the local authority.
+
+### 11
+The area of floor space of buildings within the rating unit.
+
+### 12
+The number of water closets and urinals within the rating unit.
 
 ## Schedule 3A — Lump sum contributions
 
 ## Schedule 4 — Amendments to Rating Valuations Act 1998
 
-### 5A Meaning of certificate of title
-In sections 5B and 5C, certificate of title means a certificate of title—
-  (a) issued under the Land Transfer Act 1952 for an estate in fee simple; or
-  (b) issued under the Unit Titles Act 1972 for a stratum estate; or
-  (c) issued under the Land Transfer Act 1952 for both—
-    (i) an undivided share in an estate in fee simple; and
-    (ii) an estate in leasehold of a building or part of a building on, or to be erected on, land comprised in the estate in fee simple under subparagraph (i).
-
-### 5B What constitutes rating unit if there is certificate of title
-(1) For land for which there is a certificate of title, the land comprised in the certificate of title constitutes a rating unit.
-(2) However, the Valuer-General may make rules under section 5(1)(c) for the purposes of determining whether particular land comprised in the following constitutes a rating unit:
-  (a) 2 or more certificates of title:
-  (b) part of a certificate of title.
-(3) The Valuer-General may make rules—
-  (a) under subsection (2)(a) only for land—
-    (i) that is owned by the same person or persons; and
-    (ii) that is used jointly as a single unit; and
-    (iii) that is contiguous or separated only by a road, railway, drain, water race, river, or stream; and
-  (b) under subsection (2)(b) only for land—
-    (i) that is—
-      (A) owned by the Crown; or
-      (B) surveyed and subject to a separate lease registered under section 115 of the Land Transfer Act 1952; or
-      (C) Maori freehold land subject to an occupation order made by the Maori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
-    (ii) that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a separate certificate of title.
-(4) If land in a rating unit is in 2 or more districts, the part in each district constitutes a separate rating unit.
-
-### 5C What constitutes rating unit if there is no certificate of title
-(1) For land for which there is no certificate of title, what constitutes a rating unit must be determined in accordance with the following principles:
-  (a) for land owned by the Crown, a rating unit is the land that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a certificate of title:
-  (b) for land not owned by the Crown, a rating unit is,—
-    (i) if an instrument exists, the land described in the instrument; or
-    (ii) if an instrument does not exist, the land that it would be appropriate, in the opinion of the Valuer-General, to sell or transfer as a separate property.
-(2) The Valuer-General must make rules under section 5(1)(c) for the purposes of determining whether particular land, for which there is no certificate of title, constitutes a rating unit.
-(3) The rules must be consistent with the principles in subsection (1).
-(4) Despite subsection (3), the rules may include rules for the purposes of determining whether particular land in subsection (1) comprised in the following constitutes a rating unit:
-  (a) 2 or more pieces of land (which may include 1 or more pieces of land comprised in a certificate of title):
-  (b) part of a piece of land.
-(5) The Valuer-General may make rules—
-  (a) under subsection (4)(a) only for land—
-    (i) that is owned by the same person or persons; and
-    (ii) that is used jointly as a single unit; and
-    (iii) that is contiguous or separated only by a road, railway, drain, water race, river, or stream; and
-  (b) under subsection (4)(b) only for land—
-    (i) that is—
-      (A) owned by the Crown; or
-      (B) Maori freehold land subject to an occupation order made by the Maori Land Court under section 328 of Te Ture Whenua Maori Act 1993 (or an equivalent order made under a former provision); and
-    (ii) that it is appropriate, in the opinion of the Valuer-General, to treat as if comprised in a separate certificate of title.
-(6) If land in a rating unit is in 2 or more districts, the part in each district constitutes a separate rating unit.
-(7) In this section, instrument—
-  (a) means an instrument under which ownership of the land is registered or recorded; and
-  (b) to avoid doubt, includes an order made by the Maori Land Court determining ownership of land.
-
-### 15 Alteration may be backdated in case of certain omissions
-(1) Subsection (2) applies if, for any reason,—
-  (a) the value of the rating unit does not appear in a current district valuation roll, either separately or as part of a larger area; or
-  (b) the value of a rating unit, or of any thing forming part of the unit, has not been included in the value of the unit as it appears in the current district valuation roll.
-(2) The value for the unit or thing must be entered on the valuation roll as from the end of the financial year that precedes the date on which the value is actually entered on the roll.
-(3) Nothing in subsection (2) authorises the entry on a district valuation roll of any thing as at a date earlier than the existence or commencement of the thing.
-
-### 17 Notice of alterations, etc, to owner and ratepayer
-(1) Subsection (2) applies if an entry in the district valuation roll has been altered under section 14 or section 16, or a request for a new valuation under section 16 has been refused or has resulted in no change in value.
-(2) A territorial authority must give to the owner of each rating unit and the ratepayer for the unit (if different)—
-  (a) a notice of the alteration, refusal, or unchanged value; and
-  (b) information as to the right of the owner or ratepayer to object to the alteration, refusal, or unchanged value and as to the manner in which an objection may be lodged.
-
-## Schedule 5 — Amendments to other Acts and Regulations
-
-### 99A Funding powers of regional councils for national pest management strategies
-The powers of a regional council under the Local Government (Rating) Act 2002 to set and assess rates for the purpose of exercising any of the powers conferred on it by this Act in relation to national pest management strategies, or for the purpose of exercising any of the powers conferred on it by section 13(1)(f) or section 100 of this Act, are not limited or affected by—
-  (a) section 97; or
-  (b) section 6 of the Biosecurity Amendment Act 1994.
-
-### 263 Rates
-The grant of a nohoanga entitlement is not a lease, licence, or other agreement for the purposes of note 2 of Part 1 of Schedule 1 of the Local Government (Rating) Act 2002.
-
-### 264 Targeted rates
-Te Runanga o Ngai Tahu is liable to pay targeted rates under section 9 of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which Te Runanga o Ngai Tahu is entitled to occupy the entitlement land under section 259(1).
-
-### 364 Rates
-The grant of a Fenton entitlement is not a lease, licence, or other agreement for the purposes of note 2 of Part 1 of Schedule 1 of the Local Government (Rating) Act 2002.
-
-### 365 Targeted rates
-The holders are liable to pay targeted rates under section 9 of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which the holders are entitled to occupy the entitlement land under section 360(1).
-
-### 380 Rates
-The grant of a customary fishing entitlement is not a lease, licence or other agreement for the purposes of note 2 of Part 1 of Schedule 1 of the Local Government (Rating) Act 2002.
-
-### 381 Targeted rates
-The holders are liable to pay targeted rates under section 9 of the Local Government (Rating) Act 2002 in respect of the entitlement area in proportion to the period for which the holders are entitled to occupy the entitlement area under section 376(1).
-
-### 4.15 Targeted rates
-Te Runanga is liable to pay targeted rates under section 9 of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which Te Runanga is entitled to occupy the entitlement land under clause 4.3.
-
-### 4.13 Targeted rates
-The holders are liable to pay targeted rates under section 9 of the Local Government (Rating) Act 2002 in respect of the entitlement land in proportion to the period for which the holders are entitled to occupy the entitlement land under clause 4.2.
-
-### 4.13 Targeted rates
-The holders are liable to pay targeted rates under section 9 of the Local Government (Rating) Act 2002 in respect of the entitlement area in proportion to the period for which the holders are entitled to occupy the entitlement area under clause 4.2.
-
-| Local Government (Rating) Act 2002 | section 27 |
-| --- | --- |
-
-### 4 Assessment of income if more than 1 ratepayer
-(1) Subsection (2) applies if the names of 2 or more persons appear in the rating information database in respect of 1 residential property and 1 of those persons applies for a rebate under this Act.
-(2) For the purposes of section 3, the income for the preceding income year of the other persons who were ordinarily resident on the property at the commencement of the rating year in respect of which the application was made must be added to the income for the preceding income year of the applicant.
-
-### 12 Forest not to be treated as rateable land for purposes of Local Government (Rating) Act 2002
-For the purposes of clause 1 of Part 1 of Schedule 1 of the Local Government (Rating) Act 2002, the Forest is to be treated as if it were forming a national park within the meaning of the National Parks Act 1980.
-
-### 10 Land of Board not rateable
-All land from time to time vested in the Board is not rateable under the Local Government (Rating) Act 2002.
-
-### 14 Waitutu Block not rateable
-The Waitutu Block is not rateable under the Local Government (Rating) Act 2002.
-
-### 19 Power to rate
-In addition to any other rate that it is authorised to set, each contributing authority may set and assess a rate in its district, to be known as the Canterbury Museum rate, for the purpose of providing the contribution that is payable to the Board under this Act, and the Local Government (Rating) Act 2002 applies to that rate.
-
-### 48 Rates
-Rates may be set and assessed under the Local Government (Rating) Act 2002 for the purposes of this Act.
-
-### 20 Power to rate
-(1) Each contributing authority may set and assess a rate or a charge in its district (to be known as the Otago Museum rate) for the purpose of providing the contribution payable to the Board under this Act.
-(2) The Local Government (Rating) Act 2002 applies to the rate.
-
-| Local Government (Rating) Act 2002 | section 27. |
-| --- | --- |
-
-### 6 Local authority may extend due date for objection
-A local authority may extend the due date for lodging an objection in any case where, whether by reason of non-receipt of the notice of valuation or for other good reason, the owner or ratepayer concerned did not have a sufficient opportunity to lodge the objection.
-
-### 9 Notification of owner or ratepayer affected by objection
-(1) If a person who is not both the owner and ratepayer of the land concerned lodges an objection under section 32 or section 33 of the Act, that person must,—
-  (a) within the time for objection under regulation 4 or regulation 5, send a copy of the objection to the owner or ratepayer of the land (or both if the person is neither the owner nor the ratepayer), as appropriate; and
-  (b) within the time specified in regulation 8, send a copy of any further information required under that regulation to the owner or ratepayer (or both).
-(2) The person who conducts a review of an objection under section 34 of the Act must, if the objector is not both the owner and ratepayer of the land concerned, allow the owner or ratepayer (or both), as appropriate, a reasonable opportunity to make submissions in relation to the objection.
+## Schedule 5 — Amendments to other Acts and regulations
 
 ## Schedule 6 — Repeals and revocations
+
+### 1 Title
+This Act is the Local Government (Rating) Amendment Act 2006.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provisions**
+
+### 12 Transitional provision in relation to amended rates assessments for errors in rating information database or rates record
+The amendments made by sections 6 and 8 of this Act do not apply to any objection under section 29 of the principal Act made before the commencement of this Act.
+
+### 13 Transitional provision in relation to long-term council community plans for period beginning on 1 July 2006
+Any amendments made by this Act that have the effect of requiring an amendment to a long-term council community plan (to ensure that it complies with the requirements of the principal Act, as amended by this Act)—
+  (a) do not apply to a long-term council community plan to which section 280 of the Local Government Act 2002 applies, whether it is adopted before or after the commencement of this Act; but
+  (b) do apply to any amendment made to a long-term council community plan to which section 280 of the Local Government Act 2002 applies adopted after the commencement of this Act.
