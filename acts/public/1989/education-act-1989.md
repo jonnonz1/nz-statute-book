@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2008-12-01_
 
 > An Act to reform the administration of education
 
@@ -2263,15 +2263,13 @@ In this Part of this Act and Schedule 7 to this Act, unless the context otherwis
   - **Early childhood education and care service** means—
     (a) a free kindergarten that is an early childhood service whose licence permits no child to attend for a period of more than 4 hours on any day; and
     (b) any other early childhood service that is declared by regulations made under section 69(2) of the Education Standards Act 2001 to be an early childhood education and care service for the purposes of this Part
-  - **Early childhood service** means—
-    (a) a chartered service, as defined in section 308; and
-    (b) an early childhood centre licensed under section 317
+  - **early childhood service** means a licensed early childhood service (as defined in section 309)
   - **Employer** means any 1 of the following who employs, or intends to employ, 1 or more teachers or authorised persons in a teaching position
     (a) the Board of Trustees of a state school:
     (b) the managers of a school registered under section 35A:
-    (c) the management of an early childhood education and care service
+    (c) the person or body who appoints staff at an early childhood education and care service:
     (d) the Secretary, in his or her capacity as an employer under section 91N
-  - **Free kindergarten** means an early childhood centre (as defined in section 308) controlled by a free kindergarten association founded for the purpose of establishing and maintaining a kindergarten or kindergartens.
+  - **Free kindergarten** means an early childhood education and care centre (as defined in section 309) controlled by a free kindergarten association founded for the purpose of establishing and maintaining a kindergarten or kindergartens.
   - **General education system** means the system of education provided in—
     (a) registered schools (as defined in section 2); and
     (b) early childhood services; and
@@ -2324,7 +2322,7 @@ In this Part of this Act and Schedule 7 to this Act, unless the context otherwis
 (3) No employer shall in any calendar year continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if the sum of—is not less than the period specified in subsection (4) of this section.
   (a) The period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
   (b) Any period or periods (of which the employer is aware) for which that person has already during that year been employed by any other employer in a teaching position or positions; and
-  (c) Any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the management of an early childhood education and care service,—
+  (c) Any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service,—
 (4) The period referred to in subsection (3) of this section is—each being a half-day on which the school or early childhood education and care service at which the person was then employed was open for instruction.
   (a) 20 half-days; or
   (b) Any greater number of half-days the Teachers Council has allowed in any particular case,—
@@ -2554,10 +2552,10 @@ The management of any registered early childhood centre (other than a free kinde
   (h) Being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer in a teaching position after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which a school or early childhood education and care service at which the person was then employed was open for instruction); or
     (i) The period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
     (ii) Any period or periods for which that person has already during that year been employed by any other employer in a teaching position or positions; and
-    (iii) Any period or periods for which that person has during that year been employed as a teacher by the management of an early childhood education and care service,—
-  (i) Being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of the management of a early childhood education and care service as a teacher after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which an early childhood education and care service or school at which the person was then employed was open for instruction).
-    (i) The period or periods for which that person has already during that year been employed by the management as a teacher; and
-    (ii) Any period or periods for which that person has already during that year been employed by the management of any other early childhood education and care service as a teacher; and
+    (iii) Any period or periods for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service,—
+  (i) Being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of the employer at an early childhood education and care service as a teacher after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which an early childhood education and care service or school at which the person was then employed was open for instruction).
+    (i) The period or periods for which that person has already during that year been employed by the employer as a teacher; and
+    (ii) Any period or periods for which that person has already during that year been employed by an employer at any other early childhood education and care service as a teacher; and
     (iii) Any period or periods for which that person has during that year been employed in a teaching position by the employer at a state school,—
 (2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $5,000, who appoints any person to a position, or continues to employ any person in a position, knowing that the appointment or employment is contrary to section 120A or section 120B.
 
@@ -2929,16 +2927,16 @@ The Council must from time to time appoint a chief executive, on terms and condi
 
 ## Part 11 — Miscellaneous
 
-### 139A No corporal punishment in early childhood centres or registered schools
-(1) No person who—shall use force, by way of correction or punishment, towards any student or child enrolled at or attending the school, institution, or centre.
+### 139A No corporal punishment in early childhood services or registered schools
+(1) No person who—shall use force, by way of correction or punishment, towards any student or child enrolled at or attending the school, institution, or service.
   (a) Is employed by a Board (within the meaning of section 2(1) of this Act) at or in respect of a school or institution administered by the Board; or
   (b) Is employed by the managers (within the meaning of section 35A(1) of this Act) of a private school at or in respect of the school; or
-  (c) Is employed by the management of an early childhood centre (within the meaning of section 308(1) of this Act) at or in respect of the centre; or
-  (d) Owns, manages, or controls an early childhood centre (within the meaning of section 308(1) of this Act),—
+  (c) is employed at an early childhood service (as defined in section 309); or
+  (d) owns, manages, or controls an early childhood service (as so defined),—
 (2) No person who is supervising or controlling—shall use force, by way of correction or punishment, towards the student or child.
   (a) On behalf of a Board (within the meaning of section 2(1) of this Act) any student enrolled at or attending a school or institution administered by the Board; or
   (b) On behalf of the managers (within the meaning of section 35A(1) of this Act) of a private school any student enrolled at or attending the school; or
-  (c) On behalf of the management of an early childhood centre (within the meaning of section 308(1) of this Act) any child enrolled at or attending the centre,—
+  (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
 
 ### 139B Building Act 2004
 (1) Where any person making an inspection under this Act believes that any building or sitework does not comply with the Building Act 2004, that person shall by notice in writing give to the appropriate territorial authority details of the respects in which the building or sitework is not believed not to comply.
@@ -2996,9 +2994,9 @@ The Private Schools Conditional Integration Act 1975 is hereby consequentially a
   (b) Any contract, agreement, deed, instrument, application, licence, notice, or other document entered into, made, granted, given, or executed before that commencement,—
 
 ### 144A Secretary may require information for proper administration of Act
-(1) The Secretary may, by written notice to—require the Board, management, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the Board, management, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
+(1) The Secretary may, by written notice to—require the Board, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the Board, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
   (a) The Board of any state school (within the meaning of section 2(1) of this Act); or
-  (b) The management of any chartered care arranger or early childhood centre (within the meaning of section 308(1) of this Act); or
+  (b) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup; or
   (c) The managers (within the meaning of section 35A(1) of this Act) of any private school registered under that section,—
 (1A) Information required by the Secretary under this section that identifies individuals may be used only for the following purposes:
   (a) statistical purposes:
@@ -6154,134 +6152,117 @@ The provisions of section 226A apply to any secondary school as if such a school
   (b) the amount of any benefit, allowance, or student loan (as so defined) to which any person is or was entitled or for which any person is or was eligible.
 (2) In this section, Ministry of Education means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of Part 13.
 
-## Part 26 — Early childhood education, and home-based care
+## Part 26 — Early childhood education and care
 
-### 308 Interpretation
-(1) In this Part of this Act, unless the context otherwise requires,—
-  - **Care arranger** means a body, agency, or person who or that arranges or offers to arrange the education or care of children under 6 in their own homes or the homes of the people providing the education or care
-  - **Charter** means a charter of objectives and practices approved under this Part of this Act; and, in relation to a chartered service, means the charter approved for that service
-  - **Chartered care arranger** means a care arranger for which a charter is in force
-  - **Chartered early childhood centre** means an early childhood centre for which a charter is in force
-  - **Chartered service** means a service for which a charter is in force
-  - **Chief Review Officer** means the chief executive of the Education Review Office
-  - **Early childhood centre** , subject to subsections (2) to (4) of this section, means premises used (exclusively, mainly, or regularly) for the education or care of 3 or more children (not being children of the persons providing the education or care) under 6—
-    (a) By the day or part of a day; but
-    (b) Not for any continuous period of more than 7 days:
-  - **Management** ,—
-    (a) In relation to an early childhood centre, means the person or people having control of the centre; and
-    (b) In relation to a care arranger, means the care arranger:
-  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part of this Act
-  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part of this Act
-  - **Review officer** means an employee of the Education Review Office
-  - **Secretary** means the chief executive of the Ministry
-  - **Service** means an early childhood centre or care arranger.
-(2) Subject to subsections (3) to (4) of this section, premises of the following kind are not early childhood centres:
-  (a) Registered schools (within the meaning of section 2(1) of this Act):
-  (b) Residences within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989:
-  (c)
-  (d) Institutions under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000:
-  (e) hospital care institutions within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001:
-  (f)
-  (g) Children's health camps operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development:
-  (h) Premises where all the children are members of the one family in the care of a guardian, step-parent, grandparent, brother, sister, uncle, or aunt, (whether by blood or by marriage):
-  (i) Premises of a kind or description for the time being declared by the Minister by notice in the Gazette not to be early childhood centres.
-(3) Premises that are—are early childhood centres.
-  (a) Within premises of a kind described in subsection (2) of this section; and
-  (b) Used (exclusively, mainly, or regularly) for the education or care of 3 or more children under 6 of staff of those premises,—
-(3A) Premises that are—are early childhood centres.
-  (a) Within premises under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000; and
-  (b) Used (exclusively, mainly, or regularly) for the education or care of 3 or more children under 6,—
-(4) An early childhood centre may (subject to this Act) be operated within the premises of a registered school; and its status as an early childhood centre is not affected by the fact of its being operated within those premises.
+**Interpretation**
+
+### 308 Overview
+This Part—
+  (a) requires the licensing of service providers who operate early childhood education and care centres; and
+  (b) allows, but does not require, the licensing of service providers who provide a home-based education and care service or a hospital-based education and care service; and
+  (c) allows, but does not require, playgroups to be certificated; and
+  (d) provides for the funding of licensed early childhood services and certificated playgroups; and
+  (e) provides for the regulation of licensed early childhood services and certificated playgroups; and
+  (f) provides for a range of other matters generally in relation to early childhood education and care, including administration, curriculum, police vetting of employees, powers of entry, and offences.
 
 **Funding**
 
-### 309 Bulk funding of chartered services
-(1) In each year—out of public money appropriated by Parliament.
-  (a) The management of every chartered early childhood centre—
-    (i) Shall be paid general grants; and
-    (ii) May be paid one or more capital accommodation grants; and
-  (b) The management of any chartered care arranger—
-    (i) May be paid general grants; and
-    (ii) May be paid one or more capital accommodation grants,—
-(2) Subject to subsection (3) of this section, the amount of every grant shall be determined by the Minister.
-(3) The Minister may from time to time determine means by which the amounts of grants may be calculated or ascertained; and—
-  (a) Different means may be determined in respect of—
-    (i) Grants of different classes or descriptions:
-    (ii) Chartered services of different classes or descriptions; and
-  (b) The amount of any grant may be determined accordingly; but
-  (c) Nothing in this subsection limits or affects the Minister's power under subsection (2) of this section to determine the amount of any grant.
-(4) Any grant may be paid—
-  (a) Unconditionally, or subject to any conditions the Minister specifies in writing when the grant is paid or earlier:
-  (b) To be used for any purpose the management thinks fit, or for only such purposes as the Minister specifies in writing when the grant is paid or earlier.
-(5) The management shall ensure that—
-  (a) Where a grant has been paid subject to conditions, the conditions are complied with; and
-  (b) Where a grant has been paid to be used only for purposes specified by the Minister under subsection (4)(b) of this section, the grant is used only for those purposes.
+### 309 Interpretation
+In this Part, unless the context otherwise requires,—
+  - **early childhood education and care centre** has the meaning set out in section 310
+  - **early childhood service** means an early childhood education and care centre, home-based education and care service, or hospital-based education and care service
+  - **foreign student** has the same meaning as in section 2(1)
+  - **home-based education and care service** means the provision of education or care, for gain or reward, to fewer than 5 children under the age of 6 (in addition to any child enrolled at school who is the child of the person who provides education or care), in—
+    (a) their own home; or
+    (b) the home of the person providing the education or care; or
+    (c) any other home nominated by the parents of the children
+  - **hospital-based education and care service** means the provision of education or care to 3 or more children under the age of 6 who are also receiving health services within premises under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
+  - **licensed early childhood education and care centre** means an early childhood education and care centre in respect of which the service provider holds a current licence issued under regulations made under section 317
+  - **licensed early childhood service** means an early childhood service in respect of which the service provider holds a current licence issued under regulations made under section 317
+  - **licensed home-based education and care service** means a home-based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 317
+  - **licensed hospital-based education and care service** means a. hospital-based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 317
+  - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
+  - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
+  - **playgroup** means a group that meets on a regular basis to facilitate children's play and in respect of which—
+    (a) no child attends for more than 4 hours on any day; and
+    (b) more than half the children attending on any occasion have a parent or caregiver present in the same play area at the same time
+  - **Secretary** means the chief executive of the Ministry
+  - **service provider** means each of the following
+    (a) in relation to an early childhood education and care centre, the body, agency, or person who or that operates the centre:
+    (b) in relation to a home-based education and care service, the body, agency, or person who or that arranges, or offers to arrange, that education or care:
+    (c) in relation to a hospital-based education and care service, the body, agency, or person who or that provides that education or care:
+    (d) in relation to a playgroup, the person or persons who operate the playgroup.
 
-### 310 Loans to chartered services
-The Minister may, on any terms and conditions the Minister thinks fit, lend to the management of any chartered service public money appropriated by Parliament for the purpose.
+### 310 Meaning of early childhood education and care centre
+(1) In this Part, but subject to subsections (2) to (4), early childhood education and care centre means premises used regularly for the education or care of 3 or more children (not being children of the persons providing the education or care, or children enrolled at a school being provided with education or care before or after school) under the age of 6—
+  (a) by the day or part of a day; but
+  (b) not for any continuous period of more than 7 days.
+(2) Subject to subsections (3) and (4), premises of the following kind are not early childhood education and care centres:
+  (a) registered schools (within the meaning of section 2(1) of this Act):
+  (b) hostels (within the meaning of section 2(1) of this Act):
+  (c) residences (within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989):
+  (d) institutions under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000:
+  (e) hospital care institutions (within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001):
+  (f) children's health camps operated by Children's Health Camps—The New Zealand Foundation for Child and Family Health and Development:
+  (g) premises where all the children present are members of the same family in the care of a member of the family or members of the same family in the care of a caregiver who is not acting for gain or reward:
+  (h) any premises, during any period of use for the education or care of children for any period not exceeding 4 hours a week in circumstances where the children's parents or caregivers are—
+    (i) in close proximity to the children and are able to be contacted; and
+    (ii) able to resume responsibility for the children at short notice:
+  (i) any premises, during any period of use for the operation of a playgroup, licensed home-based education and care service, or hospital-based education and care service.
+(3) Despite subsection (2), premises are early childhood education and care centres if they are—
+  (a) within premises of a kind described in subsection (2); and
+  (b) used regularly or principally for the education or care of 3 or more children under the age of 6 who are children of—
+    (i) staff who work within premises of a kind described in subsection (2); or
+    (ii) persons attending premises of that kind as residents or students.
+(4) An early childhood education and care centre may be operated within the premises of a registered school; and its status as an early childhood education and care centre is not affected by the fact of its being operated within those premises.
 
-### 311 Administrative requirements
-(1) The management of every chartered early childhood centre shall keep, and make available to the Secretary on request,—
-  (a) A register of the children who attend or have attended there, specifying the date of birth of each; and
-  (b) A record of the attendance of children there; and
-  (c) A record of all fees and other charges paid in respect of children's attendance there; and
-  (d) Evidence that parents of children attending there have regularly examined the attendance record; and
-  (e) Such other records as are necessary to enable the centre's performance to be monitored adequately.
-(2) Every chartered care arranger shall keep, and make available to the Secretary on request,—
-  (a) A register of the children for whom it arranges or has arranged home-based care, specifying the date of birth of each; and
-  (b) A record of the provision of home-based care arranged by it; and
-  (c) A record of all fees and other charges paid in respect of the provision of home care arranged by it; and
-  (d) Such other records as are necessary to enable its performance to be monitored adequately.
+**Funding**
+
+### 311 Funding of certain early childhood services and certificated playgroups
+(1) In each year, out of money appropriated by Parliament,—
+  (a) the service provider for every licensed early childhood service—
+    (i) must be paid general grants; and
+    (ii) may be paid 1 or more discretionary grants; and
+  (b) the service provider who operates a certificated playgroup—
+    (i) may be paid general grants; and
+    (ii) may be paid 1 or more discretionary grants; and
+  (c) the management of any body corporate may be paid a discretionary grant for the purpose of establishing a licensed early childhood service or certificated playgroup.
+(2) The amount of every grant must be determined by the Minister.
+(3) The Minister may from time to time determine the means by which the amounts of grants may be calculated or ascertained; and—
+  (a) different means may be determined in respect of—
+    (i) grants of different classes or descriptions; and
+    (ii) licensed early childhood services of different classes or descriptions and certificated playgroups; and
+  (b) the amount of any grant may be determined accordingly; but
+  (c) nothing in this subsection limits or affects the Minister's power under subsection (2) to determine the amount of any grant.
+(4) Without limiting subsection (3), the Minister may determine that no grant is payable in respect of any foreign student attending a licensed early childhood service.
+(5) Any grant—
+  (a) may be paid unconditionally, or subject to any conditions the Minister specifies in writing when the grant is paid or earlier; and
+  (b) may be paid to be used for any purpose the service provider considers appropriate, or for only such purposes as the Minister specifies in writing when the grant is paid or earlier; and
+  (c) may be withheld in whole or in part if the service provider fails to comply with any regulations made under section 317 or section 319 or any conditions of the licence or certificate.
+(6) The service provider must ensure that—
+  (a) where a grant has been paid subject to conditions, the conditions are complied with; and
+  (b) if a grant has been paid to be used only for purposes specified by the Minister under subsection (5)(b), the grant is used only for those purposes.
 
 ### 311A Grants to licence-exempt centres
-(1) The management of any licence-exempt centre may be paid grants out of public money appropriated by Parliament for that purpose.
-(2) Licence-exempt centre means any premises that are operated as an early childhood centre and that are exempted from the requirement to be licensed by notice in the Gazette issued under section 316(1)(b).
-(3) Section 309(2) to (5) applies as if the reference to chartered services were a reference to licence-exempt centres.
+[Repealed]
 
 ### 311B Reporting requirements if grant paid to licence-exempt centre
-(1) This section applies during the financial year in which a grant is paid to the management of a licence-exempt centre under section 311A, and during the next financial year.
-(2) The Secretary may, by written notice to the management, require the management to give to the Secretary in writing any financial report, or statistical or other information, that is specified in the notice and that relates to the centre.
-(3) The management must take all reasonable steps to comply with the notice within the time specified in the notice.
+[Repealed]
 
 **Charters**
 
-### 312 Approval of charters
-(1) The Minister may from time to time, in accordance with this section, approve a charter of objectives and practices prepared for an early childhood centre or care arranger by its management, or any amendment to any charter.
-(2) The Minister may from time to time, by notice in the Gazette, make a statement of desirable objectives and practices for chartered services of any class or description; and every charter and proposed charter for a service shall be deemed to contain all objectives and practices for the time being notified for chartered services of the class or description to which the service belongs (or would belong if chartered).
-(3) The Minister shall not approve a proposed charter or amendment for an early childhood centre unless satisfied on reasonable grounds that—
-  (a) The management has consulted adequately—
-    (i) The staff or proposed staff of the centre; and
-    (ii) The parents, whanau, or both, of the children attending or likely to attend the centre; and
-  (b) The charter (or, in the case of an amendment, the charter in the form it will have if the amendment is approved)—
-    (i) Specifies the maximum number of places per session of the centre; and
-    (ii) Provides adequately for the publication by the management of the fees to be charged for attendance at the centre (whether as actual fees, a range of fees, or a maximum fee); and
-    (iii) Provides adequately for the publication by the management of the level of funding received out of public money appropriated by Parliament by the management in respect of the centre; and
-    (iv) Specifies an address for service for the management.
-(4) The Minister shall not approve a proposed charter or amendment for a care arranger unless satisfied on reasonable grounds that the charter (or, in the case of an amendment, the charter in the form it will have if the amendment is approved)—
-  (a) Provides adequately for access by the people who will be providing the home-based care concerned to the support and advice of people holding qualifications in early childhood education recognised by the Secretary for the purpose by notice in the Gazette; and
-  (b) Specifies an address for service for the management.
-(5) The Secretary may—
-  (a) Charge the management any reasonable fee for any work done by the Ministry in respect of an application for the approval of a charter or amendment; and
-  (b) Until the fee is paid, defer putting the application to the Minister.
-(6) The Minister shall approve a charter or amendment by—
-  (a) Signing it; and
-  (b) Specifying for it a day (not earlier than the day it is signed).
-(7) On the day specified—
-  (a) A charter takes effect, and any previous charter for the service is deemed to have been cancelled; and
-  (b) An amendment takes effect, and the charter concerned shall be read accordingly.
-(8) If satisfied that—the Minister may, by written notice to the management specifying the Minister's reasons, withdraw approval of it; and in that case it shall be deemed to have been cancelled on the day after the day the notice reaches the management's address for service.
-  (a) A charter is not working; or
-  (b) A chartered service is not running an early childhood centre or home-based care scheme in accordance with all the matters provided for in its charter,—
-(9) The Minister shall not approve a charter for any early childhood centre unless it is licensed, or exempted from licensing, under this Part of this Act; and when a chartered early childhood centre ceases to be so licensed, its charter shall be deemed to have been cancelled.
-(10) Any chartered service may, by written notice to the Secretary, surrender its charter; and in that case the charter shall be deemed to have been cancelled.
+### 312 Loans to licensed early childhood services
+The Minister may, on any terms and conditions the Minister considers appropriate, lend to the service provider for any licensed early childhood service public money appropriated by Parliament for the purpose.
 
-### 313 Effect of charter
-(1) Subject to subsection (3) of this section, every charter has effect as an undertaking by the management to the Minister to take all reasonable steps (not inconsistent with any enactment, or the general law of New Zealand) to ensure that—
-  (a) The service is managed, organised, conducted, and administered in accordance with the objectives and practices contained in the charter; and
-  (b) The management abides by the maximum places, and publication of fees and funding level, set out in the charter.
-(2) The Secretary is hereby empowered to take, on the Minister's behalf, proceedings having or intended to have the effect of enforcing a charter or constraining the management of a service from taking any action that is contrary to a charter.
-(3) No person other than the Secretary has power to take proceedings having or intended to have the effect of enforcing a charter or constraining the management of a chartered service from taking any action that is contrary to a charter.
-(4) The Secretary shall not commence proceedings under this section without first consulting the Chief Review Officer.
+**Administration and curriculum**
+
+### 313 Administrative requirements
+The service provider for every licensed early childhood service must keep, and make available to the Secretary on request,—
+  (a) a register of the children who attend or have attended the service, specifying the date of birth of each; and
+  (b) a record of the attendance of children at the service; and
+  (c) a record of all fees and other charges paid in respect of children's attendance at the service; and
+  (d) evidence that parents of children attending the service have regularly examined the attendance record; and
+  (e) any other records that are necessary to enable the service's performance to be monitored adequately.
 
 ### 314 Curriculum framework
 (1) The Minister may prescribe a curriculum framework for any or all of the following:
@@ -6295,50 +6276,34 @@ The Minister may, on any terms and conditions the Minister thinks fit, lend to t
 (4) Without limiting the generality of subsection (1), a notice under subsection (3) may—
   (a) specify different commencement dates for different provisions of the curriculum framework or for different purposes; and
   (b) specify a transitional period during which service providers may elect to comply with another specified curriculum requirement and specify a date on which service providers must comply with the curriculum framework.
-(5)
+(5) If a curriculum framework is prescribed under this section, every service provider for a licensed early childhood service or who operates a certificated playgroup, and to whom that curriculum framework applies, must implement that curriculum framework in accordance with any requirements prescribed in regulations made under section 317 or section 319, as the case may be.
 
-### 315 Police vetting of non-teaching and unregistered employees at early childhood services
-(1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a permanent position at an early childhood service, the management of the service must obtain a police vet of the person from the New Zealand Teachers Council.
-(2) The management of every early childhood service must apply to the New Zealand Teachers Council for a police vet of every person who is employed by the management but is not a registered teacher or holder of a limited authority to teach—
-  (a) within 2 weeks of first employing the person on a casual or temporary basis at the service:
-  (b) in the case of a person employed at the service when this section comes into force, as required by the Teachers Council:
-  (c) in the case of a person on whom a police vet has been conducted within the last 3 years, on or about the third anniversary of the previous police vet.
-(3) In this section, early childhood service has the same meaning as it is given in section 120.
+**Licensing and certification provisions**
+
+### 315 Service providers operating early childhood education and care centres to be licensed
+(1) No service provider may operate an early childhood education and care centre unless that service provider is licensed to operate the centre under regulations made under section 317.
+(2) Every service provider who operates an early childhood education and care centre commits an offence if—
+  (a) the service provider operates the early childhood education and care centre without holding a current licence under regulations made under section 317 authorising the operation of the centre; or
+  (b) the service provider ceases to operate an early childhood education and care centre for which it holds a current licence under regulations made under section 317 authorising the operation of the centre, in circumstances other than an emergency, without first telling the Secretary that it will stop operating the centre; or
+  (c) the service provider ceases to operate the early childhood education and care centre for which it holds a current licence under regulations made under section 317 authorising the operation of the centre, in circumstances involving an emergency, and fails to tell the Secretary as soon as is reasonably practicable after the closure.
+(3) An offence against subsection (2) is punishable on summary conviction,—
+  (a) in the case of an offence under subsection (2)(a), by a fine not exceeding $200 for every day or part of a day on which the offence took place; or
+  (b) in the case of an offence under subsection (2)(b) or (c), by a fine not exceeding $200.
+(4) This section is subject to section 319O.
 
 ### 315AA Police vetting of contractors and their employees who work at early childhood services
-(1) The management of every early childhood service must apply to the New Zealand Teachers Council for a police vet of every contractor who regularly works at the service during normal opening hours—
-  (a) within 2 weeks of the contractor first starting to work at the service:
-  (b) in the case of a contractor working at the service when this section comes into force, as required by the Teachers Council:
-  (c) in the case of a contractor on whom a police vet has been conducted within the last 3 years, on or about the third anniversary of the previous police vet.
-(2) In this section, contractor means both—
-  (a) a person who, under a contract (other than an employment contract), works at an early childhood service; and
-  (b) a person employed by a person referred to in paragraph (a) who, in the course of that employment, works at an early childhood service.
+[Repealed]
 
 ### 315AB Internal procedures relating to police vets
-(1) In this section, requester means the management of an early childhood service that has applied to the Teachers Council for a police vet of a person.
-(2) Every requester must establish internal procedures for dealing with police vets that are received as a result of a request under section 315 or section 315AA, which must, in particular,—
-  (a) identify the person or office-holder within the requester to whom police vets must be sent by the Teachers Council; and
-  (b) ensure that strict confidentiality is observed for police vets.
-(3) A requester may not take adverse action in relation to a person who is the subject of a police vet until—
-  (a) the person has validated the information contained in the vet; or
-  (b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+[Repealed]
 
 ### 315A Payment of fees for attendance of children at kindergartens
-(1) Fees may be charged in respect of the attendance, after the commencement of the Education Amendment Act (No 3) 1990, of any child at any kindergarten (whether or not it is, or is known or described as, a free kindergarten) .
-(2) Subsection (1) of this section is not limited or affected by, and shall have effect notwithstanding,—
-  (a) Any enactment or rule of law:
-  (b) Anything in the constitution of any body corporate:
-  (c) Any contract or undertaking to the contrary entered into or given before the commencement of the Education Amendment Act (No 3) 1990.
+[Repealed]
 
 **Licensing of early childhood centres, etc**
 
-### 316 Early childhood centres to be licensed
-(1) No person shall operate any premises as an early childhood centre unless—
-  (a) They are licensed under regulations made under section 317 of this act; or
-  (b) They are premises, or premises of a class or description, for the time being exempted from the requirement to be licensed by the Minister by notice in the Gazette.
-(2) Where—the management commits an offence against this Act, and shall be liable on summary conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
-  (a) An early childhood centre that is not licensed under this Part of this Act operates as an early childhood centre; or
-  (b) An early childhood centre licensed under this Part of this Act whose management has not told the Secretary that it will stop operating does not operate,—
+### 316 Certain service providers may be licensed
+A service provider for a home-based education and care service or a hospital-based education and care service may, but need not, apply for a licence under regulations made under section 317 in respect of the home-based education and care service or hospital-based education and care service provided by the service provider.
 
 ### 317 Regulations relating to licensing
 (1) The Governor-General may, by Order in Council, make regulations providing for either or both of the following—
@@ -6347,7 +6312,7 @@ The Minister may, on any terms and conditions the Minister thinks fit, lend to t
 (2) Regulations made under subsection (1) may (without limitation) do all or any of the following:
   (a) prescribe minimum standards relating to premises, facilities, programmes of education, practices in relation to children's learning and development, staffing and parental or caregiver participation (including adult:child ratios), health and safety, implementation of the curriculum framework, communication and consultation with parents, the operation or administration of those services, or any of them, to be complied with to ensure the health, comfort, care, education, and safety of children attending licensed early childhood services:
   (b) authorise the Minister, after consultation with those organisations that appear to the Minister to be representative of persons likely to be substantially affected by these regulations, to prescribe criteria to be used by the Secretary to assess compliance with the minimum standards imposed by these regulations:
-  (c) require the Secretary to publish a notice in the Gazette —
+  (c) require the Secretary to publish a notice in the Gazette—
     (i) stating that criteria referred to in paragraph (b) have been prescribed; and
     (ii) setting out the criteria in their entirety, or stating where or how a copy of those criteria may be obtained by members of the public:
   (d) limit or regulate the numbers of children who may attend licensed early childhood education and care centres or any premises used to provide a licensed home-based education and care service, or a licensed hospital-based education and care service:
@@ -6368,34 +6333,8 @@ The Minister may, on any terms and conditions the Minister thinks fit, lend to t
   (c) different minimum standards.
 (5) Criteria prescribed by the Minister for use in assessing compliance with minimum standards imposed by regulations made under this section are deemed to be regulations for the purposes of the Regulations (Disallowance) Act 1989 but not for the purposes of the Acts and Regulations Publication Act 1989.
 
-### 318 Powers of entry and inspection of early childhood centres
-(1) Any person holding an authorisation under subsection (2) may, at any reasonable time,—
-  (a) Enter and inspect any premises that are or contain a licensed early childhood centre:
-  (b) Inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the licensed service:
-  (c) Remove any document described in paragraph (b), whether in its original form or as an electronic or paper copy.
-(1A) If any document is removed from premises under subsection (1)(c), the person who removes it must—
-  (a) Leave at the premises a list of the documents removed; and
-  (b) Return the documents, or a copy of them, to the premises as soon as practicable unless to do so would prejudice any investigation being or to be carried out by the Ministry.
-(2) The Secretary may authorise in writing any person to exercise the powers in subsection (1).
-(3) Every written authorisation under subsection (2) of this section shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the person authorised; and
-  (c) A statement of the powers conferred on that person by this section.
-(4) Every person exercising any power under subsection (1) shall possess the appropriate written authorisation, and evidence of identity, and shall produce them to the person in charge of the premises concerned (or, as the case may be, the person having possession or control of the books, records, or accounts concerned)—
-  (a) On first entering the premises; and
-  (b) Whenever subsequently reasonably required to do so by the person in charge.
-(5) Any person authorised by subsection (2) of this section who has reasonable cause to believe that any premises are being used as an early childhood centre in contravention of regulations made under this Act, may apply in writing on oath to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any Court who, if satisfied that there is reasonable cause to believe that the premises are being so used, may issue a warrant directed to the person by name authorising the person to enter the premises.
-(6) Every warrant issued under subsection (5) of this section shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the person authorised; and
-  (c) A description of the premises concerned; and
-  (d) The date on which it was issued and the date on which it expires.
-(7) Every such warrant shall authorise the person named in it, at any reasonable time within 4 weeks after the date on which it is issued, to enter the premises described in the warrant and to do on those premises anything necessary to ascertain whether those premises are being used as an early childhood centre in contravention of regulations made under this Act.
-(8) Every person exercising any power under subsection (7) of this section shall possess the appropriate warrant, and evidence of identity, and shall produce them to the occupier of the premises concerned—
-  (a) On first entering the premises; and
-  (b) Whenever subsequently reasonably required to do so by that occupier.
-(9) Every warrant issued under subsection (5) of this section shall expire when the purpose for which it was issued has been satisfied.
-(10) For the purposes of this section, inspection, in relation to any premises, includes observing any children present there.
+### 318 Playgroups may be certificated
+A service provider who operates a playgroup may, but need not, apply for a certificate issued under regulations made under section 319 in respect of the playgroup.
 
 ### 319 Regulations relating to certification of playgroups
 (1) The Governor-General may, by Order in Council, make regulations providing for the certification of playgroups and these regulations may do all or any of the following:
@@ -6420,55 +6359,174 @@ The Minister may, on any terms and conditions the Minister thinks fit, lend to t
 **Powers of entry and inspection**
 
 ### 319A Parent's right of entry
-[Repealed]
+The parent or guardian of a child has a right of entry to a licensed early childhood education and care centre or to the premises where a licensed home-based education and care service is provided, whenever the child is there, except if the parent or guardian—
+  (a) is subject to an order of a court that prohibits access to, or contact with, the child, either generally or with respect to the child while, or at a time when the child is, attending the centre or service; or
+  (b) is subject to a warning under section 4 of the Trespass Act 1980 to stay off the premises; or
+  (c) is suffering from a contagious or infectious disease likely to have a detrimental effect on the children if passed on to them; or
+  (d) is, in the opinion of a person responsible for the operation of the centre or service, under the influence of alcohol or any other substance that has a detrimental effect on the functioning or behaviour of the person; or
+  (e) is, in the opinion of a person responsible for the operation of the centre or service, exhibiting behaviour that is or is likely to be disruptive to the effective operation of the centre or service.
 
 ### 319B Powers of entry and inspection without warrant
-[Repealed]
+(1) Any person holding an authorisation under subsection (3) may, for the purpose of ensuring that the provisions of this Act and any regulations made under this Act, or the conditions of any licence, certificate, or grant issued or made under any of those provisions, are being complied with, or for the purpose of conducting any audit, at any reasonable time, do all or any of the following:
+  (a) enter and inspect any premises that are or contain a licensed early childhood education and care centre or that are used to provide a licensed home-based education and care service or a licensed hospital-based education and care service, or that are used by a certificated playgroup:
+  (b) inspect, photocopy, print out, or copy onto disk any documents (whether held in electronic or paper form) that the person believes on reasonable grounds to be those of the licensed early childhood service or certificated playgroup:
+  (c) remove any document described in paragraph (b), whether in its original form or as an electronic or paper copy.
+(2) If any document is removed from premises under subsection (1)(c), the person who removes it must—
+  (a) leave at the premises a list of the documents removed; and
+  (b) return the documents, or a copy of them, to the premises as soon as practicable, unless to do so would prejudice any investigation being or to be carried out by the Ministry.
+(3) The Secretary may authorise in writing any person, who in the opinion of the Secretary is suitably qualified and trained in the exercise of powers under subsection (1), to exercise those powers.
+(4) Every authorisation under subsection (3) must contain—
+  (a) a reference to this section; and
+  (b) the full name of the person authorised; and
+  (c) a statement of the powers conferred on that person by this section.
+(5) Every person exercising any power under subsection (1) must have the appropriate written authorisation, and evidence of identity, and must produce them to the person in charge of the premises concerned (or, as the case may be, the person having possession or control of the documents concerned)—
+  (a) on first entering the premises; and
+  (b) whenever subsequently reasonably required to do so by the person in charge.
+(6) For the purposes of this section and section 319C, inspection, in relation to any premises, includes observing any children present there.
 
 ### 319C Powers of entry and inspection with warrant
-[Repealed]
+(1) Any person authorised by section 319B(3) who has reasonable grounds to believe that any premises are being used as an early childhood education and care centre in contravention of this Act or regulations made under section 317, may apply in writing on oath to a District Court Judge, Justice of the Peace, Community Magistrate, or Registrar or Deputy Registrar of any court for a warrant.
+(2) If the Judge or other person to whom the application is made is satisfied that there are reasonable grounds to believe that the premises are being so used, he or she may issue a warrant directed to the person by name authorising the person to enter the premises.
+(3) Every warrant issued under subsection (2) must contain—
+  (a) a reference to this section; and
+  (b) the full name of the person authorised; and
+  (c) a description of the premises concerned; and
+  (d) the date on which it was issued and the date on which it expires.
+(4) Every warrant issued under subsection (2) must authorise the person named in it, at any reasonable time within 4 weeks after the date on which it is issued, to—
+  (a) enter the premises described in the warrant; and
+  (b) do on those premises anything necessary to ascertain whether those premises are being used as an early childhood education and care centre, in contravention of this Act or any regulations made under section 317.
+(5) Every person exercising any power under subsection (4) must have the appropriate warrant and evidence of identity and must produce them to the occupier of the premises concerned—
+  (a) on first entering the premises; and
+  (b) whenever subsequently reasonably required to do so by that occupier.
+(6) Every warrant issued under subsection (2) expires on the earlier of the following dates:
+  (a) the date when the purpose for which it was issued has been satisfied; or
+  (b) the date specified as the date of expiry under subsection (3)(d).
 
 **Police vetting of employees**
 
 ### 319D Police vetting of non-teaching and unregistered employees at licensed early childhood services
-[Repealed]
+(1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a permanent position at a licensed early childhood service, the service provider for the service must obtain a police vet of the person from the New Zealand Teachers Council.
+(2) The service provider for every licensed early childhood service must apply to the New Zealand Teachers Council for a police vet of every person who is employed by the service provider but is not a registered teacher or holder of a limited authority to teach—
+  (a) within 2 weeks of first employing the person on a casual or temporary basis at the service; or
+  (b) in the case of a person employed at the service on 22 April 2002, as required by the New Zealand Teachers Council; or
+  (c) in the case of a person on whom a police vet has been conducted within the last 3 years, on or about the third anniversary of the previous police vet.
 
 ### 319E Police vetting of contractors and their employees who work at licensed early childhood services
-[Repealed]
+(1) The service provider for every licensed early childhood service must apply to the New Zealand Teachers Council for a police vet of every contractor who regularly works at the service during normal opening hours—
+  (a) within 2 weeks of the contractor first starting to work at the service; or
+  (b) in the case of a contractor working at the service on 22 April 2002, as required by the New Zealand Teachers Council; or
+  (c) in the case of a contractor on whom a police vet has been conducted within the last 3 years, on or about the third anniversary of the previous police vet.
+(2) In this section, contractor means both—
+  (a) a person who, under a contract (other than an employment contract), works at an early childhood service; and
+  (b) a person employed by a person referred to in paragraph (a) who, in the course of that employment, works at an early childhood service.
 
 ### 319F Internal procedures relating to police vets
-[Repealed]
+(1) In this section, requester means the service provider for a licensed early childhood service that has applied to the New Zealand Teachers Council for a police vet of a person.
+(2) Every requester must establish internal procedures for dealing with police vets that are received as a result of a request under section 319D or section 319E that must, in particular,—
+  (a) identify the person or office-holder within the requester to whom police vets must be sent by the New Zealand Teachers Council; and
+  (b) ensure that strict confidentiality is observed for police vets.
+(3) A requester may not take adverse action in relation to a person who is the subject of a police vet until—
+  (a) the person has validated the information contained in the vet; or
+  (b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
 
 **Miscellaneous**
 
 ### 319G Offence of insulting, abusing, or intimidating staff
-[Repealed]
+Every person commits an offence, and is liable on summary conviction to a fine not exceeding $1,000, who intentionally insults, abuses, or intimidates a teacher or member of staff of an early childhood education and care centre—
+  (a) within the presence or hearing of any child at the centre; and
+  (b) while on centre premises or in any other place where children are assembled for purposes associated with the centre.
 
 ### 319H Offence of obstructing power of entry
-[Repealed]
+Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who obstructs, hinders, resists, or deceives any person exercising or attempting to exercise a power of entry conferred by section 319A, 319B, or 319C.
 
 ### 319I Payment of fees for attendance of children at kindergartens
-[Repealed]
+(1) Fees may be charged in respect of the attendance of any child at any kindergarten (whether or not it is, or is known or described as, a free kindergarten).
+(2) Subsection (1) is not limited or affected by, and has effect despite,—
+  (a) any enactment or rule of law; or
+  (b) anything in the constitution of any body corporate; or
+  (c) any contract or undertaking to the contrary entered into or given before the commencement of the Education Amendment Act (No 3) 1990.
 
 ### 319J Centres situated on property owned by the Crown
-[Repealed]
+(1) Where an early childhood education and care centre is situated on land owned by the Crown, the following provisions apply:
+  (a) the Secretary may direct the building of any capital works on that land intended for the centre's use:
+  (b) the service provider who operates the centre must—
+    (i) pay to the Secretary the rent for the time being charged by the Secretary; and
+    (ii) comply with standards of maintenance and capital works determined by the Secretary:
+  (c) the service provider who operates the centre must not, without the Secretary's approval,—
+    (i) carry out any capital works on the land; or
+    (ii) grant any lease or sublease of, or grant any licence or permit in respect of, or assign any rights in respect of, or part with possession or control of, or allow any other person to share possession, control, or use of, the land or any other property of the Crown.
+(2) The continued operation of an early childhood education and care centre on land owned by the Crown, and the occupation by an early childhood education and care centre of any building on land owned by the Crown, may be governed by—
+  (a) a lease or tenancy or licence under section 45 of the Public Works Act 1981; or
+  (b) a lease or licence under section 70B of the Education Act 1989; or
+  (c) an occupancy document notified to the service provider who operates the centre by the Secretary.
+(3) The Secretary may from time to time amend an occupancy document by written notice to the service provider who operates the centre.
 
 **Transitional provisions**
 
 ### 319K Existing early childhood centres deemed to be licensed
-[Repealed]
+(1) Subject to subsections (2), (3), and (6), every early childhood centre that, immediately before the commencement of this section, was licensed as an early childhood centre is deemed to be licensed as an early childhood education and care centre under this subsection, and continues to be so licensed—
+  (a) for the relevant period, and in accordance with the regulations referred to in section 319N(1)(a) and (b); or
+  (b) if the service provider who operates that centre applies within the relevant period for a licence in accordance with regulations made under section 317, until that application is determined.
+(2) Despite subsection (1), the Secretary may give written notice to the service provider of an early childhood education and care centre that is deemed to be licensed under subsection (1), requiring the service provider who operates that centre to apply for a licence under regulations made under section 317 within 3 months of the date of that notice, and—
+  (a) if that service provider fails to make such an application within the specified period, the centre ceases to be licensed under subsection (1) at the end of that period; or
+  (b) if that service provider makes such an application within the required period, the centre continues to be licensed under subsection (1) until that application has been determined.
+(3) Despite subsection (1), if subsection (4) applies, the Secretary may, by written notice to the service provider who operates an early childhood education and care centre that is deemed to be licensed under subsection (1), declare that the centre is no longer licensed under subsection (1) and the notice has effect accordingly.
+(4) The Secretary may give a notice under subsection (3) only if the Secretary is satisfied that the service provider or the centre—
+  (a) does not comply with the regulations referred to in section 319N(1)(a) and (b); or
+  (b) does not comply with any conditions of the licence.
+(5) The Secretary may, despite the fact that the centre concerned does not meet the minimum requirements for the issue of a licence under regulations made under section 317, issue to the service provider operating the centre a transitional licence under those regulations that—
+  (a) expires on a date specified in the licence (being a date that is not later than 18 months after the date of issue); and
+  (b) is subject to any conditions specified on it.
+(6) If the Secretary is not satisfied that the conditions specified in a licence issued in circumstances described in subsection (5) are being complied with, the Secretary may, by written notice to the service provider operating the centre, cancel the licence.
+(7) Every notice under subsection (3) or subsection (6) must give reasons for the action taken.
+(8) Every early childhood centre must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as an early childhood centre licensed under regulations made under section 317 (as inserted by section 53 of the Education Amendment Act 2006).
+(9) Subsections (1) to (6) do not limit any powers to cancel, suspend, or reclassify a licence conferred by the regulations referred to in section 319N(1)(a) and (b).
+(10) In this section, relevant period means,—
+  (a) in relation to an early childhood centre for which a probationary licence was in force immediately before the commencement of this section, the period expiring on—
+    (i) the date specified in the probationary licence as the date on which it expires; or
+    (ii) if a full licence is obtained under the regulations referred to in section 319N(1)(a) and (b) before the expiry of that probationary licence, the date that is 6 years after the commencement of this section:
+  (b) in relation to an early childhood centre for which a provisional or full licence was in force immediately before the commencement of this section, the date that is 6 years after the commencement of this section.
 
 ### 319L Existing chartered care arrangers deemed to be licensed
-[Repealed]
+(1) Subject to subsections (2) and (3), every care arranger who, immediately before the commencement of this section, was a chartered care arranger is deemed to be a service provider who is licensed to operate a home-based education and care service for—
+  (a) a period of 6 years after the commencement of this section; or
+  (b) if the service provider who provides that service applies within that period for a licence in accordance with regulations under section 317, until that application is determined.
+(2) Despite subsection (1), the Secretary may give written notice to a service provider that is deemed to be licensed under subsection (1), requiring the service provider to apply for a licence under regulations made under section 317 within 3 months of the date of that notice, and—
+  (a) if that service provider fails to make such an application within the specified period, the home-based education and care service provided by that service provider ceases to be licensed under subsection (1) at the end of that period; or
+  (b) if that service provider makes such an application within the required period, the service continues to be licensed under subsection (1) until that application has been determined.
+(3) Despite subsection (1), if subsection (4) applies, the Secretary may by written notice to the service provider who provides the home-based education and care service that is deemed to be licensed under subsection (1), declare that the service is no longer licensed under subsection (1) and the notice has effect accordingly.
+(4) The Secretary may give a notice under subsection (3) only if the Secretary is satisfied that the service is not provided in a way that complies with the code of practice set out in the order referred to in section 319N(1)(c).
+(5) The Secretary may, despite the fact that the service provider or service concerned does not meet the minimum requirements for the issue of a licence under regulations made under section 317 or the service concerned is not provided in a way that complies with the code of practice set out in the order referred to in section 319N(1)(c), issue to the service provider providing the service a transitional licence under those regulations that—
+  (a) expires on a date specified in the licence (being a date that is not later than 18 months after the date of issue); and
+  (b) is subject to any conditions specified on it.
+(6) If the Secretary is not satisfied that the conditions specified in a licence issued in circumstances described in subsection (5), are being complied with, the Secretary may, by written notice to the service provider providing the service, cancel the licence.
+(7) Every notice under subsection (3) or subsection (6) must give reasons for the action taken.
+(8) Every home-based education and care service must, while it is deemed to be licensed under subsection (1), be treated for the purposes of this Act as a home-based education and care service licensed under regulations made under section 317 (as inserted by section 53 of the Education Amendment Act 2006).
 
 ### 319M Funding conditions during transitional period
-[Repealed]
+(1) This section applies in respect of—
+  (a) a service provider who operates an early childhood education and care centre that immediately before the commencement of this section was a chartered early childhood centre, during the period while it is deemed to be licensed under section 319K(1); and
+  (b) a service provider who operates a home-based education and care service and who immediately before the commencement of this section was a chartered care arranger, during the period while the service provider is deemed to be licensed under section 319L(1).
+(2) While this section applies in respect of a service provider who operates an early childhood education and care centre or a home-based education and care service, it is a condition of any grant paid to that provider under section 311 that the provider continues to comply with the relevant statement of desirable objectives and practices published in the Gazette under section 312 (as that section read before the commencement of this section).
+(3) The Minister may at any time, while this section applies in respect of any service provider, amend, revoke, or replace any statement of desirable objectives and practices referred to in subsection (2) by notice in the Gazette.
 
 ### 319N Existing regulations preserved
-[Repealed]
+(1) The following regulations are to be treated as regulations made under section 317 (as inserted by section 53 of the Education Amendment Act 2006):
+  (a) the Education (Early Childhood Centres) Regulations 1998 (SR 1998/85):
+  (b) the Education (Early Childhood Centres) Fees Regulations 1990 (SR 1990/262):
+  (c) the Education (Home-Based Care) Order 1992 (SR 1992/238).
+(2) Despite subsection (1), the regulations referred to in subsection (1) are not to be treated as regulations made under section 317 (as inserted by section 53 of the Education Amendment Act 2006) for the purposes of the following provisions:
+  (a) section 319K(1)(b), (2), and (5); and
+  (b) section 319L(1)(b), (2), and (5); and
+  (c) section 319O(1).
+(3) The regulations and order referred to in subsection (1) may be amended under section 317.
 
 ### 319O Licence-exempt centres may continue
-[Repealed]
+(1) The service provider for an early childhood education and care centre, that immediately before the commencement of this section was a licence-exempt centre, may continue to operate that centre without a licence issued under regulations made under section 317 for a period that expires 6 years after the date of the commencement of this section.
+(2) Despite the repeal of sections 311A and 311B of this Act by the Education Amendment Act 2006, grants may continue to be paid after the commencement of this section to a service provider operating any early childhood education and care centre that, immediately before the commencement of this section, was a licence-exempt centre, for any period that the Minister considers reasonable (not exceeding 6 years after the date of the commencement of this section).
+(3) For the purposes of subsection (2), section 309 (as it read before the commencement of section 53 of the Education Amendment Act 2006) and sections 311A and 311B continue to apply as if—
+  (a) they were still in force; and
+  (b) every reference to the management of a centre were a reference to the service provider who operates the centre.
 
 ## Part 27 — Recognition and funding of other services
 
