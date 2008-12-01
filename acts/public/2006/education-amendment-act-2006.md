@@ -1,5 +1,5 @@
 # Education Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2008-12-01_
 
 ### 1 Title
 This Act is the Education Amendment Act 2006.
@@ -493,7 +493,7 @@ Part 26 is repealed, and the following Part substituted:Early childhood educatio
   (3) An offence against subsection (2) is punishable on summary conviction,—
     (a) in the case of an offence under subsection (2)(a), by a fine not exceeding $200 for every day or part of a day on which the offence took place; or
     (b) in the case of an offence under subsection (2)(b) or (c), by a fine not exceeding $200.
-  (4) This section is subject to section 3190.
+  (4) This section is subject to section 319O.
   A service provider for a home-based education and care service or a hospital-based education and care service may, but need not, apply for a licence under regulations made under section 317 in respect of the home-based education and care service or hospital-based education and care service provided by the service provider.
   (1) The Governor-General may, by Order in Council, make regulations providing for either or both of the following—
     (a) the licensing of service providers to provide early childhood services of any kind, and the transfer of licences:
