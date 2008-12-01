@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2008-12-01_
 
 > An Act—aTo reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbTo regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcTo monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddTo establish a Health Sponsorship Council
 
@@ -40,7 +40,7 @@ _Consolidation as at 2008-04-01_
   - **Director**
   - **Director-General** means the Director-General of Health
   - **distributor** means a person engaged in the business of selling tobacco products, or (as the case may be) herbal smoking products, otherwise than at retail only
-  - **early childhood centre** has the meaning given to it by section 308(1) of the Education Act 1989
+  - **early childhood education and care centre** has the meaning given to it by section 309 of the Education Act 1989.
   - **Employee** means any person of any age employed under a contract of service by an employer to do any work for hire or reward
   - **employer** —
     (a) means a person who employs one or more employees; and
@@ -195,8 +195,8 @@ This Act shall bind the Crown.
 ### 4 Purposes of this Part
 The purposes of this Part are—
   (a) to prevent the detrimental effect of other people's smoking on the health of people in workplaces, or in certain public enclosed areas, who do not smoke or do not wish to smoke there; and
-  (b) to prevent young people who are being taught or cared for in registered schools or early childhood centres from being influenced by seeing other people smoke there; and
-  (c) to prevent the detrimental effect of other people's smoking on the health of young people who are being taught or cared for in registered schools or early childhood centres.
+  (b) to prevent young people who are being taught or cared for in registered schools or early childhood education and care centres from being influenced by seeing other people smoke there; and
+  (c) to prevent the detrimental effect of other people's smoking on the health of young people who are being taught or cared for in registered schools or early childhood education and care centres.
 
 ### 5 Smoking in workplaces prohibited
 (1) An employer must take all reasonably practicable steps to ensure that no person smokes at any time in a workplace that is not—
@@ -243,7 +243,7 @@ An employer may permit smoking in a vehicle provided by the employer and normall
 ### 7 Duties of employer
 [Repealed]
 
-### 7A Smoking prohibited at schools and early childhood centres
+### 7A Smoking prohibited at schools and early childhood education and care centres
 (1) The managers of school premises or premises to which subsection (4) applies must take all reasonably practicable steps to ensure that—
   (a) no person smokes in any part of the premises (whether an internal area or an open area) at any time on any day; and
   (b) a notice stating that smoking within the premises is forbidden at all times is prominently displayed at or immediately inside—
@@ -253,11 +253,11 @@ An employer may permit smoking in a vehicle provided by the employer and normall
   (a) a building or enclosed area not usually or from time to time used by young people attending the school or centre concerned or members of the public; or
   (b) an outer entrance used by young people attending the school or centre concerned or members of the public only temporarily or in emergencies.
 (3) The occupier of premises that are neither school premises nor premises to which subsection (4) applies must take all reasonably practicable steps to ensure that no person smokes within any area of the premises (whether an internal area or an open area) that—
-  (a) is being used as an early childhood centre; or
-  (b) is so situated and ventilated that smoke from people smoking in it is likely to enter another area of the premises that is being used as an early childhood centre.
+  (a) is being used as an early childhood education and care centre; or
+  (b) is so situated and ventilated that smoke from people smoking in it is likely to enter another area of the premises that is being used as an early childhood education and care centre.
 (4) This subsection applies to premises—
-  (a) that are used exclusively or primarily as an early childhood centre; or
-  (b) that are facilities, grounds, structures, or other premises, controlled and managed by the managers of premises that are used exclusively or primarily as an early childhood centre, and used exclusively or primarily for—
+  (a) that are used exclusively or primarily as an early childhood education and care centre; or
+  (b) that are facilities, grounds, structures, or other premises, controlled and managed by the managers of premises that are used exclusively or primarily as an early childhood education and care centre, and used exclusively or primarily for—
     (i) the enjoyment, recreation, or relaxation of the children attending the centre; or
     (ii) cultural or sporting activities (or both) involving, or undertaken for the benefit of, the children attending the centre.
 
