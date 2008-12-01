@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Act 2001
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-12-01_
 
 ### 1 Title
 This Act is the Injury Prevention, Rehabilitation, and Compensation Act 2001.
@@ -4355,9 +4355,7 @@ In clauses 13 to 23,—
       (i) enrolled at a registered school within the meaning of that Act; or
       (ii) exempted under section 21 or 22A of that Act from the requirement to be enrolled; or
       (iii) exempted under section 26 (but not subsection (1)(b)(iii)) of that Act from attending a school; or
-    (b) attending—
-      (i) an early childhood centre within the meaning of section 308 of the Education Act 1989; or
-      (ii) a home-based service chartered under section 312 of that Act; or
+    (b) attending a licensed early childhood service within the meaning of section 309 of the Education Act 1989; or
     (c) enrolled at a state school, special school, special class, or special clinic, under an agreement to which section 9 of the Education Act 1989 applies
   - **home** —
     (a) means residential premises in New Zealand in which the claimant lives and which are owned, rented, or otherwise lawfully occupied by the claimant or his or her parent, guardian, or spouse or partner; and
