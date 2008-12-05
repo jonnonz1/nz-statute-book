@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2008-05-02_
+_Consolidation as at 2008-12-05_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -455,23 +455,24 @@ This Act shall bind the Crown.
 ### 10 Functions of Commission
 (1) The functions of the Commission shall be—
   (a) To perform the functions and duties conferred or imposed on it by or under this Act or any other enactment; and
-  (b) To keep under review the law relating to bodies corporate, securities, and unincorporated issuers of securities, and to recommend to the Minister any changes thereto that it considers necessary; and
-  (c) To keep under review practices relating to securities, and to comment thereon to any appropriate body; and
+  (b) To keep under review the law relating to bodies corporate, securities, financial advisers, and unincorporated issuers of securities, and to recommend to the Minister any changes thereto that it considers necessary; and
+  (c) To keep under review practices relating to securities and financial advisers, and to comment thereon to any appropriate body; and
   (ca) To co-operate with any overseas regulator and for that purpose, but without limiting this function, to communicate, or make arrangements for communicating, information obtained by the Commission in the performance of its functions and powers, confidential or not, to that overseas regulator which the Commission considers may assist that overseas regulator in the performance of its functions; and
   (caa) to keep under review activities on securities markets, and to comment on those activities to the appropriate body; and
   (cab) on the Minister's request, to advise the Minister on the conduct rules, or amendments to those rules, proposed by securities exchanges; and.
-  (d) To promote public understanding of the law and practice relating to securities; and
+  (d) To promote public understanding of the law and practice relating to securities and the law and practice relating to financial advisers; and
   (e) by agreement with the Takeovers Panel, to provide administrative and support services to the Panel.
 (2) Except as expressly provided otherwise in this or any other Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, powers or duties of the Commission (other than the Crown Entities Act 2004).
 
 ### 11 Membership of Commission
-(1) The Commission must consist of not less than 5, and not more than 10, members, of whom at least 1 must be a barrister or solicitor of at least 7 years' practice.
+(1) The Commission must consist of not less than 5, and not more than 11, members, of whom at least 1 must be a barrister or solicitor of at least 7 years' practice.
 (2) Members of the Commission are the board for the purposes of the Crown Entities Act 2004.
 (3) One member of the Commission must be appointed by the Governor-General, on the recommendation of the Minister, as chairperson.
 (3A) The chairperson and any deputy chairperson may only be removed from office as chairperson or deputy chairperson for just cause.
 (3B) In other respects, clauses 1(2) and (3) and 4(2) and (3) of Schedule 5 of the Crown Entities Act 2004 apply to the appointment and removal of the chairperson and any deputy chairperson of the Commission.
+(3C) One of the members must be appointed by the Governor-General as Commissioner for Financial Advisers under section 79(3) of the Financial Advisers Act 2008.
 (4) The Minister must not recommend a person for appointment as a member of the Commission, unless, in the opinion of the Minister, the person is qualified for appointment, having regard to the functions and powers of the Commission, by virtue of the person's knowledge of, or experience in, industry, commerce, economics, law, accountancy, public administration, or securities.
 (5) Subsection (4) does not limit section 29 of the Crown Entities Act 2004.
 
