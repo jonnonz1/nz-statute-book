@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2008-09-27_
+_Consolidation as at 2008-12-05_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
