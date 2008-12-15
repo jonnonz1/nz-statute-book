@@ -1,5 +1,5 @@
 # Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008
-_Consolidation as at 2008-05-29_
+_Consolidation as at 2008-12-15_
 
 ### 1 Title
 This Act is the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008.
@@ -22,7 +22,7 @@ This Act is the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters)
   (c) the subsections (3) of the sections come into force on 1 April 2011.
 (5) In Part 3,––
   (a) Sections 59 and 60 are treated as coming into force on 19 December 2007:
-  (b) Sections 24, 25, 26(1), 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 43, 44, 45, 46, 48(2) and (3)(a), 49, 50, 56, and 58are treated as coming into force on 1 April 2008:
+  (b) Sections 24, 25, 26(1), 27, 28, 29, 30, 32, 33, 34, 35, 36, 37, 38, 43, 44, 45, 46, 48(2) and (3)(a), 49, 50, 56, and 58 are treated as coming into force on 1 April 2008:
   (c) Sections 20, 21, 22, 23, 31, 48(4) and (5), 55, and 57 come into force on 1 July 2008:
   (d) Sections 39, 40, 41, 42, 47, 51, and 52 come into force on 1 October 2008:
   (e) Section 26(2) comes into force on 1 April 2009.
@@ -61,15 +61,15 @@ Sections 5 to 8 amend the Income Tax Act 2007.
 
 ### 7 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits: part A
 (1) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $9,5000.13752$9,501 – $14,0000.16753$14,001 – $38,0000.21004$38,001 – $40,0000.27005$40,001 – $60,0000.33006$60,001 – $70,0000.36007$70,001 upwards0.3900How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
-(2) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1252$14,001 – $40,0000.2103$40,001 – $70,0000.3304$70,001 upwards0.390How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
-(3) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $17,5000.1252$17,501 – $40,0000.2103$40,001 – $75,0000.3304$75,001 upwards0.390How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
-(4) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $20,0000.1252$20,001 – $42,5000.2103$42,501 – $80,0000.3304$80,001 upwards0.390How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+(2)
+(3)
+(4)
 
 ### 8 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits: part C
 (1) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $8,1940.15942$8,195 – $11,9400.20123$11,941 – $30,9000.2658 4$30,901 – $32,3600.3699 5 $32,361 – $45,7600.4925 6$45,761 – $52,1600.56257$52,161 upwards0.6393 How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
-(2) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $12,2500.14292$12,251 – $32,7900.2658 3$32,791 – $52,8900.4925 4$52,891 upwards0.6393 How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
-(3) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $15,3120.14292$15,313 – $33,0870.26583$33,088 – $56,5370.49254$56,538 upwards0.6393How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
-(4) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $17,5000.1429 2$17,501 – $35,2750.2658 3$32,276 – $60,4000.4925 4$60,401 upwards0.6393 How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
+(2)
+(3)
+(4)
 
 **Amendments to Tax Administration Act 1994**
 
@@ -98,41 +98,17 @@ Sections 10 and 11 amend the Tax Administration Act 1994.
   (l) in subparagraph (vi)(B), more than $60,000 is replaced by more than $70,000:
   (m) in subparagraph (via), more than $60,000 is replaced by more than $70,000:
   (n) in subparagraph (vib), more than $38,000 is replaced by more than $40,000.
-(2) In section 33A(1)(b),––
-  (a) subparagraph (iv)(AA) is repealed:
-  (b) in subparagraph (iv)(A), more than $40,000 but not more than $60,000 is replaced by more than $40,000 but not more than $70,000:
-  (c) subparagraph (iv)(BA) is repealed:
-  (d) subparagraph (v)(AA) is repealed:
-  (e) in subparagraph (v)(A), more than $40,000 but not more than $60,000 is replaced by more than $40,000 but not more than $70,000:
-  (f) subparagraph (v)(BA) is repealed:
-  (g) subparagraph (vi)(AA) is repealed:
-  (h) in subparagraph (vi)(A), more than $40,000 but not more than $60,000 is replaced by more than $40,000 but not more than $70,000:
-  (i) subparagraph (vi)(BA) is repealed.
-(3) In section 33A(1)(b),––
-  (a) in subparagraph (iv)(A), more than $40,000 but not more than $70,000 is replaced by more than $40,000 but not more than $75,000:
-  (b) in subparagraph (iv)(B), more than $70,000 is replaced by more than $75,000:
-  (c) in subparagraph (v)(A), more than $40,000 but not more than $70,000 is replaced by more than $40,000 but not more than $75,000:
-  (d) in subparagraph (v)(B), more than $70,000 is replaced by more than $75,000:
-  (e) in subparagraph (vi)(A), more than $40,000 but not more than $70,000 is replaced by more than $40,000 but not more than $75,000:
-  (f) in subparagraph (vi)(B), more than $70,000 is replaced by more than $75,000:
-  (g) in subparagraph (via), more than $70,000 is replaced by more than $75,000.
-(4) In section 33A(1)(b),––
-  (a) in subparagraph (iv)(A), more than $40,000 but not more than $75,000 is replaced by more than $42,500 but not more than $80,000:
-  (b) in subparagraph (iv)(B), more than $75,000 is replaced by more than $80,000:
-  (c) in subparagraph (v)(A), more than $40,000 but not more than $75,000 is replaced by more than $42,500 but not more than $80,000:
-  (d) in subparagraph (v)(B), more than $75,000 is replaced by more than $80,000:
-  (e) in subparagraph (vi)(A), more than $40,000 but not more than $75,000 is replaced by more than $42,500 but not more than $80,000:
-  (f) in subparagraph (vi)(B), more than $75,000 is replaced by more than $80,000:
-  (g) in subparagraph (via), more than $75,000 is replaced by more than $80,000:
-  (h) in subparagraph (vib), more than $40,000 is replaced by more than $42,500.
+(2)
+(3)
+(4)
 
 ### 11 Returns not required for certain providers of personal services
 (1) In section 33C,––
   (a) in paragraph (b), $9,500 is replaced by $14,000:
   (b) in paragraph (c), rate of 15% from is replaced by rate of 15% or 12.5% from.
 (2) In section 33C(c), rate of 15% or 12.5% from is replaced by rate of 12.5% from.
-(3) In section 33C(b), $14,000 is replaced by $17,500.
-(4) In section 33C(b), $17,500 is replaced by $20,000.
+(3)
+(4)
 
 ## Part 2 — Personal tax cuts: 1 October 2008 start
 
@@ -143,29 +119,25 @@ Sections 13 to 16 amend the Income Tax Act 2007.
 
 ### 13 Withdrawals
 (1) In section CS 1(7)(b), $60,000 is replaced by $70,000.
-(2) In section CS 1(7)(b), $70,000 is replaced by $75,000.
-(3) In section CS 1(7)(b), $75,000 is replaced by $80,000.
+(2)
+(3)
 
 ### 14 Amounts of tax for PAYE income payments
 (1) In section RD 10(2)(a), $60,000 is replaced by $70,000.
-(2) In section RD 10(2)(a), $70,000 is replaced by $75,000.
-(3) In section RD 10(2)(a), $75,000 is replaced by $80,000.
+(2)
+(3)
 
 ### 15 Payment of extra pay with other PAYE income payments
 (1) Section RD 17(2) and (3) are replaced by the following:Between $40,000 and $70,000Over $70,000
   (2) If the sum of the amounts referred to in subsection (1) is more than $40,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
   (3) If the sum of the amounts referred to in subsection (1) is more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 3.
-(2) Section RD 17(2) and (3) are replaced by the following:Between $40,000 and $75,000Over $75,000
-  (2) If the sum of the amounts referred to in subsection (1) is more than $40,000 but no more than $75,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
-  (3) If the sum of the amounts referred to in subsection (1) is more than $75,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 3.
-(3) Section RD 17(2) and (3) are replaced by the following:Between $42,500 and $80,000Over $80,000
-  (2) If the sum of the amounts referred to in subsection (1) is more than $42,500 but no more than $80,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
-  (3) If the sum of the amounts referred to in subsection (1) is more than $80,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 3.
+(2)
+(3)
 
 ### 16 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits: part D
 (1) Schedule 1, part D, table 1 is replaced by the following:Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1252$16,801 – $48,000 0.2103$48,001 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
-(2) Schedule 1, part D, table 1 is replaced by the following:Table 1RowESCT rate threshold amountTax rate1$0 – $21,000 0.1252$21,001 – $48,000 0.2103$48,001 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
-(3) Schedule 1, part D, table 1 is replaced by the following:Table 1RowESCT rate threshold amountTax rate1$0 – $24,000 0.1252$24,001 – $51,000 0.2103$51,001 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
+(2)
+(3)
 
 **Amendments to Tax Administration Act 1994**
 
@@ -177,13 +149,8 @@ Section 18 amends the Tax Administration Act 1994.
   (c) S for secondary employment earnings for an employee whose annual income is not more than $40,000:
   (d) SH for secondary employment earnings for an employee whose annual income is more than $40,000 but is not more than $70,000:
   (e) ST for secondary employment earnings for an employee whose annual income is more than $70,000:
-(2) Section 24B(3)(d) and (e) is replaced by the following:.
-  (d) SH for secondary employment earnings for an employee whose annual income is more than $40,000 but is not more than $75,000:
-  (e) ST for secondary employment earnings for an employee whose annual income is more than $75,000:
-(3) Section 24B(3)(c) to (e) is replaced by the following:.
-  (c) S for secondary employment earnings for an employee whose annual income is not more than $42,500:
-  (d) SH for secondary employment earnings for an employee whose annual income is more than $42,500 but is not more than $80,000:
-  (e) ST for secondary employment earnings for an employee whose annual income is more than $80,000:
+(2)
+(3)
 
 ## Part 3 — Annual rates, consequential personal tax cuts amendments, and remedial matters
 
