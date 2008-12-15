@@ -1,12 +1,12 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2008-12-15_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
 
 ### 2 Commencement
 (1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
-(2) 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(2) One or more Orders in Council may be made bringing different provisions into force on different dates.
 
 ## Part 1 — Preliminary provisions
 
@@ -903,7 +903,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 (2) The interest rate calculated using the formula is expressed as a percentage, rounded to 2 decimal places, with numbers at the midpoint or greater being rounded up and other numbers being rounded down.
 
 ### 87 Amount of interest payable
-The amount of interest payable by the Commissioner in respect of a person is calculated in accordance with the following formula:where—
+The amount of interest payable by the Commissioner in respect of a person is calculated in accordance with the following formula:(interest rate multiplied by contribution) multiplied by interest period divided by 365where—
   - **contribution** is the amount of contribution in respect of the person to whom the interest is payable
   - **interest period** is the number of days in the period that begins on the day on which the Commissioner receives, or is treated as receiving, the amount of contribution and ends with the day on which the Commissioner on-pays the amount of contribution to the provider of the person's KiwiSaver scheme or refunds the amount under this Part (except section 81)
   - **interest rate** is the rate calculated under section 86.
@@ -982,7 +982,7 @@ For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994,
 (1) This section applies if—
   (a) an employer, for a PAYE period, shows payments of employer contribution under this subpart on a remittance certificate or employer monthly schedule in respect of more than 1 of the employer's employees; and
   (b) the total amount received by the Commissioner for that PAYE period in respect of employer contribution under this subpart is less than the amounts shown on the remittance certificate and employer monthly schedule in respect of all of those employees.
-(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any 1 employee is given by the following formula:where—
+(2) For the purposes of this subpart, the amount of employer contribution (gross of any ESCT) that the Commissioner is treated as receiving for any 1 employee is given by the following formula:a multiplied by b divided by cwhere—
   (a) is the total employer contributions received by the Commissioner under this subpart for all of the employer's employees for the month to which the employer monthly schedule relates
   (b) is the employer contribution shown on the employer monthly schedule for the relevant employee for the month to which the employer monthly schedule relates
   (c) is the total employer contributions shown on either or both of the remittance certificate or employer monthly schedule for all of the employer's employees for the month to which the employer monthly schedule relates.
@@ -1009,9 +1009,12 @@ If an employee opts out after an employer contribution is paid to the Commission
 (1) The purpose of this section is to ensure that, for contractual arrangements of parties to an employment relationship (as defined in section 4(2) of the Employment Relations Act 2000), compulsory contributions are paid in addition to an employee's gross salary or wages described in section 101D(3).
 (2) The contractual arrangements of parties to an employment relationship must not have the effect of defeating the purpose of this section described in subsection (1).
 (3) A contractual term or condition has no effect to the extent to which it is contrary to the purpose of this section described in subsection (1).
-(4) However, on and after 13 December 2007,—
-  (a) parties to an employment relationship are free to agree contractual terms and conditions that ignore the purpose of this section described in subsection (1); and
-  (b) to the extent of such agreement described in subparagraph (a), subsections (1) to (3) do not apply.
+(4) However, on and after 13 December 2007, parties to an employment relationship are free to agree contractual terms and conditions that disregard the purpose of this section described in subsection (1), and, to the extent of such agreement, subsections (1) to (3) do not apply, unless, in respect of the employer and employee,––
+  (a) section 60(1)(a), (b) or (c) first applies on or after the day of assent for the Taxation (Urgent Measures and Annual Rates) Act 2008; and
+  (b) the contractual terms and conditions do not account for the amount of compulsory contributions the employer is required to pay.
+(4A) In the circumstances described in subsection (4)(a) and (b), despite subsection (4),––
+  (a) compulsory contributions must be paid in addition to an employee's gross salary or wages described in section 101D(3), in accordance with the purpose of this section described in subsection (1); and
+  (b) subsections (2) and (3) apply.
 (5) For the avoidance of doubt,—
   (a) the duty of good faith described in section 4 of the Employment Relations Act 2000 always applies when parties to an employment relationship bargain for terms and conditions relating to compulsory contributions and associated matters; and
   (b) sections 103(1)(h) and 110A of the Employment Relations Act 2000 apply in relation to the contractual terms and conditions of the parties to an employment relationship, subject to section 5 of the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008.
@@ -2352,6 +2355,15 @@ The enactments specified in Schedule 3 are amended in the manner shown in that s
 
 ### 234 Protection from non-compliance: Taxation (KiwiSaver) Act 2007
 If, as a result of amendments provided by the Taxation (KiwiSaver) Act 2007, there is non-compliance with an Act before 1 February 2008, the non-compliance is ignored unless it continues on or after 1 February 2008.
+
+### 235 Protection from non-compliance: Taxation (Urgent Measures and Annual Rates) Act 2008
+(1) If, as a result of amendments provided by the Taxation (Urgent Measures and Annual Rates) Act 2008, there is non-compliance with an Act related to securities before 14 February 2009, the non-compliance is ignored unless it continues on or after 14 February 2009.
+(2) Every provider of a KiwiSaver scheme or a complying superannuation fund, and every person acting on behalf of a provider is exempted in connection with the KiwiSaver scheme or complying superannuation fund from complying with regulation 7A(4) of the Securities Regulations 1983 in respect of information that must be disclosed in an investment statement because of changes to the scheme, fund, or the securities arising from any provision of the Taxation (Urgent Measures and Annual Rates) Act 2008.
+(3) The exemption in subsection (2) applies only in relation to an investment statement that has been first prepared and dated before 1 January 2009.
+(4) The exemption in subsection (2) applies if all information, statements, and other matters specified under italicised questions set out in Schedule 3D of the Securities Regulations 1983 that are required to be contained in an investment statement in respect of a security are—
+  (a) set out in a consistent style or format; and
+  (b) clearly identified as relating to particular questions.
+(5) Subsections (2) to (4) cease to have effect on and after 30 June 2009.
 
 ## Schedule 1 — KiwiSaver scheme rules
 
