@@ -1,5 +1,5 @@
 # Taxation (Business Taxation and Remedial Matters) Act 2007
-_Consolidation as at 2008-08-08_
+_Consolidation as at 2008-12-15_
 
 ### 1 Title
 This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
@@ -1954,9 +1954,7 @@ Sections 188 to 268 amend the Tax Administration Act 1994.
   (e) if the notice is a notice of proposed adjustment relating solely to a claim for an amount of tax credit under section LH 2 of the Income Tax Act 2007 that is issued by a taxpayer under section 89DA and the initiating notice is a notice of assessment issued by the taxpayer,—
     (i) the 2-year period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department, if the taxpayer is not a member of an internal software development group and not a partner in a partnership to which section 68E applies; or
     (ii) the period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department and ending on the day that is 2 years after the latest day for any member of the taxpayer's internal software development group or for the taxpayer's partnership to furnish a return of income or joint return of income for the relevant tax year under section 37
-(5) In section 3(1), in paragraph (e) of the definition of response period, as inserted by subsection (4),—
-  (a) in subparagraph (i), 2-year period is replaced by 1-year period:
-  (b) in subparagraph (ii), 2 years is replaced by 1 year.
+(5)
 (6) In section 3(1), the definition of tax agent is replaced by the following:.
   - **tax agent** means a person who—
     (a) is eligible under section 34B(2) to be a tax agent; and
@@ -1964,8 +1962,8 @@ Sections 188 to 268 amend the Tax Administration Act 1994.
       (i) before the date on which the Taxation (Business Taxation and Remedial Matters) Act 2007 receives the Royal assent:
       (ii) on or after the date on which that Act receives the Royal assent, after the person applies under section 34B to be listed by the Commissioner; and
     (c) is not later removed by the Commissioner from the list of tax agents
-(7) Subsection (4) applies for the 2008–09 and 2009–10 income years.
-(8) Subsection (5) applies for the 2010–11 and later income years.
+(7)
+(8)
 
 ### 189 Keeping of business records
 (1) In the heading to section 22, business records is replaced by business and other records.
@@ -2356,21 +2354,7 @@ Section 89J, other than the heading, is replaced by the following:
     (b) publish the determination in a publication of the department as soon as possible.
 
 ### 229 New heading and section 91AAP inserted
-(1) After section 91AAO, the following is inserted:Determinations relating to research and development tax creditsDeterminations relating to requirements for research and development tax credits
-  (1) For the purposes of a person or group of persons claiming a tax credit under section LH 2 of the Income Tax Act 2007, if the person or group of persons applies in writing requesting a determination under this section, the Commissioner may determine whether—
-    (a) a person meets the eligibility requirements in section LH 3 of the Income Tax Act 2007:
-    (b) expenditure or depreciation loss meets the requirements of the definition of eligible expenditure in section LH 4 of that Act:
-    (c) an activity meets the requirements of the definition of research and development activities in section LH 7 of that Act.
-  (2) An application under subsection (1) must be made in accordance with relevant regulations, or, if there are no relevant regulations, in accordance with a procedure that the Commissioner prescribes.
-  (3) Subject to this section, a determination made under subsection (1) is treated as made under that subsection, and as valid, on and after the date on which the Commissioner signs it.
-  (4) A determination made under subsection (1) is binding on the Commissioner but not binding on the person or group of persons who request it.
-  (5) A determination under subsection (1) is void, and treated as not existing, from the earliest of—
-    (a) the date on which legislation comes into force which, to the detriment of the person or group of persons relying on the determination, repeals or amends law relevant to the determination:
-    (b) the date on which a material misrepresentation or omission occurs, whether intentional or not:
-    (c) the date on which the Commissioner sends a notice to the person or group of persons that the Commissioner has withdrawn the determination.
-  (6) Despite subsection (5)(c), a determination that the Commissioner has withdrawn is valid, and treated as existing, to the extent that an activity to which the determination relates is started before the date on which the notice of withdrawal is sent.
-  (7) A determination under subsection (1) may not be disputed or challenged under Part 4A or 8A.
-(2) Subsection (1) applies for the 2008–09 and later income years.
+[Repealed]
 
 ### 230 Taxation laws in respect of which binding rulings may be made
 (1) In section 91C(1)(f), in the words before subparagraph (i), paragraphs (a) to (e) is replaced by paragraphs (a) to (eb).
@@ -2404,9 +2388,9 @@ Section 89J, other than the heading, is replaced by the following:
     (a) a taxpayer furnishes an income tax return for the 2008–09 or a later tax year; and
     (b) 2 years have passed from the end of the tax year in which the taxpayer provides the tax return; and
     (c) the taxpayer has not issued a notice of proposed adjustment to the Commissioner for an amount of research and development tax credit for the relevant tax year within the relevant response period.
-(2) In section 108(1B)(b), as inserted by subsection (1), 2 years have is replaced by 1 year has.
-(3) Subsection (1) applies for the 2008–09 and 2009–10 income years.
-(4) Subsection (2) applies for the 2010–11 and later income years.
+(2)
+(3)
+(4)
 
 ### 233 Extension of time bars
 (1) In section 108B(3)(d), section 108 is replaced by section 108(1).
