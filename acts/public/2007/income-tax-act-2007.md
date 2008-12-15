@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-12-15_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -24660,7 +24660,7 @@ Persons excluded
 When this section applies
 (1) This section applies when—
   (a) a person to whom section LH 1(1) applies meets the requirements of section LH 3 for an income year or for a period in an income year; and
-  (b) the income year is the 2008–09 income year or a later income year; and
+  (b) the income year is the 2008–09 income year; and
   (c) the person incurs in the income year or period an amount of expenditure or depreciation loss on research and development activities that—
     (i) meets the requirements of subsection (3); and
     (ii) is an amount related to research and development activities performed on their own behalf and not on behalf of another person; and
@@ -24677,8 +24677,8 @@ When expenditure treated as incurred in income year
 (5) In subsections (1)(c) and (3) and sections LH 3(1)(e) and LH 5(2), for the purposes of a tax credit under this subpart, the following amounts are treated as expenditure incurred in the income year:
   (a) the opening value of trading stock in the income year under section DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements):
   (b) an unexpired amount of expenditure in the income year under section DB 50 (Adjustment for prepayments):
-  (c) an unpaid amount of expenditure on employment income in the income year under section DB 51 (Adjustment for deferred payment of employment income) in relation to research and development activities performed in the 2008–09 income year or a later income year:
-  (d) an amount of overseas eligible expenditure under section LH 6(5).
+  (c)
+  (d)
 Dealing with remaining tax credits: relationship with sections LA 5 and LA 6
 (6) If the person has a tax credit under this section remaining for the tax year under section LA 5(5) (Treatment of remaining credits), section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items) applies to the use of that credit, but is modified by treating the following paragraph as inserted after subsection (2)(c):
   (cb) pay an amount that is payable by the person under an Inland Revenue Act.
@@ -24752,8 +24752,8 @@ Meaning of research and development project
 Meaning of overseas eligible expenditure
 (5) Overseas eligible expenditure, for a person and an income year, means expenditure or an amount of depreciation loss that—
   (a) would, in the absence of this subsection, be eligible expenditure under section LH 4; and
-  (b) is incurred by the person in research and development activities performed outside New Zealand in the 2008–09 income year or a later income year as part of a research and development project; and
-  (c) is limited to a maximum amount of 10% of the total eligible expenditure under section LH 4 incurred in or before the income year on research and development activities performed in New Zealand in the 2008–09 income year or a later income year as part of the research and development project.
+  (b) is incurred by the person in research and development activities performed outside New Zealand in the 2008–09 income year as part of a research and development project; and
+  (c) is limited to a maximum amount of 10% of the total eligible expenditure under section LH 4 incurred in the income year on research and development activities performed in New Zealand in the 2008–09 income year as part of the research and development project.
 
 ### LH 7 Research and development activities and related terms
 Research and development activities
@@ -33920,7 +33920,7 @@ Calculation of amount of tax
 (2) The amount of tax for the payment that the person must withhold and pay to the Commissioner is calculated using the formula—(tax rate × (interest paid + foreign withholding tax)) – foreign withholding tax.
 Definition of items in formula
 (3) In the formula,—
-  (a) tax rate is the basic rate set out in schedule 1, part D, clause 4 or 5 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
+  (a) tax rate is the basic rate set out in schedule 1, part D, clause 3 or 4 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) interest paid is the interest paid before the amount of tax is determined:
   (c) foreign withholding tax is the amount of foreign withholding tax paid or payable on the interest paid.
 
@@ -35147,7 +35147,7 @@ Calculation modified: 2008–09 income year
 Calculation modified: 2009–10 income year
 (3) In the calculation of the amount of an instalment under section RC 10(2) for the 2009–10 income year, the item residual income tax in the formula is the amount of residual income tax for the tax year before the preceding tax year without any uplift.
 
-### RZ 5B Standard method: new personal tax rate persons from 1 October 2008 to end 2012–13 income year
+### RZ 5B Standard method: new personal tax rate persons from 1 October 2008 to end 2009–10 income year
 When this section applies
 (1) This section applies for a new personal tax rate person to the calculation of their provisional tax liability from 1 October 2008 to the end of the 2012–13 income year.
 Standard method modified: RIT reduction from 1 October 2008 to end 2008–09
@@ -35159,17 +35159,13 @@ Standard method modified: RIT reduction 2009–10
   (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $730:
   (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,460.
 Standard method modified: RIT reduction 2010–11
-(4) For the purpose of the person’s provisional tax liability calculation for the 2010–11 income year,—
-  (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $597.50:
-  (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,327.50.
+(4)
 Standard method modified: RIT reduction 2011–12
-(5) For the purpose of the person’s provisional tax liability calculation for the 2011–12 income year,—
-  (a) under section RC 5(2) and RC 10(3)(a)(i), the amount of the person’s residual income tax for the preceding tax year is reduced by $812.50:
-  (b) under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $1,410.
+(5)
 Standard method modified: RIT reduction 2012–13
-(6) For the purpose of the person’s provisional tax liability calculation for the 2012–13 income year, under section RC 5(3) and RC 10(3)(a)(ii), the amount of the person’s residual income tax for the tax year before the preceding tax year is reduced by $812.50.
+(6)
 
-### RZ 5C GST ratio method: new personal tax rate persons from 1 October 2008 to end 2013–14 income year
+### RZ 5C GST ratio method: new personal tax rate persons from 1 October 2008 to end 2009–10 income year
 When this section applies
 (1) This section applies for a new personal tax rate person to the calculation of their provisional tax liability from 1 October 2008 to the end of the 2013–14 income year.
 GST method modified: RIT reduction from 1 October 2008 to end 2008–09
@@ -35183,21 +35179,13 @@ GST method modified: RIT reduction 2009–10
   (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding tax year or the transitional year, as applicable, is reduced by $1,460:
   (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $1,460.
 GST method modified: RIT reduction 2010–11
-(4) For the purposes of the person’s provisional tax liability and GST ratio calculation for the 2010–11 income year,—
-  (a) under section RC 8(2), the amount of the person’s residual income tax for the preceding year is reduced by $597.50:
-  (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by $1,327.50:
-  (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $2,057.50.
+(4)
 GST method modified: RIT reduction 2011–12
-(5) For the purposes of the person’s provisional tax liability and GST ratio calculation for the 2011–12 income year,—
-  (a) under section RC 8(2), the amount of the person’s residual income tax for the preceding year is reduced by $812.50:
-  (b) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by $1,410:
-  (c) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $2,140.
+(5)
 GST method modified: RIT reduction 2012–13
-(6) For the purposes of the person’s provisional tax liability calculation for the 2012–13 income year,—
-  (a) under section RC 8(3) and (7), the amount of the person’s income tax assessment or residual income tax for the tax year before the preceding year or the transitional year, as applicable, is reduced by $812.50:
-  (b) under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $1,410.
+(6)
 GST method modified: RIT reduction 2013–14
-(7) For the purposes of the person’s provisional tax liability calculation for the 2013–14 income year, under section RC 8(3B) and (7B), the amount of the person’s income tax assessment for the year that is 2 years before the preceding tax year or the transitional year, as applicable, is reduced by $812.50.
+(7)
 
 **Refunds**
 
@@ -47329,3 +47317,38 @@ In this Part, other than sections 4 and 9,—
 ### 49 Treatment of qualifying company election tax, FBT, FDP penalty tax, imputation penalty tax, and withdrawal tax
 (1) Amendment incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 income year and later income years.
+
+### 1 Title
+This Act is the Taxation (Urgent Measures and Annual Rates) Act 2008.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) In Part 1, other than sections 3, 4, and 15,—
+  (a) the subsections (1) of the sections come into force on 1 April 2009:
+  (b) the subsections (2) of the sections come into force on 1 April 2010:
+  (c) the subsections (3) of the sections come into force on 1 April 2011.
+(3) In Part 2,––
+  (a) sections 24, 27, and 28 are treated as coming into force on 19 December 2007:
+  (b) section 19(1)(a) and (b) is treated as coming into force on 1 April 2008:
+  (c) sections 19(1)(c), 21, 25, and 26 come into force on 1 April 2009:
+  (d) sections 19(1)(d), 20(2) to (7), and 22 come into force on 1 October 2009.
+(4) In Part 3,––
+  (a) sections 33(1) and 40 are treated as coming into force on 1 April 2008:
+  (b) section 41 is treated as coming into force on 29 May 2008:
+  (c) sections 34 and 35 are treated as coming into force on 1 October 2008:
+  (d) sections 29, 31, 33(2), 36(2), 37, and 39 come into force on 1 April 2009:
+  (e) section 32 comes into force on 1 April 2010.
+(5) In Part 4, sections 43, 44, 45, 46, 48, 50, 52, 53, 54, 55, 56(2) and (3), 57, and 58 come into force on 1 April 2009.
+
+## Part 2 — Research and development tax credits repeal
+
+**Amendments to Income Tax Act 2007**
+
+### 19 Subpart LH—Tax credits for expenditure on research and development
+(1) In subpart LH,––
+  (a) Amendments incorporated in the principal Act.
+  (b) Amendments incorporated in the principal Act.
+  (c) sections LH 1 to LH 6, LH 8 to LH 14, and LH 16 are repealed:
+  (d) section LH 15 is repealed.
+(2) Subsection (1)(a) and (b) applies for the 2008–09 income year and later income years.
+(3) Subsection (1)(c) applies for the 2009–10 income year and later income years.
