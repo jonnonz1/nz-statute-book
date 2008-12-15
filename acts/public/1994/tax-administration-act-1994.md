@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-12-15_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -337,7 +337,7 @@ _Consolidation as at 2008-10-01_
       (ii) the 1-year period starting on the date of issue of the initiating notice, if the notice of proposed adjustment relates solely to a claim for an amount of tax credit under section LH 2 of the Income Tax Act 2007:
     (d) if the notice is a notice of proposed adjustment not relating solely to a claim for an amount of tax credit under section LH 2 of the Income Tax Act 2007 that is issued by a taxpayer under section 89DA and the initiating notice is a notice of assessment issued by the taxpayer, the 4-month period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department:
     (e) if the notice is a notice of proposed adjustment relating solely to a claim for an amount of tax credit under section LH 2 of the Income Tax Act 2007 that is issued by a taxpayer under section 89DA and the initiating notice is a notice of assessment issued by the taxpayer,—
-      (i) the 1-year period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department, if the taxpayer is not a member of an internal software development group and not a partner in a partnership to which section 68E applies; or
+      (i) the 2-year period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department, if the taxpayer is not a member of an internal software development group and not a partner in a partnership to which section 68E applies; or
       (ii) the period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department and ending on the day that is 1 year after the latest day for any member of the taxpayer's internal software development group or for the taxpayer's partnership to furnish a return of income or joint return of income for the relevant tax year under section 37
   - **responsible department** , in sections 81(4)(f) and (o), 82 and 85, means—
     (a) in relation to a benefit that is not a student allowance, the department for the time being responsible for administration of the Social Security Act 1964:
@@ -4745,7 +4745,7 @@ Where, whether before or after the commencement of this Act,—the validity of t
 (1A) Unless subsection (2) or section 108B applies, the Commissioner must not issue an income statement under Part 3A if 4 years have passed since the end of the tax year that follows the tax year to which the income statement would apply.
 (1B) Despite subsection (1), the Commissioner may not amend an assessment so as to increase an amount of research and development tax credit under section LH 2 of the Income Tax Act 2007 if—
   (a) a taxpayer furnishes an income tax return for the 2008–09 or a later tax year; and
-  (b) 1 year has passed from the end of the tax year in which the taxpayer provides the tax return; and
+  (b) 2 years have passed from the end of the tax year in which the taxpayer provides the tax return; and
   (c) the taxpayer has not issued a notice of proposed adjustment to the Commissioner for an amount of research and development tax credit for the relevant tax year within the relevant response period.
 (1B)
 (2) If the Commissioner is of the opinion that a tax return provided by a taxpayer—the Commissioner may amend the assessment at any time so as to increase its amount.
@@ -6938,6 +6938,13 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
 
 ### 177C Write-off of tax by Commissioner
 (1) The Commissioner may write off outstanding tax that cannot be recovered.
+(1B) The Commissioner may write off an amount of outstanding tax to the extent to which the amount––
+  (a) is outstanding from the 2008–09 tax year; and
+  (b) is tax payable under section MF 5(2) or MF 6(2) of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting; and
+  (c) is outstanding due to amendments to the family scheme made by the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008.
+(1C) The Commissioner must write off an amount, not exceeding $100, of outstanding tax to the extent to which the amount––
+  (a) is outstanding from the 2008–09 tax year; and
+  (b) is tax payable under section MF 5(2) or MF 6(2) of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
 (2) The Commissioner must write off outstanding tax that cannot be recovered in the following situations:
   (a) bankruptcy:
   (b) liquidation:
@@ -7717,16 +7724,6 @@ This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
 
 ## Part 2 — Amendments to Tax Administration Act 1994
 
-### 188 Interpretation
-(1) Amendment incorporated in the principal Act
-(2) Amendment incorporated in the principal Act
-(3) Amendment incorporated in the principal Act
-(4) Amendment incorporated in the principal Act
-(5) Amendment incorporated in the principal Act
-(6) Amendment incorporated in the principal Act
-(7) Subsection (4) applies for the 2008–09 and 2009–10 income years.
-(8) Subsection (5) applies for the 2010–11 and later income years.
-
 ### 189 Keeping of business records
 (1) Amendment incorporated in the principal Act
 (2) Amendment incorporated in the principal Act
@@ -7772,12 +7769,6 @@ This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
 (3) Amendment incorporated in the principal Act
 (4) Subsections (1) and (2) apply for the 2005–06 and later income years.
 (5) Subsection (3) applies for the 2008–09 and later income years.
-
-### 232 Time bar for amendment of income tax assessment
-(1) Amendment incorporated in the principal Act
-(2) Amendment incorporated in the principal Act
-(3) Subsection (1) applies for the 2008–09 and 2009–10 income years.
-(4) Subsection (2) applies for the 2010–11 and later income years.
 
 ### 233 Extension of time bars
 (1) Amendment incorporated in the principal Act
