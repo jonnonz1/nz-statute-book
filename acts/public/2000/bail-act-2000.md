@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-12-17_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -49,7 +49,7 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 
 ### 8 Consideration of just cause for continued detention
 (1) In considering whether there is just cause for continued detention, the court must take into account—
-  (a) whether there is a real and significant risk that—
+  (a) whether there is a risk that—
     (i) the defendant may fail to appear in court on the date to which the defendant has been remanded; or
     (ii) the defendant may interfere with witnesses or evidence; or
     (iii) the defendant may offend while on bail; and
@@ -63,7 +63,7 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
   (f) the likely length of time before the matter comes to hearing or trial:
   (g) the possibility of prejudice to the defence in the preparation of the defence if the defendant is remanded in custody:
   (h) any other special matter that is relevant in the particular circumstances.
-(3) For the avoidance of doubt, in considering whether there is just cause for continued detention under this section, a breach of bail conditions may only be taken into account under subsection (2)(e) in so far as it is relevant to whether there is a real and significant risk that the defendant may do any of the things set out in subsection (1)(a).
+(3)
 (4) When considering an application for bail, the court must take into account any views of a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with section 30 of that Act.
 (5) In deciding, in relation to a defendant charged with an offence against section 49(1)(a) or (b) of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
 
