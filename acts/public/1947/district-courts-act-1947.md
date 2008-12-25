@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-12-25_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -346,7 +346,7 @@ No trial Judge shall conduct the trial of any person under this Part of this Act
   (b) He has taken any evidence in respect of that offence under section 174 or section 175 or section 178 of that Act.
 
 ### 28D Constitution and procedure of Court
-(1) Subject to sections 361B and 361C of the Crimes Act 1961, every trial upon indictment under this Part of this Act shall be held before a trial Judge and a jury of 12 persons.
+(1) Subject to sections 361B to 361E of the Crimes Act 1961, every trial upon indictment under this Part of this Act shall be held before a trial Judge and a jury of 12 persons.
 (2) The provisions of the Juries Act 1981, so far as they are applicable and with the necessary modifications, shall apply to every such trial.
 (3) Where any person is committed to a District Court for trial, the provisions of Parts 12 and 13 of the Crimes Act 1961, so far as they are applicable and with the necessary modifications, shall apply until the matter is finally disposed of.
 
