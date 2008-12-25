@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2008-12-25_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -659,21 +659,8 @@ All fees received under this Act must be paid into a Crown Bank Account.
 ### 54A Verdict of three-fourths
 If three-fourths at least of any jury trying any civil case shall, after the jury has retired to consider its verdict for a period of at least 4 hours, intimate to the Judge presiding that the jury has considered its verdict, and that there is no probability of such jury being unanimous, the verdict of three-fourths shall have the same effect as the verdict of the whole number.
 
-### 54B Discharge of jury
-(1) Subject to the provisions of this section, the Court may in its discretion, in the case of any emergency or casualty rendering it, in the opinion of the Court, highly expedient for the ends of justice to do so, discharge the jury without their giving a verdict.
-(2) Without limiting subsection (1) of this section, where a jury has remained in deliberation for such period as the Judge thinks reasonable, being not less than 4 hours, and does not agree on the verdict to be given, the Judge may discharge the jury without their giving a verdict.
-(3) If, at any time before the verdict of the jury is taken, any juror becomes in the opinion of the Court incapable of continuing to perform his or her duty, or it becomes known to the Court that the juror is disqualified, or that a relative of the juror is ill or has died, the Court may, in its discretion,
-  (a) discharge the jury without giving their verdict; or
-  (b) proceed with the remaining jurors and take their verdict.
-(3A) In subsection (3), relative of the juror means
-  (a) the spouse, civil union partner, or de facto partner of the juror; and
-  (b) a member of the juror's family; and
-  (c) a member of the family of the juror's spouse, civil union partner, or de facto partner.
-(4) Notwithstanding subsection (3)(b) of this section, the Court shall not proceed with less than 11 jurors unless all the parties consent.
-(5) Where under subsection (3)(b) of this section the Court proceeds with less than 12 jurors, their verdict shall have the same effect as the verdict of the whole number.
-(6) Where the Court discharges a jury under this section, it shall either direct that a new jury be empanelled during the sitting of the Court, or postpone the trial on such terms as justice requires.
-(7) If the presiding Judge becomes incapable of trying the case or directing that the jury be discharged, the Registrar shall discharge the jury.
-(8) No Court may review the exercise of any discretion under this section.
+### 54B Discharge of juror or jury
+Nothing in this Act affects the powers of a Court or Judge to discharge a juror or jury for a civil case under section 22 of the Juries Act 1981.
 
 **Miscellaneous rules of law and of practice**
 
@@ -9635,3 +9622,14 @@ Rule 651 is revoked and the following rule substituted:Registrars may make some 
     (j) rule 649; and
     (k) rule 650(1).
   (3) Rules 272 to 276 apply to a registrar acting under subclause (2). For this purpose, references in them to rule 270 or rule 271 must be read as references to rule 651(2).
+
+### 1 Title
+This Act is the Juries Amendment Act 2008.
+
+### 2 Commencement
+(1) This Act (except sections 4, 11, 12, and 19) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
+(2) Sections 4, 11, 12, and 19 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+
+### 15 New sections 22 to 22C substituted
+(1) Amendment incorporated in the principal Act
+(2) This section and 16 (amendments and repeals consequential on new sections 22 to 22C substituted) apply only to any trial for which a jury is constituted on or after the date on which this section comes into force.
