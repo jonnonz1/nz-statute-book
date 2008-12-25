@@ -1,5 +1,5 @@
 # Human Rights Amendment Act 2001
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2008-12-25_
 
 ### 1 Title
 (1) This Act is the Human Rights Amendment Act 2001.
@@ -833,8 +833,7 @@ Section 55 of the Births, Deaths, and Marriages Registration Act 1995 (1995 No 1
 **Amendment to Crimes Act 1961**
 
 ### 47 Discharge of jury
-Section 374(3) of the Crimes Act 1961 (1961 No 43) is amended by repealing paragraph (c), and substituting the following paragraph:.
-  (c) A juror's spouse, de facto partner of the same or different sex, family member, or a family member of a juror's spouse or de facto partner (whether of the same or different sex) is ill or has died; or
+[Repealed]
 
 **Amendments to Electoral Act 1993**
 
@@ -881,9 +880,7 @@ The Immigration Act 1987 (1987 No 74) is amended by inserting, after section 149
 **Amendment to Judicature Act 1908**
 
 ### 56 Discharge of jury
-Section 54B(3) of the Judicature Act 1908 (1908 No 89) is amended—
-  (a) by inserting, after the word spouse in the first place where it appears, the words , de facto partner (whether of the same or different sex),; and
-  (b) by inserting, after the word spouse in the second place where it appears, the words or de facto partner of the same or different sex.
+[Repealed]
 
 **Amendment to Land Transfer Act 1952**
 
@@ -1172,3 +1169,14 @@ The address for service of the Director and of the Office is the address of the 
 ## Schedule 2 — Amendments relating to disability as a ground for removal from office
 
 ## Schedule 3 — Consequential amendments to other enactments
+
+### 1 Title
+This Act is the Juries Amendment Act 2008.
+
+### 2 Commencement
+(1) This Act (except sections 4, 11, 12, and 19) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
+(2) Sections 4, 11, 12, and 19 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+
+### 15 New sections 22 to 22C substituted
+(1) Amendment incorporated in the principal Act
+(2) This section and 16 (amendments and repeals consequential on new sections 22 to 22C substituted) apply only to any trial for which a jury is constituted on or after the date on which this section comes into force.
