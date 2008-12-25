@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2008-12-25_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -3528,7 +3528,8 @@ Every accused person shall, upon being called upon to plead, be entitled to have
 (4) A representative for the purposes of this section need not be appointed under the seal of the corporation; and a statement in writing purporting to be signed by a managing director of the corporation, or by any person (by whatever name he is called) having, or being one of the persons having, the management of the affairs of the corporation, to the effect that the person named in the statement has been appointed as the representative of the corporation for the purposes of this section shall be admissible without further proof as prima facie evidence that that person has been so appointed.
 
 ### 361A Trial before a Judge with a jury general rule
-Subject to sections 361B and 361C of this Act, every accused person shall be tried before a Judge with a jury.
+(1) Every accused person shall be tried before a Judge with a jury.
+(2) Subsection (1) is subject to sections 361B to 361E.
 
 ### 361B Accused may apply for trial before a Judge without a jury
 (1) Subject to the succeeding provisions of this section, where any accused person is committed to the High Court or to a District Court Judge exercising jurisdiction under section 28A of the District Courts Act 1947 for trial for any offence other than one referred to in subsection (5) of this section, he may, within 28 days after the date on which he is so committed, give written notice to the Registrar of the High Court or of the District Court, as the case may require at the place to which he is so committed of his wish to be tried before a Judge of that Court without a jury.
@@ -3549,6 +3550,31 @@ Subject to sections 361B and 361C of this Act, every accused person shall be tri
 (3) No such leave shall be granted in any case where a Judge has, pursuant to section 361B(4) of this Act, ordered that the accused shall be tried before a Judge with a jury.
 (4) Where 2 or more persons are to be tried together, no leave shall be granted under subsection (1) of this section unless each of them seeks such leave.
 (5) Where the Judge grants leave, he shall order that the accused be tried before the Judge without a jury unless, having regard to the interests of justice, the Judge considers that the accused should be tried before the Judge with a jury, in which case he shall order accordingly.
+
+### 361D Judge may order trial without jury in certain cases that are likely to be long and complex
+(1) This section applies only to a person (the accused person) who is committed for trial for an offence that is not—
+  (a) an offence for which the maximum penalty is imprisonment for life or imprisonment for 14 years or more; or
+  (b) an offence of attempting or conspiring to commit, or of being a party to the commission of, or of being an accessory after the fact to, an offence referred to in paragraph (a).
+(2) The Judge may, on a written application for the purpose made by the prosecutor to the Judge and served on the accused person before the accused person is given in charge to the jury, order that the accused person be tried for the offence before the Judge without a jury.
+(3) However, the Judge may make an order under subsection (2) only if the prosecution and the accused person have been given an opportunity to be heard in relation to the application, and following such hearing, the Judge is satisfied—
+  (a) that all reasonable procedural orders (if any), and all other reasonable arrangements (if any), to facilitate the shortening of the trial, have been made, but the duration of the trial still seems likely to exceed 20 days; and
+  (b) that, in the circumstances of the case, the accused person's right to trial by jury is outweighed by the likelihood that potential jurors will not be able to perform their duties effectively.
+(4) In considering, for the purposes of subsection (3)(b), the circumstances of the case, the Judge must take into account the following matters:
+  (a) the number and nature of the offences with which the accused person is charged:
+  (b) the nature of the issues likely to be involved:
+  (c) the volume of evidence likely to be presented:
+  (d) the imposition on potential jurors of sitting for the likely duration of the trial:
+  (e) any other matters the Judge considers relevant.
+(5) If the accused person is one of 2 or more persons to be tried together, all of them must be tried before a Judge with a jury unless an order under subsection (2) for all of them to be tried by a Judge without a jury is applied for and made.
+(6) This section does not limit section 361B or 361C or 361E.
+
+### 361E Judge may order trial without jury in cases involving intimidation of juror or jurors
+(1) The Judge may, on a written application for the purpose made by the prosecutor before an accused person is given in charge to the jury, order that the accused person be tried for the offence before the Judge without a jury.
+(2) However, the Judge may make an order under subsection (1) only if satisfied that there are reasonable grounds to believe—
+  (a) that intimidation of any person or persons who may be selected as a juror or jurors has occurred, is occurring, or may occur; and
+  (b) that the effects of that intimidation can be avoided effectively only by making an order under subsection (1).
+(3) If the accused person is one of 2 or more persons to be tried together, all of them must be tried before a Judge with a jury unless an order under subsection (1) for all of them to be tried by a Judge without a jury is applied for and made.
+(4) This section does not limit sections 361B to 361D.
 
 ### 362 Challenging the array
 [Repealed]
@@ -3638,28 +3664,8 @@ Where any accused person is not defended by counsel, then, on the completion of 
 (3)
 (4)
 
-### 374 Discharge of jury
-(1) Subject to the provisions of this section, the Court may in its discretion, in the case of any emergency or casualty rendering it, in the opinion of the Court, highly expedient for the ends of justice to do so, discharge the jury without their giving a verdict.
-(2) Without limiting subsection (1) of this section, where a jury has remained in deliberation for such period as the Judge thinks reasonable, being not less than 4 hours, and does not agree on the verdict to be given, the Judge may discharge the jury without their giving a verdict.
-(3) Subsection (4) applies if, at any time before the verdict of the jury is taken, the Court is of the opinion that—
-  (a) A juror is incapable of continuing to perform his or her duty; or
-  (b) A juror is disqualified; or
-  (c) the spouse, civil union partner, or de facto partner of a juror, or a family member of a juror, is ill or has died; or
-  (ca) a family member of a juror's spouse, civil union partner, or de facto partner is ill or has died; or
-  (d) A juror is personally concerned in the facts of the case; or
-  (e) A juror is closely connected with 1 of the parties or with 1 of the witnesses or prospective witnesses.
-(4) Where this subsection applies, the Court, having regard to the interests of justice, may,—
-  (a) Make an order discharging the jury without their giving a verdict; or
-  (b) Subject to subsection (4A), make an order to proceed with the remaining jurors and take their verdict.
-(4A) The Court must not proceed with fewer than 11 jurors except in the following cases:
-  (a) If the prosecutor and the accused consent:
-  (b) If the Court considers that, because of exceptional circumstances relating to the trial (including, without limitation, the length or expected length of the trial), and having regard to the interests of justice, the Court should proceed with fewer than 11 jurors; and in that case—
-    (i) The Court may proceed with 10 jurors whether or not the prosecutor and the accused consent:
-    (ii) The Court may proceed with fewer than 10 jurors only if the prosecutor and the accused consent.
-(5) If the Court proceeds with fewer than 12 jurors, their verdict has the same effect as the verdict of 12 jurors.
-(6) Where the Court discharges a jury under this section, it shall either direct that a new jury be empanelled during the sitting of the Court, or postpone the trial on such terms as justice requires.
-(7) If the presiding Judge becomes incapable of trying the case or directing that the jury be discharged, the Registrar shall discharge the jury.
-(8) No Court may review the exercise of any discretion under this section.
+### 374 Discharge of juror or jury
+Nothing in this Act affects the powers of a Court or Judge or Registrar to discharge a juror or jury for a criminal case under section 22 or 22C of the Juries Act 1981.
 
 ### 375 Power to clear Court and forbid report of proceedings
 [Repealed]
@@ -3826,6 +3832,8 @@ In this Part of this Act, unless the context otherwise requires,—
   (cc) Against an order under section 345D of this Act granting or refusing leave to file an amended indictment:
   (cd) Against an order under section 346 of this Act discharging or refusing to discharge an accused:
   (d) Against the making of an order directing separate trials of persons jointly charged, or against a refusal to make such an order:
+  (da) against the making of an order under section 361D(2) (Judge may order trial without a jury in certain cases that are likely to be long and complex), or against a refusal to make such an order:
+  (db) against the making of an order under section 361E(1) (Judge may order trial without a jury in cases involving intimidation of jurors), or against a refusal to make such an order:
   (e) Against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
   (f) Against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section.
   (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross examination of a complainant, or against the refusal to make such an order.
@@ -4339,6 +4347,16 @@ This Act is the Crimes Amendment Act (No 2) 2008.
 (1) Section 4 comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
 
+### 4 New sections 361D and 361E inserted
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Amendment incorporated in the principal Act.
+(6) This section applies in respect of an accused person only if—
+  (a) the accused person is committed for trial on or after the date on which this section comes into force; or
+  (b) the accused person is committed for trial before the date on which this section comes into force and the trial has not commenced before that date.
+
 ### 5 Evidence and addresses
 (1) Amendment incorporated in the principal Act.
 (2) Amendment incorporated in the principal Act.
@@ -4348,3 +4366,14 @@ This Act is the Crimes Amendment Act (No 2) 2008.
 
 ### 19 Transitional provision
 Despite section 384A of the Crimes Act 1961, every appeal filed before the commencement of that section must be heard and determined as if section 384A had not been enacted.
+
+### 1 Title
+This Act is the Juries Amendment Act 2008.
+
+### 2 Commencement
+(1) This Act (except sections 4, 11, 12, and 19) comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
+(2) Sections 4, 11, 12, and 19 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
+
+### 15 New sections 22 to 22C substituted
+(1) Amendment incorporated in the principal Act
+(2) This section and 16 (amendments and repeals consequential on new sections 22 to 22C substituted) apply only to any trial for which a jury is constituted on or after the date on which this section comes into force.
