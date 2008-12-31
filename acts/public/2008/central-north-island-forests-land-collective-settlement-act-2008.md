@@ -1,11 +1,11 @@
 # Central North Island Forests Land Collective Settlement Act 2008
-_Consolidation as at 2008-09-29_
+_Consolidation as at 2008-12-31_
 
 ## Preamble
 (1) The historical CNI forests land claims made by the Central North Island iwi to the Central North Island (CNI) forests land are based on historical breaches of the Treaty of Waitangi by the Crown and the desire of those iwi to secure the return of that land and to achieve an enduring settlement of those claims:
 (2) The Crown and the CNI Iwi Collective have agreed to negotiate in good faith in accordance with the framework and principles of the Crown Forests Agreement that was entered into on 20 July 1989 between representatives of Māori and the Crown and the Crown Forest Assets Act 1989, in order to reach a fair and durable settlement of those historical claims:
 (3) The Crown and the CNI Iwi Collective have made significant progress towards reaching a collective settlement, and the Crown has therefore agreed to facilitate the completion of that settlement by vesting the CNI forests land in a company, to be known as CNI Iwi Holdings Limited. The company will act as trustee of the CNI Iwi Holdings Trust and will hold and administer the CNI forests land for the CNI Iwi Collective and the Crown in accordance with this Act, the deed of settlement between the CNI Iwi Collective and the Crown, and a deed of trust:
-(4) Under the terms of that deed of trust, 86.7% of the beneficial interest in the CNI forests land is to be held for the CNI Iwi Collective and the individual beneficial entitlement of each member of that Collective is to be determined by reference to the allocation process that has been agreed amongst those members and is set out in this Act. The remaining 13.3% of the beneficial interest in the CNI forests land is to be held for the Crown for a period of 6 years beginning on the date of vesting of the land in the company. The Crown agreed proportion will allow claims to the forests land by other CNI claimants who are not represented by the CNI Iwi Collective to be settled during that period of 6 years:
+(4) Under the terms of that deed of trust, 90% of the beneficial interest in the CNI forests land is to be held for the CNI Iwi Collective and the individual beneficial entitlement of each member of that Collective is to be determined by reference to the allocation process that has been agreed amongst those members and is set out in this Act. The remaining 10% of the beneficial interest in the CNI forests land is to be held for the Crown for a period of 6 years beginning on the date of vesting of the land in the company. The Crown agreed proportion will allow claims to the forests land by other CNI claimants who are not represented by the CNI Iwi Collective to be settled during that period of 6 years.
 
 ### 1 Title
 This Act is the Central North Island Forests Land Collective Settlement Act 2008.
@@ -36,6 +36,7 @@ In this Act, unless the context otherwise requires,—
     (a) means together each of the following iwi and collective groups defined by that name in Schedule 1 of the deed of settlement:
       (i) Ngāi Tūhoe; and
       (ii) Ngāti Manawa; and
+      (iia) Ngāti Rangitihi; and
       (iii) Ngāti Tūwharetoa; and
       (iv) Ngāti Whakaue; and
       (v) Ngāti Whare; and
@@ -47,7 +48,7 @@ In this Act, unless the context otherwise requires,—
   - **confirmed beneficiary** has the meaning given to it in the trust deed for the Crown Forestry Rental Trust
   - **Crown** has the meaning given to it in section 2(1) of the Public Finance Act 1989
   - **Crown agreed proportion** —
-    (a) means the Crown's entitlement as a beneficiary of the Trust to an undivided 13.3% share by value of the CNI forests land and the rental proceeds; and
+    (a) means the Crown's entitlement as a beneficiary of the Trust to an undivided 10% share by value of the CNI forests land and the rental proceeds; and
     (b) includes the Crown's entitlement to a proportion of the company's shares
   - **Crown forest land** has the meaning given to it in section 2(1) of the Crown Forest Assets Act 1989
   - **Crown forestry licence** has the meaning given to it in section 2(1) of the Crown Forest Assets Act 1989
@@ -208,7 +209,7 @@ This Act binds the Crown.
 The iwi of the CNI Iwi Collective may, in accordance with the resolution process set out in Schedule 2, agree among themselves as to which specific area or areas of the CNI forests land is or are to be transferred to the iwi of the Collective.
 
 ### 15 Principles for allocation of rental proceeds
-(1) The company must allocate 86.7% of the accumulated rentals to the CNI Iwi Collective in accordance with the allocation percentage set out in Schedule 3 for each iwi of the Collective.
+(1) The company must allocate 90% of the accumulated rentals to the CNI Iwi Collective in accordance with the allocation percentage set out in Schedule 3 for each iwi of the Collective.
 (2) Subject to the Crown agreed proportion, the company must allocate the ongoing rentals to the CNI Iwi Collective in accordance with the deed of trust.
 
 ### Subpart 3 — Transfer of CNI forests land and accumulated rentals by company to CNI Iwi Collective
@@ -371,7 +372,7 @@ To give effect to clauses 8.1 to 8.18 of the deed of settlement, the Crown (acti
 **Eligibility of Trust to become Māori authority**
 
 ### 32 Trust must be treated as being eligible to become Māori authority
-The Trust must be treated as being eligible, under section HF 2 (3)(e) of the Income Tax Act 2007, to make an election to become a Māori authority despite the Crown holding the Crown agreed proportion.
+The Trust must be treated as being eligible, under section HF 2(3)(e) of the Income Tax Act 2007, to make an election to become a Māori authority despite the Crown holding the Crown agreed proportion.
 
 **Consequential amendment**
 
@@ -390,20 +391,16 @@ The Minister in Charge of Treaty of Waitangi Negotiations and the Minister of Ma
 This subpart and Schedule 4 expire with the close of 31 January 2009 if an Order in Council under section 2(1) has not been made by that date.
 
 ### 36 Preamble amended
-Recital (4) of the Preamble is amended by—
-  (a) omitting 86.7% and substituting 90%; and
-  (b) omitting 13.3% and substituting 10%.
+Amendment(s) incorporated in the Act(s).
 
 ### 37 Section 4 amended
-(1) Paragraph (a) of the definition of CNI Iwi Collective is amended by inserting the following subparagraph after subparagraph (ii):.
-  (iia) Ngāti Rangitihi; and
-(2) The definition of Crown agreed proportion is amended by omitting 13.3% and substituting 10%.
+Amendment(s) incorporated in the Act(s).
 
 ### 38 Section 15(1) amended
-Section 15(1) is amended by omitting 86.7% and substituting 90%.
+Amendment(s) incorporated in the Act(s).
 
 ### 39 Schedule 3 substituted
-Schedule 3 is repealed and the Schedule 3 set out in Schedule 4 substituted.
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — CNI forests land
 
@@ -558,22 +555,6 @@ Adjudication: to be completed by 25 June 2011
 
 | Iwi | Percentage(%) |
 | --- | --- |
-| Ngāi Tūhoe | 27.2987 |
-| Ngāti Manawa | 6.2378 |
-| Ngāti Tūwharetoa | 26.8837 |
-| Ngāti Whakaue | 3.7479 |
-| Ngāti Whare | 4.8891 |
-| Raukawa | 14.7452 |
-| The Affiliate Te Arawa Iwi/Hapu | 16.1976 |
-
-## Schedule 4 — New Schedule 3 substituted
-
-### Schedule.Group
-
-#### Schedule 3 — Percentages for allocation of rental proceeds
-
-| Iwi | Percentage (%) |
-| --- | --- |
 | Ngāi Tūhoe | 26.3125 |
 | Ngāti Manawa | 6.0125 |
 | Ngāti Rangitihi | 3.6125 |
@@ -582,3 +563,5 @@ Adjudication: to be completed by 25 June 2011
 | Ngāti Whare | 4.7125 |
 | Raukawa | 14.2125 |
 | The Affiliate Te Arawa Iwi/Hapu | 15.6125 |
+
+## Schedule 4 — New Schedule 3 substituted
