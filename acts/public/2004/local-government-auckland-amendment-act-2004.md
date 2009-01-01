@@ -1,5 +1,5 @@
 # Local Government (Auckland) Amendment Act 2004
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-01-01_
 
 ### 1 Title
 (1) This Act is the Local Government (Auckland) Amendment Act 2004.
@@ -55,6 +55,7 @@ The purpose of this Act is—
     (b) debt securities within the meaning of the Securities Act 1978; and
     (c) contingent liabilities; and
     (d) interests of any kind in any of the liabilities specified in paragraphs (a) to (c)
+  - **regional public transport plan** has the same meaning as in section 4 of the Public Transport Management Act 2008
   - **rights** includes powers, privileges, interests, leases, licences, approvals, consents, designations, permissions, dispensations, authorisations, benefits, and equities of any kind, whether actual, contingent, or prospective
   - **stormwater grant** means a legally enforceable agreement to give money to be used for stormwater purposes
   - **transport grant** means a legally enforceable agreement to give money to be used for land transport purposes.
@@ -104,7 +105,7 @@ The purpose of this Part is to—
   (a) on and from 1 January 2005, (or an earlier date, if any, appointed by the Governor-General by Order in Council) to—
     (i) assume responsibility for the land transport programme prepared by ARC for the year ending 30 June 2005; and
     (ii) assume responsibility for the public transport service assets and liabilities of ARC vested in it by section 31; and
-    (iii) perform the functions of the regional council for the Auckland Region under the Transport Services Licensing Act 1989, as if it were a regional council for the purposes of that Act; and
+    (iii) perform the functions of the regional council for the Auckland Region under the Public Transport Management Act 2008, as if it were a regional council for the purposes of that Act; and
     (iv) assume responsibility for the approved activities of ARC under the national land transport programme at that date other than activities relating to the exercise of ARC's powers under sections 175 to 182 of the Land Transport Act 1998; and
   (b) in relation to the financial year that commenced on 1 July 2004, to complete (as if it were ARC before the commencement of this section) the land transport programme for the Auckland land transport system under the Land Transport Management Act 2003 for the next financial year; and
   (c) to prepare and approve a regional land transport programme for the Auckland land transport system that includes all of ARTA' s activities under this Act in accordance with the Land Transport Management Act 2003; and
