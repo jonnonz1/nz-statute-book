@@ -1,5 +1,5 @@
 # Foreshore and Seabed Act 2004
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-01-01_
 
 ### 1 Title
 This Act is the Foreshore and Seabed Act 2004.
@@ -11,7 +11,7 @@ This Act is the Foreshore and Seabed Act 2004.
 ## Part 1 — Preliminary provisions
 
 ### 3 Object
-The object of this Act is to preserve the public foreshore and seabed in perpetuity as the common heritage of all New Zealanders in a way that enables the protection by the Crown of the public foreshore and seabed on behalf of all the people of New Zealand, including the protection of the association of whanau, hapu, and iwi with areas of the public foreshore and seabed.
+The object of this Act is to preserve the public foreshore and seabed in perpetuity as the common heritage of all New Zealanders in a way that enables the protection by the Crown of the public foreshore and seabed on behalf of all the people of New Zealand, including the protection of the association of whānau, hapū, and iwi with areas of the public foreshore and seabed.
 
 ### 4 Purposes
 The Act gives effect to the object stated in section 3 by—
@@ -31,9 +31,9 @@ In this Act, unless the context otherwise requires,—
     (b) whose members are appointed in accordance with section 43
   - **Chief Executive** means the Chief Executive of the Ministry of Justice
   - **Chief Judge** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
-  - **Chief Registrar** means the Chief Registrar of the Maori Land Court appointed under section 14 of Te Ture Whenua Maori Act 1993
+  - **Chief Registrar** means the Chief Registrar of the Māori Land Court appointed under section 14 of Te Ture Whenua Maori Act 1993
   - **customary rights order** means a public foreshore and seabed customary rights order made by—
-    (a) the Maori Land Court under section 50; or
+    (a) the Māori Land Court under section 50; or
     (b) the High Court under section 74
   - **enactment** —
     (a) has the meaning given to it by section 29 of the Interpretation Act 1999; and
@@ -60,14 +60,14 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to an order made under section 74, the person that represents the group on whose behalf an application is made under section 68
   - **kaitiakitanga** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **legal entity** means—
-    (a) the legal entity declared by the Maori Land Court to hold a customary rights order made under section 50; and
+    (a) the legal entity declared by the Māori Land Court to hold a customary rights order made under section 50; and
     (b) the person declared by the High Court to hold a customary rights order made under section 74; and
-    (c) in relation to an iwi, hapu, or whanau, a legal entity constituted under another enactment; and
-    (d) in relation to a whanau, a natural person
+    (c) in relation to an iwi, hapū, or whānau, a legal entity constituted under another enactment; and
+    (d) in relation to a whānau, a natural person
   - **local authority** has the same meaning as in section 5(1) of the Local Government Act 2002
   - **management plan** means a plan prepared by the guardians of a foreshore and seabed reserve in accordance with section 44
-  - **Maori Appellate Court** means the Court continued by section 50 of Te Ture Whenua Maori Act 1993
-  - **Maori Land Court** means the Court continued by section 6 of Te Ture Whenua Maori Act 1993
+  - **Māori Appellate Court** means the court continued by section 50 of Te Ture Whenua Maori Act 1993
+  - **Māori Land Court** means the court continued by section 6 of Te Ture Whenua Maori Act 1993
   - **natural and physical resources** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **plan** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **proposed plan** has the same meaning as in section 2(1) of the Resource Management Act 1991
@@ -88,12 +88,12 @@ In this Act, unless the context otherwise requires,—
     (a) an estate in fee simple for which a certificate of title or computer freehold register—
       (i) has, before that commencement, been issued; or
       (ii) is, at that commencement, to be issued on the basis of an instrument lodged with the Registrar before that commencement; or
-    (b) Maori freehold land within the meaning of section 4 of Te Ture Whenua Maori Act 1993; or
+    (b) Māori freehold land within the meaning of section 4 of Te Ture Whenua Maori Act 1993; or
     (c) land subject to the Deeds Registration Act 1908
   - **territorial customary rights** has the meaning it is given in section 32
   - **territorial sea** has the same meaning as in section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
-  - **tikanga Maori** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
-  - **wahi tapu** has the same meaning as in section 2 of the Historic Places Act 1993
+  - **tikanga Māori** has the same meaning as in section 4 of Te Ture Whenua Maori Act 1993
+  - **wāhi tapu** has the same meaning as in section 2 of the Historic Places Act 1993
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -144,7 +144,7 @@ Nothing in this Act affects any rights of fishing recognised, immediately before
 **Act replaces certain jurisdictions in respect of public foreshore and seabed**
 
 ### 10 Jurisdiction of High Court
-(1) On and from the commencement of this section, the jurisdiction of the High Court to hear and determine, whether under an enactment or under any rule of law or by virtue of its inherent jurisdiction, any customary rights claim is replaced fully by the jurisdiction of the High Court under section 33 and Part 4, and the jurisdiction of the Maori Land Court under Part 3.
+(1) On and from the commencement of this section, the jurisdiction of the High Court to hear and determine, whether under an enactment or under any rule of law or by virtue of its inherent jurisdiction, any customary rights claim is replaced fully by the jurisdiction of the High Court under section 33 and Part 4, and the jurisdiction of the Māori Land Court under Part 3.
 (2) In this section and in section 11, customary rights claim means any claim in respect of the public foreshore and seabed that is based on, or relies on, customary rights, customary title, aboriginal rights, aboriginal title, the fiduciary duty of the Crown, or any rights, titles, or duties of a similar nature, whether arising before, on, or after the commencement of this section and whether or not the claim is based on, or relies on, any 1 or more of the following:
   (a) a rule, principle, or practice of the common law or equity:
   (b) the Treaty of Waitangi:
@@ -155,10 +155,10 @@ Nothing in this Act affects any rights of fishing recognised, immediately before
 If a customary rights claim is lodged in the High Court, whether before or after the commencement of this section, the High Court must not take any action other than one of the following:
   (a) dismiss the claim; or
   (b) if appropriate, treat the claim as an application under section 33 or Part 4; or
-  (c) if appropriate, refer the claim to the Maori Land Court for decision under Part 3.
+  (c) if appropriate, refer the claim to the Māori Land Court for decision under Part 3.
 
-### 12 No jurisdiction of Maori Land Court to consider existing applications relating to foreshore and seabed
-The Maori Land Court has no jurisdiction to consider an application, and the application is of no effect, if—
+### 12 No jurisdiction of Māori Land Court to consider existing applications relating to foreshore and seabed
+The Māori Land Court has no jurisdiction to consider an application, and the application is of no effect, if—
   (a) the application relates to an area of the public foreshore and seabed; and
   (b) the application is for—
     (i) a determination of the status of land under section 18(1)(h) of Te Ture Whenua Maori Act 1993; or
@@ -281,7 +281,7 @@ Section 13 does not affect the ownership in any structure or thing that—
 (4) No court has jurisdiction to hear any claim in respect of any loss suffered by a local authority as a result of the operation of section 13(1).
 
 ### 26 Access over areas of public foreshore and seabed may be prohibited or restricted
-(1) If, under section 54(2), the Maori Land Court refers a finding to the Minister of Conservation and to the Minister of Maori Affairs, those Ministers may, to the extent that they consider necessary to protect the relevant wahi tapu, by notice in the Gazette, prohibit or restrict access over any area of the public foreshore and seabed.
+(1) If, under section 54(2), the Māori Land Court refers a finding to the Minister of Conservation and to the Minister of Māori Affairs, those Ministers may, to the extent that they consider necessary to protect the relevant wāhi tapu, by notice in the Gazette, prohibit or restrict access over any area of the public foreshore and seabed.
 (2) If, under section 78(2), the High Court refers a finding to the Minister of Conservation, that Minister may, to the extent that the Minister considers necessary to protect the relevant site of significance, by notice in the Gazette, prohibit or restrict access over any area of the public foreshore and seabed.
 (3) No restriction or prohibition under subsection (1) or subsection (2) may be inconsistent with any order made under Part 3 or Part 4 or any right, interest, or authority conferred by or under any other enactment.
 (4) If the Ministers or Minister considers that an exemption from a prohibition or restriction imposed under subsection (1) or subsection (2) is necessary to enable a recognised customary activity to be carried out under an order, the Ministers or Minister may, by notice in the Gazette, and subject to any conditions stated in the notice, exempt any person or class of person from the prohibition or the exemption.
@@ -305,9 +305,9 @@ Section 13 does not affect the ownership in any structure or thing that—
   (a) to assist in the implementation under section 26(9) of any prohibition or restriction:
   (b) to enter, for the purpose of performing his or her functions, any area of the public foreshore and seabed that is subject to a prohibition or restriction imposed under section 26:
   (c) to advise members of the public of prohibitions or restrictions imposed under section 26:
-  (d) to warn a person to leave an area of the public foreshore and seabed in any case where the warden has reason to believe that the person's presence in the area contravenes a prohibition or restriction imposed under section 26:
+  (d) to warn a person to leave an area of the public foreshore and seabed in any case where the warden has reason to believe that the person’s presence in the area contravenes a prohibition or restriction imposed under section 26:
   (e) to record any failure to comply with a prohibition or restriction imposed under section 26 in any case where the warden has reason to believe that the failure is intentional:
-  (f) to report to any member of the police any failure to comply with a prohibition or restriction imposed under section 26 in any case where the warden has reason to believe that the failure is intentional.
+  (f) to report to any constable any failure to comply with a prohibition or restriction imposed under section 26 in any case where the warden has reason to believe that the failure is intentional.
 
 **Other enactments not affected**
 
@@ -338,7 +338,7 @@ Nothing effected by this Act is to be regarded as—
   (b) that is not included in the public foreshore and seabed.
 
 ### 31 Section 7 of Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 repealed
-Section 7 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977 is repealed.
+Amendment(s) incorporated in the Act(s).
 
 **Findings of High Court with respect to territorial customary rights in public foreshore and seabed**
 
@@ -353,46 +353,46 @@ Section 7 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone A
 (4) For the purposes of this section, the right of a group to exclusive use and occupation of a particular area of the public foreshore and seabed is not lost merely because rights of navigation have from time to time been exercised in respect of the area.
 (5) If the area of the public foreshore and seabed over which a group claims a right to exclusive use and occupation was at any time used or occupied by persons who did not belong to the group, the right must be regarded as having been terminated unless those persons—
   (a) were expressly or impliedly permitted by members of the group to occupy or use the area; and
-  (b) recognised the group's authority to exclude from the area any person who did not belong to the group.
+  (b) recognised the group’s authority to exclude from the area any person who did not belong to the group.
 (6) In this section,—
   - **contiguous land** means any land that is above the line of mean high water springs and that—
     (a) is contiguous to the area of the public foreshore and seabed in respect of which the application is made or to any significant part of that area; or
     (b) would, but for the presence of any of the following kinds of land, be contiguous to that area or to any significant part of that area:
       (i) a marginal strip within the meaning of section 2(1) of the Conservation Act 1987:
       (ii) an esplanade reserve within the meaning of section 2(1) of the Resource Management Act 1991:
-      (iii) a Maori reservation set apart under section 303 of Te Ture Whenua Maori Act 1993:
+      (iii) a Māori reservation set apart under section 303 of Te Ture Whenua Maori Act 1993:
       (iv) a road of any description or a road reserve:
-      (v) any railway line within the meaning of section 2(1) of the Transport Services Licensing Act 1989:
+      (v) any railway line within the meaning of section 4(1) of the Railways Act 2005:
       (vi) any reserve similar in nature to any land of a kind described in any of subparagraphs (i) to (v)
   - **continuous title** means a title to any contiguous land that has at all times, since 1840, been held by the applicant group or by any of its members (whether or not the nature or form of that title was, at any time, changed or affected by any Crown grant, certificate of title, lease, or other instrument of title).
 (7) To avoid any doubt, in this section, a reference to a member, in relation to a group, includes a past member and a deceased member of the group.
 
 ### 33 High Court may find that a group held territorial customary rights
-The High Court may, on the application of a group, or on the application of a person authorised by the Court to represent the group, make a finding that the group (or any members of that group) would, but for the vesting of the full legal and beneficial ownership of the public foreshore and seabed in the Crown by section 13(1), have held territorial customary rights to a particular area of the public foreshore and seabed at common law.
+The High Court may, on the application of a group, or on the application of a person authorised by the court to represent the group, make a finding that the group (or any members of that group) would, but for the vesting of the full legal and beneficial ownership of the public foreshore and seabed in the Crown by section 13(1), have held territorial customary rights to a particular area of the public foreshore and seabed at common law.
 
 ### 34 Matters that must be considered and may be taken into account
 (1) In determining an application under section 33, the High Court—
-  (a) must consider any evidence that it thinks relevant to enable it to assess the applicant group's claim to exclusive use and occupation of the area in respect of which the application is made; and
+  (a) must consider any evidence that it thinks relevant to enable it to assess the applicant group’s claim to exclusive use and occupation of the area in respect of which the application is made; and
   (b) may, without limitation, take into account—
-    (i) orders issued by the Maori Land Court to recognise ongoing customary rights to undertake particular activities; and
-    (ii) the applicant group's overall territorial association with the area.
+    (i) orders issued by the Māori Land Court to recognise ongoing customary rights to undertake particular activities; and
+    (ii) the applicant group’s overall territorial association with the area.
 (2) Despite section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992, evidence of non-commercial customary fishing activity may be given to the High Court in support of applications under section 33.
-(3) For the purposes of this section, the High Court may receive as evidence any oral or written statement, document, matter, or information that the Court considers to be reliable, whether or not that evidence would otherwise be admissible.
+(3) For the purposes of this section, the High Court may receive as evidence any oral or written statement, document, matter, or information that the court considers to be reliable, whether or not that evidence would otherwise be admissible.
 (4) Subsection (3) is subject to section 9 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992 and section 6 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 (5) To avoid any doubt, the matters described in subsections (1) and (2) may be called in aid of proof but no finding under section 33 may be made unless the matters set out in section 32 are established.
 
 ### 35 Procedure
-The High Court may, in accordance with section 61 of Te Ture Whenua Maori Act 1993, refer to the Maori Appellate Court any question of tikanga Maori that is raised by an application under section 33 for the opinion of the Maori Appellate Court, and the opinion of that court is binding on the High Court.
+The High Court may, in accordance with section 61 of Te Ture Whenua Maori Act 1993, refer to the Māori Appellate Court any question of tikanga Māori that is raised by an application under section 33 for the opinion of the Māori Appellate Court, and the opinion of that court is binding on the High Court.
 
 ### 36 Consequence of successful application under section 33
 (1) If the High Court makes a finding under section 33 in favour of an applicant group, the applicant group may apply to the High Court for either of the following orders:
-  (a) an order referring the finding to the Attorney-General and the Minister of Maori Affairs; or
+  (a) an order referring the finding to the Attorney-General and the Minister of Māori Affairs; or
   (b) an order under section 43.
 (2) If the High Court is satisfied that an application referred to in subsection (1) is properly made, the High Court must make the order sought.
 (3) To avoid doubt, there is no right of appeal in relation to an order of the kind referred to in this section.
 
 ### 37 Reference to Ministers under section 36(1)(a)
-(1) If a finding is referred to the Attorney-General and Minister of Maori Affairs under section 36(1)(a), the Ministers must enter into discussions with the applicant group for the purpose of negotiating an agreement as to the nature and extent of the redress to be given by the Crown in recognition of the finding of the High Court under section 33.
+(1) If a finding is referred to the Attorney-General and Minister of Māori Affairs under section 36(1)(a), the Ministers must enter into discussions with the applicant group for the purpose of negotiating an agreement as to the nature and extent of the redress to be given by the Crown in recognition of the finding of the High Court under section 33.
 (2) An agreement entered into under subsection (1) is of no effect unless, on the joint application of the parties to that agreement the High Court confirms the agreement by order made with the consent of the parties.
 (3) The High Court must make an order of the kind described in subsection (2) on being satisfied that the agreement—
   (a) accurately records the terms agreed between the parties; and
@@ -406,12 +406,12 @@ The High Court may, in accordance with section 61 of Te Ture Whenua Maori Act 19
   (a) that the Crown may give, on the basis of such a finding, following discussions under section 37(1); or
   (b) provided in accordance with sections 40 to 43.
 (2) If an applicant group applies under section 36(1)(b) or section 37(4), the group is not entitled to seek any other form of redress under this Act or any other enactment for the finding of the High Court under section 33.
-(3) No Court has jurisdiction to consider the nature or the extent of any matter that the Crown proposes, offers, or gives for the purposes of any redress of the kind described in subsection (1).
+(3) No court has jurisdiction to consider the nature or the extent of any matter that the Crown proposes, offers, or gives for the purposes of any redress of the kind described in subsection (1).
 
 ### 39 If no finding made, application may in appropriate cases be considered under Part 3 or Part 4
 If the High Court does not make a finding under section 33 but considers that any rights identified in the application are rights of a kind that are more appropriately considered under Part 3 or Part 4, the High Court may do whichever of the following is appropriate:
   (a) treat the application as an application under Part 4:
-  (b) refer the application to the Maori Land Court for consideration under Part 3.
+  (b) refer the application to the Māori Land Court for consideration under Part 3.
 
 **Foreshore and seabed reserves**
 
@@ -432,8 +432,8 @@ If the High Court does not make a finding under section 33 but considers that an
   (c) the resources required for the operation of the board and how its costs will be met.
 (2) The directions of the High Court must be given to—
   (a) the applicant group on whose behalf the finding is made under section 33; and
-  (b) the regional council with responsibility under the Resource Management Act 1991 for the area to which the High Court's finding relates; and
-  (c) the Attorney-General and the Minister of Maori Affairs.
+  (b) the regional council with responsibility under the Resource Management Act 1991 for the area to which the High Court’s finding relates; and
+  (c) the Attorney-General and the Minister of Māori Affairs.
 
 ### 42 Contents of charter
 (1) Without limiting the matters to be included in the charter, the draft agreement presented to the High Court under section 41—
@@ -443,7 +443,7 @@ If the High Court does not make a finding under section 33 but considers that an
     (ii) the number of members that may constitute a board; and
     (iii) the manner in which new members of the board must be appointed; and
     (iv) the terms for which the members of the board may be appointed or reappointed; and
-    (v) a policy for the remuneration of members and the payment of members' out of pocket expenses; and
+    (v) a policy for the remuneration of members and the payment of members’ out of pocket expenses; and
     (vi) the circumstances in which a member of a board—
       (A) ceases to hold office; and
       (B) may be removed from office; and
@@ -458,7 +458,7 @@ If the High Court does not make a finding under section 33 but considers that an
 
 ### 43 Establishment of foreshore and seabed reserve and appointment of members of board
 (1) If the High Court is satisfied that the draft agreement presented under section 41 provides for the matters required by sections 41 and 42, the High Court must, by order,—
-  (a) set apart and establish as a foreshore and seabed reserve the area of the public foreshore and seabed to which the High Court's finding relates; and
+  (a) set apart and establish as a foreshore and seabed reserve the area of the public foreshore and seabed to which the High Court’s finding relates; and
   (b) confirm the charter for, and the membership of, the board.
 (2) The members of the board confirmed by the High Court under subsection (1)(b), and any new members appointed in accordance with the charter, must be known as the guardians of the specified area of the foreshore and seabed that is to be administered by the board as a foreshore and seabed reserve.
 
@@ -478,26 +478,26 @@ If the High Court does not make a finding under section 33 but considers that an
   (b) serve a copy of every order on—
     (i) every local authority that has responsibility in the area to which the order relates; and
     (ii) the Chief Executive; and
-    (iii) the Attorney-General, and the Ministers of Conservation and Maori Affairs; and
-    (iv) every person directed by the Court to be served; and
+    (iii) the Attorney-General, and the Ministers of Conservation and Māori Affairs; and
+    (iv) every person directed by the court to be served; and
   (c) in the case of an order made under section 43, serve a copy of the order on the members of the board whose appointments are confirmed by the High Court under that section.
 (2) To avoid doubt, there is no right of appeal in relation to an order of the High Court made under section 43.
 
-## Part 3 — Provisions relating to Maori Land Court and orders it may make
+## Part 3 — Provisions relating to Māori Land Court and orders it may make
 
-### Subpart 1 — Jurisdiction of Maori Land Court and application of Te Ture Whenua Maori Act 1993
+### Subpart 1 — Jurisdiction of Māori Land Court and application of Te Ture Whenua Maori Act 1993
 
-**Jurisdiction of Maori Land Court**
+**Jurisdiction of Māori Land Court**
 
-### 46 Jurisdiction of Maori Land Court
-(1) The Maori Land Court has jurisdiction under this Act to inquire into and determine, in accordance with section 50, an application made under section 48(1) for a customary rights order that relates to a specified area of the public foreshore and seabed.
-(2) However, the Maori Land Court does not have jurisdiction under this Act to make orders or determinations in relation to the public foreshore and seabed, other than—
+### 46 Jurisdiction of Māori Land Court
+(1) The Māori Land Court has jurisdiction under this Act to inquire into and determine, in accordance with section 50, an application made under section 48(1) for a customary rights order that relates to a specified area of the public foreshore and seabed.
+(2) However, the Māori Land Court does not have jurisdiction under this Act to make orders or determinations in relation to the public foreshore and seabed, other than—
   (a) the orders referred to in subsection (1):
   (b) orders or determinations made under the provisions of Te Ture Whenua Maori Act 1993 that apply under section 47(2):
   (c) orders made under section 53(3):
   (d) findings made under section 54(1)(b):
-  (e) incidental orders or determinations made under the rules of the Maori Land Court that are reasonably necessary for the Court in its inquiry into and determination of applications made under section 48(1).
-(3) Orders of the Maori Land Court made under this section—
+  (e) incidental orders or determinations made under the rules of the Māori Land Court that are reasonably necessary for the court in its inquiry into and determination of applications made under section 48(1).
+(3) Orders of the Māori Land Court made under this section—
   (a) take effect in accordance with clause 6 of Schedule 1; and
   (b) must be—
     (i) pronounced orally in open court; and
@@ -505,61 +505,61 @@ If the High Court does not make a finding under section 33 but considers that an
 
 **Application of Te Ture Whenua Maori Act 1993**
 
-### 47 Powers and procedures of Maori Land Court
-(1) Te Ture Whenua Maori Act 1993 does not apply to the jurisdiction of the Maori Land Court or the Maori Appellate Court under this Act.
+### 47 Powers and procedures of Māori Land Court
+(1) Te Ture Whenua Maori Act 1993 does not apply to the jurisdiction of the Māori Land Court or the Māori Appellate Court under this Act.
 (2) However, the following provisions of Te Ture Whenua Maori Act 1993 apply, with the necessary modifications, to the jurisdiction of those courts under this Act:
   (a) sections 7 to 16 (which relate to the appointment and tenure of Judges); and
-  (b) section 18(1)(e) (which confers jurisdiction on the Maori Land Court to determine whether a person is a Maori or the descendant of a Maori); and
-  (c) sections 30 to 30J (which provide for the Maori Land Court's jurisdiction to advise on or determine issues of representation); and
-  (d) sections 34 to 36 (which provide for the appointment of additional members of the Maori Land Court); and
-  (e) section 38 (which relates to the exercise of the powers of the Maori Land Court by a Judge); and
+  (b) section 18(1)(e) (which confers jurisdiction on the Māori Land Court to determine whether a person is a Māori or the descendant of a Māori); and
+  (c) sections 30 to 30J (which provide for the Māori Land Court’s jurisdiction to advise on or determine issues of representation); and
+  (d) sections 34 to 36 (which provide for the appointment of additional members of the Māori Land Court); and
+  (e) section 38 (which relates to the exercise of the powers of the Māori Land Court by a Judge); and
   (f) section 40 (which relates to the power of a Judge to refer matters to a registrar); and
-  (g) sections 41 and 42 (which relate to orders of the Maori Land Court), but only in respect of the jurisdiction exercised by that Court under sections 30 to 30J; and
-  (h) the provisions of Part 2 (which relate to the Maori Appellate Court), but only in respect of the jurisdiction exercised by that Court on an appeal relating to sections 30 to 30J of Te Ture Whenua Maori Act 1993; and—
-  (i) the provisions of Part 3 (which relate to both the Maori Land Court and the Maori Appellate Court); but—
+  (g) sections 41 and 42 (which relate to orders of the Māori Land Court), but only in respect of the jurisdiction exercised by that court under sections 30 to 30J; and
+  (h) the provisions of Part 2 (which relate to the Māori Appellate Court), but only in respect of the jurisdiction exercised by that court on an appeal relating to sections 30 to 30J of Te Ture Whenua Maori Act 1993; and
+  (i) the provisions of Part 3 (which relate to both the Māori Land Court and the Māori Appellate Court); but
     (i) only as far as they are applicable under this Act; and
     (ii) not including sections 72, 76, 77, 79(6), 82 to 87, 98(6) to (8), and (9)(e); and
   (j) provisions expressly referred to in this Act.
-(3) Schedule 1 applies in relation to the practice and procedure of the Maori Land Court in exercising its jurisdiction under this Act.
+(3) Schedule 1 applies in relation to the practice and procedure of the Māori Land Court in exercising its jurisdiction under this Act.
 
 ### Subpart 2 — Customary rights orders
 
-**Applications to Maori Land Court**
+**Applications to Māori Land Court**
 
 ### 48 Applications for orders
-(1) A whanau, hapu, or iwi, through its authorised representative, may apply to the Maori Land Court for a customary rights order that relates to a specified area of the public foreshore and seabed.
+(1) A whānau, hapū, or iwi, through its authorised representative, may apply to the Māori Land Court for a customary rights order that relates to a specified area of the public foreshore and seabed.
 (2) An application under subsection (1) must be made not later than 31 December 2015.
 
-### 49 Limits to jurisdiction of Maori Land Court under this Part
-(1) Despite section 46(1), the Maori Land Court must not inquire into or determine an application for a customary rights order to carry on, exercise, or follow an activity, use, or practice—
+### 49 Limits to jurisdiction of Māori Land Court under this Part
+(1) Despite section 46(1), the Māori Land Court must not inquire into or determine an application for a customary rights order to carry on, exercise, or follow an activity, use, or practice—
   (a) that involves the exercise of—
-    (i) any commercial Maori fishing right or interest, being a right or interest declared to be settled in section 9 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
-    (ii) any non-commercial Maori fishing right or interest, being a right or interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
+    (i) any commercial Māori fishing right or interest, being a right or interest declared to be settled in section 9 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
+    (ii) any non-commercial Māori fishing right or interest, being a right or interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
   (ab) that involves the exercise of any right or interest of Maori in commercial aquaculture activities on or after 21 September 1992, being a right or interest declared to be settled in section 6 of the Maori Commercial Aquaculture Claims Settlement Act 2004; or
   (b) that is regulated by or under the Fisheries Act 1996; or
   (c) if the subject of the application is—
     (i) wildlife within the meaning of the Wildlife Act 1953, together with any animals specified in Schedule 6 of that Act:
     (ii) marine mammals within the meaning of the Marine Mammals Protection Act 1978.
-(2) A customary rights order must not be made in respect of an activity, use, or practice on the basis of a spiritual or cultural association, unless that association is manifested by the relevant whanau, hapu, or iwi in a physical activity or use related to a natural or physical resource.
+(2) A customary rights order must not be made in respect of an activity, use, or practice on the basis of a spiritual or cultural association, unless that association is manifested by the relevant whānau, hapū, or iwi in a physical activity or use related to a natural or physical resource.
 
 ### 50 Determination of applications for customary rights orders
-(1) The Maori Land Court may make a customary rights order, but only if it is satisfied that, in accordance with the provisions of section 51,—
-  (a) the order applies to a whanau, hapu, or iwi; and
+(1) The Māori Land Court may make a customary rights order, but only if it is satisfied that, in accordance with the provisions of section 51,—
+  (a) the order applies to a whānau, hapū, or iwi; and
   (b) the activity, use, or practice for which the applicant seeks a customary rights order—
-    (i) is, and has been since 1840, integral to tikanga Maori; and
-    (ii) has been carried on, exercised, or followed in accordance with tikanga Maori in a substantially uninterrupted manner since 1840, in the area of the public foreshore and seabed specified in the application; and
-    (iii) continues to be carried on, exercised, or followed in the same area of the public foreshore and seabed in accordance with tikanga Maori; and
+    (i) is, and has been since 1840, integral to tikanga Māori; and
+    (ii) has been carried on, exercised, or followed in accordance with tikanga Māori in a substantially uninterrupted manner since 1840, in the area of the public foreshore and seabed specified in the application; and
+    (iii) continues to be carried on, exercised, or followed in the same area of the public foreshore and seabed in accordance with tikanga Māori; and
     (iv) is not prohibited by any enactment or rule of law; and
   (c) the right to carry on, exercise, or follow the activity, use, or practice has not been extinguished as a matter of law.
 (2) A prohibition referred to in subsection (1)(b)(iv) does not include a prohibition or restriction imposed by a rule in a plan or proposed plan.
-(3) The Maori Land Court may, in respect of the whole or part of the same area of the public foreshore and seabed, grant customary rights orders to—
-  (a) more than 1 whanau, hapu, or iwi:
-  (b) any combination of 1 or more whanau, hapu, and iwi.
+(3) The Māori Land Court may, in respect of the whole or part of the same area of the public foreshore and seabed, grant customary rights orders to—
+  (a) more than 1 whānau, hapū, or iwi:
+  (b) any combination of 1 or more whānau, hapū, and iwi.
 
-### 51 Basis on which customary rights orders determined by Maori Land Court
+### 51 Basis on which customary rights orders determined by Māori Land Court
 (1) For the purpose of section 50(1)(b)(ii), an activity, use, or practice has not been carried on, exercised, or followed in a substantially uninterrupted manner if it has been or is prevented from being carried on, exercised, or followed by another activity authorised by or under an enactment or rule of law.
 (2) For the purpose of section 50(1)(c), a right to carry on, exercise, or follow an activity, use, or practice has been extinguished if, in relation to the area of the public foreshore and seabed specified in the application,—
-  (a) legal title has been vested by any means in a person or group other than the whanau, hapu, or iwi on whose behalf the order is sought, including—
+  (a) legal title has been vested by any means in a person or group other than the whānau, hapū, or iwi on whose behalf the order is sought, including—
     (i) Crown grants made by or under any lawful authority, including ordinances, statutes, or the prerogative; or
     (ii) the common law; or
     (iii) a statutory vesting; or
@@ -573,32 +573,32 @@ If the High Court does not make a finding under section 33 but considers that an
 
 ### 52 Effects of customary rights order
 (1) The effects of a customary rights order made under this Part are—
-  (a) to confer a right on the whanau, hapu, or iwi on whose behalf the order is made to carry out a recognised customary activity in accordance with sections 17A and 17B and Schedule 12 of the Resource Management Act 1991; and
+  (a) to confer a right on the whānau, hapū, or iwi on whose behalf the order is made to carry out a recognised customary activity in accordance with sections 17A and 17B and Schedule 12 of the Resource Management Act 1991; and
   (b) to enable protection of recognised customary activities under the Resource Management Act 1991.
-(2) A customary rights order may also entitle the whanau, hapu, or iwi on whose behalf the order is made to derive a commercial benefit from carrying out a recognised customary activity under the order.
+(2) A customary rights order may also entitle the whānau, hapū, or iwi on whose behalf the order is made to derive a commercial benefit from carrying out a recognised customary activity under the order.
 (3) However, the exercise of any recognised customary activity, whether or not a commercial benefit is derived from carrying out the activity, is subject to the scale, extent, and frequency specified for the recognised customary activity in the customary rights order.
 (4) To the extent that the exercise of a recognised customary activity exceeds the scale, extent, or frequency specified for the activity under the customary rights order, section 17A(1) of the Resource Management Act 1991 does not apply.
 
 ### 53 Powers of holder
 (1) The holder of a customary rights order may—
-  (a) determine who, in accordance with tikanga Maori, may carry out a recognised customary activity under the order:
+  (a) determine who, in accordance with tikanga Māori, may carry out a recognised customary activity under the order:
   (b) limit or suspend, in whole or in part, a recognised customary activity carried out under the order—
     (i) if written approval is given for a resource consent, as provided for by section 107A(1) of the Resource Management Act 1991; or
-    (ii) for any other reason that accords with tikanga Maori.
-(2) In exercising the functions or carrying out the duties of the holder under this Act, the holder must act in the best interests of the whanau, hapu, or iwi on whose behalf the relevant customary rights order is made.
-(3) The Maori Land Court may,—
-  (a) if application is made by a member of the whanau, hapu, or iwi on whose behalf a customary rights order has been made, review the exercise of powers by the holder of that order by requiring the holder—
-    (i) to file in the Court a written report:
-    (ii) to appear before the Court for questioning on that report or on any matter relating to the holder's exercise of his or her functions, duties, and powers under this Part; and
+    (ii) for any other reason that accords with tikanga Māori.
+(2) In exercising the functions or carrying out the duties of the holder under this Act, the holder must act in the best interests of the whānau, hapū, or iwi on whose behalf the relevant customary rights order is made.
+(3) The Māori Land Court may,—
+  (a) if application is made by a member of the whānau, hapū, or iwi on whose behalf a customary rights order has been made, review the exercise of powers by the holder of that order by requiring the holder—
+    (i) to file in the court a written report:
+    (ii) to appear before the court for questioning on that report or on any matter relating to the holder’s exercise of his or her functions, duties, and powers under this Part; and
   (b) at any time, enforce the duties of the holder by giving directions.
 
-**Wahi tapu**
+**Wāhi tapu**
 
-### 54 Protection of wahi tapu
-(1) This section applies if the Maori Land Court—
-  (a) makes a customary rights order in respect of an activity, use, or practice that relates to a wahi tapu; and
-  (b) in so doing, finds that the access rights provided for by section 7 prevent, or are inconsistent with, the protection of the wahi tapu.
-(2) The Maori Land Court must refer a finding of the kind described in subsection (1)(b) to the Minister of Conservation and the Minister of Maori Affairs (the relevant Ministers).
+### 54 Protection of wāhi tapu
+(1) This section applies if the Māori Land Court—
+  (a) makes a customary rights order in respect of an activity, use, or practice that relates to a wāhi tapu; and
+  (b) in so doing, finds that the access rights provided for by section 7 prevent, or are inconsistent with, the protection of the wāhi tapu.
+(2) The Māori Land Court must refer a finding of the kind described in subsection (1)(b) to the Minister of Conservation and the Minister of Māori Affairs (the relevant Ministers).
 (3) If a finding is referred to the relevant Ministers under subsection (2),—
   (a) the relevant Ministers may prohibit or restrict access over an area of the public foreshore and seabed in accordance with section 26; but
   (b) no claim may be made against the Crown in respect of that finding.
@@ -606,31 +606,31 @@ If the High Court does not make a finding under section 33 but considers that an
 **Limitations**
 
 ### 55 Limitation on effect of orders
-(1) The Maori Land Court must not make a customary rights order that restricts, or has the effect of restricting—
+(1) The Māori Land Court must not make a customary rights order that restricts, or has the effect of restricting—
   (a) access rights provided for by section 7:
   (b) rights of navigation provided for by section 8.
 (2) However, a prohibition or restriction imposed under section 26 prevails over section 7.
 
 ### 56 Limitation on exercise of customary rights order
-A recognised customary activity carried out under a customary rights order made under this Part is subject to the controls (if any) imposed by the Minister of Conservation, in consultation with the Minister of Maori Affairs, under Schedule 12 of the Resource Management Act 1991.
+A recognised customary activity carried out under a customary rights order made under this Part is subject to the controls (if any) imposed by the Minister of Conservation, in consultation with the Minister of Māori Affairs, under Schedule 12 of the Resource Management Act 1991.
 
 ### 57 Limitation on making exclusive orders
-In making a determination under section 50, the Maori Land Court must not make a customary rights order that confers on a whanau, hapu, or iwi an exclusive right to carry on, exercise, or follow an activity, use, or practice in relation to a specified area of the public foreshore and seabed, if, at any time after 1840,—
-  (a) persons who did not belong to the applicant whanau, hapu, or iwi carried on, exercised, or followed that activity, use, or practice in the specified area; and
+In making a determination under section 50, the Māori Land Court must not make a customary rights order that confers on a whānau, hapū, or iwi an exclusive right to carry on, exercise, or follow an activity, use, or practice in relation to a specified area of the public foreshore and seabed, if, at any time after 1840,—
+  (a) persons who did not belong to the applicant whānau, hapū, or iwi carried on, exercised, or followed that activity, use, or practice in the specified area; and
   (b) those persons—
-    (i) were not expressly or impliedly permitted by the applicant whanau, hapu, or iwi to carry on, exercise, or follow the activity, use, or practice in the specified area; and
-    (ii) did not recognise the authority of the applicant whanau, hapu, or iwi to prevent any persons who did not belong to the whanau, hapu, or iwi from carrying on, exercising, or following the activity, use, or practice in the specified area.
+    (i) were not expressly or impliedly permitted by the applicant whānau, hapū, or iwi to carry on, exercise, or follow the activity, use, or practice in the specified area; and
+    (ii) did not recognise the authority of the applicant whānau, hapū, or iwi to prevent any persons who did not belong to the whānau, hapū, or iwi from carrying on, exercising, or following the activity, use, or practice in the specified area.
 
 **Variation or cancellation of orders**
 
 ### 58 Orders may be varied
-(1) The Maori Land Court may vary an order made under this Part by replacing the holder named in the order with another legal entity to hold the order on behalf of the whanau, hapu, or iwi to whom the order applies.
-(2) A variation made under subsection (1) must not have the effect of depriving the whanau, hapu, or iwi of the benefits of the order.
+(1) The Māori Land Court may vary an order made under this Part by replacing the holder named in the order with another legal entity to hold the order on behalf of the whānau, hapū, or iwi to whom the order applies.
+(2) A variation made under subsection (1) must not have the effect of depriving the whānaū, hapū, or iwi of the benefits of the order.
 (3) Clause 5 of Schedule 1 applies to this section and section 59.
 
 ### 59 Cancellation of customary rights order
-(1) On application by the holder under section 60, the Maori Land Court may cancel, in whole or in part, for any reason, a customary rights order made under this Part.
-(2) However, the Maori Land Court must not cancel an order under subsection (1) in circumstances where the holder has given approval for a resource consent, as provided for by section 107A(1) of the Resource Management Act 1991, until—
+(1) On application by the holder under section 60, the Māori Land Court may cancel, in whole or in part, for any reason, a customary rights order made under this Part.
+(2) However, the Māori Land Court must not cancel an order under subsection (1) in circumstances where the holder has given approval for a resource consent, as provided for by section 107A(1) of the Resource Management Act 1991, until—
   (a) the relevant resource consent has been granted by the consent authority; and
   (b) the period for an appeal has expired or any appeal has been determined.
 (3) If an order is cancelled, the right to carry on, exercise, or follow the activity, use, or practice affected by the cancellation is extinguished, and cannot be revived.
@@ -638,7 +638,7 @@ In making a determination under section 50, the Maori Land Court must not make a
 ### 60 Application to vary or cancel orders
 (1) An application to vary or cancel a customary rights order may be made only by—
   (a) the holder of the order; or
-  (b) a representative of the whanau, hapu, or iwi to whom the order applies, if the holder—
+  (b) a representative of the whānau, hapū, or iwi to whom the order applies, if the holder—
     (i) has ceased to exist; or
     (ii) being a natural person, has died or no longer has legal capacity.
 (2) A variation or cancellation of an order must be—
@@ -647,39 +647,39 @@ In making a determination under section 50, the Maori Land Court must not make a
 (3) Section 61 and clauses 3, 4, 5, and 8 of Schedule 1 apply to the variation or cancellation of an order.
 
 ### 61 Basis for varying or cancelling orders
-The Maori Land Court may vary an order under section 58 or cancel an order under section 59 only if it is satisfied that—
-  (a) the applicant is authorised to apply for the variation or cancellation by the whanau, hapu or iwi to whom the order applies; and
-  (b) the applicant has given sufficient notice of the application to the whanau, hapu, or iwi; and
-  (c) there has been sufficient opportunity for the whanau, hapu, or iwi to consider the application and make its views known to the applicant; and
-  (d) no meritorious objections to the application have been received from or on behalf of the whanau, hapu, or iwi that would require the Maori Land Court to decline the application.
+The Māori Land Court may vary an order under section 58 or cancel an order under section 59 only if it is satisfied that—
+  (a) the applicant is authorised to apply for the variation or cancellation by the whānau, hapū or iwi to whom the order applies; and
+  (b) the applicant has given sufficient notice of the application to the whānau, hapū, or iwi; and
+  (c) there has been sufficient opportunity for the whānau, hapū, or iwi to consider the application and make its views known to the applicant; and
+  (d) no meritorious objections to the application have been received from or on behalf of the whānau, hapū, or iwi that would require the Māori Land Court to decline the application.
 
 ### Subpart 3 — Procedural matters
 
 **Inquiry by way of hearing**
 
 ### 62 Inquiry into applications for orders
-(1) If the Chief Registrar receives objections to an application made under section 48(1), the Maori Land Court must conduct a public hearing in accordance with Part 3 of Schedule 1 to inquire into that application.
-(2) If no objections to an application for a customary rights order are received, the Maori Land Court must make an order if it is satisfied that it is entitled to do so under section 50.
+(1) If the Chief Registrar receives objections to an application made under section 48(1), the Māori Land Court must conduct a public hearing in accordance with Part 3 of Schedule 1 to inquire into that application.
+(2) If no objections to an application for a customary rights order are received, the Māori Land Court must make an order if it is satisfied that it is entitled to do so under section 50.
 
 **Appeal rights**
 
-### 63 Rights of appeal against decisions of Maori Land Court
+### 63 Rights of appeal against decisions of Māori Land Court
 (1) This section applies to a party to a proceeding that relates to an application for a customary rights order under section 48(1).
-(2) A party who is dissatisfied with a decision of the Maori Land Court relating to a customary rights order may appeal to the High Court on a matter of fact or law.
+(2) A party who is dissatisfied with a decision of the Māori Land Court relating to a customary rights order may appeal to the High Court on a matter of fact or law.
 (3) In a proceeding under this Part, the Crown—
-  (a) may lodge an appeal, whether or not it was a party to the proceeding in the Maori Land Court; and
+  (a) may lodge an appeal, whether or not it was a party to the proceeding in the Māori Land Court; and
   (b) must be treated as a party to the appeal.
 (4) An appeal made under this section must be commenced by notice of appeal, given in accordance with the rules of the High Court,—
   (a) within 2 months after the date of the minute of the order appealed from; or
   (b) within any further period of time allowed by the High Court.
 
-### 64 When case must be stated to Maori Appellate Court
-(1) If, in an appeal under section 63(2), a question arises on a matter of tikanga Maori, the High Court must state a case and refer the question to the Maori Appellate Court.
+### 64 When case must be stated to Māori Appellate Court
+(1) If, in an appeal under section 63(2), a question arises on a matter of tikanga Māori, the High Court must state a case and refer the question to the Māori Appellate Court.
 (2) Section 61(2) to (4) of Te Ture Whenua Maori Act 1993 applies if a case is stated by the High Court under subsection (1).
 
 ### 65 Further rights of appeal
 (1) A party who is dissatisfied with a decision of the High Court made under section 63(2) may appeal to the Court of Appeal by leave of the Court of Appeal on a matter of fact or law.
-(2) An opinion of the Maori Appellate Court on a question of tikanga Maori referred to it by the High Court under section 64(1) is not binding on the Court of Appeal.
+(2) An opinion of the Māori Appellate Court on a question of tikanga Māori referred to it by the High Court under section 64(1) is not binding on the Court of Appeal.
 (3) Section 66 of the Judicature Act 1908 applies to appeals to the Court of Appeal under this section.
 
 ## Part 4 — High Court jurisdiction in relation to customary rights orders
@@ -695,7 +695,7 @@ The High Court has jurisdiction to inquire into and determine applications for c
 **Applications to High Court**
 
 ### 68 Applications for orders
-(1) The authorised representative of a group of natural persons with a distinctive community, of interest may apply to the High Court for a customary rights order that relates to a specified area of the public foreshore and seabed.
+(1) The authorised representative of a group of natural persons with a distinctive community of interest may apply to the High Court for a customary rights order that relates to a specified area of the public foreshore and seabed.
 (2) An application must be—
   (a) made not later than 31 December 2015; and
   (b) filed in the registry of the High Court nearest to the area of the public foreshore and seabed that is the subject of an application for a customary rights order.
@@ -710,13 +710,13 @@ The High Court has jurisdiction to inquire into and determine applications for c
   (b) the purpose for which the activity, use, or practice is carried on, exercised, or followed; and
   (c) a description of the distinctive cultural practice that governs the activity, use, or practice; and
   (d) a description of the scale, extent, and frequency of the activity, use, or practice that is being carried on, exercised, or followed; and
-  (e) other matters relevant to the Court's consideration under section 74.
+  (e) other matters relevant to the court’s consideration under section 74.
 
 ### 70 Directions as to service
 The applicant for a customary rights order under section 68 must serve the application on—
   (a) the local authorities that have responsibility for the area of the public foreshore and seabed to which the application relates; and
   (b) the Minister of Conservation, through the Director-General of Conservation; and
-  (c) the Minister of Maori Affairs through the chief executive of Te Puni Kokiri; and
+  (c) the Minister of Māori Affairs through the chief executive of Te Puni Kōkiri; and
   (d) the Chief Executive; and
   (e) any person who, in the opinion of the High Court, is likely to be directly affected by the application.
 
@@ -745,13 +745,13 @@ The applicant for a customary rights order under section 68 must serve the appli
 ### 73 Limits to jurisdiction of High Court under this Part
 (1) Despite section 67, the High Court must not inquire into or determine an application by a group for a customary rights order to carry on, exercise, or follow an activity, use, or practice—
   (a) that, in relation to the same group and the same area of the public foreshore and seabed, is—
-    (i) able to be recognised and protected by an order made by the Maori Land Court under Part 3; or
-    (ii) the subject of an existing application to the Maori Land Court under section 48(1); or
-    (iii) the subject of an existing order made by the Maori Land Court under section 50; or
+    (i) able to be recognised and protected by an order made by the Māori Land Court under Part 3; or
+    (ii) the subject of an existing application to the Māori Land Court under section 48(1); or
+    (iii) the subject of an existing order made by the Māori Land Court under section 50; or
   (b) that is regulated by or under the Fisheries Act 1996; or
   (c) that involves the exercise of—
-    (i) any commercial Maori fishing right or interest, being a right or interest declared to be settled in section 9 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
-    (ii) any non-commercial Maori fishing right or interest, being a right or interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
+    (i) any commercial Māori fishing right or interest, being a right or interest declared to be settled in section 9 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
+    (ii) any non-commercial Māori fishing right or interest, being a right or interest subject to the declarations in section 10 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992; or
   (ca) that involves the exercise of any right or interest of Maori in commercial aquaculture activities on or after 21 September 1992, being a right or interest declared to be settled in section 6 of the Maori Commercial Aquaculture Claims Settlement Act 2004; or
   (d) if the subject of the application is—
     (i) wildlife within the meaning of the Wildlife Act 1953, together with any animals specified in Schedule 6 of that Act:
@@ -769,7 +769,7 @@ The applicant for a customary rights order under section 68 must serve the appli
   (c) the right to carry on, exercise, or follow the activity, use, or practice has not been extinguished as a matter of law.
 (2) The prohibition referred to in subsection (1)(b)(iv) does not include a prohibition or restriction imposed by a rule in a plan or proposed plan.
 (3) The High Court may grant customary rights orders to more than 1 group in respect of the whole or part of the same area of the public foreshore and seabed.
-(4) For the purposes of this section, the High Court may receive as evidence any oral or written statement, document, matter, or information that the Court considers to be reliable, whether or not that evidence would otherwise be admissible.
+(4) For the purposes of this section, the High Court may receive as evidence any oral or written statement, document, matter, or information that the court considers to be reliable, whether or not that evidence would otherwise be admissible.
 
 ### 75 Basis on which customary rights orders determined by High Court
 (1) For the purpose of section 74(1)(b)(ii), an activity, use, or practice has not been carried on, exercised, or followed in a substantially uninterrupted manner if it has been or is prevented from being carried on, exercised, or followed by another activity authorised by or under an enactment or rule of law.
@@ -829,7 +829,7 @@ A recognised customary activity carried out under a customary rights order made 
 In making a determination under section 74, the High Court must not make a customary rights order that confers on a group of natural persons an exclusive right to carry on, exercise, or follow an activity, use, or practice in relation to a specified area of the public foreshore and seabed, if, at any time after 1840,—
   (a) persons who did not belong to the group carried on, exercised, or followed that activity, use, or practice in the specified area; and
   (b) those persons—
-    (i) were not expressly or impliedly permitted by the applicant group to carry on, exercise, or follow the activity, use, or practice in the specified area; and .
+    (i) were not expressly or impliedly permitted by the applicant group to carry on, exercise, or follow the activity, use, or practice in the specified area; and
     (ii) did not recognise the authority of the group to prevent any persons who did not belong to the group from carrying on, exercising, or following the activity, use, or practice in the specified area.
 
 **Orders of High Court**
@@ -839,7 +839,7 @@ In making a determination under section 74, the High Court must not make a custo
 (2) An order made under this Part must specify—
   (a) the particular area of the public foreshore and seabed to which the order applies; and
   (b) the group to which the order applies; and
-  (c) the person declared by the Court to hold the order on behalf of the group to whom the order applies.
+  (c) the person declared by the court to hold the order on behalf of the group to whom the order applies.
 (3) The order must also include a diagram or map that is sufficient to identify the specified area relevant to the customary rights order.
 (4) In addition, the order must include—
   (a) a description of the activity, use, or practice that may be carried on, exercised, or followed under the order; and
@@ -858,7 +858,7 @@ An order of the High Court made under this Part—
   (b) serve a copy of the sealed order of the High Court on—
     (i) the local authorities that have responsibility for the area of the public foreshore and seabed to which the order relates; and
     (ii) the Minister of Conservation, through the Director-General of Conservation; and
-    (iii) the Minister of Maori Affairs, through the chief executive of Te Puni Kokiri; and
+    (iii) the Minister of Māori Affairs, through the chief executive of Te Puni Kōkiri; and
     (iv) the Chief Executive; and
     (v) every person directed by the High Court to be served.
 (2) The copy of the sealed order must be accompanied by a notice that states the date by which an appeal must be lodged.
@@ -910,7 +910,7 @@ The High Court may vary an order made under section 85 or cancel an order under 
 (2) In relation to a proceeding under this Part, the Crown—
   (a) may lodge an appeal on a matter of fact or law, whether or not it was a party to the proceeding in the High Court; and
   (b) must be treated as a party to the appeal.
-(3) An appeal made under this section must be commenced by notice of appeal, given in accordance with the rules of the Court,—
+(3) An appeal made under this section must be commenced by notice of appeal, given in accordance with the rules of the court,—
   (a) not later than 2 months after the date of the making of the order appealed from; or
   (b) within any further period of time allowed by the Court of Appeal.
 
@@ -927,14 +927,14 @@ After the time allowed for an appeal has expired or an appeal has been disposed 
 
 ### 92 Public foreshore and seabed register
 (1) The Chief Executive must keep a public foreshore and seabed register as a permanent record of—
-  (a) the orders made, varied, or cancelled by the Maori Land Court under Part 3; and
+  (a) the orders made, varied, or cancelled by the Māori Land Court under Part 3; and
   (b) the orders made by the High Court under section 43; and
   (c) the management plan for a foreshore and seabed reserve prepared under section 44; and
   (d) the orders made, varied, or cancelled by the High Court under Part 4; and
   (e) agreements entered into under section 96; and
   (f) any restrictions or prohibitions on access imposed by the Minister of Conservation under section 26; and
   (g) any controls imposed by the Minister of Conservation under Schedule 12 of the Resource Management Act 1991.
-(2) The public foreshore and seabed register is in addition to the records of the Maori Land Court.
+(2) The public foreshore and seabed register is in addition to the records of the Māori Land Court.
 
 ### 93 Requirements for keeping public foreshore and seabed register
 (1) The public foreshore and seabed register kept under section 92 must be held in the safe custody of the Chief Executive.
@@ -956,17 +956,17 @@ The register kept under section 92 is a public register within the meaning of se
 ### Subpart 2 — Recognition agreements
 
 ### 96 Agreements to recognise territorial customary rights
-(1) The Attorney-General and the Minister of Maori Affairs may enter into an agreement with a group to recognise that, but for the vesting of the full legal and beneficial ownership of the public foreshore and seabed in the Crown by section 13(1), that group (or any members of the group) would have had a claim for territorial customary rights over a specified area of the public foreshore and seabed.
+(1) The Attorney-General and the Minister of Māori Affairs may enter into an agreement with a group to recognise that, but for the vesting of the full legal and beneficial ownership of the public foreshore and seabed in the Crown by section 13(1), that group (or any members of the group) would have had a claim for territorial customary rights over a specified area of the public foreshore and seabed.
 (2) An agreement reached under subsection (1) is of no effect until,—
   (a) the applicant group makes an application to the High Court; and
-  (b) the Attorney-General and the Minister of Maori Affairs and the applicant group file affidavits in support of that application; and
+  (b) the Attorney-General and the Minister of Māori Affairs and the applicant group file affidavits in support of that application; and
   (c) the High Court confirms by order that the requirements of sections 32 to 34 are satisfied.
 (3) An order made by the High Court under this section must be sealed before it takes effect.
 
 ### 97 Registration and notification of agreements
 (1) When an agreement has been entered into under section 96, the Ministers must provide a certified copy of the agreement to the Chief Executive, who must record it in the public foreshore and seabed register.
 (2) As soon as is reasonably practicable after an agreement has been recorded in the public foreshore and seabed register, the Chief Executive must—
-  (a) notify the agreement in the Gazette ; and
+  (a) notify the agreement in the Gazette; and
   (b) serve a copy of the agreement on—
     (i) the local authorities that have responsibility in the area of the public foreshore and seabed to which the agreement relates; and
     (ii) the Minister of Conservation; and
@@ -982,25 +982,25 @@ The register kept under section 92 is a public register within the meaning of se
   (d) prescribing any duties or powers to be exercised by wardens for the purpose of performing their functions:
   (e) prescribing the means (including, without limitation, identity cards or badges, or both) by which wardens are to be identified:
   (f) providing for any other matters contemplated by this Act or necessary for giving it full effect.
-(2) Regulations made under subsection (1) must be made on the advice of the Minister of Justice, after consultation with the Minister of Conservation and the Minister of Maori Affairs.
+(2) Regulations made under subsection (1) must be made on the advice of the Minister of Justice, after consultation with the Minister of Conservation and the Minister of Māori Affairs.
 
 ### 99 Rules governing applications to High Court
 (1) Every application to the High Court made under this Act must be by filing an originating application.
 (2) Rules not inconsistent with this Act may be made under section 51C of the Judicature Act 1908 to regulate the practice and procedure of the High Court or the Court of Appeal or the Supreme Court in relation to any application to the High Court under this Act.
 
-### 100 Provision saving Maori reservations
-(1) This section applies if, before the commencement of this section, any land that is in the public foreshore and seabed has been set apart as Maori reservation—
-  (a) by the Chief Executive of Te Puni Kokiri under section 338 of Te Ture Whenua Maori Act 1993:
-  (b) on application of the Minister of Maori Affairs under section 339 of Te Ture Whenua Maori Act 1993:
-  (c) upon the express recommendation of the Maori Land Court under section 340 of Te Ture Whenua Maori Act 1993.
-(2) A Maori reservation referred to in subsection (1) must be treated as if it were a specified freehold interest for so long as it is set apart under section 338, or section 339, or section 340 of Te Ture Whenua Maori Act 1993.
-(3) In this section, Maori freehold land and General land have the same meaning as in section 4 of Te Ture Whenua Maori Act 1993.
+### 100 Provision saving Māori reservations
+(1) This section applies if, before the commencement of this section, any land that is in the public foreshore and seabed has been set apart as Māori reservation—
+  (a) by the Chief Executive of Te Puni Kōkiri under section 338 of Te Ture Whenua Maori Act 1993:
+  (b) on application of the Minister of Māori Affairs under section 339 of Te Ture Whenua Maori Act 1993:
+  (c) upon the express recommendation of the Māori Land Court under section 340 of Te Ture Whenua Maori Act 1993.
+(2) A Māori reservation referred to in subsection (1) must be treated as if it were a specified freehold interest for so long as it is set apart under section 338, or section 339, or section 340 of Te Ture Whenua Maori Act 1993.
+(3) In this section, Māori freehold land and General land have the same meaning as in section 4 of Te Ture Whenua Maori Act 1993.
 
 ### 101 Status of existing and future agreements between Crown and claimant groups
 (1) To avoid doubt, nothing in this Act—
   (a) limits or otherwise affects the validity of an agreement entered into between the Crown and a claimant group to settle an historical Treaty of Waitangi claim; or
   (b) fetters the ability of the Crown to enter into any agreement with a claimant group in the future to settle an historical Treaty of Waitangi claim.
-(2) In this section, claimant group means a group of Maori that has entered into a binding settlement of its historical claims against the Crown under the Treaty of Waitangi.
+(2) In this section, claimant group means a group of Māori that has entered into a binding settlement of its historical claims against the Crown under the Treaty of Waitangi.
 
 ### 102 Relationship between local Acts and this Act
 (1) To avoid doubt, if a provision of a local Act is inconsistent with a provision of this Act, the provision of this Act prevails.
@@ -1010,137 +1010,137 @@ The register kept under section 92 is a public register within the meaning of se
 ### 103 Consequential and related amendments
 (1) The Acts specified in Schedule 2 are amended in the manner indicated in that schedule.
 (2) The amendment to section 24 of the Conservation Act 1987 as set out in Schedule 2 applies whether or not an application for the vesting of any right, title, or interest in the reclaimed land has been made before or after the commencement of this section.
-(3) If, at the commencement of this section, a decision of the Minister of Conservation under section 24A of the Conservation Act 1987 is the subject of Court proceedings, any decision of the Minister resulting from those proceedings must be determined as if the amendment to section 24 of the Conservation Act 1987, as set out in Schedule 2, had not been enacted.
+(3) If, at the commencement of this section, a decision of the Minister of Conservation under section 24A of the Conservation Act 1987 is the subject of court proceedings, any decision of the Minister resulting from those proceedings must be determined as if the amendment to section 24 of the Conservation Act 1987, as set out in Schedule 2, had not been enacted.
 
-## Schedule 1 — Procedures of Maori Land Court in exercising jurisdiction in relation to public foreshore and seabed
+## Schedule 1 — Procedures of Māori Land Court in exercising jurisdiction in relation to public foreshore and seabed
 
-### 1 Filing of applications in Maori Land Court
-(1) Applications made to the Maori Land Court under section 48(1) must be filed in the office of the Chief Registrar, regardless of the location of the area of the public foreshore and seabed to which the application relates.
+### Part 1 — Applications under Part 3
+
+### 1 Filing of applications in Māori Land Court
+(1) Applications made to the Māori Land Court under section 48(1) must be filed in the office of the Chief Registrar, regardless of the location of the area of the public foreshore and seabed to which the application relates.
 (2) Applications must—
   (a) be in writing and in the prescribed form (if any); and
   (b) be accompanied by the prescribed fee (if any).
 
-### 2 Requirements for applications to Maori Land Court
-An application to the Maori Land Court for a customary rights order must set out—
+### 2 Requirements for applications to Māori Land Court
+An application to the Māori Land Court for a customary rights order must set out—
   (a) the name of the applicant or, if more than 1 applicant, of each applicant; and
   (b) the postal address and other contact details of each applicant; and
-  (c) a description of the whanau, hapu, or iwi on whose behalf the application is made; and
+  (c) a description of the whānau, hapū, or iwi on whose behalf the application is made; and
   (d) the particular area of public foreshore and seabed to which the application relates; and
-  (e) the legal entity that is proposed to represent the whanau, hapu, or iwi; and
+  (e) the legal entity that is proposed to represent the whānau, hapū, or iwi; and
   (f) a description of the activity, use, or practice that is claimed to be the subject of a customary right; and
   (g) the purpose for which the activity, use, or practice is carried on, exercised, or followed; and
-  (h) a description of tikanga Maori governing the activity, use, or practice; and—
+  (h) a description of tikanga Māori governing the activity, use, or practice; and
   (i) a description of the scale, extent, and frequency of the activity, use, or practice that is being carried on, exercised, or followed; and
-  (j) other matters relevant to the Court's consideration under section 50.
+  (j) other matters relevant to the court’s consideration under section 50.
 
 ### 3 Notification of applications
 (1) As soon as is reasonably practicable after an application is made under section 48(1) and 60(1), the Chief Registrar must—
   (a) give public notice of the application; and
-  (b) publish a notice in the Panui of every Maori Land Court District.
+  (b) publish a notice in the Pānui of every Māori Land Court District.
 (2) The notice required by subclause (1) must contain—
   (a) a brief description of the application, including a description that identifies the particular area of the public foreshore and seabed to which the application relates; and
-  (b) the name of the applicant and the identity of the whanau, hapu, or iwi on whose behalf the application is made; and
-  (c) the legal entity proposed to represent the whanau, hapu, or iwi on whose behalf the application is made; and
+  (b) the name of the applicant and the identity of the whānau, hapū, or iwi on whose behalf the application is made; and
+  (c) the legal entity proposed to represent the whānau, hapū, or iwi on whose behalf the application is made; and
   (d) in the case of an application for a customary rights order, a description of the activity, use, or practice for which the order is sought; and
   (e) the date by which submissions objecting to or supporting the application must be filed in the office of the Chief Registrar, which must be not less than 20 working days after the first public notice of the application is published; and
-  (f) any other matter that the Court directs must be included in the notice.
+  (f) any other matter that the court directs must be included in the notice.
 
 ### 4 Service of notices
 The Chief Registrar must serve notice of an application made under sections 48(1) or 60(1) on—
   (a) the local authorities that have responsibility for the area of the public foreshore and seabed to which the application relates; and
   (b) the Minister of Conservation, through the Director-General of Conservation; and
-  (c) the Minister of Maori Affairs, through the chief executive of Te Puni Kokiri; and
+  (c) the Minister of Māori Affairs, through the chief executive of Te Puni Kōkiri; and
   (d) the Chief Executive; and
   (e) any person who, in the opinion of the Chief Registrar, is likely to be directly affected by the application or appeal; and
-  (f) other persons as directed by the Court to be served.
+  (f) other persons as directed by the court to be served.
+
+**Variation or cancellation of orders**
 
 ### 5 Applications to vary or cancel orders
 An application to vary or cancel an order, as provided for under section 60(1), must include—
-  (a) the name of the applicant and of the whanau, hapu, or iwi on whose behalf the application is made; and
+  (a) the name of the applicant and of the whānau, hapū, or iwi on whose behalf the application is made; and
   (b) the postal address and other contact details of the applicant; and
   (c) a description of—
     (i) the proposed variation or cancellation and the reasons for seeking the variation or cancellation, as the case may be; and
-    (ii) the process that the applicant undertakes to use in consulting on the proposed variation or cancellation with the whanau, hapu, or iwi on whose behalf the order was made; and
-  (d) a statement as to the level of support there is within the whanau, hapu, or iwi for the proposed variation or cancellation, as the case may be.
+    (ii) the process that the applicant undertakes to use in consulting on the proposed variation or cancellation with the whānau, hapū, or iwi on whose behalf the order was made; and
+  (d) a statement as to the level of support there is within the whānau, hapū, or iwi for the proposed variation or cancellation, as the case may be.
+
+### Part 2 — Orders made by Māori Land Court and Māori Appellate Court
 
 ### 6 Commencement of orders
-(1) A minute of an order made under section 50 must immediately be entered in the records of the Maori Land Court.
+(1) A minute of an order made under section 50 must immediately be entered in the records of the Māori Land Court.
 (2) As soon as practicable, the order must be drawn up, sealed, and signed and takes effect according to its tenor on and from the commencement of the day on which it is pronounced.
 (3) However,—
-  (a) an order must not be acted upon until a duplicate of the order has been issued from the Court; and
-  (b) a sealed duplicate order must not be issued from the Court before—
+  (a) an order must not be acted upon until a duplicate of the order has been issued from the court; and
+  (b) a sealed duplicate order must not be issued from the court before—
     (i) the time allowed for an appeal has expired; or
     (ii) in the event of an appeal, the appeal has been disposed of.
 
-### 7 Orders of Maori Land Court
-(1) An order of the Maori Land Court made under section 50—
+### 7 Orders of Māori Land Court
+(1) An order of the Māori Land Court made under section 50—
   (a) must specify—
     (i) the particular area of the public foreshore and seabed to which the order applies; and
-    (ii) the whanau, hapu, or iwi to whom the order applies; and
-    (iii) the legal entity declared by the Court to hold the order for the whanau, hapu, or iwi to whom the order applies; and
+    (ii) the whānau, hapū, or iwi to whom the order applies; and
+    (iii) the legal entity declared by the court to hold the order for the whānau, hapū, or iwi to whom the order applies; and
   (b) must include a diagram or map to identify the area of the public foreshore and seabed to which the order applies.
 (2) In addition, a customary rights order must include—
   (a) a description of the activity, use, or practice that may be carried on, exercised, or followed under the order; and
-  (b) a description of the scale, extent, and frequency of the activity, use, or practice that may be carried on, exercised, or followed under the order, together with a statement of the scale, extent, and frequency of the activity, use, or practice that was, before the commencement of this section, carried on, exercised, or followed by the whanau, hapu, or iwi to which the order applies; and
+  (b) a description of the scale, extent, and frequency of the activity, use, or practice that may be carried on, exercised, or followed under the order, together with a statement of the scale, extent, and frequency of the activity, use, or practice that was, before the commencement of this section, carried on, exercised, or followed by the whānau, hapū, or iwi to which the order applies; and
   (c) a description of the purpose for which the activity, use, or practice is carried on, exercised, or followed; and
   (d) a statement that the exercise of a customary activity, use, or practice under the order may be subject to controls imposed by the Minister of Conservation under Schedule 12 of the Resource Management Act 1991.
 (3) The diagram or map required by subclause (1)(b) must be sufficient to identify the specified area relevant to the customary rights order.
 
-### 8 Service and notification of orders of Maori Land Court
-(1) As soon as is reasonably practicable after an order has been pronounced by the Maori Land Court, varied under section 58(1), or cancelled under section 59(1), the Chief Registrar must—
+### 8 Service and notification of orders of Māori Land Court
+(1) As soon as is reasonably practicable after an order has been pronounced by the Māori Land Court, varied under section 58(1), or cancelled under section 59(1), the Chief Registrar must—
   (a) publish in the Gazette a minute of the order; and
   (b) serve a copy of the order that is pronounced and a notice that complies with subclause (2), on—
     (i) the local authorities that have responsibility for the area of the public foreshore to which the application relates; and
     (ii) the Minister of Conservation, through the Director-General of Conservation; and
-    (iii) the Minister of Maori Affairs, through the chief executive of Te Puni Kokiri; and
+    (iii) the Minister of Māori Affairs, through the chief executive of Te Puni Kōkiri; and
     (iv) the Chief Executive; and
-    (v) every person directed by the Court to be served.
+    (v) every person directed by the court to be served.
 (2) The notice given under subclause (1) must state—
   (a) the date when the order was pronounced; and
   (b) the particular area of the public foreshore and seabed to which the order applies; and
   (c) the activity, use, or practice that may be carried on, exercised, or followed under the order and the scale, extent, and frequency of that activity, use, or practice; and
   (d) the date by which an appeal must be lodged.
-(3) If an order pronounced by the Maori Land Court is appealed, the Chief Registrar must, as soon as is reasonably practicable after the order is issued following the determination of the appeal, give notice and serve the order in accordance with subclause (1).
+(3) If an order pronounced by the Māori Land Court is appealed, the Chief Registrar must, as soon as is reasonably practicable after the order is issued following the determination of the appeal, give notice and serve the order in accordance with subclause (1).
 
 ### 9 Correction of accidental errors in orders
 (1) This clause applies to an order made under section 50, varied under section 58(1), or cancelled under section 59(1).
-(2) The Maori Land Court may amend an order referred to in subclause (1) to correct a clerical mistake or error arising accidentally, whether by an officer of the Court or otherwise, as the Court considers necessary to give effect to the intention of the determination of the Court.
+(2) The Māori Land Court may amend an order referred to in subclause (1) to correct a clerical mistake or error arising accidentally, whether by an officer of the court or otherwise, as the court considers necessary to give effect to the intention of the determination of the court.
 (3) A correction may be made—
-  (a) on the direction of the Court or Judge; or
+  (a) on the direction of the court or Judge; or
   (b) on an application by a party to the proceedings.
 (4) A correction takes effect on and from the date of the commencement of the order.
 
+### Part 3 — Hearing
+
 ### 10 Conduct of hearing
-(1) In conducting a public hearing, as provided for by section 62(1), the Maori Land Court—
+(1) In conducting a public hearing, as provided for by section 62(1), the Māori Land Court—
   (a) may convene a conference as provided for by section 67 of Te Ture Whenua Maori Act 1993; and
-  (b) must convene a public hearing at a place as near as the Court considers convenient to the locality of the area of the public foreshore and seabed that is the subject of the application, unless the parties agree to a different venue.
-(2) The Maori Land Court may—
+  (b) must convene a public hearing at a place as near as the court considers convenient to the locality of the area of the public foreshore and seabed that is the subject of the application, unless the parties agree to a different venue.
+(2) The Māori Land Court may—
   (a) inquire into more than 1 application in a hearing if the applications relate to public foreshore and seabed areas in the same general locality; and
   (b) refer matters to a Registrar, as provided for in section 40 of Te Ture Whenua Maori Act 1993; and
-  (c) appoint a barrister or solicitor to assist the Court.
+  (c) appoint a barrister or solicitor to assist the court.
 (3) Sections 66 to 71 of Te Ture Whenua Maori Act 1993 apply to a hearing conducted under this Act, to the extent that they are consistent with the provisions of this Act.
 
 ### 11 Additional members
-(1) If an inquiry involves matters of tikanga Maori, the Chief Judge may appoint up to 2 additional members (not being Judges of the Maori Land Court) to the Maori Land Court.
-(2) Each person appointed under subclause (1) must possess knowledge and experience of tikanga Maori.
+(1) If an inquiry involves matters of tikanga Māori, the Chief Judge may appoint up to 2 additional members (not being Judges of the Māori Land Court) to the Māori Land Court.
+(2) Each person appointed under subclause (1) must possess knowledge and experience of tikanga Māori.
+
+**Parties**
 
 ### 12 Entitlement to appear
 (1) The only persons entitled to appear and be heard in a proceeding relating to an application made under section 48(1), or an application to vary or cancel an order as provided for in sections 58(1) and 59(1), are those who—
   (a) are applicants for an order:
-  (b) are members of the whanau, hapu, or iwi on whose behalf an application is made:
+  (b) are members of the whānau, hapū, or iwi on whose behalf an application is made:
   (c) have an interest in the proceeding that is different from an interest in common with the public generally; and
     (i) have filed a submission by the due date; or
-    (ii) despite not filing a submission by the due date, have leave of the Court to appear and be heard.
+    (ii) despite not filing a submission by the due date, have leave of the court to appear and be heard.
 (2) Despite subclause (1), the Crown is entitled to be a party to a proceeding relating to an application made under Part 3.
 
 ## Schedule 2 — Consequential and related amendments
-
-### 9 Appointment of temporary Judges
-(1) Subject to section 11, the Governor-General may whenever in his or her opinion, it is necessary or expedient to make a temporary appointment, appoint 1 or more temporary Judges of the Maori Land Court to hold office for such period as is specified in the warrant of appointment.
-(2) The period specified must not exceed 2 years.
-(3) However, a person appointed under this section may be reappointed.
-(4) A person may not be appointed as a temporary Judge under this section unless that person is eligible for appointment as a Judge under section 7.
-(5) However, a person otherwise qualified who has attained the age of 68 years (including a Judge who has retired after attaining that age) may be appointed as a temporary Judge under this section.
-(6) Subsection (2) applies to an appointment made under subsection (5).
-(7) The power conferred by this section may be exercised at any time, even though there may be 1 or more persons holding the office of Judge under section 7 or section 10.
-(8) A person appointed under this section is to be paid, during the term of the appointment, the salary and allowances payable under section 13 to a Judge other than the Chief Judge and the Deputy Chief Judge.
