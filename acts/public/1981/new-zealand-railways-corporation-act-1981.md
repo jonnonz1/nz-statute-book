@@ -1,5 +1,5 @@
 # New Zealand Railways Corporation Act 1981
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2009-01-01_
 
 > An Act to establish a corporation to maintain, operate, and develop the services at present carried on by the New Zealand Government Railways Department and to consolidate and amend the law relating thereto
 
@@ -756,7 +756,7 @@ For the preparation of Proclamations, Orders in Council, deeds, leases, agreemen
 (2) This section shall be deemed to be a special Act within the meaning of section 175 of the Harbours Act 1950.
 
 ### 119A Application of certain transport Acts to Corporation
-Notwithstanding section 4(1) of this Act, or any other enactment or rule of law, proceedings for any offence committed on or after the 1st day of November 1989 against the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, the Railways Act 2005, the Land Transport Act 1998, or the Land Transport Management Act 2003, or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
+Notwithstanding section 4(1) of this Act, or any other enactment or rule of law, proceedings for any offence committed on or after the 1st day of November 1989 against the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Public Transport Management Act 2008, the Railways Act 2005, the Land Transport Act 1998, or the Land Transport Management Act 2003, or any regulations or bylaws made under any of those Acts, may be brought against the Corporation as if the Corporation were not an instrument of the Executive Government of New Zealand for the purposes of those Acts.
 
 ### 120 Repeals and amendments
 (1) The enactments set out in Schedule 4 to this Act are hereby consequentially repealed.
@@ -777,3 +777,45 @@ Notwithstanding section 4(1) of this Act, or any other enactment or rule of law,
 ## Schedule 3 — Reclamation authorised
 
 ## Schedule 4 — Enactments repealed
+
+### 1 Title
+This Act is the Public Transport Management Act 2008.
+
+### 2 Commencement
+This Act comes into force on 1 January 2009.
+
+## Part 2 — Regulation of public transport
+
+### Subpart 3 — Miscellaneous
+
+**Transitional and savings provisions**
+
+### 64 Transitional provision for existing registered services
+(1) A passenger service (or any part of a passenger service) that, before the commencement of this Act, was not a contracted service under Part 2 of the Transport Services Licensing Act 1989 but was registered under section 49 of the Transport Services Licensing Act 1989 is to be treated as a registered commercial public transport service under this Act.
+(2) Subsection (1) does not apply to the following services:
+  (a) taxi services; and
+  (b) shuttle services; and
+  (c) private hire services.
+(3) A passenger service that, before the commencement of this Act, was a contracted service under Part 2 of the Transport Services Licensing Act 1989, and a registered service under that Act, is to be treated as a contracted public transport service that is a registered service under this Act.
+(4) For the purposes of this section, passenger service means a passenger service as defined in section 47 of the Transport Services Licensing Act 1989, as if that Act were still in force.
+
+### 65 Transitional provision for notifications received but not processed before commencement of Act
+A notification received under the Transport Services Licensing Act 1989 but not processed before the commencement of this Act is to be treated as a notification received under section 32, 36, or 46, as the case may require.
+
+### 66 Transitional provision for existing regional passenger transport plans
+(1) Except in the Auckland region, a regional council must adopt a regional public transport plan under section 9 at the same time or as soon as is reasonably practicable after the regional council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
+(2) In the Auckland region, ARTA must adopt a regional public transport plan under section 9 as soon as is reasonably practicable after the Auckland Regional Council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
+(3) A regional passenger transport plan prepared by a regional council under the Transport Services Licensing Act 1989 expires when the regional council adopts a regional public transport plan in accordance with subsection (1) or (2) or 3 years after the commencement of this Act, whichever is earlier.
+(4) Subject to subsection (5) or (6), until a regional council’s regional passenger transport plan prepared under the Transport Services Licensing Act 1989 expires under subsection (3), that regional passenger transport plan remains in effect as if that Act (immediately before the commencement of this Act) was still in force.
+(5) If a regional passenger transport plan remains in effect under subsection (4), a regional council may not vary the plan to include a control under section 13.
+(6) Sections 14(a)(iii)(B), 18J(2)(c)(ii), 19B(b)(ii), 20(3)(c), 48(1)(c)(i), 58(1)(c), 65J(b)(iii), 82, 105(13) of the Land Transport Management Act 2003 apply as if section 77(h) of that Act were not repealed under section 63(2) if a regional passenger transport plan (other than a plan that relates to the Auckland region) continues in effect under subsection (4) and—
+  (a) is or, immediately before the commencement of this Act, was contained in a regional land transport strategy that has been approved or continued in accordance with the Land Transport Management Act 2003; or
+  (b) would have been required to be contained in a regional land transport strategy but for the repeal of section 77(h) of the Land Transport Management Act 2003.
+
+### 67 Transitional provisions for register of services
+(1) Subject to subsection (2), the register of services established under Part 2 of the Transport Services Licensing Act 1989 is to be treated as the register of services established under this Act.
+(2) All entries in the register of services established under Part 2 of the Transport Services Licensing Act 1989 in relation to taxi services, shuttle services, and private hire services are to be treated as expunged and deleted.
+
+### 68 Transitional provisions for regional councils and ARTA
+(1) Except in the Auckland region, a regional council may adopt a regional public transport plan for the first time under this Act at the same time as it approves a regional land transport programme under the Land Transport Management Act 2003.
+(2) ARTA may prepare and adopt a regional public transport plan for the first time under this Act at the same time as it prepares and approves a regional land transport programme under the Land Transport Management Act 2003.
