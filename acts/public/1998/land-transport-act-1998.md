@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-01-01_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -42,6 +42,7 @@ _Consolidation as at 2008-10-01_
   - **Carriage** includes haulage
   - **certificate of compliance** means a certificate given under section 75A by a person authorised by the Science Minister.
   - **Certificate of loading** means a certificate of loading issued under the regulations or the rules
+  - **commercial public transport service** has the same meaning as in section 4 of the Public Transport Management Act 2008
   - **Commissioner** means the Commissioner of Police
   - **Conclusive evidential breath-testing device**
   - **control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
@@ -116,7 +117,7 @@ _Consolidation as at 2008-10-01_
     (d) Any other offence against this Act or any other enactment that is specified as an infringement offence against this Act (other than an offence that carries a penalty of imprisonment or mandatory disqualification from holding or obtaining a driver licence):
   - **Invalid carriage**
   - **Land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
-  - **Land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, the Transport Services Licensing Act 1989, or this Act
+  - **Land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, or this Act
   - **Land Transport Register** includes—
     (a) Registers kept under this Act, the Railways Act 2005, ; and
     (b) Other information and records relating to vehicle and operator licensing kept by the Agency:
@@ -268,7 +269,7 @@ _Consolidation as at 2008-10-01_
   - **toll offence** means an offence against section 54(1) of the Land Transport Management Act 2003.
   - **traction engine** means a vehicle that—
     (a) is propelled by steam power; and
-    (b) is not a rail service vehicle within the meaning of section 2(1) of the Transport Services Licensing Act 1989; and
+    (b) is not a rail vehicle within the meaning of section 4(1) of the Railways Act 2005; and
     (c) is not designed for the carriage of goods or persons other than the driver and, if appropriate, other persons involved in its operation
   - **Traffic control device** includes any—used on a road for the purpose of traffic control
     (a) Sign, signal, or notice; or
@@ -1637,8 +1638,9 @@ The court may require a transport service licence holder to sit, or re-sit, the 
   (b) any other offence under this Act that is applicable to a vehicle used in a licensed transport service.
 
 ### 79M Penalties for failure to pay passenger service fares
-(1) A person who fails to pay a passenger service fare that he or she is liable to pay commits an infringement offence.
+(1) A person who fails to pay a passenger service or public transport service fare that he or she is liable to pay commits an infringement offence.
 (2) The maximum penalty, on summary conviction for an offence against subsection (1), is a fine not exceeding $500.
+(3) For the purposes of this section, public transport service has the same meaning as in section 4 of the Public Transport Management Act 2008.
 
 ## Part 6B — Offences relating to work time and logbooks
 
@@ -2276,7 +2278,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 
 ### 113 Enforcement officers may enforce transport legislation
 (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
-  (a) The Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
+  (a) The Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
   (b) Regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
   (a) Direct a person on a road (whether or not in charge of a vehicle) to give the person's name and address and date of birth, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
@@ -2993,6 +2995,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
   (a) To provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
   (b) To meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport.
+  (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of commercial public transport services under the Public Transport Management Act 2008.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
 (3) Regulations under section 167(1)(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
 (4) Any regulation under section 167(1)(j) may—
@@ -3256,11 +3259,16 @@ The functions of the Minister under this Act are—
 
 ### 208 Appointment of enforcement officers and dangerous goods enforcement officers
 (1) The Commissioner may, by warrant, appoint a person who is not a sworn member of the Police to be—
-  (a) An enforcement officer for the purposes of this Act or Part 2 of the Land Transport Management Act 2003; or
+  (a) an enforcement officer for the purposes of—
+    (i) this Act:
+    (ii) Part 2 of the Land Transport Management Act 2003:
+    (iii) the Public Transport Management Act 2008; or
   (b) A dangerous goods enforcement officer.
 (2) The Commissioner may, by warrant, appoint any sworn member of the Police to be a dangerous goods enforcement officer.
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
-  (a) an enforcement officer for the purposes of any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139; or
+  (a) an enforcement officer for the purposes of—
+    (i) any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
+    (ii) the Public Transport Management Act 2008; or
   (b) A dangerous goods enforcement officer.
 (4) Only persons who, in the opinion of the Commissioner or the Agency (as the case may be), are qualified by knowledge or experience to undertake enforcement of the functions specified in the warrant of appointment may be appointed under this section.
 (5) Each enforcement officer or dangerous goods enforcement officer appointed under this section is to be supplied by the Commissioner or the Agency (as the case may be) with a warrant which specifies the functions that the officer is entitled or required to undertake.
@@ -3960,3 +3968,45 @@ If a matter or thing is continued with a specified effect by this Act, the matte
     (ii) specified terms have the meaning given to them by the regulations:
     (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
 (2) This clause expires on 1 January 2012.
+
+### 1 Title
+This Act is the Public Transport Management Act 2008.
+
+### 2 Commencement
+This Act comes into force on 1 January 2009.
+
+## Part 2 — Regulation of public transport
+
+### Subpart 3 — Miscellaneous
+
+**Transitional and savings provisions**
+
+### 64 Transitional provision for existing registered services
+(1) A passenger service (or any part of a passenger service) that, before the commencement of this Act, was not a contracted service under Part 2 of the Transport Services Licensing Act 1989 but was registered under section 49 of the Transport Services Licensing Act 1989 is to be treated as a registered commercial public transport service under this Act.
+(2) Subsection (1) does not apply to the following services:
+  (a) taxi services; and
+  (b) shuttle services; and
+  (c) private hire services.
+(3) A passenger service that, before the commencement of this Act, was a contracted service under Part 2 of the Transport Services Licensing Act 1989, and a registered service under that Act, is to be treated as a contracted public transport service that is a registered service under this Act.
+(4) For the purposes of this section, passenger service means a passenger service as defined in section 47 of the Transport Services Licensing Act 1989, as if that Act were still in force.
+
+### 65 Transitional provision for notifications received but not processed before commencement of Act
+A notification received under the Transport Services Licensing Act 1989 but not processed before the commencement of this Act is to be treated as a notification received under section 32, 36, or 46, as the case may require.
+
+### 66 Transitional provision for existing regional passenger transport plans
+(1) Except in the Auckland region, a regional council must adopt a regional public transport plan under section 9 at the same time or as soon as is reasonably practicable after the regional council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
+(2) In the Auckland region, ARTA must adopt a regional public transport plan under section 9 as soon as is reasonably practicable after the Auckland Regional Council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
+(3) A regional passenger transport plan prepared by a regional council under the Transport Services Licensing Act 1989 expires when the regional council adopts a regional public transport plan in accordance with subsection (1) or (2) or 3 years after the commencement of this Act, whichever is earlier.
+(4) Subject to subsection (5) or (6), until a regional council’s regional passenger transport plan prepared under the Transport Services Licensing Act 1989 expires under subsection (3), that regional passenger transport plan remains in effect as if that Act (immediately before the commencement of this Act) was still in force.
+(5) If a regional passenger transport plan remains in effect under subsection (4), a regional council may not vary the plan to include a control under section 13.
+(6) Sections 14(a)(iii)(B), 18J(2)(c)(ii), 19B(b)(ii), 20(3)(c), 48(1)(c)(i), 58(1)(c), 65J(b)(iii), 82, 105(13) of the Land Transport Management Act 2003 apply as if section 77(h) of that Act were not repealed under section 63(2) if a regional passenger transport plan (other than a plan that relates to the Auckland region) continues in effect under subsection (4) and—
+  (a) is or, immediately before the commencement of this Act, was contained in a regional land transport strategy that has been approved or continued in accordance with the Land Transport Management Act 2003; or
+  (b) would have been required to be contained in a regional land transport strategy but for the repeal of section 77(h) of the Land Transport Management Act 2003.
+
+### 67 Transitional provisions for register of services
+(1) Subject to subsection (2), the register of services established under Part 2 of the Transport Services Licensing Act 1989 is to be treated as the register of services established under this Act.
+(2) All entries in the register of services established under Part 2 of the Transport Services Licensing Act 1989 in relation to taxi services, shuttle services, and private hire services are to be treated as expunged and deleted.
+
+### 68 Transitional provisions for regional councils and ARTA
+(1) Except in the Auckland region, a regional council may adopt a regional public transport plan for the first time under this Act at the same time as it approves a regional land transport programme under the Land Transport Management Act 2003.
+(2) ARTA may prepare and adopt a regional public transport plan for the first time under this Act at the same time as it prepares and approves a regional land transport programme under the Land Transport Management Act 2003.
