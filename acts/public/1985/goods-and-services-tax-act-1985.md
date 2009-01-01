@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2008-09-17_
+_Consolidation as at 2009-01-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -46,6 +46,10 @@ _Consolidation as at 2008-09-17_
   - **Donated goods and services** means goods and services which are gifted to a non-profit body and are intended for use in the carrying on or carrying out of the purposes of that non-profit body
   - **Due date** , in relation to the payment of tax by a registered person, means the last day for payment determined by either section 19C(1) or 23(1) for that registered person
   - **Dwelling** means any building, premises, structure, or other place, or any part thereof, used predominantly as a place of residence or abode of any individual, together with any appurtenances belonging thereto and enjoyed with it; but does not include a commercial dwelling
+  - **emissions unit** means—
+    (a) a New Zealand unit:
+    (b) a Kyoto unit as defined in section 4(1) of the Climate Change Response Act 2002:
+    (c) an approved overseas unit as defined in section 4(1) of the Climate Change Response Act 2002
   - **Exempt supply** means a supply that is exempt from tax pursuant to section 14 of this Act
   - **Fine metal** means—
     (a) Gold, in any form, being gold of a fineness of not less than 99.5 percent:
@@ -92,6 +96,7 @@ _Consolidation as at 2008-09-17_
     (b) Any trading name subsequently notified to the Commissioner under section 53(2) of this Act as the name the registered person wishes to use for the purpose of issuing or creating tax invoices and credit or debit notes under this Act:
   - **New fine metal** means any fine metal which has been refined into fine metal by a refiner of fine metal
   - **New Zealand** means New Zealand as defined in section YA 1 of the Income Tax Act 2007
+  - **New Zealand unit** means a New Zealand unit as defined in section 4(1) of the Climate Change Response Act 2002
   - **Non-profit body** means any society, association, or organisation, whether incorporated or not,—
     (a) Which is carried on other than for the purposes of profit or gain to any proprietor, member, or shareholder; and
     (b) Which is, by the terms of its constitution, rules, or other document constituting or governing the activities of that society, association, or organisation, prohibited from making any distribution whether by way of money, property, or otherwise howsoever, to any such proprietor, member, or shareholder:
@@ -599,7 +604,8 @@ This Act shall bind the Crown.
   (m) the supply to a registered person of a taxable activity, or part of a taxable activity, that is a going concern at the time of the supply, if—
     (i) the supply is agreed by the supplier and the recipient, in writing, to be the supply of a going concern; and
     (ii) the supplier and the recipient intend that the supply is of a taxable activity, or part of a taxable activity, that is capable of being carried on as a going concern by the recipient; or
-  (n) the supply of new fine metal, being the first supply of the new fine metal after its refining, by the refiner to a dealer in fine metal, for the purpose of supplying the fine metal for use as an investment item.
+  (n) the supply of new fine metal, being the first supply of the new fine metal after its refining, by the refiner to a dealer in fine metal, for the purpose of supplying the fine metal for use as an investment item; or
+  (o) the goods are supplied as consideration for a supply that is chargeable at the rate of 0% under section 11A(1)(s) or (t).
 (2) For the purpose of subsection (1)(n), if a person is both a refiner of and a dealer in fine metal, the new fine metal is treated as having been supplied to the dealer at a time immediately before the making of an exempt supply of the new fine metal.
 (3) Subsection (1)(a) to (1)(l) do not apply to a supply of goods by a registered person if—
   (a) the registered person, or another person associated with the registered person, has deducted, under section 20(3), input tax as defined in section 3A(1)(c) in respect of the goods; or
@@ -677,7 +683,11 @@ This Act shall bind the Crown.
     (i) the members of the group make supplies of goods and services to persons who are not members of the group in respect of—
       (A) a 12-month period that includes the taxable period; or
       (B) a period acceptable to the Commissioner; and
-    (ii) not less than 75% of the total value of the supplies referred to in subparagraph (i) consists of taxable supplies that are not charged with tax at the rate of 0% under this paragraph or under paragraph (q).
+    (ii) not less than 75% of the total value of the supplies referred to in subparagraph (i) consists of taxable supplies that are not charged with tax at the rate of 0% under this paragraph or under paragraph (q); or
+  (s) the services are a New Zealand unit, and the supply is the transfer of the emissions unit under section 64 of the Climate Change Response Act 2002 or under Part 4, subpart 2 of that Act; or
+  (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under section 63 of the Climate Change Response Act 2002; or
+  (u) the services are supplied as consideration for a supply that is chargeable at the rate of 0% under paragraph (s) or (t); or
+  (v) the services are an emissions unit, and the supply is the sale or other disposal of the emissions unit.
 (1B) Subsection (1)(j) does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand unless the nature of the services is such that the services can be physically received at no time and place other than the time and place at which the services are physically performed.
 (2) Subsection (1)(k) and (1)(l) do not apply to a supply of services under an agreement that is entered into, whether directly or indirectly, with a person (person A) who is a non-resident if—
   (a) the performance of the services is, or it is reasonably foreseeable at the time the agreement is entered into that the performance of the services will be, received in New Zealand by another person (person B), including—
@@ -2253,3 +2263,19 @@ This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
 (1) Amendment incorporated in the principal Act.
 (2) Amendment incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for taxable periods ending on or after 30 November 2007.
+
+### 1 Title
+This Act is the Climate Change Response (Emissions Trading) Amendment Act 2008.
+
+### 2 Commencement
+(1) Sections 165 and 182 of the Climate Change Response Act 2002 (as inserted by section 50 of this Act) come into force on a date to be appointed by the Governor-General by Order in Council on the recommendation of the Minister responsible for the administration of the Climate Change Response Act 2002 made in accordance with section 53 of this Act.
+(2) Sections 77 to 80 of this Act come into force on 1 January 2009.
+(3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 79 Zero-rating of goods
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies to supplies made on or after 1 January 2009.
+
+### 80 Zero-rating of services
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies to supplies made on or after 1 January 2009.
