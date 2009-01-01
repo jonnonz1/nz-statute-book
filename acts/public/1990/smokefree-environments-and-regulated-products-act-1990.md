@@ -1,5 +1,5 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2008-12-01_
+_Consolidation as at 2009-01-01_
 
 > An Act—aTo reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbTo regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcTo monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddTo establish a Health Sponsorship Council
 
@@ -124,11 +124,11 @@ _Consolidation as at 2008-12-01_
   - **ship** has the meaning given to it by section 2(1) of the Ship Registration Act 1992
   - **ship on demise charter to a New Zealand-based operator** has the meaning given to it by section 4 of the Ship Registration Act 1992
   - **Smoking accessory** means any article or substance that is used in conjunction with smoking, including cigarette papers, pipe cleaners, cigarette lighters, lighter fuel, and ashtrays; and includes the packaging, carton, wrapping, or other container in which smoking accessories are customarily sold at retail
+  - **taxi** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **to smoke** —
     (a) means to smoke, hold, or otherwise have control over an ignited tobacco product, weed, or plant; and
     (b) includes to smoke, hold, or otherwise have control over an ignited product or thing whose customary use is or includes the inhalation from it of the smoke produced from its combustion or the combustion of any part of it; but
     (c) does not include to hold or have control over an ignited product or thing customarily used as incense
-  - **taxi** means a small passenger service vehicle for which a passenger service licence (within the meaning of section 2(1) of the Transport Services Licensing Act 1989) is held
   - **tobacco carton** means a box, carton, pack, packet, pouch, tin, wrapping, or other package containing 2 or more tobacco packages
   - **tobacconist's shop** —
     (a) means a retail shop that—
