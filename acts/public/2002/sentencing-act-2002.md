@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2008-12-17_
+_Consolidation as at 2009-01-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -35,7 +35,7 @@ The purposes of this Act are—
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
   - **health assessor** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
-    (b) is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology; or
+    (b) is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology
   - **home detention residence** means the residence, specified by a court, where an offender sentenced to home detention serves that sentence
   - **hospital** means a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **immediate family** , in relation to a victim,—
@@ -489,11 +489,11 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 ### 36 Conditions of sentence of reparation
 (1) If a court sentences an offender to make reparation, the court must determine the conditions of the sentence in respect of the following matters:
   (a) the total amount of reparation to be paid by the offender:
-  (b) whether the amount is to be paid in one lump sum or in instalments:
-  (c) if the amount is to be paid in one lump sum, whether it is to be paid immediately or at some specified future date:
+  (b) whether the amount is to be paid in 1 lump sum or in instalments:
+  (c) if the amount is to be paid in 1 lump sum, whether it is to be paid immediately or at some specified future date:
   (d) if the amount is to be paid in instalments, the frequency and amounts of the instalments.
-(2) The court may not impose a condition that an amount to be paid in one lump sum must be paid immediately unless the court is satisfied that the offender has sufficient means to pay it immediately.
-(3) If the court imposes a condition on a sentence of reparation that it must be paid immediately in one lump sum, section 83(2) of the Summary Proceedings Act 1957 applies as if the condition were an order under section 83(1) of that Act.
+(2) The court may not impose a condition that an amount to be paid in 1 lump sum must be paid immediately unless the court is satisfied that the offender has sufficient means to pay it immediately.
+(3) If the court imposes a condition on a sentence of reparation that it must be paid immediately in 1 lump sum, section 83(2) of the Summary Proceedings Act 1957 applies as if the condition were an order under section 83(1) of that Act.
 
 ### 37 Copy of conditions of reparation to be given to person who suffered harm, loss, or damage
 (1) A copy of the conditions of a sentence of reparation must be given to the person who suffered the harm, loss, or damage.
@@ -1358,7 +1358,7 @@ When an offender performs any service or does any work or attends any course or 
 (3) The court may specify that post-detention conditions imposed under this section expire on a date that is a specified period of at least 6 months, but no more than 12 months, from the detention end date.
 (4) If the court imposes special post-detention conditions on the offender, the special post-detention conditions may apply for as long as, but not longer than, the standard post-detention conditions that apply to the offender.
 (5) If the court sentences the offender to more than 1 sentence of home detention on the same occasion,—
-  (a) only one order under this section may be made; and
+  (a) only 1 order under this section may be made; and
   (b) that order applies in respect of all the sentences of home detention imposed on that occasion.
 
 ### 80O Standard post-detention conditions
@@ -1424,7 +1424,7 @@ An offender commits an offence, and is liable on summary conviction to imprisonm
 (2) In the case of a condition of the kind referred to in section 80P(2)(b) (which involves prescription medication), an offender does not breach his or her conditions for the purposes of this section if he or she withdraws consent to taking prescription medication.
 
 ### 80V Arrest without warrant for breach of detention or post-detention conditions
-Any constable or any probation officer may arrest, without warrant, an offender who the member or officer has reasonable grounds to believe has breached any of his or her detention conditions or post-detention conditions.
+Any constable or any probation officer may arrest, without warrant, an offender who the constable or officer has reasonable grounds to believe has breached any of his or her detention conditions or post-detention conditions.
 
 ### 80W Court may defer start date of sentence of home detention
 (1) The court may defer the start date of a sentence of home detention for a specified period of up to 2 months—
@@ -1578,7 +1578,7 @@ In determining the length of any sentence of imprisonment to be imposed, the cou
 ### 84 Guidance on use of cumulative and concurrent sentences of imprisonment
 (1) Cumulative sentences of imprisonment are generally appropriate if the offences for which an offender is being sentenced are different in kind, whether or not they are a connected series of offences.
 (2) Concurrent sentences of imprisonment are generally appropriate if the offences for which an offender is being sentenced are of a similar kind and are a connected series of offences.
-(3) In determining for the purpose of this section whether 2 or more offences committed by one offender are a connected series of offences, the court may consider—
+(3) In determining for the purpose of this section whether 2 or more offences committed by 1 offender are a connected series of offences, the court may consider—
   (a) the time at which they occurred; or
   (b) the overall nature of the offending; or
   (c) any other relationship between the offences that the court considers relevant.
@@ -1785,7 +1785,7 @@ The court must make an order under section 103 imposing a minimum period of impr
   (d) if the murder was committed in the course of another serious offence; or
   (e) if the murder was committed with a high level of brutality, cruelty, depravity, or callousness; or
   (ea) if the murder was committed as part of a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002); or
-  (f) if the deceased was constable or a prison officer acting in the course of his or her duty; or
+  (f) if the deceased was a constable or a prison officer acting in the course of his or her duty; or
   (g) if the deceased was particularly vulnerable because of his or her age, health, or because of any other factor; or
   (h) if the offender has been convicted of 2 or more counts of murder, whether or not arising from the same circumstances; or
   (i) in any other exceptional circumstances.
@@ -1992,7 +1992,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
     (c) any other agreement entered into between the offender and another party under which the other party obtains or retains any interest in the motor vehicle
   - **hire purchase agreement** means a hire purchase agreement within the meaning of section YA 1 of the Income Tax Act 2007
   - **interest** means any proprietary interest, whether legal or equitable, and whether vested or contingent
-  - **leasing agreement** does not include any agreement entered into between the offender and the holder of a rental service licence under the Transport Services Licensing Act 1989
+  - **leasing agreement** does not include any agreement entered into between the offender and the holder of a rental service licence under the Land Transport Act 1998
   - **motor vehicle** means a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998; but does not include a trailer.
 (2) For the purposes of sections 128 to 142, a motor vehicle is owned by an offender whether the offender owns it solely or as a joint tenant or tenant in common with any other person.
 
