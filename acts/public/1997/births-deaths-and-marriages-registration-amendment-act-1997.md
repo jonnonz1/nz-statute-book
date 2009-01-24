@@ -1,5 +1,5 @@
 # Births, Deaths, and Marriages Registration Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-01-24_
 
 > An Act to amend the Births, Deaths, and Marriages Registration Act 1995
 
@@ -15,13 +15,8 @@ This section substituted s 40(2)(b)(iii) of the principal Act.
 ### 4 Registrar-General's indexes
 (1) This subsection inserted s 74(1A) and (1B) of the principal Act.
 (2) This section amended s 2 of the principal Act by substituting the definition of the term index.
-(3) Subsections (1A) and (1B) of section 74 of the principal Act do not—
-  (a) Limit or effect—
-    (i) The validity or effect of any index compiled before the commencement of the principal Act; or
-    (ii) The Registrar-General's duty to maintain indexes; or
-    (iii) The Registrar-General's duties under section 73 or section 74(2) of the principal Act in relation to any index; or
-  (b) Require the Registrar-General to amend or augment, or compile another index in place of or in addition to, an index compiled before the commencement of the principal Act.
-(4) Subsection (3) does not prevent the Registrar-General from augmenting, or compiling another index in addition to, any index compiled at any time.
+(3)
+(4)
 
 ### 5 Restrictions on searches where error relating to person's sex has been corrected or sexual assignment or reassignment has been registered
 Section 77 of the principal Act is amended by omitting from subsection (8)(c) and subsection (9)(a) the expression 28, and substituting in each case the expression 30(1).
