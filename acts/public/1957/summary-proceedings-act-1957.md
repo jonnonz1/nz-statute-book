@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-01-24_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2808,7 +2808,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Aviation Crimes Act 1972 | 11 | Taking firearms, explosives, etc, on to aircraft |
 | The Bankruptcy Act 1908 |  |  |
 | Biosecurity Act 1993 | 154(f), (g), (h), (i), (j), (k), (l), (m) | Offences relating to dealings with goods in contravention of the Biosecurity Act 1993 and failure to comply with specified provisions of that Act |
-| The Births and Deaths Registration Act 1951 | 48 | Making false statement |
+| Births, Deaths, Marriages, and Relationships Registration Act 1995 | 89(1)(a), (b), (c) | Offences relating to making a false statement or tampering with information under the Births, Deaths, Marriages, and Relationships Registration Act 1995 |
 | The Building Societies Act 1965 | 29 | Contravention of provisions as to minimum subscription by founding members |
 |  | 132 | Offences in relation to property of building societies |
 |  | 133 | False statements in documents |
