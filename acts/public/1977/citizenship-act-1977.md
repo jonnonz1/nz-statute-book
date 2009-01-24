@@ -1,5 +1,5 @@
 # Citizenship Act 1977
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-01-24_
 
 > An Act to make better provision with respect to the status of New Zealand citizenship, and to consolidate and amend the British Nationality and New Zealand Citizenship Act 1948
 
@@ -312,7 +312,7 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 (3) For the purposes of subsection (2), an agreement made in relation to citizenship information to be used to verify whether a person is eligible to hold a New Zealand passport, must be entered into by the Secretary in his or her capacity as the holder of citizenship information with himself or herself in the capacity as the holder of information under the Passports Act 1992.
 (4) An agreement entered into under subsection (2) may be varied by the Secretary and the chief executive.
 (5) The Secretary may disclose citizenship information to the chief executive only in accordance with Schedule 4 and an agreement entered into under subsection (2).
-(5A) Despite anything in this section, the Secretary may disclose information about a person's citizenship status or the citizenship status of a person's parent or parents to the Registrar-General appointed under section 79(1) of the Births, Deaths, and Marriages Registration Act 1995 for the purpose of recording that person's citizenship status on his or her birth record.
+(5A) Despite anything in this section, the Secretary may disclose information about a person's citizenship status or the citizenship status of a person's parent or parents to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 for the purpose of recording that person's citizenship status on his or her birth record.
 (6) In this section,—
   - **citizenship information** means information held by the Secretary that relates to the acquisition or loss of citizenship by, or the citizenship status of, any person; and includes information as to any change of identity or gender
   - **specified agency** has the meaning given to it by section 97 of the Privacy Act 1993.
@@ -406,7 +406,7 @@ A person who ceases to be a New Zealand citizen shall not thereby be discharged 
 | Specified agency | Purpose |
 | --- | --- |
 | Department of Internal Affairs | To verify whether a person is eligible to hold a New Zealand passport |
-| Registrar-General appointed under section 79(1) of the Births, Deaths, and Marriages Registration Act 1995 | For the Registrar-General to he satisfied whether or not a person is a New Zealand citizen |
+| Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 | For the Registrar-General to he satisfied whether or not a person is a New Zealand citizen |
 | Department of Inland Revenue | To verify the identity of a person to establish— |
 |  | (a) the tax file number of the person: |
 |  | (b) the details of an applicant for child support |
