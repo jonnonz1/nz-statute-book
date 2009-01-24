@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-01-24_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the adoption of children
 
@@ -268,7 +268,7 @@ No application under this Act shall be heard or determined in open Court, and no
 ### 23 Inspection of adoption records
 (1) An adoption order shall be open to inspection by any person who requires to inspect it for some purpose in connection with the administration of an estate or trust of which that person is executor, administrator, or trustee.
 (2) Adoption records are open to inspection by—
-  (a) any Registrar (as defined in section 2 of the Births, Deaths, and Marriages Registration Act 1995) or marriage celebrant under the Marriage Act 1955 for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
+  (a) any Registrar (as defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) or marriage celebrant under the Marriage Act 1955 for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955; and
   (b) any Registrar (as so defined) or civil union celebrant under the Civil Union Act 2004 for the purpose of investigating prohibited degrees of civil union under the Civil Union Act 2004.
 (2A) Adoption records are open to inspection by a Social Worker for the purpose of preparing a report required under section 23A(1).
 (3) Adoption records shall not be available for production or open to inspection except—
