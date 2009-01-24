@@ -1,5 +1,5 @@
 # Child Support Act 1991
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-01-24_
 
 > An Act—aTo assess the minimum level of financial support payable by certain parents in respect of their children; andbTo provide for the collection and payment of child support and spousal maintenance payments; andcTo make transitional arrangements relating to maintenance liabilities under the Social Security Act 1964 and the Family Proceedings Act 1980
 
@@ -146,7 +146,7 @@ A child qualifies for child support if he or she—
 
 ### 7 Meaning of parent
 (1) For the purposes of this Act, a person is a parent of a child if—
-  (a) The person's name is entered in the Register of Births pursuant to the Births, Deaths, and Marriages Registration Act 1995, or is entered in a register of births or parentage information kept under the law of any overseas jurisdiction, as a parent of the child; or
+  (a) The person's name is entered in the Register of Births pursuant to the Births, Deaths, Marriages, and Relationships Registration Act 1995, or is entered in a register of births or parentage information kept under the law of any overseas jurisdiction, as a parent of the child; or
   (b) The person is or was a party to a legal marriage and the child was conceived by or born to the person, or the other party to the marriage, during the legal marriage; or
   (c) The person adopted the child under the Adoption Act 1955 or under an adoption to which section 17 of that Act applies and that adoption order has not been discharged; or
   (d) A New Zealand Court, or a Court or public authority of any overseas jurisdiction, has at any time found that the person is a parent of the child, and the finding has not been cancelled or set aside; or
