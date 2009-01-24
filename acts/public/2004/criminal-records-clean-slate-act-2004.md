@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -41,7 +41,7 @@ In this Act, unless the context otherwise requires,—
         (B) convictions entered (including, without limitation, any item on a list of previous convictions); and
         (C) sentences imposed (including, without limitation, any item on a list of previous sentences); and
         (D) orders imposed on an offender as a result of a conviction; but
-      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy recorded under section 60 of the Births, Deaths, and Marriages Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)(b) of that Act
+      (ii) does not include details in a marriage certificate or civil union certificate of a conviction for bigamy recorded under section 60 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or any corresponding provision of an earlier enactment) or section 62F of that Act and included in the certificate under regulations made under section 88(1)(b) of that Act
   - **custodial sentence** means a sentence of imprisonment imposed under the Sentencing Act 2002 or under any earlier corresponding enactment; and includes—
     (a) a sentence of corrective training; and
     (b) a sentence of preventive detention; and
@@ -58,11 +58,11 @@ In this Act, unless the context otherwise requires,—
   - **offence** means any act or omission for which a person may be punished under the Crimes Act 1961 or any other enactment, whether on conviction on indictment or on summary conviction
   - **prison officer** means a person who is an officer as defined in section 3(1) of the Corrections Act 2004
   - **probation officer** has the same meaning as in section 4(1) of the Sentencing Act 2002
-  - **rehabilitation period** , in relation to an individual, means any period of not less than 7 consecutive years after the date on which the individual was last sentenced, or a specified order was last made, in which the individual has not been convicted of an offence
   - **registrar** means a registrar of a District Court; and includes a deputy registrar of a District Court
+  - **rehabilitation period** , in relation to an individual, means any period of not less than 7 consecutive years after the date on which the individual was last sentenced, or a specified order was last made, in which the individual has not been convicted of an offence
   - **security officer** has the same meaning as in section 3(1) of the Corrections Act 2004
   - **sentence** means a sentence imposed by a court in New Zealand for a conviction for an offence
-  - **specified offence** means any of the following offences
+  - **specified offence** means any of the following offences:
     (a) an offence committed (whether before or after the commencement of the Crimes Amendment Act 2005) against any of the following provisions of the Crimes Act 1961:
       (i) section 130 (incest):
       (ii) section 131B(1) (meeting a young person under 16 following sexual grooming, etc):
@@ -102,14 +102,14 @@ In this Act, unless the context otherwise requires,—
       (i) the offence is not itself specified as an attempt; and
       (ii) the provision does not provide that the offence may be completed on an attempt:
     (f) a conspiracy to commit an offence against a provision listed in any of paragraphs (a) to (d):
-    (g) being an accessory after the fact in relation to an offence against a provision listed in any of paragraphs (a) to (d).
+    (g) being an accessory after the fact in relation to an offence against a provision listed in any of paragraphs (a) to (d)
   - **specified order** means—
     (a) a direction made by a court in New Zealand, as a result of a conviction for an offence, that an offender be convicted and discharged under—
       (i) section 108 of the Sentencing Act 2002; or
       (ii) section 20 of the Criminal Justice Act 1985; or
       (iii) section 347 of the Crimes Act 1961; or
       (iv) section 42(3) of the Criminal Justice Act 1954; or
-      (v) section 18(l)(b) of the Offenders Probation Act 1920; or
+      (v) section 18(1)(b) of the Offenders Probation Act 1920; or
       (vi) a corresponding provision in any other enactment; or
     (b) an order made by a court in New Zealand, as a result of a conviction for an offence, that an offender appear for sentence if called on to do so under—
       (i) section 110 of the Sentencing Act 2002; or
@@ -146,7 +146,7 @@ This Act binds the Crown.
   (e) in the case of a court having imposed a sentence of a fine or reparation on the individual, the amount owing has been paid in full or has been deemed to have been remitted; and
   (f) in the case of a court having ordered the individual to pay costs or compensation under section 106, section 108, or section 110 of the Sentencing Act 2002 (or a corresponding provision of an earlier enactment), the amount owing has been paid in full or has been deemed to have been remitted; and
   (g) no order has ever been made disqualifying him or her from holding or obtaining a driver licence under section 65 of the Land Transport Act 1998 or a driver's licence under section 30A of the Transport Act 1962.
-(2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (l)(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under section 100 of the Land Transport Act 1998 or section 30C of the Transport Act 1962.
+(2) An individual in relation to whom a disqualification order has been made under either of the sections referred to in subsection (1)(g) does not become eligible to have the clean slate scheme apply to him or her as a consequence of the Director removing, or having removed, the disqualification under section 100 of the Land Transport Act 1998 or section 30C of the Transport Act 1962.
 
 ### 8 Effect of further conviction on eligibility
 (1) If, at any time after becoming an eligible individual (either under section 7(1) or as a consequence of an order made by the court under section 9, section 10, or section 12), an eligible individual is convicted of an offence, he or she is no longer an eligible individual.
@@ -263,7 +263,7 @@ This Act binds the Crown.
 
 ### 20 Limits on use of eligible individuals' criminal records
 (1) A person, body, or agency (including, without limitation, a government department or law enforcement agency) to whom the criminal record of an eligible individual, or information about the criminal record of an eligible individual, has been disclosed under section 19 must not use that criminal record or information about the criminal record for any purpose other than the purpose in relation to which it was disclosed to the person, body, or agency.
-(2) Any government department or law enforcement agency, or an employee or contractor of a government department or law. enforcement agency, that holds or has access to the criminal records of eligible individuals (other than those that have been disclosed to it under section 19) must not use those records or any information about those records for any purpose other than for a purpose for which those records or that information may also be disclosed under section 19.
+(2) Any government department or law enforcement agency, or an employee or contractor of a government department or law enforcement agency, that holds or has access to the criminal records of eligible individuals (other than those that have been disclosed to it under section 19) must not use those records or any information about those records for any purpose other than for a purpose for which those records or that information may also be disclosed under section 19.
 
 **Relationship to other provisions**
 
@@ -286,7 +286,7 @@ This Act binds the Crown.
 (2) In addition to powers conferred by the Judicature Act 1908, the Governor-General may, by Order in Council, with the concurrence of the Chief Justice and any 2 or more members of the Rules Committee (established under section 51B of the Judicature Act 1908) of whom at least 1 is a High Court Judge,—
   (a) make rules regulating the practice and procedure of the High Court and the Court of Appeal under this Act; and
   (b) without limiting paragraph (a), make rules regulating the manner in which appeals may be brought to the High Court and Court of Appeal under section 12(1) or (2).
-(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Courts Act 1947 or the Judicature Act 1908 (which-ever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
+(3) In the absence of any rules under this section, or in any situation not covered by any of those rules, the rules in relation to civil proceedings for the time being in force under the District Courts Act 1947 or the Judicature Act 1908 (whichever is applicable) apply, with all necessary modifications, to the practice and procedure of courts under this Act.
 
 ### 23 Application of Legal Services Act 2000
 All proceedings under this Act are civil proceedings for the purposes of the Legal Services Act 2000.
