@@ -1,9 +1,11 @@
 # Status of Children Act 1969
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2009-01-24_
+
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Status of Children Act 1969.
-(2) This Act shall come into force on the 1st day of January 1970.
+(2) This Act shall come into force on 1 January 1970.
 
 ### 2 Interpretation
 For the purposes of this Act (except the Schedule) marriage includes a void marriage; and married has a corresponding meaning.
@@ -18,120 +20,120 @@ The purpose of sections 3 and 4 is to remove the legal disabilities of children 
 ### 3 All children of equal status
 (1) For all the purposes of the law of New Zealand the relationship between every person and his father and mother shall be determined irrespective of whether the father and mother are or have been married to each other, and all other relationships shall be determined accordingly.
 (2) The rule of construction whereby in any instrument words of relationship signify only legitimate relationship in the absence of a contrary expression of intention is abolished.
-(3) For the purpose of construing any instrument, the use, with reference to a relationship, of the words legitimate or lawful shall not of itself prevent the relationship from being determined in accordance with subsection (1) of this section.
+(3) For the purpose of construing any instrument, the use, with reference to a relationship, of the words legitimate or lawful shall not of itself prevent the relationship from being determined in accordance with subsection (1).
 (4) This section shall apply in respect of every person, whether born before or after the commencement of this Act, and whether born in New Zealand or not, and whether or not his father or mother has ever been domiciled in New Zealand.
 
 **Prior instruments and intestacies**
 
 ### 4 Instruments executed and intestacies which take place before the commencement of this Act
 (1) All instruments executed before the commencement of this Act shall be governed by the enactments and the rules of construction and law which would have applied to them if this Act had not been passed.
-(2) Where any instrument to which subsection (1) of this section applies creates a special power of appointment, nothing in this Act shall extend the class of persons in whose favour the appointment may be made, or cause the exercise of the power to be construed so as to include any person who is not a member of that class.
+(2) Where any instrument to which subsection (1) applies creates a special power of appointment, nothing in this Act shall extend the class of persons in whose favour the appointment may be made, or cause the exercise of the power to be construed so as to include any person who is not a member of that class.
 (3) The estates of all persons who have died intestate as to the whole or any part thereof before the commencement of this Act shall be distributed in accordance with the enactments and rules of law which would have applied to them if this Act had not been passed.
 
 **Presumptions as to parenthood**
 
 ### 5 Presumptions as to parenthood
 (1) A child born to a woman during her marriage, or within 10 months after the marriage has been dissolved by death or otherwise, shall, in the absence of evidence to the contrary, be presumed to be the child of its mother and her husband, or former husband, as the case may be.
-(2) Every question of fact that arises in applying subsection (1) of this section shall be decided on a balance of probabilities.
+(2) Every question of fact that arises in applying subsection (1) shall be decided on a balance of probabilities.
 (3) This section shall apply in respect of every child, whether born before or after the commencement of this Act, and whether born in New Zealand or not, and whether or not his father or mother has ever been domiciled in New Zealand.
 
 **Grant of letters of administration and distribution of estates and property held upon trust**
 
 ### 5A Grant of letters of administration
-(1) Letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof shall not be granted to any applicant thereof unless the applicant shows—
-  (a) That he has made reasonable inquiries to determine whether there exists (in addition to any parent or child of the deceased person already known to him) any parent or child of the deceased person who could claim an interest in the estate or part by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will (such parent or child being hereafter in this section referred to as any such claimant); or
-  (b) That no useful purpose would be served in the particular case by making the inquiries specified in paragraph (a) of this subsection; or
-  (c) That the making of the inquiries specified in paragraph (a) of this subsection would unduly delay the making of a grant of administration; or
-  (d) That the getting in or preservation of the assets of the estate requires the making of an immediate grant of administration.
+(1) Letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof shall not be granted to any applicant therefor unless the applicant shows—
+  (a) that he has made reasonable inquiries to determine whether there exists (in addition to any parent or child of the deceased person already known to him) any parent or child of the deceased person who could claim an interest in the estate or part by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will (such parent or child being hereafter in this section referred to as any such claimant); or
+  (b) that no useful purpose would be served in the particular case by making the inquiries specified in paragraph (a); or
+  (c) that the making of the inquiries specified in paragraph (a) would unduly delay the making of a grant of administration; or
+  (d) that the getting in or preservation of the assets of the estate requires the making of an immediate grant of administration.
 (2) An applicant for a grant of letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof shall be deemed to have made reasonable inquiries as to the existence of any such claimant to an interest in the estate or part if, acting in good faith, he has—
-  (a) Caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 of this Act and ascertained whether or not the existence of any such claimant to such an interest is revealed in the register; and
-  (b) Looked through any papers of the deceased person that have come to his notice in the course of searching for a testamentary disposition made by the deceased person, or otherwise howsoever, and ascertained whether or not the existence of any such claimant to such an interest is revealed in those papers.
-(3) Where subsection (1)(a) of this section applies, an applicant for a grant of letters of administration in respect of the estate of any deceased person or any part thereof shall file an affidavit saying that he has made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of any such claimant to an interest in the estate or part (with a brief indication of the nature of those inquiries) and (if such is the case) that he does not know of the existence of any such claimant to an interest in the estate or part.
-(4) Where, pursuant to this section, an applicant for letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof complies with subsection (1) of this section, nothing in the Administration Act 1969 or the Code of Civil Procedure or the practice of the High Court relating to a grant of letters of administration shall be construed as requiring him to do anything further in connection with the application for the purposes of this Act.
+  (a) caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 and ascertained whether or not the existence of any such claimant to such an interest is revealed in the register; and
+  (b) looked through any papers of the deceased person that have come to his notice in the course of searching for a testamentary disposition made by the deceased person, or otherwise howsoever, and ascertained whether or not the existence of any such claimant to such an interest is revealed in those papers.
+(3) Where subsection (1)(a) applies, an applicant for a grant of letters of administration in respect of the estate of any deceased person or any part thereof shall file an affidavit saying that he has made reasonable inquiries for the purposes of the Status of Children Act 1969 as to the existence of any such claimant to an interest in the estate or part (with a brief indication of the nature of those inquiries) and (if such is the case) that he does not know of the existence of any such claimant to an interest in the estate or part.
+(4) Where, pursuant to this section, an applicant for letters of administration with or without the will annexed in respect of the estate of any deceased person or any part thereof complies with subsection (1), nothing in the Administration Act 1969 or the Code of Civil Procedure or the practice of the High Court relating to a grant of letters of administration shall be construed as requiring him to do anything further in connection with the application for the purposes of this Act.
 (5) This section shall have no application in relation to any grant of administration to a trustee corporation within the meaning of section 2 of the Administration Act 1969, either alone or jointly with another person; and nothing in the Administration Act 1969, the Code of Civil Procedure, or the practice of the High Court shall require the trustee corporation or any other joint applicant for the grant to make inquiries, before the grant is made, as to the existence of any such claimant.
 (6) In this section applicant includes a person acting on behalf of the applicant, with the applicant's express or implied authority, for the purposes of obtaining the grant.
 
 ### 6 Reasonable inquiries to precede distribution
-(1) For the purposes of the distribution of any estate or of any property held upon trust, an executor, administrator, or trustee shall make reasonable inquiries to determine whether there exists any person (in addition to any person or persons already known to him) who could claim an interest in the estate or property by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property (such person being hereafter in this section and in section 6A and in section 6B of this Act referred to as any claimant).
+(1) For the purposes of the distribution of any estate or of any property held upon trust, an executor, administrator, or trustee shall make reasonable inquiries to determine whether there exists any person (in addition to any person or persons already known to him) who could claim an interest in the estate or property by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property (such person being hereafter in this section and in section 6A and in section 6B referred to as any claimant).
 (2) In the case of a continuing trust of income it shall be sufficient for the purposes of continuing distributions of income if reasonable inquiries as to the existence of any claimant are made before the first distribution after the commencement of this section of income under the trust.
-(3) Subject to subsection (2) of this section and to subsections (3) and (4) of section 6A of this Act, it shall be sufficient if reasonable inquiries as to the existence of any claimant are made before the first distribution after the commencement of this section of the estate or property and before any subsequent distribution where a period of 3 years or more has elapsed since reasonable inquiries were last made.
+(3) Subject to subsection (2) and to subsections (3) and (4) of section 6A, it shall be sufficient if reasonable inquiries as to the existence of any claimant are made before the first distribution after the commencement of this section of the estate or property and before any subsequent distribution where a period of 3 years or more has elapsed since reasonable inquiries were last made.
 
 ### 6A Reasonable inquiries that comply
-(1) An executor, administrator, or trustee shall be deemed to have made reasonable inquiries for the purposes of section 6 of this Act if, acting in good faith and subject to subsections (2) to (4) of this section, he has—
-  (a) Inquired about the existence of any claimant from at least one person whom he believes may have knowledge of the matter (except where no such person can readily be located) and obtained from that person (if he is willing to make it) a statutory declaration concerning the matter; and
-  (b) Caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 of this Act and ascertained whether or not the existence of any claimant is revealed in the register; and
-  (c) Looked through any papers that have come to his notice in the ordinary course of administration of the estate or property and ascertained whether or not the existence of any claimant is revealed in those papers; and
-  (d) In the case of the administration of the estate of any deceased person, inquired from the solicitor (if any) last known to him to have acted for the deceased person in his lifetime whether the solicitor knows of the existence of any claimant.
-(2) Compliance with the requirements of section 5A(2)(a) of this Act in respect of the estate of any deceased person or any part of such an estate constitutes compliance with the requirements of subsection (1)(b) of this section in respect of the same estate or part thereof unless—
-  (a) Compliance with the requirements of subsection (1)(b) of this section is material—
-    (i) Because a person other than a parent or child could claim; or
-    (ii) For any other reason; or
-  (b) A period of 3 years or more has elapsed since the requirements of section 5A(2)(a) of this Act were complied with.
-(3) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)(c) of this section on more than one occasion in respect of the same estate or property:
-  Provided that where subsection (3) of section 6 of this Act applies, the executor, administrator, or trustee shall, before each distribution subsequent to the first distribution mentioned in that subsection, look through the papers (if any) that have come to his notice in the ordinary course of the administration of the estate or property since the immediately preceding distribution of the estate or property.
-(4) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)(d) of this section on more than one occasion in respect of the same estate.
+(1) An executor, administrator, or trustee shall be deemed to have made reasonable inquiries for the purposes of section 6 if, acting in good faith and subject to subsections (2) to (4), he has—
+  (a) inquired about the existence of any claimant from at least 1 person whom he believes may have knowledge of the matter (except where no such person can readily be located) and obtained from that person (if he is willing to make it) a statutory declaration concerning the matter; and
+  (b) caused a search to be made of the register of instruments, declarations, and orders maintained by the Registrar-General pursuant to section 9 and ascertained whether or not the existence of any claimant is revealed in the register; and
+  (c) looked through any papers that have come to his notice in the ordinary course of administration of the estate or property and ascertained whether or not the existence of any claimant is revealed in those papers; and
+  (d) in the case of the administration of the estate of any deceased person, inquired from the solicitor (if any) last known to him to have acted for the deceased person in his lifetime whether the solicitor knows of the existence of any claimant.
+(2) Compliance with the requirements of section 5A(2)(a) in respect of the estate of any deceased person or any part of such an estate constitutes compliance with the requirements of subsection (1)(b) in respect of the same estate or part thereof unless—
+  (a) compliance with the requirements of subsection (1)(b) is material—
+    (i) because a person other than a parent or child could claim; or
+    (ii) for any other reason; or
+  (b) a period of 3 years or more has elapsed since the requirements of section 5A(2)(a) were complied with.
+(3) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)(c) on more than 1 occasion in respect of the same estate or property:
+  provided that where subsection (3) of section 6 applies, the executor, administrator, or trustee shall, before each distribution subsequent to the first distribution mentioned in that subsection, look through the papers (if any) that have come to his notice in the ordinary course of the administration of the estate or property since the immediately preceding distribution of the estate or property.
+(4) It shall not be necessary for an executor, administrator, or trustee to fulfil the requirements of subsection (1)(d) on more than 1 occasion in respect of the same estate.
 
 ### 6B Protection of executors, administrators, and trustees
-No action shall lie against any executor of the will or administrator or trustee of the estate of any person, or the trustee under any instrument, by any person to enforce any claim arising by reason of the executor or administrator or trustee having made any distribution of the estate or the property held upon trust disregarding the claims of any claimant where at the time of making the distribution the executor, administrator, or trustee had no notice of the relationship on which the claim is based, if he has made reasonable inquiries in accordance with such of the provisions of section 6 and section 6A of this Act as are applicable:
-  Provided that if it appears to the Court that an executor, administrator, or trustee is or may be personally liable for having failed to comply with those provisions, in whole or in part, but has acted honestly, and ought fairly to be excused for his failure, the Court may relieve him either wholly or partly from personal liability for the same.
+No action shall lie against any executor of the will or administrator or trustee of the estate of any person, or the trustee under any instrument, by any person to enforce any claim arising by reason of the executor or administrator or trustee having made any distribution of the estate or the property held upon trust disregarding the claims of any claimant where at the time of making the distribution the executor, administrator, or trustee had no notice of the relationship on which the claim is based, if he has made reasonable inquiries in accordance with such of the provisions of section 6 and section 6A as are applicable:
+  provided that if it appears to the court that an executor, administrator, or trustee is or may be personally liable for having failed to comply with those provisions, in whole or in part, but has acted honestly, and ought fairly to be excused for his failure, the court may relieve him either wholly or partly from personal liability for the same.
 
 ### 6C Warning notices
-(1) Where an executor, administrator, or trustee is aware of the existence of any claimant or potential claimant who has not, in the opinion of the executor, administrator, or trustee, been able to establish the relationship of father and child, or any other relationship traced in any degree through that relationship, pursuant to paragraph (a) or paragraph (b) of subsection (1) of section 7 of this Act but who may be able to do so pursuant to the provisions of paragraph (c) of subsection (1) of that section, he shall serve on that claimant or potential claimant or on any other person on whom notice is required to be served in accordance with section 6D(1) of this Act, a notice—
+(1) Where an executor, administrator, or trustee is aware of the existence of any claimant or potential claimant who has not, in the opinion of the executor, administrator, or trustee, been able to establish the relationship of father and child, or any other relationship traced in any degree through that relationship, pursuant to paragraph (a) or paragraph (b) of subsection (1) of section 7 but who may be able to do so pursuant to the provisions of paragraph (c) of subsection (1), he shall serve on that claimant or potential claimant or on any other person on whom notice is required to be served in accordance with section 6D(1), a notice—
   (a) advising the person served of his or her right to seek to establish the relationship in question by applying to a Family Court or to the High Court under section 10 for a declaration of paternity; and
-  (b) Warning the person served that, unless such an application to a Family Court or to the High Court is made within 3 months from the date of the service of the notice and thereafter prosecuted with all due diligence, the estate or the property held in trust may be distributed disregarding the claims of the claimant or potential claimant.
-(2) Where a person on whom such a notice has been served in accordance with subsection (1) of this section fails to apply as aforesaid for the relevant declaration of paternity, or fails to prosecute with all due diligence an application for such a declaration that is made within the said 3 months, no action shall lie against the executor, administrator, or trustee by reason of his having thereafter made any distribution of the estate or property or any part thereof before it is shown to him that the relevant declaration of paternity has been made.
+  (b) warning the person served that, unless such an application to a Family Court or to the High Court is made within 3 months from the date of the service of the notice and thereafter prosecuted with all due diligence, the estate or the property held in trust may be distributed disregarding the claims of the claimant or potential claimant.
+(2) Where a person on whom such a notice has been served in accordance with subsection (1) fails to apply as aforesaid for the relevant declaration of paternity, or fails to prosecute with all due diligence an application for such a declaration that is made within the said 3 months, no action shall lie against the executor, administrator, or trustee by reason of his having thereafter made any distribution of the estate or property or any part thereof before it is shown to him that the relevant declaration of paternity has been made.
 
 ### 6D Service of warning notices
-(1) Where an executor, administrator, or trustee desires to serve a notice under section 6C(1) of this Act on any person who is not of full age and capacity, the notice shall not be served on that person but shall be served on the parent or guardian of that person or on the manager of his estate or on such other person as the High Court may direct.
-(2) Any notice under section 6C(1) of this Act may be served,—
-  (a) Either by delivering it to the person for whom it is intended or by sending it by post in a registered letter addressed to that person at his usual or last known place of abode or business; or
-  (b) In such other manner as may be directed by an order of the High Court.
+(1) Where an executor, administrator, or trustee desires to serve a notice under section 6C(1) on any person who is not of full age and capacity, the notice shall not be served on that person but shall be served on the parent or guardian of that person or on the manager of his estate or on such other person as the High Court may direct.
+(2) Any notice under section 6C(1) may be served—
+  (a) either by delivering it to the person for whom it is intended or by sending it by post in a registered letter addressed to that person at his usual or last known place of abode or business; or
+  (b) in such other manner as may be directed by an order of the High Court.
 (3) Where a notice is sent by post as aforesaid it shall be deemed to be served at the time at which the letter would have been delivered in the ordinary course of post.
 
 **Paternity**
 
 ### 7 Recognition of paternity
 (1) The relationship of father and child, and any other relationship traced in any degree through that relationship shall, for any purpose related to succession to property or to the construction of any will or other testamentary disposition or of any instrument creating a trust, or for the purpose of any claim under the Family Protection Act 1955 be recognised only if—
-  (a) The father and the mother of the child were married to each other at the time of its conception or at some subsequent time; or
-  (b) Subject to paragraph (c) of this subsection, paternity has been admitted (expressly or by implication) by or established against the father in his lifetime (whether before or after the birth of the child and whether by one or more of the types of evidence specified by section 8 of this Act or otherwise) and, if that purpose is for the benefit of the father, paternity has been so admitted or established either before the birth of the child or in its lifetime; or
-  (c) Paternity has been established by means of a declaration of paternity made under section 10 of this Act—
-    (i) After the death of the father; or
-    (ii) If that purpose is for the benefit of the father, after the death of the child.
-(2) In any case where by reason of subsection (1) of this section, the relationship of father and child is not recognised for certain purposes at the time the child is born, the occurrence of any act, event, or conduct that enables that relationship, and any other relationship traced in any degree through it, to be recognised shall not—
-  (a) Affect any estate, right, or interest in any real or personal property, or any part thereof, if the executor, administrator, or trustee has, by a distribution that is properly paid or applied in terms of subsection (3) of this section, placed the property or part beyond the possession and control of the executor, administrator, or trustee (in his capacity as such) to or for the benefit of other beneficiaries otherwise entitled thereto before the act, event, or conduct occurred; or
-  (b) Disturb a distribution that is properly paid or applied in terms of subsection (3) of this section:
-    Provided that, on any further distribution of the real or personal property or any part thereof after the occurrence, event, or conduct enabling the recognition of the relationship, the earlier distributions shall, so far as possible, be brought into account in determining the respective estates, rights, and interests of the persons then entitled to the property that has not been distributed.
-(3) For the purposes of subsection (2) of this section, a distribution shall be properly paid or applied if—
-  (a) It is made in accordance with any trust, power, or authority which is subsisting when the distribution is made and which, irrespective of subsequent events, justifies the distribution at the time when it is made; and
-  (b) It is made either—
-    (i) Without notice of the existence of a person who is entitled by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property; or
+  (a) the father and the mother of the child were married to each other at the time of its conception or at some subsequent time; or
+  (b) subject to paragraph (c), paternity has been admitted (expressly or by implication) by or established against the father in his lifetime (whether before or after the birth of the child and whether by 1 or more of the types of evidence specified by section 8 or otherwise) and, if that purpose is for the benefit of the father, paternity has been so admitted or established either before the birth of the child or in its lifetime; or
+  (c) paternity has been established by means of a declaration of paternity made under section 10—
+    (i) after the death of the father; or
+    (ii) if that purpose is for the benefit of the father, after the death of the child.
+(2) In any case where by reason of subsection (1), the relationship of father and child is not recognised for certain purposes at the time the child is born, the occurrence of any act, event, or conduct that enables that relationship, and any other relationship traced in any degree through it, to be recognised shall not—
+  (a) affect any estate, right, or interest in any real or personal property, or any part thereof, if the executor, administrator, or trustee has, by a distribution that is properly paid or applied in terms of subsection (3), placed the property or part beyond the possession and control of the executor, administrator, or trustee (in his capacity as such) to or for the benefit of other beneficiaries otherwise entitled thereto before the act, event, or conduct occurred; or
+  (b) disturb a distribution that is properly paid or applied in terms of subsection (3):
+    provided that, on any further distribution of the real or personal property or any part thereof after the occurrence, event, or conduct enabling the recognition of the relationship, the earlier distributions shall, so far as possible, be brought into account in determining the respective estates, rights, and interests of the persons then entitled to the property that has not been distributed.
+(3) For the purposes of subsection (2), a distribution shall be properly paid or applied if—
+  (a) it is made in accordance with any trust, power, or authority which is subsisting when the distribution is made and which, irrespective of subsequent events, justifies the distribution at the time when it is made; and
+  (b) it is made either—
+    (i) without notice of the existence of a person who is entitled by reason only of this Act and the provisions of the enactments governing the distribution of intestate estates or the provisions of the will, deed, or other document governing the distribution of the estate or property; or
     (ii) after the expiration of any notice under section 6C(1) and without notice of any declaration of paternity made by a Family Court or by the High Court under section 10.
-(4) No action shall lie against an executor, administrator, or trustee for any decision that he makes in applying the proviso to paragraph (b) of subsection (2) of this section if he establishes that in making that decision he acted honestly.
+(4) No action shall lie against an executor, administrator, or trustee for any decision that he makes in applying the proviso to paragraph (b) of subsection (2) if he establishes that in making that decision he acted honestly.
 
 ### 8 Evidence and proof of paternity
-(1) If, pursuant to—the name of the father of the child to whom an entry relates has been entered (whether before or after the commencement of this Act) in the Register of Births, or, in the case of any country to which section 44A of the Evidence Act 1908 applies, in a register of that country relating to births, a certified copy of the entry made or given and purporting to be signed or sealed in accordance with that Act or that law shall be prima facie evidence that the person named as the father is the father of the child.
-  (a) Any provision of the Births, Deaths, and Marriages Registration Act 1995 or the corresponding provision of any former Act (within the meaning of that Act); or
-  (b) Any provision of any law of any country to which section 44A of the Evidence Act 1908 applies,—
+(1) If, pursuant to—the name of the father of the child to whom an entry relates has been entered (whether before or after the commencement of this Act) in the Register of Births, or, in the case of any country to which section 141, or any of sections 145 to 149 of the Evidence Act 2006 applies, in a register of that country relating to births, a certified copy of the entry made or given and purporting to be signed or sealed in accordance with that Act or that law shall be prima facie evidence that the person named as the father is the father of the child.
+  (a) any provision of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or the corresponding provision of any former Act (within the meaning of that Act); or
+  (b) any provision of any law of any country to which section 141, or any of sections 145 to 149 of the Evidence Act 2006 applies,—
 (2) Any instrument signed by the mother of a child and by any person acknowledging that he is the father of the child shall, if executed as a deed or by each of those persons in the presence of a solicitor, be prima facie evidence that the person named as the father is the father of the child.
 (3) A paternity order within the meaning of the Domestic Proceedings Act 1968 (or an affiliation order under any corresponding former Act) shall, subject to section 52 of that Act, be prima facie evidence of paternity in any subsequent proceedings, whether or not between the same parties.
-(4) Subject to subsection (1) of section 7 of this Act, a declaration made under section 10 of this Act shall, for all purposes, be conclusive proof of the matters contained in it.
-(5) An order made in any country outside New Zealand declaring a person to be the father of a child, being an order to which this subsection applies pursuant to subsection (6) of this section, shall be prima facie evidence that the person declared the father is the father of the child.
-(6) The Governor-General may from time to time, by Order in Council, declare that subsection (5) of this section applies with respect to orders made by any Court or public authority in any specified country outside New Zealand or by any specified Court or public authority in any such country. For the purposes of this subsection, the Cook Islands, Niue, and Tokelau shall be deemed to be countries outside New Zealand.
+(4) Subject to subsection (1) of section 7, a declaration made under section 10 shall, for all purposes, be conclusive proof of the matters contained in it.
+(5) An order made in any country outside New Zealand declaring a person to be the father of a child, being an order to which this subsection applies pursuant to subsection (6), shall be prima facie evidence that the person declared the father is the father of the child.
+(6) The Governor-General may from time to time, by Order in Council, declare that subsection (5) applies with respect to orders made by any court or public authority in any specified country outside New Zealand or by any specified court or public authority in any such country. For the purposes of this subsection, the Cook Islands, Niue, and Tokelau shall be deemed to be countries outside New Zealand.
 
 ### 9 Instruments of acknowledgment may be filed with Registrar-General
-(1) Any instrument of the kind described in subsection (2) of section 8 of this Act, or a duplicate or attested copy of any such instrument, may in the prescribed manner and on payment of the prescribed fee (if any) be filed in the office of the Registrar-General, but it shall not be necessary to file any such instrument.
-(2) The Registrar-General shall cause indexes of all instruments and duplicates and copies of instruments filed with him under subsection (1) of this section to be made and kept in his office, and shall, upon the request of any person and on payment of any prescribed fee or fees—
-  (a) Cause a search of any index to be made:
-  (b) Permit any such person to inspect any such instrument or any such duplicate or copy:
-  (c) Issue any such person with a certified copy of—
-    (i) Any such instrument; or
-    (ii) Any such duplicate or copy:
-  (d) Issue any such person with a certificate setting out the result of a search pursuant to paragraph (a) of this subsection.
+(1) Any instrument of the kind described in subsection (2) of section 8, or a duplicate or attested copy of any such instrument, may in the prescribed manner and on payment of the prescribed fee (if any) be filed in the office of the Registrar-General, but it shall not be necessary to file any such instrument.
+(2) The Registrar-General shall cause indexes of all instruments and duplicates and copies of instruments filed with him under subsection (1) to be made and kept in his office, and shall, upon the request of any person and on payment of any prescribed fee or fees—
+  (a) cause a search of any index to be made:
+  (b) permit any such person to inspect any such instrument or any such duplicate or copy:
+  (c) issue any such person with a certified copy of—
+    (i) any such instrument; or
+    (ii) any such duplicate or copy:
+  (d) issue any such person with a certificate setting out the result of a search pursuant to paragraph (a).
 (2A)
 (3) If a Family Court or the High Court makes a declaration under section 10(2) or (3), or a Family Court makes a paternity order under the Family Proceedings Act 1980,—
-  (a) the Registrar of the Court must forward a copy of the declaration or order, as the case may require, to the Registrar-General for filing in his or her office under this section; and
+  (a) the Registrar of the court must forward a copy of the declaration or order, as the case may require, to the Registrar-General for filing in his or her office under this section; and
   (b) on receipt of any such copy, the Registrar-General must file it accordingly as if it were an instrument of the kind described in section 8(2).
-(4) For the purposes of this section, Registrar-General has the same meaning as in section 2 of the Births, Deaths, and Marriages Registration Act 1995.
+(4) For the purposes of this section, Registrar-General has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
 
 ### 10 Declaration as to paternity
 (1) In this section, eligible person means a person—
@@ -139,10 +141,10 @@ No action shall lie against any executor of the will or administrator or trustee
   (b) who alleges that the relationship of father and child exists between the person and another named person; or
   (c) who wishes to have it determined whether the relationship of father and child exists between 2 named persons, and has a proper interest in the result.
 (2) A Family Court or the High Court may make a declaration of paternity (whether the alleged father or the alleged child or both of them are living or dead) if—
-  (a) an eligible person applies to the Court for the declaration; and
-  (b) it is proved to the Court's satisfaction that the relationship exists.
-(3) A Court considering an application under subsection (2) may, either on its own initiative or on an application for the purpose by a party to the proceedings, make a declaration of non-paternity (whether the alleged father or the alleged child or both of them are living or dead) if it is proved to the Court's satisfaction that the relationship does not exist.
-(4) If a declaration of paternity under subsection (2) is made after the death of the father or of the child, the Court may, at the same or any later time, make a declaration determining, for the purposes of section 7(1)(b), whether any of the requirements of section 7(1)(b) have been satisfied.
+  (a) an eligible person applies to the court for the declaration; and
+  (b) it is proved to the court's satisfaction that the relationship exists.
+(3) A court considering an application under subsection (2) may, either on its own initiative or on an application for the purpose by a party to the proceedings, make a declaration of non-paternity (whether the alleged father or the alleged child or both of them are living or dead) if it is proved to the court's satisfaction that the relationship does not exist.
+(4) If a declaration of paternity under subsection (2) is made after the death of the father or of the child, the court may, at the same or any later time, make a declaration determining, for the purposes of section 7(1)(b), whether any of the requirements of section 7(1)(b) have been satisfied.
 (5) If an application under subsection (2) is made—
   (a) to a Family Court, the provisions of the Family Proceedings Act 1980 (except sections 47 to 50) apply to the application as if it were an application for a paternity order under section 47 of that Act:
   (b) to the High Court, the provisions of the Declaratory Judgments Act 1908 apply to the application.
@@ -152,17 +154,17 @@ No action shall lie against any executor of the will or administrator or trustee
 
 ### 11 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing fees and forms for the purposes of this Act:
-  (b) Providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Where the Registrar-General (as defined in subsection (4) of section 9 of this Act) is empowered to do any act for which a fee is payable, he may refuse to do the act until the fee is paid.
+  (a) prescribing fees and forms for the purposes of this Act:
+  (b) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Where the Registrar-General (as defined in subsection (4) of section 9) is empowered to do any act for which a fee is payable, he may refuse to do the act until the fee is paid.
 (3) Notwithstanding the provisions of any regulations under this Act, the Registrar-General (as so defined) may dispense with the payment of any fee payable under this Act.
 
 ### 12 Repeals and consequential amendments
 (1) The Legitimation Act 1939 and the Deaths by Accidents Compensation Amendment Act 1956 are hereby repealed.
-(2) The enactments specified in the Schedule to this Act are hereby consequentially amended in the manner indicated in that Schedule.
-(3) Except as provided in subsections (1) and (2) of this section, nothing in this Act shall—
-  (a) Limit or affect any enactment or rule of law relating to the domicile of any person and every such enactment or rule of law shall continue to apply as if this Act had not been passed:
-  (b) Limit or affect any of the provisions of the Adoption Act 1955 which determine the relationship to any other person of a person who has been adopted.
+(2) The enactments specified in the Schedule are hereby consequentially amended in the manner indicated in that schedule.
+(3) Except as provided in subsections (1) and (2), nothing in this Act shall—
+  (a) limit or affect any enactment or rule of law relating to the domicile of any person and every such enactment or rule of law shall continue to apply as if this Act had not been passed:
+  (b) limit or affect any of the provisions of the Adoption Act 1955 which determine the relationship to any other person of a person who has been adopted.
 
 ## Part 2 — Status of children conceived as result of AHR procedures
 
@@ -176,7 +178,6 @@ The purpose of this Part is to—
 ### 14 Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **AHR procedure** has the meaning given to it by section 15
-  - **de facto partner**
   - **partner** ,—
     (a) in relation to a woman who is married or in a civil union and to whom paragraph (b) does not apply, means the woman's husband or civil union partner; and
     (b) in relation to a woman (woman A) who is married or in a civil union but is living with a man, or with another woman, as a de facto partner, means the man or other woman who is living with woman A as a de facto partner (and so does not mean woman A's husband or civil union partner); and
@@ -269,7 +270,7 @@ The purpose of this Part is to—
   (b) the semen used for the procedure was produced by a man (man A) who is not her partner.
 (2) In that situation, man A is not, for any purpose, a parent of any child of the pregnancy unless man A becomes, after the time of conception, the woman's partner (in which case the rights and liabilities of man A, and of any child of the pregnancy, are determined in accordance with section 24).
 
-**Rights and liabilities if non partner donor later becomes mother's partner**
+**Rights and liabilities if non-partner donor later becomes mother's partner**
 
 ### 23 Non-partner ovum donor
 If, in the situation to which section 20 applies, woman B becomes, after the time of conception, woman A's partner,—
@@ -297,20 +298,3 @@ Sections 18, 21, and 22 have effect despite—
 (2) Every question of fact that arises in applying subsection (1) must be decided on a balance of probabilities.
 
 ## Schedule Schedule — Enactments amended
-
-| Title of Act | Amendment |
-| --- | --- |
-| 1908, No 56-The Evidence Act 1908. (Reprinted 1965, Vol 3, p 1387) | This amendment has been incorporated in the reprint of the Evidence Act 1908 (1979, RS Vol 2, p 346). |
-| 1952, No 35-The Deaths by Accidents Compensation Act 1952. (1957 Reprint, Vol 3, p 845) | By omitting from the definition of the term child, and also from the definition of the term parent, in subsection (1) of section 2 the words ; and includes a person who bears or is deemed to bear any such relationship to the deceased person illegitimately or under the provisions of the Adoption Act 1955 or in consequence of a legal adoption outside New Zealand either before or after the commencement of this Act. By repealing subsection (2) of section 2. |
-| 1954, No 54-The War Pensions Act 1954. (1957 Reprint, Vol 16, p 477) | This amendment has been incorporated in the reprint of the War Pensions Act 1954 (1970, Vol 3, p 2664). |
-| 1955, No 30-The Births and Deaths Registration Amendment Act 1955. (1957 Reprint, Vol 1, p 621) | This amendment has been incorporated in the reprint of the Births and Deaths Registration Amendment Act 1955 (1979, RS Vol 1, p 369). |
-| 1955, No 92-The Marriage Act 1955. (1957 Reprint, Vol 9, p 365) | By repealing subsection (2) of section 18, and substituting the following subsection:2Subject to the provisions of this section, consents to the marriage of a minor shall be obtained in accordance with the following provisions:aIf both the minor's parents are alive and living together, consents shall be obtained from both parents:bIf the minor's parents are living apart and he is living with one parent, consent shall be obtained from the parent with whom he is living:cIf the parents are living apart and the minor is not living with either, consent shall be obtained:iFrom both parents in any case where they are, or have been, married to each other, unless the consent of one parent is dispensed with by a District Court Judge:iiFrom the mother in any case where the parents have never been married:dIf one of the parents is dead and the parents had at any time been married to each other, consent shall be obtained from the surviving parent and any other person who is the legal guardian of the minor:eIf both parents are dead and they had at any time been married to each other, consent shall be obtained from any person who is the legal guardian of the minor:fIf the minor's parents had never been married to each other and one or both of them is dead, consent shall be obtained from the mother if she is alive and from any person who is the legal guardian of the minor if she is dead. By omitting from clause 3 of Schedule 2, the words and whether the relationship is legitimate or illegitimate. |
-| 1955, No 93-The Adoption Act 1955. (1957 Reprint, Vol 1, p 79) | These amendments have been incorporated in ss 2 and 7 and Schedule 1 of the reprinted Adoption Act 1955 (1979, RS Vol 1, p 35). |
-| 1955, No 94-The Wills Amendment Act 1955. (Reprinted 1968, Vol 4) | These amendments have been incorporated in the reprint of the Wills Amendment Act 1955 (1977, Vol 4, p 3713). |
-| 1956, No 62-The Workers' Compensation Act 1956. (Reprinted 1966, Vol 4, p 3323) | By omitting from the definition of the term child in subsection (1) of section 2 the words and an illegitimate child. By omitting from the definition of the term relative in subsection (1) of section 2 the words ,and, in respect of an illegitimate worker, includes his mother, and his brothers and sisters, whether legitimate or illegitimate, by the same father and mother. |
-| 1959, No 25-The Births and Deaths Registration Amendment Act 1959 | This amendment has been incorporated in the reprint of the Births and Deaths Registration Amendment Act 1959 (1979, RS Vol 1, p 370). |
-| 1961, No 23-The Births and Deaths Registration Amendment Act 1961 | This amendment has been incorporated in the reprint of the Births and Deaths Registration Amendment Act 1961 (1979, RS Vol 1, p 371). |
-| 1963, No 71-The Matrimonial Proceedings Act 1963 | By repealing section 8. |
-| 1964, No 136-The Social Security Act 1964 | These amendments have been incorporated in the reprint of the Social Security Act 1964 (1975, Vol 4, p 2951). |
-| 1967, No 43-The Family Protection Amendment Act 1967. (Reprinted 1968, Vol 2, p 1580) | This amendment has been incorporated in the reprint of the Family Protection Amendment Act 1967 (1979, RS Vol 2, p 460). |
-| 1969, No 1-The Mental Health Act 1969 | By omitting from the definition of the term child in section 82 the words whether the relationship is legitimate or illegitimate. |
