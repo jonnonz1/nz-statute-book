@@ -1,5 +1,5 @@
 # Health Practitioners Competence Assurance Act 2003
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Health Practitioners Competence Assurance Act 2003.
@@ -11,7 +11,7 @@ This Act is the Health Practitioners Competence Assurance Act 2003.
 ### 2 Commencement
 (1) This section and sections 1, 5, 6, and 222 come into force on the day on which this Act receives the Royal assent.
 (2) Sections 52 to 63, and 177 come into force on the 28th day after the date on which this Act receives the Royal assent.
-(3) Sections 11 to 14, section 114(2) to (5), sections 115 to 117, section 118(a) , sections 119 to 122, and clauses 1 to 16 of Schedule 3 come into force on the day that is 3 months after the date on which this Act receives the Royal assent.
+(3) Sections 11 to 14, section 114(2) to (5), sections 115 to 117, section 118(a), sections 119 to 122, and clauses 1 to 16 of Schedule 3 come into force on the day that is 3 months after the date on which this Act receives the Royal assent.
 (4) The amendments in Schedule 4 to the Health and Disability Commissioner Act 1994 and to the Social Workers Registration Act 2003 (other than to section 4 of the latter Act) come into force—
   (a) on the day that is 12 months after the date on which this Act receives the Royal assent if section 59 of the Social Workers Registration Act 2003 is in force on that day; or
   (b) if section 59 of the Social Workers Registration Act 2003 is not in force on that day, then on the day on which that section comes into force.
@@ -46,7 +46,7 @@ This Act is the Health Practitioners Competence Assurance Act 2003.
   (b) enable the responsible authority to order the interim suspension of a health practitioner's practising certificate if there are reasonable grounds for believing that the practitioner poses a risk of serious harm to the public by practising below the required standard of competence:
   (c) enable the responsible authority to order the suspension of a health practitioner if the authority is satisfied that the practitioner is unable to perform the functions required for the practice of his or her profession because of some mental or physical condition or if the practitioner has not complied with a requirement for a medical examination:
   (d) enable the Minister to confer protection on quality assurance activities conducted to improve the practices or competence of health practitioners and so protect the confidentiality of information that becomes known solely as a result of those activities and give those engaged in those activities immunity from civil liability.
-(4) Part 4 provides for the establishment by each authority of professional conduct committees to investigate. complaints referred to the authority by the Health and Disability Commissioner. Professional conduct committees are also required to investigate the circumstances of certain offences committed by health practitioners. The Part also establishes a single tribunal, called the Health Practitioners Disciplinary Tribunal, to hear and determine charges brought against practitioners by the Director of Proceedings or by a professional conduct committee.
+(4) Part 4 provides for the establishment by each authority of professional conduct committees to investigate complaints referred to the authority by the Health and Disability Commissioner. Professional conduct committees are also required to investigate the circumstances of certain offences committed by health practitioners. The Part also establishes a single tribunal, called the Health Practitioners Disciplinary Tribunal, to hear and determine charges brought against practitioners by the Director of Proceedings or by a professional conduct committee.
 (5) Part 5 provides for appeals to a District Court against the decisions of an authority, and for appeals to the High Court against decisions of the Health Practitioners Disciplinary Tribunal.
 (6) Part 6 continues certain registration authorities as authorities under the Act. It also establishes the Midwifery Council, the Osteopathic Council, and the Pharmacy Council. The Part also contains provisions that—
   (a) enable additional health professions to be designated under the Act and authorities to be appointed for such additional professions:
@@ -254,7 +254,7 @@ If, under section 102, the Tribunal has imposed any conditions that must be sati
 (1) In assessing an application under section 17, an authority must consider whether the applicant is qualified and competent to practise within the indicated scope of practice submitted by the applicant under section 17(2)(b)(i).
 (2) If the scope of practice that an authority proposes to authorise for an applicant differs from that indicated by the applicant under section 17(2)(b)(i), whether in respect of conditions to be stated or otherwise, the authority must inform the applicant in writing why it proposes to authorise a different scope of practice.
 (3) If, in assessing an application under section 17, the authority proposes to decline the application, the authority must inform the applicant in writing why the authority proposes to decline the application.
-(4) When the authority informs an applicant under subsection 2(2) or subsection (3), the authority must also give the applicant—
+(4) When the authority informs an applicant under subsection (2) or subsection (3), the authority must also give the applicant—
   (a) a copy of any information on which the authority relies in proposing to authorise a different scope of practice or to decline the application; and
   (b) a reasonable opportunity to make written submissions and be heard, either personally or by his or her representative, in respect of the matter.
 (5) Subsection (4)(a) is subject to section 154.
@@ -601,13 +601,13 @@ The purpose of sections 54 to 63 is to encourage effective quality assurance act
   - **health practitioner** means,—
     (a) in the period commencing with the commencement of this section and ending on the day that is 1 year after the date on which this Act receives the Royal assent, a registered health professional within the meaning of section 4 of the Health and Disability Commissioner Act 1994; and
     (b) after that period, a health practitioner as defined in section 5(1)
-  - **investigation** means any of the following
+  - **investigation** means any of the following:
     (a) the proceedings of a Royal Commission or a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908:
     (b) the proceedings of an inquiry board appointed under the New Zealand Public Health and Disability Act 2000:
     (c) an inquiry required by the Director of Mental Health under section 95 of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
     (d) an inquiry conducted by the Director-General of Health:
     (e) an inquiry or investigation conducted by the Health and Disability Commissioner:
-    (f) an inquiry conducted by the police
+    (f) an inquiry conducted by the Police
   - **judicial proceeding** means any proceeding that is a judicial proceeding within the meaning of section 108 of the Crimes Act 1961
   - **Ministerial authority** means an authority given by the Minister under section 61 and for the time being in force
   - **protected quality assurance activity** means a quality assurance activity in respect of which a notice issued under section 54 is in force when the activity is engaged in
@@ -737,7 +737,7 @@ The Health and Disability Commissioner must, under section 42(1) of the Health a
 A registrar of a court in New Zealand who knows that a person convicted in the court is a health practitioner must send a notice of the conviction to the responsible authority if the conviction is for—
   (a) an offence punishable by imprisonment for a term of 3 months or longer; or
   (b) an offence against—
-    (i) the Births, Deaths, and Marriages Registration Act 1995; or
+    (i) the Births, Deaths, Marriages, and Relationships Registration Act 1995; or
     (ii) the Burial and Cremation Act 1964; or
     (iii) the Contraception, Sterilisation, and Abortion Act 1977; or
     (iv) the Coroners Act 2006; or
@@ -791,7 +791,7 @@ A registrar of a court in New Zealand who knows that a person convicted in the c
   (a) 2 health practitioners who are registered with the authority; and
   (b) 1 layperson.
 (2) The authority may, if in any particular case it considers it appropriate to do so, appoint, under subsection (1), a health practitioner or, as the case requires, a layperson who is a member of the authority.
-(3) The authority must appoint 1 of the members of each professional conduct committee to preside at the meetings of the committee.
+(3) The authority must appoint one of the members of each professional conduct committee to preside at the meetings of the committee.
 
 ### 72 Committees may regulate own procedure
 (1) A professional conduct committee may regulate its procedure as it thinks fit.
@@ -860,13 +860,13 @@ If, at any time in the course of investigating a matter about a health practitio
 ### 80 Recommendations and determinations of professional conduct committee
 (1) Within 14 working days after completing its investigation into a matter concerning a health practitioner, the committee must make—
   (a) 1 or more of the recommendations specified in subsection (2); or
-  (b) 1 of the determinations specified in subsection (3); or
+  (b) one of the determinations specified in subsection (3); or
   (c) both.
 (2) The recommendations referred to in subsection (1)(a) are—
   (a) that the authority review the competence of the health practitioner to practise his or her profession:
   (b) that the authority review the fitness of the health practitioner to practise his or her profession:
   (c) that the authority review the practitioner's scope of practice:
-  (d) that the authority refer the subject matter of the investigation to the police:
+  (d) that the authority refer the subject matter of the investigation to the Police:
   (e) that the authority counsel the practitioner.
 (3) The determinations referred to in subsection (1)(b) are—
   (a) that no further steps be taken under this Act in relation to the subject matter of the investigation:
@@ -1085,7 +1085,7 @@ The provisions set out in Schedule 1 apply to the Tribunal and its proceedings.
   (g) the practitioner has breached an order of the Tribunal under section 101.
 (2) The Tribunal may make a finding under subsection (1)(c) only if the conviction concerned—
   (a) is for an offence against—
-    (i) the Births, Deaths, and Marriages Registration Act 1995; or
+    (i) the Births, Deaths, Marriages, and Relationships Registration Act 1995; or
     (ii) the Burial and Cremation Act 1964; or
     (iii) the Contraception, Sterilisation, and Abortion Act 1977; or
     (iv) the Coroners Act 2006; or
@@ -1357,7 +1357,7 @@ The functions of each authority appointed in respect of a health profession are 
   (b) give a copy to the authority.
 
 ### 125 Minister may require authority to respond to concerns following audit
-(1) If, after consideration of an auditor's report completed under section 124 about an authority, the Minister has concerns about any of the authority's policies or practices, the Minister may, by written notice to the authority,
+(1) If, after consideration of an auditor's report completed under section 124 about an authority, the Minister has concerns about any of the authority's policies or practices, the Minister may, by written notice to the authority,—
   (a) set out the concerns and the reasons for them; and
   (b) require the authority to provide the Minister with a written response within the time specified in the notice or within any extended time the Minister allows.
 (2) The response must state, in respect of each concern set out in the Minister's notice, whether the authority considers that the concern—
@@ -1382,7 +1382,7 @@ The functions of each authority appointed in respect of a health profession are 
     (i) the Minister with up to 2 assistants; or
     (ii) up to 3 representatives of the Minister; and
   (c) by the chairperson of the authority and the members nominated under subsection (3)(c).
-(5) The aim of the conference is to—-
+(5) The aim of the conference is to—
   (a) clarify the nature of the difference in respect of which the conference has been convened; and
   (b) resolve that difference.
 (6) As soon as practicable after the conclusion of the conference, the conciliator must report to the Minister and to all the members of the authority on the matters that the parties to the conference resolved and on the matters that are still in dispute.
@@ -1507,13 +1507,13 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
 (2) The authority must not direct the Registrar to cancel the entry in the register relating to a health practitioner if there are criminal or disciplinary actions pending against the practitioner.
 
 ### 143 Entry to be cancelled on death of health practitioner
-(1) Promptly after receiving a doctor's certificate relating to the death of a person who appears to have been a health practitioner, a registrar under the Births, Deaths, and Marriages Registration Act 1995 must give the Registrar of the responsible authority written notice of the death, with particulars of its date and place.
+(1) Promptly after registering the death of a person who appears to have been a health practitioner, a Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must give the Registrar of the responsible authority written notice of the death, with particulars of its date and place.
 (2) If there is an entry in the register relating to the health practitioner, the Registrar must, as soon as is practicable after receiving the notice, cancel it.
-(3) An authority may direct its Registrar to cancel the entry in the register relating to a health practitioner if it believes on reasonable grounds (other than having received a doctor's certificate) that a registered health practitioner has died.
-(4) In this section, doctor's certificate has the meaning given to that term by section 2 of the Births, Deaths, and Marriages Registration Act 1995.
+(3) An authority may direct its Registrar to cancel the entry in the register relating to a health practitioner if it believes on reasonable grounds (other than having received written notice under subsection (1)) that a registered health practitioner has died.
+(4)
 
 ### 144 Revision of register
-(1) The Registrar of the responsible authority may at any time, and must if the Authority directs, ask whether a health practitioner wishes to have the entry in the register relating to him or her cancelled.
+(1) The Registrar of the responsible authority may at any time, and must if the authority directs, ask whether a health practitioner wishes to have the entry in the register relating to him or her cancelled.
 (2) The Registrar must ask by letter addressed to the health practitioner at his or her last known address.
 (3) If the health practitioner tells the Registrar in writing that he or she wishes to have the entry in the register relating to him or her cancelled, the Registrar may cancel the entry in the register relating to the health practitioner.
 (4) If the Registrar does not receive a reply to the letter within 6 months after it was posted, or if the letter is returned to the Registrar undelivered, the Registrar may give the health practitioner notice in writing at his or her last known address that the entry in the register relating to the health practitioner may be cancelled if the health practitioner does not respond within 10 working days after the date of the notice.
@@ -1580,7 +1580,7 @@ On payment of the fee (if any) set by the Registrar's authority, the Registrar m
 (2) A Deputy Registrar appointed by an authority has and may, subject to the control of the Registrar of the authority, exercise the powers, duties, and functions of the Registrar.
 
 ### 152 Registrar must carry out authority's decisions and comply with directions of authority and Tribunal
-(1) Every Registrar must make the appropriate entry in the register if
+(1) Every Registrar must make the appropriate entry in the register if—
   (a) the authority—
     (i) cancels or suspends a health practitioner's registration; or
     (ii) revokes the suspension of a health practitioner's registration; or
@@ -1637,8 +1637,8 @@ Nothing in this Act requires an authority to make available to an individual inf
   (a) the effect of the order; and
   (b) the name of the health practitioner; and
   (c) a summary of the proceedings in which the order was made.
-(4) Subsections (2) and (3) apply subject to and
-  (a) any order of the Tribunal under section 95;
+(4) Subsections (2) and (3) apply subject to—
+  (a) any order of the Tribunal under section 95; and
   (b) any order of the court.
 (5) In this section, the term health practitioner includes a former health practitioner.
 
@@ -1739,7 +1739,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 **Repeal of Part 6 of Medical Practitioners Act 1995 and savings**
 
 ### 177 Repeal of Part 6 of Medical Practitioners Act 1995 and savings for existing quality assurance notices
-(1) Section 3(2)(f), Part 6, and section 142(1)(b) of the Medical Practitioners Act 1995 are repealed.
+(1) Amendment(s) incorporated in the Act(s).
 (2) Despite subsection (1), every notice under section 68 of the Medical Practitioners Act 1995 that is in force immediately before the commencement of this section continues in force, and may be revoked, as if this Act had not been enacted.
 (3) Part 6 of the Medical Practitioners Act 1995, so far as applicable, continues to apply to—
   (a) any information that became known solely as a result of an activity that, at the relevant time, was a declared quality assurance activity (within the meaning of section 66(1) of that Act); and
@@ -1753,7 +1753,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 (1) In this subpart, unless the context otherwise requires,—
   - **continuing authority** means each authority specified in column 1 of Schedule 2
   - **Dental Technicians Board** means the board continued by section 72(1) of the Dental Act 1988
-  - **former registration Act** means each of the following Acts
+  - **former registration Act** means each of the following Acts:
     (a) Chiropractors Act 1982:
     (b) Dental Act 1988:
     (c) Dietitians Act 1950:
@@ -2062,17 +2062,6 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 
 ## Schedule 1 — Provisions applying to Health Practitioners Disciplinary Tribunal
 
-| Contents |  |
-| --- | --- |
-| 1 Deputy chairperson | 9 Service of summons |
-| 2 Term of office | 10 Witnesses' allowances |
-| 3 Vacation of office | 11 Privileges and immunities |
-| 4 Chairpersons of authorities to determine fees for certain Tribunal members | 12 Non-attendance or refusal to co-operate |
-| 5 Procedure of Tribunal | 13 Contempt of Tribunal |
-| 6 Evidence | 14 Exclusion of liability |
-| 7 Powers of investigation | 15 Power to amend charges |
-| 8 Witness summons | 16 Technical advisers |
-
 ### 1 Deputy chairperson
 (1) If—any deputy chairperson of the Tribunal has and may exercise or perform all the functions, duties, and powers of the chairperson.
   (a) the chairperson of the Tribunal becomes incapable of acting as chairperson because of illness, absence, or any other reason; or
@@ -2176,7 +2165,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
   (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any adviser to, or officer of, the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
   (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
-(2) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subclause (1), whether or not that person is charged with the offence; and any member of the police may take any steps that are reasonably necessary to enforce such an exclusion.
+(2) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in that member's opinion, constitutes an offence against subclause (1), whether or not that person is charged with the offence; and any constable may take any steps that are reasonably necessary to enforce such an exclusion.
 
 ### 14 Exclusion of liability
 (1) Neither the Tribunal nor any member, employee, or agent of the Tribunal is under any civil liability in respect of—
@@ -2212,22 +2201,7 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 
 ## Schedule 3 — Provisions applying to authorities
 
-| Contents |  |
-| --- | --- |
-| Proceedings generally | 11 Meaning of interested |
-| 1 Procedure | 12 Obligation to disclose interest |
-| 2 Information authorities may act on | 13 Method of disclosure of interest |
-| Chairperson and deputy chairperson | 14 Consequences of interest |
-| 3 Chairperson and deputy chairperson | 15 Resolution assented to by members |
-| 4 Deputy chairperson may act for chairperson | Matters of administration |
-| Conduct of meetings, conflict of interest, and resolutions passed without meetings | 16 Appointment of committees |
-| 5 Meetings | 17 Delegation by authorities |
-| 6 Members representing other members | 18 Review of decisions of delegate |
-| 7 Chairperson to preside at meetings | 19 Delegation by Registrars |
-| 8 Voting at meetings | Dealings with third parties by authorities |
-| 9 Teleconference meetings | 20 Method of contracting |
-| 10 Member may not be present if subject of authority consideration | 21 Attorneys |
-|  | 22 Presumptions and savings of certain transactions |
+**Proceedings generally**
 
 ### 1 Procedure
 (1) Each authority may regulate its procedure in any manner that it thinks fit.
@@ -2236,13 +2210,15 @@ On the date that this section comes into force, the Pharmaceutical Society, the 
 ### 2 Information authorities may act on
 Each authority must observe the rules of natural justice but, subject to that requirement, may receive as evidence any statement, document, information, or matter, whether or not it would be admissible in a court of law.
 
+**Chairperson and deputy chairperson**
+
 ### 3 Chairperson and deputy chairperson
-(1) At its first meeting in each year, each authority must elect 1 of its members to be the chairperson of the authority, and another to be the deputy chairperson of the authority.
+(1) At its first meeting in each year, each authority must elect one of its members to be the chairperson of the authority, and another to be the deputy chairperson of the authority.
 (2) A member who holds the office of chairperson or deputy chairperson continues in office until his or her successor is elected, and is eligible for re-election (subject to section 122).
 (3) A member who holds the office of chairperson or deputy chairperson may—
   (a) at any time be removed from the office of chairperson or deputy chairperson by the authority; or
   (b) at any time resign his or her office by giving notice to that effect to the Registrar of the authority.
-(4) If a person who holds the office of chairperson or deputy chairperson ceases to be a member of the authority, the authority must elect 1 of its members to fill that vacancy in the office of chairperson or deputy chairperson as soon as reasonably practicable.
+(4) If a person who holds the office of chairperson or deputy chairperson ceases to be a member of the authority, the authority must elect one of its members to fill that vacancy in the office of chairperson or deputy chairperson as soon as reasonably practicable.
 
 ### 4 Deputy chairperson may act for chairperson
 (1) The deputy chairperson of an authority has and may exercise or perform all the functions, duties, and powers of the chairperson if—
@@ -2250,6 +2226,8 @@ Each authority must observe the rules of natural justice but, subject to that re
   (b) there is a vacancy in the office of chairperson.
 (2) The deputy chairperson is, while acting for the chairperson, to be regarded as the chairperson of the authority.
 (3) No act done by the deputy chairperson while acting for the chairperson and no act done by the authority while the deputy chairperson is acting for the chairperson, may in any proceedings be questioned on the ground that the occasion entitling the deputy chairperson to act had not arisen or had ceased.
+
+**Conduct of meetings, conflict of interest, and resolutions passed without meetings**
 
 ### 5 Meetings
 (1) Meetings of every authority are held at—
@@ -2289,7 +2267,7 @@ Each authority must observe the rules of natural justice but, subject to that re
 (2) The person presiding at the meeting has a deliberative vote, and, in the case of an equality of votes, also has a casting vote.
 
 ### 9 Teleconference meetings
-(1) The contemporaneous linking together by telephone or video link or other means of communication of a number of members of an authority, being not less than the appropriate quorum stated in clause 5(3), whether or not 1 or more of those members are out of New Zealand, is to be taken as constituting a meeting of the authority to which the provisions of this Act apply if the following conditions are met:
+(1) The contemporaneous linking together by telephone or videolink or other means of communication of a number of members of an authority, being not less than the appropriate quorum stated in clause 5(3), whether or not 1 or more of those members are out of New Zealand, is to be taken as constituting a meeting of the authority to which the provisions of this Act apply if the following conditions are met:
   (a) notice must have been given, by letter or telephone or electronic transmission, to every member of the authority entitled to receive notice of a meeting of the authority; and
   (b) each member taking part in the meeting must—
     (i) be linked by telephone or videolink or other means of communication for the purposes of the meeting; and
@@ -2318,7 +2296,7 @@ A member of an authority who is interested in a transaction or proposed transact
 (1) If clause 12 applies, the member must ensure that the details listed in subclause (2) are entered in an interests register and disclosed to—
   (a) the chairperson; or
   (b) if neither the chairperson nor the deputy chairperson is able to act or the positions of the chairperson and deputy chairperson are vacant, the Minister.
-(2) The details area—
+(2) The details are—
   (a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
   (b) the nature and extent of the interest (if the monetary value cannot be quantified).
 
@@ -2332,6 +2310,8 @@ A member of an authority who is interested in a transaction or proposed transact
 (2) If a majority of the members of the authority, by letter or electronic transmission, signs or assents to a resolution circulated under subclause (1), the resolution is as valid and effective as if it had been passed at a meeting of the authority duly called and constituted.
 (3) Any such resolution may consist of several documents that are similar in form, each signed or appearing to have been sent by 1 or more members.
 (4) Every such resolution must be tabled at the next meeting of the authority held after the date on which the resolution takes effect.
+
+**Matters of administration**
 
 ### 16 Appointment of committees
 Each authority may from time to time appoint 1 or more committees of the authority, and—
@@ -2363,6 +2343,8 @@ Each authority may from time to time appoint 1 or more committees of the authori
 (5) Every delegate purporting to act under a delegation under this clause is, until the contrary is proved, presumed to be acting in accordance with the terms of the delegation.
 (6) A delegation under this clause does not cease to have effect merely because the Registrar by whom it was made ceases to hold office.
 
+**Dealings with third parties by authorities**
+
 ### 20 Method of contracting
 (1) A contract or other enforceable obligation may be entered into by an authority as provided in subclauses (2) to (4).
 (2) An obligation that, if entered into by an individual, is required to be by deed may be entered into on behalf of an authority in writing, signed under the name of the authority by—
@@ -2380,71 +2362,9 @@ An authority may, by an instrument in writing executed as a deed, appoint a pers
 
 ## Schedule 4 — Acts amended
 
-### 93 Medical assessor
-(1) A medical assessment must be undertaken by a medical practitioner who is described in subsection (2) or subsection (3).
-(2) A medical practitioner who provides general medical services must also—
-  (a) have an interest, and proven work experience, in disability management in the workplace or in occupational rehabilitation; and
-  (b) have at least 5 years' experience in general practice; and
-  (c) meet at least 1 of the following criteria:
-    (i) be a Fellow of the Royal New Zealand College of General Practitioners or hold an equivalent qualification:
-    (ii) be undertaking training towards becoming a Fellow of the Royal New Zealand College of General Practitioners or holding an equivalent qualification:
-    (iii) have undertaken relevant advanced training.
-(3) A medical practitioner who does not provide general medical services must—
-  (a) have an interest, and proven work experience, in disability management in the workplace or in occupational rehabilitation; and
-  (b) be a member of a recognised college.
-
-### 322A Definition of health practitioner may be limited
-(1) The Minister may, from time to time, by notice in the Gazette, declare that a person is not a health practitioner of a particular health profession for any purposes of this Act that are specified in the notice if—
-  (a) the person is a member of a class described in the notice; and
-  (b) the person's registration or deemed registration as a practitioner of that health profession under the Health Practitioners Competence Assurance Act 2003 is related to the person's membership of that class.
-(2) For the purposes of subsection (1), a class of persons may be described in any way the Minister thinks fit, including, without limitation, in any 1 or more of the following ways:
-  (a) by reference to the scopes of practice of the persons, including, without limitation, to any limitations, restrictions, or conditions in the scopes of practice:
-  (b) by reference to the qualifications of the persons:
-  (c) by reference to the fact that the persons are not permitted to perform services of a stated kind under their scopes of practice:
-  (d) by reference to the fact that the persons lack qualifications of a stated kind.
-(3) The Minister may not give a notice in the Gazette under this section without first consulting any persons or organisations that the Minister considers appropriate, having regard to the subject matter of the proposed notice.
-(4) A notice in the Gazette under this section is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
-
-### 27 Medical assessor
-(1) A medical assessment must be undertaken by a medical practitioner who is described in subclause (2) or subclause (3).
-(2) A medical practitioner who provides general medical services must also—
-  (a) have an interest, and proven work experience, in disability management in the workplace or in occupational rehabilitation; and
-  (b) have at least 5 years' experience in general practice; and
-  (c) meet at least 1 of the following criteria:
-    (i) be a Fellow of the Royal New Zealand College of General Practitioners or hold an equivalent qualification:
-    (ii) be undertaking training towards becoming a Fellow of the Royal New Zealand College of General Practitioners or holding an equivalent qualification:
-    (iii) have undertaken relevant advanced training.
-(3) A person who does not provide general medical services must also—
-  (a) have an interest, and proven work experience, in disability management in the workplace or in occupational rehabilitation; and
-  (b) be a member of a recognised college.
-
 ## Schedule 5 — Amendments to Accident Insurance Act 1998 for transitional purposes
 
-### 98 Medical assessor
-(1) A medical assessment must be undertaken by a medical practitioner who is described in subsection (2) or subsection (3).
-(2) A medical practitioner who provides general medical services must—
-  (a) have an interest, and proven work experience, in disability management in the workplace or in occupational rehabilitation; and
-  (b) have at least 5 years experience in general practice; and
-  (c) meet at least 1 of the following criteria:
-    (i) be a fellow of the Royal New Zealand College of General Practitioners or hold an equivalent qualification:
-    (ii) be undertaking training towards attaining fellowship of the Royal New Zealand College of General Practitioners or an equivalent qualification:
-    (iii) have undertaken relevant advanced training.
-(3) A medical practitioner who does not provide general medical services must—
-  (a) have an interest, and proven work experience, in disability management in the workplace or in occupational rehabilitation; and
-  (b) be a member of a recognised college.
-
 ## Schedule 6 — Regulations amended
-
-### 3 Application
-These regulations—
-  (a) apply to bursaries of the classes specified in paragraph (b) awarded after the commencement of these regulations; but
-  (b) do not apply to any variation after that commencement of bursaries awarded before that commencement:
-    (i) Dental Bursaries, being bursaries awarded to assist persons to undertake or complete the course of study leading to the degree of Bachelor of Dental Surgery of a university in New Zealand to qualify as dentists:
-    (ii) Dietetic Bursaries, being bursaries awarded to assist persons to undertake or complete the course of training and instruction to qualify as dietitians:
-    (iii) Medical Bursaries, being bursaries awarded to assist persons to undertake or complete the course of study leading to graduation in medicine and surgery at a university in New Zealand to qualify as medical practitioners:
-    (iv) Nursing Bursaries, being bursaries awarded to assist persons to undertake or complete nursing programmes to qualify as nurses:
-    (v) Occupational Therapy Bursaries, being bursaries awarded to assist persons to undertake or complete the course of training and instruction to qualify as occupational therapists:
-    (vi) Physiotherapy Bursaries, being bursaries awarded to assist persons to undertake or complete the course of training and instruction to qualify as physiotherapists.
 
 ## Schedule 7 — Acts repealed
 
