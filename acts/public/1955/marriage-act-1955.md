@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-01-24_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -18,8 +18,8 @@ _Consolidation as at 2007-09-03_
   - **New Zealand representative** means a person who is for the time being a head of mission or head of post (within the meaning of section 2 of the Foreign Affairs Act 1988) or a person assigned or reassigned to service overseas under section 6 of that Act
   - **Service marriage** means a marriage solemnised outside New Zealand at a time when the person who solemnised it, and at least one party to it, is a member of a naval, military, or air force raised in New Zealand, and the person who solemnised it—
     (a) Is both a chaplain and a marriage celebrant; or
-    (b) In the case only of a marriage solemnised before the commencement of the Births, Deaths, and Marriages Registration Act 1995, is a person duly authorised to solemnise it.
-(2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 2 of the Births, Deaths, and Marriages Registration Act 1995.
+    (b) In the case only of a marriage solemnised before 1 September 1995, is a person duly authorised to solemnise it.
+(2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
 
 ### 3 Application of Act
 (1) The provisions of this Act, so far as they relate to capacity to marry, shall apply to the marriage of any person domiciled in New Zealand at the time of the marriage, whether the marriage is solemnised in New Zealand or elsewhere.
