@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2009-01-24_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -3216,7 +3216,7 @@ The functions of the Minister under this Act are—
   (b) An appropriate warrant issued under section 198 of the Summary Proceedings Act 1957.
 (2A) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
   (a) on production to the Agency of—
-    (i) a death certificate (within the meaning of section 2 of the Births, Deaths, and Marriages Registration Act 1995) relating to the death of the individual; or
+    (i) a death certificate (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) relating to the death of the individual; or
     (ii) the grant of probate of the will of the individual or of letters of administration to the individual's estate; and
   (b) only if the person who is seeking access to the photographic image satisfies the Agency that the person is the individual's next of kin.
 (3) A person who has lawful access to a photographic image stored under section 28(5) may use that image only in the course, and for the purposes, of the person's official duties.
