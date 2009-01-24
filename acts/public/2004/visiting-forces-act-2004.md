@@ -1,5 +1,5 @@
 # Visiting Forces Act 2004
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Visiting Forces Act 2004.
@@ -38,7 +38,7 @@ The purpose of this Act is—
     (b) does not include a member of the armed forces of the sending State if—
       (i) the person is attached to the Armed Forces of New Zealand under section 23A of the Defence Act 1990; or
       (ii) New Zealand and the sending State have mutually determined, under an agreement between them, that the person is not to be regarded as a member of a visiting force
-  - **Registrar** has the same meaning as in section 2 of the Births, Deaths, and Marriages Registration Act 1995
+  - **Registrar** has the same meaning as in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **sending State** , in relation to a visiting force, means the State to which the visiting force belongs
   - **service authorities of a visiting force** —
     (a) means the authorities empowered by the law of the sending State to exercise powers of command, control, discipline, or administration over a visiting force, including (without limitation) any members of the force, members of its civilian component, and dependants; and
@@ -178,9 +178,9 @@ No proceedings in respect of the conditions of service of a member of a visiting
   (a) the wishes of the sending State; and
   (b) the terms of any applicable agreement.
 (4) When a direction referred to in subsection (3) takes effect, the following apply:
-  (a) the provisions of the Births, Deaths, and Marriages Registration Act 1995, other than section 42(2)(a) (which requires the notification of a Registrar before a body is removed from New Zealand):
+  (a) the provisions of the Births, Deaths, Marriages, and Relationships Registration Act 1995, other than section 42(2)(a) (which requires the notification of a Registrar before a body is removed from New Zealand):
   (b) the provisions of the Coroners Act 2006, except section 25 (which relates to viewing, touching, or remaining with or near the body).
-(5) The Births, Deaths, and Marriages Registration Act 1995 applies in relation to a death to which subsection (1) applies only to the extent provided in subsection (4)(a).
+(5) The Births, Deaths, Marriages, and Relationships Registration Act 1995 applies in relation to a death to which subsection (1) applies only to the extent provided in subsection (4)(a).
 (6) If a death has been reported to a coroner under section 15(2)(a) or section 16(2)(b) of the Coroners Act 2006 and the coroner is informed that a member of a visiting force, a member of its civilian component, or a dependant has been or may be charged with an offence against the service law of the sending State relating to the death or its circumstances, then, unless the Attorney-General otherwise directs, the following provisions apply:
   (a) if the coroner has not opened an inquiry into the death, he or she must not open an inquiry into the death until the criminal or disciplinary proceedings against the person have been finally concluded:
   (b) if an inquiry has been opened but is not then completed, the coroner must adjourn the inquiry until the criminal or disciplinary proceedings against the person have been finally concluded.
