@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2009-01-24_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1723,7 +1723,7 @@ While a domestic epidemic management notice is in force, and for any period afte
     (a) Any asset which the chief executive considers is impracticable to realise; or
     (b) Any administration expenses; or
     (c) Any non-assessable assets, if section 61DB or section 61DD of this Act applies:
-  - **Child** includes a still-born child as defined in section 2 of the Births, Deaths, and Marriages Registration Act 1995
+  - **Child** includes a still-born child as defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **Non-assessable assets** , in relation to a deceased person, a spouse or partner, or the parents or any other person who was liable in law to maintain a deceased child on the date of death, are—
     (a) That person's estate or interest, on the date of death of the deceased, in his or her own principal place of residence, including any estate or interest in the land on which it is erected, and any other buildings or improvements on that land which are used principally for the purposes of that person's household; and
     (b) Chattels which the person owned or which were in his or her possession pursuant to a hire purchase agreement or conditional sale agreement or an agreement for lease or hire, on the date of death of the deceased, and which are—
@@ -3282,6 +3282,13 @@ There shall from time to time be paid out of the Crown Bank Account out of money
 (3) For the purpose of this section, the chief executive of the Department for Courts may from time to time, in accordance with arrangements made with the chief executive of the department for the time being responsible for the administration of this Act, request the chief executive of the latter department to supply, from information kept by that department, the last known address and telephone number of any beneficiary.
 (4) On receipt of a request made under subsection (3), the chief executive of the department may supply the information requested to any officer or employee of the Department for Courts who is authorised by the chief executive of that department to receive that information.
 (5) Information supplied under a request made under subsection (3) may be supplied in such form as is determined by agreement between the 2 chief executives.
+
+### 126AB Disclosure of personal information to Registrar-General for birth registration purposes
+(1) The purpose of this section is to authorise the disclosure of information by the department to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (called the Registrar-General in this section), in order to assist in locating and contacting the mothers of children whose births are unregistered, so that the births may be registered.
+(2) On request from the Registrar-General, the chief executive, or a person authorised by the chief executive, may supply to the Registrar-General, or a person authorised by the Registrar-General, the postal address and residential address (if different from the postal address) of a person in respect of whom that information is held for the purposes of this Act and who the Registrar-General has grounds to believe may be the mother of a child whose birth is unregistered.
+(3) No request may be made unless—
+  (a) there is an agreement between the department and the Registrar-General in accordance with section 99 of the Privacy Act 1993; and
+  (b) the request is in accordance with the agreement.
 
 ### 126B Certain grounds of discrimination in Human Rights Act 1993 not to apply
 Nothing in—to anything done, before 31 December 2001, which—
