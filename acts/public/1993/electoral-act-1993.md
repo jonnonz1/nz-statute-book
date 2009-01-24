@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-01-24_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -91,7 +91,7 @@ This Act may be cited as the Electoral Act 1993.
       (ii) any person by reason of his or her being employed in any of Her Majesty’s forces except the Royal New Zealand Navy, the Regular Force of the New Zealand Army, or the Regular Air Force of the Royal New Zealand Air Force; or
       (iii) any person remunerated by fees or commission and not by wages or salary
   - **Registrar** , in relation to any district, means the Registrar of Electors appointed for that district under section 22; and includes his or her deputy
-  - **Registrar of Births and Deaths** means Registrar within the meaning of section 2 of the Births, Deaths, and Marriages Registration Act 1995
+  - **Registrar of Births and Deaths** means Registrar within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **residence** and have the meanings assigned thereto by section 72
   - **Returning Officer** means an electoral official designated under section 20B; and includes a person authorised to exercise or perform the powers, duties, or functions of a Returning Officer
   - **roll** means an electoral roll, a main roll, or a supplementary roll, as the case may be; and includes a composite roll printed under section 107
@@ -1082,8 +1082,8 @@ A registered elector who has changed his or her place of residence within an ele
 **Death of registered elector**
 
 ### 92 Notification of death of registered elector
-(1) The Registrar-General of Births and Deaths must, as soon as is reasonably practicable after the registration of the death of any person of or over the age of 17 years, notify the information described in subsection (2) to the Chief Registrar of Electors.
-(2) The information referred to in subsection (1) is the fact of the death, together with any particulars known to the Registrar-General of Births and Deaths that may be required to enable the Chief Registrar and Chief Electoral Officer—
+(1) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must, as soon as is reasonably practicable after the registration of the death of any person of or over the age of 17 years, notify the information described in subsection (2) to the Chief Registrar of Electors.
+(2) The information referred to in subsection (1) is the fact of the death, together with any particulars known to the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 that may be required to enable the Chief Registrar and Chief Electoral Officer—
   (a) to determine the electoral district in which the deceased person resided; and
   (b) to take appropriate steps in relation to the roll and other records.
 
@@ -1093,9 +1093,9 @@ A registered elector who has changed his or her place of residence within an ele
 (1) This section applies if a person to whom a notice of intended marriage under the Marriage Act 1955 or a notice of intended civil union under the Civil Union Act 2004 relates—
   (a) is registered as an elector of any district; or
   (b) is a person of or over the age of 17 years who has made an application under section 82(2) for registration as an elector of any district.
-(2) The person referred to in subsection (1), or the other party to the intended marriage or civil union, must provide to the Registrar (within the meaning of section 2 of the Births, Deaths, and Marriages Registration Act 1995) the information requested by the Chief Registrar for the purposes of this section.
+(2) The person referred to in subsection (1), or the other party to the intended marriage or civil union, must provide to the Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) the information requested by the Chief Registrar for the purposes of this section.
 (3) The Chief Registrar may approve a form for the purposes of subsection (2).
-(4) The Registrar (within the meaning of section 2 of the Births, Deaths, and Marriages Registration Act 1995) must transmit the information provided under subsection (2) to the Registrar for the district of which the person is registered as an elector.
+(4) The Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must transmit the information provided under subsection (2) to the Registrar for the district of which the person is registered as an elector.
 (5) The Registrar who receives the information provided under subsection (2) must, after the date of the intended marriage or civil union, send by post to each of the parties to the intended marriage or civil union a notice inquiring whether, as a result of the marriage or civil union, any change is required in the name, address, and occupation under which he or she is or is to be registered on the roll.
 (6) If a person to whom a notice is sent under subsection (5) states that a change is required, the Registrar of Electors must amend the roll in accordance with the particulars supplied.
 (7) If an amendment to the roll is necessary under subsection (6) and the amendment does not appear on the main or supplementary roll printed for any election, the person is, if otherwise qualified, entitled to vote at the election under his or her former name as it appears on the roll.
@@ -1103,8 +1103,8 @@ A registered elector who has changed his or her place of residence within an ele
 **Change of name of registered elector**
 
 ### 94 Notification of change of name
-(1) This section applies if a person registers a change of his or her name under section 21 of the Births, Deaths, and Marriages Registration Act 1995.
-(2) The Registrar-General must provide to the Chief Registrar the following information for the purposes of determining whether any change is required to the name and address under which that person is registered on the roll:
+(1) This section applies if a person registers a change of his or her name under section 21B of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(2) The Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995 must provide to the Chief Registrar the following information for the purposes of determining whether any change is required to the name and address under which that person is registered on the roll:
   (a) the old name and the new name of the person; and
   (b) the person’s date of birth; and
   (c) the person’s full residential address.
@@ -1812,10 +1812,10 @@ Immediately after receiving a writ requiring an election to be held in a distric
     (ii) has submitted a non-contest declaration under section 15(4) of the Electoral Finance Act 2007 and is awaiting a decision on whether it is to be listed as a third party under that Act; or
   (d) if the required deposit is not paid as required by this Act.
 (2) Subject to the concurrence of the Chief Electoral Officer, the Returning Officer shall not accept the nomination of any constituency candidate if the Returning Officer is not satisfied, by such evidence (if any) as the Returning Officer requires, that the name under which the candidate is nominated is—
-  (a) the name under which the candidate’s birth was registered, with any alteration or addition made thereto under section 20 of the Births, Deaths, and Marriages Registration Act 1995; or
+  (a) the name under which the candidate’s birth was registered, with any alteration or addition made thereto under section 20 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 or an earlier corresponding provision; or
   (b) in the case of a person who has been adopted, the name conferred on that person by the adoption order; or
   (c) the name by which the candidate was commonly known throughout the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer; or
-  (d) the name which was adopted by the candidate by deed poll registered under section 21 of the Births, Deaths, and Marriages Registration Act 1995 before the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer and which was used by the candidate throughout that period.
+  (d) the name which was adopted by the candidate through a name change registered under section 21B of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (or an earlier corresponding provision) before the period of 12 months ending with the day on which the nomination paper is lodged with the Returning Officer and which was used by the candidate throughout that period.
 (3) Despite anything in subsection (2), in applying that subsection in the case of any constituency candidate who is, or has been, married to, or in a civil union with, another person, the other person’s surname may be substituted for the candidate’s surname in any of the cases specified in paragraphs (a) to (d) of that subsection, unless, if the other person were nominated as a constituency candidate under that surname, the Returning Officer would be required to reject his or her nomination under the provisions of that subsection.
 (4)
 (5) Notwithstanding anything in subsection (2), the Returning Officer may, with the concurrence of the Chief Electoral Officer, accept the nomination of any constituency candidate under a name that does not comply with the provisions of that subsection, if the Returning Officer is satisfied that the name has been adopted by the candidate in good faith and for good reason and is not indecent or offensive or likely to deceive or cause confusion.
@@ -3359,23 +3359,17 @@ The Governor-General may from time to time, by Order in Council, make regulation
 **Amendment to Constitution Act 1986**
 
 ### 271 Term of Parliament
-Section 17 of the Constitution Act 1986 is hereby amended by repealing subsection (2), and substituting the following subsection:
-  (2) Section 268 of the Electoral Act 1993 shall apply in respect of subsection (1).
+Amendment(s) incorporated in the Act(s).
 
 **Amendment to Civil List Act 1979**
 
 ### 272 Questioned elections of members of Parliament
-The Civil List Act 1979 is hereby amended by repealing section 19, and substituting the following section:Questioned elections of members of Parliament
-  (1) Where, at the conclusion of the trial of an election petition, the High Court or the Court of Appeal determines that a person elected or returned was not duly elected or returned or that the election at which that person was elected or returned was void, the salary and allowance to which that person would have been entitled if that person had been duly elected and returned as a member of Parliament shall be paid to that person, in respect of the period commencing on the day after polling day and ending with the earlier of the following days:
-    (a) the day on which the House of Representatives, pursuant to section 246(2) of the Electoral Act 1993, gives directions for the altering of the return:
-    (b) the day on which the seat becomes vacant, by death or otherwise.
-  (2) Where, at the conclusion of the trial of an election petition, the High Court or the Court of Appeal determines that a person, other than the person who was elected or returned, was duly elected and the return, in accordance with directions given under section 246(2) of the Electoral Act 1993 is altered to carry out that determination, the salary and allowance to which the person declared elected pursuant to the altered writ or return would have been entitled if that person’s name had been endorsed on the writ or return when it was first returned shall, notwithstanding anything in subsection (1), be paid to that person.
-  (3) In this section the expression polling day has the meaning assigned to that term by section 18(5).
+Amendment(s) incorporated in the Act(s).
 
 **Amendment to Remuneration Authority Act 1977**
 
 ### 273 Officers whose remuneration is to be determined by Remuneration Authority
-Schedule 4 of the Remuneration Authority Act 1977 (as substituted by section 14 of the Remuneration Authority Amendment Act 1988) is hereby amended by inserting, after the item relating to the members and associate members of the Commerce Commission, the following item:The members of the Electoral Commission
+Amendment(s) incorporated in the Act(s).
 
 **Amendments to Local Elections and Polls Act 1976**
 
@@ -3533,18 +3527,3 @@ The income of the Commission shall be exempt from income tax.
 | ” |  |  |  |  |  |
 
 ## Schedule 3 — Enactments repealed
-
-### 1 Title
-This Act is the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008.
-
-### 2 Commencement
-This Act comes into force 6 months after the date on which it receives the Royal assent.
-
-## Part 2 — Amendments to other enactments
-
-### 47 Amendments to other Acts
-The Acts specified in Schedule 3 are amended in the manner set out in that schedule.
-
-## Schedule.Group
-
-### Schedule 3 — Amendments to other Acts
