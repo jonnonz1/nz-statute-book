@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -92,7 +92,7 @@ In this Act, unless the context otherwise requires,—
     (a) includes a part of a person (whether or not the person's identity is known when the part is discovered or is later determined)—
       (i) without which no person can live; or
       (ii) discovered in such circumstances or such a state that it is probable that the person is dead; and
-    (b) does not include a dead foetus or a still-born child (as those terms are defined in section 2 of the Births, Deaths, and Marriages Registration Act 1995); and
+    (b) does not include a dead foetus or a still-born child (as those terms are defined in section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995); and
     (c) for the purposes of an authorisation for release under section 42, does not include any body part or bodily sample retained in accordance with section 48(2)
   - **body part** , in relation to a body,—
     (a) means any part of the body (whether separated from the body before, on, or after the death concerned); and so
@@ -191,7 +191,7 @@ This Act binds the Crown.
 ### 13 Deaths that must be reported under section 14(2)
 (1) This section applies to the following deaths if, and only if, they are deaths to which subsection (2) applies:Without known cause, suicide, or unnatural or violentFor which no doctor's certificate givenDuring medical, surgical, or dental operation, treatment, etcIn official custody or care
   (a) every death that appears to have been without known cause, or suicide, or unnatural or violent:
-  (b) every death in respect of which no doctor has given a doctor's certificate (as defined in section 2 of the Births, Deaths, and Marriages Registration Act 1995):
+  (b) every death in respect of which no doctor has given a doctor's certificate (as defined in section 2(1) of the Burial and Cremation Act 1964):
   (c) every death—
     (i) that occurred while the person concerned was undergoing a medical, surgical, dental, or similar operation or procedure; or
     (ii) that appears to have been the result of an operation or procedure of that kind; or
@@ -696,7 +696,7 @@ A coroner who opens an inquiry under any of sections 60, 62, and 65, or in accor
   (b) open an inquiry into the death and then adjourn it; or
   (c) adjourn an inquiry already opened into the death.
 (3) A coroner who has under subsection (2) postponed or adjourned an inquiry must not open or proceed with it until criminal proceedings against the person have been finally concluded (as defined in subsection (6)).
-(4) Subsections (2) and (3) do not limit or affect sections 44 and 45 of the Births, Deaths, and Marriages Registration Act 1995 (which require the coroner to notify a Registrar of the death).
+(4) Subsections (2) and (3) do not limit or affect sections 44 and 45 of the Births, Deaths, Marriages, and Relationships Registration Act 1995 (which require the coroner to notify a Registrar of the death).
 (5) Despite subsection (3), a coroner who has under subsection (2) postponed or adjourned an inquiry may later open or resume it if satisfied that—
   (a) the person is no longer to be charged with a criminal offence relating to the death or its circumstances; or
   (b) to open or resume it would not prejudice the person charged, or thought likely to be charged, with a criminal offence relating to the death or its circumstances.
