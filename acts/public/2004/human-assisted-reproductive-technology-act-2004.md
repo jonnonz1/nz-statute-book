@@ -1,5 +1,5 @@
 # Human Assisted Reproductive Technology Act 2004
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Human Assisted Reproductive Technology Act 2004.
@@ -26,7 +26,7 @@ All persons exercising powers or performing functions under this Act must be gui
   (c) while all persons are affected by assisted reproductive procedures and established procedures, women, more than men, are directly and significantly affected by their application, and the health and well-being of women must be protected in the use of these procedures:
   (d) no assisted reproductive procedure should be performed on an individual and no human reproductive research should be conducted on an individual unless the individual has made an informed choice and given informed consent:
   (e) donor offspring should be made aware of their genetic origins and be able to access information about those origins:
-  (f) the needs, values, and beliefs of Maori should be considered and treated with respect:
+  (f) the needs, values, and beliefs of Māori should be considered and treated with respect:
   (g) the different ethical, spiritual, and cultural perspectives in society should be considered and treated with respect.
 
 ### 5 Interpretation
@@ -78,8 +78,8 @@ In this Act, unless the context otherwise requires,—
   - **provider** —
     (a) means a person who, in the course of a business (whether or not carried on with a view to making a profit), performs, or arranges the performance of, services in which donated embryos or donated cells are used; and
     (b) includes a successor provider
-  - **Registrar-General** means the person for the time being appointed to that office under section 79(1) of the Births, Deaths, and Marriages Registration Act 1995
-  - **still-born child** has the meaning given to it by section 2 of the Births, Deaths, and Marriages Registration Act 1995
+  - **Registrar-General** means the person for the time being appointed to that office under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995
+  - **still-born child** has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **successor provider** means the successor, receiver, or liquidator of any provider or successor provider
   - **surrogacy arrangement** means an arrangement under which a woman agrees to become pregnant for the purpose of surrendering custody of a child born as a result of the pregnancy
   - **valuable consideration** includes an inducement, discount, or priority in the provision of a service.
@@ -155,7 +155,7 @@ This Act binds the Crown.
 
 ### 14 Status of surrogacy arrangements and prohibition of commercial surrogacy arrangements
 (1) A surrogacy arrangement is not of itself illegal, but is not enforceable by or against any person.
-(2) Subsection (1) does not affect the Human Assisted Reproductive Technology Amendment Act 2007 Part 2 of the Status of Children Act 1969.
+(2) Subsection (1) does not affect the Part 2 of the Status of Children Act 1969.
 (3) Every person commits an offence who gives or receives, or agrees to give or receive, valuable consideration for his or her participation, or for any other person's participation, or for arranging any other person's participation, in a surrogacy arrangement.
 (4) Subsection (3) does not apply to a payment—
   (a) to the provider concerned for any reasonable and necessary expenses incurred for any of the following purposes:
@@ -363,7 +363,7 @@ The Minister must establish a committee to be known as the Advisory Committee on
   (a) 1 or more members with expertise in assisted reproductive procedures; and
   (b) 1 or more members with expertise in human reproductive research; and
   (c) 1 or more members with expertise in ethics; and
-  (d) 1 or more Maori members with expertise in Maori customary values and practice and the ability to articulate issues from a Maori perspective; and
+  (d) 1 or more Māori members with expertise in Māori customary values and practice and the ability to articulate issues from a Māori perspective; and
   (e) 1 or more members with the ability to articulate issues from a consumer perspective; and
   (f) 1 or more members with expertise in relevant areas of the law; and
   (g) 1 or more members with the ability to articulate the interests of children.
@@ -509,13 +509,13 @@ The provisions of this Part apply to information only if the information is requ
 ### 47 Providers must obtain and accept information about donors
 (1) When a donor donates a donated embryo or a donated cell to or through a provider, the provider must ensure that the provider has obtained the following information about the donor or, as the case requires, about each donor:
   (a) the donor's name:
-  (b) the donor's gender
+  (b) the donor's gender:
   (c) the donor's address:
   (d) the date, place, and country of the donor's birth:
   (e) the donor's height:
   (f) the colour of the donor's eyes and hair:
   (g) the donor's ethnicity and any relevant cultural affiliation:
-  (h) in the case of a Maori donor, the donor's whanau, hapu, and iwi, to the extent that the donor is aware of those affiliations:
+  (h) in the case of a Māori donor, the donor's whanau, hapu, and iwi, to the extent that the donor is aware of those affiliations:
   (i) any aspects, considered significant by the provider, of the medical history of—
     (i) the donor; and
     (ii) the donor's parents and grandparents; and
@@ -605,11 +605,11 @@ If a provider who has given the Registrar-General information under section 53(1
 (5) In this section, relevant agency means a provider or the Registrar-General.
 
 ### 58 Access to information about siblings of donor offspring
-(1) A provider or the Registrar-General may tell a donor offspring (donor offspring A) and, if donor offspring A is under 18 years, the guardian of donor offspring A whether donor off-spring A shares a donor with another donor offspring (donor offspring B) and, if that is the case and the condition specified in subsection (2) is met, give access to identifying information about donor offspring B—
+(1) A provider or the Registrar-General may tell a donor offspring (donor offspring A) and, if donor offspring A is under 18 years, the guardian of donor offspring A whether donor offspring A shares a donor with another donor offspring (donor offspring B) and, if that is the case and the condition specified in subsection (2) is met, give access to identifying information about donor offspring B—
   (a) if donor offspring A is 18 years or older, to donor offspring A; or
   (b) if donor offspring A is under 18 years, to the guardian of donor offspring A.
 (2) The condition referred to in subsection (1) is that—
-  (a) if donor offspring B is 18 years or older, donor off-spring B consents to the giving of access; or
+  (a) if donor offspring B is 18 years or older, donor offspring B consents to the giving of access; or
   (b) if donor offspring B is under 18 years, the guardian of donor offspring B consents to the giving of access.
 (3) This section overrides sections 51 and 62.
 
@@ -624,7 +624,7 @@ If a provider who has given the Registrar-General information under section 53(1
 
 ### 60 Access by donors to information about donor offspring kept by providers
 (1) At the request of a donor, a provider must tell the donor whether, to the best of the provider's knowledge, there have been born any donor offspring formed from a donated embryo or a donated cell given to or through the provider and (if so) the sex of each donor offspring.
-(2) If the provider has the donor offspring's consent to give the donor access to identifying information about the donor off-spring, the provider must do so at the donor's request.
+(2) If the provider has the donor offspring's consent to give the donor access to identifying information about the donor offspring, the provider must do so at the donor's request.
 (3) The provider may refuse to disclose to the donor, or give the donor access to, information about the donor offspring if satisfied, on reasonable grounds, that to do so is likely to endanger any person.
 (4) Subsection (3) overrides subsections (1) and (2).
 
@@ -662,7 +662,7 @@ A provider or the Registrar-General must not disclose any information about a do
   (k) any number or other symbol used by the provider to identify the donor, if known.
 (3) The following persons may give to the Registrar-General, on a form provided by the Registrar-General for the purpose, the information specified in subsection (4):
   (a) a donor offspring who is 18 years or older and to whom this section applies:
-  (b) the guardian of a donor offspring, being a donor off-spring who is under 18 years and to whom this section applies.
+  (b) the guardian of a donor offspring, being a donor offspring who is under 18 years and to whom this section applies.
 (4) The following information is the information referred to in subsection (3):
   (a) the donor offspring's name:
   (b) the date and place of the donor offspring's birth:
@@ -670,7 +670,7 @@ A provider or the Registrar-General must not disclose any information about a do
   (d) if the information is given by the guardian, the guardian's name and address:
   (e) the donor offspring's gender:
   (f) the donor offspring's ethnicity and any cultural affiliation:
-  (g) in the case of a Maori donor offspring, the donor off-spring's whanau, hapu, and iwi, to the extent that those affiliations are known:
+  (g) in the case of a Maori donor offspring, the donor offspring's whanau, hapu, and iwi, to the extent that those affiliations are known:
   (h) any aspects, considered significant, of the medical history of the donor offspring:
   (i) the name of the provider who received the donated embryo or donated cell concerned:
   (j) any number or other symbol used by the provider to identify the donor offspring, if known.
@@ -690,9 +690,9 @@ A provider or the Registrar-General must not disclose any information about a do
   (c) any person whom the Registrar-General believes on reasonable grounds to be the guardian of a person who is—
     (i) the offspring of the donor; and
     (ii) under 18 years.
-(9) The Registrar-General may, subject to any request made under subsection (6) or subsection (7)(a), give each of the following persons access to information about a donor off-spring provided under subsection (3) and subsection (5):
+(9) The Registrar-General may, subject to any request made under subsection (6) or subsection (7)(a), give each of the following persons access to information about a donor offspring provided under subsection (3) and subsection (5):
   (a) the donor offspring, if he or she is 18 years or older:
-  (b) the guardian of the donor offspring, if the donor off-spring is under 18 years:
+  (b) the guardian of the donor offspring, if the donor offspring is under 18 years:
   (c) a person whom the Registrar-General believes on reasonable grounds to be the donor of the donor offspring:
   (d) a person whom the Registrar-General believes on reasonable grounds to be a person—
     (i) who shares a donor with the donor offspring; and
@@ -768,7 +768,7 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
 (2) An authorised person who enters a place under this section must produce evidence of his or her authorisation—
   (a) on first entering the place:
   (b) whenever subsequently reasonably required to do so by a person appearing to be in charge of the place or any part of the place.
-(3) An authorised person who enters a place under this section may be accompanied by any number of persons (including any member of the police) reasonably necessary to assist him or her with the exercise of his or her powers under this section.
+(3) An authorised person who enters a place under this section may be accompanied by any number of persons (including any constable) reasonably necessary to assist him or her with the exercise of his or her powers under this section.
 (4) A person who accompanies an authorised person under subsection (3) may, under the direction of the authorised person, exercise each of the powers described in subsection (1)(a) to (g).
 (5) This section does not limit the privilege against self-incrimination.
 
@@ -776,11 +776,11 @@ The provisions of this Part, other than this section and sections 43, 45, 51, 62
 (1) An authorised person may not enter a dwellinghouse under section 68(1)(a), except—
   (a) with the consent of an occupier of the dwellinghouse; or
   (b) with the authority of a search warrant issued under subsection (2).
-(2) A District Court Judge, a Justice, or a Court Registrar who is not a member of the police, may, on a written application made on oath by an authorised person, issue a search warrant in the form set out in Schedule 2 in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house—
+(2) A District Court Judge, a Justice, or a court Registrar who is not a constable, may, on a written application made on oath by an authorised person, issue a search warrant in the form set out in Schedule 2 in respect of a dwellinghouse if satisfied that there are reasonable grounds to believe that in that house—
   (a) an offence against this Act has been or is being committed; or
   (b) there is any gamete, any kind of embryo or foetus, or being that is or may be evidence of the commission of an offence against this Act.
 (3) The search warrant authorises the authorised person to whom it is directed to exercise in respect of the dwellinghouse all or any of the powers described in section 68, and the provisions of that section apply to the execution of the warrant.
-(4) The Judge, Justice, or Court Registrar may issue the warrant unconditionally or subject to any conditions that he or she thinks fit.
+(4) The Judge, Justice, or court Registrar may issue the warrant unconditionally or subject to any conditions that he or she thinks fit.
 (5) The authorised person to whom the search warrant is directed may execute it on 1 occasion within 14 days after the date of its issue.
 
 ### 70 Identification of authorised person
@@ -802,7 +802,7 @@ Section 199 of the Summary Proceedings Act 1957 applies to any property seized b
   (c) the item in question must be returned to the person from whom it was seized,—
     (i) if no proceedings are taken in respect of an offence to which the item relates, within 6 months after its seizure; or
     (ii) if proceedings are completed in respect of the offence and no order of forfeiture is made in respect of the item; and
-  (d) if any person is convicted of an offence to which the item relates, the Court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the Court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
+  (d) if any person is convicted of an offence to which the item relates, the court may, if it thinks fit, order that the item be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order that the person pay any reasonable costs incurred by the authorised person or the Commissioner of Police in retaining the item.
 
 ### 73 Detection of import and export offences
 (1) A Customs officer may detain any matter or item that he or she finds in the course of exercising any power of search or examination under the Customs and Excise Act 1996, if he or she believes on reasonable grounds that the matter or item is—
@@ -920,18 +920,42 @@ The Registrar-General may refuse to take any action under this Act for which a f
 **Amendments to other enactments**
 
 ### 85 Amendment to Customs and Excise Act 1996
-Section 148(2)(b) of the Customs and Excise Act 1996 is amended by adding the following subparagraph:
-  (v) the Human Assisted Reproductive Technology Act 2004.
+Amendment(s) incorporated in the Act(s).
 
 ### 86 Amendment to Medicines Act 1981
-(1) Section 96A of the Medicines Act 1981 is amended by repealing the definitions of cloned human organism, cloning procedure, genetically modified embryo, genetically modified gamete, and germ-cell genetic procedure.
-(2) Section 96A of the Medicines Act 1981 is amended by repealing the definition of specified biotechnical procedure, and substituting the following definition:.
-  - **specified biotechnical procedure** means any xenotransplantation
+((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) Any application made, before the commencement of this section, under section 96G of the Medicines Act 1981 for the grant of an authorisation in relation to any germ-cell genetic procedure or any cloning procedure must be treated as if this Act had not been enacted; and an authorisation under section 96C or section 96D of that Act granted in respect of such an application has effect as if this Act had not been enacted.
 
 ### 87 Amendment to Summary Proceedings Act 1957
-Part 2 of Schedule 1 of the Summary Proceedings Act 1957 is amended by inserting, after the item relating to the Harbours Act 1950, the following item:Human Assisted Reproductive Technology Act 20048(1)Taking an action described in Schedule 18(2)Importing or exporting an in vitro gamete, any kind of in vitro embryo or in vitro foetus, or in vitro being formed by an action described in Schedule 18(3)Possessing a gamete, any kind of embryo or foetus, or being formed by an action described in Schedule 1
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — Prohibited actions
+
+### 1
+Artificially form, for reproductive purposes, a cloned embryo. For the purposes of this item, a cloned embryo is not formed by splitting, on 1 or more occasions, an embryo that has been formed by the fusion of gametes.
+
+### 2
+Artificially form, for reproductive purposes, a hybrid embryo.
+
+### 3
+Implant into a human being a cloned embryo.
+
+### 4
+Implant into a human being an animal gamete or embryo.
+
+### 5
+Implant into a human being a hybrid embryo.
+
+### 6
+Implant into an animal a human gamete or human embryo.
+
+### 7
+Implant into an animal a hybrid embryo.
+
+### 8
+Implant into a human being a genetically modified gamete, human embryo, or hybrid embryo.
+
+### 9
+Implant into a human being gametes derived from a foetus, or an embryo that has been formed from a gamete or gametes derived from a foetus.
 
 ## Schedule 2 — Form of search warrant
