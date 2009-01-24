@@ -1,5 +1,5 @@
 # Social Workers Registration Act 2003
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Social Workers Registration Act 2003.
@@ -36,7 +36,7 @@ In this Act, unless the context otherwise requires,—
   - **Health and Disability Commissioner** means the Health and Disability Commissioner appointed under section 8 of the Health and Disability Commissioner Act 1994
   - **health services or disability services** means health services or disability services within the meaning of the Health and Disability Commissioner Act 1994
   - **limited registration** means provisional or temporary registration
-  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
+  - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **particular condition** , in relation to a registered social worker, means a condition that is not a condition adopted under section 29 in respect of all practising certificates, or the practising certificates of all registered social workers of a description that includes the social worker
   - **practising certificate** —
@@ -65,20 +65,20 @@ A person who has a recognised New Zealand qualification is entitled to be regist
   (a) that his or her competence to practise social work has been found satisfactory under Part 3; and
   (b) that he or she is a fit and proper person to practise social work; and
   (c) that (whether because of the inclusion of an appropriate component in that qualification, or as a result of his or her satisfactory completion of a separate course or courses of training) he or she—
-    (i) is competent to practise social work with Maori; and
+    (i) is competent to practise social work with Māori; and
     (ii) is competent to practise social work with different ethnic and cultural groups in New Zealand; and
   (d) that he or she has enough practical experience in practising social work.
 
 ### 7 Entitlement to registration of overseas-qualified social workers
 A person who does not have a recognised New Zealand qualification is entitled to be registered if the Board is satisfied that—
   (a) he or she has an overseas qualification equivalent to a recognised New Zealand qualification (except to the extent that it may not include a component whose satisfactory completion ensures that its holder—
-    (i) is competent to practise social work with Maori; and
+    (i) is competent to practise social work with Māori; and
     (ii) is competent to practise social work with different ethnic and cultural groups in New Zealand); and
   (b) either—
     (i) he or she is registered or licensed as a social worker, or as the practitioner of a profession equivalent to that of a social worker, in a State other than New Zealand (whether the State in which the equivalent qualification was obtained or some other State); or
     (ii) there are good reasons for his or her not being so registered or licensed; and
   (c) he or she has satisfactorily completed a course or courses of training ensuring that he or she—
-    (i) is competent to practise social work with Maori; and
+    (i) is competent to practise social work with Māori; and
     (ii) is competent to practise social work with different ethnic and cultural groups in New Zealand; and
   (d) he or she can speak and write English reasonably effectively, and understand spoken and written English reasonably well; and
   (e) he or she has enough practical experience in practising social work; and
@@ -134,7 +134,7 @@ The Board must decide that the applicant should be registered fully if, and only
     (ii) his or her competence to practise social work has been found satisfactory under Part 3; and
     (iii) he or she is a fit and proper person to practise social work; and
     (iv) that (whether as a result of his or her satisfactory completion of a course or courses of training, or because his or her practical experience in practising social work in New Zealand is enough to compensate for not having completed such a course) he or she—
-      (A) is competent to practise social work with Maori; and
+      (A) is competent to practise social work with Māori; and
       (B) is competent to practise social work with different ethnic and cultural groups in New Zealand.
 (2) Subsection (1) overrides section 12.
 
@@ -144,8 +144,8 @@ The Board must decide that the applicant should be registered fully if, and only
   (b) that he or she is a fit and proper person to practise social work, meets some of the other criteria in section 6 or section 7, and—
     (i) is in the process of working towards meeting the rest of them; or
     (ii) if in the Board's opinion subsection (2) applies to him or her, intends to work towards meeting the rest of them within a time frame set by the Board; and
-  (c) in the case of an applicant who has previously held a provisional certificate of registration, that he or she—meeting all the criteria in section 6 or section 7; or
-    (i) has already made satisfactory progress in working towards
+  (c) in the case of an applicant who has previously held a provisional certificate of registration, that he or she—
+    (i) has already made satisfactory progress in working towards meeting all the criteria in section 6 or section 7; or
     (ii) has good reasons for not having made satisfactory progress in doing so.
 (2) This subsection applies to an applicant for registration if—
   (a) he or she applied for registration within 3 months after the commencement of this section; and
@@ -322,8 +322,8 @@ Promptly after the Registrar refers an application for a practising certificate 
 ### 34 Currency of practising certificates
 (1) A practising certificate is in force for a period decided by the Board (generally or in any particular case).
 (2) The period must be stated in the certificate, and must be—
-  (a) No longer than 4 months from the day the certificate is issued, in the case of an interim practising certificate; and
-  (b) No longer than 1 year from the day the certificate is issued, in any other case.
+  (a) no longer than 4 months from the day the certificate is issued, in the case of an interim practising certificate; and
+  (b) no longer than 1 year from the day the certificate is issued, in any other case.
 (3) If the holder of a practising certificate ceases to be a registered social worker, the certificate is cancelled.
 
 ### 35 Conditions on practising certificates
@@ -488,8 +488,8 @@ The Board must consider whether a person is a fit and proper person to practise 
   (b) promptly after being notified of a determination under section 71(1)(a) that the Board should review his or her fitness.
 
 ### 49 Action if Board considers registered social worker not fit and proper
-(1) This section applies to a registered social worker if, after being notified of a determination under section 71(1)(a) that the Board should review his or her fitness, the Board—practise social work; and
-  (a) has considered whether he or she is a fit and proper person to
+(1) This section applies to a registered social worker if, after being notified of a determination under section 71(1)(a) that the Board should review his or her fitness, the Board—
+  (a) has considered whether he or she is a fit and proper person to practise social work; and
   (b) determines that he or she may not be a fit and proper person to practise social work.
 (2) If this section applies to a registered social worker, the Board may—
   (a) make a complaint against the social worker under section 59; or
@@ -508,7 +508,7 @@ The Board must consider whether a person is a fit and proper person to practise 
 (8) A person exercising his or her right to be heard personally is entitled to be accompanied by 1 person of his or her choice who agrees to attend.
 (9) The Board may permit a person exercising his or her right to be heard personally to be accompanied by any number of people of his or her choice who agree to attend, in addition to the person by whom he or she is entitled to be accompanied by subsection (8).
 
-### 50 Board to ask police for information, and consider convictions
+### 50 Board to ask Police for information, and consider convictions
 In order to help determine whether a person is a fit and proper person to practise social work for the purposes of this Act, the Board must—
   (a) ask the New Zealand Police to check if he or she has any criminal convictions; and
   (b) consider any criminal convictions (whether in New Zealand or overseas) disclosed to the Board by the New Zealand Police, or otherwise known to the Board.
@@ -659,7 +659,7 @@ The registrar of a court in New Zealand in which a person whom the registrar kno
 (2) Before appointing, dissolving, or reconstituting a complaints assessment committee, the chairperson of the Tribunal must consult with at least 3 members of the Board (including at least 1 member who is not a registered social worker).
 (3) In appointing or reconstituting a complaints assessment committee, the chairperson of the Tribunal must have regard to—
   (a) the desirability of the committee's including members with knowledge and expertise relevant to the complaint or conviction concerned; and
-  (b) whether it is desirable for Maori, or a particular ethnic or cultural group in New Zealand, to be represented on the committee.
+  (b) whether it is desirable for Māori, or a particular ethnic or cultural group in New Zealand, to be represented on the committee.
 (4) No member of the Board or the Tribunal may be a member of a complaints assessment committee.
 (5) The chairperson must appoint 1 of the members of each complaints assessment committee to preside at its meetings.
 
@@ -696,16 +696,16 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
   (a) the Board should review the competence or fitness of the registered social worker concerned to practise social work (or both); or
   (b) in the case of a complaint, the committee should submit it to conciliation; or
   (c) the committee should submit the complaint or conviction to the Tribunal; or
-  (d) No further steps should be taken under this Act in relation to the complaint or conviction.
+  (d) no further steps should be taken under this Act in relation to the complaint or conviction.
 (2) In making its determination, the committee—
   (a) may undertake or arrange for any investigations it thinks necessary; and
   (b) in the case of a complaint, may have regard to—
     (i) any investigations or considerations of the subject matter of the complaint already carried out (whether by the Commissioner for Children, an employer or former employer of the social worker, or any other person, body, court, or tribunal); and
     (ii) the consequences (if any) of any investigation or consideration carried out.
 (3) Before making its determination,—
-  (a) the committee—give him or her a reasonable opportunity to appear before it to make an explanation or statement in relation to the complaint or conviction; and
+  (a) the committee—
     (i) must give the social worker a reasonable opportunity to make a written explanation or statement in relation to the complaint or conviction; and
-    (ii) may, on the social worker's application or of its own motion,
+    (ii) may, on the social worker's application or of its own motion, give him or her a reasonable opportunity to appear before it to make an explanation or statement in relation to the complaint or conviction; and
   (b) in the case of a complaint, the committee—
     (i) must give the complainant a reasonable opportunity to make a written statement in relation to it; and
     (ii) may, on the complainant's application or of its own motion, give him or her a reasonable opportunity to appear before the committee to make a statement in relation to it.
@@ -713,7 +713,7 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
 (5) A person exercising his or her right to appear before the committee to make a statement in relation to a complaint is entitled to be accompanied by 1 person of his or her choice who agrees to attend.
 (6) The committee may permit a person exercising his or her right to appear before the committee to make a statement in relation to a complaint to be accompanied by any number of people of his or her choice who agree to attend, in addition to the person by whom he or she is entitled to be accompanied by subsection (5).
 (7) If the committee makes a determination that no further steps should be taken under this Act in relation to a complaint or conviction,—
-  (a) No further steps may be taken under this Act in relation to the complaint or conviction; and
+  (a) no further steps may be taken under this Act in relation to the complaint or conviction; and
   (b) the committee must give the social worker (and, in the case of a complaint, the complainant) written notice of—
     (i) the determination; and
     (ii) the committee's reasons.
@@ -737,7 +737,7 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
 (2) If the committee thinks that the complaint has been successfully resolved by agreement, it must promptly give the chairperson of the Tribunal written notice to that effect.
 (3) If the committee thinks that the complaint has not been successfully resolved by agreement, it must promptly determine whether—
   (a) the committee should submit the complaint to the Tribunal; or
-  (b) No further steps should be taken under this Act in relation to the complaint.
+  (b) no further steps should be taken under this Act in relation to the complaint.
 (4) If it makes a determination to submit the complaint to the Tribunal, the committee must—
   (a) frame an appropriate charge; and
   (b) lay it before the Tribunal, together with a notice stating—
@@ -745,7 +745,7 @@ As soon as is practicable after a complaint about, or a notice of conviction of,
     (ii) the matters on which the social worker and complainant did not reach agreement during conciliation; and
   (c) give a copy of the charge and notice to the social worker and the complainant.
 (5) If the committee makes a determination that no further steps should be taken under this Act in relation to the complaint,—
-  (a) No further steps may be taken under this Act in relation to the complaint; and
+  (a) no further steps may be taken under this Act in relation to the complaint; and
   (b) the committee must give the social worker and complainant written notice of—
     (i) the determination; and
     (ii) the committee's reasons.
@@ -984,7 +984,7 @@ On any appeal under this Part, a District Court may order the person or body who
 
 ### 95 Orders as to publication of names
 (1) On any appeal under this Part, a District Court may, if in its opinion it is proper to do so, prohibit the publication of the name or particulars of the affairs of a registered social worker or any other person.
-(2) In deciding whether to make an order under subsection (1), the Court must have regard to—
+(2) In deciding whether to make an order under subsection (1), the court must have regard to—
   (a) the interests of any person (including, without limitation, the privacy of any complainant); and
   (b) the public interest.
 
@@ -1035,9 +1035,9 @@ On any appeal under this Part, a District Court may order the person or body who
 (2) Subsection (1)(h) does not limit or affect the functions or powers of any department of State.
 (3) Subsection (1)(p) does not apply to information required by this Act to be kept confidential.
 
-### 100 Obligations of Board in relation to Maori
-(1) In the exercise and performance of its powers and functions, the Board must ensure that the aims and aspirations of Maori as tangata whenua, and the need for the appropriate involvement of Maori as tangata whenua, are integral and ongoing priorities.
-(2) The Board must maintain mechanisms (for example, appointing advisory committees or forming separate caucuses) to ensure that there are at all times readily accessible to it the views of Maori as tangata whenua.
+### 100 Obligations of Board in relation to Māori
+(1) In the exercise and performance of its powers and functions, the Board must ensure that the aims and aspirations of Māori as tangata whenua, and the need for the appropriate involvement of Māori as tangata whenua, are integral and ongoing priorities.
+(2) The Board must maintain mechanisms (for example, appointing advisory committees or forming separate caucuses) to ensure that there are at all times readily accessible to it the views of Māori as tangata whenua.
 
 ### 101 Obtaining views of ethnic and cultural groups
 The Board—
@@ -1141,7 +1141,7 @@ In considering the suitability of any person to be appointed to the Tribunal und
     (i) enough members who are registered social workers (being registered social workers whose registration is not suspended); and
     (ii) enough members who are not registered social workers; and
   (c) have regard to the need to ensure that the Tribunal has—
-    (i) enough people who represent Maori; and
+    (i) enough people who represent Māori; and
     (ii) enough people who represent different ethnic and cultural groups in New Zealand.
 
 ### 118 Removal of members
@@ -1178,9 +1178,9 @@ The Board must keep a register of social workers.
 
 ### 122 Register to be maintained in parts
 The Registrar must keep the Register in 3 separate parts—
-  (a) 1 for information relating to people who do not hold limited registration; and
-  (b) 1 for information relating to people who hold provisional registration; and
-  (c) 1 for information relating to people who hold temporary registration.
+  (a) one for information relating to people who do not hold limited registration; and
+  (b) one for information relating to people who hold provisional registration; and
+  (c) one for information relating to people who hold temporary registration.
 
 ### 123 Information to be registered
 (1) The information to be entered in the Register in respect of a person is—
@@ -1219,7 +1219,7 @@ On payment of the fee (if any) set by the Board, the Registrar must give a perso
 (1) A registered social worker whose home address is entered in the Register must, within 1 month after starting to live at some other place, give the Registrar written notice of—
   (a) his or her new home address; or
   (b) his or her work address.
-(2) A registered social worker whose work address is entered in the register must, within 1 month after starting to work at some other place, give the Registrar written notice of—
+(2) A registered social worker whose work address is entered in the Register must, within 1 month after starting to work at some other place, give the Registrar written notice of—
   (a) his or her new work address; or
   (b) his or her home address.
 
@@ -1232,11 +1232,11 @@ If satisfied that a registered social worker has changed his or her name, or tha
 (3) The Registrar must make reasonable efforts to give a copy of the direction to the social worker.
 
 ### 128 Entry to be cancelled on death of social worker
-(1) Promptly after receiving a doctor's certificate relating to the death of a person who appears to have been a registered social worker, a registrar under the Births, Deaths, and Marriages Registration Act 1995 must give the Registrar written notice of the death, with particulars of its date and place.
+(1) Promptly after registering the death of a person who appears to have been a registered social worker, a Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995) must give the Registrar written notice of the death, with particulars of its date and place.
 (2) If there is an entry in the Register relating to the person, the Registrar must, as soon as is practicable after receiving the notice, cancel it.
 (3) The Board may direct the Registrar to cancel the entry in the Register relating to a registered social worker if it believes on reasonable grounds (other than having received a doctor's certificate) that a registered social worker has died.
 (4) The Registrar must make reasonable efforts to give a copy of the direction to the social worker's personal representative.
-(5) In subsection (1), doctor's certificate has the meaning given to that term by section 2 of the Births, Deaths, and Marriages Registration Act 1995.
+(5)
 
 ### 129 Revision of Register
 (1) The Registrar may at any time, and must if the Board directs, ask whether a registered social worker—
@@ -1381,7 +1381,7 @@ Section 121(2) of the Crown Entities Act 2004 applies, with any necessary modifi
 ### 144 Proceedings not invalid because of defect in appointment
 (1) This section applies to a complaints assessment committee, and the Tribunal.
 (2) No act or proceeding of a body to which this section applies, or of a person acting as a member of a body to which this section applies, is invalid because—
-  (a) there was a defect in the appointment of a person acting as a member of the body, or
+  (a) there was a defect in the appointment of a person acting as a member of the body; or
   (b) a person acting as a member of the body was incapable of being, or had ceased to be, a member of it.
 
 ### 145 Notice and service of documents
@@ -1444,49 +1444,10 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 
 ## Schedule 1 — Provisions applying to Social Workers Registration Board
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-| 1 | Interpretation | 24 | Meaning of interested |
-|  | Members' appointments | 25 | Disclosure of interest |
-| 2 | Criteria for appointment | 26 | Consequences of disclosure |
-| 3 | Restrictions on people who may be members | 27 | Matters to be delegated to committee |
-| 4 | Method of appointment | 28 | Exceptions |
-| 5 | Members must consent and certify to appointment and disclose interests | 29 | Effect of non-compliance |
-|  | Term of office |  | Use of information |
-| 6 | Term of office | 30 | Restrictions on disclosure or use of information |
-| 7 | Limit on term | 31 | When member may rely on certain information and advice |
-| 8 | Position where concurrent office | 32 | When clause 31 applies |
-|  | Vacation of office by members |  | Procedure of Board: general |
-| 9 | Resignation | 33 | Procedure generally |
-| 10 | Vacation of office if status changes |  | Procedure of Board: meetings |
-| 11 | Removal from office | 34 | Ordinary meetings |
-|  | Vacancies in Board's membership | 35 | Special meetings |
-| 12 | Effect of vacancy in membership | 36 | Telephone conference meetings |
-|  | Remuneration | 37 | Quorum |
-| 13 | Remuneration of members | 38 | Chairperson to preside at meetings |
-|  | Chairperson and deputy chairperson | 39 | Voting |
-| 14 | Election | 40 | Resolution assented to by members |
-| 15 | Term of office | 41 | Method of contracting |
-| 16 | Removal |  | Committees and delegations |
-| 17 | Resignation | 42 | Committees |
-| 18 | Exercise of chairperson's functions, duties, and powers during vacancy, etc | 43 | Delegations to committees |
-|  | Acts not to be called into question | 44 | Effect of delegation |
-| 19 | Acts not to be called into question | 45 | Presumption of acting in accordance with delegation |
-|  | Members representing other members | 46 | Other matters relating to delegation |
-| 20 | Members representing other members | 47 | Expenses of Board |
-|  | Duties of members |  | Employees |
-| 21 | Duties of members | 48 | Appointment of secretary |
-|  | Liability of members | 49 | Appointment of other employees |
-| 22 | Liability of members and committee members | 50 | Liability of employees |
-|  | Disclosure of interest | 51 | Personnel policy |
-| 23 | Obligation to disclose interest | 52 | Equal employment opportunities |
-|  |  | 53 | Superannuation or retiring allowances |
-|  |  | 54 | Application of certain Acts to members and employees |
-|  |  | 55 | Legal advisers |
-|  |  | 56 | Common seal |
-
 ### 1 Interpretation
 [Repealed]
+
+**Members' appointments**
 
 ### 2 Criteria for appointment
 (1) Members must be appointed by the Minister under section 28(1)(a) of the Crown Entities Act 2004 after consultation with organisations and individuals that, in the Minister's opinion, represent various sectors of the social work profession.
@@ -1496,7 +1457,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
     (i) the social work profession (including social workers employed by Government and non-Government organisations); and
     (ii) advocates for consumers of services provided by social workers; and
     (iii) social work educators; and
-    (iv) Maori; and
+    (iv) Māori; and
     (v) different ethnic and cultural groups in New Zealand.
 (3) Subclauses (1) and (2) do not limit section 29 of the Crown Entities Act 2004.
 (4) In addition to the matters in section 30(2) of the Crown Entities Act 2004, a person employed by a department of State responsible for advising the Minister on the Board's performance is disqualified from being appointed as a member.
@@ -1510,6 +1471,8 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 5 Members must consent and certify to appointment and disclose interests
 [Repealed]
 
+**Term of office**
+
 ### 6 Term of office
 [Repealed]
 
@@ -1521,6 +1484,8 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 
 ### 8 Position where concurrent office
 [Repealed]
+
+**Vacation of office by members**
 
 ### 9 Resignation
 [Repealed]
@@ -1537,11 +1502,17 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 11 Removal from office
 [Repealed]
 
+**Vacancies in Board's membership**
+
 ### 12 Effect of vacancy in membership
 [Repealed]
 
+**Remuneration**
+
 ### 13 Remuneration of members
 [Repealed]
+
+**Chairperson and deputy chairperson**
 
 ### 14 Election
 [Repealed]
@@ -1558,11 +1529,15 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 18 Exercise of chairperson's functions, duties, and powers during vacancy, etc
 [Repealed]
 
+**Acts not to be called into question**
+
 ### 19 Acts not to be called into question
 [Repealed]
 
+**Members representing other members**
+
 ### 20 Members representing other members
-(1) A member of the Board (the appointing member) may give the Registrar notice appointing another member of the Board (the representative) to represent him or her at one or more meetings of the Board stated in the notice.
+(1) A member of the Board (the appointing member) may give the Registrar notice appointing another member of the Board (the representative) to represent him or her at 1 or more meetings of the Board stated in the notice.
 (2) The appointment of the representative ceases if—
   (a) the appointing member—
     (i) gives the Registrar notice revoking the appointment; or
@@ -1579,11 +1554,17 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
   (c) may not assent twice to a resolution under clause 40; and
   (d) may not vote twice on a matter being considered by a teleconference meeting.
 
+**Duties of members**
+
 ### 21 Duties of members
 [Repealed]
 
+**Liability of members**
+
 ### 22 Liability of members and committee members
 [Repealed]
+
+**Disclosure of interest**
 
 ### 23 Obligation to disclose interest
 [Repealed]
@@ -1606,6 +1587,8 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 29 Effect of non-compliance
 [Repealed]
 
+**Use of information**
+
 ### 30 Restrictions on disclosure or use of information
 [Repealed]
 
@@ -1615,10 +1598,14 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 32 When clause 31 applies
 [Repealed]
 
+**Procedure of Board: General**
+
 ### 33 Procedure generally
 (1) In relation to a matter concerning a particular person, the Board must observe the rules of natural justice.
 (2) The Board may receive as evidence any statement, document, information, or matter, whether or not it would be admissible in a court of law.
 (3)
+
+**Procedure of Board: Meetings**
 
 ### 34 Ordinary meetings
 [Repealed]
@@ -1649,6 +1636,8 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 ### 41 Method of contracting
 [Repealed]
 
+**Committees and delegations**
+
 ### 42 Committees
 [Repealed]
 
@@ -1667,6 +1656,8 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 
 ### 47 Expenses of Board
 [Repealed]
+
+**Employees**
 
 ### 48 Appointment of secretary
 [Repealed]
@@ -1808,7 +1799,7 @@ The enactments specified in Schedule 3 are amended in the manner indicated in th
 (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who—
   (a) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
   (b) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal.
-(3) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the member's opinion, constitutes an offence against this section, whether or not the person is charged with the offence or any other offence; and any member of the police may take any steps reasonably necessary to enforce the exclusion.
+(3) A member of the Tribunal may order the exclusion from a sitting of the Tribunal of any person whose behaviour, in the member's opinion, constitutes an offence against this section, whether or not the person is charged with the offence or any other offence; and any constable may take any steps reasonably necessary to enforce the exclusion.
 
 ### 14 Power to amend charges
 The Tribunal may, at any time during the hearing of any charge laid under section 75, amend the charge in any way.
@@ -1829,6 +1820,3 @@ If the Tribunal is of the opinion that the registered social worker concerned wo
 A member of the Tribunal is not personally liable for any act or omission done in pursuance or intended pursuance of the Tribunal's functions, unless the act or omission was done in bad faith.
 
 ## Schedule 3 — Consequential amendments
-
-| Social Workers Registration Act 2003 | Part 7 |
-| --- | --- |
