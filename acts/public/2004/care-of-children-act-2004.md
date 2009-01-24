@@ -1,5 +1,5 @@
 # Care of Children Act 2004
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Care of Children Act 2004.
@@ -97,7 +97,7 @@ In this Act, unless the context otherwise requires,—
     (a) Australia; or
     (b) any State or Territory of Australia; or
     (c) any other country outside New Zealand that is declared by Order in Council to be a prescribed overseas country for the purposes of this Act; and, for the purposes of this paragraph, the Cook Islands, Niue, and Tokelau must each be treated as a country outside New Zealand
-  - **Registrar-General** has the meaning given to it by section 2 of the Births, Deaths, and Marriages Registration Act 1995
+  - **Registrar-General** has the meaning given to it by section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995
   - **role of providing day-to-day care for a child** —
     (a) means the role, under this Act, an order under this Act, or an order made by a court in a prescribed overseas country, of providing day-to-day care for the child; and
     (b) includes, while exercising that role, exclusive responsibility for the child's day-to-day living arrangements
@@ -176,10 +176,8 @@ For the purposes of this Act, guardianship of a child means having (and therefor
 (5) This section is subject to sections 18 to 34, and therefore does not limit or affect the appointment of 1 or more additional guardians (for example, an additional testamentary guardian of the child appointed by the deceased parent under section 26(2)) or an order (relating to guardianship of the Court) under section 33(1).
 
 ### 18 Father identified on birth certificate is guardian
-If a child's father is not a guardian of the child just because of section 17(2) or (3), then he becomes a guardian of the child if his particulars are registered after the commencement of this Act as part of the child's birth information under 1 of the following sections of the Births, Deaths, and Marriages Registration Act 1995:
-  (a) section 15(2)(b)(i) or (3)(a)(i) (registration at the request of the child's mother and father):
-  (b) section 15(2)(b)(ii) or (3)(a)(ii) (registration at the request of the child's mother, and on production of a notice in writing signed by the father, acknowledging that he is the child's father and consenting to the recording of information relating to him):
-  (c) section 15(2)(c) or (3)(b)(i) (registration at the request of the child's father, and on the child's mother having confirmed that he is the child's father).
+(1) A child's father who is not a guardian of the child just because of section 17(2) or (3) becomes a guardian of the child if his particulars are registered after the commencement of this section as part of the child's birth information because he and the child's mother both notified the birth as required by section 9 of the Births, Deaths, Marriages, and Relationships Registration Act 1995.
+(2) Subsection (1) does not change the guardianship status of a father who became a guardian before the commencement of this section.
 
 ### 19 Father who was not mother's spouse, civil union partner, or de facto partner may apply to be appointed as guardian
 (1) If, because of section 17(2) or (3), a child's mother is (or was at the time of her death) the sole guardian of the child, the child's father may apply to the Court to be appointed as a guardian of the child.
