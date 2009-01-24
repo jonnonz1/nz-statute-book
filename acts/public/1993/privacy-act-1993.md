@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2008-09-30_
+_Consolidation as at 2009-01-24_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -81,7 +81,7 @@ _Consolidation as at 2008-09-30_
       (i) A person to whom section 7 of the Immigration Act 1987 applies; or
       (ii) A person obliged, by or pursuant to that Act, to leave New Zealand immediately or within a specified time; or
       (iii) Deemed for the purposes of that Act to be in New Zealand unlawfully:
-  - **Personal information** means information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, and Marriages Registration Act 1995, or any former Act
+  - **Personal information** means information about an identifiable individual; and includes information relating to a death that is maintained by the Registrar-General pursuant to the Births, Deaths, Marriages, and Relationships Registration Act 1995, or any former Act
   - **Proceedings Commissioner**
   - **Public register** has the meaning given to it in section 58 of this Act
   - **Public register privacy principle** has the meaning given to it in section 58 of this Act
@@ -1077,6 +1077,9 @@ In this Part of this Act, unless the context otherwise requires,—
     (aa) the Regulator, as defined by Part 10 of the Injury Prevention, Rehabilitation, and Compensation Act 2001:
     (b) the Chief Registrar of Electors:
     (ba) the company within the meaning of section 2(1) of the Housing Restructuring and Tenancy Matters Act 1992:
+    (bb) the Board of the Government Superannuation Fund Authority:
+    (bc) the Board of Trustees of the National Provident Fund:
+    (bd) the Ministry of Health:
     (c) the Department for Courts:
     (d) the Department of Corrections:
     (e) the Department of Labour:
@@ -1086,7 +1089,7 @@ In this Part of this Act, unless the context otherwise requires,—
     (ga) the Ministry of Transport:
     (gb) the New Zealand Transport Agency:
     (gc) the Department of Internal Affairs:
-    (gd) the Registrar-General appointed under section 79(1) of the Births, Deaths, and Marriages Registration Act 1995:
+    (gd) the Registrar-General appointed under section 79(1) of the Births, Deaths, Marriages, and Relationships Registration Act 1995:
     (h) the New Zealand Customs Service:
     (ha) the Registrar of Motor Vehicle Traders:
     (i) the Regulator, as defined in the Accident Insurance Act 1998:
@@ -1431,7 +1434,7 @@ The income of the Commissioner shall be exempt from income tax.
 | --- | --- |
 | Animal Products Act 1999 | Sections 18, 52, 73, and 112 |
 | Births and Deaths Registration Act 1951 |  |
-| Births, Deaths, and Marriages Registration Act 1995 | Sections 5, 7(2), 8, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62D |
+| Births, Deaths, Marriages, and Relationships Registration Act 1995 | Sections 5, 7(2), 8, 21B, 24, 25, 34, 36, 48(3), 50, 53, 56, 58, 62A, and 62C |
 | Building Act 1991 |  |
 | Building Act 2004 | Sections 216, 273, and 298 |
 | Building Societies Act 1965 | section 121A |
@@ -1501,7 +1504,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Enactment | Information Matching Provision |
 | --- | --- |
 | Accident Insurance Act 1998 | Sections 370 and 371 (as saved by section 343 of the Injury Prevention, Rehabilitation, and Compensation Act 2001) |
-| Births, Deaths, and Marriages Registration Act 1995 | Section 78A |
+| Births, Deaths, Marriages, and Relationships Registration Act 1995 | Section 78A and 78B |
 | Citizenship Act 1977 | Section 26A |
 | Corrections Act 2004 | Sections 180 to 180D, 181, 182, and 204 |
 | Customs and Excise Act 1996 | Sections 280 to 280D, 280K, 280L and 280H |
@@ -1512,7 +1515,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Injury Prevention, Rehabilitation, and Compensation Act 2001 | Sections 246, 280, and 281 |
 | Motor Vehicle Sales Act 2003 | Sections 120 to 123 |
 | Penal Institutions Act 1954 |  |
-| Social Security Act 1964 | Section 126A |
+| Social Security Act 1964 | sections 126A and 126AB |
 | Social Welfare (Transitional Provisions) Act 1990 | section 19D(3)(b) |
 | Student Loan Scheme Act 1992 | Section 62A |
 | Tax Administration Act 1994 | Sections 46A, 82, 83, 84, 85, 85A, and 85B, 85E and, 85G, and 85H |
