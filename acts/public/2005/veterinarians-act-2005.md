@@ -1,5 +1,5 @@
 # Veterinarians Act 2005
-_Consolidation as at 2008-03-27_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Veterinarians Act 2005.
@@ -212,7 +212,7 @@ If the Council is satisfied that a person with provisional registration is fit f
     (i) under subsection (2); or
     (ii) by any other means; or
   (c) the person has been registered as a result of an error and the Council is informed of or discovers the error.
-(2) On the registration of the death of any person who is stated to be a veterinarian, or who is registered under this Act, every Registrar (within the meaning of section 2 of the Births, Deaths, and Marriages Registration Act 1995)—
+(2) On the registration of the death of any person who is stated to be a veterinarian, or who is registered under this Act, every Registrar (within the meaning of section 2 of the Births, Deaths, Marriages, and Relationships Registration Act 1995)—
   (a) must notify the Council in writing of the death of the person and particulars of the date and place of death; and
   (b) may charge the Council a reasonable fee for a notification under paragraph (a).
 (3) This section does not limit the powers of the Council under Part 3.
@@ -348,7 +348,7 @@ A person whose practising certificate is cancelled or suspended must deliver his
 
 ### 32 Unlawful use of title of veterinarian
 (1) No person, other than a veterinarian, may use in connection with his or her business, trade, employment, calling, or profession—
-  (a) the title veterinarian ; or
+  (a) the title veterinarian; or
   (b) any words, initials, or abbreviations that are intended to cause, or that may reasonably cause, any person to believe that the person using those words, initials, or abbreviations is a veterinarian; or
   (c) the word veterinary with any words, initials, or abbreviations that are intended to cause, or that may reasonably cause, any person to believe that the person using the word veterinary with those words, initials, or abbreviations is a veterinarian.
 (2) Every person who breaches subsection (1) commits an offence, and is liable on summary conviction to a fine not exceeding $10,000.
@@ -527,7 +527,7 @@ In the performance and exercise of its decision-making functions and powers unde
 (6) The Council may authorise any person to appear at a hearing and adduce evidence and make submissions on the matter.
 
 ### 48 Council has powers of Commission of Inquiry
-For the purposes of a disciplinary hearing, the Council has the powers of a Commission under the Commissions of Inquiry Act 1908 and the provisions of that Act, except sections 11 and 12 (which relate to costs) apply as if the hearing were an inquiry under that Act.
+For the purposes of a disciplinary hearing, the Council has the powers of a commission under the Commissions of Inquiry Act 1908 and the provisions of that Act, except sections 11 and 12 (which relate to costs) apply as if the hearing were an inquiry under that Act.
 
 ### 49 Disciplinary hearing to be in public
 (1) The Council must hold every disciplinary hearing in public.
@@ -736,7 +736,7 @@ For the purposes of a competence assessment, the Council may inspect a specified
   (d) impose 1 or more penalties on the person under Part 3; or
   (e) impose 1 or more conditions of practice on the person.
 (4) An appeal—
-  (a) must be brought to the Court by way of originating application in accordance with the rules of Court; and
+  (a) must be brought to the court by way of originating application in accordance with the rules of court; and
   (b) must be lodged within 20 working days after notice of the decision or action is communicated to the appellant, or within any further time a District Court Judge allows on application made before or after that period expires.
 
 ### 65 Notice of right of appeal
@@ -752,7 +752,7 @@ A decision or action against which an appeal is lodged under section 64 continue
   (a) confirm, reverse, or modify the decision or action appealed against:
   (b) make any other decision or take any other action that the person or body that made the decision or took the action appealed against could have made or taken:
   (c) refer the matter or an aspect of the matter back to the Council for reconsideration under section 69.
-(4) The Court must not review—
+(4) The court must not review—
   (a) any decision or action not appealed against; or
   (b) any part of any decision or action not appealed against.
 
@@ -762,25 +762,25 @@ A decision or action against which an appeal is lodged under section 64 continue
 
 ### 69 Court may refer matter back for reconsideration
 (1) Instead of determining an appeal under this Part, the District Court may direct the Council to reconsider, either generally or in respect of any specified aspect, the whole or any part of the decision or action.
-(2) In giving a direction under subsection (1), the Court—
+(2) In giving a direction under subsection (1), the court—
   (a) must state its reasons for the direction; and
   (b) may give any other directions it thinks just in relation to the matter referred back for reconsideration.
 (3) Upon being directed to reconsider a matter, the Council must reconsider the matter and, in doing so, must—
-  (a) take the Court's reasons into account; and
-  (b) give effect to the Court's directions.
+  (a) take the court's reasons into account; and
+  (b) give effect to the court's directions.
 
 ### 70 Orders as to costs
 On an appeal under section 64, the District Court may order any party to the appeal to pay to any other party to the appeal any or all of the costs incurred by the other party in respect of the appeal.
 
 ### 71 Orders as to publication of names
 (1) On any appeal under section 64, the District Court may, if in its opinion it is proper to do so, prohibit the publication of the name or particulars of the affairs of any person.
-(2) In deciding whether to make an order under subsection (1), the Court must have regard to—
+(2) In deciding whether to make an order under subsection (1), the court must have regard to—
   (a) the interests of any person (including, without limitation, the privacy of any complainant); and
   (b) the public interest.
 
 ### 72 Appeal on question of law
 (1) A party to an appeal under section 64 may appeal to the High Court against any determination of law arising in the appeal.
-(2) The appeal must be heard and determined in accordance with the appropriate rules of Court.
+(2) The appeal must be heard and determined in accordance with the appropriate rules of court.
 (3) Part 4 of the Summary Proceedings Act 1957 (together with the other provisions of that Act that are applied in that Part) applies to the appeal—
   (a) so far as it is applicable and with all necessary modifications; but
   (b) only so far as it relates to appeals on questions of law.
@@ -828,8 +828,8 @@ For the purpose of performing its functions, the Council has—
 ### 77 Composition of Council
 The Council must have 7 members being—
   (a) 3 veterinarians elected in accordance with regulations made under section 101; and
-  (b) 2 laypersons appointed by the Minister by notice in the Gazette ; and
-  (c) 1 veterinarian appointed by the Minister by notice in the Gazette ; and
+  (b) 2 laypersons appointed by the Minister by notice in the Gazette; and
+  (c) 1 veterinarian appointed by the Minister by notice in the Gazette; and
   (d) the person for the time being responsible for the veterinary science academic programme at Massey University.
 
 ### 78 Further provisions as to Council and its members
@@ -840,7 +840,7 @@ Schedule 1 applies to the Council and its members.
 ### 79 Council may appoint committees
 (1) The Council may, by resolution, appoint 1 or more committees to—
   (a) perform any of the Council's functions or duties, or exercise any of the Council's powers, that are delegated to the committee under clause 17 of Schedule 1:
-  (b) inquire into and report to the Council on any matters within the scope of the Council's functions, duties, or powers that are referred to the- committee by the Council.
+  (b) inquire into and report to the Council on any matters within the scope of the Council's functions, duties, or powers that are referred to the committee by the Council.
 (2) A committee is subject to the control of the Council and may at any time be discharged, altered, or reconstituted by the Council.
 
 ### 80 Membership and chairperson of committees
@@ -852,7 +852,7 @@ Subject to the Council's direction, a committee may regulate its own procedure.
 
 ### 82 Complaints assessment committees
 (1) The Council may appoint 1 or more complaints assessment committees.
-(2) Each committee must consist of 2 veterinarians and 1 layperson, 1 of whom must be appointed as the chairperson of the committee.
+(2) Each committee must consist of 2 veterinarians and 1 layperson, one of whom must be appointed as the chairperson of the committee.
 (3) The Council may at any time—
   (a) revoke any appointment made under subsection (2); or
   (b) reconstitute a committee; or
@@ -1007,7 +1007,7 @@ The Governor-General may, by Order in Council made on the recommendation of the 
 **Amendment to Privacy Act 1993**
 
 ### 102 Amendment to Schedule 2 of Privacy Act 1993
-Part 1 of Schedule 2 of the Privacy Act 1993 is amended by inserting, in the appropriate columns and in the appropriate alphabetical order, the following item:Veterinarians Act 2005Section 22
+Amendment(s) incorporated in the Act(s).
 
 **Repeals and revocations**
 
@@ -1098,9 +1098,13 @@ The Minister may remove a member from office by written notice to the member (wi
   (b) the person is not qualified for the appointment.
 (2) The acts of the Council are valid even if there is a vacancy in its membership.
 
+**Remuneration and allowances of members and others**
+
 ### 6 Remuneration and allowances of members and others
 (1) A member is entitled to receive, from the funds of the Council, remuneration and allowances for services as a member in accordance with the framework determined by the Government from time to time for the classification and remuneration of members of statutory and other bodies.
 (2) The Council may also approve payments for services to members of complaints assessment, judicial, or any other committees appointed by the Council in accordance with the same framework.
+
+**Chairperson and deputy chairperson**
 
 ### 7 Appointment
 At its first meeting each year the Council must elect one of its members as the chairperson and another as the deputy chairperson.
@@ -1118,6 +1122,8 @@ The chairperson and the deputy chairperson each holds office until—
 
 ### 10 Exercise of chairperson's functions, duties, and powers during vacancy
 If there is no chairperson or, for any reason, the chairperson is unable to perform his or her functions, duties, and powers as chairperson, the deputy chairperson has all the functions, duties, and powers of the chairperson.
+
+**Procedures of Council**
 
 ### 11 Dates, times, and places of meetings
 (1) The Council or the chairperson must appoint the dates, times, and places for meetings of the Council, and give notice of those meetings to each member not present when the appointments are made.
@@ -1154,6 +1160,8 @@ If there is no chairperson or, for any reason, the chairperson is unable to perf
 ### 16 Procedure generally
 Except as otherwise provided in this Act, the Council may regulate its own procedure.
 
+**Delegation**
+
 ### 17 Ability to delegate
 (1) The Council may delegate (either generally or specifically) any of the functions, duties, and powers of the Council to a committee or the Registrar.
 (2) However, the Council may delegate its powers to hold a hearing, suspend or revoke a practising certificate or registration, or impose penalties or conditions under Part 3 only to a judicial committee.
@@ -1169,6 +1177,8 @@ Except as otherwise provided in this Act, the Council may regulate its own proce
 (1) The validity or enforceability of any deed, agreement, right, or obligation entered into, or incurred, by the Council is not affected by a failure of the Council to comply with any provision of this Act.
 (2) A person purporting to execute any documentation on behalf of the Council under any authority is, in the absence of proof to the contrary, presumed to be acting in accordance with that authority.
 
+**Employees**
+
 ### 20 Council to appoint Registrar
 The Council must appoint a Registrar for the Council on the terms and conditions it thinks fit.
 
@@ -1181,6 +1191,3 @@ The Council may employ employees—
 The Council, for the purpose of providing superannuation or retirement allowances to the Registrar or its employees, may subsidise or contribute to any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
 
 ## Schedule 2 — Consequential amendments to other enactments
-
-| 2005, No 126—The Veterinarians Act 2005. |
-| --- |
