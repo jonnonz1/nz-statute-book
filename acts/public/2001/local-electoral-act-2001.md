@@ -1,5 +1,5 @@
 # Local Electoral Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-01-24_
 
 ### 1 Title
 This Act is the Local Electoral Act 2001.
@@ -64,23 +64,22 @@ The purpose of this Act is to modernise the law governing the conduct of local e
   - **elector** means any person entitled under any law for the time being in force to vote at an election or poll, as the case may be, held under this Act
   - **electoral officer** means a person appointed under section 12(1); and includes any person for the time being exercising all or any of the duties and powers of that person
   - **electoral official** means an electoral officer, a deputy electoral officer, and any person authorised to exercise any power or perform any duty of an electoral officer under section 12(2)
-  - **electoral system** means any of the following electoral systems that are prescribed for use at an election or poll
+  - **electoral system** means any of the following electoral systems that are prescribed for use at an election or poll:
     (a) the system commonly known as First Past the Post:
     (b) the system commonly known as Single Transferable Voting (STV) using the New Zealand method of counting single transferable votes
   - **electronic** includes electrical, digital, magnetic, optical, electromagnetic, biometric, and photonic
   - **extraordinary vacancy** means a vacancy occurring in any elective office except for the purpose of any triennial or other general election
   - **First Past the Post** means the electoral system that is described generally in section 5A
-  - **general constituency** , in relation to a region, means every constituency of the region that is not a Maori constituency
+  - **general constituency** , in relation to a region, means every constituency of the region that is not a Māori constituency
   - **general electoral population** has the same meaning as in section 3(1) of the Electoral Act 1993
-  - **general ward** , in relation to the district of a territorial authority, means every ward of the district that is not a Maori ward
+  - **general ward** , in relation to the district of a territorial authority, means every ward of the district that is not a Māori ward
   - **local authority** means a territorial authority or regional council; and also includes any other elected or partly-elected body (other than a community board) to which this Act, or any of its predecessors, is applied or has been made to apply by any other enactment
   - **local government area** means the area comprised within the jurisdiction of a local authority; and includes a subdivision of that area
-  - **Maori constituency** means a Maori constituency created in accordance with Schedule 1A
-  - **Maori electoral district** has the same meaning as in section 3(1) of the Electoral Act 1993
-  - **Maori electoral population** has the same meaning as in section 3(1) of the Electoral Act 1993
-  - **Maori ward** means a Maori ward created in accordance with Schedule 1A
-  - **Meek's method of counting votes**
-  - **member of a local authority** , in relation to a local authority, includes the Mayor
+  - **Māori constituency** means a Māori constituency created in accordance with Schedule 1A
+  - **Māori electoral district** has the same meaning as in section 3(1) of the Electoral Act 1993
+  - **Māori electoral population** has the same meaning as in section 3(1) of the Electoral Act 1993
+  - **Māori ward** means a Māori ward created in accordance with Schedule 1A
+  - **member of a local authority** , in relation to a local authority, includes the mayor
   - **Minister** means the Minister of Local Government
   - **New Zealand method of counting single transferable votes** means the method of counting votes described in Schedule 1A of the Local Electoral Regulations 2001
   - **nomination day** means the 50th day before polling day
@@ -104,7 +103,7 @@ The purpose of this Act is to modernise the law governing the conduct of local e
     (a) an electronic document or electronic message that is designed to enable a voter to record his or her vote at an election or poll and transmit it electronically for counting; and
     (b) any copy of that document or message (with or without the voter's vote recorded); and
     (c) any record of that document or message with the voter's vote recorded
-  - **voting method** means any of the following methods of voting that are prescribed for use at an election or poll
+  - **voting method** means any of the following methods of voting that are prescribed for use at an election or poll:
     (a) the method of voting commonly known as booth voting:
     (b) the method of voting commonly known as postal voting:
     (c) any form of electronic voting:
@@ -112,15 +111,15 @@ The purpose of this Act is to modernise the law governing the conduct of local e
     (e) any other method of voting (however described)
   - **voting period** , in relation to an election or poll, means—
     (a) if booth voting is the method of voting used at the election or poll, the period between 9 am and 7 pm on polling day and any earlier prescribed period:
-    (b) if postal voting is the method of voting used at the election or poll, the period of 22 1/2 days ending with 12 noon on polling day:
-    (c) if any other method of voting is used at the election or poll, the prescribed period during which an elector may cast a vote at the election or poll.
+    (b) if postal voting is the method of voting used at the election or poll, the period of 22 and a half days ending with 12 noon on polling day:
+    (c) if any other method of voting is used at the election or poll, the prescribed period during which an elector may cast a vote at the election or poll
   - **ward** means a ward established under this Act and resulting from the division, for electoral purposes, of the district of a territorial authority.
 (2) In this Act, every reference to the electoral officer is, unless the context otherwise requires, a reference to the electoral officer responsible for the conduct or undertaking of the election or poll or other thing to which the reference relates.
 (3) In this Act, every reference to an election on a specified date or day is, unless the context otherwise requires, a reference to an election, the polling day for which is on that date or day.
 
 ### 5A General description of First Past the Post electoral system
 For local electoral purposes, the First Past the Post electoral system,—
-  (a) in the case of an election, has the following features:—
+  (a) in the case of an election, has the following features:
     (i) voters may cast as many votes as there are positions to be filled:
     (ii) where a single position is to be filled, the candidate who receives the highest number of votes is elected:
     (iii) where more than 1 position is to be filled, the candidates equal to the number of positions who receive the highest number of votes are elected:
@@ -128,7 +127,7 @@ For local electoral purposes, the First Past the Post electoral system,—
 
 ### 5B General description of Single Transferable Voting electoral system
 For local electoral purposes, the Single Transferable Voting electoral system,—
-  (a) in the case of an election for multi-member vacancies, has the following features:—
+  (a) in the case of an election for multi-member vacancies, has the following features:
     (i) voters express a first preference for 1 candidate and may express second and further preferences for other candidates:
     (ii) a quota for election is calculated from the number of votes and positions to be filled:
     (iii) the first preferences are counted and any candidate whose first preference votes equal or exceed the quota is elected:
@@ -137,7 +136,7 @@ For local electoral purposes, the Single Transferable Voting electoral system,�
       (B) the candidate with the fewest votes is excluded:
     (v) the excluded candidate's votes are redistributed according to voters' further preferences:
     (vi) if insufficient candidates are elected under subparagraphs (iv) and (v), the steps described in subparagraphs (iv) and (v) are repeated until all positions are filled:
-  (b) in the case of an election for a mayoral or single member vacancy, has the following features:—
+  (b) in the case of an election for a mayoral or single member vacancy, has the following features:
     (i) voters express a first preference for 1 candidate and may express second and further preferences for other candidates:
     (ii) an absolute majority of votes for election is calculated from the number of votes and positions to be filled:
     (iii) the first preferences are counted and, if a candidate's first preference votes equal or exceed the absolute majority of votes, that candidate is elected:
@@ -150,7 +149,7 @@ This Act binds the Crown.
 
 ### 7 Application
 This Act applies to—
-  (a) every election of the Mayor of a territorial authority; and
+  (a) every election of the mayor of a territorial authority; and
   (b) every election of 1 or more members of a territorial authority; and
   (c) every election of 1 or more members of a regional council; and
   (d) every election of 1 or more members of a community board; and
@@ -234,7 +233,7 @@ Despite section 10, if a general election of any local authority or community bo
   (e) the processing and counting of votes:
   (f) the declaration of results:
   (g) receiving returns of electoral expenses:
-  (h) investigating possible offences and reporting alleged offences to the police.
+  (h) investigating possible offences and reporting alleged offences to the Police.
 (3) The electoral officer has all the powers and duties conferred on the electoral officer by this Act or any other enactment.
 (4) Subsections (1) and (2) are subject to sections 16 to 19.
 
@@ -252,13 +251,13 @@ If section 17 applies, and the election of 1 or more members of a local authorit
     (i) issuing and receiving ordinary and special votes and other official documents; and
     (ii) carrying out any power or duty delegated to that officer or officers under section 12(2)(a); or
     (iii) carrying out any power or duty that the officer or officers have been appointed or engaged to carry out under section 12(2)(b); and
-  (d) if any electors at the election or poll are in a local government area that is not within the district of a territorial authority, the duties referred to in paragraph (c) must, in respect of those electors, be carried out by 1 of the electoral officers referred to in that paragraph appointed by the local authority for whom the election is held or poll is taken.
+  (d) if any electors at the election or poll are in a local government area that is not within the district of a territorial authority, the duties referred to in paragraph (c) must, in respect of those electors, be carried out by one of the electoral officers referred to in that paragraph appointed by the local authority for whom the election is held or poll is taken.
 
 ### 19 Conduct of separate election or poll
 (1) If section 17 applies, but the election of 1 or more members of a local authority that is not a territorial authority or the poll of the electors of that authority is not to be conducted in conjunction with an election of members of any territorial authority or a poll of electors of that authority, the electoral officer of the local authority that is not a territorial authority may—
   (a) carry out all duties required by section 15(2); or
   (b) require the electoral officer or electoral officers of the territorial authorities wholly or partly within the local government area of the local authority that is not a territorial authority to take responsibility for carrying out any duty delegated to that person under section 12(2) by the electoral officer of the local authority for whom the election or poll is held or taken.
-(2) If any of the electors at the election or poll are in a local government area that is not within the district of a territorial authority and subsection (1)(b) applies, the duties referred to in subsection (1)(b) must, in respect of those electors, be carried out by 1 of the electoral officers referred to in that paragraph, appointed by the local authority for whom the election is held or poll is taken.
+(2) If any of the electors at the election or poll are in a local government area that is not within the district of a territorial authority and subsection (1)(b) applies, the duties referred to in subsection (1)(b) must, in respect of those electors, be carried out by one of the electoral officers referred to in that paragraph, appointed by the local authority for whom the election is held or poll is taken.
 
 **Duties of programmers and certifiers**
 
@@ -266,7 +265,7 @@ If section 17 applies, and the election of 1 or more members of a local authorit
 Every person responsible for the design of a counting program intended to implement the New Zealand method of counting single transferable votes must take all reasonable steps to ensure that the program produces outcomes that are consistent with the process specified in Schedule 1A of the Local Electoral Regulations 2001.
 
 ### 19AB Duties of certifiers
-A counting program may not be used at an election or poll under this Act, for the purpose of implementing the New Zealand method of counting single transferable votes, unless a certifier appointed for the purpose by the Secretary for Local Government has first certified that the program produces outcomes that are consistent with the process specified in Schedule 1A of the Local Electoral Regulations 2001
+A counting program may not be used at an election or poll under this Act, for the purpose of implementing the New Zealand method of counting single transferable votes, unless a certifier appointed for the purpose by the Secretary for Local Government has first certified that the program produces outcomes that are consistent with the process specified in Schedule 1A of the Local Electoral Regulations 2001.
 
 ## Part 1A — Representation arrangements for elections of territorial authorities, regional councils, and community boards
 
@@ -456,7 +455,7 @@ If the territorial authority or regional council receives any appeal under secti
 
 ### 19T Requirement for effective representation and other factors in determination of membership and basis of election of territorial authorities
 In determining the matters specified in paragraphs (a) to (d) of section 19H(1), the territorial authority and, where appropriate, the Commission must ensure—
-  (a) that the election of members of the territorial authority (other than the mayor), in 1 of the ways specified in subparagraphs (i) to (iii) of section 19H(1)(a), will provide effective representation of communities of interest within the district; and
+  (a) that the election of members of the territorial authority (other than the mayor), in one of the ways specified in subparagraphs (i) to (iii) of section 19H(1)(a), will provide effective representation of communities of interest within the district; and
   (b) that ward boundaries coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes; and
   (c) that, so far as is practicable, ward boundaries coincide with community boundaries.
 
@@ -481,7 +480,7 @@ In determining the matters specified in paragraphs (a) to (c) of section 19I(1),
 ### 19W Factors in determination of matters in relation to community boards
 In determining the matters specified in paragraphs (a) to (i) of section 19J(2), the territorial authority and, where appropriate, the Commission must ensure—
   (a) that, in the case of the matters specified in paragraphs (a) to (g) of section 19J(2), it has regard to such of the criteria as apply to reorganisation proposals under the Local Government Act 1974 or the Local Government Act 2002 as the territorial authority or the Commission considers appropriate in the circumstances; and
-  (b) that the election of members of the community board, in 1 of the ways specified in subparagraphs (i) to (iii) of section 19J(2)(h), will provide effective representation of communities of interest within the community and fair representation of electors; and
+  (b) that the election of members of the community board, in one of the ways specified in subparagraphs (i) to (iii) of section 19J(2)(h), will provide effective representation of communities of interest within the community and fair representation of electors; and
   (c) that the boundaries of every community, and of every subdivision of a community, coincide with the boundaries of the current statistical meshblock areas determined by Statistics New Zealand and used for parliamentary electoral purposes.
 
 ### 19X Certificate of Government Statistician
@@ -512,11 +511,11 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
   (a) it is to come into force at the next triennial general election, except so far as may be necessary to provide for that election; and
   (b) a copy must be kept at the office of the territorial authority or regional council, and must be available for inspection without fee by any person during normal office hours.
 
-**Maori wards and Maori constituencies**
+**Māori wards and Māori constituencies**
 
-### 19Z Territorial authority or regional council may resolve to establish Maori wards or Maori constituencies
-(1) Any territorial authority may resolve that the district be divided into 1 or more Maori wards for electoral purposes.
-(2) Any regional council may resolve that the region be divided into 1 or more Maori constituencies for electoral purposes.
+### 19Z Territorial authority or regional council may resolve to establish Māori wards or Māori constituencies
+(1) Any territorial authority may resolve that the district be divided into 1 or more Māori wards for electoral purposes.
+(2) Any regional council may resolve that the region be divided into 1 or more Māori constituencies for electoral purposes.
 (3) A resolution under this section,—
   (a) if made after a triennial general election but no later than 23 November of the year that is 2 years before the next triennial general election, takes effect, subject to paragraph (c), for the purposes of the next triennial general election of the territorial authority or regional council; and
   (b) in any other case, takes effect, subject to paragraph (c), for the purposes of the next but one triennial general election; and
@@ -534,8 +533,8 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
 
 ### 19ZA Public notice of right to demand poll
 (1) A territorial authority or regional council that passes a resolution under section 19Z must give public notice, not later than the required date, of the right to demand, under section 19ZB, a poll on the question whether,—
-  (a) in the case of a territorial authority, the district should be divided into 1 or more Maori wards; or
-  (b) in the case of a regional council, the region should be divided into 1 or more Maori constituencies.
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
 (2) The public notice under subsection (1) must include—
   (a) notice of the resolution under section 19Z; and
   (b) a statement that a poll is required to countermand that resolution.
@@ -546,8 +545,8 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
 
 ### 19ZB Electors may demand poll
 (1) A specified number of electors of a territorial authority or regional council may, at any time, demand that a poll be held on the question whether,—
-  (a) in the case of a territorial authority, the district should be divided into 1 or more Maori wards; or
-  (b) in the case of a regional council, the region should be divided into 1 or more Maori constituencies.
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
 (2) This section is subject to section 19ZE.
 (3) In this section and sections 19ZC and 19ZD,—
   - **demand** means a demand referred to in subsection (1)
@@ -557,7 +556,7 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
 (1) A demand must be made by notice in writing—
   (a) signed by a specified number of electors; and
   (b) delivered to the principal office of the territorial authority or regional council.
-(2) An elector may sign a demand and be treated as 1 of the specified number of electors only if,—
+(2) An elector may sign a demand and be treated as one of the specified number of electors only if,—
   (a) in the case of a territorial authority, the name of the elector appears on the electoral roll of the territorial authority; or
   (b) in the case of a regional council, the name of the elector appears on the electoral roll of a territorial authority and the elector's address as shown on that roll is within the region; or
   (c) in a case where the name of an elector does not appear on a roll in accordance with paragraph (a) or paragraph (b),—
@@ -579,8 +578,8 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
 
 ### 19ZD Territorial authority or regional council may resolve to hold poll
 (1) A territorial authority or regional council may, at any time, resolve that a poll be held on the question whether,—
-  (a) in the case of a territorial authority, the district should be divided into 1 or more Maori wards; or
-  (b) in the case of a regional council, the region should be divided into 1 or more Maori constituencies.
+  (a) in the case of a territorial authority, the district should be divided into 1 or more Māori wards; or
+  (b) in the case of a regional council, the region should be divided into 1 or more Māori constituencies.
 (2) A resolution under subsection (1) may, but need not, specify the date on which the poll is to be held.
 (3) The date specified for the holding of a poll must not be a date that would require deferral of the poll under section 138A.
 (4) The chief executive of the territorial authority or regional council must give notice to the electoral officer under subsection (1),—
@@ -588,10 +587,10 @@ In determining the matters specified in paragraphs (a) to (i) of section 19J(2),
   (b) if a date for the holding of the poll is specified in the resolution, at an appropriate time that will enable the poll to be conducted in accordance with section 19ZF(3).
 (5) This section is subject to section 19ZE.
 
-### 19ZE Limitation on division into Maori wards or Maori constituencies
+### 19ZE Limitation on division into Māori wards or Māori constituencies
 Sections 19Z to 19ZD do not apply, in relation to a territorial authority or regional council, if—
   (a) a poll on the proposal described in section 19ZB or section 19ZD held under section 19ZF took effect at the previous triennial general election of the territorial authority or regional council or takes effect at the next triennial general election of the territorial authority or regional council; or
-  (b) another enactment requires that the district be divided into 1 or more Maori wards or the region be divided into 1 or more Maori constituencies.
+  (b) another enactment requires that the district be divided into 1 or more Māori wards or the region be divided into 1 or more Māori constituencies.
 
 ### 19ZF Poll of electors
 (1) If the electoral officer for a territorial authority or regional council receives notice under section 19ZC(5) or section 19ZD(4), the electoral officer must, as soon as practicable after receiving that notice, give public notice of the poll under section 52.
@@ -601,30 +600,30 @@ Sections 19Z to 19ZD do not apply, in relation to a territorial authority or reg
   (b) the last notice referred to in subsection (2) is received.
 (4) Subsection (3) is subject to subsection (2), section 19ZC(4), and section 138A.
 (5) Every poll under this section that is held in conjunction with a triennial general election or held after that date but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held determines whether, for the next 2 triennial general elections for the territorial authority or regional council and any associated election,—
-  (a) the district of the territorial authority is to be divided into 1 or more Maori wards; or
-  (b) the region of the regional council is to be divided into 1 or more Maori constituencies.
+  (a) the district of the territorial authority is to be divided into 1 or more Māori wards; or
+  (b) the region of the regional council is to be divided into 1 or more Māori constituencies.
 (6) Every poll under this section that is held at some other time determines whether, for the next but one triennial general election and the following triennial general election for the territorial authority or regional council and any associated election,—
-  (a) the district of the territorial authority is to be divided into 1 or more Maori wards; or
-  (b) the region of the regional council is to be divided into 1 or more Maori constituencies.
+  (a) the district of the territorial authority is to be divided into 1 or more Māori wards; or
+  (b) the region of the regional council is to be divided into 1 or more Māori constituencies.
 (7) Subsections (5) and (6) are subject to clauses 2(5) and 4(4) of Schedule 1A.
 
 ### 19ZG Effect of poll
 (1) Subsection (2) applies to a poll held in conjunction with a triennial general election or held after that election but not later than 21 May in the year immediately before the year in which the next triennial general election is to be held.
-(2) If the result of a poll to which this subsection applies requires the division of the district of a territorial authority into 1 or more Maori wards, or the division of the region of a regional council into 1 or more Maori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
+(2) If the result of a poll to which this subsection applies requires the division of the district of a territorial authority into 1 or more Māori wards, or the division of the region of a regional council into 1 or more Māori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
   (a) in the case of a territorial authority, for the next 2 triennial general elections of the territorial authority, and any associated election; and
   (b) in the case of a regional council, for the next 2 triennial general elections of the regional council, and any associated election; and
   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
 (3) Subsection (4) applies to a poll held at some other time.
-(4) If the result of a poll to which this subsection applies requires the division of a territorial authority into 1 or more Maori wards, or the division of the region of a regional council into 1 or more Maori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
+(4) If the result of a poll to which this subsection applies requires the division of a territorial authority into 1 or more Māori wards, or the division of the region of a regional council into 1 or more Māori constituencies, that district or region must be divided into those wards or constituencies, as the case requires,—
   (a) in the case of a territorial authority, for the next but one triennial general election and the following triennial general election of the territorial authority, and any associated election; and
   (b) in the case of a regional council, for the next but one triennial general election and the following triennial general election of the regional council, and any associated election; and
   (c) for all subsequent triennial general elections, elections to fill extraordinary vacancies, and elections called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, until a further resolution under section 19Z takes effect or a further poll held under section 19ZF takes effect, whichever occurs first.
 (5) This section is subject to clauses 2(5) and 4(4) of Schedule 1A.
 
 ### 19ZH Basis of election of territorial authority and regional council
-If, for the purpose of a triennial general election,—
-  (a) a district of a territorial authority is required to be divided into 1 or more Maori wards; or
-  (b) a region of a regional council is required to be divided into 1 or more Maori constituencies,—the provisions of this Part (other than those of sections 19B, 19G, and 19J, and those of this section) are subject to the provisions of Schedule 1A.
+If, for the purpose of a triennial general election,—the provisions of this Part (other than those of sections 19B, 19G, and 19J, and those of this section) are subject to the provisions of Schedule 1A.
+  (a) a district of a territorial authority is required to be divided into 1 or more Māori wards; or
+  (b) a region of a regional council is required to be divided into 1 or more Māori constituencies,—
 
 **Guidelines**
 
@@ -679,57 +678,57 @@ Every parliamentary elector is qualified as a residential elector of a local gov
   (b) that person is nominated to be enrolled as a ratepayer elector in respect of a rating unit within the region, district, or community, owned by 1 or more ratepayers, none of whom is qualified as a residential elector within the region, district, or community.
 (2) Subsection (1) does not authorise the nomination of different persons by the same ratepayer or ratepayers in respect of different properties within the same region, district, or community.
 
-### 24A Electors of Maori wards
-(1) In the case of a triennial general election, every residential elector of a district who, on the day before polling day for the election,—
-  (a) is registered as a parliamentary elector at an address within a Maori ward; and
-  (b) is registered as an elector of a Maori electoral district,—is, at that triennial general election, an elector of that Maori ward.
-(2) In the case of a triennial general election, every person who, on the day before polling day for the election, is a ratepayer elector of a district—
-  (a) whose entitlement as an elector arises in respect of property in a Maori ward; and
-  (b) who is registered as an elector of a Maori electoral district,—is, at that general election, an elector of that Maori ward.
-(3) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every residential elector of a district who, on the day before polling day for the election,—
-  (a) is registered as a parliamentary elector at an address within a Maori ward; and
-  (b) is registered as an elector of a Maori electoral district,—is, at that election, an elector of that Maori ward.
-(4) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of a district—
-  (a) whose entitlement as an elector arises in respect of property in a Maori ward; and
-  (b) who is registered as a elector of a Maori electoral district,—is, at the election, an elector of that Maori ward.
+### 24A Electors of Māori wards
+(1) In the case of a triennial general election, every residential elector of a district who, on the day before polling day for the election,—is, at that triennial general election, an elector of that Māori ward.
+  (a) is registered as a parliamentary elector at an address within a Māori ward; and
+  (b) is registered as an elector of a Māori electoral district,—
+(2) In the case of a triennial general election, every person who, on the day before polling day for the election, is a ratepayer elector of a district—is, at that general election, an elector of that Māori ward.
+  (a) whose entitlement as an elector arises in respect of property in a Māori ward; and
+  (b) who is registered as an elector of a Māori electoral district,—
+(3) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every residential elector of a district who, on the day before polling day for the election,—is, at that election, an elector of that Māori ward.
+  (a) is registered as a parliamentary elector at an address within a Māori ward; and
+  (b) is registered as an elector of a Māori electoral district,—
+(4) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of a district—is, at the election, an elector of that Māori ward.
+  (a) whose entitlement as an elector arises in respect of property in a Māori ward; and
+  (b) who is registered as a elector of a Māori electoral district,—
 
 ### 24B Voting rights at triennial general election of territorial authority
-(1) A person who, under section 24A, is an elector of a Maori ward of a territorial authority is, at a triennial general election,—
+(1) A person who, under section 24A, is an elector of a Māori ward of a territorial authority is, at a triennial general election,—
   (a) entitled to vote—
     (i) at the election of the mayor; and
-    (ii) at the election of the member or members who will represent that Maori ward; and
+    (ii) at the election of the member or members who will represent that Māori ward; and
     (iii) at the election of the member or members (if any) to be elected to represent the whole of the district; and
-    (iv) at the election of the member or members of the appropriate community board (if any) situated within or partly within the Maori ward; but
+    (iv) at the election of the member or members of the appropriate community board (if any) situated within or partly within the Māori ward; but
   (b) not entitled to vote at the election of the member or members who will represent any other ward of the territorial authority.
-(2) No other person is entitled, at a triennial general election, to vote at the election of the member or members who will represent that Maori ward of that territorial authority.
+(2) No other person is entitled, at a triennial general election, to vote at the election of the member or members who will represent that Māori ward of that territorial authority.
 
-### 24C Voting rights at election to fill extraordinary vacancy in respect of Maori ward
-(1) A person who, under section 24A, is an elector of a Maori ward of a territorial authority is, at any election to fill an extraordinary vacancy in the office of a member who represents that Maori ward, entitled to vote at that election.
-(2) No other person is entitled to vote at any election to fill an extraordinary vacancy in the office of a member who will represent that Maori ward of that territorial authority.
+### 24C Voting rights at election to fill extraordinary vacancy in respect of Māori ward
+(1) A person who, under section 24A, is an elector of a Māori ward of a territorial authority is, at any election to fill an extraordinary vacancy in the office of a member who represents that Māori ward, entitled to vote at that election.
+(2) No other person is entitled to vote at any election to fill an extraordinary vacancy in the office of a member who will represent that Māori ward of that territorial authority.
 
-### 24D Electors of Maori constituencies
-(1) In the case of a triennial general election, every residential elector of a region who, on the day before polling day for the election,—
-  (a) is registered as an elector at an address within a Maori constituency; and
-  (b) is registered as an elector of a Maori electoral district,—is, at that triennial general election, an elector of that Maori constituency.
-(2) In the case of a triennial general election, every person who, on the day before polling day for the election, is a ratepayer elector of a region—
-  (a) whose entitlement as an elector arises in respect of property in a Maori constituency; and
-  (b) who is registered as an elector of a Maori electoral district,—is, at that triennial general election, an elector of that Maori constituency.
-(3) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every residential elector of a region who, on the day before polling day for the election,—
-  (a) is registered as a parliamentary elector at an address within a Maori constituency; and
-  (b) is registered as an elector of a Maori electoral district,—is, at that election, an elector of that Maori constituency.
-(4) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of the region—
-  (a) whose entitlement as an elector arises in respect of property in a Maori constituency; and
-  (b) who is registered as an elector of a Maori electoral district,—is, at that election, an elector of that Maori constituency.
+### 24D Electors of Māori constituencies
+(1) In the case of a triennial general election, every residential elector of a region who, on the day before polling day for the election,—is, at that triennial general election, an elector of that Māori constituency.
+  (a) is registered as an elector at an address within a Māori constituency; and
+  (b) is registered as an elector of a Māori electoral district,—
+(2) In the case of a triennial general election, every person who, on the day before polling day for the election, is a ratepayer elector of a region—is, at that triennial general election, an elector of that Māori constituency.
+  (a) whose entitlement as an elector arises in respect of property in a Māori constituency; and
+  (b) who is registered as an elector of a Māori electoral district,—
+(3) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every residential elector of a region who, on the day before polling day for the election,—is, at that election, an elector of that Māori constituency.
+  (a) is registered as a parliamentary elector at an address within a Māori constituency; and
+  (b) is registered as an elector of a Māori electoral district,—
+(4) In the case of an election to fill an extraordinary vacancy or an election called under section 255(1)(b) or Schedule 15 of the Local Government Act 2002, every person who, on the day before polling day for the election, is a ratepayer elector of the region—is, at that election, an elector of that Māori constituency.
+  (a) whose entitlement as an elector arises in respect of property in a Māori constituency; and
+  (b) who is registered as an elector of a Māori electoral district,—
 
 ### 24E Voting rights at triennial general election of regional council
-(1) A person who, under section 24D, is an elector of a Maori constituency of a regional council is, at a triennial general election,—
+(1) A person who, under section 24D, is an elector of a Māori constituency of a regional council is, at a triennial general election,—
   (a) entitled to vote at the election of the member or members who will represent that constituency; but
   (b) not entitled to vote at the election of the member or members who will represent any other constituency of the regional council.
-(2) No other person is entitled, at a triennial general election, to vote at the election of the member or members who will represent that Maori constituency of that regional council.
+(2) No other person is entitled, at a triennial general election, to vote at the election of the member or members who will represent that Māori constituency of that regional council.
 
-### 24F Voting rights at election to fill extraordinary vacancy in respect of Maori constituency
-(1) A person who, under section 24D, is an elector of a Maori constituency of a regional council is, at any election to fill an extraordinary vacancy in the office of a member who represents that Maori constituency, entitled to vote at that election.
-(2) No other person is entitled to vote at any election to fill an extraordinary vacancy in the office of a member who will represent that Maori constituency of that regional council.
+### 24F Voting rights at election to fill extraordinary vacancy in respect of Māori constituency
+(1) A person who, under section 24D, is an elector of a Māori constituency of a regional council is, at any election to fill an extraordinary vacancy in the office of a member who represents that Māori constituency, entitled to vote at that election.
+(2) No other person is entitled to vote at any election to fill an extraordinary vacancy in the office of a member who will represent that Māori constituency of that regional council.
 
 ### 25 Candidate qualifications
 (1) Every parliamentary elector is qualified to be a candidate at every election to be held under this Act if that person is a New Zealand citizen.
@@ -775,7 +774,7 @@ Two or more electors of a local government area or, in the case of an election i
 (1) A demand must be made by notice in writing—
   (a) signed by a specified number of electors; and
   (b) delivered to the principal office of the local authority.
-(2) An elector may sign a demand and be treated as 1 of the specified number of electors only if—
+(2) An elector may sign a demand and be treated as one of the specified number of electors only if—
   (a) the name of that elector appears,—
     (i) in the case of a territorial authority, on the electoral roll of the territorial authority; and
     (ii) in the case of any other local authority, on the electoral roll of any territorial authority or other local authority as the name of a person eligible to vote in an election of that local authority; or
@@ -825,7 +824,7 @@ Sections 27 to 31 do not apply if—
 (5) Every poll under this section that is held at some other time determines whether the electoral system to be used at the next but one triennial general election of the local authority and its community boards (if any) and any associated election is to be—
   (a) the electoral system used at the previous general election of the local authority; or
   (b) the electoral system specified in any resolution under section 27; or
-  (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under section 30(4) and, if notice of more than 1 such demand is received, 1 of the systems specified in those demands and, if so, which one; or
+  (c) the electoral system specified in any demand submitted within the appropriate period of which the electoral officer has received notice under section 30(4) and, if notice of more than 1 such demand is received, one of the systems specified in those demands and, if so, which one; or
   (d) the electoral system specified in any resolution of which the electoral officer has received notice under section 31(3).
 
 ### 34 Effect of poll
@@ -846,7 +845,7 @@ Sections 27 to 31 do not apply if—
   (b) for the purposes of 2 or more polls that are to be conducted at the same time.
 (2) If a poll is to be conducted for a local authority and there is no applicable resolution, that poll must be conducted using the electoral system commonly known as First Past the Post.
 
-**Voting method**
+**Voting methods**
 
 ### 36 Voting method for elections and polls
 (1) Every election or poll conducted for a local authority must be conducted using 1 or more methods of voting adopted by resolution of the local authority—
@@ -888,7 +887,7 @@ The name of any person must not appear more than once in the same electoral roll
 
 ### 41 Supply of information by Chief Registrar of Electors
 (1) If the electoral officer wishes to find out whether any person is qualified as a ratepayer elector under section 24 and is registered as a parliamentary elector in respect of an address outside the region, district, or community, the Chief Registrar of Electors, on the request of the electoral officer, must inform the electoral officer whether that person is registered as a parliamentary elector in respect of that address.
-(2) The electoral officer may request the Chief Registrar of Electors to inform the electoral officer if any person who is qualified as a ratepayer of a region, district, or community is registered as a parliamentary elector of a Maori electoral district.
+(2) The electoral officer may request the Chief Registrar of Electors to inform the electoral officer if any person who is qualified as a ratepayer of a region, district, or community is registered as a parliamentary elector of a Māori electoral district.
 (3) If the Chief Registrar of Electors receives a request under subsection (2), the Chief Registrar must provide the information requested by the electoral officer, if the electoral officer has provided adequate identifying information.
 
 ### 42 Roll to be available for public inspection
@@ -1022,7 +1021,7 @@ In the case of a poll, a notice under section 52 must also—
 ### 56 Name of candidate
 An electoral officer must not accept the nomination of a candidate if the electoral officer is not satisfied, by the evidence (if any) that the electoral officer requires, that the name under which the candidate is nominated is—
   (a) the name under which the candidate's birth was registered; or
-  (b) the name which the candidate adopted by deed poll or by statutory declaration under section 21 of the Births, Deaths, and Marriages Registration Act 1995, at least 6 months before nomination day; or
+  (b) the name which the candidate adopted by deed poll or by statutory declaration under Part 3 of the Births, Deaths, Marriages, and Relationships Registration Act 1995, at least 6 months before nomination day; or
   (c) the name by which the candidate was commonly known during the 6 months before nomination day, not being a name that—
     (i) might cause offence to a reasonable person; or
     (ii) is unreasonably long; or
@@ -1050,7 +1049,7 @@ No person may, at the same time, be a candidate for election for more than 1 war
   - **constituent authority** , in relation to any region, means—
     (a) a territorial authority having jurisdiction over a constituent district; or
     (b) a community board for a community that is wholly or partly within the region
-  - **member** , in relation to a constituent authority, includes a Mayor.
+  - **member** , in relation to a constituent authority, includes a mayor.
 (2) No person may, at the same time, be both a candidate for election to a regional council for a region and a candidate for election to a constituent authority of that region.
 (3) No member of a constituent authority of a region may be a candidate for election to the regional council for the region.
 (4) No member of a regional council for a region may be a candidate for election to a constituent authority of that region.
@@ -1083,13 +1082,13 @@ No person may, at the same time, be a candidate for election for more than 1 war
 (1) Every candidate may provide to the electoral officer a candidate profile statement that complies with subsection (2) and, if applicable, subsection (3).
 (2) A candidate profile statement,—
   (a) if—
-    (i) in English or Maori or both, must not exceed 150 words in each of the languages used in the statement:
-    (ii) in a language other than English or Maori, must not exceed 150 words, or the equivalent, if the language uses symbols rather than words (including any translation of those words into another language provided by the candidate); and
+    (i) in English or Māori or both, must not exceed 150 words in each of the languages used in the statement:
+    (ii) in a language other than English or Māori, must not exceed 150 words, or the equivalent, if the language uses symbols rather than words (including any translation of those words into another language provided by the candidate); and
   (b) must be provided to the electoral officer before 12 noon on nomination day; and
   (c) must be confined to information concerning the candidate (including any group or organisation with which the candidate claims under section 55(4) to be affiliated, or his or her status as an independent candidate, and the candidate's contact details), and the candidate's policies and intentions if elected to office; and
   (d) must comply with any prescribed requirements; and
   (e) may include a recent photograph of the candidate alone.
-(3) If a candidate profile statement is submitted in Maori and English, the information contained in each language must be substantially consistent with the information contained in the other language.
+(3) If a candidate profile statement is submitted in Māori and English, the information contained in each language must be substantially consistent with the information contained in the other language.
 (4) If the electoral officer is not satisfied that a candidate profile statement complies with subsection (2) or, if applicable, subsection (3), the electoral officer must, as soon as practicable, return the statement to the candidate and must—
   (a) specify the concerns of the electoral officer and the reasons for those concerns; and
   (b) unless the candidate profile statement does not comply with subsection (2)(b), specify a period, which must not be less than 3 days from the date of return of the statement, during which the candidate may submit an amended candidate profile statement to the electoral officer.
@@ -1127,7 +1126,7 @@ If, at the close of nominations for an election, the number of candidates is les
   (b) state the day and time at which the voting period begins and ends; and
   (c) state the electoral system to be used for the election or poll; and
   (d) state the voting method or voting methods to be used for the election or poll; and
-  (da) state whether a resolution has been made under section 79 that voting documents are to be processed during the voting period; and.
+  (da) state whether a resolution has been made under section 79 that voting documents are to be processed during the voting period; and
   (e) contain any other information that is required or allowed to be included in the notice by regulations made under this Act.
 (3) In the case of an election, a notice under subsection (1) must also state the number of vacancies to be filled and the names and affiliations, if any, of the candidates.
 (4) A notice under subsection (1) may also contain any other information relating to the conduct of the election or poll that the electoral officer considers desirable to encourage participation by electors in the election or poll.
@@ -1138,7 +1137,7 @@ If, at the close of nominations for an election, the number of candidates is les
 A candidate may, by notice in writing, appoint 1 or more scrutineers for the purposes of an election.
 
 ### 67 Scrutineers at poll
-Any 10 or more electors who are in favour of or opposed to any 1 proposal at a poll may, by notice in writing, appoint 1 or more scrutineers for the purposes of the poll.
+Any 10 or more electors who are in favour of or opposed to any one proposal at a poll may, by notice in writing, appoint 1 or more scrutineers for the purposes of the poll.
 
 ### 68 General rules affecting scrutineers
 (1) An appointment under section 66 or section 67 is not valid unless a copy of the notice of appointment is delivered by the candidate, or the 10 electors, as the case may be, to the electoral officer not less than 24 hours before the close of voting at the election or poll.
@@ -1147,7 +1146,7 @@ Any 10 or more electors who are in favour of or opposed to any 1 proposal at a p
   (a) a candidate, in the case of an election; or
   (b) a member or employee of any local authority or community board for whom an election or poll is being conducted; or
   (c) under the age of 18 years.
-(4) Not more than 1 scrutineer for any candidate or for or against any 1 proposal may be present at the same place, for the purposes of performing his or her duties as a scrutineer, at the same time.
+(4) Not more than 1 scrutineer for any candidate or for or against any one proposal may be present at the same place, for the purposes of performing his or her duties as a scrutineer, at the same time.
 (5) Subject to subsection (4), any scrutineer—
   (a) may be present when—
     (i) any step referred to in section 80 is being completed after the close of voting; or
@@ -1197,7 +1196,7 @@ A candidate may retire by delivering to the electoral officer a notice in writin
 **Adjourned elections or polls**
 
 ### 73 Adjournment of election or poll
-(1) This section applies if the electoral officer believes on reasonable grounds that electors are, or are likely to be, denied a reasonable opportunity to cast a valid vote at an election or poll because of
+(1) This section applies if the electoral officer believes on reasonable grounds that electors are, or are likely to be, denied a reasonable opportunity to cast a valid vote at an election or poll because of—
   (a) natural disaster; or
   (b) adverse weather conditions; or
   (c) the breakdown of communication or energy services; or
@@ -1212,9 +1211,9 @@ A candidate may retire by delivering to the electoral officer a notice in writin
 The electoral officer must take all reasonable steps to ensure that—
   (a) the security of voting documents and other electoral records is maintained; and
   (b) voting documents and other electoral records are dealt with in the prescribed manner; and
-  (c) No electoral official, Justice of the Peace, or scrutineer discloses any information as to any candidate for whom, or the proposal for which, the voter is about to vote or has voted unless that disclosure—
+  (c) no electoral official, Justice of the Peace, or scrutineer discloses any information as to any candidate for whom, or the proposal for which, the voter is about to vote or has voted unless that disclosure—
     (i) is required to conduct the count; or
-    (ii) is otherwise authorised by law or any Court of competent jurisdiction; and
+    (ii) is otherwise authorised by law or any court of competent jurisdiction; and
   (d) the processing and counting of votes, and the scrutiny of the electoral roll, are conducted in a manner that facilitates checking of the processes adopted to conduct those duties (whether at a recount, inquiry, or otherwise).
 
 ### 75 What voting documents for election must contain
@@ -1258,7 +1257,7 @@ The electoral officer must take all reasonable steps to ensure that—
   (b) the secrecy of the vote is maintained.
 
 ### 77 Approval of voting documents for use at elections and polls
-A voting document may not be used at an election or poll unless it is consistent with at least one of the general formats that have been approved for use by the Secretary for Local Government or a person appointed by the Secretary for the purpose of approving formats for voting documents under this section.
+A voting document may not be used at an election or poll unless it is consistent with at least 1 of the general formats that have been approved for use by the Secretary for Local Government or a person appointed by the Secretary for the purpose of approving formats for voting documents under this section.
 
 ### 78 Voting
 (1) An elector may cast a vote using a voting document during the voting period in accordance with regulations made under this Act.
@@ -1299,10 +1298,10 @@ A voting document may not be used at an election or poll unless it is consistent
 (1) Immediately after the close of voting, the electoral officer must, in the presence of those scrutineers who choose to be present and any Justice of the Peace appointed under section 82 who chooses to be present, count the votes cast at the election or poll in accordance with—
   (a) the procedures prescribed for counting in respect of the electoral system used for the election or poll; and
   (b) the procedures prescribed for counting in respect of the voting method or voting methods used at the election or poll.
-(2) Subsections (3) to (5) apply if elections for the position of Mayor and a member or members of the territorial authority are held at the same time using either the Single Transferable Voting electoral system or the First Past the Post electoral system.
-(3) If the electoral officer is satisfied, after the close of voting, that any person who is a candidate for the position of Mayor and is also a candidate at the election of the member or members of the territorial authority will be declared to be elected as Mayor, the electoral officer must endorse that opinion on the candidate's nomination form for the position of Mayor.
+(2) Subsections (3) to (5) apply if elections for the position of mayor and a member or members of the territorial authority are held at the same time using either the Single Transferable Voting electoral system or the First Past the Post electoral system.
+(3) If the electoral officer is satisfied, after the close of voting, that any person who is a candidate for the position of mayor and is also a candidate at the election of the member or members of the territorial authority will be declared to be elected as mayor, the electoral officer must endorse that opinion on the candidate's nomination form for the position of mayor.
 (4) If the electoral officer makes an endorsement under subsection (3), that candidate ceases to be available for election, and cannot be elected at the election of the member or members of the territorial authority.
-(5) If, for any reason, a person is declared to be elected as Mayor and that person is also elected to be a member of the territorial authority, section 88 applies.
+(5) If, for any reason, a person is declared to be elected as mayor and that person is also elected to be a member of the territorial authority, section 88 applies.
 (5A) Subsections (5B) to (5D) apply if elections for the position of a member or members of a territorial authority and a member or members of any of its community boards are held at the same time using either the Single Transferable Voting electoral system or the First Past the Post electoral system.
 (5B) If the electoral officer is satisfied, after the close of voting, that any person who is a candidate for the position of member of a territorial authority and is also a candidate at the election of the member or members of any of its community boards will be declared to be elected as a member of the territorial authority, the electoral officer must endorse that opinion on the candidate's nomination form for the position of member of the territorial authority.
 (5C) If the electoral officer makes an endorsement under subsection (5B), that candidate ceases to be available for election, and cannot be elected at the election of the member or members of the community board.
@@ -1335,20 +1334,20 @@ The electoral officer conducting an election or poll must give public notice dec
 (4) If subsection (3) applies, any votes in the election must not be counted, but all other provisions of this Act and regulations made under this Act relating to the secrecy of the vote and security of election records apply in respect of that election.
 (5) If subsection (3) applies, a new election must be held and the provisions of section 102 apply accordingly, with any necessary modifications.
 
-### 88 What happens if same person elected as Mayor and another member
-(1) If, at any elections for the Mayor and a member or members of a territorial authority held at the same time, a person is declared to be elected as the Mayor and that person is also elected to be another member (and that person is not deprived of either office by a recount under section 92 or on a petition under section 93), that person is to be treated as having vacated office as another member.
+### 88 What happens if same person elected as mayor and another member
+(1) If, at any elections for the mayor and a member or members of a territorial authority held at the same time, a person is declared to be elected as the mayor and that person is also elected to be another member (and that person is not deprived of either office by a recount under section 92 or on a petition under section 93), that person is to be treated as having vacated office as another member.
 (2) If subsection (1) applies and the elections were conducted using the First Past the Post electoral system, then,—
   (a) subject to paragraph (b), the electoral officer conducting the election must give an amended declaration under section 86 declaring the highest polling unelected candidate at the election to be elected; and
-  (b) if the district of the territorial authority is divided into wards for electoral purposes, the electoral officer conducting the election must give an amended declaration under section 86 declaring the highest polling unelected candidate at the election in the ward at which the person elected as Mayor was also elected as another member to be elected.
+  (b) if the district of the territorial authority is divided into wards for electoral purposes, the electoral officer conducting the election must give an amended declaration under section 86 declaring the highest polling unelected candidate at the election in the ward at which the person elected as mayor was also elected as another member to be elected.
 (3) If subsection (1) applies and the elections were conducted using the Single Transferable Voting electoral system, then,—
   (a) subject to paragraph (b), the electoral officer must—
-    (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected if the person elected as Mayor had not stood at the election; and
+    (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected if the person elected as mayor had not stood at the election; and
     (ii) give an amended declaration under section 86 declaring that unelected candidate to be elected:
   (b) if the district of the territorial authority is divided into wards for electoral purposes, the electoral officer conducting the election must—
-    (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected at the election in the ward at which the person who was elected as Mayor was also elected as another member, if the person elected as Mayor had not stood at that election; and
+    (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected at the election in the ward at which the person who was elected as mayor was also elected as another member, if the person elected as mayor had not stood at that election; and
     (ii) give an amended declaration under section 86 declaring that unelected candidate to be elected.
 (4) In every case to which subsection (2) or subsection (3) applies, the period of 21 days referred to in section 93(2) in respect of the person declared by that amended declaration to be elected as a member, begins to run from the date of the amended declaration.
-(5) If there is no other candidate who may lawfully be declared to be elected by means of the amended declaration, an extraordinary vacancy in the office of member is to be treated as having occurred on the date on which the Mayor came into office as Mayor.
+(5) If there is no other candidate who may lawfully be declared to be elected by means of the amended declaration, an extraordinary vacancy in the office of member is to be treated as having occurred on the date on which the mayor came into office as mayor.
 
 ### 88A What happens if same person elected to both territorial authority and community board
 (1) This section applies if, at any elections held at the same time for a member or members of a territorial authority and a member or members of a community board constituted in respect of part of the district of the territorial authority, a person is declared to be elected as a member of the territorial authority and that person is also declared to be elected as a member of the community board (and that person is not deprived of either office by a recount under section 92 or on a petition under section 93).
@@ -1368,7 +1367,7 @@ If section 88A applies and the elections were conducted using the Single Transfe
   (b) if the part of the district in respect of which the community is constituted is divided into wards or subdivisions for electoral purposes, the electoral officer conducting the election must—
     (i) determine, in accordance with any regulations made under this Act, the unelected candidate who would have been declared to be elected (at the election in the ward or subdivision at which the person who was elected as a member of the territorial authority was also elected as a member of the community board) if the person elected as a member of the territorial authority had not stood at that election; and
     (ii) give an amended declaration under section 86 declaring that unelected candidate to be elected:
-  (c) the electoral officer must, in determining for the purposes of paragraph (a) or paragraph (b) the unelected candidate who is to be declared b the amended declaration to be elected, treat all persons who were elected as members of the territorial authority as if they had never stood for election as members of the community board.
+  (c) the electoral officer must, in determining for the purposes of paragraph (a) or paragraph (b) the unelected candidate who is to be declared by the amended declaration to be elected, treat all persons who were elected as members of the territorial authority as if they had never stood for election as members of the community board.
 
 ### 88D Application of provision relating to petition for inquiry
 In every case to which section 88B or section 88C applies, the period of 21 days referred to in section 93(2) in respect of the person declared by that amended declaration to be elected as a member of the community board begins to run from the date of the amended declaration.
@@ -1401,7 +1400,7 @@ In every case to which section 88B or section 88C applies, the period of 21 days
 ### 90 Application for recount
 (1) If any candidate has reason to believe that the public declaration by the electoral officer of the number of votes received by any candidate is incorrect, and that on a recount of those votes the first-mentioned candidate might be elected, he or she may, within 3 days after the public declaration, apply to a District Court Judge for a recount of the votes.
 (2) Every application for a recount must be accompanied by the prescribed deposit.
-(3) If the District Court Judge is satisfied that the applicant has reasonable grounds to believe that the declaration is incorrect and that on a recount the applicant might be elected, the District Court Judge must, as soon as practicable after receiving the application, and the deposit required by sub-section (2),—
+(3) If the District Court Judge is satisfied that the applicant has reasonable grounds to believe that the declaration is incorrect and that on a recount the applicant might be elected, the District Court Judge must, as soon as practicable after receiving the application, and the deposit required by subsection (2),—
   (a) cause a recount of the votes to be made; and
   (b) give notice in writing to the electoral officer and to each of the candidates and to each scrutineer appointed under section 66 or section 91 of the time and place at which the recount will be made.
 
@@ -1430,7 +1429,7 @@ In every case to which section 88B or section 88C applies, the period of 21 days
   (c) be accompanied by the prescribed deposit; and
   (d) specify the specific grounds on which the complaint is based; and
   (e) be heard and determined by a District Court Judge.
-(3) If a petition under subsection (1) is filed at a District Court, the Registrar of that Court must immediately send a copy of the petition to the electoral officer.
+(3) If a petition under subsection (1) is filed at a District Court, the Registrar of that court must immediately send a copy of the petition to the electoral officer.
 
 ### 94 Specified grounds only to be investigated
 (1) No grounds other than those stated in the petition may be investigated, except with the leave of the District Court Judge hearing the petition.
@@ -1545,10 +1544,10 @@ In this Part,—
 (1) If a candidate, in the case of a claim for electoral expenses sent in to him or her within the time allowed by this Act, disputes it, or fails to pay it within 60 days,—
   (a) the claim is a disputed claim; and
   (b) the claimant may, if he or she thinks fit, within a further 30 days, bring an action for the disputed claim in any court of competent jurisdiction.
-(2) Any sum paid by the candidate to satisfy the judgment or order of the Court in any action referred to in subsection (1) is to be treated as paid within the time allowed by this Act.
+(2) Any sum paid by the candidate to satisfy the judgment or order of the court in any action referred to in subsection (1) is to be treated as paid within the time allowed by this Act.
 
 ### 107 Leave to pay claim after time limited
-(1) A District Court may, on the application of the claimant or the candidate, grant leave to the candidate to pay a disputed claim, or to pay a claim for any electoral expenses, even though it is sent in after the time allowed by this Act, if the Court considers it in the interests of justice to grant that leave.
+(1) A District Court may, on the application of the claimant or the candidate, grant leave to the candidate to pay a disputed claim, or to pay a claim for any electoral expenses, even though it is sent in after the time allowed by this Act, if the court considers it in the interests of justice to grant that leave.
 (2) Any sum specified in the order granting that leave may be paid by the candidate and, when paid, is to be treated as paid within the time allowed by this Act.
 
 ### 108 Payments to be vouched by bill
@@ -1574,17 +1573,17 @@ The electoral officer must keep every return under section 109 in the electoral 
 
 ### 111 Maximum amount of electoral expenses
 (1) The total electoral expenses (inclusive of goods and services tax) of a candidate must not—
-  (a) exceed $3,500 if any local government area over which the election is held has a population smaller than 5000:
-  (b) exceed $7,000 if any local government area over which the election is held has a population smaller than 10 000 and larger than 4999:
-  (c) exceed $14,000 if any local government area over which the election is held has a population smaller than 20000 and larger than 9999:
-  (d) exceed $20,000 if any local government area over which the election is held has a population smaller than 40000 and larger than 19999:
-  (e) exceed $30,000 if any local government area over which the election is held has a population smaller than 60000 and larger than 39999:
-  (f) exceed $40,000 if any local government area over which the election is held has a population smaller than 80000 and larger than 59999:
-  (g) exceed $50,000 if any local government area over which the election is held has a population smaller than 100000 and larger than 79999:
-  (h) exceed $55,000 if any local government area over which the election is held has a population smaller than 150000 and larger than 99999:
-  (i) exceed $60,000 if any local government area over which the election is held has a population smaller than 250000 and larger than 149999:
-  (j) exceed $70,000 if any local government area over which the election is held has a population of 250000 or more.
-(2) Despite subsection (1), if a candidate is a candidate for more than 1 election held at the same time, the total electoral expenses (inclusive of goods and services tax) of that candidate must not exceed the highest amount permitted under subsection (1) in respect of any 1 of the elections for which the person is a candidate.
+  (a) exceed $3,500 if any local government area over which the election is held has a population smaller than 5 000:
+  (b) exceed $7,000 if any local government area over which the election is held has a population smaller than 10 000 and larger than 4 999:
+  (c) exceed $14,000 if any local government area over which the election is held has a population smaller than 20 000 and larger than 9 999:
+  (d) exceed $20,000 if any local government area over which the election is held has a population smaller than 40 000 and larger than 19 999:
+  (e) exceed $30,000 if any local government area over which the election is held has a population smaller than 60 000 and larger than 39 999:
+  (f) exceed $40,000 if any local government area over which the election is held has a population smaller than 80 000 and larger than 59 999:
+  (g) exceed $50,000 if any local government area over which the election is held has a population smaller than 100 000 and larger than 79 999:
+  (h) exceed $55,000 if any local government area over which the election is held has a population smaller than 150 000 and larger than 99 999:
+  (i) exceed $60,000 if any local government area over which the election is held has a population smaller than 250 000 and larger than 149 999:
+  (j) exceed $70,000 if any local government area over which the election is held has a population of 250 000 or more.
+(2) Despite subsection (1), if a candidate is a candidate for more than 1 election held at the same time, the total electoral expenses (inclusive of goods and services tax) of that candidate must not exceed the highest amount permitted under subsection (1) in respect of any one of the elections for which the person is a candidate.
 
 ### 112 Apportionment of electoral expenses
 (1) If any activity of the kind described in paragraphs (a) to (d) of the definition of the term electoral activity (as set out in section 104) is, in relation to a candidate at an election, carried on both before and within the applicable period before the close of polling day,—
@@ -1632,8 +1631,8 @@ Sections 111 and 112 do not validate any use of public money that would otherwis
   (a) that the vacancy will be filled by the appointment by the local authority or community board of a person named in the resolution who is qualified to be elected as a member; or
   (b) that the vacancy is not to be filled.
 (4) If for any reason the person specified in the resolution is unavailable, or otherwise unable to be notified of the appointment, a further vacancy occurs in that office.
-(5) Despite subsection (3), if the vacancy is for the office of Mayor, the vacancy must not be left unfilled but must be filled by appointment of 1 of the other members of the local authority as Mayor.
-(6) If any member is appointed or elected to fill a vacancy in the office of Mayor,—
+(5) Despite subsection (3), if the vacancy is for the office of mayor, the vacancy must not be left unfilled but must be filled by appointment of one of the other members of the local authority as mayor.
+(6) If any member is appointed or elected to fill a vacancy in the office of mayor,—
   (a) the person is to be treated as having vacated the office of a member; and
   (b) the vacancy in the office of a member is an extraordinary vacancy and this section and sections 118 to 120 apply.
 
@@ -1641,7 +1640,7 @@ Sections 111 and 112 do not validate any use of public money that would otherwis
 If a local authority, despite complying with section 120, is unable to fill by election an extraordinary vacancy in the office of an elected member of a community board (being an extraordinary vacancy to which section 117(1) applies), the community board may (instead of having the local authority conduct a further election in accordance with section 120) determine by resolution that the vacancy will be filled by the appointment by the community board of a person named in the resolution who is qualified to be elected as a member.
 
 ### 118 Notice of intention to fill vacancy by appointment
-(1) If, under section 117(3)(a) or section 117A, a local authority or community board resolves that a vacancy will be filled by the appointment of a person by the local authority or community board, it must immediately, unless the vacancy is for the office of Mayor, give public notice of—
+(1) If, under section 117(3)(a) or section 117A, a local authority or community board resolves that a vacancy will be filled by the appointment of a person by the local authority or community board, it must immediately, unless the vacancy is for the office of mayor, give public notice of—
   (a) the resolution; and
   (b) the process or criteria by which the person named in the resolution was selected for appointment.
 (2) The local authority or community board must, at a meeting held not later than the expiry of the prescribed period, by resolution confirm the appointment described in the resolution under subsection (1); and the person appointed is for all purposes to be treated as having been elected to fill the vacancy on the date on which that resolution is made.
@@ -1792,7 +1791,7 @@ Every electoral officer, deputy electoral officer, or other electoral official c
   (a) that he or she had no intention to mis-state or conceal the facts; and
   (b) that he or she took all reasonable steps to ensure that the information was accurate.
 
-### 135 Unauthorised expenditure
+### 135 Unauthorised advertisements
 (1) Every person commits an offence who wilfully contravenes section 113(1).
 (2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,000.
 
@@ -1806,10 +1805,10 @@ Every electoral officer, deputy electoral officer, or other electoral official c
 In any proceedings for an offence in relation to any voting documents or other official documents, files, records, instruments, or devices used officially for an election or poll, the property in those documents, files, records, and instruments is to be treated as that of the electoral officer at that election or poll.
 
 ### 138 Duty to take action in respect of offences
-(1) If the electoral officer at any election or poll—the electoral officer must report that matter to the police together with the results of any enquiries made by the electoral officer that he or she considers appropriate.
+(1) If the electoral officer at any election or poll—the electoral officer must report that matter to the Police together with the results of any enquiries made by the electoral officer that he or she considers appropriate.
   (a) receives a written complaint that an offence under this Part has been committed; or
   (b) believes for any other reason that an offence under this Part may have been committed,—
-(2) Subsection (1) does not prevent any person from reporting an alleged offence to the police.
+(2) Subsection (1) does not prevent any person from reporting an alleged offence to the Police.
 (3) Despite subsection (1), an electoral officer is not required to report the failure by a candidate at an election to file the return required by section 109(1) within the period prescribed in section 109, if the candidate files that return promptly after being required by the electoral officer to file the return.
 
 ## Part 8 — Miscellaneous provisions
@@ -1824,7 +1823,7 @@ In any proceedings for an offence in relation to any voting documents or other o
 ### 139 Regulations
 (1) The Governor-General may, by Order in Council, make regulations—
   (a) prescribing the powers and duties of electoral officers or other electoral officials, either generally or in relation to any specified class of election or poll or in relation to any specified election or specified poll:
-  (b) authorising the use of 1 or both electoral systems in elections and polls, or any specified class of election or poll, or any specified election or poll, describing each authorised electoral system, and prescribing conditions, standards, performance measures, and forms for the operation of that system:
+  (b) authorising the use of one or both electoral systems in elections and polls, or any specified class of election or poll, or any specified election or poll, describing each authorised electoral system, and prescribing conditions, standards, performance measures, and forms for the operation of that system:
   (c) authorising the use of 1 or more voting methods in elections and polls, or any specified class of election or poll, or any specified election or poll, describing each authorised voting method, and prescribing conditions, standards, performance measures, and forms for the operation of that method:
   (d) prescribing conditions, standards, performance measures, procedures, and forms for the operation of special voting:
   (e) authorising the use of special procedures for the casting of votes by any specified class of person, including (without limitation) persons with specified disabilities, and persons living or travelling overseas or living in remote locations:
@@ -1833,7 +1832,7 @@ In any proceedings for an offence in relation to any voting documents or other o
   (h) prescribing standards, performance measures, procedures, and forms for the conduct of elections or polls, or any specified class of election or poll, or any specified election or poll, and regulating the conduct of those elections or polls:
   (i) regulating the conduct of electoral officers, deputy electoral officers, other electoral officials, scrutineers, candidates, voters, electors, and any other person, at elections or polls, or at any specified class of election or poll, or at any specified election or poll:
   (j) prescribing forms required for the purposes of this Act or in connection with the enrolment of electors or in connection with any election or poll:
-  (k) prescribing offences in respect of the contravention of, or non compliance with, any regulations made under this Act:
+  (k) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act:
   (l) prescribing penalties for offences against regulations made under this Act, not exceeding a fine of $2,000:
   (la) regulating (in any way that is not inconsistent with Part 1A and Schedule 1A) the method of determining membership and the basis of election of local authorities:
   (m) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
@@ -1898,13 +1897,7 @@ Regulations made under section 139(1)(f) may include (without limitation)—
   (e) different classes of elections and polls.
 
 ### 144 Transitional regulations
-Without limiting the powers conferred by section 139, the Governor-General may, by Order in Council, make regulations—
-  (a) prescribing transitional provisions concerning the coming into force of this Act or any of its provisions, which may be in addition to or in place of the transitional provisions of this Part:
-  (b) to facilitate the bringing into force of any regulations made under this Act:
-  (c) providing that, subject to such conditions as may be specified in the regulations, during a specified transitional period,—
-    (i) specified provisions of this Act (including definitions) do not apply:
-    (ii) specified terms have the meanings given to them by the regulations:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
+[Repealed]
 
 ### 145 Expiry of section 144
 Section 144 expires on the close of 30 June 2002 and on the close of that date is repealed.
@@ -1937,8 +1930,7 @@ Section 144 expires on the close of 30 June 2002 and on the close of that date i
 [Repealed]
 
 ### 150 Amendment to Schedule 2 of New Zealand Public Health and Disability Act 2000
-Schedule 2 of the New Zealand Public Health and Disability Act 2000 is amended by inserting after clause 9, the following clause:Elections in 2004 and subsequently to be conducted using Single Transferable Voting
-  The elections of DHBs to be held at the triennial general election in 2004 and at every subsequent triennial general election must be conducted by the Single Transferable Voting electoral system (STV) using Meek's method of counting votes.
+Amendment(s) incorporated in the Act(s).
 
 ### 151 Amendments to other enactments
 The enactments set out in Schedule 3 are amended in the manner set out in that schedule.
@@ -1986,55 +1978,55 @@ For the purposes of the triennial general election and any poll to be held on 13
 
 ## Schedule 1 — New Zealand method of counting single transferable votes
 
-## Schedule 1A — Provisions relating to Maori wards and Maori constituencies
+## Schedule 1A — Provisions relating to Māori wards and Māori constituencies
 
 ### 1 Review of representation arrangements for election of territorial authority
-(1) If, for the purposes of a triennial general election, a district of a territorial authority (being a district that is not already divided into 1 or more Maori wards) is required to be divided into 1 or more Maori wards, the territorial authority must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19H.
+(1) If, for the purposes of a triennial general election, a district of a territorial authority (being a district that is not already divided into 1 or more Māori wards) is required to be divided into 1 or more Māori wards, the territorial authority must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19H.
 (2) That determination must be made as if the territorial authority were required by section 19H to determine by resolution, in accordance with Part 1A,—
   (a) the proposed number of members of the territorial authority (other than the mayor); and
   (b) whether—
-    (i) all of the proposed members of the territorial authority (other than the mayor) are to be separately elected by the electors of 1 or more Maori wards and the electors of 1 or more general wards; or
-    (ii) some of the proposed members of the territorial authority (other than the mayor) are to be elected by the electors of the district as a whole and some to be elected separately by the electors of 1 or more Maori wards and 1 or more general wards, and, if so, what number of members are to be elected by electors of the district as a whole, and what number are to be elected separately.
-  (c) the proposed number of members of the territorial authority to be elected by the electors of 1 or more Maori wards; and
+    (i) all of the proposed members of the territorial authority (other than the mayor) are to be separately elected by the electors of 1 or more Māori wards and the electors of 1 or more general wards; or
+    (ii) some of the proposed members of the territorial authority (other than the mayor) are to be elected by the electors of the district as a whole and some to be elected separately by the electors of 1 or more Māori wards and 1 or more general wards, and, if so, what number of members are to be elected by electors of the district as a whole, and what number are to be elected separately.
+  (c) the proposed number of members of the territorial authority to be elected by the electors of 1 or more Māori wards; and
   (d) the proposed number of members of the territorial authority to be elected by electors of 1 or more general wards; and
   (e) the proposed name and the proposed boundaries of each ward; and
-  (f) the number of members proposed to be elected by the electors of each Maori ward; and
+  (f) the number of members proposed to be elected by the electors of each Māori ward; and
   (g) the number of members proposed to be elected by the electors of each general ward.
 (3) This clause does not limit section 19B(1).
 
-### 2 Calculation of number of Maori and general ward members
-(1) The number of members to be elected by the electors of 1 or more Maori wards of the district of a territorial authority (Maori ward members) is to be determined in accordance with the following formula:where—
-  (nmm) is the number of Maori ward members
-  (mepd) is the Maori electoral population of the district
+### 2 Calculation of number of Māori and general ward members
+(1) The number of members to be elected by the electors of 1 or more Māori wards of the district of a territorial authority (Māori ward members) is to be determined in accordance with the following formula:where—
+  (nmm) is the number of Māori ward members
+  (mepd) is the Māori electoral population of the district
   (gepd) is the general electoral population of the district
-  (nm) is the proposed number of members of the territoria authority (other than the mayor).
+  (nm) is the proposed number of members of the territorial authority (other than the mayor).
 (2) If a determination is made under clause 1(2)(b)(ii), the definition of nm in the formula must be applied as if for the words proposed number of members of the territorial authority (other than the mayor) there were substituted the words proposed number of members of the territorial authority (other than the mayor and the members to be elected by electors of the district as a whole).
-(3) If the number of the Maori ward members (other than the mayor) calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Maori ward members must be the next whole number above the number that includes the fraction.
-(4) The number of members to be elected by the electors of 1 or more general wards is to be determined by subtracting from the proposed number of members of the territorial authority (other than the mayor, or, if the case requires, other than the mayor and the members of the territorial authority to be elected by electors of the district as a whole) the number of Maori ward members, as calculated under subclauses (1) and (3).
-(5) Despite Part 1A and the provisions of this schedule, if the number of Maori ward members, as determined in accordance with the method of calculation in this clause, is zero (because the number of Maori ward members as so determined is a fraction of the whole number 1 that does not exceed one half),—
-  (a) the district must not be divided into 1 or more Maori wards and 1 or more general wards:
+(3) If the number of the Māori ward members (other than the mayor) calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Māori ward members must be the next whole number above the number that includes the fraction.
+(4) The number of members to be elected by the electors of 1 or more general wards is to be determined by subtracting from the proposed number of members of the territorial authority (other than the mayor, or, if the case requires, other than the mayor and the members of the territorial authority to be elected by electors of the district as a whole) the number of Māori ward members, as calculated under subclauses (1) and (3).
+(5) Despite Part 1A and the provisions of this schedule, if the number of Māori ward members, as determined in accordance with the method of calculation in this clause, is zero (because the number of Māori ward members as so determined is a fraction of the whole number 1 that does not exceed one half),—
+  (a) the district must not be divided into 1 or more Māori wards and 1 or more general wards:
   (b) the provisions of clauses 1, 5, and 6 of this schedule must not be applied for the purposes of any determination under section 19H or section 19R.
 
 ### 3 Review of representation arrangements for election of regional council
-(1) If, for the purposes of a triennial general election, a region of a regional council (being a region that is not already divided into 1 or more Maori constituencies) is required to be divided into 1 or more Maori constituencies, the regional council must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19I.
+(1) If, for the purposes of a triennial general election, a region of a regional council (being a region that is not already divided into 1 or more Māori constituencies) is required to be divided into 1 or more Māori constituencies, the regional council must, in the year immediately before the year in which the triennial general election is to be held, but not later than 31 August in the year immediately before the year in which the triennial general election is to be held, make a determination under section 19I.
 (2) That determination must be made as if the regional council were required by section 19I to determine by resolution, in accordance with Part 1A,—
   (a) the proposed number of members of the regional council; and
-  (b) the proposed number of members of the regional council to be elected by the electors of 1 or more Maori constituencies; and
+  (b) the proposed number of members of the regional council to be elected by the electors of 1 or more Māori constituencies; and
   (c) the proposed number of members of the regional council to be elected by electors of 1 or more general constituencies; and
   (d) the proposed name and the proposed boundaries of each constituency; and
-  (e) the number of members proposed to be elected by the electors of each Maori constituency; and
+  (e) the number of members proposed to be elected by the electors of each Māori constituency; and
   (f) the number of members proposed to be elected by the electors of each general constituency.
 
-### 4 Calculation of number of Maori and general constituency members
-(1) The number of members to be elected by the electors of 1 or more Maori constituencies of a regional council (Maori constituency members) is to be determined in accordance with the following formula:where—
-  (nmm) is the number of Maori constituency members
-  (mepr) is the Maori electoral population of the region
+### 4 Calculation of number of Māori and general constituency members
+(1) The number of members to be elected by the electors of 1 or more Māori constituencies of a regional council (Māori constituency members) is to be determined in accordance with the following formula:where—
+  (nmm) is the number of Māori constituency members
+  (mepr) is the Māori electoral population of the region
   (gepr) is the general electoral population of the region
-  (nm) is the proposed number of members of the regional council
-(2) If the number of the Maori constituency members calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Maori constituency members must be the next whole number above the number that includes the fraction.
-(3) The number of members to be elected by the electors of 1 or more general constituencies is to be determined by subtracting from the proposed number of members of the regional council the number of Maori constituency members, as calculated under subclauses (1) and (2).
-(4) Despite Part 1A and the provisions of this schedule, if the number of Maori constituency members, as determined in accordance with the method of calculation in this clause, is zero (because the number of Maori constituency members as so determined is a fraction of the whole number 1 that does not exceed one half),—
-  (a) the region must not be divided into 1 or more Maori constituencies and 1 or more general constituencies:
+  (nm) is the proposed number of members of the regional council.
+(2) If the number of the Māori constituency members calculated under subclause (1) includes a fraction, the fraction must be disregarded unless it exceeds a half. If the fraction exceeds a half, the number of Māori constituency members must be the next whole number above the number that includes the fraction.
+(3) The number of members to be elected by the electors of 1 or more general constituencies is to be determined by subtracting from the proposed number of members of the regional council the number of Māori constituency members, as calculated under subclauses (1) and (2).
+(4) Despite Part 1A and the provisions of this schedule, if the number of Māori constituency members, as determined in accordance with the method of calculation in this clause, is zero (because the number of Māori constituency members as so determined is a fraction of the whole number 1 that does not exceed one half),—
+  (a) the region must not be divided into 1 or more Māori constituencies and 1 or more general constituencies:
   (b) the provisions of clauses 3, 5, and 6 of this schedule must not be applied for the purposes of any determination under section 19I or section 19R.
 
 ### 5 Relationship with other provisions
@@ -2045,17 +2037,17 @@ For the purposes of the triennial general election and any poll to be held on 13
 (3) Subclause (2) does not limit subclause (1).
 
 ### 6 Supplementary provisions regarding wards, constituencies, and boundaries
-In determining the number of wards and the boundaries of Maori wards, and the number of constituencies and the boundaries of Maori constituencies, a territorial authority or regional council or, as the case may require, the Commission must, in addition to satisfying the requirements of section 19T or section 19U,—
+In determining the number of wards and the boundaries of Māori wards, and the number of constituencies and the boundaries of Māori constituencies, a territorial authority or regional council or, as the case may require, the Commission must, in addition to satisfying the requirements of section 19T or section 19U,—
   (a) ensure, to the extent that is reasonably practicable and is consistent with the requirements of paragraph (b), that—
-    (i) the ratio of members to Maori electoral population in each Maori ward produces a variance of no more than plus or minus 10% (if 2 or more Maori wards for the district are proposed); and
-    (ii) the ratio of members to Maori electoral population in each Maori constituency produces a variance of no more than plus or minus 10% (if 2 or more Maori constituencies for the region are proposed):
+    (i) the ratio of members to Māori electoral population in each Māori ward produces a variance of no more than plus or minus 10% (if 2 or more Māori wards for the district are proposed); and
+    (ii) the ratio of members to Māori electoral population in each Māori constituency produces a variance of no more than plus or minus 10% (if 2 or more Māori constituencies for the region are proposed):
   (b) have regard to—
-    (i) the boundaries of any existing Maori electoral district; and
+    (i) the boundaries of any existing Māori electoral district; and
     (ii) communities of interest and tribal affiliations.
 
 ### 7 Population figures
 (1) The Government Statistician must, at the request of a territorial authority or regional council or, if appropriate, the Commission, supply the territorial authority or regional council or the Commission with a certificate—
-  (a) specifying the Maori electoral population for the district or region; and
+  (a) specifying the Māori electoral population for the district or region; and
   (b) the general electoral population of the district or region.
 (2) The numbers included in the certificate must be derived from information contained in the most recent report of the Government Statistician to the Surveyor-General and to the other members of the Representation Commission made under section 35(6) of the Electoral Act 1993.
 (3) A certificate issued under subclause (1) is conclusive evidence of the information contained in that certificate.
@@ -2066,34 +2058,31 @@ In determining the number of wards and the boundaries of Maori wards, and the nu
 
 ## Schedule 2 — Return of electoral expenses and electoral donations
 
-| I, A.B, a candidate at the election held on the day of 20, make the following return of all electoral expenses incurred by me or on my behalf at the election and of all electoral donations made to me or to any person on my behalf. |
-| --- |
-| ELECTORAL EXPENSES |
-| (Here set out separately the name and description of every person or body of persons to whom or which any sum was paid, and the reason for which it was paid. Sums paid for radio broadcasting, television broadcasting, newspaper advertising, posters, pamphlets, etc, must be set out separately and under separate headings.) |
-| ELECTORAL DONATIONS |
-| (Here set out the name and description of every person or body of persons from whom or which any donation (whether of money or of the equivalent of money or of goods or services or of a combination of those things) of a sum or value of more than $1,000 (such amount being inclusive of any goods and services tax and of a series of donations made by or on behalf of any one person that aggregate more than $1,000 (inclusive of any goods and services tax)) was received by the candidate or by any other person on the candidate's behalf for use by or on behalf of the candidate in the campaign for his or her election. The amount of each donation received is to be set out separately. If a donation of a sum of more than $1,000 was received from an anonymous person, the amount of the donation must be stated and the fact that the person who made the donation is anonymous must also be stated.) |
-| Dated at this day of 20. |
-| A.B. |
-
 ## Schedule 3 — Enactments amended
 
-### 37ZZZG Official result of poll
-In addition to complying with section 86 of the Local Electoral Act 2001, the electoral officer must,—
-  (a) when declaring the official result of the poll, state the total number of electors on the roll or rolls compiled for the purpose of the poll; and
-  (b) as soon as practicable after declaring the result, notify the Secretary and Commission of that result.
-
-| Local Electoral Act 2001 | sections 38 and 109 |
-| --- | --- |
-
-### 194 Conduct of elections
-(1) Subject to this Part and any regulations made under this Act, every election of the members of a licensing trust must be conducted under the Local Electoral Act 2001.
-(2) If a trust district is situated wholly within the district of any territorial authority, the electoral roll in respect of residential electors for that territorial authority is the roll of electors for elections of members of the licensing trust.
-(3) In any other case, the electoral rolls in respect of the residential electors for the districts of the territorial authorities that are situated wholly or partly within the trust district, or within any ward of a divided trust district, are the rolls of electors for elections of members of the licensing trust.
-(4) It is the duty of the electoral officer of each territorial authority within which the trust district is situated, or the electoral officer of the territorial authority situated wholly or partially within the trust district, to indicate on the electoral roll in respect of the residential electors of that territorial authority by appropriate words, abbreviations, or marks, the names of the persons entitled to vote at elections of members of the licensing trust. If the trust is divided into wards the electoral rolls must also show the ward in respect of which every person is entitled to vote.
-
-| The Local Electoral Act 2001 | 123 | Offences in respect of official documents and voting offences. |
-| --- | --- | --- |
-| and |  |  |
-| 124 |  |  |
-
 ## Schedule 4 — Repeals and revocations
+
+### 1 Title
+(1) This Act is the Local Electoral Amendment Act 2002.
+(2) In this Act, the Local Electoral Act 2001 is called the principal Act.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+### 50 Declaration of Single Transferable Voting to be electoral system
+(1) Single Transferable Voting is—
+  (a) deemed to have been prescribed for use at an election or poll conducted under the principal Act, with effect on and after 14 October 2001; and
+  (b) deemed to be an electoral system (within the meaning of that term as defined in section 5(1) of the principal Act), with effect on and after 14 October 2001.
+(2) No action taken by a local authority or any other person on or after 14 October 2001 in reliance or purported reliance on any provision of the principal Act or any regulations made under the principal Act is invalid by reason that Single Transferable Voting was not prescribed for use at an election or poll conducted under the principal Act at the time that the action was taken.
+(3) In this section, Single Transferable Voting means Single Transferable Voting using either—
+  (a) Meek's method of counting votes; or
+  (b) on and after the commencement of this section, the New Zealand method of counting single transferable votes.
+
+### 54 Transitional provision relating to polls on electoral systems
+(1) Any valid demand under section 29(1) of the principal Act (as it read before the commencement of this section) in respect of which no poll has been held before the commencement of this section must be treated, on and after the commencement of this section, as if it had been made under section 29(1) of the principal Act (as amended by section 11 of this Act).
+(2) Any demand under section 29(1) of the principal Act made after the commencement of this section which refers to the proposal described in section 29(1) of the principal Act (as it read before the commencement of this section) must be treated as a demand referring to the proposal described in section 29(1) of the principal Act (as amended by section 11 of this Act).
+(3) Any resolution made under section 31(1) of the principal Act (as it read before the commencement of this section) in respect of which no poll has been held before the commencement of this section must be treated, on and after the commencement of this section, as if it had been made under section 31(1) of the principal Act (as substituted by section 13 of this Act).
+(4) On and after the commencement of this section, any poll held under section 33 of the principal Act (as it read before the commencement of this section) takes effect as if it had been held under section 33 of the principal Act (as amended by section 15 of this Act).
+
+### 55 Certain determinations to remain in effect
+A determination that, immediately before the commencement of this section, was in effect under section 101K or section 101M of the Local Government Act 1974 continues in effect on and after the commencement of this section until a determination made under Part 1A of the principal Act replacing that determination comes into effect.
