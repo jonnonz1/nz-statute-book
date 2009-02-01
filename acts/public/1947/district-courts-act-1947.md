@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2008-12-25_
+_Consolidation as at 2009-02-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -712,6 +712,11 @@ A proceeding may be brought in the High Court on a judgment or order of a Distri
 (2) Where any Court established under this or any former Act relating to Courts is or has been abolished or is no longer a Court appointed for the exercise of civil jurisdiction and no such direction as aforesaid has been given, a certificate of any judgment or order of that Court may be obtained from the Registrar or Clerk of that Court, or from the Registrar or officer having custody of the records of that Court, and such certificate may be filed in any Court.
 (3) On the filing of such certificate all proceedings may be taken and enforced in and by the last-mentioned Court for the amount recoverable under the judgment or order, and any fees and costs paid or allowed in connection with the obtaining and filing of the certificate, as fully and effectually as if the judgment or order had been a judgment or order of that Court signed and entered up at the time of filing the certificate.
 
+**Determination of questions concerning rules**
+
+### 70A Application of rules
+If, in any civil proceeding, any question arises as to the application of any provision of rules made under section 122 or the High Court Rules, the Court may, either on the application of a party or on its own initiative, determine the question and give any directions it thinks fit in the interests of justice.
+
 ## Part 5 — Appeals
 
 ### 71 Interpretation
@@ -918,6 +923,7 @@ In sections 84G to 84M of this Act, unless the context otherwise requires,—
 ### 84K Wrongful treatment of employee
 (1) Every employer commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who dismisses any employee or alters any employee's position in the employer's business or undertaking to the employee's prejudice by reason of an attachment order having been served on the employer.
 (2) In the prosecution for an offence against subsection (1) of this section in which it is proved that the employer, within 6 months after the serving on the employer of an attachment order in respect of any employee, dismissed the employee or altered the employee's position in the employer's business or undertaking to the employee's prejudice, it shall be deemed to be proved that the action was taken by reason of the order having been served on the employer unless the employer proves to the contrary.
+(3) This section also applies to attachment orders made in the High Court.
 
 ### 84L Extent to which attachment orders bind the Crown
 (1) In this section—
