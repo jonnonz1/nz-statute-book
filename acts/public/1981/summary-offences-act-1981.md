@@ -1,31 +1,30 @@
 # Summary Offences Act 1981
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-02-01_
 
 > An Act to reform and restate the law relating to summary offences, and to replace the Police Offences Act 1927 and its amendments
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Summary Offences Act 1981.
-(2) Except as provided in section 49(2) of this Act, this Act shall come into force on the 1st day of February 1982.
+(2) Except as provided in section 49(2), this Act shall come into force on 1 February 1982.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other person to believe on reasonable grounds that he has, present ability to effect his purpose; and has a corresponding meaning
+  - **assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other person to believe on reasonable grounds that he has, present ability to effect his purpose; and has a corresponding meaning
   - **authorised officer** has the meaning given in section 4 of the Policing Act 2008
   - **claim of right** has the same meaning as it has in section 2(1) of the Crimes Act 1961
-  - **Colour of right**
   - **constable** has the meaning given in section 4 of the Policing Act 2008
-  - **Crime** means an offence for which the offender may be proceeded against by indictment
+  - **crime** means an offence for which the offender may be proceeded against by indictment
   - **crime involving dishonesty** means any crime described in Part 10 of the Crimes Act 1961, except the crimes described in sections 267 to 272.
-  - **Crime involving violence** means an offence against any of the provisions listed in Schedule 3
-  - **Intoxicating liquor** means any spirits, wine, ale, beer, porter, stout, cider, or perry, or any other fermented, distilled, or spirituous liquor, which on analysis is found to contain more than 2 parts percent of proof spirit
-  - **Is liable** means is liable on summary conviction
+  - **crime involving violence** means an offence against any of the provisions listed in Schedule 3
+  - **intoxicating liquor** means any spirits, wine, ale, beer, porter, stout, cider, or perry, or any other fermented, distilled, or spirituous liquor, which on analysis is found to contain more than 2 parts percent of proof spirit
+  - **is liable** means is liable on summary conviction
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
-  - **Newspaper** means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
+  - **newspaper** means any paper containing public news or observations on public news which is printed for sale or distribution and is published in New Zealand periodically at intervals not exceeding 40 days; but does not include any paper containing only matter wholly of a commercial nature
   - **Police dog** has the meaning given in section 4 of the Policing Act 2008
   - **Police dog handler** has the meaning given in section 4 of the Policing Act 2008
-  - **Prison officer** means an officer within the meaning of section 3(1) of the Corrections Act 2004; and includes a security officer within the meaning of that section
-  - **Public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
-  - **Serious drug offence** means an offence against any of the provisions listed in Schedule 4
+  - **prison officer** means an officer within the meaning of section 3(1) of the Corrections Act 2004; and includes a security officer within the meaning of that section
+  - **public place** means a place that, at any material time, is open to or is being used by the public, whether free or on payment of a charge, and whether any owner or occupier of the place is lawfully entitled to exclude or eject any person from that place; and includes any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carrying or available to carry passengers for reward
+  - **serious drug offence** means an offence against any of the provisions listed in Schedule 4
   - **shop** means a building, place, or part of a building or place, where goods are sold by retail, or kept or offered for sale by retail; and—
     (a) includes—
       (i) an auction mart; and
@@ -34,85 +33,84 @@ _Consolidation as at 2008-10-01_
   - **spraycan** means a container (made of any material or materials) that—
     (a) contains paint, dye, ink, or some other pigment; and
     (b) is so designed that the pigment it contains can be propelled from it (whether by a compressed or liquefied gas, or by mechanical means)
-  - **Traffic officer** means a traffic officer who is an officer of the Ministry of Transport or of a local authority; and includes any other person whose appointment as a traffic officer has been approved by the Minister of Transport
-  - **Unlawful weapon**
-(2) Without limiting the definition of the term public place in subsection (1) of this section, for the purposes of this Act, a person is in a public place if he is in any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle, which is in a public place.
+  - **traffic officer** means a traffic officer who is an officer of the Ministry of Transport or of a local authority; and includes any other person whose appointment as a traffic officer has been approved by the Minister of Transport.
+(2) Without limiting the definition of the term public place in subsection (1), for the purposes of this Act, a person is in a public place if he is in any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle, which is in a public place.
 (3) When it is provided in this Act that any person is liable to any punishment for doing or omitting to do any act, every person doing or omitting to do that act is, subject to the provisions of this Act, guilty of an offence.
 
-## Part  — Offences Against Public Order
+**Offences against public order**
 
 ### 3 Disorderly behaviour
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in or within view of any public place, behaves, or incites or encourages any person to behave, in a riotous, offensive, threatening, insulting, or disorderly manner that is likely in the circumstances to cause violence against persons or property to start or continue.
 
 ### 4 Offensive behaviour or language
 (1) Every person is liable to a fine not exceeding $1,000 who,—
-  (a) In or within view of any public place, behaves in an offensive or disorderly manner; or
-  (b) In any public place, addresses any words to any person intending to threaten, alarm, insult, or offend that person; or
-  (c) In or within hearing of a public place,—
-    (i) Uses any threatening or insulting words and is reckless whether any person is alarmed or insulted by those words; or
-    (ii) Addresses any indecent or obscene words to any person.
+  (a) in or within view of any public place, behaves in an offensive or disorderly manner; or
+  (b) in any public place, addresses any words to any person intending to threaten, alarm, insult, or offend that person; or
+  (c) in or within hearing of a public place,—
+    (i) uses any threatening or insulting words and is reckless whether any person is alarmed or insulted by those words; or
+    (ii) addresses any indecent or obscene words to any person.
 (2) Every person is liable to a fine not exceeding $500 who, in or within hearing of any public place, uses any indecent or obscene words.
-(3) In determining for the purposes of a prosecution under this section whether any words were indecent or obscene, the Court shall have regard to all the circumstances pertaining at the material time, including whether the defendant had reasonable grounds for believing that the person to whom the words were addressed, or any person by whom they might be overheard, would not be offended.
-(4) It is a defence in a prosecution under subsection (2) of this section if the defendant proves that he had reasonable grounds for believing that his words would not be overheard.
+(3) In determining for the purposes of a prosecution under this section whether any words were indecent or obscene, the court shall have regard to all the circumstances pertaining at the material time, including whether the defendant had reasonable grounds for believing that the person to whom the words were addressed, or any person by whom they might be overheard, would not be offended.
+(4) It is a defence in a prosecution under subsection (2) if the defendant proves that he had reasonable grounds for believing that his words would not be overheard.
 (5) Nothing in this section shall apply with respect to any publication within the meaning of the Films, Videos, and Publications Classification Act 1993, whether the publication is objectionable within the meaning of that Act or not.
 
 ### 5 Disorderly behaviour on private premises
 (1) Where 3 or more persons, each of whom has been convicted of a relevant offence within the previous 2 years, conduct themselves on any private premises in such a manner as to cause persons in the neighbourhood of those premises to fear on reasonable grounds that those 3 or more persons will commit or cause any other person to commit any relevant offence in that neighbourhood or elsewhere, each of those 3 or more persons is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 (2) In this section relevant offence means—
-  (a) Any offence of, or of which an ingredient is,—
-    (i) Assault; or
-    (ii) Threatening or offensive or disorderly behaviour; or
-    (iii) Possession of offensive weapons:
-  (b) An offence against section 86 (unlawful assembly) or section 87 (riot) of the Crimes Act 1961.
+  (a) any offence of, or of which an ingredient is,—
+    (i) assault; or
+    (ii) threatening or offensive or disorderly behaviour; or
+    (iii) possession of offensive weapons:
+  (b) an offence against section 86 (unlawful assembly) or section 87 (riot) of the Crimes Act 1961.
 
 ### 5A Disorderly assembly
 (1) A disorderly assembly is an assembly of 3 or more persons who, in any public place, assemble in such a manner, or so conduct themselves when assembled, as to cause a person in the immediate vicinity of the assembly to fear on reasonable grounds that the persons so assembled—in that vicinity.
-  (a) Will use violence against persons or property; or
-  (b) Will commit an offence against section 3 of this Act—
+  (a) will use violence against persons or property; or
+  (b) will commit an offence against section 3—
 (2) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000, who, being a participant in a disorderly assembly and having been warned by a constable to disperse or otherwise desist from such an assembly, without reasonable excuse,—
-  (a) Continues to participate in the disorderly assembly; or
-  (b) Having desisted from that disorderly assembly, participates in another disorderly assembly in circumstances in which it is reasonable to deem the warning to have applied to the new assembly as well as the original one.
+  (a) continues to participate in the disorderly assembly; or
+  (b) having desisted from that disorderly assembly, participates in another disorderly assembly in circumstances in which it is reasonable to deem the warning to have applied to the new assembly as well as the original one.
 (3) This section shall not apply to any group of persons who assemble in any public place for the purpose of demonstrating support for, or opposition to, or otherwise publicising, any point of view, cause, or campaign.
 
 ### 6 Associating with convicted thieves
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who habitually associates with a convicted thief in circumstances from which it can reasonably be inferred that the association is likely to lead to the commission of a crime involving dishonesty by that person or any such thief.
 (2) No information for an offence against this section shall be laid unless the defendant has been warned by any constable on at least 3 separate occasions that his continued association with the convicted thief may lead to a charge being brought against him under this section.
-(2A) To avoid any doubt, if a person who is a convicted thief habitually associates with another convicted thief in the circumstances specified in subsection (1), this section does not prevent 1 or both of those persons from being charged with an offence under this section.
+(2A) To avoid any doubt, if a person who is a convicted thief habitually associates with another convicted thief in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
 (3) In this section convicted thief means a person who has been convicted on at least 3 separate occasions of a crime involving dishonesty.
 
 ### 6A Associating with violent offenders
 (1) Every person commits an offence against this section who habitually associates with a violent offender in circumstances from which it can reasonably be inferred that the association will lead to the commission of a crime involving violence by that person or any such offender.
 (2) No information for an offence against this section may be laid unless—
-  (a) The defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the violent offender may lead to a charge being brought against him or her under this section; and
-  (b) Every warning under paragraph (a) in respect of an association with a violent offender is given not more than 7 years after the date of that violent offender's last conviction for a crime involving violence.
+  (a) the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the violent offender may lead to a charge being brought against him or her under this section; and
+  (b) every warning under paragraph (a) in respect of an association with a violent offender is given not more than 7 years after the date of that violent offender's last conviction for a crime involving violence.
 (3) This section does not apply in respect of any habitual association between 2 persons in either of the following circumstances:
-  (a) Where a protection order is in force under the Domestic Violence Act 1995, and that order is for the benefit of 1 of those 2 persons and applies against the other of those 2 persons:
-  (b) Where—
-    (i) Both persons are, or have been, in a domestic relationship (as defined by section 4 of that Act) with each other; and
-    (ii) The crimes involving violence, the commission of which can reasonably be inferred from that association, are crimes that will be committed by 1 of those persons against the other person, or by 1 of those persons against a third person who is in a domestic relationship (as so defined) with the other person.
-(4) To avoid any doubt, if a person who is a violent offender habitually associates with another violent offender in the circumstances specified in subsection (1), this section does not prevent 1 or both of those persons from being charged with an offence under this section.
+  (a) where a protection order is in force under the Domestic Violence Act 1995, and that order is for the benefit of one of those 2 persons and applies against the other of those 2 persons:
+  (b) where—
+    (i) both persons are, or have been, in a domestic relationship (as defined by section 4 of that Act) with each other; and
+    (ii) the crimes involving violence, the commission of which can reasonably be inferred from that association, are crimes that will be committed by one of those persons against the other person, or by one of those persons against a third person who is in a domestic relationship (as so defined) with the other person.
+(4) To avoid any doubt, if a person who is a violent offender habitually associates with another violent offender in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
 (5) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 (6) In this section violent offender means a person who has been convicted on at least 2 separate occasions of a crime involving violence.
 
 ### 6B Associating with serious drug offenders
 (1) Every person commits an offence against this section who habitually associates with a serious drug offender in circumstances from which it can reasonably be inferred that the association will lead to the commission of a serious drug offence by that person or any such offender.
 (2) This section does not apply in respect of a serious drug offence against—unless the serious drug offence involved dealing with a substantial amount of that drug or cultivation of that drug on a substantial scale, as the case may be.
-  (a) Section 6 of the Misuse of Drugs Act 1975 in relation to a Class C controlled drug specified or described in Part 1 of Schedule 3 of that Act (other than catha edulis plant or coca leaf); or
-  (b) Section 9 of that Act in relation to a prohibited plant of the genus Cannabis,—
+  (a) section 6 of the Misuse of Drugs Act 1975 in relation to a Class C controlled drug specified or described in Part 1 of Schedule 3 of that Act (other than catha edulis plant or coca leaf); or
+  (b) section 9 of that Act in relation to a prohibited plant of the genus Cannabis,—
 (3) No information for an offence against this section may be laid unless—
-  (a) The defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the serious drug offender may lead to a charge being brought against him or her under this section; and
-  (b) Every warning under paragraph (a) in respect of an association with a serious drug offender is given not more than 7 years after the date of that serious drug offender's last conviction for a serious drug offence.
-(4) To avoid any doubt, if a person who is a serious drug offender habitually associates with another serious drug offender in the circumstances specified in subsection (1), this section does not prevent 1 or both of those persons from being charged with an offence under this section.
+  (a) the defendant has been warned by any constable on at least 3 separate occasions that his or her continued association with the serious drug offender may lead to a charge being brought against him or her under this section; and
+  (b) every warning under paragraph (a) in respect of an association with a serious drug offender is given not more than 7 years after the date of that serious drug offender's last conviction for a serious drug offence.
+(4) To avoid any doubt, if a person who is a serious drug offender habitually associates with another serious drug offender in the circumstances specified in subsection (1), this section does not prevent one or both of those persons from being charged with an offence under this section.
 (5) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 (6) In this section serious drug offender means a person who has been convicted on at least 2 separate occasions of a serious drug offence.
 
 ### 6C Proof of habitual association
 (1) In proceedings for an offence against section 6 or section 6A or section 6B, the prosecution may prove that the association was an habitual association by proving that,—
-  (a) On at least 3 separate occasions, a constable gave the defendant a warning that satisfies the requirements of—
-    (i) Section 6(2), in the case of an offence against section 6; or
-    (ii) Section 6A(2), in the case of an offence against section 6A; or
-    (iii) Section 6B(3), in the case of an offence against section 6B; and
-  (b) All 3 warnings were given within a period of 2 years.
+  (a) on at least 3 separate occasions, a constable gave the defendant a warning that satisfies the requirements of—
+    (i) section 6(2), in the case of an offence against section 6; or
+    (ii) section 6A(2), in the case of an offence against section 6A; or
+    (iii) section 6B(3), in the case of an offence against section 6B; and
+  (b) all 3 warnings were given within a period of 2 years.
 (2) Subsection (1) does not limit the manner in which the prosecution may prove that the association was an habitual association.
 
 ### 7 Fighting in public place
@@ -122,7 +120,7 @@ Every person is liable to a fine not exceeding $1,000 who fights in a public pla
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, for the purposes of sale or distribution to the public, prints or publishes or makes any document or thing (not being a document or thing of a technical, scientific, literary, or artistic character) that describes or depicts the method of manufacture of any explosive device or incendiary device or restricted weapon (within the meaning of section 2 of the Arms Act 1983), or any part of any such device or weapon.
 (2) It is a defence in a prosecution under this section if the defendant proves that it was reasonable in all the circumstances to print or publish or make the description or depiction to which the prosecution relates.
 
-## Part  — Offences Against Persons or Property
+**Offences against persons or property**
 
 ### 9 Common assault
 Every person is liable to imprisonment for a term not exceeding 6 months or a fine not exceeding $4,000 who assaults any other person.
@@ -132,19 +130,19 @@ Every person is liable to imprisonment for a term not exceeding 6 months or a fi
 
 ### 10A Ill-treatment or wilful neglect of child
 Every person is liable to imprisonment for a term not exceeding 6 months or to a fine not exceeding $4,000 who,—
-  (a) Being a paid or unpaid staff member of a residence under the Children, Young Persons, and Their Families Act 1989, ill-treats or wilfully neglects any child under the age of 17 years who resides in that residence; or
-  (b) Being a person to whom the care or custody of a child under the age of 17 years has been lawfully entrusted, ill-treats or wilfully neglects that child.
+  (a) being a paid or unpaid staff member of a residence under the Children, Young Persons, and Their Families Act 1989, ill-treats or wilfully neglects any child under the age of 17 years who resides in that residence; or
+  (b) being a person to whom the care or custody of a child under the age of 17 years has been lawfully entrusted, ill-treats or wilfully neglects that child.
 
 ### 10B Leaving child without reasonable supervision and care
 Every person is liable to a fine not exceeding $2,000 who, being a parent or guardian or a person for the time being having the care of a child under the age of 14 years, leaves that child, without making reasonable provision for the supervision and care of the child, for a time that is unreasonable or under conditions that are unreasonable having regard to all the circumstances.
 
 ### 11 Wilful damage
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who intentionally—
-  (a) Damages any property; or
-  (b) Sets on fire any tree or other vegetation.
-(2) For the purposes of subsection (1) of this section, a person does an act intentionally if he does it intentionally or recklessly, and without lawful justification or excuse or claim of right.
+  (a) damages any property; or
+  (b) sets on fire any tree or other vegetation.
+(2) For the purposes of subsection (1), a person does an act intentionally if he does it intentionally or recklessly, and without lawful justification or excuse or claim of right.
 (3) The fact that the person charged had an interest in the property at the material time shall not prevent his act constituting an offence against this section if he did it with intent to defraud or to cause loss to any other person.
-(4) For the purposes of subsection (3) of this section, where any property is subject to any mortgage or charge, each of the parties to the mortgage or charge shall be deemed to have an interest in the property.
+(4) For the purposes of subsection (3), where any property is subject to any mortgage or charge, each of the parties to the mortgage or charge shall be deemed to have an interest in the property.
 
 ### 11A Graffiti vandalism, tagging, defacing, etc
 A person is liable to a community-based sentence (within the meaning of section 4(1) of the Sentencing Act 2002) or a fine not exceeding $2,000, or to both, if he or she damages or defaces any building, structure, road, tree, property, or other thing by writing, drawing, painting, spraying, or etching on it, or otherwise marking it,—
@@ -156,16 +154,16 @@ A person is liable to a sentence of community work or a fine not exceeding $500,
 
 ### 12 Acts endangering safety
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in any public place, without reasonable excuse and in circumstances likely to cause injury,—
-  (a) Places or makes any obstruction; or
-  (b) Digs and leaves any hole; or
-  (c) Removes any protective structure or any warning sign or device.
+  (a) places or makes any obstruction; or
+  (b) digs and leaves any hole; or
+  (c) removes any protective structure or any warning sign or device.
 
 ### 13 Things endangering safety
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, having in his care or under his control in any public place any thing (whether animate or inanimate) that in the absence of precaution or care is likely to cause injury, with reckless disregard for the safety of others and without reasonable excuse does anything to or with, or leaves, that thing.
 
 ### 13A Possession of knives
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in any public place, without reasonable excuse, has any knife in his or her possession.
-(2) On convicting any person of an offence against subsection (1) of this section, the Court may order that the knife be forfeited to the Crown.
+(2) On convicting any person of an offence against subsection (1), the court may order that the knife be forfeited to the Crown.
 
 ### 14 Possession of burglary tools
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, without reasonable excuse, has in his possession any instrument capable of being used for burglary in circumstances that prima facie show an intention to use it for burglary.
@@ -206,119 +204,119 @@ Every person is liable to imprisonment for a term not exceeding 3 months or a fi
 (2) The occupier of a shop must ensure that every spraycan in the shop to which subsection (1) applies is stored in such a way that members of the public cannot obtain possession of it without the help of the occupier, or an agent or employee of the occupier.
 (3) The occupier of a shop who fails or refuses to comply with subsection (2) is liable to a fine not exceeding $1,500.
 
-## Part  — Offences Resembling Forgery or Fraud
+**Offences resembling forgery or fraud**
 
 ### 15 Seeking donations by false pretence
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $1,000 who solicits, gathers, or collects alms, subscriptions, or contributions by means of any false pretence.
 
 ### 16 Acting as medium with intent to deceive
 (1) Every person is liable to a fine not exceeding $1,000 who, acting for reward,—
-  (a) With intent to deceive, purports to act as a spiritualistic medium or to exercise any powers of telepathy or clairvoyance or other similar powers; or
-  (b) Uses any fraudulent device in purporting to act as a spiritualistic medium or in purporting to exercise any such powers.
+  (a) with intent to deceive, purports to act as a spiritualistic medium or to exercise any powers of telepathy or clairvoyance or other similar powers; or
+  (b) uses any fraudulent device in purporting to act as a spiritualistic medium or in purporting to exercise any such powers.
 (2) For the purposes of this section, a person shall be deemed to act for reward if in respect of what he does any money is paid, or any valuable thing is given, whether to him or to any other person.
-(3) Nothing in subsection (1) of this section shall apply to anything done solely for the purpose of entertainment.
+(3) Nothing in subsection (1) shall apply to anything done solely for the purpose of entertainment.
 
 ### 17 Publishing false notice of birth, marriage, civil union, or death
 (1) Every person is liable to a fine not exceeding $500 who—
-  (a) Sends or delivers or causes to be sent or delivered to the proprietor, printer, or publisher of any newspaper, for the purpose of publication in that newspaper, a notice of the birth of a child, or of the marriage or civil union of any persons, or of the death of any person, knowing the notice to be untrue; or
-  (b) Being a printer or publisher of a newspaper, prints or publishes any such notice knowing it to be untrue.
+  (a) sends or delivers or causes to be sent or delivered to the proprietor, printer, or publisher of any newspaper, for the purpose of publication in that newspaper, a notice of the birth of a child, or of the marriage or civil union of any persons, or of the death of any person, knowing the notice to be untrue; or
+  (b) being a printer or publisher of a newspaper, prints or publishes any such notice knowing it to be untrue.
 (2) Every printer or publisher of a newspaper is liable to a fine not exceeding $100 who, on application in writing made to him by a person interested within 14 days after the publication in the newspaper of the notice of a birth, a marriage, a civil union, or a death, refuses to furnish the person so applying with the name of the person who sent or delivered the notice for publication.
 
-### 18 Imitation of Court documents
+### 18 Imitation of court documents
 (1) Every person is liable to a fine not exceeding $500 who sends or delivers or causes to be sent or delivered to any other person any document that is intended or is likely, by reason of its wording or appearance or in any other manner, to cause any person to believe, contrary to the fact, that—
-  (a) The document has been issued by or with the authority of a Court or Judge or Justice or Community Magistrate, or an officer of a Court; or
-  (b) The issue or delivery of the document has any legal effect or operation as a step or process in or preliminary to any civil or criminal proceedings.
-(2) Every person is liable to a fine not exceeding $500 who prints or sells or offers for sale any printed form of document intended to be filled up and used as a document the delivery of which to any person would constitute an offence against subsection (1) of this section.
+  (a) the document has been issued by or with the authority of a court or Judge or Justice or Community Magistrate, or an officer of a court; or
+  (b) the issue or delivery of the document has any legal effect or operation as a step or process in or preliminary to any civil or criminal proceedings.
+(2) Every person is liable to a fine not exceeding $500 who prints or sells or offers for sale any printed form of document intended to be filled up and used as a document the delivery of which to any person would constitute an offence against subsection (1).
 (3) It is no defence in a prosecution under this section that—
-  (a) The person who received the document was not actually deceived by it; or
-  (b) The document does not purport to be any summons, notice, or other document—
-    (i) That any actual Court or Judge or Justice or Community Magistrate, or any officer of a Court, has authority to issue; or
-    (ii) The issue of which has any legal effect or operation of a kind referred to in subsection (1) of this section.
+  (a) the person who received the document was not actually deceived by it; or
+  (b) the document does not purport to be any summons, notice, or other document—
+    (i) that any actual court or Judge or Justice or Community Magistrate, or any officer of a court, has authority to issue; or
+    (ii) the issue of which has any legal effect or operation of a kind referred to in subsection (1).
 
 ### 19 Imitation of official documents
 (1) Every person is liable to a fine not exceeding $500 who issues or distributes or publicly exhibits or causes to be issued or distributed or publicly exhibited any document that is intended or is likely, by reason of its wording or appearance or in any other manner, to cause any person to believe, contrary to the fact, that—
-  (a) The document is an official document; or
-  (b) The document is or contains a copy of or an extract from an official document; or
-  (c) The document sets forth the substance of an official document.
+  (a) the document is an official document; or
+  (b) the document is or contains a copy of or an extract from an official document; or
+  (c) the document sets forth the substance of an official document.
 (2) In this section official document means a document issued by or with the authority of—
   (a) Her Majesty; or
-  (b) The Governor-General; or
-  (c) The Executive Council; or
-  (d) Any Minister or officer in the service of the Crown in his capacity as such; or
-  (e) Any local or public authority; or
-  (f) Any member or officer of any local or public authority in his capacity as such.
+  (b) the Governor-General; or
+  (c) the Executive Council; or
+  (d) any Minister or officer in the service of the Crown in his capacity as such; or
+  (e) any local or public authority; or
+  (f) any member or officer of any local or public authority in his capacity as such.
 
 ### 20 False claim of qualifications
 (1) Every person is liable to a fine not exceeding $500 who, in connection with his business, trade, calling, or profession, publicly uses any written words, initials, or abbreviation of words intended or likely to cause any person to believe, contrary to the fact, that—
-  (a) He holds a degree, diploma, or certificate granted or issued by any university or other institution, society, or association, whether in New Zealand or elsewhere; or
-  (b) He is a member, associate, or fellow of any such institution, society, or association.
+  (a) he holds a degree, diploma, or certificate granted or issued by any university or other institution, society, or association, whether in New Zealand or elsewhere; or
+  (b) he is a member, associate, or fellow of any such institution, society, or association.
 (2) In a prosecution under this section the burden of proving that the defendant holds such degree, diploma, or certificate, or is a member, associate, or fellow of any such institution, society, or association, shall be on the defendant.
 (3) It is no defence in a prosecution under this section that the words, initials, or abbreviation so used by the defendant do not refer or profess to refer, or were not understood by any person to refer, to any particular or actual university, institution, society, or association.
 (4) For the purposes of this section, the use of the word doctor by a medical practitioner shall not in itself be deemed to indicate or to be likely to cause other persons to believe that the medical practitioner holds the degree of doctor in any university.
 
-## Part  — Official Information
+**Official information**
 
 ### 20A Unauthorised disclosure of certain official information
 (1) Every person commits an offence and is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $2,000 who knowingly communicates to any other person any official information as defined in section 78A(2) of the Crimes Act 1961 (not being official information that is publicly available) or delivers to any other person any object as defined in section 78A(2) of the Crimes Act 1961 knowing that he does not have proper authority to effect the communication or delivery and that the communication of that information or the delivery of that object is likely—
-  (a) To endanger the safety of any person:
-  (b) To prejudice the maintenance of confidential sources of information in relation to the prevention, investigation, or detection of offences; or
-  (c) To prejudice the effectiveness of operational plans for the prevention, investigation, or detection of offences or the maintenance of public order, either generally or in a particular case; or
-  (d) To prejudice the safeguarding of life or property in a disaster or emergency; or
-  (e) To prejudice the safe custody of offenders or of persons charged with offences; or
-  (f) To damage seriously the economy of New Zealand by disclosing prematurely decisions to change or continue Government economic or financial policies relating to—
-    (i) Exchange rates or the control of overseas exchange transactions:
-    (ii) The regulation of banking or credit:
-    (iii) Taxation:
-    (iv) The stability, control, and adjustment of prices of goods and services, rents, and other costs, and rates of wages, salaries, and other incomes:
-    (v) The borrowing of money by the Government of New Zealand:
-    (vi) The entering into of overseas trade agreements.
+  (a) to endanger the safety of any person:
+  (b) to prejudice the maintenance of confidential sources of information in relation to the prevention, investigation, or detection of offences; or
+  (c) to prejudice the effectiveness of operational plans for the prevention, investigation, or detection of offences or the maintenance of public order, either generally or in a particular case; or
+  (d) to prejudice the safeguarding of life or property in a disaster or emergency; or
+  (e) to prejudice the safe custody of offenders or of persons charged with offences; or
+  (f) to damage seriously the economy of New Zealand by disclosing prematurely decisions to change or continue Government economic or financial policies relating to—
+    (i) exchange rates or the control of overseas exchange transactions:
+    (ii) the regulation of banking or credit:
+    (iii) taxation:
+    (iv) the stability, control, and adjustment of prices of goods and services, rents, and other costs, and rates of wages, salaries, and other incomes:
+    (v) the borrowing of money by the Government of New Zealand:
+    (vi) the entering into of overseas trade agreements.
 (2) No information shall be laid against any person for—except with the consent of the Attorney-General:
-  (a) An offence against this section; or
-  (b) The offence of conspiring to commit an offence against this section; or
-  (c) The offence of attempting to commit an offence against this section,—
-  Provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
-(3) The Attorney-General may, before deciding whether or not to give his consent under subsection (2) of this section, make such inquiries as he thinks fit.
+  (a) an offence against this section; or
+  (b) the offence of conspiring to commit an offence against this section; or
+  (c) the offence of attempting to commit an offence against this section,—
+  provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
+(3) The Attorney-General may, before deciding whether or not to give his consent under subsection (2), make such inquiries as he thinks fit.
 
-## Part  — Intimidation, Obstruction, and Hindering Police
+**Intimidation, obstruction, and hindering Police**
 
 ### 21 Intimidation
 (1) Every person commits an offence who, with intent to frighten or intimidate any other person, or knowing that his or her conduct is likely to cause that other person reasonably to be frightened or intimidated,—
-  (a) Threatens to injure that other person or any member of his or her family, or to damage any of that person's property; or
-  (b) Follows that other person; or
-  (c) Hides any property owned or used by that other person or deprives that person of, or hinders that person in the use of, that property; or
-  (d) Watches or loiters near the house or other place, or the approach to the house or other place, where that other person lives, or works, or carries on business, or happens to be; or
-  (e) Stops, confronts, or accosts that other person in any public place.
+  (a) threatens to injure that other person or any member of his or her family, or to damage any of that person's property; or
+  (b) follows that other person; or
+  (c) hides any property owned or used by that other person or deprives that person of, or hinders that person in the use of, that property; or
+  (d) watches or loiters near the house or other place, or the approach to the house or other place, where that other person lives, or works, or carries on business, or happens to be; or
+  (e) stops, confronts, or accosts that other person in any public place.
 (2) Every person commits an offence who forcibly hinders or prevents any person from working at or exercising any lawful trade, business, or occupation.
 (3) Every person who commits an offence against this section is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
 
 ### 22 Obstructing public way
 (1) Every person is liable to a fine not exceeding $1,000 who, without reasonable excuse, obstructs any public way and, having been warned by a constable to desist,—
-  (a) Continues with that obstruction; or
-  (b) Does desist from that obstruction but subsequently obstructs that public way again, or some other public way in the same vicinity, in circumstances in which it is reasonable to deem the warning to have applied to the new obstruction as well as the original one.
+  (a) continues with that obstruction; or
+  (b) does desist from that obstruction but subsequently obstructs that public way again, or some other public way in the same vicinity, in circumstances in which it is reasonable to deem the warning to have applied to the new obstruction as well as the original one.
 (2) In this section—
-  - **Obstructs** , in relation to a public way, means unreasonably impedes normal passage along that way
-  - **Public way** means every road, street, path, mall, arcade, or other way over which the public has the right to pass and repass.
+  - **obstructs** , in relation to a public way, means unreasonably impedes normal passage along that way
+  - **public way** means every road, street, path, mall, arcade, or other way over which the public has the right to pass and repass.
 
 ### 23 Resisting Police, prison, or traffic officer
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who resists or intentionally obstructs, or incites or encourages any other person to resist or obstruct,—
-  (a) Any constable or any authorised officer,, or any prison officer, or any traffic officer, acting in the execution of his duty; or
-  (b) Any other person acting in aid of any such constable authorised officer,, prison officer, or traffic officer.
+  (a) any constable or any authorised officer, or any prison officer, or any traffic officer, acting in the execution of his duty; or
+  (b) any other person acting in aid of any such constable, authorised officer, prison officer, or traffic officer.
   (c) any Police dog working under the control of a Police dog handler.
 
 ### 24 False allegation or report to Police
 Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who,—
-  (a) Contrary to the fact and without a belief in the truth of the statement, makes or causes to be made to any Police employee any written or verbal statement alleging that an offence has been committed; or
-  (b) With the intention of causing wasteful deployment, or of diverting deployment, of Police personnel or resources, or being reckless as to that result,—
-    (i) Makes a statement to any person that gives rise to serious apprehension for his own safety or the safety of any person or property, knowing that the statement is false; or
-    (ii) Behaves in a manner that is likely to give rise to such apprehension, knowing that such apprehension would be groundless.
+  (a) contrary to the fact and without a belief in the truth of the statement, makes or causes to be made to any Police employee any written or verbal statement alleging that an offence has been committed; or
+  (b) with the intention of causing wasteful deployment, or of diverting deployment, of Police personnel or resources, or being reckless as to that result,—
+    (i) makes a statement to any person that gives rise to serious apprehension for his own safety or the safety of any person or property, knowing that the statement is false; or
+    (ii) behaves in a manner that is likely to give rise to such apprehension, knowing that such apprehension would be groundless.
 
 ### 25 Advertising reward for stolen property
 Every person is liable to a fine not exceeding $200 who—
-  (a) Publicly advertises a reward for the return of any property that has been stolen or lost, and in the advertisement uses any words to the effect that no questions will be asked; or
-  (b) Promises or offers in any public advertisement to refund to any other person who may have bought any property stolen or lost, or advanced any money by way of loan on the security of any such property, the money paid by that other person, or any other sum of money or reward for the return of the property; or
-  (c) Prints or publishes any advertisement containing any such words, promise, or offer.
+  (a) publicly advertises a reward for the return of any property that has been stolen or lost, and in the advertisement uses any words to the effect that no questions will be asked; or
+  (b) promises or offers in any public advertisement to refund to any other person who may have bought any property stolen or lost, or advanced any money by way of loan on the security of any such property, the money paid by that other person, or any other sum of money or reward for the return of the property; or
+  (c) prints or publishes any advertisement containing any such words, promise, or offer.
 
-## Part  — Indecency
+**Indecency**
 
 ### 26 Soliciting
 [Repealed]
@@ -327,35 +325,35 @@ Every person is liable to a fine not exceeding $200 who—
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who, in or within view of any public place, intentionally and obscenely exposes any part of his or her genitals.
 (2) It is a defence in a prosecution under this section if the defendant proves that he or she had reasonable grounds for believing that he or she would not be observed.
 
-## Part  — Loitering and Trespass
+**Loitering and trespass**
 
 ### 28 Being found in public place preparing to commit crime
 (1) Every person commits an offence who is found in any public place behaving in a manner from which it can reasonably be inferred that he is preparing to commit a crime.
 (2) Every person who commits an offence against this section is liable—
-  (a) To a fine not exceeding $2,000; or
-  (b) For a second or subsequent offence within a period of 12 months, to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
-(3) In determining for the purposes of a prosecution under this section whether it can reasonably be inferred from anything proved to have been done by the defendant at the material time that he was preparing to commit a crime, the Court may have regard to his previous convictions of a similar nature (if any), and for that purpose evidence of any such conviction shall be admissible accordingly.
+  (a) to a fine not exceeding $2,000; or
+  (b) for a second or subsequent offence within a period of 12 months, to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000.
+(3) In determining for the purposes of a prosecution under this section whether it can reasonably be inferred from anything proved to have been done by the defendant at the material time that he was preparing to commit a crime, the court may have regard to his previous convictions of a similar nature (if any), and for that purpose evidence of any such conviction shall be admissible accordingly.
 
 ### 29 Being found on property, etc, without reasonable excuse
 (1) Every person is liable to imprisonment for a term not exceeding 3 months or a fine not exceeding $2,000 who is found without reasonable excuse—
-  (a) In or on any building; or
-  (b) In any enclosed yard or other such area; or
-  (c) In or on board any aircraft, hovercraft, or ship or ferry or other vessel, train, or vehicle.
-(2) It is not necessary in a prosecution under this section for the prosecutor to prove that the defendant had an intention to commit any other offence, but it is a defence if the defendant satisfies the Court that he had no such intention.
-(3) If any constable finds a person in any place referred to in subsection (1) of this section, without reasonable excuse but in circumstances that do not cause the constable to suspect an intention to commit any other offence, the constable may, instead of arresting him for an offence against subsection (1) of this section, warn that person to leave that place and, if the person refuses or fails to do so, he is liable to a fine not exceeding $500.
+  (a) in or on any building; or
+  (b) in any enclosed yard or other such area; or
+  (c) in or on board any aircraft, hovercraft, or ship or ferry or other vessel, train, or vehicle.
+(2) It is not necessary in a prosecution under this section for the prosecutor to prove that the defendant had an intention to commit any other offence, but it is a defence if the defendant satisfies the court that he had no such intention.
+(3) If any constable finds a person in any place referred to in subsection (1), without reasonable excuse but in circumstances that do not cause the constable to suspect an intention to commit any other offence, the constable may, instead of arresting him for an offence against subsection (1), warn that person to leave that place and, if the person refuses or fails to do so, he is liable to a fine not exceeding $500.
 
 ### 30 Peeping or peering into dwellinghouse
 (1) Every person is liable to a fine not exceeding $500 who is found by night without reasonable excuse—
-  (a) Peeping or peering into a dwellinghouse; or
-  (b) Loitering on any land on which a dwellinghouse is situated.
+  (a) peeping or peering into a dwellinghouse; or
+  (b) loitering on any land on which a dwellinghouse is situated.
 (2) In this section the term night means the period commencing on the expiration of the first hour after sunset and ending at the beginning of the last hour before sunrise.
 
 ### 31 Trespass on a ship
 Every person is liable to a fine not exceeding $500 who (not being a member of the crew or a passenger or a person duly authorised by law to be on board), having been warned by the master or an officer of any ship or by any constable to leave the ship,—
-  (a) Refuses or fails to do so; or
-  (b) Leaves the ship, but returns or persists in attempting to return on board.
+  (a) refuses or fails to do so; or
+  (b) leaves the ship, but returns or persists in attempting to return on board.
 
-## Part  — Offences Resembling Nuisance
+**Offences resembling nuisance**
 
 ### 32 Excreting in public place
 (1) Every person is liable to a fine not exceeding $200 who urinates or defecates in any public place other than a public lavatory.
@@ -363,7 +361,7 @@ Every person is liable to a fine not exceeding $500 who (not being a member of t
 
 ### 33 Billsticking
 Every person is liable to a fine not exceeding $200 who, without the consent of the owner or occupier,—
-  (a) Affixes any placard, banner, poster, or other material bearing any writing or pictorial representation to any structure, or to or from any tree; or
+  (a) affixes any placard, banner, poster, or other material bearing any writing or pictorial representation to any structure, or to or from any tree; or
   (b)
 
 ### 34 Throwing stones
@@ -371,8 +369,8 @@ Every person is liable to a fine not exceeding $200 who throws or discharges any
 
 ### 35 Setting off or throwing fireworks
 Every person is liable to a fine not exceeding $200 who,—
-  (a) In any public place, sets off or throws any firework or explosive material in such a manner as to be likely to cause injury to, or to alarm, any person; or
-  (b) In any place other than a public place, sets off or throws any firework or explosive material in such a manner as to be likely to cause injury to, or to alarm, any person in a public place.
+  (a) in any public place, sets off or throws any firework or explosive material in such a manner as to be likely to cause injury to, or to alarm, any person; or
+  (b) in any place other than a public place, sets off or throws any firework or explosive material in such a manner as to be likely to cause injury to, or to alarm, any person in a public place.
 
 ### 36 Lighting fires
 Every person is liable to a fine not exceeding $200 who, without reasonable excuse, sets fire to any material or substance near any structure or vegetation (of which he is neither the owner nor occupier) in such a manner as to be likely to cause damage to the structure or vegetation.
@@ -382,149 +380,110 @@ Every person is liable to a fine not exceeding $200 who, in any public place, un
 
 ### 38 Drinking in public place
 (1) Every person is liable to a fine not exceeding $300 who, in or on any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle that is carrying passengers for reward,—
-  (a) Drinks any intoxicating liquor; or
-  (b) Supplies or offers any intoxicating liquor to any other person for consumption there; or
-  (c) Has in his possession or under his control any intoxicating liquor for consumption there.
-(2) For the purposes of subsection (1) of this section, if any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carries any passengers while under charter it shall be deemed to be carrying those passengers for reward.
-(3) Without limiting subsection (1) of this section, every person under the age of 18 years commits an offence and is liable to a fine not exceeding $300 who, in any public place and while not accompanied by his or her parent or legal guardian,—
-  (a) Drinks any intoxicating liquor; or
-  (b) Has in his possession or under his control any intoxicating liquor for consumption there.
+  (a) drinks any intoxicating liquor; or
+  (b) supplies or offers any intoxicating liquor to any other person for consumption there; or
+  (c) has in his possession or under his control any intoxicating liquor for consumption there.
+(2) For the purposes of subsection (1), if any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle carries any passengers while under charter it shall be deemed to be carrying those passengers for reward.
+(3) Without limiting subsection (1), every person under the age of 18 years commits an offence and is liable to a fine not exceeding $300 who, in any public place and while not accompanied by his or her parent or legal guardian,—
+  (a) drinks any intoxicating liquor; or
+  (b) has in his possession or under his control any intoxicating liquor for consumption there.
 (4) This section does not apply in respect of any licensed premises under the Sale of Liquor Act 1989.
 
-## Part  — Infringement Offences
+**Infringement offences**
 
 ### 38A Infringement offences
 In section 38B to 38E,—
-  - **Infringement fee** , in relation to an infringement offence, means $200
-  - **Infringement offence** means an offence under section 38(3).
+  - **infringement fee** , in relation to an infringement offence, means $200
+  - **infringement offence** means an offence under section 38(3).
 
 ### 38B Commission of infringement offence
 (1) Where any person is alleged to have committed an infringement offence, that person may either—
-  (a) Be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
-  (b) Be served with an infringement notice under section 38C.
+  (a) be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (b) be served with an infringement notice under section 38C.
 (2) No person arrested under section 39 may be served with an infringement notice under section 38C.
 
 ### 38C Infringement notices
-(1) Where a member of the Police observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
-(2) Any member of the Police (not necessarily the member who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence; and, in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) is to be treated as having been served on that person when it was posted.
+(1) Where a constable observes a person committing an infringement offence, or has reasonable cause to believe such an offence is being or has been committed by that person, an infringement notice in respect of that offence may be served on that person.
+(2) Any constable (not necessarily the constable who issued the notice) may deliver the infringement notice (or a copy of it) to the person alleged to have committed an infringement offence personally or by post addressed to that person's last known place of residence; and, in that case, for the purposes of the Summary Proceedings Act 1957, it (or the copy) is to be treated as having been served on that person when it was posted.
 (3) Every infringement notice must be in the prescribed form and must contain the following particulars:
-  (a) Such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
-  (b) The amount of the infringement fee; and
-  (c) The address of the place at which the infringement fee may be paid; and
-  (d) The time within which the infringement fee must be paid; and
-  (e) A summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
-  (f) A statement that the person served with the notice has a right to request a hearing; and
-  (g) A statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
-  (h) Such other particulars as are prescribed.
+  (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee must be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement that the person served with the notice has a right to request a hearing; and
+  (g) a statement of what will happen if the person served with the notice neither pays the infringement fee nor requests a hearing; and
+  (h) such other particulars as are prescribed.
 (4) Where an infringement notice has been issued under this section, proceedings in respect of the offence to which the notice relates may be commenced in accordance with section 21 of the Summary Proceedings Act 1957; and, in that case, the provisions of that section apply with all necessary modifications.
 
 ### 38D Payment of infringement fees
-All infringement fees paid in respect of infringement offences must be paid into the Crown Bank Account.
+All infringement fees paid in respect of infringement offences must be paid into a Crown Bank Account.
 
 ### 38E Regulations
 The Governor-General may from time to time, by Order in Council, make regulations prescribing the form of infringement notices, and any other particulars to be contained in infringement notices.
 
-## Part  — Search, Arrest, and Jurisdiction
+**Search, arrest, and jurisdiction**
 
 ### 39 Arrest
 (1) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person whom he has good cause to suspect of having committed an offence against any of the provisions of this Act except sections 17 to 20, 25, and 32 to 38.
-(2) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person who, within his view, does any act that the constable reasonably believes constitutes an offence against any of sections 17 to 20, 25, and 32 to 38 of this Act and who fails to give his name and address on demand, or gives any such particulars that the constable reasonably believes to be false.
-(3) Any person who, on or in any property of which he is the owner or occupier, finds any other person committing an offence against any of the provisions of sections 9 to 11, 29, and 30 of this Act, is justified in arresting that other person without a warrant; but, if he does so, he shall as soon as practicable call a constable to his aid and deliver the arrested person into the constable's custody.
+(2) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant any person who, within his view, does any act that the constable reasonably believes constitutes an offence against any of sections 17 to 20, 25, and 32 to 38 and who fails to give his name and address on demand, or gives any such particulars that the constable reasonably believes to be false.
+(3) Any person who, on or in any property of which he is the owner or occupier, finds any other person committing an offence against any of the provisions of sections 9 to 11, 29, and 30, is justified in arresting that other person without a warrant; but, if he does so, he shall as soon as practicable call a constable to his aid and deliver the arrested person into the constable's custody.
 
 ### 40 Jurisdiction
 (1) Every offence against this Act shall be punishable on summary conviction by a District Court presided over by a Judge.
-(2) Notwithstanding subsection (1) of this section, a District Court presided over by 2 or more Justices or one or more Community Magistrates shall have jurisdiction in respect of offences against sections 4, 7, 17 to 20, 22, 25, 26, and 30 to 38 of this Act.
+(2) Notwithstanding subsection (1), a District Court presided over by 2 or more Justices or 1 or more Community Magistrates shall have jurisdiction in respect of offences against sections 4, 7, 17 to 20, 22, 25, 26, and 30 to 38.
 (3) Nothing in section 20A of the Summary Proceedings Act 1957 (which prescribes a special summary procedure for certain minor offences) shall apply in respect of any offence against this Act for which the defendant has been arrested.
 
-### 41 Information alleging imitation of Court documents
-In any information for an offence against section 18 of this Act, it shall be sufficient to allege that the defendant sent, delivered, printed, sold, or offered for sale (as the case may require) a document in imitation of judicial process.
+### 41 Information alleging imitation of court documents
+In any information for an offence against section 18, it shall be sufficient to allege that the defendant sent, delivered, printed, sold, or offered for sale (as the case may require) a document in imitation of judicial process.
 
 ### 42 Information alleging false claim of qualifications
-No information for an offence against section 20 of this Act shall be laid without the consent of the Attorney-General.
+No information for an offence against section 20 shall be laid without the consent of the Attorney-General.
 
 ### 43 No jury trial for offence of assault
-Section 66 of the Summary Proceedings Act 1957 (which relates to the right of a defendant to elect trial by jury) shall not apply with respect to any offence against section 9 or section 10 of this Act.
+Section 66 of the Summary Proceedings Act 1957 (which relates to the right of a defendant to elect trial by jury) shall not apply with respect to any offence against section 9 or section 10.
 
 ### 44 Defendant may be convicted of lesser charge of disorderly behaviour
-Where the commission of an offence against section 3 of this Act is not proved, but the evidence proves an offence against section 4 of this Act, the defendant may be convicted of an offence against that latter section notwithstanding that the information alleges an offence against section 3 only.
+Where the commission of an offence against section 3 is not proved, but the evidence proves an offence against section 4, the defendant may be convicted of an offence against that latter section notwithstanding that the information alleges an offence against section 3 only.
 
 ### 45 Seizure and forfeiture
-(1) Any constable may seize and remove any intoxicating liquor which there is reasonable ground to suppose is intended for consumption in contravention of subsection (1) or subsection (3) of section 38 of this Act, and the vessels containing the liquor.
+(1) Any constable may seize and remove any intoxicating liquor which there is reasonable ground to suppose is intended for consumption in contravention of subsection (1) or subsection (3) of section 38, and the vessels containing the liquor.
 (2) On the conviction of any person of an offence against either of those provisions, any liquor or vessels so seized shall become forfeited to the Crown.
-(3) If any person is convicted of an offence against section 14, the Court may, if it thinks fit, order the instrument or instruments to be forfeited to the Crown or disposed of as the Court directs at the expense of the convicted person, and may order the person to pay any reasonable cost incurred by the Commissioner of Police in retaining the instrument or instruments.
+(3) If any person is convicted of an offence against section 14, the court may, if it thinks fit, order the instrument or instruments to be forfeited to the Crown or disposed of as the court directs at the expense of the convicted person, and may order the person to pay any reasonable cost incurred by the Commissioner of Police in retaining the instrument or instruments.
 
-## Part  — Amendments and Repeals
+### 45A Attachment order default
+An employer who defaults in complying with an attachment order made in the High Court under rules of court against an employee of that employer is liable to a fine not exceeding $1,000.
+
+**Amendments and repeals**
 
 ### 46 Military Decorations and Distinctive Badges Act 1918 amended
-(1) The Military Decorations and Distinctive Badges Act 1918 is hereby amended by inserting, after section 4, the following section:Offences in respect of military decorations
-  (1) In this section, the term military decoration means any medal, clasp, badge, ribbon, stripe, emblem, or decoration issued, supplied, or authorised, or purporting or reputed to be issued, supplied, or authorised, by a naval, military, or air force authority, whether in New Zealand or in any other Commonwealth country; but does not include an ordinary regimental badge or any brooch or ornament representing such a badge.
-  (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $500—
-    (a) Who represents himself, contrary to the fact, to be a person who is or has been entitled to wear or use any military decoration; or
-    (b) Who wears or uses any medal, clasp, badge, ribbon, stripe, emblem, or decoration that is intended or is likely, by reason of its appearance or in any other manner, to cause any person to believe, contrary to the fact, that it is a military decoration; or
-    (c) Who, without reasonable excuse, supplies or offers to supply—to any person who is not authorised to wear or use that military decoration.
-      (i) Any military decoration; or
-      (ii) Any medal, clasp, badge, ribbon, stripe, emblem, or decoration that is intended or is likely, by reason of its appearance or in any other manner, to cause any person to believe, contrary to the fact, that it is a military decoration—
-  (3) In a prosecution under this section, the burden of proving that any person is authorised to wear or use any military decoration shall be on the defendant.
-(2) Section 6 of the Military Decorations and Distinctive Badges Act 1918 is hereby amended by omitting the words either of the two last preceding sections, and substituting the words section 4 of this Act.
+Amendment(s) incorporated in the Act(s).
 
 ### 47 Machinery Act 1950 amended
 [Repealed]
 
 ### 48 New sections inserted in Crimes Act 1961
-(1) The Crimes Act 1961 is hereby amended by inserting, after section 202, the following sections:Possession of offensive weapons or disabling substances1927 No 35 s 53A(1), (2), (8)-(10); 1976 No 157 s 4(1)Powers in respect of crime against section 202A1927 No 35 s 53A(3)-(6); 1976 No 157 s 4(1); 1979 No 133 s 2
-  (1) In subsection (4)(a) of this section offensive weapon means any article made or altered for use for causing bodily injury, or intended by the person having it with him for such use.
-  (2) In subsection (4)(b) of this section offensive weapon means any article capable of being used for causing bodily injury.
-  (3) In this section disabling substance means any anaesthetising or other substance produced for use for disabling persons, or intended by any person having it with him for such use.
-  (4) Everyone is liable to imprisonment for a term not exceeding 2 years—
-    (a) Who, without lawful authority or reasonable excuse, has with him in any public place any knife or offensive weapon or disabling substance; or
-    (b) Who has in his possession in any place any offensive weapon or disabling substance in circumstances that prima facie show an intention to use it to commit an offence involving bodily injury or the threat or fear of violence.
-  (5) It is a defence to a charge under subsection (4)(b) of this section if the person charged proves that he did not intend to use the offensive weapon or disabling substance to commit an offence involving bodily injury or the threat or fear of violence.
-  (1) Where any constable has reasonable grounds for believing that any person is committing an offence against section 202A(4)(a) of this Act he may—and in any such case the constable may take possession of any knife, offensive weapon, or disabling substance found.
-    (a) Stop and search that person and any package or receptacle he has with him that the constable has reasonable grounds for believing contains any knife, offensive weapon, or disabling substance, and may detain that person for as long as is reasonably necessary to conduct that search:
-    (b) Stop and search any vehicle in which that person is travelling or from which he has alighted if the constable has reasonable grounds for believing that the vehicle contains any knife, offensive weapon, or disabling substance, and may detain that vehicle for as long as is reasonably necessary to conduct that search;—
-  (2) Every constable exercising the powers conferred by subsection (1) of this section shall identify himself to every person searched, tell him that the search is being made under this section, and, if not in uniform and if so required, produce evidence that he is a member of the Police.
-  (3) Where any person is convicted of a crime against section 202A of this Act, the Court may make an order for the forfeiture or disposal of any knife, weapon, or substance in respect of which the crime was committed.
-(2) This subsection inserted in Part 1 of Schedule 1 to the Summary Proceedings Act 1957 an item relating to s 202A of the Crimes Act 1961.
-(3) The Crimes Act 1961 is hereby further amended by inserting, after section 227, the following section:Power of search for goods stolen or unlawfully obtained in transit
-  Any constable who has reasonable ground for believing that any property that has been stolen or unlawfully obtained is—in any airport, or in or on any port or harbour or waterway, or in or on any railway or railway line or railway station, or in any depot, terminus, yard, or other place used between trips by vehicles engaged in the carriage of goods for reward, may search and detain for the purpose of search any such person, container, package, receptacle, aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle, and may take possession of any such property found during the search.
-    (a) In the possession of any person; or
-    (b) In any container, package, or receptacle; or
-    (c) In or on any aircraft, hovercraft, ship or ferry or other vessel, train, or vehicle,—
+Amendment(s) incorporated in the Act(s).
 
 ### 49 Alcoholism and Drug Addiction Act 1966 amended
-(1) The Alcoholism and Drug Addiction Act 1966 is hereby amended by inserting, under the heading Miscellaneous Provisions but before section 38, the following section:Persons found intoxicated in public place
-  (1) For the purposes of this section, the Minister may from time to time, by notice in the Gazette, declare any premises to be a temporary shelter or a detoxification centre.
-  (2) Any constable who finds any person intoxicated in any public place—
-    (a) May take or cause that person to be taken to his usual place of residence or, if he is temporarily residing elsewhere, to his temporary place of residence; or
-    (b) If that place cannot reasonably be ascertained or it is not reasonably practicable to take that person to it or it may not be safe to leave him there, may take that person or cause him to be taken to any temporary shelter or detoxification centre; or
-    (c) If neither the course authorised by paragraph (a) nor that authorised by paragraph (b) of this subsection is reasonably practicable, detain or cause that person to be detained in a police station for any period not exceeding 12 hours.
-  (2A) Notwithstanding anything in subsection (2) of this section, where it is not immediately practicable for the constable to determine where to take the person in accordance with that subsection, the constable may take the person to the police station and detain that person there for such time as may be reasonably required to enable enquiries to be made as to the appropriate course to be followed.
-  (3) If, after being detained under subsection (2)(c) of this section for a period of 12 hours, any person is still, in the opinion of any constable, so intoxicated as to be incapable of properly looking after himself, the constable may take that person or cause him to be taken to a temporary shelter or detoxification centre.
-  (4) Where any person is being detained under subsection (2)(c) of this section, he shall be entitled to telephone 1 person of his choice.
-  (5) Every constable is justified in detaining in accordance with this section, for any period not exceeding 12 hours, any person whom he believes on reasonable and probable grounds to be intoxicated.
-  (6) Notwithstanding the foregoing provisions of this section, any constable who finds any person subject to the Armed Forces Discipline Act 1971 intoxicated in any public place may, instead of dealing with him under those provisions, deliver or cause him to be delivered into service custody to be dealt with in accordance with that Act.
-  (7) For the purposes of this section, a person is intoxicated if he is under the influence of intoxicating liquor, drug, or other substance to such an extent as to be incapable of properly looking after himself.
-  (8) In subsection (5) of this section, justified means not guilty of an offence and not liable to any civil proceeding.
-(2) Section 37A(6) of the Alcoholism and Drug Addiction Act 1966 (as inserted by subsection (1) of this section) shall come into force on the date appointed for the commencement of the Armed Forces Discipline Act 1971.
+(1) Amendment(s) incorporated in the Act(s).
+(2) Section 37A(6) of the Alcoholism and Drug Addiction Act 1966 (as inserted by subsection (1)) shall come into force on the date appointed for the commencement of the Armed Forces Discipline Act 1971.
 
-### 50
-(1)
-(2)
-(3)
-(4)
+### 50 Children and Young Persons Act 1974 amended
+[Repealed]
 
 ### 51 Amendments and repeals
-(1) The enactments specified in the first column of Schedule 1 to this Act are hereby amended in the manner indicated in the second column of that Schedule.
-(2) The enactments specified in Schedule 2 to this Act are hereby repealed.
+(1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
+(2) The enactments specified in Schedule 2 are hereby repealed.
 (3) Where in any enactment the term public place is defined by reference to the meaning of that term in the Police Offences Act 1927 or in any specified provision or part of that Act, that term shall be deemed for the purposes of that enactment to have the meaning assigned to it by section 2 of this Act.
 
-## Schedule 1 — Enactments Consequentially Amended
+## Schedule 1 — Enactments consequentially amended
 
-## Schedule 2 — Enactments Consequentially Repealed
+## Schedule 2 — Enactments consequentially repealed
 
-## Schedule 3 — Crimes Involving Violence
+## Schedule 3 — Crimes involving violence
 
-| Provision of Crimes Act 1961 | Subject-matter |
+| Provision of Crimes Act 1961 | Subject matter |
 | --- | --- |
 | 87 | Riot |
 | 90 | Riotous damage |
@@ -552,14 +511,14 @@ Where the commission of an offence against section 3 of this Act is not proved, 
 | 267 | Arson |
 | 269 | Intentional damage |
 
-| Provision of Arms Act 1983 | Subject-matter |
+| Provision of Arms Act 1983 | Subject matter |
 | --- | --- |
 | 54 | Use or attempted use of firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive to resist or prevent arrest or commit offence |
 | 55 | Carrying firearm, airgun, pistol, imitation firearm, restricted weapon, ammunition, or explosive with criminal intent |
 
-## Schedule 4 — Serious Drug Offences
+## Schedule 4 — Serious drug offences
 
-| Provision of Misuse of Drugs Act 1975 | Subject-matter |
+| Provision of Misuse of Drugs Act 1975 | Subject matter |
 | --- | --- |
 | 6(1) | Dealing with controlled drugs |
 | 6(2A) | Conspiracy to deal with controlled drugs |
