@@ -1,5 +1,5 @@
 # Government Superannuation Fund Act 1956
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-02-24_
 
 > An Act to consolidate and amend the law relating to superannuation
 
@@ -306,15 +306,6 @@ The following must from time to time be paid out of the Fund:
 ### 15I Further provisions applying to Board
 (1) Schedule 4 applies to the Board and its members.
 (2)
-
-**Investment of fund**
-
-### 15J Investment of Fund
-(1) The Authority is responsible for investing the Fund.
-(2) The Authority must invest the Fund on a prudent, commercial basis and, in doing so, must manage and administer the Fund in a manner consistent with—
-  (a) best-practice portfolio management; and
-  (b) maximising return without undue risk to the Fund as a whole; and
-  (c) avoiding prejudice to New Zealand's reputation as a responsible member of the world community.
 
 **Investment of fund**
 
@@ -2711,7 +2702,7 @@ Where under any provision of this Act more persons than one have claims as spous
 (1) This section shall apply to any surviving spouse or partner who becomes entitled to an annuity on or after the 12th day of April 1979 and who is less than 61 years of age at the time the entitlement to the annuity arises.
 (2) Any surviving spouse or partner to whom this section applies may elect to surrender the right to a proportion of the annuity and to receive instead payment out of the Fund of a sum equal to—
   (a) In the case of an annuity payable to the spouse or partner of a person who was a contributor under Part 2A, Part 3A, Part 4, Part 5A, Part 6A, or Part 6B of this Act, 12 times the amount by which the annuity is reduced by the surrender:
-  (b) In the case of an annuity payable to the spouse or partner of a person who was a contributor under any other Part of this Act (other than Part 6), Part 2 of the Government Superannuation Fund Amendment Act 1962, or Part 2 of the Government Superannuation Fund Amendment Act 1970, 9 times the amount by which the annuity is reduced by the surrender.
+  (b) In the case of an annuity payable to the spouse or partner of a person who was a contributor under any other Part of this Act (other than Part 6), Part 2 of the Government Superannuation Fund Amendment Act 1962, or Part 2 of the Government Superannuation Fund Amendment Act 1970, 10.8 times the amount by which the annuity is reduced by the surrender.
 (2A)
 (3) Any election under this section shall be made in writing delivered to the Authority before the surviving spouse or partner has accepted any instalment of the annuity.
 (4) No surviving spouse or partner shall have the right to revoke, amend, or extend any election made under this section.
