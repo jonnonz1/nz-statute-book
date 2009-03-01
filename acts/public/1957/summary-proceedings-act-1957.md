@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-03-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -2875,12 +2875,11 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 216 | Bribery |
 |  | 217 | Treating |
 |  | 218 | Undue influence |
+|  | 219 | Payments for exhibition of election notices |
 |  | 220 | Providing money for illegal purposes |
+|  | 221 | Advertisements for candidates and political parties |
 |  | 221A | Electoral advertisements |
 |  | 222 | Procurement of voting by unqualified voters |
-| Electoral Finance Act 2007 | 65 | Requirements for election advertisements that promote parties or candidates |
-|  | 68 | Payment for exhibition of election advertisement |
-|  | 138 | Providing money for illegal purposes |
 | The Estate and Gift Duties Act 1968 |  |  |
 | The Films, Videos, and Publications Classification Act 1993 | 124(1) | Offences involving knowledge in relation to objectionable publications |
 |  | 127(4) | Offence of exhibiting or displaying objectionable publication to person under age of 18 years knowing or having reasonable cause to believe that publication is objectionable |
