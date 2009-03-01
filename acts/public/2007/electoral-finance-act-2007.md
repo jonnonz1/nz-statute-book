@@ -1,5 +1,5 @@
 # Electoral Finance Act 2007
-_Consolidation as at 2008-05-20_
+_Consolidation as at 2009-03-01_
 
 ### 1 Title
 This Act is the Electoral Finance Act 2007.
@@ -499,7 +499,7 @@ The Electoral Commission—
   (a) a member or employee or other person engaged by the Electoral Commission:
   (b) a donor or contributor and any officer, employee, relative, adviser, or agent of the donor or contributor:
   (c) any other person to whom the identifying details must be supplied to enable the donation to be made (eg, an employee of a bank who processes a cheque by which the donation is made):
-  (d) any person to whom the identifying details must be supplied to comply with one or more of the Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994):
+  (d) any person to whom the identifying details must be supplied to comply with 1 or more of the Inland Revenue Acts (within the meaning of section 3(1) of the Tax Administration Act 1994):
   (e) the Auditor-General:
   (f) any other person entitled to the information in question in accordance with any search warrant, summons, or any process under rules of court, or in the course of any proceedings.
 (4) Except as provided in this section, if there is any inconsistency between subsection (1) and any other enactment, subsection (1) prevails.
@@ -539,7 +539,7 @@ The Electoral Commission—
 (5) The details referred to in subsection (1)(d) are—
   (a) the date the donation or contribution was received; and
   (b) the amount of the donation or contribution; and
-  (c) the amount paid to the overseas person or to the Chief Electoral Officer under section 32(2) or (3) , and the date that payment was made.
+  (c) the amount paid to the overseas person or to the Chief Electoral Officer under section 32(2) or (3), and the date that payment was made.
 (6) Every return filed under subsection (1) must be in the form required by the Chief Electoral Officer and include a statutory declaration made by the financial agent and the candidate, each declaring that, to the best of his or her knowledge and belief,—
   (a) the return correctly sets out all the details required by subsections (2) to (5); and
   (b) a fair assessment has been made of the reasonable market value of donations, if any, of the kind described in paragraph (a)(i) or (ii) of the definition of candidate donation in section 21(2).
