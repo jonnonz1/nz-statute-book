@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2008-12-16_
+_Consolidation as at 2009-03-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -950,11 +950,32 @@ The object of this Part is—
   (b) as having been effective to end the employee's employment, if the former employee elects to treat that term as ineffective.
 
 ### 67 Probationary arrangements
-(1) Where the parties to an employment agreement agree as part of the agreement that an employee will serve a period of probation or trial after the commencement of the employment,—
-  (a) the fact of the probation or trial period must be specified in writing in the employment agreement; and
-  (b) neither the fact that the probation or trial period is specified, nor what is specified in respect of it, affects the application of the law relating to unjustifiable dismissal to a situation where the employee is dismissed in reliance on that agreement during or at the end of the probation or trial period.
+(1) Where the parties to an employment agreement agree as part of the agreement that an employee will serve a period of probation after the commencement of the employment,—
+  (a) the fact of the probation period must be specified in writing in the employment agreement; and
+  (b) neither the fact that the probation period is specified, nor what is specified in respect of it, affects the application of the law relating to unjustifiable dismissal to a situation where the employee is dismissed in reliance on that agreement during or at the end of the probation period.
 (2) Failure to comply with subsection (1)(a) does not affect the validity of the employment agreement between the parties.
-(3) However, if the employer does not comply with subsection (1)(a), the employer may not rely on any term agreed under subsection (1) that the employee serve a period of probation or trial if the employee elects, at any time, to treat that term as ineffective.
+(3) However, if the employer does not comply with subsection (1)(a), the employer may not rely on any term agreed under subsection (1) that the employee serve a period of probation if the employee elects, at any time, to treat that term as ineffective.
+
+### 67A When employment agreement may contain provision for trial period for 90 days or less
+(1) An employment agreement containing a trial provision, as defined in subsection (2), may be entered into by an employee, as defined in subsection (3), and an employer as defined in subsection (4).
+(2) Trial provision means a written provision in an employment agreement that states, or is to the effect, that—
+  (a) for a specified period (not exceeding 90 days), starting at the beginning of the employee's employment, the employee is to serve a trial period; and
+  (b) during that period the employer may dismiss the employee; and
+  (c) if the employer does so, the employee is not entitled to bring a personal grievance or other legal proceedings in respect of the dismissal.
+(3) Employee means an employee who has not been previously employed by the employer.
+(4) Employer means an employer who, at the beginning of the day on which the employment agreement is entered into, employs fewer than 20 employees.
+(5) To avoid doubt, a trial provision may be included in an employment agreement under—
+  (a) section 61(1)(a), but subject to section 61(1)(b):
+  (b) section 63(2)(b).
+
+### 67B Effect of trial provision under section 67A
+(1) This section applies if an employer terminates an employment agreement containing a trial provision under section 67A by giving the employee notice of the termination before the end of the trial period, whether the termination takes effect before, at, or after the end of the trial period.
+(2) An employee whose employment agreement is terminated in accordance with subsection (1) may not bring a personal grievance or legal proceedings in respect of the dismissal.
+(3) Neither this section nor a trial provision prevents an employee from bringing a personal grievance or legal proceedings on any of the grounds specified in section 103(1)(b) to (g).
+(4) An employee whose employment agreement contains a trial provision is, in all other respects (including access to mediation services), to be treated no differently from an employee whose employment agreement contains no trial provision or contains a trial provision that has ceased to have effect.
+(5) Subsection (4) applies subject to the following provisions:
+  (a) in observing the obligation in section 4 of dealing in good faith with the employee, the employer is not required to comply with section 4(1A)(c) in making a decision whether to terminate an employment agreement under this section; and
+  (b) the employer is not required to comply with a request under section 120 that relates to terminating an employment agreement under this section.
 
 ### 68 Unfair bargaining for individual employment agreements
 (1) Bargaining for an individual employment agreement is unfair if—
