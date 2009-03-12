@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2008-12-05_
+_Consolidation as at 2009-03-12_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -2027,30 +2027,25 @@ No person is excused from answering any question or providing any information or
 ## Part 4 — Regulations
 
 ### 70 Regulations and Orders in Council
-(1) The Governor-General may from time to time, by Order in Council, in accordance with the recommendation of the Commission, make regulations for all or any of the following purposes:
-  (a) Prescribing, or empowering the Registrar to prescribe, forms required for the purposes of this Act:
-  (b) Regulating advertising, advertisements, investment statements, prospectuses, and registered prospectuses, including—and different matters may be prescribed, prohibited, restricted, specified, or required in respect of advertisements, investment statements, prospectuses, or registered prospectuses relating to different kinds of securities or different classes of issuers or offerees:
-    (i) Prescribing the information, statements, certificates, documents, or other matters that shall or shall not be contained in, or endorsed on, or attached to, advertisements, investment statements, prospectuses, or registered prospectuses; and
-    (ii) Prohibiting or restricting the use in advertisements, investment statements, prospectuses, or registered prospectuses of prescribed words, information, statements, sounds, and images, graphics, or other matters; or
-    (iii) Prescribing requirements as to the layout or method of presentation of any advertisement, investment statement, prospectus, or registered prospectus, and the size of type used therein;—
-  (c) Providing that statements included in, or relating to an advertisement, investment statement, or registered prospectus or to securities to which an advertisement, investment statement, or registered prospectus relates, made for the purposes of regulations under this Act shall be deemed to be statements made in the advertisement, investment statement, or registered prospectus for the purposes of sections 55 to 65 of this Act:
-  (ca) Prescribing, in respect of securities offered to the public, the kinds of information that must be sent to security holders periodically or on request; and different kinds of information may be prescribed in respect of different kinds of securities:
+(1) The Governor-General may from time to time, by Order in Council, on the recommendation of the Minister in accordance with subsection (3), make regulations for all or any of the following purposes:
+  (a) prescribing, or empowering the Registrar to prescribe, forms required for the purposes of this Act:
+  (b) regulating advertising, advertisements, investment statements, prospectuses, and registered prospectuses, including—and different matters may be prescribed, prohibited, restricted, specified, or required in respect of advertisements, investment statements, prospectuses, or registered prospectuses relating to different kinds of securities or different classes of issuers or offerees:
+    (i) prescribing the information, statements, certificates, documents, or other matters that shall or shall not be contained in, or endorsed on, or attached to, advertisements, investment statements, prospectuses, or registered prospectuses; and
+    (ii) prohibiting or restricting the use in advertisements, investment statements, prospectuses, or registered prospectuses of prescribed words, information, statements, sounds, and images, graphics, or other matters; or
+    (iii) prescribing requirements as to the layout or method of presentation of any advertisement, investment statement, prospectus, or registered prospectus, and the size of type used therein;—
+  (c) providing that statements included in, or relating to an advertisement, investment statement, or registered prospectus or to securities to which an advertisement, investment statement, or registered prospectus relates, made for the purposes of regulations under this Act shall be deemed to be statements made in the advertisement, investment statement, or registered prospectus for the purposes of sections 55 to 65 of this Act:
+  (ca) prescribing, in respect of securities offered to the public, the kinds of information that must be sent to security holders periodically or on request; and different kinds of information may be prescribed in respect of different kinds of securities:
   (d)
   (e)
   (f)
-  (g) Prescribing the information and other matters that shall be included in trust deeds and deeds of participation for the purposes of this Act, and the clauses that shall be deemed to be contained in, or may be adopted by, such deeds; and different matters and clauses may be prescribed in respect of deeds relating to different kinds of securities and different classes of issuers; and, without limiting the generality of the foregoing, clauses specifying the duties and powers of trustees or statutory supervisors, as the case may be, and the obligations of issuers may be prescribed as clauses that are deemed to be contained in such deeds:
-  (h) Regulating the offer to the public of interests in contributory mortgages; and prescribing requirements relating to the management of such interests, including requirements relating to the auditing thereof:
-  (i) Prescribing the places at which documents shall be delivered, and the number of copies of such documents required, for the purposes of this Act:
-  (j) Prescribing transitional and savings provisions relating to the coming into force of this Act; and without limiting the generality of the foregoing, any such regulation may provide that, subject to such terms and conditions as are specified in the regulation, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of Acts repealed by this Act shall continue to apply, in respect of any specified person or class of persons:
-  (k) Prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act; and prescribing the fines, not exceeding $5,000, that may be imposed in respect of any such offence:
-  (l) Providing for such other matters, not inconsistent with this Act, as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
-(2) The Governor-General may from time to time, by Order in Council, in accordance with the recommendation of the Commission, add to Schedule 2 to this Act any qualification. Any reference in this Act to Schedule 2 shall be construed as a reference to that Schedule with any additions made by any Order in Council for the time being in force under this subsection.
-(3) Before making any recommendation for the purposes of subsection (1) or subsection (2) of this section, the Commission shall—
-  (a) Do everything reasonably possible on its part to advise all persons and organisations, who in its opinion will be affected by any Order in Council made in accordance with the recommendation, of the proposed terms thereof; and give such persons and organisations a reasonable opportunity to make submissions thereon to the Commission; and
-  (b) Give notice in the Gazette, not less than 14 days before making the recommendation, of its intention to make the recommendation and state briefly in the notice the matters to which the recommendation relates; and
-  (c) Make copies of the recommendation available for inspection by any person who so requests before an Order in Council is made in accordance therewith:
-  Provided that this subsection shall not apply in respect of any particular recommendation if the Commission considers that it is desirable in the public interest that the recommendation be made urgently:
-  Provided also that failure to comply with this subsection shall in no way affect the validity of any Order in Council made under this section.
+  (g) prescribing the information and other matters that shall be included in trust deeds and deeds of participation for the purposes of this Act, and the clauses that shall be deemed to be contained in, or may be adopted by, such deeds; and different matters and clauses may be prescribed in respect of deeds relating to different kinds of securities and different classes of issuers; and, without limiting the generality of the foregoing, clauses specifying the duties and powers of trustees or statutory supervisors, as the case may be, and the obligations of issuers may be prescribed as clauses that are deemed to be contained in such deeds:
+  (h) regulating the offer to the public of interests in contributory mortgages; and prescribing requirements relating to the management of such interests, including requirements relating to the auditing thereof:
+  (i) prescribing the places at which documents shall be delivered, and the number of copies of such documents required, for the purposes of this Act:
+  (j) prescribing transitional and savings provisions relating to the coming into force of this Act; and without limiting the generality of the foregoing, any such regulation may provide that, subject to such terms and conditions as are specified in the regulation, specified provisions of this Act shall not apply during a specified transitional period, or specified provisions of Acts repealed by this Act shall continue to apply, in respect of any specified person or class of persons:
+  (k) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act; and prescribing the fines, not exceeding $5,000, that may be imposed in respect of any such offence:
+  (l) providing for such other matters, not inconsistent with this Act, as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(2) The Governor-General may from time to time, by Order in Council, on the recommendation of the Minister in accordance with subsection (3), add to Schedule 2 to this Act any qualification. Any reference in this Act to Schedule 2 shall be construed as a reference to that Schedule with any additions made by any Order in Council for the time being in force under this subsection.
+(3) The Minister must consult with the Commission before making a recommendation under subsection (1) or subsection (2).
 (3A)
 (4)
 
