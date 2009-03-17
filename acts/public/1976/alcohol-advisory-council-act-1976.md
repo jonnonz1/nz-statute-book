@@ -1,5 +1,5 @@
 # Alcohol Advisory Council Act 1976
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-03-17_
 
 > An Act to provide for the establishment of an Alcoholic Liquor Advisory Council having as its primary objective the promotion of moderation in the use of alcoholic liquor and the reduction of the personal, social, and economic evils resulting from the misuse of alcoholic liquor, to define the Council's functions and powers, and to make provision for the funding of the Council's activities by means of a levy on alcoholic liquor imported into or manufactured in New Zealand
 
@@ -21,42 +21,41 @@ The purpose of this Act is to—
   - **Alcoholic Liquor Account**
   - **Alcoholic Liquor Fund** or
   - **Appointed member**
-  - **Basic unit of liquor** means—
-    (a) In relation to beer, fortified wine, and unfortified wine, a litre:
-    (b) In relation to spirits, a litre of alcohol:
   - **Beer** means the product of the alcoholic fermentation by yeast of liquid derived from a mash of drinking water and malt grains with hops or their extracts that on analysis is found to contain more than 1.15 percent volume of alcohol
   - **Chairman**
   - **Chairperson**
+  - **class of liquor** means a class of liquor as identified in the table in the Schedule
   - **Collector of Customs** or
   - **Council** means the Alcohol Advisory Council of New Zealand constituted by section 3
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Financial year**
-  - **Fortified wine** means any product that, if imported, would be admissible for the time being under any of the headings 22.04, 22.05, and 22.06 of the Tariff of New Zealand and that exceeds in strength 14 percent alcohol by volume
-  - **Fruit wine** means wine manufactured in New Zealand from any product other than grapes
-  - **Grape wine** means wine manufactured in New Zealand from grapes
   - **Hotel Investment Account**
   - **Levy** means a levy payable under section 28 of this Act
   - **Licensing fund**
   - **Liquor Fund** or means the Liquor Fund established under section 20
   - **Minister** means the Minister of Health
   - **Official member**
-  - **Preceding statistical year** means the latest complete period of 12 consecutive months in respect of which, at any material time, the following information is available to the Minister, that is the total number of litres of beer, spirits, and wine imported into, and manufactured in, New Zealand during that period
+  - **preceding statistical year** means the latest complete period of 12 consecutive months in respect of which, at any material time, the following information is available to the Minister, that is the total number of litres of each class of liquor imported into, and manufactured in, New Zealand during that period
   - **Primary objective** , in relation to the Council, means the primary objective of the Council as set out in section 7 of this Act
+  - **rate** , when referring to a rate for a class of liquor, means the percentage figure, set out in the fourth column of the table in the Schedule, that is used to calculate the levy for that class of liquor
   - **Spirits** means ethyl alcohol, whether denatured or not, and any spirituous beverages, including brandy, gin, rum, vodka, whisky, and every other description of spirituous liquor derived from ethyl alcohol
-  - **Wine** means all products that, if imported, would be admissible for the time being under any of the headings 22.04, 22.05, and 22.06 of the Tariff of New Zealand
+  - **wine** means the product of the complete or partial fermentation of any fruit (including grapes), vegetable, or honey, and—
+    (a) includes—
+      (i) cider, perry, and mead; and
+      (ii) fortified wines such as sherry, port, and fruit or vegetable-based liquors; but
+    (b) does not include—
+      (i) beer or spirits; or
+      (ii) any liquor containing no more than 1.15% volume of alcohol
   - **Wine Institute's trustee**
   - **winemaker** has the same meaning as in the Wine Act 2003.
-(2) For the purposes of section 26(2) of this Act, the number of alcohol units of beer or spirits, or fortified wine, or unfortified wine, imported into or manufactured in New Zealand during any statistical year shall be calculated by multiplying the total number of litres of that class of liquor so imported or manufactured during that year—
-  (a) By 3, in the case of beer:
-  (b) By 42, in the case of spirits:
-  (c) By 18, in the case of fortified wine:
-  (d) By 11, in the case of unfortified wine.
+(2)
 (2A)
 (2B)
-(2C) For the purposes of the said section 26(2), and of subsection (2) of this section, the total number of litres of spirits manufactured in or imported into New Zealand during any statistical year shall be calculated in accordance with the following formula: Total number of litres =PL x 4/3, where PL is the total number of proof litres of spirits manufactured in or imported into New Zealand during that statistical year.
-(2D) For the purposes of sections 26(2) and 28, and of subsection (2) of this section, where any wine manufactured in New Zealand is sold to another winemaker for blending with other wine, the wine so sold is deemed to be manufactured by the person who blends it, and not by its original maker.
-(3) For the purposes of section 26(2), and of subsection (2) of this section, the total number of litres of wine manufactured in New Zealand during any statistical year is deemed to be the same as the total number of litres of wine sold by winemakers during that year.
+(2C)
+(2D) For the purposes of sections 26(2) and 28, where any wine manufactured in New Zealand is sold to another winemaker for blending with other wine, the wine so sold is deemed to be manufactured by the person who blends it, and not by its original maker.
+(3) For the purposes of section 26(2), the total number of litres of wine manufactured in New Zealand during any statistical year is deemed to be the same as the total number of litres of wine sold by winemakers during that year.
 (4) For the purposes of sections 28 and 29A, the total number of litres of wine sold in New Zealand during any financial year is deemed to be the same as the total number of litres of wine sold in New Zealand during the preceding statistical year.
+(5) For the purposes of section 26(2) and the Schedule, liquor that is exported from New Zealand during the preceding statistical year is not to be treated as liquor that is imported into or manufactured in New Zealand.
 
 ## Part  — Constitution of Council
 
@@ -204,24 +203,28 @@ All fees, salaries, allowances, and other expenditure payable or incurred under 
 (3) Nothing in this section shall oblige the Council to expend in any financial year the whole of its income received in that year; instead, the Council may accumulate any part of its income in any financial year and expend it as it sees fit for any of its purposes in any subsequent financial year.
 (4) Notwithstanding anything in subsection (2) of this section, where the Council carries forward any such amount to a subsequent financial year, the Minister may, in determining the aggregate levy figure for that year, take into account the whole or any part of that amount.
 
-### 26 Minister to fix proportion of aggregate levy figure to be borne by various classes of liquor
-(1) Having assessed the aggregate levy figure in respect of any financial year under section 25 of this Act, the Minister shall, in accordance with subsection (2) of this section, determine the proportion of the aggregate levy figure that is to be borne for that year by each of the following classes of liquor:
-  (a) Beer:
-  (b) Spirits:
-  (c) Fortified wine:
-  (d) Unfortified wine.
-(2) In every financial year the proportion of the aggregate levy figure that is to be borne by each of those classes of liquor shall be fixed by the Minister in the same ratio as the number of alcohol units of that class of liquor imported into or manufactured in New Zealand during the preceding statistical year bears to the total number of alcohol units of all those classes of liquor imported into or manufactured in New Zealand during that statistical year.
-(3) Notwithstanding anything in subsection (2) of this section, no liquor that was exported from New Zealand during the preceding statistical year shall be taken into account for the purposes of that subsection.
+### 26 Minister to determine amounts of levy for each class of liquor
+(1) After assessing the aggregate levy figure in respect of any financial year, the Minister must determine, in accordance with subsection (2), the amounts of the levies payable under section 28, in respect of each class of liquor, in order to yield an amount equivalent to the aggregate levy figure.
+(2) The process for determining the amounts of levy is as follows:
+  (a) Step 1—for each class of liquor, determine the total number of litres of that class of liquor that was imported into or manufactured in New Zealand during the preceding statistical year:
+  (b) Step 2—for each class of liquor, multiply the result of step 1 by the appropriate rate, as set out in the table in the Schedule. This gives the (nominal) total number of litres of alcohol for each class of liquor:
+  (c) Step 3—for each class of liquor, divide the number of litres of alcohol for that class by the total number of litres of alcohol for all classes. This gives the proportion of the aggregate levy figure that is to be borne by that class of liquor in the next financial year:
+  (d) Step 4—for each class of liquor, multiply the result of step 3 by the aggregate levy figure. This gives the amount of levy to be borne by each class of liquor in the next financial year:
+  (e) Step 5—for each class of liquor, divide the result of step 4 by the result of step 1. This gives the amount of levy payable on each litre of liquor of that class in the next financial year.
+(3) If a rate for a class of liquor is described in the table in the Schedule as a variable rate, the Minister must—
+  (a) determine the rate to be applied to that class of liquor; and
+  (b) in making that determination, use the method for determining variable rates that is described in the Schedule.
 
-### 27 Minister to fix rate of levy payable in respect of various classes of liquor
-(1) Having assessed the proportion of the aggregate levy figure to be borne in any financial year by each of the classes of liquor referred to in section 26 of this Act in accordance with the provisions of that section, the Minister shall, by notice in the Gazette, and in accordance with the provisions of subsection (2) of this section, fix the rate at which the levy imposed by section 28 of this Act is to be payable on each basic unit of liquor of each such class.
-(2) In respect of every financial year the Minister shall fix the rate of the levy payable in respect of each class of liquor as the rate that, in the opinion of the Minister, is likely to yield, during that financial year, an amount equal to the proportion of the aggregate levy figure to be borne, pursuant to section 26 of this Act, by that class of liquor.
+### 27 Rate of levy fixed by Order in Council
+(1) The Governor-General may, by Order in Council, fix for the next financial year, by reference to each class of liquor, the amount of levy payable under section 28.
+(2) The amount of levy for each class of liquor must be as determined by the Minister in accordance with section 26(2).
+(3) If a rate for a class of liquor is described in the table in the Schedule as a variable rate, the Order in Council must identify the rate determined by the Minister under section 26(3) and used for the purpose of section 26(2).
 
 ### 28 Levies payable by importers and manufacturers of liquor
-(1) In every financial year there shall be payable by every person who—a levy at the rate for the time being fixed by the Minister in accordance with section 27 of this Act.
-  (a) Enters for home consumption in New Zealand any imported liquor of any of the classes referred to in section 26 of this Act; or
-  (b) Manufactures in New Zealand any beer or spirits; or
-  (c) Sells any fortified wine or unfortified wine manufactured by that person in New Zealand,—
+(1) In every financial year a levy of the amount set by Order in Council made under section 27 is payable by every person who—
+  (a) enters for home consumption (as that expression is used in the Customs and Excise Act 1996) any imported liquor that contains more than 1.15% volume of alcohol; or
+  (b) manufactures in New Zealand any beer or spirits; or
+  (c) sells any wine manufactured by that person in New Zealand.
 (2) Notwithstanding anything in subsection (1) of this section, no levy shall be payable under this Act in respect of any liquor that is not subject to or is exempt from Customs duty under the Customs and Excise Act 1996.
 (3) Notwithstanding anything in this Act, where any person may be allowed, under the Customs and Excise Act 1996, any drawback in respect of any liquor, that person may also be allowed a refund of any levy paid by that person under this Act in respect of that liquor.
 (4) In this section the term Customs duty has the meaning given to the term duty by section 2(1) of the Customs and Excise Act 1996.
@@ -269,10 +272,37 @@ Where, pursuant to the terms of any will or other instrument creating a trust, a
 [Repealed]
 
 ### 39 Regulations
-The Governor-General may from time to time by Order in Council make regulations for all or any of the following purposes:
+(1) The Governor-General may from time to time by Order in Council make regulations for all or any of the following purposes:
   (a) Providing for returns to be made by persons importing into or manufacturing in New Zealand any liquor, or any class or kind of liquor, for the purpose of ascertaining the amount of any levy payable under this Act, and providing for the verification of such returns:
+  (ba) amending or replacing the table in the Schedule, and amending, omitting, or reinserting the description of the method for determining variable rates:
   (b) Exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
   (c) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+(2) Regulations under subsection (1)(ba) may be made only—
+  (a) for the purpose of aligning the rates for classes of liquor under this Act with the classification system applied to alcoholic beverages under Part B of Schedule 3 of the Customs and Excise Act 1996; and
+  (b) after consultation with the Minister of Customs.
 
 ### 40 Repeal
 [Repealed]
+
+## Schedule  — Classes of liquor and rates for each class
+
+| Class | Legal definition of class | Indicative description | Rate |
+| --- | --- | --- | --- |
+|  | Liquor which, if imported, would be classified within the following tariff items | Percentage of alcohol by volume in most items in class |  |
+| A | 2203.00.12, 2206.00.37, 2208.70.30, 2208.90.56 | More than 1.15% but not more than 2.5% | 1.5% |
+| B | 2203.00.22, 2203.00.31, 2203.00.39, 2206.00.47, 2208.70.40, 2208.90.60 | More than 2.5% but not more than 6% | Variable |
+| C | 2206.00.57, 2208.70.50, 2208.90.67 | More than 6% but not more than 9% | 8% |
+| D | 2204.10.01, 2204.10.18, 2204.21.18, 2204.29.18, 2205.10.19, 2205.10.38, 2205.90.19, 2205.90.38, 2206.00.08, 2206.00.68, 2208.70.60, 2208.90.79 | More than 9% but not more than 14% | 10% |
+| E | 2204.21.13, 2204.29.13, 2205.10.12, 2205.10.33, 2205.90.12, 2205.90.33, 2206.00.17, 2206.00.78, 2208.70.71, 2208.90.06, 2208.90.88 | More than 14% but not more than 23% | Variable |
+| F | 2206.00.28, 2206.00.89, 2208.20.04, 2208.20.08, 2208.20.19, 2208.20.29, 2208.30.04, 2208.30.08, 2208.30.19, 2208.40.04, 2208.40.08, 2208.40.19, 2208.50.04, 2208.50.08, 2208.50.19, 2208.60.19, 2208.60.29, 2208.60.99, 2208.70.80, 2208.90.08, 2208.90.48, 2208.90.99 | More than 23% | Variable |
+
+### 1 Title
+This Act is the Alcohol Advisory Council Amendment Act 2009.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Transitional provision
+
+### 9 Transitional provision
+Section 28(1) of the principal Act, as in force immediately before the commencement of this Act, continues to apply with respect to the whole of the financial year to which the last Gazette notice given under section 27(1) of the principal Act (as in force immediately before the commencement of this Act) applies.
