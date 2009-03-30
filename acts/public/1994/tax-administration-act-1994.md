@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2008-12-15_
+_Consolidation as at 2009-03-30_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -338,7 +338,7 @@ _Consolidation as at 2008-12-15_
     (d) if the notice is a notice of proposed adjustment not relating solely to a claim for an amount of tax credit under section LH 2 of the Income Tax Act 2007 that is issued by a taxpayer under section 89DA and the initiating notice is a notice of assessment issued by the taxpayer, the 4-month period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department:
     (e) if the notice is a notice of proposed adjustment relating solely to a claim for an amount of tax credit under section LH 2 of the Income Tax Act 2007 that is issued by a taxpayer under section 89DA and the initiating notice is a notice of assessment issued by the taxpayer,—
       (i) the 2-year period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department, if the taxpayer is not a member of an internal software development group and not a partner in a partnership to which section 68E applies; or
-      (ii) the period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department and ending on the day that is 1 year after the latest day for any member of the taxpayer's internal software development group or for the taxpayer's partnership to furnish a return of income or joint return of income for the relevant tax year under section 37
+      (ii) the period starting on the date on which the taxpayer's notice of assessment is received at an office of the Department and ending on the day that is 2 years after the latest day for any member of the taxpayer's internal software development group or for the taxpayer's partnership to furnish a return of income or joint return of income for the relevant tax year under section 37
   - **responsible department** , in sections 81(4)(f) and (o), 82 and 85, means—
     (a) in relation to a benefit that is not a student allowance, the department for the time being responsible for administration of the Social Security Act 1964:
     (b) in relation to a student allowance, the department for the time being responsible for administration of Part 25 of the Education Act 1989
