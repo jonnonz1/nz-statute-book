@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2009-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -15,7 +15,7 @@ The purpose of this Act is—
   (c) to provide for Government contributions to the Fund:
   (d) to establish a Crown entity to manage and administer the Fund called the Guardians of New Zealand Superannuation:
   (e) to establish a process for signalling political agreement on the parameters for New Zealand superannuation entitlements and funding:
-  (f) to bring together in 1 Act all of the provisions for each of those matters.
+  (f) to bring together in one Act all of the provisions for each of those matters.
 
 ### 4 Interpretation of Part 1 and Schedule 1
 (1) In Part 1 and Schedule 1, unless the context otherwise requires,—
@@ -45,13 +45,13 @@ The purpose of this Act is—
   - **subsidiary** —
     (a) means a subsidiary within the meaning of sections 5 to 8 of the Companies Act 1993; and
     (b) includes an entity that is classified as a subsidiary in any relevant approved financial reporting standard (within the meaning of section 2(1) of the Financial Reporting Act 1993).
-(2) In this Act, unless the context otherwise requires, the terms, Crown, Crown Bank Account, expenses, financial year, Government, public money, and Treasury have the meanings given to them by section 2(1) of the Public Finance Act 1989.
+(2) In this Act, unless the context otherwise requires, the terms Crown, Crown Bank Account, expenses, financial year, Government, public money, and Treasury have the meanings given to them by section 2(1) of the Public Finance Act 1989.
 
 ### 5A Interpretation of Part 4 and Schedule 6
 In Part 4 and in Schedule 6, unless the context otherwise requires,—
   - **Commissioner** means the office of the Retirement Commissioner continued by this Part
   - **Government** means the Executive Government of New Zealand
-  - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, responsible for the administration of Part 4
+  - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, responsible for the administration of Part 4.
 
 ### 6 Act binds the Crown
 This Act binds the Crown.
@@ -82,17 +82,18 @@ No person is entitled to New Zealand superannuation unless the person—
 ### 10 Periods of absence as missionary also not counted
 (1) In determining the period an applicant has been present in New Zealand, no account is taken of any period of absence while engaged in missionary work outside New Zealand as a member of, or on behalf of, any religious body or, as the case may be, during any period that the applicant was absent from New Zealand with his or her spouse or partner while that spouse or partner was engaged in that missionary work.
 (2) Subsection (1) applies only if the chief executive is satisfied that the applicant was either born in New Zealand or was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work or, as the case may be, to accompany or join his or her spouse or partner.
-(3) Unless otherwise expressly provided in the agreement, the provisions of subsection (1) are not modified by the provisions of any agreement entered into by the Government of New Zealand with the Government of any other country, whether before or after the commencement of this section, providing for reciprocity in social security benefits between their respective countries or the provisions of any Act or Order in Council giving effect to the agreement.
+(3) Unless otherwise expressly provided in the agreement, the provisions of subsection (1) are not modified by the provisions of any agreement entered into by the Government of New Zealand with the government of any other country, whether before or after the commencement of this section, providing for reciprocity in social security benefits between their respective countries or the provisions of any Act or Order in Council giving effect to the agreement.
 (4) In this section, missionary work includes the advancement of religion or education and the maintenance, care, or relief, of orphans, or the aged, infirm, sick, or needy.
 
 ### 11 Commencement of New Zealand superannuation
-New Zealand superannuation commences on the date on which the applicant becomes entitled to receive it or the date on which the application for it is received by the department, whichever is the later date.
+(1) New Zealand superannuation commences on the date on which the applicant becomes entitled to receive it or the date on which the application for it is received by the department, whichever is the later date.
+(2) This section is subject to section 80AA of the Social Security Act 1964.
 
 ### 12 Standard rates of New Zealand superannuation
 (1) The rate of New Zealand superannuation payable to any person is the appropriate rate stated in clause 1 or clause 2 of Schedule 1.
 (2) A person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation may elect to receive the appropriate rate stated in either clause 1 or clause 2 of that schedule.
 (3) However, an election to receive New Zealand superannuation under clause 2 of Schedule 1 does not take effect until the employment has ceased in a case where—
-  (a) that person's spouse or partner is or was in employment under a contract of service; and
+  (a) that person’s spouse or partner is or was in employment under a contract of service; and
   (b) the combined income of the person and his or her spouse or partner, during that employment, is or was enough to prevent receipt of New Zealand superannuation under clause 2 of that schedule.
 (4) A person who has made an election under subsection (2) may at any time change that election.
 
@@ -121,15 +122,15 @@ New Zealand superannuation commences on the date on which the applicant becomes 
 (2) However, if an application for a living alone payment is made as a result of the death of the spouse or partner of the applicant, the living alone payment commences on—
   (a) the date on which the applicant becomes entitled to receive it if the application is received within 28 days after the date of entitlement; or
   (b) the date on which the application is received if it is received 28 days or more after the date of entitlement.
+(3) This section is subject to section 80AA of the Social Security Act 1964.
 
 **Annual adjustment of New Zealand superannuation**
 
 ### 15 Annual adjustment of standard rates of New Zealand superannuation
 (1) In this section,—
   - **CPI** means the consumers price index-all groups published by the Department of Statistics
-  - **earner premium**
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with the tax code M stated in section 24B of the Tax Administration Act 1994.
-(2) Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and paragraph (b) of clause 2 of Schedule 1 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December 1 year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
+(2) Subject to subsection (3), the rates of New Zealand superannuation stated in paragraphs (a), (b), and (c) of clause 1 and paragraph (b) of clause 2 of Schedule 1 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter ended with the immediately preceding 31 December.
 (3) Every Order in Council made under subsection (2) must adjust the rates of New Zealand superannuation, subject to subsection (4),—
   (a) so that the weekly amounts referred to in section 16 are set in accordance with that section; and
   (b) so that the rate of New Zealand superannuation stated in paragraph (b) of clause 2 of Schedule 1 preserves its proportional relationship (after the deduction of standard tax) to the rates stated in paragraphs (a), (b), and (c) of clause 1 of that schedule.
@@ -153,8 +154,8 @@ New Zealand superannuation commences on the date on which the applicant becomes 
   (b) New Zealand superannuation at the appropriate rate payable to a person who is single, in any case where—
     (i) that person is not entitled to New Zealand superannuation in his or her own right; but
     (ii) his or her spouse or partner is entitled to New Zealand superannuation and was entitled to make and had made an election under section 6(2) or section 11(2) of the Social Welfare (Transitional Provisions) Act 1990 before 1 October 1991; or
-  (c) an emergency benefit under section 61 of the Social Security Act 1964 at the appropriate rate of an invalid's benefit payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
-(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person's spouse or partner under Part 4 of that Act.
+  (c) an emergency benefit under section 61 of the Social Security Act 1964 at the appropriate rate of an invalid’s benefit payable to a person who is single or is single with 1 or more dependent children, as the case may be, in any other case.
+(3) Any benefit payable to a person to whom this section applies is not subject to abatement in respect of any income of the person that has been included in a means assessment of the person’s spouse under Part 4 of that Act.
 
 ### 18 Living alone rate of payment for spouses or partners of persons in long-term residential care in hospital or rest home
 However, every person to whom section 17(2)(a) or (b) applies is entitled to receive New Zealand superannuation at the appropriate rate stated in clause 1(a) of Schedule 1 if the person has been granted a living alone payment under section 13.
@@ -165,10 +166,10 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 (3) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for a period of 13 weeks or less is not affected.
 (4) The rate of New Zealand superannuation payable to a person who is a patient in a hospital for more than 13 weeks is, on and after the commencement of the 14th week of hospitalisation, the rate stated in clause 3 of Schedule 1.
 (5) Subsection (4) does not apply to a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) who is a patient in a hospital and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act.
-(6) However, the chief executive may, at the chief executive's discretion,—
-  (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient's personal financial circumstances.
+(6) However, the chief executive may, at the chief executive’s discretion,—
+  (a) pay to any patient to whom subsection (4) applies a higher rate than the rate stated in clause 3 of Schedule 1 after having regard to the patient’s personal financial circumstances.
   (b)
-(7) If, after 13 weeks' hospitalisation, the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (4) or subsection (6)(b), and that person's spouse or partner is either not in hospital or has been in hospital for less than 13 weeks, any New Zealand superannuation payable to or for the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
+(7) If, after 13 weeks’ hospitalisation, the New Zealand superannuation of a person who is married or in a civil union or in a de facto relationship is reduced under subsection (4) or subsection (6)(b), and that person’s spouse or partner is either not in hospital or has been in hospital for less than 13 weeks, any New Zealand superannuation payable to or for the spouse or partner must be increased, on the same date as the effective date of that reduction, by an amount equal to the difference between—
   (a) the maximum rate of New Zealand superannuation payable to a single person; and
   (b) the maximum rate of New Zealand superannuation payable to a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is receiving New Zealand superannuation.
 (8) In any case where the rate of New Zealand superannuation has been reduced in accordance with this section and the superannuitant in hospital is absent from the hospital for not more than 28 days, the rate of New Zealand superannuation payable on return to hospital must be determined as if that absence has not occurred.
@@ -178,11 +179,11 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 ### 20 Special disability allowance
 (1) This section applies if—
   (a) a person receives New Zealand superannuation; and
-  (b) the person's spouse or partner is either—
+  (b) the person’s spouse or partner is either—
     (i) a patient in a hospital as defined in section 19; or
     (ii) a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act; and
   (c) that spouse or partner receives a reduced benefit under section 19(4) or (5).
-(2) The chief executive must grant a special disability allowance at the rate stated in clause 4 of Schedule 1, for the purpose of defraying expenses arising from the spouse's or partner's hospitalisation.
+(2) The chief executive must grant a special disability allowance at the rate stated in clause 4 of Schedule 1, for the purpose of defraying expenses arising from the spouse’s or partner’s hospitalisation.
 (3) This section applies despite anything in section 69C of the Social Security Act 1964 but subject to section 68A of that Act.
 
 **Payment overseas of New Zealand superannuation**
@@ -192,8 +193,8 @@ A person is not entitled to New Zealand superannuation while that person is abse
 
 ### 22 First 26 weeks of certain temporary absences
 New Zealand superannuation that would otherwise be payable to a person is payable in respect of the first 26 weeks of any absence from New Zealand if—
-  (a) the person's absence does not exceed 30 weeks; or
-  (b) the person's absence exceeds 30 weeks and the chief executive is satisfied that the absence beyond 30 weeks is due to circumstances beyond that person's control that he or she could not reasonably have foreseen before departure.
+  (a) the person’s absence does not exceed 30 weeks; or
+  (b) the person’s absence exceeds 30 weeks and the chief executive is satisfied that the absence beyond 30 weeks is due to circumstances beyond that person’s control that he or she could not reasonably have foreseen before departure.
 
 ### 23 Absences up to 2 years for medical treatment
 The chief executive may pay New Zealand superannuation to any person who would otherwise be entitled to receive it, but who is absent from New Zealand for any period or periods not exceeding 2 years in total because that person or his or her spouse or partner, dependent child, or sibling is receiving medical treatment overseas for which the Ministry of Health is granting assistance.
@@ -208,7 +209,7 @@ The chief executive may pay New Zealand superannuation to any person who would o
 (2) The chief executive of the Ministry of Foreign Affairs and Trade must determine any question that arises as to whether an aid agency fulfils the qualifications set out in subsection (1).
 
 ### 25 Date absence commences
-If a person who is absent from New Zealand would have become entitled to New Zealand superannuation during his or her absence but for section 21, the person's absence is to be regarded as having commenced on the day he or she would have become entitled to New Zealand superannuation.
+If a person who is absent from New Zealand would have become entitled to New Zealand superannuation during his or her absence but for section 21, the person’s absence is to be regarded as having commenced on the day he or she would have become entitled to New Zealand superannuation.
 
 ### 26 Payment overseas of New Zealand superannuation
 (1) A person who is entitled to receive New Zealand superannuation and who leaves New Zealand to reside in a country with which New Zealand has no agreement relating to reciprocity of social security monetary benefits is entitled, while residing in that country, to be paid 50% of the gross rate of New Zealand superannuation (excluding any living alone payment), as the case may be, that he or she would be entitled to receive if he or she resided in New Zealand.
@@ -219,12 +220,13 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 
 ### 27 Applications after leaving New Zealand
 (1) This section applies if a person did not make an application for payment under section 26 while ordinarily resident and present in New Zealand because he or she left New Zealand intending to be absent for 26 weeks or less.
-(2) The chief executive may accept an application for payment in accordance with section 26 if satisfied that the absence for more than 26 weeks is or was due to circumstances beyond the applicant's control that could not reasonably have been foreseen before leaving New Zealand.
+(2) The chief executive may accept an application for payment in accordance with section 26 if satisfied that the absence for more than 26 weeks is or was due to circumstances beyond the applicant’s control that could not reasonably have been foreseen before leaving New Zealand.
 (3) If the chief executive has accepted an application under subsection (2) and, after the applicant left New Zealand, the applicant has been paid any instalment of New Zealand superannuation in accordance with sections 21 to 25, no liability to repay any of those instalments arises merely because the applicant fails to return to New Zealand within the period allowed for by those sections.
 
 ### 28 Date of commencement of payment overseas
-(1) The date of commencement of payment overseas of New Zealand superannuation under section 26 is the first pay day after the date of the applicant's departure from New Zealand.
+(1) The date of commencement of payment overseas of New Zealand superannuation under section 26 is the first pay day after the date of the applicant’s departure from New Zealand.
 (2) However, in the case of an application under section 27, the date of commencement is the first pay day after the date on which the application was received by the department.
+(3) Subsection (2) is subject to section 80AA of the Social Security Act 1964.
 
 ### 29 Relationship with other benefit provisions
 (1) If New Zealand superannuation payable overseas in accordance with section 26 is directly reduced under section 70 of the Social Security Act 1964, the amount payable is 50% of the reduced gross rate that would be payable in New Zealand.
@@ -262,9 +264,7 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 ### 32 Rates of payment of New Zealand superannuation payable to people resident in specified Pacific countries
 (1) The rate of New Zealand superannuation payable under section 31 is,—
   (a) in the case of a person who has resided in New Zealand for 20 or more years since turning 20 years, the base rate:
-  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:where—
-    (a) is the base rate
-    (b) is the whole number of years the person has resided in New Zealand since turning 20 years:
+  (b) in the case of a person who has resided in New Zealand for 10 or more years but fewer than 20 years since turning 20 years, an amount calculated using the following formula:a × b20where—ais the base ratebis the whole number of years the person has resided in New Zealand since turning 20 years:
   (c) in the case of a person who is resident in a specified Pacific country and was being paid New Zealand superannuation immediately before 1 October 1999 under section 17 or section 17B of the Social Welfare (Transitional Provisions) Act 1990 as it was immediately before that date, the higher of—
     (i) the amount he or she was being paid immediately before that date; and
     (ii) the appropriate amount payable under paragraph (a) or paragraph (b).
@@ -274,7 +274,7 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 (3) However, if section 70 of the Social Security Act 1964 applies, that amount must be reduced by the amount deducted in accordance with that section.
 
 ### 33 Commencement and termination of payments
-(1) The commencement date of payment of a benefit under section 31 is the first pay day after the date of the person's departure from New Zealand.
+(1) The commencement date of payment of a benefit under section 31 is the first pay day after the date of the person’s departure from New Zealand.
 (2) When a person being paid a benefit under section 31 dies, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
 
 ### 34 Effect on other benefits
@@ -294,7 +294,7 @@ This Part—
   (b) provides for payments into and out of the Fund:
   (c) establishes the Guardians of New Zealand Superannuation to manage and administer the Fund:
   (d) requires the Guardians to invest the Fund on a prudent, commercial basis:
-  (e) empowers the Minister to give directions to the Guardians regarding the Government's expectations as to the Fund's performance, and requires the Guardians to have regard to those directions:
+  (e) empowers the Minister to give directions to the Guardians regarding the Government’s expectations as to the Fund’s performance, and requires the Guardians to have regard to those directions:
   (g) provides for other matters relating to the Fund and the Guardians.
 
 **New Zealand Superannuation Fund**
@@ -309,7 +309,7 @@ The Fund consists of—
   (c) Fund investments:
   (d) money accruing from the investment of the Fund:
   (e) any other money that may be lawfully payable into the Fund:
-  (f) money in the Crown Bank Account opened under section 39.
+  (f) money in a Crown Bank Account opened under section 39.
 
 ### 39 Crown Bank Account
 (1) The Treasury must open a Crown Bank Account for the Fund at any bank or banks that the Minister may direct.
@@ -341,14 +341,19 @@ The Fund is the property of the Crown.
 (3) Part 2 of the Public Finance Act 1989 (including, without limitation, section 26W) applies to the matters that are included in the economic and fiscal update under this section as if they were required to be included under that Act.
 
 ### 43 Amount of required annual capital contribution
-The required annual capital contribution for each financial year is—where—a is the percentage of that year's GDP that, if the same percentage of the GDP that is projected for each of the next 40 years were contributed (by way of either or both of annual required capital contributions and annual expense payments under section 45) each year for the next 40 years, would be just sufficient, taking into account the Fund balance at the start of that year and projected Fund investment income over the next 40 years, to enable the Fund to meet the expected net cost of the New Zealand superannuation entitlements payable out of the Fund over the next 40 years GDP is the projected annual gross domestic product of New Zealand b is the expected net cost of the New Zealand superannuation entitlements payable out of the Fund in the year net cost is the cost of New Zealand superannuation entitlements net of any amount of tax deducted or withheld, or required to be deducted or withheld under the PAYE rules in the Income Tax Act 2007 next 40 years means the financial year for which the required annual capital contribution is being calculated plus each of the following 39 financial years.
+The required annual capital contribution for each financial year is—a × that year’s GDP − b100where—
+  (a) is the percentage of that year’s GDP that, if the same percentage of the GDP that is projected for each of the next 40 years were contributed (by way of either or both of annual required capital contributions and annual expense payments under section 45) each year for the next 40 years, would be just sufficient, taking into account the Fund balance at the start of that year and projected Fund investment income over the next 40 years, to enable the Fund to meet the expected net cost of the New Zealand superannuation entitlements payable out of the Fund over the next 40 years
+  (GDP) is the projected annual gross domestic product of New Zealand
+  (b) is the expected net cost of the New Zealand superannuation entitlements payable out of the Fund in the year
+  (net cost) is the cost of New Zealand superannuation entitlements net of any amount of tax deducted or withheld, or required to be deducted or withheld under the PAYE rules in the Income Tax Act 2007
+  (next 40 years) means the financial year for which the required annual capital contribution is being calculated plus each of the following 39 financial years.
 
 ### 44 Lesser amounts of annual capital contribution
 (1) If the Government intends to pay less into the Fund in any financial year than the required annual capital contribution, the Minister must include, in the fiscal strategy report prepared under Part 2 of the Public Finance Act 1989,—
   (a) the amount of the required annual capital contribution stated in the economic and fiscal update under section 42 in respect of the financial year; and
   (b) a statement of the amount of annual capital contribution actually to be paid into the Fund in that year; and
-  (c) a statement of the reasons for the Government's departure from the required annual capital contribution; and
-  (d) a statement of the Government's intentions regarding future contributions to the Fund; and
+  (c) a statement of the reasons for the Government’s departure from the required annual capital contribution; and
+  (d) a statement of the Government’s intentions regarding future contributions to the Fund; and
   (e) a statement of the approach the Government intends to take to ensure that the Fund will be sufficient to meet the payments of New Zealand superannuation entitlements expected to be made over the next 40-year period.
 (2) The requirements of this section do not apply if the required annual capital contribution is less than zero.
 
@@ -364,7 +369,7 @@ The Minister may pay any money into the Fund that is additional to that required
 **Withdrawals from Fund**
 
 ### 47 Withdrawals from Fund after 2020
-(1) If the required annual capital contribution is less than zero, the Minister may require a capital withdrawal to be made from the Fund up to that amount and paid into the Crown Bank Account.
+(1) If the required annual capital contribution is less than zero, the Minister may require a capital withdrawal to be made from the Fund up to that amount and paid into a Crown Bank Account.
 (2) However, no capital withdrawal is allowed from the Fund in any financial year commencing before 1 July 2020.
 
 **Guardians of New Zealand Superannuation**
@@ -378,15 +383,15 @@ The Minister may pay any money into the Fund that is additional to that required
 (1)
 (2)
 (3) Sections 100 and 160 to 164 of the Crown Entities Act 2004 do not apply to the Guardians in relation to the Fund.
-(4) There are no restrictions on the Guardians' power to invest the Fund, other than as provided by sections 58, 59, and 64.
+(4) There are no restrictions on the Guardians’ power to invest the Fund, other than as provided by sections 58, 59, and 64.
 (5) This section is subject to section 50 (borrowing).
 
 ### 50 Borrowing
 (1) The Guardians may not, except with the approval of the Minister of Finance,—
-  (a) borrow money ( in respect of the Fund); nor
+  (a) borrow money (in respect of the Fund); nor
   (b) mortgage or charge any of the real or personal property of the Fund, whether present or future, as security; nor
   (c) hold any financial instrument that places or may place a liability or a contingent liability on the Fund, or the Crown.
-(2) The Minister's approval may be given for any class of transactions in subsection (1)(a) to (c).
+(2) The Minister’s approval may be given for any class of transactions in subsection (1)(a) to (c).
 
 ### 51 Functions
 (1) The functions of the Guardians are to manage and administer the Fund in accordance with this Act.
@@ -404,11 +409,11 @@ The expenses of the Guardians must be met out of money appropriated by Parliamen
 (1) The board must consist of at least 5, but not more than 7, board members appointed by the Governor-General on the recommendation of the Minister.
 (2) This section applies despite section 28(1)(a) of the Crown Entities Act 2004.
 
-**Members' appointments**
+**Members’ appointments**
 
 ### 55 Criteria for appointments
 (1) The Minister must only recommend a person for appointment as a board member who,—
-  (a) in the Minister's opinion, has substantial experience, training, and expertise in the management of financial investments; and
+  (a) in the Minister’s opinion, has substantial experience, training, and expertise in the management of financial investments; and
   (b) has been nominated by the nominating committee.
 (2) This section applies in addition to section 29 of the Crown Entities Act 2004.
 
@@ -430,7 +435,7 @@ Schedule 3 applies to the board and its members.
 (2) The Guardians must invest the Fund on a prudent, commercial basis and, in doing so, must manage and administer the Fund in a manner consistent with—
   (a) best-practice portfolio management; and
   (b) maximising return without undue risk to the Fund as a whole; and
-  (c) avoiding prejudice to New Zealand's reputation as a responsible member of the world community.
+  (c) avoiding prejudice to New Zealand’s reputation as a responsible member of the world community.
 
 ### 59 No controlling interests
 (1) The Guardians must use their best endeavours to ensure that the Fund does not control any other entity or hold a percentage of the voting rights in any other entity that would require it to seek control of that entity.
@@ -450,7 +455,7 @@ A statement of investment policies, standards, and procedures must cover (but is
   (a) the classes of investments in which the Fund is to be invested and the selection criteria for investments within those classes; and
   (b) the determination of benchmarks or standards against which the performance of the Fund as a whole, and classes of investments and individual investments, will be assessed; and
   (c) standards for reporting the investment performance of the Fund; and
-  (d) ethical investment, including policies, standards, or procedures for avoiding prejudice to New Zealand's reputation as a responsible member of the world community; and
+  (d) ethical investment, including policies, standards, or procedures for avoiding prejudice to New Zealand’s reputation as a responsible member of the world community; and
   (e) the balance between risk and return in the overall Fund portfolio; and
   (f) the fund management structure; and
   (g) the use of options, futures, and other derivative financial instruments; and
@@ -462,32 +467,32 @@ A statement of investment policies, standards, and procedures must cover (but is
 ### 62 Investment management
 (1) The Guardians may appoint, on any terms and conditions that the Guardians think fit, 1 or more persons (including any department) to undertake the investment of any part of the Fund.
 (2) Different persons may be appointed for different parts of the Fund.
-(3) The Guardians must state, in each instrument of appointment, the powers and rights of the person appointed (including, without limitation, the extent of that person's power to delegate any of those powers and rights).
+(3) The Guardians must state, in each instrument of appointment, the powers and rights of the person appointed (including, without limitation, the extent of that person’s power to delegate any of those powers and rights).
 (4) This section does not limit section 49 of this Act or section 17 of the Crown Entities Act 2004.
 
 ### 63 Custodianship of Fund
 (1) The Guardians may appoint a person or persons (including any department) to act as custodian of the Fund, or any part of the Fund.
 (2) A custodian so appointed must hold the property of the Fund, or that part of the property of the Fund for which they have been appointed, in their name or, if the Guardians authorise it, in the name of 1 or more nominees.
 (3) An appointment may be on any terms and conditions that the Guardians think fit.
-(4) The Guardians must specify, in each instrument of appointment, the powers and rights of the person or persons appointed (including, without limitation, the extent of that person's powers to delegate any of those powers and rights).
+(4) The Guardians must specify, in each instrument of appointment, the powers and rights of the person or persons appointed (including, without limitation, the extent of that person’s powers to delegate any of those powers and rights).
 (5) This section does not limit section 49 of this Act or section 17 of the Crown Entities Act 2004.
 
 **Ministerial directions**
 
 ### 64 Ministerial directions
-(1) The Minister may, after consultation with the Guardians, give directions to the Guardians regarding the Government's expectations as to the Fund's performance, including the Government's expectations as to risk and return.
-(2) The Minister must not give a direction that is inconsistent with the Guardians' duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
+(1) The Minister may, after consultation with the Guardians, give directions to the Guardians regarding the Government’s expectations as to the Fund’s performance, including the Government’s expectations as to risk and return.
+(2) The Minister must not give a direction that is inconsistent with the Guardians’ duty to invest the Fund on a prudent, commercial basis, in accordance with section 58.
 (3) Despite section 104 of the Crown Entities Act 2004 the Minister may not give a direction to the Guardians in respect of the Fund except in accordance with this section.
 (4)
 (5)
 (6) The Guardians must notify the Minister of how the entity proposes to have regard to any direction.
-(7) The Guardians' annual report must include a statement of how the entity is having regard, or has had regard, during the year to any Ministerial directions given under this section.
+(7) The Guardians’ annual report must include a statement of how the entity is having regard, or has had regard, during the year to any Ministerial directions given under this section.
 
 **Accountability**
 
 ### 65 Statement of intent
 The statement of intent of the Guardians prepared each financial year under Part 4 of the Crown Entities Act 2004 must include (in addition to any other requirements)—
-  (a) a statement of the board's expectations about the performance of the Fund over the next financial year, in sufficient detail to enable meaningful assessment against those expectations after the end of that financial year; and
+  (a) a statement of the board’s expectations about the performance of the Fund over the next financial year, in sufficient detail to enable meaningful assessment against those expectations after the end of that financial year; and
   (b) a statement of the key risks to the performance of the Fund over the coming year and the actions being taken by the board to manage those risks; and
   (c) forecast financial statements of the Fund for the next financial year, including a statement of accounting policies.
 
@@ -501,18 +506,18 @@ The statement of intent of the Guardians prepared each financial year under Part
 (3) The Auditor-General must issue an audit opinion within 30 days of receipt of the annual financial statements and must return the annual financial statements, with the audit report attached, to the Guardians.
 
 ### 68 Annual report
-The annual report of the Guardians prepared each financial year under Part 4 of the Crown Entities Act 2004 must include (in addition to any other requirements, such as the entity's own financial statements)—
+The annual report of the Guardians prepared each financial year under Part 4 of the Crown Entities Act 2004 must include (in addition to any other requirements, such as the entity’s own financial statements)—
   (a) the financial statements of the Fund for that financial year prepared under section 66; and
   (b) a statement of responsibility for the financial statements of the Fund, signed by the chairperson of the board and the chief executive of the Guardians (if any), and comprising the same statements that are required by section 155 of the Crown Entities Act 2004 as if the Fund were a Crown entity; and
   (c) the audit report on the financial statements; and
-  (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians' expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
+  (d) an analysis and explanation of the performance of the Fund over that financial year, including a comparison with the Guardians’ expectations about the performance of the Fund that were set out in the statement of intent relating to that financial year; and
   (e) a statement of the investment policies, standards, and procedures for the Fund established by the Guardians under section 60; and
   (f) a statement signed by the chairperson of the board and the chief executive of the Guardians (if any) certifying whether or not the investment policies, standards, and procedures for the Fund have been complied with throughout that financial year; and
   (g) a schedule of the investment managers and custodians used by the Guardians during that financial year and the classes of investments for which each was responsible.
 
 ### 69 Reporting by Guardians on Fund
 (1) The Guardians must report to the Minister on the Fund at those intervals that the Minister may require.
-(2) The Guardians' report must include any information that the Minister may require.
+(2) The Guardians’ report must include any information that the Minister may require.
 
 ### 70 Auditor-General to be auditor of Guardians
 [Repealed]
@@ -540,9 +545,9 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 
 ### 72 Political commitment
 (1) A leader of a political party represented in Parliament may notify the Minister, in writing,—
-  (a) of the party's agreement to either Part 1 or Part 2 (or both); or
-  (b) of the withdrawal of that party's agreement to either Part 1 or Part 2 (or both).
-(2) The Minister must, as soon as practicable after receiving a notification, make a recommendation to the Governor-General for an Order in Council to add or omit the name of the party to or from the relevant part or parts of Schedule 4, as the case may be.
+  (a) of the party’s agreement to either Part 1 or Part 2 (or both); or
+  (b) of the withdrawal of that party’s agreement to either Part 1 or Part 2 (or both).
+(2) The Minister must, as soon as practicable after receiving a notification, make a recommendation to the Governor-General for an Order in Council to add or omit the name of the party to or from the relevant Part or Parts of Schedule 4, as the case may be.
 (3) The Minister must also make a recommendation to the Governor-General for an Order in Council to omit the name of a political party from Schedule 4 if the party is no longer represented in Parliament.
 (4) The Governor-General may, by Order in Council made on the recommendation of the Minister under subsection (2) or subsection (3), add names to, and omit names from, Schedule 4 in accordance with this section.
 
@@ -565,7 +570,7 @@ The annual report of the Guardians prepared each financial year under Part 4 of 
 **Taxation**
 
 ### 76 Taxation of Fund and Guardians
-(1) The Fund is subject to income tax on any income derived from the Fund's investments, and that income is to be treated as income of the Fund under the Income Tax Act 2007.
+(1) The Fund is subject to income tax on any income derived from the Fund’s investments, and that income is to be treated as income of the Fund under the Income Tax Act 2007.
 (2) The Fund may claim deductions under section BD 2 of the Income Tax Act 2007.
 (3) The Fund is treated as if it were a body corporate for tax purposes.
 (4) The Fund is not required to establish and maintain an imputation credit account under section OB 1 of the Income Tax Act 2007.
@@ -588,7 +593,7 @@ Every person who, immediately before the commencement of this section, was entit
 ## Part 4 — Retirement Commissioner
 
 ### 80 Purpose of this Part
-The purpose of this Part is to continue the office of the Retirement Commissioner and to set out the Commissioner's functions, powers, and duties.
+The purpose of this Part is to continue the office of the Retirement Commissioner and to set out the Commissioner’s functions, powers, and duties.
 
 ### 81 Interpretation of this Part and Schedule 6
 In this Part and in Schedule 6, the terms Commissioner, Government, and Minister have the meanings set out in section 5A.
@@ -617,7 +622,7 @@ The functions of the Commissioner are as follows:
 ### 84 Periodic reviews
 (1) For each review to be conducted under section 83(c), the Minister must, not later than 12 months before the date on which the review is required to be completed, specify, by notice in writing addressed to the Commissioner,—
   (a) the aspects of retirement income policies being implemented by the Government of New Zealand that the review is required to address; and
-  (b) the topics to be discussed in the Commissioner's report.
+  (b) the topics to be discussed in the Commissioner’s report.
 (2) Before giving a notice under subsection (1) the Minister must consult with the Commissioner about the matters to be included in it.
 (3) The Minister must, as soon as practicable after giving a notice under subsection (1), present a copy of that notice to the House of Representatives.
 (4) Each review conducted under section 83(c) must address the aspects of retirement income policy required to be addressed by the notice relating to that review and the report must discuss the topics required to be discussed by that notice.
@@ -651,20 +656,20 @@ Unless the context otherwise requires, any reference to the New Zealand Superann
 
 ## Schedule 1 — New Zealand superannuation entitlements
 
-|  |  |  | $ |
-| --- | --- | --- | --- |
-| 1 | (a) | to a single person who has been granted a living alone payment under section 13 | $347.77 a week |
-|  | (b) | to a single person who has not been granted a living alone payment under section 13 | $320.11 a week |
-|  | (c) | to a person who is married or in a civil union or in a de facto relationship | $264.37 a week |
-| 2 | Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran's pension |  |  |
-|  | (a) | to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran's pension at the alternative rate before 1 October 1991 | $528.74 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b) of this clause, whichever is the greater |
-|  | (b) | to any other person who is married or in a civil union or in a de facto relationship | $502.84 a week, subject to Income Test 3 |
-| 3 | Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $33.73 a week |
-| 4 | Rate of special disability allowance under section 20 |  | $33.73 a week |
+|  |  | $ |
+| --- | --- | --- |
+| 1 | (a)to a single person who has been granted a living alone payment under section 13 | $364.50 a week |
+|  | (b)to a single person who has not been granted a living alone payment under section 13 | $334.28 a week |
+|  | (c)to a person who is married or in a civil union or in a de facto relationship | $273.63 a week |
+| 2Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
+|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $547.26 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
+|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $519.72 a week, subject to Income Test 3 |
+| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $34.87 a week |
+| 4Rate of special disability allowance under section 20 |  | $34.87 a week |
 
 ## Schedule 2 — Specified Pacific countries
 
-## Schedule 3 — Further provisions relating to Board of Guardians of New Zealand Superannuation
+## Schedule 3 — Further provisions relating to board of Guardians of New Zealand Superannuation
 
 ### 1 Application
 This schedule applies to the board and its members.
@@ -682,31 +687,45 @@ This schedule applies to the board and its members.
 ### 5 Position where concurrent office
 [Repealed]
 
+**Term of office**
+
 ### 6 Term of office
 A member holds office for 5 years or any shorter period stated in the notice of appointment, despite section 32(1) of the Crown Entities Act 2004.
+
+**Duties of board members**
 
 ### 7 Duties of members
 [Repealed]
 
+**Liability of members**
+
 ### 8 Liability of members and committee members
 [Repealed]
+
+**Resignation and removal of members**
 
 ### 9 Resignation
 [Repealed]
 
 ### 10 Removal from office
-(1) The Governor-General may, on the advice of the Minister, remove a member from office for a reason that in the Minister's opinion justifies the removal.
+(1) The Governor-General may, on the advice of the Minister, remove a member from office for a reason that in the Minister’s opinion justifies the removal.
 (2) Subclause (1) applies despite section 37 of the Crown Entities Act 2004.
 (3) The Governor-General removes a member by sending written notice to the member and a copy to the entity.
 (4)
 (5)
 (6)
 
+**Vacancies in the entity’s membership**
+
 ### 11 Effect of vacancy in membership
 [Repealed]
 
+**Remuneration**
+
 ### 12 Remuneration
 [Repealed]
+
+**Chairperson and deputy chairperson**
 
 ### 13 Appointment
 [Repealed]
@@ -717,14 +736,18 @@ A member holds office for 5 years or any shorter period stated in the notice of 
 ### 15 Resignation
 [Repealed]
 
-### 16 Exercise of chairperson's functions, duties, and powers during vacancy, etc
+### 16 Exercise of chairperson’s functions, duties, and powers during vacancy, etc
 [Repealed]
+
+**Acts not to be called into question**
 
 ### 17 Acts not to be called into question
 [Repealed]
 
-### 18 Validity of members' acts
+### 18 Validity of members’ acts
 [Repealed]
+
+**Disclosure of interest**
 
 ### 19 Obligation to disclose interest
 [Repealed]
@@ -750,7 +773,9 @@ The board must delegate a deliberation or decision to a committee if the effect 
 ### 25 Effect of non-compliance
 [Repealed]
 
-### 26 Restrictions on disclosure or use of entity's information
+**Use of information**
+
+### 26 Restrictions on disclosure or use of entity’s information
 [Repealed]
 
 ### 27 When member may rely on certain information and advice
@@ -759,8 +784,12 @@ The board must delegate a deliberation or decision to a committee if the effect 
 ### 28 When clause 27 applies
 [Repealed]
 
+**Procedure of board: General**
+
 ### 29 Procedure generally
 [Repealed]
+
+**Procedure of board: Meetings**
 
 ### 30 Ordinary meetings
 [Repealed]
@@ -789,6 +818,8 @@ The board must delegate a deliberation or decision to a committee if the effect 
 ### 38 Attorneys
 [Repealed]
 
+**Delegations**
+
 ### 39 Additional persons to whom delegations can be made
 The board may delegate any of the functions or powers of the board or the entity to all or any of the following, despite section 73(1)(d) of the Crown Entities Act 2004:
   (a) a person appointed to undertake the investment of any part of the Fund under section 62:
@@ -811,11 +842,17 @@ The board may delegate any of the functions or powers of the board or the entity
 ### 43 Other matters relating to delegation
 [Repealed]
 
+**Subsidiaries**
+
 ### 44 Subsidiaries
 [Repealed]
 
+**Committees**
+
 ### 45 Committees
 [Repealed]
+
+**Employees**
 
 ### 46 Appointment of chief executive officer
 [Repealed]
@@ -839,7 +876,7 @@ The board may delegate any of the functions or powers of the board or the entity
 [Repealed]
 
 ### 53 Existing Government Superannuation Fund members
-(1) Despite clause 52, a person who, immediately before becoming an employee of the board, was a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, considered to be employed in the Government service so long as that person continues to be an employee of the board; and that Act applies to that person in all respects as if that person's service as an employee of the board were Government service.
+(1) Despite clause 52, a person who, immediately before becoming an employee of the board, was a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is, for the purposes of that Act, considered to be employed in the Government service so long as that person continues to be an employee of the board; and that Act applies to that person in all respects as if that person’s service as an employee of the board were Government service.
 (2) Nothing in subclause (1) entitles a person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
 (3) For the purposes of applying the Government Superannuation Fund Act 1956 in accordance with subclause (1), controlling authority, for that employee, means the board.
 
@@ -854,6 +891,8 @@ The board may delegate any of the functions or powers of the board or the entity
 (2) Despite anything in this clause, any person who, immediately before being appointed as the Commissioner or as an employee of the Commissioner, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is considered, for the purposes of that Act, to be employed in the Government service so long as that person continues to hold office as the Commissioner or as an employee of the Commissioner, and that Act applies to that person in all respects as if service as or for the Commissioner were Government service.
 (3) Subject to the Government Superannuation Fund Act 1956, nothing in subclause (2) entitles a person to become a contributor to the Government Superannuation Fund after the person has ceased to be a contributor.
 (4) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as the Commissioner or as an employee of the Commissioner and is a contributor to the Government Superannuation Fund, the term controlling authority, in relation to any such person, means the Commissioner.
+
+**Delegations**
 
 ### 2 Ability to delegate
 Despite section 73 of the Crown Entities Act 2004, the Commissioner must not delegate the power to appoint an attorney under section 129 of the Crown Entities Act 2004 without the prior written consent of the Minister.
