@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2009-03-01_
+_Consolidation as at 2009-04-01_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -86,22 +86,22 @@ In this Act, unless the context otherwise requires,—
     (b) includes—
       (i) negotiations that relate to the bargaining; and
       (ii) communications or correspondence (between or on behalf of the parties before, during, or after negotiations) that relate to the bargaining
-  - **chief executive** means the chief executive of the Department
-  - **Chief Judge** means the Chief Judge of the Court
+  - **chief executive** means the chief executive of the department
+  - **Chief Judge** means the Chief Judge of the court
   - **Chief of the Authority** means the Chief of the Authority who holds office under section 166(1)(a)
   - **collective agreement** means an agreement that is binding on—
     (a) 1 or more unions; and
     (b) 1 or more employers; and
     (c) 2 or more employees
-  - **compliance order** means an order made by the Authority or the Court under section 137 or section 139
-  - **Court** means the Employment Court constituted under this Act
+  - **compliance order** means an order made by the Authority or the court under section 137 or section 139
+  - **court** means the Employment Court constituted under this Act
   - **coverage clause** ,—
     (a) in relation to a collective agreement,—
       (i) means a provision in the agreement that specifies the work that the agreement covers, whether by reference to the work or type of work or employees or types of employees; and
       (ii) includes a provision in the agreement that refers to named employees, or to the work or type of work done by named employees, to whom the collective agreement applies:
     (b) in relation to a notice initiating bargaining for a collective agreement, means a provision in the notice specifying the work that the agreement is intended to cover, whether by reference to the work or type of work or employees or types of employees
   - **demand notice** means a demand notice issued under section 224(1)
-  - **Department** , in any provision of this Act, means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
+  - **department** , in any provision of this Act, means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
   - **dispute** means a dispute about the interpretation, application, or operation of an employment agreement
   - **dwellinghouse** —
     (a) means any building or any part of a building to the extent that it is occupied as a residence; and
@@ -122,18 +122,18 @@ In this Act, unless the context otherwise requires,—
     (a) means a person who is engaged, employed, or contracted by any other person (in the course of that other person's trade or business) to do work for that other person in a dwellinghouse (not being work on that dwellinghouse or fixtures, fittings, or furniture in it); and
     (b) includes a person who is in substance so engaged, employed, or contracted even though the form of the contract between the parties is technically that of vendor and purchaser
   - **individual employment agreement** means an employment agreement entered into by 1 employer and 1 employee who is not bound by a collective agreement that binds the employer
-  - **Judge** means a Judge of the Court; and includes a temporary Judge
-  - **Labour Inspector** means an employee of the Department designated under section 223 to be a Labour Inspector
+  - **Judge** means a Judge of the court; and includes a temporary Judge
+  - **Labour Inspector** means an employee of the department designated under section 223 to be a Labour Inspector
   - **lockout** has the meaning given to it by section 82
   - **mediation** includes mediation services provided under section 144 by the chief executive, and any other mediation services that are provided (whether by the chief executive or any other person) to help resolve employment relationship problems
   - **mediation services** means the mediation services provided, under section 144, by the chief executive
   - **member of the Authority** means a member of the Authority who holds office under section 166(1); and includes a temporary member who holds office under section 172
   - **Minister** , in any provision of this Act, means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of that provision
   - **person intending to work** means a person who has been offered, and accepted, work as an employee; and has a corresponding meaning
-  - **personal grievance** or grievance has the meaning given to it by section 103
+  - **personal grievance** or has the meaning given to it by section 103
   - **prescribed** means prescribed by regulations made under this Act
-  - **Registrar of the Court** means any employee of the Department designated under section 198 to act as the Registrar of the Court
-  - **Registrar of Unions** means the employee of the Department appointed under section 27 to be the Registrar of Unions
+  - **Registrar of the court** means any employee of the department designated under section 198 to act as the Registrar of the court
+  - **Registrar of Unions** means the employee of the department appointed under section 27 to be the Registrar of Unions
   - **strike** has the meaning given to it by section 81
   - **union** means a union registered under Part 4
   - **wages and time record** means a wages and time record kept pursuant to section 130
@@ -148,15 +148,15 @@ In this Act, unless the context otherwise requires,—
   (c) excludes a volunteer who—
     (i) does not expect to be rewarded for work to be performed as a volunteer; and
     (ii) receives no reward for work performed as a volunteer.
-(2) In deciding for the purposes of subsection (1)(a) whether a person is employed by another person under a contract of service, the Court or the Authority (as the case may be) must determine the real nature of the relationship between them.
-(3) For the purposes of subsection (2), the Court or the Authority—
+(2) In deciding for the purposes of subsection (1)(a) whether a person is employed by another person under a contract of service, the court or the Authority (as the case may be) must determine the real nature of the relationship between them.
+(3) For the purposes of subsection (2), the court or the Authority—
   (a) must consider all relevant matters, including any matters that indicate the intention of the persons; and
   (b) is not to treat as a determining matter any statement by the persons that describes the nature of their relationship.
 (4) Subsections (2) and (3) do not limit or affect the Real Estate Agents Act 1976 or the Sharemilking Agreements Act 1937.
-(5) The Court may, on the application of a union, a Labour Inspector, or 1 or more other persons, by order declare whether the person or persons named in the application are—
+(5) The court may, on the application of a union, a Labour Inspector, or 1 or more other persons, by order declare whether the person or persons named in the application are—
   (a) employees under this Act; or
   (b) employees or workers within the meaning of any of the Acts specified in section 223(1).
-(6) The Court must not make an order under subsection (5) in relation to a person unless—
+(6) The court must not make an order under subsection (5) in relation to a person unless—
   (a) the person—
     (i) is the applicant; or
     (ii) has consented in writing to another person applying for the order; and
@@ -172,7 +172,7 @@ In this Act, unless the context otherwise requires,—
 ### 7 Object of this Part
 The object of this Part is to establish that—
   (a) employees have the freedom to choose whether or not to form a union or be members of a union for the purpose of advancing their collective employment interests; and
-  (b) No person may, in relation to employment issues, confer any preference or apply any undue influence, directly or indirectly, on another person because the other person is or is not a member of a union.
+  (b) no person may, in relation to employment issues, confer any preference or apply any undue influence, directly or indirectly, on another person because the other person is or is not a member of a union.
 
 ### 8 Voluntary membership of unions
 A contract, agreement, or other arrangement between persons must not require a person—
@@ -352,8 +352,8 @@ Every person is liable to a penalty, imposed by the Authority, who, without lawf
 **Registrar of Unions**
 
 ### 27 Registrar of Unions
-(1) The chief executive may appoint an employee of the Department to be the Registrar of Unions, and may appoint another employee of the Department to be the Deputy Registrar of Unions.
-(2) An employee appointed under subsection (1) may also hold any other office or position in the Department.
+(1) The chief executive may appoint an employee of the department to be the Registrar of Unions, and may appoint another employee of the department to be the Deputy Registrar of Unions.
+(2) An employee appointed under subsection (1) may also hold any other office or position in the department.
 (3) Subject to the control and direction of the Registrar of Unions, the Deputy Registrar of Unions has and may exercise all the powers, duties, and functions of the Registrar.
 
 ### 28 Registrar of Unions may seek directions of Authority
@@ -370,7 +370,7 @@ The following persons have standing to commence or be a party to or be heard on 
   (f) with the leave of the Authority, any other person.
 
 ### 30 Offence to mislead Registrar
-Every person commits an offence and is liable on conviction by the Court to a fine not exceeding $5,000 who does or says anything, or omits to do or say anything, with the intention of misleading or attempting to mislead the Registrar of Unions.
+Every person commits an offence and is liable on conviction by the court to a fine not exceeding $5,000 who does or says anything, or omits to do or say anything, with the intention of misleading or attempting to mislead the Registrar of Unions.
 
 ## Part 5 — Collective bargaining
 
@@ -472,10 +472,10 @@ The object of this Part is—
 ### 38 Amendment and revocation of code of good faith
 A code of good faith may be amended or revoked in the same manner as the code is approved.
 
-### 39 Authority or Court may have regard to code of good faith
-The Authority or Court may, in determining whether or not a union and an employer have dealt with each other in good faith in bargaining for a collective agreement, have regard to a code of good faith approved under section 35 that—
+### 39 Authority or court may have regard to code of good faith
+The Authority or court may, in determining whether or not a union and an employer have dealt with each other in good faith in bargaining for a collective agreement, have regard to a code of good faith approved under section 35 that—
   (a) was in force at the relevant time; and
-  (b) in the form in which it was then in force, related to the circumstances before the Authority or the Court.
+  (b) in the form in which it was then in force, related to the circumstances before the Authority or the court.
 
 **Bargaining**
 
@@ -762,8 +762,8 @@ During facilitation, a party to bargaining for a collective agreement must deal 
       (C) whose work comes within the coverage clause in the agreement.
 (5) For the purposes of this section, a party to a collective agreement is notified—
   (a) when the notice is given to the party; or
-  (b) if the notice is posted to the party, on the 7th day after the day on which the notice is posted.
-(6) For the purposes of subsection (l)(b) and (c), employees includes persons whom the employer might employ in the future.
+  (b) if the notice is posted to the party, on the seventh day after the day on which the notice is posted.
+(6) For the purposes of subsection (1)(b) and (c), employees includes persons whom the employer might employ in the future.
 
 ### 57 Employee bound by only 1 collective agreement in respect of same work
 If an employee is a member of more than 1 union, the employee is bound by only 1 collective agreement covering the same work done by the employee, being the collective agreement resulting from the bargaining first initiated which covered the employee's work.
@@ -815,7 +815,7 @@ In sections 59B and 59C, reached, in relation to a term or condition in bargaini
 (6) In determining whether subsection (2)(a) and (b) or subsection (4)(a) or (b) applies, the following matters must be taken into account:
   (a) whether the employer and union bargained before agreeing on the provision:
   (b) whether the employer and union consulted, in good faith, the parties to the other collective agreement or collective bargaining:
-  (c) the number of the employer's employees bound by the collective agreement or covered by the collective bar-gaining compared to the number of the employer's employees bound by the other collective agreement or covered by the other collective bargaining:
+  (c) the number of the employer's employees bound by the collective agreement or covered by the collective bargaining compared to the number of the employer's employees bound by the other collective agreement or covered by the other collective bargaining:
   (d) how long the other collective agreement has been in force.
 (7) Subsection (4) does not limit the matters that may be taken into account for the purposes of subsection (2)(a) and (b) or subsection (4)(a) or (b).
 (8) Every employer who commits a breach of the duty of good faith under this section is liable to a penalty under this Act.
@@ -939,7 +939,7 @@ The object of this Part is—
   (b) advise the employee of when or how his or her employment will end and the reasons for his or her employment ending in that way.
 (3) The following reasons are not genuine reasons for the purposes of subsection (2)(a):
   (a) to exclude or limit the rights of the employee under this Act:
-  (b) to establish the suitability of the employee for permanent employment.
+  (b) to establish the suitability of the employee for permanent employment:
   (c) to exclude or limit the rights of an employee under the Holidays Act 2003.
 (4) If an employee and an employer agree that the employment of the employee will end in a way specified in subsection (1), the employee's employment agreement must state in writing—
   (a) the way in which the employment will end; and
@@ -1019,7 +1019,7 @@ In this Part, unless the context otherwise requires,—
   - **request** means a written request made—
     (a) under this Part; and
     (b) by an employee to his or her employer to vary the employee's terms and conditions of employment relating to the employee's working arrangements
-  - **working arrangements** , in relation to an employee, means 1 or more of the following
+  - **working arrangements** , in relation to an employee, means 1 or more of the following:
     (a) hours of work:
     (b) days of work:
     (c) place of work (for example, at home or at the employee's place of work).
@@ -1169,7 +1169,7 @@ In this subpart, unless the context otherwise requires,—
 (3) The definition of contracting out applies whether or not the work is to be performed by—
   (a) person B or employees (if any) of person B; or
   (b) a subcontractor or employees (if any) of a subcontractor.
-(4) In this subpart, unless the context otherwise requires,
+(4) In this subpart, unless the context otherwise requires,—
   - **subsequent contracting** means a situation where—
     (a) a person (person A) has an agreement with another person (person B) under which person B performs work as an independent contractor for person A; and
     (b) the work or some of the work is actually performed by employees of person B or of a subcontractor; and
@@ -1204,7 +1204,7 @@ In this subpart, unless the context otherwise requires,—
 (2) Whether, in the following examples, an employee comes within the protection provided by this subpart depends on whether section 69F applies to the employee.
 (3) This subsection sets out examples of contracting in.Example AA rest home carries on business in the age-related residential care sector. Instead of providing food catering services through its employees, it enters into an agreement with an independent contractor to provide those services.The agreement under which the independent contractor provides those services to the rest home expires or is terminated.The rest home then uses its employees or engages further employees to provide those services.Employees of the independent contractor to whom section 69F applies may elect to transfer to the rest home.Example BThe circumstances in this example are the same as in example A except that the independent contractor engages a subcontractor to provide food catering services to the rest home.As a result of the agreement between the rest home and the independent contractor expiring or being terminated, the agreement between the independent contractor and the subcontractor expires or is terminated.Employees of the subcontractor to whom section 69F applies may elect to transfer to the rest home.NoteIn both example A and example B, it does not matter whether the rest home's or the independent contractor's employees originally provided the food catering services or whether the work was contracted out or subcontracted at the outset.In example A and example B, the persons relate to the definition of contracting in as follows:the rest home is person A:the independent contractor is person B.
 (4) This subsection sets out examples of contracting out.Example CA school has employees who provide cleaning services.The school then enters into an agreement with an independent contractor to do that work or some of that work.The employees of the school to whom section 69F applies may elect to transfer to the independent contractor.NoteExample C would not be a contracting out if, at the outset, the school did not have employees providing cleaning services.In example C, the persons relate to the definition of contracting out as follows:the school is person A:the independent contractor is person B.Example DThe circumstances in this example are the same as in example C, except that later on the independent contractor decides that, instead of using its employees for the contract for the school, it will engage a subcontractor to do the work or some of the work.Employees of the independent contractor to whom section 69F applies may elect to transfer to the subcontractor.NoteIn example D, the persons relate to the definition of contracting out as follows:the independent contractor is person A:the subcontractor is person B.NoteIn example C and example D if, at the outset, the independent contractor did not have employees providing cleaning services, but subcontracts the work straight away, then the employees to whom section 69F applies may elect to transfer to the subcontractor.
-(5) This subsection sets out examples of subsequent contracting.Example EAn airport operator enters into an agreement with an independent contractor to provide food catering services at the airport.Some time later, the agreement under which the independent contractor provides those services expires or is terminated.The airport operator then enters into an agreement with a second independent contractor to provide food catering services at the airport.Employees of the first independent contractor to whom section 69F applies may elect to transfer to the second independent contractor.NoteIn example E, it does not matter whether the agreement between the airport operator and the first independent contractor constitutes a contracting out.In example E, the persons relate to the definition of subsequent contracting as follows:the airport operator is person A:the first independent contractor is person B: the second independent contractor is person C.Example FThe circumstances in this example are the same as in example E, except that the first independent contractor engages a subcontractor to do the work or some of the work.Later on, the agreement under which the subcontractor provides the work expires or is terminated and the first independent contractor engages a second subcontractor to provide food catering services at the airport.The employees of the first subcontractor to whom section 69F applies may elect to transfer to the second subcontractor.NoteIn example F, the subsequent contracting occurs at the subcontracting level.In example F, the persons relate to the definition of subsequent contracting as follows:the independent contractor is person A:the first subcontractor is person B:the second subcontractor is person C.
+(5) This subsection sets out examples of subsequent contracting.Example EAn airport operator enters into an agreement with an independent contractor to provide food catering services at the airport.Some time later, the agreement under which the independent contractor provides those services expires or is terminated.The airport operator then enters into an agreement with a second independent contractor to provide food catering services at the airport.Employees of the first independent contractor to whom section 69F applies may elect to transfer to the second independent contractor.NoteIn example E, it does not matter whether the agreement between the airport operator and the first independent contractor constitutes a contracting out.In example E, the persons relate to the definition of subsequent contracting as follows:the airport operator is person A:the first independent contractor is person B:the second independent contractor is person C.Example FThe circumstances in this example are the same as in example E, except that the first independent contractor engages a subcontractor to do the work or some of the work.Later on, the agreement under which the subcontractor provides the work expires or is terminated and the first independent contractor engages a second subcontractor to provide food catering services at the airport.The employees of the first subcontractor to whom section 69F applies may elect to transfer to the second subcontractor.NoteIn example F, the subsequent contracting occurs at the subcontracting level.In example F, the persons relate to the definition of subsequent contracting as follows:the independent contractor is person A:the first subcontractor is person B:the second subcontractor is person C.
 
 ### 69F Application of this subpart
 (1) This subpart applies to an employee if—
@@ -1242,10 +1242,10 @@ In this subpart, unless the context otherwise requires,—
 (3) To avoid doubt,—ExampleThis example relates to subsection (3)(a). A retailer owns 3 gift shops and engages an independent contractor to clean the shops. The independent contractor employs a cleaner to clean the gift shops.The cleaning contract between the retailer and the independent contractor expires.The retailer enters into a cleaning contract with a second independent contractor for the cleaning of 1 shop, and enters into a new cleaning contract with the first independent contractor for the cleaning of the other 2 shops.As a result, the first independent contractor no longer requires the cleaner to clean 1 of the shops.The cleaner may elect to transfer and become an employee of the second independent contractor in relation to 1 shop while remaining an employee of the first independent contractor in relation to the other 2 shops.
   (a) the election of an employee to transfer to a new employer may result in the employee being employed by more than 1 employer if—
     (i) only part of the employee's work is affected by the restructuring; or
-    (ii) the work performed by the employee will be performed by or on behalf of more than one new employer; and
+    (ii) the work performed by the employee will be performed by or on behalf of more than 1 new employer; and
   (b) a person becomes the new employer of an employee who elects to transfer to the new employer whether or not the new employer—
     (i) has, or intends to have, employees performing the type of work (or work that is substantially similar) to the work performed by the employee who has elected to transfer to the new employer; or
-    (ii) was an employer before the employee transferred to the new employer.
+    (ii) was an employer before the employee transferred to the new employer:
   (c) this section does not affect the employment agreement of an employee who elects not to transfer to the new employer.
 (4) In this section, specified date means the date on which the restructuring takes effect.
 
@@ -1305,7 +1305,7 @@ In this subpart, unless the context otherwise requires,—
 (2) After concluding the investigation, the Authority must determine—
   (a) if, in the Authority's view, it is possible for the bargaining to continue, how further bargaining should occur; or
   (b) if, in the Authority's view, further bargaining is not warranted, the redundancy entitlements due to an employee.
-(3) In determining the redundancy entitlements under subsection (2)(b), the Authority may take into account one or more of the following matters:
+(3) In determining the redundancy entitlements under subsection (2)(b), the Authority may take into account 1 or more of the following matters:
   (a) the redundancy entitlements (if any) provided in the employee's employment agreement for redundancy in circumstances other than restructuring:
   (b) the employee's length of service with his or her previous employer and new employer:
   (c) how much notice of the redundancy the employee has received:
@@ -1329,15 +1329,14 @@ The object of this subpart is to provide for the disclosure of employee transfer
     (iv) awarded.
 
 ### 69OB Interpretation
-(1)
-  - **employee transfer costs information** In this subpart, , in relation to a proposed restructuring,—
-    (a) means information about the employment-related entitlements of the employees who would be eligible to elect, under section 69I, to transfer to a new employer if the proposed restructuring were to proceed; and
-    (b) includes—
-      (i) the number of employees who would be eligible to elect to do so; and
-      (ii) the wages or salary payable in a stated period (for example, a week, fortnight, or month) to the employees for performing the work that would be subject to the proposed restructuring; and
-      (iii) the total number of hours the employees spend in a stated period (for example, a week, fortnight, or month) performing the work that would be subject to the proposed restructuring; and
-      (iv) the cost of service-related entitlements of the employees whether legislative or otherwise; and
-      (v) the cost of any other entitlements of the employees in their capacity as employees, including any entitlements already agreed but not due until a future date or time.
+(1) In this subpart, employee transfer costs information, in relation to a proposed restructuring,—
+  (a) means information about the employment-related entitlements of the employees who would be eligible to elect, under section 69I, to transfer to a new employer if the proposed restructuring were to proceed; and
+  (b) includes—
+    (i) the number of employees who would be eligible to elect to do so; and
+    (ii) the wages or salary payable in a stated period (for example, a week, fortnight, or month) to the employees for performing the work that would be subject to the proposed restructuring; and
+    (iii) the total number of hours the employees spend in a stated period (for example, a week, fortnight, or month) performing the work that would be subject to the proposed restructuring; and
+    (iv) the cost of service-related entitlements of the employees whether legislative or otherwise; and
+    (v) the cost of any other entitlements of the employees in their capacity as employees, including any entitlements already agreed but not due until a future date or time.
 (2) Any term or expression defined in subpart 1 and used but not defined in this subpart has the same meaning as in subpart 1.
 
 ### 69OC Disclosure of employee transfer costs information
@@ -1513,8 +1512,87 @@ A bargaining fee clause expires when the collective agreement that contains the 
 
 ### 69W Validity of bargaining fee clause
 A bargaining fee clause, and anything done under it in accordance with this Part,—
-  (a) is not a breach of, or inconsistent with, this Act (in particular sections 8, 9, 11, and 68(2)(c)), and
+  (a) is not a breach of, or inconsistent with, this Act (in particular sections 8, 9, 11, and 68(2)(c)); and
   (b) overrides the Wages Protection Act 1983.
+
+## Part 6C — Breastfeeding facilities and breaks
+
+### 69X Interpretation
+In this Part, unless the context otherwise requires,—
+  - **breastfeeding** includes expressing breast milk
+  - **work period** has the same meaning as in section 69ZC.
+
+### 69Y Employer's obligation
+(1) An employer must ensure that, so far as is reasonable and practicable in the circumstances,—
+  (a) appropriate facilities are provided in the workplace for an employee who is breastfeeding and who wishes to breastfeed in the workplace; and
+  (b) appropriate breaks are provided to an employee who is breastfeeding and wishes to breastfeed during a work period.
+(2) For the purpose of subsection (1)(b), the breaks are paid only if the employee and employer agree that they are paid.
+(3) In subsection (1), circumstances includes—
+  (a) the employer's operational environment; and
+  (b) the employer's resources.
+
+### 69Z Breastfeeding breaks additional to breaks under Part 6D
+(1) Breastfeeding breaks provided under this Part are in addition to breaks an employee is entitled to under Part 6D.
+(2) However, if an employee and employer agree, the same break may be taken for the purposes of this Part and Part 6D.
+(3) To avoid doubt, a break taken for the purposes of this Part and Part 6D is a paid break to the same extent as it would be if taken separately under Part 6D.
+
+### 69ZA Code of employment practice relating to employer's obligation
+As soon as practicable after the commencement of this Part, the Minister must approve, under section 100A, a code of employment practice relating to an employer's obligation under section 69Y.
+
+### 69ZB Penalty
+An employer who does not comply with section 69Y is liable to a penalty imposed by the Authority.
+
+## Part 6D — Rest breaks and meal breaks
+
+### 69ZC Interpretation
+In this Part, unless the context otherwise requires, work period—
+  (a) means the period—
+    (i) beginning with the time when, in accordance with an employee's terms and conditions of employment, an employee starts work; and
+    (ii) ending with the time when, in accordance with an employee's terms and conditions of employment, an employee finishes work; and
+  (b) to avoid doubt, includes all authorised breaks (whether paid or not) provided to an employee or to which an employee is entitled during the period specified in paragraph (a).
+
+### 69ZD Entitlement to rest breaks and meal breaks
+(1) An employee is entitled to, and the employer must provide the employee with, rest breaks and meal breaks in accordance with this Part.
+(2) If an employee's work period is 2 hours or more but not more than 4 hours, the employee is entitled to one 10-minute paid rest break.
+(3) If an employee's work period is more than 4 hours but not more than 6 hours, the employee is entitled to—
+  (a) one 10-minute paid rest break; and
+  (b) one 30-minute meal break.
+(4) If an employee's work period is more than 6 hours but not more than 8 hours, the employee is entitled to—
+  (a) two 10-minute paid rest breaks; and
+  (b) one 30-minute meal break.
+(5) If an employee's work period is more than 8 hours, the employee is entitled to—
+  (a) the same breaks as specified in subsection (4); and
+  (b) the breaks as specified in subsections (2) and (3) as if the employee's work period had started at the end of the eighth hour.
+
+### 69ZE When employer to provide rest breaks and meal breaks
+(1) Rest breaks and meal breaks are to be observed during an employee's work period—
+  (a) at the times agreed between the employee and his or her employer; but
+  (b) in the absence of such an agreement, as specified in subsections (2) to (5).
+(2) Where section 69ZD(2) applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest break in the middle of the work period.
+(3) Where section 69ZD(3) applies, an employer must, so far as is reasonable and practicable, provide the employee with—
+  (a) the rest break one-third of the way through the work period; and
+  (b) the meal break two-thirds of the way through the work period.
+(4) Where section 69ZD(4) applies, an employer must, so far as is reasonable and practicable, provide the employee with—
+  (a) the meal break in the middle of the work period; and
+  (b) a rest break halfway between—
+    (i) the start of work and the meal break; and
+    (ii) the meal break and the finish of work.
+(5) Where section 69ZD(5) applies, an employer must, so far as is reasonable and practicable, provide the employee with the rest breaks and meal breaks in accordance with the applicable provision in subsections (2) to (4).
+
+### 69ZF Penalty
+An employer who does not comply with sections 69ZD and 69ZE is liable to a penalty imposed by the Authority.
+
+### 69ZG Relationship between Part and employment agreements
+(1) This Part does not prevent an employer providing an employee with enhanced or additional entitlements to rest breaks and meal breaks (whether specified in an employment agreement or otherwise) on a basis agreed with the employee.
+(2) An employment agreement that excludes, restricts, or reduces an employee's entitlements under section 69ZD—
+  (a) has no effect to the extent that it does so; but
+  (b) is not an illegal contract under the Illegal Contracts Act 1970.
+
+### 69ZH Relationship between Part and other enactments
+(1) Where an employee is provided with, or entitled to, rest breaks or meal breaks under another enactment,—
+  (a) this Part prevails if the breaks provided under this Part are additional or enhanced breaks:
+  (b) the other enactment prevails if the breaks provided under the other enactment are additional or enhanced breaks.
+(2) Despite subsection (1), where an employee is a person who is required to take a rest break by, or under, another enactment, the requirement for a rest break defined by, or under, the other enactment applies instead of the provisions or entitlements for rest breaks or meal breaks provided under this Part.
 
 ## Part 7 — Employment relations education leave
 
@@ -1546,7 +1624,7 @@ In this Part, unless the context otherwise requires,—
 (4) Employment relations education leave expires if it is not allocated by the end of the year in respect of which it is calculated under section 74, unless the employer agrees that the leave may be carried forward to the next year.
 
 ### 74 Calculation of maximum number of days of employment relations education leave
-(1) The maximum number of days of employment relations education leave that a union is entitled to allocate in respect of an employer is based on the number of full-time equivalent eligible employees employed by the employer as at the 30th day before the specified date in a year, and is determined in accordance with the following table:Full-time equivalent eligible employees as atthe 30th day before the specified date in a yearMaximum number of days of employment relations education leave that union entitled to allocate1-536-50551-2801 day for every 8 full-time equivalent eligible employees or part of that number281 or more35 days plus 5 days for every 100 full-time equivalent eligible employees or part of that number that exceeds 280
+(1) The maximum number of days of employment relations education leave that a union is entitled to allocate in respect of an employer is based on the number of full-time equivalent eligible employees employed by the employer as at the 30th day before the specified date in a year, and is determined in accordance with the following table:Full-time equivalent eligible employees as at the 30th day before the specified date in a yearMaximum number of days of employment relations education leave that union entitled to allocate1–536–50551–2801 day for every 8 full-time equivalent eligible employees or part of that number281 or more35 days plus 5 days for every 100 full-time equivalent eligible employees or part of that number that exceeds 280
 (2) For the purposes of calculating the number of full-time equivalent eligible employees employed by an employer,—
   (a) an eligible employee who normally works 30 hours or more during a week is to be counted as 1:
   (b) an eligible employee who normally works less than 30 hours during a week is to be counted as one-half.
@@ -1629,7 +1707,7 @@ Participation in a strike or lockout is lawful if the strike or lockout—
   (a) is not unlawful under section 86; and
   (b) relates to bargaining—
     (i) for a collective agreement that will bind each of the employees concerned; or
-    (ii) with regard to an aspect of a collective agreement in respect of which the right to strike or lock out, as the case may be, is available under a declaration made by the Court under section 192(2)(c).
+    (ii) with regard to an aspect of a collective agreement in respect of which the right to strike or lock out, as the case may be, is available under a declaration made by the court under section 192(2)(c).
 
 ### 84 Lawful strikes and lockouts on grounds of safety or health
 Participation in a strike or lockout is lawful if the employees who strike have, or the employer who locks out has, reasonable grounds for believing that the strike or lockout is justified on the grounds of safety or health.
@@ -1656,9 +1734,9 @@ Participation in a strike or lockout is lawful if the employees who strike have,
   (da) relates to a bargaining fee clause or proposed bargaining fee clause under Part 6B; or
   (e) relates to any matter dealt with in Part 3; or
   (f) is in an essential service and the requirements as to notice that are contained in section 90 or section 91, as the case may be, have not been complied with; or
-  (g) takes place in contravention of an order of the Court.
+  (g) takes place in contravention of an order of the court.
 (2) Subsection (1)(a) does not apply—
-  (a) to an aspect of a collective agreement in respect of which the right to strike or lock out, as the case may be, is available under a declaration made by the Court under section 192(2)(c); or
+  (a) to an aspect of a collective agreement in respect of which the right to strike or lock out, as the case may be, is available under a declaration made by the court under section 192(2)(c); or
   (b) to a collective agreement that is still in force after the first of the collective agreements referred to in subsection (1)(b)(iii) has expired, for so long as that bargaining continues.
 (3) For the purposes of this section, in determining whether a collective agreement is in force or has expired section 53 is not to be taken into account.
 
@@ -1696,8 +1774,8 @@ Where an employer suspends an employee under section 87 or section 88, the emplo
   (b) the proposed strike relates to bargaining of the type specified in section 83(b).
 (3) The notice required by subsection (1)(b)(i) must specify—
   (a) the period of notice, being a period that is—
-    (i) No less than 14 days in the case of an essential service described in Part A of Schedule 1; and
-    (ii) No less than 3 days in the case of an essential service described in Part B of Schedule 1; and
+    (i) no less than 14 days in the case of an essential service described in Part A of Schedule 1; and
+    (ii) no less than 3 days in the case of an essential service described in Part B of Schedule 1; and
   (b) the nature of the proposed strike, including whether or not the proposed action will be continuous; and
   (c) the place or places where the proposed strike will occur; and
   (d) the date on which the strike will begin.
@@ -1764,8 +1842,8 @@ Where the chief executive receives a notice of intention to strike or lock out u
 (4) An employer engaged in providing a passenger road service or passenger rail service and who intends to lock out any employees who are employed in the service must take all practicable steps to ensure that the public who are likely to be affected are notified of the lockout as soon as possible.
 
 ### 95 Penalty for breach of section 93 or section 94
-(1) A union that fails to comply with section 93 is liable to a penalty imposed by the Court under this Act.
-(2) An employer who fails to comply with section 93 or section 94 is liable to a penalty imposed by the Court under this Act.
+(1) A union that fails to comply with section 93 is liable to a penalty imposed by the court under this Act.
+(2) An employer who fails to comply with section 93 or section 94 is liable to a penalty imposed by the court under this Act.
 (3) Except as provided in this section, a union or employer is under no liability (whether under this Act or the general law) for a failure to comply with section 93 or section 94.
 
 **Employer's liability for wages during lockout**
@@ -1798,26 +1876,26 @@ If a strike or lockout occurs, the employer of the employees participating in th
 
 **Jurisdiction of Employment Court**
 
-### 99 Jurisdiction of Court in relation to torts
-(1) The Court has full and exclusive jurisdiction to hear and determine proceedings founded on tort—
+### 99 Jurisdiction of court in relation to torts
+(1) The court has full and exclusive jurisdiction to hear and determine proceedings founded on tort—
   (a) issued against a party to a strike or lockout that is threatened, is occurring, or has occurred, and that have resulted from or are related to that strike or lockout:
   (b) issued against any person in respect of picketing related to a strike or lockout.
 (2) No other court has jurisdiction to hear and determine any action or proceedings founded on tort—
   (a) resulting from or related to a strike or lockout:
   (b) in respect of any picketing related to a strike or lockout.
-(3) Where any action or proceedings founded on tort are commenced in the Court, and the Court is satisfied that the proceedings resulted from or related to participation in a strike or lockout that is lawful under section 83 or section 84,—
-  (a) the Court must dismiss those proceedings; and
+(3) Where any action or proceedings founded on tort are commenced in the court, and the court is satisfied that the proceedings resulted from or related to participation in a strike or lockout that is lawful under section 83 or section 84,—
+  (a) the court must dismiss those proceedings; and
   (b) no proceedings founded on tort and resulting from or related to that strike or lockout may be commenced in the District Court or the High Court.
 
-### 100 Jurisdiction of Court in relation to injunctions
-(1) The Court has full and exclusive jurisdiction to hear and determine any proceedings issued for the grant of an injunction—
+### 100 Jurisdiction of court in relation to injunctions
+(1) The court has full and exclusive jurisdiction to hear and determine any proceedings issued for the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
   (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout.
 (2) No other court has jurisdiction to hear and determine any action or proceedings seeking the grant of an injunction—
   (a) to stop a strike or lockout that is occurring or to prevent a threatened strike or lockout; or
   (b) to stop any picketing related to a strike or lockout or to prevent any threatened picketing related to a strike or lockout.
-(3) Where any action or proceedings seeking the grant of an injunction to stop a strike or lockout or to prevent a threatened strike or lockout are commenced in the Court, and the Court is satisfied that participation in the strike or lockout is lawful under section 83 or section 84,—
-  (a) the Court must dismiss that action or those proceedings; and
+(3) Where any action or proceedings seeking the grant of an injunction to stop a strike or lockout or to prevent a threatened strike or lockout are commenced in the court, and the court is satisfied that participation in the strike or lockout is lawful under section 83 or section 84,—
+  (a) the court must dismiss that action or those proceedings; and
   (b) no proceedings seeking the grant of an injunction to stop that strike or lockout or to prevent that threatened strike or lockout may be commenced in the District Court or the High Court.
 
 ## Part 8A — Codes of employment practice and code of good faith for public health sector
@@ -1839,10 +1917,10 @@ If a strike or lockout occurs, the employer of the employees participating in th
 ### 100B Amendment and revocation of code of practice
 A code of practice may be amended or revoked in the same manner as the code is approved.
 
-### 100C Authority or Court may have regard to code of practice
-The Authority or the Court may, in determining any matter within its jurisdiction, have regard to a code of employment practice that—
+### 100C Authority or court may have regard to code of practice
+The Authority or the court may, in determining any matter within its jurisdiction, have regard to a code of employment practice that—
   (a) was in force at the relevant time; and
-  (b) in the form in which it was then in force, related to the circumstances before the Authority or the Court.
+  (b) in the form in which it was then in force, related to the circumstances before the Authority or the court.
 
 **Code of good faith for public health sector**
 
@@ -1891,7 +1969,7 @@ The object of this Part is—
   (ab) to recognise that employment relationship problems are more likely to be resolved quickly and successfully if the problems are first raised and discussed directly between the parties to the relationship; and
   (b) to continue to give special attention to personal grievances, and to facilitate the raising of personal grievances with employers; and
   (c) to recognise the importance of reinstatement as a remedy; and
-  (d) to ensure that the role of the Authority and the Court in resolving employment relationship problems is to determine the rights and obligations of the parties rather than to fix terms and conditions of employment.
+  (d) to ensure that the role of the Authority and the court in resolving employment relationship problems is to determine the rights and obligations of the parties rather than to fix terms and conditions of employment.
 
 **Personal grievances**
 
@@ -1916,7 +1994,7 @@ An employee who believes that he or she has a personal grievance may pursue that
 (3) In subsection (1)(b), unjustifiable action by the employer does not include an action deriving solely from the interpretation, application, or operation, or disputed interpretation, application, or operation, of any provision of any employment agreement.
 
 ### 103A Test of justification
-For the purposes of section 103(1)(a) and (b), the question of whether a dismissal or an action was justifiable must be determined, on an objective basis, by considering whether the employer's actions, and how the employer acted, were what a fair and reasonable employer would have done in all the circumstances at the time the dismissal or action occurred
+For the purposes of section 103(1)(a) and (b), the question of whether a dismissal or an action was justifiable must be determined, on an objective basis, by considering whether the employer's actions, and how the employer acted, were what a fair and reasonable employer would have done in all the circumstances at the time the dismissal or action occurred.
 
 ### 104 Discrimination
 (1) For the purposes of section 103(1)(c), an employee is discriminated against in that employee's employment if the employee's employer or a representative of that employer, by reason directly or indirectly of any of the prohibited grounds of discrimination specified in section 105, or by reason directly or indirectly of that employee's refusal to do work under section 28A of the Health and Safety in Employment Act 1992, or involvement in the activities of a union in terms of section 107,—
@@ -1956,14 +2034,14 @@ For the purposes of section 103(1)(a) and (b), the question of whether a dismiss
   (i) section 32 (which provides for an exception in relation to family status):
   (j)
   (k) section 34 (which relates to regular forces and Police):
-  (l) section 35 (which provides a general qualification on exceptions).
+  (l) section 35 (which provides a general qualification on exceptions):
   (m) section 70 (which relates to superannuation schemes).
 (2) For the purposes of subsection (1), sections 24 to 35 of the Human Rights Act 1993 must be read as if they referred to section 104 of this Act, rather than to section 22 of that Act. In particular,—
-  (a) references in sections 24 to 29, 31, and 32 of that Act to section 22 of that Act must be read as if they were references to section 104(1) of this Act; and
+  (a) references in sections 24 to 29, 31, and 32 of that Act to section 22 of that Act must be read as if they were references to section 104(1); and
   (b) references in section 30 or section 34 of that Act—
-    (i) to section 22(1)(a) or 22(1)(b) of that Act must be read as if they were references to section 104(1)(a) of this Act; and
-    (ii) to section 22(1)(c) of that Act must be read as if they were references to section 104(1)(b) of this Act; and
-    (iii) to section 22(1)(d) of that Act must be read as if they were references to section 104(1)(c) of this Act.
+    (i) to section 22(1)(a) or 22(1)(b) of that Act must be read as if they were references to section 104(1)(a); and
+    (ii) to section 22(1)(c) of that Act must be read as if they were references to section 104(1)(b); and
+    (iii) to section 22(1)(d) of that Act must be read as if they were references to section 104(1)(c).
 (3) Nothing in section 104 includes as discrimination—
   (a) anything done or omitted for any of the reasons set out in paragraph (a) or paragraph (b) of section 73(1) of the Human Rights Act 1993 (which relate to measures to ensure equality); or
   (b) preferential treatment granted by reason of any of the reasons set out in paragraph (a) or paragraph (b) of section 74 of the Human Rights Act 1993 (which relate to pregnancy, childbirth, or family responsibilities); or
@@ -2042,7 +2120,7 @@ Each of the terms personal grievance, discrimination, sexual harassment, racial 
   (a) is satisfied that the delay in raising the personal grievance was occasioned by exceptional circumstances (which may include any 1 or more of the circumstances set out in section 115); and
   (b) considers it just to do so.
 (5) In any case where the Authority grants leave under subsection (4), the Authority must direct the employer and employee to use mediation to seek to mutually resolve the grievance.
-(6) No action may be commenced in the Authority or the Court in relation to a personal grievance more than 3 years after the date on which the personal grievance was raised in accordance with this section.
+(6) No action may be commenced in the Authority or the court in relation to a personal grievance more than 3 years after the date on which the personal grievance was raised in accordance with this section.
 
 ### 115 Further provision regarding exceptional circumstances under section 114
 For the purposes of section 114(4)(a), exceptional circumstances include—
@@ -2072,7 +2150,7 @@ Where a personal grievance involves allegations of sexual harassment, no account
 (2) If this section applies, the employee is deemed for the purposes of this Act and for the purposes of any employment agreement to have a personal grievance by virtue of having been sexually harassed or racially harassed, as the case may be, in the course of the employee's employment as if the request or behaviour were that of the employee's employer.
 
 ### 119 Presumption in discrimination cases
-(1) Subsection (2) applies if, in any matter before the Authority or the Court,—
+(1) Subsection (2) applies if, in any matter before the Authority or the court,—
   (a) the employee establishes that the employer or the employer's representative took any action or omitted any action as described in any of paragraphs (a) to (c) of section 104(1) in relation to that employee; and
   (b) if it is a case where the employee alleges that the discrimination was by reason directly or indirectly of the employee's involvement in the activities of a union, the employee establishes that he or she was a person described in section 107.
 (2) If this subsection applies, there is a rebuttable presumption that the employer or representative of the employer discriminated against the employee on the grounds, or for the reason, specified in section 104(1) and alleged by the employee.
@@ -2090,20 +2168,20 @@ Nothing in this Part or in any employment agreement prevents a finding that a pe
 **Remedies in relation to personal grievances**
 
 ### 123 Remedies
-(1) Where the Authority or the Court determines that an employee has a personal grievance, it may, in settling the grievance, provide for any 1 or more of the following remedies:
+(1) Where the Authority or the court determines that an employee has a personal grievance, it may, in settling the grievance, provide for any 1 or more of the following remedies:
   (a) reinstatement of the employee in the employee's former position or the placement of the employee in a position no less advantageous to the employee:
   (b) the reimbursement to the employee of a sum equal to the whole or any part of the wages or other money lost by the employee as a result of the grievance:
   (c) the payment to the employee of compensation by the employee's employer, including compensation for—
     (i) humiliation, loss of dignity, and injury to the feelings of the employee; and
     (ii) loss of any benefit, whether or not of a monetary kind, which the employee might reasonably have been expected to obtain if the personal grievance had not arisen:
-  (ca) if the Authority or the Court finds that any workplace conduct or practices are a significant factor in the personal grievance, recommendations to the employer concerning the action the employer should take to prevent similar employment relationship problems occurring:
-  (d) if the Authority or the Court finds an employee to have been sexually or racially harassed in his or her employment, recommendations to the employer—
+  (ca) if the Authority or the court finds that any workplace conduct or practices are a significant factor in the personal grievance, recommendations to the employer concerning the action the employer should take to prevent similar employment relationship problems occurring:
+  (d) if the Authority or the court finds an employee to have been sexually or racially harassed in his or her employment, recommendations to the employer—
     (i) concerning the action the employer should take in respect of the person who made the request or was guilty of the harassing behaviour, which action may include the transfer of that person, the taking of disciplinary action against that person, or the taking of rehabilitative action in respect of that person:
     (ii) about any other action that it is necessary for the employer to take to prevent further harassment of the employee concerned or any other employee.
-(2) When making an order under subsection (1)(b) or (c), the Authority or the Court may order payment to the employee by instalments, but only if the financial position of the employer requires it.
+(2) When making an order under subsection (1)(b) or (c), the Authority or the court may order payment to the employee by instalments, but only if the financial position of the employer requires it.
 
 ### 124 Remedy reduced if contributing behaviour by employee
-Where the Authority or the Court determines that an employee has a personal grievance, the Authority or the Court must, in deciding both the nature and the extent of the remedies to be provided in respect of that personal grievance,—
+Where the Authority or the court determines that an employee has a personal grievance, the Authority or the court must, in deciding both the nature and the extent of the remedies to be provided in respect of that personal grievance,—
   (a) consider the extent to which the actions of the employee contributed towards the situation that gave rise to the personal grievance; and
   (b) if those actions so require, reduce the remedies that would otherwise have been awarded accordingly.
 
@@ -2114,7 +2192,7 @@ Where the Authority or the Court determines that an employee has a personal grie
 (2) If this section applies the Authority must, whether or not it provides for any of the other remedies provided for in section 123, provide, wherever practicable, for reinstatement as described in section 123(a).
 
 ### 126 Provisions applying if reinstatement ordered
-Where the remedy of reinstatement is provided by the Authority or the Court, the employee must be reinstated immediately or on such date as is specified by the Authority or the Court and, despite any challenge to or appeal against the determination of the Authority or the Court, the provisions for reinstatement remain in full force pending the outcome of those proceedings unless the Authority or the Court otherwise orders.
+Where the remedy of reinstatement is provided by the Authority or the court, the employee must be reinstated immediately or on such date as is specified by the Authority or the court and, despite any challenge to or appeal against the determination of the Authority or the court, the provisions for reinstatement remain in full force pending the outcome of those proceedings unless the Authority or the court otherwise orders.
 
 ### 127 Authority may order interim reinstatement
 (1) The Authority may if it thinks fit, on the application of an employee who has raised a personal grievance with his or her employer, make an order for the interim reinstatement of the employee pending the hearing of the personal grievance.
@@ -2125,10 +2203,10 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
 (4) When determining whether to make an order for interim reinstatement, the Authority must apply the law relating to interim injunctions having regard to the object of this Act.
 (5) The order for interim reinstatement may be subject to any conditions that the Authority thinks fit.
 (6) The Authority may at any time rescind or vary an order made under this section.
-(7) Nothing in this section prevents the Court from granting an interim injunction reinstating an employee if the Court is seized of the proceedings dealing with the personal grievance.
+(7) Nothing in this section prevents the court from granting an interim injunction reinstating an employee if the court is seized of the proceedings dealing with the personal grievance.
 
 ### 128 Reimbursement
-(1) This section applies where the Authority or the Court determines, in respect of any employee,—
+(1) This section applies where the Authority or the court determines, in respect of any employee,—
   (a) that the employee has a personal grievance; and
   (b) that the employee has lost remuneration as a result of the personal grievance.
 (2) If this section applies then, subject to subsection (3) and section 124, the Authority must, whether or not it provides for any of the other remedies provided for in section 123, order the employer to pay to the employee the lesser of a sum equal to that lost remuneration or to 3 months' ordinary time remuneration.
@@ -2183,8 +2261,8 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
   (b) for a breach of any provision of this Act for which a penalty in the Authority is provided in the particular provision.
 (2) Subsection (1) is subject to—
   (a) sections 177 and 178 (which allow for the referral or removal of certain matters to the Employment Court); and
-  (b) any right to have the matter heard by the Court under section 179.
-(3) Subject to any rights of appeal under this Act, the Court has full and exclusive jurisdiction to deal with all actions for the recovery of penalties under this Act for a breach of any other provision of this Act for which a penalty in the Court is provided in the particular provision.
+  (b) any right to have the matter heard by the court under section 179.
+(3) Subject to any rights of appeal under this Act, the court has full and exclusive jurisdiction to deal with all actions for the recovery of penalties under this Act for a breach of any other provision of this Act for which a penalty in the court is provided in the particular provision.
 
 ### 134 Penalties for breach of employment agreement
 (1) Every party to an employment agreement who breaches that agreement is liable to a penalty under this Act.
@@ -2199,15 +2277,15 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
   (a) in the case of an individual, to a penalty not exceeding $5,000:
   (b) in the case of a company or other corporation, to a penalty not exceeding $10,000.
 (3) A claim for 2 or more penalties against the same person may be joined in the same action.
-(4) In any claim for a penalty the Authority or the Court may give judgment for the total amount claimed, or any amount, not exceeding the maximum specified in subsection (2), or the Authority or the Court may dismiss the action.
-(4A) The Authority or the Court may order payment of a penalty by instalments, but only if the financial position of the person paying the penalty requires it.
+(4) In any claim for a penalty the Authority or the court may give judgment for the total amount claimed, or any amount, not exceeding the maximum specified in subsection (2), or the Authority or the court may dismiss the action.
+(4A) The Authority or the court may order payment of a penalty by instalments, but only if the financial position of the person paying the penalty requires it.
 (5) An action for the recovery of a penalty under this Act must be commenced within 12 months after the earlier of—
   (a) the date when the cause of action first became known to the person bringing the action; or
   (b) the date when the cause of action should reasonably have become known to the person bringing the action.
 
 ### 136 Application of penalties recovered
-(1) Subject to any order made under subsection (2), every penalty recovered in any penalty action, whether before the Authority or the Court, must be paid into the Authority or the Court, as the case requires, and not to the plaintiff, and must then be paid by the Authority or the Court into the Crown Bank Account.
-(2) The Authority or the Court may order that the whole or any part of any penalty recovered must be paid to any person.
+(1) Subject to any order made under subsection (2), every penalty recovered in any penalty action, whether before the Authority or the court, must be paid into the Authority or the court, as the case requires, and not to the plaintiff, and must then be paid by the Authority or the court into a Crown Bank Account.
+(2) The Authority or the court may order that the whole or any part of any penalty recovered must be paid to any person.
 
 **Compliance orders**
 
@@ -2215,7 +2293,7 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
 (1) This section applies where any person has not observed or complied with—
   (a) any provision of—
     (i) any employment agreement; or
-    (ii) Parts 1, 3 to 6, 6A (except subpart 2), 6B, 7, and 9; or
+    (ii) Parts 1, 3 to 6, 6A (except subpart 2), 6B, 6C, 6D, 7, and 9; or
     (iii) any terms of settlement or decision that section 151 provides may be enforced by compliance order; or
     (iv) a demand notice that section 225(4) provides may be enforced by compliance order; or
     (v) sections 56, 58, 77A, and 77D of the State Sector Act 1988; or
@@ -2245,27 +2323,27 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
   (b) may be expressed to continue in force until a specified time or the happening of a specified event.
 (4A) If the compliance order relates in whole or in part to the payment to an employee of a sum of money, the Authority may order payment to the employee by instalments, but only if the financial position of the employer requires it.
 (5) Where the Authority makes a compliance order of the kind described in section 137(2), it may then adjourn the matter, without imposing any penalty or making a final determination, to enable the compliance order to be complied with while the matter is adjourned.
-(6) Where any person fails to comply with a compliance order made under section 137, the person affected by the failure may apply to the Court for the exercise of its powers under section 140(6).
+(6) Where any person fails to comply with a compliance order made under section 137, the person affected by the failure may apply to the court for the exercise of its powers under section 140(6).
 
-### 139 Power of Court to order compliance
+### 139 Power of court to order compliance
 (1) This section applies where any person has not observed or complied with—
   (a) any provision of Part 8; or
-  (b) any order, determination, direction, or requirement made or given under this Act by the Court.
-(2) Where this section applies, the Court may, in addition to any other power it may exercise, by order require, in or in conjunction with any proceedings under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
-(3) The Court must specify a time within which the order is to be obeyed.
-(4) Where any person (being an employee, employer, union, or employer organisation) alleges that that person has been affected by a non-observance or non-compliance of the kind described in subsection (1), that person may commence proceedings against any other person in respect of the non-observance or non-compliance by applying to the Court for an order of the kind described in subsection (2).
+  (b) any order, determination, direction, or requirement made or given under this Act by the court.
+(2) Where this section applies, the court may, in addition to any other power it may exercise, by order require, in or in conjunction with any proceedings under this Act to which that person is a party or in respect of which that person is a witness, that person to do any specified thing or to cease any specified activity, for the purpose of preventing further non-observance of or non-compliance with that provision, order, determination, direction, or requirement.
+(3) The court must specify a time within which the order is to be obeyed.
+(4) Where any person (being an employee, employer, union, or employer organisation) alleges that that person has been affected by a non-observance or non-compliance of the kind described in subsection (1), that person may commence proceedings against any other person in respect of the non-observance or non-compliance by applying to the court for an order of the kind described in subsection (2).
 
-### 140 Further provisions relating to compliance order by Court
-(1) The power given to the Court by section 139(2) may be exercised by the Court—
+### 140 Further provisions relating to compliance order by court
+(1) The power given to the court by section 139(2) may be exercised by the court—
   (a) on the application of any party to the proceedings; or
   (b) except where the proceedings are commenced under section 139(4), of its own motion.
-(2) Before exercising its power under section 139(2) in relation to a person who is not a party to the proceedings, the Court must give that person an opportunity to appear or be represented before the Court.
-(3) Any time specified by the Court under section 139 may from time to time be extended by the Court on the application of the person who is required to obey the order.
+(2) Before exercising its power under section 139(2) in relation to a person who is not a party to the proceedings, the court must give that person an opportunity to appear or be represented before the court.
+(3) Any time specified by the court under section 139 may from time to time be extended by the court on the application of the person who is required to obey the order.
 (4) A compliance order of the kind described in section 139(2)—
-  (a) may be made subject to such terms and conditions as the Court thinks fit (including conditions as to the actions of the applicant); and
+  (a) may be made subject to such terms and conditions as the court thinks fit (including conditions as to the actions of the applicant); and
   (b) may be expressed to continue in force until a specified time or the happening of a specified event.
-(5) Where the Court makes a compliance order of the kind described in section 139(2), it may then adjourn the proceedings, without imposing any penalty or fine or making a final determination, to enable the compliance order to be complied with while the proceedings are adjourned.
-(6) Where any person fails to comply with a compliance order made under section 139, or where the Court, on an application under section 138(6), is satisfied that any person has failed to comply with a compliance order made under section 137, the Court may do 1 or more of the following things:
+(5) Where the court makes a compliance order of the kind described in section 139(2), it may then adjourn the proceedings, without imposing any penalty or fine or making a final determination, to enable the compliance order to be complied with while the proceedings are adjourned.
+(6) Where any person fails to comply with a compliance order made under section 139, or where the court, on an application under section 138(6), is satisfied that any person has failed to comply with a compliance order made under section 137, the court may do 1 or more of the following things:
   (a) if the person in default is a plaintiff, order that the proceedings be stayed or dismissed as to the whole or any part of the relief claimed by the plaintiff in the proceedings:
   (b) if the person in default is a defendant, order that the defendant's defence be struck out and that judgment be sealed accordingly:
   (c) order that the person in default be sentenced to imprisonment for a term not exceeding 3 months:
@@ -2277,7 +2355,7 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
   (a) any person has not observed or complied with section 69OC, 69OD, or 69OE; or
   (b) there are reasonable grounds to believe that a person will not observe or comply with section 69OC, 69OD, or 69OE.
 (2) Where this section applies, the Authority may, in addition to any other power it may exercise, by order require that person to do any specified thing or to cease any specified activity for the purpose of preventing—
-  (a) further non-observance of or non-compliance with section 69OC, 69OD,or 69OE; or
+  (a) further non-observance of or non-compliance with section 69OC, 69OD, or 69OE; or
   (b) non-observance of or non-compliance with section 69OC, 69OD, or 69OE.
 (3) The Authority must specify a time within which the order is to be obeyed.
 (4) An application to the Authority for an order of the kind described in subsection (2) may be made by the following persons:
@@ -2295,12 +2373,12 @@ Where the remedy of reinstatement is provided by the Authority or the Court, the
 **Enforcement of order**
 
 ### 141 Enforcement of order
-Any order made or judgment given under this Act by the Authority or the Court (including an order imposing a fine) may be filed in any District Court, and is then enforceable in the same manner as an order made or judgment given by the District Court.
+Any order made or judgment given under this Act by the Authority or the court (including an order imposing a fine) may be filed in any District Court, and is then enforceable in the same manner as an order made or judgment given by the District Court.
 
 **Limitation period for actions other than personal grievances**
 
 ### 142 Limitation period for actions other than personal grievances
-No action may be commenced in the Authority or the Court in relation to an employment relationship problem that is not a personal grievance more than 6 years after the date on which the cause of action arose.
+No action may be commenced in the Authority or the court in relation to an employment relationship problem that is not a personal grievance more than 6 years after the date on which the cause of action arose.
 
 ## Part 10 — Institutions
 
@@ -2336,7 +2414,7 @@ The object of this Part is to establish procedures and institutions that—
   (a) may decide how the mediation services required by section 144 are to be provided; and
   (b) may, in order to promote fast and effective resolutions, treat matters presented for mediation in different ways.
 (2) Any of the mediation services may be provided, for example,—
-  (a) by a telephone, facsimile, internet, or e-mail service (whether as a means of explaining where information can be found or as a means of actually providing the information or of otherwise seeking to resolve the problem); or
+  (a) by a telephone, facsimile, Internet, or e-mail service (whether as a means of explaining where information can be found or as a means of actually providing the information or of otherwise seeking to resolve the problem); or
   (b) by publishing pamphlets, brochures, booklets, or codes; or
   (c) by specialists who—
     (i) respond to requests or themselves identify how, where, and when their services can best support the object of this Act; or
@@ -2348,7 +2426,7 @@ The object of this Part is to establish procedures and institutions that—
 (4) Subsections (2) and (3) do not limit subsection (1).
 
 ### 146 Access to mediation services
-A person who wishes to access mediation services must contact an office of the Department that deals with employment relations issues.
+A person who wishes to access mediation services must contact an office of the department that deals with employment relations issues.
 
 ### 147 Procedure in relation to mediation services
 (1) Where mediation services are provided, the person who provides the services decides what services are appropriate to the particular case.
@@ -2371,7 +2449,7 @@ A person who wishes to access mediation services must contact an office of the D
 (1) Except with the consent of the parties or the relevant party, a person who—must keep confidential any statement, admission, or document created or made for the purposes of the mediation and any information that, for the purposes of the mediation, is disclosed orally in the course of the mediation.
   (a) provides mediation services; or
   (b) is a person to whom mediation services are provided; or
-  (c) is a person employed or engaged by the Department; or
+  (c) is a person employed or engaged by the department; or
   (d) is a person who assists either a person who provides mediation services or a person to whom mediation services are provided—
 (2) No person who provides mediation services may give evidence in any proceedings, whether under this Act or any other Act, about—
   (a) the provision of the services; or
@@ -2381,8 +2459,8 @@ A person who wishes to access mediation services must contact an office of the D
 (5) Where mediation services are provided for the purpose of assisting persons to resolve any problem in determining or agreeing on new collective terms and conditions of employment, subsections (1) and (3) do not apply to any statement, admission, document, or information disclosed or made in the course of the provision of any such mediation services.
 (6) Nothing in this section—
   (a) prevents the discovery or affects the admissibility of any evidence (being evidence which is otherwise discoverable or admissible and which existed independently of the mediation process) merely because the evidence was presented in the course of the provision of mediation services; or
-  (b) prevents the gathering of information by the Department for research or educational purposes so long as the parties and the specific matters in issue between them are not identifiable; or
-  (c) prevents the disclosure by any person employed or engaged by the Department to any other person employed or engaged by the Department of matters that need to be disclosed for the purposes of giving effect to this Act; or
+  (b) prevents the gathering of information by the department for research or educational purposes so long as the parties and the specific matters in issue between them are not identifiable; or
+  (c) prevents the disclosure by any person employed or engaged by the department to any other person employed or engaged by the department of matters that need to be disclosed for the purposes of giving effect to this Act; or
   (d) applies in relation to the functions performed, or powers exercised, by any person under section 149(2) or section 150(2).
 
 ### 149 Settlements
@@ -2395,7 +2473,7 @@ A person who wishes to access mediation services must contact an office of the D
 (3) Where, following the affirmation referred to in subsection (2) of a request made under subsection (1), the agreed terms of settlement to which the request relates are signed by the person empowered to do so,—
   (a) those terms are final and binding on, and enforceable by, the parties; and
   (ab) the terms may not be cancelled under section 7 of the Contractual Remedies Act 1979; and
-  (b) except for enforcement purposes, no party may seek to bring those terms before the Authority or the Court, whether by action, appeal, application for review, or otherwise.
+  (b) except for enforcement purposes, no party may seek to bring those terms before the Authority or the court, whether by action, appeal, application for review, or otherwise.
 (4) A person who breaches an agreed term of settlement to which subsection (3) applies is liable to a penalty imposed by the Authority.
 
 ### 150 Decision by authority of parties
@@ -2405,11 +2483,11 @@ A person who wishes to access mediation services must contact an office of the D
   (b) be satisfied that, knowing the effect of that subsection, the parties affirm their agreement.
 (3) Where, following the affirmation referred to in subsection (2) of an agreement made under subsection (1), a decision on how to resolve a problem is made and signed by the person empowered to do so,—
   (a) that decision is final and binding on, and enforceable by, the parties; and
-  (b) except for enforcement purposes, no party may seek to bring that decision before the Authority or the Court, whether by action, appeal, application for review, or otherwise.
+  (b) except for enforcement purposes, no party may seek to bring that decision before the Authority or the court, whether by action, appeal, application for review, or otherwise.
 (4) A person who breaches a term of a decision to which subsection (3) applies is liable to a penalty imposed by the Authority.
 
 ### 150A Payment on resolution of problem
-(1) Any payment by 1 party to another, required by any agreed terms of settlement under section 149(3) or decision under section 150(3), must be paid directly to the other party and not to a representative of that party, and the party receiving the payment may not receive, or agree to receive, payment in any other manner.
+(1) Any payment by one party to another, required by any agreed terms of settlement under section 149(3) or decision under section 150(3), must be paid directly to the other party and not to a representative of that party, and the party receiving the payment may not receive, or agree to receive, payment in any other manner.
 (2) For the purposes of this Act, a payment that does not comply with subsection (1) is to be treated as if the payment has not been made.
 (3) Subsection (1) does not—
   (a) apply if the party to whom the payment is required to be made is receiving or has received legal aid under the Legal Services Act 2000 for any matter related to the employment relationship problem giving rise to the mediation; or
@@ -2418,7 +2496,7 @@ A person who wishes to access mediation services must contact an office of the D
 ### 151 Enforcement of terms of settlement agreed or authorised
 Any agreed terms of settlement that are, under section 149(3), enforceable by the parties and any decision that, under section 150(3), is enforceable by the parties, may be enforced—
   (a) by compliance order under section 137; or
-  (b) in the case of a monetary settlement, in 1 of the following ways:
+  (b) in the case of a monetary settlement, in one of the following ways:
     (i) by compliance order under section 137:
     (ii) by using, as if the settlement or decision were an order enforceable under section 141, the procedure applicable under section 141.
 
@@ -2427,8 +2505,8 @@ Any agreed terms of settlement that are, under section 149(3), enforceable by th
   (a) that the nature and content of the services was inappropriate; or
   (b) that the manner in which the services were provided was inappropriate.
 (2) Nothing in subsection (1) or in sections 149 and 150 prevents any agreed terms of settlement signed under section 149 or any decision made and signed under section 150 from being challenged or called in question on the ground that,—
-  (a) In the case of terms signed under section 149, the provisions of subsections (2) and (3) of that section (which relate to knowledge about the effect of a settlement) were not complied with; and
-  (b) In the case of a decision made and signed under section 150, the provisions of subsections (2) and (3) of that section (which relate to knowledge about the effect of conferring decision-making power on the person providing mediation services) were not complied with.
+  (a) in the case of terms signed under section 149, the provisions of subsections (2) and (3) of that section (which relate to knowledge about the effect of a settlement) were not complied with; and
+  (b) in the case of a decision made and signed under section 150, the provisions of subsections (2) and (3) of that section (which relate to knowledge about the effect of conferring decision-making power on the person providing mediation services) were not complied with.
 
 ### 153 Independence of mediation personnel
 (1) The chief executive must ensure that any person employed or engaged to provide mediation services under section 144—
@@ -2442,7 +2520,7 @@ Any agreed terms of settlement that are, under section 149(3), enforceable by th
   (a) hold office, at the same time, as a member of the Authority; or
   (b) be employed, at the same time, to staff or support—
     (i) the Authority under section 185; or
-    (ii) the Court under section 198.
+    (ii) the court under section 198.
 
 ### 154 Other mediation services
 Nothing in this Part prevents any person seeking and using mediation services other than those provided by the chief executive under section 144.
@@ -2453,7 +2531,7 @@ Nothing in this Part prevents any person seeking and using mediation services ot
   (a) nothing in the Arbitration Act 1996 applies in respect of that submission; and
   (b) the parties must determine the procedure for the arbitration.
 (3) The submission of an employment relationship problem to arbitration does not—
-  (a) prevent any of the parties from using mediation services or applying to the Authority or the Court in accordance with this Part; or
+  (a) prevent any of the parties from using mediation services or applying to the Authority or the court in accordance with this Part; or
   (b) otherwise affect the application of this Act.
 
 **Employment Relations Authority**
@@ -2523,7 +2601,7 @@ Proceedings before the Authority are to be commenced by the lodging of an applic
   (o) objections under section 225 to demand notices:
   (p) orders for interim reinstatement under section 127:
   (q) actions of the type referred to in section 228(1):
-  (r) any other action (being an action that is not directly within the jurisdiction of the Court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
+  (r) any other action (being an action that is not directly within the jurisdiction of the court) arising from or related to the employment relationship or related to the interpretation of this Act (other than an action founded on tort):
   (s) determinations under such other powers and functions as are conferred on it by this or any other Act.
 (2) Except as provided in subsection (1)(ca), (cb), (d), (da), and (f), the Authority does not have jurisdiction to make a determination about any matter relating to—
   (a) bargaining; or
@@ -2568,7 +2646,7 @@ The provisions of Schedule 2 have effect in relation to the Authority and matter
 Each member of the Authority is to be appointed by the Governor-General on the recommendation of the Minister.
 
 ### 168 Oath of office
-Each member of the Authority must, before entering on the exercise of any of his or her functions as a member of the Authority, swear or affirm before a Judge of the Court that the member of the Authority will faithfully and impartially perform his or her duties as a member of the Authority.
+Each member of the Authority must, before entering on the exercise of any of his or her functions as a member of the Authority, swear or affirm before a Judge of the court that the member of the Authority will faithfully and impartially perform his or her duties as a member of the Authority.
 
 ### 169 Term of office
 (1) Every member of the Authority is to be appointed for a term not exceeding 4 years.
@@ -2583,7 +2661,7 @@ Each member of the Authority must, before entering on the exercise of any of his
 (1) There is to be paid to each member of the Authority, out of public money, without further appropriation than this section,—
   (a) a salary at such rate or in accordance with such scale of rates as the Remuneration Authority from time to time determines; and
   (b) subject to subsection (2), such allowances as are from time to time determined by the Remuneration Authority.
-(2) There is to be paid to each member of the Authority, in respect of time spent travelling in the exercise of the Authority's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951; and the provisions of that Act apply accordingly as if the member were a member of a statutory Board and the travelling were in the service of a statutory Board.
+(2) There is to be paid to each member of the Authority, in respect of time spent travelling in the exercise of the Authority's functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951; and the provisions of that Act apply accordingly as if the member were a member of a statutory board and the travelling were in the service of a statutory board.
 (3) In the case of the Chief of the Authority, the rate of salary and the allowances determined may be higher than those for the other members of the Authority.
 (4) Nothing in subsection (1) prevents in an appropriate case payment to a member of the Authority of a salary and allowances on a per diem basis.
 
@@ -2593,7 +2671,7 @@ Each member of the Authority must, before entering on the exercise of any of his
 (3) A person so appointed has all the powers of a member.
 (4) Every person appointed as a temporary member of the Authority under this section is, during the term of that member's appointment, to be paid, on a per diem basis,—
   (a) such salary, payable pursuant to section 171 to a member of the Authority, as the Governor-General directs; and
-  (b) The allowances to which that person would be entitled if that person held office under section 166(1).
+  (b) the allowances to which that person would be entitled if that person held office under section 166(1).
 
 ### 173 Procedure
 (1) The Authority, in exercising its powers and functions, must—
@@ -2631,30 +2709,30 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
 
 ### 177 Referral of question of law
 (1) The Authority may, where a question of law arises during an investigation,—
-  (a) refer that question of law to the Court for its opinion; and
-  (b) delay the investigation until it receives the Court's opinion on that question.
+  (a) refer that question of law to the court for its opinion; and
+  (b) delay the investigation until it receives the court's opinion on that question.
 (2) Every reference under subsection (1) must be made in the prescribed manner.
-(3) The Court must provide the Authority with its opinion on the question of law and the Authority must then continue its investigation in accordance with that opinion.
+(3) The court must provide the Authority with its opinion on the question of law and the Authority must then continue its investigation in accordance with that opinion.
 (4) Subsection (1) does not apply—
   (a) to a question about the procedure that the Authority has followed, is following, or is intending to follow; and
   (b) without limiting paragraph (a), to a question about whether the Authority may follow or adopt a particular procedure.
 
-### 178 Removal to Court
-(1) Where a matter comes before the Authority, any party may apply to the Authority to have the matter, or part of it, removed to the Court for the Court to hear and determine it without the Authority investigating the matter.
-(2) The Authority may order the removal of the matter, or any part of it, to the Court if—
+### 178 Removal to court
+(1) Where a matter comes before the Authority, any party may apply to the Authority to have the matter, or part of it, removed to the court for the court to hear and determine it without the Authority investigating the matter.
+(2) The Authority may order the removal of the matter, or any part of it, to the court if—
   (a) an important question of law is likely to arise in the matter other than incidentally; or
-  (b) the case is of such a nature and of such urgency that it is in the public interest that it be removed immediately to the Court; or
-  (c) the Court already has before it proceedings which are between the same parties and which involve the same or similar or related issues; or
-  (d) the Authority is of the opinion that in all the circumstances the Court should determine the matter.
-(3) Where the Authority declines to remove any matter, or a part of it, to the Court, the party applying for the removal may seek the special leave of the Court for an order of the Court that the matter or part be removed to the Court, and in any such case the Court must apply the criteria set out in paragraphs (a) to (c) of subsection (2).
-(4) An order for removal to the Court under this section may be made subject to such conditions as the Authority or the Court, as the case may be, thinks fit.
-(5) Where the Authority, acting under subsection (2), orders the removal of any matter, or a part of it, to the Court, the Court may, if it considers that the matter or part was not properly so removed, order that the Authority investigate the matter.
+  (b) the case is of such a nature and of such urgency that it is in the public interest that it be removed immediately to the court; or
+  (c) the court already has before it proceedings which are between the same parties and which involve the same or similar or related issues; or
+  (d) the Authority is of the opinion that in all the circumstances the court should determine the matter.
+(3) Where the Authority declines to remove any matter, or a part of it, to the court, the party applying for the removal may seek the special leave of the court for an order of the court that the matter or part be removed to the court, and in any such case the court must apply the criteria set out in paragraphs (a) to (c) of subsection (2).
+(4) An order for removal to the court under this section may be made subject to such conditions as the Authority or the court, as the case may be, thinks fit.
+(5) Where the Authority, acting under subsection (2), orders the removal of any matter, or a part of it, to the court, the court may, if it considers that the matter or part was not properly so removed, order that the Authority investigate the matter.
 (6) This section does not apply—
   (a) to a matter, or part of a matter, about the procedure that the Authority has followed, is following, or is intending to follow; and
   (b) without limiting paragraph (a), to a matter, or part of a matter, about whether the Authority may follow or adopt a particular procedure.
 
 ### 179 Challenges to determinations of Authority
-(1) A party to a matter before the Authority who is dissatisfied with the determination of the Authority or any part of that determination may elect to have the matter heard by the Court.
+(1) A party to a matter before the Authority who is dissatisfied with the determination of the Authority or any part of that determination may elect to have the matter heard by the court.
 (2) Every election under this section must be made in the prescribed manner within 28 days after the date of the determination of the Authority.
 (3) The election must—
   (a) specify the determination, or the part of the determination, to which the election relates; and
@@ -2662,7 +2740,7 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
 (4) If the party making the election is not seeking a hearing de novo, the election must specify, in addition to the matters specified in subsection (3),—
   (a) any error of law or fact alleged by that party; and
   (b) any question of law or fact to be resolved; and
-  (c) the grounds on which the election is made, which grounds are to be specified with such reasonable particularity as to give full advice to both the Court and the other parties of the issues involved; and
+  (c) the grounds on which the election is made, which grounds are to be specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved; and
   (d) the relief sought.
 (5) Subsection (1) does not apply—
   (a) to a determination, or part of a determination, about the procedure that the Authority has followed, is following, or is intending to follow; and
@@ -2672,40 +2750,40 @@ The Authority is to have a seal, which is to be judicially noticed by all courts
 (1) This section applies to a determination of the Authority made—
   (a) for the purposes of sections 50A to 50I; or
   (b) under section 50J.
-(2) A party may not elect, under section 179(1), to have the matter heard by the Court unless the matter is whether 1 or more of the grounds in section 50C(1) or section 50J(3) exist.
+(2) A party may not elect, under section 179(1), to have the matter heard by the court unless the matter is whether 1 or more of the grounds in section 50C(1) or section 50J(3) exist.
 
 ### 179B Limitations on consideration by Employment Court of matters arising under Part 6AA
 (1) This section applies to an investigation by, or determination of, the Authority under Part 6AA.
-(2) The Authority may not refer a question of law to the Court under section 177 if the question of law arises during an investigation of the Authority under Part 6AA.
-(3) No matter, or part of a matter, may be removed to the Court under section 178 if the matter, or the part of the matter, arises under Part 6AA.
-(4) No party who is dissatisfied with a determination, or any part of a determination, of the Authority under Part 6AA may elect, under section 179, to have the matter heard by the Court.
+(2) The Authority may not refer a question of law to the court under section 177 if the question of law arises during an investigation of the Authority under Part 6AA.
+(3) No matter, or part of a matter, may be removed to the court under section 178 if the matter, or the part of the matter, arises under Part 6AA.
+(4) No party who is dissatisfied with a determination, or any part of a determination, of the Authority under Part 6AA may elect, under section 179, to have the matter heard by the court.
 
 ### 180 Election not to operate as stay
-The making of an election under section 179 does not operate as a stay of proceedings on the determination of the Authority unless the Court, or the Authority, so orders.
+The making of an election under section 179 does not operate as a stay of proceedings on the determination of the Authority unless the court, or the Authority, so orders.
 
 ### 181 Report in relation to good faith
-(1) Where the election states that the person making the election is seeking a hearing de novo, the Authority must, if the Court so requests, as soon as practicable, submit to the Court a written report giving the Authority's assessment of the extent to which the parties involved in the investigation have—
+(1) Where the election states that the person making the election is seeking a hearing de novo, the Authority must, if the court so requests, as soon as practicable, submit to the court a written report giving the Authority's assessment of the extent to which the parties involved in the investigation have—
   (a) facilitated rather than obstructed the Authority's investigation; and
   (b) acted in good faith towards each other during the investigation.
-(2) The Court may request a report under subsection (1) only where the Court considers, on the basis of the determination made by the Authority under section 174, that any party may not have participated in the Authority's investigation of the matter in a manner that was designed to resolve the issues involved.
-(3) The Authority must, before submitting the report to the Court, give each party to the proceedings a reasonable opportunity to supply to the Authority written comments on the draft report.
+(2) The court may request a report under subsection (1) only where the court considers, on the basis of the determination made by the Authority under section 174, that any party may not have participated in the Authority's investigation of the matter in a manner that was designed to resolve the issues involved.
+(3) The Authority must, before submitting the report to the court, give each party to the proceedings a reasonable opportunity to supply to the Authority written comments on the draft report.
 (4) A party who supplies written comments to the Authority under subsection (3) must, immediately after doing so, serve a copy of those comments on each other party to the proceedings.
-(5) The Authority must, in submitting the final report to the Court, submit with it any written comments received from any party.
+(5) The Authority must, in submitting the final report to the court, submit with it any written comments received from any party.
 
 ### 182 Hearings
-(1) Where the election states that the person making the election is seeking a hearing de novo, the hearing held pursuant to that election is to be a hearing de novo unless the parties agree otherwise or the Court otherwise directs.
-(2) The Court may give a direction under subsection (1) only if—
+(1) Where the election states that the person making the election is seeking a hearing de novo, the hearing held pursuant to that election is to be a hearing de novo unless the parties agree otherwise or the court otherwise directs.
+(2) The court may give a direction under subsection (1) only if—
   (a) it has requested a report under section 181(1); and
   (b) it is satisfied,—that the person making the election did not participate in the Authority's investigation of the matter in a manner that was designed to resolve the issues involved.
     (i) on the basis of that report; and
     (ii) after having had regard to any comments submitted under section 181(5),—
-(3) Where—the Court must direct, in relation to the issues involved in the matter, the nature and extent of the hearing.
-  (a) the Court gives a direction under subsection (1); or
+(3) Where—the court must direct, in relation to the issues involved in the matter, the nature and extent of the hearing.
+  (a) the court gives a direction under subsection (1); or
   (b) the election states that the person seeking the election is not seeking a hearing de novo,—
 
 ### 183 Decision
-(1) Where a party to a matter has elected under section 179 to have that matter heard by the Court, the Court must make its own decision on that matter and any relevant issues.
-(2) Once the Court has made a decision, the determination of the Authority on the matter is set aside and the decision of the Court on the matter stands in its place.
+(1) Where a party to a matter has elected under section 179 to have that matter heard by the court, the court must make its own decision on that matter and any relevant issues.
+(2) Once the court has made a decision, the determination of the Authority on the matter is set aside and the decision of the court on the matter stands in its place.
 (3) Despite subsection (2), a person may apply for review of the determination of the Authority under section 194.
 
 ### 184 Restriction on review
@@ -2713,31 +2791,31 @@ The making of an election under section 179 does not operate as a stay of procee
 (1A) No review proceedings under section 194 may be initiated in relation to any matter before the Authority unless—
   (a) the Authority has issued final determinations on all matters relating to the subject of the review application between the parties to the matter; and
   (b) (if applicable) the party initiating the review proceedings has challenged the determination under section 179; and
-  (c) the Court has made a decision on the challenge under section 183.
+  (c) the court has made a decision on the challenge under section 183.
 (2) For the purposes of subsection (1), the Authority suffers from lack of jurisdiction only where,—
   (a) in the narrow and original sense of the term jurisdiction, it has no entitlement to enter upon the inquiry in question; or
   (b) the determination or order is outside the classes of determinations or orders which the Authority is authorised to make; or
   (c) the Authority acts in bad faith.
 
 ### 185 Staff of Authority
-(1) The chief executive may from time to time designate such number of employees of the Department to act as officers of the Authority as may be required.
+(1) The chief executive may from time to time designate such number of employees of the department to act as officers of the Authority as may be required.
 (2) The officers designated under subsection (1) must act under the general direction of the chief executive.
-(3) The Department is to provide such other employees as may be required to provide the Authority with such services and resources as may be necessary to enable it to effectively perform its functions and exercise its jurisdiction.
-(4) Subject to section 153(6), any employee designated under subsection (1) or provided to the Authority under subsection (3) may also hold any other office or position in the Department.
+(3) The department is to provide such other employees as may be required to provide the Authority with such services and resources as may be necessary to enable it to effectively perform its functions and exercise its jurisdiction.
+(4) Subject to section 153(6), any employee designated under subsection (1) or provided to the Authority under subsection (3) may also hold any other office or position in the department.
 
 **Employment Court**
 
 ### 186 Employment Court
 (1) This section establishes a court of record, called the Employment Court, which, in addition to the jurisdiction and powers specially conferred on it by this Act or any other Act, has all the powers inherent in a court of record.
-(2) The Court established by subsection (1) is declared to be the same Court as the Employment Court established by section 103 of the Employment Contracts Act 1991.
+(2) The court established by subsection (1) is declared to be the same court as the Employment Court established by section 103 of the Employment Contracts Act 1991.
 
-### 187 Jurisdiction of Court
-(1) The Court has exclusive jurisdiction—
+### 187 Jurisdiction of court
+(1) The court has exclusive jurisdiction—
   (a) to hear and determine elections under section 179 for a hearing of a matter previously determined by the Authority, whether under this Act or any other Act conferring jurisdiction on the Authority:
-  (b) to hear and determine actions for the recovery of penalties under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the Court):
+  (b) to hear and determine actions for the recovery of penalties under this Act for a breach of any provision of this Act (being a provision that provides for the penalty to be recovered in the court):
   (c) to hear and determine questions of law referred to it by the Authority under section 177:
-  (d) to hear and determine applications for leave to have matters before the Authority removed into the Court under section 178(3):
-  (e) to hear and determine matters removed into the Court under section 178:
+  (d) to hear and determine applications for leave to have matters before the Authority removed into the court under section 178(3):
+  (e) to hear and determine matters removed into the court under section 178:
   (f) to hear and determine, under section 6(5), any question whether any person is to be declared to be—
     (i) an employee within the meaning of this Act; or
     (ii) a worker or employee within the meaning of any of the Acts referred to in section 223(1):
@@ -2748,42 +2826,42 @@ The making of an election under section 179 does not operate as a stay of procee
   (k) to issue warrants under section 231:
   (l) to exercise its powers in respect of any offence against this Act:
   (m) to exercise such other functions and powers as are conferred on it by this or any other Act.
-(2) The Court does not have jurisdiction to entertain an application for summary judgment.
-(3) Except as provided in this Act, no other court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the Court.
+(2) The court does not have jurisdiction to entertain an application for summary judgment.
+(3) Except as provided in this Act, no other court has jurisdiction in relation to any matter that, under subsection (1), is within the exclusive jurisdiction of the court.
 
 ### 188 Role in relation to jurisdiction
-(1) The general role of the Court in relation to its jurisdiction is to hear and determine matters within its jurisdiction and to exercise its powers.
-(2) Where any matter comes before the Court for decision, the Court—
-  (a) must, whether through a Judge or through an officer of the Court, first consider whether an attempt has been made to resolve the matter by the use of mediation; and
-  (b) must direct that mediation or further mediation, as the case may require, be used before the Court hears the matter, unless the Court considers that the use of mediation or further mediation—
+(1) The general role of the court in relation to its jurisdiction is to hear and determine matters within its jurisdiction and to exercise its powers.
+(2) Where any matter comes before the court for decision, the court—
+  (a) must, whether through a Judge or through an officer of the court, first consider whether an attempt has been made to resolve the matter by the use of mediation; and
+  (b) must direct that mediation or further mediation, as the case may require, be used before the court hears the matter, unless the court considers that the use of mediation or further mediation—
     (i) will not contribute constructively to resolving the matter; or
     (ii) will not, in all the circumstances, be in the public interest; or
     (iii) will undermine the urgent or interim nature of the proceedings; and
-  (c) must, in the course of hearing and determining any matter, consider from time to time, as the Court thinks fit, whether to direct the parties to use mediation.
-(3) Where the Court gives a direction under subsection (2)(b) or (c), the parties must comply with the direction and attempt in good faith to reach an agreed settlement of their differences; and proceedings in relation to the request before the Court are suspended until the parties have done so or the Court otherwise directs (whichever first occurs).
-(4) It is not a function of the Court to advise or direct the Authority in relation to—
+  (c) must, in the course of hearing and determining any matter, consider from time to time, as the court thinks fit, whether to direct the parties to use mediation.
+(3) Where the court gives a direction under subsection (2)(b) or (c), the parties must comply with the direction and attempt in good faith to reach an agreed settlement of their differences; and proceedings in relation to the request before the court are suspended until the parties have done so or the court otherwise directs (whichever first occurs).
+(4) It is not a function of the court to advise or direct the Authority in relation to—
   (a) the exercise of its investigative role, powers, and jurisdiction; or
   (b) the procedure—
     (i) that it has followed, is following, or is intending to follow; or
     (ii) without limiting subparagraph (i), that it may follow or adopt.
 
 ### 189 Equity and good conscience
-(1) In all matters before it, the Court has, for the purpose of supporting successful employment relationships and promoting good faith behaviour, jurisdiction to determine them in such manner and to make such decisions or orders, not inconsistent with this or any other Act or with any applicable collective agreement or the particular individual employment agreement, as in equity and good conscience it thinks fit.
-(2) The Court may accept, admit, and call for such evidence and information as in equity and good conscience it thinks fit, whether strictly legal evidence or not.
+(1) In all matters before it, the court has, for the purpose of supporting successful employment relationships and promoting good faith behaviour, jurisdiction to determine them in such manner and to make such decisions or orders, not inconsistent with this or any other Act or with any applicable collective agreement or the particular individual employment agreement, as in equity and good conscience it thinks fit.
+(2) The court may accept, admit, and call for such evidence and information as in equity and good conscience it thinks fit, whether strictly legal evidence or not.
 
 ### 190 Application of other provisions
-(1) The Court has, in relation to matters within its jurisdiction, and in addition to the powers specifically conferred on it by this Act or any other Act, the powers conferred on the Authority by sections 162 and 164.
-(2) For the purposes of subsection (1), sections 162 and 164 apply, in relation to the Court,—
-  (a) as if, for the word Authority, there were substituted the word Court; and
+(1) The court has, in relation to matters within its jurisdiction, and in addition to the powers specifically conferred on it by this Act or any other Act, the powers conferred on the Authority by sections 162 and 164.
+(2) For the purposes of subsection (1), sections 162 and 164 apply, in relation to the court,—
+  (a) as if, for the word Authority, there were substituted the word court; and
   (b) as if, for the word member, there were substituted the word Judge; and
   (c) with all other necessary modifications.
 
-### 191 Other provisions relating to proceedings of Court
-The provisions of Schedule 3 have effect in relation to the Court and matters within its jurisdiction.
+### 191 Other provisions relating to proceedings of court
+The provisions of Schedule 3 have effect in relation to the court and matters within its jurisdiction.
 
 ### 192 Application to collective agreements of law relating to contracts
-(1) The Court may not, under section 162 (as applied by section 190(1)), make in respect of a collective agreement an order cancelling or varying the agreement or any term of the agreement.
-(2) Despite subsection (1), the Court may, instead of making an order of the kind described in that subsection,—
+(1) The court may not, under section 162 (as applied by section 190(1)), make in respect of a collective agreement an order cancelling or varying the agreement or any term of the agreement.
+(2) Despite subsection (1), the court may, instead of making an order of the kind described in that subsection,—
   (a) make an order—
     (i) suspending some aspect of the agreement; and
     (ii) directing the parties to the collective agreement to reopen bargaining with regard to the suspended aspect of the agreement; and
@@ -2792,23 +2870,23 @@ The provisions of Schedule 3 have effect in relation to the Court and matters wi
 (3) Every declaration under subsection (2)(c) must state the date on which the right to strike or lock out is to become available or is to cease to be available.
 
 ### 193 Proceedings not to be questioned
-(1) Except on the ground of lack of jurisdiction or as provided in sections 213, 214, 217, and 218, no decision, order, or proceedings of the Court are removable to any court by certiorari or otherwise, or are liable to be challenged, appealed against, reviewed, quashed, or called in question in any court.
-(2) For the purposes of subsection (1), the Court suffers from lack of jurisdiction only where,—
+(1) Except on the ground of lack of jurisdiction or as provided in sections 213, 214, 217, and 218, no decision, order, or proceedings of the court are removable to any court by certiorari or otherwise, or are liable to be challenged, appealed against, reviewed, quashed, or called in question in any court.
+(2) For the purposes of subsection (1), the court suffers from lack of jurisdiction only where,—
   (a) in the narrow and original sense of the term jurisdiction, it has no entitlement to enter upon the inquiry in question; or
-  (b) the decision or order is outside the classes of decisions or orders which the Court is authorised to make; or
-  (c) the Court acts in bad faith.
+  (b) the decision or order is outside the classes of decisions or orders which the court is authorised to make; or
+  (c) the court acts in bad faith.
 
 ### 194 Application for review
 (1) If any person wishes to apply for review under Part 1 of the Judicature Amendment Act 1972, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction, in relation to the exercise, refusal to exercise, or proposed or purported exercise by—of a statutory power or statutory power of decision (as defined by section 3 of the Judicature Amendment Act 1972) conferred by or under this Act or any of the provisions of Parts 5, 6, 7, or 7A of the State Sector Act 1988, the provisions of subsections (2) to (4) of this section apply.
   (a) the Authority; or
-  (b) an officer of the Authority or the Court; or
+  (b) an officer of the Authority or the court; or
   (c) an employer, or that employer's representative; or
   (d) a union, or that union's representative; or
   (e) the Registrar of Unions; or
   (f) the Minister; or
   (g) the chief executive; or
   (h) any other person—
-(2) Despite any other Act or rule of law, but subject to section 184(1A), the Court has full and exclusive jurisdiction to hear and determine any application or proceedings of the type referred to in subsection (1) and all such applications or proceedings must be made to or brought in the Court.
+(2) Despite any other Act or rule of law, but subject to section 184(1A), the court has full and exclusive jurisdiction to hear and determine any application or proceedings of the type referred to in subsection (1) and all such applications or proceedings must be made to or brought in the court.
 (3) Where a right of appeal (which includes, for the purposes of this subsection, the right to make an election under section 179) is conferred on any person under this Act or the State Sector Act 1988 in respect of any matter, that person may not make an application under subsection (1) in respect of that matter unless any appeal brought by that person in the exercise of that right of appeal has first been determined.
 (4) A Judge may at any time and after hearing such persons, if any, as the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as the Judge deems expedient having regard to the exigencies of the case and the interests of justice.
 
@@ -2816,92 +2894,92 @@ The provisions of Schedule 3 have effect in relation to the Court and matters wi
 (1) This section applies to any exercise, refusal to exercise, or proposed or purported exercise of a statutory power or statutory power of decision by an employer if that exercise, refusal to exercise, or proposed or purported exercise of the statutory power or statutory power of decision is or gives rise to an employment relationship problem.
 (2) When subsection (1) applies, the employee or former employee concerned—
   (a) must use the employment relationship problem-solving provisions in this Act to deal with the problem; and
-  (b) may not bring an application for review in relation to the problem in the Court or the High Court.
+  (b) may not bring an application for review in relation to the problem in the court or the High Court.
 
 ### 195 Non-attendance or refusal to co-operate
-(1) Every person commits an offence, and is liable on conviction by the Court to a fine not exceeding $5,000, who, after being summoned under this Act as a witness,—
-  (a) refuses or neglects, without sufficient cause, to attend as a witness before the Authority or the Court or to produce to the Authority or the Court any books, papers, documents, records, or things required by the summons to be produced; or
-  (b) refuses, without sufficient cause, to be sworn or to give evidence or, having been sworn, refuses to answer any question that the person is lawfully required by the Authority or the Court to answer concerning the proceedings.
+(1) Every person commits an offence, and is liable on conviction by the court to a fine not exceeding $5,000, who, after being summoned under this Act as a witness,—
+  (a) refuses or neglects, without sufficient cause, to attend as a witness before the Authority or the court or to produce to the Authority or the court any books, papers, documents, records, or things required by the summons to be produced; or
+  (b) refuses, without sufficient cause, to be sworn or to give evidence or, having been sworn, refuses to answer any question that the person is lawfully required by the Authority or the court to answer concerning the proceedings.
 (2) No person summoned under this Act as a witness is liable to a fine under this Act unless there has been paid or tendered to that person in accordance with clause 6 of Schedule 2 the amount fixed under subclause (3) of that clause or in accordance with clause 7 of Schedule 3 the amount fixed under subclause (3) of that clause.
 
-### 196 Contempt of Court or Authority
+### 196 Contempt of court or Authority
 (1) This section applies where any person—
-  (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Authority, a Judge, an officer of the Authority, a Registrar of the Court, any other officer of the Court, or any witness, during that person's sitting or attendance in the Authority or the Court, or in going to or returning from the Authority or the Court; or
-  (b) wilfully interrupts or obstructs the proceedings of the Authority or the Court or otherwise misbehaves in the Authority or the Court; or
-  (c) wilfully and without lawful excuse disobeys any order or direction of the Authority or the Court in the course of the hearing of any proceedings.
+  (a) assaults, threatens, intimidates, or wilfully insults any person, being a member of the Authority, a Judge, an officer of the Authority, a Registrar of the court, any other officer of the court, or any witness, during that person's sitting or attendance in the Authority or the court, or in going to or returning from the Authority or the court; or
+  (b) wilfully interrupts or obstructs the proceedings of the Authority or the court or otherwise misbehaves in the Authority or the court; or
+  (c) wilfully and without lawful excuse disobeys any order or direction of the Authority or the court in the course of the hearing of any proceedings.
 (2) Where this section applies,—
-  (a) any member of the police, with or without the assistance of any other person, may, by order of the Authority or the Court, take the offender into custody, and detain the offender until the rising of the Authority or the Court:
+  (a) any constable, with or without the assistance of any other person, may, by order of the Authority or the court, take the offender into custody, and detain the offender until the rising of the Authority or the court:
   (b) a Judge, if the Judge thinks fit, may sentence the offender to imprisonment for any period not exceeding 3 months, or sentence the offender to pay a fine not exceeding $5,000 for every such offence; and, in default of payment of any such fine, may direct that the offender be imprisoned for any period not exceeding 3 months, unless the fine is sooner paid.
 
-### 197 Constitution of Court
-The Court consists of—
+### 197 Constitution of court
+The court consists of—
   (a) 1 Judge called the Chief Judge of the Employment Court:
   (b) at least 2 other Judges who are to be called Judges of the Employment Court.
 
-### 198 Registrar and officers of Court
-(1) The chief executive may from time to time designate such number of employees of the Department to act as Registrars of the Court as may be required, and appoint such other officers of the Court as may be required.
-(2) Subject to section 153(6), an employee designated under subsection (1) may also hold any other office or position in the Authority or the Department.
+### 198 Registrar and officers of court
+(1) The chief executive may from time to time designate such number of employees of the department to act as Registrars of the court as may be required, and appoint such other officers of the court as may be required.
+(2) Subject to section 153(6), an employee designated under subsection (1) may also hold any other office or position in the Authority or the department.
 
-### 199 Seal of Court
-The Court is to have a seal, which is to be judicially noticed by all Courts and for all purposes.
+### 199 Seal of court
+The court is to have a seal, which is to be judicially noticed by all courts and for all purposes.
 
-**Judges of the Court**
+**Judges of the court**
 
 ### 200 Appointment of Judges
-(1) The Judges of the Court are to be appointed by the Governor-General on the advice of the Attorney-General.
-(2) No person may be appointed a Judge of the Court unless that person has held a practising certificate as a barrister or solicitor for at least 7 years.
-(3) The jurisdiction of the Court is not affected by any vacancy in the number of Judges of the Court.
-(4) A Judge of the Court must not undertake any other paid employment or hold any other office (whether paid or not) unless the Chief Judge is satisfied that the employment or other office is compatible with judicial office.
+(1) The Judges of the court are to be appointed by the Governor-General on the advice of the Attorney-General.
+(2) No person may be appointed a Judge of the court unless that person has held a practising certificate as a barrister or solicitor for at least 7 years.
+(3) The jurisdiction of the court is not affected by any vacancy in the number of Judges of the court.
+(4) A Judge of the court must not undertake any other paid employment or hold any other office (whether paid or not) unless the Chief Judge is satisfied that the employment or other office is compatible with judicial office.
 
 ### 200A Judges act on full-time basis but may be authorised to act part-time
-(1) A person acts as a Judge of the Court on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
+(1) A person acts as a Judge of the court on a full-time basis unless he or she is authorised by the Attorney-General to act on a part-time basis.
 (2) The Attorney-General may, in accordance with subsection (4), authorise a Judge appointed under section 200 to act on a part-time basis for any specified period.
 (3) To avoid doubt, an authorisation under subsection (2) may take effect as from a Judge's appointment or at any other time, and may be given more than once in respect of the same Judge.
 (4) The Attorney-General may authorise a Judge to act on a part-time basis only—
   (a) on the request of the Judge; and
   (b) with the concurrence of the Chief Judge.
-(5) In considering whether to concur under subsection (4), the Chief Judge must have regard to the ability of the Court to discharge its obligations in an orderly and expeditious way.
+(5) In considering whether to concur under subsection (4), the Chief Judge must have regard to the ability of the court to discharge its obligations in an orderly and expeditious way.
 (6) A Judge who is authorised to act on a part-time basis must resume acting on a full-time basis at the end of the authorised part-time period.
 (7) The basis on which a Judge acts must not be altered during the term of the Judge's appointment without the Judge's consent, but consent under this subsection is not necessary if the alteration is required by subsection (6).
-(8) If any question arises as to the number of Judges of the Court,—
+(8) If any question arises as to the number of Judges of the court,—
   (a) a Judge who is acting on a full-time basis counts as 1:
   (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1.
 
 ### 201 Seniority
-(1) Subject to subsections (2) and (3), the Judges of the Court other than the Chief Judge have seniority among themselves according to the dates of their appointments as Judges of the Court.
+(1) Subject to subsections (2) and (3), the Judges of the court other than the Chief Judge have seniority among themselves according to the dates of their appointments as Judges of the court.
 (2) If 2 or more of them are both appointed on the same day, they have seniority according to the precedence assigned to them by the Governor-General or, failing any such assignment, according to the order in which they take the judicial oath.
 (3) Every permanent Judge has seniority over every temporary Judge.
 
 ### 202 Senior Judge to act as Chief Judge in certain circumstances
-(1) While any vacancy exists in the office of Chief Judge, or during any absence from New Zealand of the Chief Judge, the senior Judge of the Court in New Zealand has authority to act as Chief Judge and to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Judge.
-(2) Whenever by reason of illness or any cause other than absence from New Zealand the Chief Judge is prevented from exercising the duties of the office, the Governor-General may authorise the senior Judge of the Court to act as Chief Judge until the Chief Judge resumes those duties, and during that period to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Judge.
+(1) While any vacancy exists in the office of Chief Judge, or during any absence from New Zealand of the Chief Judge, the senior Judge of the court in New Zealand has authority to act as Chief Judge and to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Judge.
+(2) Whenever by reason of illness or any cause other than absence from New Zealand the Chief Judge is prevented from exercising the duties of the office, the Governor-General may authorise the senior Judge of the court to act as Chief Judge until the Chief Judge resumes those duties, and during that period to execute the duties of that office and to exercise all powers that may be lawfully exercised by the Chief Judge.
 
 ### 203 Judges to have immunities of High Court Judges
 The Judges have all the immunities of a Judge of the High Court.
 
 ### 204 Protection of Judges against removal from office
-(1) A Judge of the Court may not be removed from office except by the Sovereign or the Governor-General, acting upon the address of the House of Representatives.
+(1) A Judge of the court may not be removed from office except by the Sovereign or the Governor-General, acting upon the address of the House of Representatives.
 (2) An address under subsection (1) may be moved only on the grounds of—
   (a) the Judge's misbehaviour; or
   (b) the Judge's incapacity to discharge the functions of the Judge's office.
 
 ### 205 Age of retirement
-Every Judge of the Court must retire from office on attaining the age of 70 years.
+Every Judge of the court must retire from office on attaining the age of 70 years.
 
 ### 206 Salaries and allowances of Judges
-(1) There is to be paid to each Judge of the Court, out of public money, without further appropriation than this section,—
+(1) There is to be paid to each Judge of the court, out of public money, without further appropriation than this section,—
   (a) a salary at such rate as the Remuneration Authority from time to time determines; and
   (b) such allowances as are from time to time determined by the Remuneration Authority; and
   (c) such additional allowances, being travelling allowances or other incidental or minor allowances, as may be determined from time to time by the Governor-General.
 (2) In the case of the Chief Judge, the rate of salary and the allowances determined may be higher than those for the other Judges.
 (3) The salary of a Judge is not to be reduced while the Judge holds office.
-(3A) The salary and allowances payable for a period during which a Judge acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances for a full-time equivalent position.
-(3B) For the purpose of subsection (3), the payment of salary and allowances on a pro-rata basis under subsection (3A) is not a reduction of salary.
+(3A) The salary and allowances payable for a period during which a Judge acts on a part-time basis must be calculated and paid as a pro rata proportion of the salary and allowances for a full-time equivalent position.
+(3B) For the purpose of subsection (3), the payment of salary and allowances on a pro rata basis under subsection (3A) is not a reduction of salary.
 (4) Any determination made under subsection (1)(c), and any provision of any such determination, may be made so as to come into force on a date specified in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
 (5) Every determination made under subsection (1)(c), and every provision of any such determination, in respect of which no date is specified under subsection (4) comes into force on the date of the making of the determination.
 
 ### 207 Appointment of temporary Judges
-(1) The Governor-General may from time to time, whenever in the Governor-General's opinion it is necessary or expedient to make a temporary appointment, appoint 1 or more temporary Judges of the Court to hold office for such period as is specified in the warrant of appointment.
+(1) The Governor-General may from time to time, whenever in the Governor-General's opinion it is necessary or expedient to make a temporary appointment, appoint 1 or more temporary Judges of the court to hold office for such period as is specified in the warrant of appointment.
 (2) The period so specified may not exceed 2 years or, in the case of a person who has attained the age of 70 years, 12 months; but any person appointed under this section may from time to time be reappointed.
 (3) Except as provided in subsection (4), no person may be appointed as a Judge under this section unless that person is eligible for appointment as a Judge under section 200.
 (4) A person otherwise qualified who has attained the age of 70 years (including a Judge who has retired after attaining that age) may, subject to subsection (2), be appointed as a Judge under this section.
@@ -2912,79 +2990,79 @@ Every Judge of the Court must retire from office on attaining the age of 70 year
 (7) Nothing in the Remuneration Authority Act 1977 limits the provisions of subsection (6).
 
 ### 208 Sittings
-(1) Subject to section 209, the jurisdiction of the Court is to be exercised by a Judge sitting alone.
-(2) Sittings of the Court are to be held at such times and places as are from time to time fixed by the Court.
-(3) Sittings may be fixed either for a particular case or generally for a class of cases then before the Court and ripe for hearing.
-(4) The Court may be adjourned from time to time and from place to place by the Judge or by the Registrar of the Court, whether at any sitting or at any time before the time fixed for the sitting.
+(1) Subject to section 209, the jurisdiction of the court is to be exercised by a Judge sitting alone.
+(2) Sittings of the court are to be held at such times and places as are from time to time fixed by the court.
+(3) Sittings may be fixed either for a particular case or generally for a class of cases then before the court and ripe for hearing.
+(4) The court may be adjourned from time to time and from place to place by the Judge or by the Registrar of the court, whether at any sitting or at any time before the time fixed for the sitting.
 
-### 209 Full Court
-(1) The Chief Judge may direct that the Court must sit as a full Court to hear and determine any proceedings, case, or question.
-(2) The full Court comprises,—
+### 209 Full court
+(1) The Chief Judge may direct that the court must sit as a full court to hear and determine any proceedings, case, or question.
+(2) The full court comprises,—
   (a) as presiding member, the Chief Judge or a Judge nominated by the Chief Judge:
   (b) at least 2 other Judges nominated by the Chief Judge.
 
-### 210 Quorum and decision of Court
-(1) Where, in relation to any proceedings, case, or question, the Court consists of more than 1 Judge, the presence of at least 2 Judges is necessary to constitute a sitting of the Court for the purposes of those proceedings, or that case or question, except as otherwise expressly provided.
-(2) The decision of a majority of the Judges present at the sitting of the Court is the decision of the Court.
-(3) Where the Judges present at a sitting of the Court are equally divided in opinion, the decision of the Court, for the purposes of subsection (2), is the decision of the Chief Judge if the Chief Judge is present or, if the Chief Judge is not present, the decision of the most senior of the Judges present.
-(4) The decision of the Court in every case must be signed by a Judge, and may be issued by a Judge or by the Registrar of the Court.
+### 210 Quorum and decision of court
+(1) Where, in relation to any proceedings, case, or question, the court consists of more than 1 Judge, the presence of at least 2 Judges is necessary to constitute a sitting of the court for the purposes of those proceedings, or that case or question, except as otherwise expressly provided.
+(2) The decision of a majority of the Judges present at the sitting of the court is the decision of the court.
+(3) Where the Judges present at a sitting of the court are equally divided in opinion, the decision of the court, for the purposes of subsection (2), is the decision of the Chief Judge if the Chief Judge is present or, if the Chief Judge is not present, the decision of the most senior of the Judges present.
+(4) The decision of the court in every case must be signed by a Judge, and may be issued by a Judge or by the Registrar of the court.
 
 ### 211 Statement of case for Court of Appeal
-In any matter before the Court the Judge may, of the Judge's own motion, or on the application of any party, state a case for the Court of Appeal on any question of law arising in the matter, excluding any question as to the construction of any employment agreement.
+In any matter before the court the Judge may, of the Judge's own motion, or on the application of any party, state a case for the Court of Appeal on any question of law arising in the matter, excluding any question as to the construction of any employment agreement.
 
 ### 212 Court may make rules
-(1) The Court may from time to time make rules (not inconsistent with this Act or with any regulations made under this Act) for the purpose of regulating the practice and procedure of the Court and the proceedings of parties.
-(2) To the extent that the Court does not make rules under subsection (1) regulating the practice and procedure of the Court under—proceedings in the Court under those sections are to be regulated by the rules applicable to proceedings founded on tort, injunctions, and judicial review in the High Court, as far as they are applicable and with all necessary modifications.
-  (a) section 99 (jurisdiction of Court in relation to torts); and
-  (b) section 100 (jurisdiction of Court in relation to injunctions); and
+(1) The court may from time to time make rules (not inconsistent with this Act or with any regulations made under this Act) for the purpose of regulating the practice and procedure of the court and the proceedings of parties.
+(2) To the extent that the court does not make rules under subsection (1) regulating the practice and procedure of the court under—proceedings in the court under those sections are to be regulated by the rules applicable to proceedings founded on tort, injunctions, and judicial review in the High Court, as far as they are applicable and with all necessary modifications.
+  (a) section 99 (jurisdiction of court in relation to torts); and
+  (b) section 100 (jurisdiction of court in relation to injunctions); and
   (c) section 194 (application for review),—
 
 **Review of proceedings**
 
-### 213 Review of proceedings before Court
-(1) If, in relation to any proceedings before the Court, any person wishes to apply for a review under Part 1 of the Judicature Amendment Act 1972 or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or an injunction, the provisions of subsections (2) to (4) apply.
+### 213 Review of proceedings before court
+(1) If, in relation to any proceedings before the court, any person wishes to apply for a review under Part 1 of the Judicature Amendment Act 1972 or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or an injunction, the provisions of subsections (2) to (4) apply.
 (2) Despite anything in any other Act or rule of law, the application or proceedings referred to in subsection (1) must be made to or brought in the Court of Appeal.
-(3) The Court of Appeal or a Judge of that Court may at any time and after hearing such persons, if any, as it or the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as it or the Judge considers expedient having regard to the exigencies of the case and the interests of justice and the object of this Act.
-(4) The decision of the Court of Appeal on any such matter is final and conclusive, and there is no right of review of or appeal against the Court's decision.
+(3) The Court of Appeal or a Judge of that court may at any time and after hearing such persons, if any, as it or the Judge thinks fit, give such directions prescribing the procedure to be followed in any particular case under this section as it or the Judge considers expedient having regard to the exigencies of the case and the interests of justice and the object of this Act.
+(4) The decision of the Court of Appeal on any such matter is final and conclusive, and there is no right of review of or appeal against the court's decision.
 
 **Appeals**
 
 ### 214 Appeals on question of law
-(1) A party to a proceeding under this Act who is dissatisfied with a decision of the Court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the decision; and section 66 of the Judicature Act 1908 applies to any such appeal.
-(2) A party desiring to appeal to the Court of Appeal under this section against a decision of the Employment Court must, within 28 days after the date of the issue of the decision or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by rules of Court, for leave to appeal to that Court.
-(3) The Court of Appeal may grant leave accordingly if, in the opinion of that Court, the question of law involved in that appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Court of Appeal, appeal to the Court of Appeal against the decision; and section 66 of the Judicature Act 1908 applies to any such appeal.
+(2) A party desiring to appeal to the Court of Appeal under this section against a decision of the Employment Court must, within 28 days after the date of the issue of the decision or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by rules of court, for leave to appeal to that court.
+(3) The Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in that appeal is one that, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (4) The Court of Appeal, in granting leave under this section, may, in its discretion, impose such conditions as it thinks fit, whether as to costs or otherwise.
 (5) In its determination of an appeal, the Court of Appeal may confirm, modify, or reverse the decision appealed against or any part of that decision.
-(6) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the Court or the Court of Appeal so orders.
+(6) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the court or the Court of Appeal so orders.
 (7)
 
 ### 214A Appeals to Supreme Court on question of law in exceptional circumstances
-(1) A party to a proceeding under this Act who is dissatisfied with a decision of the Court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Supreme Court, appeal to the Supreme Court against the decision.
+(1) A party to a proceeding under this Act who is dissatisfied with a decision of the court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Supreme Court, appeal to the Supreme Court against the decision.
 (2) In its determination of the appeal, the Supreme Court may confirm, modify, or reverse the decision appealed against or any part of that decision.
-(3) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the Court or the Supreme Court so orders.
+(3) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the court or the Supreme Court so orders.
 (4) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
 
 ### 215 Court of Appeal may refer appeals back for reconsideration
-(1) Despite anything in section 214, the Court of Appeal may in any case, instead of determining an appeal under that section, direct the Court to reconsider, either generally or in respect of any specified matters, the whole or any specified part of the matter to which the appeal relates.
+(1) Despite anything in section 214, the Court of Appeal may in any case, instead of determining an appeal under that section, direct the court to reconsider, either generally or in respect of any specified matters, the whole or any specified part of the matter to which the appeal relates.
 (2) In giving a direction under this section, the Court of Appeal must—
-  (a) advise the Court of its reasons for so doing; and
-  (b) give the Court such directions as it thinks just as to the rehearing or reconsideration or otherwise of the whole or any part of the matter that is referred back for reconsideration.
-(3) In reconsidering the matter, the Court must have regard to—
+  (a) advise the court of its reasons for so doing; and
+  (b) give the court such directions as it thinks just as to the rehearing or reconsideration or otherwise of the whole or any part of the matter that is referred back for reconsideration.
+(3) In reconsidering the matter, the court must have regard to—
   (a) the Court of Appeal's reasons for giving a direction under subsection (1); and
   (b) the Court of Appeal's directions under subsection (2)(b).
 
 **Special provision in respect of appeals**
 
-### 216 Obligation to have regard to special jurisdiction of Court
+### 216 Obligation to have regard to special jurisdiction of court
 In determining an appeal under section 214 or section 218, the Court of Appeal must have regard to—
-  (a) the special jurisdiction and powers of the Court; and
+  (a) the special jurisdiction and powers of the court; and
   (b) the object of this Act and the objects of the relevant Parts of this Act; and
   (c) in particular, the provisions of sections 189, 190, 193, 219, and 221.
 
 **Other appeals**
 
-### 217 Appeal to Court of Appeal against conviction or order or sentence in respect of contempt of Court
-Any person who has been convicted of an offence against this Act, and any person against whom an order (other than an order to the effect only that a person be taken into custody until the rising of the Court) has been made under section 140(6) or section 196 of this Act or section 11A(7) of the Minimum Wage Act 1983, may appeal to the Court of Appeal against the order as if that person were a defendant who had been convicted on an information and sentenced by the High Court.
+### 217 Appeal to Court of Appeal against conviction or order or sentence in respect of contempt of court
+Any person who has been convicted of an offence against this Act, and any person against whom an order (other than an order to the effect only that a person be taken into custody until the rising of the court) has been made under section 140(6) or section 196 of this Act or section 11A(7) of the Minimum Wage Act 1983, may appeal to the Court of Appeal against the order as if that person were a defendant who had been convicted on an information and sentenced by the High Court.
 
 ### 218 Appeal to Court of Appeal in respect of order on application for review
 Any party to an application for review or other proceeding under section 194 who is dissatisfied with any final or interlocutory order in respect of the application may appeal to the Court of Appeal; and section 66 of the Judicature Act 1908 applies to any such appeal.
@@ -2992,30 +3070,30 @@ Any party to an application for review or other proceeding under section 194 who
 **Miscellaneous provisions**
 
 ### 219 Validation of informal proceedings, etc
-(1) If anything which is required or authorised to be done by this Act is not done within the time allowed, or is done informally, the Court, or the Authority, as the case may be, may in its discretion, on the application of any person interested, make an order extending the time within which the thing may be done, or validating the thing so informally done.
-(2) Nothing in this section authorises the Court to make any such order in respect of judicial proceedings then already instituted in any court other than the Court.
+(1) If anything which is required or authorised to be done by this Act is not done within the time allowed, or is done informally, the court, or the Authority, as the case may be, may in its discretion, on the application of any person interested, make an order extending the time within which the thing may be done, or validating the thing so informally done.
+(2) Nothing in this section authorises the court to make any such order in respect of judicial proceedings then already instituted in any court other than the court.
 
 ### 220 Documents under seal and certain signatures to be judicially noticed
-(1) Every document bearing the seal of the Authority or the Court is to be received in evidence without further proof, and the signature of a member of the Authority, or of a Judge, or of the Registrar of the Court, or of an officer of the Authority is to be judicially noticed in or before any Court or before any person or officer acting judicially or under any power or authority conferred by this Act, if the signature is attached to some order, certificate, or other official document made or purporting to be made under this Act or under any Act or provision of an Act repealed by this Act.
+(1) Every document bearing the seal of the Authority or the court is to be received in evidence without further proof, and the signature of a member of the Authority, or of a Judge, or of the Registrar of the court, or of an officer of the Authority is to be judicially noticed in or before any court or before any person or officer acting judicially or under any power or authority conferred by this Act, if the signature is attached to some order, certificate, or other official document made or purporting to be made under this Act or under any Act or provision of an Act repealed by this Act.
 (2) No proof is required of the handwriting or official position of any person acting under this section.
 
 ### 221 Joinder, waiver, and extension of time
-In order to enable the Court or the Authority, as the case may be, to more effectually dispose of any matter before it according to the substantial merits and equities of the case, it may, at any stage of the proceedings, of its own motion or on the application of any of the parties, and upon such terms as it thinks fit, by order,—
+In order to enable the court or the Authority, as the case may be, to more effectually dispose of any matter before it according to the substantial merits and equities of the case, it may, at any stage of the proceedings, of its own motion or on the application of any of the parties, and upon such terms as it thinks fit, by order,—
   (a) direct parties to be joined or struck out; and
   (b) amend or waive any error or defect in the proceedings; and
   (c) subject to section 114(4), extend the time within which anything is to or may be done; and
   (d) generally give such directions as are necessary or expedient in the circumstances.
 
 ### 222 Application of Official Information Act 1982
-Nothing in the Official Information Act 1982 applies to any information held by the Department or the Authority or the Court in relation to any proceedings brought before the Authority or the Court.
+Nothing in the Official Information Act 1982 applies to any information held by the department or the Authority or the court in relation to any proceedings brought before the Authority or the court.
 
 ## Part 11 — General provisions
 
 **Labour Inspectors**
 
 ### 223 Labour Inspectors
-(1) The chief executive may designate as Labour Inspectors such employees of the Department as the chief executive from time to time considers necessary for the purposes of—
-  (a) this Act: and
+(1) The chief executive may designate as Labour Inspectors such employees of the department as the chief executive from time to time considers necessary for the purposes of—
+  (a) this Act; and
   (b) the Equal Pay Act 1972; and
   (c) the Holidays Act 2003; and
   (d) the Minimum Wage Act 1983; and
@@ -3046,7 +3124,7 @@ Nothing in the Official Information Act 1982 applies to any information held by 
   (b) if any objection lodged before the close of the period specified in subsection (2) is withdrawn (whether before or after the close of that period).
 (4) The consequences are that the demand notice—
   (a) imposes a legal requirement on the employer to comply with it; and
-  (b) is prima facie evidence before the Court or the Authority or (for the purposes of paragraph (d), before a District Court) that the employer owes to the employee the wages or holiday pay or other money specified in the notice; and
+  (b) is prima facie evidence before the court or the Authority or (for the purposes of paragraph (d), before a District Court) that the employer owes to the employee the wages or holiday pay or other money specified in the notice; and
   (c) may be enforced by the making by the Authority of a compliance order under section 137; and
   (d) is enforceable as a judgment debt under section 141 (which applies with any necessary modifications).
 
@@ -3068,7 +3146,7 @@ A demand notice may be withdrawn at any time by a Labour Inspector, but the with
 
 ### 229 Powers of Labour Inspectors
 (1) For the purpose of performing his or her functions and duties under any Act specified in section 223(1), every Labour Inspector has, subject to sections 230 to 233, the following powers:
-  (a) the power to enter, at any reasonable hour, any premises where any person is employed or where the Labour Inspector has reasonable cause to believe that any person is employed, accompanied, if the Labour Inspector thinks fit, by any other employee of the Department qualified to assist or by a member of the police:
+  (a) the power to enter, at any reasonable hour, any premises where any person is employed or where the Labour Inspector has reasonable cause to believe that any person is employed, accompanied, if the Labour Inspector thinks fit, by any other employee of the department qualified to assist or by a constable:
   (b) the power to interview any person at any premises of the kind described in paragraph (a) and the power to interview any employer or any employee:
   (c) the power to require the production of, and to inspect and take copies from,—
     (i) any wages and time record or any holiday and leave record whether kept under this Act or any other Act:
@@ -3131,17 +3209,17 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 (1) A person commits an offence who, without reasonable cause,—any Labour Inspector while the Labour Inspector is lawfully exercising or performing any power, function, or duty.
   (a) obstructs, delays, hinders, or deceives; or
   (b) causes to be obstructed, delayed, hindered, or deceived,—
-(2) A person who commits an offence against subsection (1) is liable on conviction by the Court to a fine not exceeding $10,000.
+(2) A person who commits an offence against subsection (1) is liable on conviction by the court to a fine not exceeding $10,000.
 
 **Representation**
 
 ### 236 Representation
 (1) Where any Act to which this section applies confers on any employee the right to do anything or take any action—that employee may choose any other person to represent the employee for the purpose.
   (a) in respect of an employer; or
-  (b) in the Authority or the Court,—
+  (b) in the Authority or the court,—
 (2) Where any Act to which this section applies confers on an employer the right to do anything or take any action—that employer may choose any other person to represent that employer for the purpose.
   (a) in respect of an employee; or
-  (b) in the Authority or the Court,—
+  (b) in the Authority or the court,—
 (3) Any person purporting to represent any employee or employer must establish that person's authority for that representation.
 (4) The Acts to which this section applies are—
   (a) this Act:
@@ -3151,7 +3229,7 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
   (e) the Human Rights Act 1993:
   (f) the Minimum Wage Act 1983:
   (g) the Parental Leave and Employment Protection Act 1987:
-  (h) the Police Act 1958:
+  (h) the Policing Act 2008:
   (i) the State Sector Act 1988:
   (j) the Wages Protection Act 1983.
 
@@ -3160,13 +3238,13 @@ A Judge who, on application made on oath, is satisfied that there is reasonable 
 ### 237 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) prescribing the forms for the purposes of this Act:
-  (b) prescribing the duties of officers of the Authority, of the Registrar of the Court, and of any other officers or persons acting in execution of this Act:
-  (c) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Authority or the Court:
-  (d) prescribing the procedure in relation to the conduct of matters before the Authority or the Court:
+  (b) prescribing the duties of officers of the Authority, of the Registrar of the court, and of any other officers or persons acting in execution of this Act:
+  (c) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Authority or the court:
+  (d) prescribing the procedure in relation to the conduct of matters before the Authority or the court:
   (e) prescribing procedures in relation to the issue of summonses to witnesses and to the hearing of evidence on oath:
   (f) prescribing charges or fees in relation to—
     (i) services provided by the chief executive under this Act; or
-    (ii) the functions of the Authority or the Court:
+    (ii) the functions of the Authority or the court:
   (g) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 237A Amendments to Schedule 1A
@@ -3174,12 +3252,12 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2) An Order in Council must not be made under subsection (1) unless made on the recommendation of the Minister.
 (3) The Minister must not make a recommendation under subsection (2) unless the Minister—
   (a) has received from any person or organisation a request to amend Schedule 1A that specifies the grounds on which it is believed that the criteria in subsection (4) are met; and
-  (b) has received a report from the Department that assesses the request; and
-  (c) has provided the Department's assessment to, and has consulted, such employers, employees, the representatives of such employers and employees, and such other persons and organisations, as the Minister considers appropriate; and
+  (b) has received a report from the department that assesses the request; and
+  (c) has provided the department's assessment to, and has consulted, such employers, employees, the representatives of such employers and employees, and such other persons and organisations, as the Minister considers appropriate; and
   (d) is satisfied that the criteria in subsection (4) are met.
 (4) The criteria are—
   (a) whether the employees concerned are employed in a sector in which the restructuring of an employer's business occurs frequently:
-  (b) whether the restructuring of employers' businesses in the sector concerned has tended to undermine the employees' terms and conditions of employment.
+  (b) whether the restructuring of employers' businesses in the sector concerned has tended to undermine the employees' terms and conditions of employment:
   (c) whether the employees concerned have little bargaining power.
 (5) In this section, restructuring has the same meaning as in subpart 1 of Part 6A.
 
@@ -3187,7 +3265,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
 The provisions of this Act have effect despite any provision to the contrary in any contract or agreement.
 
 ### 239 New Schedule 3 substituted in Police Act 1958
-The Police Act 1958 is amended by repealing Schedule 3, and substituting the Schedule 3 set out in Schedule 4.
+Amendment(s) incorporated in the Act(s).
 
 ### 240 Consequential amendments
 The enactments specified in Schedule 5 are amended in the manner indicated in that schedule.
@@ -3198,11 +3276,11 @@ The enactments specified in Schedule 6 are repealed.
 **Transitional provisions**
 
 ### 242 Enforcement of existing individual employment contracts
-(1) Every individual employment contract within the meaning of the Employment Contracts Act 1991 that is in force immediately before the commencement of this Act continues in force according to its tenor and is enforceable in the Authority or the Court.
+(1) Every individual employment contract within the meaning of the Employment Contracts Act 1991 that is in force immediately before the commencement of this Act continues in force according to its tenor and is enforceable in the Authority or the court.
 (2) Part 6 does not apply in relation to any individual employment contract to which subsection (1) applies.
 
 ### 243 Enforcement of existing collective employment contracts
-(1) Every collective employment contract within the meaning of the Employment Contracts Act 1991 that is in force immediately before the commencement of this Act continues in force according to its tenor and is enforceable in the Authority or the Court.
+(1) Every collective employment contract within the meaning of the Employment Contracts Act 1991 that is in force immediately before the commencement of this Act continues in force according to its tenor and is enforceable in the Authority or the court.
 (2) This section is subject to sections 244 to 246.
 
 ### 244 Existing collective employment contracts and collective bargaining
@@ -3235,7 +3313,7 @@ Subject to section 246, a collective employment contract that is continued in fo
 ### 248 Existing causes of action
 (1) Subject to the applicable period of limitation, the repeal by this Act of any existing Act or provision does not extinguish any existing cause of action.
 (2) Where any cause of action has arisen before the commencement of this section under any of the provisions repealed by this Act and at that date no proceedings have been initiated in respect of that cause of action under those provisions, those provisions continue to apply to any proceedings commenced in respect of any such cause of action as if this Act had not been passed.
-(3) Subsection (2) is subject to sections 249 to 252 and subsection (4) of this section.
+(3) Subsection (2) is subject to sections 249 to 252 and subsection (4).
 (4) Where any cause of action has arisen before the commencement of this section in relation to the dismissal of an employee, proceedings in the Employment Tribunal in respect of that cause of action,—
   (a) if commenced before the close of 30 June 2001, may be other than in accordance with section 113(1); but
   (b) if commenced after 30 June 2001, must be in accordance with section 113(1) and Part 9.
@@ -3298,21 +3376,21 @@ The provision of all necessary services in connection with the arrival, berthing
 
 ### 8
 The operation of—
-  (a) a service for the carriage of passengers or goods by water between the North Island and the South Island or between the South Island and Stewart Island; or
-  (b) a service necessary for the operation of a service referred to in paragraph (a).
+(a) a service for the carriage of passengers or goods by water between the North Island and the South Island or between the South Island and Stewart Island; or
+(b) a service necessary for the operation of a service referred to in paragraph (a).
 
 ### 9
 The operation of—
-  (a) an air transport service, being a service by aircraft for the public carriage of passengers or goods for hire or reward (but excluding an air topdressing service); or
-  (b) a service necessary for the operation of an air transport service referred to in paragraph (a).
+(a) an air transport service, being a service by aircraft for the public carriage of passengers or goods for hire or reward (but excluding an air topdressing service); or
+(b) a service necessary for the operation of an air transport service referred to in paragraph (a).
 
 ### 10
 The operation of an ambulance service for sick or injured persons.
 
 ### 11
 The operation of—
-  (a) a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
-  (b) a service necessary for the operation of such an institution.
+(a) a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001; or
+(b) a service necessary for the operation of such an institution.
 
 ### 12
 The manufacture or supply of surgical and dialysis solutions.
@@ -3375,7 +3453,7 @@ In this code, unless the context otherwise requires,—
   - **life preserving services** means—
     (a) crisis intervention for the preservation of life:
     (b) care required for therapeutic services without which life would be jeopardised:
-    (c) urgent diagnostic procedures required to obtain information on potentially life-threatening conditions
+    (c) urgent diagnostic procedures required to obtain information on potentially life-threatening conditions:
     (d) crisis intervention for the prevention of permanent disability:
     (e) care required for therapeutic services without which permanent disability would occur:
     (f) urgent diagnostic procedures required to obtain information on conditions that could potentially lead to permanent disability
@@ -3384,6 +3462,8 @@ In this code, unless the context otherwise requires,—
     (b) to avoid doubt,—
       (i) includes cleaning services, food catering services, laundry services, and orderly services; but
       (ii) does not include building construction services.
+
+**General**
 
 ### 4 General requirements
 (1) In all aspects of their employment relationship, the parties must—
@@ -3412,6 +3492,8 @@ Every employer must be a good employer.
 ### 7 Principles of the Treaty of Waitangi
 The parties must recognise and support Part 3 of the New Zealand Public Health and Disability Act 2000 which, in order to recognise the principles of the Treaty of Waitangi and with a view to improving health outcomes for Maori, provides mechanisms to enable Maori to contribute to decision-making on, and to participate in the delivery of, health and disability services.
 
+**Collective bargaining**
+
 ### 8 Agreement on clinical expert or other suitable person
 As part of the arrangement required under section 32(1)(a), the parties must make every endeavour to agree on a clinical expert or other suitable person for the purposes of clause 13(1).
 
@@ -3434,6 +3516,8 @@ During collective bargaining employers must not—
   (a) provide for the opportunity for participation of union officials, delegates, and members in decision-making where those decisions may have an impact on the work or working environment of those members; and
   (b) provide for the release of employees to participate in decision-making where appropriate, acknowledging the key role of union delegates in the collective representation of union members; and
   (c) provide for union delegates to carry out their roles, including the time needed for communication and consultation with members, and for union delegate education.
+
+**Patient safety**
 
 ### 11 General obligation for employers to provide for patient safety during industrial action
 During industrial action, employers must provide for patient safety by ensuring that life preserving services are available to prevent a serious threat to life or permanent disability.
@@ -3462,6 +3546,8 @@ During industrial action, employers must provide for patient safety by ensuring 
 (3) The parties must use their best endeavours to give effect to the determination.
 (4) The parties must bear their own costs in relation to an adjudication.
 
+**Public comments**
+
 ### 14 Recognition of employees' right to make public comments
 (1) Employers must respect and recognise the right of their employees to comment publicly and engage in public debate on matters within their expertise and experience as employees.
 (2) However, this clause applies subject to clauses 15 to 17.
@@ -3481,6 +3567,8 @@ When exercising the right specified in clause 14(1), an employee must not breach
 
 ### 18 Rights of union not affected
 To avoid doubt, clauses 14 to 16 do not prevent a union from making public comments or engaging in public debate on any matter relating to the public health sector.
+
+**Continuity of employment**
 
 ### 19 Outsourcing or direct provision of services
 (1) This clause applies if—
@@ -3503,6 +3591,8 @@ To avoid doubt, clauses 14 to 16 do not prevent a union from making public comme
 (2) However, failure to comply with subclause (1) does not affect the validity of an agreement or arrangement referred to in that subclause.
 (3) This clause is in addition to clause 1(3).
 
+**Remedying breaches of good faith**
+
 ### 22 Notice of breach
 If a party believes that another party has breached the duty of good faith in section 4, it must bring this to the attention of the party in breach at an early stage.
 
@@ -3510,6 +3600,8 @@ If a party believes that another party has breached the duty of good faith in se
 A party in breach must—
   (a) if the breach can be made good, make good the breach by making every endeavour to restore the other party to the position the other party was in before the breach; or
   (b) if the breach cannot be made good, provide an explanation to the other party.
+
+**Transitional**
 
 ### 24 Transitional
 (1) This code does not apply to anything done or any matter arising before the commencement of the code.
@@ -3696,8 +3788,8 @@ Any document relating to a matter before the Authority may be served out of New 
 (3) On each occasion on which the Authority issues a summons under clause 5, the Authority, or the person exercising the power of the Authority under subclause (3) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
 (4) The amount fixed under subclause (3) of this clause is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the Authority or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 (5) Where the Authority, on its own volition, issues a summons to any person under clause 5(1),—
-  (a) that person, if he or she attends the Authority on that summons, is entitled, subject to subclause (2), to be paid by the Department the amount of the witnesses' fees, allowances, and travelling expenses specified in subclause (1); and
-  (b) the Department must provide any amount fixed under subclause (3) as the amount required to be paid or tendered to that person.
+  (a) that person, if he or she attends the Authority on that summons, is entitled, subject to subclause (2), to be paid by the department the amount of the witnesses' fees, allowances, and travelling expenses specified in subclause (1); and
+  (b) the department must provide any amount fixed under subclause (3) as the amount required to be paid or tendered to that person.
 
 ### 7 Evidence at distance
 (1) For the purpose of obtaining the evidence of witnesses at a distance, the Authority or, while the Authority is not sitting, any member of the Authority, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
@@ -3745,475 +3837,212 @@ Where any person applies to the Authority to accord urgency to an investigation,
 ## Schedule 3 — Provisions having effect in relation to Employment Court
 
 ### 1 Construction of employment agreements and statutory provisions
-(1) The Court may, in exercising its jurisdiction, hear and determine any question related to the employment relationship, including—
-  (a) any question connected with an employment agreement, being a question that arises in the course of any proceedings properly brought before the Court:
-  (b) any question connected with the construction of this Act or of any other Act, being a question that arises in the course of any proceedings properly brought before the Court.
-(2) Subclause (1)(b) has effect in relation to a question even though that question concerns the meaning of this Act (being the Act under which the Court is constituted) or of an Act under which the Court operates in a particular case.
+(1) The court may, in exercising its jurisdiction, hear and determine any question related to the employment relationship, including—
+  (a) any question connected with an employment agreement, being a question that arises in the course of any proceedings properly brought before the court:
+  (b) any question connected with the construction of this Act or of any other Act, being a question that arises in the course of any proceedings properly brought before the court.
+(2) Subclause (1)(b) has effect in relation to a question even though that question concerns the meaning of this Act (being the Act under which the court is constituted) or of an Act under which the court operates in a particular case.
 
 ### 2 Appearance of parties
-(1) Any party to any proceedings before the Court, and any other person appearing before the Court, may—
+(1) Any party to any proceedings before the court, and any other person appearing before the court, may—
   (a) appear personally; or
   (b) be represented—
     (i) by an officer or member of a union; or
     (ii) by an agent; or
     (iii) by a barrister or solicitor.
-(2) In any proceedings the Court may allow to appear or to be represented any person who applies to the Court for leave to appear or be represented and who, in the opinion of the Court, is justly entitled to be heard; and the Court may order any other person so to appear or be represented.
+(2) In any proceedings the court may allow to appear or to be represented any person who applies to the court for leave to appear or be represented and who, in the opinion of the court, is justly entitled to be heard; and the court may order any other person so to appear or be represented.
 
 ### 3 Privileged communications
-(1) Where any party to proceedings before the Court is represented by a person other than a barrister or solicitor, any communications between that party and that person in relation to those proceedings and to the matter in issue (if it has been before the Authority) are as privileged as they would have been if that person had been a barrister or solicitor.
-(2) In subclause (1), party, in relation to proceedings before the Court, includes any person who, under clause 2(2),—
+(1) Where any party to proceedings before the court is represented by a person other than a barrister or solicitor, any communications between that party and that person in relation to those proceedings and to the matter in issue (if it has been before the Authority) are as privileged as they would have been if that person had been a barrister or solicitor.
+(2) In subclause (1), party, in relation to proceedings before the court, includes any person who, under clause 2(2),—
   (a) is allowed to appear or be represented in those proceedings; or
   (b) is ordered to appear or be represented in those proceedings.
 
 ### 4 Evidence
-Any party to any proceedings before the Court may give and call evidence.
+Any party to any proceedings before the court may give and call evidence.
 
 ### 5 Rehearing
-(1) The Court has in every proceeding, on the application of an original party to the proceeding, the power to order a rehearing to be had upon such terms as it thinks reasonable, and in the meantime to stay proceedings.
-(2) Despite subclause (1), a rehearing may not be granted on an application made more than 28 days after the decision or order, unless the Court is satisfied that the application could not reasonably have been made sooner.
+(1) The court has in every proceeding, on the application of an original party to the proceeding, the power to order a rehearing to be had upon such terms as it thinks reasonable, and in the meantime to stay proceedings.
+(2) Despite subclause (1), a rehearing may not be granted on an application made more than 28 days after the decision or order, unless the court is satisfied that the application could not reasonably have been made sooner.
 (3) The application—
   (a) must be served on the opposite party not less than 7 clear days before the day fixed for the hearing; and
   (b) must state the grounds on which the application is made.
 (4) Those grounds must be verified by affidavit.
-(5) The application does not operate as a stay of proceedings unless the Court so orders.
+(5) The application does not operate as a stay of proceedings unless the court so orders.
 (6) The rehearing need not take place before the Judge by whom the proceedings were originally heard.
 
 ### 5A Service outside New Zealand
-Any document relating to a matter before the Court may be served out of New Zealand—
-  (a) by leave of the Court; and
+Any document relating to a matter before the court may be served out of New Zealand—
+  (a) by leave of the court; and
   (b) in accordance with regulations made under this Act.
 
 ### 6 Witness summons
-(1) For the purposes of any proceedings before the Court, the Court may, on the application of any party to those proceedings, or of its own volition, issue a summons to any person requiring that person to attend before the Court and give evidence at the hearing of those proceedings.
+(1) For the purposes of any proceedings before the court, the court may, on the application of any party to those proceedings, or of its own volition, issue a summons to any person requiring that person to attend before the court and give evidence at the hearing of those proceedings.
 (2) A summons may not be issued under subclause (1) to a member of the Authority.
-(3) The summons must be in the prescribed form, and may require the person to produce before the Court any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the proceedings.
-(4) The power to issue a summons under this section may be exercised by the Court or a Judge, or by any officer of the Court purporting to act by the direction or with the authority of the Court or a Judge.
+(3) The summons must be in the prescribed form, and may require the person to produce before the court any books, papers, documents, records, or things in that person's possession or under that person's control in any way relating to the proceedings.
+(4) The power to issue a summons under this section may be exercised by the court or a Judge, or by any officer of the court purporting to act by the direction or with the authority of the court or a Judge.
 
 ### 7 Witnesses' expenses
-(1) Every person attending the Court on a summons, and every other person giving evidence before the Court, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
-(2) The Court may disallow the whole or any part of any sum payable under subclause (1).
-(3) On each occasion on which the Court issues a summons under clause 6, the Court, or the person exercising the power of the Court under subclause (4) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
-(4) The amount fixed under subclause (3) of this clause is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the Court or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
+(1) Every person attending the court on a summons, and every other person giving evidence before the court, is entitled, subject to subclause (2), to be paid, by the party calling that person, witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations apply accordingly.
+(2) The court may disallow the whole or any part of any sum payable under subclause (1).
+(3) On each occasion on which the court issues a summons under clause 6, the court, or the person exercising the power of the court under subclause (4) of that clause, must fix an amount that, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, is to be paid or tendered to the witness.
+(4) The amount fixed under subclause (3) is to be the estimated amount of the allowances and travelling expenses (but not fees) to which, in the opinion of the court or person, the witness will be entitled, according to the prescribed scales, if the witness attends at the time and place specified in the summons.
 
 ### 8 Evidence at distance
-(1) For the purpose of obtaining the evidence of witnesses at a distance, the Court, or, while the Court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
-(2) The provisions of the District Courts Act 1947 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the Court were a District Court.
+(1) For the purpose of obtaining the evidence of witnesses at a distance, the court, or, while the court is not sitting, any Judge, has all the powers and functions of a District Court Judge under the District Courts Act 1947.
+(2) The provisions of the District Courts Act 1947 relating to the taking of evidence at a distance apply, with the necessary modifications, as if the court were a District Court.
 (3) Despite subclause (2) evidence may, for the purposes of this Act, be taken at a distance by a Registrar of a District Court.
 
 ### 9 Power to take evidence on oath
-(1) The Court may take evidence on oath, and for that purpose any Judge, or any other person acting under the express or implied direction of the Court or a Judge, may administer an oath.
+(1) The court may take evidence on oath, and for that purpose any Judge, or any other person acting under the express or implied direction of the court or a Judge, may administer an oath.
 (2) On any indictment for perjury it is sufficient to prove that the oath was administered in accordance with subclause (1).
 
 ### 10 Party competent as witness
-Any party to proceedings before the Court is competent to give evidence in those proceedings and may be compelled to give evidence as a witness.
+Any party to proceedings before the court is competent to give evidence in those proceedings and may be compelled to give evidence as a witness.
 
 ### 11 Power to dispense with evidence
-In any proceedings the Court may, if it thinks fit, dispense with any evidence on any matters on which all parties to the proceedings have agreed.
+In any proceedings the court may, if it thinks fit, dispense with any evidence on any matters on which all parties to the proceedings have agreed.
 
 ### 12 Power to prohibit publication
-(1) In any proceedings the Court may order that all or any part of any evidence given or pleadings filed or the name of any party or witness or other person not be published, and any such order may be subject to such conditions as the Court thinks fit.
-(2) Where proceedings are resolved by the Court making a consent order as to the terms of settlement, the Court may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the Court thinks fit.
+(1) In any proceedings the court may order that all or any part of any evidence given or pleadings filed or the name of any party or witness or other person not be published, and any such order may be subject to such conditions as the court thinks fit.
+(2) Where proceedings are resolved by the court making a consent order as to the terms of settlement, the court may make an order prohibiting the publication of all or part of the contents of that settlement, subject to such conditions as the court thinks fit.
 
 ### 13 Discovery
-(1) The Court may, in relation to discovery, make any order that a District Court may make under section 56A or section 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
+(1) The court may, in relation to discovery, make any order that a District Court may make under section 56A or section 56B of the District Courts Act 1947; and those sections apply accordingly with all necessary modifications.
 (2) Every application for an order under section 56A or section 56B of the District Courts Act 1947 (as applied by subclause (1)) is to be dealt with in accordance with regulations made under this Act.
 (3) Nothing in subclauses (1) and (2) limits the making of rules under section 212 or regulations under section 237.
 
 ### 14 Power to award interest
-(1) Subject to subclause (2), in any proceedings for the recovery of any money, the Court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at such rate not exceeding the 90-day bill rate (as at the date of the order), plus 2%, as the Court thinks fit, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
+(1) Subject to subclause (2), in any proceedings for the recovery of any money, the court may, if it thinks fit, order the inclusion, in the sum for which judgment is given, of interest, at such rate not exceeding the 90-day bill rate (as at the date of the order), plus 2%, as the court thinks fit, on the whole or part of the money for the whole or part of the period between the date when the cause of action arose and the date of payment in accordance with the judgment.
 (2) Subclause (1) does not authorise the giving of interest upon interest.
 
 ### 15 Power to dismiss frivolous cases
-(1) The Court may, in any proceedings, at any time dismiss any matter or defence before it which it thinks frivolous or trivial.
-(2) In any such case the order of the Court may be limited to an order against the party bringing the matter or defence before the Authority for payment of costs and expenses.
+(1) The court may, in any proceedings, at any time dismiss any matter or defence before it which it thinks frivolous or trivial.
+(2) In any such case the order of the court may be limited to an order against the party bringing the matter or defence before the Authority for payment of costs and expenses.
 
 ### 16 Power to proceed if any party fails to attend
-If, without good cause shown, any party to proceedings before the Court fails to attend or be represented, the Court may act as fully in the matter before it as if that party had duly attended or been represented.
+If, without good cause shown, any party to proceedings before the court fails to attend or be represented, the court may act as fully in the matter before it as if that party had duly attended or been represented.
 
 ### 17 Proceedings not invalid for want of form
-No decision or order of the Court, and no proceedings before the Court, are to be held bad for want of form, or be void or in any way vitiated by reason of any informality or error of form.
+No decision or order of the court, and no proceedings before the court, are to be held bad for want of form, or be void or in any way vitiated by reason of any informality or error of form.
 
 ### 18 Withdrawal of proceedings
-Where any matter is before the Court, it may at any time be withdrawn by the applicant or appellant.
+Where any matter is before the court, it may at any time be withdrawn by the applicant or appellant.
 
 ### 19 Power to award costs
-(1) The Court in any proceedings may order any party to pay to any other party such costs and expenses (including expenses of witnesses) as the Court thinks reasonable.
-(2) The Court may apportion any such costs and expenses between the parties or any of them as it thinks fit, and may at any time vary or alter any such order in such manner as it thinks reasonable.
+(1) The court in any proceedings may order any party to pay to any other party such costs and expenses (including expenses of witnesses) as the court thinks reasonable.
+(2) The court may apportion any such costs and expenses between the parties or any of them as it thinks fit, and may at any time vary or alter any such order in such manner as it thinks reasonable.
 
-### 20 Proceedings to continue on change in Court
-Where any change takes place in the Judge constituting the Court, any proceedings or inquiry then in progress do not abate and are not affected, but are to continue and are to be dealt with by the Court as if no change had taken place; but the Court may require evidence to be retaken where necessary.
+### 20 Proceedings to continue on change in court
+Where any change takes place in the Judge constituting the court, any proceedings or inquiry then in progress do not abate and are not affected, but are to continue and are to be dealt with by the court as if no change had taken place; but the court may require evidence to be retaken where necessary.
 
 ### 21 Urgency
-Where any party to any proceedings applies to the Court to accord urgency to the hearing of the proceedings, the Court must consider that application and may, if satisfied that it is necessary and just to do so, order that the proceedings be heard by the Court as soon as practicable.
+Where any party to any proceedings applies to the court to accord urgency to the hearing of the proceedings, the court must consider that application and may, if satisfied that it is necessary and just to do so, order that the proceedings be heard by the court as soon as practicable.
 
 ### 22 Proceedings not to abate by reason of death
-(1) Proceedings before the Court do not abate by reason of the seat of any Judge being vacant for any cause whatever, or of the death of any party to the proceedings.
+(1) Proceedings before the court do not abate by reason of the seat of any Judge being vacant for any cause whatever, or of the death of any party to the proceedings.
 (2) In the latter case, the legal personal representative of the deceased party is to be substituted in the deceased party's stead.
 
 ## Schedule 4 — New Schedule 3 of Police Act 1958
 
 ### Schedule 3 — Procedure for conciliation and arbitration
 
-### 1 Initiation of negotiations for agreements
-Subject to this Act, the appropriate service organisation or the Commissioner may at any time initiate negotiations for the making or renewal of an agreement under section 67 by submitting a notice to the chief executive of the Department of Labour.
-
-### 2 Contents of notice
-Every notice submitted under clause 1 must indicate any claims that the initiating party wishes to make against the other party and must identify the matters that may be fixed under section 67(3).
-
-### 3 Power to withdraw notice
-The initiating party may, at any time before a settlement has been reached, withdraw a notice submitted under clause 1 by giving written notice to that effect to the chief executive of the Department of Labour.
-
-### 4 Service of copies of notice
-Immediately after the submission of a notice under clause 1 or clause 3, the party that submitted the notice must serve a copy on the other party.
-
-### 5 Duty of chief executive
-The chief executive of the Department of Labour must, on receiving a notice submitted under clause 1, designate a person to facilitate negotiations in relation to the claims made by the initiating party.
-
-### 6 Mediator
-The person designated under clause 5 is, in this schedule, referred to as the mediator.
-
-### 7 Mediator to determine date for negotiations
-(1) The mediator must, as soon as practicable after being designated by the chief executive of the Department of Labour, determine, in consultation with the representatives of the parties, a date, time, and place for negotiations.
-(2) The mediator must—
-  (a) notify the service organisation and the Commissioner of the date, time, and place determined for the negotiations; and
-  (b) notify the service organisation and the Commissioner that they may each nominate up to 10 persons as negotiators on behalf of the parties to the negotiations.
-
-### 8 Action where mediator cannot arrange for negotiations
-(1) Where the mediator is unable to bring together the parties for negotiations, the mediator must inform the arbitrating body accordingly.
-(2) The arbitrating body must then attempt to facilitate or arrange to bring together the parties for negotiations and may, for that purpose,—
-  (a) give such directions incidental thereto as it thinks fit:
-  (b) call on the services of the chief executive of the Department of Labour or any other person.
-(3) Subject to subclause (4), where the arbitrating body's actions do not result in bringing together the parties for negotiations, the arbitrating body must proceed to hear and determine those parts of the claim that may be fixed under section 67(3) by settling those terms of the agreement.
-(4) Where the arbitrating body is satisfied that the inability of the mediator or other person to bring together the parties for negotiations was caused by the party which initiated the negotiations for an agreement under clause 1, the arbitrating body—
-  (a) must not proceed to hear and determine the claim under subclause (3); and
-  (b) must regard the notice submitted under clause 1 as being withdrawn and must notify the parties to the negotiations accordingly.
-(5) Where the parties to negotiations are notified under subclause (4), those negotiations lapse.
-
-### 9 Negotiators
-(1) No barrister or solicitor who holds a practising certificate for the time being in force under the Law Practitioners Act 1982, whether that barrister or solicitor is acting under a power of attorney or otherwise, is allowed to act as a negotiator unless the parties agree.
-(2) Nothing in subclause (1) prevents a person acting as a negotiator where that person is acting substantially as an employer or employee rather than as a barrister or solicitor.
-(3) The mediator may permit any other person to act for a negotiator who is unable to attend any negotiations.
-(4) The powers and functions of the parties to negotiate the claim, and of the mediator, are not affected by any vacancy in the office of negotiator for either party.
-
-### 10 Powers and functions of mediator
-(1) The mediator must make every endeavour to bring about a settlement of the claim.
-(2) The mediator must determine, in consultation with the appropriate service organisation and the Commissioner, the procedures to be followed in the negotiations.
-(3) The mediator may from time to time adjourn the negotiations.
-(4) The mediator must make and preserve a record of the negotiations.
-(5) The mediator may at any time, of the member's own volition or at the joint request of the parties, seek the advice or opinion of the Employment Relations Authority.
-
-### 11 Settlement
-(1) If a settlement of the claim is arrived at in negotiations, the mediator must record in writing the terms of settlement, which must be signed and dated by—
-  (a) the mediator; and
-  (b) an authorised representative of the appropriate service organisation; and
-  (c) an authorised representative of the Commissioner.
-(2) The terms of settlement must be given by the mediator to—
-  (a) the representatives of the parties; and
-  (b) the chief executive of the Department of Labour.
-
-### 12 Unsettled disputes
-If the claim to which this Schedule applies is not settled by negotiations, the mediator must refer the claim to the arbitrating body.
-
-### 13 Statement as to state of negotiations
-(1) The appropriate service organisation and the Commissioner must each provide the arbitrating body with a signed statement as to—
-  (a) the state of the negotiations; and
-  (b) the issues in dispute, identifying the matters that may be fixed under section 67(3).
-(2) The statement must indicate, among other things, whether or not a partial settlement has been reached.
-
-### 14 Copies of statement
-A copy of the statement must be forwarded to the other party at the same time as it is provided to the arbitrating body.
-
-### 15 Power of arbitrating body to determine dispute where parties agree
-If the parties agree in writing, the arbitrating body, after giving the parties an opportunity to be heard, must, subject to the provisions of this schedule, hear and determine the claim by deciding the conditions of employment that may be included in the agreement under section 67(3).
-
-### 16 Duty of arbitrating body where power to determine dispute not conferred on it
-If the parties do not agree to the claim being heard and determined by the arbitrating body, the arbitrating body must forthwith call the parties to a meeting for the purpose of determining the most appropriate method of resolving the dispute.
-
-### 17 Hearing by arbitrating body
-At any such meeting the arbitrating body must hear the parties and may do all or any of the following:
-  (a) refer the dispute to the chief executive of the Department of Labour to arrange (by delegation if necessary) for further negotiations between the parties to try and resolve the dispute:
-  (b) consult such organisations as may be appropriate with a view to ascertaining whether they could assist in resolving the dispute:
-  (c) with the written consent of the parties, refer it to the arbitrating body to hear and determine the matters that may be fixed under section 67(3):
-  (d) take such other action as the arbitrating body considers in all the circumstances might assist to resolve the dispute.
-
-### 18 Other actions of arbitrating body
-Any action or actions taken by the arbitrating body under clause 17 do not preclude the arbitrating body from taking any further action under that clause.
-
-### 19 Lapse of negotiations
-Where, in respect of any dispute,—those matters which may be fixed under section 67(3) and which remain in dispute must be referred to compulsory arbitration in accordance with clauses 20 to 27. All other matters raised in the claim lapse.
-  (a) the arbitrating body has exercised any or all of the powers conferred by clause 17; and
-  (b) the arbitrating body is satisfied that no action short of hearing and determining the dispute will settle it; and
-  (c) the parties do not agree to the dispute being heard and determined by the arbitrating body,—
-
-### 20 Arbitrating body
-(1) The arbitrating body, for the purposes of the compulsory arbitration, is a committee appointed from time to time under this clause.
-(2) The committee consists of—
-  (a) an equal number of representatives (not exceeding 2) nominated respectively by the service organisations jointly and the Commissioner; and
-  (b) a person to chair the committee, who is to be either—
-    (i) a person mutually agreed by the service organisations and the Commissioner; or
-    (ii) a person designated by the chief executive of the Department of Labour.
-(3) The person designated under subclause (2)(b)(ii) may be the same person as the person designated under clause 5 as the mediator.
-(4) If the service organisations or the Commissioner fail to make nominations for the purposes of subclause (2)(a) or act in such a way that the committee cannot be established, in accordance with subclause (2), the chief executive of the Department of Labour must appoint as members of the committee such persons as the chief executive of the Department of Labour thinks fit.
-(5) The members of the committee hold office at the pleasure of the chief executive of the Department of Labour.
-
-### 21 Statement as to state of negotiations
-The appropriate service organisation and the Commissioner must each provide the arbitrating body with a signed statement as to—
-  (a) the issues in dispute in accordance with clause 19; and
-  (b) the position on those issues of the party providing the statement; and
-  (c) full particulars of the final offer being made by the party providing the statement.
-
-### 22 Copies of statement
-When the arbitrating body has received both of the statements required under clause 21, it must supply—
-  (a) a copy of the service organisation's statement to the Commissioner; and
-  (b) a copy of the Commissioner's statement to the service organisation.
-
-### 23 Hearing and determination of dispute
-(1) The arbitrating body, after giving the parties an opportunity to be heard, must, subject to the provisions of this schedule, hear and determine the dispute and settle the terms of the agreement.
-(2) The arbitrating body must, at the conclusion of the hearing and before making its determination, give each of the parties the opportunity to restate in writing, within a specified time or before a specified date, its final offer.
-(3) Where any party so restates its final offer, the offer as restated is that party's final offer for the purposes of clause 26.
-
-### 24 Criteria to be observed by arbitrating body
-The arbitrating body, in hearing and determining a dispute in relation to a proposed agreement, must have regard to—
-  (a) the supply and demand factors for the skills of the members covered by the proposed agreement; and
-  (b) the need for fairness and equity in the rate of pay and conditions of employment for work covered by the proposed agreement; and
-  (c) any changes in the content of any job or in the skills, duties, or responsibilities of positions covered by the proposed agreement; and
-  (d) any changes in productivity arising from, for example, the introduction of new technology; and
-  (e) relativities within the proposed agreement, and between it and other awards and agreements; and
-  (f) the special conditions applicable to employment as a member of the Police; and
-  (g) such other matters as the Commissioner or the arbitrating body, as the case may be, considers relevant, or as may be agreed upon between the Commissioner and the appropriate service organisation.
-
-### 25 Application of criteria
-In applying the criteria, the arbitrating body—
-  (a) is not bound by historical precedent and practice of any sort; and
-  (b) must consider whether relativities or conditions of employment should be changed to take account of factors that are specific to the work covered by the proposed agreement; and
-  (c) is not to have any regard whatsoever to any matters that remained in dispute but were not matters that may be fixed under section 67(3).
-
-### 26 Duty of arbitrating body to accept one final offer
-(1) In determining any dispute under this schedule, the arbitrating body must accept either the final position adopted by the service organisation or the final position adopted by the Commissioner.
-(2) The arbitrating body must accept in full the final offer made by one of the parties.
-(3) The arbitrating body may not adopt only a part or parts of one final offer and a part of the other final offer.
-
-### 27 Right of parties to agree on other methods
-Nothing in this schedule prevents the parties from agreeing to have the dispute or any issues in dispute determined in a way different from that set out in clauses 20 to 26.
-
-### 28 Power of arbitrating body to waive technical irregularities
-The arbitrating body in its discretion may waive any technical irregularity or omission that may have occurred in the submission or reference of a dispute of interest to the arbitrating body, if it is satisfied that the provisions of this Act have been substantially complied with.
-
 ## Schedule 5 — Enactments amended
 
-### 4 Application to terms of employment
-(1) The terms of employment of any employee contained in any Act or employment agreement include, or are deemed to include, provision for the observance of Anzac Day as if it were a holiday to be allowed on pay.
-(2) Where in any Act or employment agreement provision is made for the transfer of the granting of a holiday, or of the observance of certain hours of labour, or of the payment of certain rates of wages on Anzac Day to any other day instead of Anzac Day, that provision is void and of no effect.
-(3) Nothing in this section affects any provision permitting or requiring an employer to grant a holiday on any other day instead of Anzac Day where the employee is required to work on Anzac Day at ordinary rates of wages.
-(4) In this section,—
-  - **Act** includes any regulation, rule, or order made under any Act of Parliament
-  - **employment agreement** has the meaning given to it by section 5 of the Employment Relations Act 2000.
-
-### 26
-Before entering into any collective agreement under the Employment Relations Act 2000, the Authority must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
-
-### 25 Application of Employment Relations Act 2000
-Except as otherwise provided in section 26 of this Act, the Employment Relations Act 2000 applies in relation to employees appointed under section 18 of this Act.
-
-### 26 Negotiation of conditions of employment
-(1) The Clerk of the House of Representatives must negotiate under the Employment Relations Act 2000 every collective agreement applicable to employees appointed under section 18 of this Act.
-(2) The Clerk of the House of Representatives must conduct the negotiations—
-  (a) with a union of which employees are members; and
-  (b) in consultation with the State Services Commissioner.
-(3) In this section, union has the meaning given to that term by section 5 of the Employment Relations Act 2000.
-
-### 9 Collective agreements
-No Crown Research Institute may enter into a collective agreement that binds any or all of its employees unless that Crown Research Institute, or an authorised representative of that Crown Research Institute, has first consulted with the State Services Commissioner with respect to the terms and conditions of employment to be included in the collective agreement.
-
-### 69 Application to Civil Staff of Employment Relations Act 2000
-Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to the Civil Staff.
-
-### 70 Negotiation of conditions of employment
-(1) The Chief of Defence Force is responsible for negotiating, under the Employment Relations Act 2000, every collective agreement applicable to employees in the Civil Staff.
-(2) The Chief of Defence Force must consult with the State Services Commissioner when negotiating any collective agreements under this section.
-(3) The State Services Commissioner may at any time either before or during the negotiation of such collective agreements indicate to the Chief of Defence Force that the State Services Commissioner wishes to participate with the Chief of Defence Force in negotiating those collective agreements, and the Chief of Defence Force must allow the State Services Commissioner to participate accordingly.
-
-### 71 Personal grievances and disputes
-Despite the provisions of sections 61A and 70,—
-  (a) in relation to a personal grievance, the employer is the Chief of Defence Force; and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the Chief of Defence Force acting, if the State Services Commissioner so requires, together with or in consultation with the State Services Commissioner.
-
-### 10 Approval by Court or Employment Relations Authority of instruments or proposed instruments
-(1) Despite anything in the Employment Relations Act 2000, the Court may, of its own motion or on the application of any party, examine the provisions of any proposed collective agreement under that Act fixing any rate of remuneration of employees, whether or not those provisions have been agreed upon in conciliation, in order to determine whether the provisions of the proposed collective agreement meet such of the requirements of sections 3 to 6 of this Act as are applicable.
-(2) After hearing the parties or, if the Court thinks fit, without hearing the parties, the Court may,—
-  (a) if the Court is satisfied that those provisions meet the requirements of sections 3 to 6 of this Act, approve those provisions:
-  (b) if the Court is not so satisfied,—
-    (i) refer the proposed collective agreement back to the parties for further consideration and amendment of those provisions in order to meet the requirements of sections 3 to 6 of this Act and, if it does so, the Court may state principles for the guidance of the parties for the implementation of equal pay in that collective agreement; or
-    (ii) amend the provisions of the proposed collective agreement in order to meet the requirements of sections 3 to 6 of this Act, and make the collective agreement as so amended.
-(3) Despite anything in any other Act or in any rule of law, the Employment Relations Authority may, of its own motion or on the application of an Inspector, examine the provisions of any instrument or proposed instrument (not being a collective agreement under the Employment Relations Act 2000) in order to determine whether the provisions of the instrument or proposed instrument fixing any rate of remuneration for employees meet such of the requirements of sections 3 to 7 of this Act as are applicable.
-(4) After hearing the parties to the instrument or proposed instrument or their representatives or, if the Employment Relations Authority thinks fit, without a hearing, the Employment Relations Authority may,—
-  (a) if the Employment Relations Authority is satisfied that those provisions meet such of the requirements of sections 3 to 7 of this Act as are applicable, approve those provisions:
-  (b) if the Employment Relations Authority is not so satisfied,—
-    (i) refer the instrument or proposed instrument back to the parties, or, as the case may be, to the appropriate authority, for renegotiation or, as the case may be, for reconsideration or amendment of those provisions in order to meet those requirements, and, if it does so, the Employment Relations Authority may state principles for the guidance of the parties or that authority for the implementation of equal pay in that instrument or proposed instrument; or
-    (ii) in the case of an instrument, amend it to the extent necessary to meet those requirements and the instrument as so amended has effect accordingly.
-(5) The Employment Relations Authority must not exercise any of its powers under this section without a hearing if any party to the instrument or proposed instrument requests a hearing.
-
-### 14 Procedure and jurisdiction of Employment Relations Authority
-In exercising its functions under this Act, or in respect of any breach of this Act, the Employment Relations Authority has all the powers and functions it has under the Employment Relations Act 2000.
-
-### 32
-Before entering into any collective agreement under the Employment Relations Act 2000, the Authority must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
-
-### 8 Collective agreements
-Before entering into any collective agreement under the Employment Relations Act 2000, the company must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
-
-### 3 Training contracts to have effect as employment agreements
-Any contract between an employer and an employee that relates to the employee's receiving, or provides for the employee to receive, industry training (whether provided by the employer or by some other person) is for all purposes deemed to be part of the employee's employment agreement.
-
-### 3A Jurisdiction of Employment Court
-This Part of this Act is subject to the provisions of the Employment Relations Act 2000 relating to the jurisdiction of the Employment Court in respect of applications for review or proceedings for a writ or order of, or in the nature of, mandamus, prohibition, certiorari, or for a declaration or injunction against any body constituted by, or any person acting pursuant to, the Employment Relations Act 2000.
-
-### 33
-Before entering into a collective agreement under the Employment Relations Act 2000, the Authority must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
-
-### 33
-Before entering into any collective agreement under the Employment Relations Act 2000, the Authority must consult with the State Services Commissioner about the conditions of employment to be included in the collective agreement.
-
-### 2 Interpretation
-In this Act, unless the context otherwise requires,—
-  - **employer** means a person employing any worker or workers; and includes a person engaging or employing a homeworker
-  - **Employment Relations Authority** means the Employment Relations Authority established under the Employment Relations Act 2000
-  - **homeworker** has the meaning given to it by section 5 of the Employment Relations Act 2000
-  - **Labour Inspector** means a Labour Inspector designated under section 223 of the Employment Relations Act 2000
-  - **worker** has the same meaning as that given to the term employee by section 6 of the Employment Relations Act 2000.
-
-### 10 Penalties and jurisdiction
-Every person who makes default in the full payment of any wages payable by that person under this Act and every person who fails to otherwise comply with the requirements of this Act is liable to a penalty recoverable by a Labour Inspector, and imposed by the Employment Relations Authority, under the Employment Relations Act 2000.
-
-### 11A Compliance order
-Sections 131 and 138 of the Employment Relations Act 2000 apply to the non-observance or non-compliance with any provision of, or requirement given under, this Act as if it were a provision of, or requirement given under, Parts 5 to 9 of the Employment Relations Act 2000, and proceedings under that Act may be commenced by the worker or employer affected by the non-observance or non-compliance.
-
-### 11B 40-hour 5-day week
-(1) Subject to subsections (2) and (3), every employment agreement under the Employment Relations Act 2000 must fix at not more than 40 the maximum number of hours (exclusive of overtime) to be worked in any week by any worker bound by that employment agreement.
-(2) The maximum number of hours (exclusive of overtime) fixed by an employment agreement to be worked by any worker in any week may be fixed at a number greater than 40 if the parties to the agreement agree.
-(3) Where the maximum number of hours (exclusive of overtime) fixed by an employment agreement to be worked by any worker in any week is not more than 40, the parties to the agreement must endeavour to fix the daily working hours so that those hours are worked on not more than 5 days of the week.
-
-### 58 Power to refer complaint to Employment Relations Authority
-(1) Where a parental leave complaint is not disposed of between the parties, it may be referred to the Employment Relations Authority.
-(2) The Employment Relations Authority must, subject to any decision to provide mediation services, proceed to hear and determine the complaint and, in doing so, must consider—
-  (a) the written statement of the complaint required by section 57(5); and
-  (b) any evidence or submissions given by or on behalf of the parties; and
-  (c) such other matters as the Employment Relations Authority thinks fit.
-
-### 59 Role of institutions
-Where any parental leave complaint comes before the Employment Relations Authority, sections 177 to 184 of the Employment Relations Act 2000 apply in relation to that parental leave complaint and sections 214 and 215 of that Act apply in relation to appeals to the Court of Appeal.
-
-### 66 Reinstatement
-Where the remedy of reinstatement is provided by the Employment Relations Authority or the Employment Court, the employee must be reinstated immediately or on such date as is specified by the Employment Relations Authority or the Employment Court and, despite any appeal against the determination of the Employment Relations Authority or the Employment Court, the provisions for reinstatement remain in full force pending the determination of the appeal.
-
-### 67A Individual employment agreements
-(1) Subject to subsection (2), nothing in section 67 prevents the Commissioner and any sworn member of the Police from entering into an individual employment agreement.
-(2) Where there is an applicable agreement under section 67 and the Commissioner and a sworn member of the Police enter into an individual employment agreement, the provisions of the individual employment agreement prevail to the extent that there is any inconsistency between the individual employment agreement and the applicable agreement under section 67.
-
-### 83 Settlement of disputes
-(1) Where there is a dispute about the interpretation, application, or operation of any provision of any agreement that applies to sworn members of the Police,—
-  (a) a person bound by the agreement or any party to the agreement may pursue that dispute in accordance with Part 10 of the Employment Relations Act 2000; and
-  (b) the person or party pursuing the dispute must ensure that every service organisation that was involved in negotiations for the making or renewal of the agreement has notice of the existence of the dispute.
-(2) Where there is a dispute about the interpretation, application, or operation of any provision of any agreement made under section 77, a person bound by the agreement may pursue that dispute in accordance with Part 10 of the Employment Relations Act 2000.
-
-### 87 Personal grievances
-(1) Part 9 of the Employment Relations Act 2000 applies in relation to personal grievances by sworn members of the Police.
-(2) For the purposes of Part 9 of the Employment Relations Act 2000 (as applied by subsection (1)), an action by the Commissioner (other than the imposition of a penalty under this Act) is not unjustifiable if—
-  (a) the Commissioner's principal reason for taking the action is to ensure that an operational requirement is met; and
-  (b) any failure to perform the requirement would be likely to result in a breach of the oath of office prescribed by section 37.
-
-### 96 Employment Relations Act 2000 and State Sector Act 1988 not to apply
-(1) Except as otherwise expressly provided in this Act, nothing in either the Employment Relations Act 2000 or the State Sector Act 1988 applies to any persons employed as members of the Police under this Act.
-(2) Subject to this Part,—
-  (a) sections 139 and 140 of the Employment Relations Act 2000, with any necessary modifications, apply to the non-observance of or non-compliance with any provision of this Part of this Act or of an agreement under this Act:
-  (b) if any person wishes to apply for review under Part 1 of the Judicature Amendment Act 1972, or bring proceedings seeking a writ or order of, or in the nature of, mandamus, prohibition, certiorari, or declaration or injunction, in relation to the exercise, refusal, or proposed or purported exercise by any person or body of any power under this Part of this Act, the provisions of subsections (2) to (4) of section 194 of the Employment Relations Act 2000 apply:
-  (c) Part 11 of the Employment Relations Act 2000 applies to proceedings before the Employment Court under this Part as if those proceedings were proceedings under that Act.
-
-### 17 Personal grievance
-(1) Where an employee who makes a protected disclosure of information under this Act claims to have suffered retaliatory action from his or her employer or former employer, that employee,—
-  (a) if that retaliatory action consists of or includes dismissal, may have a personal grievance, for the purposes of paragraph (a) of section 103(1) of the Employment Relations Act 2000, because of a claim of unjustifiable dismissal, and Part 9 of that Act applies accordingly; and
-  (b) if that retaliatory action consists of action other than dismissal or includes an action in addition to dismissal, may have a personal grievance, for the purposes of paragraph (b) of section 103(1) of the Employment Relations Act 2000, because of a claim described in that paragraph, and Part 9 of that Act applies accordingly.
-(2) This section applies only to employees within the meaning of the Employment Relations Act 2000.
-
-### 8 Collective agreements
-Before entering into any collective agreement under the Employment Relations Act 2000, the company must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
-
-### 67 Application to Public Service of Employment Relations Act 2000
-Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to the Public Service.
-
-### 68 Negotiation of conditions of employment
-(1) The Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees of any Department of the Public Service as if the Commissioner were the employer.
-(2) Without limiting subsection (1), it is declared that, for the purposes of initiating bargaining for a collective agreement, good faith bargaining for a collective agreement, and entering into collective agreements,—
-  (a) the Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
-  (b) employees of each Department affected are to be treated as if they were all employees of the Commissioner.
-(3) The Commissioner must conduct the negotiations—
-  (a) with a union of which the employees are members; and
-  (b) in consultation with the chief executive of each Department affected.
-(4) Every collective agreement must be entered into between—
-  (a) the Commissioner; and
-  (b) a union of which the employees to whom the collective agreement is applicable are members.
-(5) Every collective agreement entered into between the Commissioner and a union and relating to employees of a Department is binding on—
-  (a) the chief executive of that Department; and
-  (b) the employees of that Department who are or become members of the union and whose work comes within the coverage clause in the collective agreement.
-(6) Except as provided in this section, an employer who is bound by a collective agreement under subsection (5) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the Employment Relations Act 2000 as if that employer were a party to that agreement.
-
-### 69 Personal grievances and disputes
-Despite the provisions of section 68,—
-  (a) in relation to a personal grievance, the employer is the chief executive of the Department; and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the chief executive of the Department acting, if the Commissioner so requires, together with or in consultation with the Commissioner; and
-  (c) in relation to any other employment relationship problem (within the meaning of the Employment Relations Act 2000), the employer is the chief executive of the Department.
-
-### 73 Application of Employment Relations Act 2000
-Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to the Education service.
-
-### 74 Negotiation of conditions of employment
-(1) Except as provided in section 74C, the Commissioner is responsible for negotiating under the Employment Relations Act 2000 every collective agreement applicable to employees of the Education service as if the Commissioner were the employer.
-(2) Without limiting subsection (1), it is declared that, for the purposes of initiating bargaining for a collective agreement, good faith bargaining for a collective agreement, and entering into collective agreements,—
-  (a) the Commissioner has the same rights, duties, and obligations under the Employment Relations Act 2000 as the Commissioner would have if the Commissioner were the employer; and
-  (b) employees of the Education service are to be treated as if they were all employees of the Commissioner.
-(3) Unless otherwise directed in writing by the Commissioner, an employer in the Education service must not lock out employees or suspend striking employees in relation to negotiations by the Commissioner for a collective agreement applicable to those employees.
-(4) The Commissioner must conduct the negotiations—
-  (a) with a union of which the employees are members; and
-  (b) in consultation with—
-    (i) the chief executive of the Ministry of Education; and
-    (ii) representatives of the employer or employers who will be bound by the collective agreement, which representatives must be employers or organisations of employers, of persons employed in the Education service.
-(5) Every collective agreement must be entered into between—
-  (a) the Commissioner; and
-  (b) a union of which the employees to whom the collective agreement is applicable are members.
-(6) Every collective agreement entered into between the Commissioner and any union and relating to employees in the Education service is binding on—
-  (a) the employers of the employees to whom the collective agreement is applicable; and
-  (b) the employees in the Education service who are, or who become, members of the union.
-(7) Except as provided in this section, an employer who is bound by a collective agreement under subsection (6) has the rights, obligations, and duties that that employer would have, in respect of that collective agreement, under the Employment Relations Act 2000 as if that employer were a party to that agreement.
-
-### 74A Personal grievances and disputes
-Despite the provisions of section 74,—
-  (a) in relation to a personal grievance, the employer is the employer as defined in section 2; and
-  (b) in relation to a dispute about the interpretation, application, or operation of any collective agreement, the employer is the employer as defined in section 2, acting, if the Commissioner so requires, together or in consultation with the Commissioner; and
-  (c) in relation to any other employment relationship problem (within the meaning of the Employment Relations Act 2000), the employer is the employer as defined in section 2.
-
-### 8 Application of Employment Relations Act 2000
-(1) Except as otherwise provided in this Act, the Employment Relations Act 2000 applies in relation to every State enterprise.
-(2) Before entering into any collective agreement under the Employment Relations Act 2000, every State enterprise named in the Second Schedule of this Act must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
-
-### 13 Penalties
-Where—that employer is liable, at the suit of the worker or of a Labour Inspector designated under section 223 of the Employment Relations Act 2000, to a penalty imposed under that Act by the Employment Relations Authority.
-  (a) any payment is made by or on behalf of any employer in contravention of this Act; or
-  (b) any employer or any person on that employer's behalf contravenes or fails to comply with any of the provisions of this Act,—
-
-### 16 Provisions in collective agreements
-Subject to section 6(2), nothing in this Act derogates from or makes it unlawful to comply with—
-  (a) any provision of any collective agreement within the meaning of the Employment Relations Act 2000; or
-  (b) any provision of any order of the Employment Court or the Employment Relations Authority established by the Employment Relations Act 2000.
-
-### 5 Application to terms of employment
-(1) The terms of employment of any worker contained in any Act or employment agreement include, or are deemed to include, provision for the observance of Waitangi Day as if it were a holiday to be allowed on pay.
-(2) Where in any Act or employment agreement provision is made for the transfer of the granting of a holiday, or of the observance of certain hours of labour, or of the payment of certain rates of wages on Waitangi Day to any other day instead of Waitangi Day, that provision is void and of no effect.
-(3) Nothing in this section affects any provision permitting or requiring an employer to grant a holiday on any other day instead of Waitangi Day where the worker is required to work on Waitangi Day at ordinary rates of wages.
-(4) In this section,—
-  - **Act** includes any regulation, rule, or order made under any Act of Parliament
-  - **employment agreement** has the meaning given to it by section 5 of the Employment Relations Act 2000.
-
 ## Schedule 6 — Enactments repealed
+
+### 1 Title
+(1) This Act is the Employment Relations (Validation of Union Registration and Other Matters) Amendment Act 2001.
+(2) In this Act, the Employment Relations Act 2000 is called the principal Act.
+
+## Part 1 — Preliminary provisions
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Validation of union registration, and amendments relating to cross-examination
+
+**Validation of union registration and related matters**
+
+### 4 Registration of unions validated
+(1) A society that the Registrar of Unions purported to register as a union before the commencement of the principal Act is deemed to be, and to have always been, registered as a union by the Registrar of Unions on 2 October 2000.
+(2) The registration of a society as a union on or after the commencement of the principal Act is not to be treated as unlawful or of no effect because the society's application for registration as a union was made, or made and processed, before the commencement of the principal Act.
+
+### 5 Certificates of registration
+(1) The certificate of registration of a society that section 4(1) applies to must be read, and has effect, as if the date of registration stated in the certificate were 2 October 2000.
+(2) If the certificate of registration of a society that section 4(1) or (2) applies to has been cancelled for the purpose of issuing a second certificate referred to in subsection (3), the certificate of registration must be treated as if it had not been cancelled.
+(3) A second certificate of registration has no effect if the certificate was obtained—
+  (a) by a society that section 4(1) or (2) applies to; and
+  (b) after the commencement of the principal Act but before the commencement of this Act.
+(4) The Registrar of Unions may—
+  (a) issue a certificate of registration, showing a date of registration of 2 October 2000, to replace a certificate of registration referred to in subsection (1):
+  (b) issue a certificate of registration to replace a cancelled certificate of registration referred to in subsection (2) that has been destroyed:
+  (c) cancel a second certificate of registration referred to in subsection (3).
+
+### 6 Acts not invalid because of pre-commencement application, processing, or registration
+Nothing done by any person (including the Crown, the Registrar of Unions, a society, or an employer) is to be treated as unlawful or of no effect because the Registrar of Unions purported, before the commencement of the principal Act,—
+  (a) to receive, or receive and process, an application by a society to be registered as a union; or
+  (b) to register a society as a union.
+
+### 7 No liability
+No person (including the Crown, the Registrar of Unions, a society, or an employer) is under any liability, and no compensation is payable to any person, because the Registrar of Unions purported, before the commencement of the principal Act,—
+  (a) to receive, or receive and process, an application by a society to be registered as a union; or
+  (b) to register a society as a union.
+
+### 8 Penalties
+Nothing in this Act makes anything done or omitted to be done by a person before the commencement of this Act a breach of an employment agreement or the principal Act.
+
+### 9 Costs
+Nothing in this Act affects the power of the Court of Appeal to make an order for costs, or affects any liability to pay costs, in the case of New Zealand Employers Federation Incorporated v National Union of Public Employees (NUPE) and Others (CA 32/01, 24 September 2001).
+
+### 1 Title
+(1) This Act is the Employment Relations Amendment Act (No 2) 2004.
+(2) In this Act, the Employment Relations Act 2000 is called the principal Act.
+
+### 2 Commencement
+This Act comes into force on 1 December 2004.
+
+### 73 Transitional provisions
+(1) The amendments made by this Act do not apply to anything done or any matter arising before the commencement of this Act.
+(2) However, subsection (1) applies subject to subsections (3) to (20).
+(3) The definition of coverage clause in section 5 of the principal Act (as substituted by section 7(1) of this Act) applies to a collective agreement whether it comes into force before or after the commencement of this Act.
+(4) Section 9(3) of the principal Act (as added by section 8 of this Act) applies to a collective agreement whether it comes into force before or after the commencement of this Act.
+(5) Section 20(5) of the principal Act (as added by section 9 of this Act) applies whether the discussion took place before or after the commencement of this Act.
+(6) Section 32(1)(ca) (as inserted by section 11 of this Act) applies whether the bargaining started before or after the commencement of this Act.
+(7) Section 33 of the principal Act (as substituted by section 12 of this Act) applies whether the bargaining started before or after the commencement of this Act.
+(8) Sections 50A to 50J of the principal Act (as inserted by section 14 of this Act)—
+  (a) apply whether the bargaining started before or after the commencement of this Act; but
+  (b) do not apply in relation to grounds that exist before the commencement of this Act.
+(9) Section 56(1A) of the principal Act (as inserted by section 16 of this Act) applies whether an employee's employment started before or after the commencement of this Act.
+(10) Section 56A of the principal Act (as inserted by section 17 of this Act) applies whether the collective agreement came into force before or after the commencement of this Act.
+(11) Section 59B(2) of the principal Act (as inserted by section 18 of this Act) applies whether the collective agreement came into force before or after the commencement of this Act.
+(12) Section 59B(4) of the principal Act (as inserted by section 18 of this Act) applies whether the bargaining started before or after the commencement of this Act.
+(13) Section 59C(2) of the principal Act (as inserted by section 18 of this Act) applies whether the collective agreement came into force before or after the commencement of this Act.
+(14) Section 59C(4) of the principal Act (as inserted by section 18 of this Act) applies whether the bargaining started before or after the commencement of this Act.
+(15) Section 65A of the principal Act (as inserted by section 26 of this Act) applies whether the individual employment agreement started before or after the commencement of this Act.
+(16) Section 78(3A) of the principal Act (as inserted by section 34 of this Act) applies whether the employer was told of the proposal to take employment leave before or after the commencement of this Act.
+(17) Section 149(3)(ab) of the principal Act (as inserted by section 51 of this Act) applies to the agreed terms of settlement whether the agreed terms of settlement are signed before or after the commencement of this Act.
+(18) Section 149(4) of the principal Act (as inserted by section 51 of this Act) applies whether the agreed terms of settlement are signed before or after the commencement of this Act.
+(19) Section 150(4) of the principal Act (as inserted by section 52 of this Act) applies whether the decision was signed before or after the commencement of this Act.
+(20) Section 194A of the principal Act (as inserted by section 65 of this Act),—
+  (a) applies whether the exercise, refusal to exercise, or proposed or purported exercise of the statutory power of decision was made before or after the commencement of this Act; but
+  (b) does not apply if an application or proceedings of the type referred to in section 194(1) have been started.
+
+### 1 Title
+This Act is the Employment Relations Amendment Act 2006.
+
+### 2 Commencement
+(1) The following provisions come into force 3 months after the date on which this Act receives the Royal assent:
+  (a) subpart 2 of Part 6A of the principal Act (as inserted by section 6 of this Act); and
+  (b) sections 8 and 9.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 11 Transitional provision
+(1) Subsection (2) applies to restructurings (within the meaning of Part 6A of the principal Act as in force before the commencement of this section), the agreements for which are concluded before the commencement of this section even if the restructurings they relate to are to take effect after the commencement of this section.
+(2) Part 6A of the principal Act, as in force immediately before the commencement of this section, continues to apply to the restructurings as if this Act had not been passed.
+(3) Subpart 2 of Part 6A of the principal Act (as inserted by section 6 of this Act) does not apply in relation to any negotiations begun, or any tenders called for, before the commencement of that subpart.
+(4) The amendments to section 103(1) of the principal Act made by section 7 of this Act—
+  (a) apply in relation to restructurings whether the agreements for the restructurings are concluded before or after the commencement of this section; but
+  (b) in relation to restructurings the agreements for which were concluded before the commencement of this section, apply to failures to comply with Part 6A of the principal Act that occurred only after the commencement of this section.
 
 ### 1 Title
 This Act is the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008.
