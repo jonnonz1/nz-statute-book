@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-04-01_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -1740,7 +1740,7 @@ Funeral grants shall not be payable under section 61DB or section 61DC or sectio
   (d) The deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
-If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,760.57 to meet the deceased person's reasonable funeral expenses if—
+If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,820.08 to meet the deceased person's reasonable funeral expenses if—
   (a) A spouse or partner; or
   (b) A child or children whom he or she is liable in law to maintain; or
   (c) Any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent—
@@ -1750,10 +1750,10 @@ If a person, other than a child, dies and the deceased person is survived by—t
   (e) The annual income of any spouse or partner who survives the deceased is less than 52 times the appropriate amount in Part 2 of Schedule 31.
 
 ### 61DC Payment of funeral grants where there is no surviving spouse or partner or children
-If a person, other than a child, dies and section 61DB of this Act does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,760.57 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
+If a person, other than a child, dies and section 61DB of this Act does not apply, the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,820.08 to meet the deceased person's reasonable funeral expenses if those funeral expenses cannot be paid from the deceased's assessable estate before the payment of any other debts.
 
 ### 61DD Children's funeral grants
-If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,760.57 to meet the deceased child's reasonable funeral expenses if—
+If a child dies the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,820.08 to meet the deceased child's reasonable funeral expenses if—
   (a) Those funeral expenses cannot be paid from the aggregate of—
     (i) The deceased child's assessable estate before the payment of any other debts; and
     (ii) The combined assets of the parents, or any other person or persons, who were liable in law to maintain the deceased child on the date of death, other than non-assessable assets, in excess of the amount in clause 2 of Part 1 of Schedule 31; and
@@ -3810,34 +3810,34 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 3 — Rates of widows' benefits
 
-| 1 | To a beneficiary with 1 or more dependent children | $263.78 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $272.70 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $191.83 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $198.31 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 4 — Maximum rates of orphans' benefits and unsupported childs' benefits
 
-| 1. (a) In respect of a child aged 14 years or over | $157.92 a week |
+| 1. (a) In respect of a child aged 14 years or over | $185.25 a week |
 | --- | --- |
-| (b) In respect of a child aged over 10 years and under 14 years | $148.83 a week |
-| (c) In respect of a child aged over 5 years and under 10 years | $139.73 a week |
-| (d) In respect of a child aged under 5 years | $121.50 a week |
+| (b) In respect of a child aged over 10 years and under 14 years | $169.45 a week |
+| (c) In respect of a child aged over 5 years and under 10 years | $153.55 a week |
+| (d) In respect of a child aged under 5 years | $132.32 a week |
 | 2. The amount specified in clause 1 of this Schedule shall be diminished by $1 for every complete $1 of the annual income of the child (other than personal earnings of the child) in excess of 50 percent of the appropriate amount specified under that clause. |  |
 
 ## Schedule 5 — Rates of family benefits
 
 ## Schedule 6 — Rates of invalids' benefits
 
-| 1. (a) To a single beneficiary under the age of 18 years without dependent children | $186.28 a week, subject to Income Test 1. |
+| 1. (a) To a single beneficiary under the age of 18 years without dependent children | $192.58 a week, subject to Income Test 1. |
 | --- | --- |
-| (b) To any other single beneficiary without dependent children | $230.19 a week, subject to Income Test 1. |
-| (c) To a single beneficiary with 1 or more dependent children | $302.40 a week subject to Income Test 1 |
+| (b) To any other single beneficiary without dependent children | $237.97 a week, subject to Income Test 1. |
+| (c) To a single beneficiary with 1 or more dependent children | $312.62 a week subject to Income Test 1 |
 | (d) |  |
-| (e) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $191.83 a week, subject to Income Test 2. |
-| (f) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $191.83 a week, increased by $191.83 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
-| (g) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $191.83 a week, subject to Income Test 1. |
+| (e) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $198.31 a week, subject to Income Test 2. |
+| (f) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $198.31 a week, increased by $198.31 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
+| (g) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $198.31 a week, subject to Income Test 1. |
 | Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall—aDisregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; andbDisregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
-| 2. Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $301.83 a week, increased by $38.36 a week if the beneficiary is a single person. |
+| 2. Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $308.31 a week, increased by $39.66 a week if the beneficiary is a single person. |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
 
@@ -3856,22 +3856,22 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); andiiWhose benefit commenced on or after 1 July 1998. | $122.77 a week, subject to Income Test 3. |
+| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); andiiWhose benefit commenced on or after 1 July 1998. | $126.92 a week, subject to Income Test 3. |
 | --- | --- | --- | --- |
-|  | (a) | To any other single beneficiary under the age of 25 years without dependent children | $153.46 a week, subject to Income Test 3. |
-|  | (b) | To any other single beneficiary without dependent children | $184.17 a week, subject to Income Test 3. |
-|  | (c) | To a single beneficiary with 1 or more dependent children | $263.78 a week, subject to Income Test 3 |
-|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $153.46 a week, subject to Income Test 4 |
-|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right | $153.46 a week, increased by $153.46 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
-|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension | $153.46 a week, subject to Income Test 3 |
+|  | (a) | To any other single beneficiary under the age of 25 years without dependent children | $158.65 a week, subject to Income Test 3. |
+|  | (b) | To any other single beneficiary without dependent children | $190.39 a week, subject to Income Test 3. |
+|  | (c) | To a single beneficiary with 1 or more dependent children | $272.70 a week, subject to Income Test 3 |
+|  | (d) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $158.65 a week, subject to Income Test 4 |
+|  | (e) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is not granted a benefit in his or her own right | $158.65 a week, increased by $158.65 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 3 |
+|  | (f) | To a beneficiary who is married or in a civil union or in a de facto relationship (with or without dependent children) whose spouse or partner is granted, in his or her own right, a veteran's pension | $158.65 a week, subject to Income Test 3 |
 |  | (g) |  |  |
 |  | (h) |  |  |
 |  | (i) |  |  |
 |  | (j) |  |  |
-| 2. | Maximum increase in respect of a housekeeper |  | $153.46 a week. |
+| 2. | Maximum increase in respect of a housekeeper |  | $158.65 a week. |
 | 3. |  |  |  |
 | 4. |  |  |  |
-| 5. | Special rate of benefit for persons to whom section 99(4) applies |  | $153.46 a week, subject to Income Test 4 |
+| 5. | Special rate of benefit for persons to whom section 99(4) applies |  | $158.65 a week, subject to Income Test 4 |
 
 ## Schedule 10 — Special income exemption in respect of sick benefits from friendly or like society (New Zealand Superannuation payable under section 16 of this Act, invalids', widows', domestic purposes, and sickness benefits only)
 
@@ -3893,22 +3893,22 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 16 — Rates of domestic purposes benefits
 
-| 1 | To a beneficiary with 1 or more dependent children | $263.78 a week, subject to Income Test 1 |
+| 1 | To a beneficiary with 1 or more dependent children | $272.70 a week, subject to Income Test 1 |
 | --- | --- | --- |
-| 2 | To a beneficiary without any dependent children | $191.83 a week, subject to Income Test 1 |
+| 2 | To a beneficiary without any dependent children | $198.31 a week, subject to Income Test 1 |
 | 3 | For the purposes of clause 1, the chief executive may, in his or her discretion, disregard up to $20 a week of the beneficiary's personal earnings used to meet the cost of child care for any of the beneficiary's dependent children. |  |
 
 ## Schedule 17 — Rates of domestic purposes benefits
 
-| 1. To a single beneficiary under the age of 18 years without dependent children | $186.28 a week, subject to Income Test 1. |
+| 1. To a single beneficiary under the age of 18 years without dependent children | $192.58 a week, subject to Income Test 1. |
 | --- | --- |
-| 2. To any other single beneficiary without dependent children | $230.19 a week, subject to Income Test 1. |
-| 3. To a single beneficiary with 1 or more dependent children | $302.40 a week, subject to Income Test 1 |
+| 2. To any other single beneficiary without dependent children | $237.97 a week, subject to Income Test 1. |
+| 3. To a single beneficiary with 1 or more dependent children | $312.62 a week, subject to Income Test 1 |
 | 4. |  |
-| 5. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $191.83 a week, subject to Income Test 2. |
-| 6. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $191.83 a week, subject to Income Test 1. |
-| 7. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $191.83 a week, subject to Income Test 1. |
-| 8. Notwithstanding anything in clauses 5 to 7 of this Schedule, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $191.83 a week. |  |
+| 5. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, a benefit (other than New Zealand superannuation or a veteran's pension) | $198.31 a week, subject to Income Test 2. |
+| 6. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is not granted a benefit in his or her own right | $198.31 a week, subject to Income Test 1. |
+| 7. To a beneficiary (with or without dependent children) who is married or in a civil union or in a de facto relationship, whose spouse or partner is granted, in his or her own right, New Zealand superannuation or a veteran's pension) | $198.31 a week, subject to Income Test 1. |
+| 8. Notwithstanding anything in clauses 5 to 7 of this Schedule, the rate of the domestic purposes benefit paid to a beneficiary under any provision of those clauses shall not be less than the aggregate of the rates of domestic purposes benefits that would be payable if the beneficiary and the spouse or partner of the beneficiary were both entitled to receive a domestic purposes benefit; but the rate of benefit payable by virtue of this clause shall not exceed $198.31 a week. |  |
 
 ## Schedule 18 — Accommodation supplement
 
@@ -3958,10 +3958,10 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
-| 1. Rate of child disability allowance | $40.73 a week. |
+| 1. Rate of child disability allowance | $42.11 a week. |
 | --- | --- |
-| 2. Maximum rate of disability allowance under section 69C(1) | $54.05 a week. |
-| 3. Rate of special disability allowance under section 69C(5) | $33.73 a week. |
+| 2. Maximum rate of disability allowance under section 69C(1) | $55.88 a week. |
+| 3. Rate of special disability allowance under section 69C(5) | $34.87 a week. |
 
 ## Schedule 20 — Rates of contribution by liable parents to cost of domestic purposes benefit
 
@@ -3969,9 +3969,9 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ## Schedule 22 — Rates of benefits payable to long-term hospital patients
 
-| 1. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $33.73 a week. |
+| 1. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of a benefit (other than New Zealand superannuation, a veteran's pension, an orphan's benefit, or an unsupported child's benefit) | $34.87 a week. |
 | --- | --- |
-| 2. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to $33.73 a week. |
+| 2. To a person without dependent children who is married or in a civil union or in a de facto relationship, or a single person, who is in receipt of New Zealand superannuation under Part 1 of the Social Welfare (Transitional Provisions) Act 1990 | An amount which, after income tax is withheld pursuant to tax code “M” (as specified in section 24B(3) of the Tax Administration Act 1994) is equal to $34.87 a week. |
 
 ## Schedule 23 — Transition to work allowance
 
@@ -3981,10 +3981,10 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ## Schedule 26 — Rates of independent youth benefits
 
-| 1. To a single beneficiary | $153.46 a week, subject to Income Test 3. |
+| 1. To a single beneficiary | $158.65 a week, subject to Income Test 3. |
 | --- | --- |
-| 2. To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $153.46 a week, subject to Income Test 4. |
-| 3. To any other beneficiary who is married or in a civil union or in a de facto relationship and | $153.46 a week, subject to Income Test 3. |
+| 2. To a beneficiary who is married or in a civil union or in a de facto relationship and whose spouse or partner is granted, in his or her own right, an independent youth benefit | $158.65 a week, subject to Income Test 4. |
+| 3. To any other beneficiary who is married or in a civil union or in a de facto relationship and | $158.65 a week, subject to Income Test 3. |
 
 ## Schedule 27 — Means assessment under Part 4
 
@@ -4117,27 +4117,27 @@ The chief executive must convert an assessment made under clauses 3 to 5 to a we
 
 ## Schedule 31 — Asset and income limits that may be applied to certain assistance
 
-| 1 | For a single person without dependent children | $921.08 |
+| 1 | For a single person without dependent children | $952.21 |
 | --- | --- | --- |
-| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1534.76 |
-| 3 | For a sole parent with 1 dependent child | $1209.40 |
-| 4 | For any other sole parent | $1299.16 |
+| 2 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $1,586.63 |
+| 3 | For a sole parent with 1 dependent child | $1,250.28 |
+| 4 | For any other sole parent | $1,343.07 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 5 | For a single person aged 16 or 17 years without dependent children | $420.72 |
-| 6 | For any other single person without dependent children | $483.54 |
-| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $702.30 |
-| 8 | For a sole parent with 1 dependent child | $586.74 |
-| 9 | For any other sole parent | $618.16 |
+| 5 | For a single person aged 16 or 17 years without dependent children | $434.94 |
+| 6 | For any other single person without dependent children | $499.88 |
+| 7 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $726.04 |
+| 8 | For a sole parent with 1 dependent child | $606.57 |
+| 9 | For any other sole parent | $639.05 |
 
 |  |  | Per week |
 | --- | --- | --- |
-| 10 | For a single person aged 16 or 17 years without dependent children | $454.66 |
-| 11 | For any other single person without dependent children | $526.23 |
-| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $765.65 |
-| 13 | For a sole parent with 1 dependent child | $634.11 |
-| 14 | For any other sole parent | $688.07 |
+| 10 | For a single person aged 16 or 17 years without dependent children | $470.03 |
+| 11 | For any other single person without dependent children | $544.02 |
+| 12 | For a person who is married or in a civil union or in a de facto relationship with or without dependent children | $791.53 |
+| 13 | For a sole parent with 1 dependent child | $655.54 |
+| 14 | For any other sole parent | $690.65 |
 
 ### 1 Title
 This order is the Social Security (Rates of Benefits and Allowances) Order 2008.
@@ -4148,3 +4148,13 @@ This order comes into force on 1 April 2008.
 ### 3 Increasing amount of funeral grants
 (1) Amendment incorporated in principal Act
 (2) The amendments made by subclause (1) apply only in respect of persons who die on or after 1 April 2008.
+
+### 1 Title
+This order is the Social Security (Rates of Benefits and Allowances) Order 2009.
+
+### 2 Commencement
+This order comes into force on 1 April 2009.
+
+### 3 Increasing amounts of funeral grants
+(1) Amendment incorporated in the principal Act
+(2) The amendments made by subclause (1) apply only in respect of persons who die on or after 1 April 2009.
