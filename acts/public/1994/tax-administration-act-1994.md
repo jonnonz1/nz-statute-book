@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2009-03-30_
+_Consolidation as at 2009-04-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -84,7 +84,7 @@ _Consolidation as at 2009-03-30_
     (c) A shortfall penalty; or
     (cb) a promoter penalty; or
     (d) a non-electronic filing penalty; or
-    (e) a civil penalty under section 215 or 216 of the KiwiSaver Act 2006:
+    (e) a civil penalty under section 215 of the KiwiSaver Act 2006:
   - **Collective agreement** is defined in section 130(6) for the purposes of that section
   - **combined tax and earner-related payment** —
     (a) unless paragraph (b) applies, has the same meaning as in section YA 1 of the Income Tax Act 2007:
@@ -848,11 +848,11 @@ A person who meets the requirements of section 15T may apply under section 15S t
 (3) Notwithstanding subsection (1), the Commissioner, an authorised officer, or a person accompanying the Commissioner or the authorised officer, shall not enter any private dwelling except with the consent of an occupier or pursuant to a warrant issued under subsection (4).
 (4) A judicial officer who, on written application made on oath, is satisfied that the exercise by the Commissioner or an authorised officer of his or her functions under this section requires physical access to a private dwelling may issue to the Commissioner or an authorised officer a warrant to enter that private dwelling.
 (5) Every warrant issued under subsection (4)—
-  (a) Shall be in a form prescribed by regulations made under this Act; and
-  (b) Shall be directed to a named officer of the Department; and
-  (ba)
-  (c) Shall be valid for a period of 1 month from the date of its issue or such lesser period as the judicial officer considers appropriate; and
-  (d) Shall state its period of validity, or the date on which it expires.
+  (a) shall be in a form prescribed by regulations made under this Act; and
+  (b) shall specify an authorised officer of the Department, whether by name or in general, who may act under the warrant; and
+  (ba) shall specify whether other persons may accompany the officer acting under the warrant; and
+  (c) shall be valid for a period of 1 month from the date of its issue or such lesser period as the judicial officer considers appropriate; and
+  (d) shall state its period of validity, or the date on which it expires.
 (6) Every person exercising the power of entry conferred by a warrant issued under subsection (4) shall produce the warrant of authority and evidence of identity—
   (a) On first entering the private dwelling; and
   (b) Whenever subsequently reasonably required to do so.
@@ -1224,10 +1224,11 @@ An information holder who is required to disclose information in relation to a p
   (b) a schedular payment:
   (c) a payment of an income-tested benefit.
 (3) An employee must notify their employer that their tax code is 1 of the following:
-  (a) ‘M’ for primary employment earnings when the employee is not entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
+  (a) ‘M’ for primary employment earnings when the employee is not entitled to a tax credit under section LC 4 or LC 13 of the Income Tax Act 2007:
+  (ab) ME for primary employment earnings when the employee is entitled to a tax credit under section LC 13 of the Income Tax Act 2007:
   (b) ‘ML’ for primary employment earnings when the employee is entitled to a tax credit under section LC 4 of the Income Tax Act 2007:
-  (c) S for secondary employment earnings for an employee whose annual income is not more than $40,000:
-  (d) SH for secondary employment earnings for an employee whose annual income is more than $40,000 but is not more than $70,000:
+  (c) S for secondary employment earnings for an employee whose annual income is not more than $48,000:
+  (d) SH for secondary employment earnings for an employee whose annual income is more than $48,000 but is not more than $70,000:
   (e) ST for secondary employment earnings for an employee whose annual income is more than $70,000:
   (f) ‘CAE’ for salary or wages for employment as a casual agricultural employee:
   (g) ‘EDW’ for salary or wages for employment as an election day worker:
@@ -1695,22 +1696,22 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
     (ii) income that is subject to the PAYE rules and to a student loan repayment deduction under sections 19 and 20 of the Student Loan Scheme Act 1992, in relation to which the person's obligations under those rules are not met; and
     (iii) Income from employment from which the earner premium or earner levy is not withheld or deducted correctly; and
     (iv) interest or a dividend that is resident passive income to which section RE 3(1)(c) of the Income Tax Act 2007 applies (other than interest for which an RWT withholding certificate did not have to be prepared under section 25(7)), from which RWT has been withheld at a rate other than that specified in—
-      (AA) schedule 1, part D, table 2, row 1, 2 or 3 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $40,000; or
-      (A) schedule 1, part D, table 2, row 3 of the Income Tax Act 2007 if that person’s annual gross income is more than $40,000 but not more than $60,000; or
-      (BA) schedule 1, part D, table 2, row 3, 4, or 5 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000 but not more than $70,000; or
+      (AA)
+      (A) schedule 1, part D, table 2, row 3 of the Income Tax Act 2007 if that person’s annual gross income is more than $48,000 but not more than $70,000; or
+      (BA)
       (B) schedule 1, part D, table 2, row 4 or 5 of the Income Tax Act 2007 if that person’s annual gross income is more than $70,000; and
     (v) Income from employment being extra emoluments from which tax has been withheld at a rate other than that specified in—
-      (AA) schedule 2, part B, table 1, row 1 or 2 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $40,000; or
-      (A) schedule 2, part B, table 1, row 2 of the Income Tax Act 2007 if that person's annual gross income is more than $40,000 but not more than $60,000; or
-      (BA) schedule 2, part B, table 1, row 2 or 3 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000 but not more than $70,000; or
+      (AA)
+      (A) schedule 2, part B, table 1, row 2 of the Income Tax Act 2007 if that person's annual gross income is more than $48,000 but not more than $70,000; or
+      (BA)
       (B) schedule 2, part B, table 1, row 3 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
     (vi) Income from employment being secondary employment earnings from which tax has been withheld at a rate other than that specified in—
-      (AA) schedule 2, part A, clause 4 or 5 of the Income Tax Act 2007 if that person's annual gross income is more than $38,000 but not more than $40,000; or
-      (A) schedule 2, part A, clause 5 of the Income Tax Act 2007 if that person's annual gross income is more than $40,000 but not more than $60,000; or
-      (BA) schedule 2, part A, clause 5 or 6 of the Income Tax Act 2007 if that person's annual gross income is more than $60,000 but not more than $70,000; or
+      (AA)
+      (A) schedule 2, part A, clause 5 of the Income Tax Act 2007 if that person's annual gross income is more than $48,000 but not more than $70,000; or
+      (BA)
       (B) schedule 2, part A, clause 6 of the Income Tax Act 2007 if that person's annual gross income is more than $70,000; and
     (via) Dividends if that person's annual gross income is more than $70,000; and
-    (vib) taxable Maori authority distributions if the person's annual gross income is more than $40,000; and
+    (vib) taxable Maori authority distributions if the person's annual gross income is more than $48,000; and
     (vii) interest, dividends, or taxable Maori authority distributions, if the person is required to pay financial support in the tax year under the Child Support Act 1991; and
     (viii) interest, dividends, or taxable Maori authority distributions, if the person has an IRD loan balance (as defined in section 2 of the Student Loan Scheme Act 1992), other than a balance of nil on the last day of the tax year, and income that is more than the student loan repayment threshold (as defined in section 2 of the Student Loan Scheme Act 1992) for that tax year; and
     (ix) Salary or wages from employment as an election day worker, if the worker has used the EDW tax code; and
@@ -1769,7 +1770,7 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
 A natural person who derives income in an income year for providing personal services to a person who is a claimant under the Injury Prevention, Rehabilitation, and Compensation Act 2001 is not required to furnish a return of income for the corresponding tax year if—
   (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
   (b) the taxable income of the person does not exceed $14,000 for the tax year; and
-  (c) tax is withheld at the rate of 15% or 12.5% from the personal service rehabilitation payment; and
+  (c) tax is withheld at the rate of 12.5% from the personal service rehabilitation payment; and
   (d) the person is not required to furnish a return of income under section 33A(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
 
 ### 34 Presumption as to authority of person making return
@@ -2049,7 +2050,7 @@ An employer that is not required to furnish an employer monthly schedule electro
   (d) Has not been a party to or perpetuated or continued with any transactions which, during the tax year,—
     (i) Give rise to income in any person's hands; or
     (ii) Give rise to fringe benefits to any employee or to any former employee; or
-    (iib) give rise to an amount of tax credit under section LH 2 of the Income Tax Act 2007; or
+    (iib)
     (iii) Give rise to a debit in the company's imputation credit account or FDP account.
 (3) In determining whether a company complies with the requirements of subsection (2), no account shall be taken of any—
   (a) Statutory company filing fees or associated accounting or other costs; or
@@ -5050,7 +5051,7 @@ Example: Section 120KE Dr Beige starts the income year (March balance date) usin
 ### 120KE Provisional tax and rules on use of money interest
 (1) A provisional taxpayer's residual income tax for a tax year is due and payable in 1 instalment on their terminal tax date if—
   (a) they are a natural person, other than in their capacity as trustee; and
-  (b) their residual income tax is less than $35,000 for the tax year; and
+  (b) their residual income tax is less than $50,000 for the tax year; and
   (c) they have not estimated their residual income tax under section RC 7 of the Income Tax Act 2007 for the tax year; and
   (d) they have not used a GST ratio under section RC 8 of that Act in the tax year to determine the amount of provisional tax payable for the tax year; and
   (e) they have not at any time in the tax year held an RWT exemption certificate under section 32I.
@@ -5476,7 +5477,7 @@ The determination of a challenge by a hearing authority under this Part—
   (a) A civil penalty imposed for—
     (i) The late provision of a tax return; or
     (ii) The late payment of tax; or
-  (ab) a civil penalty imposed under section 215 or 216 of the KiwiSaver Act 2006; or
+  (ab) a civil penalty imposed under section 215 of the KiwiSaver Act 2006; or
   (b) The percentage applicable to the civil penalty:
 
 ### 138M Wrong PAYE withholding determination a ground for challenge
@@ -6202,6 +6203,7 @@ Deferrable tax is due and payable on the day which is the 30th day after the las
   (e)
   (f)
   (g) an amount of RSCT withheld.
+  (h) amounts of compulsory employer contributions that must be paid under Part 3, subpart 3A of the KiwiSaver Act 2006 to the Commissioner, including an amount of compulsory employer contributions unpaid, specified in a notice under section 101I(5) of that Act.
 (6) No company is to be treated as having committed an offence under subsection (1)(e) for knowingly not withholding FDP for a foreign dividend derived, if—
   (a) The company withheld or paid an estimate of the FDP payable; and
   (b) The Commissioner is satisfied that—
@@ -7062,7 +7064,7 @@ An amount that is interest under section 120D of the Tax Administration Act 1994
   (e) FDP penalty tax imposed by section 140C:
   (f) Maori authority distribution penalty tax imposed by section 140CB:
   (g) a shortfall penalty imposed by section 141AA.
-  (h) a civil penalty imposed under section 215 or 216 of the KiwiSaver Act 2006:
+  (h) a civil penalty imposed under section 215 of the KiwiSaver Act 2006:
   (i) a penalty for not paying employer monthly schedule amount imposed by section 141ED.
 (1A) The Commissioner may remit the penalty if the Commissioner is satisfied that—
   (a) A penalty to which this section applies arises as a result of an event or circumstance beyond the control of a taxpayer; and
@@ -7083,7 +7085,7 @@ An amount that is interest under section 120D of the Tax Administration Act 1994
 (3) The Commissioner may remit the interest referred to in subsection (2) if the Commissioner is satisfied that—
   (a) the effect on the taxpayer of the occurrence of the qualifying event makes it equitable that the interest be remitted; and
   (b) the taxpayer applied for the remission as soon as practicable.
-(3A) If this section applies and a civil penalty has been imposed under section 215 or 216 of the KiwiSaver Act 2006, the affected person may request the Commissioner to remit the penalty imposed.
+(3A) If this section applies and a civil penalty has been imposed under section 215 of the KiwiSaver Act 2006, the affected person may request the Commissioner to remit the penalty imposed.
 (3B) The Commissioner may remit the penalty referred to in subsection (3A) if the Commissioner is satisfied that—
   (a) the effect on the person of the occurrence of the qualifying event makes it equitable that the penalty be remitted; and
   (b) the person applied for the remission as soon as practicable.
@@ -7135,7 +7137,7 @@ An amount that is interest under section 120D of the Tax Administration Act 1994
   (aa) A non-electronic filing penalty; and
   (b) A late payment penalty; and
   (bb) a shortfall penalty imposed by section 141AA; and
-  (bc) a civil penalty imposed under section 215 or 216 of the KiwiSaver Act 2006; and
+  (bc) a civil penalty imposed under section 215 of the KiwiSaver Act 2006; and
   (bd) a penalty for not paying employer monthly schedule amount imposed by section 141ED; and
   (c) Interest under Part 7—
 (2) In the application of this section, the Commissioner must have regard to the importance of the penalty, and interest under Part 7, in promoting compliance, especially voluntary compliance, by all taxpayers and other persons with the Inland Revenue Acts.
@@ -7909,3 +7911,52 @@ This Act comes into force on 1 April 2008.
 ### 29 Section 42 replaced
 (1) Amendment incorporated in the principal Act
 (2) For a person who is not a limited partner of a limited partnership registered under the Limited Partnerships Act 2008, subsection (1) applies for income years starting on and after 1 April 2008.
+
+### 1 Title
+This Act is the Taxation (Urgent Measures and Annual Rates) Act 2008.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) In Part 1, other than sections 3, 4, and 15,—
+  (a) the subsections (1) of the sections come into force on 1 April 2009:
+  (b) the subsections (2) of the sections come into force on 1 April 2010:
+  (c) the subsections (3) of the sections come into force on 1 April 2011.
+(3) In Part 2,––
+  (a) sections 24, 27, and 28 are treated as coming into force on 19 December 2007:
+  (b) section 19(1)(a) and (b) is treated as coming into force on 1 April 2008:
+  (c) sections 19(1)(c), 21, 25, and 26 come into force on 1 April 2009:
+  (d) sections 19(1)(d), 20(2) to (7), and 22 come into force on 1 October 2009.
+(4) In Part 3,––
+  (a) sections 33(1) and 40 are treated as coming into force on 1 April 2008:
+  (b) section 41 is treated as coming into force on 29 May 2008:
+  (c) sections 34 and 35 are treated as coming into force on 1 October 2008:
+  (d) sections 29, 31, 33(2), 36(2), 37, and 39 come into force on 1 April 2009:
+  (e) section 32 comes into force on 1 April 2010.
+(5) In Part 4, sections 43, 44, 45, 46, 48, 50, 52, 53, 54, 55, 56(2) and (3), 57, and 58 come into force on 1 April 2009.
+
+## Part 2 — Research and development tax credits repeal
+
+**Amendments to Tax Administration Act 1994**
+
+### 26 Non-active companies may be excused from filing returns
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 1 Title
+This Act is the Taxation (Business Tax Measures) Act 2009.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) In Part 1, the sections, other than sections 3 and 24, come into force on 1 April 2009.
+(3) In Part 2,––
+  (a) section 32 is treated as coming into force on 19 December 2007:
+  (b) sections 29(1), 30(1), and 31(1) come into force on 1 April 2009:
+  (c) sections 29(2), 30(2), and 31(2) come into force on 1 April 2010.
+
+## Part 1 — Business tax measures
+
+**Amendment to Tax Administration Act 1994**
+
+### 23 Provisional tax and rules on use of money interest
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
