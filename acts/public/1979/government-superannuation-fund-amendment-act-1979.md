@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act 1979
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-04-01_
 
 > An Act to amend the Government Superannuation Fund Act 1956
 
@@ -43,9 +43,12 @@ Subject to section 6 of this Act, every retiring allowance payable pursuant to P
 (2) Where the date of qualification of a contributor is before the 1st day of April 1979, the initial adjustment shall be made with effect on and after the 12th day of April 1979.
 
 ### 7 Percentage of annual adjustment
-The aggregate percentage of increase to be applied to a basic allowance in accordance with section 5 of this Act for the purpose of determining the annual adjustment for any year shall be the percentage (if any) calculated to 2 decimal places, as certified by the Government Statistician and proportionately adjusted (where appropriate) in accordance with either Schedule 2 to the Government Superannuation Fund Amendment Act 1969 or section 2(8) of that Act, as the case may be, by which the all groups index number of the New Zealand Consumer Price Index for the December quarter of the calendar year immediately preceding that which includes the date for the annual adjustment exceeds the basic index number, being—
-  (a) In any case where the date of qualification falls between the 1st day of October and the 31st day of March (both days inclusive), the basic index number for the preceding June quarter:
-  (b) In any case where the date of qualification falls between the 1st day of April and the 30th day of September (both days inclusive), the basic index number for the preceding December quarter.
+(1) The aggregate percentage of increase to be applied to a basic allowance in accordance with section 5 for the purpose of determining the annual adjustment for any year must be the percentage that is calculated under section 5(1A) or (1C) of the Government Superannuation Fund Amendment Act 1969, as the case may be, calculated as if—
+  (a) basic index number were,—
+    (i) in any case where the date of qualification falls between 1 October and 31 March (both days inclusive), the basic index number for the preceding June quarter; and
+    (ii) in any case where the date of qualification falls between 1 April and 30 September (both days inclusive), the basic index number for the preceding December quarter; and
+  (b) initial adjustment under section 7 were an initial adjustment under section 6 of this Act.
+(2) No person is entitled, because of the amendments made to this Act by section 4 of the Government Superannuation Fund Amendment Act 2009, to any increased payment for any retiring allowance, annual allowance, or annuity that was paid or is payable for any period before 1 April 2009.
 
 ### 8 Amount of annual adjustment
 (1) Subject to subsection (2) of this section, the annual amount of the retiring allowance to be paid on and after the date of any annual adjustment until the next adjustment shall be determined by adding to the basic allowance an amount calculated by applying the aggregate percentage of increase to the basic allowance.
