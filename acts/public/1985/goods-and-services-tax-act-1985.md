@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2009-04-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -793,7 +793,7 @@ A supply of services that is chargeable with tax under section 8 must be charged
   (b) a 2-month period:
   (c) a 1-month period, if subsection (3) or (4) applies.
 (2) A person's taxable period may be a 6-month period if
-  (a) the person's taxable supplies in a 12-month period are no more, and are not likely to be more, than $250,000; and
+  (a) the person's taxable supplies in a 12-month period are no more, and are not likely to be more, than $500,000; and
   (b) the person applies to the Commissioner to pay on this basis.
 (3) A person's taxable period may be a 1-month period if the person applies to the Commissioner to pay on that basis.
 (4) A person's taxable period must be a 1-month period if the person's taxable supplies in a 12-month period are more, or are likely to be more, than $24,000,000.
@@ -913,7 +913,7 @@ In addition to the returns specified in sections 16, 17, and 19B, the Commission
     (ii) a local authority specified in an Order in Council made under section 19AB; or
     (iii) A non-profit body; or
   (b) In respect of the registered person—
-    (i) At the end of any month, the total value of the person's taxable supplies in the period of 12 months then ending has not exceeded $1,300,000 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare); or
+    (i) At the end of any month, the total value of the person's taxable supplies in the period of 12 months then ending has not exceeded $2,000,000 (or such greater amount as the Governor-General may, from time to time, by Order in Council declare); or
     (ii) In the period of 12 months beginning on the first day of any month, the total value of the person's taxable supplies is not likely to exceed the amount specified in or under subparagraph (i) of this paragraph; or
   (c) The Commissioner is satisfied that, due to the nature, volume, and value of taxable supplies made by the registered person and the nature of the accounting system employed by the person, it would be appropriate for the person to furnish returns under this Act on a payments basis.
 (2) Where the Commissioner is satisfied (whether by a notification given by the registered person under section 53(1)(cb) of this Act or otherwise) that a registered person who has been directed to account for tax payable on a payments basis has ceased to satisfy the conditions set out in paragraphs (a) to (c) of subsection (1) of this section, the Commissioner shall either—
@@ -1595,7 +1595,7 @@ In any case where, upon the investigation by the Commissioner of the liability o
 
 ### 51 Persons making supplies in course of taxable activity to be registered
 (1) Subject to this Act, every person who, on or after the 1st day of October 1986, carries on any taxable activity and is not registered, becomes liable to be registered—
-  (a) At the end of any month where the total value of supplies made in New Zealand in that month and the 11 months immediately preceding that month in the course of carrying on all taxable activities has exceeded $40,000 (or such larger amount as the Governor-General may, from time to time, by Order in Council declare):
+  (a) At the end of any month where the total value of supplies made in New Zealand in that month and the 11 months immediately preceding that month in the course of carrying on all taxable activities has exceeded $60,000 (or such larger amount as the Governor-General may, from time to time, by Order in Council declare):
     Provided that a person does not become liable to be registered by virtue of this paragraph where the Commissioner is satisfied that the value of those supplies in the period of 12 months beginning on the day after the last day of the period referred to in the said paragraph will not exceed that amount:
   (b) At the commencement of any month where there are reasonable grounds for believing that the total value of the supplies to be made in New Zealand in that month and the 11 months immediately following that month will exceed the amount specified in paragraph (a) of this section:
     Provided that any such person shall not become liable where the Commissioner is satisfied that that value will exceed that amount in that period solely as a consequence of—
