@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act 1969
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-04-01_
 
 > An Act to amend the Government Superannuation Fund Act 1956
 
@@ -36,17 +36,25 @@ Subject to the provisions of this Act, every retiring allowance, annual allowanc
   Provided that the adjustment in the year 1969 shall be made on and after the commencement of this Act.
 
 ### 5 Percentage of annual adjustment
-(1) Except as otherwise provided in this section, the aggregate percentage of increase to be applied to a basic allowance in accordance with section 6 of this Act for the purpose of determining the annual adjustment for any year shall be the percentage (if any) calculated to 2 decimal places, as certified by the Government Statistician and proportionately adjusted (where appropriate) in accordance with Schedule 2 to this Act or subsection (8) of section 2 of this Act (as inserted by section 11 of the Government Superannuation Fund Amendment Act 1976), by which the all groups index number of the New Zealand Consumer Price Index for the December quarter of the calendar year immediately preceding that which includes the date for the annual adjustment exceeds the basic index number, being,—
-  (a) In any case where the second proviso to subsection (2) of section 7 of this Act applies, the said index number for the December quarter of the calendar year immediately preceding the calendar year in which the first day of the beneficiary's qualifying year determined as aforesaid falls:
-  (b) In any other case where the date of qualification determined under Schedule 3 to this Act falls between the 1st day of October and the 31st day of March (both days inclusive), the said index number for the June quarter of the calendar year in which the first day of the beneficiary's qualifying year (as determined under subsection (1) of section 7 of this Act) falls:
-  (c) In any case where neither paragraph (a) nor paragraph (b) of this subsection applies, the index number for the December quarter of the calendar year immediately preceding the calendar year in which the date of qualification (as determined under Schedule 3 to this Act) falls:
-    Provided that, in any case where the said date of qualification is the 31st day of March 1956, the basic index number shall be the annual all groups index number of the New Zealand Consumer Price Index for the calendar year 1955.
-(1A)
-(1B)
-(1C)
+(1) Subsection (1A) (which provides for 100% CPI adjustment) applies to the following 2 classes of persons:
+  (a) any person in respect of whom the initial adjustment under section 7 is required to be made on or after 1 April 2009:
+  (b) any person to whom clause 3 of Schedule 2 applies.
+(1A) If this subsection applies, the aggregate percentage of increase to be applied to a basic allowance in accordance with section 6 for the purpose of determining the annual adjustment for any year must be the percentage (if any) calculated to 2 decimal places, as certified by the Government Statistician, by which the all groups index number of the New Zealand Consumers Price Index for the December quarter of the calendar year immediately preceding that which includes the date for the annual adjustment exceeds the basic index number.
+(1B) Subsection (1C) applies to any person—
+  (a) in respect of whom the initial adjustment under section 7 is required to be made before 1 April 2009; and
+  (b) to whom clause 1 or 2 of Schedule 2 or section 2(8) applies.
+(1C) If this subsection applies, the aggregate percentage of increase to be applied to a basic allowance in accordance with section 6 for the purpose of determining the annual adjustment each year must be calculated in accordance with the following formula:where—P1is the percentage (if any) calculated to 2 decimal places, as certified by the Government Statistician and proportionately adjusted (where appropriate) in accordance with clauses 1 and 2 of Schedule 2 or section 2(8) by which the all groups index number of the New Zealand Consumers Price Index for the December 2007 quarter exceeds the basic index number; andP2is the percentage (if any) calculated to 2 decimal places, as certified by the Government Statistician, by which the all groups index number of the New Zealand Consumers Price Index for the December quarter of the calendar year immediately preceding that which includes the date for the annual adjustment exceeds the all groups index number of the New Zealand Consumers Price Index for the December 2007 quarter.
+(1D) In this section, unless the context otherwise requires,—
+  - **basic index number** means,—
+  (a) in any case where the second proviso to section 7(2) applies, the basic index number for the December quarter of the calendar year immediately preceding the calendar year in which the first day of the beneficiary's qualifying year (as determined under section 7(1)) falls:
+  (b) in any other case where the date of qualification determined under Schedule 3 falls between 1 October and 31 March (both days inclusive), the basic index number for the June quarter of the calendar year in which the first day of the beneficiary's qualifying year (as determined under section 7(1)) falls:
+  (c) in any case where neither paragraph (a) nor (b) applies, the basic index number for the December quarter of the calendar year immediately preceding the calendar year in which the date of qualification (as determined under Schedule 3) falls:
+  (d) in any case where the date of qualification is 31 March 1956, the annual all groups index number of the New Zealand Consumers Price Index for the calendar year 1955, despite anything to the contrary in paragraphs (a) to (c).
+(1E) Subsections (1) to (1D) are subject to subsections (2) to (5).
 (2) No adjustment shall be made for any year when the aggregate percentage of increase (if any) has not increased by at least half of one percent since the last adjustment.
 (3) Notwithstanding the amendments made to this section by section 12 of the Government Superannuation Fund Amendment Act 1976, no increase in consequence of those amendments shall be paid or payable before the 15th day of April 1976.
 (4) No person is entitled, because of the amendments made to this Act by sections 3 and 5 of the Government Superannuation Fund Amendment Act (No 3) 2005, to any increased payment for any retiring allowance, annual allowance, or annuity that was paid or is payable for any period before 1 July 2006.
+(5) No person is entitled, because of the amendments made to this Act by section 3 of the Government Superannuation Fund Amendment Act 2009, to any increased payment for any retiring allowance, annual allowance, or annuity that was paid or is payable for any period before 1 April 2009.
 
 ### 6 Amount of annual adjustment
 (1) For the purposes of this section the term basic allowance means the annual amount of the retiring allowance, annual allowance, or annuity as initially payable under the principal Act, after the effect of any election made under section 48 or section 91 of that Act or under the corresponding provisions of any former Act, but disregarding the effect of any election made under section 40 or section 91B of that Act or under the corresponding provisions of any former Act; and (subject as aforesaid) includes any increases provided under the principal Act and any other Act except this Act, and any cost of living bonus granted and still payable.
