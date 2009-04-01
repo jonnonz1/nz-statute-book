@@ -1,5 +1,5 @@
 # Commerce Act 1986
-_Consolidation as at 2008-10-14_
+_Consolidation as at 2009-04-01_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Commerce Act 1986.
@@ -1194,14 +1194,135 @@ Schedule 5 applies if the Commission wishes to incorporate material by reference
 
 ### Subpart 9 — Electricity lines services
 
-### 54 Minister may seek advice from Commission as to thresholds for imposing controls
-[Repealed]
+### 54 Overview of how subpart applies
+(1) This subpart provides—
+  (a) that all suppliers of electricity lines services are subject to information disclosure regulation; and
+  (b) that suppliers of electricity lines services that are not consumer-owned are also subject to price-quality regulation; and
+  (c) for the transition to the new regime provided for in this Part.
+(2) This section is only a guide.
+
+### 54A Overview of when subpart applies
+(1) This subpart applies on and after 1 April 2009.
+(2) However, sections 54D(3) and 54N apply as soon as the rest of this Part comes into force.
+(3) This section is only a guide.
+
+### 54B Interpretation for subpart
+In this subpart, unless the context otherwise requires,—
+  - **administrative settlement** means a deed entered into by the Commission and a supplier of electricity lines services in respect of a breach of a threshold or a breach of a default price-quality path referred to in section 54J
+  - **consumer-owned** has the meaning given in section 54D
+  - **electricity lines services** has the meaning given in section 54C
+  - **Part 4A** means Part 4A of this Act as in force immediately before its repeal by the Commerce Amendment Act 2008
+  - **threshold** means a threshold set by the Commission under Part 4A for the declaration of control in relation to large electricity lines businesses
+  - **Transpower** means Transpower New Zealand Limited or any subsidiary of, or successor to, that company.
+
+### 54C Meaning of electricity lines services
+(1) In this subpart, unless the context otherwise requires, electricity lines services means the conveyance of electricity by line in New Zealand.
+(2) However, none of the following are electricity lines services:
+  (a) conveying electricity solely for the supplier’s own consumption or for the consumption of the supplier’s associates:
+  (b) conveying electricity only from a generator to the national grid or from the national grid to a generator:
+  (c) conveying electricity (other than via the national grid) only from a generator to a local distribution network or from a local distribution network to a generator:
+  (d) conveying electricity by lines that are not connected, directly or indirectly, to the national grid:
+  (e) conveying electricity only by a line or lines that are mostly in competition with a line or lines operated by another supplier of electricity lines services that is not an associate of the person, provided that the competition is actual competition and not potential competition:
+  (f) conveying electricity if the total circuit length of all of the prescribed voltage electric lines provided by the supplier (or over which electricity is conveyed by the supplier, as the case may be) is less than 25 kilometres:
+  (g) conveying electricity if the total amount of electricity conveyed to consumers by the supplier is less than 20 gigawatt hours per annum:
+  (h) conveying electricity if the total number of consumers to whom the supplier conveys electricity is less than 500.
+(3) The prescribed voltage electric lines, the electricity conveyed, or the number of consumers to whom electricity is conveyed, when measured in relation to a supplier include, for the purposes of subsection (2)(f) to (h), the lines provided by, electricity conveyed by, or number of consumers of, any associate of the supplier.
+(4) In this section, unless the context otherwise requires,—
+  - **associate** has the same meaning as in section 12 of the Electricity Industry Reform Act 1998
+  - **consumer** has the same meaning as in section 2(1) of the Electricity Act 1992
+  - **lines** has the same meaning as in section 2(1) of the Electricity Act 1992
+  - **national grid** has the same meaning as in section 2(1) of the Electricity Act 1992
+  - **prescribed voltage electric line** means a line that is capable of conveying electricity at a voltage equal to or greater than 3.3 kilovolts.
 
 ### 54D Definition of consumer-owned
-(1)
-(2)
+(1) In this subpart, unless the context otherwise requires, a supplier is consumer-owned if it is a supplier that meets the following criteria:
+  (a) all the control rights and all the equity return rights (within the meaning of section 3 of the Electricity Industry Reform Act 1998) in the supplier are held by 1 or more customer trusts, community trusts, or customer co-operatives; and
+  (b) the trustees of each customer trust or community trust, or the directors of each customer co-operative, as the case may be, that is referred to in paragraph (a) are elected solely by the persons who are consumers of the supplier, and at least 90% of the persons who are consumers of the supplier at the time of the election are eligible to vote in those elections; and
+  (c) at least 90% of the persons who are consumers of the supplier as at an income distribution resolution date benefit from that income distribution; and
+  (d) the supplier has fewer than 150 000 ICPs.
+(2) In this section, unless the context otherwise requires,—
+  - **community trust** , in relation to a supplier, is a trust in respect of which—
+    (a) at least 90% of the income beneficiaries comprise persons who are a class or classes identified by reference to their domicile or location or operation within the geographic area or areas of operation of the supplier; and
+    (b) at least 90% of its income distributions are paid to those beneficiaries or for purposes related to that geographic area or areas
+  - **consumer** has the same meaning as in section 2(1) of the Electricity Act 1992, and includes, for the purposes of references to the election of trustees in this section and section 54H, any person who is listed on an electoral roll as a resident of an address that consumes the electricity in question
+  - **customer co-operative** , in relation to a supplier, means a co-operative company (as defined in section 2(1) of the Co-operative Companies Act 1996) that has the characteristics described in the definition of customer trust in this subsection, applied as if references to trusts were to co-operatives, references to income beneficiaries were to shareholders, and all other necessary modifications were made
+  - **customer trust** , in relation to a supplier, means a trust in respect of which—
+    (a) at least 90% of the income beneficiaries comprise persons who are a class or classes identified by reference to any of—
+      (i) the person's connection to the lines of the supplier:
+      (ii) the person's receipt of electricity from the supplier:
+      (iii) the person's liability for payment for supply of electricity from the supplier:
+      (iv) the person's liability for payment for the connection to the lines of the supplier:
+      (v) the person's liability for payment for line services supplied by the supplier; and
+    (b) at least 90% of its income distributions are paid to those beneficiaries
+  - **ICP** means a point of connection on a local or an embedded network at which a retailer supplies electricity to a consumer
+  - **income distribution resolution date** means the date that a supplier, or the trust or co-operative that owns a supplier, as the case may be, resolves to make an income distribution to beneficiaries.
 (3) As soon as practicable after this subsection comes into force, the Minister must publish a notice in the Gazette stating the names of the suppliers that are consumer-owned as at that date.
-(4)
+(4) The notice in subsection (3) is only for information purposes and has no legal effect.
+
+**Imposition of regulation under this Part**
+
+### 54E Electricity lines services declared to be regulated
+Electricity lines services are regulated under this Part.
+
+### 54F All electricity lines services are subject to information disclosure regulation
+All electricity lines services are subject to information disclosure regulation under this Part.
+
+### 54G Certain electricity lines services are also subject to default/customised price-quality regulation
+(1) All electricity lines services (other than those supplied by Transpower) are subject to default/customised price-quality regulation under this Part unless they are exempt.
+(2) All electricity lines services that are supplied by a supplier that is consumer-owned are exempt (unless an Order in Council has been made in respect of the service under section 54H).
+
+### 54H How exempt status can be lost and default/customised price-quality regulation can be applied to consumer-owned suppliers
+(1) Electricity lines services that are supplied by a supplier that is consumer-owned cease to be exempt for the purpose of section 54G (and therefore become subject to default/customised price-quality regulation under this Part) if the Governor-General, by Order in Council, declares that this section applies.
+(2) The Minister may make a recommendation only if the Minister is satisfied that either—
+  (a) the Commission has advised the Minister that a supplier has ceased to be consumer-owned within the meaning of section 54D; or
+  (b) the Commission has recommended to the Minister that the purpose of this Part would be better met if price-quality regulation were imposed on the supplier under this Part.
+(3) The Commission may make a recommendation under subsection (2)(b) only following consideration of a petition made by 1 or more of the following:
+  (a) 15% of the persons who are residential consumers of the supplier as at the date of the petition who are eligible to vote in elections for trustees of the customer trust or community trust, or for directors of the customer co-operative:
+  (b) 20% of the persons who are residential consumers of the supplier as at that date who are not eligible to vote in elections for trustees of the customer trust or community trust, or for directors of the customer co-operative:
+  (c) 25% of the persons who are non-residential consumers (either by number or by consumption of that class of consumer) of the supplier as at that date.
+(4) If exact figures are not available as to the number of persons in a class referred to in subsection (3), the Commission may rely on any estimate that the Commission considers to be a reasonable estimate.
+(5) Petition means a petition to the Commission seeking the application of price-quality regulation to all or any of the electricity lines services of the relevant supplier, and that records the signatures of the signatories.
+(6) The Governor-General may, on the recommendation of the Minister, make an Order in Council in accordance with this section.
+
+### 54I Commission must make section 52P determination specifying how subpart applies
+(1) The section 52P determinations that specify how information disclosure regulation applies to each supplier of electricity lines services must be made as soon as practicable after 1 April 2009.
+(2) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that is subject to that form of regulation as at 1 April 2009 are made as set out in section 54J.
+(3) The section 52P determinations that specify how default/customised price-quality regulation applies to each supplier of electricity lines services that becomes subject to that form of regulation as a result of an Order in Council made under section 54H must be made as soon as practicable after the order comes into force.
+
+### 54J Section 52P determinations setting out default price-quality paths applying from 1 April 2009
+(1) This section applies in respect of suppliers of electricity lines services that are subject to default/customised price-quality regulation on and after 1 April 2009.
+(2) On and after 1 April 2009, the thresholds for large electricity lines businesses that expire on 31 March 2009 are deemed to be section 52P determinations that—
+  (a) apply those thresholds to each supplier as if the thresholds were default price-quality paths; and
+  (b) state that the regulatory period for each supplier ends on 31 March 2010; and
+  (c) comply with sections 52P and 53O; and
+  (d) were notified in the Gazette under section 52P(7)(b) at least 4 months before 1 April 2009.
+(3) However, a breach of a default price-quality path before the close of 31 March 2010 must be dealt with in accordance with section 54N and not under Part 6.
+(4) Nothing in this section affects sections 54N and 54O.
+
+### 54K Section 52P determinations setting out default price-quality paths applying from 1 April 2010
+(1) Before 1 April 2010, the Commission must reset the default price-quality paths for each supplier that apply on and after that date, using the process set out in section 53P.
+(2) The Commission may reset the default price-quality paths even if all or any of the relevant input methodologies have not been determined.
+(3) If an input methodology is published after 1 April 2010 and if, had that methodology applied at the time the default price-quality paths were reset as required by subsection (1), it would have resulted in a materially different path being set, then the Commission may reset the default price-quality paths in accordance with section 53P and may apply claw-back, despite section 53ZB(1).
+(4) However, the Commission may not exercise its powers in subsection (3) later than 9 months after the date of publication of the input methodology.
+(5) Nothing in this section affects sections 54N and 54O.
+
+**Transitional arrangements**
+
+### 54L Administrative settlements made before 1 April 2009 (other than with Transpower)
+(1) This section applies to every administrative settlement accepted by the Commission before 1 April 2009 in respect of a breach of a threshold other than an administrative settlement with Transpower.
+(2) The enactment of the Commerce Amendment Act 2008 does not limit or affect an administrative settlement to which this section applies, except as provided in this section.
+(3) Any breach of the administrative settlement must be dealt with in accordance with the terms of the settlement.
+(4) The expiry of the administrative settlement must be treated as if it were the end of a customised price-quality path, and section 53X applies accordingly (unless the supplier concerned would not otherwise be subject to default/customised price-quality regulation after the expiry of the settlement).
+
+### 54M Administrative settlements with Transpower made before 1 April 2009
+(1) This section applies to any administrative settlement with Transpower that is accepted by the Commission before 1 April 2009 in respect of a breach of a threshold.
+(2) Any breach of an administrative settlement with Transpower may be dealt with under Part 6 as if it were a breach of a customised price-quality path, despite anything in the terms of the settlement.
+(3) Before the expiry of the administrative settlement, the Commission must recommend to the Minister that an Order in Council be made under section 52N declaring that either—
+  (a) Transpower is subject to default/customised price-quality regulation under subpart 6; or
+  (b) Transpower is subject to individual price-quality path regulation under subpart 7.
+(4) Subpart 2, except the provisions relating to inquiries, applies to the process for imposing that regulation and making the section 52P determination.
+(5) If an Order in Council declares that Transpower is subject to default/customised price-quality regulation, the section 52P determination must set the price-quality path that applies for the regulatory period commencing with the date on which the Order in Council comes into force, using the process under section 53P for resetting default price-quality paths.
+(6) The only requirements that may be included in a section 52P determination in respect of the quality standards of Transpower are requirements that give effect to quality standards set by the Electricity Commission.
 
 ### 54N Breaches of thresholds and default price-quality paths before 1 April 2010
 (1) This section applies to—
@@ -1219,6 +1340,70 @@ Schedule 5 applies if the Commission wishes to incorporate material by reference
 (6) Despite anything in Part 4A, any control imposed, or administrative settlement entered into, under Part 4A in accordance with subsection (3) is subject to the following:
   (a) the term of control, or of the settlement, must be not more than 5 years:
   (b) the expiry of the term must be treated as if it were the expiry of a customised price-quality path, and section 53X applies accordingly (unless the supplier concerned would not otherwise be subject to default/customised price-quality regulation after the expiry of the term).
+
+### 54O Breaches of control imposed, or administrative settlements entered into, after 1 April 2009
+(1) If a supplier breaches control imposed, or an administrative settlement entered into, in accordance with section 54N(3), the breach may be dealt with under Part 6 as if it were a breach of a customised price-quality path, despite anything in the terms of the control or settlement.
+(2) To avoid doubt, this section applies whether or not the supplier is, after 1 April 2009, subject to default/customised price-quality regulation.
+
+### 54P Proposals for customised price-quality paths
+(1) A supplier of electricity lines services may not propose a customised price-quality path until a section 52P determination setting out the requirements and criteria for proposals for customised price-quality paths (as required by section 52T(1)(d)) is made.
+(2) However, in accordance with section 53V(2), the Commission may apply claw-back when setting any customised price-quality path.
+
+**Energy efficiency**
+
+### 54Q Energy efficiency
+The Commission must promote incentives, and must avoid imposing disincentives, for suppliers of electricity lines services to invest in energy efficiency and demand side management, and to reduce energy losses, when applying this Part in relation to electricity lines services.
+
+**Jurisdiction issues and interface with Electricity Commission and Electricity Act 1992**
+
+### 54R Transfer of jurisdiction relating to electricity lines services supplied by Transpower
+The Governor-General may, by Order in Council made on the recommendation of the Minister of Energy, transfer to the Electricity Commission the jurisdiction under this Part in respect of all of the electricity lines services supplied by Transpower.
+
+### 54S Effect of transfer of jurisdiction
+(1) If an Order in Council is made under section 54R,—
+  (a) the Electricity Commission, and not the Commerce Commission, has all the powers, duties, and functions under this Part in respect of the electricity lines services in respect of which the jurisdiction has been transferred; and
+  (b) the Electricity Commission must exercise or perform those powers, duties, and functions, and be treated in that exercise or performance, as if it were an independent Crown entity; and
+  (c) the Electricity Commission must apply any input methodologies determined by the Commerce Commission for services regulated under this subpart (except to the extent that the Electricity Commission considers that modifications are required to meet the particular circumstances of Transpower).
+(2) Without limiting subsection (1)(b), if an Order in Council is made under section 54R, the Minister of Energy may not—
+  (a) set objectives and outcomes under section 172ZK of the Electricity Act 1992 on any matter relating to the jurisdiction under this Part; or
+  (b) direct the Electricity Commission to give effect to or have regard to any government policy that relates to the jurisdiction under this Part; or
+  (c) direct the Electricity Commission to amend any provision that is included in its statement of intent that relates to the jurisdiction under this Part; or
+  (d) remove any member of the Electricity Commission for a reason related to the exercise of the jurisdiction under this Part.
+(3) The Order in Council under section 54R may contain any other provisions that are necessary or desirable to ensure that the Electricity Commission exercises or performs the powers, duties, and functions under this Part, and is treated in that exercise or performance, as if it were an independent Crown entity.
+
+### 54T Procedure before jurisdiction order can be made
+The Minister of Energy may make a recommendation for the purpose of section 54R only if—
+  (a) he or she has consulted with Transpower, users of the national grid, and representatives of consumers; and
+  (b) he or she has consulted with the Electricity Commission and the Commerce Commission and has sought a recommendation from each of them; and
+  (c) he or she is satisfied that the transfer of jurisdiction that would occur would result in—
+    (i) the purpose of this Part being achieved more efficiently and effectively; and
+    (ii) the purposes of the Electricity Act 1992, as it applies to Transpower, being achieved more efficiently and effectively; and
+    (iii) lower compliance costs for Transpower.
+
+### 54U Levies during transition in jurisdiction
+(1) The costs of the Commerce Commission during any period after any transfer of jurisdiction under this Part may continue to be met via levy regulations under section 53ZE.
+(2) The costs of the Electricity Commission in respect of jurisdiction that is transferred to it must be met via levy regulations under the Electricity Act 1992.
+
+### 54V Impact of certain decisions made under Electricity Act 1992
+(1) The Electricity Commission must advise the Commerce Commission as soon as practicable after making any recommendation for an electricity governance regulation or rule under subpart 2 of Part 14 of the Electricity Act 1992, or after making any decision under electricity governance regulations or rules, or after issuing any guidelines, that is or are likely to be relevant to the powers, duties, or functions of the Commerce Commission under this Part.
+(2) The Commerce Commission must take into account, before exercising or performing any of its powers, duties, or functions under this Part,—
+  (a) any electricity governance regulation or rule, or decision made under them, that relates to or affects the quality standards or pricing methodologies applicable to Transpower:
+  (b) any electricity governance regulation or rule, or decision made under them, that relates to or affects the pricing methodologies applicable to any other line owner:
+  (c) any guidelines of which it receives advice under subsection (1) that are likely to be relevant to the exercise or performance of the powers, duties, or functions of the Commerce Commission under this Part:
+  (d) the levy payable by Transpower or any other line owner under section 172ZC of the Electricity Act 1992:
+  (e) the continuance of supply obligations imposed by section 62 of the Electricity Act 1992.
+(3) The Commerce Commission must, if asked by the Electricity Commission to do so, reconsider a section 52P determination and, to the extent that the Commerce Commission considers it necessary or desirable to do so, amend the determination, to take account of any matter referred to in subsection (2).
+
+**Savings provisions**
+
+### 54W Savings provision relating to existing information disclosure requirements
+Any information disclosure requirements published by the Commission under subpart 3 of Part 4A before 1 April 2009 continue to apply to each supplier of electricity lines services in respect of every financial year that precedes the first financial year to which a determination made by the Commission under section 54I(1) applies to that supplier.
+
+### 54X Savings provision for existing levy regulations for electricity lines businesses
+(1) Any regulations made pursuant to section 57ZK before the repeal of Part 4A continue to apply to each person who is a large line owner in respect of every financial year that precedes the first financial year to which levy regulations made under section 53ZE apply to that supplier.
+(2) Subsection (1) applies as if—
+  (a) references in those regulations to the Commission's costs included references to the costs of exercising and performing the Commission's powers, duties, and functions under this Part, and enforcing the obligations under this Part, in respect of those persons, and with all other necessary modifications; and
+  (b) terms used in subsection (1) have the same meaning as they do in those regulations.
 
 ### Subpart 10 — Gas pipeline services
 
@@ -1396,246 +1581,87 @@ The section 52P determinations that specify how information disclosure regulatio
 ## Part 4A — Provisions applicable to electricity industry
 
 ### 57D Interpretation
-(1) In this Part, unless the context otherwise requires,—
-  - **consumer** has the same meaning as in section 2(1) of the Electricity Act 1992
-  - **information and disclosed information** includes any statements, certificates, or other information required to be disclosed under subpart 3
-  - **large electricity distributor** means an electricity distributor other than a small lines business
-  - **large electricity lines business** means an electricity lines business other than a small lines business
-  - **large line owner** means a line owner other than a small lines business
-  - **line owner and electricity distributor** have the same meaning as in section 2(1) of the Electricity Act 1992; and include any person that is or was one of those persons for any part of a financial year
-  - **national grid** means the assets used or owned by Transpower for the purpose of conveying electricity
-  - **prescribed voltage electric line** means an electric line that is capable of conveying electricity at a voltage equal to or greater than 3.3 kilovolts
-  - **small lines business** means a person (other than Transpower) if—
-    (a) the total circuit length of the prescribed voltage electric lines owned by the person (or over which electricity is conveyed by the person, as the case may be) is less than 25 kilometres; or
-    (b) the electricity conveyed by the person (or the electricity conveyed over lines owned by the person, as the case may be) is less than 20 gigawatt hours per annum; or
-    (c) the electricity conveyed by the person (or the electricity conveyed over lines owned by the person, as the case may be) is conveyed to less than 500 consumers; or
-    (d) the lines owned by the person (or over which electricity is conveyed by the person, as the case may be) are not connected, directly or indirectly, to the national grid
-  - **Transpower** means Transpower New Zealand Limited or any subsidiary of, or successor to, that company.
-(2) The prescribed voltage electric lines, the electricity conveyed, or the number of consumers to whom electricity is conveyed, when measured in relation to a person (person A) include, for the purposes of subsection (1), the lines owned by, electricity conveyed by, or number of consumers of, any person (person B) who carries on an electricity business in which person A is involved or who is involved in the electricity business carried on by person A.
-(3) In this Part, unless the context otherwise requires,—
-  - **electricity business** means an electricity lines business or an electricity supply business or an unseparated electricity business
-  - **electricity lines business** has the same meaning as in section 57DAA
-  - **electricity supply business** has the same meaning as in section 57DAAB
-  - **involved** has the same meaning as it did in section 7 of the Electricity Industry Reform Act 1998 before the enactment of the Electricity Industry Reform Amendment Act 2008.
-(4) In relation to sections 57DAA and 57DAAB,—
-  (a) limitations, exclusions, or exemptions under those sections may be applied cumulatively; and
-  (b) references to an activity being carried out only or solely for a particular purpose or in a particular way must not be read as excluding reliance on any other limitation, exclusion, or exemption in either of those sections.
+[Repealed]
 
 ### 57DAA Meaning of electricity lines business
-(1) For the purposes of this Part, electricity lines business—
-  (a) means a business that conveys electricity by line in New Zealand; and
-  (b) includes the ownership or operation, directly or indirectly, of lines in New Zealand or any other core assets of an electricity lines business.
-(2) None of the following activities brings a person within subsection (1):
-  (a) conveying, together with its associates (if any), less than 2.5 GWh per annum:
-  (b) conveying electricity solely for its own consumption or for the consumption of its associates:
-  (c) conveying electricity only from a generator to the national grid or from the national grid to a generator:
-  (d) conveying electricity (other than via the national grid) only from a generator to a local distribution network or from a local distribution network to a generator:
-  (e) conveying electricity by lines that are owned or operated by a business that also owns or operates a generator which generates electricity solely for the consumption of a local community, where both those lines and that generator are not connected, directly or indirectly, to the national grid:
-  (f) conveying electricity only by a line or lines that are mostly in competition with a line or lines operated by another electricity lines business that is not an associate of the person, provided that the competition is actual competition and not potential competition:
-  (g) owning or operating, directly or indirectly, lines referred to in any of paragraphs (a) to (f) or any other core assets of an electricity lines business used in connection with those lines.
-(3) Terms used in this definition have the same meanings as they did in the Electricity Industry Reform Act 1998 before the enactment of the Electricity Industry Reform Amendment Act 2008.
+[Repealed]
 
 ### 57DAAB Meaning of electricity supply business
-(1) For the purposes of this Part, electricity supply business—
-  (a) means a business that—
-    (i) sells electricity in New Zealand:
-    (ii) sells financial hedges for risks relating to the price of electricity in New Zealand:
-    (iii) generates electricity in New Zealand:
-    (iv) trades in rights to sell or generate electricity in New Zealand; and
-  (b) includes the ownership or operation, directly or indirectly, of a generator in New Zealand or any other core generation assets; and
-  (c) includes the ownership or operation, directly or indirectly, of any core assets of an electricity retail business, which include—
-    (i) the customer database relating to, and used for the purposes of, an electricity retail or electricity trading business; and
-    (ii) the benefit of a contract to sell electricity; and
-    (iii) the benefit of an undertaking from any other electricity supply business not to compete with the business.
-(2) None of the following activities brings a person within subsection (1):
-  (a) generating or selling less than 2.5 GWh per annum:
-  (b) generating or selling electricity solely for its own consumption or for the consumption of its associates:
-  (c) generating electricity solely for the consumption of a local community, where—
-    (i) the generator is owned or operated by a business that also conveys electricity by line; and
-    (ii) both those lines and that generator are not connected, directly or indirectly, to the national grid:
-  (d) selling electricity that is generated at a generator referred to in paragraph (c) or subsection (3):
-  (e) generating electricity from distributed generation, and selling the electricity generated, if—
-    (i) the generating capacity of the distributed generation is no more, at any one time, than the greater of 5 MW (determined according to nameplate or nameplates) and 2% of the maximum demand, in the immediately preceding financial year, of the lines to which the distributed generation is connected; and
-    (ii) the distributed generation is owned or operated by a business that also conveys electricity by line and that distributed generation is connected to those lines:
-  (f) selling financial transmission rights that hedge risks arising from the effects of losses and constraints on the national grid:
-  (g) owning or operating, directly or indirectly, a generator referred to in any of paragraphs (b) to (f) or subsection (3) or any other core generation assets used in connection with those generators.
-(3) A person may, without coming within subsection (1), generate electricity at a generator or generators that are existing, and capable of generating electricity, as at 23 June 1998, if the total generating capacity (determined according to nameplate or nameplates) of the business, together with its associates (if any), is 5 MW or less.
-(4) Transpower New Zealand Limited, and any subsidiary of or successor to that company, may, without coming within subsection (1), contract with an electricity supply business for that electricity supply business to generate electricity for the purpose of deferring the need for investment by Transpower New Zealand Limited, or any subsidiary of or successor to that company, in the national grid.
-(5) For the purposes of subsection (2),—
-  - **financial transmission right** means a financial instrument issued by the real time co-ordinator of electricity supply and demand in New Zealand that—
-    (a) is funded exclusively by the difference between purchaser payments and generator receipts on the sale and purchase of electricity in the wholesale market that arises from the effect of losses and constraints on the national grid; and
-    (b) entitles the holder to receive, or requires the holder to make, payments in accordance with a formula based on prices for quantities of electricity at 1 or more points on the national grid
-  - **financial year** means a period of 12 months ending on 31 March
-  - **system** means all of the works over which a business conveys or intends to convey electricity.
-(6) Other terms used in this definition have the same meanings as they did in the Electricity Industry Reform Act 1998 before the enactment of the Electricity Industry Reform Amendment Act 2008.
+[Repealed]
 
 ### 57DA Body that exercises jurisdiction under this Part
-(1) The Commerce Commission established under this Act is the body that exercises jurisdiction under this Part in respect of a large electricity lines business unless an Order in Council is in force under section 57DB or section 57DC in respect of that business.
-(2) Jurisdiction under this Part, in this section and sections 57DB to 57DF, includes all of the functions, powers, and duties of the Commerce Commission under this Part and sections 70 to 72.
+[Repealed]
 
 ### 57DB Transfer of jurisdiction in respect of Transpower
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Energy, at any time, transfer to the Electricity Commission the jurisdiction under this Part in respect of Transpower.
-(2) Section 57DD applies before an order can be made.
+[Repealed]
 
 ### 57DC Transfer of jurisdiction relating to other large electricity lines businesses
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Energy, transfer to the Electricity Commission the jurisdiction under this Part in respect of all other large electricity lines businesses.
-(2) The order may be made no earlier than 30 September 2007.
-(3) The order may transfer different parts of that jurisdiction on different dates, provided that the transfer of the jurisdiction to administer thresholds, and to make and enforce declarations of control, may not take effect before the later of—
-  (a) 18 months after the order is made; or
-  (b) 1 April 2009.
-(4) The order may also specify the extent to which, or the purposes for which, references in sections 86, 87, 88, 88A, 91, 92, 93, 94, 98, 99, and 100 to the Commission or the Commerce Commission apply to the Electricity Commission, in so far as they relate to any business to which the order applies.
-(5) Section 57DD applies before an order can be made.
+[Repealed]
 
 ### 57DD Procedure before jurisdiction order can be made
-(1) The Minister of Energy may make a recommendation for the purpose of section 57DB or section 57DC only if—
-  (a) he or she has consulted with representatives of industry participants and representatives of consumers; and
-  (b) he or she has consulted with the Electricity Commission and the Commerce Commission and has sought a recommendation from them; and
-  (c) he or she is satisfied that the transfer of jurisdiction that would occur would result in—
-    (i) more efficient and effective achievement of the purposes of this Part; and
-    (ii) more efficient and effective achievement of the purposes of the Electricity Act 1992 as it applies to some or all large electricity line businesses; and
-    (iii) lower compliance costs for industry participants in the electricity distribution and transmission markets.
-(2) Industry participant has the same meaning as in the Electricity Act 1992.
+[Repealed]
 
 ### 57DE Levies during transition in jurisdiction
-(1) The costs of the Commerce Commission during any period after an order is made to transfer jurisdiction under this Part may continue to be met via levy regulations under section 57ZK or section 74.
-(2) The costs of the Electricity Commission in respect of jurisdiction that is transferred to it must be met via levy regulations under the Electricity Act 1992.
+[Repealed]
 
 ### 57DF Ministerial powers
-The Minister of Energy may not set objectives and outcomes under section 172ZK of the Electricity Act 1992 that amount to a direction to the Electricity Commission on matters relating to its jurisdiction under this Part.
+[Repealed]
 
 ### Subpart 1 — Controlled goods or services
 
 ### 57E Purpose
-The purpose of this subpart is to promote the efficient operation of markets directly related to electricity distribution and transmission services through targeted control for the long-term benefit of consumers by ensuring that suppliers—
-  (a) are limited in their ability to extract excessive profits; and
-  (b) face strong incentives to improve efficiency and provide services at a quality that reflects consumer demands; and
-  (c) share the benefits of efficiency gains with consumers, including through lower prices.
+[Repealed]
 
 ### 57F Commission, not Minister, may declare that goods or services supplied by large electricity lines businesses are controlled
-(1) The Commission may, by notice in the Gazette, declare that all or any goods or services supplied by a large electricity lines business in markets directly related to electricity distribution and transmission services are controlled.
-(2) No Order in Council may be made under Part 4 in respect of goods or services supplied by a large electricity lines business in markets directly related to electricity distribution and transmission services.
-(3) A declaration must be made by notice in the Gazette, with a copy to the electricity lines business.
-(4) The Commission must publish the declaration on the Internet and in any other manner (if any) that the Commission considers appropriate.
+[Repealed]
 
 ### 57G Thresholds for declaration of control
-(1) The Commission must, as soon as practicable after the commencement of this subpart, and may from time to time—
-  (a) consult with participants in the electricity distribution and transmission markets and with consumers as to possible thresholds for the declaration of control in relation to large electricity lines businesses; and
-  (b) set thresholds for the declaration of control in relation to large electricity lines businesses; and
-  (c) publish those thresholds in the Gazette, on the Internet, and in any other manner (if any) that the Commission considers appropriate.
-(2) Thresholds can be expressed in quantitative or qualitative terms.
+[Repealed]
 
 ### 57GA Incorporation by reference of material in thresholds
-(1) The Commission may incorporate by reference in a threshold any written material that deals with technical matters and is too large or impractical to include in, or print as part of, the threshold.
-(2) Material may be incorporated by reference in a threshold—
-  (a) in whole or in part; and
-  (b) with modifications, additions, or variations specified in the threshold.
-(3) Material incorporated by reference in a threshold has legal effect as part of the threshold.
+[Repealed]
 
 ### 57GB Effect of amendments to, or replacement of, material incorporated by reference in thresholds
-An amendment to, or replacement of, material incorporated by reference in a threshold (threshold A) has legal effect as part of threshold A only if a threshold made under section 57G after the making of threshold A states that the particular amendment or replacement has that effect.
+[Repealed]
 
 ### 57GC Amendments to, or replacement of, material incorporated by reference to be of same general character as original material
-A threshold may not be made under section 57G that states that an amendment to, or replacement of, material incorporated by reference has effect as part of threshold A unless the amendment or replacement material is of the same general character as the material amended or replaced.
+[Repealed]
 
 ### 57GD Proof of material incorporated by reference
-(1) A copy of material incorporated by reference in a threshold, including any amendment to, or replacement of, the material, (material) must be—
-  (a) certified as a correct copy of the material by the chairperson; and
-  (b) retained by the chairperson.
-(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the threshold of the material.
+[Repealed]
 
 ### 57GE Effect of expiry of material incorporated by reference
-Material incorporated by reference in a threshold that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the threshold only if a threshold made under section 57G states that the material ceases to have legal effect.
+[Repealed]
 
 ### 57GF Requirement to consult
-(1) This section applies to—
-  (a) a threshold under section 57G that incorporates material by reference:
-  (b) a threshold under section 57G that states that an amendment to, or replacement of, material incorporated by reference in a threshold has legal effect as part of the threshold.
-(2) Before a threshold to which this section applies is made, the chairperson must—
-  (a) make copies of the material proposed to be incorporated by reference or the proposed amendment to, or replacement of, material incorporated by reference (proposed material) available for inspection during working hours for a reasonable period, free of charge, at the head office of the Commission; and
-  (b) make copies of the proposed material available for purchase at a reasonable price at the head office of the Commission; and
-  (c)
-  (d) give notice in the Gazette stating that—
-    (i) the proposed material is available for inspection during working hours free of charge, the place at which it can be inspected, and the period during which it can be inspected; and
-    (ii) copies of the proposed material can be purchased and the place at which they can be purchased; and
-  (e) allow a reasonable opportunity for persons to comment on the proposal to incorporate the proposed material by reference; and
-  (f) consider any comments they make.
-(2A) Before a threshold to which this section applies is made, the Chairman—
-  (a) may make copies of the proposed material available in any other way that he or she considers appropriate in the circumstances (for example, on an Internet website); and
-  (b) must, if paragraph (a) applies, give notice in the Gazette stating that the proposed material is available in other ways and details of where or how it can be accessed or obtained.
-(3) The reference in subsections (2) and (2A) to the proposed material includes, if the material is not in an official New Zealand language, an accurate translation in an official New Zealand language of the material.
-(4) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
+[Repealed]
 
 ### 57GG Access to material incorporated by reference
-(1) The Chairman—
-  (a) must make the material referred to in subsection (2) (material) available for inspection during working hours for a reasonable period, free of charge, at the head office of the Commission; and
-  (b) must make copies of the material available for purchase at a reasonable price at the head office of the Commission; and
-  (c) may make copies of the material available in any other way that the Chairman considers appropriate in the circumstances (for example, on an Internet website); and
-  (d) must give notice in the Gazette stating that—
-    (i) the material is incorporated in the threshold and the date on which the threshold was made; and
-    (ii) the material is available for inspection during working hours, free of charge, at the head office of the Commission and the location of that office; and
-    (iii) copies of the material can be purchased at the head office of the Commission and the location of that office; and
-    (iv) if copies of the material are made available under paragraph (c), the material is available in other ways and details of where or how it can be accessed or obtained.
-(2) The material is—
-  (a) material incorporated by reference in a threshold under section 57GA:
-  (b) any amendment to, or replacement of, that material that is incorporated in the threshold or the material referred to in paragraph (a) with the amendments or replacement material incorporated:
-  (c) if the material referred to in paragraph (a) or paragraph (b) is not in an official New Zealand language, as well as the material itself, an accurate translation in an official New Zealand language of the material.
-(3) A failure to comply with this section does not invalidate regulations that incorporate material by reference.
+[Repealed]
 
 ### 57H Process for making decisions on declaration of control
-The Commission must—
-  (a) assess large electricity lines businesses against the thresholds set under this subpart; and
-  (b) identify any large electricity lines business that breaches the thresholds; and
-  (c) determine whether or not to declare all or any of the goods or services supplied by all or any of the identified large electricity lines businesses to be controlled, taking into account the purpose of this subpart; and
-  (d) in respect of each identified large electricity lines business,—
-    (i) make a control declaration; or
-    (ii) publish the reasons for not making a control declaration in the Gazette, on the Internet, and in any other manner (if any) that the Commission considers appropriate.
+[Repealed]
 
 ### 57I Process before declaration made
-(1) Before making any declaration of control under section 57F, the Commission must—
-  (a) publish its intention to make a declaration and invite interested persons to give their views on the matter; and
-  (b) give a reasonable opportunity to interested persons to give those views; and
-  (c) have regard to those views.
-(2) The notice of intention to declare must—
-  (a) be published in the Gazette and in any other manner (if any) that the Commission considers appropriate; and
-  (b) specify that the matter relates to the making of a declaration; and
-  (c) invite interested persons to give their views on that matter to the Commission and specify the time and manner within which they may do so.
+[Repealed]
 
 ### 57J Effect of declaration of control
-(1) A declaration of control under this subpart has the same effect as if it were an Order in Council made under section 53, and this Act, including (without limitation) sections 55 and 57B and Parts 5, 6, and 7, applies accordingly with necessary modifications.
-(2) Subsection (1) does not limit or override section 62 of the Electricity Act 1992, and is not a reason under section 62(3) of that Act for ceasing to supply line function services.
+[Repealed]
 
 ### 57K Priorities
-(1) The Commission may prioritise its duties under this subpart by (without limitation)—
-  (a) assessing 1 or any (but not necessarily all) of the large electricity lines businesses; or
-  (b) exercising its powers to make a declaration of control in relation to 1 or any (but not necessarily all) of the large electricity lines businesses that are identified as having breached any thresholds set under this subpart
-  (c)
-(2) In so prioritising, the Commission must have regard to the purpose of this subpart and may also have regard to any other factors it considers relevant, including (without limitation) all, any, or none of the following:
-  (a) the size of the business:
-  (b) the recent performance of the business, including prices charged and the extent of any excess profits:
-  (c) the quality of the information provided to the Commission:
-  (d) the extent to which businesses have breached the thresholds set by the Commission.
+[Repealed]
 
 ### 57L Maximum of 5 years for duration of declaration
-(1) Any declaration of control under this subpart expires on the earlier of—
-  (a) the expiry date stated in the declaration; or
-  (b) the expiry of 5 years from the date of the declaration.
-(2) The Commission may make a further declaration of control in relation to the electricity lines business only after considering the purpose of this subpart.
+[Repealed]
 
 ### 57M Authorisations and undertakings
-(1) In exercising its powers under sections 70 to 72 concerning goods and services supplied by a large electricity lines business, the Commission must have regard only to the purpose of this subpart, and not to the matters stated in section 70A, and sections 70 to 72 apply with necessary modifications.
-(2) The Commission may not make an authorisation, or accept an undertaking, in respect of all or any component of the quality standards of Transpower.
+[Repealed]
 
 ### 57MA Impact of certain decisions made under Electricity Act 1992
-(1) The Electricity Commission must advise the Commerce Commission as soon as practicable after making any recommendation for an electricity governance regulation or rule under subpart 2 of Part 14 of the Electricity Act 1992, or after making any decision under electricity governance regulations or rules, that is likely to affect the powers of the Commerce Commission under this Part or sections 70 to 72.
-(2) The Commission must take into account, before exercising any of its powers under this Part or sections 70 to 72,—
-  (a) any electricity governance regulation or rule, or decision made under them, that relates to or affects the quality standards or pricing methodologies applicable to Transpower:
-  (b) any electricity governance regulation or rule, or decision made under them, that relates to or affects the pricing methodologies applicable to any other line owner:
-  (c) the levy payable by Transpower or any other line owner under section 172ZC of the Electricity Act 1992.
-(3) The Commission must, if asked by the Electricity Commission to do so, reconsider an existing authorisation or undertaking and, to the extent that the Commission considers it necessary or desirable to do so, vary the authorisation or accept a revised undertaking, to take account of any matter referred to in subsection (2).
+[Repealed]
 
 ### 57N Commission may lift control
-(1) The Commission may, by notice in the Gazette, revoke any declaration made under this subpart in respect of all or any of the goods or services to which the declaration relates.
-(2) The Commission may make a further declaration of control in relation to the electricity lines business only after considering the purpose of this subpart.
+[Repealed]
 
 ### Subpart 2 — Transpower's pricing methodology
 
@@ -1657,52 +1683,16 @@ The Commission must—
 ### Subpart 3 — Information disclosure
 
 ### 57T Information disclosure
-(1) The purpose of this subpart is to promote the efficient operation of markets directly related to electricity distribution and transmission services by ensuring that large line owners and large electricity distributors make publicly available reliable and timely information about the operation and behaviour of those businesses, so that a wide range of people are informed about such factors as profits, costs, asset values, price (including terms and conditions of supply), quality, security, and reliability of supply of those businesses.
-(2) The Commerce Commission—
-  (a) must require large line owners and large electricity distributors to disclose information concerning their business as a line owner or as an electricity distributor:
-  (b) may require, for any disclosed information, the adoption, in the preparation or compilation of that information, of any methodology that is required by the Commerce Commission:
-  (c) may require any person (person A) that is required to disclose information under this section to include, with or in that information, information concerning the business of a person (person B) who is in a prescribed business relationship with person A, to the extent that person B's business is as a line owner or electricity distributor or as a provider of prescribed related services.
-(3) Information required under subsection (2) may include (without limitation)—
-  (a) financial statements:
-  (b) asset values and valuation reports:
-  (c) prices and pricing methodologies:
-  (d) contracts:
-  (e) transactions with related parties:
-  (f) financial and non-financial performance measures:
-  (g) plans and forecasts:
-  (h) policies and methodologies in these or other areas.
-(4) The Commission must publish requirements made under this section—
-  (a) by publishing a notice in the Gazette that gives a brief description of the nature of the requirement, and where copies of the requirement are available for inspection and purchase; and
-  (b) by making copies of the requirements available for inspection, free of charge,—
-    (i) at the Commission (during ordinary office hours); and
-    (ii) on the Internet in an electronic form that is publicly accessible (at all reasonable times); and
-  (c) by making copies of them available for purchase at a reasonable price.
-(5) The notice in the Gazette need not contain the requirement.
-(6) In this section, unless the context otherwise requires,—
-  - **disclose** means to publish or make publicly available or otherwise supply, as may be required by the Commission
-  - **prescribed** means prescribed by the Commission.
-(7) The Commission may not require the disclosure of the names of the parties to, or the terms and conditions of, contracts made before 1 August 1990 but, if the contract is modified after that date, the Commission may require the disclosure of information as to the modification, the term or condition that has been modified (including its context), and the names (or characteristics) of the parties.
-(8) Requirements under this section may—
-  (a) prescribe the form and manner in which information is to be disclosed:
-  (b) require disclosed information, or information from which disclosed information is derived (in whole or in part), to be certified, in the prescribed form and manner, by persons belonging to any specified class of persons:
-  (c) set rules about when and for how long information must be disclosed:
-  (d) exempt or provide for exemptions (including provide for the revocation of exemptions), on any terms and conditions, of any person or class of persons from all or any of the requirements:
-  (e) provide for transitional provisions:
-  (f) be made in respect of all or any large line owners and large electricity distributors and in respect of all or part of their business.
+[Repealed]
 
 ### 57U Information to be supplied to Commerce Commission
-(1) Every person who is required under section 57T to disclose information must supply to the Commerce Commission—
-  (a) a copy of all information disclosed under that section, which must be supplied within 5 working days after the information is first made so available:
-  (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Commerce Commission for the purpose of monitoring the person's compliance with the requirements issued under that section.
-(2) Every person to whom a request is made under subsection (1)(b) must comply with that request within the period specified by the Commerce Commission.
-(3) The Commission may require all or any statements, reports, agreements, particulars, and information supplied under subsection (1) to be verified by statutory declaration by the persons and in the form required by the Commerce Commission.
+[Repealed]
 
 ### 57V Commerce Commission to publish summaries
-The Commerce Commission must, as soon as practicable after information is publicly disclosed under this subpart, publish a summary and analysis of the publicly disclosed information for the purpose of promoting greater understanding of the relative performance of individual line owners and electricity distributors, and the changes in performance over time.
+[Repealed]
 
 ### 57W Reasonable charge may be imposed for providing copies of statements
-(1) Any person who is required under section 57T to provide copies of statements and information, on request, to the public may charge for providing those copies.
-(2) A charge must be no more than is reasonably required to recover the costs of providing those copies.
+[Repealed]
 
 ### Subpart 4 — Asset valuations
 
@@ -1729,74 +1719,30 @@ The Commerce Commission must, as soon as practicable after information is public
 **Review of valuation methodologies**
 
 ### 57ZD Review of valuation methodologies
-The Commission must carry out a review of valuation methodologies for line business system fixed assets as soon as practicable.
+[Repealed]
 
 ### 57ZE Process when carrying out review of valuation methodologies
-(1) When carrying out its review of valuation methodologies under section 57ZD, the Commission must—
-  (a) publish its intention to carry out a review of valuation methodologies and invite interested persons to give their views on the matter; and
-  (b) give a reasonable opportunity to interested persons to give those views; and
-  (c) have regard to those views.
-(2) The notice of intention to carry out a review must—
-  (a) be published in the Gazette and in any other manner (if any) that the Commission considers appropriate; and
-  (b) specify that the matter relates to the carrying out of a review of valuation methodologies; and
-  (c) invite interested persons to give their views on that matter to the Commission and specify the time and manner in which they may do so.
+[Repealed]
 
 ### Subpart 5 — General provisions
 
 ### 57ZF Powers of Commission
-The Commission has, for the purpose of carrying out its functions under this Part, any powers under this Act that it considers are necessary or desirable for that purpose.
+[Repealed]
 
 ### 57ZG Powers of entry and inspection
-(1) The purpose of this section is to provide for access to line business system fixed assets, and to information about those assets, for the purpose of carrying out activities under subpart 4.
-(2) The Commission may authorise any person or persons to exercise all or any of the powers contained in this section in respect of a specified line owner.
-(3) An authorised person may, at any reasonable time, enter any premises—
-  (a) owned or occupied by the line owner; or
-  (b) on or at which line business system fixed assets, or information relating to those assets, are situated.
-(4) An authorised person must give reasonable notice to the owner or occupier of the premises (at least 5 working days before entry) of his or her intention to enter the premises.
-(5) An authorised person may do anything that is reasonably incidental to activities under subpart 4 (but not inconsistent with the line owner's obligations under the Electricity Act 1992 or the Health and Safety in Employment Act 1992), including—
-  (a) carrying out inspections:
-  (b) conducting examinations, tests, and inquiries, or directing personnel of the line owner to conduct examinations, tests, or inquiries:
-  (c) taking photographs and measurements and making sketches and recordings:
-  (d) requiring the line owner, or its personnel, to produce documents or information relating to the line business system fixed assets and permitting the authorised person to examine and make copies or extracts of the documents and information:
-  (e) requiring the line owner, or its personnel, to make or provide statements, in any form and manner the authorised person specifies, about the condition, or other matters relating to the line business system fixed assets.
-(6) However, this section does not authorise an authorised person to enter a home, except with the consent of an occupier or under a warrant issued under section 98A.
+[Repealed]
 
 ### 57ZH Authorised persons to prove identity
-(1) Every authorised person who enters any place under section 57ZG must,—
-  (a) to the extent practicable, give the line owner not less than 5 working days' notice of the proposed entry; and
-  (b) on first entering and, if requested, at any later time, produce to the person apparently in charge of the place the authorisation under section 57ZG.
-(2) If an authorised person enters any place under the authority of this Act and is unable, despite reasonable efforts, to find any person apparently in charge, the authorised person must before leaving the place leave a written notice stating—
-  (a) the person's identity; and
-  (b) the address of a place where the authorised person may be contacted; and
-  (c) the date and time of entry; and
-  (d) the reasons for entering.
+[Repealed]
 
 ### 57ZI Offence to obstruct authorised persons
-(1) Every large line owner or large electricity distributor commits an offence, and is liable on summary conviction to a fine not exceeding $200,000 who intentionally obstructs, delays, hinders, or deceives, or causes to be obstructed, delayed, hindered, or deceived, an authorised person while the person is lawfully doing anything under section 57ZG that is carried out for the purpose of that section.
-(2) If the Commission has reason to believe that any large line owner or large electricity distributor is committing an offence under this section, the Commission has, for the purpose of carrying out its activities under subpart 4, the powers of search contained in section 98A, and sections 98A to 98G apply accordingly, with necessary modifications.
+[Repealed]
 
 ### 57ZJ Other offences
-(1) Every person commits an offence who—
-  (a) refuses or knowingly fails to comply with any information disclosure requirements made under section 57T; or
-  (b) knowingly makes a false declaration when supplying any statement, report, agreement, particulars, or information under section 57U
-  (c)
-  (d)
-(2) Every person who commits an offence against subsection (1)(a) is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-(3) Every person who commits an offence against subsection (1)(b) is liable on summary conviction to a fine not exceeding $200,000.
+[Repealed]
 
 ### 57ZK Levy of electricity lines businesses
-(1) Every large electricity lines business (or prescribed class of large electricity lines businesses) must pay to the Minister of Energy the levy prescribed by regulations made under subsection (2).
-(2) The Governor-General may, by Order in Council made on the recommendation of the Minister of Energy, make regulations—
-  (a) specifying the amount of levies, or method of calculating or ascertaining the amount of levies, on the basis that the estimated costs of performing the Commission's functions, powers, and duties under this Part, and of collecting the levy money, should be met fully out of levies:
-  (b) including in levies, or providing for inclusion in levies of, any shortfall in recovering those actual costs:
-  (c) refunding, or providing for refunds of, any over-recovery of those actual costs:
-  (d) providing different levies for different classes of large electricity lines businesses:
-  (e) specifying the financial year or part financial year to which those levies apply, and applying to that financial year or part and each subsequent financial year until revoked or replaced:
-  (f) providing for the payment and collection of those levies:
-  (g) for the first financial year to which the levy applies, including in the levy amount or method costs incurred from 13 December 2000 by the Commission in connection with preparing itself to perform, and performing, its functions, powers, and duties under this Part, irrespective of the fact that the regulations are made and come into effect after that date:
-  (h) requiring payment of a levy for a financial year or part financial year, irrespective of the fact that the regulations may be made after that financial year has commenced:
-  (i) exempting or providing for exemptions from, and providing for waivers of, the whole or any part of the levy for any case or class of cases.
-(3) The amount of any unpaid levy is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+[Repealed]
 
 ## Part 5 — Authorisations and clearances
 
@@ -2884,6 +2830,12 @@ This Act is the Commerce Amendment Act 2008.
 (2) The rest of this Act comes into force on the 28th day after the date on which it receives the Royal assent.
 
 ## Part 1 — Amendments to Commerce Act 1986
+
+**Replacement of Parts 4 and 4A**
+
+### 5 Part 4A repealed
+(1) Amendment incorporated in the principal Act
+(2) However, Part 4A may continue to be applied under Part 4 in connection with the breach of thresholds set under Part 4A before its repeal, including when those thresholds apply (as default price-quality paths) after its repeal.
 
 **Amendments to Part 5**
 
