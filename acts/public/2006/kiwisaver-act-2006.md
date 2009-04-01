@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2008-12-16_
+_Consolidation as at 2009-04-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -741,15 +741,18 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 
 ### 64 Contribution rate
 (1) The contribution rate, in relation to an employee and to an employer and to each payment of salary or wages, is—
-  (a) 4% of the employee’s gross salary or wages; or
+  (a) 2% of the employee's gross salary or wages, if––
+    (i) section 60(1)(a), (b) or (c) first applied in respect of the employee on or after 1 April 2009 and the employee has not given his or her employer a notice under subsection (2); or
+    (ii) section 66A applied in respect of the employee immediately before 1 April 2009; or
+  (ab) 4% of the employee's gross salary or wages, if section 60(1)(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
-(2) The employee may change his or her contribution rate from 4% to 8%, or from 8% to 4%, by giving notice to his or her employer of the new rate.
+(2) Despite subsection (1), the employee may change their contribution rate from their current contribution rate described in subsection (1) to another rate in that subsection (new rate) by giving notice to their employer of the new rate.
 (3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
 (4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 3 months apart unless the employer agrees.
 
 ### 65 Contribution rates may be changed by Order in Council
 (1) The Governor-General may, by Order in Council, do either or both of the following:
-  (a) alter either or both of the rates specified in section 64:
+  (a) alter a rate specified in section 64:
   (b) provide for additional rates at which employees may contribute under this subpart, instead of at the rates under that section.
 (2) The Order in Council must state the date from which the rate or rates is to have effect (which must be the first day of a tax year (as defined in section YA 1 of the Income Tax Act 2007)).
 (3) The Order in Council must state how it will apply (for example, whether it applies to the persons to whom this subpart already applies).
@@ -758,14 +761,10 @@ For the purposes of this subpart, a private domestic worker who is an employer u
 (6) The validity of any Order in Council made under this section is not affected by reason only of the repeal of an Act of Parliament validating and confirming it.
 
 ### 66 Obligation to make deductions: general rule
-The employer must make deductions of contributions from each payment of the employee’s gross salary or wages of an amount equal to the contribution rate, unless section 66A applies.
+The employer must make deductions of contributions from each payment of the employee’s gross salary or wages of an amount equal to the contribution rate.
 
 ### 66A Obligation to make deductions: transitional rule
-(1) This section applies to a payment of the employee’s gross salary or wages that is for a pay period in the period starting on 1 April 2008 and finishing on 31 March 2012 if—
-  (a) the employer and the employee agree that they will use the transitional rates in Schedule 4; and
-  (b) the employer contribution for the payment of salary or wages is equal to or greater than the relevant transitional rate for the employer, given in Schedule 4; and
-  (c) the employer contribution vests in the employee, as provided by the trust deed of the KiwiSaver scheme, immediately after it is made.
-(2) The employer must make deductions of contributions from the payment of gross salary or wages equal to the relevant transitional rate for the employee, given by Schedule 4.
+[Repealed]
 
 ### 67 PAYE rules apply to deductions
 (1) The PAYE rules apply to the deduction of contributions under this subpart, as far as applicable and with the necessary modifications, as if—
@@ -890,6 +889,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 ### 84 Interest on money in holding account
 (1) The Commissioner is liable to pay interest in accordance with sections 85 to 91 on any amount of contribution that is received, or treated as received, by the Commissioner in respect of a person under this Act.
 (2) Sections 68(2) and 69 of the Public Finance Act 1989 do not apply to the holding account.
+(3) Despite subsection (1), the Commissioner is not liable to pay interest on any amount described in that subsection, if the relevant person has notified the Commissioner in writing of their wish to not be paid interest.
 
 ### 85 Time when contributions treated as received for interest purposes
 (1) Every amount of contribution that is deducted from salary or wages under this Act is treated, for the purpose of the payment of interest, as received by the Commissioner on the 15th day of the month in which the deduction is made.
@@ -1009,10 +1009,10 @@ If an employee opts out after an employer contribution is paid to the Commission
 (1) The purpose of this section is to ensure that, for contractual arrangements of parties to an employment relationship (as defined in section 4(2) of the Employment Relations Act 2000), compulsory contributions are paid in addition to an employee’s gross salary or wages described in section 101D(3).
 (2) The contractual arrangements of parties to an employment relationship must not have the effect of defeating the purpose of this section described in subsection (1).
 (3) A contractual term or condition has no effect to the extent to which it is contrary to the purpose of this section described in subsection (1).
-(4) However, on and after 13 December 2007, parties to an employment relationship are free to agree contractual terms and conditions that disregard the purpose of this section described in subsection (1), and, to the extent of such agreement, subsections (1) to (3) do not apply, unless, in respect of the employer and employee,––
+(4) However, on and after 13 December 2007, parties to an employment relationship are free to agree contractual terms and conditions that disregard the purpose of this section described in subsection (1), and, to the extent of such agreement, subsections (1) to (3) do not apply, unless, in respect of the employer and employee,—
   (a) section 60(1)(a), (b) or (c) first applies on or after the day of assent for the Taxation (Urgent Measures and Annual Rates) Act 2008; and
   (b) the contractual terms and conditions do not account for the amount of compulsory contributions the employer is required to pay.
-(4A) In the circumstances described in subsection (4)(a) and (b), despite subsection (4),––
+(4A) In the circumstances described in subsection (4)(a) and (b), despite subsection (4),—
   (a) compulsory contributions must be paid in addition to an employee’s gross salary or wages described in section 101D(3), in accordance with the purpose of this section described in subsection (1); and
   (b) subsections (2) and (3) apply.
 (5) For the avoidance of doubt,—
@@ -1033,9 +1033,9 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (3) Payment of gross salary or wages is the amount of a payment of gross salary or wages from which the employer deducts or is required to deduct an amount for the employee’s KiwiSaver scheme or complying superannuation fund.
 (4) CEC rate is, for the payment of gross salary or wages,—
   (a) 1%, if the payment of gross salary or wages is made for a pay period that is in the year starting on 1 April 2008:
-  (b) 2%, if the payment of gross salary or wages is made for a pay period that is in the year starting on 1 April 2009:
-  (c) 3%, if the payment of gross salary or wages is made for a pay period that is in the year starting on 1 April 2010:
-  (d) 4%, if the payment of gross salary or wages is made for a pay period that is in a year starting on or after 1 April 2011.
+  (b) 2%, if the payment of gross salary or wages is made for a pay period that is in a year starting on or after 1 April 2009.
+  (c)
+  (d)
 (5) Other contributions is the total of amounts that the employer pays or credits in relation to the employee for the period to which the payment of gross salary or wages relates, to the extent to which the amounts are—
   (a) employer contributions made in the absence of this section:
   (b) employer’s superannuation contributions made to, or amounts credited from within, (collectively, the contributions) a registered superannuation scheme (the contributions scheme), and—
@@ -1085,6 +1085,37 @@ For the purposes of section 101A(1), the requirements are that the employee—
   (e) the pay periods and relevant amounts for the employees to whom the failure to pay relates; and
   (f) other information required by the Government Actuary.
 (5) If the employer pays an amount of compulsory employer contribution remedying a failure to pay that was notified to the Government Actuary under subsection (3), the provider must immediately give a notice to the Government Actuary showing relevant details of the employer’s payment.
+
+### 101I Failure to pay: Government Actuary's duties
+(1) If the Government Actuary receives a notice under section 101H(3), the Government Actuary must decide the amount of compulsory employer contribution that an employer to which the notice relates has failed to pay for the relevant calendar months.
+(2) The Government Actuary may use any power (with necessary modifications for complying superannuation funds) that the Government Actuary has in respect of KiwiSaver schemes in the performance of the duty to decide imposed by subsection (1).
+(3) As soon as practicable, the Government Actuary must give a notice to the employer showing the information described in subsection (4).
+(4) A notice under subsection (3) must—
+  (a) require the payment of the amount (the liable amount) that the Government Actuary has decided, under subsection (1), that an employer has failed to pay to the provider; and
+  (b) specify the relevant calendar months and related amounts; and
+  (c) specify that the employer must pay the liable amount within 28 days after the notice is given; and
+  (d) specify the employer's name, address and tax file number (if known); and
+  (e) specify the relevant employees to whom the failure to pay relates, their tax file numbers, and addresses; and
+  (f) specify the pay periods and relevant amounts for the employees to whom the failure to pay relates; and
+  (g) inform the employer that failure to comply with the notice will result in the Commissioner receiving notice of the failure to comply; and
+  (h) show other information required by the Commissioner.
+(5) If the employer does not pay the liable amount in the period specified in subsection (4)(c) and the employer has not objected to the Government Actuary's decision under subsection (1) within the time allowed under section 186, the Government Actuary must immediately—
+  (a) give to the Commissioner a notice showing the information described in subsection (6); and
+  (b) send to the provider a copy of the notice.
+(6) A notice under subsection (5) must—
+  (a) state that the employer has failed to comply with notices under section 101H(3) and subsection (3); and
+  (b) show the information described in subsection (4); and
+  (c) specify the extent to which an amount of compulsory employer contributions remains unpaid for the liable amount; and
+  (d) specify the relevant employees to whom the unpaid amounts relate, their tax file numbers, and addresses; and
+  (e) specify the pay periods and relevant amounts for the employees to whom the unpaid amounts relate.
+(7) If the Government Actuary makes a decision, upon an employer's objection to the Government Actuary's decision under subsection (1), and the decision is that the employer to which the notice under section 101H(3) relates has failed to pay an amount of compulsory employer contribution for the relevant calendar months, the employer is treated as having not objected, and the Government Actuary must immediately give the Commissioner the notice described in subsection (5).
+
+### 101J Failure to pay: Commissioner
+(1) If the Commissioner receives a notice under section 101I(5), the amount of compulsory employer contributions unpaid for the liable amount, specified in that notice, is treated as an amount due and payable by the employer to the Commissioner on the 20th working day after the Commissioner receives the notice under section 101I(5).
+(2) The Commissioner must send the employer a notice of the amount due and payable, and the due date, specified in subsection (1).
+
+### 101K Recovered amounts
+An amount of compulsory employer contribution for an employee's complying superannuation fund that is received by the Government Actuary or the Commissioner by virtue of this subpart must be paid by them to the relevant provider. The relevant amount of compulsory employer contributions remaining unpaid for the relevant liable amount is consequentially reduced.
 
 ### Subpart 4 — Contributions holiday
 
@@ -2143,12 +2174,9 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
 
 **Penalties**
 
-### 214 Application of sections 215 and 216
-(1) Sections 215 and 216 set out penalties that apply, in addition to the provisions of the Tax Administration Act 1994, if there is a failure to provide information or withhold contributions under Part 2 or 3.
-(2) However, if sections 215 and 216 apply, the following provisions of the Tax Administration Act 1994 do not apply:
-  (a) Part 7 (interest):
-  (b) section 139B (late payment penalty):
-  (c) sections 141 to 141L (tax shortfalls).
+### 214 Application of section 215
+(1) Section 215 set out penalties that apply, in addition to the provisions of the Tax Administration Act 1994, if there is a failure to provide information under Part 2 or 3.
+(2)
 
 ### 215 Penalty for employer to fail to provide information
 (1) Every employer is liable for the penalty in subsection (2) who fails to give information as required by Part 2 or 3.
@@ -2160,23 +2188,13 @@ Part 8A of the Tax Administration Act 1994 applies to every notice of a disputab
     (i) $50 if the employer is a small employer; and
     (ii) $250 if the employer is not a small employer.
 (3) However, an employer is not liable for more than 1 penalty per month.
-(4) In this section and section 216, a person is a small employer—
+(4) In this section, a person is a small employer—
   (a) if the person was an employer in the preceding tax year in respect of whom gross tax deductions or withholdings payable and ESCT payable in that preceding tax year were, in total, less than $100,000; or
   (b) if the person was not an employer in the preceding year, until the time when gross tax deductions payable and ESCT payable in the current tax year, in total, exceed $100,000.
 (5) The penalty is due and payable on the day on which the next tax deduction required to be made by the employer under the PAYE rules is due to be paid to the Commissioner after the end of the PAYE period in which the failure occurred.
 
 ### 216 Penalty for employer to fail or incorrectly make deductions, or to short pay compulsory employer contributions
-(1) Every employer is liable for the penalty in subsection (2) who—
-  (a) fails to deduct a contribution from a payment of salary or wages as required by this Act; or
-  (b) deducts an amount of contribution from a payment of salary or wages that is not the correct amount required by this Act; or
-  (c) has an amount (a short paid amount) of short payment under subpart 3 of Part 3 that relates to a compulsory employer contribution.
-(2) The penalty is—
-  (a) nil if the Commissioner has not given notice to the employer, within the preceding 12 months, that a penalty may be imposed on the employer if the employer does not correctly make deductions in accordance with this Act or if they have short paid amounts; and
-  (b) in any other case,—
-    (i) $50 if the employer is a small employer; and
-    (ii) $250 if the employer is not a small employer.
-(3) However, an employer is not liable for more than 1 penalty per month.
-(4) The penalty is due and payable on the day on which the next tax deduction required to be made by the employer under the PAYE rules is due to be paid to the Commissioner after the end of the PAYE period in which the failure to deduct, incorrect deduction, or short paid amount occurred.
+[Repealed]
 
 **Giving of notices**
 
@@ -2506,9 +2524,3 @@ Despite rules 4 to 14, the amount of the Crown contribution arising from a tax c
 ## Schedule 3 — Amendments to other Acts
 
 ## Schedule 4 — Transitional rates for employers and employees
-
-| Years in which pay period for payment of the employee’s gross salary or wages falls | Rate for employer (%) | Rate for employee (%) |
-| --- | --- | --- |
-| 2 years starting on 1 April 2008 | 2 | 2 |
-| 1 year starting on 1 April 2010 | 3 | 3 |
-| 1 year starting on 1 April 2011 | 4 | 4 |
