@@ -1,5 +1,5 @@
 # Income Tax Act 2004
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2009-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2004.
@@ -37357,7 +37357,7 @@ This order comes into force on 1 April 2008.
 
 ### 3 Increase of amount of family tax credit
 (1) Amendment incorporated in the principal Act
-(2) Subclause (1) applies in respect of the 2008-09 and later tax years.
+(2) Subclause (1) applies in respect of the 2008-09 tax year.
 
 ### 1 Title
 This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
