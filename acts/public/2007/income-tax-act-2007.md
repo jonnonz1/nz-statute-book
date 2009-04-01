@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2008-12-15_
+_Consolidation as at 2009-04-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -5971,6 +5971,16 @@ When this section applies
 Treated as disposal and reacquisition
 (2) The person is treated as having disposed of the pre-1990 forest land unit to an unrelated person and as having then reacquired it, in each case, immediately before the surrender and for an amount equal to the unit’s market value at the time.
 
+### DB 62 Deduction for legal expenses
+When this section applies
+(1) This section applies to a person when their total legal expenses for an income year is equal to or less than $10,000.
+Deduction
+(2) The person is allowed a deduction for the legal expenses.
+Definition
+(3) For the purposes of this section, legal expenses means fees for legal services (as defined in the Lawyers and Conveyancers Act 2006) provided by a person who holds a practising certificate issued by the New Zealand Law Society or an Australian equivalent.
+Link with subpart DA
+(4) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
 ### Subpart DC — Employee or contractor expenditure
 
 ### DC 1 Lump sum payments on retirement
@@ -6077,7 +6087,7 @@ Link with subpart DA
 Deduction
 (1) An employer is allowed a deduction for a contribution to an employees’ superannuation scheme.
 Exclusion
-(1B) The employer is denied a deduction for a contribution, to the extent of the amount of a tax credit under section MK 9 (Eligibility requirements) for the payment period to which the contribution relates.
+(1B)
 Timing of deduction
 (2) The deduction is allocated to the income year in which the employer makes the contribution.
 Relationship with section EJ 21
@@ -8767,11 +8777,11 @@ Records
 
 **Low value trading stock**
 
-### EB 23 Valuing closing stock under $5,000
+### EB 23 Valuing closing stock under $10,000
 When this section applies
 (1) This section applies when a person, including a low-turnover trader,—
   (a) has a turnover of $1,300,000 or less in an income year; and
-  (b) reasonably estimates that the value of their closing stock for the income year is less than $5,000.
+  (b) reasonably estimates that the value of their closing stock for the income year is less than $10,000.
 Closing value
 (2) The person may use the opening value of their trading stock as the value of their closing stock for the income year.
 
@@ -12545,9 +12555,7 @@ A party to a financial arrangement must use 1 of the spreading methods to calcul
 Base price adjustment year
 (1) A person does not use any of the spreading methods for a financial arrangement in the income year in which section EW 29 requires them to calculate a base price adjustment for it.
 Trustee of personal injury compensation trust
-(2) A trustee who holds a financial arrangement in trust to manage compensation paid for personal injury under the Injury Prevention, Rehabilitation, and Compensation Act 2001, the Accident Insurance Act 1998, any of the former Acts, as defined in section 13 of the Accident Insurance Act 1998, the Workers Compensation Act 1956, or a court order does not use any of the spreading methods for the financial arrangement if—
-  (a) the trustee is a cash basis person; or
-  (b) the trustee would be a cash basis person if the trustee were a natural person.
+(2) A trustee who holds a financial arrangement in trust to manage compensation paid for personal injury under the Injury Prevention, Rehabilitation, and Compensation Act 2001, the Accident Insurance Act 1988, any of the former Acts as defined in section 13 of the Accident Insurance Act 1998, the Workers' Compensation Act 1956, or a court order does not use any of the spreading methods for the financial arrangement if the trustee is a cash basis person.
 Cash basis person
 (3) A cash basis person is not required to use any of the spreading methods, but may choose to do so under section EW 61.
 
@@ -12714,7 +12722,7 @@ Who may use alternative
 ### EW 17 Straight-line method
 Who may use straight-line method
 (1) A person who is a party to a financial arrangement may use the straight-line method if—
-  (a) the total value of all the financial arrangements to which the person is a party in an income year has been $1,500,000 or less on every day in the income year; and
+  (a) the total value of all the financial arrangements to which the person is a party in an income year has been $1,850,000 or less on every day in the income year; and
   (b) the person complies with section EW 25(1); and
   (c) the person is not required to use a method under section EW 15B.
 Calculation of total value of financial arrangements
@@ -12812,8 +12820,8 @@ Straight-line method for all financial arrangements
   (b) for which the person can use it.
 Straight-line method for every income year of term
 (2) A person who starts to use the straight-line method for a financial arrangement must use it over the arrangement’s remaining term until section EW 29 requires them to calculate a base price adjustment for the arrangement, unless section EW 26(1) applies.
-Total value may be over $1,500,000
-(3) Subsection (2) applies even if the total value of all the financial arrangements to which the person is a party is over $1,500,000 at any time in the arrangement’s remaining term.
+Total value may be over $1,850,000
+(3) Subsection (2) applies even if the total value of all the financial arrangements to which the person is a party is over $1,850,000 at any time in the arrangement’s remaining term.
 Market valuation method
 (4) A person who starts to use a market valuation method for a financial arrangement must use it over the arrangement’s remaining term until section EW 29 requires them to calculate a base price adjustment for the arrangement, unless section EW 26(1) applies.
 Increase in specified sum
@@ -13345,11 +13353,13 @@ Second step
 
 ### EW 54 Meaning of cash basis person
 Who is cash basis person
-(1) A cash basis person is—
-  (a) a natural person who meets the criteria in section EW 56:
-  (b) a trustee of a deceased’s estate, whether or not a natural person, in the circumstances described in section EW 60.
-Natural persons excluded by Commissioner
-(2) A natural person may be excluded under section EW 59 from being a cash basis person for a class of financial arrangements.
+(1) A person is a cash basis person for an income year if—
+  (a) 1 of the following applies in the person's case for the income year:
+    (i) section EW 57(1); or
+    (ii) section EW 57(2); and
+  (b) section EW 57(3) applies in the person's case for the income year.
+Persons excluded by Commissioner
+(2) A person may be excluded under section EW 59 from being a cash basis person for a class of financial arrangements.
 
 ### EW 55 Effect of being cash basis person
 Use of spreading method
@@ -13358,28 +13368,18 @@ Calculation of base price adjustment
 (2) The fact that a cash basis person does not use any of the spreading methods for the financial arrangement does not excuse them from the requirement to calculate a base price adjustment when any of section EW 29(1) to (12) applies to them.
 
 ### EW 56 Natural person
-Criteria for natural person as cash basis person
-(1) A natural person is a cash basis person for an income year if—
-  (a) 1 of the following applies in the person’s case for the income year:
-    (i) section EW 57(1); or
-    (ii) section EW 57(2); and
-  (b) section EW 57(3) applies in the person’s case for the income year; and
-  (c) the person is not a trustee.
-Financial arrangements, income, and expenditure relevant to application of criteria
-(2) The calculations required by section EW 57(1) to (3) are done for the financial arrangements, or the income and expenditure, described in section EW 58.
-Increase in specified sums
-(3) The Governor-General may make an Order in Council increasing a sum specified in any of section EW 57(1) to (3).
+[Repealed]
 
 ### EW 57 Thresholds
 Income and expenditure threshold
-(1) For the purposes of section EW 56(1)(a)(i), this subsection applies if the absolute value of the person’s income and expenditure in the income year under all financial arrangements to which the person is a party is $100,000 or less.
+(1) For the purposes of section EW 54(1)(a)(i), this subsection applies if the absolute value of the person’s income and expenditure in the income year under all financial arrangements to which the person is a party is $100,000 or less.
 Absolute value threshold
-(2) For the purposes of section EW 56(1)(a)(ii), this subsection applies if, on every day in the income year, the absolute value of all financial arrangements to which the person is a party added together is $1,000,000 or less. The value of each arrangement is,—
+(2) For the purposes of section EW 54(1)(a)(ii), this subsection applies if, on every day in the income year, the absolute value of all financial arrangements to which the person is a party added together is $1,000,000 or less. The value of each arrangement is,—
   (a) for a fixed principal financial arrangement, its face value:
   (b) for a variable principal debt instrument, the amount owing by or to the person under the financial arrangement:
   (c) for a financial arrangement to which the old financial arrangements rules apply, the value determined under those rules.
 Deferral threshold
-(3) For the purposes of section EW 56(1)(b), this subsection applies if the result of applying the formula in subsection (4) to each financial arrangement to which the person is a party at the end of the income year and adding the outcomes together is $40,000 or less.
+(3) For the purposes of section EW 54(1)(b), this subsection applies if the result of applying the formula in subsection (4) to each financial arrangement to which the person is a party at the end of the income year and adding the outcomes together is $40,000 or less.
 Formula
 (4) The formula is—(accrual income - cash basis income) + (cash basis expenditure - accrual expenditure).
 Definition of items in formula
@@ -13398,31 +13398,35 @@ Accrual expenditure
   (a) the yield to maturity method, whether or not the person may use it, or has chosen to use it, for their financial arrangement; or
   (b) the straight-line method, whether or not the person may use it, or has chosen to use it, for their financial arrangement; or
   (c) an alternative method approved by the Commissioner.
+Increase in specified sums
+(10) The Governor-General may make an Order in Council increasing a sum specified in any of subsections (1) to (3).
 
 ### EW 58 Financial arrangements, income, and expenditure relevant to criteria
 Inclusions in and exclusions from thresholds
-(1) The calculations required by section EW 57(1) to (3) are done for every financial arrangement to which the natural person is a party or, as the relevant subsection requires, to income and expenditure under such an arrangement, whether the financial arrangements rules or the old financial arrangements rules apply to the arrangement. Two qualifications are—
+(1) The calculations required by section EW 57(1) to (3) are done for every financial arrangement to which the person is a party or, as the relevant subsection requires, to income and expenditure under such an arrangement, whether the financial arrangements rules or the old financial arrangements rules apply to the arrangement. Two qualifications are—
   (a) the calculations include an arrangement, or income and expenditure, to which subsection (2) or (3) applies only to the extent of the person’s interest in it, as described in each subsection; and
   (b) the calculations exclude the value of an arrangement, and income and expenditure, in which the person has the interest described in subsection (4) or (5).
 Natural person who is partner
 (2)
-Natural person who is beneficiary of bare trust
-(3) This subsection applies when the trustee of a bare trust is a party to a financial arrangement. A natural person who is a beneficiary of the bare trust—
+Beneficiary of bare trust
+(3) This subsection applies when the trustee of a bare trust is a party to a financial arrangement. A person who is a beneficiary of the bare trust—
   (a) is treated as a party to the arrangement to the extent of the beneficiary’s share of the beneficial interest in the arrangement; and
   (b) is treated as deriving income or incurring expenditure under the arrangement to the extent of the beneficiary’s share of the beneficial interest in the arrangement.
-Natural person who is beneficiary of trust other than bare trust
-(4) This subsection applies when a natural person is a beneficiary of a trust, other than a bare trust, whose trustee is a party to a financial arrangement. The following are excluded from the calculations required by section EW 57(1) to (3):
+Beneficiary of trust other than bare trust
+(4) This subsection applies when a person is a beneficiary of a trust, other than a bare trust, whose trustee is a party to a financial arrangement. The following are excluded from the calculations required by section EW 57(1) to (3):
   (a) the value of the arrangement, if it produces trustee income or beneficiary income under the trust rules; and
   (b) income under the arrangement that is trustee income or beneficiary income under the trust rules.
-Natural person who is trustee
-(5) This subsection applies when a natural person is a party to a financial arrangement as a trustee. The following are excluded from the calculations required by section EW 57(1) to (3):
+Trustee
+(5) This subsection applies when a person is a party to a financial arrangement as a trustee. The following are excluded from the calculations required by section EW 57(1) to (3):
   (a) the value of the arrangement, if it produces trustee income or beneficiary income under the trust rules; and
   (b) income under the arrangement that is trustee income or beneficiary income under the trust rules; and
   (c) the value of the arrangement, if expenditure is incurred under it; and
   (d) expenditure incurred under the arrangement.
 
 ### EW 59 Exclusion by Commissioner
-The Commissioner may treat a natural person who would otherwise be a cash basis person for a class of financial arrangements as not being a cash basis person for the class if that or any other person has structured and promoted the class to defer an income tax liability.
+The Commissioner may treat a person who would otherwise be a cash basis person for a class of financial arrangements as not being a cash basis person for the class if—
+  (a) the person, or any other person, has structured and promoted the class to defer an income tax liability:
+  (b) the parties to a financial arrangement are associated, and the person's calculation of income and expenditure under the financial arrangement differs from that used by the associated person.
 
 ### EW 60 Trustee of deceased’s estate
 When trustee of estate is cash basis person
@@ -13430,11 +13434,11 @@ When trustee of estate is cash basis person
 Circumstances
 (2) The circumstances are that, at the time of the deceased’s death,—
   (a) the deceased is a cash basis person; and
-  (b) the financial arrangements in the deceased’s estate meet the requirements of section EW 56(1)(a) and (b).
+  (b) the financial arrangements in the deceased’s estate meet the requirements of section EW 54(1)(a) and (b).
 Period
-(3) The period is the income year in which the deceased dies and in each of the 4 following income years. However, if at any time in those 5 income years the financial arrangements in the deceased’s estate cease to meet the requirements of section EW 56(1)(a) and (b), the trustee ceases to be a cash basis person for financial arrangements in the estate and cannot again be a cash basis person for them.
+(3) The period is the income year in which the deceased dies and in each of the 4 following income years. However, if at any time in those 5 income years the financial arrangements in the deceased’s estate cease to meet the requirements of section EW 54(1)(a) and (b), the trustee ceases to be a cash basis person for financial arrangements in the estate and cannot again be a cash basis person for them.
 Modifications to be read in
-(4) For the purposes of this section, sections EW 54 to EW 56 are read with the modifications necessary to make them refer to the case of a deceased estate.
+(4) For the purposes of this section, sections EW 54 and EW 55 are read with the modifications necessary to make them refer to the case of a deceased estate.
 
 ### EW 61 Election to use spreading method
 Election of spreading method
@@ -24206,10 +24210,10 @@ Exclusion
 (2) Despite subsection (1), if the person has a tax credit under section LC 4, they are not allowed a credit under this section.
 Amount of credit
 (3) The person has a tax credit equal to an amount that is the lesser of—
-  (a) $321.75; and
+  (a) $292.50; and
   (b) an amount calculated using the formula in subsection (4).
 Formula
-(4) The formula referred to in subsection (3)(b) is—(net income resident passive − income) ×13.75100.
+(4) The formula referred to in subsection (3)(b) is—(net income resident passive − income) ×12.5100.
 Definition of items in formula
 (5) In the formula,—
   (a) net income is the person’s net income for the tax year:
@@ -24374,6 +24378,34 @@ Fairness of determination
   (a) the kind of assessable income derived by the person; and
   (b) the circumstances in which the assessable income is derived; and
   (c) any other matters the Commissioner considers relevant to the intended meaning of section LC 4, as applicable.
+
+**Tax credits for independent earners**
+
+### LC 13 Tax credits for independent earners
+When this section applies
+(1) This section applies for a natural person, for a period (the credit period) in a tax year when the person––
+  (a) is not receiving an income-tested benefit; and
+  (b) is not receiving a veteran's pension; and
+  (c) is not receiving New Zealand superannuation; and
+  (d) is not entitled to a WFF tax credit; and
+  (e) is not the spouse, civil union partner, or de facto partner of a person who is entitled to a WFF tax credit; and
+  (f) is not receiving an amount that is—
+    (i) granted outside New Zealand; and
+    (ii) in the nature of, and paid for similar purposes as, a benefit, pension, superannuation payment, or tax credit described in paragraphs (a) to (d); and
+  (g) is not the spouse, civil union partner, or de facto partner of a person who receives an amount that is—
+    (i) granted outside New Zealand; and
+    (ii) in the nature of, and paid for similar purposes as, a tax credit described in paragraph (d); and
+  (h) is resident in New Zealand.
+Amount of credit
+(2) For the credit period, the person has a tax credit equal to the positive amount calculated using the formula––(person's credit − full year abatement) × credit period months / 12.
+Definition of items in formula
+(3) The items in the formula are defined in subsections (4) to (6).
+Person's credit
+(4) Person's credit is, if the person's net income for the tax year is equal to or more than $24,000, $520. Otherwise it is zero.
+Full year abatement
+(5) Full year abatement is, if the person's net income is greater than $44,000 for the tax year, 13 cents for each complete dollar of the excess.
+Credit period months
+(6) Credit period months is the number of whole months in the credit period.
 
 ### Subpart LD — Tax credits for charitable or other public benefit gifts
 
@@ -24646,114 +24678,22 @@ If a person who has a tax credit under section LF 1 does not meet the evidential
 ### Subpart LH — Tax credits for expenditure on research and development
 
 ### LH 1 Who this subpart applies to
-Persons included
-(1) This subpart provides for a tax credit for eligible expenditure on research and development activities incurred by a person who—
-  (a) carries on a business in New Zealand as a resident or through a fixed establishment in New Zealand:
-  (b) is an industry research co-operative.
-Persons excluded
-(2) Subsection (1) does not apply to—
-  (a) a person who is a Crown Research Institute, a tertiary institution, or a district health board:
-  (b) a person associated with an entity referred to in paragraph (a):
-  (c) a person controlled by 1 or more of the entities referred to in paragraph (a) or (b).
+[Repealed]
 
 ### LH 2 Tax credits relating to expenditure on research and development
-When this section applies
-(1) This section applies when—
-  (a) a person to whom section LH 1(1) applies meets the requirements of section LH 3 for an income year or for a period in an income year; and
-  (b) the income year is the 2008–09 income year; and
-  (c) the person incurs in the income year or period an amount of expenditure or depreciation loss on research and development activities that—
-    (i) meets the requirements of subsection (3); and
-    (ii) is an amount related to research and development activities performed on their own behalf and not on behalf of another person; and
-  (d) the person meets the requirements of section 68D or 68E of the Tax Administration Act 1994.
-Tax credit
-(2) The person has a tax credit for the tax year corresponding to the income year calculated under section LH 4.
-Minimum requirements for expenditure
-(3) For the purposes of this subpart, the eligible expenditure referred to in section LH 4 incurred by the person in the income year must be an amount—
-  (a) of $20,000 or more, or the part-year equivalent amount calculated under subsection (4):
-  (b) paid under an agreement between the person (person A) and another person who, at the time of making the agreement, is a listed research provider who is not associated with person A.
-Part-year calculations
-(4) For the purposes of subsection (3)(a), if the person meets the requirements of section LH 1 for only part of an income year, the minimum amount is calculated using the formula—$20,000 × days in part-year365.
-When expenditure treated as incurred in income year
-(5) In subsections (1)(c) and (3) and sections LH 3(1)(e) and LH 5(2), for the purposes of a tax credit under this subpart, the following amounts are treated as expenditure incurred in the income year:
-  (a) the opening value of trading stock in the income year under section DB 49 (Adjustment for opening values of trading stock, livestock, and excepted financial arrangements):
-  (b) an unexpired amount of expenditure in the income year under section DB 50 (Adjustment for prepayments):
-  (c)
-  (d)
-Dealing with remaining tax credits: relationship with sections LA 5 and LA 6
-(6) If the person has a tax credit under this section remaining for the tax year under section LA 5(5) (Treatment of remaining credits), section LA 6(2) (Remaining refundable credits: PAYE, RWT, and certain other items) applies to the use of that credit, but is modified by treating the following paragraph as inserted after subsection (2)(c):
-  (cb) pay an amount that is payable by the person under an Inland Revenue Act.
+[Repealed]
 
 ### LH 3 Requirements
-What is required of person?
-(1) For the purposes of section LH 2, the person must, for the income year or period in the income year,—
-  (a) perform on their own behalf, or have another person perform, research and development activities related to—
-    (i) the business referred to in section LH 1(1)(a), or an intended business of the person:
-    (ii) for an industry research co-operative, the business of a person who is an industry member under section LH 16; and
-  (b) control the research and development activities; and
-  (c) bear the financial risk of the research and development activities; and
-  (d) effectively own the results of the research and development activities, if any; and
-  (e) have—
-    (i) incurred expenditure described in schedule 21, part A (Expenditure and activities related to research and development) and not excluded under schedule 21, part B, for which they are allowed a deduction in the income year, or would be allowed a deduction if they derived income other than exempt income:
-    (ii) an amount of depreciation loss described in schedule 21, part A and not excluded under schedule 21, part B, for depreciable property used in the research and development activities, for which they are allowed a deduction in the income year, or would be allowed a deduction if they derived income other than exempt income.
-What is excluded
-(2) For the purposes of section LH 2, the person must not, for the income year, perform or have another person perform the research and development activities as a person in partnership with an entity referred to in section LH 1(2).
-Partners in partnerships
-(3) If 2 or more persons perform research and development activities as partners in a partnership, a partner is treated as—
-  (a) meeting the business requirements of subsection (1)(a)(i) and section LH 1(1)(a) and the threshold set out in section LH 2(3) if the partnership, treated as an entity performing the research and development activities, would meet those requirements:
-  (b) meeting the control and ownership requirements of subsection (1)(b) to (d) and section LH 6(4)(a) and (d) if—
-    (i) the partnership, treated as an entity performing the research and development activities, would meet those requirements; and
-    (ii) each partner meets the requirements of section LH 1.
-Joint ventures
-(4) If 2 or more persons perform research and development activities as partners in a joint venture, a partner is treated as meeting the control and ownership requirements of subsection (1)(b) to (d) and section LH 6(4)(a) and (d) if the joint venture, treated as an entity performing the research and development activities, would meet those requirements.
-Activities performed on person's behalf
-(5) In subsections (3) and (4), the performance of research and development activities by a person includes the circumstances where the activities are performed on behalf of the person.
+[Repealed]
 
 ### LH 4 Calculation of amount of credit
-Formula
-(1) The amount of a tax credit under section LH 2(2) is calculated using the formula—0.15 × eligible expenditure.
-Definition of item in formula
-(2) Eligible expenditure is the amount of expenditure or depreciation loss that meets the requirements of section LH 3(1)(e) in an income year, adjusted as required under sections LH 5 and LH 6.
+[Repealed]
 
 ### LH 5 Adjustments to eligible expenditure
-Cases when adjustment may apply
-(1) An amount of eligible expenditure under section LH 4 is adjusted in the cases set out in subsections (2), (4), (5), and (6).
-Treatment of prepayments and other timed amounts
-(2) If an amount of expenditure or depreciation loss is incurred in an income year and subpart CH (Adjustments) applies, or would apply, to the expenditure or depreciation loss, the amount of eligible expenditure is adjusted in the same way.
-Trading stock and livestock
-(3) Despite subsection (2), no adjustment under section CH 1 (Adjustment for closing values of trading stock, livestock, and excepted financial arrangements) applies if—
-  (a) the expenditure or amount of depreciation loss is incurred in acquiring or producing an item that has a market value and that has been subjected to a process or transformation as part of the research and development activities; and
-  (b) schedule 21, part A, clause 8 (Expenditure and activities related to research and development) applies to the expenditure or amount of depreciation loss.
-Capital expenditure
-(4) The requirements of section LH 3(1)(e) do not apply to an amount of expenditure described in schedule 21, part A and not excluded under schedule 21, part B incurred by a person in an income year if—
-  (a) the capital limitation applies to the amount; and
-  (b) the amount is not a deduction under section DB 34 (Research and development), or would not be a deduction under the section if the person derived income other than exempt income; and
-  (c) the expenditure is incurred by the person in the intended development of depreciable property that is—
-    (i) intangible property:
-    (ii) tangible property not intended for use other than in the research and development activities.
-Deferred expenditure
-(5) If a deduction for an amount of expenditure or depreciation loss incurred in an income year is allocated under section EJ 23 (Allocation of deductions for research, development, and resulting market development), the amount is treated as if it were a deduction allowed in the income year in which it is incurred, and not allowed in the income year to which it is allocated.
-Internal software development
-(6) If the expenditure or amount of depreciation loss relates to internal software development, the amount of eligible expenditure is adjusted under sections LH 9 to LH 13.
+[Repealed]
 
 ### LH 6 Research and development activities outside New Zealand
-Expenditure not part of research and development project
-(1) If a person incurs expenditure or an amount of depreciation loss in research and development activities performed outside New Zealand other than as part of a research and development project, the expenditure or amount is excluded from the calculation of eligible expenditure under section LH 4.
-Overseas expenditure on research and development project
-(2) If a person incurs expenditure or an amount of depreciation loss in research and development activities performed outside New Zealand as part of a research and development project, the expenditure or amount is excluded from the calculation of eligible expenditure under section LH 4 unless it is overseas eligible expenditure.
-Activities performed on person's behalf
-(3) In subsections (1) and (2), the performance of research and development activities by a person includes the circumstances where the activities are performed on behalf of the person.
-Meaning of research and development project
-(4) A research and development project, for a person, means a process—
-  (a) consisting of co-ordinated research and development activities controlled by the person; and
-  (b) having start and finish dates; and
-  (c) undertaken collectively to achieve a specified objective within constraints of time, cost, and other resources; and
-  (d) for which the person bears the financial risk and effectively owns the results, if any; and
-  (e) for which the person incurs on research and development activities performed in New Zealand more than half of the total amount of expenditure and depreciation loss that would be eligible expenditure under section LH 4 in the absence of subsection (2).
-Meaning of overseas eligible expenditure
-(5) Overseas eligible expenditure, for a person and an income year, means expenditure or an amount of depreciation loss that—
-  (a) would, in the absence of this subsection, be eligible expenditure under section LH 4; and
-  (b) is incurred by the person in research and development activities performed outside New Zealand in the 2008–09 income year as part of a research and development project; and
-  (c) is limited to a maximum amount of 10% of the total eligible expenditure under section LH 4 incurred in the income year on research and development activities performed in New Zealand in the 2008–09 income year as part of the research and development project.
+[Repealed]
 
 ### LH 7 Research and development activities and related terms
 Research and development activities
@@ -24774,95 +24714,25 @@ Technology
 (5) In this subpart, technology means the practical application of scientific principles and knowledge.
 
 ### LH 8 Orders in Council
-The Governor-General may make an Order in Council—
-  (a) providing that a kind of expenditure included in the kinds of expenditure referred to in schedule 21, part A, clauses 5 and 6 (Expenditure and activities related to research and development) does not give rise to a tax credit under this subpart:
-  (b) setting the date from which the exclusion applies.
+[Repealed]
 
 ### LH 9 Internal software development: general
-When sections LH 10 to LH 13 apply
-(1) Sections LH 10 to LH 13 apply for a person and an income year if, in the absence of those sections, the person would have eligible expenditure relating to internal software development.
-Eligible expenditure
-(2) The amount of eligible expenditure is adjusted to the following:
-  (a) the amount determined under section LH 10 for the income year if the person has no associated internal software developer in the income year; or
-  (b) the amount determined under section LH 11 for the income year if the person has throughout the income year an associated internal software developer with the same income year as the person, and no associated internal software developer with an income year that is different; or
-  (c) the amount determined under section LH 12 for the income year if the person has throughout the income year an associated internal software developer with an income year that is different from the person's income year; or
-  (d) the total of amounts determined under sections LH 10 to LH 12 for each of the periods making up the income year, if paragraphs (a) to (c) do not apply.
+[Repealed]
 
 ### LH 10 Internal software development: no associated internal software developer
-Eligible expenditure
-(1) If the person referred to in section LH 9(1) has no associated internal software developer in a period that is all or part of their income year, the person has eligible expenditure related to internal software development under section LH 4 for the period equal to the smaller of—
-  (a) the eligible expenditure related to internal software development that the person would have for the period in the absence of this section:
-  (b) the amount for the period calculated using the formula—limit ×days365.
-Definition of items in formula
-(2) In the formula,—
-  (a) limit is the amount set out in section LH 13:
-  (b) days is the number of days in the period.
+[Repealed]
 
 ### LH 11 Internal software development: associated internal software developer with same income year
-Who this section applies to
-(1) This section applies to a person referred to in section LH 9(1) if, throughout a period that is part or all of their income year, they have an associated internal software developer with the same income year as the person and have no associated internal software developer with a different income year.
-Eligible expenditure
-(2) The person has eligible expenditure related to internal software development under section LH 4 for the period equal to the smallest of—
-  (a) the eligible expenditure related to internal software development that the person would have for the period in the absence of this section:
-  (b) the amount calculated under subsection (3) for the person for the period:
-  (c) the part, allocated by the internal software development group to the person, of the amount determined under subsection (5) as available for allocation by the internal software development group for the tax year.
-Maximum amount for period
-(3) The amount referred to in subsection (2)(b) is calculated using the formula—limit ×days365.
-Definition of items in formula
-(4) In the formula in subsection (3),—
-  (a) limit is the amount set out in section LH 13:
-  (b) days is the number of days in the period.
-Amount available for allocation
-(5) The amount referred to in subsection (2)(c) that may be allocated by the internal software development group to members of the group for the tax year corresponding to the person's income year is the lesser of—
-  (a) the total eligible expenditure related to internal software development that the members of the group would have in the absence of this section for income years corresponding to the tax year:
-  (b) the amount for the tax year calculated using the formula—group limit ×days365.
-Definition of items in formula
-(6) In the formula in subsection (5)(b),—
-  (a) group limit is the amount set out in section LH 13:
-  (b) days is the number of days in the person's income year for which there are 2 or more members of the internal software development group.
+[Repealed]
 
 ### LH 12 Internal software development: associated internal software developer with different income year
-When this section applies
-(1) This section applies to a person referred to in section LH 9(1) if, throughout a period that is all or part of their income year, the person has an associated internal software developer with a different income year from the person.
-Eligible expenditure for period less than year
-(2) If the period is less than the person's income year, the person has no eligible expenditure related to internal software development under section LH 4 for the period.
-Eligible expenditure for income year
-(3) If the period is the person's income year, the person has eligible expenditure related to internal software development under section LH 4 for the period equal to the lesser of—
-  (a) the eligible expenditure related to internal software development that the person would have for the period in the absence of this section:
-  (b) the part, allocated by the internal software development group to the person, of the amount determined under subsection (4) as available for allocation by the internal software development group for the tax year.
-Amount available for allocation
-(4) The amount referred to in subsection (3)(b) that may be allocated by the internal software development group to members of the group for the tax year corresponding to the person's income year is the lesser of—
-  (a) the total eligible expenditure related to internal software development that the members of the group would have in the absence of this section for income years corresponding to the tax year:
-  (b) an amount equal to the limit set out in section LH 13.
+[Repealed]
 
 ### LH 13 Internal software development: limit
-Amount
-(1) The item limit referred to in sections LH 10(2)(a), LH 11(4)(a), and LH 12(4)(b) and the item group limit in section LH 11(6)(a) is the amount of $3,000,000 unless subsection (2) applies to increase the amount.
-Determination of amount by Minister
-(2) The Minister may, by notice published in the Gazette, determine an amount of more than $3,000,000 to be appropriate for the purposes of subsection (1) for a person or internal software development group who need not be named in the notice and an income year or period, if the Minister is satisfied that—
-  (a) the internal software development will be exploited mainly for the benefit of the New Zealand economy; and
-  (b) New Zealand will derive a substantial net benefit from the intended completion of the internal software development; and
-  (c) the person or the internal software development controller of the group has a commitment to retain the value of their business in New Zealand.
-Requirements in determination
-(3) A determination under subsection (2)—
-  (a) may include requirements that the Minister thinks are appropriate for the application of the determination; and
-  (b) does not apply to a person who does not meet a requirement of the determination.
+[Repealed]
 
 ### LH 14 Treatment of depreciation loss for certain depreciable property
-What this section applies to
-(1) This section applies to a person who owns an item of depreciable property for which no deduction has been allowed for an amount of depreciation loss because the person derives exempt income. This section applies only for the purposes of calculating eligible expenditure under this subpart.
-Depreciation loss for tax credit
-(2) For the purposes of calculating the amount of depreciation loss the person has for the item under section EE 1(2) (What this subpart does), the person is treated as—
-  (a) acquiring the item on the later of the 2 following days:
-    (i) the first day of the 2008–09 income year:
-    (ii) the day on which they acquire the item; and
-  (b) allowed a deduction for depreciation loss for the item for the income years ending after the day on which the person is treated as acquiring it under this section.
-Marketvalue and 20% loading
-(3) An item treated as acquired by a person under subsection (2)(a)(i) is treated as—
-  (a) acquired for its market value; and
-  (b) meeting the requirements of section EE 31(2)(b)(i) to (iv) (Annual rate for item acquired in person's 1995–96 or later income year) for using the 1.2 factor, unless the item—
-    (i) did not meet those requirements when, but for subsection (2)(a)(i), the person acquired the item; or
-    (ii) was acquired by the person, but for subsection (2)(a)(i), before the first day of the 1995–96 income year.
+[Repealed]
 
 ### LH 15 Listed research providers
 Application
@@ -24903,15 +24773,7 @@ Conditions for relisting
 (10) If the Commissioner is satisfied that the person meets the requirements of subsection (2) and will meet the requirements of subsection (3), the Commissioner may list the person as a listed research provider.
 
 ### LH 16 Industry research co-operatives
-An industry research co-operative is a person who performs or commissions research and development activities mainly on behalf of other persons (the industry members), each of whom—
-  (a) carries on a business activity in New Zealand as a resident or through a fixed establishment in New Zealand; and
-  (b) would meet the requirements of section LH 2 if—
-    (i) the person performed the research and development activities, or had the research and development activities performed on the person's behalf; and
-    (ii) section LH 2(3)(a) did not apply; and
-  (c) contributes to the financing of the research and development activities by payments made—
-    (i) to the industry research co-operative:
-    (ii) as a levy imposed under section 4 of the Commodity Levies Act 1990:
-    (iii) as a levy imposed under section 5 of the Building Research Levy Act 1969.
+[Repealed]
 
 ### LH 17 Some definitions
 In this subpart,—
@@ -26113,13 +25975,13 @@ Definition of items in formula
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
   (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-    (i) $4,376, if the child is younger than 16:
-    (ii) $5,069, if the child is 16 or older:
+    (i) $4,487, if the child is younger than 16:
+    (ii) $5,198, if the child is 16 or older:
     (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
   (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-    (i) $3,042, if the child is younger than 13:
-    (ii) $3,469, if the child is 13, 14, or 15:
-    (iii) $4,536, if the child is 16 or older:
+    (i) $3,119, if the child is younger than 13:
+    (ii) $3,557, if the child is 13, 14, or 15:
+    (iii) $4,651, if the child is 16 or older:
     (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
     (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
 Days
@@ -26254,8 +26116,8 @@ Formula
 Definition of items in formula
 (3) In the formula,—
   (a) full-year abatement is,—
-    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $35,914, 20 cents for each complete dollar of the excess; or
-    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $35,914, 20 cents for each complete dollar of the excess:
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess:
   (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14.
 When 56-day period includes 31 March
 (4) If a person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?) receives fortnightly instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
@@ -26300,7 +26162,7 @@ Formula
 (2) The formula is—
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $18,044:
+  (a) prescribed amount is $20,540:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -26532,11 +26394,11 @@ Timing of review
 Tax credits for members paid to fund providers
 (1) A fund provider of a person's KiwiSaver scheme or a complying superannuation fund has a tax credit equal to an amount calculated under section MK 4 for a member credit contribution to the scheme or fund. Section MK 2 imposes some eligibility requirements in relation to the person.
 Tax credits for employers
-(2) An employer who makes an employer contribution on behalf of an employee to a KiwiSaver scheme or a complying superannuation fund for a payment period has a tax credit for the period equal to an amount calculated under section MK 10 for the amount of their contribution. The employer must meet the requirements of section MK 9.
+(2)
 Calculations: fund providers
 (3) A tax credit referred to in subsection (1) is calculated for a year that begins on 1 July and ends on 30 June.
 Calculations: employers
-(4) A tax credit referred to in subsection (2) is calculated for a payment period.
+(4)
 
 ### MK 2 Eligibility requirements
 Requirements for person
@@ -26601,69 +26463,22 @@ Recovery
 (3) If the fund provider does not pay the amount under subsection (2) as soon as practicable, they are treated as having an amount of tax credit paid in excess of that properly payable.
 
 ### MK 9 Eligibility requirements
-What is required
-(1) For the purposes of section MK 1(2), an employer must—
-  (a) pay an amount of employer contribution in relation to an employee who—
-    (i) is aged 18 or over; and
-    (ii) is not entitled to withdraw an amount from a fund or scheme under schedule 1, clause 4(3) of the KiwiSaver scheme rules in the KiwiSaver Act 2006 or a rule that is the same as that clause; and
-  (b) provide details of the amount of the tax credit relating to the employee in an employer monthly schedule or PAYE payment form; and
-  (c) meet 1 of the requirements of section 6(2) of the KiwiSaver Act 2006.
-When details not required
-(2) Subsection (1)(b) does not apply if the employer has—
-  (a) an unpaid amount of compulsory employer contribution referred to in a notice under section 101I(5) of the KiwiSaver Act 2006; or
-  (b) an amount of short payment under Part 3, subpart 3 of that Act.
+[Repealed]
 
 ### MK 10 Amount of credit
-Amount of contributions or calculation
-(1) For a payment period, the amount of a tax credit under section MK 1(2) is equal to the lesser of—
-  (a) the amount of the employer contributions for the employee for the period; and
-  (b) the amount calculated using the formula—$20 × weeks in payment period.
-Definition of item in formula
-(2) In the formula, weeks in payment period is the number of weeks in the payment period for the payment of the employee's salary or wages, in which the employee meets the requirements of section MK 9(1)(a), including weeks in the payment period in which the employer does not pay an amount of employer contribution. Parts of a week are expressed as a decimal.
-Meaning of payment period
-(3) In this section and in sections MK 11 to MK 13, payment period means a first payment period, a second payment period, or a month, as applicable, in which PAYE is withheld in relation to the employee.
+[Repealed]
 
 ### MK 11 When tax credits arise
-A tax credit referred to in section MK 10 arises—
-  (a) for an employer who provides details of the amount of the credit under section MK 9(1)(b),—
-    (i) on the end date for the payment period under section RA 15(3)(a) (Payment dates for interim and other tax payments) if the employer is not a private domestic worker:
-    (ii) on the date referred to in section RA 10(3) (When obligations not met) if the employer is a private domestic worker:
-  (b) for an employer to whom section MK 9(2) applies, on the day the Commissioner—
-    (i) receives the notice referred to in section 101I(5) of the KiwiSaver Act 2006; or
-    (ii) determines that the employer has an amount of short payment under Part 3, subpart 3 of that Act.
+[Repealed]
 
 ### MK 12 Using tax credits
-Commissioner's use of credits
-(1) The Commissioner must use a tax credit referred to in section MK 10—
-  (a) first, to pay—
-    (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006 relating to a compulsory employer contribution for a payment period; or
-    (ii) to the fund provider of the complying superannuation fund, an amount equal to an unpaid amount of a compulsory employer contribution referred to in a notice under section 101I(5) of that Act:
-  (b) second, to pay an employer contribution:
-  (c) third, to pay an amount payable for the payment period by the employer to the Commissioner under an Inland Revenue Act:
-  (d) fourth, to pay an amount that is payable by the employer to the Commissioner under an Inland Revenue Act:
-  (e) fifth, to treat a tax credit as overpaid tax refundable under section RM 2 (Refunds for overpaid tax).
-Treatment of tax credit used
-(2) An amount of tax credit used or paid under subsection (1)(a) is treated as an amount of compulsory employer contribution—
-  (a) received by the Commissioner for a payment period, for the purposes of calculating an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
-  (b) consequentially reducing a relevant amount of a compulsory employer contribution remaining unpaid, for the purposes of section 101K of that Act:
-  (c) received by the Commissioner for the purposes of section 74 of that Act.
+[Repealed]
 
 ### MK 13 When short payment and unpaid compulsory employer contributions found after tax credit used
-When this section applies
-(1) This section applies when—
-  (a) the Commissioner uses an amount of a tax credit under either or both section MK 12(1)(b) and (c); and
-  (b) following that use, for the payment period to which the amount of tax credit relates, there arises—
-    (i) an amount of short payment under Part 3, subpart 3 of the KiwiSaver Act 2006:
-    (ii) an unpaid amount of compulsory employer contribution referred to in a notice under section 101I(5) of that Act.
-Employer's liability
-(2) The employer is liable to pay an amount equal to the lesser of—
-  (a) the amount of the tax credit used:
-  (b) the amount described in subsection (1)(b).
-Treatment as amount of tax
-(3) The amount is treated as an amount of tax for the payment period in which notification of the amount described in subsection (1)(b) is given to the employer, and an equal amount is treated as a tax credit for use under section MK 12(1)(a).
+[Repealed]
 
 ### MK 14 Employees opting out
-When an employee opts out under the KiwiSaver Act 2006, the amount of a tax credit for an employer contribution for the employee's salary or wages is treated as an amount of a tax credit paid in excess of that properly payable under this subpart.
+[Repealed]
 
 ### MK 15 Groups of persons
 For the purposes of this subpart, a group of persons described in 1 of the following paragraphs is treated as 1 employer:
@@ -32933,8 +32748,8 @@ No amount of tax withheld
 ### RD 17 Payment of extra pay with other PAYE income payments
 When this section applies
 (1) This section applies when a person pays an amount of extra pay to an employee who also receives a PAYE income payment from the person. The amount of tax for the extra pay is based on the sum of the extra pay and the annualised value of all PAYE income payments made to the employee in the period that starts 4 weeks before the date of the payment of the extra pay and ends on the date of that payment.
-Between $40,000 and $70,000
-(2) If the sum of the amounts referred to in subsection (1) is more than $40,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
+Between $48,000 and $70,000
+(2) If the sum of the amounts referred to in subsection (1) is more than $48,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
 Over $70,000
 (3) If the sum of the amounts referred to in subsection (1) is more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 3.
 
@@ -32985,10 +32800,10 @@ General rule
 (2) The employer or PAYE intermediary must provide the PAYE income payment form referred to in subsection (1) by—
   (a) the 20th day of the month in which they withhold an amount of tax for a PAYE income payment in a first payment period described in section RA 15(3) (Payment dates for interim and other tax payments):
   (b) the 5th day of the month following that in which they withhold an amount of tax for a PAYE income payment in a second payment period described in section RA 15(3), or if the month is December, by the 15th day of January.
-When gross amounts of tax less than $100,000
-(3) Despite subsection (2), an employer who is not a new employer whose gross amounts of tax for PAYE income payments and employer’s superannuation contributions payable for the preceding tax year are less than $100,000, must provide the PAYE income payment form by the 20th day of the month following that in which an amount of tax is withheld.
+When gross amounts of tax less than $500,000
+(3) Despite subsection (2), an employer who is not a new employer whose gross amounts of tax for PAYE income payments and employer’s superannuation contributions payable for the preceding tax year are less than $500,000, must provide the PAYE income payment form by the 20th day of the month following that in which an amount of tax is withheld.
 New employers
-(4) Despite subsection (2), an employer who is a new employer, must provide the PAYE income payment form by the 20th day of the month following that in which an amount of tax is withheld until their gross amounts of tax for PAYE income payments and employer’s superannuation contributions payable for the tax year are more than $100,000.
+(4) Despite subsection (2), an employer who is a new employer, must provide the PAYE income payment form by the 20th day of the month following that in which an amount of tax is withheld until their gross amounts of tax for PAYE income payments and employer’s superannuation contributions payable for the tax year are more than $500,000.
 Thresholds
 (5) For the purposes of determining whether the threshold referred to in subsections (3) and (4) is reached, if the employer ends their business and starts a new business, or operates 2 or more businesses at the same time, all amounts of tax withheld must be aggregated.
 When business ended
@@ -33321,16 +33136,16 @@ Liability limited
 (1) An employer is liable to pay FBT on an unclassified benefit only within the limits described in this section.
 Quarterly payment
 (2) When FBT is paid quarterly, an employer is liable for FBT on an unclassified benefit provided to an employee in a quarter only if—
-  (a) the total taxable value of all unclassified benefits provided in the quarter by the employer to the employee is more than $200; or
-  (b) the total taxable value of all unclassified benefits provided in the last 4 quarters including the current quarter by the employer to all employees of the employer, whether accounted for on a quarterly or an income year basis, is more than $15,000.
+  (a) the total taxable value of all unclassified benefits provided in the quarter by the employer to the employee is more than $300; or
+  (b) the total taxable value of all unclassified benefits provided in the last 4 quarters including the current quarter by the employer to all employees of the employer, whether accounted for on a quarterly or an income year basis, is more than $22,500.
 Yearly payment
 (3) When FBT is paid on either an annual basis or an income year basis, except when subsection (4) applies, an employer is liable for FBT on unclassified benefits provided to an employee in the tax year or income year only if—
-  (a) the total taxable value of all unclassified benefits provided in the tax year or income year by the employer to the employee is more than $800; or
-  (b) the total taxable value of all unclassified benefits provided in the tax year or income year by the employer to all employees of the employer is more than $15,000.
+  (a) the total taxable value of all unclassified benefits provided in the tax year or income year by the employer to the employee is more than $1,200; or
+  (b) the total taxable value of all unclassified benefits provided in the tax year or income year by the employer to all employees of the employer is more than $22,500.
 Period longer or shorter than income year
 (4) When an employer accounts for FBT on an income year basis, and the period for which they have accounted under section RD 60 differs from an income year for the reasons described in subsection (5), an employer is liable for FBT on unclassified benefits provided in the period only if—
-  (a) the total taxable value of all unclassified benefits provided in the period by the employer to an employee is more than the figure that is the same fraction or multiple of $800 as the number of days in the period is a fraction or multiple of 365; or
-  (b) the total taxable value of all unclassified benefits provided in the period by the employer to all employees of the employer is more than the figure that is the same fraction or multiple of $15,000 as the number of days in the period is a fraction or multiple of 365.
+  (a) the total taxable value of all unclassified benefits provided in the period by the employer to an employee is more than the figure that is the same fraction or multiple of $1,200 as the number of days in the period is a fraction or multiple of 365; or
+  (b) the total taxable value of all unclassified benefits provided in the period by the employer to all employees of the employer is more than the figure that is the same fraction or multiple of $22,500 as the number of days in the period is a fraction or multiple of 365.
 Reasons for difference
 (5) In subsection (4), the income year for which the employer has accounted may be longer or shorter than the normal income year because the employer has either—
   (a) started or ceased business during that income year; or
@@ -33342,13 +33157,13 @@ Employer and associated persons
 When employer ceases to exist
 (1) This section applies when a company that is an employer ends its existence on amalgamation or when a new company is established on amalgamation. An adjustment is allowed for unclassified benefits in the period in which the amalgamation occurs.
 Quarterly payment
-(2) If the amalgamating company pays FBT quarterly, an adjustment must be made in the quarter in which the amalgamation occurs reducing the figure of $15,000 referred to in section RD 45(2)(b) by an amount calculated using the formula—
+(2) If the amalgamating company pays FBT quarterly, an adjustment must be made in the quarter in which the amalgamation occurs reducing the figure of $22,500 referred to in section RD 45(2)(b) by an amount calculated using the formula—$22,500× number of days in the quarter after amalgamationdays in the quarter.
 Adjustment in quarter of amalgamation
-(3) If the amalgamated company pays FBT quarterly, and the amalgamated company is a new company established on amalgamation, an adjustment must be made in the quarter in which the amalgamation occurs reducing the figure of $15,000 referred to in section RD 45(2)(b) by an amount calculated using the formula—
+(3) If the amalgamated company pays FBT quarterly, and the amalgamated company is a new company established on amalgamation, an adjustment must be made in the quarter in which the amalgamation occurs reducing the figure of $22,500 referred to in section RD 45(2)(b) by an amount calculated using the formula—$22,500× number of days in the quarter before amalgamationdays in the quarter.
 Annual payment
-(4) If the amalgamating company pays FBT annually, an adjustment must be made for the year in which the amalgamation occurs reducing the figure of $15,000 referred to in section RD 45(2)(b) by an amount calculated using the formula—
+(4) If the amalgamating company pays FBT annually, an adjustment must be made for the year in which the amalgamation occurs reducing the figure of $22,500 referred to in section RD 45(2)(b) by an amount calculated using the formula—$22,500 × number of days in the year after amalgamation365.
 Adjustment in year of amalgamation
-(5) If the amalgamated company pays FBT annually, and the amalgamated company is a new company established on amalgamation, an adjustment must be made for the year in which the amalgamation occurs reducing the figure of $15,000 referred to in section RD 45(2)(b) by an amount calculated using the formula—
+(5) If the amalgamated company pays FBT annually, and the amalgamated company is a new company established on amalgamation, an adjustment must be made for the year in which the amalgamation occurs reducing the figure of $22,500 referred to in section RD 45(2)(b) by an amount calculated using the formula—$22,500× number of days in the year before amalgamation365.
 
 **Attributing fringe benefits to employees**
 
@@ -33394,7 +33209,7 @@ Definition of items in formula
 Exception for shareholder-employees and persons with attributed income
 (4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 49% of the taxable value of the attributed fringe benefits under RD 52(3)(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
 Further option
-(5) Instead of calculating FBT under subsections (2) and (4), an employer may choose to pay FBT at the rate of 63.93% on the taxable value of the attributed fringe benefits.
+(5) Instead of calculating FBT under subsections (2) and (4), an employer may choose to pay FBT at the rate of 61.29% on the taxable value of the attributed fringe benefits.
 
 ### RD 51 Calculation of all-inclusive pay
 When this section applies
@@ -33441,7 +33256,7 @@ Calculations under sections RD 50 and RD 51 not required
 Alternative rates
 (3) The employer must either—
   (a) pay FBT at the rate of 49% of the taxable value of the fringe benefits attributed for the tax year, and apply sections RD 50 and RD 51 to the benefits in the next tax year; or
-  (b) pay FBT at the rate of 63.93% of the taxable value of the fringe benefits attributed for the tax year.
+  (b) pay FBT at the rate of 61.29% of the taxable value of the fringe benefits attributed for the tax year.
 
 ### RD 53 Pooling non-attributed benefits
 When this section applies
@@ -33459,7 +33274,7 @@ Final quarter pooling
   (b) the second pool is for all other employees.
 Final quarter calculation
 (4) The employer must calculate FBT for the final quarter of the tax year on the annual taxable value of the pooled fringe benefits—
-  (a) at the rate of 64% for the first pool; and
+  (a) at the rate of 61% for the first pool; and
   (b) at the rate of 49% for the second pool.
 
 **Taxable value of fringe benefits**
@@ -33511,7 +33326,7 @@ Schedule 5 rate
 
 ### RD 58 Single rate option
 Rate for all quarters
-(1) An employer who chooses to pay their FBT liability under the single rate option must pay FBT at the rate of 64% of the taxable value of a fringe benefit for each of the 4 quarters of a tax year.
+(1) An employer who chooses to pay their FBT liability under the single rate option must pay FBT at the rate of 61% of the taxable value of a fringe benefit for each of the 4 quarters of a tax year.
 Replacing final quarter calculation
 (2) Despite subsection (1), an employer may ask the Commissioner to replace the FBT liability determined for the final quarter under this section with an amount calculated under section RD 59(4). The employer must provide the information necessary for the calculation.
 
@@ -33521,7 +33336,7 @@ Election
 First three quarters
 (2) The employer may pay FBT for any or all of the first 3 quarters of a tax year at 49% of the taxable value of a fringe benefit.
 Alternate rate
-(3) The employer must pay FBT at the rate of 64% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 49% under subsection (2).
+(3) The employer must pay FBT at the rate of 61% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 49% under subsection (2).
 Final quarter
 (4) For the final quarter of the tax year, the employer must calculate the total pay of each employee under sections RD 50 and RD 53 for the tax year and subtract the amount of FBT payable for the previous 3 quarters of the tax year.
 Decision irrevocable
@@ -33530,15 +33345,18 @@ Decision irrevocable
 ### RD 60 Close company option
 When this section applies
 (1) This section applies in an income year when an employer that is a close company provides a fringe benefit to a shareholder-employee if, in the preceding income year,—
-  (a) the gross amounts of tax for both PAYE income payments and employer’s superannuation contributions for the tax year were no more than $100,000; or
-  (b) the employer did not employ any employees.
+  (a) the gross amounts of tax for both PAYE income payments and employer's superannuation contributions for the corresponding tax year were no more than $500,000; or
+  (b) the only benefit provided by the employer was a fringe benefit—
+    (i) arising under section CX 6(1) (Private use of motor vehicle); and
+    (ii) limited to making available to shareholder-employees 1 vehicle or 2 vehicles for their private use; or
+  (c) the employer did not employ any employees.
 Income year basis
 (2) The employer may choose to pay their FBT liability on an income year basis, informing the Commissioner of their decision in writing or by telephone no later than—
   (a) the last day of the first quarter of the relevant income year; or
-  (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)(b) applies.
+  (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)(c) applies.
 Rate or calculation
 (3) The employer must pay FBT on the taxable value of fringe benefits in the income year in which they make their election and in later income years either—
-  (a) at the rate of 64% of the taxable value of a fringe benefit; or
+  (a) at the rate of 61% of the taxable value of a fringe benefit; or
   (b) by calculating for the relevant income year the total pay of each employee under sections RD 50 and RD 53.
 Replacing rate with calculated liability
 (4) Despite subsection (3), the employer may ask the Commissioner to replace the FBT liability determined under subsection (3)(a) with a calculation under subsection (3)(b). The employer must provide the information necessary for the calculation.
@@ -33550,7 +33368,7 @@ More than 1 business
 ### RD 61 Small business option
 When this section applies
 (1) This section applies when an employer provides a fringe benefit to an employee who is not a shareholder-employee in a tax year if, for the preceding tax year,—
-  (a) the gross amounts of tax for both PAYE income payments and employer’s superannuation contributions for the tax year were no more than $100,000; or
+  (a) the gross amounts of tax for both PAYE income payments and employer’s superannuation contributions for the tax year were no more than $500,000; or
   (b) the employer did not employ any employees.
 Annual basis
 (2) The employer may choose to pay their FBT liability on an annual basis, informing the Commissioner of their decision in writing or by telephone no later than—
@@ -33558,7 +33376,7 @@ Annual basis
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)(b) applies.
 Rate or calculation
 (3) The employer must pay FBT on the taxable value of fringe benefits in the tax year in which they make their election and in later tax years either—
-  (a) at the rate of 64% of the taxable value of a fringe benefit; or
+  (a) at the rate of 61% of the taxable value of a fringe benefit; or
   (b) by calculating for the relevant tax year the total pay of each employee under sections RD 50 and RD 53.
 Replacing rate with calculated amount
 (4) Despite subsection (3), the employer may ask the Commissioner to replace the FBT liability determined under subsection (3)(a) with a calculation under subsection (3)(b). The employer must provide the information necessary for the calculation.
@@ -33620,59 +33438,26 @@ Payment of amount of tax
 (3) An employer who makes an employer’s superannuation contribution on behalf of an employee must pay to the Commissioner the amount of tax for the contribution. The amount is payable in 2 payment periods in a month as set out in section RA 15 (Payment dates for interim and other tax payments) unless they are an employer to whom section RD 22(3) applies. Subsection (4) overrides this subsection.
 Contributions to KiwiSaver schemes
 (4) Subsection (3) and, as applicable, sections RD 67 to RD 69, do not apply to an employer’s superannuation contribution (the current contribution) to the extent to which it is—
-  (a) for the employee’s KiwiSaver scheme; and
-  (b) no more than the lesser of—
-    (i) an amount calculated under subsection (5):
-    (ii) an amount calculated under subsection (6).
+  (a) for the employee's KiwiSaver scheme, or for their complying superannuation scheme and subject to the complying fund rules; and
+  (b) no more than the amount of compulsory employer contributions that would be required, for the payment of salary or wages to which the current contribution relates, by subpart 3A of the KiwiSaver Act 2006 in the absence of section 101D(5)(a) of that Act.
 Formula: subsection (4)(b)(i)
-(5) The amount referred to in subsection (4)(b)(i) is calculated using the formula—0.04 × total salary or wages – previous exempt contributions.
+(5)
 Formula: subsection (4)(b)(ii)
-(6) The amount referred to in subsection (4)(b)(ii) is calculated using the formula—total KiwiSaver contributions – previous exempt KiwiSaver contributions.
+(6)
 Definition of items in formulas
-(7) In the formulas in subsections (5) and (6),—
-  (a) total salary or wages is the total amount of salary or wages paid to the employee in the KiwiSaver calculation period, excluding salary or wages for which there are no KiwiSaver contributions:
-  (b) previous exempt contributions is the total amount of employer’s superannuation contributions for the employee to the extent to which the contributions, excluding the current contribution,—
-    (i) are made in the KiwiSaver calculation period; and
-    (ii) are contributions to which subsection (4) applies:
-  (c) total KiwiSaver contributions is the total amount of KiwiSaver contributions withheld from the salary or wages paid to the employee in the KiwiSaver calculation period:
-  (d) previous exempt KiwiSaver contributions is the total amount of employer’s superannuation contributions for the employee’s KiwiSaver scheme to the extent to which the contributions, excluding the current contribution,—
-    (i) are made in the KiwiSaver calculation period; and
-    (ii) are contributions to which subsection (4) applies.
+(7)
 Contributions to complying superannuation funds
-(8) Subsection (3) and, as applicable, sections RD 67 to RD 69, do not apply to a current contribution to the extent to which it is—
-  (a) for the employee’s complying superannuation fund; and
-  (b) is subject to the complying fund rules; and
-  (c) no more than the lesser of—
-    (i) an amount calculated under subsection (9):
-    (ii) an amount calculated under subsection (10).
+(8)
 Formula: subsection (8)(c)(i)
-(9) The amount referred to in subsection (8)(c)(i) is calculated using the formula—0.04 × total salary or wages – previous exempt contributions.
+(9)
 Formula: subsection (8)(c)(ii)
-(10) The amount referred to in subsection (8)(c)(ii) is calculated using the formula—total complying fund contributions – previous exempt complying fund contributions.
+(10)
 Definition of items in formulas
-(11) In the formulas in subsections (9) and (10),—
-  (a) total salary or wages is the total amount of salary or wages paid to the employee in the complying fund calculation period, excluding salary or wages for which there are no superannuation contributions for the employee’s complying superannuation fund to which the complying fund rules apply:
-  (b) previous exempt contributions is the total amount of employer’s superannuation contributions for the employee to the extent to which the contributions, excluding the current contribution,—
-    (i) are made in the complying fund calculation period; and
-    (ii) are contributions to which subsection (4) or (8) applies:
-  (c) total complying fund contributions is the total amount of superannuation contributions withheld from the salary or wages paid to the employee in the complying fund calculation period to which the complying fund rules apply:
-  (d) previous exempt complying fund contributions is the total amount of employer’s superannuation contributions for the employee’s complying superannuation fund to the extent to which the contributions, excluding the current contribution,—
-    (i) are made in the complying fund calculation period; and
-    (ii) are contributions to which subsection (8) applies.
+(11)
 When contribution paid
 (12) The amount of employer’s superannuation contribution tax (ESCT) is treated for tax purposes as paid by the employer and received by the superannuation fund at the time the employer makes the contribution.
 Some definitions
 (13) In this section,—
-  - **complying fund calculation period** , for a current contribution, means a period—
-    (a) beginning with the later of—
-      (i) 1 year before the date on which the employer makes the current contribution:
-      (ii) the date on which the employer is first required to withhold a superannuation contribution to which the complying fund rules apply from the employee’s salary or wages; and
-    (b) ending with the date on which the employer makes the current contribution
-  - **KiwiSaver calculation period** , for a current contribution, means a period—
-    (a) beginning with the later of—
-      (i) 1 year before the date on which the employer makes the current contribution:
-      (ii) the date on which the employer is first required to withhold a KiwiSaver contribution from the employee’s salary or wages; and
-    (b) ending with the date on which the employer makes the current contribution
   - **salary or wages** has the meaning given in section 4 of the KiwiSaver Act 2006.
 
 ### RD 66 Complying fund rules
@@ -33923,6 +33708,10 @@ Definition of items in formula
   (a) tax rate is the basic rate set out in schedule 1, part D, clause 3 or 4 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits):
   (b) interest paid is the interest paid before the amount of tax is determined:
   (c) foreign withholding tax is the amount of foreign withholding tax paid or payable on the interest paid.
+Modification for 2009–10
+(4) Despite subsection (3)(a), the amount of tax that the person must withhold and pay may, if the person chooses, be calculated, under subsection (3), using a tax rate of 0.38 if—
+  (a) the payment of resident passive income is made in the 2009–10 tax year; and
+  (b) the tax rate under subsection (3)(a) would be 0.39 in the absence of this subsection.
 
 ### RE 13 Dividends other than non-cash dividends
 When this section applies
@@ -35118,13 +34907,17 @@ For the purposes of sections MB 4 and MB 5 other than section MB 5(3) and (4) of
 
 ### RZ 3 Standard method: 2008–09 and 2009–10 income years
 When this section applies
-(1) This section applies to the calculation of a persons provisional tax liability for the 2008–09 and 2009–10 income years when—
-  (a) the person is a new tax rate person; and
-  (b) section RC 5 (Methods for calculating provisional tax liability) applies.
+(1) This section applies to the calculation of a person's provisional tax liability for any instalments payable on or after 1 April 2009 for the 2008–09 income year, and for all instalments for the 2009–10 income year, when section RC 5 (Methods for calculating provisional tax liability) applies.
 Standard method modified: for 5% uplift
-(2) In the application of the standard method under section RC 5(2), the amount of provisional tax payable for the 2008–09 income year is equal to 95% of the residual income tax for the preceding tax year.
+(2) The standard method under section RC 5(2) is modified so that,––
+  (a) for the 2008–09 income year, instead of using 105%, the amount of provisional tax payable is calculated using––
+    (i) 100%, if the person is not a new tax rate person; or
+    (ii) 90%, if the person is a new tax rate person:
+  (b) for the 2009–10 income year, instead of using 105%, the amount of provisional tax payable is calculated using 100%.
 Standard method modified: for 10% uplift
-(3) In the application of the standard method under section RC 5(3), the amount of provisional tax payable for the 2008–09 income year and the 2009–10 income year is equal to 100% of the residual income tax for the preceding tax year.
+(3) The standard method under section RC 5(3) is modified so that, for the 2008–09 income year and the 2009–10 income year, instead of using 110%, the amount of provisional tax payable is calculated using––
+  (a) 105%, if the person is not a new tax rate person; or
+  (b) 95%, if the person is a new tax rate person.
 
 ### RZ 4 GST ratio method: 2008–09 and 2009–10 income years
 When this section applies
@@ -35137,15 +34930,21 @@ GST ratio method modified
 
 ### RZ 5 Calculating amounts under standard method: 2008–09 and 2009–10 income years
 When this section applies
-(1) This section applies to the calculation of a persons provisional tax liability for the 2008–09 and 2009–10 income years when—
-  (a) the person is a new tax rate person; and
-  (b) section RC 10 (Calculating amount of instalment under standard and estimation methods) applies.
+(1) This section applies to the calculation of a person's provisional tax liability for any instalments payable on or after 1 April 2009 for the 2008–09 income year, and for all instalments for the 2009–10 income year, when section RC 10 (Calculating amount of instalment under standard and estimation methods) applies.
 Calculation modified: 2008–09 income year
-(2) In the calculation of the amount of an instalment under section RC 10(2) for the 2008–09 income year, the item residual income tax in the formula is—
-  (a) for the preceding tax year, the amount of residual income tax reduced by 5%; or
-  (b) for the tax year before the preceding tax year, the amount of residual income tax without any uplift.
+(2) In the calculation of the amount of an instalment for the 2008–09 income year, in section RC 10(3)(a),––
+  (a) subparagraph (i) is modified so that instead of a 5% uplift,––
+    (i) no uplift is applied, if the person is not a new tax rate person; or
+    (ii) a 10% reduction is applied, if the person is a new tax rate person:
+  (b) subparagraph (ii) is modified so that instead of a 10% uplift,––
+    (i) a 5% uplift is applied, if the person is not a new tax rate person; or
+    (ii) a 5% reduction is applied, if the person is a new tax rate person.
 Calculation modified: 2009–10 income year
-(3) In the calculation of the amount of an instalment under section RC 10(2) for the 2009–10 income year, the item residual income tax in the formula is the amount of residual income tax for the tax year before the preceding tax year without any uplift.
+(3) In the calculation of the amount of an instalment for the 2009–10 income year, in section RC 10(3)(a),––
+  (a) subparagraph (i) is modified so that instead of a 5% uplift, no uplift is applied:
+  (b) subparagraph (ii) is modified so that instead of a 10% uplift,––
+    (i) a 5% uplift is applied, if the person is not a new tax rate person; or
+    (ii) a 5% reduction is applied, if the person is a new tax rate person.
 
 ### RZ 5B Standard method: new personal tax rate persons from 1 October 2008 to end 2009–10 income year
 When this section applies
@@ -35519,7 +35318,7 @@ In this Act, unless the context requires otherwise,—
     (b) is aged 16 or 17 years and is not financially independent; or
     (c) is aged 18 years and is a person for whom a tax credit is allowed under section MD 1 (Abating WFF tax credit) or both sections MD 1 and ME 1 (Minimum family tax credit)
   - **child tax credit** is defined in section MA 8 (Some definitions for family scheme) for the purposes of subparts MA to MF and MZ (which relate to tax credits for families)
-  - **civil union partner** , in subparts MA to MF and MZ (which relate to tax credits for families) and section LC 4 (Tax credits for transitional circumstances) and in the definitions of , , and , does not include a separated person
+  - **civil union partner** , in subparts MA to MF and MZ (which relate to tax credits for families) and in sections LC 4 and LC 13 (which relate to tax credits for natural persons) and in the definitions of , , and , does not include a separated person
   - **claim** , in the life insurance rules, is defined in section EY 7 (Meaning of claim)
   - **claim of right** means a belief that an act is lawful, although the belief may be based on ignorance, or mistake, of—
     (a) fact; or
@@ -35605,7 +35404,6 @@ In this Act, unless the context requires otherwise,—
   - **completed** , for a film, means the completion of the film to—
     (a) the stage of production at which the film has been completely edited, shot by shot, to its final length; or
     (b) a production stage equivalent to that described in paragraph (a)
-  - **complying fund calculation period** is defined in section RD 65(13) (Employer’s superannuation contributions) for the purposes of that section
   - **complying fund rules** is defined in section RD 66 (Complying fund rules)
   - **complying superannuation fund** means a superannuation fund that is approved as a complying superannuation fund by the Government Actuary under section 35 of the Superannuation Schemes Act 1989
   - **complying trust** is defined in section HC 10 (Complying trusts)
@@ -36422,7 +36220,7 @@ In this Act, unless the context requires otherwise,—
     (a) for a person who is not a natural person, or a person who is a natural person and a trustee of a trust, a provisional tax liability for a tax year in which the person starts to derive income from a taxable activity, when they did not derive income from a taxable activity in any of the 4 previous tax years; and
     (b) for a person who is a natural person and not a trustee of a trust, a provisional tax liability for a tax year when—
       (i) they did not have residual income tax of more than $2,500 in any of the 4 previous tax years; and
-      (ii) they have residual income tax of $35,000 or more in the tax year; and
+      (ii) they have residual income tax of $50,000 or more in the tax year; and
       (iii) in the tax year, they stopped deriving income from employment and then started to derive income from a taxable activity
   - **initial treatment** is defined in section CU 29 (Other definitions)
   - **Inland Revenue Acts** means the Acts listed in the schedule of the Tax Administration Act 1994
@@ -36505,7 +36303,6 @@ In this Act, unless the context requires otherwise,—
   - **joint venture agreement** , for an airport operator,—
     (a) means an agreement made between an airport authority and the Crown acting by and through the Minister of Transport under section 94 of the Civil Aviation Act 1990; and
     (b) includes any other agreement of a similar nature made between the Crown and an airport authority, whether or not the airport authority was, at the time the agreement was made, an airport authority, and whether or not the agreement was made before the commencement of the Civil Aviation Act 1990
-  - **KiwiSaver calculation period** is defined in section RD 65(13) (Employer’s superannuation contributions) for the purposes of that section
   - **KiwiSaver contributions** means a contribution required to be deducted under Part 3, subpart 1 of the KiwiSaver Act 2006
   - **KiwiSaver scheme** means a KiwiSaver scheme, as defined in section 4 of the KiwiSaver Act 2006
   - **Kyoto unit** is defined in section 4(1) of the Climate Change Response Act 2002
@@ -36551,6 +36348,7 @@ In this Act, unless the context requires otherwise,—
     (a) acknowledged formally by the creditor; or
     (b) acknowledged formally by a duly appointed trustee or agent of the creditor; or
     (c) established by legal judgment
+  - **legal expenses** is defined in section DB 62 (Deduction for legal expenses) for the purposes of that section
   - **legal life** is defined in section EE 67 (Other definitions)
   - **less than 10% holder** is defined in section YC 15(3) (Directors’ knowledge of failure to meet requirements of continuity provision) for the purposes of that section
   - **lessee** ,—
@@ -38420,7 +38218,7 @@ Application: 1990 version provisions
   (m) section HC 15 (Taxable distributions from non-complying and foreign trusts):
   (n) section HD 15 (Asset stripping of companies):
   (o) sections HL 6 (Investor membership requirement) and HL 9 (Investor interest size requirement):
-  (ob) subpart LH (Tax credits for expenditure on research and development):
+  (ob)
   (p) sections LJ 1 to LJ 3, LJ 6, and LJ 7 (which relate to tax credits for tax paid outside New Zealand):
   (q) subpart LL (Underlying foreign tax credits (UFTC)):
   (r) section LP 2 (Tax credits for supplementary dividends):
@@ -39197,7 +38995,7 @@ Purpose of schedule
 To the extent to which a person does not have a basic rate under clauses 2 to 8, the basic rate of income tax for the person on each dollar of the person’s taxable income is calculated using the formula—
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
-Table 1RowRange of dollar in taxable incomeTax rate1$0 – $9,5000.13752$9,501 – $14,0000.16753$14,001 – $38,0000.21004$38,001 – $40,0000.27005$40,001 – $60,0000.33006$60,001 – $70,0000.36007$70,001 upwards0.3900How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1252$14,001 – $48,0000.2103$48,001 – $70,0000.3304$70,001 upwards0.380How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
 
 ### 2 Taxable income: companies
 To the extent to which a company does not have a basic rate under clauses 3 to 8, the basic rate of income tax for the company on each dollar of the company’s taxable income is 0.30.
@@ -39225,18 +39023,15 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 
 | Row | Range of dollar in all-inclusive pay | Tax rate |
 | --- | --- | --- |
-| 1 | $0 – $8,194 | 0.1594 |
-| 2 | $8,195 – $11,940 | 0.2012 |
-| 3 | $11,941 – $30,900 | 0.2658 |
-| 4 | $30,901 – $32,360 | 0.3699 |
-| 5 | $32,361 – $45,760 | 0.4925 |
-| 6 | $45,761 – $52,160 | 0.5625 |
-| 7 | $52,161 upwards | 0.6393 |
+| 1 | $0 – $12,250 | 0.1429 |
+| 2 | $12,251 – $39,110 | 0.2658 |
+| 3 | $39,111 – $53,850 | 0.4925 |
+| 4 | $53,851 upwards | 0.6129 |
 | How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column. |  |  |
 
 ### 1 Amount of tax for section RD 67(a)
 If section RD 67(a) applies, the amount of tax is determined by applying the relevant rate given by table 1 to each dollar of an employer’s superannuation contribution.
-Table 1RowESCT rate threshold amountTax rate1$0 – $16,8000.1252$16,801 – $48,0000.2103$48,001 upwards0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
+Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1252$16,801 – $57,600 0.2103$57,601 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
 
 ### 2 Amount of tax for section RD 67(b)
 If section RD 67(b) applies, the amount of tax is determined by applying the rate of 0.33 to each dollar of an employer’s superannuation contribution.
@@ -39266,13 +39061,13 @@ The payment rate for an amount of a retirement scheme contribution made by a ret
 
 ## Schedule 2 — Basic tax rates for PAYE income payments
 
-### 1 M and ML tax codes: payments for weekly pay periods
+### 1 M, ME, and ML tax codes: payments for weekly pay periods
 The basic tax rate amount for a payment of salary or wages is set by applying the Commissioner’s weekly PAYE table to the amount, using the employee’s tax code, if—
   (a) the payment is for a weekly pay period (including the case of section RD 3 applying); and
-  (b) the employee has notified their employer that the employee’s tax code is M or ML under section 24B(3) of the Tax Administration Act 1994.
+  (b) the employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994.
 
-### 2 M and ML tax codes: payments for pay periods longer than a week
-If an employee has notified their employer that the employee’s tax code is M or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—
+### 2 M, ME, and ML tax codes: payments for pay periods longer than a week
+If an employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—
   (a) total payment means the payment of salary or wages to which this clause applies:
   (b) weekly portion of the payment means the portion of the payment that is attributable to the part of the pay period that is for a week if it is assumed that the payment accrued at a uniform daily rate throughout the pay period:
   (c) weekly PAYE table amount means the amount that results from applying the Commissioner’s weekly PAYE table to the weekly portion of the payment (described in paragraph (b)) using the employee’s tax code, as if the weekly portion is a payment for a weekly pay period.
@@ -39287,7 +39082,7 @@ If an employee has notified their employer that the employee’s tax code is S u
 If an employee has notified their employer that the employee’s tax code is SH under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.33 for each dollar of the payment.
 
 ### 6 ST tax code
-If an employee has notified their employer that the employee’s tax code is ST under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.39 for each dollar of the payment.
+If an employee has notified their employer that the employee’s tax code is ST under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.38 for each dollar of the payment.
 
 ### 7 CAE or EDW tax code
 If an employee has notified their employer that the employee’s tax code is CAE or EDW under section 24B(3) of the Tax Administration Act 1994, the basic tax rate amount for a payment for employment as a casual agricultural worker or an election day worker (as applicable) is set by applying the rate of 0.21 for each dollar of the payment.
@@ -39296,7 +39091,7 @@ If an employee has notified their employer that the employee’s tax code is CAE
 | --- | --- | --- |
 | 1 | Rows 2 and 3 do not apply | 0.21 |
 | 2 | Section RD 10(2)(a) or RD 17(2) applies | 0.33 |
-| 3 | Section RD 10(2)(b) or RD 17(3) applies | 0.39 |
+| 3 | Section RD 10(2)(b) or RD 17(3) applies | 0.38 |
 
 | How to use this table |
 | --- |
@@ -47244,9 +47039,7 @@ In this Part, other than sections 4 and 9,—
 
 ### 26 Child's income
 (1) Amendments incorporated in the principal Act.
-(2) In section LC 3,—
-  (a) in subsection (3)(a), $321.75 is replaced by $292.50:
-  (b) in subsection (4), in the formula, 13.75 is replaced by 12.5.
+(2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 income year and later income years.
 (4) Subsection (2) applies for the 2009–10 income year and later income years.
 
@@ -47319,6 +47112,16 @@ In this Part, other than sections 4 and 9,—
 (2) Subsection (1) applies for the 2008–09 income year and later income years.
 
 ### 1 Title
+This order is the Income Tax (Minimum Family Tax Credit) Order 2008.
+
+### 2 Commencement
+This order comes into force on 1 April 2009.
+
+### 3 Increase of prescribed amount in formula for minimum family tax credit
+(1) Amendment incorporated in the principal Act.
+(2) Subclause (1) applies in respect of the 2009–10 tax year and later tax years.
+
+### 1 Title
 This Act is the Taxation (Urgent Measures and Annual Rates) Act 2008.
 
 ### 2 Commencement
@@ -47348,7 +47151,109 @@ This Act is the Taxation (Urgent Measures and Annual Rates) Act 2008.
 (1) In subpart LH,––
   (a) Amendments incorporated in the principal Act.
   (b) Amendments incorporated in the principal Act.
-  (c) sections LH 1 to LH 6, LH 8 to LH 14, and LH 16 are repealed:
+  (c) Amendments incorporated in the principal Act.
   (d) section LH 15 is repealed.
 (2) Subsection (1)(a) and (b) applies for the 2008–09 income year and later income years.
 (3) Subsection (1)(c) applies for the 2009–10 income year and later income years.
+
+### 21 Some definitions
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+## Part 3 — Annual rates, independent earner tax credit, and consequential personal tax cuts amendments
+
+**Annual rates of income tax for 2009–10 tax year**
+
+### 29 Rates of income tax for 2009–10 tax year
+(1) Income tax imposed by section BB 1 of the Income Tax Act 2007 must, for the 2009–10 tax year, be paid at the basic rates specified in schedule 1 of that Act.
+(2) Section 61 of the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008 is repealed.
+
+### 1 Title
+This Act is the Taxation (Business Tax Measures) Act 2009.
+
+### 2 Commencement
+(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
+(2) In Part 1, the sections, other than sections 3 and 24, come into force on 1 April 2009.
+(3) In Part 2,––
+  (a) section 32 is treated as coming into force on 19 December 2007:
+  (b) sections 29(1), 30(1), and 31(1) come into force on 1 April 2009:
+  (c) sections 29(2), 30(2), and 31(2) come into force on 1 April 2010.
+
+## Part 1 — Business tax measures
+
+**Amendments to Income Tax Act 2007**
+
+### 4 New heading and new section DB 62
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 5 Valuing closing stock under $5,000
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2009–10 income year and later income years.
+
+### 6 When use of spreading method not required
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 7 Straight-line method
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 8 Consistency of use of straight-line method and market valuation method
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2009–10 income year and later income years.
+
+### 9 Section EW 54 replaced
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 10 Section EW 56 repealed
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 11 Thresholds
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Amendment incorporated in the principal Act.
+(4) Amendment incorporated in the principal Act.
+(5) Subsections (1) to (3) apply for the 2009–10 income year and later income years.
+
+### 12 Financial arrangements, income, and expenditure relevant to criteria
+(1) Amendment incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Subsections (1) to (4) apply for the 2009–10 income year and later income years.
+
+### 13 Section EW 59 replaced
+(1) Amendment incorporated in the principal Act.
+(2) Subsection (1) applies for the 2009–10 income year and later income years.
+
+### 14 Trustee of deceased's estate
+(1) Amendment incorporated in the principal Act.
+(2) Amendment incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2009–10 income year and later income years.
+
+## Part 2 — Minor remedial matters
+
+**Amendments to Income Tax Act 2007**
+
+### 29 Employer's liability for attributed benefits
+(1) Amendment incorporated in the principal Act.
+(2) In section RD 50(5), 61.29% is replaced by 58.73%.
+(3) Subsection (1) applies for the 2009–10 income year and later income years.
+(4) Subsection (2) applies for the 2010–11 income year and later income years.
+
+### 30 Calculation for certain employees when information lacking
+(1) Amendment incorporated in the principal Act.
+(2) In section RD 52(3)(b), 61.29% is replaced by 58.73%.
+(3) Subsection (1) applies for the 2009–10 income year and later income years.
+(4) Subsection (2) applies for the 2010–11 income year and later income years.
+
+### 31 Pooling non-attributed benefits
+(1) Amendment incorporated in the principal Act.
+(2) In section RD 53(4)(a), 61% is replaced by 59%.
+(3) Subsection (1) applies for the 2009–10 income year and later income years.
+(4) Subsection (2) applies for the 2010–11 income year and later income years.
