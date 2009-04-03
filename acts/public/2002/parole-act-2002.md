@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-04-03_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -271,6 +271,7 @@ For the purposes of section 15, a programme means any of the following:
 ### 17 Release at statutory release date
 (1) The statutory release date of an offender is the release date of the sentence to which the offender is subject (including any notional single sentences) that has the latest release date.
 (2) An offender who is detained in a prison on his or her statutory release date must be released from detention on that date.
+(3) Subsection (2) is subject to section 179A of the Corrections Act 2004.
 
 ### 18 Conditions applying to release at statutory release date
 (1) An offender who is released under section 17 at the release date of a short-term sentence is, on release, subject to any release conditions imposed by the court on that sentence unless subsection (3) or section 19 applies.
@@ -280,6 +281,9 @@ For the purposes of section 15, a programme means any of the following:
 (2AA) Despite subsection (2)(a), if the Board imposes any special conditions on the offender that the Board considers incompatible with all or any of the standard release conditions, the Board may suspend the incompatible standard release conditions during the period in which those special conditions are in force, and time runs on the suspended conditions during that period.
 (2A) Subsection (2) applies to an offender in respect of whom an extended supervision order is made, in order to ensure that, if the offender is released early under section 52, he or she will be subject to release conditions before the extended supervision order comes into force.
 (3) If an offender who is subject to a long-term sentence is, while not on parole or compassionate release, sentenced within the year preceding his or her statutory release date to a short-term sentence whose release date is after that statutory release date, then, if the offender is released at the release date of the short-term sentence, that release date must be treated as if it were the release date of a long-term sentence.
+(4) A prisoner to whom section 179A of the Corrections Act 2004 applies—
+  (a) is not, during the period between the statutory release date and the date of actual release, subject to any release conditions that will apply on or after his or her statutory release date; but
+  (b) from the statutory release date the time begins to run on the prisoner’s release conditions.
 
 ### 19 Special provision for offenders sentenced to short-term sentences while on parole
 (1) If an offender who is on parole is sentenced to a concurrent short-term sentence whose release date is before the offender's statutory release date, then (provided the offender is not recalled) the offender must be released from detention on the release date of the short-term sentence.
