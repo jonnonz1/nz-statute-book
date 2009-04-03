@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2008-12-25_
+_Consolidation as at 2009-04-03_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -10,63 +10,60 @@ _Consolidation as at 2008-12-25_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Aerodrome** has the same meaning as in the Civil Aviation Act 1990
-  - **Aircraft** has the same meaning as in the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of any of the armed forces of any country other than New Zealand
-  - **Assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other to believe on reasonable grounds that he has, present ability to effect his purpose; and has a corresponding meaning
+  - **aerodrome** has the same meaning as in the Civil Aviation Act 1990
+  - **aircraft** has the same meaning as in the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of any of the armed forces of any country other than New Zealand
+  - **assault** means the act of intentionally applying or attempting to apply force to the person of another, directly or indirectly, or threatening by any act or gesture to apply such force to the person of another, if the person making the threat has, or causes the other to believe on reasonable grounds that he has, present ability to effect his purpose; and has a corresponding meaning
   - **claim of right** , in relation to any act, means a belief that the act is lawful, although that belief may be based on ignorance or mistake of fact or of any matter of law other than the enactment against which the offence is alleged to have been committed.
-  - **Colour of right**
   - **Commonwealth country** means a country that is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
   - **Commonwealth ship** means a ship registered or required to be registered in any Commonwealth country, or recognised by the law of any Commonwealth country as a ship belonging to that country; and includes any ship for the time being used as a ship of any of the armed forces of any Commonwealth country
   - **constable** has the meaning given in section 4 of the Policing Act 2008
-  - **Crime** means an offence for which the offender may be proceeded against by indictment
+  - **crime** means an offence for which the offender may be proceeded against by indictment
   - **crime involving dishonesty** means any crime described in Part 10 except the crimes described in sections 267 to 272.
-  - **Criminally responsible** means liable to punishment for an offence
-  - **Day** , or , means the interval between 6 o'clock in the morning of any day and 9 o'clock at night of the same day
-  - **Depositions** includes written statements admitted in evidence at the preliminary hearing pursuant to section 173A of the Summary Proceedings Act 1957, and statements made under section 175 of that Act and read in evidence at the preliminary hearing
-  - **Firearm** has the same meaning as in the Arms Act 1983
+  - **criminally responsible** means liable to punishment for an offence
+  - **day** , or , means the interval between 6 o'clock in the morning of any day and 9 o'clock at night of the same day
+  - **depositions** includes written statements admitted in evidence at the preliminary hearing pursuant to section 173A of the Summary Proceedings Act 1957, and statements made under section 175 of that Act and read in evidence at the preliminary hearing
+  - **firearm** has the same meaning as in the Arms Act 1983
   - **for a material benefit** , in relation to doing a thing, means—
     (a) after having obtained a material benefit for doing the thing; or
     (b) intending to obtain a material benefit for doing the thing
-  - **Foreign ship** means a ship that is not a Commonwealth ship
+  - **foreign ship** means a ship that is not a Commonwealth ship
   - **genitalia** includes a surgically constructed or reconstructed organ analogous to naturally occurring male or female genitalia (whether the person concerned is male, female, or of indeterminate sex)
-  - **To injure** means to cause actual bodily harm
-  - **Is liable** means is liable on conviction on indictment
+  - **to injure** means to cause actual bodily harm
+  - **is liable** means is liable on conviction on indictment
   - **Judge** , in relation to a District Court, or means a Judge who holds a warrant under section 28B of the District Courts Act 1947 to conduct trials on indictment; and in section 399 of this Act includes any other District Court Judge
-  - **Justified** , in relation to any person, means not guilty of an offence and not liable to any civil proceeding
+  - **justified** , in relation to any person, means not guilty of an offence and not liable to any civil proceeding
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **New Zealand** includes all waters within the outer limits of the territorial sea of New Zealand (as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977))
   - **New Zealand aircraft** means any aircraft that is registered or required to be registered in New Zealand under the Civil Aviation Act 1990; and includes any aircraft for the time being used as an aircraft of the New Zealand forces
   - **New Zealand forces** means the New Zealand Naval Forces, the New Zealand Army, and the Royal New Zealand Air Force
   - **New Zealand ship** means a ship registered in New Zealand, or recognised by the law of New Zealand as a ship belonging to New Zealand; and includes any ship for the time being used as a ship of the New Zealand forces
-  - **Night** , or , means the interval between 9 o'clock at night and 6 o'clock in the following morning
+  - **night** , or , means the interval between 9 o'clock at night and 6 o'clock in the following morning
   - **obtain a material benefit** , in relation to doing a thing, means obtain, directly or indirectly, any goods, money, pecuniary advantage, privilege, property, or other valuable consideration of any kind for doing the thing (or taking an action that forms part of doing the thing)
-  - **Offence** means any act or omission for which any one can be punished under this Act or under any other enactment, whether on conviction on indictment or on summary conviction
+  - **offence** means any act or omission for which any one can be punished under this Act or under any other enactment, whether on conviction on indictment or on summary conviction
   - **penis** includes a surgically constructed or reconstructed organ analogous to a naturally occurring penis (whether the person concerned is male. female, or of indeterminate sex)
-  - **Person** , , and other words and expressions of the like kind, include the Crown and any public body or local authority, and any board, society, or company, and any other body of persons, whether incorporated or not, and the inhabitants of the district of any local authority, in relation to such acts and things as it or they are capable of doing or owning
+  - **person** , , and other words and expressions of the like kind, include the Crown and any public body or local authority, and any board, society, or company, and any other body of persons, whether incorporated or not, and the inhabitants of the district of any local authority, in relation to such acts and things as it or they are capable of doing or owning
   - **prison manager** means the manager of a prison
-  - **Property** includes real and personal property, and any estate or interest in any real or personal property, money, electricity, and any debt, and any thing in action, and any other right or interest
-  - **Prosecutor** means—
-    (a) A Crown Solicitor:
-    (b) In relation to a Crown prosecution, the Attorney-General:
-    (c) In relation to a private prosecution, the private prosecutor:
-  - **Protected from criminal responsibility** means not liable to any proceedings except a civil proceeding
+  - **property** includes real and personal property, and any estate or interest in any real or personal property, money, electricity, and any debt, and any thing in action, and any other right or interest
+  - **prosecutor** means—
+    (a) a Crown Solicitor:
+    (b) in relation to a Crown prosecution, the Attorney-General:
+    (c) in relation to a private prosecution, the private prosecutor:
+  - **protected from criminal responsibility** means not liable to any proceedings except a civil proceeding
   - **Registrar** —
-    (a) For the purposes of Part 12 of this Act, means any Registrar of the trial Court; and includes any Deputy Registrar of that Court:
-    (b) For any other purpose, means any Registrar of the High Court or of a District Court, as the case may require; and includes any Deputy Registrar:
+    (a) for the purposes of Part 12 of this Act, means any Registrar of the trial Court; and includes any Deputy Registrar of that Court:
+    (b) for any other purpose, means any Registrar of the High Court or of a District Court, as the case may require; and includes any Deputy Registrar:
   - **sexual connection** means—
     (a) connection effected by the introduction into the genitalia or anus of one person, otherwise than for genuine medical purposes, of—
       (i) a part of the body of another person; or
       (ii) an object held or manipulated by another person; or
     (b) connection between the mouth or tongue of one person and a part of another person's genitalia or anus; or
     (c) the continuation of connection of a kind described in paragraph (a) or paragraph (b)
-  - **Ship** means every description of vessel used in navigation, however propelled; and includes any barge, lighter, dinghy, raft, or like vessel; and also includes any ship belonging to or used as a ship of the armed forces of any country
-  - **Superintendent**
+  - **ship** means every description of vessel used in navigation, however propelled; and includes any barge, lighter, dinghy, raft, or like vessel; and also includes any ship belonging to or used as a ship of the armed forces of any country
   - **Supreme Court** means the Supreme Court of New Zealand established by section 6 of the Supreme Court Act 2003
-  - **Territorial waters** , in relation to any country other than New Zealand, means such part of the sea adjacent to the coast of that country as is within the territorial sovereignty of that country; and includes ports, harbours, rivers, and other places in which at the commencement of this Act the Admiralty of England has jurisdiction (whether exclusive or not) in respect of offences of any kind committed on board Commonwealth ships
+  - **territorial waters** , in relation to any country other than New Zealand, means such part of the sea adjacent to the coast of that country as is within the territorial sovereignty of that country; and includes ports, harbours, rivers, and other places in which at the commencement of this Act the Admiralty of England has jurisdiction (whether exclusive or not) in respect of offences of any kind committed on board Commonwealth ships
   - **Trial Judge** means,—
-    (a) If the accused has been committed to the High Court for trial and the case has not been transferred to the District Court for trial pursuant to section 168AA of the Summary Proceedings Act 1957, a High Court Judge:
-    (b) If the accused has been committed to the District Court for trial or the case has been transferred to that Court for trial pursuant to section 168AA of the Summary Proceedings Act 1957, and the Court has jurisdiction in the matter under section 28A of the District Courts Act 1947, a District Court Judge:
-  - **Valuable security**
+    (a) if the accused has been committed to the High Court for trial and the case has not been transferred to the District Court for trial pursuant to section 168AA of the Summary Proceedings Act 1957, a High Court Judge:
+    (b) if the accused has been committed to the District Court for trial or the case has been transferred to that Court for trial pursuant to section 168AA of the Summary Proceedings Act 1957, and the Court has jurisdiction in the matter under section 28A of the District Courts Act 1947, a District Court Judge:
 (1A) For the purposes of paragraph (a) of the definition in subsection (1) of sexual connection, introduction to the slightest degree is enough to effect a connection.
 (1B) For the purposes of this Act, one person does an indecent act on another person whether he or she—
   (a) does an indecent act with or on the other person; or
@@ -75,16 +72,16 @@ _Consolidation as at 2008-12-25_
 
 ### 3 Meaning of convicted on indictment
 For the purposes of this Act, a person shall be deemed to be convicted on indictment if—
-  (a) He pleads guilty on indictment; or
-  (b) He is found guilty on indictment; or
-  (c) He is committed to the High Court for sentence under section 44 or section 153A or section 168 of the Summary Proceedings Act 1957; or
-  (d) After having been committed for trial, he pleads guilty under section 321 of this Act.
+  (a) he pleads guilty on indictment; or
+  (b) he is found guilty on indictment; or
+  (c) he is committed to the High Court for sentence under section 44 or section 153A or section 168 of the Summary Proceedings Act 1957; or
+  (d) after having been committed for trial, he pleads guilty under section 321 of this Act.
 
 ### 4 Meaning of ordinarily resident in New Zealand
 For the purposes of this Act, a person shall be deemed to be ordinarily resident in New Zealand if—
-  (a) His home is in New Zealand; or
-  (b) He is residing in New Zealand with the intention of residing therein indefinitely; or
-  (c) Having resided in New Zealand with the intention of establishing his home therein, or with the intention of residing in New Zealand indefinitely, he is outside New Zealand but has an intention to return to establish his home therein or to reside in New Zealand indefinitely.
+  (a) his home is in New Zealand; or
+  (b) he is residing in New Zealand with the intention of residing therein indefinitely; or
+  (c) having resided in New Zealand with the intention of establishing his home therein, or with the intention of residing in New Zealand indefinitely, he is outside New Zealand but has an intention to return to establish his home therein or to reside in New Zealand indefinitely.
 
 ## Part 1 — Jurisdiction
 
@@ -144,11 +141,11 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
 
 ### 8 Jurisdiction in respect of crimes on ships or aircraft beyond New Zealand
 (1) This section applies to any act done or omitted beyond New Zealand by any person—
-  (a) On board any Commonwealth ship; or
-  (b) On board any New Zealand aircraft; or
-  (c) On board any ship or aircraft, if that person arrives in New Zealand on that ship or aircraft in the course or at the end of a journey during which the act was done or omitted; or
-  (d) Being a British subject, on board any foreign ship (not being a ship to which he belongs) on the high seas, or on board any such ship within the territorial waters of any Commonwealth country; or
-  (e) Being a New Zealand citizen or a person ordinarily resident in New Zealand, on board any aircraft:
+  (a) on board any Commonwealth ship; or
+  (b) on board any New Zealand aircraft; or
+  (c) on board any ship or aircraft, if that person arrives in New Zealand on that ship or aircraft in the course or at the end of a journey during which the act was done or omitted; or
+  (d) being a British subject, on board any foreign ship (not being a ship to which he belongs) on the high seas, or on board any such ship within the territorial waters of any Commonwealth country; or
+  (e) being a New Zealand citizen or a person ordinarily resident in New Zealand, on board any aircraft:
     Provided that paragraph (c) of this subsection shall not apply where the act was done or omitted by a person, not being a British subject, on any ship or aircraft for the time being used as a ship or aircraft of any of the armed forces of a country that is not a Commonwealth country.
 (2) Where any person does or omits any act to which this section applies, and that act or omission would, if it occurred within New Zealand, be a crime under this Act or under any other enactment (whether that enactment was passed before or after the commencement of this Act), then, subject to the provisions of this Act and of that other enactment, he shall be liable on conviction on indictment or, in the case of a crime to which Part 1 of the Summary Proceedings Act 1957 applies, either on conviction on indictment or on summary conviction under that Part, as if the act or omission had occurred in New Zealand:
   Provided that where any proceedings are taken by virtue of the jurisdiction conferred by this section it shall be a defence to prove that the act or omission would not have been an offence under the law of the country of which the person charged was a national or citizen at the time of the act or omission, if it had occurred in that country.
@@ -160,27 +157,27 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
 
 ### 8A Jurisdiction in respect of certain persons with diplomatic or consular immunity
 (1) This section applies to every person who is—
-  (a) A head of mission or head of post within the meaning of the Foreign Affairs Act 1988; or
-  (b) A person who is on overseas service pursuant to section 6 of the Foreign Affairs Act 1988; or
-  (c) A New Zealand citizen ordinarily resident in New Zealand and who is—
-    (i) A member of the family of a person described in paragraph (a) or paragraph (b) of this subsection; or
-    (ii) A member of the staff of a New Zealand overseas post or a New Zealand overseas mission, whether or not an officer or employee of the Ministry of Foreign Affairs and Trade or a person employed under section 10 of the Foreign Affairs Act 1988; or
-    (iii) An officer or employee of the State services (as defined in section 2(1) of the State Sector Act 1988), or of the New Zealand Trade Development Board (as established by New Zealand Trade and Enterprise (as established by the New Zealand Trade and Enterprise Act 2003), who is serving in a New Zealand overseas post or a New Zealand overseas mission.
+  (a) a head of mission or head of post within the meaning of the Foreign Affairs Act 1988; or
+  (b) a person who is on overseas service pursuant to section 6 of the Foreign Affairs Act 1988; or
+  (c) a New Zealand citizen ordinarily resident in New Zealand and who is—
+    (i) a member of the family of a person described in paragraph (a) or paragraph (b) of this subsection; or
+    (ii) a member of the staff of a New Zealand overseas post or a New Zealand overseas mission, whether or not an officer or employee of the Ministry of Foreign Affairs and Trade or a person employed under section 10 of the Foreign Affairs Act 1988; or
+    (iii) an officer or employee of the State services (as defined in section 2(1) of the State Sector Act 1988), or of the New Zealand Trade Development Board (as established by New Zealand Trade and Enterprise (as established by the New Zealand Trade and Enterprise Act 2003), who is serving in a New Zealand overseas post or a New Zealand overseas mission.
 (2) Where—that act or omission shall be deemed to have taken place within New Zealand.
-  (a) Any person to whom this section applies does, or omits to do, any act outside New Zealand (whether or not the act or omission concerned constitutes an offence under the laws in force in the place where it took place) that, if done or omitted within New Zealand would constitute an offence punishable by imprisonment for one year or more; and
-  (b) That person has immunity from criminal jurisdiction in the place where that act or omission took place; and
-  (c) That immunity has not been waived (otherwise than to any extent necessary to enable the extradition of that person),—
+  (a) any person to whom this section applies does, or omits to do, any act outside New Zealand (whether or not the act or omission concerned constitutes an offence under the laws in force in the place where it took place) that, if done or omitted within New Zealand would constitute an offence punishable by imprisonment for one year or more; and
+  (b) that person has immunity from criminal jurisdiction in the place where that act or omission took place; and
+  (c) that immunity has not been waived (otherwise than to any extent necessary to enable the extradition of that person),—
 (3) No information shall be laid against any person over whom jurisdiction is claimed by virtue of subsection (2) of this section without the leave of the Attorney-General.
 (4) Subsection (5) of this section applies to any offence to the laying of an information in respect of which the consent of the Attorney-General is required by subsection (3) of this section.
 (5) Where any person is alleged to have committed an offence to which this subsection applies,—and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General has not been obtained to the laying of an information in respect of that offence; but no further proceedings shall be taken until that consent has been obtained.
-  (a) He may be arrested; or
-  (b) A warrant for his arrest may be issued and executed,—
+  (a) he may be arrested; or
+  (b) a warrant for his arrest may be issued and executed,—
 
 ### 9 Offences not to be punishable except under New Zealand Acts
 No one shall be convicted of any offence at common law, or of any offence against any Act of the Parliament of England or the Parliament of Great Britain or the Parliament of the United Kingdom:
   Provided that—
-    (a) Nothing in this section shall limit or affect the power or authority of the House of Representatives or of any Court to punish for contempt:
-    (b) Nothing in this section shall limit or affect the jurisdiction or powers of any Court Martial, or of any officer in any of the New Zealand forces.
+    (a) nothing in this section shall limit or affect the power or authority of the House of Representatives or of any Court to punish for contempt:
+    (b) nothing in this section shall limit or affect the jurisdiction or powers of any Court Martial, or of any officer in any of the New Zealand forces.
 
 ### 10 Offence under more than one enactment
 (1) Where an act or omission constitutes an offence under this Act and under any other Act, the offender may be prosecuted and punished either under this Act or under that other Act.
@@ -194,8 +191,8 @@ Notwithstanding any other enactment or rule of law to the contrary, no person sh
 ### 10B Period of limitation
 (1) Except with the prior consent of the Attorney-General, no proceedings in respect of an offence to which this section applies, or, where such proceedings have been commenced, no further steps in the proceedings (other than steps subsequent to the trial or hearing) shall be taken after the expiration of 10 years from the date of the commission of the offence.
 (2) This section shall apply to the following offences:
-  (a) An offence punishable by a fine only, where the maximum fine that may be imposed in respect of that offence is less than $2,000:
-  (b) An offence punishable by imprisonment, where the maximum term of imprisonment that may be imposed in respect of that offence is less than 3 years.
+  (a) an offence punishable by a fine only, where the maximum fine that may be imposed in respect of that offence is less than $2,000:
+  (b) an offence punishable by imprisonment, where the maximum term of imprisonment that may be imposed in respect of that offence is less than 3 years.
 (3) This section shall apply with respect to offences committed before or after the commencement of this section and, in the case of an offence committed before the commencement of this section, whether or not proceedings in respect of the offence have been commenced before the commencement of this section or are in progress at the commencement of this section.
 (4) Nothing in this section shall derogate from the provisions of any other Act fixing a period of limitation of less than 10 years for the commencement of proceedings in respect of an offence.
 
@@ -253,9 +250,9 @@ Nothing in this Act shall be construed to limit or affect in any way any provisi
 
 ### 19 Payment of fine, etc
 (1) Where the Court sentences an offender on conviction on indictment to pay a fine, or orders him to pay any other sum of money, it may do all or any of the following things—
-  (a) Allow time for payment:
-  (b) Direct payment to be made by instalments:
-  (c) Direct payment to be made to such person or persons and in such place or places as the Court may specify.
+  (a) allow time for payment:
+  (b) direct payment to be made by instalments:
+  (c) direct payment to be made to such person or persons and in such place or places as the Court may specify.
 (2) Where a sum is directed to be paid by instalments and default is made in the payment of any one instalment, the same proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
 
 ### 19A Supervision of offender when time for payment is allowed
@@ -263,9 +260,9 @@ Nothing in this Act shall be construed to limit or affect in any way any provisi
 
 ### 19B Immediate execution
 If the Court which sentences an offender to pay a fine or which orders an offender to pay any other sum of money is of opinion—the Court may direct that a writ of sale be issued against the personal property of an offender, without waiting for the expiration of the period mentioned in the rules of Court made under this Act, or it may impose on the offender a period of imprisonment in default of payment of the fine or other sum of money (not exceeding the appropriate maximum period prescribed in section 19E of this Act).
-  (a) That the offender has sufficient means to pay the fine or other sum of money forthwith; or
-  (b) That the offender has no fixed place of residence; or
-  (c) That for any other reason, having reference to the gravity of the offence, the character of the offender, or other special circumstances, execution should issue without delay—
+  (a) that the offender has sufficient means to pay the fine or other sum of money forthwith; or
+  (b) that the offender has no fixed place of residence; or
+  (c) that for any other reason, having reference to the gravity of the offence, the character of the offender, or other special circumstances, execution should issue without delay—
 
 ### 19C Warrant to collect fine or other sum of money ordered to be paid
 (1) Where any fine imposed on conviction on indictment or any other sum of money which an offender has been ordered to pay is not paid within 14 days thereafter, or within such further time as may be allowed or fixed for the payment thereof, any Registrar may issue a warrant in the form prescribed in the rules of Court made under this Act to collect the sum or so much of it as remains unpaid.
@@ -313,8 +310,8 @@ The Court may at any time, in the case of any appeal or application for leave to
 ### 23 Insanity
 (1) Every one shall be presumed to be sane at the time of doing or omitting any act until the contrary is proved.
 (2) No person shall be convicted of an offence by reason of an act done or omitted by him when labouring under natural imbecility or disease of the mind to such an extent as to render him incapable—
-  (a) Of understanding the nature and quality of the act or omission; or
-  (b) Of knowing that the act or omission was morally wrong, having regard to the commonly accepted standards of right and wrong.
+  (a) of understanding the nature and quality of the act or omission; or
+  (b) of knowing that the act or omission was morally wrong, having regard to the commonly accepted standards of right and wrong.
 (3) Insanity before or after the time when he did or omitted the act, and insane delusions, though only partial, may be evidence that the offender was, at the time when he did or omitted the act, in such a condition of mind as to render him irresponsible for the act or omission.
 (4) The fact that by virtue of this section any person has not been or is not liable to be convicted of an offence shall not affect the question whether any other person who is alleged to be a party to that offence is guilty of that offence.
 
@@ -323,16 +320,16 @@ The Court may at any time, in the case of any appeal or application for leave to
 ### 24 Compulsion
 (1) Subject to the provisions of this section, a person who commits an offence under compulsion by threats of immediate death or grievous bodily harm from a person who is present when the offence is committed is protected from criminal responsibility if he believes that the threats will be carried out and if he is not a party to any association or conspiracy whereby he is subject to compulsion.
 (2) Nothing in subsection (1) of this section shall apply where the offence committed is an offence specified in any of the following provisions of this Act, namely:
-  (a) Section 73 (treason) or section 78 (communicating secrets):
-  (b) Section 79 (sabotage):
-  (c) Section 92 (piracy):
-  (d) Section 93 (piratical acts):
-  (e) Sections 167 and 168 (murder):
-  (f) Section 173 (attempt to murder):
-  (g) Section 188 (wounding with intent):
-  (h) Subsection (1) of section 189 (injuring with intent to cause grievous bodily harm):
-  (i) Section 208 (abduction):
-  (j) Section 209 (kidnapping):
+  (a) section 73 (treason) or section 78 (communicating secrets):
+  (b) section 79 (sabotage):
+  (c) section 92 (piracy):
+  (d) section 93 (piratical acts):
+  (e) section 167 and 168 (murder):
+  (f) section 173 (attempt to murder):
+  (g) section 188 (wounding with intent):
+  (h) subsection (1) of section 189 (injuring with intent to cause grievous bodily harm):
+  (i) section 208 (abduction):
+  (j) section 209 (kidnapping):
   (k) section 234 (robbery):
   (ka)
   (l) section 235 (aggravated robbery):
@@ -353,17 +350,17 @@ The fact that an offender is ignorant of the law is not an excuse for any offenc
 
 ### 27 Execution of erroneous sentence or process
 If a sentence is passed or a process is issued by a Court having jurisdiction under any circumstances to pass such a sentence or issue such a process, or if a warrant is issued by a Court or person having jurisdiction under any circumstances to issue such a warrant, the sentence passed or process or warrant issued shall be sufficient to justify the execution of it by every officer, prison manager, or other person authorised to execute it, and by every person lawfully assisting him, notwithstanding that—
-  (a) The Court passing the sentence or issuing the process had no authority to pass that sentence or issue that process in the particular case; or
-  (b) The Court or other person issuing the warrant had no jurisdiction to issue it, or exceeded its or his jurisdiction in issuing it, in the particular case.
+  (a) the Court passing the sentence or issuing the process had no authority to pass that sentence or issue that process in the particular case; or
+  (b) the Court or other person issuing the warrant had no jurisdiction to issue it, or exceeded its or his jurisdiction in issuing it, in the particular case.
 
 ### 28 Sentence or process without jurisdiction
 (1) Every officer, prison manager, or person executing any sentence, process, or warrant, and every person lawfully assisting him, shall be protected from criminal responsibility if—
-  (a) He acts in good faith under the belief that the sentence or process was that of a Court having jurisdiction, or, as the case may be, that the warrant was that of a Court, Justice, Community Magistrate, or other person having authority to issue warrants; and
-  (b) It is proved that the person passing the sentence or issuing the process acted as such a Court under colour of having some appointment or commission lawfully authorising him to act as such a Court, or, as the case may require, that the person issuing the warrant acted as a Justice, Community Magistrate, or other person having authority to do so.
+  (a) he acts in good faith under the belief that the sentence or process was that of a Court having jurisdiction, or, as the case may be, that the warrant was that of a Court, Justice, Community Magistrate, or other person having authority to issue warrants; and
+  (b) it is proved that the person passing the sentence or issuing the process acted as such a Court under colour of having some appointment or commission lawfully authorising him to act as such a Court, or, as the case may require, that the person issuing the warrant acted as a Justice, Community Magistrate, or other person having authority to do so.
 (2) This section shall apply notwithstanding that, in fact,—
-  (a) Any such appointment or commission as aforesaid did not exist or had expired; or
-  (b) The Court or the person passing the sentence or issuing the process was not the Court or the person authorised by the appointment or commission to act; or
-  (c) The person issuing the warrant was not duly authorised to issue it.
+  (a) any such appointment or commission as aforesaid did not exist or had expired; or
+  (b) the Court or the person passing the sentence or issuing the process was not the Court or the person authorised by the appointment or commission to act; or
+  (c) the person issuing the warrant was not duly authorised to issue it.
 
 ### 29 Irregular warrant or process
 (1) Every one acting under a warrant or process that is bad in law on account of some defect in substance or in form, apparent on the face of it, shall be protected from criminal responsibility to the same extent and subject to the same provisions as if the warrant or process were good in law if in good faith and without culpable ignorance or negligence he believed that the warrant or process was good in law; and ignorance of the law shall in this case be an excuse.
@@ -390,8 +387,8 @@ Every officer or other person, not being a constable, who is authorised by any e
 
 ### 35 Arrest of persons found committing certain crimes
 Every one is justified in arresting without warrant—
-  (a) Any person whom he finds committing any offence against this Act for which the maximum punishment is not less than 3 years' imprisonment:
-  (b) Any person whom he finds by night committing any offence against this Act.
+  (a) any person whom he finds committing any offence against this Act for which the maximum punishment is not less than 3 years' imprisonment:
+  (b) any person whom he finds by night committing any offence against this Act.
 
 ### 36 Arrest of person believed to be committing crime by night
 Every one is protected from criminal responsibility for arresting without warrant any person whom he finds by night in circumstances affording reasonable and probable grounds for believing that that person is committing an offence against this Act.
@@ -411,8 +408,8 @@ Where any person is justified, or protected from criminal responsibility, in exe
 
 ### 40 Preventing escape or rescue
 (1) Where any person is lawfully authorised to arrest or to assist in arresting any other person, or is justified in or protected from criminal responsibility for arresting or assisting to arrest any other person, that authority, justification, or protection, as the case may be, shall extend and apply to the use of such force as may be necessary—unless in any such case the escape or rescue can be prevented by reasonable means in a less violent manner:
-  (a) To prevent the escape of that other person if he takes to flight in order to avoid arrest; or
-  (b) To prevent the escape or rescue of that other person after his arrest—
+  (a) to prevent the escape of that other person if he takes to flight in order to avoid arrest; or
+  (b) to prevent the escape or rescue of that other person after his arrest—
   Provided that, except in the case of a constable or a person called upon by a constable to assist him, this subsection shall not apply where the force used is intended or likely to cause death or grievous bodily harm.
 (2) Where any prisoner of a prison is attempting to escape from lawful custody, or is fleeing after having escaped therefrom, every constable, and every person called upon by a constable to assist him, is justified in using such force as may be necessary to prevent the escape of or to recapture the prisoner, unless in any case the escape can be prevented or the recapture effected by reasonable means in a less violent manner.
 
@@ -534,10 +531,10 @@ Nothing in this Act shall take away or diminish any authority given by any other
 
 ### 66 Parties to offences
 (1) Every one is a party to and guilty of an offence who—
-  (a) Actually commits the offence; or
-  (b) Does or omits an act for the purpose of aiding any person to commit the offence; or
-  (c) Abets any person in the commission of the offence; or
-  (d) Incites, counsels, or procures any person to commit the offence.
+  (a) actually commits the offence; or
+  (b) does or omits an act for the purpose of aiding any person to commit the offence; or
+  (c) abets any person in the commission of the offence; or
+  (d) incites, counsels, or procures any person to commit the offence.
 (2) Where 2 or more persons form a common intention to prosecute any unlawful purpose, and to assist each other therein, each of them is a party to every offence committed by any one of them in the prosecution of the common purpose if the commission of that offence was known to be a probable consequence of the prosecution of the common purpose.
 
 ### 67 Conspiracy between spouses or civil union partners
@@ -576,12 +573,12 @@ A person is capable of conspiring with his or her spouse or civil union partner 
 
 ### 73 Treason
 Every one owing allegiance to Her Majesty the Queen in right of New Zealand commits treason who, within or outside New Zealand,—
-  (a) Kills or wounds or does grievous bodily harm to Her Majesty the Queen, or imprisons or restrains her; or
-  (b) Levies war against New Zealand; or
-  (c) Assists an enemy at war with New Zealand, or any armed forces against which New Zealand forces are engaged in hostilities, whether or not a state of war exists between New Zealand and any other country; or
-  (d) Incites or assists any person with force to invade New Zealand; or
-  (e) Uses force for the purpose of overthrowing the Government of New Zealand; or
-  (f) Conspires with any person to do anything mentioned in this section.
+  (a) kills or wounds or does grievous bodily harm to Her Majesty the Queen, or imprisons or restrains her; or
+  (b) levies war against New Zealand; or
+  (c) assists an enemy at war with New Zealand, or any armed forces against which New Zealand forces are engaged in hostilities, whether or not a state of war exists between New Zealand and any other country; or
+  (d) incites or assists any person with force to invade New Zealand; or
+  (e) uses force for the purpose of overthrowing the Government of New Zealand; or
+  (f) conspires with any person to do anything mentioned in this section.
 
 ### 74 Punishment for treason or attempted treason
 (1) Except as otherwise provided in this Act, every one who commits treason within the meaning of any of the provisions of paragraphs (a) to (e) of section 73 of this Act shall upon conviction be sentenced to imprisonment for life.
@@ -594,111 +591,111 @@ Every one owing allegiance to Her Majesty the Queen in right of New Zealand comm
 
 ### 76 Punishment for being party to treason
 Every one is liable to imprisonment for a term not exceeding 7 years who—
-  (a) Becomes an accessory after the fact to treason; or
-  (b) Knowing that a person is about to commit treason, fails without reasonable excuse to inform a constable as soon as possible or to use other reasonable efforts to prevent its commission.
+  (a) becomes an accessory after the fact to treason; or
+  (b) knowing that a person is about to commit treason, fails without reasonable excuse to inform a constable as soon as possible or to use other reasonable efforts to prevent its commission.
 
 ### 77 Inciting to mutiny
 Every one owing allegiance to Her Majesty the Queen in right of New Zealand is liable to imprisonment for a term not exceeding 10 years who, within or outside New Zealand, for any traitorous or mutinous purpose,—
-  (a) Endeavours at any time to seduce any person serving in the New Zealand forces from his duty; or
-  (b) During any war or state of hostilities in which New Zealand forces are engaged, endeavours to seduce any person serving in any allied armed force, whether a Commonwealth force or not, from his duty.
+  (a) endeavours at any time to seduce any person serving in the New Zealand forces from his duty; or
+  (b) during any war or state of hostilities in which New Zealand forces are engaged, endeavours to seduce any person serving in any allied armed force, whether a Commonwealth force or not, from his duty.
 
 ### 78 Espionage
 Every one is liable to imprisonment for a term not exceeding 14 years who, being a person who owes allegiance to the Queen in right of New Zealand, within or outside New Zealand,—if the communication or delivery or intended communication or intended delivery under paragraph (a) or paragraph (b) of this section is likely to prejudice the security or defence of New Zealand.
-  (a) With intent to prejudice the security or defence of New Zealand, communicates information or delivers any object to a country or organisation outside New Zealand or to a person acting on behalf of any such country or organisation; or
-  (b) With intent to prejudice the security or defence of New Zealand and with the intention of communicating information or delivering any object to a country or organisation outside New Zealand or to a person acting on behalf of any such country or organisation,—
-    (i) Collects or records any information; or
-    (ii) Copies any document; or
-    (iii) Obtains any object; or
-    (iv) Makes any sketch, plan, model, or note; or
-    (v) Takes any photograph; or
-    (vi) Records any sound or image; or
-    (vii) Delivers any object to any person,—
+  (a) with intent to prejudice the security or defence of New Zealand, communicates information or delivers any object to a country or organisation outside New Zealand or to a person acting on behalf of any such country or organisation; or
+  (b) with intent to prejudice the security or defence of New Zealand and with the intention of communicating information or delivering any object to a country or organisation outside New Zealand or to a person acting on behalf of any such country or organisation,—
+    (i) collects or records any information; or
+    (ii) copies any document; or
+    (iii) obtains any object; or
+    (iv) makes any sketch, plan, model, or note; or
+    (v) takes any photograph; or
+    (vi) records any sound or image; or
+    (vii) delivers any object to any person,—
 
 ### 78A Wrongful communication, retention, or copying of official information
 (1) Every one is liable to imprisonment for a term not exceeding 3 years who, being a person who owes allegiance to the Queen in right of New Zealand, within or outside New Zealand,—
-  (a) Knowingly or recklessly, and with knowledge that he is acting without proper authority, communicates any official information or delivers any object to any other person knowing that such communication or delivery is likely to prejudice the security or defence of New Zealand; or
-  (b) With intent to prejudice the security or defence of New Zealand, retains or copies any official document—
-    (i) Which he knows he does not have proper authority to retain or copy; and
-    (ii) Which he knows relates to the security or defence of New Zealand; and
-    (iii) Which would, by its unauthorised disclosure, be likely to prejudice the security or defence of New Zealand; or
-  (c) Knowingly fails to comply with any directions issued by a lawful authority for the return of an official document—
-    (i) Which is in his possession or under his control; and
-    (ii) Which he knows relates to the security or defence of New Zealand; and
-    (iii) Which would, by its unauthorised disclosure, be likely to prejudice seriously the security or defence of New Zealand.
+  (a) knowingly or recklessly, and with knowledge that he is acting without proper authority, communicates any official information or delivers any object to any other person knowing that such communication or delivery is likely to prejudice the security or defence of New Zealand; or
+  (b) with intent to prejudice the security or defence of New Zealand, retains or copies any official document—
+    (i) which he knows he does not have proper authority to retain or copy; and
+    (ii) which he knows relates to the security or defence of New Zealand; and
+    (iii) which would, by its unauthorised disclosure, be likely to prejudice the security or defence of New Zealand; or
+  (c) knowingly fails to comply with any directions issued by a lawful authority for the return of an official document—
+    (i) which is in his possession or under his control; and
+    (ii) which he knows relates to the security or defence of New Zealand; and
+    (iii) which would, by its unauthorised disclosure, be likely to prejudice seriously the security or defence of New Zealand.
 (2) In this section,—
   - **Department** means a Government Department named in Part 1 of Schedule 1 to the Ombudsmen Act 1975
-  - **Object** means any object which—
-    (a) A Department; or
-    (b) A Minister of the Crown in his official capacity; or
-    (c) An organisation; or
-    (d) An officer or employee of any Department or organisation in his capacity as such an officer or employee or in his capacity as a statutory officer; or
-    (e) An independent contractor engaged by any Department or Minister of the Crown or organisation in his capacity as such contractor; or
-    (f) A branch or post, outside New Zealand, of a Department or organisation; or
-    (g) An unincorporated body (being a board, council, committee, subcommittee, or other body)—is entitled to have in its or his possession by virtue of its or his rights as the owner, hirer, lessee, bailee, or custodian of that object:
-      (i) Which is established for the purpose of assisting or advising, or performing functions connected with, any Department or Minister of the Crown or organisation; and
-      (ii) Which is so established in accordance with the provisions of any enactment or by any Department or Minister of the Crown or organisation,—
-  - **Official information** —
-    (a) Means any information held by—
-      (i) A Department; or
-      (ii) A Minister of the Crown in his official capacity; or
-      (iii) An organisation; or
-      (iv) An officer or employee of any Department or organisation in his capacity as such an officer or employee or in his capacity as a statutory officer; or
-      (v) An independent contractor engaged by any Department or Minister of the Crown or organisation in his capacity as such contractor; and
-    (b) Includes any information held outside New Zealand by any branch or post of—
-      (i) A Department; or
-      (ii) An organisation; and
-    (c) Includes any information held by an unincorporated body (being a board, council, committee, subcommittee, or other body)—
-      (i) Which is established for the purpose of assisting or advising, or performing functions connected with, any Department or Minister of the Crown or organisation; and
-      (ii) Which is so established in accordance with the provisions of any enactment or by any Department or Minister of the Crown or organisation:
-  - **Organisation** means—
-    (a) An organisation named in Part 2 of Schedule 1 to the Ombudsmen Act 1975:
-    (b) An organisation named in Schedule 1 to the Official Information Act 1982:
-  - **Statutory officer** means a person—
-    (a) Holding or performing the duties of an office established by an enactment; or
-    (b) Performing duties expressly conferred on him by virtue of his office by an enactment.
+  - **object** means any object which—
+    (a) a Department; or
+    (b) a Minister of the Crown in his official capacity; or
+    (c) an organisation; or
+    (d) an officer or employee of any Department or organisation in his capacity as such an officer or employee or in his capacity as a statutory officer; or
+    (e) an independent contractor engaged by any Department or Minister of the Crown or organisation in his capacity as such contractor; or
+    (f) a branch or post, outside New Zealand, of a Department or organisation; or
+    (g) an unincorporated body (being a board, council, committee, subcommittee, or other body)—is entitled to have in its or his possession by virtue of its or his rights as the owner, hirer, lessee, bailee, or custodian of that object:
+      (i) which is established for the purpose of assisting or advising, or performing functions connected with, any Department or Minister of the Crown or organisation; and
+      (ii) which is so established in accordance with the provisions of any enactment or by any Department or Minister of the Crown or organisation,—
+  - **official information** —
+    (a) means any information held by—
+      (i) a Department; or
+      (ii) a Minister of the Crown in his official capacity; or
+      (iii) an organisation; or
+      (iv) an officer or employee of any Department or organisation in his capacity as such an officer or employee or in his capacity as a statutory officer; or
+      (v) an independent contractor engaged by any Department or Minister of the Crown or organisation in his capacity as such contractor; and
+    (b) includes any information held outside New Zealand by any branch or post of—
+      (i) a Department; or
+      (ii) an organisation; and
+    (c) includes any information held by an unincorporated body (being a board, council, committee, subcommittee, or other body)—
+      (i) which is established for the purpose of assisting or advising, or performing functions connected with, any Department or Minister of the Crown or organisation; and
+      (ii) which is so established in accordance with the provisions of any enactment or by any Department or Minister of the Crown or organisation:
+  - **organisation** means—
+    (a) an organisation named in Part 2 of Schedule 1 to the Ombudsmen Act 1975:
+    (b) an organisation named in Schedule 1 to the Official Information Act 1982:
+  - **statutory officer** means a person—
+    (a) holding or performing the duties of an office established by an enactment; or
+    (b) performing duties expressly conferred on him by virtue of his office by an enactment.
 
 ### 78B Consent of Attorney-General to proceedings in relation to espionage or wrongful communication, retention, or copying of official information
 (1) No information shall be laid against any person for—except with the consent of the Attorney-General:
-  (a) An offence against section 78 or 78A(1) of this Act; or
-  (b) The offence of conspiring to commit an offence against section 78 or section 78A(1) of this Act; or
-  (c) The offence of attempting to commit an offence against section 78 or section 78A(1) of this Act,—
+  (a) an offence against section 78 or 78A(1) of this Act; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) of this Act; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) of this Act,—
   Provided that a person alleged to have committed any offence mentioned in this subsection may be arrested, or a warrant for his arrest may be issued and executed, and any such person may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained, but no further or other proceedings shall be taken until that consent has been obtained.
 (2) The Attorney-General may, before deciding whether or not to give his consent under subsection (1) of this section, make such inquiries as he thinks fit.
 
 ### 78C Questions of law in relation to espionage or wrongful communication of information
 (1) It is a question of law, in the case of—whether the communication or delivery or intended communication or intended delivery was or would have been, at the time of the alleged offence, likely to have prejudiced the security or defence of New Zealand.
-  (a) An offence against section 78 or section 78A(1)(a) of this Act; or
-  (b) The offence of conspiring to commit an offence against section 78 or section 78A(1)(a) of this Act; or
-  (c) The offence of attempting to commit an offence against section 78 or section 78A(1)(a) of this Act,—
+  (a) an offence against section 78 or section 78A(1)(a) of this Act; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1)(a) of this Act; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78A(1)(a) of this Act,—
 (2) It is a question of law, in the case of,—whether the document would, by its unauthorised disclosure at the time of the alleged offence, have been likely to have prejudiced or to have prejudiced seriously, as the case may require, the security or defence of New Zealand.
-  (a) An offence against section 78A(1)(b) or (c) of this Act; or
-  (b) The offence of conspiring to commit an offence against section 78A(1)(b) or (c) of this Act; or
-  (c) The offence of attempting to commit an offence against section 78A(1)(b) or (c) of this Act,—
+  (a) an offence against section 78A(1)(b) or (c) of this Act; or
+  (b) the offence of conspiring to commit an offence against section 78A(1)(b) or (c) of this Act; or
+  (c) the offence of attempting to commit an offence against section 78A(1)(b) or (c) of this Act,—
 (3) Where the decision on any question of law to which this section applies depends on any questions of fact, the prosecutor or the accused may adduce, and the Judge may hear, in addition to the evidence heard by the jury, any evidence relevant to those questions of fact.
 
 ### 78D Search without warrant
 (1) Where a commissioned officer of the Police is satisfied that there is reasonable ground for believing—he may by a written order signed by him give to any member of the Police the like authority that may be given by a search warrant issued under section 198 of the Summary Proceedings Act 1957, and the provisions of that section shall apply accordingly with all necessary modifications.
-  (a) That there is in any building, aircraft, ship, hovercraft, carriage, vehicle, box, receptacle, premises, or place—
-    (i) Any thing upon or in respect of which an offence against section 78 of this Act has been or is suspected of having been committed; or
-    (ii) Any thing which there is reasonable ground to believe will be evidence as to the commission of any such offence; or
-    (iii) Any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence; and
-  (b) That the case is one of great emergency and that immediate action is necessary,—
+  (a) that there is in any building, aircraft, ship, hovercraft, carriage, vehicle, box, receptacle, premises, or place—
+    (i) any thing upon or in respect of which an offence against section 78 of this Act has been or is suspected of having been committed; or
+    (ii) any thing which there is reasonable ground to believe will be evidence as to the commission of any such offence; or
+    (iii) any thing which there is reasonable ground to believe is intended to be used for the purpose of committing any such offence; and
+  (b) that the case is one of great emergency and that immediate action is necessary,—
 (2) Every member of the Police exercising the authority conferred by an order made under subsection (1) of this section shall identify himself to any person in or on the building, aircraft, ship, hovercraft, carriage, vehicle, premises, or place who questions his right to enter and search it, and shall also tell such person that the search is being made pursuant to that subsection. He shall also, if not in uniform and if so required, produce evidence that he is a member of the Police.
 (3) Any commissioned officer of Police who exercises the power conferred by subsection (1) of this section shall, within 3 days after the day on which he exercises the power, furnish to the Commissioner of Police a written report on the exercise of the power and the circumstances in which it came to be exercised.
 
 ### 79 Sabotage
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who, with intent to prejudice the safety, security, or defence of New Zealand or the safety or security of the armed forces of any other country, lawfully present in New Zealand,—
-  (a) Impairs the efficiency or impedes the working of any ship, vehicle, aircraft, arms, munitions, equipment, machinery, apparatus, or atomic or nuclear plant; or
-  (b) Damages or destroys any property which it is necessary to keep intact for the safety or health of the public.
+  (a) impairs the efficiency or impedes the working of any ship, vehicle, aircraft, arms, munitions, equipment, machinery, apparatus, or atomic or nuclear plant; or
+  (b) damages or destroys any property which it is necessary to keep intact for the safety or health of the public.
 (2) No person shall be convicted of an offence against this section by reason only of the fact that he takes part in any strike or lockout.
 
 **Offence of oath to commit offence**
 
 ### 80 Oath to commit offence
 (1) Every one is liable to imprisonment for a term not exceeding 5 years who—
-  (a) Administers or is present at and consenting to the administration of any oath or engagement purporting to bind the person taking the same to commit any offence; or
-  (b) Attempts to induce or compel any person to take any such oath or engagement; or
-  (c) Takes any such oath or engagement.
+  (a) administers or is present at and consenting to the administration of any oath or engagement purporting to bind the person taking the same to commit any offence; or
+  (b) attempts to induce or compel any person to take any such oath or engagement; or
+  (c) takes any such oath or engagement.
 (2) No one who has been acquitted or convicted of any offence against this section is liable to be afterwards tried for treason, or for being accessory after the fact to treason, in respect of the same matter.
 
 ### 81 Seditious offences defined
@@ -720,8 +717,8 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
 
 ### 86 Unlawful assembly
 (1) An unlawful assembly is an assembly of 3 or more persons who, with intent to carry out any common purpose, assemble in such a manner, or so conduct themselves when assembled, as to cause persons in the neighbourhood of the assembly to fear, on reasonable grounds, that the persons so assembled—
-  (a) Will use violence against persons or property in that neighbourhood or elsewhere; or
-  (b) Will, by that assembly, needlessly and without reasonable cause provoke other persons to use violence against persons or property in that neighbourhood:
+  (a) will use violence against persons or property in that neighbourhood or elsewhere; or
+  (b) will, by that assembly, needlessly and without reasonable cause provoke other persons to use violence against persons or property in that neighbourhood:
     Provided that no one shall be deemed to provoke other persons needlessly and without reasonable cause by doing or saying anything that he is lawfully entitled to do or say.
 (2) Persons lawfully assembled may become an unlawful assembly if, with a common purpose, they conduct themselves in such a manner that their assembling would have been unlawful if they had assembled in that manner for that purpose.
 (3) An assembly of 3 or more persons for the purpose of protecting the house of any one of their number against persons threatening to break and enter that house in order to commit a crime therein is not unlawful.
@@ -750,27 +747,27 @@ Every one is liable to imprisonment for a term not exceeding 7 years who, being 
 
 ### 92 Piracy
 (1) Every one who does any act amounting to piracy by the law of nations, whether that act is done within or outside New Zealand,—
-  (a) Shall upon conviction thereof be sentenced to imprisonment for life if, in committing piracy, he murders, attempts to murder, or does any act likely to endanger the life of any person:
-  (b) Is liable to imprisonment for a term not exceeding 14 years in any other case.
+  (a) shall upon conviction thereof be sentenced to imprisonment for life if, in committing piracy, he murders, attempts to murder, or does any act likely to endanger the life of any person:
+  (b) is liable to imprisonment for a term not exceeding 14 years in any other case.
 (2) Any act that by the law of nations would amount to piracy if it had been done on the high seas on board or in relation to a ship shall be piracy for the purposes of this section if it is done on board or in relation to an aircraft, whether the aircraft is on or above the sea or is on or above the land.
 
 ### 93 Piratical acts
 (1) Every one commits a piratical act who—
-  (a) Within New Zealand, or, being a New Zealand citizen or a person ordinarily resident in New Zealand, outside New Zealand, under pretence of any commission from any State other than New Zealand (whether or not that State is at war with New Zealand) or under pretence of authority from any person whatever, commits an act of hostility or robbery:
-  (b) Within or outside New Zealand, enters into any New Zealand ship and throws overboard or destroys any goods on board the ship:
-  (c) Within or outside New Zealand, on board any New Zealand ship—
-    (i) Turns enemy or rebel and piratically runs away with the ship or any boat, weapons, ammunition, or goods; or
-    (ii) Voluntarily yields up the ship or any boat, weapons, ammunition, or goods to any pirate; or
-    (iii) Counsels or procures any person to yield up or run away with any ship, goods, or merchandise, or to turn pirate or go over to pirates; or
-    (iv) Assaults the master or commander of any ship in order to prevent him from fighting in defence of his ship and goods; or
-    (v) Imprisons or restrains the master or commander of any ship; or
-    (vi) Makes or endeavours to make a revolt in the ship.
+  (a) within New Zealand, or, being a New Zealand citizen or a person ordinarily resident in New Zealand, outside New Zealand, under pretence of any commission from any State other than New Zealand (whether or not that State is at war with New Zealand) or under pretence of authority from any person whatever, commits an act of hostility or robbery:
+  (b) within or outside New Zealand, enters into any New Zealand ship and throws overboard or destroys any goods on board the ship:
+  (c) within or outside New Zealand, on board any New Zealand ship—
+    (i) turns enemy or rebel and piratically runs away with the ship or any boat, weapons, ammunition, or goods; or
+    (ii) voluntarily yields up the ship or any boat, weapons, ammunition, or goods to any pirate; or
+    (iii) counsels or procures any person to yield up or run away with any ship, goods, or merchandise, or to turn pirate or go over to pirates; or
+    (iv) assaults the master or commander of any ship in order to prevent him from fighting in defence of his ship and goods; or
+    (v) imprisons or restrains the master or commander of any ship; or
+    (vi) makes or endeavours to make a revolt in the ship.
 (2) Subsection (1) of this section shall extend and apply to aircraft as it applies to ships; and for the purposes of this subsection any reference in subsection (1) of this section to the master or commander of any ship shall be read as a reference to the pilot in command of an aircraft.
 
 ### 94 Punishment of piratical acts
 Every one who commits any piratical act—
-  (a) Shall upon conviction thereof be sentenced to imprisonment for life if, in committing that act, he murders, attempts to murder, or does any act likely to endanger the life of any person:
-  (b) Is liable to imprisonment for a term not exceeding 14 years in any other case.
+  (a) shall upon conviction thereof be sentenced to imprisonment for life if, in committing that act, he murders, attempts to murder, or does any act likely to endanger the life of any person:
+  (b) is liable to imprisonment for a term not exceeding 14 years in any other case.
 
 ### 95 Attempts to commit piracy
 Every one is liable to imprisonment for a term not exceeding 14 years who, within or outside New Zealand, attempts to do any act amounting to piracy by the law of nations.
@@ -785,19 +782,19 @@ Every one is liable to imprisonment for a term not exceeding 7 years who, within
 
 ### 98 Dealing in slaves
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who, within or outside New Zealand,—
-  (a) Sells, purchases, transfers, barters, lets, hires, or in any way whatsoever deals with any person as a slave; or
-  (b) Employs or uses any person as a slave, or permits any person to be so employed or used; or
-  (c) Detains, confines, imprisons, carries away, removes, receives, transports, imports, or brings into any place whatsoever any person as a slave or to be dealt with as a slave; or
-  (d) Induces any person to sell, let, or give himself, or any other person dependent on him or in his charge, as a slave; or
+  (a) sells, purchases, transfers, barters, lets, hires, or in any way whatsoever deals with any person as a slave; or
+  (b) employs or uses any person as a slave, or permits any person to be so employed or used; or
+  (c) detains, confines, imprisons, carries away, removes, receives, transports, imports, or brings into any place whatsoever any person as a slave or to be dealt with as a slave; or
+  (d) induces any person to sell, let, or give himself, or any other person dependent on him or in his charge, as a slave; or
   (e) in any case not covered by paragraph (d), induces any person to sell, let, or give any other person into debt-bondage or serfdom; or
   (f) builds, fits out, sells, purchases, transfers, lets, hires, uses, provides with personnel, navigates, or serves on board any ship or aircraft for any of the purposes in paragraphs (a) to (e); or
-  (g) For gain or reward gives in marriage or transfers any woman to another person without her consent; or
-  (h) Is a party to the inheritance by any person of a woman on the death of her husband; or
-  (i) Being a parent or guardian of any child under the age of 18 years, delivers that child to another person with intent that the child or his labour shall be exploited; or
-  (j) Agrees or offers to do any of the acts mentioned in this subsection.
+  (g) for gain or reward gives in marriage or transfers any woman to another person without her consent; or
+  (h) is a party to the inheritance by any person of a woman on the death of her husband; or
+  (i) being a parent or guardian of any child under the age of 18 years, delivers that child to another person with intent that the child or his labour shall be exploited; or
+  (j) agrees or offers to do any of the acts mentioned in this subsection.
 (2) For the purposes of this section—
-  - **Debt-bondage** means the status or condition arising from a pledge by a debtor of his personal services, or of the personal services of any person under his control, as security for a debt, if the value of those services, as reasonably assessed, is not applied towards the liquidation of the debt or if the length and nature of those services are not limited and defined
-  - **Serfdom** means the status or condition of a tenant who is by any law, custom, or agreement bound to live and labour on land belonging to another person and to render some determinate service to that other person, whether for reward or not, and who is not free to change that status or condition.
+  - **debt-bondage** means the status or condition arising from a pledge by a debtor of his personal services, or of the personal services of any person under his control, as security for a debt, if the value of those services, as reasonably assessed, is not applied towards the liquidation of the debt or if the length and nature of those services are not limited and defined
+  - **serfdom** means the status or condition of a tenant who is by any law, custom, or agreement bound to live and labour on land belonging to another person and to render some determinate service to that other person, whether for reward or not, and who is not free to change that status or condition.
   - **slave** includes, without limitation, a person subject to debt-bondage or serfdom.
 
 ### 98AA Dealing in people under 18 for sexual exploitation, removal of body parts, or engagement in forced labour
@@ -882,7 +879,6 @@ In sections 98C to 98F, unless the context otherwise requires,—
   - **document** includes a thing that is or is intended to be—
     (a) attached to a document; or
     (b) stamped or otherwise signified on a document
-  - **for a material benefit**
   - **harming of a person** means causing harm of any kind to the person; and (in particular) includes—
     (a) causing physical, psychological, or financial harm to the person:
     (b) sexually mistreating the person:
@@ -936,9 +932,9 @@ In sections 98C to 98F, unless the context otherwise requires,—
 
 ### 99 Interpretation
 In this part of this Act, unless the context otherwise requires,—
-  - **Bribe** means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
-  - **Judicial officer** means a Judge of any Court, or a District Court Judge, Coroner, Justice of the Peace, or Community Magistrate, or any other person holding any judicial office, or any person who is a member of any tribunal authorised by law to take evidence on oath
-  - **Law enforcement officer** means any constable, or any person employed in the detection or prosecution or punishment of offenders
+  - **bribe** means any money, valuable consideration, office, or employment, or any benefit, whether direct or indirect
+  - **judicial officer** means a Judge of any Court, or a District Court Judge, Coroner, Justice of the Peace, or Community Magistrate, or any other person holding any judicial office, or any person who is a member of any tribunal authorised by law to take evidence on oath
+  - **law enforcement officer** means any constable, or any person employed in the detection or prosecution or punishment of offenders
   - **Official** means any person in the service of Her Majesty in right of New Zealand (whether that service is honorary or not, and whether it is within or outside New Zealand), or any member or employee of any local authority or public body, or any person employed in the Education service within the meaning of the State Sector Act 1988.
 
 ### 100 Judicial corruption
@@ -972,8 +968,8 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
 
 ### 105B Use or disclosure of personal information disclosed in breach of section 105A
 (1) Every person is liable to imprisonment for a term not exceeding 7 years who,—uses or discloses that information to obtain, directly or indirectly, an advantage or pecuniary gain for that person or any other person.
-  (a) Having received personal information (being information that comes into that person's possession as a result of the commission of an offence against section 105A of this Act); and
-  (b) Knowing that the information has been disclosed in contravention of that section,—
+  (a) having received personal information (being information that comes into that person's possession as a result of the commission of an offence against section 105A of this Act); and
+  (b) knowing that the information has been disclosed in contravention of that section,—
 (2) It is a defence to a charge under this section if the person charged proves that the person was legally authorised to use or disclose the information.
 (3) In this section, the term personal information means any information about an identifiable natural person, including a deceased natural person.
 
@@ -1039,8 +1035,8 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
 
 ### 107 Contravention of statute
 (1) Every one is liable to imprisonment for a term not exceeding one year who, without lawful excuse, contravenes any enactment by wilfully doing any act which it forbids, or by wilfully omitting to do any act which it requires to be done, unless—
-  (a) Some penalty or punishment is expressly provided by law in respect of such contravention as aforesaid; or
-  (b) In the case of any such contravention in respect of which no penalty or punishment is so provided, the act forbidden or required to be done is solely of an administrative or a ministerial or procedural nature, or it is otherwise inconsistent with the intent and object of the enactment, or with its context, that the contravention should be regarded as an offence.
+  (a) some penalty or punishment is expressly provided by law in respect of such contravention as aforesaid; or
+  (b) in the case of any such contravention in respect of which no penalty or punishment is so provided, the act forbidden or required to be done is solely of an administrative or a ministerial or procedural nature, or it is otherwise inconsistent with the intent and object of the enactment, or with its context, that the contravention should be regarded as an offence.
 (2) Nothing in subsection (1) of this section applies to any contravention of any Imperial enactment or Imperial subordinate legislation that is part of the laws of New Zealand, or to any omission to do any act which any such Imperial enactment or Imperial subordinate legislation requires to be done.
 (3) In subsection (2) of this section, the terms Imperial enactment and Imperial subordinate legislation have the meanings given to them by section 2 of the Imperial Laws Application Act 1988.
 
@@ -1051,12 +1047,12 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
 (2) In this section the term oath includes an affirmation, and also includes a declaration made under section 13 of the Oaths and Declarations Act 1957.
 (3) Every person is a witness within the meaning of this section who actually gives evidence, whether he is competent to be a witness or not, and whether his evidence is admissible or not.
 (4) Every proceeding is judicial within the meaning of this section if it is held before any of the following tribunals, namely:
-  (a) Any Court of justice:
-  (b) The House of Representatives or any Committee of that House:
-  (c) Any arbitrator or umpire, or any person or body of persons authorised by law to make an inquiry and take evidence therein upon oath:
-  (d) Any legal tribunal by which any legal right or liability can be established:
-  (e) Any person acting as a Court or tribunal having power to hold a judicial proceeding:
-  (f) Any court-martial held under the Armed Forces Discipline Act 1971.
+  (a) any Court of justice:
+  (b) the House of Representatives or any Committee of that House:
+  (c) any arbitrator or umpire, or any person or body of persons authorised by law to make an inquiry and take evidence therein upon oath:
+  (d) any legal tribunal by which any legal right or liability can be established:
+  (e) any person acting as a Court or tribunal having power to hold a judicial proceeding:
+  (f) any court-martial held under the Armed Forces Discipline Act 1971.
 (5) Every such proceeding is judicial within the meaning of this section whether the tribunal was duly constituted or appointed or not, and whether the proceeding was duly instituted or not, and whether the proceeding was invalid or not.
 
 ### 109 Punishment of perjury
@@ -1077,13 +1073,13 @@ Every one is liable to imprisonment for a term not exceeding 7 years who, with i
 
 ### 114 Use of purported affidavit or declaration
 Every one is liable to imprisonment for a term not exceeding 3 years who—
-  (a) Signs a writing that purports to be an affidavit sworn before him or a statutory declaration taken by him, when the writing was not so sworn or taken, or when he knows that he has no authority to administer that oath or take that declaration; or
-  (b) Uses or offers for use any writing purporting to be an affidavit or statutory declaration that he knows was not sworn or made, as the case may be, by the deponent or before a person authorised to administer that oath or take that declaration.
+  (a) signs a writing that purports to be an affidavit sworn before him or a statutory declaration taken by him, when the writing was not so sworn or taken, or when he knows that he has no authority to administer that oath or take that declaration; or
+  (b) uses or offers for use any writing purporting to be an affidavit or statutory declaration that he knows was not sworn or made, as the case may be, by the deponent or before a person authorised to administer that oath or take that declaration.
 
 ### 115 Conspiring to bring false accusation
 Every one who conspires to prosecute any person for any alleged offence, knowing that person to be innocent thereof, is liable—
-  (a) To imprisonment for a term not exceeding 14 years if that person might, on conviction of the alleged offence, be sentenced to preventive detention, or to imprisonment for a term of 3 years or more:
-  (b) To imprisonment for a term not exceeding 7 years if that person might, on conviction of the alleged offence, be sentenced to imprisonment for a term less than 3 years.
+  (a) to imprisonment for a term not exceeding 14 years if that person might, on conviction of the alleged offence, be sentenced to preventive detention, or to imprisonment for a term of 3 years or more:
+  (b) to imprisonment for a term not exceeding 7 years if that person might, on conviction of the alleged offence, be sentenced to imprisonment for a term less than 3 years.
 
 ### 116 Conspiring to defeat justice
 Every one is liable to imprisonment for a term not exceeding 7 years who conspires to obstruct, prevent, pervert, or defeat the course of justice in New Zealand or the course of justice in an overseas jurisdiction.
@@ -1100,29 +1096,29 @@ Every one is liable to imprisonment for a term not exceeding 7 years who—
 
 ### 118 Assisting escape of prisoners of war or internees
 Every one is liable to imprisonment for a term not exceeding 7 years who knowingly and wilfully—
-  (a) Assists any prisoner of war detained in New Zealand, or any person interned in New Zealand, to escape from any place in which he is for the time being detained; or
-  (b) Assists any such prisoner or person as aforesaid, suffered to be at large on his parole in New Zealand, to escape from the place where he is at large on his parole.
+  (a) assists any prisoner of war detained in New Zealand, or any person interned in New Zealand, to escape from any place in which he is for the time being detained; or
+  (b) assists any such prisoner or person as aforesaid, suffered to be at large on his parole in New Zealand, to escape from the place where he is at large on his parole.
 
 ### 119 Breaking prison
 Every one is liable to imprisonment for a term not exceeding 7 years who by force or violence breaks any prison, with intent to set at liberty himself or any other person detained therein.
 
 ### 120 Escape from lawful custody
 (1) Every one is liable to imprisonment for a term not exceeding 5 years who,—
-  (a) Having been convicted of an offence, escapes from any lawful custody in which he may be under the conviction; or
-  (b) Whether convicted or not, escapes from any prison in which he is lawfully detained; or
+  (a) having been convicted of an offence, escapes from any lawful custody in which he may be under the conviction; or
+  (b) whether convicted or not, escapes from any prison in which he is lawfully detained; or
   (ba) being subject to an order or direction made under any of sections 38, 42, and 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003 or section 171(2) of the Summary Proceedings Act 1957, escapes from the place in which he or she is required to stay under the order; or
-  (c) Being in lawful custody otherwise than aforesaid, escapes from such custody.
+  (c) being in lawful custody otherwise than aforesaid, escapes from such custody.
 (2) For the purposes of this section, custody under an illegal warrant or other irregular process shall be deemed to be lawful.
 
 ### 121 Assisting escape from lawful custody
 (1) Every one is liable to imprisonment for a term not exceeding 7 years who—
-  (a) Rescues any person from lawful custody, whether in a prison or not; or
-  (b) Assists any person in escaping or attempting to escape from lawful custody, whether in a prison or not; or
-  (c) With intent to facilitate the escape of any person lawfully detained in a prison, conveys or causes to be conveyed into any prison any thing whatever.
+  (a) rescues any person from lawful custody, whether in a prison or not; or
+  (b) assists any person in escaping or attempting to escape from lawful custody, whether in a prison or not; or
+  (c) with intent to facilitate the escape of any person lawfully detained in a prison, conveys or causes to be conveyed into any prison any thing whatever.
 (2) Every one is liable to imprisonment for a term not exceeding 7 years who—
-  (a) Being a constable who has any person in his lawful custody, voluntarily and intentionally permits that person to escape from such custody:
-  (aa) Being a security officer (within the meaning of section 3(1) of the Corrections Act 2004) in whose custody any person is lawfully detained, voluntarily and intentionally permits that person to escape from such custody:
-  (b) Being an officer of a prison in which any person is lawfully detained, voluntarily and intentionally permits that person to escape from the prison.
+  (a) being a constable who has any person in his lawful custody, voluntarily and intentionally permits that person to escape from such custody:
+  (aa) being a security officer (within the meaning of section 3(1) of the Corrections Act 2004) in whose custody any person is lawfully detained, voluntarily and intentionally permits that person to escape from such custody:
+  (b) being an officer of a prison in which any person is lawfully detained, voluntarily and intentionally permits that person to escape from the prison.
 (3) Every one is liable to imprisonment for a term not exceeding one year who, by failing to perform any legal duty, permits any person in his lawful custody to escape.
 (4) For the purposes of this section, custody under an irregular warrant or other irregular process shall be deemed to be lawful.
 
@@ -1145,14 +1141,14 @@ Every one is liable to imprisonment for a term not exceeding 5 years who—
 
 ### 124 Distribution or exhibition of indecent matter
 (1) Every one is liable to imprisonment for a term not exceeding 2 years who, without lawful justification or excuse,—
-  (a) Sells, exposes for sale, or otherwise distributes to the public any indecent model or object; or
-  (b) Exhibits or presents in or within view of any place to which the public have or are permitted to have access any indecent object or indecent show or performance; or
-  (c) Exhibits or presents in the presence of any person in consideration or expectation of any payment or otherwise for gain, any indecent show or performance.
+  (a) sells, exposes for sale, or otherwise distributes to the public any indecent model or object; or
+  (b) exhibits or presents in or within view of any place to which the public have or are permitted to have access any indecent object or indecent show or performance; or
+  (c) exhibits or presents in the presence of any person in consideration or expectation of any payment or otherwise for gain, any indecent show or performance.
 (2) It is a defence to a charge under this section to prove that the public good was served by the acts alleged to have been done.
 (3) It is a question of law whether the sale, exposure for sale, distribution, exhibition, or presentation might in the circumstances serve the public good, and whether there is evidence of excess beyond what the public good requires; but it is a question of fact whether or not the acts complained of did so serve the public good and whether or not there was such excess.
 (4) It is no defence that the person charged did not know that the model, object, show, or performance to which the charge relates was indecent, unless that person also satisfies the Court—
-  (a) That he had no reasonable opportunity of knowing it; and
-  (b) That in the circumstances his ignorance was excusable.
+  (a) that he had no reasonable opportunity of knowing it; and
+  (b) that in the circumstances his ignorance was excusable.
 (5) No one shall be prosecuted for an offence against this section without the leave of the Attorney-General, who before giving leave may make such inquiries as he thinks fit.
 (6) Nothing in this section shall apply to any publication within the meaning of the Films, Videos, and Publications Classification Act 1993, whether the publication is objectionable within the meaning of that Act or not.
 (7)
@@ -1392,14 +1388,14 @@ Every one is liable to imprisonment for a term not exceeding 3 years who commits
 
 ### 144C Organising or promoting child sex tours
 (1) Every one is liable to imprisonment for a term not exceeding 7 years who—
-  (a) Makes or organises any travel arrangements for or on behalf of any other person with the intention of facilitating the commission by that other person of an offence against section 144A of this Act, whether or not such an offence is actually committed by that other person; or
-  (b) Transports any other person to a place outside New Zealand with the intention of facilitating the commission by that other person of an offence against section 144A of this Act, whether or not such an offence is actually committed by that other person; or
-  (c) Prints or publishes any information that is intended to promote conduct that would constitute an offence against section 144A of this Act, or to assist any other person to engage in such conduct.
+  (a) makes or organises any travel arrangements for or on behalf of any other person with the intention of facilitating the commission by that other person of an offence against section 144A of this Act, whether or not such an offence is actually committed by that other person; or
+  (b) transports any other person to a place outside New Zealand with the intention of facilitating the commission by that other person of an offence against section 144A of this Act, whether or not such an offence is actually committed by that other person; or
+  (c) prints or publishes any information that is intended to promote conduct that would constitute an offence against section 144A of this Act, or to assist any other person to engage in such conduct.
 (2) For the purposes of this section,—
-  (a) The making or organising of travel arrangements includes, but is not limited to,—
-    (i) The purchase or reservation of tickets for travel to a country outside New Zealand:
-    (ii) The purchase or reservation of accommodation in a country outside New Zealand:
-  (b) The publication of information means publication of information by any means, whether by written, electronic, or other form of communication; and includes the distribution of information.
+  (a) the making or organising of travel arrangements includes, but is not limited to,—
+    (i) the purchase or reservation of tickets for travel to a country outside New Zealand:
+    (ii) the purchase or reservation of accommodation in a country outside New Zealand:
+  (b) the publication of information means publication of information by any means, whether by written, electronic, or other form of communication; and includes the distribution of information.
 
 **Crimes against public welfare**
 
@@ -1424,8 +1420,8 @@ Every one is liable to imprisonment for a term not exceeding 3 years who commits
 
 ### 150 Misconduct in respect of human remains
 Every one is liable to imprisonment for a term not exceeding 2 years who—
-  (a) Neglects to perform any duty imposed on him by law or undertaken by him with reference to the burial or cremation of any dead human body or human remains; or
-  (b) Improperly or indecently interferes with or offers any indignity to any dead human body or human remains, whether buried or not.
+  (a) neglects to perform any duty imposed on him by law or undertaken by him with reference to the burial or cremation of any dead human body or human remains; or
+  (b) improperly or indecently interferes with or offers any indignity to any dead human body or human remains, whether buried or not.
 
 ## Part 8 — Crimes against the person
 
@@ -1434,8 +1430,8 @@ Every one is liable to imprisonment for a term not exceeding 2 years who—
 ### 150A Standard of care required of persons under legal duties
 (1) This section applies in respect of the legal duties specified in any of sections 151, 152, 153, 155, 156, and 157.
 (2) For the purposes of this Part, a person is criminally responsible for—only if, in the circumstances of the particular case, the omission or neglect is a major departure from the standard of care expected of a reasonable person to whom that legal duty applies in those circumstances.
-  (a) Omitting to discharge or perform a legal duty to which this section applies; or
-  (b) Neglecting a legal duty to which this section applies—
+  (a) omitting to discharge or perform a legal duty to which this section applies; or
+  (b) neglecting a legal duty to which this section applies—
 
 ### 151 Duty to provide the necessaries of life
 (1) Every one who has charge of any other person unable, by reason of detention, age, sickness, insanity, or any other cause, to withdraw himself from such charge, and unable to provide himself with the necessaries of life, is (whether such charge is undertaken by him under any contract or is imposed upon him by law or by reason of his unlawful act or otherwise howsoever) under a legal duty to supply that person with the necessaries of life, and is criminally responsible for omitting without lawful excuse to perform such duty if the death of that person is caused, or if his life is endangered or his health permanently injured, by such omission.
@@ -1473,11 +1469,11 @@ Homicide is the killing of a human being by another, directly or indirectly, by 
 ### 160 Culpable homicide
 (1) Homicide may be either culpable or not culpable.
 (2) Homicide is culpable when it consists in the killing of any person—
-  (a) By an unlawful act; or
-  (b) By an omission without lawful excuse to perform or observe any legal duty; or
-  (c) By both combined; or
-  (d) By causing that person by threats or fear of violence, or by deception, to do an act which causes his death; or
-  (e) By wilfully frightening a child under the age of 16 years or a sick person.
+  (a) by an unlawful act; or
+  (b) by an omission without lawful excuse to perform or observe any legal duty; or
+  (c) by both combined; or
+  (d) by causing that person by threats or fear of violence, or by deception, to do an act which causes his death; or
+  (e) by wilfully frightening a child under the age of 16 years or a sick person.
 (3) Except as provided in section 178 of this Act, culpable homicide is either murder or manslaughter.
 (4) Homicide that is not culpable is not an offence.
 
@@ -1506,26 +1502,26 @@ Every one who causes to another person any bodily injury, in itself of a dangero
 
 ### 167 Murder defined
 Culpable homicide is murder in each of the following cases:
-  (a) If the offender means to cause the death of the person killed:
-  (b) If the offender means to cause to the person killed any bodily injury that is known to the offender to be likely to cause death, and is reckless whether death ensues or not:
-  (c) If the offender means to cause death, or, being so reckless as aforesaid, means to cause such bodily injury as aforesaid to one person, and by accident or mistake kills another person, though he does not mean to hurt the person killed:
-  (d) If the offender for any unlawful object does an act that he knows to be likely to cause death, and thereby kills any person, though he may have desired that his object should be effected without hurting any one.
+  (a) if the offender means to cause the death of the person killed:
+  (b) if the offender means to cause to the person killed any bodily injury that is known to the offender to be likely to cause death, and is reckless whether death ensues or not:
+  (c) if the offender means to cause death, or, being so reckless as aforesaid, means to cause such bodily injury as aforesaid to one person, and by accident or mistake kills another person, though he does not mean to hurt the person killed:
+  (d) if the offender for any unlawful object does an act that he knows to be likely to cause death, and thereby kills any person, though he may have desired that his object should be effected without hurting any one.
 
 ### 168 Further definition of murder
 (1) Culpable homicide is also murder in each of the following cases, whether the offender means or does not mean death to ensue, or knows or does not know that death is likely to ensue:
-  (a) If he means to cause grievous bodily injury for the purpose of facilitating the commission of any of the offences mentioned in subsection (2) of this section, or facilitating the flight or avoiding the detection of the offender upon the commission or attempted commission thereof, or for the purpose of resisting lawful apprehension in respect of any offence whatsoever, and death ensues from such injury:
-  (b) If he administers any stupefying or overpowering thing for any of the purposes aforesaid, and death ensues from the effects thereof:
-  (c) If he by any means wilfully stops the breath of any person for any of the purposes aforesaid, and death ensues from such stopping of breath.
+  (a) if he means to cause grievous bodily injury for the purpose of facilitating the commission of any of the offences mentioned in subsection (2) of this section, or facilitating the flight or avoiding the detection of the offender upon the commission or attempted commission thereof, or for the purpose of resisting lawful apprehension in respect of any offence whatsoever, and death ensues from such injury:
+  (b) if he administers any stupefying or overpowering thing for any of the purposes aforesaid, and death ensues from the effects thereof:
+  (c) if he by any means wilfully stops the breath of any person for any of the purposes aforesaid, and death ensues from such stopping of breath.
 (2) The offences referred to in subsection (1) of this section are those specified in the following provisions of this Act, namely:
-  (a) Section 73 (treason) or section 78 (communicating secrets):
-  (b) Section 79 (sabotage):
-  (c) Section 92 (piracy):
-  (d) Section 93 (piratical acts):
-  (e) Section 119 to 122 (escape or rescue from prison or lawful custody or detention):
+  (a) section 73 (treason) or section 78 (communicating secrets):
+  (b) section 79 (sabotage):
+  (c) section 92 (piracy):
+  (d) section 93 (piratical acts):
+  (e) section 119 to 122 (escape or rescue from prison or lawful custody or detention):
   (f) section 128 (sexual violation):
-  (g) Section 167 (murder):
-  (h) Section 208 (abduction):
-  (i) Section 209 (kidnapping):
+  (g) section 167 (murder):
+  (h) section 208 (abduction):
+  (i) section 209 (kidnapping):
   (j) section 231 (burglary):
   (k) section 234 (robbery):
   (l) section 267 (arson)
@@ -1533,8 +1529,8 @@ Culpable homicide is murder in each of the following cases:
 ### 169 Provocation
 (1) Culpable homicide that would otherwise be murder may be reduced to manslaughter if the person who caused the death did so under provocation.
 (2) Anything done or said may be provocation if—
-  (a) In the circumstances of the case it was sufficient to deprive a person having the power of self-control of an ordinary person, but otherwise having the characteristics of the offender, of the power of self-control; and
-  (b) It did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide.
+  (a) in the circumstances of the case it was sufficient to deprive a person having the power of self-control of an ordinary person, but otherwise having the characteristics of the offender, of the power of self-control; and
+  (b) it did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide.
 (3) Whether there is any evidence of provocation is a question of law.
 (4) Whether, if there is evidence of provocation, the provocation was sufficient as aforesaid, and whether it did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide, are questions of fact.
 (5) No one shall be held to give provocation to another by lawfully exercising any power conferred by law, or by doing anything which the offender incited him to do in order to provide the offender with an excuse for killing or doing bodily harm to any person.
@@ -1589,8 +1585,8 @@ Every one is liable to imprisonment for a term not exceeding 7 years who is an a
 
 ### 179 Aiding and abetting suicide
 Every one is liable to imprisonment for a term not exceeding 14 years who—
-  (a) Incites, counsels, or procures any person to commit suicide, if that person commits or attempts to commit suicide in consequence thereof; or
-  (b) Aids or abets any person in the commission of suicide.
+  (a) incites, counsels, or procures any person to commit suicide, if that person commits or attempts to commit suicide in consequence thereof; or
+  (b) aids or abets any person in the commission of suicide.
 
 ### 180 Suicide pact
 (1) Every one who in pursuance of a suicide pact kills any other person is guilty of manslaughter and not of murder, and is liable accordingly.
@@ -1610,14 +1606,14 @@ Every one is liable to imprisonment for a term not exceeding 2 years who dispose
 
 ### 182A Miscarriage defined
 For the purposes of sections 183 to 187 of this Act the term miscarriage means—
-  (a) The destruction or death of an embryo or fetus after implantation; or
-  (b) The premature expulsion or removal of an embryo or fetus after implantation, otherwise than for the purpose of inducing the birth of a fetus believed to be viable or removing a fetus that has died.
+  (a) the destruction or death of an embryo or fetus after implantation; or
+  (b) the premature expulsion or removal of an embryo or fetus after implantation, otherwise than for the purpose of inducing the birth of a fetus believed to be viable or removing a fetus that has died.
 
 ### 183 Procuring abortion by any means
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who, with intent to procure the miscarriage of any woman or girl, whether she is pregnant or not,—
-  (a) Unlawfully administers to or causes to be taken by her any poison or any drug or any noxious thing; or
-  (b) Unlawfully uses on her any instrument; or
-  (c) Unlawfully uses on her any means other than any means referred to in paragraph (a) or paragraph (b) of this subsection.
+  (a) unlawfully administers to or causes to be taken by her any poison or any drug or any noxious thing; or
+  (b) unlawfully uses on her any instrument; or
+  (c) unlawfully uses on her any means other than any means referred to in paragraph (a) or paragraph (b) of this subsection.
 (2) The woman or girl shall not be charged as a party to an offence against this section.
 
 ### 184 Procuring abortion by other means
@@ -1634,17 +1630,17 @@ The provisions of section 183 to 186 of this Act shall apply whether or not the 
 
 ### 187A Meaning of unlawfully
 (1) For the purposes of sections 183 and 186 of this Act, any act specified in either of those sections is done unlawfully unless, in the case of a pregnancy of not more than 20 weeks' gestation, the person doing the act believes—
-  (a) That the continuance of the pregnancy would result in serious danger (not being danger normally attendant upon childbirth) to the life, or to the physical or mental health, of the woman or girl; or
-  (aa) That there is a substantial risk that the child, if born, would be so physically or mentally abnormal as to be seriously handicapped; or
-  (b) That the pregnancy is the result of sexual intercourse between—
-    (i) A parent and child; or
-    (ii) A brother and sister, whether of the whole blood or of the half blood; or
-    (iii) A grandparent and grandchild; or
-  (c) That the pregnancy is the result of sexual intercourse that constitutes an offence against section 131(1) of this Act; or
-  (d) That the woman or girl is severely subnormal within the meaning of section 138(2) of this Act.
+  (a) that the continuance of the pregnancy would result in serious danger (not being danger normally attendant upon childbirth) to the life, or to the physical or mental health, of the woman or girl; or
+  (aa) that there is a substantial risk that the child, if born, would be so physically or mentally abnormal as to be seriously handicapped; or
+  (b) that the pregnancy is the result of sexual intercourse between—
+    (i) a parent and child; or
+    (ii) a brother and sister, whether of the whole blood or of the half blood; or
+    (iii) a grandparent and grandchild; or
+  (c) that the pregnancy is the result of sexual intercourse that constitutes an offence against section 131(1) of this Act; or
+  (d) that the woman or girl is severely subnormal within the meaning of section 138(2) of this Act.
 (2) The following matters, while not in themselves grounds for any act specified in section 183 or section 186 of this Act, may be taken into account in determining for the purposes of subsection (1)(a) of this section, whether the continuance of the pregnancy would result in serious danger to her life or to her physical or mental health:
-  (a) The age of the woman or girl concerned is near the beginning or the end of the usual child-bearing years:
-  (b) The fact (where such is the case) that there are reasonable grounds for believing that the pregnancy is the result of sexual violation.
+  (a) the age of the woman or girl concerned is near the beginning or the end of the usual child-bearing years:
+  (b) the fact (where such is the case) that there are reasonable grounds for believing that the pregnancy is the result of sexual violation.
 (3) For the purposes of sections 183 and 186 of this Act, any act specified in either of those sections is done unlawfully unless, in the case of a pregnancy of more than 20 weeks' gestation, the person doing the act believes that the miscarriage is necessary to save the life of the woman or girl or to prevent serious permanent injury to her physical or mental health.
 (4) Where a medical practitioner, in pursuance of a certificate issued by 2 certifying consultants under section 33 of the Contraception, Sterilisation, and Abortion Act 1977, does any act specified in section 183 or section 186 of this Act, the doing of that act shall not be unlawful for the purposes of the section applicable unless it is proved that, at the time when he did that act, he did not believe it to be lawful in terms of subsection (1) or subsection (3) of this section, as the case may require.
 
@@ -1665,17 +1661,17 @@ Every one is liable to imprisonment for a term not exceeding 3 years who injures
 
 ### 191 Aggravated wounding or injury
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who with intent—wounds, maims, disfigures, or causes grievous bodily harm to any person, or stupefies or renders unconscious any person, or by any violent means renders any person incapable of resistance.
-  (a) To commit or facilitate the commission of any crime; or
-  (b) To avoid the detection of himself or of any other person in the commission of any crime; or
-  (c) To avoid the arrest or facilitate the flight of himself or of any other person upon the commission or attempted commission of any crime—
+  (a) to commit or facilitate the commission of any crime; or
+  (b) to avoid the detection of himself or of any other person in the commission of any crime; or
+  (c) to avoid the arrest or facilitate the flight of himself or of any other person upon the commission or attempted commission of any crime—
 (2) Every one is liable to imprisonment for a term not exceeding 7 years who, with any such intent as aforesaid, injures any person.
 (3)
 
 ### 192 Aggravated assault
 (1) Every one is liable to imprisonment for a term not exceeding 3 years who assaults any other person with intent—
-  (a) To commit or facilitate the commission of any crime; or
-  (b) To avoid the detection of himself or of any other person in the commission of any crime; or
-  (c) To avoid the arrest or facilitate the flight of himself or of any other person upon the commission or attempted commission of any crime.
+  (a) to commit or facilitate the commission of any crime; or
+  (b) to avoid the detection of himself or of any other person in the commission of any crime; or
+  (c) to avoid the arrest or facilitate the flight of himself or of any other person upon the commission or attempted commission of any crime.
 (2) Every one is liable to imprisonment for a term not exceeding 3 years who assaults any constable or any person acting in aid of any constable, or any person in the lawful execution of any process, with intent to obstruct the person so assaulted in the execution of his duty.
 
 ### 193 Assault with intent to injure
@@ -1683,8 +1679,8 @@ Every one is liable to imprisonment for a term not exceeding 3 years who, with i
 
 ### 194 Assault on a child, or by a male on a female
 Every one is liable to imprisonment for a term not exceeding 2 years who—
-  (a) Assaults any child under the age of 14 years; or
-  (b) Being a male, assaults any female.
+  (a) assaults any child under the age of 14 years; or
+  (b) being a male, assaults any female.
 
 ### 195 Cruelty to a child
 Every one is liable to imprisonment for a term not exceeding 5 years who, having the custody, control, or charge of any child under the age of 16 years, wilfully ill-treats or neglects the child, or wilfully causes or permits the child to be ill-treated, in a manner likely to cause him unnecessary suffering, actual bodily harm, injury to health, or any mental disorder or disability.
@@ -1698,9 +1694,9 @@ Every one is liable to imprisonment for a term not exceeding one year who assaul
 
 ### 198 Discharging firearm or doing dangerous act with intent
 (1) Every one is liable to imprisonment for a term not exceeding 14 years who, with intent to do grievous bodily harm,—
-  (a) Discharges any firearm, airgun, or other similar weapon at any person; or
-  (b) Sends or delivers to any person, or puts in any place, any explosive or injurious substance or device; or
-  (c) Sets fire to any property.
+  (a) discharges any firearm, airgun, or other similar weapon at any person; or
+  (b) sends or delivers to any person, or puts in any place, any explosive or injurious substance or device; or
+  (c) sets fire to any property.
 (2) Every one is liable to imprisonment for a term not exceeding 7 years who, with intent to injure, or with reckless disregard for the safety of others, does any of the acts referred to in subsection (1) of this section.
 (3)
 
@@ -1710,8 +1706,8 @@ Every one is liable to imprisonment for a term not exceeding one year who assaul
 
 ### 198B Commission of crime with firearm
 (1) Every one is liable to imprisonment for a term not exceeding 10 years who,—
-  (a) In committing any crime, uses any firearm; or
-  (b) While committing any crime, has any firearm with him or her in circumstances that prima facie show an intention to use it in connection with that crime.
+  (a) in committing any crime, uses any firearm; or
+  (b) while committing any crime, has any firearm with him or her in circumstances that prima facie show an intention to use it in connection with that crime.
 (2)
 
 ### 199 Acid throwing
@@ -1737,14 +1733,14 @@ Every one is liable to imprisonment for a term not exceeding one year who assaul
 (2) In subsection (4)(b) of this section offensive weapon means any article capable of being used for causing bodily injury.
 (3) In this section disabling substance means any anaesthetising or other substance produced for use for disabling persons, or intended by any person having it with him for such use.
 (4) Every one is liable to imprisonment for a term not exceeding 2 years—
-  (a) Who, without lawful authority or reasonable excuse, has with him in any public place any knife or offensive weapon or disabling substance; or
-  (b) Who has in his possession in any place any offensive weapon or disabling substance in circumstances that prima facie show an intention to use it to commit an offence involving bodily injury or the threat or fear of violence.
+  (a) who, without lawful authority or reasonable excuse, has with him in any public place any knife or offensive weapon or disabling substance; or
+  (b) who has in his possession in any place any offensive weapon or disabling substance in circumstances that prima facie show an intention to use it to commit an offence involving bodily injury or the threat or fear of violence.
 (5) It is a defence to a charge under subsection (4)(b) of this section if the person charged proves that he did not intend to use the offensive weapon or disabling substance to commit an offence involving bodily injury or the threat or fear of violence.
 
 ### 202B Powers in respect of crime against section 202A
 (1) Where any constable has reasonable grounds for believing that any person is committing an offence against section 202A(4)(a) of this Act he may—and in any such case the constable may take possession of any knife, offensive weapon, or disabling substance found.
-  (a) Stop and search that person and any package or receptacle he has with him that the constable has reasonable grounds for believing contains any knife, offensive weapon, or disabling substance, and may detain that person for as long as is reasonably necessary to conduct that search:
-  (b) Stop and search any vehicle in which that person is travelling or from which he has alighted if the constable has reasonable grounds for believing that the vehicle contains any knife, offensive weapon, or disabling substance, and may detain that vehicle for as long as is reasonably necessary to conduct that search;—
+  (a) stop and search that person and any package or receptacle he has with him that the constable has reasonable grounds for believing contains any knife, offensive weapon, or disabling substance, and may detain that person for as long as is reasonably necessary to conduct that search:
+  (b) stop and search any vehicle in which that person is travelling or from which he has alighted if the constable has reasonable grounds for believing that the vehicle contains any knife, offensive weapon, or disabling substance, and may detain that vehicle for as long as is reasonably necessary to conduct that search;—
 (2) Every constable exercising the powers conferred by subsection (1) of this section shall identify himself to every person searched, tell him that the search is being made under this section, and, if not in uniform and if so required, produce evidence that he is a member of the Police.
 (2A) If it is necessary for any constable to stop a vehicle for the purpose of exercising the power conferred by subsection (1)(a) to search a person who is in the vehicle, sections 314B to 314D apply with any necessary modifications as if references in those sections to a statutory search power are references to subsection (1)(a).
 (2B) Despite section 314A, sections 314B to 314D apply to the exercise of the power to stop a vehicle conferred by subsection (1)(b).
@@ -1752,13 +1748,13 @@ Every one is liable to imprisonment for a term not exceeding one year who assaul
 
 ### 202BA Sentencing for second crime against section 202A(4)
 Where—the Court shall impose a sentence of imprisonment (within the meaning of section 4(1) of the Sentencing Act 2002) on the offender unless the Court is satisfied that, because of the special circumstances of the offence or of the offender, the offender should not be so sentenced.
-  (a) Any person is convicted of a crime against paragraph (a) or paragraph (b) of section 202A(4) of this Act; and
-  (b) That person has previously been convicted on at least 1 occasion within the preceding 2 years of a crime against either of those paragraphs,—
+  (a) any person is convicted of a crime against paragraph (a) or paragraph (b) of section 202A(4) of this Act; and
+  (b) that person has previously been convicted on at least 1 occasion within the preceding 2 years of a crime against either of those paragraphs,—
 
 ### 202C Assault with weapon
 (1) Every one is liable to imprisonment for a term not exceeding 5 years who,—
-  (a) In assaulting any person, uses any thing as a weapon; or
-  (b) While assaulting any person, has any thing with him or her in circumstances that prima facie show an intention to use it as a weapon.
+  (a) in assaulting any person, uses any thing as a weapon; or
+  (b) while assaulting any person, has any thing with him or her in circumstances that prima facie show an intention to use it as a weapon.
 (2)
 
 ### 203 Endangering transport
@@ -1772,22 +1768,21 @@ Where—the Court shall impose a sentence of imprisonment (within the meaning of
 
 ### 204A Female genital mutilation
 (1) For the purposes of this section,—
-  - **Female genital mutilation** means the excision, infibulation, or mutilation of the whole or part of the labia majora, labia minora, or clitoris of any person
+  - **female genital mutilation** means the excision, infibulation, or mutilation of the whole or part of the labia majora, labia minora, or clitoris of any person
   - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery.
-  - **Registered midwife**
-  - **Sexual reassignment procedure** means any surgical procedure that is performed for the purposes of altering (whether wholly or partly) the genital appearance of a person to the genital appearance of a person of the opposite sex
-  - **Trainee health professional** means any person who is receiving training or gaining experience under the supervision of—
-    (a) A medical practitioner for the purpose of gaining registration as a medical practitioner; or
-    (b) A midwife for the purpose of gaining registration as a midwife.
+  - **sexual reassignment procedure** means any surgical procedure that is performed for the purposes of altering (whether wholly or partly) the genital appearance of a person to the genital appearance of a person of the opposite sex
+  - **trainee health professional** means any person who is receiving training or gaining experience under the supervision of—
+    (a) a medical practitioner for the purpose of gaining registration as a medical practitioner; or
+    (b) a midwife for the purpose of gaining registration as a midwife.
 (2) Subject to subsection (3) of this section, every one is liable to imprisonment for a term not exceeding 7 years who performs, or causes to be performed, on any other person, any act involving female genital mutilation.
 (3) Nothing in subsection (2) of this section applies in respect of—
-  (a) Any medical or surgical procedure (including a sexual reassignment procedure) that is performed on any person—
-    (i) For the benefit of that person's physical or mental health; and
-    (ii) By a medical practitioner:
-  (b) Any medical or surgical procedure that is performed on any person—
-    (i) While that person is in labour or immediately after that person gives birth; and
-    (ii) For the benefit of that person's health or the health of the child; and
-    (iii) By a medical practitioner or a midwife or a trainee health professional, or by any other person in any case where the case is urgent and no medical practitioner or midwife or trainee health professional is available.
+  (a) any medical or surgical procedure (including a sexual reassignment procedure) that is performed on any person—
+    (i) for the benefit of that person's physical or mental health; and
+    (ii) by a medical practitioner:
+  (b) any medical or surgical procedure that is performed on any person—
+    (i) while that person is in labour or immediately after that person gives birth; and
+    (ii) for the benefit of that person's health or the health of the child; and
+    (iii) by a medical practitioner or a midwife or a trainee health professional, or by any other person in any case where the case is urgent and no medical practitioner or midwife or trainee health professional is available.
 (4) In determining, for the purposes of subsection (3) of this section, whether or not any medical or surgical procedure is performed on any person for the benefit of that person's physical or mental health, no account shall be taken of the effect on that person of any belief on the part of that person or any other person that the procedure is necessary or desirable as, or as part of, a cultural, religious, or other custom or practice.
 (5) Nothing in subsection (3) of this section limits or affects any enactment or rule of law relating to consent to any medical or surgical procedure or treatment.
 (6) It is no defence to a charge under this section that the person on whom the act involving female genital mutilation was performed consented to that act, or that the person charged believed that such consent had been given.
@@ -1795,13 +1790,13 @@ Where—the Court shall impose a sentence of imprisonment (within the meaning of
 
 ### 204B Further offences relating to female genital mutilation
 (1) Every one is liable to imprisonment for a term not exceeding 7 years who, with intent that there be done, outside New Zealand, to or in relation to any child under the age of 17 years (being a child who is a New Zealand citizen or is ordinarily resident in New Zealand), any act which, if done in New Zealand, would be an offence against section 204A of this Act,—
-  (a) Causes that child to be sent or taken out of New Zealand; or
-  (b) Makes any arrangements for the purposes of causing that child to be sent or taken out of New Zealand.
+  (a) causes that child to be sent or taken out of New Zealand; or
+  (b) makes any arrangements for the purposes of causing that child to be sent or taken out of New Zealand.
 (2) Every one is liable to imprisonment for a term not exceeding 7 years who, in New Zealand, aids, incites, counsels, or procures the doing, outside New Zealand, in relation to any person who is a New Zealand citizen or is ordinarily resident in New Zealand, of any act which, if done in New Zealand, would be an offence against section 204A of this Act, whether or not the act is in fact done.
 (3) Every one is liable to imprisonment for a term not exceeding 7 years who, in New Zealand, incites, counsels, procures, or induces any person who is a New Zealand citizen or is ordinarily resident in New Zealand—whether or not, in any case, the act is in fact done.
-  (a) To submit, outside New Zealand, to any act which, if done in New Zealand, would be an offence against section 204A of this Act; or
-  (b) To acquiesce in the doing, outside New Zealand, on that person, of any such act; or
-  (c) To permit any such act to be done, outside New Zealand, on that person,—
+  (a) to submit, outside New Zealand, to any act which, if done in New Zealand, would be an offence against section 204A of this Act; or
+  (b) to acquiesce in the doing, outside New Zealand, on that person, of any such act; or
+  (c) to permit any such act to be done, outside New Zealand, on that person,—
 (4) It is no defence to a charge under subsection (2) or subsection (3) of this section that the person on whom the act was done consented to that act, or that the person charged believed that such consent had been given.
 (5) No person shall be charged as a party to an offence committed in relation to her against subsection (2) or subsection (3) of this section.
 
@@ -1809,20 +1804,20 @@ Where—the Court shall impose a sentence of imprisonment (within the meaning of
 
 ### 205 Bigamy defined
 (1) Bigamy is—
-  (a) The act of a person who, being married, goes through a form of marriage or civil union in New Zealand with a third person; or
-  (b) The act of a person who goes through a form of marriage in New Zealand with any other person whom he or she knows to be married or in a civil union; or
-  (c) The act of a New Zealand citizen, or a person ordinarily resident in New Zealand, who, being married or in a civil union, goes through a form of marriage with a third person anywhere outside New Zealand; or
-  (d) The act of a New Zealand citizen, or a person ordinarily resident in New Zealand, who goes through a form of marriage anywhere outside New Zealand with any other person whom he or she knows to be married or in a civil union; or
+  (a) the act of a person who, being married, goes through a form of marriage or civil union in New Zealand with a third person; or
+  (b) the act of a person who goes through a form of marriage in New Zealand with any other person whom he or she knows to be married or in a civil union; or
+  (c) the act of a New Zealand citizen, or a person ordinarily resident in New Zealand, who, being married or in a civil union, goes through a form of marriage with a third person anywhere outside New Zealand; or
+  (d) the act of a New Zealand citizen, or a person ordinarily resident in New Zealand, who goes through a form of marriage anywhere outside New Zealand with any other person whom he or she knows to be married or in a civil union; or
   (e) the act of a person who, being in a civil union, goes through a form of civil union or marriage with a third person; or
   (f) the act of a person who goes through a form of civil union with a person whom he or she knows to be in a civil union or to be married.
 (2) For the purposes of this section,—
-  (a) A form of marriage is any form of marriage recognised by the law of New Zealand, or by the law of the place where it is solemnised, as a valid form of marriage:
+  (a) a form of marriage is any form of marriage recognised by the law of New Zealand, or by the law of the place where it is solemnised, as a valid form of marriage:
   (b) a form of civil union is any form of civil union recognised under the Civil Union Act 2004 as a valid form of civil union under that Act:
   (c) no form of marriage or civil union may be held to be an invalid form of marriage or civil union by reason of any act or omission of the person charged with bigamy, if it is otherwise a valid form.
 (3) It shall not be a defence to a charge of bigamy to prove that if the parties were unmarried or not in a civil union they would have been incompetent to contract marriage or enter into a civil union
 (4) No person commits bigamy by going through a form of marriage or entering into a civil union if that person—
-  (a) Has been continuously absent from his or her spouse or civil union partner (as the case may be) for 7 years then last past; and
-  (b) Is not proved to have known that his or her spouse or civil union partner (as the case may be) was alive at any time during those 7 years.
+  (a) has been continuously absent from his or her spouse or civil union partner (as the case may be) for 7 years then last past; and
+  (b) is not proved to have known that his or her spouse or civil union partner (as the case may be) was alive at any time during those 7 years.
 
 ### 206 Punishment of bigamy
 Every one who commits bigamy is liable to imprisonment for a term not exceeding 7 years:
@@ -1897,24 +1892,24 @@ A person who claims in good faith a right to the possession of a young person un
     (b) does not include such a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so.
 (2) Any Order in Council exempting a device from the provisions of this Part expires 2 years after it is made.
 (2) A reference in this Part of this Act to a party to a private communication is a reference to—
-  (a) Any originator of the communication and any person intended by the originator to receive it; and
-  (b) A person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
+  (a) any originator of the communication and any person intended by the originator to receive it; and
+  (b) a person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
 
 ### 216B Prohibition on use of interception devices
 (1) Subject to subsections (2) to (5), every one is liable to imprisonment for a term not exceeding 2 years who intentionally intercepts any private communication by means of an interception device.
 (2) Subsection (1) does not apply where the person intercepting the private communication—
-  (a) Is a party to that private communication; or
-  (b) Does so pursuant to, and in accordance with the terms of, any authority conferred on him or her by or under—
+  (a) is a party to that private communication; or
+  (b) does so pursuant to, and in accordance with the terms of, any authority conferred on him or her by or under—
     (i) Part 11A of this Act; or
     (ii)
-    (iii) The New Zealand Security Intelligence Service Act 1969; or
+    (iii) the New Zealand Security Intelligence Service Act 1969; or
     (iiia) the Government Communications Security Bureau Act 2003; or
-    (iv) The Misuse of Drugs Amendment Act 1978; or
-    (v) The International Terrorism (Emergency Powers) Act 1987.
+    (iv) the Misuse of Drugs Amendment Act 1978; or
+    (v) the International Terrorism (Emergency Powers) Act 1987.
 (3) Subsection (1) of this section does not apply to the interception by any member of the Police of a private communication by means of an interception device where—
-  (a) An emergency has arisen in which there are reasonable grounds for believing that any person (in this section referred to as the suspect) is threatening the life of, or serious injury to, any other person in his presence or in the immediate vicinity; and
-  (b) The use of the interception device by that member of the Police is authorised by a commissioned officer of the Police who believes on reasonable grounds that the use of the interception device to intercept any private communication to which the suspect is a party during the emergency will facilitate the protection of any person who is threatened by the suspect.
-(4) Subsection (1) does not apply to monitoring prisoner call under section 113 of the Corrections Act 2004.
+  (a) an emergency has arisen in which there are reasonable grounds for believing that any person (in this section referred to as the suspect) is threatening the life of, or serious injury to, any other person in his presence or in the immediate vicinity; and
+  (b) the use of the interception device by that member of the Police is authorised by a commissioned officer of the Police who believes on reasonable grounds that the use of the interception device to intercept any private communication to which the suspect is a party during the emergency will facilitate the protection of any person who is threatened by the suspect.
+(4) Subsection (1) does not apply to any monitoring of a prisoner call under section 113 of the Corrections Act 2004 or any interception of a private communication if the interception is authorised under section 189B of that Act.
 (5) Subsection (1) does not apply to the interception of private communications by any interception device operated by a person engaged in providing an Internet or other communication service to the public if-
   (a) the interception is carried out by an employee of the person providing that Internet or other communication service to the public in the course of that person's duties; and
   (b) the interception is carried out for the purpose of maintaining that Internet or other communication service; and
@@ -1927,29 +1922,29 @@ A person who claims in good faith a right to the possession of a young person un
 
 ### 216C Prohibition on disclosure of private communications unlawfully intercepted
 (1) Subject to subsection (2) of this section, where a private communication has been intercepted in contravention of section 216B of this Act, every one is liable to imprisonment for a term not exceeding 2 years who intentionally—if he knows that it has come to his knowledge as a direct or indirect result of a contravention of section 216B of this Act.
-  (a) Discloses the private communication, or the substance, meaning, or purport of the communication, or any part of it; or
-  (b) Discloses the existence of the private communication,—
+  (a) discloses the private communication, or the substance, meaning, or purport of the communication, or any part of it; or
+  (b) discloses the existence of the private communication,—
 (2) Subsection (1) of this section does not apply where the disclosure is made—
-  (a) To a party to the communication or with the express or implied consent of such a party; or
-  (b) In the course, or for the purpose, of—
-    (i) An investigation by the Police into an alleged offence against this section or section 216B of this Act; or
-    (ii) Giving evidence in any civil or criminal proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted by that means; or
-    (iii) Giving evidence in any other civil or criminal proceeding where that evidence is not rendered inadmissible by the Evidence Act 2006 or section 25 of the Misuse of Drugs Amendment Act 1978 or any other enactment or rule of law; or
-    (iv) Determining whether the disclosure is admissible in any civil or criminal proceedings.
+  (a) to a party to the communication or with the express or implied consent of such a party; or
+  (b) in the course, or for the purpose, of—
+    (i) an investigation by the Police into an alleged offence against this section or section 216B of this Act; or
+    (ii) giving evidence in any civil or criminal proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted by that means; or
+    (iii) giving evidence in any other civil or criminal proceeding where that evidence is not rendered inadmissible by the Evidence Act 2006 or section 25 of the Misuse of Drugs Amendment Act 1978 or any other enactment or rule of law; or
+    (iv) determining whether the disclosure is admissible in any civil or criminal proceedings.
 
 ### 216D Prohibition on dealing, etc, with interception devices
 (1) Every one is liable to imprisonment for a term not exceeding 2 years who—any interception device—
-  (a) Invites any other person to acquire from him; or
-  (b) Offers or exposes for sale or supply to any other person; or
-  (c) Agrees to sell or supply or sells or supplies to any other person; or
-  (d) Has in his possession for the purpose of sale or supply to any other person,—
-  (i) The sole or principal purpose of which he knows to be the surreptitious interception of private communications; or
-  (ii) That he holds out as being useful for the surreptitious interception of private communications (whether or not he also holds it out as being useful for any other purpose).
+  (a) invites any other person to acquire from him; or
+  (b) offers or exposes for sale or supply to any other person; or
+  (c) agrees to sell or supply or sells or supplies to any other person; or
+  (d) has in his possession for the purpose of sale or supply to any other person,—
+  (i) the sole or principal purpose of which he knows to be the surreptitious interception of private communications; or
+  (ii) that he holds out as being useful for the surreptitious interception of private communications (whether or not he also holds it out as being useful for any other purpose).
 (2) It is a defence to a charge under this section if the person charged proves either—
-  (a) That at the time he did any act referred to in any of paragraphs (a) to (d) of subsection (1) of this section he believed that the other person referred to in the relevant paragraph was a member of the Police, or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, acting in the course of his official duties; or
-  (b) Where the charge relates to the supply of an interception device otherwise than for valuable consideration, that—
-    (i) He supplied the interception device to the other person referred to in paragraph (c) or paragraph (d) of subsection (1) of this section for the purpose of any proceeding or of any investigation or examination preliminary or incidental to any proceeding; or
-    (ii) Being a member of the Police or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, he supplied the interception device in the course of his official duties to the other person referred to in the said paragraph (c) or the said paragraph (d) for any lawful purpose.
+  (a) that at the time he did any act referred to in any of paragraphs (a) to (d) of subsection (1) of this section he believed that the other person referred to in the relevant paragraph was a member of the Police, or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, acting in the course of his official duties; or
+  (b) where the charge relates to the supply of an interception device otherwise than for valuable consideration, that—
+    (i) he supplied the interception device to the other person referred to in paragraph (c) or paragraph (d) of subsection (1) of this section for the purpose of any proceeding or of any investigation or examination preliminary or incidental to any proceeding; or
+    (ii) being a member of the Police or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, he supplied the interception device in the course of his official duties to the other person referred to in the said paragraph (c) or the said paragraph (d) for any lawful purpose.
 
 ### 216E Forfeiture
 Where any person is convicted of a crime against section 216B or section 216D of this Act in respect of any interception devices the sole or principal purpose of which is the surreptitious interception of private communications, the Court may, as part of the sentence, order that the interception devices shall be forfeited; and, in such a case, the interception devices shall thereupon become forfeited to the Crown accordingly, and may be disposed of in such manner as the Commissioner of Police directs.
@@ -2652,8 +2647,8 @@ Every one is liable to imprisonment for a term not exceeding 10 years who contam
 
 ### 306 Threatening to kill or do grievous bodily harm
 (1) Every one is liable to imprisonment for a term not exceeding 7 years who—
-  (a) Threatens to kill or do grievous bodily harm to any person; or
-  (b) Sends or causes to be received, knowing the contents thereof, any letter or writing containing any threat to kill or do grievous bodily harm to any person.
+  (a) threatens to kill or do grievous bodily harm to any person; or
+  (b) sends or causes to be received, knowing the contents thereof, any letter or writing containing any threat to kill or do grievous bodily harm to any person.
 (2)
 
 ### 307 Threatening to destroy property
@@ -2680,8 +2675,8 @@ Every one is liable to imprisonment for a term not exceeding 10 years who contam
 
 ### 308 Threatening acts
 Every one is liable to imprisonment for a term not exceeding 3 years who, with intent to intimidate or annoy any person,—
-  (a) Breaks or damages or threatens to break or damage any dwellinghouse; or
-  (b) By the discharge of firearms or otherwise, alarms or attempts to alarm any person in any dwellinghouse.
+  (a) breaks or damages or threatens to break or damage any dwellinghouse; or
+  (b) by the discharge of firearms or otherwise, alarms or attempts to alarm any person in any dwellinghouse.
 
 ### 309 Conspiring to prevent collection of rates or taxes
 Every one is liable to imprisonment for a term not exceeding 2 years who conspires with any other person by force or intimidation to prevent the collection of any rates or taxes the levying and collection of which is authorised by law.
@@ -2713,99 +2708,98 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
   - **interception device** —
     (a) means any electronic, mechanical, or electromagnetic instrument, apparatus, equipment, or other device that is used or is capable of being used to intercept a private communication; but
     (b) does not include a hearing aid or similar device used to correct subnormal hearing of the user to no better than normal hearing
-  - **Listening device**
-  - **Organised criminal enterprise** means a continuing association of 3 or more persons having as its object or as 1 of its objects the acquisition of substantial income or assets by means of a continuing course of criminal conduct
+  - **organised criminal enterprise** means a continuing association of 3 or more persons having as its object or as 1 of its objects the acquisition of substantial income or assets by means of a continuing course of criminal conduct
   - **private communication** —
     (a) means a communication (whether in oral or written form or otherwise) made under circumstances that may reasonably be taken to indicate that any party to the communication desires it to be confined to the parties to the communication; but
     (b) does not include such a communication occurring in circumstances in which any party ought reasonably to expect that the communication may be intercepted by some other person not having the express or implied consent of any party to do so.
-  - **Serious violent offence** means any offence—
-    (a) That is punishable by a period of imprisonment for a term of 7 years or more; and
-    (b) Where the conduct constituting the offence involves—
-      (i) Loss of a person's life or serious risk of loss of a person's life; or
-      (ii) Serious injury to a person or serious risk of serious injury to a person; or
-      (iii) Serious damage to property in circumstances endangering the physical safety of any person; or
-      (iv) Perverting the course of justice, where the purpose of the conduct is to prevent, seriously hinder, or seriously obstruct the detection, investigation, or prosecution of any offence—
-        (A) That is punishable by a period of imprisonment for a term of 7 years or more; and
-        (B) That involved, involves, or would involve conduct of the kind referred to in any of subparagraphs (i) to (iii):
-  - **Specified offence** means any of the following offences
-    (a) An offence punishable by a period of imprisonment for a term of 10 years or more:
-    (b) An offence against section 116 (which relates to conspiring to defeat justice):
-    (c) An offence against section 117 (which relates to corrupting juries and witnesses):
+  - **serious violent offence** means any offence—
+    (a) that is punishable by a period of imprisonment for a term of 7 years or more; and
+    (b) where the conduct constituting the offence involves—
+      (i) loss of a person's life or serious risk of loss of a person's life; or
+      (ii) serious injury to a person or serious risk of serious injury to a person; or
+      (iii) serious damage to property in circumstances endangering the physical safety of any person; or
+      (iv) perverting the course of justice, where the purpose of the conduct is to prevent, seriously hinder, or seriously obstruct the detection, investigation, or prosecution of any offence—
+        (A) that is punishable by a period of imprisonment for a term of 7 years or more; and
+        (B) that involved, involves, or would involve conduct of the kind referred to in any of subparagraphs (i) to (iii):
+  - **specified offence** means any of the following offences
+    (a) an offence punishable by a period of imprisonment for a term of 10 years or more:
+    (b) an offence against section 116 (which relates to conspiring to defeat justice):
+    (c) an offence against section 117 (which relates to corrupting juries and witnesses):
     (d) an offence punishable under section 223(b) (theft of an object exceeding $1,000 in value):
     (e) an offence against section 243 (which relates to money laundering):
     (f) an offence punishable under section 247 (which relates to receiving property dishonestly obtained).
   - **terrorist offence** means an offence against any of sections 6A to 13E of the Terrorism Suppression Act 2002.
 (2) A reference in this Part to a party to a private communication is a reference to—
-  (a) Any originator of the communication and any person intended by the originator to receive it; and
-  (b) A person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
+  (a) any originator of the communication and any person intended by the originator to receive it; and
+  (b) a person who, with the express or implied consent of any originator of the communication or any person intended by the originator to receive it, intercepts the communication.
 
 **Applications for interception warrants in relation to organised criminal enterprises**
 
 ### 312B Application by Police for warrant to intercept private communications
 (1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any member of the Police to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
-  (a) Any member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least one is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
-  (b) It is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
+  (a) any member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least one is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
+  (b) it is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
 (2) Every application under subsection (1) of this section shall be made by a commissioned officer of Police, in writing, and on oath, and shall set out the following particulars:
-  (a) The facts relied upon to show that there are reasonable grounds for believing that—
-    (i) There is an organised criminal enterprise; and
-    (ii) Any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least one is a specified offence as part of a continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
-  (b) A description of the manner in which it is proposed to intercept private communications; and
+  (a) the facts relied upon to show that there are reasonable grounds for believing that—
+    (i) there is an organised criminal enterprise; and
+    (ii) any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least one is a specified offence as part of a continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
+  (b) a description of the manner in which it is proposed to intercept private communications; and
   (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the police investigation of the case, or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and
-  (d) The period for which a warrant is requested; and
-  (e) Whichever of the following is applicable:
-    (i) The other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
-    (ii) The reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
+  (d) the period for which a warrant is requested; and
+  (e) whichever of the following is applicable:
+    (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
+    (ii) the reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
+    (iii) the reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
 
 ### 312C Matters on which Judge must be satisfied in respect of applications
 (1) On an application made in accordance with section 312B of this Act, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) There are reasonable grounds for believing that—
-    (i) There is an organised criminal enterprise; and
-    (ii) Any member of that organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least one is a specified offence, as part of the continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
-  (b) There are reasonable grounds for believing that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; and
-  (c) Whichever of the following is applicable:
-    (i) Other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
-    (ii) Other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) The private communications to be intercepted are not likely to be privileged in proceedings in a Court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
+  (a) there are reasonable grounds for believing that—
+    (i) there is an organised criminal enterprise; and
+    (ii) any member of that organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least one is a specified offence, as part of the continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
+  (b) there are reasonable grounds for believing that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; and
+  (c) whichever of the following is applicable:
+    (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
+    (ii) other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case, or are likely to be too dangerous to adopt in the particular case; or
+    (iii) the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
+  (d) the private communications to be intercepted are not likely to be privileged in proceedings in a Court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
 (2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
 
 **Applications for interception warrants in relation to serious violent offences**
 
 ### 312CA Application by Police for warrant to intercept private communications in relation to serious violent offences
 (1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any member of the Police to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that,—
-  (a) A serious violent offence has been committed, or is being committed, or is about to be committed; and
-  (b) Where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
-  (c) It is unlikely that the Police investigation of the case could be brought to a successful conclusion or, as the case may be, the commission of the serious violent offence prevented, without the granting of such a warrant.
+  (a) a serious violent offence has been committed, or is being committed, or is about to be committed; and
+  (b) where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
+  (c) it is unlikely that the Police investigation of the case could be brought to a successful conclusion or, as the case may be, the commission of the serious violent offence prevented, without the granting of such a warrant.
 (2) Every application under subsection (1) must be made by a commissioned officer of Police, in writing, and on oath, and must set out the following particulars:
-  (a) The facts relied on to show that there are reasonable grounds for believing that,—
-    (i) A serious violent offence has been committed, or is being committed, or is about to be committed; and
-    (ii) Where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
-  (b) A description of the manner in which it is proposed to intercept private communications; and
-  (c) Either,—
-    (i) The name and address, if known, of the suspect the interception of whose private communications there are reasonable grounds for believing will assist the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence; or
+  (a) the facts relied on to show that there are reasonable grounds for believing that,—
+    (i) a serious violent offence has been committed, or is being committed, or is about to be committed; and
+    (ii) where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
+  (b) a description of the manner in which it is proposed to intercept private communications; and
+  (c) either,—
+    (i) the name and address, if known, of the suspect the interception of whose private communications there are reasonable grounds for believing will assist the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence; or
     (ii) if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any person—
       (A) whom it is believed has committed or is committing or is about to commit a serious violent offence; or
       (B) whom it is believed was involved or is involved or will be involved in the commission of a serious violent offence; and.
-  (d) The period for which a warrant is requested; and
-  (e) Whichever of the following is applicable:
-    (i) The other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, to provide assistance in preventing the commission of a serious violent offence, and the reasons why they have failed in that respect; or
-    (ii) The reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
+  (d) the period for which a warrant is requested; and
+  (e) whichever of the following is applicable:
+    (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, to provide assistance in preventing the commission of a serious violent offence, and the reasons why they have failed in that respect; or
+    (ii) the reasons why it appears that other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence, or are likely to be too dangerous to adopt in the particular case; or
+    (iii) the reasons why it is considered that the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications.
 
 ### 312CB Matters on which Judge must be satisfied in respect of applications relating to serious violent offences
 (1) On an application made in accordance with section 312CA, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) There are reasonable grounds for believing that,—
-    (i) A serious violent offence has been committed, or is being committed, or is about to be committed; and
-    (ii) Where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
-  (b) There are reasonable grounds for believing that,—
-    (i) Evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; or
-    (ii) Where the serious violent offence has yet to be committed, evidence relevant to the prevention of that offence will be obtained through the use of an interception device to intercept private communications; and
-  (c) Whichever of the following is applicable:
-    (i) Other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, to provide assistance in preventing the commission of a serious violent offence; or
-    (ii) Other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence, or are likely to be too dangerous to adopt in the particular case; or
-    (iii) The case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
-  (d) The private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
+  (a) there are reasonable grounds for believing that,—
+    (i) a serious violent offence has been committed, or is being committed, or is about to be committed; and
+    (ii) where that serious violent offence has yet to be committed, the use of an interception device to intercept private communications is likely to prevent the commission of the offence; and
+  (b) there are reasonable grounds for believing that,—
+    (i) evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; or
+    (ii) where the serious violent offence has yet to be committed, evidence relevant to the prevention of that offence will be obtained through the use of an interception device to intercept private communications; and
+  (c) whichever of the following is applicable:
+    (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, to provide assistance in preventing the commission of a serious violent offence; or
+    (ii) other investigative procedures and techniques are unlikely to facilitate the successful conclusion of the Police investigation of the case or, as the case may be, prevent the commission of a serious violent offence, or are likely to be too dangerous to adopt in the particular case; or
+    (iii) the case is so urgent that it would be impractical to carry out the Police investigation using only investigative procedures and techniques other than the interception of private communications; and
+  (d) the private communications to be intercepted are not likely to be privileged in proceedings in a court of law by virtue of any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980 or of any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client.
 (2) Without limiting subsection (1), in determining whether or not to issue an interception warrant under this section, the Judge must consider the extent to which the privacy of any person or persons would be likely to be interfered with by the interception, under the warrant, of private communications.
 
 ### 312CC Application by police for warrant to intercept private communications relating to terrorist offences
@@ -2855,15 +2849,15 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
 
 ### 312D Contents and term of warrant
 (1) Every interception warrant shall be issued in the prescribed form, and shall—
-  (a) State the offence or offences in respect of which the warrant is granted; and
+  (a) state the offence or offences in respect of which the warrant is granted; and
   (b) state,—
     (i) in the case of a warrant granted under section 312C, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; or
     (ii) in the case of a warrant granted under section 312CB, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any person—
       (A) whom it is believed has committed or is committing or is about to commit a serious violent offence; or
       (B) whom it is believed was involved or is involved or will be involved in the commission of a serious violent offence; and.
-  (c) Specify the commissioned officer of Police who (with any other member of the Police for the time being assisting the commissioned officer) may intercept the private communications; and
-  (d) Where the Judge considers it necessary, contain express authority to enter (with force, where necessary) any aircraft, ship, hovercraft, carriage, vehicle, or premises for the purpose of placing, servicing, or retrieving an interception device; and
-  (e) Contain such additional terms and conditions as the Judge considers advisable in the public interest.
+  (c) specify the commissioned officer of Police who (with any other member of the Police for the time being assisting the commissioned officer) may intercept the private communications; and
+  (d) where the Judge considers it necessary, contain express authority to enter (with force, where necessary) any aircraft, ship, hovercraft, carriage, vehicle, or premises for the purpose of placing, servicing, or retrieving an interception device; and
+  (e) contain such additional terms and conditions as the Judge considers advisable in the public interest.
 (2) Without limiting subsection (1) of this section, where it is proposed to place an interception device in the residential or business premises of a person who is a barrister or solicitor, or a clergyman, or a medical practitioner, the Judge shall prescribe such conditions (if any) as the Judge considers desirable to avoid so far as practicable the interception of communications of a professional character to which the barrister or solicitor or clergyman or medical practitioner is a party.
 (3) Every interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the warrant.
 
@@ -2873,8 +2867,8 @@ Every interception warrant shall have effect, according to its terms, to authori
 ### 312F Renewal of warrants
 (1) Any Judge of the High Court may from time to time grant a renewal of an interception warrant upon application made at any time before the warrant (or any current renewal of the warrant) has expired.
 (2) Every application for the renewal of an interception warrant shall be made in the manner provided by section 312B or, as the case requires, section 312CA of this Act, and shall give—
-  (a) The reason and period for which the renewal is required; and
-  (b) Full particulars, together with times and dates, of any interceptions made or attempted under the warrant, and an indication of the nature of the information that has been obtained by every such interception.
+  (a) the reason and period for which the renewal is required; and
+  (b) full particulars, together with times and dates, of any interceptions made or attempted under the warrant, and an indication of the nature of the information that has been obtained by every such interception.
 (3) Every such application shall be supported by such other information as the Judge may require.
 (4) A renewal of an interception warrant may be granted under this section if the Judge is satisfied that the circumstances described in section 312C or, as the case requires, section 312CB of this Act still obtain.
 (5) Every renewal of an interception warrant shall be valid for such period, not exceeding 30 days, as the Judge shall specify in the renewal.
@@ -2908,45 +2902,45 @@ Every interception warrant shall have effect, according to its terms, to authori
 
 ### 312I Destruction of irrelevant records made by use of interception device
 (1) Every person who intercepts a private communication in pursuance of an interception warrant or any emergency permit must, as soon as practicable after it has been made, destroy any record, whether written or otherwise, of the information obtained by that interception if none of the information directly or indirectly relates to—
-  (a) The commission of a specified offence or a conspiracy to commit such an offence; or
-  (b) The commission of a serious violent offence or a conspiracy to commit such an offence; or
-  (c) A drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978).
+  (a) the commission of a specified offence or a conspiracy to commit such an offence; or
+  (b) the commission of a serious violent offence or a conspiracy to commit such an offence; or
+  (c) a drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978).
 (2) Every person who fails to comply with subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $500.
 
 ### 312J Destruction of relevant records made by use of interception device
 (1) The Commissioner of Police must ensure that every record, whether written or otherwise, of the information obtained by the Police from the interception of a private communication in pursuance of an interception warrant or an emergency permit, being information that relates wholly or partly and directly or indirectly to—is destroyed as soon as it appears that no proceedings, or no further proceedings, will be taken in which the information would be likely to be required to be produced in evidence.
-  (a) The commission of a specified offence or a conspiracy to commit such an offence; or
-  (b) The commission of a serious violent offence or a conspiracy to commit such an offence; or
-  (c) A drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978),—
+  (a) the commission of a specified offence or a conspiracy to commit such an offence; or
+  (b) the commission of a serious violent offence or a conspiracy to commit such an offence; or
+  (c) a drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978),—
 (2) Nothing in subsection (1) of this section shall apply to—
-  (a) Any record of any information adduced in proceedings in any Court, or (in any case where the defendant pleads guilty) of any record of any information that, in the opinion of the Judge to whom the report referred to in subsection (3) of this section is made, would have been adduced had the matter come to trial:
-  (b) Any record of any information contained in any transcript or written statement given to any person in accordance with section 312L(a) of this Act.
+  (a) any record of any information adduced in proceedings in any Court, or (in any case where the defendant pleads guilty) of any record of any information that, in the opinion of the Judge to whom the report referred to in subsection (3) of this section is made, would have been adduced had the matter come to trial:
+  (b) any record of any information contained in any transcript or written statement given to any person in accordance with section 312L(a) of this Act.
 (3) Every report made to a Judge in accordance with section 312P of this Act shall state whether or not subsection (1) of this section has yet been complied with, and, if it has not, the Judge shall give such directions relating to the eventual destruction of the record as the Judge thinks necessary to ensure compliance with that subsection, including a requirement that the Judge be advised when the record has been destroyed.
 
 ### 312K Prohibition on disclosure of private communications lawfully intercepted
 (1) No person who—shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of that person's duty.
-  (a) Intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
-  (b) Acquires knowledge of a private communication as a direct or indirect result of that interception—
+  (a) intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
+  (b) acquires knowledge of a private communication as a direct or indirect result of that interception—
 (2) Every person who acts in contravention of subsection (1) of this section commits an offence and is liable on summary conviction to a fine not exceeding $500.
 
 ### 312L Notice to be given of intention to produce evidence of private communication
 Particulars of a private communication intercepted pursuant to an interception warrant or an emergency permit shall not be received in evidence by any Court against any person unless the party intending to adduce it has given to that person reasonable notice of that person's intention to do so, together with—
-  (a) A transcript of the private communication where that person intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where that person intends to adduce oral evidence of it; and
-  (b) A statement of the time, place (if known), and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
+  (a) a transcript of the private communication where that person intends to adduce it in the form of a recording, or a written statement setting forth the full particulars of the private communication where that person intends to adduce oral evidence of it; and
+  (b) a statement of the time, place (if known), and date of the private communication, and of the names and addresses of the parties to the communication, if they are known.
 
 ### 312M Inadmissibility of evidence of private communications unlawfully intercepted
 (1) Subject to subsections (2) to (4) of this section, where a private communication intercepted by means of an interception device otherwise than in pursuance of an interception warrant or emergency permit issued under this Part of this Act or of any authority conferred by or under any other enactment has come to the knowledge of a person as a direct or indirect result of that interception or its disclosure, no evidence so acquired of that communication, or of its substance, meaning, or purport, and no other evidence obtained as a direct or indirect result of the interception or disclosure of that communication, shall be given against any person, except in proceedings relating to the unlawful interception of a private communication by means of an interception device or the unlawful disclosure of a private communication unlawfully intercepted in that manner.
 (2) Even though certain evidence is inadmissible in criminal proceedings by virtue of subsection (1), a Court may admit that evidence if the following conditions are satisfied:
-  (a) The proceedings are for—
-    (i) A specified offence, or a conspiracy to commit a specified offence; or
-    (ii) A serious violent offence, or a conspiracy to commit such an offence; and
-  (b) The evidence is relevant; and
-  (c) The evidence is inadmissible by virtue of subsection (1) merely because of a defect in form, or an irregularity in procedure, in—
-    (i) The application for or the granting of the interception warrant or emergency permit; or
-    (ii) The manner in which the evidence was obtained; and
-  (d) The defect in form or irregularity in procedure—
-    (i) Was not substantive; and
-    (ii) Was not the result of bad faith.
+  (a) the proceedings are for—
+    (i) a specified offence, or a conspiracy to commit a specified offence; or
+    (ii) a serious violent offence, or a conspiracy to commit such an offence; and
+  (b) the evidence is relevant; and
+  (c) the evidence is inadmissible by virtue of subsection (1) merely because of a defect in form, or an irregularity in procedure, in—
+    (i) the application for or the granting of the interception warrant or emergency permit; or
+    (ii) the manner in which the evidence was obtained; and
+  (d) the defect in form or irregularity in procedure—
+    (i) was not substantive; and
+    (ii) was not the result of bad faith.
 (3) Subsection (1) of this section shall not render inadmissible against any party to a private communication evidence of that communication that has, in the manner referred to in that subsection, come to the knowledge of the person called to give evidence, if all the parties to the communication consent to that person giving the evidence.
 (4) Subsection (1) of this section shall not render inadmissible evidence of a private communication by any person who intercepted that communication by means of an interception device with the prior consent of any party to the communication.
 
@@ -2964,39 +2958,39 @@ Even if the communication was intercepted under an interception warrant or an em
 
 ### 312O Privileged evidence
 Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of—such evidence shall remain privileged and shall not be given in any Court, except with the consent of the person entitled to waive that privilege.
-  (a) Any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980; or
-  (b) Any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client,—
+  (a) any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980; or
+  (b) any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and a client,—
 
 ### 312P Report to be made to Judge on use of warrant or permit
 (1) As soon as practicable after an interception warrant or an emergency permit has expired, the member of the Police who applied for it, or (if that member is unable to act) another commissioned officer of Police, shall make a written report to the Judge who granted the warrant or permit, or (if that Judge is unable to act) to another Judge, on the manner in which the power conferred by the warrant or permit has been exercised and the results obtained by the exercise of that power.
 (2) Notwithstanding anything in section 312H of this Act, the Judge who receives a report under subsection (1) of this section shall be entitled to inspect any relevant document held under subsection (1) of that section.
 (3) Without limiting the generality of subsection (1) of this section, every report made for the purposes of that subsection shall contain the following information:
-  (a) Where the interception device was placed:
-  (b) The number of interceptions made by means of the interception device:
-  (c) Whether any relevant evidence was obtained by means of the interception device:
-  (d) Whether any relevant evidence has been, or is intended to be, used in any criminal proceedings:
-  (e) Whether any records of a private communication intercepted pursuant to the warrant or permit have been destroyed in accordance with section 312I or section 312J of this Act, and, if not, why they have not been destroyed:
-  (f) Whether the interception device has been retrieved, and, if not, why it has not been retrieved.
+  (a) where the interception device was placed:
+  (b) the number of interceptions made by means of the interception device:
+  (c) whether any relevant evidence was obtained by means of the interception device:
+  (d) whether any relevant evidence has been, or is intended to be, used in any criminal proceedings:
+  (e) whether any records of a private communication intercepted pursuant to the warrant or permit have been destroyed in accordance with section 312I or section 312J of this Act, and, if not, why they have not been destroyed:
+  (f) whether the interception device has been retrieved, and, if not, why it has not been retrieved.
 (4) On receiving a report under this section, the Judge may require such further information relating to the matter as the Judge thinks fit, and (in addition to any directions the Judge gives for the purposes of section 312J(3) of this Act) the Judge may give such directions as the Judge thinks desirable, whether relating to the retrieval of the interception device, or otherwise.
 
 ### 312Q Commissioner of Police to give information to Parliament
 The Commissioner of Police must include in every annual report prepared by the Commissioner for the purposes of section 101 of the Policing Act 2008 the following information in respect of the period under review:
-  (a) The number of applications for warrants made under section 312B; and
-  (b) The number of applications for warrants made under section 312CA; and
-  (c) The number of applications for renewals of warrants made under section 312F; and
-  (d) The number of applications for emergency permits made under section 312G; and
-  (e) The number of applications referred to in each of paragraphs (a) to (d) that were granted, and the number that were refused; and
-  (f) In relation to each of the types of warrant referred to in paragraphs (a) and (b) that were issued,—
-    (i) The number of warrants that authorised the use of an interception device to intercept the private communications of a named individual:
-    (ii) The number of warrants that authorised the use of an interception device to intercept private communications at specified premises or a specified place:
-    (iii) The number of warrants that authorised entry onto private premises; and
-  (g) The number of occasions on which telephonic communications were intercepted under an emergency permit granted under section 312G; and
+  (a) the number of applications for warrants made under section 312B; and
+  (b) the number of applications for warrants made under section 312CA; and
+  (c) the number of applications for renewals of warrants made under section 312F; and
+  (d) the number of applications for emergency permits made under section 312G; and
+  (e) the number of applications referred to in each of paragraphs (a) to (d) that were granted, and the number that were refused; and
+  (f) in relation to each of the types of warrant referred to in paragraphs (a) and (b) that were issued,—
+    (i) the number of warrants that authorised the use of an interception device to intercept the private communications of a named individual:
+    (ii) the number of warrants that authorised the use of an interception device to intercept private communications at specified premises or a specified place:
+    (iii) the number of warrants that authorised entry onto private premises; and
+  (g) the number of occasions on which telephonic communications were intercepted under an emergency permit granted under section 312G; and
   (ga) the number of occasions on which the police used an interception device in reliance on section 216B(3)(b):
-  (h) The average duration of warrants (including renewals); and
-  (i) The number of prosecutions that have been instituted in which evidence obtained directly or indirectly from an interception carried out pursuant to a warrant or permit has been adduced, and the result of those prosecutions; and
-  (j) The number of prosecutions that have been instituted against members of the Police (including former members of the Police where the prosecution relates to behaviour occurring while they were members of the Police) for—
-    (i) Offences against section 216C (prohibition on disclosure of private communications unlawfully intercepted):
-    (ii) Offences against section 312K (prohibition on disclosure of private communications lawfully intercepted).
+  (h) the average duration of warrants (including renewals); and
+  (i) the number of prosecutions that have been instituted in which evidence obtained directly or indirectly from an interception carried out pursuant to a warrant or permit has been adduced, and the result of those prosecutions; and
+  (j) the number of prosecutions that have been instituted against members of the Police (including former members of the Police where the prosecution relates to behaviour occurring while they were members of the Police) for—
+    (i) offences against section 216C (prohibition on disclosure of private communications unlawfully intercepted):
+    (ii) offences against section 312K (prohibition on disclosure of private communications lawfully intercepted).
   (k) in relation to the emergency powers granted under section 216B(3),—
     (i) whether or not the powers have been used:
     (ii) the number of times the powers have been used:
@@ -3023,23 +3017,23 @@ Where any one is charged with any offence in respect of which the leave or conse
 ### 314A Statutory search power
 (1) For the purposes of sections 314B and 314C, a statutory search power means any power conferred by statute that expressly authorises any member of the Police to search a vehicle, but does not include a power that itself authorises any member of the Police to stop a vehicle.
 (2) A power conferred by statute described in subsection (1) is a statutory search power for the purposes of sections 314B and 314C whether or not the power conferred by statute—
-  (a) Involves the issue of a warrant:
-  (b) Authorises any other person to exercise that power.
+  (a) involves the issue of a warrant:
+  (b) authorises any other person to exercise that power.
 (3) For the purposes of this section and sections 314B and 314C, the term vehicle does not include any aircraft, hovercraft, ship or ferry or other vessel, train, or carriage.
 
 ### 314B General power to stop vehicles
 (1) Any member of the Police may stop a vehicle for the purpose of conducting a search under a statutory search power if the member of the Police is satisfied that,—
-  (a) In respect of a statutory search power to search without a warrant, the ground or grounds, as the case may be, for exercising that statutory search power, as set out in the applicable statute, exist; or
-  (b) In respect of a statutory search power to search with a warrant, the warrant has been issued and is in force.
+  (a) in respect of a statutory search power to search without a warrant, the ground or grounds, as the case may be, for exercising that statutory search power, as set out in the applicable statute, exist; or
+  (b) in respect of a statutory search power to search with a warrant, the warrant has been issued and is in force.
 (2) Any member of the Police who stops a vehicle under subsection (1) must—
-  (a) Be wearing a uniform or distinctive cap, hat, or helmet with a badge of authority affixed to that cap, hat, or helmet; or
-  (b) Be following immediately behind the vehicle in a motor vehicle displaying flashing blue lights, or flashing blue and red lights, and sounding a siren.
+  (a) be wearing a uniform or distinctive cap, hat, or helmet with a badge of authority affixed to that cap, hat, or helmet; or
+  (b) be following immediately behind the vehicle in a motor vehicle displaying flashing blue lights, or flashing blue and red lights, and sounding a siren.
 (3) A person driving a vehicle must stop the vehicle as soon as is practicable on being required to do so by a member of the Police exercising the stopping power conferred by subsection (1).
 (4) Every member of the Police exercising the stopping power conferred by subsection (1) must, immediately after the vehicle has stopped,—
-  (a) Identify himself or herself to the driver of the vehicle; and
-  (b) Tell the driver that the stopping power is being exercised under this section for the purpose of exercising a statutory search power; and
-  (c) Tell the driver the statutory search power in respect of which the stopping power is being exercised; and
-  (d) If not in uniform and if so required, produce evidence that he or she is a member of the Police.
+  (a) identify himself or herself to the driver of the vehicle; and
+  (b) tell the driver that the stopping power is being exercised under this section for the purpose of exercising a statutory search power; and
+  (c) tell the driver the statutory search power in respect of which the stopping power is being exercised; and
+  (d) if not in uniform and if so required, produce evidence that he or she is a member of the Police.
 (5) Subsection (4) does not limit any other duties that a member of the Police must carry out when exercising the applicable statutory search power.
 (6) Despite subsection (5), a member of the Police need not carry out any duty that is contained in the applicable statutory search power if that duty is exactly the same as a duty contained in subsection (4).
 (7) This section does not limit or affect the powers of any person other than a member of the Police under any power of search conferred by statute.
@@ -3047,25 +3041,25 @@ Where any one is charged with any offence in respect of which the leave or conse
 ### 314C Powers incidental to stopping vehicles under section 314B
 (1) This section applies whenever a vehicle is stopped under section 314B.
 (2) Any member of the Police may do either or both of the following:
-  (a) Require any person in or on the vehicle to state his or her name, address, and date of birth, or such of those particulars as the member of the Police may specify:
-  (b) Require that the vehicle remain stopped for as long as is reasonably necessary to enable a statutory search power to be exercised.
+  (a) require any person in or on the vehicle to state his or her name, address, and date of birth, or such of those particulars as the member of the Police may specify:
+  (b) require that the vehicle remain stopped for as long as is reasonably necessary to enable a statutory search power to be exercised.
 (3) This section does not limit or affect the exercise of any other power, whether express or implied, that is incidental to the applicable statutory search power.
 
 ### 314D Offences relating to stopping vehicles under section 314B
 (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
-  (a) Fails to stop as soon as is practicable when required to do so by a member of the Police exercising the power conferred by section 314B(1); or
-  (b) Fails to comply with a requirement made by a member of the Police under paragraph (a) or paragraph (b) of section 314C(2).
+  (a) fails to stop as soon as is practicable when required to do so by a member of the Police exercising the power conferred by section 314B(1); or
+  (b) fails to comply with a requirement made by a member of the Police under paragraph (a) or paragraph (b) of section 314C(2).
 (2) Any member of the Police may arrest without warrant any person whom the member of the Police has good cause to suspect has committed an offence against subsection (1).
 
 **Arrest**
 
 ### 315 Arrest without warrant
 (1) No one shall be arrested without warrant except pursuant to the provisions of—
-  (a) This Act; or
-  (b) Some other enactment expressly giving power to arrest without warrant.
+  (a) this Act; or
+  (b) some other enactment expressly giving power to arrest without warrant.
 (2) Any constable, and all persons whom he calls to his assistance, may arrest and take into custody without a warrant—
-  (a) Any person whom he finds disturbing the public peace or committing any offence punishable by imprisonment:
-  (b) Any person whom he has good cause to suspect of having committed a breach of the peace or any offence punishable by imprisonment:
+  (a) any person whom he finds disturbing the public peace or committing any offence punishable by imprisonment:
+  (b) any person whom he has good cause to suspect of having committed a breach of the peace or any offence punishable by imprisonment:
   (c)
   (d)
   (e)
@@ -3076,87 +3070,87 @@ Where any one is charged with any offence in respect of which the leave or conse
 ### 316 Duty of persons arresting
 (1) It is the duty of every one arresting any other person to inform the person he is arresting, at the time of the arrest, of the act or omission for which the person is being arrested, unless it is impracticable to do so, or unless the reason for the arrest is obvious in the circumstances. The act or omission need not be stated in technical or precise language, and may be stated in any words sufficient to give that person notice of the true reason for his arrest.
 (2) It is the duty of every one who arrests any other person pursuant to any process or warrant—
-  (a) If he has the process or warrant in his possession at the time of the arrest, to produce it if required by that person to do so:
-  (b) If he does not have the process or warrant in his possession at the time of the arrest, to show it to the arrested person as soon as practicable after the arrest, if that person so requires.
+  (a) if he has the process or warrant in his possession at the time of the arrest, to produce it if required by that person to do so:
+  (b) if he does not have the process or warrant in his possession at the time of the arrest, to show it to the arrested person as soon as practicable after the arrest, if that person so requires.
 (3) Where under any enactment any person other than a constable has, by virtue of his office, a power of arrest without warrant, he shall, whenever he arrests any other person pursuant to that power,—
-  (a) If he has evidence of his appointment to that office in his possession at the time of the arrest, produce it if required by that person to do so:
-  (b) If he does not have evidence of his appointment in his possession at the time of the arrest, show it to the arrested person as soon as practicable after the arrest, if that person so requires.
+  (a) if he has evidence of his appointment to that office in his possession at the time of the arrest, produce it if required by that person to do so:
+  (b) if he does not have evidence of his appointment in his possession at the time of the arrest, show it to the arrested person as soon as practicable after the arrest, if that person so requires.
 (4) A failure to fulfil any of the duties mentioned in the foregoing provisions of this section shall not of itself deprive the person arresting, or his assistants, of protection from criminal responsibility, but shall be relevant to the inquiry whether the arrest might not have been effected, or the process or warrant executed, by reasonable means in a less violent manner.
 (5) Every person who is arrested on a charge of any offence shall be brought before a Court, as soon as possible, to be dealt with according to law.
 (6) Nothing in this section shall limit or affect the express provisions of any enactment whereby—
-  (a) The burden of proving the absence of reasonable or probable cause, or the absence of justification, for any arrest is on any person:
-  (b) Any person having, by virtue of his office, a power of arrest without warrant is entitled, in any specified circumstances, to exercise that power without the production of evidence of his appointment to that office, or is required, in exercising the power, to comply with any specified conditions or restrictions in addition to or instead of producing evidence of his appointment.
+  (a) the burden of proving the absence of reasonable or probable cause, or the absence of justification, for any arrest is on any person:
+  (b) any person having, by virtue of his office, a power of arrest without warrant is entitled, in any specified circumstances, to exercise that power without the production of evidence of his appointment to that office, or is required, in exercising the power, to comply with any specified conditions or restrictions in addition to or instead of producing evidence of his appointment.
 
 ### 317 Power to enter premises to arrest offender or prevent offence
 (1) Where any constable is authorised by this Act or by any other enactment to arrest any person without warrant, that constable, and all persons whom he calls to his assistance, may enter on any premises, by force if necessary, to arrest that person if the constable—
-  (a) Has found that person committing any offence punishable by imprisonment and is freshly pursuing that person; or
-  (b) Has good cause to suspect that that person has committed any such offence on those premises.
+  (a) has found that person committing any offence punishable by imprisonment and is freshly pursuing that person; or
+  (b) has good cause to suspect that that person has committed any such offence on those premises.
 (2) Any constable, and all persons whom he calls to his assistance, may enter on any premises, by force if necessary, to prevent the commission of any offence that would be likely to cause immediate and serious injury to any person or property, if he believes, on reasonable and probable grounds, that any such offence is about to be committed.
 (3) If, in any case to which this section applies, the constable is not in uniform and any person in actual occupation of the premises requires him to produce evidence of his authority, he shall before entering on the premises produce his badge or other evidence that he is a constable.
 (4) Nothing in this section shall affect in any way the power of any constable to enter any premises pursuant to a warrant.
 
 ### 317A Power to stop vehicles for purpose of arrest
 (1) Any member of the Police who—
-  (a) Has reasonable grounds to suspect that there is in or on any vehicle any person who either—
-    (i) Is unlawfully at large; or
-    (ii) Has committed an offence punishable by imprisonment; and
-  (b) Either—may stop the vehicle for the purpose of arresting that person.
-    (i) Is wearing a uniform or a distinctive cap, hat, or helmet with a badge of authority affixed thereto; or
-    (ii) Is following immediately behind the vehicle in a motor vehicle displaying flashing blue lights, or flashing blue and red lights, and sounding a siren—
+  (a) has reasonable grounds to suspect that there is in or on any vehicle any person who either—
+    (i) is unlawfully at large; or
+    (ii) has committed an offence punishable by imprisonment; and
+  (b) either—may stop the vehicle for the purpose of arresting that person.
+    (i) is wearing a uniform or a distinctive cap, hat, or helmet with a badge of authority affixed thereto; or
+    (ii) is following immediately behind the vehicle in a motor vehicle displaying flashing blue lights, or flashing blue and red lights, and sounding a siren—
 (2) A person driving a vehicle must stop the vehicle as soon as is practicable on being required to do so by a member of the Police exercising the power conferred by subsection (1).
 (3) Every member of the Police exercising any power conferred by subsection (1) must, immediately after the vehicle has stopped,—
-  (a) Identify himself or herself to the driver of the vehicle; and
-  (b) Tell the driver that the power is being exercised under this section; and
-  (c) If not in uniform and if so required, produce evidence that he or she is a member of the Police.
+  (a) identify himself or herself to the driver of the vehicle; and
+  (b) tell the driver that the power is being exercised under this section; and
+  (c) if not in uniform and if so required, produce evidence that he or she is a member of the Police.
 (4) Where a vehicle fails to stop at a road block established under section 317B, subsection (1) applies and any member of the Police may, in relation to that vehicle and any person in or on it, exercise all or any of the powers conferred by this section and sections 317AA and 317AB.
 (5) For the purposes of this section, the term unlawfully at large, in relation to any person, includes (but is not limited to) any case where a warrant for the arrest of that person is for the time being in force.
 
 ### 317AA Powers incidental to stopping vehicles under section 317A
 (1) Subject to section 317A(3), where any vehicle is stopped pursuant to section 317A, any member of the Police may do all or any of the following:
-  (a) Require any person in or on any such vehicle to state his or her name, address, and date of birth, or such of those particulars as the member of the Police may specify:
-  (b) Search the vehicle for the purpose of—if the member or any other member of the Police believes on reasonable grounds that such a person, or such property, is in or on the vehicle:
-    (i) Locating a person referred to in section 317A(1)(a); or
-    (ii) Locating property that is evidence of the commission of the offence in respect of which the vehicle is stopped pursuant to section 317A(1)(a)(ii),—
-  (c) Use reasonable force to enter a vehicle for the purpose of conducting a search pursuant to paragraph (b):
-  (d) Require that the vehicle remain stopped for as long as is reasonably necessary to enable a member of the Police to exercise any powers conferred by this subsection, regardless of whether such powers are exercised in respect of—
-    (i) The vehicle; or
-    (ii) The occupants of the vehicle; or
-    (iii) The property in or on the vehicle.
+  (a) require any person in or on any such vehicle to state his or her name, address, and date of birth, or such of those particulars as the member of the Police may specify:
+  (b) search the vehicle for the purpose of—if the member or any other member of the Police believes on reasonable grounds that such a person, or such property, is in or on the vehicle:
+    (i) locating a person referred to in section 317A(1)(a); or
+    (ii) locating property that is evidence of the commission of the offence in respect of which the vehicle is stopped pursuant to section 317A(1)(a)(ii),—
+  (c) use reasonable force to enter a vehicle for the purpose of conducting a search pursuant to paragraph (b):
+  (d) require that the vehicle remain stopped for as long as is reasonably necessary to enable a member of the Police to exercise any powers conferred by this subsection, regardless of whether such powers are exercised in respect of—
+    (i) the vehicle; or
+    (ii) the occupants of the vehicle; or
+    (iii) the property in or on the vehicle.
 (2) Every member of the Police exercising any power conferred by subsection (1)(b) must, before conducting the search, tell the driver the object of the proposed search.
 
 ### 317AB Offences relating to stopping vehicles under section 317A
 (1) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
-  (a) Fails to stop as soon as is practicable when required to do so by a member of the Police exercising the power conferred by section 317A(1); or
-  (b) Fails to comply with a requirement made by a member of the Police under paragraph (a) or paragraph (d) of section 317AA(1).
+  (a) fails to stop as soon as is practicable when required to do so by a member of the Police exercising the power conferred by section 317A(1); or
+  (b) fails to comply with a requirement made by a member of the Police under paragraph (a) or paragraph (d) of section 317AA(1).
 (2) Any member of the Police may arrest without warrant any person whom the member of the Police has good cause to suspect has committed an offence against subsection (1).
 
 ### 317B Road blocks
 (1) Where any senior member of the Police (holding a level of position not lower than sergeant) has reasonable grounds to suspect that there is in or on any vehicle any person who—that senior member of the Police may authorise the establishment of a road block for the purpose of arresting that person if he or she—
-  (a) Has committed an offence punishable by a term of imprisonment of 7 years or more; or
-  (b) Is unlawfully at large,—
-  (c) Has reasonable grounds to suspect that the vehicle may travel past the place where it is proposed that the road block be established; and
-  (d) Is satisfied that as far as is reasonably practicable the safety of all road users will be ensured in the area in which the road block is established.
+  (a) has committed an offence punishable by a term of imprisonment of 7 years or more; or
+  (b) is unlawfully at large,—
+  (c) has reasonable grounds to suspect that the vehicle may travel past the place where it is proposed that the road block be established; and
+  (d) is satisfied that as far as is reasonably practicable the safety of all road users will be ensured in the area in which the road block is established.
 (2) An authorisation under this section—
-  (a) Shall operate for an initial period not exceeding 24 hours, specified by the person giving the authorisation:
-  (b) May be renewed from time to time by a District Court Judge for such further period not exceeding 24 hours as the Judge may specify in writing.
+  (a) shall operate for an initial period not exceeding 24 hours, specified by the person giving the authorisation:
+  (b) may be renewed from time to time by a District Court Judge for such further period not exceeding 24 hours as the Judge may specify in writing.
 (3) An authorisation may be granted under this section orally or in writing, but in every case the person giving the authorisation shall keep or cause to be kept a written record of the following matters:
-  (a) The place at which the establishment of a road block was authorised:
-  (b) The period or periods for which the authorisation was granted or renewed:
-  (c) The grounds on which the authorisation was granted or renewed.
+  (a) the place at which the establishment of a road block was authorised:
+  (b) the period or periods for which the authorisation was granted or renewed:
+  (c) the grounds on which the authorisation was granted or renewed.
 (4) Subject to subsection (5) of this section, where a road block is authorised under this section, any member of the Police may do all or any of the following:
-  (a) Establish a road block at the place or places specified in the authorisation:
-  (b) Stop vehicles at or in the vicinity of the road block:
-  (c) Require any person in or on any such vehicle to state his or her name, address, and date of birth, or such of those particulars as the member of the Police may specify:
-  (d) Search the vehicle for the purpose of locating a person referred to in paragraph (a) or paragraph (b) of subsection (1) of this section, if the member or any other member of the Police believes on reasonable grounds that the person is in or on the vehicle:
-  (e) Use reasonable force to enter a vehicle for the purpose of locating a person referred to in paragraph (a) or paragraph (b) of subsection (1) of this section, if the member or any other member of the Police believes on reasonable grounds that such a person is in the vehicle:
-  (f) Require that the vehicle remain stopped for as long as is reasonably necessary to enable a member of the Police to exercise any powers conferred by this subsection, regardless of whether such powers are exercised in respect of—
-    (i) The vehicle; or
-    (ii) The occupants of the vehicle.
+  (a) establish a road block at the place or places specified in the authorisation:
+  (b) stop vehicles at or in the vicinity of the road block:
+  (c) require any person in or on any such vehicle to state his or her name, address, and date of birth, or such of those particulars as the member of the Police may specify:
+  (d) search the vehicle for the purpose of locating a person referred to in paragraph (a) or paragraph (b) of subsection (1) of this section, if the member or any other member of the Police believes on reasonable grounds that the person is in or on the vehicle:
+  (e) use reasonable force to enter a vehicle for the purpose of locating a person referred to in paragraph (a) or paragraph (b) of subsection (1) of this section, if the member or any other member of the Police believes on reasonable grounds that such a person is in the vehicle:
+  (f) require that the vehicle remain stopped for as long as is reasonably necessary to enable a member of the Police to exercise any powers conferred by this subsection, regardless of whether such powers are exercised in respect of—
+    (i) the vehicle; or
+    (ii) the occupants of the vehicle.
 (5) Every member of the Police exercising the power conferred by any of paragraphs (b) to (f) of subsection (4) of this section shall identify himself or herself to the driver of the vehicle, tell the driver that the power is being exercised under this section, and, if not in uniform and if so required, produce evidence that he or she is a member of the Police.
 (6)
 (7) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, without reasonable excuse,—
-  (a) Fails to stop, as soon as is practicable, when required to do so by a member of the Police exercising the power conferred by subsection (4)(b) of this section; or
-  (b) Fails to comply with a requirement made by a member of the Police under paragraph (c) or paragraph (f) of subsection (4) of this section.
+  (a) fails to stop, as soon as is practicable, when required to do so by a member of the Police exercising the power conferred by subsection (4)(b) of this section; or
+  (b) fails to comply with a requirement made by a member of the Police under paragraph (c) or paragraph (f) of subsection (4) of this section.
 (7A) Any member of the Police may arrest without warrant any person whom the member of the Police has good cause to suspect has committed an offence against subsection (7).
 (8) For the purposes of this section, road block means any form of barrier or obstruction preventing or limiting the passage of vehicles.
 (9) For the purposes of this section, a person is not unlawfully at large by reason only of the fact that a warrant for the arrest of that person is for the time being in force.
@@ -3203,8 +3197,8 @@ Where any one is charged with any offence in respect of which the leave or conse
 
 ### 322 Changing venue or sitting
 (1) Where any person is committed for any crime to appear at any sitting of the High Court or of a District Court (hereinafter referred to as the Court of committal), and it appears to a Judge or a District Court Judge (as the case may require) that it is expedient for the ends of justice that the person should be tried for that crime—the Judge, either of his own motion, or on application made by or on behalf of the prosecutor or the person charged, may by order, either before or after an indictment is filed, direct that the person shall be tried at such place and sitting of the Court, or (as the case may require) by such Court and at such sitting of that Court (hereinafter referred to as the substituted Court), as he thinks fit.
-  (a) Where the High Court is the Court of committal, at some place or at some sitting other than the place or sitting for trial to which he was committed, or at which he would in the ordinary course of law be tried; or
-  (b) Where a District Court is the Court of committal, at some District Court or at some sitting of the Court of committal other than the Court or sitting to which he was committed, or at which he would in the ordinary course of law be tried,—
+  (a) where the High Court is the Court of committal, at some place or at some sitting other than the place or sitting for trial to which he was committed, or at which he would in the ordinary course of law be tried; or
+  (b) where a District Court is the Court of committal, at some District Court or at some sitting of the Court of committal other than the Court or sitting to which he was committed, or at which he would in the ordinary course of law be tried,—
 (2) Any application for an order as aforesaid may be made to a Judge when sitting in Court or in Chambers; and it shall not be necessary for the person charged to be brought or appear in person before the Judge, either upon the making or the determination of the application, or to plead to any such indictment in the Court of committal.
 (3) The Judge may make any such order subject to such conditions concerning bail and the payment of the costs of the prosecutor and witnesses, and of the removal of the indictment, and of the removal of the person charged, and concerning the publication of any report or account of the proceedings in connection with the making of the order, and concerning any other matter or thing whatsoever, as the Judge in his discretion thinks fit.
 (4) After any such order has been made, no indictment shall be filed to or at the Court of committal against that person for the crime.
@@ -3252,13 +3246,13 @@ Where on the application of the prosecutor an order is made for the trial of any
 
 ### 331 Certain objections not to vitiate counts
 No count shall be deemed objectionable or insufficient on the ground—
-  (a) That it does not contain the name of any person injuriously affected; or
-  (b) That it does not state who is the owner of any property therein mentioned; or
-  (c) That it charges an intent to defraud, without naming or describing the person whom it was intended to defraud; or
-  (d) That it does not set out any document which may be the subject of the charge; or
-  (e) That it does not set out the words used, where words used are the subject of the charge; or
-  (f) That it does not specify the means by which the crime was committed; or
-  (g) That it does not name or describe with precision any person or thing:
+  (a) that it does not contain the name of any person injuriously affected; or
+  (b) that it does not state who is the owner of any property therein mentioned; or
+  (c) that it charges an intent to defraud, without naming or describing the person whom it was intended to defraud; or
+  (d) that it does not set out any document which may be the subject of the charge; or
+  (e) that it does not set out the words used, where words used are the subject of the charge; or
+  (f) that it does not specify the means by which the crime was committed; or
+  (g) that it does not name or describe with precision any person or thing:
   Provided that the Court may, if satisfied that it is necessary for a fair trial, order that further particulars in writing of any such document, words, means, person, or thing be furnished by the prosecutor.
 
 ### 332 Indictment for perjury or fraud
@@ -3298,12 +3292,12 @@ Where the commission of the crime charged is not proved, but the evidence establ
 ### 339 Part of charge proved
 (1) Every count shall be deemed divisible; and if the commission of the crime charged, as described in the enactment creating the crime or as charged in the count, includes the commission of any other crime, the person accused may be convicted of any crime so included which is proved, although the whole crime charged is not proved; or he may be convicted of an attempt to commit any crime so included.
 (2) On a count charging murder, the jury may—but shall not on that count, except in accordance with subsection (2) of section 178 of this Act (which relates to infanticide) find the accused guilty of any other offence.
-  (a) In accordance with section 337 of this Act, find the accused guilty of an attempt to commit murder; or
-  (b) If the evidence proves manslaughter but does not prove murder, find the accused guilty of manslaughter—
+  (a) in accordance with section 337 of this Act, find the accused guilty of an attempt to commit murder; or
+  (b) if the evidence proves manslaughter but does not prove murder, find the accused guilty of manslaughter—
 (3)
 
 ### 340 Joinder of counts
-(1) Any number of counts for any crimes whatever may be joined in the same indictment, and shall be distinguished in the manner shown in form 4 in Schedule 2 to this Act, or to the like effect.
+(1) Any number of counts for any crimes whatever may be joined in the same indictment, and shall be distinguished in the manner shown in form 4 in Schedule2 to this Act, or to the like effect.
 (2) Where there are more counts than one in an indictment each count may be treated as a separate indictment.
 (3) If the Court thinks it conducive to the ends of justice to do so it may order that the accused shall be tried upon any one or more of such counts separately.
 (4) Any such order may be made either before or in the course of the trial, and if it is made in the course of the trial the jury shall be discharged from giving a verdict on the counts on which the trial is not to proceed.
@@ -3313,9 +3307,9 @@ Where the commission of the crime charged is not proved, but the evidence establ
 
 ### 341 Charge of previous conviction
 (1) Where any count contains an allegation that the accused has been previously convicted, the following provisions shall apply:
-  (a) He shall not at the time of his arraignment be required to plead to that allegation, unless he pleads guilty to the rest of that count and to the rest of the indictment:
-  (b) If he pleads not guilty to the rest of that count, or to any other count in the indictment, the allegation shall not be mentioned to the jury when he is given in charge to them:
-  (c) If he pleads guilty to or is convicted on any count, then, before he is called upon to say why sentence should not be passed upon him, he shall be asked whether or not he has been previously convicted as alleged, and if he says that he has not, or does not say that he has been so convicted, the jury shall be charged to inquire into the matter, as in other cases.
+  (a) he shall not at the time of his arraignment be required to plead to that allegation, unless he pleads guilty to the rest of that count and to the rest of the indictment:
+  (b) if he pleads not guilty to the rest of that count, or to any other count in the indictment, the allegation shall not be mentioned to the jury when he is given in charge to them:
+  (c) if he pleads guilty to or is convicted on any count, then, before he is called upon to say why sentence should not be passed upon him, he shall be asked whether or not he has been previously convicted as alleged, and if he says that he has not, or does not say that he has been so convicted, the jury shall be charged to inquire into the matter, as in other cases.
 (2) Notwithstanding anything in subsection (1) of this section, where at the trial of the accused evidence of his good character is given on the part of the accused, the prosecutor, in answer to that evidence, may prove the previous conviction.
 
 ### 342 Objections to indictment
@@ -3332,21 +3326,21 @@ Every one who is a party to any crime may be convicted either upon a count charg
 
 ### 344AA Money launderers
 (1) Every one charged with an offence (in this section referred to as a money laundering offence) against subsection (2) or subsection (3) of section 243 of this Act or subsection (2) or subsection (3) of section 12B of the Misuse of Drugs Act 1975 (which sections relate to money laundering and laundering the proceeds of offences) in respect of any property that is the proceeds of a serious offence—
-  (a) May be indicted whether or not the person who committed that serious offence has been indicted or convicted or is amenable to justice; and
-  (b) Either—
-    (i) May be indicted alone in respect of that money laundering offence; or
-    (ii) May be charged jointly with that other person in one indictment in which each is charged in a separate count with the respective offence alleged to have been committed by that person, in which case those persons may be tried together.
+  (a) may be indicted whether or not the person who committed that serious offence has been indicted or convicted or is amenable to justice; and
+  (b) either—
+    (i) may be indicted alone in respect of that money laundering offence; or
+    (ii) may be charged jointly with that other person in one indictment in which each is charged in a separate count with the respective offence alleged to have been committed by that person, in which case those persons may be tried together.
 (2) Where any property is the proceeds of a serious offence, any number of persons who are alleged to have committed, at different times, a money laundering offence in respect of that property, or any part or parts of that property,—
-  (a) May be charged jointly in one indictment in which each is charged in a separate count with the respective offence alleged to have been committed by that person; and
-  (b) May be tried together.
+  (a) may be charged jointly in one indictment in which each is charged in a separate count with the respective offence alleged to have been committed by that person; and
+  (b) may be tried together.
 (3) For the purposes of this section, the terms proceeds, property, and serious offence have the same meanings as they have in section 243 of this Act and in section 12B of the Misuse of Drugs Act 1975, respectively.
 
 **Evidence**
 
 ### 344A Interlocutory order relating to admissibility of evidence
 (1) Where any person is committed for trial and—he may at any time before the trial apply to a Judge of the Court by or before which the indictment is to be tried for an order to the effect that the evidence is admissible.
-  (a) The prosecutor or the accused wishes to adduce any particular evidence at the trial; and
-  (b) He believes that the admissibility of that evidence may be challenged,—
+  (a) the prosecutor or the accused wishes to adduce any particular evidence at the trial; and
+  (b) he believes that the admissibility of that evidence may be challenged,—
 (2) The Judge shall give each party an opportunity to be heard in respect of the application before deciding whether or not to make the order.
 (3) The Judge may make an order under this section on such terms and subject to such conditions as he thinks fit.
 (4) Nothing in this section nor in any order made under this section shall affect the right of the prosecutor or the accused to seek to adduce evidence that he claims is admissible during the trial, nor the discretion of the trial Judge to allow or exclude any evidence in accordance with any rule of law.
@@ -3361,9 +3355,9 @@ Every one who is a party to any crime may be convicted either upon a count charg
 ### 344C Information relating to identification witness to be supplied to defendant
 (1) In this section identification witness, in relation to the trial of a person accused of any offence, means a person who claims to have seen the offender in the circumstances of the offence.
 (2) Subject to subsection (3) of this section, at any time after a person has been charged with an offence, the prosecutor shall, on request by or on behalf of that person, supply to that person—
-  (a) The name and address of each identification witness known to the prosecutor, whether or not the prosecutor intends to call that witness to give evidence at the trial; and
-  (b) A statement of any description of the offender given by each such witness to the Police or the prosecutor; and
-  (c) A copy of any identikit picture or other drawing made by any such witness or from information supplied by him.
+  (a) the name and address of each identification witness known to the prosecutor, whether or not the prosecutor intends to call that witness to give evidence at the trial; and
+  (b) a statement of any description of the offender given by each such witness to the Police or the prosecutor; and
+  (c) a copy of any identikit picture or other drawing made by any such witness or from information supplied by him.
 (3) A Judge may, on the application of the prosecutor, make an order excusing the prosecutor from disclosing to the defendant any information referred to in subsection (2)(a) of this section if he is satisfied that such an order is necessary to protect the identification witness or any other person.
 
 ### 344D Jury to be warned where principal evidence relates to identification
@@ -3385,57 +3379,57 @@ Every one who is a party to any crime may be convicted either upon a count charg
 (2) In reckoning the period referred to in subsection (1) of this section, the period commencing on the 24th day of December and ending with the close of the 15th day of January shall be disregarded.
 (3) If the time for filing an indictment expires on any day on which the office of the Court is closed and it is not possible for the indictment to be filed on that day by reason of that closure, the indictment shall be filed on the next day on which that office is open if it has not already been filed.
 (4) If an indictment is filed, the prosecutor shall forthwith forward a copy of the indictment,—
-  (a) If the accused is known by the prosecutor to be represented by counsel or a solicitor, to that counsel or solicitor; or
-  (b) In any other case, to the accused at his or her last known address.
+  (a) if the accused is known by the prosecutor to be represented by counsel or a solicitor, to that counsel or solicitor; or
+  (b) in any other case, to the accused at his or her last known address.
 (5) The accused is entitled to uplift a copy of the indictment from the Registrar at any time after it has been filed.
 
 ### 345B Extension of time for filing indictment
 (1) If, upon application, it appears to a Trial Judge that it is in the interests of justice to extend the 42-day period referred to in section 345A of this Act for filing an indictment, he or she may order that the time be extended for such further period or periods as he or she thinks fit.
 (2) Without limiting the generality of subsection (1) of this section, in considering an application under this section, the Trial Judge may have regard to the following matters:
-  (a) The number of offences which will or may be counts in the indictment:
-  (b) The nature of the offence or offences which will or may be counts in the indictment:
-  (c) The complexity of the issues likely to arise in the proceedings:
-  (d) Whether the accused is charged jointly with any other person:
-  (e) Whether further or ongoing inquiries are being conducted by or for the prosecution in relation to the subject-matter of the trial.
+  (a) the number of offences which will or may be counts in the indictment:
+  (b) the nature of the offence or offences which will or may be counts in the indictment:
+  (c) the complexity of the issues likely to arise in the proceedings:
+  (d) whether the accused is charged jointly with any other person:
+  (e) whether further or ongoing inquiries are being conducted by or for the prosecution in relation to the subject-matter of the trial.
 (3) An application under this section may be made before or on or after the expiration of the period allowed for filing the indictment, and any period extended under this section may, in like manner, be further extended.
 (4) An application under this section shall, unless a Trial Judge otherwise directs,—
-  (a) Be in writing; and
-  (b) Include a statement of the reasons for seeking an extension; and
-  (c) Specify the period for which the extension is sought; and
-  (d) Give notice of intention (if any) to apply for an order under section 345C(1) of this Act.
+  (a) be in writing; and
+  (b) include a statement of the reasons for seeking an extension; and
+  (c) specify the period for which the extension is sought; and
+  (d) give notice of intention (if any) to apply for an order under section 345C(1) of this Act.
 (5) An application under this section shall, unless a Trial Judge otherwise directs, be served by the prosecutor on the accused at least 4 working days before the date fixed for the hearing of the application,—
-  (a) If the accused was represented by counsel at the preliminary hearing of the charge or charges, or is known by the prosecutor to be represented by counsel or a solicitor, by leaving a copy of the application at the office of the counsel or solicitor or sending a registered letter addressed to the counsel or solicitor at his or her office:
-  (b) In any other case, by delivering a copy of the application personally to the accused or in such other manner as a Trial Judge may direct.
+  (a) if the accused was represented by counsel at the preliminary hearing of the charge or charges, or is known by the prosecutor to be represented by counsel or a solicitor, by leaving a copy of the application at the office of the counsel or solicitor or sending a registered letter addressed to the counsel or solicitor at his or her office:
+  (b) in any other case, by delivering a copy of the application personally to the accused or in such other manner as a Trial Judge may direct.
 (6) Any application under this section may be made to a Trial Judge when sitting in Court or in Chambers, and if the accused is represented by counsel, it is not necessary for the accused to be brought or appear before the Trial Judge on the hearing of the application.
 (7) A Registrar may exercise the power conferred by subsection (1) of this section if—
-  (a) The period of extension sought does not exceed 1 month; and
-  (b) The accused has consented to the extension, whether personally or by his or her counsel or solicitor.
+  (a) the period of extension sought does not exceed 1 month; and
+  (b) the accused has consented to the extension, whether personally or by his or her counsel or solicitor.
 
 ### 345C Trial Judge may excuse disclosure of information relating to Police investigations
 (1) A Trial Judge may, upon application, order that the prosecution be excused from disclosing to the accused any details relating to the nature or the purpose of investigations referred to in the application.
 (2) An order shall not be made under this section in any case unless—
-  (a) An application has been made under section 345B of this Act in relation to the same case; and
-  (b) The reason for that application is that further or continuing investigations in respect of the subject-matter of the trial in that case or any other matter that may affect the trial are being or are to be made by or for the prosecutor; and
-  (c) The disclosure of the information will or may prejudice the investigations referred to in the application under this section; and
-  (d) It is not contrary to the interests of justice to withhold the information.
+  (a) an application has been made under section 345B of this Act in relation to the same case; and
+  (b) the reason for that application is that further or continuing investigations in respect of the subject-matter of the trial in that case or any other matter that may affect the trial are being or are to be made by or for the prosecutor; and
+  (c) the disclosure of the information will or may prejudice the investigations referred to in the application under this section; and
+  (d) it is not contrary to the interests of justice to withhold the information.
 (3) At the hearing of an application under this section, any evidence to be adduced by the prosecutor shall be tendered to the Trial Judge in affidavit form and shall not be disclosed to the accused or to his or her counsel or solicitor unless the Trial Judge otherwise directs after considering the evidence and hearing from the prosecutor.
 (4) If an order is made under subsection (1) of this section, the Registrar shall, at the conclusion of the hearing, hold all evidence adduced by the prosecutor secure against search until the order is discharged by the Court.
 (5) A Trial Judge may, at any time after an order under subsection (1) of this section has been made, either of his or her own motion or upon application by the accused or the prosecutor, discharge the order if the Trial Judge is satisfied, after hearing from the prosecutor, that—
-  (a) The investigations which were the subject of the order have been completed; or
-  (b) Disclosure of the information referred to in the order is necessary in the interests of justice.
+  (a) the investigations which were the subject of the order have been completed; or
+  (b) disclosure of the information referred to in the order is necessary in the interests of justice.
 
 ### 345D Leave to file amended indictments
 (1) A Trial Judge may, at any time before the commencement of the trial, upon application by the prosecutor, grant leave to allow the prosecutor to file an amended indictment if it appears to the Trial Judge that the filing of an amended indictment would be conducive to the ends of justice.
 (2) Without limiting the generality of subsection (1) of this section, leave may be granted under that subsection to allow the filed indictment to be amended by—
-  (a) Amending any particulars; or
-  (b) Removing or adding or substituting charges; or
-  (c) Adding or removing the name of any accused.
+  (a) amending any particulars; or
+  (b) removing or adding or substituting charges; or
+  (c) adding or removing the name of any accused.
 (3) An application under this section shall, unless a Trial Judge otherwise directs,—
-  (a) Be in writing; and
-  (b) Include a statement of the reasons why an amendment to the filed indictment is necessary or be accompanied by a copy of the amended indictment in respect of which leave is sought.
+  (a) be in writing; and
+  (b) include a statement of the reasons why an amendment to the filed indictment is necessary or be accompanied by a copy of the amended indictment in respect of which leave is sought.
 (4) An application under this section shall, unless a Trial Judge otherwise directs, be served by the prosecutor on the accused at least 4 working days before the date fixed for the hearing of the application,—
-  (a) If the accused was represented by counsel at the preliminary hearing of the charge or charges, or is known by the prosecutor to be represented by counsel or a solicitor, by leaving a copy of the application at the office of the counsel or solicitor or sending a registered letter addressed to the counsel or solicitor at his or her office:
-  (b) In any other case, by delivering a copy of the application personally to the accused or in such other manner as a Trial Judge may direct.
+  (a) if the accused was represented by counsel at the preliminary hearing of the charge or charges, or is known by the prosecutor to be represented by counsel or a solicitor, by leaving a copy of the application at the office of the counsel or solicitor or sending a registered letter addressed to the counsel or solicitor at his or her office:
+  (b) in any other case, by delivering a copy of the application personally to the accused or in such other manner as a Trial Judge may direct.
 (5) Any application under this section may be made to a Trial Judge when sitting in Court or in Chambers, and if the accused is represented by counsel, it is not necessary for the accused to be brought or appear before the Trial Judge on the hearing of the application.
 (6) A Registrar may exercise the power conferred by subsection (1) of this section if the accused has consented to the filing of an amended indictment, whether personally or by his or her counsel or solicitor.
 
@@ -3446,9 +3440,9 @@ Every one who is a party to any crime may be convicted either upon a count charg
 
 ### 347 Power to discharge accused
 (1) Where any person is committed for trial, the Judge may, in his discretion,—direct that no indictment shall be filed, or, if an indictment has been filed, direct that the accused shall not be arraigned thereon; and in either case direct that the accused be discharged.
-  (a) Of his own motion or on the application of the prosecutor or the accused; and
-  (b) After giving both the prosecutor and the accused reasonable opportunity to be heard on the matter; and
-  (c) After perusal of the depositions and consideration of such other evidence and other matters as are submitted for his consideration by the prosecutor or the accused—
+  (a) of his own motion or on the application of the prosecutor or the accused; and
+  (b) after giving both the prosecutor and the accused reasonable opportunity to be heard on the matter; and
+  (c) after perusal of the depositions and consideration of such other evidence and other matters as are submitted for his consideration by the prosecutor or the accused—
 (2) Where an indictment is filed by the Attorney-General, or by any one with the consent of the Attorney-General, under subsection (3) of section 345 of this Act, the Judge may in his discretion, after perusal of the statements of the witnesses for the prosecution, or after hearing those witnesses, direct that the accused shall not be arraigned on the indictment, and direct that he be discharged.
 (3) The Judge may in his discretion, at any stage of any trial, whether before or after verdict, direct that the accused be discharged.
 (3A) Every direction under this section shall be given in open Court.
@@ -3479,8 +3473,8 @@ After the indictment is filed, every one charged therein shall be entitled to ha
 ### 353 Record of proceedings
 (1) It shall not in any case be necessary to draw up any formal record of the proceedings on a trial for crime; but the Registrar of the Court before which the trial takes place shall cause to be preserved all indictments and all depositions transmitted to him. He shall keep a book to be called the Crown Book, which shall be the property of the Court and shall be deemed a record thereof, and its contents shall be provable by a certified copy or extract without production of the original.
 (2) The Registrar shall cause to be entered in the Crown Book a statement of the following particulars:
-  (a) The name or names of the committing District Court Judge or Justices or Community Magistrate or Community Magistrates, and the charge on which the accused was committed, or, if the accused was not committed, the name of the prosecutor:
-  (b) If the indictment is filed by leave, the name of the Court or other authority granting such leave:
+  (a) the name or names of the committing District Court Judge or Justices or Community Magistrate or Community Magistrates, and the charge on which the accused was committed, or, if the accused was not committed, the name of the prosecutor:
+  (b) if the indictment is filed by leave, the name of the Court or other authority granting such leave:
   Provided that the absence of such a statement, or any mistake therein, shall not be a ground of objection to the proceedings; but the Court to which the Crown Book belongs may, and shall on the application at any time of either the prosecutor or the accused, order a statement of those particulars to be entered, or amend the statement where it is erroneous or defective.
 (3) In the Crown Book there shall also be entered the name of the Judge of the Court, and a memorandum of the substance of all proceedings at every trial and of the result of every trial.
 (4) Such entries, or a certified copy thereof or of so much thereof as is material, may be referred to in any proceeding by way of appeal.
@@ -3544,9 +3538,9 @@ Every accused person shall, upon being called upon to plead, be entitled to have
 ### 361C Judge may order trial without a jury in certain cases
 (1) Without limiting anything in section 361B of this Act but subject to the succeeding provisions of this section, where any person is committed for trial for any offence other than one referred to in section 361B(5) of this Act, he may, at any time before he is given in charge to the jury, with leave of the Judge apply to the Judge for an order that he be tried before the Judge without a jury.
 (2) The Judge shall not grant leave under subsection (1) of this section unless he is satisfied—
-  (a) That the accused was not given notice, in accordance with section 168C of the Summary Proceedings Act 1957, of his right to apply under section 361B of this Act to be tried before a Judge without a jury; or
-  (b) That there were good and sufficient reasons why the accused did not exercise that right in accordance with the said section 361B; or
-  (c) That it is in the interests of justice that leave be granted.
+  (a) that the accused was not given notice, in accordance with section 168C of the Summary Proceedings Act 1957, of his right to apply under section 361B of this Act to be tried before a Judge without a jury; or
+  (b) that there were good and sufficient reasons why the accused did not exercise that right in accordance with the said section 361B; or
+  (c) that it is in the interests of justice that leave be granted.
 (3) No such leave shall be granted in any case where a Judge has, pursuant to section 361B(4) of this Act, ordered that the accused shall be tried before a Judge with a jury.
 (4) Where 2 or more persons are to be tried together, no leave shall be granted under subsection (1) of this section unless each of them seeks such leave.
 (5) Where the Judge grants leave, he shall order that the accused be tried before the Judge without a jury unless, having regard to the interests of justice, the Judge considers that the accused should be tried before the Judge with a jury, in which case he shall order accordingly.
@@ -3608,18 +3602,18 @@ Where any accused person is not defended by counsel, then, on the completion of 
 ### 367A Notice of alibi
 (1) On the trial of any accused person who has been committed for trial, he shall not without the leave of the Court adduce evidence in support of an alibi unless, before the expiry of 14 days after the date on which he is so committed, he has given notice of particulars of the alibi.
 (2) Without prejudice to subsection (1) of this section, the accused shall not without the leave of the Court call any other person to give evidence in support of an alibi unless—
-  (a) The notice under that subsection includes the name and address of the witness or, if the name or address is not known to the accused when he gives the notice, any information in his possession that might be of material assistance in finding the witness:
-  (b) If the name or the address is not included in the notice, the Court is satisfied that before giving the notice the accused took all reasonable steps to ensure that the name or address would be ascertained, and that after giving the notice he continued to take all such steps:
-  (c) If the name or the address is not included in the notice, but the accused subsequently discovers the name or address or receives other information that might be of material assistance in finding the witness, he forthwith gives notice of the name, address, or other information, as the case may require:
-  (d) If the accused is notified by or on behalf of the prosecutor that the witness has not been traced by the name or at the address given, he forthwith gives notice of any such information which is in his possession or, on subsequently receiving any such information, forthwith gives notice of it.
+  (a) the notice under that subsection includes the name and address of the witness or, if the name or address is not known to the accused when he gives the notice, any information in his possession that might be of material assistance in finding the witness:
+  (b) if the name or the address is not included in the notice, the Court is satisfied that before giving the notice the accused took all reasonable steps to ensure that the name or address would be ascertained, and that after giving the notice he continued to take all such steps:
+  (c) if the name or the address is not included in the notice, but the accused subsequently discovers the name or address or receives other information that might be of material assistance in finding the witness, he forthwith gives notice of the name, address, or other information, as the case may require:
+  (d) if the accused is notified by or on behalf of the prosecutor that the witness has not been traced by the name or at the address given, he forthwith gives notice of any such information which is in his possession or, on subsequently receiving any such information, forthwith gives notice of it.
 (3) The Court shall not refuse leave under this section if it appears to the Court that the accused was not given notice, in accordance with section 168A of the Summary Proceedings Act 1957, of the requirements of this section.
 (4) Any evidence tendered to disprove an alibi may, subject to any directions by the Court as to the time when it is to be given, be given before or after evidence is given in support of the alibi.
 (5) Any notice purporting to be given under this section on behalf of the accused by his counsel or solicitor shall, unless the contrary is proved, be deemed to be given with the authority of the accused.
 (6) A notice under subsection (1) of this section shall either be given in Court during or at the end of the preliminary hearing before the District Court or be given in writing to the prosecutor; and a notice under paragraph (c) or paragraph (d) of subsection (2) of this section shall be given in writing to the prosecutor.
 (7) A notice to the prosecutor under this section shall be given—
-  (a) In the case of a prosecution on behalf of the Crown, by delivering it to a Crown solicitor, or by leaving it at his office, or by sending it by registered letter addressed to him at his office:
-  (b) In the case of a private prosecutor represented by counsel, by delivering it to such counsel, or by leaving it at his office, or by sending it by registered letter addressed to him at his office:
-  (c) In the case of a private prosecutor not represented by counsel, by delivering it to him, or by leaving it for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years, or by sending it by registered letter addressed to him at his last known or usual place of residence or at his place of business.
+  (a) in the case of a prosecution on behalf of the Crown, by delivering it to a Crown solicitor, or by leaving it at his office, or by sending it by registered letter addressed to him at his office:
+  (b) in the case of a private prosecutor represented by counsel, by delivering it to such counsel, or by leaving it at his office, or by sending it by registered letter addressed to him at his office:
+  (c) in the case of a private prosecutor not represented by counsel, by delivering it to him, or by leaving it for him at his place of residence with a member of his family living with him and appearing to be of or over the age of 18 years, or by sending it by registered letter addressed to him at his last known or usual place of residence or at his place of business.
 (8) In this section, the expression evidence in support of an alibi means evidence tending to show that by reason of the presence of the accused at a particular place or in a particular area at a particular time he was not, or was unlikely to have been, at the place where the offence is alleged to have been committed at the time of its alleged commission.
 
 ### 368 Adjourning trial for witnesses
@@ -3672,24 +3666,24 @@ Nothing in this Act affects the powers of a Court or Judge or Registrar to disch
 
 ### 375A Special provisions in cases of sexual nature
 (1) For the purposes of this section, case of a sexual nature means proceedings in which a person is charged with, or is to be sentenced for, any of the following offences:
-  (a) Any offence against any of the provisions of sections 128 to 142A of this Act:
-  (aa) Any offence against section 144A of this Act:
-  (b) Any other offence against the person of a sexual nature:
-  (c) Being a party to the commission of any offence referred to in paragraph (a) or paragraph (aa) or paragraph (b) of this subsection:
-  (d) Conspiring with any person to commit any such offence.
+  (a) any offence against any of the provisions of sections 128 to 142A of this Act:
+  (aa) any offence against section 144A of this Act:
+  (b) any other offence against the person of a sexual nature:
+  (c) being a party to the commission of any offence referred to in paragraph (a) or paragraph (aa) or paragraph (b) of this subsection:
+  (d) conspiring with any person to commit any such offence.
 (2) While the complainant in a case of a sexual nature is giving oral evidence (whether in chief or under cross-examination or on re-examination), no person shall be present in the courtroom except the following:
-  (a) The Judge and jury:
-  (b) The accused and any person who is for the time being acting as custodian of the accused:
-  (c) Any barrister or solicitor engaged in the proceedings:
-  (d) Any officer of the Court:
-  (e) Any person who is for the time being responsible for recording the proceedings:
-  (f) The member of the Police in charge of the case:
-  (g) Any accredited news media reporter:
-  (h) Any person whose presence is requested by the complainant:
-  (i) Any person expressly permitted by the Judge to be present.
+  (a) the Judge and jury:
+  (b) the accused and any person who is for the time being acting as custodian of the accused:
+  (c) any barrister or solicitor engaged in the proceedings:
+  (d) any officer of the Court:
+  (e) any person who is for the time being responsible for recording the proceedings:
+  (f) the member of the Police in charge of the case:
+  (g) any accredited news media reporter:
+  (h) any person whose presence is requested by the complainant:
+  (i) any person expressly permitted by the Judge to be present.
 (3) Before the complainant in a case of a sexual nature commences to give evidence, the Judge shall—
-  (a) Ensure that no person other than one referred to in subsection (2) of this section is present in the courtroom; and
-  (b) Advise the complainant of the complainant's right to request the presence of any person under paragraph (h) of that subsection.
+  (a) ensure that no person other than one referred to in subsection (2) of this section is present in the courtroom; and
+  (b) advise the complainant of the complainant's right to request the presence of any person under paragraph (h) of that subsection.
 (4) Where in a case of a sexual nature the Court is of the opinion that the interests of the complainant so require, it may make an order forbidding publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant or of any acts that the complainant is alleged to have been compelled or induced to perform or to consent to or acquiesce in.
 (5) The breach of any order made under subsection (4) of this section, or any evasion or attempted evasion of it, may be dealt with as contempt of Court.
 (6) Nothing in this section shall limit or affect the powers of the Court to exclude any person or forbid any report or account of any evidence under section 138 of the Criminal Justice Act 1985 or section 401 of this Act or any other enactment.
@@ -3813,34 +3807,34 @@ The Attorney-General may at any time after any person has been committed for tri
 
 ### 379 Interpretation
 In this Part of this Act, unless the context otherwise requires,—
-  - **Appellant** includes a person who has been convicted and desires to appeal under this Part of this Act
+  - **appellant** includes a person who has been convicted and desires to appeal under this Part of this Act
   - **Court of Appeal** means the Court of Appeal of New Zealand constituted under Part 2 of the Judicature Act 1908
   - **Rules of Court** means rules made under section 409 of this Act and section 51C of the Judicature Act 1908
-  - **Sentence** includes any order of the Court made on conviction; and the power of the Court of Appeal to pass a sentence includes a power to make any such order of the Court.
+  - **sentence** includes any order of the Court made on conviction; and the power of the Court of Appeal to pass a sentence includes a power to make any such order of the Court.
 
 **Appeal on matters arising before trial**
 
 ### 379A Right of appeal in certain cases
 (1) At any time before the trial, or as the case may require a later retrial, either the prosecutor or the accused person, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court against any of the following orders (whether made in relation to the trial or a later retrial of charges), namely,—
-  (a) Against a refusal to make an order under subsection (1) of section 322 of this Act:
-  (aa) Against the making of an order under section 344A of this Act, or against the refusal of a Judge to make such an order:
-  (b) Against the making of an order under subsection (3) of section 330 of this Act or under subsection (3) of section 340 of this Act, or against a refusal to make any such order:
-  (ba) Against the making of an order under paragraph (a) or paragraph (b) of section 138(2) of the Criminal Justice Act 1985 or section 140, or the refusal to make any such order:
-  (c) Against the quashing or amendment of the indictment under subsection (2) of section 342 of this Act, or against a refusal to quash or amend the indictment under that subsection:
-  (ca) Against an order under section 345B of this Act extending the period allowed for filing an indictment or refusing to do so:
-  (cb) Against an order under section 345C of this Act excusing the prosecution from the obligation to disclose certain information:
-  (cc) Against an order under section 345D of this Act granting or refusing leave to file an amended indictment:
-  (cd) Against an order under section 346 of this Act discharging or refusing to discharge an accused:
-  (d) Against the making of an order directing separate trials of persons jointly charged, or against a refusal to make such an order:
+  (a) against a refusal to make an order under subsection (1) of section 322 of this Act:
+  (aa) against the making of an order under section 344A of this Act, or against the refusal of a Judge to make such an order:
+  (b) against the making of an order under subsection (3) of section 330 of this Act or under subsection (3) of section 340 of this Act, or against a refusal to make any such order:
+  (ba) against the making of an order under paragraph (a) or paragraph (b) of section 138(2) of the Criminal Justice Act 1985 or section 140, or the refusal to make any such order:
+  (c) against the quashing or amendment of the indictment under subsection (2) of section 342 of this Act, or against a refusal to quash or amend the indictment under that subsection:
+  (ca) against an order under section 345B of this Act extending the period allowed for filing an indictment or refusing to do so:
+  (cb) against an order under section 345C of this Act excusing the prosecution from the obligation to disclose certain information:
+  (cc) against an order under section 345D of this Act granting or refusing leave to file an amended indictment:
+  (cd) against an order under section 346 of this Act discharging or refusing to discharge an accused:
+  (d) against the making of an order directing separate trials of persons jointly charged, or against a refusal to make such an order:
   (da) against the making of an order under section 361D(2) (Judge may order trial without a jury in certain cases that are likely to be long and complex), or against a refusal to make such an order:
   (db) against the making of an order under section 361E(1) (Judge may order trial without a jury in cases involving intimidation of jurors), or against a refusal to make such an order:
-  (e) Against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
-  (f) Against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section.
+  (e) against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
+  (f) against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section.
   (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross examination of a complainant, or against the refusal to make such an order.
   (ga) against the making of an order under section 378A for a person to be retried or against the refusal to make such an order:
 (2) At any time before the trial, the accused person, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court—
-  (a) Against the making of an order under subsection (1) of section 322 of this Act, or against the imposition by a Judge of any condition under subsection (3) of that section:
-  (b) Against a refusal to make an order under the proviso to section 331 of this Act.
+  (a) against the making of an order under subsection (1) of section 322 of this Act, or against the imposition by a Judge of any condition under subsection (3) of that section:
+  (b) against a refusal to make an order under the proviso to section 331 of this Act.
 (3) On an appeal under this section the Court of Appeal or Supreme Court may confirm or vary the decision of the Court or Judge (as the case may be), or set the decision aside and make any other order (being an order that could have been made in the first place) that the Court of Appeal or Supreme Court thinks appropriate.
 (4) Where a person desires to obtain the leave of the Court of Appeal to appeal to that Court under this section, he shall give notice of his application for leave to appeal in such manner as may be directed by rules of Court within 10 days after the decision of the Court or Judge is given, irrespective of whether reasons for the decision are given at a later date and irrespective of whether any formal steps to sign, enter, or otherwise perfect the decision are necessary or are afterwards taken.
 (5) The time within which notice of an application for leave to appeal to the Court of Appeal under this section may be given may be extended at any time by the Court of Appeal.
@@ -3861,10 +3855,10 @@ In this Part of this Act, unless the context otherwise requires,—
 ### 379CA Appeal against order in respect of costs
 (1) Where before, during, or after any trial the Court makes an order for the payment of costs or declines to make an order under the Costs in Criminal Cases Act 1967, any person affected by that decision may appeal against it to the Court of Appeal or, with the leave of the Supreme Court, to the Supreme Court.
 (2) The Court of Appeal or the Supreme Court may—
-  (a) Confirm the decision; or
-  (b) Vary the decision; or
-  (c) Set aside the decision; or
-  (d) Make any other order it considers appropriate.
+  (a) confirm the decision; or
+  (b) vary the decision; or
+  (c) set aside the decision; or
+  (d) make any other order it considers appropriate.
 (3) Subject to subsection (4), where a person seeks leave to appeal to the Court of Appeal under this section, that person's application must be filed as directed by the rules of Court within 10 days after the decision has been made, irrespective of whether the formalities associated with that decision have been completed or whether reasons for it have been given.
 (4) The Court of Appeal may extend the period specified in subsection (3) within which notice of application for leave to appeal to it may be filed.
 
@@ -3906,12 +3900,12 @@ In this Part of this Act, unless the context otherwise requires,—
 ### 382 Powers of Court of Appeal where appeal is on question of law
 (1) The Court of Appeal may, in its discretion, send back any case to the Court by which it was stated to be amended or restated.
 (2) Upon the hearing of any appeal under the foregoing provisions of this Part of this Act, other than section 379A, the Court of Appeal may—
-  (a) Confirm the ruling appealed from; or
-  (b) If of opinion that the ruling was erroneous, and that there has been a mistrial or that the accused has been wrongly discharged or that the prosecution has been wrongly stayed in consequence, direct a new trial; or
-  (c) If it considers the sentence erroneous or the arrest of judgment erroneous, pass such a sentence as ought to have been passed, or set aside any sentence passed by the Court below, and remit the case to the Court below with a direction to pass the proper sentence; or
-  (d) If of opinion, where the accused has been convicted, that the ruling was erroneous, and that the accused ought to have been acquitted, order that the conviction be set aside, which order shall be deemed to be an acquittal; or
-  (e) In any case, whether the appeal is on behalf of the prosecutor or of the accused, direct a new trial; or
-  (f) Make such other order as justice requires:
+  (a) confirm the ruling appealed from; or
+  (b) if of opinion that the ruling was erroneous, and that there has been a mistrial or that the accused has been wrongly discharged or that the prosecution has been wrongly stayed in consequence, direct a new trial; or
+  (c) if it considers the sentence erroneous or the arrest of judgment erroneous, pass such a sentence as ought to have been passed, or set aside any sentence passed by the Court below, and remit the case to the Court below with a direction to pass the proper sentence; or
+  (d) if of opinion, where the accused has been convicted, that the ruling was erroneous, and that the accused ought to have been acquitted, order that the conviction be set aside, which order shall be deemed to be an acquittal; or
+  (e) in any case, whether the appeal is on behalf of the prosecutor or of the accused, direct a new trial; or
+  (f) make such other order as justice requires:
   Provided that no conviction or acquittal shall be set aside, nor any new trial directed, although it appears that some evidence was improperly admitted or rejected, or that something not according to law was done at the trial, or some misdirection given, unless in the opinion of the Court of Appeal some substantial wrong or miscarriage of justice was thereby occasioned on the trial:
   Provided also that if the Court of Appeal is of opinion that any challenge was improperly disallowed a new trial shall be granted.
 (3) If it appears to the Court of Appeal that such wrong or miscarriage of justice affected some count only of the indictment the Court may give separate directions as to each count, and may pass sentence on any count that stands good and unaffected by such wrong or miscarriage of justice, or remit the case to the Court below with a direction to pass such sentence as justice requires.
@@ -3921,9 +3915,9 @@ In this Part of this Act, unless the context otherwise requires,—
 
 ### 383 Right of appeal against conviction or sentence
 (1) Any person convicted on indictment may appeal to the Court of Appeal or, with the leave of the Supreme Court, to the Supreme Court against—
-  (a) The conviction; or
-  (b) The sentence passed on the conviction (unless the sentence is one fixed by law); or
-  (c) Both.
+  (a) the conviction; or
+  (b) the sentence passed on the conviction (unless the sentence is one fixed by law); or
+  (c) both.
 (1A) Any person sentenced under section 28F(4) of the District Courts Act 1947 to a term of imprisonment or to a fine that exceeds the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 of the Summary Proceedings Act 1957 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000 or both), may appeal to the Court of Appeal against that sentence.
 (2) The Solicitor-General, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court against the sentence passed on the conviction of any person on indictment, unless the sentence is one fixed by law.
 (2A) The Solicitor-General, with the leave of the Court of Appeal, may appeal to the Court of Appeal against a sentence imposed under section 28F(4) of the District Courts Act 1947 if the sentence appealed against is a term of imprisonment or a fine that exceeds the maximum term of imprisonment or the maximum fine that may be imposed by a District Court under section 7 of the Summary Proceedings Act 1957 (which is a term of imprisonment not exceeding 5 years or a fine not exceeding $10,000 or both).
@@ -3963,10 +3957,10 @@ In this Part of this Act, unless the context otherwise requires,—
   (a) an appeal to the Supreme Court or the Court of Appeal against conviction:
   (b) an appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 383 against conviction.
 (1) On any appeal to which subsection (1AA) applies, the Court of Appeal or the Supreme Court must allow the appeal if it is of opinion—and in any other case shall dismiss the appeal:
-  (a) That the verdict of the jury should be set aside on the ground that it is unreasonable or cannot be supported having regard to the evidence; or
-  (b) That the judgment of the Court before which the appellant was convicted should be set aside on the ground of a wrong decision on any question of law; or
-  (c) That on any ground there was a miscarriage of justice; or
-  (d) That the trial was a nullity—
+  (a) that the verdict of the jury should be set aside on the ground that it is unreasonable or cannot be supported having regard to the evidence; or
+  (b) that the judgment of the Court before which the appellant was convicted should be set aside on the ground of a wrong decision on any question of law; or
+  (c) that on any ground there was a miscarriage of justice; or
+  (d) that the trial was a nullity—
   Provided that the Court of Appeal or the Supreme Court may, notwithstanding that it is of opinion that the point raised in the appeal might be decided in favour of the appellant, dismiss the appeal if it considers that no substantial miscarriage of justice has actually occurred.
 (2) Subject to the special provisions of this Part of this Act, the Court of Appeal or the Supreme Court must, if it allows an appeal to which subsection (1AA) applies, quash the conviction and in its discretion direct a judgment and verdict of acquittal to be entered, or direct a new trial, or make such other order as justice requires.
 (2A) This subsection applies to—
@@ -3997,11 +3991,11 @@ In this Part of this Act, unless the context otherwise requires,—
 
 ### 389 Supplemental powers of appellate courts
 For the purposes of any appeal or application for leave to appeal against conviction or sentence the Court of Appeal or the Supreme Court may, if it thinks it necessary or expedient in the interests of justice,—and exercise in relation to the proceedings of the Court any other powers which may for the time being be exercised by the Court of Appeal or the Supreme Court on appeals in civil matters, and issue any warrants necessary for enforcing the orders or sentences of the Court:
-  (a) Order the production of any document, exhibit, or other thing connected with the proceedings the production of which appears to the Court to be necessary for the determination of the case:
-  (b) If it thinks fit, order any witnesses who would have been compellable witnesses at the trial to attend and be examined before the Court, whether they were or were not called at the trial, or order the examination of any such witnesses to be conducted in manner provided by rules of Court before any Judge of the Court or before any officer of the Court or District Court Judge or other person appointed by the Court of Appeal or the Supreme Court for the purpose, and allow the admission of any depositions so taken as evidence before the Court:
-  (c) If it thinks fit, receive the evidence, if tendered, of any witness (including the appellant) who is a competent but not compellable witness, and, if the appellant makes an application for the purpose, of the husband or wife of the appellant, in cases where the evidence of the husband or wife could not have been given at the trial except on such application:
-  (d) Where any question arising on the appeal involves prolonged examination of documents or accounts, or any scientific or local investigation, which cannot in the opinion of the Court conveniently be conducted before the Court, order the reference of the question in manner provided by rules of Court for inquiry and report to a special commissioner appointed by the Court, and act upon the report of any such commissioner so far as the Court thinks fit to adopt it:
-  (e) Appoint any person with special expert knowledge to act as assessor to the Court in any case where it appears to the Court that such special knowledge is required for the proper determination of the case—
+  (a) order the production of any document, exhibit, or other thing connected with the proceedings the production of which appears to the Court to be necessary for the determination of the case:
+  (b) if it thinks fit, order any witnesses who would have been compellable witnesses at the trial to attend and be examined before the Court, whether they were or were not called at the trial, or order the examination of any such witnesses to be conducted in manner provided by rules of Court before any Judge of the Court or before any officer of the Court or District Court Judge or other person appointed by the Court of Appeal or the Supreme Court for the purpose, and allow the admission of any depositions so taken as evidence before the Court:
+  (c) if it thinks fit, receive the evidence, if tendered, of any witness (including the appellant) who is a competent but not compellable witness, and, if the appellant makes an application for the purpose, of the husband or wife of the appellant, in cases where the evidence of the husband or wife could not have been given at the trial except on such application:
+  (d) where any question arising on the appeal involves prolonged examination of documents or accounts, or any scientific or local investigation, which cannot in the opinion of the Court conveniently be conducted before the Court, order the reference of the question in manner provided by rules of Court for inquiry and report to a special commissioner appointed by the Court, and act upon the report of any such commissioner so far as the Court thinks fit to adopt it:
+  (e) appoint any person with special expert knowledge to act as assessor to the Court in any case where it appears to the Court that such special knowledge is required for the proper determination of the case—
   Provided that in no case shall any sentence be increased by reason of or in consideration of any evidence that was not given at the trial.
 
 ### 390 Duty of Solicitor-General
@@ -4103,9 +4097,9 @@ For the purposes of any appeal or application for leave to appeal against convic
 (2)
 (3) Where on any conviction to which any appeal relates the Court has sentenced the accused to supervision, intensive supervision, community detention, or home detention, the term of the sentence shall cease to run on the day on which notice of appeal or of application for leave to appeal is given.
 (4) If in any case to which subsection (3) of this section applies—the term of the sentence as specified by the High Court or as varied by the Court of Appeal or the Supreme Court, as the case may be, shall be resumed from the date of such dismissal, refusal, or determination.
-  (a) The appeal is dismissed or is deemed pursuant to rules of Court to be dismissed; or
-  (b) Leave to appeal is refused; or
-  (c) When the appeal is determined neither the sentence nor the conviction on which it was made is set aside—
+  (a) the appeal is dismissed or is deemed pursuant to rules of Court to be dismissed; or
+  (b) leave to appeal is refused; or
+  (c) when the appeal is determined neither the sentence nor the conviction on which it was made is set aside—
 (4A) If on any conviction to which any appeal relates the Court has sentenced the accused to community work, the period during which the community work is to be done ceases to run on the day on which notice of appeal or application for leave to appeal is given.
 (4B) In any case to which subsection (4A) applies,—
   (a) if the appeal is dismissed or is deemed under or in accordance with rules of Court to be dismissed, the period during which the work is to be performed resumes running from the date of the dismissal; or
@@ -4117,9 +4111,9 @@ For the purposes of any appeal or application for leave to appeal against convic
 (4F)
 (4G) Where on any conviction to which any appeal relates the Court has made a non-association order in respect of the accused, the period of non-association shall cease to run on the day on which notice of appeal or of application for leave to appeal is given.
 (4H) If in any case to which subsection (4G) of this section applies—the period of non-association as specified by the High Court or as varied by the Court of Appeal or the Supreme Court, as the case may be, shall resume from the date of such dismissal, refusal, or determination.
-  (a) The appeal is dismissed or is deemed pursuant to rules of Court to be dismissed; or
-  (b) Leave to appeal is refused; or
-  (c) When the appeal is determined neither the non-association order nor the conviction on which it was passed is set aside—
+  (a) the appeal is dismissed or is deemed pursuant to rules of Court to be dismissed; or
+  (b) leave to appeal is refused; or
+  (c) when the appeal is determined neither the non-association order nor the conviction on which it was passed is set aside—
 (5) Where any person is fined for contempt of Court and has a right of appeal under section 384 of this Act, nothing in section 20 of the Crown Proceedings Act 1950 shall apply until the time specified in this Act for giving notice of appeal or of an application for leave to appeal has expired, or, if any such notice is given, until the appeal has been determined or otherwise disposed of. If on the determination of the appeal the decision appealed against is not set aside and the amount of the fine imposed by the High Court is varied by the Court of Appeal or the Supreme Court, the amount for which final judgment may be signed under the said section 20 shall be varied accordingly.
 (6)
 (7)
@@ -4128,16 +4122,16 @@ For the purposes of any appeal or application for leave to appeal against convic
 
 ### 400 Consent of Attorney-General to proceedings in certain cases for offences on ships or aircraft
 (1) No information shall, by virtue only of the provisions of this Act, be laid against any person who— except with the consent of the Attorney-General and on his certificate that it is expedient that the proceedings should be instituted; and where the proceedings would be instituted only by virtue of the jurisdiction conferred by paragraph (c) of subsection (1) of section 8 of this Act the Attorney-General shall not give his consent unless he is satisfied that the Government of the country to which the ship or aircraft belongs has consented to the institution of the proceedings:
-  (a) Whether or not he is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed beyond New Zealand an offence on board or by means of any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft, or an offence to which subsection (3) of section 8 of this Act applies; or
-  (b) Whether or not he is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed, anywhere within New Zealand or in the space above New Zealand, an offence on board or by means of any ship or aircraft which belongs to the Government of any country other than New Zealand or is held by any person on behalf or for the benefit of that Government, whether or not the ship or aircraft is for the time being used as a ship or aircraft of any of the armed forces of that country—
+  (a) whether or not he is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed beyond New Zealand an offence on board or by means of any ship or aircraft which is not a New Zealand ship or a New Zealand aircraft, or an offence to which subsection (3) of section 8 of this Act applies; or
+  (b) whether or not he is a New Zealand citizen or a person ordinarily resident in New Zealand, is alleged to have committed, anywhere within New Zealand or in the space above New Zealand, an offence on board or by means of any ship or aircraft which belongs to the Government of any country other than New Zealand or is held by any person on behalf or for the benefit of that Government, whether or not the ship or aircraft is for the time being used as a ship or aircraft of any of the armed forces of that country—
   Provided that a person alleged to have committed any such offence may be arrested, or a warrant for his arrest may be issued and executed, and he may be remanded in custody or on bail, notwithstanding that the consent of the Attorney-General to the laying of an information for the offence has not been obtained; but no further or other proceedings shall be taken until that consent has been obtained.
 (2) Nothing in this section shall apply with respect to any offence against the Maritime Transport Act 1994 or Part 5A of the Civil Aviation Act 1990.
 
 ### 401 Contempt of Court
 (1) If any person—any constable or officer of the Court, with or without the assistance of any other person, may, by order of the Judge, take the offender into custody and detain him until the rising of the Court.
-  (a) Assaults, threatens, intimidates, or wilfully insults a Judge, or any Registrar, or any officer of the Court, or any juror, or any witness, during his sitting or attendance in Court, or in going to or returning from the Court; or
-  (b) Wilfully interrupts or obstructs the proceedings of the Court or otherwise misbehaves in Court; or
-  (c) Wilfully and without lawful excuse disobeys any order or direction of the Court in the course of the hearing of any proceedings—
+  (a) assaults, threatens, intimidates, or wilfully insults a Judge, or any Registrar, or any officer of the Court, or any juror, or any witness, during his sitting or attendance in Court, or in going to or returning from the Court; or
+  (b) wilfully interrupts or obstructs the proceedings of the Court or otherwise misbehaves in Court; or
+  (c) wilfully and without lawful excuse disobeys any order or direction of the Court in the course of the hearing of any proceedings—
 (2) In any such case as aforesaid, the Judge, if he thinks fit, may sentence the offender to imprisonment for any period not exceeding 3 months, or sentence him to pay a fine not exceeding $1,000 for every such offence; and in default of payment of any such fine may direct that the offender be imprisoned for any period not exceeding 3 months, unless the fine is sooner paid.
 (3) Nothing in this section shall limit or affect any power or authority of the Court to punish any person for contempt of Court in any case to which this section does not apply.
 
@@ -4163,8 +4157,8 @@ No civil remedy for any act or omission shall be suspended by reason that such a
 
 ### 406 Prerogative of mercy
 Nothing in this Act shall affect the prerogative of mercy, but the Governor-General in Council, on the consideration of any application for the exercise of the mercy of the Crown having reference to the conviction of any person by any Court or to the sentence (other than a sentence fixed by law) passed on any person, may at any time if he thinks fit, whether or not that person has appealed or had the right to appeal against the conviction or sentence, either—
-  (a) Refer the question of the conviction or sentence to the Court of Appeal or, where the person was convicted or sentenced by a District Court acting in its summary jurisdiction or under section 28F(4) of the District Courts Act 1947, to the High Court, and the question so referred shall then be heard and determined by the Court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
-  (b) If he desires the assistance of the Court of Appeal on any point arising in the case with a view to the determination of the application, refer that point to the Court of Appeal for its opinion thereon, and the Court shall consider the point so referred and furnish the Governor-General with its opinion thereon accordingly.
+  (a) refer the question of the conviction or sentence to the Court of Appeal or, where the person was convicted or sentenced by a District Court acting in its summary jurisdiction or under section 28F(4) of the District Courts Act 1947, to the High Court, and the question so referred shall then be heard and determined by the Court to which it is referred as in the case of an appeal by that person against conviction or sentence or both, as the case may require; or
+  (b) if he desires the assistance of the Court of Appeal on any point arising in the case with a view to the determination of the application, refer that point to the Court of Appeal for its opinion thereon, and the Court shall consider the point so referred and furnish the Governor-General with its opinion thereon accordingly.
 
 ### 406A Appeals against decisions made on references
 (1) With the leave of the court appealed to, a party to proceedings in which the High Court heard and determined a question referred to it under section 406(a) may appeal to the Court of Appeal or the Supreme Court against the High Court's determination of the question.
@@ -4187,18 +4181,18 @@ This Act shall bind the Crown.
 ### 410 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make all such regulations as may in his opinion be necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Without limiting the general power to make regulations conferred by this section, regulations may be made under this section—
-  (a) Prescribing forms to be used in respect of any proceedings to which this Act applies:
-  (b) Prescribing fees to be paid in respect of any proceedings to which this Act applies:
-  (c) Prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
-  (d) Prescribing the costs and charges payable by parties in proceedings to which this Act applies:
-  (e) Providing for any other matters in respect of which regulations are contemplated under this Act.
+  (a) prescribing forms to be used in respect of any proceedings to which this Act applies:
+  (b) prescribing fees to be paid in respect of any proceedings to which this Act applies:
+  (c) prescribing the fees, travelling allowances, and expenses payable to interpreters and to persons giving evidence in proceedings to which this Act applies:
+  (d) prescribing the costs and charges payable by parties in proceedings to which this Act applies:
+  (e) providing for any other matters in respect of which regulations are contemplated under this Act.
 (3)
 
 ### 411 Consequential amendments
 (1) The enactments specified in Schedule 3 to this Act are hereby amended in the manner indicated in that Schedule.
 (2) Every reference in any other enactment—shall, unless the context otherwise requires, be read as a reference to a crime involving dishonesty within the meaning of section 2 of this Act, and, in the case of a reference to a conviction as aforesaid, to a conviction of any such crime, whether on indictment or on summary prosecution.
-  (a) To a crime involving dishonesty, or an offence involving dishonesty, within the meaning of Part 9 of the Crimes Act 1908, or within the meaning of section 237 of that Act; or
-  (b) To a conviction of any such crime or offence as aforesaid—
+  (a) to a crime involving dishonesty, or an offence involving dishonesty, within the meaning of Part 9 of the Crimes Act 1908, or within the meaning of section 237 of that Act; or
+  (b) to a conviction of any such crime or offence as aforesaid—
 (3) Every reference in any enactment to a bill of indictment, or to the preferring or filing of a bill of indictment before the grand jury, or to the filing or finding of an indictment by the grand jury, or to an indictment found, or any other similar expression, shall be read as a reference to an indictment or, as the case may require, to the filing of an indictment in the High Court or in a District Court (as the case may require), or to an indictment filed.
 
 ### 412 Repeals and savings
@@ -4232,16 +4226,16 @@ If sections 413 and 414 are inconsistent with any other enactment or rule of law
 
 | Title of Act | Amendment |
 | --- | --- |
+| 1954, No 50—The Criminal Justice Act 1954 (1957 Reprint, Vol 3, p 455) | The amendment specified has been incorporated in the reprinted Criminal Justice Act 1954 (1979, RS Vol 1). |
 | 1908, No 90—The Juries Act 1908 (1957 Reprint, Vol 6, p 745). | The amendments specified have been incorporated in the reprinted Juries Act 1908 (1979, RS Vol 3). |
+| 1955, No 101—The Law Practitioners Act 1955 (1957 Reprint, Vol 7, p 768) | The amendment specified has been incorporated in the reprinted Law Practitioners Act 1955 (1968, Vol 2, p 1646). |
 | 1908, No 127—The Naval and Victualling Stores Act 1908 (1957 Reprint, Vol 10, p 892) | By omitting from section 4 the words and with or without solitary confinement. |
+| 1958, No 42—The New Zealand Society of Accountants Act 1958 | By omitting from paragraph (a) of subsection (1) of section 24 the words section two hundred and thirty-seven of the Crimes Act 1908, and substituting the words section 2 of the Crimes Act 1961. |
+| 1953, No 64—The Patents Act 1953 (1957 Reprint, Vol 11, p 596) | By omitting from paragraph (a) of subsection (1) of section 102 the words as defined by section two hundred and thirty-seven of the Crimes Act 1908, and substituting the words within the meaning of section 2 of the Crimes Act 1961. |
+| 1958, No 109—The Police Act 1958 | The amendment specified has been incorporated in the reprinted Police Act 1958 (1979, RS Vol 4). |
 | 1952, No 43—The Police Offences Amendment Act (No 2) 1952 (1957 Reprint, Vol 12, p 52) | The amendment specified has been incorporated in the reprinted Police Offences Act 1927 (1973,Vol 2, p 1627). |
 | 1952, No 49—The Shipping and Seamen Act 1952 (1957 Reprint, Vol 14, p 313) | The amendment specified has been incorporated in the reprinted Shipping and Seamen Act 1952 (1979, RS Vol 4). |
-| 1953, No 64—The Patents Act 1953 (1957 Reprint, Vol 11, p 596) | By omitting from paragraph (a) of subsection (1) of section 102 the words as defined by section two hundred and thirty-seven of the Crimes Act 1908, and substituting the words within the meaning of section 2 of the Crimes Act 1961. |
-| 1954, No 50—The Criminal Justice Act 1954 (1957 Reprint, Vol 3, p 455) | The amendment specified has been incorporated in the reprinted Criminal Justice Act 1954 (1979, RS Vol 1). |
-| 1955, No 101—The Law Practitioners Act 1955 (1957 Reprint, Vol 7, p 768) | The amendment specified has been incorporated in the reprinted Law Practitioners Act 1955 (1968, Vol 2, p 1646). |
 | 1957, No 87—The Summary Proceedings Act 1957 (1957 Reprint, Vol 15, pp 375, 376) | The amendments specified have been incorporated in the reprinted Summary Proceedings Act 1957 (1975, Vol 4). |
-| 1958, No 42—The New Zealand Society of Accountants Act 1958 | By omitting from paragraph (a) of subsection (1) of section 24 the words section two hundred and thirty-seven of the Crimes Act 1908, and substituting the words section 2 of the Crimes Act 1961. |
-| 1958, No 109—The Police Act 1958 | The amendment specified has been incorporated in the reprinted Police Act 1958 (1979, RS Vol 4). |
 
 ## Schedule 4 — United Kingdom enactments ceasing to have effect in New Zealand
 
