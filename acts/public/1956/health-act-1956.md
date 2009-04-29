@@ -1,5 +1,5 @@
 # Health Act 1956
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-04-29_
 
 > An Act to consolidate and amend the law relating to public health
 
