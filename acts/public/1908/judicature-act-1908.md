@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2009-02-01_
+_Consolidation as at 2009-05-15_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -2668,7 +2668,7 @@ If no statement of defence has been filed in the District Court, a statement of 
   (a) personal service:
   (b) service at an address for service given in accordance with these rules:
   (c) service at an address directed by the court as the address for service for the party or person:
-  (d) if the solicitor for the party or person has, under rule 5.16, specified a post office box address, document exchange box number, fax number, or email address,—
+  (d) if the solicitor for the party or person has, under rule 5.44(1)(e), specified a post office box address, document exchange box number, fax number, or email address,—
     (i) by posting the document to that post office box address; or
     (ii) by leaving the document at a document exchange for direction to that document exchange box number; or
     (iii) by transmitting the document electronically to that fax number or email address.
@@ -4794,7 +4794,7 @@ Rules 12.2 to 12.16 apply to all proceedings except—
   (c) an application for administration in common form under Part 27.
 
 ### 12.2 Judgment when there is no defence or when no cause of action can succeed
-(1) The court may give judgment against a defendant if the plaintiff satisfies the court that the defendant has no defence to any cause of action in the statement of claim or to a particular cause of action.
+(1) The court may give judgment against a defendant if the plaintiff satisfies the court that the defendant has no defence to a cause of action in the statement of claim or to a particular part of any such cause of action.
 (2) The court may give judgment against a plaintiff if the defendant satisfies the court that none of the causes of action in the plaintiff’s statement of claim can succeed.
 
 ### 12.3 Summary judgment on liability
@@ -6603,16 +6603,17 @@ For the purposes of rules 20.3 and 20.4, a period begins when the decision to wh
 Despite rule 20.6(1)(c), the court may dispense with service on a party of a notice of appeal on any terms the court thinks just.
 
 ### 20.8 Filing notice of appeal
-(1) A notice of appeal must be filed in—
-  (a) the registry of the court nearest to the place where the decision appealed against was given; or
-  (b) any other registry of the court in which the parties agree that the notice of appeal may be filed.
-(2) If subclause (1)(b) applies, the parties must endorse on, or file with, the notice of appeal a memorandum recording their agreement to the filing of the notice of appeal in the registry of the court in which it is filed.
-(3) The court may direct as follows, in the circumstances set out in subclause (4):
+(1) Subject to any contrary enactment, a notice of appeal must be filed in—
+  (a) the registry of the court nearest to the place where the hearing took place of the matter under appeal; or
+  (b) if no hearing took place, in the registry of the court nearest to the place where the decision appealed against was given; or
+  (c) any other registry of the court in which the parties agree that the notice of appeal may be filed.
+(2) If subclause (1)(c) applies, the parties must endorse on, or file with, the notice of appeal a memorandum recording their agreement to the filing of the notice of appeal in the registry of the court in which it is filed.
+(3) The court may on application or on its own initiative in the circumstances set out in subclause (4) direct as follows:
   (a) the notice of appeal must be filed in another registry of the court; or
   (b) the documents relating to the appeal must be transferred to another registry of the court.
-(4) The circumstances are that, on application,—
-  (a) it appears to the court that a notice of appeal has been filed in the wrong registry of the court; or
-  (b) another registry of the court would be more convenient to the parties.
+(4) The circumstances are that it appears to the court that—
+  (a) a notice of appeal has been filed in the wrong registry of the court; or
+  (b) another registry of the court would be more appropriate.
 (5) Filing a notice of appeal in the wrong registry of the court does not invalidate an appeal.
 
 ### 20.9 Contents of notice of appeal
