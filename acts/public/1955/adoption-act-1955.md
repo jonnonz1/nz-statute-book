@@ -1,5 +1,5 @@
 # Adoption Act 1955
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-05-18_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to the adoption of children
 
@@ -262,8 +262,30 @@ An adoption order may be made under this Act on the application of any person, w
 ### 21 Court to which application for adoption order shall be made
 [Repealed]
 
-### 22 Applications not to be heard in open Court
-No application under this Act shall be heard or determined in open Court, and no report of proceedings under this Act shall be published except by leave of the Court which heard the proceedings.
+### 22 Attendance at hearings
+(1) The following persons may attend a hearing of an application under this Act:
+  (a) officers of the Court:
+  (b) parties to the proceedings:
+  (c) lawyers representing parties to the proceedings:
+  (d) a social worker who furnished a report under section 10:
+  (e) accredited news media reporters:
+  (f) persons whom the Judge permits to be present as support persons for a party on the request of that party:
+  (g) any other persons whom the Judge permits to be present.
+(2) No other person may attend a hearing of an application under this Act.
+(3) The Judge must agree to a request under subsection (1)(f) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(4) No support persons may help an applicant conduct his or her case.
+(5) If, during a hearing, the Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
+  (a) an accredited news media reporter:
+  (b) a support person whom the Judge permitted to be present under subsection (1)(f).
+(6) Nothing in this section limits any other power of the Court—
+  (a) to hear proceedings in private; or
+  (b) to permit a McKenzie friend to be present; or
+  (c) to exclude any person from the Court.
+
+### 22A Publication of reports of proceedings
+Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in a Family Court:
+  (b) in any other court, in which case references in those sections to the Family Court or Court must be read as references to that other court.
 
 ### 23 Inspection of adoption records
 (1) An adoption order shall be open to inspection by any person who requires to inspect it for some purpose in connection with the administration of an estate or trust of which that person is executor, administrator, or trustee.
