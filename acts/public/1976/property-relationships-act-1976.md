@@ -1,9 +1,11 @@
 # Property (Relationships) Act 1976
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-05-18_
+
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Property (Relationships) Act 1976.
-(2) This Act shall come into force on the 1st day of February 1977.
+(2) This Act shall come into force on 1 February 1977.
 
 ## Part 1 — Outline of this Act
 
@@ -17,7 +19,7 @@ This Part is intended—
 This Part is intended only as a guide to the general scheme and effect of this Act.
 
 ### 1C What this Act is about
-(1) This Act is mainly about how the property of married couples and civil union couples and couples who have lived in a de facto relationship is to be divided up when they separate or 1 of them dies.
+(1) This Act is mainly about how the property of married couples and civil union couples and couples who have lived in a de facto relationship is to be divided up when they separate or one of them dies.
 (2) This Act applies differently depending on the length of the marriage between the husband and wife or the civil union between the civil union partners or the de facto relationship between the de facto partners:
   (a) in the case of marriages and civil unions, special rules apply to marriages and civil unions of less than 3 years:
   (b) in the case of de facto relationships, this Act usually applies only when the de facto partners have lived together for at least 3 years, but it may apply to shorter de facto relationships in certain circumstances.
@@ -32,7 +34,7 @@ This Part is intended only as a guide to the general scheme and effect of this A
   (e) Part 5—relationship property and creditors:
   (f) Part 6—contracting out:
   (g) Part 7—proceedings under this Act:
-  (h) Part 8—division of property where 1 spouse or partner dies:
+  (h) Part 8—division of property where one spouse or partner dies:
   (i) Part 9—transitional provisions and savings.
 (2) Sections 1E to 1L summarise what each Part (other than this Part) contains.
 
@@ -45,43 +47,43 @@ Part 2 contains provisions dealing with interpretation and with the application 
 ### 1F Part 3 (application of this Act)
 (1) Part 3 identifies—
   (a) which provisions of this Act apply with respect to the division of relationship property while both spouses or partners are alive; and
-  (b) which provisions of this Act apply with respect to the division of relationship property when 1 spouse or partner dies.
+  (b) which provisions of this Act apply with respect to the division of relationship property when one spouse or partner dies.
 (2) Part 3 also—
-  (a) sets out how this Act applies in various other circumstances (such as when 1 of the spouses or partners is declared bankrupt):
-  (b) sets out what happens if proceedings are commenced while both spouses or partners are alive, and 1 or both of them die before the proceedings are completed.
+  (a) sets out how this Act applies in various other circumstances (such as when one of the spouses or partners is declared bankrupt):
+  (b) sets out what happens if proceedings are commenced while both spouses or partners are alive, and one or both of them die before the proceedings are completed.
 
 ### 1G Part 4 (division of relationship property)
 Part 4 sets out how the property of a husband and wife or civil union partners or de facto partners is to be divided when they separate and cannot agree on the matter. It deals with matters like—
   (a) on what basis is the relationship property to be divided?
   (b) what happens if the spouses or partners have been living together for less than 3 years?
-  (c) can the Court do anything to redress any disparities between the income and living standards of the spouses or partners after the marriage, civil union, or de facto relationship ends?
+  (c) can the court do anything to redress any disparities between the income and living standards of the spouses or partners after the marriage, civil union, or de facto relationship ends?
   (d) how are the different contributions of the spouses to the marriage, or of the partners to the civil union, or of the de facto partners to the de facto relationship, assessed?
 
 ### 1H Part 5 (relationship property and creditors)
 Part 5 sets out how this Act affects the secured and unsecured creditors of the spouses or partners. It deals with matters like—
   (a) what rights do secured and unsecured creditors have against the spouses or partners, and against property owned by the spouses or partners?
-  (b) to what extent is the share of 1 spouse or partner reduced by the fact that the other spouse or partner has unsecured personal debts?
+  (b) to what extent is the share of one spouse or partner reduced by the fact that the other spouse or partner has unsecured personal debts?
 
 ### 1I Part 6 (contracting out)
 Part 6 deals with the rights of spouses or partners to decide themselves how their property is to be divided. It deals with matters like—
   (a) does a property agreement between the spouses or partners have to be in writing?
   (b) do the spouses or partners need legal advice about entering into a property agreement?
-  (c) can a Court overrule a property agreement?
+  (c) can a court overrule a property agreement?
 
 ### 1J Part 7 (proceedings under this Act)
 (1) Part 7—
-  (a) deals with the various powers that a Court can exercise in deciding how property is to be divided between spouses or partners; and
-  (b) sets out the procedures that apply to Court proceedings under this Act; and
+  (a) deals with the various powers that a court can exercise in deciding how property is to be divided between spouses or partners; and
+  (b) sets out the procedures that apply to court proceedings under this Act; and
   (c) deals with some general issues.
 (2) Part 7 deals with matters like—
-  (a) what Court do applications have to be made to?
-  (b) who can apply for a Court order dividing a couple's property?
-  (c) is there any time limit on applying for a Court order?
-  (d) can a Court order be obtained stopping a person from disposing of property?
+  (a) what court do applications have to be made to?
+  (b) who can apply for a court order dividing a couple's property?
+  (c) is there any time limit on applying for a court order?
+  (d) can a court order be obtained stopping a person from disposing of property?
   (e) what happens if the spouses or partners attempt to defeat their creditors by disposing of property?
 
-### 1K Part 8 (division of property where 1 spouse or partner dies)
-Part 8 sets out how the property of a husband and wife, civil union partners, or de facto partners is to be divided when 1 of them dies. It deals with matters like—
+### 1K Part 8 (division of property where one spouse or partner dies)
+Part 8 sets out how the property of a husband and wife, civil union partners, or de facto partners is to be divided when one of them dies. It deals with matters like—
   (a) what if the deceased spouse or partner has left a will?
   (b) can the estate of the deceased spouse or partner make a claim against the spouse or partner who is still alive?
   (c) what is the effect on rights under other legislation that relates to claims to a deceased person's property (such as the Law Reform (Testamentary Promises) Act 1949 and the Family Protection Act 1955)?
@@ -120,26 +122,26 @@ In this Act, unless the context otherwise requires,—
     (b) includes any other child (whether or not a child of either civil union partner) who was a member of the family of the civil union partners—
       (i) at the time when they ceased to live together; or
       (ii) at the time immediately before an application under this Act, if at that time they had not ceased to live together; or
-    (iii) at the date of the death of 1 of the civil union partners
+      (iii) at the date of the death of one of the civil union partners
   - **child of the de facto relationship** —
     (a) means any child of both de facto partners; and
     (b) includes any other child (whether or not a child of either de facto partner) who was a member of the family of the de facto partners—
       (i) at the time when they ceased to live together; or
       (ii) at the time immediately before an application under this Act, if at that time they had not ceased to live together; or
-      (iii) at the date of the death of 1 of the de facto partners
+      (iii) at the date of the death of one of the de facto partners
   - **child of the marriage** —
     (a) means any child of both spouses; and
     (b) includes any other child (whether or not a child of either spouse) who was a member of the family of the spouses—
       (i) at the time when they ceased to live together; or
       (ii) at the time immediately before an application under this Act, if at that time they had not ceased to live together; or
-      (iii) at the date of the death of 1 of the spouses; and
+      (iii) at the date of the death of one of the spouses; and
     (c) if the marriage was immediately preceded by a de facto relationship or civil union between the spouses, includes any child of the de facto relationship or civil union
   - **Commonwealth country** —
     (a) means a country that is an independent sovereign member of the Commonwealth; and
     (b) includes every territory for whose international relations the Government of such a country is responsible; and
     (c) also includes the Republic of Ireland as if it were an independent sovereign member of the Commonwealth
   - **contribution** has the meaning given to it by section 18
-  - **Court** means—
+  - **court** means—
     (a) a Family Court; or
     (b) if another court has jurisdiction in the proceedings, that court
   - **de facto partner** has the meaning given to it by section 2C; and includes a former de facto partner
@@ -168,16 +170,16 @@ In this Act, unless the context otherwise requires,—
     (b) does not include a family home that is occupied—
       (i) pursuant to a licence to occupy within the meaning of section 121A of the Land Transfer Act 1952; or
       (ii) because of the ownership of a specified share of any estate or interest in the land on which the dwellinghouse that comprises the family residence is situated and by reason of reciprocal agreements with the owners of the other shares; or
-      (iii) in the case of a flat or town house that is part of a block of flats or town houses or is 1 of a number of flats or town houses situated on the same piece of land, under a lease or other arrangement that entitles the occupants of the flat or town house to exclusive possession of it
+      (iii) in the case of a flat or town house that is part of a block of flats or town houses or is one of a number of flats or town houses situated on the same piece of land, under a lease or other arrangement that entitles the occupants of the flat or town house to exclusive possession of it
   - **joint family home** means land settled as a joint family home under the Joint Family Homes Act 1964
-  - **lawyer,—**
+  - **lawyer** ,—
     (a) other than in Part 6 and section 65, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006):
     (b) in Part 6 and section 65,—
       (i) in the case of a document signed in New Zealand, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006):
       (ii) in the case of a document signed in a Commonwealth country outside New Zealand, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006), or a solicitor entitled to practise in that country, or a notary public:
       (iii) in the case of a document signed in a country that is not a Commonwealth country, means a lawyer (as defined in section 6 of the Lawyers and Conveyancers Act 2006), or a notary public
   - **life insurance policy** —
-    (a) means a policy of assurance taken out by 1 spouse or partner (party A) on his or her own life or the life of his or her spouse or partner (party B), regardless of whether—
+    (a) means a policy of assurance taken out by one spouse or partner (party A) on his or her own life or the life of his or her spouse or partner (party B), regardless of whether—
       (i) the policy is for the benefit of party A or party B:
       (ii) the proceeds are payable on the death of the assured or on the occurrence of a specified event or otherwise; and
     (b) includes the proceeds of such a policy of assurance payable to a surviving spouse or partner or to the personal representative of the deceased spouse or partner; but
@@ -197,7 +199,7 @@ In this Act, unless the context otherwise requires,—
     (d) any debt or any thing in action:
     (e) any other right or interest
   - **protected interest** has the meaning given to it by section 20B
-  - **Registrar** means a Registrar of the Court; and includes a Deputy Registrar of the Court
+  - **Registrar** means a Registrar of the court; and includes a Deputy Registrar of the court
   - **relationship debt** has the meaning given to it by section 20
   - **relationship of short duration** has the meaning given to it by section 2E
   - **relationship property** has the meaning given to it by section 8
@@ -208,7 +210,7 @@ In this Act, unless the context otherwise requires,—
     (b) if Part 8 applies, includes any such entitlement payable to a surviving spouse or partner on the death of the deceased spouse or partner
   - **voluntary agreement** means a written agreement—
     (a) made between spouses or partners who are parties to proceedings; and
-    (b) providing for 1 spouse or partner to pay sums of money to the other spouse or partner for the maintenance of—
+    (b) providing for one spouse or partner to pay sums of money to the other spouse or partner for the maintenance of—
       (i) the other spouse or partner:
       (ii) a child of the marriage or child of the civil union or child of the de facto relationship.
 
@@ -216,27 +218,31 @@ In this Act, unless the context otherwise requires,—
 (1) In this Act, marriage includes a marriage that—and husband, spouse, and wife each has a corresponding meaning.
   (a) is void; or
   (b) is ended while both spouses are alive by a legal process that occurs within or outside New Zealand; or
-  (c) is ended by the death of 1 of the spouses, whether within or outside New Zealand;—
+  (c) is ended by the death of one of the spouses, whether within or outside New Zealand;—
 (2) For the purposes of this Act, the marriage of a husband and wife ends if—
   (a) they cease to live together as husband and wife; or
   (b) their marriage is dissolved; or
-  (c) 1 of them dies.
+  (c) one of them dies.
 
 ### 2AB Meaning of civil union
 (1) In this Act, civil union includes a civil union that—
   (a) is void; or
   (b) is ended while both civil union partners are alive by a legal process that occurs within New Zealand; or
-  (c) is ended by the death of 1 of the civil union partners, whether within or outside New Zealand.
+  (c) is ended by the death of one of the civil union partners, whether within or outside New Zealand.
 (2) For the purposes of this Act, the civil union of 2 civil union partners ends if—
   (a) they cease to live together as civil union partners; or
   (b) their civil union is dissolved; or
-  (c) 1 of them dies.
+  (c) one of them dies.
 
 ### 2B Marriage includes immediately preceding de facto relationship
-For the purposes of this Act, if a marriage was immediately preceded by a de facto relationship between the husband (A) and the wife (B), the de facto relationship must be treated as if it were part of the marriage.
-Example of marriage including immediately preceding de facto relationship—If the de facto relationship of A and B lasts 2 years, and their marriage lasts 2 years, their marriage must be treated as if it—
-(a) began 4 years ago; and
-(b) lasted 4 years.
+For the purposes of this Act, if a marriage was immediately preceded by a de facto relationship between the husband (A) and the wife (B), the de facto relationship must be treated as if it were part of the marriage.Example of marriage including immediately preceding de facto relationship—If the de facto relationship of A and B lasts 2 years, and their marriage lasts 2 years, their marriage must be treated as if it—
+  (a) began 4 years ago; and
+  (b) lasted 4 years.
+
+### 2BAA Civil union includes immediately preceding de facto relationship
+For the purposes of this Act, if a civil union was immediately preceded by a de facto relationship between the 2 civil union partners (A and B), the de facto relationship must be treated as if it were part of the civil union.Example of civil union including immediately preceding de facto relationshipIf the de facto relationship of A and B lasts 1 year, and their civil union lasts 2 years, the civil union must be treated as if it—
+  (a) began 3 years ago; and
+  (b) lasted 3 years.
 
 ### 2BA Immediately preceding marriage or civil union
 For the purposes of this Act,—
@@ -263,36 +269,36 @@ For the purposes of this Act, a person is another person's de facto partner if t
   (i) the reputation and public aspects of the relationship.
 (3) In determining whether 2 persons live together as a couple,—
   (a) no finding in respect of any of the matters stated in subsection (2), or in respect of any combination of them, is to be regarded as necessary; and
-  (b) a Court is entitled to have regard to such matters, and to attach such weight to any matter, as may seem appropriate to the Court in the circumstances of the case.
+  (b) a court is entitled to have regard to such matters, and to attach such weight to any matter, as may seem appropriate to the court in the circumstances of the case.
 (4) For the purposes of this Act, a de facto relationship ends if—
   (a) the de facto partners cease to live together as a couple; or
-  (b) 1 of the de facto partners dies.
+  (b) one of the de facto partners dies.
 
 ### 2E Meaning of relationship of short duration
 (1) In this Act, relationship of short duration means,—
   (a) in relation to a marriage, a marriage in which the husband and wife have lived together as husband and wife—
     (i) for a period of less than 3 years; or
-    (ii) for a period of 3 years or longer, if the Court, having regard to all the circumstances of the marriage, considers it just to treat the marriage as a relationship of short duration:
+    (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the marriage, considers it just to treat the marriage as a relationship of short duration:
   (ab) in relation to a civil union, a civil union in which the civil union partners have lived together as civil union partners—
     (i) for a period of less than 3 years; or
-    (ii) for a period of 3 years or longer, if the Court, having regard to all the circumstances of the civil union, considers it just to treat the civil union as a relationship of short duration:
+    (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the civil union, considers it just to treat the civil union as a relationship of short duration:
   (b) in relation to a de facto relationship, a de facto relationship in which the de facto partners have lived together as de facto partners—
     (i) for a period of less than 3 years; or
-    (ii) for a period of 3 years or longer, if the Court, having regard to all the circumstances of the de facto relationship, considers it just to treat the de facto relationship as a relationship of short duration.
-(2) For the purposes of paragraphs (a)(i), (ab)(i), and (b)(i) of subsection (1), in computing the period for which the parties have lived together as husband and wife, civil union partners, or as de facto partners, the Court may exclude a period of resumed cohabitation that has the motive of reconciliation and is no longer than 3 months.
+    (ii) for a period of 3 years or longer, if the court, having regard to all the circumstances of the de facto relationship, considers it just to treat the de facto relationship as a relationship of short duration.
+(2) For the purposes of paragraphs (a)(i), (ab)(i), and (b)(i) of subsection (1), in computing the period for which the parties have lived together as husband and wife, civil union partners, or as de facto partners, the court may exclude a period of resumed cohabitation that has the motive of reconciliation and is no longer than 3 months.
 
 **Dates at which shares and values determined**
 
 ### 2F Date at which shares to be determined
 (1) For the purposes of this Act, the share of a spouse or partner in the relationship property is to be determined as at the following date:
-  (a) if the spouses' marriage, the civil union partners' civil union, or the de facto partners' de facto relationship has not ended, the date of the application to the Court:
-  (b) if the spouses' marriage, the civil union partners' civil union, or the de facto partners' de facto relationship has ended (other than by the death of 1 of the spouses or partners), the date on which their marriage, civil union, or de facto relationship ended.
-(2) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 79.
+  (a) if the spouses' marriage, the civil union partners' civil union, or the de facto partners' de facto relationship has not ended, the date of the application to the court:
+  (b) if the spouses' marriage, the civil union partners' civil union, or the de facto partners' de facto relationship has ended (other than by the death of one of the spouses or partners), the date on which their marriage, civil union, or de facto relationship ended.
+(2) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 79.
 (3) This section is subject to Part 6.
 
 ### 2G Date at which value of property to be determined
-(1) For the purposes of this Act, the value of any property to which an application under this Act relates is to be determined as at the date of the hearing of that application by the Court of first instance.
-(2) However, the Court of first instance or, on an appeal the High Court, Court of Appeal, or Supreme Court may, in its discretion, decide that the value of the property is to be determined as at another date.
+(1) For the purposes of this Act, the value of any property to which an application under this Act relates is to be determined as at the date of the hearing of that application by the court of first instance.
+(2) However, the court of first instance or, on an appeal the High Court, Court of Appeal, or Supreme Court may, in its discretion, decide that the value of the property is to be determined as at another date.
 (3) This section is subject to Part 6.
 
 **Determination of use to which property put**
@@ -301,8 +307,8 @@ For the purposes of this Act, a person is another person's de facto partner if t
 (1) This section applies where the classification of any property as relationship property or as any particular type of relationship property depends on the use to which it has been put.
 (2) Where this section applies, that classification is to be determined—
   (a) by the use to which it was put by the spouses or partners; or
-  (b) if the marriage, civil union, or de facto relationship has ended (other than by the death of 1 of the spouses or partners), by the use to which it was being put before the marriage, civil union, or de facto relationship ended.
-(3) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 80.
+  (b) if the marriage, civil union, or de facto relationship has ended (other than by the death of one of the spouses or partners), by the use to which it was being put before the marriage, civil union, or de facto relationship ended.
+(3) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 80.
 
 **Application**
 
@@ -322,7 +328,7 @@ This Act shall bind the Crown.
   (c) the presumption that the use of a wife's income by her husband with her consent during the marriage is a gift does not apply between husband and wife.
 (4) Where, in proceedings that are not proceedings under this Act, any question relating to relationship property arises between spouses or partners, or between either or both of them and any other person, the question must be decided as if it had been raised in proceedings under this Act.
 (5) This section does not apply if the de facto partners have lived in a de facto relationship for less than 3 years.
-(6) However, if the Court makes an order under section 25(1)(a) in respect of any relationship property of de facto partners to whom subsection (5) applies, and any question relating to relationship property arises between those de facto partners in any subsequent proceedings that are not proceedings under this Act, then—
+(6) However, if the court makes an order under section 25(1)(a) in respect of any relationship property of de facto partners to whom subsection (5) applies, and any question relating to relationship property arises between those de facto partners in any subsequent proceedings that are not proceedings under this Act, then—
   (a) subsection (5) does not apply; and
   (b) the question must be decided as if it had been raised in proceedings under this Act.
 
@@ -342,7 +348,7 @@ Every enactment must be read subject to this Act, unless this Act or the other e
 ### 4D Application to de facto relationships that end on separation or death
 This Act applies to de facto relationships that end—
   (a) while both de facto partners are alive; or
-  (b) when 1 of the de facto partners dies.
+  (b) when one of the de facto partners dies.
 
 ### 5 Act to apply only during joint lifetime of spouses
 [Repealed]
@@ -352,26 +358,26 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
 
 ### 7 Application to movable or immovable property
 (1) This Act applies to immovable property that is situated in New Zealand.
-(2) This Act applies to movable property that is situated in New Zealand or elsewhere, if 1 of the spouses or partners is domiciled in New Zealand—
+(2) This Act applies to movable property that is situated in New Zealand or elsewhere, if one of the spouses or partners is domiciled in New Zealand—
   (a) at the date of an application made under this Act; or
   (b) at the date of any agreement between the spouses or partners relating to the division of their property; or
   (c) at the date of his or her death.
-(3) Despite subsection (2), if any order under this Act is sought against a person who is neither domiciled nor resident in New Zealand, the Court may decline to make an order in respect of any movable property that is situated outside New Zealand.
+(3) Despite subsection (2), if any order under this Act is sought against a person who is neither domiciled nor resident in New Zealand, the court may decline to make an order in respect of any movable property that is situated outside New Zealand.
 
 ### 7A Application where spouses or partners agree
 (1) This Act applies in any case where the spouses or partners agree in writing that it is to apply.
 (2) Subject to subsections (1) and (3), this Act does not apply to any relationship property if—
   (a) the spouses or partners have agreed, before or at the time their marriage, civil union, or de facto relationship began, that the property law of a country other than New Zealand is to apply to that property; and
   (b) the agreement is in writing or is otherwise valid according to the law of that country.
-(3) Subsection (2) does not apply if the Court determines that the application of the law of the other country under an agreement to which that subsection applies would be contrary to justice or public policy.
+(3) Subsection (2) does not apply if the court determines that the application of the law of the other country under an agreement to which that subsection applies would be contrary to justice or public policy.
 
 **Nature of relationship property and separate property**
 
 ### 8 Relationship property defined
 (1) Relationship property shall consist of—
-  (a) The family home whenever acquired; and
-  (b) The family chattels whenever acquired; and
-  (c) All property owned jointly or in common in equal shares by the husband and the wife or by the partners; and
+  (a) the family home whenever acquired; and
+  (b) the family chattels whenever acquired; and
+  (c) all property owned jointly or in common in equal shares by the husband and the wife or by the partners; and
   (d) all property owned by either spouse or partner immediately before their marriage, civil union, or de facto relationship began, if—
     (i) the property was acquired in contemplation of the marriage, civil union, or de facto relationship; and
     (ii) the property was intended for the common use or common benefit of both spouses or partners; and
@@ -386,16 +392,16 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
   (j) all other property that is relationship property under an agreement made under Part 6; and
   (k) any other property that is relationship property by virtue of any other provision of this Act or by virtue of any other Act; and
   (l) any income and gains derived from, the proceeds of any disposition of, and any increase in the value of, any property described in paragraphs (a) to (k).
-(2) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 83.
+(2) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 83.
 
 ### 9 Separate property defined
 (1) All property of either spouse or partner that is not relationship property is separate property.
 (2) Subject to sections 8(1)(ee), 9A(3), and 10, all property acquired out of separate property, and the proceeds of any disposition of separate property, are separate property.
 (3) Subject to section 9A, any increase in the value of separate property, and any income or gains derived from separate property, are separate property.
-(4) The following property is separate property, unless the Court considers that it is just in the circumstances to treat the property or any part of the property as relationship property:
+(4) The following property is separate property, unless the court considers that it is just in the circumstances to treat the property or any part of the property as relationship property:
   (a) all property acquired by either spouse or partner while they are not living together as husband and wife or as civil union partners or as de facto partners:
-  (b) all property acquired, after the death of 1 spouse or partner, by the surviving spouse or partner, as provided in section 84.
-(5) Subject to subsection (6), all property acquired by either spouse or partner after an order of the Court (other than an order made under section 25(3)) has been made defining the respective interests of the spouses or partners in the relationship property, or dividing or providing for the division of that property, is separate property.
+  (b) all property acquired, after the death of one spouse or partner, by the surviving spouse or partner, as provided in section 84.
+(5) Subject to subsection (6), all property acquired by either spouse or partner after an order of the court (other than an order made under section 25(3)) has been made defining the respective interests of the spouses or partners in the relationship property, or dividing or providing for the division of that property, is separate property.
 (6) However, where relationship property has been divided on the bankruptcy of a spouse or partner,—
   (a) the family home and any family chattels acquired after that division may be relationship property; and
   (b) any other property acquired by either spouse or partner after the discharge of that spouse or partner from bankruptcy may be relationship property.
@@ -407,7 +413,7 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
   (b) the share of each spouse or partner in that relationship property is to be determined in accordance with the contribution of each spouse or partner to the increase in value or (as the case requires) the income or gains.
 (3) Any separate property, or any proceeds of the disposition of any separate property, or any increase in the value of, or any income or gains derived from, separate property, is relationship property if that separate property or (as the case requires) those proceeds or the increase in value or the income or gains are used—
   (a) with the express or implied consent of the spouse or partner that owns, receives, or is entitled to them; and
-  (b) for the acquisition or improvement of, or to increase the value of, or the amount of any interest of either spouse or de facto partner in, any property referred to in section 8(1).
+  (b) for the acquisition or improvement of, or to increase the value of, or the amount of any interest of either spouse or partner in, any property referred to in section 8(1).
 (4) Subsection (3) is subject to section 10.
 
 ### 10 Property acquired by succession or by survivorship or as a beneficiary under a trust or by gift
@@ -420,7 +426,7 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
   (b) the proceeds of a disposition of property to which paragraph (a) applies:
   (c) property acquired out of property to which paragraph (a) applies.
 (2) Property to which this subsection applies is not relationship property unless, with the express or implied consent of the spouse or partner who received it, the property or the proceeds of any disposition of it have been so intermingled with other relationship property that it is unreasonable or impracticable to regard that property or those proceeds as separate property.
-(3) Property that 1 spouse or partner acquires by gift from the other spouse or partner is not relationship property unless the gift is used for the benefit of both spouses or partners.
+(3) Property that one spouse or partner acquires by gift from the other spouse or partner is not relationship property unless the gift is used for the benefit of both spouses or partners.
 (4) Regardless of subsections (2) and (3) and section 9(4), both the family home and the family chattels are relationship property, unless designated separate property by an agreement made in accordance with Part 6.
 
 ## Part 3 — Application of this Act
@@ -429,24 +435,24 @@ Nothing in this Act shall apply in respect of any Maori land within the meaning 
 This Act (other than Part 8) applies to the division of relationship property between the spouses or partners when a situation described in section 25(2) arises while both spouses or partners are alive.
 
 ### 10B Application of Act to division of relationship property on death of spouse or partner
-(1) This Act (including Part 8) applies to the division of relationship property between spouses or de facto partners when—
-  (a) 1 of the spouses or partners dies on or after 1 February 2002 (except in the situation described in section 10D(1)); or
-  (b) in the case of spouses, 1 of them dies before 1 February 2002 and, at the date of that spouse's death, no proceedings have been commenced between the spouses under this Act or the Matrimonial Property Act 1963.
+(1) This Act (including Part 8) applies to the division of relationship property between spouses or partners when—
+  (a) one of the spouses or partners dies on or after 1 February 2002 (except in the situation described in section 10D(1)); or
+  (b) in the case of spouses, one of them dies before 1 February 2002 and, at the date of that spouse's death, no proceedings have been commenced between the spouses under this Act or the Matrimonial Property Act 1963.
 (2) Subsection (1) applies whether or not a situation described in section 25(2) arose while both spouses or partners were alive.
 
 ### 10C Application of Act in other circumstances
 This Act also applies—
-  (a) in the circumstances described in sections 4(4), 4(6), 21H, 43(1), 44(1), 45(1), and 51(2), while both spouses or partners are alive and after the death of 1 of the spouses or partners:
-  (b) in the circumstances described in sections 25(3) and 28(1), while both spouses or partners are alive and after the death of 1 of the spouses or partners (although the sections are modified in proceedings commenced after the death of 1 of the spouses or partners):
+  (a) in the circumstances described in sections 4(4), 4(6), 21H, 43(1), 44(1), 45(1), and 51(2), while both spouses or partners are alive and after the death of one of the spouses or partners:
+  (b) in the circumstances described in sections 25(3) and 28(1), while both spouses or partners are alive and after the death of one of the spouses or partners (although the sections are modified in proceedings commenced after the death of one of the spouses or partners):
   (c) in the circumstances described in sections 20 to 20F,—
     (i) while both spouses or partners are alive; and
     (ii) if a spouse or partner is subject to sections 20 to 20F at the date of his or her death, after the death of the spouse or partner; and
     (iii) if a surviving spouse or partner is declared bankrupt after the death of the other spouse or partner, after the death of the other spouse or partner:
-  (d) in the circumstances described in sections 58 and 59, after the death of 1 of the spouses or partners:
-  (e) in the circumstances described in section 87, after the death of 1 of the spouses or partners.
+  (d) in the circumstances described in sections 58 and 59, after the death of one of the spouses or partners:
+  (e) in the circumstances described in section 87, after the death of one of the spouses or partners.
 
 ### 10D Proceedings
-(1) If proceedings under this Act, or to which this Act applies, are commenced while both spouses or partners are alive, and 1 of them dies, or they both die, before the proceedings are completed, the proceedings continue under this Act, except sections 61 to 95.
+(1) If proceedings under this Act, or to which this Act applies, are commenced while both spouses or partners are alive, and one of them dies, or they both die, before the proceedings are completed, the proceedings continue under this Act, except sections 61 to 95.
 (2) Nothing in subsection (1) prevents any proceedings from being discontinued.
 (3) If a surviving spouse or partner chooses, under section 61, to apply under this Act for a division of the relationship property,—
   (a) sections 76 to 78 apply to the proceedings; and
@@ -454,7 +460,7 @@ This Act also applies—
 
 ## Part 4 — Division of relationship property
 
-**Division of relationship property: general**
+**Division of relationship property: General**
 
 ### 11 Division of relationship property
 (1) On the division of relationship property under this Act, each of the spouses or partners is entitled to share equally in—
@@ -467,7 +473,7 @@ This Act also applies—
 (1) If the family home has been sold, each spouse or partner is entitled to share equally in the proceeds of the sale as if they were the family home, if the following conditions are satisfied:
   (a) either spouse or partner or both of them have sold the family home with the intention of applying all or part of the proceeds of the sale towards the acquisition of another home as a family home:
   (b) that home has not been acquired:
-  (c) at the date of the application to the Court, not more than 2 years have elapsed since the date when those proceeds were received or became payable, whichever is the later.
+  (c) at the date of the application to the court, not more than 2 years have elapsed since the date when those proceeds were received or became payable, whichever is the later.
 (2) This section is subject to sections 12 to 17A.
 
 ### 11B Compensation for absence of interest in family home
@@ -475,8 +481,8 @@ This Act also applies—
   (a) section 11A does not apply; and
   (b) either—
     (i) there is no family home; or
-    (ii) the family home is not owned by 1 of the spouses or partners or both of them.
-(2) Where this section applies, the Court must award each spouse or partner an equal share in such part of the relationship property as it thinks just in order to compensate for the absence of an interest in the family home.
+    (ii) the family home is not owned by one of the spouses or partners or both of them.
+(2) Where this section applies, the court must award each spouse or partner an equal share in such part of the relationship property as it thinks just in order to compensate for the absence of an interest in the family home.
 (3) This section is subject to sections 12 to 17A.
 
 **Homesteads**
@@ -493,7 +499,7 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
 **Exception to equal sharing**
 
 ### 13 Exception to equal sharing
-(1) If the Court considers that there are extraordinary circumstances that make equal sharing of property or money under section 11 or section 11A or section 11B or section 12 repugnant to justice, the share of each spouse or partner in that property or money is to be determined in accordance with the contribution of each spouse to the marriage or of each civil union partner to the civil union or of each de facto partner to the de facto relationship.
+(1) If the court considers that there are extraordinary circumstances that make equal sharing of property or money under section 11 or section 11A or section 11B or section 12 repugnant to justice, the share of each spouse or partner in that property or money is to be determined in accordance with the contribution of each spouse to the marriage or of each civil union partner to the civil union or of each de facto partner to the de facto relationship.
 (2) This section is subject to sections 14 to 17A.
 
 **Relationships of short duration**
@@ -501,72 +507,72 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
 ### 14 Marriages of short duration
 (1) This section applies if a marriage is a relationship of short duration (as defined in section 2E).
 (2) If this section applies, sections 11(1)(a), 11(1)(b), 11A, 11B, and 12 do not apply—
-  (a) to any asset owned wholly or substantially by 1 spouse at the date on which the marriage began; or
-  (b) to any asset that has come to 1 spouse, after the date on which the marriage began,—
+  (a) to any asset owned wholly or substantially by one spouse at the date on which the marriage began; or
+  (b) to any asset that has come to one spouse, after the date on which the marriage began,—
     (i) by succession; or
     (ii) by survivorship; or
     (iii) as the beneficiary under a trust; or
     (iv) by gift from a third person; or
-  (c) where the contribution of 1 spouse to the marriage has clearly been disproportionately greater than the contribution of the other spouse.
+  (c) where the contribution of one spouse to the marriage has clearly been disproportionately greater than the contribution of the other spouse.
 (3) In every case to which subsection (2) applies,—
   (a) the share of each spouse in the relationship property is to be determined in accordance with the contribution of each spouse to the marriage; and
   (b) the share of each spouse in any other relationship property that falls for division under sections 11(1)(a), 11(1)(b), 11A, 11B, and 12, and is not determined in accordance with paragraph (a), is to be determined in accordance with sections 11(1)(a), 11(1)(b), 11A, 11B, and 12.
 (4) If this section applies, each spouse is entitled to share equally in any relationship property that falls for division under section 11(1)(c), unless his or her contribution to the marriage has been clearly greater than that of the other spouse.
 (5) If, under subsection (4), the spouses do not share equally in any relationship property, the share of each spouse in that relationship property is to be determined in accordance with the contribution of each spouse to the marriage.
 (6) This section is subject to sections 15 to 17A.
-(7) In proceedings commenced after the death of 1 of the spouses, this section is modified by section 85.
+(7) In proceedings commenced after the death of one of the spouses, this section is modified by section 85.
 
 ### 14AA Civil unions of short duration
 (1) This section applies if a civil union is a relationship of short duration (as defined in section 2E).
 (2) If this section applies, sections 11(1)(a), 11(1)(b), 11A, 11B, and 12 do not apply—
-  (a) to any asset owned wholly or substantially by 1 civil union partner at the date on which the civil union began; or
-  (b) to any asset that has come to 1 civil union partner, after the date on which the civil union began,—
+  (a) to any asset owned wholly or substantially by one civil union partner at the date on which the civil union began; or
+  (b) to any asset that has come to one civil union partner, after the date on which the civil union began,—
     (i) by succession; or
     (ii) by survivorship; or
     (iii) as the beneficiary under a trust; or
     (iv) by gift from a third person; or
-  (c) where the contribution of 1 civil union partner to the civil union has clearly been disproportionately greater than the contribution of the other civil union partner.
+  (c) where the contribution of one civil union partner to the civil union has clearly been disproportionately greater than the contribution of the other civil union partner.
 (3) In every case to which subsection (2) applies,—
   (a) the share of each civil union partner in the relationship property is to be determined in accordance with the contribution of each civil union partner to the civil union; and
   (b) the share of each civil union partner in any other relationship property that falls for division under sections 11(1)(a), 11(1)(b), 11A, 11B, and 12, and is not determined in accordance with paragraph (a), is to be determined in accordance with sections 11(1)(a), 11(1)(b), 11A, 11B, and 12.
 (4) If this section applies, each civil union partner is entitled to share equally in any relationship property that falls for division under section 11(1)(c), unless his or her contribution to the civil union has been clearly greater than that of the other civil union partner.
 (5) If, under subsection (4), the civil union partners do not share equally in any relationship property, the share of each civil union partner in that relationship property is to be determined in accordance with the contribution of each civil union partner to the civil union.
 (6) This section is subject to sections 15 to 17A.
-(7) In proceedings commenced after the death of 1 of the civil union partners, this section is modified by section 85.
+(7) In proceedings commenced after the death of one of the civil union partners, this section is modified by section 85.
 
 ### 14A De facto relationships of short duration
 (1) This section applies if a de facto relationship is a relationship of short duration (as defined in section 2E).
 (2) If this section applies, an order cannot be made under this Act for the division of relationship property unless—
-  (a) the Court is satisfied—
+  (a) the court is satisfied—
     (i) that there is a child of the de facto relationship; or
     (ii) that the applicant has made a substantial contribution to the de facto relationship; and
-  (b) the Court is satisfied that failure to make the order would result in serious injustice.
-(3) If this section applies, and the Court is satisfied that the grounds specified in subsection (2) for making an order on an application under this Act are made out, the share of each de facto partner in the relationship property is to be determined in accordance with the contribution of each de facto partner to the de facto relationship.
-(4) Nothing in this section prevents a Court from making a declaration or an order under section 25(3), even though the de facto partners have lived in a de facto relationship for less than 3 years.
+  (b) the court is satisfied that failure to make the order would result in serious injustice.
+(3) If this section applies, and the court is satisfied that the grounds specified in subsection (2) for making an order on an application under this Act are made out, the share of each de facto partner in the relationship property is to be determined in accordance with the contribution of each de facto partner to the de facto relationship.
+(4) Nothing in this section prevents a court from making a declaration or an order under section 25(3), even though the de facto partners have lived in a de facto relationship for less than 3 years.
 (5) This section is subject to sections 15 to 17A.
 
 **Court may make orders to redress economic disparities**
 
 ### 15 Court may award lump sum payments or order transfer of property
-(1) This section applies if, on the division of relationship property, the Court is satisfied that, after the marriage, civil union, or de facto relationship ends, the income and living standards of 1 spouse or partner (party B) are likely to be significantly higher than the other spouse or partner (party A) because of the effects of the division of functions within the marriage, civil union, or de facto relationship while the parties were living together.
-(2) In determining whether or not to make an order under this section, the Court may have regard to—
+(1) This section applies if, on the division of relationship property, the court is satisfied that, after the marriage, civil union, or de facto relationship ends, the income and living standards of one spouse or partner (party B) are likely to be significantly higher than the other spouse or partner (party A) because of the effects of the division of functions within the marriage, civil union, or de facto relationship while the parties were living together.
+(2) In determining whether or not to make an order under this section, the court may have regard to—
   (a) the likely earning capacity of each spouse or partner:
   (b) the responsibilities of each spouse or partner for the ongoing daily care of any minor or dependent children of the marriage, civil union, or de facto relationship:
   (c) any other relevant circumstances.
-(3) If this section applies, the Court, if it considers it just, may, for the purpose of compensating party A,—
+(3) If this section applies, the court, if it considers it just, may, for the purpose of compensating party A,—
   (a) order party B to pay party A a sum of money out of party B's relationship property:
   (b) order party B to transfer to party A any other property out of party B's relationship property.
 (4) This section overrides sections 11 to 14A.
 
 ### 15A Orders where spouse or partner has contributed to increase in value of separate property
-(1) This section applies if, on the division of relationship property, the Court is satisfied—
-  (a) that, after the marriage, civil union, or de facto relationship ends, the income and living standards of 1 spouse or partner (party B) are likely to be significantly higher than the other spouse or partner (party A) because of the effects of the division of functions within the marriage, civil union, or de facto relationship while the spouses or partners were living together; and
+(1) This section applies if, on the division of relationship property, the court is satisfied—
+  (a) that, after the marriage, civil union, or de facto relationship ends, the income and living standards of one spouse or partner (party B) are likely to be significantly higher than the other spouse or partner (party A) because of the effects of the division of functions within the marriage, civil union, or de facto relationship while the spouses or partners were living together; and
   (b) that any increase in the value of party B's separate property was attributable, wholly or in part, and whether directly or indirectly, to the actions of party B while the spouses or partners were living together.
-(2) In determining whether or not to make an order under this section, the Court may have regard to—
+(2) In determining whether or not to make an order under this section, the court may have regard to—
   (a) the likely earning capacity of each spouse or partner:
   (b) the responsibilities of each spouse or partner for the ongoing daily care of any minor or dependent children of the marriage, civil union, or de facto relationship:
   (c) any other relevant circumstances.
-(3) If this section applies, the Court, if it considers it just, may, for the purpose of compensating party A for the increase in value of party B's separate property,—
+(3) If this section applies, the court, if it considers it just, may, for the purpose of compensating party A for the increase in value of party B's separate property,—
   (a) order party B to pay party A a sum of money, whether out of relationship property or separate property:
   (b) order party B to transfer to party A any other property, whether the property is relationship property or separate property.
 (4) This section does not limit section 15, but overrides sections 11 to 14A.
@@ -577,28 +583,28 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
 (1) This section applies if,—
   (a) at the date the marriage, civil union, or de facto relationship began, each spouse or partner owned a home; and
   (b) each of those homes was capable of becoming a family home; but
-  (c) at the time when the relationship property is to be divided, the home (or the proceeds of the sale of the home) of only 1 spouse or partner is included in the relationship property.
+  (c) at the time when the relationship property is to be divided, the home (or the proceeds of the sale of the home) of only one spouse or partner is included in the relationship property.
 (2) This section also applies if,—
   (a) before the marriage, civil union, or de facto relationship began, each spouse or partner owned a home; and
   (b) each of those homes was capable of becoming a family home; and
-  (c) 1 of the spouses or partners (party A) sold his or her home in contemplation of the marriage, civil union, or de facto relationship; and
+  (c) one of the spouses or partners (party A) sold his or her home in contemplation of the marriage, civil union, or de facto relationship; and
   (d) at the time when the relationship property is to be divided,—
     (i) the home (or the proceeds of the sale of the home) of the other spouse or partner (party B) is included in the relationship property; but
     (ii) the proceeds of the sale of party A's home are not included in the relationship property.
-(3) If this section applies, the Court may adjust the shares of the spouses or partners in any of the relationship property (including the family home and the family chattels) according to what it considers just to compensate for the inclusion of the home of only 1 spouse or de facto partner in the relationship property.
+(3) If this section applies, the court may adjust the shares of the spouses or partners in any of the relationship property (including the family home and the family chattels) according to what it considers just to compensate for the inclusion of the home of only one spouse or partner in the relationship property.
 (4) This section overrides sections 11 to 14A.
 
 ### 17 Sustenance of separate property
-(1) This section applies if the separate property of 1 spouse or partner (party A) has been sustained by—
+(1) This section applies if the separate property of one spouse or partner (party A) has been sustained by—
   (a) the application of relationship property; or
   (b) the actions of the other spouse or partner (party B).
-(2) If this section applies, the Court may—
+(2) If this section applies, the court may—
   (a) increase the share to which party B would otherwise be entitled in the relationship property; or
   (b) order party A to pay party B a sum of money as compensation.
 (3) This section overrides sections 11 to 14A.
 
 ### 17A Diminution of separate property
-(1) If the separate property of 1 spouse or partner has been materially diminished in value by the deliberate action or inaction of the other spouse or partner, the Court may, to such extent as it thinks just, diminish the share to which the other spouse or partner would otherwise be entitled in the relationship property.
+(1) If the separate property of one spouse or partner has been materially diminished in value by the deliberate action or inaction of the other spouse or partner, the court may, to such extent as it thinks just, diminish the share to which the other spouse or partner would otherwise be entitled in the relationship property.
 (2) This section overrides sections 11 to 14A.
 
 ### 18 Contributions of spouses or partners
@@ -622,32 +628,32 @@ For the purposes of section 12, a homestead's value is to be determined by ascer
 (2) There is no presumption that a contribution of a monetary nature (whether under subsection (1)(c) or otherwise) is of greater value than a contribution of a non-monetary nature.
 
 ### 18A Effect of misconduct of spouses or partners
-(1) Except as permitted by subsections (2) and (3), a Court may not take any misconduct of a spouse or partner into account in proceedings under this Act, whether to diminish or detract from the positive contribution of that spouse or partner or otherwise.
-(2) Subject to subsection (3), the Court may take into account any misconduct of a spouse or partner—
+(1) Except as permitted by subsections (2) and (3), a court may not take any misconduct of a spouse or partner into account in proceedings under this Act, whether to diminish or detract from the positive contribution of that spouse or partner or otherwise.
+(2) Subject to subsection (3), the court may take into account any misconduct of a spouse or partner—
   (a) in determining the contribution of a spouse to the marriage, or of a civil union partner to the civil union, or of a de facto partner to the de facto relationship; or
   (b) in determining what order it should make under any of sections 26, 26A, 27, 28, 28B, 28C, and 33.
 (3) For conduct to be taken into account under subsection (2), the conduct must have been gross and palpable and must have significantly affected the extent or value of the relationship property.
 
 ### 18B Compensation for contributions made after separation
-(1) In this section, relevant period, in relation to a marriage, civil union, or de facto relationship, means the period after the marriage, civil union, or de facto relationship has ended (other than by the death of 1 of the spouses or partners) but before the date of the hearing of an application under this Act by the Court of first instance.
-(2) If, during the relevant period, a spouse or partner (party A) has done anything that would have been a contribution to the marriage, civil union, or de facto relationship if the marriage, civil union, or de facto relationship had not ended, the Court, if it considers it just, may for the purposes of compensating party A—
+(1) In this section, relevant period, in relation to a marriage, civil union, or de facto relationship, means the period after the marriage, civil union, or de facto relationship has ended (other than by the death of one of the spouses or partners) but before the date of the hearing of an application under this Act by the court of first instance.
+(2) If, during the relevant period, a spouse or partner (party A) has done anything that would have been a contribution to the marriage, civil union, or de facto relationship if the marriage, civil union, or de facto relationship had not ended, the court, if it considers it just, may for the purposes of compensating party A—
   (a) order the other spouse or partner (party B) to pay party A a sum of money:
   (b) order party B to transfer to party A any property, whether the property is relationship property or separate property.
-(3) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 86.
+(3) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 86.
 
 ### 18C Compensation for dissipation of relationship property after separation
 (1) In this section, relevant period has the same meaning as in section 18B.
-(2) If, during the relevant period, the relationship property has been materially diminished in value by the deliberate action or inaction of one spouse or partner (party B), the Court may, for the purposes of compensating the other spouse or partner (party A),—
+(2) If, during the relevant period, the relationship property has been materially diminished in value by the deliberate action or inaction of one spouse or partner (party B), the court may, for the purposes of compensating the other spouse or partner (party A),—
   (a) order party B to pay party A a sum of money:
   (b) order party B to transfer to party A any property, whether the property is relationship property or separate property.
-(3) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 86.
+(3) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 86.
 
 ## Part 5 — Relationship property and creditors
 
 ### 19 Effect of Act while property is undivided
 Except as otherwise expressly provided in this Act, nothing in the Act shall—
-  (a) Affect the title of any third person to any property, or affect the power of either spouse or partner to acquire, deal with, or dispose of any property or to enter into any contract or other legal transaction whatsoever as if this Act had not been passed; or
-  (b) Limit or affect the operation of any mortgage, charge, or other security for the repayment of a debt given by either spouse or partner over property owned by him or her and every such instrument shall have the same effect as if this Act had not been passed.
+  (a) affect the title of any third person to any property, or affect the power of either spouse or partner to acquire, deal with, or dispose of any property or to enter into any contract or other legal transaction whatsoever as if this Act had not been passed; or
+  (b) limit or affect the operation of any mortgage, charge, or other security for the repayment of a debt given by either spouse or partner over property owned by him or her and every such instrument shall have the same effect as if this Act had not been passed.
 
 ### 20 Interpretation
 (1) In sections 20A to 20E, unless the context otherwise requires,—
@@ -680,13 +686,13 @@ Except as otherwise expressly provided in this Act, nothing in the Act shall—
 (3) The value of the protected interest of a spouse or partner is as follows:
   (a) where section 11 applies, the protected interest is to the extent of the lesser of—
     (i) the specified sum; or
-    (ii) one half of the equity of the spouses or partners in the family home:
+    (ii) one-half of the equity of the spouses or partners in the family home:
   (b) where section 11A applies, the protected interest is to the extent of the lesser of—
     (i) the specified sum; or
-    (ii) one half of the proceeds of the sale of the family home:
+    (ii) one-half of the proceeds of the sale of the family home:
   (c) where section 11B or section 12 applies, the protected interest is to the extent of the lesser of—
     (i) the specified sum; or
-    (ii) one half of the property or money shared under the applicable section.
+    (ii) one-half of the property or money shared under the applicable section.
 (4) In this section, specified sum means the amount for the time being prescribed under section 53A for the purposes of this section.
 
 ### 20C Payment of protected interest on bankruptcy of other spouse or partner
@@ -698,7 +704,7 @@ Except as otherwise expressly provided in this Act, nothing in the Act shall—
   (b) any unsecured debt incurred—
     (i) by the spouses or partners jointly; or
     (ii) by the spouse or partner subsequently declared bankrupt, for the purpose of acquiring, improving, or repairing the family home.
-(3) If, on the bankruptcy of a spouse or partner, section 11B applies, the Official Assignee must pay to the other spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the Court may direct, on application by the Official Assignee or by that spouse or partner.
+(3) If, on the bankruptcy of a spouse or partner, section 11B applies, the Official Assignee must pay to the other spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the court may direct, on application by the Official Assignee or by that spouse or partner.
 
 ### 20D Calculation of net value of relationship property
 The value of the relationship property that may be divided between the spouses or partners under this Act must be calculated by—
@@ -706,11 +712,11 @@ The value of the relationship property that may be divided between the spouses o
   (b) deducting from that total any secured or unsecured relationship debts owed by either or both spouses or partners.
 
 ### 20E Compensation for satisfaction of personal debts
-(1) If a secured or unsecured personal debt of 1 spouse or partner (party A) has been paid or satisfied (directly or indirectly) out of the relationship property, the Court may make 1 of the following orders in favour of the other spouse or partner (party B):
+(1) If a secured or unsecured personal debt of one spouse or partner (party A) has been paid or satisfied (directly or indirectly) out of the relationship property, the court may make one of the following orders in favour of the other spouse or partner (party B):
   (a) an order increasing proportionately the share to which party B would otherwise be entitled in the relationship property:
   (b) an order that property that is part of party A's separate property be treated as relationship property for the purposes of any division of relationship property under this Act:
   (c) an order that party A pay party B a sum of money as compensation.
-(2) The Court may make an order under this section on its own initiative, but must make an order under this section if party B applies for such an order.
+(2) The court may make an order under this section on its own initiative, but must make an order under this section if party B applies for such an order.
 (3) This section applies whether the debt was paid or satisfied voluntarily or pursuant to legal process.
 
 ### 20F Application of Joint Family Homes Act 1964
@@ -721,10 +727,10 @@ Nothing in sections 20 to 20E derogates from the provisions of the Joint Family 
 **When persons can contract out**
 
 ### 21 Spouses or partners may contract out of this Act
-(1) A husband and wife, civil union partners, or de facto partners, or any 2 persons in contemplation of entering into a marriage, civil union or de facto relationship, may, for the purpose of contracting out of the provisions of this Act, make any agreement they think fit with respect to the status, ownership, and division of their property (including future property).
+(1) A husband and wife, civil union partners, or de facto partners, or any 2 persons in contemplation of entering into a marriage, civil union, or de facto relationship, may, for the purpose of contracting out of the provisions of this Act, make any agreement they think fit with respect to the status, ownership, and division of their property (including future property).
 (2) An agreement made under this section may relate to the status, ownership, and division of property in either or both of the following circumstances:
   (a) during the joint lives of the spouses or partners:
-  (b) when 1 of the spouses or partners dies.
+  (b) when one of the spouses or partners dies.
 (3) This section is subject to section 47.
 
 ### 21A Spouses or partners may settle differences by agreement
@@ -733,16 +739,16 @@ Nothing in sections 20 to 20E derogates from the provisions of the Joint Family 
 
 ### 21B Surviving spouse or partner and personal representative may agree on division of property
 (1) This section applies—
-  (a) when proceedings are commenced while both spouses or partners are alive, and 1 spouse or partner dies before the proceedings are completed; or
-  (b) when 1 spouse or partner dies and the other spouse or partner, or the personal representative of the deceased spouse or partner, intends to commence, or commences, proceedings after the death of the deceased.
+  (a) when proceedings are commenced while both spouses or partners are alive, and one spouse or partner dies before the proceedings are completed; or
+  (b) when one spouse or partner dies and the other spouse or partner, or the personal representative of the deceased spouse or partner, intends to commence, or commences, proceedings after the death of the deceased.
 (2) If this section applies, a surviving spouse or partner (the survivor) and the personal representative of the deceased spouse or partner may, for the purpose of settling the proceedings or (as the case requires) a claim by the survivor or the personal representative with respect to property owned by either or both of those spouses or partners, make any agreement they think fit with respect to the status, ownership, and division of that property.
-(3) If the survivor is also the sole executor or sole administrator of the estate of the deceased spouse or partner, an agreement under this section is not valid unless the Court approves the agreement.
+(3) If the survivor is also the sole executor or sole administrator of the estate of the deceased spouse or partner, an agreement under this section is not valid unless the court approves the agreement.
 (4) Subsection (3) does not apply if a grant of administration is not required.
 (5) This section is subject to section 47.
 
 ### 21C Court may be asked to approve agreement between surviving spouse or partner and personal representative
-(1) If a surviving spouse or partner and the personal representative of the deceased spouse or partner intend to make an agreement under section 21B, either or both of them may submit an agreement, in draft, to the Court for approval.
-(2) If the Court approves the agreement, the agreement has effect in accordance with section 21B.
+(1) If a surviving spouse or partner and the personal representative of the deceased spouse or partner intend to make an agreement under section 21B, either or both of them may submit an agreement, in draft, to the court for approval.
+(2) If the court approves the agreement, the agreement has effect in accordance with section 21B.
 
 **Subject matter of agreement**
 
@@ -750,7 +756,7 @@ Nothing in sections 20 to 20E derogates from the provisions of the Joint Family 
 (1) An agreement under section 21 or section 21A or section 21B may do all or any of the following:
   (a) provide that any property, or any class of property, is to be relationship property or is to be separate property:
   (b) define the share of the relationship property, or of any part of the relationship property, that each spouse or partner is to be entitled to when the marriage, civil union, or de facto relationship ends:
-  (c) define the share of the relationship property, or of any part of the relationship property, that the surviving spouse or partner and the estate of the deceased spouse or partner is to be entitled to on the death of 1 of the spouses or partners:
+  (c) define the share of the relationship property, or of any part of the relationship property, that the surviving spouse or partner and the estate of the deceased spouse or partner is to be entitled to on the death of one of the spouses or partners:
   (d) provide for the calculation of those shares:
   (e) prescribe the method by which the relationship property, or any part of the relationship property, is to be divided.
 (2) This section does not limit the generality of sections 21 to 21B.
@@ -775,30 +781,30 @@ Nothing in sections 20 to 20E derogates from the provisions of the Joint Family 
 Section 21F does not limit or affect any enactment or rule of law or of equity that makes a contract void, voidable, or unenforceable on any other ground.
 
 ### 21H Court may give effect to agreement in certain circumstances
-(1) Even though an agreement is void for non-compliance with a requirement of section 21F, the Court may declare that the agreement has effect, wholly or in part or for any particular purpose, if it is satisfied that the non-compliance has not materially prejudiced the interests of any party to the agreement.
-(2) The Court may make a declaration under this section in the course of any proceedings under this Act, or on application made for the purpose.
+(1) Even though an agreement is void for non-compliance with a requirement of section 21F, the court may declare that the agreement has effect, wholly or in part or for any particular purpose, if it is satisfied that the non-compliance has not materially prejudiced the interests of any party to the agreement.
+(2) The court may make a declaration under this section in the course of any proceedings under this Act, or on application made for the purpose.
 
 **Agreements by minors**
 
 ### 21I Agreements entered into by minors
 (1) Subject to subsection (2), if a minor enters into an agreement under section 21 or section 21A or section 21B, the agreement, and every instrument executed by that minor for the purpose of giving effect to the agreement, is as valid and effectual as if the minor were of full age.
-(2) If a minor who is younger than 18 years, and is not and has not been married or in a civil union, enters into an agreement under section 21 or section 21A or section 21B, the agreement is not valid without the approval of the Court.
+(2) If a minor who is younger than 18 years, and is not and has not been married or in a civil union, enters into an agreement under section 21 or section 21A or section 21B, the agreement is not valid without the approval of the court.
 (3) An approval may be given on application by the minor before or after the agreement has been signed by the parties.
 
 **Court may set agreement aside**
 
 ### 21J Court may set agreement aside if would cause serious injustice
-(1) Even though an agreement satisfies the requirements of section 21F, the Court may set the agreement aside if, having regard to all the circumstances, it is satisfied that giving effect to the agreement would cause serious injustice.
-(2) The Court may exercise the power in subsection (1) in the course of any proceedings under this Act, or on application made for the purpose.
+(1) Even though an agreement satisfies the requirements of section 21F, the court may set the agreement aside if, having regard to all the circumstances, it is satisfied that giving effect to the agreement would cause serious injustice.
+(2) The court may exercise the power in subsection (1) in the course of any proceedings under this Act, or on application made for the purpose.
 (3) This section does not limit or affect any enactment or rule of law or of equity that makes a contract void, voidable, or unenforceable on any other ground.
-(4) In deciding, under this section, whether giving effect to an agreement made under section 21 or section 21A or section 21B would cause serious injustice, the Court must have regard to—
+(4) In deciding, under this section, whether giving effect to an agreement made under section 21 or section 21A or section 21B would cause serious injustice, the court must have regard to—
   (a) the provisions of the agreement:
   (b) the length of time since the agreement was made:
   (c) whether the agreement was unfair or unreasonable in the light of all the circumstances at the time it was made:
   (d) whether the agreement has become unfair or unreasonable in the light of any changes in circumstances since it was made (whether or not those changes were foreseen by the parties):
   (e) the fact that the parties wished to achieve certainty as to the status, ownership, and division of property by entering into the agreement:
-  (f) any other matters that the Court considers relevant.
-(5) In deciding, under this section, whether giving effect to an agreement made under section 21B would cause serious injustice, the Court must also have regard to whether the estate of the deceased spouse or partner has been wholly or partly distributed.
+  (f) any other matters that the court considers relevant.
+(5) In deciding, under this section, whether giving effect to an agreement made under section 21B would cause serious injustice, the court must also have regard to whether the estate of the deceased spouse or partner has been wholly or partly distributed.
 
 **Miscellaneous provisions**
 
@@ -834,13 +840,13 @@ Relationship property is subject to the provisions of this Act if neither of the
   (a) may relate to existing or future property, or both:
   (b) may relate to the status, ownership, or division of property in either or both of the following circumstances:
     (i) during the joint lives of the de facto partners:
-    (ii) when 1 of them dies.
+    (ii) when one of them dies.
 (3) Subsection (2) does not limit the generality of subsection (1).
 
 ### 21Q Agreements made before 1 August 2001 between spouses relating to division of property on death
 This section applies to any agreement—
   (a) that is made, before 1 August 2001, by a husband and wife, or by any 2 persons in contemplation of marriage; and
-  (b) that is made with respect to, or to the extent that it is made with respect to, the status, ownership, or division of their property when 1 of them dies.
+  (b) that is made with respect to, or to the extent that it is made with respect to, the status, ownership, or division of their property when one of them dies.
 
 ### 21R Agreements to have effect as if Act not passed
 (1) The following agreements, to the extent that the agreements were valid and would have been enforceable before 1 August 2001, have effect as if this Act had not been passed:
@@ -858,12 +864,12 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
   (a) the agreement is made, on or after 1 August 2001 and before 1 February 2002, by 2 de facto partners, or by any 2 persons in contemplation of entering into a de facto relationship; and
   (b) the agreement is made with respect to the status, ownership, or division of their property—
     (i) during the joint lives of the de facto partners:
-    (ii) when 1 of them dies; and
+    (ii) when one of them dies; and
   (c) the de facto relationship ends before 1 February 2002.
 (2) This section also applies to any agreement made under section 21 if—
   (a) the agreement is made, on or after 1 August 2001 and before 1 February 2002, by a husband and wife, or by any 2 persons in contemplation of marriage; and
-  (b) the agreement is made with respect to, or to the extent that it is made with respect to, the status, ownership, or division of their property when 1 of them dies; and
-  (c) 1 of the spouses dies before 1 February 2002.
+  (b) the agreement is made with respect to, or to the extent that it is made with respect to, the status, ownership, or division of their property when one of them dies; and
+  (c) one of the spouses dies before 1 February 2002.
 (3) The following agreements, to the extent that the agreements were valid and would have been enforceable before 1 August 2001, have effect as if this Act had not been passed:
   (a) an agreement to which subsection (1) applies:
   (b) an agreement to which subsection (2) applies, or to the extent that subsection (2) applies.
@@ -878,136 +884,136 @@ Any agreement made before 1 August 2001 under section 21 (as that section existe
 (2) This section is subject to any other provision of this Act that confers jurisdiction on any other court.
 (3) Regardless of subsections (1) and (2), a Family Court Judge may order that proceedings be transferred to the High Court if the Judge is satisfied that the High Court is the more appropriate venue for dealing with the proceedings, because of their complexity or the complexity of a question in issue in them.
 (4) The Family Court Judge may transfer proceedings on the application of a party to the proceedings or on his or her own initiative.
-(5) Proceedings transferred to the High Court continue in that Court as if they had been properly commenced there.
+(5) Proceedings transferred to the High Court continue in that court as if they had been properly commenced there.
 
 ### 23 Who can apply
 (1) The following persons may apply for an order under section 25(1)(a) or (b) or an order or declaration under section 25(3):
   (a) either spouse or partner, or both of them jointly:
   (b) any person on whom the spouses or partners have made conflicting claims in respect of property.
 (2) The Official Assignee in Bankruptcy of the property of either spouse or partner may not apply for an order under section 25(1)(a), but may apply for an order under section 25(1)(b) or an order or declaration under section 25(3).
-(3) If 1 of the spouses or partners has died, the application of this section is modified by section 88 (except in a situation described in section 10D(1)).
+(3) If one of the spouses or partners has died, the application of this section is modified by section 88 (except in a situation described in section 10D(1)).
 
 ### 24 Time limits for making applications
 (1) The following time limits apply in relation to applications made under this Act:
   (a) an application made after a marriage or civil union has been dissolved by an order dissolving the marriage or civil union must be made before the expiry of the period of 12 months after the date on which that order takes effect as a final order:
   (b) an application made after an order has been made declaring a marriage or civil union to be void ab initio must be made before the expiry of the period of 12 months after the date of the making of the order:
   (c) an application made after a de facto relationship has ended must be made no later than 3 years after the de facto relationship ended.
-(2) Regardless of subsection (1), the Court may extend the time for making an application after hearing—
+(2) Regardless of subsection (1), the court may extend the time for making an application after hearing—
   (a) the applicant; and
-  (b) any other persons who would have an interest in the property that would be affected by the order sought and who the Court considers should be heard.
-(3) The Court's power under this section extends to cases where the time for applying has already expired.
-(4) If 1 of the spouses or partners has died, the application of this section is modified by section 89 (except in a situation described in section 10D(1)).
+  (b) any other persons who would have an interest in the property that would be affected by the order sought and who the court considers should be heard.
+(3) The court's power under this section extends to cases where the time for applying has already expired.
+(4) If one of the spouses or partners has died, the application of this section is modified by section 89 (except in a situation described in section 10D(1)).
 
-### 25 When Court may make orders
-(1) On an application under section 23, the Court may—
+### 25 When court may make orders
+(1) On an application under section 23, the court may—
   (a) make any order it considers just—
     (i) determining the respective shares of each spouse or partner in the relationship property or any part of that property; or
     (ii) dividing the relationship property or any part of that property between the spouses or partners:
   (b) make any other order that it is empowered to make by any provision of this Act.
-(2) The Court may not make an order under subsection (1) unless it is satisfied,—
+(2) The court may not make an order under subsection (1) unless it is satisfied,—
   (a) in the case of a marriage or civil union,—
     (i) that the husband and wife or civil union partners are living apart (whether or not they have continued to live in the same residence) or are separated; or
     (ii) that the marriage or civil union has been dissolved; or
   (b) in the case of a de facto relationship, that the de facto partners no longer have a de facto relationship with each other; or
-  (c) that 1 spouse or partner is endangering the relationship property or seriously diminishing its value, by gross mismanagement or by wilful or reckless dissipation of property or earnings; or
+  (c) that one spouse or partner is endangering the relationship property or seriously diminishing its value, by gross mismanagement or by wilful or reckless dissipation of property or earnings; or
   (d) that either spouse or partner is an undischarged bankrupt.
-(3) Regardless of subsection (2), the Court may at any time make any order or declaration relating to the status, ownership, vesting, or possession of any specific property as it considers just.
-(4) To avoid any doubt, but without limiting subsection (3), if proceedings under this Act are pending, the Court, if it considers it appropriate in the circumstances, may make an interim order under that subsection for the sale of any relationship property, and may give any directions it thinks fit with respect to the proceeds.
+(3) Regardless of subsection (2), the court may at any time make any order or declaration relating to the status, ownership, vesting, or possession of any specific property as it considers just.
+(4) To avoid any doubt, but without limiting subsection (3), if proceedings under this Act are pending, the court, if it considers it appropriate in the circumstances, may make an interim order under that subsection for the sale of any relationship property, and may give any directions it thinks fit with respect to the proceeds.
 (5) This section is subject to the other provisions of this Act.
-(6) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 91.
+(6) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 91.
 
 **Orders for benefit of children of marriage, civil union, or de facto relationship**
 
 ### 26 Orders for benefit of children of marriage, civil union, or de facto relationship
-(1) In proceedings under this Act, the Court must have regard to the interests of any minor or dependent children of the marriage, civil union, or de facto relationship and, if it considers it just, may make an order settling the relationship property or any part of that property for the benefit of the children of the marriage, civil union, or de facto relationship or of any of them.
-(2) If the Court makes an order under subsection (1), the Court may reserve such interest (if any) of either spouse or partner, or of both of them, in the relationship property as the Court considers just.
+(1) In proceedings under this Act, the court must have regard to the interests of any minor or dependent children of the marriage, civil union, or de facto relationship and, if it considers it just, may make an order settling the relationship property or any part of that property for the benefit of the children of the marriage, civil union, or de facto relationship or of any of them.
+(2) If the court makes an order under subsection (1), the court may reserve such interest (if any) of either spouse or partner, or of both of them, in the relationship property as the court considers just.
 (3) An order under this section may be made and has effect regardless of any agreement under Part 6.
 
 **Postponement of sharing**
 
 ### 26A Postponement of sharing
-(1) On the division of relationship property under this Act, the Court may make an order postponing the vesting of any share in the relationship property, either wholly or in part, until a specified future date or until the occurrence of a specified event if the Court is satisfied that immediate vesting would cause undue hardship for a spouse or partner who is the principal provider of ongoing daily care for 1 or more minor or dependent children of the marriage, civil union, or de facto relationship.
-(2) The Court may order postponement of vesting under this section only for as long as necessary, and only to the extent necessary, to alleviate the undue hardship.
+(1) On the division of relationship property under this Act, the court may make an order postponing the vesting of any share in the relationship property, either wholly or in part, until a specified future date or until the occurrence of a specified event if the court is satisfied that immediate vesting would cause undue hardship for a spouse or partner who is the principal provider of ongoing daily care for 1 or more minor or dependent children of the marriage, civil union, or de facto relationship.
+(2) The court may order postponement of vesting under this section only for as long as necessary, and only to the extent necessary, to alleviate the undue hardship.
 (3) Nothing in this section limits section 33.
 
 **Occupation orders, tenancy orders, and furniture orders**
 
 ### 27 Occupation orders
-(1) The Court may make an order granting to either spouse or partner, for such period or periods and on such terms and subject to such conditions as the Court thinks fit, the right personally to occupy the family home or any other premises forming part of the relationship property.
-(2) Where an order is made under subsection (1) of this section, the person in whose favour it is made shall be entitled, to the exclusion of the other spouse or partner, personally to occupy the family home or the other premises to which the order relates.
-(3) an order made under subsection (1) of this section against a spouse or partner shall be enforceable against the personal representative of the person against whom it is made, unless the Court otherwise directs.
-(4) An order made under subsection (1) of this section by a District Court or a Family Court shall be enforceable as if it were an order for recovery of land made pursuant to section 31(1)(d) of the District Courts Act 1947.
-(5) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 91.
+(1) The court may make an order granting to either spouse or partner, for such period or periods and on such terms and subject to such conditions as the court thinks fit, the right personally to occupy the family home or any other premises forming part of the relationship property.
+(2) Where an order is made under subsection (1), the person in whose favour it is made shall be entitled, to the exclusion of the other spouse or partner, personally to occupy the family home or the other premises to which the order relates.
+(3) An order made under subsection (1) against a spouse or partner shall be enforceable against the personal representative of the person against whom it is made, unless the court otherwise directs.
+(4) An order made under subsection (1) by a District Court or a Family Court shall be enforceable as if it were an order for recovery of land made pursuant to section 31(1)(d) of the District Courts Act 1947.
+(5) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 91.
 
 ### 28 Orders with respect to tenancy
-(1) Regardless of section 23, the Court may at any time, on the application of either spouse or partner, make an order vesting in either spouse or partner (the applicant) the tenancy of any dwellinghouse.
-(1A) The Court may not make an order under this section unless, at the time of the making of the order,—
+(1) Regardless of section 23, the court may at any time, on the application of either spouse or partner, make an order vesting in either spouse or partner (the applicant) the tenancy of any dwellinghouse.
+(1A) The court may not make an order under this section unless, at the time of the making of the order,—
   (a) the spouse or partner against whom the order is made (the other party) is or was the sole tenant of the dwellinghouse, or is or was a tenant holding jointly or in common with the applicant; and
   (b) the other party is a tenant of the dwellinghouse; and
   (c) either spouse or partner is residing in the dwellinghouse.
-(2) On the taking effect of an order made under subsection (1) of this section, unless the tenancy is sooner lawfully determined, the applicant shall become the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of that order, and the other party shall cease to be the tenant. Every such order shall have effect and may be enforced as if it were an order of the Court for possession of the land granted in favour of the applicant.
-(3) Nothing in this section or in any order made under this section shall be construed to limit or affect the operation of any enactment or rule of law for the time being applicable to any tenancy to which this section applies or to the dwellinghouse held under the tenancy, or to authorise the Court to vary, except by vesting or revesting the tenancy pursuant to this section, any express or implied term or condition of the tenancy.
-(4) On the application of the other party or his personal representative in any case in which an order is made under subsection (1) of this section, the Court may, if it thinks fit, make an order discharging the first-mentioned order and revesting the tenancy accordingly.
-(5) On the taking effect of any revesting order made under subsection (4) of this section, unless the tenancy is sooner lawfully determined, the person in whose favour it is made shall become the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of the revesting order.
+(2) On the taking effect of an order made under subsection (1), unless the tenancy is sooner lawfully determined, the applicant shall become the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of that order, and the other party shall cease to be the tenant. Every such order shall have effect and may be enforced as if it were an order of the court for possession of the land granted in favour of the applicant.
+(3) Nothing in this section or in any order made under this section shall be construed to limit or affect the operation of any enactment or rule of law for the time being applicable to any tenancy to which this section applies or to the dwellinghouse held under the tenancy, or to authorise the court to vary, except by vesting or revesting the tenancy pursuant to this section, any express or implied term or condition of the tenancy.
+(4) On the application of the other party or his personal representative in any case in which an order is made under subsection (1), the court may, if it thinks fit, make an order discharging the first-mentioned order and revesting the tenancy accordingly.
+(5) On the taking effect of any revesting order made under subsection (4), unless the tenancy is sooner lawfully determined, the person in whose favour it is made shall become the tenant of the dwellinghouse upon and subject to the terms and conditions of the tenancy in force at the time of the making of the revesting order.
 (5A) In this section, dwellinghouse means any building or part of a building let as a separate dwelling; and includes—
-  (a) Any furniture or other chattels let with the building or part of a building; and
-  (b) Any land, outbuildings, or parts of buildings included in the tenancy.
+  (a) any furniture or other chattels let with the building or part of a building; and
+  (b) any land, outbuildings, or parts of buildings included in the tenancy.
 (6) For the purposes of this section, the term tenant, in relation to any dwellinghouse, includes any person whose tenancy has expired or been determined, and who is for the time being deemed under or by virtue of any enactment or rule of law to continue to be the tenant of the dwellinghouse; and the term tenancy has a corresponding meaning.
-(7) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 91.
+(7) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 91.
 
 ### 28A Factors affecting occupation orders and orders with respect to tenancy
-(1) The Court—shall have particular regard to the need to provide a home for any minor or dependent child of the marriage, civil union, or de facto relationship, and may also have regard to all other relevant circumstances.
-  (a) In determining whether to make an order under section 27(1) or section 28(1) of this Act; and
-  (b) In determining, in relation to an order made under section 27(1) of this Act, the period or periods, the terms (if any), and the conditions (if any) of the order,—
-(2) Nothing in this section shall limit the generality of section 26(1) of this Act.
-(3) In proceedings commenced after the death of 1 of the spouses or partners, this section is affected by section 91.
+(1) The court—shall have particular regard to the need to provide a home for any minor or dependent child of the marriage, civil union, or de facto relationship, and may also have regard to all other relevant circumstances.
+  (a) in determining whether to make an order under section 27(1) or section 28(1); and
+  (b) in determining, in relation to an order made under section 27(1), the period or periods, the terms (if any), and the conditions (if any) of the order,—
+(2) Nothing in this section shall limit the generality of section 26(1).
+(3) In proceedings commenced after the death of one of the spouses or partners, this section is affected by section 91.
 
 ### 28B Ancillary furniture order
-(1) On or after making an occupation order under section 27(1) or a tenancy order under section 28(1), the Court may make an order granting, to the person in whose favour the order is or has been made, the use of all or any of the furniture, household appliances, and household effects in the family home or other premises to which the occupation order relates or (as the case requires) in the dwellinghouse to which the tenancy order relates.
-(2) An order made under this section may be for such period, and on such terms and conditions, as the Court thinks fit.
+(1) On or after making an occupation order under section 27(1) or a tenancy order under section 28(1), the court may make an order granting, to the person in whose favour the order is or has been made, the use of all or any of the furniture, household appliances, and household effects in the family home or other premises to which the occupation order relates or (as the case requires) in the dwellinghouse to which the tenancy order relates.
+(2) An order made under this section may be for such period, and on such terms and conditions, as the court thinks fit.
 
 ### 28C Furniture required to equip another household
-(1) Regardless of section 23, the Court may at any time make an order granting to either the spouse or partner (the applicant) the possession and use of all or any of the furniture, household appliances, and household effects in—
+(1) Regardless of section 23, the court may at any time make an order granting to either the spouse or partner (the applicant) the possession and use of all or any of the furniture, household appliances, and household effects in—
   (a) the family home or any other premises forming part of the relationship property; or
   (b) any dwellinghouse in respect of which a tenancy order could be made under section 28(1) in favour of the applicant.
 (2) Either spouse or partner may apply for an order under this section.
-(3) The Court may make an order under this section only if it is satisfied that the furniture, household appliances, and household effects are reasonably required to equip another dwellinghouse in which the applicant is or will be living (whether alone or with 1 or more children of the marriage, civil union, or de facto relationship.
-(4) In determining whether to make an order under this section, the Court must have particular regard to any need of the applicant to have suitable furniture, household appliances, and household effects to provide for the needs of any children of the marriage, civil union, or de facto relationship, where those children live, or will be living, with the applicant.
+(3) The court may make an order under this section only if it is satisfied that the furniture, household appliances, and household effects are reasonably required to equip another dwellinghouse in which the applicant is or will be living (whether alone or with 1 or more children of the marriage, civil union, or de facto relationship).
+(4) In determining whether to make an order under this section, the court must have particular regard to any need of the applicant to have suitable furniture, household appliances, and household effects to provide for the needs of any children of the marriage, civil union, or de facto relationship, where those children live, or will be living, with the applicant.
 (5) Subsection (4) does not limit section 26(1).
-(6) An order made under this section may be for such period, and on such terms and conditions, as the Court thinks fit.
+(6) An order made under this section may be for such period, and on such terms and conditions, as the court thinks fit.
 
 ### 28D Effect of furniture orders
 (1) The person in whose favour an order is made under section 28B or section 28C is entitled, to the exclusion of the person against whom the order is made, to the possession of the furniture, household appliances, and household effects to which the order relates for as long as the order is in force.
-(2) An order to which this section applies has effect and may be enforced as if it were an order of the Court for delivery of chattels granted in favour of the person for whose benefit the order is made.
+(2) An order to which this section applies has effect and may be enforced as if it were an order of the court for delivery of chattels granted in favour of the person for whose benefit the order is made.
 
 **Hire purchase agreements**
 
 ### 29 Orders when property subject to hire purchase agreement
-Where any property which is the subject of an application under this Act is in the possession of either or both spouses or partners under a hire purchase agreement or conditional sale agreement or under an agreement to hire or lease, the Court may make an order vesting the rights and obligations under the agreement in either spouse or partner and any such order shall have effect notwithstanding anything in any agreement.
+Where any property which is the subject of an application under this Act is in the possession of either or both spouses or partners under a hire purchase agreement or conditional sale agreement or under an agreement to hire or lease, the court may make an order vesting the rights and obligations under the agreement in either spouse or partner and any such order shall have effect notwithstanding anything in any agreement.
 
 **Insurance policies**
 
 ### 30 Orders in relation to insurance policies
-Where an application under this Act relates to any policy of assurance or insurance the Court may—
-  (a) Vest the policy in either spouse or partner subject to such conditions (including the payment of premiums by either spouse or partner) as it thinks just:
-  (b) Direct the payment of a proportion of the surrender or paid-up value from one spouse or partner to the other:
-  (c) Make such other order as it thinks just.
+Where an application under this Act relates to any policy of assurance or insurance the court may—
+  (a) vest the policy in either spouse or partner subject to such conditions (including the payment of premiums by either spouse or partner) as it thinks just:
+  (b) direct the payment of a proportion of the surrender or paid-up value from one spouse or partner to the other:
+  (c) make such other order as it thinks just.
 
 **Superannuation scheme entitlements**
 
 ### 31 Orders in relation to superannuation rights
-(1) Where the relationship property to which any application under this Act relates includes property of the kind described in section 8(1)(i) of this Act, the Court may make any order under this Act, or any provision of any such order, conditional on either spouse or partner entering into an arrangement or deed of covenant designed to ensure that the other spouse or partner receives his or her appropriate share of that property, and every arrangement or deed entered into pursuant to any such condition shall have effect according to its tenor.
-(2) A copy of any arrangement or deed entered into pursuant to subsection (1) of this section may be served on the manager of the superannuation scheme from which the entitlement is derived.
+(1) Where the relationship property to which any application under this Act relates includes property of the kind described in section 8(1)(i), the court may make any order under this Act, or any provision of any such order, conditional on either spouse or partner entering into an arrangement or deed of covenant designed to ensure that the other spouse or partner receives his or her appropriate share of that property, and every arrangement or deed entered into pursuant to any such condition shall have effect according to its tenor.
+(2) A copy of any arrangement or deed entered into pursuant to subsection (1) may be served on the manager of the superannuation scheme from which the entitlement is derived.
 (3) Where a copy of any such arrangement or deed is served on any such manager he or she shall, notwithstanding the provisions of any Act, deed, or rules governing the scheme, be bound by the provisions of the arrangement or deed.
 
 **Orders relating to maintenance and child support**
 
 ### 32 Orders relating to maintenance and child support
-(1) In any proceedings, the Court must have regard to—
+(1) In any proceedings, the court must have regard to—
   (a) any order made under the Family Proceedings Act 1980 for the maintenance of a spouse or partner; and
-  (b) any child support payable by 1 spouse or partner, under a formula assessment under the Child Support Act 1991, for a child of the marriage, civil union, or de facto relationship; and
+  (b) any child support payable by one spouse or partner, under a formula assessment under the Child Support Act 1991, for a child of the marriage, civil union, or de facto relationship; and
   (c) any voluntary agreement, whether or not the agreement has been accepted under Part 3 of the Child Support Act 1991.
-(2) In any proceedings, the Court, if it considers it just, may—
+(2) In any proceedings, the court, if it considers it just, may—
   (a) make an order under the Family Proceedings Act 1980 for the maintenance of a spouse or partner:
   (b) discharge, vary, extend, or suspend an order made under the Family Proceedings Act 1980 for the maintenance of a spouse or partner:
   (c) make any order in relation to child support that may be made under section 106 or section 109 or section 112 of the Child Support Act 1991, as if an application had been made under section 104 or (as the case requires) section 108 or section 112 of that Act:
@@ -1019,76 +1025,68 @@ Where an application under this Act relates to any policy of assurance or insura
 
 **Ancillary powers**
 
-### 33 Ancillary powers of Court
-(1) The Court may make all such other orders and give such directions as may be necessary or expedient to give effect, or better effect, to any order made under any of the provisions of sections 25 to 32 of this Act.
-(2) The Court may, at any time it thinks fit, extend, vary, cancel, or discharge any order made under any of the provisions of sections 26 to 32 of this Act, and may vary any terms or conditions upon or subject to which any such order has been made.
-(3) In particular, but without limiting the generality of subsections (1) and (2), the Court may make any 1 or more of the following orders:
+### 33 Ancillary powers of court
+(1) The court may make all such other orders and give such directions as may be necessary or expedient to give effect, or better effect, to any order made under any of the provisions of sections 25 to 32.
+(2) The court may, at any time it thinks fit, extend, vary, cancel, or discharge any order made under any of the provisions of sections 26 to 32, and may vary any terms or conditions upon or subject to which any such order has been made.
+(3) In particular, but without limiting the generality of subsections (1) and (2), the court may make any 1 or more of the following orders:
   (a) an order for the sale of the relationship property or any part of the relationship property, and for the division, vesting, or settlement of the proceeds:
-  (b) in the case of property owned by both spouses or partners jointly, an order vesting the property in both spouses or partners in common in such shares as the Court considers just:
+  (b) in the case of property owned by both spouses or partners jointly, an order vesting the property in both spouses or partners in common in such shares as the court considers just:
   (c) an order vesting the relationship property, or any part of the relationship property, in either spouse or partner:
   (d) an order postponing the vesting of any share in the relationship property, or any part of such share, until a future date specified in the order or until the occurrence of a future event specified in the order:
   (e) an order for the partition or vesting of any property:
-  (f) in the case of property owned by 1 spouse or partner, an order vesting the property in both spouses or partners jointly or in common in shares that the Court considers just:
-  (g) in the case of property owned by both spouses or partners, jointly or in common, an order vesting the property in 1 of them:
+  (f) in the case of property owned by one spouse or partner, an order vesting the property in both spouses or partners jointly or in common in shares that the court considers just:
+  (g) in the case of property owned by both spouses or partners, jointly or in common, an order vesting the property in one of them:
   (h) an order for the cancellation of the settlement of a joint family home:
-  (i) an order for the payment of a sum of money by 1 spouse or partner to the other:
+  (i) an order for the payment of a sum of money by one spouse or partner to the other:
   (j) an order for the transfer of land, or of any interest in land, including a lease, licence, or tenancy:
   (k) an order for the transfer of shares or stock, or of mortgages, charges, debentures, or other securities, or of the title or documents of title of any property:
   (l) an order for the transfer of rights or obligations under any instrument or contract, and an order of this kind has effect regardless of any provision or term of the instrument or contract:
   (m) an order varying the terms of any trust or settlement, other than a trust under a will or other testamentary disposition:
-  (n) in the case of money or other property that is part of the separate property of 1 spouse or partner, an order requiring that spouse or partner to pay the money, or transfer the other property, to the other.
-(4) Where under any order made under this Act one spouse or partner is or may become liable to pay to the other a sum of money, the Court may direct that it shall be paid either in one sum or in instalments, and either with or without security, and otherwise in such manner and subject to such conditions (including a condition requiring the payment of interest) as the Court thinks fit.
-(5) Where, pursuant to this Act, the Court makes an order for the sale of any relationship property and for the division, application, or settlement of the proceeds, the Court may appoint a person to sell the property and divide, apply, or settle the proceeds accordingly; and the execution of any instrument by the person so appointed shall have the same force and validity as if it had been executed by the person in whom the property is vested.
-(6) Any order under this Act may, subject to the provisions of this Act, be made upon such terms and subject to such conditions (if any) as the Court thinks fit.
-(7) Where the Court, by any order under this Act, appoints a person (including a Registrar or other officer of the Court) to sell any property and to divide, apply, and settle the proceeds, the Court may make provision in that order for the payment of remuneration to that person and for the reimbursement of his or her expenses.
+  (n) in the case of money or other property that is part of the separate property of one spouse or partner, an order requiring that spouse or partner to pay the money, or transfer the other property, to the other.
+(4) Where under any order made under this Act one spouse or partner is or may become liable to pay to the other a sum of money, the court may direct that it shall be paid either in 1 sum or in instalments, and either with or without security, and otherwise in such manner and subject to such conditions (including a condition requiring the payment of interest) as the court thinks fit.
+(5) Where, pursuant to this Act, the court makes an order for the sale of any relationship property and for the division, application, or settlement of the proceeds, the court may appoint a person to sell the property and divide, apply, or settle the proceeds accordingly; and the execution of any instrument by the person so appointed shall have the same force and validity as if it had been executed by the person in whom the property is vested.
+(6) Any order under this Act may, subject to the provisions of this Act, be made upon such terms and subject to such conditions (if any) as the court thinks fit.
+(7) Where the court, by any order under this Act, appoints a person (including a Registrar or other officer of the court) to sell any property and to divide, apply, and settle the proceeds, the court may make provision in that order for the payment of remuneration to that person and for the reimbursement of his or her expenses.
 
-### 34 Discretion of Court as to orders
-Where application is made to the Court for any order under any provision of this Act, the Court may, subject to the provisions of the Act, make any other order under this Act which could have been made if application for that other order had been made when the first-mentioned application was made.
+### 34 Discretion of court as to orders
+Where application is made to the court for any order under any provision of this Act, the court may, subject to the provisions of the Act, make any other order under this Act which could have been made if application for that other order had been made when the first-mentioned application was made.
 
 **Miscellaneous provisions**
 
-### 35 Proceedings may be in private
-(1) Any application or appeal under this Act shall be heard in private if either spouse or partner so desires it.
-(2) Subject to subsection (1) of this section, where any application is made under this Act to a District Court, the provisions of section 159 of the Family Proceedings Act 1980 shall apply.
+### 35 Attendance at hearings
+Section 11A of the Family Courts Act 1980 applies to the hearing of any application or appeal under this Act—
+  (a) in a Family Court:
+  (b) in any other court, in which case—
+    (i) references in that section to the Family Court or court must be read as references to that other court; and
+    (ii) references in that section to the Family Court Judge or the Judge must be read as references to the Judge presiding at the hearing.
 
-### 35A Restriction of publication of reports of proceedings
-(1) No person shall publish any report of proceedings under this Act (other than criminal proceedings) except with the leave of the Court which heard the proceedings.
-(2) Every person who contravenes subsection (1) commits an offence against this Act, and is liable on summary conviction,—
-  (a) in the case of an individual, to a fine not exceeding $1,000:
-  (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(3) Nothing in this section shall limit—
-  (a) The provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to judicial proceedings; or
-  (b) The power of any Court to punish any contempt of Court.
-(4) Nothing in this section applies to the publication of any of the following:
-  (a) a report in a publication that—
-    (i) is genuinely of a professional or technical nature; and
-    (ii) is intended for circulation among members of the legal or accountancy professions, officers of the Public Service, or persons engaged in commercial occupations:
-  (b) statistical information relating to proceedings under this Act:
-  (c) the results of any genuine research relating to proceedings under this Act, as long as the publication does not include any name or particulars likely to lead to the identification of any of the parties to the proceedings, or of any other person to whom the proceedings relate.
+### 35A Publication of reports of proceedings
+Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in a Family Court:
+  (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 36 Evidence
-In all proceedings under this Act, and whether by way of hearing in the first instance or by way of appeal or otherwise howsoever, the Court may receive any evidence that it thinks fit, whether it is otherwise admissible in a Court of law or not.
+In all proceedings under this Act, and whether by way of hearing in the first instance or by way of appeal or otherwise howsoever, the court may receive any evidence that it thinks fit, whether it is otherwise admissible in a court of law or not.
 
 ### 37 Persons entitled to be heard
-(1) Before any order is made under this Act, such notice as the Court directs shall be given to any person having an interest in the property which would be affected by the order, and any such person shall be entitled to appear and to be heard in the matter as a party to the application.
-(2) In proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 92.
+(1) Before any order is made under this Act, such notice as the court directs shall be given to any person having an interest in the property which would be affected by the order, and any such person shall be entitled to appear and to be heard in the matter as a party to the application.
+(2) In proceedings commenced after the death of one of the spouses or partners, this section is modified by section 92.
 
 ### 37A Court may appoint lawyer for children
-(1) The Court may appoint a lawyer to represent any minor or dependent children of the marriage or, as the case requires, any minor or dependent children of the civil union or de facto relationship in any proceedings under this Act if, in the opinion of the Court, special circumstances make the appointment necessary or desirable.
+(1) The court may appoint a lawyer to represent any minor or dependent children of the marriage or, as the case requires, any minor or dependent children of the civil union or de facto relationship in any proceedings under this Act if, in the opinion of the court, special circumstances make the appointment necessary or desirable.
 (2) Fees payable to a lawyer appointed under subsection (1), and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
-  (b) must be paid by 1 or more of the parties to the proceedings as ordered by the Court.
-(3) However, if the Court thinks it proper, the Court may order that the fees and expenses be paid out of public money appropriated by Parliament for the purpose.
-(4) If the Crown pays the amount payable under subsection (2)(b), the amount is a debt due to the Crown by the party or parties ordered to pay it and, if that party or those parties do not pay that amount, the Crown may recover it by order of the Court in the same manner as a judgment of that Court.
+  (b) must be paid by 1 or more of the parties to the proceedings as ordered by the court.
+(3) However, if the court thinks it proper, the court may order that the fees and expenses be paid out of public money appropriated by Parliament for the purpose.
+(4) If the Crown pays the amount payable under subsection (2)(b), the amount is a debt due to the Crown by the party or parties ordered to pay it and, if that party or those parties do not pay that amount, the Crown may recover it by order of the court in the same manner as a judgment of that court.
 
 ### 38 Inquiries, and settlement of schemes
-(1) The Court may, on any application under this Act, appoint the Registrar of the Court, or such other person as the Court thinks fit, to make an inquiry into the matters of fact in issue between the parties, and to report thereon to the Court.
+(1) The court may, on any application under this Act, appoint the Registrar of the court, or such other person as the court thinks fit, to make an inquiry into the matters of fact in issue between the parties, and to report thereon to the court.
 (2) A copy of every such report shall be given to the lawyer appearing for each party to the proceedings or, if any party is not represented by a lawyer, to that party. Any party may tender evidence on any matter referred to in any such report.
-(3) The Court may, on any application under this Act, with the consent of the parties, appoint the Registrar of the Court, or such other person as the Court thinks fit, to settle a scheme in respect of the property comprised in the application and to submit it to the Court for approval.
-(4) Fees payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3) of this section, and reasonable expenses incurred,—
-  (a) May be determined in accordance with regulations made under this Act; and
-  (b) Are payable out of public money appropriated by Parliament for the purpose.
-  Provided that, if the Court thinks proper, it may order any party to refund to the Crown such amount as the Court specifies in respect of those fees and expenses, and that amount shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that Court.
+(3) The court may, on any application under this Act, with the consent of the parties, appoint the Registrar of the court, or such other person as the court thinks fit, to settle a scheme in respect of the property comprised in the application and to submit it to the court for approval.
+(4) Fees payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3), and reasonable expenses incurred,—provided that, if the court thinks proper, it may order any party to refund to the Crown such amount as the court specifies in respect of those fees and expenses, and that amount shall be a debt due to the Crown by that party and, in default of payment of the amount, payment thereof may be enforced, by order of a District Court or the High Court as the case may require, in the same manner as a judgment of that court.
+  (a) may be determined in accordance with regulations made under this Act; and
+  (b) are payable out of public money appropriated by Parliament for the purpose:
 
 **Appeals**
 
@@ -1101,7 +1099,7 @@ In all proceedings under this Act, and whether by way of hearing in the first in
 (3) The High Court Rules and sections 74 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (2) as if it were an appeal under section 72 of that Act.
 (4) On the ex parte application of the appellant, the Family Court or District Court (as the case requires) may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
 (5) Subsection (4) overrides subsection (3).
-(6) If the appeal relates to proceedings commenced after the death of 1 of the spouses or partners, this section is modified by section 93.
+(6) If the appeal relates to proceedings commenced after the death of one of the spouses or partners, this section is modified by section 93.
 
 ### 39A Procedure on appeal to High Court
 [Repealed]
@@ -1116,45 +1114,45 @@ In all proceedings under this Act, and whether by way of hearing in the first in
 **Costs**
 
 ### 40 Costs
-Subject to any rules of procedure made for the purposes of this Act, in any proceedings under this Act the Court may make such order as to costs as it thinks fit.
+Subject to any rules of procedure made for the purposes of this Act, in any proceedings under this Act the court may make such order as to costs as it thinks fit.
 
-**Registration of Orders**
+**Registration of orders**
 
 ### 41 Registration of orders
-(1) Where an order made under this Act relates to any estate or interest in land, a copy of the order sealed with the seal of the Court shall, upon application by either of the parties and upon payment of the prescribed fee, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, or by the Mining Registrar in any case where the order relates to land comprised in a licence within the meaning of the Mining Tenures Registration Act 1962 that has not been registered under the Land Transfer Act 1952.
+(1) Where an order made under this Act relates to any estate or interest in land, a copy of the order sealed with the seal of the court shall, upon application by either of the parties and upon payment of the prescribed fee, be registered by the District Land Registrar or the Registrar of Deeds, as the case may be, or by the Mining Registrar in any case where the order relates to land comprised in a licence within the meaning of the Mining Tenures Registration Act 1962 that has not been registered under the Land Transfer Act 1952.
 (2) For the purposes of this section an order to which this section applies shall cease to have effect where—
-  (a) The order is discharged or cancelled by the Court under section 33(2) of this Act; or
-  (b) The person in whose favour and the person against whom the order is made so agree in writing and the agreement is signed and witnessed in accordance with section 21F(2), (4), and (5); or
-  (c) The period for which the order was made has expired; or
-  (d) The Court so directs in any other case.
-(3) Where the District Land Registrar or the Registrar of Deeds or the Mining Registrar, as the case may be, is satisfied that an order registered under subsection (1) of this section has ceased to have effect, he shall, on application in that behalf, endorse the register accordingly.
+  (a) the order is discharged or cancelled by the court under section 33(2); or
+  (b) the person in whose favour and the person against whom the order is made so agree in writing and the agreement is signed and witnessed in accordance with section 21F(2), (4), and (5); or
+  (c) the period for which the order was made has expired; or
+  (d) the court so directs in any other case.
+(3) Where the District Land Registrar or the Registrar of Deeds or the Mining Registrar, as the case may be, is satisfied that an order registered under subsection (1) has ceased to have effect, he shall, on application in that behalf, endorse the register accordingly.
 (4) Where an order made under any of the provisions of this Act relates to any stocks, shares or other company securities, or to any other property the title to which passes upon or is evidenced by registration, the foregoing provisions of this section shall apply with all necessary modifications to such stocks, shares, securities or other property as if they were estates or interests in land.
 
 **Protection of spouses' or partners' rights**
 
 ### 42 Notice of interest against title
 (1) A claim to an interest, pursuant to this Act, in any land subject to the Land Transfer Act 1952 shall be deemed to be a registrable interest for the purposes of that Act.
-(2) Notice of a claim under subsection (1) of this section shall be effected by lodging a duly completed notice in the prescribed form with the District Land Registrar.
-(3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 137 of that Act and the provisions of that Act except subsections (3) and (4) of section 141, shall apply subject to the following modifications—
-  (a) Any application under section 143 or section 145 or section 145A of that Act in respect of any notice under this section may be made to a Family Court or a District Court or the High Court; and
-  (b) An order under section 148 of that Act authorising the receipt of a second notice under this section may be made by a Family Court or a District Court or the High Court.
+(2) Notice of a claim under subsection (1) shall be effected by lodging a duly completed notice in the prescribed form with the District Land Registrar.
+(3) Every notice so lodged shall have effect as if it were a caveat lodged pursuant to section 137 of that Act and the provisions of that Act, except subsections (3) and (4) of section 141, shall apply subject to the following modifications:
+  (a) any application under section 143 or section 145 or section 145A of that Act in respect of any notice under this section may be made to a Family Court or a District Court or the High Court; and
+  (b) an order under section 148 of that Act authorising the receipt of a second notice under this section may be made by a Family Court or a District Court or the High Court.
 (4) In the case of land that is not subject to the Land Transfer Act 1952, notice of a claim to an interest pursuant to this Act may be registered in the manner in which deeds and other instruments affecting the land may be registered.
-(5) A notice under subsection (2) or subsection (4) of this section may be registered notwithstanding that no proceedings under this Act are pending or in contemplation, and notwithstanding that there is no dispute between the parties.
+(5) A notice under subsection (2) or subsection (4) may be registered notwithstanding that no proceedings under this Act are pending or in contemplation, and notwithstanding that there is no dispute between the parties.
 
 ### 43 Dispositions may be restrained
-(1) Where it appears to the High Court or a District Court or a Family Court that any disposition of property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any other person (party B) under this Act, the Court may, on such notice being given as the Court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into Court to be dealt with as the Court directs.
-(1A) The Court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
-(2) Any disposition made after an order of the Court under subsection (1) of this section restraining the making of the disposition has been served on or come to the notice of the person disposing of the property, or any auctioneer, agent, or lawyer acting in connection with the disposition, shall be void, and the Court may consider any claim of any person interested and may make such order as it thinks just.
+(1) Where it appears to the High Court or a District Court or a Family Court that any disposition of property is about to be made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any other person (party B) under this Act, the court may, on such notice being given as the court may direct, by order restrain the making of the disposition or may order any proceeds of the disposition to be paid into court to be dealt with as the court directs.
+(1A) The court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
+(2) Any disposition made after an order of the court under subsection (1) restraining the making of the disposition has been served on or come to the notice of the person disposing of the property, or any auctioneer, agent, or lawyer acting in connection with the disposition, shall be void, and the court may consider any claim of any person interested and may make such order as it thinks just.
 
 ### 44 Dispositions may be set aside
-(1) Where the High Court or a District Court or a Family Court is satisfied that any disposition of property has been made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any person (party B) under this Act, the Court may make any order under subsection (2) of this section.
-(1A) The Court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
-(2) In any case to which subsection (1) of this section applies, the Court may, subject to subsection (4) of this section,—
-  (a) Order that any person to whom the disposition was made and who received the property otherwise than in good faith and for valuable consideration, or his or her personal representative, shall transfer the property or any part thereof to such person as the Court directs; or
-  (b) Order that any person to whom the disposition was made and who received the property otherwise than in good faith and for adequate consideration, or his or her personal representative, shall pay into Court, or to such person as the Court directs, a sum not exceeding the difference between the value of the consideration (if any) and the value of the property; or
-  (c) Order that any person who has, otherwise than in good faith and for valuable consideration, received any interest in the property from the person to whom the disposition was so made, or his or her personal representative, or any person who received that interest from any such person otherwise than in good faith and for valuable consideration, shall transfer that interest to such person as the Court directs, or shall pay into Court or to such person as the Court directs a sum not exceeding the value of the interest.
-(3) For the purposes of giving effect to any order under subsection (2) of this section, the Court may make such further order as it thinks fit.
-(4) Relief (whether under this section, or in equity, or otherwise) in any case to which subsection (1) of this section applies shall be denied wholly or in part, if the person from whom relief is sought received the property or interest in good faith, and has so altered his or her position in reliance on his or her having an indefeasible interest in the property or interest that in the opinion of the Court, having regard to all possible implications in respect of other persons, it is inequitable to grant relief, or to grant relief in full, as the case may be.
+(1) Where the High Court or a District Court or a Family Court is satisfied that any disposition of property has been made, whether for value or not, by or on behalf of or by direction of or in the interests of any person in order to defeat the claim or rights of any person (party B) under this Act, the court may make any order under subsection (2).
+(1A) The court may make an order under this section on the application of party B, or (in any proceedings under this Act or otherwise) on its own initiative.
+(2) In any case to which subsection (1) applies, the court may, subject to subsection (4),—
+  (a) order that any person to whom the disposition was made and who received the property otherwise than in good faith and for valuable consideration, or his or her personal representative, shall transfer the property or any part thereof to such person as the court directs; or
+  (b) order that any person to whom the disposition was made and who received the property otherwise than in good faith and for adequate consideration, or his or her personal representative, shall pay into court, or to such person as the court directs, a sum not exceeding the difference between the value of the consideration (if any) and the value of the property; or
+  (c) order that any person who has, otherwise than in good faith and for valuable consideration, received any interest in the property from the person to whom the disposition was so made, or his or her personal representative, or any person who received that interest from any such person otherwise than in good faith and for valuable consideration, shall transfer that interest to such person as the court directs, or shall pay into court or to such person as the court directs a sum not exceeding the value of the interest.
+(3) For the purposes of giving effect to any order under subsection (2), the court may make such further order as it thinks fit.
+(4) Relief (whether under this section, or in equity, or otherwise) in any case to which subsection (1) applies shall be denied wholly or in part, if the person from whom relief is sought received the property or interest in good faith, and has so altered his or her position in reliance on his or her having an indefeasible interest in the property or interest that in the opinion of the court, having regard to all possible implications in respect of other persons, it is inequitable to grant relief, or to grant relief in full, as the case may be.
 
 **Orders relating to trusts**
 
@@ -1162,24 +1160,24 @@ Subject to any rules of procedure made for the purposes of this Act, in any proc
 Sections 44B and 44C do not apply to a trust under a will or other testamentary disposition.
 
 ### 44B Court may require party to disclose information about dispositions of property to trust
-(1) In any proceedings for an order under section 25(1)(a), the Court may make an order requiring a spouse or partner to disclose to the Court such information as the Court specifies relating to the disposition of relationship property by either or both spouses or partners to a trust since the marriage, the civil union, or the de facto relationship began.
-(2) The Court may make an order under this section on the application of either party to the proceedings or on its own initiative.
+(1) In any proceedings for an order under section 25(1)(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a trust since the marriage, the civil union, or the de facto relationship began.
+(2) The court may make an order under this section on the application of either party to the proceedings or on its own initiative.
 
 ### 44C Compensation for property disposed of to trust
-(1) This section applies if the Court is satisfied—
+(1) This section applies if the court is satisfied—
   (a) that, since the marriage, the civil union, or the de facto relationship began, either or both spouses or partners have disposed of relationship property to a trust; and
-  (b) that the disposition has the effect of defeating the claim or rights of 1 of the spouses or partners; and
+  (b) that the disposition has the effect of defeating the claim or rights of one of the spouses or partners; and
   (c) that the disposition is not one to which section 44 applies.
-(2) If this section applies, the Court may make 1 or more of the following orders for the purpose of compensating the spouse or partner whose claim or rights under this Act have been defeated by the disposition:
-  (a) an order requiring 1 spouse or partner to pay to the other spouse or partner a sum of money, whether out of relationship property or separate property:
-  (b) an order requiring 1 spouse or partner to transfer to the other spouse or partner any property, whether the property is relationship property or separate property:
-  (c) an order requiring the trustees of the trust to pay to 1 spouse or partner the whole or part of the income of the trust, either for a specified period or until a specified amount has been paid.
-(3) The Court must not make an order under subsection (2)(c) if—
+(2) If this section applies, the court may make 1 or more of the following orders for the purpose of compensating the spouse or partner whose claim or rights under this Act have been defeated by the disposition:
+  (a) an order requiring one spouse or partner to pay to the other spouse or partner a sum of money, whether out of relationship property or separate property:
+  (b) an order requiring one spouse or partner to transfer to the other spouse or partner any property, whether the property is relationship property or separate property:
+  (c) an order requiring the trustees of the trust to pay to one spouse or partner the whole or part of the income of the trust, either for a specified period or until a specified amount has been paid.
+(3) The court must not make an order under subsection (2)(c) if—
   (a) an order under subsection (2)(a) or (b) would compensate the spouse or partner; or
   (b) a third person has in good faith altered that person's position—
     (i) in reliance on the ability of the trustees to distribute the income of the trust in terms of the instrument creating the trust; and
     (ii) in such a way that it would be unjust to make the order.
-(4) The Court may make 1 or more orders under subsection (2) if it considers it just to do so, having regard to—
+(4) The court may make 1 or more orders under subsection (2) if it considers it just to do so, having regard to—
   (a) the value of the relationship property disposed of to the trust:
   (b) the value of the relationship property available for division:
   (c) the date or dates on which relationship property was disposed of to the trust:
@@ -1191,7 +1189,7 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
 
 ### 44D Definition of qualifying company
 (1) In sections 44E and 44F, qualifying company means a company in which a controlling interest is held by, as the case requires,—
-  (a) 1 of the spouses or partners; or
+  (a) one of the spouses or partners; or
   (b) the estate of the deceased spouse or partner.
 (2) For the purposes of this section, a person holds a controlling interest in a company if that person holds (whether directly or indirectly) equity securities in that company that carry in the aggregate 50% or more of the voting rights at a general meeting of the company.
 (3) For the purposes of this section, a person holds equity securities in a company (company A) if—
@@ -1200,18 +1198,18 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
 (4) For the purposes of subsections (2) and (3), equity security has the same meaning as in section 2 of the Securities Act 1978.
 
 ### 44E Court may require party to disclose information about dispositions of property to qualifying company
-(1) In any proceedings for an order under section 25(1)(a), the Court may make an order requiring a spouse or partner to disclose to the Court such information as the Court specifies relating to the disposition of relationship property by either or both spouses or partners to a qualifying company since the marriage or the civil union or the de facto relationship began.
-(2) The Court may make the order under this section on the application of either party to the proceedings or on its own initiative.
+(1) In any proceedings for an order under section 25(1)(a), the court may make an order requiring a spouse or partner to disclose to the court such information as the court specifies relating to the disposition of relationship property by either or both spouses or partners to a qualifying company since the marriage or the civil union or the de facto relationship began.
+(2) The court may make the order under this section on the application of either party to the proceedings or on its own initiative.
 
 ### 44F Compensation for property disposed of to qualifying company
-(1) This section applies if the Court is satisfied—
+(1) This section applies if the court is satisfied—
   (a) that, since the marriage or the civil union or the de facto relationship began, either or both spouses or partners have disposed of relationship property to a qualifying company; and
-  (b) that the disposition has the effect of defeating the claim or rights of 1 of the spouses or partners; and
+  (b) that the disposition has the effect of defeating the claim or rights of one of the spouses or partners; and
   (c) that the disposition is not one to which section 44 applies.
-(2) If this section applies, the Court may make 1 or more of the following orders for the purpose of compensating the spouse or partner whose claim or rights under this Act have been defeated by the disposition:
-  (a) an order requiring 1 spouse or partner to pay to the other spouse or partner a sum of money, whether out of relationship property or separate property:
-  (b) an order requiring 1 spouse or partner to transfer to the other spouse or partner any property, whether the property is relationship property or separate property.
-(3) The Court may make 1 or more orders under subsection (2) if it considers it just to do so, having regard to—
+(2) If this section applies, the court may make 1 or more of the following orders for the purpose of compensating the spouse or partner whose claim or rights under this Act have been defeated by the disposition:
+  (a) an order requiring one spouse or partner to pay to the other spouse or partner a sum of money, whether out of relationship property or separate property:
+  (b) an order requiring one spouse or partner to transfer to the other spouse or partner any property, whether the property is relationship property or separate property.
+(3) The court may make 1 or more orders under subsection (2) if it considers it just to do so, having regard to—
   (a) the value of the relationship property disposed of to the qualifying company:
   (b) the value of the relationship property available for division:
   (c) the date or dates on which relationship property was disposed of to the qualifying company:
@@ -1227,8 +1225,8 @@ Sections 44B and 44C do not apply to a trust under a will or other testamentary 
 **Protection of creditors**
 
 ### 46 Protection of mortgagee
-Subject to the provisions of sections 42 to 44 of this Act, the rights conferred on a spouse or partner by any order made under this Act shall be subject to the rights of the persons entitled to the benefit of any mortgage, security, charge, or encumbrance affecting the property in respect of which the order is made if it was registered before the order was registered or if the rights of that person arise under an instrument executed before the date of the making of the order:
-  Provided that, notwithstanding anything in any enactment or in any instrument, no money payable under any such mortgage, security, charge, or encumbrance shall be called up or become due by reason of the making of any such order, not being an order directing the sale of any property.
+Subject to the provisions of sections 42 to 44, the rights conferred on a spouse or partner by any order made under this Act shall be subject to the rights of the persons entitled to the benefit of any mortgage, security, charge, or encumbrance affecting the property in respect of which the order is made if it was registered before the order was registered or if the rights of that person arise under an instrument executed before the date of the making of the order:
+  provided that, notwithstanding anything in any enactment or in any instrument, no money payable under any such mortgage, security, charge, or encumbrance shall be called up or become due by reason of the making of any such order, not being an order directing the sale of any property.
 
 ### 47 Agreements to defeat creditors void
 (1) Any agreement, disposition, or other transaction between spouses or partners with respect to their relationship property and intended to defeat creditors of either spouse or partner is void against those creditors and the Official Assignee.
@@ -1236,7 +1234,7 @@ Subject to the provisions of sections 42 to 44 of this Act, the rights conferred
 (3) For the purposes of subsection (2), an agreement between spouses or partners with respect to their relationship property is deemed to have been made for valuable consideration if—
   (a) a situation described in section 25(2) has arisen; and
   (b) the agreement is made for the purpose of settling (wholly or in part) their rights under this Act with respect to that property.
-(4) Nothing in this section applies to any gift by 1 spouse or partner to the other spouse or partner, if the gift is made on a customary occasion and is reasonable in amount having regard to the donor's means and liabilities.
+(4) Nothing in this section applies to any gift by one spouse or partner to the other spouse or partner, if the gift is made on a customary occasion and is reasonable in amount having regard to the donor's means and liabilities.
 (5) This section applies regardless of any other provision of this Act.
 
 **Further miscellaneous provisions**
@@ -1253,20 +1251,20 @@ As from the commencement of this Act, no restriction upon anticipation or aliena
 
 ### 51 Proceedings in tort
 (1) Subject to this section, each of the parties to a marriage or civil union shall have the like right of action in tort against the other as if they were not married or in a civil union.
-(2) Where one of the parties to a marriage, civil union, or de facto relationship brings an action in tort against the other during the subsistence of the marriage, civil union, or de facto relationship, the Court may at any stage of the proceedings, on application or of its own motion, stay the action if it appears that—
-  (a) No substantial benefit, whether material or otherwise, would accrue to either party by the continuation of the proceedings; or
-  (b) The proceedings are vexatious in character; or
-  (c) The question or questions in issue could more conveniently be disposed of on an application made under this Act.
-(3) Without limiting the provisions of subsection (2)(c) of this section, the Court may in any such action exercise any power which could be exercised on an application under this Act or give such directions as it thinks fit for the disposal under this Act of any question arising in the proceedings.
-(4) In an action to which this section applies, judgment by default shall not be entered except with the leave of the Court. An application for the grant of such leave must be served on the defendant.
-(5) In this section the term Court means the High Court, a District Court, or a Family Court; but a District Court shall not exercise any power which could be exercised on an application under this Act unless it is empowered to do so under any enactment (other than this section).
+(2) Where one of the parties to a marriage, civil union, or de facto relationship brings an action in tort against the other during the subsistence of the marriage, civil union, or de facto relationship, the court may at any stage of the proceedings, on application or of its own motion, stay the action if it appears that—
+  (a) no substantial benefit, whether material or otherwise, would accrue to either party by the continuation of the proceedings; or
+  (b) the proceedings are vexatious in character; or
+  (c) the question or questions in issue could more conveniently be disposed of on an application made under this Act.
+(3) Without limiting the provisions of subsection (2)(c), the court may in any such action exercise any power which could be exercised on an application under this Act or give such directions as it thinks fit for the disposal under this Act of any question arising in the proceedings.
+(4) In an action to which this section applies, judgment by default shall not be entered except with the leave of the court. An application for the grant of such leave must be served on the defendant.
+(5) In this section the term court means the High Court, a District Court, or a Family Court; but a District Court shall not exercise any power which could be exercised on an application under this Act unless it is empowered to do so under any enactment (other than this section).
 
 ### 52 Minors may apply without guardian ad litem
-Notwithstanding any enactment or rule of law, a minor who is or has been married or in a civil union may bring, institute, or defend proceedings under this Act without a guardian ad litem or next friend, and every judgment or order of the Court under this Act shall be binding upon and may be enforced against such a minor as if he or she were of full age.
+Notwithstanding any enactment or rule of law, a minor who is or has been married or in a civil union may bring, institute, or defend proceedings under this Act without a guardian ad litem or next friend, and every judgment or order of the court under this Act shall be binding upon and may be enforced against such a minor as if he or she were of full age.
 
 ### 52A Priority of claims where marriage or civil union and de facto relationship
 (1) This section applies in respect of relationship property if—
-  (a) competing claims are made for property orders in respect of that property, 1 claim being in respect of a marriage or civil union, as the case may be, and the other claim being in respect of a de facto relationship; and
+  (a) competing claims are made for property orders in respect of that property, one claim being in respect of a marriage or civil union, as the case may be, and the other claim being in respect of a de facto relationship; and
   (b) there is insufficient property to satisfy the property orders made under this Act.
 (2) If this section applies, the relationship property is to be divided as follows:
   (a) if the marriage or civil union and the de facto relationship are successive (regardless of the order in which they occur), then in accordance with the chronological order of the marriage or civil union and the de facto relationship:
@@ -1290,39 +1288,39 @@ Notwithstanding any enactment or rule of law, a minor who is or has been married
     (i) to the extent possible, the property orders must be satisfied from the property that is attributable to each de facto relationship; and
     (ii) to the extent that it is not possible to attribute all or any of the property to either de facto relationship, the property is to be divided in accordance with the contribution of each de facto relationship to the acquisition of the property.
 
-### 53 Rules of Court and regulations
+### 53 Rules of court and regulations
 (1) Rules may from time to time be made in the manner prescribed by the Judicature Act 1908 relating to the procedure of the High Court under this Act and to appeals to the Court of Appeal under this Act.
 (1A) Rules may be made under section 16A of the Family Courts Act 1980 relating to the practice and procedure of Family Courts in proceedings under this Act.
 (2) The Governor-General may from time to time, by Order in Council, make regulations under section 100A of the Judicature Act 1908 for the purposes of this Act.
 (2A) The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) Making provision for determining the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 37A, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
-  (b) Making provision for determining the amount of fees and expenses payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3) of section 38 of this Act:
-  (ba) requiring the personal representative of a deceased spouse or partner to provide the surviving spouse or partner with information about the estate of the deceased spouse or partner; and providing for the enforcement of any such requirement (including, without limitation, providing for the Court, on the application of the surviving spouse or partner, to order the personal representative to provide all or any of the relevant information):
-  (c) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+  (a) making provision for determining the amount of fees and expenses, including minimum and maximum amounts, payable in respect of professional services provided by lawyers appointed under section 37A, which fees and expenses may differ according to the complexity of the proceedings and the time spent, and according to whether or not professional services are to be provided in a specified number of proceedings during a specified period:
+  (b) making provision for determining the amount of fees and expenses payable to any person (other than the Registrar) appointed under subsection (1) or subsection (3) of section 38:
+  (ba) requiring the personal representative of a deceased spouse or partner to provide the surviving spouse or partner with information about the estate of the deceased spouse or partner; and providing for the enforcement of any such requirement (including, without limitation, providing for the court, on the application of the surviving spouse or partner, to order the personal representative to provide all or any of the relevant information):
+  (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (3) In addition to all other powers conferred by the District Courts Act 1947, the Governor-General may from time to time, by Order in Council, make rules regulating the procedure of District Courts in proceedings under this Act, and providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and its due administration.
-(3A) Without limiting the generality of the powers conferred by subsections (1) and (3) of this section or section 16A of the Family Courts Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
+(3A) Without limiting the generality of the powers conferred by subsections (1) and (3) or section 16A of the Family Courts Act 1980, rules made under any of those provisions may require any party to proceedings under this Act to supply to the other party to the proceedings particulars of the nature and value of the property of the first-mentioned party that could be the subject of any order in those proceedings.
 (4) In the absence of any rules under this section, or in any situation not covered by those rules, the rules in relation to civil proceedings for the time being in force under the Judicature Act 1908 apply with all necessary modifications to proceedings under this Act that are brought or dealt with in the High Court.
 
 ### 53A Power to prescribe specified sum
 (1) The Governor-General may from time to time, by Order in Council, prescribe the amount that is the specified sum for the purposes of section 20B.
-(2) Until a different amount is prescribed under this section, the specified sum is $82,000.
+(2) Until a different amount is prescribed under this section, the specified sum is $103,000.
 
 ### 54 Exemption from stamp duty
 [Repealed]
 
-## Part 8 — Division of property where 1 spouse or partner dies
+## Part 8 — Division of property where one spouse or partner dies
 
 **Application of this Part**
 
 ### 55 Application of this Part
 (1) This Part applies where—
-  (a) a marriage has ended when 1 of the spouses dies; or
-  (ab) a civil union has ended when 1 of the civil union partners dies; or
-  (b) a de facto relationship has ended when 1 of the de facto partners dies.
+  (a) a marriage has ended when one of the spouses dies; or
+  (ab) a civil union has ended when one of the civil union partners dies; or
+  (b) a de facto relationship has ended when one of the de facto partners dies.
 (2) This Part also applies if,—
-  (a) after a marriage has ended by separation or dissolution, 1 of the spouses dies, and no proceedings under Part 7 are commenced before the spouse's death; or
-  (ab) after a civil union has ended by separation or dissolution, 1 of the civil union partners dies, and no proceedings under Part 7 are commenced before the civil union partner's death; or
-  (b) after a de facto relationship has ended (other than by the death of 1 of the de facto partners), 1 of the de facto partners dies, and no proceedings under Part 7 are commenced before the de facto partner's death.
+  (a) after a marriage has ended by separation or dissolution, one of the spouses dies, and no proceedings under Part 7 are commenced before the spouse's death; or
+  (ab) after a civil union has ended by separation or dissolution, one of the civil union partners dies, and no proceedings under Part 7 are commenced before the civil union partner's death; or
+  (b) after a de facto relationship has ended (other than by the death of one of the de facto partners), one of the de facto partners dies, and no proceedings under Part 7 are commenced before the de facto partner's death.
 
 ### 56 Application to existing and future wills
 In the application of this Act to a spouse or partner who dies on or after 1 February 2002 and who has made a will, it does not matter whether the will was made before, on, or after that date.
@@ -1330,9 +1328,7 @@ In the application of this Act to a spouse or partner who dies on or after 1 Feb
 ### 57 Application under Law Reform (Testamentary Promises) Act 1949 or Family Protection Act 1955 not precluded
 Nothing in this Act prevents a person from making an application under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955 in respect of the estate of his or her deceased spouse or partner.
 
-**Death of spouse or partner**
-
-**Insolvent deceased spouse or partner**
+**Death of spouse or partnerInsolvent deceased spouse or partner**
 
 ### 58 Rights of creditors preserved
 (1) If, had this Act not been passed, any property would have become vested in an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) on an order being made under section 379 of that Act to administer the estate of a deceased spouse or partner under Part 6 of that Act, then that property (and no other property) becomes vested in an appointee as if this Act had not been passed.
@@ -1350,31 +1346,31 @@ Nothing in this Act prevents a person from making an application under the Law R
   (b) any unsecured debt incurred—
     (i) by the spouses or partners jointly; or
     (ii) by the deceased spouse or partner, for the purpose of acquiring, improving, or repairing the family home.
-(4) If, in any case to which this section applies, section 11B applies, the appointee or, as the case requires, the administrator must pay to the surviving spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the Court may direct, on application by the appointee or the administrator (as the case requires) or on application by the surviving spouse or partner.
+(4) If, in any case to which this section applies, section 11B applies, the appointee or, as the case requires, the administrator must pay to the surviving spouse or partner such amount in satisfaction of the protected interest of that spouse or partner as the court may direct, on application by the appointee or the administrator (as the case requires) or on application by the surviving spouse or partner.
 
 **Proceedings commenced while both spouses or partners alive**
 
 ### 60 Incidence of orders against personal representative of spouse or partner
 (1) This section applies when—
   (a) proceedings are commenced while both spouses or partners are alive; and
-  (b) 1 spouse or partner dies before the proceedings are completed; and
-  (c) the Court makes an order under this Act against the personal representative of the deceased spouse or partner.
-(2) The incidence of any order made under this Act by the Court against the personal representative of a deceased spouse or partner falls rateably upon such part of the estate of the deceased as consists of relationship property.
-(3) However, the Court may order that the incidence of the order—
+  (b) one spouse or partner dies before the proceedings are completed; and
+  (c) the court makes an order under this Act against the personal representative of the deceased spouse or partner.
+(2) The incidence of any order made under this Act by the court against the personal representative of a deceased spouse or partner falls rateably upon such part of the estate of the deceased as consists of relationship property.
+(3) However, the court may order that the incidence of the order—
   (a) falls rateably on the whole estate of the deceased; or
   (b) falls on any specified portion of the estate or on any specified property.
-(4) Where the Court makes any order under subsection (3),—
-  (a) the Court has power to exonerate any part of the estate of the deceased from the incidence of the order made under this Act, after hearing such of the parties who may be affected by the exoneration as the Court thinks necessary, and may for that purpose direct any personal representative to represent, or appoint any person to represent, any such party:
-  (b) the Court has power at any time to fix a periodical payment or lump sum to be paid by any beneficiary in the estate of the deceased to represent, or in commutation of, any liability under the order that falls upon the portion of the estate in which he or she is interested, and to exonerate that portion from further liability and to direct in what manner the payment is to be secured.
-(5) For the purposes of subsections (2) to (4), in cases where the authority of the Court does not extend and cannot directly or indirectly be made to extend to the whole estate, the estate of the deceased includes only so much of it as is subject to the authority of the Court.
-(6) Where the Court makes any order under this Act against the personal representative of a deceased spouse or partner (other than an order made under section 27 or section 28), the property comprised in that order does not form part of the estate of the deceased for the purposes of the Law Reform (Testamentary Promises) Act 1949 or of the Family Protection Act 1955.
-(7) In proceedings commenced after the death of 1 of the spouses or partners, section 94 applies instead of this section.
+(4) Where the court makes any order under subsection (3),—
+  (a) the court has power to exonerate any part of the estate of the deceased from the incidence of the order made under this Act, after hearing such of the parties who may be affected by the exoneration as the court thinks necessary, and may for that purpose direct any personal representative to represent, or appoint any person to represent, any such party:
+  (b) the court has power at any time to fix a periodical payment or lump sum to be paid by any beneficiary in the estate of the deceased to represent, or in commutation of, any liability under the order that falls upon the portion of the estate in which he or she is interested, and to exonerate that portion from further liability and to direct in what manner the payment is to be secured.
+(5) For the purposes of subsections (2) to (4), in cases where the authority of the court does not extend and cannot directly or indirectly be made to extend to the whole estate, the estate of the deceased includes only so much of it as is subject to the authority of the court.
+(6) Where the court makes any order under this Act against the personal representative of a deceased spouse or partner (other than an order made under section 27 or section 28), the property comprised in that order does not form part of the estate of the deceased for the purposes of the Law Reform (Testamentary Promises) Act 1949 or of the Family Protection Act 1955.
+(7) In proceedings commenced after the death of one of the spouses or partners, section 94 applies instead of this section.
 
 **Surviving spouse or partner may choose between division under this Act and taking under will or intestacy**
 
 ### 61 Surviving spouse or partner may choose option
-(1) If 1 of the spouses or partners has died (except in a situation described in section 10D(1)), the surviving spouse or partner may choose option A or option B.
-(2) Option A is to elect to make an application under this Act for a division of relationship property.
+(1) If one of the spouses or partners has died (except in a situation described in section 10D(1)), the surviving spouse or partner may choose option A or option B.
+(2) Option A is to elect to make an application under this Act for a division of the relationship property.
 (3) Option B is as follows:
   (a) to elect not to make an application under this Act for a division of the relationship property; and
   (b) if the surviving spouse or partner is a beneficiary under the will of the deceased spouse or partner, to receive that property; and
@@ -1386,11 +1382,11 @@ Nothing in this Act prevents a person from making an application under the Law R
     (i) no later than 6 months after the date of the death of the deceased spouse or partner; or
     (ii) if administration of the estate is granted in New Zealand within that period, no later than 6 months after the grant of administration,—
   (b) in any other case, the choice must be made no later than 6 months after administration of the estate of the deceased spouse or partner is granted in New Zealand.
-(2) Regardless of subsection (1), but subject to subsection (4), the Court may extend the time for making that choice after hearing—
+(2) Regardless of subsection (1), but subject to subsection (4), the court may extend the time for making that choice after hearing—
   (a) the applicant; and
-  (b) any other persons who the Court considers should be heard.
-(3) The Court's power under this section extends to cases where the time for making the choice has already expired, including cases where it expired before the commencement, on 1 February 2002, of the Property (Relationships) Amendment Act 2001.
-(4) The Court may not grant an extension of time under subsection (2) unless the application for the extension is made before the final distribution of the estate of the deceased spouse or partner.
+  (b) any other persons who the court considers should be heard.
+(3) The court's power under this section extends to cases where the time for making the choice has already expired, including cases where it expired before the commencement, on 1 February 2002, of the Property (Relationships) Amendment Act 2001.
+(4) The court may not grant an extension of time under subsection (2) unless the application for the extension is made before the final distribution of the estate of the deceased spouse or partner.
 
 ### 63 Surviving spouse or partner may not commence proceedings before making election
 A surviving spouse or partner may not apply under this Act for a division of the relationship property unless—
@@ -1398,7 +1394,7 @@ A surviving spouse or partner may not apply under this Act for a division of the
   (b) in the case of a surviving spouse or civil union partner, section 64 applies.
 
 ### 64 Position of surviving spouse or civil union partner if separation order made or marriage or civil union dissolved
-A surviving spouse or civil union partner may apply under this Act for a division of the relationship property without having first chosen option A if he or she is in 1 of the following situations:
+A surviving spouse or civil union partner may apply under this Act for a division of the relationship property without having first chosen option A if he or she is in one of the following situations:
   (a) a separation order is in force in relation to the marriage or civil union when the deceased spouse or civil union partner dies:
   (b) the marriage was ended while both spouses were alive by a legal process that occurred within or outside New Zealand:
   (c) the civil union was ended while both civil union partners were alive by a legal process that occurs within New Zealand.
@@ -1418,7 +1414,7 @@ A surviving spouse or civil union partner may apply under this Act for a divisio
 
 ### 66 Choice of option to be notified to certain persons
 (1) If a notice is lodged in accordance with section 65(2)(c)(ii), the surviving spouse or partner (the survivor) must, without delay, give a copy or copies of the notice in accordance with subsections (2) to (4).
-(2) If, at the time of his or her death, the deceased spouse or partner was the registered holder of any Government stock or local authorities stock (as those terms are defined in section 64(2) of the Administration Act 1969) to which that section applies, the survivor must give a copy of the notice to—
+(2) If, at the time of his or her death, the deceased spouse or partner was the registered holder of any government stock or local authorities stock (as those terms are defined in section 64(2) of the Administration Act 1969) to which that section applies, the survivor must give a copy of the notice to—
   (a) the registrar of that stock (if paragraph (b) does not apply); or
   (b) any person who has been registered as the holder of that stock in reliance on that section.
 (3) If, at the time of his or her death, the deceased spouse or partner was the registered holder of shares or debentures to which section 64A of the Administration Act 1969 applies, the survivor must give a copy of the notice to—
@@ -1430,28 +1426,28 @@ A surviving spouse or civil union partner may apply under this Act for a divisio
 
 ### 67 Choice irrevocable
 (1) Once a surviving spouse or partner has chosen option A or option B, that choice cannot be revoked.
-(2) This section is subject to the Court's power under section 69 to set aside a choice of option.
+(2) This section is subject to the court's power under section 69 to set aside a choice of option.
 
 ### 68 Effect of failure to make choice
 (1) If a surviving spouse or partner does not choose option A or option B, in the manner required by section 65 and within the time required by section 62(1) (or any extension of that time granted under section 62(2)), then the surviving spouse or partner is to be treated as having chosen option B.
-(2) The Court may, under section 69, set aside a choice of option imposed by this section.
+(2) The court may, under section 69, set aside a choice of option imposed by this section.
 
 ### 69 Chosen option may be set aside
-(1) If a surviving spouse or partner has chosen option A or option B, the Court, on application by that spouse or partner, may set that choice aside.
-(2) The Court may set aside a choice of option only if—
+(1) If a surviving spouse or partner has chosen option A or option B, the court, on application by that spouse or partner, may set that choice aside.
+(2) The court may set aside a choice of option only if—
   (a) it is satisfied that any of the following apply:
     (i) that the choice of option was not freely made:
     (ii) that the surviving spouse or partner did not fully understand the effect and implications of the choice:
     (iii) that since the choice of option was made, the surviving spouse or partner has become aware of information relevant to the making of a choice of option:
     (iv) that since the choice of option was made, a person (other than the surviving spouse or partner) has made an application under the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955 in respect of the estate of the deceased spouse or partner; and
   (b) having regard to all the circumstances, it is satisfied that it would be unjust to enforce the choice of option.
-(3) In deciding whether or not to set aside a choice of option, the Court must have regard to the following matters:
+(3) In deciding whether or not to set aside a choice of option, the court must have regard to the following matters:
   (a) the circumstances in which the choice of option was made:
   (b) the length of time since the choice was made:
-  (c) any other matters that the Court considers relevant.
+  (c) any other matters that the court considers relevant.
 
 ### 70 Choice may not be set aside if estate finally distributed
-The Court may not set aside a choice of option under section 69 unless the application under that section is made before the final distribution of the estate of the deceased spouse or partner.
+The court may not set aside a choice of option under section 69 unless the application under that section is made before the final distribution of the estate of the deceased spouse or partner.
 
 **Distribution of estates**
 
@@ -1462,7 +1458,7 @@ The Court may not set aside a choice of option under section 69 unless the appli
 (2) Despite subsection (1), a distribution may be made in the following cases:
   (a) where section 47(2) of the Administration Act 1969 applies to the distribution:
   (b) where the surviving spouse or partner consents in writing to the distribution:
-  (c) where the Court, on application made to it for the purpose, approves the distribution.
+  (c) where the court, on application made to it for the purpose, approves the distribution.
 
 ### 72 Distribution of estate after choice made but before proceedings commenced
 (1) If a surviving spouse or partner chooses option A, the administrator or trustee of the estate of the deceased spouse or partner must not distribute any part of the estate before—whichever happens first.
@@ -1478,13 +1474,13 @@ The Court may not set aside a choice of option under section 69 unless the appli
     (i) the proceedings are finally determined; or
     (ii) the proceedings are withdrawn,—
   (b) on and from the date on which the proceedings are finally determined until—
-    (i) the time for appealing against the decision of the Court expires, if no such appeal has been commenced; or
-    (ii) if an appeal against the decision of the Court is commenced, when the appeal is finally determined or is withdrawn, whichever occurs first; and
+    (i) the time for appealing against the decision of the court expires, if no such appeal has been commenced; or
+    (ii) if an appeal against the decision of the court is commenced, when the appeal is finally determined or is withdrawn, whichever occurs first; and
   (c) while any further right of appeal (whether to the Court of Appeal or to the Supreme Court) subsists in relation to the proceedings, or while any such further appeal awaits determination.
 
 ### 74 Distribution of estate not to be disturbed
 (1) This section applies where any part of the estate of a deceased spouse or partner has been distributed—
-  (a) before the personal representative of that spouse or partner receives notice that an application has been made to the Court—
+  (a) before the personal representative of that spouse or partner receives notice that an application has been made to the court—
     (i) under section 62(2) for an extension of the time for choosing option A or option B; or
     (ii) under section 69 for the setting aside of a choice of option A or option B; or
     (iii) under section 77 for an order that a surviving spouse or partner who has chosen option A may also take under the will of the deceased spouse or partner or on his or her intestacy or partial intestacy; or
@@ -1512,11 +1508,11 @@ If the surviving spouse or partner chooses option A,—
 (4) This section is subject to section 77.
 
 ### 77 Court may permit surviving spouse or partner to take under will or on intestacy
-(1) Despite section 76, if the Court is satisfied that it is necessary to avoid injustice, the Court may, on the application of a surviving spouse or partner who has chosen option A,—
-  (a) order that the surviving spouse or partner may also receive all or any of the gifts to the surviving spouse or partner in the will of the deceased spouse or partner, as the Court thinks fit:
-  (b) order that the surviving spouse or partner may also receive all or part of the beneficial interest to which the surviving spouse or partner is entitled on the intestacy or partial intestacy of the deceased spouse or partner, as the Court thinks fit.
-(2) If the Court makes an order under this section, the estate of the deceased spouse or partner must be distributed accordingly.
-(3) The Court may not make an order under this section unless the application under this section is made before the final distribution of the estate of the deceased spouse or partner.
+(1) Despite section 76, if the court is satisfied that it is necessary to avoid injustice, the court may, on the application of a surviving spouse or partner who has chosen option A,—
+  (a) order that the surviving spouse or partner may also receive all or any of the gifts to the surviving spouse or partner in the will of the deceased spouse or partner, as the court thinks fit:
+  (b) order that the surviving spouse or partner may also receive all or part of the beneficial interest to which the surviving spouse or partner is entitled on the intestacy or partial intestacy of the deceased spouse or partner, as the court thinks fit.
+(2) If the court makes an order under this section, the estate of the deceased spouse or partner must be distributed accordingly.
+(3) The court may not make an order under this section unless the application under this section is made before the final distribution of the estate of the deceased spouse or partner.
 
 ### 78 Priority of entitlement of surviving spouse or partner
 (1) The entitlement of a surviving spouse or partner to any property or payment under an order or agreement made under this Act has priority over—
@@ -1555,58 +1551,58 @@ If the surviving spouse or partner chooses option A,—
 (4) Nothing in this section applies to property to which section 10(2) applies.
 
 ### 83 Relationship property defined
-(1) If, on the death of a spouse or partner, any property of that spouse or partner passes to the surviving spouse or partner, whether by survivorship or otherwise (but not by succession), then unless, in any proceedings under this Act, the Court decides otherwise,—
+(1) If, on the death of a spouse or partner, any property of that spouse or partner passes to the surviving spouse or partner, whether by survivorship or otherwise (but not by succession), then unless, in any proceedings under this Act, the court decides otherwise,—
   (a) that property is not automatically to be treated as the separate property of the surviving spouse or partner; and
   (b) the status of the property as relationship property or separate property is to be determined according to the status it would have had if the deceased spouse or partner had not died.
 (2) This section is subject to Part 6 and section 87.
 
 ### 84 Separate property defined
-All property acquired by the surviving spouse or partner after the death of the deceased spouse or partner is separate property unless the Court considers that it is just in the circumstances to treat the property or any part of it as relationship property.
+All property acquired by the surviving spouse or partner after the death of the deceased spouse or partner is separate property unless the court considers that it is just in the circumstances to treat the property or any part of it as relationship property.
 
 ### 85 Marriages, civil unions, and de facto relationships of short duration
 (1) If a marriage or civil union was a relationship of short duration (as defined in section 2E), the share of the surviving spouse or civil union partner in the relationship property is determined in accordance with sections 11 to 13.
-(2) Section 14 applies to a marriage or civil union to which subsection (1) applies only if the Court, having regard to all the circumstances of the marriage or civil union, considers that the application of sections 11 to 12 would be unjust.
-(3) If a de facto relationship is a relationship of short duration (as defined in section 2E), the Court cannot make an order under this Act for the division of relationship property unless—
-  (a) the Court is satisfied—
+(2) Section 14 applies to a marriage or civil union to which subsection (1) applies only if the court, having regard to all the circumstances of the marriage or civil union, considers that the application of sections 11 to 12 would be unjust.
+(3) If a de facto relationship is a relationship of short duration (as defined in section 2E), the court cannot make an order under this Act for the division of relationship property unless—
+  (a) the court is satisfied—
     (i) that there is a child of the de facto relationship; or
     (ii) that the surviving de facto partner or, on an application made by the deceased de facto partner's personal representative, the deceased de facto partner has made a substantial contribution to the de facto relationship; and
-  (b) the Court is satisfied that failure to make the order would result in serious injustice.
-(4) If subsection (3) applies, and the Court is satisfied that the grounds specified in that subsection for making an order on an application made under this Act are made out, the share of the surviving de facto partner and of the deceased de facto partner's estate in the relationship property is to be determined in accordance with the contribution of each de facto partner to the de facto relationship.
+  (b) the court is satisfied that failure to make the order would result in serious injustice.
+(4) If subsection (3) applies, and the court is satisfied that the grounds specified in that subsection for making an order on an application made under this Act are made out, the share of the surviving de facto partner and of the deceased de facto partner's estate in the relationship property is to be determined in accordance with the contribution of each de facto partner to the de facto relationship.
 
 ### 86 Compensation for actions after separation or death
 (1) If this Part applies, then for the purposes of sections 18B and 18C, relevant period means,—
-  (a) if the spouses or partners cease to live together while both are alive, the period after they cease to live together but before the date of the hearing of an application under this Act by the Court of first instance:
-  (b) if the spouses or partners do not cease to live together while both are alive, the period after the death of the deceased spouse or partner but before the date of the hearing of an application under this Act by the Court of first instance.
-(2) The Court may exercise the power in section 18B(2) if, during the relevant period, 1 of the spouses or partners or the personal representative of the deceased spouse or partner has done anything that would have been a contribution to the marriage, civil union, or de facto relationship if the spouses or partners had not ceased to live together or if 1 of them had not died.
-(3) The Court may exercise the power in section 18C(2) if, during the relevant period, the relationship property has been materially diminished in value by the deliberate action or inaction of—
+  (a) if the spouses or partners cease to live together while both are alive, the period after they cease to live together but before the date of the hearing of an application under this Act by the court of first instance:
+  (b) if the spouses or partners do not cease to live together while both are alive, the period after the death of the deceased spouse or partner but before the date of the hearing of an application under this Act by the court of first instance.
+(2) The court may exercise the power in section 18B(2) if, during the relevant period, one of the spouses or partners or the personal representative of the deceased spouse or partner has done anything that would have been a contribution to the marriage, civil union, or de facto relationship if the spouses or partners had not ceased to live together or if one of them had not died.
+(3) The court may exercise the power in section 18C(2) if, during the relevant period, the relationship property has been materially diminished in value by the deliberate action or inaction of—
   (a) the personal representative of the deceased spouse or partner; or
   (b) the surviving spouse or partner.
 
 ### 87 Surviving spouse or partner may challenge agreement
 (1) This section applies if—
-  (a) the spouses or partners make an agreement under section 21 defining the share of the relationship property or any part of it that each is entitled to on the death of 1 of them; and
-  (b) 1 of them dies.
+  (a) the spouses or partners make an agreement under section 21 defining the share of the relationship property or any part of it that each is entitled to on the death of one of them; and
+  (b) one of them dies.
 (2) If this section applies,—
-  (a) the surviving spouse or partner may apply to the Court—
+  (a) the surviving spouse or partner may apply to the court—
     (i) to have the agreement declared void for non-compliance with a requirement of section 21F:
     (ii) to have the agreement set aside under section 21J; and
   (b) the surviving spouse or partner may make the application either before or after exercising the option in section 61.
-(3) In deciding, under section 21J, whether giving effect to an agreement to which this section applies would cause serious injustice, the Court must have regard, in addition to all other relevant circumstances, to whether the estate of the deceased spouse or partner has been wholly or partly distributed.
+(3) In deciding, under section 21J, whether giving effect to an agreement to which this section applies would cause serious injustice, the court must have regard, in addition to all other relevant circumstances, to whether the estate of the deceased spouse or partner has been wholly or partly distributed.
 (4) This section is subject to section 47.
 
 ### 88 Who can apply
 (1) The following persons may apply for an order under section 25(1)(a) or (b) or an order or declaration under section 25(3):
   (a) the surviving spouse or partner:
   (b) any person on whom conflicting claims in respect of property are made by the surviving spouse or partner and the personal representative of the deceased spouse or partner.
-(2) The personal representative of the deceased spouse or partner may, with the leave of the Court, apply for an order under section 25(1)(a). The Court may grant leave only if it is satisfied that refusing leave would cause serious injustice.
+(2) The personal representative of the deceased spouse or partner may, with the leave of the court, apply for an order under section 25(1)(a). The court may grant leave only if it is satisfied that refusing leave would cause serious injustice.
 (3) The following persons may apply for an order under section 25(1)(b) or an order or declaration under section 25(3):
   (a) the personal representative of the deceased spouse or partner:
-  (b) the Official Assignee in Bankruptcy of the property of either spouse or partner:
+  (b) the Official Assignee in bankruptcy of the property of either spouse or partner:
   (c) an appointee (within the meaning of section 378(1) of the Insolvency Act 2006) in whom the estate of a deceased spouse or partner vests on an order being made under section 379 of that Act.
 (4) Subsection (2) is subject to section 12 of the Succession (Homicide) Act 2007.
 
 ### 89 Time for commencement of proceedings
-(1) Proceedings may be commenced after the death of 1 of the spouses or partners if,—
+(1) Proceedings may be commenced after the death of one of the spouses or partners if,—
   (a) at the date of the death of the deceased spouse or partner, the spouses or partners are living together; or
   (b) in the case of de facto partners, at the date of the death of the deceased de facto partner, the de facto partners are not living together; or
   (c) in the case of spouses or civil union partners, at the date of the death of the deceased spouse or civil union partner the following circumstances exist:
@@ -1619,8 +1615,8 @@ All property acquired by the surviving spouse or partner after the death of the 
   (e) in the case of spouses or civil union partners, at the date of the death of the deceased spouse or civil union partner the following circumstances exist:
     (i) the spouses or civil union partners are not living together; and
     (ii) the marriage or civil union has been dissolved by an order dissolving the marriage or civil union, or an order declaring the marriage or civil union to be void ab initio has been made; and
-    (iii) more than 12 months have elapsed since the taking effect as a final order of the order dissolving the marriage or civil union or the date of the making of the order declaring the marriage or civil union to be void ab initio, but, either before or after the deceased spouse's or civil union partner's death, the Court grants an extension under section 24(2).
-(2) The Court's power to grant an extension under section 24(2) extends to cases where the time for making an application expired before the commencement, on 1 February 2002, of the Property (Relationships) Amendment Act 2001.
+    (iii) more than 12 months have elapsed since the taking effect as a final order of the order dissolving the marriage or civil union or the date of the making of the order declaring the marriage or civil union to be void ab initio, but, either before or after the deceased spouse's or civil union partner's death, the court grants an extension under section 24(2).
+(2) The court's power to grant an extension under section 24(2) extends to cases where the time for making an application expired before the commencement, on 1 February 2002, of the Property (Relationships) Amendment Act 2001.
 
 ### 90 Time limits for commencing proceedings
 (1) Proceedings must be commenced within the following time limits:
@@ -1628,40 +1624,40 @@ All property acquired by the surviving spouse or partner after the death of the 
     (i) no later than 12 months after the date of the death of the deceased spouse or partner; or
     (ii) if administration of the estate is granted in New Zealand within that period, no later than 12 months after the grant of administration,—
   (b) in any other case, the proceedings must be commenced no later than 12 months after administration of the estate of the deceased spouse or partner is granted in New Zealand.
-(2) Regardless of subsection (1), but subject to subsection (3), the Court may extend the time for commencing proceedings after hearing—
+(2) Regardless of subsection (1), but subject to subsection (3), the court may extend the time for commencing proceedings after hearing—
   (a) the applicant; and
-  (b) any other persons who have an interest in the property that would be affected by the order sought and who the Court considers should be heard.
-(3) The Court's power under this section extends to cases where the time for commencing proceedings has already expired, including cases where it expired before the commencement, on 1 February 2002, of the Property (Relationships) Amendment Act 2001.
-(4) The Court may not grant an extension of time under subsection (2) unless the application for the extension is made before the final distribution of the estate of the deceased spouse or partner.
+  (b) any other persons who have an interest in the property that would be affected by the order sought and who the court considers should be heard.
+(3) The court's power under this section extends to cases where the time for commencing proceedings has already expired, including cases where it expired before the commencement, on 1 February 2002, of the Property (Relationships) Amendment Act 2001.
+(4) The court may not grant an extension of time under subsection (2) unless the application for the extension is made before the final distribution of the estate of the deceased spouse or partner.
 
 ### 91 Qualifications on application of sections 25 to 34 and 43 to 44F
-(1) The Court must not make an order in proceedings commenced after the death of 1 of the spouses or partners unless it is satisfied that 1 of the spouses or partners has died.
-(2) When the Court makes an order under section 27(1), the surviving spouse or partner is entitled personally to occupy the family home or other premises to which the order relates, to the exclusion of any other person who would otherwise be entitled to occupy the family home or those premises.
-(3) The Court may not make an order under section 28 in favour of a surviving spouse or partner unless,—
+(1) The court must not make an order in proceedings commenced after the death of one of the spouses or partners unless it is satisfied that one of the spouses or partners has died.
+(2) When the court makes an order under section 27(1), the surviving spouse or partner is entitled personally to occupy the family home or other premises to which the order relates, to the exclusion of any other person who would otherwise be entitled to occupy the family home or those premises.
+(3) The court may not make an order under section 28 in favour of a surviving spouse or partner unless,—
   (a) at the time of the making of the order, the tenancy of the dwellinghouse is vested in the personal representative of the deceased spouse or partner; and
   (b) either—
     (i) at the time of the making of the order, the surviving spouse or partner is residing in the dwellinghouse; or
     (ii) at the date of the death of the deceased spouse or partner, the deceased spouse or partner was the sole tenant of the dwellinghouse, or was a tenant in common with the surviving spouse or partner.
 
 ### 92 Persons entitled to be heard
-In section 37(1), any person having an interest in the property which would be affected by the order does not include a person who has an interest only as a beneficiary of, or claimant against, the estate of the deceased spouse or partner, but the Court may hear such a person if it considers it necessary to do so.
+In section 37(1), any person having an interest in the property which would be affected by the order does not include a person who has an interest only as a beneficiary of, or claimant against, the estate of the deceased spouse or partner, but the court may hear such a person if it considers it necessary to do so.
 
 ### 93 Appeals
 In section 39(2), any other person prejudicially affected does not include a person who is affected only as a beneficiary of, or claimant against, the estate of the deceased spouse or partner.
 
 ### 94 Incidence of orders against personal representative of spouse or partner
 (1) This section applies when—
-  (a) proceedings are commenced after the death of 1 of the spouses or partners; and
-  (b) the Court makes an order under this Act against the personal representative of the deceased spouse or partner.
-(2) The incidence of any order made under this Act by the Court against the personal representative of a deceased spouse or partner falls rateably upon such part of the estate of the deceased as consists of relationship property.
-(3) However, the Court may order that the incidence of the order—
+  (a) proceedings are commenced after the death of one of the spouses or partners; and
+  (b) the court makes an order under this Act against the personal representative of the deceased spouse or partner.
+(2) The incidence of any order made under this Act by the court against the personal representative of a deceased spouse or partner falls rateably upon such part of the estate of the deceased as consists of relationship property.
+(3) However, the court may order that the incidence of the order—
   (a) falls rateably on the whole estate of the deceased; or
   (b) falls on any specified portion of the estate or on any specified property.
-(4) Where the Court makes any order under subsection (3),—
-  (a) the Court has power to exonerate any part of the estate of the deceased from the incidence of the order made under this Act, after hearing such of the parties who may be affected by the exoneration as the Court thinks necessary, and may for that purpose direct any personal representative to represent, or appoint any person to represent, any such party:
-  (b) the Court has power at any time to fix a periodical payment or lump sum to be paid by any beneficiary in the estate of the deceased to represent, or in commutation of, any liability under the order that falls upon the portion of the estate in which he or she is interested, and to exonerate that portion from further liability and to direct in what manner the payment is to be secured.
-(5) For the purposes of subsections (2) to (4), in cases where the authority of the Court does not extend and cannot directly or indirectly be made to extend to the whole estate, the estate of the deceased includes only so much of it as is subject to the authority of the Court.
-(6) Where the Court makes any order under this Act against the personal representative of a deceased spouse or partner (other than an order made under section 27 or section 28), the property comprised in that order does not form part of the estate of the deceased for the purposes of the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955.
+(4) Where the court makes any order under subsection (3),—
+  (a) the court has power to exonerate any part of the estate of the deceased from the incidence of the order made under this Act, after hearing such of the parties who may be affected by the exoneration as the court thinks necessary, and may for that purpose direct any personal representative to represent, or appoint any person to represent, any such party:
+  (b) the court has power at any time to fix a periodical payment or lump sum to be paid by any beneficiary in the estate of the deceased to represent, or in commutation of, any liability under the order that falls upon the portion of the estate in which he or she is interested, and to exonerate that portion from further liability and to direct in what manner the payment is to be secured.
+(5) For the purposes of subsections (2) to (4), in cases where the authority of the court does not extend and cannot directly or indirectly be made to extend to the whole estate, the estate of the deceased includes only so much of it as is subject to the authority of the court.
+(6) Where the court makes any order under this Act against the personal representative of a deceased spouse or partner (other than an order made under section 27 or section 28), the property comprised in that order does not form part of the estate of the deceased for the purposes of the Law Reform (Testamentary Promises) Act 1949 or the Family Protection Act 1955.
 
 **Effect of choice of will or intestacy (option B)**
 
@@ -1674,7 +1670,7 @@ In section 39(2), any other person prejudicially affected does not include a per
 **Transitional provisions**
 
 ### 96 Transitional provisions applying on and from 1 February 1977
-(1) If an application relates to the relationship property of a marriage that took place before 1 February 1977, the Court must, in dealing with the application, have regard to any agreement entered into before 1 February 1977 by the parties to the marriage. This subsection applies despite Part 6, but is subject to section 98(3).
+(1) If an application relates to the relationship property of a marriage that took place before 1 February 1977, the court must, in dealing with the application, have regard to any agreement entered into before 1 February 1977 by the parties to the marriage. This subsection applies despite Part 6, but is subject to section 98(3).
 (2) If—the proceedings continue as if this Act had not been passed, unless the parties agree to the proceedings continuing under this Act.
   (a) proceedings were commenced under the Matrimonial Property Act 1963 or Part 8 of the Matrimonial Proceedings Act 1963 before 1 February 1977; and
   (b) the hearing of the proceedings commenced before 1 February 1977,—
@@ -1693,16 +1689,21 @@ In section 39(2), any other person prejudicially affected does not include a per
 (3) If proceedings were commenced under the Matrimonial Property Act 1963 on or after 1 February 1977 and before 1 February 2002 by—the proceedings continue as if this Act had not repealed the Matrimonial Property Act 1963, whether or not the hearing of the proceedings commenced before 1 February 2002.
   (a) the surviving spouse against the deceased spouse's personal representative; or
   (b) the deceased spouse's personal representative against the surviving spouse; or
-  (c) the personal representative of 1 spouse against the personal representative of the other spouse,—
+  (c) the personal representative of one spouse against the personal representative of the other spouse,—
 (4) If, before 1 February 2002,—the proceedings continue under this Act, except sections 61 to 95, as amended by the Property (Relationships) Amendment Act 2001, as if the spouse or spouses had not died.
   (a) proceedings were commenced while both spouses were alive; and
   (b) the hearing of the proceedings did not commence; and
-  (c) 1 spouse dies or both spouses die,—
+  (c) one spouse dies or both spouses die,—
 (5) If, before 1 February 2002,—the proceedings continue under this Act, as if this Act had not been amended by the Property (Relationships) Amendment Act 2001, and as if the spouse or spouses had not died.
   (a) proceedings were commenced while both spouses were alive; and
   (b) the hearing of the proceedings commenced; and
-  (c) 1 spouse dies or both spouses die,—
-(6) If proceedings were commenced in the High Court before 1 February 2002, the proceedings continue in that Court, whether or not the hearing of the proceedings commenced before 1 February 2002.
+  (c) one spouse dies or both spouses die,—
+(6) If proceedings were commenced in the High Court before 1 February 2002, the proceedings continue in that court, whether or not the hearing of the proceedings commenced before 1 February 2002.
+
+### 97A Transitional provisions applying in respect of section 2BAA
+(1) In this section, specified date means the date of commencement of the Property (Relationships) Amendment Act 2008.
+(2) Where the hearing of any proceedings in which the duration of a civil union is in issue commenced before the specified date, the proceedings continue as if section 2BAA had not been passed.
+(3) Where the hearing of any proceedings in which the duration of a civil union is in issue commenced after the specified date, the proceedings continue as if section 2BAA had been passed.
 
 **Savings**
 
@@ -1719,3 +1720,22 @@ The death of a spouse or de facto partner does not affect the validity or effect
 ## Schedule 2 — Consequential amendments
 
 ## Schedule 3 — Enactments repealed
+
+### 1 Title
+(1) This Act is the Property (Relationships) Amendment Act 2001.
+(2) In this Act, the Act that was previously called the Matrimonial Property Act 1976 is called the principal Act.
+
+### 2 Commencement
+Except as provided in sections 21(2), 64(5), and 64(7), this Act comes into force on 1 February 2002.
+
+### 3 Purposes
+The purposes of this Act are—
+  (a) to rename the principal Act as the Property (Relationships) Act 1976; and
+  (b) to amend the principal Act so that it applies to the division of the property of married couples when one of them dies; and
+  (c) to make certain other amendments to the principal Act; and
+  (d) to extend the property division regime in the principal Act so that it applies to the division of the relationship property of couples who have lived in a de facto relationship, when they separate or one of them dies.
+
+### 21 New Part 6 substituted
+(1) Amendment(s) incorporated in the Act(s).
+(2) This section comes into force on 1 August 2001.
+(3) For the purposes of applying Part 6 of the principal Act during the period beginning on 1 August 2001 and ending with the close of 31 January 2002, all terms used in that Part have the meanings given to them in sections 2 to 2D of the principal Act (as substituted by section 8) as if section 8 were in force during that period.
