@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-05-18_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
@@ -23,7 +23,7 @@ The purposes of this Act are—
 (3) Part 3 requires the preparation of a care and rehabilitation plan—Every care and rehabilitation plan must be preceded by a needs assessment of the person. Wherever possible, the assessment must involve consultation with the assessor or assessors who diagnosed the person's intellectual disability, and with the person's lawyer, and with members of the person's family or whanau and others who are close to the person.
   (a) for every person who, following a criminal proceeding brought against the person, is required to be cared for under this Act; and
   (b) for every person with an intellectual disability for whom care under this Act is proposed.
-(4) Part 4 provides for a change of regimes from that under the Penal Institutions Act 1954 or the Mental Health (Compulsory Assessment and Treatment) Act 1992 to the regime under this Act. This is an option for certain prison inmates with an intellectual disability and for certain patients under the Mental Health (Compulsory Assessment and Treatment) Act 1992 with an intellectual disability. If such a person is to receive care under this Act, the co-ordinator has to apply to the Family Court for a compulsory care order for the person. The Family Court may make such an order if satisfied that the person has an intellectual disability, and that he or she has been assessed under Part 4 as well as Part 3.
+(4) Part 4 provides for a change of regimes from that under the Corrections Act 2004 or the Mental Health (Compulsory Assessment and Treatment) Act 1992 to the regime under this Act. This is an option for certain prison inmates with an intellectual disability and for certain patients under the Mental Health (Compulsory Assessment and Treatment) Act 1992 with an intellectual disability. If such a person is to receive care under this Act, the co-ordinator has to apply to the Family Court for a compulsory care order for the person. The Family Court may make such an order if satisfied that the person has an intellectual disability, and that he or she has been assessed under Part 4 as well as Part 3.
 (5) Part 5 is concerned with the status and rights of care recipients. It deals with the following matters:
   (a) the care recipient's obligation to accept care lawfully given (section 47):
   (b) the specific rights of care recipients (sections 48 to 59):
@@ -63,7 +63,6 @@ The purposes of this Act are—
   - **facility** has the meaning given to it by section 9(1)
   - **former special patient** means a person who, because of a direction given under the Criminal Procedure (Mentally Impaired Persons) Act 2003 or because of an order made under section 84(6) of the Mental Health (Compulsory Assessment and Treatment) Act 1992, has ceased to be a special patient within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992 but who, at the relevant time, continues, under that direction or order, to be a patient under that Act
   - **guardian** includes a welfare guardian
-  - **inmate**
   - **intellectual disability** has the meaning given to it by section 7
   - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
@@ -90,9 +89,9 @@ The purposes of this Act are—
   - **welfare guardian** has the same meaning as in section 2 of the Protection of Personal and Property Rights Act 1988
   - **without notice** , in relation to an application, has the same meaning as ex parte
   - **young person** has the same meaning as in section 2(1) of the Children, Young Persons, and Their Families Act 1989.
-(2) If this section comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:
+(2) If this section comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:.
   - **medical practitioner** means a medical practitioner registered under the Medical Practitioners Act 1995
-  - **psychologist** means a psychologist registered under the Psychologists Act 1981.
+  - **psychologist** means a psychologist registered under the Psychologists Act 1981
 
 ### 6 Meaning of care recipient and related terms
 (1) Care recipient means a person who is—
@@ -342,7 +341,7 @@ Whenever practicable, a specialist assessor who practises in the field of child 
 ### 34 Timing for, and place of, assessment
 (1) The assessment of a proposed care recipient must take place within 7 days after the receipt of the application under section 29.
 (2) If the assessment is to be conducted in a facility, the proposed care recipient may be taken under the direction of the appropriate manager or the Director of Area Mental Health Services to the facility for the purposes of the assessment, and may also be taken back, under the direction of the manager or the Director of Area Mental Health Services, to the place where the proposed care recipient is held.
-(3) a prisoner who is taken to a facility under subsection (2) may not stay in the facility overnight, except in accordance with a notice given under section 35.
+(3) A prisoner who is taken to a facility under subsection (2) may not stay in the facility overnight, except in accordance with a notice given under section 35.
 
 ### 35 Proposed care recipients may have to stay in facility
 (1) The co-ordinator may notify the appropriate manager or Director of Area Mental Health Services that the prisoner or former special patient must stay in a specified facility during 1 or more of the following periods:
@@ -364,7 +363,7 @@ The fact that a prisoner who is charged with, or convicted of, an offence is als
 (1) The specialist assessor or assessors designated under section 32(b) must conduct an assessment examination—
   (a) to ascertain whether the proposed care recipient has an intellectual disability and is in need of compulsory care; and
   (b) if that is the case, to assess the level of care that is required to manage the risk that the proposed care recipient's behaviour poses to the health and safety of the proposed care recipient or of others.
-(2) Unless consultation is not practicable, the specialist assessor or 1 of the assessors involved in the assessment examination must consult with the following persons about the proposed care recipient's condition and background:
+(2) Unless consultation is not practicable, the specialist assessor or one of the assessors involved in the assessment examination must consult with the following persons about the proposed care recipient's condition and background:
   (a) the proposed care recipient's principal caregiver:
   (b) any welfare guardian of the proposed care recipient:
   (c) if the proposed care recipient is a child or young person, each parent or guardian of the child or young person:
@@ -412,7 +411,7 @@ The fact that a prisoner who is charged with, or convicted of, an offence is als
 **Visit by Judge**
 
 ### 41 Judge to examine proposed care recipient
-(1) If an application is made for a compulsory care order for a proposed care recipient, a Family Court Judge must examine the proposed care recipient as soon as practicable and in no case later than 14 days after the application is filed in the Court.
+(1) If an application is made for a compulsory care order for a proposed care recipient, a Family Court Judge must examine the proposed care recipient as soon as practicable and in no case later than 14 days after the application is filed in the court.
 (2) Subsection (1) does not prevent a Family Court Judge from completing an examination of the proposed care recipient under that subsection later than 14 days after the filing of the application in respect of the proposed care recipient.
 (3) The examination must be conducted—
   (a) at the place where the proposed care recipient is staying; or
@@ -437,15 +436,15 @@ If after examining, under section 41, a proposed care recipient the Judge is sat
 
 ### 44 Court to consider proposed care recipient's condition
 (1) On an application for a compulsory care order, the Family Court must determine whether or not the proposed care recipient has an intellectual disability.
-(2) If the Court considers that the proposed care recipient has an intellectual disability, it must determine whether or not, having regard to all the circumstances of the case, it is necessary to make a compulsory care order.
+(2) If the court considers that the proposed care recipient has an intellectual disability, it must determine whether or not, having regard to all the circumstances of the case, it is necessary to make a compulsory care order.
 
 ### 45 Jurisdiction to make compulsory care order
-(1) The Family Court may, on an application of the co-ordinator, make a compulsory care order in respect of a proposed care recipient if the Court is satisfied that the proposed care recipient—
+(1) The Family Court may, on an application of the co-ordinator, make a compulsory care order in respect of a proposed care recipient if the court is satisfied that the proposed care recipient—
   (a) has an intellectual disability; and
   (b) has been assessed under subpart 1 and Part 3; and
   (c) is to receive care under a care programme completed under section 26.
-(2) On an application under subsection (1) relating to a former special patient, the Court must consider and determine whether he or she must receive supervised care or secure care.
-(3) The Court may order that a former special patient receive secure care only if it considers that supervised care would pose a serious danger to the health or safety of the care recipient or of others.
+(2) On an application under subsection (1) relating to a former special patient, the court must consider and determine whether he or she must receive supervised care or secure care.
+(3) The court may order that a former special patient receive secure care only if it considers that supervised care would pose a serious danger to the health or safety of the care recipient or of others.
 
 ### 46 Term of compulsory care order
 (1) Every compulsory care order lasts for the term specified in the order.
@@ -531,14 +530,14 @@ Every care recipient is entitled to medical treatment and other health care appr
   (i) a district inspector:
   (j) the care manager:
   (k) a lawyer:
-(1) a specialist assessor from whom the care recipient has sought a second opinion about the care recipient's condition.
+  (l) a specialist assessor from whom the care recipient has sought a second opinion about the care recipient's condition.
 
 ### 59 Procedure where written communications or other items intercepted
 (1) If the care manager withholds a written communication or other item under section 57, the communication or item must be dealt with as follows:
   (a) if the address of the sender is known to the care manager, it must be returned to the sender:
   (b) if the address of the sender is not known to the care manager, it must either be—
-  (i) sent to the responsible district inspector; or
-  (ii) produced to the responsible district inspector when he or she next visits the facility after the receipt of the communication or thing.
+    (i) sent to the responsible district inspector; or
+    (ii) produced to the responsible district inspector when he or she next visits the facility after the receipt of the communication or thing.
 (2) If the care manager directs, under section 57, that a written communication or other item not be sent, the communication or item must either be—
   (a) sent to the responsible district inspector; or
   (b) produced to the responsible district inspector when he or she next visits the facility following the care recipient's request for the communication or thing to be sent.
@@ -664,7 +663,7 @@ For the purposes of this Act, a person's liability to detention under a sentence
 (1) When a person ceases to be a care recipient but does not cease to be liable to detention under a sentence, the person must—
   (a) be taken to a prison to undergo the remainder of the sentence; or
   (b) be otherwise dealt with according to law as if the person had never been a care recipient.
-(2) The co-ordinator must notify the chief executive of the Department of Corrections about a person to whom subsection (1) applies, and the chief executive must arrange for the person to be taken to a prison within 7 days after the date of the notification.
+(2) The co-ordinator must notify the Chief Executive of the Department of Corrections about a person to whom subsection (1) applies, and the chief executive must arrange for the person to be taken to a prison within 7 days after the date of the notification.
 (3) For the purposes of this section, prison includes a residence for the time being approved under section 142A of the Criminal Justice Act 1985.
 
 ## Part 6 — Reviews of condition and status of care recipients
@@ -718,7 +717,7 @@ On concluding a review under section 74, the Family Court may make any recommend
 
 ### 78 Reviews undertaken by specialist assessors
 (1) A review of a care recipient under section 77 must be conducted by 1 or more specialist assessors designated by the co-ordinator for the purpose.
-(2) When the co-ordinator designates 2 or more specialist assessors for the purpose of a review under section 77, the co-ordinator must nominate 1 of those assessors as the assessor who is principally responsible for the conduct of the review.
+(2) When the co-ordinator designates 2 or more specialist assessors for the purpose of a review under section 77, the co-ordinator must nominate one of those assessors as the assessor who is principally responsible for the conduct of the review.
 (3) In reviewing a care recipient under section 77, the specialist assessor or specialist assessors must—
   (a) examine the care recipient; and
   (b) consult with other health or disability professionals involved in the care of the care recipient, and take their views into account when assessing the results of the review of the care recipient's condition.
@@ -761,7 +760,7 @@ When a specialist assessor completes a certificate, under section 79, in respect
 On the expiry of a compulsory care order the care recipient ceases to be a care recipient under this Act.
 
 ### 84 Cancellation of court orders of certain care recipients
-(1) If the Family Court is satisfied that a care recipient no longer subject to the criminal justice system or a special care recipient who is liable to detention under a sentence no longer needs to be cared for as a care recipient, the Court may, on the application of the co-ordinator, cancel the care recipient's compulsory care order or the care recipient's order made under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(1) If the Family Court is satisfied that a care recipient no longer subject to the criminal justice system or a special care recipient who is liable to detention under a sentence no longer needs to be cared for as a care recipient, the court may, on the application of the co-ordinator, cancel the care recipient's compulsory care order or the care recipient's order made under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
 (2) The co-ordinator—
   (a) may make an application under subsection (1) at any time; and
   (b) must, as soon as practicable after a certificate under section 79 states that a care recipient no longer needs to be cared for as a care recipient, make an application under subsection (1) in respect of that care recipient's compulsory care order.
@@ -770,24 +769,24 @@ On the expiry of a compulsory care order the care recipient ceases to be a care 
 
 ### 85 Extension of compulsory care order
 (1) The Family Court may, on the application of the co-ordinator, extend the term of a care recipient's compulsory care order.
-(2) If the Court extends a compulsory care order for a care recipient no longer subject to the criminal justice system, the Court must consider and determine whether the care recipient must receive supervised care or secure care.
-(3) The Court may order that a care recipient no longer subject to the criminal justice system receive secure care only if it considers that supervised care would pose a serious danger to the health or safety of the care recipient or of others.
+(2) If the court extends a compulsory care order for a care recipient no longer subject to the criminal justice system, the court must consider and determine whether the care recipient must receive supervised care or secure care.
+(3) The court may order that a care recipient no longer subject to the criminal justice system receive secure care only if it considers that supervised care would pose a serious danger to the health or safety of the care recipient or of others.
 
 ### 86 Co-ordinator may seek variation of compulsory care order
 (1) If the co-ordinator, after consultation with a care recipient's care manager, reaches the view that a variation of any aspect (other than the term) of the care recipient's compulsory care order is desirable, the co-ordinator may apply to the Family Court for a variation of the order.
-(2) The Court may, on an application under subsection (1), vary a compulsory care order.
-(3) On an application under subsection (1) relating to a care recipient no longer subject to the criminal justice system, the Court must consider and determine whether the care recipient must receive supervised care or secure care.
-(4) The Court may order that a care recipient no longer subject to the criminal justice system receive secure care only if it considers that supervised care would pose a serious danger to the health or safety of the care recipient or of others.
+(2) The court may, on an application under subsection (1), vary a compulsory care order.
+(3) On an application under subsection (1) relating to a care recipient no longer subject to the criminal justice system, the court must consider and determine whether the care recipient must receive supervised care or secure care.
+(4) The court may order that a care recipient no longer subject to the criminal justice system receive secure care only if it considers that supervised care would pose a serious danger to the health or safety of the care recipient or of others.
 
 ### 87 Court may defer expiry of order if application for extension pending
-(1) If a care recipient's order is due to expire at any time when an application, under section 85, to extend the term of that order is pending before the Family Court, the Court may defer the expiry of the order by specifying a date as the last day of a period that, in the opinion of the Court, is sufficient for the application to be heard and determined.
+(1) If a care recipient's order is due to expire at any time when an application, under section 85, to extend the term of that order is pending before the Family Court, the court may defer the expiry of the order by specifying a date as the last day of a period that, in the opinion of the court, is sufficient for the application to be heard and determined.
 (2) The co-ordinator may apply without notice for an order, under subsection (1), to defer the expiry of a compulsory care order.
-(3) As soon as the Court makes an order under subsection (1), the co-ordinator must serve a copy of the order on every person who is entitled to be served with a copy of the application under section 85.
-(4) Every person served, or entitled to be served, under subsection (3) with a copy of an order under subsection (1) may apply to the Court for the cancellation or variation of the order.
+(3) As soon as the court makes an order under subsection (1), the co-ordinator must serve a copy of the order on every person who is entitled to be served with a copy of the application under section 85.
+(4) Every person served, or entitled to be served, under subsection (3) with a copy of an order under subsection (1) may apply to the court for the cancellation or variation of the order.
 
-### 88 Co-ordinator and Court to have regard to specialist assessor's certificate
+### 88 Co-ordinator and court to have regard to specialist assessor's certificate
 (1) In deciding whether to apply for a cancellation of a care recipient's court order, or for an extension of the term of a care recipient's compulsory care order, the co-ordinator must have regard to the most recent certificate given, under section 79, for that care recipient.
-(2) In deciding whether to cancel, or to extend the term of, a care recipient's court order, the Court—
+(2) In deciding whether to cancel, or to extend the term of, a care recipient's court order, the court—
   (a) must have regard to the most recent certificate given, under section 79, for that care recipient:
   (b) may obtain a second opinion from a specialist assessor other than the specialist assessor who issued the certificate referred to in paragraph (a).
 
@@ -797,7 +796,7 @@ On the expiry of a compulsory care order the care recipient ceases to be a care 
 
 ### 89 Form of clinical review certificate for special care recipients detained because unfit to stand trial
 (1) This section applies to a person who is detained as a special care recipient because of an order, made under the Criminal Procedure (Mentally Impaired Persons) Act 2003, following a finding that the person is unfit to stand trial.
-(2) When a specialist assessor completes a certificate, under section 79, for a person to whom this section applies, the assessor must state in respect of the person 1 of the following opinions:
+(2) When a specialist assessor completes a certificate, under section 79, for a person to whom this section applies, the assessor must state in respect of the person one of the following opinions:
   (a) the person is no longer unfit to stand trial:
   (b) the person is still unfit to stand trial and it is necessary, in the person's own interests or in the interests of the safety of any person, class of person, or the public, that the person continue to be cared for as a special care recipient:
   (c) the person is still unfit to stand trial, but it is no longer necessary, in the person's own interests or in the interests of the safety of any person, class of person, or the public, that the person continue to be cared for as a special care recipient.
@@ -814,7 +813,7 @@ On the expiry of a compulsory care order the care recipient ceases to be a care 
 
 ### 92 Form of clinical review certificate for special care recipients detained because acquitted on account of insanity
 (1) This section applies to a person who is detained as a special care recipient because of an order made under the Criminal Procedure (Mentally Impaired Persons) Act 2003, following the acquittal of the person on account of insanity.
-(2) When a specialist assessor completes a certificate, under section 79, for a person to whom this section applies, the assessor must state in respect of the person 1 of the following opinions:
+(2) When a specialist assessor completes a certificate, under section 79, for a person to whom this section applies, the assessor must state in respect of the person one of the following opinions:
   (a) it is still necessary, in the person's own interests or in the interests of the safety of any person, class of person, or the public, that the person continue to be cared for as a special care recipient:
   (b) it is no longer necessary, in the person's own interests or in the interests of the safety of any person, class of person, or the public, that the person continue to be cared for as a special care recipient.
 
@@ -949,28 +948,28 @@ In sections 111 to 113, care recipient who has escaped means a care recipient—
 The co-ordinator or the care manager of a care recipient who has escaped may retake and return that care recipient to the care recipient's facility or to another facility specified by the co-ordinator.
 
 ### 112 Warrant to enter and search places to retake escaped care recipients
-(1) A District Court Judge or (if no Judge is available) a Registrar may issue a warrant in the prescribed form authorising any member of the police to search a specified place and take a named person to a facility, if the District Court Judge or Registrar is satisfied that there are reasonable grounds for believing that the person—
+(1) A District Court Judge or (if no Judge is available) a Registrar may issue a warrant in the prescribed form authorising any constable to search a specified place and take a named person to a facility, if the District Court Judge or Registrar is satisfied that there are reasonable grounds for believing that the person—
   (a) is a care recipient who has escaped; and
   (b) is in the place that is to be specified in the proposed warrant.
 (2) A warrant under subsection (1) can only be issued on an application, in writing, made on oath by the co-ordinator or the care manager of the care recipient who has escaped.
-(3) A member of the police who executes a warrant under subsection (1) may do so with any assistance from the care recipient's care manager that the member of the police requests.
-(4) A warrant authorises the member of the police who is executing it and the care manager who may be requested to assist the member of the police—
+(3) A constable who executes a warrant under subsection (1) may do so with any assistance from the care recipient's care manager that the constable requests.
+(4) A warrant authorises the constable who is executing it and the care manager who may be requested to assist the constable—
   (a) to enter and search at any time the place specified in the warrant; and
   (b) to remove the care recipient from that place and to take him or her to the care recipient's facility or to another facility specified by the co-ordinator; and
   (c) to use any reasonable force that may be required to carry out any action referred to in paragraph (a) or paragraph (b).
 
 ### 113 Entry of place without warrant
-(1) A member of the police may enter a place without a warrant if there are reasonable grounds for believing that—
+(1) A constable may enter a place without a warrant if there are reasonable grounds for believing that—
   (a) entry is necessary in order to retake a care recipient who has escaped; and
   (b) the care recipient is endangering, or there is an imminent risk that the care recipient will endanger, the health or safety of the care recipient or of others.
-(2) A member of the police who enters a place under subsection (1) may be accompanied and assisted by the co-ordinator or by the care recipient's care manager.
-(3) A member of the police who enters a place under this section, and the co-ordinator and care manager who may be required to assist the member of the police, may—
+(2) A constable who enters a place under subsection (1) may be accompanied and assisted by the co-ordinator or by the care recipient's care manager.
+(3) A constable who enters a place under this section, and the co-ordinator and care manager who may be required to assist the constable, may—
   (a) enter and search the place, at any time; and
   (b) use any reasonable force that may be required to enter or search the place or to take and remove the care recipient.
 
 ### 114 Matters to be observed when place entered
-A member of the police who enters a place under section 112 or section 113 must,—
-  (a) if the member is not in uniform, produce evidence to the person appearing to be in charge of the place that he or she is a member of the police; and
+A constable who enters a place under section 112 or section 113 must,—
+  (a) if the constable is not in uniform, produce evidence to the person appearing to be in charge of the place that he or she is a constable; and
   (b) explain the purpose of the entry to that person; and
   (c) explain to that person the authority of the entry, and, where entry is made with a warrant, show the warrant to that person.
 
@@ -1008,7 +1007,7 @@ A member of the police who enters a place under section 112 or section 113 must,
   (g) if the care recipient is a former special patient, the Director of Area Mental Health Services who applied to have the care recipient assessed under section 29(2):
   (h) the co-ordinator:
   (i) the responsible district inspector:
-  (j) any other person the Court considers should be entitled to appear and be heard because of that person's interest in the welfare of the care recipient.
+  (j) any other person the court considers should be entitled to appear and be heard because of that person's interest in the welfare of the care recipient.
 (2) Subsection (1)(a) is subject to sections 122 and 123.
 
 ### 118 Specialist assessors and care managers entitled to appear and be heard on certain applications
@@ -1028,88 +1027,80 @@ A care recipient's care manager and a specialist assessor who has completed the 
 ### 121 Attendance at hearing by care recipient and person in support
 (1) The care recipient must be present throughout the hearing of every application unless,—
   (a) in the case of an application for a compulsory care order, the Judge who examines the care recipient in accordance with section 41 certifies that it would be in the best interests of the care recipient to excuse the care recipient from attending the hearing; or
-  (b) the care recipient is excused or excluded by the Court under section 122.
+  (b) the care recipient is excused or excluded by the court under section 122.
 (2) The care recipient may be supported at the hearing of an application by a person nominated by the care recipient or by the care recipient's guardian, principal caregiver, or support person.
 (3) A person nominated under subsection (2) is not entitled to be heard at the hearing, unless the person is otherwise entitled to be heard.
 
 ### 122 Excusing or excluding care recipient
-(1) The Court may excuse the care recipient from the hearing of an application if it is satisfied that the care recipient wholly lacks the capacity to understand the nature and purpose of the application, or that attendance or continued attendance is likely to cause the care recipient serious mental, emotional, or physical harm.
-(2) The Court may exclude the care recipient if it is satisfied that the care recipient is causing a disturbance that makes it impracticable to continue with the hearing in his or her presence.
+(1) The court may excuse the care recipient from the hearing of an application if it is satisfied that the care recipient wholly lacks the capacity to understand the nature and purpose of the application, or that attendance or continued attendance is likely to cause the care recipient serious mental, emotional, or physical harm.
+(2) The court may exclude the care recipient if it is satisfied that the care recipient is causing a disturbance that makes it impracticable to continue with the hearing in his or her presence.
 (3) A discretion conferred by this section may be exercised at any stage of the hearing.
 
 ### 123 Representation of persons entitled to be heard, and special rights of care recipient
 (1) Every person who is entitled to appear and be heard at a hearing of an application may be represented by a lawyer, and may call witnesses, and may cross-examine every witness called by another party to the proceeding.
-(2) If the care recipient is present and appears capable of addressing the Court, the Court must give the care recipient an opportunity to do so.
-(3) While the care recipient is addressing the Court under subsection (2), the Court may, if it thinks it desirable to do so, require any of the following persons to withdraw from the Court:
+(2) If the care recipient is present and appears capable of addressing the court, the court must give the care recipient an opportunity to do so.
+(3) While the care recipient is addressing the court under subsection (2), the court may, if it thinks it desirable to do so, require any of the following persons to withdraw from the court:
   (a) a parent of the care recipient:
   (b) a guardian of the care recipient:
   (c) a person with whom the care recipient is living:
   (d) an employee or agent of a service:
   (e) a lawyer representing a person referred to in any of paragraphs (a) to (d).
 
-### 124 Appointment by Court of lawyer to represent care recipient
-(1) The Court may, if the Court is satisfied that it is necessary or desirable to do so, appoint a lawyer to represent the care recipient.
-(2) If the Court appoints a lawyer under subsection (1) to represent a care recipient who is a child or young person, it must, so far as practicable, appoint a lawyer who is, by reason of personality, cultural background, training, and experience, suitably qualified to represent the child or young person.
+### 124 Appointment by court of lawyer to represent care recipient
+(1) The court may, if the court is satisfied that it is necessary or desirable to do so, appoint a lawyer to represent the care recipient.
+(2) If the court appoints a lawyer under subsection (1) to represent a care recipient who is a child or young person, it must, so far as practicable, appoint a lawyer who is, by reason of personality, cultural background, training, and experience, suitably qualified to represent the child or young person.
 (3) A lawyer appointed under this section may call witnesses, and may cross-examine every witness in the proceeding.
 (4) Fees for professional services provided by lawyers appointed under this section, and reasonable expenses incurred,—
   (a) may be determined in accordance with regulations made under this Act; and
   (b) are payable out of public money appropriated by Parliament for the purpose.
-(5) The bill of costs rendered by a lawyer appointed under this section must be given to the Registrar of the Court in which the proceeding was heard, and the Registrar may tax the bill of costs.
+(5) The bill of costs rendered by a lawyer appointed under this section must be given to the Registrar of the court in which the proceeding was heard, and the Registrar may tax the bill of costs.
 (6) If the lawyer is dissatisfied with the decision of the Registrar as to the amount of the bill of costs, the lawyer may, within 14 days after the date of the decision, apply to a Family Court Judge to review the decision; and the Judge may confirm the decision or vary the decision in a way that the Judge considers fair and reasonable.
 
 ### 125 Court may call for report on care recipient
-(1) The Court—
-  (a) may, if it is satisfied that it is necessary for the determination of an application under this Act, request a qualified person to prepare a report on any matter relating to the care recipient that the Court specifies; and
+(1) The court—
+  (a) may, if it is satisfied that it is necessary for the determination of an application under this Act, request a qualified person to prepare a report on any matter relating to the care recipient that the court specifies; and
   (b) must, if it makes such a request, make an order or decision under subsection (5).
-(2) In deciding whether or not to request a report under subsection (1), the Court may ascertain and have regard to the wishes of the care recipient and any other party to the proceeding.
-(3) The Registrar of the Court must give a copy of a report obtained under this section to the lawyer for the care recipient and to the lawyer for each of the other parties to the proceeding or, if a party is not represented by a lawyer, to that party.
-(4) The Court must order that a copy of a report given to a lawyer under subsection (3) may not be given or shown to the person for whom the lawyer is acting if the Court has reason to believe that disclosure of the contents of the report may pose a serious threat to the health or safety of the care recipient or of any other person.
-(5) Where a person prepares a report under subsection (1), the Court must order either—
+(2) In deciding whether or not to request a report under subsection (1), the court may ascertain and have regard to the wishes of the care recipient and any other party to the proceeding.
+(3) The Registrar of the court must give a copy of a report obtained under this section to the lawyer for the care recipient and to the lawyer for each of the other parties to the proceeding or, if a party is not represented by a lawyer, to that party.
+(4) The court must order that a copy of a report given to a lawyer under subsection (3) may not be given or shown to the person for whom the lawyer is acting if the court has reason to believe that disclosure of the contents of the report may pose a serious threat to the health or safety of the care recipient or of any other person.
+(5) Where a person prepares a report under subsection (1), the court must order either—
   (a) that a party to the proceeding pay the fees and expenses of that person; or
   (b) that those fees and expenses be paid out of public money appropriated by Parliament for the purpose.
 
 ### 126 Evidence on report
 (1) Where a report has been prepared, under section 125, for a proceeding, every party to the proceeding may give evidence on a matter referred to in the report.
-(2) The Court may call the person making the report as a witness, either on its own initiative or on the application of a party to the proceeding.
+(2) The court may call the person making the report as a witness, either on its own initiative or on the application of a party to the proceeding.
 
 ### 127 Court not bound by rules of evidence
-In a proceeding on an application under this Act, whether at first instance or on appeal or otherwise, the Court may receive any evidence that it thinks fit, whether it is admissible in a court of law or not.
+In a proceeding on an application under this Act, whether at first instance or on appeal or otherwise, the court may receive any evidence that it thinks fit, whether it is admissible in a court of law or not.
 
-### 128 Power of Court to call witnesses
-(1) In a proceeding on an application under this Act, the Court may, on its own initiative, call as a witness any person whose evidence may in its opinion be of assistance to the Court.
-(2) A witness called by the Court under this section has the same privilege to refuse to answer any question that the witness would have had, if called by a party to the proceeding.
-(3) A witness called by the Court under this section may be examined and re-examined by the Court, and may be cross-examined by or on behalf of any party to the proceeding.
-(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with all necessary modifications, apply with respect to a person called as a witness by the Court under this section as if that person had been called by a party to the proceeding.
-(5) The expenses of a witness called by the Court under this section must be met in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
+### 128 Power of court to call witnesses
+(1) In a proceeding on an application under this Act, the court may, on its own initiative, call as a witness any person whose evidence may in its opinion be of assistance to the court.
+(2) A witness called by the court under this section has the same privilege to refuse to answer any question that the witness would have had, if called by a party to the proceeding.
+(3) A witness called by the court under this section may be examined and re-examined by the court, and may be cross-examined by or on behalf of any party to the proceeding.
+(4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with all necessary modifications, apply with respect to a person called as a witness by the court under this section as if that person had been called by a party to the proceeding.
+(5) The expenses of a witness called by the court under this section must be met in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
 
 ### 129 Proceedings not open to public
 (1) No person may be present during a hearing under this Act except the following:
   (a) the Judge:
-  (b) officers of the Court:
+  (b) officers of the court:
   (c) parties to the proceeding and their lawyers, any person entitled under this Act to appear at the hearing, and any other person nominated by the care recipient:
   (d) witnesses:
   (e) any other person whom the Judge permits to be present.
 (2) A witness must leave the courtroom if asked to do so by the Judge.
-(3) Nothing in this section limits any other power of the Court to hear proceedings in private or to exclude any person from the Court.
+(3) Nothing in this section limits any other power of the court to hear proceedings in private or to exclude any person from the court.
 
-### 130 Restriction of publication of reports of proceedings
-(1) No person may publish a report of proceedings under this Act except with the leave of the court that heard the proceedings.
-(2) Every person who contravenes subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
-(3) Nothing in this section limits—
-  (a) the provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to judicial proceedings; or
-  (b) the power of a court to punish any contempt of court.
-(4) Nothing in this section applies to the publication of—
-  (a) any report in any publication that—
-    (i) is genuinely of a professional or technical nature; and
-    (ii) is intended for circulation among persons appointed or designated under Part 11, members of the legal or medical professions, psychologists, officers of the Public Service, or social welfare workers:
-  (b) statistical information relating to proceedings under this Act:
-  (c) the results of any genuine research relating to proceedings under this Act, as long as the publication does not include any name or particulars likely to lead to the identification of any of the parties to the proceedings, or of any other person to whom the proceedings relate.
+### 130 Publication of reports of proceedings
+Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in a Family Court:
+  (b) in any other court, in which case references in those sections to the Family Court or court must be read as references to that other court.
 
 ### 131 Court may dispense with hearing in certain circumstances
-Despite any other provision of this Part, the Court may determine an application without a formal hearing if it is satisfied that no person wishes to be heard in respect of the application.
+Despite any other provision of this Part, the court may determine an application without a formal hearing if it is satisfied that no person wishes to be heard in respect of the application.
 
 ### 132 Care recipient to be given copy of order
-After a court has made an order on an application under this Act, the Registrar of the Court must give or send the care recipient and the care recipient's lawyer and any guardian of the care recipient a copy of the order.
+After a court has made an order on an application under this Act, the Registrar of the court must give or send the care recipient and the care recipient's lawyer and any guardian of the care recipient a copy of the order.
 
 **Appeals**
 
@@ -1117,7 +1108,7 @@ After a court has made an order on an application under this Act, the Registrar 
 (1) Where, in a proceeding under this Act, a Family Court has made or has refused to make an order, or has otherwise determined or has dismissed the proceeding, a party to the proceeding may, within 28 days after the making of the order or decision or within such further time as the High Court may allow, appeal to the High Court.
 (2) The High Court Rules and sections 74 to 76 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under subsection (1) as if it were an appeal under section 72 of that Act.
 (3) Despite subsection (2), on the appellant's application without notice, the Family Court may order that the appellant must not be required under section 74(1) of the District Courts Act 1947 to give the Registrar of the High Court security for costs.
-(4) The decision of the High Court on an appeal to that Court under subsection (1) is final unless section 134 applies.
+(4) The decision of the High Court on an appeal to that court under subsection (1) is final unless section 134 applies.
 
 ### 134 Further appeal to Court of Appeal
 (1) A party to an appeal under section 133 may, with the leave of the Court of Appeal, appeal to the Court of Appeal against a determination of the High Court on a question of law arising in an appeal under that section.
