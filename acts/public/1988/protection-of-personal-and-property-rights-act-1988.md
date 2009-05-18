@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2009-05-18_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -579,14 +579,14 @@ Except as provided in sections 54 and 55 of this Act, nothing in this Act shall 
 (2) A Court may hear and determine any proceedings before it under Part 1 of this Act in conjunction with any proceedings under Part 3 of this Act in any case where both proceedings are in respect of the same person, whether or not the parties to the proceedings are the same.
 (3) If it appears to a Court hearing an application under Part 1 of this Act that a property order should be made, either in addition to or instead of a personal order, or if it appears to a Court hearing an application under Part 3 of this Act that a personal order should be made, either in addition to or instead of a property order, the Court may make all such orders and give all such directions as may be necessary to facilitate the hearing of an application under Part 3 or (as the case may require) Part 1 of this Act.
 
-### 65 Appointment of barrister or solicitor by Court
-(1) On an application for the exercise of the Court's jurisdiction under this Act, a Court shall appoint a barrister or solicitor to represent the person in respect of whom the application is made, unless the Court is satisfied that the person has retained or will retain a barrister or solicitor.
+### 65 Appointment of barrister or solicitor by Court or Registrar
+(1) On an application for the exercise of the Court's jurisdiction under this Act, a Court or the Registrar of a Court must appoint a barrister or solicitor to represent the person in respect of whom the application is made, unless the Court or the Registrar is satisfied that the person has retained or will retain a barrister or solicitor.
 (2) So far as may be practicable, it shall be the duty of the barrister or solicitor appointed under subsection (1) of this section to—
   (a) Contact the person in respect of whom the application is made, explain to that person the nature and purpose of the application, and ascertain and give effect to that person's wishes in respect of the application; and
   (b) Evaluate the solutions for the problem for which an order is sought submitted by other parties to the proceedings, taking account of the need to find a solution that—
     (i) Makes the least restrictive intervention possible in the life of the person in respect of whom the application is made, having regard to the degree of incapacity or incompetence of that person; and
     (ii) Enables or encourages the person in respect of whom the application is made to develop and exercise such capacity or competence that the person may have to the greatest extent possible.
-(3) Without limiting anything in the preceding provisions of this section, in respect of any application for the exercise of the Court's jurisdiction under this Act, a Court may appoint a barrister or solicitor to assist the Court.
+(3) Without limiting anything in the preceding provisions of this section, in respect of any application for the exercise of the Court's jurisdiction under this Act, a Court may appoint , or direct the Registrar of the Court to appoint, a barrister or solicitor to assist the Court.
 (4) A barrister or solicitor appointed under this section may call any person as a witness in the proceedings, and may cross-examine witnesses called by any party to the proceedings or by the person in respect of whom the application is made or by the Court.
 (5) Fees for professional services provided by barristers or solicitors appointed under this section, and reasonable expenses incurred,—
   (a) May be determined in accordance with regulations made under this Act; and
@@ -664,8 +664,10 @@ The Family Court Judge who presides over a pre-hearing conference shall be entit
 (3) Nothing in this section shall limit or affect the rights of the person in respect of whom the application is made where the person is a party to the proceedings.
 
 ### 76 Court may call for report on person
-(1) On an application for the exercise of the Court's jurisdiction under this Act, a Court may, if it is satisfied that it is necessary for the proper disposition of the application, request any person whom it considers qualified to do so to prepare a medical, psychiatric, psychological, or other report on the person in respect of whom the application is made.
-(2) In deciding whether or not to request a report under subsection (1) of this section, a Court may ascertain and have regard to the wishes of the parties and of the person in respect of whom the application is made.
+(1) On an application for the exercise of the Court’s jurisdiction under this Act, a Court may, if it is satisfied that it is necessary for the proper disposition of the application,—
+  (a) request any person whom it considers qualified to do so to prepare a medical, psychiatric, psychological, or other report on the person in respect of whom the application is made; or
+  (b) direct the Registrar of the Court to request any person whom the Registrar considers qualified to do so to prepare a medical, psychiatric, psychological, or other report on the person in respect of whom the application is made.
+(2) In deciding whether or not to request a report or make a direction under subsection (1) of this section, a Court may ascertain and have regard to the wishes of the parties and of the person in respect of whom the application is made.
 (3) A copy of any report obtained under this section shall be given by the Registrar of the Court to—
   (a) The barrister or solicitor for each party to the proceedings and for the person in respect of whom the application is made or, if any party is not represented by a barrister or solicitor, to that party; and
   (b) Any barrister or solicitor appointed under section 65(3) of this Act.
@@ -687,30 +689,33 @@ In any proceedings under this Act, whether by way of hearing in the first instan
 (4) Sections 20, 38, and 39 of the Summary Proceedings Act 1957, so far as they are applicable and with the necessary modifications, shall apply with respect to every person called as a witness by the Court under this section as if that person had been called by a party to the proceedings.
 (5) The expenses of any witness called by a Court under this section shall be paid in the first instance, in accordance with the prescribed scale of witnesses' expenses, out of public money appropriated by Parliament for the purpose.
 
-### 79 Proceedings not open to public
-(1) No person shall be present during the hearing of any proceedings under this Act except the following:
-  (a) Officers of the Court:
-  (b) Parties to the proceedings and their barristers and solicitors:
-  (c) The person in respect of whom the application is made and the barrister or solicitor representing that person:
-  (d) Any barrister or solicitor appointed pursuant to section 65(3) of this Act to assist the Court:
-  (e) Witnesses:
-  (f) Any other person whom the Judge permits to be present.
-(2) Any witness shall leave the courtroom if asked to do so by the Judge.
-(3) Nothing in this section shall limit any other power of the Court to hear proceedings in private or to exclude any person from the Court.
+### 79 Attendance at hearings
+(1) The following persons may attend a hearing of an application under this Act:
+  (a) officers of the Court:
+  (b) parties to the proceedings:
+  (c) lawyers representing parties to the proceedings:
+  (d) the person in respect of whom the application is made:
+  (e) the lawyer representing the person in respect of whom the application is made:
+  (f) a barrister or solicitor appointed under section 65(3) to assist the Court:
+  (g) witnesses:
+  (h) accredited news media reporters:
+  (i) persons whom the Judge permits to be present as support persons for any person described in paragraphs (b) and (d):
+  (j) any other person whom the Judge permits to be present.
+(2) The Family Court Judge must agree to a request under subsection (1)(i) unless the Judge considers there is a good reason why the named support persons should not be permitted to be present.
+(3) No support persons may help a party conduct his or her case.
+(4) If, during a hearing, the Family Court Judge requests a person of any of the following kinds to leave the courtroom, the person must do so:
+  (a) a witness:
+  (b) an accredited news media reporter:
+  (c) a support person whom the Judge permitted to be present under subsection (1)(i).
+(5) Nothing in this section limits any other power of the Court—
+  (a) to hear proceedings in private; or
+  (b) to permit a McKenzie friend to be present; or
+  (c) to exclude any person from the Court.
 
-### 80 Restriction of publication of reports of proceedings
-(1) No person shall publish any report of proceedings under this Act except with the leave of the Court that heard the proceedings.
-(2) Every person who contravenes subsection (1) of this section commits an offence against this Act and is liable on summary conviction,—
-  (a) In the case of an individual, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding $500:
-  (b) In the case of a body corporate, to a fine not exceeding $2,500.
-(3) Nothing in this section shall limit—
-  (a) The provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to judicial proceedings; or
-  (b) The power of any court to punish any contempt of court.
-(4) Nothing in this section shall apply to the publication of any report in any publication that—
-  (a) Is of a bona fide professional or technical nature; and
-  (b) Is intended for circulation among—
-    (i) Members of the legal or medical professions, officers of the Public Service, psychologists, or social welfare workers; or
-    (ii) Members of any group that is engaged, otherwise than for commercial gain, in the provision of services and facilities for the welfare of persons in relation to whom the Court has jurisdiction in accordance with section 6 or section 25 of this Act.
+### 80 Publication of reports of proceedings
+Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in a Family Court:
+  (b) in any other court, in which case references in those sections to the Family Court or Court must be read as references to that other court.
 
 ### 81 Costs
 Subject to any other provision of this Act, a Court, on the hearing of any proceedings before it under this Act, may make such order as to costs as it thinks fit.
