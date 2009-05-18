@@ -1,5 +1,5 @@
 # Intellectual Disability (Compulsory Care and Rehabilitation) Amendment Act 2008
-_Consolidation as at 2009-04-10_
+_Consolidation as at 2009-05-18_
 
 ### 1 Title
 This Act is the Intellectual Disability (Compulsory Care and Rehabilitation) Amendment Act 2008.
