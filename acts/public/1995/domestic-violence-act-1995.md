@@ -1,5 +1,5 @@
 # Domestic Violence Act 1995
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-05-18_
 
 > An Act to provide greater protection from domestic violence
 
@@ -521,7 +521,7 @@ Where, in any direction made under section 32 of this Act, the Court states, pur
 
 ### 39 Notice of absence from programme
 (1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 of this Act must, where the respondent or the associated respondent fails to attend any session (except where he or she has been excused from attendance pursuant to section 38 of this Act), within 7 days of that failure, notify that fact, in writing, to the Registrar.
-(2) On receiving notification under subsection (1) of this section, the Registrar must, without delay, bring the matter to the attention of a Judge so that the Judge may consider whether or not the power conferred by section 42 of this Act should be exercised in relation to the respondent or, as the case requires, the associated respondent.
+(2)
 
 ### 40 Notice of conclusion of programme
 (1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 of this Act must, when the programme concludes, notify that fact, in writing and without delay, to the Registrar.
@@ -534,16 +534,28 @@ Where, in any direction made under section 32 of this Act, the Court states, pur
 (1) The programme provider to whom the respondent or associated respondent is referred pursuant to a direction made under section 32 of this Act may, at any time during the course of the programme, if the programme provider—by notice in writing to the Registrar, request that the direction be varied by substituting a different programme.
   (a) Believes, on reasonable grounds, that the programme is not appropriate for the respondent or, as the case requires, the associated respondent, having regard to his or her character and personal history and to any other relevant circumstances; or
   (b) Considers that the respondent or, as the case requires, the associated respondent is not participating fully in the programme, and that this is significantly affecting his or her ability to benefit fully from the programme,—
-(2) On receiving notification under subsection (1) of this section, the Registrar must, without delay, bring the matter to the attention of a Judge so that the Judge may consider whether or not the power conferred by section 42 of this Act should be exercised in relation to the respondent or, as the case requires, the associated respondent.
+(2)
+
+### 41A Powers of Registrar on receipt of notice under section 39 or 41
+(1) On receiving a notice under section 39 or 41, the Registrar must, without delay, either—
+  (a) exercise the powers under section 82, as if he or she were the Court referred to in that section, to call the respondent or, as the case may be, the associated respondent before the Court; or
+  (b) bring the matter to the attention of a Judge so that the Judge may consider whether to exercise the power conferred by section 42 in relation to the respondent or, as the case may be, the associated respondent.
+(2) Where the Registrar exercises the powers under section 82 in the manner allowed by subsection (1)(a) then, subject to any regulations made under this Act, section 82 applies so far as applicable and with the necessary modifications as if the respondent or, as the case may be, the associated respondent, were a witness in the proceedings.
 
 ### 42 Judge may call respondent or associated respondent before Court
 (1) Where,—a Judge may exercise the powers under section 82 of this Act to call the respondent or, as the case may be, the associated respondent before the Court; and, subject to any regulations made under this Act, section 82 of this Act applies, so far as applicable and with the necessary modifications, as if the person were a witness in proceedings.
   (a) A respondent or an associated respondent fails to comply in 1 or more respects with a direction made under section 32(1) or section 32(2) of this Act; or
-  (b) Pursuant to section 39(2) or section 41(2) of this Act, a Registrar brings a matter to the attention of a Judge,—
-(2) Where the respondent or an associated respondent appears before the Court pursuant to subsection (1) of this section, the Court, after hearing the person, may, subject to subsection (3) of this section, confirm, vary, or discharge the direction.
-(3) Except where the respondent or the associated respondent appears before the Court as a result of a notification given pursuant to section 41(1) of this Act, a Judge may not vary or discharge the direction pursuant to subsection (2) of this section in any case where the direction has been confirmed or varied pursuant to section 37 of this Act.
-(4) Where, pursuant to subsection (2) of this section, the Court confirms or varies a direction, then, if the person to whom the direction relates is before the Court, the Judge must warn that person that non-compliance with the direction is an offence punishable by imprisonment.
-(5) Failure to give the warning required by subsection (4) of this section does not affect the validity of the direction confirmed or varied.
+  (b) Pursuant to section 41A(1)(b), a Registrar brings a matter to the attention of a Judge,—
+(2)
+(3)
+(4)
+(5)
+
+### 42A Respondent or associated respondent called before Court
+(1) Where a respondent or an associated respondent appears before the Court under section 41A(1)(a) or section 42, the Court may, after hearing the respondent or the associated respondent, confirm, vary, or discharge the direction.
+(2) The Court may not vary or discharge a direction confirmed or varied under section 37 unless a variation of that direction has been requested under section 41.
+(3) Where the Court confirms or varies a direction under subsection (1) and the respondent or, as the case may be, the associated respondent is before the Court, the Judge must warn him or her that non-compliance with the direction is an offence punishable by imprisonment.
+(4) Failure to give the warning required by subsection (3) does not affect the validity of the direction confirmed or varied.
 
 ### 43 Confidentiality of information disclosed to programme provider
 (1) In this section, unless the context otherwise requires,—
@@ -962,12 +974,16 @@ Sections 11 and 12 of this Act, so far as applicable and with the necessary modi
     (i) The person so bringing or defending the proceedings:
     (ii) The person on whose behalf the proceedings are so brought or defended:
   (f) Witnesses:
+  (fa) accredited news media reporters:
   (g) Any person who is nominated by the applicant for a protection order or by a protected person in accordance with subsection (2) of this section:
   (h) Any other person whom the Judge permits to be present.
 (2) For the purposes of any proceedings to which this section applies, any party to the proceedings (being an applicant for a protection order or a protected person) may nominate a reasonable number of persons (being members of his or her family, whanau, or family group, or any other person) to attend any hearing of those proceedings for the purpose of providing support to that person.
-(3) Any witness must leave the courtroom if asked to do so by the Judge.
+(3) Any witness and any accredited news media reporter must leave the courtroom if asked to do so by the Judge.
 (4) No person present in the courtroom pursuant to subsection (1)(g) of this section is entitled to be heard at the hearing, and the Court may exclude any such person from the hearing at any time.
-(5) Nothing in this section limits any other power of the Court to hear proceedings in private or to exclude any person from the Court.
+(5) Nothing in this section limits any other power of the Court—
+  (a) to hear proceedings in private; or
+  (b) to permit a McKenzie friend to be present; or
+  (c) to exclude any person from the Court.
 
 ### 84 Evidence
 In any proceedings under this Act (other than criminal proceedings), and whether by way of hearing in the first instance or by way of appeal, or otherwise, the Court may receive any evidence that it thinks fit, whether or not it is otherwise admissible in a court of law.
@@ -1291,21 +1307,10 @@ Sections 47 to 52 of the Privacy Act 1993, so far as applicable and with all nec
 
 **Restriction on publication**
 
-### 125 Restriction on publication of reports of proceedings
-(1) No person shall publish any report of proceedings under this Act (other than criminal proceedings) except with the leave of the Court that heard the proceedings.
-(2) Every person who contravenes subsection (1) of this section commits an offence and is liable on summary conviction,—
-  (a) In the case of an individual, to a fine not exceeding $1,000:
-  (b) In the case of a body corporate, to a fine not exceeding $5,000.
-(3) Nothing in this section limits—
-  (a) The provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to judicial proceedings; or
-  (b) The power of any Court to punish any contempt of Court.
-(4) Nothing in this section applies to the publication of—
-  (a) Any report in any publication that—
-    (i) Is of a bona fide professional or technical nature; and
-    (ii) Is intended for circulation among members of the legal or medical professions, officers of the Public Service, psychologists, programme providers carrying out functions pursuant to this Act, counsellors carrying out duties under the Family Proceedings Act 1980, or social welfare workers:
-  (b) Statistical information relating to proceedings under this Act:
-  (c) The results of any bona fide research relating to proceedings under this Act, as long as the publication does not include any name or particulars likely to lead to the identification of any of the parties to the proceedings, or of any other person to whom the proceedings relate.
-(5) In subsection (4)(a)(ii), psychologist means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology.
+### 125 Restriction of publication of reports of proceedings
+Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act (other than criminal proceedings)—
+  (a) in a Family Court:
+  (b) in any other court, in which case references in those sections to the Family Court or Court must be read as references to that other court.
 
 **Rules and regulations**
 
