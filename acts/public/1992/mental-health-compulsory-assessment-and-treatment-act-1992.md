@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-05-18_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -397,13 +397,10 @@ In any proceedings on an application for a compulsory treatment order, whether b
 (2) Any witness shall leave the courtroom if asked to do so by the Judge.
 (3) Nothing in this section shall limit any other power of the Court to hear proceedings in private or to exclude any person from the Court.
 
-### 25 Restriction of publication of reports of proceedings
-(1) No person shall publish any report of proceedings under this Part of this Act except with the leave of the Court that heard the proceedings.
-(2) A person who contravenes subsection (1) commits an offence against this Act and is liable to a fine not exceeding $10,000.
-(3) Nothing in this section shall limit—
-  (a) The provisions of any other enactment relating to the prohibition or regulation of the publication of reports or particulars relating to judicial proceedings; or
-  (b) The power of any court to punish any contempt of court.
-(4) Nothing in this section shall apply to the publication of any report in any publication that is of a bona fide and relevant professional or technical nature.
+### 25 Publication of reports of proceedings
+Sections 11B to 11D of the Family Courts Act 1980 apply to the publication of a report of any proceedings under this Act—
+  (a) in a Family Court:
+  (b) in any other court, in which case references in those sections to the Family Court or Court must be read as references to that other court.
 
 ### 26 Court may dispense with hearing in certain circumstances
 Notwithstanding any of the preceding provisions of this Part of this Act, the Court may determine an application for a compulsory treatment order without a formal hearing if it is satisfied that no person wishes to be heard in respect of the application.
@@ -1687,7 +1684,7 @@ Notwithstanding any of the preceding provisions of this Schedule, a Review Tribu
 | 1975, No 122-The Disabled Persons Community Welfare Act 1975 (RS Vol 26, p 143) | By repealing section 32. |
 | 1983, No 134-The Area Health Boards Act 1983 | By adding to section 39(2) the following paragraph:dA Director of Area Mental Health Services under and in accordance with the Mental Health accordance with the Mental Health (Compulsory Assessment and Treatment Act 1992. By repealing so much of the Schedule as relates to the Mental Health Act 1969. |
 | 1987, No 10-The Health Amendment Act 1987 (RS Vol 19, p 618) | By repealing so much of Schedule 1 as relates to the Mental Health Act 1969. |
-| 1988, No 111-The Coroners Act 1988 |  |
+| 1988, No 111-The Coroners Act 1988 | [Repealed] |
 
 ## Schedule 4 — Amendments to the Criminal Justice Act
 
