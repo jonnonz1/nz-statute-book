@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2008-09-01_
+_Consolidation as at 2009-05-25_
 
 > An Act to amend the law governing the use of public financial resources and to that end to—aProvide a framework for Parliamentary scrutiny of the Government's management of the Crown's assets and liabilities, including expenditure proposals; andbEstablish lines of responsibility for the use of public financial resources; andcEstablish financial management incentives to encourage effective and efficient use of financial resources in departments and Crown entities; anddSpecify the minimum financial reporting obligations of the Crown, departments, and Crown entities; andeSafeguard public assets by providing statutory authority and control for the raising of loans, issuing of securities, giving of guarantees, operation of bank accounts, and investment of funds
 
@@ -1892,6 +1892,7 @@ The enactments specified in Schedule 2 to this Act are hereby repealed.
 |  | 139 | 150 | 153 | 161 | 162 | 163 | 164 | 165 |
 | Agricultural and Marketing Research and Development Trust |  |  |  |  |  |  |  |  |
 | Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
+| Auckland Transition Agency |  |  |  |  |  |  |  |  |
 | Leadership Development Centre Trust |  |  |  |  |  |  |  |  |
 | National Pacific Radio Trust |  |  |  |  |  |  |  |  |
 | New Zealand Fast Forward Limited |  |  |  |  |  |  |  |  |
