@@ -1,5 +1,5 @@
 # Taxation (Business Tax Measures) Act 2009
-_Consolidation as at 2009-03-30_
+_Consolidation as at 2009-05-29_
 
 ### 1 Title
 This Act is the Taxation (Business Tax Measures) Act 2009.
@@ -190,19 +190,19 @@ Sections 29 to 31 amend the Income Tax Act 2007.
 
 ### 29 Employer's liability for attributed benefits
 (1) In section RD 50(5), 63.93% is replaced by 61.29%.
-(2) In section RD 50(5), 61.29% is replaced by 58.73%.
+(2)
 (3) Subsection (1) applies for the 2009–10 income year and later income years.
 (4) Subsection (2) applies for the 2010–11 income year and later income years.
 
 ### 30 Calculation for certain employees when information lacking
 (1) In section RD 52(3)(b), 63.93% is replaced by 61.29%.
-(2) In section RD 52(3)(b), 61.29% is replaced by 58.73%.
+(2)
 (3) Subsection (1) applies for the 2009–10 income year and later income years.
 (4) Subsection (2) applies for the 2010–11 income year and later income years.
 
 ### 31 Pooling non-attributed benefits
 (1) In section RD 53(4)(a), 64% is replaced by 61%.
-(2) In section RD 53(4)(a), 61% is replaced by 59%.
+(2)
 (3) Subsection (1) applies for the 2009–10 income year and later income years.
 (4) Subsection (2) applies for the 2010–11 income year and later income years.
 
