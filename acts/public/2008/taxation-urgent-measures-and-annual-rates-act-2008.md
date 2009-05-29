@@ -1,5 +1,5 @@
 # Taxation (Urgent Measures and Annual Rates) Act 2008
-_Consolidation as at 2008-12-15_
+_Consolidation as at 2009-05-29_
 
 ### 1 Title
 This Act is the Taxation (Urgent Measures and Annual Rates) Act 2008.
@@ -39,51 +39,48 @@ Sections 5 to 14 amend the Income Tax Act 2007.
 ### 5 Payment of extra pay with other PAYE income payments
 (1) Section RD 17(2) is replaced by the following:Between $48,000 and $70,000
   (2) If the sum of the amounts referred to in subsection (1) is more than $48,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
-(2) Section RD 17(2) is replaced by the following:Between $50,000 and $70,000
-  (2) If the sum of the amounts referred to in subsection (1) is more than $50,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
+(2)
 
 ### 6 Single rate option
 (1) In section RD 58(1), 64% is replaced by 61%.
-(2) In section RD 58(1), 61% is replaced by 59%.
+(2)
 
 ### 7 Alternate rate option
 (1) In section RD 59(3), 64% is replaced by 61%.
-(2) In section RD 59(3), 61% is replaced by 59%.
+(2)
 
 ### 8 Close company option
 (1) In section RD 60(3)(a), 64% is replaced by 61%.
-(2) In section RD 60(3)(a), 61% is replaced by 59%.
+(2)
 
 ### 9 Small business option
 (1) In section RD 61(3)(a), 64% is replaced by 61%.
-(2) In section RD 61(3)(a), 61% is replaced by 59%.
+(2)
 
 ### 10 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits: part A
 (1) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1252$14,001 – $48,0000.2103$48,001 – $70,0000.3304$70,001 upwards0.380How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
-(2) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1252$14,001 – $50,0000.2103$50,001 – $70,0000.3304$70,001 upwards0.370How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
-(3) Schedule 1, part A, table 1 is replaced by the following:Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1252$14,001 – $50,0000.2003$50,001 – $70,0000.3304$70,001 upwards0.370How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+(2)
+(3)
 
 ### 11 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits: part C
 (1) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $12,2500.14292$12,251 – $39,1100.2658 3$39,111 – $53,8500.4925 4$53,851 upwards0.6129 How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
-(2) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $12,2500.14292$12,251 – $40,6900.26583$40,691 – $54,0900.49254$54,091 upwards0.5873How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
-(3) Schedule 1, part C, table 1 is replaced by the following:Table 1RowRange of dollar in all-inclusive payTax rate1$0 – $12,2500.1429 2$12,251 – $41,0500.25003$41,051 – $54,4500.4925 4$54,451 upwards0.5873 How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column.
+(2)
+(3)
 
 ### 12 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits: part D
 (1) Schedule 1, part D, table 1 is replaced by the following:Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1252$16,801 – $57,600 0.2103$57,601 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
-(2) Schedule 1, part D, table 1 is replaced by the following:Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1252$16,801 – $60,000 0.2103$60,001 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
-(3) Schedule 1, part D, table 1 is replaced by the following:Table 1RowESCT rate threshold amountTax rate1$0 – $16,800 0.1252$16,801 – $60,000 0.2003$60,001 upwards 0.330How to use this table:Find the range in the second column for the last dollar of the amount of salary or wages under section RD 69(1), and apply the relevant rate in the third column.
+(2)
+(3)
 
 ### 13 Schedule 2—Basic tax rates for PAYE income payments: part A
 (1) In schedule 2, part A, clause 6, 0.39 is replaced by 0.38.
-(2) In schedule 2, part A, clause 6, 0.38 is replaced by 0.37.
-(3) In schedule 2, part A,––
-  (a) in clause 4, 0.21 is replaced by 0.20:
-  (b) in clause 7, 0.21 is replaced by 0.20.
+(2)
+(3)
 
 ### 14 Schedule 2—Basic tax rates for PAYE income payments: part B
 (1) In schedule 2, part B, table 1, row 3, 0.39 is replaced by 0.38.
-(2) In schedule 2, part B, table 1, row 3, 0.38 is replaced by 0.37.
-(3) In schedule 2, part B, table 1, row 1, 0.21 is replaced by 0.20.
+(2)
+(3)
 
 **Amendments to Tax Administration Act 1994**
 
@@ -94,9 +91,7 @@ Sections 16 and 17 amend the Tax Administration Act 1994.
 (1) Section 24B(3)(c) and (d) is replaced by the following:.
   (c) S for secondary employment earnings for an employee whose annual income is not more than $48,000:
   (d) SH for secondary employment earnings for an employee whose annual income is more than $48,000 but is not more than $70,000:
-(2) Section 24B(3)(c) and (d) is replaced by the following:.
-  (c) S for secondary employment earnings for an employee whose annual income is not more than $50,000:
-  (d) SH for secondary employment earnings for an employee whose annual income is more than $50,000 but is not more than $70,000:
+(2)
 
 ### 17 Annual returns of income not required
 (1) In section 33A(1)(b),––
@@ -110,11 +105,7 @@ Sections 16 and 17 amend the Tax Administration Act 1994.
   (h) in subparagraph (vi)(A), more than $40,000 but not more than $60,000 is replaced by more than $48,000 but not more than $70,000:
   (i) subparagraph (vi)(BA) is repealed:
   (j) in subparagraph (vib), more than $40,000 is replaced by more than $48,000.
-(2) In section 33A(1)(b),––
-  (a) in subparagraph (iv)(A), more than $48,000 but not more than $70,000 is replaced by more than $50,000 but not more than $70,000:
-  (b) in subparagraph (v)(A), more than $48,000 but not more than $70,000 is replaced by more than $50,000 but not more than $70,000:
-  (c) in subparagraph (vi)(A), more than $48,000 but not more than $70,000 is replaced by more than $50,000 but not more than $70,000:
-  (d) in subparagraph (vib), more than $48,000 is replaced by more than $50,000.
+(2)
 
 ## Part 2 — Research and development tax credits repeal
 
@@ -215,7 +206,7 @@ After section LC 12, the following is added:Tax credits for independent earnersT
   (6) Credit period months is the number of whole months in the credit period.
 
 ### 32 Tax credits for independent earners
-In section LC 13(4), $520 is replaced by $780.
+[Repealed]
 
 ### 33 Interest
 (1) In section RE 12(3)(a), clause 4 or 5 is replaced by clause 3 or 4.
