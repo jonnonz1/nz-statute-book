@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2009-06-01_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2336,6 +2336,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (c) how the regulations affect the trust deed (for example, whether all or any of the terms and conditions in the regulations are implied terms of the trust deed); and
   (d) what happens if the scheme decides to terminate participation in the mortgage diversion facility; and
   (e) whether payment via the mortgage diversion facility counts as payment by the mortgagor for the purpose of the terms of the mortgage; and
+  (eb) closing the mortgage diversion facility to new participants by specifying a date before which a member of a KiwiSaver scheme or complying superannuation fund must request his or her mortgagee to participate in the facility in respect of the member's mortgage; and
   (f) any other matters.
 (4) If a provider chooses to participate in the mortgage diversion facility, any withdrawal made in accordance with those regulations must be treated as if it were a withdrawal that is permitted under the KiwiSaver scheme rules.
 
@@ -2384,6 +2385,11 @@ If, as a result of amendments provided by the Taxation (KiwiSaver) Act 2007, the
   (a) set out in a consistent style or format; and
   (b) clearly identified as relating to particular questions.
 (5) Subsections (2) to (4) cease to have effect on and after 30 June 2009.
+
+### 236 Protection from non-compliance: Taxation (Budget Tax Measures) Act 2009
+If, as a result of amendments in Part 2 of the Taxation (Budget Tax Measures) Act 2009, there is non-compliance with an enactment related to securities, the non-compliance is ignored, if it starts before 31 July 2009 and does not continue on or after 31 July 2009, or if it relates to––
+  (a) a prospectus that is registered under the Securities Act 1978 before 1 June 2009:
+  (b) an investment statement under the Securities Act 1978 that is dated before 1 June 2009.
 
 ## Schedule 1 — KiwiSaver scheme rules
 
