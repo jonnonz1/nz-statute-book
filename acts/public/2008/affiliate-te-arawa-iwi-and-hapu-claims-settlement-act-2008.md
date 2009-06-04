@@ -1,5 +1,5 @@
 # Affiliate Te Arawa Iwi and Hapu Claims Settlement Act 2008
-_Consolidation as at 2008-09-29_
+_Consolidation as at 2009-06-04_
 
 ## Preamble
 (1) The Affiliate (comprising the Iwi and Hapu of Te Arawa that are now affiliated to the Te Pumautanga o Te Arawa trust) traditionally operated as independent entities, coming together when prompted by common interests. Together they exercised customary interests within the approximately 1 150 000-acre area from the Bay of Plenty coast to the inland Rotorua lakes and into the interior to the Mamaku Ranges and Kaingaroa Forest. Other iwi and hapu also exercised customary interests within this area. The Affiliate engaged with the opportunities created by the arrival of Pakeha traders and missionaries in its rohe from the 1830s. By the late 1860s, however, few Pakeha had settled in the area, and the Affiliate still held almost all of its land in customary title:
