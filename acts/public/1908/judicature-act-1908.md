@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2009-05-15_
+_Consolidation as at 2009-06-12_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -1647,98 +1647,157 @@ The court’s registries must be open from 9 am to 5 pm on every day that is not
 (1) Despite rule 3.1, a Judge may order that the court and its registries be closed for a period specified in the order (not exceeding 1 week) if an epidemic or emergency exists in the place where the court is located.
 (2) A Registrar must ensure that an order made under this rule is immediately advertised in the manner the Judge directs.
 
-#### Subpart 2 — Search of court documents
+#### Subpart 2 — Access to court documents
 
 ### 3.5 Interpretation
-For the purposes of rules 3.6 to 3.11,—
-  - **document** includes—
-    (a) a record of oral evidence given at a hearing (other than notes made personally by the Judge):
-    (b) exhibits produced in evidence:
-    (c) a record of the reasons given by the Judge for his or her judgment (other than notes made personally by the Judge)
-  - **file** includes part of a file.
+In this subpart, unless the context otherwise requires,—
+  - **access** means to search, inspect, or copy under the supervision of an officer of the court
+  - **court file** means a collection of documents in the custody or control of the court that relate to a proceeding (including any interlocutory application associated with the proceeding)
+  - **document** —
+    (a) means any written material in the custody or control of the court that relates to a proceeding (including any interlocutory application associated with the proceeding), whether or not kept on a court file; and
+    (b) includes documentary exhibits, video recordings, records in electronic form, films, photographs, and images in electronic form; but
+    (c) excludes—
+      (i) notes made by or for a Judge for his or her personal use; and
+      (ii) any material that relates to the administration of the court
+  - **formal court record** means any of the following kept in a registry of the court:
+    (a) a register or index:
+    (b) any published list that gives notice of a hearing:
+    (c) a document that—
+      (i) may be accessed under an enactment other than these rules; or
+      (ii) constitutes notice of its contents to the public:
+    (d) a judgment, order, or minute of the court, including any record of the reasons given by the Judge:
+    (e) the rolls of barristers and solicitors kept under section 56 of the Lawyers and Conveyancers Act 2006 or any former corresponding enactment.
 
-### 3.6 Search of court records by person
-(1) A person, on paying the prescribed fee, may search, inspect, and copy the following during office hours:
-  (a) registers and indexes of court records:
-  (b) a document on a file in the court’s registry if—
-    (i) any Act provides for the search, inspection, or copying of that document; or
-    (ii) that document is notice of its contents to the public.
-(2) Rule 3.11 overrides subclause (1).
-(3) A person may search, inspect, and copy a document on a file that relates to a proceeding that has terminated.
-(4) A person may search, inspect, and copy a document on a file relating to an interlocutory application—
-  (a) if the interlocutory application relates to—
-    (i) a proceeding that has terminated; or
-    (ii) an intended proceeding and leave to bring the proceeding is refused; or
-  (b) with the leave of the Judge if the interlocutory proceeding relates to an intended proceeding and a Judge is satisfied that the proceeding has not been commenced within a reasonable time.
-(5) Rules 3.9 and 3.10 override subclauses (3) and (4).
+### 3.6 Application
+(1) This subpart applies to documents while they are in the custody or control of the Court and until they are transferred to Archives New Zealand.
+(2) These rules do not require any person to prepare a document that is not in existence at the time the document is sought.
 
-### 3.7 Search of court records by party or solicitor representing party
-(1) A party to a proceeding or an interlocutory application or the solicitor on the record for that party may, without paying a fee, search, inspect, and copy the file relating to the proceeding or interlocutory application.
-(2) Subclause (1) applies despite rule 3.9(1) and (2), but is overridden by rule 3.9(3) and (4).
+### 3.7 General right of access to formal court record and certain applications under Administration Act 1969
+(1) Subject to rule 3.12, every person has the right to access the formal court record kept in a registry of the court.
+(2) Subject to rule 3.12, every person has the right to access any document or court file that relates to an application or action for a grant of administration under the Administration Act 1969 or to a proceeding for the recall of any such grant.
+(3) Despite subclause (1) or (2), a Judge may direct that judgments or orders, or documents or files of the kind described in subclause (2), not be accessed without the permission of the court.
 
-### 3.8 Search of documents relating to application for administration or recall under Administration Act 1969
-(1) A person may search, inspect, or copy a document on a file relating to—
-  (a) an application or a proceeding for a grant of administration under the Administration Act 1969; or
-  (b) a proceeding for the recall of a grant of that kind.
-(2) Subclause (1) applies whether or not the application, proceeding, or recall has been determined.
-(3) Rule 3.9(3) overrides subclauses (1) and (2).
+### 3.8 Right of parties to access court file or documents
+(1) The parties to a proceeding, and their counsel, may (whether during or after the completion of the proceeding), under the supervision of an officer of the court,—
+  (a) search and inspect the court file or any document relating to the proceeding, without payment of a fee; and
+  (b) copy any part or parts of the court file or any document relating to the proceeding on payment of any prescribed fee.
+(2) Despite subclause (1), a record of court proceedings in electronic form may be copied only with the permission of the court.
+(3) Despite subclause (1), a Judge may direct that the court file or any document relating to the proceeding not be accessed by the parties or their counsel without the permission of the court.
 
-### 3.9 Restrictions on searching documents relating to certain proceedings
-(1) A person may not search, inspect, or copy a file or document on a file relating to proceedings under the following enactments:
+### 3.9 Access to documents during substantive hearing stage
+(1) This rule applies during the hearing of a proceeding (other than the hearing of an interlocutory application) and until—
+  (a) the close of the 20th working day after the court has given the final judgment on the proceeding; or
+  (b) the discontinuance of the proceeding before the final judgment is given.
+(2) During the period to which this rule applies, any person may access any of the following documents relating to the proceeding:
+  (a) any pleading, reference, notice, or application filed in the court:
+  (b) affidavits, depositions, or other written statements admitted into evidence for the purposes of the hearing:
+  (c) documents admitted into evidence for the purposes of the hearing:
+  (d) if any evidence given orally at the hearing has been transcribed, a transcript of that evidence.
+(3) Despite subclause (2), a Judge may, on his or her initiative or on request, direct that any document, or part of a document, relating to the proceeding not be accessed without the permission of a Judge.
+(4) A request for access to a document under this rule is made informally to the Registrar by letter that—
+  (a) identifies the requested document; and
+  (b) gives the reasons for the request.
+(5) The following provisions apply when a request for access to a document is made under subclause (4):
+  (a) the Registrar must promptly give the parties or their counsel a copy of the request:
+  (b) a party who wishes to object must, before the relevant deadline (within the meaning of rule 3.10), give written notice of the objection to the Registrar, to the person who made the request, and to the other parties or their counsel:
+  (c) on receipt of an objection, the Registrar must promptly refer the objection and the request to the Judge for determination:
+  (d) unless the document is subject to a restriction stated in subclause (3) or in rule 3.12, the Registrar must promptly give the person who made the request access to the document—
+    (i) if the Registrar receives no objection before the expiry of the relevant deadline (within the meaning of rule 3.10); or
+    (ii) if the parties or their counsel earlier agree that the person be given access to the document:
+  (e) every request that relates to a document that is subject to a restriction stated in subclause (3) or in rule 3.12 is taken to be a request for the permission of a Judge, and must be promptly referred to the Judge by the Registrar.
+(6) The Judge may determine an objection referred to the Judge under subclause (5)(c) or a request for permission under subclause (3) or (5)(e) in any manner the Judge considers just.
+(7) For the purposes of subclause 2(b) and (c), admitted into evidence does not include evidence admitted provisionally.
+
+### 3.10 Meaning of relevant deadline in rule 3.9
+(1) For the purpose of rule 3.9, where a party or counsel receives a copy of a request given to the party or counsel under that rule, relevant deadline means whichever of the following times is applicable:
+  (a) if the copy of the request is received on a day on which the hearing is proceeding, 3 pm on the first working day after the day on which the copy is received:
+  (b) if the copy of the request is received on any other day, 3 pm on the third working day after the day on which the copy is received.
+(2) For the purposes of subclause (1), a person is deemed to receive a request—
+  (a) on the day on which it is emailed, faxed, or handed to the person:
+  (b) on the day after the day on which it is posted to the person.
+(3) This rule overrides rule 6.6.
+
+### 3.11 Access to court files, documents, and formal court record in other cases
+If a person is not eligible to access a document, court file, or any part of the formal court record under any of rules 3.7 to 3.9, the person may access the document, court file, or any part of the formal court record with the permission of the court, given on an application made under rule 3.13.
+
+### 3.12 Restrictions on access
+(1) Any right or permission conferred or given by these rules to access a document, court file, or any part of the formal court record is subject to—
+  (a) any enactment, court order, or direction limiting or prohibiting access or publication; and
+  (b) the payment of any prescribed fees for access.
+(2) A person may not access a document, court file, or any judgment or order, that relates to a proceeding brought under an enactment specified in subclause (3) unless—
+  (a) the person is a party to that proceeding; or
+  (b) the court permits the person to do so.
+(3) The enactments are as follows:
   (a) Adoption Act 1955:
   (b) Alcoholism and Drug Addiction Act 1966:
-  (c) Care of Children Act 2004:
-  (d) Civil Union Act 2004:
-  (e) Family Proceedings Act 1980:
-  (f) Family Protection Act 1955:
-  (g) Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
-  (h) Marriage Act 1955:
-  (i) Mental Health (Compulsory Assessment and Treatment) Act 1992:
-  (j) Property (Relationships) Act 1976:
-  (k) Protection of Personal and Property Rights Act 1988:
-  (l) Status of Children Act 1969:
-  (m) an earlier enactment that corresponds with any of the enactments listed in paragraphs (a) to (l).
-(2) A person may not search, inspect, or copy a document filed in a defamation proceeding.
-(3) A person may search, inspect, or copy a document, which a Judge has directed may not be inspected without leave, only if the person has the leave of a Judge.
-(4) A person may search, inspect, or copy a file or document on a file relating to an application under rule 9.60 or 28.4 only with the leave of a Judge.
+  (c) Arbitration Act 1996:
+  (d) Care of Children Act 2004:
+  (e) Civil Union Act 2004:
+  (f) Family Proceedings Act 1980:
+  (g) Family Protection Act 1955:
+  (h) Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003:
+  (i) Marriage Act 1955:
+  (j) Mental Health (Compulsory Assessment and Treatment) Act 1992:
+  (k) Property (Relationships) Act 1976:
+  (l) Protection of Personal and Property Rights Act 1988:
+  (m) Status of Children Act 1969:
+  (n) any former provisions corresponding to provisions of any of the Acts mentioned in paragraphs (a) to (m).
+(4) A person may search, inspect, or copy a document, court file, or any judgment or order relating to an application under rule 9.60 or 28.4 (which relate to the service of New Zealand subpoenas in Australia) only with the leave of a Judge.
 
-### 3.10 Time restriction on search of files and documents
-A person may not search, inspect, or copy a file or a document on a file in a proceeding or an interlocutory application after the following periods:
-  (a) if there is a sealed judgment or order, the expiry of 6 years from the date of the judgment or order:
-  (b) if there is no sealed judgment or order, the expiry of 6 years from the date of the Judge’s reasons or minute making the order.
+### 3.13 Applications for permission to access documents, court file, or formal court record other than at hearing stage
+(1) This rule applies whenever the permission of the court is necessary under these rules and is sought to access a document, court file, or any part of the formal court record, except where access may be sought under rule 3.9.
+(2) An application under this rule is made informally to the Registrar by a letter that—
+  (a) identifies the document, court file, or part of the formal court record that the applicant seeks to access; and
+  (b) gives the reasons for the application.
+(3) The application is heard and determined by a Judge or, if a Judge directs the Registrar to do so, by the Registrar.
+(4) On receipt of an application made in accordance with subclause (2), the Judge or Registrar may direct that the person file an interlocutory application or originating application.
+(5) The applicant must give notice of the application to any person who is, in the opinion of the Judge or Registrar, adversely affected by the application.
+(6) The Judge or Registrar may dispense with the giving of notice under subclause (5) if it would be impracticable to require notice to be given.
+(7) The Judge or Registrar may deal with an application on the papers, at an oral hearing, or in any other manner the Judge or Registrar considers just.
 
-### 3.11 Registrar may grant leave to search
-(1) A Registrar may grant a person who is not authorised to search, inspect, or copy under rule 3.6(3) or is prohibited from searching, inspecting, or copying under rule 3.9(1) or (2) or 3.10, leave to search, inspect, or copy a file or document.
-(2) An application made under subclause (1) may be on an informal basis.
-(3) A Registrar must (subject to any directions of the Judge) grant leave to a person who has a genuine or proper interest.
-(4) A Judge may review a Registrar’s refusal to grant leave under this rule on an informal basis.
+### 3.14 Decisions on applications under rule 3.13
+(1) The Judge or Registrar may refuse an application made under rule 3.13 or grant it in whole or in part without conditions or subject to any conditions that the Judge or Registrar thinks appropriate.
+(2) A Judge may permit access to a series of files for the purposes of research.
+
+### 3.15 Review of decisions by Registrar
+(1) Any decision by a Registrar under rule 3.14 is subject to review by a Judge on the application of the applicant or any person affected.
+(2) Rule 2.11 applies to subclause (1) as if the reference in that rule to a party were a reference to the applicant or any person affected.
+
+### 3.16 Matters to be taken into account
+In determining an application under rule 3.13, or a request for permission under rule 3.9, or the determination of an objection under that rule, the Judge or Registrar must consider the nature of, and the reasons for, the application or request and take into account each of the following matters that is relevant to the application, request, or objection:
+  (a) the orderly and fair administration of justice:
+  (b) the protection of confidentiality, privacy interests (including those of children and other vulnerable members of the community), and any privilege held by, or available to, any person:
+  (c) the principle of open justice, namely, encouraging fair and accurate reporting of, and comment on, court hearings and decisions:
+  (d) the freedom to seek, receive, and impart information:
+  (e) whether a document to which the application or request relates is subject to any restriction under rule 3.12:
+  (f) any other matter that the Judge or Registrar thinks just.
 
 #### Subpart 3 — Investment of funds in court
 
-### 3.12 Application for order
+### 3.17 Application for order
 (1) Subclause (2) applies if money has been, or is to be, paid into court in a proceeding under—
   (a) an order of the court; or
   (b) a provision of these rules.
 (2) If this subclause applies, a party to the proceeding may apply to the court for an order directing the Registrar to invest the money on whatever security or securities the court thinks just.
 (3) Unless the court otherwise orders, an application may not be made until 15 working days after the money has been paid into court.
 
-### 3.13 Powers of court in relation to application
-(1) The court may, when making an order for investment of money under rule 3.12,—
+### 3.18 Powers of court in relation to application
+(1) The court may, when making an order for investment of money under rule 3.17,—
   (a) direct that the security on which the money is invested must be taken in the name of the Registrar alone or with another person the court nominates; and
   (b) also give—
     (i) directions as to the form and the terms of the security; and
     (ii) any other directions as may appear necessary or expedient.
 (2) An order may be varied by the court on the application of a party to the proceeding.
 
-### 3.14 Disposal of securities and income
+### 3.19 Disposal of securities and income
 (1) The court may, on the application of a party to a proceeding, direct that—
-  (a) the security on which money is invested under rule 3.13 be transferred to a party or parties in the shares or proportions the court thinks just; or
+  (a) the security on which money is invested under rule 3.17 be transferred to a party or parties in the shares or proportions the court thinks just; or
   (b) the security be converted into money and the resulting capital and income be paid to a party or parties in the shares or proportions the court thinks just; or
   (c) the capital be paid to a party or parties and the income be paid to another party or parties in the shares or proportions the court thinks just.
 (2) An application may be made—
-  (a) at the time of making an order under rule 3.12; or
+  (a) at the time of making an order under rule 3.17; or
   (b) at a later time.
-(3) Unless the court directs otherwise, the income received from an investment under an order under rule 3.12 must be paid to the party or parties who are found by the court to be entitled to the capital, in the shares or proportions the court thinks just.
+(3) Unless the court directs otherwise, the income received from an investment under an order under rule 3.17 must be paid to the party or parties who are found by the court to be entitled to the capital, in the shares or proportions the court thinks just.
 
 ### Part 4 — Parties
 
@@ -4263,7 +4322,7 @@ In rules 9.59 to 9.67, unless the context otherwise requires, terms that are def
   (g) if the applicant is aware of any fact or circumstance that may constitute a ground for setting the subpoena aside under section 160 of the Evidence Act 2006, the fact or circumstance.
 (3) A Judge may direct that a New Zealand subpoena be served in Australia on a body corporate by serving the subpoena on a member, officer, or employee of the body corporate in the manner the Judge directs.
 (4) The file relating to an application must be kept separate from the file relating to the proceeding to which the subpoena relates.
-(5) Despite rule 3.9, no document relating to an application under this rule may be searched, inspected, or copied without the leave of a Judge.
+(5) As provided in rule 3.11, no document relating to an application under this rule may be searched, inspected, or copied without the leave of a Judge.
 
 ### 9.61 Service of subpoena on witness in Australia
 Every statement that, in accordance with section 156 of the Evidence Act 2006, is required to accompany a subpoena that is served on a witness in Australia must be in form G 28.
@@ -8871,7 +8930,7 @@ and includes a related interlocutory proceeding and an application for the issue
   (c) the documents or class or classes of documents to be produced.
 (7) A Judge may direct that service on a body corporate will be effected by serving the order of subpoena on a member, officer, or servant of the body corporate in such manner as the Judge directs.
 (8) The file relating to every such application must be kept separate from the file relating to the New Zealand proceeding.
-(9) Despite rule 3.9, no document relating to an application under this rule may be searched, inspected, or copied without the leave of a Judge.
+(9) As provided in rule 3.11, no document relating to an application under this rule may be searched, inspected, or copied without the leave of a Judge.
 
 ### 28.5 Service of subpoena
 (1) An order of subpoena issued in a New Zealand proceeding with the leave of a Judge may be served on a person in Australia personally by leaving with that person a sealed copy of the order together with a statement in form G 22 setting out the person’s rights and obligations.
@@ -10892,3 +10951,12 @@ This Act is the Judicature (High Court Rules) Amendment Act 2008.
   - **Judge** includes an Associate Judge
   - **judgment** includes a decree or order of the court
   - **proceeding** means any application to the court, however commenced, for the exercise of the civil jurisdiction of the court.
+
+### 1 Title
+These rules are the High Court (Access to Court Documents) Amendment Rules 2009.
+
+### 2 Commencement
+These rules come into force on 12 June 2009.
+
+### 7 Transitional provision
+Any application or appeal under subpart 2 of Part 3 of the High Court Rules (as in force immediately before the commencement of these rules) that is not disposed of on the commencement of these rules must be dealt with as if rule 4 of these rules had not been made.
