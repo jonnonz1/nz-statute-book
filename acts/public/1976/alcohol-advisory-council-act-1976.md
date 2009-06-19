@@ -1,5 +1,5 @@
 # Alcohol Advisory Council Act 1976
-_Consolidation as at 2009-03-17_
+_Consolidation as at 2009-06-19_
 
 > An Act to provide for the establishment of an Alcoholic Liquor Advisory Council having as its primary objective the promotion of moderation in the use of alcoholic liquor and the reduction of the personal, social, and economic evils resulting from the misuse of alcoholic liquor, to define the Council's functions and powers, and to make provision for the funding of the Council's activities by means of a levy on alcoholic liquor imported into or manufactured in New Zealand
 
@@ -289,12 +289,12 @@ Where, pursuant to the terms of any will or other instrument creating a trust, a
 | Class | Legal definition of class | Indicative description | Rate |
 | --- | --- | --- | --- |
 |  | Liquor which, if imported, would be classified within the following tariff items | Percentage of alcohol by volume in most items in class |  |
-| A | 2203.00.12, 2206.00.37, 2208.70.30, 2208.90.56 | More than 1.15% but not more than 2.5% | 1.5% |
-| B | 2203.00.22, 2203.00.31, 2203.00.39, 2206.00.47, 2208.70.40, 2208.90.60 | More than 2.5% but not more than 6% | Variable |
-| C | 2206.00.57, 2208.70.50, 2208.90.67 | More than 6% but not more than 9% | 8% |
-| D | 2204.10.01, 2204.10.18, 2204.21.18, 2204.29.18, 2205.10.19, 2205.10.38, 2205.90.19, 2205.90.38, 2206.00.08, 2206.00.68, 2208.70.60, 2208.90.79 | More than 9% but not more than 14% | 10% |
-| E | 2204.21.13, 2204.29.13, 2205.10.12, 2205.10.33, 2205.90.12, 2205.90.33, 2206.00.17, 2206.00.78, 2208.70.71, 2208.90.06, 2208.90.88 | More than 14% but not more than 23% | Variable |
-| F | 2206.00.28, 2206.00.89, 2208.20.04, 2208.20.08, 2208.20.19, 2208.20.29, 2208.30.04, 2208.30.08, 2208.30.19, 2208.40.04, 2208.40.08, 2208.40.19, 2208.50.04, 2208.50.08, 2208.50.19, 2208.60.19, 2208.60.29, 2208.60.99, 2208.70.80, 2208.90.08, 2208.90.48, 2208.90.99 | More than 23% | Variable |
+| A | 2203.00.12, 2206.00.37, 2208.70.30, 2208.90.62 | More than 1.15% but not more than 2.5% | 1.5% |
+| B | 2203.00.22, 2203.00.31, 2203.00.39, 2206.00.47, 2208.70.40, 2208.90.68 | More than 2.5% but not more than 6% | Variable |
+| C | 2206.00.57, 2208.70.50, 2208.90.72 | More than 6% but not more than 9% | 8% |
+| D | 2204.10.01, 2204.10.18, 2204.21.18, 2204.29.18, 2205.10.19, 2205.10.38, 2205.90.19, 2205.90.38, 2206.00.08, 2206.00.68, 2208.70.60, 2208.90.78 | More than 9% but not more than 14% | 10% |
+| E | 2204.21.13, 2204.29.13, 2205.10.12, 2205.10.33, 2205.90.12, 2205.90.33, 2206.00.17, 2206.00.78, 2208.70.71, 2208.90.06, 2208.90.85 | More than 14% but not more than 23% | Variable |
+| F | 2206.00.28, 2206.00.89, 2208.20.04, 2208.20.08, 2208.20.19, 2208.20.29, 2208.30.04, 2208.30.08, 2208.30.19, 2208.40.04, 2208.40.08, 2208.40.19, 2208.50.04, 2208.50.08, 2208.50.19, 2208.60.19, 2208.60.29, 2208.60.99, 2208.70.80, 2208.90.08, 2208.90.48, 2208.90.97 | More than 23% | Variable |
 
 ### 1 Title
 This Act is the Alcohol Advisory Council Amendment Act 2009.
