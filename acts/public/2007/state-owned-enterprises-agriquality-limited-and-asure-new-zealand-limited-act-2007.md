@@ -1,5 +1,5 @@
 # State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2009-06-27_
 
 ### 1 Title
 This Act is the State-Owned Enterprises (AgriQuality Limited and Asure New Zealand Limited) Act 2007.
@@ -51,57 +51,19 @@ This Act binds the Crown.
 ### Subpart 2 — Merger of AgriQuality Limited and Asure New Zealand Limited
 
 ### 7 Interpretation
-In this subpart, unless the context otherwise requires,—
-  - **merger of AgriQuality and Asure** means any arrangement concerning AgriQuality Limited and Asure New Zealand Limited under which—
-  (a) those 2 companies amalgamate and continue as 1 company, which may be AgriQuality Limited, Asure New Zealand Limited, or a new company (which must be a State enterprise); or
-  (b) one of those companies becomes a subsidiary of the other company; or
-  (c) both of those companies become subsidiaries of another company (which must be a State enterprise)
-  - **responsible Minister** means the Minister or (as the case may be) Ministers of the Crown for the time being responsible for AgriQuality Limited and Asure New Zealand Limited
-  - **State enterprise** means an organisation named in Schedule 1 of the State-Owned Enterprises Act 1986
-  - **subsidiary** has the same meaning as in sections 5 and 6 of the Companies Act 1993.
+[Repealed]
 
 ### 8 Amendments and repeals to enactments resulting from merger of AgriQuality and Asure
-(1) The Governor-General may, by Order in Council made on the recommendation of the responsible Minister, do 1 or more of the following:
-  (a) amend Schedule 36 of the Income Tax Act 2006 by omitting either or both of the following items:
-    (i) AgriQuality New Zealand Limited:
-    (ii) Asure New Zealand Limited:
-  (b) amend Part 2 of Schedule 1 of the Ombudsmen Act 1975 by omitting either or both of the following items:
-    (i) AgriQuality Limited:
-    (ii) Asure New Zealand Limited:
-  (c) amend Schedule 1 of the State-Owned Enterprises Act 1986 by omitting either or both of the following items:
-    (i) AgriQuality Limited:
-    (ii) Asure New Zealand Limited:
-  (d) amend Schedule 2 of the State-Owned Enterprises Act 1986 by omitting either or both of the following items:
-    (i) AgriQuality Limited:
-    (ii) Asure New Zealand Limited:
-  (e) amend the definition of organic milk in regulation 3(1) of the Dairy Industry Restructuring (Raw Milk) Regulations 2001 by—
-    (i) repealing paragraph (c); or
-    (ii) amending paragraph (c) by omitting AgriQuality Limited and substituting—
-      (A) Asure New Zealand Limited ; or
-      (B) the new company name used by Asure New Zealand Limited if Asure New Zealand Limited changes its company name as a result of a merger of AgriQuality and Asure; or
-      (C) the name of a new company (which must be a State enterprise) formed as a result of a merger of AgriQuality and Asure:
-  (f) repeal the Ministry of Agriculture and Forestry (Restructuring) Act 1998:
-  (g) revoke the State-Owned Enterprises (Agriquality New Zealand Limited and Asure New Zealand Limited) Order 1998:
-  (h) revoke the State-Owned Enterprises (AgriQuality Limited) Order 2004.
-(2) The responsible Minister may only recommend the making of an order under subsection (1) if he or she is satisfied that a merger of AgriQuality and Asure has occurred or is going to occur.
-(3) Nothing in section 32 of the Ombudsmen Act 1975 limits or affects subsection (1) or an Order in Council made under subsection (1).
+[Repealed]
 
 ### 9 Part 3 of Commerce Act 1986 does not apply to merger of AgriQuality and Asure
-Nothing in Part 3 of the Commerce Act 1986 applies to any merger of AgriQuality and Asure.
+[Repealed]
 
 ### 10 Certain matters not affected by merger of AgriQuality and Asure
-(1) A merger of AgriQuality and Asure, including any transfer or sale of shares in AgriQuality Limited or Asure New Zealand Limited carried out as part of that merger, does not, by itself,—
-  (a) give rise to a right for any person to terminate or cancel any lease, contract, or arrangement or to accelerate the performance of any obligation; or
-  (b) release any surety wholly or in part from any obligation; or
-  (c) invalidate or discharge any contract or security; or
-  (d) give rise to a claim for breach of contract; or
-  (e) break any person's employment for the purposes of any provision of an employment contract relating to continuity of service; or
-  (f) give rise to a claim for, or entitle any person to, compensation for redundancy or any severance payment; or
-  (g) break any person's Government service for the purposes of the Government Superannuation Fund Act 1956 (if that person is a contributor to the Government Superannuation Fund).
-(2) However, subsection (1)(e) to (g) does not apply to any termination of employment specifically agreed to by the board of directors of AgriQuality Limited or Asure New Zealand Limited as part of a merger of AgriQuality and Asure.
+[Repealed]
 
 ### 11 Expiry of subpart 2 of Part 2
-This subpart expires on the close of the day that is 2 years after the date on which this Act receives the Royal assent.
+[Repealed]
 
 ### Subpart 3 — Commerce Commission investigation and report
 
