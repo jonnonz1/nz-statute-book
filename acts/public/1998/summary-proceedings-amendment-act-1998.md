@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the Summary Proceedings Act 1967
 
@@ -19,7 +19,7 @@ This Act may be cited as the Summary Proceedings Amendment Act 1998, and is part
 This section inserted s 115DA of the principal Act.
 
 ### 4 Court to which defendant to be committed
-This section substituted s 168A(1) and (2) of the principal Act.
+[Repealed]
 
 ### 5 Part 2 of Schedule 1 amended
 This section amended Part 2 of Schedule 1 of the principal Act.
