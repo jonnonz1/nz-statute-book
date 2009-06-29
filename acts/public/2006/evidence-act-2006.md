@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-06-29_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -1109,8 +1109,8 @@ If an application for directions is made under section 103, before giving any di
 
 ### 106 Video record evidence
 (1) In a criminal proceeding tried on indictment, the video record evidence of a witness that is to be offered as an alternative way of giving evidence at the trial—
-  (a) must, if a video record of that witness’s evidence was offered in evidence at the preliminary hearing, include the same video record; and
-  (b) may include a video record made after the preliminary hearing.
+  (a) must, if a video record of that witness’s evidence was offered in evidence at the standard committal or the committal hearing, include the same video record; and
+  (b) may include a video record made after the standard committal or the committal hearing.
 (2) A video record offered as an alternative way of giving evidence must be recorded in compliance with any regulations made under this Act.
 (3) A video record that is to be offered as an alternative way of giving evidence in a proceeding must be offered for viewing by all parties or their lawyers before it is offered in evidence, unless the Judge directs otherwise.
 (4) A copy of any video record that is to be offered as an alternative method of giving evidence in a proceeding—
@@ -1176,8 +1176,8 @@ If an application for directions is made under section 103, before giving any di
 ### 110 Pre-trial witness anonymity order
 (1) This section and section 111 apply if a person is charged with an offence and is to be proceeded against by indictment.
 (2) At any time after the person is charged, the prosecution or the defendant may apply to a Judge for an order—
-  (a) excusing the applicant from disclosing to the other party prior to the preliminary hearing the name, address, and occupation of any witness, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification; and
-  (b) excusing the witness from stating at the preliminary hearing his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification.
+  (a) excusing the applicant from disclosing to the other party prior to the standard committal or the committal hearing (if required) the name, address, and occupation of any witness, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification; and
+  (b) excusing the witness from stating for the purposes of or at the standard committal or committal hearing (if required) his or her name, address, and occupation, and (except with leave of the Judge) any other particulars likely to lead to the witness’s identification.
 (3) The Judge must hear and determine the application in chambers, and—
   (a) the Judge must give each party an opportunity to be heard on the application; and
   (b) neither the party supporting the application nor the witness need disclose any information that might disclose the witness’s identity to any person (other than the Judge) before the application is dealt with.
@@ -1199,8 +1199,8 @@ If an application for directions is made under section 103, before giving any di
 ### 111 Effect of pre-trial witness anonymity order
 If a pre-trial witness anonymity order is made under section 110,—
   (a) the party who applied for the order must give the Judge the name, address, and occupation of the witness; and
-  (b) during the course of the preliminary hearing, no lawyer, officer of the court, or other person involved in the preliminary hearing may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification; and
-  (c) during the course of the preliminary hearing,—
+  (b) at the standard committal or during the course of the committal hearing (if required), no lawyer, officer of the court, or other person involved in that process may disclose the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification; and
+  (c) during the course of the committal hearing (if required),—
     (i) no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to the name, address, or occupation of the witness who is subject to the order; and
     (ii) except with leave of the Judge, no oral evidence may be given, and no question may be put to any witness, if the evidence or question relates to any other particulars likely to lead to the identification of the witness who is subject to the order; and
   (d) no person may publish, in any report or account relating to the proceeding, the name, address, or occupation of the witness, or any other particulars likely to lead to the witness’s identification.
@@ -1256,11 +1256,11 @@ If a witness anonymity order is made under section 112,—
 (5) If the counsel is dissatisfied with the decision of the Registrar as to the amount of the bill, the counsel may, within 14 days after the date of the decision, apply to a Judge of the court to review the decision, and the Judge may make any order varying or confirming the decision that the Judge considers fair and reasonable.
 
 ### 116 Judge may make orders and give directions to preserve anonymity of witness
-(1) A Judge who makes an order under section 110 or 112 may, for the purposes of the preliminary hearing or trial (as the case may be), also make any orders and give any directions that the Judge considers necessary to preserve the anonymity of the witness, including (without limitation) 1 or more of the following directions:
+(1) A Judge who makes an order under section 110 or 112 may, for the purposes of any committal hearing or the trial (as the case may be), also make any orders and give any directions that the Judge considers necessary to preserve the anonymity of the witness, including (without limitation) 1 or more of the following directions:
   (a) that the court be cleared of members of the public:
   (b) that the witness be screened from the defendant:
   (c) that the witness give evidence by closed-circuit television or by video link.
-(2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence at the preliminary hearing or trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
+(2) In considering whether to give directions concerning the mode in which the witness is to give his or her evidence at any committal hearing or the trial, the Judge must have regard to the need to protect the witness while at the same time ensuring a fair hearing for the defendant.
 (3) This section does not limit—
   (a) section 206 of the Summary Proceedings Act 1957 (which confers power to deal with contempt of court); or
   (b) section 138 of the Criminal Justice Act 1985 (which confers power to clear the court); or
