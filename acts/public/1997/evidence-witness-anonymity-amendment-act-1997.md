@@ -1,5 +1,5 @@
 # Evidence (Witness Anonymity) Amendment Act 1997
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the Evidence Act 1908 and related enactments
 
