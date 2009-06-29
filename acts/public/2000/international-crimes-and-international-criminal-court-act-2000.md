@@ -1,5 +1,5 @@
 # International Crimes and International Criminal Court Act 2000
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-06-29_
 
 ### 1 Title
 This Act is the International Crimes and International Criminal Court Act 2000.
@@ -405,7 +405,7 @@ After receiving a request under section 33, the District Court Judge must issue 
 (2) Despite section 4 of the Summary Proceedings Act 1957, a District Court presided over by 1 or more Justices or 1 or more Community Magistrates does not have jurisdiction to conduct proceedings under this Part.
 (3) Despite subsections (1) and (2) of section 46 of the Summary Proceedings Act 1957, a decision to remand a person in custody or on bail may be made only by a Judge.
 (4)
-(5) Section 171 of the Summary Proceedings Act 1957 and sections 52 and 54 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
+(5) Section 184T of the Summary Proceedings Act 1957 and sections 52 and 54 of the Bail Act 2000 apply, so far as applicable and with the necessary modifications, to a person who is detained under section 46 or section 49.
 (6) To avoid doubt, if an application is made for the variation of conditions of bail of a person who is detained under section 46 or section 49, the procedure in section 40(1) and (2) applies.
 
 ### 42 Detention in place other than prison
@@ -457,7 +457,7 @@ After receiving a request under section 33, the District Court Judge must issue 
   (a) the District Court has determined in accordance with section 43 that a person is eligible for surrender; or
   (b) a person has consented to surrender to the ICC in accordance with section 45.
 (2) If this section applies, the District Court must—
-  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 42 of this Act or section 171(2) of the Summary Proceedings Act 1957 pending the surrender of the person to the ICC or the person's discharge according to law; and
+  (a) issue a warrant for the detention of the person in a prison or other place authorised in accordance with section 42 of this Act or section 184T(3) of the Summary Proceedings Act 1957 pending the surrender of the person to the ICC or the person's discharge according to law; and
   (b) send to the Minister a copy of the warrant of detention and such report on the case as the court thinks fit; and
   (c) inform a person to whom subsection (1)(a) applies that,—
     (i) subject to section 70, the person will not be surrendered until the expiration of 15 days after the date of the issue of the warrant; and
@@ -2416,7 +2416,7 @@ The judges, the Prosecutor, the Deputy Prosecutors, the Registrar and the Deputy
   (a) At the request of the Prosecutor, issue such orders and warrants as may be required for the purposes of an investigation;
   (b) Upon the request of a person who has been arrested or has appeared pursuant to a summons under article 58, issue such orders, including measures such as those described in article 56, or seek such cooperation pursuant to Part 9 as may be necessary to assist the person in the preparation of his or her defence;
   (c) Where necessary, provide for the protection and privacy of victims and witnesses, the preservation of evidence, the protection of persons who have been arrested or appeared in response to a summons, and the protection of national security information;
-  (d) Authorize the Prosecutor to take specific investigative steps within the territory of a State Party without having secured the cooperation of that State under Part 9 if, whenever possible having regard to the views of the State concerned, the Pre-Trial Chamber has determined in that case that the State is clearly unable to execute a request for cooperation due to the unavailability of any authority or any component of its judicial system competent to execute the request for cooperation under Part 9.
+  (d) Authorize the Prosecutor to take specific investigative steps within the territory of a State Party without having secured the cooperation of that State under Part 9 if, whenever possible having regard to the views of the State concerned, the Pre-Trial Chamber has determined in that case that the State is clearly unable to execute a request for cooperation due to the unavailability of any authority or any component of its judicial system competent to execute the request for cooperation under Part9.
   (e) Where a warrant of arrest or a summons has been issued under article 58, and having due regard to the strength of the evidence and the rights of the parties concerned, as provided for in this Statute and the Rules of Procedure and Evidence, seek the cooperation of States pursuant to article 93, paragraph 1(k), to take protective measures for the purpose of forfeiture, in particular for the ultimate benefit of victims.
 
 ### Article 58 Issuance by the Pre-Trial Chamber of a warrant of arrest or a summons to appear
@@ -2806,7 +2806,7 @@ States Parties shall ensure that there are procedures available under their nati
 (2.) The Court shall have the authority to provide an assurance to a witness or an expert appearing before the Court that he or she will not be prosecuted, detained or subjected to any restriction of personal freedom by the Court in respect of any act or omission that preceded the departure of that person from the requested State.
 (3.) Where execution of a particular measure of assistance detailed in a request presented under paragraph 1, is prohibited in the requested State on the basis of an existing fundamental legal principle of general application, the requested State shall promptly consult with the Court to try to resolve the matter. In the consultations, consideration should be given to whether the assistance can be rendered in another manner or subject to conditions. If after consultations the matter cannot be resolved, the Court shall modify the request as necessary.
 (4.) In accordance with article 72, a State Party may deny a request for assistance, in whole or in part, only if the request concerns the production of any documents or disclosure of evidence which relates to its national security.
-(5.) Before denying a request for assistance under paragraph 1(l), the requested State shall consider whether the assistance can be provided subject to specified conditions, or whether the assistance can be provided at a later date or in an alternative manner, provided that if the Court or the Prosecutor accepts the assistance subject to conditions, the Court or the Prosecutor shall abide by them.
+(5.) Before denying a request for assistance under paragraph 1(1), the requested State shall consider whether the assistance can be provided subject to specified conditions, or whether the assistance can be provided at a later date or in an alternative manner, provided that if the Court or the Prosecutor accepts the assistance subject to conditions, the Court or the Prosecutor shall abide by them.
 (6.) If a request for assistance is denied, the requested State Party shall promptly inform the Court or the Prosecutor of the reasons for such denial.
 (7.)
   (a) The Court may request the temporary transfer of a person in custody for purposes of identification or for obtaining testimony or other assistance. The person may be transferred if the following conditions are fulfilled:
@@ -2828,7 +2828,7 @@ States Parties shall ensure that there are procedures available under their nati
     (i) The assistance provided under subparagraph (a) shall include, inter alia:
       (a.) The transmission of statements, documents or other types of evidence obtained in the course of an investigation or a trial conducted by the Court; and
       (b.) The questioning of any person detained by order of the Court;
-    (ii) In the case of assistance under subparagraph (b)(i)a:
+    (ii) In the case of assistance under subparagraph (b)(i):
       (a.) If the documents or other types of evidence have been obtained with the assistance of a State, such transmission shall require the consent of that State;
       (b.) If the statements, documents or other types of evidence have been provided by a witness or expert, such transmission shall be subject to the provisions of article 68.
   (c) The Court may, under the conditions set out in this paragraph, grant a request for assistance under this paragraph from a State which is not a Party to this Statute.
@@ -2898,7 +2898,7 @@ For the purposes of this Statute:
 (2.)
   (a) The State of enforcement shall notify the Court of any circumstances, including the exercise of any conditions agreed under paragraph 1, which could materially affect the terms or extent of the imprisonment. The Court shall be given at least 45 days' notice of any such known or foreseeable circumstances. During this period, the State of enforcement shall take no action that might prejudice its obligations under article 110.
   (b) Where the Court cannot agree to the circumstances referred to in subparagraph (a), it shall notify the State of enforcement and proceed in accordance with article 104, paragraph 1.
-(3.) In exercising its discretion to make a designation under paragraph 1, the Court shall take into account the following:
+(3.) In exercising its discretion to make a designation under paragraph (1), the Court shall take into account the following:
   (a) The principle that States Parties should share the responsibility for enforcing sentences of imprisonment, in accordance with principles of equitable distribution, as provided in the Rules of Procedure and Evidence;
   (b) The application of widely accepted international treaty standards governing the treatment of prisoners;
   (c) The views of the sentenced person;
