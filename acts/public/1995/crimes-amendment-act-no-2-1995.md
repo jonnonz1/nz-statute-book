@@ -1,5 +1,5 @@
 # Crimes Amendment Act (No 2) 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the Crimes Act 1961
 
