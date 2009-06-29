@@ -1,5 +1,5 @@
 # Costs in Criminal Cases Act 1967
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the law relating to the payment of costs in criminal cases
 
@@ -25,7 +25,7 @@ This Act shall bind the Crown.
 (5) If subsection (1) or subsection (3) applies and the defendant or person convicted is a Crown organisation convicted of an offence against the Building Act 1991, the Building Act 2004, or the Health and Safety in Employment Act 1992, any costs and fees awarded must be paid from the funds of that organisation.
 
 ### 5 Costs of successful defendant
-(1) Where any defendant is acquitted of an offence or where the information charging him with an offence is dismissed or withdrawn, whether upon the merits or otherwise, or where he is discharged under section 167 of the Summary Proceedings Act 1957 the Court may, subject to any regulations made under this Act, order that he be paid such sum as it thinks just and reasonable towards the costs of his defence.
+(1) Where any defendant is acquitted of an offence or where the information charging him with an offence is dismissed or withdrawn, whether upon the merits or otherwise, or where he is discharged under section 184F of the Summary Proceedings Act 1957 the Court may, subject to any regulations made under this Act, order that he be paid such sum as it thinks just and reasonable towards the costs of his defence.
 (2) Without limiting or affecting the Court's discretion under subsection (1) of this section, it is hereby declared that the Court, in deciding whether to grant costs and the amount of any costs granted, shall have regard to all relevant circumstances and in particular (where appropriate) to—
   (a) Whether the prosecution acted in good faith in bringing and continuing the proceedings:
   (b) Whether at the commencement of the proceedings the prosecution had sufficient evidence to support the conviction of the defendant in the absence of contrary evidence:
