@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act 1993
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the Summary Proceedings Act 1957
 
@@ -87,13 +87,13 @@ _Consolidation as at 2007-09-03_
 ### 24 If evidence sufficient defendant may be committed for trial or for sentence
 [Repealed]
 
-### 25
+### 25 Order for taking evidence of defence witness
 [Repealed]
 
 ### 26 Power to take statement of person dangerously ill
 [Repealed]
 
-### 27
+### 27 Child complainant's evidence may be given by videotape
 [Repealed]
 
 ### 28
