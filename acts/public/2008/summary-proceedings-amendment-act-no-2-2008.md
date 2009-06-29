@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act (No 2) 2008
-_Consolidation as at 2008-06-25_
+_Consolidation as at 2009-06-29_
 
 ### 1 Title
 This Act is the Summary Proceedings Amendment Act (No 2) 2008.
@@ -108,7 +108,7 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
   (1) Any information may, by leave of the Court, be withdrawn by the prosecutor at any time before the defendant is discharged or is committed for trial or for sentence.
   (2) Despite subsection (1), the prosecutor may withdraw an information without the leave of the Court if—
     (a) an oral evidence order is made under section 178 allowing the oral examination of a prosecution witness; and
-    (b) leave is granted to the defendant, on an application under section 13A(6)(d) of the Evidence Act 1908, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
+    (b) leave is granted to the defendant, on an application under section 109(1)(d) of the Evidence Act 2006, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
   (3) The withdrawal of an information is not a bar to any other proceedings in the same matter.
   (1) The Attorney-General may direct that proceedings against any person under this Part be stayed.
   (2) A direction under subsection (1) may be made at any time after an information has been laid against the person and before the person has been committed for trial or for sentence.
@@ -376,7 +376,7 @@ Parts 5 and 5A are repealed and the following Parts substituted:Committal procee
     (c) the desirability of the prompt disposal of trials; and
     (d) the interests of justice generally.
   (5) Nothing in this section applies to proceedings transferred to the High Court by order made under section 28J of the District Courts Act 1947.
-  (6) Nothing in this section applies to a proceeding involving a witness who is the subject of an anonymity order made under section 13C of the Evidence Act 1908.
+  (6) Nothing in this section applies to a proceeding involving a witness who is the subject of an anonymity order made under section 112 of the Evidence Act 2006.
   (1) If an order transferring a case to a District Court is made under section 184Q, a Registrar of the High Court must give, or cause to be given,—
     (a) to the defendant's counsel or solicitor, or to the defendant if the defendant is not represented,—
       (i) a copy of the order; and
