@@ -1,11 +1,11 @@
 # Land Transport Amendment Act (No 2) 2006
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-06-29_
 
 ### 1 Title
 This Act is the Land Transport Amendment Act (No 2) 2006.
 
 ### 2 Commencement
-(1) Section 6 comes into force on 1 July 2009.
+(1)
 (2) This rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
 ### 3 Principal Act amended
@@ -33,7 +33,4 @@ Section 141 is amended by inserting the following subsection after subsection (3
     (b) that are fees received in respect of an infringement offence in relation to the use of a special vehicle lane.
 
 ### 6 Repeal of amendments made by this Act to sections 2(1) and 141 of principal Act
-(1) The following provisions are repealed:
-  (a) paragraphs (c) and (d) of the definition of enforcement authority in section 2(1) of the principal Act (as inserted by section 4 of this Act); and
-  (b) section 141(3A) of the principal Act (as inserted by section 5 of this Act).
-(2) Subsection (1) does not affect any proceedings commenced by a local authority or the New Zealand Transport Agency, or any infringement fees collected (or to be collected) by a local authority, before the commencement of this section.
+[Repealed]
