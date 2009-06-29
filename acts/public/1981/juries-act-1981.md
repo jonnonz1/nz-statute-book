@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2008-12-25_
+_Consolidation as at 2009-06-29_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -319,6 +319,36 @@ Every challenge shall be made before the juror takes a seat.
   (a) discharge the jury and direct a new jury to be sworn or empanelled during the sitting of the court; or
   (b) postpone the trial on any terms justice requires.
 (7) In this section, member of the court registry staff includes the Registrar.
+
+**Majority verdicts**
+
+### 29C Criminal cases
+(1) In this section, majority verdict means, in relation to a jury that, at the time of its verdict, consists of a certain number of jurors, a verdict agreed to by all except 1 of them.
+(2) The Court may accept a majority verdict in a criminal case if—
+  (a) the jury, having retired to consider its verdict, has deliberated for at least 4 hours; and
+  (b) the jurors have not reached a unanimous verdict; and
+  (c) the foreperson of the jury has stated in open Court—
+    (i) that there is no probability of the jury reaching a unanimous verdict; and
+    (ii) that the jury has reached a majority verdict; and
+  (d) the Court considers that the jury has had a period of time for deliberation that the Court thinks reasonable, having regard to the nature and complexity of the trial.
+(3) If the case involves 2 or more charges, or 2 or more persons charged, the Court may accept a majority verdict in relation to 1 or some of the charges or persons charged, in which case nothing in this section applies to the other charges or the other persons charged.
+(4) Nothing in this section—
+  (a) prevents the Court from taking a poll of the jury; or
+  (b) affects section 339 of the Crimes Act 1961 (which relates to criminal cases where part of the charge is proved).
+(5) If, in terms of section 339 of the Crimes Act 1961, the crime charged, as described in the enactment creating the crime or as charged in the count, includes the commission of any other crime, the Court may accept a majority verdict on the crime charged instead of a unanimous verdict on the included crime.
+
+### 29D Civil cases
+(1) In this section, majority verdict means, in relation to a jury that, at the time of its verdict, consists of a certain number of jurors, a verdict agreed to by at least three-fourths of them.
+(2) The Court may accept a majority verdict in a civil case if—
+  (a) the jury, having retired to consider its verdict, has deliberated for at least 4 hours; and
+  (b) the jurors have not reached a unanimous verdict; and
+  (c) the foreperson of the jury has stated in open Court—
+    (i) that there is no probability of the jury reaching a unanimous verdict; and
+    (ii) that the jury has reached a majority verdict; and
+  (d) the Court considers that the jury has had a period of time for deliberation that the Court thinks reasonable, having regard to the nature and complexity of the trial.
+(3) Nothing in this section—
+  (a) prevents the Court from taking a poll of the jury; or
+  (b) affects any practice in civil cases by which a Court may, with the consent of all parties, accept a verdict that is not a unanimous verdict.
 
 **Miscellaneous provisions**
 
