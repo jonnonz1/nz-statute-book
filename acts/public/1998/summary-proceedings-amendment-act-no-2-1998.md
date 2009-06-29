@@ -1,5 +1,5 @@
 # Summary Proceedings Amendment Act (No 2) 1998
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the Summary Proceedings Act 1957
 
@@ -20,7 +20,7 @@ _Consolidation as at 2007-09-03_
 
 ### 4 Issue of summons or warrant to arrest defendant
 (1) This subsection amended s 19(1)(a) of the principal Act.
-(2)
+(2) Section 19(1)(b) of the principal Act was amended—
   (a) This paragraph amended s 19(1)(b) of the principal Act.
   (b) This paragraph amended s 19(1)(b)(i) of the principal Act.
 
@@ -70,6 +70,7 @@ This section amended s 66(6) of the principal Act.
 This section amended s 71 of the principal Act.
 
 ### 19 District Court Judge or Justice or Community Magistrate may grant rehearing
+Section 75 of the principal Act was amended—
   (a) This paragraph amended s 75(1) and (3) of the principal Act.
   (b) This paragraph amended the proviso to s 75(1) of the principal Act.
 
@@ -90,6 +91,7 @@ This section amended s 77(1) of the principal Act.
 (2) Section 15 of the Summary Proceedings Amendment Act 1993 is consequentially repealed.
 
 ### 23 Restriction on imprisonment
+Section 106E of the principal Act (as substituted by section 20(1) of the Summary Proceedings Amendment Act 1993) was amended—
   (a) This paragraph amended s 106E(1) of the principal Act.
   (b) This paragraph amended s 106E(5) of the principal Act.
 
@@ -103,13 +105,13 @@ This section inserted s 114B of the principal Act.
 [Repealed]
 
 ### 27 Proceedings under Part 5
-This section amended s 145(2) of the principal Act.
+[Repealed]
 
 ### 28 Issue of summons to or warrant to arrest defendant
-This section amended s 147 of the principal Act.
+[Repealed]
 
 ### 29 Issue of warrant where defendant who has been summoned does not attend
-This section amended s 148 of the principal Act.
+[Repealed]
 
 ### 30 Application of provisions of Part 2
 [Repealed]
@@ -118,21 +120,19 @@ This section amended s 148 of the principal Act.
 [Repealed]
 
 ### 32 Place of preliminary hearing
-This section amended s 155 of the principal Act.
+[Repealed]
 
 ### 33 Depositions of witnesses
-This section amended s 161(2) of the principal Act.
+[Repealed]
 
 ### 34 Statement of defendant who is unrepresented
-This section amended s 163 of the principal Act.
+[Repealed]
 
 ### 35 Witnesses on behalf of defendant to be examined if defendant wishes
-This section amended s 165(2) of the principal Act.
+[Repealed]
 
 ### 36 If evidence sufficient defendant may be committed for trial or sentence
-(1)
-(2) This subsection amended s 168(3) of the principal Act.
-(3)
+[Repealed]
 
 ### 37 Release on bail of defendant committed for trial or sentence
 [Repealed]
@@ -144,25 +144,22 @@ This section amended s 165(2) of the principal Act.
 [Repealed]
 
 ### 40 Provision for person in custody to be present at taking of statement
-This section amended s 177 of the principal Act.
+[Repealed]
 
 ### 41 Notice to witnesses to attend at High Court
-(1) This subsection substituted s 181(1) of the principal Act
-(2) The following enactments are consequentially repealed:
-  (a) Section 23(1) of the Summary Proceedings Amendment Act 1973:
-  (b) So much of the Schedule of the Summary Proceedings Amendment Act 1976 as relates to section 181(1) of the principal Act (as substituted by section 23(1) of the Summary Proceedings Amendment Act 1973):
-  (c) Section 17(1) of the Summary Proceedings Amendment Act 1980.
+[Repealed]
 
 ### 42 When deposition or written statement may be read in evidence
-This section amended s 184 of the principal Act.
+[Repealed]
 
 ### 43 Witness about to leave New Zealand may be arrested
-This section amended s 185(1) of the principal Act.
+[Repealed]
 
 ### 44 Part 7 amended
 This section substituted the heading of Part 7 of the principal Act.
 
 ### 45 No action against District Court Judge, Justice, or Community Magistrate unless act in excess of jurisdiction or without jurisdiction
+Section 193 of the principal Act was amended—
   (a) This paragraph amended s 193(1) of the principal Act.
   (b) This paragraph amended s 193(2) of the principal Act.
   (c) This paragraph amended s 193(2) of the principal Act.
@@ -180,6 +177,7 @@ This section amended s 196 of the principal Act.
 This section amended s 197 of the principal Act.
 
 ### 50 Search warrants
+Section 198 of the principal Act was amended—
   (a) This paragraph amended s 198(1) of the principal Act.
   (b) This paragraph amended s 198(6) of the principal Act.
 
