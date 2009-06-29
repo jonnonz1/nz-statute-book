@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2009-06-12_
+_Consolidation as at 2009-06-29_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -658,7 +658,7 @@ All fees received under this Act must be paid into a Crown Bank Account.
 (3) Nothing in this section shall be construed to annul, repeal, or in any way affect the common law, or the provisions of any statute or rule of practice or procedure, now or hereafter in force, authorising the service of any statement of claim, application, writ, process, or warrant, in cases other than those excepted in subsection (1) of this section.
 
 ### 54A Verdict of three-fourths
-If three-fourths at least of any jury trying any civil case shall, after the jury has retired to consider its verdict for a period of at least 4 hours, intimate to the Judge presiding that the jury has considered its verdict, and that there is no probability of such jury being unanimous, the verdict of three-fourths shall have the same effect as the verdict of the whole number.
+[Repealed]
 
 ### 54B Discharge of juror or jury
 Nothing in this Act affects the powers of a Court or Judge to discharge a juror or jury for a civil case under section 22 of the Juries Act 1981.
