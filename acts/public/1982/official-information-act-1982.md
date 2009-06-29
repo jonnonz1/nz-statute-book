@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-06-29_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -271,6 +271,9 @@ A request made in accordance with section 12 of this Act may be refused only for
     (i) Be contrary to the provisions of a specified enactment; or
     (ii) Constitute contempt of Court or of the House of Representatives:
   (d) That the information requested is or will soon be publicly available:
+  (da) that the request is made by a defendant or a person acting on behalf of a defendant and is—
+    (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
+    (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act:
   (e) That the document alleged to contain the information requested does not exist or cannot be found:
   (f) That the information requested cannot be made available without substantial collation or research:
   (g) That the information requested is not held by the Department or Minister of the Crown or organisation and the person dealing with the request has no grounds for believing that the information is either—
