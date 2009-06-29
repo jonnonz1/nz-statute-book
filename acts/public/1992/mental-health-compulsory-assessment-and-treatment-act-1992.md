@@ -1,5 +1,5 @@
 # Mental Health (Compulsory Assessment and Treatment) Act 1992
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2009-06-29_
 
 > An Act to redefine the circumstances in which and the conditions under which persons may be subjected to compulsory psychiatric assessment and treatment, to define the rights of such persons and to provide better protection for those rights, and generally to reform and consolidate the law relating to the assessment and treatment of persons suffering from mental disorder
 
@@ -62,7 +62,7 @@ _Consolidation as at 2009-05-18_
   - **special patient** means—
     (a) a person who is liable to be detained in a hospital under an order made under—
       (i) section 24(2)(a) or section 38(2)(c) or section 44(1) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
-      (ii) section 171(2) of the Summary Proceedings Act 1957; or
+      (ii) section 184T(3) of the Summary Proceedings Act 1957; or
     (b) a person who is remanded to a hospital under section 23 or section 35 of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
     (c) a person who is liable to be detained in a hospital under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, and who has not ceased, under section 48 of this Act, to be a special patient; or
     (d) a person who is liable to be detained in a hospital, either following an application under section 45(2) or arrangements made under section 46, and who has not ceased, under section 48, to be a special patient; or
