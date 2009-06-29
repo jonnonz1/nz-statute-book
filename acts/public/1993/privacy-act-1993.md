@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-06-29_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—aTo establish certain principles with respect to—iThe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiAccess by each individual to information relating to that individual and held by public and private sector agencies; andbTo provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcTo provide for matters incidental thereto
 
@@ -448,6 +448,9 @@ The provisions of Schedule 1 to this Act shall have effect in relation to the Co
     (ii) The disclosure of the information would be likely to prejudice the supply of similar information, or information from the same source; or
   (h) The disclosure of the information, being information contained in material placed in any library or museum or archive, would breach a condition subject to which that material was so placed; or
   (i) The disclosure of the information would constitute contempt of Court or of the House of Representatives; or
+  (ia) the request is made by a defendant or a defendant's agent and is—
+    (i) for information that could be sought by the defendant under the Criminal Disclosure Act 2008; or
+    (ii) for information that could be sought by the defendant under that Act and that has been disclosed to, or withheld from, the defendant under that Act; or
   (j) The request is frivolous or vexatious, or the information requested is trivial.
 (2) An agency may refuse a request made pursuant to principle 6 if—
   (a) The information requested is not readily retrievable; or
@@ -469,8 +472,7 @@ The provisions of Schedule 1 to this Act shall have effect in relation to the Co
 Subject to sections 7, 31, and 32 of this Act, no reasons other than one or more of the reasons set out in sections 27 to 29 of this Act justifies a refusal to disclose any information requested pursuant to principle 6.
 
 ### 31 Restriction where person sentenced to imprisonment
-(1) Nothing in principle 6 gives any individual who, after the commencement of this section, is sentenced to imprisonment for an offence the right to be given access to any personal information about that individual that is held by the Police and that relates to the offence for which that individual was sentenced, or to the conviction or sentencing of that individual for that offence.
-(2) This section shall come into force on a date to be appointed by the Governor-General by Order in Council.
+[Repealed]
 
 ### 32 Information concerning existence of certain information
 Where a request made pursuant to principle 6 relates to information to which section 27 or section 28 of this Act applies, or would, if it existed, apply, the agency dealing with the request may, if it is satisfied that the interest protected by section 27 or section 28 of this Act would be likely to be prejudiced by the disclosure of the existence or non-existence of such information, give notice in writing to the applicant that it neither confirms nor denies the existence or non-existence of that information.
