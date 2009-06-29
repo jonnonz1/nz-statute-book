@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-03-01_
+_Consolidation as at 2009-06-29_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -24,7 +24,7 @@ _Consolidation as at 2009-03-01_
       (iii) A child disability allowance payable under section 39A of that Act; or
       (iv) temporary additional support under section 61G of that Act or a special benefit continued under section 23 of the Social Security (Working for Families) Amendment Act 2004; or
       (v) A disability allowance payable under section 69C of that Act:
-  - **Committal for trial** means committal to the High Court or a District Court under section 168A of this Act
+  - **committal for trial** means committal to the High Court or a District Court under section 184N
   - **constable** has the meaning given in section 4 of the Policing Act 2008
   - **Conviction** includes an order; and has a corresponding meaning
   - **Court** means a District Court constituted under the District Courts Act 1947
@@ -105,11 +105,10 @@ The summary criminal jurisdiction of a District Court must be exercised in accor
   (b) By one or more Justices; or
   (c) By one or more Community Magistrates.
 
-### 5 Jurisdiction to conduct preliminary hearing of indictable offences
-(1) A Court presided over by a District Court Judge or by 2 or more Justices or by one or more Community Magistrates has jurisdiction to conduct—
-  (a) The preliminary hearing of an indictable offence; and
-  (b) Any proceedings under section 153A.
-(2) Subsection (1) is subject to section 185B.
+### 5 Jurisdiction in relation to committal for indictable offences
+(1) A Court presided over by a District Court Judge or by 2 or more Justices or by 1 or more Community Magistrates has jurisdiction to conduct the committal proceedings (including a standard committal, a committal hearing (if required), and proceedings under section 158, 180, or 181) for an indictable offence.
+(2) Unless the proceedings are in the Youth Court, a Court presided over by a District Court Registrar has jurisdiction to conduct a standard committal for an indictable offence.
+(3) Subsections (1) and (2) are subject to section 185B.
 
 ### 6 Summary jurisdiction in respect of indictable offences
 (1) A Court presided over by a District Court Judge shall have summary jurisdiction in respect of the indictable offences described in the enactments specified in Schedule 1 to this Act, and proceedings in respect of any such offence may accordingly be taken in a summary way in accordance with this Act.
@@ -300,6 +299,7 @@ Every information shall contain such particulars as will fairly inform the defen
 
 ### 20 Issue of summons or warrant for attendance of witness
 (1) Either the informant or the defendant may at any time obtain from any District Court Judge or Justice or Community Magistrate or the Registrar a summons in the prescribed form calling on any person to appear as a witness at the hearing.
+(1A) If an application for a non-party disclosure hearing is granted under section 25 of the Criminal Disclosure Act 2008, the defendant may apply to a District Court Judge or Justice or Community Magistrate or the Registrar for the issue of a summons in the prescribed form calling on any person to appear at that hearing.
 (2) Any summons issued under subsection (1) of this section may require the person summoned to bring with him and produce at the hearing such books, deeds, papers, writings, and photographs as may be mentioned in the summons.
 (3) No person who is required under a summons issued under subsection (1) of this section to travel more than 15 kilometres to attend the hearing shall be bound to attend, unless expenses in accordance with the scale prescribed by regulations made under this Act are tendered to him.
 (4) If any District Court Judge or Registrar is satisfied that any person whose evidence at the hearing is required by either the informant or the defendant will not attend to give evidence without being compelled to do so, then, whether or not a summons has been issued or served, he may, if he thinks fit, issue a warrant in the prescribed form for the attendance of that person at the hearing.
@@ -497,9 +497,9 @@ Where a document is served on any person who is a Maori within the meaning of th
 (2) Evidence given in accordance with this section and with any regulations under this Act may be tendered at the hearing as if it were given in the course thereof; and judicial notice shall be taken of the signature of any examining District Court Judge or Justice or Community Magistrate or Registrar to any deposition made pursuant to an order under this section.
 
 ### 33 Admission in summary proceedings of statement of person dangerously ill taken for purposes of trial of indictable offence
-Any statement taken under section 175 of this Act (which relates to statements of persons dangerously ill and not likely to recover) may afterwards without further proof be given in evidence either for or against the defendant at the hearing of any charge under this Part of this Act, if—
+Any statement taken under section 164 (which relates to statements of persons dangerously ill and not likely to recover) may afterwards without further proof be given in evidence either for or against the defendant at the hearing of any charge under this Part of this Act, if—
   (a) The offence charged is one to which the statement relates (whether or not the defendant had been charged under Part 5 of this Act with that offence at the time the statement was taken) or the defendant is a person to whom the statement relates; and
-  (b) Pursuant to section 176 of this Act, the statement could have been given in evidence at the preliminary hearing under Part 5 of this Act of any information against the defendant.
+  (b) Pursuant to section 165, the statement could have been given in evidence at a committal hearing under Part 5 of this Act of any information against the defendant.
 
 **General provisions as to hearing**
 
@@ -604,7 +604,7 @@ A plea of guilty may, by leave of the Court, be withdrawn at any time before the
 ### 45 Power to adjourn
 (1) The hearing of any charge may from time to time be adjourned by the Court to a time and place then appointed.
 (2) If at any time and place appointed for the hearing of any charge, or when a defendant is brought before a Court on arrest, the Court by reason of its constitution has no jurisdiction to hear the charge, any Justice or Community Magistrate may adjourn the hearing to a time and place then appointed.
-(3) If on any adjournment the defendant is remanded in custody under section 46 of this Act, the adjournment shall not be for a longer period than 8 days, unless both parties otherwise consent.
+(3)
 
 ### 45A Power of Registrar to adjourn
 (1) A Registrar may, upon application, adjourn the hearing of any charge to a time and place then appointed if—
@@ -628,12 +628,7 @@ A plea of guilty may, by leave of the Court, be withdrawn at any time before the
   (b) the defendant—
     (i) is legally represented or has indicated that he or she has received legal advice; or
     (ii) has declined an opportunity to obtain legal advice.
-(3) The following provisions apply to every remand imposed by a Registrar under subsection (2):
-  (a) a single period of remand may not exceed 8 days:
-  (b) not more than 2 consecutive periods of remand may be imposed and neither of those periods may exceed 8 days:
-  (c) the defendant must be brought before a Court or Justice or Community Magistrate—and the Court or Justice or Community Magistrate must determine what action (if any) under subsection (1) should be taken in respect of the defendant.
-    (i) at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)(a); or
-    (ii) at the earliest opportunity after the expiration of 16 days commencing on the date of the imposition of the remand,—
+(3) If a Registrar remands a person in custody under subsection (1)(c) the defendant must be brought before a court or Justice or Community Magistrate at the earliest opportunity if, at any time during the period of remand, the defendant withdraws his or her agreement under subsection (2)(a) and the Court or Justice or Community Magistrate must declare what action (if any) should be taken under subsection (1) in respect of the defendant.
 
 ### 46A Registrar may prohibit publication of names
 (1) A Registrar may exercise the power conferred by section 140 of the Criminal Justice Act 1985 (which relates to orders prohibiting the publication of names) to make an order that has effect for a limited period if—
@@ -648,16 +643,12 @@ A plea of guilty may, by leave of the Court, be withdrawn at any time before the
 (3) No Registrar may exercise the power under subsection (1) more than once in relation to any particular information.
 
 ### 46AB Application of section 45 during epidemic
-(1) While an epidemic management notice is in force, section 45 has effect as if the reference in it to a longer period than 8 days were a reference to a longer period than 21 days.
-(2) If the notice applies to only stated parts of New Zealand, subsection (1) applies within those parts only.
-(3) In subsection (1), epidemic management notice means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice.
+[Repealed]
 
 ### 46AC Application of section 46 during epidemic
-(1) While an epidemic management notice (within the meaning of section 46AB(3)) is in force, section 46 has effect as if—
-  (a) the references in paragraphs (a) and (b) of subsection (3) to 8 days have effect as if they are references to 21 days; and
-  (b) the reference in subsection (3)(c)(i) to the earliest opportunity has effect as if it is a reference to the earliest opportunity that is reasonable in all the circumstances; and
-  (c) the reference in subsection (3)(c)(ii) to the earliest opportunity after the expiration of 16 days commencing on the date of the imposition of the remand has effect as if it is a reference to the earliest opportunity after the expiration of 42 days commencing on the date of the imposition of the remand that is reasonable in all the circumstances.
+(1) While an epidemic management notice is in force, section 46 has effect as if the reference in subsection (3) to the earliest opportunity has effect as if it is a reference to the earliest opportunity that is reasonable in the circumstances.
 (2) If the notice applies to only stated parts of New Zealand, subsection (1) applies within those parts only.
+(3) In this section, epidemic management notice means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice.
 
 ### 47 Warrant for detention of defendant remanded in custody
 Where the defendant is remanded in custody under section 46, the Court or Justice or Community Magistrate or Registrar must issue a warrant in the prescribed form for the detention of the defendant in custody for the period of the adjournment.
@@ -755,9 +746,9 @@ Where at the hearing of any charge both the informant and the defendant appear, 
     (ii) if any defendant who is a co-accused is to be tried by a jury, that the defendant be tried by a jury instead of the Court; and
   (b) an order of the Court under paragraph (a) is to be treated subsequently as an election by the defendant to be tried by the Court or, as the case requires, a jury.
 (5B) Subsection (5A) is subject to subsection (7).
-(6) A defendant who has elected under this section to be tried by a jury may, by leave of the Court at any time before he is committed for trial or for sentence, withdraw his election, and thereupon the Court may, notwithstanding anything in section 153A or section 168 of this Act, deal summarily with the case in all respects as if no such election had been made, and the foregoing provisions of this section shall no longer apply:
-  Provided that where the Court is presided over by 2 or more Justices or one or more Community Magistrates and the defendant has pleaded guilty to an offence which the Court does not have jurisdiction to deal with summarily by reason of its constitution, the Court shall record the plea and shall adjourn the proceedings for the defendant to be sentenced or otherwise dealt with by a Court presided over by a District Court Judge.
-(6A) Where a defendant who has elected under this section to be tried by a jury has pleaded guilty pursuant to the provisions of section 168 of this Act and he is not represented by a barrister or solicitor, the Court, unless it considers that leave should not be granted to the defendant to withdraw his election, shall draw to his attention the provisions of subsection (6) of this section.
+(6) A defendant who has elected under this section to be tried by a jury may, by leave of the Court at any time before he is committed for trial or for sentence, withdraw his election, and thereupon the Court may, notwithstanding anything in section 160, 161, 184I, 184J, or 184M, deal summarily with the case in all respects as if no such election had been made, and the foregoing provisions of this section shall no longer apply:
+  Provided that where the Court is presided over by 2 or more Justices or one or more Community Magistrates or a Registrar and the defendant has pleaded guilty to an offence which the Court does not have jurisdiction to deal with summarily by reason of its constitution, the Court shall record the plea and shall adjourn the proceedings for the defendant to be sentenced or otherwise dealt with by a Court presided over by a District Court Judge.
+(6A) Where a defendant who has elected under this section to be tried by a jury has pleaded guilty under sections 184I and 184J and he is not represented by a barrister or solicitor, the Court, unless it considers that leave should not be granted to the defendant to withdraw his election, shall draw to his attention the provisions of subsection (6) of this section.
 (7) Any barrister or solicitor who appears for the defendant may (whether or not the defendant is personally present) inform the Court on his behalf that the defendant does not elect to be tried by a jury, or may (where the defendant is personally present) inform the Court on his behalf that the defendant does elect to be so tried, and thereupon the Court may proceed as if the defendant had personally made the election:
   Provided that, if it thinks fit, the Court may, if the defendant is not personally present and his counsel or solicitor informs the Court that the defendant does not elect to be tried by a jury, adjourn the hearing to such time and on such conditions as the Court thinks fit to enable the defendant to be present or issue a warrant, in the prescribed form, to arrest him and bring him before the Court.
 
@@ -1618,7 +1609,7 @@ Sections 115 to 115DA are subject to section 384A of the Crimes Act 1961.
 
 ### 116 Notice of appeal
 (1) Subject to subsection (1A) of this section, the appellant under any general appeal shall, within 28 days after the defendant has been sentenced or otherwise dealt with or the order has been made, file in the office of the Court whose determination is appealed against a notice in writing of the appeal and of the grounds thereof. The notice shall be in the prescribed form and shall be filed in duplicate.
-(1A) In the case of an appeal under section 115C of this Act, the notice of appeal required by subsection (1) of this section shall be filed within 3 days after the date of the decision against which the appeal is brought.
+(1A) In the case of an appeal under section 115C of this Act or section 33 of the Criminal Disclosure Act 2008, the notice of appeal required by subsection (1) of this section shall be filed within 3 days after the date of the decision against which the appeal is brought.
 (2) The Registrar receiving the notice shall forthwith deliver or post one copy to the respondent or his solicitor and notify the District Court Judge or Justice or Justices whose determination is appealed against of the appeal and of the grounds thereof.
 (3) In the case of any general appeal in respect of a determination in the Chatham Islands, subsection (1) of this section shall be read as if for the words 28 days there were substituted the words 3 months, and subsection (1A) of this section shall be read as if for the words 3 days there were substituted the words 10 days.
 
@@ -1833,298 +1824,193 @@ On an appeal under section 144 or section 144A to the Court of Appeal or the Sup
   (a) the court appealed to has the same power to adjudicate on the proceeding that the High Court had; and
   (b) the same judgment must be entered in the High Court, and the same execution and other consequences and proceedings follow, as if the decision of the court appealed to had been given in the High Court.
 
-## Part 5 — Preliminary hearing of indictable offences
+## Part 5 — Committal proceedings for indictable offences
 
-### 145 Proceedings under this Part
-(1) This Part of this Act shall apply in any case where the defendant is to be proceeded against by indictment.
-(2) Subject to the provisions of sections 44 and 66 of this Act, all proceedings to which this Part of this Act applies shall be commenced by information in form 2 in Schedule 2 to this Act, substantiated on oath before a District Court Judge or Justice or Community Magistrate or before any Registrar (not being a constable).
-(3) Without limiting any other provision of this Act or any other enactment, no information shall be invalid by reason only that it does not contain the date of birth of the defendant or does not correctly describe the defendant's date of birth, and no amendment shall be required to remedy that omission or error before the trial.
+### 145 Purpose and overview
+(1) The purpose of this Part is to reform the law relating to preliminary hearings in criminal proceedings by replacing preliminary hearings with a standard committal procedure (which does not involve a hearing or consideration of the evidence), that is followed unless a party has been granted leave to orally examine a witness (in which case a committal hearing is held).
+(2) A general overview of the committal procedures set out in this Part is set out in diagrammatic form as follows:General overview of committal proceedings for offences to be tried on indictment Defendant— elects trial by jury makes first appearance in Court if the charge is laid indictably Defendant is given notice of the requirement to apply for oral evidence order if defendant wants to have committal hearing Prosecutor must file written statements in Court not later than 42 days after defendant— elects trial by jury first appears in Court if the charge is laid indictably Either prosecutor or defendant may apply for oral evidence order within 14 days after the date when the prosecutor is required to file written statements in Court Does defendant enter a plea of guilty before committal hearing or standard committal? Defendant is convicted and sentenced Is application for oral evidence order made by defendant or prosecutor? Standard committal— no hearing evidence is not considered neither party appears defendant is committed for trial on the papers Is application for oral evidence order successful? Committal hearing— witnesses to whom the oral evidence order applies give evidence parties appear Court must determine whether there is sufficient evidence to commit defendant for trial if not defendant is discharged if so defendant is committed for trial Note: This general overview of committal proceedings is by way of indication only. Detailed rules set out in the Act determine how those proceedings are conducted.
+
+### 146 Interpretation
+In this Part and Part 5A,—
+  - **committal hearing** means a hearing required under this Part as a consequence of an oral evidence order under section 180 or 181
+  - **committal proceedings** —
+    (a) means the proceedings comprising each and every occasion on which a defendant to whom this Part applies is required to appear in Court, or on which a Court considers his or her case under this Part or Part 5A, pending the committal of the defendant for trial or sentence; and
+    (b) includes a standard committal, a committal hearing, and any proceedings under section 160, 180 or 181
+  - **prosecutor** has the same meaning as it has in section 6 of the Criminal Disclosure Act 2008
+  - **standard committal** is a committal that takes place if no oral evidence order has been made under section 180 or 181 allowing the oral examination of a witness.
+
+**Commencement of proceedings under this Part**
+
+### 147 Proceedings under this Part
+(1) This Part applies if the defendant is to be proceeded against by indictment.
+(2) All proceedings to which this Part applies must be commenced by information in form 2 of Schedule 2 and substantiated on oath before a District Court Judge, Justice, Community Magistrate, or any Registrar (not being a member of the police).
+(3) Subsection (2) is subject to sections 44 and 66.
+(4) Without limiting any other provision of this Act or any other enactment, no information is invalid only because it—
+  (a) does not contain the date of birth of the defendant; or
+  (b) does not correctly describe the defendant's date of birth.
+(5) No amendment is required to remedy an omission or error of the type described in subsection (4) before the trial.
 
 **Information, summons, and warrant**
 
-### 146 Application of provisions of Part 2
-The following provisions of Part 2 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to proceedings to which this Part of this Act applies, as if references in those provisions to proceedings to which Part 2 applies were references to proceedings to which this Part applies, and as if references in those provisions to the hearing were references to the preliminary hearing, namely:
-  (a) Section 13 (which permits any person to lay an information):
-  (b) Subsection (1) of section 16 (which requires an information to be for one offence only):
-  (c) Section 17 (which requires an information to contain certain particulars):
-  (ca) Section 17A (which requires that certain informations disclose the range of penalties available for the offence):
-  (d) Section 18 (which specifies the Court in which an information must be filed):
-  (e) Section 20 (which relates to the issue of a summons or a warrant for the attendance of a witness):
-  (f) Section 22 (which specifies the person to whom a warrant is to be directed and the power of the person executing a warrant to enter premises):
-  (g) Section 23 (which relates to the withdrawal of a warrant).
+### 148 Application of provisions of Part 2
+(1) The provisions of Part 2 listed in subsection (2), as far as they are applicable and with the necessary modifications, apply to proceedings to which this Part applies.
+(2) The provisions are—
+  (a) section 13 (which permits any person to lay an information):
+  (b) section 16(1) (which requires an information to be for 1 offence only):
+  (c) section 17 (which requires an information to contain sufficient particulars):
+  (d) section 17A (which requires that certain informations disclose the range of penalties available for the offence):
+  (e) section 18 (which specifies the Court in which an information must be filed):
+  (f) section 20 (which relates to the issue of a summons or a warrant for the attendance of a witness):
+  (g) section 22 (which specifies the person to whom a warrant is to be directed and the power of the person executing a warrant to enter premises):
+  (h) section 23 (which relates to the withdrawal of a warrant).
 
-### 147 Issue of summons to or of warrant to arrest defendant
-(1) When an information has been laid—
-  (a) Any District Court Judge or Justice or Community Magistrate or the Registrar (not being a constable) may issue a summons to the defendant, in the prescribed form:
-  (b) Any District Court Judge or Justice or Community Magistrate or the Registrar (not being a constable) may issue a warrant, in the prescribed form, to arrest the defendant and bring him before a Court.
-(2) A warrant as aforesaid may be issued notwithstanding that a summons has previously been issued and whether or not any such summons has been served.
+### 149 Notice to defendant
+The Registrar must serve on the defendant's counsel or solicitor, or on the defendant if he or she is not represented, a written notice to the defendant to the following effect as soon as practicable after the defendant has—If you wish to have a committal hearing at which you give oral evidence, or call witnesses on your behalf, or cross-examine a prosecution witness, you must apply for an oral evidence order under section 178 of the Summary Proceedings Act 1957.You are not obliged to apply for an oral evidence order.If no oral evidence order is made, you will be automatically committed for trial on the basis of the prosecution evidence against you without a committal hearing or consideration of that evidence.If an application for an oral evidence order is granted, there will be a committal hearing and the oral evidence that is given will be taken down and may be given against you at your trial. If you give oral evidence yourself, you may be cross-examined.If you provide written evidence at a committal hearing that evidence may be used against you at your trial.You should take no notice of any promise or threat that any person may have made to persuade you to say anything (other than a promise made in discussions between you or your counsel and the prosecution). If you do not apply for an oral evidence order or provide any written evidence at a committal hearing that fact is not allowed to be the subject of any comment at your trial.
+  (a) elected trial by jury under section 66; or
+  (b) if the information was laid indictably, made his or her first appearance in Court in relation to the offence:
 
-### 148 Issue of warrant where defendant who has been summoned does not attend
-If any person who has been served with a summons issued against him in accordance with section 147 of this Act does not attend personally at the time and place mentioned in the summons or at any time and place to which the preliminary hearing is adjourned, the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates may issue a warrant, in the prescribed form, to arrest him and bring him before a Court.
+### 150 Issue of summons or warrant
+(1) When an information has been laid, any District Court Judge, Justice, or Community Magistrate, or the Registrar (not being a member of the police),—
+  (a) may issue a summons to the defendant in the prescribed form; or
+  (b) may issue a warrant, in the prescribed form, to arrest the defendant and bring him or her before a Court.
+(2) A warrant under subsection (1)(b) may be issued even if a summons has previously been issued and whether or not that summons has been served.
 
-### 149 Defect in form or variance between charge and evidence
-No objection shall be taken or allowed to any information, summons, or warrant to which this Part of this Act applies for any alleged defect in substance or in form, or for any variance between it and the evidence adduced on the part of the prosecution at the preliminary hearing:
-  Provided that, if any such variance appears to the Court to be such that the defendant has been deceived or misled, it may, at his request, adjourn the preliminary hearing under section 152 of this Act.
+### 151 Issue of warrant if defendant does not attend
+If any person who has been served with a summons issued against him or her in accordance with section 150 does not attend personally at the time and place mentioned in the summons, or at any time and place to which the proceedings are adjourned, the presiding District Court Judge, Justices, Community Magistrate, or Community Magistrates may issue a warrant, in the prescribed form, to arrest that person and bring him or her before a Court.
+
+### 152 Defect in form or variance between charge and evidence
+(1) No objection may be taken or allowed to any information, summons, or warrant to which this Part applies for any alleged defect in substance or in form, for any variance between it and the evidence adduced on the part of the prosecution at the committal hearing, or for the purposes of the standard committal.
+(2) Despite subsection (1), if there is to be a committal hearing and any variance referred to in subsection (1) appears to the Court to have deceived or misled the defendant or to operate unfairly to the defendant, the Court may, at the defendant's request, adjourn the committal hearing under section 155.
+
+### 152A Power of Registrar to adjourn
+[Repealed]
 
 **Service of documents**
 
-### 150 Service of summons on defendant
-Every summons to a defendant shall be served on him by a constable, and service shall be effected by delivery of the summons to the defendant personally, or by its being brought to his notice if he refuses to accept it.
+### 153 Service of summons on defendant
+Every summons to a defendant must be served on him or her by a member of the police, by—
+  (a) delivering the summons to the defendant personally; or
+  (b) bringing it to the defendant's notice if he or she refuses to accept it.
 
-### 151 Application of provisions of Part 2
-The following provisions of Part 2 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to proceedings to which this Part of this Act applies, as if references in those provisions to the hearing were references to the preliminary hearing, namely:
-  (a) Section 26 (which prescribes the mode of service of documents on any person other than the defendant):
-  (b) Section 27 (which specifies who may serve documents on any person other than the defendant):
-  (c) Subject to the provisions of section 150 of this Act, section 28 (which prescribes the mode of service in particular cases):
-  (d) Section 29 (which prescribes the manner in which service may be proved):
-  (e) Section 30 (which relates to the translation of documents into the Maori language).
+### 153A Defendant may plead guilty before or during preliminary hearing
+[Repealed]
+
+### 154 Application of provisions of Part 2
+The following provisions of Part 2, as far as they are applicable and with the necessary modifications, apply to proceedings to which this Part applies:
+  (a) section 26 (which prescribes the mode of service of documents on any person other than the defendant):
+  (b) section 27 (which specifies who may serve documents on any person other than the defendant):
+  (c) subject to the provisions of section 153, section 28 (which prescribes the mode of service in particular cases):
+  (d) section 29 (which prescribes the manner in which service may be proved):
+  (e) section 30 (which relates to the translation of documents into the Maori language).
 
 **Adjournments and bail**
 
-### 152 Power to adjourn
-(1) The preliminary hearing of any information may from time to time be adjourned by the Court to a time and place then appointed, if for any reasonable cause it is necessary or desirable to do so.
-(2) If at any time and place appointed for the preliminary hearing of any information or for proceedings under section 153A of this Act, or when a defendant is brought before a Court on arrest, only one Justice is present, that Justice may adjourn the preliminary hearing or the proceedings to a time and place then appointed.
-(3) Except with the consent of both parties, no adjournment under this section shall be for a longer period than 8 days.
+### 155 Power to adjourn
+(1) The committal proceedings for any information may, from time to time, be adjourned by the Court to a time and place then appointed if it is necessary or desirable to do so for any reasonable cause.
+(2) If only 1 Justice of the Peace is present at the time and place appointed for those proceedings, or when a defendant is brought before a Court on arrest, that Justice may adjourn the committal proceedings for a period that must not be longer than 8 days unless the parties consent, to a time and place then appointed.
 
-### 152A Power of Registrar to adjourn
-(1) A Registrar may, upon application and with the consent of each party, adjourn the preliminary hearing of any information to a time and place then appointed if—
-  (a) The defendant is not in custody at the time of the application; and
-  (b) The application is made before the commencement of the preliminary hearing; and
-  (c) It is necessary or desirable to do so for any reasonable cause.
-(2) Where an adjournment is granted under subsection (1) of this section,—
-  (a) The present conditions of bail (if any) shall, subject to section 34 of the Bail Act 2000, continue to the adjourned date of hearing; and
-  (b) Any order made under section 140 of the Criminal Justice Act 1985 in relation to the defendant or any other person connected with the proceedings and having effect only for a limited period that would expire before the adjourned date of hearing shall continue to have effect until the close of the adjourned date of hearing.
-(3) Whenever the Registrar grants an adjournment under this section, the Registrar shall notify each party in writing.
-(4) For the avoidance of doubt, it is hereby declared that a Registrar may, upon application and with the consent of each party, grant an adjournment under subsection (1) of this section if—
-  (a) The defendant has been released on bail under section 21 of the Bail Act 2000; and
-  (b) The application is made before the commencement of the preliminary hearing; and
-  (c) It is necessary or desirable to do so for any reasonable cause.
+### 156 Power of Registrar to adjourn
+(1) A Registrar may, on the application of either party and with the consent of each party, adjourn committal proceedings for any information to a time and place then appointed if—
+  (a) the defendant is not, at the time of the application, in custody (including if the defendant has been released on bail under section 21 of the Bail Act 2000); and
+  (b) it is necessary or desirable to do so for any reasonable cause.
+(2) If an adjournment is granted under subsection (1),—
+  (a) the present conditions of bail (if any) continue, subject to section 34 of the Bail Act 2000, to the adjourned date of hearing; and
+  (b) any order made under section 140 of the Criminal Justice Act 1985 in relation to the defendant, or any other person connected with the proceedings, and having effect only for a limited period that would expire before the adjourned date of hearing, continues to have effect until the close of the adjourned date of hearing.
+(3) Whenever the Registrar grants an adjournment under this section, the Registrar must notify each party in writing.
 
-### 153 Application of section 46
-Section 46, with the necessary modifications, applies with respect to proceedings to which this Part applies, as if references in that section to the hearing were references to the preliminary hearing or the proceedings under section 153A, as the case may be.
+### 157 Application of section 46
+Section 46, with the necessary modifications, applies to proceedings to which this Part applies.
 
-**Plea of guilty before or during preliminary hearing**
+**Withdrawal of information and stay of proceedings**
 
-### 153A Defendant may plead guilty before or during preliminary hearing
-(1) If a defendant is represented by a barrister or solicitor, he may, at any time before or during the preliminary hearing of any information, request that he be brought before the Court (or if he is at that time before the Court, that he be permitted) to plead guilty to the offence with which he is charged.
-(2) As soon as practicable after such request (which shall be in writing if made before the commencement of the preliminary hearing), the defendant shall be brought before the Court to be dealt with (or if he is before the Court at the time of such request, shall be dealt with) under this section.
-(3) If the defendant is not before the Court at the time of such request and is not in custody, notice shall be given to him of the time and place for attendance before the Court for the purpose of being dealt with under this section.
-(4) On the defendant's (or, where the defendant is a corporation, the defendant's representative's) attendance before a Court for the purposes of this section, the charge to which he is required to plead shall be read to him and he shall then be called upon to plead either guilty or not guilty.
-(5) If the defendant does not plead guilty, or if he (or where the defendant is a corporation, a representative of the defendant) does not personally attend the proceedings, he shall be treated in all respects as if he had not made any request to plead guilty, and no comment shall be made at the preliminary hearing or any subsequent proceedings on the fact that such a request has been made, nor shall the request be admissible in evidence against him in any proceedings.
-(6) If the defendant pleads guilty, then, subject to section 66(6) of this Act,—
-  (a) Where—the Court shall record the plea and adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947, and section 47 of this Act and section 50 of the Bail Act 2000 shall apply on every such adjournment; or
-    (i) the defendant elected under section 66 to be tried by a jury; or
-    (ii) the offence is an indictable offence under any enactment (other than an offence referred to in Part 2 of Schedule 1A of the District Courts Act 1947); or
-    (iii) the offence is an offence to which section 28A(1)(d), (e), or (f) of the District Courts Act 1947 applies,—
-    (iv)
-    (v)
-  (b) In any other case, the Court shall commit the defendant to the High Court for sentence.
-(6A)
-(6B)
-(7) Where the defendant pleads guilty and is committed to the High Court for sentence pursuant to this section, sections 168 (except subsection (1)), 169, 170, and 171 of this Act and sections 53 and 54 of the Bail Act 2000, as far as they are applicable and with the necessary modifications, shall apply as if the defendant had pleaded guilty and been committed to the High Court for sentence at the close of a preliminary hearing.
-(8) Sections 155, 156, and 157 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to any proceedings under this section, as if references in those sections to the preliminary hearing were references to proceedings under this section.
+### 158 Withdrawal of information by prosecutor
+(1) Any information may, by leave of the Court, be withdrawn by the prosecutor at any time before the defendant is discharged or is committed for trial or for sentence.
+(2) Despite subsection (1), the prosecutor may withdraw an information without the leave of the Court if—
+  (a) an oral evidence order is made under section 178 allowing the oral examination of a prosecution witness; and
+  (b) leave is granted to the defendant, on an application under section 109(1)(d) of the Evidence Act 2006, to put any question to that witness relating to the identity of that witness or of another prosecution witness.
+(3) The withdrawal of an information is not a bar to any other proceedings in the same matter.
 
-**Procedure at preliminary hearing**
+### 159 Stay of proceedings
+(1) The Attorney-General may direct that proceedings against any person under this Part be stayed.
+(2) A direction under subsection (1) may be made at any time after an information has been laid against the person and before the person has been committed for trial or for sentence.
+(3) A direction under subsection (1) must be entered into the Criminal Records kept under section 71, and the proceedings are stayed when that entry is made.
 
-### 154 Application of provisions of Part 2
-The following provisions of Part 2 of this Act, as far as they are applicable and with the necessary modifications, shall apply with respect to proceedings to which this Part of this Act applies, as if references in those provisions to the hearing were references to the preliminary hearing and references to the charge were references to the information, namely:
-  (a) Subsections (1), (2), and (3) of section 37 (which relate to the person who may conduct the proceedings):
-  (b) Section 38 (which relates to the issue of a warrant for the appearance of a witness):
-  (c) Section 39 (which relates to the imprisonment of a witness refusing to give evidence):
-  (d) Subsection (1) of section 40 (which relates to the power to order witnesses to remain outside the Court):
-  (e) Section 60 (which requires evidence to be given on oath).
+**Plea of guilty before committal**
 
-### 155 Place of preliminary hearing
-(1) Unless an order is made under the succeeding provisions of this section or under section 4A of the District Courts Act 1947, or unless there is a statutory provision to the contrary, the preliminary hearing of an information shall take place in the Court in the office of which it is filed.
-(2) Any District Court Judge or Justice or Community Magistrate may order that the preliminary hearing of an information shall take place in some other Court.
-(3) The Registrar may, with the consent of each party, order that the preliminary hearing of an information shall take place in some other Court.
-(4) When an order is made under subsection (2) or subsection (3) of this section, the Registrar shall—
-  (a) Forward the information to the Registrar of the Court to which it is ordered to be transferred; and
-  (b) Notify each party in writing.
-
-### 156 Power to clear Court and forbid report of preliminary hearing
-[Repealed]
-
-### 157 Withdrawal of information by informant
-(1) Any information may by leave of the Court be withdrawn by the informant at any time before the defendant is discharged or is committed for trial or for sentence.
-(1A) Notwithstanding anything in subsection (1) of this section, where, on an application under section 109(1)(d) of the Evidence Act 2006, leave is granted to the defendant to put any question relating to the identity of a witness called by the informant, the informant may forthwith withdraw the information, and leave of the Court shall not be required.
-(2) The withdrawal of an information shall not operate as a bar to any other proceedings in the same matter.
-
-### 158 Preliminary hearing to take place in presence of defendant
-(1) Except as provided in sections 173A, 174, and 175 of this Act, the defendant shall be entitled to be present in Court during the whole of the preliminary hearing, unless he misconducts himself by so interrupting the proceedings as to render their continuance in his presence impracticable.
-(2) The Court may permit the defendant to be out of Court during the whole or any part of the preliminary hearing on such terms as it thinks fit.
-
-### 159 Preliminary hearing may be completed notwithstanding witness's failure to appear or to give evidence
-Nothing in section 38 or section 39 of this Act shall prevent the Court from committing the defendant for trial or for sentence or otherwise disposing of the case if any other evidence received by it is sufficient for that purpose.
-
-### 160 Charge to be read to defendant
-(1) At any preliminary hearing the charge shall be read to the defendant before the informant calls any witness, or any written statement is tendered pursuant to section 173A of this Act, or the Court proceeds pursuant to section 160A of this Act, as the case may be.
-(2) Where at any preliminary hearing the information is amended, the amended charge shall be read to the defendant immediately after all the evidence for the informant has been given.
+### 160 Defendant may plead guilty before committal
+(1) This section applies to a defendant who is—
+  (a) represented by a barrister or solicitor; or
+  (b) unrepresented, but in respect of whom the requirements of section 30(2) of the Sentencing Act 2002 have been satisfied.
+(2) A defendant to whom this section applies may, at any time before the defendant is committed for trial, ask to be brought before the Court (or, if the defendant is at that time before the Court, ask to be permitted) to plead guilty to the offence with which he or she is charged.
+(3) As soon as practicable after a request under subsection (2) is made, the defendant must be brought before the Court to be dealt with (or, if the defendant is before the Court at the time of that request, must be dealt with) under section 161.
+(4) If the defendant is not before the Court at the time of a request under subsection (2) and is not in custody, notice must be given to him or her of the time and place for attendance before the Court for the purpose of being dealt with under section 161.
 
 ### 160A Committal without consideration of evidence
-If at any preliminary hearing—the Court may, without considering the evidence, proceed in accordance with section 168 (or, where the defendant is a corporation, section 172) of this Act as if it had considered the evidence and as if the evidence adduced by the informant was, in its opinion, sufficient to put the defendant on his trial for an indictable offence.
-  (a) All parties advise the Court that all evidence consists of written statements, or exhibits, tendered pursuant to section 173A of this Act; and
-  (b) The defendant is represented by a barrister or solicitor; and
-  (c) That barrister or solicitor advises the Court that he agrees that it should proceed in the following manner—
+[Repealed]
 
-### 161 Depositions of witnesses
-(1) Unless the Court proceeds pursuant to section 160A of this Act and subject to sections 173A and 185C of this Act, at any preliminary hearing, after the charge has been read to the defendant, the informant shall call his witness, and such witnesses shall be examined by the informant and may be cross-examined by the defendant and re-examined by the informant.
-(2) The evidence of each witness shall be put into writing and shall then, in the presence of the defendant, be read over to the witness and shall be signed by the witness and by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
+### 161 Procedure if defendant makes request under section 160
+(1) When the defendant (or, if the defendant is a corporation, a representative of the defendant) attends before a Court for the purposes of section 160,—
+  (a) the charge to which the defendant is required to plead must be read to the defendant; and
+  (b) the defendant must then be called on to plead either guilty or not guilty.
+(2) If the defendant does not plead guilty, or if he or she (or, if the defendant is a corporation, a representative of the defendant) does not personally attend the proceedings,—
+  (a) the defendant must be treated in all respects as if he or she had not made any request to plead guilty; and
+  (b) no comment may be made in any subsequent proceedings on the fact that that request was made; and
+  (c) the request is not admissible in evidence against the defendant in any proceedings.
+(3) If the defendant pleads guilty, then, subject to section 66(6), the Court must record the plea and,—
+  (a) if—the Court must either proceed immediately to sentence the defendant, or adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947:
+    (i) the defendant elected under section 66 to be tried by a jury; or
+    (ii) the offence is an indictable offence under any enactment (other than an offence referred to in Part 2 of Schedule 1A of the District Courts Act 1947); or
+    (iii) the offence is an offence to which section 28A(1)(d), (e), or (f) of the District Courts Act 1947 applies—
+  (b) in any other case, commit the defendant to the High Court for sentence.
+(4) Section 47 of this Act and section 50 of the Bail Act 2000 apply to every adjournment under subsection (3)(a).
+(5) If the defendant pleads guilty and is committed to the High Court for sentence under this section, sections 184J(4) and (5), 184K, 184L, and 184T of this Act, and sections 53 and 54 of the Bail Act 2000, as far as they are applicable and with the necessary modifications, apply as if the defendant had pleaded guilty and had been committed to the High Court for sentence after a committal hearing.
 
 ### 161A Application for leave to question undercover police officer's identity to be removed into High Court
-Where the defendant applies for leave under section 109(1)(d) of the Evidence Act 2006, to put any questions relating to the identity of a witness called by the informant, the application shall be removed into the High Court and heard and determined by a Judge of that Court, and no evidence or further evidence shall be taken from that witness pending the determination of that application.
+[Repealed]
 
-### 162 Amendment of information
-(1) Subject to the provisions of subsections (2) and (3) of this section, the Court may amend any information to which this Part of this Act applies in any way at any time during the preliminary hearing.
-(2) No information in form 2 in Schedule 2 to this Act shall be amended to an information in form 1 in that Schedule.
-(3) The Court may at the request of the defendant, if it is of opinion that he would be embarrassed in his defence by reason of an amendment made or proposed to be made under this section, adjourn the preliminary hearing. Except with the consent of both parties no such adjournment shall be for a longer period than 8 days.
+**Formal written statements for purposes of committal**
 
-### 163 Statement of defendant who is unrepresented
-(1) The defendant shall not be entitled to make an unsworn statement of fact at the preliminary hearing.
-(2) In every case where the defendant is not represented by counsel or a solicitor, and after all the evidence for the informant has been given and any amended charge has been read to the defendant, the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates shall cause the following caution or words to the like effect to be addressed to the defendant:Having heard the evidence against you, do you wish to give evidence yourself or to call witnesses? If you give evidence yourself, you may be cross-examined. You are not obliged to give or call evidence but, if you do, that evidence will be taken down and may be given against you at your trial. You should take no notice of any promise or threat which any person may have made to persuade you to say anything. If you do not give evidence in this Court, that fact will not be allowed to be the subject of any comment.
-(3) If the defendant gives evidence, he may be cross-examined by the informant and, if he is represented, he may be re-examined. His evidence shall be put into writing and shall then be read over to him and shall be signed by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
-(4) If the defendant is committed for trial, his evidence may be given in evidence against him at his trial without further proof thereof, unless it is proved that the District Court Judge or Justices or Community Magistrate or Community Magistrates purporting to sign it did not in fact sign it.
+### 162 Formal written statements
+(1) A formal written statement by any person is admissible as evidence for the purposes of a standard committal or at a committal hearing to the same extent as oral evidence to the same effect given at a committal hearing by that person.
+(2) A formal written statement is either—
+  (a) a written statement—
+    (i) that purports to be signed by the person making the statement; and
+    (ii) that contains a statement at the end that everything in the statement is true to the best of that person's knowledge and belief, and that the person made the statement knowing that it might be admitted as evidence for the purposes of the standard committal or at a committal hearing and that he or she could be prosecuted for perjury if the statement is known by him or her to be false and is intended by him or her to mislead; and
+    (iii) that complies with subsections (3) and (4), if applicable; or
+  (b) a written statement that does not meet the requirements set out in paragraph (a) if all parties agree to that written statement being admitted as evidence.
+(3) If a formal written statement under subsection (2)(a) is made by a person aged under 18 years, the statement must specify the age of that person.
+(4) If a formal written statement under subsection (2)(a) is made by a person who cannot read it,—
+  (a) the statement must be read to that person before the person signs it; and
+  (b) the reader must attach to the statement a signed statement by that reader to the effect that the statement was read to the person and that the person to whom it was read appeared to understand its contents.
+(5) Any document or object accompanying a formal written statement, and referred to in that statement as an exhibit, must be treated as if it had been identified in Court and produced as an exhibit by the maker of the statement.
 
-### 164 Admissions of defendant may be put in evidence
-Nothing in section 163 of this Act shall prevent the admission as evidence of any admission or confession or other statement of the defendant, whenever made, which by law would be admissible as evidence against him.
-
-### 165 Witnesses on behalf of defendant to be examined if defendant wishes
-(1) Unless the Court proceeds pursuant to section 160A of this Act, the Court shall, if required by the defendant to do so, allow him to call witnesses who shall be examined by him and may be cross-examined by the informant and re-examined by the defendant.
-(2) The evidence of each witness shall be put into writing, and shall then in the presence of the defendant be read over to the witness and shall be signed by the witness and by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
-
-### 166 No comment to be made on defendant's refraining from answering the charge
-Where the defendant refrains from giving evidence in answer to the charge, no comment adverse to him shall be made on that fact.
-
-### 167 If evidence insufficient defendant to be discharged
-When all the evidence has been given, if the Court is of opinion that the evidence adduced by the informant is not sufficient to put the defendant on his trial for any indictable offence it shall forthwith discharge the defendant.
-
-### 168 If evidence sufficient defendant may be committed for trial or for sentence
-(1) When all the evidence has been given, if in the opinion of the Court the evidence adduced by the informant is sufficient to put the defendant on his trial for an indictable offence, the following provisions shall apply:
-  (a) The defendant shall be addressed by or on behalf of the Court as follows:This Court proposes to commit you for trial; but you may, if you so desire, plead guilty to the offence charged:
-  (aa) Except where the Court is presided over by a trial Judge who would himself impose sentence, the Court shall also tell the accused which Court he will be committed to for sentence if he pleads guilty:
-  (b) If the defendant pleads guilty, then, subject to subsections (6) and (6A) of section 66 of this Act,—
-    (i) Where the offence is one to which section 153A(6)(a) of this Act applies, the Court shall record the plea and adjourn the proceedings for the sentencing of the defendant in accordance with section 28F of the District Courts Act 1947, and section 47 of this Act and section 51 of the Bail Act 2000 shall apply on every such adjournment; or
-    (ii) In any other case, the Court shall commit the defendant to the High Court for sentence.
-  (c) If the defendant does not then plead guilty then, subject to the provisions of subsection (6) of section 66 of this Act, the Court shall commit him for trial.
-(1A)
-(1B)
-(2) Where the defendant has pleaded guilty and is committed to the High Court for sentence, the following statement shall be endorsed on the information:I plead guilty to the offence charge in the within information.Dated this day of 19.
-(3) The statement shall be signed by the defendant and witnessed by the presiding District Court Judge or Justices Community Magistrate or Community Magistrates, or, where the defendant is for any reason unable to sign his name, he shall affix his mark thereto, and the same shall be witnessed by the presiding District Court Judge or Justices Community Magistrate or Community Magistrates.
-
-### 168A Court to which defendant to be committed
-(1) Subject to subsection (2), the Court to which a defendant must be committed for trial under section 168 or section 172 is as follows:
-  (a) In respect of any offence that a District Court has jurisdiction to try by virtue of any of paragraphs (a), (b), and (d) to (f) of section 28A(1) of the District Courts Act 1947, either—
-    (i) The District Court exercising that jurisdiction nearest to the committing Court; or
-    (ii) Such other District Court exercising that jurisdiction as may be specified in regulations made under this Act as being a Court to which the defendant may be committed for trial (even if not nearest to the committing Court):
-  (b) In respect of any other offence, either—
-    (i) The High Court at the place where sittings of the Court are held nearest to the committing Court; or
-    (ii) The High Court at such other place as may be specified in regulations made under this Act as being the place at which sittings of the High Court are conducted, and to which the defendant may be committed for trial (even if not nearest to the committing Court).
-(2) Where the defendant has been charged—the Court to which a defendant must be committed for trial under section 168 or section 172 must be either—
-  (a) With offences arising from the same incident or series of incidents in respect of which he or she must be committed to the High Court on at least 1 charge; or
-  (b) Together with some other person or persons with offences arising from the same incident or series of incidents in respect of which he or she must be committed to the High Court on at least 1 charge,—
-  (c) The High Court at the place where sittings of the Court are held nearest to the committing Court; or
-  (d) The High Court at such other place as may be specified in regulations made under this Act as being a place at which sittings of the High Court are conducted and to which the defendant may be committed for trial (even if not nearest to the committing Court).
-(3) Notwithstanding that a defendant has been committed to the High Court for trial pursuant to subsection (2) of this section, a Judge of the High Court may direct that any indictment that may be tried in a District Court under section 28A of the District Courts Act 1947 be tried in that Court.
-(4) Nothing in this section shall affect the provisions of section 28J of the District Courts Act 1947.
-
-### 168AA High Court Judge to determine Court of trial in certain cases
-(1) This section applies to every case in which a defendant is committed to the High Court for trial for any offence referred to in Part 1 of Schedule 1A to the District Courts Act 1947.
-(2) In each case to which this section applies, a Judge of the High Court shall determine on the papers whether it is more appropriate for the trial to be held in a District Court; and, if the Judge determines that the trial would be more appropriately held in a District Court, the Judge shall, by order, transfer the case to the District Court exercising jurisdiction under Part 2A of the District Courts Act 1947 nearest to the committing Court. No party to the proceedings shall be entitled to be heard by, or to make submissions to, the Judge under this subsection.
-(3) In determining the appropriate Court under subsection (2) of this section in any case, the Judge shall have regard to the following matters:
-  (a) The gravity of the offence charged:
-  (b) The complexity of the issues likely to arise in the proceedings:
-  (c) The desirability of the prompt disposal of trials:
-  (d) The interests of justice generally.
-(4) Nothing in this section shall apply to proceedings transferred to the High Court by order made under section 28J of the District Courts Act 1947.
-(5) Nothing in this section applies to a proceeding involving a witness who is the subject of an anonymity order made under section 112 of the Evidence Act 2006.
-
-### 168AB Notice of transfer of case to District Court
-(1) Where an order transferring a case to a District Court is made under section 168AA of this Act, a Registrar of the High Court shall give or cause to be given—
-  (a) To the defendant's counsel or solicitor, or to the defendant if the defendant is not represented,—
-    (i) A copy of the order; and
-    (ii) A written notice informing the defendant of the date and time at which the defendant must report to the District Court to which the case has been transferred and, where the defendant has been released on bail, making the necessary variations in the conditions of bail; and
-  (b) To each surety of that defendant under any surety bond—
-    (i) A copy of the order; and
-    (ii) A copy of the written notice given to the defendant under paragraph (a)(ii) of this subsection.
-(2) Where subsection (1) of this section is complied with in relation to a defendant and to each surety of that defendant under any such surety bond, the terms of that surety bond shall be deemed to be varied accordingly.
-
-### 168B Defendant to be warned as to law relating to notice of alibi
-If the Court commits the defendant for trial, the Registrar shall give or cause to be given to the defendant's counsel or solicitor, or to the defendant if he is not represented, a written notice, in the prescribed form, of the requirements of section 367A of the Crimes Act 1961 relating to the giving of notice of particulars of alibi. The fact that the written notice was so given to the defendant's counsel or solicitor, or to the defendant, shall be recorded on the form of committal of the defendant for trial.
-
-### 168C Defendant to be advised of his right to apply for trial before a Judge without a jury
-If the Court commits the defendant for trial for any offence other than one referred to in subsection (5) of section 361B of the Crimes Act 1961, the Registrar shall give or cause to be given to the defendant's counsel or solicitor, or to the defendant if he is not represented, a written notice, in the prescribed form, of the defendant's right, under the said section 361B, to apply to a Judge of the High Court or a trial Judge of the District Court, as the case may require, for an order that he be tried before a Judge without a jury. The fact that the written notice was so given to the defendant's counsel or solicitor, or to the defendant, shall be recorded on the form of committal of the defendant for trial.
-
-### 169 Where defendant pleads guilty, no objection to be taken and plea not to be withdrawn without leave
-No objection on any ground whatever shall be taken to any information to which the defendant has pleaded guilty, and the defendant shall not afterwards be allowed to withdraw the plea except with the leave of a Judge of the High Court.
-
-### 170 Defendant committed for sentence to be brought before High Court
-A defendant who is committed for sentence shall as soon as practicable be brought before the High Court for sentence, and any Judge of that Court shall have the same powers of sentencing or otherwise dealing with the defendant, and of finally disposing of the charge and of all incidental matters, as he would have had if the defendant on arraignment at any criminal sittings of the High Court had pleaded guilty to the offence charged on an indictment duly presented.
-
-### 171 Dealing with defendant committed for trial or for sentence
-(1) If a defendant is committed for trial or for sentence then, whether or not the defendant is granted bail under the Bail Act 2000, the District Court must issue a warrant in the prescribed form for the defendant's detention in a prison pending the defendant's trial or the defendant being brought up for sentence, as the case may be.
-(2) Despite subsection (1), the District Court may, instead of issuing a warrant under that subsection, make an order for the defendant's detention in a hospital or secure facility pending the defendant's trial if the District Court is satisfied, on the production of a certificate or certificates by 2 health assessors, that—
-  (a) the defendant is mentally impaired; and
-  (b) the defendant's mental condition requires that, in the defendant's own interest, the defendant should be detained in a hospital or secure facility instead of in a prison.
-(3) In subsection (2),—
-  (a) health assessor has the same meaning as in section 4 of the Criminal Procedure (Mentally Impaired Persons) Act 2003:
-  (b) hospital has the same meaning as in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992:
-  (c) secure facility has the same meaning as in section 9(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
-
-### 172 Procedure on charge of offence against corporation
-Where a corporation is charged with an indictable offence to which this Part of this Act applies, the Court before which the preliminary hearing is conducted shall, if it is of opinion that the evidence adduced by the informant is sufficient to put the defendant corporation upon trial for an indictable offence, make an order empowering the presenting of an indictment in respect of the offence named in the order, and for the purposes of any enactments referring to committal for trial any such order shall be deemed to be a committal for trial:
-  Provided that, if the corporation appears before the Court by a representative, any answers to the question to be put under section 163 of this Act may be made on behalf of the corporation by that representative, but, if the corporation does not so appear, it shall not be necessary to put the question, and the Court may notwithstanding make an order under this section.
-
-### 173 Stay of proceedings
-The Attorney-General may, at any time after an information has been laid against any person under this Part of this Act and before that person has been committed for trial or for sentence, direct that an entry be made in the Criminal Records kept pursuant to section 71 of this Act that the proceedings are stayed by his direction, and on that entry being made the proceedings shall be stayed accordingly.
+### 163 False statement in formal written statement deemed to be perjury
+A formal written statement that is admitted in evidence for the purposes of a standard committal or at a committal hearing is to be treated as evidence on oath given in a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 **Special provisions for taking evidence**
 
-### 173A Written statements
-(1) Subject to subsection (2) of this section, at any preliminary hearing a written statement by any person shall be admissible as evidence to the same extent as oral evidence to the like effect given at that hearing by that person.
-(2) A written statement by any person shall not be admissible as evidence at a preliminary hearing unless—
-  (a) It purports to be signed by that person; and
-  (b) That person states at the end thereof that everything therein is true to the best of his knowledge and belief; and that he made the statement knowing that it might be admitted as evidence at a preliminary hearing and that he could be prosecuted for making a statement that is known by him to be false and intended by him to mislead; and
-  (c) The party proposing to tender it as evidence has given to every other party, or the solicitor for that party, a copy thereof; and each such other party, or solicitor, has filed, in the office of the Court at which the hearing is to take place, a signed memorandum to the effect that that party consents to the statement being admitted as evidence at the hearing; and
-  (d) If it is made by a person aged under 20 years, the age of that person is stated therein; and
-  (e) If it is made by a person who cannot read it, it has been read to him before he signed it and there is attached thereto a signed statement by the reader to the effect that it was so read, and that the person to whom it was read appeared to understand its contents; and
-  (f) If it refers to any other document or object as an exhibit, the copy given to every other party or solicitor pursuant to paragraph (c) of this subsection is accompanied by a copy of the exhibit or such information as is necessary to enable that party or solicitor to inspect the exhibit or a copy thereof:
-  Provided that, if all parties to the hearing consent to its being so admitted, a written statement that does not comply with any of the foregoing provisions of this subsection shall be admissible as evidence at a preliminary hearing.
-(3) Notwithstanding that a written statement made by any person is admissible as evidence at a preliminary hearing pursuant to this section, the Court may, of its own motion or on the application of any party, require that person to attend before the Court and give evidence.
-(4) Where any written statement is admitted as evidence at a preliminary hearing pursuant to this section, the Court may direct that the statement be read aloud at the hearing or that an oral account be given of so much of the statement as is not read aloud.
-(5) Any document or object accompanying a written statement tendered in evidence under this section, and referred to therein as an exhibit, shall be treated as if it had been produced as an exhibit and identified in Court by the maker of the statement.
-(6) Everyone who makes, in a written statement that he knows may be admitted in evidence at a preliminary hearing pursuant to this section and that is so admitted, a statement that would amount to perjury if made on oath in a judicial proceeding commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 years.
-
-### 174 Order for taking evidence of defence witness
-(1) Notwithstanding anything in this Part of this Act, any District Court Judge or Registrar on the application of the defendant before the preliminary hearing, or the Court on the application of the defendant at the preliminary hearing, may make an order for the taking, before any District Court or the Registrar thereof (not being a constable), of the evidence of any witness for the defence, if in the opinion of the District Court Judge or Registrar, or, as the case may be, the Court, it is desirable or expedient, by reason of the distance from the Court of the place where the witness resides or of his illness or of his intention to depart from New Zealand before the preliminary hearing, that the evidence of the witness should be so taken.
-(1A) Notwithstanding anything in this Part of this Act, any District Court Judge or Registrar on the application of the informant before the preliminary hearing, or the Court on the application of the informant at the preliminary hearing, may make an order for the taking before any District Court or the Registrar thereof (not being a constable) of the evidence of any witness for the prosecution, if, in the opinion of the District Court Judge or Registrar, or, as the case may be, of the Court, it is desirable or expedient, by reason of the distance from the Court of the place where the witness resides or of his illness or of his intention to depart from New Zealand before the preliminary hearing, that the evidence of the witness should be so taken:
-  Provided that, except where the order is made on the ground that the witness intends to depart from New Zealand before the preliminary hearing, no such order shall be made unless the defendant consents.
-(2) Evidence given in accordance with this section and with any regulations made under this Act may be tendered at the preliminary hearing as if it were given in the course thereof; and judicial notice shall be taken of the signature of any examining District Court Judge or Registrar to any deposition made pursuant to an order under this section.
-(3) Where the Court of hearing considers that an application for the taking of the evidence of any witness under this section has been made for the purpose of delay or for any other improper purpose, or that there is undue delay in the taking of any such evidence, the Court may proceed with the preliminary hearing without waiting for the evidence to be so taken.
-(4) Nothing in this section or in any regulations made under this Act shall limit or affect the power of the Court to compel the personal attendance of any witness at the preliminary hearing.
-(5) If at the completion of the preliminary hearing the defendant is committed for trial, and if at the time of the trial it is proved by such evidence as the Judge considers sufficient (whether legally admissible or not) that any person whose evidence has been given in accordance with this section is out of New Zealand or dead or so ill as not to be able to travel, the deposition of that witness may at the trial be read as evidence for either party, unless the other party proves that the deposition was not in fact signed by the District Court Judge or Registrar purporting to sign it, or was not in fact taken in accordance with the provisions of this Act.
-
-### 175 Power to take statement of person dangerously ill
+### 164 Power to take statement of person dangerously ill
 (1) A District Court Judge, Registrar, Justice, or Community Magistrate may take a statement of a person on the oath or affirmation of the person if the District Court Judge, Registrar, Justice, or Community Magistrate is satisfied that,—
-  (a) in the opinion of a medical practitioner, the person is dangerously ill; and
+  (a) in the opinion of a registered medical practitioner, the person is dangerously ill; and
   (b) the person is able and willing to give material information relating to an indictable offence or relating to a person accused of an indictable offence.
-(2) A statement under this section may be taken in writing or by an electronic recording (for example, an audio recording or a video recording).
-(3) A District Court Judge, Registrar, Justice, or Community Magistrate who takes a statement under this section must prepare, sign, and attach to the statement a certificate as to—
+(2) A statement under this section may be taken in writing or by an electronic form of recording (for example, an audio recording or a video recording) or by any other method of making a permanent recording.
+(3) A District Court Judge, Registrar, Justice, or Community Magistrate who takes a statement under this section must prepare, sign, and attach to the statement a certificate stating—
   (a) whether he or she is satisfied that the statement was taken in accordance with this section; and
   (b) the day on which the statement was taken; and
   (c) the place where the statement was taken; and
-  (d) any person (other than the dangerously ill person and the District Court Judge, Registrar, Justice, or Community Magistrate) present at any time while the statement was taken.
+  (d) whether any person (other than the dangerously ill person and the District Court Judge, Registrar, Justice, or Community Magistrate) was present at any time while the statement was taken.
 (4) A District Court Judge, Registrar, Justice, or Community Magistrate who takes a statement under this section must,—
   (a) if it relates to an indictable offence for which an accused person is already committed for trial, send it and the attached certificate to the Registrar of the Court in the place to which the accused person has been committed for trial; or
-  (b) if it does not relate to an indictable offence for which an accused person is already committed for trial, send it and the attached certificate to the Registrar of the District Court nearest to the place where it was taken.
+  (b) if it does not relate to an indictable offence for which an accused person is already committed for trial, send it and the attached certificate to the Registrar of the District Court nearest to the place where the trial would be held if the defendant were committed for trial.
 (5) A Registrar of a District Court to whom a statement under subsection (4)(b) is sent must—
-  (a) keep it and file it of record; and
+  (a) file a copy of it as part of the Court records; and
   (b) forward it to a District Court in which—
     (i) a person to whom it relates is charged with an indictable offence; or
     (ii) a person is charged with an offence to which it relates.
 
-### 176 Evidence of statement made by person dangerously ill
-(1) If each condition set out in subsection (2) is satisfied, a statement taken under section 175 may without further proof be given in evidence either—
-  (a) for or against the defendant at the preliminary hearing of—
+### 165 Evidence of statement made by person dangerously ill
+(1) If each condition set out in subsection (2) is satisfied, a statement taken under section 164 may, without further proof, be given in evidence either—
+  (a) for or against the defendant at the committal hearing of, or against the defendant for the purposes of the standard committal for,—
     (i) an information for an offence to which the statement relates (whether or not the defendant had been charged with that offence at the time the statement was taken); or
     (ii) an information charging any person to whom the statement relates; or
   (b) for or against the accused person on the trial of—
@@ -2133,120 +2019,502 @@ The Attorney-General may, at any time after an information has been laid against
 (2) The conditions are—
   (a) that it is proved by such evidence as the District Court or, as the case may be, the High Court considers sufficient (whether legally admissible or not)—
     (i) that the person who made the statement is dead; or
-    (ii) that there is no reasonable possibility that the person who made the statement will ever be able to travel or give evidence:
-  (b) that the statement purports to be signed by the District Court Judge, Registrar, Justice, or Community Magistrate before whom the statement purports to be taken:
+    (ii) that there is no reasonable possibility that the person who made the statement will ever be able to travel or give evidence; and
+  (b) that the statement purports to be signed by the District Court Judge, Registrar, Justice, or Community Magistrate before whom the statement purports to be taken; and
   (c) that it is proved to the satisfaction of the District Court or, as the case may be, the High Court—
     (i) that reasonable notice of the intention to take the statement was served upon the party other than the party on whose behalf the statement is proposed to be given; and
     (ii) that that other party or that other party's counsel or solicitor had, or might have had if that other party or counsel or solicitor had chosen to be present, full opportunity of cross-examining the person who made the statement.
 
-### 177 Provision for person in custody to be present at taking of statement
-Where a person who is in custody has served or has received a notice of an intention to take a statement as provided in section 175 of this Act, any District Court Judge or Justice or Community Magistrate may by an order in writing direct the manager of the prison in which that person is detained to convey him to the place mentioned in the notice for the purpose of being present at the taking of the statement, and the manager shall convey him accordingly.
+### 166 Provision for person in custody to be present at taking of statement
+If a person who is in custody has served or has received a notice of an intention to take a statement as provided in section 164,—
+  (a) any District Court Judge or Justice or Community Magistrate may, by an order in writing, direct the Superintendent of the penal institution in which that person is detained to convey the person to the place mentioned in the notice for the purpose of being present at the taking of the statement (as required by section 165(2)(c)(i); and
+  (b) the Superintendent must convey the person accordingly.
 
-### 178 Deposition of witness taken after defendant committed for trial
-(1) Where after a defendant has been committed for trial a District Court Judge, on the application of the informant or the defendant, is satisfied that any person who did not give evidence (whether orally, by written statement under section 173A of this Act, or otherwise) at the preliminary hearing is able to give evidence, and that it is in the interests of justice that the evidence of that person be taken, the District Court Judge may make an order that the evidence of that person shall be taken at a time and place fixed by the District Court Judge.
-(2) The party on whose application an order is made under this section shall give to the other party notice in the prescribed form of the time and place at which the evidence of the witness is to be taken.
-(3) The provisions of this Part of this Act as to the taking of the evidence of witnesses at the preliminary hearing, as far as they are applicable and with the necessary modifications, shall apply with respect to any evidence taken under this section as if that evidence were taken at the preliminary hearing.
-(4) The deposition of any witness taken under this section shall be forwarded to the Registrar of the Court in the place to which the defendant was committed for trial, and shall have effect as if it were a deposition taken at the preliminary hearing.
+**Preliminary provisions applicable to committal**
+
+### 167 Place of committal
+(1) Unless an order is made under section 4A of the District Courts Act 1947 or there is a statutory provision to the contrary, the committal proceedings for an information must take place in the Court in the office of which the information is filed.
+(2) Despite subsection (1), any District Court Judge or Justice or Community Magistrate or Registrar may order that any of the following take place in some other Court:
+  (a) the committal proceedings in their entirety:
+  (b) the standard committal:
+  (c) the committal hearing:
+  (d) any other proceedings that form part of the committal proceedings.
+(3) A Registrar must not make an order under subsection (2) without the consent of each party to the proceedings.
+(4) When an order is made under subsection (2), the Registrar must—
+  (a) forward the information to the Registrar of the Court to which the committal proceedings, standard committal, committal hearing, or other part of the committal hearings is ordered to be transferred; and
+  (b) notify each party in writing.
+
+### 168 Obligations of prosecutor to file formal written statements within certain period
+(1) The prosecutor must file in the office of the Court the formal written statements that form all or part of the evidence for the prosecution for the purposes of the standard committal or at the committal hearing, as the case may require, together with the exhibits referred to in those statements, not later than—
+  (a) 42 days after—
+    (i) the date on which the defendant elects trial by jury under section 66; or
+    (ii) if the information is laid indictably, the date on which the defendant first appears in Court in relation to that information:
+  (b) such earlier or later date specified for the purposes of this section by a District Court Judge.
+(2) Despite subsection (1), the prosecutor may file a written statement later than the date required by that subsection in any case, with the leave of a District Court Judge.
+(3) When the prosecutor files any written statement or statements under this section, the prosecutor must ensure that notice of that filing is given to the defendant's counsel or solicitor, or to the defendant if the defendant is not represented.
+
+### 168A Court to which defendant to be committed
+[Repealed]
+
+### 168AA High Court Judge to determine Court of trial in certain cases
+[Repealed]
+
+### 168AB Notice of transfer of case to District Court
+[Repealed]
+
+### 168B Defendant to be warned as to law relating to notice of alibi
+[Repealed]
+
+### 168C Defendant to be advised of his right to apply for trial before a Judge without a jury
+[Repealed]
+
+### 169 Standard committal is not hearing and does not involve prosecutor's or defendant's presence
+(1) A standard committal does not involve any consideration of the evidence or a hearing.
+(2) Neither the prosecutor nor the defendant—
+  (a) may be present during a standard committal:
+  (b) has the right to make oral or written submissions in relation to a standard committal.
+
+### 170 Defendant's entitlement to be present during hearings
+(1) The defendant is entitled to be present in Court during any hearing that is part of the committal proceedings.
+(2) Subsection (1) does not apply if the defendant interrupts the proceedings to such an extent that it is impracticable to continue in the defendant's presence.
+(3) The Court may permit the defendant to be out of Court during the whole or any part of the hearing on whatever terms it thinks fit.
+(4) Nothing in this section limits any other enactment or rule of law under which a defendant may appear or be represented in Court by counsel, rather than having to appear in person.
+
+### 171 Charge to be read to defendant in certain circumstances
+(1) If the defendant is present at any hearing that is part of the committal proceedings and requests that the charge be read, or the Court conducting that hearing so directs, the charge must be read to the defendant.
+(2) At any committal hearing, the charge must be read to the defendant before any written evidence is received by the Court and before any witness is called.
+(3) If the information is amended at any hearing that is part of the committal proceedings, the amended charge must be read to the defendant,—
+  (a) in the case of a committal hearing, immediately after all the evidence for the prosecution has been received by the Court:
+  (b) in the case of any other hearing, immediately, or if the defendant is not present, at the next hearing that is part of the committal proceedings at which the defendant is present.
+
+### 172 Amendment of information
+(1) The Court may amend any information to which this Part applies in any way, and at any time, during any hearing that is part of the committal proceedings.
+(2) Despite subsection (1), no information in form 2 of Schedule 2 may be amended to an information in form 1 of that schedule.
+(3) Despite subsection (1), the Court may, at the request of the defendant, adjourn the hearing if it is of the opinion that the defendant would be embarrassed in the conduct of his or her case by reason of an amendment made or proposed to be made under this section.
+
+### 173 Persons who may give evidence under assumed name
+(1) An undercover police officer (within the meaning of section 108 of the Evidence Act 2006)—
+  (a) may make a written statement, or give oral evidence, in the name by which the officer was known during the relevant investigation; and
+  (b) may sign that statement, or the record of that evidence, in that name.
+(2) A witness who is the subject of an application for an anonymity order made under section 110 or 112 of the Evidence Act 2006, or who is the subject of an anonymity order made under either of those sections,—
+  (a) may make a written statement, or give oral evidence, using the term witness followed by an initial or mark; and
+  (b) may sign that statement, or the record of that evidence, in that manner.
+(3) This section overrides any contrary provision in this Part.
+
+### 173A Written statements
+[Repealed]
+
+### 174 No comment may be made on defendant refraining from answering charge
+No comment adverse to the defendant may be made on the fact that the defendant—
+  (a) does not provide any evidence in answer to the charge at a committal hearing or any other hearing that is part of the committal proceedings; or
+  (b) does not apply for an oral evidence order under section 178.
+
+### 175 When formal written statement or record of oral evidence in other proceedings may be admitted as evidence at committal hearing or for purposes of standard committal
+(1) If a person is charged with more than 1 offence arising out of the same transaction, or set of circumstances, or incident, or series of incidents, and if the conditions in subsection (2) are met, any 1 or more of the following items may, without further proof, be admitted as evidence for the purposes of that person's standard committal or at that person's committal hearing:
+  (a) any formal written statement admitted as evidence for the purposes of that person's standard committal process or at that person's committal hearing, in respect of another offence arising out of the same transaction, or set of circumstances, or incident, or series of incidents:
+  (b) any record of oral evidence given at that person's committal hearing in respect of another offence arising out of the same transaction, or set of circumstances, or incident, or series of incidents.
+(2) A formal written statement or record of oral evidence may be admitted as evidence under subsection (1)—
+  (a) if it is proved, by evidence that the Judge considers sufficient (whether legally admissible or not), that the person who made the statement or who gave the oral evidence is—
+    (i) out of New Zealand; or
+    (ii) dead; or
+    (iii) so ill as not to be able to travel; or
+  (b) if all parties consent.
+(3) A formal written statement or record of oral evidence must not be admitted as evidence under subsection (1) if it is proved that—
+  (a) the formal written statement was not taken and admitted in evidence in accordance with section 162; or
+  (b) the record of oral evidence was not signed by the District Court Judge or Justices or Community Magistrate or Community Magistrates purporting to sign it; or
+  (c) the record of oral evidence was not taken in accordance with the provisions of this Part.
+
+### 176 Defendant must disclose evidence to be provided at committal hearing
+(1) If an oral evidence order is made under section 180 or 181, the defendant must, no later than 14 days after the date on which that order is made, disclose to the prosecutor any evidence that the defendant intends to provide to the Court at the committal hearing.
+(2) Sections 10 and 11 of the Criminal Disclosure Act 2008 apply to the disclosure of evidence under this section.
+
+**Timing and procedure at standard committal**
+
+### 177 Timing and procedure at standard committal
+(1) A standard committal must not take place,—
+  (a) in a case where no application is made for an oral evidence order within the period specified in section 178(2), before the earlier of the expiry of 14 days after—
+    (i) the date on which the prosecutor is required to file written statements under section 168(1); or
+    (ii) the date on which the Court receives a notice from the defendant that he or she will not apply for an oral evidence order:
+  (b) in a case where an application for an oral evidence order is made within the period specified in section 178(2), before the date on which that application is declined.
+(2) At a standard committal, the Court must, without considering any evidence that has been filed by the prosecution, commit the defendant for trial in accordance with sections 184M and 184N.
+
+**Oral evidence orders**
+
+### 178 Application for oral evidence order
+(1) Either party may apply to a District Court Judge for an order allowing the oral examination, at a committal hearing, of—
+  (a) any witness who has provided a formal written statement; or
+  (b) any person who has not provided a formal written statement, whether that person is proposed to be examined as a witness for that party or for the other party; or
+  (c) any person who is to give evidence for that party in relation to the exercise of any power or jurisdiction conferred by any of sections 7 to 14 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(2) An application under subsection (1) must be made no later than 14 days after the date on which the prosecutor is required to file written statements under section 168(1).
+(3) Despite subsection (2), a District Court Judge may grant leave for an application under subsection (1) to be made later than the time specified in subsection (2) if the Judge is satisfied that it is necessary in the circumstances of the case.
 
 ### 178A Persons who may sign statements by assumed name
 [Repealed]
 
-### 179
-[Repealed]
+### 179 Application for leave to question undercover police officer's identity must be removed into High Court
+If the defendant wishes to apply, under section 109(1)(d) of the Evidence Act 2006, for leave to put any questions relating to the identity of a witness called by the prosecutor who is an undercover police officer,—
+  (a) that application must be made at the same time as the application is made for an oral evidence order allowing the oral examination of the person to whom those questions are proposed to be put; and
+  (b) both applications must be removed into the High Court and heard and determined by a Judge of that Court.
 
-**Procedure after close of preliminary hearing**
+### 180 Determination of application for oral evidence order
+(1) Before a District Court Judge makes an oral evidence order on an application under section 178, the Judge must be satisfied,—
+  (a) if the proposed order is for the oral examination of a witness who has provided a formal written statement, that—
+    (i) it is necessary to hear the witness in order to determine whether there is sufficient evidence to commit the defendant for trial; or
+    (ii) it is otherwise in the interests of justice to hear the witness; or
+  (b) if the proposed order is for the oral examination of a person who has not provided a formal written statement,—
+    (i) that the anticipated evidence of that person is relevant to the charge specified in the information; and
+    (ii) either—
+      (A) that the person has been requested to give evidence in the form of a formal written statement but has failed or refused to do so; or
+      (B) that it is otherwise in the interests of justice to hear the witness; or
+  (c) if the proposed order is for the oral examination of a person who is to give evidence in relation to the exercise of any power or jurisdiction conferred by any of sections 7 to 14 of the Criminal Procedure (Mentally Impaired Persons) Act 2003, that the anticipated evidence of that person is relevant to the exercise of such a power or jurisdiction.
+(2) The Judge may refuse an application for an oral evidence order if he or she considers that the application was made—
+  (a) for the purpose of delay; or
+  (b) for any other improper purpose.
+(3) The Judge must determine an application for an oral evidence order on the basis of—
+  (a) the witness's formal written statement (if any); and
+  (b) any other written evidence; and
+  (c) any written submissions; and
+  (d) any oral submissions made in accordance with subsection (4).
+(4) A party who applies for an oral evidence order may make oral submissions to the Judge in support of that application.
+(5) If a party makes oral submissions under subsection (4), the other party may also make oral submissions to the Judge on that application.
 
-### 180 Depositions and written statements to be filed when defendant not sent for trial
-Where a defendant is discharged any depositions of witnesses and any written statements under section 173A of this Act shall be filed by the Registrar.
+### 181 Judge may make oral evidence order of own motion
+(1) This section applies if—
+  (a) a District Court Judge, in considering an application for an oral evidence order, is satisfied that the conditions described in section 180(1) are satisfied in respect of a person who is not the subject of the application; or
+  (b) the defendant has not been committed for trial at a standard committal and a District Court Judge considers it desirable to hear the evidence of any witness in connection with the exercise of any power or jurisdiction conferred by any of sections 7 to 14 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
+(2) The Judge may, of his or her own motion, make an order requiring the oral examination of that other person at a committal hearing.
 
-### 181 Notice to witnesses to attend at High Court
-(1) Where—the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates or the Registrar may issue to any such person a notice in the prescribed form requiring that person, in the event of the defendant being committed for trial, to attend at the High Court or the District Court, as the case may be, in accordance with the terms of the notice to give evidence.
-  (a) Any person who gives evidence at the preliminary hearing completes his or her evidence; or
-  (b) Any person makes a written statement that is admitted in evidence at the preliminary hearing under section 173A,—
-(2) Every such notice shall have effect as if it were a summons to a witness issued out of the High Court or District Court, as the case may be.
-(3) Every such notice shall be served personally on the person to whom it is addressed, and shall be served by an officer of the District Court or by any constable.
-(4) The service of any such notice may be proved in the High Court or District Court as the case may be, by affidavit made by the person who served the notice showing the fact and the time of service, or by that person on oath at the trial, or by an endorsement on a copy of the notice showing the fact and time of service and signed by the person effecting service.
+### 182 Oral evidence of witness who resides at distance, is ill, or is departing New Zealand may be taken at any Court
+(1) If an oral evidence order is made, that order may permit or require the evidence of a witness to be taken before any District Court or District Court Registrar (not being a member of the police) if it is desirable to do so.
+(2) The provisions of this Part as to the taking of the evidence of witnesses at a committal hearing, as far as they are applicable and with the necessary modifications, apply with respect to any evidence taken under this section.
+(3) The oral evidence of any witness taken under this section —
+  (a) must be forwarded to the Registrar of the Court in which the committal hearing is to take place; and
+  (b) has effect as if it were oral evidence taken at the committal hearing.
+(4) Judicial notice must be taken of the signature of any examining District Court Judge or Registrar to any record of oral evidence taken under this section.
+(5) The Court may proceed with a committal hearing without waiting for evidence to be taken from a witness pursuant to an order under subsection (1) if—
+  (a) the oral evidence order allowing the oral examination of the witness was granted on the grounds set out in section 180(1)(b); and
+  (b) the Court considers that—
+    (i) the application for evidence to be taken under subsection (1) was made for the purpose of delay or for any other improper purpose; or
+    (ii) there has been undue delay in the taking of that evidence.
+(6) Nothing in this section or in any regulations made under this Act limits or affects the power of the Court to compel the personal attendance of any witness at a committal hearing.
+
+**When committal hearing must be held**
+
+### 183 Committal hearing required if oral evidence order applies
+(1) If a District Court Judge or, if section 179 applies, a High Court Judge makes an oral evidence order allowing 1 or more witnesses to be orally examined, a committal hearing must take place.
+(2) To avoid doubt, the District Court Judge who determined the application for an oral evidence order may conduct the committal hearing.
+
+**Procedure at committal hearing**
+
+### 184 Application of provisions of Part 2
+(1) The provisions of Part 2 listed in subsection (2), as far as they are applicable and with the necessary modifications, apply to a committal hearing as if—
+  (a) references in those provisions to the hearing were references to that committal hearing; and
+  (b) references in those provisions to the charge were references to the information.
+(2) The sections are—
+  (a) section 37(1), (2), and (3) (which relates to the person who may conduct the proceedings):
+  (b) section 38 (which relates to the issue of a warrant for the appearance of a witness):
+  (c) section 39 (which relates to the imprisonment of a witness refusing to give evidence):
+  (d) section 40(1) (which relates to the power to order witnesses to remain outside the Court):
+  (e) section 60 (which requires evidence to be given on oath).
+
+### 184A Procedure at committal hearing
+(1) At any committal hearing the prosecutor must—
+  (a) if the Court gives leave, provide to the Court any formal written statements or exhibits that have not already been filed under section 168; and
+  (b) call each prosecution witness who is to give oral evidence under an oral evidence order.
+(2) After all the evidence for the prosecution has been given and any amended charge has been read to the defendant, the defendant must, if the defendant intends to provide evidence,—
+  (a) provide to the Court any formal written statements or exhibits that have not already been provided to the Court; and
+  (b) call any defence witness (including the defendant) who is to give oral evidence for the defence under an oral evidence order.
+(3) Each witness who is called must be examined by the party for whom he or she is giving evidence, and may be cross-examined by the other party and re-examined by the first party.
+(4) Despite subsection (3), a witness may, instead of being examined by the party for whom he or she is giving evidence, read his or her formal written statement (if any) to the Court if—
+  (a) all other parties consent; or
+  (b) the Court so directs.
+(5) If the defendant gives evidence in accordance with an oral evidence order, the defendant may be cross-examined by the prosecutor and, if the defendant is represented, he or she may be re-examined.
+(6) This section is subject to section 184H.
+
+### 184B No oral evidence without order
+The Court must not hear the oral evidence of the defendant or of any witness at a committal hearing unless an oral evidence order has been made in relation to that person.
+
+### 184C Court may direct that formal written statements be read aloud
+At a committal hearing, the Court may direct that a formal written statement provided as evidence be read aloud, or that an oral account be given of so much of the statement as is not read aloud.
+
+### 184D Oral evidence must be recorded in writing
+The evidence of every person who gives oral evidence at a committal hearing, including the defendant if he or she gives oral evidence, must be—
+  (a) put into writing; and
+  (b) read over to that person; and
+  (c) signed by that person and by the presiding District Court Judge or Justices or Community Magistrate or Community Magistrates.
+
+### 184E Committal hearing may be completed despite witness's failure to appear or give evidence
+If a person fails to appear or to give evidence at a committal hearing, the Court may nevertheless commit the defendant for trial or sentence, or otherwise dispose of the case, if any other evidence received by it is sufficient for that purpose.
+
+**Determination at committal hearing**
+
+### 184F If evidence insufficient, defendant must be discharged
+When all the evidence has been given at a committal hearing, if the Court is of the opinion that the evidence adduced by the prosecutor is not sufficient to put the defendant on trial for any indictable offence, it must discharge the defendant.
+
+### 184G If evidence sufficient, defendant must be committed for trial
+When all the evidence has been given at a committal hearing, if the Court is of the opinion that the evidence adduced by the prosecutor is sufficient to put the defendant on trial for an indictable offence, the Court must proceed in accordance with sections 184I to 184N.
+
+**Powers of Court if defendant seeks to provide undisclosed evidence at committal hearing**
+
+### 184H Powers of Court if defendant seeks to provide evidence at committal hearing that was not disclosed as required by section 176
+(1) This section applies if, at a committal hearing, the Court is satisfied that evidence sought to be provided by the defendant should have been disclosed to the prosecutor under section 176.
+(2) The Court may—
+  (a) exclude the evidence; or
+  (b) require the evidence to be disclosed to the prosecutor and adjourn the hearing; or
+  (c) admit the evidence if it would not be contrary to the interests of justice to do so.
+(3) The Court—
+  (a) must not order the exclusion of evidence under this section if it is satisfied that the defendant was not given notice in accordance with section 21 of the Criminal Disclosure Act 2008 of the requirements of section 176; but
+  (b) if paragraph (a) applies, must adjourn the hearing if the prosecutor requests an adjournment.
+
+**Committal for trial or sentence**
+
+### 184I Advice must be given to defendant on committal following committal hearing
+If section 184G applies,—
+  (a) the defendant must be addressed by, or on behalf of, the Court as follows:‘This Court proposes to commit you for trial, but you may, if you wish, plead guilty to the offence charged’; and
+  (b) unless the Court is presided over by a trial Judge who would himself or herself impose sentence, the Court must also tell the defendant which Court he or she will be committed to for sentence if he or she pleads guilty.
+
+**Procedure if defendant pleads guilty**
+
+### 184J Procedure if defendant pleads guilty
+(1) If, after receiving the advice in section 184I, the defendant pleads guilty, then the Court must record the plea and,—
+  (a) if the Court has jurisdiction to sentence the defendant under section 28A of the District Courts Act 1947, either proceed immediately to sentence the defendant, or adjourn the proceedings for the sentencing of the defendant, in accordance with section 28F of that Act; and
+  (b) if the Court does not have jurisdiction to sentence the defendant, commit the defendant to the High Court for sentence.
+(2) Subsection (1) is subject to section 66(6) and (6A).
+(3) Section 47 of this Act and section 51 of the Bail Act 2000 apply on an adjournment under subsection (1)(a).
+(4) If the defendant pleads guilty and is committed to the High Court for sentence, the following statement must be endorsed on the information:I plead guilty to the offence charged in the within information.Dated [date]
+(5) The defendant must sign the statement referred to in subsection (4) (or, if the defendant is unable to sign the statement, the defendant must put his or her mark on it), and the presiding District Court Judge, Justices, Community Magistrate, or Community Magistrates must witness that signature or mark.
+
+### 184K If defendant pleads guilty, no objection may be taken and plea must not be withdrawn without leave
+No objection on any ground whatever may be taken to any information to which the defendant has pleaded guilty, and the defendant may not withdraw the plea except with the leave of a Judge of the Court in which the defendant is to be sentenced.
+
+### 184L Defendant committed for sentence must be brought before High Court
+(1) A defendant who is committed to the High Court for sentence must, as soon as practicable, be brought before the High Court for sentence.
+(2) Any Judge of the High Court has the same powers of sentencing or of otherwise dealing with the defendant, and of finally disposing of the charge and of all incidental matters, as he or she would have had if the defendant had pleaded guilty to the offence charged, in the High Court.
+
+**Procedure if defendant does not plead guilty**
+
+### 184M Procedure if standard committal occurs or defendant does not plead guilty
+(1) If section 177 (the standard committal) applies, or if, after receiving the advice in section 184I, the defendant does not plead guilty, then the Court must,—
+  (a) if the defendant is a natural person, commit the defendant for trial; or
+  (b) if the defendant is a corporation, make an order empowering the filing of an indictment in respect of the offence named in the order.
+(2) If the defendant is a corporation, for the purposes of any enactments referring to committal for trial, an order under subsection (1)(b) is deemed to be a committal for trial.
+(3) This section is subject to section 66(6) of this Act and to section 345 of the Crimes Act 1961.
+
+### 184N Court to which defendant must be committed
+(1) The Court to which a defendant must be committed for trial under section 184M is as follows:
+  (a) in respect of any offence that a District Court has jurisdiction to try under section 28A(1)(a), (b), (d), (e), or (f) of the District Courts Act 1947, either—
+    (i) the District Court exercising that jurisdiction that is nearest to the committing Court; or
+    (ii) any other District Court exercising that jurisdiction that is specified in regulations made under this Act as being a Court to which the defendant may be committed for trial (even if not nearest to the committing Court):
+  (b) in respect of any other offence, either—
+    (i) the High Court at the place where sittings of the Court are held that is nearest to the committing Court; or
+    (ii) the High Court at any other place that may be specified in regulations made under this Act as being the place at which sittings of the High Court are conducted and to which the defendant may be committed for trial (even if not nearest to the committing Court).
+(2) Nothing in this section affects section 28J of the District Courts Act 1947.
+
+### 184O Court to which defendant must be committed if related charge must be heard in High Court
+(1) This section applies if the defendant has been charged (either alone or together with some other person or persons) with offences arising from an incident or series of incidents, or a transaction or set of circumstances, in respect of which he or she must be committed to the High Court on at least 1 charge.
+(2) In each case to which this section applies, despite section 184N(1), the Court to which the defendant must be committed for trial under section 184M must be either—
+  (a) the High Court at the place where sittings of the Court are held that is nearest to the committing Court; or
+  (b) the High Court at any other place that is specified in regulations made under this Act as being a place at which sittings of the High Court are conducted and to which the defendant may be committed for trial (even if not nearest to the committing Court).
+(3) A High Court Judge may, under section 184Q(2), direct that an indictable offence that may be tried in a District Court under section 28A of the District Courts Act 1947 be tried in that Court even if the defendant has been committed to the High Court for trial under subsection (1).
+(4) Nothing in this section affects section 28J of the District Courts Act 1947.
+
+### 184P Committal to wrong Court
+(1) If a defendant is committed to a Court for trial and the Court to which he or she is committed is not the correct Court, the Court to which the defendant has been committed may transfer the proceeding to the appropriate Court specified in section 184N or 184O.
+(2) If this section applies, and the Court so directs, the Registrar must ensure that notice is given to the defendant's counsel or solicitor, or to the defendant if the defendant is not represented of the date and time at which the defendant must report to the Court to which the proceedings have been transferred, and—
+  (a) if the defendant has been released on bail, making the necessary variations in the conditions of bail; and
+  (b) if the defendant has been remanded in custody, making the necessary alterations to the warrant of commitment.
+
+### 184Q High Court Judge must determine trial Court in certain cases
+(1) This section applies if a defendant is committed to the High Court for trial for any offence referred to in Part 1 of Schedule 1A of the District Courts Act 1947.
+(2) If this section applies, a Judge of the High Court must determine on the papers whether it is more appropriate for the trial to be held in a District Court, and, if the Judge so determines, the Judge may transfer the case to the District Court exercising jurisdiction under Part 2A of the District Courts Act 1947 that is nearest to the committing Court.
+(3) No party is entitled to be heard by, or to make submissions to, the Judge under subsection (2).
+(4) In determining the appropriate Court under subsection (2), the Judge must have regard to the following matters:
+  (a) the gravity of the offence charged; and
+  (b) the complexity of the issues likely to arise in the proceedings; and
+  (c) the desirability of the prompt disposal of trials; and
+  (d) the interests of justice generally.
+(5) Nothing in this section applies to proceedings transferred to the High Court by order made under section 28J of the District Courts Act 1947.
+(6) Nothing in this section applies to a proceeding involving a witness who is the subject of an anonymity order made under section 112 of the Evidence Act 2006.
+
+### 184R Notice of transfer of case to District Court
+(1) If an order transferring a case to a District Court is made under section 184Q, a Registrar of the High Court must give, or cause to be given,—
+  (a) to the defendant's counsel or solicitor, or to the defendant if the defendant is not represented,—
+    (i) a copy of the order; and
+    (ii) a written notice informing the defendant of the date and time at which the defendant must report to the District Court to which the case has been transferred and, if the defendant has been released on bail, making the necessary variations in the conditions of bail; and
+  (b) to each surety of that defendant under any surety bond,—
+    (i) a copy of the order; and
+    (ii) a copy of the written notice given to the defendant under paragraph (a)(ii).
+(2) If subsection (1) is complied with in relation to a defendant and in relation to each surety of that defendant under a surety bond, the terms of that surety bond are deemed to be varied accordingly.
+
+### 184S Defendant must be advised of right to apply for trial before Judge without jury
+(1) Subsection (2) applies if the Court commits a defendant for trial for any offence other than one referred to in section 361B(5) of the Crimes Act 1961.
+(2) If this subsection applies, the Registrar must, either on committal or as soon as practicable after committal, give, or cause to be given, to the defendant's counsel or solicitor, or to the defendant if he or she is not represented, a written notice of the defendant's right, under section 361B, to apply to a Judge of the High Court or a trial Judge of the District Court, as the case may require, for an order that the defendant be tried before a Judge without a jury.
+(3) A notice under subsection (2) must be in the prescribed form.
+(4) The fact that the written notice was given to the defendant's counsel or solicitor, or to the defendant, must be recorded on the form of committal of the defendant for trial.
+
+**Procedure after committal for trial or sentence**
+
+### 184T Dealing with defendant committed for trial or for sentence
+(1) If a defendant is committed for trial at a standard committal, the Court must remand the defendant to appear in the Court to which the defendant is committed for trial, and—
+  (a) if the defendant is in custody at the time of committal, the defendant must be remanded in custody; and
+  (b) if the defendant is on bail at the time of committal, the Court, despite the absence of the defendant, must impose the condition required by section 52(2) of the Bail Act 2000 and that condition and the conditions of bail to which the defendant is subject continue in force until—
+    (i) the date on which the defendant is due to appear in the Court to which the defendant is committed for trial; or
+    (ii) any earlier date on which the defendant appears before a Court; and
+  (c) the Registrar must ensure that notice of the defendant's committal and the conditions required by section 52(2) of the Bail Act 2000 are given to the defendant, the defendant's counsel (if any), the prosecutor, and also to the sureties under any surety bond.
+(2) If a defendant committed for trial (whether at a standard committal process or at a committal hearing) or for sentence is remanded in custody, whether or not the defendant is present at the time of committal, the District Court must issue a warrant in the prescribed form for the defendant's detention in a prison—
+  (a) pending and during the defendant's trial; or
+  (b) pending the defendant being brought up for sentence and during his or her sentencing.
+(3) Despite subsection (2), the District Court may, instead of issuing a warrant under that subsection, make an order for the defendant's detention in a psychiatric hospital pending the defendant's trial if the District Court is satisfied of the matters in subsection (4).
+(4) Before making an order under subsection (3), the District Court must be satisfied, on the production of a certificate or certificates by 2 medical practitioners, that—
+  (a) the defendant is mentally disordered within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992; and
+  (b) the defendant's mental condition requires that, in the defendant's own interest, the defendant be detained in a hospital, within the meaning of that Act, instead of in a prison.
+
+### 184U Evidence of witness taken after defendant committed for trial
+(1) A District Court Judge may, after a defendant has been committed for trial, make an order that the evidence of a person who did not give evidence (whether by formal written statement or orally) be taken.
+(2) Before making an order under subsection (1), the Judge must be satisfied that—
+  (a) the person is able to give evidence; and
+  (b) it is in the interests of justice that the evidence of that person be taken.
+(3) An order under subsection (1) may be made on an application by the prosecutor or by the defendant.
+(4) An order under subsection (1) must specify whether the evidence of the witness is to be provided by way of formal written statement or taken orally.
+(5) If the Judge orders that the person's evidence be taken orally,—
+  (a) the order must specify the time and place at which the evidence of the witness must be taken; and
+  (b) the party on whose application an order under subsection (1) is made must give notice to the other party, in the prescribed form, of the time and place at which the evidence must be taken.
+(6) The provisions of this Part as to the taking of the evidence of witnesses at a committal hearing, as far as they are applicable and with the necessary modifications, apply with respect to any evidence taken under this section as if that evidence were taken at a committal hearing.
+(7) The formal written statement provided, or oral evidence taken, under this section—
+  (a) must be forwarded to the Registrar of the Court in the place to which the defendant was committed for trial; and
+  (b) has effect as if it were a formal written statement or oral evidence taken at a committal hearing.
+
+### 184V Notice to witnesses to attend at trial Court
+(1) The presiding District Court Judge, Justices, Community Magistrate, Community Magistrates, or Registrar may issue to any person specified in subsection (2) a notice requiring that person, if the defendant is committed for trial, to attend at the High Court or the District Court, as the case may be, in accordance with the terms of the notice, to give evidence.
+(2) The persons to whom a notice under subsection (1) may be issued are—
+  (a) any person who made a formal written statement that was provided in evidence for the purposes of the standard committal or at the committal hearing; and
+  (b) any person whose evidence was taken under section 184U; and
+  (c) any person who gave oral evidence at the committal hearing (if there was one).
+(3) A notice under subsection (1)—
+  (a) must be in the prescribed form; and
+  (b) has effect as if it were a summons to a witness issued out of the High Court or District Court, as the case may be; and
+  (c) must be served personally, by an officer of the District Court or by any member of the police, on the person to whom it is addressed.
+(4) The service of a notice under subsection (1) may be proved in the High Court or District Court, as the case may be,—
+  (a) by an affidavit made by the person who served the notice that shows the fact and the time of service; or
+  (b) by the person who served the notice on oath at the trial; or
+  (c) by an endorsement on a copy of the notice that shows the fact and time of service, and that is signed by the person effecting service.
 (5) Every person who wilfully endorses any false statement of the fact or time of service on a copy of the notice commits an offence, and is liable on conviction on indictment to imprisonment for a term not exceeding 2 years or to a fine not exceeding $2,000 or to both.
-(6) If at the conclusion of the preliminary hearing the defendant is discharged, every notice given to a witness pursuant to subsection (1) of this section shall be deemed to be cancelled, and the Registrar shall cause notice of that cancellation in the prescribed form to be given to the witness. Every such notice shall be given by delivering it to the witness personally or by sending it to him by registered post addressed to him at his last-known place of residence.
+(6) If, at the conclusion of a committal hearing, the defendant is discharged, every notice given to a witness under subsection (1) is deemed to be cancelled, and the Registrar must cause notice of that cancellation, in the prescribed form, to be given to the witness.
+(7) A notice of cancellation under subsection (6) must be given by delivering it to the witness personally, or by sending it to him or her by registered post addressed to the witness's last known place of residence.
 
-### 182 On committal, documents to be sent to High Court
-(1) Where any person is committed for trial or sentence (other than pursuant to section 153A of this Act), the Registrar of the District Court shall immediately send to the Registrar of the Court in the place where the trial is to be held or the person is to be sentenced the information, any depositions, written statements under section 173A of this Act, any videotape of the complainant's evidence shown at the preliminary hearing in accordance with section 185CA of this Act, and other documents relating to the committal, any exhibits in his custody, the notice of bail (if any) and any surety bond, a record of any particulars of alibi given by the defendant to the District Court under section 367A of the Crimes Act 1961, any certificate filed by the Commissioner of Police under section 108(2) of the Evidence Act 2006 in respect of any witness, and a copy of the notice to attend the Court issued to any witness.
-(2) Where any person is committed for sentence pursuant to section 153A of this Act, or pursuant to section 28G of the District Courts Act 1947 following a plea of guilty under the said section 153A, the Registrar of the District Court shall immediately send to the Registrar of the High Court in the place where the person is to be sentenced the information, a summary of the facts and any evidence upon which that person has pleaded, the notice of bail (if any) and any surety bond, and any other documents or exhibits relating to the committal.
+### 184W On committal, documents, etc, must be sent to trial Court or sentencing Court
+(1) If any person is committed for trial or sentence (other than under section 161), the Registrar of the District Court must immediately send to the Registrar of the Court in the place where the trial is to be held or the person is to be sentenced—
+  (a) the information; and
+  (b) all formal written statements; and
+  (c) the record of any oral evidence; and
+  (d) any video record of the complainant's evidence provided—
+    (i) for the purposes of the standard committal in accordance with section 185D; or
+    (ii) at the committal hearing in accordance with section 185D; and
+  (e) the form of committal and any other documents relating to the committal; and
+  (f) any exhibits in his or her custody; and
+  (g) the notice of bail (if any) and any surety bond; and
+  (h) any certificate filed by the Commissioner of Police under section 108(2) of the Evidence Act 2006 in respect of any witness; and
+  (i) a copy of the notice to attend the Court issued to any witness.
+(2) If any person is committed for sentence under section 161, or under section 28G of the District Courts Act 1947 following a plea of guilty under section 161, the Registrar of the District Court must immediately send to the Registrar of the High Court in the place where the person is to be sentenced—
+  (a) the information; and
+  (b) a summary of the facts (which must be provided by the prosecutor to the Registrar); and
+  (c) any evidence upon which that person has pleaded; and
+  (d) the notice of bail (if any) and any surety bond; and
+  (e) any other documents or exhibits relating to the committal.
 
-### 183 Every party entitled to copy of depositions or summary of facts
-(1) Every party to the preliminary hearing shall be entitled to a copy of any depositions to which section 182(1) of this Act applies, without fee.
-(2) Both the informant and the defendant, and any other party to the proceedings, shall be entitled to a copy of any summary of facts and evidence sent to the Registrar of the High Court in accordance with section 182(2) of this Act, without fee.
-(3) Where the evidence of the complainant is to be given by way of videotape in accordance with section 185CA of this Act, the defendant shall not be entitled to a copy of the videotape, but shall be entitled to view the videotape within the Court precincts in the presence of an officer of the Court.
+### 184X Every party entitled to records of oral evidence or summary of facts
+(1) Every party to the proceedings is entitled to a copy of any record of oral evidence to which section 184W(1)(c) applies, without fee.
+(2) Every party to the proceedings is entitled to a copy of any summary of facts and evidence sent to the Registrar of the High Court in accordance with section 184W(2)(b) and (c), without fee.
+(3) If the evidence of the complainant is to be given by way of video record in accordance with section 185D, the defendant is not entitled to a copy of the video record, but is entitled to view the video record within the Court precincts in the presence of an officer of the Court.
 
-### 184 When deposition or written statement may be read in evidence
-(1) Where any person is committed for trial, any deposition taken under the provisions of this Part of this Act or any written statement admitted as evidence at the preliminary hearing under section 173A of this Act, may, if it is proved by such evidence as the Judge considers sufficient (whether legally admissible or not) that the person making the deposition, or written statement, is out of New Zealand or dead or so ill as not to be able to travel, or if in any case all parties consent, without further proof be read as evidence for any party at the trial of the person so committed, whether for the offence in respect of which the deposition, or written statement, was taken or for any other offence arising out of the same transaction or set of circumstances as that offence, unless it is proved that the deposition was not in fact signed by the District Court Judge or Justices or Community Magistrate or Community Magistrates purporting to sign it or was not in fact taken in accordance with the provisions of this Part of this Act, or that the written statement was not in fact taken and admitted in evidence in accordance with section 173A of this Act.
-(2) Any deposition taken under the provisions of this Part of this Act, or any written statement admitted as evidence at a preliminary hearing under section 173A of this Act, may, if it is proved by such evidence as the Court considers sufficient (whether legally admissible or not) that the person making the deposition, or written statement, is out of New Zealand or dead or so ill as not to be able to travel, without further proof be read as evidence for any party on the preliminary hearing of any information charging the person who was charged with the offence in respect of which the deposition, or written statement, was taken with any offence arising out of the same transaction or set of circumstances as that offence, unless it is proved that the deposition was not in fact signed by the District Court Judge or Justice or Justices or Community Magistrate or Community Magistrates purporting to sign it or was not in fact taken in accordance with the provisions of this Part of this Act, or that the written statement was not in fact taken and admitted in evidence in accordance with section 173A of this Act.
+### 184Y When formal written statement or record of oral evidence may be read in evidence at trial
+(1) If the defendant is committed for trial, any oral evidence that he or she gave at a committal hearing may, without further proof, be given in evidence against him or her at his or her trial.
+(2) If the conditions in subsection (3)(a) or (b) are met, either or both of the following items may, without further proof, be read or given as evidence for any party at the trial of a person who has been committed for trial:
+  (a) any formal written statement admitted as evidence at that person's standard committal or committal hearing:
+  (b) any record of oral evidence given by a witness at that person's committal hearing.
+(3) A formal written statement or record of oral evidence may be read or given as evidence under subsection (2)—
+  (a) if it is proved, by evidence that the Judge considers sufficient (whether legally admissible or not), that the person who made the statement or who gave the oral evidence is—
+    (i) out of New Zealand; or
+    (ii) dead; or
+    (iii) so ill as not to be able to travel; or
+  (b) if all parties consent.
+(4) A formal written statement or record of oral evidence may be read or given as evidence under subsection (2)—
+  (a) for the offence in respect of which that statement was taken or that oral evidence was given; or
+  (b) for any other offence arising out of the same transaction, or set of circumstances, or incident, or series of incidents, as that offence.
+(5) A formal written statement or record of oral evidence must not be read as evidence if it is proved that—
+  (a) the formal written statement was not taken and admitted in evidence in accordance with section 162; or
+  (b) the record of oral evidence was not signed by the District Court Judge or Justices or Community Magistrate or Community Magistrates purporting to sign it; or
+  (c) the record of oral evidence was not taken in accordance with the provisions of this Part.
 
 ### 185 Witness about to leave New Zealand may be arrested
-(1) Where any person is committed for trial, any District Court Judge or Justice or Community Magistrate who is satisfied on oath that any person who has been summoned to give evidence at the trial, or on whom a notice has been served under this part of this Act to attend at the High Court or District Court, as the case may be, is about to leave New Zealand may issue a warrant in the prescribed form for the arrest of that person.
-(2) Where any person is arrested under subsection (1) of this section, the provisions of subsections (4A) to (4D) of section 20 of this Act, so far as they are applicable and with any necessary modifications, shall apply.
+(1) If any person is committed for trial, any District Court Judge, Justice, or Community Magistrate who is satisfied, on oath, that any person referred to in subsection (2) is about to leave New Zealand may issue a warrant in the prescribed form for the arrest of that person.
+(2) The persons are—
+  (a) any person who has been summoned to give evidence at the trial; or
+  (b) any person on whom a notice has been served under this Part to attend at the High Court or District Court.
+(3) If any person is arrested under subsection (1), the provisions of section 20(4A) to (4D), so far as they are applicable and with any necessary modifications, apply.
 
-## Part 5A — Special provisions relating to preliminary hearings in cases of sexual nature
+## Part 5A — Special provisions relating to standard committal process and committal hearings in cases of sexual nature
 
 ### 185A Application
-Except as provided in section 185B of this Act, this Part of this Act applies to preliminary hearings of any of the following offences:
-  (a) Any offence against any of the provisions of sections 128 to 142A of the Crimes Act 1961:
-  (aa) Any offence against section 144A of the Crimes Act 1961:
-  (b) Any other offence against the person of a sexual nature:
-  (c) Being a party to the commission of any offence referred to in paragraph (a) or paragraph (aa) or paragraph (b) of this section:
-  (d) Conspiring with any person to commit any such offence.
+(1) This Part applies to committal hearings for and, so far as applicable, the standard committal for, any of the following offences:
+  (a) any offence against sections 128 to 142A of the Crimes Act 1961:
+  (b) any offence against section 144A of the Crimes Act 1961:
+  (c) any other offence against the person of a sexual nature:
+  (d) being a party to the commission of any offence referred to in paragraph (a), (b), or (c):
+  (e) conspiring with any person to commit any of those offences.
+(2) Subsection (1) is subject to section 185B.
 
 ### 185B Certain hearings to be conducted by Judge
-(1) Every Court conducting a preliminary hearing of any of the following offences shall be presided over by a District Court Judge:
-  (a) Sexual violation:
-  (b) Attempted sexual violation:
-  (c) Assault with intent to commit sexual violation:
-  (d) An offence against section 129A of the Crimes Act 1961 (sexual connection with consent induced by certain threats:
-  (e) An offence against section 142A of that Act (compelling indecent act with an animal):
-  (f) Being a party to the commission of any offence referred to in paragraphs (a) to (e) of this section:
-  (g) Conspiring with any person to commit any such offence.
-(2) Nothing in this section applies in respect of any preliminary hearing in any case where,—
-  (a) Before the preliminary hearing, all parties advise the Court or a Registrar (whether orally or in writing) that they agree that the preliminary hearing should proceed in accordance with section 160A of this Act; and
-  (b) At the preliminary hearing, the Court proceeds in accordance with that section.
+Every Court that hears the oral evidence of a complainant at a committal hearing must be presided over by a District Court Judge if the defendant is charged with any of the following offences:
+  (a) sexual violation:
+  (b) attempted sexual violation:
+  (c) assault with intent to commit sexual violation:
+  (d) an offence against section 129A of the Crimes Act 1961 (inducing sexual connection by coercion):
+  (e) an offence against section 142A of that Act (compelling indecent act with animal):
+  (f) being a party to the commission of any offence referred to in paragraphs (a) to (e):
+  (g) conspiring with any person to commit any of those offences.
 
 ### 185C Evidence of complainant
-(1) Notwithstanding anything in Part 5 of this Act, at any preliminary hearing to which this Part of this Act applies, the complainant's evidence shall be given in the form of a written statement, and the complainant shall not be examined or cross-examined on that statement unless—
-  (a) The Court is satisfied that the complainant has been advised of the right to give evidence in the form of a written statement but nevertheless wishes to give evidence orally; or
-  (b) The Court orders, either of its own motion or on the application of the defendant, that the complainant's evidence be given orally on the ground—
-    (i) That the written statement of the complainant, together with any other evidence tendered, is not sufficient to justify putting the defendant on trial; or
-    (ii) That it is necessary in the interests of justice that the evidence be given orally.
-(2) Where, in such a case, the complainant gives oral evidence (whether in chief or under cross-examination or on re-examination), no person shall be present in the courtroom except the following:
-  (a) The Judge or Justices:
-  (b) The prosecutor:
-  (c) The defendant and any person who is for the time being acting as custodian of the defendant:
-  (d) Any barrister or solicitor engaged in the proceedings:
-  (e) Any officer of the Court:
-  (f) Any person who is for the time being responsible for recording the proceedings:
-  (g) The member of the Police in charge of the case:
-  (h) Any accredited news media reporter:
-  (i) Any person whose presence is requested by the complainant:
-  (j) Any person expressly permitted by the Judge or Justices to be present.
-(3) Before the complainant commences to give evidence in such a case, the Judge or Justices shall—
-  (a) Ensure that no person other than one referred to in subsection (2) of this section is present in the courtroom; and
-  (b) Advise the complainant of the complainant's right to request the presence of any person under paragraph (i) of that subsection.
-(4) Where the evidence of the complainant is to be given in the form of a written statement, the prosecutor shall cause a copy of the complainant's statement to be given to the defendant or the defendant's solicitor at least 7 days before the date on which the hearing is to commence; and if the Court at the hearing is satisfied that this requirement has not been complied with, the Court may adjourn the hearing to allow further time for the defendant to consider the statement.
-(5) The provisions of section 160(1), 160A, 173A (except subsection (2)(c) and (3)), 180, 181(1), 182(1), and 184 of this Act shall apply, with any necessary modifications, to evidence given in the form of written statements made under this section.
+(1) Despite anything in Part 5, at any committal hearing to which this Part applies, the complainant's evidence must be given in the form of a written statement, and the complainant must not be examined or cross-examined on that statement unless—
+  (a) the Court is satisfied that the complainant has been advised of the right to give evidence in the form of a written statement but nevertheless wishes to give evidence orally; or
+  (b) the Court orders, either of its own motion or on the application of the defendant, that the complainant's evidence be given orally on the ground that it is necessary to hear the witness in order to determine whether there is sufficient evidence to commit the defendant for trial.
+(2) At any committal hearing, no person may be present in the courtroom except the following:
+  (a) the Judge:
+  (b) the prosecutor:
+  (c) the defendant and any person who is for the time being acting as custodian of the defendant:
+  (d) any barrister or solicitor engaged in the proceedings:
+  (e) any officer of the Court:
+  (f) any person who is for the time being responsible for recording the proceedings:
+  (g) the member of the police in charge of the case:
+  (h) any accredited news media reporter:
+  (i) any person whose presence is requested by the complainant:
+  (j) any person expressly permitted by the Judge to be present.
+(3) Before the complainant commences to give evidence at the committal hearing, the Judge must—
+  (a) ensure that no person other than those referred to in subsection (2) is present in the courtroom; and
+  (b) advise the complainant of the complainant's right to request the presence of any person under subsection (2)(i).
 
 ### 185CA Child complainant's evidence may be given by videotape
-(1) Notwithstanding anything in Part 5 or section 185C of this Act, at any preliminary hearing to which this Part of this Act applies, the evidence of the complainant may be given in the form of a videotape if—
-  (a) Either—
-    (i) The complainant is under the age of 17 years; or
-    (ii) It is apparent to the Court from viewing the videotape, or from some other admissible evidence, that the complainant is mentally handicapped; and
-  (b) The Court is satisfied that the videotape has been made, and is identified, in the prescribed manner and form.
-(2) While the videotape is being shown, only those persons specified in section 185C(2) of this Act, and any witness involved in and testifying about the making of the videotape, may be present in the courtroom.
-(3) No report or account of any matters shown in the videotape may be published; and every person who publishes any such report or account commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
+[Repealed]
 
-### 185D Power of Court to prohibit publication of certain details
-(1) Where in any preliminary hearing to which this Part of this Act applies the Court is of the opinion that the interests of the complainant so require, it may make an order forbidding publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant or of any acts that the complainant is alleged to have been compelled or induced to perform or to consent to or acquiesce in.
-(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who commits a breach of any order made under subsection (1) of this section or evades or attempts to evade any such order.
+### 185D Child complainant's evidence may be given by video record
+(1) Despite anything in Part 5 or section 185C, at any standard committal or committal hearing to which this Part applies, the evidence of the complainant may be provided or given, as the case requires, in the form of a video record if,—
+  (a) in the case of a standard committal,—
+    (i) the complainant is under the age of 17 years or in the opinion of the prosecutor the complainant is mentally handicapped; and
+    (ii) the Court is satisfied that the video record has been made, and is identified, in the prescribed manner and form:
+  (b) in the case of a committal hearing an order has been made under section 178 for the complainant to give oral evidence at a committal hearing; and
+    (i) either—
+      (A) the complainant is under the age of 17 years; or
+      (B) it is apparent to the Court from viewing the video record, or from some other admissible evidence, that the complainant is mentally handicapped; and
+    (ii) the Court is satisfied that the video record has been made, and is identified, in the prescribed manner and form.
+(2) If the video record is shown at a committal hearing, only those persons specified in section 185C(1), and any witness involved in, and testifying about, the making of the video record, may be present in the courtroom.
+(3) No report or account of any matters shown in the video record may be published, and every person who publishes a report or account of those matters commits an offence and is liable on summary conviction to a fine not exceeding $1,000.
 
-### 185E Other powers of Court preserved
-Nothing in section 185C(2) or section 185D or section 185CA of this Act shall limit or affect the powers of the Court to exclude any person or forbid any report or account of any evidence under section 138 of the Criminal Justice Act 1985 or section 206 of this Act or any other enactment.
+### 185E Power of Court to prohibit publication of certain details
+(1) If, at the time of the standard committal or in any committal hearing to which this Part applies, the Court is of the opinion that the interests of the complainant so require, it may make an order forbidding the publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant, or of any acts that the complainant is alleged to have been compelled or induced to perform, to consent to, or to acquiesce in.
+(2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who commits a breach of any order made under subsection (1), or who evades, or attempts to evade, that order.
+
+### 185F Other powers of Court preserved
+Nothing in section 185C(2) or 185D or 185E limits or affects the powers of the Court to exclude any person or forbid any report or account of any evidence under section 206, or under section 138 of the Criminal Justice Act 1985, or under any other enactment.
 
 ## Part 6 — Conservation of the peace
 
@@ -2581,7 +2849,7 @@ An affidavit required for the purposes of this Act may be sworn or affirmed befo
   (e) A warrant of commitment (except for non-payment of a sum of money) may be executed:
   (f) Any arrest authorised to be made without warrant may be made, and any person authorised to be taken into custody without warrant may be taken into custody:
   (g) Any person may be granted bail or released on bail:
-  (h) Any statement may be taken under the provisions of section 175 of this Act:
+  (h) Any statement may be taken under section 164:
   (i) The evidence of any person may be given and his deposition taken in accordance with the provisions of this Act, if that person is dangerously ill and in the opinion of some medical practitioner not likely to recover from that illness:
   (j) Any person may be served with a summons and released under section 19A of this Act:
   (k) Any person may be served with a summons under section 19B of this Act.
