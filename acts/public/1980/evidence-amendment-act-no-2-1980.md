@@ -1,5 +1,5 @@
 # Evidence Amendment Act (No 2) 1980
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-06-29_
 
 > An Act to amend the Evidence Act 1908
 
@@ -135,7 +135,7 @@ In an appeal from any order made by a Court or by a Judge under this Part of thi
   (b) The rules of the common law relating to the admissibility of evidence as to complaints:
   (c) The rules of the common law or the provisions of any Act relating to the admissibility of confessions and admissions of the parties:
   (d) The rules of the common law relating to evidence of character:
-  (e) The rules of the common law or the provisions of any Act relating to the reading in evidence of depositions taken in a preliminary hearing in a trial on indictment.
+  (e) The rules of the common law or the provisions of any Act relating to the reading in evidence of depositions taken at a standard committal or for the purposes of a committal hearing in a trial on indictment.
 
 ### 21 Repeals
 (1) The following enactments are hereby repealed:
