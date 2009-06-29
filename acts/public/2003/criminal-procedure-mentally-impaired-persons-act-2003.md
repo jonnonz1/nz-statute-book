@@ -1,5 +1,5 @@
 # Criminal Procedure (Mentally Impaired Persons) Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-06-29_
 
 ### 1 Title
 This Act is the Criminal Procedure (Mentally Impaired Persons) Act 2003.
@@ -35,15 +35,15 @@ The purpose of this Act is to restate the law formerly set out in Part 7 of the 
   - **imprisonable offence** means any offence punishable by imprisonment, regardless of any restriction imposed by an enactment on the jurisdiction or power of the court dealing with a particular case
   - **intellectual disability** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
-  - **special care recipient** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **psychologist** means a health practitioner who is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of psychology
+  - **special care recipient** has the same meaning as in the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **unfit to stand trial** , in relation to a defendant,—
     (a) means a defendant who is unable, due to mental impairment, to conduct a defence or to instruct counsel to do so; and
     (b) includes a defendant who, due to mental impairment, is unable—
       (i) to plead:
       (ii) to adequately understand the nature or purpose or possible consequences of the proceedings:
       (iii) to communicate adequately with counsel for the purposes of conducting a defence.
-(2) If this Act comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:
+(2) If this Act comes into force before the commencement of section 114(1) of the Health Practitioners Competence Assurance Act 2003, then, until that commencement, subsection (1) must be read as if, for the definitions of medical practitioner and psychologist, there were substituted the following definitions:.
   - **medical practitioner** means a medical practitioner registered under the Medical Practitioners Act 1995
   - **psychologist** means a psychologist registered under the Psychologists Act 1981
 
@@ -75,28 +75,28 @@ A court may not make a finding as to whether a defendant is unfit to stand trial
 ### 10 Inquiry at summary hearing into defendant's involvement
 (1) This section applies if a defendant is proceeded against summarily.
 (2) If the question whether the defendant is unfit to stand trial is to be determined before the hearing of the information, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in section 9.
-(3) The provisions of Part 5 of the Summary Proceedings Act 1957 (other than section 160A), so far as they are applicable and with any necessary modifications, apply to every hearing held under subsection (2).
+(3) The provisions of Part 5 of the Summary Proceedings Act 1957 that relate to the conduct of a committal hearing, so far as they are applicable and with any modifications, apply to every hearing held under subsection (2).
 (4) If the question whether the defendant is unfit to stand trial is to be determined in the course of the hearing, the court must ascertain whether it is satisfied of the matter specified in section 9.
 (5) For the purpose of subsection (4), the court may (whether on the application of a party or on the court's own initiative) do either or both of the following:
   (a) consider any evidence presented at the hearing:
   (b) hear any new evidence.
 
-### 11 Inquiry at depositions into defendant's involvement
-(1) This section applies if a preliminary hearing under Part 5 of the Summary Proceedings Act 1957 is required.
-(2) If the question whether the defendant is unfit to stand trial is to be determined before the preliminary hearing, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in section 9.
-(3) The provisions of Part 5 of the Summary Proceedings Act 1957 (other than section 160A), so far as they are applicable and with any necessary modifications, apply to every hearing held under subsection (2).
-(4) A hearing held under subsection (2) takes the place of a preliminary hearing under Part 5 of the Summary Proceedings Act 1957.
-(5) If the question whether the defendant is unfit to stand trial is to be determined in the course of a preliminary hearing, the court must ascertain whether it is satisfied of the matter specified in section 9.
-(6) For the purpose of subsection (5), the court may (whether on the application of a party or on the court's own initiative) do either or both of the following:
-  (a) consider any evidence presented at the preliminary hearing:
+### 11 Inquiry into defendant's involvement if committal proceedings required
+(1) This section applies if committal hearings under Part 5 of the Summary Proceedings Act 1957 are required.
+(2) If the question whether the defendant is unfit to stand trial is to be determined before or without a committal hearing, the court must hold a special hearing to ascertain whether the court is satisfied of the matter specified in section 9.
+(3) The provisions of Part 5 of the Summary Proceedings Act 1957 that relate to committal hearings, so far as they are applicable and with any necessary modifications, apply to every hearing held under subsection (2).
+(4) A hearing held under subsection (2) takes the place of a committal hearing under Part 5 of the Summary Proceedings Act 1957.
+(5) If the question whether the defendant is unfit to stand trial is to be determined in the course of a committal hearing, the court must ascertain whether it is satisfied of the matter specified in section 9.
+(6) For the purpose of subsection (5), the court may (whether on the application of the party or on the court's own initiative) do either or both of the following:
+  (a) consider any evidence presented at the committal hearing:
   (b) hear any new evidence.
-(7) A District Court Judge must preside over a court that conducts a special hearing under subsection (2) or determines whether the defendant is unfit to stand trial in the course of a preliminary hearing.
+(7) A District Court Judge must preside over a court that conducts a special hearing under subsection (2) or determines whether the defendant is unfit to stand trial in the course of a committal hearing.
 
 ### 12 Inquiry at trial into defendant's involvement
 (1) If the question whether the defendant is unfit to stand trial is to be determined in the course of a trial, the court must ascertain whether it is satisfied of the matter specified in section 9.
 (2) For the purpose of subsection (1), the court may (whether on the application of a party or on the court's own initiative) do 1 or more of the following:
-  (a) consider any evidence presented at the preliminary hearing or at the trial:
-  (b) rehear any of the evidence presented at the preliminary hearing:
+  (a) consider any evidence presented for the purposes of the standard committal or at the committal hearing or at the trial:
+  (b) rehear any of the evidence presented for the purposes of the standard committal or of the committal hearing:
   (c) hear any new evidence at any stage before the commencement of the closing addresses.
 
 ### 13 Outcome of consideration of defendant's involvement
@@ -118,7 +118,7 @@ A court may not make a finding as to whether a defendant is unfit to stand trial
 The jurisdiction under any of sections 10 to 14 may be exercised in the absence of the defendant if the court is satisfied that the defendant is too mentally impaired to come to court.
 
 ### 16 Appeal by defendant against finding relating to fitness to stand trial
-(1) A defendant about whom a finding under section 14(2)(b) has been made may appeal against 1 or both of the following findings:
+(1) A defendant about whom a finding under section 14(2)(b) has been made may appeal against one or both of the following findings:
   (a) that the evidence against the defendant is sufficient to establish that the defendant caused the act or omission that forms the basis of the offence with which the defendant is charged:
   (b) that the defendant is unfit to stand trial or, as the case may be, fit to stand trial.
 (2) For the purposes of an appeal under this section,—
@@ -216,7 +216,7 @@ The jurisdiction under any of sections 10 to 14 may be exercised in the absence 
 
 ### 26 Effect of alternative orders
 (1) An order made under section 25(1)(a) is to be regarded as a compulsory treatment order for the purposes of the Mental Health (Compulsory Assessment and Treatment) Act 1992, and, in making the order, the court must specify whether, for the purposes of that Act, the order takes effect as a community treatment order or as an inpatient order.
-(2) An order made under section 25(l)(b) is to be regarded as a compulsory care order for the purposes of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and, in making the order, the court must—
+(2) An order made under section 25(1)(b) is to be regarded as a compulsory care order for the purposes of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and, in making the order, the court must—
   (a) direct whether the defendant is to be detained in a secure facility; and
   (b) specify the term of the order in accordance with section 46 of that Act.
 
@@ -362,14 +362,14 @@ An order under section 34(1)(b)(ii) is to be regarded as a compulsory care order
 (2) A person who is taken to a hospital, facility, or place under subsection (1) may not stay in the hospital, facility, or place overnight.
 (3) A person who is being examined in a hospital, facility, or place continues to be in legal custody under the Corrections Act 2004, even though the person is absent from the prison in which he or she is detained.
 
-### 42 Transfer of persons from hospitals, etc, to court, penal, or police custody
-(1) Even though a person has not yet been detained in a hospital or secure facility for the full period specified in an order under section 38(2)(c), the person may be transferred at the direction of the Director of Area Mental Health Services for the hospital or the co-ordinator for the secure facility to court or penal or police custody for 1 or more of the purposes specified in subsection (3).
-(2) If the assessment report on a person is sent to the court before the expiry of the period for which a person has been ordered to be detained in a hospital or secure facility under section 38(2)(c), the person must be transferred at the direction of the Director of Area Mental Health Services for the hospital or the co-ordinator for the secure facility to court or penal or police custody for 1 or more of the purposes specified in subsection (3).
-(3) The purposes for transferring a person to court or penal or police custody, referred to in subsection (1) or subsection (2), are—
+### 42 Transfer of persons from hospitals, etc, to court, penal, or Police custody
+(1) Even though a person has not yet been detained in a hospital or secure facility for the full period specified in an order under section 38(2)(c), the person may be transferred at the direction of the Director of Area Mental Health Services for the hospital or the co-ordinator for the secure facility to court or penal or Police custody for 1 or more of the purposes specified in subsection (3).
+(2) If the assessment report on a person is sent to the court before the expiry of the period for which a person has been ordered to be detained in a hospital or secure facility under section 38(2)(c), the person must be transferred at the direction of the Director of Area Mental Health Services for the hospital or the co-ordinator for the secure facility to court or penal or Police custody for 1 or more of the purposes specified in subsection (3).
+(3) The purposes for transferring a person to court or penal or Police custody, referred to in subsection (1) or subsection (2), are—
   (a) the hearing or trial of a charge against the person:
   (b) the sentencing of the person:
   (c) an appeal against the conviction of the person or against a sentence or order imposed on the person.
-(4) The transfer of a person under subsection (1) or subsection (2) to court or penal or police custody is sufficient authority for the detention of the person in that custody until the expiry of the period for which the person has been ordered to be detained in a hospital or secure facility under section 38(2)(c).
+(4) The transfer of a person under subsection (1) or subsection (2) to court or penal or Police custody is sufficient authority for the detention of the person in that custody until the expiry of the period for which the person has been ordered to be detained in a hospital or secure facility under section 38(2)(c).
 
 ### 43 Medical treatment of persons detained in hospitals, etc
 (1) An order under section 23 or section 35 or section 38(2)(c) for the detention of a person in a hospital or secure facility is authority for the administration to the person of any medical treatment or procedure to which the person consents.
@@ -438,89 +438,17 @@ An order under section 34(1)(b)(ii) is to be regarded as a compulsory care order
 **Amendments to other enactments**
 
 ### 48 Repeal of Part 7 of Criminal Justice Act 1985
-Part 7 of the Criminal Justice Act 1985 is repealed.
+Amendment(s) incorporated in the Act(s).
 
 ### 49 Amendment to Courts Martial Appeals Act 1953
-(1) The Courts Martial Appeals Act 1953 is amended by repealing section 9EA, and substituting the following section:Appeal by accused against finding relating to fitness to stand trial
-  (1) A person who has been found unfit to stand trial by a court martial may appeal against 1 or both of the following findings:
-    (a) that the evidence against the appellant is sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged:
-    (b) that the appellant is unfit to stand trial.
-  (2) For the purposes of an appeal under this section,—
-    (a) the finding appealed against is to be regarded as a conviction; and
-    (b) the provisions of this Act relating to appeals, so far as they are applicable and with any necessary modifications, apply to the appeal.
-  (3) If the Court is satisfied that the evidence presented against the appellant is not sufficient to establish that the appellant caused the act or omission that forms the basis of the offence with which the appellant is charged, the Court must quash the finding appealed against and direct that the appellant be discharged.
-  (4) A discharge under subsection (3) does not amount to an acquittal.
-  (5) In the case of an appeal against a finding relating to the appellant's fitness to stand trial, the Court must (except where the appellant has been discharged under subsection (3)) consider the evidence of 2 qualified medical practitioners (within the meaning of section 187(1) of the Armed Forces Discipline Act 1971), and confirm or quash the finding relating to the appellant's mental impairment.
-  (6) If the Court is satisfied that the appellant is mentally impaired, the Court must—
-    (a) give the appellant and the respondent an opportunity to be heard and to present evidence as to whether the appellant is unfit to stand trial; and
-    (b) confirm or quash the finding relating to the appellant's fitness to stand trial.
-  (7) If the result of the appeal is that the appellant is fit to stand trial, the Court must give a written direction to the appropriate convening officer to convene a court martial to try the charge on which the appellant was previously remanded for trial by court martial.
+(1) Amendment(s) incorporated in the Act(s).
 (2) Despite subsection (1), any appeal against a finding under section 188(1A) of the Armed Forces Discipline Act 1971 (as in force immediately before the commencement of this Act) must proceed as if subsection (1) had not been enacted.
 
 ### 50 Amendments to Criminal Investigations (Bodily Samples) Act 1995
 (1) In this section, the Criminal Investigations (Bodily Samples) Act 1995 is called the Act.
-(2) Section 2(1) of the Act is amended by adding to paragraph (c) of the definition of conviction the word ; and, and by also adding the following paragraph:.
-  (d) a finding that the person is unfit to stand trial;—
-(3) Section 4A(1) of the Act is amended by repealing paragraph (c), and substituting the following paragraphs:
-  (c) in, or on leave from, a hospital—
-    (i) under section 46 of the Mental Health (Compulsory Assessment and Treatment) Act 1993; or
-    (ii) following an application under section 45(2) of the Mental Health (Compulsory Assessment and Treatment) Act 1993; or
-    (iii) under an order under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003; or
-  (d) in, or on leave from, a secure facility—
-    (i) following an application under section 29(1) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
-    (ii) under an order under section 34(1)(a)(ii) of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-(4) Section 46(1) of the Act is amended by adding to paragraph (d) the word ; or, and by also adding the following paragraph:
-  (e) in a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
+((2)–(4)) Amendment(s) incorporated in the Act(s).
 
 ### 51 Consequential amendments to other enactments
 The Acts specified in the Schedule are amended in the manner indicated in that schedule.
 
 ## Schedule Schedule — Consequential amendments to other enactments
-
-### 188 When court may find accused unfit to stand trial
-(1) A court-martial may, at any time before or during a trial, determine in accordance with section 188A whether an accused is unfit to stand trial.
-(2) The court may not make a finding on whether the accused is unfit to stand trial unless the court is satisfied, on the balance of probabilities, that the evidence presented by the prosecution is sufficient to establish that the accused caused the act or omission that forms the basis of the offence with which the accused is charged.
-(3) If the question whether the accused is unfit to stand trial is to be determined before the trial, a special hearing must be held to ascertain whether the court is satisfied of the matter specified in subsection (2).
-(4) If the court is not satisfied of the matter specified in subsection (2), the court must record a finding to that effect and discharge the accused.
-(5) A discharge under subsection (4) does not amount to an acquittal.
-(6) If the court is satisfied of the matter specified in subsection (2), the court must record a finding to that effect, and proceed to determine the matters specified in section 188A.
-
-### 188A Determining if accused unfit to stand trial
-(1) If a court-martial records a finding of the kind specified in section 188(6), the court must receive the evidence of at least 1 qualified medical practitioner as to whether the accused is mentally impaired.
-(2) If the court is satisfied on the evidence given under subsection (1) that the accused is mentally impaired, the court must record a finding to that effect and—
-  (a) give the prosecutor and the accused an opportunity to be heard and to present evidence as to whether the accused is unfit to stand trial; and
-  (b) find whether the accused is unfit to stand trial; and
-  (c) record the finding made under paragraph (b).
-(3) A finding that the accused is unfit to stand trial does not have effect unless a reviewing authority has, under section 198(4)(a), directed that the finding is to stand.
-(4) The standard of proof required for a finding under this section is the balance of probabilities.
-(5) The jurisdiction conferred on a court-martial by this section and by section 188 may be exercised by the court in the absence of the accused if the court is satisfied by medical evidence that the accused is too mentally impaired to be brought before a court-martial.
-
-### 188B Court may postpone finding as to unfitness to stand trial
-(1) A court-martial may, if in its opinion it is in the interests of the accused to do so, postpone a finding as to whether the accused is unfit to stand trial until any time up to the stage at which all the evidence is concluded.
-(2) In any case where a finding is postponed under subsection (1), the court may not make a finding on the matter if the accused is acquitted of every offence with which he or she is charged.
-
-### 185 Sections to have effect in place of sections 38 to 44 of Criminal Procedure (Mentally Impaired Persons) Act 2003
-In respect of any person to whom an application for a declaration under section 67 of this Act relates, the provisions of sections 178 to 183 of this Act have effect in the place of the provisions of sections 38 to 44 of the Criminal Procedure (Mentally Impaired Persons) Act 2003.
-
-### 122 Assisting escape of mentally impaired person detained for offence
-Every one is liable to imprisonment for a term not exceeding 5 years who—
-  (a) rescues any person who is ordered to be detained as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 while that person is being taken to or from a hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, or any other place; or
-  (b) being a constable, an officer of a penal institution, a security officer within the meaning of section 2 of the Penal Institutions Act 1954, or an officer of or employee in any hospital within the meaning of the Mental Health (Compulsory Assessment and Treatment) Act 1992, or a secure facility within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, and who has in his or her custody any person lawfully detained as a special patient under the Mental Health (Compulsory Assessment and Treatment) Act 1992 or as a special care recipient under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, voluntarily and intentionally permits that person to escape from custody, whether while the person is being taken to or from any of the places specified in paragraph (a) or otherwise.
-
-### 47A Removal of certain intellectually disabled patients to facilities
-(1) This section applies to—
-  (a) a patient or a special patient—
-    (i) who is subject to a compulsory treatment order that was made following an application under section 136(2) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; and
-    (ii) who, in the opinion of the Director of Area Mental Health Services, is fit to be released from compulsory status under this Act; and
-  (b) a special patient (not being a patient to whom paragraph (a) applies)—
-    (i) who, in the opinion of the Director of Area Mental Health Services, is fit to be released from compulsory status under this Act; and
-    (ii) who has been assessed by a specialist assessor within the meaning of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003 as having an intellectual disability within the meaning of that Act.
-(2) The Director of Area Mental Health Services may, with the consent of the Director, direct that a patient to whom this section applies be taken to an appropriate facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
-(3) When a direction is given under subsection (2), the Director must notify the responsible co-ordinator under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, who must arrange for the patient to be removed to a facility within 7 days after the date of the direction unless an application is sooner made under section 8A for assessment of the patient.
-(4) Any direction given under this section in respect of a patient is sufficient authority for the removal of the patient to the facility specified in the direction and for the reception of the patient there.
-(5) On the removal of the patient under subsection (4) to a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003,—
-  (a) the patient must be regarded as having been released from assessment and treatment as a patient under this Act; and
-  (b) if the patient is a special patient, he or she must be held as a special care recipient under that Act until the status of the person is changed in accordance with that Act or the Criminal Procedure (Mentally Impaired Persons) Act 2003; and
-  (c) if the patient is a special patient who is, or is deemed to be, subject to an order under section 24(2)(a) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 24(2)(b) of that Act; and
-  (d) if the patient is subject to a compulsory treatment order, that order becomes a compulsory care order (within the meaning of that Act) that is deemed to have been made on the date of the removal for a term of 6 months; and
-  (e) if the patient is a special patient who is, or is deemed to be, subject to an order under section 34(1)(a)(i) of the Criminal Procedure (Mentally Impaired Persons) Act 2003, the order is deemed to have been made under section 34(1)(a)(ii) of that Act.
