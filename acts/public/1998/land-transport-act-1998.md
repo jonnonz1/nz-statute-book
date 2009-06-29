@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-06-29_
 
 > An Act—aTo promote safe road user behaviour and vehicle safety; andbTo provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcTo consolidate and amend various enactments relating to road safety and land transport; anddTo enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -7,7 +7,7 @@ _Consolidation as at 2009-01-24_
 (1) This Act may be cited as the Land Transport Act 1998.
 (2) Sections 5(4), 23, 24, 25, 28, 31(1)(c), 95, 96(1), (2), (3), and (5), and 199 come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be appointed by 1 or more Orders in Council for different provisions.
 (3) The repeals specified in clauses 1 to 14 of Part 4 of Schedule 2 come into force on a date to be appointed by the Governor-General by Order in Council; and different dates may be appointed by 1 or more Orders in Council for different provisions in that schedule.
-(4) Section 214(3) comes into force on 1 July 2005.
+(4)
 (5) The rest of this Act comes into force on 1 March 1999.
 
 ## Part 1 — Preliminary provisions
@@ -1475,7 +1475,7 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
 (7) An application under subsection (5)(a) must—
   (a) Be made in writing to the Commissioner not later than 28 days after—
     (i) The date on which a summons in respect of an offence against this Act (which offence is an offence arising out of the circumstances in respect of which the blood specimen was taken) is served on the defendant; or
-    (ii) If the defendant is arrested under a warrant under section 19 or section 147 of the Summary Proceedings Act 1957 in respect of any such offence, the date on which the defendant is so arrested; or
+    (ii) If the defendant is arrested under a warrant under section 19 or section 150 of the Summary Proceedings Act 1957 in respect of any such offence, the date on which the defendant is so arrested; or
     (iii) In any case to which subparagraph (i) or subparagraph (ii) does not apply, the date on which the defendant is first charged in court with any such offence; and
   (b) State the full name and address and the occupation of the person and the date of the alleged offence; and
   (c) Identify the private analyst to whom the part of the blood specimen is to be sent and the address of the private analyst.
@@ -2558,7 +2558,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
   (b) A failure to ensure that the securing or containing of the load was in such a manner that it could not fall or escape from the vehicle occurred without fault on the defendant's part.
 (3) If the court is satisfied that a load has fallen or escaped from the vehicle or a vehicle being towed by the vehicle, it is to be presumed that the operator of the vehicle has not ensured that the load was secured or contained in such a manner that it could not fall or escape from the vehicle, unless the falling or escaping of the load occurred without fault on the defendant's part.
 (4) In proceedings for an offence against section 42, the court must, in determining whether or not the operator of a vehicle has been at fault, have regard to any of the following provisions if the court considers the operator was or should have been aware of them:
-  (a) Until the close of 30 June 2009, unless the provisions are sooner revoked, the provisions of any code of practice issued by the Agency (or any amendment or addition to any such code):
+  (a) the provisions of any code of practice issued by the Agency (or any amendment or addition to any such code):
   (b) The provisions of the rules.
 
 **Commencement of proceedings**
@@ -3317,7 +3317,7 @@ The Agency must pay each Assessment Centre, from money appropriated for the purp
 ### 214 Repeals
 (1) The enactments specified in Parts 1 to 3 of Schedule 2 are repealed on 1 March 1999.
 (2) The enactments specified in clauses 1 to 14 of Part 4 of Schedule 2 are repealed on such date or dates as may be appointed by Order in Council under section 1(3).
-(3) The enactments specified in Part 5 of Schedule 2 are repealed on 1 July 2009.
+(3) The enactments specified in Part 5 of Schedule 2 are repealed on a date to be appointed by the Governor-General by Order in Council.
 
 ### 215 Amendments to other enactments
 (1) The enactments specified in Schedule 3 are amended in the manner indicated in that schedule.
@@ -3326,7 +3326,7 @@ The Agency must pay each Assessment Centre, from money appropriated for the purp
 ### 216 Transitional regulations
 Without limiting the powers conferred by section 167, the Governor-General may from time to time, by Order in Council, make regulations—
   (a) Prescribing transitional and savings provisions concerning the coming into force of this Act, which may be in addition to or in place of the transitional and savings provisions of this Part:
-  (b) To facilitate the bringing into force of any rules under this Act; and to remove any inconsistency between regulations or orders made under the Transport Act 1962 or Part 2 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
+  (b) To facilitate the bringing into force of any rules under this Act; and to remove any inconsistency between regulations or orders made under the Transport Act 1962:
   (c) Providing that subject to such conditions as may be specified in the regulations, during a specified transitional period,—
     (i) Specified provisions of this Act (including definitions) do not apply:
     (ii) Specified terms have the meanings given to them by the regulations:
@@ -3334,33 +3334,33 @@ Without limiting the powers conferred by section 167, the Governor-General may f
   (d) prescribing matters that would otherwise be covered by rules made under section 158.
 
 ### 217 Expiry of section 216
-Section 216 expires on the close of 1 July 2009 and on the close of that date is repealed.
+[Repealed]
 
 ### 218 Regulations and other enactments having effect under this Act
 (1) The following regulations are to be treated as regulations made under this Act:
   (a) The Goods Service Vehicle (Constructional) Regulations 1936 (Reprinted SR 1961/94):
   (b) The Transport (Vehicular Traffic Road Closure) Regulations 1965 (SR 1965/63):
   (c) The Heavy Motor Vehicle Regulations 1974 (SR 1974/218):
-  (d) The Traffic Regulations 1976 (SR 1976/227):
-  (e) The Passenger Service Vehicle Construction Regulations 1978 (SR 1978/15):
-  (f) The Transport (Drivers Licensing) Regulations 1987 (SR 1987/205):
-  (g) The Transport (Vehicle Standards) Regulations 1990 (SR 1990/247):
-  (h) The Transport (Infringement Notices) Regulations 1990 (SR 1990/246):
-  (i) The Transport (Demerit Points) Regulations 1993 (SR 1993/6)
-  (j) The Land Transport (Offences) Regulations 1996 (SR 1996/339).
+  (d) The Traffic Regulations 1976 (SR 1976/227).
+  (e)
+  (f)
+  (g)
+  (h)
+  (i)
+  (j)
 (2) The following notices are to be treated as notices under section 2 or section 115 (as the case may be):
-  (a) The Transport (Child Restraints and Seat Belts Approval) Notice 1984 (SR 1984/171):
+  (a)
   (b) The Transport (Breath Tests) Notice (No 2) 1989 (SR 1989/389):
-  (c) The Transport (Blood Test Fee) Notice 1993 (SR 1993/341):
-  (d) The Transport (Approved Laboratory and Analyst in Charge) Notice 1993 (SR 1993/375):
+  (c)
+  (d)
   (e) The Transport (Approved Vehicle Surveillance Equipment) Notice 1994 (SR 1994/202):
-  (f) The Transport (Ordering a Vehicle off the Road) Notice 1995 (SR 1995/156):
+  (f)
   (g) The Transport (Measurement of Weight) Notice 1997 (SR 1997/375).
 (3) The enactments specified in subsection (1) or subsection (2), which were made under the Transport Act 1962 or the Transport (Vehicle and Driver Registration and Licensing) Act 1986, may be amended from time to time under the corresponding empowering provision (if any) in this Act or (if there is no corresponding empowering provision in this Act) as if this section contained the relevant empowering provision (as it read immediately before the commencement of section 214).
 (4) Every regulation prescribing or providing for the fixing of fees and charges (other than rates of road user charges), which regulation is made under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Transport Services Licensing Act 1989, or the Government Roading Powers Act 1989, and is in force immediately before the commencement of this section, continues to have effect and may be amended, revoked, or replaced under section 167.
 
 ### 219 Expiry of section 218
-Section 218 expires with close of 1 July 2009 and on the close of that date is repealed.
+[Repealed]
 
 ### 220 Rules having effect under this Act
 All rules made under Part 2 of the Land Transport Act 1993 and in force immediately before the commencement of this section, and all rules made under that Part of that Act that are expressed to come into force on or after the commencement of this section, are to be treated as rules made under this Act.
@@ -3445,6 +3445,202 @@ An application pending under any provision of the Transport Act 1962 that is rep
   (a) That blood specimen had been delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) in a package properly addressed to the approved analyst; and
   (b) That approved analyst is deemed to be the approved analyst notified under section 74(4)(b); and
   (c) Any certificate of the kind referred to in section 75(4) that certifies that the blood specimen was sent or caused to be sent by registered post to a Ministry analyst (within the meaning of the Transport Act 1962) is deemed to certify that the specimen was sent or caused to be sent to a specified approved analyst in accordance with section 74.
+
+## Part 17 — Motor vehicle registration and licensing
+
+**Preliminary provisions**
+
+### 233 Interpretation matters applying to this Part
+(1) In this Part, unless the context otherwise requires,—
+  - **accident insurance levy** means the appropriate levy payable under section 214 of the Injury Prevention, Rehabilitation, and Compensation Act 2001
+  - **enforcement authority** , in relation to an infringement offence under this Part, means—
+    (a) the New Zealand Police:
+    (b) the Agency, if an infringement notice is issued by an employee of the Agency or by a person acting on behalf of the Agency:
+    (c) a local authority, if an infringement notice is issued by an employee of the local authority or by a person acting on behalf of the local authority:
+    (d) the Registrar
+  - **moped** —
+    (a) means a motor vehicle (other than a power-assisted pedal cycle) that has—
+      (i) 2 wheels; and
+      (ii) a maximum speed not exceeding 50 kilometres per hour; and
+      (iii) either—
+        (A) an engine cylinder capacity not exceeding 50 cc; or
+        (B) a power source other than a piston engine; and
+    (b) includes a motor vehicle running on 3 wheels if the vehicle—
+      (i) was registered before paragraph (a) came into force; and
+      (ii) falls within the definition of moped in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **motorcycle** —
+    (a) means a motor vehicle running on 2 wheels, or not more than 3 wheels when fitted with a sidecar; and
+    (b) includes a vehicle with motorcycle controls that is approved as a motorcycle by the Agency; but
+    (c) does not include a moped
+  - **ordinary plate** means a registration plate that must be displayed on a motor vehicle unless a personalised plate or a trade plate is issued for display on the motor vehicle
+  - **personal information** means the name and address (and, in the case of an individual, the date of birth and driver licence number) and any other information about a person registered or previously registered in respect of a motor vehicle
+  - **personalised plate** means a registration plate with a single letter or number or combination of letters, numbers, or letters and numbers allocated under section 259
+  - **prescribed fees** means the applicable fees and charges prescribed by regulations made under this Part and, in relation to a particular application or notification under this Part, means the fee or charge, if any, prescribed for that application or notification (subject to section 270(5))
+  - **registered person** means a person registered under this Part in respect of a motor vehicle and, in relation to a particular motor vehicle, means the person registered in respect of that vehicle
+  - **Registrar** means the person appointed by the Minister to be the Registrar of Motor Vehicles, and includes, where appropriate,—
+    (a) any person to whom the Registrar has delegated any of the powers, duties, or functions of the Registrar under this Part:
+    (b) any person for the time being authorised by the Registrar to perform any specified function of the Registrar under this Part
+  - **registration plate** —
+    (a) means a plate issued under—
+      (i) this Part; or
+      (ii) the Transport Act 1962; or
+      (iii) the Transport (Vehicle and Driver Registration and Licensing) Act 1986; and
+    (b) includes ordinary plates, supplementary plates, personalised plates, and trade plates
+  - **sale** , in relation to a motor vehicle, means the disposition or change of ownership of the motor vehicle, whether or not for consideration, and includes disposition by way of hire purchase; and , and have corresponding meanings
+  - **supplementary plate** means a registration plate that matches an ordinary plate or a personalised plate issued for a motor vehicle
+  - **tractor** means a motor vehicle (other than a traction engine) designed principally for traction at speeds not exceeding 50 kilometres per hour
+  - **trade plate** means a registration plate issued to a person or class of persons for the purposes specified by the Minister by notice in the Gazette
+  - **trailer** means a vehicle without its own power source that is capable of being drawn or propelled by a motor vehicle from which it is readily detachable, but does not include—
+    (a) a sidecar attached to a motorcycle; or
+    (b) a vehicle normally propelled by mechanical power while it is being temporarily towed without the use of its own power.
+(2) Except in proceedings for an offence against this Part or regulations made under this Part, a question as to whether a motor vehicle is of a particular design or type for the purposes of this Part or of regulations made under this Part must be determined by the Registrar.
+
+### 241 Authorised access to name and address only
+(1) After consulting with the Privacy Commissioner, the Chief Ombudsman, and the Commissioner of Police, the Secretary may, by notice in the Gazette, authorise specified persons or classes of persons to have access to the names and addresses of persons registered in respect of motor vehicles and information on those vehicles—
+  (a) for specified purposes (in addition to the purposes recognised by section 235); and
+  (b) on conditions that the Secretary thinks fit; and
+  (c) for a specified event or specified period of time not exceeding 5 years.
+(2) The Secretary may, as he or she thinks fit, cancel or amend by notice in the Gazette a notice published under subsection (1).
+(3) An application for authorisation under subsection (1) must be—
+  (a) made to the Secretary in accordance with any regulations made under this Part; and
+  (b) accompanied by the prescribed fee.
+(4) The Secretary must decide whether to approve the application, and must inform the applicant of his or her decision, within a reasonable time after receiving the information reasonably required by him or her to make the decision.
+(5) The Secretary may refuse to consider the application if the Secretary believes that it is vexatious or frivolous.
+(6) The Registrar may withhold the names and addresses of registered persons from a person authorised by a notice published under subsection (1) until the Registrar is satisfied that—
+  (a) the names and addresses will be—
+    (i) kept secure by that person and his or her agents, if any; and
+    (ii) used only for the purpose specified in the notice published under subsection (1); and
+  (b) provision of the names and addresses will not compromise the purpose of any confidential status granted under section 239; and
+  (c) any conditions specified in that notice will be complied with.
+(7) An authorisation under subsection (1) does not authorise any person or class of person to have access to the names and addresses of persons—
+  (a) who were previously registered in respect of motor vehicles; or
+  (b) who have notified the Registrar, in accordance with any regulations made under this Part, that they do not wish to have their names and addresses made available under subsection (1).
+
+**Regulations**
+
+### 269 Regulations
+(1) The Governor-General may, by Order in Council, make regulations—
+  (a) providing for—
+    (i) the licensing and registration of motor vehicles, including (but not limited to)—
+      (A) the requirements for eligibility:
+      (B) cancellation:
+      (C) correction of errors or inaccuracies:
+      (D) cases where particulars need not be recorded on the register:
+    (ii) the provision (at the request of the Registrar or otherwise) of relevant information, documents, or evidence, including (but not limited to)—
+      (A) a statutory declaration by the person to be registered in respect of a motor vehicle that the person is the owner of the motor vehicle:
+      (B) evidence of a person's identity (such as a driver licence):
+      (C) the certificate of registration for a motor vehicle:
+      (D) a statutory declaration by an appropriate person explaining the circumstances in which a certificate, licence, or plate was lost, stolen, damaged, or destroyed:
+      (E) a statutory declaration by the person applying for supplementary plates that states the intended use of the supplementary plates:
+      (F) evidence, from a person authorised by the Registrar, that a vehicle subject to a registration application belongs to a particular class of vehicle and that it complies with the standards applicable to that class:
+    (iii) the manufacture, issuing, cancellation, refusal to issue, or surrender of licences and registration plates:
+    (iv) the refusal to allocate numbers, letters, or combinations of numbers or letters for use on personalised plates:
+  (b) exempting, or authorising the Registrar to exempt, a motor vehicle or person, or a specified category or class of motor vehicles or persons, from—
+    (i) any specified requirements of this Part or of regulations made under this Part:
+    (ii) any prescribed fees:
+  (c) imposing, or authorising the Registrar to impose, conditions in respect of—
+    (i) the use of licences or registration plates:
+    (ii) the operation of a registered motor vehicle on a road:
+    (iii) any matter provided for in regulations made under this Part:
+  (d) making provision, or authorising the Registrar to make provision, for applications or notifications permitted or required by this Part (for example, about their form and content or the manner of their delivery):
+  (e) prescribing the registration requirements and particulars that the seller and acquirer of a motor vehicle must meet and supply, and the functions of the Registrar if there is a change in the ownership of a registered motor vehicle:
+  (f) permitting, or authorising the Registrar to permit, a change of registered person in a case where more than 1 person owns a motor vehicle and the joint owners wish to change which of them is the registered person:
+  (g) prescribing, or authorising the Registrar to prescribe, the form of certificates of registration or other forms required for the purposes of this Part:
+  (h) prescribing, or authorising the Registrar to prescribe,—
+    (i) the form, colour, and material of licences and registration plates; and
+    (ii) the size, shape, and character of the numbers, letters, messages, symbols, distinguishing marks, or slogans to be shown on licences and registration plates; and
+    (iii) the means to make licences and registration plates easily visible; and
+    (iv) the number of licences and registration plates to be displayed and the position and manner in which they are to be displayed; and
+    (v) the eligibility requirements for licences, licence labels, and registration plates; and
+    (vi) the duration of licences and registration plates:
+  (i) specifying the circumstances and conditions in which personalised plates may be sold or otherwise transferred:
+  (j) authorising the Registrar to enter the particulars of a change of ownership of a motor vehicle under section 247 or of personalised plates or of trade plates on the register, even if a party has failed to comply with the requirements of section 247 or any regulations made under this Part, and prescribing the circumstances in which such particulars may be entered:
+  (k) specifying offences for the purposes of this Part:
+  (l) specifying infringement offences for the purposes of this Part:
+  (m) setting out defences to any offences specified under paragraph (k) or (l):
+  (n) setting out the maximum penalty for each offence specified under paragraph (k), which,—
+    (i) in the case of an individual, may be a fine not exceeding $10,000; and
+    (ii) in the case of a body corporate, may be a fine not exceeding $50,000:
+  (o) setting the infringement fee for each offence specified under paragraph (l), which,—
+    (i) in the case of an individual, may not exceed $2,000; and
+    (ii) in the case of a body corporate, may not exceed $10,000:
+  (p) prescribing fees or charges payable in respect of—
+    (i) any application made, or other matter undertaken, under this Part:
+    (ii) any transfer of personalised plates:
+  (q) prescribing fees or charges to cover the costs of—
+    (i) providing information from, or administrative services related to, the register:
+    (ii) producing and issuing licences and registration plates:
+    (iii) replacement certificates, licences, or registration plates:
+  (r) identifying those fees and charges that are land transport revenue for the purposes of the Land Transport Management Act 2003:
+  (s) providing for unpaid fees and charges to be recoverable as a debt due to the Crown:
+  (t) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part and for its due administration.
+(2) Without limiting the generality of subsection (1), regulations may—
+  (a) define a class of motor vehicles by reference to—
+    (i) the actual or intended motor vehicle usage:
+    (ii) ownership by a specified class of owner or by persons or classes of persons approved for the purpose by the Registrar:
+    (iii) loss of possession or control, whether because of theft or another specified reason:
+  (b) provide that if a registered person applies for an exemption from the requirement in section 242(2) later than 60 days after the expiry of the latest licence issued for the relevant motor vehicle, the person is liable to pay the proportion of the annual licence fee for that motor vehicle for the period—
+    (i) commencing on the day after the date of expiry of the former licence; and
+    (ii) ending on the close of the day immediately before the date when the application for an exemption is lodged:
+  (c) authorise the Registrar to grant an exemption from any requirements or prescribed fees referred to in subsection (1)(b) if the Registrar is satisfied that for any reason the motor vehicle to which the application relates will not be operated on a road while the exemption has effect:
+  (d) provide that exemptions referred to in subsection (1)(b) have effect, in each case, for the period that the Registrar thinks fit, unless any limitations are imposed by the regulations made under this Part:
+  (e) provide that exemptions from the requirements in section 242(1) or (2) have no effect while a motor vehicle is being operated on a road, even if the exemption is conferred by or under the regulations made under this Part:
+  (f) provide for the renewal or revocation of exemptions referred to in subsection (1)(b) that are granted by the Registrar:
+  (g) prescribe specific types of numbers, letters, or distinguishing marks for specified classes of motor vehicles, or for motor vehicles operated by persons holding specified office or by persons, governments, or organisations with a specified status, immunity, or privilege:
+  (h) prescribe higher fees, if the costs warrant, for the production and issuing of any kind of licence or registration plate.
+(3) Section 168 applies to regulations made under subsection (1)(p) or (q) of this section as it applies to regulations made under section 167(1)(j).
+(4) Without limiting the generality of subsection (3), the following are exempt from any fee or charge payable under this Part for the supply of information from the register of motor vehicles:
+  (a) the New Zealand Police:
+  (b) a statutory entity (within the meaning of the Crown Entities Act 2004):
+  (c) a department specified in Schedule 1 of the State Sector Act 1988.
+
+### 270 Fees and charges identified as land transport revenue
+(1) This section applies to regulations made by Order in Council under section 269 that prescribe fees or charges that are identified as land transport revenue for the purposes of the Land Transport Management Act 2003 (relevant regulations).
+(2) If relevant regulations are made on or before 30 June in any year, they expire on the close of 31 December of that year except so far as they are expressly confirmed by Act of Parliament passed during that year.
+(3) If relevant regulations are made on or after 1 July in any year, they expire on the close of 31 December in the following year except so far as they are expressly confirmed by Act of Parliament passed before the end of that following year.
+(4) If relevant regulations expire by virtue of subsection (2) or (3), the fees or charges replaced or altered by those regulations are, from the expiry of those regulations and until the fees or charges are again replaced or altered, the same as they were immediately before those regulations came into force.
+(5) The reference in subsection (4) to fees or charges replaced or altered by relevant regulations includes fees or charges—
+  (a) prescribed (or having effect as if prescribed) under section 167 or 168B in respect of the same or substantially the same matter; and
+  (b) in force immediately before the commencement of this section.
+(6) If relevant regulations expire by virtue of subsection (2) or (3), any fees and charges collected by virtue of those regulations in excess of the fees and charges otherwise payable must, except in so far as any other provision is made by an Act of Parliament, be refunded.
+(7) Relevant regulations that the House of Representatives resolves should be revoked or varied are revoked or varied in accordance with the terms of the resolution, and any fees and charges collected under the relevant regulations in excess of the fees and charges otherwise payable are, so far as that resolution provides, to be refunded.
+(8) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming relevant regulations under subsection (2) or (3) does not, unless there is any express provision to the contrary, affect the validity or confirmation of the relevant regulations in question.
+
+**Appointment**
+
+### 271 Appointment of Registrar
+Nothing in this Part prevents the Minister from appointing the Agency to be the Registrar of Motor Vehicles if the Minister thinks it appropriate to do so.
+
+**Delegations and authorisations**
+
+### 272 Delegations
+(1) The Registrar may, either generally or particularly, delegate to specified persons any of the Registrar's functions or powers under this Part.
+(2) However, subsection (1) does not permit the Registrar to delegate a function or power to a person or a class of persons not employed in the State services (within the meaning of the State Sector Act 1988), except with the written consent of the Minister.
+(3) If the Registrar delegates functions or powers to a person under this section, that person—
+  (a) may, with the prior approval of the Minister, delegate to another person approved functions or powers; and
+  (b) is, in the case of a person not employed in the State services, subject to—
+    (i) the Official Information Act 1982; and
+    (ii) the Ombudsmen Act 1975.
+(4) A person to whom functions or powers are delegated under this section may perform those functions and exercise those powers in the same manner and with the same effect as if they had been conferred or imposed upon the person directly and not by delegation.
+(5) The Registrar may—
+  (a) delegate a function or power under this section to a specified person or class of persons or to the holder or holders of a specified office or class of office for the time being; and
+  (b) impose general or special directions or conditions.
+(6) A delegation may be given for a specific or indefinite period, but in either case is revocable at will.
+(7) A delegation of a function or power does not prevent the performance of that function or the exercise of that power by the Registrar.
+(8) A delegation given under this section—
+  (a) continues in force according to its tenor until it is revoked, even if the Registrar who gave the delegation ceases to be Registrar; and
+  (b) continues to have effect as if it were made by the person appointed as Registrar.
+(9) A person acting or purporting to act under a delegation under this section must, when reasonably requested, produce evidence of the person's authority to do so.
+(10) In this section, person includes a body corporate, but does not include an unincorporated body of persons.
+
+### 273 Authorisations by Registrar
+(1) The Registrar may—
+  (a) authorise any persons, or their agents or employees, to issue licences, certificates of registration, and registration plates for motor vehicles under this Part (including replacements as appropriate); and
+  (b) specify how the authority must be exercised; and
+  (c) appoint, and specify the functions and duties of, agents for notifying a change of ownership of a motor vehicle.
+(2) A person who is authorised under subsection (1) and is not employed in the State services is subject to—
+  (a) the Official Information Act 1982; and
+  (b) the Ombudsmen Act 1975.
 
 ## Schedule 1 — Provisions concerning Land Transport Safety Authority of New Zealand
 
