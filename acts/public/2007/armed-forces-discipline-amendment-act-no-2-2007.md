@@ -1,5 +1,5 @@
 # Armed Forces Discipline Amendment Act (No 2) 2007
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Armed Forces Discipline Amendment Act (No 2) 2007.
@@ -132,7 +132,7 @@ Section 13 is amended by repealing paragraphs (a) and (b) and substituting the f
   (ba) until that person is acquitted by the Court Martial; or
 
 ### 9 Certain civilians closely associated with Armed Forces subject to this Act
-(1) Section 16(7)(d) is amended by omitting or dealt with summarily and substituting , or otherwise dealt with, under Part 5.
+(1) Section 16(7)﻿(d) is amended by omitting or dealt with summarily and substituting , or otherwise dealt with, under Part 5.
 (2) Section 16(7) is amended by repealing paragraphs (e) and (f) and substituting the following paragraphs:.
   (e) if a disciplinary officer finds an accused guilty of a charge, he or she must not record a finding until the accused has been given the right to elect trial by the Court Martial and, if the accused so elects,—
     (i) a finding must not be recorded; and
@@ -160,8 +160,8 @@ Section 18 is amended by omitting court-martial in each place where it appears a
   (a) the person is so tried or dealt with or the charge is referred to the Director of Military Prosecutions within 6 months after the person ceased to be so employed; or
 
 ### 13 Person may not be tried under this Act and under the civil law in respect of same act or omission
-(1) Section 21(1)(a) and (c) are amended by omitting a court-martial and substituting in each case the Court Martial.
-(2) Section 21(1)(b) is amended by omitting an officer exercising summary powers and substituting a disciplinary officer.
+(1) Section 21(1)﻿(a) and (c) are amended by omitting a court-martial and substituting in each case the Court Martial.
+(2) Section 21(1)﻿(b) is amended by omitting an officer exercising summary powers and substituting a disciplinary officer.
 (3) Section 21 is amended by repealing subsections (3) and (4) and substituting the following subsections:
   (3) Subsection (4) applies if, whether in New Zealand or elsewhere, a person—
     (a) has been acquitted or convicted by a competent court of ordinary criminal jurisdiction, or by a court-martial or other military tribunal of the armed forces of another State, of an offence against a law in force in the country or place in which that court, court-martial, or tribunal has jurisdiction; or
@@ -220,7 +220,7 @@ Section 70 is repealed and the following section substituted:Offences relating t
     (h) insults, threatens, or interferes with any witness or other person under a duty to attend the proceedings before a military tribunal or court of inquiry while the witness or other person is attending, or is on the way to or from, the proceedings; or
     (i) interrupts the proceedings before a military tribunal or court of inquiry or otherwise misbehaves during the proceedings.
   (2) A person who commits an offence under subsection (1) is liable to imprisonment for a term not exceeding 6 months.
-  (3) Despite subsection (2), if a person commits an offence against subsection (1)(e) to (i) in relation to the Court Martial, that Court may, by order of the Judge, sentence the person for the offence,—
+  (3) Despite subsection (2), if a person commits an offence against subsection (1)﻿(e) to (i) in relation to the Court Martial, that Court may, by order of the Judge, sentence the person for the offence,—
     (a) in the case of a convicted member of the Armed Forces,—
       (i) to imprisonment for a term not exceeding 21 days; or
       (ii) except in the case of an officer, to detention for a term not exceeding 21 days; or
@@ -310,10 +310,10 @@ Section 83 is amended by omitting a court-martial and substituting the Court Mar
 ## Part  — Amendments to Part 4 (arrest and search) of principal Act
 
 ### 33 Disposal of property taken in search
-(1) Section 99(1)(a) and (b) are amended by omitting a court-martial or, as the case may be, an officer exercising summary powers and substituting in each case the Court Martial or, as the case may be, a disciplinary officer.
-(2) Section 99(1)(b) is amended by omitting court in each place where it appears and substituting in each case Court.
+(1) Section 99(1)﻿(a) and (b) are amended by omitting a court-martial or, as the case may be, an officer exercising summary powers and substituting in each case the Court Martial or, as the case may be, a disciplinary officer.
+(2) Section 99(1)﻿(b) is amended by omitting court in each place where it appears and substituting in each case Court.
 (3) Section 99 is amended by repealing subsection (2) and substituting the following subsection:
-  (2) An order of forfeiture made under subsection (1)(b) must be treated, for the purposes of—
+  (2) An order of forfeiture made under subsection (1)﻿(b) must be treated, for the purposes of—
     (a) Part 5A, as a punishment imposed on the offender; and
     (b) an appeal to the Court Martial Appeal Court, as part of the sentence imposed on the offender.
 
@@ -349,11 +349,11 @@ The following sections are inserted after section 101:Judge Advocate General may
       (i) a provost officer:
       (ii) a person lawfully exercising authority under or on behalf of a provost officer:
       (iii) a member of the police.
-  (3) For the purpose of executing the warrant, a person referred to in subsection (2)(b) may, at any time, enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the person against whom the warrant is issued is on those premises.
+  (3) For the purpose of executing the warrant, a person referred to in subsection (2)﻿(b) may, at any time, enter on to any premises, by force if necessary, if he or she has reasonable grounds to believe that the person against whom the warrant is issued is on those premises.
   (4) The person executing the warrant—
     (a) must have the warrant with him or her; and
     (b) must produce it on initial entry and, if requested, at any subsequent time; and
-    (c) if he or she is not in uniform, produce evidence that he or she is 1 of the persons referred to in subsection (2)(b).
+    (c) if he or she is not in uniform, produce evidence that he or she is 1 of the persons referred to in subsection (2)﻿(b).
   (1) A person who is arrested under a warrant issued under section 101B must be brought before the Judge Advocate General as soon as possible.
   (2) The Judge Advocate General must reconsider the question of bail if satisfied that the person—
     (a) had absconded or was about to abscond; or
@@ -445,7 +445,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (2) However, for the purposes of this Part, an officer is not empowered to act as a disciplinary officer in relation to a charge if—
     (a) the officer considers, at the relevant time, that it is necessary for the maintenance of discipline, or in the interests of justice, that the charge be referred to another person; or
     (b) the officer is personally interested in the charge; or
-    (c) an order made under section 206(1)(ab) specifies that the offence alleged by the charge may not be tried summarily, or otherwise dealt with, under this Part by the officer.
+    (c) an order made under section 206(1)﻿(ab) specifies that the offence alleged by the charge may not be tried summarily, or otherwise dealt with, under this Part by the officer.
   (3) For the purposes of this section, relevant time means,—
     (a) in relation to sections 109 to 111, immediately before the officer begins to act as the disciplinary officer:
     (b) in any other case, the time at which the officer is considering under this Part whether he or she is empowered to act as a disciplinary officer in relation to the charge.
@@ -533,7 +533,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (2) The disciplinary officer must proceed under this subpart as if the accused had pleaded not guilty if—
     (a) the accused refuses to plead; or
     (b) the accused pleads unintelligibly; or
-    (c) the disciplinary officer is not satisfied of any of the matters referred to in subsection (1)(a) to (c).
+    (c) the disciplinary officer is not satisfied of any of the matters referred to in subsection (1)﻿(a) to (c).
   (1) If the disciplinary officer is a subordinate commander and he or she enters a guilty plea on the record of proceedings under section 117,—
     (a) the presenting officer must inform the subordinate commander of the facts that are relevant to the charge; and
     (b) the subordinate commander may hear all or any of the evidence relating to the charge if he or she considers that it is in the interests of justice or discipline to do so; and
@@ -566,7 +566,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
       (ii) for the commanding officer, detachment commander, or superior commander to proceed under subpart 4; and
     (b) adjourn the hearing and give the accused a reasonable period to consider the accused's election; and
     (c) give the accused the opportunity to consult a lawyer in respect of the accused's election if it is reasonably practicable to do so.
-  (2) The period of adjournment under subsection (1)(b) must be at least 24 hours if the accused wishes it.
+  (2) The period of adjournment under subsection (1)﻿(b) must be at least 24 hours if the accused wishes it.
   (1) This section applies if—
     (a) a commanding officer, detachment commander, or superior commander considers, under section 117C, that an accused who has pleaded guilty should not be given the right to elect trial by the Court Martial; or
     (b) an accused is given the right to an election under section 117D and elects—
@@ -601,7 +601,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (1) If the accused pleads not guilty to the charge, the disciplinary officer must—
     (a) enter the plea on the record of proceedings; and
     (b) ask the accused if he or she has had adequate time and facilities to prepare a defence.
-  (2) If the disciplinary officer considers, after acting under subsection (1)(b), that the accused has not had adequate time or facilities (or both) to prepare a defence, the disciplinary officer must adjourn the proceedings to allow the accused—
+  (2) If the disciplinary officer considers, after acting under subsection (1)﻿(b), that the accused has not had adequate time or facilities (or both) to prepare a defence, the disciplinary officer must adjourn the proceedings to allow the accused—
     (a) adequate time to prepare a defence; and
     (b) a reasonable opportunity to obtain adequate facilities to prepare a defence.
   (1) When the case is ready to proceed, the disciplinary officer—
@@ -622,7 +622,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (2) If the disciplinary officer is a subordinate commander who considers under this section that he or she—
     (a) has sufficient powers of punishment and is empowered to act as a disciplinary officer in relation to the charge, he or she must proceed to act as a disciplinary officer in relation to the charge under subpart 3:
     (b) has insufficient powers of punishment or is not empowered to act as a disciplinary officer in relation to the charge, he or she must refer the charge to the accused's commanding officer or detachment commander without recording, a finding.
-  (3) After a charge is referred to a commanding officer or detachment commander under subsection (2)(b), he or she—
+  (3) After a charge is referred to a commanding officer or detachment commander under subsection (2)﻿(b), he or she—
     (a) becomes the disciplinary officer in relation to the charge; and
     (b) must investigate the charge under section 117J as if the subordinate commander had not begun to investigate the charge; and
     (c) must, after acting under paragraph (b), act under subsection (1) if he or she is satisfied that a prima facie case has been made out.
@@ -639,7 +639,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
       (ii) summary trial by the disciplinary officer; and
     (b) adjourn the hearing and give the accused a reasonable period to consider the accused's election; and
     (c) give the accused the opportunity to consult a lawyer in respect of the accused's election if it is reasonably practicable to do so.
-  (2) The period of adjournment under subsection (1)(b) must be at least 24 hours if the accused wishes it.
+  (2) The period of adjournment under subsection (1)﻿(b) must be at least 24 hours if the accused wishes it.
   (1) The disciplinary officer must remand the accused for trial in the Court Martial and refer the charge to the Director of Military Prosecutions if, after having been given the right to an election under section 117M,—
     (a) the accused elects trial by the Court Martial and does not withdraw his or her election in the prescribed manner; or
     (b) the accused does not make an election when asked to do so by the disciplinary officer.
@@ -700,7 +700,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (1) This section applies if an offender in respect of whom an order is made under section 117T—
     (a) is convicted, or found guilty summarily, of a subsequent offence against this Act or any other Act; or
     (b) fails to comply with any other order referred to in section 117T(4); or
-    (c) fails to comply with any agreement, or fails to take any measure or action, of a kind referred to in section 10(1)(b), (d), or (e) of the Sentencing Act 2002 that was brought to the attention of the disciplinary officer at the time the, disciplinary officer made the order under section 117T.
+    (c) fails to comply with any agreement, or fails to take any measure or action, of a kind referred to in section 10(1)﻿(b), (d), or (e) of the Sentencing Act 2002 that was brought to the attention of the disciplinary officer at the time the, disciplinary officer made the order under section 117T.
   (2) An offender's commanding officer may, at any time within the period specified in the order made under section 117T, order the offender to appear before the commanding officer or another disciplinary officer to be dealt with for the original offence.
   (3) After an order is given under subsection (2), the offender must be placed in close arrest and brought before the commanding officer or other disciplinary officer at a time and place directed by the commanding officer or disciplinary officer.
   (4) If a person appears before a commanding officer or another disciplinary officer under this section and the commanding officer or disciplinary officer is satisfied of any of the matters specified in subsection (1), the commanding officer or disciplinary officer—
@@ -773,16 +773,16 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (4) If the disciplinary officer is a superior commander, he or she must, within 14 days of deciding that the charge is to be referred to the Director of Military Prosecutions, send to the Director of Military Prosecutions—
     (a) the documents that are prescribed by the rules of procedure for the purposes of this subsection; and
     (b) a statement containing the superior commander's opinion as to whether prosecution of the charge is in the interests of the service.
-  (1) If a charge is referred by a disciplinary officer to the Director of Military Prosecutions under section 117F(1)(a) or 117K(4), the Director of Military Prosecutions may, after giving due consideration to the circumstances of the case, refer the charge (together with all or any other charges referred under section 117ZF) back to the disciplinary officer with a direction that the officer must—
+  (1) If a charge is referred by a disciplinary officer to the Director of Military Prosecutions under section 117F(1)﻿(a) or 117K(4), the Director of Military Prosecutions may, after giving due consideration to the circumstances of the case, refer the charge (together with all or any other charges referred under section 117ZF) back to the disciplinary officer with a direction that the officer must—
     (a) continue to act as a disciplinary officer in relation to the charge or charges; or
     (b) dismiss the charge or charges.
-  (2) If, after a charge is referred by a disciplinary officer to the Director of Military Prosecutions under section 117F(1)(b) or 117N(1), the accused withdraws, in the prescribed manner, his or her election for trial by the Court Martial, the Director of Military Prosecutions may, after giving due consideration to the circumstances of the case, refer the charge (together with all or any other charges referred under section 117ZF) back to the disciplinary officer with a direction that the officer must—
+  (2) If, after a charge is referred by a disciplinary officer to the Director of Military Prosecutions under section 117F(1)﻿(b) or 117N(1), the accused withdraws, in the prescribed manner, his or her election for trial by the Court Martial, the Director of Military Prosecutions may, after giving due consideration to the circumstances of the case, refer the charge (together with all or any other charges referred under section 117ZF) back to the disciplinary officer with a direction that the officer must—
     (a) continue to act as a disciplinary officer in relation to the charge or charges; or
     (b) dismiss the charge or charges.
   (3) A direction under subsection (1) or (2) may include—
     (a) a direction to give the accused the right to elect trial by the Court Martial; and
     (b) any other procedural directions that the Director of Military Prosecutions thinks fit.
-  (4) If a charge is referred by a disciplinary officer to the Director of Military Prosecutions under section 117F(1)(b) or 117N(1), the Director of Military Prosecutions may, after giving due consideration to the circumstances of the case, refer the charge (together with all or any other charges referred under section 117ZF) back to the disciplinary officer with a direction that the officer must dismiss the charge or charges.
+  (4) If a charge is referred by a disciplinary officer to the Director of Military Prosecutions under section 117F(1)﻿(b) or 117N(1), the Director of Military Prosecutions may, after giving due consideration to the circumstances of the case, refer the charge (together with all or any other charges referred under section 117ZF) back to the disciplinary officer with a direction that the officer must dismiss the charge or charges.
   (5) On reference back of a charge under this section, the disciplinary officer must dispose of the charge in accordance with the directions.
   (6) Reference back of a charge to a disciplinary officer under this section is without prejudice to the power of the disciplinary officer to prefer another charge if—
     (a) the Director of Military Prosecutions so directs; or
@@ -809,7 +809,7 @@ Part 5 is repealed and the following Part substituted:Investigation and summary 
   (1) In proceedings before—
     (a) a disciplinary officer, oral evidence must not be given on oath unless the accused so requires:
     (b) the Summary Appeal Court, oral evidence must be given on oath.
-  (2) For the purposes of subsection (1)(a), if the accused requires the oral evidence to be given on oath, all witnesses who are to give evidence orally in the proceedings (including the accused if he or she gives evidence orally) must be sworn.
+  (2) For the purposes of subsection (1)﻿(a), if the accused requires the oral evidence to be given on oath, all witnesses who are to give evidence orally in the proceedings (including the accused if he or she gives evidence orally) must be sworn.
   (3) However, if the disciplinary officer or Summary Appeal Court considers that a child who is called as a witness does not understand the nature of an oath, the child's evidence may be received even though it is not given on oath so long as the officer or Court is of the opinion that the child—
     (a) has sufficient intelligence to justify the reception of the evidence; and
     (b) understands the duty of speaking the truth.
@@ -889,7 +889,7 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
   (1) An appeal under section 124 must be made by lodging a notice of appeal, in the prescribed form, with the Registrar within—
     (a) the prescribed period; or
     (b) any further time that the Summary Appeal Court may allow on application made before or after the expiration of that period.
-  (2) An application under subsection (1)(b) must—
+  (2) An application under subsection (1)﻿(b) must—
     (a) be in the prescribed form; and
     (b) be lodged with the Registrar with the notice of appeal if made after the expiration of the prescribed period.
   (3) Every notice of appeal must specify—
@@ -920,7 +920,7 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
     (b) specify the finding, punishment, combination of punishments, or order concerned; and
     (c) specify the reasons for the reference in sufficient detail to fully inform the Summary Appeal Court of the issues in the appeal; and
     (d) specify any other particulars that are prescribed by the rules of procedure for the purposes of this section.
-  (4) If a person has been found guilty of an offence by a disciplinary officer, any person (including the person found guilty) may, in the prescribed manner, petition the Judge Advocate General to refer to the Summary Appeal Court under this section 1 or more of the matters referred to in subsection (1)(a) to (d).
+  (4) If a person has been found guilty of an offence by a disciplinary officer, any person (including the person found guilty) may, in the prescribed manner, petition the Judge Advocate General to refer to the Summary Appeal Court under this section 1 or more of the matters referred to in subsection (1)﻿(a) to (d).
   (1) The Registrar must, as soon as practicable after receiving a reference from the Judge Advocate General, send to the person found guilty of the offence—
     (a) a copy of the reference; and
     (b) a notice, in the prescribed form, that—
@@ -930,8 +930,8 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
   (2) The Summary Appeal Court may deal with a reference from the Judge Advocate General by way of a hearing on the papers if the person who is sent a notice under subsection (1)—
     (a) indicates that he or she does not want to be legally represented at an oral hearing of the matter; or
     (b) otherwise indicates that he or she does not require an oral hearing of the matter; or
-    (c) does not provide written advice under subsection (1)(b)(ii) within the prescribed period.
-  (3) In this section, prescribed period means a period of 21 days commencing on the day after the day that the notice under subsection (1)(b) is sent to the person found guilty of the offence.
+    (c) does not provide written advice under subsection (1)﻿(b)﻿(ii) within the prescribed period.
+  (3) In this section, prescribed period means a period of 21 days commencing on the day after the day that the notice under subsection (1)﻿(b) is sent to the person found guilty of the offence.
   (1) Appeals to the Summary Appeal Court proceed by way of rehearing.
   (2) The Summary Appeal Court has, for the purposes of this Act, full power to determine, under this Act, any question necessary to be determined for the purpose of doing justice in any case before the Court.
   (1) The Summary Appeal Court must, on an appeal against a finding that a person is guilty of an offence,—
@@ -948,10 +948,10 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
       (i) direct a finding of not guilty of having committed the offence to be entered; or
       (ii) direct a new trial to be held by the disciplinary officer or by the Court Martial; or
       (iii) make any other order that justice requires.
-  (4) In making an order under subsection (3)(b)(ii), the Summary Appeal Court must—
+  (4) In making an order under subsection (3)﻿(b)﻿(ii), the Summary Appeal Court must—
     (a) advise the disciplinary officer or the Court Martial (as the case may be) of its reasons for so doing; and
     (b) give to the disciplinary officer or the Court Martial (as the case may be) any directions that it thinks fit.
-  (5) In conducting a new trial of the charge, the disciplinary officer or the Court Martial (as the case may be) must have regard to the Summary Appeal Court's reasons for making an order under subsection (3)(b)(ii), and to the Court's directions under subsection (4).
+  (5) In conducting a new trial of the charge, the disciplinary officer or the Court Martial (as the case may be) must have regard to the Summary Appeal Court's reasons for making an order under subsection (3)﻿(b)﻿(ii), and to the Court's directions under subsection (4).
   (1) The Summary Appeal Court may, on an appeal against a punishment or a combination of punishments,—
     (a) quash the punishment, or the combination of punishments, if—
       (i) all of the findings of guilty in relation to the punishment, or the combination of punishments, have seen quashed; or
@@ -961,7 +961,7 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
       (i) the Court considers that the disciplinary officer did not have the power to impose the punishment or the combination of punishments; or
       (ii) the Court considers that the punishment, or the combination of punishments, is too severe; or
     (c) dismiss the appeal.
-  (2) The Summary Appeal Court may vary the punishment, or the combination of punishments, under subsection (1)(b) by substituting a punishment, or combination of punishments, that—
+  (2) The Summary Appeal Court may vary the punishment, or the combination of punishments, under subsection (1)﻿(b) by substituting a punishment, or combination of punishments, that—
     (a) the disciplinary officer would have had the power to impose; and
     (b) in the opinion of the Summary Appeal Court, is no more severe than the punishment, or the combination of punishments, originally imposed.
   (3) If the punishment, or the combination of punishments, is varied, the varied punishment, or combination of punishments,—
@@ -977,12 +977,12 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
       (i) considers that the order is too severe; or
       (ii) otherwise considers that a variation is necessary for the maintenance of discipline or in the interests of justice; or
     (c) dismiss the appeal.
-  (2) If an order under section 117T is quashed under subsection (1)(a)(iv),—
+  (2) If an order under section 117T is quashed under subsection (1)﻿(a)﻿(iv),—
     (a) the Summary Appeal Court may impose a punishment, or combination of punishments, that the disciplinary officer would have had the power to impose; and
     (b) that punishment, or combination of punishments,—
       (i) is deemed to have been imposed by the disciplinary officer; and
       (ii) has effect as if imposed on the day on which the order under section 117T was made.
-  (3) The Summary Appeal Court may vary the order under subsection (1)(b) by substituting an order—
+  (3) The Summary Appeal Court may vary the order under subsection (1)﻿(b) by substituting an order—
     (a) that the disciplinary officer would have had the power to make; and
     (b) that, in the case of an order requiring the payment of compensation,—
       (i) reduces the amount of compensation to be paid; or
@@ -1005,7 +1005,7 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
     (a) must sit in open court unless section 138 or 139 applies; and
     (b) may sit in any place that the Judge Advocate General may direct, whether in New Zealand or elsewhere; and
     (c) may conduct its proceedings by teleconference or by any means of communication that allows individuals a reasonable opportunity to participate in the proceedings.
-  (2) Subsection (1)(c) is subject to the rules of procedure.
+  (2) Subsection (1)﻿(c) is subject to the rules of procedure.
   (3) A sitting of the Summary Appeal Court may be adjourned from time to time and from place to place.
   (1) The Summary Appeal Court must hold its proceedings in closed court while deliberating on whether to allow an appeal.
   (2) The Summary Appeal Court may hold its proceedings in closed court on any other deliberation.
@@ -1029,7 +1029,7 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
       (iii) the Registrar or any other officer of the Summary Appeal Court:
       (iv) an interpreter required in the proceedings:
       (v) a person expressly permitted by the Summary Appeal Court to be present.
-  (3) However, the Summary Appeal Court may make an order specified in subsection (2)(c) that has the effect of excluding any accredited news media reporter from the proceedings only on the grounds specified in subsection (1)(a), but not on any of the grounds specified in subsection (1)(b).
+  (3) However, the Summary Appeal Court may make an order specified in subsection (2)﻿(c) that has the effect of excluding any accredited news media reporter from the proceedings only on the grounds specified in subsection (1)﻿(a), but not on any of the grounds specified in subsection (1)﻿(b).
   (4) An order specified in subsection (2)—
     (a) may be made for a limited period or permanently; and
     (b) if it is made for a limited period, may be renewed for a further period or periods or made permanent by the Summary Appeal Court at any time; and
@@ -1056,7 +1056,7 @@ The following Part is inserted after Part 5:Summary Appeal Court of New ZealandE
     (a) take all necessary steps for obtaining the determination of an appeal under this Part; and
     (b) obtain and lay before the Summary Appeal Court in proper form all documents, exhibits, and other things relating to the relevant summary trial that appear necessary for the proper determination of the appeal; and
     (c) provide the necessary forms and instructions relating to notices of appeal under this Part to any person who asks for them, to persons in charge of places where persons punished by a disciplinary officer may lawfully be detained, and to any other persons that the Registrar thinks fit.
-  (2) Every person in charge of a place referred to in subsection (1)(c) must cause the forms and instructions to be placed at the disposal of persons detained in that place who desire to lodge a notice of appeal under this Part.
+  (2) Every person in charge of a place referred to in subsection (1)﻿(c) must cause the forms and instructions to be placed at the disposal of persons detained in that place who desire to lodge a notice of appeal under this Part.
 
 ## Part  — Amendments to Part 7 (provisions relating to evidence and procedure generally) of principal Act
 
@@ -1119,9 +1119,9 @@ Section 150 is repealed and the following sections are substituted:Rules of proc
     (a) by delivering it to the person summoned; or
     (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
   (2) The summons must,—
-    (a) if it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required:
-    (b) if it is served under subsection (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
-  (3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)(b) to be served at the time when the letter would be delivered in the ordinary course of post.
+    (a) if it is served under subsection (1)﻿(a), be served at least 24 hours before the attendance of the witness is required:
+    (b) if it is served under subsection (1)﻿(b), be served at least 10 days before the date on which the attendance of the witness is required.
+  (3) If the summons is posted by registered letter, it is deemed for the purposes of subsection (2)﻿(b) to be served at the time when the letter would be delivered in the ordinary course of post.
   A person who is not subject to this Act commits a contempt of a military tribunal or court of inquiry if the person—
     (a) fails without reasonable excuse to comply with a summons or order to attend as a witness before the military tribunal or court of inquiry; or
     (b) refuses to swear an oath when required to do so by the military tribunal or court of inquiry; or
@@ -1139,7 +1139,7 @@ Section 150 is repealed and the following sections are substituted:Rules of proc
   (3) The actions referred to in subsection (2) are—
     (a) to remove the person from the place where the proceedings are being held and to prevent that person from re-entering that place until the military tribunal or court of inquiry has risen; or
     (b) if the military tribunal or court of inquiry is held in New Zealand, to arrest the person and take him or her before the nearest District Court.
-  (4) If a person alleged to have committed contempt of a military tribunal or court of inquiry is brought before a District Court under subsection (3)(b), the District Court Judge
+  (4) If a person alleged to have committed contempt of a military tribunal or court of inquiry is brought before a District Court under subsection (3)﻿(b), the District Court Judge
     (a) must inquire into the alleged contempt; and
     (b) may find the person guilty of the contempt after hearing—
       (i) any witnesses against or on behalf of the person; and
@@ -1149,7 +1149,7 @@ Section 150 is repealed and the following sections are substituted:Rules of proc
     (a) any conduct of counsel that would be liable to censure or would constitute contempt of court if it took place before the High Court is similarly liable to censure by the military tribunal or court of inquiry or, as the case may be, similarly constitutes contempt of the military tribunal or court of inquiry:
     (b) the rules of procedure and any rules prescribed for the guidance of counsel appearing before the military tribunal or court of inquiry are binding on counsel:
     (c) counsel—
-      (i) is guilty of professional misconduct if lie or she disobeys any of those rules; and
+      (i) is guilty of professional misconduct if he or she disobeys any of those rules; and
       (ii) commits a contempt of the military tribunal or court of inquiry if he or she perseveres in the disobedience:
     (d) if counsel is alleged to have committed conduct liable to censure, or a contempt of the military tribunal or court of inquiry, he or she may be dealt with in the same manner as a person who is alleged to have committed a contempt of the military tribunal or court of inquiry under section 150E.
   (2) This section does not limit sections 150E and 150F.
@@ -1182,10 +1182,10 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
   (2) The service prisoner or detainee may—
     (a) request a hearing before the Authority; and
     (b) be legally represented at the hearing.
-  (3) If the service prisoner or detainee requests a hearing under subsection (2)(a), the Director of Military Prosecutions—
+  (3) If the service prisoner or detainee requests a hearing under subsection (2)﻿(a), the Director of Military Prosecutions—
     (a) must be given reasonable prior written notice of the date and time of the hearing; and
     (b) may attend and be heard at the hearing (whether personally or through an agent).
-  (4) If the service prisoner or detainee does not request a hearing under subsection (2)(a), the Authority must conduct the reconsideration of the sentence by way of a hearing on the papers.
+  (4) If the service prisoner or detainee does not request a hearing under subsection (2)﻿(a), the Authority must conduct the reconsideration of the sentence by way of a hearing on the papers.
   The Authority—
     (a) may call for any written reports that it thinks fit in respect of a service prisoner or detainee serving a sentence of imprisonment or detention that is before it for reconsideration:
     (b) may hear evidence if a hearing is held.
@@ -1197,7 +1197,7 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
     (c) any other grounds that the Authority thinks proper.
   (2) Whether or not the Authority remits the whole or any part of the sentence that remains to be served, the Authority must arrange for particulars of its decision to be promulgated in the manner that may be prescribed in the rules of procedure.
   (3) A decision of the Authority takes effect from the date of its promulgation.
-  (1) The Chief Judge may, either generally or particularly, delegate to the Registrar of the Court Martial the Chief Judge's duty under section 151(2)(a) to appoint a Judge to the Authority.
+  (1) The Chief Judge may, either generally or particularly, delegate to the Registrar of the Court Martial the Chief Judge's duty under section 151(2)﻿(a) to appoint a Judge to the Authority.
   (2) A delegation—
     (a) must be in writing; and
     (b) may be made subject to any restrictions that the Chief Judge thinks fit; and
@@ -1217,7 +1217,7 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
     (h) the Director of Military Prosecutions; and
     (i) a representative of the Armed Forces Defence Counsel Panel who is appointed by the Judge Advocate General.
   (3) The Judge Advocate General must—
-    (a) make an appointment under subsection (2)(i) by written notice to the person concerned; and
+    (a) make an appointment under subsection (2)﻿(i) by written notice to the person concerned; and
     (b) provide a copy of the notice to the Chief of Defence Force.
   (4) The notice must—
     (a) state the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
@@ -1237,7 +1237,7 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
     (b) any guidelines published by the Sentencing Council established under the Sentencing Council Act 2007.
   (3) The Discipline Committee must carry out its functions independently of the Minister.
   The Chief of Defence Force must publish any sentencing guidelines produced by the Discipline Committee under this Part as Defence Force Orders.
-  (1) A person who is appointed under section 160(2)(i) to be a member of the Discipline Committee (an appointed member) holds office for a term of up to 5 years as stated in the notice of appointment.
+  (1) A person who is appointed under section 160(2)﻿(i) to be a member of the Discipline Committee (an appointed member) holds office for a term of up to 5 years as stated in the notice of appointment.
   (2) An appointed member may be reappointed for 1 further term, but the total of the further term together with the initial term must not exceed 7 years.
   (3) An appointed member continues in office despite the expiry of his or her term of office until—
     (a) the member is reappointed; or
@@ -1245,7 +1245,7 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
   (4) An appointed member may resign from office by written notice to the Judge Advocate General.
   (5) An appointed member may at any time be removed from office by written notice from the Judge Advocate General for inability to perform the functions of office, neglect of duty, or misconduct.
   (1) A person who is a member of the Discipline Committee because of his or her office is not entitled to receive any fees, allowances, or expenses for services as a member in addition to his or her remuneration in respect of that office.
-  (2) An appointed member is entitled to receive the fees, allowances, and expenses for services as a member that are fixed or determined by or in accordance with regulations made under section 205(1)(c).
+  (2) An appointed member is entitled to receive the fees, allowances, and expenses for services as a member that are fixed or determined by or in accordance with regulations made under section 205(1)﻿(c).
   The Discipline Committee may regulate its own procedures.
   (1) A quorum for a meeting of the Discipline Committee—
     (a) is the number that is half the number of members; and
@@ -1261,7 +1261,7 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
 
 ### 45 Manner in which sentences of imprisonment and detention are to be served
 (1) Section 168(2A) is amended by omitting section 166 and substituting Part 8.
-(2) Section 168(3)(c) is amended by omitting court-martial or the commanding officer and substituting Court Martial or disciplinary officer.
+(2) Section 168(3)﻿(c) is amended by omitting court-martial or the commanding officer and substituting Court Martial or disciplinary officer.
 
 ### 46 Committal, removal, release, etc., of members of the Armed Forces serving imprisonment or detention
 (1) Section 169(2) is amended by omitting an officer exercising summary powers and substituting a disciplinary officer.
@@ -1274,19 +1274,19 @@ Part 8 is repealed and the following Parts are substituted:Reconsideration of se
 Section 171(3) is amended by omitting the court-martial which sentenced him or any reviewing authority reviewing the proceedings of that court and substituting the Court Martial.
 
 ### 48 Imprisonment and detention of members of other forces attached to Armed Forces
-Section 172(1)(a) is amended by omitting court-martial and substituting the Court Martial.
+Section 172(1)﻿(a) is amended by omitting court-martial and substituting the Court Martial.
 
 ### 49 Imprisonment and detention of members of Armed Forces attached to other forces
 Section 173(2) is amended by omitting court-martial and substituting the Court Martial.
 
 ### 50 Establishment and regulation of service prisons and detention quarters
-Section 175(2)(a) is amended by omitting courts-martial and substituting the Court Martial.
+Section 175(2)﻿(a) is amended by omitting courts-martial and substituting the Court Martial.
 
 ### 51 Commencement of sentences
 (1) Section 177 is amended by repealing subsection (1) and substituting the following subsections:
   (1) A term of imprisonment or detention to which an offender is sentenced under this Act begins to run from the beginning of the day on which the sentence was passed, whether the sentence was passed by the Court Martial or by a disciplinary officer.
   (1A) Subsection (1) is subject to the provisions of this Part.
-(2) Section 177(3)(a) is amended by omitting a court-martial and substituting the Court Martial.
+(2) Section 177(3)﻿(a) is amended by omitting a court-martial and substituting the Court Martial.
 
 ### 52 Effect of period spent in custody before being sentenced
 Section 177A(1) is amended by omitting a court-martial under section 81A of this Act or by an officer exercising summary powers under section 102(5A) of this Act and substituting the Court Martial under section 81A or by a disciplinary officer under section 117Y.
@@ -1295,7 +1295,7 @@ Section 177A(1) is amended by omitting a court-martial under section 81A of this
 (1) Section 178(1) is amended by omitting a court-martial and substituting the Court Martial.
 (2) Section 178(1) is amended by omitting court and substituting Court.
 (3) Section 178(2) and (3) are amended by omitting court-martial and substituting in each case Court Martial.
-(4) Section 178(2)(a), (3)(a), (5)(a), and (6)(a) are amended by omitting review or.
+(4) Section 178(2)﻿(a), (3)﻿(a), (5)﻿(a), and (6)﻿(a) are amended by omitting review or.
 (5) Section 178(4) is amended by omitting a court-martial or an officer exercising summary powers, that court or officer and substituting the Court Martial or a disciplinary officer, the Court or that officer.
 (6) Section 178(5) and (6) are amended by omitting court-martial or the officer exercising summary powers and substituting in each case Court Martial or the disciplinary officer.
 
@@ -1367,7 +1367,7 @@ The definition of qualified medical practitioner in section 187(1) is amended by
 (2) Section 191(2) is amended by omitting court's and substituting Court's.
 (3) Section 191(2) to (5) are amended by omitting court and substituting in each case Court.
 (4) Section 191(4) is amended by omitting report the matter to the convening officer and substituting refer the matter to the Director of Military Prosecutions.
-(5) Section 191(7) is amended by omitting has been approved by a reviewing authority under section 198(4)(a) of this Act.
+(5) Section 191(7) is amended by omitting has been approved by a reviewing authority under section 198(4)﻿(a) of this Act.
 
 ### 64 Duration of order for detention as special patient where defendant unfit to stand trial
 (1) Section 192 is amended by omitting a court-martial in each place where it appears and substituting in each case the Court Martial.
@@ -1450,7 +1450,7 @@ Section 200 is repealed and the following sections are substituted:Interpretatio
   (1) The president may direct a witness to attend before the court—
     (a) by an order given by the president, if the witness is subject to this Act; or
     (b) by a summons signed by the president, if the witness is not subject to this Act.
-  (2) Every summons to a witness issued under subsection (1)(b) must—
+  (2) Every summons to a witness issued under subsection (1)﻿(b) must—
     (a) be in the form prescribed by the Chief of Defence Force; and
     (b) be served on the witness in one of the following ways:
       (i) by being delivered to the witness personally, or by being brought to his or her notice if he or she refuses to accept it:
@@ -1494,14 +1494,14 @@ Section 200 is repealed and the following sections are substituted:Interpretatio
     (f) the person may be legally represented at the inquiry if the president approves.
   (3) If the person notifies the court that he or she does not wish to exercise the rights set out in subsection (2), the president must note the record of proceedings to that effect.
   (4) This section does not apply to an inquiry under section 201 into the absence of a member of the Armed Forces.
-  For the purposes of section 200N(2)(f), the president must take into account the following matters in determining whether a person who is affected or is likely to be affected by an inquiry should be legally represented at the inquiry:
+  For the purposes of section 200N(2)﻿(f), the president must take into account the following matters in determining whether a person who is affected or is likely to be affected by an inquiry should be legally represented at the inquiry:
     (a) the seriousness of any allegations made against, or any potential penalty that may be imposed on, that person:
     (b) whether any questions of law are likely to arise:
     (c) the capacity of that person to present his or her own case:
     (d) any procedural difficulties that are likely to arise:
     (e) the need for reasonable speed in completing the inquiry:
     (f) the need for fairness as between that person and all persons who may appear before the court.
-  (1) If the person who is affected or is likely to be affected by an inquiry wishes to call a witness to give evidence under section 200N(2)(d), the president must take the necessary steps under the rules of procedure to secure the attendance of the witness, unless it is impracticable to do so.
+  (1) If the person who is affected or is likely to be affected by an inquiry wishes to call a witness to give evidence under section 200N(2)﻿(d), the president must take the necessary steps under the rules of procedure to secure the attendance of the witness, unless it is impracticable to do so.
   (2) if it is impracticable to secure the attendance of a witness, the president must note that fact in the record of proceedings.
   (3) Despite subsection (1), if the attendance of a witness is requested by the person affected or likely to be affected and the court of inquiry is satisfied that the attendance of that witness is not properly required by that person, any cost incurred by the Crown in procuring the attendance of the witness may be charged to, and recovered as a debt due by, the person affected or likely to be affected.
   (1) Every document or thing produced in evidence at an inquiry must be made an exhibit.
@@ -1539,7 +1539,7 @@ Section 201(3) is amended by omitting court-martial and substituting the Court M
 (1) Section 202(1) is repealed and the following subsections are substituted:
   (1) A person subject to this Act who is convicted by the Court Martial or as provided in section 201, or is found guilty by a disciplinary officer, of desertion or absence without leave forfeits 1 day's pay and allowances for each day during which he or she was in desertion or absent without leave.
   (1A) However, if the period of absence is less than 24 hours, the Court Martial or the disciplinary officer may cancel the forfeiture under subsection (1), in whole or in part, as the Court Martial or disciplinary officer thinks just.
-(2) Section 202(5)(a) is repealed and the following paragraph.
+(2) Section 202(5)﻿(a) is repealed and the following paragraph.
   (a) is less than 24 hours, it must be counted (except for the purposes of subsection (1A)) as 1 day; or
 
 ### 71 Appointment and functions of Judge Advocate General
@@ -1557,7 +1557,7 @@ Section 203A(2) is repealed and the following subsections are substituted:
 The heading above section 205 is amended by omitting Chief of.
 
 ### 74 Regulations
-(1) Section 205(1)(a) and (aa) are repealed and the following paragraphs substituted:.
+(1) Section 205(1)﻿(a) and (aa) are repealed and the following paragraphs substituted:.
   (a) providing, in cases where a person subject to this Act (whether a member of the Armed Forces or any other person subject to this Act who is paid by the Crown in right of New Zealand) is convicted of any offence by a civil court or the Court Martial or is found guilty of an offence by a disciplinary officer, for all or any of the following:
     (i) the forfeiture of the whole or part of 1 day's pay and allowances for each day or part of a day during which he or she is held in civil or service custody (including imprisonment or detention) after being convicted or found guilty:
     (ii) the forfeiture of the whole or part of 1 day's pay and allowances for each day or part of a day during which he or she is held in civil custody before being convicted or found guilty:
@@ -1566,20 +1566,20 @@ The heading above section 205 is amended by omitting Chief of.
   (aa) if regulations are made for the purposes of paragraph (a), providing for the recovery of any pay and allowances that are to be forfeited under those regulations—
     (i) in the case of any member of the Armed Forces, by deduction from, or withholding or delaying payment of, any money due, owing, or payable to him or her by the Crown in relation to his or her service in the Armed Forces; and
     (ii) in the case of any other person subject to this Act who is paid by the Crown in right of New Zealand, by deduction from the pay or allowances payable to him or her:
-(2) Section 205(1)(b) is amended by omitting court-martial or found guilty by an officer exercising summary powers and substituting the Court Martial or found guilty by a disciplinary officer.
-(3) Section 205(1)(c)(i) to (v) are repealed and the following subparagraphs substituted:.
+(2) Section 205(1)﻿(b) is amended by omitting court-martial or found guilty by an officer exercising summary powers and substituting the Court Martial or found guilty by a disciplinary officer.
+(3) Section 205(1)﻿(c)﻿(i) to (v) are repealed and the following subparagraphs substituted:.
   (i) counsel appointed to advise a person who is being questioned by the service authorities or is being held under close arrest:
   (ii) counsel appointed to appear for the Crown in the Summary Appeal Court, the Court Martial, the Court Martial Appeal Court, or any other court or tribunal that makes, or will make, a determination that may affect service discipline or the operations of the Armed Forces:
   (iii) counsel appointed to appear for an accused or an appellant who is on legal aid in the Summary Appeal Court, the Court Martial, the Court Martial Appeal Court, the Court of Appeal, or the Supreme Court:
   (iv) persons engaged by or under the authority of the Chief of Defence Force to lecture on any matter of service law:
-  (v) the person appointed as a member of the Discipline Committee under section 160(2)(i):
+  (v) the person appointed as a member of the Discipline Committee under section 160(2)﻿(i):
   (vi) counsel appointed to assist a court of inquiry under section 200B(3):
 (4) Section 205(1) is amended by inserting the following paragraph after paragraph (c):.
   (ca) determining the nature and content of the punishments of reduction of rank, forfeiture of seniority, and stay of seniority:
 
 ### 75 Chief of Defence Force orders
 (1) The heading to section 206 is amended by omitting Chief of.
-(2) Section 206(1)(a) is repealed and the following paragraphs are substituted:.
+(2) Section 206(1)﻿(a) is repealed and the following paragraphs are substituted:.
   (a) determining the nature and content of the punishments of stay of seniority, confinement to ship or barracks, extra work and drill, stoppage of leave, and extra duty:
   (ab) limiting the types of offences that a disciplinary officer may try summarily, or otherwise deal with, under Part 5:
   (ac) limiting the amount that a disciplinary officer may, under section 117ZA, order an offender to pay:
@@ -1588,12 +1588,12 @@ The heading above section 205 is amended by omitting Chief of.
   (af) providing for the issue, revocation, suspension, expiry, and renewal of those certificates of competency:
   (ag) providing for the minimum standards for the issue of those certificates of competency (including standards relating to required competence, qualifications, and experience) that must be met for each class of certificate:
   (ah) providing for the terms and conditions subject to which certificates of competency are issued:
-(3) Section 206(1)(b) is amended—
+(3) Section 206(1)﻿(b) is amended—
   (a) by omitting by court-martial and substituting by the Court Martial ; and
   (b) by omitting court and substituting Court ; and
   (c) by omitting in court-martial and substituting in the Court's.
-(4) Section 206(1)(c) is amended by omitting officials of courts-martial and substituting officers of the Court Martial.
-(5) Section 206(1)(e) is repealed and the following paragraphs are substituted:.
+(4) Section 206(1)﻿(c) is amended by omitting officials of courts-martial and substituting officers of the Court Martial.
+(5) Section 206(1)﻿(e) is repealed and the following paragraphs are substituted:.
   (e) providing for legal aid to be granted at public expense in respect of—
     (i) proceedings in the Court Martial (whether in New Zealand or elsewhere):
     (ii) appeals to the Summary Appeal Court or the Court Martial Appeal Court (whether in New Zealand or elsewhere):
