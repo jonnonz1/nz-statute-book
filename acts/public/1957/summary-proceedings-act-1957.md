@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3089,6 +3089,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 32 | Offences in connection with false statements relating to civil union |
 | The Citizens Initiated Referenda Act 1993 | 43(4)(a) | Making false returns |
 |  | 43(4)(b) | Illegal practice regarding returns |
+| Climate Change Response Act 2002 | 133 | Evasion or similar offences |
 | The Commerce Act 1975 | 81F | Offences in relation to monopolies, mergers, and takeovers |
 |  | 81H(4) | Contravention of order restraining proposed transaction or sale of assets |
 | The Companies Act 1955 | 188A | Certain persons prohibited from managing companies |
