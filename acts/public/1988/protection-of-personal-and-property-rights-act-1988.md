@@ -1,5 +1,5 @@
 # Protection of Personal and Property Rights Act 1988
-_Consolidation as at 2009-05-18_
+_Consolidation as at 2009-07-01_
 
 > An Act to provide for the protection and promotion of the personal and property rights of persons who are not fully able to manage their own affairs
 
@@ -371,9 +371,9 @@ For the purpose of enabling Public Trust to exercise effectively any of the powe
 (3) All such expenses, commissions, and other charges shall be payable out of the estate of the person subject to a property order notwithstanding that the person dies or his or her property otherwise ceases to be under the management of Public Trust before such payment is made.
 
 ### 41 Application of Maori Trustee Act 1953
-(1) The management of the property of a person subject to a property order in respect of which the Maori Trustee is the manager or one of the managers shall be deemed to be placed in the Maori Trust Office; and, subject to the provisions of this Act, all the provisions of the Maori Trustee Act 1953, so far as they are applicable and with any necessary modifications, shall extend and apply accordingly to the management of that person's property.
-(2) All expenses incurred by the Maori Trustee as manager, whether alone or together with any other person or persons, in respect of the maintenance of any person subject to a property order or in the management of the property of any such person, or in the exercise of the powers, authorities, and discretions conferred on the Maori Trustee in respect of that property, shall be charged against and payable out of that person's property; and, in addition, there shall be payable in respect of that property the commissions and other charges from time to time prescribed by regulations made under section 48 of the Maori Trustee Act 1953.
-(3) All such expenses, commissions, and other charges shall be payable out of the estate of the person subject to a property order notwithstanding that the person dies or his or her property otherwise ceases to be under the management of the Maori Trustee before such payment is made.
+(1) The management of the property of a person subject to a property order in respect of which the Māori Trustee is the manager or one of the managers shall be deemed to be placed in the Māori Trustee; and, subject to the provisions of this Act, all the provisions of the Maori Trustee Act 1953, so far as they are applicable and with any necessary modifications, shall extend and apply accordingly to the management of that person's property.
+(2) All expenses incurred by the Māori Trustee as manager, whether alone or together with any other person or persons, in respect of the maintenance of any person subject to a property order or in the management of the property of any such person, or in the exercise of the powers, authorities, and discretions conferred on the Māori Trustee in respect of that property, shall be charged against and payable out of that person's property; and, in addition, there shall be payable in respect of that property the commissions and other charges from time to time prescribed by regulations made under section 48 of the Maori Trustee Act 1953.
+(3) All such expenses, commissions, and other charges shall be payable out of the estate of the person subject to a property order notwithstanding that the person dies or his or her property otherwise ceases to be under the management of the Māori Trustee before such payment is made.
 
 ### 42 Manager's powers subject to provisions of personal order
 Where a property order is made in respect of any person subject to a personal order, the exercise by the manager of the rights and powers conferred by or under this Part of this Act shall be subject to the terms of the personal order.
