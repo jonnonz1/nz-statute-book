@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2008-06-13_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
