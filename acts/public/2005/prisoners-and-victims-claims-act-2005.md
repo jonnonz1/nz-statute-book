@@ -1,5 +1,5 @@
 # Prisoners' and Victims' Claims Act 2005
-_Consolidation as at 2007-10-01_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Prisoners’ and Victims’ Claims Act 2005.
@@ -37,6 +37,7 @@ In this Act, unless the context otherwise requires,—
     (b) for the purposes only of subpart 2 of Part 2, includes any form of monetary compensation or damages (however described) required to be paid as, or as part of, an out-of-court final settlement of a claim (including, without limitation, an amount paid in final settlement of a claim for an amount of, or in the nature of, exemplary damages); and
     (c) includes an amount or award of interest related to compensation or damages in paragraph (a) or (b); but
     (d) does not include an amount required or agreed to be paid as, or towards, the costs of making a claim
+  - **Court Martial** means the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007
   - **detention quarter** means a building or part of a building set aside under the Armed Forces Discipline Act 1971 as a detention quarter
   - **fine** includes—
     (a) a sum of money adjudged or ordered to be paid by a conviction or order, whether described as a fine or as costs, expenses, fees, or otherwise:
@@ -95,14 +96,14 @@ In this Act, unless the context otherwise requires,—
       (ii) disobedience of a court order; or
       (iii) contempt of court
   - **service detainee** means a person who is—
-    (a) undergoing a sentence, imposed under the Armed Forces Discipline Act 1971 by a court martial or an officer exercising summary powers, that includes the punishment of detention; and
+    (a) undergoing a sentence, imposed under the Armed Forces Discipline Act 1971 by the Court Martial or a disciplinary officer, that includes the punishment of detention; and
     (b) in accordance with that Act, for the time being in or outside New Zealand—
       (i) in civil custody or service custody while awaiting delivery to the prison, penal institution, or service penal establishment in which he or she is to serve his or her sentence; or
       (ii) serving the term of his or her detention in a detention quarter, in service custody, or as field punishment
   - **service penal establishment** has the same meaning as in section 2(1) of the Armed Forces Discipline Act 1971
   - **service prison** has the same meaning as in section 2(1) of the Armed Forces Discipline Act 1971
   - **service prisoner** means a person who is—
-    (a) undergoing a sentence, imposed under the Armed Forces Discipline Act 1971 by a court martial, that includes imprisonment; and
+    (a) undergoing a sentence, imposed under the Armed Forces Discipline Act 1971 by the Court Martial, that includes imprisonment; and
     (b) in accordance with that Act, for the time being in or outside New Zealand—
       (i) in civil custody or service custody while awaiting delivery to the prison, penal institution, or service penal establishment in which he or she is to serve his or her sentence; or
       (ii) serving the sentence of imprisonment in a prison, penal institution, service prison, detention quarter, or in other service custody
@@ -118,10 +119,10 @@ In this Act, unless the context otherwise requires,—
 ### 5 Offender
 (1) In this Act, offender, in relation to a victim, means—
   (a) for the purposes only of subpart 3 of Part 2, a person—
-    (i) convicted (alone or with others) by a court or court martial of the offence that affected the victim; and
-    (ii) on whom a court or court martial has, because of the person’s conviction for that offence, imposed a sentence of imprisonment (the sentence of imprisonment for the offence); and
-  (b) for all other purposes, a person found guilty (alone or with others) by a court or court martial of the offence that affected the victim, or found guilty of that offence (alone or with others) by an officer exercising summary powers under the Armed Forces Discipline Act 1971, or who pleads guilty to that offence (alone or with others) before a court or court martial or an officer exercising those powers.
-(2) For the purposes of subsection (1)(a), it does not matter whether, at the time the court or court martial imposed the sentence of imprisonment for the offence, the person was already subject to, or was at that time or later also made subject to, a sentence of imprisonment for another offence or offences.
+    (i) convicted (alone or with others) by a court or the Court Martial of the offence that affected the victim; and
+    (ii) on whom a court or the Court Martial has, because of the person’s conviction for that offence, imposed a sentence of imprisonment (the sentence of imprisonment for the offence); and
+  (b) for all other purposes, a person found guilty (alone or with others) by a court or the Court Martial of the offence that affected the victim, or found guilty of that offence (alone or with others) by a disciplinary officer under the Armed Forces Discipline Act 1971, or who pleads guilty to that offence (alone or with others) before a court or the Court Martial or a disciplinary officer.
+(2) For the purposes of subsection (1)(a), it does not matter whether, at the time the court or the Court Martial imposed the sentence of imprisonment for the offence, the person was already subject to, or was at that time or later also made subject to, a sentence of imprisonment for another offence or offences.
 
 ### 6 Specified claim
 (1) In this Act, specified claim means a claim for compensation, made by or on behalf of a person (the plaintiff) who is or was a person under control or supervision, and based on—
@@ -336,12 +337,12 @@ In sections 22 and 28, sending date, in relation to a notice required by section
   (a) who may be or is a victim of the accused or the offender; and
   (b) who asked for notice of certain matters under that Act and gave his or her current address for that purpose.
 (3) To help to identify, and ascertain the contact details of, people who may be or are victims of the accused or the offender, the Secretary may, by making a request for the purpose to the appropriate Registrar or Judge Advocate General, and without paying a fee, access or search, inspect, and take or be issued with copies of or extracts from, court documents or records that—
-  (a) relate to criminal proceedings, proceedings of a court martial held under the Armed Forces Discipline Act 1971, or proceedings of an officer exercising summary powers under that Act; and
+  (a) relate to criminal proceedings, proceedings of a disciplinary officer under the Armed Forces Discipline Act 1971, or proceedings of the Court Martial; and
   (b) are or may be relevant to that purpose.
 (4) Those court documents or records include the ones specified in section 35(2)(a) to (d).
 (5) The Secretary is not required by this section to take steps to ascertain the contact details of a person if the Secretary believes on reasonable grounds that a limitation defence could be pleaded successfully in response to a victim’s claim made by that person.
 
-### 25 Access to records of court martial proceedings, etc, to identify, and ascertain contact details of, victims
+### 25 Access to records of the Court Martial proceedings, etc, to identify, and ascertain contact details of, victims
 (1) This section applies to a document or record specified in section 35(2)(c) or (d), requested under section 24(3), and that the Judge Advocate General considers, and has advised the Secretary, should not be disclosed for reasons of security.
 (2) The Secretary cannot access or search, inspect, and take or be issued with copies or extracts from, the document or record.
 (3) The Judge Advocate General may, if he or she thinks fit, perform the Secretary’s duties under sections 20 to 24 so far as they relate to and arise from the document or record.
@@ -399,7 +400,7 @@ No fee is payable to the Secretary of the Tribunal for filing a document relatin
   (b) a notice that, under section 22, is given as an addition to the notice.
 (3) The Chief District Court Judge may designate a Tribunal for 1 or more specified groups of claims, or 1 or more specified classes of groups of claims, filed under section 28.
 (4) The Chief District Court Judge may designate another Tribunal to deal with some or all of a claim or application if the Tribunal to which it has been referred under this section is, because of exceptional circumstances, unable to deal with all or that part of the claim or application.
-(5) However, the Chief District Court Judge must consult with the Judge Advocate General before designating a Tribunal under this section if a claim to which the designation relates involves an offender convicted by a court martial, or found guilty by an officer exercising summary powers, under the Armed Forces Discipline Act 1971.
+(5) However, the Chief District Court Judge must consult with the Judge Advocate General before designating a Tribunal under this section if a claim to which the designation relates involves an offender convicted by the Court Martial, or found guilty by a disciplinary officer, under the Armed Forces Discipline Act 1971.
 
 ### 31 Offender to be given copy of claim and reasonable opportunity to make written submission on it
 (1) Before determining a victim’s claim, the Tribunal must—
@@ -433,7 +434,7 @@ The Tribunal cannot determine a victim’s claim filed under section 28 until—
 
 ### 35 Access to relevant court documents or records
 (1) To help to determine a claim filed under section 28, the Tribunal may, by making a request for the purpose to the appropriate Registrar or to the Judge Advocate General, and without paying a fee, access or search, inspect, and take or be issued with copies of or extracts from, court documents or records that—
-  (a) relate to criminal proceedings, proceedings of a court martial held under the Armed Forces Discipline Act 1971, or proceedings of an officer exercising summary powers under that Act; and
+  (a) relate to criminal proceedings, proceedings of a disciplinary officer under the Armed Forces Discipline Act 1971, or proceedings of the Court Martial; and
   (b) are or may be relevant to the determination of the claim.
 (2) Those court documents or records include—
   (a) criminal records kept under section 71 of the Summary Proceedings Act 1957, including—
@@ -442,16 +443,16 @@ The Tribunal cannot determine a victim’s claim filed under section 28 until—
   (b) documents referred to in the Criminal Proceedings (Search of Court Records) Rules 1974, including—
     (i) the register of persons committed for trial and sentence, the register commonly known as the Return of Prisoners Tried and Sentenced, and the indexes to those registers; and
     (ii) a file, or part of a file, or document relating to a criminal proceeding; and
-  (c) records of court martial proceedings delivered to, and kept in accordance with the directions of, the Judge Advocate General, under section 145 of the Armed Forces Discipline Act 1971; and
-  (d) any documents or records (for example, a charge report) created in connection with, and retained after, the summary disposal of a charge by an officer exercising summary powers under the Armed Forces Discipline Act 1971.
+  (c) records of Court Martial proceedings delivered to, and kept in accordance with the directions of, the Judge Advocate General, under section 75 of the Court Martial Act 2007; and
+  (d) any documents or records (for example, a charge report) created in connection with, and retained after, the summary trial or disposal of a charge by a disciplinary officer under the Armed Forces Discipline Act 1971.
 
-### 36 Access to records of court martial proceedings, etc, to help to determine victims’ claims
+### 36 Access to records of Court Martial proceedings, etc, to help to determine victims’ claims
 (1) This section applies to a document or record specified in section 35(2)(c) or (d), requested under section 35(1), and that the Judge Advocate General considers, and has advised the Secretary, should not be disclosed for reasons of security.
 (2) The Tribunal must not access or search, inspect, and take or be issued with copies or extracts from, the document or record, and must not use it for the purpose in section 35(1), except with the permission of, and in accordance with any conditions specified by, the Judge Advocate General.
 (3) The Tribunal must comply with, and take all reasonably practicable steps to ensure others comply with, conditions specified by the Judge Advocate General.
 (4) This section overrides section 35.
 
-### 37 Relevant findings in criminal proceedings or proceedings of court martial or officer to be evidence
+### 37 Relevant findings in criminal proceedings or proceedings of Court Martial or officer to be evidence
 (1) A finding of fact is conclusive evidence of the matters to which it relates for the purposes of the determination of a victim’s claim filed under section 28 if the finding—
   (a) is recorded in a court document or record referred to in, and accessed under, section 35(1); and
   (b) is, in the Tribunal’s opinion, relevant to the determination of the claim.
