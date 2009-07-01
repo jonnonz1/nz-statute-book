@@ -1,5 +1,5 @@
 # Court Martial Appeals Amendment Act 2007
-_Consolidation as at 2007-11-23_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Court Martial Appeals Amendment Act 2007.
