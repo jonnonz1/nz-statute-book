@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2007-07-01_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -35,7 +35,9 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to the Court of Appeal, the President of the Court of Appeal:
     (c) in relation to the High Court, the Chief High Court Judge:
     (d) in relation to the Employment Court, the Chief Judge of the Employment Court:
-    (e) in relation to the Courts Martial Appeal Court, the Chief Justice:
+    (eaa) in relation to the Court Martial, the Judge Advocate General:
+    (e) in relation to the Court Martial Appeal Court, the Chief High Court Judge:
+    (ea) in relation to the Summary Appeal Court of New Zealand, the Judge Advocate General:
     (f) in relation to a District Court, the Chief District Court Judge:
     (g) in relation to the Environment Court, the Principal Environment Judge:
     (h) in relation to the Maori Land Court, the Chief Judge of the Maori Land Court:
@@ -46,7 +48,8 @@ In this Act, unless the context otherwise requires,—
       (ii) a Judge of the Court of Appeal; or
       (iii) a Judge or an Associate Judge of the High Court; or
       (iv) a Judge of the Employment Court; or
-      (v) a Judge of the Courts Martial Appeal Court; or
+      (iva) a Judge of the Court Martial; or
+      (v) a Judge of the Court Martial Appeal Court; or
       (vi) a District Court Judge; or
       (vii) a Judge of the Environment Court; or
       (viii) a Judge of the Maori Land Court; or
