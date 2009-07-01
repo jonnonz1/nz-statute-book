@@ -1,5 +1,5 @@
 # Visiting Forces Act 2004
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Visiting Forces Act 2004.
@@ -18,7 +18,7 @@ The purpose of this Act is—
 ### 4 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **applicable agreement** , in relation to a visiting force, means a status of forces agreement entered into between New Zealand and the sending State (the text of which agreement may, as provided in subsection (2), be set out in regulations made under section 23)
-  - **armed forces** , in relation to a sending State, includes any armed forces raised in any territory for whose international relations the government of that State is responsible
+  - **armed forces** , in relation to a sending State, includes any armed forces raised in any territory for whose international relations the Government of that State is responsible
   - **Armed Forces of New Zealand** has the same meaning as Armed Forces has in section 2(1) of the Defence Act 1990
   - **civilian component** , in relation to a visiting force, means the civilian personnel who are neither New Zealand citizens nor ordinarily resident in New Zealand, and who—
     (a) are employed by or in the service of the visiting force; or
@@ -82,7 +82,7 @@ The service authorities of a visiting force may, within New Zealand, exercise an
   (c) if proved, would constitute an offence against New Zealand law.
 (4) Nothing in this Act affects or limits any power conferred on the service authorities of a visiting force by the law of the sending State, being a power to—
   (a) arrest, identify, detain, or search a member of the visiting force, a, member of its civilian component, or a dependant; or
-  (b) enter and search any ship, aircraft, vehicle, or premises belonging to or occupied by the visiting force or a person referred to in paragraph (a); or .
+  (b) enter and search any ship, aircraft, vehicle, or premises belonging to or occupied by the visiting force or a person referred to in paragraph (a); or
   (c) seize or take possession of any property, article, or thing found on or in the possession of any person referred to in paragraph (a) or in or on any ship, aircraft, vehicle, or premises referred to in paragraph (b).
 (5) Section 99 of the Armed Forces Discipline Act 1971, with the necessary modifications, applies to property, articles, and things referred to in subsection (4)(c) that—
   (a) are seized or taken into possession by the service authorities of a visiting force; and
@@ -109,7 +109,7 @@ The service authorities of a visiting force may, within New Zealand, exercise an
 **Arrest**
 
 ### 11 Arrest of members of visiting forces
-(1) If a person arrests a member of a visiting force, a member of its civilian component, or a dependant, the person making the arrest (or any of the person's superiors) must notify the service authorities of the visiting force of the arrest as soon as practicable after the arrest.
+(1) If a person arrests a member of a visiting force, a member of its civilian component, or a dependant, the person making the arrest (or any of the person’s superiors) must notify the service authorities of the visiting force of the arrest as soon as practicable after the arrest.
 (2) If a person charged with an offence against the law of New Zealand appears to the court to be a member of a visiting force, a member of its civilian component, or a dependant,—
   (a) the court must determine the period it considers reasonable to enable inquiries to be made for the purpose of determining the status of the person; and
   (b) further proceedings in respect of the offence charged are stayed for that period.
@@ -119,10 +119,10 @@ The service authorities of a visiting force may, within New Zealand, exercise an
 
 ### 12 Application of provisions of Armed Forces Discipline Act 1971
 The following provisions of the Armed Forces Discipline Act 1971, with the necessary modifications, apply in relation to proceedings held in New Zealand by a service tribunal of a visiting force:
-  (a) section 141 (privileges and immunities of judge advocates and members of courts-martial, and protection of witnesses and counsel):
-  (b) section 144 (powers of courts-martial in relation to contempt):
-  (c) section 146 (witnesses may be compelled to attend courts-martial):
-  (d) section 200(5) to (7) (privileges and immunities of members of and persons appearing before courts of inquiry).
+  (a) section 150A (protection of military tribunals and courts of inquiry from civil proceedings):
+  (b) section 150B (privileges and immunities of witnesses and of certain other persons appearing before military tribunals or courts of inquiry):
+  (c) section 150C (power to summons witnesses):
+  (d) sections 150E to 150G (contempt of military tribunals or courts of inquiry).
 
 ### 13 New Zealand courts not to try offenders for offences already disposed of
 Section 21 of the Armed Forces Discipline Act 1971 (which relates to the principle that a person is not to be tried under that Act and under the civil law in respect of the same act or omission) applies in relation to a person who has been charged with an offence before, or had an offence taken into consideration by, a service tribunal of the sending State as if the offence had been dealt with under that Act.
@@ -141,8 +141,8 @@ Section 21 of the Armed Forces Discipline Act 1971 (which relates to the princip
 The following may not be called into question in any proceedings before a New Zealand court:
   (a) the proceedings of a service tribunal of a visiting force:
   (b) any sentence passed or order made by the service tribunal:
-  (c) any investigation carried out by the service authorities of the visiting force that is relevant to the service tribunal's proceedings:
-  (d) the exercise, by the service authorities, of any power referred to in section 8(4) that is relevant to the service tribunal's proceedings.
+  (c) any investigation carried out by the service authorities of the visiting force that is relevant to the service tribunal’s proceedings:
+  (d) the exercise, by the service authorities, of any power referred to in section 8(4) that is relevant to the service tribunal’s proceedings.
 
 ### 16 Proceedings relating to conditions of service of member of visiting force or civilian component
 No proceedings in respect of the conditions of service of a member of a visiting force or a member of its civilian component may be brought in a New Zealand court.
@@ -185,7 +185,7 @@ No proceedings in respect of the conditions of service of a member of a visiting
   (a) if the coroner has not opened an inquiry into the death, he or she must not open an inquiry into the death until the criminal or disciplinary proceedings against the person have been finally concluded:
   (b) if an inquiry has been opened but is not then completed, the coroner must adjourn the inquiry until the criminal or disciplinary proceedings against the person have been finally concluded.
 (7) Subsection (6) does not prevent a coroner from—
-  (a) taking evidence of the fact that the person has died, of the person's identity, and of the place and date of death; or
+  (a) taking evidence of the fact that the person has died, of the person’s identity, and of the place and date of death; or
   (b) providing information to a Registrar for the purpose of registering the death; or
   (c) authorising the release of the body.
 
@@ -241,96 +241,3 @@ The Acts specified in Schedule 2 are amended in the manner set out in that sched
 ## Schedule 1 — Revocations
 
 ## Schedule 2 — Consequential amendments to other Acts
-
-### 9 Members of other forces attached to Armed Forces under section 23A of Defence Act 1990
-A member of the armed forces of another State who is attached to the Armed Forces of New Zealand under section 23A of the Defence Act 1990 is, subject to any express provision in the law of that other State to the contrary, subject to this Act.
-
-### 89A Arrest of members of visiting forces
-(1) If the officer commanding a visiting force has reasonable grounds to suspect that a member of the force, a member of its civilian component, or a dependant has committed an offence against the service law of the sending State, the officer may issue a warrant for the arrest of that person.
-(2) If a warrant is issued under subsection (1),—
-  (a) subsections (2), (3), (5), and (6) of section 89 apply; and
-  (b) the warrant must specify the maximum punishment for the offence under the service law of the sending State.
-(3) A member of the police who arrests a person in execution of a warrant issued under subsection (1) must, as soon as practicable, deliver that person into the custody of the visiting force.
-(4) The provisions of this section are in addition to those of section 92A.
-
-### 92A Arrest of deserters from other armed forces
-(1) If the Government of a State has specifically requested that a person (other than a New Zealand citizen) who is alleged to be illegally absent from the armed forces of the State be apprehended or dealt with under this section by New Zealand authorities,—
-  (a) a warrant for the arrest of the person may be issued under section 89 as if the person had committed the offence of desertion or absence without leave under this Act:
-  (b) section 89 applies with the necessary modifications:
-  (c) the warrant must specify the maximum punishment for the offence under the service law of the sending State.
-(2) A person who is delivered into service custody under a warrant issued under subsection (1) must, as soon as practicable, be handed over to the authorities of the other State at such place in New Zealand as may be agreed.
-(3) The authorities of the other State into whose custody a person is delivered under this section may detain the person and may remove the person from New Zealand, but nothing in this subsection limits any other powers that the authority may have in relation to the person.
-(4) The provisions of subsections (3) to (7) of section 101 do not apply to any person to whom subsection (2) applies.
-
-### 93B Detention in service custody of members of visiting force
-(1) A person to whom this subsection applies may be delivered into service custody and detained in service custody pending his or her trial.
-(2) Subsection (1) applies to a member of a visiting force, a member of its civilian component, or a dependant who has been arrested for an offence against—
-  (a) the service law of the sending State; or
-  (b) the law of New Zealand.
-(3) The provisions of subsections (3) to (7) of section 101 do not apply to any person to whom subsection (1) applies.
-
-### 93C Police not to deliver custody of arrested person without consent of Minister of Justice in certain cases
-(1) This section applies if a person is arrested or held in custody by the police undersection 89A or section 92A or section 93B in respect of an offence against the law of another State that is subject to—
-  (a) a sentence of death; or
-  (b) a punishment that would, if carried out by a member of the Armed Forces of New Zealand, constitute an offence against the Crimes of Torture Act 1989.
-(2) If this section applies, the police must not deliver that person into the custody of the visiting force or, as the case may be, the authorities of the other State without the written consent of the Minister of Justice.
-
-### 124 Eligibility of officers of other forces to be members of court-martial
-(1) If it is necessary to convene a court-martial to try an accused at a place where, or in circumstances in which, in the opinion of the convening officer, the minimum requisite number of eligible officers cannot, having regard to the exigencies of the Armed Forces, be appointed as members of the court, any officer of a force of another State that is for the time being declared to be serving together with a New Zealand force under section 23B of the Defence Act 1990 is eligible to be appointed as the president or as a member of the court.
-(2) Subsection (1) is subject to subsections (3) and (4).
-(3) No officer is eligible to be appointed as a member of a court-martial under subsection (1) unless—
-  (a) that officer has served as an officer for one or more periods totalling not less than 3 years; and
-  (b) the rank held by that officer is not lower than a relative rank to that prescribed by section 120 or section 121 of this Act as a qualification for a member of a court-martial to try the accused.
-(4) The number of officers appointed to a court-martial under subsection (1) must not exceed the number of officers of the Armed Forces of New Zealand who are appointed to the court.
-
-### 172 Imprisonment and detention of members of other forces attached to Armed Forces
-(1) This section applies if—
-  (a) a member of the armed forces of another State is attached to any Service under section 23A of the Defence Act 1990 and is sentenced by court-martial under this Act to imprisonment or detention; and
-  (b) an arrangement is for the time being in force with the appropriate authority of that State that enables the return of the member for the purpose of serving any such sentence in that State.
-(2) A competent service authority may give directions for the delivery of the member so sentenced into the custody of the forces of that State (whether in New Zealand or elsewhere) and his or her removal to that State for the purpose of serving the sentence.
-(3) Any member of the forces of any State in respect of whom any such directions are given by a competent service authority may, until that member is delivered into the custody of those forces, be kept in service custody or civil custody, or partly in service custody or partly in civil custody.
-(4) Any such member may, by order of a competent service authority, from time to time be transferred from service custody to civil custody or from civil custody to service custody, as the occasion may require.
-(5) Any such member may during his or her transfer from one place to another, whether on board a ship or an aircraft or other means of transport, be subjected only to such restraint as may be necessary to ensure his or her safe conduct and removal.
-
-### 173 Imprisonment and detention of members of Armed Forces attached to other forces
-(1) This section applies if—
-  (a) a member of the Armed Forces is attached to the forces of another State under section 23 of the Defence Act 1990 and is sentenced by court-martial of those forces to imprisonment or detention; and
-  (b) an arrangement is for the time being in force with the appropriate authority in that State that enables the return of the member to serve his or her sentence—
-    (i) in New Zealand; or
-    (ii) in a penal institution, or in a service prison or detention quarter established under this Act (whether in New Zealand or elsewhere); and
-  (c) under that arrangement the member is received into the custody of a New Zealand force (whether in New Zealand or elsewhere).
-(2) The provisions of this Act apply to that member in all respects, with the necessary modifications, as if the member had been sentenced by court-martial under this Act.
-
-### 34 Deaths in New Zealand to be notified and registered
-(1) Every death in New Zealand must be notified and registered in accordance with this Part.
-(2) Subsection (1) does not apply to a death to which section 19(1) of the Visiting Forces Act 2004 applies.
-
-### 17 Relative ranks
-(1) For the purpose of this Act and the Armed Forces Discipline Act 1971, the Chief of Defence Force may prescribe the relative ranks of the Armed Forces and of the armed forces of other States.
-(2) Any order made for the purposes of subsection (1) may prescribe the relationship that is to be regarded as existing between relative ranks for the purposes of this Act and the Armed Forces Discipline Act 1971.
-
-### 23 Attachment of members of New Zealand Armed Forces to other armed forces
-(1) The Chief of Defence Force may place a specified member, or a specified class of members, of the Armed Forces at the disposal of the service authorities of another State for the purpose of being attached by those authorities to the armed forces of that State.
-(2) The power conferred on the Chief of Defence Force by subsection (1) may be exercised only in respect of—
-  (a) members of the regular forces; and
-  (b) members of the territorial or reserve forces who are for the time being—
-    (i) liable for continuous service under a Proclamation issued under section 39 or section 40; or
-    (ii) liable to serve outside New Zealand under an offer under section 50.
-(3) Except in time of war or other like emergency, or in the event of an actual or imminent emergency involving the deployment of members of the Armed Forces outside New Zealand, a member of the Armed Forces may not be dealt with under subsection (2)(b)(ii) without that member's consent.
-(4) A member of the Armed Forces attached to the armed forces of another State under subsection (1) remains subject to this Act and the Armed Forces Discipline Act 1971 and to the law applicable to those forces.
-
-### 23A Attachment of members of other armed forces to New Zealand Armed Forces
-(1) The Chief of Defence Force may attach to any of the Services a specified member, or a specified class of members, of the armed forces of another State if that member or class of members is placed at the disposal of the Chief of Defence Force for the purpose of being attached to a Service.
-(2) If a member of the armed forces of another State is attached to a Service under subsection (1), the member—
-  (a) has, in the Service to which he or she has been attached, the same powers under this Act and the Armed Forces Discipline Act 1971 as if he or she were a member of that Service holding a relative rank; and
-  (b) must be treated for the purposes of this Act and the Armed Forces Discipline Act 1971 as if he or she were a member of that Service holding a relative rank.
-(3) Subsection (2) applies subject to such other exemptions or modifications as may be prescribed.
-
-### 23B Mutual powers of command when forces acting together
-(1) When a New Zealand force and a force of another State are serving together, whether alone or not, members of the other force—
-  (a) must be treated as if they were members of the Armed Forces of a relative rank; and
-  (b) have over members of the New Zealand force the powers of command of a member of the Armed Forces of a relative rank.
-(2) For the purpose of subsection (1), a New Zealand force and a force of another State are serving together only if they are declared to be so serving together by order of the Chief of Defence Force.
-
-### 109 Arrest of deserters from other armed forces
-This Act does not limit or affect section 89A or section 92A or section 93B or section 93C of the Armed Forces Discipline Act 1971.
