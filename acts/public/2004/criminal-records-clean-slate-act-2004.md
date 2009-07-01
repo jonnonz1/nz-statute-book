@@ -1,5 +1,5 @@
 # Criminal Records (Clean Slate) Act 2004
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Criminal Records (Clean Slate) Act 2004.
@@ -28,7 +28,7 @@ In this Act, unless the context otherwise requires,—
   - **conceal** means to protect the criminal record or information about the criminal record of an eligible individual from disclosure to a person, body, or agency (including, without limitation, a government department or law enforcement agency) for which there is no lawful authority under this Act to disclose the criminal record or any information about the criminal record
   - **conviction** —
     (a) means a conviction entered by a court in New Zealand for an offence, including a conviction for a traffic offence; and
-    (b) does not include a conviction entered by a court or court-martial under the Armed Forces Discipline Act 1971 or resulting from an appeal from a decision under that Act
+    (b) does not include a conviction entered by the Court Martial of New Zealand or a disciplinary officer under the Armed Forces Discipline Act 1971 or resulting from an appeal from a decision under that Act
   - **criminal record** means,—
     (a) in relation to a question asked of an individual, any—
       (i) charges laid against him or her that have resulted in conviction; and
