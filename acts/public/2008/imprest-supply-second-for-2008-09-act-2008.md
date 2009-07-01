@@ -1,5 +1,5 @@
 # Imprest Supply (Second for 2008/09) Act 2008
-_Consolidation as at 2008-08-12_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Imprest Supply (Second for 2008/09) Act 2008.
