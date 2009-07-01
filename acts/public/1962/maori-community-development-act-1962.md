@@ -1,5 +1,5 @@
 # Maori Community Development Act 1962
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-07-01_
 
 > An Act to provide for the constitution of Maori Associations, to define their powers and functions, and to consolidate and amend the Maori Social and Economic Advancement Act 1945
 
@@ -193,7 +193,7 @@ With respect to meetings of Maori Associations, the following provisions shall a
 ## Part  — Financial provisions
 
 ### 24 Contributions to funds
-Any local authority or other public body, corporation sole, company, or other corporate body, trustee (including the Maori Trustee) or any other person may, unless expressly prohibited by any Act or by any instrument of trust, make to any Maori Association donations or gifts of money for the purpose of augmenting the funds of that Association.
+Any local authority or other public body, corporation sole, company, or other corporate body, trustee (including the Māori Trustee) or any other person may, unless expressly prohibited by any Act or by any instrument of trust, make to any Maori Association donations or gifts of money for the purpose of augmenting the funds of that Association.
 
 ### 25 Subsidies
 (1) Subject to any regulations under this Act, any expenditure by a Maori Committee or a Maori Executive Committee may, with the approval of the Minister, be subsidised out of money appropriated by Parliament for the purpose at a rate not exceeding $2 for $2.
