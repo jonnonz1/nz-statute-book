@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-07-01_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -554,7 +554,7 @@ Without limiting the power to make regulations under section 101, regulations ma
 **Miscellaneous provisions relating to service**
 
 ### 49 Redress of complaints
-(1) Except in respect of a matter that would properly be the subject of an appeal under the Courts Martial Appeals Act 1953, or a petition under section 162 of the Armed Forces Discipline Act 1971, any member of the Armed Forces who considers that he or she has been wronged in any matter may make a complaint as of right to such Service authority and in such manner as may be prescribed in Defence Force Orders.
+(1) Except in respect of a matter that would properly be the subject of an appeal under the Court Martial Appeals Act 1953 or the Armed Forces Discipline Act 1971, any member of the Armed Forces who considers that he or she has been wronged in any matter may make a complaint as of right to such Service authority and in such manner as may be prescribed in Defence Force Orders.
 (2) If the complainant is not satisfied with the decision of the authority to whom the complaint was made, and that authority refuses or fails, when requested to do so, to forward the complaint to the next superior authority, the complainant shall be entitled to make a complaint direct to the next superior authority, and, in the case of any further refusal or failure, to the next superior authority, and so on as prescribed.
 (3) It is the duty of any authority receiving a complaint under this section to investigate it or have it investigated as soon as practicable and to take such steps for redressing the complaint as appear to that authority to be necessary.
 
@@ -1017,3 +1017,14 @@ The provisions of the Public Finance Act 1989, so far as they are applicable and
 ## Schedule 1 — Enactments consequentially amended
 
 ## Schedule 2 — Enactments repealed
+
+### 1 Title
+This Act is the Defence Amendment Act (No 2) 2007.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made appointing different dates for different provisions.
+
+### 4 Redress of complaints
+(1) Amendment(s) incorporated in the Act(s).
+(2) All complaints under section 49 of the principal Act that have been made before the commencement of this section and that have not been finally dealt with before that commencement are to be dealt with as if that section had not been amended by this section.
+(3) Every authority referred to in section 49 of the principal Act continues to have and may exercise all its powers, functions, and duties under that section for the purpose of giving effect to subsection (2).
