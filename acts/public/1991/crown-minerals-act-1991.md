@@ -1,11 +1,11 @@
 # Crown Minerals Act 1991
-_Consolidation as at 2008-11-06_
+_Consolidation as at 2009-07-01_
 
 > An Act to restate and reform the law relating to the management of Crown owned minerals
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crown Minerals Act 1991.
-(2) This Act shall come into force on the 1st day of October 1991.
+(2) This Act shall come into force on 1 October 1991.
 
 ## Part 1 — Crown owned minerals
 
@@ -30,7 +30,7 @@ _Consolidation as at 2008-11-06_
   - **crop** means plants grown on cultivated land, the produce of which is to be harvested
   - **Crown land** means all land held in allodium by, or the fee simple title to which is vested in, the Crown whether by virtue of Crown prerogative, operation of law, any enactment, or any deed or instrument; and includes—
     (a) land alienated by way of lease or licence under section 66, section 68, or section 69 of the Land Act 1948; and
-    (b) crown land within the meaning of paragraphs (a) to (f) of the definition of the term Crown land in section 2 of the Land Act 1948:
+    (b) Crown land within the meaning of paragraphs (a) to (f) of the definition of the term Crown land in section 2 of the Land Act 1948
   - **Crown owned mineral** means any mineral that is the property of the Crown
   - **current** means, in relation to a permit, that the permit has been granted and has not expired or been surrendered or revoked; and has a corresponding meaning
   - **discovery** means the discovery of a deposit or occurrence of a mineral
@@ -38,7 +38,7 @@ _Consolidation as at 2008-11-06_
   - **dwellinghouse** means any building, whether permanent or temporary, that is occupied, in whole or in part, as a residence; and includes any structure or outdoor living area that is accessory to, and used wholly or principally for the purposes of, the residence; but does not include the land upon which the residence is sited
   - **enforcement officer** means any person authorised under section 7
   - **enter** includes to re-enter; and has a similar meaning
-  - **exploration** means any activity undertaken for the purpose of identifying mineral deposits or occurrences and evaluating the feasibility of mining particular deposits or occurrences of one or more minerals; and includes any drilling, dredging, or excavations (whether surface or sub-surface) that are reasonably necessary to determine the nature and size of a mineral deposit or occurrence; and has a corresponding meaning
+  - **exploration** means any activity undertaken for the purpose of identifying mineral deposits or occurrences and evaluating the feasibility of mining particular deposits or occurrences of 1 or more minerals; and includes any drilling, dredging, or excavations (whether surface or subsurface) that are reasonably necessary to determine the nature and size of a mineral deposit or occurrence; and has a corresponding meaning
   - **exploration permit** means an exploration permit granted under this Act
   - **foreshore** means any land covered and uncovered by the flow and ebb of the tide at mean spring tides and, in relation to any such land that forms part of the bed of a river, does not include any area that is not part of the coastal marine area
   - **fuel minerals** includes coal and petroleum
@@ -52,7 +52,7 @@ _Consolidation as at 2008-11-06_
   - **metallic minerals** includes compounds of aluminium, chromium, copper, gold, iron, lead, manganese, mercury, molybdenum, nickel, platinum, silver, tin, titanium, tungsten, uranium, vanadium, and zinc
   - **mineral** means a naturally occurring inorganic substance beneath or at the surface of the earth, whether or not under water; and includes all metallic minerals, non-metallic minerals, fuel minerals, precious stones, industrial rocks and building stones, and a prescribed substance within the meaning of the Atomic Energy Act 1945
   - **minerals programme** means a programme issued by the Governor-General under section 18 that is current
-  - **minimum impact activity** means any of the followingto the extent that it does not involve any activity that results in impacts of greater than minimum scale and in no circumstances shall include activities involving—
+  - **minimum impact activity** means any of the following:to the extent that it does not involve any activity that results in impacts of greater than minimum scale and in no circumstances shall include activities involving—
     (a) geological, geochemical, and geophysical surveying:
     (b) taking samples by hand or hand held methods:
     (c) aerial surveying:
@@ -65,7 +65,7 @@ _Consolidation as at 2008-11-06_
     (j) any breach of the provisions of this or any other Act, including provisions in relation to protected native plants, water, noise, and historic sites; or
     (k) the use of more persons for any particular activity than is reasonably necessary; or
     (l) any impacts prescribed as prohibited impacts; or
-    (m) entry on land prescribed as prohibited land:
+    (m) entry on land prescribed as prohibited land
   - **mining** means to take, win, or extract, by whatever means, a mineral existing in its natural state in land, or a chemical substance from that mineral, for the purpose of obtaining the mineral or chemical substance; but does not include prospecting or exploration; and has a corresponding meaning
   - **mining operations** means operations in connection with mining, exploring, or prospecting for any Crown owned mineral including—when carried out at or near the site where the mining, exploration, or prospecting is carried out
     (a) the extraction, transport, treatment, processing, and separation of any mineral; and
@@ -77,20 +77,20 @@ _Consolidation as at 2008-11-06_
   - **Minister** means the Minister of Energy
   - **non-exclusive permit** means a permit which confers a right to prospect or explore for, or mine, any Crown owned mineral which right is not exclusive to the holder of the permit
   - **non-metallic minerals** includes asbestos, barite, bentonite, calcite, clays, dolomite, feldspar, fluorite, magnesite, mica, phosphate, potash, quartz, salt, silica lump, silica sand, sulphur, talc, and wax
-  - **occupier** , in relation to land, means a person who has a right to occupy the land by virtue of a lease, sub-lease, licence, or any renewal thereof, granted by the owner of the land; and includes—
+  - **occupier** , in relation to land, means a person who has a right to occupy the land by virtue of a lease, sublease, licence, or any renewal thereof, granted by the owner of the land; and includes—
     (a) a holder of an exploration permit or mining permit who has a right of access in respect of the land for the purpose of carrying out an activity under the permit or mining operations; and
     (b) a person in actual occupation of the land by virtue of being the holder of an existing privilege as defined in section 106 (other than an exploration licence or prospector's right granted under the Mining Act 1971, or an authorisation granted under Part 2 of the Petroleum Act 1937); and
-    (c) a controlling authority in respect of the land:
+    (c) a controlling authority in respect of the land
   - **owner** means—
     (a) in relation to Crown land, the appropriate Minister within the meaning of subsection (2); and
-    (b) in relation to land other than Crown land, the person or persons who hold the fee simple title to the land; and includes, except for the purposes of sections 8 and 49 to 52, the person or persons (other than the Crown) who owns or own the minerals in the land:
+    (b) in relation to land other than Crown land, the person or persons who hold the fee simple title to the land; and includes, except for the purposes of sections 8 and 49 to 52, the person or persons (other than the Crown) who owns or own the minerals in the land
   - **permit** means a prospecting permit, an exploration permit, or a mining permit to the extent that it remains current; or, if the context requires, all or any of these permits
   - **permit holder** means any holder or holders for the time being of a permit
   - **person** includes the Crown, a corporation sole, and also a body of persons, whether corporate or unincorporate
   - **petroleum** means—and, except in sections 10 and 11, includes any petroleum as so defined which has been mined or otherwise recovered from its natural condition, or which has been so mined or otherwise recovered but which has been returned to a natural reservoir for storage purposes in the same or an adjacent area
     (a) any naturally occurring hydrocarbon (other than coal) whether in a gaseous, liquid, or solid state; or
     (b) any naturally occurring mixture of hydrocarbons (other than coal) whether in a gaseous, liquid, or solid state; or
-    (c) any naturally occurring mixture of one or more hydrocarbons (other than coal) whether in a gaseous, liquid, or solid state, and one or more of the following, namely hydrogen sulphide, nitrogen, helium, or carbon dioxide—
+    (c) any naturally occurring mixture of 1 or more hydrocarbons (other than coal) whether in a gaseous, liquid, or solid state, and 1 or more of the following, namely hydrogen sulphide, nitrogen, helium, or carbon dioxide—
   - **petroleum mining permit** means a mining permit for petroleum
   - **prescribed** means prescribed by regulations made under this Act
   - **prescribed form** means a form prescribed by regulations made under this Act and containing and having attached such information and documents as those regulations may require
@@ -102,7 +102,7 @@ _Consolidation as at 2008-11-06_
   - **prospecting permit** means a prospecting permit granted under this Act
   - **public bridge** means a bridge or culvert intended for public use or for use in connection with any public work within the meaning of the Public Works Act 1981 and under the control of the Government or any public authority
   - **public foreshore and seabed** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
-  - **public notice** , when given by the Minister, means notice published in one or more daily newspapers circulating in the main metropolitan areas
+  - **public notice** , when given by the Minister, means notice published in 1 or more daily newspapers circulating in the main metropolitan areas
   - **railway** means a railway within the meaning of the New Zealand Railways Corporation Act 1981 and also within the meaning of section 2 of the Public Works Act 1981
   - **regulations** means regulations made under this Act
   - **relevant minerals programme** ,—
@@ -110,7 +110,7 @@ _Consolidation as at 2008-11-06_
     (b) in relation to an initial permit, means a minerals programme that applies to a mineral to which the initial permit applies and—
       (i) that was in force at the time the initial permit was granted; or
       (ii) that applies to the initial permit by virtue of a term of that permit; and
-    (c) in relation to a subsequent permit or an application for a subsequent permit, means, except where paragraph (d) applies, a minerals programme that, in accordance with paragraph (b) of this definition, is the relevant minerals programme in relation to the initial permit that relates to the subsequent permit or application; and
+    (c) in relation to a subsequent permit or an application for a subsequent permit, means, except where paragraph (d) applies, a minerals programme that, in accordance with paragraph (b), is the relevant minerals programme in relation to the initial permit that relates to the subsequent permit or application; and
     (d) in relation to an application for a subsequent mining permit in respect of a discovery made under a subsequent mining permit, means a minerals programme that applies to the mineral to which the application applies, that was in force at the commencement of the exploration activities resulting in the discovery
   - **right of access** means, in respect of land, the right of a permit holder (and employees, agents, and contractors of a permit holder) to enter, use, occupy, and enjoy (with or without vehicles and equipment) the land for the purpose of carrying out lawful activity under a permit or any mining operations
   - **road** means—
@@ -121,18 +121,18 @@ _Consolidation as at 2008-11-06_
     (e) a limited access regional road within the meaning of section 371 of the Local Government Act 1974:
     (f) a regional motorway within the meaning of section 374 of the Local Government Act 1974
   - **sand** does not include ironsand
-  - **secretary** means the chief executive of the Ministry of Economic Development
+  - **Secretary** means the chief executive of the Ministry of Economic Development
   - **serve** means serve in accordance with section 352 or section 353 of the Resource Management Act 1991
   - **silver** includes any substance containing silver, or having silver mixed in it, other than a substance that also contains gold or has gold mixed in it
   - **submission** means a written submission
   - **subsequent permit** means a permit granted in accordance with section 32
-  - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea and Exclusive Economic Zone Act 1977
+  - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **Treaty of Waitangi (Te Tiriti o Waitangi)** has the same meaning as the word Treaty as defined in section 2 of the Treaty of Waitangi Act 1975
   - **uranium** includes thorium and all natural substances, chemical compounds, and physical combinations of uranium or thorium
   - **working day** means any day except—
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (b) a day in the period commencing with the 20th day of December in any year and ending with the 15th day of January in the following year.
-(2) appropriate Minister, in relation to Crown land, means—
+    (b) a day in the period commencing with 20 December in any year and ending with 15 January in the following year.
+(2) Appropriate Minister, in relation to Crown land, means—
   (a) the Minister charged with the administration of the land or of the enactment (if any) that the land is subject to; and
   (b) the Minister of Conservation, if the Crown land is public foreshore and seabed; or
   (c) the Minister of Lands if paragraphs (a) and (b) do not apply; or
@@ -158,7 +158,7 @@ All persons exercising functions and powers under this Act shall have regard to 
 The Minister shall have the following functions under this Act:
   (a) the preparation of minerals programmes:
   (b) the grant of minerals permits:
-  (c) the monitoring of the effect and implementation of minerals programmes and minerals permits.
+  (c) the monitoring of the effect and implementation of minerals programmes and minerals permits:
   (d) the collection and disclosure of information in connection with petroleum reserves and petroleum production in order to—
     (i) promote informed investment decisions; and
     (ii) improve security of supply in the gas and electricity markets.
@@ -171,7 +171,7 @@ The Minister shall have the following functions under this Act:
 (3) Any delegation or subdelegation made under this section may be revoked in accordance with section 29 or section 42 of the State Sector Act 1988, as the case may be.
 
 ### 7 Appointment of enforcement officers
-(1) The Minister may authorise any officers of a department of State or of a local authority to exercise and carry out the functions and powers of an enforcement officer under the Resource Management Act 1991 in relation to compliance with a permit, or this Act and for this purpose, sections 332 and 334 of that Act shall be read as if—
+(1) The Minister may authorise any officers of a department of State or of a local authority to exercise and carry out the functions and powers of an enforcement officer under the Resource Management Act 1991 in relation to compliance with a permit or this Act, and for this purpose, sections 332 and 334 of that Act shall be read as if—
   (a) every reference to a consent authority included a reference to the Minister; and
   (b) every reference to a resource consent included a reference to a permit; and
   (c) every reference to the Resource Management Act 1991 included a reference to this Act.
@@ -192,7 +192,7 @@ The Minister shall have the following functions under this Act:
     (ii) is in land which is not the subject of a permit in respect of such mineral—
   (b) any sand, shingle, or other natural material in the bed of a river or a lake or in the coastal marine area unless otherwise specified in a minerals programme.
 (3) Subsection (1) does not prohibit prospecting or exploring for, or mining, gold in a gold fossicking area by means of hand held non-motorised machinery.
-(4) This section applies subject to section 86 of the Ngati Awa Claims Settlement Act 2005.
+(4) This section applies subject to section 86 of the Ngāti Awa Claims Settlement Act 2005.
 
 ### 9 Other legal requirements not affected
 Compliance with this Act does not remove the need to comply with all other applicable Acts, regulations, bylaws, and rules of law.
@@ -218,7 +218,7 @@ The purpose of a minerals programme is to establish policies, procedures, and pr
 Where a mineral to which no minerals programme applies is (or, in the opinion of the Minister, is likely to be) the subject of an application for a permit under this Part, the Minister shall exercise all his or her powers under this Part to ensure that a minerals programme is issued in respect of that mineral as soon as practicable.
 
 ### 14 Preparation of draft minerals programme
-(1) The Minister may at any time arrange for the preparation of one or more draft minerals programmes or proposed changes to minerals programmes.
+(1) The Minister may at any time arrange for the preparation of 1 or more draft minerals programmes or proposed changes to minerals programmes.
 (2) A proposed change to a minerals programme may involve a proposed change to any part of a minerals programme.
 (3) In sections 16, 17, and 21, a reference to a draft minerals programme includes a reference to a proposed change to a minerals programme.
 
@@ -232,7 +232,7 @@ Where a mineral to which no minerals programme applies is (or, in the opinion of
     (iii) the basis, if any, on which approval of work programmes and modified work programmes under section 43 will be withheld; and
   (d) the policies relating to the financial return to be obtained by the Crown in respect of any mineral to which it applies; and
   (e) the principal reasons for and against adopting the policies, procedures, and provisions included in the minerals programme.
-(2) There shall not be more than one minerals programme for any mineral but a minerals programme may provide that different policies, procedures, and provisions apply to different areas within New Zealand.
+(2) There shall not be more than 1 minerals programme for any mineral but a minerals programme may provide that different policies, procedures, and provisions apply to different areas within New Zealand.
 (3) On the request of an iwi, a minerals programme may provide that defined areas of land of particular importance to its mana are excluded from the operation of the minerals programme or shall not be included in any permit.
 
 ### 16 Public notice
@@ -254,7 +254,7 @@ Where a mineral to which no minerals programme applies is (or, in the opinion of
 (6) After considering the report and recommendations made under subsection (4), the Minister shall—
   (a) notify every person who made a submission of the recommendations and of the Minister's decision on the recommendations; and
   (b) publicly notify the draft minerals programme incorporating any changes made under subsection (5).
-(7) Notwithstanding the provisions of the Official Information Act 1982, where a request is made by any person for disclosure of information contained in a submission, the Department or Minister to whom the request was made may refuse to make the information available where the Department or Minister is satisfied that such refusal is necessary to avoid serious offence to tikanga Maori or to avoid the disclosure of the location of waahi tapu and, in the circumstances of the particular case, the importance of avoiding such offence or disclosure outweighs the public interest in making that information available.
+(7) Notwithstanding the provisions of the Official Information Act 1982, where a request is made by any person for disclosure of information contained in a submission, the department or Minister to whom the request was made may refuse to make the information available where the department or Minister is satisfied that such refusal is necessary to avoid serious offence to tikanga Maori or to avoid the disclosure of the location of waahi tapu and, in the circumstances of the particular case, the importance of avoiding such offence or disclosure outweighs the public interest in making that information available.
 
 ### 18 Governor-General may issue minerals programme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, issue a minerals programme or make a change to a minerals programme.
@@ -318,11 +318,11 @@ The Minister, in carrying out and exercising his or her functions and powers in 
 
 ### 25A Record of permit
 (1) On the granting of a permit, the Secretary must forward 1 copy of the permit to the permit holder.
-(2) The Secretary must also forward 1 copy of the permit to the Registrar of the Maori Land Court if the permit was granted in respect of Maori land.
-(3) On receipt of a copy of a permit under subsection (2), the Registrar of the Maori Land Court must enter in his or her records the particulars of the permit.
+(2) The Secretary must also forward 1 copy of the permit to the Registrar of the Māori Land Court if the permit was granted in respect of Māori land.
+(3) On receipt of a copy of a permit under subsection (2), the Registrar of the Māori Land Court must enter in his or her records the particulars of the permit.
 
-### 26 Priority of applications if more than one made and no minerals programme
-(1) Subject to the provisions of this Act, if more than one application is made for a permit in respect of all or part of the same land and in respect of a common mineral, and there is no minerals programme for that mineral, the applicant whose application is first received by the Secretary shall have a right in priority over every other applicant to have the permit applied for by him or her granted in respect of such land and mineral.
+### 26 Priority of applications if more than 1 made and no minerals programme
+(1) Subject to the provisions of this Act, if more than 1 application is made for a permit in respect of all or part of the same land and in respect of a common mineral, and there is no minerals programme for that mineral, the applicant whose application is first received by the Secretary shall have a right in priority over every other applicant to have the permit applied for by him or her granted in respect of such land and mineral.
 (2) If 2 or more applications in respect of the same or partly the same land and a common mineral appear to have been received at the same time, the applicant to have a prior right shall be determined as the Minister thinks fit.
 (3) Every applicant who has a right of priority under this section shall retain the right until his or her application has been finally disposed of by being granted, refused, or withdrawn.
 (4) An applicant shall not have a right of priority under this section over any tender for a permit in respect of the same or partly the same land and a common mineral if his or her application was received on or after the date of publication of the notice of offer of the permit to which any such tender relates.
@@ -333,7 +333,7 @@ The Minister, in carrying out and exercising his or her functions and powers in 
 (2) A permit shall not be granted under this Part unless there has been deposited with the Secretary, as security for compliance with the conditions of the permit, such monetary deposit or bond as may be required by the Minister in each case.
 
 ### 28 Restriction on granting of prospecting permits
-((1)) Where, in respect of any application for a prospecting permit, the Minister considers that—the Minister shall not grant a prospecting permit in respect of the mineral and the land or part of the land concerned unless he or she is satisfied that special circumstances apply.
+Where, in respect of any application for a prospecting permit, the Minister considers that—the Minister shall not grant a prospecting permit in respect of the mineral and the land or part of the land concerned unless he or she is satisfied that special circumstances apply.
   (a) the prospecting proposed in the application is unlikely to materially add to the existing knowledge of the mineral in all or part of the land to which the application relates; or
   (b) there exists, at the time of the application, substantial interest in exploring for or mining the mineral in all or part of the land to which the application relates,—
 
@@ -406,8 +406,8 @@ The Minister may—
   (b) where required to do so by the Minister, submits a work programme which is approved by the Minister in the same manner, with any necessary modifications, as a work programme is approved under section 43—
 (5A) A permit that is the subject of an application for an extension of duration under this section or section 37 continues in force until the Minister determines the application.
 (5B) On the granting of a certificate of change in relation to a permit, the Secretary must forward 1 copy of the certificate of change to the permit holder.
-(5C) If the certificate of change is for an extension of land to which a permit relates and that extension of land was granted in respect of Maori land, the Secretary must also forward 1 copy of the certificate to the Registrar of the Maori Land Court.
-(5D) On receiving a copy of a certificate of change under subsection (5C), the Registrar of the Maori Land Court must enter in his or her records the particulars of that certificate.
+(5C) If the certificate of change is for an extension of land to which a permit relates and that extension of land was granted in respect of Māori land, the Secretary must also forward 1 copy of the certificate to the Registrar of the Māori Land Court.
+(5D) On receiving a copy of a certificate of change under subsection (5C), the Registrar of the Māori Land Court must enter in his or her records the particulars of that certificate.
 (6) Every application under this section shall be in the form and contain the information required by the Minister in that case.
 
 ### 37 Extension of duration of exploration permit
@@ -531,7 +531,7 @@ It shall be a condition of every current mining permit that the Minister may at 
 (7) In this section, the term agreement includes a contract, deed, and arrangement.
 
 ### 46 Unit development
-(1) If the Minister is satisfied that—the Minister may, on the request of one or more of the permit or existing privilege holders or of his or her own accord, by notice in writing require all the permit or existing privilege holders to co-operate in the preparation of a scheme (in this section referred to as a development scheme) for the working and development of the mineral deposit as a unit by the permit or existing privilege holders in co-operation and to submit the scheme jointly for the approval of the Minister.
+(1) If the Minister is satisfied that—the Minister may, on the request of 1 or more of the permit or existing privilege holders or of his or her own accord, by notice in writing require all the permit or existing privilege holders to co-operate in the preparation of a scheme (in this section referred to as a development scheme) for the working and development of the mineral deposit as a unit by the permit or existing privilege holders in co-operation and to submit the scheme jointly for the approval of the Minister.
   (a) the land to which any 2 or more permits or existing privileges relate or any part thereof forms part of a single deposit of a mineral (in this section referred to as a mineral deposit); and
   (b) in order to prevent waste, avoid unnecessary competitive extraction, and secure the maximum ultimate recovery of the mineral, the mineral deposit should be worked as a unit in co-operation by all relevant permit or existing privilege holders whose permits or existing privileges comprise any part thereof—
 (2) The notice shall specify the land in respect of which, and the period within which, the Minister requires a development scheme to be submitted.
@@ -570,13 +570,13 @@ No person may, without the consent of the owner or occupier of the land, enter l
 (3) No person may, without the consent of the land holding trustee (as defined in section 7 of the Waikato Raupatu Claims Settlement Act 1995), enter on any land that is both—for the purpose of carrying out a minimum impact activity.
   (a) registered in the name of Pootatau Te Wherowhero under section 19 of that Act; and
   (b) regarded as waahi tapu by the land holding trustee within the meaning of that Act—
-(4) Subsection (1)(b) of this section shall apply in relation to land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995 as if that land were Maori land and as if the land holding trustee were the local iwi authority of that land.
-(5) No person may, for the purpose of carrying out a minimum impact activity, enter on any land without the consent of the Ngati Awa governance entity (as defined in section 12 of the Ngati Awa Claims Settlement Act 2005), if the land is—
-  (a) registered in the name of Awanuiarangi II as protected land under section 157 of that Act; and
-  (b) regarded as wahi tapu by the Ngati Awa governance entity.
-(6) Subsection (1)(b) applies in relation to land registered in the name of Awanuiarangi II as protected land under section 157 of the Ngati Awa Claims Settlement Act 2005 as if—
+(4) Subsection (1)(b) shall apply in relation to land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995 as if that land were Maori land and as if the land holding trustee were the local iwi authority of that land.
+(5) No person may, for the purpose of carrying out a minimum impact activity, enter on any land without the consent of the Ngāti Awa governance entity (as defined in section 12 of the Ngāti Awa Claims Settlement Act 2005), if the land is—
+  (a) registered in the name of Awanuiārangi II as protected land under section 157 of that Act; and
+  (b) regarded as wāhi tapu by the Ngāti Awa governance entity.
+(6) Subsection (1)(b) applies in relation to land registered in the name of Awanuiārangi II as protected land under section 157 of the Ngāti Awa Claims Settlement Act 2005 as if—
   (a) the land were Maori land; and
-  (b) the Ngati Awa governance entity were the local iwi authority of the land.
+  (b) the Ngāti Awa governance entity were the local iwi authority of the land.
 
 ### 52 Permit holder may obtain order
 Where a permit holder or other person authorised to enter on land under section 49 has complied with the requirements of that section and, in the exercise of his or her rights under that section, is obstructed, hindered, or interfered with by an owner or occupier of the land, or any other person, the permit holder or person so authorised may apply to a District Court for an order directing that he or she or any other person having rights under section 49 be permitted to exercise those rights.
@@ -598,7 +598,7 @@ Where a permit holder or other person authorised to enter on land under section 
 ### 55 Restrictions on determination of access arrangements by arbitrators
 (1) Subject to section 66, or to any agreement between the each owner and occupier of the land and the person desiring access, an arbitrator shall not be entitled to determine an access arrangement in respect of prospecting or exploration for, or mining of, a mineral other than petroleum.
 (2) Unless otherwise agreed between the each owner and occupier of the land and the person desiring access, an arbitrator shall not be entitled to determine an access arrangement to enable prospecting or exploration for, or mining of, petroleum in respect of the following classes of land:
-  (a) any land held or managed under the Conservation Act 1987 or any other Act specified in Schedule 1 to the Conservation Act 1987:
+  (a) any land held or managed under the Conservation Act 1987 or any other Act specified in Schedule 1 of the Conservation Act 1987:
   (b) land subject to an open space covenant in terms of the Queen Elizabeth the Second National Trust Act 1977:
   (c) land subject to a covenant in terms of the Conservation Act 1987 or the Reserves Act 1977:
   (d) land for the time being under crop:
@@ -616,7 +616,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
   (c) will not or is not likely to have any prejudicial effect in respect of any possible future use of the surface of the land.
 
 ### 58 Disputes as to classification of land and activities
-(1) If any dispute arises as to whether or not—a party to the dispute may apply to a District Court for that Court to determine the matter.
+(1) If any dispute arises as to whether or not—a party to the dispute may apply to a District Court for that court to determine the matter.
   (a) any land is included in a class of land referred to in section 55; or
   (b) any activity is a minimum impact activity; or
   (c) prospecting, exploration, or mining carried out below the surface of any land constitutes prospecting, exploration, or mining on or in land for the purposes of section 53 or section 54—
@@ -746,7 +746,7 @@ For the purposes of sections 53 and 54, prospecting, exploration, or mining carr
 ### 69 Procedure
 (1) Except as otherwise provided by this Act, the procedure at a hearing shall be as determined by the arbitrator.
 (2) An arbitrator shall act according to equity, good conscience, and the substantial merits of the case without regard for technicalities or legal forms.
-(3) An arbitrator may conduct a hearing even though one or more of the parties to the hearing fails to attend the hearing.
+(3) An arbitrator may conduct a hearing even though 1 or more of the parties to the hearing fails to attend the hearing.
 
 ### 70 Determination of access arrangement, etc
 (1) As soon as practicable after conducting a hearing, the arbitrator shall determine an access arrangement in respect of the land concerned giving the person desiring access access to the land on reasonable conditions, and serve a copy of the arrangement on each of the parties to the hearing.
@@ -797,12 +797,12 @@ Subject to section 76(4), no proceedings lie against an arbitrator for or with r
 No person entitled to exercise a right of access by virtue of an access arrangement shall contravene the conditions of the arrangement.
 
 ### 78 Absentee or unknown owner of land
-(1) Where an owner or occupier of land with whom it is desired to enter into an access arrangement under this Part is—the person seeking the right of access may, after notifying Public Trust, apply to a District Court for an order authorising Public Trust to act as if it were the agent of the owner or occupier; and that Court may make such an order.
+(1) Where an owner or occupier of land with whom it is desired to enter into an access arrangement under this Part is—the person seeking the right of access may, after notifying Public Trust, apply to a District Court for an order authorising Public Trust to act as if it were the agent of the owner or occupier; and that court may make such an order.
   (a) of unknown whereabouts and has no known agent; or
   (b) unknown,—
 (2) On the making of such an order, Public Trust shall, for the purposes of this Part, be deemed to be the agent of the owner or occupier in respect of whom the order was made, and notwithstanding the provisions of any Act, rule of law, deed, or instrument, may enter into an access arrangement on behalf of the owner or occupier.
-(3) any compensation payable under an access arrangement to an owner or occupier to which an order under subsection (1) applies shall be paid to Public Trust who shall hold such compensation on behalf of the owner or occupier concerned.
-(4) where any doubt or dispute arises as to the right of any person to receive compensation held by Public Trust under subsection (3), the High Court may, upon the application of any of the parties interested, make such order in relation to the compensation as it thinks fit, and Public Trust shall pay any such compensation in accordance with that order.
+(3) Any compensation payable under an access arrangement to an owner or occupier to which an order under subsection (1) applies shall be paid to Public Trust who shall hold such compensation on behalf of the owner or occupier concerned.
+(4) Where any doubt or dispute arises as to the right of any person to receive compensation held by Public Trust under subsection (3), the High Court may, upon the application of any of the parties interested, make such order in relation to the compensation as it thinks fit, and Public Trust shall pay any such compensation in accordance with that order.
 
 ### 79 Absentee or unknown owner of minerals
 (1) If any person desires to enter into an agreement with the owner of a mineral estate for the purpose of acquiring title to or any interest in the mineral estate, and if the owner is—then in the absence of steps taken to appoint a person to represent the owner and after notifying Public Trust, the person desiring to acquire the title or interest may apply to the High Court for an order authorising Public Trust to act as if it were the agent of the mineral owner.
@@ -811,15 +811,15 @@ No person entitled to exercise a right of access by virtue of an access arrangem
   (c) an infant, a mentally disordered person, or a person under some other legal disability,—
 (2) On the making of such an order, Public Trust may enter into an agreement with the applicant for the purchase at fair market value of the title to or any interest in the mineral estate.
 (3) Public Trust shall not enter into an agreement with the applicant for the purchase of the title to or any interest in the mineral estate if he or she considers an offer at fair market value has not been made.
-(4) Any money payable pursuant to any such agreement shall be paid to the Public Trust, and Public Trust, after deducting any fair and reasonable costs incurred by it in relation to the agreement, shall hold the remaining money on behalf of the person represented by it.
+(4) Any money payable pursuant to any such agreement shall be paid to Public Trust, and Public Trust, after deducting any fair and reasonable costs incurred by it in relation to the agreement, shall hold the remaining money on behalf of the person represented by it.
 (5) If any doubt or dispute arises as to the rights of any person to receive the money held by Public Trust under this section, Public Trust may apply to the High Court for an order instructing Public Trust how to deal with and apply any such money.
 
 ### 80 Access arrangements in respect of Maori land
-(1) Except where the land is owned by a single owner in severalty or is vested in trust in a body corporate or a trustee (other than the Maori Trustee), any arrangement for the purposes of section 50 or section 60 with any person having a freehold interest in Maori land or any claim for compensation under section 76 shall be entered into or made by the Maori Trustee on behalf of that person.
-(2) If any Maori land is owned by a single owner in severalty or is vested in trust in a body corporate or a trustee (other than the Maori Trustee), the owner or the body corporate or the trustee, as the case may be, may appoint the Maori Trustee as his, her, or its agent to act in respect of any arrangement for the purposes of section 50 or section 60 or any claim for compensation under section 76; and in any such case the Maori Trustee, if he or she accepts the appointment, shall have all the powers and discretions of the person appointing him or her in respect of such an arrangement.
-(3) Any compensation agreed upon in any case where the Maori Trustee is acting for the person entitled to it shall be paid to the Maori Trustee; and, subject to subsection (4) of this section, the Maori Trustee shall distribute the compensation money, after making any proper deductions, to the persons entitled to it.
-(4) If he or she thinks fit to do so, the Maori Trustee may apply to the Maori Land Court to determine to whom, and in what proportions, any compensation money paid to him or her under this section should, according to what the Court considers just and equitable in the circumstances, be distributed; and the compensation money shall be distributed in accordance with any order made by the Court in that behalf.
-(5) Any action or decision of the Maori Trustee under this section shall be binding on all persons whom he or she represents, and anything done or omitted to be done by the Maori Trustee in the exercise of his or her rights and powers under this section shall not be actionable at the suit of any person.
+(1) Except where the land is owned by a single owner in severalty or is vested in trust in a body corporate or a trustee (other than the Māori Trustee), any arrangement for the purposes of section 50 or section 60 with any person having a freehold interest in Maori land or any claim for compensation under section 76 shall be entered into or made by the Māori Trustee on behalf of that person.
+(2) If any Maori land is owned by a single owner in severalty or is vested in trust in a body corporate or a trustee (other than the Māori Trustee), the owner or the body corporate or the trustee, as the case may be, may appoint the Māori Trustee as his, her, or its agent to act in respect of any arrangement for the purposes of section 50 or section 60 or any claim for compensation under section 76; and in any such case the Māori Trustee, if he or she accepts the appointment, shall have all the powers and discretions of the person appointing him or her in respect of such an arrangement.
+(3) Any compensation agreed upon in any case where the Māori Trustee is acting for the person entitled to it shall be paid to the Māori Trustee; and, subject to subsection (4), the Māori Trustee shall distribute the compensation money, after making any proper deductions, to the persons entitled to it.
+(4) If he or she thinks fit to do so, the Māori Trustee may apply to the Maori Land Court to determine to whom, and in what proportions, any compensation money paid to him or her under this section should, according to what the court considers just and equitable in the circumstances, be distributed; and the compensation money shall be distributed in accordance with any order made by the court in that behalf.
+(5) Any action or decision of the Māori Trustee under this section shall be binding on all persons whom he or she represents, and anything done or omitted to be done by the Māori Trustee in the exercise of his or her rights and powers under this section shall not be actionable at the suit of any person.
 
 **Notation on land titles**
 
@@ -834,7 +834,7 @@ No person entitled to exercise a right of access by virtue of an access arrangem
 (2) A copy of an arrangement attached to a notice under subsection (1) may have excluded from it any monetary sums paid or agreed to be paid under it.
 (3) On receipt of copies of a notice under subsection (1) and of the prescribed fee, the District Land Registrar shall, if everything is in order,—
   (a) sign and seal on all copies a statement of the time and date of receipt; and
-  (b) record and file one of the copies in his or her office, and endorse on all copies the record reference; and
+  (b) record and file 1 of the copies in his or her office, and endorse on all copies the record reference; and
   (c) enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office in respect of land to which the arrangement relates, the particulars of the arrangement, including the record reference.
 
 ### 84 Entry of permit and access particulars acts as notice only
@@ -935,7 +935,7 @@ Sections 352 and 353 of the Resource Management Act 1991, with the necessary mod
 (3) Subject to subsection (2), a permit holder shall, during the currency of a permit in respect of which money is held by the Secretary, be entitled to receive all interest from time to time earned on the money while it is held by the Secretary.
 (4) On the termination or transfer of any permit in respect of which money is held by the Secretary the following provisions shall apply:
   (a) if the permit holder has substantially complied with the conditions of the permit throughout its currency, he or she shall be entitled to a refund of the deposit, together with all accrued interest thereon, less any amount that has been applied by the Minister in accordance with subsection (2):
-  (b) if, in the opinion of the Minister, the permit holder has failed to comply substantially with the conditions of his or her permit, the Minister may direct that the full deposit or such part of it as he or she thinks fit shall be paid into the Departmental Bank Account in respect of outstanding fees, or into the Crown Bank Account in respect of other payments outstanding; and in any such case the balance (if any) of the deposit shall be refunded to the permit holder.
+  (b) if, in the opinion of the Minister, the permit holder has failed to comply substantially with the conditions of his or her permit, the Minister may direct that the full deposit or such part of it as he or she thinks fit shall be paid into the Departmental Bank Account in respect of outstanding fees, or into a Crown Bank Account in respect of other payments outstanding; and in any such case the balance (if any) of the deposit shall be refunded to the permit holder.
 
 ### 98 Gold fossicking areas
 (1) The appropriate Minister and the Minister may, by notice in the Gazette, jointly designate any area of Crown land as a gold fossicking area, which shall then be open for public fossicking in respect of gold.
@@ -965,7 +965,7 @@ Sections 352 and 353 of the Resource Management Act 1991, with the necessary mod
 (2) Every person who commits an offence against section 100(2) is liable on summary conviction to a fine not exceeding $10,000, and, if the offence is a continuing one, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues.
 (3) Every person who commits an offence against section 100(3) is liable on summary conviction to a fine not exceeding $1,500.
 (4) A court may sentence any person who commits an offence against this Act to a sentence of community work, and the provisions of Part 2 of the Sentencing Act 2002, with all necessary modifications, apply accordingly.
-(5) Where a person is convicted of an offence against section 77, the Court may, instead of, or in addition to, imposing a fine, cancel or revoke the right of access or impose additional conditions on the right where it considers it is appropriate to do so in the circumstances.
+(5) Where a person is convicted of an offence against section 77, the court may, instead of, or in addition to, imposing a fine, cancel or revoke the right of access or impose additional conditions on the right where it considers it is appropriate to do so in the circumstances.
 (6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act shall be deemed to be a continuing offence.
 
 ### 102 Liability of principal for acts of agents
@@ -992,13 +992,13 @@ Sections 352 and 353 of the Resource Management Act 1991, with the necessary mod
   (b) that the action or event to which the prosecution relates was due to an event beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage, and in each case either—
     (i) the action or event could not reasonably have been foreseen or been provided against by the defendant; and
     (ii) the effects of the action or event were adequately mitigated or remedied by the defendant after it occurred.
-(3) Except with the leave of the Court, subsection (2) does not apply unless, within 7 days after the service of the summons or within such further time as the Court may allow, the defendant delivers to the prosecutor a written notice—
+(3) Except with the leave of the court, subsection (2) does not apply unless, within 7 days after the service of the summons or within such further time as the court may allow, the defendant delivers to the prosecutor a written notice—
   (a) stating that he or she intends to rely on subsection (2); and
   (b) specifying the facts that support his or her reliance on subsection (2).
 
 ### 104 Recovery of fees and other money
-(1) All fees and other money payable to the Crown under this Part, or under any permit granted under this Part, shall be recoverable as money due to the Crown, and, without limiting any other method of recovery, may be recovered in any Court of competent jurisdiction as a debt due to the Crown.
-(2) All fees payable under this Act shall be paid into a departmental bank account, and all other money payable to the Crown under this Act, or under any permit granted under this Act, shall be paid into the Crown Bank Account.
+(1) All fees and other money payable to the Crown under this Part, or under any permit granted under this Part, shall be recoverable as money due to the Crown, and, without limiting any other method of recovery, may be recovered in any court of competent jurisdiction as a debt due to the Crown.
+(2) All fees payable under this Act shall be paid into a Departmental Bank Account, and all other money payable to the Crown under this Act, or under any permit granted under this Act, shall be paid into a Crown Bank Account.
 
 **Regulations**
 
@@ -1056,7 +1056,7 @@ In this Part, unless the context otherwise requires,—
 (1) Notwithstanding section 107(1)(c) but subject to section 109, the functions, powers, and duties—shall be exercisable by the appropriate consent authority within the meaning of that Act; and the provisions of the Act relating to the existing privilege, with all necessary modifications, shall apply accordingly.
   (a) that, before the commencement of this Act, would have been exercisable by the Minister of Energy in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
   (b) that concern matters that are within the functions of a local authority under section 30 or section 31 of the Resource Management Act 1991—
-(2) Where there is doubt as to which person is responsible for exercising a particular function, power, or duty, and that doubt cannot be resolved by agreement between those persons, any such person may apply to the Environment Court for an order determining the matter, and the Court may grant such an order on such conditions as it thinks fit.
+(2) Where there is doubt as to which person is responsible for exercising a particular function, power, or duty, and that doubt cannot be resolved by agreement between those persons, any such person may apply to the Environment Court for an order determining the matter, and the court may grant such an order on such conditions as it thinks fit.
 (3) Before the Minister of Energy varies the terms and conditions of an existing privilege, or takes any enforcement action against the holder of an existing privilege in respect of that existing privilege, the Minister shall give written notice to the consent authority which has any functions, powers, and duties in relation to the privilege under this section, of the proposed action and the reasons therefor.
 (4) Before a consent authority varies the terms and conditions of an existing privilege, or takes any enforcement action against the holder of an existing privilege in respect of that existing privilege, the consent authority shall give written notice to the Minister of Energy of the proposed action and the reasons therefor.
 (5) Any failure to comply with subsection (3) or subsection (4) shall not render any variation or enforcement action invalid.
@@ -1066,8 +1066,8 @@ In this Part, unless the context otherwise requires,—
   (a) before the commencement of the Health and Safety in Employment Act 1992, would have been exercisable by any person in respect of an existing privilege; and
   (b) concern matters that are within the functions, powers, and duties of an Inspector holding office under section 29(1) of that Act—
 (9) Despite section 107(1)(c), the functions, powers, and duties—are exercisable by the Secretary, and the provisions of the Act relating to the existing privilege, with all the necessary modifications, apply accordingly.
-  (a) that before the commencement of this Act would have been exercisable by an inspector and that would have arisen in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
-  (b) that concern matters that are not within the functions of a local authority under section 30 or section 31 of the Resource Management Act 1991 or an inspector under section 29(1) of the Health and Safety in Employment Act 1992—
+  (a) that before the commencement of this Act would have been exercisable by an Inspector and that would have arisen in respect of an existing privilege, or of any condition of an existing privilege, or of any provisions of an Act that relate to an existing privilege; and
+  (b) that concern matters that are not within the functions of a local authority under section 30 or section 31 of the Resource Management Act 1991 or an Inspector under section 29(1) of the Health and Safety in Employment Act 1992—
 
 ### 109 Bonds and monetary deposits
 (1) The administration of monetary deposits and bonds held under section 108A of the Mining Act 1971, section 71 of the Coal Mines Act 1979, and section 47H of the Petroleum Act 1937 shall be carried out so that the Secretary shall continue to hold the monetary deposit or bond, and any money recovered under such a bond, but those sections shall apply so that—
@@ -1094,12 +1094,12 @@ Notwithstanding section 107—
   (c) persons entitled to the payment of rental under the Coal Mines Act 1979 shall not be entitled to the payment of rental under that Act in respect of any period following the date of commencement of this Act; and
   (d) persons entitled to the payment of rental under the Mining Act 1971 shall not be entitled to the payment of rental under that Act in respect of any period following the date of commencement of this Act; and
   (e) from the date of commencement of this Act, the holders of coal mining rights under the Coal Mines Act 1979 and the holders of mining privileges under the Mining Act 1971 shall be liable to pay to the Secretary such fees in respect of their coal mining right or mining privilege as they would be liable to pay if their coal mining right or mining privilege were the equivalent kind of minerals permit; and
-  (f) any ironsands export levy payable under an authorisation given or an agreement entered into under the Iron and Steel Industry Act 1959 shall be paid 6-monthly within 30 days after the 1st days of January and July in each year; and
-  (g) where the holder of an existing privilege fails to make payment to the Crown of an ironsands export levy or royalties payable under the existing privilege by the due date, a penalty of 10 percent of the amount due shall also become due and payable, by the holder of the existing privilege, to the Crown; and
-  (h) on and after the 1st day of January 1994, every holder of a prospecting licence or mining licence granted under the Petroleum Act 1937 shall not be liable to pay any fees provided for in that Act or in any regulations made under that Act, but shall pay to the Secretary such fees in respect of the licence as the holder would be liable to pay if the licence was the equivalent kind of minerals permit.
+  (f) any ironsands export levy payable under an authorisation given or an agreement entered into under the Iron and Steel Industry Act 1959 shall be paid 6-monthly within 30 days after 1 January and 1 July in each year; and
+  (g) where the holder of an existing privilege fails to make payment to the Crown of an ironsands export levy or royalties payable under the existing privilege by the due date, a penalty of 10% of the amount due shall also become due and payable, by the holder of the existing privilege, to the Crown; and
+  (h) on and after 1 January 1994, every holder of a prospecting licence or mining licence granted under the Petroleum Act 1937 shall not be liable to pay any fees provided for in that Act or in any regulations made under that Act, but shall pay to the Secretary such fees in respect of the licence as the holder would be liable to pay if the licence was the equivalent kind of minerals permit.
 
 ### 110A Data lodgement requirements in respect of petroleum licences
-Notwithstanding section 107, on and after the 1st day of October 1993, every holder of a prospecting licence or mining licence granted under the Petroleum Act 1937 shall not be required to comply with the requirements for the lodging of data and reports specified in the Petroleum Act 1937 or in any regulations made under that Act, but shall comply with the requirements for the lodging of data and reports in respect of the licence that would apply if the licence was the equivalent kind of minerals permit.
+Notwithstanding section 107, on and after 1 October 1993, every holder of a prospecting licence or mining licence granted under the Petroleum Act 1937 shall not be required to comply with the requirements for the lodging of data and reports specified in the Petroleum Act 1937 or in any regulations made under that Act, but shall comply with the requirements for the lodging of data and reports in respect of the licence that would apply if the licence was the equivalent kind of minerals permit.
 
 ### 110B Extension of term of petroleum prospecting licences
 Notwithstanding section 107, the Minister's power to extend the duration of an exploration permit under section 37(2) shall apply to prospecting licences granted under the Petroleum Act 1937; and for that purpose sections 37(2) and (3) and 38 shall be read as if—
@@ -1110,7 +1110,7 @@ Notwithstanding section 107, the Minister's power to extend the duration of an e
 (1) If, after 5 pm on 19 September 2002, a holder of an existing privilege makes an application to which any of the enactments specified in subsection (2) would have applied if this Act or the Crown Minerals Amendment Act 2003 had not been enacted, then, despite section 107,—
   (a) the Acts specified in subsection (2) do not apply in respect of the application; but
   (b) this Act (including, in particular, section 32) applies in respect of the application for Crown owned minerals as if the existing privilege were a minerals permit of the appropriate kind.
-(2) The enactments for the purposes of subsection (1) are
+(2) The enactments for the purposes of subsection (1) are—
   (a) sections 57A, 68, and 77 of the Mining Act 1971:
   (b) sections 40 and 48 of the Coal Mines Act 1979:
   (c) section 11 of the Petroleum Act 1937.
@@ -1204,12 +1204,12 @@ No person is entitled to compensation from the Crown in respect of any losses ar
 (3) Every Proclamation made under section 132 of the Mining Act 1926 or under the corresponding provisions of any former enactment is hereby revoked.
 
 ### 121 Consequential amendments
-The enactments specified in Schedule 3 are hereby amended in the manner indicated in that Schedule.
+The enactments specified in Schedule 3 are hereby amended in the manner indicated in that schedule.
 
 ### 122 Savings as to compensation claims
 Where, immediately before the date of commencement of this Act, any claim for compensation under any enactment repealed by this Act has been or could be made, that claim may be made or continued and enforced in all respects as if this Act had not been enacted.
 
-### 123 Savings as to Court proceedings
+### 123 Savings as to court proceedings
 Nothing in this Act shall affect the rights of any party to any proceedings commenced in any court on or before the commencement of this Act.
 
 ## Schedule 1 — Enactments repealed
@@ -1218,99 +1218,4 @@ Nothing in this Act shall affect the rights of any party to any proceedings comm
 
 ## Schedule 3 — Enactments amended
 
-## Schedule 4 — Description of Crown land to which section 61(1a) applies
-
-### 1
-All land within a national park held and administered under the National Parks Act 1980:
-
-### 2
-All land within any reserve classified as a nature reserve or a scientific reserve under section 20 or section 21 of the Reserves Act 1977:
-
-### 3
-Every part of a reserve or conservation area set apart or declared as a wilderness area under section 47 of the Reserves Act 1977 or section 18 of the Conservation Act 1987:
-
-### 4
-All land within any conservation area declared as a sanctuary area under section 18 of the Conservation Act 1987:
-
-### 5
-Every wildlife sanctuary declared under section 9 of the Wildlife Act 1953:
-
-### 6
-Every marine reserve declared under section 4 of the Marine Reserves Act 1977:
-
-### 7
-Any land within a wetland approved by the Minister of Foreign Affairs and notified to the Bureau of the Convention on Wetlands of International Importance done at Ramsar on the 2nd day of February 1971:
-
-### 8
-The Otahu Ecological Area as described on page 654 of the Gazette 1976:
-
-### 9
-The Parakowhai Quarry Ecological Area as described on page 2408 of the Gazette 1976:
-
-### 10
-All land that is—
-  (a) held, managed, or administered under the Conservation Act 1987 or under any enactment set out in Schedule 1 of that Act at the commencement of this Act; and
-  (b) situated on any island in the area bounded by latitude 35 degrees 50 minutes and latitude 37 degrees 10 minutes, and longitude 177 degrees and longitude 174 degrees 35 minutes—but does not include—all situated in the Mercury Islands:
-    (i) Red Mercury Island (Whakau); or
-    (ii) Green Island; or
-    (iii) Atiu or Middle Island; or
-    (iv) Korapuki Island,—
-
-### 11
-All Crown owned land held under the Conservation Act 1987 or any enactment set out in Schedule 1 of that Act on the Coromandel Peninsula that lies north and north west of State Highway 25A (Kopu-Hikuai road) and the road from Hikuai to Pauanui Beach known as the Hikuai Settlement Road:
-
-### 12
-The internal waters (as defined in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977) of the Coromandel Peninsula—
-where those lands or areas were so held, managed, administered, classified, declared, notified, or gazetted at the date of commencement of this Act.
-
-### 13
-The following marine reserves established under the Marine Reserves Act 1971:
-    (a) Auckland Islands—Motu Maha Marine Reserve (SR 2003/389):
-    (b) Kapiti Marine Reserve (SR 1992/71):
-    (c) Long Bay-Okura Marine Reserve (SR 1995/215):
-    (d) Long Island—Kokomohua Marine Reserve (SR 1993/72):
-    (e) Motu Manawa-Pollen Island Marine Reserve (SR 1995/216):
-    (f) Piopiotahi (Milford Sound) Marine Reserve (SR 1993/315):
-    (g) Pohatu Marine Reserve (SR 1999/162):
-    (h) Te Angiangi Marine Reserve (SR 1997/130):
-    (i) Te Awaatu Channel (The Gut) Marine Reserve (SR 1993/316):
-    (j) Te Matuku Marine Reserve (SR 2005/205):
-    (k) Te Tapuwae o Rongokako Marine Reserve (SR 1999/351):
-    (l) Tonga Island Marine Reserve (SR 1993/338):
-    (m) Tuhua (Mayor Island) Marine Reserve (SR 1992/386):
-    (n) Ulva Island—Te Wharawhara Marine Reserve (SR 2004/398):
-    (o) Westhaven (Te Tai Tapu) Marine Reserve (SR 1994/56):
-    (p) Whanganui A Hei (Cathedral Cove) Marine Reserve (SR 1992/387).
-
-### 14
-The following marine reserves established by section 7(1) of the Fiordland (Te Moana o Atawhenua) Marine Management Act 2005:
-    (a) Hawea (Clio Rocks) Marine Reserve:
-    (b) Kahukura (Gold Arm) Marine Reserve:
-    (c) Kutu Parera (Gaer Arm) Marine Reserve:
-    (d) Moana Uta (Wet Jacket Arm) Marine Reserve:
-    (e) Taipari Roa (Elizabeth Island) Marine Reserve:
-    (f) Taumoana (Five Finger Peninsula) Marine Reserve:
-    (g) Te Hapua (Sutherland Sound) Marine Reserve:
-    (h) Te Tapuwae o Hua (Long Sound) Marine Reserve.
-
-### 15
-The following national parks or parts of national parks constituted under the National Parks Act 1980:
-    (a) Arthur's Pass National Park additions (Gazette 7 July 1994, p 2227):
-    (b) Fiordland National Park addition in relation to Waitutu Forest (Gazette 23 September 1999, p 3211):
-    (c) Kahurangi National Park (Gazette 4 April 1996, p 977):
-    (d) Kahurangi National Park addition (Gazette 28 March 2002, p 807):
-    (e) Paparoa National Park eastern additions (Gazette 28 March 2002, p 807, excluding Area B shown on SO 302281 (formerly part Section 1, SO 15152)):
-    (f) Paparoa National Park western additions (Gazette 25 July 2002, p 2317):
-    (g) Rakiura National Park (SR 2002/6):
-    (h) Westland National Park additions (Gazette 28 March 2002, p 808).
-
-### 16
-The following areas declared to be wilderness areas under the Conservation Act 1987:
-    (a) Adams Wilderness Area (Gazette 22 May 2003, p 1380):
-    (b) Paparoa Wilderness Area (Gazette 1 July 2004, p 2073).
-
-### 17
-The following reserves under the Reserves Act 1977:
-    (a) a scientific reserve in the Mackenzie District (Gazette 29 August 1996, p 2465):
-    (b) Tuku Nature Reserve (Chatham Islands) (Gazette 15 August 1996, p 2269):
-    (c) Whatipu Scientific Reserve (Gazette 26 September 2002, p 3776).
+## Schedule 4 — Description of Crown land to which section 61(1A) applies
