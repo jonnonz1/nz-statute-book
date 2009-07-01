@@ -1,5 +1,5 @@
 # Defence Amendment Act (No 2) 2007
-_Consolidation as at 2007-11-23_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Defence Amendment Act (No 2) 2007.
