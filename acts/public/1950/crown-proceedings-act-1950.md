@@ -1,5 +1,5 @@
 # Crown Proceedings Act 1950
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-07-01_
 
 > An Act to consolidate and amend the law relating to the civil liabilities and rights of the Crown and officers of the Crown, and to civil proceedings by and against the Crown
 
@@ -13,7 +13,9 @@ This Act may be cited as the Crown Proceedings Act 1950, and shall come into for
   - **Civil proceedings** means any proceedings in any Court other than criminal proceedings; but does not include proceedings in relation to habeas corpus, mandamus, prohibition, or certiorari or proceedings by way of an application for review under Part 1 of the Judicature Amendment Act 1972 to the extent that any relief sought in the application is in the nature of mandamus, prohibition, or certiorari
   - **Commonwealth** means the British Commonwealth of Nations; and includes every territory for whose international relations the Government of any country of the Commonwealth is responsible
   - **Court** means the Supreme Court, the Court of Appeal, the High Court, and (to the extent to which they respectively have jurisdiction) the Compensation Court constituted under the Workers' Compensation Act 1956, a District Court constituted under the District Courts Act 1947, a Disputes Tribunal constituted under the Disputes Tribunals Act 1988, a Warden's Court constituted under the Mining Act 1926, and the Maori Land Court constituted under Te Ture Whenua Maori/Maori Land Act 1993
-  - **Government Department** or means Public Trust, the Maori Trustee, and every other Department or instrument of the Executive Government of New Zealand
+  - **Government Department** or —
+    (a) means Public Trust and every other department or instrument of the Executive Government of New Zealand; and
+    (b) includes the Māori Trustee
   - **Her Majesty** or the means Her Majesty in right of Her Government in New Zealand
   - **Member of a visiting force** includes a member of any other force who is attached to a visiting force
   - **New Zealand armed forces** means the New Zealand Naval Forces, the New Zealand Army, and the Royal New Zealand Air Force
@@ -257,7 +259,7 @@ Subject to the provisions of this Act and any other Act, and to any rules made p
   (g) Interfere with or affect any Act that now is or hereafter may be in force whereby the Crown, or any of its officers and servants, is exempt from liability for anything done under the Act or affect any power, authority, or liability vested in or imposed upon the Crown or any of its officers or servants under any such Act; or
   (h) Affect any right of the Crown to control or otherwise intervene in proceedings affecting the Crown's rights, property, or profits; or
   (i)
-  (j) Affect any liability imposed on the Maori Trustee or on the Crown Bank Account by the Maori Trustee Act 1953; or
+  (j) Affect any liability imposed on the Māori Trustee or on the Crown Bank Account by the Maori Trustee Act 1953; or
   (k) Affect any liability imposed on the Government Insurance Commissioner, the Government Insurance Department, or on the Crown Bank Account by the Government Life Insurance Act 1953; or
   (l) Affect any liability imposed on the State Insurance General Manager or the State Insurance Department or on the public revenues of New Zealand by the State Insurance Act 1990; or
   (m) Affect any liability imposed on the Housing Corporation or on the Crown Bank Account by the Housing Corporation Act 1974.
