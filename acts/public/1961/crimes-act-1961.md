@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-07-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -39,7 +39,7 @@ _Consolidation as at 2009-06-29_
   - **night** , or , means the interval between 9 o'clock at night and 6 o'clock in the following morning
   - **obtain a material benefit** , in relation to doing a thing, means obtain, directly or indirectly, any goods, money, pecuniary advantage, privilege, property, or other valuable consideration of any kind for doing the thing (or taking an action that forms part of doing the thing)
   - **offence** means any act or omission for which any one can be punished under this Act or under any other enactment, whether on conviction on indictment or on summary conviction
-  - **penis** includes a surgically constructed or reconstructed organ analogous to a naturally occurring penis (whether the person concerned is male. female, or of indeterminate sex)
+  - **penis** includes a surgically constructed or reconstructed organ analogous to a naturally occurring penis (whether the person concerned is male, female, or of indeterminate sex)
   - **person** , , and other words and expressions of the like kind, include the Crown and any public body or local authority, and any board, society, or company, and any other body of persons, whether incorporated or not, and the inhabitants of the district of any local authority, in relation to such acts and things as it or they are capable of doing or owning
   - **prison manager** means the manager of a prison
   - **property** includes real and personal property, and any estate or interest in any real or personal property, money, electricity, and any debt, and any thing in action, and any other right or interest
@@ -174,7 +174,7 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
 ### 9 Offences not to be punishable except under New Zealand Acts
 No one shall be convicted of any offence at common law, or of any offence against any Act of the Parliament of England or the Parliament of Great Britain or the Parliament of the United Kingdom:provided that—
   (a) nothing in this section shall limit or affect the power or authority of the House of Representatives or of any court to punish for contempt:
-  (b) nothing in this section shall limit or affect the jurisdiction or powers of any Court Martial, or of any officer in any of the New Zealand forces.
+  (b) nothing in this section shall limit or affect the jurisdiction or powers of the Court Martial, or of any officer in any of the New Zealand forces.
 
 ### 10 Offence under more than 1 enactment
 (1) Where an act or omission constitutes an offence under this Act and under any other Act, the offender may be prosecuted and punished either under this Act or under that other Act.
@@ -617,7 +617,7 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
     (ii) which he knows relates to the security or defence of New Zealand; and
     (iii) which would, by its unauthorised disclosure, be likely to prejudice seriously the security or defence of New Zealand.
 (2) In this section,—
-  - **department** means a government department named in Part 1 of Schedule 1 to the Ombudsmen Act 1975
+  - **department** means a government department named in Part 1 of Schedule 1 of the Ombudsmen Act 1975
   - **object** means any object which—is entitled to have in its or his possession by virtue of its or his rights as the owner, hirer, lessee, bailee, or custodian of that object
     (a) a department; or
     (b) a Minister of the Crown in his official capacity; or
@@ -713,7 +713,7 @@ Every one is liable to imprisonment for a term not exceeding 14 years who, being
   (a) will use violence against persons or property in that neighbourhood or elsewhere; or
   (b) will, by that assembly, needlessly and without reasonable cause provoke other persons to use violence against persons or property in that neighbourhood:
 (2) Persons lawfully assembled may become an unlawful assembly if, with a common purpose, they conduct themselves in such a manner that their assembling would have been unlawful if they had assembled in that manner for that purpose.
-(3) An assembly of 3 or more persons for the purpose of protecting the house of any 1 of their number against persons threatening to break and enter that house in order to commit a crime therein is not unlawful.
+(3) An assembly of 3 or more persons for the purpose of protecting the house of any one of their number against persons threatening to break and enter that house in order to commit a crime therein is not unlawful.
 (4) Every member of an unlawful assembly is liable to imprisonment for a term not exceeding 1 year.
 
 ### 87 Riot
@@ -1044,7 +1044,7 @@ Every official is liable to imprisonment for a term not exceeding 7 years who, w
   (c) any arbitrator or umpire, or any person or body of persons authorised by law to make an inquiry and take evidence therein upon oath:
   (d) any legal tribunal by which any legal right or liability can be established:
   (e) any person acting as a court or tribunal having power to hold a judicial proceeding:
-  (f) any court-martial held under the Armed Forces Discipline Act 1971.
+  (f) a disciplinary officer, the Summary Appeal Court of New Zealand, or the Court Martial of New Zealand acting under the Armed Forces Discipline Act 1971.
 (5) Every such proceeding is judicial within the meaning of this section whether the tribunal was duly constituted or appointed or not, and whether the proceeding was duly instituted or not, and whether the proceeding was invalid or not.
 
 ### 109 Punishment of perjury
@@ -1269,7 +1269,7 @@ There is no presumption of law that a person is incapable of sexual connection b
 (1) Every one who has sexual connection with a child is liable to imprisonment for a term not exceeding 14 years.
 (2) Every one who attempts to have sexual connection with a child is liable to imprisonment for a term not exceeding 10 years.
 (3) Every one who does an indecent act on a child is liable to imprisonment for a term not exceeding 10 years.
-(4) It is not a defence to a charge under this section that the person charged, believed that the child was of or over the age of 12 years.
+(4) It is not a defence to a charge under this section that the person charged believed that the child was of or over the age of 12 years.
 (5) It is not a defence to a charge under this section that the child consented.
 (6) In this section,—
   (a) child means a person under the age of 12 years; and
@@ -1816,7 +1816,7 @@ Every one who commits bigamy is liable to imprisonment for a term not exceeding 
 
 ### 207 Feigned marriage or feigned civil union
 (1) Everyone is liable to imprisonment for a term not exceeding 7 years who goes through a form of marriage or civil union with any other person, knowing that the marriage or civil union will be void for any reason other than that one of the parties is already married or in a civil union.
-(2) Provided that if the Judge is satisfied that the other person knew, at the time when the offence was committed, that the marriage or civil union would be void, the offender is liable to imprisonment for a term not exceeding 2 years.
+(2) Provided that if the Judge is satisfied that that other person knew, at the time when the offence was committed, that the marriage or civil union would be void, the offender is liable to imprisonment for a term not exceeding 2 years.
 
 **Abduction, kidnapping**
 
@@ -1924,11 +1924,14 @@ A person who claims in good faith a right to the possession of a young person un
     (iv) determining whether the disclosure is admissible in any civil or criminal proceedings.
 
 ### 216D Prohibition on dealing, etc, with interception devices
-(1) Every one is liable to imprisonment for a term not exceeding 2 years who—any interception device—(i)the sole or principal purpose of which he knows to be the surreptitious interception of private communications; or(ii)that he holds out as being useful for the surreptitious interception of private communications (whether or not he also holds it out as being useful for any other purpose).
+(1) Every one is liable to imprisonment for a term not exceeding 2 years who—
   (a) invites any other person to acquire from him; or
   (b) offers or exposes for sale or supply to any other person; or
   (c) agrees to sell or supply or sells or supplies to any other person; or
   (d) has in his possession for the purpose of sale or supply to any other person,—
+  any interception device—
+    (i) the sole or principal purpose of which he knows to be the surreptitious interception of private communications; or
+    (ii) that he holds out as being useful for the surreptitious interception of private communications (whether or not he also holds it out as being useful for any other purpose).
 (2) It is a defence to a charge under this section if the person charged proves either—
   (a) that at the time he did any act referred to in any of paragraphs (a) to (d) of subsection (1) he believed that the other person referred to in the relevant paragraph was a constable, or an officer of the New Zealand Security Intelligence Service or the Government Communications Security Bureau, acting in the course of his official duties; or
   (b) where the charge relates to the supply of an interception device otherwise than for valuable consideration, that—
@@ -2948,7 +2951,7 @@ Where evidence obtained by the interception of a private communication would, bu
 
 ### 312P Report to be made to Judge on use of warrant or permit
 (1) As soon as practicable after an interception warrant or an emergency permit has expired, the constable who applied for it, or (if that constable is unable to act) another constable who is of or above the level of position of inspector, shall make a written report to the Judge who granted the warrant or permit, or (if that Judge is unable to act) to another Judge, on the manner in which the power conferred by the warrant or permit has been exercised and the results obtained by the exercise of that power.
-(2) Notwithstanding anything in section 312H, the Judge who receives a report under subsection (1) shall be entitled to inspect any relevant document held under subsection (1) of that section.
+(2) Notwithstanding anything in section 312H, the Judge who receives a report under subsection (1) of this section shall be entitled to inspect any relevant document held under subsection (1) of that section.
 (3) Without limiting the generality of subsection (1), every report made for the purposes of that subsection shall contain the following information:
   (a) where the interception device was placed:
   (b) the number of interceptions made by means of the interception device:
@@ -3169,7 +3172,7 @@ Where any one is charged with any offence in respect of which the leave or conse
 **Plea of guilty after committal for trial**
 
 ### 321 Person committed for trial may plead guilty before trial
-(1) Where any person charged with any crime has been committed for trial, and, at any time before the commencement of the sittings to which he is committed for trial, desires to plead guilty to the crime, he shall sign a request in that behalf in form 3 in Schedule 2.
+(1) Where any person charged with any crime has been committed for trial, and, at any time before the commencement of the sittings to which he is committed for trial, desires to plead guilty to the crime, he shall sign a request in that behalf in form 3 of Schedule 2.
 (2) The request shall be sent to the Registrar of the court in the place to which the accused was committed for trial, and he shall as soon as practicable be brought before a Judge sitting in open court to be dealt with under this section.
 (3) If the accused is not in custody, notice shall be given to him of the time and place for attendance before the Judge.
 (4) On his attendance the accused shall be called upon to plead either guilty or not guilty to the crime for which he was committed for trial or, if the Judge so directs, to any other crime for which an indictment could have been filed against him following his committal for trial.
@@ -3213,7 +3216,7 @@ Where on the application of the prosecutor an order is made for the trial of any
 **Indictments**
 
 ### 328 Form of indictment
-(1) Every indictment shall be in form 4 in Schedule 2, or to the like effect.
+(1) Every indictment shall be in form 4 of Schedule 2, or to the like effect.
 (2) Any mistake in the heading shall upon being discovered be forthwith amended, and whether amended or not shall be immaterial.
 
 ### 329 Contents of counts
@@ -3281,7 +3284,7 @@ Where the commission of the crime charged is not proved, but the evidence establ
 (3)
 
 ### 340 Joinder of counts
-(1) Any number of counts for any crimes whatever may be joined in the same indictment, and shall be distinguished in the manner shown in form 4 in Schedule 2, or to the like effect.
+(1) Any number of counts for any crimes whatever may be joined in the same indictment, and shall be distinguished in the manner shown in form 4 of Schedule 2, or to the like effect.
 (2) Where there are more counts than 1 in an indictment each count may be treated as a separate indictment.
 (3) If the court thinks it conducive to the ends of justice to do so it may order that the accused shall be tried upon any 1 or more of such counts separately.
 (4) Any such order may be made either before or in the course of the trial, and if it is made in the course of the trial the jury shall be discharged from giving a verdict on the counts on which the trial is not to proceed.
@@ -3658,7 +3661,7 @@ Nothing in this Act affects the powers of a court or Judge or Registrar to disch
   (b) advise the complainant of the complainant's right to request the presence of any person under paragraph (h) of that subsection.
 (4) Where in a case of a sexual nature the court is of the opinion that the interests of the complainant so require, it may make an order forbidding publication of any report or account giving details of the criminal acts alleged to have been performed on the complainant or of any acts that the complainant is alleged to have been compelled or induced to perform or to consent to or acquiesce in.
 (5) The breach of any order made under subsection (4), or any evasion or attempted evasion of it, may be dealt with as contempt of court.
-(6) Nothing in this section shall limit or affect the powers of the court to exclude any person or forbid any report or account of any evidence under section 138 of the Criminal Justice Act 1985 or section 401 or any other enactment.
+(6) Nothing in this section shall limit or affect the powers of the court to exclude any person or forbid any report or account of any evidence under section 138 of the Criminal Justice Act 1985 or section 401 of this Act or any other enactment.
 
 ### 376 Presence of the accused
 (1) Every accused person shall be entitled to be present in court during the whole of his trial, unless he misconducts himself by so interrupting the proceedings as to render their continuance in his presence impracticable.
@@ -3802,7 +3805,7 @@ In this Part, unless the context otherwise requires,—
   (db) against the making of an order under section 361E(1) (Judge may order trial without a jury in cases involving intimidation of jurors), or against a refusal to make such an order:
   (e) against the granting of leave on an application under section 109(1)(d) of the Evidence Act 2006 relating to the identity of a witness, or against the refusal of a Judge to grant such leave:
   (f) against the making of an anonymity order under sections 112 and 113 of the Evidence Act 2006, or against the refusal of a Judge to make an anonymity order under that section:
-  (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross examination of a complainant, or against the refusal to make such an order:
+  (g) against the making of an order under section 44 of the Evidence Act 2006 relating to the cross-examination of a complainant, or against the refusal to make such an order:
   (ga) against the making of an order under section 378A for a person to be retried or against the refusal to make such an order.
 (2) At any time before the trial, the accused person, with the leave of the court appealed to, may appeal to the Court of Appeal or the Supreme Court—
   (a) against the making of an order under subsection (1) of section 322, or against the imposition by a Judge of any condition under subsection (3) of that section:
@@ -4193,9 +4196,6 @@ If sections 413 and 414 are inconsistent with any other enactment or rule of law
 | JS, Justice of the Peace, CommunityMagistrate, [or Registrar of DistrictCourt (not being a constable)]. |
 | --- |
 
-| Or, |
-| --- |
-
 ## Schedule 3 — Enactments amended
 
 ## Schedule 4 — United Kingdom enactments ceasing to have effect in New Zealand
@@ -4231,14 +4231,29 @@ This Act may be cited as the Crimes Amendment Act (No 2) 1979, and shall be read
   (c) assault with intent to commit rape:
   (d) being a party to the commission of any offence referred to in paragraphs (a) to (c):
   (e) conspiring with any person to commit any such offence.
-(4) Notwithstanding anything in section 1(2) or in subsection (2), where the trial of any person for an offence specified in subsection (3) commences on or after the 28th day after the date on which this Act receives the Governor-General's assent, the provisions of section 375A of the principal Act (as inserted by section 5 of this Act) shall apply with all necessary modifications.
+(4) Notwithstanding anything in section 1(2) or in subsection (2), where the trial of any person for an offence specified in subsection (3) commences on or after the 28th day after the date on which this Act receives the Governor-General's assent, the provisions of section 375A of the principal Act (as inserted by section 5) shall apply with all necessary modifications.
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Homosexual Law Reform Act 1986.
+(2) This Act shall come into force on the 28th day after the date on which it receives the Governor-General's assent.
+
+**Amendments of Crimes Act 1961**
+
+### 2 Act to be read with Crimes Act 1961
+This Act shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as the principal Act).
+
+### 7 Past offences
+(1) No person shall be liable to be convicted of an offence against any of sections 140, 141, or 142 of the principal Act committed before the commencement of this Act if the act that constituted the offence does not constitute an offence after the commencement of this Act.
+(2) Subject to subsection (1), where, before the commencement of this Act, any person has been charged with any offence against section 140 or section 141 or section 142 of the principal Act, the proceedings in respect of the charge shall continue as if this Act had not been passed, except that—
+  (a) where the person is charged with an offence against section 141 of the principal Act and the charge relates to a boy of or over the age of 12 years and under the age of 16 years, he shall be entitled to raise any defence that he would have been entitled to raise if the charge had been brought under section 140A of the principal Act (as substituted by section 3 of this Act); and
+  (b) where the person is charged with an offence against section 142 of the principal Act, he shall be entitled to raise any defence that he would have been entitled to raise if the charge had been brought under section 142 of the principal Act (as substituted by section 5 of this Act).
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crimes Amendment Act (No 2) 1989, and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as the principal Act).
 (2) This Act shall come into force on 1 January 1990.
 
 ### 3 Transitional provision
-Section 2 of this Act shall not apply in respect of any hearing or trial that has commenced before the commencement of this Act; and in respect of any such trial, section 375A of the principal Act (as originally enacted) shall continue to apply as if section 2 of this Act had not been enacted.
+Section 2 shall not apply in respect of any hearing or trial that has commenced before the commencement of this Act; and in respect of any such trial, section 375A of the principal Act (as originally enacted) shall continue to apply as if section 2 had not been enacted.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crimes Amendment Act (No 2) 1995, and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as the principal Act).
@@ -4249,7 +4264,7 @@ Nothing in section 3 applies to any indictment in respect of an accused committe
 
 ### 6 Transitional and savings provisions relating to power of District Court to order trial by Trial Judge alone
 (1) Nothing effected by section 4 of this Act in relation to section 28D(1) of the District Courts Act 1947 or section 168C of the Summary Proceedings Act 1957 or section 361B(1) or section 361C(2)(a) of the Crimes Act 1961 applies in relation to any accused committed for trial before the date of commencement of that section if the trial of the accused has commenced before that date.
-(2) Where the accused has been committed for trial before the date of commencement of section 4 of this Act, but the trial of the accused has not commenced before that date, section 361B(1) of the Crimes Act 1961 (as amended by section 4 of this Act) shall, so far as it is applicable, apply as if for the words date on which he is so committed there were substituted the words commencement of section 4 of the Crimes Amendment Act (No 2) 1995.
+(2) Where the accused has been committed for trial before the date of commencement of section 4 of this Act, but the trial of the accused has not commenced before that date, section 361B(1) of the Crimes Act 1961 (as amended by section 4) shall, so far as it is applicable, apply as if for the words date on which he is so committed there were substituted the words commencement of section 4 of the Crimes Amendment Act (No 2) 1995.
 
 ### 1 Title
 (1) This Act may be cited as the Crimes (Bribery of Foreign Public Officials) Amendment Act 2001.
@@ -4257,9 +4272,6 @@ Nothing in section 3 applies to any indictment in respect of an accused committe
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Purpose
-The purpose of this Act is to implement the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions.
 
 **Extradition of offenders**
 
@@ -4389,8 +4401,17 @@ This Act is the Crimes Amendment Act (No 2) 2008.
 (1) Section 4 comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
 
-### 3 Principal Act amended
-This Act amends the Crimes Act 1961.
+### 4 New sections 361D and 361E inserted
+((1)–(5)) Amendment(s) incorporated in the Act(s).
+(6) This section applies in respect of an accused person only if—
+  (a) the accused person is committed for trial on or after the date on which this section comes into force; or
+  (b) the accused person is committed for trial before the date on which this section comes into force and the trial has not commenced before that date.
+
+### 5 Evidence and addresses
+((1), (2)) Amendment(s) incorporated in the Act(s).
+(3) This section applies in respect of an accused person only if—
+  (a) the accused person is committed for trial on or after the date on which this section comes into force; or
+  (b) the accused person is committed for trial before the date on which this section comes into force and the trial has not commenced before that date.
 
 **Amendment to Crimes Amendment Act 2005**
 
