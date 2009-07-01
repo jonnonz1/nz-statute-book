@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-07-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -957,7 +957,7 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
 (4) The Court of Appeal must sit as a Full Court to hear and determine
   (a) Cases that are considered, in accordance with the procedure adopted under section 58E, to be of sufficient significance to warrant the consideration of a Full Court:
   (b) Any proceeding, case, or question referred under section 58(6) for hearing and determination by a Full Court:
-  (c) Any appeal from a decision of the Courts Martial Appeal Court under section 10 of the Courts Martial Appeals Act 1953.
+  (c) Any appeal from a decision of the Court Martial Appeal Court under section 10 of the Court Martial Appeals Act 1953.
 
 ### 58E Cases of sufficient significance for Full Court
 (1) The question whether a case is of sufficient significance to warrant the consideration of a Full Court must be determined in accordance with the procedure which those Judges of the Court of Appeal holding office under section 57(2) from time to time adopt.
