@@ -1,5 +1,5 @@
 # Electronic Transactions Act 2002
-_Consolidation as at 2008-06-06_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Electronic Transactions Act 2002.
@@ -111,7 +111,7 @@ An electronic communication is taken to be received at—
 
 ### 15 When legal requirement can be met by electronic means
 (1) A legal requirement can be met by electronic means if the applicable provisions in subpart 2, and any applicable regulations made under section 36, are complied with.
-(2) For the purposes of this Part, legal requirement —
+(2) For the purposes of this Part, legal requirement—
   (a) means a requirement in an enactment to which this Part applies; and
   (b) includes a provision in an enactment to which this Part applies that provides consequences that depend on whether or not the provision is complied with.
 
@@ -280,23 +280,6 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (2) Nothing in subsection (1) authorises a person to require the use of an electronic form under any enactment.
 
 ### 38 Related amendment to Interpretation Act 1999
-Section 29 of the Interpretation Act 1999 is amended by repealing the definition of writing, and substituting the following definition:
-  - **writing** means representing or reproducing words, figures, or symbols in a visible and tangible form and medium (for example, in print).
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule Schedule — Enactments and provisions excluded from Part 3
-
-| Enactment | Provision |
-| --- | --- |
-| Citizenship Act 1977 (1977 No 61) | Section 19(1) |
-| Citizenship Regulations 1978 (SR 1978/181) |  |
-| Citizenship Regulations 2002 (SR 2002/73) | Regulation 10 |
-| Civil Aviation Act 1990 (1990 No 98) | Section 11(2) and (6)(b) |
-| Corrections Regulations 2005 (SR 2005/53) | Regulation 133 |
-| Credit (Repossession) Act 1997 (1997 No 85) | Sections 8, 9, 17, 20, 21, 29(2)(a), 33, and 38 |
-| Criminal Justice Regulations 1985 (SR 1985/232) |  |
-| Disabled Persons Community Welfare Act 1975 (1975 No 122) | Section 25F(4) |
-| Door to Door Sales Act 1967 (1967 No 126) | Section 6(1) |
-| Fisheries Act 1996 (1996 No 88) | Part VIII |
-| Medicines Regulations 1984 (SR 1984/143) | Regulations 41 and 42 |
-| Misuse of Drugs Amendment Act 1978 (1978 No 65) | Section 13C |
-| Passports Act 1992 (1992 No 92) | Section 12 |
