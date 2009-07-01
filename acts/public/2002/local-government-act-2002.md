@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -18,7 +18,7 @@ The purpose of this Act is to provide for democratic and effective local governm
   (d) provides for local authorities to play a broad role in promoting the social, economic, environmental, and cultural well-being of their communities, taking a sustainable development approach.
 
 ### 4 Treaty of Waitangi
-In order to recognise and respect the Crown's responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Maori to contribute to local government decision-making processes, Parts 2 and 6 provide principles and requirements for local authorities that are intended to facilitate participation by Maori in local authority decision-making processes.
+In order to recognise and respect the Crown's responsibility to take appropriate account of the principles of the Treaty of Waitangi and to maintain and improve opportunities for Māori to contribute to local government decision-making processes, Parts 2 and 6 provide principles and requirements for local authorities that are intended to facilitate participation by Māori in local authority decision-making processes.
 
 ### 5 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -37,7 +37,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (d) any subcommittee of a committee described in paragraph (a) or paragraph (b) or paragraph (c)
   - **community** means, subject to subsection (2), a community constituted under Schedule 6
   - **community board** means a community board established under section 49
-  - **community facilities** has the meaning set out in section 197.
+  - **community facilities** has the meaning set out in section 197
   - **community infrastructure** has the meaning set out in section 197
   - **community outcomes** , in relation to a district or region,—
     (a) means the outcomes for that district or region that are identified as priorities for the time being through a process under section 91; and
@@ -59,7 +59,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
   - **local authority** means a regional council or territorial authority
   - **local government organisation** has the meaning set out in section 124
   - **long-term council community plan** means a long-term council community plan adopted under section 93
-  - **lump sum contribution** has the meaning given to it in section 5 of the Local Government (Rating) Act 2002.
+  - **lump sum contribution** has the meaning given to it in section 5 of the Local Government (Rating) Act 2002
   - **mayor** means the mayor of a territorial authority elected under the Local Electoral Act 2001
   - **member** ,—
     (a) in relation to a community board, means a member appointed to that board or elected to that board under the Local Electoral Act 2001:
@@ -97,13 +97,12 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (c) the capacity of the local authority to perform its role, and the financial and other costs of doing so
   - **significant** , in relation to any issue, proposal, decision, or other matter, means that the issue, proposal, decision, or other matter has a high degree of significance
   - **special consultative procedure** means the procedure set out in section 83
-  - **strategic asset** , in relation to the assets held by a local authority, means an asset or group of assets that the local authority needs to retain if the local authority is to maintain the local authority's capacity to achieve or promote any outcome that the local authority determines to be important to the current or future well-being of the community; and includes—
+  - **strategic asset** , in relation to the assets held by a local authority, means an asset or group of assets that the local authority needs to retain if the local authority is to maintain the local authority's capacity to achieve or promote any outcome that the local authority determines to be important to the current or future well-being of the community; and includes— means a city council or a district council named in Part 2 of Schedule 2
     (a) any asset or group of assets listed in accordance with section 90(2) by the local authority; and
     (b) any land or building owned by the local authority and required to maintain the local authority's capacity to provide affordable housing as part of its social policy; and
     (c) any equity securities held by the local authority in—
       (i) a port company within the meaning of the Port Companies Act 1988:
       (ii) an airport company within the meaning of the Airport Authorities Act 1966
-  - **territorial authority** means a city council or a district council named in Part 2 of Schedule 2
   - **unitary authority** means a territorial authority that has the responsibilities, duties, and powers of a regional council conferred on it under—
     (a) the provisions of any Act; or
     (b) an Order in Council giving effect to a reorganisation scheme
@@ -129,7 +128,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
         (B) buildings, machinery, and appliances; but
     (b) does not include the network assets of Watercare Services Limited
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
     (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
@@ -154,7 +153,7 @@ In order to recognise and respect the Crown's responsibility to take appropriate
     (b) an entity in respect of which 1 or more local authorities have, whether or not jointly with other local authorities or persons,—
       (i) control, directly or indirectly, of 50% or more of the votes at any meeting of the members or controlling body of the entity; or
       (ii) the right, directly or indirectly, to appoint 50% or more of the trustees, directors, or managers (however described) of the entity
-  - **council-controlled trading organisation** means a council- controlled organisation that operates a trading undertaking for the purpose of making a profit
+  - **council-controlled trading organisation** means a council-controlled organisation that operates a trading undertaking for the purpose of making a profit
   - **council organisation** means—
     (a) a company—
       (i) in which equity securities carrying voting rights at a meeting of the shareholders of the company are—
@@ -241,7 +240,7 @@ The role of a local authority is to—
 (6) Subsections (4) and (5) do not—
   (a) prevent 2 or more local authorities engaging in a joint undertaking, a joint activity, or a co-operative activity; or
   (b) prevent a transfer of responsibility from one local authority to another in accordance with this Act; or
-  (c) restrict the activities of a council-controlled organisation; or.
+  (c) restrict the activities of a council-controlled organisation; or
   (d) prevent a local authority from making a donation (whether of money, resources, or otherwise) to another local authority or to a person or organisation outside its district or region or outside New Zealand—
     (i) if the local authority considers, on reasonable grounds, that the donation will benefit its district or region, or the communities within its district or region; or
     (ii) if the local authority considers, on reasonable grounds, that a benefit will be conferred on the local government sector as a whole; or
@@ -261,7 +260,7 @@ Sections 10 and 12(2) apply to a local authority performing a function under ano
     (i) the diversity of the community, and the community's interests, within its district or region; and
     (ii) the interests of future as well as current communities; and
     (iii) the likely impact of any decision on each aspect of well-being referred to in section 10:
-  (d) a local authority should provide opportunities for Maori to contribute to its decision-making processes:
+  (d) a local authority should provide opportunities for Māori to contribute to its decision-making processes:
   (e) a local authority should collaborate and co-operate with other local authorities and bodies as it considers appropriate to promote or achieve its priorities and desired outcomes, and make efficient use of resources; and
   (f) a local authority should undertake any commercial transactions in accordance with sound business practices; and
   (g) a local authority should ensure prudent stewardship and the efficient and effective use of its resources in the interests of its district or region; and
@@ -467,11 +466,11 @@ There continues to be a Local Government Commission.
 ### 33 Membership of Commission
 (1) The Commission consists of 3 members appointed by the Minister.
 (2) One member of the Commission—
-  (a) must have a knowledge of tikanga Maori; and
-  (b) is to be appointed after consultation with the Minister of Maori Affairs.
+  (a) must have a knowledge of tikanga Māori; and
+  (b) is to be appointed after consultation with the Minister of Māori Affairs.
 (3) The powers of the Commission are not affected by any vacancy in its membership.
 (4) No person is to be treated as employed in the service of the Crown for the purposes of the Government Superannuation Fund Act 1956 or the State Sector Act 1988 because the person is a member of the Commission.
-(5) In this section, tikanga Maori means Maori custom and practice.
+(5) In this section, tikanga Māori means Māori custom and practice.
 
 ### 34 Commission is Commission of Inquiry
 (1) The Commission is to be treated as a Commission of Inquiry under the Commissions of Inquiry Act 1908 and, subject to this Act, the provisions of that Act (except sections 2, 4A, and 11 to 15), as far as they are applicable, apply accordingly.
@@ -514,12 +513,12 @@ A local authority must act in accordance with the following principles in relati
   (b) any local legislation that confers powers on the local authority; and
   (ba) the bylaws of the local authority, including for each bylaw, its title, a general description of it, when it was made, and, if applicable, the date of its last review under section 158 or 159; and
   (c) the electoral system and the opportunity to change it; and
-  (d) representation arrangements, including the option of establishing Maori wards or constituencies, and the opportunity to change them; and
+  (d) representation arrangements, including the option of establishing Māori wards or constituencies, and the opportunity to change them; and
   (e) members' roles and conduct (with specific reference to the applicable statutory requirements and code of conduct); and
   (f) governance structures and processes, membership, and delegations; and
   (g) meeting processes (with specific reference to the applicable provisions of the Local Government Official Information and Meetings Act 1987 and standing orders); and
   (h) consultation policies; and
-  (i) policies for liaising with, and memoranda or agreements with, Maori; and
+  (i) policies for liaising with, and memoranda or agreements with, Māori; and
   (j) the management structure and the relationship between management and elected members; and
   (k) equal employment opportunities policy; and
   (l) key approved planning and policy documents and the process for their development and review; and
@@ -605,8 +604,8 @@ A local authority must act in accordance with the following principles in relati
   (b) restrained from acting in the ways referred to in paragraph (a).
 (2) If subsection (1) applies, costs and other expenses arising out of the proceeding or incurred in doing the things to which the proceeding relates—
   (a) must not be paid out of general revenues by the local authority; and
-  (b) must be paid, by order of the Court, by the members of the local authority who, by voting or otherwise, assented to the acts concerned.
-(3) The Court must not make an order under subsection (2) against a member of the local authority if the member proves that, in doing the act concerned,—
+  (b) must be paid, by order of the court, by the members of the local authority who, by voting or otherwise, assented to the acts concerned.
+(3) The court must not make an order under subsection (2) against a member of the local authority if the member proves that, in doing the act concerned,—
   (a) the member acted in good faith and in accordance with the written advice of the solicitor to the local authority; or
   (b) the member acted honestly and reasonably and, having regard to all the circumstances of the case, the member ought fairly to be excused.
 
@@ -630,7 +629,7 @@ The following activities of local authorities must be carried out in accordance 
   (a) an Order in Council giving effect to a reorganisation scheme; or
   (b) a resolution made by the territorial authority within whose district the community will be situated as a result of a proposal by electors to establish a community; or
   (c) a resolution made by the territorial authority within whose district the community will be situated as a result of the territorial authority's review of representation arrangements.
-(2) The community board must be described as the [ name of community ] Community Board.
+(2) The community board must be described as the [name of community] Community Board.
 
 ### 50 Membership of community boards
 The membership of a community board consists of—
@@ -772,7 +771,7 @@ Nothing in this Act requires the inclusion in any statement of intent, annual re
 
 ### 71A Application of Part to listed companies
 (1) This section applies to a council-controlled organisation if the shares of any of the following are listed on a stock exchange:
-  (a) the-council-controlled organisation:
+  (a) the council-controlled organisation:
   (b) a holding company of the council-controlled organisation:
   (c) controlling companies of the council-controlled organisation.
 (2) If subsection (1) applies, the council-controlled organisation is not required to—
@@ -802,7 +801,7 @@ Schedule 9 applies to the transfer of an existing undertaking to a council-contr
 ### 75 Outline of Part
 This Part—
   (a) sets out obligations of local authorities in relation to the making of decisions:
-  (b) states the obligations of local authorities in relation to the involvement of Maori in decision-making processes:
+  (b) states the obligations of local authorities in relation to the involvement of Māori in decision-making processes:
   (c) states the obligations of local authorities in relation to consultation with interested and affected persons:
   (d) sets out the nature and use of the special consultative procedure:
   (e) sets out a process for identifying and reporting on community outcomes:
@@ -832,7 +831,7 @@ This Part—
     (ii) the extent to which community outcomes would be promoted or achieved in an integrated and efficient manner by each option; and
     (iii) the impact of each option on the local authority's capacity to meet present and future needs in relation to any statutory responsibility of the local authority; and
     (iv) any other matters that, in the opinion of the local authority, are relevant; and
-  (c) if any of the options identified under paragraph (a) involves a significant decision in relation to land or a body of water, take into account the relationship of Maori and their culture and traditions with their ancestral land, water, sites, waahi tapu, valued flora and fauna, and other taonga.
+  (c) if any of the options identified under paragraph (a) involves a significant decision in relation to land or a body of water, take into account the relationship of Māori and their culture and traditions with their ancestral land, water, sites, waahi tapu, valued flora and fauna, and other taonga.
 (2) This section is subject to section 79.
 
 ### 78 Community views in relation to decisions
@@ -867,11 +866,11 @@ This Part—
   (c) any intention of the local authority to amend the policy or plan to accommodate the decision.
 (2) Subsection (1) does not derogate from any other provision of this Act or of any other enactment.
 
-### 81 Contributions to decision-making processes by Maori
+### 81 Contributions to decision-making processes by Māori
 (1) A local authority must—
-  (a) establish and maintain processes to provide opportunities for Maori to contribute to the decision-making processes of the local authority; and
-  (b) consider ways in which it may foster the development of Maori capacity to contribute to the decision-making processes of the local authority; and
-  (c) provide relevant information to Maori for the purposes of paragraphs (a) and (b).
+  (a) establish and maintain processes to provide opportunities for Māori to contribute to the decision-making processes of the local authority; and
+  (b) consider ways in which it may foster the development of Māori capacity to contribute to the decision-making processes of the local authority; and
+  (c) provide relevant information to Māori for the purposes of paragraphs (a) and (b).
 (2) A local authority, in exercising its responsibility to make judgments about the manner in which subsection (1) is to be complied with, must have regard to—
   (a) the role of the local authority, as set out in section 11; and
   (b) such other matters as the local authority considers on reasonable grounds to be relevant to those judgments.
@@ -886,7 +885,7 @@ This Part—
   (d) that persons who wish to have their views on the decision or matter considered by the local authority should be provided by the local authority with a reasonable opportunity to present those views to the local authority in a manner and format that is appropriate to the preferences and needs of those persons:
   (e) that the views presented to the local authority should be received by the local authority with an open mind and should be given by the local authority, in making a decision, due consideration:
   (f) that persons who present views to the local authority should be provided by the local authority with information concerning both the relevant decisions and the reasons for those decisions.
-(2) A local authority must ensure that it has in place processes for consulting with Maori in accordance with subsection (1).
+(2) A local authority must ensure that it has in place processes for consulting with Māori in accordance with subsection (1).
 (3) The principles set out in subsection (1) are, subject to subsections (4) and (5), to be observed by a local authority in such manner as the local authority considers, in its discretion, to be appropriate in any particular instance.
 (4) A local authority must, in exercising its discretion under subsection (3), have regard to—
   (a) the requirements of section 78; and
@@ -1166,7 +1165,7 @@ A summary of the information contained in a statement of proposal must—
   (c) an investment policy; and
   (d) a policy on development contributions or financial contributions; and
   (e) a policy on partnerships between the local authority and the private sector; and
-  (f) a policy on the remission and postponement of rates on Maori freehold land.
+  (f) a policy on the remission and postponement of rates on Māori freehold land.
 (5) A local authority may adopt all or any of the following policies:
   (a) a rates remission policy:
   (b) a rates postponement policy.
@@ -1244,14 +1243,14 @@ A policy adopted under section 102(4)(c) must state the local authority's polici
     (ii) 1 or more local authorities and 1 or more council-controlled organisations; or
   (b) a contract for the supply of any goods or services to, by, or on behalf of, a local authority.
 
-### 108 Policy on remission and postponement of rates on Maori freehold land
-(1) If a policy adopted under section 102(4)(f) provides for the remission of rates on Maori freehold land, the policy must state—
+### 108 Policy on remission and postponement of rates on Māori freehold land
+(1) If a policy adopted under section 102(4)(f) provides for the remission of rates on Māori freehold land, the policy must state—
   (a) the objectives sought to be achieved by the remission of rates; and
   (b) the conditions and criteria to be met in order for rates to be remitted.
-(2) If a policy adopted under section 102(4)(f) provides for the postponement of the requirement to pay rates on Maori freehold land, the policy must state—
+(2) If a policy adopted under section 102(4)(f) provides for the postponement of the requirement to pay rates on Māori freehold land, the policy must state—
   (a) the objectives sought to be achieved by a postponement of the requirement to pay rates; and
   (b) the conditions and criteria to be met in order for the requirement to pay rates to be postponed.
-(3) For the avoidance of doubt, a policy adopted under section 102(4)(f) is not required to provide for the remission of, or postponement of the requirement to pay, rates on Maori freehold land.
+(3) For the avoidance of doubt, a policy adopted under section 102(4)(f) is not required to provide for the remission of, or postponement of the requirement to pay, rates on Māori freehold land.
 (4) In determining a policy under section 102(4)(f), the local authority must consider the matters set out in Schedule 11.
 (5) For the purposes of this section, the term rates includes penalties payable on unpaid rates.
 
@@ -1285,16 +1284,16 @@ In this subpart, unless the context otherwise requires,—
       (iii) by the use, for any purpose, of funds received or invested by the local authority for any other purpose if the local authority has resolved to repay, with or without interest, the funds used; but
     (c) does not include debt incurred in connection with the hire purchase of goods, the deferred purchase of goods or services, or the giving of credit for the purchase of goods or services if—
       (i) the period for which the indebtedness is outstanding is less than 91 days and the indebtedness is not incurred again promptly after payment; or
-      (ii) the goods or services are obtained in the ordinary course of the local authority's performance of its lawful responsibilities, on terms and conditions available generally to parties of equivalent credit-worthiness, for amounts not exceeding in aggregate an amount—
+      (ii) the goods or services are obtained in the ordinary course of the local authority's performance of its lawful responsibilities, on terms and conditions available generally to parties of equivalent credit worthiness, for amounts not exceeding in aggregate an amount—
         (A) determined by resolution of the local authority as not being so significant as to require specific authorisation; or
-        (B) recorded for the purposes of this subparagraph of this paragraph of this definition in the then current borrowing management policy of the local authority—
+        (B) recorded for the purposes of this subparagraph in the then current borrowing management policy of the local authority—
   - **charge** includes a mortgage, a floating charge, and any other non-possessory security interest deliberately created by the local authority concerned
-  - **incidental arrangement** means—
+  - **incidental arrangement** means—and includes the creation of a charge
     (a) a contract or arrangement for the management, reduction, sharing, limiting, assumption, offset, or hedging of financial risks and liabilities in relation to any investment or investments or any loan or loans or other incidental arrangement, whether or not that contract or arrangement involves—
       (i) the expenditure, borrowing, or lending of money; or
       (ii) the local authority undertaking to make payments in exchange for another person undertaking to make payments to the local authority; or
       (iii) the creation or acquisition or disposal of any property or right; or
-    (b) a contract or arrangement with any bank, financial institution, or other person providing for any person to act as underwriter, broker, indemnifier, guarantor, accommodation party, manager, dealer, trustee, registrar, or paying, fiscal, or other agent for, or in connection with, any loan or investment—and includes the creation of a charge
+    (b) a contract or arrangement with any bank, financial institution, or other person providing for any person to act as underwriter, broker, indemnifier, guarantor, accommodation party, manager, dealer, trustee, registrar, or paying, fiscal, or other agent for, or in connection with, any loan or investment—
   - **loan** includes the amounts raised or indebtedness incurred, as the context may require, as a result of borrowing
   - **protected transaction** means—
     (a) any deed, agreement, right, or obligation constituting, relating to, or for the purpose of, any borrowing or incidental arrangement; and
@@ -1384,7 +1383,7 @@ In this Part,—
     (a) an assessment of water services and other sanitary services available to communities in the district of the territorial authority; but
     (b) does not include assessments in relation to individual properties
   - **local government organisation** means a local authority, council-controlled organisation, or a subsidiary of a council-controlled organisation, that provides water services
-  - **sanitary services** has the same meaning as sanitary works in section 25(1)(a), (b), (c), (d), (h), and (i) of the Health Act 1956
+  - **sanitary services** has the same meaning as sanitary works in section 25(1)(a), (b), (d), (h), and (i) of the Health Act 1956
   - **wastewater services** means sewerage, treatment and disposal of sewage, and stormwater drainage
   - **water services** means water supply and wastewater services
   - **water supply** means the provision of drinking water to communities by network reticulation to the point of supply of each dwellinghouse and commercial premise to which drinking water is supplied.
@@ -1438,7 +1437,7 @@ An assessment of sanitary services must contain the following information:
   (b) any comments by the Medical Officer of Health.
 (3) An assessment of sanitary services is not required to address matters that a territorial authority considers have been adequately addressed in—
   (a) an assessment made under section 125; or
-  (b) a waste management plan made under Part 31 of the Local Government Act 1974.
+  (b)
 (4) In this subpart, Medical Officer of Health has the meaning given to it in section 2(1) of the Health Act 1956.
 
 ### 129 Extent of information in assessments
@@ -1533,7 +1532,7 @@ A local government organisation may only transfer a water service under section 
 (3) However, before a local government organisation enters into a joint arrangement or joint local government arrangement, it must,—
   (a) in the case of a local government organisation that is a local authority, have undertaken consultation in accordance with the procedures set out in Part 6; and
   (b) in the case of a local government organisation that is not a local authority, have undertaken consultation in accordance with the procedures set out in Part 6 as if it were a local authority; and
-  (c) in the case of a local government organisation that is a local authority, have regard (where relevant) to its policy under section 102(4)(e) (which relates to partnerships between the local authority and the private sector.
+  (c) in the case of a local government organisation that is a local authority, have regard (where relevant) to its policy under section 102(4)(e) (which relates to partnerships between the local authority and the private sector).
 (4) If a local government organisation enters into a joint arrangement under subsection (2)(a), it must retain—
   (a) control over all matters relating to—
     (i) the pricing of water services; and
@@ -1879,12 +1878,12 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
     (i) use any assistance that is necessary in the circumstances; and
     (ii) use any force that is reasonably necessary to enter the land and seize and impound the property concerned.
 (4) In this section, judicial officer means—
-  (a) a District Court Judge, duly authorised Justice of the Peace, community magistrate, or Registrar of a District Court; but
+  (a) a District Court Judge, duly authorised Justice of the Peace, Community Magistrate, or Registrar of a District Court; but
   (b) does not include a Justice of the Peace who is the mayor, an elected member, or an employee, of the local authority.
 
 ### 166 Conditions for exercise of warrant to seize property on private land
 (1) An enforcement officer executing a warrant issued under section 165(1) must—
-  (a) be accompanied by a member of the police; and
+  (a) be accompanied by a constable; and
   (b) when entering the land and when reasonably requested to do so afterwards, produce for inspection by any person occupying the land at the time—
     (i) the warrant; and
     (ii) evidence of the officer's identity; and
@@ -1921,34 +1920,34 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 
 ### 169 Powers of arrest, search, and seizure in relation to bylaw prohibiting liquor in public place
 (1) In this section and in section 170,—
-  - **bylaw** means a bylaw made under section 147(2).
+  - **bylaw** means a bylaw made under section 147(2)
   - **liquor** has the meaning given to it in the Sale of Liquor Act 1989
   - **offence** means an offence under section 239 that is a breach of a bylaw prohibiting—
     (a) the consumption or possession or both of liquor in, or the bringing of liquor into, a public place; or
-    (b) in conjunction with a prohibition relating to liquor, the presence or use of a vehicle in a public place.
+    (b) in conjunction with a prohibition relating to liquor, the presence or use of a vehicle in a public place
   - **public place** means a public place as defined in section 147(1) in respect of which there is a bylaw prohibiting—
     (a) the consumption or possession or both of liquor in, or the bringing of liquor into, that place; or
     (b) in conjunction with a prohibition relating to liquor, the presence or use of a vehicle in that place.
-(2) A member of the police may, without warrant,—
+(2) A constable may, without warrant,—
   (a) for the purpose of ascertaining whether liquor is present, search—
     (i) a container (for example, a parcel, package, bag, or case) in the possession of a person who is in, or entering, a public place:
     (ii) a vehicle that is in, or is entering, a public place:
   (b) seize and remove liquor and its container if the liquor is in a public place in breach of a bylaw:
-  (c) arrest a person whom the member of the police finds committing an offence:
-  (d) arrest a person who has refused to comply with a request by a member of the police—
+  (c) arrest a person whom the constable finds committing an offence:
+  (d) arrest a person who has refused to comply with a request by a constable—
     (i) to leave the public place; or
-    (ii) to surrender to a member of the police the liquor that, in breach of a bylaw, is in that person's possession.
+    (ii) to surrender to a constable the liquor that, in breach of a bylaw, is in that person's possession.
 (3) Liquor or a container seized under subsection (2)(b) is forfeited to the Crown if the person from whom the liquor or container is seized is convicted of breaching the bylaw.
 
 ### 170 Conditions relating to power of search
-(1) Before exercising the power of search under section 169(2)(a) in relation to a container or a vehicle, a member of the police must—
+(1) Before exercising the power of search under section 169(2)(a) in relation to a container or a vehicle, a constable must—
   (a) inform the person in possession of the container or the vehicle, as the case may be, that he or she has the opportunity of removing the container or the vehicle from the public place; and
   (b) provide the person with a reasonable opportunity to remove the container or the vehicle, as the case may be, from the public place.
-(2) However, on specified dates or in relation to specified events, notified in accordance with subsection (3), a member of the police may, immediately and without further notice, exercise the power under section 169(2)(a) to search a container or a vehicle.
-(3) Before a member of the police may exercise the power of search under subsection (2), the territorial authority must—
-  (a) specify the public place (within the meaning of section 169(1)) where, and the period when, this power may be exercised by the police by public notice given 14 days in advance in accordance with this Act; and
+(2) However, on specified dates or in relation to specified events, notified in accordance with subsection (3), a constable may, immediately and without further notice, exercise the power under section 169(2)(a) to search a container or a vehicle.
+(3) Before a constable may exercise the power of search under subsection (2), the territorial authority must—
+  (a) specify the public place (within the meaning of section 169(1)) where, and the period when, this power may be exercised by the Police by public notice given 14 days in advance in accordance with this Act; and
   (b) indicate the location of the public place by 1 or more clearly legible notices affixed in 1 or more conspicuous places on, or adjacent to, the place to which the notice relates, unless it is impracticable or unreasonable to do so.
-(4) Subsection (2) only applies if the member of the police is authorised to exercise that power by a bylaw made under section 147.
+(4) Subsection (2) only applies if the constable is authorised to exercise that power by a bylaw made under section 147.
 
 **Powers of entry**
 
@@ -1972,7 +1971,7 @@ A bylaw that is not reviewed as required under section 158 or 159, if not earlie
 (2) Before exercising the power in subsection (1), the officer must, if practicable, give reasonable notice to the occupier of the land of the intention to exercise the power, unless the giving of notice would defeat the purpose of entry.
 (3) The power in subsection (1) to enter a dwellinghouse must not be exercised unless—
   (a) the entry is authorised by a warrant given by a District Court Judge on written application on oath; and
-  (b) when exercising the power, the enforcement officer is accompanied by a member of the police.
+  (b) when exercising the power, the enforcement officer is accompanied by a constable.
 (4) Before exercising the power in subsection (1), the officer must produce evidence of his or her identity and authority to exercise the power,—
   (a) if practicable, on first entering the land or premises; and
   (b) whenever subsequently reasonably requested to do so.
@@ -2215,7 +2214,7 @@ In this subpart and Schedule 13,—
     (b) calculated in accordance with the methodology; and
     (c) comprising—
       (i) money; or
-      (ii) land, including a reserve or esplanade reserve (other than in relation to a subdivision consent), but excluding Maori land within the meaning of Te Ture Whenua Maori Act 1993, unless that Act provides otherwise; or
+      (ii) land, including a reserve or esplanade reserve (other than in relation to a subdivision consent), but excluding Māori land within the meaning of Te Ture Whenua Maori Act 1993, unless that Act provides otherwise; or
       (iii) both
   - **development contribution policy** means the policy on development contributions included in the long-term council community plan of the territorial authority under section 102(4)(d)
   - **methodology** means the methodology for calculating development contributions set out in Schedule 13
@@ -2305,7 +2304,7 @@ A territorial authority must use a development contribution received for reserve
   (d) payment, on terms and conditions the territorial authority thinks fit, to—
     (i) another local authority or public body in which land in the district is vested to enlarge, enhance, or develop the land for public recreation purposes:
     (ii) the administering body of a reserve held under the Reserves Act 1977 to enlarge, enhance, or develop the reserve:
-    (iii) the trustees or body corporate in whom is vested a Maori reservation to which section 340 of Te Ture Whenua Maori Act 1993 applies, to enhance the reservation for cultural or other purposes:
+    (iii) the trustees or body corporate in whom is vested a Māori reservation to which section 340 of Te Ture Whenua Maori Act 1993 applies, to enhance the reservation for cultural or other purposes:
     (iv) any person, to secure an appropriate interest in perpetuity in land for conservation purposes.
 
 ### 206 Alternative uses of development contributions for reserves
@@ -2363,9 +2362,9 @@ This subpart is in addition to the Building Act 2004 and the Resource Management
 ### 212 Interpretation
 In sections 215 to 221 and Schedule 14, unless the context otherwise requires,—
   - **alter** , in relation to a fence, structure, or vegetation, includes the removal of all or part of the fence, structure, or vegetation if that removal is associated with its rebuilding or re-erection or replanting in a form specified in the removal order
-  - **applicant** means a territorial authority or member of the police who applies for a removal order under section 215
+  - **applicant** means a territorial authority or constable who applies for a removal order under section 215
   - **controlled drug** has the meaning given to it by section 2(1) of the Misuse of Drugs Act 1975
-  - **Court** means a District Court; and includes a District Court Judge
+  - **court** means a District Court; and includes a District Court Judge
   - **crime involving dishonesty** has the meaning given to it by section 2(1) of the Crimes Act 1961
   - **plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
   - **proceeds** means property that is derived or realised, directly or indirectly, by a person from the commission of a serious offence
@@ -2382,7 +2381,7 @@ In sections 215 to 221 and Schedule 14, unless the context otherwise requires,�
       (i) a firearm, airgun, pistol, restricted weapon, or explosive, as those terms are defined in section 2 of the Arms Act 1983:
       (ii) any ammunition.
 
-**Application of rules of Court**
+**Application of rules of court**
 
 ### 213 Application of District Courts Rules to removal orders
 (1) Despite section 247, an application made under section 215 must be made in accordance with Part 6B of the District Courts Rules 1992 and any rules made under subsection (2) or section 214.
@@ -2397,8 +2396,8 @@ Without limiting section 213(2), rules made in accordance with that subsection u
   (a) prescribe the procedure for serving a removal order, notice, and other documents for the purposes of sections 215 to 221 and Schedule 14 (including, without limitation, the circumstances in which service may be effected by leaving a copy of the order, notice, or document at the property to which the order relates):
   (b) provide for substituted service, and for service to be dispensed with, in the circumstances that are specified in the rules:
   (c) prescribe the circumstances and, if applicable, the manner in which persons entitled to object to a removal order may be served with a copy of notices of objection or other notices or documents in the proceedings:
-  (d) provide that Registrars may exercise specified powers of the Court or a Judge:
-  (e) provide that proceedings may be stayed or dismissed, that an objection may be struck out, or that a party may not appear at the hearing of an objection to a removal order (whether not at all or only on the terms that the Court considers appropriate)—
+  (d) provide that Registrars may exercise specified powers of the court or a Judge:
+  (e) provide that proceedings may be stayed or dismissed, that an objection may be struck out, or that a party may not appear at the hearing of an objection to a removal order (whether not at all or only on the terms that the court considers appropriate)—
     (i) if certain specified requirements of the rules are not complied with; or
     (ii) unless certain specified requirements of the rules are complied with; or
     (iii) if an order made under the rules is not complied with; or
@@ -2409,14 +2408,14 @@ Without limiting section 213(2), rules made in accordance with that subsection u
 **Application for removal order**
 
 ### 215 Application for removal order
-(1) A territorial authority or member of the police may, without notice, apply to a District Court in the form prescribed in Part 6B of the District Courts Rules 1992 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
+(1) A territorial authority or constable may, without notice, apply to a District Court in the form prescribed in Part 6B of the District Courts Rules 1992 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
 (2) Schedule 14 applies to applications made under this section.
 
 **Making of removal orders**
 
-### 216 Circumstances when Court may make removal order
+### 216 Circumstances when court may make removal order
 The District Court may make a removal order if—
-  (a) the Court is satisfied that the property is occupied, or regularly used, by persons who have been convicted of, or have committed, are committing, or are likely to commit, offences; and
+  (a) the court is satisfied that the property is occupied, or regularly used, by persons who have been convicted of, or have committed, are committing, or are likely to commit, offences; and
   (b) the fence, structure, or vegetation—
     (i) has facilitated or contributed to, is facilitating or contributing to, or is intended to facilitate or contribute to—
       (A) the concealment on the property of an unauthorised weapon, controlled drug, tainted property, or property that is stolen or obtained by a crime involving dishonesty; or
@@ -2427,15 +2426,15 @@ The District Court may make a removal order if—
 **Objection to making of removal order**
 
 ### 217 Right of objection
-(1) If the Court makes a removal order under section 216, the persons listed in clause 3(a) of Schedule 14 may object to the order being made.
-(2) A notice of objection lodged under subsection (1) operates as a stay of the removal order, pending the Court's decision on the objection.
+(1) If the court makes a removal order under section 216, the persons listed in clause 3(a) of Schedule 14 may object to the order being made.
+(2) A notice of objection lodged under subsection (1) operates as a stay of the removal order, pending the court's decision on the objection.
 
 ### 218 Consideration of objections
-(1) After considering any objection made under section 217(1) to a removal order, the Court may—
+(1) After considering any objection made under section 217(1) to a removal order, the court may—
   (a) confirm the order; or
   (b) confirm the order but vary all or any of its terms; or
   (c) discharge the order.
-(2) Without limiting the powers of the Court, the Court may strike out an objection made under section 217(1) if it is satisfied that the objection is frivolous or vexatious or an abuse of the procedure of the Court.
+(2) Without limiting the powers of the court, the court may strike out an objection made under section 217(1) if it is satisfied that the objection is frivolous or vexatious or an abuse of the procedure of the court.
 
 **Right of appeal**
 
@@ -2445,11 +2444,11 @@ If a party to proceedings under this subpart appeals to the High Court under Par
 **Compliance with removal order**
 
 ### 220 Compliance with removal order
-(1) If no notice of objection to a removal order is lodged under section 217(1), or if the Court confirms an order under section 218(1) with or without variation, the respondent must—
+(1) If no notice of objection to a removal order is lodged under section 217(1), or if the court confirms an order under section 218(1) with or without variation, the respondent must—
   (a) comply with a removal order within the period specified in the order; and
   (b) unless the order directs otherwise, pay all the costs and expenses of complying with the order.
 (2) If the respondent fails to comply with a removal order, the applicant, without further notice, and using the force that is reasonable in the circumstances, may—
-  (a) enter the place where the fence, structure, or vegetation is situated and any portion of the adjoining land if reasonably necessary and authorised by the Court in the removal order; and
+  (a) enter the place where the fence, structure, or vegetation is situated and any portion of the adjoining land if reasonably necessary and authorised by the court in the removal order; and
   (b) remove or alter the fence, structure, or vegetation, or arrange for its removal or alteration in accordance with the terms of the removal order; and
   (c) sell or otherwise dispose of structures or materials salvaged in complying with the order; and
   (d) after allowing for any money received under paragraph (c), recover the costs and expenses incurred in carrying out the terms of the removal order as a debt from the respondent.
@@ -2459,9 +2458,9 @@ If a party to proceedings under this subpart appeals to the High Court under Par
 ### 221 Limits to power of entry to enforce compliance
 (1) If a respondent fails to comply with a removal order, and the applicant enforces compliance under section 220(2), the power conferred by that subsection to enter a place for that purpose is subject to the following conditions:
   (a) entry upon the property must be made only by—
-    (i) a member of the police; or
-    (ii) if the order was made on the application of a territorial authority, an officer of that authority or a member of the police or both; and
-    (iii) any other person, whether a contractor, agent, or otherwise, authorised in writing by the member of the police or the territorial authority, as the case may be, and who is necessary to effect the alterations to, or removal of, the fence, structure, or vegetation, as required by the order; or
+    (i) a constable; or
+    (ii) if the order was made on the application of a territorial authority, an officer of that authority or a constable or both; and
+    (iii) any other person, whether a contractor, agent, or otherwise, authorised in writing by the constable or the territorial authority, as the case may be, and who is necessary to effect the alterations to, or removal of, the fence, structure, or vegetation, as required by the order; or
   (b) entry must be made at reasonable times; and
   (c) a person entering the property must carry evidence of his or her identity and authority to enter, and must produce that evidence to the owner or occupier, if present, on initial entry and subsequently if required to do so; and
   (d) as soon as practicable after entry is made, the applicant must give notice in writing, in the prescribed form and manner, to the owner and to the occupier of the property of the entry and the reasons for it.
@@ -2473,12 +2472,12 @@ If a party to proceedings under this subpart appeals to the High Court under Par
 Except as otherwise provided in this subpart or in Schedule 14, sections 215 to 221 and Schedule 14 apply in addition to, and not in derogation of, the provisions relating to the removal or alteration of fences, structures, or vegetation under this Act, the Resource Management Act 1991, and the Building Act 2004.
 
 ### 223 Relationship with Fencing Act 1978
-(1) If a fence, within the meaning of section 2 of the Fencing Act 1978, or vegetation or a structure that is, or forms part of, a fence, is altered in accordance with a removal order made under this subpart, it is presumed, unless a Court orders otherwise under the Fencing Act 1978, to be an adequate fence within the meaning of that Act in respect of the part of the boundary of the property that it covers until the expiry of the period described in subsection (4).
+(1) If a fence, within the meaning of section 2 of the Fencing Act 1978, or vegetation or a structure that is, or forms part of, a fence, is altered in accordance with a removal order made under this subpart, it is presumed, unless a court orders otherwise under the Fencing Act 1978, to be an adequate fence within the meaning of that Act in respect of the part of the boundary of the property that it covers until the expiry of the period described in subsection (4).
 (2) Until the expiry of the period described in subsection (4), if a fence, structure, or vegetation is removed under a removal order made under this subpart, the Fencing Act 1978 applies in respect of any boundary on the property affected by the removal as if section 9 of that Act required the occupier of the property in respect of which the order was made to pay the total cost of work on a fence.
 (3) For the purposes of subsection (2), occupier has the meaning given to it by section 2 of the Fencing Act 1978.
-(4) The period referred to in subsections (1) and (2) is the shorter period of—made.
+(4) The period referred to in subsections (1) and (2) is the shorter period of—
   (a) 3 years from the date of the removal order; or
-  (b) the period from the date of the removal order until the date on which the respondent ceases to occupy or, if the respondent was the owner of the property, ceases to own the property in respect of which the order was
+  (b) the period from the date of the removal order until the date on which the respondent ceases to occupy or, if the respondent was the owner of the property, ceases to own the property in respect of which the order was made.
 (5) For the purposes of subsection (4), the date of the removal order is the date on which the order was made under section 216 or, if an objection was made under section 217(1), the date on which the order was confirmed or varied under section 218(1).
 
 ## Part 9 — Offences, penalties, infringement offences, and legal proceedings
@@ -2568,7 +2567,7 @@ Every person commits an offence and is liable on summary conviction to the penal
 
 ### 230 Offences by occupiers
 (1) Every occupier of premises commits an offence and is liable on summary conviction to the penalty specified in section 242(2) who—
-  (a) refuses or wilfully omits to disclose or wilfully mis-states the name or address of the owner of the premises when requested to do so by an officer of the local authority or by a person acting under the authority of the local authority for the purpose of giving effect to the provisions of this Act or of any other enactment in relation to the premises; or
+  (a) refuses or wilfully omits to disclose or wilfully misstates the name or address of the owner of the premises when requested to do so by an officer of the local authority or by a person acting under the authority of the local authority for the purpose of giving effect to the provisions of this Act or of any other enactment in relation to the premises; or
   (b) refuses or neglects to allow the owner of the premises to give effect to the provisions of this Act or of any other enactment in respect of the premises.
 (2) The owner is not liable to a fine for a default for which he or she might otherwise be liable if he or she proves that the default was due to the refusal or neglect of the occupier.
 
@@ -2592,16 +2591,16 @@ Every person who fails to comply with a notice referred to in section 184(1) com
 ### 233 Offence relating to advertising
 Every person who wilfully contravenes clause 58 of Schedule 3 (which relates to the authorisation of advertising) commits an offence and is liable on summary conviction to the penalty specified in section 242(2).
 
-### 234 Unauthorised use of Coat of Arms
+### 234 Unauthorised use of coat of arms
 Every person commits an offence and is liable on summary conviction to the penalty specified in section 242(2) who, without prior written authority of the relevant local authority,—
-  (a) for the purposes of sale, applies or permits to be applied to an article the Coat of Arms of the local authority or an imitation of that Coat of Arms; or
-  (b) sells or offers the article for sale, or permits it to be sold or offered for sale, knowing that the Coat of Arms or an imitation of it has been applied to the article.
+  (a) for the purposes of sale, applies or permits to be applied to an article the coat of arms of the local authority or an imitation of that coat of arms; or
+  (b) sells or offers the article for sale, or permits it to be sold or offered for sale, knowing that the coat of arms or an imitation of it has been applied to the article.
 
 **Offences committed by members and officers of local authorities**
 
 ### 235 Offences by members of local authorities
 (1) Every person who contravenes clause 1(3), clause 2(6), or clause 14(1) of Schedule 7 commits an offence and is liable on summary conviction to the penalty set out in section 242(2).
-(2) Fines recovered by the Secretary in proceedings instituted under clause 1(3), clause 2(6), or clause 14(1) of Schedule 7 must be paid into the Crown Bank Account.
+(2) Fines recovered by the Secretary in proceedings instituted under clause 1(3), clause 2(6), or clause 14(1) of Schedule 7 must be paid into a Crown Bank Account.
 (3) Despite subsection (1), a person does not commit an offence if the person contravenes clause 1(3) of Schedule 7 while detained in a hospital under the Mental Health (Compulsory Assessment Treatment) Act 1992.
 
 ### 236 Penalty for acting without warrant
@@ -2627,18 +2626,18 @@ Every person who wilfully contravenes clause 11(2) of Schedule 7—
   (a) under this Act, or the bylaw or regulation made under this Act; or
   (b) under any other Act; but
   (c) must not be punished both under this Act, or under any bylaw or regulation made under this Act, and also under any other Act in respect of the same act or failure.
-(4) In this section direction includes a request by a member of the police under section 169(2)(d).
+(4) In this section direction includes a request by a constable under section 169(2)(d).
 
 **Offences against bylaws**
 
 ### 239 Offences punishable on summary conviction
-(1) Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(4) or (5), as the case may be, who breaches a bylaw made under Part 8 of this Act.
+(1) Every person commits an offence and is liable on summary conviction to the penalty set out in section 242(4) or (5), as the case may be, who breaches a bylaw made under Part 8.
 (2) A District Court presided over by 2 or more Justices has jurisdiction in respect of any summary offence that is a breach of a bylaw made under section 147.
 
 **Defences**
 
 ### 240 Defence to offences under this Act
-(1) It is a defence to any offence under this Act or under bylaws made under this Act if the Court is satisfied—
+It is a defence to any offence under this Act or under bylaws made under this Act if the court is satisfied—
   (a) that—
     (i) the act giving rise to the offence was necessary—
       (A) to save or protect life or health or prevent injury; or
@@ -2841,24 +2840,19 @@ The Governor-General may, by Order in Council, do 1 or more of the following:
 The Acts specified in Schedule 16 are consequentially amended in the manner indicated in that schedule.
 
 ### 263 Water services
-(1) Section 707ZZZS(1) of the Local Government Act 1974 is amended by inserting, after paragraph (e), the following paragraph:.
-  (ea) subject to subsection (2A), may, at the request of any territorial authority that holds shares in Watercare Services Limited, operate, repair, and maintain waterworks necessary to distribute water to consumers within such area within that territorial authority's district, and on such terms and conditions, as it agrees with that territorial authority:
-(2) Section 707ZZZS of the Local Government Act 1974 is amended by inserting, after subsection (2), the following subsection:
-  (2A) Watercare Services Limited may only enter into an agreement under subsection (1)(ea) if that agreement is supported by territorial authorities that hold 75% or more of the shares in Watercare Services Limited.
+Amendment(s) incorporated in the Act(s).
 
 ### 264 Amendment to Personal Property Securities Act 1999
-Section 23(d) of the Personal Property Securities Act 1999 is repealed.
+Amendment(s) incorporated in the Act(s).
 
 ### 265 New Schedule added to Receiverships Act 1993
-The Receiverships Act 1993 is amended by adding the Schedule set out in Schedule 17.
+Amendment(s) incorporated in the Act(s).
 
 ### 266 Repeals
 The enactments specified in Schedule 18 are repealed.
 
 ### 267 Repeal of enactments relating to special consultative procedure
-The following enactments are repealed:
-  (a) section 716A of the Local Government Act 1974:
-  (b) section 39 of the Local Government Amendment Act (No 2) 1989.
+Amendment(s) incorporated in the Act(s).
 
 ### 268 Repeal of Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001
 (1) The Local Government (Prohibition of Liquor in Public Places) Amendment Act 2001 is repealed.
@@ -2868,14 +2862,14 @@ The following enactments are repealed:
 The enactments specified in Schedule 19 are repealed.
 
 ### 270 Repeal of provisions relating to regional parks of Wellington Regional Council
-Sections 619 and 619C to 619I of the Local Government Act 1974 (which relate to the regional parks and reserves of the Wellington Regional Council) are repealed as from the close of the period of 60 months beginning with the date of commencement of this section.
+Amendment(s) incorporated in the Act(s).
 
 ### 271 Lake Taupo Regulations 1976
 (1) Unless sooner revoked, the Lake Taupo Regulations 1976 (SR 1976/330) continue in force until the close of 30 June 2003, or such later date (not being later than 30 June 2004) as may be specified by Order in Council, as if the Harbours Act 1950 had not been repealed by section 10 of the Local Government Amendment Act (No 2) 1999.
 (2) The Governor-General may from time to time, by Order in Council, make regulations—
   (a) amending the regulations specified in subsection (1) by providing for any purpose for which navigation bylaws may be made or for which maritime rules may be made:
   (b) revoking the regulations specified in subsection (1), in whole or in part.
-(3) Section 12(1)(e) of the Local Government Amendment Act (No 2) 1999 is repealed.
+(3) Amendment(s) incorporated in the Act(s).
 (4) This section has effect despite anything in section 12 of the Local Government Amendment Act (No 2) 1999.
 
 ### 272 Revocations
@@ -2935,8 +2929,8 @@ Every local authority must adopt under section 93 a long-term council community 
   (c) sections 85 and 95 do not apply to the preparation and adoption of any such report.
 (4) Subsection (1) does not authorise a local authority to prepare and adopt a long-term financial strategy relating to a period beginning on 1 July 2003.
 (5) This section applies to the Chatham Islands Council—
-  (a) as if, in subsections (1) to (3), for the words section 223D of the Local Government Act 1974 wherever they appear, there were substituted in each case the words section 10 of the Chatham Islands Council Act 1995 ; and
-  (b) as if, in subsection (1), for the words Part 7A of that Act, there were substituted the words Part 7A of the Local Government Act 1974 ; and
+  (a) as if, in subsections (1) to (3), for the words section 223D of the Local Government Act 1974 wherever they appear, there were substituted in each case the words section 10 of the Chatham Islands Council Act 1995; and
+  (b) as if, in subsection (1), for the words Part 7A of that Act, there were substituted the words Part 7A of the Local Government Act 1974; and
   (c) as if, in subsection (2), for the expression section 223D(3)(d) to (g), there were substituted the expression section 10(3)(d).
 
 ### 282 Certain decisions to be taken only if provided for in annual plan or special consultative procedure used
@@ -2948,9 +2942,9 @@ A local authority that has not adopted its first long-term council community pla
 (1) If a local authority has prepared and adopted a report under section 223D of the Local Government Act 1974 for any year, whether before or after the commencement of this section, the local authority must prepare an annual report under section 223E of that Act in respect of that year, and that section and Part 7A of that Act apply to that annual report as if they had not been repealed.
 (2) For the avoidance of doubt, sections 98 and 99 do not apply to the preparation and adoption, in accordance with subsection (1), of a report under section 223E of the Local Government Act 1974.
 (3) This section applies to the Chatham Islands Council—
-  (a) as if, in subsection (1), for the words section 223D of the Local Government Act 1974, there were substituted the words section 10 of the Chatham Islands Council Act 1995 ; and
-  (b) as if, in subsection (1), for the expression section 223E, there were substituted the expression section 11 ; and
-  (c) as if, in subsection (1), for the words Part 7A of that Act, there were substituted the words Part 7A of the Local Government Act 1974 ; and
+  (a) as if, in subsection (1), for the words section 223D of the Local Government Act 1974, there were substituted the words section 10 of the Chatham Islands Council Act 1995; and
+  (b) as if, in subsection (1), for the expression section 223E, there were substituted the expression section 11; and
+  (c) as if, in subsection (1), for the words Part 7A of that Act, there were substituted the words Part 7A of the Local Government Act 1974; and
   (d) as if, in subsection (2), for the words section 223E of the Local Government Act 1974 there were substituted the words section 11 of the Chatham Islands Council Act 1995.
 
 ### 284 First annual plan
@@ -3066,7 +3060,7 @@ If a local authority has, before the commencement of this section, established a
 In the case of any appointment of the Public Trust or the Board of Trustees of the National Provident Fund (referred to in this section as the retiring Commissioner) as sole Commissioner of the sinking fund of any loan in respect of which a local authority is liable, then, despite any other enactment, any rule of law, or the terms of the appointment,—
   (a) the retiring Commissioner may, with the consent of the Governor-General in Council and of the proposed replacement Commissioner, revoke that appointment and appoint any person otherwise entitled to be a Commissioner in the retiring Commissioner's place; and
   (b) the retiring Commissioner must, immediately after the revocation of the retiring Commissioner's appointment, transfer the money or assets representing the sinking fund to the replacement Commissioner; and
-  (c) No liability will be incurred by the retiring Commissioner in respect of any sinking fund after completion of the transfer of the money or assets representing that fund.
+  (c) no liability will be incurred by the retiring Commissioner in respect of any sinking fund after completion of the transfer of the money or assets representing that fund.
 
 ### 303 Public Bodies Leases Act 1969
 (1) Every territorial authority and regional council ceases, as from the commencement of this section, to be a leasing authority for the purposes of the Public Bodies Leases Act 1969.
@@ -3085,7 +3079,7 @@ Section 55(3) of the Local Government Amendment Act (No 2) 1989 continues to hav
 (2) Despite subsection (1) and clauses 60(1) and 61 of Schedule 3, if a local authority repays, before its maturity, any loan that is secured by a rate to which clause 60(1) of Schedule 3 refers or any loan in respect of which a rate has been made and levied pursuant to clause 61 of Schedule 3, the provisions of clause 60(1) of Schedule 3 or of clause 61 of Schedule 3 or of both, as the case may require, cease to apply to the rate or the area of land upon which the rate is charged.
 
 ### 307 Existing proceedings
-All applications, actions, appeals, proceedings, and other matters under any Act which, before the commencement of this section, have been made or referred under any provision of the Local Government Act 1974 that is repealed by this Act or any provision of any other Act amended or repealed by that Act or by this Act to any Court or the Commission and which have not been determined or completed at the commencement of this section are to be determined or completed by the Court or the Commission, as the case may require, as if this Act had not been passed.
+All applications, actions, appeals, proceedings, and other matters under any Act which, before the commencement of this section, have been made or referred under any provision of the Local Government Act 1974 that is repealed by this Act or any provision of any other Act amended or repealed by that Act or by this Act to any court or the Commission and which have not been determined or completed at the commencement of this section are to be determined or completed by the court or the Commission, as the case may require, as if this Act had not been passed.
 
 ### 308 Existing causes of action
 (1) Subject to the applicable period of limitation, the repeal by this Act of any existing Act or provision does not extinguish any existing cause of action.
@@ -3100,7 +3094,7 @@ All applications, actions, appeals, proceedings, and other matters under any Act
 ### 310 Saving in respect of bylaws of Transit New Zealand
 The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by Transit New Zealand under section 61(3) of the Transit New Zealand Act 1989 or the power of the New Zealand Transport Agency to make further bylaws under section 61(3) of Government Roading Powers Act 1989.
 
-### 311 Savings in respect of bylaws made in respect of Government roads
+### 311 Savings in respect of bylaws made in respect of government roads
 The repeal of section 684(1)(38) to (40) and of section 684(2) of the Local Government Act 1974 by this Act does not affect any bylaws made by the Minister of Transport under section 48(2) of the Transit New Zealand Act 1989 or the power of the Minister of Transport to make further bylaws under section 48(2) of that Act.
 
 ### 312 Savings and validation in respect of remuneration, allowances, and expenses of elected members
@@ -3140,7 +3134,7 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Bay of Plenty Regional Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Canterbury Regional Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Hawke's Bay Regional Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
-| Manawatu-Wanganui Regional Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Manawatu–Wanganui Regional Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Northland Regional Council | Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391 |
 | Otago Regional Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Southland Regional Council | Local Government (Southland Region) Reorganisation Order 1989, Gazette 1989, p 2430 |
@@ -3170,22 +3164,22 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Hamilton City Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Hastings District Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
 | Hauraki District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
-| Horowhenua District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Horowhenua District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Hurunui District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
 | Hutt City Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Invercargill City Council | Local Government (Invercargill City) Reorganisation Order 1990, Gazette 1990, p 2326 |
-| Kaikoura District Council | Local Government (Nelson-Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
+| Kaikoura District Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | Kaipara District Council | Local Government (Northland Region) Reorganisation Order 1989, Gazette 1989, p 2391 |
 | Kapiti Coast District Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Kawerau District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Mackenzie District Council | Local Government (Canterbury Region) Reorganisation Order 1989, Gazette 1989, p 2296 |
-| Manawatu District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Manawatu District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Manukau City Council | Local Government (Auckland Region) Reorganisation Order 1990, Gazette 1990, p 2247 |
-| Marlborough District Council | Local Government (Nelson-Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
+| Marlborough District Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | Masterton District Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Matamata-Piako District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Napier City Council | Local Government (Hawke's Bay Region) Reorganisation Order 1989, Gazette 1989, p 2334 |
-| Nelson City Council | Local Government (Nelson-Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
+| Nelson City Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | New Plymouth District Council | Local Government (Taranaki Region) Reorganisation Order 1989, Gazette 1989, p 2445 |
 | North Shore City Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Opotiki District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
@@ -3194,7 +3188,7 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Papakura District Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Porirua City Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Queenstown-Lakes District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
-| Rangitikei District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Rangitikei District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Rodney District Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Rotorua District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Ruapehu District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
@@ -3204,8 +3198,8 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | South Waikato District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Southland District Council | Local Government (Southland Region) Reorganisation Order 1989, Gazette 1989, p 2430 |
 | Stratford District Council | Local Government (Taranaki Region) Reorganisation Order 1989, Gazette 1989, p 2445 |
-| Tararua District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
-| Tasman District Council | Local Government (Nelson-Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
+| Tararua District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Tasman District Council | Local Government (Nelson–Marlborough Region) Reorganisation Order 1989, Gazette 1989, p 2375 |
 | Taupo District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
 | Tauranga City Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Thames-Coromandel District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
@@ -3219,7 +3213,7 @@ Despite the repeal by this Act of provisions of the Local Government Act 1974, s
 | Waitakere City Council | Local Government (Auckland Region) Reorganisation Order 1989, Gazette 1989, p 2247 |
 | Waitaki District Council | Local Government (Otago Region) Reorganisation Order 1989, Gazette 1989, p 2408 |
 | Waitomo District Council | Local Government (Waikato Region) Reorganisation Order 1989, Gazette 1989, p 2460 |
-| Wanganui District Council | Local Government (Manawatu-Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
+| Wanganui District Council | Local Government (Manawatu–Wanganui Region) Reorganisation Order 1989, Gazette 1989, p 2351 |
 | Wellington City Council | Local Government (Wellington Region) Reorganisation Order 1989, Gazette 1989, p 2491 |
 | Western Bay of Plenty District Council | Local Government (Bay of Plenty Region) Reorganisation Order 1989, Gazette 1989, p 2275 |
 | Westland District Council | Local Government (West Coast Region) Reorganisation Order 1989, Gazette 1989, p 2517 |
@@ -3377,8 +3371,8 @@ A reorganisation proposal is initiated if a copy of the proposal is filed at the
     (iv) the Parliamentary Commissioner for the Environment; and
     (v) the Secretary; and
     (vi) the Secretary for the Environment; and
-    (vii) the Chief Executive of Te Puni Kokiri; and
-    (viii) any affected Maori organisations identified by Te Puni Kokiri; and
+    (vii) the Chief Executive of Te Puni Kōkiri; and
+    (viii) any affected Māori organisations identified by Te Puni Kōkiri; and
     (ix) any other organisations that the joint committee of the affected local authorities, the appointed local authority, or the Commission considers appropriate; and
   (c) invite submissions in relation to the draft reorganisation scheme.
 
@@ -3565,8 +3559,8 @@ This subpart applies to any reorganisation proposal for any of the matters liste
     (iv) the Parliamentary Commissioner for the Environment; and
     (v) the Secretary; and
     (vi) the Secretary for the Environment; and
-    (vii) the Chief Executive of Te Puni Kokiri; and
-    (viii) any affected Maori organisations identified by Te Puni Kokiri; and
+    (vii) the Chief Executive of Te Puni Kōkiri; and
+    (viii) any affected Māori organisations identified by Te Puni Kōkiri; and
     (ix) any other persons or organisations that the Commission considers appropriate.
 (2) Any body or person that wishes to make a submission on a proposal must make the submission to the Commission within 60 days after the first public notification of the proposal or within any further time that the Commission may allow.
 (3) The Commission must grant the opportunity to meet with, and be heard by, the Commission on the proposal to—
@@ -3684,7 +3678,7 @@ The Governor-General may, by Order in Council, make regulations under section 25
 
 ### 54 Interpretation
 (1) In clauses 55 to 58, unless the context otherwise requires,—
-  - **advertising includes** —
+  - **advertising** includes—
     (a) advertising or publications of any kind or statements in any publication; or
     (b) paid announcements on radio or television broadcasting; or
     (c) publishing, issuing, distributing, or displaying any poster, pamphlet, or letter
@@ -3857,7 +3851,7 @@ The following provisions apply to each reorganisation scheme unless amended or d
 ## Schedule 4 — Provisions relating to Local Government Commission and its proceedings
 
 ### 1 Interpretation
-In this Schedule, unless the context otherwise requires,—
+In this schedule, unless the context otherwise requires,—
   - **member** means a member of the Commission appointed under section 33
   - **transaction** means a matter referred to in clause 17(2).
 
@@ -3909,7 +3903,7 @@ The members are to be paid remuneration by way of fees, allowances, or expenses 
 
 ### 9 Chairperson to preside
 (1) The chairperson must preside at all meetings of the Commission at which he or she is present.
-(2) The members present must appoint 1 of their number (not being a temporary member) to be the chairperson for the meeting if—
+(2) The members present must appoint one of their number (not being a temporary member) to be the chairperson for the meeting if—
   (a) the chairperson is not present; or
   (b) there is no chairperson.
 (3) The appointed person has and may exercise all the powers, duties, and functions of the chairperson for the purposes of the meeting.
@@ -4044,7 +4038,7 @@ A delegation—
 ### 2 Appeal to High Court
 (1) If a party to proceedings before the Commission or the Minister is dissatisfied with a decision of the Commission in the proceedings as being erroneous in point of law, the party or the Minister may appeal to the High Court on the question of law.
 (2) The decision of the High Court on the appeal is final.
-(3) Subject to clauses 4 to 9, an appeal under this clause must be dealt with in accordance with rules of Court.
+(3) Subject to clauses 4 to 9, an appeal under this clause must be dealt with in accordance with rules of court.
 (4) For the purposes of this clause and clauses 4 to 9, a local authority affected by the decision, and a person who has made submissions to the Commission in the proceedings, is to be treated as a party to the proceedings before the Commission.
 
 ### 3 Appeal in respect of additional points of law
@@ -4061,14 +4055,14 @@ A delegation—
   (a) the decision or the part of the decision appealed from; and
   (b) the error of law alleged by the appellant; and
   (c) the question of law to be resolved; and
-  (d) the grounds of the appeal, specified with such reasonable particularity as to give full advice to both the Court and the other parties of the issues involved.
+  (d) the grounds of the appeal, specified with such reasonable particularity as to give full advice to both the court and the other parties of the issues involved.
 (5) The Chief Executive Officer of the Commission must, as soon as practicable after receiving a copy of the notice of appeal, send a copy of the whole of the decision appealed from to the Registrar of the High Court in Wellington.
 
 ### 5 Preliminary orders
 (1) The High Court may, of its own motion or on the application of a party to the appeal, make 1 or more of the following orders:
   (a) an order directing the Commission to lodge with the Registrar of the High Court in Wellington a document or other written material or an exhibit in the possession or custody of the Commission:
-  (b) an order directing the Commission to lodge with the Registrar a report recording, in respect of any matter or issue that the Court may specify, any of the findings of fact of the Commission that are not set out or fully set out in its decision:
-  (c) an order directing the Commission to lodge with the Registrar a report setting out, in respect of a matter or issue that the Court may specify, any reasons or considerations of the Commission to which the Commission had regard but which are not set out in its decision.
+  (b) an order directing the Commission to lodge with the Registrar a report recording, in respect of any matter or issue that the court may specify, any of the findings of fact of the Commission that are not set out or fully set out in its decision:
+  (c) an order directing the Commission to lodge with the Registrar a report setting out, in respect of a matter or issue that the court may specify, any reasons or considerations of the Commission to which the Commission had regard but which are not set out in its decision.
 (2) An application under subclause (1) must,—
   (a) in the case of the appellant, be made within 1 month after the date of the lodging of the notice of appeal; or
   (b) in the case of any other party to the appeal, within 1 month after the date of the service on that party of a copy of the notice of appeal.
@@ -4092,7 +4086,7 @@ An appeal is, in all respects, ready for hearing and the Registrar must arrange 
 ### 8 Dismissal of appeal
 The High Court may dismiss an appeal—
   (a) if the appellant does not appear at the time appointed for the hearing of the appeal; or
-  (b) if the appellant does not prosecute the appeal with all due diligence and a party applies to the Court for the dismissal of the appeal.
+  (b) if the appellant does not prosecute the appeal with all due diligence and a party applies to the court for the dismissal of the appeal.
 
 ### 9 Extension of time
 The High Court or a High Court Judge may, in its or the Judge's discretion, on the application of the appellant or intending appellant or any other party, extend any time provided under this schedule for the lodging of any notice, application, or other document.
@@ -4184,8 +4178,8 @@ In deciding whether or not to constitute a community, the territorial authority 
 
 ### 2 Ouster of office of member
 (1) On proof by affidavit that a member of a local authority is, or has become, or was at the date of appointment or election, incapable of holding office under this Act, a District Court may call on that person to show cause why he or she should not be adjudged to be ousted from office.
-(2) If a District Court concludes that the member is or was incapable of holding office, the Court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
-(3) In proceedings under this clause, the District Court may exercise all the powers and authorities that it may exercise in its ordinary jurisdiction in civil cases, and the procedure of the Court applies generally, so far as practicable.
+(2) If a District Court concludes that the member is or was incapable of holding office, the court may adjudge that person to be ousted from office and that member is ousted from office accordingly.
+(3) In proceedings under this clause, the District Court may exercise all the powers and authorities that it may exercise in its ordinary jurisdiction in civil cases, and the procedure of the court applies generally, so far as practicable.
 (4) No matter in relation to a disputed appointment or election is to be heard by a District Court under this clause.
 (5) If a District Court adjudges that a member be ousted from his or her office,—
   (a) the decision is not to take effect—
@@ -4309,7 +4303,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (c) a member of the local authority; or
   (d) the chief executive of the local authority; or
   (e) in the absence of the chief executive, some other officer appointed by the chief executive.
-(3) The form of the declaration must consist of the following elements: Declaration by mayor or chairperson or member I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [ region or district ], the powers, authorities, and duties vested in, or imposed upon, me as [ mayor or chairperson or member ] of the [ local authority ] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other Act Dated at [ place ] this [ number ] day of [ month ] [ year ] Signature: Signed in the presence of: CD, [ mayor or chairperson or member or chief executive of local authority ].
+(3) The form of the declaration must consist of the following elements:Declaration by mayor or chairperson or member“I, AB, declare that I will faithfully and impartially, and according to the best of my skill and judgment, execute and perform, in the best interests of [region or district], the powers, authorities, and duties vested in, or imposed upon, me as [mayor or chairperson or member] of the [local authority] by virtue of the Local Government Act 2002, the Local Government Official Information and Meetings Act 1987, or any other ActDated at [place] this [number] day of [month] [year]Signature:Signed in the presence of:CD, [mayor or chairperson or member or chief executive of local authority]”.
 
 ### 15 Code of conduct
 (1) A local authority must adopt a code of conduct for members of the local authority as soon as practicable after the commencement of this Act.
@@ -4330,7 +4324,7 @@ In clauses 6, 7, 8, and 9, remuneration includes—
 
 ### 16 Members to abide by standing orders
 (1) A member of a local authority must abide by the standing orders adopted under clause 27.
-(2) A member of the police, or an officer or employee of a local authority, may, at the request of the chairperson, remove or exclude a member from a meeting if that member is required to leave the meeting by a ruling made under the standing orders and that member—
+(2) A constable, or an officer or employee of a local authority, may, at the request of the chairperson, remove or exclude a member from a meeting if that member is required to leave the meeting by a ruling made under the standing orders and that member—
   (a) refuses or fails to leave the meeting; or
   (b) having left the meeting, attempts to re-enter the meeting without the permission of the chairperson.
 
@@ -4441,12 +4435,12 @@ In clauses 6, 7, 8, and 9, remuneration includes—
   (b) the election or appointment of the deputy mayor; and
   (c) the election or appointment of the chairperson and deputy chairperson of a committee; and
   (d) the election or appointment of a representative of a local authority.
-(2) If this clause applies, a local authority or a committee (if the local authority has so directed) must determine by resolution that a person be elected or appointed by using one of the following systems of voting:—
+(2) If this clause applies, a local authority or a committee (if the local authority has so directed) must determine by resolution that a person be elected or appointed by using one of the following systems of voting:
   (a) the voting system in subclause (3) (system A):
   (b) the voting system in subclause (4) (system B).
 (3) System A—
   (a) requires that a person is elected or appointed if he or she receives the votes of a majority of the members of the local authority or committee present and voting; and
-  (b) has the following characteristics:—
+  (b) has the following characteristics:
     (i) there is a first round of voting for all candidates; and
     (ii) if no candidate is successful in that round there is a second round of voting from which the candidate with the fewest votes in the first round is excluded; and
     (iii) if no candidate is successful in the second round there is a third, and if necessary subsequent, round of voting from which, each time, the candidate with the fewest votes in the previous round is excluded; and
@@ -4594,9 +4588,9 @@ The local authority must, in making an appointment under section 42, have regard
   (b) an equal employment opportunities programme; and
   (c) the impartial selection of suitably qualified persons for appointment; and
   (d) recognition of—
-    (i) the aims and aspirations of Maori; and
-    (ii) the employment requirements of Maori; and
-    (iii) the need for greater involvement of Maori in local government employment; and
+    (i) the aims and aspirations of Māori; and
+    (ii) the employment requirements of Māori; and
+    (iii) the need for greater involvement of Māori in local government employment; and
   (e) opportunities for the enhancement of the abilities of individual employees; and
   (f) recognition of the aims and aspirations, and the cultural differences, of ethnic or minority groups; and
   (g) recognition of the employment requirements of women; and
@@ -4718,7 +4712,7 @@ A long-term council community plan must, to the extent determined appropriate by
   (d) describe how the community outcomes relate to other key strategic planning documents or processes:
   (e) outline how the local authority will, to further community outcomes, work with—
     (i) other local organisations and regional organisations; and
-    (ii) Maori, central government, and non-government organisations; and
+    (ii) Māori, central government, and non-government organisations; and
     (iii) the private sector:
   (f) state what measures will be used to assess progress towards the achievement of community outcomes:
   (g) state how the local authority will monitor and, not less than once in every 3 years, report on the community's progress towards achieving community outcomes.
@@ -4762,8 +4756,8 @@ A long-term council community plan must, in relation to each council-controlled 
     (ii) the nature and scope of the activities to be provided by the council-controlled organisation; and
     (iii) the key performance targets and other measures by which performance may be judged.
 
-### 5 Development of Maori capacity to contribute to decision-making processes
-A long-term council community plan must set out any steps that the local authority intends to take, having considered ways in which it might foster the development of Maori capacity to contribute to the decision-making processes of the local authority, over the period covered by that plan.
+### 5 Development of Māori capacity to contribute to decision-making processes
+A long-term council community plan must set out any steps that the local authority intends to take, having considered ways in which it might foster the development of Māori capacity to contribute to the decision-making processes of the local authority, over the period covered by that plan.
 
 ### 6 Funding and financial policies
 A long-term council community plan must include the funding and financial policies of the local authority adopted under section 102.
@@ -4805,7 +4799,7 @@ If the local authority has resolved, under section 100(2), not to balance its op
     (iv) if the targeted rate is set differentially, a statement of the total revenue sought from each category of rateable land or of the relationship between the rates set on rateable land in each category; and
     (v) whether lump sum contributions will be invited in respect of the targeted rate; and
   (e) for each mechanism, a statement of its relationship to the sources of funding described in clause 2(2)(d).
-(2) If the same mechanism is to be used in more than one of the years covered by the long-term council community plan, it is sufficient compliance with paragraphs (c) to (e) of subclause (1), in respect of that mechanism, if—
+(2) If the same mechanism is to be used in more than 1 of the years covered by the long-term council community plan, it is sufficient compliance with paragraphs (c) to (e) of subclause (1), in respect of that mechanism, if—
   (a) those paragraphs are complied with in respect of one of those years; and
   (b) the funding impact statement specifies the other years in respect of which that mechanism is to be used.
 
@@ -4858,7 +4852,7 @@ An annual report must, in relation to each group of activities of the local auth
     (i) setting out a comparison between the actual levels of service provision of that group of activities and the intended levels of service provision (as set out in the long-term council community plan in respect of that year) of that group of activities; and
     (ii) giving the reasons for any significant variance between the actual service provision and the expected service provision; and
   (f) include an audited statement—
-    (i) describing any significant acquisitions or replacements of assets undertaken by the local authority in the year to which the report relates; nd
+    (i) describing any significant acquisitions or replacements of assets undertaken by the local authority in the year to which the report relates; and
     (ii) giving the reasons why the local authority acquired or replaced those assets; and
     (iii) giving the reasons for any significant variation between the acquisitions and replacements projected in the long-term council community plan and those actually made.
 
@@ -4899,56 +4893,56 @@ An annual report must include—
   (b) by the chief executive of the local authority.
 
 ### 21 General
-An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide for opportunities for Maori to contribute to the decision-making processes of the local authority.
+An annual report must include a report on the activities that the local authority has undertaken in the year to establish and maintain processes to provide for opportunities for Māori to contribute to the decision-making processes of the local authority.
 
-## Schedule 11 — Matters relating to rates relief on Maori freehold land
+## Schedule 11 — Matters relating to rates relief on Māori freehold land
 
 ### 1
 The matters that the local authority must consider under section 108(4) are—
-  (a) the desirability and importance within the district of each of the objectives in clause 2; and
-  (b) whether, and to what extent, the attainment of any of those objectives could be prejudicially affected if there is no-remission of rates or postponement of the requirement to pay rates on Maori freehold land; and
-  (c) whether, and to what extent, the attainment of those objectives is likely to be facilitated by the remission of rates or postponement of the requirement to pay rates on Maori freehold land; and
-  (d) the extent to which different criteria and conditions for rates relief may contribute to different objectives.
+(a) the desirability and importance within the district of each of the objectives in clause 2; and
+(b) whether, and to what extent, the attainment of any of those objectives could be prejudicially affected if there is no remission of rates or postponement of the requirement to pay rates on Māori freehold land; and
+(c) whether, and to what extent, the attainment of those objectives is likely to be facilitated by the remission of rates or postponement of the requirement to pay rates on Māori freehold land; and
+(d) the extent to which different criteria and conditions for rates relief may contribute to different objectives.
 
 ### 2
 The objectives referred to in clause 1 are—
-  (a) supporting the use of the land by the owners for traditional purposes:
-  (b) recognising and supporting the relationship of Maori and their culture and traditions with their ancestral lands:
-  (c) avoiding further alienation of Maori freehold land:
-  (d) facilitating any wish of the owners to develop the land for economic use:
-  (e) recognising and taking account of the presence of waahi tapu that may affect the use of the land for other purposes:
-  (f) recognising and taking account of the importance of the land in providing economic and infrastructure support for marae and associated papakainga housing (whether on the land or elsewhere):
-  (g) recognising and taking account of the importance of the land for community goals relating to—
-    (i) the preservation of the natural character of the coastal environment:
-    (ii) the protection of outstanding natural features:
-    (ii) the protection of significant indigenous vegetation and significant habitats of indigenous fauna:
-  (h) recognising the level of community services provided to the land and its occupiers:
-  (i) recognising matters related to the physical accessibility of the land.
+(a) supporting the use of the land by the owners for traditional purposes:
+(b) recognising and supporting the relationship of Māori and their culture and traditions with their ancestral lands:
+(c) avoiding further alienation of Māori freehold land:
+(d) facilitating any wish of the owners to develop the land for economic use:
+(e) recognising and taking account of the presence of waahi tapu that may affect the use of the land for other purposes:
+(f) recognising and taking account of the importance of the land in providing economic and infrastructure support for marae and associated papakainga housing (whether on the land or elsewhere):
+(g) recognising and taking account of the importance of the land for community goals relating to—
+  (i) the preservation of the natural character of the coastal environment:
+  (ii) the protection of outstanding natural features:
+  (iii) the protection of significant indigenous vegetation and significant habitats of indigenous fauna:
+(h) recognising the level of community services provided to the land and its occupiers:
+(i) recognising matters related to the physical accessibility of the land.
 
 ## Schedule 12 — Conditions of constructing or undertaking works on private land without the owner's consent
 
 ### 1
 For the purposes of section 181(3)(b), the requirements are as follows:
-  (a) a description of the works, accompanied by a plan (in the case of any works to be constructed), showing how they affect any land or building, must be deposited for public inspection at a place within the district in which the works are to be undertaken:
-  (b) the territorial authority must give notice in writing of the intention to construct the works (referring to a plan and description of the works and where the plan and description can be viewed)—
-    (i) to the occupier of the land or building unless there is no occupier or, after all reasonable steps have been taken, the occupier cannot be found; and
-    (ii) to the owner if known:
-  (c) however, if there is a change of occupier, it is not necessary to give notice to any subsequent occupier before the work is done:
-  (d) if, within 1 month after the notice is given, the occupier or owner serves on the territorial authority a written objection to the proposed works, the territorial authority must—
-    (i) appoint a day for hearing the objection; and
-    (ii) give to the objector reasonable notice of the day, time, and place of hearing so as to enable the objector to attend the hearing:
-  (e) the territorial authority must hold a meeting on the day appointed, and may, after hearing any person making any objection, if present, determine—
-    (i) to abandon the works proposed; or
-    (ii) to proceed with the works proposed, with or without any alterations that the territorial authority thinks fit.
+(a) a description of the works, accompanied by a plan (in the case of any works to be constructed), showing how they affect any land or building, must be deposited for public inspection at a place within the district in which the works are to be undertaken:
+(b) the territorial authority must give notice in writing of the intention to construct the works (referring to a plan and description of the works and where the plan and description can be viewed)—
+  (i) to the occupier of the land or building unless there is no occupier or, after all reasonable steps have been taken, the occupier cannot be found; and
+  (ii) to the owner if known:
+(c) however, if there is a change of occupier, it is not necessary to give notice to any subsequent occupier before the work is done:
+(d) if, within 1 month after the notice is given, the occupier or owner serves on the territorial authority a written objection to the proposed works, the territorial authority must—
+  (i) appoint a day for hearing the objection; and
+  (ii) give to the objector reasonable notice of the day, time, and place of hearing so as to enable the objector to attend the hearing:
+(e) the territorial authority must hold a meeting on the day appointed, and may, after hearing any person making any objection, if present, determine—
+  (i) to abandon the works proposed; or
+  (ii) to proceed with the works proposed, with or without any alterations that the territorial authority thinks fit.
 
 ### 2
 A person who is aggrieved by a determination of the territorial authority under clause 1(e) to proceed with the works proposed (with or without alterations) may appeal to a District Court against the determination within 14 days after the date of the determination.
 
 ### 3
-Pending the decision of the Court on the appeal, the territorial authority must not proceed with the works.
+Pending the decision of the court on the appeal, the territorial authority must not proceed with the works.
 
 ### 4
-On the hearing of the appeal, the Court, whose decision is final, may confirm or amend or set aside the determination of the territorial authority.
+On the hearing of the appeal, the court, whose decision is final, may confirm or amend or set aside the determination of the territorial authority.
 
 ## Schedule 13 — Methodology for calculating development contributions
 
@@ -4966,8 +4960,8 @@ For the purpose of determining in accordance with section 203(2) the maximum dev
 If the District Court makes a removal order under section 216, it may—
   (a) order that the fence, structure, or vegetation be removed or altered, or that part of the fence, structure, or vegetation be removed and that part of it be altered:
   (b) order that any thing attached to the fence, structure, or vegetation be removed as a consequence of the removal or alteration ordered under paragraph (a):
-  (c) make any consequential order that the Court thinks fit:
-  (d) without limiting paragraph (c) and subject to any conditions that the Court thinks fit, order that entry may be made on to any portion of land adjoining the property to which the order relates for the purposes of enforcing an order in accordance with section 220(2).
+  (c) make any consequential order that the court thinks fit:
+  (d) without limiting paragraph (c) and subject to any conditions that the court thinks fit, order that entry may be made on to any portion of land adjoining the property to which the order relates for the purposes of enforcing an order in accordance with section 220(2).
 
 ### 2 Service of removal order
 If a removal order is made under section 216, the Judge may, on application or on his or her own motion, give directions—
@@ -4982,10 +4976,10 @@ A removal order does not take effect unless—
     (ii) if the respondent is not the owner of the property to which the order relates, the owner of the property; and
     (iii) any mortgagee of the property to which the order relates; and
     (iv) the owner of any property adjoining the property to which the order relates; and
-    (v) any person directed by the Court to be served under clause 2; and
+    (v) any person directed by the court to be served under clause 2; and
   (b) either—
-    (i) No objection is made in accordance with section 217(1) by the respondent or by any other person entitled to object to the order under that section; or
-    (ii) if an objection is made, the Court, after considering the objection, confirms the order under section 218(1) with or without variation.
+    (i) no objection is made in accordance with section 217(1) by the respondent or by any other person entitled to object to the order under that section; or
+    (ii) if an objection is made, the court, after considering the objection, confirms the order under section 218(1) with or without variation.
 
 ### 4 Circumstances when certain other Acts do not apply
 A removal order may be made under section 216 even if the fence, structure, or vegetation—
@@ -4998,31 +4992,31 @@ A removal order may be made under section 216 even if the fence, structure, or v
 (1) For the purposes of proceedings under subpart 4 of Part 9, proof that a respondent or any other person has been convicted of an offence by any court in New Zealand is conclusive evidence that that person committed the offence, and the conviction is admissible in evidence.
 (2) A certificate produced as evidence of the fact that a particular person has been convicted of an offence is sufficient evidence, unless the contrary is proved, without proof of the signature or official character of the person appearing to have signed it, if—
   (a) it contains the substance of a conviction; and
-  (b) it purports to be signed by the Registrar or other officer having the custody of the records of the Court in which the offender was convicted; and
+  (b) it purports to be signed by the Registrar or other officer having the custody of the records of the court in which the offender was convicted; and
   (c) the name of the offender stated in the certificate is the name of the person in respect of whom the applicant seeks to prove the conviction.
 (3) The method of proving a previous conviction authorised by subclause (2) is in addition to, and not to the exclusion of, any other method of proof authorised by another enactment or rule of law.
 
 ### 6 Form of removal order
 (1) Subject to subclause (2), a removal order must be in the form prescribed in Part 6B of the District Courts Rules 1992.
-(2) If an objection is lodged under section 217(1) and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the Court in accordance with clause 8(2) as the date by which compliance is required.
+(2) If an objection is lodged under section 217(1) and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the court in accordance with clause 8(2) as the date by which compliance is required.
 
 ### 7 Notice of objection to removal order
 (1) A notice of objection under section 217(1) must—
   (a) be in the form prescribed in Part 6B of the District Courts Rules 1992; and
-  (b) be lodged with the Court and served on the applicant and, if the objector is not the respondent, the respondent, within 15 working days from the date on which the removal order was served on the objector, or within any further time that the Court allows.
+  (b) be lodged with the court and served on the applicant and, if the objector is not the respondent, the respondent, within 15 working days from the date on which the removal order was served on the objector, or within any further time that the court allows.
 (2) Subject to subclause (4), the Registrar must assign a date for an oral hearing of any objection as soon as practicable if the respondent or, if the respondent is not the owner of the property to which the order relates, the owner of the property—
   (a) objects to the making of the order; and
-  (b) notifies the Court that he or she wishes to be heard in person or to be represented by his or her lawyer.
-(3) If a person described in clause 3(a)(iii), (iv), or (v) objects to the making of the order and notifies the Court that he or she wishes to be heard in person or to be represented by his or her lawyer, the Court may,—
-  (a) if the Court is satisfied that there should be an oral hearing, assign a date for the hearing of the objection, which date, subject to subclause (4), must be as soon as practicable; or
-  (b) if the Court thinks fit, decide the objection without holding an oral hearing.
-(4) If an oral hearing is to be held in accordance with subclause (2), or if the Court decides under subclause (3) that there should be an oral hearing, the Court may assign a date for the objections to be heard together.
+  (b) notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer.
+(3) If a person described in clause 3(a)(iii), (iv), or (v) objects to the making of the order and notifies the court that he or she wishes to be heard in person or to be represented by his or her lawyer, the court may,—
+  (a) if the court is satisfied that there should be an oral hearing, assign a date for the hearing of the objection, which date, subject to subclause (4), must be as soon as practicable; or
+  (b) if the court thinks fit, decide the objection without holding an oral hearing.
+(4) If an oral hearing is to be held in accordance with subclause (2), or if the court decides under subclause (3) that there should be an oral hearing, the court may assign a date for the objections to be heard together.
 
-### 8 Consideration of objections by Court
-(1) Before the Court exercises its power under section 218(1), the Court must, as it thinks fit, give an opportunity to be heard, either orally or in writing, to—
+### 8 Consideration of objections by court
+(1) Before the court exercises its power under section 218(1), the court must, as it thinks fit, give an opportunity to be heard, either orally or in writing, to—
   (a) the applicant; and
   (b) any other person entitled to object under section 217(1).
-(2) If the Court confirms or varies an order under section 218(1), the Court must specify the date by which the respondent must comply with the order.
+(2) If the court confirms or varies an order under section 218(1), the court must specify the date by which the respondent must comply with the order.
 
 ## Schedule 15 — Powers of Minister
 
@@ -5211,214 +5205,41 @@ No person is liable for any act done or omitted to be done by him or her in good
 
 ## Schedule 16 — Consequential amendments
 
-### 82 Powers that may not be delegated
-A regional council is not capable of delegating (whether under clause 32 of Schedule 7 of the Local Government Act 2002 or any other provision of that Act or any other Act)—
-  (a) the power to appoint a hearings commissioner to inquire into and report on a proposal for a regional pest management strategy it has notified; or
-  (b) the power to make, review, amend, or revoke a regional pest management strategy; or
-  (c) the power to declare a small-scale management programme under section 100
-
-### 78 Delegation of powers of territorial authority
-The provisions of clause 32 of Schedule 7 of the Local Government Act 2002 apply, with all necessary modifications, in respect of the powers under this Act of every territorial authority
-
-### 26 Members of Board and committees not personally liable
-Subject to sections 44 to 46 of the Local Government Act 2002 (which apply to the Board as if it were a local authority), no member of the Board, or of any committee of the Board, is personally liable for any act or default done or made by the Board or committee, or by any member of the Board or committee, in good faith in the course of the operations of the Board or committee.
-
-### 7 Power to appoint joint committees
-(1) Subject to this section, any territorial authority may unite with 1 or more territorial authorities in appointing a joint committee under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act.
-(2) No territorial authority may unite under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act with any local authority or public body that is not a territorial authority.
-(3) Except as otherwise provided in this Act, where any territorial authorities unite under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act,—
-  (a) the joint committee appointed under that clause is, for the purposes of this Act, deemed to be a territorial authority and has all the functions, duties, and powers conferred on a territorial authority by this Act; and
-  (b) the district of each of the territorial authorities that so unite are, for the purposes of this Act, deemed to be the district of that territorial authority; and
-  (c) except as provided in this section, the territorial authorities that so unite may not perform any function or exercise any power under this Act.
-(4) Where any territorial authorities unite under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002 for the purposes of this Act, the joint committee may delegate to any of the territorial authorities that so unite any of the functions, duties, and powers conferred on that joint committee by this Act, other than the functions, duties, and powers conferred on it by sections 10, 11, 37, 38, and 39 of this Act.
-(5) Every delegation under subsection (4) is revocable at will, and no such delegation prevents the exercise of any power by the joint committee.
-
-### 12 Delegation of powers to committees of councillors
-The territorial authority may delegate its powers and functions under section 6 and clause 11 of the Schedule to any committee of the territorial authority appointed under clause 30 of Schedule 7 of the Local Government Act 2002 that comprises only members of the territorial authority; but may not delegate those powers and functions to any committee that has any members who are not members of the territorial authority or to any officer of the authority.
-
-### 36A Remuneration, allowances, and expenses of members of Trust Board
-(1) The Trust Board is declared to be a statutory board within the meaning of the Fees and Travelling Allowances Act 1951.
-(2) The members of the Trust Board are entitled to be paid remuneration by way of fees, salary, or allowances, and travelling allowances and travelling expenses, in accordance with the provisions of the Fees and Travelling Allowances Act 1951; and the provisions of that Act apply accordingly.
-
-### 22 Forum to be joint committee
-(1) Subject to section 28, the Forum is to be treated as a joint committee of the constituent local authorities appointed under clause 30(1)(b) of Schedule 7 of the Local Government Act 2002.
-(2) Clauses 20, 22, 23, 24, 26, 28, 29, 30(2), and 30(4) to (10) of Schedule 7 of the Local Government Act 2002 apply with any necessary modifications to the Forum.
-(3) The Forum may appoint such subcommittees as it considers appropriate.
-
-### 205 Interpretation
-For the purposes of sections 206 and 207, unless the context otherwise requires, proper authority, in relation to a New Zealand port, means—
-  (a) the harbourmaster appointed under Part 39A of the Local Government Act 1974 in respect of that port, or any person authorised by the harbourmaster to perform any of the functions of the harbourmaster under this Act; or
-  (b) where there is no harbourmaster, the regional council for the region in which the port is situated.
-
-### 53C Advances by local authority to owners
-A local authority may make advances to any owner upon whom an order or notice is served under any of sections 41, 42, 44, and 46 to enable that owner to comply in all respects with the requirements of the order or notice.
-
-| Community Boards | 2002, No 84—The Local Government Act 2002. |
-| --- | --- |
-
-| Regional councils | 2002, No 84—The Local Government Act 2002. |
-| --- | --- |
-
-| Territorial authorities | 2002, No 84—The Local Government Act 2002. |
-| --- | --- |
-
-### 594ZZG Financial assistance to be identified
-Any local authority proposing to divest itself of any passenger transport undertaking must, in writing to the Minister and to any relevant local authority, identify—
-  (a) the amount of financial assistance received from the Crown (whether through the Urban Transport Council or from any other source); and
-  (b) the amount of financial assistance received from any other local authority; and
-  (c) the ratio of that financial assistance to the purchase price of the undertaking.
-
-### 51A Public notification of resolution at extraordinary meeting
-Where any resolution is passed at an extraordinary meeting of a local authority, the local authority must cause the resolution to be publicly notified as soon as practicable, unless the resolution was passed at a meeting or part of a meeting from which the public was excluded.
-
-### 26 Members of Board and committees not personally liable
-Subject to sections 44 to 46 of the Local Government Act 2002 (which apply to the Board as if it were a local authority), no member of the Board, or of any committee of the Board, is personally liable for any act or default done or made by the Board or committee, or by any member of the Board or committee, in good faith in the course of the operations of the Board or committee.
-
-### 2 Interpretation
-(1) In this Act, unless the context otherwise requires, public body means—
-  (a) every public body of any of the classes for the time being specified in Part 1 of Schedule 1:
-  (b) every public body for the time being specified in Part 2 of Schedule 1.
-(2) The Governor-General may from time to time, by Order in Council, amend Schedule 1 by including in it or omitting from it the name of any class of public bodies or the name of any specified public body.
-(3) If, by any Order in Council under subsection (2), the name of any class of public body or the name of any specified public body is added to amend Schedule 1, the Act by or pursuant to which that class of public body or that public body was constituted must, so long as the name remains part of Schedule 1, be read subject to the provisions of this Act.
-
-### 275 Powers of Minister in respect of such waterworks
-(1) The Minister has, in respect of every such water race or water supply works all the powers, rights, duties, and authorities conferred upon a territorial authority within the meaning of the Local Government Act 2002; except that, in any case where a resolution is required, it may be made by the Minister in writing under his or her hand and published in the Gazette.
-(2) The Governor-General in Council when vesting the control of any water race or water supply works in the Minister, or at any time thereafter, may define or alter the district to be served by such water race or water supply works, and the district so defined or altered shall for the purposes of this Act be deemed to be the district over which the Minister's powers and authorities in connection with such water race or water supply works extend and apply.
-
-### 40A Instrument may provide for appointment of receiver
-Subject to the Personal Property Securities Act 1999, and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
-
-### 40B Power of Court to appoint receiver
-(1) Subject to sections 40D and 40E and to subsections (2) and (3), the High Court may, on the application of any creditor of the local authority, appoint a receiver of any asset of a local authority or appoint a receiver for the purposes of section 115 of the Local Government Act 2002.
-(2) An appointment under subsection (1) must be for such period, with such rights, powers, and duties, and on such terms and conditions, including as to security and remuneration, as the Court considers appropriate in all the circumstances.
-(3) When considering, in accordance with subsection (2), the terms and conditions upon which a receiver can be appointed by a Court pursuant to subsection (1), the Court must—
-  (a) take account of the interests of both the secured and non-secured creditors of the local authority, as against—
-    (i) the interests of the local authority itself; and
-    (ii) the requirement of the local authority to provide those services that are essential for the maintenance of public health and safety; and
-    (iii) the interests of the ratepayers with property within the area of the local authority; and
-    (iv) the interests of the general public living within the area of the local authority; and
-  (b) take account of the interests of secured creditors as against the interests of non-secured creditors of the local authority.
-
-### 40C Powers and duties of receivers
-(1) A receiver of any asset of a local authority is, as the circumstances and the context permit, affected by the restrictions and responsibilities which by law affect a receiver of a company or of an asset or property or rights of a company as if the local authority were a company.
-(2) The provisions of this Act are, in their application to a receiver of an asset of a local authority, subject to the modifications and exceptions set out in the Schedule.
-(3) If the assets subject to a charge to which this section applies comprise rates or other revenues, then, for the purposes of this section, from the date of the appointment of the receiver and until such time as the appointment terminates,—
-  (a) the rates or other revenues so charged vest in the receiver; and
-  (b) all powers necessary for the recovery of rates levied under section 115 of the Local Government Act 2002 or other revenues are conferred on, and may be exercised by, the receiver.
-
-### 40D Constraints on receiver
-(1) Despite anything in this Act or in any instrument providing for or governing the appointment of a receiver, a receiver of any asset of a local authority must ensure that no action of the receiver prevents the provision of those services of the local authority that are essential for the maintenance of public health and safety requirements.
-(2) For the purposes of this section,—
-  (a) an action of a receiver is deemed not to prevent provision of the services specified in subsection (1) unless—
-    (i) that action necessarily results in that outcome; and
-    (ii) the outcome is not more fairly attributable to the act, or omission to act, of persons outside the control of the receiver; and
-  (b) receiver includes both a receiver and a manager and includes, if persons are appointed jointly or severally as receivers and managers or both jointly and severally as receivers or managers, each of those persons.
-(3) A receiver must distribute the proceeds of collection of the money and assets the receiver is entitled to collect in the following order of priority:and any residue must be paid to, or applied for the benefit of, the local authority, as it may direct.
-  (a) first, the receiver's remuneration, and costs incurred by the receiver and reimbursement of the costs of obtaining appointment of the receiver to any person who has incurred them:
-  (b) second, any amounts payable in respect of claims by law to be preferred to claims under any charge over those assets:
-  (c) third, any amounts required to be paid out of the proceeds of collection of the money and assets to enable the receiver to provide the services specified in subsection (1):
-  (d) fourth, the amounts secured by any charges over those assets in the order of priority accorded those charges, so as to preserve the respective entitlements of the holders of those charges:
-  (e) fifth, if the receiver was appointed on the application of an unsecured creditor or unsecured creditors, to those creditors or, as the Court may direct, any amounts payable to them,—
-(4) A receiver appointed under section 40A or section 40B(1), in exercising any powers (including those of a manager), is not entitled to control, dispose of, or otherwise interfere with the local authority's ability to exercise or perform its rights, powers, and duties in relation to assets not charged in favour of the appointor of a receiver.
-(5) Subject to subsection (6), if any land vested in a local authority is—the power of disposition that a receiver of that local authority has in respect of that land is limited to a power of disposition by way of lease or licence for a term or terms not exceeding in the aggregate 9 years.
-  (a) a reserve under the Reserves Act 1977; or
-  (b) land over which the local authority has no power of disposition; or
-  (c) land in respect of which the local authority's power of disposition is conditional,—
-(6) The powers of disposition that a receiver has in respect of any land of the kind described in subsection (5)(c) comprise, in addition to the power specified in subsection (5), the same conditional power of disposition as the local authority.
-
-### 40E Protection for receiver
-(1) Subject to subsection (4), no proceedings lie against any receiver of a local authority for breach of section 40D(1)—
-  (a) by the receiver; or
-  (b) by any adviser or delegate of the receiver (being an adviser or delegate who has been reasonably selected and reasonably supervised).
-(2) Subject to subsection (4), no proceedings lie against any adviser or delegate of any receiver of a local authority for a breach of section 40D other than at the instance of the receiver.
-(3) Subject to subsection (4), a receiver (and any adviser or delegate who has been reasonably selected and reasonably supervised, as the case requires), must, in respect of any liability relating to the exercise or purported exercise or omission to exercise any right or power of the receiver by the receiver or the adviser of the receiver or the delegate of the receiver, be indemnified—
-  (a) by the local authority, in the case of a receiver appointed by the High Court under section 40B(1):
-  (b) out of the assets subject to receivership, in the case of any other receiver but subject to any contrary terms of appointment.
-(4) No person is exempted from liability under subsection (1) or is entitled to be indemnified under subsection (3) for any act or omission to act which constitutes bad faith or gross negligence on the part of that person.
-(5) Nothing in this section limits or affects the provisions of sections 19 and 20.
-
-### 31A Minister of Conservation to have certain powers of local authority
-(1) The Minister of Conservation—
-  (a) has, in respect of the coastal marine areas of the Kermadec Islands, the Snares Islands, the Bounty Islands, the Antipodes Islands, the Auckland Islands, Campbell Island, and the islands adjacent to Campbell Island, the responsibilities, duties, and powers that a regional council would have under section 30(1)(d) if those coastal marine areas were within the region of that regional council; and
-  (b) may exercise, in respect of the islands specified in paragraph (a),—
-    (i) the responsibilities, duties, and powers that a regional council would have under this Act if those islands were within the district of that regional council; and
-    (ii) the responsibilities, duties, and powers that a territorial authority would have under this Act if those islands were within the district of that territorial authority.
-(2) The responsibilities, duties, and powers conferred on the Minister of Conservation by subsection (1)(b) are in addition to the powers conferred on that Minister by subsection (1)(a).
-(3) The responsibilities, duties, and powers conferred on the Minister of Conservation by this section are in addition to the responsibilities, duties, and powers conferred on that Minister by this Act.
-
-### 26 Local Electoral Act 2001 to apply
-Subject to the provisions of this Act, all elections under this Act must be conducted under the provisions of the Local Electoral Act 2001.
-
-### 192 Second and subsequent elections
-(1) Subject to subsection (2), the second election of members of a licensing trust must be held on the day on which the next but one triennial general election of members of local authorities is held under the Local Electoral Act 2001.
-(2) If, in accordance with subsection (1), the second election would be due within 4 years after the date of the first election, the second election must be held on the day on which the next succeeding triennial general election of members of local authorities is to be held after the one referred to in that subsection.
-(3) Subsequent elections of the members of the trust must be held on the same days as subsequent triennial general elections of members of local authorities are held.
-
 ## Schedule 17 — New Schedule of Receiverships Act 1993
 
 ### Schedule 1 — Modifications and exceptions that apply in relation to receivers of assets of local authorities
-
-### 1 Application of modifications and exceptions
-The modifications and exceptions to the provisions of this Act that are set out in this schedule are the modifications and exceptions referred to in section 40C(2).
-
-### 2 References to directors
-Every reference to a director or the directors must be read as if it were a reference to a member or the members of the local authority.
-
-### 3 References to liquidator
-Every reference to a liquidator, except the reference in section 30(3), must be read as if it were a reference to a Commissioner appointed under section 255 or section 258 of the Local Government Act 2002 or to a commission appointed under clause 14 of Schedule 15 of that Act.
-
-### 4 References to liquidation
-Every reference to a liquidation, except the references in section 30(3), must be read as if it were a reference to the appointment of a Commissioner under section 255 or section 258 of the Local Government Act 2002 or to a commission appointed under clause 14 of Schedule 15 of that Act.
-
-### 5 References to Registrar
-Every reference to the Registrar must be read as if it were a reference to the Registrar of Companies.
-
-### 6 Persons disqualified for appointment
-Unless the Court orders otherwise, none of the following persons may be appointed or act as a receiver:
-  (a) any person specified in section 5(1):
-  (b) any person disqualified by section 3 of the Local Authorities (Members' Interests) Act 1968 or clause 1 of Schedule 7 of the Local Government Act 2002 from holding office as a member of the local authority.
-
-### 7 Exception in relation to obligations of grantor
-The obligation of a local authority to comply with section 12 is subject to section 40D(4), in that a local authority may only be required to comply with section 12 to the extent that any such compliance will not, in the reasonable opinion of the local authority, interfere with the local authority's ability to exercise or perform its rights, powers, and duties in relation to those assets not charged in favour of the appointor of the receiver or not the subject of the receivership.
-
-### 8 Exception in relation to execution of documents
-Section 13 is subject to section 40D(4), in that the power of the receiver to execute documents in the name of and on behalf of a local authority, and to use any common seal of a local authority, may be exercised only in relation to assets charged in favour of the appointor of the receiver.
-
-### 9 Section 15 (which relates to power to make calls on shares) not to apply
-Section 15 does not apply.
-
-### 10 Modification of general duties imposed by section 18
-The general duties imposed on receivers by section 18 are subject to the constraints imposed on receivers by section 40D(1).
-
-### 11 Modifications in relation to reports by receiver
-(1) Nothing in sections 23 and 24 requires a receiver to include in any report any information that could be properly withheld if the Local Government Official Information and Meetings Act 1987 applied to that report.
-(2) If the receiver prepares a report under section 23 or section 24, the receiver must make that report available for public inspection at the offices and libraries of the relevant local authority and must make copies of any such report available to the public free of charge or at a reasonable charge.
-(3) Section 26(1) applies as if it required the receiver to send a copy of every report prepared under section 23 or section 24 to the Secretary for Local Government, the Controller and Auditor-General, and the Parliamentary Library.
-
-### 12 Reporting of offences
-The obligation imposed on a receiver by section 28 to report any offence that the receiver considers has been committed against any of the Acts specified in that section includes, in addition, an obligation to report any offence that the receiver considers has been committed against the Local Government Act 2002 or the Local Authorities (Members' Interests) Act 1968.
-
-### 13 Exceptions in relation to preferential claims
-(1) Section 30(2)(b) applies only to those preferential claims that are applicable to the local authority.
-(2) Section 30(4) does not apply.
-
-### 14 Section 31 (which relates to liquidation or bankruptcy) does not apply
-Section 31 does not apply.
-
-### 15 Exception in relation to Commissioners and commission
-If a Commissioner of a local authority is or has been appointed under section 255 or section 258 of the Local Government Act 2002 or if a commission has been appointed under clause 14 of Schedule 15 of that Act (either before or after the appointment of a receiver in respect of some or all of the assets or rates of that local authority under section 40A or section 40B(1)), the High Court may order that any receiver so appointed may not, until the High Court so orders, exercise any of the rights, powers, and duties of a receiver.
-
-### 16 Power of Secretary for Local Government and Controller and Auditor-General to make certain applications
-Sections 34(3), 35(2), and 37(1) apply as if the Secretary for Local Government and the Controller and Auditor-General were specified in those sections as persons entitled to make applications under those sections.
-
-### 17 Section 41 (which relates to repeals) not to apply
-Section 41 does not apply.
-
-### 18 Copies of documents
-Copies of the documents required by sections 8(3), 11(4), 28(1), and 29(1) to be sent to the Registrar must be sent to the Secretary for Local Government and to the Controller and Auditor-General.
 
 ## Schedule 18 — Enactments repealed
 
 ## Schedule 19 — Local Acts repealed
 
 ## Schedule 20 — Orders in Council revoked
+
+### 1 Title
+This Act is the Local Government Act 2002 Amendment Act 2006.
+
+### 2 Commencement
+(1) Section 7 comes into force on 14 October 2007.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provision**
+
+### 31 Transitional provision for long-term council community plans for period beginning on 1 July 2006
+Any amendments made by this Act that have the effect of requiring an amendment to a long-term council community plan (to ensure that it complies with the requirements of the principal Act, as amended by this Act)—
+  (a) do not apply to a long-term council community plan to which section 280 of the principal Act applies, whether it is adopted before or after the commencement of this Act; but
+  (b) do apply to any amendment made to a long-term council community plan to which section 280 of the principal Act applies that is adopted after the commencement of this Act.
+
+### 1 Title
+This Act is the Disability (United Nations Convention on the Rights of Persons with Disabilities) Act 2008.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to Statutes
+
+**Amendments to Local Government Act 2002**
+
+### 7 Amendments to Local Government Act 2002
+(1) This section amends the Local Government Act 2002.
+((2), (3)) Amendment(s) incorporated in the Act(s).
+(4) The amendments made by subsections (2) and (3) do not limit the power of a District Court under clause 2 of Schedule 7 of the Local Government Act 2002.
