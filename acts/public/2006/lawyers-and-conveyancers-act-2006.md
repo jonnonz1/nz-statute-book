@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -734,7 +734,7 @@ A person who commits an offence against section 21 or section 22 or section 23 o
 ### 47 Provisions not affected
 This Part does not limit or affect—
   (a) section 168 of the Animal Welfare Act 1999; or
-  (b) section 142 of the Armed Forces Discipline Act 1971; or
+  (b) section 68 of the Court Martial Act 2007; or
   (c) sections 323 and 324 of the Children, Young Persons, and Their Families Act 1989; or
   (d) section 4A(3) of the Commissions of Inquiry Act 1908; or
   (e) section 214(1) of the Copyright Act 1994; or
