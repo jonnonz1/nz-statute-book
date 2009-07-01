@@ -1,5 +1,5 @@
 # Defamation Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-07-01_
 
 > An Act to amend the law relating to defamation and other malicious falsehoods
 
