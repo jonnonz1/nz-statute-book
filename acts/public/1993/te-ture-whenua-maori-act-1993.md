@@ -1,5 +1,5 @@
 # Te Ture Whenua Maori Act 1993/Maori Land Act 1993
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2009-07-01_
 
 > An Act to reform the laws relating to Maori land in accordance with the principles set out in the Preamble to this Act
 
@@ -70,7 +70,7 @@ In this Act, unless the context otherwise requires,—
   - **Maori incorporation** or means a body corporate that is established under Part 13 of this Act, or that was established under or continued in existence by the provisions of Part 4 of the Maori Affairs Amendment Act 1967 and is still in existence
   - **Maori land** means Maori customary land and Maori freehold land
   - **Maori reserve** means any lands that are for the time being vested in the Maori Trustee as or for the purposes of a Maori reserve; and, in particular, includes all lands that are for the time being subject to the provisions of the Maori Reserved Land Act 1955
-  - **Maori Trustee** means the Maori Trustee appointed under the Maori Trustee Act 1953
+  - **Māori Trustee** means the Māori Trustee appointed under the Maori Trustee Act 1953
   - **Minister** means the Minister of Maori Affairs
   - **Ministry** means Te Puni Kokiri
   - **Occupation order** means an order made under section 328 of this Act
@@ -1758,22 +1758,22 @@ A person with a life interest or a determinable life interest in Maori freehold 
 (4) For every valuation made by the registered valuer for the purposes of this section, there shall be paid, by the applicant for confirmation, a fee to be fixed by the registered valuer.
 (5) In determining in any case the adequacy of the consideration for the alienation, the Court shall have regard to the valuation made by the registered valuer, but shall not be bound to determine the adequacy of the consideration in conformity with that valuation.
 
-### 159 Proceeds of alienation to be paid to Maori Trustee, Court appointed agent, or trustees
-(1) Subject to the succeeding provisions of this section, all proceeds derived from the alienation of any interest in Maori freehold land shall be paid to the Maori Trustee or the Court appointed agent or to trustees appointed under this Act; and the receipt of the Maori Trustee or the Court appointed agent or the trustees shall be a sufficient discharge for all such proceeds received by the Maori Trustee or the Court appointed agent or the trustees.
+### 159 Proceeds of alienation to be paid to Māori Trustee, Court appointed agent, or trustees
+(1) Subject to the succeeding provisions of this section, all proceeds derived from the alienation of any interest in Maori freehold land shall be paid to the Māori Trustee or the Court appointed agent or to trustees appointed under this Act; and the receipt of the Māori Trustee or the Court appointed agent or the trustees shall be a sufficient discharge for all such proceeds received by the Māori Trustee or the Court appointed agent or the trustees.
 (2) Nothing in this section shall apply to the proceeds of any alienation that—
   (a) Is effected by a vesting order under this Part of this Act; or
-  (b) Relates to an equitable interest in Maori land that is vested in the Maori Trustee under the Maori Vested Lands Administration Act 1954 or the Maori Reserved Land Act 1955; or
+  (b) Relates to an equitable interest in Maori land that is vested in the Māori Trustee under the Maori Vested Lands Administration Act 1954 or the Maori Reserved Land Act 1955; or
   (c) Is effected by the Official Assignee or by any person as the trustee, executor, or administrator of an owner, otherwise than by an instrument separately executed by more than one person in respect of the several interests in the same land of more than one owner in common; or
   (d) Is effected by a Maori incorporation; or
   (e) Is effected by the trustees of a trust constituted under Part 12 of this Act; or
   (ea) Is effected by the sole owner of the interest in the land; or
   (eb) Is an alienation by way of sublease or by way of assignment of a lease, sublease, licence, or easement; or
   (f) Is an alienation by way of mortgage.
-(3) When all money payable in respect of an alienation has been paid to, or secured to the satisfaction of, the Maori Trustee or Court appointed agent or trustees, the Maori Trustee or Court appointed agent or trustees shall file in the Court a certificate to that effect.
-(4) All money received by the Maori Trustee or the Court appointed agent or the trustees under this section shall, after the making of all proper deductions, be distributed by the Maori Trustee or the Court appointed agent or the trustees to the persons entitled to it.
-(5) All money payable to the Maori Trustee or the Court appointed agent or the trustees under this section shall, as it becomes due and payable, constitute a debt due to the Maori Trustee or the Court appointed agent or the trustees and shall be recoverable accordingly.
-(6) For services rendered by the Maori Trustee in respect of money received under this section, the Maori Trustee shall be entitled to commission at a rate determined in accordance with the provisions of the Maori Trustee Act 1953; and any such commission shall be payable by the alienee and shall be recoverable by the Maori Trustee as a debt due by the alienee.
-(7) For services rendered by a Court appointed agent in respect of money received under this section, the agent shall likewise be entitled to commission at the rate payable to the Maori Trustee; and any such commission shall be payable by the alienee and shall be recoverable by the agent as a debt due by the alienee.
+(3) When all money payable in respect of an alienation has been paid to, or secured to the satisfaction of, the Māori Trustee or Court appointed agent or trustees, the Māori Trustee or Court appointed agent or trustees shall file in the Court a certificate to that effect.
+(4) All money received by the Māori Trustee or the Court appointed agent or the trustees under this section shall, after the making of all proper deductions, be distributed by the Māori Trustee or the Court appointed agent or the trustees to the persons entitled to it.
+(5) All money payable to the Māori Trustee or the Court appointed agent or the trustees under this section shall, as it becomes due and payable, constitute a debt due to the Māori Trustee or the Court appointed agent or the trustees and shall be recoverable accordingly.
+(6) For services rendered by the Māori Trustee in respect of money received under this section, the Māori Trustee shall be entitled to commission at a rate determined in accordance with the provisions of the Maori Trustee Act 1953; and any such commission shall be payable by the alienee and shall be recoverable by the Māori Trustee as a debt due by the alienee.
+(7) For services rendered by a Court appointed agent in respect of money received under this section, the agent shall likewise be entitled to commission at the rate payable to the Māori Trustee; and any such commission shall be payable by the alienee and shall be recoverable by the agent as a debt due by the alienee.
 
 ### 160 Certain instruments require only certificate of confirmation by Registrar
 (1) This section applies to the instruments of alienation specified in section 150C(3)(b).
@@ -2038,11 +2038,11 @@ In this Part of this Act, unless the context otherwise requires,—
 
 ### 193 Application of provisions of Part 12
 (1) Nothing in sections 195 to 199 of this Act shall apply in respect of any lease of land while that land is vested in trustees under Part 12 of this Act or in a Maori incorporation (whether the vesting took place before or after the commencement of this Act).
-(2) Where a special valuation is made under section 207 of this Act of any land that is vested in trustees under Part 12 of this Act or in a Maori incorporation (not being a special valuation made at the request of the Maori Trustee), section 208 of this Act shall have effect as if—
-  (a) Subsection (1) of that section did not require the certificate in relation to that valuation to be served on the Maori Trustee but required instead that the it be served on those trustees or on that Maori incorporation, as the case may require; and
-  (b) Subsection (2) of that section did not impose any obligations on the Maori Trustee in relation to the service of copies of the certificate in relation to that valuation but required instead that those trustees or that Maori incorporation, as the case may require, serve a copy of that certificate on the lessee; and
-  (c) Subsection (6) of that section did not require the Registrar of the Court to give to the Maori Trustee notice of the filing by the lessee of any objection to that valuation but required instead that the Registrar of the Court give to those trustees or that Maori incorporation, as the case may require, notice of the filing by the lessee of any such objection.
-(3) Where section 209 of this Act applies in respect of any lease of any land while that land is vested in trustees under Part 12 of this Act or in a Maori incorporation (whether that vesting took place before or after the commencement of this Act), that section shall, with any necessary modifications, apply in relation to that lease as if every reference in that section to the Maori Trustee were in each case a reference to those trustees or that Maori incorporation, as the case may require.
+(2) Where a special valuation is made under section 207 of this Act of any land that is vested in trustees under Part 12 of this Act or in a Maori incorporation (not being a special valuation made at the request of the Māori Trustee), section 208 of this Act shall have effect as if—
+  (a) Subsection (1) of that section did not require the certificate in relation to that valuation to be served on the Māori Trustee but required instead that the it be served on those trustees or on that Maori incorporation, as the case may require; and
+  (b) Subsection (2) of that section did not impose any obligations on the Māori Trustee in relation to the service of copies of the certificate in relation to that valuation but required instead that those trustees or that Maori incorporation, as the case may require, serve a copy of that certificate on the lessee; and
+  (c) Subsection (6) of that section did not require the Registrar of the Court to give to the Māori Trustee notice of the filing by the lessee of any objection to that valuation but required instead that the Registrar of the Court give to those trustees or that Maori incorporation, as the case may require, notice of the filing by the lessee of any such objection.
+(3) Where section 209 of this Act applies in respect of any lease of any land while that land is vested in trustees under Part 12 of this Act or in a Maori incorporation (whether that vesting took place before or after the commencement of this Act), that section shall, with any necessary modifications, apply in relation to that lease as if every reference in that section to the Māori Trustee were in each case a reference to those trustees or that Maori incorporation, as the case may require.
 (4) Section 50 of the Maori Trustee Act 1953 shall be read subject to the provisions of this Part of this Act.
 
 ### 194 Leases not to contain option to purchase
@@ -2389,7 +2389,7 @@ Where any individual or body is appointed as an advisory trustee of a trust cons
   (f) Where 2 or more advisory trustees have been appointed in respect of a trust and they are not unanimous in respect of any advice or direction tendered to the responsible trustees, the trustees may similarly apply to the Court for directions:
   (g) No person dealing with the responsible trustees in relation to any trust property shall be concerned to inquire as to the concurrence or otherwise of the advisory trustee, or be affected by notice of the fact that the advisory trustee has not concurred:
   (h) Subject to the order creating the trust and to any further order of the Court, in any case where remuneration is payable to the responsible trustees, remuneration or commission may be paid to both the responsible trustees and the advisory trustee, the amount to be determined—
-    (i) where 1 of the responsible trustees is the Maori Trustee, by or under regulations made under the Maori Trustee Act 1953; or
+    (i) where 1 of the responsible trustees is the Māori Trustee, by or under regulations made under the Maori Trustee Act 1953; or
     (ia) where 1 of the responsible trustees is Public Trust, in accordance with Public Trust's scale of charges; or
     (ii) Where one of the responsible trustees is a trustee company within the meaning of the Trustee Companies Act 1967, in accordance with that company's scale of charges; or
     (iii) In any other case, by the Court.
@@ -2409,7 +2409,7 @@ Where any individual or body is appointed as a custodian trustee of a trust cons
   (i) No person dealing with the custodian trustee shall be concerned to inquire as to the concurrence or otherwise of the responsible trustees, or be affected by notice of the fact that the responsible trustees have not concurred:
   (j) On the application of the custodian trustee, or of any of the responsible trustees, or of any beneficiary, and on satisfactory proof that it is the general wish of the beneficiaries, or that on other grounds it is expedient, to terminate the custodian trusteeship, the Court may make an order for that purpose, and may also make such vesting orders and give such directions as in the circumstances seem to the Court to be necessary or expedient:
   (k) Subject to the order creating the trust and to any further order of the Court, in any case where remuneration is payable to the responsible trustees, remuneration or commission may be paid to both the responsible trustees and the custodian trustee, the amount to be determined—
-    (i) where the custodian trustee is the Maori Trustee, by or under regulations made under the Maori Trustee Act 1953; or
+    (i) where the custodian trustee is the Māori Trustee, by or under regulations made under the Maori Trustee Act 1953; or
     (ia) where the custodian trustee is Public Trust, in accordance with Public Trust's scale of charges; or
     (ii) Where the custodian trustee is a trustee company within the meaning of the Trustee Companies Act 1967, in accordance with that company's scale of charges; or
     (iii) In any other case, by the Court.
