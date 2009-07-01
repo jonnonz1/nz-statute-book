@@ -1,5 +1,5 @@
 # Supreme Court Act 2003
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Supreme Court Act 2003.
@@ -42,7 +42,7 @@ In this Act, unless the context otherwise requires,—
     (c) includes an application to review a decision made on an interlocutory application
   - **New Zealand court** means—
     (a) the Supreme Court, the Court of Appeal, the High Court, or a District Court; or
-    (b) any of the following specialist courts: a court-martial constituted under Part 6 of the Armed Forces Discipline Act 1971, the Courts Martial Appeal Court constituted by the Courts Martial Appeals Act 1953, the Employment Court, the Environment Court, the Maori Appellate Court, and the Maori Land Court
+    (b) any of the following specialist courts: the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007, the Court Martial Appeal Court constituted by the Court Martial Appeals Act 1953, the Employment Court, the Environment Court, the Maori Appellate Court, and the Maori Land Court
   - **permanent Judge** means a Judge of the Supreme Court who is not an acting Judge
   - **Privy Council** means the Judicial Committee of the Privy Council
   - **Registrar** means the Registrar of the Supreme Court appointed under section 36(1)
@@ -78,7 +78,7 @@ The Supreme Court can hear and determine an appeal against a decision made in a 
 The Supreme Court can hear and determine appeals authorised by—
   (a) Part 13 or section 406A of the Crimes Act 1961; or
   (b) section 144A of the Summary Proceedings Act 1957; or
-  (c) section 10A or section 10B(1) of the Courts Martial Appeals Act 1953.
+  (c) section 10 or 10A of the Court Martial Appeals Act 1953.
 
 ### 11 Procedural requirements
 Sections 7 to 10 are subject to—
@@ -144,7 +144,7 @@ The Supreme Court must not give leave to appeal directly to it against a decisio
 (2) If because of illness or a reason other than absence from New Zealand the Chief Justice is unable to perform the duties of that office, the Governor-General may authorise the senior Judge of the Supreme Court to act as Chief Justice until the Chief Justice resumes those duties.
 (3) While authorised to act as Chief Justice, the senior Judge of the Supreme Court can perform the duties of the Chief Justice, and exercise any power of the Chief Justice.
 (4) The fact that the senior Judge of the Supreme Court performs a duty of the Chief Justice or exercises a power of the Chief Justice is conclusive proof of his or her authority to do so. No action of the Judge, and no decision of the Court, may be questioned on the ground that the occasion for the Judge to perform the duty or exercise the power had not arisen or had ceased.
-(5) This section does not affect clause XII of the Letters Patent constituting the Office of Governor-General of New Zealand 1983 (SR 1983/225).
+(5) This section does not affect clause 12 of the Letters Patent constituting the Office of Governor-General of New Zealand 1983 (SR 1983/225).
 
 ### 20 Judges to be Judges of High Court
 (1) No person can be appointed as a Judge of the Supreme Court under section 17(1)(b) unless he or she—
@@ -218,12 +218,12 @@ The Supreme Court can also remit a proceeding that began in a New Zealand court 
 (3) The fact that a Judge of the Supreme Court other than the Chief Justice presides over the Court is conclusive proof of the Judge's authority to do so. No action of the Judge, and no judgment or decision of the Court, may be questioned on the ground that the occasion for the Judge to preside over the Court had not arisen or had ceased.
 
 ### 30 Procedure if Judges absent
-(1) Where, because of the death or unavailability of one or 2 of the Judges of the Supreme Court who are about to begin or have begun hearing a proceeding, only 3 or 4 of those Judges remain available to determine it,—
+(1) Where, because of the death or unavailability of 1 or 2 of the Judges of the Supreme Court who are about to begin or have begun hearing a proceeding, only 3 or 4 of those Judges remain available to determine it,—
   (a) the remaining Judges must decide whether the proceeding must be adjourned or reheard, or may continue; and
   (b) if the remaining Judges decide that the proceeding may continue,—
     (i) they may act as the Supreme Court in relation to the proceeding, and can determine it and any interlocutory matters (including the question of costs); and
     (ii) the reference in section 31(1) to a majority of the Judges hearing the proceeding must be read as a reference to a majority of those remaining Judges.
-(2) If at the time appointed for a sitting of the Supreme Court one or more Judges are absent, the Judge or Judges present may adjourn or further adjourn the sitting to some other time.
+(2) If at the time appointed for a sitting of the Supreme Court 1 or more Judges are absent, the Judge or Judges present may adjourn or further adjourn the sitting to some other time.
 (3) If at the time appointed for a sitting of the Supreme Court all the Judges are absent, the Registrar must adjourn or further adjourn the sitting to some other time.
 
 ### 31 Judgment of Court
@@ -248,14 +248,14 @@ A judgment, decree, or order of the Supreme Court may be enforced by the High Co
 (5) This section does not apply to acting Judges.
 
 ### 34 Fees to be paid into Crown Bank Account
-All fees received under this Act must be paid into the Crown Bank Account.
+All fees received under this Act must be paid into a Crown Bank Account.
 
 ### 35 Contempt of Court
 (1) A person commits an offence who—
   (a) assaults, threatens, intimidates, or wilfully insults a Judge of the Supreme Court, the Registrar of the Court, a Deputy Registrar or officer of the Court, or a witness, during his or her sitting or attendance in Court, or in going to or returning from the Court; or
   (b) wilfully interrupts or obstructs the proceedings of the Supreme Court, or misbehaves in the Court; or
   (c) wilfully and without lawful excuse disobeys an order or direction of the Supreme Court in the course of the hearing of a proceeding.
-(2) A member of the police or officer of the Supreme Court, with or without the assistance of any other person, may, by order of a Judge of the Court, take into custody and detain until the rising of the Court a person who commits an offence against subsection (1).
+(2) A constable or officer of the Supreme Court, with or without the assistance of any other person, may, by order of a Judge of the Court, take into custody and detain until the rising of the Court a person who commits an offence against subsection (1).
 (3) The Supreme Court may sentence a person who commits an offence against subsection (1) to imprisonment for a period not exceeding 5 days, or to pay a fine not exceeding $5,000, or both, for every offence.
 (4) The Supreme Court has the same power and authority as the High Court to punish any person for contempt of Court in any case to which subsection (1) does not apply.
 (5) Nothing in subsections (1) to (3) limits or affects the power and authority referred to in subsection (4).
@@ -278,7 +278,7 @@ The Registrar, Deputy Registrars, and other officers of the Supreme Court have t
   (c) prescribing the fees, travelling allowances, and expenses payable to interpreters and to people giving evidence in proceedings before the Supreme Court:
   (d) in order to promote access to justice, empowering the Registrar or a Deputy Registrar of the Supreme Court to waive, reduce, or postpone the payment of a fee required in connection with a proceeding or intended proceeding, or to refund, in whole or in part, such a fee that has already been paid, if satisfied on the basis of criteria prescribed under paragraph (e) that—
     (i) the person otherwise responsible for payment of the fee is unable to pay or absorb the fee in whole or in part; or
-    (ii) unless one or more of those powers are exercised in respect of a proceeding that concerns a matter of genuine public interest, the proceeding is unlikely to be commenced or continued:
+    (ii) unless 1 or more of those powers are exercised in respect of a proceeding that concerns a matter of genuine public interest, the proceeding is unlikely to be commenced or continued:
   (e) prescribing, for the purposes of the exercise of a power under paragraph (d), the criteria—
     (i) for assessing a person's ability to pay a fee; and
     (ii) for identifying proceedings that concern matters of genuine public interest:
@@ -288,7 +288,7 @@ The Registrar, Deputy Registrars, and other officers of the Supreme Court have t
   (g) providing for the postponement under the regulations of the payment of a fee, including (without limitation) providing—
     (i) for the recovery of the fee after the expiry of the period of postponement; and
     (ii) for restrictions to apply (after the expiry of the period of postponement and for so long as the fee remains unpaid) on the steps that may be taken in the proceeding in respect of which the fee is payable:
-  (h) providing for the manner in which an application for the exercise of a power specified in paragraph (d) or paragraph (f) is to be made, including (without limitation) requiring the application to be in a form approved for the purpose by the chief executive of the Department for Courts.
+  (h) providing for the manner in which an application for the exercise of a power specified in paragraph (d) or paragraph (f) is to be made, including (without limitation) requiring the application to be in a form approved for the purpose by the chief executive of the Ministry of Justice.
 (2) No fee is payable for an application for the exercise of a power specified in paragraph (d) or paragraph (f) of subsection (1).
 
 ### 40 Reviews of decisions of Registrars about fees
@@ -319,41 +319,18 @@ Sections 99B to 99D of the Judicature Act 1908 (which relate to the appointment 
 **Substantive amendments to Judicature Act 1908**
 
 ### 43 New sections 4A and 4B of Judicature Act 1908 inserted
-The Judicature Act 1908 is amended by inserting, after section 4, the following sections:Chief High Court JudgeFunctions of Chief High Court Judge
-  (1) The Governor-General must by warrant appoint a Judge of the High Court who is not a Judge of the Supreme Court or the Court of Appeal to be the Chief High Court Judge.
-  (2) The Chief High Court Judge holds that office until the earliest of the following:
-    (a) ceasing to hold office as a Judge of the High Court:
-    (b) being appointed a Judge of the Supreme Court or the Court of Appeal:
-    (c) resigning the office of Chief High Court Judge without resigning office as a Judge of the High Court.
-  (3) The Chief High Court Judge cannot resign the office of Chief High Court Judge without resigning office as a Judge of the High Court, except with the prior approval of the Governor-General.
-  (4) The Judge of the High Court who is next senior after the Chief High Court Judge may act in place of the Chief High Court Judge if,—
-    (a) because of illness or absence from New Zealand, or for any other reason, the Chief High Court Judge is unable to exercise the duties of that office; or
-    (b) the office of Chief High Court Judge is vacant.
-  (5) While acting in place of the Chief High Court Judge, the next senior Judge—
-    (a) may perform the functions and duties of the Chief High Court Judge; and
-    (b) may for that purpose exercise all the powers of the Chief High Court Judge.
-  (6) The fact that the next senior Judge exercises any of the powers of the Chief High Court Judge is conclusive proof of his or her authority to do so.
-  The Chief High Court Judge is responsible to the Chief Justice for ensuring the orderly and prompt conduct of the High Court's business.
+Amendment(s) incorporated in the Act(s).
 
 ### 44 Constitution of the Court
-Section 57 of the Judicature Act 1908 is amended by repealing subsection (2), and substituting the following subsection:
-  (2) Subject to this Part, the Court of Appeal comprises—
-    (a) a Judge of the High Court appointed by the Governor-General as a Judge of the Court of Appeal and as President of that Court:
-    (b) not fewer than 5 nor more than 6 other Judges of the High Court appointed by the Governor-General as Judges of the Court of Appeal.
+Amendment(s) incorporated in the Act(s).
 
 ### 45 Technical advisers
-(1) Section 99B(1) of the Judicature Act 1908 is amended by omitting the word civil.
-(2) Section 99B(4) of the Judicature Act 1908 is consequentially repealed.
+Amendment(s) incorporated in the Act(s).
 
 **Substantive amendment to Te Ture Whenua Maori Act 1993**
 
 ### 46 New sections 58A and 58B inserted
-Te Ture Whenua Maori Act 1993 is amended by inserting, after section 58, the following sections:Further appeal to Court of Appeal from Maori Appellate CourtDirect appeal to Supreme Court from Maori Appellate Court in exceptional circumstances
-  (1) A party to an appeal under section 58 may appeal to the Court of Appeal against all or part of the determination of the Maori Appellate Court on the appeal.
-  (2) On an appeal under subsection (1), the Court of Appeal may make any order or determination it thinks fit.
-  (1) A party to an appeal under section 58 may, with the leave of the Supreme Court, appeal to the Supreme Court against all or part of the determination of the Maori Appellate Court on the appeal.
-  (2) On an appeal under subsection (1), the Supreme Court may make any order or determination it thinks fit.
-  (3) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
+Amendment(s) incorporated in the Act(s).
 
 **Other substantive amendments**
 
@@ -365,8 +342,8 @@ The enactments specified in Part 1 of Schedule 1 are amended in the manner indic
 ### 48 Consequential amendments and repeals
 (1) The enactments specified in Part 2 of Schedule 1 or Part 1 of Schedule 3 are amended in the manner indicated in that schedule.
 (2) The enactments specified in Schedule 2 are repealed.
-(3) The enactments specified in Part 2 of Schedule 3 are amended by omitting the word Supreme wherever it occurs, and substituting in each case the word High.
-(4) Regulations 2 and 3 of the Law Practitioners (Victoria Reciprocity) Order 1937 (SR 1937/242) are amended by omitting the word Supreme wherever it occurs without being immediately followed by the words Court of Victoria, and substituting in each case the word High.
+(3) Amendment(s) incorporated in the regulations.
+(4) Amendment(s) incorporated in the order(s).
 (5) This section has effect as if, at the close of 31 December 2003, section 12 of the Judicature Amendment Act 1979 had ceased to apply to the Statutes Amendment Act 1947, the Law Practitioners (Victoria Reciprocity) Order 1937, and the enactments specified in Schedule 3.
 
 ### 49 Imperial enactments ceasing to have effect in New Zealand
@@ -437,112 +414,6 @@ On 1 January 2004, the following Imperial enactments cease to have effect as par
 (2) Before 1 July 2004, the Supreme Court can take any steps preliminary to hearing appeals, including considering and determining applications for leave to appeal to it, and interlocutory matters.
 
 ## Schedule 1 — Amendments
-
-### 347 Appeal to Court of Appeal
-(1) A party to an appeal under section 341 may, with the leave of the Court of Appeal, appeal to the Court of Appeal against all or part of any determination of the High Court made in the appeal.
-(2) On the appeal, the Court of Appeal has the same power to adjudicate the High Court had.
-
-### 10 Appeals to Court of Appeal
-(1) The appellant in an appeal to the Courts Martial Appeal Court under this Act or the Chief of Defence Force may, within 14 days after the decision of the Courts Martial Appeal Court was given, apply to the Attorney-General for a certificate that—
-  (a) the decision involves a point of law of exceptional public importance; and
-  (b) it is desirable in the public interest that a further appeal should be brought.
-(2) The Courts Martial Appeal Court may extend the period within which an application for a certificate under subsection (1) must be made, whether that period has expired or not.
-(3) If, and only if, given a certificate under subsection (1), the appellant in an appeal to the Courts Martial Appeal Court under this Act or the Chief of Defence Force may appeal to the Court of Appeal against the decision of the Courts Martial Appeal Court.
-
-### 10A Appeals to Supreme Court from Court of Appeal
-With the leave of the Supreme Court, the appellant in an appeal to the Court of Appeal under section 10(3) or the Chief of Defence Force may appeal to the Supreme Court against the decision of the Court of Appeal in the appeal.
-
-### 10B Direct appeals to Supreme Court in exceptional circumstances
-(1) With the leave of the Supreme Court, the appellant in an appeal to the Courts Martial Appeal Court under this Act or the Chief of Defence Force may appeal to the Supreme Court against the decision of the Courts Martial Appeal Court.
-(2) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
-
-### 10C Powers and procedure of Court of Appeal and Supreme Court
-In an appeal to the Court of Appeal or the Supreme Court under section 10(3) or section 10A or section 10B(1),—
-  (a) the court appealed to has the same powers as the Courts Martial Appeal Court; and
-  (b) this Act, as far as it is applicable and with any necessary modifications, applies to the appeal as it applies to an appeal to the Courts Martial Appeal Court.
-
-### 406A Appeals against decisions made on references
-(1) With the leave of the court appealed to, a party to proceedings in which the High Court heard and determined a question referred to it under section 406(a) may appeal to the Court of Appeal or the Supreme Court against the High Court's determination of the question.
-(2) With the leave of the Supreme Court, a party to proceedings in which the Court of Appeal heard and determined a question referred to it under section 380 or section 406(a) may appeal to the Supreme Court against the Court of Appeal's opinion on or determination of the question.
-(3) With the leave of the Supreme Court, a party to an appeal to the Court of Appeal under subsection (1) may appeal to the Supreme Court against the Court of Appeal's determination of the appeal.
-(4) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
-
-### 144A Appeal to Supreme Court
-(1) With the leave of the Supreme Court, either party may appeal to the Supreme Court against—
-  (a) a determination of the High Court on a case stated for its opinion under section 107; or
-  (b) a determination of the High Court (other than a determination made on an interlocutory application (within the meaning of the Supreme Court Act 2003)) made in a general appeal; or
-  (c) a decision of the Court of Appeal on an appeal under section 144(1).
-(2) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
-
-### 144B Powers of Court of Appeal and Supreme Court on appeal
-On an appeal under section 144 or section 144A to the Court of Appeal or the Supreme Court,—
-  (a) the court appealed to has the same power to adjudicate on the proceeding that the High Court had; and
-  (b) the same judgment must be entered in the High Court, and the same execution and other consequences and proceedings follow, as if the decision of the court appealed to had been given in the High Court.
-
-### 155 Appeals to Court of Appeal or Supreme Court
-(1) With the leave of the court appealed to, a party to an appeal under section 154 may appeal to the Court of Appeal or the Supreme Court against any determination of the High Court in the appeal.
-(2) On an appeal under this section, the Court of Appeal or the Supreme Court has the same power to adjudicate on the proceedings as the High Court had.
-(3) Subsection (1) is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
-
-### 69A Execution of decision of Supreme Court on appeal relating to bail
-(1) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 66 against a refusal to grant bail to a defendant, the Supreme Court determines that bail should be granted, the Supreme Court must order that the defendant be released on bail, subject to any conditions the Supreme Court thinks fit.
-(2) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 66 in respect of any condition of bail, the Supreme Court cancels or amends a condition of bail or substitutes or imposes any other condition, the Registrar of the Court whose decision was appealed against must send written notice to the defendant and to every surety (if any) requiring them to attend at a specified time and place for the execution of a fresh bail bond containing the conditions (if any) required to give effect to the Supreme Court's decision.
-(3) If, in any case to which subsection (2) applies, the defendant fails without reasonable excuse to attend at the time and place required, or fails to enter into a fresh bail bond, the Registrar must refer the matter to a High Court Judge who may issue a warrant for the arrest of the defendant.
-(4) If, on an appeal to the Supreme Court against a decision of the Court of Appeal on an appeal under section 66 against a refusal to grant bail to a defendant, the Supreme Court determines that bail not be granted or, as the case may be, not be continued, a warrant for the detention in custody of the defendant must be issued out of the Supreme Court and signed by a Judge of the Court.
-(5) The person who executes the warrant under subsection (4) must ensure that a copy of the notice of the result of the appeal is given to the defendant when the warrant is executed or as soon as practicable after the warrant is executed.
-(6) A defendant to whom subsection (4) applies who is not in custody may be arrested without warrant by any member of the police or any officer of a penal institution.
-
-### 71 Reserved question of law
-If under section 380(5) of the Crimes Act 1961 the High Court has decided to respite the execution of the sentence or postpone the sentence of a person who has been convicted in the High Court, the Court may in its discretion either—
-  (a) commit the person to prison; or
-  (b) grant the person bail on any terms, and subject to any conditions, the Court thinks fit.
-
-### 383A Appeal against decision of Court of Appeal on appeal against conviction or sentence
-(1) With the leave of the Supreme Court, a convicted person may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 383.
-(2) With the leave of the Supreme Court, the Solicitor-General may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under section 383(2).
-(3) If an appeal under subsection (1) or subsection (2) against a sentence of detention is not heard before the date on which the convicted person has completed serving the sentence, on that date the appeal lapses, and must be treated as having been dismissed by the Supreme Court for non-prosecution.
-(4) For the purposes of subsection (2), sentence includes any method of disposing of a case following conviction.
-
-### 384 Right of appeal against sentence or conviction for contempt of Court
-(1) This subsection applies to a person—
-  (a) found guilty in the High Court of a criminal contempt of that court or any other court committed in the face of that court or the other court; or
-  (b) found guilty in a District Court of a criminal contempt of that court committed in the face of that court during a proceeding on indictment.
-(2) A person to whom subsection (1) applies may appeal to the Court of Appeal or, with the leave of the Supreme Court, to the Supreme Court against any sentence imposed (other than an order of the High Court or a Judge of the High Court, or a District Court or a District Court Judge, that he or she be detained in custody until the rising of the Court) as if he or she had been convicted on indictment.
-(3) This subsection applies to a person found guilty in the High Court of a criminal contempt (other than a contempt committed in the face of the court) of that court or any other court.
-(4) A person to whom subsection (3) applies may appeal to the Court of Appeal or, with the leave of the Supreme Court, to the Supreme Court against the finding, or any sentence imposed (other than an order of the High Court or a Judge of the High Court that he or she be detained in custody until the rising of the Court); and this Part applies as if the finding that he or she is guilty of a criminal contempt of court were a conviction.
-(5) With the leave of the Supreme Court, a person convicted of contempt of Court may appeal to the Supreme Court against a decision of the Court of Appeal on appeal under this section.
-(6) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
-
-### 393 Certain powers exercisable by one Judge
-(1) A Judge of the Court of Appeal may exercise, in the same manner as it may be exercised by that court and subject to the same provisions, the power of that court to give leave to appeal against conviction or sentence.
-(2) A Judge of the Supreme Court or, as the case may be, of the Court of Appeal may exercise, in the same manner as it may be exercised by that court and subject to the same provisions, any power of that court to—
-  (a) extend the time within which notice of appeal or of an application for leave to appeal may be given; or
-  (b) allow the appellant to be present at any proceedings in cases where he or she is not entitled to be present without leave; or
-  (c) issue a warrant for the detention of the accused pending a new trial; or
-  (d) grant bail to an appellant.
-(3) If on an application by an appellant a Judge refuses to exercise a power referred to in subsection (1) or subsection (2) in favour of the appellant, the appellant may have the application determined by the court concerned.
-
-### 214A Appeals to Supreme Court on question of law in exceptional circumstances
-(1) A party to a proceeding under this Act who is dissatisfied with a decision of the Court (other than a decision on the construction of an individual employment agreement or a collective employment agreement) as being wrong in law may, with the leave of the Supreme Court, appeal to the Supreme Court against the decision.
-(2) In its determination of the appeal, the Supreme Court may confirm, modify, or reverse the decision appealed against or any part of that decision.
-(3) Neither an application for leave to appeal nor an appeal operates as a stay of proceedings on the decision to which the application or the appeal relates unless the Court or the Supreme Court so orders.
-(4) This section is subject to section 14 of the Supreme Court Act 2003 (which provides that the Supreme Court must not give leave to appeal directly to it against a decision made in a court other than the Court of Appeal unless it is satisfied that there are exceptional circumstances that justify taking the proposed appeal directly to the Supreme Court).
-
-### 11B Certificate by Chief Justice and Chief High Court Judge
-No appointment may be made under section 11 or section 11A except on a certificate signed by the Chief Justice and the Chief High Court Judge to the effect that, in their opinion, it is necessary for the due conduct of the Court's business that one or more temporary Judges, or (as the case may require) for one or more acting Judges, to be appointed.
-
-### 60 Appeals to Court of Appeal and Supreme Court
-Sections 144 to 144B of the Summary Proceedings Act 1957 (which provide for appeals to the Court of Appeal and Supreme Court) apply to determinations of the High Court on an appeal under section 59 of this Act as if they were determinations under section 107 of that Act.
-
-### 83A Procedure on appeal to High Court
-The High Court Rules and sections 75 to 78 of the District Courts Act 1947, with all necessary modifications, apply to an appeal under section 83.
-
-### 84 Further appeal to Court of Appeal
-A party to an appeal under section 83 may, with the leave of the Court of Appeal, appeal to the Court of Appeal against any determination of the High Court in the appeal.
-
-### 299 Appeal to High Court on question of law
-(1) A party to a proceeding before the Environment Court under this Act or any other enactment may appeal on a point of law to the High Court against any decision, report, or recommendation of the Environment Court made in the proceeding.
-(2) The appeal must be made in accordance with the High Court Rules, except to any extent that those rules are inconsistent with sections 300 to 307.
 
 ## Schedule 2 — Consequential repeals
 
