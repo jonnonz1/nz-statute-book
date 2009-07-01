@@ -1,5 +1,5 @@
 # Public Audit Act 2001
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Public Audit Act 2001.
@@ -74,7 +74,7 @@ This Act binds the Crown.
 The Auditor-General is not capable of being a member of Parliament or of a local authority and must not, without the approval of the Speaker of the House of Representatives, hold any other office or take on any other occupation.
 
 ### 9 Duty to act independently
-The Auditor-General must act independently in the exercise and performance of the Auditor-General's functions, duties, and powers.
+The Auditor-General must act independently in the exercise and performance of the Auditor-General’s functions, duties, and powers.
 
 ### 10 Corporate status
 (1) The Auditor-General is a corporation sole with perpetual succession and a seal of office.
@@ -89,13 +89,13 @@ The Auditor-General must act independently in the exercise and performance of th
 
 ### 12 Functions, duties, and powers of Deputy Auditor-General
 (1) The Deputy Auditor-General has and may exercise, to the same extent as the Auditor-General, all the functions, duties, and powers of the Auditor-General.
-(2) The exercise by the Deputy Auditor-General of the Auditor-General's functions, duties, and powers is subject to the control of the Auditor-General.
+(2) The exercise by the Deputy Auditor-General of the Auditor-General’s functions, duties, and powers is subject to the control of the Auditor-General.
 (3) If there is a vacancy in the office of the Auditor-General, or if the Auditor-General is absent from duty for any reason, the Deputy Auditor-General has and may exercise all the functions, duties, and powers of the Auditor-General for as long as the vacancy or absence continues.
-(4) The fact that the Deputy Auditor-General exercises any function, duty, or power of the Auditor-General is, in the absence of evidence to the contrary, conclusive evidence of the Deputy Auditor-General's authority to do so.
+(4) The fact that the Deputy Auditor-General exercises any function, duty, or power of the Auditor-General is, in the absence of evidence to the contrary, conclusive evidence of the Deputy Auditor-General’s authority to do so.
 
 **Administrative provisions**
 
-### 13 Administrative provisions applying to Auditor-General, Deputy Auditor-General, and Auditor-General's employees
+### 13 Administrative provisions applying to Auditor-General, Deputy Auditor-General, and Auditor-General’s employees
 The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Auditor-General, and employees of the Auditor-General.
 
 ## Part 3 — Audits and reports
@@ -113,7 +113,7 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
 ### 16 Performance audit
 (1) The Auditor-General may at any time examine—
   (a) the extent to which a public entity is carrying out its activities effectively and efficiently:
-  (b) a public entity's compliance with its statutory obligations:
+  (b) a public entity’s compliance with its statutory obligations:
   (c) any act or omission of a public entity, in order to determine whether waste has resulted or may have resulted or may result:
   (d) any act or omission showing or appearing to show a lack of probity or financial prudence by a public entity or 1 or more of its members, office holders, and employees.
 (2) An audit under this section may relate to 1 or more public entities.
@@ -124,7 +124,7 @@ The provisions set out in Schedule 3 apply to the Auditor-General, Deputy Audito
 The Auditor-General may, with the agreement of a public entity, perform for that entity any services of a kind that it is reasonable and appropriate for an auditor to perform.
 
 ### 18 Inquiries by Auditor-General
-(1) The Auditor-General may inquire, either on request or on the Auditor-General's own initiative, into any matter concerning a public entity's use of its resources.
+(1) The Auditor-General may inquire, either on request or on the Auditor-General’s own initiative, into any matter concerning a public entity’s use of its resources.
 (2) Subsection (1) does not apply to the Reserve Bank of New Zealand or any registered bank (as defined in section 2(1) of the Reserve Bank of New Zealand Act 1989).
 (3) If subsection (1) applies and there is an applicable government or local authority policy to which the public entity is required to adhere, the inquiry is to be limited to the extent to which the public entity is using its resources in a manner consistent with that policy.
 
@@ -151,12 +151,12 @@ The Auditor-General may, with the agreement of a public entity, perform for that
 **Reports**
 
 ### 20 Reports to House of Representatives
-In addition to the annual report prepared under section 37, the Auditor-General must report at least once every calendar year to the House of Representatives on matters arising out of the performance and exercise of the Auditor-General's functions, duties, and powers.
+In addition to the annual report prepared under section 37, the Auditor-General must report at least once every calendar year to the House of Representatives on matters arising out of the performance and exercise of the Auditor-General’s functions, duties, and powers.
 
 ### 21 Reports to Minister, committees, etc
-The Auditor-General may report to a Minister, a committee of the House of Representatives, a public entity, or any person on any matter arising out of the performance and exercise of the Auditor-General's functions, duties, and powers that the Auditor-General considers it desirable to report on.
+The Auditor-General may report to a Minister, a committee of the House of Representatives, a public entity, or any person on any matter arising out of the performance and exercise of the Auditor-General’s functions, duties, and powers that the Auditor-General considers it desirable to report on.
 
-### 22 Publication of Auditor-General's report relating to public entity named or described in Local Government Official Information and Meetings Act 1987
+### 22 Publication of Auditor-General’s report relating to public entity named or described in Local Government Official Information and Meetings Act 1987
 If the Auditor-General has prepared a report under section 20 or section 21 relating to a public entity named or described in Schedules 1 or 2 of the Local Government Official Information and Meetings Act 1987,—
   (a) the Auditor-General may direct the public entity to table the report during a meeting of the public entity that is open to the public; and
   (b) the public entity must do so at the next such meeting.
@@ -170,11 +170,11 @@ If the Auditor-General has prepared a report under section 20 or section 21 rela
 ## Part 4 — Information-gathering powers and disclosure of information
 
 ### 24 Access to information
-The chief executive and the governing body of a public entity must ensure that the Auditor-General has access at all times to the documents of the entity relating to the performance and exercise of the Auditor-General's functions, duties, and powers.
+The chief executive and the governing body of a public entity must ensure that the Auditor-General has access at all times to the documents of the entity relating to the performance and exercise of the Auditor-General’s functions, duties, and powers.
 
 ### 25 Power of Auditor-General to obtain information
-(1) For the purposes of exercising or performing the Auditor-General's functions, duties, or powers, the Auditor-General may require a public entity or any person to:
-  (a) produce to the Auditor-General a document in the entity's or person's custody, care, or control:
+(1) For the purposes of exercising or performing the Auditor-General’s functions, duties, or powers, the Auditor-General may require a public entity or any person to:
+  (a) produce to the Auditor-General a document in the entity’s or person’s custody, care, or control:
   (b) provide the Auditor-General with information or an explanation about any information.
 (2) If any information is required from a person who is not a member, employee, or office holder of the public entity, the Auditor-General must—
   (a) advise the person in writing of the nature of the information; and
@@ -183,7 +183,7 @@ The chief executive and the governing body of a public entity must ensure that t
 (3) The Auditor-General may pay the person referred to in subsection (2) the reasonable costs and disbursements of providing the information and may recover those costs and disbursements from the public entity to which the information relates.
 
 ### 26 Power to examine on oath
-(1) The Auditor-General may, in the course of the exercise or performance of the Auditor-General's functions, duties, or powers, require a person to give evidence.
+(1) The Auditor-General may, in the course of the exercise or performance of the Auditor-General’s functions, duties, or powers, require a person to give evidence.
 (2) The Auditor-General may require the evidence to be given either orally or in writing.
 (3) For the purpose of examining a person, the Auditor-General may administer an oath.
 (4) Section 108 of the Crimes Act 1961 (which relates to perjury) applies to an examination under this section.
@@ -191,20 +191,20 @@ The chief executive and the governing body of a public entity must ensure that t
 (6) The Auditor-General may recover those costs and expenses from the public entity to which the evidence relates.
 
 ### 27 Power to inspect bank accounts
-(1) For the purpose of exercising or performing the Auditor-General's functions, duties, or powers, the Auditor-General may examine or audit the account of any person in any bank and, for that purpose, may—
-  (a) require any officer of the bank to produce any document or provide any information relating to that account in the bank's custody, care, or control; and
+(1) For the purpose of exercising or performing the Auditor-General’s functions, duties, or powers, the Auditor-General may examine or audit the account of any person in any bank and, for that purpose, may—
+  (a) require any officer of the bank to produce any document or provide any information relating to that account in the bank’s custody, care, or control; and
   (b) take copies of any document so produced.
-(2) The powers conferred on the Auditor-General by subsection (1) must not be exercised unless the Auditor-General is authorised to do so by warrant issued by a District Court Judge on the grounds that the Auditor-General has reason to believe that money belonging to a public entity has been fraudulently or wrongfully paid into the person's account.
+(2) The powers conferred on the Auditor-General by subsection (1) must not be exercised unless the Auditor-General is authorised to do so by warrant issued by a District Court Judge on the grounds that the Auditor-General has reason to believe that money belonging to a public entity has been fraudulently or wrongfully paid into the person’s account.
 
 ### 28 Protection for persons supplying information
-(1) A person who is required by any enactment to maintain secrecy or not to disclose information relating to a matter may be required by the Auditor-General to do any of the things referred to in sections 25, 26, and 27 even though the person would otherwise be in breach of that person's obligation of secrecy or non-disclosure.
+(1) A person who is required by any enactment to maintain secrecy or not to disclose information relating to a matter may be required by the Auditor-General to do any of the things referred to in sections 25, 26, and 27 even though the person would otherwise be in breach of that person’s obligation of secrecy or non-disclosure.
 (2) Compliance with a requirement of the Auditor-General under the sections referred to in subsection (1) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
 
 ### 29 Access to premises
-For the purpose of obtaining documents, information, or other evidence relevant to any matter arising in the exercise or performance of the Auditor-General's functions, duties, or powers, the Auditor-General may, at all reasonable times,—
+For the purpose of obtaining documents, information, or other evidence relevant to any matter arising in the exercise or performance of the Auditor-General’s functions, duties, or powers, the Auditor-General may, at all reasonable times,—
   (a) enter into and remain on—
-    (i) a public entity's premises; or
-    (ii) any other premises if so authorised by warrant issued by a District Court Judge on the grounds that there is reasonable cause to suspect that documents, information, or other evidence relating to the activities of that public entity are or may be held at those premises.
+    (i) a public entity’s premises; or
+    (ii) any other premises if so authorised by warrant issued by a District Court Judge on the grounds that there is reasonable cause to suspect that documents, information, or other evidence relating to the activities of that public entity are or may be held at those premises:
   (b) carry out a search for a document, examine a document, and make copies of a document or parts of a document.
 
 ### 30 Disclosure by Auditor-General
@@ -212,9 +212,9 @@ For the purpose of obtaining documents, information, or other evidence relevant 
 (2) The Auditor-General may disclose such information as the Auditor-General considers appropriate to disclose in the exercise of his or her functions, duties, or powers.
 (3) Before disclosing any information, the Auditor-General must consider—
   (a) the public interest:
-  (b) an auditor's professional obligations concerning confidentiality of information:
+  (b) an auditor’s professional obligations concerning confidentiality of information:
   (c) the interests described in sections 6, 7, and 9(2) of the Official Information Act 1982.
-(4) This section does not affect an individual's entitlement to request access to information under information privacy principle 6 of the Privacy Act 1993.
+(4) This section does not affect an individual’s entitlement to request access to information under information privacy principle 6 of the Privacy Act 1993.
 
 ### 31 Self-incrimination
 (1) A person is not excused from answering a question or giving any information or document under this Act on the ground that to do so may incriminate or tend to incriminate that person.
@@ -225,7 +225,7 @@ For the purpose of obtaining documents, information, or other evidence relevant 
 **Appointment of auditors**
 
 ### 32 Appointment of auditors for financial report audit
-(1) The Auditor-General may from time to time appoint any of the following persons or bodies to act as an auditor and to carry out 1 or more audits of entities under section 15, or to provide a specific service under section 17, on the Auditor-General's behalf:
+(1) The Auditor-General may from time to time appoint any of the following persons or bodies to act as an auditor and to carry out 1 or more audits of entities under section 15, or to provide a specific service under section 17, on the Auditor-General’s behalf:
   (a) an employee of the Auditor-General:
   (b) a person qualified to be an auditor of a company under section 199 of the Companies Act 1993, regardless of whether the entity concerned is a company:
   (c) subject to subsection (2), a partnership, if all or some of the partners are persons who are qualified to be appointed as auditors of a company under section 199 of the Companies Act 1993.
@@ -252,7 +252,7 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 **Delegations**
 
 ### 35 Delegation of powers
-(1) The Auditor-General may from time to time, either generally or particularly, delegate all or any of the Auditor-General's functions, duties, and powers (including this power of delegation) to an employee of the Auditor-General.
+(1) The Auditor-General may from time to time, either generally or particularly, delegate all or any of the Auditor-General’s functions, duties, and powers (including this power of delegation) to an employee of the Auditor-General.
 (2) However, the Auditor-General must not delegate—
   (a) the power of appointment of auditors under section 32 or section 33; or
   (b) the function of reporting to the House of Representatives; or
@@ -269,12 +269,12 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 
 ### 36 Annual plan of Auditor-General
 (1) At least 60 days before the beginning of each financial year, the Auditor-General must prepare and submit to the Speaker of the House of Representatives a draft annual plan that—
-  (a) describes the Auditor-General's proposed work programme for that year; and
+  (a) describes the Auditor-General’s proposed work programme for that year; and
   (b)
 (2) The Speaker must present the draft annual plan to the House of Representatives as soon as reasonably practicable.
-(3) The Auditor-General, after considering any comments of the Speaker or any committee of the House of Representatives that considered the draft annual plan, may amend the plan as the Auditor-General thinks necessary but must indicate in the plan the nature of any changes to the Auditor-General's work programme priorities requested by the Speaker or any committee of the House of Representatives but not included in the plan.
+(3) The Auditor-General, after considering any comments of the Speaker or any committee of the House of Representatives that considered the draft annual plan, may amend the plan as the Auditor-General thinks necessary but must indicate in the plan the nature of any changes to the Auditor-General’s work programme priorities requested by the Speaker or any committee of the House of Representatives but not included in the plan.
 (4) The Auditor-General must present a completed annual plan to the Speaker before the beginning of each financial year and the Speaker must then present it to the House of Representatives.
-(5) If the annual plan is completed in time, the Auditor-General may include it with the final information about the Auditor-General's future operating intentions that the Auditor-General must provide to the Speaker under section 45G(1)(c) of the Public Finance Act 1989.
+(5) If the annual plan is completed in time, the Auditor-General may include it with the final information about the Auditor-General’s future operating intentions that the Auditor-General must provide to the Speaker under section 45G(1)(c) of the Public Finance Act 1989.
 
 ### 37 Annual report of Auditor-General
 (1) As soon as practicable after the end of each financial year, the Auditor-General must prepare and present an annual report to the House of Representatives in accordance with section 43 of the Public Finance Act 1989.
@@ -291,7 +291,7 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 
 ### 39 Offences
 (1) Every person commits an offence who, without lawful justification or excuse,—
-  (a) intentionally obstructs, hinders, or resists the Auditor-General or any other person in the exercise of the Auditor-General's or other person's powers under this Act:
+  (a) intentionally obstructs, hinders, or resists the Auditor-General or any other person in the exercise of the Auditor-General’s or other person’s powers under this Act:
   (b) intentionally refuses or fails to comply with any lawful requirement of the Auditor-General or any other person under this Act:
   (c) makes a statement or gives information to the Auditor-General or any other person exercising powers under this Act, knowing that the statement or information is false or misleading:
   (d) represents directly or indirectly that the person holds any authority under this Act when that person knowingly does not hold that authority.
@@ -307,7 +307,7 @@ When appointing an auditor under section 32 or section 33, the Auditor-General m
 (1) This section applies to—
   (a) the Auditor-General in his or her personal capacity; and
   (b) the Deputy Auditor-General in his or her personal capacity; and
-  (c) every person employed by the Auditor-General, whether acting as an appointed auditor or not, in connection with the performance or exercise of the Auditor-General's functions, duties, or powers.
+  (c) every person employed by the Auditor-General, whether acting as an appointed auditor or not, in connection with the performance or exercise of the Auditor-General’s functions, duties, or powers.
 (2) No person to whom this section applies is personally liable for an act or omission in connection with performing or exercising a function, duty, or power under this Act, unless the act or omission was done in bad faith.
 (3) Subsection (2) does not limit any disciplinary functions, powers, or duties of any person or body that apply to any of the persons to whom this section applies by virtue of their membership of a professional body.
 
@@ -340,8 +340,7 @@ For the purposes of sections CW 38 and CW 39 of the Income Tax Act 2007, the Aud
 [Repealed]
 
 ### 46 Assessment of tax
-Section 190 of the Local Government Act 1974 is amended by repealing subsection (2), and substituting the following subsection:
-  (2) For the purposes of this Part of this Act, the Auditor-General has, in respect of the records of wholesale distributors relating to petroleum sold, agreed to be sold, disposed of, delivered, or used by the local authority, the same powers as it has under the Public Audit Act 2001.
+Amendment(s) incorporated in the Act(s).
 
 ### 47 Failure to comply with financial reporting requirements
 [Repealed]
@@ -401,7 +400,7 @@ The Audit Department is abolished.
   (d) the Crown remains liable to any third party as if the transfer or grant had not been made, but the Auditor-General must indemnify the Crown in respect of any liability to the third party:
   (e) any satisfaction or performance by the Auditor-General in respect of the asset, liability, authority, or rights is to be treated as also satisfaction or performance by the Crown:
   (f) any satisfaction or performance in respect of the asset or liability, authority, or rights by any third party to the benefit of the Auditor-General is to be treated as also to the benefit of the Crown.
-(2) No provision in any deed or agreement limiting the Crown's right to sell any assets to third parties, or for determining the consideration for the sale of any assets to third parties, or obliging the Crown to account to any person for the whole or part of the proceeds of sale by the Crown of any assets to third parties, or obliging the Crown to pay a greater price than otherwise by reason of or as a consequence of the sale of any assets to third parties, has any application or effect in respect of any contract or other document or transfer entered into or effected under this Act or under such a contract or other document or transfer.
+(2) No provision in any deed or agreement limiting the Crown’s right to sell any assets to third parties, or for determining the consideration for the sale of any assets to third parties, or obliging the Crown to account to any person for the whole or part of the proceeds of sale by the Crown of any assets to third parties, or obliging the Crown to pay a greater price than otherwise by reason of or as a consequence of the sale of any assets to third parties, has any application or effect in respect of any contract or other document or transfer entered into or effected under this Act or under such a contract or other document or transfer.
 (3) Any asset, liability, authority, or rights of the Crown may be transferred or granted to the Auditor-General under this Act whether or not any Act or deed or agreement relating to the asset, liability, authority, or rights permits such transfer or grant or requires any consent to such a transfer or grant.
 
 **Employees in Audit Department to be employees of Auditor-General**
@@ -411,8 +410,8 @@ Every person employed in the Audit Department immediately before the date of com
 
 ### 60 Protection of conditions of employment
 For the purposes of every enactment, law, contract, and agreement relating to the employment of a person referred to in section 59,—
-  (a) the contract of employment of that employee that applied immediately before the commencement of this Act in respect of that person's employment in the Audit Department is to be treated as unbroken; and
-  (b) the employee's period of service with the Audit Department and every other period of service of that employee that was recognised by the Audit Department as continuous service is to be treated as a period of service with the Auditor-General.
+  (a) the contract of employment of that employee that applied immediately before the commencement of this Act in respect of that person’s employment in the Audit Department is to be treated as unbroken; and
+  (b) the employee’s period of service with the Audit Department and every other period of service of that employee that was recognised by the Audit Department as continuous service is to be treated as a period of service with the Auditor-General.
 
 ### 61 No compensation for technical redundancy
 A person to whom section 59 applies is not entitled to any compensation for redundancy by reason only of the person ceasing to be employed in the Audit Department.
@@ -420,7 +419,7 @@ A person to whom section 59 applies is not entitled to any compensation for redu
 ### 62 Membership of Government Superannuation Fund
 If a person to whom section 59 applies was a contributor to the Government Superannuation Fund under the Government Superannuation Fund Act 1956 immediately before the date of commencement of this Act,—
   (a) that person is to be regarded for the purposes of the Government Superannuation Fund Act 1956 as being employed in the Government service for so long as the person continues to be employed by the Auditor-General; and
-  (b) the Government Superannuation Fund Act 1956 is deemed to apply to the person in all respects as if the person's service with the Government service were continuous.
+  (b) the Government Superannuation Fund Act 1956 is deemed to apply to the person in all respects as if the person’s service with the Government service were continuous.
 
 **Transitional audits**
 
@@ -434,6 +433,8 @@ Nothing in this Act—
 ## Schedule 2 — Specific public entities not falling within any class
 
 ## Schedule 3 — Provisions applying in respect of Auditor-General, Deputy Auditor-General, and employees of Auditor-General
+
+**Auditor-General and Deputy Auditor-General**
 
 ### 1 Term of appointment of Auditor-General
 (1) The Auditor-General is to be appointed for a term not exceeding 7 years.
@@ -455,10 +456,10 @@ Nothing in this Act—
 (2) At any time when Parliament is not in session, the Auditor-General or Deputy Auditor-General may be suspended from office by the Governor-General in Council for disability affecting the performance of duty, bankruptcy, neglect of duty, or misconduct proved to the satisfaction of the Governor-General; but any such suspension must not continue in force beyond 2 months after the beginning of the next session of Parliament.
 
 ### 5 Salary and other conditions of employment
-(1) The Auditor-General and Deputy Auditor-General are each to be paid out of the Crown Bank Account, without further appropriation than this section,—
+(1) The Auditor-General and Deputy Auditor-General are each to be paid out of a Crown Bank Account, without further appropriation than this section,—
   (a) a salary at such rate as the Remuneration Authority from time to time determines; and
   (b) allowances that are determined from time to time by the Remuneration Authority.
-(2) The salary of the Auditor-General, or of the Deputy Auditor-General, must not be reduced during the Auditor-General's, or Deputy Auditor-General's, appointment.
+(2) The salary of the Auditor-General, or of the Deputy Auditor-General, must not be reduced during the Auditor-General’s, or Deputy Auditor-General’s, appointment.
 
 ### 6 State Sector Act 1988 and Government Superannuation Fund Act 1956 not applicable to Auditor-General and Deputy Auditor-General
 The Auditor-General and Deputy Auditor-General are not employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of their appointment as Auditor-General or Deputy Auditor-General.
@@ -469,8 +470,10 @@ The Auditor-General must not do any of the following without the written approva
   (b) give a guarantee or indemnity:
   (c) establish a subsidiary.
 
+**Employees of Auditor-General**
+
 ### 8 Employees of Auditor-General
-(1) The Auditor-General may employ such persons as are necessary for the performance of the Auditor-General's functions, duties, and powers.
+(1) The Auditor-General may employ such persons as are necessary for the performance of the Auditor-General’s functions, duties, and powers.
 (2) Except as otherwise stated in this Act, the terms and conditions of employment of any employee are as agreed by the Auditor-General with the employee.
 
 ### 9 Good employer principles
@@ -503,146 +506,3 @@ The Auditor-General must not do any of the following without the written approva
 (2) An employee of the Auditor-General is not to be regarded as employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason of his or her employment as such.
 
 ## Schedule 4 — Consequential amendments
-
-### 22 Audits
-The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 13 Audit of accounts and financial statements
-The Authority and the Commission are public entities as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is their auditor.
-
-### 30 Audit
-The Office of the Clerk of the House of Representatives is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 21 Auditor-General to be auditor of Crown Research Institutes and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993, every Crown Research Institute and every subsidiary of every Crown Research Institute is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting subsection (1), the board of a Crown Research Institute may, after consultation with the Auditor-General and with the approval of the Minister, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the Crown Research Institute or any subsidiary of the Crown Research Institute.
-
-### 11 Auditor-General to be auditor of Commission
-(1) The Commission is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting subsection (1), the Commission may, after consultation with the Auditor-General and with the approval of the Minister, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the Commission.
-
-### 45 Auditor-General to be auditor of energy companies and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993 and subject to subsection (3), every energy company and every subsidiary of every energy company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting the provisions of this section, the directors of an energy company may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the energy company or any subsidiary of it.
-(3) If an energy company is not a public energy company,
-  (a) the company is not a public entity under subsection (1); and
-  (b) the Auditor-General is not the auditor of the company; and
-  (c) the directors of the company and of every subsidiary of the company must appoint an auditor or auditors of the company and of every subsidiary of the company and, where such appointment is made consequent on the Auditor-General ceasing to be the auditor of the energy company, every such appointment must be treated as having been made by the directors to fill a casual vacancy in the office of auditor under section 196(4) of the Companies Act 1993.
-(4) Despite subsection (3), if, in respect of any energy company that has ceased to be a public energy company, and its subsidiaries (if any), consolidated financial statements have been submitted to the Auditor-General for audit, the Auditor-General is to continue to be the auditor of the company and every subsidiary of the company until that audit has been completed.
-(5) In this section, public energy company means an energy company in which a controlling interest is held by any local authority or local authorities, or any approved person or approved persons, or any combination of 1 or more local authorities and 1 or more approved persons.
-
-### 34 Auditor-General to be auditor of Authority
-The Authority is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 21B Auditor-General to be auditor of Export Guarantee Office
-The Export Guarantee Office is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 14 Auditor-General to be auditor of Classification Office
-The Classification Office is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 47
-The Authority is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 11 Auditor-General to be auditor of Commissioner's accounts
-The Commissioner is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 20 Auditor-General to be auditor of company and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993, the company and every subsidiary of the company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting subsection (1), the board may, after consultation with the Auditor-General and if the responsible Minister so approves, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the company or any subsidiary of the company.
-
-### 43 Auditor-General to be auditor of INZ
-INZ is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 132A Auditor-General may audit Assignee's accounts
-(1) The Auditor-General may, at the Auditor-General's discretion, audit—
-  (a) the books of account of the Assignee in respect of any bankruptcy:
-  (b) any statement of accounts and statement of financial position prepared by the Assignee under section 132(3) of this Act:
-  (c) any account maintained by the Assignee for the purposes of this Act.
-(2) For the purposes of this section, the Auditor-General has the same powers as the Auditor-General has under the Public Audit Act 2001 as if the Assignee were a public entity.
-
-### 30A Auditor-General to be auditor of Board
-Every Board, but not any subsidiary of a Board, is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 23 Auditor-General to be auditor of Institute
-The Institute is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 31 Auditor-General to be auditor of Commission
-The Commission is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 43 Auditor
-Each DHB and each subsidiary of a DHB is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 68 Auditor
-Each organisation and each subsidiary of an organisation is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 16 Auditor-General to be auditor of Board
-The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 349 Auditor-General to be auditor of Trust
-The Ngai Tahu Ancillary Claims Trust is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 31A Audit
-(1) The House of Representatives must appoint an auditor to audit the Ombudsmen.
-(2) The provisions of the Public Audit Act 2001 apply to any audit carried out by an auditor appointed under this section.
-(3) In carrying out the functions conferred by this section, the auditor has the same functions, duties, and powers as the Auditor-General.
-
-### 29A Auditor-General to be auditor of Board
-The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 14 Audit
-The Parliamentary Service Commission is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 19 Auditor-General to be auditor of port companies and subsidiaries
-Despite sections 196 to 203 of the Companies Act 1993, every port company and every subsidiary of every port company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 12 Auditor-General to be auditor of Marketing Authority
-Every Marketing Authority is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 10A Auditor-General to be auditor of Commissioner
-The Commissioner is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 29B Auditor-General to be auditor of Crown
-For the purposes of this Act the Crown is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 17 Audit
-Despite sections 196 to 203 of the Companies Act 1993, the public radio company and every subsidiary of the public radio company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 166 Auditor-General to be auditor of Bank
-The Bank is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 128 Auditor-General to be auditor of residential tenancies trust account
-(1) The Residential Tenancies Trust Account is to be treated as a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting subsection (1), the chief executive may, after consultation with the Auditor-General, appoint a person or firm that is qualified for appointment as an auditor to be an additional auditor of the Residential Tenancies Trust Account.
-
-### 15 Auditor-General to be auditor of Retirement Commissioner
-The Retirement Commissioner is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 31C Auditor-General to be auditor of Commission
-(1) The Commission must keep full and correct accounts of all its financial transactions, assets, liabilities, and funds.
-(2) The Commission is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 19 Auditor-General to be auditor of state enterprises and subsidiaries
-(1) Despite sections 196 to 203 of the Companies Act 1993, every state enterprise and every subsidiary of every state enterprise is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting subsection (1), the board of a State enterprise may, after consultation with the Auditor-General and if its responsible Minister so approves, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of the State enterprise or any subsidiary of a State enterprise.
-
-### 20 Accounts
-(1) The Council must keep full and correct accounts of all money received and expended by it.
-(2) The Council is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 7 Auditor-General to be auditor of Valuation New Zealand Limited
-(1) Despite sections 196 to 203 of the Companies Act 1993, Valuation New Zealand Limited and every subsidiary of Valuation New Zealand Limited is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-(2) Without limiting subsection (1), Valuation New Zealand Limited, or any subsidiary of the company, may, after consultation with the Auditor-General and if the shareholding Ministers so approve, appoint a person or firm that is qualified for appointment as an auditor of a company to be an additional auditor of Valuation New Zealand Limited or the subsidiary.
-
-### 27 Audit of Board's accounts
-(1) The Board must keep full and correct accounts of all money received and expended by it.
-(2) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 24 Auditor
-The Auditor-General is the Board's auditor; and, for the purpose of performing that function, has and may exercise and perform all the Auditor-General's functions, duties, and powers under the Public Audit Act 2001.
-
-### 27 Audit of Board's accounts
-(1) The Board must keep full and correct accounts of all money received and expended by it.
-(2) The Board is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
-
-### 18 Auditor-General to be auditor of company
-Despite sections 196 to 203 of the Companies Act 1993, the company and every subsidiary of the company is a public entity as defined in section 4 of the Public Audit Act 2001 and, in accordance with that Act, the Auditor-General is its auditor.
