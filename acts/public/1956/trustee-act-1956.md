@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2008-09-10_
+_Consolidation as at 2009-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to trusts and trustees
 
@@ -628,7 +628,7 @@ Where any property is employed in an activity that the trustee is empowered or a
     (e) Where advisory trustees are not unanimous, and tender to the responsible trustee conflicting advice or directions, the responsible trustee may similarly apply to the Court for directions.
 (4) No person dealing with the responsible trustee in relation to any trust property shall be concerned to inquire as to the concurrence or otherwise of the advisory trustee, or be affected by notice of the fact that the advisory trustee has not concurred.
 (5) Subject to the provisions of the instrument (if any) creating the trust and to any order made by the Court, in any case where remuneration is payable to the trustee of any trust property, remuneration or commission may be paid to both the responsible trustee and the advisory trustee, and subject as aforesaid the amount thereof shall be determined,—
-  (a) where the responsible trustee is the Maori Trustee, by or under regulations made under the Maori Trustee Act 1953:
+  (a) where the responsible trustee is the Māori Trustee, by or under regulations made under the Maori Trustee Act 1953:
   (aa) where the responsible trustee is Public Trust, in accordance with Public Trust's scale of charges:
   (b) In any other case, by the responsible trustee if he is entitled to fix his own remuneration, or by the Court.
 (6)
@@ -648,7 +648,7 @@ Where any property is employed in an activity that the trustee is empowered or a
   (i) The power of appointing new trustees, when exercisable by the trustee, shall be exercisable by the managing trustees alone, but the custodian trustee shall have the same power as any other trustee of applying to the Court for the appointment of a new trustee.
 (3) On the application of the custodian trustee, or of any of the managing trustees, or of any beneficiary, and on satisfactory proof that it is the general wish of the beneficiaries, or that on other grounds it is expedient to terminate the custodian trusteeship, the Court may make an order for that purpose, and may also make such vesting orders and give such directions as in the circumstances seem to the Court to be necessary or expedient.
 (4) Subject to the provisions of the instrument (if any) creating the trust and to any order made by the Court, in any case where remuneration or commission is payable to the trustee of any trust property, remuneration may be paid to both the custodian trustee and the managing trustees, and subject as aforesaid the amount thereof shall be determined,—
-  (a) as regards the custodian trustee in any case where the custodian trustee is the Maori Trustee, by or under regulations made under the Maori Trustee Act 1953:
+  (a) as regards the custodian trustee in any case where the custodian trustee is the Māori Trustee, by or under regulations made under the Maori Trustee Act 1953:
   (aa) as regards the custodian trustee in any case where the custodian trustee is Public Trust, in accordance with Public Trust's scale of charges:
   (b) As regards the custodian trustee in any case where the custodian trustee is a trustee company within the meaning of the Trustee Companies Act 1967, in accordance with the scale of charges for the time being of the trustee company:
   (c) Except as provided in paragraphs (a) and (b) of this subsection, by the managing trustees if they are entitled to fix their own remuneration, or by the Court.
