@@ -1,5 +1,5 @@
 # Habeas Corpus Act 2001
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-07-01_
 
 ### 1 Title
 This Act is the Habeas Corpus Act 2001.
@@ -29,7 +29,7 @@ The purposes of this Act are—
   (c) to provide certain unsuccessful parties in habeas corpus proceedings with a right of appeal to the Court of Appeal:
   (d) to abolish writs of habeas corpus other than the writ of habeas corpus ad subjiciendum.
 
-## Part  — Application for writ of habeas corpus
+**Application for writ of habeas corpus**
 
 ### 6 Application for writ of habeas corpus to challenge legality of detention
 An application to challenge the legality of a person's detention may be made by an application for a writ of habeas corpus.
@@ -37,10 +37,10 @@ An application to challenge the legality of a person's detention may be made by 
 ### 7 Manner of application for writ
 (1) An application for a writ of habeas corpus must be made to the High Court by originating application in the manner provided by the High Court Rules.
 (2) Despite subsection (1), nothing in that subsection excludes the inherent jurisdiction of the High Court to hear and to make an order on an oral application at any time in circumstances of unusual urgency.
-(3) Despite subsection (1), the provisions of any High Court Rule providing for directions by the Court before the hearing, or affecting the hearing, of an originating application or empowering the Court to convene a conference of the parties to an originating application do not apply to an application.
+(3) Despite subsection (1), the provisions of any High Court Rule providing for directions by the court before the hearing, or affecting the hearing, of an originating application or empowering the court to convene a conference of the parties to an originating application do not apply to an application.
 (4) No applicant may be disqualified for lack of capacity or standing.
 (5) In a proceeding for a writ of habeas corpus—
-  (a) No party to the proceeding is entitled to general or special discovery of the documents of any other party to the proceeding or to an order for security for costs; and
+  (a) no party to the proceeding is entitled to general or special discovery of the documents of any other party to the proceeding or to an order for security for costs; and
   (b) the High Court Rules concerning discovery and inspection of documents and security for costs do not apply.
 (6) No fee is payable to the High Court for filing any document in respect of an application.
 (7) Section 51E of the Judicature Act 1908 does not apply in respect of the form and manner of any application made under this Act.
@@ -48,65 +48,65 @@ An application to challenge the legality of a person's detention may be made by 
 ### 8 Description of defendant by reference only to office
 A defendant may be described in an application by reference only to the defendant's office if the defendant is—
   (a) the prison manager of a prison in which the detained person is alleged to be illegally detained; or
-  (b) the Commissioner of Police, if the detained person is alleged to be illegally detained in police custody except following the exercise of powers under the Immigration Act 1987; or
-  (c) the chief executive of the Department of Labour, if the detained person is alleged to be illegally detained in police custody following the exercise of powers under the Immigration Act 1987; or
-  (d) the Comptroller of Customs, if the detained person is alleged to be illegally detained in the custody of the New Zealand Customs Service; or
+  (b) the Commissioner of Police, if the detained person is alleged to be illegally detained in Police custody except following the exercise of powers under the Immigration Act 1987; or
+  (c) the chief executive of the Department of Labour, if the detained person is alleged to be illegally detained in Police custody following the exercise of powers under the Immigration Act 1987; or
+  (d) the chief executive of the New Zealand Customs Service, if the detained person is alleged to be illegally detained in the custody of the New Zealand Customs Service; or
   (e) any other office holder prescribed by rules made in accordance with section 20, and in the circumstances prescribed in those rules.
 
 ### 9 Urgency
 (1) An application for a writ of habeas corpus must be given precedence over all other matters before the High Court.
-(2) Judges and employees of the Department for Courts must ensure that every application, including any interlocutory application, is disposed of as a matter of priority and urgency.
+(2) Judges and employees of the Ministry of Justice must ensure that every application, including any interlocutory application, is disposed of as a matter of priority and urgency.
 (3) The Registrar must allocate a date for the inter partes hearing of an application that is no later than 3 working days after the date on which the application is filed.
 
 ### 10 Urgency where no resident Judge available
-(1) If an application is filed at a Registry of the High Court in a place where no Judge is at that time available, the Registrar must ensure that the application is dealt with in some other place within the time limit referred to in section 9(3); and any other Registrar or employee of the Department for Courts whose assistance is sought by the Registrar in whose Registry the application is filed has a corresponding obligation.
+(1) If an application is filed at a Registry of the High Court in a place where no Judge is at that time available, the Registrar must ensure that the application is dealt with in some other place within the time limit referred to in section 9(3); and any other Registrar or employee of the Ministry of Justice whose assistance is sought by the Registrar in whose Registry the application is filed has a corresponding obligation.
 (2) If subsection (1) applies, the Registrar must—
   (a) make such urgent enquiries as are necessary to determine where and by whom the application can most conveniently and expeditiously be dealt with; and
   (b) forward the application and any other relevant documents without delay to the Registrar at the place where the application is to be dealt with; and
   (c) without delay, inform every party to the proceeding of the action taken under this section.
 (3) This section applies in substitution for any provision of the High Court Rules relating to the transfer of notices of application filed at a time when a Judge is not present.
 
-## Part  — Determination of applications
+**Determination of applications**
 
 ### 11 Interim orders for release from detention
-(1) The High Court may make an interim order for the release from detention of the detained person pending final determination of the application, and may attach any conditions to the order that the Court thinks appropriate to the circumstances.
-(2) In the case of a detained person who is charged with an offence to which the Bail Act 2000 applies, the Court must not make an order under this section if the Court is of the opinion that bail would not be granted to that person under that Act.
-(3) If a person has been released from detention under an interim order, the Court may, on the application of the person released or any party to the proceeding or on the Court's own initiative, make an order—
+(1) The High Court may make an interim order for the release from detention of the detained person pending final determination of the application, and may attach any conditions to the order that the court thinks appropriate to the circumstances.
+(2) In the case of a detained person who is charged with an offence to which the Bail Act 2000 applies, the court must not make an order under this section if the court is of the opinion that bail would not be granted to that person under that Act.
+(3) If a person has been released from detention under an interim order, the court may, on the application of the person released or any party to the proceeding or on the court's own initiative, make an order—
   (a) revoking the interim order; or
   (b) varying or revoking any condition of the interim order or substituting or imposing any other condition.
 (4) If a detained person who is in custody under a conviction is released under an interim order, the time during which the person is released does not count as part of any term of detention under the person's sentence if on a final determination of the application the writ of habeas corpus is refused.
 
 ### 12 Power of arrest of absconder etc
-(1) A member of the police may arrest without warrant a person who has been released from detention under an interim order made under section 11 if the member of the police believes on reasonable grounds that—
-  (a) the person released has absconded, or is about to abscond, for the purpose of evading any appearance or further appearance in Court in connection with the application or the person's original detention; or
+(1) A constable may arrest without warrant a person who has been released from detention under an interim order made under section 11 if the constable believes on reasonable grounds that—
+  (a) the person released has absconded, or is about to abscond, for the purpose of evading any appearance or further appearance in court in connection with the application or the person's original detention; or
   (b) the person has failed to comply with any condition attached to the interim order.
 (2) A person who is arrested under this section must be brought before the High Court as soon as possible.
-(3) The Court may revoke the interim order if it is satisfied that the person had absconded or was about to abscond or had failed to comply with a condition attached to the interim order or an undertaking to the Court in reliance on which the interim order was made.
-(4) A member of the police may, for the purposes of this section, enter at any time onto any premises, by force if necessary, if the member of the police has reasonable cause to believe that the person released from detention is on those premises.
-(5) If the member of the police is not in uniform and a person in actual occupation of the premises requires the member of the police to produce evidence of his or her authority, the member of the police must, before entering on the premises, produce his or her badge or other evidence of membership of the police.
+(3) The court may revoke the interim order if it is satisfied that the person had absconded or was about to abscond or had failed to comply with a condition attached to the interim order or an undertaking to the court in reliance on which the interim order was made.
+(4) A constable may, for the purposes of this section, enter at any time onto any premises, by force if necessary, if the constable has reasonable cause to believe that the person released from detention is on those premises.
+(5) If the constable is not in uniform and a person in actual occupation of the premises requires the constable to produce evidence of his or her authority, the constable must, before entering on the premises, produce his or her badge or other evidence of membership of the Police.
 
 ### 13 Powers if person detained is young person
 (1) In dealing with an application in relation to a detained person who is under the age of 18 years, the High Court may exercise the powers that are conferred on a Family Court by the Care of Children Act 2004.
 (2) If the substantive issue in an application is the welfare of a person under the age of 16 years, the High Court may, on its own initiative or at the request of a party to the proceeding, transfer the application to a Family Court.
-(3) An application referred under subsection (2) must be dealt with by the Family Court in all respects as if it were an application to that Court under the Care of Children Act 2004.
+(3) An application referred under subsection (2) must be dealt with by the Family Court in all respects as if it were an application to that court under the Care of Children Act 2004.
 
 ### 14 Determination of applications
 (1) If the defendant fails to establish that the detention of the detained person is lawful, the High Court must grant as a matter of right a writ of habeas corpus ordering the release of the detained person from detention.
 (2) A Judge dealing with an application must enquire into the matters of fact and law claimed to justify the detention and is not confined in that enquiry to the correction of jurisdictional errors; but this subsection does not entitle a Judge to call into question—
-  (a) a conviction of an offence by a court of competent jurisdiction, a duly constituted court-martial, or an officer exercising summary powers under Part 5 of the Armed Forces Discipline Act 1971; or
+  (a) a conviction of an offence by a court of competent jurisdiction, the Court Martial of New Zealand established under section 8 of the Court Martial Act 2007, or a disciplinary officer acting under Part 5 of the Armed Forces Discipline Act 1971; or
   (b) a ruling as to bail by a court of competent jurisdiction.
 (3) A Judge must determine an application by—
   (a) refusing the application for the issue of the writ; or
   (b) issuing the writ ordering the release from detention of the detained person.
-(4) All matters relating to the costs of and incidental to an application are in the discretion of the Court and the Court may refuse costs to a successful party or order a successful party to pay costs to an unsuccessful party.
+(4) All matters relating to the costs of and incidental to an application are in the discretion of the court and the court may refuse costs to a successful party or order a successful party to pay costs to an unsuccessful party.
 (5) A writ of habeas corpus may be in the form set out in the Schedule.
 
 ### 15 Finality of determinations
-(1) Subject to the rights of appeal conferred by section 16 of this Act and to sections 7 to 10 of the Supreme Court Act 2003, the determination of an application is final and no further application can be made by any person either to the same or to a different Judge on grounds requiring a re-examination by the Court of substantially the same questions as those considered by the Court when the earlier application was refused.
-(2) A person who has been released from detention in accordance with a writ of habeas corpus must not be re-arrested or detained again on substantially the same grounds as those considered by the Court when the earlier release was ordered.
+(1) Subject to the rights of appeal conferred by section 16 of this Act and to sections 7 to 10 of the Supreme Court Act 2003, the determination of an application is final and no further application can be made by any person either to the same or to a different Judge on grounds requiring a re-examination by the court of substantially the same questions as those considered by the court when the earlier application was refused.
+(2) A person who has been released from detention in accordance with a writ of habeas corpus must not be re-arrested or detained again on substantially the same grounds as those considered by the court when the earlier release was ordered.
 (3) Subsection (2) has no application if the ground on which the earlier release was ordered was a jurisdictional or procedural defect that has since been corrected or no longer applies.
 
-## Part  — Appeals by certain unsuccessful parties
+**Appeals by certain unsuccessful parties**
 
 ### 16 Certain unsuccessful parties may appeal
 (1) The provisions of the Judicature Act 1908 relating to appeals to the Court of Appeal against decisions of the High Court in civil cases—
@@ -115,7 +115,7 @@ A defendant may be described in an application by reference only to the defendan
 (1A) With the leave of the Supreme Court, a party to the proceeding in which the determination was made may appeal to the Supreme Court—
   (a) against a determination refusing an application for the issue of a writ of habeas corpus:
   (b) if the substantive issue is the welfare of a person under the age of 16 years, against a final determination that orders the release from detention of a detained person.
-(2) The Court cannot order that security for costs be given by the appellant in an appeal against the refusal of an application where the respondent in the appeal is the Crown or a public officer or other person purporting to act on behalf of the Crown.
+(2) The court cannot order that security for costs be given by the appellant in an appeal against the refusal of an application where the respondent in the appeal is the Crown or a public officer or other person purporting to act on behalf of the Crown.
 (3) No fee is payable to the Court of Appeal or the Supreme Court for filing any document in respect of an appeal against the refusal of an application.
 
 ### 17 Urgency in hearing appeals
@@ -127,7 +127,7 @@ A defendant may be described in an application by reference only to the defendan
   (d) an appeal under paragraph (a) or paragraph (b) of section 16(1A).
 (2) Judges of the Court of Appeal or the Supreme Court, and employees of the Ministry of Justice, must use their best endeavours to ensure that every appeal under this Act or paragraph (a) or paragraph (b) of section 16(1A) is disposed of as a matter of priority and urgency.
 
-## Part  — Miscellaneous provisions
+**Miscellaneous provisions**
 
 ### 18 Abolition of certain writs
 It is declared for the avoidance of doubt that all writs of habeas corpus other than the writ of habeas corpus ad subjiciendum are abolished.
@@ -135,7 +135,7 @@ It is declared for the avoidance of doubt that all writs of habeas corpus other 
 ### 19 Contempt of court
 (1) A person commits a contempt of court who—
   (a) wilfully hinders the prompt disposal of an application; or
-  (b) being aware that an application has been made to the High Court seeking the release from detention of a person, removes or attempts to remove that person from the jurisdiction of the Court; or
+  (b) being aware that an application has been made to the High Court seeking the release from detention of a person, removes or attempts to remove that person from the jurisdiction of the court; or
   (c) having been released under an interim order made under section 11, fails to comply with a condition attached to the order; or
   (d) wilfully fails to comply with a writ of habeas corpus ordering the release from detention of a person.
 (2) This section does not limit or affect any power or authority of the High Court or the Court of Appeal or the Supreme Court to punish any person for contempt of court in any case to which this section does not apply.
@@ -148,23 +148,10 @@ It is declared for the avoidance of doubt that all writs of habeas corpus other 
 If a matter arises in relation to an application for which this Act does not provide, the High Court must dispose of it as nearly as is practicable in a manner consistent with this Act, and to the extent that they are not inconsistent with this Act, in accordance with the High Court Rules.
 
 ### 22 Repeals and amendments
-(1) Section 54C of the Judicature Act 1908 is repealed.
-(2) Schedule 1 of the Imperial Laws Application Act 1988 is amended by repealing so much of it as relates to enactments relating to Habeas Corpus and accordingly,—cease to have effect as part of the laws of New Zealand
-  (a) (1640) 16 Cha 1, c 10—The Habeas Corpus Act 1640, section 6; and
-  (b) (1679) 31 Cha 2, c 2—The Habeas Corpus Act 1679, sections 1 to 11; and
-  (c) (1816) 56 Geo 3, c 100—The Habeas Corpus Act 1816—.
+((1), (2)) Amendment(s) incorporated in the Act(s).
 (3) Sections 17 to 19, and 21 of the Interpretation Act 1999 apply to the enactments referred to in subsection (2) as if those enactments were Acts of the Parliament of New Zealand.
 
 ## Schedule Schedule — Writ of habeas corpus
 
-| (Intitulement) |
-| --- |
-| Elizabeth the Second, by the Grace of God Queen of New Zealand and Her Other Realms and Territories, Head of the Commonwealth, Defender of the Faith: |
-| To: [Name, place of residence, and occupation of the defendant, or other person in whose custody the detained person is alleged to be detained] |
-| We command you immediately to discharge and release from custody and detention [Full name] (who may be called by another name). |
-| Witness the Chief Justice of Our High Court of New Zealand this |
-| day of 20 |
-| By Order of Court |
 | (Deputy) Registrar |
-| Warning: |
-| Take notice that if you wilfully fail to comply with this writ of habeas corpus the High Court will be moved as soon as counsel can be heard for an order committing you to prison for your contempt. |
+| --- |
