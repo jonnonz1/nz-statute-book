@@ -1,5 +1,5 @@
 # Appropriation (Continuation of Interim Meaning of Funding for Parliamentary Purposes) Act 2007
-_Consolidation as at 2008-03-26_
+_Consolidation as at 2009-07-02_
 
 ### 1 Title
 This Act is the Appropriation (Continuation of Interim Meaning of Funding for Parliamentary Purposes) Act 2007.
