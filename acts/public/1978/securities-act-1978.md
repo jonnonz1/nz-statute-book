@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2009-03-12_
+_Consolidation as at 2009-07-28_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -56,12 +56,19 @@ _Consolidation as at 2009-03-12_
     (c) A renewal or variation of the terms or conditions of any such interest or right or of a security referred to in paragraph (a) or paragraph (b) of this definition;—
     (d) An interest in a contributory mortgage where the interest is offered by a contributory mortgage broker; or
     (e) Any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be a debt security for the purposes of this Act:
+  - **delayed allotment order** means an order made by the Commission under section 44A(2) or (3) that delays the date of allotment of a security that is offered in a simplified disclosure prospectus
   - **Director** means—
     (a) In relation to a company, any person occupying the position of a director of the company by whatever name called:
     (b) In relation to a partnership (other than a special partnership or limited partnership), any partner:
     (c) In relation to a special partnership or limited partnership, any general partner:
     (d) In relation to a body corporate or unincorporate, other than a company, partnership, or special partnership or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company:
     (e) In relation to any other person, that person:
+  - **disclosure obligation** means—
+    (a) the requirements of the continuous disclosure provisions as defined in section 19D of the Securities Markets Act 1988; and
+    (b) any obligation that—
+      (i) requires ongoing disclosure of information to the public or to a person who has a role in monitoring the person who disclosed the information; and
+      (ii) is imposed by an enactment; and
+      (iii) is specified in the regulations
   - **Distribute** includes—
     (a) Make available, publish, and circulate; and
     (b) Communicate by letter, newspaper, broadcasting, sound recording, television, cinematographic film, video, or any form of electronic or other means of communication:
@@ -105,6 +112,9 @@ _Consolidation as at 2009-03-12_
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Money** includes money's worth
   - **Offer** includes an invitation, and any proposal or invitation to make an offer; and has a corresponding meaning
+  - **offered in a simplified disclosure prospectus** means an offer of securities to the public for subscription that is made—
+    (a) by or on behalf of an issuer; and
+    (b) in, or accompanied by, a simplified disclosure prospectus
   - **overseas regulator** means a body in another country with functions corresponding to those of the Commission
   - **Participatory security** means any security other than—
     (a) An equity security; or
@@ -122,6 +132,7 @@ _Consolidation as at 2009-03-12_
     (b) A person in accordance with whose directions or instructions any or all of the directors of the body are accustomed to act; or
     (c) In relation to any particular requirement of this Act, any person whose function it is, or who has undertaken, to ensure that that requirement is complied with by the body:
       Provided that for the purposes of this Act, a person shall not be regarded as a person in accordance with whose directions or instructions any or all of the directors of a body are accustomed to act by reason only that the directors act on advice given by him or her solely in a professional capacity:
+  - **prohibition order** means an order made by the Commission under section 44AE(1) that prohibits a person from using a simplified disclosure prospectus
   - **Promoter** , in relation to securities offered to the public for subscription,—
     (a) Means a person who is instrumental in the formulation of a plan or programme pursuant to which the securities are offered to the public; and
     (b) Where a body corporate is a promoter, includes every person who is a director thereof; but
@@ -152,6 +163,9 @@ _Consolidation as at 2009-03-12_
     (a) In the case of a bearer security or a security to which section 51 of this Act does not apply, the holder of that security; or
     (b) In the case of any other security, the person who is registered as the holder of the security in a register kept pursuant to section 51 of this Act:
   - **Send** , in relation to a document, information, or other matter, includes send by electronic or other means that enables the recipient to readily store the matter in a permanent and legible form
+  - **simplified disclosure prospectus** means a registered prospectus that may be used only if—
+    (a) the issuer is subject to a disclosure obligation; and
+    (b) the regulations provide for the use of a simplified disclosure prospectus by a person who is subject to that type of disclosure obligation
   - **Statutory supervisor** means a person appointed as a statutory supervisor in respect of participatory securities for the purposes of, and in accordance with, this Act
   - **Subscribe** includes purchase and contribute to, whether by way of cash or otherwise; and and have corresponding meanings
   - **Superannuation scheme** means a registered superannuation scheme within the meaning of section 2(1) of the Superannuation Schemes Act 1989
@@ -243,6 +257,9 @@ _Consolidation as at 2009-03-12_
     (i) Relatives or close business associates of the issuer or of a director of the issuer:
     (ii) Persons whose principal business is the investment of money or who, in the course of and for the purposes of their business, habitually invest money:
     (iia) persons who are each required to pay a minimum subscription price of at least $500,000 for the securities before the allotment of those securities:
+    (iib) persons who have each previously paid a minimum subscription price of at least $500,000 for securities (the initial securities) in a single transaction before the allotment of the initial securities, provided that—
+      (A) the offer of the securities is made by the issuer of the initial securities; and
+      (B) the offer of the securities is made within 18 months of the date of the first allotment of the initial securities:
     (iii) Any other person who in all the circumstances can properly be regarded as having been selected otherwise than as a member of the public:
   (b) An invitation to a person to enter into a bona fide underwriting or sub-underwriting agreement with respect to an offer of securities:
   (c)
@@ -253,8 +270,12 @@ _Consolidation as at 2009-03-12_
 (7) A statement or report—shall not constitute an offer of securities to the public.
   (a) Made to or for the purposes of a general meeting of the members of the issuer, or a report of the proceedings of such a meeting; or
   (b) Relating to the affairs of the issuer made to any stock exchange for the purposes of compliance with the listing requirements relating to that stock exchange, by or on behalf of that issuer, or any report of such statement or report—
-(8) In calculating the subscription price payable, or paid, for securities for the purposes of subsection (2)(a)(iia), any amount payable, or paid, must be disregarded to the extent to which it is to be paid, or was paid, out of money lent by the issuer, the offeror, or any associated person of the issuer or offeror.
-(9) The Governor-General may, by Order in Council, amend the minimum subscription price that applies under subsection (2)(a)(iia).
+(8) In calculating the subscription price payable, or paid, for securities for the purposes of subsection (2)(a)(iia) or (iib), any amount payable, or paid, must be disregarded to the extent to which it is to be paid, or was paid, out of money lent by the issuer, the offeror, or any associated person of the issuer or offeror.
+(9) The Governor-General may, by Order in Council, amend the minimum subscription price that applies under subsection (2)(a)(iia) or (iib).
+
+### 3A Status of examples
+(1) An example used in this Act is only illustrative of the provisions to which it relates. It does not limit those provisions.
+(2) If an example and a provision to which it relates are inconsistent, the provision prevails.
 
 ### 4 Application of this Act
 (1) The provisions of this Act shall have effect notwithstanding anything to the contrary in any other enactment or in any deed, agreement, application, prospectus, registered prospectus, or advertisement.
@@ -270,7 +291,7 @@ _Consolidation as at 2009-03-12_
     (i) Forms part of a contributory scheme; and
     (ii) Does not entitle the holder to a right in respect of a specified part of the land for which a separate certificate of title can be so issued; or
   (c) Any proprietary right to chattels (other than any such right that forms part of a contributory scheme); or
-  (d) Any share in the share capital of a flat or office owning company (as defined in section 121A(1) of the Land Transfer Act 1952):
+  (d) Any share in the share capital of a flat or office owning company (as defined in section 121A(1) of the Land Transfer Act 1952); or
   (e) Any interest or right to participate in the capital, assets, earnings, royalties, or other property of any company, partnership, or other person whose sole undertaking is the practice, conduct, or operation of any one or more of the professions, occupations, or businesses that may in law be practised, conducted, or operated only by persons having or possessing qualifications specified in Schedule 2 to this Act; or
   (f) A mortgage of land other than a contributory mortgage; or
   (g)
@@ -285,7 +306,7 @@ _Consolidation as at 2009-03-12_
 (2CA) Nothing in Part 2 (except sections 38B and 58) or the regulations applies to an advertisement made by or on behalf of an issuer that—
   (a) states that—
     (i) the issuer is considering making an offer of securities to the public; and
-    (ii) no money is currently being sought and that no applications for securities will be accepted or money received unless the subscriber has received an investment statement; and
+    (ii) no money is currently being sought and that no applications for securities will be accepted or money received unless the subscriber has received an investment statement or, if the securities are to be offered in a simplified disclosure prospectus, a copy of that prospectus; and
   (b) if the issuer wishes, states that the issuer is seeking preliminary indications of interest and, in this case, also states—
     (i) how indications of interest may be made; and
     (ii) that no indication of interest will involve an obligation or commitment of any kind; and
@@ -300,15 +321,25 @@ _Consolidation as at 2009-03-12_
     (viii) the date at which the issuer expects that the offer will be made; and
   (d) is dated and is not distributed to any person later than 6 months after its date.
 (2CB) Nothing in Part 2 (except sections 38B and 58) or the regulations applies in respect of a security if—
-  (a) the only persons who are able, under the terms of the offer of the security, to subscribe for the security are eligible persons; and
+  (a) the only persons in New Zealand who are able, under the terms of the offer of the security, to subscribe for the security are eligible persons; and
   (b) the subscriber is an eligible person.
-(2CC) For the purposes of subsection (2CB), a person is an eligible person if the person is 1 or more of the following:
+(2CBA) Nothing in Part 2 (except sections 38B and 58) or the regulations applies in respect of a security if—
+  (a) the only persons in New Zealand who are able, under the terms of the offer of the security, to subscribe for the security are—
+    (i) eligible persons; and
+    (ii) persons who fall within 1 or more of the categories set out in subparagraphs (i) to (iii) of section 3(2)(a); and
+  (b) the subscriber is either—
+    (i) an eligible person; or
+    (ii) a person who falls within 1 or more of the categories set out in subparagraphs (i) to (iii) of section 3(2)(a).
+(2CC) For the purposes of subsections (2CB) and (2CBA), a person is an eligible person if the person is 1 or more of the following:
   (a) wealthy (as defined in subsection (2CD)):
   (b) experienced in investing money (as defined in subsection (2CE)):
   (c) experienced in the industry or business to which the security relates (as defined in subsection (2CE)).
-(2CD) For the purposes of subsection (2CC)(a), a person is wealthy if an independent chartered accountant certifies, no more than 6 months before the offer is made, that the chartered accountant is satisfied on reasonable grounds that the person—
+(2CD) For the purposes of subsection (2CC)(a), a person is wealthy if an independent chartered accountant certifies, no more than 12 months before the offer is made, that the chartered accountant is satisfied on reasonable grounds that the person—
   (a) has net assets of at least $2,000,000; or
   (b) had an annual gross income of at least $200,000 for each of the last 2 financial years.
+(2CDA) To avoid doubt, for the purposes of subsections (2CC)(a) and (2CD), person includes—
+  (a) the trustees of a trust acting jointly in their capacity as trustees of that trust; and
+  (b) the sole trustee of a trust acting in his, her, or its capacity as trustee of that trust.
 (2CE) For the purposes of subsection (2CC)(b) and (c), a person is experienced in investing money or in the industry or business to which the security relates (as the case may be) if—
   (a) an independent financial service provider is satisfied on reasonable grounds that the person to whom the offer is made, as a result of having experience of that kind, is able to assess—
     (i) the merits of the offer; and
@@ -317,7 +348,9 @@ _Consolidation as at 2009-03-12_
     (iv) that person's own information needs; and
     (v) the adequacy of the information given by the person making the offer; and
   (b) the financial service provider gives the person to whom the offer is made, before the security is allotted to the person, a written statement of the financial service provider's reasons for being satisfied as to those matters; and
-  (c) the person to whom the offer is made signs a written acknowledgment, before the security is allotted to the person, that the financial service provider has given the person neither an investment statement nor a registered prospectus relating to the security.
+  (c) the person to whom the offer is made signs a written acknowledgment, before the security is allotted to the person, that—
+    (i) the financial service provider has given the person neither an investment statement nor a registered prospectus relating to the security; and
+    (ii) the person understands that he, she, or it will not receive information usually provided by an issuer in respect of an offer of securities to the public including (in particular) an investment statement and a registered prospectus.
 (2CF) For the purposes of subsection (2CE),—
   - **financial service provider** means a person whose principal business consists of 1 or more of the following
     (a) the giving of investment advice:
@@ -660,6 +693,7 @@ The income of the Commission shall be exempt from income tax.
 (2) A registered prospectus shall not be distributed by or on behalf of an issuer unless it is accompanied by,—
   (a) If the registered prospectus refers to, but does not contain, financial statements registered under the Financial Reporting Act 1993, a copy of those financial statements; and
   (b) A copy of any documents registered under this Act for the purpose of extending the period during which allotments may be made under the registered prospectus.
+(3) However, subsection (2)(a) does not apply to a simplified disclosure prospectus.
 
 ### 35 Restrictions on door-to-door sales
 (1) No person shall go from house to house offering securities to the public or any member of the public.
@@ -674,6 +708,9 @@ An issuer must ensure that subscriptions for securities offered to the public ar
 
 ### 37 Void irregular allotments
 (1) No allotment of a security offered to the public for subscription shall be made unless at the time of the subscription for the security there was a registered prospectus relating to the security.
+(1A) No allotment of a security that is offered in a simplified disclosure prospectus may be made—
+  (a) by a person who is subject to a prohibition order while that order is in force; or
+  (b) in contravention of section 44AD(1).
 (2) No allotment shall be made of an equity security or a participatory security or a unit in an unit trust offered to the public for subscription unless the amount stated in the registered prospectus relating thereto as the minimum amount which, in the opinion of the directors of the issuer, must be raised by the issue of the securities in order to provide for the matters specified in regulations made under this Act, is subscribed, and that amount is paid to, and received by, the issuer within 4 months after the date of the registered prospectus; and, for the purposes of this subsection—
   (a) A sum shall be deemed to have been paid to, and received by, the issuer if a cheque for that sum is received in good faith by the issuer and the directors of the issuer have no reason to suspect that the cheque will not be paid:
   (b) The amount so stated in the registered prospectus shall be reckoned exclusively of any amount payable otherwise than in cash.
@@ -730,7 +767,9 @@ Section 37(4) to (6) does not apply to the allotment of a security if a relief o
     (iii) any information, documents, or copies of documents required to be sent, delivered, or provided to the person in accordance with an exemption granted under section 5(5) or provided under section 5(3A) or 5A, if the contravention of section 37 was caused by a failure to send, deliver, or provide that information, those documents, or those copies to the person in accordance with that exemption:
     (iv) an investment statement relating to the security, unless an exemption from section 37A(1)(a) granted or provided under section 5 applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption):
     (v) a statement to the effect that there is a registered prospectus in relation to the security and that, at the request of the person and on payment of any prescribed fee, the issuer will send the registered prospectus to the person:
-    (vi) a statement that describes the effect of section 363 of the Companies Act 1993 (as applied by section 66) in relation to that prospectus.
+    (vi) a statement that describes the effect of section 363 of the Companies Act 1993 (as applied by section 66) in relation to that prospectus:
+    (vii) if the security is offered in a simplified disclosure prospectus, a copy of that simplified disclosure prospectus.
+(1A) However, subsection (1)(b)(iv) and (v) do not apply to securities that are offered in a simplified disclosure prospectus.
 (2) Subsection (1)(b)(v) and (vi) does not apply if an exemption from section 37(1) granted or provided under section 5 or section 5A applies to the security or to the issuer in respect of the security (or would have applied but for a failure to comply with a condition of that exemption).
 (3) A person's consent is of no effect for the purposes of section 37AC(1)(c) or (d) if either or both of the following apply:
   (a) that consent is given before the date on which the notice referred to in subsection (1)(b) has been received by the person:
@@ -885,12 +924,18 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
 ### 37A Voidable irregular allotments
 (1) No allotment of a security offered to the public for subscription shall be made if—
   (a) The subscriber did not receive an investment statement relating to the security before subscribing for the security; or
+  (ab) in the case of a security that is offered in a simplified disclosure prospectus,—
+    (i) the subscriber did not receive, before subscribing for the security, a copy of—
+      (A) that simplified disclosure prospectus; and
+      (B) every memorandum of amendments to that prospectus that is registered by the Registrar under section 43 before the time of allotment; or
+    (ii) the Commission made a delayed allotment order in relation to that simplified disclosure prospectus and the subscriber subscribed for the security before the delayed allotment order was made; or
   (b) At the time of allotment, the investment statement or registered prospectus relating to the security is known by the issuer of the security, or any director of the issuer, to be false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not the investment statement or registered prospectus became so false or misleading as a result of a change of circumstances occurring after the date of the investment statement or registered prospectus); or
   (c) The date of allotment would be more than,—
     (i) Where the registered prospectus relating to the security contains or refers to a statement of financial position or interim statement of financial position in accordance with regulations and no certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that statement of financial position or interim statement of financial position (whichever is the later); or
     (ii) Where the registered prospectus relating to the security contains or refers to a statement of financial position (but not an interim statement of financial position) in accordance with regulations and a certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that certificate; or
     (iii) In any other case, 6 months after the date of the registered prospectus; or
   (d) In the case of an equity security, debt security, or participatory security, after the allotment, the total amount of securities allotted under the registered prospectus relating to the security would (after deducting, in the case of an allotment of debt securities, the total amount of debt securities of the issuer redeemed since the date of the registered prospectus) exceed the amount specified in the registered prospectus as the maximum amount that will be so allotted.
+(1AA) However, subsection (1)(a) does not apply to securities that are offered in a simplified disclosure prospectus.
 (1A) For the purposes of subsection (1)(c) of this section, if no interim statement of financial position is contained or referred to in a registered prospectus, an issuer may deliver to the Registrar for registration under this Act, and the Registrar shall register, a certificate that relates to the registered prospectus and that—
   (a) Is signed on behalf of all the directors by at least 2 directors of the issuer (or, where the issuer has only 1 director, by that director); and
   (b) Is dated no later than 9 months after the date of the statement of financial position contained or referred to in the registered prospectus; and
@@ -901,7 +946,7 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
     (i) For the 6-month period from the date of the statement of financial position referred to in paragraph (b) of this subsection; and
     (ii) Prepared in accordance with regulations as if they were required to be contained or referred to in a registered prospectus for those securities, except that they need not be audited.
 (2)
-(3) An allotment made in contravention of this section shall (whether or not the issuer is being in liquidation) be voidable at the instance of the subscriber by notice in writing to the issuer at any time within the prescribed period.
+(3) An allotment made in contravention of this section is (whether or not the issuer is in liquidation) voidable at the instance of the subscriber by notice in writing to the issuer at any time within the prescribed period.
 (4) For the purpose of subsection (3) of this section, prescribed period means—whichever is the lesser.
   (a) A period of one year after the security or a certificate of the security has been sent to the subscriber; or
   (b) A period of 6 months after the subscriber knows, or ought reasonably to know, that the allotment was made in contravention of the provisions of this section—
@@ -1186,10 +1231,110 @@ Every prospectus delivered to the Registrar for registration under this Act shal
 (7) Subject to subsection (8) of this section, if any subscriptions which are required to be repaid to the subscribers entitled thereto are not so repaid within one month after the date of the cancellation of the registration of the registered prospectus, the issuer named therein and all the directors thereof shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date the subscriptions were received by or on behalf of the issuer.
 (8) A director of an issuer shall not be liable to repay any subscriptions and interest thereon pursuant to subsection (7) of this section if that director proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
 
-**Contributory mortgages**
+**Delayed allotment orders and prohibition orders concerning simplified disclosure prospectuses**
 
-### 44A Prohibition of advertisements
-[Repealed]
+### 44A Commission may make delayed allotment orders
+(1) This section applies if the Commission is of the opinion that the issuer of a security that is offered in a simplified disclosure prospectus—
+  (a) has disclosed information in the prospectus that has not previously been publicly disclosed under the issuer's disclosure obligations, and that information is adverse to the issuer or the scheme and is material to the offer of the security; or
+  (b) has disclosed information under the issuer's disclosure obligations between the date of the prospectus and the allotment date, and that information is adverse to the issuer or the scheme and is material to the offer of the security; or
+  (c) has failed to comply with the issuer's disclosure obligations at any time during the previous 12 months.
+(2) If either subsection (1)(a) or (b) applies, the Commission may, if it considers that it is desirable in the public interest, make an order delaying the date of allotment for the securities that are offered in a simplified disclosure prospectus for a period not exceeding 14 days from the date of allotment stated in the terms of the offer.
+(3) If subsection (1)(c) applies, the Commission may, if it considers that it is desirable in the public interest, make an order delaying the date of allotment for the securities that are offered in a simplified disclosure prospectus until a date not exceeding the later of—
+  (a) 14 days after the date of allotment stated in the terms of the offer; or
+  (b) 14 days after the date on which the issuer's failure to comply with the issuer's disclosure obligations is remedied.
+(4) The Commission may make a delayed allotment order on the terms and conditions that the Commission thinks fit (which may include a condition that the issuer disclose or give public notice of specified information in any manner that the Commission thinks fit in the circumstances).
+(5) The Commission may vary a delayed allotment order in the same way as it may make the order.
+(6) The Commission may revoke a delayed allotment order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
+(7) In this section, issuer's disclosure obligations means the disclosure obligations that an issuer is subject to and that the issuer has relied on in order to permit the issuer to use a simplified disclosure prospectus in accordance with the regulations and the definition of simplified disclosure prospectus.
+
+### 44AB Notices and submissions concerning delayed allotment orders
+(1) The Commission may make a delayed allotment order only if—
+  (a) the Commission gives the issuer at least 3 days' written notice of the following matters before the Commission makes the delayed allotment order:
+    (i) the paragraph of section 44A(1) that is alleged to apply to the issuer; and
+    (ii) the proposed terms and conditions of the delayed allotment order; and
+    (iii) the reasons for the proposed delayed allotment order; and
+  (b) the Commission gives the issuer an opportunity to make a written submission within that notice period; and
+  (c) the Commission has regard to any written submissions made to it within that notice period.
+(2) If the Commission makes a delayed allotment order,—
+  (a) it must, immediately after the making of the order, notify the issuer of—
+    (i) the terms and conditions of the order; and
+    (ii) the reasons for the order; and
+  (b) it must, immediately after the making of the order, give notice on its Internet site of—
+    (i) the terms and conditions of the order; and
+    (ii) the reasons for the order; and
+    (iii) the information that is adverse to the issuer or the scheme and is material to the offer of the security, or the nature of the issuer's failure to comply with the issuer's disclosure obligations; and
+    (iv) any other information the Commission thinks relevant in the circumstances; and
+  (c) it may give public notice by any other means of the matters in paragraph (b); and
+  (d) it may notify any other person of the matters in paragraph (b).
+(3) If the Commission varies or revokes a delayed allotment order under section 44A(5) or (6),—
+  (a) it must immediately notify the issuer of—
+    (i) the terms and conditions of the variation or revocation; and
+    (ii) the reasons for the variation or revocation; and
+  (b) it may give notice on its Internet site or give public notice by any other means of those matters; and
+  (c) it may notify any other person of those matters.
+
+### 44AC Limited notice and submissions for urgent delayed allotment orders
+If the Commission thinks it necessary or desirable in the public interest for a delayed allotment order to be made more urgently than section 44AB permits,—
+  (a) it may give less than 3 days' notice before it makes the order, and the notice and submissions may be oral, not written; but
+  (b) it must include in that notice the reasons for acting urgently and must otherwise comply with that section.
+
+### 44AD Effect of delayed allotment orders
+(1) No allotment of a security that is offered in a simplified disclosure prospectus to which a delayed allotment order applies may be made—
+  (a) in contravention of the terms or conditions of the delayed allotment order or of its revocation; or
+  (b) if a term or condition of the delayed allotment order remains unfulfilled; or
+  (c) until after the delayed allotment order expires or is revoked.
+(2) If a person contravenes subsection (1), section 37(1A)(b) and (4) to (7) apply (which provide that an allotment of a security that is offered in a simplified disclosure prospectus in contravention of subsection (1) is invalid and of no effect).
+(3) If the Commission makes a delayed allotment order and a subscriber has subscribed for a security that is offered in a simplified disclosure prospectus to which that delayed allotment order applies before the Commission made the delayed allotment order, section 37A(1)(ab)(ii) and (3) to (8) apply (which provide that an allotment of a security in those circumstances is voidable at the instance of the subscriber by notice in writing).ExampleIssuer A makes an offer of securities to the public for subscription in a simplified disclosure prospectus. Tom subscribes for some of those securities. After Tom has subscribed for the securities, the Commission makes a delayed allotment order that applies to the simplified disclosure prospectus. Section 37A(1)(ab)(ii) and (3) to (8) apply.In these circumstances, Issuer A's options may include the following:Tom's options include the following:Regardless of which option is taken by Issuer A or Tom, if Issuer A allots securities to Tom in contravention of section 44AD(1) (for example, by allotting the securities to Tom before the delayed allotment order has expired or has been revoked), that allotment is invalid and of no effect (see sections 44AD(1), (2), and (4) and 37(1A)(b) and (4) to (7)) and Issuer A has committed offences (see sections 59(1) and 60(2)).
+  (a) Issuer A may ask Tom if he wants to resubscribe for the securities. In this case, Issuer A could obtain Tom's permission to use the money that Tom paid Issuer A when he originally subscribed for the securities (Tom's subscription money) to resubscribe for those securities after the date on which the delayed allotment order was made. Issuer A may then allot those securities to Tom (once the delayed allotment order has expired or has been revoked) without contravening section 37A(1)(ab)(ii); or
+  (b) Issuer A could withdraw the offer or take some other similar course of action. If Issuer A withdraws the offer it must pay Tom's subscription money back to him. Tom's subscription money must be held in trust for him until it is repaid (see section 36A); or
+  (c) Issuer A could allot the securities to Tom (once the delayed allotment order has expired or has been revoked) without Tom having resubscribed for the securities. In this case, the allotment would be valid (see section 37A(5)), but it is voidable at the instance of Tom (see section 37A(3)) and Issuer A has committed an offence (see sections 37A(1)(ab)(ii) and 59(1)).
+  (a) Tom may decide to leave Tom's subscription money with Issuer A and use that money to resubscribe for the securities. If Issuer A agrees to this, Issuer A may allot those securities to Tom (once the delayed allotment order has expired or has been revoked) without contravening section 37A(1)(ab)(ii); or
+  (b) Tom may require Issuer A to pay Tom's subscription money back to him. Tom's subscription money must be held in trust for him until it is repaid (see section 36A); or
+  (c) Tom may decide to take no action at all. In this case, if Issuer A allots the securities to Tom (once the delayed allotment order has expired or has been revoked), the allotment would be valid (see section 37A(5)), but it is voidable at the instance of Tom (see section 37A(3)) and Issuer A has committed an offence (see sections 37A(1)(ab)(ii) and 59(1)). If Issuer A does not allot the securities to Tom, Issuer A must pay Tom's subscription money back to him (see section 36A).
+(4) Subsections (1) and (2) override subsection (3).
+(5) This section applies despite anything in the terms of the offer.
+
+### 44AE Commission may make prohibition orders
+(1) If the Commission is satisfied that a person (person A) who is subject to a disclosure obligation has failed to comply with that obligation at any time during the previous 12 months, the Commission may, if it considers that it is desirable in the public interest, make an order prohibiting person A from using a simplified disclosure prospectus for a period not exceeding 24 months.
+(2) The Commission may make a prohibition order on the terms and conditions that the Commission thinks fit.
+(3) The Commission may vary a prohibition order in the same way as it may make the order.
+(4) The Commission may, either of its own volition or on the application of the person concerned, revoke or suspend a prohibition order, on the terms and conditions it thinks fit, if it is satisfied that it should not continue in force.
+
+### 44AF Notices and submissions concerning prohibition orders
+(1) The Commission may make a prohibition order only if—
+  (a) the Commission gives the person concerned (person A) at least 14 days' written notice of the following matters before the Commission makes the prohibition order:
+    (i) the nature of person A's failure to comply with his, her, or its disclosure obligations; and
+    (ii) the proposed terms and conditions of the prohibition order; and
+    (iii) the reasons for the proposed prohibition order; and
+  (b) the Commission gives person A an opportunity to make a written submission within that notice period; and
+  (c) the Commission has regard to any written submissions made to it within that notice period.
+(2) If the Commission makes a prohibition order,—
+  (a) it must, immediately after the making of the order, notify person A of—
+    (i) the terms and conditions of the order; and
+    (ii) the reasons for the order; and
+  (b) it must, immediately after the making of the order, give notice on its Internet site of—
+    (i) the terms and conditions of the order; and
+    (ii) the reasons for the order; and
+    (iii) the nature of person A's failure to comply with his, her, or its disclosure obligations; and
+    (iv) any other information the Commission thinks relevant in the circumstances; and
+  (c) it may give public notice by any other means of the matters in paragraph (b); and
+  (d) it may notify any other person of the matters in paragraph (b).
+(3) If the Commission varies, revokes, or suspends a prohibition order under section 44AE(3) or (4),—
+  (a) it must immediately notify person A of—
+    (i) the terms and conditions of the variation, revocation, or suspension; and
+    (ii) the reasons for the variation, revocation, or suspension; and
+  (b) it may give notice on its Internet site or give public notice by any other means of those matters; and
+  (c) it may notify any other person of those matters.
+
+### 44AG Effect of prohibition orders
+If the Commission makes a prohibition order,—
+  (a) a person who is prohibited by that order from using a simplified disclosure prospectus must not, while the prohibition order is in force,—
+    (i) make an offer of securities to the public in, or accompanied by, a simplified disclosure prospectus; or
+    (ii) distribute a simplified disclosure prospectus that relates to a security; or
+    (iii) allot securities offered in a simplified disclosure prospectus; and
+  (b) section 37(1A)(a) and (4) to (7) apply (which provide that an allotment of a security that is offered in a simplified disclosure prospectus by a person who is subject to a prohibition order while that order is in force is invalid and of no effect).
+
+**Contributory mortgages**
 
 ### 44B Commission's powers in respect of contributory mortgages
 (1) Where the Registrar receives a report from an auditor appointed pursuant to regulations made under this Act to the effect that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or regulations made under this Act, the Registrar may forward a copy of that report to the Commission.
@@ -1241,7 +1386,7 @@ Every prospectus delivered to the Registrar for registration under this Act shal
   (a) It does not comply with this Act; or
   (b) It contains any misdescription or error or any matter that is not clearly legible; or
   (c) The prescribed registration fee is not paid.
-(3) Upon registration of a copy of a deed pursuant to this section, the Registrar shall forthwith give a certificate under his or her hand of that registration, and the certificate shall be conclusive evidence that the deed has been registered under this section.
+(3) Upon registration of a copy of a deed pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the deed has been registered under this section.
 
 ### 47 Amendment of registered deed
 (1) Where a trust deed or deed of participation that has been registered under this Act has been lawfully amended, the issuer shall ensure that there is delivered to the Registrar, as soon as practicable after the amendment, a copy of the instrument by which the amendment to the deed was made.
@@ -1710,8 +1855,8 @@ In sections 61 to 61B,—
 
 ### 63 Power of Court to grant relief in certain cases
 (1) If in any proceedings against any person for negligence, default, breach of duty, or breach of trust in connection with—it appears to the Court hearing the case that the person is or may be liable in respect of the negligence, default, breach of duty, or breach of trust, but that he or she has acted honestly and reasonably, and that having regard to all the circumstances of the case, including those connected with his or her appointment, he or she ought fairly to be excused for the negligence, default, breach of duty, or breach of trust, the Court may relieve him or her either wholly or partly from his or her liability, on such terms as the Court may think fit.
-  (a) An offer to the public or allotment of securities;
-  (b) The distribution of a registered prospectus or advertisement;
+  (a) An offer to the public or allotment of securities; or
+  (b) The distribution of a registered prospectus or advertisement; or
   (c) The management of securities offered to the public; or
   (d) Any matter related thereto—
 (2) Where any such person has reason to apprehend that any claim will or might be made against him or her in respect of any such negligence, default, breach of duty, or breach of trust, he or she may apply to the Court for relief, and the Court on any such application shall have the same power to relieve him or her as under this section it would have had if it had been a Court before which proceedings against that person for negligence, default, breach of duty, or breach of trust had been brought.
@@ -2035,7 +2180,7 @@ No person is excused from answering any question or providing any information or
     (iii) prescribing requirements as to the layout or method of presentation of any advertisement, investment statement, prospectus, or registered prospectus, and the size of type used therein;—
   (c) providing that statements included in, or relating to an advertisement, investment statement, or registered prospectus or to securities to which an advertisement, investment statement, or registered prospectus relates, made for the purposes of regulations under this Act shall be deemed to be statements made in the advertisement, investment statement, or registered prospectus for the purposes of sections 55 to 65 of this Act:
   (ca) prescribing, in respect of securities offered to the public, the kinds of information that must be sent to security holders periodically or on request; and different kinds of information may be prescribed in respect of different kinds of securities:
-  (d)
+  (d) specifying obligations that are disclosure obligations for the purposes of this Act:
   (e)
   (f)
   (g) prescribing the information and other matters that shall be included in trust deeds and deeds of participation for the purposes of this Act, and the clauses that shall be deemed to be contained in, or may be adopted by, such deeds; and different matters and clauses may be prescribed in respect of deeds relating to different kinds of securities and different classes of issuers; and, without limiting the generality of the foregoing, clauses specifying the duties and powers of trustees or statutory supervisors, as the case may be, and the obligations of issuers may be prescribed as clauses that are deemed to be contained in such deeds:
