@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2008-12-05_
+_Consolidation as at 2009-07-28_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -192,7 +192,8 @@ A person does not perform a financial adviser service in the following cases:
   (c) an authorised advertisement; or
   (d) a bank disclosure statement; or
   (e) a document or documents issued in lieu of a prospectus or investment statement in accordance with an exemption under the Securities Act 1978; or
-  (f) a disclosure statement that is required under the Credit Contracts and Consumer Finance Act 2003.
+  (f) a disclosure statement that is required under the Credit Contracts and Consumer Finance Act 2003; or
+  (g) a disclosure statement for the purposes of the Retirement Villages Act 2003.
 (2) Whether advice is financial advice for the purposes of this Act is not affected by how the advice is given or communicated.
 (3) For the avoidance of doubt, the provision of information, whether orally or in writing, is not financial advice unless accompanied by a recommendation, an opinion, or guidance.
 
@@ -213,7 +214,7 @@ An individual who is registered may—
   (b) make an investment transaction in relation to a category 2 product.
 
 ### 17 Individual who is QFE employee or agent
-(1) An individual (whether registered or not) who is an employee or agent of a qualified financial entity (the QFE) may, in the course of the QFE’s business,—
+(1) An individual (whether registered or not) who is an employee or agent of a QFE may, in the course of the QFE’s business,—
   (a) give financial advice in relation to a category 2 product; or
   (b) make an investment transaction in relation to a category 2 product.
 (2) An individual (whether registered or not) who is an employee of a QFE may, in the course of the QFE's business,—
@@ -223,7 +224,7 @@ An individual who is registered may—
 **Provisions relating to employer or principal of financial adviser**
 
 ### 18 Employer or principal of financial adviser must be registered
-(1) This section applies where one person (A) employs another person (B) as employee or agent to perform a financial adviser service in the course of A’s business for A’s client or clients (the financial adviser service).
+(1) This section applies where one person (A) employs or engages another person (B) as employee or agent to perform a financial adviser service in the course of A’s business for A’s client or clients (the financial adviser service).
 (2) In any case to which this section applies,—
   (a) A must maintain registration for the duration of B’s employment or agency; and
   (b) B must not perform the financial adviser service if B knows or ought to know that A is not currently registered.
@@ -286,9 +287,18 @@ Subject to section 26, a financial adviser who performs a financial adviser serv
 (3) Regulations may prescribe the form of disclosure.
 
 ### 26 Disclosure by qualifying financial entity
-(1) This section applies if a financial adviser (A)—
-  (a) is an employee or agent of a QFE; and
-  (b) performs a financial adviser service in relation to a category 2 product in the course of the QFE’s business (the financial adviser service).
+(1) This section applies—
+  (a) if a financial adviser (A)—
+    (i) is not an authorised financial adviser; and
+    (ii) is an employee or agent of a QFE; and
+    (iii) performs a financial adviser service in relation to a category 2 product in the course of the QFE's business; or
+  (b) if a financial adviser (A)—
+    (i) is not an authorised financial adviser; and
+    (ii) is an employee of a QFE; and
+    (iii) performs a financial adviser service in relation to a category 1 product of which the QFE is the issuer in the course of the QFE's business.
+(1A) In this section, the financial adviser service means a financial adviser service referred to in—
+  (a) subsection (1)(a)(iii); or
+  (b) subsection (1)(b)(iii).
 (2) In any case to which this section applies,—
   (a) before (or, if not practicable before, as soon as practicable after) A performs the financial adviser service, the QFE must disclose the information prescribed by regulations to the person for whom the financial adviser service is performed; and
   (b) A has no obligation of disclosure.
@@ -644,7 +654,16 @@ The Commission must not take any of the actions specified in section 71(2) unles
 **Liability of employee or agent**
 
 ### 75 Exemption from liability for employee or agent of QFE
-A financial adviser who performs a financial adviser service in relation to a category 2 product in his or her capacity as an employee or agent of a QFE is exempt from any liability under this Act for contravention of a financial adviser obligation.
+(1) This section applies to—
+  (a) a financial adviser who—
+    (i) is not an authorised financial adviser; and
+    (ii) is an employee or agent of a QFE; and
+    (iii) performs a financial adviser service in relation to a category 2 product in the course of the QFE's business; and
+  (b) a financial adviser who—
+    (i) is not an authorised financial adviser; and
+    (ii) is an employee of a QFE; and
+    (iii) performs a financial adviser service in relation to a category 1 product of which the QFE is the issuer in the course of the QFE's business.
+(2) A financial adviser to whom this section applies is exempt from liability under this Act for contravention of a financial adviser obligation.
 
 **QFE’s obligations**
 
@@ -769,7 +788,7 @@ Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as i
   (a) a majority of the code committee has approved the draft code; and
   (b) the code committee has complied with its obligations under section 87(2); and
   (c) the draft code is consistent with this Act.
-(3) A failure by the code committee to comply with its obligations under subsection 87(2) does not affect the validity of the code.
+(3) A failure by the code committee to comply with its obligations under section 87(2) does not affect the validity of the code.
 (4) This section is subject to section 89.
 
 ### 89 Commissioner may require revision or consultation
@@ -828,7 +847,7 @@ The Minister must approve the draft code within 90 days of receiving the draft c
   (a) the nature and number of complaints to be investigated; and
   (b) the Commission's regulatory priorities as reflected in its statement of intent; and
   (c) the Commission's available resources.
-(2) The Commission need not investigate a complaint if is satisfied that—
+(2) The Commission need not investigate a complaint if it is satisfied that—
   (a) the complaint is vexatious; or
   (b) the complaint is not sufficiently serious to warrant investigation.
 
@@ -841,7 +860,7 @@ The Commission must refer a complaint about an authorised financial adviser to t
 If the Commission refers a complaint about an authorised financial adviser to the disciplinary committee, and the disciplinary committee considers that a hearing is necessary to deal with the complaint, the disciplinary committee must serve a written notice of the complaint on the financial adviser.
 
 ### 100 Content of disciplinary committee's notice of complaint
-The Commission’s notice of complaint to the financial adviser concerned (A) must—
+The disciplinary committee's notice of complaint to the financial adviser concerned (A) must—
   (a) state that the disciplinary committee considers that there is reason to believe that A may have breached the code; and
   (b) contain the particulars that are reasonably necessary to clearly inform A of the nature of the contravention; and
   (c) specify a date, which must not be sooner than 20 working days after the date of service of the notice, on which the disciplinary committee intends to hear the matter.
@@ -949,7 +968,7 @@ Clause 15 of Schedule 5 of the Crown Entities Act 2004 (Schedule 5) applies as i
 **Offences: registration and authorisation**
 
 ### 114 Offence of performing financial adviser service without being registered
-(1) A person who performs a financial adviser service without being registered commits an offence and is liable on summary conviction,—
+(1) A person who, without being registered, performs a financial adviser service that under this Act only a registered financial adviser may perform commits an offence and is liable on summary conviction,—
   (a) in the case of an individual, to a fine not exceeding $5,000:
   (b) in the case of an entity, to a fine not exceeding $10,000.
 (2) A person (A) has a defence to a charge under subsection (1) if A proves on a balance of probabilities that—
@@ -1068,7 +1087,7 @@ A person who fails to comply with a direction of the Commission given under sect
 (1) A person affected may appeal to a District Court against any decision of—
   (a) the Commission to—
     (i) decline authorisation under section 55(4); or
-    (ii) decline QFE status under section 67(4): or
+    (ii) decline QFE status under section 67(4); or
     (iii) take any action referred to in section 59(2) or 71(2); or
     (iv) give a direction under section 61 or 73; or
   (b) the disciplinary committee to take any action referred to in section 101(3) or (5).
@@ -1217,7 +1236,7 @@ On an appeal under this Part, the District Court may order any party to the appe
 The provisions of this Act have effect no matter what any agreement may say.
 
 ### 157 Territorial scope
-This Act applies to a financial adviser service performed in New Zealand by a person in New Zealand, regardless of where the person performing the financial adviser service is resident, is incorporated, or carries on business.
+This Act applies to a financial adviser service performed in New Zealand, regardless of where the person performing the financial adviser service is resident, is incorporated, or carries on business.
 
 ### 158 Breach of exemption conditions
 The breach of a term or condition of an exemption provided by regulations made under this Act or by notice under section 148 is a breach of the obligation to which the exemption applies.
@@ -1237,6 +1256,10 @@ Without limiting section 148, an exemption made under section 148 may extend, to
 (3) As soon as practicable after receiving the report, the Minister must present a copy of that report to the House of Representatives.
 
 **Other legislation affected**
+
+### 161A Financial Service Providers (Registration and Dispute Resolution) Act 2008 amended
+(1) This section amends the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
+(2) Section 7(2)(m) is amended by adding , except to the extent that an individual may be required to be registered in order to perform a financial adviser service under the Financial Advisers Act 2008.
 
 ### 162 KiwiSaver Act 2006 amended
 (1) This section amends the KiwiSaver Act 2006.
@@ -1259,8 +1282,7 @@ Without limiting section 148, an exemption made under section 148 may extend, to
 (3) Paragraph (e) of the definition of security in section 2(1) is repealed.
 (4) Part 4 is repealed.
 (5) Sections 42B(d), 42D, 42E, 42G(3)(b), 42N(b), 42P(c), 42S(f), 42T(2)(b), 42ZC, 42ZD, 43D, 43E(1)(a), 43E(3)(a) and (b), and 43K to 43N are repealed.
-(6) Section 42(2) is repealed and the following subsection substituted:
-  (2) However, the Court must not make a declaration of contravention or a pecuniary penalty order under this section for a contravention of section 13 (general dealing misconduct prohibition).
+(6)
 (7) Sections 48(1)(c) and 49C are repealed.
 
 ### 165 Sharebrokers Act 1908 repealed
