@@ -1,5 +1,5 @@
 # Retirement Villages Act 2003
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-08-01_
 
 ### 1 Title
 This Act is the Retirement Villages Act 2003.
@@ -32,14 +32,14 @@ In this Act, unless the context otherwise requires,—
       (i) that is authorised or instigated by, or on behalf of, the operator or promoter of the retirement village; or
       (ii) that is prepared with the co-operation of, or by arrangement with, the operator or promoter of that village; and
     (b) includes a disclosure statement
-  - **capital sum** , in relation to a residential unit, means any of the following
+  - **capital sum** , in relation to a residential unit, means any of the following:
     (a) any lump sum or sums payable for the right to occupy the unit (other than a sum that is a bond or rent within the meaning of section 2 of the Residential Tenancies Act 1986):
     (b) any periodical payment for the right to occupy the unit that, in respect of the period for which it is payable, substantially exceeds the total of—
       (i) the amount that would be payable as a market rent for the unit under the Residential Tenancies Act 1986 during that period if the unit were let under a tenancy to which that Act applies; and
       (ii) the lesser of the value of any services or facilities supplied to the resident during that period or the cost to the operator of that supply during that period
   - **code of practice** means a code of practice approved by the Minister under section 89
   - **code of residents' rights** means the code of residents' right described in Schedule 4
-  - **Court** means the High Court of New Zealand
+  - **court** means the High Court of New Zealand
   - **deed of supervision** —
     (a) means the document setting out the terms and conditions on which a statutory supervisor is appointed under section 38; and
     (b) includes a deed of participation relating to the supervision of a retirement village entered into before the commencement of section 38, in accordance with the Securities Act 1978 or any regulations made under that Act
@@ -56,13 +56,13 @@ In this Act, unless the context otherwise requires,—
       (i) indicated to an operator of a retirement village or the operator's agent that he or she is interested in becoming a resident of the retirement village; or
       (ii) had discussions with the operator or the operator's agent about entering into an occupation right agreement; and
     (b) in respect of whom the operator or the operator's agent has a current address, or sufficient other contact details to enable the operator to send notices to that person
-  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006.
+  - **lawyer** has the meaning given to it by section 6 of the Lawyers and Conveyancers Act 2006
   - **Minister** means the Minister of the Crown who is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
   - **occupation right agreement** means any written agreement or other document or combination of documents that—
     (a) confers on any person the right to occupy a residential unit within a retirement village; and
     (b) specifies any terms or conditions to which that right is subject
   - **offer of occupation** means an offer made to any person to become a resident of a retirement village
-  - **operator** , in relation to a retirement village, means any person who is 1 or more of the following
+  - **operator** , in relation to a retirement village, means any person who is 1 or more of the following:
     (a) a person who is, or will be, liable to fulfil all or any of the obligations under occupation right agreements to residents of the village:
     (b) a holder of a security interest who is exercising effective management or control of the retirement village:
     (c) a receiver of the property comprising the retirement village, or the liquidator of the person to whom either of paragraph (a) or paragraph (b) applies
@@ -75,15 +75,16 @@ In this Act, unless the context otherwise requires,—
   - **register** means the register maintained under Schedule 1
   - **registered document** means, in respect of any registered retirement village, any document registered in accordance with Schedule 1
   - **Registrar** means the Registrar of Retirement Villages appointed under section 87
-  - **resident** means any of the following
+  - **resident** means any of the following:
     (a) a person who enters into an occupation right agreement with the operator of a retirement village:
     (b) a person who, under an occupation right agreement, is, for the time being, entitled to occupy a residential unit within a retirement village, whether or not the agreement is made with that person or some other person:
     (c) if the occupation right agreement so provides or with the consent of the operator of the retirement village, the spouse, civil union partner, or de facto partner of the person referred to in paragraph (b) who is occupying the residential unit with that person, or after that person's death or departure from the retirement village
   - **residential unit or unit** means a building, or part of a building, that is a house, flat, townhouse, unit, serviced unit or apartment (whether or not it has cooking facilities), villa, or similar dwelling erected, or currently used, primarily and principally as a unit of accommodation; and includes any land, improvements, or appurtenances belonging to the unit or usually enjoyed with it
   - **rest home** has the meaning specified in section 58(4) of the Health and Disability Services (Safety) Act 2001
-  - **Retirement Commissioner** means the Retirement Commissioner appointed under the Retirement Income Act 1993 retirement village has the meaning specified in section 6
+  - **Retirement Commissioner** means the Retirement Commissioner appointed under the Retirement Income Act 1993
+  - **retirement village** has the meaning specified in section 6
   - **security interest** , in relation to a retirement village, means an interest that a person (other than as an intending resident or resident of the retirement village or a person whose occupation right agreement has terminated) has in all or any part of the retirement village as a consequence of the person holding a debt security or participatory security (within the meaning of the Securities Act 1978) over that part of the retirement village
-  - **services** means services provided at a retirement village of 1 or more of the following kinds
+  - **services** means services provided at a retirement village of 1 or more of the following kinds:
     (a) gardening, repair, or maintenance services:
     (b) nursing or medical services:
     (c) the provision of meals:
@@ -132,12 +133,12 @@ If obligations are imposed on the operator of a retirement village by this Act,�
 (2) Except as provided in subsection (3), any provision to which this section applies is void.
 (3) Nothing in subsection (2) deprives any operator or director, trustee, or office holder of an operator, of any exemption or right to be indemnified in respect of anything done or omitted to be done by him or her while any such provision was in force if the exemption or indemnity was in existence on or before the day on which this section comes into force.
 
-### 9 Power of Court to grant relief in proceedings for negligence, etc
-(1) Subsection (2) applies if, in any civil proceeding for negligence, default, breach of duty, or breach of trust against an operator or director, trustee, or office holder of an operator in connection with a retirement village, it appears to the Court hearing the case that—
+### 9 Power of court to grant relief in proceedings for negligence, etc
+(1) Subsection (2) applies if, in any civil proceeding for negligence, default, breach of duty, or breach of trust against an operator or director, trustee, or office holder of an operator in connection with a retirement village, it appears to the court hearing the case that—
   (a) the person is or may be liable in respect of the negligence, default, breach of duty, or breach of trust; but
   (b) the person has acted honestly and reasonably; and
   (c) having regard to all the circumstances of the case, the person ought fairly to be excused for the negligence, default, breach of duty, or breach of trust.
-(2) If this subsection applies, the Court may relieve the person referred to in subsection (1), either wholly or partly, from the person's liability on any terms that the Court thinks fit.
+(2) If this subsection applies, the court may relieve the person referred to in subsection (1), either wholly or partly, from the person's liability on any terms that the court thinks fit.
 
 ## Part 2 — Registration, occupation right agreements, and related requirements and rules
 
@@ -171,7 +172,7 @@ Registration of a retirement village does not imply approval by the Registrar or
   (a) an application for registration must be lodged under section 10 within 6 months from the day on which this section comes into force:
   (b) the operator must seek the written consent to the registration of the village of any person who—
     (i) was a holder of a security interest in the village on 31 December 2002; and
-    (ii) has not, since that date, obtained any new security interest in the village or agreed to any increase
+    (ii) has not, since that date, obtained any new security interest in the village or agreed to any increase—
       (A) in the term of the security interest; or
       (B) if the holder offers a credit facility (for example, an overdraft), in the maximum sum secured by that security interest; or
       (C) if any other sum is secured by the security interest, in the sum secured by that security interest:
@@ -270,7 +271,7 @@ Every operator of a retirement village and the Registrar must comply with the ap
   (b) disclaim any occupation right agreement relating to the retirement village as onerous property under section 269 of the Companies Act 1993 or section 117 of the Insolvency Act 2006; or
   (c) evict any resident or exclude any resident from the use of any facilities or any part of the retirement village to which that resident is ordinarily entitled.
 (2) Subsection (1) applies whether or not the security interest is registered against the certificate of title.
-(3) The holder of the security interest, or any receiver or liquidator or statutory manager of property comprising the retirement village or of an operator of the village, may apply to the High Court for an exemption from any requirement of subsection (1), and that exemption may be granted subject to any conditions that the Court considers appropriate.
+(3) The holder of the security interest, or any receiver or liquidator or statutory manager of property comprising the retirement village or of an operator of the village, may apply to the High Court for an exemption from any requirement of subsection (1), and that exemption may be granted subject to any conditions that the court considers appropriate.
 (4) This section does not affect—
   (a) the exercise of any right conferred on any person under an occupation right agreement (including, without limitation, any right to specified services or any right conferred on the operator of a retirement village to terminate the occupation right of a resident or exclude a resident from the use of any facilities or part of the village, or to reduce or cancel services); or
   (b) the exercise of any specified right by a person who—
@@ -374,7 +375,7 @@ If a receiver is appointed in respect of property of an operator that includes a
     (ii)
     (iii)
   (b) interest at the prescribed rate:
-  (c) actual and reasonable costs associated with the voiding of the agreement (for example, legal expenses. and removal costs).
+  (c) actual and reasonable costs associated with the voiding of the agreement (for example, legal expenses, and removal costs).
 (3) Despite subsections (1) and (2),—
   (a) if the resident and the operator cannot agree when the refund required by subsection (2) is to be made, either party may give a dispute notice under section 53 or section 54, as the case requires:
   (b) if an operator receives from a resident a notice purporting to avoid an occupation right agreement for a contravention of section 18(3) or section 25(1) or section 27 or section 30(1) that the operator considers not to involve a contravention of any of those provisions in any substantial respect, the operator—
@@ -495,7 +496,7 @@ The operators of a retirement village must ensure that, at the commencement of t
 
 ### 42 Duties of statutory supervisor
 A statutory supervisor must—
-  (a) provide a stakeholder facility (for example, under section 29(l)) for intending residents and residents who pay deposits or progress payments in respect of occupation right agreements or uncompleted residential units or facilities at the retirement village; and
+  (a) provide a stakeholder facility (for example, under section 29(1)) for intending residents and residents who pay deposits or progress payments in respect of occupation right agreements or uncompleted residential units or facilities at the retirement village; and
   (b) monitor the financial position of the retirement village; and
   (c) report annually to the Registrar and residents on the performance of its duties and the exercise of its powers; and
   (d) perform any other duties that are imposed by this Act or any other Act, any regulations made under this Act, and any documents of appointment.
@@ -504,7 +505,7 @@ A statutory supervisor must—
 (1) If a statutory supervisor believes the financial position of the retirement village, the security of the interests of the residents, or the management of the retirement village is inadequate, the statutory supervisor may—
   (a) direct the operator to supply all residents (or their nominated representatives) with the information that the statutory supervisor may specify; or
   (b) direct the operator to operate the retirement village in a specified manner; or
-  (c) apply to the Court under section 49 of the Securities Act 1978 which applies with all necessary modifications.
+  (c) apply to the court under section 49 of the Securities Act 1978 which applies with all necessary modifications.
 (2) The statutory supervisor may direct that an advertisement that the statutory supervisor considers is inconsistent with this Act or regulations made under this Act, or the disclosure statement, occupation right agreement, or code of practice, not be published or distributed to the public.
 
 ### 44 Public statement by statutory supervisor
@@ -533,7 +534,7 @@ In this Part,—
   - **dispute resolution** means the resolution of a dispute by a disputes panel
   - **resident** means—
     (a) a resident of a retirement village; or
-    (b) a former resident.
+    (b) a former resident
   - **respondent** means a person who is given a dispute notice under section 52.
 
 ### 49 Resident's rights may be exercised by personal representative
@@ -624,7 +625,7 @@ The operator must operate and make known to the residents of a retirement villag
 (3) A person must not be appointed a member of a disputes panel unless that person's name appears on the Retirement Commissioner's list under section 58(1).
 (4) In the case of a dispute referred to in section 53(3),—
   (a) the operator must appoint at least 3 members to the panel; and
-  (b) 1 of the members must be a retired Judge or have held a practising certificate as a barrister or solicitor for at least 7 years; and
+  (b) one of the members must be a retired Judge or have held a practising certificate as a barrister or solicitor for at least 7 years; and
   (c) the person referred to in paragraph (b) must chair the panel.
 
 ### 61 Disputes panel must disclose interests and previous involvement
@@ -734,7 +735,7 @@ The matters that a disputes panel must take into account in deciding a dispute r
   (a) has effect and is enforceable as if it were an order of—
     (i) the District Court if a District Court had jurisdiction to hear the dispute as a court of first instance; or
     (ii) the High Court in any other case:
-  (b) if it is an order to pay money, creates a judgement debt.
+  (b) if it is an order to pay money, creates a judgment debt.
 
 ### 73 Effect of vacancy in panel membership
 Except in the case of a single member disputes panel, the death, resignation, or unavailability of a member of a disputes panel does not prevent the remaining member or members of the panel from making a decision resolving a dispute.
@@ -758,10 +759,10 @@ Except in the case of a single member disputes panel, the death, resignation, or
   (a) the nearest District Court if a District Court had jurisdiction to hear the dispute as a court of first instance; or
   (b) in the case of a dispute referred to a District Court under section 66(3), the High Court; or
   (c) the High Court in any other case.
-(3) The appeal must be heard by the Court in accordance with the directions made by the Court after the appeal has been filed.
-(4) The Court must hear the appeal by rehearing the dispute.
-(5) The appeal must be filed in the appropriate Court within 20 working days after the disputes panel has made the decision.
-(6) The decision of the Court hearing the appeal is final, and there is no further appeal.
+(3) The appeal must be heard by the court in accordance with the directions made by the court after the appeal has been filed.
+(4) The court must hear the appeal by rehearing the dispute.
+(5) The appeal must be filed in the appropriate court within 20 working days after the disputes panel has made the decision.
+(6) The decision of the court hearing the appeal is final, and there is no further appeal.
 
 **Enforcement and penalties**
 
@@ -794,45 +795,45 @@ In accordance with sections 76 to 83, a Disputes Tribunal established under sect
 (6) Every person commits an offence who, without reasonable excuse, contravenes any other provision of this Act and is liable on summary conviction to a fine not exceeding $5,000.
 (7) Proceedings under this section may be commenced at any time within 3 years after the matter giving rise to the contravention arose.
 
-### 80 Injunctions may be granted by Court for contravention of certain provisions
-(1) The Court may, on the application of the Registrar, a statutory supervisor of a retirement village, or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following:
+### 80 Injunctions may be granted by court for contravention of certain provisions
+(1) The court may, on the application of the Registrar, a statutory supervisor of a retirement village, or any other person, grant an injunction restraining a person from engaging in conduct that constitutes or would constitute any of the following:
   (a) a contravention of any of sections 25 to 33:
   (b) an attempt to contravene any of those provisions:
   (c) aiding, abetting, counselling, or procuring any other person to contravene any of those provisions:
   (d) inducing, or attempting to induce, any other person, whether by threats, promises or otherwise, to contravene any of those provisions:
   (e) being in any way directly or indirectly knowingly concerned in, or party to, the contravention by any other person of any of those provisions:
   (f) conspiring with any other person to contravene any of those provisions.
-(2) The Court may, at any time, rescind or vary an injunction granted under this section.
-(3) If an application is made to the Court under this section for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the Court may,—
+(2) The court may, at any time, rescind or vary an injunction granted under this section.
+(3) If an application is made to the court under this section for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the court may,—
   (a) if it is satisfied that the person has engaged in conduct of that kind, grant an injunction restraining the person from engaging in conduct of that kind; or
-  (b) if, in the opinion of the Court, it is desirable to do so, grant an interim injunction restraining the person from engaging in conduct of that kind.
-(4) An injunction referred to in subsection (3) may be granted whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind.
-(5) If an application is made to the Court under this section for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the Court may,—
-  (a) if it appears to the Court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind, grant an injunction restraining the person from engaging in conduct of that kind; or
-  (b) if, in the opinion of the Court, it is desirable to do so, grant an interim injunction restraining the person from engaging in conduct of that kind.
+  (b) if, in the opinion of the court, it is desirable to do so, grant an interim injunction restraining the person from engaging in conduct of that kind.
+(4) An injunction referred to in subsection (3) may be granted whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind.
+(5) If an application is made to the court under this section for the grant of an injunction restraining a person from engaging in conduct of a particular kind, the court may,—
+  (a) if it appears to the court that, in the event that an injunction is not granted, it is likely that the person will engage in conduct of that kind, grant an injunction restraining the person from engaging in conduct of that kind; or
+  (b) if, in the opinion of the court, it is desirable to do so, grant an interim injunction restraining the person from engaging in conduct of that kind.
 (6) To avoid doubt, an injunction referred to in subsection (5) may be granted—
   (a) whether or not the person has previously engaged in conduct of that kind; and
   (b) whether or not there is an imminent danger of substantial damage to any person if the first-mentioned person engages in conduct of that kind.
 
 ### 81 Order to disclose information or publish advertisement
-(1) If, on the application of the Registrar, a statutory supervisor of a retirement village, or any other person, the Court is satisfied that a person has engaged in conduct constituting a contravention of sections 18(3), 25, or 26, the Court may (whether or not that person has previously engaged in that conduct) make either or both of the following orders:
+(1) If, on the application of the Registrar, a statutory supervisor of a retirement village, or any other person, the court is satisfied that a person has engaged in conduct constituting a contravention of sections 18(3), 25, or 26, the court may (whether or not that person has previously engaged in that conduct) make either or both of the following orders:
   (a) an order requiring that person, or any other person involved in the contravention, to disclose, at that person's own expense, to the public, or to a particular person or to persons included in a particular class of persons, in any manner specified in the order, any applicable information or applicable information of any kind that is specified:
   (b) an order requiring that person, or any other person involved in the contravention, to publish, at that person's own expense, in any manner and at any times that are specified in the order, corrective statements the terms of which are specified in, or are to be determined in accordance with, the order.
 (2) In subsection (1), applicable information is information that is in the possession of the person to whom the order is directed or to which that person has access.
 
 ### 82 Other orders
-(1) The Court may make all or any of the orders referred to in subsection (3) if, in any proceedings under sections 79 to 86 or on the application of a resident, or the statutory supervisor of a retirement village, or the Registrar, the Court finds that a person, whether or not that person is a party to the proceedings, has suffered, or is likely to suffer, loss or damage due to the conduct of any other person that constitutes or would constitute—
+(1) The court may make all or any of the orders referred to in subsection (3) if, in any proceedings under sections 79 to 86 or on the application of a resident, or the statutory supervisor of a retirement village, or the Registrar, the court finds that a person, whether or not that person is a party to the proceedings, has suffered, or is likely to suffer, loss or damage due to the conduct of any other person that constitutes or would constitute—
   (a) a contravention of any of sections 25 to 33; or
   (b) aiding, abetting, counselling, or procuring the contravention of any of those provisions; or
   (c) inducing by threats, promises, or otherwise the contravention of any of those provisions; or
   (d) being in any way directly or indirectly knowingly concerned in, or party to, the contravention of any of those provisions; or
   (e) conspiring with any other person in the contravention of any of those provisions.
-(2) The Court may make all or any of the orders referred to in subsection (3), whether or not it grants an injunction or makes any other order under this Part.
-(3) For the purposes of subsection (1), the Court may make the following orders:
-  (a) an order declaring the whole or any part of an occupation right agreement made between the person who suffered, or is likely to suffer, the loss or damage and the person who engaged in the conduct referred to in subsection (1), or of a collateral arrangement relating to that occupation right agreement, to be void and, if the Court thinks fit,—
+(2) The court may make all or any of the orders referred to in subsection (3), whether or not it grants an injunction or makes any other order under this Part.
+(3) For the purposes of subsection (1), the court may make the following orders:
+  (a) an order declaring the whole or any part of an occupation right agreement made between the person who suffered, or is likely to suffer, the loss or damage and the person who engaged in the conduct referred to in subsection (1), or of a collateral arrangement relating to that occupation right agreement, to be void and, if the court thinks fit,—
     (i) to have been void from the beginning; or
     (ii) at all times on and after any date, before the date on which the order is made, that is specified in the order:
-  (b) an order varying that occupation right agreement or arrangement in any manner that is specified in the order and, if the Court thinks fit, declaring the agreement or arrangement to have had effect as so varied on and after any date, before the date on which the order is made, that is specified in the order:
+  (b) an order varying that occupation right agreement or arrangement in any manner that is specified in the order and, if the court thinks fit, declaring the agreement or arrangement to have had effect as so varied on and after any date, before the date on which the order is made, that is specified in the order:
   (c) an order directing the person who engaged in the conduct referred to in subsection (1) to refund money or return property to the person who suffered the loss or damage:
   (d) an order directing the person who engaged in the conduct referred to in subsection (1) to pay to the person who suffered the loss or damage the amount of the loss or damage:
   (e) an order directing the person who engaged in the conduct referred to in subsection (1), at that person's own expense, to supply specified services to the person who suffered, or is likely to suffer, the loss or damage.
@@ -845,16 +846,16 @@ In accordance with sections 76 to 83, a Disputes Tribunal established under sect
   (d) make an order under section 82(3)(d) requiring a person to pay an amount exceeding $200,000:
   (e) make an order under section 82(3)(e) directing a person to supply services if the value of the services exceeds $200,000.
 (2) In the exercise of its jurisdiction under section 82, a Disputes Tribunal must not—
-  (a) make an order under section 82(3)(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $7,500:
-  (b) make an order under section 82(3)(d) requiring a person to pay an amount exceeding $7,500:
-  (c) make an order under section 82(3)(e) directing a person to supply services if the value of the services exceeds $7,500.
-(3) Despite subsection (2), if, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunals Act 1988, subsection (2) must be read as if every reference in that subsection to $7,500 were a reference to $12,000.
+  (a) make an order under section 82(3)(c) directing a person to refund money or return property if the amount of money or the value of the property exceeds $15,000:
+  (b) make an order under section 82(3)(d) requiring a person to pay an amount exceeding $15,000:
+  (c) make an order under section 82(3)(e) directing a person to supply services if the value of the services exceeds $15,000.
+(3) Despite subsection (2), if, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunals Act 1988, subsection (2) must be read as if every reference in that subsection to $15,000 were a reference to $20,000.
 
 ### 84 General provisions relating to section 82 orders
 (1) An application under section 82(1) may be made at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
 (2) An order made under section 82(3)(a) or (b) does not prevent proceedings being instituted or commenced under sections 79 to 86.
 (3) Nothing in section 82 or section 83 limits or affects the Illegal Contracts Act 1970.
-(4) For the purposes of sections 81 and 82, a reference to Court includes a reference to a District Court and also, for the purposes of section 82, a Disputes Tribunal.
+(4) For the purposes of sections 81 and 82, a reference to court includes a reference to a District Court and also, for the purposes of section 82, a Disputes Tribunal.
 (5) Nothing in section 82 or section 83 affects section 317 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 ### 85 Defences
@@ -895,7 +896,7 @@ In any application for an order against a person under section 82, a finding of 
 **Code of practice**
 
 ### 89 Code of practice must be prepared and published
-(1) The Minister may approve 1 of the draft codes of practice submitted to the Minister by any retirement village, group of retirement villages, or association of operators of a retirement village as the code of practice applicable to all retirement villages, after considering any recommendations of the Retirement Commissioner made in accordance with subsection (2).
+(1) The Minister may approve one of the draft codes of practice submitted to the Minister by any retirement village, group of retirement villages, or association of operators of a retirement village as the code of practice applicable to all retirement villages, after considering any recommendations of the Retirement Commissioner made in accordance with subsection (2).
 (2) Before making a recommendation to the Minister for the purposes of subsection (1), the Retirement Commissioner must consider any recommendations by any groups of persons or bodies that, in the opinion of the Retirement Commissioner, represent the interests of—
   (a) operators of retirement villages; or
   (b) residents or intending residents; or
@@ -925,7 +926,7 @@ In any application for an order against a person under section 82, a finding of 
 (3) If an operator elects, under subsection (2), to be bound by a code of practice that is not yet in force,—
   (a) that code must for all purposes be treated as if it were in force in respect of that operator and the retirement village to which the election relates; and
   (b) any earlier code of practice ceases to apply to that operator and the retirement village to which the election relates.
-(4) The code of practice approved under section 89(1) or (4) maybe varied by the Minister after considering any recommendations of—
+(4) The code of practice approved under section 89(1) or (4) may be varied by the Minister after considering any recommendations of—
   (a) the Retirement Commissioner; and
   (b) any groups of persons or bodies that, in the opinion of the Minister, represent the interests of operators of retirement villages, residents or intending residents, statutory supervisors, or other persons.
 (5) Any variation by the Minister comes into force on the date stated by the Minister in the document making the variation.
@@ -994,10 +995,11 @@ In any application for an order against a person under section 82, a finding of 
 **Registrar's powers of inspection**
 
 ### 97 Registrar's powers of inspection
-(1) The Registrar or a person authorised by the Registrar may,(a) for the purpose of—
-  (i) ascertaining whether a retirement village or operator complies, or has complied, with this Act or the Financial Reporting Act 1993; or
-  (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act or the Financial Reporting Act 1993; or
-  (iii) detecting offences against this Act or the Financial Reporting Act 1993; and
+(1) The Registrar or a person authorised by the Registrar may,—
+  (a) for the purpose of—
+    (i) ascertaining whether a retirement village or operator complies, or has complied, with this Act or the Financial Reporting Act 1993; or
+    (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act or the Financial Reporting Act 1993; or
+    (iii) detecting offences against this Act or the Financial Reporting Act 1993; and
   (b) if, in the Registrar's opinion, it is in the public interest to do so,—
     (i) inspect and take copies of relevant documents; or
     (ii) take possession of relevant documents and remove them from the place where they are kept, and retain them for a reasonable time, for the purpose of taking copies; or
@@ -1019,7 +1021,7 @@ In any application for an order against a person under section 82, a finding of 
   (c) the official assignee, for the purposes of the bankruptcy of an operator of a retirement village; or
   (d) any person authorised by the Registrar to receive the document, information, or report for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (e) a liquidator for the purposes of the liquidation of a retirement village or an operator of a retirement village.
-(3) A person authorised - by the Registrar for the purposes of section 97 who has—must give the document, information, or report to the Registrar when directed to do so by the Registrar.
+(3) A person authorised by the Registrar for the purposes of section 97 who has—must give the document, information, or report to the Registrar when directed to do so by the Registrar.
   (a) obtained a document or information in the course of making an inspection under that section; or
   (b) prepared a report in relation to an inspection under that section—
 (4) Subsection (5) applies if a person authorised by the Registrar for the purposes of section 97 has—
@@ -1027,7 +1029,7 @@ In any application for an order against a person under section 82, a finding of 
   (b) prepared a report in relation to an inspection under that section.
 (5) A person to whom this subsection applies must not disclose that document, information, or report except—
   (a) in accordance with subsection (2) or subsection (3); or
-  (b) subject to the approval of the Registrar, with the con sent of the person to whom it relates; or
+  (b) subject to the approval of the Registrar, with the consent of the person to whom it relates; or
   (c) subject to the approval of the Registrar, for the purposes of this Act or in connection with the exercise of powers conferred by this Act; or
   (d) to the extent that the information, or information contained in the document or report, is available under any Act or in a public document; or
   (e) subject to the approval of the Registrar, to a liquidator for the purposes of the liquidation of a company or the assets of an overseas company; or
@@ -1100,26 +1102,13 @@ If a deed of participation relating to the supervision of a retirement village t
   (b) in relation to an offer of securities to any person who is already a resident and who is not obliged to subscribe to the securities by an occupation right agreement.
 
 ### 108 Amendment to Corporations (Investigation and Management) Act 1989
-Section 11 of the Corporations (Investigation and Management) Act 1989 is amended by inserting, after the words Securities Act 1978, the words or the Retirement Villages Act 2003.
+Amendment(s) incorporated in the Act(s).
 
 ### 109 Amendments to Financial Reporting Act 1993
-(1) Section 4(1) of the Financial Reporting Act 1993 is amended by adding the following paragraph:
-  (e) every operator within the meaning of the Retirement Villages Act 2003 (other than a receiver or liquidator, or a person who has no financial interest in the village).
-(2) Section 9A of the Financial Reporting Act 1993 is amended by adding the following subsections:
-  (4) Subsection (5) applies if—
-    (a) the financial statements of an operator of a retirement village (as those terms are defined in sections 5 and 6 of the Retirement Villages Act 2003) include the activities of—
-      (i) more than 1 retirement village; or
-      (ii) another trading activity that operates independently of the retirement village; and
-    (b) either the statutory supervisor of the retirement village, or (if the operator is exempted under section 41 of that Act from appointing a statutory supervisor) the Registrar, as a condition of that exemption, requires the operator to comply with subsection (5).
-  (5) If this subsection applies, any requirement for an operator of a retirement village to prepare financial statements includes—
-    (a) a requirement to prepare financial statements in respect of the retirement village as well as in respect of the operator; and
-    (b) a requirement to lodge a copy of both statements, within 20 working days after the financial statements are required to be signed,—
-      (i) with the statutory supervisor of the retirement village (if there is one); or
-      (ii) if the operator is exempted from appointing a statutory supervisor, with the Registrar or with any person the Registrar appoints under a condition of that exemption.
+Amendment(s) incorporated in the Act(s).
 
 ### 110 Amendment to Securities Act 1978
-Section 5(1) of the Securities Act 1978 is amended by adding the following paragraph:
-  (k) an interest in a retirement village that is an interest exempted from this Act by section 107(1) of the Retirement Villages Act 2003.
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — Registration and register
 
@@ -1131,8 +1120,8 @@ The New Zealand register may be divided into different parts, which may be kept 
 
 ### 3
 The register may be—
-  (a) an electronic register; or
-  (b) kept in any other manner that the Registrar thinks fit.
+(a) an electronic register; or
+(b) kept in any other manner that the Registrar thinks fit.
 
 ### 4
 The Registrar may direct the transfer of part of the register and of any record relating to a retirement village from one place in New Zealand to another place in New Zealand.
@@ -1145,65 +1134,67 @@ The Registrar must give notice in the Gazette of any transfer under clause 4 as 
 
 ### 7
 Nothing in clauses 5 and 6 applies to the transfer of part of the register or of any record relating to a particular retirement village from one place in New Zealand to another place in New Zealand if—
-  (a) the register is an electronic register; and
-  (b) the transfer is of the whole of the register kept in that place.
+(a) the register is an electronic register; and
+(b) the transfer is of the whole of the register kept in that place.
 
 ### 8
 All the records relating to a particular retirement village must be kept in the same place.
 
 ### 9
 On receipt of an application for registration as a retirement village or any other document for registration under this Act, the Registrar must,—
-  (a) subject to clause 10, register the document in the register; and
-  (b) give written advice of the registration to the person from whom the document was received.
+(a) subject to clause 10, register the document in the register; and
+(b) give written advice of the registration to the person from whom the document was received.
 
 ### 10
 The Registrar may refuse to register a document received by the Registrar for registration under this Act if that document—
-  (a) is not in the prescribed form, if any; or
-  (b) does not comply with this Act or regulations made under this Act; or
-  (c) is not printed or typewritten; or
-  (d) if the register is an electronic register, is not in a form that enables particulars to be entered directly by electronic or other means in the register; or
-  (e) has not been properly completed; or
-  (f) contains material that is not clearly legible.
+(a) is not in the prescribed form, if any; or
+(b) does not comply with this Act or regulations made under this Act; or
+(c) is not printed or typewritten; or
+(d) if the register is an electronic register, is not in a form that enables particulars to be entered directly by electronic or other means in the register; or
+(e) has not been properly completed; or
+(f) contains material that is not clearly legible.
 
 ### 11
 If the Registrar refuses to register a document in reliance on clause 10, the Registrar must request either—
-  (a) that the document be appropriately amended or completed and submitted for registration again; or
-  (b) that a fresh document be submitted in its place.
+(a) that the document be appropriately amended or completed and submitted for registration again; or
+(b) that a fresh document be submitted in its place.
 
 ### 12
 A document is registered when—
-  (a) the document itself is constituted as part of the register; or
-  (b) particulars of the document are entered in any device or facility referred to in clause 3.
+(a) the document itself is constituted as part of the register; or
+(b) particulars of the document are entered in any device or facility referred to in clause 3.
 
 ### 13
 Neither registration nor refusal of registration of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
 
 ### 14
 A person may, on payment of fees (if any) that are prescribed, inspect—
-  (a) any document that constitutes part of the register:
-  (b) particulars of any registered document that have been entered on the register referred to in clause 3:
-  (c) any registered document, particulars of which have been entered in the register.
+(a) any document that constitutes part of the register:
+(b) particulars of any registered document that have been entered on the register referred to in clause 3:
+(c) any registered document, particulars of which have been entered in the register.
 
 ### 15
 A person may, on payment of any prescribed fees, require the Registrar to give or certify—
-  (a) a copy of, or extract from, a document that constitutes part of the register; or
-  (b) particulars of any registered document that have been entered in the register referred to in clause 3; or
-  (c) a copy of, or extract from, a registered document, particulars of which have been entered in that register.
+(a) a copy of, or extract from, a document that constitutes part of the register; or
+(b) particulars of any registered document that have been entered in the register referred to in clause 3; or
+(c) a copy of, or extract from, a registered document, particulars of which have been entered in that register.
 
 ### 16
-A process to compel the production of—must not issue from the Court without the leave of the Court, and, if it is issued from the Court with the leave of the Court, it must have a statement attached to it that it is issued with the leave of the Court.
-  (a) a registered document kept by the Registrar; or
-  (b) evidence of the entry of particulars of a registered document in the register referred to in clause 3—
+A process to compel the production of—must not issue from the court without the leave of the court, and, if it is issued from the court with the leave of the court, it must have a statement attached to it that it is issued with the leave of the court.
+(a) a registered document kept by the Registrar; or
+(b) evidence of the entry of particulars of a registered document in the register referred to in clause 3—
 
 ### 17
 A copy of, or extract from, a registered document—that is certified to be a true copy or extract by the Registrar is admissible in evidence in legal proceedings to the same extent as the original document.
-  (a) that constitutes part of the register; or
-  (b) particulars of which have been entered in the register referred to in clause 3—
+(a) that constitutes part of the register; or
+(b) particulars of which have been entered in the register referred to in clause 3—
 
 ### 18
 An extract certified by the Registrar as containing particulars of a registered document that have been entered in the register referred to in clause 3 is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars.
 
 ## Schedule 2 — Disclosure statements
+
+**Required information**
 
 ### 1 Ownership, management, and supervision
 A disclosure statement must contain all prescribed details relating to the following:
@@ -1257,36 +1248,62 @@ A disclosure statement must—
 
 ### 1
 The occupation right agreement must contain—
-  (a) provisions in relation to the following topics:
-    (i) the staffing of the retirement village:
-    (ii) the safety and personal security of residents:
-    (iii) fire protection and emergency management:
-    (iv) the transfer of residents within the retirement village:
-    (v) meetings of residents with the operator:
-    (vi) accounts:
-    (vii) maintenance and upgrading:
-    (viii) the termination of the occupation right agreement by a resident or the operator:
-    (ix) communication to those for whom English is a second language or whose ability to communicate is limited:
-  (b) provisions requiring—
-    (i) the operator and the purchaser to consult with residents before the operator's interest in the village is sold or otherwise disposed of:
-    (ii) the consultation referred to in subparagraph (i) to take place—
-      (A) at a time directed by the statutory supervisor of the retirement village (if there is one); or
-      (B) in any other case, at an appropriate time that is a reasonable time before settlement of the transaction:
-    (iii) the operator to consult with residents before appointing a new manager:
-    (iv) the operator to consult with the residents about any proposed changes in the services and benefits provided or the charges that the residents pay that will or might have a material impact on the residents' occupancy or ability to pay for the services and benefits provided:
-    (v) the operator, the people who work at the village, and the people who provide services at the village, to treat the residents with courtesy and to respect the rights of residents:
-    (vi) the operator, the people who work at the village, and the people who provide services at the village, not to exploit the residents:
-  (c) provision for a complaints facility and disputes procedure that complies with the Retirement Villages Act 2003:
-  (d) any provisions required by the Retirement Villages Act 2003 or regulations made under that Act:
-  (e) any provisions required by the code of practice, unless the operator is exempt from the requirement to comply with that provision:
-  (f) information on the code of residents' rights and the code of practice.
+(a) provisions in relation to the following topics:
+  (i) the staffing of the retirement village:
+  (ii) the safety and personal security of residents:
+  (iii) fire protection and emergency management:
+  (iv) the transfer of residents within the retirement village:
+  (v) meetings of residents with the operator:
+  (vi) accounts:
+  (vii) maintenance and upgrading:
+  (viii) the termination of the occupation right agreement by a resident or the operator:
+  (ix) communication to those for whom English is a second language or whose ability to communicate is limited:
+(b) provisions requiring—
+  (i) the operator and the purchaser to consult with residents before the operator's interest in the village is sold or otherwise disposed of:
+  (ii) the consultation referred to in subparagraph (i) to take place—
+    (A) at a time directed by the statutory supervisor of the retirement village (if there is one); or
+    (B) in any other case, at an appropriate time that is a reasonable time before settlement of the transaction:
+  (iii) the operator to consult with residents before appointing a new manager:
+  (iv) the operator to consult with the residents about any proposed changes in the services and benefits provided or the charges that the residents pay that will or might have a material impact on the residents' occupancy or ability to pay for the services and benefits provided:
+  (v) the operator, the people who work at the village, and the people who provide services at the village, to treat the residents with courtesy and to respect the rights of residents:
+  (vi) the operator, the people who work at the village, and the people who provide services at the village, not to exploit the residents:
+(c) provision for a complaints facility and disputes procedure that complies with the Retirement Villages Act 2003:
+(d) any provisions required by the Retirement Villages Act 2003 or regulations made under that Act:
+(e) any provisions required by the code of practice, unless the operator is exempt from the requirement to comply with that provision:
+(f) information on the code of residents' rights and the code of practice.
 
 ### 2
 The provisions referred to in paragraphs (a) to (e) of clause 1 must be consistent with—
-  (a) the Retirement Villages Act 2003, and any regulations made under that Act; and
-  (b) any provision in the code of practice, unless the operator is exempt from the requirement to comply with that provision.
+(a) the Retirement Villages Act 2003, and any regulations made under that Act; and
+(b) any provision in the code of practice, unless the operator is exempt from the requirement to comply with that provision.
 
 ## Schedule 4 — Code of residents' rights
+
+### 1
+You have the right to services and other benefits promised to you in your occupation right agreement.
+
+### 2
+You have the right to information relating to any matters affecting, or likely to affect, the terms or conditions of your residency.
+
+### 3
+You have the right to be consulted by the operator about any proposed changes in the services and benefits provided or the charges that you pay that will or might have a material impact on your—
+(a) occupancy; or
+(b) ability to pay for the services and benefits provided.
+
+### 4
+You have the right to complain to the operator and to receive a response within a reasonable time.
+
+### 5
+You have the right to a speedy and efficient process for resolving disputes between you and the operator or between you and other residents of the village.
+
+### 6
+You have the right, in your dealings with the operator or other residents of the village, to involve a support person or a person to represent you. The cost of involving a support person or person to represent you must be met by you.
+
+### 7
+You have the right to be treated with courtesy and have your rights respected by the operator, the people who work at the village, and the people who provide services at the village.
+
+### 8
+You have the right not to be exploited by the operator, the people who work at the village, and the people who provide services at the village.
 
 ## Schedule 5 — Matters to be included in code of practice
 
@@ -1321,7 +1338,9 @@ The matters that must be addressed in the code of practice are—
 The matters that must be addressed in the code of practice are—
   (a) the procedures for making and acknowledging receipt of complaints by residents (including complaints about another resident of the retirement village):
   (b) requirements for informing a resident about progress on the resident's complaint at regular intervals:
-  (c) the procedures for (i) resolving complaints; and (ii) making decisions on complaints where resolution is not possible:
+  (c) the procedures for—
+    (i) resolving complaints; and
+    (ii) making decisions on complaints where resolution is not possible:
   (d) time limits within which the person dealing with the complaint on behalf of the operator must make and notify a decision on the complaint:
   (e) requirements as to the form of notification of a decision about a complaint.
 
