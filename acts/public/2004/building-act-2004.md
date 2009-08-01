@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2008-10-16_
+_Consolidation as at 2009-08-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -4035,6 +4035,10 @@ A provision of an agreement or instrument that purports to restrict or remove th
   (i) prescribing the manner in which rules are to be made, amended, or revoked, including the requirements for consultation with persons affected by the proposed rules:
   (j) prescribing procedures for regulating and controlling the construction, maintenance, and demolition of buildings:
   (k) prescribing the form or content of applications, or any other documentation or information required under this Act:
+  (ka) prescribing eligibility criteria for national multiple-use approvals:
+  (kb) prescribing the period of time within which the chief executive must decide, under section 30E(1), whether to issue a national multiple-use approval:
+  (kc) defining the minor customisations that may be made to plans and specifications in relation to which a national multiple-use approval has been issued when incorporating those plans and specifications into a building consent:
+  (kd) defining the minor variations that may be made to a building consent for the purposes of section 45A:
   (l) prescribing information to be provided to the chief executive by—
     (i) territorial authorities and building consent authorities in relation to buildings and building work; and
     (ii) regional authorities and owners of dams in relation to dams:
@@ -4070,6 +4074,11 @@ A provision of an agreement or instrument that purports to restrict or remove th
   (zb) prescribing, for the purposes of section 364(2), the form and content of the written agreement referred to in that subsection:
   (zc) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 (2) The fees and charges prescribed under subsection (1)(d) must be reasonable, having regard to the need to recover the costs incurred by the Registrar in performing his or her functions under this Act.
+
+### 402A Chief executive must review regulations made under section 402(1)(kb)
+The chief executive must, within 2 years after the commencement of regulations made under section 402(1)(kb),—
+  (a) review the prescribed period of time within which the chief executive must decide whether to issue a national multiple-use approval; and
+  (b) prepare for the Minister a report on the findings of that review.
 
 ### 403 Consultation requirements for making regulations
 (1) This section applies to—
