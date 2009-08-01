@@ -1,5 +1,5 @@
 # Credit Contracts and Consumer Finance Act 2003
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-08-01_
 
 ### 1 Title
 This Act is the Credit Contracts and Consumer Finance Act 2003.
@@ -22,7 +22,7 @@ The purposes of this Act are—
     (iii) to enable consumers to monitor the performance of consumer credit contracts or consumer leases; and
   (c) to provide rules about interest charges, fees, and payments in relation to consumer credit contracts; and
   (d) to enable consumers to seek reasonable changes to consumer credit contracts on the grounds of unforeseen hardship; and
-  (e) to provide for the disclosure of adequate information to consumers under buy-back transactions of land and for the provision- of independent legal advice to those consumers—
+  (e) to provide for the disclosure of adequate information to consumers under buy-back transactions of land and for the provision of independent legal advice to those consumers—
     (i) to inform consumers of the terms, the effects, and the implications of those transactions before they become irrevocably committed to them; and
     (ii) to enable consumers to monitor the performance of those transactions; and
   (f) to provide rules about fees in relation to buy-back transactions of land; and
@@ -47,10 +47,9 @@ In this Act, unless the context otherwise requires,—
     (c) the cash price of any property or services purchased by the debtor from the creditor:
     (d) in the case of the use of a credit card to purchase property or services from a person who is not the creditor or to obtain money, the agreed price of the property or services or the monetary amount, as the case may be
   - **annual interest rate** means a rate specified in the credit contract as an annual interest rate
-  - **associated person**
   - **broker** means a person who, for consideration, assists a person in obtaining credit
   - **buy-back default fees** means fees or charges payable on a breach of a buy-back transaction by an occupier or on the enforcement of a buy-back transaction by a transferee
-  - **buy-back fees** means fees or charges payable by the occupier under a buy-back transaction, or payable by the occupier to, or for the benefit of, the transferee in connection with a buy-back transaction (including any insurance premiums payable if the transferee requires the occupier to obtain insurance cover from a particular insurer); but does not include the following
+  - **buy-back fees** means fees or charges payable by the occupier under a buy-back transaction, or payable by the occupier to, or for the benefit of, the transferee in connection with a buy-back transaction (including any insurance premiums payable if the transferee requires the occupier to obtain insurance cover from a particular insurer); but does not include the following:
     (a) a buy-back default fee:
     (b) government charges, duties, taxes, or levies
   - **buy-back promoter** means a person who introduces the parties to a buy-back transaction to each other if—
@@ -65,10 +64,10 @@ In this Act, unless the context otherwise requires,—
   - **consumer credit contract** has the meaning set out in section 11
   - **consumer credit insurance** means insurance cover in the event of the insured's disability or death or the insured contracting a sickness, sustaining an injury, or becoming unemployed, if the liability of the insurer is to be determined by reference to the liability of the insured under a credit contract or a consumer lease
   - **consumer lease** has the meaning set out in section 60
-  - **Court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
+  - **court** means, in relation to any matter, the court, tribunal, or arbitral tribunal by or before which the matter falls to be determined
   - **credit** has the meaning set out in section 6
   - **credit contract** has the meaning set out in section 7
-  - **credit fees** means fees or charges payable by the debtor under a credit contract, or payable by the debtor to, or for the benefit of, the creditor in connection with a credit contract (including any insurance premiums payable if the creditor requires the debtor to obtain insurance cover from a particular insurer); but does not include the following
+  - **credit fees** means fees or charges payable by the debtor under a credit contract, or payable by the debtor to, or for the benefit of, the creditor in connection with a credit contract (including any insurance premiums payable if the creditor requires the debtor to obtain insurance cover from a particular insurer); but does not include the following:
     (a) interest charges:
     (b) a charge for an optional service:
     (c) a default fee or a default interest charge:
@@ -89,7 +88,7 @@ In this Act, unless the context otherwise requires,—
   - **establishment fees** means the fees or charges payable under the credit contract that relate to the costs incurred by the creditor in connection with the application for credit, processing and considering that application, documenting the contract, and advancing the credit; but does not include any fee or charge to the extent that it is a charge for an optional service
   - **estate** means a fee simple estate, a leasehold estate, or a stratum estate
   - **extended warranty** means an agreement between a creditor or lessor and a debtor or lessee under which the creditor or lessor, for an additional consideration, agrees to repair or replace defective goods outside of the warranty period that would otherwise apply
-  - **family trust** means a trust that is established primarily to benefit either or both of the following
+  - **family trust** means a trust that is established primarily to benefit either or both of the following:
     (a) a natural person for whom the settlor has natural love and affection:
     (b) an organisation or a trust whose income is exempt under section CB 4(1)(c) or (e) of the Income Tax Act 1994
   - **full costs** includes reasonable costs incurred between solicitor and client, fees, and other expenses
@@ -124,7 +123,7 @@ In this Act, unless the context otherwise requires,—
   - **unpaid balance** means the amount owing under a credit contract at a particular time, being the difference between all amounts credited and all amounts debited to the debtor under the contract at that time
   - **unpaid daily balance** , in relation to a day, means the unpaid balance under a credit contract at the end of that day
   - **working day** means a day of the week other than—
-    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, and Labour Day; and
+    (a) a Saturday, a Sunday, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, and Labour Day; and
     (b) a day in the period commencing with 25 December in a year and ending with 2 January in the following year; and
     (c) if 1 January falls on a Friday, the following Monday; and
     (d) if 1 January falls on a Saturday or a Sunday, the following Monday and Tuesday.
@@ -152,11 +151,11 @@ In this Act, unless the context otherwise requires, credit is provided under a c
 (2) If, by virtue of any contract or contracts (none of which by itself constitutes a buy-back transaction) or any arrangement, there is a transaction that is in substance or effect a buy-back transaction, the contract, contracts, or arrangement must, for the purposes of this Act, be treated as a buy-back transaction made at the time when the contract, or the last of those contracts, or the arrangement, was made, as the case may be.
 
 ### 8A Meanings of associated and associated person
-(1) For the purposes of this Act, 1 person (A) is associated with another person (B),—
+(1) For the purposes of this Act, one person (A) is associated with another person (B),—
   (a) if A is connected to B by blood relationship, marriage, or adoption or where A is a trustee for B, and for the purposes of this paragraph—
     (i) persons are connected by blood relationship if they are within the fourth degree of relationship:
-    (ii) persons are connected by marriage if 1 person is married to the other person or to a person who is connected by blood relationship to the other person, or if 1 person has a relationship in the nature of marriage with the other person or with a person who is connected by blood relationship to the other person (whether or not the parties to the relationship are of the same or different sex):
-    (iii) persons are connected by adoption if 1 person has been adopted as the child of the other person or as a child of a person who is within the third degree of relationship to the other person:
+    (ii) persons are connected by marriage if one person is married to the other person or to a person who is connected by blood relationship to the other person, or if one person has a relationship in the nature of marriage with the other person or with a person who is connected by blood relationship to the other person (whether or not the parties to the relationship are of the same or different sex):
+    (iii) persons are connected by adoption if one person has been adopted as the child of the other person or as a child of a person who is within the third degree of relationship to the other person:
   (b) in the case where B is a company, if A is a director or officer of B, or is associated (within the meaning of paragraph (a)) with a director or officer of B, or is directly or indirectly able to exercise control over the affairs of B:
   (c) in the case where A is a company, if B is a director or officer of A, or is associated (within the meaning of paragraph (a)) with a director or officer of A, or is directly or indirectly able to exercise control over the affairs of A:
   (d) in the case where both A and B are companies,—
@@ -453,7 +452,7 @@ A person who uses a model disclosure statement prescribed by regulations in the 
 ### 39 Limit on interest charges
 (1) The maximum amount of an interest charge that may be imposed or provided for under a consumer credit contract is,—
   (a) in the case of 1 annual interest rate applying to the unpaid balances under the contract, the amount determined by applying the daily interest rate to the unpaid daily balances; or
-  (b) in any other case, the sum of each of the amounts determined by applying each daily interest rate to that part of the unpaid daily balances that it-applies to under the contract.
+  (b) in any other case, the sum of each of the amounts determined by applying each daily interest rate to that part of the unpaid daily balances that it applies to under the contract.
 (2) However, an interest charge under a consumer credit contract for a week, a fortnight, a month, a quarter of a year, or a half of a year may be determined by applying the annual interest rate or rates, divided by 52 (for a week), by 26 (for a fortnight), by 12 (for a month), by 4 (for a quarter of a year), or by 2 (for a half of a year), to the whole or that part of the average unpaid daily balances that it applies to.
 (3) This section does not prevent the imposition, in accordance with the consumer credit contract and section 40, of default interest charges.
 
@@ -470,12 +469,12 @@ A person who uses a model disclosure statement prescribed by regulations in the 
 
 ### 41 Unreasonable credit fee or default fee
 (1) A consumer credit contract must not provide for a credit fee or a default fee that is unreasonable.
-(2) If the Court is satisfied, on the application of the Commission, a debtor, or a guarantor, that a credit fee or default fee is unreasonable, it may order that the fee be annulled or reduced.
-(3) The Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (2).
+(2) If the court is satisfied, on the application of the Commission, a debtor, or a guarantor, that a credit fee or default fee is unreasonable, it may order that the fee be annulled or reduced.
+(3) The court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (2).
 (4) An application for an order may be made within 1 year of the day that the fee is imposed or debited under the consumer credit contract.
 
 ### 42 Establishment fees
-In determining whether an establishment fee is unreasonable, the Court must have regard to—
+In determining whether an establishment fee is unreasonable, the court must have regard to—
   (a) whether the amount of the fee is equal to or less than the creditor's reasonable costs in connection with the application for credit, processing and considering that application, documenting the consumer credit contract, and advancing the credit; or
   (b) whether the amount of the fee is equal to or less than the creditor's average reasonable costs of the matters referred to in paragraph (a) for the appropriate class of consumer credit contract.
 
@@ -484,7 +483,7 @@ In determining whether an establishment fee is unreasonable, the Court must have
 (2) A fee or charge payable on a full prepayment of a consumer credit contract (other than a fee relating to administrative costs) is unreasonable if, and only if, it exceeds a reasonable estimate of the creditor's loss arising from the full prepayment as calculated in accordance with section 54.
 
 ### 44 Other credit fees and default fee
-(1) In determining whether a credit fee or a default fee is unreasonable, the Court must have regard to,—
+(1) In determining whether a credit fee or a default fee is unreasonable, the court must have regard to,—
   (a) in relation to the matter giving rise to the fee, whether the fee reasonably compensates the creditor for the following:
     (i) any cost incurred by the creditor (including the cost of providing a service to the debtor if the fee relates to the provision of a service):
     (ii) a reasonable estimate of any loss incurred by the creditor as a result of the debtor's acts or omissions; and
@@ -575,14 +574,13 @@ A consumer credit insurance contract financed under a consumer credit contract i
 ### 55 Changes on grounds of unforeseen hardship
 (1) A debtor who is unable reasonably, because of illness, injury, loss of employment, the end of a relationship, or other reasonable cause, to meet the debtor's obligations under a consumer credit contract and who reasonably expects to be able to discharge the debtor's obligations if the terms of the contract were changed in a manner set out in section 56 may apply to the creditor to agree to that change.
 (2) For the purposes of this section,—
-  - **de facto partner** , , and have the same meanings as in the Property (Relationships) Act 1976.
+  - **de facto partner** , , and have the same meanings as in the Property (Relationships) Act 1976
   - **end of a relationship** means—
     (a) a situation described in section 25(2)(a) to (d) of the Property (Relationships) Act 1976; or
-    (b) the death of the spouse, civil union partner, or de facto partner of the debtor
-  - **spouse**
+    (b) the death of the spouse, civil union partner, or de facto partner of the debtor.
 
 ### 56 Changes that can be made
-(1) An application by a debtor under section 55 must seek to change the terms of the consumer credit contract in 1 of the following ways:
+(1) An application by a debtor under section 55 must seek to change the terms of the consumer credit contract in one of the following ways:
   (a) extending the term of the contract and reducing the amount of each payment due under the contract accordingly (without a consequential change being made to the annual interest rate or annual interest rates):
   (b) postponing, during a specified period, the dates on which payments are due under the contract (without a consequential change being made to the annual interest rate or annual interest rates):
   (c) extending the term of the contract and postponing, during a specified period, the dates on which payments are due under the contract (without a consequential change being made to the annual interest rate or annual interest rates).
@@ -600,18 +598,18 @@ A consumer credit insurance contract financed under a consumer credit contract i
   (a) subsection (1)(a) does not prevent an application being made if the debtor has remedied the default (to the extent that it can be remedied); and
   (b) subsection (1)(b) does not prevent an application being made if the credit limit is no longer exceeded.
 
-### 58 Changes by Court
-(1) If the creditor does not agree to change the consumer credit contract in accordance with the application, the debtor may apply to the Court to change the terms of the contract.
-(2) The Court may, after allowing the applicant, the creditor, and any guarantor a reasonable opportunity to be heard,—
+### 58 Changes by court
+(1) If the creditor does not agree to change the consumer credit contract in accordance with the application, the debtor may apply to the court to change the terms of the contract.
+(2) The court may, after allowing the applicant, the creditor, and any guarantor a reasonable opportunity to be heard,—
   (a) by order, change the consumer credit contract in a manner set out in section 56; and
   (b) make any other orders it thinks fit.
-(3) The Court may, if it thinks it appropriate in the circumstances, stay any enforcement proceedings under the consumer credit contract, and make any other orders it thinks fit, until the application has been determined.
+(3) The court may, if it thinks it appropriate in the circumstances, stay any enforcement proceedings under the consumer credit contract, and make any other orders it thinks fit, until the application has been determined.
 (4) Subsection (3) does not apply to a Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988.
 
 ### 59 Creditor may apply for variation of change
-(1) A creditor under a consumer credit contract that has been changed by an order under section 58 may apply to the Court for an order varying or revoking the order.
-(2) A creditor subject to a stay of enforcement proceedings or other order under section 58 may apply to the Court for an order varying or revoking the stay or order.
-(3) On an application under this section, the Court may vary or revoke the order or stay to which the application relates as it thinks fit.
+(1) A creditor under a consumer credit contract that has been changed by an order under section 58 may apply to the court for an order varying or revoking the order.
+(2) A creditor subject to a stay of enforcement proceedings or other order under section 58 may apply to the court for an order varying or revoking the stay or order.
+(3) On an application under this section, the court may vary or revoke the order or stay to which the application relates as it thinks fit.
 
 ## Part 3 — Consumer leases, credit-related insurance, and buy-back transactions of land
 
@@ -645,7 +643,7 @@ Sections 32 to 35 apply to disclosure under this subpart.
 
 ### 64 Initial disclosure of consumer lease
 (1) Every lessor under a consumer lease must ensure that disclosure of as much of the information set out in Schedule 2 as is applicable to the lease is made to every lessee under the lease before the lease is made.
-(2) Every lessor under a consumer lease must ensure that a copy of all of the terms of the lease not disclosed under subsection (1) (other than terms implied by law) is given or sent to every lessee under the lease
+(2) Every lessor under a consumer lease must ensure that a copy of all of the terms of the lease not disclosed under subsection (1) (other than terms implied by law) is given or sent to every lessee under the lease—
   (a) before the lease is made; or
   (b) within 5 working days of the day on which the lease is made.
 (3) For the purposes of subsection (2), the copy of the terms of the lease must be given or sent in the same manner that disclosure is made under section 35.
@@ -684,7 +682,7 @@ The amount payable by a lessee on the termination of a consumer lease before the
 (2) A requirement is unreasonable if—
   (a) it is not reasonably necessary for the protection of the legitimate interests of the creditor or lessor; or
   (b) it is not reasonably justifiable in light of the risks undertaken by the parties to the arrangement.
-(3) The Court may, on the application of the Commission or a debtor or lessee, make the following orders if it is satisfied that a creditor or lessor has breached subsection (1):
+(3) The court may, on the application of the Commission or a debtor or lessee, make the following orders if it is satisfied that a creditor or lessor has breached subsection (1):
   (a) order that the insurance, repayment waiver, or extended warranty be annulled on any terms and conditions that it thinks fit:
   (b) order that all or part of the premium or any other amount payable in relation to the insurance, repayment waiver, or extended warranty be reimbursed to the debtor or lessee by the creditor or lessor.
 
@@ -720,19 +718,19 @@ Sections 32 to 35 apply to disclosure under this subpart.
   (b) none of the following applies:
     (i) the transferee carries on the business of providing credit (whether or not the business is the transferee's only business or the transferee's principal business):
     (ii) the transferee carries on the business of entering into buy-back transactions (whether or not the business is the transferee's only business or the transferee's principal business):
-    (iii) the transferee makes a practice of providing credit in the course of a business earned on by the transferee:
-    (iv) the transferee makes a practice of entering into buy-back transactions in the course of a business earned on by the transferee.
+    (iii) the transferee makes a practice of providing credit in the course of a business carried on by the transferee:
+    (iv) the transferee makes a practice of entering into buy-back transactions in the course of a business carried on by the transferee.
 (2) If this section applies,—
   (a) the obligations of the transferee under sections 72 and 73 are to be treated as being imposed on the buy-back promoter (instead of on the transferee); and
   (b) the references in sections 72 and 73 to the transferee are to be read as references to the buy-back promoter.
 (3) The buy-back promoter must ensure that every transferee under the buy-back transaction has received independent legal advice concerning the transaction from a lawyer before entering into any contract or arrangement that forms part of the buy-back transaction.
 (4) For the purposes of this section, independent legal advice means legal advice provided by a lawyer who has no relationship with, or interest in, the buy-back promoter.
 
-### 75 Land cannot be dealt with without leave of Court if initial disclosure not made or no independent legal advice given
+### 75 Land cannot be dealt with without leave of court if initial disclosure not made or no independent legal advice given
 (1) This section applies if the transferee knows, or has reason to believe, that any provision of section 72 or section 73 has not been complied with by any person in connection with the buy-back transaction.
 (2) The transferee must not transfer the estate in the land to a person other than the occupier or otherwise deal with the land without obtaining the leave of the High Court.
 (3) The High Court may grant leave only if it is satisfied that the non-compliance has not materially prejudiced the interests of the occupier.
-(4) The High Court may grant leave subject to any terms and conditions that the Court thinks fit.
+(4) The High Court may grant leave subject to any terms and conditions that the court thinks fit.
 (5) Subsection (2) does not affect the rights under sections 62 to 64, 75, 182, and 183 of the Land Transfer Act 1952 of a person who derives an estate or interest in the land from the transferee.
 
 ### 76 Interest of occupier is caveatable interest
@@ -752,7 +750,7 @@ Section 77 does not apply to a change that reduces the occupier's obligations un
 (1) Every occupier under a buy-back transaction may request in writing that disclosure of any or all of the matters referred to in subsection (2) be made to the occupier by the transferee.
 (2) The matters are as follows:
   (a) the amount, timing, and number of payments to be made under the transaction:
-  (b) full particulars concerning any changes -made to the transaction since the transaction was made:
+  (b) full particulars concerning any changes made to the transaction since the transaction was made:
   (c) a copy of any disclosure statement that was provided or that should have been provided before the date on which the request is made.
 (3) The transferee must comply with the request for disclosure within 15 working days of the later of—
   (a) the date that the request is received by the transferee; or
@@ -763,8 +761,8 @@ Section 77 does not apply to a change that reduces the occupier's obligations un
 
 ### 80 Unreasonable buy-back fees or buy-back default fees
 (1) A buy-back transaction must not provide for a buy-back fee or a buy-back default fee that is unreasonable.
-(2) If the Court is satisfied, on the application of the Commission or an occupier, that a buy-back fee or buy-back default fee is unreasonable, it may order that the fee be annulled or reduced.
-(3) The Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (2).
+(2) If the court is satisfied, on the application of the Commission or an occupier, that a buy-back fee or buy-back default fee is unreasonable, it may order that the fee be annulled or reduced.
+(3) The court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (2).
 (4) An application for an order may be made within 1 year of the day that the fee is imposed or debited under the buy-back transaction.
 
 ### 81 Fees or charges passed on by transferee
@@ -776,8 +774,8 @@ Section 77 does not apply to a change that reduces the occupier's obligations un
 
 ### 82 Unreasonable fees payable to buy-back promoter or associated person
 (1) A buy-back promoter and an associated person of the buy-back promoter must not require the payment of an unreasonable fee in connection with a buy-back transaction.
-(2) If the Court is satisfied, on the application of the Commission, an occupier, or a transferee, that a fee payable to a buy-back promoter or to an associated person of a buy-back promoter is unreasonable, it may order that the fee be annulled or reduced.
-(3) The Court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (2).
+(2) If the court is satisfied, on the application of the Commission, an occupier, or a transferee, that a fee payable to a buy-back promoter or to an associated person of a buy-back promoter is unreasonable, it may order that the fee be annulled or reduced.
+(3) The court may make any other order it thinks fit for the purpose of giving effect to an order under subsection (2).
 (4) An application for an order may be made within 1 year of the day that the fee is imposed or debited.
 
 ### 83 No limit on Part 2
@@ -804,7 +802,7 @@ The High Court may hear and determine the following matters:
 ### 86 Jurisdiction of District Courts
 (1) A District Court may hear and determine proceedings for offences against any of the provisions of this Act.
 (2) A District Court may hear and determine applications for orders under any of the provisions of this Act if—
-  (a) the occasion for the exercise of the power arises in the course of civil proceedings properly before the Court; or
+  (a) the occasion for the exercise of the power arises in the course of civil proceedings properly before the court; or
   (b) in the case of—
     (i) a revolving credit contract that has a credit limit, the credit limit does not exceed $200,000; or
     (ii) any other credit contract, the total of all advances made and agreed to be made under the credit contract does not exceed $200,000; or
@@ -815,15 +813,15 @@ The High Court may hear and determine the following matters:
 (4) For the purposes of section 43 of the District Courts Act 1947, an application made to a District Court for an order under this Act is to be treated as a proceeding.
 
 ### 87 Jurisdiction of Disputes Tribunals
-(1) A Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under sections 41, 69, 80, 82, 90, 93, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $7,500.
-(2) A Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the appropriate Tribunal, the unpaid balance under the consumer credit contract does not exceed $7,500.
+(1) A Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under sections 41, 69, 80, 82, 90, 93, 120, and 122 if the total amount in respect of which an order of the Tribunal is sought is not more than $15,000.
+(2) A Disputes Tribunal established under section 4 of the Disputes Tribunals Act 1988 has jurisdiction to hear and determine applications for orders under sections 58 and 59 if, at the date that the claim is lodged with the appropriate Tribunal, the unpaid balance under the consumer credit contract does not exceed $15,000.
 (3) An order of a Disputes Tribunal under this Act must not—
-  (a) require a person to pay an amount exceeding $7,500:
-  (b) declare a person not liable to another person for an amount exceeding $7,500:
-  (c) vest any property exceeding $7,500 in value in any person:
-  (d) direct the transfer or assignment or delivery of possession of any property exceeding $7,500 in value.
+  (a) require a person to pay an amount exceeding $15,000:
+  (b) declare a person not liable to another person for an amount exceeding $15,000:
+  (c) vest any property exceeding $15,000 in value in any person:
+  (d) direct the transfer or assignment or delivery of possession of any property exceeding $15,000 in value.
 (4) An order of a Tribunal that exceeds any restriction specified in subsection (3) is entirely of no effect.
-(5) If, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunals Act 1988, subsections (1) to (3) are to be read as if every reference in those subsections to $7,500 were a reference to $12,000.
+(5) If, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made under section 13 of the Disputes Tribunals Act 1988, subsections (1) to (3) are to be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 
 ### Subpart 2 — Statutory damages
 
@@ -842,7 +840,7 @@ The High Court may hear and determine the following matters:
     (i) the day on which disclosure was made in accordance with section 24:
     (ii) the date on which the contract comes to an end; and
   (c) in the case of a breach of section 25(1)(a), the lesser of $3,000 or 5% of the total of all advances made and agreed to be made under the consumer credit contracts to which the guarantee applies at the time the guarantee is given; and
-  (d) in the case of any other breach, the lesser of $3,000 or 5 % of,—
+  (d) in the case of any other breach, the lesser of $3,000 or 5% of,—
     (i) in the case of a revolving credit contract, the credit limit at the time of the breach; or
     (ii) in the case of a consumer lease, the cash price of the goods; or
     (iii) in the case of any other consumer credit contract, the total of all advances made and agreed to be made under the contract; or
@@ -852,30 +850,30 @@ The High Court may hear and determine the following matters:
 (4) If a person has breached 2 or more provisions referred to in section 88 in connection with the same consumer credit contract, consumer lease, or buy-back transaction and the breaches occur at or about the same time, the total statutory damages payable for those breaches is equal to the highest statutory damages payable for 1 of those breaches.
 
 ### 90 Enforcement of statutory damages
-(1) The Court may, on the application of the Commission or any party to a consumer credit contract, guarantee, consumer lease, or buy-back transaction, make an order directing a creditor, a lessor, a transferee, or a buy-back promoter to pay any statutory damages that are payable under section 88.
+(1) The court may, on the application of the Commission or any party to a consumer credit contract, guarantee, consumer lease, or buy-back transaction, make an order directing a creditor, a lessor, a transferee, or a buy-back promoter to pay any statutory damages that are payable under section 88.
 (2) An order under subsection (1) may be made whether or not any person has suffered, or is likely to suffer, any loss or damage as a result of the breach referred to in section 88.
 (3) An application under this section may be made at any time within 3 years from the time when the matter giving rise to the application occurred.
 (4) An application by the Commission under this section may be made by the Commission on behalf of a person or a class of persons.
 
 ### 91 Court may reduce statutory damages
-(1) The Court may, on the application of a creditor under a class of consumer credit contract, a lessor under a class of consumer lease, or a transferee or buy-back promoter under a class of buy-back transaction, order that the statutory damages payable in connection with a breach or breaches that affect that class be extinguished or reduced to an amount specified by the Court if the Court considers that it is just and equitable that an order be made.
-(2) Any order under this section may be made on the terms and conditions that the Court thinks fit.
+(1) The court may, on the application of a creditor under a class of consumer credit contract, a lessor under a class of consumer lease, or a transferee or buy-back promoter under a class of buy-back transaction, order that the statutory damages payable in connection with a breach or breaches that affect that class be extinguished or reduced to an amount specified by the court if the court considers that it is just and equitable that an order be made.
+(2) Any order under this section may be made on the terms and conditions that the court thinks fit.
 
 ### 92 Guidelines for reducing statutory damages
-In deciding whether to make an order under section 91 and the terms and conditions applying to an order under that section, the Court must have regard to the following matters:
+In deciding whether to make an order under section 91 and the terms and conditions applying to an order under that section, the court must have regard to the following matters:
   (a) the role that statutory damages have in providing incentives for compliance with this Act:
   (b) whether the creditor or lessor has an appropriate compliance programme:
   (c) the extent of, and the reasons for, the breach or breaches:
   (d) the extent to which any person has been prejudiced by the breach or breaches:
   (e) the extent to which the creditor, lessor, transferee, or buy-back promoter has compensated, or agreed to compensate, the persons who are affected by the breach or breaches:
-  (f) any other matters that the Court thinks fit.
+  (f) any other matters that the court thinks fit.
 
 ### Subpart 3 — Orders, injunctions, and prohibited enforcement
 
 **Court's general power to make orders**
 
 ### 93 Court's general power to make orders
-The Court may make all or any of the orders referred to in section 94 if the Court finds that a person (whether or not that person is a party to any proceedings) has suffered loss or damage by conduct of any creditor, lessor, transferee, buy-back promoter, paid adviser, or broker that constitutes, or would constitute,—
+The court may make all or any of the orders referred to in section 94 if the court finds that a person (whether or not that person is a party to any proceedings) has suffered loss or damage by conduct of any creditor, lessor, transferee, buy-back promoter, paid adviser, or broker that constitutes, or would constitute,—
   (a) a breach of any of the provisions of sections 17 to 82:
   (b) aiding, abetting, counselling, or procuring any other person to breach any of those provisions:
   (c) inducing, or attempting to induce, any other person, whether by threats, promises or otherwise, to breach any of those provisions:
@@ -883,14 +881,14 @@ The Court may make all or any of the orders referred to in section 94 if the Cou
   (e) conspiring with any other person to breach any of those provisions.
 
 ### 94 Court orders
-(1) The types of orders that the Court may make against the person who engaged in the conduct referred to in section 93 are as follows:
+(1) The types of orders that the court may make against the person who engaged in the conduct referred to in section 93 are as follows:
   (a) an order directing the person to refund or credit a payment in accordance with section 48:
   (b) an order directing the person to pay to any person who has suffered loss or damage by that conduct an amount not exceeding the amount of the loss or damage (to the extent that any statutory damages that are to be paid do not adequately compensate the person for the loss or damage):
   (c) an order directing the person to pay exemplary damages to any person who has suffered loss or damage by that conduct:
-  (d) an order for any consequential relief that the Court thinks fit.
-(2) The Court must not make an order under subsection (1)(c) if a penalty has been imposed against the person in relation to the same conduct under section 103.
+  (d) an order for any consequential relief that the court thinks fit.
+(2) The court must not make an order under subsection (1)(c) if a penalty has been imposed against the person in relation to the same conduct under section 103.
 
-### 95 Miscellaneous provisions concerning Court's general power to make orders
+### 95 Miscellaneous provisions concerning court's general power to make orders
 (1) An order under section 93 may be made on the application of the Commission or any party to a consumer credit contract, guarantee, consumer lease, or buy-back transaction.
 (2) An application for an order under section 93 may be made at any time within 3 years from the time when the matter giving rise to the application occurred.
 (3) An application made by the Commission for an order under section 93 may be made on behalf of a person or a class of persons.
@@ -899,31 +897,31 @@ The Court may make all or any of the orders referred to in section 94 if the Cou
 **Injunctions**
 
 ### 96 Injunctions
-(1) The Court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes, or would constitute, any of the following:
+(1) The court may, on the application of the Commission or any other person, grant an injunction restraining a person from engaging in conduct that constitutes, or would constitute, any of the following:
   (a) a breach of any of the provisions of sections 17 to 82:
   (b) any attempt to breach any of those provisions:
   (c) aiding, abetting, counselling, or procuring any other person to breach any of those provisions:
   (d) inducing, or attempting to induce, any other person, whether by threats, promises or otherwise, to breach any of those provisions:
   (e) being in any way, directly or indirectly, knowingly concerned in, or party to, the breach by any other person of any of those provisions:
   (f) conspiring with any other person to breach any of those provisions.
-(2) The Court may rescind or vary an injunction granted under this section.
+(2) The court may rescind or vary an injunction granted under this section.
 (3) An application made by the Commission for the grant of an injunction may be made on behalf of a person or a class of persons.
 
 ### 97 Injunctions restraining conduct of particular kind
-(1) This section applies if an application is made to the Court for the grant of an injunction under section 96 restraining a person from engaging in conduct of a particular kind.
-(2) The Court may grant the injunction—
-  (a) if it is satisfied that the person has engaged in conduct of that kind (whether or not it appears to the Court that the person intends to engage again, or to continue to engage, in conduct of that kind); or
+(1) This section applies if an application is made to the court for the grant of an injunction under section 96 restraining a person from engaging in conduct of a particular kind.
+(2) The court may grant the injunction—
+  (a) if it is satisfied that the person has engaged in conduct of that kind (whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind); or
   (b) if it is satisfied that it is likely that the person will engage in conduct of that kind in the event that an injunction is not granted,—
     (i) whether or not the person has previously engaged in conduct of that kind; and
     (ii) whether or not there is an imminent danger of substantial damage to any person if that person engages in conduct of that kind.
 
 ### 98 Interim injunction
-(1) This section applies if an application is made to the Court for the grant of an interim injunction under section 96 restraining a person from engaging in conduct of a particular kind.
-(2) The Court may grant an interim injunction if the Court is satisfied that it is desirable to do so,—
+(1) This section applies if an application is made to the court for the grant of an interim injunction under section 96 restraining a person from engaging in conduct of a particular kind.
+(2) The court may grant an interim injunction if the court is satisfied that it is desirable to do so,—
   (a) whether or not the person has previously engaged in conduct of that kind; and
   (b) whether or not there is an imminent danger of substantial damage to any person if that person engages in conduct of that kind.
-(3) If the Commission applies to the Court for the grant of an interim injunction, the Court must not, as a condition of granting an interim injunction, require the Commission to give an undertaking as to damages.
-(4) However, in determining the Commission's application for the grant of an interim injunction, the Court must not take into account that the Commission is not required to give an undertaking as to damages.
+(3) If the Commission applies to the court for the grant of an interim injunction, the court must not, as a condition of granting an interim injunction, require the Commission to give an undertaking as to damages.
+(4) However, in determining the Commission's application for the grant of an interim injunction, the court must not take into account that the Commission is not required to give an undertaking as to damages.
 
 **Prohibited enforcement**
 
@@ -957,7 +955,7 @@ If disclosure is required under section 72 or section 77, no person (other than 
 (1) Every creditor, lessor, transferee, or buy-back promoter who breaches any of the provisions of sections 17 to 69, 71 to 74, and 76 to 82 commits an offence and is liable on summary conviction to a fine not exceeding $30,000.
 (2) Every transferee who breaches section 75 commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 1 year or to a fine not exceeding $200,000, or to both.
 (3) Every person who acts in breach of an order made under section 108 commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $30,000, or to both.
-(4) Part 2 of Schedule 1 of the Summary Proceedings Act 1957 is amended by inserting in the appropriate columns and in its appropriate alphabetical order the following item:Credit Contracts and Consumer Finance Act 2003103(2)Dealing with land without leave of the High Court
+(4) Amendment(s) incorporated in the Act(s).
 
 ### 104 Conviction for 2 or more offences
 If a person is convicted, whether in the same or separate proceedings, of 2 or more offences in respect of breaches of the same provisions of this Act and those breaches are of the same or a substantially similar nature and occurred at or about the same time, the total amount of any fines imposed on that person for those convictions must not exceed the amount of the maximum fine that may be imposed in respect of a conviction for a single offence.
@@ -976,7 +974,7 @@ If a person is convicted, whether in the same or separate proceedings, of 2 or m
 (2) For the avoidance of doubt, a mistake does not include a mistake of law or a mistake in the interpretation of any enactment or of any document.
 
 ### 107 Relevance of compliance programme
-The Court must, in determining whether the breach is due to a reasonable mistake, take into account whether the person has in place an appropriate compliance programme.
+The court must, in determining whether the breach is due to a reasonable mistake, take into account whether the person has in place an appropriate compliance programme.
 
 ### Subpart 6 — Prohibition on certain creditors, lessors, transferees, and buy-back promoters
 
@@ -1027,7 +1025,7 @@ The Court must, in determining whether the breach is due to a reasonable mistake
 (1) The Commission may appear and be heard, in person or by a barrister or solicitor, in any proceedings brought (in whole or in part) under this Act in a District Court, the High Court, the Court of Appeal, or the Supreme Court.
 (2) That right applies whether or not the Commission was a party to the proceeding at any earlier stage in the proceedings.
 (3) The Commission has the right to adduce evidence and the right to cross-examine witnesses if the Commission appears under this section, unless the proceedings are by way of appeal.
-(4) This section does not affect the Court's power to make any order (including any order as to costs).
+(4) This section does not affect the court's power to make any order (including any order as to costs).
 
 ### 113 Application of Commerce Act 1986
 The following provisions of the Commerce Act 1986 apply with all necessary modifications:
@@ -1050,7 +1048,7 @@ The following provisions of the Commerce Act 1986 apply with all necessary modif
 Proceedings brought under this Act are in addition to any proceedings brought under any other Act.
 
 ### 115 Disposal of things seized
-(1) In any proceedings relating to any thing seized under warrant, the Court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the Court to be entitled to it, or that it be otherwise disposed of in any manner that the Court thinks fit.
+(1) In any proceedings relating to any thing seized under warrant, the court may order, either at the trial or hearing or on an application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in any manner that the court thinks fit.
 (2) The Commission may, at any time, unless an order has been made under subsection (1), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order for its disposal.
 (3) On any application under subsection (2), the District Court Judge may make any order that a court may make under subsection (1).
 (4) If proceedings relating to the thing are not brought within a period of 3 months of its seizure, any person claiming to be entitled to the thing may, after the expiry of that period, apply to a District Court Judge for an order that it be delivered to him or her.
@@ -1063,12 +1061,12 @@ Proceedings brought under this Act are in addition to any proceedings brought un
   (a) in any case, until the expiration of the time prescribed by the Summary Proceedings Act 1957 for the filing of a notice of appeal or an application for leave to appeal; and
   (b) if a notice of appeal is filed within the time so prescribed, until the determination of the appeal; and
   (c) if application for leave to appeal is filed within the time so prescribed, until the application is determined, and, if leave to appeal is granted, until the determination of the appeal.
-(2) If the operation of any order is suspended until the determination of the appeal, the Court determining the appeal may, by order, cancel or vary the order.
+(2) If the operation of any order is suspended until the determination of the appeal, the court determining the appeal may, by order, cancel or vary the order.
 
 ## Part 5 — Reopening of oppressive credit contracts, consumer leases, and buy-back transactions
 
 ### 117 Application of Part
-This Part applies to—-
+This Part applies to—
   (a) every credit contract (whether or not it is a consumer credit contract); and
   (b) every consumer lease; and
   (c) every buy-back transaction.
@@ -1082,7 +1080,7 @@ In this Act, oppressive means oppressive, harsh, unjustly burdensome, unconscion
 (3) If it is a term of a consumer lease or buy-back transaction that another contract or arrangement be entered into, any part of that other contract or arrangement that relates to the payment of money by a lessee under the consumer lease or by an occupier under a buy-back transaction is to be treated as forming part of the consumer lease or transaction for the purposes of this Part.
 
 ### 120 Reopening of credit contracts, consumer leases, and buy-back transactions
-The Court may reopen a credit contract, a consumer lease, or a buy-back transaction if, in any proceedings (whether or not brought under this Act), it considers that—
+The court may reopen a credit contract, a consumer lease, or a buy-back transaction if, in any proceedings (whether or not brought under this Act), it considers that—
   (a) the contract, lease, or transaction is oppressive; or
   (b) a party has exercised, or intends to exercise, a right or power conferred by the contract, lease, or transaction in an oppressive manner; or
   (c) a party has induced another party to enter into the contract, lease, or transaction by oppressive means.
@@ -1091,28 +1089,28 @@ The Court may reopen a credit contract, a consumer lease, or a buy-back transact
 If a party refuses to agree to the early termination of a credit contract, consumer lease, or buy-back transaction, or to vary or waive any term of a credit contract, consumer lease, or buy-back transaction, or imposes conditions on that agreement, the party is deemed, for the purposes of this Act, to be exercising a right or power under the contract, lease, or transaction.
 
 ### 122 Reopening credit contracts involved in arrangement
-(1) The Court may reopen all or any of the credit contracts involved in an arrangement if,—
+(1) The court may reopen all or any of the credit contracts involved in an arrangement if,—
   (a) with the knowledge of the creditor under a reopened credit contract,—
     (i) credit provided under the reopened credit contract is used (in whole or in part) to pay amounts owing under another credit contract or other credit contracts; or
     (ii) amounts owing under the reopened credit contract were paid from credit provided under another credit contract or other credit contracts; and
   (b) the creditors under the credit contracts are either the same person or related companies.
-(2) Subsection (1) applies whether or not the Court considers that section 120(a) to (c) applies.
+(2) Subsection (1) applies whether or not the court considers that section 120(a) to (c) applies.
 
 ### 123 Time and circumstances relevant to reopening credit contracts, consumer leases, or buy-back transactions
 A credit contract, a consumer lease, a buy-back transaction, a term of a credit contract, a consumer lease, or a buy-back transaction, or an act performed under, or in connection with, a credit contract, a consumer lease, or a buy-back transaction is not oppressive if the contract, lease, transaction, term, or act would not have been considered oppressive at the time, and in the circumstances, that it was made or performed.
 
 ### 124 Guidelines for reopening credit contracts, consumer leases, and buy-back transactions
-In deciding whether section 120 applies and whether to reopen a credit contract, consumer lease, or buy-back transaction, the Court must have regard to—
+In deciding whether section 120 applies and whether to reopen a credit contract, consumer lease, or buy-back transaction, the court must have regard to—
   (a) all of the circumstances relating to the making of the contract, lease, or transaction, or the exercise of any right or power conferred by the contract, lease, or transaction, or the inducement to enter the contract, lease, or transaction (as the case may be); and
   (b) the following matters if they are applicable:
     (i) whether the amount payable by the debtor under the contract, lessee under the lease, or occupier under the transaction is oppressive (whether or not on default by the debtor, lessee, or occupier):
     (ii) if a debtor, lessee, or occupier is in default under the contract, lease, or transaction, whether the time given to the debtor, the lessee, or the occupier to remedy the default is oppressive, having regard to the likelihood of loss to the creditor, lessor, or transferee:
     (iii) if the creditor has required, as a condition of the full prepayment of a credit contract, that the debtor pay a certain amount, whether the amount is oppressive having regard to the expenses of the creditor and the likelihood that the amount repaid can be reinvested on similar terms:
     (iv) if the creditor, lessor, or transferee has refused to release part of any security interest relating to the contract, lease, or transaction, or has agreed to the release subject to conditions, whether the refusal is, or the conditions are, oppressive, having regard to the obligations secured by the security interest and the extent of the security that would remain after the release; and
-  (c) any other matters that the Court thinks fit.
+  (c) any other matters that the court thinks fit.
 
 ### 125 When reopening proceedings may be commenced
-(1) Proceedings seeking the reopening of a credit contract, consumer lease, or buy-back transaction may be commenced in the Court by the Commission, any party to the contract, lease, or transaction, or any guarantor under a guarantee relating to the credit contract, at any time earlier than,—
+(1) Proceedings seeking the reopening of a credit contract, consumer lease, or buy-back transaction may be commenced in the court by the Commission, any party to the contract, lease, or transaction, or any guarantor under a guarantee relating to the credit contract, at any time earlier than,—
   (a) in the case of a buy-back transaction, 3 years after the due date for the performance of the last obligation required to be performed under the transaction; or
   (b) in the case of a contract or lease that is terminated by either party, 1 year after the date on which the contract or lease is terminated; or
   (c) in any other case, 1 year after the due date for the performance of the last obligation required to be performed under the contract or lease.
@@ -1127,34 +1125,34 @@ In deciding whether section 120 applies and whether to reopen a credit contract,
 (6) This section applies despite any other enactment or rule of law.
 
 ### 126 Evidence
-(1) If the Court considers reopening a credit contract, consumer lease, or buy-back transaction under section 120(a), evidence regarding the terms on which credit was available from other persons, goods could be hired from other persons, or land could be sold to other persons at the time the contract, lease, or transaction was made is admissible in evidence.
-(2) If the Court considers reopening a credit contract, consumer lease, or buy-back transaction under section 120(b), evidence regarding the exercise of the rights or powers by other persons at the time the right or power was exercised is admissible in evidence.
-(3) If the Court considers reopening a credit contract, consumer lease, or buy-back transaction under section 120(c), evidence regarding the inducements offered by other persons at the time the inducement was offered is admissible in evidence.
+(1) If the court considers reopening a credit contract, consumer lease, or buy-back transaction under section 120(a), evidence regarding the terms on which credit was available from other persons, goods could be hired from other persons, or land could be sold to other persons at the time the contract, lease, or transaction was made is admissible in evidence.
+(2) If the court considers reopening a credit contract, consumer lease, or buy-back transaction under section 120(b), evidence regarding the exercise of the rights or powers by other persons at the time the right or power was exercised is admissible in evidence.
+(3) If the court considers reopening a credit contract, consumer lease, or buy-back transaction under section 120(c), evidence regarding the inducements offered by other persons at the time the inducement was offered is admissible in evidence.
 
-### 127 Power of Court on reopening credit contract, consumer lease, or buy-back transaction
-(1) If the Court reopens a credit contract, consumer lease, or buy-back transaction, it may make any orders that it thinks necessary to remedy the matters that caused the Court to reopen the contract, lease, or transaction.
-(2) The Court may—
+### 127 Power of court on reopening credit contract, consumer lease, or buy-back transaction
+(1) If the court reopens a credit contract, consumer lease, or buy-back transaction, it may make any orders that it thinks necessary to remedy the matters that caused the court to reopen the contract, lease, or transaction.
+(2) The court may—
   (a) order that an account be taken, and reopen any account already taken, for any transaction between the parties; or
   (b) vest in any party, or direct any party to transfer or assign to any other party or to deliver to any other party the possession of, the whole or any part of any property that is the subject of the credit contract, consumer lease, or buy-back transaction or that is the whole or part of the consideration for it; or
-  (c) direct any party to pay to any other party any sum that the Court thinks fit; or
+  (c) direct any party to pay to any other party any sum that the court thinks fit; or
   (d) order that any obligation outstanding under the credit contract, consumer lease, or buy-back transaction be extinguished, revised, altered, complied with, or performed; or
   (e) order that the credit contract, consumer lease, or buy-back transaction, or any term of the contract, lease, or transaction, or any security interest in connection with the contract, lease, or transaction, be set aside (in whole or in part) or revised or altered; or
   (f) if a party has parted with any property that is the subject of a security interest in connection with the credit contract, consumer lease, or buy-back transaction, order him or her to indemnify the other party or parties; or
   (g) direct any party to do or refrain from doing any act or thing in relation to any other party.
 (3) Subsection (2) does not limit subsection (1).
-(4) Any order may be made on any terms and conditions that the Court thinks fit.
+(4) Any order may be made on any terms and conditions that the court thinks fit.
 
 ### 128 Costs in consumer cases
-(1) In any proceedings under this Part, the Court may, if it has reopened a consumer credit contract, consumer lease, or buy-back transaction, make an order for the payment by any party to the proceedings of the whole or any part of the full costs incurred in connection with the proceedings by any other party to the proceedings.
+(1) In any proceedings under this Part, the court may, if it has reopened a consumer credit contract, consumer lease, or buy-back transaction, make an order for the payment by any party to the proceedings of the whole or any part of the full costs incurred in connection with the proceedings by any other party to the proceedings.
 (2) The costs so awarded are recoverable as a debt due by the party against whom they have been awarded to the party in whose favour they have been awarded.
 (3) This section is subject to section 87.
 
 ### 129 Persons who share in profits or have beneficial interest in reopened credit contract, consumer lease, or buy-back transaction
-(1) If it appears to the Court that any person has shared in the profits of, or has any beneficial interest in (whether prospective or otherwise), a reopened credit contract, consumer lease, or buy-back transaction (whether or not the person is a party to the contract, lease, or transaction), the Court may make any orders concerning that person that it thinks fit.
+(1) If it appears to the court that any person has shared in the profits of, or has any beneficial interest in (whether prospective or otherwise), a reopened credit contract, consumer lease, or buy-back transaction (whether or not the person is a party to the contract, lease, or transaction), the court may make any orders concerning that person that it thinks fit.
 (2) This section does not limit section 127.
 
-### 130 Time of exercise of Court's powers
-The powers of the Court may be exercised whether or not—
+### 130 Time of exercise of court's powers
+The powers of the court may be exercised whether or not—
   (a) the time for performance of any term of the credit contract, consumer lease, or buy-back transaction has arrived:
   (b) any statement or settlement of account relating to the credit contract, consumer lease, or buy-back transaction has been given:
   (c) any agreement purporting to end the credit contract, consumer lease, or buy-back transaction has been made:
@@ -1175,7 +1173,7 @@ Nothing in this Part limits section 41 or section 80 or section 82.
 
 ### 134 Right to set-off
 (1) A creditor, lessor, or transferee may set-off any entitlement of a debtor, guarantor, lessee, or occupier to statutory damages or to an amount that must be paid to a debtor, guarantor, lessee, or occupier under an order made under section 93 against any amount otherwise owing by the debtor, guarantor, lessee, or occupier to the creditor, lessor, or transferee.
-(2) Subsection (1) is subject to any order of the Court.
+(2) Subsection (1) is subject to any order of the court.
 
 ### 135 No contracting out
 (1) This Act has effect despite any provision to the contrary in any credit contract, guarantee, consumer lease, or buy-back transaction.
@@ -1253,30 +1251,20 @@ The following enactments are repealed:
   (d) the Credit Contracts Act 1981 and the Hire Purchase Act 1971 continue to have effect as if the election had not been made for the purpose of completing the matter or thing or the bringing or completion of proceedings that relate to a right, interest, title, immunity, or duty that existed immediately before the election takes effect.
 
 ### 143 Continuing application of Credit Contracts Act 1981 and Hire Purchase Act 1971
-(1) If this Act does not apply to a credit contract, hire purchase agreement, or guarantee made before the commencement of this section, or to any act, omission, right, interest, title, immunity, or duty in connection with that contract, agreement, or guarantee, then the Credit Contracts Act 1981 and the Hire Purchase Act 1971 (as in force immediately before the commencement of this section) continue to apply to the contract, agreement, or guarantee or to the act, omission, right, interest, title, immunity, or duty as if they were still in force.
+(1) If this Act does not apply to a credit contract, hire purchase agreement, or guarantee made before the commencement of this section, or to any act, omission, right, interest, title, immunity, or duty in connection with that contract, agreement, or guarantee, then the Credit Contracts Act 1981 and the Hire Purchase Act 1971 continue to apply to the contract, agreement, or guarantee or to the act, omission, right, interest, title, immunity, or duty as if they were still in force.
 (2) For the purposes of subsection (1), Part 2 of Schedule 1 of the Disputes Tribunals Act 1988 is to be read as if it includes references to the Credit Contracts Act 1981 and the Hire Purchase Act 1971.
+(2A) The references in subsection (1) to the Credit Contracts Act 1981 and the Hire Purchase Act 1971 are references to those Acts as in force immediately before the commencement of this section, except that references in section 45A of the Credit Contracts Act 1981 and section 47A of the Hire Purchase Act 1971 to $7,500 and $12,000 must be treated as references to $15,000 and $20,000 respectively.
 (3) In this section,—
   - **credit contract** has the same meaning as in the Credit Contracts Act 1981 (as in force immediately before the commencement of this section)
   - **hire purchase agreement** has the same meaning as in the Hire Purchase Act 1971 (as in force immediately before the commencement of this section).
 
 ## Schedule 1 — Key information concerning consumer credit contract
 
+| “Statement of right to cancel |
+| --- |
+
 ## Schedule 2 — Information concerning consumer lease
 
 ## Schedule 3 — Information concerning buy-back transactions of land
 
 ## Schedule 4 — Acts amended
-
-### 36A Voluntary return of goods
-(1) A secured credit sale agreement is terminated by the return of the consumer goods comprised in the agreement if they are returned—
-  (a) in accordance with any term of the agreement that permits the debtor to return the goods and terminate the agreement; or
-  (b) by the debtor for the purpose of terminating the agreement and the creditor agrees to the termination of the agreement.
-(2) Subject to section 36B, if a secured credit sale agreement is terminated under subsection (1), the rights and liabilities of the creditor and the debtor are to be determined as if the consumer goods had been repossessed by the creditor on the date that they were returned by the debtor.
-(3) Nothing in this section or section 36B limits or affects any right that the debtor has apart from this section to terminate a secured credit sale agreement.
-
-### 36B Various effects of voluntary return of goods
-(1) If a secured credit sale agreement fixes or provides for the fixing of the amount (if any) to be paid by the debtor in the case of the voluntary termination of the agreement by the debtor, the amount (if any) that the creditor is entitled to recover from the debtor must not exceed that amount.
-(2) The creditor must, unless the creditor elects to regard the goods as still having a value that is not less than 80% of the cash price, sell the consumer goods in accordance with section 26, and sections 33 to 35 apply accordingly with any modifications that are necessary.
-(3) If the creditor elects to regard the goods as having a value that is not less than 80% of the cash price, the creditor must, within 14 days of the termination of the agreement, serve on the debtor a statement in accordance with section 33, which must set out, instead of the items mentioned in section 33(a) and (b), the value which the creditor attributes to the consumer goods.
-(4) Except to the extent that sections 7 to 36 are specifically applied by this section or need to be applied in order to determine whether, following the termination of a secured credit sale agreement as provided in section 36A, there is a balance owing by the creditor to the debtor or by the debtor to the creditor, nothing in those sections (other than section 34(2)), applies to the voluntary return to the creditor by the debtor of the consumer goods comprised in a secured credit sale agreement if that return results in the termination of the agreement as provided in section 36A.
-(5) The provisions of this section and of sections 7 to 36 do not apply to the consumer goods comprised in any secured credit sale agreement if the parties to that agreement subsequently enter into a written agreement for the voluntary return of those goods which excludes those provisions, and the debtor has had, before making the agreement for the voluntary return of the goods, professional and independent advice as to the legal implications of that agreement.
