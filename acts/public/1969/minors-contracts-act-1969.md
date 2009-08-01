@@ -1,5 +1,5 @@
 # Minors' Contracts Act 1969
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-08-01_
 
 > An Act to restate and reform the law relating to minors' contracts
 
@@ -131,13 +131,13 @@ Every contract of guarantee or indemnity whereby any person (other than a minor)
 ### 14A Jurisdiction of Disputes Tribunals
 (1) A Disputes Tribunal established under the Disputes Tribunals Act 1988 shall have jurisdiction to exercise the powers conferred by any of the provisions of sections 5 to 7 of this Act in any case where—
   (a) The occasion for the exercise of the power arises in the course of proceedings properly before that Tribunal; and
-  (b) Subject to subsection (3) of this section, the total amount in respect of which an order of the Tribunal is sought does not exceed $7,500.
+  (b) Subject to subsection (3) of this section, the total amount in respect of which an order of the Tribunal is sought does not exceed $15,000.
 (2) Subject to subsection (3) of this section, an order of a Disputes Tribunal under section 7 of this Act shall not—and an order of a Tribunal that exceeds any such restriction shall be entirely of no effect.
-  (a) Require a person to pay an amount exceeding $7,500:
-  (b) Declare a person not liable to another for an amount exceeding $7,500:
-  (c) Vest any property exceeding $7,500 in value in any person:
+  (a) Require a person to pay an amount exceeding $15,000:
+  (b) Declare a person not liable to another for an amount exceeding $15,000:
+  (c) Vest any property exceeding $15,000 in value in any person:
   (d) Direct the transfer or assignment or delivery of possession of any such property—
-(3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsections (1) and (2) of this section shall be read as if every reference in those subsections to $7,500 were a reference to $12,000.
+(3) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsections (1) and (2) of this section shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 
 ### 15 Act to be a code
 (1) The provisions of this Act shall have effect in place of the rules of the common law and of equity relating to the contractual capacity of minors and to the effect, validity, avoidance, repudiation, and ratification of contracts entered into by minors and to any contract of guarantee or indemnity in respect of any such contract.
