@@ -1,5 +1,5 @@
 # Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-08-01_
 
 ### 1 Title
 (1) This Act is the Land Transfer (Computer Registers and Electronic Lodgement) Amendment Act 2002.
@@ -868,10 +868,7 @@ The principal Act is amended by repealing sections 239 and 240, and substituting
 (5) Despite section 21 of this Act and section 69 of the principal Act, the recording of an easement certificate specifying any easement to be created under this section must be regarded as complying with those sections (so far as they are applicable).
 
 ### 67 Transitional provisions relating to landbrokers
-(1) This section applies to persons who, immediately before the commencement of this section, held a licence as a landbroker under section 229 of the principal Act.
-(2) Despite the repeal of sections 229 to 234 and Schedule 6 of the principal Act by section 64(1), those sections of the principal Act continue to apply to persons to whom this section applies until the close of the appointed date.
-(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, declare the appointed date for the purposes of subsection (2).
-(4) The Minister must not make a recommendation under subsection (3) unless he or she is satisfied that persons to whom this section applies are eligible to be licensed under an enactment providing for the licensing of conveyancers.
+[Repealed]
 
 ## Schedule 1 — Other amendments to principal Act coming into force on 1 June 2002
 
