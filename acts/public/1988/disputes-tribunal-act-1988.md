@@ -1,5 +1,5 @@
 # Disputes Tribunals Act 1988
-_Consolidation as at 2007-10-18_
+_Consolidation as at 2009-08-01_
 
 > An Act to consolidate and amend the Small Claims Tribunals Act 1976
 
@@ -116,17 +116,17 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
 
 ### 10 Jurisdiction of Tribunals
 (1) Subject to this section and to sections 11 and 12 of this Act, a Tribunal shall have jurisdiction in respect of—
-  (a) A claim founded on contract or quasi-contract; and
-  (b) A claim for a declaration that a person is not liable to another person in respect of a claim or demand, founded on contract or quasi-contract, made against that person by that other person; and
-  (c) A claim in tort in respect of—
-    (i) The destruction or loss of any property:
-    (ii) Any damage or injury to any property:
-    (iii) The recovery of any property.
+  (a) a claim founded on contract or quasi-contract; and
+  (b) a claim for a declaration that a person is not liable to another person in respect of a claim or demand, founded on contract or quasi-contract, made against that person by that other person; and
+  (c) a claim in tort in respect of—
+    (i) the destruction or loss of any property:
+    (ii) any damage or injury to any property:
+    (iii) the recovery of any property.
 (1A) A Tribunal has jurisdiction to exercise any power conferred on a Court by any enactment listed in Part 1 of Schedule 1 if—
   (a) the occasion for the exercise of the power arises in the course of proceedings properly before the Tribunal; and
-  (b) subject to section 13, the total amount in respect of which an order of the Tribunal is sought does not exceed $7,500.
+  (b) subject to section 13, the total amount in respect of which an order of the Tribunal is sought does not exceed $15,000.
 (2) A Tribunal shall have such other jurisdiction as is conferred upon it by any of the enactments specified in Part 2 of Schedule 1.
-(3) Subject to section 13 of this Act, for the purposes of subsection (1) of this section, a claim is within the jurisdiction of a Tribunal only if the total amount in respect of which an order of the Tribunal is sought does not exceed $7,500, including,—
+(3) Subject to section 13 of this Act, for the purposes of subsection (1) of this section, a claim is within the jurisdiction of a Tribunal only if the total amount in respect of which an order of the Tribunal is sought does not exceed $15,000, including,—
   (a) Where a claim is made for the recovery of property, the value of that property; and
   (b) Where a claim is made for a work order, the value of the work sought to be included in the order.
 (4) If it is necessary for the purposes of this Act to ascertain the value of any property or work or to resolve any dispute as to such value (whether for the purposes of subsection (3) of this section or otherwise), that value shall be determined by the Tribunal in such manner as it thinks fit, and the Tribunal may, for that purpose, appoint an Investigator to report to it under section 41 of this Act.
@@ -166,14 +166,14 @@ There shall be paid to every Referee, out of money appropriated by Parliament fo
 
 ### 13 Extension of jurisdiction by agreement between the parties
 (1) If, but for the amount or value of the subject-matter claimed or in issue, a claim would be within the jurisdiction conferred by section 10(1), (1A), or (2), and the parties, by memorandum signed by them or by their respective agents, agree that a Tribunal shall have jurisdiction to hear and determine the claim, a Tribunal shall, notwithstanding anything in subsection (3) of that section or in any other enactment, but subject to subsection (2) of this section, have jurisdiction to hear and determine the claim.
-(2) No agreement made pursuant to subsection (1) of this section may confer jurisdiction on a Tribunal to hear and determine any claim where the total amount in respect of which an order of the Tribunal is sought exceeds $12,000, including,—
+(2) No agreement made pursuant to subsection (1) of this section may confer jurisdiction on a Tribunal to hear and determine any claim where the total amount in respect of which an order of the Tribunal is sought exceeds $20,000, including,—
   (a) Where a claim is made for the recovery of any property, the value of that property; and
   (b) Where a claim is made for a work order, the value of the work sought to be included in that order.
 (3) An agreement may be made pursuant to subsection (1) of this section either before a claim is lodged under section 24 of this Act, or, where a claim has been so lodged, at any time before the Tribunal has approved an agreed settlement in respect of the claim or, as the case may require, determined the claim under section 18 of this Act.
 (4) Where, in respect of any claim, the applicant has abandoned part of the claim under section 14 of this Act, and the parties subsequently make an agreement pursuant to subsection (1) of this section, then, subject to subsection (2) of this section, the claim shall be heard and determined as if that abandonment had not been made.
 
 ### 14 Abandonment to bring claim within jurisdiction
-A person may abandon so much of a claim as exceeds $7,500 in order to bring the claim within the jurisdiction of a Tribunal; and in that event the approval of an agreed settlement under section 18(3) of this Act or, as the case may require, an order of the Tribunal under this Act or any other enactment, in relation to the claim, shall operate to discharge from liability in respect of the amount so abandoned any other person—
+A person may abandon so much of a claim as exceeds $15,000 in order to bring the claim within the jurisdiction of a Tribunal; and in that event the approval of an agreed settlement under section 18(3) of this Act or, as the case may require, an order of the Tribunal under this Act or any other enactment, in relation to the claim, shall operate to discharge from liability in respect of the amount so abandoned any other person—
   (a) Who is a party to that agreed settlement; or
   (b) Against whom the claim and the subsequent order are made.
 
@@ -225,13 +225,13 @@ A cause of action shall not be divided into 2 or more claims for the purpose of 
 (3) Where a Tribunal makes a work order against a party, it shall, where the order is made under section 18(8) or section 46(2) of this Act, at the same time make an order under subsection (1)(a) of this section to be complied with as an alternative to compliance with the work order.
 (4) Subject to section 20 of this Act, a Tribunal shall not make an order under this Act that exceeds any of the monetary restrictions specified in subsection (5) of this section, and any order that exceeds any such restriction shall be entirely of no effect.
 (5) Subject to subsection (7) of this section, the monetary restrictions that apply for the purposes of subsection (4) of this section are as follows:
-  (a) An order under subsection (1)(a) of this section or under section 47(3)(b) of this Act shall not require payment of money exceeding $7,500:
-  (b) A declaration under subsection (1)(b) of this section shall not relate to a claim or demand exceeding $7,500:
-  (c) An order under subsection (1)(c) of this section shall not relate to any property exceeding $7,500 in value:
-  (d) The work to be done or matters to be attended to under a work order shall not exceed $7,500 in value:
-  (e) An order under paragraph (e) or paragraph (f) of subsection (1) of this section shall not be made in respect of an agreement if the total amount in respect of which an order of the Tribunal is sought exceeds $7,500.
-(6) Except as provided in subsection (3) of this section, and subject to subsection (7) of this section, a Tribunal shall not, in respect of a claim, make more than one of the orders authorised by paragraphs (a) to (d) of subsection (1) of this section, or by any other enactment, if the aggregate amount or value of those orders exceeds $7,500, and every order so made contrary to this subsection shall be entirely of no effect.
-(7) Where, in respect of any claim, the jurisdiction of a Tribunal has been extended under an agreement made pursuant to section 13 of this Act, subsections (5) and (6) of this section shall be read as if every reference in those subsections to $7,500 were a reference to $12,000.
+  (a) An order under subsection (1)(a) of this section or under section 47(3)(b) of this Act shall not require payment of money exceeding $15,000:
+  (b) A declaration under subsection (1)(b) of this section shall not relate to a claim or demand exceeding $15,000:
+  (c) An order under subsection (1)(c) of this section shall not relate to any property exceeding $15,000 in value:
+  (d) The work to be done or matters to be attended to under a work order shall not exceed $15,000 in value:
+  (e) An order under paragraph (e) or paragraph (f) of subsection (1) of this section shall not be made in respect of an agreement if the total amount in respect of which an order of the Tribunal is sought exceeds $15,000.
+(6) Except as provided in subsection (3) of this section, and subject to subsection (7) of this section, a Tribunal shall not, in respect of a claim, make more than one of the orders authorised by paragraphs (a) to (d) of subsection (1) of this section, or by any other enactment, if the aggregate amount or value of those orders exceeds $15,000, and every order so made contrary to this subsection shall be entirely of no effect.
+(7) Where, in respect of any claim, the jurisdiction of a Tribunal has been extended under an agreement made pursuant to section 13 of this Act, subsections (5) and (6) of this section shall be read as if every reference in those subsections to $15,000 were a reference to $20,000.
 (8) Nothing in subsection (1) of this section shall restrict the making by a Tribunal of any order that it is authorised to make by any other enactment.
 
 ### 20 Power of Tribunal to award interest
