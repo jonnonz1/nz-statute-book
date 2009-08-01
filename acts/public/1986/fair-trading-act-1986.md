@@ -1,5 +1,5 @@
 # Fair Trading Act 1986
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-08-01_
 
 > An Act to prohibit certain conduct and practices in trade, to provide for the disclosure of consumer information relating to the supply of goods and services and to promote product safety and also to repeal the Consumer Information Act 1969 and certain other enactments
 
@@ -440,11 +440,11 @@ In accordance with this Part of this Act, a Disputes Tribunal established under 
   (e) Make an order under subsection (2)(e) of this section directing a person to repair goods or provide parts for goods where the value of the work required to repair the goods, or the value of the parts, as the case may be, exceeds $200,000:
   (f) Make an order under subsection (2)(f) of this section directing a person to supply services where the value of the services exceeds $200,000.
 (4) Subject to subsection (4A) of this section, in the exercise of its jurisdiction under this section a Disputes Tribunal shall not—
-  (a) Make an order under subsection (2)(c) of this section directing a person to refund money or return property where the amount of money or the value of the property exceeds $7,500:
-  (b) Make an order under subsection (2)(d) of this section requiring a person to pay an amount exceeding $7,500:
-  (c) Make an order under subsection (2)(e) of this section directing a person to repair goods or provide parts for goods where the value of the work required to repair the goods, or the value of the parts, as the case may be, exceeds $7,500:
-  (d) Make an order under subsection (2)(f) of this section directing a person to supply services where the value of the services exceeds $7,500.
-(4A) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsection (4) of this section shall be read as if every reference in that subsection to $7,500 were a reference to $12,000.
+  (a) Make an order under subsection (2)(c) of this section directing a person to refund money or return property where the amount of money or the value of the property exceeds $15,000:
+  (b) Make an order under subsection (2)(d) of this section requiring a person to pay an amount exceeding $15,000:
+  (c) Make an order under subsection (2)(e) of this section directing a person to repair goods or provide parts for goods where the value of the work required to repair the goods, or the value of the parts, as the case may be, exceeds $15,000:
+  (d) Make an order under subsection (2)(f) of this section directing a person to supply services where the value of the services exceeds $15,000.
+(4A) Where, in respect of any proceedings properly before a Disputes Tribunal, the jurisdiction of the Tribunal has been extended under an agreement made pursuant to section 13 of the Disputes Tribunals Act 1988, subsection (4) of this section shall be read as if every reference in that subsection to $15,000 were a reference to $20,000.
 (5) An application under subsection (1) may be made at any time within 3 years after the date on which the loss or damage, or the likelihood of loss or damage, was discovered or ought reasonably to have been discovered.
 (6) An order made under subsection (2)(a) or (b) of this section shall not prevent proceedings being instituted or commenced under this Part of this Act.
 (7) Nothing in this section limits or affects the Illegal Contracts Act 1970.
