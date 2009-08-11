@@ -1,5 +1,5 @@
 # Road User Charges Act 1977
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-08-11_
 
 > An Act to impose a charge for the use of roads by heavy vehicles and certain other vehicles; and to abolish mileage tax and heavy-traffic licensing
 
@@ -30,6 +30,7 @@ _Consolidation as at 2008-10-01_
   - **Issuing officer** means any person or member of a class of persons authorised by the chief executive to act as an issuing officer for the purposes of this Act
   - **Licence** means a distance licence, a time licence, or a supplementary licence
   - **Licence category**
+  - **light electric motor vehicle** means a motor vehicle whose motive power is wholly or partly derived from an external source of electricity and whose gross laden weight is 3.5 tonnes or less
   - **Maximum gross weight** , in relation to a licence, means the weight specified in the licence as the maximum gross weight
   - **Maximum reading** , in relation to a distance licence or a supplementary licence, means the figure specified in the licence as the maximum reading
   - **Minimum reading** , in relation to a distance licence or a supplementary licence, means the figure specified in the licence as the minimum reading
@@ -284,6 +285,7 @@ A District Court Judge may, instead of holding an inquiry and making an assessme
 
 ### 20 Power to alter rates of road user charges by Order in Council
 (1) The Governor-General may from time to time, by Order in Council, reduce or increase any or all of the rates of road user charges specified in Schedule 3 to this Act.
+(1A) An Order in Council made under this section that increases all or any of the rates of road user charges specified in Schedule 3 comes into force 42 days after the date of its notification in the Gazette, or on any later date that may be specified in the order.
 (2) Every Order in Council made under this section shall be laid before the House of Representatives not later than the sixteenth sitting day of the House of Representatives after the day on which it is made.
 (3) Every Order in Council made under this section shall,—
   (a) Where the Order in Council is made on or before the 30th day of June in any year, expire on the close of the 31st day of December of that year except so far as it is expressly validated or confirmed by Act of Parliament passed during that year; and
@@ -293,8 +295,9 @@ A District Court Judge may, instead of holding an inquiry and making an assessme
 (6) Every application under subsection (5) of this section shall be in a form provided for the purpose by the chief executive, and shall contain such information as the chief executive considers necessary to enable the refund to be made in accordance with this section.
 (7) The repeal of any Act of Parliament passed for the purpose of expressly validating or confirming any Orders in Council pursuant to subsection (3) of this section shall not, unless there is any express provision to the contrary, affect the validity or confirmation of those Orders in Council.
 
-### 21 Distance and supplementary licences become invalid 1 month after road user charge altered
-[Repealed]
+### 21 Distance and supplementary licences for certain motor vehicles become invalid 1 month after road user charge rate increased
+(1) This section applies if a road user charge rate specified in Schedule 3 is increased under section 20 or by any other Act.
+(2) Despite any other provision of this Act, a distance licence or supplementary licence for a motor vehicle whose gross laden weight is more than 3.5 tonnes issued before the increase comes into force is no longer valid after the expiry of 1 month from the date of the increase.
 
 ### 21A Additional charges for default in payment of amounts due
 (1) Subject to subsection (3) of this section, if any debt due to the Crown by virtue of this Act (being a road user charge, administration fee, assessment under section 18C or section 18D of this Act, amount payable under section 8(3) of this Act, or part thereof) is not paid to the Crown within 3 months of the date it first becomes due, an amount calculated in accordance with subsection (2) of this section shall be added to the debt by way of an additional charge and may be recovered accordingly by the Crown from the person who owed the debt in any Court of competent jurisdiction.
@@ -421,8 +424,12 @@ All road user charges (excluding applicable refunds, and goods and services tax 
   (e) Requiring motor vehicles, or any class or classes of motor vehicles, to be fitted with hubodometers from specified dates; prescribing the types of hubodometers to be fitted and the manner of fitting and maintenance; regulating the replacement of hubodometers; and prohibiting or restricting, for the purposes of this Act, certain actions in respect of hubodometers:
   (f) Requiring every person who issues a certificate of fitness or a warrant of fitness, or evidence of vehicle inspection under the Land Transport Act 1998, for a motor vehicle to report to the chief executive the reading of the motor vehicle's distance recorder at the time of issue of the certificate or warrant:
   (g) Regulating the endorsement of licences for the purposes of section 7 of this Act:
+  (ga) prescribing for the purposes of section 4(c), motor vehicles (including light electric motor vehicles) that are exempt from this Part:
   (h) Prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act; and prescribing the fines, not exceeding $3,000, that may be imposed in respect of any such offence:
   (i) Providing for such other matters, not inconsistent with this Act, as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+(1A) Regulations made under subsection (1)(ga) relating to light electric motor vehicles—
+  (a) must specify a date on which the exemption expires; and
+  (b) may, from time to time, be amended to provide for a later date.
 (2) The Governor-General may from time to time, by Order in Council, add to or omit from any of the categories specified in Schedule 2 to this Act any class of motor vehicle; and every reference in this Act to Schedule 2 to this Act shall be construed as a reference to that Schedule with any alterations made by any Order in Council for the time being in force under this subsection.
 
 ## Part 2 — Amendments to other Acts
