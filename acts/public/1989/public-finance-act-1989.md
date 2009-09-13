@@ -1,5 +1,5 @@
 # Public Finance Act 1989
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-09-13_
 
 > An Act to amend the law governing the use of public financial resources and to that end to—aProvide a framework for Parliamentary scrutiny of the Government's management of the Crown's assets and liabilities, including expenditure proposals; andbEstablish lines of responsibility for the use of public financial resources; andcEstablish financial management incentives to encourage effective and efficient use of financial resources in departments and Crown entities; anddSpecify the minimum financial reporting obligations of the Crown, departments, and Crown entities; andeSafeguard public assets by providing statutory authority and control for the raising of loans, issuing of securities, giving of guarantees, operation of bank accounts, and investment of funds
 
@@ -1139,7 +1139,7 @@ Despite anything in the State Sector Act 1988, the Minister must not delegate th
   (d) any other agency or body corporate that is controlled or wholly owned by the Crown.
 (2) However, this section does not apply in relation to—
   (a) any sum the Crown is liable to contribute under any Act; or
-  (b) any sum the Crown is liable to contribute under any guarantee or indemnity given by the Minister under section 65ZD; or
+  (b) any sum the Crown is liable to contribute under any guarantee or indemnity given by the Minister under section 65ZD or the Crown Retail Deposit Guarantee Scheme Act 2009; or
   (c) any sum the Crown is liable to pay a creditor of a Crown entity, Crown subsidiary, other agency, or other body corporate, by virtue of a cause of action that the creditor has against the Crown; or
   (d) any sum the Crown is liable to pay to a creditor of the Reserve Bank of New Zealand.
 
@@ -1310,7 +1310,7 @@ Except as expressly authorised by any Act, the Crown must not issue securities (
     (i) must be paid without further authority than this section; and
     (ii) must be paid from a Crown Bank Account; and
   (b) all borrowing expenses incurred under a public security may be incurred without further appropriation, and must be paid without further authority, than this section.
-(2) In this section and section 65E, public security does not include a guarantee or indemnity given under section 65ZD.
+(2) In this section and section 65E, public security does not include a guarantee or indemnity given under section 65ZD or the Crown Retail Deposit Guarantee Scheme Act 2009.
 
 ### 65E Expenses in respect of securities
 (1) Any expenses incurred in connection with any of the following functions may be incurred without further appropriation, and must be paid without further authority, than this section:
