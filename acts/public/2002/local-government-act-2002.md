@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-09-23_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -4217,6 +4217,8 @@ In deciding whether or not to constitute a community, the territorial authority 
   (b) chairpersons of committees of local authorities:
   (c) chairpersons and members of community boards:
   (d) chairpersons of committees of community boards.
+  (e) chairpersons and members of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009):
+  (f) chairpersons of committees of local boards (as defined in section 4(1) of the Local Government (Auckland Council) Act 2009).
 (2) The Remuneration Authority may do 1 or more of the following things under subclause (1):
   (a) fix—
     (i) scales of salaries:
