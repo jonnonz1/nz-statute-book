@@ -1,5 +1,5 @@
 # Local Government (Tamaki Makaurau Reorganisation) Act 2009
-_Consolidation as at 2009-05-23_
+_Consolidation as at 2009-09-23_
 
 ### 1 Title
 This Act is the Local Government (Tamaki Makaurau Reorganisation) Act 2009.
@@ -116,6 +116,7 @@ This Act is repealed on the close of 1 November 2010.
   (c) to report to the Minister,—
     (i) at regular intervals, on progress in relation to the reorganisation and on the matters referred to in clause 15 of the Schedule; and
     (ii) at the end of the transition period, by submitting a final report on its affairs for presentation to the House of Representatives (together with the financial statements required by section 45J of the Public Finance Act 1989):
+  (ca) to approve a process for, and oversee, the planning and management of the integration of Auckland's water supply and wastewater services by Watercare Services Limited (acting under section 30A):
   (d) to provide information to existing local government organisations and their employees in relation to the reorganisation:
   (e) to provide information to the public of Auckland, or any section of that public, as it thinks fit, in relation to the reorganisation:
   (f) to second employees from any existing local government organisation to the Transition Agency:
@@ -124,6 +125,7 @@ This Act is repealed on the close of 1 November 2010.
     (ii) appointing a chief executive for an existing local authority under section 16; and
     (iii) appointing an interim chief executive for the Auckland Council under section 17; and
     (iv) assisting and supporting the interim chief executive of the Auckland Council in carrying out his or her responsibilities under section 18 (and, in certain circumstances, carrying out those responsibilities under section 19); and
+    (iva) preparing a planning document for the Auckland Council for the period 1 November 2010 to 30 June 2011 in accordance with section 19A; and
     (v) reviewing, under section 20, a decision made by, or on behalf of, an existing local government organisation or any item on the agenda for a meeting of an existing local government organisation (or any committee of an existing local government organisation) to be held during the transition period; and
     (vi) confirming a decision made by an existing local government organisation under section 21.
 (2) Without limiting subsection (1)(a), the Transition Agency must—
@@ -138,10 +140,14 @@ This Act is repealed on the close of 1 November 2010.
 (4) An employee of an existing local government organisation who is seconded to the Transition Agency under subsection (1)(f) continues to be employed and remunerated—
   (a) by the existing local government organisation; and
   (b) on terms and conditions that are agreed between the Transition Agency, the existing local government organisation, and the employee.
+(5) Nothing in subsection (1)(ca) applies to stormwater drainage services.
 
 ### 14 Appointment of electoral officer for October 2010 triennial general elections
 (1) No later than 31 October 2009, the Transition Agency must appoint an electoral officer for Auckland to exercise the powers and carry out the duties conferred on an electoral officer by the Local Electoral Act 2001 and any other enactment in relation to the October 2010 triennial general elections.
 (2) For the purposes of this section, the electoral officer must exercise those powers and carry out those duties as if Part 2 of this Act were in force and the Auckland Council were established.
+(3) For the purposes of the October 2010 triennial general elections,—
+  (a) the elections for the Auckland Council will be held using the electoral system commonly known as First Past the Post (as defined in section 5(1) of the Local Electoral Act 2001); and
+  (b) the members of the Auckland Council (other than the mayor) must be elected by the electors of each ward of Auckland (as those wards and the number of members for each ward are determined by the Local Government Commission under section 34(1)(d) of the Local Government (Auckland Council) Act 2009 and given effect to by Order in Council under section 35 of that Act).
 
 ### 15 Determination of certain electoral matters
 For the purposes of preparing for the October 2010 triennial general elections, the Transition Agency has the powers of a local authority—
@@ -182,6 +188,13 @@ For the purposes of preparing for the October 2010 triennial general elections, 
 The Transition Agency may exercise the powers of the chief executive described in section 18—
   (a) with the agreement of the chief executive; or
   (b) as the chief executive, if no person is, for the time being, appointed under section 17.
+
+### 19A Preparation of planning document
+(1) The Transition Agency must prepare a planning document for the Auckland Council for the period 1 November 2010 to 30 June 2011.
+(2) The document must be treated as satisfying section 95 of the Local Government Act 2002—
+  (a) as that section applies to the Auckland Council as a local authority; and
+  (b) for the 2010/2011 financial year.
+(3) The Transition Agency must complete the document by 31 October 2010.
 
 ### 20 Review of existing local government organisation decisions and meeting agendas during transition period
 (1) The Transition Agency may review—
@@ -226,9 +239,7 @@ Schedule 4 of the Public Finance Act 1989 is amended by inserting the following 
 ### 27 Dissolution of Auckland Transition Agency
 (1) The Transition Agency is dissolved on the close of 31 October 2010.
 (2) Any assets and liabilities of the Transition Agency remaining at the time of its dissolution become assets and liabilities of the Auckland Council.
-(3) To avoid doubt, section 36 does not apply to—
-  (a) a person appointed under section 12(1) (being the chief executive of the Transition Agency); or
-  (b) any staff employed by that person under section 12(2)(d).
+(3)
 
 ### 28 Consequential amendment to Public Finance Act 1989
 Schedule 4 of the Public Finance Act 1989 is consequentially amended by omitting the item relating to the Auckland Transition Agency.
@@ -243,6 +254,32 @@ Schedule 4 of the Public Finance Act 1989 is consequentially amended by omitting
   (b) comply with any reasonable request by the Transition Agency for any information that the existing local authority holds that is relevant to the reorganisation (including personal information relating to employment matters); and
   (c) act in accordance with section 31.
 
+### 29A Obligations of existing local authorities in relation to 2010/2011 annual plan
+(1) This section applies in relation to the annual plan for the financial year commencing 1 July 2010 that each existing local authority is required to prepare and adopt under section 95 of the Local Government Act 2002.
+(2) The annual plan is only required to cover the period from 1 July 2010 to 31 October 2010 (being the period from the commencement of the financial year until the date on which each existing local authority is dissolved under section 35).
+(3) Despite section 95(2) of the Local Government Act 2002, the annual plan may simply be adopted by resolution of the existing local authority, but only if the plan is consistent with the financial statements and funding impact statement included in its long-term council community plan (LTCCP) for the 2010/2011 financial year.
+(4) An annual plan is not inconsistent with the financial statements and funding impact statement included in the LTCCP for the 2010/2011 financial year because—
+  (a) the plan applies to a 4-month period; or
+  (b) the plan reflects more accurate estimates of—
+    (i) the costs of achieving and maintaining the levels of service provision identified in the LTCCP in respect of that year; or
+    (ii) any other costs or expenses identified in the LTCCP in respect of that year; or
+    (iii) any revenue or other income of the existing local authority identified in the LTCCP in respect of that year.
+(5) An existing local authority must consult the Transition Agency throughout the preparation of the annual plan.
+(6) Except to the extent that it is modified by this section, section 95 of the Local Government Act 2002 applies to the annual plan.
+(7) Nothing in subsection (5) limits or affects the obligations imposed on an existing local authority under section 29 or 31.
+
+### 29B Rates and other revenue mechanisms
+(1) Each existing local authority must set each rate and any other revenue mechanism provided for in the funding impact statement included in the annual plan to which section 29A applies for the full financial year.
+(2) Subsection (1) applies despite the annual plan only covering the 4-month period from 1 July 2010 to 31 October 2010.
+(3) In setting each rate or other revenue mechanism, an existing local authority must ensure that the rate or mechanism is set at a level sufficient to meet—
+  (a) the amount of funds required from the mechanism (as set out in the funding impact statement) for the 4-month period; and
+  (b) the amount of funds that would be required from the mechanism for the balance of the financial year, if the requirements identified in paragraph (a) continued for that period.
+
+### 29C Obligations of existing local authorities in relation to 2010/2011 annual report
+(1) An existing local authority is not required to prepare and adopt an annual report for the 2009/2010 financial year.
+(2) Instead, a report for the period 1 July 2009 to 31 October 2010 must be prepared for each existing local authority, and adopted by the Auckland Council.
+(3) Sections 98 and 99 of the Local Government Act 2002 apply, with all necessary modifications, to a report prepared and adopted under subsection (2) as if the report were an annual report.
+
 ### 30 Obligations of existing local government organisations (other than existing local authorities) during transition period
 (1) This section applies to all existing local government organisations other than existing local authorities.
 (2) An existing local government organisation must continue, subject to the provisions of this subpart, to fulfil its legal obligations and perform its duties during the transition period.
@@ -251,6 +288,16 @@ Schedule 4 of the Public Finance Act 1989 is consequentially amended by omitting
   (a) comply with any reasonable request by the Transition Agency for employees of the existing local government organisation to be seconded to the Transition Agency under section 13(1)(f); and
   (b) comply with any reasonable request by the Transition Agency for any information that the existing local government organisation holds that is relevant to the reorganisation (including personal information relating to employment matters).
 (5) In this section, existing local government organisation includes a council organisation (as defined in section 6(1)(a) of the Local Government Act 2002).
+
+### 30A Watercare Services to plan and manage integration of water supply and wastewater services
+(1) Watercare Services Limited must plan and manage the integration of water supply and wastewater services in Auckland—
+  (a) under the oversight of the Transition Agency; and
+  (b) in accordance with the process approved by the Transition Agency under section 13(1)(ca); and
+  (c) in a way that ensures that Watercare Sevices Limited becomes the provider of integrated water supply and wastewater services to Auckland.
+(2) For the purposes of subsection (1), Watercare Services Limited must formulate—
+  (a) a plan for the interim management, as from 1 November 2010, of stand-alone water and wastewater schemes within Auckland; and
+  (b) detailed proposals for the long-term management and operation of those schemes for consideration by the Auckland Council and its local boards.
+(3) Nothing in this section applies to stormwater drainage services.
 
 ### 31 Decision making during transition period
 (1) Subsections (6) and (7) apply to any decision of an existing local government organisation—
