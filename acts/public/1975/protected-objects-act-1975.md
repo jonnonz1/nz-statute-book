@@ -1,5 +1,5 @@
 # Protected Objects Act 1975
-_Consolidation as at 2007-05-01_
+_Consolidation as at 2009-09-24_
 
 > Title
 
@@ -208,13 +208,13 @@ If permission is granted by the chief executive for the export of a protected Ne
 (2) Any appeal under this section shall be forwarded to the Minister within 28 days after the date when the decision of the chief executive is made known to the appellant.
 
 ### 10 Application of Customs and Excise Act 1996
-(1) Subject to the provisions of this Act, any protected New Zealand object exported or attempted to be exported in breach of this Act shall be forfeited to the Crown and the provisions of the Customs and Excise Act 1996 (except sections 229, 235, 236(2) to (4), and 237 of that Act) relating to forfeited goods shall apply to any such article in the same manner as they apply to goods forfeited under the Customs and Excise Act 1996.
-(1A) The powers conferred on Customs officers under the Customs and Excise Act 1996 (except sections 229, 235, 236(2) to (4), and 237 of that Act) apply in relation to the export of a protected New Zealand object.
+(1) Subject to the provisions of this Act, any protected New Zealand object exported or attempted to be exported in breach of this Act shall be forfeited to the Crown and the provisions of the Customs and Excise Act 1996 (except sections 229, 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii), 236(2) to (4), and 237 of that Act) relating to forfeited goods shall apply to any such article in the same manner as they apply to goods forfeited under the Customs and Excise Act 1996.
+(1A) The powers conferred on Customs officers under the Customs and Excise Act 1996 (except sections 229, 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii), 236(2) to (4), and 237 of that Act) apply in relation to the export of a protected New Zealand object.
 (1B) The forfeiture of an object under subsection (1) is not dependent on the seizure of that object.
 (2) Where any protected New Zealand object is seized as forfeited to the Crown pursuant to this section, it shall be delivered to the chief executive and retained in safe custody in accordance with the chief executive’s directions:
   provided that the chief executive may, at his or her discretion, direct that the protected New Zealand object be returned to the person who was the owner of the protected New Zealand object immediately before forfeiture subject to such conditions (if any) as the chief executive may think fit to impose.
 (3) Subject to the provisions of this Act,—
-  (a) the provisions of the Customs and Excise Act 1996 relating to unlawful imports (except sections 229, 235, 236(2) to (4), and 237 of that Act) apply to an unlawfully exported protected foreign object; and
+  (a) the provisions of the Customs and Excise Act 1996 relating to unlawful imports (except sections 229, 231(3)(b), 233(1)(c), 234, 235, 235C(b)(ii), 236(2) to (4), and 237 of that Act) apply to an unlawfully exported protected foreign object; and
   (b) that object is to be treated as a prohibited import under section 54 of that Act.
 (4) If the New Zealand Customs Service seizes an unlawfully exported protected foreign object or a stolen protected foreign object, that object must be—
   (a) transferred to the Ministry; and
