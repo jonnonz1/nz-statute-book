@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2009-10-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -88,7 +88,7 @@ The purposes of this Act are—
 (3) For the purposes of this Act, otherwise dealing with an offender or other means of dealing with an offender—
   (a) means dealing with the offender in relation to an offence following a finding of guilt or a plea of guilty, instead of imposing a sentence; and
   (b) to avoid doubt, does not include dealing with a person for non-payment of a sum of money, disobedience of a court order, or contempt of court.
-(4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the Building Act 2004 or the Health and Safety in Employment Act 1992, is that Crown organisation and not the Crown.
+(4) For the purposes of this Act, the offender, in the case of a Crown organisation that is charged with, or convicted of, an offence against the Building Act 2004, the Health and Safety in Employment Act 1992, or the Resource Management Act 1991, is that Crown organisation and not the Crown.
 
 ### 5 Application of this Act
 (1) Except as provided in subsection (2), this Act binds the Crown.
