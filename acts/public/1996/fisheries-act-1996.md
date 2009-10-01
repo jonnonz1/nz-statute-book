@@ -1,7 +1,7 @@
 # Fisheries Act 1996
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-10-01_
 
-> An Act—aTo reform and restate the law relating to fisheries resources; andbTo recognise New Zealand's international obligations relating to fishing; andcTo provide for related matters
+> An Act—ato reform and restate the law relating to fisheries resources; andbto recognise New Zealand's international obligations relating to fishing; andcto provide for related matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Fisheries Act 1996.
@@ -13,79 +13,78 @@ _Consolidation as at 2008-10-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Annual catch entitlement** means an annual catch entitlement allocated under any of sections 67, 67A, 68, 340, and 340A
-  - **Annual Catch Entitlement Register** means the relevant Annual Catch Entitlement Register kept under section 124(1)(b) of this Act
+  - **annual catch entitlement** means an annual catch entitlement allocated under any of sections 67, 67A, 68, 340, and 340A
+  - **annual Catch Entitlement Register** means the relevant Annual Catch Entitlement Register kept under section 124(1)(b) of this Act
   - **Aotearoa Fisheries Limited** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **appointed day** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
-  - **Approved** means approved by the chief executive
-  - **Approved form** , in relation to any document, means the form prescribed by regulations made under this Act or, if there is no such prescribed form, the form approved by the chief executive; and includes an electronic format that is so prescribed or approved
-  - **Approved service delivery organisation** means a person declared to be an approved service delivery organisation, and to whom any specified functions, duties, or powers of the chief executive have been transferred, under section 296B
+  - **approved** means approved by the chief executive
+  - **approved form** , in relation to any document, means the form prescribed by regulations made under this Act or, if there is no such prescribed form, the form approved by the chief executive; and includes an electronic format that is so prescribed or approved
+  - **approved service delivery organisation** means a person declared to be an approved service delivery organisation, and to whom any specified functions, duties, or powers of the chief executive have been transferred, under section 296B
   - **aquaculture activities** has the same meaning as in the Resource Management Act 1991
   - **aquaculture decision** has the meaning given to it by section 186C
   - **aquaculture management area** has the same meaning as in the Resource Management Act 1991
-  - **Aquatic ecosystem** means any system of interacting aquatic life within its natural and physical environment
-  - **Aquatic environment** —
-    (a) Means the natural and biological resources comprising any aquatic ecosystem; and
-    (b) Includes all aquatic life and the oceans, seas, coastal areas, inter-tidal areas, estuaries, rivers, lakes, and other places where aquatic life exists:
-  - **Aquatic life** —
-    (a) Means any species of plant or animal life that, at any stage in its life history, must inhabit water, whether living or dead; and
-    (b) Includes seabirds (whether or not in the aquatic environment):
+  - **aquatic ecosystem** means any system of interacting aquatic life within its natural and physical environment
+  - **aquatic environment** —
+    (a) means the natural and biological resources comprising any aquatic ecosystem; and
+    (b) includes all aquatic life and the oceans, seas, coastal areas, inter-tidal areas, estuaries, rivers, lakes, and other places where aquatic life exists
+  - **aquatic life** —
+    (a) means any species of plant or animal life that, at any stage in its life history, must inhabit water, whether living or dead; and
+    (b) includes seabirds (whether or not in the aquatic environment):
   - **asset-holding company** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
-  - **Associated or dependent species** means any non-harvested species taken or otherwise affected by the taking of any harvested species
-  - **Authorised stock**
-  - **Beach cast seaweed** means seaweed of any species that is unattached and cast ashore
-  - **Best available information** means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time
-  - **Biological diversity** means the variability among living organisms, including diversity within species, between species, and of ecosystems
+  - **associated or dependent species** means any non-harvested species taken or otherwise affected by the taking of any harvested species
+  - **beach cast seaweed** means seaweed of any species that is unattached and cast ashore
+  - **best available information** means the best information that, in the particular circumstances, is available without unreasonable cost, effort, or time
+  - **biological diversity** means the variability among living organisms, including diversity within species, between species, and of ecosystems
   - **Catch History Review Committee** means the committee established under section 283 of this Act
   - **Chatham Islands Enterprise Trust** means the trustees duly incorporated under that name as a charitable trust board under the Charitable Trusts Act 1957
-  - **Chief executive** means, subject to section 296C and any other enactment, the chief executive for the time being of the Ministry, which chief executive has, with the authority of the Prime Minister, assumed responsibility for this Act
-  - **Coastal marine area** and have the meanings given to those terms by section 2(1) of the Resource Management Act 1991
+  - **chief executive** means, subject to section 296C and any other enactment, the chief executive for the time being of the Ministry, which chief executive has, with the authority of the Prime Minister, assumed responsibility for this Act
+  - **coastal marine area** and have the meanings given to those terms by section 2(1) of the Resource Management Act 1991
   - **commercial fisher** —
     (a) means a person who holds a fishing permit issued under section 91; and
     (b) for the purposes of sections 72 and 75, includes—
       (i) a person who holds a high seas fishing permit; and
       (ii) a person using a New Zealand ship who, in the judgment of the chief executive, holds a valid authority from a foreign country to take highly migratory species in the national fisheries jurisdiction of that foreign country
-  - **Commercial fishing** means taking fish, aquatic life, or seaweed in circumstances where a fishing permit is required by section 89 of this Act
+  - **commercial fishing** means taking fish, aquatic life, or seaweed in circumstances where a fishing permit is required by section 89 of this Act
   - **Commission** means the Treaty of Waitangi Fisheries Commission established under section 4 of the Maori Fisheries Act 1989
-  - **Conservation** means the maintenance or restoration of fisheries resources for their future use; and has a corresponding meaning
-  - **Conservation services** means outputs produced in relation to the adverse effects of commercial fishing on protected species, as agreed between the Minister responsible for the administration of the Conservation Act 1987 and the Director-General of the Department of Conservation, including—
-    (a) Research relating to those effects on protected species:
-    (b) Research on measures to mitigate the adverse effects of commercial fishing on protected species:
-    (c) The development of population management plans under the Wildlife Act 1953 and the Marine Mammals Protection Act 1978:
+  - **conservation** means the maintenance or restoration of fisheries resources for their future use; and has a corresponding meaning
+  - **conservation services** means outputs produced in relation to the adverse effects of commercial fishing on protected species, as agreed between the Minister responsible for the administration of the Conservation Act 1987 and the Director-General of the Department of Conservation, including—
+    (a) research relating to those effects on protected species:
+    (b) research on measures to mitigate the adverse effects of commercial fishing on protected species:
+    (c) the development of population management plans under the Wildlife Act 1953 and the Marine Mammals Protection Act 1978:
   - **Court** means a District Court or, where proceedings are commenced in the High Court, the High Court
-  - **Deemed value** means an interim deemed value or an annual deemed value
-  - **Deemed value amount** means the amount of any interim or annual deemed value payable in respect of any catch taken in excess of any annual catch entitlement, as determined under section 76
-  - **Deemed value rate** means the rate of an interim or annual deemed value payable in respect of any stock, as determined under section 75
+  - **deemed value** means an interim deemed value or an annual deemed value
+  - **deemed value amount** means the amount of any interim or annual deemed value payable in respect of any catch taken in excess of any annual catch entitlement, as determined under section 76
+  - **deemed value rate** means the rate of an interim or annual deemed value payable in respect of any stock, as determined under section 75
   - **determination** has the meaning given to it by section 186C
-  - **Document** means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes—
-    (a) Any writing on any material:
-    (b) Any information recorded or stored by means of any tape-recorder, computer, or other device, and any material subsequently derived from information so recorded or stored:
-    (c) Any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
-    (d) Any book, map, plan, graph, or drawing:
-    (e) Any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced:
-  - **Dredge oyster** means the mollusc known as Tiostrea chilensis
-  - **Effect** means the direct or indirect effect of fishing; and includes—regardless of the scale, intensity, duration, or frequency of the effect; and also includes—
-    (a) Any positive or adverse effect; and
-    (b) Any temporary or permanent effect; and
-    (c) Any past, present, or future effect; and
-    (d) Any cumulative effect which arises over time or in combination with other effects—
-    (e) Any potential effect of high probability; and
-    (f) Any potential effect of low probability which has a high potential impact:
-  - **Encumbered** , in relation to any quota, means the situation where the quota is—
-    (a) Held by the Crown as a consequence of being forfeit to the Crown under this Act—
-      (i) While any proceedings in respect of that forfeiture are before a court and have not been finally resolved; or
-      (ii) During the period of 35 working days referred to in section 62(3) or section 256(3) of this Act; or
-    (b) Withheld from allocation by the Crown under section 46 of this Act:
-  - **Environmental principles** means the environmental principles set out in section 9 of this Act
-  - **Examiner** means a person appointed under section 222 of this Act to be an examiner and holding a warrant under section 198 of this Act
-  - **Exclusive economic zone of New Zealand** or means the exclusive economic zone of New Zealand as defined by section 9 of the Territorial Sea and Exclusive Economic Zone Act 1977
+  - **document** means a document in any form whether signed or initialled or otherwise authenticated by its maker or not; and includes—
+    (a) any writing on any material:
+    (b) any information recorded or stored by means of any tape-recorder, computer, or other device, and any material subsequently derived from information so recorded or stored:
+    (c) any label, marking, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
+    (d) any book, map, plan, graph, or drawing:
+    (e) any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced:
+  - **dredge oyster** means the mollusc known as Tiostrea chilensis
+  - **effect** means the direct or indirect effect of fishing; and includes—regardless of the scale, intensity, duration, or frequency of the effect; and also includes—
+    (a) any positive or adverse effect; and
+    (b) any temporary or permanent effect; and
+    (c) any past, present, or future effect; and
+    (d) any cumulative effect which arises over time or in combination with other effects—
+    (e) any potential effect of high probability; and
+    (f) any potential effect of low probability which has a high potential impact:
+  - **encumbered** , in relation to any quota, means the situation where the quota is—
+    (a) held by the Crown as a consequence of being forfeit to the Crown under this Act—
+      (i) while any proceedings in respect of that forfeiture are before a court and have not been finally resolved; or
+      (ii) during the period of 35 working days referred to in section 62(3) or section 256(3) of this Act; or
+    (b) withheld from allocation by the Crown under section 46 of this Act:
+  - **environmental principles** means the environmental principles set out in section 9 of this Act
+  - **examiner** means a person appointed under section 222 of this Act to be an examiner and holding a warrant under section 198 of this Act
+  - **exclusive economic zone of New Zealand** or means the exclusive economic zone of New Zealand as defined by section 9 of the Territorial Sea and Exclusive Economic Zone Act 1977
   - **farmed fish** , in relation to a fish farmer, means fish, aquatic life, or seaweed—
     (a) of a species specified in the fish farmer's registration or licence under the Freshwater Fish Farming Regulations 1983 for the site concerned; and
     (b) that was not acquired in breach of section 192A
-  - **Financial year** means a period of 12 months commencing on 1 July and ending with 30 June
-  - **Finfish** includes all species of finfish of the Classes Agnatha, Chondrichthyes, and Osteichthyes, at any stage of their life history, whether living or dead
-  - **Fish** includes all species of finfish and shellfish, at any stage of their life history, whether living or dead
-  - **Fish carrier** means any vessel capable of being used for transportation
+  - **financial year** means a period of 12 months commencing on 1 July and ending with 30 June
+  - **finfish** includes all species of finfish of the Classes Agnatha, Chondrichthyes, and Osteichthyes, at any stage of their life history, whether living or dead
+  - **fish** includes all species of finfish and shellfish, at any stage of their life history, whether living or dead
+  - **fish carrier** means any vessel capable of being used for transportation
   - **fish farm** means,—
     (a) in relation to a person registered as a fish farmer under Part 9A, the area and premises specified in the fish farmer's registration:
     (b) in relation to a person who holds a current licence under the Freshwater Fish Farming Regulations 1983, the area and premises specified in the licence
@@ -98,181 +97,179 @@ _Consolidation as at 2008-10-01_
     (b) to avoid doubt, includes the possession and ongrowing of harvestable spat; but
     (c) does not include an activity specified in paragraph (a) if the fish, aquatic life, or seaweed—
       (i) is not in the exclusive and continuous possession or control of the fish farmer; or
-      (ii) cannot be distinguished or kept separate from naturally occurring fish, aquatic life, or seaweed.
+      (ii) cannot be distinguished or kept separate from naturally occurring fish, aquatic life, or seaweed
   - **Fish Stocks Agreement** —
-    (a) Means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks, done at New York on 4 December 1995 (a copy of the English text of which is set out in Schedule 1A); and
-    (b) Includes amendments to the Fish Stocks Agreement made in accordance with Article 45 of the Agreement that are, or will become, binding on New Zealand from time to time:
-  - **Fisheries Dispute Commissioner** , or , means a Fisheries Dispute Commissioner appointed under section 117(1) of this Act.
-  - **Fisheries resources** means any one or more stocks or species of fish, aquatic life, or seaweed
-  - **Fisheries services** means outputs produced for the purpose of this Act or the Fisheries Act 1983 as agreed between the Minister and the chief executive; and includes—
-    (a) The management of fisheries resources, fishing and fish farming:
-    (b) The enforcement of provisions relating to fisheries resources, fishing, and fish farming:
-    (c) Research relating to fisheries resources, fishing, and fish farming, including stock assessment and the effects of fishing and fish farming on the aquatic environment:
-    (d) The performance or exercise, by the Minister or the chief executive or any other person, of a function, duty, or power conferred or imposed relating to fisheries resources, fishing, or fish farming:
-  - **Fishery officer** means—
-    (a) A person deemed by section 196(2) of this Act to be a fishery officer:
-    (b) A person appointed in accordance with section 196(1) of this Act to be a fishery officer and holding a warrant under section 198 of this Act:
-    (c) A person appointed under section 197 of this Act to be an honorary fishery officer and holding a warrant under section 198 of this Act:
-    (d) A person appointed under section 222 of this Act to be an examiner and holding a warrant under section 198 of this Act:
-  - **Fishing** —
-    (a) Means the catching, taking, or harvesting of fish, aquatic life, or seaweed; and
-    (b) Includes—
-      (i) Any activity that may reasonably be expected to result in the catching, taking, or harvesting of fish, aquatic life, or seaweed; and
-      (ii) Any operation in support of or in preparation for any activities described in this definition:
-  - **Fishing permit** means a fishing permit issued under section 91 of this Act
-  - **Fishing-related mortality** means the accidental death or incidental death of any protected species that occurs in the course of fishing
-  - **Fishing vessel** means any vessel that is capable of being used for fishing
+    (a) means the Agreement for the Implementation of the Provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks, done at New York on 4 December 1995 (a copy of the English text of which is set out in Schedule 1A); and
+    (b) includes amendments to the Fish Stocks Agreement made in accordance with Article 45 of the Agreement that are, or will become, binding on New Zealand from time to time
+  - **Fisheries Dispute Commissioner** , or , means a Fisheries Dispute Commissioner appointed under section 117(1) of this Act
+  - **fisheries resources** means any one or more stocks or species of fish, aquatic life, or seaweed
+  - **fisheries services** means outputs produced for the purpose of this Act or the Fisheries Act 1983 as agreed between the Minister and the chief executive; and includes—
+    (a) the management of fisheries resources, fishing and fish farming:
+    (b) the enforcement of provisions relating to fisheries resources, fishing, and fish farming:
+    (c) research relating to fisheries resources, fishing, and fish farming, including stock assessment and the effects of fishing and fish farming on the aquatic environment:
+    (d) the performance or exercise, by the Minister or the chief executive or any other person, of a function, duty, or power conferred or imposed relating to fisheries resources, fishing, or fish farming
+  - **fishery officer** means—
+    (a) a person deemed by section 196(2) of this Act to be a fishery officer:
+    (b) a person appointed in accordance with section 196(1) of this Act to be a fishery officer and holding a warrant under section 198 of this Act:
+    (c) a person appointed under section 197 of this Act to be an honorary fishery officer and holding a warrant under section 198 of this Act:
+    (d) a person appointed under section 222 of this Act to be an examiner and holding a warrant under section 198 of this Act
+  - **fishing** —
+    (a) means the catching, taking, or harvesting of fish, aquatic life, or seaweed; and
+    (b) includes—
+      (i) any activity that may reasonably be expected to result in the catching, taking, or harvesting of fish, aquatic life, or seaweed; and
+      (ii) any operation in support of or in preparation for any activities described in this definition
+  - **fishing permit** means a fishing permit issued under section 91 of this Act
+  - **fishing-related mortality** means the accidental death or incidental death of any protected species that occurs in the course of fishing
+  - **fishing vessel** means any vessel that is capable of being used for fishing
   - **Fishing Vessel Register** means the Fishing Vessel Register kept under section 98 of this Act
-  - **Fishing year** means,—
+  - **fishing year** means,—
     (a) In relation to rock lobster, southern scallops, Northland scallops, southern blue whiting, or any other stock declared under a notice made under section 18 of this Act to have a fishing year commencing on the 1st day of April in any year, a period of 12 months commencing on each 1st day of April:
-    (aa) In relation to freshwater eel subject to an Order in Council under section 369L(1), a period of 12 months commencing on each 1 February:
-    (b) In relation to any other quota management stock, a period of 12 months commencing on each 1st day of October:
-    (c) In relation to any stock not subject to the quota management system, a period of 12 months commencing on each 1st day of October, unless otherwise prescribed:
-  - **Foreign allowable catch** means a foreign allowable catch set under section 81 of this Act
-  - **Foreign fishing vessel** means any fishing vessel that is neither a New Zealand fishing vessel nor a New Zealand ship
-  - **Foreign vessel** means any vessel that is neither a vessel registered under this Act nor a New Zealand ship
-  - **Foreign-owned New Zealand fishing vessel** means a fishing vessel registered with consent under section 103(4) of this Act
+    (aa) in relation to freshwater eel subject to an Order in Council under section 369L(1), a period of 12 months commencing on each 1 February:
+    (b) in relation to any other quota management stock, a period of 12 months commencing on each 1st day of October:
+    (c) in relation to any stock not subject to the quota management system, a period of 12 months commencing on each 1st day of October, unless otherwise prescribed:
+  - **foreign allowable catch** means a foreign allowable catch set under section 81 of this Act
+  - **foreign fishing vessel** means any fishing vessel that is neither a New Zealand fishing vessel nor a New Zealand ship
+  - **foreign vessel** means any vessel that is neither a vessel registered under this Act nor a New Zealand ship
+  - **foreign-owned New Zealand fishing vessel** means a fishing vessel registered with consent under section 103(4) of this Act
   - **Foveaux Strait dredge oyster** means any dredge oyster found in the Foveaux Strait dredge oyster fishery
   - **Foveaux Strait dredge oyster fishery** means the Foveaux Strait Dredge Oyster Fishery defined in regulation 2 of the Fisheries (Southland and Sub-Antarctic Areas Commercial Fishing) Regulations 1986
   - **Freshwater eel** means the species Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii, in all areas in New Zealand fisheries waters
   - **green-lipped mussel** means a shellfish of the species Perna canaliculus
-  - **Greenweight** , in relation to any fish, aquatic life, or seaweed, means the weight of fish, aquatic life, or seaweed before any processing commences and before any part is removed
+  - **greenweight** , in relation to any fish, aquatic life, or seaweed, means the weight of fish, aquatic life, or seaweed before any processing commences and before any part is removed
   - **harvestable spat** means the species of fish, aquatic life, or seaweed specified in Schedule 8A at the stage of the life cycle specified in that schedule
-  - **Harvested species** means any fish, aquatic life, or seaweed that may for the time being be taken with lawful authority
-  - **Hazardous substance** has the same meaning as it has in section 2(1) of the Hazardous Substances and New Organisms Act 1996
-  - **High seas** means the waters outside the national fisheries jurisdiction of any country
-  - **High seas fishery inspector** means a person who is a high seas fishery inspector under section 113Q
-  - **High seas fishing permit** means a permit issued under section 113H
+  - **harvested species** means any fish, aquatic life, or seaweed that may for the time being be taken with lawful authority
+  - **hazardous substance** has the same meaning as it has in section 2(1) of the Hazardous Substances and New Organisms Act 1996
+  - **high seas** means the waters outside the national fisheries jurisdiction of any country
+  - **high seas fishery inspector** means a person who is a high seas fishery inspector under section 113Q
+  - **high seas fishing permit** means a permit issued under section 113H
   - **High Seas Permit Register** means the High Seas Permit Register kept under section 98(1)(c)
   - **highly migratory species** means a species or stock listed in Schedule 4B
-  - **Holder** , in relation to any permit, authority, approval, permission, licence, or certificate, means the person to whom the permit, authority, approval, permission, licence, or certificate has been issued, granted, or given; and and have corresponding meanings
-  - **Honorary fishery officer** means a person appointed under section 197 of this Act to be an honorary fishery officer and holding a warrant under section 198 of this Act
-  - **Individual catch entitlement**
-  - **Individual transferable quota** means—
-    (a) Individual transferable quota allocated under section 44 or section 47 or section 49 of this Act:
-    (b) Quota that becomes individual transferable quota under section 49(3):
-    (ba) Individual transferable quota allocated under Part 2A of the Fisheries Act 1983 that has been converted into quota shares under section 343:
-    (c) Any quota that otherwise becomes individual transferable quota in accordance with this Act:
-  - **Information** includes—
-    (a) Scientific, customary Maori, social, or economic information; and
-    (b) Any analysis of any such information:
-  - **Information principles** means the information principles set out in section 10 of this Act
-  - **Infringement fee** , in relation to an infringement offence, means the appropriate infringement fee set in respect of that offence by regulations made under section 297(1)(nc)
-  - **Infringement offence** means an offence prescribed as an infringement offence against this Act by regulations made under section 297(1)(na)
+  - **holder** , in relation to any permit, authority, approval, permission, licence, or certificate, means the person to whom the permit, authority, approval, permission, licence, or certificate has been issued, granted, or given; and and have corresponding meanings
+  - **honorary fishery officer** means a person appointed under section 197 of this Act to be an honorary fishery officer and holding a warrant under section 198 of this Act
+  - **individual transferable quota** means—
+    (a) individual transferable quota allocated under section 44 or section 47 or section 49 of this Act:
+    (b) quota that becomes individual transferable quota under section 49(3):
+    (ba) individual transferable quota allocated under Part 2A of the Fisheries Act 1983 that has been converted into quota shares under section 343:
+    (c) any quota that otherwise becomes individual transferable quota in accordance with this Act
+  - **information** includes—
+    (a) scientific, customary Maori, social, or economic information; and
+    (b) any analysis of any such information
+  - **information principles** means the information principles set out in section 10 of this Act
+  - **infringement fee** , in relation to an infringement offence, means the appropriate infringement fee set in respect of that offence by regulations made under section 297(1)(nc)
+  - **infringement offence** means an offence prescribed as an infringement offence against this Act by regulations made under section 297(1)(na)
   - **interest in fishing quota** , in sections 56 to 58B, has the meaning set out in section 57A(1)
-  - **Internal waters of New Zealand** means all internal waters of New Zealand as defined by section 4 of the Territorial Sea and Exclusive Economic Zone Act 1977
+  - **internal waters of New Zealand** means all internal waters of New Zealand as defined by section 4 of the Territorial Sea and Exclusive Economic Zone Act 1977
   - **international fisheries organisation** means an organisation or arrangement that is defined as a global, regional, or sub-regional fisheries organisation or arrangement under section 113B
   - **international fisheries organisation management measure** means a measure that is within the definition of international conservation and management measures in section 113B
-  - **Kaitiakitanga** means the exercise of guardianship; and, in relation to any fisheries resources, includes the ethic of stewardship based on the nature of the resources, as exercised by the appropriate tangata whenua in accordance with tikanga Maori
-  - **Licensed fish receiver** means a person licensed as a fish receiver under regulations made under section 297 of this Act
-  - **Long-term viability** , in relation to a biomass level of a stock or species, means there is a low risk of collapse of the stock or species, and the stock or species has the potential to recover to a higher biomass level
-  - **Mana whenua** means customary authority exercised by an iwi or hapu in an identified area
+  - **kaitiakitanga** means the exercise of guardianship; and, in relation to any fisheries resources, includes the ethic of stewardship based on the nature of the resources, as exercised by the appropriate tangata whenua in accordance with tikanga Maori
+  - **licensed fish receiver** means a person licensed as a fish receiver under regulations made under section 297 of this Act
+  - **long-term viability** , in relation to a biomass level of a stock or species, means there is a low risk of collapse of the stock or species, and the stock or species has the potential to recover to a higher biomass level
+  - **mana whenua** means customary authority exercised by an iwi or hapu in an identified area
   - **mandated iwi organisation** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
-  - **Master** , in relation to any vessel, means any person for the time being having command or charge of the vessel
-  - **Maximum sustainable yield** , in relation to any stock, means the greatest yield that can be achieved over time while maintaining the stock's productive capacity, having regard to the population dynamics of the stock and any environmental factors that influence the stock
-  - **Meatweight** means,—
-    (a) In relation to scallops, the weight of the scallops remaining when the shell, skirt, and gut have been removed and discarded:
-    (b) In relation to any other stock, the weight calculated in accordance with the notice under section 18 of this Act declaring the stock to be subject to the quota management system or in the notice relating to the stock under section 188 of this Act, as the case may be:
+  - **master** , in relation to any vessel, means any person for the time being having command or charge of the vessel
+  - **maximum sustainable yield** , in relation to any stock, means the greatest yield that can be achieved over time while maintaining the stock's productive capacity, having regard to the population dynamics of the stock and any environmental factors that influence the stock
+  - **meatweight** means,—
+    (a) in relation to scallops, the weight of the scallops remaining when the shell, skirt, and gut have been removed and discarded:
+    (b) in relation to any other stock, the weight calculated in accordance with the notice under section 18 of this Act declaring the stock to be subject to the quota management system or in the notice relating to the stock under section 188 of this Act, as the case may be
   - **Minister** means, subject to any enactment, any Minister of the Crown who, under authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means, subject to any enactment, the Ministry that is, with the authority of the Prime Minister, for the time being responsible for the administration of this Act
-  - **Mortgage** means any charge registered under this Act on quota
-  - **Mortgagee** means the proprietor of a mortgage
-  - **Mortgagor** means any person who is the registered owner of quota subject to a mortgage
-  - **Multi-species stock** means a quota management stock that consists of 2 or more species
+  - **mortgage** means any charge registered under this Act on quota
+  - **mortgagee** means the proprietor of a mortgage
+  - **mortgagor** means any person who is the registered owner of quota subject to a mortgage
+  - **multi-species stock** means a quota management stock that consists of 2 or more species
   - **Nelson-Marlborough dredge oyster** means any mollusc of the species Tiostrea chilensis lutaria found in the Nelson-Marlborough dredge oyster fishery
   - **Nelson-Marlborough dredge oyster fishery** means those New Zealand fisheries waters defined as OYS7 in Schedule 1 to this Act
   - **New Zealand fisheries waters** means—
-    (a) All waters in the exclusive economic zone of New Zealand:
-    (b) All waters of the territorial sea of New Zealand:
-    (c) All internal waters of New Zealand:
-    (d) All other fresh or estuarine waters within New Zealand where fish, aquatic life, or seaweed that are indigenous to or acclimatised in New Zealand are found:
+    (a) all waters in the exclusive economic zone of New Zealand:
+    (b) all waters of the territorial sea of New Zealand:
+    (c) all internal waters of New Zealand:
+    (d) all other fresh or estuarine waters within New Zealand where fish, aquatic life, or seaweed that are indigenous to or acclimatised in New Zealand are found
   - **New Zealand fishing vessel** means any fishing vessel registered under section 103 of this Act
   - **New Zealand national** means—
-    (a) A New Zealand citizen; or
-    (b) A person who is ordinarily resident in New Zealand; or
-    (c) A body corporate established by or under New Zealand law:
+    (a) a New Zealand citizen; or
+    (b) a person who is ordinarily resident in New Zealand; or
+    (c) a body corporate established by or under New Zealand law:
   - **New Zealand ship** has the same meaning as in section 2(1) of the Ship Registration Act 1992
   - **Northland scallop** means any scallop found in the Northland scallop fishery
   - **Northland scallop fishery** means those New Zealand fisheries waters defined as SCA1 in Schedule 1 to this Act
-  - **Observer** means an observer appointed under section 223 of this Act
+  - **observer** means an observer appointed under section 223 of this Act
   - **ordinarily resident in New Zealand** has the meaning set out in section 6(2) and (3) of the Overseas Investment Act 2005
-  - **Ornamental fish** means any species of fish, aquatic life, or seaweed declared by the chief executive, by notice in the Gazette under section 307 of this Act, to be an ornamental fish
-  - **Operator** , in relation to a vessel, means the person who, by virtue of ownership, a lease, a sublease, a charter, a subcharter, or otherwise, for the time being has lawful possession and control of the vessel
-  - **Outputs** means the goods and services that are produced by a department, Crown entity, Office of Parliament, or any other person or body
+  - **ornamental fish** means any species of fish, aquatic life, or seaweed declared by the chief executive, by notice in the Gazette under section 307 of this Act, to be an ornamental fish
+  - **operator** , in relation to a vessel, means the person who, by virtue of ownership, a lease, a sublease, a charter, a subcharter, or otherwise, for the time being has lawful possession and control of the vessel
+  - **outputs** means the goods and services that are produced by a department, Crown entity, Office of Parliament, or any other person or body
   - **overseas investment fishing provisions** has the meaning set out in section 57A(1)
   - **overseas investment in fishing quota** , in sections 56 to 58B, has the meaning set out in section 57D
   - **overseas person** has the meaning set out in section 7 of the Overseas Investment Act 2005
-  - **Owner** ,—
-    (a) In relation to any vessel, means any person by whom the vessel is owned:
-    (b) In relation to any quota or annual catch entitlement, means the person shown as the owner in the appropriate register kept under Part 8 of this Act:
+  - **owner** ,—
+    (a) in relation to any vessel, means any person by whom the vessel is owned:
+    (b) in relation to any quota or annual catch entitlement, means the person shown as the owner in the appropriate register kept under Part 8 of this Act:
   - **Permit Register** means the Permit Register kept under section 98 of this Act
   - **port** —
     (a) means any area of land and water intended or designed to be used either wholly or partly for the berthing, unloading, departure, movement, and servicing of vessels:
     (b) includes any anchorage, roadstead, pilot station, haven or estuary, navigable lake or river, wharf, dock, pier, jetty, or dry dock used or capable of being used for such purposes
-  - **Possession** means possession of, or control over, either jointly or on one's own account,—
-    (a) Any fish, aquatic life, or seaweed; or
-    (b) Any vessel, container, package, thing, premises, or place in or on which the fish, aquatic life, or seaweed are found:
-  - **Premises** means any land or building; and includes any vessel, or any vehicle or conveyance of any kind whatever
-  - **Processing** includes cutting, shelling, freezing, and the use of all other methods of manufacture and preservation
-  - **Protected species** means—
-    (a) Any marine wildlife as defined in section 2 of the Wildlife Act 1953 that is absolutely protected under section 3 of that Act:
-    (b) Any marine mammal as defined in section 2(1) of the Marine Mammals Protection Act 1978:
-  - **Provisional catch history** means the provisional catch history specified in section 34 or section 40 of this Act
-  - **Provisional individual transferable quota** means—
-    (a) Provisional individual transferable quota allocated under section 47 or section 49 of this Act:
-    (b) Any quota that otherwise becomes provisional individual transferable quota in accordance with this Act:
-  - **Publicly notify** means publish a notice in one or more daily newspapers circulating in the main metropolitan areas or, if the Minister, or the chief executive (as the case may be) considers it appropriate, publish a notice in one or more newspapers circulating in the area to which the notice relates; and and have corresponding meanings
-  - **Qualifying years** , in relation to any stock, has the meaning given to it by section 33 of this Act
-  - **Quota** means any individual transferable quota or provisional individual transferable quota
-  - **Quota management area** means any area declared by or under this Act to be a quota management area
-  - **Quota management stock** means any stock subject to the quota management system
-  - **Quota management system** means the quota management system established under Part 4 of this Act
-  - **Quota Register** means the relevant Quota Register kept under section 124(1)(a) of this Act
-  - **Quota share** has the meaning given to it by section 42 of this Act
-  - **Quota weight equivalent** , in relation to any quota share, means the figure in kilogrammes (or, in the case of Foveaux Strait dredge oysters, the figure in oyster numbers) arrived at by dividing by 100,000,000 the total allowable commercial catch for the stock to which the quota share relates; and, consequently, the quota weight equivalent of a parcel of shares is the quota weight equivalent of one share multiplied by the number of shares in the parcel
-  - **Record** includes any document, whether or not it has been completed
-  - **Regional plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
-  - **Registered fish carrier** means any fish carrier registered under section 105 of this Act
-  - **Registrar**
+  - **possession** means possession of, or control over, either jointly or on one's own account,—
+    (a) any fish, aquatic life, or seaweed; or
+    (b) any vessel, container, package, thing, premises, or place in or on which the fish, aquatic life, or seaweed are found:
+  - **premises** means any land or building; and includes any vessel, or any vehicle or conveyance of any kind whatever
+  - **processing** includes cutting, shelling, freezing, and the use of all other methods of manufacture and preservation
+  - **protected species** means—
+    (a) any marine wildlife as defined in section 2 of the Wildlife Act 1953 that is absolutely protected under section 3 of that Act:
+    (b) any marine mammal as defined in section 2(1) of the Marine Mammals Protection Act 1978
+  - **provisional catch history** means the provisional catch history specified in section 34 or section 40 of this Act
+  - **provisional individual transferable quota** means—
+    (a) provisional individual transferable quota allocated under section 47 or section 49 of this Act:
+    (b) any quota that otherwise becomes provisional individual transferable quota in accordance with this Act:
+  - **publicly notify** means publish a notice in one or more daily newspapers circulating in the main metropolitan areas or, if the Minister, or the chief executive (as the case may be) considers it appropriate, publish a notice in one or more newspapers circulating in the area to which the notice relates; and and have corresponding meanings
+  - **qualifying years** , in relation to any stock, has the meaning given to it by section 33 of this Act
+  - **quota** means any individual transferable quota or provisional individual transferable quota
+  - **quota management area** means any area declared by or under this Act to be a quota management area
+  - **quota management stock** means any stock subject to the quota management system
+  - **quota management system** means the quota management system established under Part 4 of this Act
+  - **quota Register** means the relevant Quota Register kept under section 124(1)(a) of this Act
+  - **quota share** has the meaning given to it by section 42 of this Act
+  - **quota weight equivalent** , in relation to any quota share, means the figure in kilogrammes (or, in the case of Foveaux Strait dredge oysters, the figure in oyster numbers) arrived at by dividing by 100,000,000 the total allowable commercial catch for the stock to which the quota share relates; and, consequently, the quota weight equivalent of a parcel of shares is the quota weight equivalent of one share multiplied by the number of shares in the parcel
+  - **record** includes any document, whether or not it has been completed
+  - **regional plan** has the meaning given to it by section 2(1) of the Resource Management Act 1991
+  - **registered fish carrier** means any fish carrier registered under section 105 of this Act
   - **relevant Ministers** , in sections 56 to 58B, has the meaning set out in section 57A(1)
   - **reservation** has the meaning given to it by section 186C.
-  - **Rock lobster** means—
-    (a) Spiny rock lobster (Jasus edwardsii):
-    (b) Packhorse rock lobster (Jasus verreauxi):
-  - **Sale** —
-    (a) Includes—and sell and sold have a corresponding meaning; but
-      (i) Every method of disposition for valuable consideration, including barter; and
-      (ii) The disposition to an agent for sale on consignment; and
-      (iii) Offering or attempting to sell, or receiving or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale; and
+  - **rock lobster** means—
+    (a) spiny rock lobster (Jasus edwardsii):
+    (b) packhorse rock lobster (Jasus verreauxi)
+  - **sale** —
+    (a) includes—and sell and sold have a corresponding meaning; but
+      (i) every method of disposition for valuable consideration, including barter; and
+      (ii) the disposition to an agent for sale on consignment; and
+      (iii) offering or attempting to sell, or receiving or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or permitting to be sold, offered, or exposed for sale; and
       (iv) disposal by way of gambling (as that term is defined in section 4(1) of the Gambling Act 2003); and
-      (v) The use by a person of fish, aquatic life, or seaweed as bait in that person's commercial fishing operations; and
-      (vi) Any other use by a person of fish, aquatic life, or seaweed as part of that person's commercial activities;—
-    (b) Does not include the disposal by any method approved by the chief executive of fish, aquatic life, or seaweed lawfully taken during the course of a fishing competition, if—
-      (i) The competition and the disposal method are carried out in accordance with any conditions imposed by the chief executive, either generally or specifically; and
-      (ii) The chief executive's approval has been obtained prior to the disposal of the fish, aquatic life, or seaweed; and
-      (iii) The proceeds (less any reasonable expenses of disposal) are applied to purposes that are cultural, benevolent, philanthropic, or charitable:
-  - **Scallop** means the mollusc Pecten novaezelandiae; but does not include scallop spat
-  - **Scallop spat** —
-    (a) Means the larval stage of the mollusc Pecten novaezelandiae; and
-    (b) Includes any animal of that species, still in its shell, that has been retained by fishing gear on which it settled while in the larval stage:
+      (v) the use by a person of fish, aquatic life, or seaweed as bait in that person's commercial fishing operations; and
+      (vi) any other use by a person of fish, aquatic life, or seaweed as part of that person's commercial activities;—
+    (b) does not include the disposal by any method approved by the chief executive of fish, aquatic life, or seaweed lawfully taken during the course of a fishing competition, if—
+      (i) the competition and the disposal method are carried out in accordance with any conditions imposed by the chief executive, either generally or specifically; and
+      (ii) the chief executive's approval has been obtained prior to the disposal of the fish, aquatic life, or seaweed; and
+      (iii) the proceeds (less any reasonable expenses of disposal) are applied to purposes that are cultural, benevolent, philanthropic, or charitable
+  - **scallop** means the mollusc Pecten novaezelandiae; but does not include scallop spat
+  - **scallop spat** —
+    (a) means the larval stage of the mollusc Pecten novaezelandiae; and
+    (b) includes any animal of that species, still in its shell, that has been retained by fishing gear on which it settled while in the larval stage
   - **scampi** means any fish of the species Metanephrops challengeri
-  - **Seaweed** includes all kinds of algae and sea-grasses that grow in New Zealand fisheries waters at any stage of their life history, whether living or dead
+  - **seaweed** includes all kinds of algae and sea-grasses that grow in New Zealand fisheries waters at any stage of their life history, whether living or dead
   - **settlement quota** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **settlement quota interest** means an interest registered in respect of quota management stocks under section 152A
-  - **Shellfish** includes all species of the phylum Echinodermata and phylum Mollusca and all species of the Class Crustacea at any stage of their life history, whether living or dead
-  - **Southern scallop** means any scallop found in the southern scallop fishery
-  - **Southern scallop fishery** means those New Zealand fisheries waters defined as SCA7 in Schedule 1 to this Act
-  - **Spat catching permit** means a permit issued under section 67Q of the Fisheries Act 1983
-  - **Special permit** means a special permit issued under section 97 of this Act
-  - **Specified functions, duties, or powers** , in relation to an approved service delivery organisation, has the meaning given to it by section 296A
-  - **Sports fish** has the same meaning as in section 2(1) of the Conservation Act 1987
-  - **Standards and specifications** means standards and specifications issued under section 296O
-  - **Statutory debt** means any fee, charge, or levy required by this Act, or by any regulation, order, notice, direction, or other instrument made or issued under this Act, to be paid to the Crown or the Ministry or the holder of any named office
-  - **Stock** means any fish, aquatic life, or seaweed of one or more species that are treated as a unit for the purposes of fisheries management
+  - **shellfish** includes all species of the phylum Echinodermata and phylum Mollusca and all species of the Class Crustacea at any stage of their life history, whether living or dead
+  - **southern scallop** means any scallop found in the southern scallop fishery
+  - **southern scallop fishery** means those New Zealand fisheries waters defined as SCA7 in Schedule 1 to this Act
+  - **spat catching permit** means a permit issued under section 67Q of the Fisheries Act 1983
+  - **special permit** means a special permit issued under section 97 of this Act
+  - **specified functions, duties, or powers** , in relation to an approved service delivery organisation, has the meaning given to it by section 296A
+  - **sports fish** has the same meaning as in section 2(1) of the Conservation Act 1987
+  - **standards and specifications** means standards and specifications issued under section 296O
+  - **statutory debt** means any fee, charge, or levy required by this Act, or by any regulation, order, notice, direction, or other instrument made or issued under this Act, to be paid to the Crown or the Ministry or the holder of any named office
+  - **stock** means any fish, aquatic life, or seaweed of one or more species that are treated as a unit for the purposes of fisheries management
   - **subcompany** , in relation to Aotearoa Fisheries Limited, has the meaning given to it in section 5 of the Maori Fisheries Act 2004
-  - **Sustainability measure** means any measure set or varied under Part 3 of this Act for the purpose of ensuring sustainability
-  - **Taking** means fishing; and and have a corresponding meaning
-  - **Tangata whenua** , in relation to a particular area, means the hapu, or iwi, that is Maori and holds mana whenua over that area
+  - **sustainability measure** means any measure set or varied under Part 3 of this Act for the purpose of ensuring sustainability
+  - **taking** means fishing; and and have a corresponding meaning
+  - **tangata whenua** , in relation to a particular area, means the hapu, or iwi, that is Maori and holds mana whenua over that area
   - **Te Ohu Kai Moana** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **Te Ohu Kai Moana Trustee Limited** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
   - **Te Putea Whakatupu Trust** has the meaning given to it in section 5 of the Maori Fisheries Act 2004
@@ -284,27 +281,27 @@ _Consolidation as at 2008-10-01_
     (b) is not longer than the greater of—
       (i) 6 metres; or
       (ii) 50% of the overall length of the fishing vessel it is carried by or attached to
-  - **Territorial sea of New Zealand** or means all the waters of the territorial sea of New Zealand as defined by section 3 of the Territorial Sea and Exclusive Economic Zone Act 1977
-  - **Tikanga Maori** means Maori customary values and practices
-  - **Total allowable catch** , in relation to any quota management stock, means a total allowable catch as set or varied for that stock by notice in the Gazette under section 13 or section 14 of this Act
-  - **Total allowable commercial catch** , in relation to any quota management stock, means a total allowable commercial catch specified for that stock by notice in the Gazette under section 20 of this Act, and includes any total allowable commercial catch set by or under the Fisheries Act 1983
-  - **Transaction** means,—
-    (a) In relation to any quota or annual catch entitlement or provisional catch history, a transfer of the quota, annual catch entitlement, or provisional catch history:
+  - **territorial sea of New Zealand** or means all the waters of the territorial sea of New Zealand as defined by section 3 of the Territorial Sea and Exclusive Economic Zone Act 1977
+  - **tikanga Maori** means Maori customary values and practices
+  - **total allowable catch** , in relation to any quota management stock, means a total allowable catch as set or varied for that stock by notice in the Gazette under section 13 or section 14 of this Act
+  - **total allowable commercial catch** , in relation to any quota management stock, means a total allowable commercial catch specified for that stock by notice in the Gazette under section 20 of this Act, and includes any total allowable commercial catch set by or under the Fisheries Act 1983
+  - **transaction** means,—
+    (a) in relation to any quota or annual catch entitlement or provisional catch history, a transfer of the quota, annual catch entitlement, or provisional catch history:
     (b) in relation to any quota, a mortgage, variation of mortgage, discharge of mortgage, or assignment of mortgage over the quota:
-    (c) In relation to any quota or annual catch entitlement, a caveat or discharge of a caveat over the quota or annual catch entitlement:
-  - **Transhipment** means the transfer of fish, aquatic life, or seaweed from one vessel to another vessel; and and have a corresponding meaning
-  - **Transportation** means—
-    (a) The receiving and carriage of fish, aquatic life, or seaweed by any vessel; or
-    (b) The storage and refrigeration of fish, aquatic life, or seaweed by any vessel for the purpose of carriage:
-  - **Tuna** means any fish of the genera Katsuwonus, Euthynnus, Thunnus, Allothunnus, or Gasterochisma
-  - **Unwanted aquatic life** means—
-    (a) Any species (including subspecies, hybrids, and variations of that species) listed in Schedule 3 to the Freshwater Fisheries Regulations 1983:
-    (b) Any species of fish, aquatic life, or seaweed that is determined by a chief technical officer under the Biosecurity Act 1993 to be an unwanted organism:
-  - **Vessel** means any description of vessel, aircraft, hovercraft, submersible vessel, or other vessel of whatever size
-  - **Whitebait** includes the species Retropina retropina and juveniles of all species of the genus Galaxias:
-  - **Working day** means any day other than—
-    (a) A Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (b) A day in the period commencing on the 25th day of December in any year and ending with the close of the 15th day of January in the following year.
+    (c) in relation to any quota or annual catch entitlement, a caveat or discharge of a caveat over the quota or annual catch entitlement
+  - **transhipment** means the transfer of fish, aquatic life, or seaweed from one vessel to another vessel; and and have a corresponding meaning
+  - **transportation** means—
+    (a) the receiving and carriage of fish, aquatic life, or seaweed by any vessel; or
+    (b) the storage and refrigeration of fish, aquatic life, or seaweed by any vessel for the purpose of carriage
+  - **tuna** means any fish of the genera Katsuwonus, Euthynnus, Thunnus, Allothunnus, or Gasterochisma
+  - **unwanted aquatic life** means—
+    (a) any species (including subspecies, hybrids, and variations of that species) listed in Schedule 3 to the Freshwater Fisheries Regulations 1983:
+    (b) any species of fish, aquatic life, or seaweed that is determined by a chief technical officer under the Biosecurity Act 1993 to be an unwanted organism:
+  - **vessel** means any description of vessel, aircraft, hovercraft, submersible vessel, or other vessel of whatever size
+  - **whitebait** includes the species Retropina retropina and juveniles of all species of the genus Galaxias:
+  - **working day** means any day other than—
+    (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
+    (b) a day in the period commencing on the 25th day of December in any year and ending with the close of the 15th day of January in the following year.
 (1A) References to this Act include references to rules and regulations made under this Act.
 (2) For the avoidance of doubt, it is hereby declared that, unless the context otherwise requires,—
   (a) Every reference in this Act to any fisheries resources, stock, fish, aquatic life, seaweed, habitat, location of stock, quota, or annual catch entitlement includes any part thereof:
@@ -326,24 +323,24 @@ _Consolidation as at 2008-10-01_
 ### 5 Application of international obligations and Treaty of Waitangi (Fisheries Claims) Settlement Act 1992
 This Act shall be interpreted, and all persons exercising or performing functions, duties, or powers conferred or imposed by or under it shall act, in a manner consistent with—
   (a) New Zealand's international obligations relating to fishing; and
-  (b) The provisions of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
+  (b) the provisions of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
 
 ### 6 Application of Resource Management Act 1991
 (1) No provision in any regional plan or coastal permit is enforceable to the extent that it provides for—
-  (a) The allocation to one or more fishing sectors in preference to any other fishing sector of access to any fisheries resources in the coastal marine area; or
-  (b) The conferral on any fisher of a right to occupy any land in the coastal marine area or any related part of the coastal marine area, if the right to occupy would exclude any other fisher from fishing in any part of the coastal marine area.
+  (a) the allocation to one or more fishing sectors in preference to any other fishing sector of access to any fisheries resources in the coastal marine area; or
+  (b) the conferral on any fisher of a right to occupy any land in the coastal marine area or any related part of the coastal marine area, if the right to occupy would exclude any other fisher from fishing in any part of the coastal marine area.
 (2) Subsection (1) does not—
   (a) prevent a regional council from taking into account the effects of aquaculture activities on fishing or fisheries resources in establishing an aquaculture management area under section 165C of the Resource Management Act 1991; or
   (b) apply to a regional coastal plan to the extent that it establishes an aquaculture management area; or
   (c) prevent any regional plan or coastal permit authorising the erection in the coastal marine area of a fish farm structure or other structure.
 (3) In this section—
   - **Fishing sector** means—
-    (a) Commercial fishers:
-    (b) Recreational fishers:
+    (a) commercial fishers:
+    (b) recreational fishers:
     (c) Maori non-commercial customary fishers:
-    (d) Fish farmers:
-    (e) Other fishers authorised under this Act to take fish, aquatic life, or seaweed:
-  - **Occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991.
+    (d) fish farmers:
+    (e) other fishers authorised under this Act to take fish, aquatic life, or seaweed:
+  - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991.
 (4)
 
 ### 7 Act to bind the Crown
@@ -354,82 +351,82 @@ This Act shall bind the Crown.
 ### 8 Purpose
 (1) The purpose of this Act is to provide for the utilisation of fisheries resources while ensuring sustainability.
 (2) In this Act—
-  - **Ensuring sustainability** means—
-    (a) Maintaining the potential of fisheries resources to meet the reasonably foreseeable needs of future generations; and
-    (b) Avoiding, remedying, or mitigating any adverse effects of fishing on the aquatic environment:
-  - **Utilisation** means conserving, using, enhancing, and developing fisheries resources to enable people to provide for their social, economic, and cultural wellbeing.
+  - **ensuring sustainability** means—
+    (a) maintaining the potential of fisheries resources to meet the reasonably foreseeable needs of future generations; and
+    (b) avoiding, remedying, or mitigating any adverse effects of fishing on the aquatic environment:
+  - **utilisation** means conserving, using, enhancing, and developing fisheries resources to enable people to provide for their social, economic, and cultural wellbeing.
 
 ### 9 Environmental principles
 All persons exercising or performing functions, duties, or powers under this Act, in relation to the utilisation of fisheries resources or ensuring sustainability, shall take into account the following environmental principles:
-  (a) Associated or dependent species should be maintained above a level that ensures their long-term viability:
-  (b) Biological diversity of the aquatic environment should be maintained:
-  (c) Habitat of particular significance for fisheries management should be protected.
+  (a) associated or dependent species should be maintained above a level that ensures their long-term viability:
+  (b) biological diversity of the aquatic environment should be maintained:
+  (c) habitat of particular significance for fisheries management should be protected.
 
 ### 10 Information principles
 All persons exercising or performing functions, duties, or powers under this Act, in relation to the utilisation of fisheries resources or ensuring sustainability, shall take into account the following information principles:
-  (a) Decisions should be based on the best available information:
-  (b) Decision makers should consider any uncertainty in the information available in any case:
-  (c) Decision makers should be cautious when information is uncertain, unreliable, or inadequate:
-  (d) The absence of, or any uncertainty in, any information should not be used as a reason for postponing or failing to take any measure to achieve the purpose of this Act.
+  (a) decisions should be based on the best available information:
+  (b) decision makers should consider any uncertainty in the information available in any case:
+  (c) decision makers should be cautious when information is uncertain, unreliable, or inadequate:
+  (d) the absence of, or any uncertainty in, any information should not be used as a reason for postponing or failing to take any measure to achieve the purpose of this Act.
 
 ## Part 3 — Sustainability measures
 
 ### 11 Sustainability measures
 (1) The Minister may, from time to time, set or vary any sustainability measure for one or more stocks or areas, after taking into account—
-  (a) Any effects of fishing on any stock and the aquatic environment; and
-  (b) Any existing controls under this Act that apply to the stock or area concerned; and
-  (c) The natural variability of the stock concerned.
+  (a) any effects of fishing on any stock and the aquatic environment; and
+  (b) any existing controls under this Act that apply to the stock or area concerned; and
+  (c) the natural variability of the stock concerned.
 (2) Before setting or varying any sustainability measure under subsection (1) of this section, the Minister shall have regard to any provisions of—that apply to the coastal marine area and are considered by the Minister to be relevant.
-  (a) Any regional policy statement, regional plan, or proposed regional plan under the Resource Management Act 1991; and
-  (b) Any management strategy or management plan under the Conservation Act 1987; and
-  (c) Sections 7 and 8 of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act)—
+  (a) any regional policy statement, regional plan, or proposed regional plan under the Resource Management Act 1991; and
+  (b) any management strategy or management plan under the Conservation Act 1987; and
+  (c) sections 7 and 8 of the Hauraki Gulf Marine Park Act 2000 (for the Hauraki Gulf as defined in that Act)—
 (2A) Before setting or varying any sustainability measure under this Part or making any decision or recommendation under this Act to regulate or control fishing, the Minister must take into account—
-  (a) Any conservation services or fisheries services; and
-  (b) Any relevant fisheries plan approved under this Part; and
-  (c) Any decisions not to require conservation services or fisheries services.
+  (a) any conservation services or fisheries services; and
+  (b) any relevant fisheries plan approved under this Part; and
+  (c) any decisions not to require conservation services or fisheries services.
 (3) Without limiting the generality of subsection (1) of this section, sustainability measures may relate to—
-  (a) The catch limit (including a commercial catch limit) for any stock or, in the case of a quota management stock that is subject to section 13 or section 14 of this Act, any total allowable catch for that stock:
-  (b) The size, sex, or biological state of any fish, aquatic life, or seaweed of any stock that may be taken:
-  (c) The areas from which any fish, aquatic life, or seaweed of any stock may be taken:
-  (d) The fishing methods by which any fish, aquatic life, or seaweed of any stock may be taken or that may be used in any area:
-  (e) The fishing season for any stock, area, fishing method, or fishing vessels.
+  (a) the catch limit (including a commercial catch limit) for any stock or, in the case of a quota management stock that is subject to section 13 or section 14 of this Act, any total allowable catch for that stock:
+  (b) the size, sex, or biological state of any fish, aquatic life, or seaweed of any stock that may be taken:
+  (c) the areas from which any fish, aquatic life, or seaweed of any stock may be taken:
+  (d) the fishing methods by which any fish, aquatic life, or seaweed of any stock may be taken or that may be used in any area:
+  (e) the fishing season for any stock, area, fishing method, or fishing vessels.
 (4) The Minister may,—
-  (a) By notice in the Gazette, set or vary the catch limit (including the commercial catch limit) for any stock not within the quota management system:
-  (b) Implement any sustainability measure or the variation of any sustainability measure, as set or varied under subsection (1),—
-    (i) By notice in the Gazette; or
-    (ii) By recommending the making of regulations under section 298.
+  (a) by notice in the Gazette, set or vary the catch limit (including the commercial catch limit) for any stock not within the quota management system:
+  (b) implement any sustainability measure or the variation of any sustainability measure, as set or varied under subsection (1),—
+    (i) by notice in the Gazette; or
+    (ii) by recommending the making of regulations under section 298.
 (5) Without limiting subsection (4)(a) of this section, when setting or varying a catch limit (including a commercial catch limit) for any stock not within the quota management system, the Minister shall have regard to the matters referred to in section 13(2) or section 21(1) or both those sections, as the case may require.
 
 ### 11A Fisheries plans
 (1) The Minister may from time to time approve, amend, or revoke a fisheries plan.
 (2) A fisheries plan approved under subsection (1) may relate to 1 or more stocks, fishing years, or areas, or any combination of those things.
 (3) Without limiting anything in subsection (2), a fisheries plan may include—
-  (a) Fisheries management objectives to support the purpose and principles of the Act:
-  (b) Strategies to achieve fisheries management objectives, which may include—
-    (i) Sustainability measures set or varied under any of sections 11, 13, 14, and 15:
-    (ii) Rules to manage the interaction between different fisheries sectors:
-  (c) Performance criteria to measure the achievement of the objectives and strategies:
-  (d) Conservation services or fisheries services:
-  (e) Contingency strategies to deal with foreseeable variations in circumstances.
+  (a) fisheries management objectives to support the purpose and principles of the Act:
+  (b) strategies to achieve fisheries management objectives, which may include—
+    (i) sustainability measures set or varied under any of sections 11, 13, 14, and 15:
+    (ii) rules to manage the interaction between different fisheries sectors:
+  (c) performance criteria to measure the achievement of the objectives and strategies:
+  (d) conservation services or fisheries services:
+  (e) contingency strategies to deal with foreseeable variations in circumstances.
 (4) Nothing in this section prevents the Minister from considering a proposal under Part 9.
 
 ### 12 Consultation
 (1) Before doing anything under any of sections 11(1), 11(4), 11A(1), 13(1), 13(4), 13(7), 14(1), 14(3), 14(6), 14B(1), 15(1), and 15(2) of this Act or recommending the making of an Order in Council under section 13(9) or section 14(8) or section 14A(1) of this Act, the Minister shall—
-  (a) Consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stock or the effects of fishing on the aquatic environment in the area concerned, including Maori, environmental, commercial, and recreational interests; and
-  (b) Provide for the input and participation of tangata whenua having—and have particular regard to Kaitiakitanga.
-    (i) A non-commercial interest in the stock concerned; or
-    (ii) An interest in the effects of fishing on the aquatic environment in the area concerned—
+  (a) consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stock or the effects of fishing on the aquatic environment in the area concerned, including Maori, environmental, commercial, and recreational interests; and
+  (b) provide for the input and participation of tangata whenua having—and have particular regard to Kaitiakitanga.
+    (i) a non-commercial interest in the stock concerned; or
+    (ii) an interest in the effects of fishing on the aquatic environment in the area concerned—
 (2) After setting or varying any sustainability measure, or after approving, amending, or revoking any fisheries plan, the Minister shall, as soon as practicable, give to the parties consulted in accordance with subsection (1) of this section reasons in writing for his or her decision.
 (3) This section does not apply in respect of emergency measures under section 16 of this Act.
 
 ### 13 Total allowable catch
 (1) Subject to this section, the Minister shall, by notice in the Gazette, set in respect of the quota management area relating to each quota management stock a total allowable catch for that stock, and that total allowable catch shall continue to apply in each fishing year for that stock unless varied under this section, or until an alteration of the quota management area for that stock takes effect in accordance with sections 25 and 26.
 (2) The Minister shall set a total allowable catch that—
-  (a) Maintains the stock at or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks; or
-  (b) Enables the level of any stock whose current level is below that which can produce the maximum sustainable yield to be altered—
-    (i) In a way and at a rate that will result in the stock being restored to or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks; and
-    (ii) Within a period appropriate to the stock, having regard to the biological characteristics of the stock and any environmental conditions affecting the stock; or
-  (c) Enables the level of any stock whose current level is above that which can produce the maximum sustainable yield to be altered in a way and at a rate that will result in the stock moving towards or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks.
+  (a) maintains the stock at or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks; or
+  (b) enables the level of any stock whose current level is below that which can produce the maximum sustainable yield to be altered—
+    (i) in a way and at a rate that will result in the stock being restored to or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks; and
+    (ii) within a period appropriate to the stock, having regard to the biological characteristics of the stock and any environmental conditions affecting the stock; or
+  (c) enables the level of any stock whose current level is above that which can produce the maximum sustainable yield to be altered in a way and at a rate that will result in the stock moving towards or above a level that can produce the maximum sustainable yield, having regard to the interdependence of stocks.
 (2A) For the purposes of setting a total allowable catch under this section, if the Minister considers that the current level of the stock or the level of the stock that can produce the maximum sustainable yield is not able to be estimated reliably using the best available information, the Minister must—
   (a) not use the absence of, or any uncertainty in, that information as a reason for postponing or failing to set a total allowable catch for the stock; and
   (b) have regard to the interdependence of stocks, the biological characteristics of the stock, and any environmental conditions affecting the stock; and
@@ -454,31 +451,31 @@ All persons exercising or performing functions, duties, or powers under this Act
 (6) After considering information about the abundance during the current fishing year of any stock listed in Schedule 3 to this Act, the Minister may, by notice in the Gazette, increase the total allowable catch for the stock with effect from such date in the fishing year in which the notice is published as may be stated in the notice.
 (7) If a total allowable catch for any stock has been increased during any fishing year under subsection (6) of this section, the total allowable catch for that stock shall, at the close of that fishing year, revert to the total allowable catch that applied to that stock at the beginning of that fishing year; but this subsection does not prevent a variation under subsection (3) of this section of the total allowable catch that applied at the beginning of that fishing year.
 (8) The Governor-General may from time to time, by Order in Council,—
-  (a) Omit the name of any stock from Schedule 3 to this Act:
-  (b) Add to that Schedule the name of any stock if—
-    (i) It is not possible, because of the biological characteristics of the species, to estimate maximum sustainable yield; or
-    (ii) A national allocation for New Zealand has been determined as part of an international agreement; or
-    (iii) The stock is managed on a rotational or enhanced basis; or.
+  (a) omit the name of any stock from Schedule 3 to this Act:
+  (b) add to that Schedule the name of any stock if—
+    (i) it is not possible, because of the biological characteristics of the species, to estimate maximum sustainable yield; or
+    (ii) a national allocation for New Zealand has been determined as part of an international agreement; or
+    (iii) the stock is managed on a rotational or enhanced basis; or.
     (iv) the stock comprises 1 or more highly migratory species.
 
 ### 14A Alternative total allowable catch for stocks specified by Order in Council
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister with the concurrence of the Minister responsible for the administration of the Environment Act 1986, apply section 14B to the quota management stock or stocks specified in the order.
 (2) No recommendation relating to any stock may be made under subsection (1) unless quota owners (proposers) who hold in the aggregate at least 95 000 000 quota shares in that stock propose to the Minister that he or she recommend the making of an Order in Council under subsection (1).
 (3) A proposal made under subsection (2) must—
-  (a) Specify the concerns (if any) of the quota owners who do not support the proposal; and
-  (b) Specify what arrangements are in place to address those concerns; and
-  (c) Address the matters specified in subsection (4).
+  (a) specify the concerns (if any) of the quota owners who do not support the proposal; and
+  (b) specify what arrangements are in place to address those concerns; and
+  (c) address the matters specified in subsection (4).
 (4) In considering making a recommendation under subsection (1), the Minister must have regard to the following:
-  (a) The need to commission appropriate research to assess the impact of the order on the stock; and
-  (b) The need to implement measures to improve the quality of information about the stock; and
-  (c) Whether it is appropriate to close areas to commercial fishing to reduce any sustainability risk to that stock; and
-  (d) The need to avoid any significant adverse effects on the aquatic environment of which the stock is a component.
+  (a) the need to commission appropriate research to assess the impact of the order on the stock; and
+  (b) the need to implement measures to improve the quality of information about the stock; and
+  (c) whether it is appropriate to close areas to commercial fishing to reduce any sustainability risk to that stock; and
+  (d) the need to avoid any significant adverse effects on the aquatic environment of which the stock is a component.
 (5) No recommendation may be made under subsection (1) in relation to a proposal made under subsection (2) unless the Minister is satisfied that—
-  (a) The stock is taken primarily as an incidental catch during the taking of 1 or more other stocks and is only a small proportion of the combined catch of the stock and other stock or stocks; and
-  (b) The total benefits of managing the stock at a level other than that permitted under section 13 out weigh the total costs; and
-  (c) Managing the stock at a level other than that permitted under section 13 will have no detrimental effects on non-commercial fishing interests in that stock; and
-  (d) The stock is able to be maintained above a level that ensures its long-term viability; and
-  (e) The purpose of the Act would be better achieved by setting a total allowable catch otherwise than in accordance with section 13.
+  (a) the stock is taken primarily as an incidental catch during the taking of 1 or more other stocks and is only a small proportion of the combined catch of the stock and other stock or stocks; and
+  (b) the total benefits of managing the stock at a level other than that permitted under section 13 out weigh the total costs; and
+  (c) managing the stock at a level other than that permitted under section 13 will have no detrimental effects on non-commercial fishing interests in that stock; and
+  (d) the stock is able to be maintained above a level that ensures its long-term viability; and
+  (e) the purpose of the Act would be better achieved by setting a total allowable catch otherwise than in accordance with section 13.
 
 ### 14B Alternative total allowable catch for certain stocks
 (1) Despite section 13, in the case of any quota management stock to which this section applies, the Minister must, by notice in the Gazette, set a total allowable catch for that stock in accordance with this section.
@@ -496,33 +493,33 @@ All persons exercising or performing functions, duties, or powers under this Act
 
 ### 15 Fishing-related mortality of marine mammals or other wildlife
 (1) If a population management plan has been approved under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, the Minister—
-  (a) Shall take all reasonable steps to ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
-  (b) May take such other measures as he or she considers necessary to further avoid, remedy, or mitigate any adverse effects of fishing on the relevant protected species.
+  (a) shall take all reasonable steps to ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
+  (b) may take such other measures as he or she considers necessary to further avoid, remedy, or mitigate any adverse effects of fishing on the relevant protected species.
 (2) In the absence of a population management plan, the Minister may, after consultation with the Minister of Conservation, take such measures as he or she considers are necessary to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, and such measures may include setting a limit on fishing-related mortality.
 (3) The Minister may require, or authorise the chief executive to require, any person or class of persons listed in section 189 of this Act to give to the Minister or the chief executive such information relating to fishing-related mortality as the Minister or chief executive, as the case may be, considers necessary, and may require, or authorise the chief executive to require, such information to be given in the approved manner and form.
 (4) The Minister may recommend the making of such regulations under section 298 of this Act as the Minister considers necessary or expedient for the purpose of implementing any measures referred to in subsection (1) or subsection (2) or subsection (3) of this section.
 (5) The Minister may, by notice in the Gazette, prohibit all or any fishing or fishing methods in an area either—
-  (a) Under subsection (1)(a) of this section, for the purpose of ensuring the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded; or
-  (b) Under subsection (2) of this section, for the purpose of ensuring that any limit on fishing-related mortality is not exceeded.
+  (a) under subsection (1)(a) of this section, for the purpose of ensuring the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded; or
+  (b) under subsection (2) of this section, for the purpose of ensuring that any limit on fishing-related mortality is not exceeded.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) of this Act who fails to comply with any notice given under subsection (5) of this section.
 
 ### 16 Emergency measures
 (1) If satisfied that there is or has been—the Minister may, by notice in the Gazette, impose such emergency measures in respect of any stocks or areas affected, or both, as the Minister considers necessary or expedient in the circumstances.
-  (a) An outbreak of disease; or
-  (b) A serious decline in the abundance or reproductive potential of one or more stocks or species; or
-  (c) A significant adverse change in the aquatic environment,—
+  (a) an outbreak of disease; or
+  (b) a serious decline in the abundance or reproductive potential of one or more stocks or species; or
+  (c) a significant adverse change in the aquatic environment,—
 (2) Before giving notice under subsection (1) of this section, the Minister shall, to the extent reasonably practicable in the circumstances, consult such persons or organisations as the Minister considers are representative of the classes of persons having an interest in the stock or area affected, including Maori, environmental, commercial, and recreational interests.
 (3) An emergency measure under this section may be in force for a period not exceeding 3 months and, after consultation by the Minister with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in any stock or area affected, including Maori, environmental, commercial, and recreational interests, may be renewed once only for a further period not exceeding 9 months.
 (4) This section does not empower the Minister to reduce or cause to be reduced during the fishing year to which it relates any total allowable catch set under section 13 or section 14 of this Act.
 (5) The Minister shall ensure that all emergency measures imposed under this section are publicly notified.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) of this Act who contravenes any emergency measure imposed under this section.
 (7) For the purposes of this section, the term emergency measures means one or more of the following:
-  (a) Closing any area by prohibiting the harvesting of all or any fish, aquatic life, or seaweed in that area:
-  (b) Restricting the methods that may be used to take any fish, aquatic life, or seaweed in any area:
-  (c) Restricting the taking of any fish, aquatic life, or seaweed in any area by reference to the size, sex, or biological state of that fish, aquatic life, or seaweed and, for that purpose, setting or altering limits in respect of the size, sex, or biological state of any fish, aquatic life, or seaweed:
-  (d) Setting or altering the fishing season for any stock in any area:
-  (e) Imposing reporting requirements for any stock, area, or fishing method that are additional to reporting requirements for the time being in force under any other provision of this Act:
-  (f) Requiring the disposal of any fish, aquatic life, or seaweed in a specified manner.
+  (a) closing any area by prohibiting the harvesting of all or any fish, aquatic life, or seaweed in that area:
+  (b) restricting the methods that may be used to take any fish, aquatic life, or seaweed in any area:
+  (c) restricting the taking of any fish, aquatic life, or seaweed in any area by reference to the size, sex, or biological state of that fish, aquatic life, or seaweed and, for that purpose, setting or altering limits in respect of the size, sex, or biological state of any fish, aquatic life, or seaweed:
+  (d) setting or altering the fishing season for any stock in any area:
+  (e) imposing reporting requirements for any stock, area, or fishing method that are additional to reporting requirements for the time being in force under any other provision of this Act:
+  (f) requiring the disposal of any fish, aquatic life, or seaweed in a specified manner.
 
 ## Part 4 — Quota management system
 
@@ -571,21 +568,21 @@ If the Minister determines under section 17B to make a stock subject to the quot
 
 ### 19 Matters to be included in notice under section 18
 (1) Any notice given under section 18 of this Act shall—
-  (a) Define the quota management area to which the notice relates by reference to an area or areas defined in Schedule 1 to this Act or in any other manner:
-  (b) State the fishing year in respect of the stock, which year shall be a 12-month period commencing on either the 1st day of April or the 1st day of October:
-  (c) State whether, for the stock concerned, the total allowable commercial catch is, and annual catch entitlements are, to be expressed in meatweight or greenweight:
-  (d) Make provision for such other matters as may be contemplated by this Act.
+  (a) define the quota management area to which the notice relates by reference to an area or areas defined in Schedule 1 to this Act or in any other manner:
+  (b) state the fishing year in respect of the stock, which year shall be a 12-month period commencing on either the 1st day of April or the 1st day of October:
+  (c) state whether, for the stock concerned, the total allowable commercial catch is, and annual catch entitlements are, to be expressed in meatweight or greenweight:
+  (d) make provision for such other matters as may be contemplated by this Act.
 (2) In defining the quota management area, the Minister shall, as far as practicable, maintain the same quota management areas for different species.
 (2A) In the case of a stock or species listed in Schedule 4C, the notice must amend that schedule by removing the stock or species concerned (and may make any amendments consequential on that removal) with effect on and from the date on which the stock becomes subject to the quota management system.
 (3) If the Minister is satisfied that any species in the waters around the Chatham Islands can, for fisheries management purposes, be managed effectively as a unit, a notice under section 18 of this Act may create around the Chatham Islands a separate quota management area for that species.
 (4) Subject to subsections (5), (5A), and (6),—except by Act of Parliament.
-  (a) No declaration made under section 18 of this Act shall be revoked; and
-  (b) No species or class of fish, aquatic life, or seaweed that was immediately before the commencement of this Part of this Act, subject to Part 2A of the Fisheries Act 1983, may be removed from the quota management system; and
-  (c) No quota management area shall be altered—
+  (a) no declaration made under section 18 of this Act shall be revoked; and
+  (b) no species or class of fish, aquatic life, or seaweed that was immediately before the commencement of this Part of this Act, subject to Part 2A of the Fisheries Act 1983, may be removed from the quota management system; and
+  (c) no quota management area shall be altered—
 (5) Subsection (4) of this section does not prevent—
-  (a) The Minister varying, by notice in the Gazette, any date set under section 18 of this Act, if the variation is published before that date; or
-  (b) Any alteration under section 25 of this Act; or
-  (c) Any amendment to a notice under section 18 of this Act that involves a minor or technical correction only.
+  (a) the Minister varying, by notice in the Gazette, any date set under section 18 of this Act, if the variation is published before that date; or
+  (b) any alteration under section 25 of this Act; or
+  (c) any amendment to a notice under section 18 of this Act that involves a minor or technical correction only.
 (5A) Without limiting subsection (5)(c), the Minister may amend a declaration under section 18 at any time before the allocation of provisional catch history under section 36, if the declaration was made on the basis of incorrect or misleading information, or as a result of a mistake.
 (6) A provision in a regulation made under this Act, or in a notice given under section 15 or section 16 or a regulation made under section 186(2)(b) of this Act, shall not be construed as altering a quota management area merely because it prohibits, limits, or restricts fishing in the quota management area.
 (7) Before making a declaration under section 18 or amending a declaration under subsection (5A), the Minister must consult the persons or organisations considered by the Minister to be representative of those classes of persons having an interest in the matters referred to in subsection (1).
@@ -597,20 +594,20 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (3) Without limiting the generality of subsections (1) and (2) of this section, the Minister may set or vary a total allowable commercial catch at, or to, zero.
 (4) Every total allowable commercial catch set or varied under this section shall have effect on and from the first day of the next fishing year for the quota management stock concerned.
 (5) A total allowable commercial catch for any quota management stock shall not—
-  (a) Be set unless the total allowable catch for that stock has been set under section 13 or section 14 of this Act; or
-  (b) Be greater than the total allowable catch set for that stock.
+  (a) be set unless the total allowable catch for that stock has been set under section 13 or section 14 of this Act; or
+  (b) be greater than the total allowable catch set for that stock.
 
 ### 21 Matters to be taken into account in setting or varying any total allowable commercial catch
 (1) In setting or varying any total allowable commercial catch for any quota management stock, the Minister shall have regard to the total allowable catch for that stock and shall allow for—
-  (a) The following non-commercial fishing interests in that stock, namely-
+  (a) the following non-commercial fishing interests in that stock, namely-
     (i) Maori customary non-commercial fishing interests; and
-    (ii) Recreational interests; and
-  (b) All other mortality to that stock caused by fishing.
+    (ii) recreational interests; and
+  (b) all other mortality to that stock caused by fishing.
 (2) Before setting or varying a total allowable commercial catch for any quota management stock, the Minister shall consult such persons and organisations as the Minister considers are representative of those classes of persons having an interest in this section, including Maori, environmental, commercial, and recreational interests.
 (3) After setting or varying any total allowable commercial catch under section 20 of this Act, the Minister shall, as soon as practicable, give to the parties consulted under subsection (2) of this section reasons in writing for his or her decision.
 (4) When allowing for Maori customary non-commercial interests under subsection (1), the Minister must take into account—
-  (a) Any mataitai reserve in the relevant quota management area that is declared by the Minister by notice in the Gazette under regulations made for the purpose under section 186:
-  (b) Any area closure or any fishing method restriction or prohibition in the relevant quota management area that is imposed by the Minister by notice in the Gazette made under section 186A.
+  (a) any mataitai reserve in the relevant quota management area that is declared by the Minister by notice in the Gazette under regulations made for the purpose under section 186:
+  (b) any area closure or any fishing method restriction or prohibition in the relevant quota management area that is imposed by the Minister by notice in the Gazette made under section 186A.
 (5) When allowing for recreational interests under subsection (1) of this section, the Minister shall take into account any regulations that prohibit or restrict fishing in any area for which regulations have been made following a recommendation made by the Minister under section 311 of this Act.
 
 ### 22 Effect of reduction of total allowable commercial catch
@@ -618,14 +615,14 @@ If the Minister determines under section 17B to make a stock subject to the quot
   (a) is the number of quota shares for the stock held by the person immediately before the reduction in the total allowable commercial catch for the stock takes effect; and
   (b) is the number of unencumbered quota shares for the stock owned by the Crown immediately before the reduction in the total allowable commercial catch for the stock takes effect; and
   (c) is the lesser of—
-    (a) The number of unencumbered quota shares for the stock owned by the Crown immediately before the reduction in the total allowable commercial catch for the stock takes effect:
-    (b) The number of quota shares for the stock the quota weight equivalent of which is equivalent to the amount of the reduction in the total allowable commercial catch for the stock; and
+    (a) the number of unencumbered quota shares for the stock owned by the Crown immediately before the reduction in the total allowable commercial catch for the stock takes effect:
+    (b) the number of quota shares for the stock the quota weight equivalent of which is equivalent to the amount of the reduction in the total allowable commercial catch for the stock; and
   (d) is the number of quota shares to be transferred to the quota owner under this section.
 (2) If there has been a reduction in the total allowable commercial catch for any stock but the Crown does not hold any unencumbered quota shares for that stock as at the date the reduction takes effect, no deductions or transfers of quota shall be made under this section.
 (3) The chief executive shall, as soon as practicable after the reduction takes effect, notify every quota owner affected by a reduction in the total allowable commercial catch for any stock of—
-  (a) The reduced total allowable commercial catch; and
-  (b) Any consequential change in the number of the quota shares for that stock that are owned by that person; and
-  (c) The quota weight equivalent of 1 quota share of the reduced total allowable commercial catch.
+  (a) the reduced total allowable commercial catch; and
+  (b) any consequential change in the number of the quota shares for that stock that are owned by that person; and
+  (c) the quota weight equivalent of 1 quota share of the reduced total allowable commercial catch.
 (4) The chief executive shall, as soon as practicable after any reduction in the total allowable commercial catch for any stock takes effect, notify the Registrar of Quota for any stock of any quota transfer necessary to give effect to the reduction.
 (5) For the purposes of subsection (1) of this section, the Crown is a quota owner except in relation to its unencumbered quota.
 
@@ -634,20 +631,20 @@ If the Minister determines under section 17B to make a stock subject to the quot
   (a) is the number of quota shares for the stock owned by any person immediately before the increase in the total allowable commercial catch takes effect; and
   (b) is the total allowable commercial catch for the stock (in kilogrammes) applying immediately before the increase takes effect; and
   (c) is the lesser of—
-    (a) The amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
-    (b) The total of all preferential allocation rights for the stock (in kilogrammes); and
+    (a) the amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
+    (b) the total of all preferential allocation rights for the stock (in kilogrammes); and
   (d) is the number of quota shares to be deducted from each person's holdings and transferred to the Crown in accordance with this section.
-(2) Immediately after deducting quota shares under subsection (1) of this section, the chief executive shall transfer to each eligible person a number of quota shares which shall be calculated in accordance with the following formula: a 100,000,000 — X c X ———————————— = e b (d + c) where—
+(2) Immediately after deducting quota shares under subsection (1) of this section, the chief executive shall transfer to each eligible person a number of quota shares which shall be calculated in accordance with the following formula:a ÷ b × c × 100,000,000 ÷ (d + c) = ewhere—
   (a) is the eligible person's current preferential allocation rights for the stock (in kilogrammes); and
   (b) is the total of all preferential allocation rights for the stock (in kilogrammes); and
   (c) is the lesser of—
-    (a) The amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
-    (b) The total of all preferential allocation rights for the stock (in kilogrammes); and
+    (a) the amount of the increase in the total allowable commercial catch for the stock (in kilogrammes):
+    (b) the total of all preferential allocation rights for the stock (in kilogrammes); and
   (d) is the total allowable commercial catch for the stock (in kilogrammes) applying immediately before the increase takes effect; and
   (e) is the number of quota shares to be transferred from the Crown to the eligible person in accordance with this section.
 (3) Every person who was, immediately before the commencement of this section, entitled to quota under section 28OE(1)(a) of the Fisheries Act 1983 is entitled to a preferential allocation right equivalent to the amount (in kilogrammes) of the reduction in that person's provisional maximum individual transferable quota for the stock under section 28N of that Act less the amount (in kilogrammes) of any quota allocated to that person under section 28OE(1)(a) of that Act, but that preferential allocation right (which entitles the holder to receive quota shares under subsection (2) of this section)—
-  (a) Shall have effect only while that person continues to be registered on the Quota Register as the owner of shares for that stock, and those shares have been continuously owned by that person since the commencement of this section; and
-  (b) Is personal to the eligible person who holds the right and is not transferable in any circumstances.
+  (a) shall have effect only while that person continues to be registered on the Quota Register as the owner of shares for that stock, and those shares have been continuously owned by that person since the commencement of this section; and
+  (b) is personal to the eligible person who holds the right and is not transferable in any circumstances.
 (4) The amount of an eligible person's preferential allocation right must be reduced in accordance with the following formula:where—
   (a) is the eligible person's current preferential allocation right for the stock (in kilogrammes)
   (b) is the total of all preferential allocation rights for the stock (in kilogrammes)
@@ -659,9 +656,9 @@ If the Minister determines under section 17B to make a stock subject to the quot
 (4B) An eligible person is not entitled to receive, in the aggregate under subsection (2), quota shares whose quota weight equivalent (calculated at the time of transfer of the relevant shares to the eligible person) exceeds the amount of preferential allocation right held by that person on the commencement of this section or on the date of allocation of quota to that person under section 337, as the case may be.
 (5) If the total allowable commercial catch for any stock is increased but there are no eligible persons in relation to that stock, no deductions or transfers of quota shall be made under this section.
 (6) The chief executive shall, as soon as practicable after any increase in the total allowable commercial catch for any stock takes effect, cause every quota owner affected by the increase to be notified of—
-  (a) The increased total allowable commercial catch; and
-  (b) Any consequential change in the number of the quota shares for that stock owned by that person; and
-  (c) The quota weight equivalent of 1 quota share of the increased total allowable commercial catch.
+  (a) the increased total allowable commercial catch; and
+  (b) any consequential change in the number of the quota shares for that stock owned by that person; and
+  (c) the quota weight equivalent of 1 quota share of the increased total allowable commercial catch.
 (7) The chief executive shall, as soon as practicable after any reduction in a person's preferential allocation right takes effect, notify the Registrar of Quota for any stock of any quota transfer necessary to give effect to the reduction.
 
 **Quota management areas**
@@ -669,60 +666,60 @@ If the Minister determines under section 17B to make a stock subject to the quot
 ### 24 Quota management areas
 (1) There shall be a quota management area for every stock to which this Part of this Act applies.
 (2) Subject to section 25 of this Act, the quota management area for any stock is,—
-  (a) In the case of any stock declared by notice under section 18 of this Act to be subject to the quota management system, the quota management area defined for that stock by that notice:
-  (b) In the case of any species or class of fish, aquatic life, or seaweed that, immediately before the date of commencement of this section, was subject to Part 2A of the Fisheries Act 1983, the quota management area in force for that stock immediately before that date.
+  (a) in the case of any stock declared by notice under section 18 of this Act to be subject to the quota management system, the quota management area defined for that stock by that notice:
+  (b) in the case of any species or class of fish, aquatic life, or seaweed that, immediately before the date of commencement of this section, was subject to Part 2A of the Fisheries Act 1983, the quota management area in force for that stock immediately before that date.
 
 ### 25 Alteration of quota management areas
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister,—
-  (a) Alter a quota management area or quota management areas—
-    (i) By dividing an area into smaller quota management areas; or
-    (ii) By amalgamating a quota management area (or defined area or areas within a quota management area) with any adjoining quota management areas (or defined area or areas within any adjoining quota management area); or
-    (iii) By dividing a multi-species stock into 2 or more stocks; or
-    (iv) By amalgamating 2 or more quota management stocks; or
-    (v) By doing any combination of those things:
-  (b) In relation to quota for squid in a quota management area being altered under this section, remove any method restriction applying to that quota:
-  (c) Amend Schedule 1 by adding a description of any new quota management area or quota management areas created as a result of an alteration under paragraph (a).
+  (a) alter a quota management area or quota management areas—
+    (i) by dividing an area into smaller quota management areas; or
+    (ii) by amalgamating a quota management area (or defined area or areas within a quota management area) with any adjoining quota management areas (or defined area or areas within any adjoining quota management area); or
+    (iii) by dividing a multi-species stock into 2 or more stocks; or
+    (iv) by amalgamating 2 or more quota management stocks; or
+    (v) by doing any combination of those things:
+  (b) in relation to quota for squid in a quota management area being altered under this section, remove any method restriction applying to that quota:
+  (c) amend Schedule 1 by adding a description of any new quota management area or quota management areas created as a result of an alteration under paragraph (a).
 (2) The Minister may make a recommendation under subsection (1) if—
-  (a) The Minister complies with section 25A and quota owners who hold in the aggregate not fewer than 75 000 000 quota shares for any stock that would be affected by the proposed alteration have requested the Minister to make such a recommendation; or
-  (b) The Minister complies with section 25B, in which case a request specified in paragraph (a) is not required.
+  (a) the Minister complies with section 25A and quota owners who hold in the aggregate not fewer than 75 000 000 quota shares for any stock that would be affected by the proposed alteration have requested the Minister to make such a recommendation; or
+  (b) the Minister complies with section 25B, in which case a request specified in paragraph (a) is not required.
 (3) Before recommending the alteration of any quota management area under subsection (1), the Minister must—
-  (a) Have regard to—
-    (i) Non-commercial fishing interests in the affected area; and
-    (ii) The biological characteristics of each stock that would be affected by the recommendation; and
-    (iii) Such other matters as the Minister considers relevant; and
-  (b) Consult the persons and organisations considered by the Minister to be representative of those classes of persons having an interest in the relevant quota management area, including Maori, recreational, commercial and environmental interests; and
-  (c) Provide for the input and participation of tangata whenua who have—
-    (i) A non-commercial interest in the stock or stocks concerned; or
-    (ii) An interest in the effects of fishing on the aquatic environment in the area or areas concerned; and
-  (d) For the purpose of paragraph (c), have particular regard to Kaitiakitanga.
+  (a) have regard to—
+    (i) non-commercial fishing interests in the affected area; and
+    (ii) the biological characteristics of each stock that would be affected by the recommendation; and
+    (iii) such other matters as the Minister considers relevant; and
+  (b) consult the persons and organisations considered by the Minister to be representative of those classes of persons having an interest in the relevant quota management area, including Maori, recreational, commercial and environmental interests; and
+  (c) provide for the input and participation of tangata whenua who have—
+    (i) a non-commercial interest in the stock or stocks concerned; or
+    (ii) an interest in the effects of fishing on the aquatic environment in the area or areas concerned; and
+  (d) for the purpose of paragraph (c), have particular regard to Kaitiakitanga.
 (4) The Minister's recommendation under subsection (1) must reflect what is in the quota owners' agreement referred to in section 25A, or in the plan referred to in section 25B, as the case may be.
 (5) Every Order in Council made under subsection (1)—
-  (a) Comes into force on the commencement of the first day of the fishing year to which it relates; and
-  (b) Must be made no fewer than 90 days before it comes into force.
+  (a) comes into force on the commencement of the first day of the fishing year to which it relates; and
+  (b) must be made no fewer than 90 days before it comes into force.
 (6) When an Order in Council is made under subsection (1), the chief executive must ensure that—
-  (a) A memorial is recorded in the appropriate register against all quota for any stock affected by the alteration; and
-  (b) The memorial is to the effect that the stock will be affected by the alteration.
+  (a) a memorial is recorded in the appropriate register against all quota for any stock affected by the alteration; and
+  (b) the memorial is to the effect that the stock will be affected by the alteration.
 
 ### 25A Alteration of quota management areas with agreement of quota owners
 (1) The Minister may not recommend the alteration of any quota management area under section 25(1) in response to a request referred to in section 25(2)(a) unless the Minister is satisfied that—
-  (a) The purpose of this Act would be achieved better by altering the quota management area or areas; and
-  (b) The alteration would not unduly prejudice any quota owner who—
-    (i) Owns quota shares for the stock or stocks in the quota management area or areas concerned; and
-    (ii) Is opposed to the alteration; and
-  (c) An agreement that, in the Minister's opinion, satisfactorily addresses the matters set out in subsection (2) has been executed (either as an original or in counterparts) by the quota owners who hold in the aggregate not fewer than 75 000 000 quota shares for each of the stock or stocks for the area or areas being altered; and
-  (d) The quota owners have publicly notified their intention to seek an alteration of the quota management area or areas; and
+  (a) the purpose of this Act would be achieved better by altering the quota management area or areas; and
+  (b) the alteration would not unduly prejudice any quota owner who—
+    (i) owns quota shares for the stock or stocks in the quota management area or areas concerned; and
+    (ii) is opposed to the alteration; and
+  (c) an agreement that, in the Minister's opinion, satisfactorily addresses the matters set out in subsection (2) has been executed (either as an original or in counterparts) by the quota owners who hold in the aggregate not fewer than 75 000 000 quota shares for each of the stock or stocks for the area or areas being altered; and
+  (d) the quota owners have publicly notified their intention to seek an alteration of the quota management area or areas; and
   (e) the quota owners have also notified their intention to seek an alteration to—
     (i) persons who are noted on the Quota Register as having an interest in the quota to which the proposed alteration relates; and
     (ii) parties to leases or transfers registered on the Transitional Register in respect of quota to which the proposed alteration relates.
 (2) The agreement must provide for all of the following matters:
-  (a) The boundaries of the proposed quota management area or quota management areas:
-  (b) The species that comprise the stock or stocks after the proposed alteration:
-  (c) The manner in which quota shares are to be apportioned after the alteration:
+  (a) the boundaries of the proposed quota management area or quota management areas:
+  (b) the species that comprise the stock or stocks after the proposed alteration:
+  (c) the manner in which quota shares are to be apportioned after the alteration:
   (d) the interests of aggrieved—
     (i) quota owners who hold quota shares to which the proposed alteration relates; and
     (ii) parties to leases or transfers registered on the Transitional Register in respect of quota to which the proposed alteration relates:
-  (e) In the case of any alteration to a quota management area or quota management areas for squid, whether any method restriction applying to squid quota should be removed:
-  (f) Any other matter required by the Minister to be addressed.
+  (e) in the case of any alteration to a quota management area or quota management areas for squid, whether any method restriction applying to squid quota should be removed:
+  (f) any other matter required by the Minister to be addressed.
 (3) The agreement must include provisions to resolve any grievance of a quota owner who holds quota shares in any area affected by the proposed alteration only if required by the Minister.
 
 ### 25B Alteration of quota management areas without agreement of quota owners
@@ -741,14 +738,16 @@ The Minister may recommend the alteration of any quota management area under sec
 ### 26 Effect on quota if quota management area altered
 (1) This section applies if an order is made under section 25.
 (2) Subject to sections 43 and 52, the chief executive must allocate quota—
-  (a) In accordance with the agreement referred to in section 25A, or with the plan referred to in section 25B, as the case may be; and
-  (b) In the form in which the quota was held immediately before the alteration takes effect.
+  (a) in accordance with the agreement referred to in section 25A, or with the plan referred to in section 25B, as the case may be; and
+  (b) in the form in which the quota was held immediately before the alteration takes effect.
 (3) The chief executive must, as soon as practicable after the order is made, cause every quota owner affected by the alteration—
-  (a) To be notified of the number of quota shares (if any) allocated to that person for each new stock and of any other relevant matters; and
-  (b) To be given a schedule setting out the allocation of quota shares to all other quota owners for each new stock.
+  (a) to be notified of the number of quota shares (if any) allocated to that person for each new stock and of any other relevant matters; and
+  (b) to be given a schedule setting out the allocation of quota shares to all other quota owners for each new stock.
 (4) On the close of the last day of the fishing year before the fishing year in which the alteration takes effect, all existing quota affected by an alteration under section 25 is cancelled, but all rights, obligations, and liabilities (including liability to forfeiture) relating to the cancelled quota apply to the new quota.
 (5) All preferential allocation rights held under section 23 must be apportioned in the same manner as quota is allocated under subsection (2).
 (6) This section does not confer on Te Ohu Kai Moana Trustee Limited any entitlement to any further allocation quota under section 14 or under any other enactment.
+
+**Definition of rights relating to quota**
 
 ### 27 Characteristics of individual transferable quota
 [Repealed]
@@ -787,13 +786,13 @@ The Minister may recommend the alteration of any quota management area under sec
 
 ### 32 Criteria of eligibility to receive provisional catch history for quota management stock
 (1) If a stock is declared by notice under section 18 of this Act to be subject to the quota management system a person is eligible to receive provisional catch history for the stock if the person—has provided the chief executive with eligible returns for the stock for the applicable qualifying year or qualifying years.
-  (a) Either,—
+  (a) either,—
     (i)
-    (ii) Was issued a fishing permit under section 2(2) of the Fisheries Amendment Act 1994; or
+    (ii) was issued a fishing permit under section 2(2) of the Fisheries Amendment Act 1994; or
     (iii) in the case of any highly migratory species outside New Zealand fisheries waters or tuna inside New Zealand fisheries waters, at any time during any applicable qualifying year,—
       (A) held a fishing permit or high seas fishing permit issued under section 63 of the Fisheries Act 1983 or under section 91 or section 113H of this Act that authorised the holder to take the stock; or
       (B) in the judgment of the chief executive, held a valid authority to take the stock using a New Zealand ship in the national fisheries jurisdiction of a foreign country; or.
-    (iv) In any other case, held, at any time during any applicable qualifying year, a fishing permit issued under section 63 of the Fisheries Act 1983 for any species of fish, aquatic life, or seaweed; and
+    (iv) in any other case, held, at any time during any applicable qualifying year, a fishing permit issued under section 63 of the Fisheries Act 1983 for any species of fish, aquatic life, or seaweed; and
   (b) in any case, is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent,—
 (2) For the purposes of this Part, an eligible return—
   (a) means a lawfully completed catch landing return or a catch, effort, and landing return as referred to in the Fisheries (Reporting) Regulations 2001 or the Fisheries (Reporting) Regulations 1990 that—
@@ -817,113 +816,113 @@ For the purposes of this Part of this Act, the qualifying year or qualifying yea
   (a) in the case of a person eligible under section 32(1)(a)(ii) to receive provisional catch history by virtue of a fishing permit issued under section 2(2) of the Fisheries Amendment Act 1994, either—
     (i) the first consecutive 12 months following the date of issue of the fishing permit; or
     (ii) the fishing years commencing respectively on 1 October 1990 and 1 October 1991:
-  (b) In the case of a person eligible to receive provisional catch history under section 32(1)(a)(iii) of this Act, such fishing year or fishing years as the Minister may from time to time set for the purpose by notice in the Gazette:
-  (c) In any other case, the fishing years commencing respectively on the 1st day of October 1990 and the 1st day of October 1991.
+  (b) in the case of a person eligible to receive provisional catch history under section 32(1)(a)(iii) of this Act, such fishing year or fishing years as the Minister may from time to time set for the purpose by notice in the Gazette:
+  (c) in any other case, the fishing years commencing respectively on the 1st day of October 1990 and the 1st day of October 1991.
 
 ### 34 Calculation of provisional catch history
 (1) The provisional catch history of a person is,—
-  (a) If the qualifying year is the one referred to in section 33(a)(i) of this Act and the person is eligible to receive provisional catch history under section 32(1)(a)(ii) of this Act for any stock, the total weight of eligible catch reported in the person's eligible returns:
-  (b) Subject to subsection (1A), if the qualifying year or years are set under section 33(b) of this Act and the person is eligible to receive provisional catch history under section 32(1)(a)(iii) of this Act for any stock, the total weight of eligible catch reported in the person's eligible returns in respect of the period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
-    (i) Chosen by the person in accordance with section 35(3)(c)(iv) or section 35(4)(b) of this Act; or
-    (ii) If the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)(d) of this Act:
-  (c) In the case of any other person who is eligible to receive provisional catch history under paragraph (a)(i) or paragraph (a)(iv) of section 32(1) of this Act, the total weight of eligible catch reported in the person's eligible returns in respect of a period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
-    (i) Chosen by the person in accordance with section 35(3)(c)(iv) or section 35(4)(b) of this Act; or
-    (ii) If the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)(d) of this Act.
+  (a) if the qualifying year is the one referred to in section 33(a)(i) of this Act and the person is eligible to receive provisional catch history under section 32(1)(a)(ii) of this Act for any stock, the total weight of eligible catch reported in the person's eligible returns:
+  (b) subject to subsection (1A), if the qualifying year or years are set under section 33(b) of this Act and the person is eligible to receive provisional catch history under section 32(1)(a)(iii) of this Act for any stock, the total weight of eligible catch reported in the person's eligible returns in respect of the period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
+    (i) chosen by the person in accordance with section 35(3)(c)(iv) or section 35(4)(b) of this Act; or
+    (ii) if the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)(d) of this Act:
+  (c) in the case of any other person who is eligible to receive provisional catch history under paragraph (a)(i) or paragraph (a)(iv) of section 32(1)of this Act, the total weight of eligible catch reported in the person's eligible returns in respect of a period of 12 consecutive months within the qualifying years relating to the person, which period shall be—
+    (i) chosen by the person in accordance with section 35(3)(c)(iv) or section 35(4)(b) of this Act; or
+    (ii) if the person has not made such a choice, chosen by the chief executive in accordance with section 35(1)(d) of this Act.
 (1A) Despite subsection (1)(b), the provisional catch history of a person in respect of highly migratory species (other than southern bluefin tuna) taken outside New Zealand fisheries waters—
   (a) must be calculated in the prescribed manner (if any) in accordance with regulations made under section 297(1)(hb) for the purpose of ensuring consistency of the calculation with the method used by the relevant international fisheries organisation in determining New Zealand's national allocation; and
   (b) subject to paragraph (a), is the total weight of eligible catch reported in the person's eligible returns divided by the number of qualifying years.
 (2) For the purposes of this Part and Part 15 of this Act, the term eligible catch means the total weight of all the catch of the relevant stock lawfully taken and lawfully reported as landed or otherwise lawfully disposed of by a person eligible to receive provisional catch history under section 32 of this Act during the applicable qualifying years; and also includes fish, aquatic life, or seaweed of that stock reported as taken and used as bait; but does not include—
-  (a) Fish, aquatic life, or seaweed seized by a fishery officer under section 80 of the Fisheries Act 1983 or section 207 of this Act, if the fish, aquatic life, or seaweed (or the proceeds of sale thereof) were forfeit to the Crown:
-  (b) Fish, aquatic life, or seaweed, other than highly migratory species, taken outside New Zealand fisheries waters (even though such fish, aquatic life, or seaweed may be deemed to have been taken within New Zealand fisheries waters by the operation of this Act or the Fisheries Act 1983):
-  (c) Fish, aquatic life, or seaweed (other than fish, aquatic life or seaweed taken by persons granted fishing permits under section 2(2) of the Fisheries Amendment Act 1994) taken under a special permit granted under this Act or under section 64 of the Fisheries Act 1983.
+  (a) fish, aquatic life, or seaweed seized by a fishery officer under section 80 of the Fisheries Act 1983 or section 207 of this Act, if the fish, aquatic life, or seaweed (or the proceeds of sale thereof) were forfeit to the Crown:
+  (b) fish, aquatic life, or seaweed, other than highly migratory species, taken outside New Zealand fisheries waters (even though such fish, aquatic life, or seaweed may be deemed to have been taken within New Zealand fisheries waters by the operation of this Act or the Fisheries Act 1983):
+  (c) fish, aquatic life, or seaweed (other than fish, aquatic life or seaweed taken by persons granted fishing permits under section 2(2) of the Fisheries Amendment Act 1994) taken under a special permit granted under this Act or under section 64 of the Fisheries Act 1983.
 
 ### 35 Notification of eligibility to receive provisional catch history
 (1) The chief executive shall, as soon as practicable after the publication of a notice under section 18 of this Act declaring any stock to be subject to the quota management system,—
-  (a) Decide whether, in the chief executive's opinion, a person is eligible to be allocated provisional catch history in accordance with this Act; and
-  (b) If the person is eligible to be allocated provisional catch history, determine whether, in the chief executive's opinion, the person is eligible to be allocated quota under section 47 of this Act because,—
-    (i) In the case of a stock that was a controlled fishery as at the date of the publication of the notice declaring the stock to be subject to the quota management system, the person was a holder of both a controlled fishery licence for that stock and a current fishing permit; or
-    (ii) In any other case,—
-      (A) The person was a holder of a fishing permit as at the date of the publication of the notice declaring the stock to be subject to the quota management system; and
+  (a) decide whether, in the chief executive's opinion, a person is eligible to be allocated provisional catch history in accordance with this Act; and
+  (b) if the person is eligible to be allocated provisional catch history, determine whether, in the chief executive's opinion, the person is eligible to be allocated quota under section 47 of this Act because,—
+    (i) in the case of a stock that was a controlled fishery as at the date of the publication of the notice declaring the stock to be subject to the quota management system, the person was a holder of both a controlled fishery licence for that stock and a current fishing permit; or
+    (ii) in any other case,—
+      (A) the person was a holder of a fishing permit as at the date of the publication of the notice declaring the stock to be subject to the quota management system; and
       (B) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent; and
-  (c) If section 33(a)(i) of this Act applies, determine both the relevant period of 12 consecutive months that is to be the person's qualifying year and the quantum of the person's eligible catch during that period; and
-  (d) If paragraph (a)(ii) or paragraph (b) or paragraph (c) of section 33 of this Act applies, decide the period of 12 consecutive months within the qualifying years which the chief executive will nominate for the purpose of calculating the person's provisional catch history (which period is to maximise the person's eligible catch) and the quantum of the person's eligible catch during that period.
+  (c) if section 33(a)(i) of this Act applies, determine both the relevant period of 12 consecutive months that is to be the person's qualifying year and the quantum of the person's eligible catch during that period; and
+  (d) if paragraph (a)(ii) or paragraph (b) or paragraph (c) of section 33of this Act applies, decide the period of 12 consecutive months within the qualifying years which the chief executive will nominate for the purpose of calculating the person's provisional catch history (which period is to maximise the person's eligible catch) and the quantum of the person's eligible catch during that period.
 (2) The chief executive shall, as soon as practicable after deciding or determining the matters referred to in subsection (1) of this section, notify in writing every person whom the chief executive considers to be eligible for provisional catch history of the following matters:
-  (a) The chief executive's decisions and determinations in respect of that person under subsection (1) of this section:
-  (b) The applicable qualifying years for the stock for which that person is eligible to receive provisional catch history:
-  (c) The eligible catch of that person for each month of the applicable qualifying years:
-  (d) The rights conferred by subsection (4) of this section:
-  (e) The date on which the notice under this section is issued:
-  (ea) The date by which objections must be lodged (which date must be at least 60 working days after the date specified under paragraph (e)):
-  (f) Such other matters as the chief executive thinks relevant.
+  (a) the chief executive's decisions and determinations in respect of that person under subsection (!) of this section:
+  (b) the applicable qualifying years for the stock for which that person is eligible to receive provisional catch history:
+  (c) the eligible catch of that person for each month of the applicable qualifying years:
+  (d) the rights conferred by subsection (4) of this section:
+  (e) the date on which the notice under this section is issued:
+  (ea) the date by which objections must be lodged (which date must be at least 60 working days after the date specified under paragraph (e)):
+  (f) such other matters as the chief executive thinks relevant.
 (3) Within 10 working days after the date specified in subsection (2)(e), the chief executive must publicly notify—
   (a) that eligibility for provisional catch history for the stock has been determined and notified under subsection (2); and
   (b) the location where information on the criteria of eligibility for an allocation of provisional catch history and quota can be found; and
   (c) the location where information on the process for notifying the chief executive of an objection to the non-allocation of provisional catch history can be found; and
   (d) the date by which a person to whom subsection (5) applies must lodge their notification under that subsection with the chief executive.
 (4) Any person notified in accordance with subsection (2) of this section may, on or before the date specified in the notice,—
-  (a) Lodge with the chief executive in the approved form an objection giving reasons for the objection—
-    (i) As to the quantum of eligible catch stated in the notice; or
-    (ii) As to the chief executive's opinion that the person will not be eligible to receive an allocation of quota; and
+  (a) lodge with the chief executive in the approved form an objection giving reasons for the objection—
+    (i) as to the quantum of eligible catch stated in the notice; or
+    (ii) as to the chief executive's opinion that the person will not be eligible to receive an allocation of quota; and
   (b) notify the chief executive in writing of an alternative period of 12 consecutive months to the period decided by the chief executive that the person requires the chief executive to use for the purposes of calculating the person's provisional catch history.
 (5) Any person who has not received a notification under subsection (2) of this section, but who believes that the person is or will be—under this Act, may, on or before the date specified in the public notification referred to in subsection (3) of this section, notify the chief executive on the approved form of—
-  (a) Entitled to receive provisional catch history; or
-  (b) Entitled to receive quota,—
-  (c) The grounds for the belief; and
-  (d) If the qualifying years are those set out in paragraph (b) or paragraph (c) of section 33 of this Act, the period of 12 consecutive months within the qualifying years for the stock that the person wishes to be used as a basis for calculating the person's provisional catch history.
+  (a) entitled to receive provisional catch history; or
+  (b) entitled to receive quota,—
+  (c) the grounds for the belief; and
+  (d) if the qualifying years are those set out in paragraph (b) or paragraph (c) of section 33of this Act, the period of 12 consecutive months within the qualifying years for the stock that the person wishes to be used as a basis for calculating the person's provisional catch history.
 (6)
 (7)
 
 ### 35A Amendment of notification of eligibility to receive provisional catch history
 (1) If the Minister amends a declaration under section 19(5A), the chief executive may, if the chief executive considers it necessary to do so, do any 1 or more of the following:
-  (a) Decide or determine the matters in section 35(1).
-  (b) Revoke a notice issued under section 35(2):
-  (c) Revoke a notice published under section 35(3):
-  (d) Issue a new notice under section 35(2):
-  (e) Publish a new notice under section 35(3).
+  (a) decide or determine the matters in section 35(1).
+  (b) revoke a notice issued under section 35(2):
+  (c) revoke a notice published under section 35(3):
+  (d) issue a new notice under section 35(2):
+  (e) publish a new notice under section 35(3).
 (2) If the chief executive revokes a notice under subsection (1)(b),—
-  (a) The chief executive must notify, in writing, the person who was issued the notice of—
-    (i) The revocation; and
-    (ii) The reasons for the revocation; and
-  (b) All objections lodged under section 35(4) in respect of that notice must be treated as having been withdrawn.
+  (a) the chief executive must notify, in writing, the person who was issued the notice of—
+    (i) the revocation; and
+    (ii) the reasons for the revocation; and
+  (b) all objections lodged under section 35(4) in respect of that notice must be treated as having been withdrawn.
 (3) If the chief executive revokes a notice under subsection (1)(c),—
-  (a) The chief executive must publicly notify—
-    (i) The revocation; and
-    (ii) The reasons for the revocation; and
-  (b) All notifications received under section 35(5) in respect of that notice must be treated as having been withdrawn.
+  (a) the chief executive must publicly notify—
+    (i) the revocation; and
+    (ii) the reasons for the revocation; and
+  (b) all notifications received under section 35(5) in respect of that notice must be treated as having been withdrawn.
 
 ### 36 Notification of allocation of provisional catch history
 (1) As soon as practicable after the specified date referred to in section 35(2)(ea) of this Act, the chief executive shall—
-  (a) Complete his or her determination of any objection or notification received under section 35 of this Act:
-  (b) In the case of any person whom the chief executive considers to be eligible to receive provisional catch history for a stock, allocate the amount of such provisional catch history as the chief executive considers the person is eligible to receive:
-  (c) Notify the person concerned,—
-    (i) In the case of any person whom the chief executive considers to be eligible to receive provisional catch history for a stock, of the allocation and the amount of provisional catch history; and
-    (ii) In all cases, of the result of any determination under paragraph (a) of this subsection.
+  (a) complete his or her determination of any objection or notification received under section 35 of this Act:
+  (b) in the case of any person whom the chief executive considers to be eligible to receive provisional catch history for a stock, allocate the amount of such provisional catch history as the chief executive considers the person is eligible to receive:
+  (c) notify the person concerned,—
+    (i) in the case of any person whom the chief executive considers to be eligible to receive provisional catch history for a stock, of the allocation and the amount of provisional catch history; and
+    (ii) in all cases, of the result of any determination under paragraph (a) of this subsection.
 (2) Every notification under subsection (1) of this section shall be sent to the person's last known address and shall state—
-  (a) Both—
-    (i) The person's right to appeal under section 51(1)(b) of this Act; and
-    (ii) That the appeal must be lodged not later than the date specified for the purpose in the notice; and
-  (b) If the chief executive considers under section 35(1)(b) of this Act that the person is not eligible to receive quota, that unless the person lodges an appeal not later than the date specified under paragraph (a)(ii) of this subsection the person may transfer the person's provisional catch history within the period of 20 working days commencing on the day after that specified date, and that, if the provisional catch history is not transferred within that period, it shall be deemed to be cancelled on the expiration of that period; and
-  (c) If the chief executive considers, under section 35(1)(b)(ii)(B) of this Act, that the person is not eligible to receive quota,—
-    (i) The person's right to appeal under section 51(1)(b) and apply for a declaration under section 51(2) of this Act; and
-    (ii) That any appeal to the Catch History Review Committee or application for a declaration to the High Court must be lodged not later than the date specified under paragraph (a)(ii) of this subsection.
+  (a) both—
+    (i) the person's right to appeal under section 51(1)(b) of this Act; and
+    (ii) that the appeal must be lodged not later than the date specified for the purpose in the notice; and
+  (b) if the chief executive considers under section 35(1)(b) of this Act that the person is not eligible to receive quota, that unless the person lodges an appeal not later than the date specified under paragraph (a)(ii) of this subsection the person may transfer the person's provisional catch history within the period of 20 working days commencing on the day after that specified date, and that, if the provisional catch history is not transferred within that period, it shall be deemed to be cancelled on the expiration of that period; and
+  (c) if the chief executive considers, under section 35(1)(b)(ii)(B) of this Act, that the person is not eligible to receive quota,—
+    (i) the person's right to appeal under section 51(1)(b) and apply for a declaration under section 51(2) of this Act; and
+    (ii) that any appeal to the Catch History Review Committee or application for a declaration to the High Court must be lodged not later than the date specified under paragraph (a)(ii) of this subsection.
 (3) The date referred to in paragraphs (a)(ii) and (c)(ii) of subsection (2) of this section and specified in a notification under subsection (1) of this section shall be not less than 60 working days after the date of the notification.
 (4) As soon as practicable after notifying persons under subsection (1) of this section, the chief executive shall notify the Registrar of Quota of—
-  (a) The amount of provisional catch history the chief executive has allocated to each person; and
-  (b) The name of every person allocated provisional catch history for the stock who the chief executive believes is not eligible to receive quota.
+  (a) the amount of provisional catch history the chief executive has allocated to each person; and
+  (b) the name of every person allocated provisional catch history for the stock who the chief executive believes is not eligible to receive quota.
 (5) As soon as practicable after the specified date referred to in subsection (2)(c)(ii) of this section, the chief executive shall notify the Registrar of Quota of whether any person or the chief executive has appealed to the Catch History Review Committee under section 51 of this Act in respect of any provisional catch history.
 
 ### 37 Transfer of provisional catch history
 (1) Provisional catch history in respect of any stock, other than a stock to which section 40 of this Act applies, may be transferred only if—
-  (a) The transferor is not eligible to receive quota for the stock; and
+  (a) the transferor is not eligible to receive quota for the stock; and
   (b) the transferee complies with section 45(a) and (b) or is the Crown; and
-  (c) Any appeal against the amount of provisional catch history for the stock allocated to the transferor has been finally determined or withdrawn; and
-  (d) The transfer takes effect during the transfer period and the chief executive has been notified on the approved form of the transfer during that period; and
-  (e) The transfer is for an amount of provisional catch history expressed in whole kilogrammes.
+  (c) any appeal against the amount of provisional catch history for the stock allocated to the transferor has been finally determined or withdrawn; and
+  (d) the transfer takes effect during the transfer period and the chief executive has been notified on the approved form of the transfer during that period; and
+  (e) the transfer is for an amount of provisional catch history expressed in whole kilogrammes.
 (2) For the purposes of subsections (1) and (3) of this section, the transfer period is—
-  (a) The transfer period referred to in section 36(2)(b) of this Act; or
-  (b) A period of 20 working days commencing on the later of the following:
-    (i) The day following the date of the final determination or withdrawal of any appeal in respect of the provisional catch history being transferred:
-    (ii) If section 54(1)(b) of this Act applies, the day following the day of the determination of the proceedings referred to in that section.
+  (a) the transfer period referred to in section 36(2)(b) of this Act; or
+  (b) a period of 20 working days commencing on the later of the following:
+    (i) the day following the date of the final determination or withdrawal of any appeal in respect of the provisional catch history being transferred:
+    (ii) if section 54(1)(b) of this Act applies, the day following the day of the determination of the proceedings referred to in that section.
 (3) If provisional catch history for any stock is allocated to any person who is not eligible to receive quota under section 45 of this Act for the stock, then, unless a transfer of the provisional catch history is notified to the chief executive within the transfer period or the referral of a dispute to the Court is notified to the chief executive within the transfer period, that provisional catch history shall be deemed to be cancelled on the expiration of the transfer period.
 (4) A transferee shall lodge a copy of the transfer, together with the prescribed fee (if any) with the Registrar of Quota and the Registrar shall record the transfer in the register and shall notify the chief executive, the transferor, and the transferee accordingly.
 
@@ -945,55 +944,55 @@ For the purposes of this Part of this Act, the qualifying year or qualifying yea
 
 ### 42 Quota to be expressed in shares
 Quota for any stock shall be expressed as shares that are whole numbers, and—
-  (a) The sum of that quota shall be 100,000,000 shares for each stock; and
-  (b) The value of 1 share is equal to one hundred-millionth of the total allowable commercial catch for the stock.
+  (a) the sum of that quota shall be 100,000,000 shares for each stock; and
+  (b) the value of 1 share is equal to one hundred-millionth of the total allowable commercial catch for the stock.
 
 ### 43 Rounding of amounts or shares
 If the chief executive allocates a number of quota shares to any person or increases or decreases the number of quota shares held by any person under this Act, the chief executive may round up or round down the number of quota shares consequently held by that person to ensure that—
-  (a) The sum of quota shares for the stock is always 100,000,000; and
-  (b) No person holds a part of a quota share.
+  (a) the sum of quota shares for the stock is always 100,000,000; and
+  (b) no person holds a part of a quota share.
 
 ### 44 Te Ohu Kai Moana Trustee Limited entitled to 20 percent of total new quota
 (1) The chief executive shall allocate to Te Ohu Kai Moana Trustee Limited 20,000,000 shares of the individual transferable quota for each stock declared by notice in the Gazette under section 18 of this Act to be subject to the quota management system.
-(2) every allocation under subsection (1) of this section shall be made at the time when quota for that stock is allocated under section 29B or section 47 of this Act and shall take effect on the first day of the fishing year in respect of which the stock becomes a quota management stock.
+(2) Every allocation under subsection (1) of this section shall be made at the time when quota for that stock is allocated under section 29B or section 47 of this Act and shall take effect on the first day of the fishing year in respect of which the stock becomes a quota management stock.
 (3)
 
 ### 45 Criteria of eligibility to receive quota
 A person is eligible to receive quota for any stock declared by notice in the Gazette under section 18 of this Act to be subject to the quota management system if the person—
-  (a) At the date of the publication of the notice is—
+  (a) at the date of the publication of the notice is—
     (i) a holder of a fishing permit or a high seas fishing permit (or, in the judgment of the chief executive, a person holding a valid authority to fish in the national fisheries jurisdiction of a foreign country; or
-    (ii) In the case of a stock that was a controlled fishery on the date of the publication of the notice, a holder of both a controlled fishery licence for the stock and a fishing permit; or
-    (iii) The estate of a fishing permit holder to which section 32A applies; and
+    (ii) in the case of a stock that was a controlled fishery on the date of the publication of the notice, a holder of both a controlled fishery licence for the stock and a fishing permit; or
+    (iii) the estate of a fishing permit holder to which section 32A applies; and
   (b) is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire provisional catch history or quota or is exempt from the requirement for that consent; and
-  (c) Has obtained for the stock, whether by an allocation or a transfer in accordance with this Act, provisional catch history that is recorded in that person's name in the Quota Register.
+  (c) has obtained for the stock, whether by an allocation or a transfer in accordance with this Act, provisional catch history that is recorded in that person's name in the Quota Register.
 
 ### 46 Withholding of quota for non-payment of cost recovery levies or deemed values
 If a fishing permit or high seas fishing permit has been suspended under this Act for non-payment of levies payable under Part 14 or deemed value amounts payable under this Part of this Act, the chief executive may, until the levies or deemed value amounts are paid in full, withhold any quota that would, but for this section, have been allocated in respect of any provisional catch history held by the permit holder.
 
 ### 47 Allocation of quota on basis of provisional catch history
 (1) as soon as practicable after the relevant date referred to in section 36(3), or at any time after the relevant date referred to in section 41(2) of this Act, as the case may be, the chief executive shall allocate to every person who is eligible to receive quota an amount of provisional individual transferable quota or individual transferable quota, as the case may be, for the stock concerned, which amount shall be expressed as shares and, subject to section 43 and to subsection (1A) of this section, be the lesser of—
-  (a) The number of shares the quota weight equivalent of which is equivalent to the person's provisional catch history for the stock:
-  (b) The number of shares that bears the same proportion to the 80,000,000 shares of quota available for allocation for the stock as the person's provisional catch history bears to the total provisional catch history held by persons who are eligible to receive quota for the stock.
+  (a) the number of shares the quota weight equivalent of which is equivalent to the person's provisional catch history for the stock:
+  (b) the number of shares that bears the same proportion to the 80,000,000 shares of quota available for allocation for the stock as the person's provisional catch history bears to the total provisional catch history held by persons who are eligible to receive quota for the stock.
 (1A) If the total allowable commercial catch for a stock is equal to zero, then the amount of provisional individual transferable quota or individual transferable quota to be allocated under subsection (1) must be determined in accordance with subsection (1)(b).
 (2) If an appeal has been lodged in respect of a person's provisional catch history and that person is eligible to receive quota for that stock, then the quota allocated to that person shall be provisional individual transferable quota.
 (3) Except as provided in subsection (2) of this section, the quota allocated shall be individual transferable quota.
 (4) After the allocation of quota under subsection (1) of this section, the chief executive shall notify the Registrar of Quota, in respect of each person eligible to receive quota, of the amount of individual transferable quota, or provisional individual transferable quota, as the case may be, the chief executive has allocated to that person.
 (5) The provisional catch history—shall, on and from that date, be conclusive and shall be permanently fixed for all purposes.
-  (a) Held by every person who is allocated individual transferable quota under subsection (1) of this section; and
-  (b) Registered in that person's name on the date of allocation—
+  (a) held by every person who is allocated individual transferable quota under subsection (1) of this section; and
+  (b) registered in that person's name on the date of allocation—
 (6) Any quota allocated under this section shall take effect on and from the first day of the fishing year in which that stock becomes a quota management stock.
 
 ### 48 Notification of allocation of quota
 (1) At any time after the allocation of quota under section 47 of this Act and after the total allowable catch and the total allowable commercial catch for the stock have been declared, but before the commencement of the fishing year in which the stock becomes a quota management stock, the chief executive shall notify each person to whom he or she has allocated quota for that stock, and Te Ohu Kai Moana Trustee Limited, of—
-  (a) The total allowable catch for that stock; and
-  (b) The total allowable commercial catch for that stock; and
-  (c) The number of quota shares in that stock that has been allocated to that person; and
-  (d) The quota weight equivalent of 1 quota share for that stock.
+  (a) the total allowable catch for that stock; and
+  (b) the total allowable commercial catch for that stock; and
+  (c) the number of quota shares in that stock that has been allocated to that person; and
+  (d) the quota weight equivalent of 1 quota share for that stock.
 (2)
 
 ### 49 Unallocated total allowable commercial catch to be held by the Crown
 (1) Immediately after quota is allocated under section 44 or section 47 of this Act, all of the remaining quota shares in a stock that have not been allocated under those sections shall be automatically allocated to the Crown—
-  (a) In the form of provisional individual transferable quota; or
+  (a) in the form of provisional individual transferable quota; or
   (b) if no appeals under section 51 have been lodged in respect of that stock, in the form of individual transferable quota.
 (2) After the allocation of quota under subsection (1) of this section, the chief executive shall notify the Registrar of Quota of the amount of individual transferable quota, or provisional individual transferable quota, as the case may be, allocated to the Crown.
 (3) Quota allocated to the Crown under subsection (1)(a) of this section shall be held as unencumbered provisional individual transferable quota until all disputes of a kind referred to in subsection (1)(b) and all appeals in respect of the allocation of provisional catch history or quota for that stock have been finally determined and those determinations have been given effect, and, at that time, such provisional individual transferable quota held by the Crown shall become individual transferable quota.
@@ -1004,10 +1003,10 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
 
 ### 50 Rights of the Crown in relation to quota
 (1) Without limiting any other provision of this Act, the chief executive may, on behalf of the Crown,—
-  (a) Purchase any individual transferable quota or provisional catch history:
-  (b) Hold any quota allocated or acquired, or any provisional catch history, without being obliged to offer it to any person:
-  (c) Transfer any individual transferable quota or provisional catch history held by or on behalf of the Crown:
-  (d) Cancel any provisional catch history held by the Crown (and notify the Registrar accordingly).
+  (a) purchase any individual transferable quota or provisional catch history:
+  (b) hold any quota allocated or acquired, or any provisional catch history, without being obliged to offer it to any person:
+  (c) transfer any individual transferable quota or provisional catch history held by or on behalf of the Crown:
+  (d) cancel any provisional catch history held by the Crown (and notify the Registrar accordingly).
 (1A) Despite subsection (1), if settlement quota is held by the Crown as a result of forfeiture under this Act, the chief executive must, as soon as practicable after the date of forfeiture, endeavour to sell the quota to Te Ohu Kai Moana Trustee Limited or to 1 or more mandated iwi organisations in accordance with sections 161 (except subsection (2)) and 163 of the Maori Fisheries Act 2004.
 (1B) If, within 18 months of the date of forfeiture, all of the settlement quota referred to in subsection (1A) has not been sold by the Crown in accordance with sections 161 (except subsection (2)) and 163 of the Maori Fisheries Act 2004, the chief executive must transfer the remaining settlement quota to Te Ohu Kai Moana Trustee Limited.
 (1C) If settlement quota is transferred by the chief executive under subsection (1B), Te Ohu Kai Moana Trustee Limited must pay to the Crown a sum equivalent to the total of the cost recovery levies paid by the Crown in respect of the settlement quota for the period that the quota was held by the Crown.
@@ -1041,42 +1040,42 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
 ### 51 Rights of appeal
 (1) Any person, including the chief executive, may, subject to subsection (3) of this section and on or before the date specified for the purpose in the relevant notice under section 36 of this Act, appeal to the Catch History Review Committee against,—
   (a)
-  (b) In any case,—
-    (i) A decision of the chief executive to the effect that the person is or is not eligible to receive provisional catch history under section 32(1)(a) of this Act either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)(i)) or controlled fishery licence at any time during the applicable qualifying year or years; or
-    (ii) A decision of the chief executive to the effect that the person has, or does not have, eligible catch in the qualifying year or years entitling the person to be allocated provisional catch history; or
-    (iii) A decision of the chief executive as to the quantum of eligible catch reported in any eligible returns made by any person eligible to receive provisional catch history, on the ground that—
-      (A) The information on the relevant returns held by the chief executive has been incorrectly recorded by the chief executive; or
-      (B) The chief executive has excluded fish, aquatic life, or seaweed that was lawfully taken and lawfully reported in eligible returns from the person's eligible catch; or
-    (iv) A decision of the chief executive to the effect that the person is or is not eligible to be allocated quota under paragraph (b)(i) or paragraph (b)(ii)(A) of section 35(1) of this Act either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)(i)) or controlled fishery licence as at the date of the publication of the notice under section 18 of this Act declaring the stock to be a quota management stock; or
-    (v) An allocation of provisional catch history that is different from the amount to which the person is entitled under section 34 of this Act.
+  (b) in any case,—
+    (i) a decision of the chief executive to the effect that the person is or is not eligible to receive provisional catch history under section 32(1)(a) of this Act either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)(i)) or controlled fishery licence at any time during the applicable qualifying year or years; or
+    (ii) a decision of the chief executive to the effect that the person has, or does not have, eligible catch in the qualifying year or years entitling the person to be allocated provisional catch history; or
+    (iii) a decision of the chief executive as to the quantum of eligible catch reported in any eligible returns made by any person eligible to receive provisional catch history, on the ground that—
+      (A) the information on the relevant returns held by the chief executive has been incorrectly recorded by the chief executive; or
+      (B) the chief executive has excluded fish, aquatic life, or seaweed that was lawfully taken and lawfully reported in eligible returns from the person's eligible catch; or
+    (iv) a decision of the chief executive to the effect that the person is or is not eligible to be allocated quota under paragraph (b)(i) or paragraph (b)(ii)(A) of section 35(1) of this Act either because that person held or did not hold a fishing permit or high seas fishing permit (or authorisation referred to in section 45(a)(i)) or controlled fishery licence as at the date of the publication of the notice under section 18 of this Act declaring the stock to be a quota management stock; or
+    (v) an allocation of provisional catch history that is different from the amount to which the person is entitled under section 34 of this Act.
 (2) Any person notified by the chief executive under section 36(1)(c)(ii) of this Act that he or she is not eligible to receive provisional catch history because of the operation of section 32(1)(b) of this Act may, on or before the date specified in the notification to that person,—
-  (a) Apply to the High Court for a declaration as to whether that person is, or is not, an overseas person; and
-  (b) Appeal to the Committee against the chief executive's decision and any other relevant action referred to in subsection (1) of this section.
+  (a) apply to the High Court for a declaration as to whether that person is, or is not, an overseas person; and
+  (b) appeal to the Committee against the chief executive's decision and any other relevant action referred to in subsection (1) of this section.
 (3) Any appeal lodged under this section shall be in the approved form and shall be available to the public once received by the Committee, but the Committee may—
-  (a) Delete information that it considers commercially sensitive:
-  (b) Make copies of the appeal available on payment of a reasonable charge.
+  (a) delete information that it considers commercially sensitive:
+  (b) make copies of the appeal available on payment of a reasonable charge.
 
 ### 52 Effect of decision to alter provisional catch history
 (1) The chief executive shall, as soon as practicable after—adjust the entry in the appropriate register for the provisional catch history of the person concerned in such manner as may be necessary to give full effect to the decision or to the order.
-  (a) The Catch History Review Committee releases a decision; or
-  (b) Any court on review of any decision of the Committee makes an order in respect of any appeal
+  (a) the Catch History Review Committee releases a decision; or
+  (b) any court on review of any decision of the Committee makes an order in respect of any appeal
   (c)
 (2) Except as provided in subsection (3) of this section, subsection (1) of this section does not require the chief executive to allocate any quota as a result of any decision or order referred to in subsection (1) of this section.
 (3) Subject to section 54 of this Act, at the close of the last day of a fishing year in which a person's provisional catch history has been finally determined other than by the transfer of provisional catch history, the chief executive shall—
-  (a) Transfer the person's provisional individual transferable quota for the relevant stock (if any) to the Crown, and that transferred quota shall be held as unencumbered provisional individual transferable quota; and
+  (a) transfer the person's provisional individual transferable quota for the relevant stock (if any) to the Crown, and that transferred quota shall be held as unencumbered provisional individual transferable quota; and
   (b) Calculate, in the manner set out in section 53 of this Act, the amount of individual transferable quota for the stock (if any) to which the person is entitled following the adjustment to the person's provisional catch history under subsection (1) of this section; and
-  (c) Either,—
-    (i) If the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, transfer to the person in the form of individual transferable quota such amount of its own provisional individual transferable quota as is sufficient to satisfy that entitlement; or
-    (ii) If the Crown does not have sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, deduct from all quota owners (including the Crown in respect of its encumbered quota and unencumbered individual transferable quota) on a pro rata basis sufficient quota so that, after adding the quota so obtained to the Crown's unencumbered provisional individual transferable quota holdings, the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to quota for the stock, and then transfer to the person in the form of individual transferable quota such amount of quota as is sufficient to satisfy that entitlement; and
-  (d) If any appeals result in persons being entitled to less individual transferable quota than the amount of provisional individual transferable quota that was transferred to the Crown under paragraph (a) and quota for that stock was allocated under section 47(1)(b), from the amount of quota remaining after making all allocations required under paragraph (c),—
-    (i) Calculate, on a pro rata basis, for all persons (other than persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation under section 47(1)(b), the amount of additional quota to which each person is entitled up to the amount each person would receive under section 53(1); and
-    (ii) After making the calculation in subparagraph (i), allocate to all persons (other than the persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)(b) and who have continuously owned and continue to be registered on the Quota Register as the owner of quota for that stock, their additional allocation of quota as calculated under subparagraph (i); and
-    (iii) If any quota remains after allocation under subparagraph (ii) as a result of ineligibility of persons who have not continuously owned and continue to be registered on the Quota Register as the owner of quota, allocate on a pro rata basis to all persons (other than Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)(b) and who have continuously held and continue to hold quota for that stock up to the amount each person would receive under section 53(1).
+  (c) either,—
+    (i) if the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, transfer to the person in the form of individual transferable quota such amount of its own provisional individual transferable quota as is sufficient to satisfy that entitlement; or
+    (ii) if the Crown does not have sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, deduct from all quota owners (including the Crown in respect of its encumbered quota and unencumbered individual transferable quota) on a pro rata basis sufficient quota so that, after adding the quota so obtained to the Crown's unencumbered provisional individual transferable quota holdings, the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to quota for the stock, and then transfer to the person in the form of individual transferable quota such amount of quota as is sufficient to satisfy that entitlement; and
+  (d) if any appeals result in persons being entitled to less individual transferable quota than the amount of provisional individual transferable quota that was transferred to the Crown under paragraph (a) and quota for that stock was allocated under section 47(1)(b), from the amount of quota remaining after making all allocations required under paragraph (c),—
+    (i) calculate, on a pro rata basis, for all persons (other than persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation under section 47(1)(b), the amount of additional quota to which each person is entitled up to the amount each person would receive under section 53(1); and
+    (ii) after making the calculation in subparagraph (i), allocate to all persons (other than the persons subject to the appeals and Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)(b) and who have continuously owned and continue to be registered on the Quota Register as the owner of quota for that stock, their additional allocation of quota as calculated under subparagraph (i); and
+    (iii) if any quota remains after allocation under subparagraph (ii) as a result of ineligibility of persons who have not continuously owned and continue to be registered on the Quota Register as the owner of quota, allocate on a pro rata basis to all persons (other than Te Ohu Kai Moana Trustee Limited) who received an allocation in accordance with section 47(1)(b) and who have continuously held and continue to hold quota for that stock up to the amount each person would receive under section 53(1).
 (4) Subject to section 54 of this Act, at the close of the last day of a fishing year in which provisional catch history has been transferred to a person (which fishing year shall be a fishing year after the year in which quota was allocated for that stock under section 47 of this Act), the chief executive shall—
-  (a) Calculate, in the manner set out in section 53 of this Act, the amount of individual transferable quota for the stock (if any) to which the person is entitled by virtue of the provisional catch history transferred to that person; and
-  (b) Either,—
-    (i) If the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, transfer to the person in the form of individual transferable quota such amount of its own provisional individual transferable quota as is sufficient to satisfy that entitlement; or
-    (ii) If the Crown does not have sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, deduct from all quota owners (including the Crown in respect of its encumbered quota and unencumbered individual transferable quota) on a pro rata basis sufficient quota so that, after adding the quota so obtained to the Crown's unencumbered provisional individual transferable quota holdings, the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to quota for the stock, and then transfer to the person in the form of individual transferable quota such amount of quota as is sufficient to satisfy that entitlement
+  (a) calculate, in the manner set out in section 53 of this Act, the amount of individual transferable quota for the stock (if any) to which the person is entitled by virtue of the provisional catch history transferred to that person; and
+  (b) either,—
+    (i) if the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, transfer to the person in the form of individual transferable quota such amount of its own provisional individual transferable quota as is sufficient to satisfy that entitlement; or
+    (ii) if the Crown does not have sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to individual transferable quota for the stock, deduct from all quota owners (including the Crown in respect of its encumbered quota and unencumbered individual transferable quota) on a pro rata basis sufficient quota so that, after adding the quota so obtained to the Crown's unencumbered provisional individual transferable quota holdings, the Crown has sufficient unencumbered provisional individual transferable quota to satisfy the person's entitlement to quota for the stock, and then transfer to the person in the form of individual transferable quota such amount of quota as is sufficient to satisfy that entitlement
   (c)
 (4A) Any quota remaining unallocated under subsection (3)(d) is the property of the Crown subject to section 49.
 (5) If the provisional catch history of more than one person has been adjusted under this section, then, in taking the steps set out in subsection (3) or subsection (4) of this section, the chief executive shall (so far as is possible) take those steps simultaneously in respect of all such persons.
@@ -1085,25 +1084,25 @@ Any owner of quota who does not also hold any fishing permit, high seas fishing 
 
 ### 53 Calculation of entitlement to quota following appeal
 (1) Every person entitled to receive a transfer of individual transferable quota under section 52 must receive—
-  (a) An amount of individual transferable quota for the stock concerned equivalent to the number of shares the person would have received under section 47 if the person (and all other persons whose provisional catch history has since been altered) had owned the revised amount of provisional catch history on the date on which quota was allocated for that stock under section 47; and
-  (b) An amount of shares equal to any shares that would have been transferred by the chief executive under section 22(1), where there has been a reduction in the total allowable commercial catch between the date of the original allocation of those shares under section 47 and the date of this calculation, as if that person had owned the revised amount of shares determined under section 53(1)(a).
-(2) If—the person is entitled to a transfer of the amount of quota for the new quota management area, calculated in accordance with subsection (1) or subsection (3), as the case may be, that the person would have been allocated on the date of the alteration of the quota management area if the person had on that date owned quota for the original stock, and the chief executive has all the powers under subsections (3)(c) and (4)(b) of section 52 of this Act necessary to give effect to that entitlement.
-  (a) Any person is entitled to receive a transfer of individual transferable quota under section 52 of this Act for any stock; and
-  (b) The quota management area for that stock has been altered under section 25 of this Act,—
+  (a) an amount of individual transferable quota for the stock concerned equivalent to the number of shares the person would have received under section 47 if the person (and all other persons whose provisional catch history has since been altered) had owned the revised amount of provisional catch history on the date on which quota was allocated for that stock under section 47; and
+  (b) an amount of shares equal to any shares that would have been transferred by the chief executive under section 22(1), where there has been a reduction in the total allowable commercial catch between the date of the original allocation of those shares under section 47 and the date of this calculation, as if that person had owned the revised amount of shares determined under section 53(1)(a).
+(2) If—the person is entitled to a transfer of the amount of quota for the new quota management area, calculated in accordance with subsection (1) or subsection (3), as the case may be, that the person would have been allocated on the date of the alteration of the quota management area if the person had on that date owned quota for the original stock, and the chief executive has all the powers under subsections (3)(c) and (4)(b)of section 52 of this Act necessary to give effect to that entitlement.
+  (a) any person is entitled to receive a transfer of individual transferable quota under section 52 of this Act for any stock; and
+  (b) the quota management area for that stock has been altered under section 25 of this Act,—
 (3)
 
 ### 54 Allocation of quota if proceedings determined late in fishing year
 (1) If any proceedings to which this Part of this Act applies that are before the Catch History Review Committee or any court are determined less than 90 days before the last day of a fishing year,—
-  (a) Any person who is eligible to receive quota may request the chief executive to transfer individual transferable quota to the person in accordance with section 52 of this Act on the last day of the fishing year in which the proceedings are determined:
-  (b) Any person who is not eligible to receive quota may transfer that person's provisional catch history in accordance with section 37 of this Act and the transferee may request the chief executive to allocate individual transferable quota to the transferee, as if it were the result of an appeal in accordance with section 52 of this Act, on the last day of the fishing year in which the proceedings are finally determined.
+  (a) any person who is eligible to receive quota may request the chief executive to transfer individual transferable quota to the person in accordance with section 52 of this Act on the last day of the fishing year in which the proceedings are determined:
+  (b) any person who is not eligible to receive quota may transfer that person's provisional catch history in accordance with section 37 of this Act and the transferee may request the chief executive to allocate individual transferable quota to the transferee, as if it were the result of an appeal in accordance with section 52 of this Act, on the last day of the fishing year in which the proceedings are finally determined.
 (2) In any case to which subsection (1) of this section applies, neither the person nor the transferee shall have any right of appeal or review in respect of the proceedings so determined or in respect of the person's eligibility or the quantum of provisional catch history for any stock, and the person's provisional catch history so determined or the transferred provisional catch history shall thereupon be conclusive and shall be permanently fixed for all purposes at the level then recorded in the Quota Register.
 (3) The chief executive is not obliged to transfer any quota or provisional catch history under subsection (1) of this section if the time allowed for filing an appeal or review has not expired.
 
 ### 55 Determination or order not to affect quota allocated to Te Ohu Kai Moana Trustee Limited
 None of the following, namely, any—shall affect any quota allocated to Te Ohu Kai Moana Trustee Limited under section 44 (or part of such quota) if Te Ohu Kai Moana Trustee Limited has continuously owned such quota from the date of allocation to the date of the transfer of quota by the chief executive.
-  (a) Determination of the Catch History Review Committee; or
-  (b) Order of any court, where the order relates to an application for a declaration concerning whether any person is, or is not, an overseas person; or
-  (c) Transfer of quota by the chief executive for the purposes of giving effect to any such determination or order—
+  (a) determination of the Catch History Review Committee; or
+  (b) order of any court, where the order relates to an application for a declaration concerning whether any person is, or is not, an overseas person; or
+  (c) transfer of quota by the chief executive for the purposes of giving effect to any such determination or order—
 
 **Overseas investment in and aggregation of quota**
 
@@ -1202,7 +1201,7 @@ An overseas investment in fishing quota is the acquisition by an overseas person
 (2) For the purposes of section 57G(1)(e), an individual is not an individual of the kind referred to in section 7(1) of the Immigration Act 1987 if a special direction referred to in section 7(3)(a)(ii) of that Act has been made permitting a permit to be granted or an exemption to apply to that individual under that Act.
 
 ### 57J Who administers overseas investment fishing provisions
-The regulator as defined in section 30 of the Overseas Investment Act 2005 administers the overseas investment fishing provisions (except sections 57K to 58B).
+The regulator as defined in section 30 of the Overseas Investment Act 2005 administers the overseas investment fishing provisions (except 5sections 7K to 58B).
 
 ### 57K No person in breach becomes entitled to provisional catch history
 An overseas person that does not obtain consent when required under the overseas investment fishing provisions has no entitlement to be allocated provisional catch history, and any provisional catch history allocated must be cancelled by the chief executive.
@@ -1231,11 +1230,11 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 
 ### 59 Aggregation limits
 (1) Notwithstanding the provisions of this Act relating to the transfer of quota, no person shall be entitled to own—
-  (a) A number of quota shares for any one species the total quota weight equivalent of which is more than 45 percent of the combined total allowable commercial catches for every stock of that species (which species shall be a species named in Schedule 5 to this Act):
-  (b) More than 10,000,000 quota shares (10 percent of the total allowable commercial catch) for spiny rock lobster in any one quota management area:
-  (c) More than 20,000,000 quota shares (20 percent of the total allowable commercial catch) for paua in any one quota management area:
-  (d) In the case of bluenose (Hyperoglyphe antarctica), a number of quota shares for that species the quota weight equivalent of which is more than 20 percent of the combined total allowable commercial catches for every stock of that species:
-  (e) In any other case, a number of quota shares for any one species the total quota weight equivalent of which is more than 35 percent of the combined total allowable commercial catches for every stock of that species.
+  (a) a number of quota shares for any one species the total quota weight equivalent of which is more than 45 percent of the combined total allowable commercial catches for every stock of that species (which species shall be a species named in Schedule 5 to this Act):
+  (b) more than 10,000,000 quota shares (10 percent of the total allowable commercial catch) for spiny rock lobster in any one quota management area:
+  (c) more than 20,000,000 quota shares (20 percent of the total allowable commercial catch) for paua in any one quota management area:
+  (d) in the case of bluenose (Hyperoglyphe antarctica), a number of quota shares for that species the quota weight equivalent of which is more than 20 percent of the combined total allowable commercial catches for every stock of that species:
+  (e) in any other case, a number of quota shares for any one species the total quota weight equivalent of which is more than 35 percent of the combined total allowable commercial catches for every stock of that species.
 (2) Subject to subsection (5) of this section, nothing in subsection (1) of this section prevents any person being allocated more than the permitted number of quota shares; but, except as may be permitted by any consent granted under section 60 of this Act, no such person may acquire any more such quota.
 (3) Nothing in subsection (1) of this section prevents any person, after an alteration of a quota management area under section 25 of this Act, being allocated more than the permitted number of quota shares; but, except as may be permitted by any consent granted under section 60 of this Act, no such person may acquire any more such quota.
 (4) Nothing in subsection (1) of this section prevents any person who has quota shares transferred to that person under section 22 or section 23 or section 52 of this Act from holding those shares; but, except as may be permitted by any consent granted under section 60 of this Act, no such person may acquire any more such quota.
@@ -1243,7 +1242,7 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 (6)
 (6A) For the purposes of subsection (1)(e) of this section and section 60(1)(c), in determining the aggregate percentage ownership of any person in relation to both Foveaux Strait dredge oysters and any other dredge oyster stock,—
   (a) 980 Foveaux Strait dredge oysters (or such other number as may be fixed by the Minister under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) are to be treated as equivalent to 100 kilogrammes; and
-  (b) The total allowable commercial catch for Foveaux Strait dredge oysters and the quota weight equivalent of quota shares held by any person for Foveaux Strait dredge oysters are to be calculated in kilogrammes accordingly before being aggregated with the relevant weight-related figures in respect of the other dredge oyster stock.
+  (b) the total allowable commercial catch for Foveaux Strait dredge oysters and the quota weight equivalent of quota shares held by any person for Foveaux Strait dredge oysters are to be calculated in kilogrammes accordingly before being aggregated with the relevant weight-related figures in respect of the other dredge oyster stock.
 (7) The Governor-General may, by Order in Council made on the recommendation of the Minister, following consultation with such persons or organisations who are representative of those classes of persons the Minister considers have an interest in this section, add the name of any new species to, or delete the name of any existing species from, Schedule 5 to this Act.
 (8) Subsection (1) of this section does not apply to the Chatham Islands Enterprise Trust, Te Ohu Kai Moana Trustee Limited, or to the Crown.
 (8A) Subsection (1) does not prevent a person from owning the following quota, in addition to quota owned by that person immediately before the commencement of the Maori Fisheries Act 2004:
@@ -1270,31 +1269,31 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
     (iii) any trust of which the settlor is Aotearoa Fisheries Limited or a subcompany.
 (11) Despite subsection (10),—
   (a) Te Ohu Kai Moana Trustee Limited is not to be regarded as being included with any other person; and
-  (b) No person is to be regarded as being included with any other person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
-  (c) No bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
-  (d) No person is to be regarded as included with any other person solely because they are both beneficiaries of the same trust.
+  (b) no person is to be regarded as being included with any other person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
+  (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by the person; and
+  (d) no person is to be regarded as included with any other person solely because they are both beneficiaries of the same trust.
 
 ### 60 Minister may consent to persons holding quota in excess of aggregation limits
 (1) Notwithstanding section 59 of this Act, the Minister may from time to time, after consultation with such persons or organisations the Minister considers are representative of those classes of persons having an interest in this section, by notice in the Gazette, consent to any named person holding,—
-  (a) In the case of spiny rock lobster, up to a specified number of quota shares exceeding 10,000,000 for any one quota management area:
-  (b) In the case of paua, up to a specified number of quota shares exceeding 20,000,000 for any one quota management area:
-  (c) In any other case, quota shares for any one species having a combined quota weight equivalent less than or equal to a specified percentage of the combined total allowable commercial catches for all stocks of that species (which percentage is greater than the percentage specified in section 59(1) of this Act for the stock concerned).
+  (a) in the case of spiny rock lobster, up to a specified number of quota shares exceeding 10,000,000 for any one quota management area:
+  (b) in the case of paua, up to a specified number of quota shares exceeding 20,000,000 for any one quota management area:
+  (c) in any other case, quota shares for any one species having a combined quota weight equivalent less than or equal to a specified percentage of the combined total allowable commercial catches for all stocks of that species (which percentage is greater than the percentage specified in section 59(1) of this Act for the stock concerned).
 (2) Any consent under subsection (1) of this section may be given subject to such conditions as the Minister may impose, including any limit on the number of quota shares for any particular stock, and may be given for any specified year or years or generally.
 (3) The Minister shall, in considering whether to grant any consent under subsection (1) of this section, consider—
-  (a) The willingness and ability of other members of the New Zealand fishing industry to acquire quota of the relevant species:
-  (b) The likely effect of the granting or withholding of the consent on—
-    (i) The development of any new or existing stock or species:
-    (ii) Other quota owners or commercial fishers:
-    (iii) The processing and marketing of that stock or species:
-    (iv) The ability of the applicant to take any other stock or species:
-    (v) The efficiency of the New Zealand fishing industry or any person engaged in the New Zealand fishing industry:
+  (a) the willingness and ability of other members of the New Zealand fishing industry to acquire quota of the relevant species:
+  (b) the likely effect of the granting or withholding of the consent on—
+    (i) the development of any new or existing stock or species:
+    (ii) other quota owners or commercial fishers:
+    (iii) the processing and marketing of that stock or species:
+    (iv) the ability of the applicant to take any other stock or species:
+    (v) the efficiency of the New Zealand fishing industry or any person engaged in the New Zealand fishing industry:
   (c) Such other matters as the Minister considers relevant.
 (4) The Minister shall not grant any consent under subsection (1) of this section in any case if quota shares have been acquired by any person (within the meaning of section 59(10) and (11)) in excess of the then permitted number of shares before the consent is obtained.
 
 ### 61 Quota held in excess of aggregation limits to be forfeit
 (1) If the chief executive believes on reasonable grounds that any person has acquired any quota in breach of section 59 of this Act or any consent given by the Minister under section 60 of this Act, the chief executive—
-  (a) May direct that a caveat be registered in the appropriate register under Part 8 of this Act in respect of all quota owned by that person; and
-  (b) Shall notify in writing the owner that quota acquired in breach of section 59 of this Act or any consent given by the Minister under section 60 of this Act shall be forfeit to the Crown without compensation unless, within 60 working days after the date specified in the notice, the owner applies to the High Court for a declaration as to whether that quota was acquired in breach of section 59 of this Act or any consent given by the Minister under section 60 of this Act.
+  (a) may direct that a caveat be registered in the appropriate register under Part 8 of this Act in respect of all quota owned by that person; and
+  (b) shall notify in writing the owner that quota acquired in breach of section 59 of this Act or any consent given by the Minister under section 60 of this Act shall be forfeit to the Crown without compensation unless, within 60 working days after the date specified in the notice, the owner applies to the High Court for a declaration as to whether that quota was acquired in breach of section 59 of this Act or any consent given by the Minister under section 60 of this Act.
 (2) Any caveat directed to be registered under subsection (1)(a) of this section shall remain on the register until removed by direction of the chief executive or order of a court pursuant to any proceedings referred to in subsection (1)(b) of this section.
 (3) If any person whose quota has been caveated under subsection (1) of this section fails to apply to the High Court under that subsection or the High Court declares the quota to have been acquired in breach of section 59 of this Act or any consent given by the Minister under section 60 of this Act, then any quota held in breach of those sections (which quota shall be the quota acquired most recently in time) shall be forfeit to the Crown without compensation.
 (4) Any quota forfeit to the Crown under subsection (3) of this section shall be dealt with in accordance with section 62 of this Act.
@@ -1302,47 +1301,47 @@ An interest in fishing quota that is forfeited under section 58 or section 58A m
 
 ### 62 Provisions relating to forfeit property
 (1) In this section, unless the context otherwise requires,—
-  - **Forfeit property** means any—forfeit to the Crown under section 58 or section 58A 61 of this Act
-    (a) Quota or interest in quota; or
-    (b) Annual catch entitlement or interest in an annual catch entitlement; or
-    (c) Provisional catch history or interest in provisional catch history—
-  - **Interest** means—
-    (a) Any interest that was recorded on any register kept under this Act at the time the forfeiture occurred:
-    (b) Any other legal or equitable interest in that forfeit property that existed at the time the forfeiture occurred.
+  - **forfeit property** means any—forfeit to the Crown under section 58 or section 58A 61 of this Act
+    (a) quota or interest in quota; or
+    (b) annual catch entitlement or interest in an annual catch entitlement; or
+    (c) provisional catch history or interest in provisional catch history—
+  - **interest** means—
+    (a) any interest that was recorded on any register kept under this Act at the time the forfeiture occurred:
+    (b) any other legal or equitable interest in that forfeit property that existed at the time the forfeiture occurred.
 (2) The chief executive shall, within 10 working days after the date of any forfeiture under section 58 or section 58A or 61 of this Act, publicly notify the details of the forfeit property and the right of any person to apply under this section.
 (3) Any person claiming an interest in any forfeit property may, within 35 working days after the date on which the forfeiture occurred or within such further period before the property has been disposed of as the Court may allow, apply to the Court for relief from the effect of forfeiture on that interest.
 (4) Every application under subsection (3) of this section shall contain sufficient information to identify the interest and the property in which it is claimed, and shall include—
-  (a) A full description of the forfeit property in which the interest is claimed; and
-  (b) Full details of the interest or interests claimed, including,—
-    (i) Whether the interest is legal or equitable; and
-    (ii) Whether the interest is by way of security or otherwise; and
-    (iii) If the interest is by way of security, details of the security arrangement and any other property included in that arrangement; and
-    (iv) Whether the interest is noted on any register maintained pursuant to statute; and
-    (v) Any other interests in the property known to the applicant; and
-  (c) A statement as to whether the applicant is an associated person of the person who breached the provisions of section 59 of this Act or any consent given under section 60 of this Act and owned the forfeit property that is the subject of the application; and
-  (d) The applicant's estimate of both the value of the forfeit property and the value of the claimed interest.
+  (a) a full description of the forfeit property in which the interest is claimed; and
+  (b) full details of the interest or interests claimed, including,—
+    (i) whether the interest is legal or equitable; and
+    (ii) whether the interest is by way of security or otherwise; and
+    (iii) if the interest is by way of security, details of the security arrangement and any other property included in that arrangement; and
+    (iv) whether the interest is noted on any register maintained pursuant to statute; and
+    (v) any other interests in the property known to the applicant; and
+  (c) a statement as to whether the applicant is an associated person of the person who breached the provisions of section 59 of this Act or any consent given under section 60 of this Act and owned the forfeit property that is the subject of the application; and
+  (d) the applicant's estimate of both the value of the forfeit property and the value of the claimed interest.
 (5) The Court shall hear all applications in respect of the same property together, unless it considers that it would not be in the interests of justice to do so.
 (6) The Court shall, in respect of every application made under subsection (3) of this section,—
-  (a) Determine the value of the forfeit property, which value shall be the amount the property would realise if sold at public auction in New Zealand; and
-  (b) Determine the nature, extent, and, if possible, value of any applicant's interest in the property; and
-  (c) Determine whether, in the case of quota that was owned by an associated person before being forfeit under section 61 of this Act, the interest of the associated person was created solely or principally for the purpose of avoiding or defeating the consequences of the application of this Act in respect of forfeiture; and
-  (d) Determine the cost to the Ministry of the holding, and the anticipated cost of disposal, of the forfeit property, including the Court proceedings in respect of that holding and disposal.
+  (a) determine the value of the forfeit property, which value shall be the amount the property would realise if sold at public auction in New Zealand; and
+  (b) determine the nature, extent, and, if possible, value of any applicant's interest in the property; and
+  (c) determine whether, in the case of quota that was owned by an associated person before being forfeit under section 61 of this Act, the interest of the associated person was created solely or principally for the purpose of avoiding or defeating the consequences of the application of this Act in respect of forfeiture; and
+  (d) determine the cost to the Ministry of the holding, and the anticipated cost of disposal, of the forfeit property, including the Court proceedings in respect of that holding and disposal.
 (7) Having determined the matters specified in subsection (6) of this section, the Court may, after having regard to—make an order or orders providing relief (either in whole or in part) from the effect of forfeiture on any of the interests determined under subsection (6) of this section.
-  (a) The purpose of this Act (including the purpose of the overseas investment fishing provisions stated in section 56 or the purpose of section 59 of this Act, as the case may be); and
-  (b) The social and economic effects on the person who owned the property or quota, and on persons employed by that person, of non-release of the property or quota; and
-  (c) The economic benefits that accrued or might have accrued to the owners of the property or quota through the commission of the offence; and
-  (d) The cost to the Ministry of the holding, and the anticipated cost of disposal, of the forfeit property, including the Court proceedings in respect of that holding and disposal,—
+  (a) the purpose of this Act (including the purpose of the overseas investment fishing provisions stated in section 56 or the purpose of section 59 of this Act, as the case may be); and
+  (b) the social and economic effects on the person who owned the property or quota, and on persons employed by that person, of non-release of the property or quota; and
+  (c) the economic benefits that accrued or might have accrued to the owners of the property or quota through the commission of the offence; and
+  (d) the cost to the Ministry of the holding, and the anticipated cost of disposal, of the forfeit property, including the Court proceedings in respect of that holding and disposal,—
 (8) No order shall be made under subsection (7) of this section unless—
-  (a) It is necessary to avoid manifest injustice; and
-  (b) The Court is satisfied that, in the case of an order made in respect of an application made by an associated person relating to forfeit quota, the interest was not created solely or principally for the purpose of avoiding or defeating the consequences of the application of this Act in respect of forfeiture.
+  (a) it is necessary to avoid manifest injustice; and
+  (b) the Court is satisfied that, in the case of an order made in respect of an application made by an associated person relating to forfeit quota, the interest was not created solely or principally for the purpose of avoiding or defeating the consequences of the application of this Act in respect of forfeiture.
 (9)
 (10)
 (11) Without limiting subsection (7) of this section, any order under that subsection may include one or more of the following orders:
-  (a) For the retention of the forfeit property by the Crown:
-  (b) For the return of some or all of the forfeit property to the owner at the time of forfeiture, with or without the prior payment to the Crown of a sum of money:
-  (c) For the sale of some or all of the forfeit property, with directions as to the manner of sale and dispersal of proceeds:
-  (d) For the delivery of some or all of the forfeit property to a person with an interest in the property, with or without directions as to payment of a sum of money to specified persons (including the Crown) prior to such delivery:
-  (e) For the reinstatement (notwithstanding the forfeiture) of any interest that was forfeit or cancelled as a result of a forfeiture.
+  (a) for the retention of the forfeit property by the Crown:
+  (b) for the return of some or all of the forfeit property to the owner at the time of forfeiture, with or without the prior payment to the Crown of a sum of money:
+  (c) for the sale of some or all of the forfeit property, with directions as to the manner of sale and dispersal of proceeds:
+  (d) for the delivery of some or all of the forfeit property to a person with an interest in the property, with or without directions as to payment of a sum of money to specified persons (including the Crown) prior to such delivery:
+  (e) for the reinstatement (notwithstanding the forfeiture) of any interest that was forfeit or cancelled as a result of a forfeiture.
 (12) This section does not require the Crown to pay, or secure the payment of, any sum of money to any person claiming an interest in forfeit property, other than the net proceeds of sale of forfeit property under a court order made under subsection (7) of this section.
 (13) For the purpose of assisting the Court in determining any application for relief, the chief executive and any employee or agent of the Ministry is entitled to appear before the Court and be heard.
 (14) Any forfeiture under section 58 or section 58A or 61 of this Act, and any payment of a sum of money or delivery of property under subsection (7) of this section, to persons claiming an interest, shall be in addition to, and not in substitution for, any other penalty that may be imposed by the Court or by this Act (but see section 42(3) for the Overseas Investment Act 2005 in relation to penalties imposed under that section).
@@ -1363,21 +1362,21 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 
 ### 66 Generation of annual catch entitlement at beginning of new fishing year
 (1) On the first day of each fishing year, quota shall generate annual catch entitlement.
-(2) The chief executive shall, in respect of each quota management stock, calculate as at the first day of each fishing year the amount of annual catch entitlement that would be generated by the amount of quota owned by each quota owner, in accordance with the following formula: (a / 100,000,000) x b = c where—
+(2) The chief executive shall, in respect of each quota management stock, calculate as at the first day of each fishing year the amount of annual catch entitlement that would be generated by the amount of quota owned by each quota owner, in accordance with the following formula:(a ÷ 100,000,000) × b = cwhere—
   (a) is the number of quota shares held by the quota owner; and
   (b) is the total allowable commercial catch (expressed in kilogrammes); and
   (c) is the amount (expressed in kilogrammes) of annual catch entitlement that would be generated by the amount of quota owned by each quota owner.
 (3) Any annual catch entitlement calculated under subsection (2) of this section shall be rounded up or rounded down by the chief executive to ensure that—
-  (a) The sum of all annual catch entitlements equals the applicable total allowable commercial catch for the stock; and
-  (b) Only whole kilogrammes of annual catch entitlement are generated.
+  (a) the sum of all annual catch entitlements equals the applicable total allowable commercial catch for the stock; and
+  (b) only whole kilogrammes of annual catch entitlement are generated.
 
 ### 67 Allocation of annual catch entitlement
 (1) On the first day of each fishing year the chief executive shall allocate, to each quota owner whose quota has generated under section 66 of this Act an annual catch entitlement for any quota management stock, 75 percent of that quota owner's annual catch entitlement for that stock, as calculated by the chief executive under that section.
 (2)
 (2A)
 (2B) If between the beginning of a fishing year and the beginning of the Foveaux Strait dredge oyster season in that year there is an increase in the total allowable commercial catch for Foveaux Strait dredge oysters,—
-  (a) The chief executive must calculate the amount of annual catch entitlement that each person would have received under subsection (1) if the altered total allowable commercial catch had been in effect at the beginning of the fishing year, and an annual catch entitlement had been generated under section 66 accordingly; and
-  (b) The chief executive must, on or before the first day of the Foveaux Strait dredge oyster season, allocate to each person who receives an amount of annual catch entitlement under subsection (1) for Foveaux Strait dredge oysters a further amount of annual catch entitlement for that stock calculated in accordance with the following formula:a - b = cwhere—
+  (a) the chief executive must calculate the amount of annual catch entitlement that each person would have received under subsection (1) if the altered total allowable commercial catch had been in effect at the beginning of the fishing year, and an annual catch entitlement had been generated under section 66 accordingly; and
+  (b) the chief executive must, on or before the first day of the Foveaux Strait dredge oyster season, allocate to each person who receives an amount of annual catch entitlement under subsection (1) for Foveaux Strait dredge oysters a further amount of annual catch entitlement for that stock calculated in accordance with the following formula:a - b = cwhere—
     (a) is the amount calculated under paragraph (a) in respect of the person; and
     (b) is the amount of annual catch entitlement allocated to the person under subsection (1); and
     (c) is the amount of annual catch entitlement to be allocated under this subsection.
@@ -1390,37 +1389,37 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 
 ### 67A Allocation of additional annual catch entitlement in case of underfishing
 (1) As soon as practicable after the 15th day after the end of the fishing year for each stock (the first fishing year), the chief executive must, for each person who, as at that date, owns annual catch entitlement for the first fishing year for that stock, compare—
-  (a) The annual catch entitlement for that stock (other than annual catch entitlement created under section 68) for the first fishing year owned by the person as at the close of the 15th day after the end of that fishing year; and
-  (b) The reported catch (if any) for that stock, calculated in accordance with regulations made for that purpose under section 297, taken by that person during the first fishing year.
+  (a) the annual catch entitlement for that stock (other than annual catch entitlement created under section 68) for the first fishing year owned by the person as at the close of the 15th day after the end of that fishing year; and
+  (b) the reported catch (if any) for that stock, calculated in accordance with regulations made for that purpose under section 297, taken by that person during the first fishing year.
 (2) If the amount of annual catch entitlement referred to in subsection (1)(a) is greater than the reported catch referred to in subsection (1)(b), the chief executive must—
-  (a) Calculate the difference between that annual catch entitlement and that reported catch; and
-  (b) Subject to subsection (5), allocate to the person an amount of annual catch entitlement for the stock for the fishing year after the first fishing year (the second fishing year) that is the lesser of the following:
-    (i) The amount calculated under paragraph (a):
+  (a) calculate the difference between that annual catch entitlement and that reported catch; and
+  (b) subject to subsection (5), allocate to the person an amount of annual catch entitlement for the stock for the fishing year after the first fishing year (the second fishing year) that is the lesser of the following:
+    (i) the amount calculated under paragraph (a):
     (ii) 10% of the amount of annual catch entitlement referred to in subsection (1)(a).
 (3) This section does not apply to—
-  (a) A stock listed in Schedule 5A; or
-  (b) A stock for which the total allowable commercial catch at the beginning of the second fishing year is less than the total allowable commercial catch applying at the close of the first fishing year.
+  (a) a stock listed in Schedule 5A; or
+  (b) a stock for which the total allowable commercial catch at the beginning of the second fishing year is less than the total allowable commercial catch applying at the close of the first fishing year.
 (4) The chief executive must allocate annual catch entitlement under this section as soon as practicable after the 15th day after the end of the first fishing year.
 (5) The amount of annual catch entitlement allocated under subsection (2) must be rounded up or rounded down by the chief executive to the nearest kilogramme or, in the case of Foveaux Strait dredge oysters, to the nearest whole number of oysters.
 (6) Any annual catch entitlement allocated under subsection (2)—
-  (a) Is in addition to any annual catch entitlement generated under section 66 or created under section 68; and
-  (b) Has effect for all purposes under this Act on and from the date of the allocation.
+  (a) is in addition to any annual catch entitlement generated under section 66 or created under section 68; and
+  (b) has effect for all purposes under this Act on and from the date of the allocation.
 (7) The chief executive must, as soon as practicable after allocating any annual catch entitlement under subsection (2),—
-  (a) Notify every person to whom annual catch entitlement has been allocated under this section of the amount of annual catch entitlement allocated to that person; and
-  (b) Ensure that the amount of annual catch entitlement allocated is registered on the Annual Catch Entitlement Register.
+  (a) notify every person to whom annual catch entitlement has been allocated under this section of the amount of annual catch entitlement allocated to that person; and
+  (b) ensure that the amount of annual catch entitlement allocated is registered on the Annual Catch Entitlement Register.
 
 ### 67B Amendments to Schedule 5A
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, amend Schedule 5A by—
-  (a) Adding 1 or more stocks to that schedule:
-  (b) Omitting 1 or more stocks from that schedule.
+  (a) adding 1 or more stocks to that schedule:
+  (b) omitting 1 or more stocks from that schedule.
 (2) An Order in Council made under subsection (1) takes effect on and from the first day of the next fishing year for the stocks concerned.
 (3) Before recommending the making of an Order in Council under subsection (1), the Minister must consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stocks subject to the order.
 
 ### 68 Minister to create additional annual catch entitlement if total allowable catch increased during fishing year
 (1) If—the Minister shall create an additional amount of annual catch entitlement for the stock that equals the amount by which he or she would have increased the total allowable commercial catch.
-  (a) The total allowable catch in respect of any stock is increased during a fishing year in accordance with section 13(7) or section 14(6) of this Act; and
-  (b) The Minister believes that, after considering the matters referred to in section 21(1) of this Act, he or she would have increased the total allowable commercial catch but for section 20(4) of this Act,—
-(2) Subject to subsections (2A), (2B), and (3) of this section, the chief executive shall allocate to every person owning quota for the stock an amount of the annual catch entitlement created by the Minister under subsection (1) of this section calculated in accordance with the following formula: (a / 100,000,000) x b = c where—
+  (a) the total allowable catch in respect of any stock is increased during a fishing year in accordance with section 13(7) or section 14(6) of this Act; and
+  (b) the Minister believes that, after considering the matters referred to in section 21(1) of this Act, he or she would have increased the total allowable commercial catch but for section 20(4) of this Act,—
+(2) Subject to subsections (2A), (2B), and (3) of this section, the chief executive shall allocate to every person owning quota for the stock an amount of the annual catch entitlement created by the Minister under subsection (1) of this section calculated in accordance with the following formula:(a ÷ 100,000,000) × b = cwhere—
   (a) is the number of quota shares held by the quota owner on the date the increase in the total allowable catch takes effect; and
   (b) is the amount (expressed in kilogrammes) of annual catch entitlement created by the Minister under subsection (1) of this section; and
   (c) is the amount (expressed in kilogrammes) of annual catch entitlement to be allocated under this section to the quota owner.
@@ -1429,8 +1428,8 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
   (b) the Minister is satisfied that the basis for the increase in the total allowable catch justifies a different allocation mechanism,—
 (2B) The chief executive must allocate the additional catch entitlement in accordance with any determination of the Minister under subsection (2A).
 (3) Any annual catch entitlement calculated under subsection (2) or subsections (2A) and (2B) of this section that any quota owner is entitled to be allocated under this section shall be rounded up or rounded down by the chief executive to ensure that—
-  (a) The sum of all annual catch entitlements allocated under this section equals the amount of the increase that would have been made to the total allowable commercial catch but for section 20(4) of this Act; and
-  (b) No quota owner holds part of a kilogramme of annual catch entitlement consequent upon such allocation.
+  (a) the sum of all annual catch entitlements allocated under this section equals the amount of the increase that would have been made to the total allowable commercial catch but for section 20(4) of this Act; and
+  (b) no quota owner holds part of a kilogramme of annual catch entitlement consequent upon such allocation.
 (4) The chief executive shall, after any rounding under subsection (3) of this section, notify every quota owner of the amount of annual catch entitlement allocated to that quota owner under this section.
 (5) Any annual catch entitlement so allocated shall have effect on and from the date of allocation and shall have the same characteristics as any annual catch entitlement allocated under section 67 of this Act.
 (6) The chief executive shall, as soon as practicable after allocating annual catch entitlements in accordance with this section, notify the relevant Registrar of Annual Catch Entitlement of the amount of annual catch entitlement allocated to each quota owner.
@@ -1452,13 +1451,13 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 (3) Any commercial fisher who takes any fish, aquatic life, or seaweed subject to the quota management system that is not of legal size shall immediately return that fish, aquatic life, or seaweed, whether alive or dead, to the sea or waters from which the fish, aquatic life, or seaweed was taken.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes subsection (1) or subsection (3) of this section.
 (5) Without limiting the application of section 241 of this Act, it is a defence to any offence under subsection (4) of this section if—
-  (a) The return was a return of parts of fish, aquatic life, or seaweed lawfully processed on a vessel; or
-  (b) The fish, aquatic life, or seaweed was returned or abandoned to ensure the safety of the vessel or any crew member; or
-  (c) The following provisions were complied with, namely,—
-    (i) A fishery officer or observer was present when the fish, aquatic life, or seaweed was taken; and
-    (ii) The fishery officer or observer authorised the return or abandonment of the fish, aquatic life, or seaweed; and
-    (iii) The commercial fisher returned or abandoned the fish, aquatic life, or seaweed under the supervision of the fishery officer or observer, and complied with any directions of the fishery officer or observer; and
-    (iv) The amount of fish, aquatic life, or seaweed was included in the returns for the appropriate period that are required to be made by the commercial fisher under this Act.
+  (a) the return was a return of parts of fish, aquatic life, or seaweed lawfully processed on a vessel; or
+  (b) the fish, aquatic life, or seaweed was returned or abandoned to ensure the safety of the vessel or any crew member; or
+  (c) the following provisions were complied with, namely,—
+    (i) a fishery officer or observer was present when the fish, aquatic life, or seaweed was taken; and
+    (ii) the fishery officer or observer authorised the return or abandonment of the fish, aquatic life, or seaweed; and
+    (iii) the commercial fisher returned or abandoned the fish, aquatic life, or seaweed under the supervision of the fishery officer or observer, and complied with any directions of the fishery officer or observer; and
+    (iv) the amount of fish, aquatic life, or seaweed was included in the returns for the appropriate period that are required to be made by the commercial fisher under this Act.
 (6) Any fish, aquatic life, or seaweed returned or abandoned in accordance with subsection (5)(c) of this section shall be included in the commercial fisher's reported catch for the purposes of section 76 of this Act.
 (7) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, add or omit from Schedule 6 to this Act the name of any stock, or amend any provision in that Schedule or add new provisions to that Schedule.
 
@@ -1468,11 +1467,11 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 ### 74 Minimum holdings of annual catch entitlement
 (1) No commercial fisher may take any stock listed in Schedule 8 unless the fisher holds, at the time of the taking, the minimum amount of annual catch entitlement that is specified in that schedule in relation to that stock.
 (2) If,—then the requirements of subsection (1) of this section shall apply as if the minimum amount of annual catch entitlement required to be held was the amount of annual catch entitlement actually generated by the commercial fisher's relevant quota, and the commercial fisher may continue to take stock in each fishing year under the authority of the lesser amount of annual catch entitlement held by the commercial fisher unless the commercial fisher, in any particular fishing year, transfers any annual catch entitlement and thereby reduces the commercial fisher's annual catch entitlement holding for that fishing year to an amount lower than the holding generated by the commercial fisher's quota at the commencement of that year.
-  (a) Following the allocation of quota under section 44 or section 47 or section 52 of this Act, the amount of quota owned by a commercial fisher does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section; or
-  (b) Following a reduction in the total allowable commercial catch, the amount of quota owned by a commercial fisher, as at the beginning of the fishing year in which the reduction takes effect, does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section; or
-  (c) Following an alteration of a quota management area under section 25 of this Act, quota is allocated under section 26 of this Act to a commercial fisher and that quota does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section; or
-  (d) Following an increase in the amount of annual catch entitlement required to be held by virtue of an Order in Council under subsection (7) of this section, the amount of relevant quota owned by a commercial fisher, as at the beginning of the fishing year in which the increase takes effect, does not generate an annual catch entitlement sufficient to satisfy that requirement; or
-  (e) Following a deduction of quota shares from any person by the chief executive under section 52 of this Act, the amount of relevant quota owned by a commercial fisher, as at the beginning of the fishing year immediately following the year in which the deduction occurs, does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section,—
+  (a) following the allocation of quota under section 44 or section 47 or section 52 of this Act, the amount of quota owned by a commercial fisher does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section; or
+  (b) following a reduction in the total allowable commercial catch, the amount of quota owned by a commercial fisher, as at the beginning of the fishing year in which the reduction takes effect, does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section; or
+  (c) following an alteration of a quota management area under section 25 of this Act, quota is allocated under section 26 of this Act to a commercial fisher and that quota does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section; or
+  (d) following an increase in the amount of annual catch entitlement required to be held by virtue of an Order in Council under subsection (7) of this section, the amount of relevant quota owned by a commercial fisher, as at the beginning of the fishing year in which the increase takes effect, does not generate an annual catch entitlement sufficient to satisfy that requirement; or
+  (e) following a deduction of quota shares from any person by the chief executive under section 52 of this Act, the amount of relevant quota owned by a commercial fisher, as at the beginning of the fishing year immediately following the year in which the deduction occurs, does not generate an annual catch entitlement sufficient to satisfy the requirements of subsection (1) of this section,—
 (2A) As soon as is reasonably practicable after Te Ohu Kai Moana Trustee Limited has notified the chief executive of the entities that it has approved under section 34 of the Maori Fisheries Act 2004, the chief executive must identify the approved entities on the annual catch entitlement register.
 (2B) In the case of a quota holding that includes settlement quota, if the annual catch entitlement from that quota is transferred in full to a commercial fisher that is registered as an approved entity under subsection (2A), the annual catch entitlement must be treated as if it were not less than the minimum amount required under subsection (1).
 (3) Subsection (2) of this section does not apply to a commercial fisher referred to in paragraph (b) or paragraph (c) or paragraph (d) or paragraph (e) of that subsection unless, immediately before becoming a person referred to in any of those paragraphs, the commercial fisher owned a number of quota shares that would generate an amount of annual catch entitlement sufficient to satisfy the relevant requirements of subsection (1) of this section.
@@ -1480,21 +1479,21 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 (5) If any commercial fisher is or becomes subject to subsection (2) of this section and the commercial fisher subsequently purchases any relevant quota, the requirements of subsection (1) apply on and from the commencement of the next fishing year as if the minimum amount of annual catch entitlement required to be held was the amount of annual catch entitlement actually generated by the commercial fisher's quota (including such purchased quota) unless that amount exceeds the applicable amount specified in subsection (1) of this section; and subsection (2) of this section shall cease to apply to that commercial fisher.
 (6)
 (7) Subject to subsections (8) and (9), the Governor-General may from time to time, by Order in Council, amend Schedule 8 by—
-  (a) Adding 1 or more stocks to that schedule:
-  (b) Omitting 1 or more stocks from that schedule:
-  (c) Specifying a minimum holding of annual catch entitlement for any stocks being added to that schedule:
-  (d) Increasing or reducing a minimum holding of annual catch entitlement for any stocks listed in that schedule.
+  (a) adding 1 or more stocks to that schedule:
+  (b) omitting 1 or more stocks from that schedule:
+  (c) specifying a minimum holding of annual catch entitlement for any stocks being added to that schedule:
+  (d) increasing or reducing a minimum holding of annual catch entitlement for any stocks listed in that schedule.
 (8) An Order in Council made under subsection (7) takes effect on the commencement of the following fishing year for the stocks concerned
 (9) No Order in Council may be made under subsection (7) except on the recommendation of the Minister following consultation by the Minister with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the stocks subject to the order.
 (9A) The Minister may make a recommendation under subsection (9)—
-  (a) On the Minister's own initiative; or
-  (b) On request by quota owners who hold in the aggregate at least 75 000 000 quota shares in that stock.
+  (a) on the Minister's own initiative; or
+  (b) on request by quota owners who hold in the aggregate at least 75 000 000 quota shares in that stock.
 (9B) A request under subsection (9A)(b) must—
-  (a) Specify the concerns (if any) of the quota owners who do not support the proposal; and
-  (b) Specify what arrangements are in place to address those concerns.
+  (a) specify the concerns (if any) of the quota owners who do not support the proposal; and
+  (b) specify what arrangements are in place to address those concerns.
 (10) Every such order shall,—
-  (a) If it is made on or before the 30th day of June in any year, expire with the close of the 31st day of December in that year except so far as it is expressly confirmed by Act of Parliament passed during that year:
-  (b) If it is made on or after the 1st day of July in any year, expire on the close of the 31st day of December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
+  (a) if it is made on or before the 30th day of June in any year, expire with the close of the 31st day of December in that year except so far as it is expressly confirmed by Act of Parliament passed during that year:
+  (b) if it is made on or after the 1st day of July in any year, expire on the close of the 31st day of December in the following year except so far as it is expressly confirmed by Act of Parliament passed before the end of that following year.
 (11)
 (12) If a person contravenes subsection (1) or subsection (2), the person commits an offence and is liable to the penalty set out in section 252(5).
 
@@ -1503,20 +1502,20 @@ If any regulations made under section 297(1)(sa) provide that any transactions m
 ### 75 Minister to set deemed value rates
 (1) For each quota management stock, the Minister must, by notice in the Gazette, set an interim deemed value rate and an annual deemed value rate for that stock, and those rates continue to apply in each fishing year for that stock unless varied under this section.
 (2) In setting an interim deemed value rate or an annual deemed value rate, the Minister—
-  (a) Must take into account the need to provide an incentive for every commercial fisher to acquire or maintain sufficient annual catch entitlement in respect of each fishing year that is not less than the total catch of that stock taken by that commercial fisher; and
-  (b) May have regard to—
-    (i) The desirability of commercial fishers landing catch for which they do not have annual catch entitlement; and
-    (ii) The market value of the annual catch entitlement for the stock; and
-    (iii) The market value of the stock; and
-    (iv) The economic benefits obtained by the most efficient commercial fisher, licensed fish receiver, retailer, or any other person from the taking, processing, or sale of the fish, aquatic life, or seaweed, or of any other fish, aquatic life, or seaweed that is commonly taken in association with the fish, aquatic life, or seaweed; and
-    (v) The extent to which catch of that stock has exceeded or is likely to exceed the total allowable commercial catch for the stock in any year; and
-    (vi) Any other matters that the Minister considers relevant.
+  (a) must take into account the need to provide an incentive for every commercial fisher to acquire or maintain sufficient annual catch entitlement in respect of each fishing year that is not less than the total catch of that stock taken by that commercial fisher; and
+  (b) may have regard to—
+    (i) the desirability of commercial fishers landing catch for which they do not have annual catch entitlement; and
+    (ii) the market value of the annual catch entitlement for the stock; and
+    (iii) the market value of the stock; and
+    (iv) the economic benefits obtained by the most efficient commercial fisher, licensed fish receiver, retailer, or any other person from the taking, processing, or sale of the fish, aquatic life, or seaweed, or of any other fish, aquatic life, or seaweed that is commonly taken in association with the fish, aquatic life, or seaweed; and
+    (v) the extent to which catch of that stock has exceeded or is likely to exceed the total allowable commercial catch for the stock in any year; and
+    (vi) any other matters that the Minister considers relevant.
 (3) The Minister must set annual deemed value rates for a stock that are greater than interim deemed value rates set for that stock.
 (4) The Minister may set different annual deemed value rates in respect of the same stock which apply to different levels of catch in excess of annual catch entitlement.
 (5) The Minister may set an interim deemed value rate and an annual deemed value rate in respect of fish, aquatic life, or seaweed landed and received by a licensed fish receiver in the Chatham Islands that is different from the deemed value rate set in respect of fish, aquatic life, or seaweed of the same stock landed and received by a licensed fish receiver elsewhere.
 (6) The Minister must not—when setting an interim deemed value rate or an annual deemed value rate.
-  (a) Have regard to the personal circumstances of any individual or class of person liable to pay the deemed value of any fish, aquatic life, or seaweed; or
-  (b) Set separate deemed value rates in individual cases—
+  (a) have regard to the personal circumstances of any individual or class of person liable to pay the deemed value of any fish, aquatic life, or seaweed; or
+  (b) set separate deemed value rates in individual cases—
 (7) Any interim or annual deemed value rate set under this section may be varied by the Minister in the same manner, and any rate set or varied under this section takes effect on the first day of the next fishing year for the stock concerned.
 
 ### 75A Requirement to consult in relation to deemed values
@@ -1531,53 +1530,53 @@ Before setting any interim deemed value rate or annual deemed value rate under s
   (a) held a fishing permit or a high seas fishing permit; or
   (b) was a person using a New Zealand ship who, in the judgment of the chief executive, held a valid authority to fish against New Zealand's national allocation of highly migratory species in the national fisheries jurisdiction of a foreign country.
 (1A) As soon as practicable after the 15th day of each month (other than the first month) of every fishing year, the chief executive must, in accordance with regulations made for that purpose under section 297, in respect of every commercial fisher,—
-  (a) Compare—
-    (i) The annual catch entitlement for each stock (if any) for the fishing year owned by that commercial fisher as at the close of the 15th day of that month; and
-    (ii) The reported catch for that stock (in kilogrammes) calculated in accordance with regulations made for that purpose under section 297, taken by that commercial fisher during the fishing year up to the end of the preceding month; and
-  (b) Calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)(ii).
+  (a) compare—
+    (i) the annual catch entitlement for each stock (if any) for the fishing year owned by that commercial fisher as at the close of the 15th day of that month; and
+    (ii) the reported catch for that stock (in kilogrammes) calculated in accordance with regulations made for that purpose under section 297, taken by that commercial fisher during the fishing year up to the end of the preceding month; and
+  (b) calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)(ii).
 (1B) As soon as practicable after the 15th day after the end of the fishing year for each stock, the chief executive must, in accordance with regulations made for that purpose under section 297, in respect of every commercial fisher,—
-  (a) Compare
-    (i) The annual catch entitlement for each stock (if any) for the relevant fishing year owned by that commercial fisher as at the close of the 15th day after the end of the fishing year; and
-    (ii) The reported catch for that stock (in kilogrammes), calculated in accordance with regulations made for that purpose under section 297, taken by that commercial fisher during the fishing year up to the end of the fishing year; and
-  (b) Calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)(ii).
+  (a) compare—
+    (i) the annual catch entitlement for each stock (if any) for the relevant fishing year owned by that commercial fisher as at the close of the 15th day after the end of the fishing year; and
+    (ii) the reported catch for that stock (in kilogrammes), calculated in accordance with regulations made for that purpose under section 297, taken by that commercial fisher during the fishing year up to the end of the fishing year; and
+  (b) calculate, in respect of each stock, whether that commercial fisher's annual catch entitlement referred to in paragraph (a)(i) exceeds that commercial fisher's reported catch referred to in paragraph (a)(ii).
 (2) Following the calculation referred to in subsection (1A) of this section, the chief executive shall calculate the amount of interim deemed value that is to be demanded from, or remitted to, that commercial fisher in accordance with regulations made for the purpose under section 297 of this Act and thereafter shall demand or remit the amount, as the case may be.
 (2A) Subject to subsection (2B), following the calculation referred to in subsection (1B), the chief executive must calculate the amount of annual deemed value (if any) that is to be demanded from the commercial fisher in accordance with regulations made for the purpose under section 297, and must demand the amount.
 (2B) In calculating the amount of annual deemed value to be demanded from a commercial fisher, the chief executive must credit the commercial fisher with interim deemed value amounts demanded in respect of the relevant stock in the relevant fishing year (other than demanded amounts that have been remitted under subsection (2)).
 (2C) For the sole purpose of determining an appropriate annual deemed value under this section, if a fisher to whom subsection (1B) applies holds no annual catch entitlement for a stock in respect of which the Minister has set different deemed value rates under section 75(4), that fisher is deemed to hold 1 kilogramme of annual catch entitlement for that stock.
 (3) A demand for an amount of interim deemed value made by the chief executive under this section may be satisfied by—
-  (a) Payment of the sum of money so demanded; or
-  (b) Acquiring, for the relevant fishing year and within the time limit specified in section 134, annual catch entitlement for the relevant stock; or
+  (a) payment of the sum of money so demanded; or
+  (b) acquiring, for the relevant fishing year and within the time limit specified in section 134, annual catch entitlement for the relevant stock; or
   (c)
-  (d) Any combination of those options.
+  (d) any combination of those options.
 (3A) A demand for an amount of annual deemed value made by the chief executive under this section must be satisfied by payment of the sum of money so demanded.
 (4) Every person who is liable to satisfy any deemed value amount demanded under this section is required to satisfy the demand whether or not an offence has been committed against this Act.
 (5) All deemed value amounts are to be satisfied within 20 days after the demand is made and, if being satisfied by payment of money, the amount is payable to the chief executive and shall be held by the Crown on trust for the commercial fisher until the trust ends in accordance with this section or the deemed value amount is remitted to the commercial fisher.
 (6) Any deemed value amount paid to the chief executive under this section in respect of fish, aquatic life, or seaweed taken in any fishing year shall cease to be held on trust and become the property of the Crown on the later of—
-  (a) The close of the 15th day of the third month after the end of the fishing year; or
-  (b) Five working days after the final determination of any request for a review by a commercial fisher of a notification under section 80 of this Act.
+  (a) the close of the 15th day of the third month after the end of the fishing year; or
+  (b) five working days after the final determination of any request for a review by a commercial fisher of a notification under section 80 of this Act.
 (7) Notwithstanding section 69 of the Public Finance Act 1989, no interest is payable in respect of any amount that is held on trust under this section, whether remitted to any commercial fisher or not.
 
 ### 77 Over-fishing thresholds
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister,—
-  (a) Specify quota management stocks to which over-fishing thresholds apply:
-  (b) Set over-fishing thresholds for those stocks:
-  (c) Specify, for each of those stocks, whether a tolerance level applies and, if so, specify the tolerance level.
+  (a) specify quota management stocks to which over-fishing thresholds apply:
+  (b) set over-fishing thresholds for those stocks:
+  (c) specify, for each of those stocks, whether a tolerance level applies and, if so, specify the tolerance level.
 (2) An over-fishing threshold for a stock—
-  (a) Is a specified percentage in excess of the annual catch entitlement held by a commercial fisher for the stock to which it relates:
-  (b) Takes effect on the first day of the fishing year that commences next after the relevant order under subsection (1) is made.
+  (a) is a specified percentage in excess of the annual catch entitlement held by a commercial fisher for the stock to which it relates:
+  (b) takes effect on the first day of the fishing year that commences next after the relevant order under subsection (1) is made.
 (3) An order made under subsection (1) may set different over-fishing thresholds for different stocks.
 (4) A tolerance level for a stock—
-  (a) Is a specified amount or an amount calculated in accordance with a formula set out in the order:
-  (b) Takes effect on the first day of the fishing year that commences next after the relevant order under subsection (1) is made.
+  (a) is a specified amount or an amount calculated in accordance with a formula set out in the order:
+  (b) takes effect on the first day of the fishing year that commences next after the relevant order under subsection (1) is made.
 (5) An order made under subsection (1) may set different tolerance levels for different stocks.
 (6) Before making a recommendation under subsection (1), the Minister must consult with such persons or organisations as the Minister considers are representative of those classes of persons having an interest in the over-fishing thresholds to which the recommendation relates.
 
 ### 77A Matters to be taken into account when recommending over-fishing thresholds
 Before making a recommendation under section 77(1), the Minister may have regard to—
-  (a) The effectiveness of deemed values in encouraging commercial fishers to acquire or maintain sufficient annual catch entitlement to cover their total catch; and
-  (b) The particular need, in relation to target stocks, to encourage commercial fishers to acquire or maintain sufficient annual catch entitlement to cover their total catch; and
-  (c) Actual or potential risks to the sustainability of the stock; and
-  (d) Any other matters that the Minister considers relevant.
+  (a) the effectiveness of deemed values in encouraging commercial fishers to acquire or maintain sufficient annual catch entitlement to cover their total catch; and
+  (b) the particular need, in relation to target stocks, to encourage commercial fishers to acquire or maintain sufficient annual catch entitlement to cover their total catch; and
+  (c) actual or potential risks to the sustainability of the stock; and
+  (d) any other matters that the Minister considers relevant.
 
 ### 78 Catch in excess of over-fishing thresholds
 (1) This section applies where, following the calculation referred to in section 76(1A),—
@@ -1612,8 +1611,8 @@ Before making a recommendation under section 77(1), the Minister may have regard
       (B) Te Wai Maori Trust; or
       (C) Te Ohu Kai Moana; and
   (ab) Aotearoa Fisheries Limited is not to be regarded as being included with any other person merely because the other person holds, or benefits from, income shares in Aotearoa Fisheries Limited; and
-  (b) No person is regarded as being included with another person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
-  (c) No bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+  (b) no person is regarded as being included with another person merely because either or both of those persons would be included with Te Ohu Kai Moana Trustee Limited but for paragraph (a); and
+  (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
 
 ### 78A Other persons may be subjected to same conditions as commercial fisher with catch in excess
 (1) Where a fishing permit of a person (person A) is treated as being subject to a condition under section 78(2), the chief executive may impose the same condition on any fishing permit held by or subsequently issued to another person (person B) if the chief executive believes, on reasonable grounds specified on oath in writing, that—
@@ -1665,7 +1664,7 @@ Before making a recommendation under section 77(1), the Minister may have regard
       (B) Te Putea Whakatupu Trust:
       (C) Te Wai Maori Trust; and
   (b) Aotearoa Fisheries Limited is not to be regarded as being included with another person merely because the other person holds, or benefits from, income shares in Aotearoa Fisheries Limited; and
-  (c) No bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
+  (c) no bank registered under the Reserve Bank of New Zealand Act 1989 is to be regarded as being included with any other person merely because the bank has, in the ordinary course of its business as a financier, been granted any interest in quota owned by that person.
 
 ### 79A Suspension of fishing permit of other persons
 (1) Where a fishing permit of a person (person A) is suspended under section 79(1), the chief executive may suspend the fishing permit of another person (person B) if the chief executive believes, on reasonable grounds specified on oath in writing, that—
@@ -1708,107 +1707,107 @@ Before making a recommendation under section 77(1), the Minister may have regard
 
 ### 80 Conclusive balances
 (1) The chief executive must, for each stock for which a commercial fisher holds an annual catch entitlement or has reported catch, notify the commercial fisher in writing of such matters as are specified for the purpose in any regulations made under section 297.
-  (a) The total reported catch of the commercial fisher for that month; and
-  (b) The total annual catch entitlement registered in the commercial fisher's name as at the close of the 15th day after the end of that month; and
-  (c) The result of the comparison referred to in section 76(1) of this Act; and
-  (d) The result of any bycatch trade-off accepted by the chief executive on or before the 15th day after the close of that month; and
-  (e) Such other matters as are specified for the purpose in any regulations made under section 297 of this Act.
+  (a) the total reported catch of the commercial fisher for that month; and
+  (b) the total annual catch entitlement registered in the commercial fisher's name as at the close of the 15th day after the end of that month; and
+  (c) the result of the comparison referred to in 7section 6(1) of this Act; and
+  (d) the result of any bycatch trade-off accepted by the chief executive on or before the 15th day after the close of that month; and
+  (e) such other matters as are specified for the purpose in any regulations made under section 297 of this Act.
 (1A) A notification under subsection (1) must be made as soon as practicable after the date specified for the purpose in regulations made under section 297.
 (2) Any commercial fisher who considers that any information supplied in the notification under subsection (1) of this section is incorrect in relation to any matter required to be specified in any notice given under that subsection may, within 20 days after the date specified for the purpose in the notice, request a review of the matters specified in the notification, but no request under this section may be made if the notification is no different from the previous month's notification or if the grounds for such a request relate to the registration or non-registration of a transfer of annual catch entitlement for any reason and in any circumstances.
 (3) Subsection (2) of this section does not prevent any person making an application under section 164 of this Act for a correction of a register.
 (4)
 (5) The chief executive shall, if satisfied that a valid request for review has been received and sufficient information has been provided, conduct a review of the notification and, as soon as practicable, determine the matters that are the subject of the review and issue a new notification containing all matters specified in subsection (1) of this section and incorporating the results of that determination.
 (6) Any commercial fisher who is dissatisfied with any new notification issued by the chief executive under subsection (5) of this section may, within 20 working days after the date specified for the purpose in the notification of the decision, appeal to a District Court against the decision (which appeal may relate to any matters that were the subject of the commercial fisher's request for review) and the following provisions apply in relation to every such appeal:
-  (a) The appeal shall be commenced by way of an originating application under Part 6 of the District Court Rules 1992:
-  (b) The Court—
-    (i) Shall consider each of the matters to which the appeal relates; and
-    (ii) Shall make a final determination in respect of each of those matters; and
-    (iii) Shall direct the chief executive to issue a new and final notification; and
-    (iv) May make such orders as to costs and such other orders as it thinks fit.
+  (a) the appeal shall be commenced by way of an originating application under Part 6 of the District Court Rules 1992:
+  (b) the Court—
+    (i) shall consider each of the matters to which the appeal relates; and
+    (ii) shall make a final determination in respect of each of those matters; and
+    (iii) shall direct the chief executive to issue a new and final notification; and
+    (iv) may make such orders as to costs and such other orders as it thinks fit.
 (7) Subject to subsection (6) of this section, no decision or purported decision of the chief executive under subsection (5) of this section shall be liable to be challenged, reviewed, quashed, called into question, or be subject to an appeal, but nothing in this subsection shall prevent any appeal in respect of any proceedings under subsection (6) of this section.
 (8) Every notification given under this section is presumed to be conclusive for the purpose of this Act.
 (9) Any deemed value amount demanded by the chief executive that may be affected by the outcome of any objection under this section shall remain payable and all provisions of this Act shall apply accordingly notwithstanding the objection under this section.
 (10) Nothing in any notification referred to in subsection (8) of this section—
-  (a) Prevents the chief executive altering any information in a notification under subsection (1) of this section merely because he or she has accepted any return required under this Act that is given late; or
-  (b) Shall be conclusive against the Crown in any criminal proceedings.
+  (a) prevents the chief executive altering any information in a notification under subsection (1) of this section merely because he or she has accepted any return required under this Act that is given late; or
+  (b) shall be conclusive against the Crown in any criminal proceedings.
 (11) As soon as practicable after the close of the 15th day of each month, the chief executive shall notify the relevant Registrar of Annual Catch Entitlement of—
-  (a) The total catch reported by each commercial fisher for the relevant year to the end of each month; and
-  (b) Any change to any commercial fisher's reported catch as a result of any decision in respect of a request for review made under this section.
+  (a) the total catch reported by each commercial fisher for the relevant year to the end of each month; and
+  (b) any change to any commercial fisher's reported catch as a result of any decision in respect of a request for review made under this section.
 
 ## Part 5 — Foreign licensed access
 
 ### 81 Calculation of foreign allowable catch
 (1) The Minister shall from time to time determine—
-  (a) The portion of the total allowable commercial catch for a quota management stock that may be taken within the exclusive economic zone; and
-  (b) The portion of the total catch limit (if any) for any stock not subject to the quota management system (including any highly migratory stock) that may be taken within the exclusive economic zone; and
-  (c) The foreign allowable catch for a stock in the exclusive economic zone.
+  (a) the portion of the total allowable commercial catch for a quota management stock that may be taken within the exclusive economic zone; and
+  (b) the portion of the total catch limit (if any) for any stock not subject to the quota management system (including any highly migratory stock) that may be taken within the exclusive economic zone; and
+  (c) the foreign allowable catch for a stock in the exclusive economic zone.
 (2) The foreign allowable catch for any quota management stock shall be the lesser of—
-  (a) The portion of the total allowable commercial catch for the time being determined for the stock under subsection (1)(a) of this section:
-  (b) The Crown's available annual catch entitlement for the stock.
+  (a) the portion of the total allowable commercial catch for the time being determined for the stock under subsection (1)(a) of this section:
+  (b) the Crown's available annual catch entitlement for the stock.
 (3) For the purposes of subsection (2)(b), the Crown's available annual catch entitlement for a stock is the Crown's holding of annual catch entitlement for the stock that—
   (a) is generated from unencumbered quota held by the Crown; and
   (b) remains unsold after the Crown has offered the annual catch entitlement for sale to persons entitled to own quota.
 (4) The foreign allowable catch for any stock not subject to the quota management system shall be the lesser of—
-  (a) The portion of the total catch limit (if any) for the time being determined under subsection (1)(b) of this section:
-  (b) A catch that is sustainable after taking into account the total catch limit (if any) for, and the domestic harvesting capacity of, the stock.
+  (a) the portion of the total catch limit (if any) for the time being determined under subsection (1)(b) of this section:
+  (b) a catch that is sustainable after taking into account the total catch limit (if any) for, and the domestic harvesting capacity of, the stock.
 (5) For the purposes of this section, the term domestic harvesting capacity, in relation to any stock not subject to the quota management system, means the total domestic commercial catch reported as having been taken in the previous fishing year for the stock by New Zealand fishing vessels within New Zealand fisheries waters, with an appropriate adjustment to allow for—
-  (a) Any changes in the harvesting capacity of the domestic commercial fishing fleet due to—
-    (i) Recent investment in fishing vessels and fishing equipment; and
-    (ii) Catch trends; and
-  (b) Non-commercial take and scientific take.
+  (a) any changes in the harvesting capacity of the domestic commercial fishing fleet due to—
+    (i) recent investment in fishing vessels and fishing equipment; and
+    (ii) catch trends; and
+  (b) non-commercial take and scientific take.
 (6) If the foreign allowable catch for any quota management stock has been determined under subsection (1)(c) of this section in accordance with subsection (2) of this section, the Minister shall set aside an amount of the Crown's holding of annual catch entitlement for the stock that is equivalent to the amount of the foreign allowable catch, and such annual catch entitlement shall not be used for fishing.
 (7) Nothing in this section applies in relation to any highly migratory species.
 
 ### 82 Apportionment of foreign allowable catch for foreign fishing vessels
 (1) The Minister may from time to time apportion, among countries other than New Zealand, the foreign allowable catch in respect of any stock (other than any highly migratory species) within the exclusive economic zone.
 (2) In making an apportionment under subsection (1) of this section, the Minister shall have regard to—
-  (a) The degree to which fishing vessels of countries other than New Zealand have engaged in fishing within the exclusive economic zone; and
-  (b) The degree to which such countries have co-operated with New Zealand in fisheries research and in the identification of fish stocks within the exclusive economic zone; and
-  (c) The degree to which such countries have co-operated with New Zealand in the conservation and management of fisheries resources within the exclusive economic zone, and in the enforcement of New Zealand law relating to such resources; and
-  (d) The degree to which such countries have complied with any relevant international obligations; and
-  (e) Such other matters as the Minister, after consultation with the Minister of Foreign Affairs and Trade, considers to be relevant.
+  (a) the degree to which fishing vessels of countries other than New Zealand have engaged in fishing within the exclusive economic zone; and
+  (b) the degree to which such countries have co-operated with New Zealand in fisheries research and in the identification of fish stocks within the exclusive economic zone; and
+  (c) the degree to which such countries have co-operated with New Zealand in the conservation and management of fisheries resources within the exclusive economic zone, and in the enforcement of New Zealand law relating to such resources; and
+  (d) the degree to which such countries have complied with any relevant international obligations; and
+  (e) such other matters as the Minister, after consultation with the Minister of Foreign Affairs and Trade, considers to be relevant.
 
 ### 83 Issue of licences
 (1) The operator of any foreign fishing vessel who proposes to use that vessel for fishing within the exclusive economic zone may, in the approved form, apply for a licence for that purpose; and—
-  (a) The application shall be made to a place appointed for the purpose by the chief executive by notice in the Gazette; and
-  (b) The application shall be accompanied by the prescribed fee (if any) and shall contain such information as the Minister may from time to time require by notice in the Gazette.
+  (a) the application shall be made to a place appointed for the purpose by the chief executive by notice in the Gazette; and
+  (b) the application shall be accompanied by the prescribed fee (if any) and shall contain such information as the Minister may from time to time require by notice in the Gazette.
 (2) The Minister may issue to the operator of any foreign fishing vessel a licence to fish using that vessel within the exclusive economic zone.
 (2A) In the case of an application to fish for any highly migratory species, the Minister may issue a licence under subsection (2) only if the Minister considers that to do so would be consistent with the optimum utilisation of that species within the exclusive economic zone.
 (3) Before issuing a licence under this section, the Minister—
-  (a) Must have regard to the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, master, or crew; and.
-  (b) May have regard to such other matters as the Minister considers to be relevant.
+  (a) must have regard to the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, master, or crew; and.
+  (b) may have regard to such other matters as the Minister considers to be relevant.
 (4) A licence may be issued under this section upon or subject to conditions relating to all or any of the following matters:
-  (a) The areas within the exclusive economic zone in which fishing is authorised:
-  (b) The seasons, times, and particular voyages during which fishing is authorised:
-  (c) The species, size, age, and quantities of fish, aquatic life, or seaweed that may be taken:
-  (d) The methods by which fish, aquatic life, or seaweed may be taken:
-  (e) The types, size, and amount of fishing gear or equipment that may be used or carried and the modes of storage of that gear or equipment when not in use:
-  (f) The use, transfer, transhipment, landing, receiving, and processing of fish, aquatic life, or seaweed taken:
-  (g) Procedures or requirements, or both, enabling the verification of fish, aquatic life, or seaweed taken or being taken by the vessel, including procedures or restrictions relating to the species of, quantities of, or areas from which, fish, aquatic life, or seaweed are being or have been taken by the vessel:
-  (h) Entry by the vessel to New Zealand ports, whether for the inspection of its catch or for other purposes:
-  (i) The compensation payable to New Zealand citizens or to the Crown in the event of any loss or damage caused by the vessel to other vessels or their gear, equipment or catch, or to pipelines or cables, or to other New Zealand interests:
-  (j) Reports and information required to be given to the chief executive by the licence holder, including reports and information relating to—
-    (i) Catch and effort:
-    (ii) The positions and activities of the vessel:
-  (k) Management controls regarding fishing-related mortality of protected species:
-  (l) The conduct of specified programmes of fisheries research:
-  (m) The display on board the vessel of the licence issued in respect of the vessel:
-  (n) The marking of the vessel and other means for its identification:
-  (o) The placing of observers on the vessel and the payment of any associated prescribed fees and charges by the licence holder:
-  (p) The installation on the vessel and the maintenance of any automatic location communicator or other equipment for the identification and location of the vessel, and of adequate navigational equipment to enable the vessel to fix its position:
-  (q) The carriage on board the vessel of specified charts, publications, and instruments:
-  (r) Such other matters as the Minister considers necessary or expedient for the purpose of this Act or any other enactment or otherwise.
+  (a) the areas within the exclusive economic zone in which fishing is authorised:
+  (b) the seasons, times, and particular voyages during which fishing is authorised:
+  (c) the species, size, age, and quantities of fish, aquatic life, or seaweed that may be taken:
+  (d) the methods by which fish, aquatic life, or seaweed may be taken:
+  (e) the types, size, and amount of fishing gear or equipment that may be used or carried and the modes of storage of that gear or equipment when not in use:
+  (f) the use, transfer, transhipment, landing, receiving, and processing of fish, aquatic life, or seaweed taken:
+  (g) procedures or requirements, or both, enabling the verification of fish, aquatic life, or seaweed taken or being taken by the vessel, including procedures or restrictions relating to the species of, quantities of, or areas from which, fish, aquatic life, or seaweed are being or have been taken by the vessel:
+  (h) entry by the vessel to New Zealand ports, whether for the inspection of its catch or for other purposes:
+  (i) the compensation payable to New Zealand citizens or to the Crown in the event of any loss or damage caused by the vessel to other vessels or their gear, equipment or catch, or to pipelines or cables, or to other New Zealand interests:
+  (j) reports and information required to be given to the chief executive by the licence holder, including reports and information relating to—
+    (i) catch and effort:
+    (ii) the positions and activities of the vessel:
+  (k) management controls regarding fishing-related mortality of protected species:
+  (l) the conduct of specified programmes of fisheries research:
+  (m) the display on board the vessel of the licence issued in respect of the vessel:
+  (n) the marking of the vessel and other means for its identification:
+  (o) the placing of observers on the vessel and the payment of any associated prescribed fees and charges by the licence holder:
+  (p) the installation on the vessel and the maintenance of any automatic location communicator or other equipment for the identification and location of the vessel, and of adequate navigational equipment to enable the vessel to fix its position:
+  (q) the carriage on board the vessel of specified charts, publications, and instruments:
+  (r) such other matters as the Minister considers necessary or expedient for the purpose of this Act or any other enactment or otherwise.
 (5) The Minister may at any time, by notice in writing to the licence holder,—with effect on and from a date specified in the notice.
-  (a) Amend or revoke any provision or condition of a licence issued under this section; or
-  (b) Add new provisions or conditions to any such licence—
+  (a) amend or revoke any provision or condition of a licence issued under this section; or
+  (b) add new provisions or conditions to any such licence—
 (6) In exercising powers under this section, the Minister shall ensure that the total catch authorised to be taken from any stock within the exclusive economic zone by vessels licensed under this section that are vessels of a particular country does not exceed that country's apportionment for that stock under section 82 of this Act.
 
 ### 84 Licensing offences
 (1) No person may take any fish, aquatic life, or seaweed within the exclusive economic zone using a foreign fishing vessel except—
-  (a) Under the authority of—
-    (i) A licence issued under section 83; or
-    (ii) If the vessel is used for the purposes of fisheries research or experimentation (including gear and equipment trials) or recreation, the prior written consent of the Minister; and
-  (b) In accordance with any conditions of that licence or consent.
+  (a) under the authority of—
+    (i) a licence issued under section 83; or
+    (ii) if the vessel is used for the purposes of fisheries research or experimentation (including gear and equipment trials) or recreation, the prior written consent of the Minister; and
+  (b) in accordance with any conditions of that licence or consent.
 (2) Consent under subsection (1)(a)(ii) of this section may be given unconditionally or upon or subject to such conditions, including the payment of fees, as the Minister thinks fit.
 (3) Every person commits an offence and is liable to the penalty set out in section 252(2) of this Act who contravenes subsection (1)(a) of this section.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes subsection (1)(b) of this section.
@@ -1818,16 +1817,16 @@ Every person to whom a licence has been issued under this Part of this Act shall
 
 ### 86 Suspension and revocation of licences
 (1) If the Minister is satisfied that—the Minister may suspend the licence for such period as he or she shall specify or may revoke the licence.
-  (a) An offence against this Act or any other New Zealand law that applies to fishing within New Zealand fisheries waters has been committed by the owner, operator, master, or crew member of a foreign fishing vessel; or
-  (b) Any licence holder, master, or crew member of a foreign fishing vessel has failed to pay to the Crown, within the time limit set out in section 88(9) of this Act, the amount of any penalty imposed on that person under that section by the Minister,—
+  (a) an offence against this Act or any other New Zealand law that applies to fishing within New Zealand fisheries waters has been committed by the owner, operator, master, or crew member of a foreign fishing vessel; or
+  (b) any licence holder, master, or crew member of a foreign fishing vessel has failed to pay to the Crown, within the time limit set out in section 88(9) of this Act, the amount of any penalty imposed on that person under that section by the Minister,—
 (2) If the Minister, after consultation with the Minister of Foreign Affairs and Trade, considers that it is necessary or expedient to achieve the purpose of this Act or to recognise any international obligation relating to fishing, the Ministry may suspend any licence for such period as he or she shall specify or may revoke any licence.
 (3) While suspended under this section, a licence does not authorise fishing, but the obligations and conditions imposed by the licence, or imposed by or under this Act in relation to it, shall continue to have effect.
 (4) Any person may request the Minister to revoke any licence issued to that person, and, upon revocation of that licence under this subsection,—
-  (a) The licence holder shall ensure that the licence and any duplicates are surrendered to the Minister; and
-  (b) The licence shall cease to have any effect for the purpose of this Act.
+  (a) the licence holder shall ensure that the licence and any duplicates are surrendered to the Minister; and
+  (b) the licence shall cease to have any effect for the purpose of this Act.
 (5) The Minister may revoke any licence if satisfied that any information or evidence supplied with the application was false or misleading in any material particular, and, upon revocation under this subsection,—
-  (a) The licence holder shall ensure that the licence and any duplicates are surrendered to the Minister; and
-  (b) The licence shall cease to have any effect for the purpose of this Act.
+  (a) the licence holder shall ensure that the licence and any duplicates are surrendered to the Minister; and
+  (b) the licence shall cease to have any effect for the purpose of this Act.
 (6) Any revocation of a licence under subsection (5) of this section shall be deemed to have effect on and from the date of issue of the licence; but nothing in that subsection requires the Minister to remit or refund any fees or charges paid or payable in respect of that licence from the date the licence was issued to the date of revocation.
 
 ### 87 Review by courts
@@ -1835,24 +1834,24 @@ No exercise or purported exercise by the Minister of any power conferred on the 
 
 ### 88 Administrative penalties for fisheries offences
 (1) This section—
-  (a) Applies in respect of any offence that carries a penalty of a fine not exceeding $250,000 and is an offence against this Act or against any other New Zealand law that relates to fishing; but
-  (b) Does not apply in respect of any alleged offence if any information or charge has been laid in respect of the alleged offence.
+  (a) applies in respect of any offence that carries a penalty of a fine not exceeding $250,000 and is an offence against this Act or against any other New Zealand law that relates to fishing; but
+  (b) does not apply in respect of any alleged offence if any information or charge has been laid in respect of the alleged offence.
 (2) If the Minister has reasonable cause to believe that—the Minister may cause a notice in writing, in the approved form, to be served on that person.
-  (a) An offence to which this section applies may have been committed by any person in respect of any vessel licensed or required to be licensed under this Part of this Act; and
-  (b) Having regard to all the circumstances relating to the alleged offence it is of a minor nature and, having regard to the previous conduct of the vessel and of the person concerned in New Zealand fisheries waters, it would be appropriate to impose a penalty under this section,—
+  (a) an offence to which this section applies may have been committed by any person in respect of any vessel licensed or required to be licensed under this Part of this Act; and
+  (b) having regard to all the circumstances relating to the alleged offence it is of a minor nature and, having regard to the previous conduct of the vessel and of the person concerned in New Zealand fisheries waters, it would be appropriate to impose a penalty under this section,—
 (3) A notice under subsection (2) of this section shall contain—and shall be endorsed with a statement setting out the provisions of this section.
-  (a) The date and nature of the alleged offence; and
-  (b) A summary of the facts on which the allegation that an offence has been committed is based (which summary shall be sufficient to fully and fairly inform the person of the allegation against the person); and
-  (c) Any other matters (other than previous convictions) that the Minister considers relevant to the imposition of a penalty—
+  (a) the date and nature of the alleged offence; and
+  (b) a summary of the facts on which the allegation that an offence has been committed is based (which summary shall be sufficient to fully and fairly inform the person of the allegation against the person); and
+  (c) any other matters (other than previous convictions) that the Minister considers relevant to the imposition of a penalty—
 (4) Any person on whom a notice under subsection (2) of this section is served may, within 28 days after the notice is served on the person, by a notice in writing in the approved form served on the chief executive, require that any proceedings in respect of the alleged offence shall be dealt with before a court, in which case the following provisions shall apply:
-  (a) No further proceedings shall be taken under this section by the Minister:
-  (b) Nothing in this section shall be construed to prevent the subsequent laying of any information or charge in respect of the alleged offence, or the conviction of the person of the offence by a court, or the imposition of any penalty under any enactment or forfeiture under this Act on such a conviction.
+  (a) no further proceedings shall be taken under this section by the Minister:
+  (b) nothing in this section shall be construed to prevent the subsequent laying of any information or charge in respect of the alleged offence, or the conviction of the person of the offence by a court, or the imposition of any penalty under any enactment or forfeiture under this Act on such a conviction.
 (5) Any person on whom a notice under subsection (2) of this section is served who does not require that any proceedings in respect of the alleged offence be dealt with before a court may, by notice in writing served on the chief executive,—
-  (a) Admit the offence; and
-  (b) Make submissions to the Minister as to the matters the person wishes the Minister to take into account in imposing any penalty under this section.
+  (a) admit the offence; and
+  (b) make submissions to the Minister as to the matters the person wishes the Minister to take into account in imposing any penalty under this section.
 (6) If a person on whom a notice under subsection (2) of this section is served does not, within 28 days after the notice is served on the person,—the person shall on the expiration of that period be deemed to have admitted the offence.
-  (a) Require that any proceedings in respect of the alleged offence be dealt with before a court; or
-  (b) Admit the offence,—
+  (a) require that any proceedings in respect of the alleged offence be dealt with before a court; or
+  (b) admit the offence,—
 (7) If under this section a person admits or is deemed to have admitted an offence, the Minister may, after taking into account any submissions made by the person under subsection (5) of this section, impose on that person a monetary penalty not exceeding one-third of the maximum monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
 (8) If the Minister imposes a penalty on a person under this section in respect of an offence, the Minister shall cause a notice in writing in the approved form of the particulars of the penalty to be served on the person.
 (9) A person on whom a penalty is imposed under this section shall pay the amount of the penalty to the Crown within 28 days after the notice of the penalty is served on the person in accordance with subsection (8) of this section.
@@ -1866,34 +1865,34 @@ No exercise or purported exercise by the Minister of any power conferred on the 
 ### 89 All fishing to be authorised by fishing permit unless specific exemption held
 (1) No person shall take any fish, aquatic life, or seaweed by any method unless the person does so under the authority of and in accordance with a current fishing permit.
 (2) Subsection (1) of this section does not apply to the taking of—
-  (a) Fish, aquatic life, or seaweed by any natural person otherwise than for the purpose of sale and in accordance with any amateur fishing regulations made under, and any other requirements imposed by, this Act; or
-  (b) Fish, aquatic life, or seaweed by any natural person otherwise than for the purpose of sale and in accordance with any Maori customary non-commercial fishing regulations made under, and any other requirements imposed by, this Act; or
-  (c) Any seabirds or protected species; or
-  (d) Any whitebait, sports fish, ornamental fish, or unwanted aquatic life; or
-  (e) Fish, aquatic life, or seaweed by any person in accordance with an authorisation given under the Marine Reserves Act 1971; or
-  (f) Seaweed of the Class Rhodophyceae while it is unattached and cast ashore; or
-  (g) Samples of fish, aquatic life, or seaweed under the authority of section 20 of the Food Act 1981 by an officer as defined in that Act or by a person assisting such an officer; or
-  (h) Samples of fish, aquatic life, or seaweed under the authority of section 6 of the Meat Act 1981 by an inspector as defined in that Act or by a person assisting such an inspector; or
-  (ha) Samples of fish, aquatic life, or seaweed under the authority of Part 7 of the Animal Products Act 1999 by an animal product officer or official assessor as defined in that Act, or by a person assisting such an officer or assessor; or
-  (i) Fish, aquatic life, or seaweed under the authority of a foreign fishing vessel licence issued under section 83 of this Act; or
-  (j) Fish, aquatic life, or seaweed in accordance with a freshwater fish farming licence issued under the Freshwater Fish Farming Regulations 1983 or a marine farming permit or spat catching permit issued or granted under the Fisheries Act 1983 or this Act.
+  (a) fish, aquatic life, or seaweed by any natural person otherwise than for the purpose of sale and in accordance with any amateur fishing regulations made under, and any other requirements imposed by, this Act; or
+  (b) fish, aquatic life, or seaweed by any natural person otherwise than for the purpose of sale and in accordance with any Maori customary non-commercial fishing regulations made under, and any other requirements imposed by, this Act; or
+  (c) any seabirds or protected species; or
+  (d) any whitebait, sports fish, ornamental fish, or unwanted aquatic life; or
+  (e) fish, aquatic life, or seaweed by any person in accordance with an authorisation given under the Marine Reserves Act 1971; or
+  (f) seaweed of the Class Rhodophyceae while it is unattached and cast ashore; or
+  (g) samples of fish, aquatic life, or seaweed under the authority of section 20 of the Food Act 1981 by an officer as defined in that Act or by a person assisting such an officer; or
+  (h) samples of fish, aquatic life, or seaweed under the authority of section 6 of the Meat Act 1981 by an inspector as defined in that Act or by a person assisting such an inspector; or
+  (ha) samples of fish, aquatic life, or seaweed under the authority of Part 7 of the Animal Products Act 1999 by an animal product officer or official assessor as defined in that Act, or by a person assisting such an officer or assessor; or
+  (i) fish, aquatic life, or seaweed under the authority of a foreign fishing vessel licence issued under section 83 of this Act; or
+  (j) fish, aquatic life, or seaweed in accordance with a freshwater fish farming licence issued under the Freshwater Fish Farming Regulations 1983 or a marine farming permit or spat catching permit issued or granted under the Fisheries Act 1983 or this Act.
 (2A) Despite subsection (1), a person may take fish, aquatic life, or seaweed of a stock or species listed in Schedule 4C if it is taken as the inevitable consequence of the taking of other fish, aquatic life, or seaweed under the authority of and in accordance with a current fishing permit.
 (2B)
 (3) For the purposes of subsection (1) of this section, no person shall take any fish, aquatic life, or seaweed under the authority of a fishing permit unless that person is—
-  (a) The holder of that fishing permit; or
-  (b) A person who is an employee or agent of the holder of that fishing permit; or
-  (c) The master or a member of the crew of a fishing vessel that is registered in the name of the holder of that fishing permit.
+  (a) the holder of that fishing permit; or
+  (b) a person who is an employee or agent of the holder of that fishing permit; or
+  (c) the master or a member of the crew of a fishing vessel that is registered in the name of the holder of that fishing permit.
 (4) For the purposes of subsection (1) of this section, no person shall take,—under the authority of a fishing permit unless that person is the holder of that permit or belongs to the class of persons referred to in paragraph (b) or paragraph (c) of subsection (3) of this section and is named in an agreement approved by the chief executive under subsection (5) of this section before the taking occurred.
-  (a) In the case of a fishing permit that authorises the taking of freshwater eels, any freshwater eel; or
-  (b) If the fishing occurs otherwise than from a vessel, any fish, aquatic life, or seaweed—
+  (a) in the case of a fishing permit that authorises the taking of freshwater eels, any freshwater eel; or
+  (b) if the fishing occurs otherwise than from a vessel, any fish, aquatic life, or seaweed—
 (5) The chief executive may approve an agreement for the purpose of subsection (4) of this section if—
-  (a) The agreement is submitted to the chief executive in the approved form and is accompanied by the prescribed fee (if any); and
-  (b) The agreement is signed by all persons for whom authority to take under the fishing permit is being sought, and by the holder of the fishing permit; and
-  (c) The number of persons for whom authority to take under the fishing permit is being sought does not exceed the total number of persons (if any) permitted in accordance with subsection (8) of this section.
+  (a) the agreement is submitted to the chief executive in the approved form and is accompanied by the prescribed fee (if any); and
+  (b) the agreement is signed by all persons for whom authority to take under the fishing permit is being sought, and by the holder of the fishing permit; and
+  (c) the number of persons for whom authority to take under the fishing permit is being sought does not exceed the total number of persons (if any) permitted in accordance with subsection (8) of this section.
 (6) The chief executive may approve a variation of an agreement approved under subsection (5) of this section that adds or deletes the name of any person to or from the agreement, if—
-  (a) The variation is submitted to the chief executive in the approved form and is accompanied by the prescribed fee (if any); and
-  (b) The variation is signed by the persons for whom new authority to take under the fishing permit is being sought, and the holder of the fishing permit; and
-  (c) The number of persons who will have authority to take under the fishing permit will not exceed the total number of persons (if any) permitted in accordance with subsection (8) of this section.
+  (a) the variation is submitted to the chief executive in the approved form and is accompanied by the prescribed fee (if any); and
+  (b) the variation is signed by the persons for whom new authority to take under the fishing permit is being sought, and the holder of the fishing permit; and
+  (c) the number of persons who will have authority to take under the fishing permit will not exceed the total number of persons (if any) permitted in accordance with subsection (8) of this section.
 (7) Agreements under subsection (5) of this section and variations under subsection (6) of this section shall not take effect until approved by the chief executive.
 (8) The chief executive may impose a condition on a fishing permit under section 92(1) that authorises the taking of freshwater eels limiting the total number of persons who may be named in any agreement under subsection (5).
 (8A) Subsections (4) to (8) do not apply to the taking of freshwater eels that are subject to the quota management system.
@@ -1952,39 +1951,23 @@ Section 89(1) does not apply to the taking of fish, aquatic life, or seaweed if�
 
 ### 93 Qualifications for holding fishing permit and moratorium
 (1) Subject to section 93A, no fishing permit authorising the taking of fish, aquatic life, or seaweed of a stock or species listed in Schedule 4C shall be issued to any person unless either—
-  (a) All of the following apply:
-    (i) On the 30th day of September 1992, that person held a current fishing permit under section 63 of the Fisheries Act 1983 in respect of stocks not subject to a quota management system under that Act; and
-    (ii) During the period commencing on the 1st day of October 1990 and ending with the close of the 30th day of September 1992, that person lawfully took fish, aquatic life, or seaweed under the authority of the fishing permit held by that person; and
-    (iii) The chief executive is satisfied that the fish, aquatic life, or seaweed taken by that person, during that period were—
-      (A) One or more of the stocks named in the fishing permit held by that person; and
-      (B) Were caught as a target stock (other than bycatch); or
-  (b) A fishing permit was issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
+  (a) all of the following apply:
+    (i) on the 30th day of September 1992, that person held a current fishing permit under section 63 of the Fisheries Act 1983 in respect of stocks not subject to a quota management system under that Act; and
+    (ii) during the period commencing on the 1st day of October 1990 and ending with the close of the 30th day of September 1992, that person lawfully took fish, aquatic life, or seaweed under the authority of the fishing permit held by that person; and
+    (iii) the chief executive is satisfied that the fish, aquatic life, or seaweed taken by that person, during that period were—
+      (A) one or more of the stocks named in the fishing permit held by that person; and
+      (B) were caught as a target stock (other than bycatch); or
+  (b) a fishing permit was issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
 (2) A fishing permit issued under subsection (1) of this section shall not authorise a person to take a stock or species listed in Schedule 4C, unless either—
-  (a) The stock—
-    (i) Is of the same species as one or more of the stocks referred to in subsection (1)(a)(iii)(A) of this section that were caught as a target stock (other than bycatch) during the period referred to in subsection (1)(a)(ii) of this section; and
-    (ii) Was named in the fishing permit held by that person on the 30th day of September 1992; or
-  (b) In the case of a fishing permit issued to a person referred to in subsection (1)(b) of this section, the stock was named on the permit issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
+  (a) the stock—
+    (i) is of the same species as one or more of the stocks referred to in subsection (1)(a)(iii)(A) of this section that were caught as a target stock (other than bycatch) during the period referred to in subsection (1)(a)(ii) of this section; and
+    (ii) was named in the fishing permit held by that person on the 30th day of September 1992; or
+  (b) in the case of a fishing permit issued to a person referred to in subsection (1)(b) of this section, the stock was named on the permit issued to that person under section 2(2) of the Fisheries Amendment Act 1994.
 (3) In satisfying himself or herself on any matter under this section, the chief executive shall only have regard to information from fishing records or returns duly completed and provided before the 15th day of October 1992 in the prescribed manner or in accordance with requirements made under section 66(3) of the Fisheries Act 1983.
 (4) This section does not apply to tuna.
 
 ### 93A Fishing permits subject to moratorium issued to related persons on death of fishing permit holder
-(1) Despite section 93, where a fishing permit has been issued under section 91 in respect of any species of fish (other than tuna), aquatic life, or seaweed, that is not for the time being subject to a quota management system, and the fishing permit holder has died, the chief executive may, under section 91 and in accordance with this section, issue a new fishing permit to a person related to the deceased fishing permit holder.
-(2) A new fishing permit may not be issued under section 91 on the death of a fishing permit holder unless an applicant satisfies the chief executive that the applicant—
-  (a) Is a person related to the deceased fishing permit holder; and
-  (b) At the time of the death of the deceased, was dependent on the income earned by the deceased fishing permit holder, through use by the deceased of the fishing permit.
-(3) Without limiting any other provisions of this Act, any conditions and obligations that applied to the deceased's fishing permit will apply to any new fishing permit issued under section 91 and in accordance with this section.
-(4) The chief executive may require that any documents or information produced for the purposes of subsection (2) be verified by oath or statutory declaration of the applicant or of some other person related to the deceased fishing permit holder.
-(5) Where the chief executive receives more than 1 application under this section in relation to the fishing permit of the same deceased person, the chief executive must allocate the new fishing permit according to—
-  (a) The level of dependency referred to in subsection (2); and
-  (b) The ability of the applicant to exercise the rights and obligations of fishing permit holders.
-(6) Despite any other provision of this section, no new fishing permit may be issued under section 91 if—
-  (a) The fishing permit holder died before 1 October 1996; or
-  (b) The deceased did not hold a current fishing permit at the date of his or her death.
-(7) For the purposes of this section, a person related to the deceased fishing permit holder means a person connected to the other person by blood relationship, marriage, civil union, de facto relationship, or adoption; and, for the purposes of this subsection,—
-  (a) Persons are connected by blood relationship if within the second degree of relationship:
-  (b)
-  (c) Persons are connected by adoption if one has been adopted as the child of the other or as a child of a person who is connected by marriage to the other.
-(8) This section does not apply to tuna.
+[Repealed]
 
 ### 93B Expiry of section 93A
 Section 93A expires with the close of 30 September 2007 and, on its expiration, the chief executive must revoke all current fishing permits issued before the close of that date in accordance with that section.
@@ -1997,10 +1980,10 @@ If any decision in respect of a fishing permit or high seas fishing permit is ma
 
 ### 96 Revocation of fishing permit
 (1) If the chief executive revokes a fishing permit under section 305A,—
-  (a) The fishing permit must be immediately cancelled; and
-  (b) The holder must ensure that the fishing permit and any duplicates are forthwith surrendered to the chief executive; and
-  (c) No fish, aquatic life, or seaweed taken after the date of the supply of the false or misleading information may be regarded as eligible catch for the purposes of section 34; and
-  (d) No individual catch entitlement under the permit entitles the holder to an allocation of any quota.
+  (a) the fishing permit must be immediately cancelled; and
+  (b) the holder must ensure that the fishing permit and any duplicates are forthwith surrendered to the chief executive; and
+  (c) no fish, aquatic life, or seaweed taken after the date of the supply of the false or misleading information may be regarded as eligible catch for the purposes of section 34; and
+  (d) no individual catch entitlement under the permit entitles the holder to an allocation of any quota.
 (2) A person may request the chief executive to revoke any fishing permit issued to that person, and shall enclose the fishing permit and any duplicates with the request; and, upon revocation, the fishing permit shall cease to have any effect for the purpose of this Act.
 (3) Nothing in this section shall require the chief executive to remit or refund any fees, charges, or levies paid or payable by the fishing permit holder for the period from the date of issue of the permit to the date of revocation.
 
@@ -2008,13 +1991,13 @@ If any decision in respect of a fishing permit or high seas fishing permit is ma
 
 ### 97 Special permits
 (1) The chief executive may, on application made to the chief executive in the approved form, issue to any person named in the application a special permit—
-  (a) For the purposes of—
-    (i) Education; or
-    (ii) Investigative research; or
-    (iii) Management or eradication of unwanted aquatic life; or
-    (iv) The carrying out of trials and experiments with fishing vessels or fishing gear or any other apparatus or technique which is capable of being used in connection with the taking of fish, aquatic life, or seaweed:
-  (b) For the purposes of sport or recreation in the case of any disabled person within the meaning of the Disabled Persons Employment Promotion Act 1960 who, in the opinion of the chief executive, would otherwise be unable, because of the person's disability, to fish by the methods permitted by this Act:
-  (c) For any other purpose approved by the Minister after consultation with such persons and organisations as he or she considers are representative of those classes of persons having an interest in the granting of a special permit for such a purpose, including Maori, environmental, commercial, and recreational interests.
+  (a) for the purposes of—
+    (i) education; or
+    (ii) investigative research; or
+    (iii) management or eradication of unwanted aquatic life; or
+    (iv) the carrying out of trials and experiments with fishing vessels or fishing gear or any other apparatus or technique which is capable of being used in connection with the taking of fish, aquatic life, or seaweed:
+  (b) for the purposes of sport or recreation in the case of any disabled person within the meaning of the Disabled Persons Employment Promotion Act 1960 who, in the opinion of the chief executive, would otherwise be unable, because of the person's disability, to fish by the methods permitted by this Act:
+  (c) for any other purpose approved by the Minister after consultation with such persons and organisations as he or she considers are representative of those classes of persons having an interest in the granting of a special permit for such a purpose, including Maori, environmental, commercial, and recreational interests.
 (2) If the issuing of any special permit will have a significant effect on fisheries resources or any fishing interest in the stocks affected that are provided for or authorised by or under this Act, the chief executive shall, before issuing such a permit, consult with such persons and organisations as the chief executive considers are representative of those classes of persons having interests that would be affected if the special permit were issued.
 (3) In considering any application for a special permit, other than for the purpose of the management or eradication of any unwanted aquatic life, the chief executive shall take into account the purpose of this Act and the environmental and information principles.
 (4) Notwithstanding anything in any other section of this Act, the chief executive may authorise the holder of a special permit to take and dispose of fish, aquatic life, or seaweed subject to such terms and conditions as the chief executive may set out in the permit.
@@ -2030,9 +2013,9 @@ If any decision in respect of a fishing permit or high seas fishing permit is ma
 
 ### 98 Registers
 (1) The chief executive shall keep the following registers:
-  (a) A register to be called the Fishing Vessel Register:
-  (b) A register to be called the Permit Register.
-  (c) A register to be called the High Seas Permit Register.
+  (a) a register to be called the Fishing Vessel Register:
+  (b) a register to be called the Permit Register.
+  (c) a register to be called the High Seas Permit Register.
 (2) The registers may be kept in the form of information stored by means of a computer.
 (3) The registers may be kept in conjunction with any other register required to be kept under this Act.
 (4) The Crown owns all information contained in the Fishing Vessel Register or the Permit Register or the High Seas Permit Register that is required by this Act to be contained in that register.
@@ -2060,69 +2043,69 @@ The High Seas Permit Register must contain all the particulars required by regul
 
 ### 103 Fishing vessels must be registered
 (1) No person shall use a fishing vessel, or any tender of that fishing vessel, to take fish, aquatic life, or seaweed for sale, in New Zealand fisheries waters, unless—
-  (a) The vessel is registered in the Fishing Vessel Register as a fishing vessel; and
-  (b) That person is named in that register as an operator of, or a notified user in relation to, that vessel; and
-  (c) That person complies with all conditions of registration (if any) and any conditions of any consent of the chief executive given under subsection (4) of this section.
+  (a) the vessel is registered in the Fishing Vessel Register as a fishing vessel; and
+  (b) that person is named in that register as an operator of, or a notified user in relation to, that vessel; and
+  (c) that person complies with all conditions of registration (if any) and any conditions of any consent of the chief executive given under subsection (4) of this section.
 (2) Every application to register a fishing vessel shall—
-  (a) Be made by the operator of that fishing vessel; and
-  (b) Be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any); and
-  (c) In the case of a vessel that requires the consent of the chief executive under subsection (4) of this section to be registered, specify the name and address of a person (other than an overseas person) to be the authorised agent (for the purpose of this Act and the purposes specified in subsection (5) of this section) of the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel; and
-  (d) Be supported by such evidence as may be specified in the approved form.
+  (a) be made by the operator of that fishing vessel; and
+  (b) be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any); and
+  (c) in the case of a vessel that requires the consent of the chief executive under subsection (4) of this section to be registered, specify the name and address of a person (other than an overseas person) to be the authorised agent (for the purpose of this Act and the purposes specified in subsection (5) of this section) of the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel; and
+  (d) be supported by such evidence as may be specified in the approved form.
 (3) If the chief executive, having received an application made in accordance with this section, is satisfied that the vessel is eligible to be registered, he or she shall, as soon as practicable,—
-  (a) Register the fishing vessel for a specified period not exceeding 5 years; and
-  (b) Issue to the operator a certificate of registration in respect of that vessel.
+  (a) register the fishing vessel for a specified period not exceeding 5 years; and
+  (b) issue to the operator a certificate of registration in respect of that vessel.
 (4) No vessel owned or operated by an overseas person (other than an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent) shall be registered under this section unless the chief executive has consented, either generally or particularly, to the registration of the vessel or vessels owned or operated by that person; and any consent under this subsection may be granted subject to such conditions as the chief executive thinks fit to impose.
 (5) If the chief executive consents under subsection (4) of this section to the registration of any vessel, or if a vessel is owned or operated by an overseas person who has obtained consent under the overseas investment fishing provisions or is exempt from the requirement for that consent the following provisions apply while the vessel is in New Zealand fisheries waters:
-  (a) For the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a work permit under the Immigration Act 1987 shall be deemed to be an employee:
-  (b) For the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) of this subsection shall be deemed to be,—
-    (i) If the operator of the vessel is the employer or contractor of those persons, the operator:
-    (ii) In any other case, the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel:
-  (c) For the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the Minimum Wage Act 1983, the hours of work of, the payments received by, and the entitlements to payment of that person shall be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
+  (a) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, a person engaged or employed to do work on the vessel who holds a work permit under the Immigration Act 1987 shall be deemed to be an employee:
+  (b) for the purposes of the Minimum Wage Act 1983, the Wages Protection Act 1983, and such provisions of any other enactments as are necessary to give full effect to those Acts, the employer of a person referred to in paragraph (a) of this subsection shall be deemed to be,—
+    (i) if the operator of the vessel is the employer or contractor of those persons, the operator:
+    (ii) in any other case, the person from whom the operator has, by virtue of a lease, a sublease, a charter, a subcharter, or otherwise, for the time being obtained possession and control of the vessel:
+  (c) for the purpose of determining whether the payment to any person engaged or employed to do work on any such vessel meets the requirements of the Minimum Wage Act 1983, the hours of work of, the payments received by, and the entitlements to payment of that person shall be assessed in relation to the whole of each period of such engagement or employment in New Zealand fisheries waters:
   (d) Labour Inspectors within the meaning of the Employment Relations Act 2000 may exercise their powers under that Act and under the enactments referred to in paragraph (a) of this subsection within New Zealand fisheries waters in respect of any person deemed to be an employee or employer by virtue of paragraph (a) or paragraph (b) of this subsection:
-  (e) If the operator of any vessel is not the employer by virtue of paragraph (b) of this subsection, then, notwithstanding any responsibility that may rest with the employer, the authorised agent referred to in subsection (2)(c) of this section shall be responsible under the enactments referred to in paragraph (a) of this subsection for providing any information and records to any Labour Inspector exercising powers under those Acts:
-  (f) The authorised agent referred to in subsection (2)(c) of this section may be served with any documents requiring service under any of the enactments referred to in paragraph (a) of this subsection, and such service shall be deemed to be service on the employer:
-  (g) The Employment Relations Authority and the Employment Court may exercise jurisdiction in respect of any employment relationship that arises by virtue of paragraph (a) or paragraph (b) of this subsection as if it were a lawful employment relationship subject to New Zealand law.
+  (e) if the operator of any vessel is not the employer by virtue of paragraph (b) of this subsection, then, notwithstanding any responsibility that may rest with the employer, the authorised agent referred to in subsection (2)(c) of this section shall be responsible under the enactments referred to in paragraph (a) of this subsection for providing any information and records to any Labour Inspector exercising powers under those Acts:
+  (f) the authorised agent referred to in subsection (2)(c) of this section may be served with any documents requiring service under any of the enactments referred to in paragraph (a) of this subsection, and such service shall be deemed to be service on the employer:
+  (g) the Employment Relations Authority and the Employment Court may exercise jurisdiction in respect of any employment relationship that arises by virtue of paragraph (a) or paragraph (b) of this subsection as if it were a lawful employment relationship subject to New Zealand law.
 (6) Without limiting anything in subsection (5) of this section, in considering whether to consent to the registration of a vessel owned or operated by an overseas person referred to in subsection (4) of this section, the chief executive shall have regard to—
-  (a) The previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
-  (b) The nature of the charter or other agreement with the operator (if any); and
-  (c) Such other matters as the chief executive considers relevant.
+  (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
+  (b) the nature of the charter or other agreement with the operator (if any); and
+  (c) such other matters as the chief executive considers relevant.
 (6A) This section does not require that a vessel be registered merely because it is used to take fish, aquatic life, or seaweed produced as part of a lawful fish farming operation.
 (7) Every person commits an offence and is liable to the penalty set out in section 252(5) of this Act who contravenes subsection (1) of this section.
 
 ### 104 Provisions relating to notified users of fishing vessels
 (1) Every application to become a notified user in relation to a fishing vessel shall—
-  (a) Be made jointly by the operator in whose name the fishing vessel is registered and the person who is to be the notified user in relation to the vessel; and
-  (b) Be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any).
+  (a) be made jointly by the operator in whose name the fishing vessel is registered and the person who is to be the notified user in relation to the vessel; and
+  (b) be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any).
 (2) Upon receipt of an application made in accordance with subsection (1) of this section, the chief executive shall, as soon as practicable,—
-  (a) Note the name of the notified user on the Fishing Vessel Register; and
-  (b) Issue to the operator and the notified user a certificate of notification in respect of the notified user.
+  (a) note the name of the notified user on the Fishing Vessel Register; and
+  (b) issue to the operator and the notified user a certificate of notification in respect of the notified user.
 (3) No person shall be a notified user in relation to—
-  (a) Any foreign-owned New Zealand fishing vessel; or
-  (b) Any vessel other than a vessel of a type or in a class specified by Order in Council under subsection (5) of this section.
+  (a) any foreign-owned New Zealand fishing vessel; or
+  (b) any vessel other than a vessel of a type or in a class specified by Order in Council under subsection (5) of this section.
 (4) No overseas person shall be a notified user in relation to a fishing vessel.
 (5) The Governor-General may from time to time, by Order in Council, specify types or classes of vessel for the purposes of subsection (3)(b) of this section.
 
 ### 105 Fish carriers must be registered
 (1) No person shall use any vessel for the transportation of fish, aquatic life, or seaweed taken for sale within New Zealand fisheries waters unless—
-  (a) The vessel is registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel, and—
-    (i) That person is named in that register as an operator or notified user of that vessel; and
-    (ii) That person complies with all conditions of registration (if any) and the conditions of any consent given by the chief executive under subsection (4) of this section; or
-  (b) The fish, aquatic life, or seaweed was lawfully landed in New Zealand and then lawfully purchased or acquired by a licensed fish receiver prior to transportation; or
-  (c) The fish, aquatic life, or seaweed was produced as part of a lawful fish farming operation; or
-  (d) The fish, aquatic life, or seaweed was lawfully taken and landed in New Zealand, and the person is transporting that fish, aquatic life, or seaweed as the agent of the commercial fisher who took the fish, aquatic life, or seaweed.
+  (a) the vessel is registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel, and—
+    (i) that person is named in that register as an operator or notified user of that vessel; and
+    (ii) that person complies with all conditions of registration (if any) and the conditions of any consent given by the chief executive under subsection (4) of this section; or
+  (b) the fish, aquatic life, or seaweed was lawfully landed in New Zealand and then lawfully purchased or acquired by a licensed fish receiver prior to transportation; or
+  (c) the fish, aquatic life, or seaweed was produced as part of a lawful fish farming operation; or
+  (d) the fish, aquatic life, or seaweed was lawfully taken and landed in New Zealand, and the person is transporting that fish, aquatic life, or seaweed as the agent of the commercial fisher who took the fish, aquatic life, or seaweed.
 (2) Every application to register a fish carrier (other than a vessel that is registered as a fishing vessel under this Act) shall—
-  (a) Be made by the operator of that fish carrier; and
-  (b) Be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any); and
-  (c) In the case of an operator who is an overseas person, specify the name and address of a person (other than an overseas person) to be the authorised agent of that person for the purpose of this Act; and
-  (d) Be supported by such evidence as may be specified in the form.
+  (a) be made by the operator of that fish carrier; and
+  (b) be made to the chief executive in the approved form and be accompanied by the prescribed fee (if any); and
+  (c) in the case of an operator who is an overseas person, specify the name and address of a person (other than an overseas person) to be the authorised agent of that person for the purpose of this Act; and
+  (d) be supported by such evidence as may be specified in the form.
 (3) If the chief executive, having received an application made in accordance with this section, is satisfied that the vessel is eligible to be registered, he or she shall, as soon as practicable,—
-  (a) Register the fish carrier for a specified period not exceeding 5 years; and
-  (b) Issue to the operator a certificate of registration in respect of that vessel.
+  (a) register the fish carrier for a specified period not exceeding 5 years; and
+  (b) issue to the operator a certificate of registration in respect of that vessel.
 (4) No vessel shall be registered under this section unless the chief executive has consented, either generally or particularly, to registration of the vessel or vessels operated by that person; and any consent under this subsection may be granted subject to such conditions as the chief executive thinks fit to impose.
 (5) In considering whether to consent to the registration of a vessel under subsection (4) of this section, the chief executive shall have regard to—
-  (a) The previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
-  (b) The nature of the charter or other agreement with the operator (if any); and
-  (c) Such other matters as the chief executive considers relevant.
+  (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
+  (b) the nature of the charter or other agreement with the operator (if any); and
+  (c) such other matters as the chief executive considers relevant.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(5) of this Act who contravenes subsection (1) of this section.
 
 ### 106 Further provisions relating to registration of vessels
@@ -2135,14 +2118,14 @@ The High Seas Permit Register must contain all the particulars required by regul
 (3) A person may request the chief executive to cancel the registration of any vessel registered in that person's name and shall enclose the certificate of registration and any duplicates with the request; and, upon cancellation, the registration shall cease to have any effect for the purpose of this Act.
 (4) If a vessel is lost or destroyed, the operator shall immediately notify the chief executive of that occurrence and the chief executive shall immediately cancel the registration of that vessel.
 (5) If,—the operator's successors, representatives, or assigns shall, as soon as practicable, notify the chief executive of that occurrence and the chief executive shall immediately cancel the registration of that vessel.
-  (a) In the case of an operator who is an individual, the operator dies; or
-  (b) In the case of an operator who is an incorporated company, the operator is dissolved,—
+  (a) in the case of an operator who is an individual, the operator dies; or
+  (b) in the case of an operator who is an incorporated company, the operator is dissolved,—
 (6) The chief executive must, as soon as practicable, ensure that the registration of a vessel is cancelled if—
-  (a) The vessel is forfeit to the Crown; or
-  (b) The chief executive has decided, on reasonable grounds and after receipt of advice from the Secretary of Labour, that a breach of any statutory provision referred to in section 103(5) has occurred.
+  (a) the vessel is forfeit to the Crown; or
+  (b) the chief executive has decided, on reasonable grounds and after receipt of advice from the Secretary of Labour, that a breach of any statutory provision referred to in section 103(5) has occurred.
 (7) For the purposes of subsection (6) of this section, reasonable grounds for a belief that a breach has occurred includes—
-  (a) Advice from the Secretary of Labour that a decision or order of the Employment Relations Authority or Employment Court has been made to that effect:
-  (b) Advice from the Secretary of Labour to the effect that any information or records requested, whether from an authorised agent in accordance with section 103(5)(d) of this Act or from the employer, have not been provided.
+  (a) advice from the Secretary of Labour that a decision or order of the Employment Relations Authority or Employment Court has been made to that effect:
+  (b) advice from the Secretary of Labour to the effect that any information or records requested, whether from an authorised agent in accordance with section 103(5)(d) of this Act or from the employer, have not been provided.
 (8) If the ownership of any vessel registered under this Act changes to such an extent that the consent of the chief executive under section 103 or section 105 of this Act would be required to register that vessel, the operator shall immediately notify the chief executive of that occurrence and the chief executive shall immediately cancel the registration of the vessel.
 (9) Every person commits an offence and is liable to the penalty set out in section 252(5) of this Act who contravenes any requirement to notify the chief executive of any matter under subsection (4) or subsection (5) or subsection (8) of this section.
 
@@ -2153,44 +2136,44 @@ The High Seas Permit Register must contain all the particulars required by regul
 ### 109 Fish on registered vessel deemed to have been caught in New Zealand
 (1) For the purpose of this Act, all fish, aquatic life, or seaweed on board, landed from, or transferred to or from, a vessel registered under this Act or a New Zealand ship is deemed to have been taken in New Zealand fisheries waters and the provisions of this Act apply accordingly.
 (2) Subsection (1) applies—
-  (a) Unless the contrary is proved; and
-  (b) Whether the fish, aquatic life, or seaweed is found on board, or landed, or transferred within New Zealand or New Zealand fisheries waters or elsewhere.
+  (a) unless the contrary is proved; and
+  (b) whether the fish, aquatic life, or seaweed is found on board, or landed, or transferred within New Zealand or New Zealand fisheries waters or elsewhere.
 
 ### 110 Fish taken in New Zealand fisheries waters must be landed in New Zealand
 (1) No person shall land, at any place outside New Zealand, any fish, aquatic life, or seaweed taken in New Zealand fisheries waters unless the landing outside New Zealand has the prior approval of the chief executive and is in accordance with any conditions imposed by the chief executive.
 (2) For the purposes of subsection (1) of this section, fish, aquatic life, or seaweed shall be deemed to have been landed at a place outside New Zealand if—
-  (a) It is transported beyond the outer limits of the exclusive economic zone by the vessel that took it; or
-  (b) It is taken (otherwise than from a vessel) and transferred to a vessel and then transported (whether in that vessel or any other vessel) beyond the outer limits of the exclusive economic zone without having been lawfully purchased or acquired by a licensed fish receiver in New Zealand before transportation; or
-  (c) It is transhipped, from the vessel that took the fish, aquatic life, or seaweed, to another vessel.
+  (a) it is transported beyond the outer limits of the exclusive economic zone by the vessel that took it; or
+  (b) it is taken (otherwise than from a vessel) and transferred to a vessel and then transported (whether in that vessel or any other vessel) beyond the outer limits of the exclusive economic zone without having been lawfully purchased or acquired by a licensed fish receiver in New Zealand before transportation; or
+  (c) it is transhipped, from the vessel that took the fish, aquatic life, or seaweed, to another vessel.
 (3) The conditions that may be imposed on any approval granted under subsection (1) of this section include conditions relating to one or more of the following:
-  (a) The vessel that will take the fish, aquatic life, or seaweed:
-  (b) Any vessel which will receive the fish, aquatic life, or seaweed:
-  (c) The manner and conditions under which the storage, transportation, transhipment, recording, reporting, landing, and disposal of the fish, aquatic life, or seaweed will take place.
+  (a) the vessel that will take the fish, aquatic life, or seaweed:
+  (b) any vessel which will receive the fish, aquatic life, or seaweed:
+  (c) the manner and conditions under which the storage, transportation, transhipment, recording, reporting, landing, and disposal of the fish, aquatic life, or seaweed will take place.
 (4)
 (5) Subsection (1) of this section does not apply if the fish, aquatic life, or seaweed was lawfully taken by a person under a foreign fishing licence issued under section 83 of this Act.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes subsection (1) of this section.
 
 ### 111 Fish on registered vessel deemed to have been taken for purpose of sale
 (1) For the purposes of this Act, all fish, aquatic life, or seaweed that is on board, or landed from, or transhipped from, any fishing vessel or fish carrier registered under this Act is deemed to have been taken or possessed for the purpose of sale, unless—
-  (a) The taking or possession of the fish, aquatic life, or seaweed was in accordance with a general or particular approval of the chief executive and with any conditions imposed on that approval; and
-  (b) The taking or possession occurred after that approval was given.
+  (a) the taking or possession of the fish, aquatic life, or seaweed was in accordance with a general or particular approval of the chief executive and with any conditions imposed on that approval; and
+  (b) the taking or possession occurred after that approval was given.
 (2) Subsection (1) of this section does not apply if the fish, aquatic life, or seaweed were lawfully taken under regulations made under section 186 of this Act.
 
 ### 112 Taking of fish, etc, by other than New Zealand ships
 (1) No person shall use any vessel that is not a New Zealand ship to take fish, aquatic life, or seaweed in New Zealand fisheries waters (other than the exclusive economic zone), except—
-  (a) For fisheries research, experimental, sports, or recreational fishing purposes; and
-  (b) With the prior approval of the chief executive and in accordance with any conditions the chief executive may impose.
+  (a) for fisheries research, experimental, sports, or recreational fishing purposes; and
+  (b) with the prior approval of the chief executive and in accordance with any conditions the chief executive may impose.
 (2) If any vessel has any tender carried by, or attached to, or operated in conjunction with, the vessel, then, whether or not the vessel is within New Zealand fisheries waters (other than the exclusive economic zone), the vessel shall for the purposes of this section be deemed to be used in fishing at the time and place the tender is being so used, as well as at that time and place.
 (3)
 (4) If any vessel is used in fishing in contravention of this section, every person on the vessel commits an offence and is liable for the penalty set out in section 252(3) of this Act.
 
 ### 113 Possession of fish, etc, by vessels that are not New Zealand ships
 (1) No person shall possess any fish, aquatic life, or seaweed in New Zealand or New Zealand fisheries waters, on any vessel that is not a New Zealand ship, unless,—
-  (a) In the case of fish, aquatic life, or seaweed taken outside New Zealand fisheries waters,—
-    (i) The fish, aquatic life, or seaweed was landed in any country other than New Zealand before being brought into New Zealand fisheries waters; or
-    (ii) The person has, before the entry into New Zealand fisheries waters, obtained the approval of the chief executive to possess that fish, aquatic life or seaweed, and acted in accordance with such conditions as the chief executive may think fit to impose; or
-  (b) The fish, aquatic life, or seaweed were lawfully taken by that vessel within New Zealand fisheries waters; or
-  (c) The fish, aquatic life, or seaweed were lawfully received by that vessel within New Zealand or New Zealand fisheries waters.
+  (a) in the case of fish, aquatic life, or seaweed taken outside New Zealand fisheries waters,—
+    (i) the fish, aquatic life, or seaweed was landed in any country other than New Zealand before being brought into New Zealand fisheries waters; or
+    (ii) the person has, before the entry into New Zealand fisheries waters, obtained the approval of the chief executive to possess that fish, aquatic life or seaweed, and acted in accordance with such conditions as the chief executive may think fit to impose; or
+  (b) the fish, aquatic life, or seaweed were lawfully taken by that vessel within New Zealand fisheries waters; or
+  (c) the fish, aquatic life, or seaweed were lawfully received by that vessel within New Zealand or New Zealand fisheries waters.
 (2) The chief executive may impose any conditions on an approval granted under subsection (1) of this section, including conditions relating to the taking, storage, transportation, recording, reporting, landing, and disposal of the fish, aquatic life, or seaweed.
 (3) Any fish, aquatic life, or seaweed landed in New Zealand with the chief executive's approval under subsection (1) of this section and landed after that approval was given, may, in accordance with the conditions of that approval, be sold; and, notwithstanding anything in this Act, no offence of buying or selling or being in possession of any fish, aquatic life, or seaweed shall be deemed to have been committed in respect of any fish, aquatic life, or seaweed sold in accordance with that approval.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes subsection (1) of this section.
@@ -2204,56 +2187,56 @@ The High Seas Permit Register must contain all the particulars required by regul
 ### 113B Interpretation
 In this Part, unless the context otherwise requires,—
   - **FAO Compliance Agreement** means the Agreement to Promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas, done at Rome on 24 November 1993
-  - **Flag state** , in relation to a vessel that is not a New Zealand ship, means—
-    (a) The state in which the vessel is registered, or
-    (b) If the vessel is unregistered, the state whose flag the vessel flies:
-  - **Foreign high seas inspector** means a person who is duly authorised, by a state that is a member of or is a participant in a global, regional, or sub-regional fisheries organisation or arrangement, to exercise the enforcement powers of an inspector in relation to the area covered by the organisation or arrangement under—
-    (a) The Fish Stocks Agreement; or
-    (b) The boarding and inspection procedures of the organisation or arrangement:
-  - **Global, regional, or sub-regional fisheries organisation or arrangement** means an agreement or arrangement notified in the Gazette in accordance with section 113C
-  - **International conservation and management measures** means measures to conserve or manage 1 or more species of living marine resources, which measures are—
-    (a) Adopted by a global, regional, or sub-regional fisheries organisation or arrangement; and
-    (b) Notified in the Gazette in accordance with section 113C:
-  - **Participating state** means a foreign state or an organisation of foreign states that is certified by the Secretary of Foreign Affairs and Trade under section 113C as being a party to the Fish Stocks Agreement
-  - **Serious violation** has the meaning given to it by Article 21.11 of the Fish Stocks Agreement.
+  - **flag state** , in relation to a vessel that is not a New Zealand ship, means—
+    (a) the state in which the vessel is registered, or
+    (b) if the vessel is unregistered, the state whose flag the vessel flies:
+  - **foreign high seas inspector** means a person who is duly authorised, by a state that is a member of or is a participant in a global, regional, or sub-regional fisheries organisation or arrangement, to exercise the enforcement powers of an inspector in relation to the area covered by the organisation or arrangement under—
+    (a) the Fish Stocks Agreement; or
+    (b) the boarding and inspection procedures of the organisation or arrangement:
+  - **global, regional, or sub-regional fisheries organisation or arrangement** means an agreement or arrangement notified in the Gazette in accordance with section 113C
+  - **international conservation and management measures** means measures to conserve or manage 1 or more species of living marine resources, which measures are—
+    (a) adopted by a global, regional, or sub-regional fisheries organisation or arrangement; and
+    (b) notified in the Gazette in accordance with section 113C:
+  - **participating state** means a foreign state or an organisation of foreign states that is certified by the Secretary of Foreign Affairs and Trade under section 113C as being a party to the Fish Stocks Agreement
+  - **serious violation** has the meaning given to it by Article 21.11 of the Fish Stocks Agreement.
 
 ### 113C Notification and certification by Secretary of Foreign Affairs and Trade
 (1) The Secretary of Foreign Affairs and Trade may from time to time, by notice in the Gazette, give notice of—
-  (a) A global, regional, or sub-regional fisheries organisation or arrangement; or
-  (b) International conservation and management measures.
+  (a) a global, regional, or sub-regional fisheries organisation or arrangement; or
+  (b) international conservation and management measures.
 (2) A notice given under subsection (1) must specify where a copy of the constitution of the organisation or a copy of the arrangement or international conservation and management measures, as the case may be, may be obtained.
 (3) The Secretary of Foreign Affairs and Trade may sign a certificate stating that a specified state is or is not—
-  (a) A state that is a party to the Fish Stocks Agreement; or
-  (b) A state that is a party to the FAO Compliance Agreement; or
-  (c) A state that is a participant in, is a member of, or has accepted the obligations of, a global, regional, or sub-regional fisheries organisation or arrangement; or
-  (d) A state that is a signatory to the Fish Stocks Agreement has legislative and administrative mechanisms to control its vessels on the high seas in accordance with that agreement.
+  (a) a state that is a party to the Fish Stocks Agreement; or
+  (b) a state that is a party to the FAO Compliance Agreement; or
+  (c) a state that is a participant in, is a member of, or has accepted the obligations of, a global, regional, or sub-regional fisheries organisation or arrangement; or
+  (d) a state that is a signatory to the Fish Stocks Agreement has legislative and administrative mechanisms to control its vessels on the high seas in accordance with that agreement.
 (4) A certificate referred to in subsection (3) is, for all purposes, conclusive evidence of its contents unless the contrary is proved by the production of a more recent certificate issued under that subsection.
 
 ### 113D Taking and transportation of fish, etc, on high seas using New Zealand ships
 (1) No person may use a New Zealand ship, or a tender of that ship, to take (by any method) on the high seas any fish, aquatic life, or seaweed for sale, unless—
-  (a) That person does so under the authority of, and in accordance with, a current high seas fishing permit issued in respect of that ship; and
-  (b) The ship is registered—
-    (i) Under the Ship Registration Act 1992; and
-    (ii) In the Fishing Vessel Register as a fishing vessel; and
-  (c) The holder of the permit is named in the Fishing Vessel Register as an operator of that vessel.
+  (a) that person does so under the authority of, and in accordance with, a current high seas fishing permit issued in respect of that ship; and
+  (b) the ship is registered—
+    (i) under the Ship Registration Act 1992; and
+    (ii) in the Fishing Vessel Register as a fishing vessel; and
+  (c) the holder of the permit is named in the Fishing Vessel Register as an operator of that vessel.
 (2) No person may use a New Zealand ship, or a tender of that ship, to transport any fish, aquatic life, or seaweed on the high seas, unless—
-  (a) That person does so under the authority of, and in accordance with, a current high seas fishing permit issued in respect of that ship; and
-  (b) The fish, aquatic life, or seaweed was taken—
-    (i) On the high seas under the authority of, and in accordance with, a high seas fishing permit or an authorisation issued by a state to which section 113E(2) applies; or
-    (ii) In the national fisheries jurisdiction of a foreign state under, and in accordance with, the laws of that state; and
-  (c) The ship is registered—
-    (i) Under the Ship Registration Act 1992; and
-    (ii) In the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
-  (d) The holder of the permit is named in the Fishing Vessel Register as an operator of that vessel.
+  (a) that person does so under the authority of, and in accordance with, a current high seas fishing permit issued in respect of that ship; and
+  (b) the fish, aquatic life, or seaweed was taken—
+    (i) on the high seas under the authority of, and in accordance with, a high seas fishing permit or an authorisation issued by a state to which section 113E(2) applies; or
+    (ii) in the national fisheries jurisdiction of a foreign state under, and in accordance with, the laws of that state; and
+  (c) the ship is registered—
+    (i) under the Ship Registration Act 1992; and
+    (ii) in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
+  (d) the holder of the permit is named in the Fishing Vessel Register as an operator of that vessel.
 (3) Subsection (2) does not apply if the fish, aquatic life, or seaweed—
   (a) has previously been landed in New Zealand or in any other country; or
   (b) has not previously been landed in New Zealand or in any other country but was taken in New Zealand fisheries waters and—
     (i) approval under section 110(1) is obtained before transportation on the high seas commences; and
     (ii) the transportation is in accordance with any conditions of that approval.
 (4) No person may take or transport any fish, aquatic life, or seaweed under the authority of a high seas fishing permit unless that person is—
-  (a) The holder of that permit; or
-  (b) An employee or agent of the holder of the permit; or
-  (c) The master, or a member of the crew, of the ship in respect of which the permit is in force.
+  (a) the holder of that permit; or
+  (b) an employee or agent of the holder of the permit; or
+  (c) the master, or a member of the crew, of the ship in respect of which the permit is in force.
 (5) Every person who contravenes subsection (1) or subsection (2) or subsection (4) commits an offence and is liable on conviction to the penalty set out in section 252(3).
 
 ### 113E Use of foreign vessels on high seas by New Zealand nationals
@@ -2261,28 +2244,28 @@ In this Part, unless the context otherwise requires,—
   (a) to take (by any method), on the high seas, any fish, aquatic life, or seaweed for sale, except in accordance with an authorisation issued by a state to which subsection (2) applies; or
   (b) to transport any fish, aquatic life, or seaweed taken on the high seas, unless that fish, aquatic life, or seaweed was taken in accordance with an authorisation issued by a state to which subsection (2) applies.
 (2) An authorisation may be issued—
-  (a) By a state that is a party to the Fish Stocks Agreement; or
-  (b) By a state that is a party to the FAO Compliance Agreement; or
-  (c) By a state that is a party to, or has accepted the obligations of, a global, regional, or sub-regional fisheries organisation or arrangement to which the authorisation relates; or
-  (d) By a state that—
-    (i) Is a signatory to the Fish Stocks Agreement; and
-    (ii) Has legislative and administrative mechanisms to control its vessels on the high seas in accordance with that agreement.
+  (a) by a state that is a party to the Fish Stocks Agreement; or
+  (b) by a state that is a party to the FAO Compliance Agreement; or
+  (c) by a state that is a party to, or has accepted the obligations of, a global, regional, or sub-regional fisheries organisation or arrangement to which the authorisation relates; or
+  (d) by a state that—
+    (i) is a signatory to the Fish Stocks Agreement; and
+    (ii) has legislative and administrative mechanisms to control its vessels on the high seas in accordance with that agreement.
 (3) Every person who contravenes subsection (1) commits an offence and is liable on conviction to the penalty set out in section 252(3).
 
 ### 113F Exemption from section 113E
 (1) The Minister may, on receipt of an application in the approved form accompanied by the prescribed fee (if any), exempt a New Zealand national from section 113E if the Minister is satisfied that—
-  (a) The applicant is a citizen of another country and that country has jurisdiction over the applicant's proposed fishing activities on the high seas; and
+  (a) the applicant is a citizen of another country and that country has jurisdiction over the applicant's proposed fishing activities on the high seas; and
   (b) New Zealand is not a participant in, or a member of, or has not accepted the obligations of, a global, regional, or sub-regional fisheries organisation or arrangement that covers the area of the high seas in which the applicant proposes to take or transport fish, aquatic life, or seaweed; and
-  (c) The applicant has not engaged in fishing or transportation—
-    (i) In a manner that undermined the effectiveness of international conservation and management measures; and
-    (ii) That has resulted in a high seas fishing permit, or an equivalent authorisation granted by a participating state or a party to the FAO Compliance Agreement, being suspended or revoked during the 3 years immediately preceding the application (the 3-year period); and
-  (d) The applicant has not engaged in fishing or transportation on the high seas during the 3-year period—
-    (i) Without a high seas fishing permit (or equivalent authorisation granted by a participating state), if a high seas fishing permit was required for that fishing or transportation; and
-    (ii) In a manner that undermined the effectiveness of international conservation and management measures.
+  (c) the applicant has not engaged in fishing or transportation—
+    (i) in a manner that undermined the effectiveness of international conservation and management measures; and
+    (ii) that has resulted in a high seas fishing permit, or an equivalent authorisation granted by a participating state or a party to the FAO Compliance Agreement, being suspended or revoked during the 3 years immediately preceding the application (the 3-year period); and
+  (d) the applicant has not engaged in fishing or transportation on the high seas during the 3-year period—
+    (i) without a high seas fishing permit (or equivalent authorisation granted by a participating state), if a high seas fishing permit was required for that fishing or transportation; and
+    (ii) in a manner that undermined the effectiveness of international conservation and management measures.
 (2) An exemption granted by the Minister must be limited to 1 or more of the following, as specified in the exemption:
-  (a) An area or areas of the high seas:
-  (b) A species of fish, aquatic life, or seaweed:
-  (c) A period of time.
+  (a) an area or areas of the high seas:
+  (b) a species of fish, aquatic life, or seaweed:
+  (c) a period of time.
 (3) The Minister may, by notice in writing to the holder of an exemption granted under subsection (1), amend or revoke the exemption.
 (4) Section 113E does not apply to a New Zealand national taking or transporting fish, aquatic life, or seaweed in accordance with an exemption granted under subsection (1).
 
@@ -2295,68 +2278,68 @@ An application for a high seas fishing permit—
 
 ### 113H Issue of high seas fishing permit
 (1) The chief executive may issue a high seas fishing permit only if the chief executive is satisfied that—
-  (a) The vessel to which the permit relates is registered—
-    (i) Under the Ship Registration Act 1992; and
-    (ii) In the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
-  (b) The applicant has not engaged in fishing or transportation—
-    (i) In a manner that undermined the effectiveness of international conservation and management measures; and
-    (ii) That has resulted in a high seas fishing permit, or an equivalent authorisation granted by a participating state or a party to the FAO Compliance Agreement, being suspended or revoked during the 3 years immediately preceding the application (the 3-year period); and
-  (c) The applicant has not engaged in fishing or transportation on the high seas during the 3-year period—
-    (i) Without a high seas fishing permit (or equivalent authorisation granted by a participating state), if a high seas fishing permit was required for that fishing or transportation; and
-    (ii) In a manner that undermined the effectiveness of international conservation and management measures.
+  (a) the vessel to which the permit relates is registered—
+    (i) under the Ship Registration Act 1992; and
+    (ii) in the Fishing Vessel Register as either a fish carrier or a fishing vessel; and
+  (b) the applicant has not engaged in fishing or transportation—
+    (i) in a manner that undermined the effectiveness of international conservation and management measures; and
+    (ii) that has resulted in a high seas fishing permit, or an equivalent authorisation granted by a participating state or a party to the FAO Compliance Agreement, being suspended or revoked during the 3 years immediately preceding the application (the 3-year period); and
+  (c) the applicant has not engaged in fishing or transportation on the high seas during the 3-year period—
+    (i) without a high seas fishing permit (or equivalent authorisation granted by a participating state), if a high seas fishing permit was required for that fishing or transportation; and
+    (ii) in a manner that undermined the effectiveness of international conservation and management measures.
 (2) Before issuing a high seas fishing permit, the chief executive may have regard to—
-  (a) The previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
-  (b) Such other matters as the chief executive considers relevant.
+  (a) the previous offending history (if any), in relation to fishing or transportation (whether within the national fisheries jurisdiction of New Zealand or another country, or on the high seas), of the vessel's owner, operator, foreign charterparty, notified user, master, or crew; and
+  (b) such other matters as the chief executive considers relevant.
 (3) The chief executive may, but is not required to, issue a high seas fishing permit to a person even though that person may—
-  (a) Owe the Crown a levy payable under Part 14; or
-  (b) Have unpaid and overdue deemed value amounts of more than $1,000; or
-  (c) Hold a fishing permit that is subject to conditions by virtue of or under section 78(1) or (2).
+  (a) owe the Crown a levy payable under Part 14; or
+  (b) have unpaid and overdue deemed value amounts of more than $1,000; or
+  (c) hold a fishing permit that is subject to conditions by virtue of or under section 78(1) or (2).
 
 ### 113I Term and content of high seas fishing permit
 (1) A high seas fishing permit may be issued for a period not exceeding 5 years.
 (2) A high seas fishing permit must specify—
-  (a) The name of the permit holder; and
-  (b) The fishing vessel or fish carrier to which the permit relates; and
-  (c) Any conditions to which the permit is subject under section 113K.
+  (a) the name of the permit holder; and
+  (b) the fishing vessel or fish carrier to which the permit relates; and
+  (c) any conditions to which the permit is subject under section 113K.
 
 ### 113J Compliance with conditions and regulations
 (1) A person taking fish, aquatic life, or seaweed under the authority of a high seas fishing permit must comply with—
-  (a) Any conditions to which the permit is subject under section 113K; and
-  (b) Any regulations made under section 297.
+  (a) any conditions to which the permit is subject under section 113K; and
+  (b) any regulations made under section 297.
 (2) Every person who contravenes a condition to which a high seas fishing permit is subject under section 113K commits an offence and is liable to the penalty set out in section 252(5).
 
 **Compliance with Conditions and Regulations**
 
 ### 113K Conditions of high seas fishing permit
 (1) A high seas fishing permit may be subject to such conditions as the chief executive considers appropriate, including conditions relating to the following matters:
-  (a) The areas in which fishing or transportation is authorised:
-  (b) The seasons, times, and particular voyages during which fishing or transportation is authorised:
-  (c) The species, size, age, and quantities of fish, aquatic life, or seaweed that may be taken or transported:
-  (d) The methods by which fish, aquatic life, or seaweed may be taken:
-  (e) The types, size, and amount of fishing gear or equipment that may be used or carried, and the modes of storage of that gear or equipment when not in use:
-  (f) The use, transfer, transhipment, landing, receiving, and processing of fish, aquatic life, or seaweed taken:
-  (g) Procedures or requirements, or both, enabling the verification of fish, aquatic life, or seaweed taken or being taken by the vessel, including procedures or restrictions relating to the species of, quantities of, or areas from which, fish, aquatic life, or seaweed are being or have been taken by the vessel:
-  (h) Entry by the vessel to New Zealand or foreign ports, whether for the inspection of its catch or for other purposes:
-  (i) Reports and information required to be given to the chief executive by the permit holder, and records required to be kept by the permit holder:
-  (j) Management controls regarding fishing-related mortality of fish, aquatic life, or seaweed:
-  (k) The conduct of specified programmes of fisheries research:
-  (l) The marking of the vessel and other means for its identification:
-  (m) The placing of observers on the vessel and the payment of any associated prescribed fees and charges by the permit holder:
-  (n) The installation and maintenance of equipment to monitor fishing or transportation under the permit and the payment of any associated prescribed fees and charges by the permit holder:
-  (o) The installation on the vessel and the maintenance of any automatic location communicator or other equipment for the identification and location of the vessel, and of adequate navigational equipment to enable the vessel to fix its position, and the payment of any associated prescribed fees and charges by the permit holder:
-  (p) The carriage on board the vessel of specified charts, publications, and instruments:
-  (q) The disposal of fish, aquatic life, and seaweed:
-  (r) Measures to give effect to international conservation and management measures.
+  (a) the areas in which fishing or transportation is authorised:
+  (b) the seasons, times, and particular voyages during which fishing or transportation is authorised:
+  (c) the species, size, age, and quantities of fish, aquatic life, or seaweed that may be taken or transported:
+  (d) the methods by which fish, aquatic life, or seaweed may be taken:
+  (e) the types, size, and amount of fishing gear or equipment that may be used or carried, and the modes of storage of that gear or equipment when not in use:
+  (f) the use, transfer, transhipment, landing, receiving, and processing of fish, aquatic life, or seaweed taken:
+  (g) procedures or requirements, or both, enabling the verification of fish, aquatic life, or seaweed taken or being taken by the vessel, including procedures or restrictions relating to the species of, quantities of, or areas from which, fish, aquatic life, or seaweed are being or have been taken by the vessel:
+  (h) entry by the vessel to New Zealand or foreign ports, whether for the inspection of its catch or for other purposes:
+  (i) reports and information required to be given to the chief executive by the permit holder, and records required to be kept by the permit holder:
+  (j) management controls regarding fishing-related mortality of fish, aquatic life, or seaweed:
+  (k) the conduct of specified programmes of fisheries research:
+  (l) the marking of the vessel and other means for its identification:
+  (m) the placing of observers on the vessel and the payment of any associated prescribed fees and charges by the permit holder:
+  (n) the installation and maintenance of equipment to monitor fishing or transportation under the permit and the payment of any associated prescribed fees and charges by the permit holder:
+  (o) the installation on the vessel and the maintenance of any automatic location communicator or other equipment for the identification and location of the vessel, and of adequate navigational equipment to enable the vessel to fix its position, and the payment of any associated prescribed fees and charges by the permit holder:
+  (p) the carriage on board the vessel of specified charts, publications, and instruments:
+  (q) the disposal of fish, aquatic life, and seaweed:
+  (r) measures to give effect to international conservation and management measures.
 (2) The chief executive may from time to time, by written notice to the holder of a high seas fishing permit, amend, add to, or revoke any conditions of the permit with effect from the date specified in the notice.
 (3) If the chief executive considers it expedient to do so, the chief executive may—
-  (a) Require the high seas fishing permit holder to surrender the permit; and
-  (b) Replace that permit with a new permit containing new conditions.
+  (a) require the high seas fishing permit holder to surrender the permit; and
+  (b) replace that permit with a new permit containing new conditions.
 (4) A condition imposed on a high seas fishing permit under this section is not invalid merely because the condition is more restrictive or more onerous than any conditions that are or may be imposed on fishing by any regulations made under this Act.
 
 ### 113L High seas fishing permit to be carried on vessel
 (1) A person taking or transporting fish, aquatic life, or seaweed under the authority of a high seas fishing permit must—
-  (a) Carry the permit (or a copy of the permit) on board the vessel to which the permit relates at all times; and
-  (b) Show the permit to a fishery officer or high seas fishery inspector or foreign high seas inspector on demand.
+  (a) carry the permit (or a copy of the permit) on board the vessel to which the permit relates at all times; and
+  (b) show the permit to a fishery officer or high seas fishery inspector or foreign high seas inspector on demand.
 (2) Every person who contravenes subsection (1) commits an offence and is liable to the penalty set out in section 252(5).
 
 ### 113M Notification of change of ownership of vessel
@@ -2368,33 +2351,33 @@ An application for a high seas fishing permit—
 ### 113N Chief executive may suspend or revoke high seas fishing permit
 (1) The chief executive may revoke a high seas fishing permit if the chief executive is satisfied that any information or evidence supplied with the application for the permit was false or misleading in any material particular.
 (2) The chief executive may suspend or revoke a high seas fishing permit if the chief executive is satisfied that—
-  (a) The vessel to which the permit relates is no longer—
-    (i) Registered under the Ship Registration Act 1992; or
-    (ii) Registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel; or
-  (b) The permit holder, or any person authorised to fish under the authority of the permit, has been convicted of an offence against this Part; or
-  (c) The permit holder has been convicted of a fishing-related offence under the laws of a country other than New Zealand; or
-  (d) The permit holder is no longer the owner or operator of the vessel.
+  (a) the vessel to which the permit relates is no longer—
+    (i) registered under the Ship Registration Act 1992; or
+    (ii) registered in the Fishing Vessel Register as either a fish carrier or a fishing vessel; or
+  (b) the permit holder, or any person authorised to fish under the authority of the permit, has been convicted of an offence against this Part; or
+  (c) the permit holder has been convicted of a fishing-related offence under the laws of a country other than New Zealand; or
+  (d) the permit holder is no longer the owner or operator of the vessel.
 (3) A person may, in writing, request that the chief executive revoke a high seas fishing permit issued to that person.
 (4) A request made under subsection (3) must be accompanied by the high seas fishing permit and any copies of the permit.
 
 ### 113O Procedure to be followed before suspending or revoking permit
 Before suspending or revoking a high seas fishing permit under section 113N(1) or (2), the chief executive must—
-  (a) Give the permit holder not less than 7 days' notice in writing of the chief executive's intention to suspend or revoke the permit; and
-  (b) Include in or with the notice a statement—
-    (i) Of the chief executive's reasons; and
-    (ii) Of the date on which the permit will be revoked or suspended; and
-    (iii) In the case of suspension of the permit, of the period for which the permit will be suspended; and
-  (c) Give the permit holder a reasonable opportunity to make submissions to the chief executive; and
-  (d) Consider any submissions made to the chief executive by the permit holder.
+  (a) give the permit holder not less than 7 days' notice in writing of the chief executive's intention to suspend or revoke the permit; and
+  (b) include in or with the notice a statement—
+    (i) of the chief executive's reasons; and
+    (ii) of the date on which the permit will be revoked or suspended; and
+    (iii) in the case of suspension of the permit, of the period for which the permit will be suspended; and
+  (c) give the permit holder a reasonable opportunity to make submissions to the chief executive; and
+  (d) consider any submissions made to the chief executive by the permit holder.
 
 ### 113P Effect of suspension or revocation of permit
 (1) Where the chief executive revokes a high seas fishing permit under section 113N,—
-  (a) The high seas fishing permit is cancelled immediately and ceases to have any effect for the purposes of this Act; and
-  (b) The permit holder must ensure that the permit and any copies of the permit are surrendered immediately to the chief executive.
+  (a) the high seas fishing permit is cancelled immediately and ceases to have any effect for the purposes of this Act; and
+  (b) the permit holder must ensure that the permit and any copies of the permit are surrendered immediately to the chief executive.
 (2) Where the chief executive suspends a high seas fishing permit under section 113N,—
-  (a) The suspension is for the period specified by the chief executive under section 113O(b); and
-  (b) The permit does not authorise fishing or transportation; but
-  (c) The obligations and conditions to which the permit is subject, or that are imposed by or under this Act in relation to the permit, continue to have effect.
+  (a) the suspension is for the period specified by the chief executive under section 113O(b); and
+  (b) the permit does not authorise fishing or transportation; but
+  (c) the obligations and conditions to which the permit is subject, or that are imposed by or under this Act in relation to the permit, continue to have effect.
 (3) Nothing in this section requires the chief executive to remit or refund any fees, charges, or levies paid or payable by the permit holder for the period from the date of issue of the permit to the date of revocation.
 
 **High seas fishery inspectors**
@@ -2406,128 +2389,128 @@ Before suspending or revoking a high seas fishing permit under section 113N(1) o
 
 ### 113R Powers of high seas fishery inspectors in relation to New Zealand vessels
 For the purposes of the administration and enforcement of this Part, a high seas fishery inspector has all of the powers of a fishery officer in relation to a vessel on the high seas that—
-  (a) Is registered under the Ship Registration Act 1992; or
-  (b) Flies the New Zealand flag.
+  (a) is registered under the Ship Registration Act 1992; or
+  (b) flies the New Zealand flag.
 
 ### 113S Powers of high seas fishery inspectors in relation to foreign vessels
 (1) A high seas fishery inspector may, for the purpose of ensuring compliance with international conservation and management measures adopted by a global, regional, or sub-regional fisheries organisation or arrangement of which New Zealand is a member or in which New Zealand is a participant, board and inspect a vessel in an area of the high seas that is covered by that organisation or arrangement, or in New Zealand fisheries waters, if—
-  (a) The vessel is not registered under the Ship Registration Act 1992; and
-  (b) The flag state of the vessel is—
-    (i) A party to the Fish Stocks Agreement, whether or not the flag state is a member of, or a participant in, that organisation or arrangement; or
+  (a) the vessel is not registered under the Ship Registration Act 1992; and
+  (b) the flag state of the vessel is—
+    (i) a party to the Fish Stocks Agreement, whether or not the flag state is a member of, or a participant in, that organisation or arrangement; or
     (ii) a member of or participant in that organisation or arrangement, and that organisation or arrangement has established boarding and inspection procedures as provided in Article 21.2 of the Fish Stocks Agreement.
 (2) If the flag state in relation to a vessel to which subsection (1) applies authorises the chief executive (in accordance with Article 21.6(b) of the Fish Stocks Agreement) to investigate whether the vessel has engaged in an activity contrary to those international conservation and management measures, a high seas fishery inspector has, in relation to the vessel,—
-  (a) All of the powers of a fishery officer; or
-  (b) If the flag state specifies the powers of a fishery officer that the high seas fishery inspector may exercise, those powers.
+  (a) all of the powers of a fishery officer; or
+  (b) if the flag state specifies the powers of a fishery officer that the high seas fishery inspector may exercise, those powers.
 
 ### 113T Boarding and inspection procedures relating to foreign vessels
 (1) A high seas fishery inspector who boards a vessel under section 113S(1) must—
-  (a) Give the master of the vessel evidence of the inspector's identity and of the fact that he or she is a high seas fishery inspector; and
-  (b) Provide to the master of the vessel a copy of a report on the boarding and inspection, including any objection or statement that the master has advised the high seas fishery inspector that the master wishes to have included in the report; and
-  (c) Promptly leave the vessel after completing the inspection unless he or she finds evidence that the vessel has committed a serious violation.
+  (a) give the master of the vessel evidence of the inspector's identity and of the fact that he or she is a high seas fishery inspector; and
+  (b) provide to the master of the vessel a copy of a report on the boarding and inspection, including any objection or statement that the master has advised the high seas fishery inspector that the master wishes to have included in the report; and
+  (c) promptly leave the vessel after completing the inspection unless he or she finds evidence that the vessel has committed a serious violation.
 (2) The chief executive must provide a copy of the report referred to in subsection (1)(b) to the authorities of the flag state of the vessel.
 (3) At the time of a boarding and inspection under section 113S(1), the chief executive must initiate action to give notice of the boarding and inspection to the authorities of the flag state of a vessel that is boarded and inspected.
 (4) A high seas fishery inspector must not interfere with any attempt by the master of the vessel to communicate with the authorities of the flag state of the vessel during the boarding and inspection.
 (5) When undertaking a boarding and inspection under section 113S(1), a high seas fishery inspector is authorised, in order to verify compliance by the vessel with the relevant international conservation and management measures, to inspect—
-  (a) The vessel; and
-  (b) The vessel's authorisation to fish, or transport fish, aquatic life, or seaweed, in the relevant area of the high seas; and
-  (c) The vessel's fishing gear and equipment; and
-  (d) Facilities; and
-  (e) Fish and fish products; and
-  (f) Records and other relevant documents.
+  (a) the vessel; and
+  (b) the vessel's authorisation to fish, or transport fish, aquatic life, or seaweed, in the relevant area of the high seas; and
+  (c) the vessel's fishing gear and equipment; and
+  (d) facilities; and
+  (e) fish and fish products; and
+  (f) records and other relevant documents.
 
 ### 113U Investigation of serious violations
 (1) If, as a result of a boarding and inspection under section 113S(1), a high seas fishery inspector believes that the vessel has been used to commit a serious violation,—
-  (a) The high seas fishery inspector must notify the chief executive as soon as practicable; and
-  (b) The chief executive must advise the authorities of the flag state of the vessel as soon as practicable.
+  (a) the high seas fishery inspector must notify the chief executive as soon as practicable; and
+  (b) the chief executive must advise the authorities of the flag state of the vessel as soon as practicable.
 (2) A high seas fishery inspector may remain on board the vessel and may require the master to assist in further investigations for so long as the flag state—
-  (a) Fails to respond to a notification under subsection (1); or
-  (b) Fails to take action under its own law in respect of the serious violation.
+  (a) fails to respond to a notification under subsection (1); or
+  (b) fails to take action under its own law in respect of the serious violation.
 (3) The high seas fishery inspector may require the master to bring the vessel without delay to a port specified by the high seas fishery inspector if the flag state fails, within 3 working days after receipt by the authorities of the flag state of the notification, to—
-  (a) Respond to a notification under subsection (1); or
-  (b) Take action under its own law in respect of the serious violation.
+  (a) respond to a notification under subsection (1); or
+  (b) take action under its own law in respect of the serious violation.
 (4) In this section, working day, in relation to a flag state, means any day of the week other than—
   (a) Saturday or Sunday; or
-  (b) A public holiday in that state.
+  (b) a public holiday in that state.
 
 ### 113V Boarding and inspection procedures modified by global, regional, or sub-regional fisheries organisation or arrangement
 (1) This section applies where—
-  (a) A global, regional, or sub-regional fisheries organisation or arrangement of which New Zealand is a member, or in which New Zealand is a participant, establishes procedures for boarding and inspection of vessels as provided in Article 21.2 of the Fish Stocks Agreement; and
-  (b) A high seas fishery inspector boards and inspects a foreign vessel under section 113S(1) for the purpose of ensuring compliance with international conservation and management measures established by that organisation or arrangement.
+  (a) a global, regional, or sub-regional fisheries organisation or arrangement of which New Zealand is a member, or in which New Zealand is a participant, establishes procedures for boarding and inspection of vessels as provided in Article 21.2 of the Fish Stocks Agreement; and
+  (b) a high seas fishery inspector boards and inspects a foreign vessel under section 113S(1) for the purpose of ensuring compliance with international conservation and management measures established by that organisation or arrangement.
 (2) To the extent that the procedures established by the organisation or arrangement are different from the requirements of section 113T or section 113U, the high seas fishery inspector and the chief executive must comply with the procedures established by the organisation or arrangement.
 
 ### 113W Persons on New Zealand ships to co-operate with foreign high seas inspectors
 (1) The master of a ship must co-operate with a foreign high seas inspector appointed by a participating state that is a member of or participant in a global, regional, or sub-regional fisheries organisation or arrangement where—
-  (a) The ship—
-    (i) Is registered under the Ship Registration Act 1992; or
-    (ii) Flies the New Zealand flag; and
-  (b) The ship is on the high seas in an area covered by that organisation or arrangement
+  (a) the ship—
+    (i) is registered under the Ship Registration Act 1992; or
+    (ii) flies the New Zealand flag; and
+  (b) the ship is on the high seas in an area covered by that organisation or arrangement
   (c)
 (2) The master of a ship must co-operate with a foreign high seas inspector appointed in relation to an area covered by a global, regional, or sub-regional fisheries organisation or arrangement where—
-  (a) The ship—
-    (i) Is registered under the Ship Registration Act 1992; or
-    (ii) Flies the New Zealand flag; and
-  (b) The ship is on the high seas in an area covered by the organisation or arrangement; and
+  (a) the ship—
+    (i) is registered under the Ship Registration Act 1992; or
+    (ii) flies the New Zealand flag; and
+  (b) the ship is on the high seas in an area covered by the organisation or arrangement; and
   (ba) New Zealand is a member of the organisation or arrangement; and
-  (c) The organisation or arrangement has established procedures for boarding and inspecting vessels as provided in Article 21.2 of the Fish Stocks Agreement.
+  (c) the organisation or arrangement has established procedures for boarding and inspecting vessels as provided in Article 21.2 of the Fish Stocks Agreement.
 (3) Every person on a ship to which subsection (1) or subsection (2) applies must—
-  (a) Accept and facilitate prompt and safe boarding of the ship by the foreign high seas inspector; and
-  (b) Co-operate with and assist in the inspection of the vessel; and
-  (c) Not obstruct, intimidate, or interfere with the foreign high seas inspector in the performance of his or her duties; and
-  (d) Allow the foreign high seas inspector to communicate with the authorities of New Zealand and of the state that appointed the inspector; and
-  (e) Provide reasonable facilities to the foreign high seas inspector, including food and accommodation (where appropriate); and
-  (f) Facilitate safe disembarkation from the ship by the foreign high seas inspector.
+  (a) accept and facilitate prompt and safe boarding of the ship by the foreign high seas inspector; and
+  (b) co-operate with and assist in the inspection of the vessel; and
+  (c) not obstruct, intimidate, or interfere with the foreign high seas inspector in the performance of his or her duties; and
+  (d) allow the foreign high seas inspector to communicate with the authorities of New Zealand and of the state that appointed the inspector; and
+  (e) provide reasonable facilities to the foreign high seas inspector, including food and accommodation (where appropriate); and
+  (f) facilitate safe disembarkation from the ship by the foreign high seas inspector.
 (4) Every person who contravenes subsection (1), subsection (2), or subsection (3) commits an offence and is liable to the penalty set out in section 252(3).
 
 ### 113X Powers of foreign high seas inspector when requested to investigate
 (1) The chief executive may authorise a foreign high seas inspector to investigate a ship that is registered under the Ship Registration Act 1992 or that flies the New Zealand flag, under Article 21.6(b) of the Fish Stocks Agreement, if—
-  (a) The inspector has boarded the ship under—
-    (i) The Agreement; or
-    (ii) Boarding and inspection procedures established as provided in Article 21.2 of the Agreement; and
-  (b) The chief executive receives a report from the inspector stating that there is evidence that the ship has taken or transported fish, aquatic life, or seaweed in contravention of international conservation and management measures.
+  (a) the inspector has boarded the ship under—
+    (i) the Agreement; or
+    (ii) boarding and inspection procedures established as provided in Article 21.2 of the Agreement; and
+  (b) the chief executive receives a report from the inspector stating that there is evidence that the ship has taken or transported fish, aquatic life, or seaweed in contravention of international conservation and management measures.
 (2) If the chief executive authorises the foreign high seas inspector to investigate under Article 21.6(b) of the Fish Stocks Agreement,—
-  (a) The foreign high seas inspector has the powers of a fishery officer in relation to the ship; and
-  (b) The chief executive must advise the master of the ship as soon as practicable.
+  (a) the foreign high seas inspector has the powers of a fishery officer in relation to the ship; and
+  (b) the chief executive must advise the master of the ship as soon as practicable.
 (3) For the purposes of any proceedings for an offence under this Part, evidence obtained by a foreign high seas inspector in the exercise of powers under this section is admissible as if the evidence were obtained by a fishery officer.
 
 ### 113Y Chief executive may withdraw authorisation to fish under high seas fishing permit
 (1) This section applies where the chief executive receives a report from a foreign high seas inspector that a person on a ship is—
-  (a) Failing to comply with section 113W; or
-  (b) Failing to co-operate with or obstructing the foreign high seas inspector in the exercise of his or her powers under—
-    (i) The Fish Stocks Agreement; or
-    (ii) Boarding and inspection procedures established as provided in Article 21.2 of the Agreement.
+  (a) failing to comply with section 113W; or
+  (b) failing to co-operate with or obstructing the foreign high seas inspector in the exercise of his or her powers under—
+    (i) the Fish Stocks Agreement; or
+    (ii) boarding and inspection procedures established as provided in Article 21.2 of the Agreement.
 (2) The chief executive may, by notice to the master of the ship (which notice may be given orally or by any form of electronic communication), suspend the high seas fishing permit under which the ship is taking or transporting fish.
 
 **Administrative penalties**
 
 ### 113Z Administrative penalties for high seas fisheries offences
 (1) This section—
-  (a) Applies in respect of an offence against this Part that carries a penalty of a fine not exceeding $250,000; but
-  (b) Does not apply in respect of an alleged offence if an information or charge has been laid in respect of the alleged offence.
+  (a) applies in respect of an offence against this Part that carries a penalty of a fine not exceeding $250,000; but
+  (b) does not apply in respect of an alleged offence if an information or charge has been laid in respect of the alleged offence.
 (2) The chief executive may cause notice in writing, in the approved form, to be served on a person if the chief executive has reasonable cause to believe that—
-  (a) An offence to which this section applies may have been committed by that person; and
-  (b) Having regard to all the circumstances relating to the alleged offence, it is minor; and
-  (c) Having regard to the previous conduct of the vessel and of that person, it would be appropriate to impose a penalty under this section.
+  (a) an offence to which this section applies may have been committed by that person; and
+  (b) having regard to all the circumstances relating to the alleged offence, it is minor; and
+  (c) having regard to the previous conduct of the vessel and of that person, it would be appropriate to impose a penalty under this section.
 (3) A notice given under subsection (2) must—
-  (a) Contain—
-    (i) The date and nature of the alleged offence; and
-    (ii) A summary of the facts on which the allegation that an offence has been committed is based, which summary is sufficient to fully and fairly inform the person of the allegation against him or her; and
-    (iii) Any other matters (other than previous convictions) that the chief executive considers relevant to the imposition of a penalty; and
-  (b) Be endorsed with a statement setting out the provisions of this section and sections 113ZA to 113ZC.
+  (a) contain—
+    (i) the date and nature of the alleged offence; and
+    (ii) a summary of the facts on which the allegation that an offence has been committed is based, which summary is sufficient to fully and fairly inform the person of the allegation against him or her; and
+    (iii) any other matters (other than previous convictions) that the chief executive considers relevant to the imposition of a penalty; and
+  (b) be endorsed with a statement setting out the provisions of this section and sections 113ZA to 113ZC.
 
 ### 113ZA Right to require that offence be dealt with by court
 (1) Within 28 days after a notice under section 113Z is served on a person, the person may, by a notice in writing in the approved form served on the chief executive, require that any proceedings in respect of the alleged offence be dealt with before a court.
 (2) No further proceedings may be taken under section 113ZC by the chief executive if—
-  (a) A person gives notice in accordance with subsection (1); or
-  (b) The person does not, within 28 days after a notice under section 113Z is served on him or her, admit the offence in accordance with section 113ZB.
+  (a) a person gives notice in accordance with subsection (1); or
+  (b) the person does not, within 28 days after a notice under section 113Z is served on him or her, admit the offence in accordance with section 113ZB.
 (3) Nothing in this section prevents—
-  (a) The subsequent laying of an information or charge in respect of the alleged offence; or
-  (b) The conviction of the person of the offence by a court; or
-  (c) The imposition of a penalty under an enactment, or forfeiture under this Act, on such a conviction.
+  (a) the subsequent laying of an information or charge in respect of the alleged offence; or
+  (b) the conviction of the person of the offence by a court; or
+  (c) the imposition of a penalty under an enactment, or forfeiture under this Act, on such a conviction.
 
 ### 113ZB Admission of offence
 A person on whom a notice under section 113Z is served who does not require that any proceedings in respect of the alleged offence be dealt with before a court may, by notice in writing served on the chief executive within 28 days after the notice under section 113Z is served on him or her,—
-  (a) Admit the offence; and
-  (b) Make submissions to the chief executive as to the matters the person wishes the chief executive to take into account in imposing a penalty under section 113ZC.
+  (a) admit the offence; and
+  (b) make submissions to the chief executive as to the matters the person wishes the chief executive to take into account in imposing a penalty under section 113ZC.
 
 ### 113ZC Amount of administrative penalty
 (1) If the person admits an offence under section 113ZB, the chief executive may, after taking into account any submissions made by the person under that section, impose on that person a monetary penalty not exceeding one-third of the maximum monetary penalty to which the person would be liable if the person were convicted of the offence by a court.
@@ -2541,7 +2524,7 @@ A person on whom a notice under section 113Z is served who does not require that
 ### 113ZD Visits by foreign ships
 (1) The master of a fishing vessel or fish carrier that is not a New Zealand ship, a New Zealand fishing vessel, or a registered fish carrier, who intends to bring the vessel into the internal waters or a port of New Zealand, must give the chief executive at least 72 hours' notice, in the approved manner, of his or her intention to do so.
 (2) If the chief executive is satisfied that a vessel has undermined international conservation and management measures, the chief executive may, by notice to the master of a vessel to which subsection (1) applies, direct the vessel—
-  (a) Not to enter the internal waters or a port of New Zealand; or
+  (a) not to enter the internal waters or a port of New Zealand; or
   (b) if it has entered the internal waters or a port of New Zealand, to leave those waters or that port.
 (3) If the Minister is satisfied on reasonable grounds that it is necessary for the purpose of the conservation and management of fish, aquatic life, or seaweed, the Minister may, by notice in the Gazette, direct any class or classes of fishing vessel or fish carrier not to enter the internal waters or a port of New Zealand.
 (4) The master of a vessel to which a notice under subsection (2) or subsection (3) applies, who brings the vessel into the internal waters or a port of New Zealand knowing that the notice applies to the vessel, commits an offence and is liable to the penalty set out in section 252(5).
@@ -2549,22 +2532,22 @@ A person on whom a notice under section 113Z is served who does not require that
 
 ### 113ZE Consent of Attorney-General required for certain proceedings
 (1) This section applies to proceedings for offences under the following sections:
-  (a) Section 113A (illegal fishing or transportation in the fisheries jurisdiction of a foreign country):
-  (b) Section 113E (unlawful use of foreign vessel on high seas by New Zealand national).
+  (a) section 113A (illegal fishing or transportation in the fisheries jurisdiction of a foreign country):
+  (b) section 113E (unlawful use of foreign vessel on high seas by New Zealand national).
 (2) Despite anything in any other enactment, those proceedings may not be instituted in any court except with the consent of the Attorney-General and on the Attorney-General's certificate that it is expedient that the proceedings should be instituted.
 
 ### 113ZF Authorised agent
 A document required to be served on the holder of a high seas fishing permit is deemed to have been duly served if it is—
-  (a) Delivered to a representative person for the time being specified under section 103(2)(c) or section 105(2)(c) in relation to the vessel; or
-  (b) Sent to that person by post at the address notified or last notified to the chief executive; or
-  (c) Left for that person at that address.
+  (a) delivered to a representative person for the time being specified under section 103(2)(c) or section 105(2)(c) in relation to the vessel; or
+  (b) sent to that person by post at the address notified or last notified to the chief executive; or
+  (c) left for that person at that address.
 
 ## Part 7 — Dispute resolution
 
 ### 114 Application of this Part
 This Part of this Act—
-  (a) Applies to disputes about the effects of fishing (excluding fish farming) on the fishing activities of any person who has a current fishing interest provided for or authorised by or under this Act; but
-  (b) Does not apply to disputes about ensuring sustainability or about the effects of any fishing authorised under Part 9 of this Act.
+  (a) applies to disputes about the effects of fishing (excluding fish farming) on the fishing activities of any person who has a current fishing interest provided for or authorised by or under this Act; but
+  (b) does not apply to disputes about ensuring sustainability or about the effects of any fishing authorised under Part 9 of this Act.
 
 **Statement of procedure**
 
@@ -2574,44 +2557,44 @@ This Part of this Act—
 (3) The Minister shall, after having due regard to the submissions (if any) received on the draft statement of procedure, and within 30 working days of the close of the period referred to in subsection (2) of this section, approve a statement of procedure for the resolution of disputes to which this Part of this Act applies.
 (4) The Minister shall publicly notify the availability, at such places as he or she specifies in the notice, of the approved statement of procedure.
 (5) The Minister shall from time to time, at such intervals as he or she considers appropriate, review the approved statement of procedure and may, at any time,—and subsections (2) to (4) of this section, with any necessary modifications, shall apply to every such amendment or substituted statement.
-  (a) Amend the statement; or
-  (b) Revoke the statement and substitute a new statement;—
+  (a) amend the statement; or
+  (b) revoke the statement and substitute a new statement;—
 
 ### 116 Content of statement of procedure
 The statement of procedure under section 115 of this Act shall provide for—
-  (a) A process by which any interested party may identify a dispute to which this Part of this Act applies; and
-  (b) A process and guidelines to determine whether a dispute relates to a matter that significantly affects the fishing activities of one or more persons; and
-  (c) Input and participation by tangata whenua having a non-commercial interest in the fisheries resources concerned, having particular regard to Kaitiakitanga; and
-  (d) Opportunities for parties to negotiate, take collective action (if appropriate), and resolve disputes; and
-  (e) The outcome of any resolution processes to be forwarded to the Minister.
+  (a) a process by which any interested party may identify a dispute to which this Part of this Act applies; and
+  (b) a process and guidelines to determine whether a dispute relates to a matter that significantly affects the fishing activities of one or more persons; and
+  (c) input and participation by tangata whenua having a non-commercial interest in the fisheries resources concerned, having particular regard to Kaitiakitanga; and
+  (d) opportunities for parties to negotiate, take collective action (if appropriate), and resolve disputes; and
+  (e) the outcome of any resolution processes to be forwarded to the Minister.
 
 **Fisheries dispute commissioners**
 
 ### 117 Minister may appoint Fisheries Dispute Commissioner to resolve Dispute
 (1) The Minister may, on the Minister's own motion or at the request of any party to the dispute, appoint a Fisheries Dispute Commissioner to inquire into a dispute, if—
-  (a) The parties to the dispute are unable to resolve the dispute in accordance with the approved statement of procedure under section 115 of this Act; and
-  (b) The Minister is satisfied that—
-    (i) The dispute is a dispute to which this Part of this Act applies; and
-    (ii) There is no reasonable prospect of a negotiated solution being reached; and
-    (iii) The dispute relates to a matter that has a significant adverse effect on the fishing activities of one or more persons.
+  (a) the parties to the dispute are unable to resolve the dispute in accordance with the approved statement of procedure under section 115 of this Act; and
+  (b) the Minister is satisfied that—
+    (i) the dispute is a dispute to which this Part of this Act applies; and
+    (ii) there is no reasonable prospect of a negotiated solution being reached; and
+    (iii) the dispute relates to a matter that has a significant adverse effect on the fishing activities of one or more persons.
 (2) Any party making a request to the Minister under this section shall, as soon as practicable after making the request, notify every other party to the dispute that such a request has been made.
 (3) Subject to subsection (4) of this section, the Minister shall, within 40 working days after any party to a dispute requests the appointment of a Commissioner,—
-  (a) Decide whether or not to appoint a Commissioner; and
-  (b) Notify any party of either—
-    (i) The name of the Commissioner; or
-    (ii) The reasons for deciding not to appoint a Commissioner.
+  (a) decide whether or not to appoint a Commissioner; and
+  (b) notify any party of either—
+    (i) the name of the Commissioner; or
+    (ii) the reasons for deciding not to appoint a Commissioner.
 (4) The Minister may, at any time before the expiration of the 40-day period referred to in subsection (3) of this section, from time to time extend that period by such further period not exceeding 80 working days as he or she considers necessary; and, in such case, the Minister shall, as soon as practicable, notify the parties of the extension and of the reasons for that extension.
 (5) When appointing a Commissioner, the Minister shall specify to the Commissioner the nature of the dispute that is subject to the inquiry.
 
 ### 118 Inquiries
 (1) For each inquiry, a Commissioner shall determine the procedure that he or she considers appropriate and fair in the circumstances.
 (2) The Commissioner shall seek and consider—
-  (a) Submissions from parties to the inquiry; and
-  (b) Submissions from such other persons or organisations as the Commissioner considers appropriate.
+  (a) submissions from parties to the inquiry; and
+  (b) submissions from such other persons or organisations as the Commissioner considers appropriate.
 (3) The Commissioner may receive in evidence any statement, document, information, or matter, that may, in the Commissioner's opinion, assist the Commissioner to deal effectively with the dispute before him or her, whether or not the same would otherwise be admissible in a court of law.
 (4) The Commissioner may—
-  (a) Examine, on oath or otherwise, one or more of the parties, or any person whose evidence has been received by the Commissioner under subsection (3) of this section:
-  (b) Require any person to verify by statutory declaration any statement made by that person with respect to the dispute.
+  (a) examine, on oath or otherwise, one or more of the parties, or any person whose evidence has been received by the Commissioner under subsection (3) of this section:
+  (b) require any person to verify by statutory declaration any statement made by that person with respect to the dispute.
 (5) If the Commissioner is not satisfied that the dispute is one to which this Part of this Act applies, he or she shall refer the dispute back to the Minister and give reasons for doing so.
 (6) Without limiting any other provision in this Part of this Act, every Commissioner shall have, and may exercise, such powers as are reasonably necessary or expedient to enable the Commissioner to carry out his or her functions.
 (7) The parties to the dispute are the parties to the inquiry.
@@ -2626,9 +2609,9 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 ### 121 Protection of sensitive information
 (1) A Commissioner may, on the Commissioner's own motion or on the application of a party to the inquiry, make an order prohibiting or restricting the publication or communication of any information supplied to the Commissioner, or obtained by the Commissioner, in the course of any inquiry, whether or not the information may be material to the inquiry.
 (2) A Commissioner shall make an order described in subsection (1) of this section only if satisfied that the order is necessary—and is satisfied that, in the circumstances of the dispute, the importance of protecting the interests referred to in this section outweighs the public interest in making the information available.
-  (a) To avoid serious offence to tikanga Maori or to avoid the disclosure of the location of wahi tapu; or
-  (b) To avoid the disclosure of a trade secret; or
-  (c) To avoid unreasonable prejudice to the position of the person who supplied, or is the subject of, the information,—
+  (a) to avoid serious offence to tikanga Maori or to avoid the disclosure of the location of wahi tapu; or
+  (b) to avoid the disclosure of a trade secret; or
+  (c) to avoid unreasonable prejudice to the position of the person who supplied, or is the subject of, the information,—
 (3) Every person commits an offence and is liable to the penalty set out in section 252(6) of this Act who contravenes or fails to comply with an order made under subsection (1) of this section.
 
 ### 122 Commissioner to report to Minister within 60 working days
@@ -2638,14 +2621,14 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 
 ### 123 Minister to determine dispute
 (1) If there is a dispute to which this Part of this Act applies, the Minister shall,—
-  (a) In the case of a dispute referred to a Commissioner, determine the dispute as soon as practicable after receiving and considering the Commissioner's report under section 122 of this Act:
-  (b) In any other case, if the Minister is satisfied that the dispute could not be resolved in accordance with the approved statement of procedure under section 115 of this Act, determine the dispute as soon as practicable after being advised of that outcome.
+  (a) in the case of a dispute referred to a Commissioner, determine the dispute as soon as practicable after receiving and considering the Commissioner's report under section 122 of this Act:
+  (b) in any other case, if the Minister is satisfied that the dispute could not be resolved in accordance with the approved statement of procedure under section 115 of this Act, determine the dispute as soon as practicable after being advised of that outcome.
 (2) Without limiting the Minister's power to make a determination under subsection (1) of this section, the Minister may determine in any case that no action be taken.
 (3) The Minister shall not make a determination under subsection (1) of this section that is likely to have a significant adverse effect on the fishing activities of any person who has any current fishing interests provided for or authorised by or under this Act.
 (4) The Minister shall give reasons for every determination made under subsection (1) of this section.
 (5) The Minister shall—
-  (a) Give each of the parties to the dispute notice in writing of the determination; and
-  (b) Give notice of the determination in at least one newspaper circulating in the area concerned.
+  (a) give each of the parties to the dispute notice in writing of the determination; and
+  (b) give notice of the determination in at least one newspaper circulating in the area concerned.
 (6) Without limiting the generality of section 297 of this Act, regulations under that section may make such provision as may be necessary or expedient for the purpose of giving effect to any determination made under this section.
 
 ## Part 8 — Registration of transfers, mortgages, caveats, etc
@@ -2654,8 +2637,8 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 
 ### 124 Registers
 (1) The chief executive shall keep, in respect of each quota management stock,—
-  (a) A register to be called the Quota Register:
-  (b) A register to be called the Annual Catch Entitlement Register; and there shall be separate Annual Catch Entitlement Registers for each fishing year.
+  (a) a register to be called the Quota Register:
+  (b) a register to be called the Annual Catch Entitlement Register; and there shall be separate Annual Catch Entitlement Registers for each fishing year.
 (2) The registers may be kept in the form of information stored by means of a computer.
 (3) The registers may be kept in conjunction with any other register required to be kept under this Act.
 (4) The Crown owns all information contained in any Quota Register or Annual Catch Entitlement Register that is required by this Act to be contained in that register.
@@ -2670,73 +2653,73 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 
 ### 127 Matters to be shown in Quota Register
 (1) Each Quota Register shall contain the following particulars (if applicable) for each stock to which that Quota Register relates:
-  (a) The total allowable catch:
-  (b) The total allowable commercial catch:
-  (c) The individual transferable quota allocated to each person:
-  (d) Every registered transfer of individual transferable quota (whether by operation of law or otherwise) and every registered transfer of provisional individual transferable quota by operation of law, and—
-    (i) The names of the transferor and the transferee; and
-    (ii) The number of quota shares transferred; and
-    (iii) The time and date of the registration of the transfer:
-  (e) The provisional individual transferable quota allocated to each person:
-  (f) The provisional catch history allocated to each person:
-  (g) Every registered transfer of provisional catch history (whether by operation of law or otherwise), and—
-    (i) The names of the transferor and the transferee; and
-    (ii) The amount in kilogrammes of provisional catch history transferred; and
-    (iii) The time and date of the registration of the transfer:
-  (h) Every increase and every decrease of the number of quota shares held by any person that results from the transfer by the Crown of any quota by virtue of the operation of section 22 or section 23 or section 52 of this Act:
-  (i) The aggregate holding of each kind of quota and provisional catch history held by each person:
-  (j) Every caveat registered in respect of any quota shares under section 159 of this Act, and—
-    (i) The names of the caveator and the quota owner over whose quota shares the caveat is registered; and
-    (ii) The time and date of the registration of the caveat; and
-    (iii) The number of quota shares over which the caveat is registered; and
-    (iv) The type of caveat being imposed; and
-    (v) The date (if any) on which the caveat will lapse; and
-    (vi) The date on which the caveat is withdrawn:
+  (a) the total allowable catch:
+  (b) the total allowable commercial catch:
+  (c) the individual transferable quota allocated to each person:
+  (d) every registered transfer of individual transferable quota (whether by operation of law or otherwise) and every registered transfer of provisional individual transferable quota by operation of law, and—
+    (i) the names of the transferor and the transferee; and
+    (ii) the number of quota shares transferred; and
+    (iii) the time and date of the registration of the transfer:
+  (e) the provisional individual transferable quota allocated to each person:
+  (f) the provisional catch history allocated to each person:
+  (g) every registered transfer of provisional catch history (whether by operation of law or otherwise), and—
+    (i) the names of the transferor and the transferee; and
+    (ii) the amount in kilogrammes of provisional catch history transferred; and
+    (iii) the time and date of the registration of the transfer:
+  (h) every increase and every decrease of the number of quota shares held by any person that results from the transfer by the Crown of any quota by virtue of the operation of section 22 or section 23 or section 52 of this Act:
+  (i) the aggregate holding of each kind of quota and provisional catch history held by each person:
+  (j) every caveat registered in respect of any quota shares under section 159 of this Act, and—
+    (i) the names of the caveator and the quota owner over whose quota shares the caveat is registered; and
+    (ii) the time and date of the registration of the caveat; and
+    (iii) the number of quota shares over which the caveat is registered; and
+    (iv) the type of caveat being imposed; and
+    (v) the date (if any) on which the caveat will lapse; and
+    (vi) the date on which the caveat is withdrawn:
   (ja) every settlement quota interest registered under section 152A, and—
     (i) the name of Te Ohu Kai Moana Trustee Limited and of the quota owner over whose quota shares the settlement quota interest is registered; and
     (ii) the time and date of registration of the settlement quota interest; and
     (iii) the number of quota shares over which the settlement quota interest is registered:
-  (k) Every mortgage registered under section 159 of this Act, and—
-    (i) The names of the mortgagor and the mortgagee; and
-    (ii) The time and date of the registration of the mortgage; and
-    (iii) The number of quota shares secured by the mortgage; and
-    (iv) Every variation of the terms of the mortgage; and
+  (k) every mortgage registered under section 159 of this Act, and—
+    (i) the names of the mortgagor and the mortgagee; and
+    (ii) the time and date of the registration of the mortgage; and
+    (iii) the number of quota shares secured by the mortgage; and
+    (iv) every variation of the terms of the mortgage; and
     (v) every assignment of the mortgage; and
     (vi) the time and date of discharge of the mortgage:
-  (l) Every memorial registered under this Act, and the reason for the memorial:
-  (m) Every forfeiture of quota or provisional catch history under this Act, including—
-    (i) The time and date of the registration of the resulting transfer to the Crown of the quota or provisional catch history; and
-    (ii) The number of quota shares or kilogrammes of provisional catch history transferred to the Crown; and:
+  (l) every memorial registered under this Act, and the reason for the memorial:
+  (m) every forfeiture of quota or provisional catch history under this Act, including—
+    (i) the time and date of the registration of the resulting transfer to the Crown of the quota or provisional catch history; and
+    (ii) the number of quota shares or kilogrammes of provisional catch history transferred to the Crown; and:
     (iii) that any settlement quota that is forfeit is subject to a settlement quota interest registered under section 152A:
-  (n) Such other matters as may be required by regulations made under section 297 of this Act.
+  (n) such other matters as may be required by regulations made under section 297 of this Act.
 (2) Each Quota Register shall contain the last known postal address of the quota owner and persons having a registered interest in the quota.
 (3) Each Quota Register shall contain corrections made under section 165 of this Act and the time and date of the corrections.
 
 ### 128 Matters to be shown in Annual Catch Entitlement Register
 (1) Each Annual Catch Entitlement Register shall, in respect of the year to which it applies, contain the following particulars (if applicable) in respect of the stock to which it relates:
-  (a) Every annual catch entitlement held by any person at any time:
-  (b) The amount of annual catch entitlement that is allocated under section 67 or section 67A, and held by any person:
-  (ba) The amount of annual catch entitlement that is allocated under section 68, and held by any person:
-  (c) Every registered transfer of annual catch entitlement (whether by operation of law or otherwise), and—
-    (i) The names of the transferor and the transferee; and
-    (ii) The amount (in kilogrammes) of annual catch entitlement transferred; and
-    (iii) The time and date of registration:
-  (d) Every transfer of annual catch entitlement received for registration under section 133 of this Act that is to be effective on and from the first day of the next fishing year, and—
-    (i) The names of the transferor and the transferee; and
-    (ii) The amount (in kilogrammes) of annual catch entitlement to be transferred; and
-    (iii) The time and date of the chief executive's receipt of the transfer document:
-  (e) Every caveat registered in respect of the annual catch entitlement under section 159 of this Act, and—
-    (i) The names of the caveator and the annual catch entitlement owner over whose annual catch entitlement the caveat is registered; and
-    (ii) The time and date of the registration of the caveat; and
-    (iii) The amount (in kilogrammes) of annual catch entitlement over which the caveat is registered; and
-    (iv) The type of caveat being imposed; and
-    (v) The date (if any) on which the caveat will lapse; and
-    (vi) The date on which the caveat is withdrawn:
-  (f) Every forfeiture of annual catch entitlement under this Act, including—
-    (i) The time and date of the registration of the resulting transfer to the Crown of the annual catch entitlement; and
-    (ii) The amount (in kilogrammes) of annual catch entitlement transferred to the Crown:
-  (g) All reported catch of the stock taken in the year to which the register relates and notified by the chief executive under section 80(11) of this Act:
-  (h) Such other matters as may be required by regulations made under section 297 of this Act.
+  (a) every annual catch entitlement held by any person at any time:
+  (b) the amount of annual catch entitlement that is allocated under section 67 or section 67A, and held by any person:
+  (ba) the amount of annual catch entitlement that is allocated under section 68, and held by any person:
+  (c) every registered transfer of annual catch entitlement (whether by operation of law or otherwise), and—
+    (i) the names of the transferor and the transferee; and
+    (ii) the amount (in kilogrammes) of annual catch entitlement transferred; and
+    (iii) the time and date of registration:
+  (d) every transfer of annual catch entitlement received for registration under section 133 of this Act that is to be effective on and from the first day of the next fishing year, and—
+    (i) the names of the transferor and the transferee; and
+    (ii) the amount (in kilogrammes) of annual catch entitlement to be transferred; and
+    (iii) the time and date of the chief executive's receipt of the transfer document:
+  (e) every caveat registered in respect of the annual catch entitlement under section 159 of this Act, and—
+    (i) the names of the caveator and the annual catch entitlement owner over whose annual catch entitlement the caveat is registered; and
+    (ii) the time and date of the registration of the caveat; and
+    (iii) the amount (in kilogrammes) of annual catch entitlement over which the caveat is registered; and
+    (iv) the type of caveat being imposed; and
+    (v) the date (if any) on which the caveat will lapse; and
+    (vi) the date on which the caveat is withdrawn:
+  (f) every forfeiture of annual catch entitlement under this Act, including—
+    (i) the time and date of the registration of the resulting transfer to the Crown of the annual catch entitlement; and
+    (ii) the amount (in kilogrammes) of annual catch entitlement transferred to the Crown:
+  (g) all reported catch of the stock taken in the year to which the register relates and notified by the chief executive under section 80(11) of this Act:
+  (h) such other matters as may be required by regulations made under section 297 of this Act.
 (2) Each Annual Catch Entitlement Register shall contain the last known postal address of the annual catch entitlement owner and persons having a registered interest in the annual catch entitlement.
 (3) Each Annual Catch Entitlement Register shall contain corrections made under section 165 of this Act and the time and date of the corrections.
 
@@ -2758,8 +2741,8 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 
 ### 132 Transfers of individual transferable quota
 (1) No transfer of individual transferable quota for any stock shall be registered under this Act unless, at the time the transfer is to be registered,—
-  (a) The transferor owns the individual transferable quota shares to be transferred; and
-  (b) The quota shares to be transferred are not subject to any caveat or mortgage registered under this Act; and
+  (a) the transferor owns the individual transferable quota shares to be transferred; and
+  (b) the quota shares to be transferred are not subject to any caveat or mortgage registered under this Act; and
   (c) in the case of quota shares subject to a settlement quota interest registered under section 152A, the transfer is authorised by Te Ohu Kai Moana Trustee Limited under section 158 of the Maori Fisheries Act 2004; and
   (d) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire quota or is exempt from the requirement for that consent.
 (2) A part of an individual transferable quota share is not transferable.
@@ -2768,8 +2751,8 @@ A Commissioner shall be paid such fees and other allowances as the Minister may 
 
 ### 133 Transfers of annual catch entitlement
 (1) No transfer of annual catch entitlement for any stock shall be registered under this Act unless, at the time the transfer is to be registered,—
-  (a) The transferor owns the annual catch entitlement to be transferred; and
-  (b) The amount of annual catch entitlement to be transferred is not subject to any caveat registered under this Act; and
+  (a) the transferor owns the annual catch entitlement to be transferred; and
+  (b) the amount of annual catch entitlement to be transferred is not subject to any caveat registered under this Act; and
   (c) the person is not an overseas person or, if an overseas person, either has obtained consent under the overseas investment fishing provisions to acquire annual catch entitlement or is exempt from the requirement for that consent.
 (2) Subsection (4) of this section does not prevent the chief executive receiving in any fishing year a transfer of an annual catch entitlement that relates to the next fishing year and is intended to take effect on the commencement of the next fishing year, but no such forward transfer shall be registered until the commencement of that next fishing year.
 (3) A part of a kilogramme of annual catch entitlement is not transferable.
@@ -2790,8 +2773,8 @@ A transfer of annual catch entitlement may be registered at any time before the 
 (2) A mortgage of quota shares prevents the registration of any transfer of quota shares owned by the mortgagor if the transfer would reduce the number of quota shares in any stock owned by the mortgagor to a number less than the number of quota shares for that stock subject to the mortgage.
 (3) Every mortgage of quota shares shall state the number of quota shares to be charged at the time of registration of the mortgage.
 (4) Except as otherwise provided by this Act, the chief executive shall register under section 159 of this Act a mortgage of quota shares in any stock only if—
-  (a) The mortgagor owns a number of quota shares in that stock equal to or greater than the number of quota shares in that stock over which the mortgage is to be registered; and
-  (b) The number of quota shares to be mortgaged is not subject to any caveat or other mortgage registered under this Act.
+  (a) the mortgagor owns a number of quota shares in that stock equal to or greater than the number of quota shares in that stock over which the mortgage is to be registered; and
+  (b) the number of quota shares to be mortgaged is not subject to any caveat or other mortgage registered under this Act.
 (5) A mortgage under this Act shall have effect as a security, but shall not operate as a transfer of the quota shares charged.
 
 ### 137 Mortgages of annual catch entitlement prohibited
@@ -2806,18 +2789,18 @@ A mortgagee may assign to another person the mortgagee's rights, interests, and 
 ### 139 Rights of mortgagee
 (1) Without limiting the covenants, conditions, and powers that may, by agreement between the mortgagor and the mortgagee, be contained in a mortgage of quota shares, a mortgage of quota shares shall confer on the mortgagee, in the event of default by the mortgagor in the performance or observance of any covenant contained or implied in the mortgage, the power to sell in whole or in part the number of quota shares subject to the mortgage.
 (2) A power of sale under this section is subject to the following provisions:
-  (a) A mortgagee's power of sale over any provisional individual transferable quota shares is not exercisable until the provisional individual transferable quota shares become individual transferable quota shares:
-  (b) A mortgagee's power of sale over any quota shares is not exercisable if the quota is subject to a Crown caveat under section 58 or section 61 or section 214 of this Act:
+  (a) a mortgagee's power of sale over any provisional individual transferable quota shares is not exercisable until the provisional individual transferable quota shares become individual transferable quota shares:
+  (b) a mortgagee's power of sale over any quota shares is not exercisable if the quota is subject to a Crown caveat under section 58 or section 61 or section 214 of this Act:
   (c) the restrictions on a mortgagee's power of sale defined in section 140A.
 
 ### 140 Restriction on exercise of power of sale
 (1) No power conferred by any mortgage to sell any quota shares shall, subject to section 141 of this Act, become or be deemed to have become exercisable because of—unless and until the mortgagee serves on the mortgagor a notice that complies with the requirements of this section, and (in any case if the default complained of is capable of remedy) the mortgagor fails to remedy the default before the date stated in the notice.
-  (a) Any default in the payment of any money secured by any mortgage of any quota shares; or
-  (b) Any default in the performance or observance of any other covenant expressed or implied in the mortgage,—
+  (a) any default in the payment of any money secured by any mortgage of any quota shares; or
+  (b) any default in the performance or observance of any other covenant expressed or implied in the mortgage,—
 (2) Every notice under subsection (1) of this section shall inform the mortgagor of—
-  (a) The nature and extent of the default complained of; and
-  (b) The date by which the mortgagor is required to remedy the default (if it is capable of remedy); and
-  (c) The rights that the mortgagee will be entitled to exercise if the default is not remedied within the stated period.
+  (a) the nature and extent of the default complained of; and
+  (b) the date by which the mortgagor is required to remedy the default (if it is capable of remedy); and
+  (c) the rights that the mortgagee will be entitled to exercise if the default is not remedied within the stated period.
 (3) Any notice given under subsection (1) of this section that does not comply with subsection (2) of this section shall be void unless the failure does not materially prejudice the interests of the mortgagor.
 (4) The date to be stated in the notice shall be not earlier than 1 month from the service of the notice.
 (5) In addition to giving the notice under subsection (1) of this section, if any of the quota shares are subject to a caveat registered under this Act and the mortgagee has actual notice of the name and address of the caveator, the mortgagee shall forthwith, after serving notice on the quota owner, serve a copy of the notice on the caveator; but failure to comply with this subsection does not in itself prevent any of the powers referred to in subsection (1) of this section from becoming or being deemed to have become exercisable and does not prevent any money secured by a mortgage from becoming or being deemed to have become payable.
@@ -2825,8 +2808,8 @@ A mortgagee may assign to another person the mortgagee's rights, interests, and 
 (6) For the purposes of subsection (1) of this section, the entering into of a contract to sell or the granting of an option to purchase quota shares shall not be regarded as the exercise of a power of sale if the contract or option is conditional (either solely or together with other conditions) on the failure by the owner to remedy a default specified in a notice under this section served either before or after the contract is entered into or the option is granted, as the case may be.
 (7) A mortgagee who exercises a power of sale of quota shares owes a duty to the mortgagor to take reasonable care to obtain the best price reasonably obtainable as at the time of sale.
 (8) Notwithstanding any enactment or rule of law or anything contained in any deed or instrument by or under which the power of sale is conferred,—
-  (a) It is not a defence to proceedings against a mortgagee for a breach of the duty imposed by subsection (7) of this section that the mortgagee was acting as the mortgagor's agent or under a power of attorney from the mortgagor:
-  (b) A mortgagee is not entitled to compensation or indemnity from the mortgaged quota shares or the mortgagor in respect of any liability incurred by the mortgagee arising from a breach of the duty imposed by subsection (7) of this section.
+  (a) it is not a defence to proceedings against a mortgagee for a breach of the duty imposed by subsection (7) of this section that the mortgagee was acting as the mortgagor's agent or under a power of attorney from the mortgagor:
+  (b) a mortgagee is not entitled to compensation or indemnity from the mortgaged quota shares or the mortgagor in respect of any liability incurred by the mortgagee arising from a breach of the duty imposed by subsection (7) of this section.
 
 ### 140A Restriction on transfer by mortgagee
 (1) Despite sections 139 and 140, if a mortgagee exercises a power of sale over settlement quota, the mortgagee must transfer the settlement quota in accordance with sections 161 (except subsection (2)) and 163 of the Maori Fisheries Act 2004 as if the mortgagee were a mandated iwi organisation.
@@ -2845,10 +2828,10 @@ Sections 139 to 142 of this Act shall have effect notwithstanding any provision 
 
 ### 144 Application of purchase money
 The purchase money from the sale by the mortgagee of any quota shares shall be applied as follows:
-  (a) First, in payment of the expenses occasioned by the sale:
-  (b) Secondly, in payment of the money then due or owing to the mortgagee:
-  (c) Thirdly, to the Crown in payment of any levies under Part 14 of this Act that are the subject of a caveat registered over the quota:
-  (d) Fourthly, the surplus (if any) shall be paid to the mortgagor.
+  (a) first, in payment of the expenses occasioned by the sale:
+  (b) secondly, in payment of the money then due or owing to the mortgagee:
+  (c) thirdly, to the Crown in payment of any levies under Part 14 of this Act that are the subject of a caveat registered over the quota:
+  (d) fourthly, the surplus (if any) shall be paid to the mortgagor.
 
 ### 145 Transfer by mortgagee
 (1) Notwithstanding section 148 of this Act, upon the registration of any transfer executed by a mortgagee for the purpose of the sale of any quota shares by the mortgagee, ownership of the quota shares passes to and vests in the purchaser, freed and discharged from all liability on account of the mortgage.
@@ -2865,24 +2848,24 @@ The purchase money from the sale by the mortgagee of any quota shares shall be a
 
 ### 147 Types of caveats
 A caveat may, subject to section 149(2) of this Act, be registered over any quota shares or any annual catch entitlement—
-  (a) At the request of any person with the consent of the owner of those quota shares or that annual catch entitlement:
-  (b) At the direction of the chief executive under section 58 or section 61 or section 214 or section 268 of this Act:
-  (c) At the direction or order of a court in any civil proceedings.
+  (a) at the request of any person with the consent of the owner of those quota shares or that annual catch entitlement:
+  (b) at the direction of the chief executive under section 58 or section 61 or section 214 or section 268 of this Act:
+  (c) at the direction or order of a court in any civil proceedings.
 
 ### 148 Effect of caveat
 (1) While a caveat remains in force, the chief executive shall not make any entry on a register having the effect of mortgaging or transferring the quota shares, or transferring the annual catch entitlement, to which the caveat relates.
 (2) Subsection (1) of this section does not prevent the chief executive from making any entry if the caveator consents to the making of that entry, and the consent is in the approved form and relates to—
-  (a) A transfer of the caveated quota shares or annual catch entitlement, and constitutes a withdrawal of the caveat in respect of the quota shares or annual catch entitlement transferred; or
-  (b) A mortgage of the caveated quota shares.
+  (a) a transfer of the caveated quota shares or annual catch entitlement, and constitutes a withdrawal of the caveat in respect of the quota shares or annual catch entitlement transferred; or
+  (b) a mortgage of the caveated quota shares.
 
 ### 149 Caveat against transfer of quota or annual catch entitlement
 (1) If—the chief executive shall register under section 159 of this Act that caveat against the quota or annual catch entitlement if the caveat meets all the requirements of this Act for registration.
-  (a) The owner of the quota shares or annual catch entitlement concerned and any other person jointly lodge a caveat in the approved form with the chief executive; or
-  (b) A court directs or orders that a caveat be lodged; or
-  (c) The chief executive directs that a caveat be lodged under section 58 or section 61 or section 214 or section 268 of this Act,—
+  (a) the owner of the quota shares or annual catch entitlement concerned and any other person jointly lodge a caveat in the approved form with the chief executive; or
+  (b) a court directs or orders that a caveat be lodged; or
+  (c) the chief executive directs that a caveat be lodged under section 58 or section 61 or section 214 or section 268 of this Act,—
 (2) Except as otherwise provided by this Act, chief executive shall register under section 159 of this Act a caveat over quota shares or annual catch entitlement, as the case may be, only if—
-  (a) The person whose quota shares or annual catch entitlement is being caveated owns a number of quota shares or an amount of annual catch entitlement, as the case may be, in the relevant stock equal to or greater than the number of quota shares or amount of annual catch entitlement over which the caveat is to be registered; and
-  (b) In the case of a caveat lodged under subsection (1)(a) of this section, the quota shares or annual catch entitlement to be the subject of the caveat are not already subject to any other caveat registered under this Act.
+  (a) the person whose quota shares or annual catch entitlement is being caveated owns a number of quota shares or an amount of annual catch entitlement, as the case may be, in the relevant stock equal to or greater than the number of quota shares or amount of annual catch entitlement over which the caveat is to be registered; and
+  (b) in the case of a caveat lodged under subsection (1)(a) of this section, the quota shares or annual catch entitlement to be the subject of the caveat are not already subject to any other caveat registered under this Act.
 
 ### 150 Caveat may be withdrawn
 (1) Any caveat may, either as to the whole or any part of the quota or annual catch entitlement protected by the caveat, be withdrawn by the person whose interests are protected by the caveat or by the person's attorney or agent under a written authority.
@@ -2892,10 +2875,10 @@ A caveat may, subject to section 149(2) of this Act, be registered over any quot
 ### 151 Procedure for removal of caveat
 (1) The owner of quota or annual catch entitlement against which a caveat has been lodged may apply to any court for an order that the caveat be removed.
 (2) The Court, upon proof that notice of the application has been served on the caveator or the person on whose behalf the caveat has been lodged, may—
-  (a) Order that the caveat be removed entirely:
-  (b) Order that the caveat be removed in part or in respect of any particular transaction:
-  (c) Impose such sureties and conditions as it thinks fit:
-  (d) Make such other orders in respect of the caveat as it thinks fit.
+  (a) order that the caveat be removed entirely:
+  (b) order that the caveat be removed in part or in respect of any particular transaction:
+  (c) impose such sureties and conditions as it thinks fit:
+  (d) make such other orders in respect of the caveat as it thinks fit.
 (3) This section does not apply to caveats imposed under section 58 or section 61 or section 214 of this Act.
 
 ### 152 Person entering or maintaining caveat without due cause liable for damages
@@ -2943,8 +2926,8 @@ The chief executive must register a settlement quota interest against the quota 
 
 ### 154 Effect of alteration of quota management area
 (1) If one or more quota management areas are altered under section 25 of this Act,—
-  (a) Any mortgage or caveat over any quota that is cancelled as a result of the alteration shall cease to apply to the cancelled quota and shall instead apply to the new quota allocated to the quota owner concerned as a result of that alteration; and
-  (b) The number of new quota shares to be charged or caveated shall bear the same proportion to the quota owner's total shareholding of those shares as the number of shares charged or caveated immediately before the alteration bore to the quota owner's total shareholding for the areas affected by the alteration.
+  (a) any mortgage or caveat over any quota that is cancelled as a result of the alteration shall cease to apply to the cancelled quota and shall instead apply to the new quota allocated to the quota owner concerned as a result of that alteration; and
+  (b) the number of new quota shares to be charged or caveated shall bear the same proportion to the quota owner's total shareholding of those shares as the number of shares charged or caveated immediately before the alteration bore to the quota owner's total shareholding for the areas affected by the alteration.
 (2) The chief executive shall make on the register any entry necessary to show that the quota has been transferred in accordance with section 26 of this Act, and alter any relevant mortgage or caveat accordingly.
 (3) Subject to subsections (1) and (2) of this section, an alteration of one or more quota management areas does not affect any rights under a caveat or mortgage of quota shares.
 
@@ -2958,10 +2941,10 @@ Every transaction registered under this Act shall be deemed to have been registe
 
 ### 157 Application for registration
 Every application to register a transaction shall—
-  (a) Be made by presenting to the chief executive an instrument in the approved form (if any); and
-  (b) Contain such particulars as are specified in the approved form (if any); and
-  (c) Be executed in the manner specified in the approved form (if any); and
-  (d) Be accompanied by the prescribed fee (if any).
+  (a) be made by presenting to the chief executive an instrument in the approved form (if any); and
+  (b) contain such particulars as are specified in the approved form (if any); and
+  (c) be executed in the manner specified in the approved form (if any); and
+  (d) be accompanied by the prescribed fee (if any).
 
 ### 158 Priority according to time of registration
 (1) Instruments presented for registration under this Act shall be registered in the chronological order in which they are received by the chief executive; and, for the purposes of determining the chronological order of instruments received at the same or different places, the time recorded by the chief executive as having received the instrument is conclusive as to the order in which an instrument was received.
@@ -2969,20 +2952,20 @@ Every application to register a transaction shall—
 
 ### 159 Registration procedure
 (1) On receipt of an application that complies with section 157 of this Act and is completed to the satisfaction of the chief executive, the chief executive shall—
-  (a) Record in the appropriate register the particulars set out in the instrument required by this Act to be registered and the time at which the particulars are so recorded; and
-  (b) Issue, a registration notice as to the particulars recorded under paragraph (a) of this section; and
-  (c) Forward the registration notice to the person who presented the instrument for registration and forward duplicates of the notice to each of the other parties to the transaction; and
-  (d) If a caveat is registered over any quota shares, give notice of the registration of the caveat to the owner (if not otherwise notified) and any mortgagee of those shares and to any other caveator of those shares; and
-  (e) If a caveat is registered over any annual catch entitlement, give notice of the registration of the caveat to the owner (if not otherwise notified) and any other caveator of that annual catch entitlement.
+  (a) record in the appropriate register the particulars set out in the instrument required by this Act to be registered and the time at which the particulars are so recorded; and
+  (b) issue, a registration notice as to the particulars recorded under paragraph (a) of this section; and
+  (c) forward the registration notice to the person who presented the instrument for registration and forward duplicates of the notice to each of the other parties to the transaction; and
+  (d) if a caveat is registered over any quota shares, give notice of the registration of the caveat to the owner (if not otherwise notified) and any mortgagee of those shares and to any other caveator of those shares; and
+  (e) if a caveat is registered over any annual catch entitlement, give notice of the registration of the caveat to the owner (if not otherwise notified) and any other caveator of that annual catch entitlement.
 (2) For the purposes of subsection (1)(c), the mortgagor is treated as a party to a transaction that is an assignment.
 
 ### 160 Provisions relating to defective applications for registration
 (1) If—is found not to be in order for the purposes of registration, the chief executive may return that document or those other documents to the person by whom they were lodged or, if that person is not available, to such other person as may, in the opinion of the chief executive, be entitled to receive them.
-  (a) Any document relating to a transaction lodged for registration; or
-  (b) Any document presented for registration together with any other documents—
+  (a) any document relating to a transaction lodged for registration; or
+  (b) any document presented for registration together with any other documents—
 (2) Before returning any documents in accordance with subsection (1) of this section,—
-  (a) The chief executive shall make a copy of every document returned; and
-  (b) Shall file the copy in the chief executive's office.
+  (a) the chief executive shall make a copy of every document returned; and
+  (b) shall file the copy in the chief executive's office.
 (3) If any documents are returned as provided in subsection (1) of this section, those documents shall be deemed not to have been presented for registration but the fee (if any) paid to the chief executive in respect of them shall be forfeit.
 
 **Acquisitions by operation of law**
@@ -2999,9 +2982,9 @@ Every application to register a transaction shall—
 
 ### 163 Chief executive may transfer quota or annual catch entitlement
 (1) The power of the chief executive to transfer any quota shares or annual catch entitlement to the Crown or any other person as a consequence of—may be exercised notwithstanding the existence of any mortgage or caveat or settlement quota interest over any quota shares or annual catch entitlement.
-  (a) A reduction in the total allowable commercial catch under section 22 of this Act or an increase in the total allowable commercial catch under section 23 of this Act; or
-  (b) The determination of any appeal under section 51; or
-  (c) Any forfeiture to the Crown of any quota shares or annual catch entitlement—
+  (a) a reduction in the total allowable commercial catch under section 22 of this Act or an increase in the total allowable commercial catch under section 23 of this Act; or
+  (b) the determination of any appeal under section 51; or
+  (c) any forfeiture to the Crown of any quota shares or annual catch entitlement—
 (2) The chief executive shall make on the register any entry necessary to show that any quota shares or annual catch entitlement have been transferred in accordance with this section, and alter any relevant mortgage or caveat or settlement quota interest accordingly.
 
 **Correction of registers**
@@ -3009,19 +2992,19 @@ Every application to register a transaction shall—
 ### 164 Application for correction of register
 (1) A person who presents an instrument for registration under section 157 of this Act and any other person having a registered interest in the quota shares or annual catch entitlement to which the instrument applies may apply to the chief executive to correct the record on the register of the particulars set out in the instrument on the grounds that the register does not record accurately those particulars or is incorrect for any other reason specified for the purpose in any regulations made under section 297 of this Act.
 (2) Every application made under subsection (1) of this section shall—
-  (a) Be made within 14 days after the registration notice issued under section 159(b) of this Act is forwarded to that person; and
-  (b) Be in the approved form (if any); and
-  (c) Include a copy of the registration notice issued under section 159(b) of this Act that relates to the record on the register to which the application relates.
+  (a) be made within 14 days after the registration notice issued under section 159(b) of this Act is forwarded to that person; and
+  (b) be in the approved form (if any); and
+  (c) include a copy of the registration notice issued under section 159(b) of this Act that relates to the record on the register to which the application relates.
 
 ### 165 Correction of register
 (1) If, upon receipt of an application under section 164 of this Act, the chief executive is satisfied that the register does not record accurately the particulars set out in the instrument to which the application relates or is incorrect for any other reason specified for the purpose in any regulations made under section 297 of this Act, the chief executive shall correct the register accordingly and—
-  (a) Record on the register the nature of the correction and the time at which the correction was made; and
-  (b) Notify the person who made the application under section 164 of this Act, and any other person whom the chief executive considers will be affected, of the correction.
+  (a) record on the register the nature of the correction and the time at which the correction was made; and
+  (b) notify the person who made the application under section 164 of this Act, and any other person whom the chief executive considers will be affected, of the correction.
 (2) If the chief executive is satisfied that the register does not record accurately the particulars set out in the instrument to which the record on the register relates or, subject to any regulations made under section 297 of this Act, is for any other reason incorrect, the chief executive may, of the chief executive's own motion, after notifying those persons whom the chief executive considers will be affected, correct the register accordingly and record on the register the nature of the correction and the time at which the correction was made.
 (3) Without limiting the generality of subsection (2) of this section, the power conferred by that subsection is exercisable if—
-  (a) A registration notice has been issued in error or an entry or endorsement has been made in error:
-  (b) A misdescription has occurred in any entry in the register or any registration notice issued under section 159(b) of this Act:
-  (c) An instrument has been obtained fraudulently or wrongfully, or retained fraudulently or wrongfully.
+  (a) a registration notice has been issued in error or an entry or endorsement has been made in error:
+  (b) a misdescription has occurred in any entry in the register or any registration notice issued under section 159(b) of this Act:
+  (c) an instrument has been obtained fraudulently or wrongfully, or retained fraudulently or wrongfully.
 (4) No correction may be made under this section to the extent that the correction prejudices any bona fide purchaser for value, or any mortgagee for valuable consideration, unless that person makes a statutory declaration confirming his or her consent to the correction of the register.
 
 ### 166 Certified copies of register to be evidence
@@ -3037,38 +3020,38 @@ Every application to register a transaction shall—
 ### 168 Guarantee of ownership rights
 (1) The production of a certified copy in hard copy form signed by or on behalf of the chief executive, and sealed with the chief executive's seal, of a record in any register kept under this Part of this Act as to the ownership of any individual transferable quota, shall be held in every court of law or equity and for all purposes to be conclusive proof that the owner shown in the certified copy was, as at the time of the issue of the certified copy, owner of the quota to which the certified copy relates.
 (2) Subsection (1) of this section does not apply in respect of any action brought by any person deprived of rights in relation to any quota or of any rights as mortgagee of any quota, by fraud, as against—
-  (a) The person registered as owner of the quota through fraud; or
-  (b) A person deriving otherwise than as a transferee bona fide for value from, or through, a person registered as owner of the quota through fraud.
+  (a) the person registered as owner of the quota through fraud; or
+  (b) a person deriving otherwise than as a transferee bona fide for value from, or through, a person registered as owner of the quota through fraud.
 (3) Subsection (1) of this section does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
 
 **Protection of purchasers**
 
 ### 169 Purchasers and mortgagees not affected by notice
 (1) Notwithstanding any rule of law or equity, except in the case of fraud, no purchaser or mortgagee of any individual transferable quota, and no person proposing to purchase or be a mortgagee of any such quota,—
-  (a) Is required—
-    (i) To inquire into or ascertain the circumstances in which or the consideration for which that owner or any previous owner is or was registered; or
-    (ii) To see to the application of the purchase money, or of any part of it; or
-  (b) Is affected by notice, direct or constructive, of any trust or unregistered interest, and the knowledge that any such trust or unregistered interest is in existence is not of itself to be imputed as fraud.
+  (a) is required—
+    (i) to inquire into or ascertain the circumstances in which or the consideration for which that owner or any previous owner is or was registered; or
+    (ii) to see to the application of the purchase money, or of any part of it; or
+  (b) is affected by notice, direct or constructive, of any trust or unregistered interest, and the knowledge that any such trust or unregistered interest is in existence is not of itself to be imputed as fraud.
 (2) This section does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
 
 ### 170 No liability on bona fide purchaser or mortgagee
 (1) This section applies to—
-  (a) Any person who has acquired ownership of any individual transferable quota as a bona fide purchaser for value and is registered as owner under this Act; and
-  (b) Any person to whom a mortgage of any individual transferable quota has been granted in accordance with this Act, as a mortgagee bona fide for value, and who is registered as a mortgagee under this Act.
+  (a) any person who has acquired ownership of any individual transferable quota as a bona fide purchaser for value and is registered as owner under this Act; and
+  (b) any person to whom a mortgage of any individual transferable quota has been granted in accordance with this Act, as a mortgagee bona fide for value, and who is registered as a mortgagee under this Act.
 (2) No person to whom this section applies shall be subject to any action for recovery of damages, or be deprived of the rights as registered owner of the quota, or, as the case may be, of that person's interest as mortgagee, on the ground that the vendor from whom the registered owner so acquired the quota or, as the case may require, the mortgagor of the quota—
-  (a) May have been registered as owner through fraud or error, or under any void or voidable instrument; or
-  (b) May have derived from a person registered as owner through fraud or error, or under any void or voidable instrument.
+  (a) may have been registered as owner through fraud or error, or under any void or voidable instrument; or
+  (b) may have derived from a person registered as owner through fraud or error, or under any void or voidable instrument.
 (3) This section does not apply in respect of provisional individual transferable quota, annual catch entitlement, or provisional catch history.
 
 **Compensation**
 
 ### 171 Compensation for mistake or wrongdoing in keeping Quota Register
 (1) This section applies to any person who—and who, by virtue of section 168 or section 170, is unable to bring an action in respect of that quota or that interest as owner or mortgagee, as the case may be.
-  (a) Sustains loss or damage through any omission, mistake, or wrongdoing of the chief executive or, as the case may be, an approved service delivery organisation who is responsible under this Act for keeping the Quota Register, in the exercise of functions connected with the keeping of the Quota Register or
-  (b) Is deprived of the rights in respect of which the person is registered as owner or mortgagee of any individual transferable quota—
-    (i) By the registration of any other person as the owner or as mortgagee, as the case may be; or
-    (ii) By any error, omission, or misdescription in any record in respect of such quota kept by the chief executive or, as the case may be, an approved service delivery organisation who is responsible for keeping the quota Register, or in any entry or memorial in the Quota Register; or
-  (c) Sustains any loss or damage by the wrongful inclusion in any such record of a statement about ownership or any mortgage or quota,—
+  (a) sustains loss or damage through any omission, mistake, or wrongdoing of the chief executive or, as the case may be, an approved service delivery organisation who is responsible under this Act for keeping the Quota Register, in the exercise of functions connected with the keeping of the Quota Register or
+  (b) is deprived of the rights in respect of which the person is registered as owner or mortgagee of any individual transferable quota—
+    (i) by the registration of any other person as the owner or as mortgagee, as the case may be; or
+    (ii) by any error, omission, or misdescription in any record in respect of such quota kept by the chief executive or, as the case may be, an approved service delivery organisation who is responsible for keeping the quota Register, or in any entry or memorial in the Quota Register; or
+  (c) sustains any loss or damage by the wrongful inclusion in any such record of a statement about ownership or any mortgage or quota,—
 (1A) A person to whom this section applies may bring an action for recovery of damages against—
   (a) the Crown, if the register was kept by the chief executive at the relevant time; or
   (b) the approved service delivery organisation, if the functions, duties, and powers connected with the keeping of the register were performed or exercised by that organisation under section 296B at the relevant time.
@@ -3077,13 +3060,13 @@ Every application to register a transaction shall—
 
 ### 172 Notice of action to be served on Attorney-General and Registrar
 (1) Notice in writing of—shall be served upon the Attorney-General, and also upon the Registrar, at least 20 working days before the commencement of the action, and the Registrar shall notify the chief executive of any such action served on the Registrar.
-  (a) Every action against the Crown under section 171(1A)(a) of this Act; and
-  (b) The cause of the action; and
-  (c) The amount claimed—
+  (a) every action against the Crown under section 171(1A)(a) of this Act; and
+  (b) the cause of the action; and
+  (c) the amount claimed—
 (2) If those officers concur that the claim ought to be admitted, as to the whole or any part of the claim, without suit or action, and jointly certify to that effect, the amount of the claim may, without further appropriation than this section, be paid, out of public money appropriated by Parliament, in whole or in part to the person entitled to that amount in accordance with the certificate.
 (3) If, after notice of the admission has been served on the claimant, or the solicitor or agent of the claimant, the claimant proceeds with the action, and recovers no more than the amount admitted, the claimant—
-  (a) Shall not be entitled to recover any costs as against the Crown; and
-  (b) Shall be liable to the Crown for the costs of defending the action in the same manner as if judgment had been given for the defendant in the action.
+  (a) shall not be entitled to recover any costs as against the Crown; and
+  (b) shall be liable to the Crown for the costs of defending the action in the same manner as if judgment had been given for the defendant in the action.
 
 ### 173 Recovery of compensation paid and costs in case of fraud
 (1) If any sum of money has been lawfully paid out of public money as compensation for any loss occasioned by fraud on the part of any person causing or procuring that person to be registered as the owner of any individual transferable quota or as mortgagee of such quota, as the case may be, by virtue of any dealing with or transmission from a registered owner, the amount of that compensation, together with all costs incurred in testing or defending any claim or action in relation to that compensation, shall be deemed to be a statutory debt due to the Crown from the person legally responsible for that fraud and may be recovered from that person, or from that person's personal representatives, by action at law, in the name of the chief executive, or, in the case of bankruptcy, may be proved as a debt due from that person's estate.
@@ -3095,8 +3078,8 @@ Every application to register a transaction shall—
 
 ### 174 Object
 The object of sections 175 to 185 of this Act is to make, in relation to areas of New Zealand fisheries waters (being estuarine or littoral coastal waters) that have customarily been of special significance to any iwi or hapu either—better provision for the recognition of rangatiratanga and of the right secured in relation to fisheries by Article II of the Treaty of Waitangi.
-  (a) As a source of food; or
-  (b) For spiritual or cultural reasons,—
+  (a) as a source of food; or
+  (b) for spiritual or cultural reasons,—
 
 ### 175 Declaration of taiapure-local fisheries
 Subject to section 176 of this Act, the Governor-General may from time to time, by Order in Council, declare any area of New Zealand fisheries waters (which waters are estuarine waters or littoral coastal waters) to be a taiapure-local fishery.
@@ -3104,26 +3087,26 @@ Subject to section 176 of this Act, the Governor-General may from time to time, 
 ### 176 Provisions relating to order under section 175
 (1) An order under section 175 of this Act may be made only on a recommendation made by the Minister in accordance with sections 177 to 185 of this Act.
 (2) The Minister shall not recommend the making of an order under section 175 of this Act unless the Minister is satisfied both—
-  (a) That the order will further the object set out in section 174 of this Act; and
-  (b) That the making of the order is appropriate having regard to—
-    (i) The size of the area of New Zealand fisheries waters that would be declared by the order to be a taiapure-local fishery; and
-    (ii) The impact of the order on the general welfare of the community in the vicinity of the area that would be declared by the order to be a taiapure-local fishery; and
-    (iii) The impact of the order on those persons having a special interest in the area that would be declared by the order to be a taiapure-local fishery; and
-    (iv) The impact of the order on fisheries management.
+  (a) that the order will further the object set out in section 174 of this Act; and
+  (b) that the making of the order is appropriate having regard to—
+    (i) the size of the area of New Zealand fisheries waters that would be declared by the order to be a taiapure-local fishery; and
+    (ii) the impact of the order on the general welfare of the community in the vicinity of the area that would be declared by the order to be a taiapure-local fishery; and
+    (iii) the impact of the order on those persons having a special interest in the area that would be declared by the order to be a taiapure-local fishery; and
+    (iv) the impact of the order on fisheries management.
 
 ### 177 Proposal for establishment of taiapure-local fishery
 (1) Any person may submit to the chief executive a proposal for the establishment of a taiapure-local fishery.
 (2) The proposal shall—
-  (a) Contain a description of the proposed taiapure-local fishery, which description shall include particulars of the location, area, and boundaries of the proposed taiapure-local fishery; and
-  (b) Describe—
+  (a) contain a description of the proposed taiapure-local fishery, which description shall include particulars of the location, area, and boundaries of the proposed taiapure-local fishery; and
+  (b) describe—
     (i) Maori, traditional, recreational, commercial, and other interests in the proposed taiapure-local fishery; and
-    (ii) The species of fish, aquatic life, or seaweed in the proposed taiapure-local fishery that are of particular importance or interest.
+    (ii) the species of fish, aquatic life, or seaweed in the proposed taiapure-local fishery that are of particular importance or interest.
 (3) The proposal shall—
-  (a) State why the area to which the proposal relates has customarily been of special significance to an iwi or hapu either—
-    (i) As a source of food; or
-    (ii) For spiritual or cultural reasons:
-  (b) Set out the policies and objectives of the proposal:
-  (c) Contain such other particulars as the chief executive considers appropriate.
+  (a) state why the area to which the proposal relates has customarily been of special significance to an iwi or hapu either—
+    (i) as a source of food; or
+    (ii) for spiritual or cultural reasons:
+  (b) set out the policies and objectives of the proposal:
+  (c) contain such other particulars as the chief executive considers appropriate.
 
 ### 178 Initial consideration of proposal
 (1) The chief executive shall refer to the Minister every proposal submitted to the chief executive in accordance with section 177 of this Act.
@@ -3135,19 +3118,19 @@ Subject to section 176 of this Act, the Governor-General may from time to time, 
 ### 179 Notice of proposal
 (1) The notice authorised under section 178(2) of this Act shall be published at least twice, with an interval of not less than 7 days between each notification of the proposal, in the metropolitan newspapers and in a newspaper circulating in the locality of the area to which the proposal relates.
 (2) A copy of the proposal shall be deposited in—
-  (a) The office of the Maori Land Court nearest to the locality of the area to which the proposal relates; and
-  (b) The Ministry's head office; and
-  (c) The office of the territorial authority for the area to which the proposal relates; and
-  (d) The office of the regional council for the area to which the proposal relates.
+  (a) the office of the Maori Land Court nearest to the locality of the area to which the proposal relates; and
+  (b) the Ministry's head office; and
+  (c) the office of the territorial authority for the area to which the proposal relates; and
+  (d) the office of the regional council for the area to which the proposal relates.
 
 ### 180 Objections to, and submissions on, proposal
 (1) Any person or any public authority, local authority, or body specifically constituted by or under any Act, and any Minister of the Crown, which or who has any function, power, or duty which relates to, or which or who is or could be affected by, any aspect of the proposed taiapure-local fishery may, within 2 months of the publication in the Gazette of the proposal, lodge at the office of the Maori Land Court specified under section 178(4) of this Act—
-  (a) An objection to the proposal; or
-  (b) Submissions in relation to the proposal; or
-  (c) Both.
+  (a) an objection to the proposal; or
+  (b) submissions in relation to the proposal; or
+  (c) both.
 (2) Any such objection and any such submissions shall—
-  (a) Identify the grounds on which the objections or submissions are made; and
-  (b) Be supplemented by such particulars and information as the Registrar of the Maori Land Court notifies the applicant the Registrar of the Maori Land Court considers necessary to sufficiently identify the grounds of the objection or the submissions.
+  (a) identify the grounds on which the objections or submissions are made; and
+  (b) be supplemented by such particulars and information as the Registrar of the Maori Land Court notifies the applicant the Registrar of the Maori Land Court considers necessary to sufficiently identify the grounds of the objection or the submissions.
 
 ### 181 Inquiry by tribunal
 (1) A public inquiry shall be conducted into all objections and submissions received under section 180 of this Act.
@@ -3158,22 +3141,22 @@ Subject to section 176 of this Act, the Governor-General may from time to time, 
 (6) The person who submitted the proposal to the chief executive, the Minister, any regional council or local authority whose region or district is affected by the proposal, and every body and person which or who made submissions on or objected to the proposal under section 180 of this Act, shall have the right to be present and be heard at every inquiry conducted by the tribunal under this section, and may be represented by counsel or other duly authorised representative.
 (7) A tribunal appointed under this section may, if the Chief Judge of the Maori Land Court so directs, conduct any 2 or more inquiries together notwithstanding that they relate to different areas or different parts of any area.
 (8) On completion of the inquiry, the tribunal shall, having regard to the provisions of section 176(2) of this Act,—
-  (a) Make a report and recommendations to the Minister on the objections and submissions made to it, which report and recommendations may include recommended amendments to the proposal; or
-  (b) Recommend to the Minister that no action be taken as a result of the objections and submissions made to it.
+  (a) make a report and recommendations to the Minister on the objections and submissions made to it, which report and recommendations may include recommended amendments to the proposal; or
+  (b) recommend to the Minister that no action be taken as a result of the objections and submissions made to it.
 (9) The Minister, after taking into account the report and recommendations of the tribunal and after having regard to the provisions of section 176(2) of this Act, and after consultation with the Minister of Maori Affairs,—
-  (a) May—
-    (i) Accept those recommendations; or
-    (ii) Decline to accept all or any of those recommendations; and
-  (b) Shall publish in the Gazette—
-    (i) The report and recommendations of the tribunal; and
-    (ii) The decision of the Minister on the report and recommendations of the tribunal.
+  (a) may—
+    (i) accept those recommendations; or
+    (ii) decline to accept all or any of those recommendations; and
+  (b) shall publish in the Gazette—
+    (i) the report and recommendations of the tribunal; and
+    (ii) the decision of the Minister on the report and recommendations of the tribunal.
 (10) Subject to section 182 of this Act, no appeal shall lie from any report or recommendation or decision made under this section.
 
 ### 182 Appeal on question of law
 If any party to any proceedings under section 181 of this Act before a tribunal appointed under that section is dissatisfied with the report or any recommendation of the tribunal as being erroneous in point of law, that party may appeal to the High Court by way of case stated for the opinion of the Court on a question of law only, and the provisions of sections 299 and 308 of the Resource Management Act 1991 shall, with any necessary modifications, apply in respect of the report or recommendation in the same manner as they apply in respect of a decision of the Environment Court under that Act.
 
 ### 183 Power of Minister to recommend declaration of taiapure-local fishery
-If a proposal for the establishment of a taiapure-local fishery has been made under section 177 of this Act and either any proceedings in relation to that proposal (including any proceedings taken under sections 180 to 182 of this Act in relation to that proposal) have been disposed of or the time for taking any such proceedings has expired, the Minister shall, if satisfied that a recommendation should be made under section 176(1) of this Act, make that recommendation accordingly.
+If a proposal for the establishment of a taiapure-local fishery has been made under section 177 of this Act and either any proceedings in relation to that proposal (including any proceedings taken under sections 180 to 182 of this Act in relation to that proposal) have been disposed of or the time for taking any such proceedings has expired, the Minister shall, if satisfied that a recommendation should be made under 1section 76(1) of this Act, make that recommendation accordingly.
 
 ### 184 Management of taiapure-local fishery
 (1) The Minister, after consultation with the Minister of Maori Affairs, shall appoint a committee of management for each taiapure-local fishery.
@@ -3187,69 +3170,69 @@ If a proposal for the establishment of a taiapure-local fishery has been made un
 (3) Except to the extent that any regulations made under any section referred to in subsection (1) of this section, and made pursuant to a recommendation under that subsection, override or are otherwise inconsistent with the provisions of any other regulations made under that section, those provisions shall apply in relation to every taiapure-local fishery.
 (4) Any provision of regulations made under any section referred to in subsection (1) of this section, and made pursuant to a recommendation under that subsection, that relates only to a taiapure-local fishery may be made only in accordance with subsection (1) of this section.
 (5) No regulations made under any section referred to in subsection (1) of this section, and made pursuant to a recommendation under that subsection, shall provide for any person—because of the colour, race, or ethnic or national origins of that person or of any relative or associate of that person.
-  (a) To be refused access to, or the use of, any taiapure-local fishery; or
-  (b) To be required to leave or cease to use any taiapure-local fishery,—
+  (a) to be refused access to, or the use of, any taiapure-local fishery; or
+  (b) to be required to leave or cease to use any taiapure-local fishery,—
 
 **Customary fishing**
 
 ### 186 Regulations relating to customary fishing
 (1) The Governor-General may from time to time, by Order in Council, make regulations recognising and providing for customary food gathering by Maori and the special relationship between tangata whenua and places of importance for customary food gathering (including tauranga ika and mahinga mataitai), to the extent that such food gathering is neither commercial in any way nor for pecuniary gain or trade.
 (2) Without limiting the generality of subsection (1) of this section, regulations made under that subsection may—
-  (a) Declare the relationship between such regulations and general fishing regulations and regulations relating to taiapure-local fisheries; and declare that the first-mentioned regulations are to prevail over the other regulations:
-  (b) Empower the Minister to declare, by notice in the Gazette, any part of New Zealand fisheries waters to be a mataitai reserve; and any such regulations shall require that, before any such notice is given, the Minister and the tangata whenua shall consult with the local community and the Minister shall have regard to the need to ensure sustainability in relation to the reserve:
-  (c) Provide for such matters as may be necessary or desirable to achieve the purpose of this Act in relation to mataitai reserves, including general restrictions and prohibitions in respect of the taking of fish, aquatic life, or seaweed:
-  (d) Empower any Maori Committee constituted by or under the Maori Community Development Act 1962, any marae committee, or any kaitiaki of the tangata whenua to make bylaws restricting or prohibiting the taking of fish, aquatic life, or seaweed:
-  (e) Empower any such Maori Committee, marae committee, or kaitiaki to allow the taking of fish, aquatic life, or seaweed to continue for purposes which sustain the functions of the marae concerned, notwithstanding any such bylaws.
+  (a) declare the relationship between such regulations and general fishing regulations and regulations relating to taiapure-local fisheries; and declare that the first-mentioned regulations are to prevail over the other regulations:
+  (b) empower the Minister to declare, by notice in the Gazette, any part of New Zealand fisheries waters to be a mataitai reserve; and any such regulations shall require that, before any such notice is given, the Minister and the tangata whenua shall consult with the local community and the Minister shall have regard to the need to ensure sustainability in relation to the reserve:
+  (c) provide for such matters as may be necessary or desirable to achieve the purpose of this Act in relation to mataitai reserves, including general restrictions and prohibitions in respect of the taking of fish, aquatic life, or seaweed:
+  (d) empower any Maori Committee constituted by or under the Maori Community Development Act 1962, any marae committee, or any kaitiaki of the tangata whenua to make bylaws restricting or prohibiting the taking of fish, aquatic life, or seaweed:
+  (e) empower any such Maori Committee, marae committee, or kaitiaki to allow the taking of fish, aquatic life, or seaweed to continue for purposes which sustain the functions of the marae concerned, notwithstanding any such bylaws.
 (3) The following provisions apply in relation to bylaws made under regulations made under subsection (2)(d) of this section:
-  (a) Every restriction and every prohibition imposed on individuals by such bylaws shall apply generally to all individuals:
-  (b) Bylaws shall not come into force until they have been approved by the Minister and have been published in the Gazette:
-  (c) The publication in the Gazette of bylaws purporting to have been approved under this subsection shall be conclusive evidence that the bylaws have been duly made and approved under this section.
+  (a) every restriction and every prohibition imposed on individuals by such bylaws shall apply generally to all individuals:
+  (b) bylaws shall not come into force until they have been approved by the Minister and have been published in the Gazette:
+  (c) the publication in the Gazette of bylaws purporting to have been approved under this subsection shall be conclusive evidence that the bylaws have been duly made and approved under this section.
 
 ### 186A Temporary closure of fishing area or restriction on fishing methods
 (1) The Minister may from time to time, by notice in the Gazette,—
-  (a) Temporarily close any area of New Zealand fisheries waters (other than South Island fisheries waters as defined in section 186B(9)) in respect of any species of fish, aquatic life, or seaweed; or
-  (b) Temporarily restrict or prohibit the use of any fishing method in respect of any area of New Zealand fisheries waters (other than South Island fisheries waters as defined in section 186B(9)) and any species of fish, aquatic life, or seaweed.
+  (a) temporarily close any area of New Zealand fisheries waters (other than South Island fisheries waters as defined in section 186B(9)) in respect of any species of fish, aquatic life, or seaweed; or
+  (b) temporarily restrict or prohibit the use of any fishing method in respect of any area of New Zealand fisheries waters (other than South Island fisheries waters as defined in section 186B(9)) and any species of fish, aquatic life, or seaweed.
 (2) The Minister may impose such a closure, restriction, or prohibition only if he or she is satisfied that it will recognise and make provision for the use and management practices of tangata whenua in the exercise of non-commercial fishing rights by—
-  (a) Improving the availability or size (or both) of a species of fish, aquatic life, or seaweed in the area subject to the closure, restriction, or prohibition; or
-  (b) Recognising a customary fishing practice in that area.
+  (a) improving the availability or size (or both) of a species of fish, aquatic life, or seaweed in the area subject to the closure, restriction, or prohibition; or
+  (b) recognising a customary fishing practice in that area.
 (3) Before imposing a fishing method restriction or prohibition under subsection (1)(b), the Minister must be satisfied that the method is having an adverse effect on the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
 (4) A notice given under subsection (1) must be publicly notified.
 (5) A notice given under subsection (1)—
-  (a) May not be in force beyond 2 years after the date of its notification in the Gazette:
-  (b) Subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
+  (a) may not be in force beyond 2 years after the date of its notification in the Gazette:
+  (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
 (6) Nothing in subsection (5)(a) prevents a further notice being given under subsection (1) in respect of any species and area before or on or about the expiry of an existing notice that relates to that species and area.
 (7) Before giving a notice under subsection (1), the Minister must—
-  (a) Consult such persons as the Minister considers are representative of persons having an interest in the species concerned or in the effects of fishing in the area concerned, including tangata whenua, environmental, commercial, recreational, and local community interests; and
-  (b) Provide for the input and participation in the decision-making process of tangata whenua with a non-commercial interest in the species or the effects of fishing in the area concerned, having particular regard to kaitiakitanga.
+  (a) consult such persons as the Minister considers are representative of persons having an interest in the species concerned or in the effects of fishing in the area concerned, including tangata whenua, environmental, commercial, recreational, and local community interests; and
+  (b) provide for the input and participation in the decision-making process of tangata whenua with a non-commercial interest in the species or the effects of fishing in the area concerned, having particular regard to kaitiakitanga.
 (8) A person commits an offence who, in contravention of a notice given under subsection (1),—
-  (a) Takes any fish, aquatic life, or seaweed from a closed area: or
-  (b) Takes any fish, aquatic life, or seaweed using a prohibited fishing method.
+  (a) takes any fish, aquatic life, or seaweed from a closed area: or
+  (b) takes any fish, aquatic life, or seaweed using a prohibited fishing method.
 (9) A person who commits an offence against subsection (8)—
-  (a) Is liable to the penalty specified in section 252(6) if—
-    (i) The person is an individual other than a commercial fisher; and
-    (ii) The person satisfies the court that the fish, aquatic life, or seaweed was taken otherwise than for the purpose of sale:
-  (b) Is liable to the penalty specified in section 252(5) in every other case.
+  (a) is liable to the penalty specified in section 252(6) if—
+    (i) the person is an individual other than a commercial fisher; and
+    (ii) the person satisfies the court that the fish, aquatic life, or seaweed was taken otherwise than for the purpose of sale:
+  (b) is liable to the penalty specified in section 252(5) in every other case.
 
 ### 186B Temporary closure of fisheries
 (1) The chief executive may from time to time, by notice in the Gazette,—
-  (a) Temporarily close any area of South Island fisheries waters in respect of any species of fish, aquatic life, or seaweed; or
-  (b) Temporarily restrict or prohibit the use of any fishing method in respect of any area of South Island fisheries waters and any species of fish, aquatic life, or seaweed.
+  (a) temporarily close any area of South Island fisheries waters in respect of any species of fish, aquatic life, or seaweed; or
+  (b) temporarily restrict or prohibit the use of any fishing method in respect of any area of South Island fisheries waters and any species of fish, aquatic life, or seaweed.
 (2) The chief executive may impose such a closure, restriction, or prohibition only if the chief executive considers that—
-  (a) It is likely to assist in replenishing the stock of the species of fish, aquatic life, or seaweed in the area concerned; or
-  (b) It is likely to assist in recognising and making provision for the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
+  (a) it is likely to assist in replenishing the stock of the species of fish, aquatic life, or seaweed in the area concerned; or
+  (b) it is likely to assist in recognising and making provision for the use and management practices of tangata whenua in the exercise of non-commercial fishing rights.
 (3) A notice given under subsection (1) must be publicly notified.
 (4) A notice given under subsection (1)—
-  (a) May not be in force beyond 2 years after the date of its notification in the Gazette:
-  (b) Subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
+  (a) may not be in force beyond 2 years after the date of its notification in the Gazette:
+  (b) subject to paragraph (a), may be expressed to be in force for any particular year or period, or for any particular date or dates, or for any particular month or months of the year, week or weeks of the month, or day or days of the week.
 (5) Nothing in subsection (4)(a) prevents a further notice being given under subsection (1) in respect of any stock and area before or on or about the expiry of an existing notice that relates to that stock and area.
 (6) Before giving a notice under subsection (1), the chief executive must—
-  (a) Consult such persons as the chief executive considers are representative of persons having an interest in the stock concerned or in the effects of fishing in the area concerned, including tangata whenua, environmental, commercial, recreational, and local community interests; and
-  (b) Provide for the participation in the decision-making process of tangata whenua with a non-commercial interest in the stock or the effects of fishing in the area concerned, having regard to kaitiakitanga.
+  (a) consult such persons as the chief executive considers are representative of persons having an interest in the stock concerned or in the effects of fishing in the area concerned, including tangata whenua, environmental, commercial, recreational, and local community interests; and
+  (b) provide for the participation in the decision-making process of tangata whenua with a non-commercial interest in the stock or the effects of fishing in the area concerned, having regard to kaitiakitanga.
 (7) Every person commits an offence who, in contravention of a notice given under subsection (1),—
-  (a) Takes any fish, aquatic life, or seaweed from a closed area; or
-  (b) Takes any fish, aquatic life, or seaweed using a prohibited fishing method.
+  (a) takes any fish, aquatic life, or seaweed from a closed area; or
+  (b) takes any fish, aquatic life, or seaweed using a prohibited fishing method.
 (8) A person who commits an offence against subsection (7) is liable,—
-  (a) In the case of a commercial fisher, to the penalty specified in section 252(5):
+  (a) in the case of a commercial fisher, to the penalty specified in section 252(5):
   (b) In any other case, to the penalty specified in section 252(6).
 (9) In this section, the term South Island fisheries waters has the same meaning as in the Ngai Tahu Claims Settlement Act 1998.
 
@@ -3582,21 +3565,21 @@ In this subpart, unless the context otherwise requires,—
 
 ### 188 Conversion factors
 (1) The chief executive may, by notice in the Gazette, after consultation with such bodies or persons as the chief executive considers appropriate in the circumstances, including Maori, environmental, commercial, and recreational interests, set conversion factors which shall, subject to subsection (2) of this section, for all purposes (including any proceedings for an offence against this Act) be used to determine the weight of any fish, aquatic life, or seaweed, and such conversion factors shall be used to translate—
-  (a) The weight of the fish, aquatic life, or seaweed in the state to which it has been processed to the greenweight, or meatweight, as the case may be; or
-  (b) The weight of the fish, aquatic life, or seaweed, when taken, to the meatweight.
+  (a) the weight of the fish, aquatic life, or seaweed in the state to which it has been processed to the greenweight, or meatweight, as the case may be; or
+  (b) the weight of the fish, aquatic life, or seaweed, when taken, to the meatweight.
 (2) The chief executive may, in respect of any vessel on which fish, aquatic life, or seaweed is processed, having regard to the method of processing or the processing history of the vessel and after consultation with the owner, operator, or master of the vessel, issue a certificate specifying conversion factors for that vessel which shall for all purposes (including any proceedings for an offence against this Act) be used to determine the weight of any fish, aquatic life, or seaweed processed by that vessel within the terms of the certificate.
 (3) Every certificate issued under subsection (2) of this section—
-  (a) Shall apply in respect of fish, aquatic life, or seaweed processed during the currency of the certificate:
-  (b) May be subject to such conditions, including conditions relating to methods of taking, processing, packing, and labelling of fish, aquatic life, or seaweed, the presence of observers or fishery officers, or the recording of catches, as the chief executive thinks fit to impose:
-  (c) May at any time be revoked by the chief executive by notice in writing, or may be amended or replaced by a further certificate issued by the chief executive under subsection (2) of this section.
+  (a) shall apply in respect of fish, aquatic life, or seaweed processed during the currency of the certificate:
+  (b) may be subject to such conditions, including conditions relating to methods of taking, processing, packing, and labelling of fish, aquatic life, or seaweed, the presence of observers or fishery officers, or the recording of catches, as the chief executive thinks fit to impose:
+  (c) may at any time be revoked by the chief executive by notice in writing, or may be amended or replaced by a further certificate issued by the chief executive under subsection (2) of this section.
 (4) Any certificate issued under subsection (2) of this section may be issued for such term as the chief executive thinks fit, and the certificate, or any revocation of the certificate, shall take effect on the date specified for the purpose by the chief executive, which date shall be not earlier than the earliest of the following dates or occasions:
-  (a) The commencement of the fishing year following that in which the owner, operator, or master of the vessel is issued with the certificate or notified of the revocation:
-  (b) The next departure of the vessel from any New Zealand port following the issue of the certificate or notification of the revocation:
-  (c) The day on which any observer who is present on the vessel concerned, after the owner, operator, or master is issued with the certificate or notified of the revocation, certifies that the current catch of the vessel has been recorded by that observer:
-  (d) Such earlier date as may be agreed between the chief executive and the owner, operator, or master of the vessel.
+  (a) the commencement of the fishing year following that in which the owner, operator, or master of the vessel is issued with the certificate or notified of the revocation:
+  (b) the next departure of the vessel from any New Zealand port following the issue of the certificate or notification of the revocation:
+  (c) the day on which any observer who is present on the vessel concerned, after the owner, operator, or master is issued with the certificate or notified of the revocation, certifies that the current catch of the vessel has been recorded by that observer:
+  (d) such earlier date as may be agreed between the chief executive and the owner, operator, or master of the vessel.
 (5) The chief executive may, for any purpose referred to in section 59(6A) or section 368A(11) of this Act or section 28W(10) of the Fisheries Act 1983, by notice in the Gazette or where appropriate by notice to an individual fisher or other person affected,—
-  (a) Set conversion factors for translating numbers of Foveaux Strait dredge oysters into weights, or vice versa:
-  (b) Specify the circumstances in which or purpose for which any such Foveaux Strait dredge oyster conversion factors may or must be used, including the making of returns and records.
+  (a) set conversion factors for translating numbers of Foveaux Strait dredge oysters into weights, or vice versa:
+  (b) specify the circumstances in which or purpose for which any such Foveaux Strait dredge oyster conversion factors may or must be used, including the making of returns and records.
 (6) Any conversion factors specified under subsection (5) are to be used for determining the weight or number (as the case may require) of Foveaux Strait dredge oysters only for the purposes specified in the Gazette notice or the notice to the individual fisher or other person affected.
 
 ### 188A Spat ratio
@@ -3608,21 +3591,21 @@ In this subpart, unless the context otherwise requires,—
 
 ### 189 Persons who are required to keep records and returns
 The following persons shall keep such accounts and records, and provide to the chief executive such returns and information, as may be required by or under regulations made under this Act:
-  (a) Holders of fishing permits, special permits, licences, or other authorities or approvals issued or granted under this Act entitling the holder to take fish, aquatic life, or seaweed by any method for any purpose:
+  (a) holders of fishing permits, special permits, licences, or other authorities or approvals issued or granted under this Act entitling the holder to take fish, aquatic life, or seaweed by any method for any purpose:
   (b) owners, caveators, and mortgagees of quota, and owners and caveators of annual catch entitlements:
-  (c) Owners, operators, notified users, and masters of vessels registered under this Act:
-  (d) Owners and persons in charge of any premises where fish, aquatic life, or seaweed are received, purchased, stored, transported, processed, sold, or otherwise disposed of:
-  (e) Persons engaged in the receiving, purchasing, transporting, processing, storage, sale, or disposal of fish, aquatic life, or seaweed:
-  (f) Fish farmers and holders of spat catching permits:
-  (g) Persons who provide vessels for hire for the purpose of enabling persons to take fish, aquatic life, or seaweed:
-  (h) Persons who take fish, aquatic life, or seaweed otherwise than for the purpose of sale.
-  (i) Holders of high seas fishing permits issued under section 113H:
-  (j) Holders of exemptions granted under section 113F.
+  (c) owners, operators, notified users, and masters of vessels registered under this Act:
+  (d) owners and persons in charge of any premises where fish, aquatic life, or seaweed are received, purchased, stored, transported, processed, sold, or otherwise disposed of:
+  (e) persons engaged in the receiving, purchasing, transporting, processing, storage, sale, or disposal of fish, aquatic life, or seaweed:
+  (f) fish farmers and holders of spat catching permits:
+  (g) persons who provide vessels for hire for the purpose of enabling persons to take fish, aquatic life, or seaweed:
+  (h) persons who take fish, aquatic life, or seaweed otherwise than for the purpose of sale.
+  (i) holders of high seas fishing permits issued under section 113H:
+  (j) holders of exemptions granted under section 113F.
 
 ### 190 Accounts, records, returns, and other information
 (1) For the purpose of this Act, the chief executive may, in any particular case or class of cases,—
-  (a) Require accounts, records, returns, and other information additional to those specified in regulations made under this Act to be kept and provided to the chief executive, by any person referred to in section 189 of this Act; and
-  (b) Specify the manner and form in which such accounts, records, returns, and other information are to be kept and provided.
+  (a) require accounts, records, returns, and other information additional to those specified in regulations made under this Act to be kept and provided to the chief executive, by any person referred to in section 189 of this Act; and
+  (b) specify the manner and form in which such accounts, records, returns, and other information are to be kept and provided.
 (2) Every person who fails to comply with a specification of the chief executive under subsection (1)(b) commits an offence and is liable to the penalty specified in section 252(3).
 
 **Disposal of fish**
@@ -3631,56 +3614,56 @@ The following persons shall keep such accounts and records, and provide to the c
 (1A) In this section and section 192, commercial fisher includes a person who holds a high seas fishing permit issued under section 113H.
 (1) No commercial fisher may sell or otherwise dispose of fish, aquatic life, or seaweed, taken by the commercial fisher in that capacity, except to a licensed fish receiver or as provided in subsection (2) or subsection (5) of this section.
 (2) Any commercial fisher may sell or otherwise dispose of, in any one transaction, not more than—taken by the commercial fisher to any person who is not a licensed fish receiver if the transaction takes place on, or in the vicinity of, the vessel used by the commercial fisher to take the fish, aquatic life, or seaweed, or at some other place approved by the chief executive.
-  (a) Ten kilogrammes of finfish; or
-  (b) Six kilogrammes of shellfish (other than Foveaux Strait dredge oysters or shellfish of Class Crustacea); or
-  (ba) Sixty Foveaux Strait dredge oysters; or
-  (c) Three kilogrammes of shellfish of Class Crustacea; or
-  (d) Any combination of such finfish or shellfish within those limits—
+  (a) ten kilogrammes of finfish; or
+  (b) six kilogrammes of shellfish (other than Foveaux Strait dredge oysters or shellfish of Class Crustacea); or
+  (ba) sixty Foveaux Strait dredge oysters; or
+  (c) three kilogrammes of shellfish of Class Crustacea; or
+  (d) any combination of such finfish or shellfish within those limits—
 (3) A commercial fisher shall not enter into more than one transaction referred to in subsection (2) of this section with the same person within any 24-hour period.
 (4) Every commercial fisher who sells or otherwise disposes of any finfish or shellfish under subsection (2) of this section shall, at the time of the transaction, make such records of the transaction as the commercial fisher is required to make under regulations made under this Act.
 (5) Subsection (1) of this section does not apply in respect of fish, aquatic life, or seaweed—
-  (a) Landed outside New Zealand in accordance with any approval granted by the chief executive under section 110 of this Act; or
-  (b) Lawfully abandoned or returned, in accordance with section 72 of this Act, to the sea or waters from which the fish, aquatic life, or seaweed was taken; or
-  (c) Lawfully used by the commercial fisher who took the fish, aquatic life, or seaweed as bait, or consumed on board the vessel from which the fish, aquatic life, or seaweed was taken; or
-  (d) Lawfully taken on the high seas and landed in any country other than New Zealand; or
-  (e) Lawfully taken on the high seas and transhipped in accordance with a high seas fishing permit issued under section 113H.
+  (a) landed outside New Zealand in accordance with any approval granted by the chief executive under section 110 of this Act; or
+  (b) lawfully abandoned or returned, in accordance with section 72 of this Act, to the sea or waters from which the fish, aquatic life, or seaweed was taken; or
+  (c) lawfully used by the commercial fisher who took the fish, aquatic life, or seaweed as bait, or consumed on board the vessel from which the fish, aquatic life, or seaweed was taken; or
+  (d) lawfully taken on the high seas and landed in any country other than New Zealand; or
+  (e) lawfully taken on the high seas and transhipped in accordance with a high seas fishing permit issued under section 113H.
 (6) Every commercial fisher commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes any provision of this section.
 
 ### 192 Restrictions on purchase or acquisition of fish by certain persons
 (1) No commercial fisher shall purchase, acquire, or be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was—
-  (a) Taken in that person's capacity as a commercial fisher; or
-  (b) Purchased or acquired by that person from a licensed fish receiver for use as bait in that person's commercial fishing activities.
+  (a) taken in that person's capacity as a commercial fisher; or
+  (b) purchased or acquired by that person from a licensed fish receiver for use as bait in that person's commercial fishing activities.
 (2) No licensed fish receiver shall purchase or otherwise acquire or be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was—
-  (a) Purchased or acquired for the purpose of sale from—
-    (i) A commercial fisher; or
-    (ii) Another licensed fish receiver; or
-    (iii) A fish farmer; or
-    (iv) The operator of a foreign fishing vessel, if the fish, aquatic life, or seaweed was landed under the authority and in accordance with the conditions of a licence issued under section 83 of this Act; or
-    (v) The operator of a foreign vessel, if the fish, aquatic life, or seaweed was landed and disposed of in accordance with the conditions of an approval granted under section 113 of this Act; or
-  (b) Lawfully taken by that person for the purpose of sale in the person's capacity as a commercial fisher, where that person has lawfully kept and completed all records, returns, and other documents required under this Act as if the commercial fisher and the licensed fish receiver had been separate persons; or
-  (c) Acquired or possessed by the licensed fish receiver otherwise than for the purpose of sale by the licensed fish receiver in accordance with subsection (7) of this section.
+  (a) purchased or acquired for the purpose of sale from—
+    (i) a commercial fisher; or
+    (ii) another licensed fish receiver; or
+    (iii) a fish farmer; or
+    (iv) the operator of a foreign fishing vessel, if the fish, aquatic life, or seaweed was landed under the authority and in accordance with the conditions of a licence issued under section 83 of this Act; or
+    (v) the operator of a foreign vessel, if the fish, aquatic life, or seaweed was landed and disposed of in accordance with the conditions of an approval granted under section 113 of this Act; or
+  (b) lawfully taken by that person for the purpose of sale in the person's capacity as a commercial fisher, where that person has lawfully kept and completed all records, returns, and other documents required under this Act as if the commercial fisher and the licensed fish receiver had been separate persons; or
+  (c) acquired or possessed by the licensed fish receiver otherwise than for the purpose of sale by the licensed fish receiver in accordance with subsection (7) of this section.
 (3)
 (4) No spat catching permit holder shall be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was taken by that person in that person's capacity as a spat catching permit holder.
 (5) No person (other than a person who at the relevant time is acting in the person's capacity as a commercial fisher, licensed fish receiver, fish farmer, or spat catching permit holder) shall purchase, otherwise acquire, or be in possession of any fish, aquatic life, or seaweed for the purpose of sale, unless the fish, aquatic life, or seaweed was purchased or acquired from—
-  (a) A commercial fisher in a transaction referred to in section 191(2) of this Act; or
-  (b) A licensed fish receiver; or
-  (c) A fish farmer.
+  (a) a commercial fisher in a transaction referred to in section 191(2) of this Act; or
+  (b) a licensed fish receiver; or
+  (c) a fish farmer.
 (6) Every person commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes any provision of subsections (1) to (5) of this section.
 (7) For the purposes of subsection (2)(c) of this section, fish, aquatic life, or seaweed is acquired or possessed by a licensed fish receiver in accordance with this subsection if the fish, aquatic life, or seaweed—
-  (a) Is held by the licensed fish receiver for a person for storage or processing; and
-  (b) Was taken by that person in accordance with any relevant amateur or Maori customary non-commercial fishing regulations made under this Act; and
-  (c) Is held by the licensed fish receiver with the approval in writing of the chief executive (which approval may be granted either generally or particularly) but was not so held before that approval was granted; and
-  (d) Is stored and processed in accordance with the conditions imposed by the chief executive (which conditions may relate to records and returns and such other conditions as the chief executive thinks fit to impose).
+  (a) is held by the licensed fish receiver for a person for storage or processing; and
+  (b) was taken by that person in accordance with any relevant amateur or Maori customary non-commercial fishing regulations made under this Act; and
+  (c) is held by the licensed fish receiver with the approval in writing of the chief executive (which approval may be granted either generally or particularly) but was not so held before that approval was granted; and
+  (d) is stored and processed in accordance with the conditions imposed by the chief executive (which conditions may relate to records and returns and such other conditions as the chief executive thinks fit to impose).
 (8) Subsection (5) of this section does not apply in respect of fish, aquatic life, or seaweed if—
-  (a) The fish, aquatic life, or seaweed was lawfully purchased or acquired from an approved person; and
-  (b) That approved person has lawfully acquired or purchased the fish, aquatic life, or seaweed from a licensed fish receiver; and
-  (c) The purchase or acquisition, and the storage and disposal, of the fish, aquatic life, or seaweed, and the keeping of records in relation to it, was in accordance with the conditions of the approval granted by the chief executive.
+  (a) the fish, aquatic life, or seaweed was lawfully purchased or acquired from an approved person; and
+  (b) that approved person has lawfully acquired or purchased the fish, aquatic life, or seaweed from a licensed fish receiver; and
+  (c) the purchase or acquisition, and the storage and disposal, of the fish, aquatic life, or seaweed, and the keeping of records in relation to it, was in accordance with the conditions of the approval granted by the chief executive.
 (9) Subsection (5) of this section does not apply in respect of any fish, aquatic life, or seaweed produced in the course of a lawful fish farming operation and subsequently traded.
 (10) This section does not apply in respect of—
-  (a) Whitebait, seaweed of the Class Rhodophyceae taken while it is unattached and cast ashore, unwanted aquatic life, ornamental fish, seabirds, or protected species; or
-  (b) Any fish, aquatic life, or seaweed lawfully taken outside New Zealand fisheries waters that has been landed in any country other than New Zealand before; or
-  (c) Any transaction with the Crown; or
-  (d) Any fish, aquatic life, or seaweed lawfully taken otherwise than for the purpose of sale and served as part of a meal to the person who took the fish, aquatic life, or seaweed and the person's immediate guests.
+  (a) whitebait, seaweed of the Class Rhodophyceae taken while it is unattached and cast ashore, unwanted aquatic life, ornamental fish, seabirds, or protected species; or
+  (b) any fish, aquatic life, or seaweed lawfully taken outside New Zealand fisheries waters that has been landed in any country other than New Zealand before; or
+  (c) any transaction with the Crown; or
+  (d) any fish, aquatic life, or seaweed lawfully taken otherwise than for the purpose of sale and served as part of a meal to the person who took the fish, aquatic life, or seaweed and the person's immediate guests.
 
 ### 192A Restriction on acquisition of fish, aquatic life, and seaweed by fish farmers
 (1) No fish farmer may acquire or be in possession of any fish, aquatic life, or seaweed unless the fish, aquatic life, or seaweed was—
@@ -3721,29 +3704,29 @@ For the purpose of this Act, any person in possession of any fish, aquatic life,
 ### 196 Appointment of fishery officers
 (1) Such fishery officers and other officers as may be required for the purposes of the enforcement and administration of this Act shall be appointed under the State Sector Act 1988.
 (2) For the purpose of this Act—shall be deemed to be a fishery officer and may, without warrant, exercise the powers conferred on fishery officers under this Act.
-  (a) Every officer in command of any vessel or aircraft of the New Zealand Defence Force; and
-  (b) Every member of the Police—
+  (a) every officer in command of any vessel or aircraft of the New Zealand Defence Force; and
+  (b) every member of the Police—
 (3) Where any person referred to in paragraph (a) or paragraph (b) of subsection (2) of this section has directed any person under his or her command to carry out such of the duties of a fishery officer as he or she may specify, for such period as he or she thinks necessary, the person so directed shall, for the purpose of carrying out those duties, have all the powers of a fishery officer.
 
 ### 197 Appointment of honorary fishery officers
 (1) The chief executive may, from time to time, appoint as honorary fishery officers for a specified area or areas such persons as the chief executive considers fit and proper.
 (2) Every person appointed as an honorary fishery officer under this section—
-  (a) Shall be appointed for such term, not exceeding 3 years, as the chief executive thinks fit, and may be reappointed:
-  (b) May, at any time, be removed from office by the chief executive if the chief executive no longer considers him or her to be a fit and proper person for reasons of incapacity, neglect of office, misconduct, or otherwise:
-  (c) May at any time resign his or her office, and notification of such resignation shall be given to the chief executive.
+  (a) shall be appointed for such term, not exceeding 3 years, as the chief executive thinks fit, and may be reappointed:
+  (b) may, at any time, be removed from office by the chief executive if the chief executive no longer considers him or her to be a fit and proper person for reasons of incapacity, neglect of office, misconduct, or otherwise:
+  (c) may at any time resign his or her office, and notification of such resignation shall be given to the chief executive.
 (3) There may be paid to any honorary fishery officer out of money appropriated by Parliament for the purpose—
-  (a) An honorarium not exceeding $1,000 in any one year; and
-  (b) Reimbursement of actual and reasonable expenses incurred in the course of carrying out his or her powers and duties, where the chief executive has given prior authorisation and has subsequently approved the expenses.
+  (a) an honorarium not exceeding $1,000 in any one year; and
+  (b) reimbursement of actual and reasonable expenses incurred in the course of carrying out his or her powers and duties, where the chief executive has given prior authorisation and has subsequently approved the expenses.
 (4) No person appointed as an honorary fishery officer under this section shall be deemed to be employed by the Crown by reason of the appointment or any money paid to the person under this section.
 
 ### 198 Issue of warrants and conferral of powers
 (1) The chief executive may, from time to time, issue—
-  (a) To any person appointed in accordance with section 196 of this Act to be a fishery officer a warrant authorising the person to exercise the powers conferred on fishery officers under this Act:
-  (b) To any person appointed under section 197 of this Act to be an honorary fishery officer a warrant that shall specify—
-    (i) Such of those powers conferred on fishery officers under this Act as the person may exercise:
-    (ii) The area or areas to which the warrant relates:
+  (a) to any person appointed in accordance with section 196 of this Act to be a fishery officer a warrant authorising the person to exercise the powers conferred on fishery officers under this Act:
+  (b) to any person appointed under section 197 of this Act to be an honorary fishery officer a warrant that shall specify—
+    (i) such of those powers conferred on fishery officers under this Act as the person may exercise:
+    (ii) the area or areas to which the warrant relates:
     (iii) if appropriate, the species or stock of fish, aquatic life, or seaweed to which the warrant relates:
-  (c) To any person appointed under section 222 of this Act to be an examiner a warrant specifying such of the powers conferred on fishery officers under this Act as the person may exercise.
+  (c) to any person appointed under section 222 of this Act to be an examiner a warrant specifying such of the powers conferred on fishery officers under this Act as the person may exercise.
 (1A) Except as otherwise specified in the warrant, a warrant issued to an honorary fishery officer under subsection (1)(b) applies to all species or stocks of fish, aquatic life, or seaweed.
 (2) On the termination of a person's appointment as a fishery officer, honorary fishery officer, or examiner under this Act, the person shall surrender to the chief executive any warrant issued to the person in respect of that appointment.
 
@@ -3754,14 +3737,14 @@ To avoid doubt, the powers of a fishery officer conferred by or under this Part 
 
 ### 199 Powers of entry and search
 (1) In the course of the enforcement and administration of this Act, a fishery officer may, at any reasonable time,—
-  (a) Stop, enter, or pass across any land in order to enter and examine any vessel or vehicle, or enter and examine any premises or place, or examine any record, document, article, and any gear, apparatus, device, or contents of any kind therein:
-  (b) Stop any person and examine any record, document, article, container, gear, apparatus, device, fish, aquatic life, or seaweed in the possession of that person.
+  (a) stop, enter, or pass across any land in order to enter and examine any vessel or vehicle, or enter and examine any premises or place, or examine any record, document, article, and any gear, apparatus, device, or contents of any kind therein:
+  (b) stop any person and examine any record, document, article, container, gear, apparatus, device, fish, aquatic life, or seaweed in the possession of that person.
 (2) If a fishery officer believes, on reasonable grounds,—then, for the purpose of the enforcement of this Act, that officer may at any reasonable time enter or pass across any land in order to enter, examine, and search any such premises or place, or any such vessel, vehicle, or conveyance of any kind (by stopping or opening where necessary), and may examine and search (by stopping or opening where necessary) any such parcel, package, record, or thing.
-  (a) That an offence is being or has been committed against this Act; and
-  (b) That—may be concealed or located or held in any vessel, vehicle, conveyance of any kind, premises, place, parcel, package, record, or thing—
-    (i) Any fish, aquatic life, or seaweed taken or thing used or intended to be used in contravention of this Act; or
-    (ii) Any record or information required by or under this Act to be kept, completed, or provided; or
-    (iii) Any article, record, document, or thing which there is reasonable ground to believe will be evidence as to the commission of an offence against this Act,—
+  (a) that an offence is being or has been committed against this Act; and
+  (b) that—may be concealed or located or held in any vessel, vehicle, conveyance of any kind, premises, place, parcel, package, record, or thing—
+    (i) any fish, aquatic life, or seaweed taken or thing used or intended to be used in contravention of this Act; or
+    (ii) any record or information required by or under this Act to be kept, completed, or provided; or
+    (iii) any article, record, document, or thing which there is reasonable ground to believe will be evidence as to the commission of an offence against this Act,—
 (3) A fishery officer may detain any vessel, vehicle, conveyance of any kind, parcel, package, record, document, article, gear, apparatus, device, container, fish, aquatic life, seaweed, or thing for such period as is reasonably necessary to enable the fishery officer to carry out an examination or search under this section.
 
 ### 200 Conditions relating to exercise of powers of entry, etc
@@ -3769,29 +3752,29 @@ To avoid doubt, the powers of a fishery officer conferred by or under this Part 
 (2) An application for authorisation shall be made by a fishery officer on oath in writing, or on oath orally if the Justice, Community Magistrate, District Court Judge, or Registrar of a District Court considers it appropriate to do so; and, in such a case, that Justice, Community Magistrate, Judge, or Registrar shall make a written note of the grounds of the application.
 (3) A Justice, Community Magistrate, District Court Judge, or Registrar of a District Court shall not grant such authority unless he or she is satisfied that the fishery officer has reasonable grounds for requiring entry into the private dwelling place, garden or curtilage, or Maori reservation.
 (4) The following provisions apply in relation to every authorisation under subsection (1) of this section:
-  (a) An authorisation shall be directed to any fishery officer by name or generally to every fishery officer, and may be executed by any fishery officer:
-  (b) Every person exercising the power of entry conferred by an authorisation shall have the authorisation with him or her and produce it if required to do so:
-  (c) An authorisation is valid for 30 days after the date of issue unless otherwise specified in the authorisation:
-  (d) An authorisation shall authorise entry on only one occasion within the period referred to in paragraph (c) of this subsection, unless otherwise stated in the authorisation:
-  (e) If the owner or occupier is not present when the examination or search is undertaken, the fishery officer executing the examination or search shall take reasonable steps to promptly advise the owner or occupier of the examination or search, unless otherwise directed by the authorisation:
-  (f) An authorisation may be executed at any time:
-  (g) An authorisation shall be in the form set out in Schedule 7 to this Act.
+  (a) an authorisation shall be directed to any fishery officer by name or generally to every fishery officer, and may be executed by any fishery officer:
+  (b) every person exercising the power of entry conferred by an authorisation shall have the authorisation with him or her and produce it if required to do so:
+  (c) an authorisation is valid for 30 days after the date of issue unless otherwise specified in the authorisation:
+  (d) an authorisation shall authorise entry on only one occasion within the period referred to in paragraph (c) of this subsection, unless otherwise stated in the authorisation:
+  (e) if the owner or occupier is not present when the examination or search is undertaken, the fishery officer executing the examination or search shall take reasonable steps to promptly advise the owner or occupier of the examination or search, unless otherwise directed by the authorisation:
+  (f) an authorisation may be executed at any time:
+  (g) an authorisation shall be in the form set out in Schedule 7 to this Act.
 (5) For the purposes of this section, a place is a private dwelling if private dwelling is the dominant purpose for which the place is used.
 
 ### 201 Power to question persons and require production of documents
 For the purpose of the enforcement of this Act, if a fishery officer believes on reasonable grounds that—the fishery officer may, at any reasonable time,—
-  (a) A person is or has been engaged in the taking or selling of fish, aquatic life, or seaweed; or
-  (b) A person has purchased or is or has been in possession of fish, aquatic life, or seaweed; or
-  (c) A person is committing or has committed an offence against this Act,—
-  (d) Question that person or any other person; and
-  (e) Require the person being questioned to provide an answer, including any explanation or information concerning any vessel, or any place or thing, or any fish, aquatic life, or seaweed, or fishing method, gear, apparatus, record, document, article, device, or thing relating to the taking, sale, purchase, or possession of any fish, aquatic life, or seaweed; and
-  (f) Require that person or any other person to produce any permit, authority, approval, permission, licence, or certificate issued in respect of any vessel or person.
+  (a) a person is or has been engaged in the taking or selling of fish, aquatic life, or seaweed; or
+  (b) a person has purchased or is or has been in possession of fish, aquatic life, or seaweed; or
+  (c) a person is committing or has committed an offence against this Act,—
+  (d) question that person or any other person; and
+  (e) require the person being questioned to provide an answer, including any explanation or information concerning any vessel, or any place or thing, or any fish, aquatic life, or seaweed, or fishing method, gear, apparatus, record, document, article, device, or thing relating to the taking, sale, purchase, or possession of any fish, aquatic life, or seaweed; and
+  (f) require that person or any other person to produce any permit, authority, approval, permission, licence, or certificate issued in respect of any vessel or person.
 
 ### 202 Powers for purpose of ascertaining financial status or interest in forfeit property of certain persons
 In order to ascertain—a fishery officer may, with the leave of the Court, exercise all or any of the fishery officer powers exercisable under other provisions of this Act as if those powers were each expressed to be exercisable in the circumstances referred to in this section.
-  (a) A person's financial status, for the purpose of assisting the Crown to make submissions on sentencing in respect of offences against this Act; or
+  (a) a person's financial status, for the purpose of assisting the Crown to make submissions on sentencing in respect of offences against this Act; or
   (aa) whether any quota is associated quota as defined in section 255; or
-  (b) The nature of any person's interest in forfeit property, for the purpose of assisting the Court to make any determination or order in respect of such property under section 256 of this Act,—
+  (b) the nature of any person's interest in forfeit property, for the purpose of assisting the Court to make any determination or order in respect of such property under section 256 of this Act,—
 
 **Power of arrest**
 
@@ -3801,8 +3784,8 @@ In order to ascertain—a fishery officer may, with the leave of the Court, exer
 (3) If the fishery officer believes on reasonable grounds that any of the details supplied under subsection (2) of this section are false or misleading, the fishery officer may request that person to supply to that fishery officer such verification of those details as it is reasonable in the circumstances to require the person to provide.
 (4) If any person continues to offend after being required under subsection (1) of this section to desist, or refuses to comply with a request under subsection (2) or subsection (3) of this section, the fishery officer may arrest that person without warrant.
 (5) If a fishery officer arrests a person under subsection (4) of this section,—
-  (a) The fishery officer shall cause the person to be delivered into the custody of a member of the Police as soon as practicable; and
-  (b) If the person so delivered into custody is released by a member of the Police without bail pursuant to section 19A of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be carried out by a fishery officer and not a member of the Police.
+  (a) the fishery officer shall cause the person to be delivered into the custody of a member of the Police as soon as practicable; and
+  (b) if the person so delivered into custody is released by a member of the Police without bail pursuant to section 19A of the Summary Proceedings Act 1957, the duties under subsections (3) to (5) of that section relating to the laying and filing of an information shall be carried out by a fishery officer and not a member of the Police.
 
 **Power to give directions**
 
@@ -3819,17 +3802,17 @@ For the purpose of the enforcement of this Act, other than the exercise of any p
 
 ### 206 Power to take copies of documents
 (1) In exercising powers under this Act, a fishery officer may—
-  (a) Make or take copies of any record or document, and for this purpose may take possession of and remove from the place where they are kept any such record or document, for such period of time as is reasonable in the circumstances:
-  (b) If necessary, require a person to reproduce, or assist the fishery officer to reproduce, in a useable form, information recorded or stored in a document.
+  (a) make or take copies of any record or document, and for this purpose may take possession of and remove from the place where they are kept any such record or document, for such period of time as is reasonable in the circumstances:
+  (b) if necessary, require a person to reproduce, or assist the fishery officer to reproduce, in a useable form, information recorded or stored in a document.
 (2) Any documents to which section 198A of the Summary Proceedings Act 1957 applies that are copied by a fishery officer under this section shall be dealt with in accordance with section 198A of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
 
 **Provisions relating to seizure**
 
 ### 207 Powers of seizure
 (1) A fishery officer may seize—
-  (a) Any vessel, vehicle or other conveyance, fishing gear, implement, appliance, material, container, goods, equipment, or thing which he or she believes on reasonable grounds is being or has been or is intended to be used in the commission of an offence against this Act:
-  (b) Any fish, aquatic life, or seaweed which he or she believes on reasonable grounds are being, or have been, taken, killed, transported, bought, sold, or found in the possession of any person, in contravention of this Act; or any fish, aquatic life, or seaweed with which such fish, aquatic life, or seaweed have been intermixed:
-  (c) Any article, record, document, or thing which he or she believes on reasonable grounds is evidence of the commission of an offence against this Act.
+  (a) any vessel, vehicle or other conveyance, fishing gear, implement, appliance, material, container, goods, equipment, or thing which he or she believes on reasonable grounds is being or has been or is intended to be used in the commission of an offence against this Act:
+  (b) any fish, aquatic life, or seaweed which he or she believes on reasonable grounds are being, or have been, taken, killed, transported, bought, sold, or found in the possession of any person, in contravention of this Act; or any fish, aquatic life, or seaweed with which such fish, aquatic life, or seaweed have been intermixed:
+  (c) any article, record, document, or thing which he or she believes on reasonable grounds is evidence of the commission of an offence against this Act.
 (2) Any property seized under subsection (1) of this section shall be delivered into the custody of the chief executive.
 (3) Any documents to which section 198A of the Summary Proceedings Act 1957 applies that are seized by a fishery officer under this section shall be dealt with in accordance with section 198A of that Act, and the provisions of that section, with any necessary modifications, shall apply accordingly.
 (4) The decision whether to lay any information or charge for an alleged offence in respect of which any property is seized under subsection (1) of this section shall be made as soon as reasonably practicable after the property is seized.
@@ -3838,29 +3821,29 @@ For the purpose of the enforcement of this Act, other than the exercise of any p
 
 ### 208 Chief executive may release seized property under bond
 (1) On application by—the chief executive may, at any time until an information or charge is laid for the alleged offence in respect of which the property was seized, release the property to any such person under bond in such sum and under such sureties and conditions (if any) as the chief executive may specify.
-  (a) A person from whom property has been seized under section 207 of this Act; or
-  (b) The owner or person entitled to possession of the property seized,—
+  (a) a person from whom property has been seized under section 207 of this Act; or
+  (b) the owner or person entitled to possession of the property seized,—
 (2) It is a condition of every bond under this section that, upon the forfeiture under this Act of the property that is the subject of the bond, the person to whom the property is released shall forthwith return the property to the custody of the chief executive unless the chief executive advises the person in writing that the property does not have to be so returned.
 (3) If any person to whom property is released under subsection (1) of this section fails to comply with the conditions of any bond or with any condition specified by the chief executive,—
-  (a) The property may be reseized at any time at the direction of the chief executive; and
-  (b) The provisions of this section shall apply to the property as if it had been seized under section 207 of this Act; and
-  (c) The chief executive may, in the case of failure to comply with the conditions of any bond, apply to a court for an order for estreat of the bond; and
-  (d) If the chief executive so applies, the chief executive shall fix a time and place for the hearing of the application, and shall, not less than 7 days before the time fixed, cause to be served on every person bound by the bond, and every surety, a notice of the time and place so fixed; and
-  (e) If, on the hearing of any such application, it is proved to the satisfaction of the Court that any condition of the bond has not been complied with, the Court may make an order to estreat the bond to such an amount as it thinks fit against any person bound thereby, and any order it thinks fit in relation to any surety on whom notice is proved to have been served in accordance with this subsection; and
-  (f) Any amount payable in accordance with this subsection shall be recoverable as if it were a fine.
+  (a) the property may be reseized at any time at the direction of the chief executive; and
+  (b) the provisions of this section shall apply to the property as if it had been seized under section 207 of this Act; and
+  (c) the chief executive may, in the case of failure to comply with the conditions of any bond, apply to a court for an order for estreat of the bond; and
+  (d) if the chief executive so applies, the chief executive shall fix a time and place for the hearing of the application, and shall, not less than 7 days before the time fixed, cause to be served on every person bound by the bond, and every surety, a notice of the time and place so fixed; and
+  (e) if, on the hearing of any such application, it is proved to the satisfaction of the Court that any condition of the bond has not been complied with, the Court may make an order to estreat the bond to such an amount as it thinks fit against any person bound thereby, and any order it thinks fit in relation to any surety on whom notice is proved to have been served in accordance with this subsection; and
+  (f) any amount payable in accordance with this subsection shall be recoverable as if it were a fine.
 
 ### 209 Seized property to be held by the Crown if not released
 All property seized under section 207 of this Act and (if applicable) the proceeds from the sale of any such property under section 212 of this Act, except where such property or proceeds have been forfeited to the Crown under section 211 of this Act, shall, subject to section 208(1) of this Act, be held in the custody of the Crown—
-  (a) Until a decision is made not to lay any information or charge for any alleged offence in respect of which the property was seized; or
-  (b) If a charge or information is laid for an offence in respect of which the property was seized, until the completion of such proceedings, and, if the property is forfeit, until the disposal of the property under this Act or such sooner time as the Court may determine.
+  (a) until a decision is made not to lay any information or charge for any alleged offence in respect of which the property was seized; or
+  (b) if a charge or information is laid for an offence in respect of which the property was seized, until the completion of such proceedings, and, if the property is forfeit, until the disposal of the property under this Act or such sooner time as the Court may determine.
 
 ### 210 Crown to release seized property in certain circumstances
 (1) If any property has been seized under section 207 of this Act, and such property or the proceeds from the sale of such property under section 212 of this Act remains in the custody of the Crown, then such property or proceeds shall forthwith be released from the custody of the Crown—
-  (a) If a decision is made not to lay an information or charge:
-  (b) On the acquittal of all persons charged with any offence for which forfeiture of the property or proceeds is a consequence of conviction.
+  (a) if a decision is made not to lay an information or charge:
+  (b) on the acquittal of all persons charged with any offence for which forfeiture of the property or proceeds is a consequence of conviction.
 (2) If any information or charge has been laid for any alleged offence in respect of which the property was seized under section 207 of this Act and that property, or the proceeds from the sale of such property under section 212 of this Act, remains in the custody of the Crown, the Court may at any time release the property or proceeds, on application by—and any such release may be subject to such sureties and conditions as the Court may specify.
-  (a) The person from whom the property was seized; or
-  (b) The owner or person entitled to the possession of the property seized;—
+  (a) the person from whom the property was seized; or
+  (b) the owner or person entitled to the possession of the property seized;—
 
 ### 211 Seized property forfeited to the Crown if ownership not established
 (1) If the ownership of any property cannot be ascertained by the chief executive within 90 days from the date of seizure, the property seized shall be forfeit to the Crown and shall be disposed of as directed by the chief executive.
@@ -3877,8 +3860,8 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
 
 ### 214 Crown caveats preventing registration of transactions
 (1) If—the chief executive may direct that a caveat be registered under this Act in respect of any quota owned by that person or associated quota (as defined in section 255) owned by any other person, at the time of registration of the caveat, and the caveat may apply to a number of quota shares not exceeding the number of quota shares held at the time the offence was committed.
-  (a) Any person has been charged with an offence under this Act and conviction for that offence may result in forfeiture of quota under section 255C or section 255D of this Act; or
-  (b) A fishery officer believes on reasonable grounds that any person has committed such an offence,—
+  (a) any person has been charged with an offence under this Act and conviction for that offence may result in forfeiture of quota under section 255C or section 255D of this Act; or
+  (b) a fishery officer believes on reasonable grounds that any person has committed such an offence,—
 (2) A court may at any time, on application by the owner of any quota or the owner of any quota alleged to be associated quota, order that any caveat registered in respect of quota in accordance with a direction under subsection (1) of this section shall not apply in respect of the quota or any part of the quota, whether generally or in respect of any specified dealing in the quota, and any such order may be subject to such sureties and conditions as the Court may specify.
 (3) A caveat registered in respect of quota in accordance with a direction to which subsection (1)(a) of this section applies shall have effect until all proceedings in respect of the relevant offence have been finally determined.
 (4) A caveat registered in respect of quota in accordance with a direction to which subsection (1)(b) of this section applies shall lapse on the expiry of the 30th day after the date of its registration, or at such earlier date as may, at the direction of the chief executive, be specified in the caveat.
@@ -3893,13 +3876,13 @@ If, in the opinion of the chief executive, any fish, aquatic life, seaweed, or o
 ### 215 General powers
 (1) A fishery officer may do all such acts and things and give such directives as are reasonably necessary for the purposes of exercising any of his or her powers under this Act.
 (2) The powers of a fishery officer under this Act are exercisable—
-  (a) Within New Zealand:
-  (b) In New Zealand fisheries waters:
-  (c) Beyond New Zealand fisheries waters.
+  (a) within New Zealand:
+  (b) in New Zealand fisheries waters:
+  (c) beyond New Zealand fisheries waters.
 (3) Subsection (2)(c) of this section does not authorise a fishery officer to exercise any powers under this Act in respect of any foreign vessel or any person aboard any such vessel unless the fishery officer—
-  (a) Believes on reasonable grounds that any person on board the vessel has committed an offence in New Zealand fisheries waters; and
-  (b) Is in fresh pursuit of, or has freshly pursued, the vessel; and
-  (c) Commenced that pursuit in New Zealand fisheries waters.
+  (a) believes on reasonable grounds that any person on board the vessel has committed an offence in New Zealand fisheries waters; and
+  (b) is in fresh pursuit of, or has freshly pursued, the vessel; and
+  (c) commenced that pursuit in New Zealand fisheries waters.
 
 **Provisions relating to exercise of powers**
 
@@ -3924,19 +3907,19 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 
 ### 221 Complaints against fishery officers
 (1) A person may lodge a complaint in writing with the chief executive if the person believes that a fishery officer or a high seas fishery inspector is guilty of misconduct or neglect of duty in the exercise, or alleged exercise, of—
-  (a) A power conferred on fishery officers by this Part; or
-  (b) Any other powers conferred on high seas fishery inspectors by Part 6A.
+  (a) a power conferred on fishery officers by this Part; or
+  (b) any other powers conferred on high seas fishery inspectors by Part 6A.
 (2) Every such complaint shall contain details of the alleged misconduct or neglect of duty and the chief executive may, in order to satisfy himself or herself as to the nature of the complaint, require further particulars from the complainant.
 (3) The chief executive shall, after receiving a complaint made in accordance with this section and further particulars (if any),—
-  (a) Notify the fishery officer or high seas fishery inspector who is the subject of the complaint; and
-  (b) Subject to subsection (6) of this section, appoint an investigator to investigate the complaint in accordance with this section.
+  (a) notify the fishery officer or high seas fishery inspector who is the subject of the complaint; and
+  (b) subject to subsection (6) of this section, appoint an investigator to investigate the complaint in accordance with this section.
 (4) The investigator shall notify the fishery officer or high seas fishery inspector of the investigation and shall, after making inquiries and obtaining the information he or she considers necessary in the circumstances, make a report to the chief executive, which report shall make recommendations as to whether the complaint should be upheld in whole or part.
 (5) The chief executive must, after receiving the investigator's report and after giving the fishery officer or high seas fishery inspector concerned the opportunity to comment on it,—
-  (a) Decide whether the complaint should be upheld in whole or in part; and
-  (b) Notify the fishery officer, or high seas fishery inspector, and the complainant of the chief executive's decision.
+  (a) decide whether the complaint should be upheld in whole or in part; and
+  (b) notify the fishery officer, or high seas fishery inspector, and the complainant of the chief executive's decision.
 (6) If the chief executive is satisfied that a complaint may, if proven, amount to serious misconduct or serious neglect of duty, the investigator appointed under subsection (3)(b) of this section to inquire into the complaint and report in accordance with subsection (4) of this section shall be a person who—
-  (a) Is not an employee of the Ministry; and
-  (b) Has held a practising certificate as a barrister or solicitor for at least 7 years.
+  (a) is not an employee of the Ministry; and
+  (b) has held a practising certificate as a barrister or solicitor for at least 7 years.
 (7) The investigator referred to in subsection (6) of this section has the same powers as are conferred on a Commission of Inquiry by the Commissions of Inquiry Act 1908, and all the provisions of that Act, except sections 11 and 12 (which relate to costs), shall apply accordingly.
 (8) Nothing in this section requires the chief executive to investigate any complaint which he or she considers is frivolous or vexatious.
 
@@ -3954,12 +3937,12 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 (2) The chief executive may appoint any person to be an observer for the purposes of the observer programme under subsection (1) of this section, and an observer so appointed has all the powers of an observer under sections 225 and 227 of this Act.
 (3) The chief executive may place any observer appointed under this section on any vessel to observe fishing and the transhipment, transportation, and landing of fish, aquatic life, or seaweed.
 (4) An observer may collect any information on fisheries resources, fishing (including catch and effort information), the effect of fishing on the aquatic environment, and the transportation of fish, aquatic life, or seaweed, including—
-  (a) The species, quantity, size, age, and condition of fish, aquatic life, or seaweed taken:
-  (b) The methods by which, the areas in which, and the depths at which, fish, aquatic life, or seaweed are taken:
-  (c) The effects of fishing methods on fish, aquatic life, seaweed, and the aquatic environment (including seabirds and protected species):
-  (d) All aspects of the operation of any vessel:
-  (e) Processing, transportation, transhipment, storage, or disposal of any fish, aquatic life, or seaweed:
-  (f) Any other matter that may assist the chief executive or the Minister to obtain, analyse, or verify information for the purposes of fisheries research, fisheries management, and fisheries enforcement.
+  (a) the species, quantity, size, age, and condition of fish, aquatic life, or seaweed taken:
+  (b) the methods by which, the areas in which, and the depths at which, fish, aquatic life, or seaweed are taken:
+  (c) the effects of fishing methods on fish, aquatic life, seaweed, and the aquatic environment (including seabirds and protected species):
+  (d) all aspects of the operation of any vessel:
+  (e) processing, transportation, transhipment, storage, or disposal of any fish, aquatic life, or seaweed:
+  (f) any other matter that may assist the chief executive or the Minister to obtain, analyse, or verify information for the purposes of fisheries research, fisheries management, and fisheries enforcement.
 (5) No fishery officer or any person with the powers of a fishery officer shall be appointed under subsection (2) of this section.
 (6) No person shall be deemed to be employed in the service of the Crown by reason of that person having been appointed as an observer.
 
@@ -3971,16 +3954,16 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 
 ### 225 Powers of observers and obligations of persons on vessels carrying observers
 (1) The owner, master, or operator of any vessel, or licence holder in respect of any vessel, on which an observer is placed under this Part of this Act shall allow the observer, at any reasonable time, having regard to the operations of the vessel, to—
-  (a) Have access to the fishing gear and the storage and processing facilities on the vessel:
-  (b) Have access to any fish, aquatic life, or seaweed (including seabirds and protected species) on board the vessel:
-  (c) Have access to the bridge and the navigation and communications equipment of the vessel:
-  (d) Have access to the logs and records of the vessel, whether required to be carried and maintained by or under this Act or otherwise:
-  (e) Receive and transmit messages and communicate with the shore and other vessels:
-  (f) Take, measure, and retain samples or whole specimens of any fish, aquatic life, seaweed, or any seabird or protected species caught:
-  (g) Store samples and whole specimens on the vessel, including samples and whole specimens held in the vessel's freezing facilities.
+  (a) have access to the fishing gear and the storage and processing facilities on the vessel:
+  (b) have access to any fish, aquatic life, or seaweed (including seabirds and protected species) on board the vessel:
+  (c) have access to the bridge and the navigation and communications equipment of the vessel:
+  (d) have access to the logs and records of the vessel, whether required to be carried and maintained by or under this Act or otherwise:
+  (e) receive and transmit messages and communicate with the shore and other vessels:
+  (f) take, measure, and retain samples or whole specimens of any fish, aquatic life, seaweed, or any seabird or protected species caught:
+  (g) store samples and whole specimens on the vessel, including samples and whole specimens held in the vessel's freezing facilities.
 (2) Every person on board a vessel on which there is an observer commits an offence, and is liable to the penalty set out in section 252(3) of this Act, who—
-  (a) Fails to provide reasonable assistance to enable the observer to exercise powers under subsection (1) of this section; or
-  (b) Hinders or prevents the observer exercising those powers.
+  (a) fails to provide reasonable assistance to enable the observer to exercise powers under subsection (1) of this section; or
+  (b) hinders or prevents the observer exercising those powers.
 
 ### 226 Food and accommodation to be provided for observers
 (1) The owner, master, or operator of any vessel, or licence holder in respect of any vessel, on which an observer is placed under this Part of this Act shall provide food, accommodation, and access to any cooking and toilet facilities and amenities to an approved standard and free of charge.
@@ -3988,14 +3971,14 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 
 ### 227 Supervision by observers of transhipments, dumping of fish, and operation of conversion factors
 (1) If an observer is on board a vessel—the master of the vessel or, in the case of transhipment, the master of each vessel, shall provide such information, and shall allow the observer to carry out such inspections (including sampling and measuring) of the vessel, any fish, aquatic life, or seaweed, taken, processed, transhipped, or landed, and documents, as the observer may require for the purpose of—
-  (a) From which, or to which, any fish, aquatic life, or seaweed are transhipped; or
-  (b) From which any fish, aquatic life, or seaweed subject to the quota management system are returned to or abandoned in the sea; or
-  (c) In respect of which any conversion factor certificate may be or has been given under section 188(2) of this Act; or
-  (d) Which is taking or has taken fish, aquatic life, or seaweed outside New Zealand fisheries waters,—
-  (e) Observing the transhipment, abandonment, or return to sea; or
-  (f) Collecting information on the method of processing, and performance of the vessel in undertaking such processing, in order to determine or monitor any conversion factor; or
-  (g) Observing the fishing activities of the vessel and the landing and disposal of its catch; or
-  (h) Taking, measuring, and retaining samples or whole specimens of any fish, aquatic life, seaweed, seabirds, or protected species caught.
+  (a) from which, or to which, any fish, aquatic life, or seaweed are transhipped; or
+  (b) from which any fish, aquatic life, or seaweed subject to the quota management system are returned to or abandoned in the sea; or
+  (c) in respect of which any conversion factor certificate may be or has been given under section 188(2) of this Act; or
+  (d) which is taking or has taken fish, aquatic life, or seaweed outside New Zealand fisheries waters,—
+  (e) observing the transhipment, abandonment, or return to sea; or
+  (f) collecting information on the method of processing, and performance of the vessel in undertaking such processing, in order to determine or monitor any conversion factor; or
+  (g) observing the fishing activities of the vessel and the landing and disposal of its catch; or
+  (h) taking, measuring, and retaining samples or whole specimens of any fish, aquatic life, seaweed, seabirds, or protected species caught.
 (2) An observer may take and make copies of such records, documents, or information as the observer may require for the purposes of subsection (1) of this section.
 (3) An observer may store in the vessel's freezing facilities such samples and whole specimens of any fish, aquatic life, seaweed, seabirds, or protected species as the observer may require for the purposes of subsection (1) of this section.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(3) of this Act who contravenes or fails to comply with subsection (1) of this section.
@@ -4004,48 +3987,48 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 
 ### 228 Breach of conditions or requirements
 (1) Every person commits an offence who contravenes, or fails to comply with,—
-  (a) Any sustainability measure implemented by notice in the Gazette under section 11(4)(b)(i); or
-  (b) Any condition or requirement imposed by the chief executive in respect of any consent, approval, authority, permission, or certificate issued or granted under this Act (other than a requirement to pay a sum of money).
+  (a) any sustainability measure implemented by notice in the Gazette under section 11(4)(b)(i); or
+  (b) any condition or requirement imposed by the chief executive in respect of any consent, approval, authority, permission, or certificate issued or granted under this Act (other than a requirement to pay a sum of money).
 (2) Every person who commits an offence against subsection (1) of this section is liable to the penalty set out in section 252(5) of this Act.
 
 ### 229 Obstructing fishery officers
 (1) Every person commits an offence who—
-  (a) Resists or obstructs, or aids, abets, incites, or encourages any other person to resist or obstruct,—
-    (i) Any fishery officer executing his or her powers or duties; or
-    (ii) Any person assisting a fishery officer in accordance with section 219 of this Act; or
-    (iii) Any person acting under the directions of a fishery officer in accordance with section 196(3) of this Act; or
-  (b) Uses threatening language or behaves in a threatening manner towards—
-    (i) Any fishery officer executing his or her powers or duties; or
-    (ii) Any person assisting a fishery officer in accordance with section 219 of this Act; or
-    (iii) Any person acting under the directions of a fishery officer in accordance with section 196(3) of this Act; or
-  (c) Fails to comply with any lawful requirement of any fishery officer; or
-  (d) Provides to any fishery officer any particulars that are false or misleading in any material respect; or
-  (e) Personates or falsely claims to be a fishery officer or a person lawfully assisting a fishery officer.
+  (a) resists or obstructs, or aids, abets, incites, or encourages any other person to resist or obstruct,—
+    (i) any fishery officer executing his or her powers or duties; or
+    (ii) any person assisting a fishery officer in accordance with section 219 of this Act; or
+    (iii) any person acting under the directions of a fishery officer in accordance with section 196(3) of this Act; or
+  (b) uses threatening language or behaves in a threatening manner towards—
+    (i) any fishery officer executing his or her powers or duties; or
+    (ii) any person assisting a fishery officer in accordance with section 219 of this Act; or
+    (iii) any person acting under the directions of a fishery officer in accordance with section 196(3) of this Act; or
+  (c) fails to comply with any lawful requirement of any fishery officer; or
+  (d) provides to any fishery officer any particulars that are false or misleading in any material respect; or
+  (e) personates or falsely claims to be a fishery officer or a person lawfully assisting a fishery officer.
 (2) Every person who refuses to allow any fishery officer, any person assisting a fishery officer in accordance with section 219 of this Act, or any person acting under the directions of a fishery officer in accordance with section 196(3) of this Act, to exercise any of the powers conferred on that fishery officer or person by this Act shall be deemed to be obstructing that fishery officer or person.
 (3) For the avoidance of doubt, this section applies whenever a fishery officer exercises powers under section 215 of this Act, even if such powers are exercised extra-territorially.
 (4) Every person who commits an offence against subsection (1) of this section is liable to the penalty set out in section 252(3) of this Act.
 
 ### 230 Neglect or refusal to supply particulars, and improper divulging of information
 (1) Every person commits an offence who—
-  (a) Fails to keep, or provide, any accounts or records, or who neglects or refuses to provide any records, return, or information, when lawfully requested or required to do so under this Act; or
-  (b) Makes any false or misleading statement, or omits any material information, in any communication, application, record, or return prescribed by or in accordance with this Act, or required for its administration.
+  (a) fails to keep, or provide, any accounts or records, or who neglects or refuses to provide any records, return, or information, when lawfully requested or required to do so under this Act; or
+  (b) makes any false or misleading statement, or omits any material information, in any communication, application, record, or return prescribed by or in accordance with this Act, or required for its administration.
 (2) Every person who commits an offence against subsection (1) of this section is liable to the penalty set out in section 252(3) of this Act.
 
 ### 231 Knowingly using false document to obtain benefit or making false statement
 (1) A person commits an offence if the person knowingly, for the purpose of obtaining any benefit under this Act,—in any communication, application, record, or return prescribed by or in accordance with this Act, or required for its administration.
-  (a) Makes any false or misleading statement; or
-  (b) Omits any information—
+  (a) makes any false or misleading statement; or
+  (b) omits any information—
 (2) Every person commits an offence who knowingly, for the purpose of obtaining any benefit under this Act,—any false communication, application, record, or return prescribed by or in accordance with this Act, or required for its administration.
-  (a) Uses, deals with, or acts upon; or
-  (b) Causes any other person to use, deal with, or act upon—
+  (a) uses, deals with, or acts upon; or
+  (b) causes any other person to use, deal with, or act upon—
 (3) Every person who commits an offence against subsection (1) or subsection (2) of this section is liable to the penalty set out in section 252(1) of this Act.
 
 ### 232 Buying, selling, or possessing fish contrary to Act
 (1) Every person commits an offence who buys, sells, or possesses any fish, aquatic life, or seaweed taken in contravention of this Act.
 (2) Every person commits an offence who buys, sells, or possesses any fish, aquatic life, or seaweed the taking or landing of which has not been recorded or reported in accordance with this Act.
 (3) For the purposes of subsections (1) and (2) of this section, fish, aquatic life, or seaweed shall be deemed to be sold if it forms part of a meal and either—
-  (a) Payment is made for that meal or any part of the meal; or
-  (b) The meal is supplied to any person who is employed by the person by whom the meal is supplied (whether in accordance with the terms of a contract of service or otherwise).
+  (a) payment is made for that meal or any part of the meal; or
+  (b) the meal is supplied to any person who is employed by the person by whom the meal is supplied (whether in accordance with the terms of a contract of service or otherwise).
 (4) Every person who commits an offence against subsection (1) or subsection (2) of this section is liable to the penalty set out in section 252(3) of this Act, except that if, in the case of an individual defendant, the defendant establishes that the fish, aquatic life, or seaweed was purchased or possessed otherwise than for the purpose of sale, the penalty shall be as set out in subsection (5) of that section.
 
 ### 233 Knowingly acting in contravention of Act to obtain a benefit
@@ -4067,27 +4050,27 @@ The production by a fishery officer, honorary fishery officer, or examiner of a 
 ### 236 Proceedings for offences
 (1) Any offence against this Act shall be deemed to have been committed in New Zealand.
 (2) An information in respect of any offence against this Act may, notwithstanding section 14 of the Summary Proceedings Act 1957, be laid,—
-  (a) In the case of an offence for which the maximum fine does not exceed $10,000, within 12 months from the time it is alleged the offence occurred:
-  (b) In the case of an offence for which the maximum fine exceeds $10,000, within 2 years from the time it is alleged the offence occurred.
+  (a) in the case of an offence for which the maximum fine does not exceed $10,000, within 12 months from the time it is alleged the offence occurred:
+  (b) in the case of an offence for which the maximum fine exceeds $10,000, within 2 years from the time it is alleged the offence occurred.
 (3) No prosecution for an offence against this Act may be commenced except by—
-  (a) The chief executive; or
-  (b) The chief executive of the department for the time being responsible for the administration of the Conservation Act 1987; or
-  (c) Any fishery officer; or
-  (d) The Fish and Game Council in any district in which an offence has been committed or an offender is found.
+  (a) the chief executive; or
+  (b) the chief executive of the department for the time being responsible for the administration of the Conservation Act 1987; or
+  (c) any fishery officer; or
+  (d) the Fish and Game Council in any district in which an offence has been committed or an offender is found.
 
 ### 237 Summons may be served on agent of foreign vessel
 (1) Any summons in respect of an offence against this Act that relates to any foreign fishing vessel or foreign-owned New Zealand fishing vessel or foreign-operated fish carrier shall be deemed to have been served on the defendant in accordance with section 24 of the Summary Proceedings Act 1957 if the summons is served, in any one of the ways specified in subsection (1) of that section, on the authorised agent of—
-  (a) The operator of any foreign-owned New Zealand fishing vessel or any foreign-operated fish carrier; or
-  (b) The foreign charterparty of any foreign-owned New Zealand fishing vessel; or
-  (c) The operator of any foreign fishing vessel.
+  (a) the operator of any foreign-owned New Zealand fishing vessel or any foreign-operated fish carrier; or
+  (b) the foreign charterparty of any foreign-owned New Zealand fishing vessel; or
+  (c) the operator of any foreign fishing vessel.
 (2) For the purposes of subsection (1) of this section, the authorised agent shall be the person nominated as authorised agent at the time of registration or licensing of the vessel, as the case may be, whether or not the vessel is currently registered or licensed under this Act.
 
 ### 238 Informations relating to certain offences may be heard together
 (1) If 2 or more informations charging a defendant with any offence against this Act have been laid, the Court may, notwithstanding any other enactment or rule of law, order that any specified informations be heard together, if satisfied that—
-  (a) Either—
-    (i) The offences are founded on the same set of facts; or
-    (ii) The offences form, or are part of, a series of offences of the same character or similar character; and
-  (b) It is in the interests of justice that the informations be heard together.
+  (a) either—
+    (i) the offences are founded on the same set of facts; or
+    (ii) the offences form, or are part of, a series of offences of the same character or similar character; and
+  (b) it is in the interests of justice that the informations be heard together.
 (2) If the Court has made an order under subsection (1) of this section, the Court may, at any subsequent time, direct that any information subject to that order be heard separately if satisfied that to do so is in the interests of justice.
 (3) For the purposes of this section, in considering whether it is in the interests of justice to hear any informations together or separately, the Court shall have regard to the likelihood of prejudice to the defendant if any particular information, or combination of informations, is heard together with any other information or combination of informations.
 
@@ -4101,12 +4084,12 @@ In any proceedings for an offence against this Act it is not necessary for the p
 
 ### 241 Defence available under this Act
 (1) Subject to this section, it is a defence in any proceedings for an offence against this Act (other than an offence against section 231 or section 233 or section 235 or section 257(2) or section 296B(5) or section 296ZC(3)(b) or (c)), if the defendant proves—
-  (a) That—
-    (i) The contravention was due to the act or default of another person, or to an accident or to some other cause beyond the defendant's control; and
-    (ii) The defendant took reasonable precautions and exercised due diligence to avoid the contravention; and
-  (b) In the case of an offence concerning the taking of any fish, aquatic life, or seaweed in contravention of any provision of this Act prohibiting the taking, or requiring the taking to be under the authority of a licence, permit, or other authorisation issued under this Act, that—
-    (i) The defendant immediately returned the fish, aquatic life, or seaweed to the waters from which they were taken except where such return was prohibited by this Act; and
-    (ii) The defendant complied with all the material requirements of this Act in respect of the recording and reporting of the taking, return, or landing of the fish, aquatic life, or seaweed.
+  (a) that—
+    (i) the contravention was due to the act or default of another person, or to an accident or to some other cause beyond the defendant's control; and
+    (ii) the defendant took reasonable precautions and exercised due diligence to avoid the contravention; and
+  (b) in the case of an offence concerning the taking of any fish, aquatic life, or seaweed in contravention of any provision of this Act prohibiting the taking, or requiring the taking to be under the authority of a licence, permit, or other authorisation issued under this Act, that—
+    (i) the defendant immediately returned the fish, aquatic life, or seaweed to the waters from which they were taken except where such return was prohibited by this Act; and
+    (ii) the defendant complied with all the material requirements of this Act in respect of the recording and reporting of the taking, return, or landing of the fish, aquatic life, or seaweed.
 (2)
 (3) A defendant is not, without leave of the Court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) of this section unless the defendant has, not later than 7 days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the person or the nature of the accident or cause relied on by the defendant.
 
@@ -4121,25 +4104,25 @@ If, in the course of any proceedings against a body corporate for an offence aga
 
 ### 245 Liability of companies and persons for actions of agent or employees
 (1) Any act or omission on behalf of a person other than a body corporate by—shall be deemed, for the purpose of this Act, also to be the act or omission of the first-mentioned person.
-  (a) An agent or employee of that person, or the master or any member of the crew of a vessel registered in the name of that person (whether as operator or notified user); or
-  (b) Any person at the direction or with the consent or agreement, whether express or implied, of any person referred to in paragraph (a) of this subsection,—
+  (a) an agent or employee of that person, or the master or any member of the crew of a vessel registered in the name of that person (whether as operator or notified user); or
+  (b) any person at the direction or with the consent or agreement, whether express or implied, of any person referred to in paragraph (a) of this subsection,—
 (2) Any act or omission on behalf of a body corporate by—shall be deemed, for the purpose of this Act, to also be the act or omission of the body corporate.
-  (a) A director, agent, or employee of that body corporate, or the master or any member of the crew of a vessel registered in the name of that body corporate (whether as operator or notified user); or
-  (b) Any other person at the direction or with the consent or agreement, whether express or implied, of any person referred to in paragraph (a) of this subsection—
+  (a) a director, agent, or employee of that body corporate, or the master or any member of the crew of a vessel registered in the name of that body corporate (whether as operator or notified user); or
+  (b) any other person at the direction or with the consent or agreement, whether express or implied, of any person referred to in paragraph (a) of this subsection—
 (3) If any person or body corporate is charged in relation to the act or omission of a person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2) of this section, any defence available under section 241 of this Act in relation to an offence against this Act is available to that person or body corporate only to the extent that it can be proved in relation to the act or omission of the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2) of this section, unless the Court is satisfied that it would be repugnant to justice for that defence to be so limited having regard to—
-  (a) Any likely or possible benefit accruing to, or detriment suffered by, the person or body corporate from the act or omission in respect of which the proceedings are brought, had the alleged offence remained undetected; and
-  (b) The purpose or motive of the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2) of this section; and
-  (c) The relationship between the person or body corporate and the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2) of this section, or between the person or body corporate and any person appearing or likely to benefit from the alleged offence; and
-  (d) In the case of a body corporate, whether or not any person responsible for, or closely associated with, the management of the body corporate appears to have benefited from the act or omission, or would have been likely to benefit if the alleged offence had remained undetected; and
-  (e) Whether or not the person or body corporate had taken all reasonable steps and exercised due diligence to control the activities of the relevant person referred to in subsection (1)(a) or (b) or subsection (2)(a) or (b), to ensure that the act or omission did not occur.
+  (a) any likely or possible benefit accruing to, or detriment suffered by, the person or body corporate from the act or omission in respect of which the proceedings are brought, had the alleged offence remained undetected; and
+  (b) the purpose or motive of the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2) of this section; and
+  (c) the relationship between the person or body corporate and the relevant person referred to in paragraph (a) or paragraph (b) of subsection (1) or paragraph (a) or paragraph (b) of subsection (2) of this section, or between the person or body corporate and any person appearing or likely to benefit from the alleged offence; and
+  (d) in the case of a body corporate, whether or not any person responsible for, or closely associated with, the management of the body corporate appears to have benefited from the act or omission, or would have been likely to benefit if the alleged offence had remained undetected; and
+  (e) whether or not the person or body corporate had taken all reasonable steps and exercised due diligence to control the activities of the relevant person referred to in subsection (1)(a) or (b) or subsection (2)(a) or (b), to ensure that the act or omission did not occur.
 (4) For the purposes of this section,—
-  (a) A person may act as an agent of another person or body corporate whether or not the first-mentioned person is employed by the other person or body corporate and whether or not acting for reward:
-  (b) Any agent or employee of a person acting as an agent shall be deemed to be also acting as an agent for the other person or body corporate referred to in paragraph (a) of this subsection.
+  (a) a person may act as an agent of another person or body corporate whether or not the first-mentioned person is employed by the other person or body corporate and whether or not acting for reward:
+  (b) any agent or employee of a person acting as an agent shall be deemed to be also acting as an agent for the other person or body corporate referred to in paragraph (a) of this subsection.
 
 ### 246 Liability of directors and managers
 (1) If a body corporate commits an offence against this Act, every director, and every person concerned in the management of the body corporate, also commits an offence if it is proved that—
-  (a) The act or omission that constituted the offence took place with the director's or person's authority, permission, or consent; or
-  (b) The director or person knew or should have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
+  (a) the act or omission that constituted the offence took place with the director's or person's authority, permission, or consent; or
+  (b) the director or person knew or should have known that the offence was to be or was being committed and failed to take all reasonable steps to prevent or stop it.
 (2) Every person to whom subsection (1) applies is liable on conviction to the appropriate penalty specified by this Act in respect of the provision creating the offence.
 (3) A person may be convicted of an offence against this section even though the body corporate has not been charged with that offence or a similar offence.
 
@@ -4150,37 +4133,37 @@ A return, record, transaction, form, application, or other information purportin
 
 ### 248 Certificates and official documents
 (1) Subject to subsection (8) of this section, in any proceedings for an offence against this Act—shall be admissible in evidence and shall, in the absence of proof to the contrary, be sufficient evidence of its contents.
-  (a) Any certificate signed by any person holding a public office or exercising a function of a public nature under the law of New Zealand or of a foreign country, stating any matter contained or not contained in a public document; or
-  (b) A public document; or
-  (c) A certified copy of a public document, which copy contains on its face a statement signed by or under the seal of any of the persons specified in paragraph (a) of this subsection certifying that the document is a true copy of the relevant public document—
+  (a) any certificate signed by any person holding a public office or exercising a function of a public nature under the law of New Zealand or of a foreign country, stating any matter contained or not contained in a public document; or
+  (b) a public document; or
+  (c) a certified copy of a public document, which copy contains on its face a statement signed by or under the seal of any of the persons specified in paragraph (a) of this subsection certifying that the document is a true copy of the relevant public document—
 (2) For the purposes of this Part of this Act, the term public document means a document that—
-  (a) Forms part of the records of the legislative, executive, or judicial branch of the Government of New Zealand, or of a person or body holding a public office or exercising a function of a public nature under the law of New Zealand; or
-  (b) Forms part of the records of the legislative, executive, or judicial branch of the government of a foreign country, or of a person or body holding a public office or exercising a function of a public nature under the law of a foreign country; or
-  (c) Forms part of the records of an international organisation whose membership is primarily composed of sovereign states; or
-  (d) Is being kept by or on behalf of a branch of government, person, body, or organisation referred to in paragraph (a) or paragraph (b) or paragraph (c) of this subsection.
+  (a) forms part of the records of the legislative, executive, or judicial branch of the Government of New Zealand, or of a person or body holding a public office or exercising a function of a public nature under the law of New Zealand; or
+  (b) forms part of the records of the legislative, executive, or judicial branch of the government of a foreign country, or of a person or body holding a public office or exercising a function of a public nature under the law of a foreign country; or
+  (c) forms part of the records of an international organisation whose membership is primarily composed of sovereign states; or
+  (d) is being kept by or on behalf of a branch of government, person, body, or organisation referred to in paragraph (a) or paragraph (b) or paragraph (c) of this subsection.
 (3) The imprint of a seal that appears on a public document or certificate and purports to be the imprint of the Seal of New Zealand, or the former Public Seal of New Zealand, or one of the seals of the United Kingdom on a public document or certificate relating to New Zealand, is presumed, unless the contrary is proved, to have been sealed as it purports to have been sealed.
 (4) The imprint of a seal that appears on a public document or certificate and purports to be the imprint of the seal of a body (including a court or tribunal) exercising a function of a public nature under the law of New Zealand is presumed, unless the contrary is proved, to be the imprint of that seal, and the public document or certificate is presumed, unless the contrary is proved, to have been sealed as it purports to have been sealed.
 (5) The imprint of a seal that appears on a public document or certificate and purports to be the imprint of the seal of a person holding a public office or exercising a function of a public nature under the law of New Zealand is presumed, unless the contrary is proved, to be the imprint of that seal, and the public document or certificate is presumed, unless the contrary is proved, to have been sealed as it purports to have been sealed.
 (6) A public document, certified copy of a public document, or certificate that purports to have been signed by a person as the holder of a public office or in the exercise of a function of a public nature under the law of New Zealand is presumed, unless the contrary is proved, to have been signed by that person acting in his or her official capacity.
 (7) Subject to subsection (8) of this section, if, in any proceedings for an offence against this Act, the prosecution tenders evidence that has been produced wholly or partly by a machine, device, or technical process, and the machine, device, or technical process is of a kind that ordinarily does what the prosecution asserts the machine, device, or technical process has done, then, in the absence of proof to the contrary, the evidence shall be admissible and sufficient proof that, on the relevant occasion, the machine, device, or technical process operated in the way asserted by the prosecution.
 (8) Any certificate referred to in subsection (1) or evidence referred to in subsection (7) of this section shall be admissible only if—
-  (a) At least 20 working days before the hearing at which the certificate or evidence is to be tendered, a copy of that certificate or summary of that evidence is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate or summary as a witness at the hearing; and
-  (b) The Court has not, on the application of the defendant made within 10 working days after receipt of the certificate or evidence referred to in paragraph (a) of this subsection, ordered, not less than 5 working days before the hearing (or such lesser period as the Court in the special circumstances of the case thinks fit), that the certificate or evidence is inadmissible as evidence in the proceedings.
+  (a) at least 20 working days before the hearing at which the certificate or evidence is to be tendered, a copy of that certificate or summary of that evidence is served, by or on behalf of the prosecutor, on the defendant or the defendant's agent or counsel, and that person is at the same time informed in writing that the prosecutor does not propose to call the person who signed the certificate or summary as a witness at the hearing; and
+  (b) the Court has not, on the application of the defendant made within 10 working days after receipt of the certificate or evidence referred to in paragraph (a) of this subsection, ordered, not less than 5 working days before the hearing (or such lesser period as the Court in the special circumstances of the case thinks fit), that the certificate or evidence is inadmissible as evidence in the proceedings.
 (9) The Court shall not make an order under subsection (8) of this section unless it is satisfied that there is reasonable doubt as to—
-  (a) The accuracy of the information contained or referred to in the certificate or summary of evidence; or
-  (b) The validity of the certificate or summary of evidence.
+  (a) the accuracy of the information contained or referred to in the certificate or summary of evidence; or
+  (b) the validity of the certificate or summary of evidence.
 
 ### 249 Copies of accounts, records, returns, etc
 (1) A copy of any account, record, return, or information required to be kept, completed, or provided under this Act that purports to be certified by the chief executive as having been kept, completed, or provided (as the case may require), at or within or in relation to any specified time, date, period, or place, shall be sufficient evidence, in the absence of proof to the contrary, of the fact that the account, record, return, or information was so kept, completed, or provided.
 (2) Any copy of a record or other document taken by a fishery officer, or any copy of such a copy, shall, subject to subsection (3) of this section, be admissible, to the same extent as the original record or document would itself be admissible, as evidence of the record or document and of any transactions, dealings, amounts, or other matters contained in the record or the document.
 (3) A copy of any account, record, return, or other document referred to in subsection (1) or subsection (2) of this section (including a copy of such a copy) shall be admissible in evidence only if—
-  (a) The prosecutor or an agent of the prosecutor serves on the defendant, or the defendant's agent or counsel, not less than 20 working days before the hearing at which it is proposed to tender the copy in evidence,—
-    (i) Notice of the prosecutor's intention to tender the copy in evidence; and
-    (ii) A copy of the copy which is to be so tendered; and
+  (a) the prosecutor or an agent of the prosecutor serves on the defendant, or the defendant's agent or counsel, not less than 20 working days before the hearing at which it is proposed to tender the copy in evidence,—
+    (i) notice of the prosecutor's intention to tender the copy in evidence; and
+    (ii) a copy of the copy which is to be so tendered; and
   (b) The Court has not, on the application of the defendant made not less than 10 working days after receipt of the copy referred to in paragraph (a) of this subsection, ordered, not less than 5 working days before the hearing (or such lesser period as the Court in the special circumstances of the case thinks fit), that the copy is inadmissible as evidence in the proceedings.
 (4) The Court shall not make an order under subsection (3) of this section unless it is satisfied that there is reasonable doubt as to—
-  (a) The accuracy of the information contained or referred to in the document; or
-  (b) The validity of the document.
+  (a) the accuracy of the information contained or referred to in the document; or
+  (b) the validity of the document.
 
 ### 250 Presumption as to master of vessel
 In any proceedings for an offence against this Act, an allegation made in an information or indictment about the identity of the master of any vessel, at any specified time, shall be presumed to be true in the absence of proof to the contrary.
@@ -4192,63 +4175,63 @@ If it is provided in this Act that any presumption is to apply in respect of any
 
 ### 252 Penalties
 (1) Every person convicted on indictment of an offence against any of the following provisions of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $250,000, or to both:
-  (a) Section 231(1) (knowingly making a false or misleading statement, etc):
-  (b) Section 231(2) (using a false communication, etc to obtain a benefit):
+  (a) section 231(1) (knowingly making a false or misleading statement, etc):
+  (b) section 231(2) (using a false communication, etc to obtain a benefit):
   (c) section 233(1) and (2) (knowingly acting in contravention of Act to obtain a benefit).
-  (d) Section 296B(5) (approved service delivery organisation knowingly falsifying information):
-  (e) Section 296ZC(3)(b) (approved service delivery organisation knowingly supplying false or misleading information to the Minister):
-  (f) Section 296ZC(3)(c) (approved service delivery organisation knowingly omitting material particular in information supplied to the Minister).
+  (d) section 296B(5) (approved service delivery organisation knowingly falsifying information):
+  (e) section 296ZC(3)(b) (approved service delivery organisation knowingly supplying false or misleading information to the Minister):
+  (f) section 296ZC(3)(c) (approved service delivery organisation knowingly omitting material particular in information supplied to the Minister).
 (2) Every person convicted of an offence against section 84(3) (licensing offences by foreign vessels) of this Act is liable to a fine not exceeding $500,000.
 (3) Every person convicted of an offence against any of the following provisions of this Act is liable to a fine not exceeding $250,000:
   (a)
-  (b) Section 72(4) (unlawfully dumping fish):
+  (b) section 72(4) (unlawfully dumping fish):
   (c) section 78(10) (fishing in breach of condition of permit or condition imposed by chief executive):
   (ca) section 78A(8) (fishing in breach of condition imposed on person who is in substance the same person):
   (cb) section 78A(9) (fishing under permit of different person in order to avoid conditions imposed on own permit):
   (cc) section 79A(8) (fishing under permit of person who is in substance the same person):
   (cd) section 79A(9) (fishing under permit of different person where own permit suspended):
-  (d) Section 84(4) (breach of condition of foreign fishing licence):
-  (e) Section 89(12) (taking other than under the authority of a fishing permit):
-  (f) Section 110(6) (landing fish outside New Zealand):
-  (g) Section 112(4) (fishing unlawfully in the territorial sea):
-  (h) Section 113(4) (possession of fish by vessels other than New Zealand ships):
-  (ha) Section 113A(2) (unlawfully taking fish in foreign fishing jurisdiction):
-  (hb) Section 113D(5) (unlawfully taking fish on high seas):
-  (hc) Section 113E(3) (unlawful use of foreign vessel on high seas by New Zealand national):
-  (hd) Section 113W(4) (failing to co-operate with foreign high seas inspector):
-  (he) Section 190(2) (failure to comply with specification of chief executive in relation to records, returns, etc):
-  (i) Section 191(6) (unlawfully disposing of fish, etc):
-  (j) Section 192(6) (unlawfully receiving fish, etc):
+  (d) section 84(4) (breach of condition of foreign fishing licence):
+  (e) section 89(12) (taking other than under the authority of a fishing permit):
+  (f) section 110(6) (landing fish outside New Zealand):
+  (g) section 112(4) (fishing unlawfully in the territorial sea):
+  (h) section 113(4) (possession of fish by vessels other than New Zealand ships):
+  (ha) section 113A(2) (unlawfully taking fish in foreign fishing jurisdiction):
+  (hb) section 113D(5) (unlawfully taking fish on high seas):
+  (hc) section 113E(3) (unlawful use of foreign vessel on high seas by New Zealand national):
+  (hd) section 113W(4) (failing to co-operate with foreign high seas inspector):
+  (he) section 190(2) (failure to comply with specification of chief executive in relation to records, returns, etc):
+  (i) section 191(6) (unlawfully disposing of fish, etc):
+  (j) section 192(6) (unlawfully receiving fish, etc):
   (ja) section 192A(5) (unlawful acquisition or possession of fish, aquatic life, or seaweed):
-  (k) Sections 224(3), 225(2), 227(4) (contravening provisions relating to observers):
-  (l) Section 229(1) (obstructing fishery officers):
-  (m) Section 230(1) (neglecting or refusing to supply particulars or improperly disclosing information):
-  (n) Section 232(1) and (2) (buying, selling, or possessing fish contrary to this Act).
-  (o) Section 271(2) (failure to keep or provide records or returns):
-  (p) Section 296ZC(3)(a) (failure by an approved service delivery organisation to supply information to the Minister):
-  (q) Section 296ZD(2) (failure by an approved service delivery organisation to have information audited).
+  (k) sections 224(3), 225(2), 227(4) (contravening provisions relating to observers):
+  (l) section 229(1) (obstructing fishery officers):
+  (m) section 230(1) (neglecting or refusing to supply particulars or improperly disclosing information):
+  (n) section 232(1) and (2) (buying, selling, or possessing fish contrary to this Act).
+  (o) section 271(2) (failure to keep or provide records or returns):
+  (p) section 296ZC(3)(a) (failure by an approved service delivery organisation to supply information to the Minister):
+  (q) 2section 96ZD(2) (failure by an approved service delivery organisation to have information audited).
 (4) Every person convicted of an offence against section 257(2) of this Act (prohibition of fishing activity in case of reoffending) is liable to imprisonment for a term not exceeding 1 year or to a fine not exceeding $100,000.
 (5) Every person convicted of an offence against any of the following provisions of this Act is liable to a fine not exceeding $100,000:
-  (a) Section 15(6) (fishing in contravention of a fishing-related mortality measures notice):
-  (b) Section 16(6) (fishing in contravention of emergency measures):
-  (c) Section 74(12) (fishing without a minimum holding of annual catch entitlement):
-  (d) Section 92(6) (breach of condition on fishing permit):
-  (e) Section 97(11) (breach of condition on special permit):
-  (f) Section 103(7) (using unregistered vessel):
-  (g) Section 105(6) (using unregistered vessel for transporting fish):
-  (h) Section 107(9) (failure to notify chief executive):
-  (ha) Section 186A(8) or section 186B(7) (contravention, other than by individual for purposes other than sale, of notice closing area or prohibiting or restricting fishing methods):
-  (hb) Section 113J(2) (breach of condition on high seas fishing permit):
-  (hc) Section 113L(2) (failing to carry high seas fishing permit on vessel):
-  (hd) Section 113ZD(4) (bringing a foreign ship into internal waters of New Zealand when prohibited):
+  (a) section 15(6) (fishing in contravention of a fishing-related mortality measures notice):
+  (b) section 16(6) (fishing in contravention of emergency measures):
+  (c) section 74(12) (fishing without a minimum holding of annual catch entitlement):
+  (d) section 92(6) (breach of condition on fishing permit):
+  (e) section 97(11) (breach of condition on special permit):
+  (f) section 103(7) (using unregistered vessel):
+  (g) section 105(6) (using unregistered vessel for transporting fish):
+  (h) section 107(9) (failure to notify chief executive):
+  (ha) section 186A(8) or section 186B(7) (contravention, other than by individual for purposes other than sale, of notice closing area or prohibiting or restricting fishing methods):
+  (hb) section 113J(2) (breach of condition on high seas fishing permit):
+  (hc) section 113L(2) (failing to carry high seas fishing permit on vessel):
+  (hd) section 113ZD(4) (bringing a foreign ship into internal waters of New Zealand when prohibited):
   (he) section 186P(2) (fish farming other than in accordance with registration or exemption):
-  (i) Section 226(2) (provisions relating to food and accommodation for observers):
-  (j) Section 228(1) (contravening conditions or requirements.):
-  (k) Section 232(1) and (2) (individuals buying, selling, or possessing fish contrary to Act where section 232(4) applies):
-  (l) Section 234(1) (using hazardous substance to catch or destroy fish).
-  (la) Sections 312 and 313 (taking scallops outside of season or fishery, or when fishery closed):
-  (m) Section 368A (taking Foveaux Strait dredge oyster outside season or from prohibited area).
-  (o) Section 369 (taking Northland scallops outside fishery season).
+  (i) section 226(2) (provisions relating to food and accommodation for observers):
+  (j) section 228(1) (contravening conditions or requirements.):
+  (k) section 232(1) and (2) (individuals buying, selling, or possessing fish contrary to Act where section 232(4) applies):
+  (l) section 234(1) (using hazardous substance to catch or destroy fish).
+  (la) sections 312 and 313 (taking scallops outside of season or fishery, or when fishery closed):
+  (m) section 368A (taking Foveaux Strait dredge oyster outside season or from prohibited area).
+  (o) section 369 (taking Northland scallops outside fishery season).
 (6) Every person convicted of an offence against any of the following provisions is liable to a fine not exceeding $5,000:
   (a) section 113M(2) (failure by holder of high seas fishing permit to notify chief executive of change of vessel's ownership or operator):
   (b) section 121(3) (unlawfully releasing sensitive information):
@@ -4263,8 +4246,8 @@ If it is provided in this Act that any presumption is to apply in respect of any
 
 ### 254 Matters to be taken into account by Court in sentencing
 If any person is convicted of an offence against this Act, the Court shall, in imposing sentence, take into account the purpose of this Act and shall have regard to—
-  (a) The difficulties inherent in detecting fisheries offences; and
-  (b) The need to maintain adequate deterrents against the commission of such offences.
+  (a) the difficulties inherent in detecting fisheries offences; and
+  (b) the need to maintain adequate deterrents against the commission of such offences.
 
 ### 255 Interpretation—forfeiture provisions
 (1) In sections 255A to 256, unless the context otherwise requires,—
@@ -4297,37 +4280,37 @@ If any person is convicted of an offence against this Act, the Court shall, in i
 
 ### 255A Forfeiture for infringement offence
 (1) Subsection (2) applies if an infringement notice is issued to a person in respect of an infringement offence against this Act and any of the following occurs:
-  (a) The infringement fee for the offence is paid; or
+  (a) the infringement fee for the offence is paid; or
   (b) a copy of a reminder notice in respect of the infringement offence is filed or a reminder notice is deemed to have been filed in a Court under section 21 of the Summary Proceedings Act 1957, as the case requires, within 6 months from the time when the offence is alleged to have been committed; or
-  (c) The informant and the defendant, in respect of the infringement notice, enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the defendant to pay the relevant infringement fee by instalments; or
-  (d) The person is found guilty, or admits the commission, of the infringement offence.
+  (c) the informant and the defendant, in respect of the infringement notice, enter into an arrangement under section 21(3A) of the Summary Proceedings Act 1957 allowing the defendant to pay the relevant infringement fee by instalments; or
+  (d) the person is found guilty, or admits the commission, of the infringement offence.
 (2) The following are forfeit to the Crown unless (if subsection (1)(d) applies) the Court for special reasons relating to the offence orders otherwise:
-  (a) Any fish of an amount or quantity not exceeding 3 times the amateur individual daily prescribed limit; and
-  (b) Any proceeds from the sale of that fish.
+  (a) any fish of an amount or quantity not exceeding 3 times the amateur individual daily prescribed limit; and
+  (b) any proceeds from the sale of that fish.
 
 ### 255B Forfeiture where person liable to fine exceeding $10,000 but less than $100,000
 (1) Subsection (2) applies in the following cases:
   (a)
-  (b) Where a person is proceeded against summarily (other than by way of an infringement notice) in respect of an infringement offence against this Act and is found guilty of, or pleads guilty to, the offence:
-  (c) On conviction for an offence against this Act for which the person is liable to a fine not exceeding $10,000 (other than an offence referred to in section 255C):
-  (d) On conviction for an offence against this Act (other than an offence referred to in section 255C) for which the person is liable to a maximum fine exceeding $10,000 but less than $100,000.
+  (b) where a person is proceeded against summarily (other than by way of an infringement notice) in respect of an infringement offence against this Act and is found guilty of, or pleads guilty to, the offence:
+  (c) on conviction for an offence against this Act for which the person is liable to a fine not exceeding $10,000 (other than an offence referred to in section 255C):
+  (d) on conviction for an offence against this Act (other than an offence referred to in section 255C) for which the person is liable to a maximum fine exceeding $10,000 but less than $100,000.
 (2) The following are forfeit to the Crown unless the Court for special reasons relating to the offence orders otherwise:
-  (a) Any fish and any proceeds from the sale of such fish; and
-  (b) Any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207).
+  (a) any fish and any proceeds from the sale of such fish; and
+  (b) any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207).
 (3) On conviction of a person for an offence referred to in subsection (1)(d), the Court may order that any property used in the commission of the offence is forfeit to the Crown.
 
 ### 255C Forfeiture for section 252(2), (3), and (5) offences, offences carrying fine of $100,000, repeat offences, and serious non-commercial offences
 (1) Subsection (2) applies in the following cases:
-  (a) On conviction for an offence referred to in section 252(2) or (3) or (5):
-  (b) On conviction for an offence against this Act for which the person is liable to a maximum fine of $100,000:
-  (c) On conviction for a serious non-commercial offence:
-  (d) Where a person has been convicted of 2 or more offences against this Act and—
-    (i) The offences were committed on more than 1 occasion within a period of 3 years; and
-    (ii) The offences were offences for which the person was liable to a fine exceeding $5,000.
+  (a) on conviction for an offence referred to in section 252(2) or (3) or (5):
+  (b) on conviction for an offence against this Act for which the person is liable to a maximum fine of $100,000:
+  (c) on conviction for a serious non-commercial offence:
+  (d) where a person has been convicted of 2 or more offences against this Act and—
+    (i) the offences were committed on more than 1 occasion within a period of 3 years; and
+    (ii) the offences were offences for which the person was liable to a fine exceeding $5,000.
 (2) The following are forfeit to the Crown unless the Court for special reasons relating to the offence orders otherwise:
-  (a) Any fish and any proceeds from the sale of such fish; and
-  (b) Any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207); and
-  (c) Any property used in the commission of the offence; and.
+  (a) any fish and any proceeds from the sale of such fish; and
+  (b) any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207); and
+  (c) any property used in the commission of the offence; and.
   (d) in the case of a conviction for an offence under section 186P, any property (excluding fish farm structures) used in the fish farm concerned.
 (3) On conviction of a person for an offence referred to in section 252(2) or (3), the Court may order that—
   (a) any quota is forfeit to the Crown; and
@@ -4339,9 +4322,9 @@ If any person is convicted of an offence against this Act, the Court shall, in i
 ### 255D Forfeiture for section 252(1) or (4) offence
 (1) Subsection (2) applies on conviction for an offence referred to in section 252(1) or (4).
 (2) The following are forfeit to the Crown unless the Court for special reasons relating to the offence orders otherwise:
-  (a) Any fish and any proceeds from the sale of such fish; and
-  (b) Any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207); and
-  (c) Any property used in the commission of the offence; and
+  (a) any fish and any proceeds from the sale of such fish; and
+  (b) any illegal fishing gear in respect of which the offence was committed (whether or not seized under section 207); and
+  (c) any property used in the commission of the offence; and
   (d) any quota; and
   (e) any associated quota, unless the Court is satisfied that section 255E(3B) applies to preclude forfeiture.
 
@@ -4349,16 +4332,16 @@ If any person is convicted of an offence against this Act, the Court shall, in i
 (1) If any property, fish, aquatic life, seaweed, or quota is forfeited to the Crown under this Act, such property, fish, aquatic life, seaweed, or quota, despite section 168, vests in the Crown absolutely and free of all encumbrances.
 (1A) Despite subsection (1), if settlement quota is forfeit to the Crown under this Act, the quota continues to be subject to a settlement quota interest.
 (2) For the avoidance of doubt, any vessel used by the offender to take or transport fish, aquatic life, or seaweed must be treated as property used in the commission of the offence if the fish, aquatic life, or seaweed is the subject of an offence against—
-  (a) Section 230 or section 231; or
-  (b) Regulations made under section 297 or section 298 or section 299, which regulations relate to—
-    (i) Making any false or misleading statements in any return; or
-    (ii) Omitting any information in any return; or
-    (iii) Completing, keeping, or providing any return.
+  (a) section 230 or section 231; or
+  (b) regulations made under section 297 or section 298 or section 299, which regulations relate to—
+    (i) making any false or misleading statements in any return; or
+    (ii) omitting any information in any return; or
+    (iii) completing, keeping, or providing any return.
 (3) At the time of conviction of any offence against this Act, the Court must determine what, if any, of the following is forfeit under any of sections 255A to 255D:
-  (a) Fish and any proceeds from the sale of such fish:
-  (b) Illegal fishing gear:
-  (c) Property used in the commission of the offence:
-  (d) Quota.
+  (a) fish and any proceeds from the sale of such fish:
+  (b) illegal fishing gear:
+  (c) property used in the commission of the offence:
+  (d) quota.
   (e) associated quota, unless the Court is satisfied that subsection (3B) applies to preclude forfeiture.
 (3A) Where the Court is considering the forfeiture of any quota alleged to be associated quota, the Court must give any person who owns that quota a reasonable opportunity to make submissions and be heard on the questions of whether—
   (a) the quota is associated quota; and
@@ -4369,10 +4352,10 @@ If any person is convicted of an offence against this Act, the Court shall, in i
 
 ### 256 Provisions relating to forfeit property
 (1) In this section, unless the context otherwise requires,—
-  - **Forfeit property** means any—forfeit to the Crown under any of sections 255A to 255D
-    (a) Fish and any proceeds from the sale of such fish; or
-    (b) Property used in the commission of the offence; or
-    (c) Quota—
+  - **forfeit property** means any—forfeit to the Crown under any of sections 255A to 255D
+    (a) fish and any proceeds from the sale of such fish; or
+    (b) property used in the commission of the offence; or
+    (c) quota—
   - **interest** means,—
     (a) in the case of quota, an interest in the quota that is recorded on the Quota Register at the time of the forfeiture:
     (b) in the case of a foreign vessel, a foreign-owned New Zealand fishing vessel, or a foreign-operated fish carrier,—
@@ -4385,44 +4368,44 @@ If any person is convicted of an offence against this Act, the Court shall, in i
   (b) the forfeit property has a total estimated value of $200 or more,—
 (3) Any person claiming an interest in any forfeit property may, within 35 working days after the date of the forfeiture or within such further period before the property is disposed of as the Court may allow, apply to the Court for relief from the effect of forfeiture on that interest.
 (4) Every application under subsection (3) of this section shall contain sufficient information to identify the interest and the property in which it is claimed, and shall include—
-  (a) A full description of the forfeit property in which the interest is claimed, including reference to any registration or serial number; and
-  (b) Full details of the interest or interests claimed, including—
-    (i) Whether the interest is legal or equitable; and
-    (ii) Whether the interest is by way of security or otherwise; and
-    (iii) If the interest is by way of security, details of the security arrangement and any other property included in that arrangement; and
-    (iv) Whether the interest is noted on any register maintained pursuant to statute; and
-    (v) Any other interests in the property known to the applicant; and
+  (a) a full description of the forfeit property in which the interest is claimed, including reference to any registration or serial number; and
+  (b) full details of the interest or interests claimed, including—
+    (i) whether the interest is legal or equitable; and
+    (ii) whether the interest is by way of security or otherwise; and
+    (iii) if the interest is by way of security, details of the security arrangement and any other property included in that arrangement; and
+    (iv) whether the interest is noted on any register maintained pursuant to statute; and
+    (v) any other interests in the property known to the applicant; and
   (c)
-  (d) The applicant's estimate of the value of the forfeit property and of the value of the claimed interest.
+  (d) the applicant's estimate of the value of the forfeit property and of the value of the claimed interest.
 (5) The Court shall hear all applications in respect of the same property together, unless it considers that it would not be in the interests of justice to do so.
 (6) The Court shall, in respect of every application made under subsection (3) of this section,—
-  (a) Determine the value of the forfeit property, being the amount the property would realise if sold at public auction in New Zealand; and
-  (b) Determine the nature, extent, and, if possible, the value of any applicant's interest in the property; and
+  (a) determine the value of the forfeit property, being the amount the property would realise if sold at public auction in New Zealand; and
+  (b) determine the nature, extent, and, if possible, the value of any applicant's interest in the property; and
   (c)
-  (d) Determine the cost to the Ministry of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the forfeit property, including the court proceedings in respect of that seizure, holding, and disposal.
+  (d) determine the cost to the Ministry of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the forfeit property, including the court proceedings in respect of that seizure, holding, and disposal.
 (7) Having determined the matters specified in subsection (6) of this section, the Court may, after having regard to—and, subject to subsection (8), make an order or orders providing relief (either in whole or part) from the effect of forfeiture on any of the interests determined under subsection (6) of this section.
-  (a) The purpose of this Act; and
-  (b) The effect of the offence from which the forfeiture arose on the aquatic environment from which the fish, aquatic life, or seaweed was taken or in which the vessel was operating; and
-  (c) The effect of the offence from which the forfeiture arose on other fishers (whether commercial or otherwise) fishing in the area or for the stock in respect of which the offence occurred; and
-  (d) The effect of offending of the type from which the forfeiture arose on the relevant aquatic environment; and
-  (e) The effect of offending of the type from which the forfeiture arose on other fishers (whether commercial or otherwise) fishing in the area or for the stock in respect of which the offence occurred; and
-  (f) The social and economic effects on the person who owned the property or quota, and on persons employed by that person, of non-release of the property or quota; and
-  (g) The effect of offending of the type from which the forfeiture arose on fisheries management and administration systems (including the keeping of records and the providing of returns); and
-  (h) The previous offending history (if any) of the person from whose conviction the forfeiture arose; and
-  (i) The economic benefits that accrued or might have accrued to the owners of the property or quota through the commission of the offence; and
-  (j) The prevalence of offending of the type from which the forfeiture arose; and
-  (k) The cost to the Ministry of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the property or quota, including the court proceedings in respect of that seizure, holding, and disposal,—
+  (a) the purpose of this Act; and
+  (b) the effect of the offence from which the forfeiture arose on the aquatic environment from which the fish, aquatic life, or seaweed was taken or in which the vessel was operating; and
+  (c) the effect of the offence from which the forfeiture arose on other fishers (whether commercial or otherwise) fishing in the area or for the stock in respect of which the offence occurred; and
+  (d) the effect of offending of the type from which the forfeiture arose on the relevant aquatic environment; and
+  (e) the effect of offending of the type from which the forfeiture arose on other fishers (whether commercial or otherwise) fishing in the area or for the stock in respect of which the offence occurred; and
+  (f) the social and economic effects on the person who owned the property or quota, and on persons employed by that person, of non-release of the property or quota; and
+  (g) the effect of offending of the type from which the forfeiture arose on fisheries management and administration systems (including the keeping of records and the providing of returns); and
+  (h) the previous offending history (if any) of the person from whose conviction the forfeiture arose; and
+  (i) the economic benefits that accrued or might have accrued to the owners of the property or quota through the commission of the offence; and
+  (j) the prevalence of offending of the type from which the forfeiture arose; and
+  (k) the cost to the Ministry of the prosecution of the offence which resulted in the forfeiture, and the seizure, holding, and anticipated cost of disposal of the property or quota, including the court proceedings in respect of that seizure, holding, and disposal,—
 (8) No order shall be made under subsection (7) of this section unless—
-  (a) It is necessary to avoid manifest injustice or to satisfy an interest referred to in paragraph (b)(ii) or (iii) of the definition of interest in subsection (1)
+  (a) it is necessary to avoid manifest injustice or to satisfy an interest referred to in paragraph (b)(ii) or (iii) of the definition of interest in subsection (1)
   (b)
 (9)
 (10)
 (11) Without limiting subsection (7) of this section, any order under that subsection may order one or more of the following:
-  (a) The retention of the forfeit property by the Crown:
-  (b) The return of some or all of the forfeit property to the owner at the time of forfeiture, with or without the prior payment to the Crown of a sum of money:
-  (c) The sale of some or all of the forfeit property, with directions as to the manner of sale and dispersal of proceeds:
-  (d) The delivery of some or all of the forfeit property to a person with an interest in the property, with or without directions as to payment of a sum of money to specified persons (including the Crown) prior to such delivery:
-  (e) The reinstatement (notwithstanding the forfeiture) of any interest that was forfeit or cancelled as a result of a forfeiture.
+  (a) the retention of the forfeit property by the Crown:
+  (b) the return of some or all of the forfeit property to the owner at the time of forfeiture, with or without the prior payment to the Crown of a sum of money:
+  (c) the sale of some or all of the forfeit property, with directions as to the manner of sale and dispersal of proceeds:
+  (d) the delivery of some or all of the forfeit property to a person with an interest in the property, with or without directions as to payment of a sum of money to specified persons (including the Crown) prior to such delivery:
+  (e) the reinstatement (notwithstanding the forfeiture) of any interest that was forfeit or cancelled as a result of a forfeiture.
 (11A) If the Court makes an order under subsection (11) that relates to settlement quota, the person taking possession of that quota by order of the Court may only dispose of the quota in accordance with sections 161 (except subsection (2)) and 163 of the Maori Fisheries Act 2004, as if he or she were a mandated iwi organisation.
 (12) This section does not require the Crown to pay, or secure the payment of, any sum of money to any person claiming an interest in forfeit property, other than the net proceeds of sale of forfeit property under a court order made under subsection (7) of this section.
 (13) For the purpose of assisting the Court in determining any application for relief, the chief executive and any employee or agent of the Ministry is entitled to appear before the Court and be heard.
@@ -4430,30 +4413,30 @@ If any person is convicted of an offence against this Act, the Court shall, in i
 
 ### 257 Prohibition of fishing activity in case of reoffending
 (1) If any person is convicted of—within a period of 7 years, the Court shall, in addition to any other penalty imposed, order—
-  (a) Two or more offences against this Act that are offences referred to in subsection (1) or subsection (2) or subsection (3) of section 252 of this Act, and are offences committed on different occasions; or
-  (b) Three or more offences that are offences referred to in subsection (1) or subsection (2) or subsection (3) or subsection (5) of section 252 of this Act, and are offences committed on different occasions,—
-  (c) That the person forfeit any licence, approval, permission, or fishing permit obtained under this Act; and
-  (d) That the person be prohibited, for a period of 3 years commencing on the date of the most recent conviction, from doing any of the following:
-    (i) Holding any licence, approval, permission, or fishing permit obtained under this Act:
-    (ii) Engaging in fishing or any activity associated with the taking of fish, aquatic life, or seaweed:
-    (iii) Deriving any beneficial income from activities associated with the taking of fish, aquatic life, or seaweed.
+  (a) two or more offences against this Act that are offences referred to in subsection (1) or subsection (2) or subsection (3) of section 252 of this Act, and are offences committed on different occasions; or
+  (b) three or more offences that are offences referred to in subsection (1) or subsection (2) or subsection (3) or subsection (5) of section 252of this Act, and are offences committed on different occasions,—
+  (c) that the person forfeit any licence, approval, permission, or fishing permit obtained under this Act; and
+  (d) that the person be prohibited, for a period of 3 years commencing on the date of the most recent conviction, from doing any of the following:
+    (i) holding any licence, approval, permission, or fishing permit obtained under this Act:
+    (ii) engaging in fishing or any activity associated with the taking of fish, aquatic life, or seaweed:
+    (iii) deriving any beneficial income from activities associated with the taking of fish, aquatic life, or seaweed.
 (2) Every person commits an offence and is liable to the penalty set out in section 252(4) of this Act who knowingly contravenes or fails to comply with an order made under subsection (1) of this section.
 (3) Notwithstanding subsection (1) of this section, the Court may, in the circumstances of any particular case, and upon application being made to it by the person concerned within 30 days after the date of conviction or such extended period as the Court may allow, direct that any particular licence, approval, permission, or fishing permit shall not be forfeit, or that the person shall not be prohibited from engaging in fishing or in any activity associated with the taking of fish, aquatic life, or seaweed or deriving any beneficial income from fishing or any activity associated with the taking of fish, aquatic life, or seaweed.
 (4) For the purposes of this section, every conviction in respect of an offence against the Fisheries Act 1983 shall be deemed to be a conviction in respect of an offence against this Act that is referred to in section 252(3) of this Act.
 (5) For the purposes of this section, if—that conviction shall be deemed to be a conviction in respect of an offence against this Act that is referred to in section 252(3) of this Act.
-  (a) A person is convicted of assault or of any other offence of which an assault constitutes an element, and the conviction relates to an offence committed on or after the 1st day of April 1990; and
-  (b) The assault was on a person who was at the time carrying out the duties of a fishery officer under this Act,—
+  (a) a person is convicted of assault or of any other offence of which an assault constitutes an element, and the conviction relates to an offence committed on or after the 1st day of April 1990; and
+  (b) the assault was on a person who was at the time carrying out the duties of a fishery officer under this Act,—
 (6) Subsections (1) and (4) of this section do not apply to any offence committed by a person in respect of which—
-  (a) A conviction was entered on or after the 1st day of November 1990; and
-  (b) The maximum fine on conviction for a first offence does not (or did not at the time) exceed $5,000.
+  (a) a conviction was entered on or after the 1st day of November 1990; and
+  (b) the maximum fine on conviction for a first offence does not (or did not at the time) exceed $5,000.
 
 ### 258 Sum equal to deemed value payable if catch returns not completed or provided, or false returns provided
 (1) Every person convicted of an offence against—
-  (a) Section 230 or section 231 of this Act; or
-  (b) Any regulations made under this Act relating to—in respect of the taking of any fish, aquatic life, or seaweed subject to the quota management system, shall, in addition to any fine that may be imposed by the Court, be liable to pay to the Crown, within 20 days after demand is made by the chief executive, a sum of money equal to the deemed value amount that would have been payable if the fish, aquatic life, or seaweed had been included in the reported catch of that person under section 76 of this Act at the time of the offence, and, if that person is not a commercial fisher, that section shall be read as if the person were a commercial fisher.
-    (i) Making any false or misleading statements in any record or return; or
-    (ii) Omitting any information in any record or return; or
-    (iii) Completing, keeping, or providing any record or return,—
+  (a) section 230 or section 231 of this Act; or
+  (b) any regulations made under this Act relating to—in respect of the taking of any fish, aquatic life, or seaweed subject to the quota management system, shall, in addition to any fine that may be imposed by the Court, be liable to pay to the Crown, within 20 days after demand is made by the chief executive, a sum of money equal to the deemed value amount that would have been payable if the fish, aquatic life, or seaweed had been included in the reported catch of that person under section 76 of this Act at the time of the offence, and, if that person is not a commercial fisher, that section shall be read as if the person were a commercial fisher.
+    (i) making any false or misleading statements in any record or return; or
+    (ii) omitting any information in any record or return; or
+    (iii) completing, keeping, or providing any record or return,—
 (2) Any sum demanded under this section shall be recoverable in the same manner as a sum assessed and payable under section 76 of this Act.
 
 ### 259 Rewards to informants
@@ -4470,25 +4453,25 @@ If any person is convicted of an offence against this Act, the Court shall, in i
 
 ### 260A Infringement offences
 (1) If a fishery officer has reason to believe that a person has committed an infringement offence, the fishery officer may—
-  (a) Commence proceedings against the person for the alleged offence by laying an information under the Summary Proceedings Act 1957; or
-  (b) Issue an infringement notice in respect of the alleged offence.
+  (a) commence proceedings against the person for the alleged offence by laying an information under the Summary Proceedings Act 1957; or
+  (b) issue an infringement notice in respect of the alleged offence.
 (2) Despite anything in section 21 of the Summary Proceedings Act 1957, leave of a District Court Judge or Registrar to lay an information is not necessary if a fishery officer proceeds with an infringement offence summarily.
 (3) If an infringement notice is issued, a fishery officer may do 1 or more of the following with the infringement notice:
-  (a) Deliver it (or a copy of it) to the person:
-  (b) Fix it (or a copy of it) to a conspicuous part of a fishing vessel relating to the commission of the offence:
-  (c) Send it (or a copy of it) to the person by post addressed to the person's last known place of residence or business.
+  (a) deliver it (or a copy of it) to the person:
+  (b) fix it (or a copy of it) to a conspicuous part of a fishing vessel relating to the commission of the offence:
+  (c) send it (or a copy of it) to the person by post addressed to the person's last known place of residence or business.
 (4) If the notice was fixed or sent in accordance with subsection (3), it is deemed to have been served on the person for the purposes of the Summary Proceedings Act 1957.
 
 ### 260B Infringement notices
 (1) Every infringement notice must be in an approved form and must include the following particulars:
-  (a) Sufficient detail to inform the person of the time, place, and nature of the alleged offence:
-  (b) The infringement fee for the offence:
-  (c) The address at which the infringement fee may be paid:
-  (d) The time within which the infringement fee may be paid:
-  (e) A summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
-  (f) A statement that the person has a right to request a hearing:
-  (g) A statement of the consequences if the person does not pay the infringement fee or request a hearing:
-  (h) Any other matters prescribed for that purpose.
+  (a) sufficient detail to inform the person of the time, place, and nature of the alleged offence:
+  (b) the infringement fee for the offence:
+  (c) the address at which the infringement fee may be paid:
+  (d) the time within which the infringement fee may be paid:
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957:
+  (f) a statement that the person has a right to request a hearing:
+  (g) a statement of the consequences if the person does not pay the infringement fee or request a hearing:
+  (h) any other matters prescribed for that purpose.
 (1A) Every infringement offence reminder notice must be in an approved form, and must include the same particulars, or substantially the same particulars, as the infringement notice.
 (2) There may be different approved forms for different kinds of infringement offences.
 
@@ -4502,36 +4485,36 @@ The purpose of this Part is to enable the Crown to recover its costs in respect 
 
 ### 262 Cost recovery principles
 The cost recovery principles under this Part are as follows:
-  (a) If a conservation service or fisheries service is provided at the request of an identifiable person, that person must pay a fee for the service:
-  (b) Costs of conservation services or fisheries services provided in the general public interest, rather than in the interest of an identifiable person or class of person, may not be recovered:
-  (c) Costs of conservation services or fisheries services provided to manage or administer the harvesting or farming of fisheries resources must, so far as practicable, be attributed to the persons who benefit from harvesting or farming the resources:
-  (d) Costs of conservation services or fisheries services provided to avoid, remedy, or mitigate a risk to, or an adverse effect on, the aquatic environment or the biological diversity of the aquatic environment must, so far as practicable, be attributed to the persons who caused the risk or adverse effect:
-  (e) The Crown may not recover under this Part the costs of services provided by an approved service delivery organisation under Part 15A.
+  (a) if a conservation service or fisheries service is provided at the request of an identifiable person, that person must pay a fee for the service:
+  (b) costs of conservation services or fisheries services provided in the general public interest, rather than in the interest of an identifiable person or class of person, may not be recovered:
+  (c) costs of conservation services or fisheries services provided to manage or administer the harvesting or farming of fisheries resources must, so far as practicable, be attributed to the persons who benefit from harvesting or farming the resources:
+  (d) costs of conservation services or fisheries services provided to avoid, remedy, or mitigate a risk to, or an adverse effect on, the aquatic environment or the biological diversity of the aquatic environment must, so far as practicable, be attributed to the persons who caused the risk or adverse effect:
+  (e) the Crown may not recover under this Part the costs of services provided by an approved service delivery organisation under Part 15A.
 
 ### 263 Cost recovery rules
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, make rules relating to the imposition of levies under this Part.
 (2) The rules may—
-  (a) Prescribe the proportion of costs of conservation services and fisheries services to be recovered as levies:
-  (b) Prescribe who must pay levies:
-  (c) Prescribe how the costs are to be apportioned between the persons who must pay the levies.
+  (a) prescribe the proportion of costs of conservation services and fisheries services to be recovered as levies:
+  (b) prescribe who must pay levies:
+  (c) prescribe how the costs are to be apportioned between the persons who must pay the levies.
 (3) Without limiting anything in subsections (1) and (2), different rules may apply in respect of different classes of persons, stocks, quota management areas, fishery management areas, conservation services, fisheries services, or any combination of them.
 (4) Before making a recommendation under subsection (1), the Minister must—
-  (a) Be satisfied that the rules to which the recommendation relates comply with the cost recovery principles in section 262; and
-  (b) Have regard to the extent to which conservation services or fisheries services are wholly or partly purchased or provided by persons other than the Crown.
+  (a) be satisfied that the rules to which the recommendation relates comply with the cost recovery principles in section 262; and
+  (b) have regard to the extent to which conservation services or fisheries services are wholly or partly purchased or provided by persons other than the Crown.
 (5) Without limiting the Acts Interpretation Act 1924, no order made under this section is invalid because it leaves any matter to the discretion of any person.
 
 ### 264 Levies
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister,—
-  (a) Impose levies for the purpose of this Part:
-  (b) Amend or revoke an order made under this section.
+  (a) impose levies for the purpose of this Part:
+  (b) amend or revoke an order made under this section.
 (2) Subject to section 265A, the Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that the proposed order to which the recommendation relates is consistent with rules in force under section 263.
 (3) Without limiting the generality of subsection (1), an order may—
-  (a) Prescribe, or provide for the fixing of different rates of levy in respect of different classes of persons, species or kinds of fish or aquatic life or seaweed, quantities of fish or aquatic life or seaweed, quota management areas, fishery management areas, or any combination of them:
-  (b) Prescribe, or provide for the fixing of, different rates of levy based on the value of quota or annual catch entitlement, the port price of fish or aquatic life or seaweed landed, or on any other differential basis relating to commercial fishing or fish farming:
-  (c) Specify that a levy is payable on the basis of the amount of fish, aquatic life, or seaweed processed or taken, or quota, annual catch entitlement, or individual catch entitlement held, during a specified period or on a specified day; or specify any other method for assessing that amount:
-  (d) Prescribe a date by which, and the place at which, a levy is payable:
-  (e) Prescribe different dates for the payment of different levies:
-  (f) Authorise the chief executive to prescribe or provide for such matters as may be necessary or expedient to administer the collection of a levy imposed under subsection (1).
+  (a) prescribe, or provide for the fixing of different rates of levy in respect of different classes of persons, species or kinds of fish or aquatic life or seaweed, quantities of fish or aquatic life or seaweed, quota management areas, fishery management areas, or any combination of them:
+  (b) prescribe, or provide for the fixing of, different rates of levy based on the value of quota or annual catch entitlement, the port price of fish or aquatic life or seaweed landed, or on any other differential basis relating to commercial fishing or fish farming:
+  (c) specify that a levy is payable on the basis of the amount of fish, aquatic life, or seaweed processed or taken, or quota, annual catch entitlement, or individual catch entitlement held, during a specified period or on a specified day; or specify any other method for assessing that amount:
+  (d) prescribe a date by which, and the place at which, a levy is payable:
+  (e) prescribe different dates for the payment of different levies:
+  (f) authorise the chief executive to prescribe or provide for such matters as may be necessary or expedient to administer the collection of a levy imposed under subsection (1).
 
 ### 265 Under-recovery and over-recovery of costs
 Without limiting anything in section 264, but subject to section 265A, the Minister must, in recommending the making of an order under section 264, have regard to the costs of any conservation services or fisheries services incurred by the Crown in a previous financial year that—
@@ -4554,12 +4537,12 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
   (a) no regard is to be had to the costs of any conservation services or fisheries services incurred by the Crown in any financial year ending on or before 30 September 2002, except where those costs arise from conservation services or fisheries services initiated but not completed on or before 30 September 2002; and
   (b) any previous reduction in the amount of costs recovered or recoverable by virtue of the application of any settlement sum under this section must be disregarded.
 (5) The Minister must, as soon as practicable after making any recommendation under section 264 that has required an adjustment under subsection (1)(b)(i) or subsection (2) or subsection (3), state the remaining balance for each affected stock or grouping by notice in the Gazette.
-(6) In this section, remaining balance means the relevant settlement sum allocated to a stock or grouping under Part 1 of Schedule 9A less all previous adjustments made by the Minister under subsection (l)(b)(i) or subsection (2), and less or plus (as the case may require) any adjustments made by the Minister under subsection (3).
+(6) In this section, remaining balance means the relevant settlement sum allocated to a stock or grouping under Part 1 of Schedule 9A less all previous adjustments made by the Minister under subsection (1)(b)(i) or subsection (2), and less or plus (as the case may require) any adjustments made by the Minister under subsection (3).
 
 ### 266 Other fees, charges, or levies
 (1) This part does not—
-  (a) Limit any other provision in this Act that requires the payment, or empowers the imposition, of a fee, charge, or levy relating to conservation services or fisheries services; or
-  (b) Limit the recovery of costs in respect of conservation services or fisheries services by any means other than a levy under section 264.
+  (a) limit any other provision in this Act that requires the payment, or empowers the imposition, of a fee, charge, or levy relating to conservation services or fisheries services; or
+  (b) limit the recovery of costs in respect of conservation services or fisheries services by any means other than a levy under section 264.
 (2) This part does not require the Minister to have regard to the circumstances of any person when recommending the imposition of a fee, charge, or levy relating to conservation services or fisheries services.
 (3) The Minister may not have regard to any deemed value payable or paid when recommending the imposition of a fee, charge, or levy relating to conservation services or fisheries services.
 
@@ -4570,15 +4553,15 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 
 ### 268 Caveats on quota
 (1) The chief executive may, after giving a person notice in writing of the chief executive's intention to do so, direct that a caveat be registered over quota held by that person if—
-  (a) The person is liable to pay—
-    (i) A levy imposed under section 264; or
-    (ii) An additional amount payable under section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995; and
-  (b) The person does not pay the levy or additional amount in full within 2 months after the date on which payment of the levy is due, or within the time allowed under an arrangement with the chief executive, as the case may be; and
-  (c) Payment of the outstanding levy or additional amount has not been waived under section 267(2) or section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995, as the case may be.
+  (a) the person is liable to pay—
+    (i) a levy imposed under section 264; or
+    (ii) an additional amount payable under section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995; and
+  (b) the person does not pay the levy or additional amount in full within 2 months after the date on which payment of the levy is due, or within the time allowed under an arrangement with the chief executive, as the case may be; and
+  (c) payment of the outstanding levy or additional amount has not been waived under section 267(2) or section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995, as the case may be.
 (2) The chief executive may direct that a caveat be registered under subsection (1) regardless of whether on not the levy has been imposed on the person as a quota owner.
 (3) The chief executive—
-  (a) Must direct that a caveat entered in a register under this section be withdrawn if the outstanding levy (including an additional amount payable under section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995) is paid in full to the chief executive:
-  (b) May direct that a caveat entered in a register under this section be withdrawn if the chief executive and the person liable to pay the outstanding amount enter into an arrangement for repayment of the amount.
+  (a) must direct that a caveat entered in a register under this section be withdrawn if the outstanding levy (including an additional amount payable under section 18 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995) is paid in full to the chief executive:
+  (b) may direct that a caveat entered in a register under this section be withdrawn if the chief executive and the person liable to pay the outstanding amount enter into an arrangement for repayment of the amount.
 
 ### 269 Suspension of permit, licence, or registration where levies unpaid
 (1) The chief executive may, by notice in writing, after giving a person notice in writing of the chief executive's intention to do so, suspend a fishing permit or special permit or licensed fish receiver's licence or controlled fishery licence or fish farmer's registration held by the person if—
@@ -4601,8 +4584,8 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 
 ### 271 Records and returns
 (1) The chief executive may, by notice in the Gazette,—
-  (a) Require records and returns to be kept and provided by a person who must pay a levy:
-  (b) Prescribe conditions relating to the keeping and provision of those records and returns.
+  (a) require records and returns to be kept and provided by a person who must pay a levy:
+  (b) prescribe conditions relating to the keeping and provision of those records and returns.
 (2) A person commits an offence if the person fails to comply with a requirement imposed by the chief executive under subsection (1), and is liable to the penalty set out in section 252(3).
 
 ### 272 Levies to be separately accounted for
@@ -4625,18 +4608,18 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 (1) The Minister may from time to time establish an advisory committee, to be known as the National Fisheries Advisory Council, to advise the Minister on any matter from time to time determined by the Minister for the purpose of this Act.
 (2) The Minister may authorise the Council to make such inquiries, conduct such research, and make such reports, as may assist the Council in advising the Minister.
 (3) Without limiting subsection (1) or subsection (2) of this section, the Minister may require the Council to advise him or her on—
-  (a) Ensuring sustainability, including the setting of total allowable catches and other sustainability measures:
-  (b) The utilisation of New Zealand's fisheries resources, including the setting of total allowable commercial catches and the introduction of new species into the quota management system:
-  (c) Fisheries research, including the establishment of priorities, standards, and specifications for such research:
-  (d) Fisheries administration services, including planning and the establishment of priorities, standards, and specifications for such services:
-  (e) Enforcement issues, including the establishment of standards and specifications for enforcement.
+  (a) ensuring sustainability, including the setting of total allowable catches and other sustainability measures:
+  (b) the utilisation of New Zealand's fisheries resources, including the setting of total allowable commercial catches and the introduction of new species into the quota management system:
+  (c) fisheries research, including the establishment of priorities, standards, and specifications for such research:
+  (d) fisheries administration services, including planning and the establishment of priorities, standards, and specifications for such services:
+  (e) enforcement issues, including the establishment of standards and specifications for enforcement.
 
 ### 277 Members
 (1) The Minister may from time to time appoint to be members of the National Fisheries Advisory Council—
-  (a) If appropriate, a representative of Chatham Islanders; and
-  (b) Such other members from time to time determined by the Minister after consultation with—
-    (i) The Minister of Maori Affairs, the Minister of Conservation, the Minister of Research, Science, and Technology, and the Minister for the Environment; and
-    (ii) Such persons or organisations as the Minister considers are representative of classes of persons having an interest in the particular matter for which the Council is being established, including Maori, environmental, commercial, and recreational interests.
+  (a) if appropriate, a representative of Chatham Islanders; and
+  (b) such other members from time to time determined by the Minister after consultation with—
+    (i) the Minister of Maori Affairs, the Minister of Conservation, the Minister of Research, Science, and Technology, and the Minister for the Environment; and
+    (ii) such persons or organisations as the Minister considers are representative of classes of persons having an interest in the particular matter for which the Council is being established, including Maori, environmental, commercial, and recreational interests.
 (2) Every member of the Council shall hold office during the pleasure of the Minister.
 (3) Any member of the Council may resign his or her office at any time by notice in writing to the Minister.
 (4) The Minister may make any appointment of a member subject to the condition that the member assist and provide advice only in respect of a specified matter and, in that case, the member shall comply with that condition.
@@ -4656,8 +4639,8 @@ Without limiting anything in section 264, but subject to section 265A, the Minis
 
 ### 281 Certain powers of Minister not to be delegated
 The Minister shall not delegate to any person the power—
-  (a) To appoint or renew the appointment of members of the National Fisheries Advisory Council under section 277 of this Act; or
-  (b) To remove any member of the Council from office under that section.
+  (a) to appoint or renew the appointment of members of the National Fisheries Advisory Council under section 277 of this Act; or
+  (b) to remove any member of the Council from office under that section.
 
 ### 282 Reports
 (1) The National Fisheries Advisory Council, when from time to time directed by the Minister, shall provide the Minister and the chief executive with a general report of the operations of the Council.
@@ -4668,14 +4651,14 @@ The Minister shall not delegate to any person the power—
 ### 283 Catch History Review Committee established
 (1) There is hereby established the Catch History Review Committee.
 (2) After consultation with such persons as the Minister considers are representative of those classes of persons having an interest in the matters dealt with by section 284 of this Act, the Minister shall, by notice in the Gazette, appoint persons who—to be members of the Catch History Review Committee, and appoint one of them to be chairperson of the Committee responsible for supervising and directing the work of the Committee.
-  (a) Have held a practising certificate as a barrister and solicitor for at least 7 years; and
-  (b) Are not employees of the Ministry—
+  (a) have held a practising certificate as a barrister and solicitor for at least 7 years; and
+  (b) are not employees of the Ministry—
 (3) An appointment under subsection (2) of this section shall be for a term not exceeding 5 years.
 
 ### 284 Functions of Committee
 (1) The Catch History Review Committee shall hear and determine appeals made under section 51 of this Act, except that if the chief executive—the Committee shall not hear any appeal made by that person unless the High Court declares the person not to be an overseas person.
-  (a) Has decided that a person is ineligible to receive provisional catch history because the chief executive believes the person to be an overseas person; and
-  (b) Has advised the Committee of that decision,—
+  (a) has decided that a person is ineligible to receive provisional catch history because the chief executive believes the person to be an overseas person; and
+  (b) has advised the Committee of that decision,—
 (2) All appeals to the Committee shall be heard by a member sitting alone unless the chairperson of the Committee otherwise directs, and a member of the Committee sitting alone in such a case has such powers and functions of the Committee as may be necessary for that purpose.
 (3) The Committee shall not create or allocate provisional catch history in respect of fish, aquatic life, or seaweed unless it was actually taken and reported by a commercial fisher.
 (4) The Committee shall not order the allocation or transfer of any quota.
@@ -4717,24 +4700,24 @@ Except as expressly otherwise provided in this Act, the Catch History Review Com
 ### 292 Evidence before Committee
 (1) The Catch History Review Committee may receive in evidence any statement, document, information, or matter that may, in its opinion, assist it to deal effectively with the matter before it, whether or not the same would otherwise be admissible in a court but, unless expressly otherwise provided in this Act, the Committee shall not receive in evidence any records or returns required to be provided under this Act or the Fisheries Act 1983 that either have not been provided to the chief executive or were provided to the chief executive after the date by which they were required to be provided.
 (2) The Committee may, if it thinks fit, in respect of any matter before it,—
-  (a) Examine on oath or otherwise all or any of the following:
-    (i) The appellant:
-    (ii) Any other party (including any person granted permission under section 291(4) of this Act):
-    (iii) Any person whose evidence has been received by the Committee under subsection (1) of this section:
-  (b) Require any person to verify by statutory declaration any statement made by him or her with respect to the proceedings.
+  (a) examine on oath or otherwise all or any of the following:
+    (i) the appellant:
+    (ii) any other party (including any person granted permission under section 291(4) of this Act):
+    (iii) any person whose evidence has been received by the Committee under subsection (1) of this section:
+  (b) require any person to verify by statutory declaration any statement made by him or her with respect to the proceedings.
 (3) Any proceedings (including any application made or information filed before the commencement of any proceedings) before the Committee shall be judicial proceedings for the purposes of this Act or any other Act (including the Crimes Act 1961).
 
 ### 293 Decision of Committee
 (1) In considering any matter before it, the Catch History Review Committee shall—
-  (a) Confine itself to the evidence, written submissions received under section 291(3) of this Act, submissions presented by the parties, and its own expertise and knowledge; and
-  (b) Exclude any member's personal knowledge of the matter gained otherwise than through the hearing of the matter before the Committee.
+  (a) confine itself to the evidence, written submissions received under section 291(3) of this Act, submissions presented by the parties, and its own expertise and knowledge; and
+  (b) exclude any member's personal knowledge of the matter gained otherwise than through the hearing of the matter before the Committee.
 (2) Every decision of the Committee shall—
-  (a) Be in writing; and
-  (b) State the reasons for the decision; and
-  (c) Be notified to the parties, and the chief executive; and
-  (d) Be available to the public, except that the Committee may—
-    (i) Delete information that it considers commercially sensitive:
-    (ii) Make copies of the decision available on payment of a reasonable charge.
+  (a) be in writing; and
+  (b) state the reasons for the decision; and
+  (c) be notified to the parties, and the chief executive; and
+  (d) be available to the public, except that the Committee may—
+    (i) delete information that it considers commercially sensitive:
+    (ii) make copies of the decision available on payment of a reasonable charge.
 (3) The Committee shall record its decisions in a register.
 (4) Every decision of the Committee shall be final unless challenged by an application for review under Part 1 of the Judicature Amendment Act 1972.
 (5) Notwithstanding any other enactment or rule of law, a court shall not hear or determine, and no person shall make or commence, any application or other proceedings whatever in respect of a decision or purported decision of the Committee unless the application is, or the proceedings are, made or commenced within 90 days after the date of the decision or purported decision.
@@ -4744,12 +4727,12 @@ Except as expressly otherwise provided in this Act, the Catch History Review Com
 
 ### 294 Use of outside agencies in performance of functions under Act
 (1) The chief executive may perform his or her functions, duties, and powers,—
-  (a) By his or her own employees; or
-  (b) By entering into an arrangement or contract with any other agency or any other instrument of the Crown or any corporation sole, body of persons (whether corporate or unincorporate), or individual.
+  (a) by his or her own employees; or
+  (b) by entering into an arrangement or contract with any other agency or any other instrument of the Crown or any corporation sole, body of persons (whether corporate or unincorporate), or individual.
 (2) Before deciding to perform any function, duty, or power by an arrangement or contract under subsection (1) of this section, the chief executive shall take into account the following matters:
-  (a) Whether the function, duty, or power might be more efficiently provided by the chief executive's own employees:
-  (b) The desirability of retaining institutional knowledge within the Ministry:
-  (c) Whether entering into such an arrangement or contract will limit the chief executive's ability to adequately meet his or her statutory obligations.
+  (a) whether the function, duty, or power might be more efficiently provided by the chief executive's own employees:
+  (b) the desirability of retaining institutional knowledge within the Ministry:
+  (c) whether entering into such an arrangement or contract will limit the chief executive's ability to adequately meet his or her statutory obligations.
 (3) In deciding how to perform any function, duty, or power under subsection (1)(b) of this section, the chief executive shall give due consideration to the advantages and disadvantages of different options.
 (4) Before entering into any arrangement or contract under subsection (1)(b) of this section, the chief executive may, after consultation with the Minister, set contract standards and contract specifications or both which shall be complied with by the other party to the arrangement or contract.
 (4A) The chief executive may, after consultation with the Minister and the other party to the arrangement or contract, amend or revoke contract standards and contract specifications set under subsection (4).
@@ -4758,78 +4741,78 @@ Except as expressly otherwise provided in this Act, the Catch History Review Com
 
 ### 295 Notification of appointments and places for provision of information
 (1) The chief executive may, by notice in the Gazette,—
-  (a) Notify the appointment of any person or organisation to any position under this Act; and
-  (b) Notify that any person or organisation shall perform any of the powers, functions, and duties of the chief executive under any arrangement or contract under section 294(1)(b) of this Act; and
-  (c) Appoint places where notices, objections, requests, applications, accounts, records, returns, and other information and documents shall be provided or received under this Act, including places for the purpose of the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, and other documents.
+  (a) notify the appointment of any person or organisation to any position under this Act; and
+  (b) notify that any person or organisation shall perform any of the powers, functions, and duties of the chief executive under any arrangement or contract under section 294(1)(b) of this Act; and
+  (c) appoint places where notices, objections, requests, applications, accounts, records, returns, and other information and documents shall be provided or received under this Act, including places for the purpose of the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, and other documents.
 (2) Notwithstanding anything to the contrary in this Act, any notice, objection, request, application, account, record, return, or any other information or document that is required by or under this Act to be provided at any particular place appointed by a notice under subsection (1) of this section shall be deemed not to have been provided until it has been received at that place.
 (3) Notwithstanding anything to the contrary in this Act, any notice, objection, request, application, account, record, return, or any other information or document that is required by or under this Act to be provided in a prescribed or approved manner or form, or accompanied by a prescribed fee, shall be deemed not to have been provided until it has been completed and provided in the prescribed or approved manner or form, or accompanied by the prescribed fee.
-(4) Subject to subsection (4) of section 294 of this Act, if the chief executive enters into any arrangement or contract under subsection (1)(b) of that section,—
-  (a) Any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be performed by the chief executive, may, subject to the terms and conditions of that arrangement, be carried out at such place and by such person with whom the chief executive has entered into the arrangement or contract as the chief executive may specify by notice in the Gazette under subsection (1) of this section:
-  (b) Any person with whom the chief executive has entered into the arrangement or contract may, subject to the terms and conditions of the arrangement or contract, give, provide, or demand any notice, account, record, return, information, demand, or any other thing in relation to any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be given, provided, or demanded by the chief executive.
+(4) Subject to subsection (4) of section 294of this Act, if the chief executive enters into any arrangement or contract under subsection (1)(b) of that section,—
+  (a) any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be performed by the chief executive, may, subject to the terms and conditions of that arrangement, be carried out at such place and by such person with whom the chief executive has entered into the arrangement or contract as the chief executive may specify by notice in the Gazette under subsection (1) of this section:
+  (b) any person with whom the chief executive has entered into the arrangement or contract may, subject to the terms and conditions of the arrangement or contract, give, provide, or demand any notice, account, record, return, information, demand, or any other thing in relation to any function, duty, or power of the chief executive that forms the subject of the arrangement or contract, and is required by any enactment, regulation, instrument, or document to be given, provided, or demanded by the chief executive.
 
 ### 296 Electronic transmission
 (1) For the purpose of this Act, the chief executive may approve the transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents provided for under this Act by means of electronic transmission.
 (2) An approval under subsection (1) of this section—
-  (a) May relate to any person or any one or more classes of person:
-  (b) May relate to any one or more classes of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents:
-  (c) May specify the person or organisation to whom the accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents shall be transmitted:
-  (d) May specify the method of transmission that may be used:
-  (e) Shall be subject to such conditions and other provisions (if any)—
-    (i) As may be set out for the purposes of this section in regulations made under section 297 of this Act; or
-    (ii) Determined by the chief executive.
+  (a) may relate to any person or any one or more classes of person:
+  (b) may relate to any one or more classes of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents:
+  (c) may specify the person or organisation to whom the accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents shall be transmitted:
+  (d) may specify the method of transmission that may be used:
+  (e) shall be subject to such conditions and other provisions (if any)—
+    (i) as may be set out for the purposes of this section in regulations made under section 297 of this Act; or
+    (ii) determined by the chief executive.
 (3) The chief executive may alter or revoke any approval given under subsection (1) of this section.
 
 ## Part 15A — Performance of services by approved organisations
 
 ### 296A Interpretation
 In this Part, unless the context otherwise requires, specified functions, duties, or powers—
-  (a) Means any functions, duties, or powers of the chief executive, whether statutory or non-statutory in nature, that are—
-    (i) Exclusively associated with the administration of quota; or
-    (ii) Primarily associated with the administration of commercial fisheries; or
+  (a) means any functions, duties, or powers of the chief executive, whether statutory or non-statutory in nature, that are—
+    (i) exclusively associated with the administration of quota; or
+    (ii) primarily associated with the administration of commercial fisheries; or
     (iii) principally associated with the administration of fish farming; and
-  (b) Includes the keeping of registers under sections 98, 124, and 186K; but
-  (c) Does not include—
-    (i) Any functions, duties, or powers of the Minister; or
-    (ii) Any power conferred on fishery officers, honorary fishery officers, or examiners by or under the Fisheries Act 1983 or by or under this Act.
+  (b) includes the keeping of registers under sections 98, 124, and 186K; but
+  (c) does not include—
+    (i) any functions, duties, or powers of the Minister; or
+    (ii) any power conferred on fishery officers, honorary fishery officers, or examiners by or under the Fisheries Act 1983 or by or under this Act.
 
 ### 296B Transfer of specified functions, duties, or powers to approved service delivery organisations
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister after consultation with the Minister responsible for the administration of the Environment Act 1986, transfer any specified function, duty, or power to an approved service delivery organisation.
 (2) An order transferring specified functions, duties, or powers to an approved service delivery organisation must—
-  (a) Declare a person to be an approved service delivery organisation for such period as may be specified in the order; and
-  (b) State which functions, duties, or powers are transferred to the approved service delivery organisation.
+  (a) declare a person to be an approved service delivery organisation for such period as may be specified in the order; and
+  (b) state which functions, duties, or powers are transferred to the approved service delivery organisation.
 (3) The Minister must not make a recommendation under subsection (1) unless the Minister is satisfied that—
-  (a) The proposed approved service delivery organisation is representative of quota owners who have an interest in those functions, duties, or powers; and
+  (a) the proposed approved service delivery organisation is representative of quota owners who have an interest in those functions, duties, or powers; and
   (ab) if the recommendation relates to a function, duty, or power associated with the administration of fish farming, the proposed approved service delivery organisation is representative of fish farmers who have an interest in the function, duty, or power; and
-  (b) The proposed approved service delivery organisation is a company incorporated under the Companies Act 1993; and
-  (c) The proposed approved service delivery organisation has the financial, management, and other resources to enable it to—
-    (i) Assume responsibility for the carrying out of the functions, duties, or powers that are specified in the order; and
-    (ii) Ensure that those functions, duties, or powers are carried out; and
-  (d) The proposed approved service delivery organisation—
-    (i) Has provided the chief executive with a monetary deposit or bond in accordance with section 296D; or
-    (ii) Has established and is maintaining an alternative arrangement in accordance with section 296D; and
-  (e) Standards and specifications have been issued in relation to the functions, duties, or powers.
+  (b) the proposed approved service delivery organisation is a company incorporated under the Companies Act 1993; and
+  (c) the proposed approved service delivery organisation has the financial, management, and other resources to enable it to—
+    (i) assume responsibility for the carrying out of the functions, duties, or powers that are specified in the order; and
+    (ii) ensure that those functions, duties, or powers are carried out; and
+  (d) the proposed approved service delivery organisation—
+    (i) has provided the chief executive with a monetary deposit or bond in accordance with section 296D; or
+    (ii) has established and is maintaining an alternative arrangement in accordance with section 296D; and
+  (e) standards and specifications have been issued in relation to the functions, duties, or powers.
 (4) An order under subsection (1) may—
-  (a) Specify the rights of the Crown in relation to information and data received, held, or generated in relation to the performance or exercise of the functions, duties, or powers; and
-  (b) Provide that the information and data specified in the order is the property of the Crown.
-(5) An approved service delivery organisation or other person who knowingly falsifies information or data to which an order under subsection (4) relates commits an offence and is liable on conviction to the penalty set out in section 252(1).
+  (a) specify the rights of the Crown in relation to information and data received, held, or generated in relation to the performance or exercise of the functions, duties, or powers; and
+  (b) provide that the information and data specified in the order is the property of the Crown.
+(5) An approved service delivery organisation or other person who knowingly falsifies information or data to which an order under subsection (4) relates commits an offence and is liable on conviction to the penalty set out in 2section 52(1).
 
 ### 296C Effect of transfer of specified functions, duties, or powers
 (1) On and from the date specified for the purpose in the relevant order under section 296B,—
-  (a) An approved service delivery organisation has the specified functions, duties, and powers under the relevant provisions of this Act or the Fisheries Act 1983 specified in the order, and may perform or exercise those functions, duties, or powers as if they had been conferred or imposed on the organisation directly by the relevant enactment; and
-  (b) References to the chief executive (however expressed) in the provisions of this Act or the Fisheries Act 1983 specified in the order must be read as references to the approved service delivery organisation.
+  (a) an approved service delivery organisation has the specified functions, duties, and powers under the relevant provisions of this Act or the Fisheries Act 1983 specified in the order, and may perform or exercise those functions, duties, or powers as if they had been conferred or imposed on the organisation directly by the relevant enactment; and
+  (b) references to the chief executive (however expressed) in the provisions of this Act or the Fisheries Act 1983 specified in the order must be read as references to the approved service delivery organisation.
 (2) An approved service delivery organisation is responsible to the Minister for ensuring that the specified functions, duties, or powers transferred to the organisation are performed or exercised in accordance with—
-  (a) All applicable standards and specifications; and
-  (b) All applicable directions given by the Minister under section 296Q.
+  (a) all applicable standards and specifications; and
+  (b) all applicable directions given by the Minister under section 296Q.
 (3) The chief executive must not perform or exercise, and is not responsible for the performance or exercise of, any specified function, duty, or power that is transferred to an approved service delivery organisation by an order made under section 296B while the order is in force.
 (4) Subsections (1) to (3) apply despite anything in the Commerce Act 1986.
 (5) An approved service delivery organisation may perform or exercise its functions, duties, and powers—
-  (a) By its own employees; or
-  (b) By entering into an agreement or arrangement with any other agency or any other instrument of the Crown or any corporation sole, body of persons (whether corporate or unincorporated), or individual.
+  (a) by its own employees; or
+  (b) by entering into an agreement or arrangement with any other agency or any other instrument of the Crown or any corporation sole, body of persons (whether corporate or unincorporated), or individual.
 
 ### 296D Minister must require payment of bond
 (1) The Minister must require each approved service delivery organisation—
-  (a) To provide the chief executive with a monetary deposit or bond; or
-  (b) To establish and maintain an alternative arrangement that satisfies the Minister that the specified functions, duties, or powers to be performed or exercised by the approved service delivery organisation can be transferred, at no cost to the Crown, to the Crown or an approved service delivery organisation on the expiry or earlier revocation of an order made under section 296B.
+  (a) to provide the chief executive with a monetary deposit or bond; or
+  (b) to establish and maintain an alternative arrangement that satisfies the Minister that the specified functions, duties, or powers to be performed or exercised by the approved service delivery organisation can be transferred, at no cost to the Crown, to the Crown or an approved service delivery organisation on the expiry or earlier revocation of an order made under section 296B.
 (2) If a monetary deposit or bond is required under subsection (1), it must be sufficient, in the opinion of the Minister, to meet the Crown's transfer costs.
 (3) If a monetary deposit or bond is provided by an approved service delivery organisation under subsection (1) and the Minister is satisfied, during the period for which the order under section 296B is in force, that the amount of that deposit or bond is no longer sufficient to meet the Crown's transfer costs, the Minister may require the organisation to increase the amount of the monetary deposit or bond accordingly; and the organisation must comply with that requirement.
 (4) If a monetary deposit or bond is provided by an approved service delivery organisation under subsection (1) and the Minister is satisfied, during the period for which the order under section 296B is in force, that the amount required to meet the Crown's transfer costs is less than the amount of the monetary deposit or bond, the Minister may remit the amount of the monetary deposit or reduce the amount of bond accordingly.
@@ -4838,32 +4821,32 @@ In this Part, unless the context otherwise requires, specified functions, duties
 (7) The approved service delivery organisation is entitled to receive all interest from time to time earned on the money while it is held by the chief executive.
 (8) The chief executive must pay the balance remaining, after applying the money in accordance with subsection (6), to the approved service delivery organisation or the surety under the bond, as the case may be.
 (9) In this section, the Crown's transfer costs—
-  (a) Means any costs to the Crown arising from the transfer of specified functions, duties, or powers from the approved service delivery organisation to the chief executive or to another approved service delivery organisation on the expiry or earlier revocation of an order made under section 296B; but
-  (b) Does not include the value to the Crown of any property, rights, or obligations transferred under section 296H.
+  (a) means any costs to the Crown arising from the transfer of specified functions, duties, or powers from the approved service delivery organisation to the chief executive or to another approved service delivery organisation on the expiry or earlier revocation of an order made under section 296B; but
+  (b) does not include the value to the Crown of any property, rights, or obligations transferred under section 296H.
 
 **Termination of orders transferring functions, duties, or powers**
 
 ### 296E Revocation of order transferring functions, duties, or powers to approved service delivery organisation
 (1) The Governor-General may from time to time, by Order in Council made on the recommendation of the Minister, revoke or amend an order made under section 296B.
 (2) The Minister may not make a recommendation under subsection (1) unless—
-  (a) The approved service delivery organisation named in the order has agreed to the recommendation by notice in writing to the Minister; or
-  (b) The requirements of subsection (3) have been satisfied and the Minister has complied with the requirements set out in subsection (4).
+  (a) the approved service delivery organisation named in the order has agreed to the recommendation by notice in writing to the Minister; or
+  (b) the requirements of subsection (3) have been satisfied and the Minister has complied with the requirements set out in subsection (4).
 (3) The requirements of this subsection are that the Minister must be satisfied that—
-  (a) The approved service delivery organisation has—
-    (i) Failed to comply with any applicable standards and specifications; or
-    (ii) Failed to comply with an applicable direction under section 296Q; or
-    (iii) Failed to maintain an alternative arrangement under section 296D(1)(b); or
-    (iv) Failed to comply with a requirement under section 296D(3) to increase the amount of a monetary deposit or bond; or
-  (b) There is a serious problem with the organisation within the meaning of section 296ZE(2).
+  (a) the approved service delivery organisation has—
+    (i) failed to comply with any applicable standards and specifications; or
+    (ii) failed to comply with an applicable direction under section 296Q; or
+    (iii) failed to maintain an alternative arrangement under section 296D(1)(b); or
+    (iv) failed to comply with a requirement under section 296D(3) to increase the amount of a monetary deposit or bond; or
+  (b) there is a serious problem with the organisation within the meaning of section 296ZE(2).
 (4) The Minister must—
-  (a) Give the approved service delivery organisation notice in writing of the Minister's intention to make the recommendation, accompanied by a statement of the Minister's reasons for the proposed recommendation; and
-  (b) Give the approved service delivery organisation a reasonable opportunity to make submissions to the Minister in relation to the proposed recommendation; and
-  (c) Consider any submissions made by the approved service delivery organisation.
+  (a) give the approved service delivery organisation notice in writing of the Minister's intention to make the recommendation, accompanied by a statement of the Minister's reasons for the proposed recommendation; and
+  (b) give the approved service delivery organisation a reasonable opportunity to make submissions to the Minister in relation to the proposed recommendation; and
+  (c) consider any submissions made by the approved service delivery organisation.
 
 ### 296F Effect of termination of transfer
 It an order made under section 296B expires or is revoked by the Governor-General under section 296E, and the functions, duties, or powers specified in the order are not immediately transferred to the same approved service delivery organisation, then—
-  (a) The monetary deposit or bond (if any) held by the chief executive in relation to the approved service delivery organisation is forfeit to the chief executive, and must be applied in accordance with section 296D; and
-  (b) Responsibility for the functions, duties, or powers is resumed by the chief executive.
+  (a) the monetary deposit or bond (if any) held by the chief executive in relation to the approved service delivery organisation is forfeit to the chief executive, and must be applied in accordance with section 296D; and
+  (b) responsibility for the functions, duties, or powers is resumed by the chief executive.
 
 **Transfer of property, rights, and obligations to chief executive**
 
@@ -4872,44 +4855,44 @@ The purpose of sections 296H to 296N is to ensure that the chief executive is ab
 
 ### 296H Minister may transfer property, rights, and obligations to chief executive
 (1) If an order made under section 296B expires or is revoked by an order under section 296E (whether or not that order has come into force), the Minister may transfer to the chief executive,—
-  (a) By notice in writing to an approved service delivery organisation or any other person, any property of that organisation or person (including intellectual property) that is necessary for the performance or exercise of the functions, duties, and powers for which the organisation is or was responsible under the order made under section 296B; and
-  (b) By notice in writing to any person other than an approved service delivery organisation, any rights and obligations of an approved service delivery organisation under any agreement or arrangement (including an employment contract) with that person that relate to the performance or exercise of those functions, duties, or powers.
+  (a) by notice in writing to an approved service delivery organisation or any other person, any property of that organisation or person (including intellectual property) that is necessary for the performance or exercise of the functions, duties, and powers for which the organisation is or was responsible under the order made under section 296B; and
+  (b) by notice in writing to any person other than an approved service delivery organisation, any rights and obligations of an approved service delivery organisation under any agreement or arrangement (including an employment contract) with that person that relate to the performance or exercise of those functions, duties, or powers.
 (2) The Minister must send a copy of a notice given under subsection (1)(b) to the approved service delivery organisation.
 (3) In this section and sections 296I to 296N,—
   - **Intellectual Property** —
-    (a) Has the meaning provided for in Article 2 of the Convention establishing the World Intellectual Property Organisation done at Stockholm on 14 July 1967 and in the World Trade Organisation Agreement on the Trade Related Aspects of Intellectual Property Rights done at Marrakesh on 15 April 1994; and
-    (b) Includes all intellectual property rights, including (without limitation) rights relating to circuit layouts and semi-conductor chip products, confidential information, copyright, geographical indications, patents, plant varieties, registered designs, registered and unregistered trade marks, and service marks:
-  - **Specified person** means a person to whom a notice is given under subsection (1)(a) or (b) or subsection (2).
+    (a) has the meaning provided for in Article 2 of the Convention establishing the World Intellectual Property Organisation done at Stockholm on 14 July 1967 and in the World Trade Organisation Agreement on the Trade Related Aspects of Intellectual Property Rights done at Marrakesh on 15 April 1994; and
+    (b) includes all intellectual property rights, including (without limitation) rights relating to circuit layouts and semi-conductor chip products, confidential information, copyright, geographical indications, patents, plant varieties, registered designs, registered and unregistered trade marks, and service marks:
+  - **specified person** means a person to whom a notice is given under subsection (1)(a) or (b) or subsection (2).
 
 ### 296I Minister to give notice before transferring property, etc
 The Minister may not give a notice under section 296H unless the Minister—
-  (a) Gives the specified person notice in writing of the Minister's intention to transfer any property, rights, or obligations to the chief executive under that section, including a statement of—
-    (i) The property, rights, and obligations that the Minister proposes to transfer:
-    (ii) The amount of compensation, if any, that the Minister proposes will be payable to the specified person; and
-  (b) Gives the specified person a reasonable opportunity to make submissions to the Minister in relation to the proposed transfer; and
-  (c) Considers any submissions made by the specified person.
+  (a) gives the specified person notice in writing of the Minister's intention to transfer any property, rights, or obligations to the chief executive under that section, including a statement of—
+    (i) the property, rights, and obligations that the Minister proposes to transfer:
+    (ii) the amount of compensation, if any, that the Minister proposes will be payable to the specified person; and
+  (b) gives the specified person a reasonable opportunity to make submissions to the Minister in relation to the proposed transfer; and
+  (c) considers any submissions made by the specified person.
 
 ### 296J Content of notice to transfer property, rights, and obligations
 A notice given under section 296H must state—
-  (a) The date on which it takes effect, being a date no earlier than 30 days from the date on which the notice is given to the specified person; and
-  (b) That the specified person may, within the period specified in the notice, apply to a District Court for an order revoking the notice; and
-  (c) That the notice will take effect—
-    (i) If the person does not apply to a District Court, on the date specified in the notice; or
-    (ii) If the person applies to a District Court and the application is dismissed, on the date the application is dismissed.
+  (a) the date on which it takes effect, being a date no earlier than 30 days from the date on which the notice is given to the specified person; and
+  (b) that the specified person may, within the period specified in the notice, apply to a District Court for an order revoking the notice; and
+  (c) that the notice will take effect—
+    (i) if the person does not apply to a District Court, on the date specified in the notice; or
+    (ii) if the person applies to a District Court and the application is dismissed, on the date the application is dismissed.
 
 ### 296K Right of appeal to District Court
 (1) A specified person may, within the period specified in a notice given under section 296H, apply to a District Court for an order revoking the notice.
 (2) On an application under this section, if a District Court Judge is not satisfied that the transfer of any property, rights, or obligations to the chief executive is necessary for the performance or exercise of the functions, duties, or powers for which the approved service delivery organisation is or was responsible, the District Court Judge must—
-  (a) Revoke the notice; or
-  (b) Revoke that part of the notice that relates to that property, or to those rights or obligations.
+  (a) revoke the notice; or
+  (b) revoke that part of the notice that relates to that property, or to those rights or obligations.
 
 ### 296L Date on which transfer of property takes effect
 (1) A notice under section 296H takes effect,—
-  (a) If the specified person does not apply to a District Court under section 296K, on the date stated in the notice as the date on which it takes effect; or
-  (b) If the specified person applies to a District Court and the person's application is dismissed, on the date the application is dismissed.
+  (a) if the specified person does not apply to a District Court under section 296K, on the date stated in the notice as the date on which it takes effect; or
+  (b) if the specified person applies to a District Court and the person's application is dismissed, on the date the application is dismissed.
 (2) On the date that the notice takes effect—
-  (a) The property specified in the notice becomes the property of the chief executive; and
-  (b) The rights and obligations of the approved service delivery organisation under any agreement or arrangement specified in the notice become rights and obligations of the chief executive as if the chief executive, and not the organisation, had entered into the agreement or arrangement with the specified person.
+  (a) the property specified in the notice becomes the property of the chief executive; and
+  (b) the rights and obligations of the approved service delivery organisation under any agreement or arrangement specified in the notice become rights and obligations of the chief executive as if the chief executive, and not the organisation, had entered into the agreement or arrangement with the specified person.
 (3) This section applies despite anything in any agreement or arrangement.
 
 ### 296M Compensation for transfer of property
@@ -4919,8 +4902,8 @@ A notice given under section 296H must state—
 ### 296N Resolution of disputes regarding compensation
 (1) If there is any dispute or difference between the Minister and a specified person as to the amount of compensation payable to the person under section 296M, the matter must be referred to arbitration, and the Arbitration Act 1996 applies accordingly.
 (2) For the purposes of any such arbitration, this section is a submission to arbitration within the meaning of the Arbitration Act 1996, and the reference is to 1 arbitrator, who is to be appointed—
-  (a) By agreement between the Minister and the specified person; or
-  (b) If the Minister and the specified person fail to agree, by the President of the New Zealand Institute of Valuers Incorporated.
+  (a) by agreement between the Minister and the specified person; or
+  (b) if the Minister and the specified person fail to agree, by the President of the New Zealand Institute of Valuers Incorporated.
 (3) Despite subsection (1), the parties may resolve the dispute or difference either before or after the matter is submitted to arbitration, and, if the agreement is made after the date of any award of arbitration, the award is cancelled.
 
 **Powers of minister in relation to approved service delivery organisations**
@@ -4928,43 +4911,43 @@ A notice given under section 296H must state—
 ### 296O Minister may issue standards and specifications
 (1) The Minister may, from time to time, issue standards and specifications relating to the performance or exercise of specified functions, duties, or powers by approved service delivery organisations, and may amend or revoke any standards and specifications issued.
 (2) Standards and specifications issued under this section may, without limitation, specify or provide for all or any of the following:
-  (a) Descriptions of the specified functions, duties, or powers to be performed or exercised by each approved service delivery organisation to which those functions, duties, or powers apply:
-  (b) Quantitative measures that each approved service delivery organisation is required to meet in respect of the functions, duties, or powers:
-  (c) Performance standards that each approved service delivery organisation is required to meet in respect of the functions, duties, or powers:
-  (d) Measures that an approved service delivery organisation is required to take to avoid conflicts of interest in the performance or exercise of the functions, duties, or powers specified in the relevant order under section 296B:
-  (e) Records that each approved service delivery organisation is required to keep in relation to the performance or exercise of those functions, duties, or powers:
-  (f) Reports that each approved service delivery organisation is required to provide to the Minister in relation to the performance or exercise of those functions, duties, or powers:
-  (g) Requirements as to the auditing of the operations of—
-    (i) Each approved service delivery organisation; and
-    (ii) Any person with whom the approved service delivery organisation has an arrangement under section 296C(5) in relation to the performance or exercise of those functions, duties, or powers:
-  (h) Constraints on the performance or exercise of any functions, duties, or powers by each approved service delivery organisation.
+  (a) descriptions of the specified functions, duties, or powers to be performed or exercised by each approved service delivery organisation to which those functions, duties, or powers apply:
+  (b) quantitative measures that each approved service delivery organisation is required to meet in respect of the functions, duties, or powers:
+  (c) performance standards that each approved service delivery organisation is required to meet in respect of the functions, duties, or powers:
+  (d) measures that an approved service delivery organisation is required to take to avoid conflicts of interest in the performance or exercise of the functions, duties, or powers specified in the relevant order under section 296B:
+  (e) records that each approved service delivery organisation is required to keep in relation to the performance or exercise of those functions, duties, or powers:
+  (f) reports that each approved service delivery organisation is required to provide to the Minister in relation to the performance or exercise of those functions, duties, or powers:
+  (g) requirements as to the auditing of the operations of—
+    (i) each approved service delivery organisation; and
+    (ii) any person with whom the approved service delivery organisation has an arrangement under section 296C(5) in relation to the performance or exercise of those functions, duties, or powers:
+  (h) constraints on the performance or exercise of any functions, duties, or powers by each approved service delivery organisation.
 (3) Standards and specifications issued under this section may apply to any 1 or more approved service delivery organisations, or to any class or classes of approved service delivery organisation.
 (4) An approved service delivery organisation must comply with the standards and specifications that apply to the functions, duties, or powers for which it is responsible.
 
 ### 296P Procedure for issuing standards and specifications
 (1) Before issuing or amending standards and specifications under section 296O, the Minister must consult—
-  (a) The Minister responsible for the administration of the Environment Act 1986; and
-  (b) Those classes of persons or those approved service delivery organisations that, in the opinion of the first-mentioned Minister, have an interest in the standards and specifications.
+  (a) the Minister responsible for the administration of the Environment Act 1986; and
+  (b) those classes of persons or those approved service delivery organisations that, in the opinion of the first-mentioned Minister, have an interest in the standards and specifications.
 (2) Despite subsection (1), the Minister is not required to consult anyone if the Minister is satisfied that—
-  (a) The standards and specifications need to be issued or amended urgently; or
-  (b) The amendment is minor and will not adversely affect the substantial interests of any person.
+  (a) the standards and specifications need to be issued or amended urgently; or
+  (b) the amendment is minor and will not adversely affect the substantial interests of any person.
 (3) When the Minister issues or amends standards and specifications, the Minister must—
-  (a) Give a copy of the standards and specifications to each approved service delivery organisation to which they relate; and
-  (b) Publish a notice in the Gazette that complies with subsection (4).
+  (a) give a copy of the standards and specifications to each approved service delivery organisation to which they relate; and
+  (b) publish a notice in the Gazette that complies with subsection (4).
 (4) The notice published in the Gazette must—
-  (a) Give a general indication of the nature of the standards and specifications; and
-  (b) Specify where copies of the standards and specifications may be obtained.
+  (a) give a general indication of the nature of the standards and specifications; and
+  (b) specify where copies of the standards and specifications may be obtained.
 
 ### 296Q Approved service delivery organisations must comply with directions
 (1) The Minister may give a written direction to any approved service delivery organisation in respect of the performance or exercise by it of any specified functions, duties, or powers.
 (2) The Minister may not give a direction in respect of—
-  (a) A specific application to the approved service delivery organisation; or
-  (b) A specific person.
+  (a) a specific application to the approved service delivery organisation; or
+  (b) a specific person.
 (3) The Minister must—
-  (a) Give a copy of the direction to each approved service delivery organisation to which the direction relates; and
-  (b) As soon as practicable after giving the written notice,—
-    (i) Publish the direction in the Gazette; and
-    (ii) Present a copy of it to the House of Representatives.
+  (a) give a copy of the direction to each approved service delivery organisation to which the direction relates; and
+  (b) as soon as practicable after giving the written notice,—
+    (i) publish the direction in the Gazette; and
+    (ii) present a copy of it to the House of Representatives.
 (4) When performing or exercising any specified functions, duties, or powers an approved service delivery organisation must comply with any direction given to it by the Minister in accordance with this section.
 
 **Sanctions for breach of standards and specifications or directions**
@@ -4975,36 +4958,36 @@ A notice given under section 296H must state—
 
 ### 296S Demerit points to be recorded by Minister
 (1) This section applies if, in the opinion of the Minister, an approved service delivery organisation fails to comply with—
-  (a) Any applicable standards or specifications; or
-  (b) Any applicable direction under section 296Q.
+  (a) any applicable standards or specifications; or
+  (b) any applicable direction under section 296Q.
 (2) The Minister may record in respect of an approved service delivery organisation such number of demerit points for each failure referred to in subsection (1) as may be prescribed in regulations made under section 296ZI.
 (3) If 2 or more such failures by an approved service delivery organisation occur in respect of the same set of circumstances,—
-  (a) The Minister must record demerit points in relation to 1 failure only; and
-  (b) If the failures do not carry the same number of demerit points, the Minister must record demerit points for the failure or 1 of the failures that carries the greatest number of points.
+  (a) the Minister must record demerit points in relation to 1 failure only; and
+  (b) if the failures do not carry the same number of demerit points, the Minister must record demerit points for the failure or 1 of the failures that carries the greatest number of points.
 (4) Demerit points recorded under subsection (2) have effect on and from the date of the failure in respect of which the demerit points are recorded.
 
 ### 296T Procedure for recording demerit points
 (1) Before recording any demerit points in respect of an approved service delivery organisation, the Minister must give written notice to the organisation.
 (2) The notice must state—
-  (a) The failure that makes the approved service delivery organisation liable to have the demerit points recorded against the organisation; and
-  (b) The number of demerit points specified in respect of that failure that the Minister proposes to record against the organisation; and
-  (c) The right of the organisation to object to the Minister's decision by giving written notice to the Minister within 20 working days after the date of the Minister's notice (the stated 20-day period); and
-  (d) That an objection must include a statement of the organisation's reasons for objecting; and
-  (e) The Minister's right to record the demerit points if—
-    (i) No objection is made within the stated 20-day period; or
-    (ii) An objection is made without a statement of reasons; and
-  (f) The consequences of further demerit points being recorded against the organisation.
+  (a) the failure that makes the approved service delivery organisation liable to have the demerit points recorded against the organisation; and
+  (b) the number of demerit points specified in respect of that failure that the Minister proposes to record against the organisation; and
+  (c) the right of the organisation to object to the Minister's decision by giving written notice to the Minister within 20 working days after the date of the Minister's notice (the stated 20-day period); and
+  (d) that an objection must include a statement of the organisation's reasons for objecting; and
+  (e) the Minister's right to record the demerit points if—
+    (i) no objection is made within the stated 20-day period; or
+    (ii) an objection is made without a statement of reasons; and
+  (f) the consequences of further demerit points being recorded against the organisation.
 (3) The Minister may withdraw a notice at any time, in which case demerit points will not be recorded against the organisation in respect of the failure specified in the notice.
 
 ### 296U Demerit points recorded where no objection made
 The Minister must record the prescribed demerit points under section 296S—
-  (a) If no objection is made within the stated 20-day period; or
-  (b) If an objection is made by an approved service delivery organisation that is not accompanied by a statement of reasons.
+  (a) if no objection is made within the stated 20-day period; or
+  (b) if an objection is made by an approved service delivery organisation that is not accompanied by a statement of reasons.
 
 ### 296V Demerit points recorded where objection made
 (1) This section applies if—
-  (a) An objection to the recording of demerit points, accompanied by a statement of reasons, is received from the approved service delivery organisation within the stated 20-day period; and
-  (b) The Minister does not accept the objection.
+  (a) an objection to the recording of demerit points, accompanied by a statement of reasons, is received from the approved service delivery organisation within the stated 20-day period; and
+  (b) the Minister does not accept the objection.
 (2) The Minister may apply to a District Court for an order that the Minister may record the demerit points.
 (3) The District Court must order the Minister to record the demerit points under section 296S if the Minister establishes on the balance of probabilities that the organisation has not complied with the standards and specifications or the direction to which the notice under section 296T relates.
 (4) The Court may award costs as if the matter were a criminal matter.
@@ -5046,23 +5029,23 @@ Every civil penalty under section 296W must be paid into the Crown Bank Account.
 
 ### 296ZA Regulations relating to information disclosure
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Requiring approved service delivery organisations to make publicly available prescribed financial statements that follow generally accepted accounting principles, including profit and loss statements, balance sheets, and statements of accounting principles:
-  (b) Requiring approved service delivery organisations to publish, in the prescribed manner, information in relation to the performance and exercise of specified functions, duties, and powers, and prescribing the information that the organisations must make available, which information must include—
-    (i) Prices, terms, and conditions; and
-    (ii) Pricing policies and methodologies; and
-    (iii) Costs; and
-    (iv) Cost allocation policies and methodologies; and
-    (v) Performance measures, or information from which performance measures may be derived, or both:
-  (c) Prescribing the form and manner in which the financial statements required by any regulations made under paragraph (a) must be made available:
-  (d) Prescribing the form of statutory declaration, and the persons by whom a statutory declaration must be made, for the purposes of section 296ZB(3):
-  (e) Prescribing the time limits within which the information disclosure required by any regulations made under this section must be made to the public:
-  (f) Exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this section:
-  (g) Providing for the revocation of an exemption of any person or class of persons from all or any of the requirements of any regulations made under this section.
+  (a) requiring approved service delivery organisations to make publicly available prescribed financial statements that follow generally accepted accounting principles, including profit and loss statements, balance sheets, and statements of accounting principles:
+  (b) requiring approved service delivery organisations to publish, in the prescribed manner, information in relation to the performance and exercise of specified functions, duties, and powers, and prescribing the information that the organisations must make available, which information must include—
+    (i) prices, terms, and conditions; and
+    (ii) pricing policies and methodologies; and
+    (iii) costs; and
+    (iv) cost allocation policies and methodologies; and
+    (v) performance measures, or information from which performance measures may be derived, or both:
+  (c) prescribing the form and manner in which the financial statements required by any regulations made under paragraph (a) must be made available:
+  (d) prescribing the form of statutory declaration, and the persons by whom a statutory declaration must be made, for the purposes of section 296ZB(3):
+  (e) prescribing the time limits within which the information disclosure required by any regulations made under this section must be made to the public:
+  (f) exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this section:
+  (g) providing for the revocation of an exemption of any person or class of persons from all or any of the requirements of any regulations made under this section.
 
 ### 296ZB Information to be supplied to chief executive
 (1) Every approved service delivery organisation must supply to the chief executive,—
-  (a) Within 5 working days after the statements and information are first made available, a copy of all statements and information made available to the public under regulations made under section 296ZA; and
-  (b) Any further statements, reports, agreements, particulars, or other information requested in writing by the chief executive that are reasonably necessary for the purpose of monitoring the organisation's compliance with those regulations.
+  (a) within 5 working days after the statements and information are first made available, a copy of all statements and information made available to the public under regulations made under section 296ZA; and
+  (b) any further statements, reports, agreements, particulars, or other information requested in writing by the chief executive that are reasonably necessary for the purpose of monitoring the organisation's compliance with those regulations.
 (2) Every approved service delivery organisation to whom a request is made under subsection (1)(b) must comply with the request within 30 days after receiving it, or within such further period as the chief executive may, in any particular case, allow.
 (3) All statements, reports, agreements, particulars, or information supplied to the chief executive under subsection (1) must be verified by statutory declaration by the persons and in the form prescribed by regulations made under section 296ZA(d).
 
@@ -5070,9 +5053,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (1) For the purpose of monitoring an approved service delivery organisation's compliance with regulations made under section 296ZA, standards and specifications, and directions under section 296Q, the Minister may, by notice in writing to the organisation, require the organisation to supply to the Minister specified information, data, and forecasts relating to the business, operation, or management of the organisation, and may require that information to be supplied for specified periods and in a specified form.
 (2) The Minister may revoke, vary, or amend a notice by giving a subsequent notice to the organisation.
 (3) An approved service delivery organisation commits an offence against this Act if it—
-  (a) Fails to comply with any requirements of the Minister under this section; or
-  (b) Supplies information or data that the organisation is required to supply under this section knowing that it is false or misleading in a material particular; or
-  (c) Knowingly omits any material particular in any information or data that the organisation is required to supply under this section.
+  (a) fails to comply with any requirements of the Minister under this section; or
+  (b) supplies information or data that the organisation is required to supply under this section knowing that it is false or misleading in a material particular; or
+  (c) knowingly omits any material particular in any information or data that the organisation is required to supply under this section.
 (4) The penalty on conviction for an offence against subsection (3)(a) is set out in section 252(3).
 (5) The penalty on conviction for an offence against subsection (3)(b) or (c) is set out in section 252(1).
 
@@ -5084,18 +5067,18 @@ The Governor-General may from time to time, by Order in Council, make regulation
 ### 296ZE Disclosure of information to Minister
 (1) Any person must disclose to the Minister information relating to the affairs of an approved service delivery organisation if, in the course of or in connection with performing the role of auditor of the organisation, the person forms an opinion that there is a serious problem with the organisation.
 (2) For the purposes of this Part, a serious problem means the organisation—
-  (a) Is not operating, or is likely not to operate, in any material respect in accordance with—
-    (i) The provisions of this Act or the Fisheries Act 1983 under which the organisation performs or exercises its functions, duties, or powers; or
-    (ii) Any applicable standards and specifications; or
-    (iii) An applicable direction under section 296Q; or
+  (a) is not operating, or is likely not to operate, in any material respect in accordance with—
+    (i) the provisions of this Act or the Fisheries Act 1983 under which the organisation performs or exercises its functions, duties, or powers; or
+    (ii) any applicable standards and specifications; or
+    (iii) an applicable direction under section 296Q; or
   (b) Is insolvent or likely to become insolvent.
 (3) For the avoidance of doubt, subsection (1) does not require a person who is an auditor of an approved service delivery organisation to perform or exercise functions, duties, or powers additional to those functions, duties, or powers that the person would ordinarily perform or exercise in the course of performing that role, other than to make disclosure to the Minister as required by subsection (1).
 (4) This section applies despite any enactment or rule of law, or anything in a contract.
 
 ### 296ZF Auditor to inform approved service delivery organisation of intention to disclose
 An auditor must, before disclosing information to the Minister under section 296ZE, take reasonable steps to inform the approved service delivery organisation of—
-  (a) The auditor's intention to disclose the information; and
-  (b) The nature of the information.
+  (a) the auditor's intention to disclose the information; and
+  (b) the nature of the information.
 
 ### 296ZG Protection of auditors
 (1) No civil, criminal, or disciplinary proceedings lie against an auditor arising from the disclosure in good faith of information to the Minister under section 296ZE.
@@ -5106,16 +5089,16 @@ An auditor must, before disclosing information to the Minister under section 296
 
 ### 296ZH Unique identifiers
 (1) The purpose of this section is—
-  (a) To enable approved service delivery organisations to assign to any person specified in section 189 unique identifiers that have been assigned by the chief executive; and
-  (b) To restrict approved service delivery organisations from using such unique identifiers for purposes other than carrying out the specified functions, duties, or powers transferred to them under section 296B.
+  (a) to enable approved service delivery organisations to assign to any person specified in section 189 unique identifiers that have been assigned by the chief executive; and
+  (b) to restrict approved service delivery organisations from using such unique identifiers for purposes other than carrying out the specified functions, duties, or powers transferred to them under section 296B.
 (2) Despite Information Privacy Principle 12(2) of the Privacy Act 1993, an approved service delivery organisation may assign to any person specified in section 189 any unique identifier assigned to that person by the chief executive.
 (3) This section does not authorise an approved service delivery organisation to use a unique identifier assigned by the chief executive, except for the purpose of carrying out the specified functions, duties, or powers that have been transferred to that approved service delivery organisation under section 296B.
 
 ### 296ZI Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Specifying those failures to comply with specified standards or specifications, or directions under section 296Q, in respect of which the Minister may record demerit points against an approved service delivery organisation:
-  (b) Prescribing the number of demerit points to be recorded in respect of specified failures:
-  (c) Prescribing the amount of civil penalties payable in respect of different amounts or levels of demerit points incurred by an approved service delivery organisation in any financial year.
+  (a) specifying those failures to comply with specified standards or specifications, or directions under section 296Q, in respect of which the Minister may record demerit points against an approved service delivery organisation:
+  (b) prescribing the number of demerit points to be recorded in respect of specified failures:
+  (c) prescribing the amount of civil penalties payable in respect of different amounts or levels of demerit points incurred by an approved service delivery organisation in any financial year.
 (2) Without limiting subsection (1), regulations made under this section may provide for graduated scales of demerit points and civil penalties.
 (3) The total amount of civil penalties that may be incurred by an organisation in any financial year, as prescribed by regulations made under this section, may not exceed $500,000.
 
@@ -5123,133 +5106,133 @@ An auditor must, before disclosing information to the Minister under section 296
 
 ### 297 General regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Regulating or controlling fishing and the possession, processing, and disposal of fish, aquatic life, or seaweed including any of the following:
-    (i) Regulating, authorising, or prohibiting the taking or possession of any fish, aquatic life, or seaweed of any stock or species:
-    (ii) Regulating, authorising, or prohibiting the taking or possession of fish, aquatic life, or seaweed from any area:
-    (iii) Regulating or prohibiting the taking or possession of fish, aquatic life, or seaweed at any time, or for any period:
-    (iv) Regulating or prohibiting the taking or possession of fish, aquatic life, or seaweed smaller, or larger, than a specified size:
-    (v) Regulating or prohibiting the taking, possession, or disposal of any fish, aquatic life, or seaweed that is in any specified condition or exhibits specified physical characteristics:
-    (vi) Regulating or prohibiting the return of fish, aquatic life, or seaweed to any waters:
-    (vii) Regulating or prohibiting any method of fishing:
-    (viii) Regulating or prohibiting the possession or use of any kind of gear, equipment, or device used for, or related to, fishing:
-    (ix) Regulating or prohibiting the use of fishing vessels or fish carriers:
-    (x) Regulating the number or weight of any fish, aquatic life, or seaweed that may be taken or possessed, whether by reference to any period or on any other basis whatever; and prohibiting the taking or possession of any number or weight of fish, aquatic life, or seaweed that exceeds the specified maximum number or weight:
-    (xi) Regulating the methods, equipment, and devices to be used for determining the size or weight of any fish, aquatic life, or seaweed:
-    (xii) Regulating the methods, equipment, and devices that may be used to process fish, aquatic life, or seaweed; and prohibiting the processing of fish, aquatic life, or seaweed otherwise than by that method or by use of such equipment or devices:
-    (xiii) Regulating the methods by, or the circumstances under which, fish, aquatic life, or seaweed may be held, stored, conveyed, or identified, including the use of any containers, marks, or labels:
+  (a) regulating or controlling fishing and the possession, processing, and disposal of fish, aquatic life, or seaweed including any of the following:
+    (i) regulating, authorising, or prohibiting the taking or possession of any fish, aquatic life, or seaweed of any stock or species:
+    (ii) regulating, authorising, or prohibiting the taking or possession of fish, aquatic life, or seaweed from any area:
+    (iii) regulating or prohibiting the taking or possession of fish, aquatic life, or seaweed at any time, or for any period:
+    (iv) regulating or prohibiting the taking or possession of fish, aquatic life, or seaweed smaller, or larger, than a specified size:
+    (v) regulating or prohibiting the taking, possession, or disposal of any fish, aquatic life, or seaweed that is in any specified condition or exhibits specified physical characteristics:
+    (vi) regulating or prohibiting the return of fish, aquatic life, or seaweed to any waters:
+    (vii) regulating or prohibiting any method of fishing:
+    (viii) regulating or prohibiting the possession or use of any kind of gear, equipment, or device used for, or related to, fishing:
+    (ix) regulating or prohibiting the use of fishing vessels or fish carriers:
+    (x) regulating the number or weight of any fish, aquatic life, or seaweed that may be taken or possessed, whether by reference to any period or on any other basis whatever; and prohibiting the taking or possession of any number or weight of fish, aquatic life, or seaweed that exceeds the specified maximum number or weight:
+    (xi) regulating the methods, equipment, and devices to be used for determining the size or weight of any fish, aquatic life, or seaweed:
+    (xii) regulating the methods, equipment, and devices that may be used to process fish, aquatic life, or seaweed; and prohibiting the processing of fish, aquatic life, or seaweed otherwise than by that method or by use of such equipment or devices:
+    (xiii) regulating the methods by, or the circumstances under which, fish, aquatic life, or seaweed may be held, stored, conveyed, or identified, including the use of any containers, marks, or labels:
   (b)
-  (c) Providing for the issue, refusal, renewal, suspension, revocation, surrender, or modification of licences to receive fish, aquatic life, or seaweed by the chief executive, and the imposing of conditions on such licences, whether by the chief executive or otherwise, for persons who wish to act as fish receivers and to purchase or otherwise acquire or be in possession, in prescribed circumstances, of fish, aquatic life, or seaweed taken for the purpose of sale:
-  (ca) Requiring the installation and maintenance of equipment to monitor fishing or transportation and the payment of any associated prescribed fees and charges:
-  (d) Requiring, or authorising the chief executive to require,—to provide to the chief executive such information as the chief executive may reasonably require for the purpose of this Act:
-    (i) Any applicant for any licence, permit, approval, or other authority under this Act; or
-    (ii) The holder of any such authority—
-  (e) Defining the vessels or classes or types of vessels to which any regulations are to apply:
-  (f) Conferring, and making any provisions with respect to, rights of appeal or review against decisions made under the regulations:
-  (g) Prescribing details and conditions relating to the registration of fishing vessels and fish carriers and related matters, the method or methods of identifying fishing vessels and fish carriers, the identification marks or symbols or distinguishing flags to be carried by such vessels and by tenders and similar vessels carried by or attached to or used in conjunction with registered vessels, and the identification marks on sails, nets or seines, and other gear used in fishing, by vessels or otherwise:
-  (ga) Requiring notified users and registered operators of vessels to notify the chief executive of the user of the vessel from time to time:
-  (h) Prescribing the accounts, records, returns, and information that any person or class of persons may be required to keep or provide under Part 10 of this Act or any other provision of this Act, and providing for—
-    (i) The manner and form in which such accounts, records, returns, and information are to be kept or provided:
-    (ii) The time for or within which such accounts, records, returns, and information are to be kept or provided:
-    (iii) The person by or to whom such accounts, records, returns, and information are to be kept or provided:
-    (iv) The places where such accounts, records, returns, and information are to be kept or provided:
+  (c) providing for the issue, refusal, renewal, suspension, revocation, surrender, or modification of licences to receive fish, aquatic life, or seaweed by the chief executive, and the imposing of conditions on such licences, whether by the chief executive or otherwise, for persons who wish to act as fish receivers and to purchase or otherwise acquire or be in possession, in prescribed circumstances, of fish, aquatic life, or seaweed taken for the purpose of sale:
+  (ca) requiring the installation and maintenance of equipment to monitor fishing or transportation and the payment of any associated prescribed fees and charges:
+  (d) requiring, or authorising the chief executive to require,—to provide to the chief executive such information as the chief executive may reasonably require for the purpose of this Act:
+    (i) any applicant for any licence, permit, approval, or other authority under this Act; or
+    (ii) the holder of any such authority—
+  (e) defining the vessels or classes or types of vessels to which any regulations are to apply:
+  (f) conferring, and making any provisions with respect to, rights of appeal or review against decisions made under the regulations:
+  (g) prescribing details and conditions relating to the registration of fishing vessels and fish carriers and related matters, the method or methods of identifying fishing vessels and fish carriers, the identification marks or symbols or distinguishing flags to be carried by such vessels and by tenders and similar vessels carried by or attached to or used in conjunction with registered vessels, and the identification marks on sails, nets or seines, and other gear used in fishing, by vessels or otherwise:
+  (ga) requiring notified users and registered operators of vessels to notify the chief executive of the user of the vessel from time to time:
+  (h) prescribing the accounts, records, returns, and information that any person or class of persons may be required to keep or provide under Part 10 of this Act or any other provision of this Act, and providing for—
+    (i) the manner and form in which such accounts, records, returns, and information are to be kept or provided:
+    (ii) the time for or within which such accounts, records, returns, and information are to be kept or provided:
+    (iii) the person by or to whom such accounts, records, returns, and information are to be kept or provided:
+    (iv) the places where such accounts, records, returns, and information are to be kept or provided:
   (ha) recognising, for the purposes of section 32(2)(b), any form of return or evidence of highly migratory species catch taken in an area outside New Zealand fisheries waters, and specifying any relevant date for the delivery of such return or evidence to the chief executive:
   (hb) providing for the method of calculating provisional catch history for any highly migratory species to ensure consistency with the method used by an international fisheries organisation in determining New Zealand's national allocation for that species:
-  (i) Making, for the purpose of this Act, rules and other provisions with respect to the manner and order in which catch is to be balanced against annual catch entitlements or individual catch entitlements, including rules—
-    (i) Prescribing the manner of calculating reported catch and the information or evidence to be used as the basis for calculating such catch:
-    (ii) To be applied in the balancing of annual catch entitlements or individual catch entitlements against reported catch:
-    (iii) Providing for remissions or refunds of deemed value amounts:
-  (j) Prescribing for the auditing of licensed fish receivers, including regulations—
-    (i) Requiring every licensed fish receiver to provide one or more certificates of system audit in respect of the receiving, accounting, and other systems required by this Act to be maintained by the licensed fish receiver, and requiring every licensed fish receiver to provide a description and details of such systems operated by that person:
-    (ii) Specifying the frequency with which certificates of system audit and other documentation should be provided to the chief executive:
-    (iii) Specifying the type or class of persons who may be approved by the chief executive to conduct audits and issue certificates of system audit:
-    (iv) Providing for the issuing of circulars and notices by the chief executive in relation to the processes and methods of system audit to be applied by approved persons:
-  (k) Making such provision as may be necessary or expedient for the purpose of giving effect to any determination in relation to any dispute made under section 123 of this Act:
-  (l) Prescribing forms and other documents required for the purpose of this Act:
-  (m) Prescribing—
-    (i) The matters in respect of which fees or charges are payable under this Act, which may include, in relation to any application, an application fee and an additional processing charge:
-    (ii) The amounts of the fees or charges, or the method or rates (including hourly rates) by which they are to be assessed, which may differ depending on whether or not an application is processed on an urgent basis:
-    (iii) The persons liable to pay the fees or charges:
-    (iv) The circumstances in which the Minister or the chief executive may remit or waive payment of the whole or any part of the fees or charges:
-  (n) Creating offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and providing for the imposition of fines not exceeding $100,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences:
-  (na) Prescribing infringement offences against this Act (which offences may not be offences of taking or possession of fish by a commercial fisher):
-  (nb) Prescribing the form of infringement notices and infringement offence reminder notices:
-  (nc) Setting the infringement fee payable in respect of an infringement offence, which fee may not exceed $3,000; and setting different infringement fees for different infringement offences:
-  (nd) Specifying serious non-commercial offences for the purposes of this Act, which offences must be offences against regulations made under this Act or the Fisheries Act 1983:
-  (o) Implementing any provisions of, or giving effect to, any bilateral or multilateral treaty, convention, or agreement to which New Zealand is a signatory or a party, or any understanding concluded by the Government of New Zealand and the government of any other country; and declaring any such regulations to apply beyond the outer limits of New Zealand fisheries waters in respect of any New Zealand citizen, person entitled to reside in New Zealand indefinitely, body incorporated in New Zealand, or any New Zealand ship or vessel registered under this Act:
-  (oa) Implementing or giving effect to provisional measures of an international court or tribunal:
+  (i) making, for the purpose of this Act, rules and other provisions with respect to the manner and order in which catch is to be balanced against annual catch entitlements or individual catch entitlements, including rules—
+    (i) prescribing the manner of calculating reported catch and the information or evidence to be used as the basis for calculating such catch:
+    (ii) to be applied in the balancing of annual catch entitlements or individual catch entitlements against reported catch:
+    (iii) providing for remissions or refunds of deemed value amounts:
+  (j) prescribing for the auditing of licensed fish receivers, including regulations—
+    (i) requiring every licensed fish receiver to provide one or more certificates of system audit in respect of the receiving, accounting, and other systems required by this Act to be maintained by the licensed fish receiver, and requiring every licensed fish receiver to provide a description and details of such systems operated by that person:
+    (ii) specifying the frequency with which certificates of system audit and other documentation should be provided to the chief executive:
+    (iii) specifying the type or class of persons who may be approved by the chief executive to conduct audits and issue certificates of system audit:
+    (iv) providing for the issuing of circulars and notices by the chief executive in relation to the processes and methods of system audit to be applied by approved persons:
+  (k) making such provision as may be necessary or expedient for the purpose of giving effect to any determination in relation to any dispute made under section 123 of this Act:
+  (l) prescribing forms and other documents required for the purpose of this Act:
+  (m) prescribing—
+    (i) the matters in respect of which fees or charges are payable under this Act, which may include, in relation to any application, an application fee and an additional processing charge:
+    (ii) the amounts of the fees or charges, or the method or rates (including hourly rates) by which they are to be assessed, which may differ depending on whether or not an application is processed on an urgent basis:
+    (iii) the persons liable to pay the fees or charges:
+    (iv) the circumstances in which the Minister or the chief executive may remit or waive payment of the whole or any part of the fees or charges:
+  (n) creating offences in respect of the contravention of, or non-compliance with, any regulations made under this Act; and providing for the imposition of fines not exceeding $100,000, including the imposition of different fines in respect of a first offence, a second offence, and subsequent offences:
+  (na) prescribing infringement offences against this Act (which offences may not be offences of taking or possession of fish by a commercial fisher):
+  (nb) prescribing the form of infringement notices and infringement offence reminder notices:
+  (nc) setting the infringement fee payable in respect of an infringement offence, which fee may not exceed $3,000; and setting different infringement fees for different infringement offences:
+  (nd) specifying serious non-commercial offences for the purposes of this Act, which offences must be offences against regulations made under this Act or the Fisheries Act 1983:
+  (o) implementing any provisions of, or giving effect to, any bilateral or multilateral treaty, convention, or agreement to which New Zealand is a signatory or a party, or any understanding concluded by the Government of New Zealand and the government of any other country; and declaring any such regulations to apply beyond the outer limits of New Zealand fisheries waters in respect of any New Zealand citizen, person entitled to reside in New Zealand indefinitely, body incorporated in New Zealand, or any New Zealand ship or vessel registered under this Act:
+  (oa) implementing or giving effect to provisional measures of an international court or tribunal:
   (p)
-  (q) Providing for the operation of registers under sections 98, 124, 186K, and 186ZE of this Act, including the electronic transmission of information:
+  (q) providing for the operation of registers under sections 98, 124, 186K, and 186ZE of this Act, including the electronic transmission of information:
   (qa) prescribing, for the purposes of section 158(1), when an instrument (including an application) is to be treated as having been received for registration, and different rules may be prescribed for different types of instruments and for instruments presented by different means:
   (r)
-  (s) Prescribing such particulars and matters as are required to be shown in the Permit Register, the High Seas Permit Register, the Fishing Vessel Register, a Quota Register, and an Annual Catch Entitlement Register:
-  (sa) Specifying the order in which the chief executive is to action transactions specified in the regulations for the purposes of section 63:
-  (t) Specifying reasons on the basis of which applications to correct a register may be made under section 164 of this Act, and on the basis of which the chief executive may correct a register under section 165 of this Act:
-  (u) Setting out conditions and other provisions that apply to approvals given under section 296 of this Act for the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents:
-  (v) Prescribing circumstances in which, and times and places at which, a commercial fisher or a person authorised to fish in New Zealand fisheries waters under Part 5 of this Act is to notify the Ministry that the commercial fisher or person is intending to land any fish, aquatic life, or seaweed:
-  (w) Closing an area or areas to commercial fishing, or prohibiting a method or methods of commercial fishing within an area or areas, for the purpose of better providing for recreational fishing for a stock under section 311 of this Act:
-  (x) Prescribing the matters required to be notified to commercial fishers under section 80(1) of this Act:
-  (y) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+  (s) prescribing such particulars and matters as are required to be shown in the Permit Register, the High Seas Permit Register, the Fishing Vessel Register, a Quota Register, and an Annual Catch Entitlement Register:
+  (sa) specifying the order in which the chief executive is to action transactions specified in the regulations for the purposes of section 63:
+  (t) specifying reasons on the basis of which applications to correct a register may be made under section 164 of this Act, and on the basis of which the chief executive may correct a register under section 165 of this Act:
+  (u) setting out conditions and other provisions that apply to approvals given under section 296 of this Act for the electronic transmission of accounts, records, returns, transactions, information, notices, objections, requests, applications, or other documents:
+  (v) prescribing circumstances in which, and times and places at which, a commercial fisher or a person authorised to fish in New Zealand fisheries waters under Part 5 of this Act is to notify the Ministry that the commercial fisher or person is intending to land any fish, aquatic life, or seaweed:
+  (w) closing an area or areas to commercial fishing, or prohibiting a method or methods of commercial fishing within an area or areas, for the purpose of better providing for recreational fishing for a stock under section 311 of this Act:
+  (x) prescribing the matters required to be notified to commercial fishers under section 80(1) of this Act:
+  (y) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Without limiting anything in subsection (1) of this section, any such regulations may—
-  (a) Authorise the Minister or the chief executive to issue or impose, as the case may be, any authority, approval, requirement, prohibition, restriction, condition, direction, instruction, order, permit, notice, or circular:
-  (b) Exempt from compliance with or the application of any provisions of the regulations any person or species or vessel, or authorise the Minister or the chief executive to grant such exemptions as the regulations may specify.
+  (a) authorise the Minister or the chief executive to issue or impose, as the case may be, any authority, approval, requirement, prohibition, restriction, condition, direction, instruction, order, permit, notice, or circular:
+  (b) exempt from compliance with or the application of any provisions of the regulations any person or species or vessel, or authorise the Minister or the chief executive to grant such exemptions as the regulations may specify.
 (3) Without limiting anything in this section or section 299(1), regulations made under this section may apply in respect of—
-  (a) Fishing to which Part 5 applies; and
+  (a) fishing to which Part 5 applies; and
   (b) New Zealand nationals and New Zealand ships when they are outside New Zealand fisheries waters.
 
 ### 298 Regulations relating to sustainability measures
 Without limiting the generality of section 297 of this Act, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Implementing any sustainability measure or the variation of any sustainability measure set or varied under section 11 of this Act, and such regulations may be made for all or any of the purposes referred to in that section:
-  (b) If there is no applicable approved population management plan for the time being in force under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, which measures may include setting a limit on fishing-related mortality:
-  (c) If there is an applicable approved population management plan for the time being in force under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient—
-    (i) To ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
-    (ii) To further avoid, remedy, or mitigate any adverse effects of fishing on the relevant protected species:
-  (d) Requiring, or authorising the Minister or the chief executive to require, any person or class of persons specified in section 189 of this Act to provide the Minister or the chief executive with such information relating to fishing-related mortality as the Minister or the chief executive may require for the purpose of this Act, including regulations requiring the information to be provided in a specified manner.
+  (a) implementing any sustainability measure or the variation of any sustainability measure set or varied under section 11 of this Act, and such regulations may be made for all or any of the purposes referred to in that section:
+  (b) if there is no applicable approved population management plan for the time being in force under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient to avoid, remedy, or mitigate the effect of fishing-related mortality on any protected species, which measures may include setting a limit on fishing-related mortality:
+  (c) if there is an applicable approved population management plan for the time being in force under section 14F of the Wildlife Act 1953 or section 3E of the Marine Mammals Protection Act 1978, imposing such measures as may be necessary or expedient—
+    (i) to ensure that the maximum allowable fishing-related mortality level set by the relevant population management plan is not exceeded:
+    (ii) to further avoid, remedy, or mitigate any adverse effects of fishing on the relevant protected species:
+  (d) requiring, or authorising the Minister or the chief executive to require, any person or class of persons specified in section 189 of this Act to provide the Minister or the chief executive with such information relating to fishing-related mortality as the Minister or the chief executive may require for the purpose of this Act, including regulations requiring the information to be provided in a specified manner.
 
 ### 299 Regulations relating to foreign licensed access
 (1) Without limiting the generality of section 297 of this Act, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing, in relation to licences under section 83 of this Act,—
-    (i) The manner of applying for licences:
-    (ii) The form of applications for licences:
-    (iii) The terms for which licences may be granted:
-  (b) Providing for the production of such licences by licensees to specified New Zealand authorities when required to do so, and the inspection of licences by such authorities:
-  (c) Requiring applicants for licences, and licensees, to designate authorised agents in New Zealand in respect of foreign fishing vessels:
-  (d) Making such other provision as may be necessary or expedient to ensure that foreign fishing vessels are used for fishing within the exclusive economic zone only in accordance with the terms and conditions of their licences:
-  (e) Prescribing the amount of the fees, charges, and royalties payable to the Crown under Part 5 of this Act or the method by which they are to be assessed, including different fees, royalties, or charges for different classes of foreign fishing vessels (whether by reference to size, catch, method of fishing, function, or otherwise), and their method of payment; and prescribing the circumstances in which any such fee, charge, or royalty, or any part of any fee, charge, or royalty may be refunded:
-  (f) Prescribing particular types of highly migratory stock, and regulating, in a manner not inconsistent with Part 5 of this Act, fishing for that stock within the zone:
-  (g) Creating offences for breaches of any such regulations; and imposing in respect of such offences—
-    (i) In the case of an owner or operator of a foreign fishing vessel, fines not exceeding $500,000:
-    (ii) In the case of a licensee or master of a foreign fishing vessel, fines not exceeding $250,000:
-  (h) Prescribing the forms of notices and the procedures (including procedures and approval methods for the service of notices) to be followed for the purposes of Part 5 of this Act.
+  (a) prescribing, in relation to licences under section 83 of this Act,—
+    (i) the manner of applying for licences:
+    (ii) the form of applications for licences:
+    (iii) the terms for which licences may be granted:
+  (b) providing for the production of such licences by licensees to specified New Zealand authorities when required to do so, and the inspection of licences by such authorities:
+  (c) requiring applicants for licences, and licensees, to designate authorised agents in New Zealand in respect of foreign fishing vessels:
+  (d) making such other provision as may be necessary or expedient to ensure that foreign fishing vessels are used for fishing within the exclusive economic zone only in accordance with the terms and conditions of their licences:
+  (e) prescribing the amount of the fees, charges, and royalties payable to the Crown under Part 5 of this Act or the method by which they are to be assessed, including different fees, royalties, or charges for different classes of foreign fishing vessels (whether by reference to size, catch, method of fishing, function, or otherwise), and their method of payment; and prescribing the circumstances in which any such fee, charge, or royalty, or any part of any fee, charge, or royalty may be refunded:
+  (f) prescribing particular types of highly migratory stock, and regulating, in a manner not inconsistent with Part 5 of this Act, fishing for that stock within the zone:
+  (g) creating offences for breaches of any such regulations; and imposing in respect of such offences—
+    (i) in the case of an owner or operator of a foreign fishing vessel, fines not exceeding $500,000:
+    (ii) in the case of a licensee or master of a foreign fishing vessel, fines not exceeding $250,000:
+  (h) prescribing the forms of notices and the procedures (including procedures and approval methods for the service of notices) to be followed for the purposes of Part 5 of this Act.
 (2) Regulations made under this section may make different provision for different parts of the exclusive economic zone and for different stocks.
 (3) Regulations made under subsection (1)(e) of this section shall be made on the recommendation of the Minister and, in recommending the making of such regulations, the Minister may take into account the cost of implementing the provisions of this Act with respect to foreign fishing vessels within the exclusive economic zone, including the cost of managing fisheries resources, fisheries research, and the administration and enforcement of this Act and other relevant enactments.
 
 ### 299A Amendments to update Schedule 1A
 (1) The Governor-General may from time to time, by Order in Council,—
-  (a) Amend Schedule 1A by making amendments to the text of the Fish Stocks Agreement set out in that schedule that are required to bring the text up to date:
-  (b) Revoke Schedule 1A, and substitute a new schedule setting out, in an up-to-date form, the text of the Fish Stocks Agreement.
+  (a) amend Schedule 1A by making amendments to the text of the Fish Stocks Agreement set out in that schedule that are required to bring the text up to date:
+  (b) revoke Schedule 1A, and substitute a new schedule setting out, in an up-to-date form, the text of the Fish Stocks Agreement.
 (2) An order made under subsection (1) is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
 
 ### 300 Dockside monitoring
 (1) Without limiting the generality of section 297 of this Act, the Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Requiring that fish, aquatic life, or seaweed be landed at designated landing sites or designated weighing stations, at specified times, with an appointed person present:
-  (b) Providing for the designation of sites by the chief executive as landing sites or weighing stations, and providing for different sites to be so designated for different classes of vessels, stocks, or commercial fishers:
-  (c) Requiring any owners, operators, or masters of vessels, or any permit holders, or any of them, to notify appointed persons of the intention to land fish, aquatic life, or seaweed:
-  (d) Providing for the appointment of persons to inspect catch, and to monitor and verify the accuracy of any information recorded in the catch, effort, and landing returns (or other prescribed returns), and for the resignation or removal of such persons:
-  (e) Empowering appointed persons to give directions as to the manner in which fish, aquatic life, or seaweed, or any prescribed returns, are to be presented for inspection:
-  (f) Prescribing the form of documents to be completed, the time and manner in which such documents are to be completed, and the persons to whom completed documents are to be sent.
+  (a) requiring that fish, aquatic life, or seaweed be landed at designated landing sites or designated weighing stations, at specified times, with an appointed person present:
+  (b) providing for the designation of sites by the chief executive as landing sites or weighing stations, and providing for different sites to be so designated for different classes of vessels, stocks, or commercial fishers:
+  (c) requiring any owners, operators, or masters of vessels, or any permit holders, or any of them, to notify appointed persons of the intention to land fish, aquatic life, or seaweed:
+  (d) providing for the appointment of persons to inspect catch, and to monitor and verify the accuracy of any information recorded in the catch, effort, and landing returns (or other prescribed returns), and for the resignation or removal of such persons:
+  (e) empowering appointed persons to give directions as to the manner in which fish, aquatic life, or seaweed, or any prescribed returns, are to be presented for inspection:
+  (f) prescribing the form of documents to be completed, the time and manner in which such documents are to be completed, and the persons to whom completed documents are to be sent.
 (2) The Crown, the chief executive, and appointed persons shall not be liable for any loss or damage caused as a result of any person lawfully carrying out functions or duties conferred or imposed by regulations made for any purpose referred to in subsection (1) of this section.
 
 ### 301 Regulations relating to freshwater fish farming
 Without limiting the generality of section 297 of this Act, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Authorising persons, to be registered for the purpose, to construct and maintain ponds as fish farms for breeding and rearing fish (other than trout), aquatic life, or seaweed for sale subject to such conditions as are specified in the regulations:
-  (b) Regulating the operation of fish farms subject to such conditions as are specified in the regulations, and prohibiting the operation of any such fish farm, and the sale, disposal, transport, or export of any fish, aquatic life, or seaweed from such a fish farm without a licence:
-  (c) Providing for the registration of persons who may hold licences to operate fish farms and for the qualifications those persons are required to hold and the conditions with which they are required to comply before being granted registration and in order to remain registered:
-  (d) Providing for the appointment of officers, including any class of officers with specialist qualifications, to inspect such fish farms and ensure that any regulations made under this section are enforced, and for the inspection of any such fish farm or facilities for processing or storing any fish, aquatic life, or seaweed reared on the farm:
-  (e) Providing for the application for, issue, revocation, renewal, variation, and transfer of licences in respect of any such operation, and the form and contents of any such licence; and prescribing the fees payable in advance in respect of any such matter relating to any such licence and the fees payable annually or six-monthly in advance for the continued validity of any such licence:
-  (f) Specifying the species, sub-species, varieties, or hybrids of fish, aquatic life, or seaweed that may be bred or reared in any such farm; and regulating the types and quantities of food that may be fed to any such fish, aquatic life, or seaweed, and the methods of feeding:
-  (g) Regulating or prohibiting the sale, possession, disposal, or processing of any such fish, aquatic life, or seaweed:
-  (h) Providing for the keeping by the licensee of any fish farm of records of fish, aquatic life, or seaweed acquired, kept, and disposed of, and for the keeping of records relating to those fish, aquatic life, or seaweed by any other licensee or other person:
-  (i) Prescribing the measures to be taken to avoid the outbreak, or on an outbreak, of any disease among the fish, aquatic life, or seaweed, and authorising or requiring the taking of any specimen, the testing of any thing, or the sampling of any substance present on any fish farm, and authorising or requiring the removal of any specimen or sample, or the destruction of diseased fish, aquatic life, or seaweed, whether with or without payment of compensation.
+  (a) authorising persons, to be registered for the purpose, to construct and maintain ponds as fish farms for breeding and rearing fish (other than trout), aquatic life, or seaweed for sale subject to such conditions as are specified in the regulations:
+  (b) regulating the operation of fish farms subject to such conditions as are specified in the regulations, and prohibiting the operation of any such fish farm, and the sale, disposal, transport, or export of any fish, aquatic life, or seaweed from such a fish farm without a licence:
+  (c) providing for the registration of persons who may hold licences to operate fish farms and for the qualifications those persons are required to hold and the conditions with which they are required to comply before being granted registration and in order to remain registered:
+  (d) providing for the appointment of officers, including any class of officers with specialist qualifications, to inspect such fish farms and ensure that any regulations made under this section are enforced, and for the inspection of any such fish farm or facilities for processing or storing any fish, aquatic life, or seaweed reared on the farm:
+  (e) providing for the application for, issue, revocation, renewal, variation, and transfer of licences in respect of any such operation, and the form and contents of any such licence; and prescribing the fees payable in advance in respect of any such matter relating to any such licence and the fees payable annually or six-monthly in advance for the continued validity of any such licence:
+  (f) specifying the species, sub-species, varieties, or hybrids of fish, aquatic life, or seaweed that may be bred or reared in any such farm; and regulating the types and quantities of food that may be fed to any such fish, aquatic life, or seaweed, and the methods of feeding:
+  (g) regulating or prohibiting the sale, possession, disposal, or processing of any such fish, aquatic life, or seaweed:
+  (h) providing for the keeping by the licensee of any fish farm of records of fish, aquatic life, or seaweed acquired, kept, and disposed of, and for the keeping of records relating to those fish, aquatic life, or seaweed by any other licensee or other person:
+  (i) prescribing the measures to be taken to avoid the outbreak, or on an outbreak, of any disease among the fish, aquatic life, or seaweed, and authorising or requiring the taking of any specimen, the testing of any thing, or the sampling of any substance present on any fish farm, and authorising or requiring the removal of any specimen or sample, or the destruction of diseased fish, aquatic life, or seaweed, whether with or without payment of compensation.
 
 ### 302 General provisions as to regulations
 (1) Any regulations made under this Act may apply generally throughout New Zealand fisheries waters, generally throughout the high seas, or be made to apply only within such area or areas as may be defined for the purpose by the regulations.
@@ -5263,17 +5246,17 @@ Without limiting the generality of section 297 of this Act, the Governor-General
 ### 304 Circulars
 (1) Regulations under this Act may provide for the promulgation from time to time by the chief executive of circulars specifying general criteria for the drawing up, accomplishment, demonstration, carrying on, or provision for any act, plan, proposal, matter, system, process, or thing.
 (2) Where any act, plan, proposal, matter, system, process, or thing must be—
-  (a) Approved by the chief executive or a fishery officer, it shall be deemed so to have been approved if it is in conformity with general criteria relating to it specified in a circular or circulars for the time being in force:
-  (b) Accomplished, demonstrated, carried on, or provided for to the satisfaction of the chief executive or a fishery officer, it shall be deemed so to have been accomplished, demonstrated, carried on, or provided for if it is in conformity with general criteria relating to it specified in a circular or circulars for the time being in force:
-  (c) Accomplished, demonstrated, carried on, or provided for to an extent that, in the opinion of the chief executive or a fishery officer, meets or tends to meet some particular result, it shall be deemed so to have been accomplished, demonstrated, carried on, or provided for if it is in conformity with general criteria relating to it specified in a circular or circulars for the time being in force.
+  (a) approved by the chief executive or a fishery officer, it shall be deemed so to have been approved if it is in conformity with general criteria relating to it specified in a circular or circulars for the time being in force:
+  (b) accomplished, demonstrated, carried on, or provided for to the satisfaction of the chief executive or a fishery officer, it shall be deemed so to have been accomplished, demonstrated, carried on, or provided for if it is in conformity with general criteria relating to it specified in a circular or circulars for the time being in force:
+  (c) accomplished, demonstrated, carried on, or provided for to an extent that, in the opinion of the chief executive or a fishery officer, meets or tends to meet some particular result, it shall be deemed so to have been accomplished, demonstrated, carried on, or provided for if it is in conformity with general criteria relating to it specified in a circular or circulars for the time being in force.
 (3) The powers of the chief executive or a fishery officer to approve or be satisfied of, or to take any action in relation to (a prerequisite to the taking of which action is that he or she may have a particular opinion about), any act, plan, proposal, matter, system, process, or thing shall not be limited or affected by any matter contained in a circular.
 
 ### 305 Application of Commodity Levies Act 1990
 Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply to any fish, aquatic life, or seaweed, and any other commodity (as defined in that Act) to which this Act applies with the following modifications:
-  (a) It shall be sufficient compliance with section 5(2)(ac) of that Act if the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) of that Act to be specified in a levy order, and the Minister is satisfied that the ballot paper indicated that the imposition of the levy was proposed to be on the basis of one or more of the following:
-    (i) Quota shares in respect of the commodity:
-    (ii) The landed value of the commodity:
-    (iii) The greenweight or meatweight of the commodity:
+  (a) it shall be sufficient compliance with section 5(2)(ac) of that Act if the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) of that Act to be specified in a levy order, and the Minister is satisfied that the ballot paper indicated that the imposition of the levy was proposed to be on the basis of one or more of the following:
+    (i) quota shares in respect of the commodity:
+    (ii) the landed value of the commodity:
+    (iii) the greenweight or meatweight of the commodity:
   (aa) if it is proposed that the levy will be imposed on the basis of 2 or more of the units of measurement in paragraphs (a)(i) to (iii), the Minister may approve the conversion of 1 or more of those units into another unit, being 1 of the units in paragraph (a)(i) to (iii) or another unit, if—
     (i) the Minister is satisfied that it is reasonable to convert to another unit of measurement; and
     (ii) the Minister is satisfied that the method of conversion is reasonable; and
@@ -5283,29 +5266,29 @@ Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply 
     (ii) the value of the commodity:
     (iii) the greenweight or meatweight of the commodity:
     (iv) 1 or more units of measurement in paragraphs (i) to (iii) converted into another unit of measurement under paragraph (aa).
-  (c) The enhancement of fisheries resources shall be a purpose for which a levy may be spent under section 10(2) of that Act.
+  (c) the enhancement of fisheries resources shall be a purpose for which a levy may be spent under section 10(2) of that Act.
 
 ### 305A Powers of chief executive when false or misleading information given
 (1) The chief executive may amend or revoke all or any part of an approval, authority, licence, permission, or permit given under this Act, or a decision made under this Act, or a registration completed under this Act, (the specified action) if—
-  (a) The chief executive is satisfied that the specified action was given, made, or completed on the basis of false or misleading information; and
-  (b) The false or misleading information was material to the giving, making, or completion of the specified action; and
-  (c) The chief executive gives notice in writing of his or her intention to amend or revoke the specified action to the appropriate one of the following:
-    (i) The holder of the approval, authority, licence, permission, or permit; or
-    (ii) The person in relation to whom the decision was made or the registration was completed; and
-  (d) The notice is accompanied by a statement of the chief executive's reasons for the proposed revocation or amendment; and
-  (e) The chief executive gives the person to whom the notice is given a reasonable opportunity to make submissions in relation to the proposed revocation or amendment; and
-  (f) The chief executive considers any submissions made by that person.
+  (a) the chief executive is satisfied that the specified action was given, made, or completed on the basis of false or misleading information; and
+  (b) the false or misleading information was material to the giving, making, or completion of the specified action; and
+  (c) the chief executive gives notice in writing of his or her intention to amend or revoke the specified action to the appropriate one of the following:
+    (i) the holder of the approval, authority, licence, permission, or permit; or
+    (ii) the person in relation to whom the decision was made or the registration was completed; and
+  (d) the notice is accompanied by a statement of the chief executive's reasons for the proposed revocation or amendment; and
+  (e) the chief executive gives the person to whom the notice is given a reasonable opportunity to make submissions in relation to the proposed revocation or amendment; and
+  (f) the chief executive considers any submissions made by that person.
 (2) An amendment or revocation under subsection (1) is made by giving notice in writing to the appropriate one of the following:
-  (a) The holder of the approval, authority, licence, permission, or permit; or
-  (b) The person in relation to whom the decision was made or the registration was completed.
+  (a) the holder of the approval, authority, licence, permission, or permit; or
+  (b) the person in relation to whom the decision was made or the registration was completed.
 
 **Provisions relating to applications**
 
 ### 305B Requirements applying generally to applications and requests under this Act
 (1) An application or a request made under this Act to the chief executive must comply with the following requirements:
-  (a) The application or request must be in the approved form (if any):
-  (b) The application or request must be supported by such evidence or information as may be specified in the approved form:
-  (c) The prescribed fee or charge (if any) must be paid in respect of the application or request.
+  (a) the application or request must be in the approved form (if any):
+  (b) the application or request must be supported by such evidence or information as may be specified in the approved form:
+  (c) the prescribed fee or charge (if any) must be paid in respect of the application or request.
 (2) The chief executive may, but does not have to, accept an application or request if it does not comply with subsection (1).
 (3) The lodging of an aquaculture agreement for registration under section 186ZH is to be treated as a request for the purposes of this section.
 
@@ -5317,14 +5300,14 @@ Notwithstanding anything in the Commodity Levies Act 1990, that Act shall apply 
 
 ### 306 Giving of notices, etc
 (1) Except as otherwise specified in this Act, if under this Act any notice or other document is to be given, served on, or furnished to any person, that notice or other document may be—
-  (a) Given to the person personally; or
-  (b) Sent by registered post to the person at the person's usual or last known place of business or abode; or
-  (c) Given personally to any other person authorised to act on behalf of the person; or
-  (d) Sent by registered post to that other person at that other person's usual or last known place of business or abode; or
-  (e) Except in the case of any notice or document to be given or served in the course of or for the purpose of any proceedings for an offence against this Act, sent by post to the person, or any other person authorised to act on the person's behalf, at that person's or other person's usual or last known place of business or abode; or
-  (f) Except in the case of any notice or document to be given or served in the course of or for the purpose of any proceedings for an offence against this Act, sent by electronic transmission to the person, or any other person authorised to act on the person's behalf, at that person's or other person's usual or last known address; and, for the purposes of this paragraph,—
-    (i) The term electronic transmission means any transmission of information sent electronically; and includes any transmission sent by facsimile, electronic mail, or electronic data transfer:
-    (ii) The term address means a facsimile number or an electronic mail address.
+  (a) given to the person personally; or
+  (b) sent by registered post to the person at the person's usual or last known place of business or abode; or
+  (c) given personally to any other person authorised to act on behalf of the person; or
+  (d) sent by registered post to that other person at that other person's usual or last known place of business or abode; or
+  (e) except in the case of any notice or document to be given or served in the course of or for the purpose of any proceedings for an offence against this Act, sent by post to the person, or any other person authorised to act on the person's behalf, at that person's or other person's usual or last known place of business or abode; or
+  (f) except in the case of any notice or document to be given or served in the course of or for the purpose of any proceedings for an offence against this Act, sent by electronic transmission to the person, or any other person authorised to act on the person's behalf, at that person's or other person's usual or last known address; and, for the purposes of this paragraph,—
+    (i) the term electronic transmission means any transmission of information sent electronically; and includes any transmission sent by facsimile, electronic mail, or electronic data transfer:
+    (ii) the term address means a facsimile number or an electronic mail address.
 (2) Any notice or other document so sent by post or registered post shall be deemed to have been given, served, or received 7 days after the date on which it was posted, unless the person to whom it was posted proves that, otherwise than through that person's fault, the notice or document was not received.
 
 ### 307 Ornamental fish
@@ -5332,15 +5315,15 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 
 ### 308 Protection of the Crown, etc
 (1) No transfer of quota or annual catch entitlement by the chief executive under any of sections 22, 23, 26, 52, 67, 67A, and 347A—
-  (a) Shall be regarded as placing the Crown or any other person in breach of, or default under, any contract or arrangement relating to quota or annual catch entitlements, except to the extent that specific provision to the contrary is made in the relevant contract or other arrangement; or
-  (b) Shall invalidate any contract or other arrangement in relation to quota or annual catch entitlements, or be regarded as giving rise to a right for any person to terminate or cancel any such contract or other arrangement, except to the extent that specific provision to the contrary is made in the relevant contract or other arrangement; or
-  (c) Shall be regarded as otherwise making the Crown guilty of a civil wrong.
+  (a) shall be regarded as placing the Crown or any other person in breach of, or default under, any contract or arrangement relating to quota or annual catch entitlements, except to the extent that specific provision to the contrary is made in the relevant contract or other arrangement; or
+  (b) shall invalidate any contract or other arrangement in relation to quota or annual catch entitlements, or be regarded as giving rise to a right for any person to terminate or cancel any such contract or other arrangement, except to the extent that specific provision to the contrary is made in the relevant contract or other arrangement; or
+  (c) shall be regarded as otherwise making the Crown guilty of a civil wrong.
 (2) Nothing effected or authorised by—shall be regarded as making the Crown liable to pay compensation or damages to any person.
-  (a) Any provision of this Act that contains or provides for measures to ensure sustainability (including sustainability measures, conditions on permits, special permits, or licences for the purpose of ensuring sustainability, and the varying of any total allowable commercial catch as a direct consequence of a variation in the corresponding total allowable catch); or
-  (b) Any provision of this Act that contains or provides for measures relating to the introduction of a stock to the quota management system (including the setting of the total allowable commercial catch and transitional provisions for bringing under this Act any species or classes of fish, aquatic life, or seaweed that were, immediately before the commencement of Part 4 of this Act, subject to Part 2A of the Fisheries Act 1983); or
+  (a) any provision of this Act that contains or provides for measures to ensure sustainability (including sustainability measures, conditions on permits, special permits, or licences for the purpose of ensuring sustainability, and the varying of any total allowable commercial catch as a direct consequence of a variation in the corresponding total allowable catch); or
+  (b) any provision of this Act that contains or provides for measures relating to the introduction of a stock to the quota management system (including the setting of the total allowable commercial catch and transitional provisions for bringing under this Act any species or classes of fish, aquatic life, or seaweed that were, immediately before the commencement of Part 4 of this Act, subject to Part 2A of the Fisheries Act 1983); or
   (ba) any provision of this Act providing or having the effect that catch history ceases to be the basis for quota allocation for any stock or species; or
-  (c) Any of sections 11, 13, 14, 15, 16, 19, 22, 23, 25, 26, 29A, , 45, 47, 52, 53, 54, 56 to 58B, 67, 67A, 81, 82, 147, 148, 163, 289, 319, 320, 321, 329, 338, 339, 340, 347A, 352, 362, 367, 368, 369, 369A, 369B, 369C, 369D, 369E, 369F, and 369T of this Act; or
-  (d) Any provision of the Fisheries Act 1983 that is amended or enacted by this Act—
+  (c) any of sections 11, 13, 14, 15, 16, 19, 22, 23, 25, 26, 29A, , 45, 47, 52, 53, 54, 56 to 58B, 67, 67A, 81, 82, 147, 148, 163, 289, 319, 320, 321, 329, 338, 339, 340, 347A, 352, 362, 367, 368, 369, 369A, 369B, 369C, 369D, 369E, 369F, and 369T of this Act; or
+  (d) any provision of the Fisheries Act 1983 that is amended or enacted by this Act—
 
 ### 309 Power to withhold compensation where amounts owing to Crown
 (1) Notwithstanding anything in section 28OL of the Fisheries Act 1983 but subject to subsection (2) of this section, if any person has failed to pay any fee or other amount (other than a fine) due by that person to the Crown under or in respect of any matter under this Act or the Fisheries Act 1983, the Crown may defer payment of any compensation payable to that person under Part 2A of that Act until the amount so due is paid.
@@ -5355,18 +5338,18 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 
 ### 311 Areas closed to commercial fishing methods
 (1) The Minister may, where—after consulting with such persons or organisations as the Minister considers are representative of those classes of persons who have an interest in the matter, recommend the making of regulations under section 297 of this Act that close an area or areas to commercial fishing for that stock, or prohibit a method or methods of commercial fishing in an area or areas for that stock for the purpose of better providing for recreational fishing for that stock, provided that such regulations are not inconsistent with the Maori Fisheries Act 1989, the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992, or Part 9 of this Act.
-  (a) Catch rates by recreational fishers for a stock are low; and
-  (b) Such low catch rates have a significant adverse effect on the ability of recreational fishers to take their allowance for that stock; and
-  (c) The low catch rates are due to the effect of commercial fishing for the stock in the area or areas where recreational fishing for the stock commonly occurs; and
-  (d) A dispute regarding the matter has been considered under Part 7 of this Act and the Minister is satisfied that all parties to the dispute have used their best endeavours in good faith to settle the dispute but have failed to do so,—
+  (a) catch rates by recreational fishers for a stock are low; and
+  (b) such low catch rates have a significant adverse effect on the ability of recreational fishers to take their allowance for that stock; and
+  (c) the low catch rates are due to the effect of commercial fishing for the stock in the area or areas where recreational fishing for the stock commonly occurs; and
+  (d) a dispute regarding the matter has been considered under Part 7 of this Act and the Minister is satisfied that all parties to the dispute have used their best endeavours in good faith to settle the dispute but have failed to do so,—
 (2) After determining to recommend the making of regulations under subsection (1) of this section, the Minister shall, as soon as practicable, give to the parties consulted in accordance with that subsection reasons in writing for his or her decision.
 
 ### 312 Prohibition on taking southern scallops for sale outside scallop season
 (1) No person shall take any scallops from the southern scallop fishery, for the purpose of sale, except during the southern scallop season.
 (2) No person shall take any scallops, for the purpose of sale, from any part of fishery management area 7 that is outside the southern scallop fishery.
 (3) For the purposes of this Part of this Act, the Minister may from time to time, by notice in the Gazette,—
-  (a) Specify any southern scallop season before the season commences:
-  (b) Vary any southern scallop season while it is current.
+  (a) specify any southern scallop season before the season commences:
+  (b) vary any southern scallop season while it is current.
 (4) Every person commits an offence and is liable to the penalty set out in section 252(5) who contravenes subsection (1) or subsection (2) of this section.
 
 ### 313 Closure of southern scallop fishery
@@ -5380,79 +5363,79 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 
 ### 314 Repeals of provisions of Fisheries Act 1983
 (1) The following provisions of the Fisheries Act 1983 are hereby repealed:
-  (a) Section 2 (the interpretation section):
-  (b) Section 2A (as inserted by section 3 of the Fisheries Amendment Act 1986) (which provides that the Act binds the Crown):
-  (c) Section 3 (which relates to the application of the Act to the exclusive economic zone):
-  (d) Section 3A (as inserted by section 4 of the Fisheries Amendment Act 1986) (which relates to references to the weight of fish):
-  (e) Sections 13 to 28, Part 3, and section 102A (as inserted by section 48 of the Fisheries Amendment Act 1990) (which relate to the Fisheries Authority and to controlled fisheries):
-  (f) Section 28A (as inserted by section 9 of the Fisheries Amendment Act 1986) (which relates to the Quota Appeal Authority):
-  (g) Section 28CA (as inserted by section 5(1) of the Fisheries Amendment Act 1990) (which relates to the total allowable commercial catch for rock lobster):
-  (h) Sections 28E, 28F, 28G, 28H, 28I, 28J, 28K, 28L, 28M, and 28N (as inserted by section 10 of the Fisheries Amendment Act 1986), section 28O except for subsections (4), (5), (6) and (7) (as inserted by section 10 of the Fisheries Amendment Act 1986 and section 14(1) of the Fisheries Amendment Act 1990), and section 28X (as inserted by section 68 of the Maori Fisheries Act 1989) (which sections relate to provisional maximum individual transferable quota):
-  (i) Sections 28EA, 28FA, 28GA, 28HA, 28JA, 28KA, 28NA, and 28OA (as inserted by sections 51 to 59 of the Maori Fisheries Act 1989) and section 28OC (as inserted by section 15 of the Fisheries Amendment Act 1990) (which sections relate to provisional maximum transferable term quotas for rock lobster):
-  (j) Sections 28OF, 28OG, and 28OI to 28OO (as inserted by section 15 of the Fisheries Amendment Act 1990) and section 28OH (as substituted by section 8 of the Fisheries Amendment Act 1991) (which sections relate to compensation for reductions in quota over a specified transitional period):
-  (k) Section 28ZCA (as inserted by section 10 of the Fisheries Amendment Act (No 2) 1992) (which is a special provision in relation to quota balances):
-  (l) Section 28ZGA (as inserted by section 3 of the Fisheries Amendment Act (No 3) 1992) (which limits the powers of the Quota Appeal Authority and of courts in certain cases):
+  (a) section 2 (the interpretation section):
+  (b) section 2A (as inserted by section 3 of the Fisheries Amendment Act 1986) (which provides that the Act binds the Crown):
+  (c) section 3 (which relates to the application of the Act to the exclusive economic zone):
+  (d) section 3A (as inserted by section 4 of the Fisheries Amendment Act 1986) (which relates to references to the weight of fish):
+  (e) sections 13 to 28, Part 3, and section 102A (as inserted by section 48 of the Fisheries Amendment Act 1990) (which relate to the Fisheries Authority and to controlled fisheries):
+  (f) section 28A (as inserted by section 9 of the Fisheries Amendment Act 1986) (which relates to the Quota Appeal Authority):
+  (g) section 28CA (as inserted by section 5(1) of the Fisheries Amendment Act 1990) (which relates to the total allowable commercial catch for rock lobster):
+  (h) sections 28E, 28F, 28G, 28H, 28I, 28J, 28K, 28L, 28M, and 28N (as inserted by section 10 of the Fisheries Amendment Act 1986), section 28O except for subsections (4), (5), (6) and (7) (as inserted by section 10 of the Fisheries Amendment Act 1986 and section 14(1) of the Fisheries Amendment Act 1990), and section 28X (as inserted by section 68 of the Maori Fisheries Act 1989) (which sections relate to provisional maximum individual transferable quota):
+  (i) sections 28EA, 28FA, 28GA, 28HA, 28JA, 28KA, 28NA, and 28OA (as inserted by sections 51 to 59 of the Maori Fisheries Act 1989) and section 28OC (as inserted by section 15 of the Fisheries Amendment Act 1990) (which sections relate to provisional maximum transferable term quotas for rock lobster):
+  (j) sections 28OF, 28OG, and 28OI to 28OO (as inserted by section 15 of the Fisheries Amendment Act 1990) and section 28OH (as substituted by section 8 of the Fisheries Amendment Act 1991) (which sections relate to compensation for reductions in quota over a specified transitional period):
+  (k) section 28ZCA (as inserted by section 10 of the Fisheries Amendment Act (No 2) 1992) (which is a special provision in relation to quota balances):
+  (l) section 28ZGA (as inserted by section 3 of the Fisheries Amendment Act (No 3) 1992) (which limits the powers of the Quota Appeal Authority and of courts in certain cases):
   (m) Part 2A (as inserted by section 10 of the Fisheries Amendment Act 1986) and Schedule 1A (which provisions relate to commercial fishing on the quota management system):
-  (n) Sections 28ZM, 28ZZE, and 28ZZF (as inserted by section 13 of the Fisheries Amendment Act (No 2) 1992) (which sections relate to the scallop fishery):
+  (n) sections 28ZM, 28ZZE, and 28ZZF (as inserted by section 13 of the Fisheries Amendment Act (No 2) 1992) (which sections relate to the scallop fishery):
   (o) Part 2B (as so inserted) (which relates to the quota management system for the southern scallop fishery):
   (p) Part 3A (as inserted by section 74 of the Maori Fisheries Act 1989) (which relates to taiapure-local fisheries):
-  (q) Sections 55 to 61 (as substituted by section 13 of the Fisheries Amendment Act 1986), and sections 100, 101, 102, and 107A (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which sections relate to vessels used in fishing, and their registration):
-  (r) Sections 62 to 64 (as substituted by section 13 of the Fisheries Amendment Act 1986) (which relate to permits and special permits):
-  (s) Section 65 (as substituted by section 13 of the Fisheries Amendment Act 1986) and sections 84 to 87 (which sections relate to closed seasons, other restrictions, pollution, and research and development):
-  (t) Section 66 (as substituted by section 33(1) of the Fisheries Amendment Act 1990) and section 96 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which sections relate to records and returns and the supplying of particulars):
-  (u) Sections 67 and 67A (as substituted by section 13 of the Fisheries Amendment Act 1986) and section 97 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which sections relate to the disposal and acquisition of fish by commercial fishermen, and the buying, selling, or possession of fish):
-  (v) Section 67B (as substituted by section 13 of the Fisheries Amendment Act 1986), section 95 (as substituted by section 27(1) of the Fisheries Amendment Act 1986), and Part 6 (comprising sections 76 to 83) (which provisions relate generally to fishery officers and examiners):
-  (w) Sections 67C to 67G (as substituted by section 13 of the Fisheries Amendment Act 1986) and section 67H (as inserted by section 36 of the Fisheries Amendment Act 1990) (which sections relate generally to scientific observers):
+  (q) sections 55 to 61 (as substituted by section 13 of the Fisheries Amendment Act 1986), and sections 100, 101, 102, and 107A (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which sections relate to vessels used in fishing, and their registration):
+  (r) sections 62 to 64 (as substituted by section 13 of the Fisheries Amendment Act 1986) (which relate to permits and special permits):
+  (s) section 65 (as substituted by section 13 of the Fisheries Amendment Act 1986) and sections 84 to 87 (which sections relate to closed seasons, other restrictions, pollution, and research and development):
+  (t) section 66 (as substituted by section 33(1) of the Fisheries Amendment Act 1990) and section 96 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which sections relate to records and returns and the supplying of particulars):
+  (u) sections 67 and 67A (as substituted by section 13 of the Fisheries Amendment Act 1986) and section 97 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which sections relate to the disposal and acquisition of fish by commercial fishermen, and the buying, selling, or possession of fish):
+  (v) section 67B (as substituted by section 13 of the Fisheries Amendment Act 1986), section 95 (as substituted by section 27(1) of the Fisheries Amendment Act 1986), and Part 6 (comprising sections 76 to 83) (which provisions relate generally to fishery officers and examiners):
+  (w) sections 67C to 67G (as substituted by section 13 of the Fisheries Amendment Act 1986) and section 67H (as inserted by section 36 of the Fisheries Amendment Act 1990) (which sections relate generally to scientific observers):
   (x)
-  (y) Section 88 and section 105A (as inserted by section 50(1) of the Fisheries Amendment Act 1990) (which relate to the limitation of the Act in certain cases and to defences available under the Act):
-  (z) Section 88A (as inserted by section 41 of the Fisheries Amendment Act 1990) (which relates to the giving of notices):
-  (za) Sections 89 to 92 and section 92A (as inserted by section 26 of the Fisheries Amendment Act 1986) (which sections relate to regulations and notices having the status of regulations):
-  (zb) Section 93 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) and section 107 (as substituted by section 51 of the Fisheries Amendment Act 1990) (which sections are the general offence and general penalty provisions):
-  (zc) Section 98 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which specifies an offence relating to explosives, etc):
-  (zd) Section 98A (as inserted by section 45 of the Fisheries Amendment Act 1990) (which specifies an offence relating to the use of premises):
-  (ze) Section 99 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which deals with the ownership and possession of fish taken from a vessel):
-  (zf) Sections 103 and 103A (as inserted by section 49 of the Fisheries Amendment Act 1990) (which specify circumstances in which fish are deemed to have been acquired or possessed for purposes of sale):
-  (zg) Sections 104 and 107E (as substituted by section 27(1) of the Fisheries Amendment Act 1986), section 104A (as inserted by section 17 of the Fisheries Amendment Act (No 2) 1992), section 105 (as so substituted), and sections 105B to 106C (as inserted by section 51 of the Fisheries Amendment Act 1990) (which sections deal with various technical matters relating to proceedings under the Act):
-  (zh) Section 107B (as substituted by section 52(1) of the Fisheries Amendment Act 1990) (which relates to forfeiture of property and quota):
-  (zi) Section 107C (as so substituted) and section 107D (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which relate to the treatment of forfeited property or quota, and further forfeiture on subsequent offences):
-  (zj) Sections 107EA to 107EG (as inserted by section 3 of the Fisheries Amendment Act 1994) and sections 107I to 107L (as substituted by section 4 of that Act) (which sections relate to levies and their recovery):
-  (zk) Section 107EH (as inserted by section 5 of the Fisheries Amendment Act 1995) (which provides for the application of the Commodity Levies Act 1990) (but excluding any levy orders made in accordance with that section):
-  (zl) Sections 108 and 109 (as added by section 29 of the Fisheries Amendment Act 1986), and Schedules 2 and 3 (which deal with repeals, revocations, amendments, and savings):
+  (y) section 88 and section 105A (as inserted by section 50(1) of the Fisheries Amendment Act 1990) (which relate to the limitation of the Act in certain cases and to defences available under the Act):
+  (z) section 88A (as inserted by section 41 of the Fisheries Amendment Act 1990) (which relates to the giving of notices):
+  (za) sections 89 to 92 and section 92A (as inserted by section 26 of the Fisheries Amendment Act 1986) (which sections relate to regulations and notices having the status of regulations):
+  (zb) section 93 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) and section 107 (as substituted by section 51 of the Fisheries Amendment Act 1990) (which sections are the general offence and general penalty provisions):
+  (zc) section 98 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which specifies an offence relating to explosives, etc):
+  (zd) section 98A (as inserted by section 45 of the Fisheries Amendment Act 1990) (which specifies an offence relating to the use of premises):
+  (ze) section 99 (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which deals with the ownership and possession of fish taken from a vessel):
+  (zf) sections 103 and 103A (as inserted by section 49 of the Fisheries Amendment Act 1990) (which specify circumstances in which fish are deemed to have been acquired or possessed for purposes of sale):
+  (zg) sections 104 and 107E (as substituted by section 27(1) of the Fisheries Amendment Act 1986), section 104A (as inserted by section 17 of the Fisheries Amendment Act (No 2) 1992), section 105 (as so substituted), and sections 105B to 106C (as inserted by section 51 of the Fisheries Amendment Act 1990) (which sections deal with various technical matters relating to proceedings under the Act):
+  (zh) section 107B (as substituted by section 52(1) of the Fisheries Amendment Act 1990) (which relates to forfeiture of property and quota):
+  (zi) section 107C (as so substituted) and section 107D (as substituted by section 27(1) of the Fisheries Amendment Act 1986) (which relate to the treatment of forfeited property or quota, and further forfeiture on subsequent offences):
+  (zj) sections 107EA to 107EG (as inserted by section 3 of the Fisheries Amendment Act 1994) and sections 107I to 107L (as substituted by section 4 of that Act) (which sections relate to levies and their recovery):
+  (zk) section 107EH (as inserted by section 5 of the Fisheries Amendment Act 1995) (which provides for the application of the Commodity Levies Act 1990) (but excluding any levy orders made in accordance with that section):
+  (zl) sections 108 and 109 (as added by section 29 of the Fisheries Amendment Act 1986), and Schedules 2 and 3 (which deal with repeals, revocations, amendments, and savings):
   (zm) Schedule 1 to the Fisheries Act 1983 (which relates to fisheries management plans):
   (zn) Schedule 1D (as inserted by section 23 of the Fisheries Amendment Act (No 2) 1992) and Schedule 1DA (as inserted by section 6 of the Fisheries Amendment Act 1995) (which Schedules relate to the southern scallop fishery and to quota management areas and the total allowable commercial catch for paua):
   (zo) Schedule 1E (as inserted by section 5 of the Fisheries Amendment Act 1994 and substituted by the Fisheries (Crown Contribution) Order 1995) (which specifies fisheries costs to be borne by the Crown).
 (2) The following enactments are hereby consequentially repealed:
-  (a) Sections 10(2)(a), 11 to 26, 28(2), 28(3), 29, and 32A of the Territorial Sea and Exclusive Economic Zone Act 1977:
-  (b) The Territorial Sea and Exclusive Economic Zone Amendment Act 1980:
-  (c) The Territorial Sea and Exclusive Economic Zone Amendment Act 1985:
-  (d) So much of Schedule 2 to the Conservation Act 1987 as relates to the Fisheries Act 1983:
-  (e) The Fisheries Amendment Act 1986:
-  (f) So much of Part A of Schedule 1 to the State-Owned Enterprises Amendment Act 1987 as relates to the Fisheries Act 1983:
-  (g) So much of Schedule 1 to the Public Finance Act 1989 as relates to the Fisheries Act 1983:
+  (a) sections 10(2)(a), 11 to 26, 28(2), 28(3), 29, and 32A of the Territorial Sea and Exclusive Economic Zone Act 1977:
+  (b) the Territorial Sea and Exclusive Economic Zone Amendment Act 1980:
+  (c) the Territorial Sea and Exclusive Economic Zone Amendment Act 1985:
+  (d) so much of Schedule 2 to the Conservation Act 1987 as relates to the Fisheries Act 1983:
+  (e) the Fisheries Amendment Act 1986:
+  (f) so much of Part A of Schedule 1 to the State-Owned Enterprises Amendment Act 1987 as relates to the Fisheries Act 1983:
+  (g) so much of Schedule 1 to the Public Finance Act 1989 as relates to the Fisheries Act 1983:
   (h) Part 2 of the Maori Fisheries Act 1989:
   (i) Schedule 2 to the Maori Fisheries Act 1989:
-  (j) The Fisheries Amendment Act 1990:
+  (j) the Fisheries Amendment Act 1990:
   (k) Part 7 of the Conservation Law Reform Act 1990:
-  (l) The Fisheries Amendment Act (No 2) 1990:
-  (m) So much of Schedule 8 to the Resource Management Act 1991 as relates to the Fisheries Act 1983:
-  (n) The Fisheries Amendment Act 1991:
-  (o) The Fisheries Amendment Act (No 2) 1992:
-  (p) Sections 21 to 38 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992:
-  (q) The Fisheries Amendment Act (No 3) 1992:
-  (r) The Fisheries Amendment Act 1993:
-  (s) The Fisheries Amendment Act 1994:
-  (t) So much of Schedule 4 to the Maritime Transport Act 1994 as relates to the Territorial Sea and Exclusive Economic Zone Act 1977:
-  (u) The Fisheries Amendment Act (No 2) 1994:
-  (v) Section 13 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995:
-  (w) The Fisheries Amendment Act 1995.
+  (l) the Fisheries Amendment Act (No 2) 1990:
+  (m) so much of Schedule 8 to the Resource Management Act 1991 as relates to the Fisheries Act 1983:
+  (n) the Fisheries Amendment Act 1991:
+  (o) the Fisheries Amendment Act (No 2) 1992:
+  (p) sections 21 to 38 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992:
+  (q) the Fisheries Amendment Act (No 3) 1992:
+  (r) the Fisheries Amendment Act 1993:
+  (s) the Fisheries Amendment Act 1994:
+  (t) so much of Schedule 4 to the Maritime Transport Act 1994 as relates to the Territorial Sea and Exclusive Economic Zone Act 1977:
+  (u) the Fisheries Amendment Act (No 2) 1994:
+  (v) section 13 of the Ministry of Agriculture and Fisheries (Restructuring) Act 1995:
+  (w) the Fisheries Amendment Act 1995.
 (3) The Fisheries (Crown Contribution) Order 1995 (SR 1995/205) is hereby consequentially revoked.
 (4) Without limiting anything in the Acts Interpretation Act 1924, the repeal of any enactment by this section does not affect any amendment made to any enactment by any of the following enactments:
-  (a) Section 108(5) of the Fisheries Act 1983:
-  (b) Section 30 of the Fisheries Amendment Act 1986:
-  (c) Sections 57 and 58 of the Fisheries Amendment Act 1990:
-  (d) Section 31 of the Fisheries Amendment Act 1991:
+  (a) section 108(5) of the Fisheries Act 1983:
+  (b) section 30 of the Fisheries Amendment Act 1986:
+  (c) sections 57 and 58 of the Fisheries Amendment Act 1990:
+  (d) section 31 of the Fisheries Amendment Act 1991:
   (e) Part 2 of the Fisheries Amendment Act (No 2) 1992:
-  (f) Section 37 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
+  (f) section 37 of the Treaty of Waitangi (Fisheries Claims) Settlement Act 1992.
 
 ### 315 Change of name of Fishing Industry Board Act 1963
 [Repealed]
@@ -5468,18 +5451,18 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 
 ### 318 Amendments to Fisheries (Cost Recovery Levies) Order 1995
 (1) The Fisheries (Cost Recovery Levies) Order 1995 (SR 1995/280) is hereby amended—
-  (a) By omitting from clauses 3(1), 4, 5(1), 7, and 11 the words an annual wherever they occur, and substituting in each case the word monthly:
-  (b) By omitting from clauses 3(2) and 5(2) the word annual wherever it occurs, and substituting in each case the word monthly.
+  (a) by omitting from clauses 3(1), 4, 5(1), 7, and 11 the words an annual wherever they occur, and substituting in each case the word monthly:
+  (b) by omitting from clauses 3(2) and 5(2) the word annual wherever it occurs, and substituting in each case the word monthly.
 (2) The Fisheries (Cost Recovery Levies) Order 1995 is hereby amended by revoking clause 9, and substituting the following clause:Compliance audit levy
   There shall be payable to the Crown in respect of—an annual levy for each tonne or part of a tonne of quota at the appropriate rate according to the species or class of fish, aquatic life, or seaweed as specified in Part G of the Schedule to this order.
-    (a) Every guaranteed minimum individual transferable quota; and
-    (b) Every individual transferable quota; and
-    (c) Every guaranteed minimum transferable term quota; and
-    (d) Every transferable term quota—
+    (a) every guaranteed minimum individual transferable quota; and
+    (b) every individual transferable quota; and
+    (c) every guaranteed minimum transferable term quota; and
+    (d) every transferable term quota—
 (3) Clause 10 of the Fisheries (Cost Recovery Levies) Order 1995 is hereby amended by omitting the words the annual levy, and substituting the words , on the last day of every month during which that person owns the fishing vessel, the monthly.
 (4) The Fisheries (Cost Recovery Levies) Order 1995 is hereby amended—
-  (a) By revoking clause 11:
-  (b) By revoking the Schedule, and substituting the Schedule set out in Schedule 10 to this Act.
+  (a) by revoking clause 11:
+  (b) by revoking the Schedule, and substituting the Schedule set out in Schedule 10 to this Act.
 (5) Nothing in this section shall affect the liability of any person to pay the levies imposed by the Fisheries (Cost Recovery Levies) Order 1995 before its revocation.
 (6) The Fisheries (Cost Recovery Levies) Order 1995 may hereafter be amended as if the amendments effected by this section had been effected by regulation and not by this section.
 (7) Subsections (1) to (5) of this section shall be deemed to have come into force on the 1st day of December 1995.
@@ -5506,8 +5489,8 @@ For the purpose of this Act, the chief executive may from time to time, by notic
 ### 322 Relationship between offence provisions of Fisheries Act 1983 and this Act
 (1) If there is any inconsistency between any provision of the Fisheries Act 1983 or the Territorial Sea and Exclusive Economic Zone Act 1977 (whether the provision has effect by virtue only of this Act or otherwise) and any provision of this Act (in so far as the provisions of this Act are in force), the provision of this Act shall prevail to the extent of the inconsistency.
 (2) Until the repeal of sections 76 to 80, sections 81 to 83, and section 95 of the Fisheries Act 1983, the provisions of those sections shall—
-  (a) Continue to apply; and
-  (b) Apply in relation to the enforcement and administration of the provisions of this Act as if the provisions of this Act were provisions of the Fisheries Act 1983.
+  (a) continue to apply; and
+  (b) apply in relation to the enforcement and administration of the provisions of this Act as if the provisions of this Act were provisions of the Fisheries Act 1983.
 (3) On the commencement of Part 11 of this Act, that Part shall apply in relation to the provisions of the Fisheries Act 1983 as if those provisions were provisions of this Act.
 (4) Without limiting anything in the Acts Interpretation Act 1924, the provisions of the Fisheries Act 1983 shall, notwithstanding their repeal by section 314 of this Act, continue to apply to proceedings in respect of any offence against the Fisheries Act 1983 committed before the commencement of section 252 of this Act.
 (5) On the commencement of section 252 of this Act, sections 254 and 256 of this Act shall apply in respect of offences against the Fisheries Act 1983 that are committed on or after the commencement of that section 252, as if the offences against the Fisheries Act 1983 were offences against this Act, save that any person convicted of such an offence shall be liable to the penalty applicable to that offence on the date of the commission of that offence.
@@ -5530,25 +5513,25 @@ On the date of commencement of section 305 of this Act, all commodity levy order
 
 ### 328 Savings relating to licences, approvals, and authorisations
 Every licence, permit, approval, authority, notice, certificate, circular, direction, instrument, or other thing that—shall be deemed to be valid and to have been issued, granted, given, or otherwise made under the corresponding provision of this Act or of regulations made under this Act.
-  (a) Was issued, granted, given, or otherwise made under any provision of the Fisheries Act 1983, or any regulations made under that Act, that continues to apply by virtue of this Act; and
-  (b) Had effect or purported to have effect immediately before the commencement of this section—
+  (a) was issued, granted, given, or otherwise made under any provision of the Fisheries Act 1983, or any regulations made under that Act, that continues to apply by virtue of this Act; and
+  (b) had effect or purported to have effect immediately before the commencement of this section—
 
 ### 329 Validation of certain decisions relating to permits
 (1) Every decision and every purported decision of the Director-General of Agriculture and Fisheries—is hereby declared to be and always to have been valid.
-  (a) Made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under section 63 or any special permit under section 64 of the Fisheries Act 1983; and
-  (b) Made before the 1st day of October 1992—
+  (a) made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under section 63 or any special permit under section 64 of the Fisheries Act 1983; and
+  (b) made before the 1st day of October 1992—
 (2) Every decision and every purported decision of the chief executive (whether made by the chief executive or the Director-General of Agriculture and Fisheries)—is hereby declared to be and always to have been valid.
-  (a) Made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under section 63 or special permit under section 64 of the Fisheries Act 1983; and
-  (b) Made on or after the 1st day of October 1992 but before the commencement of this section—
+  (a) made in respect of the issue, variation, refusal, revocation, or cancellation of any fishing permit under section 63 or special permit under section 64 of the Fisheries Act 1983; and
+  (b) made on or after the 1st day of October 1992 but before the commencement of this section—
 (3) Subsection (1) of this section does not apply to a decision or purported decision referred to in that subsection if the decision or purported decision is being challenged in or is otherwise subject to any court proceedings commenced before the date of commencement of this section.
 (4) Subsection (2) of this section does not apply to a decision or purported decision referred to in that subsection if—
-  (a) The decision or purported decision is being challenged in or is otherwise subject to any court proceedings commenced before the date of commencement of this section; or
-  (b) The applicant for the permit which was the subject of a decision or purported decision referred to in that subsection—a notice requesting the chief executive to review that decision or purported decision.
-    (i) Has, before the commencement of this section, lodged with the chief executive; or
-    (ii) Within 12 months after the commencement of this section, lodges with the chief executive—
+  (a) the decision or purported decision is being challenged in or is otherwise subject to any court proceedings commenced before the date of commencement of this section; or
+  (b) the applicant for the permit which was the subject of a decision or purported decision referred to in that subsection—a notice requesting the chief executive to review that decision or purported decision.
+    (i) has, before the commencement of this section, lodged with the chief executive; or
+    (ii) within 12 months after the commencement of this section, lodges with the chief executive—
 (5) Notwithstanding anything in section 93 of this Act or in section 63(13) of the Fisheries Act 1983, if a person has been or is granted a special permit under section 64(1)(c) of that Act or section 97(1)(c) of this Act, being a special permit granted to rectify an administrative error, the following provisions shall apply:
-  (a) The chief executive may from time to time, but is not obliged to, issue to the person an appropriate fishing permit in place of the special permit:
-  (b) Upon the commencement of a fishing permit issued to any person under this subsection, the special permit held by that person shall be deemed to be revoked.
+  (a) the chief executive may from time to time, but is not obliged to, issue to the person an appropriate fishing permit in place of the special permit:
+  (b) upon the commencement of a fishing permit issued to any person under this subsection, the special permit held by that person shall be deemed to be revoked.
 
 ### 330 Certain fishing restrictions may affect quota management areas
 A provision of any regulation made under this Act, or of any notice made under section 15 or section 16 or under regulations made under section 186 of this Act, is not invalid merely because it conflicts with section 28B(5) of the Fisheries Act 1983.
@@ -5598,24 +5581,24 @@ A provision of any regulation made under this Act, or of any notice made under s
 
 ### 341 Confirmation of quota
 (1) On or before the commencement of Part 8 of this Act, the chief executive shall give written notice to—
-  (a) Each quota holder of all the details shown in respect of the holder in any register kept under section 28P of the Fisheries Act 1983, as at a date specified for the purpose in the notice; and
-  (b) Every person who has been allocated guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota under the Fisheries Act 1983 of the amount of the guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota held by that person as at a date specified in the notice; and
-  (c) The persons referred to in paragraph (a) or paragraph (b) of this subsection, of their right to apply to the chief executive, before a date specified by the chief executive in the notice for the purpose, for a review of the details notified to that person under that paragraph.
+  (a) each quota holder of all the details shown in respect of the holder in any register kept under section 28P of the Fisheries Act 1983, as at a date specified for the purpose in the notice; and
+  (b) every person who has been allocated guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota under the Fisheries Act 1983 of the amount of the guaranteed minimum individual transferable quota or guaranteed minimum transferable term quota held by that person as at a date specified in the notice; and
+  (c) the persons referred to in paragraph (a) or paragraph (b) of this subsection, of their right to apply to the chief executive, before a date specified by the chief executive in the notice for the purpose, for a review of the details notified to that person under that paragraph.
 (2) Where a person applies to the chief executive for a review of the details notified to that person under subsection (1) of this section, in accordance with the notice referred to in paragraph (c) of that subsection, the chief executive shall review those details as soon as reasonably practicable and confirm or modify the details.
 (3) If a person has been notified under subsection (1) of this section of details referred to in that section, but does not seek a review of those details before the close of the date specified in the notice for the purposes of the review, the details notified to the person shall, as from the date specified in the notice under subsection (1)(a) of this section, be deemed to be correct.
 (4) For the purposes of subsection (1) of this section, the chief executive may notify details to the same person on one or more occasions and may state details as shown on the relevant register at different dates, but,—then the details which formed the subject of the relevant notification under subsection (1) of this section—
-  (a) If those details are deemed under subsection (3) of this section to be correct; or
-  (b) If the person applies for a review of those details in accordance with this section and the chief executive confirms those details,—
-  (c) Shall not be reviewed under that subsection to the extent that the details relate to any period before the date specified in the notice under subsection (1)(a) of this section; and
-  (d) Shall not be the subject of any review under the Fisheries (Catch Against Quota) Regulations 1993.
+  (a) if those details are deemed under subsection (3) of this section to be correct; or
+  (b) if the person applies for a review of those details in accordance with this section and the chief executive confirms those details,—
+  (c) shall not be reviewed under that subsection to the extent that the details relate to any period before the date specified in the notice under subsection (1)(a) of this section; and
+  (d) shall not be the subject of any review under the Fisheries (Catch Against Quota) Regulations 1993.
 (5) On and from a date to be notified by the chief executive by notice in the Gazette, the chief executive shall refuse to receive for registration—
-  (a) Any notifications of the transfer or lease of quota (other than a lease of quota for the purposes of section 28ZF or section 28ZG or section 105A(2) of the Fisheries Act 1983, expressed to take effect in the fishing year in which the notice is published, for those stocks in respect of which the the fishing year begins on 1 October); and
-  (b) Documents relating to such transactions or leases.
+  (a) any notifications of the transfer or lease of quota (other than a lease of quota for the purposes of section 28ZF or section 28ZG or section 105A(2) of the Fisheries Act 1983, expressed to take effect in the fishing year in which the notice is published, for those stocks in respect of which the the fishing year begins on 1 October); and
+  (b) documents relating to such transactions or leases.
 (5A) The chief executive must also refuse to receive for registration (whether before or after the date notified under subsection (5)) any notification of the transfer or lease of quota, and any related document, if the transfer, or lease, or related document is expressed to take effect on or after 1 October in the year in which Part 8 comes into force.
 (6) After the date notified in the Gazette under subsection (5) of this section, the chief executive may make such entries in the relevant register kept under section 28P of the Fisheries Act 1983 and do such other things as may be necessary for the purposes of—
-  (a) Giving effect to any decision under subsection (2) of this section relating to any detail referred to in subsection (1)(a) of this section; or
-  (b) Giving effect to any translation of guaranteed maximum individual transferable quota or guaranteed maximum transferable term quota into individual transferable quota under section 342 of this Act; or
-  (c) Registering any transaction received by the chief executive before the date notified in the Gazette under subsection (5) of this section.
+  (a) giving effect to any decision under subsection (2) of this section relating to any detail referred to in subsection (1)(a) of this section; or
+  (b) giving effect to any translation of guaranteed maximum individual transferable quota or guaranteed maximum transferable term quota into individual transferable quota under section 342 of this Act; or
+  (c) registering any transaction received by the chief executive before the date notified in the Gazette under subsection (5) of this section.
 (7) Notwithstanding anything in this section, if in any year, on or after a date to be notified by the chief executive by notice in the Gazette, the chief executive receives any transfers of annual catch entitlements which are expressed to take effect on the 1st day of October in that year, the chief executive shall forward those transfers to the relevant Registrar of Annual Catch Entitlements on the 1st day of October in that year, in the order in which they were received, as if those transfers were forward transfers under section 133 of this Act.
 (8) No notice referred to in subsection (7) of this section shall be made before the date of the making of the Order in Council bringing section 66 of this Act into effect.
 (9) Notwithstanding anything in the Fisheries Act 1983 or this Act, no transaction or lease referred to in subsection (5)(a) of this section that was entered into at any time after the date specified by notice in the Gazette under subsection (5) of this section shall have any effect under this Act.
@@ -5631,23 +5614,23 @@ A provision of any regulation made under this Act, or of any notice made under s
 
 ### 345 Transitional register
 (1) For the purposes of this Part of this Act, notwithstanding the repeal of Part 2A of the Fisheries Act 1983 by section 314 of this Act, the register established under section 28P of that Act shall continue to have effect in respect of—
-  (a) Transfers of individual transferable quota that take effect on or after the 1st day of October in the year in which Part 8 of this Act comes into force and are notified to the chief executive before the date notified in the Gazette under section 341(5) of this Act; and
-  (b) Every lease of individual transferable quota that begins or ends on or after that 1st day of October in the year in which Part 8 of this Act comes into force and is notified to the chief executive before the date notified in the Gazette under section 341(5) of this Act.
+  (a) transfers of individual transferable quota that take effect on or after the 1st day of October in the year in which Part 8 of this Act comes into force and are notified to the chief executive before the date notified in the Gazette under section 341(5) of this Act; and
+  (b) every lease of individual transferable quota that begins or ends on or after that 1st day of October in the year in which Part 8 of this Act comes into force and is notified to the chief executive before the date notified in the Gazette under section 341(5) of this Act.
 (2) The register established under section 28P of the Fisheries Act 1983 shall hereafter be known as the Transitional Register of Leases and Forward Transfers of Quota (or the Transitional Register).
 (3) Any party to any lease recorded in the Transitional Register of Leases and Forward Transfers of Quota may, with the consent of the other parties to that lease, reduce the term of that lease.
 (4) A lease recorded in the Transitional Register, or any rights, interests, or obligations in respect of that lease, cannot be assigned.
 (5) A reduction of term under subsection (3) has no effect until it is registered by the chief executive on the Transitional Register.
 (6) A reduction of term under subsection (3) must not be registered on the Transitional Register unless a party to the lease applies in the approved form (if any) to the chief executive and the application is accompanied by the prescribed fee (if any).
 (7) In the case of any transfer or lease registered on the Transitional Register,—
-  (a) If the total allowable commercial catch for the stock concerned is reduced under section 20 of this Act, the amount of quota to which the transfer or lease relates shall be reduced in the same proportion as the reduction in the total allowable commercial catch for the stock bears to the total allowable catch for the stock immediately before the reduction; but
-  (b) No transferee or lessee of the individual transferable quota for the stock that is subject to the transfer or lease is entitled to any additional individual transferable quota or annual catch entitlements under this Act merely because the total allowable commercial catch for that stock has been increased under section 20 of this Act.
+  (a) if the total allowable commercial catch for the stock concerned is reduced under section 20 of this Act, the amount of quota to which the transfer or lease relates shall be reduced in the same proportion as the reduction in the total allowable commercial catch for the stock bears to the total allowable catch for the stock immediately before the reduction; but
+  (b) no transferee or lessee of the individual transferable quota for the stock that is subject to the transfer or lease is entitled to any additional individual transferable quota or annual catch entitlements under this Act merely because the total allowable commercial catch for that stock has been increased under section 20 of this Act.
 (7A) A transfer or lease registered on the Transitional Register is cancelled if—
   (a) the total allowable commercial catch for the stock concerned is reduced to zero under section 20; or
   (b) the quota for the stock concerned is cancelled because of an alteration of a quota management area under section 25.
 (7B) The chief executive must notify the parties to a transfer or lease registered on the Transitional Register if the lease or transfer is cancelled under this Part.
 (8) If—the amount of quota or annual catch entitlement which that other person is entitled to acquire, as recorded on that register, shall be reduced in the same proportion that the deduction of quota shares of the holder of the quota bears to the total quota shares of the holder immediately before the deduction.
-  (a) Any determination of an appeal under section 336 of this Act necessitates a deduction of quota shares from any person in accordance with subsection (1)(d) of that section; and
-  (b) That person has entered into any lease or any other arrangement in relation to quota that is recorded on the Transitional Register whereby any other person is or may become entitled to acquire from that person any amount of quota shares under section 348 of this Act or annual catch entitlement under section 347 of this Act,—
+  (a) any determination of an appeal under section 336 of this Act necessitates a deduction of quota shares from any person in accordance with subsection (1)(d) of that section; and
+  (b) that person has entered into any lease or any other arrangement in relation to quota that is recorded on the Transitional Register whereby any other person is or may become entitled to acquire from that person any amount of quota shares under section 348 of this Act or annual catch entitlement under section 347 of this Act,—
 (8A) The amount of quota or annual catch entitlement to which a lease or other arrangement relates must be reduced in the same proportion as the reduction in the quota holder's quota bears to the total quota shares of the holder immediately before the reduction.
 (8B) Subsection (8A) applies if—
   (a) a quota holder's quota is reduced under section 52; and
@@ -5660,13 +5643,13 @@ A provision of any regulation made under this Act, or of any notice made under s
 
 ### 347 Provisions relating to registration of leases
 (1) If any lease recorded in the Transitional Register of Leases and Forward Transfers of Quota under this Act has a commencement date that is on or after the commencement of Part 8 of this Act, the chief executive shall direct the Registrar of Annual Catch Entitlement to transfer from the lessor to the lessee under that lease,—
-  (a) On the commencement date of the lease, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota for the stock that is subject to the lease as recorded in the Transitional Register; and
-  (b) If the lease is still in force, on the 1st day of the fishing year following the fishing year in which the lease commenced, and on the 1st day of every subsequent fishing year while the lease remains in force, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota for the stock that is subject to the lease as recorded in the Transitional Register.
+  (a) on the commencement date of the lease, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota for the stock that is subject to the lease as recorded in the Transitional Register; and
+  (b) if the lease is still in force, on the 1st day of the fishing year following the fishing year in which the lease commenced, and on the 1st day of every subsequent fishing year while the lease remains in force, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota for the stock that is subject to the lease as recorded in the Transitional Register.
 (2) If any lease recorded in the Transitional Register under this Act—the chief executive shall direct the Registrar of Annual Catch Entitlement to transfer, subject to section 67 of this Act, from the lessor to the lessee under that lease,—
-  (a) Has a commencement date that is before the 1st day of October in the year in which Part 8 of this Act comes into force; and
-  (b) Has a termination date that is on or after that 1st day of October,—
-  (c) On that 1st day of October, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota that is subject to the lease (as recorded in the Transitional Register); and
-  (d) If the lease is still in force, on the 1st day of the fishing year following that 1st day of October, and on the 1st day of every subsequent fishing year while the lease remains in force, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota that is subject to the lease (as recorded in the Transitional Register).
+  (a) has a commencement date that is before the 1st day of October in the year in which Part 8 of this Act comes into force; and
+  (b) has a termination date that is on or after that 1st day of October,—
+  (c) on that 1st day of October, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota that is subject to the lease (as recorded in the Transitional Register); and
+  (d) if the lease is still in force, on the 1st day of the fishing year following that 1st day of October, and on the 1st day of every subsequent fishing year while the lease remains in force, an amount of annual catch entitlement equivalent to the amount of the individual transferable quota that is subject to the lease (as recorded in the Transitional Register).
 (3) The chief executive must cancel registration of the lease and any sublease and not transfer any annual catch entitlement if—
   (a) the lessor does not own an amount of annual catch entitlement equal to, or in excess of, the amount of quota that is subject to the lease or sublease (as recorded in the Transitional Register); or
   (b) a caveat is registered over an amount of the lessor's annual catch entitlement preventing the transfer of an amount of annual catch entitlement equal to, or in excess of, the amount of quota that is subject to the lease or sublease (as recorded in the Transitional Register).
@@ -5681,7 +5664,7 @@ A provision of any regulation made under this Act, or of any notice made under s
 (1) All forward transfers of quota recorded on the Transitional Register of Leases and Forward Transfers of Quota shall, for the purposes of section 132 of this Act, be regarded as having been presented for registration on the day on which they are intended to take effect, and, for the purposes of section 158 of this Act, shall be actioned in the order in which they were notified to the Ministry under section 28Q of the Fisheries Act 1983 and, except as otherwise provided in subsection (2) of this section, the chief executive shall action those transactions before any other quota transactions presented for registration on the day the forward transfer is intended to take effect.
 (2) If the forward transfer of quota is intended to take effect at the beginning of a fishing year, the chief executive shall, for the purposes of section 64 of this Act, action the transaction after any variations of the total allowable commercial catch are actioned but before the generation of annual catch entitlements is actioned.
 (3) If insufficient unsecured quota for the relevant stock is available to cover the forward transfer, or the application fails to comply with section 132 of this Act, the application shall be regarded as a defective application and shall have no effect under this Act.
-(4) For the purposes of this section, the number of quota shares to be transferred under this section shall be calculated in accordance with the following formula: (a / b) x 100,000,000 = c where—
+(4) For the purposes of this section, the number of quota shares to be transferred under this section shall be calculated in accordance with the following formula:(a ÷ b) × 100,000,000 = cwhere—
   (a) is the amount of individual transferable quota (expressed in kilogrammes) for the stock subject to the transfer (as shown in the Transitional Register); and
   (b) is the total allowable commercial catch for the stock (expressed in kilogrammes); and
   (c) is the number of quota shares for the stock that are the subject of the transfer.
@@ -5740,16 +5723,16 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 ### 363 Allocation of quota
 (1) Subject to this Act, sections 30, 31, 32, 33, 34, 35, 36, 37, 39, 40, 41, 44, 45, 46, 47, 48, 49, 50A to 50G, 51, 52, 53, 54, and 55 and sections 283 to 296 of this Act shall apply to the allocation of quota declared by notice in the Gazette under section 28B of the Fisheries Act 1983 to be subject to the quota management system under Part 2A of that Act on and from a date specified in the notice, being a date on or after the 1st day of October 1996.
 (2) For the purposes of this section,—
-  (a) Any reference in the sections referred to in subsection (1) of this section to a notice made under section 18 of this Act shall be read as a reference to the notice under section 28B of the Fisheries Act 1983:
+  (a) any reference in the sections referred to in subsection (1) of this section to a notice made under section 18 of this Act shall be read as a reference to the notice under section 28B of the Fisheries Act 1983:
   (b)
-  (c) Any reference in the sections referred to in subsection (1) of this section to quota shares shall be read as referring to individual transferable quota, provisional individual transferable quota, or both, as the case may be:
-  (d) Any reference in the sections referred to in subsection (1) of this section to the Registrar of Quota shall be read as a reference to the chief executive, and every reference to the Register of Quota shall be read as a reference to the registers maintained under section 28P of the Fisheries Act 1983, in each case until Part 8 of this Act comes into force:
-  (e) The references in sections 35(6) and 39(2) of this Act to the quota weight equivalent of 80,000,000 shares shall be read as references to 80 percent of the total allowable commercial catch:
-  (f) The reference in section 44(1) of this Act to 20,000,000 shares of individual transferable quota shall be read as a reference to an amount of individual transferable quota equivalent to 20 percent of the total allowable commercial catch:
-  (fa) The reference in section 44(3)(a) to 80 000 000 quota shares must be read as a reference to an amount of quota equivalent to 80% of the total allowable commercial catch:
-  (g) The reference in section 46 of this Act to levies payable under Part 14 or to deemed value amounts shall be read as references to levies payable under the Fisheries Act 1983 and to deemed values demanded under section 28ZD of the Fisheries Act 1983, respectively, until the commencement of Part 14 or Part 4 of this Act, as the case may be:
-  (h) Section 47(1)(a) of this Act shall be read as if the words The number of shares the quota weight equivalent of were omitted, and there were substituted the words An amount of individual transferable quota:
-  (i) Section 47(1)(b) of this Act shall be read as if the words The number of shares that bears the same proportion to the 80,000,000 shares of quota were omitted, and there were substituted the words An amount of individual transferable quota that bears the same proportion to the 80 percent of the total allowable commercial catch.
+  (c) any reference in the sections referred to in subsection (1) of this section to quota shares shall be read as referring to individual transferable quota, provisional individual transferable quota, or both, as the case may be:
+  (d) any reference in the sections referred to in subsection (1) of this section to the Registrar of Quota shall be read as a reference to the chief executive, and every reference to the Register of Quota shall be read as a reference to the registers maintained under section 28P of the Fisheries Act 1983, in each case until Part 8 of this Act comes into force:
+  (e) the references in sections 35(6) and 39(2) of this Act to the quota weight equivalent of 80,000,000 shares shall be read as references to 80 percent of the total allowable commercial catch:
+  (f) the reference in section 44(1) of this Act to 20,000,000 shares of individual transferable quota shall be read as a reference to an amount of individual transferable quota equivalent to 20 percent of the total allowable commercial catch:
+  (fa) the reference in section 44(3)(a) to 80 000 000 quota shares must be read as a reference to an amount of quota equivalent to 80% of the total allowable commercial catch:
+  (g) the reference in section 46 of this Act to levies payable under Part 14 or to deemed value amounts shall be read as references to levies payable under the Fisheries Act 1983 and to deemed values demanded under section 28ZD of the Fisheries Act 1983, respectively, until the commencement of Part 14 or Part 4 of this Act, as the case may be:
+  (h) section 47(1)(a) of this Act shall be read as if the words The number of shares the quota weight equivalent of were omitted, and there were substituted the words An amount of individual transferable quota:
+  (i) section 47(1)(b) of this Act shall be read as if the words The number of shares that bears the same proportion to the 80,000,000 shares of quota were omitted, and there were substituted the words An amount of individual transferable quota that bears the same proportion to the 80 percent of the total allowable commercial catch.
   (j) section 50B(2)(b)(i) must be read as if the words the number of shares the quota weight equivalent of were omitted, and there were substituted the words an amount of quota:
   (k) the reference in section 50B(2)(b)(ii) to 100 000 000 quota shares must be read as a reference to an amount of quota equivalent to 100% of the total allowable commercial catch:
   (l) the reference in section 50D(2)(a) to a rate per quota share must be read as a reference to a rate per tonne:
@@ -5762,10 +5745,10 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
   (s) the reference in paragraph (a) of the definition of encumbered in section 2(1)—
     (i) to forfeiture under this Act must be read as if it were a reference to forfeiture under section 107B of the Fisheries Act 1983:
     (ii) to the period of 35 working days referred to in section 62(3) or section 256(3) of this Act must be read as a reference to the 30-day period referred to in section 107C of the Fisheries Act 1983.
-(3) The chief executive shall not notify any person of the matters specified in paragraphs (c) and (d) of section 48 of this Act, but instead shall notify each person of the amount of individual transferable quota or provisional individual transferable quota allocated to that person, as the case may be.
+(3) The chief executive shall not notify any person of the matters specified in paragraphs (c) and (d) of section 48of this Act, but instead shall notify each person of the amount of individual transferable quota or provisional individual transferable quota allocated to that person, as the case may be.
 (4) Despite section 53(1), in relation to every person to whom this section applies and is entitled to receive a transfer of individual transferable quota under section 52, the chief executive must—
-  (a) Calculate the percentage of the total allowable commercial catch the person would have received under section 47 if he or she (and all other persons whose provisional catch history has since been altered) had owned the revised amount of provisional catch history on the date on which quota was allocated for that stock under section 47; and
-  (b) Allocate the quota weight equivalent of the percentage calculated under paragraph (a) based on the total allowable commercial catch notified for that stock at the close of the last day of the fishing year in which section 52 applies.
+  (a) calculate the percentage of the total allowable commercial catch the person would have received under section 47 if he or she (and all other persons whose provisional catch history has since been altered) had owned the revised amount of provisional catch history on the date on which quota was allocated for that stock under section 47; and
+  (b) allocate the quota weight equivalent of the percentage calculated under paragraph (a) based on the total allowable commercial catch notified for that stock at the close of the last day of the fishing year in which section 52 applies.
 
 ### 364 Further provisions relating to allocation of quota
 (1) Any provisional individual transferable quota allocated under this Act while Part 2A of the Fisheries Act 1983 is in force has all the characteristics of, and is to be treated for all purposes of that Act as if it were, individual transferable quota except that it is not transferable.
@@ -5801,8 +5784,8 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) of this section may be altered from time to time under section 20 of this Act or section 28OB of the Fisheries Act 1983.
 (5) No person shall take any Nelson-Marlborough dredge oysters for the purpose of sale except during the Nelson-Marlborough dredge oyster season.
 (6) The Minister may, by notice in the Gazette,—
-  (a) Specify any Nelson-Marlborough dredge oyster season before the season commences; and
-  (b) Extend or shorten any Nelson-Marlborough dredge oyster season while it is current.
+  (a) specify any Nelson-Marlborough dredge oyster season before the season commences; and
+  (b) extend or shorten any Nelson-Marlborough dredge oyster season while it is current.
 
 ### 368A Foveaux Strait dredge oyster fishery subject to quota system
 (1) On 1 April 1998, Foveaux Strait dredge oysters become subject to the quota management system under Part 2A of the Fisheries Act 1983.
@@ -5810,19 +5793,19 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 (3) The initial total allowable catch for the Foveaux Strait dredge oyster fishery is 26 000 000 oysters.
 (4) The initial total allowable commercial catch for the fishery is 14 950 000 oysters.
 (5) The Minister may, by notice in the Gazette,—
-  (a) Specify any Foveaux Strait dredge oyster season before the season commences:
-  (b) Extend or shorten any Foveaux Strait dredge oyster season while it is current.
+  (a) specify any Foveaux Strait dredge oyster season before the season commences:
+  (b) extend or shorten any Foveaux Strait dredge oyster season while it is current.
 (6) Notwithstanding anything in section 13 or section 20 of this Act or section 28OB of the Fisheries Act 1983,—
-  (a) The Minister may, at any time after the commencement of a fishing year but before the commencement of the Foveaux Strait dredge oyster season in that year, increase the total allowable catch or the total allowable commercial catch (or both) for Foveaux Strait dredge oysters; and
-  (b) Where the Minister does so, the increased total allowable catch or total allowable commercial catch has effect on and from the first day of that Foveaux Strait dredge oyster season.
+  (a) the Minister may, at any time after the commencement of a fishing year but before the commencement of the Foveaux Strait dredge oyster season in that year, increase the total allowable catch or the total allowable commercial catch (or both) for Foveaux Strait dredge oysters; and
+  (b) where the Minister does so, the increased total allowable catch or total allowable commercial catch has effect on and from the first day of that Foveaux Strait dredge oyster season.
 (7) The fishing year ending immediately before 1 October 1998 is deemed to be the period 1 April 1998 to 30 September 1998 (both dates inclusive).
 (8) The Minister may, by notice in the Gazette, prohibit the taking of Foveaux Strait dredge oysters from any specified area.
 (9) Every person commits an offence and is liable to the penalty set out in section 252(5) who, for the purpose of sale,—
-  (a) Takes any Foveaux Strait dredge oyster at any time other than during the Foveaux Strait dredge oyster season; or
-  (b) Takes any Foveaux Strait dredge oyster from any prohibited area specified in a notice under subsection (8).
+  (a) takes any Foveaux Strait dredge oyster at any time other than during the Foveaux Strait dredge oyster season; or
+  (b) takes any Foveaux Strait dredge oyster from any prohibited area specified in a notice under subsection (8).
 (10) For the purposes of the application of this Act in relation to the Foveaux Strait dredge oyster fishery,—
-  (a) The references to kilogrammes in this Act must be read as references to oyster numbers; and
-  (b) The references to greenweight or meatweight in section 305(a)(iii) must be read as references to oyster numbers.
+  (a) the references to kilogrammes in this Act must be read as references to oyster numbers; and
+  (b) the references to greenweight or meatweight in section 305(a)(iii) must be read as references to oyster numbers.
 (11) Notwithstanding anything in this Act or in any regulations made under this Act or under the Fisheries Act 1983, where any such regulations or any records, returns, or other documents prescribed by or referred to in such regulations contain a weight-related reference or requirement the chief executive may, by notice in the Gazette or by individual written notice to any affected fisher or other person affected, specify that any such reference or requirement is to be treated in any specified situation or for any specified purpose (and requiring the application, if appropriate, of any conversion factor specified under section 188(5) of this Act or section 3A(6) of the Fisheries Act 1983) as a reference to oyster numbers in the case of matters affecting the Foveaux Strait dredge oyster fishery, and the regulations, records, returns, or other documents are to have effect accordingly.
 (12) In this section the term Foveaux Strait dredge oyster season means a season fixed by the Minister under subsection (5).
 
@@ -5833,8 +5816,8 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 (4) For the avoidance of doubt, the initial total allowable commercial catch referred to in subsection (3) of this section may be altered from time to time under section 20 of this Act or section 28OB of the Fisheries Act 1983.
 (5) No person shall take any Northland scallops for the purpose of sale except during the Northland scallop fishery season.
 (6) The Minister may, by notice in the Gazette,—
-  (a) Specify any Northland scallop fishery season before the season commences; and
-  (b) Extend or shorten any Northland scallop fishery season while it is current.
+  (a) specify any Northland scallop fishery season before the season commences; and
+  (b) extend or shorten any Northland scallop fishery season while it is current.
 (7) Every person commits an offence and is liable to the penalty specified in section 252(5) who contravenes subsection (5) of this section.
 
 ### 369A Pale ghost shark subject to quota management system
@@ -5847,9 +5830,9 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 ### 369B Southern blue whiting subject to quota management system
 (1) On 1 November 1999, southern blue whiting in Fishery Management Area 6 becomes subject to the quota management system under Part 2A of the Fisheries Act 1983.
 (2) The Fisheries (Declaration of New Stock Subject to Quota Management System) Notice 1997 (SR 1997/279) is consequentially amended—
-  (a) By revoking clause 2(c):
-  (b) By inserting in clause 3(2), after the words Southern blue whiting, the words in any of quota management areas 1, 2, 3, 4, 5, 7, 8, 9, and 10:
-  (c) By revoking so much of the Schedule as relates to southern blue whiting in quota management areas 6B, 6I, and 6P.
+  (a) by revoking clause 2(c):
+  (b) by inserting in clause 3(2), after the words Southern blue whiting, the words in any of quota management areas 1, 2, 3, 4, 5, 7, 8, 9, and 10:
+  (c) by revoking so much of the Schedule as relates to southern blue whiting in quota management areas 6B, 6I, and 6P.
 
 ### 369C Allocation of quota for southern blue whiting in quota management areas SBW6A, SBW6B, SBW6I, and SBW6R
 (1) Each person named in column 1 of Part 9 of Schedule 9 is allocated the amount of individual transferable quota for southern blue whiting set out in column 3 of that schedule opposite that person's name, and those allocations apply to southern blue whiting in quota management area SBW6A.
@@ -5865,8 +5848,8 @@ Every consent granted under section 28W(3) of the Fisheries Act 1983 and in forc
 
 ### 369E Southern blue whiting taken from 1 April 1999 to 31 October 1999
 If a commercial fisher has quota allocated to the fisher under section 369C, any southern blue whiting taken by the commercial fisher in any of quota management areas SBW6A, SBW6B, SBW6I, and SBW6R, during the period commencing on 1 April 1999 and ending with the close of 31 October 1999, is deemed to have been taken under the quota for the quota management area in which it was taken for the purposes of—
-  (a) Sections 28ZA, 28ZD, and 28ZF of the Fisheries Act 1983; and
-  (b) The Fisheries (Catch Against Quota) Regulations 1993.
+  (a) sections 28ZA, 28ZD, and 28ZF of the Fisheries Act 1983; and
+  (b) the Fisheries (Catch Against Quota) Regulations 1993.
 
 ### 369F Initial total allowable commercial catch and total allowable catch for southern blue whiting in quota management areas SBW6A, SBW6B, SBW6I, and SBW6R
 (1) The initial total allowable commercial catch and total allowable catch, respectively, for southern blue whiting in quota management area SBW6A are each 1640 tonnes.
@@ -5874,8 +5857,8 @@ If a commercial fisher has quota allocated to the fisher under section 369C, any
 (3) The initial total allowable commercial catch and total allowable catch, respectively, for southern blue whiting in quota management area SBW6I are each 35 460 tonnes.
 (4) The initial total allowable commercial catch and total allowable catch, respectively, for southern blue whiting in quota management area SBW6R are each 5500 tonnes.
 (5) The following provisions are for the avoidance of doubt:
-  (a) Any initial total allowable commercial catch referred to in this section may be altered from time to time under section 20 of this Act or section 28OB of the Fisheries Act 1983:
-  (b) Any initial total allowable catch referred to in this section may be altered from time to time under section 13 of this Act.
+  (a) any initial total allowable commercial catch referred to in this section may be altered from time to time under section 20 of this Act or section 28OB of the Fisheries Act 1983:
+  (b) any initial total allowable catch referred to in this section may be altered from time to time under section 13 of this Act.
 
 ### 369G Transitional provision relating to Chatham Islands fishers
 [Repealed]
@@ -5901,14 +5884,7 @@ If a commercial fisher has quota allocated to the fisher under section 369C, any
 (2) No order under subsection (1) may—
   (a) provide for the proposed new fishing year to start before 1 February 2002; or
   (b) be made during the period of 4 months immediately preceding the start of the proposed new fishing year.
-(3) Without limiting the generality of section 297, the Governor-General may, by Order in Council, make regulations under that section prescribing transitional provisions relating to the change in fishing year under subsection (1), which may be in addition to or in place of any of the provisions of Part 4 or Part 8; and, without limiting the generality of the preceding power, the regulations may—
-  (a) specify matters to be notified to quota owners in quota management area ANG13:
-  (b) set out rules relating to the generation and allocation of annual catch entitlement to quota owners:
-  (c) set out rules relating to the conversion of provisional individual transferable quota to individual transferable quota:
-  (d) set out rules by which catch may be counted against annual catch entitlement:
-  (e) specify reporting obligations of commercial fishers:
-  (f) set out functions, duties, and powers of the chief executive in relation to the application of the regulations:
-  (g) provide for other matters necessary to manage the transitional period between fishing years.
+(3)
 
 ### 369M Expiry of section 369L(3)
 Section 369L(3) expires with the close of 31 January 2007.
@@ -5986,10 +5962,10 @@ Section 369L(3) expires with the close of 31 January 2007.
 ### 370 Transitional provision relating to performance of functions by outside agencies
 (1) Subject to subsection (2) of this section, for the purposes of section 294 of this Act, powers, duties, and functions conferred by or under the Fisheries Act 1983 on persons other than the chief executive shall be deemed to be powers, duties, and functions of the chief executive.
 (2) Subsection (1) of this section does not apply to powers, duties, and functions of—
-  (a) The Governor-General; or
-  (b) The Minister; or
-  (c) A fishery officer; or
-  (d) The Fisheries Authority.
+  (a) the Governor-General; or
+  (b) the Minister; or
+  (c) a fishery officer; or
+  (d) the Fisheries Authority.
 
 ## Schedule 1A — Agreement for the implementation of the provisions of the United Nations Convention on the Law of the Sea of 10 December 1982 relating to the conservation and management of straddling fish stocks and highly migratory fish stocks
 
@@ -6426,12 +6402,9 @@ All positions and directions described in this Schedule are based on a geographi
 
 ## Schedule 2 — Stocks whose abundance is highly variable
 
-| Chatham Island scallops (Pecten novaezelandiae) |  |
-| --- | --- |
-| Coromandel scallops (Pecten novaezelandiae) |  |
 | Flatfishes (Rhombosolea plebeia; Pelotretis flavilatus; Peltorhamphus novaezeelandiae; Rhombosolea leporina; Colistium guntheri; Colistium nudipinnis; Rhombosolea retiaria; Rhombosolea tapirina) | All quota management areas |
+| --- | --- |
 | Freshwater eel | ANG13 |
-| Northland scallops (Pecten novaezelandiae) |  |
 | Red cod (Pseudphycis) | All quota management areas |
 | Scallop (Pecten novaezelandiae) | All quota management areas other than SCA7 |
 
@@ -6557,94 +6530,45 @@ All positions and directions described in this Schedule are based on a geographi
 
 ## Schedule 6 — Stocks which may be returned to the sea or other waters in accordance with stated requirements
 
-| Stock | Area | Requirements |  |
-| --- | --- | --- | --- |
-| Blue shark (Prionace glauca) | All New Zealand fisheries waters | A commercial fisher may return any blue shark to the waters from which it was taken if— |  |
-|  |  |  | (a) that blue shark is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the blue shark is taken. |
-| Chatham Islands scallops (Pecten novaezelandiae) | Chatham Islands scallop fishery | A commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken— |  |
-|  |  |  | (a) during any closed season in the Chatham Islands scallop fishery; or |
-|  |  |  | (b) in any area in which the taking of Chatham Islands scallops is, at that time, prohibited. |
-| Cockle (Austrovenus stutchburyi) | All New Zealand fisheries waters except fisheries management area 10 |  | A commercial fisher may return any cockle to the waters from which it is taken if— |
-|  |  |  | (a) the cockle is likely to survive the return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the cockle is taken. |
-| Coromandel scallops (Pecten novaezelandiae) | Coromandel scallop fishery | A commercial fisher must immediately return a Coromandel scallop to the waters from which it was taken if the scallop is taken— |  |
-|  |  |  | (a) During any closed season in the Coromandel scallop fishery; or |
-|  |  |  | (b) In any area in which the taking of Coromandel scallops is, at that time, prohibited. |
-| Deepwater crab (Chaceon bicolor, Lithodes murrayi, Neolithodes brodiei, and Jacquinotia edwardsii) | All New Zealand fisheries waters | A commercial fisher may return any deepwater crab to the waters from which it was taken if that deepwater crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the deepwater crab is taken. |  |
-| Dredge oyster (Ostrea chilensis) | All New Zealand fisheries waters except quota management area OYU5 and fisheries management area 10 | A commercial fisher may return a dredge oyster of legal size to the waters from which it was taken if the oyster is likely to survive on return. |  |
-| Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) | All New Zealand fisheries waters |  | A commercial fisher may return any freshwater eel of legal size to the waters from which it is taken if— |
-|  |  |  | (a) That eel is likely to survive on return; and |
-|  |  |  | (b) The return takes place as soon as practicable after the eel is taken. |
-| Green-lipped mussel (Perna canaliculus) | Quota Management Areas GLM1, GLM2, GLM3, GLM7A, GLM7B, GLM8, and GLM10 | A commercial fisher may return any green-lipped mussel to the sea if that green-lipped mussel is likely to survive on return. |  |
-| Green-lipped mussel (Perna canaliculus) | Quota Management Area GLM9 | A commercial fisher may return any green-lipped mussel to the sea. |  |
-| Kingfish (Seriola lalandi) | All New Zealand fisheries waters | A commercial fisher may return a kingfish of legal size to the waters from which it was taken if that fish— |  |
-|  |  |  | (a) is not taken by the method of set netting; and |
-|  |  |  | (b) is likely to survive; and |
-|  |  |  | (c) is returned to the same waters from which it was taken; and |
-|  |  |  | (d) is returned as soon as practicable; and |
-|  |  |  | (e) is recorded and reported on catch effort landing returns using an appropriate code. |
-| Knobbed whelk (Austrofusus glans) | Quota management areas KWH1, KWH2, KWH3, KWH4, KWH5, KWH6, KWH7A, KWH7B, KWH8, and KWH9 | A commercial fisher may return any knobbed whelk to the waters from which it was taken if— |  |
-|  |  | (a) | the knobbed whelk is likely to survive on return; and |
-|  |  | (b) | the return takes place as soon as practicable after the knobbed whelk is taken. |
-| Mako shark (Isurus oxyrinchus) | All New Zealand fisheries waters | A commercial fisher may return any mako shark to the waters from which it was taken if— |  |
-|  |  |  | (a) that mako shark is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the mako shark is taken. |
-| Northern scallops (Pecten novaezelandiae) | Northland scallop fishery | A commercial fisher shall immediately return any Northland scallop to the waters from which it was taken if the scallop is taken— |  |
-|  |  |  | (a) During any closed season in the Northland scallop fishery; or |
-|  |  |  | (b) In any area in which the taking of northern scallops is, at the time, prohibited. |
-| Paddle crab (Ovalipes catharus) | All New Zealand fisheries waters | A commercial fisher may return any paddle crab to the waters from which it was taken if that paddle crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the paddle crab is taken. |  |
-| Pipi (Paphies australis) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any pipi to the seabed from which it was taken if- |  |
-|  |  |  | (a) that pipi is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the pipi is taken. |
-| Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken if— |  |
-|  |  |  | (a) that porbeagle shark is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the porbeagle shark is taken. |
-| Prawn killer (Ibacus alticrenatus) | All New Zealand fisheries waters | A commercial fisher may return any prawn killer to the waters from which it was taken if— |  |
-|  |  |  | (a) that prawn killer is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the prawn killer is taken. |
-| Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters |  | A commercial fisher may return any queen scallop to the waters from which it is taken if— |
-|  |  |  | (a) the queen scallop is likely to survive the return: and |
-|  |  |  | (b) the return takes place as soon as practicable after the queen scallop is taken. |
-| Rock lobster (Jasus verreauxi, Jasus edwardsii) | All New Zealand fisheries waters | 1. A commercial fisher may return any rock lobster of legal size to the waters from which it is taken if— |  |
-|  |  |  | (a) That rock lobster is likely to survive on return; and |
-|  |  |  | (b) The return takes place as soon as practicable after the rock lobster is taken. |
-|  |  | 3. A commercial fisher shall immediately return any rock lobster to the waters from which it was taken if— |  |
-|  |  |  | (a) The lobster is carrying external eggs; or |
-|  |  |  | (b) The lobster is in the soft-shell stage, being the stage following moulting when the exoskeleton of the lobster has not reached full hardness; or |
-|  |  |  | (c) The calcified bar or any part of the exoskeleton (the outer shell of the tail) of the first abdominal segment of the tail is in such a state that its tail cannot properly be measured in the manner required under regulations made under section 297 of this Act; or |
-|  |  |  | (d) In the case of spiny rock lobster, the calcified bar or any part of the exoskeleton (the outer shell of the tail) of the second abdominal segment of the tail is fractured; or any part of any pleural spine of the second abdominal segment is broken. |
-| Rough skate (Dipturus nasutus) | All New Zealand fisheries waters | A commercial fisher may return any rough skate to the waters from which it was taken if— |  |
-|  |  |  | (a) that rough skate is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the rough skate is taken. |
-| Scallop (Pecten novaezelandiae) | SCA1A, SCA2A, SCA3, SCA5, SCA7A, SCA7B, SCA7C, SCA8A, SCA9A | A commercial fisher may return a scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |  |
-| Sea cucumber (Stichopus mollis) | All New Zealand fisheries waters | A commercial fisher may return any sea cucumber to the waters from which it was taken if— |  |
-|  |  |  | (a) that sea cucumber is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the sea cucumber is taken. |
-| Smooth skate (Dipturus innominatus) | All New Zealand fisheries waters | A commercial fisher may return any smooth skate to the waters from which it was taken if— |  |
-|  |  |  | (a) that smooth skate is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the smooth skate is taken |
-| Southern bluefin tuna (Thunnus maccoyii) | All New Zealand fisheries waters and all waters outside the outer boundary of the exclusive economic zone | A person who is a New Zealand national fishing against New Zealand's national allocation of southern bluefin tuna may return any southern bluefin tuna to the waters from which it was taken if— |  |
-|  |  |  | (a) that southern bluefin tuna is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the southern bluefin tuna is taken. |
-| Southern scallops (Pecten novaezelandiae) | Southern scallop fishery | A commercial fisher may return a southern scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |  |
-| Spiny dogfish (Squalus acanthias) | All New Zealand fisheries waters | A commercial fisher may return any spiny dogfish (whether live or dead) to the waters from which it was taken. |  |
-| Surf clams (Bassina yatei, Dosinia anus, Dosinia subrosea, Mactra discors, Mactra murchisoni, Paphies donacina, Spisula aequilatera) | All New Zealand fisheries waters except fisheries management areas 6 and 10 | A commercial fisher may return any surf clam to the waters from which it was taken if— |  |
-|  |  |  | (a) the surf clam is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the surf clam is taken. |
-| Swordfish (Xiphias gladius) | All New Zealand fisheries waters | A commercial fisher may return any swordfish to the waters from which it was taken if— |  |
-|  |  |  | (a) that swordfish is likely to survive on return; and |
-|  |  |  | (b) the return takes place as soon as practicable after the swordfish is taken; and |
-|  |  |  | (c) that swordfish has a lower jaw to fork length of less than 1.25 m. |
-|  |  |  | For the purposes of this requirement, lower jaw to fork length means the projected straight line distance from the foremost point of the lower jaw to the rear centre edge of the tail (caudal fin). |
+| Stock | Area | Requirements |
+| --- | --- | --- |
+| Blue shark (Prionace glauca) | All New Zealand fisheries waters | A commercial fisher may return any blue shark to the waters from which it was taken if—athat blue shark is likely to survive on return; andbthe return takes place as soon as practicable after the blue shark is taken. |
+| Chatham Islands scallops (Pecten novaezelandiae) | Chatham Islands scallop fishery | A commercial fisher must immediately return a Chatham Islands scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Chatham Islands scallop fishery; orbin any area in which the taking of Chatham Islands scallops is, at that time, prohibited. |
+| Cockle (Austrovenus stutchburyi) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any cockle to the waters from which it is taken if—athe cockle is likely to survive the return; andbthe return takes place as soon as practicable after the cockle is taken. |
+| Coromandel scallops (Pecten novaezelandiae) | Coromandel scallop fishery | A commercial fisher must immediately return a Coromandel scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Coromandel scallop fishery; orbin any area in which the taking of Coromandel scallops is, at that time, prohibited. |
+| Deepwater crab (Chaceon bicolor, Lithodes murrayi, Neolithodes brodiei, and Jacquinotia edwardsii) | All New Zealand fisheries waters | A commercial fisher may return any deepwater crab to the waters from which it was taken if that deepwater crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the deepwater crab is taken. |
+| Dredge oyster (Ostrea chilensis) | All New Zealand fisheries waters except quota management area OYU5 and fisheries management area 10 | A commercial fisher may return a dredge oyster of legal size to the waters from which it was taken if the oyster is likely to survive on return. |
+| Freshwater eel (Anguilla australis, Anguilla dieffenbachii, and Anguilla reinhardtii) | All New Zealand fisheries waters | A commercial fisher may return any freshwater eel of legal size to the waters from which it is taken if—athat eel is likely to survive on return; andbthe return takes place as soon as practicable after the eel is taken. |
+| Green-lipped mussel (Perna canaliculus) | Quota Management Areas GLM1, GLM2, GLM3, GLM7A, GLM7B, GLM8, and GLM10 | A commercial fisher may return any green-lipped mussel to the sea if that green-lipped mussel is likely to survive on return. |
+| Green-lipped mussel (Perna canaliculus) | Quota Management Area GLM9 | A commercial fisher may return any green-lipped mussel to the sea. |
+| Kingfish (Seriola lalandi) | All New Zealand fisheries waters | A commercial fisher may return a kingfish of legal size to the waters from which it was taken if that fish—ais not taken by the method of set netting; andbis likely to survive; andcis returned to the same waters from which it was taken; anddis returned as soon as practicable; andeis recorded and reported on catch effort landing returns using an appropriate code |
+| Knobbed whelk (Austrofusus glans) | Quota management areas KWH1, KWH2, KWH3, KWH4, KWH5, KWH6, KWH7A, KWH7B, KWH8, and KWH9 | A commercial fisher may return any knobbed whelk to the waters from which it was taken if—athe knobbed whelk is likely to survive on return; andbthe return takes place as soon as practicable after the knobbed whelk is taken. |
+| Mako shark (Isurus oxyrinchus) | All New Zealand fisheries waters | A commercial fisher may return any mako shark to the waters from which it was taken if—athat mako shark is likely to survive on return; andbthe return takes place as soon as practicable after the mako shark is taken. |
+| Northern scallops (Pecten novaezelandiae) | Northland scallop fishery | A commercial fisher shall immediately return any Northland scallop to the waters from which it was taken if the scallop is taken—aduring any closed season in the Northland scallop fishery; orbin any area in which the taking of northern scallops is, at the time, prohibited. |
+| Paddle crab (Ovalipes catharus) | All New Zealand fisheries waters | A commercial fisher may return any paddle crab to the waters from which it was taken if that paddle crab—ais taken using potting gear; andbis likely to survive; andcthe return takes place as soon as practicable after the paddle crab is taken. |
+| Pipi (Paphies australis) | All New Zealand fisheries waters except fisheries management area 10 | A commercial fisher may return any pipi to the seabed from which it was taken if—athat pipi is likely to survive on return; andbthe return takes place as soon as practicable after the pipi is taken. |
+| Porbeagle shark (Lamna nasus) | All New Zealand fisheries waters | A commercial fisher may return any porbeagle shark to the waters from which it was taken if—athat porbeagle shark is likely to survive on return; andthe return takes place as soon as practicable after the porbeagle shark is taken. |
+| Prawn killer (Ibacus alticrenatus) | All New Zealand fisheries waters | A commercial fisher may return any prawn killer to the waters from which it was taken if—athat prawn killer is likely to survive on return; andbthe return takes place as soon as practicable after the prawn killer is taken. |
+| Queen scallop (Zygochlamys delicatula) | All New Zealand fisheries waters | A commercial fisher may return any queen scallop to the waters from which it is taken if—athe queen scallop is likely to survive the return: andbthe return takes place as soon as practicable after the queen scallop is taken. |
+| Rock lobster (Jasus verreauxi, Jasus edwardsii) | All New Zealand fisheries waters | 1A commercial fisher may return any rock lobster of legal size to the waters from which it is taken if—athat rock lobster is likely to survive on return; andbthe return takes place as soon as practicable after the rock lobster is taken. |
+|  |  | 2 |
+|  |  | 3A commercial fisher shall immediately return any rock lobster to the waters from which it was taken if—athe lobster is carrying external eggs; orbthe lobster is in the soft-shell stage, being the stage following moulting when the exoskeleton of the lobster has not reached full hardness; orcthe calcified bar or any part of the exoskeleton (the outer shell of the tail) of the first abdominal segment of the tail is in such a state that its tail cannot properly be measured in the manner required under regulations made under section 297 of this Act; ordin the case of spiny rock lobster, the calcified bar or any part of the exoskeleton (the outer shell of the tail) of the second abdominal segment of the tail is fractured; or any part of any pleural spine of the second abdominal segment is broken. |
+| Rough skate (Dipturus nasutus) | All New Zealand fisheries waters | A commercial fisher may return any rough skate to the waters from which it was taken if—athat rough skate is likely to survive on return; andbthe return takes place as soon as practicable after the rough skate is taken. |
+| Scallop (Pecten novaezelandiae) | SCA1A, SCA2A, SCA3, SCA5, SCA7A, SCA7B, SCA7C, SCA8A, SCA9A | A commercial fisher may return a scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |
+| Sea cucumber (Stichopus mollis) | All New Zealand fisheries waters | A commercial fisher may return any sea cucumber to the waters from which it was taken if—athat sea cucumber is likely to survive on return; andbthe return takes place as soon as practicable after the sea cucumber is taken. |
+| Smooth skate (Dipturus innominatus) | All New Zealand fisheries waters | A commercial fisher may return any smooth skate to the waters from which it was taken if—athat smooth skate is likely to survive on return; andbthe return takes place as soon as practicable after the smooth skate is taken |
+| Southern bluefin tuna (Thunnus maccoyii) | All New Zealand fisheries waters and all waters outside the outer boundary of the exclusive economic zone | A person who is a New Zealand national fishing against New Zealand's national allocation of southern bluefin tuna may return any southern bluefin tuna to the waters from which it was taken if—athat southern bluefin tuna is likely to survive on return; andbthe return takes place as soon as practicable after the southern bluefin tuna is taken. |
+| Southern scallops (Pecten novaezelandiae) | Southern scallop fishery | A commercial fisher may return a southern scallop of legal size to the waters from which it was taken if the scallop is likely to survive on return. |
+| Spiny dogfish (Squalus acanthias) | All New Zealand fisheries waters | A commercial fisher may return any spiny dogfish (whether live or dead) to the waters from which it was taken. |
+| Surf clams (Bassina yatei, Dosinia anus, Dosinia subrosea, Mactra discors, Mactra murchisoni, Paphies donacina, Spisula aequilatera) | All New Zealand fisheries waters except fisheries management areas 6 and 10 | A commercial fisher may return any surf clam to the waters from which it was taken if—athe surf clam is likely to survive on return; andbthe return takes place as soon as practicable after the surf clam is taken. |
+| Swordfish (Xiphias gladius) | All New Zealand fisheries waters | A commercial fisher may return any swordfish to the waters from which it was taken if—athat swordfish is likely to survive on return; andbthe return takes place as soon as practicable after the swordfish is taken; andcthat swordfish has a lower jaw to fork length of less than 1.25 m.For the purposes of this requirement, lower jaw to fork length means the projected straight line distance from the foremost point of the lower jaw to the rear centre edge of the tail (caudal fin). |
 
 ## Schedule 7 — Authority to enter private dwelling house, enclosed garden, or curtilage, or Maori reservation
 
 ## Schedule 8 — Minimum annual holdings of annual catch entitlement for specified stocks
 
-|  | Minimum Holding |
+| Stock | Minimum holding(tonnes) |
 | --- | --- |
-| Stock | (Tonnes) |
 | ANG11 | 4 |
 | ANG12 | 4 |
 | ANG13 | 4 |
@@ -6677,16 +6601,15 @@ All positions and directions described in this Schedule are based on a geographi
 | SCA1 | 3 |
 | SCA7 | 3 |
 
-|  | Minimum Holding |
+| Stock | Minimumholding(oysters) |
 | --- | --- |
-| Stock | (Oysters) |
 | OYU5 | 29 000 |
 
 ## Schedule 8A — Harvestable spat
 
 ## Schedule 9 — Quota allocations for jack mackerel, dredge oysters, and northland scallops
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Amaltal Fishing Co Limited | 8460042 | 2.20 |
 | Ashby, Ray John | 8420078 | 1.00 |
@@ -6807,7 +6730,7 @@ All positions and directions described in this Schedule are based on a geographi
 | Yardley, Kenneth Laurie and Yardley, Irene May | 8710141 | .65 |
 |  | TOTAL | 10,000.00 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Amalgamated Marketing Limited | 8820078 | 400.00 |
 | Amaltal Fishing Co Limited | 8460042 | 940.50 |
@@ -6858,7 +6781,7 @@ All positions and directions described in this Schedule are based on a geographi
 | Vela Fishing Limited | 8640050 | 700.00 |
 |  | TOTAL | 18,000.00 |
 
-| Legal Name | Client Number | Quota Allocation (Greenweight Tonnes) |
+| Legal name | Client number | Quota allocation (Greenweight tonnes) |
 | --- | --- | --- |
 | Aston, Craig Anthony | 8460082 | 12.110 |
 | Aurora Fishing Partnership being Hosie, Brian Ernest and Hosie, Teressa Joan | 8760284 | 15.224 |
@@ -6902,10 +6825,10 @@ All positions and directions described in this Schedule are based on a geographi
 | Wells, Bernard William and Barry Alexander | 8462589 | 9.707 |
 | Whalan, Patrick Albert | 8462608 | 7.496 |
 | Whiting, George Albert | 8462625 | 3.000 |
-| Wratt, Margaret as excutrix sic: executrix of the Estate of Gerald Bruce Wratt | 9160096 | 3.000 |
+| Wratt, Margaret as excutrix of the Estate of Gerald Bruce Wratt | 9160096 | 3.000 |
 |  | TOTAL | 505.000 |
 
-| Legal Name | Client Number | Quota Allocation (Meatweight Tonnes) |
+| Legal name | Client number | Quota allocation (Meatweight tonnes) |
 | --- | --- | --- |
 | Wedding, Patrick Hugh and Wedding, Marguerita Bernadette | 8412585 | 2.50 |
 | Keyte, Dennis Austin | 8411307 | 2.50 |
@@ -6947,7 +6870,7 @@ All positions and directions described in this Schedule are based on a geographi
 | Treaty of Waitangi Fisheries Commission | 8600300 | 37.712 |
 |  | TOTAL | 188.561 |
 
-| Legal Name | Client Number | Quota Allocation (Oyster Numbers) |
+| Legal name | Client number | Quota allocation (oyster numbers) |
 | --- | --- | --- |
 | Calder, William Ernest | 8890037 | 650 000 |
 | Cowan, Kay Ravine | 8890036 | 650 000 |
@@ -6966,7 +6889,7 @@ All positions and directions described in this Schedule are based on a geographi
 | Urwin and Co Ltd | 8492485 | 650 000 |
 |  | TOTAL | 14 950 000 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Sanford Ltd | 8422125 | 4.620 |
 | Simunovich Fisheries Ltd | 8422209 | 5.932 |
@@ -7073,7 +6996,7 @@ All positions and directions described in this Schedule are based on a geographi
 | Amos, Cushla May | 9510053 | .064 |
 |  | TOTAL | 509.000 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Sanford Ltd | 8422125 | 2.588 |
 | Amaltal Fishing Co Ltd | 8460042 | .351 |
@@ -7104,7 +7027,7 @@ All positions and directions described in this Schedule are based on a geographi
 | Te Ika Paewai Ltd | 9260029 | 15.258 |
 |  | TOTAL | 118.000 |
 
-| Legal Name | Client Number | Quota Allocation (tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Douglass, Adrian | 8410627 | .001 |
 | Sanford Ltd | 8422125 | .053 |
@@ -7182,7 +7105,7 @@ All positions and directions described in this Schedule are based on a geographi
 | JS Fishing Ltd | 9660039 | .985 |
 |  | TOTAL | 176.000 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Amalgamated Marketing Limited | 8820078 | 92.321 |
 | Independent Fisheries Limited | 8471188 | 278.913 |
@@ -7195,7 +7118,7 @@ All positions and directions described in this Schedule are based on a geographi
 | South Island Deep Water Fisheries Limited | 8472269 | 21.207 |
 | Treaty of Waitangi Fisheries Commission | 8600300 | 328.000 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Amalgamated Marketing Limited | 8820078 | 866.914 |
 | Independent Fisheries Limited | 8471188 | 2,619.062 |
@@ -7208,7 +7131,7 @@ All positions and directions described in this Schedule are based on a geographi
 | South Island Deep Water Fisheries Limited | 8472269 | 199.138 |
 | Treaty of Waitangi Fisheries Commission | 8600300 | 3,080.000 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Amalgamated Marketing Limited | 8820078 | 1,996.153 |
 | Independent Fisheries Limited | 8471188 | 6,030.646 |
@@ -7221,7 +7144,7 @@ All positions and directions described in this Schedule are based on a geographi
 | South Island Deep Water Fisheries Limited | 8472269 | 458.534 |
 | Treaty of Waitangi Fisheries Commission | 8600300 | 7,092.000 |
 
-| Legal Name | Client Number | Quota Allocation (Tonnes) |
+| Legal name | Client number | Quota allocation (tonnes) |
 | --- | --- | --- |
 | Amalgamated Marketing Limited | 8820078 | 309.612 |
 | Independent Fisheries Limited | 8471188 | 935.379 |
@@ -7771,164 +7694,164 @@ All positions and directions described in this Schedule are based on a geographi
 | Marine farm licence | 86.59 |
 | Freshwater fish farm licence | 86.59 |
 
-| Fish Stock |  | Levy ($ per licence/ certificate) |
-| --- | --- | --- |
-| Deep Water |  |  |
-|  | OEO1 | 0.50 |
-|  | OEO3A | 0.50 |
-|  | OEO4 | 0.50 |
-|  | OEO6 | 0.50 |
-|  | ORH1 | 2.92 |
-|  | ORH2A | 2.92 |
-|  | ORH2B | 2.92 |
-|  | ORH3A | 2.92 |
-|  | ORH3B | 2.92 |
-|  | ORH7A | 2.92 |
-|  | ORH7B | 2.92 |
-| Middle Depth |  |  |
-|  | BAR1 | 0.27 |
-|  | BAR4 | 0.27 |
-|  | BAR5 | 0.27 |
-|  | BAR7 | 0.27 |
-|  | HAK1 | 1.00 |
-|  | HAK4 | 1.00 |
-|  | HAK7 | 1.00 |
-|  | HOK1 | 0.42 |
-|  | LIN1 | 1.25 |
-|  | LIN2 | 1.25 |
-|  | LIN3 | 1.25 |
-|  | LIN4 | 1.25 |
-|  | LIN5 | 1.25 |
-|  | LIN6 | 1.25 |
-|  | LIN7 | 1.25 |
-|  | SKI1 | 1.67 |
-|  | SKI2 | 1.67 |
-|  | SKI3 | 1.00 |
-|  | SKI7 | 1.00 |
-|  | SQU1J | 0.83 |
-|  | SQU1T | 0.83 |
-|  | SQU6T | 0.83 |
-|  | SWA1 | 0.83 |
-|  | SWA3 | 0.83 |
-|  | SWA4 | 0.83 |
-|  | WAR1 | 1.33 |
-|  | WAR2 | 1.33 |
-|  | WAR3 | 0.67 |
-|  | WAR7 | 0.67 |
-|  | WAR8 | 1.33 |
-| Inshore |  | 1.52 |
-|  | BCO1 | 1.52 |
-|  | BCO2 | 1.52 |
-|  | BCO3 | 0.77 |
-|  | BCO4 | 1.52 |
-|  | BCO5 | 1.52 |
-|  | BCO7 | 1.52 |
-|  | BCO8 | 1.52 |
-|  | BNS1 | 2.08 |
-|  | BNS2 | 2.08 |
-|  | BNS3 | 2.08 |
-|  | BNS7 | 2.08 |
-|  | BNS8 | 2.08 |
-|  | BYX1 | 1.25 |
-|  | BYX2 | 1.25 |
-|  | BYX3 | 1.25 |
-|  | BYX7 | 1.25 |
-|  | BYX8 | 1.25 |
-|  | ELE1 | 1.25 |
-|  | ELE2 | 1.25 |
-|  | ELE3 | 1.25 |
-|  | ELE5 | 1.25 |
-|  | ELE7 | 1.25 |
-|  | FLA1 | 1.79 |
-|  | FLA2 | 1.79 |
-|  | FLA3 | 1.79 |
-|  | FLA7 | 1.79 |
-|  | GMU1 | 1.25 |
-|  | GMU2 | 1.25 |
-|  | GMU3 | 1.25 |
-|  | GMU7 | 1.25 |
-|  | GUR1 | 0.75 |
-|  | GUR2 | 0.75 |
-|  | GUR3 | 0.75 |
-|  | GUR7 | 0.75 |
-|  | GUR8 | 0.75 |
-|  | HPB1 | 2.92 |
-|  | HPB2 | 2.21 |
-|  | HPB3 | 2.21 |
-|  | HPB4 | 1.14 |
-|  | HPB5 | 2.21 |
-|  | HPB7 | 2.21 |
-|  | HPB8 | 2.21 |
-|  | JDO1 | 2.50 |
-|  | JDO2 | 2.50 |
-|  | JDO3 | 2.50 |
-|  | JDO7 | 2.50 |
-|  | MOK1 | 0.75 |
-|  | MOK3 | 0.75 |
-|  | MOK4 | 0.75 |
-|  | MOK5 | 0.75 |
-|  | RCO1 | 0.37 |
-|  | RCO2 | 0.37 |
-|  | RCO3 | 0.37 |
-|  | RCO7 | 0.37 |
-|  | SCH1 | 1.00 |
-|  | SCH2 | 1.00 |
-|  | SCH3 | 1.00 |
-|  | SCH4 | 0.54 |
-|  | SCH5 | 1.00 |
-|  | SCH7 | 1.00 |
-|  | SCH8 | 1.00 |
-|  | SNA1 | 3.33 |
-|  | SNA2 | 2.50 |
-|  | SNA3 | 1.87 |
-|  | SNA7 | 1.87 |
-|  | SNA8 | 1.87 |
-|  | SPO1 | 2.08 |
-|  | SPO2 | 1.50 |
-|  | SPO3 | 2.08 |
-|  | SPO7 | 2.08 |
-|  | SPO8 | 1.50 |
-|  | STA1 | 1.04 |
-|  | STA2 | 1.04 |
-|  | STA3 | 1.04 |
-|  | STA4 | 0.83 |
-|  | STA5 | 1.04 |
-|  | STA7 | 1.04 |
-|  | STA8 | 1.04 |
-|  | TAR1 | 1.87 |
-|  | TAR2 | 1.67 |
-|  | TAR3 | 0.96 |
-|  | TAR4 | 0.96 |
-|  | TAR5 | 0.96 |
-|  | TAR7 | 0.96 |
-|  | TAR8 | 0.96 |
-|  | TRE1 | 1.17 |
-|  | TRE2 | 0.83 |
-|  | TRE3 | 0.83 |
-|  | TRE7 | 0.83 |
-| Shellfish |  |  |
-|  | CRA1 | 25.00 |
-|  | CRA2 | 25.00 |
-|  | CRA3 | 25.00 |
-|  | CRA4 | 25.00 |
-|  | CRA5 | 25.00 |
-|  | CRA6 | 25.00 |
-|  | CRA7 | 25.00 |
-|  | CRA8 | 25.00 |
-|  | CRA9 | 25.00 |
-|  | PAU1 | 13.33 |
-|  | PAU2 | 13.33 |
-|  | PAU3 | 13.33 |
-|  | PAU4 | 13.33 |
-|  | PAU5A | 13.33 |
-|  | PAU5B | 13.33 |
-|  | PAU5D | 13.33 |
-|  | PAU6 | 13.33 |
-|  | PAU7 | 13.33 |
-|  | PHC1 | 16.67 |
-|  | SCA7 | 10.83 |
-| Pelagic |  |  |
-|  | JMA7 | 0.08 |
+| Fish stock | Levy ($ per licence/ certificate) |
+| --- | --- |
+| Deep Water |  |
+| OEO1 | 0.50 |
+| OEO3A | 0.50 |
+| OEO4 | 0.50 |
+| OEO6 | 0.50 |
+| ORH1 | 2.92 |
+| ORH2A | 2.92 |
+| ORH2B | 2.92 |
+| ORH3A | 2.92 |
+| ORH3B | 2.92 |
+| ORH7A | 2.92 |
+| ORH7B | 2.92 |
+| Middle Depth |  |
+| BAR1 | 0.27 |
+| BAR4 | 0.27 |
+| BAR5 | 0.27 |
+| BAR7 | 0.27 |
+| HAK1 | 1.00 |
+| HAK4 | 1.00 |
+| HAK7 | 1.00 |
+| HOK1 | 0.42 |
+| LIN1 | 1.25 |
+| LIN2 | 1.25 |
+| LIN3 | 1.25 |
+| LIN4 | 1.25 |
+| LIN5 | 1.25 |
+| LIN6 | 1.25 |
+| LIN7 | 1.25 |
+| SKI1 | 1.67 |
+| SKI2 | 1.67 |
+| SKI3 | 1.00 |
+| SKI7 | 1.00 |
+| SQU1J | 0.83 |
+| SQU1T | 0.83 |
+| SQU6T | 0.83 |
+| SWA1 | 0.83 |
+| SWA3 | 0.83 |
+| SWA4 | 0.83 |
+| WAR1 | 1.33 |
+| WAR2 | 1.33 |
+| WAR3 | 0.67 |
+| WAR7 | 0.67 |
+| WAR8 | 1.33 |
+| Inshore | 1.52 |
+| BCO1 | 1.52 |
+| BCO2 | 1.52 |
+| BCO3 | 0.77 |
+| BCO4 | 1.52 |
+| BCO5 | 1.52 |
+| BCO7 | 1.52 |
+| BCO8 | 1.52 |
+| BNS1 | 2.08 |
+| BNS2 | 2.08 |
+| BNS3 | 2.08 |
+| BNS7 | 2.08 |
+| BNS8 | 2.08 |
+| BYX1 | 1.25 |
+| BYX2 | 1.25 |
+| BYX3 | 1.25 |
+| BYX7 | 1.25 |
+| BYX8 | 1.25 |
+| ELE1 | 1.25 |
+| ELE2 | 1.25 |
+| ELE3 | 1.25 |
+| ELE5 | 1.25 |
+| ELE7 | 1.25 |
+| FLA1 | 1.79 |
+| FLA2 | 1.79 |
+| FLA3 | 1.79 |
+| FLA7 | 1.79 |
+| GMU1 | 1.25 |
+| GMU2 | 1.25 |
+| GMU3 | 1.25 |
+| GMU7 | 1.25 |
+| GUR1 | 0.75 |
+| GUR2 | 0.75 |
+| GUR3 | 0.75 |
+| GUR7 | 0.75 |
+| GUR8 | 0.75 |
+| HPB1 | 2.92 |
+| HPB2 | 2.21 |
+| HPB3 | 2.21 |
+| HPB4 | 1.14 |
+| HPB5 | 2.21 |
+| HPB7 | 2.21 |
+| HPB8 | 2.21 |
+| JDO1 | 2.50 |
+| JDO2 | 2.50 |
+| JDO3 | 2.50 |
+| JDO7 | 2.50 |
+| MOK1 | 0.75 |
+| MOK3 | 0.75 |
+| MOK4 | 0.75 |
+| MOK5 | 0.75 |
+| RCO1 | 0.37 |
+| RCO2 | 0.37 |
+| RCO3 | 0.37 |
+| RCO7 | 0.37 |
+| SCH1 | 1.00 |
+| SCH2 | 1.00 |
+| SCH3 | 1.00 |
+| SCH4 | 0.54 |
+| SCH5 | 1.00 |
+| SCH7 | 1.00 |
+| SCH8 | 1.00 |
+| SNA1 | 3.33 |
+| SNA2 | 2.50 |
+| SNA3 | 1.87 |
+| SNA7 | 1.87 |
+| SNA8 | 1.87 |
+| SPO1 | 2.08 |
+| SPO2 | 1.50 |
+| SPO3 | 2.08 |
+| SPO7 | 2.08 |
+| SPO8 | 1.50 |
+| STA1 | 1.04 |
+| STA2 | 1.04 |
+| STA3 | 1.04 |
+| STA4 | 0.83 |
+| STA5 | 1.04 |
+| STA7 | 1.04 |
+| STA8 | 1.04 |
+| TAR1 | 1.87 |
+| TAR2 | 1.67 |
+| TAR3 | 0.96 |
+| TAR4 | 0.96 |
+| TAR5 | 0.96 |
+| TAR7 | 0.96 |
+| TAR8 | 0.96 |
+| TRE1 | 1.17 |
+| TRE2 | 0.83 |
+| TRE3 | 0.83 |
+| TRE7 | 0.83 |
+| Shellfish |  |
+| CRA1 | 25.00 |
+| CRA2 | 25.00 |
+| CRA3 | 25.00 |
+| CRA4 | 25.00 |
+| CRA5 | 25.00 |
+| CRA6 | 25.00 |
+| CRA7 | 25.00 |
+| CRA8 | 25.00 |
+| CRA9 | 25.00 |
+| PAU1 | 13.33 |
+| PAU2 | 13.33 |
+| PAU3 | 13.33 |
+| PAU4 | 13.33 |
+| PAU5A | 13.33 |
+| PAU5B | 13.33 |
+| PAU5D | 13.33 |
+| PAU6 | 13.33 |
+| PAU7 | 13.33 |
+| PHC1 | 16.67 |
+| SCA7 | 10.83 |
+| Pelagic |  |
+| JMA7 | 0.08 |
 
 | Description | Levy ($ per vessel) |
 | --- | --- |
