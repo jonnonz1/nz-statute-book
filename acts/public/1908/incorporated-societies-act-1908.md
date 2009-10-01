@@ -1,5 +1,5 @@
 # Incorporated Societies Act 1908
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-10-01_
 
 > An Act to make provision for the incorporation of societies which are not established for the purpose of pecuniary gain
 
@@ -104,7 +104,7 @@ Any summons, notice, order, or other document required to be served upon a socie
 
 ### 17 Security for costs where society is plaintiff
 (1) Where a society is the plaintiff in any action or other legal proceeding, and there appears by any credible testimony to be reason to believe that if the defendant is successful in his defence the assets of the society will be insufficient to pay his costs, any Court or Judge having jurisdiction in the matter may require sufficient security to be given for those costs, and may stay all proceedings until that security is given.
-(2) Subsection (1) is subject to section 284A of the Resource Management Act 1991.
+(2)
 
 ### 18 Registered office
 (1) Every society shall have a registered office to which all communications may be addressed.
