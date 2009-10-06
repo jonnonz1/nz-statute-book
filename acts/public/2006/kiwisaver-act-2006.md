@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2009-06-01_
+_Consolidation as at 2009-10-06_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -29,7 +29,7 @@ This Act is the KiwiSaver Act 2006.
   - **Crown** , for the avoidance of doubt, includes a Minister of the Crown, a government department, and the Commissioner
   - **Crown contribution** means—
     (a) the contribution made by the Crown under section 226:
-    (b) the amount of tax credit under section KJ 1 of the Income Tax Act 2004 that is treated as a Crown contribution for a member under section KJ 5(2) of that Act
+    (b) the amount of tax credit under section MK 1 of the Income Tax Act 2007 that is treated as a Crown contribution for a member under section MK 5 of that Act
   - **deduction rate** means the rate at which deductions must be made under section 66 or 66A, as the case may be
   - **default investment product** , in relation to a default KiwiSaver scheme, means the investment product specified as the default investment product of the scheme under an instrument of appointment to which section 177 applies
   - **default KiwiSaver provider** means a person that is appointed under section 177 as the provider of a default investment product of a default KiwiSaver scheme
@@ -119,7 +119,7 @@ This Act is the KiwiSaver Act 2006.
   - **opt-out notice** means a notice given under section 17
   - **participation agreement** means an agreement or any instrument in writing related to an arrangement between an employer and a provider of a scheme that determines some of the conditions on which the employer’s employees may be members of the scheme as amended from time to time
   - **pay period** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **PAYE period** has the same meaning as in paragraph (a) of the definition of payment period in section MK 10 of the Income Tax Act 2007
+  - **PAYE period** means, as applicable, a first payment period as defined in the Income Tax Act 2007, a second payment period as defined in that Act, or a month in which PAYE is withheld in relation to an employee
   - **PAYE rules** has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **permitted withdrawal** means a withdrawal that is permitted under the KiwiSaver scheme rules
   - **personal information** has the same meaning as in the Privacy Act 1993
@@ -228,12 +228,7 @@ The automatic enrolment rules apply to every employee who is not a secondee and�
   (b) in the case of employment which was temporary under subsection (1)(b), on the 28th day after the employee started the employment.
 
 ### 13 Employment in schools
-(1) If a person is employed by a board of trustees to work in a State school or integrated school, the relevant board of trustees must be treated as the employer for the purposes of this Act.
-(2) If a person is employed to work in a State school or integrated school after being employed to work in another State school or integrated school, the person is treated as starting new employment for the purposes of this Act, despite the fact that the person stays on the same payroll.
-(3) In this section,—
-  - **board of trustees** means a board of trustees constituted under Part 9 of the Education Act 1989
-  - **integrated school** has the same meaning as in section 145 of the Education Act 1989
-  - **State school** has the same meaning as in section 2(1) of the Education Act 1989.
+[Repealed]
 
 ### 14 Other situations when automatic enrolment rules do not apply
 (1) Despite sections 10 to 13, the following are not new employment, and the automatic enrolment rules do not apply:
@@ -243,7 +238,7 @@ The automatic enrolment rules apply to every employee who is not a secondee and�
     (iii) section RD 5(7) (which relates to parental leave payments paid under Part 7A of the Parental Leave and Employment Protection Act 1987):
   (b) if the new employment is as an election day worker or a private domestic worker as those terms are defined in section YA 1 of the Income Tax Act 2007:
   (c) if the employee is not required to have tax deductions made from his or her salary or wages under the PAYE rules:
-  (d) if amounts are withheld for an employee under the PAYE rules solely because section OE 1(5) of the Income Tax Act 2004 applies to them.
+  (d) if amounts are withheld for an employee under the PAYE rules solely because section YD 1(7) of the Income Tax Act 2007 applies to them.
 (2) Despite sections 10 to 13, the automatic enrolment rules do not apply if the employee is already a member of a KiwiSaver scheme.
 
 ### 15 Effect of automatic enrolment
@@ -338,7 +333,8 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
   (a) every person who becomes, on or after the date of commencement of the automatic enrolment rules, a permanent employee (including a part-time employee) of that employer, and who is aged 18 or over but less than the New Zealand superannuation qualification age, must be eligible, in practice, at the time when the person so becomes an employee,—
     (i) to become a member of the scheme; and
     (ii) to transfer to the scheme the member’s accumulation in relation to other superannuation schemes (to the extent that transfers are available from those other superannuation schemes); and
-  (b) the scheme must be a registered superannuation scheme; and
+  (b) the scheme must be a registered superannuation scheme that is registered on or before the day after the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 receives the Royal assent; and
+  (bb) the relevant participation agreement must be entered into by the employer before the day after the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 receives the Royal assent; and
   (c) the trust deed of the scheme must have the effect that each member who satisfies the scheme’s requirements for a withdrawal benefit, and who elects to withdraw from membership of the scheme, may transfer the member’s accumulation to another registered superannuation scheme or KiwiSaver scheme (to the extent that transfers are available to those other schemes); and
   (d) the trust deed of the scheme must provide for an amount equal to at least 4% of annual gross base salary or wages to be contributed to, or otherwise credited within, the scheme in respect of each person who becomes, on or after the date of commencement of the automatic enrolment rules, a permanent employee of that employer and a member of the scheme.
 (2) However, subsection (1)(d) does not apply—
@@ -641,7 +637,7 @@ A person may, at any time, choose the KiwiSaver scheme of which he or she will b
   (a) the Commissioner has received a notice under section 58 that an employee has ceased to be eligible to be a member of an employer’s chosen scheme; or
   (b) the Commissioner has received a notice under section 173(1)(b) that a person is a member of a KiwiSaver scheme that is being wound up; or
   (c) the Commissioner has received a notice in respect of a member of a KiwiSaver scheme under section 210(2); or
-  (d) the Commissioner has received notice in accordance with paragraph (h) of the definition of complying fund rules in section OB 1 of the Income Tax Act 2004.
+  (d) the Commissioner has received notice in accordance with clauses 4(a) and 5(a) in schedule 28 of the Income Tax Act 2007.
 (2) However, this section does not apply if section 9BAA of the Superannuation Schemes Act 1989 applies.
 (3) The person must be allocated to a new scheme in accordance with the principles in section 44, but excluding section 44(b) (which relates to allocation to an employer’s chosen KiwiSaver scheme).
 (4) The Commissioner must take whatever steps the Commissioner thinks appropriate to ensure that, so far as practicable, the process for an involuntary transfer follows the process for a voluntary transfer under section 56.
@@ -702,7 +698,7 @@ This subpart applies when, because of a mistake,—
   (c) the total amount of interest that the Commissioner would be liable for under section 84 on contributions described in paragraphs (a) and (b), excluding amounts described in paragraph (a)(i) to (iii) on a first-in first-out basis. For the purposes of calculating the amount of interest payable on the relevant contributions, the interest period in section 87 is treated as the number of days in the period—
     (i) beginning on the day the Commissioner received the contribution or the provider received the contribution (if the contribution was not via the Commissioner):
     (ii) ending with the day that the Commissioner pays the refund amount under this section.
-(4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner’s best estimate of what they contributed, taking into account amounts described in paragraph (a)(i) and (ii).
+(4) The refund amount must be paid to the person, their employer, the Crown, and any other person making a contribution in respect of the person, in proportion to the Commissioner’s best estimate of what they contributed, taking into account amounts described in subsection (3)(a)(i) and (ii).
 (5) When the Commissioner has paid the refund amount, the amount of member’s accumulation for the person previously paid to the Commissioner (the accumulation money), and the contributions held by the Commissioner in respect of the person in the holding account described in section 72 including interest under section 84 (the holding account money) are treated in the following ways:
   (a) the accumulation money and the holding account money are public money, and are not trust money for the purposes of sections 66 to 68 of the Public Finance Act 1989:
   (b) subpart 2 of Part 3 does not apply to the accumulation money and holding account money, and the Commissioner must pay the money into the Crown Bank account.
@@ -746,7 +742,7 @@ For the purposes of this subpart, a private domestic worker who is an employer u
     (ii) section 66A applied in respect of the employee immediately before 1 April 2009; or
   (ab) 4% of the employee's gross salary or wages, if section 60(1)(a), (b) or (c) first applied in respect of the employee before 1 April 2009 and the employee has not given his or her employer a notice under paragraph (b); or
   (b) 8% of the employee’s gross salary or wages if the employee gives his or her employer a notice requiring contributions to be deducted at that rate.
-(2) Despite subsection (1), the employee may change their contribution rate from their current contribution rate described in subsection (1) to another rate in that subsection (new rate) by giving notice to their employer of the new rate.
+(2) Despite subsection (1), the employee may choose a contribution rate of 2%, 4%, or 8% of their gross salary or wages by giving notice to their employer of the rate they choose.
 (3) The new rate applies to the next payment of salary or wages that is calculated after the employer receives that notice.
 (4) An employee may not change his or her contribution rate in relation to an employer at intervals that are less than 3 months apart unless the employer agrees.
 
@@ -899,7 +895,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 ### 86 Interest rate
 (1) The interest rate at which interest is payable under sections 84 to 91 is—Commissioner’s paying rate × (1 − lowest tax rate)where—
   - **Commissioner’s paying rate** is the rate of interest established and notified as the Commissioner’s paying rate by an Order in Council made under section 120H of the Tax Administration Act 1994 as the Commissioner’s paying rate applying on the day on which the contribution is received or treated as received
-  - **lowest tax rate** is the tax rate in Schedule 1, Part A, table 1, row 1, column 2 of the Income Tax Act 2007.
+  - **lowest tax rate** is the tax rate in schedule 1, part A, table 1, row 1, column 3 of the Income Tax Act 2007.
 (2) The interest rate calculated using the formula is expressed as a percentage, rounded to 2 decimal places, with numbers at the midpoint or greater being rounded up and other numbers being rounded down.
 
 ### 87 Amount of interest payable
@@ -914,8 +910,8 @@ Interest that is payable under section 84 on an amount of contribution that is o
 ### 89 How and when interest is paid on refunds
 (1) This section applies to interest that would be payable under section 84 in respect of an amount of contribution that is refunded under this Part (except section 81).
 (2) Interest must be paid with the refund.
-(3) However, no interest is payable if the amount of the interest in respect of that refund is less than $5.
-(4) The Governor-General may, by Order in Council, increase the amount in subsection (3).
+(3)
+(4)
 
 ### 90 Position if Commissioner’s paying rate changes
 (1) This section applies if the rate of interest established and notified as the Commissioner’s paying rate by an Order in Council made under section 120H of the Tax Administration Act 1994 changes during an interest period in respect of which interest is payable under section 84.
@@ -990,7 +986,7 @@ For the purposes of the Income Tax Act 2007 and the Tax Administration Act 1994,
 (4) For the purposes of this section, employer contribution does not include compulsory employer contribution to the extent of the employer’s entitlement to a tax credit under section MK 1(2) of the Income Tax Act 2007 in relation to the contribution.
 
 ### 100 Refunds of employer contribution by Commissioner if employee opts out
-If an employee opts out after an employer contribution is paid to the Commissioner, the Commissioner may, if it is still in his or her possession, refund the employer contribution to the employer.
+If an employee opts out after an employer contribution is paid to the Commissioner, the Commissioner must, if it is still in his or her possession, refund the employer contribution to the employer.
 
 ### 101 Refunds of employer contribution by provider
 (1) The provider of a KiwiSaver scheme must refund to the Commissioner any amount of employer contribution that was paid under this Act by the Commissioner in excess of the amount of the employer contribution that this Act requires.
@@ -1001,6 +997,7 @@ If an employee opts out after an employer contribution is paid to the Commission
 ### 101A General
 (1) An employer must pay, in accordance with sections 101E and 101F, an amount of employer contribution (a compulsory employer contribution) calculated under section 101D for an employee, to the extent to which the employee meets the requirements in section 101C for a period to which a payment of salary or wages relates.
 (2) Section 101B provides rules relevant to parties to an employment relationship, and how they bargain in respect of compulsory employer contributions and associated matters.
+(2B) Despite subsection (1), an employer does not have to pay a compulsory employer contribution as provided in sections 101FB and 101FC.
 (3) Section 101G provides rules relevant to providers who receive compulsory employer contributions directly or from the Commissioner.
 (4) The rest of this subpart provides rules relating to compulsory employer contributions to complying superannuation funds. Also, subpart 3 provides some rules for employer contributions to KiwiSaver schemes.
 (5) For the purposes of this subpart, a private domestic worker who is an employer under paragraph (c) of the definition of employer is treated as making payments of salary or wages to themselves in the capacity of employee. Consequently, for the purposes of this subpart, the private domestic worker may be both employer and employee, if the worker chooses.
@@ -1043,7 +1040,8 @@ For the purposes of section 101A(1), the requirements are that the employee—
     (ii) the employer provided access to eligible employees to the contributions scheme or a prior scheme for the contributions scheme before 17 May 2007; and
     (iii) the employee is—
       (A) employed by the employer before 1 April 2008, and the employer makes or has agreed with the employee before 1 April 2008 to make or credit the contributions to the contributions scheme or a prior scheme for the contributions scheme; or
-      (B) covered by a collective agreement that is in force before 17 May 2007 and expires after 1 April 2008 under which the employer is required to make or credit the contributions to the contributions scheme or a prior scheme for the contributions scheme; and
+      (B) covered by a collective agreement that is in force before 17 May 2007 and expires after 1 April 2008 under which the employer is required to make or credit the contributions to the contributions scheme or a prior scheme for the contributions scheme; or
+      (C) one that has had contributions paid or credited to the contributions scheme or a prior scheme for the contributions scheme by a previous employer, and those contributions met the requirements described in paragraph (b)(i) to (iii); and
     (iv) the contributions scheme provides that the contributions vest completely in the employee in a period starting on or after the employee first becomes a member of the contributions scheme and ending no more than 5 years later:
   (c) employer’s superannuation contributions or superannuation subsidies in relation to an employee—
     (i) whose employment is as a member of Parliament, a judicial officer, or a constable:
@@ -1054,7 +1052,7 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (7) For the purposes of subsection (6), the amount is calculated using the following formula:member’s contribution × vesting percentage.
 (8) In the formula,—
   (a) member’s contribution is the amount of the employee’s contribution for the period to which the payment of gross salary or wages relates:
-  (b) vesting percentage is the percentage of the employee’s total contributions to be added to those contributions 5 years after the employee first becomes a member of the registered superannuation scheme.
+  (b) vesting percentage is the percentage (inclusive of amounts payable under the ESCT rules) of the employee's total contributions to be added to those contributions 5 years after the employee first becomes a member of the registered superannuation scheme.
 
 ### 101E Payment: allocation between schemes and funds
 (1) If the employer and employee agree to an allocation of compulsory employer contributions between an employee’s KiwiSaver scheme and complying superannuation funds, the contribution allocation agreed is used for allocating payments.
@@ -1066,10 +1064,32 @@ For the purposes of section 101A(1), the requirements are that the employee—
 (1) If an amount of employer contribution for a payment of salary or wages is for the employee’s KiwiSaver scheme, the amount must be paid by the employer to the Commissioner. The amount is subject to the rules provided in subpart 3.
 (2) If an amount of compulsory employer contribution for a payment of salary or wages is for the employee’s complying superannuation fund, the amount must be paid by the employer to the fund’s provider no later than 1 month after the payment of salary or wages.
 
+### 101FB Grace periods: employers
+(1) An employer does not have to pay a compulsory employer contribution for a payment of gross salary or wages to an employee in a grace period described in subsection (2), if, for the whole of the relevant grace period,—
+  (a) 1 or more of the following apply:
+    (i) the automatic enrolment rules apply to the employee:
+    (ii) the employer does not receive a notice under section 34(1) or 39 that the employee has opted in; and
+  (b) the employer does not deduct any amount of contributions required to be deducted from an employee's salary or wages; and
+  (c) the employer does not receive a notice under section 61 that requires the deduction of contributions for the employee.
+(2) The grace periods for the purposes of subsection (1) are—
+  (a) the period starting on the day that the employee starts new employment and finishing on the earlier of the day—
+    (i) that is 1 year after the day that the employee starts new employment:
+    (ii) that the employee ceases employment:
+  (b) the period starting on the day that is 1 year after the day that the employee starts new employment and finishing on the earliest of—
+    (i) the day that is before the day on which the employer receives a notice under section 34(1) or 39 that the employee has opted in:
+    (ii) the day that is before the day on which the employer receives a notice under section 61 that requires the deduction of contributions for the employee:
+    (iii) the day that the employee ceases employment.
+
+### 101FC De minimis: other contributions and hybrid schemes amount
+For a payment of gross salary or wages to an employee, an employer does not have to pay a compulsory employer contribution for the employee, if, in respect of the payment of gross salary or wages, one of the following amounts is equal to or more than the relevant CEC rate in section 101D(4):
+  (a) the amount of other contributions that meets the requirements of section 101D(5)(b) divided by the employee's salary or wages (as defined for the relevant registered superannuation scheme):
+  (b) the hybrid schemes amount that meets the requirements of section 101D(6) to (8) divided by the employee's salary or wages (as defined for the relevant registered superannuation scheme).
+
 ### 101G Rules: providers
 (1) A provider must use the contribution allocation for a member to credit the amount of compulsory employer contribution they receive across the investment products to which a member has subscribed or has been allocated.
 (2) The contribution vests in the member immediately after it is paid to the provider, despite any provision to the contrary.
-(3) If a member of a KiwiSaver scheme or complying superannuation fund will be entitled within 2 months to withdraw an amount from the fund or scheme under clause 4(3) of the KiwiSaver scheme rules (which relates to lock-in of funds) or a rule the same as that clause, the provider must send a notice to the Commissioner stating the date on which the member will be entitled to withdraw. The Commissioner may notify the member’s employer of the date, for the purposes of the employer applying this subpart.
+(3) If a member of a KiwiSaver scheme will be entitled within 2 months to withdraw an amount from the fund or scheme under clause 4(3) of the KiwiSaver scheme rules (which relates to lock-in of funds), the provider must send a notice to the Commissioner stating the date on which the member will be entitled to withdraw. The Commissioner may notify the member’s employer of the date, for the purposes of the employer applying this subpart.
+(4) If a member of a complying superannuation fund will be entitled within 2 months to withdraw an amount from the fund under a rule the same as clause 4(3) of the KiwiSaver scheme rules, the provider must send a notice to the member's employer stating the date on which the member will be entitled to withdraw.
 
 **Complying superannuation funds**
 
@@ -1396,7 +1416,7 @@ The trustee of a KiwiSaver scheme or a complying superannuation fund must provid
 (3) Subsections (1) and (2) apply despite anything to the contrary in the trust deed or in any other enactment or rule of law or agreement, or any defect in the form or mode of execution of the participation agreement.
 
 ### 128A Terms relating to members’ tax credits implied into trust deed
-(1) Terms necessary for giving effect to the law relating to the tax credits described in section KJ 1 of the Income Tax Act 2004 are implied into a trust deed that establishes—
+(1) Terms necessary for giving effect to the law relating to the tax credits described in section MK 1 of the Income Tax Act 2007 are implied into a trust deed that establishes—
   (a) a KiwiSaver scheme in relation to the KiwiSaver scheme:
   (b) a complying superannuation fund in relation to the complying superannuation fund.
 (2) The terms—
@@ -1410,7 +1430,7 @@ The trustee of a KiwiSaver scheme or a complying superannuation fund must provid
   (b) are enforceable by a trustee, and by a member, of the scheme.
 
 ### 128C Terms relating to lump sum payments by complying superannuation funds
-(1) Terms necessary for giving effect to paragraph (cc) of the definition of complying fund rules in section YA 1 of the Income Tax Act 2007 are implied into a trust deed that establishes a complying superannuation fund in relation to the complying superannuation fund.
+(1) Terms necessary for giving effect to clause 2(c) in schedule 28 of the Income Tax Act 2007 are implied into a trust deed that establishes a complying superannuation fund in relation to the complying superannuation fund.
 (2) The terms—
   (a) apply despite anything to the contrary in a trust deed of a fund; and
   (b) are enforceable by a trustee, and by a member, of the fund.
@@ -2261,7 +2281,7 @@ Despite anything in any other Act, nothing prevents the Commissioner or any offi
   (c) every person purporting to act under the delegation is, in the absence of proof to the contrary, presumed to be acting in accordance with the terms of the delegation.
 
 ### 226 Crown contribution
-(1) The Crown must pay a contribution to the first KiwiSaver scheme of which a person (A) is a member.
+(1) The Crown must pay 1 contribution to the first KiwiSaver scheme of which a person (A) is a member.
 (1A) The contribution must be paid as soon as practicable after the date provided by subsection (1B) or (1C).
 (1B) Unless subsection (1C) applies, the date for the purposes of subsection (1A) is the last day of the 3-month period that starts on the earliest of the following dates:
   (a) the date on which the Commissioner receives the first contribution in respect of a person, if the person is one to whom subpart 1 of Part 3 applies:
@@ -2270,7 +2290,7 @@ Despite anything in any other Act, nothing prevents the Commissioner or any offi
 (2) The provider must use the contribution allocation for A to credit the contribution across the investment products of the KiwiSaver scheme to which A has subscribed or been allocated.
 (2B) The contribution must vest in A immediately after it is paid to the provider, despite any provision to the contrary.
 (3) The amount of the contribution that must be paid by the Crown is $1,000 or such other amount as may be prescribed by the Governor-General by Order in Council.
-(4) A person who ceases being a member of any KiwiSaver scheme and subsequently becomes a member of a KiwiSaver scheme is not entitled to be paid a contribution under this section again.
+(4) If A ceases being a member of the first KiwiSaver scheme of which they are a member because the Commissioner accepts an opt-out notice outside the time limit in section 16 or because A's enrolment is invalid, and the amount of the contribution under this section was never paid, then the next KiwiSaver scheme of which A is a member is treated as their first one, for the purposes of this section and entitlement to the contribution.
 
 ### 227 Status of Crown contribution and fee subsidy for tax purposes
 A Crown contribution paid in respect of a member of a KiwiSaver scheme under section 226 or a fee subsidy paid in respect of a member of a KiwiSaver scheme under regulations made under section 228(n) is not—
@@ -2325,9 +2345,10 @@ The Governor-General may, by Order in Council, make regulations for all or any o
   (f) after the total amount secured by the mortgage is paid, ongoing contributions are not diverted from the person’s KiwiSaver scheme and complying superannuation funds:
   (g) if the person chooses to cease the mortgage diversion facility before the amounts secured by the mortgage are fully paid, the contributions are redirected towards retirement savings:
   (h) the provider, and not the Commissioner, is responsible for paying the amount diverted under the mortgage diversion facility:
-  (i) the amount diverted from a person’s KiwiSaver scheme and complying superannuation funds is a fixed dollar amount, and is capped at not more than the total of—
+  (i) the amount diverted from a person’s KiwiSaver scheme and complying superannuation funds is capped at not more than the total of—
     (i) half of the total contributions deducted for or contributed by the person, received by their KiwiSaver scheme provider; and
     (ii) half of the person’s contributions to their complying superannuation funds, but limited to 4% of their annual gross base salary or wages for each complying superannuation fund:
+  (ia) an amount may not be diverted if it was received by the relevant provider before the provider has received from the person a request to divert amounts under the mortgage diversion facility:
   (j) employer contributions may not be diverted:
   (k) the facility is available for new mortgages and existing mortgages.
 (3) The regulations may specify all or any of the terms and conditions that apply to the mortgage diversion facility, including—
@@ -2439,10 +2460,9 @@ A trustee may reasonably require a member who applies to make a permitted withdr
 (2) A requirement to release funds from the KiwiSaver scheme under any enactment includes a requirement by order of any court under any enactment (including an order made under section 31 of the Property (Relationships) Act 1976).
 
 ### 8 Withdrawal for purpose of purchase of first home
-(1) This clause applies to a member if,—
-  (a) in the case of a member in respect of whom the Commissioner has received contributions, at least 3 years have expired after the Commissioner received the first contribution in respect of the person (whether or not a contribution in relation to the scheme of which the member is currently a member); and
-  (b) in the case of any other member, the person has been a member of 1 or more KiwiSaver schemes for a period of 3 years or more; and
-  (c) in the case of any member, the member has not made a withdrawal under this clause before (whether or not from the member’s current KiwiSaver scheme or from a KiwiSaver scheme to which the person previously belonged).
+(1) This clause applies to a member if the member has not made a withdrawal under this clause before (whether or not from the member's current KiwiSaver scheme or from a KiwiSaver scheme to which the person previously belonged) and,––
+  (a) at least 3 years have expired after the Commissioner received the first contribution in respect of the person (whether or not a contribution in relation to the scheme of which the member is currently a member); or
+  (b) the person has been a member of 1 or more KiwiSaver schemes for a period of 3 years or more.
 (2) Every amount of contribution that is deducted from salary or wages under this Act is treated, for the purpose of subclause (1)(a), as received by the Commissioner on the 15th day of the month in which the deduction is made.
 (3) A member to whom this clause applies may make a withdrawal from the KiwiSaver scheme of which the member is currently a member for the purchase of an estate in land (whether alone or as a joint tenant or tenant in common) if—
   (a) the purchase is made in the prescribed circumstances; or
@@ -2467,8 +2487,10 @@ A trustee may reasonably require a member who applies to make a permitted withdr
     (iii) an undertaking that the funds will be paid to the vendor as part of the purchase price or, if the settlement is not completed by the due date or any extended date, repaid to the trustees on account of the member.
 (8) This clause is subject to the terms of any participation agreement that restricts or prevents the withdrawal of employer vested contributions that are not compulsory employer contributions in relation to the member.
 
-### 9 Withdrawal by member’s personal representative
-If a member dies, the trustees must, on application by the member’s personal representative, pay to that person an amount that is equal to the value of the member’s accumulation at the date on which the application is accepted as part of the member’s estate.
+### 9 Withdrawal on death
+If a member dies, the trustees must,––
+  (a) on application by the member's personal representative, pay to that person an amount that is equal to the value of the member's accumulation at the date on which the application is accepted as part of the member's estate; or
+  (b) if the requirements of section 65 of the Administration Act 1969 are met, pay to the relevant person any sum authorised by that section, subject to that Act.
 
 ### 10 Withdrawal in cases of significant financial hardship
 (1) If the trustees are reasonably satisfied that a member is suffering or is likely to suffer from significant financial hardship, the member may, on application to the trustees in accordance with clause 13, make a significant financial hardship withdrawal in accordance with this clause.
@@ -2503,7 +2525,7 @@ If a member dies, the trustees must, on application by the member’s personal r
   (b) may require that any other documents, things, or information produced in support of the application be verified by oath, statutory declaration, or otherwise.
 
 ### 14 Withdrawal or transfer to foreign scheme in cases of permanent emigration
-(1) A member may, on application to the trustees, and no earlier than 1 year after the member’s permanent emigration from New Zealand, withdraw an amount equal to the value of the member’s accumulation less the amount of the Crown contribution arising from a tax credit under section KJ 1 of the Income Tax Act 2004 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) on the date of withdrawal.
+(1) A member may, on application to the trustees, and no earlier than 1 year after the member’s permanent emigration from New Zealand, withdraw an amount equal to the value of the member’s accumulation less the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) on the date of withdrawal.
 (2) A member may, on application to the trustees, at any time after the member’s permanent emigration from New Zealand, have the trustees transfer the member’s accumulation less the amount of Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) to a foreign superannuation scheme authorised for that purpose under regulations made under section 228.
 (3) An application under subclause (1) or (2) must be in the form required by the trustees and must include—
   (a) a completed statutory declaration in respect of the member to the effect that the member has permanently emigrated from New Zealand; and
@@ -2521,9 +2543,9 @@ A employee member may, at any time, take a contributions holiday in accordance w
 (3) A member may, at any time during that person’s membership of a KiwiSaver scheme, be transferred to another KiwiSaver scheme in the circumstances provided for in, and in accordance with, this Act.
 
 ### 17 Crown contributions: tax credits
-Despite rules 4 to 14, the amount of the Crown contribution arising from a tax credit under section KJ 1 of the Income Tax Act 2004 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn—
-  (a) before the member gives the fund provider (as that term is defined in the Income Tax Act 2004) a statutory declaration stating the periods for which the person has their principal place of residence in New Zealand; and
-  (b) to the extent to which the fund provider has notice that their claim for a tax credit is wrong, because the number of included days under section KJ 3 of the Income Tax Act 2004 is wrong.
+Despite rules 4 to 14, the amount of the Crown contribution arising from a tax credit under section MK 1 of the Income Tax Act 2007 (disregarding any positive or negative returns for the purposes of calculating that amount of Crown contribution) may not be withdrawn—
+  (a) before the member, the personal representative, or the relevant person under section 65 of the Administration Act 1969 (as the case may be) gives the fund provider (as defined in the Income Tax Act 2007) a statutory declaration stating, to the best of their knowledge, the periods for which the member has their principal place of residence in New Zealand; and
+  (b) to the extent to which the fund provider has notice that their claim for a tax credit is wrong, because they have got the time for which the member meets the requirements of section MK 2 of the Income Tax Act 2007 wrong.
 
 ## Schedule 2 — Matters to be specified in application for registration or registration proposal
 
