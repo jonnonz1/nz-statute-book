@@ -1,5 +1,5 @@
 # Taxation (Business Taxation and Remedial Matters) Act 2007
-_Consolidation as at 2008-12-15_
+_Consolidation as at 2009-10-06_
 
 ### 1 Title
 This Act is the Taxation (Business Taxation and Remedial Matters) Act 2007.
@@ -2910,7 +2910,7 @@ In section ME 1(2)(i), section 24 is replaced by section 266.
     (a) is not recorded as a credit in the branch equivalent tax account of the company or consolidated group (as the case may be) that makes the election:
     (b) is not an amount of debit balance in respect of which the election is made:
     (c) does not relate to the election.
-(2) Subsection (1) applies for a person for the 2005–06 and later income years, unless the person has, for the relevant income year, taken a tax position in a return of income furnished to the Commissioner before 17 May 2007 that ignores the existence of subsection (1).
+(2) Subsection (1) applies for a person for the 1997–98 and later income years, unless the person has, for the relevant income year, taken a tax position in a return of income furnished to the Commissioner before 17 May 2007 that ignores the existence of subsection (1).
 (3) If subsection (1) does not apply to a person for an income year because of subsection (2), the person may treat subsection (1) as not existing.
 
 ### 288 Definitions
