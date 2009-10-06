@@ -1,5 +1,5 @@
 # Injury Prevention, Rehabilitation, and Compensation Act 2001
-_Consolidation as at 2008-12-01_
+_Consolidation as at 2009-10-06_
 
 ### 1 Title
 This Act is the Injury Prevention, Rehabilitation, and Compensation Act 2001.
@@ -81,7 +81,7 @@ This Act binds the Crown.
   - **Corporation** means the Accident Compensation Corporation continued by section 259
   - **counsellor** means a counsellor of a type described in regulations made under this Act
   - **cover** has the meaning set out in section 8
-  - **Crown entity subsidiary** has, subject to section 266, the same meaning as in section 8(2) of the Crown Entities Act 2004.
+  - **Crown entity subsidiary** has, subject to section 266, the same meaning as in section 8(2) of the Crown Entities Act 2004
   - **Crown funding agreement** has the same meaning as in section 10 of the New Zealand Public Health and Disability Act 2000
   - **deceased claimant** means a claimant who dies and whose cover under section 20 or section 22 is for death or for physical injuries from which he or she dies
   - **decision** or includes all or any of the following decisions by the Corporation
@@ -119,7 +119,6 @@ This Act binds the Crown.
       (i) any amount that, in relation to any other person, is treated as income from employment, as defined in paragraph (a) of the definition of income from employment in section YA 1 of the Income Tax Act 2007; and
       (ii) any salary, wages, or other gross income to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; but
     (b) does not include, for the purpose of Part 6, a person who is an employer solely by reason of any of section RD 5(1)(b)(iii), (6)(b), or (c) of the Income Tax Act 2007
-  - **Employers' Account**
   - **employment** —
     (a) means work engaged in or carried out for the purposes of pecuniary gain or profit; and
     (b) in the case of an employee, includes a period of paid leave, other than paid leave on the termination of employment
@@ -147,23 +146,19 @@ This Act binds the Crown.
   - **government agency** , for the purposes of Part 8 and section 324(4)(b)(ii), includes a government department and a Crown entity
   - **health practitioner** —
     (a) means a person who is, or is deemed to be, registered with an authority established or continued by section 114 of the Health Practitioners Competence Assurance Act 2003 as a practitioner of a particular health profession; but
-    (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner.
+    (b) in relation to that health profession and to any purpose stated in a relevant notice under section 322A, does not include a person who, for that purpose, is declared not to be a health practitioner
   - **impairment** , unless otherwise defined in regulations made under section 322, means a loss, loss of use, or derangement of any body part, organ system, or organ function
   - **incapacity** ,—
     (a) for the purposes of determining incapacity, means incapacity determined under section 103 or section 105, as the case may require; and
     (b) includes absence from employment in order to get treatment for personal injury covered by this Act, if the treatment—
       (i) is necessary for the injury; and
       (ii) is treatment of a type that the claimant is entitled to under Part 1 of Schedule 1
-  - **income year**
   - **individual rehabilitation plan** —
     (a) means a plan under section 75 that provides for a claimant to receive rehabilitation that will assist in accordance with section 70 in restoring the claimant's health, independence, and participation to the maximum practicable extent; and
     (b) includes an individual rehabilitation programme or individual rehabilitation plan entered into under a former Act
-  - **medical error**
   - **medical laboratory technologist** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Laboratory Science Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science; and
     (b) holds a current practising certificate
-  - **Medical Misadventure Account**
-  - **medical mishap**
   - **medical practitioner** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine; and
     (b) holds a current practising certificate
@@ -180,7 +175,7 @@ This Act binds the Crown.
   - **Motor Vehicle Account Residual levy** means the levy payable under section 214(3)
   - **motor vehicle injury** has the meaning set out in sections 29 and 35
   - **New Zealand** has the meaning set out in section 16
-  - **New Zealand superannuation qualification age** ,—irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age.
+  - **New Zealand superannuation qualification age** ,—irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age
     (a) for a person born before 1 April 1936, means the appropriate age set out in section 3 of the Social Welfare (Transitional Provisions) Act 1990 (before its repeal):
     (b) for any other person, means the age specified in section 7 of the New Zealand Superannuation and Retirement Income Act 2001,—
   - **non-earner** means a natural person who is not an earner
@@ -216,7 +211,6 @@ This Act binds the Crown.
   - **PAYE income payment** has the same meaning as in section RD 3(1) of the Income Tax Act 2007
   - **personal injury** has the meaning set out in section 26
   - **personal injury caused by a work-related gradual process, disease, or infection** has the meaning set out in section 30
-  - **personal injury caused by medical misadventure**
   - **personal injury covered by any former Act** means—
     (a) personal injury covered by the Accident Insurance Act 1998:
     (b) personal injury covered by the Accident Rehabilitation and Compensation Insurance Act 1992:
@@ -266,7 +260,6 @@ This Act binds the Crown.
     (a) means a chiropractor, clinical dental technician, dental technician, dentist, medical laboratory technologist, medical practitioner, medical radiation technologist, midwife, nurse, nurse practitioner, occupational therapist, optometrist, pharmacist, physiotherapist, or podiatrist; and
     (b) includes any person referred to in paragraph (a) who holds an interim practising certificate but only when acting in accordance with any conditions of such interim certificate; and
     (c) includes a member of any occupational group included in the definition of registered health professional by regulations made under section 322
-  - **registered medical practitioner**
   - **Registrar** , in relation to an appeal to a District Court under Part 5, means a Registrar of a specified registry; and includes a Deputy Registrar of a specified registry
   - **rehabilitation** —
     (a) means a process of active change and support with the goal of restoring, to the extent provided under section 70, a claimant's health, independence, and participation; and
@@ -274,9 +267,8 @@ This Act binds the Crown.
   - **Residual Claims Account** means the Account described in section 192
   - **Residual Claims levy** means the levy payable under section 193
   - **road** has the same meaning as in section 2(1) of the Land Transport Act 1998
-  - **scope of practice** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003.
+  - **scope of practice** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **self-employed person** means a natural person who has earnings as a self-employed person
-  - **Self-Employed Work Account**
   - **shareholder-employee** means a natural person who is a shareholder in, and an employee of, a close company
   - **specified maximum** , in relation to earnings, means the relevant prescribed maximum amount of earnings on which a levy is payable by or in respect of any person
   - **specified registry** , in relation to an appeal under Part 5, means a registry of a District Court that is for the time being specified in regulations made under this Act for the purposes of sending or filing notices of appeal
@@ -286,7 +278,7 @@ This Act binds the Crown.
     (a) section 36 and clause 55 of Schedule 1, when it is used in relation to mental injury:
     (b) section 37 and clause 55 of Schedule 1, when it is used in relation to personal injury caused by a work-related gradual process, disease, or infection:
     (c) section 38 and clause 55 of Schedule 1, when it is used in relation to treatment injury or personal injury caused by medical misadventure
-  - **tax year** , in relation to any person, has the same meaning as in section YA 1 of the Income Tax Act 2007 for the purposes of furnishing a return of income under the Tax Administration Act 1994.
+  - **tax year** , in relation to any person, has the same meaning as in section YA 1 of the Income Tax Act 2007 for the purposes of furnishing a return of income under the Tax Administration Act 1994
   - **trade plate** means a trade plate issued under section 22 of the Transport Act 1962 or section 34 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **treatment** includes—
     (a) physical rehabilitation:
@@ -303,7 +295,7 @@ This Act binds the Crown.
   - **weekly compensation** means compensation for loss of earnings, or loss of potential earning capacity, and compensation for the spouse or partner, child, or other dependant of a deceased claimant, that is payable by the Corporation—
     (a) under any of clauses 32, 47, 66, 70, and 71 of Schedule 1; or
     (b) under sections 131, 210, 224, Part 10, or Part 11
-  - **Work Account** means the Account described in section 167.
+  - **Work Account** means the Account described in section 167
   - **weekly earnings** , in relation to an earner, means the weekly earnings of that earner determined in accordance with Part 2 of Schedule 1
   - **work-related personal injury** has the meaning set out in sections 28 and 29(1).
 (2) An example used in this Act is only illustrative of the provision it relates to. It does not limit the provision.
@@ -1906,7 +1898,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 (4) An appointment of an assessor may not be called in question, in any proceedings, on the grounds that the occasion for the appointment had not arisen or had ceased.
 
 ### 158 Involvement of assessor
-(1) (1) The duties of an assessor are to—
+(1) The duties of an assessor are to—
   (a) sit with the court; and
   (b) act in all respects as an extra member of the court for the hearing of the appeal; and
   (c) act as an extra member of the court to assist in the determination of the appeal, but the Judge alone determines the appeal.
@@ -3480,7 +3472,6 @@ A person who commits an offence against this Act or any regulations made under i
   (d) prescribing a place of education for the purposes of this Act:
   (e) adding an occupational group, or part of an occupational group, to the definition of registered health professional in section 6(1), and defining that group or part by reference to membership of or registration with a particular body or in some other way:
   (f) adding an occupational group, or part of an occupational group, to the definition of treatment provider in section 6(1), and defining that group or part by reference to membership of or registration with a particular body or in some other way:
-  (fa)
   (g)
 (2) The Governor-General may, on the recommendation of the Minister and the Minister of Health, by Order in Council, make regulations defining public health acute services for the purposes of this Act.
 (3) The Minister may not make any recommendation under subsection (1) or subsection (2) without first consulting the persons or organisations the Minister considers appropriate, having regard to the subject-matter of the proposed regulations.
@@ -3576,7 +3567,7 @@ A person who commits an offence against this Act or any regulations made under i
   (a) refer to, or incorporate by reference, in whole or in part, the American Medical Association Guides to the Evaluation of Permanent Impairment:
   (b) refer to, or incorporate by reference, guides, frameworks, or other standards:
   (c) prescribe an assessment tool that in itself may refer to, or incorporate by reference, in whole or in part, any thing referred to in paragraph (a) or paragraph (b):
-  (d) do any combination of the things referred to in paragraphs (a) or (b) or (c):
+  (d) do any combination of the things referred to in paragraphs (a) or (b) or )c):
   (e) amend the lump sum compensation amounts payable under clause 56 of Schedule 1
   (f) prescribe calculations and rules for determining the combined effect of personal injury for a claimant who has suffered more than 1 personal injury, for the purposes of clause 59(5) of Schedule 1:
   (g) prescribe calculations and rules for adjusting the whole-person impairment score of a claimant to take into account the effect of injuries suffered before 1 April 2002:
@@ -3621,7 +3612,7 @@ For the purposes of Part 6, the Governor-General may, on the recommendation of t
   (e) prescribing, in relation to levies, any discounts to be allowed and any adjustments to be made:
   (f) prescribing classifications, and categories of earners, for levy purposes:
   (g) prescribing classifications of industries and risks for the purposes of sections 170 and 195:
-  (h) specifying the threshold that must be met for the purpose of multiple classification in sections 170 and 195, being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
+  (h) specifying the threshold that must be met for the purpose of multiple classification in sections 170 and 195 being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
   (i) prescribing the rate of interest payable on any amount under section 250(3) and the method by which the prescribed rate is to be applied (for example, 7.5% compounding monthly on the outstanding amount unpaid):
   (j) providing for levy adjustments and any matters relating to audits of safety management practices referred to in section 175(7):
   (k) prescribing, in relation to the levy payable under section 213(2)(c),—
@@ -4202,8 +4193,7 @@ Section 459 of the Accident Insurance Act 1998 continues to apply to provisions 
 **Regulations**
 
 ### 396 Regulations providing for transitional matters
-(1) Without limiting anything in this Act, the Governor-General may, by Order in Council, make regulations prescribing transitional and savings provisions required by the coming into force of this Act or provisions of it.
-(2) Regulations made under subsection (1) may not displace any of the provisions of this Part (but may be additional to any such provisions).
+[Repealed]
 
 ### 397 Expiry of section 396
 Section 396 expires on the close of 31 March 2003.
@@ -4230,6 +4220,10 @@ From the commencement of this Act,—
 (2) Unless the context otherwise requires, all references in any enactment or document to levies paid or payable under this Act must be read as including a reference to premiums or levies paid or payable under any former Act.
 
 ## Schedule 1 — Entitlements
+
+### Part  — Rehabilitation
+
+**Treatment**
 
 ### 1 Corporation's liability to pay or contribute to cost of treatment
 (1) The Corporation is liable to pay or contribute to the cost of the claimant's treatment for personal injury for which the claimant has cover if clause 2 applies,—
@@ -4295,6 +4289,8 @@ From the commencement of this Act,—
 (2) To assist a claimant in choosing a treatment provider, the Corporation may advise the claimant that treatment from a named treatment provider will result in the claimant contributing less or nothing to the cost of treatment.
 (3) Subclause (2) applies subject to subclause (1)(b).
 
+**Individual rehabilitation plans**
+
 ### 7 Preparation of individual rehabilitation plan
 (1) The Corporation must provide information to the claimant about—
   (a) the rehabilitation to which the claimant may be entitled; and
@@ -4327,10 +4323,14 @@ From the commencement of this Act,—
 ### 10 Corporation and claimant may agree to modify plan
 The claimant and the Corporation may agree to modify the plan from time to time, and clauses 7 to 9 apply to the process of modification and to the modified plan.
 
+**Ancillary services related to rehabilitation**
+
 ### 11 When Corporation is liable to pay or contribute to cost of ancillary services related to rehabilitation
 (1) The Corporation is liable to pay or contribute to the cost of any service reasonably required by the claimant as an ancillary service related to rehabilitation, such as accommodation, escort for transport, and transport, if the service facilitates rehabilitation.
 (2) The Corporation is liable to pay or contribute to the cost of accommodation and transport of a person other than the claimant if the presence and support of the person is necessary and appropriate to assist in achieving a rehabilitation outcome for the claimant.
 (3) This clause applies subject to any regulations made under this Act.
+
+**Social rehabilitation**
 
 ### 12 Definitions
 In clauses 13 to 23,—
@@ -4564,6 +4564,8 @@ The Corporation is not liable—
   (a) to ensure that the claimant pays any rehabilitation provider that delivers a social rehabilitation service to the claimant; or
   (b) to pay that provider directly, if the claimant does not pay.
 
+**Vocational rehabilitation**
+
 ### 24 Occupational assessor
 An occupational assessment must be undertaken by an assessor whom the Corporation considers has the appropriate qualifications and experience to do the assessment required in the particular case.
 
@@ -4625,6 +4627,8 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (b) are not related to the claimant's injury.
 (3) The Corporation must provide a copy of the report to the claimant.
 
+### Part  — Weekly compensation
+
 ### 30 Meaning of relevant year
 (1) In this Part, relevant year means the most recent tax year (as defined in section YA 1 of the Income Tax Act 2007) last ended before the commencement of the period of incapacity.
 (2) However, in the case of a self-employed person or a shareholder-employee, the relevant year is the most recent year ending with the balance date (whether 31 March or another date) of the self-employed person or shareholder-employee before the commencement of the period of incapacity.
@@ -4635,6 +4639,8 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) the Corporation considers that the return, and any related accounts, have not been unreasonably influenced by—
     (i) the fact of the claimant's incapacity; or
     (ii) the effects or likely effects of the incapacity on the claimant's income or business activities.
+
+**Corporation to pay weekly compensation after first week of incapacity**
 
 ### 32 Corporation to pay weekly compensation for loss of earnings to claimant who was earner
 (1) The Corporation is liable to pay weekly compensation for loss of earnings to a claimant who—
@@ -4647,6 +4653,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (4) Subclause (3) is subject to clauses 46, 51, 52, and 53.
 (5) The amount of weekly compensation payable to the claimant must be adjusted in the manner provided in section 115.
 (6) In this clause, earner includes a person who has purchased weekly compensation under section 223.
+
+**Employee claimant**
 
 ### 33 Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34
 (1) Clause 34 applies to a claimant who—
@@ -4665,11 +4673,15 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) any period during which the claimant was entitled to weekly compensation; and
   (b) any earnings in respect of any such period.
 
+**Employee not in permanent employment**
+
 ### 35 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: application of clause 36
 [Repealed]
 
 ### 36 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: calculations
 [Repealed]
+
+**Self-employed claimant**
 
 ### 37 Weekly earnings if earner had earnings as self-employed person immediately before incapacity commenced: application of clause 38
 (1) Clause 38 applies to a claimant who had earnings as a self-employed person immediately before his or her incapacity commenced.
@@ -4718,6 +4730,8 @@ If the Corporation is determining earnings under this Part in relation to a self
   (d) had been employed continuously even though the claimant changed from receiving earnings as a shareholder-employee to receiving earnings as a self-employed person.
 (2) The claimant's weekly earnings must be calculated under clause 38(2) using the claimant's earnings as a shareholder-employee as if they were the claimant's earnings as a self-employed person in the relevant year.
 
+**Shareholder-employee**
+
 ### 39 Weekly earnings if claimant had earnings as shareholder-employee immediately before incapacity commenced
 (1) The weekly earnings of a claimant who had earnings as a shareholder-employee immediately before his or her incapacity commenced are the higher of—
   (a) the relevant amount calculated under clause 34; and
@@ -4753,6 +4767,8 @@ If the Corporation is determining earnings under this Part in relation to a self
   (d) had been employed continuously even though the claimant changed from receiving earnings as a self-employed person to receiving earnings as a shareholder-employee.
 (2) The claimant's weekly earnings must be calculated under clause 39(2) using the claimant's earnings as a self-employed person as if they were earnings as a shareholder-employee in the relevant year.
 
+**Aggregation of calculations**
+
 ### 41 Calculations for multiple employment situations
 (1) Claimants to whom clause 38 applies, and to whom clauses 33 and 34 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 38 with the inclusion of their earnings as an employee; or
@@ -4764,6 +4780,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (4) If a claimant's weekly earnings are calculated in accordance with subclause (3)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
 (5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 34 or clause 38 or clause 39, the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
 (6) However, a claimant's weekly earnings calculated under clause 34 must not be aggregated with the claimant's weekly earnings under clause 39 if the claimant's weekly earnings under clause 39 are his or her earnings under clause 34.
+
+**Adjustments for low earners**
 
 ### 42 Weekly earnings of earners in full-time employment: increase in certain circumstances
 (1) This clause applies to a claimant who—
@@ -4789,6 +4807,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (8) Subclause (2) does not apply if the claimant has an entitlement under any other provision of this schedule to weekly compensation for loss of earnings that is greater than the claimant's entitlement under this clause.
 (9) Nothing in this clause is affected by the claimant's entitlement to any weekly compensation under any of clauses 66, 70, and 71.
 
+**Claimant no longer an employee**
+
 ### 43 Weekly earnings if employment ended before commencement of incapacity
 (1) Subclause (2) applies to a claimant who, before his or her incapacity commenced, has ceased to be in employment.
 (2) The claimant is deemed to continue to be in employment and have earnings from that employment for the purposes of this schedule for the longer of—
@@ -4811,6 +4831,8 @@ If the Corporation is determining earnings under this Part in relation to a self
     (b) a self-employed person; or
     (c) a shareholder-employee.
 
+**Employee on unpaid parental leave**
+
 ### 44 Weekly earnings if employee on unpaid parental leave immediately before his or her incapacity commenced
 (1) This clause applies to a claimant who is an employee on unpaid parental leave immediately before his or her incapacity commenced.
 (2) For the purposes of calculating the claimant's weekly earnings, the date he or she began parental leave is deemed to be the date his or her incapacity commenced.
@@ -4820,6 +4842,8 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) weekly compensation for loss of earnings arising from the application of this clause:
   (b) weekly compensation for loss of earnings arising from an entitlement under any other provision of this schedule.
 (6) Parental leave must not be treated as paid leave for the purposes of this clause only because the person may be entitled to a payment in respect of the leave under Part 7A of the Parental Leave and Employment Protection Act 1987.
+
+**Estimated earnings**
 
 ### 45 Interim estimation of weekly earnings that cannot be ascertained
 (1) This clause applies to a claimant who, immediately before his or her incapacity commenced,—
@@ -4839,9 +4863,13 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) pays weekly compensation; and
   (c) subsequently finds that the weekly compensation it paid is greater than that it would have paid if the claimant's income tax return for the relevant year had been available,—
 
+**Maximum compensation**
+
 ### 46 Maximum weekly compensation for loss of earnings
 (1) The maximum amount of weekly compensation for loss of earnings that the Corporation is liable to pay to a claimant is $1,341.31 a week, whatever amount is calculated under this schedule.
 (2) The maximum amount specified in subclause (1) must be adjusted in the manner provided in section 115.
+
+**Corporation to pay weekly compensation to potential earners**
 
 ### 47 Corporation to pay weekly compensation for loss of potential earnings capacity
 (1) The Corporation is liable to pay weekly compensation for loss of potential earning capacity to a claimant who—
@@ -4860,12 +4888,16 @@ If the Corporation is determining earnings under this Part in relation to a self
 (6) A claimant does not have any entitlement to weekly compensation for loss of earnings, if he or she has an entitlement under this clause to weekly compensation for loss of potential earning capacity that is greater than any entitlement he or she has to weekly compensation for loss of earnings under any other provision of this schedule.
 (7) This clause is subject to clauses 49 to 53.
 
+**Further injury**
+
 ### 48 Effect of further injury on entitlement to weekly compensation
 (1) This clause applies to a claimant who—
   (a) is already entitled to receive weekly compensation; and
   (b) suffers incapacity from a further personal injury for which the claimant has cover under this Act.
 (2) If it is necessary to recalculate the claimant's entitlement to weekly compensation, the claimant's entitlement to weekly compensation in respect of incapacity from both personal injuries is calculated using the weekly earnings assessed when calculating the weekly compensation referred to in subclause (1)(a).
 (3) Subclause (2) does not apply to any subsequent periods of incapacity.
+
+**Abatement**
 
 ### 49 Earnings definitions for purposes of clause 51
 (1)
@@ -4895,6 +4927,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3)
 (4) The amount of a claimant's weekly earnings under subclause (2) must be adjusted in the manner provided in section 115.
 
+**Effect of New Zealand superannuation**
+
 ### 52 Relationship between weekly compensation and New Zealand superannuation
 (1) Subclause (2) applies to a claimant who—
   (a) first becomes entitled to weekly compensation before reaching New Zealand superannuation qualification age; and
@@ -4917,6 +4951,8 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) within 1 month before the date on which the election would take effect; or
   (b) within 1 month after the claimant has been notified of the amount of the weekly compensation by the Corporation, the reviewer, or a District Court, whichever is applicable in the claimant's case.
 (2) The Corporation may allow a claimant to exercise or revoke an election under clause 52(5) or (8) after the period specified in subclause (1) has ended, but only if the Corporation is satisfied that the claimant's circumstances have changed significantly since the end of the period.
+
+### Part  — Lump sum compensation for permanent impairment
 
 ### 54 Lump sum compensation for permanent impairment
 (1) The Corporation is liable to pay the claimant lump sum compensation in accordance with this schedule, if—
@@ -4943,7 +4979,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 (2) However, a determination under subclause (1) is required only if the person—
   (a) suffered a personal injury caused by a work-related gradual process, disease, or infection in the circumstances described in section 30(2); and
   (b) last performed the task or was employed in the environment in those circumstances before 1 April 2002; and
-  (c) suffered the personal injury on or after the date on which section 33 of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008came into force.
+  (c) suffered the personal injury on or after the date on which section 33 of the Injury Prevention, Rehabilitation, and Compensation Amendment Act 2008 came into force.
 (3) The Corporation must, after complying with subclause (1),—
   (a) make a decision (which, to avoid doubt, is to be treated as a single decision) as to whether the person has, for the purposes of an election under subclause (4), an entitlement to both lump sum compensation and an independence allowance; and
   (b) notify the person of its decision, in accordance with section 64, and include with that notification information about—
@@ -5061,6 +5097,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 
 ### 62 Payment of entitlement to lump sum compensation to deceased claimant's estate
 If a claimant dies after the completion of the assessment of the degree of permanent impairment but before payment of the lump sum, the Corporation is liable to pay the lump sum to the deceased claimant's estate.
+
+### Part  — Entitlements arising from fatal injuries
 
 ### 63 Child not born at date of claimant's death
 For the purposes of this Part, any child of the claimant who is born within 12 months after the claimant's death is deemed to be—
@@ -5183,6 +5221,8 @@ For the purposes of this Part, any child of the claimant who is born within 12 m
   (b) is the spouse or partner or a dependant of the claimant at the date of the claimant's death as a result of personal injury for which he or she has cover.
 (2) Subclause (1) is subject to subclause (3).
 (3) The Corporation is not liable under subclause (1) if the Corporation decides, on reasonable grounds, that the main purpose of the person in becoming a spouse or partner or dependant was to qualify for entitlements.
+
+**Child care payments**
 
 ### 76 Child care payments for children of deceased claimant
 (1) The Corporation is liable to pay a child of a deceased claimant a payment for child care on receiving a written application for it by or on behalf of the child.
@@ -5368,7 +5408,7 @@ Vitiligo diagnosed as caused by para-tertiary-butylphenol, para-tertiary-butylca
 Subject to this schedule, the PAYE rules of the Income Tax Act 2007 (the PAYE rules) apply, with all necessary modifications, with respect to—and every employer, PAYE intermediary, and employee must comply with the requirements of the PAYE rules, to the extent to which the PAYE rules apply by virtue of this schedule.
   (a) any amount included in the earnings as an employee of an employer as if such amount were a PAYE income payment (or, as the case may require, salary or wages under section RD 5 of the Income Tax Act 2007) of the employee for the purposes of the PAYE rules; and
   (b) the levy payable by any employee under this Act as if such levy were income tax; and
-  (c) the deduction required to be made under section 221 as if such deduction were an amount of tax, amount of tax is—
+  (c) the deduction required to be made under section 221 as if such deduction were an amount of tax, which amount is—
     (i) on account of income tax; and
     (ii) made or required to be made for the purposes of the PAYE rules; and
   (d) any employer under this Act as if such employer were an employer for the purposes of the PAYE rules; and
@@ -5543,52 +5583,6 @@ Despite section 73(1)(d) of the Crown Entities Act 2004, the Corporation need no
 
 ## Schedule 6 — Consequential amendments
 
-### 59A Special considerations if insurer under Part 10 of Injury Prevention, Rehabilitation, and Compensation Act 2001 is subject to statutory management
-A statutory manager of an insurer to whom Part 10 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 applies must not—
-  (a) exercise any power conferred by this Part if to do so would prejudice the need to ensure that arrangements are in place to ensure that the obligations of the insurer to provide statutory entitlements under that Act are met without interruption; or
-  (b) enter into a contract of sale under this Part unless another insurer or the Accident Compensation Corporation is liable to provide those statutory entitlements under Part 10.
-
-### 75A Accident compensation levies are additional to excise duty on motor spirits
-Any amount of levy payable under section 214 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 that is to be collected with excise duty on any motor spirits is in addition to, and is not included in, the amount of excise duty on those motor spirits.
-
-### 59 Funding
-(1) In this section,—
-  - **the applicable Act** means the Injury Prevention, Rehabilitation, and Compensation Act 2001
-  - **earner** , , , and have the same meanings as in section 6 of the applicable Act
-  - **funding levy** means the levy required to be paid by subsection (2)
-  - **Residual Claims levy** means the levy payable under section 193 of the applicable Act.
-(2) For the purpose of recovering the expected cost to the Crown of the administration of this Act, there is payable—
-  (a) by every employer, on the amount of earnings paid or deemed to have been paid by the employer to the employer's employees, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
-  (b) by every earner who has earnings as a self-employed person, on the amount of earnings as a self-employed person derived or deemed to have been derived by the earner, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
-  (c) by every shareholder-employee to whom section OB 2(2) of the Income Tax Act 1994 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
-(3) The funding levy must be added to, and is deemed part of, the Residual Claims levy; and—
-  (a) the funding levy is payable, collected, and remitted, and penalties are payable in respect of it, as if it were the Residual Claims levy; and
-  (b) the Corporation and the Commissioner of Inland Revenue have all the powers in respect of the funding levy that they have in respect of the Residual Claims levy; and
-  (c) the Commissioner of Inland Revenue is not required to refer separately to or account separately for, or identify, any funding levy in performing his or her functions in relation to the Residual Claims levy or the funding levy.
-(4) The Corporation must, by the 20th day of the month after the month in which the Corporation receives any funding levy from the Commissioner of Inland Revenue, pay that funding levy to the Secretary.
-(5) The Corporation may charge the Secretary a fee for collecting the funding levy.
-(6) The Secretary must pay into the Crown Bank Account all of the funding levy the Corporation pays to the Secretary.
-(7) The Minister must not recommend the making of regulations for the purposes of subsection (2) without first consulting the Corporation.
-(8) Subsection (7) does not limit the generality of section 21(2) of this Act.
-
-| Injury Prevention, Rehabilitation, and Compensation Act 2001 | Sections 246, 280, and 281 |
-| --- | --- |
-| Accident Insurance Act 1998 | Sections 370 and 371 (as saved by section 343 of the Injury Prevention, Rehabilitation, and Compensation Act 2001) |
-
 ## Schedule 7 — Consequential tax amendments
-
-### 85E Disclosure of information for assessment of levies
-(1) The purpose of this section is to facilitate the exchange of information between the Inland Revenue Department and the Accident Compensation Corporation for the purpose of establishing an information matching programme to enable the Corporation to assess levies for employers, self-employed persons, private domestic workers, and shareholder-employees in accordance with the Injury Prevention, Rehabilitation, and Compensation Act 2001.
-(2) For the purposes of subsection (1), for the year commencing on 1 April 2002 and every subsequent year, on request from the chief executive of the Corporation, the Commissioner may, at any time, supply to any authorised officer of the Corporation all of the following information that is held by the Department:
-  (a) the names, addresses, and ACC file numbers for employers, self-employed persons, private domestic workers, and shareholder-employees:
-  (b) the time at which an employer or a private domestic worker became or ceased to become an employer or a private domestic worker:
-  (c) the time at which a self-employed person commenced or ceased business:
-  (d) the total amount paid in any year by an employer or a private domestic worker as earnings as an employee:
-  (e) in the case of a self-employed person, the earnings as a self-employed person:
-  (f) in the case of a shareholder-employee, the earnings as a shareholder-employee.
-(3) In this section,—
-  - **earnings as an employee** , , , and have the meanings given to them by section 6 of the Injury Prevention, Compensation, and Rehabilitation Act 2001
-  - **earnings as a self-employed person** has the meaning given to it by section 6 of the Injury Prevention, Compensation, and Rehabilitation Act 2001
-  - **earnings as a shareholder-employee** has the meaning given to it by section 15 of the Injury Prevention, Compensation, and Rehabilitation Act 2001.
 
 ## Schedule 8 — Orders and regulations revoked
