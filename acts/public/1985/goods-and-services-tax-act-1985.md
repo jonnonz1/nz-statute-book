@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2009-10-06_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -46,10 +46,7 @@ _Consolidation as at 2009-04-01_
   - **Donated goods and services** means goods and services which are gifted to a non-profit body and are intended for use in the carrying on or carrying out of the purposes of that non-profit body
   - **Due date** , in relation to the payment of tax by a registered person, means the last day for payment determined by either section 19C(1) or 23(1) for that registered person
   - **Dwelling** means any building, premises, structure, or other place, or any part thereof, used predominantly as a place of residence or abode of any individual, together with any appurtenances belonging thereto and enjoyed with it; but does not include a commercial dwelling
-  - **emissions unit** means—
-    (a) a New Zealand unit:
-    (b) a Kyoto unit as defined in section 4(1) of the Climate Change Response Act 2002:
-    (c) an approved overseas unit as defined in section 4(1) of the Climate Change Response Act 2002
+  - **emissions unit** means a unit as defined in section 4(1) of the Climate Change Response Act 2002
   - **Exempt supply** means a supply that is exempt from tax pursuant to section 14 of this Act
   - **Fine metal** means—
     (a) Gold, in any form, being gold of a fineness of not less than 99.5 percent:
@@ -86,6 +83,7 @@ _Consolidation as at 2009-04-01_
       (vi) the Otago Museum Trust Board continued in existence by section 5(1) of the Otago Museum Trust Board Act 1996:
       (vii) the Auckland Regional Transport Authority established by section 7 of the Local Government (Auckland) Amendment Act 2004:
       (viii) Auckland Regional Holdings established by section 18 of the Local Government (Auckland) Amendment Act 2004
+  - **loyalty programme** means a consumer incentive scheme under which a customer can obtain loyalty points that are redeemable for goods or services
   - **Member** includes a partner, a joint venturer, a trustee, or a member of an unincorporated body
   - **Money** includes—whether of New Zealand or any other country, but does not include a collector's piece, investment article, or item of numismatic interest
     (a) Bank notes and other currency, being any negotiable instruments used or circulated, or intended for use or circulation, as currency; and
@@ -96,7 +94,6 @@ _Consolidation as at 2009-04-01_
     (b) Any trading name subsequently notified to the Commissioner under section 53(2) of this Act as the name the registered person wishes to use for the purpose of issuing or creating tax invoices and credit or debit notes under this Act:
   - **New fine metal** means any fine metal which has been refined into fine metal by a refiner of fine metal
   - **New Zealand** means New Zealand as defined in section YA 1 of the Income Tax Act 2007
-  - **New Zealand unit** means a New Zealand unit as defined in section 4(1) of the Climate Change Response Act 2002
   - **Non-profit body** means any society, association, or organisation, whether incorporated or not,—
     (a) Which is carried on other than for the purposes of profit or gain to any proprietor, member, or shareholder; and
     (b) Which is, by the terms of its constitution, rules, or other document constituting or governing the activities of that society, association, or organisation, prohibited from making any distribution whether by way of money, property, or otherwise howsoever, to any such proprietor, member, or shareholder:
@@ -112,7 +109,7 @@ _Consolidation as at 2009-04-01_
   - **Penal tax**
   - **Person** includes a company, an unincorporated body of persons, a public authority, and a local authority
   - **provisional tax** means provisional tax as defined in section YA 1 of the Income Tax Act 2007
-  - **Public authority** means all instruments of the Crown in respect of the Government of New Zealand, whether departments, Crown entities, State enterprises, or other instruments; and includes offices of Parliament; but does not include the Governor-General, members of the Executive Council, Ministers of the Crown, or members of Parliament
+  - **Public authority** means all instruments of the Crown in respect of the Government of New Zealand, whether departments, Crown entities, State enterprises, or other instruments; and includes offices of Parliament, the Parliamentary Service, and the Office of the Clerk of the House of Representatives; but does not include the Governor-General, members of the Executive Council, Ministers of the Crown, or members of Parliament
   - **Recipient** , in relation to any supply of goods and services, means the person receiving the supply
   - **Refiner of fine metal** means any person who satisfies the Commissioner that, in the regular course of business, that person converts or refines any fine metal:
   - **Registered person** means a person who is registered or is liable to be registered under this Act
@@ -375,7 +372,7 @@ _Consolidation as at 2009-04-01_
 (13B) For the purposes of this Act, where—the amount recovered is deemed to be consideration received for a supply of services performed in the course of that insurer's taxable activity, and a supply of services is deemed to be performed on the day of the insurer's receipt of the amount.
   (a) An insurer recovers an amount (other than aggravated or exemplary damages) as a result of the exercise of rights acquired by subrogation under a contract of insurance; and
   (b) a deduction under section 20(3)(d) has been allowed to the insurer for the payment to which the recovered amount relates—
-(14) If a supply is charged with tax under section 8, but section 11, 11A, 11AB or 11B requires part of the supply to be charged at the rate of 0%, that part of the supply is treated as being a separate supply.
+(14) If a supply is charged with a tax under section 8, but section 11, 11A, 11AB, 11B, or 11C requires part of the supply to be charged at the rate of 0%, that part of the supply is treated as being a separate supply.
 (14B) If part of a supply of an equity security or participatory security is the supply of a right to receive supplies of goods and services that are not exempt supplies, the supply of the right is treated as being a supply of goods and services made for a consideration.
 (15) Where a dwelling is included in a supply, the supply of that dwelling is deemed to be a separate supply from the supply of any other real property included in the supply.
 (16) Where a registered person has claimed a deduction in accordance with section 20(3) of this Act in respect of the supply of a dwelling, any subsequent supply by the registered person of—will, for the avoidance of doubt but subject to subsections (17), (18), and (19)(b) of this section, be deemed to be a taxable supply.
@@ -390,7 +387,7 @@ _Consolidation as at 2009-04-01_
 (21) If goods and services are provided under warranty, the supply of the goods and services is treated as a supply of services for the purpose of section 11A(1)(ma).
 
 ### 5B Supply of certain imported services
-For the purpose of the definition of output tax and sections 8(1), 15, 15A, 19A, 20(4), 20B, 25AA, 51, 52, 57, 75, 76(6), 78B, 78BA and 78C, a supply of services that is treated by section 8(4B) as being made in New Zealand is treated as being made by the recipient of the supply in the course or furtherance of a taxable activity carried on by the recipient.
+For the purpose of the definition of output tax and sections 8(1), 15A to 15E, 19A, 20(4), 20B, 25AA, 51, 52, 57, 75, 76(6), 78B, 78BA and 78C, a supply of services that is treated by section 8(4B) as being made in New Zealand is treated as being made by the recipient of the supply in the course or furtherance of a taxable activity carried on by the recipient.
 
 ### 6 Meaning of term taxable activity
 (1) For the purposes of this Act, the term taxable activity means—
@@ -480,6 +477,10 @@ This Act shall bind the Crown.
   (a) the date on which an instalment notice is issued if the instalment notice requires payment of an instalment by a particular date:
   (b) the date on which payment is required by the instalment notice:
   (c) the date on which payment is received
+(9) Despite subsection (1), an operator of a loyalty programme who meets the requirements of section 11C may treat a supply of services in a loyalty transaction as taking place at the time at which the loyalty points are redeemed for reward. But this subsection does not apply to a token, stamp, or voucher to which section 5(11D) to (11H) applies.
+(10) For the purposes of subsection (9), in a case where the operator is not resident in New Zealand but the supply of services is treated under section 8(4B) as made in New Zealand, the purchaser referred to in section 11C may treat the supply as taking place at the time at which the loyalty points are redeemed for reward if—
+  (a) the operator meets the first and second requirements set out in section 11C; and
+  (b) the purchaser meets the third requirement imposed on the operator under section 11C.
 
 ### 10 Value of supply of goods and services
 (1) For the purposes of this Act the following provisions of this section shall apply for determining the value of any supply of goods and services.
@@ -514,7 +515,7 @@ This Act shall bind the Crown.
     (i) the branch or division were entitled to deductions under the Income Tax Act 2007:
     (ii) the branch or division had given any consideration for the supply.
 (3E) The value of a supply of services that is treated by section 8(4B) as being made in New Zealand is the amount that, before the addition of the tax charged, is equal to the amount of the consideration for the supply.
-(4) Where any supply of goods is a supply which would, but for section 11(3), be charged with tax at the rate of zero percent, the consideration in money for that supply shall be deemed to be an amount equal to the purchase price of those goods to the supplier:
+(4) Where any supply of goods is a supply which would, but for section 11(3) or (3C), be charged with tax at the rate of zero percent, the consideration in money for that supply shall be deemed to be an amount equal to the purchase price of those goods to the supplier:
   Provided that in any case where the deduction of input tax referred to in that proviso has been made by any other person (where that supplier and that other person are associated persons), the consideration in money for that supply shall be deemed to be an amount equal to the purchase price of those goods to that other person:
   Provided further that for the purposes of this subsection, the purchase price of any goods shall not be reduced by any amount of input tax deducted by the supplier or, as the case may be, any other person where the supplier and that other person are associated persons, pursuant to section 20(3) of this Act.
 (5) Despite subsection (2), if a supply of goods and services is made under a credit contract, the consideration in money for the supply is treated as being the higher of the cash price of the goods and services and the price the supplier would have charged the purchaser if the purchaser had paid in full at the time the credit contract was entered into.
@@ -610,6 +611,15 @@ This Act shall bind the Crown.
 (3) Subsection (1)(a) to (1)(l) do not apply to a supply of goods by a registered person if—
   (a) the registered person, or another person associated with the registered person, has deducted, under section 20(3), input tax as defined in section 3A(1)(c) in respect of the goods; or
   (b) the goods have been or will be reimported into New Zealand by the supplier.
+(3B) Subsection (3)(a) does not apply to a supply of goods if the recipient gives the registered person at or before the time of the supply an undertaking in writing that neither the recipient nor an associated person will cause the goods to be reimported into New Zealand in a condition that is substantially the same as the condition the goods were in when the supply was charged with tax under subsection (1)(a) to (1)(l).
+(3C) Despite subsection (3B), a registered person is treated as having supplied goods in the course or furtherance of a taxable activity and must be charged with tax at the rate specified in section 8 if—
+  (a) the supply of the goods by the registered person was charged with tax under subsection (1)(a) to (l); and
+  (b) the goods are imported into New Zealand; and
+  (c) the goods are reacquired by the registered person in substantially the same condition as the condition the goods were in when the supply was charged with tax under subsection (1)(a) to (l); and
+  (d) the registered person deducted under section 20(3) input tax as defined in section 3A(1)(c) in relation to the original supply of the goods under subsection (1)(a) to (l).
+(3D) Subsection (3C)—
+  (a) applies at the time the goods are reacquired by the registered person:
+  (b) does not apply if tax is paid under section 12 on the importation of the goods into New Zealand.
 (4) If subsection (1)(d), (e), or (eb) applies and the person required to export the goods does not do so within 28 days beginning on the day of the time of supply or a longer period that the Commissioner has allowed under subsection (5), the supply of the goods must be charged with tax at the rate specified in section 8 despite subsection (1)(d), (e), and (eb) but subject to subsection (1)(a), (1)(b) and subsection (5).
 (5) The Commissioner may extend the 28-day period before a supply of goods is charged with tax at the rate specified in section 8 if the Commissioner has determined, after the supplier has applied in writing, that—
   (a) circumstances beyond the control of the supplier and the recipient have prevented, or will prevent, the export of the goods within 28 days beginning on the day of the time of supply; or
@@ -684,10 +694,13 @@ This Act shall bind the Crown.
       (A) a 12-month period that includes the taxable period; or
       (B) a period acceptable to the Commissioner; and
     (ii) not less than 75% of the total value of the supplies referred to in subparagraph (i) consists of taxable supplies that are not charged with tax at the rate of 0% under this paragraph or under paragraph (q); or
-  (s) the services are a New Zealand unit, and the supply is the transfer of the emissions unit under section 64 of the Climate Change Response Act 2002 or under Part 4, subpart 2 of that Act; or
+  (s) the services are an emissions unit and the supply is the transfer of the emissions unit under—
+    (i) section 64 of the Climate Change Response Act 2002:
+    (ii) Part 4, subpart 2 of that Act:
+    (iii) a covenant entered under the Forests (Permanent Forest Sink) Regulations 2007; or
   (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under section 63 of the Climate Change Response Act 2002; or
   (u) the services are supplied as consideration for a supply that is chargeable at the rate of 0% under paragraph (s) or (t); or
-  (v) the services are an emissions unit, and the supply is the sale or other disposal of the emissions unit.
+  (v) the services are an emissions unit and the supply is a sale or other disposal of the emissions unit, other than a transfer of the emissions unit from the Crown without payment of a price.
 (1B) Subsection (1)(j) does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand unless the nature of the services is such that the services can be physically received at no time and place other than the time and place at which the services are physically performed.
 (2) Subsection (1)(k) and (1)(l) do not apply to a supply of services under an agreement that is entered into, whether directly or indirectly, with a person (person A) who is a non-resident if—
   (a) the performance of the services is, or it is reasonably foreseeable at the time the agreement is entered into that the performance of the services will be, received in New Zealand by another person (person B), including—
@@ -715,6 +728,20 @@ A supply of services that is chargeable with tax under section 8 must be charged
 (2) For the purpose of subsection (1)—
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
   - **local authorities petroleum tax** is local authorities petroleum tax levied in accordance with Part 11 of the Local Government Act 1974.
+
+### 11C Treatment of supplies by operators of loyalty programmes
+(1) This section applies when an operator of a loyalty programme makes a supply of services by entering into an arrangement (a loyalty transaction) with another person (the purchaser) through which the operator receives consideration for providing loyalty points to a third person as directed by the purchaser.
+(2) The operator may defer the time of the supply of the services under section 9(9) to the time at which loyalty points are redeemed for reward if they meet the requirements of subsections (3) to (5).
+(3) The first requirement is that 25% or more of the operator's taxable supplies must be zero-rated supplies of goods or services. The 25% threshold—
+  (a) may be met by including the taxable activity of an associated person:
+  (b) must be met for the 12-month period that ends with the month in which the supply of services under the loyalty transaction is made, and the operator must have reasonable grounds for believing the threshold will be met for the 12-month period that begins with the month in which that supply of services is made.
+(4) The second requirement is that —
+  (a) the operator or an associated person must make supplies of goods or services in a business activity (the main business activity) that is an activity other than a business of operating a loyalty programme; and
+  (b) the loyalty points supplied by the operator must only be able to be redeemed for reward as part of the main business activity.
+(5) The third requirement is that when the loyalty points are redeemed, the operator must be able to identify whether—
+  (a) tax under section 8 has been imposed on the supply of the loyalty points:
+  (b) the time of supply has been deferred under section 9(9).
+(6) If the operator has a partner in an associated loyalty programme, the second requirement is still treated as met if, in addition to those requirements, loyalty points supplied by the operator are able to be redeemed for reward by the partner.
 
 ### 12 Imposition of goods and services tax on imports
 (1) Notwithstanding anything in this Act, a tax to be known as goods and services tax shall be levied, collected, and paid in accordance with the provisions of this section at the rate of 12.5 percent on the importation of goods (not being fine metal) into New Zealand, being goods that are—by reference to the value of the goods as determined under subsection (2) of this section.
@@ -1197,7 +1224,7 @@ Despite section 21(1), a registered person is not treated as supplying goods and
   (b) the time of the supply is treated as being the earlier of—
     (i) the date on which the person furnishes a return of income under section 37 of the Tax Administration Act 1994 for the tax year for which the deduction is allowed; and
     (ii) the date by which the person must furnish a return of income under section 37 of the Tax Administration Act 1994 for the tax year for which the deduction is allowed.
-(5) For the purpose of subsection (4), expenditure does not include an entertainment allowance to an employee or a reimbursing payment that is exempt income under section CW 17 or CW 18 of the Income Tax Act 2007.
+(5) For the purpose of subsection (4), expenditure does not include an entertainment allowance to an employee or a reimbursing payment that is exempt income under section CW 17, CW 17B, CW 17C, or CW 18 of the Income Tax Act 2007.
 
 ### 22 Goods and services acquired before incorporation
 Any company, being a registered person, shall, where any amount of tax has been charged or levied pursuant to section 8(1) or section 12(1) of this Act in relation to the acquisition of goods and services for or on behalf of that company or in connection with the incorporation of that company, and where those goods and services were acquired prior to incorporation by a person who—be deemed to be the recipient of the goods and services and to have paid any tax charged or levied pursuant to section 8(1) or section 12(1) of this Act as if the supply or the payment of the tax had been made during the taxable period in which the reimbursement referred to in paragraph (a) of this section is made:
