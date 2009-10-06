@@ -1,5 +1,5 @@
 # Estate and Gift Duties Act 1968
-_Consolidation as at 2008-07-01_
+_Consolidation as at 2009-10-06_
 
 > An Act to consolidate and amend the law relating to estate duty and gift duty
 
@@ -18,7 +18,6 @@ _Consolidation as at 2008-07-01_
   - **Debt** includes any pecuniary liability, charge, or encumbrance
   - **Deceased person** or
   - **Deceased serviceman**
-  - **Dutiable gift** means a dutiable gift within the meaning of section 63 of this Act
   - **Emergency force**
   - **Foreign assets**
   - **General power of appointment**
@@ -56,6 +55,18 @@ _Consolidation as at 2008-07-01_
     (c) Any trust, society, or institution which receives a gift—
   - **Donor** means the maker of a gift; and includes a body corporate and, unless the context otherwise requires, the administrator of a deceased donor
   - **Dutiable estate**
+  - **dutiable gift** means a dutiable gift within the meaning of section 63 of this Act
+  - **general power of appointment** includes—
+    (a) any power or authority created on or before the 31st day of March 1967 that—
+      (i) is conferred by the will of any person dying on or before that date, or is conferred by any settlement inter vivos executed on or before that date, or is created in any other manner on or before that date; and
+      (ii) enables, or would enable if the holder were of full capacity, the holder of the power or authority to appoint or dispose of any property, or to charge any sum of money upon any property, as the holder thinks fit for the holder's own benefit; and
+      (iii) is exercisable by instrument inter vivos or by will; and
+      (iv) is not a power or authority exercisable by a person in a fiduciary capacity under a disposition not made by the person, or exercisable by a mortgagee:
+    (b) any power or authority created on or after the 1st day of April 1967 that—
+      (i) is conferred by the will of any person dying on or after that date, or is conferred by any settlement inter vivos executed on or after that date, or is created in any other manner on or after that date; and
+      (ii) enables, or would enable if the holder were of full capacity, the holder of the power or authority to obtain or appoint or dispose of any property, or to charge any sum of money upon any property, as the holder thinks fit for the holder's own benefit; and
+      (iii) is exercisable orally or by instrument inter vivos or by will or otherwise; and
+      (iv) is not a power or authority exercisable by a person in a fiduciary capacity under a disposition not made by the person, or exercisable by a mortgagee
   - **Final balance**
   - **Gift** means any disposition of property, wherever and howsoever made, otherwise than by will, without fully adequate consideration in money or money's worth passing to the person making the disposition
     Provided that where the consideration in money or money's worth is inadequate, the disposition shall be deemed to be a gift to the extent of that inadequacy only:
