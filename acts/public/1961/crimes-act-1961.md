@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-10-17_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -2293,6 +2293,7 @@ Every one who is guilty of obtaining by deception or causing loss by deception i
 It is a defence to a charge under section 243 if the person charged proves that the act to which the charge relates was done by that person, in good faith, for the purpose of, or in connection with,—
   (a) the enforcement or intended enforcement of this section, any other provision of this Act, or any other enactment relating to a serious offence; or
   (b) the enforcement or intended enforcement of the Proceeds of Crime Act 1991; or
+  (ba) the enforcement or intended enforcement of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
   (c) the enforcement or intended enforcement of the Financial Transactions Reporting Act 1996.
 
 ### 245 Section 243 not to apply to certain acts committed outside New Zealand
