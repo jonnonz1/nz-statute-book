@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-10-17_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -336,6 +336,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (6) It is a defence to a charge under this section if the act to which the charge relates was done by that person, in good faith, for the purpose of or in connection with—
   (a) the enforcement or intended enforcement of this section or any other provision of this Act or any other enactment relating to a specified drug offence or any other serious offence; or
   (b) the enforcement or intended enforcement of the Proceeds of Crime Act 1991; or
+  (ba) the enforcement or intended enforcement of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
   (c) the enforcement or intended enforcement of the Financial Transactions Reporting Act 1996.
 (7) Subject to subsection (8), this section does not apply if—
   (a) any property is alleged to be the proceeds of a serious offence; and
