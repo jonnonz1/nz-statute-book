@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2009-09-01_
+_Consolidation as at 2009-10-17_
 
 > Title [Repealed]
 
@@ -290,7 +290,7 @@ The Bank shall, from time to time, advise the Minister on—
 
 ### 28 Defacing bank notes
 (1) No person shall, without the prior consent of the Bank, wilfully deface, disfigure, or mutilate any bank note.
-(2) No person who is a party to the defacement, disfigurement, or mutilation of any bank note, shall— that bank note.
+(2) No person who is a party to the defacement, disfigurement, or mutilation of any bank note, shall—that bank note.
   (a) pay away; or
   (b) part with; or
   (c) put in circulation; or
@@ -305,11 +305,11 @@ The Bank shall, from time to time, advise the Minister on—
   (b) in the case of a body corporate, to a fine not exceeding $300,000.
 
 ### 30 Reproduction or imitation of currency
-(1) No person shall, without the prior consent of the Bank,— any article or thing resembling a bank note or coin or so nearly resembling or having such a likeness to a bank note or coin as to be likely to be confused with or mistaken for it.
+(1) No person shall, without the prior consent of the Bank,—any article or thing resembling a bank note or coin or so nearly resembling or having such a likeness to a bank note or coin as to be likely to be confused with or mistaken for it.
   (a) make, design, engrave, print, or reproduce; or
   (b) use, issue, or publish—
 (2) Every person who contravenes subsection (1) commits an offence against this Act.
-(3) Where a person is convicted of an offence against subsection (2), the court may order— in the possession of that person to be destroyed.
+(3) Where a person is convicted of an offence against subsection (2), the court may order—in the possession of that person to be destroyed.
   (a) the article or thing:
   (b) any copy of it:
   (c) any plates, blocks, dies, and other instruments used or capable of being used for printing or reproducing it—
@@ -373,8 +373,8 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
 (2) The Governor shall be the Chief Executive of the Bank.
 
 ### 41 Duties of Governor
-(1) It is the duty of the Governor to ensure that the Bank carries out the functions imposed on it by this Act.
-(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not by this Act required to be dealt with by the Board.
+(1) It is the duty of the Governor to ensure that the Bank carries out the functions imposed on it by this Act and the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
+(2) The Governor has the authority, in the performance of those functions, to act in relation to all matters that are not by this Act, or the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, required to be dealt with by the Board.
 
 ### 42 Conditions of employment of Governor
 (1) The Governor shall be appointed for a term of 5 years and may be reappointed for a further term or terms, each of up to 5 years.
@@ -413,10 +413,10 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
 
 ### 47 Incapacity of Governor and Deputy Chief Executive
 (1) In the case of the absence or incapacity of the Governor, the Deputy Chief Executive shall have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act.
-(2) In the case of the absence or incapacity of the Governor and the Deputy Chief Executive, the Minister shall, on the recommendation of the Board, appoint— to act as Governor.
+(2) In the case of the absence or incapacity of the Governor and the Deputy Chief Executive, the Minister shall, on the recommendation of the Board, appoint—to act as Governor.
   (a) a director of the Bank; or
   (b) an officer of the Bank—
-(3) If the Minister is unable to make an appointment under subsection (2) by reason of the fact that, in the circumstances, it is impracticable for a meeting of the Board to be held, the Minister shall appoint— to act as Governor for a period not exceeding 28 days.
+(3) If the Minister is unable to make an appointment under subsection (2) by reason of the fact that, in the circumstances, it is impracticable for a meeting of the Board to be held, the Minister shall appoint—to act as Governor for a period not exceeding 28 days.
   (a) a director of the Bank; or
   (b) an officer of the Bank—
 (4) The person appointed to act as Governor shall, so long as the appointment continues, have all the duties, responsibilities, and functions of the Governor under this Act and may exercise all the powers of the Governor under this Act.
@@ -425,7 +425,7 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
   (b) a person appointed to act as Governor, but who is not a director of the Bank.
 
 ### 48 Vacancy in office of Governor
-(1) If the office of Governor becomes vacant, the Minister shall, on the recommendation of the Board, appoint— to act as Governor for a period not exceeding 6 months or for the remainder of the Governor's term, whichever is less.
+(1) If the office of Governor becomes vacant, the Minister shall, on the recommendation of the Board, appoint—to act as Governor for a period not exceeding 6 months or for the remainder of the Governor's term, whichever is less.
   (a) a director of the Bank; or
   (b) an officer of the Bank; or
   (c) any other person—
@@ -471,10 +471,11 @@ Without limiting section 5 or any other provision of this Act, the Bank has powe
   (b) to any officer of the Bank.
 (3) The fact that the Deputy Chief Executive exercises any powers or functions of the Governor shall be conclusive proof of the authority to do so, and no person shall be concerned to inquire whether the occasion for doing so has arisen or has ceased.
 (4) A Deputy Governor who is not the Deputy Chief Executive and any officer of the Bank who purports to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
-(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act and not by delegation.
+(5) Subject to any general or special directions given or conditions attached by the Governor, any person to whom any powers or functions are delegated under this section may exercise them in the same manner and with the same effect as if they had been conferred directly by this Act or under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009, and not by delegation.
 (6) A delegation under this section may be revoked at any time.
 (7) A delegation of any power or function under this section shall not prevent the exercise of the power or function by the Governor.
 (8) Any such delegation, until it is revoked, shall continue in force according to its tenor, notwithstanding that the Governor who made it may have ceased to hold office.
+(9) To avoid doubt, the Governor's functions and powers include his or her functions and powers under the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
 
 **Board of directors**
 
@@ -492,7 +493,7 @@ There shall be a board of directors of the Bank.
   (d) determine whether policy statements made pursuant to section 15 are consistent with the Bank's primary function and the policy targets agreed to with the Minister under section 9 or section 12(7)(b):
   (e) keep under constant review the use of the Bank's resources.
 (2) The Board may give advice to the Governor on any matter relating to the performance of the Bank's functions and the exercise of its powers.
-(3) If the Board is satisfied— the Board shall advise the Minister in writing and may recommend to the Minister that the Governor be removed from office.
+(3) If the Board is satisfied—the Board shall advise the Minister in writing and may recommend to the Minister that the Governor be removed from office.
   (a) that the Bank is not adequately carrying out its functions; or
   (b) that the Governor has not adequately discharged the responsibilities of that office; or
   (c) that the performance of the Governor in ensuring that the Bank achieves the policy targets fixed under section 9 or section 12(7)(b) has been inadequate; or
@@ -1010,7 +1011,7 @@ The Bank shall publish the principles on which it acts, or proposes to act,—
 Nothing in section 77A invalidates any contract, or transfer of ownership, made without the written consent of the Bank.
 
 ### 78 Carrying on business in prudent manner
-(1) In— the Bank shall confine its consideration to the following matters:
+(1) In—the Bank shall confine its consideration to the following matters:
   (a) having regard, under section 73(2)(c), to the ability of an applicant for registration as a registered bank to carry on its business or proposed business in a prudent manner; or
   (b) determining under section 77(2)(f) or section 113(1)(e) that a registered bank has not carried on its business in a prudent manner,—
   (c) capital in relation to the size and nature of the business or proposed business:
@@ -1115,7 +1116,7 @@ Nothing in section 77A invalidates any contract, or transfer of ownership, made 
 (4) If the Bank exercises the power conferred by subsection (3), it must give notice in writing to the registered bank as soon as practicable.
 
 ### 83 Bank may require disclosure statement to be corrected
-Where the Bank considers that a disclosure statement published by a registered bank— the Bank may, by notice in writing to the registered bank, require the registered bank to—
+Where the Bank considers that a disclosure statement published by a registered bank—the Bank may, by notice in writing to the registered bank, require the registered bank to—
   (a) contains information that is false or misleading; or
   (b) does not contain information which it is required to contain, whether or not the information contained in the disclosure statement is false or misleading as a result of the omission,—
   (c) publish a disclosure statement that does not contain false or misleading information; or
@@ -1361,7 +1362,7 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
 
 ### 105 Confidentiality of information
 (1) This section applies to—
-  (a) information, data, and forecasts supplied or disclosed to, or obtained by,— under, or for the purposes of, or in connection with the exercise of powers conferred by, this Part:
+  (a) information, data, and forecasts supplied or disclosed to, or obtained by,—under, or for the purposes of, or in connection with the exercise of powers conferred by, this Part:
     (i) the Bank:
     (ii) a person appointed under section 99(2)(b), section 101, or section 119—
   (b) information and data derived from or based upon information, data, and forecasts referred to in paragraph (a):
@@ -1390,7 +1391,7 @@ Where the Bank is satisfied that it is necessary or desirable for the purpose of
 (8) Nothing in the Official Information Act 1982 or any other Act, other than this Act, applies to information, data, and forecasts to which this section applies whether or not such information, data, and forecasts has or have been published or disclosed to any person pursuant to this section.
 
 ### 106 Procedure for obtaining warrants
-(1) A Judge of the High Court who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing— may issue a warrant, in terms of section 107, to a person appointed pursuant to section 99(2)(b).
+(1) A Judge of the High Court who is satisfied, on application in writing made on oath, that there are reasonable grounds for believing—may issue a warrant, in terms of section 107, to a person appointed pursuant to section 99(2)(b).
   (aaa) that any information or data published in a disclosure statement by a registered bank under section 81 or section 83 is false or misleading in a material particular; or
   (aa) that a registered bank has failed to publish information that it is required to publish in a disclosure statement under section 81 or section 83; or
   (a) that any information or data supplied to the Bank by a registered bank pursuant to section 93 is false or misleading in a material particular; or
@@ -1519,7 +1520,7 @@ A direction given under section 113 may require a registered bank or an associat
 
 ### 117 Statutory management of registered banks and associated persons
 (1) The Governor-General may, from time to time, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank,—
-  (a) declare that— is subject to statutory management; and
+  (a) declare that—is subject to statutory management; and
     (i) any registered bank:
     (ii) any associated person of a registered bank—
   (b) appoint 1 or more persons as statutory manager or statutory managers of that registered bank or associated person for a specified period.
@@ -1622,7 +1623,7 @@ Subject to section 142, every statutory manager of a registered bank shall compl
 
 ### 125 Proof of vesting
 (1) No Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, shall be obliged solely by reason of section 123 to change the name of any body corporate or unincorporated body referred to in that section to that of any company formed and registered pursuant to that section in those books or registers or in any document.
-(2) The presentation to any Registrar or other person of any instrument, whether or not comprising an instrument of transfer, by the company— shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the company.
+(2) The presentation to any Registrar or other person of any instrument, whether or not comprising an instrument of transfer, by the company—shall, in the absence of evidence to the contrary, be sufficient proof that the property is vested in the company.
   (a) executed or purporting to be executed by the company; and
   (b) relating to any property held before the date specified in an Order in Council made pursuant to that section by that body corporate or unincorporated body; and
   (c) containing a recital that the property has become vested in the company, by virtue of the provisions of that section—
@@ -1670,19 +1671,19 @@ Subject to this Part, a statutory manager of a registered bank shall, for the pu
   (c) transfer to that body corporate the whole or any part of the business undertaking of the registered bank:
   (d) allot or issue all or any of the shares in that body corporate to any person, credited as fully or partly paid, as the case may be, up to the value of the business undertaking transferred to that body corporate:
   (e) sell all or any of the shares, or the whole or any part of the business undertaking, of that body corporate to such person and upon such terms and conditions as the statutory manager thinks fit.
-(3) The statutory manager shall not sell or otherwise dispose of— unless the statutory manager has consulted with the Bank and the Bank, with the consent of the Minister, has given approval in writing to the sale or other disposition and the terms and conditions of it.
+(3) The statutory manager shall not sell or otherwise dispose of—unless the statutory manager has consulted with the Bank and the Bank, with the consent of the Minister, has given approval in writing to the sale or other disposition and the terms and conditions of it.
   (a) the whole or any substantial part of the business undertaking of a registered bank pursuant to subsection (1):
   (b) any of the shares of any body corporate formed and registered pursuant to subsection (2)(a):
   (c) the whole or any substantial part of the business undertaking of any body corporate formed and registered pursuant to subsection (2)(a),—
 
 ### 133 Consents not required under other Acts
-The provisions of any enactment or agreement requiring any consent, licence, permission, clearance or other authority shall not have any application in respect of— being a sale or disposition to which the Bank has, with the consent of the Minister, given its approval under section 132(3).
+The provisions of any enactment or agreement requiring any consent, licence, permission, clearance or other authority shall not have any application in respect of—being a sale or disposition to which the Bank has, with the consent of the Minister, given its approval under section 132(3).
   (a) the sale or other disposition of the whole or any part of the business undertaking of a registered bank pursuant to section 132(1):
   (b) the sale or other disposition pursuant to section 132(2)(e) of any of the shares of any body corporate formed and registered pursuant to subsection (2)(a) of that section:
   (c) the sale or other disposition pursuant to section 132(2)(e) of the whole or any part of the business undertaking of that body corporate—
 
 ### 134 Sale of property or assets subject to a security
-(1) A statutory manager may— notwithstanding the existence, or the terms and conditions, of any security over the property or those assets in favour of any other person.
+(1) A statutory manager may—notwithstanding the existence, or the terms and conditions, of any security over the property or those assets in favour of any other person.
   (a) sell or otherwise dispose of any property or assets of a registered bank pursuant to section 132(1); or
   (b) sell or otherwise dispose of any property or assets of a registered bank to any body corporate formed and registered pursuant to section 132(2)(a); or
   (c) sell or otherwise dispose of any shares, or property or assets, of a body corporate formed and registered pursuant to section 132(2)(a)—
@@ -1697,7 +1698,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (7) In this section, account receivable, inventory, new value, purchase money security interest, proceeds, and security interest have the same meanings as in the Personal Property Securities Act 1999.
 
 ### 135 Proof of transactions
-(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)(a)— shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
+(1) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers, of any instrument transferring or otherwise disposing of any property or assets of a registered bank or any shares in, or property or assets of, any company incorporated pursuant to section 132(2)(a)—shall, in the absence of evidence to the contrary, be sufficient proof that the transfer or other disposition is made under the authority of that section.
   (a) executed or purporting to be executed by or on behalf of the registered bank or company; and
   (b) containing a recital that the transfer or other disposition of the property or assets of the registered bank, or the shares in, or property or assets of, the company, is made pursuant to section 132—
 (2) The presentation to any Registrar of Deeds, or District Land Registrar, or any other person charged with the keeping of any books or registers of a certificate signed by the statutory manager that the amount secured by a charge over any property or assets of a registered bank or any company formed and registered pursuant to section 132(2)(a) has been paid shall, in the absence of evidence to the contrary, be sufficient proof that the amount secured by the charge has been repaid.
@@ -1719,7 +1720,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (2) Where all or any part of any liability of a body corporate formed and registered under section 123(1), or all or any part of any liability relating to the business carried on by a branch of any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand, is included in such a sale or other disposition, nothing in subsection (1)(a) shall relieve any body corporate incorporated outside New Zealand or, as the case may be, any unincorporated body having its head office or principal place of business outside New Zealand from any obligation in respect of that liability.
 
 ### 138 Power to trace property improperly disposed of
-(1) In any case where, whether before or after the passing of this Act,— the court may, if it thinks fit, make an order—
+(1) In any case where, whether before or after the passing of this Act,—the court may, if it thinks fit, make an order—
   (a) any property has been acquired by a person in circumstances which cause it to be just and equitable that that person should hold it upon trust for any registered bank that has been declared to be subject to statutory management; or
   (b) any property has been improperly disposed of, whether or not the property has become subject to a trust,—
   (c) that the property be transferred or delivered to the statutory manager:
@@ -1775,7 +1776,7 @@ The provisions of any enactment or agreement requiring any consent, licence, per
 (2) If a person to whom this section applies is restored to the New Zealand register under section 328 of the Companies Act 1993, the person continues to be subject to statutory management from the date that person is so restored.
 
 ### 144 Termination of statutory management
-(1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, declare that— subject to statutory management, shall cease to be subject to statutory management.
+(1) The Governor-General may, by Order in Council, on the advice of the Minister given in accordance with a recommendation of the Bank, declare that—subject to statutory management, shall cease to be subject to statutory management.
   (a) any registered bank:
   (b) any associated person of a registered bank:
   (c) any subsidiary of a registered bank,—
@@ -1829,7 +1830,7 @@ Except as otherwise provided in this Part, no registered bank, associated person
 ### 152 Regulations relating to powers of Bank and statutory manager
 (1) The Governor-General may, from time to time, by Order in Council, make regulations under section 173 conferring on the Bank, or a statutory manager of a registered bank, ancillary or additional powers necessary or desirable for the purposes of this Part.
 (2) The regulations shall be laid before the House of Representatives within 12 sitting days after the date on which they are made if the House of Representatives is then in session, and, if not, shall be laid before the House of Representatives within 12 days after the commencement of the next ensuing session.
-(3) Regulations laid before the House of Representatives in any session pursuant to subsection (2) shall expire on the close of the earlier of— unless the regulations are expressly validated or confirmed by an Act of Parliament passed before they expire.
+(3) Regulations laid before the House of Representatives in any session pursuant to subsection (2) shall expire on the close of the earlier of—unless the regulations are expressly validated or confirmed by an Act of Parliament passed before they expire.
   (a) the end of the session in which the regulations are made:
   (b) the end of the calendar year following the year in which the regulations were made—
 (4) Unless otherwise provided, the repeal of any Act passed pursuant to subsection (3) shall not, of itself, affect the validity of any regulations validated or confirmed by the Act repealed.
@@ -2963,7 +2964,7 @@ Despite section 14 of the Summary Proceedings Act 1957, an information for an of
 
 ### 178 Evidence
 (1) A copy of a resolution of the Bank certified by the Governor to be correct shall, in the absence of proof to the contrary, be sufficient evidence of the resolution in any proceedings.
-(2) A certificate signed by the Governor to the effect that— shall, in the absence of proof to the contrary, be sufficient evidence of the matters stated in it in any proceedings.
+(2) A certificate signed by the Governor to the effect that—shall, in the absence of proof to the contrary, be sufficient evidence of the matters stated in it in any proceedings.
   (a) any approval or consent required under any Act has or has not been given by the Bank, or is or is not for the time being in force; or
   (b) any document has been duly signed by, or on behalf of, the Bank or the Governor—
 (3) Any certificate purporting to have been signed by the Governor shall, in the absence of proof to the contrary, be deemed for all purposes to have been duly signed by the Governor.
@@ -3251,7 +3252,7 @@ A search warrant is executed when the person executing the warrant—
 (2) This Act shall come into force on 1 July 1994.
 
 ### 5 Transitional provisions
-Nothing in section 4 applies to or affects— and, in any such case, sections 308 (except subsection (1)(d)), 309 to 311C, and 319 to 321 of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply to the registered bank in all respects and with such modifications as may be necessary, as if—
+Nothing in section 4 applies to or affects—and, in any such case, sections 308 (except subsection (1)(d)), 309 to 311C, and 319 to 321 of the Companies Act 1955, as in force before the commencement of this Act, shall continue to apply to the registered bank in all respects and with such modifications as may be necessary, as if—
   (a) a registered bank that was subject to statutory management under the principal Act immediately before the commencement of this Act:
   (b) any transaction entered into by a registered bank or anything done by any person before the commencement of this Act—
   (c) the registered bank were a company that was being wound up under the Companies Act 1955; and
@@ -3296,7 +3297,7 @@ This Act amends the Reserve Bank of New Zealand Act 1989.
 ## Part 1 — Amendments outside Part 6 of principal Act
 
 ### 17 New Part 5D inserted
-The following Part is inserted after section 156ZE: Deposit takers Credit ratings Deposit taker must have current credit rating Governance requirements Governance requirements
+The following Part is inserted after section 156ZE:Deposit takersCredit ratingsDeposit taker must have current credit ratingGovernance requirementsGovernance requirements
   A deposit taker must have a current rating of its creditworthiness, or, if required by regulations made under section 157K, the creditworthiness of the borrowing group of which the deposit taker is part, that—
     (a) complies with the requirements prescribed by regulations made under section 157K; and
     (b) is given by an approved rating agency.
