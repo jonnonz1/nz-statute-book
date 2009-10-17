@@ -1,5 +1,5 @@
 # Criminal Proceeds (Recovery) Act 2009
-_Consolidation as at 2009-04-21_
+_Consolidation as at 2009-10-17_
 
 ### 1 Title
 This Act is the Criminal Proceeds (Recovery) Act 2009.
@@ -68,7 +68,7 @@ This Act comes into force on 1 December 2009.
       (iv) labels, markings, or other writing that identifies or describes any thing of which it forms part, or to which it is attached by any means:
       (v) books, maps, plans, graphs, or drawings:
       (vi) photographs, films, negatives, tapes, or any other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced
-  - **financial institution** has the same meaning as in section 3 of the Financial Transactions Reporting Act 1996
+  - **financial institution** means either a person within the meaning of financial institution as defined in section 3 of the Financial Transactions Reporting Act 1996 or as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009
   - **foreign country** has the same meaning as in section 2(1) of the Mutual Assistance in Criminal Matters Act 1992
   - **foreign forfeiture order** has the same meaning as in section 2(1) of the Mutual Assistance in Criminal Matters Act 1992
   - **foreign order** means a foreign forfeiture order or a foreign restraining order
