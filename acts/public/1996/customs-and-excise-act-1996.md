@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2009-10-01_
+_Consolidation as at 2009-10-17_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -566,7 +566,7 @@ A person preparing to board a craft for departure from New Zealand must comply w
     (b) a Customs place; or
     (c) a place approved by the Chief Executive for the purposes of—
       (i) the arrival of a craft in New Zealand; or
-      (ii) the departure of a craft from New Zealand
+      (ii) the departure of a craft from New Zealand.
 
 **Departure of craft**
 
@@ -638,7 +638,7 @@ In this Part, unless the context otherwise requires,—
     (b) a travel operator (being a person who organises the carriage, handling, or transportation of goods or persons, or both, from New Zealand to a point outside New Zealand, or from a point outside New Zealand to New Zealand, for commercial purposes) or the agent of a travel operator:
     (c) an owner, occupier, or operator of a Customs controlled area used for the purpose specified in section 10(d) or (e):
     (d) an operator of a business that handles, packs, stores, or transports goods that are to be transported from New Zealand to a point outside New Zealand:
-    (e) any persons, or classes of persons, involved in any other way in the carriage, handling, or transportation of goods, or persons, or both, from New Zealand to a point outside New Zealand, or from a point outside New Zealand to New Zealand, for commercial purposes, being persons or classes of persons prescribed for the purposes of this paragraph
+    (e) any persons, or classes of persons, involved in any other way in the carriage, handling, or transportation of goods, or persons, or both, from New Zealand to a point outside New Zealand, or from a point outside New Zealand to New Zealand, for commercial purposes, being persons or classes of persons prescribed for the purposes of this paragraph.
 
 ### 38B Purpose of this Part
 (1) The purpose of this Part is to facilitate—
@@ -2344,7 +2344,7 @@ A Customs officer or authorised person may, without warrant, seize and detain go
     (ii) are being, or have been, imported into New Zealand; and
   (b) the goods came to his or her attention, or into his or her possession, during a search, inspection, audit, or examination under—
     (i) this Act; or
-    (ii) part 5 of the Financial Transactions Reporting Act 1996 (which relates to reporting of imports and exports of cash); and
+    (ii) subpart 6 of Part 2 and sections 114 and 115 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
   (c) he or she has good cause to suspect that the goods are tainted property (as defined in section 2(1) of the Proceeds of Crime Act 1991).
 
 ### 166B Return of cash necessary to satisfy essential human needs
@@ -2363,6 +2363,7 @@ A Customs officer or authorised person may, without warrant, seize and detain go
 (4) Nothing in section 166A limits or affects powers under the following enactments:—
   (a) the rest of this Act (for example, Part 14):
   (b) Financial Transactions Reporting Act 1996:
+  (ba) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
   (c) Mutual Assistance in Criminal Matters Act 1992:
   (d) Proceeds of Crime Act 1991:
   (e) Terrorism Suppression Act 2002.
@@ -3461,7 +3462,7 @@ Subject to any limitations imposed in regulations made under this Act, the Chief
 ### 276 Application of Act to postal articles
 (1) Subject to any regulations made under subsection (3) of this section, the provisions of this Act apply to postal articles and to goods contained in postal articles in the same manner as those provisions apply to other goods.
 (2) In this section,—
-  (a) the term postal article means any letter, parcel, packet, or other article whatever received or transmitted by or through a postal operator; and includes any such articles imported by air courier companies:
+  (a) the term postal article means any letter, parcel, packet, or other article whatever received or transmitted by or through a postal operator; and includes any such articles imported by air courier companies
   (b) the term postal operator means a postal operator within the meaning of the Postal Services Act 1998.
 (3) Without limiting the power to make regulations conferred by section 286 of this Act, the Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
   (a) providing that any separate postal articles and goods contained in them, whether addressed to the same or to different persons, may be treated for the purposes of this Act as a single postal article consigned to a single person:
@@ -4038,19 +4039,16 @@ Not later than 40 working days after the commencement of this Act the owner or o
 **Amendment to Goods and Services Tax Act 1985**
 
 ### 307 Zero-rating—duty-free goods
-(1) Section 11(1) of the Goods and Services Tax Act 1985 is hereby amended by repealing paragraph (af) of section 11(1) (as inserted by section 3(1) of the Goods and Services Tax Amendment Act 1992), and substituting the following paragraph:.
-  (af) the goods are supplied, by a supplier licensed pursuant to section 12 of the Customs and Excise Act 1996, to—within an area licensed pursuant to section 12 of the Customs and Excise Act 1996 as a Customs controlled area for the processing of persons arriving in or departing from New Zealand; or
-    (i) an inbound air traveller; or
-    (ii) an outbound air traveller who uplifts the goods upon returning to New Zealand—
+(1) Amendment(s) incorporated in the Act(s).
 (2) This section shall apply to supplies made on or after the 1st day of October 1986.
 
 **Amendments to Tariff Act 1988**
 
 ### 308 Tariff items substituted
-Part 1 of Schedule 1 to the Tariff Act 1988 is hereby amended by omitting the items specified in Schedule 9 to this Act, and substituting the items specified in Schedule 10 to this Act.
+Amendment(s) incorporated in the Act(s).
 
 ### 309 New concession reference inserted
-Part 2 of Schedule 1 to the Tariff Act 1988 is hereby amended by inserting, after the item relating to Reference Number 90, the following Reference Number and item:91Goods imported into New Zealand that are partly the manufacture or produce of another country or countries and partly the manufacture or produce of New ZealandFree
+Amendment(s) incorporated in the Act(s).
 
 ## Schedule 1 — Prohibited imports
 
@@ -4065,7 +4063,7 @@ Part 2 of Schedule 1 to the Tariff Act 1988 is hereby amended by inserting, afte
     (a) are within a group or range of imported goods produced by a particular industry or industry sector that includes identical goods or similar goods in relation to the goods being valued; and
     (b) for the purposes of—
       (i) clause 6, were exported from any country; and
-      (ii) clause 7, were produced in and exported from the country in and from which the goods being valued were produced and exported:
+      (ii) clause 7, were produced in and exported from the country in and from which the goods being valued were produced and exported
   - **identical goods** means imported goods that—but does not include imported goods where engineering, development work, artwork, designwork, plans, or sketches undertaken in New Zealand were supplied, directly or indirectly, by the buyer of those imported goods free of charge or at a reduced cost for use in connection with the production and sale for export of those imported goods
     (a) are the same in all respects, including physical characteristics, quality, and reputation, as the goods being valued, except for minor differences in appearance that do not affect the value of the goods; and
     (b) were produced in the country in which the goods being valued were produced; and
