@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2007-11-20_
+_Consolidation as at 2009-10-17_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -10,7 +10,7 @@ _Consolidation as at 2007-11-20_
 ## Part 1 — Preliminary provisions
 
 ### 2 Interpretation
-(1) In this Act, unless the context otherwise requires,—
+(1) In this Act, unless the context otherwise requires,—financial institution means either a person within the meaning of financial institution as defined in section 3 of the Financial Transactions Reporting Act 1996 or as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009
   - **Central Authority** , in relation to any foreign country, means the person or authority for the time being designated by that country for the purposes of transmitting or receiving requests made under or pursuant to this Act
   - **Convention country** means any foreign country that is a party to a convention referred to in column 1 of the table in the Schedule
   - **Criminal investigation** means,—
@@ -21,7 +21,6 @@ _Consolidation as at 2007-11-20_
     (a) In Part 2 of this Act, proceedings certified by the Attorney-General to have been instituted in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the law of New Zealand; and includes the trial of a person for the offence and any proceedings to determine whether or not a person should be tried for the offence:
     (b) In Part 3 of this Act, proceedings certified by the Central Authority of the requesting country to have been instituted in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the law of the country; and includes the trial of a person for the offence and any proceedings to determine whether or not a person should be tried for the offence:
   - **Document** has the same meaning as in section 2(1) of the Official Information Act 1982
-  - **Financial institution** has the same meaning as in section 2(1) of the Proceeds of Crime Act
   - **Foreign country** means any country other than New Zealand
   - **Foreign drug-dealing offence** means a foreign serious offence that consists of or includes conduct which, if it occurred in New Zealand, would be a drug-dealing offence within the meaning of the Proceeds of Crime Act
   - **Foreign forfeiture order** means an order, made under the law of a foreign country by any court or other judicial authority, for the forfeiture of property that is tainted property in respect of an offence against the law of that country
