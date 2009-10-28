@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-10-28_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3139,7 +3139,7 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 |  | 43 | Falsification of register of designs, etc |
 | The Distillation Act 1971 | 86 | Stealing spirits from distillery, etc |
 | The District Courts Act 1947 | 116A | False statement of service of documents |
-| The Domestic Violence Act 1995 | 49(3) | Contravening protection order. |
+| The Domestic Violence Act 1995 | 49(2) | Contravening protection order. |
 | The Electoral Act 1993 | 215 | Personation |
 |  | 216 | Bribery |
 |  | 217 | Treating |
