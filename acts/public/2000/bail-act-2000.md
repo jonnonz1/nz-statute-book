@@ -1,5 +1,5 @@
 # Bail Act 2000
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-10-28_
 
 ### 1 Title
 This Act is the Bail Act 2000.
@@ -31,7 +31,7 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
 
 ### 7 Rules as to granting bail
 (1) A defendant is bailable as of right who is charged with an offence that is not punishable by imprisonment.
-(2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against section 194 of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
+(2) A defendant is bailable as of right who is charged with an offence for which the maximum punishment is less than 3 years' imprisonment, unless the offence is one against section 194 of the Crimes Act 1961 (which relates to assault on a child, or by a male on a female) or against section 49 of the Domestic Violence Act 1995 (which relate to contravention of a protection order).
 (3) A defendant is bailable as of right who is charged with an offence against any of the following provisions of the Crimes Act 1961, namely:
   (a) section 111 (false statements or declarations):
   (b) section 151 (duty to provide the necessaries of life):
@@ -65,7 +65,7 @@ Unless expressly stated otherwise in this or in any other enactment, any decisio
   (h) any other special matter that is relevant in the particular circumstances.
 (3)
 (4) When considering an application for bail, the court must take into account any views of a victim of an offence of a kind referred to in section 29 of the Victims' Rights Act 2002, or of a parent or legal guardian of a victim of that kind, conveyed in accordance with section 30 of that Act.
-(5) In deciding, in relation to a defendant charged with an offence against section 49(1)(a) or (b) of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
+(5) In deciding, in relation to a defendant charged with an offence against section 49 of the Domestic Violence Act 1995, whether or not to grant bail to the defendant or allow the defendant to go at large, the court's paramount consideration is the need to protect the victim of the alleged offence.
 
 ### 9 Restriction on bail if defendant charged with treason or espionage
 No defendant who is charged with a crime against section 73 or section 76 of the Crimes Act 1961 (which relate to treason) or against section 78 of the Crimes Act 1961 (which relates to espionage) may be granted bail except by order of the Governor-General or a High Court Judge.
@@ -182,13 +182,22 @@ A court may make an order prohibiting the publication of any report or descripti
   (a) is charged with an offence for which that person may be proceeded against summarily; and
   (b) has been arrested without warrant; and
   (c) cannot practicably be brought immediately before a court.
-(2) In determining whether it is prudent to grant bail under subsection (1) to any person charged with an offence against section 49(1)(a) or section 49(1)(b) of the Domestic Violence Act 1995, the need to protect the victim of the alleged offence is the paramount consideration.
+(2) In determining whether it is prudent to grant bail under subsection (1) to any person charged with an offence against section 49 of the Domestic Violence Act 1995, the need to protect the victim of the alleged offence is the paramount consideration.
 (2A) Despite section 7, no defendant is entitled to be granted bail under this section as of right.
 (3) Any bail bond taken under this section—
   (a) may be either with or without sureties as the Police employee thinks fit; and
   (b) must be in such sum or sums as the Police employee thinks sufficient; and
   (c) is subject to the condition that, at a time and place to be specified in the bond, being a time not later than 7 days from the date of the bond, the person bailed attend personally before a court.
 (4) If a person is granted bail under this section, the Police employee who takes the bail bond of the person may, in addition to the conditions that may be imposed under subsection (3), also impose any condition that might be imposed by a District Court or Registrar under subsection (2) or subsection (3) of section 31.
+(4A) If a person charged with a domestic violence offence is granted bail under this section, the Police employee who takes the bail bond of that person may impose—
+  (a) any condition that he or she considers reasonably necessary to protect—
+    (i) the victim of the alleged offence; and
+    (ii) any particular person residing with the victim:
+  (b) any condition that may otherwise be imposed under subsections (3) and (4).
+(4B) In this subsection and subsection (4A),—
+  - **domestic relationship** has the meaning given to it by section 4 of the Domestic Violence Act 1995
+  - **domestic violence offence** means an offence against any enactment involving the use of violence against a person with whom the offender is, or has been, in a domestic relationship
+  - **violence** has the meaning given to it by section 3(2), (4), and (5) of the Domestic Violence Act 1995.
 (5) A bail bond taken under this section has the same effect as if it had been taken before a Justice.
 
 ### 22 Mode of taking bail bond by Police employee
@@ -208,7 +217,7 @@ A court may make an order prohibiting the publication of any report or descripti
 (1) If a person is arrested under section 50 of the Domestic Violence Act 1995 and charged with an offence against section 49 of that Act, the person must not be released on bail by a Police employee under section 21 during the 24 hours immediately following the arrest.
 (2) Nothing in subsection (1) limits or affects the obligation of the Police to bring a person who is charged with an offence before a court as soon as possible.
 (3) If a person to whom subsection (1) applies is not brought before a court during the 24 hours immediately following the arrest, the person may, at the expiry of that period, be released on bail by a Police employee under section 21.
-(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against subsection (1)(a) or subsection (1)(b) of section 49 of the Domestic Violence Act 1995.
+(4) If a person to whom subsection (1) applies has also been charged with 1 or more other offences arising out of the same incident, the person must not be released on bail by a Police employee under section 21 in respect of any of those offences during the 24 hours immediately following the arrest for an offence against section 49 of the Domestic Violence Act 1995.
 
 ### 24 Failure to answer Police bail
 A defendant commits an offence and is liable on summary conviction to a fine not exceeding $1,000 who, having been released on bail by a constable, fails without reasonable excuse to attend personally at the time and the court specified in the bail bond.
