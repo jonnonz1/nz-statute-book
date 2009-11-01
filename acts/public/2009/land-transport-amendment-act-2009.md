@@ -1,5 +1,5 @@
 # Land Transport Amendment Act 2009
-_Consolidation as at 2009-06-25_
+_Consolidation as at 2009-11-01_
 
 ### 1 Title
 This Act is the Land Transport Amendment Act 2009.
@@ -96,11 +96,11 @@ Section 61 is amended by repealing subsection (2) and substituting the following
     (c) the person’s blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of—
       (i) a controlled drug; or
       (ii) any prescription medicine.
-(2) Section 62(2) is amended by inserting or (1A) after subsection (1),.
+(2) Section 62(2) is amended by inserting or (1B) after subsection (1),.
 
 ### 13 Defences
 Section 64 is amended by inserting the following subsections after subsection (1):
-  (1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1A) if the Court is satisfied that the person has consumed the relevant controlled drug or prescription medicine—
+  (1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1B) if the Court is satisfied that the person has consumed the relevant controlled drug or prescription medicine—
     (a) in accordance with—
       (i) a current and valid prescription written for that person by a health practitioner; and
       (ii) any instructions from a health practitioner or from the manufacturer of the drug or medicine; or
