@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-10-28_
+_Consolidation as at 2009-11-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
