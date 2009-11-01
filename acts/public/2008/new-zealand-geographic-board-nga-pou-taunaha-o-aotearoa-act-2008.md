@@ -1,5 +1,5 @@
 # New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2009-11-01_
 
 ### 1 Title
 This Act is the New Zealand Geographic Board (Ngā Pou Taunaha o Aotearoa) Act 2008, and may also be cited as—
