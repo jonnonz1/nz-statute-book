@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2008-12-17_
+_Consolidation as at 2009-11-01_
 
 > An Act to reform the administration of education
 
@@ -51,7 +51,7 @@ _Consolidation as at 2008-12-17_
       (ii) the distance between the school and the place where public transport must finally be left (or, as the case may be, first be taken); and
       (iii) every intermediate distance between one element of public transport and another
 (2) In this Part, and Parts 2 and 3, unless the context otherwise requires, the terms special class, special clinic, special school, and special service have the meanings assigned to them by section 2 of the Education Act 1964.
-(3) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
+(3) In the absence of proof to the contrary,— is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
   (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 (4) The Governor-General may, by Order in Council, make regulations prescribing criteria that the holder of a residence permit under the Immigration Act 1987 must satisfy in order to fulfil the requirements of paragraph (b) of the definition of domestic student in subsection (1).
@@ -80,14 +80,14 @@ Except as provided in this Act or the Private Schools Conditional Integration Ac
 (7) As soon as is practicable after a foreign student is enrolled at a State school, the principal shall give the Secretary written notice of—
   (a) the student's name, age, and nationality; and
   (b) the day on which the student began (or will begin) to receive tuition at the school.
-(8) Notwithstanding anything in this section or section 4B, with the consent of the principal, a foreign student may, during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school—but in that case the student shall not be counted for the purpose of calculating or ascertaining the schools entitlement to teachers or funding.
+(8) Notwithstanding anything in this section or section 4B, with the consent of the principal, a foreign student may, during a period of not more than 28 consecutive days (or any longer period the Secretary approves for any particular student), receive tuition at or from a State school— but in that case the student shall not be counted for the purpose of calculating or ascertaining the schools entitlement to teachers or funding.
   (a) without the consent of the board; and
   (b) without paying the amount required by section 4B;—
 
 ### 4A Certain foreign students may enrol at State schools as of right
 (1) The Minister may from time to time, by notice in the Gazette, declare foreign students of a specified kind or description to be entitled to enrol at State schools.
 (2) A notice may be unconditional, or subject to conditions specified in it.
-(3) Subject to—a foreign student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student.
+(3) Subject to— a foreign student of a kind or description for the time being specified in a notice under subsection (1) has the same rights to enrolment and tuition at State schools as a domestic student.
   (a) the conditions (if any) specified in the notice; and
   (b) section 4B,—
 
@@ -133,14 +133,14 @@ The Minister may, by notice in the Gazette, exempt foreign students of a particu
 ### 5 Restrictions on enrolment at primary school
 (1) No person under 5 shall be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school.
 (2) No person who turned 14 in any year shall be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school, in the next year.
-(3) No person who, in the opinion of the Secretary,—shall in any year be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school.
+(3) No person who, in the opinion of the Secretary,— shall in any year be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school.
   (a) has completed the work of form 3; or
   (b) has completed work equivalent to the work of form 2,—
 (4) Notwithstanding subsection (1), at any time before 1 January 1993, this Act shall apply to children attending pre-school classes at any school specified in section 3(2) of the Education Amendment Act 1990 as if they are enrolled at the school; but on that day, all those classes shall be deemed to have been disestablished.
 (5) Nothing in subsection (4) limits or affects section 308(4).
 
 ### 6 Restrictions on enrolment at secondary school
-No person who, in the opinion of the Secretary,—shall in any year be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school, unless the person turned 13 before 1 April in the previous year.
+No person who, in the opinion of the Secretary,— shall in any year be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school, unless the person turned 13 before 1 April in the previous year.
   (a) has not completed the work of form 2; and
   (b) has not completed work equivalent to the work of form 2,—
 
@@ -154,21 +154,21 @@ No person who, in the opinion of the Secretary,—shall in any year be or contin
   (b) the person is entitled under section 3 to free education at a State school, and the Secretary has directed the board to enrol the person.
 (3) The Secretary shall not direct the board of a correspondence school to enrol a person unless satisfied that the person cannot conveniently attend any State school (being a school offering education at the level, and in the subjects, required by the person's parents or, as the case requires, the person) that is not a correspondence school.
 (4) If satisfied that a person who is enrolled at a correspondence school pursuant to a direction under subsection (2)(b) can conveniently attend a State school (being a school offering education at the level, and in the subjects, required by the person's parents or, as the case requires, the person) that is not a correspondence school, the Secretary may notify the board of the fact; and in that case the board shall cancel the person's enrolment unless the board is satisfied that the person's enrolment meets criteria then fixed under subsection (1).
-(5) If satisfied that—the board shall cancel the enrolment.
+(5) If satisfied that— the board shall cancel the enrolment.
   (a) a person's enrolment at a correspondence school does not meet criteria then fixed under subsection (1); and
   (b) there is not in force in respect of the person a direction under subsection (2)(b) relating to the school,—
 (6) The board of a correspondence school may delegate to the principal the task of being satisfied that enrolments meet or do not meet criteria specified under subsection (1).
 (7) Every person lawfully enrolled at a correspondence school immediately before the commencement of this Act who is entitled under section 3 to free education at a State school shall be deemed to have been so enrolled pursuant to a direction given under subsection (2)(b) on that commencement.
 
 ### 7A Certain domestic students may be required to pay fees for tuition from correspondence schools
-(1) No—shall be or continue to be enrolled in a course, class, or programme at a correspondence school unless there has been paid to the board the appropriate fee (if any) for the time being prescribed by the board with the Minister's consent.
+(1) No— shall be or continue to be enrolled in a course, class, or programme at a correspondence school unless there has been paid to the board the appropriate fee (if any) for the time being prescribed by the board with the Minister's consent.
   (a) domestic student who has turned 16 and is not enrolled full-time at a registered school; or
   (ab) domestic student enrolled at a registered school that is not a State school; or
   (b) domestic student for whom a current certificate under section 21(1) is held,—
 (2) Nothing in subsection (1) gives any person a right to enrol at or receive tuition from a correspondence school.
 
 ### 7B Fees for evening classes, etc
-The board of a State school may refuse to allow any person to attend classes at the school—unless there have been paid to the board the fees (if any) prescribed by the board for attendance at those classes.
+The board of a State school may refuse to allow any person to attend classes at the school— unless there have been paid to the board the fees (if any) prescribed by the board for attendance at those classes.
   (a) usually held outside normal school hours; and
   (b) open to people not enrolled full-time at the school,—
 
@@ -184,7 +184,7 @@ The board of a State school may refuse to allow any person to attend classes at 
 (2) Notwithstanding anything in this Act that relates to enrolment schemes, or in the enrolment scheme of any school, but subject to the rest of Part 2 (which relates to the suspension, expulsion, and exclusion of students), where there has been an agreement or direction under subsection (1), the person concerned shall be allowed to enrol at the State school, special school, special class, or special clinic, concerned or (as the case requires) to have education or help from the special service concerned.
 (3) Subject to section 10(4), where a direction has been given under subsection (1) in respect of a person, a parent who, more than 1 month after it was given, fails or refuses to comply with it commits an offence, and is liable on summary conviction to the penalty prescribed for failing to comply with section 20(1) (which relates to enrolling children at school).
 (4) No person shall be or continue to be enrolled at a special school, special class, or special clinic, or have or continue to have education or help from a special service, except pursuant to an agreement or direction under subsection (1).
-(5) Notwithstanding anything in section 5 or section 6,—may be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school; andpursuant to an agreement or direction under subsection (1).
+(5) Notwithstanding anything in section 5 or section 6,— may be or continue to be enrolled at a secondary school, or in a class above form 2 at a composite school; and pursuant to an agreement or direction under subsection (1).
   (a) a child under 5 may be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school; and
   (b) a person under 21 who turned 14 in any year may in any later year be or continue to be enrolled at a primary school, or in a class below form 3 at a composite school; and
   (c) a person under 21 who, in the opinion of the Secretary,—
@@ -213,7 +213,7 @@ The board of a State school may refuse to allow any person to attend classes at 
     (i) agree or refuse to agree to the matter with the parent concerned, as seems appropriate; and
     (ii) notify the parent concerned in writing of the result of the reconsideration and the reasons for it:
   (c) a parent who is dissatisfied with the result of the reconsideration may, by notice in writing to the Secretary, require the result to be sent to an arbitrator.
-(5) Where—the direction shall forthwith take effect, and section 9(2) shall have effect accordingly.
+(5) Where— the direction shall forthwith take effect, and section 9(2) shall have effect accordingly.
   (a) a requirement has been made under subsection (4)(c) in respect of the result of the reconsideration by the Secretary of a direction under section 9(1); and
   (b) 1 month after the Secretary notified the parent concerned of the name of a person to represent the Secretary in the appointment of an arbitrator, the Secretary's representative and a nominee of the parent have not appointed an arbitrator,—
 (6) Where a parent makes a requirement under subsection (4)(c), the following provisions apply:
@@ -606,10 +606,10 @@ If a student has been suspended, the student, the student's parents, and their r
 (3) A board must comply with a direction under subsection (1), and the direction overrides the provisions of any enrolment scheme the school may have in place.
 
 ### 19 Principal may preclude student for health reasons
-(1) A principal of a State school who believes on reasonable grounds that a student—may preclude the student from the school.
+(1) A principal of a State school who believes on reasonable grounds that a student— may preclude the student from the school.
   (a) is not clean enough to keep attending the school; or
   (b) may have a communicable disease (within the meaning of the Health Act 1956),—
-(2) Forthwith after precluding a student from school under subsection (1), the principal shall make all reasonable efforts to tell—that the student has been precluded, and why.
+(2) Forthwith after precluding a student from school under subsection (1), the principal shall make all reasonable efforts to tell— that the student has been precluded, and why.
   (a) the board; and
   (b) either the student (in the case of a student who has turned 20) or the student's parents (in every other case); and
   (c) in the case of a student precluded under subsection (1)(b), the Medical Officer of Health,—
@@ -642,12 +642,12 @@ If a student has been suspended, the student, the student's parents, and their r
 (4) The Secretary's decision is final.
 (5) Every certificate under subsection (1) or subsection (3) shall state why it was given.
 (6) Subject to subsection (7), the Secretary may at any time revoke a certificate under subsection (1) or subsection (3).
-(7) The Secretary shall not revoke a certificate under subsection (1) or subsection (3), unless, after having—the Secretary is not satisfied of whichever of the grounds specified in subsection (1)(b) the certificate was originally granted on.
+(7) The Secretary shall not revoke a certificate under subsection (1) or subsection (3), unless, after having— the Secretary is not satisfied of whichever of the grounds specified in subsection (1)(b) the certificate was originally granted on.
   (a) made reasonable efforts to get all the relevant information; and
   (b) considered a report on the matter from the Chief Review Officer,—
 (8) If the Secretary thinks any person exempted under subsection (1) would be better off getting special education, the Secretary may revoke the certificate and issue a direction under section 9.
 (8A) A certificate for the time being in force under subsection (1) or subsection (3) expires when the person to whom it applies turns 16 or enrols at a registered school, whichever happens first.
-(9) Every certificate of exemption under section 111 of the Education Act 1964 that was in force on 30 September 1989 shall be deemed to have been granted—and may be revoked under this section accordingly.
+(9) Every certificate of exemption under section 111 of the Education Act 1964 that was in force on 30 September 1989 shall be deemed to have been granted— and may be revoked under this section accordingly.
   (a) on the ground specified in subsection (1)(b)(i) if it was in fact granted—
     (i) before 20 July 1987, under section 111(4)(a) of the Education Act 1964; or
     (ii) after 19 July 1987, under section 111(3)(a) of that Act; and
@@ -658,7 +658,7 @@ If a student has been suspended, the student, the student's parents, and their r
 ### 22 Secretary may exempt from enrolment
 (1) Subject to subsection (2), the Secretary may, by certificate given to the parent of a person who has turned 15, exempt the person from the requirements of section 20—
   (a) on the parent's application; and
-  (b) if satisfied that, on the basis of—it is sensible to do so.
+  (b) if satisfied that, on the basis of— it is sensible to do so.
     (i) the person's educational problems; and
     (ii) the person's conduct; and
     (iii) the benefit (if any) the person is likely to get from available schools,—
@@ -700,11 +700,11 @@ For so long as a certificate under section 21 or section 22 continues in force�
 (1) A student aged 16 and above, or the parent of a student aged under 16, may ask the principal to release the student from tuition in a particular class or subject.
 (1A) A request under subsection (1) must be made in writing, and at least 24 hours before the start of the tuition.
 (1B) This section applies only to students enrolled at a State school that is not an integrated school.
-(2) Unless satisfied that—the principal shall not release the student.
+(2) Unless satisfied that— the principal shall not release the student.
   (a) the parent or student (as the case may be) has asked because of sincerely held religious or cultural views; and
   (b) the student will be adequately supervised (whether within or outside the school) during the tuition,—
 (3) Upon receiving a request from a parent under subsection (1), the principal must, before agreeing to release the student, take all reasonable steps to find out the student's views on the matter.
-(4) Subject to subsection (2), the principal shall release the student from the tuition and (if the student is to be supervised outside the school) let the student leave the school during the tuition unless satisfied, in the light of—that it is inappropriate to do so.
+(4) Subject to subsection (2), the principal shall release the student from the tuition and (if the student is to be supervised outside the school) let the student leave the school during the tuition unless satisfied, in the light of— that it is inappropriate to do so.
   (a) the student's age, maturity, and ability to formulate and express views; and
   (b) any views the student has expressed,—
 (5) Nothing in this section limits or affects section 79 of the Education Act 1964.
@@ -717,10 +717,10 @@ For so long as a certificate under section 21 or section 22 continues in force�
 
 ### 25B Release from school
 The principal of a State school—
-  (a) may, if satisfied that—release the student from attendance at the school, for a period or periods agreed with a parent of the student, to receive the tuition (and, where appropriate, travel between the school and the place where the tuition is to be given):
+  (a) may, if satisfied that— release the student from attendance at the school, for a period or periods agreed with a parent of the student, to receive the tuition (and, where appropriate, travel between the school and the place where the tuition is to be given):
     (i) a student will receive outside the school tuition acceptable to the principal; and
     (ii) releasing the student would not result in a contravention of section 25(2),—
-  (b) may, if satisfied that—let the student leave early on that day.
+  (b) may, if satisfied that— let the student leave early on that day.
     (i) a student has, on any day on which the school was open for instruction, been present at the school for 4 hours or more; and
     (ii) there are good reasons for the student to leave before the school closes on that day,—
 
@@ -743,13 +743,13 @@ The principal of a State school—
 ### 27 Principal may exempt from attendance for short period
 (1) If satisfied that a student's absence was or will be justified, the principal of the school may exempt the student from attending the school for a period of no more than 5 school days.
 (2) The parent of a student exempted under subsection (1) is not subject to section 25 in respect of the student for the period to which the exemption relates.
-(3) In the absence of evidence to the contrary, a certificate from the principal of a school that—is proof that the student was absent for that period without being exempted under subsection (1).
+(3) In the absence of evidence to the contrary, a certificate from the principal of a school that— is proof that the student was absent for that period without being exempted under subsection (1).
   (a) a student was absent from the school for any period; and
   (b) the principal is not satisfied that the absence was justified,—
 (4) For the purposes of subsection (3), judicial notice shall be taken of the appointment and signature of every principal.
 
 ### 28 Secretary may require parents of certain children to enrol them at correspondence school
-(1) The Secretary, by notice in writing to the parent of a student—may call on the parent to have the student enrolled at a correspondence school specified in the notice, and ensure that the student does the work of the course in which the student is enrolled.
+(1) The Secretary, by notice in writing to the parent of a student— may call on the parent to have the student enrolled at a correspondence school specified in the notice, and ensure that the student does the work of the course in which the student is enrolled.
   (a) who has a certificate of exemption for the student under subparagraph (i) or subparagraph (ii) of section 26(1)(b); or
   (b) who has been directed under section 16(7)(c) to enrol the student at a correspondence school,—
 (2) Enrolment under subsection (1) shall be—
@@ -758,21 +758,21 @@ The principal of a State school—
 (3) A parent who fails to comply with a notice under subsection (1) to have a student enrolled at a correspondence school commits an offence, and is liable on summary conviction to a fine not exceeding the maximum fine provided for in section 24(1) (which relates to the failure to enrol at a registered school).
 
 ### 29 Penalty for irregular attendance
-(1) Every parent of a person who—commits an offence, and is liable on summary conviction to a fine not exceeding an amount calculated at the rate of $30 for every school day for which the offence has occurred.
+(1) Every parent of a person who— commits an offence, and is liable on summary conviction to a fine not exceeding an amount calculated at the rate of $30 for every school day for which the offence has occurred.
   (a) while enrolled at a registered school, does not attend as provided in section 25; or
   (b) while enrolled at a correspondence school, does not do the work of the course in which the student is enrolled,—
 (2) Notwithstanding subsection (1), a fine imposed for an offence against that subsection shall not exceed $300 for a first offence against the subsection (or section 120(1) of the Education Act 1964), or $3,000 for a second or subsequent offence.
 (3) The imposition of a penalty under this section does not affect or restrict the operation of any provision of the Children, Young Persons, and Their Families Act 1989.
 
 ### 30 Employment of school-age children
-(1) No person shall employ any person who has not turned 16 at any time—unless there has been produced to the employer a certificate of exemption, or other satisfactory evidence that the person is exempted (otherwise than under section 21(1)) from enrolment at any school.
+(1) No person shall employ any person who has not turned 16 at any time— unless there has been produced to the employer a certificate of exemption, or other satisfactory evidence that the person is exempted (otherwise than under section 21(1)) from enrolment at any school.
   (a) within school hours; or
   (b) in the case of a person enrolled at a correspondence school, when the employment interferes with the person's ability to do the work of the course in which the student is enrolled; or
   (c) in the case of a person who has been granted a certificate of exemption under section 21, when the employment interferes with the person's ability to be taught as well and regularly as in a registered school; or
   (d) if the employment then—
     (i) prevents or interferes with the person's attendance at school; or
     (ii) in the case of a person enrolled at a correspondence school, interferes with the person's ability to do the work of the course in which the person is enrolled,—
-(2) Every person who—commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
+(2) Every person who— commits an offence, and is liable on summary conviction to a fine not exceeding $1,000.
   (a) being a parent of any other person, permits the other person to be employed contrary to subsection (1); or
   (b) employs any other person in contravention of the subsection,—
 
@@ -825,7 +825,7 @@ Every fine recovered under this Part shall be paid to the board on whose behalf 
 (4) If satisfied that the premises, staffing, equipment, and curriculum of a school or proposed school in respect of which an application is made under subsection (3) are or are likely to be suitable, the Secretary shall provisionally register the school as a school of the description or descriptions concerned.
 (5) Provisional registration of a school or proposed school shall (unless earlier revoked) continue in force for 12 months only, and then expire.
 (6) As soon as is practicable after provisionally registering a school or proposed school, the Secretary shall tell the Chief Review Officer.
-(7) Unless a proposed school has not in fact been established, the Chief Review Officer shall—ensure that a review officer reviews the school in action, and prepares a written report on the review to the Secretary and the school's managers.
+(7) Unless a proposed school has not in fact been established, the Chief Review Officer shall— ensure that a review officer reviews the school in action, and prepares a written report on the review to the Secretary and the school's managers.
   (a) between 6 and 12 months after the provisional registration of a school or proposed school; or
   (b) by agreement with its managers, earlier,—
 (8) If satisfied, having considered the review officer's report, that a provisionally registered school is efficient, the Secretary shall fully register the school as a school of the description or descriptions concerned.
@@ -835,10 +835,10 @@ Every fine recovered under this Part shall be paid to the board on whose behalf 
     (ii) thereafter, at intervals of no more than 3 years; and
   (b) the review officer prepares a written report on the review and gives copies to the Secretary and the school's principal (or other chief executive) and managers.
 (10) Subject to subsection (11), the Secretary may at any time cancel a school's registration under this section.
-(11) The Secretary shall not cancel a school's registration under this section unless, after having—the Secretary is not satisfied that the school is efficient.
+(11) The Secretary shall not cancel a school's registration under this section unless, after having— the Secretary is not satisfied that the school is efficient.
   (a) taken all reasonable steps to get all the relevant information; and
   (b) considered a report on the school from a review officer,—
-(12) Where—the school's managers commit an offence against this Act, and shall be liable on summary conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
+(12) Where— the school's managers commit an offence against this Act, and shall be liable on summary conviction to a fine not exceeding $200 for every day or part of a day on which the offence took place.
   (a) a school that is not a registered school operates as a school; or
   (b) a school registered under this section as a school of a particular description or descriptions operates as a school of another description; or
   (c) a school registered under this section whose managers have not told the Secretary that it will stop operating does not operate,—
@@ -1051,7 +1051,7 @@ In this Part, and Part 8, unless the context otherwise requires,—
   (aa) foundation curriculum policy statements, which are statements of policy concerning teaching, learning, and assessment that are made for the purposes of underpinning and giving direction to—
     (i) the way in which curriculum and assessment responsibilities are to be managed in schools:
     (ii) national curriculum statements and locally developed curriculum:
-  (b) national curriculum statements (that is to say statements of—during the years of schooling):
+  (b) national curriculum statements (that is to say statements of— during the years of schooling):
     (i) the areas of knowledge and understanding to be covered by students; and
     (ii) the skills to be developed by students; and
     (iii) desirable levels of knowledge, understanding, and skill, to be achieved by students,—
@@ -1319,7 +1319,7 @@ Except as provided in section 68, a board shall not acquire an interest in land,
 (7) In relation to an integrated school, this section applies subject to the Private Schools Conditional Integration Act 1975 and to any integration agreement in force between the Minister and the proprietors of the school.
 
 ### 71 Courses and visits
-(1) Except as provided in this section, a board may authorise any students to—outside the school premises; and where the board has done so, a student shall be deemed to be attending the school while undertaking the course, obtaining the experience, or making the visit.
+(1) Except as provided in this section, a board may authorise any students to— outside the school premises; and where the board has done so, a student shall be deemed to be attending the school while undertaking the course, obtaining the experience, or making the visit.
   (a) undertake courses of education; or
   (b) obtain work experience; or
   (c) make visits;—
@@ -1345,7 +1345,7 @@ Subject to any enactment, the general law of New Zealand, and the school's chart
     (iii) this Act.
 
 ### 74 Work for other boards
-(1) Any 2 boards may agree in writing for—and for the other to pay the board acquiring and supplying the materials or doing the work.
+(1) Any 2 boards may agree in writing for— and for the other to pay the board acquiring and supplying the materials or doing the work.
   (a) one of them to acquire materials for and supply them to the other; or
   (b) one of them to do work for the other,—
 (2) An agreement under subsection (1) does not absolve a board from any responsibilities imposed by this Act.
@@ -1701,7 +1701,7 @@ Notwithstanding sections 79 to 81,—
 
 ### 91A Interpretation
 (1) In this Part, unless the context otherwise requires,—
-  - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 31 December 1994 (as from time to time extended under section 91M(1))
+  - **application period** means the period commencing on the commencement of the Education Amendment Act 1992, and ending with 30 December 2012 (as from time to time extended under section 91M(1))
   - **board** means a board of trustees constituted under Part 9; and, in relation to a school, means the school's board
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
@@ -1754,7 +1754,7 @@ No board shall pay all or any part of the salary of a regular teacher in respect
   (d) specify circumstances in which the Secretary may exempt any school or type of school from a limitation, and any conditions applying to such an exemption.
 
 ### 91I Secretary may grant exemptions in individual cases
-The Secretary may, in the circumstances and in accordance with any conditions specified in an order under section 91H(1), by written notice to a board—and the board may appoint and employ teachers at the school accordingly.
+The Secretary may, in the circumstances and in accordance with any conditions specified in an order under section 91H(1), by written notice to a board— and the board may appoint and employ teachers at the school accordingly.
   (a) exempt the board, to any extent specified in the notice, from any limitation prescribed by the order in relation to a school the board administers; or
   (b) amend or revoke any notice under this section;—
 
@@ -1831,7 +1831,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
     (d) in relation to a trustee of a combined board that administers schools, means those schools or any of them
   - **trustee** means a member of a board; and, in relation to a board, a school, or an institution, means a member of the board, or the board of the school or institution.
 (2)
-(3) Notwithstanding subsection (1), for the purposes of this Part, a student who—has no immediate caregiver.
+(3) Notwithstanding subsection (1), for the purposes of this Part, a student who— has no immediate caregiver.
   (a) usually lives in a household that includes the student's father and mother; or
   (b) usually spends approximately equal time in 2 or more households; or
   (c) does not usually live in a household,—
@@ -1891,10 +1891,10 @@ In determining for the purposes of section 79 the amount of any grant payable to
 (4) Where a board decides to decrease the number of trustees who are parent representatives,—
   (a) no parent representative shall go out of office; but
   (b) no casual vacancy for a parent representative shall be filled unless the occurrence of the vacancy has reduced the number of parent representatives on the board to fewer than the decreased number decided by the board.
-(5) Where a board decides to decrease the number of trustees who are parent representatives to a number that is not more than the total number of—all co-opted trustees shall then go out of office as if they had resigned.
+(5) Where a board decides to decrease the number of trustees who are parent representatives to a number that is not more than the total number of— all co-opted trustees shall then go out of office as if they had resigned.
   (a) co-opted trustees for the time being holding office; and
   (b) trustees capable of being appointed pursuant to approvals under subsection (1)(c),—
-(6) If, when any co-opted trustees have gone out of office under subsection (5) the number of trustees on the board concerned who are parent representatives is not more than the number of trustees capable of being appointed pursuant to approvals under subsection (1)(c),—until the number of trustees who are parent representatives is more than the number of trustees capable of being appointed pursuant to approvals under subsection (1)(c).
+(6) If, when any co-opted trustees have gone out of office under subsection (5) the number of trustees on the board concerned who are parent representatives is not more than the number of trustees capable of being appointed pursuant to approvals under subsection (1)(c),— until the number of trustees who are parent representatives is more than the number of trustees capable of being appointed pursuant to approvals under subsection (1)(c).
   (a) the approvals under subsection (1)(c) of the organisations by whom they may be appointed shall, starting with the most recent and continuing successively to the least recent, be deemed to have been withdrawn; and
   (b) all trustees appointed by an organisation whose approval has been deemed to have been withdrawn shall then go out of office as if they had resigned,—
 (7)
@@ -1904,7 +1904,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
 ### 94C Limitations on co-option and appointment of trustees
 (1)
 (2) No board shall co-opt a trustee if the effect of the co-option would be that the board did not have more parent representatives than the total number of trustees co-opted by the board or appointed.
-(3) No board shall—if the effect of the appointment of the maximum number of trustees under such approvals would be that the board could have a number of parent representatives that was not greater than the total number of trustees co-opted by the board or appointed.
+(3) No board shall— if the effect of the appointment of the maximum number of trustees under such approvals would be that the board could have a number of parent representatives that was not greater than the total number of trustees co-opted by the board or appointed.
   (a) approve a body corporate for the purpose of appointing a specified number of trustees to the board; or
   (b) modify an approval under section 94B(1)(a) by increasing the number of trustees a body corporate may appoint to the board,—
 (4) No more than 1 non-permanently appointed member of the board staff may be co-opted on to the board at any one time.
@@ -1968,10 +1968,10 @@ At the same time as a board gives the Secretary the annual report as required by
 (4) Elections under subsection (3) must be held,—
   (a) in the case of a school that is not a correspondence school, on the second Tuesday in May, unless the board, before 1 February in that year, fixes an earlier date for the election (being a date after 1 February); and
   (b) in the case of a correspondence school, on the second Tuesday in July, unless the board, before 1 April in that year, fixes an earlier date for the election (being a date after 1 April).
-(5) If—are held after 31 October in the year before an election year and before 31 December in the election year, the board shall not hold an election (or, as the case requires, another election) under subsection (3) in the election year.
+(5) If— are held after 31 October in the year before an election year and before 31 December in the election year, the board shall not hold an election (or, as the case requires, another election) under subsection (3) in the election year.
   (a) the first elections of trustees for the board of a school established or integrated after the commencement of this section; or
   (b) elections under section 78P—
-(6) Notwithstanding anything in sections 94 to 98, where there are to be held (pursuant to subsection (3) or section 78P, or in respect of a newly established or integrated school or institution) both—no person may both stand or vote in one of the elections and stand or vote in the other.
+(6) Notwithstanding anything in sections 94 to 98, where there are to be held (pursuant to subsection (3) or section 78P, or in respect of a newly established or integrated school or institution) both— no person may both stand or vote in one of the elections and stand or vote in the other.
   (a) an election of 1 or more parent representatives on a board; and
   (b) an election of 1 or more staff representatives on the board,—
 (7) Subject to subsection (8), the first elections for and first meetings of boards of schools and institutions established or integrated after the commencement of this Act shall be held on days fixed by the Minister by notice in the Gazette.
@@ -2010,7 +2010,7 @@ At the same time as a board gives the Secretary the annual report as required by
 (7) A trustee elected under section 101(2) shall go out of office 7 days after the day on which a further election under the said section 101(2) is held at the school or schools concerned.
 (8) Subject to subsection (9), all elected trustees (other than a trustee elected under section 101(2)) holding office at the close of the day before the day on which trustees take office under subsection (1) shall then go out of office.
 (8A) Subject to subsection (9), the appointment or co-option of a trustee may be for a term not exceeding 3 years.
-(9) If—are held in an election year before 1 May, no trustee shall go out of office under subsection (8) or subsection (8A) in the election year.
+(9) If— are held in an election year before 1 May, no trustee shall go out of office under subsection (8) or subsection (8A) in the election year.
   (a) the first elections of trustees for a board; or
   (b) elections under section 78P,—
 (10) A board may, when co-opting a trustee, specify a term of office for the trustee; and in that case—
@@ -2019,7 +2019,7 @@ At the same time as a board gives the Secretary the annual report as required by
 (11) This section is subject to sections 101A and 104.
 
 ### 103 Certain persons ineligible to be trustees
-(1) A person who—may not become an elected, appointed, or co-opted trustee.
+(1) A person who— may not become an elected, appointed, or co-opted trustee.
   (a)
   (b)
   (c) is an undischarged bankrupt; or
@@ -2066,7 +2066,7 @@ At the same time as a board gives the Secretary the annual report as required by
 Before a person is elected, co-opted, or appointed as a trustee, the person must confirm to the governing board that he or she is, to the best of his or her knowledge, eligible to be a trustee, having regard to the grounds of ineligibility in section 103 or section 103A.
 
 ### 104 When casual vacancies arise
-(1) When an elected, appointed, or co-opted trustee—the trustee's office becomes vacant.
+(1) When an elected, appointed, or co-opted trustee— the trustee's office becomes vacant.
   (a) dies; or
   (b) resigns by written notice to the board; or
   (c) without the prior leave of the board, is absent from 3 consecutive meetings of the board; or
@@ -2075,12 +2075,12 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
   (a) subsection (1)(d) does not apply to the trustee by virtue only of the making of that order; but
   (b) while the order remains in force, the trustee is deemed to have been granted leave of absence by the board and is not capable of acting as a trustee during that period.
 (2) When a trustee elected by the board staff ceases to be a member of the board staff, the trustee's office becomes vacant.
-(3) On any day when—the second trustee's office becomes vacant.
+(3) On any day when— the second trustee's office becomes vacant.
   (a) already 1 co-opted trustee is a member of the board staff; and
   (b) a second co-opted trustee becomes a member of the board staff,—
 (4) When the board of an integrated school receives a written notice from the school's proprietors dismissing any trustee appointed by them, the trustee's office becomes vacant.
 (5) When a trustee elected by students ceases to be enrolled full-time at the school or institution, the trustee's office becomes vacant.
-(6) If—every unfilled vacancy is a casual vacancy, and shall be deemed to have arisen on the day on which the elected trustees take office.
+(6) If— every unfilled vacancy is a casual vacancy, and shall be deemed to have arisen on the day on which the elected trustees take office.
   (a) at any election of trustees fewer persons are elected than there are vacancies to be filled; and
   (b) the board is not then dissolved,—
 
@@ -2137,7 +2137,7 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
 (4) If the date that the commissioner has appointed under section 78P is a date that is within 6 months before the date on which an election is due to be held, the board does not have to hold an election on that date and this section applies as if that election were not due to be held.
 
 ### 110 Boards may combine
-(1) Subject to section 111, if satisfied that—the Minister may, by notice in the Gazette, establish a single board (called a combined board) to administer all the schools or institutions concerned, with effect on a date specified in the notice.
+(1) Subject to section 111, if satisfied that— the Minister may, by notice in the Gazette, establish a single board (called a combined board) to administer all the schools or institutions concerned, with effect on a date specified in the notice.
   (a) each of the boards concerned has made reasonable efforts to consult the parents of students (other than adult students) enrolled full-time at its school or schools (or institution or institutions) about combining with the other boards; and
   (b) the consultation that has in fact taken place has been adequate in all the circumstances; and
   (ba) the number of trustees on the board who are parent representatives will exceed the number of other trustees on the board; and
@@ -2169,7 +2169,7 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
   (b) the combined board they replace shall continue in existence as if they had not been established.
 
 ### 113 Property held in trust
-(1) Where any property is, on the day a notice under section 112(1) is published, held in trust by the combined board of the schools or institutions to which the notice relates, the following provisions apply:shall devise and send to the Solicitor-General a scheme to modify the trust.
+(1) Where any property is, on the day a notice under section 112(1) is published, held in trust by the combined board of the schools or institutions to which the notice relates, the following provisions apply: shall devise and send to the Solicitor-General a scheme to modify the trust.
   (a) the board shall, within 28 days of the day specified in the notice, notify Public Trust of the existence and nature of the trust; and Public Trust shall forthwith notify the Secretary:
   (b) Public Trust shall take all reasonable steps to try to consult the board, within 70 days of the day specified in the notice, as to—
     (i) how the property should vest; and
@@ -2184,7 +2184,7 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
     (i) which of the boards established by the notice the property (or any part of it) should be held for; and if more than 1, how; and
     (ii) the extent (if any) to which the trust should otherwise be modified:
   (c) on the 70th day after the day specified in the notice the property shall vest in Public Trust:
-  (d) as soon as is practicable after becoming aware that the property has vested, Public Trust, after consulting the boards established by the notice, as to—Public Trust shall devise and send to the Solicitor-General a scheme to modify the trust.
+  (d) as soon as is practicable after becoming aware that the property has vested, Public Trust, after consulting the boards established by the notice, as to— Public Trust shall devise and send to the Solicitor-General a scheme to modify the trust.
     (i) whether all or any of the property should be held for them and if so which of it, which of them, and in what proportions; and
     (ii) the extent (if any) to which the trust should otherwise be modified,—
 (3) Where, on the day a notice under section 112(1) is published, any trust (being a trust established by an enactment, instrument, or will, that requires or requests the trustees to consult, notify, or act only with the approval or concurrence of, a combined board of the schools or institutions to which a notice under section 112(1) relates) exists, the following provisions apply:
@@ -2250,7 +2250,7 @@ The provisions set out in Schedule 6 apply to boards.
 (3) No person who has been nominated for election to a board is eligible to be appointed returning officer for the election.
 
 ### 119 Savings
-Every reference in any—to the school committee, committee of management, or board of governors of a primary, secondary, composite, or special school shall be read as a reference to the school's board.
+Every reference in any— to the school committee, committee of management, or board of governors of a primary, secondary, composite, or special school shall be read as a reference to the school's board.
   (a) Act, regulation, or other enactment; or
   (b) contract, agreement, deed, instrument, application, lease, licence, notice, award, or other document entered into, made, granted, given, or executed before 18 May 1989,—
 
@@ -2282,7 +2282,7 @@ In this Part and Schedule 7, unless the context otherwise requires,—
     (c) in the case of any other educational institution, the chief executive or person occupying an equivalent position
   - **register** means the list kept under section 128
   - **registration** , in relation to any person, means the entry of the person's name on the register; and has a corresponding meaning
-  - **satisfactory recent teaching experience** , in relation to any person at any time, means—satisfactorily completed by the person during the 5 years before that time
+  - **satisfactory recent teaching experience** , in relation to any person at any time, means— satisfactorily completed by the person during the 5 years before that time
     (a) an uninterrupted period of employment of 2 years (or some shorter period or periods approved by the Teachers Council for the person) in a teaching position or teaching positions in the general education system; or
     (b) a period of employment of 2 years (or some shorter period or periods approved by the Teachers Council for the person), in a position (or positions) that (or each of which) was in the Teachers Council's opinion equivalent to a teaching position, in an educational institution in New Zealand approved by the Teachers Council for the purposes of this Part—
   - **Teachers Council** means the New Zealand Teachers Council established under Part 10A
@@ -2313,11 +2313,11 @@ In this Part and Schedule 7, unless the context otherwise requires,—
     (i) been granted an authorisation again; or
     (ii) been registered as a teacher.
 (2) No employer shall continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if that person is not under the general supervision of a person who holds a practising certificate.
-(3) No employer shall in any calendar year continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if the sum of—is not less than the period specified in subsection (4).
+(3) No employer shall in any calendar year continue to employ in any teaching position any person who holds neither a practising certificate nor an authorisation, if the sum of— is not less than the period specified in subsection (4).
   (a) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
   (b) any period or periods (of which the employer is aware) for which that person has already during that year been employed by any other employer in a teaching position or positions; and
   (c) any period or periods (of which the employer is aware) for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service,—
-(4) The period referred to in subsection (3) is—each being a half-day on which the school or early childhood education and care service at which the person was then employed was open for instruction.
+(4) The period referred to in subsection (3) is— each being a half-day on which the school or early childhood education and care service at which the person was then employed was open for instruction.
   (a) 20 half-days; or
   (b) any greater number of half-days the Teachers Council has allowed in any particular case,—
 (5)
@@ -2358,7 +2358,7 @@ The Teachers Council shall register an applicant under section 121 if satisfied 
     (i) has previously been registered (or has been deemed to have been registered) under section 122; or
     (ii) has had adequate and suitable teaching experience.
 (2) Where the Teachers Council registers a teacher under subsection (1), it shall ensure that the registration shows that the teacher's registration is subject to confirmation.
-(3) Where, before a teacher's registration under subsection (1) expires or is cancelled,—the Teachers Council shall confirm the registration, and amend the entry in the register so as to make clear that the registration has been confirmed.
+(3) Where, before a teacher's registration under subsection (1) expires or is cancelled,— the Teachers Council shall confirm the registration, and amend the entry in the register so as to make clear that the registration has been confirmed.
   (a) the Teachers Council is satisfied that the teacher—
     (i) is familiar enough with current curricula and procedures in the general education system; and
     (ii) is a satisfactory teacher; and
@@ -2472,7 +2472,7 @@ Where any person has skills and experiences that are appropriate to advance the 
 (3) Subject to subsection (2), and subsection (2) of section 130E, a person who has previously been authorised may be authorised again, whether before or after the expiry or cancellation of the previous authorisation.
 
 ### 130C Determining character and likely teaching ability
-(1) In determining—the Teachers Council shall take into account and give due weight to—
+(1) In determining— the Teachers Council shall take into account and give due weight to—
   (a) whether or not a person is of good character; or
   (b) whether or not a person is fit to be a teacher; or
   (c) whether or not a person is likely to be a satisfactory teacher,—
@@ -2543,11 +2543,11 @@ The management of any registered early childhood centre that is not an early chi
   (e) falsely represents a document that is not a limited authority to teach to be a limited authority to teach; or
   (f) is appointed to or continues to be employed in a position, knowing that the appointment or employment is contrary to section 120A or section 120B; or
   (g)
-  (h) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer in a teaching position after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which a school or early childhood education and care service at which the person was then employed was open for instruction); or
+  (h) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of an employer in a teaching position after the sum of— is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which a school or early childhood education and care service at which the person was then employed was open for instruction); or
     (i) the period or periods for which that person has already during that year been employed by the employer in a teaching position or positions; and
     (ii) any period or periods for which that person has already during that year been employed by any other employer in a teaching position or positions; and
     (iii) any period or periods for which that person has during that year been employed as a teacher by the employer at an early childhood education and care service,—
-  (i) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of the employer at an early childhood education and care service as a teacher after the sum of—is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which an early childhood education and care service or school at which the person was then employed was open for instruction).
+  (i) being a person who holds neither a practising certificate nor a limited authority to teach, in any calendar year continues in the employment of the employer at an early childhood education and care service as a teacher after the sum of— is not less than 20 half-days, or any greater number of half-days the Teachers Council has allowed that person (each being a half-day on which an early childhood education and care service or school at which the person was then employed was open for instruction).
     (i) the period or periods for which that person has already during that year been employed by the employer as a teacher; and
     (ii) any period or periods for which that person has already during that year been employed by an employer at any other early childhood education and care service as a teacher; and
     (iii) any period or periods for which that person has during that year been employed in a teaching position by the employer at a State school,—
@@ -2922,12 +2922,12 @@ The Council must from time to time appoint a chief executive, on terms and condi
 ## Part 11 — Miscellaneous
 
 ### 139A No corporal punishment in early childhood services or registered schools
-(1) No person who—shall use force, by way of correction or punishment, towards any student or child enrolled at or attending the school, institution, or service.
+(1) No person who— shall use force, by way of correction or punishment, towards any student or child enrolled at or attending the school, institution, or service.
   (a) is employed by a board (within the meaning of section 2(1)) at or in respect of a school or institution administered by the board; or
   (b) is employed by the managers (within the meaning of section 35A(1)) of a private school at or in respect of the school; or
   (c) is employed at an early childhood service (as defined in section 309); or
   (d) owns, manages, or controls an early childhood service (as so defined),—
-(2) No person who is supervising or controlling—shall use force, by way of correction or punishment, towards the student or child.
+(2) No person who is supervising or controlling— shall use force, by way of correction or punishment, towards the student or child.
   (a) on behalf of a board (within the meaning of section 2(1)) any student enrolled at or attending a school or institution administered by the board; or
   (b) on behalf of the managers (within the meaning of section 35A(1)) of a private school any student enrolled at or attending the school; or
   (c) on behalf of the service provider of an early childhood service (as defined in section 309) any child enrolled at or attending the service,—
@@ -2977,18 +2977,18 @@ The Private Schools Conditional Integration Act 1975 is hereby consequentially a
 (2) All rights, assets, liabilities, and debts that an education board or secondary schools council had immediately before the commencement of this section shall be deemed to have become rights, assets, liabilities, and debts of the Minister.
 (3)
 (4) Notwithstanding subsection (2), where rights and liabilities under a contract of an education board or secondary schools council have become rights and liabilities of the Minister, the Minister may, by notice in writing to the other party or parties to the contract and to the board or boards concerned, declare the board or boards to be successors to the education board or secondary schools council in relation to the contract; and in that case, all the Minister's rights and liabilities under the contract shall be deemed to have become rights and liabilities of the board or boards.
-(5) For the avoidance of doubt, it is hereby declared that the Minister may, without further authority than this section, give or transfer to, or vest in, the board of a school formerly administered by an education board or secondary schools council any asset (including land)—unincumbered, or subject to any incumbrance.
+(5) For the avoidance of doubt, it is hereby declared that the Minister may, without further authority than this section, give or transfer to, or vest in, the board of a school formerly administered by an education board or secondary schools council any asset (including land)— unincumbered, or subject to any incumbrance.
   (a) formerly owned by the education board or secondary schools council; and
   (b) vested in the Minister by subsection (2),—
 
 ### 144 Department of Education abolished
 (1) The Department of Education that existed immediately before the commencement of this Part is hereby abolished.
-(2) All references in—to the Department of Education, or to the Director-General or Director of Education, shall be read, respectively, as references to the Ministry or the Secretary.
+(2) All references in— to the Department of Education, or to the Director-General or Director of Education, shall be read, respectively, as references to the Ministry or the Secretary.
   (a) any Act, regulation, or other enactment, passed, made or enacted before the commencement of this Part; or
   (b) any contract, agreement, deed, instrument, application, licence, notice, or other document entered into, made, granted, given, or executed before that commencement,—
 
 ### 144A Secretary may require information for proper administration of Act
-(1) The Secretary may, by written notice to—require the board, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the board, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
+(1) The Secretary may, by written notice to— require the board, service provider, or managers to give the Secretary, within a time specified in the notice, any information specified in the notice; and the board, service provider, or managers shall within that time give the Secretary in writing all information so required that is reasonably necessary or desirable for the Secretary to have for the proper administration of this Act.
   (a) the board of any State school (within the meaning of section 2(1)); or
   (b) the service provider who operates any licensed early childhood service (within the meaning of section 309) or any certificated playgroup; or
   (c) the managers (within the meaning of section 35A(1)) of any private school registered under that section,—
@@ -2996,7 +2996,7 @@ The Private Schools Conditional Integration Act 1975 is hereby consequentially a
   (a) statistical purposes:
   (b) ensuring that institutions and students receive relevant resourcing:
   (c) monitoring, and ensuring students' rights in respect of, enrolment and attendance.
-(2) For the purposes of section 35A(1), information—is relevant to the question of whether or not a registered school is efficient.
+(2) For the purposes of section 35A(1), information— is relevant to the question of whether or not a registered school is efficient.
   (a) required under subsection (1) to be given to the Secretary; and
   (b)
   (c) reasonably necessary or desirable for the Secretary to have for the proper administration of this Act,—
@@ -3067,7 +3067,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
   - **State school** means a school that is a primary, composite, or secondary school
   - **teachers college** means a college established under section 106 of the Education Act 1964.
 (2) For the purposes of this Act,—
-  (aa) every school—shall be deemed to have been established as a girls' school (or a boys' school) under section 146:
+  (aa) every school— shall be deemed to have been established as a girls' school (or a boys' school) under section 146:
     (i) that was, or is deemed by this subsection to have been, established under section 146; and
     (ii) that immediately before the commencement of the Education Amendment Act 1991 was a secondary school; and
     (iii) at which no male students (or female students) were enrolled in 1990,—
@@ -3078,7 +3078,7 @@ The purpose of sections 144C to 144E is to help ensure the safety of students wh
   (e) every school that was, on 31 December 1989, a composite school within the meaning of section 2(1) of the Education Act 1964 shall be deemed to have been established under section 146 as a composite school.
 
 ### 146 Minister may establish schools
-(1) Subject to section 157 and to subsection (2), the Minister may by notice in the Gazette—establish a new school.
+(1) Subject to section 157 and to subsection (2), the Minister may by notice in the Gazette— establish a new school.
   (a) describing the place where the school is to be located; and
   (ab) in the case of a secondary school, specifying whether it is a boys' school, a girls' school, or a co-educational school; and
   (b) specifying a name for the school,—
@@ -3305,11 +3305,11 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
 ### 156C Property held in trust
 (1) This section applies to any property that, immediately before 2 or more schools merged under section 156A, was held in trust—
   (a) by the board of 1 (or more) of those schools; or
-  (b) for the benefit of—by any other person or body.
+  (b) for the benefit of— by any other person or body.
     (i) 1 (or more) of those schools; or
     (ii) the students or former students of 1 (or more) of those schools,—
 (2) All property to which this section applies continues to be subject to the trust concerned; but the person or body in whom it is vested may at any time apply to Public Trust to devise a scheme to modify the trust in the light of the merger of the schools concerned.
-(3) If satisfied that adequate arrangements have been made to meet the costs of doing so, Public Trust shall—a scheme to modify any trust in respect of which Public Trust has received an application under this section.
+(3) If satisfied that adequate arrangements have been made to meet the costs of doing so, Public Trust shall— a scheme to modify any trust in respect of which Public Trust has received an application under this section.
   (a) in consultation with the board concerned, devise; and
   (b) notify the Solicitor-General of,—
 (4) Where Public Trust notifies the Solicitor-General of a scheme under this section,—
@@ -3326,7 +3326,7 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
 
 ### 157 Consultations
 (1)
-(2) The Minister shall not—without consulting the board of the school concerned.
+(2) The Minister shall not— without consulting the board of the school concerned.
   (aa) declare a school to be a boys' school, a girls' school, or a co-educational school under section 146A(1); or
   (ab) set limits by notice under section 146A(3) on the number of girls who may attend a boys' school, or boys who may attend a girls' school; or
   (a) designate a primary school as a normal or model school under section 148(1)(a); or
@@ -3336,7 +3336,7 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
   (e) determine under section 150(1) that a particular school is to be or cease to be a contributing school; or
   (f) limit under section 151 the education given at a composite school; or
   (g) change under section 153(1) the class of a school—
-(3) The Minister shall not—without first consulting the boards of all State schools whose rolls might, in the opinion of the Minister, be affected if the Minister takes that action.
+(3) The Minister shall not— without first consulting the boards of all State schools whose rolls might, in the opinion of the Minister, be affected if the Minister takes that action.
   (a) establish a school under section 146(1); or
   (aa) declare a school to be a boys' school, a girls' school, or a co-educational school under section 146A(1); or
   (b) establish or disestablish an intermediate department under section 149; or
@@ -3349,7 +3349,7 @@ After the commencement of the Education (Te Aho Matua) Amendment Act 1999, the M
 (4)
 
 ### 157A Community education forums
-The Minister may at any time appoint a person to—and in that case the Minister may refuse to consider whether or not to take the action without—
+The Minister may at any time appoint a person to— and in that case the Minister may refuse to consider whether or not to take the action without—
   (a) convene within a specified area public meetings relating to any action the Minister proposes to consider taking under this Part; and
   (b) advise the Minister on the views expressed at the meetings;—
   (c) giving the person reasonable time to convene the meetings and advise the Minister; and
@@ -3453,7 +3453,7 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **Vice-Chancellor** , in relation to a university, means the chief executive of the university, by whatever name called
   - **Vice-Chancellors Committee** means the New Zealand Vice-Chancellors Committee established by Part 19
   - **wananga** means, subject to subsection (3), a body established as a wananga under section 162(2).
-(2) In the absence of proof to the contrary,—is, for the purposes of the definitions of assisted student and exempt student in subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
+(2) In the absence of proof to the contrary,— is, for the purposes of the definitions of assisted student and exempt student in subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
   (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be, in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 (3) The definitions of the terms college of education, polytechnic, specialist college, university and wananga do not apply for the purposes of subsections (1), (2), and (4) of section 162.
@@ -4032,7 +4032,7 @@ The object of the provisions of this Act relating to institutions is to give the
 (4) In the performance of their functions the Councils and chief executives of institutions, Ministers, and authorities and agencies of the Crown shall act in all respects so as to give effect to the intention of Parliament as expressed in this section.
 
 ### 162 Establishment of institutions
-(1) Upon the commencement of this section, this Act has effect as if—and a reference in any other Act to an institution established under this Act shall be read as including a reference to a body referred to in paragraph (a), paragraph (b), or paragraph (c).
+(1) Upon the commencement of this section, this Act has effect as if— and a reference in any other Act to an institution established under this Act shall be read as including a reference to a body referred to in paragraph (a), paragraph (b), or paragraph (c).
   (a) each body specified in Part 1 of Schedule 13 was established as a university under subsection (2); and
   (b) each body specified in Part 2 of that schedule was established as a college of education under subsection (2); and
   (c) each body that, immediately before that commencement, was established as a polytechnic, institute of technology, technical institute or community college under the Education Act 1964, was established as a polytechnic under subsection (2),—
@@ -4182,7 +4182,7 @@ If, after the constitution of a council has been determined, the council recomme
   (a) in the case of an election of a student member where the students at the institution belong to an association of students recognised by the governing body of the institution, in such manner as the governing body of that association determines; or
   (b) in the case of any other election, in such manner as is provided by statutes made by the governing body of the institution or, if there are no such statutes, in such manner as that governing body determines.
 (5) The governing body of an institution may make statutes for the purposes of subsection (4).
-(6) If, on 1 January 1991,—the Minister may, by written notice to the chief executive of the institution, direct that a specified person or persons, being a person or persons referred to in paragraph (b), is or are to be a member or members of the council until the corresponding member or members referred to in paragraph (a) is or are elected.
+(6) If, on 1 January 1991,— the Minister may, by written notice to the chief executive of the institution, direct that a specified person or persons, being a person or persons referred to in paragraph (b), is or are to be a member or members of the council until the corresponding member or members referred to in paragraph (a) is or are elected.
   (a) the election of a member or members of the council of an institution referred to in paragraph (c), paragraph (d) or paragraph (e) of section 171(2) has not been held or completed or, if provision is made by the council's constitution for a member or members to be elected by the Court of Convocation for the institution, that election has not been held or completed; and
   (b) the previous governing body of the institution included a person or persons whom the Minister considers to correspond to a member or members referred to in paragraph (a),—
 (7) If the Minister notifies the governing body of an institution before 1 January 1991 that a member of the proposed council of the institution to be appointed by the Minister will not be appointed until after that day, that governing body may before that day appoint a person (other than a person who is not eligible for appointment because of section 171(6)) to be a member of the council of the institution from and including that day until the first-mentioned member is appointed or 1 November 1990, whichever is the earlier.
@@ -4287,7 +4287,7 @@ It is the duty of the council of an institution, in the performance of its funct
   (c) to encourage the greatest possible participation by the communities served by the institution so as to maximise the educational potential of all members of those communities with particular emphasis on those groups in those communities that are under-represented among the students of the institution:
   (d) to ensure that the institution does not discriminate unfairly against any person:
   (e) to ensure that the institution operates in a financially responsible manner that ensures the efficient use of resources and maintains the institution's long-term viability:
-  (f) to ensure that proper standards of integrity, conduct, and concern for—are maintained.
+  (f) to ensure that proper standards of integrity, conduct, and concern for— are maintained.
     (i) the public interest; and
     (ii) the well-being of students attending the institution—
 
@@ -4574,7 +4574,7 @@ The money of an institution shall be applied only—
 (1) For the purposes of the Acts specified in the Schedule of the Tax Act Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the previous governing body of each existing non-university institution, and that existing non-university institution, shall be deemed to be the same person with effect on and from the date on which the real and personal property of the previous governing body vests in that institution pursuant to section 204(1); and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the previous governing body of that institution so vests in that institution, all transactions entered into by, and acts of, the previous governing body before the vesting effected by section 204(1) shall be deemed to have been entered into by, or to be those of, that institution and to have been entered into or performed by that institution at the time when they were entered into or performed by the previous governing body.
-(2) For the purposes of determining whether—shares held by the previous governing body of an existing non-university institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 204(1) shall be treated as having been acquired by that institution at the time when they were acquired by the previous governing body.
+(2) For the purposes of determining whether— shares held by the previous governing body of an existing non-university institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 204(1) shall be treated as having been acquired by that institution at the time when they were acquired by the previous governing body.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -4582,7 +4582,7 @@ The money of an institution shall be applied only—
 (4) Nothing in subsection (2) or subsection (3) limits the generality of subsection (1).
 
 ### 206 Transfer of Crown assets and liabilities to institutions
-(1) Notwithstanding any Act, rule of law, or agreement, the Minister may, on behalf of the Crown, do any 1 or more of the following:on any terms and conditions the Minister agrees with the institution's chief executive.
+(1) Notwithstanding any Act, rule of law, or agreement, the Minister may, on behalf of the Crown, do any 1 or more of the following: on any terms and conditions the Minister agrees with the institution's chief executive.
   (a) transfer to an institution assets and liabilities of the Crown (being assets and liabilities relating to the activities to be carried on by the institution):
   (b) vest in an institution any rights conferred by designations under operative district schemes applying to land transferred to the institution:
   (c) grant to an institution leases, licences, easements, permits, or rights of any kind in respect of any assets or liabilities of the Crown,—
@@ -4597,7 +4597,7 @@ The money of an institution shall be applied only—
   (e) any satisfaction or performance by the institution in respect of the asset or liability shall be deemed to be also satisfaction or performance by the Crown:
   (f) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the institution shall be deemed to be also to the benefit of the Crown.
 (6) No provision in any agreement limiting the Crown's right to sell any assets to third parties, or for determining the consideration for the sale of any assets to third parties, or obliging the Crown to account to any person for the whole or part of the proceeds of sale by the Crown of any assets to third parties, or obliging the Crown to pay a greater price than otherwise by reason of or as a consequence of the sale of any assets to third parties, shall have any application or effect in respect of any agreement or transfer entered into or effected pursuant to or under this section or pursuant to such an agreement or transfer.
-(7) Where—then, whether or not the Act is repealed, such of the terms and conditions set out in the Act as are specified in the Order in Council (with all necessary modifications) shall continue to apply in respect of that land or those interests, licences, permits, or rights after the transfer unless the institution and the holders of that land or those interests, licences, permits, or rights otherwise agree.
+(7) Where— then, whether or not the Act is repealed, such of the terms and conditions set out in the Act as are specified in the Order in Council (with all necessary modifications) shall continue to apply in respect of that land or those interests, licences, permits, or rights after the transfer unless the institution and the holders of that land or those interests, licences, permits, or rights otherwise agree.
   (a) land, interests in land, licences, permits, or rights created on terms and conditions wholly or partly set out in any Act are transferred to an institution pursuant to this section; and
   (b) the Governor-General has by Order in council declared that this subsection shall apply in respect of that land or those interests, licences, permits, or rights—
 (8)
@@ -4608,7 +4608,7 @@ The money of an institution shall be applied only—
 (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 1952 that are to be transferred to an institution shall—
   (a) be identified by an adequate legal description, or on plans lodged in the office of the Chief Surveyor for the land district in which the land is situated (being plans certified as correct for the purposes of this section by that Chief Surveyor); and
   (b) be approved by the Governor-General in Council and vest in the institution pursuant to and on a date specified in an Order in Council made for the purposes of this section.
-(2) Notwithstanding any other provision of this Act, no land that is subject to—shall be transferred to an institution pursuant to section 206(1) of this Act.
+(2) Notwithstanding any other provision of this Act, no land that is subject to— shall be transferred to an institution pursuant to section 206(1) of this Act.
   (a) a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948; or
   (b) reservation from sale or disposition under section 58 of the Land Act 1948—
 (3) All land that is subject to the Land Act 1948 or the Forests Act 1949 and that is transferred to an institution pursuant to this Act shall cease to be subject to the Land Act 1948 or the Forests Act 1949, as the case may be, from the date of that transfer, unless otherwise expressly provided by this Act or any other Act.
@@ -4712,7 +4712,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (3) A person who would, but for the disestablishment of the institution, have been entitled to be granted an award of the institution is entitled to be granted a like award,—
   (a) if the institution is incorporated in another institution, of the other institution; or
   (b) otherwise, of such institution as the Secretary directs.
-(4) A person who has partially completed a course at the disestablished institution leading to an award is entitled to enrol in a similar course at,—and to be granted such status, and such credit for work performed at the disestablished institution, as the council of the other institution, after consulting the Qualifications Authority, considers appropriate.
+(4) A person who has partially completed a course at the disestablished institution leading to an award is entitled to enrol in a similar course at,— and to be granted such status, and such credit for work performed at the disestablished institution, as the council of the other institution, after consulting the Qualifications Authority, considers appropriate.
   (a) if the institution is incorporated in another institution, the other institution; or
   (b) otherwise, such other institution as the Secretary directs to enrol the person,—
 (5) If the disestablished institution is, immediately upon its disestablishment, incorporated in another institution,—
@@ -4726,7 +4726,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (9) Any contract or other instrument (other than a contract of, or instrument relating to, employment) subsisting, or any proceeding pending, immediately before the disestablishment of an institution to which the institution was a party has effect after the disestablishment as if—
   (a) the institution in which the disestablished institution is incorporated or the Minister, as the case may be, is substituted for the disestablished institution as a party to the contract, other instrument or proceeding; and
   (b) any reference in the contract or other instrument, or in a pleading, affidavit or other document in the proceeding, to the disestablished institution in its capacity as a party to the contract, other instrument or proceeding is (except in relation to matters that occurred before the disestablishment) a reference to the institution in which the disestablished institution is incorporated or the Minister, as the case may be.
-(10) Notwithstanding subsection (2), the council of the disestablished institution shall continue in existence for the purpose of complying, or facilitating compliance, with Part 4 of the Crown Entities Act 2004 and section 220 of this Act in relation to any academic year of the institution and,—shall give to the council of the disestablished institution any assistance that that council requires for the purpose of complying with its obligations under those provisions and is responsible for paying any expenses incurred by that council (including remuneration and expenses of members of that council) in so complying.
+(10) Notwithstanding subsection (2), the council of the disestablished institution shall continue in existence for the purpose of complying, or facilitating compliance, with Part 4 of the Crown Entities Act 2004 and section 220 of this Act in relation to any academic year of the institution and,— shall give to the council of the disestablished institution any assistance that that council requires for the purpose of complying with its obligations under those provisions and is responsible for paying any expenses incurred by that council (including remuneration and expenses of members of that council) in so complying.
   (a) if the institution is incorporated in another institution, the council of the other institution; or
   (b) otherwise, the Secretary,—
 
@@ -4734,7 +4734,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) a disestablished institution referred to in section 217(5) and the other institution referred to in that section shall be deemed to be the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the other institution pursuant to that section; and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the other institution, all transactions entered into by, and acts of, the disestablished institution before the vesting effected by section 217(5) shall be deemed to have been entered into by, or to be those of, the other institution and to have been entered into or performed by the other institution at the time when they were entered into or performed by the disestablished institution.
-(2) For the purposes of determining whether—shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 217(5) shall be treated as having been acquired by the other institution referred to in that section at the time when they were acquired by the disestablished institution.
+(2) For the purposes of determining whether— shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 217(5) shall be treated as having been acquired by the other institution referred to in that section at the time when they were acquired by the disestablished institution.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -4745,7 +4745,7 @@ The submission in respect of any land or interest in land of a claim under secti
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) a disestablished institution referred to in section 217(6) and the Minister shall be deemed to be the same person with effect on and from the date on which the real and personal property of the disestablished institution vests in the Minister pursuant to that section; and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the disestablished institution so vests in the Minister, all transactions entered into by, and acts of, the disestablished institution before the vesting effected by section 217(6) shall be deemed to have been entered into by, or to be those of, the Minister and to have been entered into or performed by the Minister at the time when they were entered into or performed by the disestablished institution.
-(2) For the purposes of determining whether—shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 217(6) shall be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
+(2) For the purposes of determining whether— shares held by a disestablished institution in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 217(6) shall be treated as having been acquired by the Minister at the time when they were acquired by the disestablished institution.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -4788,7 +4788,7 @@ The council of an institution shall ensure that copies of its annual report are 
 (7) A delegation under subsection (1) to a committee shall be deemed to be a delegation to the persons from time to time constituting the committee.
 (8) A delegation under this section to a member of the staff may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices.
 (9) A delegation under this section does not affect or prevent the performance of any function or the exercise of any power by the council or affect the responsibility of the council for the actions of any person acting under the delegation.
-(10) A delegation under this section is revocable at will—and until it is revoked continues in force according to its tenor.
+(10) A delegation under this section is revocable at will— and until it is revoked continues in force according to its tenor.
   (a) in the case of a delegation under subsection (1), in writing signed by at least 2 members of the council; or
   (b) in the case of a delegation under subsection (2), in writing signed by the chief executive or by at least 2 of the members of the committee, as the case requires,—
 (11) This section applies to the academic board of an institution (established under section 182(2)) as if—
@@ -4821,7 +4821,7 @@ The council of an institution shall ensure that copies of its annual report are 
   (b) the council of the institution is satisfied that the person is capable of undertaking the course of study or training concerned.
 (4) Where an eligible person applies for enrolment in a course of study or training at an institution, the person is, subject to this section, entitled to be enrolled in that course.
 (5) Where the council of an institution is satisfied that it is necessary to do so because of insufficiency of staff, accommodation, or equipment, the council may determine the maximum number of students who may be enrolled in a particular course of study or training at the institution in a particular year.
-(6) Where—the council may, in the selection of the students to be enrolled, give preference to eligible persons who are included in a class of persons that is under-represented among the students undertaking the course.
+(6) Where— the council may, in the selection of the students to be enrolled, give preference to eligible persons who are included in a class of persons that is under-represented among the students undertaking the course.
   (a) the maximum number of persons who may be enrolled at an institution in a particular course in a particular year is determined by the council of the institution under subsection (5); and
   (b) the number of eligible persons who apply for enrolment in that course in that year exceeds the maximum number so determined—
 (7) The council of an institution shall not permit a foreign student to be enrolled at the institution in a course of study or training the duration of which will be or is likely to be not less than 3 months unless the course is an approved course and the institution is accredited to provide the course.
@@ -4907,7 +4907,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
     (ii) the marginal cost to the institution (including the institution's marginal administrative and other general costs, and any marginal initial or start-up costs of the course) of providing tuition in the course for 1 student in addition to the domestic students receiving tuition in the course, in every other case; and
   (b) an amount fixed by the council that is not less than an amount that in the council's opinion is an appropriate reflection of the use by 1 student receiving tuition in the course of the capital facilities (if any) whose provision at the institution is necessary by virtue only of the institution's provision of tuition to foreign students in addition to domestic students; and
   (c) all other fees (if any) prescribed by the council.
-(2A) Notwithstanding subsection (2), a council may accept from a foreign student in respect of any course of study or training at an institution an amount that is less than the sum of the amounts referred to in that subsection by an amount that is no greater than the sum of—out of the general revenue of the council (not being funds provided under section 159YA or 159ZC) or out of any special supplementary grant under that section that may be used for the purpose.
+(2A) Notwithstanding subsection (2), a council may accept from a foreign student in respect of any course of study or training at an institution an amount that is less than the sum of the amounts referred to in that subsection by an amount that is no greater than the sum of— out of the general revenue of the council (not being funds provided under section 159YA or 159ZC) or out of any special supplementary grant under that section that may be used for the purpose.
   (a) any amounts by which the council has decided to subsidise the student in respect of the course; and
   (b) the appropriate proportion of any amounts by which the council has decided to subsidise the student in respect of courses of a kind or description that include the course; and
   (c) the appropriate proportion of any amounts by which the council has decided to subsidise students of a kind or description that include the student in respect of the course; and
@@ -5312,7 +5312,7 @@ The Committee has—
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the University Grants Committee and the Vice-Chancellors Committee shall be deemed to be the same person with effect on and from the date on which real and personal property of the University Grants Committee so vests in the Vice-Chancellors Committee pursuant to section 243(1); and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which real and personal property of the University Grants Committee so vests in the Vice-Chancellors Committee, all transactions entered into by, and acts of, the University Grants Committee in relation to that property before the vesting effected by section 243(1) shall be deemed to have been entered into by, or to be those of, the Vice-Chancellors Committee and to have been entered into or performed by the Vice-Chancellors Committee at the time when they were entered into or performed by the University Grants Committee.
-(2) For the purposes of determining whether—shares held by the University Grants Committee in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 243(1) shall, if the shares vest under that section in the Vice-Chancellors Committee, be treated as having been acquired by the Vice-Chancellors Committee at the time when they were acquired by the University Grants Committee.
+(2) For the purposes of determining whether— shares held by the University Grants Committee in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 243(1) shall, if the shares vest under that section in the Vice-Chancellors Committee, be treated as having been acquired by the Vice-Chancellors Committee at the time when they were acquired by the University Grants Committee.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -5392,7 +5392,7 @@ The object of the provisions of this Act relating to the Authority is to establi
   (j) to promote and monitor inter-institutional course approval and moderation procedures:
   (k) such other functions as are conferred on it by this Act or any other enactment:
   (l) to consult such persons, authorities, and bodies as it considers appropriate for the purposes of the performance of any of its functions.
-(2) Before establishing policies or criteria under subsection (1)(ca), (d), (e), or (ea) in respect of a class of institutions, the Authority shall—and may consult such other bodies as the Authority considers appropriate.
+(2) Before establishing policies or criteria under subsection (1)(ca), (d), (e), or (ea) in respect of a class of institutions, the Authority shall— and may consult such other bodies as the Authority considers appropriate.
   (a) in the case of criteria or policies in respect of universities, consult the Vice-Chancellors Committee; and
   (ab) in the case of criteria or policies in respect of bodies that are providing adult and community education, consult—
     (i) those bodies; or
@@ -5421,7 +5421,7 @@ The Authority must from time to time appoint a chief executive of the Authority,
 Employment in the service of the Authority is Government service within the meaning of the Government Superannuation Fund Act 1956.
 
 ### 254D Employees transferring from other government employment
-Every person who,—on that commencement becomes an employee of the Qualifications Authority.
+Every person who,— on that commencement becomes an employee of the Qualifications Authority.
   (a) before the commencement of Schedule 15 and while employed in the Public Service or the education service, or employed by the University Grants Committee, the Trades Certification Board or the Authority for Advanced Vocational Awards, received from the Secretary written notice that the person is designated to become an employee of the Qualifications Authority; and
   (b) immediately before that commencement was still employed in the Public Service or the education service or by the University Grants Committee, the Trades Certification Board or the Authority for Advanced Vocational Awards,—
 
@@ -5477,7 +5477,7 @@ The Authority has power to carry out such research activities as it considers re
 (3) The Authority may grant or refuse approval to the course.
 (4) In deciding whether to grant or refuse approval to a course the Authority is required only to consider the course as a whole.
 (5) After a course has been approved, the course does not cease to be approved merely because of changes to the content of the course but nothing in this subsection affects the duties and powers of the Authority under subsections (8) and (9).
-(6) Where—the Authority shall grant approval to the course.
+(6) Where— the Authority shall grant approval to the course.
   (a) there are inter-institutional procedures for the assessment and approval of courses of study or training; and
   (b) the procedures for assessment and approval conform to the criteria established under section 253(1)(d); and
   (c) an application is made under subsection (2) in respect of a course that has been assessed and approved in accordance with the appropriate procedures,—
@@ -5529,7 +5529,7 @@ The Authority has power to carry out such research activities as it considers re
   (a) the Authority may by writing delegate to that body the powers of the Authority under sections 255A, 258, 258A, 259, and 259A in relation to those institutions or institutions of that class, as the case may be; and
   (b) while the delegation is in force, references in sections 255A, 258, 258A, 259, and 259A to the Authority shall, in the application of those sections to the institutions or class of institutions to which the delegation relates, be read as references to that body.
 (3) A body exercising powers pursuant to subsection (1) or subsection (2) shall, in exercising those powers, apply the criteria established by the Authority under paragraphs (d) and (e) of section 253(1).
-(4) If the Authority is of the opinion on reasonable grounds that a body exercising powers pursuant to subsection (1) or subsection (2) may not be applying the criteria referred to in subsection (3), the Authority may give written notice to the body—and shall consider any views expressed by the body.
+(4) If the Authority is of the opinion on reasonable grounds that a body exercising powers pursuant to subsection (1) or subsection (2) may not be applying the criteria referred to in subsection (3), the Authority may give written notice to the body— and shall consider any views expressed by the body.
   (a) stating that it is of that opinion; and
   (b) setting out the reasons why the Authority is of that opinion; and
   (c) giving the body a reasonable opportunity to consult the Authority as to the way in which the powers have been exercised by the body,—
@@ -5757,7 +5757,7 @@ A member may be paid any allowances in respect of child care that the Board dete
 Employment by the Service is Government service within the meaning of the Government Superannuation Fund Act 1956.
 
 ### 286D Employees transferring from Ministry and education boards
-(1) Every person who,—on that commencement becomes an employee of the Service.
+(1) Every person who,— on that commencement becomes an employee of the Service.
   (a) before the commencement of this section and while an employee of the Ministry or an education board, received from the Secretary written notice that the person is designated to become an employee of the Service; and
   (b) immediately before that commencement was still an employee of the Ministry or that education board,—
 (2) If a person has become an employee of the Service under subsection (1), the person's period of continuous service in the Public Service or, as the case may be, the education service so ended must be treated for all purposes other than superannuation as service in the employment of the Service.
@@ -5832,7 +5832,7 @@ A delegation to the member who is the general manager continues to have effect,�
     (ii) in any other case, each of the members of the body, or of the governing body of the body, as the case may be, also commits an offence.
 (8) Where a person contravenes any of subsections (4), (5), or (6), that person commits an offence.
 (9) Where the council of an institution contravenes section 224(7), the institution commits an offence.
-(10) Where a person contravenes section 232(1) or section 233—each commit an offence.
+(10) Where a person contravenes section 232(1) or section 233— each commit an offence.
   (a) if the private training establishment, or its governing body, is a body corporate, the person and the body corporate; or
   (b) otherwise, the person and the members of the governing body of the establishment,—
 (11) A person who commits an offence against this section is liable, on summary conviction, to a fine not exceeding $10,000.
@@ -5851,7 +5851,7 @@ A delegation to the member who is the general manager continues to have effect,�
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the National Council of Adult Education referred to in section 293(1)(a) (in this section referred to as the National Council) and the trustees referred to in that section (in this section referred to as the trustees) shall be deemed to be the same person with effect on and from the date on which the real and personal property of the National Council vests in the trustees pursuant to that section; and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the National Council so vests in the trustees, all transactions entered into by, and acts of, the National Council before the vesting effected by section 293(1)(a) shall be deemed to have been entered into by, or to be those of, the trustees and to have been entered into or performed by the trustees at the time when they were entered into or performed by the National Council.
-(2) For the purposes of determining whether—shares held by the National Council in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 293(1)(a) shall be treated as having been acquired by the trustees at the time when they were acquired by the National Council.
+(2) For the purposes of determining whether— shares held by the National Council in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 293(1)(a) shall be treated as having been acquired by the trustees at the time when they were acquired by the National Council.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -5880,7 +5880,7 @@ A delegation to the member who is the general manager continues to have effect,�
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the Board referred to in section 295(2)(a) (in this section referred to as the Board) and the Qualifications Authority shall be deemed to be the same person with effect on and from the date on which the real and personal property of the Board vests in that Authority pursuant to that section; and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the Board so vests in the Qualifications Authority, all transactions entered into by, and acts of, the Board before the vesting effected by section 295(2)(a) shall be deemed to have been entered into by, or to be those of, that Authority and to have been entered into or performed by that Authority at the time when they were entered into or performed by the Board.
-(2) For the purposes of determining whether—shares held by the Board in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 295(2)(a) shall be treated as having been acquired by the Qualifications Authority at the time when they were acquired by the Board.
+(2) For the purposes of determining whether— shares held by the Board in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 295(2)(a) shall be treated as having been acquired by the Qualifications Authority at the time when they were acquired by the Board.
   (a) any taxpayer satisfies the requirements of section IF 1(1)(a) of the Income Tax Act 2004; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IG 1 of the Income Tax Act 2004; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section ME 5(1)(i) of the Income Tax Act 2004, or in a taxpayer's dividend withholding payment account under section MG 5(1)(i) of that Act, or in a taxpayer's branch equivalent tax account under section MF 4(3)(d) of that Act,—
@@ -5897,10 +5897,10 @@ A delegation to the member who is the general manager continues to have effect,�
   (a) the Minister is substituted for the Committee as a party to the contract, other instrument or proceeding; and
   (b) any reference in the contract or other instrument, or in a pleading, affidavit or other document in the proceeding, to the Committee in its capacity as a party to the contract, other instrument or proceeding is (except in relation to matters that occurred before that commencement) a reference to the Minister.
 (5) Any rulings, decisions, or other acts of authority of the University Grants Committee, or of any committee of the University Grants Committee, or of the Universities Entrance Board, or of any committee of the Universities Entrance Board, to the extent to which they were subsisting immediately before the commencement of this section and are capable of being repealed, replaced, or amended by an appropriate body established under this Act, continue in force after that commencement, so far as they are capable of operation and with any necessary modifications, as if they had been duly made, given, or done by that body.
-(6) Where, but for the repeal of the Universities Act 1961, the Chairman of the University Grants Committee would, by virtue of his or her office, have been—the Chairperson of the Vice-Chancellors Committee is, by force of this subsection, a trustee of that trust or a member of that board, committee, authority or other body, as the case may be, in place of the Chairman of the University Grants Committee.
+(6) Where, but for the repeal of the Universities Act 1961, the Chairman of the University Grants Committee would, by virtue of his or her office, have been— the Chairperson of the Vice-Chancellors Committee is, by force of this subsection, a trustee of that trust or a member of that board, committee, authority or other body, as the case may be, in place of the Chairman of the University Grants Committee.
   (a) a trustee of any trust established by an Act, other than a trust of which a member of the Vice-Chancellors Committee is a trustee; or
   (b) a member of any board, committee, authority, or other body, established by an Act, other than a board, committee, authority, or other body, of which a member of the Vice-Chancellors Committee is a member,—
-(7) Where, but for the repeal of the Universities Act 1961, the University Grants Committee would have had power to appoint a person to be—the Chairperson of the Vice-Chancellors Committee is, by force of this subsection, a trustee of that trust or a member of that board, committee, authority, or other body, as the case may be, and, if a person was such a trustee or member immediately before the commencement of this section by virtue of such an appointment, that appointment shall be deemed to have terminated upon that commencement.
+(7) Where, but for the repeal of the Universities Act 1961, the University Grants Committee would have had power to appoint a person to be— the Chairperson of the Vice-Chancellors Committee is, by force of this subsection, a trustee of that trust or a member of that board, committee, authority, or other body, as the case may be, and, if a person was such a trustee or member immediately before the commencement of this section by virtue of such an appointment, that appointment shall be deemed to have terminated upon that commencement.
   (a) a trustee of any trust established by an Act, other than a trust of which a member of the Vice-Chancellors Committee is a trustee; or
   (b) a member of any board, committee, authority, or other body, established by an Act, other than a board, committee, authority, or other body, of which a member of the Vice-Chancellors Committee is a member,—
 (8) Notwithstanding the repeal of the Universities Act 1961,—
@@ -5918,7 +5918,7 @@ A delegation to the member who is the general manager continues to have effect,�
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the University Grants Committee and the Minister shall be deemed to be the same person with effect on and from the date on which real and personal property of that Committee vests in the Minister pursuant to section 297(1)(a); and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which real and personal property of the University Grants Committee so vests in the Minister, all transactions entered into by, and acts of, that Committee in relation to that property before the vesting effected by section 297(1)(a) shall be deemed to have been entered into by, or to be those of, the Minister and to have been entered into or performed by the Minister at the time when they were entered into or performed by that Committee.
-(2) For the purposes of determining whether—shares held by the University Grants Committee in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 297(1)(a) shall, if the shares vest under that section in the Minister, be treated as having been acquired by the Minister at the time when they were acquired by that Committee.
+(2) For the purposes of determining whether— shares held by the University Grants Committee in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 297(1)(a) shall, if the shares vest under that section in the Minister, be treated as having been acquired by the Minister at the time when they were acquired by that Committee.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -5945,7 +5945,7 @@ A delegation to the member who is the general manager continues to have effect,�
 (1) For the purposes of the Acts specified in the Schedule of the Tax Administration Act 1994 and any other enactment that imposes, or provides for the collection of, a tax, duty, levy, or other charge—
   (a) the previous Authority referred to in section 299(1) (in this section referred to as the previous Authority) and the Qualifications Authority shall be deemed to be the same person with effect on and from the date on which the real and personal property of the previous Authority vests in the Qualifications Authority pursuant to that section; and
   (b) in respect of the liability under any such enactment for, and the assessment, determination, or imposition of, taxes, duties, levies, or other charges accruing on and from the day on which the real and personal property of the previous Authority so vests in the Qualifications Authority, all transactions entered into by, and acts of, the previous Authority before the vesting effected by section 299(2)(a) shall be deemed to have been entered into by, or to be those of, the Qualifications Authority and to have been entered into or performed by that Authority at the time when they were entered into or performed by the previous Authority.
-(2) For the purposes of determining whether—shares held by the previous Authority in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 299(2)(a) shall be treated as having been acquired by the Qualifications Authority at the time when they were acquired by the previous Authority.
+(2) For the purposes of determining whether— shares held by the previous Authority in any company (whether directly or through any 1 or more interposed companies) immediately before the vesting effected by section 299(2)(a) shall be treated as having been acquired by the Qualifications Authority at the time when they were acquired by the previous Authority.
   (a) any taxpayer satisfies the requirements of section IA 5(2) of the Income Tax Act 2007; or
   (b) any taxpayer is included in a group of companies or a wholly-owned group for the purposes of section IA 6 of the Income Tax Act 2007; or
   (c) any debit arises to be recorded in a taxpayer's imputation credit account under section OB 41 of the Income Tax Act 2007, or in a taxpayer’s FDP account under section OC 24 of that Act, or in a taxpayer’s branch equivalent tax account under section OE 15 of that Act,—
@@ -6017,7 +6017,7 @@ In this Part of this Act, unless the context otherwise requires,—
   (a) confirm it; or
   (b) substitute for it any other decision that the person or body that made it might have made.
 (2A) An application for a review under subsection (2) must be brought within 3 months after the person receives notification of the decision, or (if the Secretary considers there is good reason for the delay) within such further period as the Secretary may allow on application made either before or after the expiration of that period of 3 months.
-(3) Where any person is aggrieved by—the person may appeal against the decision; and in that case the Authority shall consider the appeal and, in the light of all the circumstances it considers relevant, shall either—and the confirmation or decision shall have effect as if it were the decision of the Secretary.
+(3) Where any person is aggrieved by— the person may appeal against the decision; and in that case the Authority shall consider the appeal and, in the light of all the circumstances it considers relevant, shall either— and the confirmation or decision shall have effect as if it were the decision of the Secretary.
   (a) the decision by the Secretary under subsection (2)(a) to confirm any decision relating to the person; or
   (b) any decision relating to the person substituted by the Secretary under subsection (2)(b) for any other decision; or
   (c) any decision relating to the person made by the Secretary (other than by an employee of the Ministry under delegation) to which subsection (1) applies—
@@ -6047,11 +6047,11 @@ The provisions of section 226A apply to any secondary school as if such a school
     (ii) in relation to recipients of a particular class or description; or
     (iii) in relation to a particular recipient or particular recipients.
 (3) The Secretary (or any person authorised for the purpose by the Secretary) may, by written notice to any recipient, require the recipient to do all or any of the following things:
-  (a) produce to the Secretary (or authorised person) any papers, documents, records, or other things, relevant to the recipient's entitlement at any time—that are in the person's possession or under the person's control:
+  (a) produce to the Secretary (or authorised person) any papers, documents, records, or other things, relevant to the recipient's entitlement at any time— that are in the person's possession or under the person's control:
     (i) to a statutory allowance or student loan; or
     (ii) to be paid a statutory allowance at a particular rate or any amount of a student loan,—
   (b) allow copies of any such papers, documents, or records to be made:
-  (c) give the Secretary (or authorised person) any information or particulars relevant to the recipient's entitlement at any time—that is required by the Secretary (or the authorised person).
+  (c) give the Secretary (or authorised person) any information or particulars relevant to the recipient's entitlement at any time— that is required by the Secretary (or the authorised person).
     (i) to a statutory allowance or student loan; or
     (ii) to be paid a statutory allowance at a particular rate or any amount of a student loan,—
 (4) The Secretary (or any person authorised for the purpose by the Secretary) may investigate the circumstances at any time of any recipient so far as they may relate to the recipient's entitlement at any time—
@@ -6070,7 +6070,7 @@ The provisions of section 226A apply to any secondary school as if such a school
   (b) makes a statement from which any material matter has been omitted; or
   (c) provides any false or misleading paper, document, or record; or
   (d) provides a paper, document, or record from which any material matter has been omitted.
-(2) A recipient must notify the Secretary, as soon as practicable, of any change in the recipient's circumstances that materially affects his or her entitlement at any time—and the recipient commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 if he or she wilfully fails to comply with this subsection for the purpose of receiving or continuing to receive a statutory allowance or student loan, or a statutory allowance at a particular rate or any amount of a student loan, other than that to which the recipient is entitled.
+(2) A recipient must notify the Secretary, as soon as practicable, of any change in the recipient's circumstances that materially affects his or her entitlement at any time— and the recipient commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 if he or she wilfully fails to comply with this subsection for the purpose of receiving or continuing to receive a statutory allowance or student loan, or a statutory allowance at a particular rate or any amount of a student loan, other than that to which the recipient is entitled.
   (a) to a statutory allowance or student loan; or
   (b) to be paid a statutory allowance at a particular rate or any amount of a student loan,—
 (2A) For the purposes of subsection (2), a change in the recipient's circumstances includes a change in another person's circumstances that—
@@ -6099,7 +6099,7 @@ The provisions of section 226A apply to any secondary school as if such a school
     (b) any special assistance granted out of a Crown Bank Account from money appropriated by Parliament under section 124(1)(d) or (da)of that Act
   - **department** means the department for the time being responsible for the administration of the Social Security Act 1964
   - **tax file number** has the same meaning as in section YA 1 of the Income Tax Act 2007.
-(2) During any period in which the Ministry and the department are the same department,—in respect of the payment to that person of an allowance or benefit, or the payment to that person of an allowance or benefit at a rate, to which he or she was not entitled.
+(2) During any period in which the Ministry and the department are the same department,— in respect of the payment to that person of an allowance or benefit, or the payment to that person of an allowance or benefit at a rate, to which he or she was not entitled.
   (a) allowance information, beneficiary information, and student loan information may be held on the same system or systems within that department:
   (b) allowance information about any person and beneficiary information and student loan information about the same person may be held on the same file within that department:
   (c) allowance information about any person may be used by the department for the purposes of verifying—
@@ -6569,7 +6569,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 325 Chief Review Officer to perform certain functions
 The Chief Review Officer shall—
-  (a) administer—reviews, either general or relating to particular matters, of the performance of applicable organisations in relation to the applicable services they provide; and
+  (a) administer— reviews, either general or relating to particular matters, of the performance of applicable organisations in relation to the applicable services they provide; and
     (i) when directed by the Minister to do so; or
     (ii) notwithstanding section 32 of the State Sector Act 1988, of the Chief Review Officer's own motion,—
   (b) administer the preparation of reports to the Minister on the undertaking and results of such reviews; and
@@ -6581,10 +6581,10 @@ The Chief Review Officer may designate any suitably qualified person (whether or
 ### 327 Powers of entry and inspection
 For the purposes of enabling any functions of the Chief Review Officer to be performed, any review officer may, at any reasonable time and having given reasonable notice to an applicable organisation or any applicable person of the organisation, enter any place (other than a dwellinghouse) occupied by the organisation or person, and—
   (a) conduct inspections or inquiries:
-  (b) require any person to produce documents or information relating to—and permit the review officer to make copies or extracts of the documents or information:
+  (b) require any person to produce documents or information relating to— and permit the review officer to make copies or extracts of the documents or information:
     (i) an applicable service that the organisation provides; or
     (ii) people to whom such a service is (or has been) provided,—
-  (c) require any applicable person of the organisation, or any other person—to make or provide statements, in any form and manner the review officer specifies, about any matters relating to an applicable service:
+  (c) require any applicable person of the organisation, or any other person— to make or provide statements, in any form and manner the review officer specifies, about any matters relating to an applicable service:
     (i) employed by the organisation or any applicable person of the organisation; or
     (ii) involved in the management of the organisation,—
   (d) inspect the work of any person to whom an applicable service is (or has been) provided:
@@ -6607,7 +6607,7 @@ Review officers designated under section 326 are also review officers for the pu
 ### 328C Powers of review officers for purposes of sections 328A to 328D
 (1) For the purposes of enabling any functions of the Chief Review Officer to be performed for the purposes of section 328A, any review officer may, at any reasonable time and having given reasonable notice,—
   (a) conduct inspections or inquiries:
-  (b) require any parent or other person to produce documents or information relating to—and permit the review officer to make copies or extracts of the documents or information:
+  (b) require any parent or other person to produce documents or information relating to— and permit the review officer to make copies or extracts of the documents or information:
     (i) the educational service the parent or other person provides; or
     (ii) people to whom such educational service is (or has been) provided,—
   (c) require any parent or other person to make or provide statements, in such form and manner as is reasonable in the circumstances, about any matters relating to provision of the educational service provided by that parent or person:
@@ -6691,7 +6691,7 @@ Section 2A of the Government Superannuation Fund Act 1956 applies to the company
 
 ### 340 Existing rights, assets, liabilities, and debts
 (1) Subject to subsection (2), on the incorporation of the company,—
-  (a) all rights and assets of the Crown,—formerly exercisable or used, exclusively or substantially, by the learning media section of the Ministry shall become rights and assets of the company; and
+  (a) all rights and assets of the Crown,— formerly exercisable or used, exclusively or substantially, by the learning media section of the Ministry shall become rights and assets of the company; and
     (i) including rights under the Ministry's leases of premises then occupied by the learning media section of the Ministry; but
     (ii) otherwise excluding interests in land,—
   (b) all liabilities and debts of the Crown contracted in relation to, or in relation to activities exclusively or substantially carried on by, the learning media section of the Ministry shall become liabilities and debts of the company.
@@ -6867,7 +6867,7 @@ In clauses 1B to 1E, unless the context otherwise requires,—
 The name of a board is The [name of school or institution] Board of Trustees.
 
 ### 4 Trustees not personally liable
-No trustee is personally liable for—if the act or omission was (so far as the trustee's involvement is concerned) in good faith in pursuance or intended pursuance of the functions of the board.
+No trustee is personally liable for— if the act or omission was (so far as the trustee's involvement is concerned) in good faith in pursuance or intended pursuance of the functions of the board.
   (a) any act done or omitted by the board; or
   (b) any loss to the board arising out of any act done or omitted by the trustee,—
 
@@ -6894,7 +6894,7 @@ The powers of a board are not affected by—
 (2) Where a board does not at any meeting determine a time and place for its next meeting, the time and place of its next meeting shall be determined—
   (a) by the person for the time being appointed under clause 7; or
   (b) where no such person is for the time being appointed, and a trustee who presided at the board's previous meeting is still a trustee, by the trustee; and
-  (c) where no such person is for the time being appointed, and either—by the principal.
+  (c) where no such person is for the time being appointed, and either— by the principal.
     (i) such a person presided at the board's last meeting; or
     (ii) the trustee who presided at the board's last meeting is no longer a trustee,—
 (3) Where a casual vacancy occurs, the person for the time being appointed under clause 7 or, where there is no such person, the principal shall fix a time (being within 28 days of the occurrence of the vacancy) and place for a meeting of the board to deal with the vacancy.
@@ -6918,7 +6918,7 @@ The powers of a board are not affected by—
 (12) Except as provided in this Act, every board shall determine its own procedures.
 
 ### 9 Validation and invalidation of elections of boards
-(1) Where—the Minister may, by notice in the Gazette, validate the lateness, omission, or irregularity.
+(1) Where— the Minister may, by notice in the Gazette, validate the lateness, omission, or irregularity.
   (a) anything required to be done in connection with an election under this Act—
     (i) has been done after the time it is required to be done; or
     (ii) has not been done at all; or
@@ -7122,7 +7122,7 @@ Subject to any other enactment, the Committee may invest any of its money in any
 **Primary education**
 
 ### 77 State primary schools to be kept open at certain times
-Except to the extent that—every State primary school shall be kept open 5 days in each week for at least 4 hours each day, of which hours 2 in the morning and 2 in the afternoon shall be; and the teaching shall be entirely of a secular character.
+Except to the extent that— every State primary school shall be kept open 5 days in each week for at least 4 hours each day, of which hours 2 in the morning and 2 in the afternoon shall be; and the teaching shall be entirely of a secular character.
   (a) a school term commences on any day other than a Monday or ends with any day other than a Friday; or
   (b) a school is lawfully closed pursuant to section 129C,—
 
@@ -7241,7 +7241,7 @@ This Part shall be read together with and deemed part of the Education Act 1964 
 (13) Notwithstanding that domestic and exempt students may not be able to be enrolled, a foreign student who is not an exempt student may be enrolled at a tertiary institution, or in any subject, course, or programme at a tertiary institution, if the enrolment is in a vacant place—
   (a) that the council established for foreign students; and
   (b) whose continued availability is dependent on the fees payable by foreign students enrolled in it.
-(14) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
+(14) In the absence of proof to the contrary,— is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
   (a) a certificate signed by the chief executive of the Ministry of External Relations and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
 (15) The council of a tertiary institution shall—
@@ -7250,7 +7250,7 @@ This Part shall be read together with and deemed part of the Education Act 1964 
   (c) comply with all accounting requirements relating to foreign students enrolled at the institution contained in any notice published by the Minister in the Gazette (being notice expressed to apply to the institution or an institution of a class or description to which the institution belongs) that is for the time being in force.
 
 ### 21 Bulk funding of tertiary institutions
-(1) In each financial year the governing body of every college of education, technical institute, and community college—out of money appropriated by Parliament for the purpose.
+(1) In each financial year the governing body of every college of education, technical institute, and community college— out of money appropriated by Parliament for the purpose.
   (a) shall be paid a general grant; and
   (b) may be paid 1 or more special grants,—
 (2) The amount of every general and special grant shall be determined by the Minister.
