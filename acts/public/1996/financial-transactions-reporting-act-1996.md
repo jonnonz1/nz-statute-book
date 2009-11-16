@@ -1,5 +1,5 @@
 # Financial Transactions Reporting Act 1996
-_Consolidation as at 2009-10-17_
+_Consolidation as at 2009-11-16_
 
 > An Act to facilitate the prevention, detection, investigation, and prosecution of money laundering, and the enforcement of the Terrorism Suppression Act 2002 and the Proceeds of Crime Act 1991, by—aimposing certain obligations on financial institutions in relation to the conduct of financial transactions; andband to provide for matters incidental thereto
 
@@ -52,13 +52,13 @@ _Consolidation as at 2009-10-17_
     (a) in relation to Part 2 of this Act, means such amount as is for the time being prescribed for the purposes of that Part of this Act by regulations made under section 56 of this Act:
     (b) in relation to Part 5 of this Act, means such amount as is for the time being prescribed for the purposes of that Part of this Act by regulations made under section 56 of this Act:
   - **principal facility holder** , in relation to a facility provided by a financial institution, means the facility holder or facility holders whom that financial institution reasonably regards, for the time being, as principally responsible for the administration of that facility
-  - **real estate agent** has the same meaning as it has in section 3 of the Real Estate Agents Act 1976
+  - **real estate agent** has the same meaning as the definition of in section 4 of the Real Estate Agents Act 2008.
   - **real estate transaction** means any matter that involves any work that, by virtue of sections 35 and 36(2) of the Lawyers and Conveyancers Act 2006, may be done only—
     (a) by or under the supervision of a lawyer; or
     (b) by an incorporated law firm; or
     (c) by or under the supervision of a conveyancing practitioner; or
     (d) by an incorporated conveyancing firm; or
-    (e) by a real estate agent who holds a licence in force under the Real Estate Agents Act 1976
+    (e) by a real estate agent who holds a licence in force under the Real Estate Agents Act 2008
   - **search warrant** means a warrant issued under section 44 of this Act
   - **superannuation scheme** means a superannuation scheme within the meaning of the Superannuation Schemes Act 1989; but does not include—
     (a) any superannuation scheme established principally for the purpose of providing retirement benefits to employees (within the meaning of that Act), where—
