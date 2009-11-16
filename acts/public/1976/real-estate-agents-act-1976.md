@@ -1,5 +1,5 @@
 # Real Estate Agents Act 1976
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-11-16_
 
 > An Act to make better provision for the licensing of real estate agents and for matters related thereto, and to consolidate and amend the law relating to the conduct of the business of real estate agents
 
