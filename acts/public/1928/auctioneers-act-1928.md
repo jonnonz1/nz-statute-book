@@ -1,5 +1,5 @@
 # Auctioneers Act 1928
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-11-16_
 
 > An Act to make better provisions with respect to the licensing of and the conduct of business by auctioneers
 
@@ -85,7 +85,7 @@ Every licence issued to take effect after the commencement of this Act shall, un
 (3) Where application for a licence is made by . . . a company the District Court Judge shall, unless in the circumstances he otherwise decides, require the production of evidence as to the financial position of the company, and as to the character of the directors and general manager
 
 ### 13 Applicant also applying for licence as real estate agent
-In any case where an applicant for an auctioneer's licence also files in the same Court an application for a licence under the Real Estate Agents Act 1976, the notice required by section 10 hereof may in the prescribed form be combined with the notice required by section 20 of the aforesaid Act, and both applications may be heard and determined together.
+[Repealed]
 
 ### 14 Endorsements on licences
 (1) Every auctioneer's licence shall have endorsed thereon—
