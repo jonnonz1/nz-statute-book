@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-11-16_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -611,9 +611,10 @@ A person who, in contravention of section 21, acts as a barrister or as a solici
 (1) Sections 32, 33, and 35 do not prevent any person from preparing for or on behalf of any other person any tenancy agreement or agreement evidencing a tenancy if—
   (a) the tenancy is for a term of 12 months or less; and
   (b) no right of renewal is conferred on the tenant by the agreement.
-(2) Sections 32, 33, and 35 do not prevent any real estate agent who holds a licence in force under the Real Estate Agents Act 1976—
+(2) Sections 32, 33, and 35 do not prevent any person who holds a current licence under the Real Estate Agents Act 2008—
   (a) from preparing any agreement for sale and purchase of land or any interest in land or of the goodwill of a business or of chattels; or
   (b) from giving advice about legal rights and obligations that is incidental to the preparing of an agreement of the kind referred to in paragraph (a).
+(2A) However, subsection (2) does not apply to a person who, under the Real Estate Agents Act 2008, holds a licence as a salesperson unless the person has had at least 6 months experience as such as a licensee.
 (3) Sections 32, 33, and 35 do not prevent a patent attorney from drawing, preparing, or reviewing—
   (a) those provisions of any conveyance, deed, or agreement that relate to intellectual property rights; or
   (b) any conveyance, deed, or agreement by which only intellectual property rights are assigned.
