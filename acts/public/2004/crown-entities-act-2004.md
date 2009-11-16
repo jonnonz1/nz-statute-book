@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2008-09-30_
+_Consolidation as at 2009-11-16_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1590,6 +1590,7 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | New Zealand Transport Agency |  |  |  |  |  |
 | New Zealand Walking Access Commission |  |  |  |  |  |
 | Pharmaceutical Management Agency |  |  |  |  |  |
+| Real Estate Agents Authority |  |  |  |  |  |
 | Social Workers Registration Board |  |  |  |  |  |
 | Sport and Recreation New Zealand |  |  |  |  |  |
 | Tertiary Education Commission |  |  |  |  |  |
