@@ -1,5 +1,5 @@
 # Employment Relations Act 2000
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2009-11-16_
 
 ### 1 Title
 This Act is the Employment Relations Act 2000.
@@ -152,7 +152,7 @@ In this Act, unless the context otherwise requires,—
 (3) For the purposes of subsection (2), the court or the Authority—
   (a) must consider all relevant matters, including any matters that indicate the intention of the persons; and
   (b) is not to treat as a determining matter any statement by the persons that describes the nature of their relationship.
-(4) Subsections (2) and (3) do not limit or affect the Real Estate Agents Act 1976 or the Sharemilking Agreements Act 1937.
+(4) Subsections (2) and (3) do not limit or affect the Real Estate Agents Act 2008 or the Sharemilking Agreements Act 1937.
 (5) The court may, on the application of a union, a Labour Inspector, or 1 or more other persons, by order declare whether the person or persons named in the application are—
   (a) employees under this Act; or
   (b) employees or workers within the meaning of any of the Acts specified in section 223(1).
@@ -3959,6 +3959,11 @@ Where any party to any proceedings applies to the court to accord urgency to the
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
 
+### 3 Purpose
+The purpose of this Act is—
+  (a) to validate the registration of certain societies as unions under the principal Act, and to provide for matters relating to the validation; and
+  (b) to amend the principal Act to provide that the Employment Relations Authority, in complying with the rules of natural justice, is not required to allow cross-examination of parties or persons, but may, in its absolute discretion, permit such cross-examination.
+
 ## Part 2 — Validation of union registration, and amendments relating to cross-examination
 
 **Validation of union registration and related matters**
@@ -4001,6 +4006,15 @@ Nothing in this Act affects the power of the Court of Appeal to make an order fo
 ### 2 Commencement
 This Act comes into force on 1 December 2004.
 
+### 3 Purpose
+(1) This Part—
+  (a) amends the provisions of the principal Act, particularly in relation to—
+    (i) the duty of good faith; and
+    (ii) collective bargaining; and
+    (iii) the processes for resolution of employment relationship problems; and
+  (b) provides, in the principal Act, protection to employees in situations where business undertakings are sold, transferred, or contracted out.
+(2) The purpose of the amendments referred to in subsection (1) is to promote and encourage behaviour that meets the object of the principal Act of building productive employment relationships.
+
 ### 73 Transitional provisions
 (1) The amendments made by this Act do not apply to anything done or any matter arising before the commencement of this Act.
 (2) However, subsection (1) applies subject to subsections (3) to (20).
@@ -4033,8 +4047,11 @@ This Act is the Employment Relations Amendment Act 2006.
 ### 2 Commencement
 (1) The following provisions come into force 3 months after the date on which this Act receives the Royal assent:
   (a) subpart 2 of Part 6A of the principal Act (as inserted by section 6 of this Act); and
-  (b) sections 8 and 9.
+  (b) sections 8 and 9 of this Act.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 4 Purpose
+The purpose of this Act is to substitute a new Part 6A of the principal Act to extend and clarify its application, especially to specified categories of employees in relation to subsequent contracting (sometimes referred to as succession contracts) and subcontracting.
 
 ### 11 Transitional provision
 (1) Subsection (2) applies to restructurings (within the meaning of Part 6A of the principal Act as in force before the commencement of this section), the agreements for which are concluded before the commencement of this section even if the restructurings they relate to are to take effect after the commencement of this section.
@@ -4053,6 +4070,13 @@ This Act is the Employment Relations (Breaks, Infant Feeding, and Other Matters)
 
 ## Part 1 — Preliminary provisions
 
+### 4 Purpose
+The purpose of this Act is—
+  (a) to insert new Parts 6C and 6D into the principal Act to—
+    (i) require facilities and breaks to be provided, so far as is reasonable and practicable in the circumstances, for employees who wish to breastfeed in the workplace or during work periods; and
+    (ii) require employees to be provided with rest breaks and meal breaks; and
+  (b) to make it a ground for a personal grievance for an employee's employment to be adversely affected because he or she is a member of a KiwiSaver scheme or a complying superannuation fund.
+
 ### 5 Application
 (1) The amendments made by sections 7 and 8, to the extent that they relate to terms and conditions in employment agreements,—
   (a) apply to employment agreements entered into on or after 2 September 2008; and
@@ -4061,3 +4085,18 @@ This Act is the Employment Relations (Breaks, Infant Feeding, and Other Matters)
 (2) The amendments made by sections 7 and 8, to the extent that they relate to other matters, apply—
   (a) only to matters occurring on or after 2 September 2008; and
   (b) whether or not an employee's employment agreement was entered into before 2 September 2008.
+
+### 1 Title
+This Act is the Employment Relations Amendment Act 2008.
+
+### 2 Commencement
+(1) This Act (except sections 6 and 7) comes into force on the day after the date on which it receives the Royal assent.
+(2) Sections 6 and 7 come into force on 1 March 2009.
+
+### 4 Purpose
+The purpose of this Act is—
+  (a) to provide when an employment agreement may specify a trial period of 90 days or less, during which an employee can be dismissed and cannot bring a personal grievance or other legal proceedings in respect of the dismissal, subject to certain exceptions; and
+  (b) to repeal the amendments made by the Employment Relations (Breaks, Infant Feeding, and Other Matters) Amendment Act 2008 relating to employees' membership of a KiwiSaver scheme or complying superannuation fund.
+
+### 5 Application
+The amendments made by sections 6 and 7 apply to employment agreements entered into only after the commencement of those sections.
