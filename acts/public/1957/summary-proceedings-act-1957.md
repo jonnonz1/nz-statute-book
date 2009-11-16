@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-11-01_
+_Consolidation as at 2009-11-16_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -3248,7 +3248,6 @@ The enactments specified in Schedule 3 to this Act are hereby amended in the man
 | The Prostitution Reform Act 2003 | 23 | Offence to breach prohibitions on use in prostitution of persons under 18 years |
 | The Protection of Personal and Property Rights Act 1988 | 45(3) | False statement |
 | The Public Service Investment Society Management Act (No 2) 1979 | 22 | Destroying or altering records |
-| The Real Estate Agents Act 1976 | 59 | Rendering false account |
 | The Referenda (Postal Voting) Act 2000 | 68(2) | Voting papers |
 | The Reserve Bank of New Zealand Act 1989 | 29 | Making or issuing of other bank notes or coins |
 |  | 176 | Offence against Act |
