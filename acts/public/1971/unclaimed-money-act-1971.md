@@ -1,5 +1,5 @@
 # Unclaimed Money Act 1971
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-11-16_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to unclaimed money
 
@@ -58,7 +58,7 @@ Subject to this Act, there shall be payable to the Crown all money which becomes
   (e) Any person, firm, body, or institution carrying on the business of borrowing and lending money in New Zealand, in respect of money borrowed:
   (f) Any insurance office or company carrying on business in New Zealand, including the Government Life Insurance Corporation:
   (g) Any auctioneer within the meaning of the Auctioneers Act 1928, whether or not a company, in respect of any balance of proceeds of any auction sale:
-  (h) Any real estate agent within the meaning of the Real Estate Agents Act 1976, whether or not a company, in respect of money held in a trust account:
+  (h) any agent within the meaning of the Real Estate Agents Act 2008, whether or not a company, in respect of money held in a trust account:
   (ha) any conveyancing practitioner within the meaning of the Lawyers and Conveyancers Act 2006, in respect of money held in a trust account:
   (i) Any sharebroker within the meaning of the Sharebrokers Act 1908, whether or not a company, in respect of money held on behalf of clients:
   (j) Any chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) in respect of money held on behalf of clients:
