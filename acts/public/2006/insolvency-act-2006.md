@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2009-09-30_
+_Consolidation as at 2009-11-17_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1387,13 +1387,14 @@ A charge given by the bankrupt under an agreement to give the charge that was ma
 
 **Insolvent gifts**
 
-### 204 Insolvent gift may be cancelled
-A gift by a bankrupt to another person may be cancelled on the Assignee's initiative if—
-  (a) the bankrupt made the gift within 5 years immediately before adjudication; and
-  (b) the bankrupt was unable to pay his or her due debts immediately after making the gift.
+### 204 Insolvent gift within 2 years may be cancelled
+A gift by a bankrupt to another person may be cancelled on the Assignee's initiative if the bankrupt made the gift within 2 years immediately before adjudication.
 
-### 205 Presumption of insolvent gift
-A gift that is made within 2 years immediately before the bankrupt's adjudication is presumed, unless the contrary is proved, to be made at a time when the bankrupt is unable to pay his or her due debts.
+### 205 Insolvent gift within 2 to 5 years may be cancelled if bankrupt unable to pay debts
+(1) A gift by a bankrupt to another person may be cancelled on the Assignee's initiative if—
+  (a) the bankrupt made the gift within the period beginning 2 years immediately before adjudication and ending 5 years immediately before adjudication; and
+  (b) the bankrupt was unable to pay his or her debts.
+(2) A bankrupt is presumed to have been unable to pay his or her debts for the purpose of subsection (1)(b) unless the party claiming under the gift proves that the bankrupt was immediately after the making of the gift, or at any time after that up to his or her adjudication, able to pay his or her debts without the aid of the property that the gift is composed of.
 
 **Procedure for cancelling irregular transactions**
 
@@ -1431,7 +1432,9 @@ A gift that is made within 2 years immediately before the bankrupt's adjudicatio
 ### 208 Limits on recovery
 The court must not make an order under section 207 against a person (A) if A proves that when A received the property or interest in the property—
   (a) A acted in good faith; and
-  (b) a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that the bankrupt was, or would become, unable to pay his or her due debts; and
+  (b) a reasonable person in A's position would not have suspected, and A did not have reasonable grounds for suspecting, that,—
+    (i) in the case of an insolvent gift, the bankrupt was, or would become, unable to pay his or her debts without the aid of the property that the gift is composed of; or
+    (ii) in the case of any other irregular transaction referred to in section 206(1), the bankrupt was, or would become, unable to pay his or her due debts; and
   (c) A gave value for the property or interest in the property or altered A's position in the reasonably held belief that the transfer of the property or interest in the property to A was valid and would not be cancelled.
 
 ### 209 Recovery by appointee
@@ -1452,8 +1455,8 @@ The Land Transfer Act 1952 does not limit sections 206 to 209.
 The Assignee may recover the difference in value (that is, C in the formula in section 211(1)) from X if—
   (a) the bankrupt entered into the transaction with X within 2 years immediately before adjudication; and
   (b) either—
-    (i) the bankrupt was unable to pay his or her due debts when the bankrupt entered into the transaction; or
-    (ii) the bankrupt became unable to pay his or her due debts as a result of entering into the transaction.
+    (i) the bankrupt was unable to pay his or her debts when the bankrupt entered into the transaction; or
+    (ii) the bankrupt became unable to pay his or her debts as a result of entering into the transaction.
 
 **Bankrupt's contribution to another person's property**
 
@@ -2592,7 +2595,7 @@ This subpart sets out a procedure for dealing with a debtor who has no realisabl
   (c) the debtor has not previously been adjudicated bankrupt; and
   (d) the debtor has total debts (excluding any student loan balance) that are not less than $1,000 and not more than $40,000; and
   (e) under a prescribed means test, the debtor does not have the means of repaying any amount towards those debts.
-(2) In this section, realisable assets does not include the assets that a bankrupt is allowed to retain under section 158.
+(2) In this section, realisable assets does not include the assets that a bankrupt is allowed to retain under section 158, but does include any assets (for example, gifted assets) that might be recoverable by the Assignee if the debtor were adjudicated bankrupt on the date of application for entry to the no asset procedure and if the irregular transaction provisions in subpart 7 of Part 3 applied.
 (3) The amounts in subsection (1)(d) may be varied by the Governor-General by Order in Council to take account of increases in the all groups index number of the Consumer Price Index.
 
 ### 364 Debtor disqualified from entry to no asset procedure in certain cases
@@ -2613,7 +2616,7 @@ A debtor who has applied for entry to the no asset procedure must not obtain cre
 (2) The Assignee must as soon as practicable notify creditors and advertise in the prescribed manner that the debtor has been admitted to the no asset procedure.
 
 ### 368 Public register of persons admitted to no asset procedure
-(1) The Assignee must maintain a public register of persons admitted to the no asset procedure.
+(1) The Assignee must maintain a public register of persons admitted to the no asset procedure and persons discharged from that procedure under section 377.
 (2) The register must be maintained in accordance with subpart 5 of Part 7.
 
 **Effect of entry to no asset procedure**
@@ -2664,7 +2667,7 @@ A debtor's participation in the no asset procedure terminates when—
 (2) The court may make an order under subsection (1) on the terms and conditions that it sees fit.
 
 ### 375 Effect of termination
-Except in the case of termination by discharge under section 377, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure become again enforceable on termination of the debtor's participation in the no asset procedure.
+Except in the case of termination by discharge under section 377, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure become again enforceable on termination of the debtor's participation in the no asset procedure, and the debtor is liable to pay any penalties and interest that may have accrued.
 
 ### 376 Creditor may apply to Assignee for termination
 (1) A creditor who objects on a ground set out in subsection (2) to the admission of the debtor to the no asset procedure may apply to the Assignee for termination.
@@ -2672,9 +2675,32 @@ Except in the case of termination by discharge under section 377, the debtor's d
   (a) the debtor did not meet the criteria for entry to the no asset procedure; or
   (b) there are reasonable grounds for the Assignee to conclude that the debtor was disqualified under section 364.
 
-### 377 Discharge
+### 377 Time of discharge
 (1) The debtor is automatically discharged from the no asset procedure 12 months after the date when the debtor was admitted to it.
-(2) On discharge, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure are cancelled, and the debtor is not liable to repay any part of the debts, including any penalties and interest that may have accrued.
+(2) However, a debtor is not automatically discharged if the Assignee—
+  (a) is satisfied that the 12-month period should be extended for the purpose of properly considering whether the debtor's participation in the no asset procedure should be terminated; and
+  (b) sends a written deferral notice to the debtor's last known address before the expiry of the 12-month period.
+(3) The deferral notice must state an alternative date for automatic discharge, which must be no later than 25 working days after the expiry of the 12-month period.
+(4) The deferral notice is effective whether or not the debtor receives it.
+(5) The Assignee must, as soon as practicable, send a written notice of the deferral to each creditor of the debtor known to the Assignee.
+(6) The debtor is automatically discharged from the no asset procedure on the date stated in the deferral notice.
+(7) The Assignee may revoke a deferral notice in the same way in which it was sent, in which case, the debtor is automatically discharged from the no asset procedure on—
+  (a) the expiry of the 12-month period in subsection (1), if the notice is revoked before that date; or
+  (b) in other cases, the date of revocation.
+
+### 377A Effect of discharge
+(1) On discharge under section 377, the debtor's debts that became unenforceable on the debtor's entry to the no asset procedure are cancelled, and the debtor is not liable to pay any part of the debts, including any penalties and interest that may have accrued.
+(2) However, subsection (1) does not apply to—
+  (a) any debt or liability incurred by fraud or fraudulent breach of trust to which the debtor was a party:
+  (b) any debt or liability for which the debtor has obtained forbearance through fraud to which the debtor was a party.
+(3) The debts and liabilities referred to in subsection (2) become again enforceable on discharge under section 377, and the debtor is liable to pay any penalties and interest that may have accrued.
+
+### 377B Discharge does not release partners and others
+A discharge under section 377 does not release any person who, at the date of discharge, was—
+  (a) a business partner of the discharged debtor; or
+  (b) a co-trustee with the discharged debtor; or
+  (c) jointly bound or had made any contract with the discharged debtor; or
+  (d) a guarantor or in the nature of a guarantor of the discharged debtor.
 
 ## Part 6 — Insolvent deceased estates
 
@@ -3214,7 +3240,7 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (a) the purpose of providing information about persons subject to a current summary instalment order; and
   (b) the further purposes set out in subsection (4).
 (3) A public register maintained under section 368 has—
-  (a) the purpose of providing information about persons currently admitted to the no asset procedure; and
+  (a) the purpose of providing information about persons currently admitted to the no asset procedure and persons discharged from that procedure under section 377; and
   (b) the further purposes set out in subsection (4).
 (4) The further purposes of the public registers are to—
   (a) facilitate the compliance, audit, and other supporting and administrative functions of the Assignee, Ministry, the courts, or any other person under this Act or any other enactment; and
@@ -3222,15 +3248,16 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (c) provide statistical information and information for research purposes in relation to bankruptcy, summary instalment orders, and the no asset procedure.
 
 ### 449 General information that must be held in public registers
-(1) The public registers must contain the following information in respect of a person (P) who is or has been bankrupt or who is subject to a current summary instalment order or currently admitted to the no asset procedure:
+(1) The public registers must contain the following information in respect of a person (P) who is or has been bankrupt, or who is subject to a current summary instalment order, or who is currently admitted to the no asset procedure, or who has been discharged from that procedure under section 377:
   (a) P's full name:
-  (b) whether P is currently bankrupt, or has been discharged from bankruptcy, or is subject to a current summary instalment order, or is currently admitted to the no asset procedure, as the case may be:
+  (b) whether P is currently bankrupt, or has been discharged from bankruptcy, or is subject to a current summary instalment order, or is currently admitted to the no asset procedure, or has been discharged from the no asset procedure under section 377, as the case may be:
   (c) the bankruptcy, summary instalment order, or no asset procedure number, as the case may be:
   (d) P's address as contained in P's statement of affairs, or application for adjudication, or application for a summary instalment order, or application for admission to the no asset procedure or, if P has notified the Assignee of a change of address, that address, or in the case of adjudication on a creditor's application, P's address contained in that application:
   (e) P's occupation and current employment status, if known:
   (f) in the case of an adjudication by the court, which court, and the time and date of the adjudication:
   (g) in the case of an automatic adjudication, a statement that P was automatically adjudicated bankrupt under section 47, and the time and date of the adjudication:
   (h) if P is admitted to the no asset procedure, the date of admission:
+  (ha) if P is discharged from the no asset procedure under section 377, the date when P was so discharged:
   (i) if P is a discharged bankrupt, the date, type, and conditions (if any) of discharge:
   (j) if the bankruptcy was annulled under section 309(1)(b) or (c) or section 310(2)(b) or (c), under which of those provisions it was annulled:
   (k) if the court has refused to discharge P from bankruptcy, that information:
@@ -3239,11 +3266,22 @@ This subpart applies to a public register maintained under section 62 or 354 or 
   (n) in the case of a person subject to a current summary instalment order, the full name and business postal address of the supervisor:
   (o) any other prescribed information or documents.
 (2) Subject to sections 447(2) and 451(1), the information listed in subsection (1) must be available to any member of the public.
-(3) A public register must not contain any information in relation to a person whose bankruptcy was annulled under section 309(1)(a) or 310(2)(a).
+(3) A public register must not contain any information in relation to a person whose bankruptcy was annulled under section 309(1)(a) or 310(2)(a), and the bankruptcy that was so annulled does not count for the purposes of section 449A.
 (4) All information relating to a person who has been adjudicated bankrupt and discharged from bankruptcy must be removed from the public register maintained under section 62—
   (a) 4 years after the date of discharge; but
   (b) in the case of a conditional discharge, 4 years after the discharge becomes unconditional.
+(4A) All information relating to a person who has been admitted to the no asset procedure must be removed from the public register maintained under section 368—
+  (a) 4 years after the date of discharge under section 377; or
+  (b) as soon as practicable after a termination under section 372(a), (c), or (d).
 (5) All information relating to a person who has been adjudicated bankrupt but whose bankruptcy has been annulled under section 309(1)(b) or (c) or section 310(2)(b) or (c) must be removed 7 years after the date of adjudication from the public register maintained under section 62.
+
+### 449A Information kept indefinitely on public register after multiple insolvency events
+(1) This section applies in the case of a person who—
+  (a) is or has been bankrupt on 2 or more occasions; or
+  (b) is or has been both bankrupt and discharged from the no asset procedure under section 377.
+(2) Information about the person must not be removed from the public register under this Act and, in particular, section 449(4), (4A), and (5) do not apply to the person.
+(3) The Assignee must ensure that the public register contains all of the information required by this Act about the person and each insolvency event.
+(4) Bankruptcies under the Insolvency Act 1967 count for the purposes of subsections (1) and (3), but bankruptcies under the Bankruptcy Act 1908 do not count for either purpose.
 
 ### 450 Restricted information that may be held in public register maintained under section 62
 (1) The public register maintained under section 62 may contain any or all of the documents set out in section 100 in respect of a person (B) who is or has been bankrupt.
@@ -3271,16 +3309,19 @@ A person may only search the public registers in accordance with this Act or reg
   (b) is subject to a current summary instalment order; or
   (c) is currently admitted to the no asset procedure; or
   (d) is a discharged bankrupt; or
+  (da) is discharged from the no asset procedure under section 377; or
   (e) is a discharged bankrupt subject to conditions of discharge; or
   (f) was adjudicated bankrupt but the adjudication was annulled under section 309(1)(b) or section 310(2)(b); or
-  (g) was adjudicated bankrupt but the adjudication was annulled under section 309(1)(c) or section 310(2)(c).
+  (g) was adjudicated bankrupt but the adjudication was annulled under section 309(1)(c) or section 310(2)(c); or
+  (h) is subject to section 449A (which relates to permanent retention of information on the register after multiple insolvency events).
 
 ### 454 Search purposes
 The public registers may be searched—
   (a) by any individual, or by any person with the consent of that individual, for the purpose of searching for information about that individual:
-  (b) by any person for the purpose of ascertaining whether another person is bankrupt, is a discharged bankrupt, is subject to a current summary instalment order, or is currently admitted to the no asset procedure:
+  (b) by any person for the purpose of ascertaining whether another person is bankrupt, is a discharged bankrupt, is subject to a current summary instalment order, is currently admitted to the no asset procedure, or is discharged from that procedure under section 377:
   (c) by any person for any purpose related to the bankruptcy of a person, the making of a current summary instalment order in respect of a person, or the admission of a person to the no asset procedure:
-  (d) by any person for any of the purposes set out in section 448(4)(a) or (b).
+  (d) by any person for any of the purposes set out in section 448(4)(a) or (b):
+  (e) by any person for the purpose of ascertaining whether section 449A applies to another person.
 
 ### 455 Information contained in public registers may be used for statistical or research purposes
 Nothing in this subpart prevents the use of information contained in the public registers for statistical or research purposes if the information—
@@ -3308,3 +3349,35 @@ The Crown and the Assignee cannot be sued for any act or omission in relation to
 
 | Insolvency Act 2006 | Section 62 |
 | --- | --- |
+
+### 1 Title
+This Act is the Insolvency Amendment Act 2009.
+
+### 2 Commencement
+(1) Section 10 is deemed to have come into force on 10 March 2009.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Transitional provisions and amendment to Privacy Act 1993
+
+**Insolvent gifts**
+
+### 17 Amendments relating to insolvent gifts apply only to bankruptcies commenced after Act comes into force
+The principal Act applies to any bankruptcy that is commenced before the day after the date on which this Act receives the Royal assent as if sections 4 to 6 of this Act had not been enacted.
+
+**Which debts are cancelled on discharge from no asset procedure**
+
+### 18 Amendments relating to cancellation of fraudulent debts under no asset procedure
+(1) Any debt that is cancelled under section 377(2) of the principal Act in the period before the enactment of section 377A of the principal Act by section 10 of this Act, but that is later revived by the enactment of section 377A(2), must be treated as if the debt had not been cancelled.
+(2) In particular, the debtor is liable to repay any part of the debt, including any penalties and interest that may have accrued during the period when the debt was cancelled.
+(3) Subsection (2) does not limit subsection (1).
+(4) Any proceedings for enforcement of the debt may be commenced or continued after the enactment of section 377A as if the debt had never been cancelled.
+
+**Public registers**
+
+### 19 Amendments relating to 4-year period for public registers apply to all debtors admitted to no asset procedure after Act comes into force
+The principal Act applies to any debtor who is admitted to the no asset procedure before the day after the date on which this Act receives the Royal assent as if sections 12, 13, 15, and 16 of this Act had not been enacted.
+
+### 20 Amendments relating to retention of records if multiple insolvency events
+(1) Section 449A of the principal Act (as enacted by section 14 of this Act) applies to any person regardless of whether any of the insolvency events referred to in section 449A(1) occurred before or after the enactment of that section.
+(2) As soon as practicable after this section comes into force, the Assignee must ensure that the public register contains all of the information required by the principal Act (as amended by this Act) about any person to whom section 449A applies.
+(3) To avoid doubt, the requirement in subsection (2) includes a requirement to ensure that the public register contains information about bankruptcies under the Insolvency Act 1967 in respect of any person to whom section 449A applies.
