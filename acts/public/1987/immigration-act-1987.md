@@ -1,5 +1,5 @@
 # Immigration Act 1987
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-11-17_
 
 > An Act generally to reform the law relating to immigration, and in particular to remove the need for persons who are in New Zealand unlawfully to be dealt with by way of criminal prosecution
 
@@ -1370,11 +1370,18 @@ Except as otherwise provided in this Act, where an applicant so requests, an imm
 (2) The cancellation endorsement serves as a direction to any person who may be detaining the person in custody in reliance on the order to release the person from custody immediately.
 (3) An immigration officer who cancels a removal order must ensure that any person who is detaining the person named in the order in reliance on this Part releases the person immediately.
 (4) In the case of a person who has already been removed from or has left New Zealand, an immigration officer of the type referred to in subsection (1) may cancel a removal order by sending the person named in it a notice to that effect in the prescribed form.
-(5) Nothing in this section gives any person a right to apply to an immigration officer for the cancellation of a removal order, and where any person purports to so apply—
-  (a) The immigration officer is under no obligation to consider the application; and
-  (b) Whether the application is considered or not,—
-    (i) The immigration officer is under no obligation to give reasons for any decision relating to the application, other than the reason that this subsection applies; and
-    (ii) Section 23 of the Official Information Act 1982 does not apply in respect of the application.
+(5) Nothing in this section gives a person a right to apply to an immigration officer for the cancellation of a removal order. However, an immigration officer must consider cancelling the removal order of a person who is in New Zealand if the person provides information to the officer concerning his or her personal circumstances, and the information is relevant to New Zealand's international obligations.
+(6) If an immigration officer does consider cancelling a removal order, whether by way of a purported application or his or her own motion, the officer must have regard to any relevant international obligations, but otherwise,—
+  (a) may make a decision as he or she thinks fit; and
+  (b) in doing so, is not under any obligation, whether by implication or otherwise,—
+    (i) to apply any test or any particular test and, in particular, the officer is not obliged to apply the test set out in section 47(3); or
+    (ii) to inquire into the circumstances of, or to make any further inquiries in respect of the information provided by or in respect of, the person who is the subject of the removal order or any other person.
+(7) Whether or not an immigration officer considers cancelling a removal order,—
+  (a) he or she is not obliged to give reasons for any decision, other than the reason that this subsection applies; and
+  (b) section 23 of the Official Information Act 1982 does not apply in respect of the decision.
+(8) However, to the extent that an immigration officer does have regard to any international obligations, the officer is obliged to record—
+  (a) a description of the international obligations; and
+  (b) the facts about the person's personal circumstances.
 
 ### 59 Execution of removal order
 (1) Any member of the Police may arrest without warrant a person on whom a removal order has been served and detain that person in accordance with this section.
@@ -3136,6 +3143,7 @@ In sections 141AE and 141AF, unless the context otherwise requires,—
     (a) a fine within the meaning of section 79 of the Summary Proceedings Act 1957 or an amount of reparation:
     (b) a fine or other sum of money to which any of sections 19 to 19E of the Crimes Act 1961 applies:
     (c) a fine to which any of sections 43 to 46 of the Misuse of Drugs Amendment Act 1978 applies
+    (d) any levy payable under the Sentencing Act 2002
   - **fines enforcement action** includes the execution of a warrant to arrest a person in respect of the non-payment of the whole, or of any part, of any fine
   - **identifying information** means personal information that identifies an individual, which may include the individual's passport number
   - **reparation** means—
