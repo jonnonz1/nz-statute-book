@@ -1,5 +1,5 @@
 # Securities Markets Act 1988
-_Consolidation as at 2008-05-02_
+_Consolidation as at 2009-11-24_
 
 ### 1 Short Title and commencement
 (1) This Act is the Securities Markets Act 1988.
@@ -26,9 +26,9 @@ _Consolidation as at 2008-05-02_
     (b) is authorised or instigated by, or on behalf of, an investment broker or prepared with the co-operation of, or by arrangement with, an investment broker; and
     (c) is to be, or has been, distributed to a person
   - **business** includes any profession, trade, or undertaking, whether or not carried on with the intention of making a pecuniary profit
-  - **business rules** means the rules made by a securities exchange that govern the conduct of—
-    (a) business on securities markets operated by the securities exchange:
-    (b) persons authorised to undertake trading activities on those securities markets
+  - **business rules** means the rules made by a registered exchange that govern the conduct of—
+    (a) business on any securities markets or futures markets operated by the registered exchange:
+    (b) persons authorised to undertake trading activities on any securities markets or futures markets operated by the registered exchange
   - **chief executive** means the chief executive of the department that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **civil remedy order** has the meaning set out in section 42R
   - **civil remedy provision** has the meaning set out in section 42S
@@ -36,7 +36,9 @@ _Consolidation as at 2008-05-02_
   - **Commission** means the Securities Commission established under the Securities Act 1978
   - **commodity** has, in Part 3, the meaning set out in section 37(1)
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
-  - **conduct rules** means the business rules and the listing rules of a securities exchange
+  - **conduct rules** means,—
+    (a) in relation to a securities market, the business rules and listing rules of a registered exchange in relation to the securities market; and
+    (b) in relation to a futures market, the business rules of a registered exchange in relation to the futures market
   - **consideration** includes consideration other than money
   - **continuous disclosure direction** has the meaning set out in section 36ZP
   - **continuous disclosure exemption** means,—
@@ -86,7 +88,8 @@ _Consolidation as at 2008-05-02_
     (a) omitting to do an act; or
     (b) making it known that an act will or will not be done
   - **exemption** means, in Part 5, in respect of an obligation or provision, an exemption granted by or under this Act from that obligation or provision (for example, a continuous disclosure obligation exemption is an exemption from a continuous disclosure obligation), and a reference to a person is to a person contravening or complying with a term or condition of that exemption
-  - **futures contract** has the meaning set out in section 37(1)
+  - **futures contract** has the meaning set out in section 37
+  - **futures market** means a market, exchange, or other facility for trading in futures contracts
   - **general dealing misconduct prohibition** means section 13
   - **generally available to the market** has the meaning set out in section 4
   - **holding company** has the same meaning as in sections 5 and 6 of the Companies Act 1993
@@ -128,9 +131,9 @@ _Consolidation as at 2008-05-02_
   - **investment brokers service** means the receipt of investment money or investment property by an investment broker
   - **investment money and money** , in relation to an investment broker, mean any money received from, or on account of, a member of the public in relation to acquiring or disposing of securities
   - **investment property** and , in relation to an investment broker, mean security certificates or other valuable property received from, or on account of, a member of the public in relation to acquiring or disposing of securities
-  - **listed** , in relation to securities of a public issuer, means securities of the issuer that are approved for trading on the relevant registered exchange's market (and, for the avoidance of doubt, securities do not cease to be listed merely because trading in those securities is suspended)
-  - **listing rules** means the rules made by a securities exchange that relate to—
-    (a) the governance of the persons who are parties to listing agreements with the securities exchange; and
+  - **listed** , in relation to securities of a public issuer, means securities of the issuer that are approved for trading on the relevant registered exchange's securities market (and, for the avoidance of doubt, securities do not cease to be listed merely because trading in those securities is suspended)
+  - **listing rules** means the rules made by a registered exchange that relate to—
+    (a) the governance of the persons who are parties to listing agreements with the registered exchange; and
     (b) the entry into, and revocation of, those listing agreements
   - **market manipulation prohibition** means either of sections 11 or 11B
   - **material information** has the meaning set out in section 3, in relation to a public issuer, and in section 3A, in relation to a futures contract
@@ -139,7 +142,7 @@ _Consolidation as at 2008-05-02_
   - **officer** , for the purposes of Part 2 in relation to a public issuer,—
     (a) means a person, however designated, who is concerned or takes part in the management of the public issuer's business; but
     (b) excludes any persons (whether described as a class or otherwise) that are declared by regulations not to be officers for the purposes of this definition
-  - **operate** , in relation to a securities market, includes control the operation of that market
+  - **operate** , in relation to a securities market or futures market, includes control the operation of that market
   - **prescribed** means prescribed by regulations made under this Act
   - **principal officer** , in relation to a body corporate or other body, means—
     (a) a director of the body; or
@@ -157,19 +160,19 @@ _Consolidation as at 2008-05-02_
   - **registered exchange** means,—
     (a) a body corporate registered under section 36F:
     (b) a body corporate that is treated as if it were registered as a registered exchange under section 36X(3):
-    (c) a subsidiary of a registered exchange if the subsidiary operates a securities market
-  - **registered exchange's market** means a securities market operated by a registered exchange
+    (c) a subsidiary of a registered exchange if the subsidiary operates a securities market:
+    (d) a subsidiary of a registered exchange in respect of futures markets if the subsidiary operates a futures market
+  - **registered exchange's securities market** means a securities market operated by a registered exchange
   - **related** has the meaning set out in section 5B(2)
   - **relevant event** means an event that results in a person having to disclose matters under sections 22 to 25
   - **relevant interest** has the meaning set out in sections 5 to 5B
-  - **securities exchange** means a body corporate that operates a securities market
   - **securities market** means a market, exchange, or other facility for trading securities
   - **security** —
     (a) means—
       (i) any interest in, or right to participate in, any capital, assets, earnings, royalties, or other property of any person:
       (ii) any interest in, or right to be paid, money that is, or is to be, deposited with, lent to, or otherwise owing by, any person (whether or not the interest or right is secured by a charge over any property):
       (iii) any renewal or variation of the terms or conditions of any existing security; but
-    (b) in subpart 1 of Part 1, means a security (as defined in paragraph (a)) that has been allotted and is listed on a registered exchange's market or approved for trading on an authorised futures exchange; but excludes a previously allotted security to the extent that conduct in relation to that security is regulated by the Securities Act 1978 except section 6A; and
+    (b) in subpart 1 of Part 1, means a security (as defined in paragraph (a)) that has been allotted and is listed on a registered exchange's securities market or approved for trading on an authorised futures exchange; but excludes a previously allotted security to the extent that conduct in relation to that security is regulated by the Securities Act 1978 except section 6A; and
     (c) in subpart 2 of Part 1, means a security (as defined in paragraph (a)) and includes a futures contract; but excludes a security exempted from Part 2 of the Securities Act 1978 under any of paragraphs (b) to (h) of section 5(1) of that Act; and
     (d) in both subparts 1 and 2 of Part 1, also means—
       (i) any form of beneficial interest in the security:
@@ -190,7 +193,7 @@ _Consolidation as at 2008-05-02_
   - **trade** , in subpart 1 of Part 1,—
     (a) means acquire or dispose of; but
     (b) does not include acquire, or dispose of, by inheritance or gift
-  - **trading day** means a day during which securities are traded on a registered exchange's market
+  - **trading day** means a day during which securities are traded on a registered exchange's securities market
   - **transacting shareholder** has the same meaning as in section 4 of the Co-operative Companies Act 1996
   - **trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act to administer the estates of deceased persons and other trust estates
   - **voting right** , in subpart 1 of Part 2B, has the meaning set out in section 36S
@@ -231,7 +234,7 @@ For the purposes of this Act, unless the context otherwise requires, material in
   (b) if it is likely that persons who commonly invest in relevant securities can readily obtain the information (whether by observation, use of expertise, purchase from other persons, or any other means); or
   (c) if it is information that consists of deductions, conclusions, or inferences made or drawn from either or both of the kinds of information referred to in paragraphs (a) and (b).
 (2) In this section, relevant securities means securities of a kind the price or (in the case of futures contracts) the value of which might reasonably be expected to be affected by the information.
-(3) Information that is notified in accordance with a continuous disclosure obligation is generally available to the market under subsection (1)(a) immediately on it being made available to participants in a registered exchange's market (without limiting how quickly the reasonable period of dissemination in subsection (1)(a)(ii) may be satisfied in other cases).
+(3) Information that is notified in accordance with a continuous disclosure obligation is generally available to the market under subsection (1)(a) immediately on it being made available to participants in a registered exchange's securities market (without limiting how quickly the reasonable period of dissemination in subsection (1)(a)(ii) may be satisfied in other cases).
 
 ### 5 Relevant interests in securities (basic rule)
 (1) A person has a relevant interest in a security if the person—
@@ -264,7 +267,7 @@ For the purposes of this Act, unless the context otherwise requires, material in
 ### 6 Situations not giving rise to relevant interests
 (1) A person (A) does not have a relevant interest in securities under sections 5 to 5B merely because—
   (a) the ordinary business of A consists of, or includes, the lending of money or the provision of financial services, or both, and A has the relevant interest only as security given for the purposes of a transaction entered into in the ordinary course of the business of A; or
-  (b) A is authorised to undertake trading activities on a registered exchange's market and A acts for another person to acquire or dispose of those securities on behalf of that person in the ordinary course of A's business of carrying out those trading activities; or
+  (b) A is authorised to undertake trading activities on a registered exchange's securities market and A acts for another person to acquire or dispose of those securities on behalf of that person in the ordinary course of A's business of carrying out those trading activities; or
   (c) A has been authorised by resolution of the directors or other governing body of a body corporate to act as its representative at a particular meeting of members, or class of members, of a public issuer, and a copy of the resolution is deposited with the public issuer before the meeting; or
   (d) A is appointed as a proxy to vote at a particular meeting of members, or of a class of members, of the public issuer and the instrument of A's appointment is deposited with the public issuer before the meeting; or
   (e) A is a bare trustee of a trust to which the security is subject; or
@@ -551,7 +554,7 @@ A public issuer must notify information in accordance with the continuous disclo
   (d) the information is material information that is not generally available to the market.
 
 ### 19D What are continuous disclosure provisions
-For the purposes of this Act, continuous disclosure provisions means provisions that require a public issuer that is a party to a listing agreement with a registered exchange to notify information about events or matters as they arise for the purpose of that information being made available to participants in the registered exchange's market.
+For the purposes of this Act, continuous disclosure provisions means provisions that require a public issuer that is a party to a listing agreement with a registered exchange to notify information about events or matters as they arise for the purpose of that information being made available to participants in the registered exchange's securities market.
 
 ### 19E What is material information
 [Repealed]
@@ -844,8 +847,8 @@ Every person who knows or ought to know information that the person is required 
 
 ### 35G Registered exchange must publish disclosures
 A registered exchange must—
-  (a) notify each disclosure given to it under this subpart to the registered exchange's market as soon as practicable after receiving it; and
-  (b) publish that disclosure on its website soon after notifying it to the registered exchange's market.
+  (a) notify each disclosure given to it under this subpart to the registered exchange's securities market as soon as practicable after receiving it; and
+  (b) publish that disclosure on its website soon after notifying it to the registered exchange's securities market.
 
 ### 35H Offence for failing to publish information on substantial holdings or disclosures
 (1) A public issuer who, without reasonable excuse, fails to comply with a requirement of section 35F commits an offence (see section 43A for the maximum penalty of a $10,000 fine).
@@ -863,7 +866,7 @@ No public issuer is liable for any false or misleading information published und
 ### 36 Regulations for purpose of this subpart
 [Repealed]
 
-## Part 2B — Securities exchanges
+## Part 2B — Registered exchanges
 
 ### Subpart 1 — Registration, conduct, and control of exchanges
 
@@ -905,8 +908,8 @@ No public issuer is liable for any false or misleading information published und
   (c) before making the declaration, give at least 14 days' written notice to the persons referred to in paragraph (a), and in the Gazette, of his or her intention to do so and of the reasons for his or her opinion under subsection (1).
 (3) A failure to comply with subsection (2) does not invalidate any notice published under section 36C.
 
-### 36E Power to exempt securities markets from this Part
-(1) The Minister may, by notice in the Gazette, exempt a securities market, or class of securities markets, from any provision or provisions of this Part.
+### 36E Power to exempt securities markets and futures markets from this Part
+(1) The Minister may, by notice in the Gazette, exempt a securities market, class of securities markets, futures market, or class of futures markets from any provision or provisions of this Part.
 (2) The exemption may be on any terms or conditions that the Minister thinks fit.
 (3) The exemption has effect according to its tenor.
 (4) In determining whether or not to grant an exemption, the Minister must seek the advice of the Commission.
@@ -916,24 +919,28 @@ No public issuer is liable for any false or misleading information published und
 **Registration of exchanges**
 
 ### 36F Registration of exchanges
-(1) Any body corporate may apply to become a registered exchange by delivering to the chief executive—
+(1) A body corporate may apply to become a registered exchange—
+  (a) in respect of 1 or more securities markets; or
+  (b) in respect of 1 or more securities markets and 1 or more futures markets; or
+  (c) in respect of 1 or more futures markets, provided that the body corporate is already a registered exchange in respect of 1 or more securities markets.
+(2) A body corporate may apply to become a registered exchange by delivering to the chief executive—
   (a) an application for registration in the form, and containing the information, required by the chief executive; and
-  (b) a copy of the proposed conduct rules for securities markets to be operated by the body corporate; and
+  (b) a copy of the proposed conduct rules for the securities markets, securities markets and futures markets, or futures markets to which the application applies; and
   (c) any fees required by regulations made under section 49D and evidence of payment to the Commission of the fees, charges, or costs required to be paid to it by those regulations.
-(2) The chief executive must register the body corporate as a registered exchange, by entering the name of the body corporate in a register, after—
-  (a) receipt of the documents and fees referred to in subsection (1); and
+(3) The chief executive must register the body corporate as a registered exchange in respect of the securities markets, securities markets and futures markets, or futures markets to which the application applies, by entering the name of the body corporate in a register, after—
+  (a) receipt of the documents and fees referred to in subsection (2); and
   (b) approval of the proposed conduct rules under section 36O.
 
 **Conduct rules of registered exchanges**
 
-### 36G Registered exchange must operate securities markets with conduct rules that include required matters and have effect
-(1) A registered exchange must operate each of its securities markets in accordance with conduct rules for that market that—
+### 36G Registered exchange must operate securities and futures markets in accordance with conduct rules that include required matters and have effect
+(1) A registered exchange must operate each of its securities markets and, if registered in respect of futures markets, each of its futures markets in accordance with conduct rules for that market that—
   (a) include the required matters set out in section 36H; and
   (b) have effect under section 36I.
 (2) A registered exchange that acts in contravention of subsection (1) commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
 
 ### 36H Required matters for conduct rules
-Conduct rules for a securities market must—
+(1) Conduct rules for a securities market must—
   (a) include rules (listing rules) that—
     (i) require each person whose securities are listed on that market to be a party to a listing agreement with the registered exchange; and
     (ii) relate to the governance of those persons; and
@@ -941,6 +948,9 @@ Conduct rules for a securities market must—
   (b) include rules (business rules) that govern the conduct of—
     (i) business on that market; and
     (ii) persons authorised to undertake trading activities on that market.
+(2) Conduct rules for a futures market must include rules (business rules) that govern the conduct of—
+  (a) business on that market; and
+  (b) persons authorised to undertake trading activities on that market.
 
 ### 36I When conduct rules have no effect
 A conduct rule, or part of a conduct rule, has no effect in contract or for the purposes of section 36G if—
@@ -954,6 +964,7 @@ A conduct rule, or part of a conduct rule, has no effect in contract or for the 
 ### 36J Registered exchange must provide proposed new conduct rules and changes to Minister
 (1) A registered exchange must provide a proposed new conduct rule or a proposed change to an existing conduct rule to the Minister before making that rule or change.
 (2) A change, in relation to a conduct rule for the purposes of this subpart, includes an amendment to, and a revocation or cancellation of, the conduct rule.
+(3) However, subsection (1) does not apply in respect of conduct rules for a futures market unless the registered exchange is registered in respect of both securities markets and futures markets under section 36F.
 
 ### 36K Disallowance process applies unless approval process applied
 (1) The disallowance process in section 36L applies to a proposed new conduct rule or change provided to the Minister under section 36J.
@@ -974,13 +985,13 @@ A conduct rule, or part of a conduct rule, has no effect in contract or for the 
 
 ### 36N Determination on whether or not to apply approval process to proposed conduct rules and changes
 (1) The approval process in section 36O applies to a proposed new conduct rule or change if—
-  (a) the Minister is satisfied that the proposal relates to a securities market that is not operated by the registered exchange under its existing conduct rules (a new securities market); and
+  (a) the Minister is satisfied that the proposal relates to a securities market or futures market that is not operated by the registered exchange under its existing conduct rules (a new market); and
   (b) the Minister is satisfied it is in the public interest to apply the approval process; and
   (c) the Minister applies the approval process by written notice to the registered exchange within 15 working days after receipt of the proposed conduct rule or change under section 36J.
 (2) Before applying the approval process, the Minister must have regard to—
-  (a) the integrity and effectiveness of securities markets in New Zealand; and
-  (b) the confidence of investors in securities markets in New Zealand; and
-  (c) the extent of the difference between existing securities markets operated by the registered exchange and the new securities market; and
+  (a) the integrity and effectiveness of securities markets, futures markets, or both (as the case may be) in New Zealand; and
+  (b) the confidence of investors in securities markets, futures markets, or both (as the case may be) in New Zealand; and
+  (c) the extent of the difference between existing markets operated by the registered exchange and the new market; and
   (d) the extent of the difference between the existing conduct rules and the proposed new conduct rules or changes.
 (3) In determining whether or not to apply the approval process, the Minister must seek the advice of the Commission.
 (4) The notice applying the approval process must describe the new securities market referred to in subsection (1)(a).
@@ -992,12 +1003,12 @@ A conduct rule, or part of a conduct rule, has no effect in contract or for the 
   (b) the listing rules for the securities market to which the proposed conduct rule or change relates do not achieve the purpose of subpart 1 of Part 2 (after having regard to that purpose, the criteria stated in section 19A, and any other matters that he or she considers relevant).
 (3) In determining whether or not to recommend that the proposed conduct rules or changes be approved, the Minister must seek the advice of the Commission.
 
-### 36P Registered exchange must not operate new securities market if proposed conduct rules or changes not approved
-(1) A registered exchange must not operate a securities market described in a notice given under section 36N unless the proposed conduct rules or changes to which that notice relates are approved under section 36O.
+### 36P Registered exchange must not operate new market if proposed conduct rules or changes not approved
+(1) A registered exchange must not operate a securities market or futures market described in a notice given under section 36N unless the proposed conduct rules or changes to which that notice relates are approved under section 36O.
 (2) A registered exchange that acts in contravention of subsection (1) commits an offence (see section 43B for the maximum penalty of a $10,000 fine per day).
 
 ### 36Q Conduct rules must be available for public inspection
-(1) A registered exchange that operates a securities market must ensure that a copy of the conduct rules for that market are available for public inspection, free of charge and during normal office hours, at the office of that registered exchange.
+(1) A registered exchange that operates a securities market or futures market must ensure that a copy of the conduct rules for that market are available for public inspection, free of charge and during normal office hours, at the office of that registered exchange.
 (2) A registered exchange that fails to comply with subsection (1) commits an offence (see section 43B for the maximum penalty of a $5,000 fine).
 
 ### 36R Application of Acts relating to regulations to conduct rules
@@ -1114,7 +1125,7 @@ The registered exchange must give the notice under section 36ZD immediately afte
 **Disclosure of material information**
 
 ### 36ZG Registered exchange must give Commission material information given to market participants
-If a registered exchange makes material information available to participants, or any class of participants, of a securities market operated by the exchange, the exchange must also give that information to the Commission in accordance with sections 36ZH to 36ZJ.
+If a registered exchange makes material information available to participants, or any class of participants, of a securities market or futures market operated by the exchange, the exchange must also give that information to the Commission in accordance with sections 36ZH to 36ZJ.
 
 ### 36ZH When disclosure of material information required
 The registered exchange must give the information under section 36ZG to the Commission immediately after giving it to market participants.
@@ -1167,7 +1178,9 @@ If the registered exchange thinks it necessary or desirable in the public intere
 ### 36ZO Commission may give directions to registered exchanges
 (1) The Commission may give a direction under subsection (2) in accordance with sections 36ZP to 36ZT.
 (2) The Commission may, for up to 21 days,—
-  (a) direct a registered exchange to suspend trading of the securities, or a class of securities, of 1 or more public issuers; or
+  (a) direct a registered exchange to suspend trading of either or both of the following:
+    (i) the securities, or a class of securities, of 1 or more public issuers:
+    (ii) 1 or more futures contracts, or a class of futures contracts, traded on a futures market operated by the registered exchange; or
   (b) give the registered exchange any other direction in relation to that trading.
 (3) For the avoidance of doubt, the Commission may not use its power to direct the registered exchange to amend the conduct rules or direct the registered exchange on the making of a determination on the conduct rules.
 (4) The direction is subject to appeal only in accordance with section 69P of the Securities Act 1978.
@@ -1186,19 +1199,22 @@ If the registered exchange thinks it necessary or desirable in the public intere
 
 ### 36ZQ Grounds for other directions
 A direction may also be given under section 36ZO in accordance with sections 36ZR to 36ZT if the Commission is satisfied that—
-  (a) the direction is necessary in the public interest to protect people trading the securities, or the class of securities, of 1 or more public issuers; but
+  (a) the direction is necessary in the public interest to protect people trading in either or both of the following:
+    (i) the securities, or a class of securities, of 1 or more public issuers:
+    (ii) 1 or more futures contracts, or a class of futures contracts, traded on a futures market operated by the registered exchange; but
   (b) it is not a matter to which the purpose of subpart 1 of Part 2 is relevant.
 
 ### 36ZR Notice, opportunity for exchange to act, and submissions before Commission gives directions
 (1) A direction may be given under section 36ZO only if—
-  (a) the Commission has given written notice to the registered exchange and public issuer or issuers concerned of—
-    (i) its opinion that the requirements of section 36ZP or section 36ZQ are satisfied; and
+  (a) the Commission has given written notice to the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, of—
+    (i) its opinion that the requirements of section 36ZP or 36ZQ are satisfied; and
     (ii) the proposed terms of the direction; and
     (iii) the reasons for its opinion; and
   (b) after receiving the Commission's notice, the registered exchange does not take, within the reasonable period stated in the notice,—
-    (i) in the case of a proposed direction to suspend trading of the securities, action to prevent that trading; or
-    (ii) in any other case, any other action that, in the Commission's view, is adequate to address the situation raised in the advice; and
-  (c) the Commission has had regard to any written submissions made to it by the registered exchange and public issuer or issuers concerned within that notice period; and
+    (i) in the case of a proposed direction to suspend the trading of securities or a class of securities, action to prevent that trading; or
+    (ii) in the case of a proposed direction to suspend the trading of futures contracts, or a class of futures contracts, action to prevent that trading; or
+    (iii) in any other case, any other action that, in the Commission's view, is adequate to assess the situation raised in the notice; and
+  (c) the Commission has had regard to any written submissions made to it by the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, within that notice period; and
   (d) the Commission still considers that it is appropriate to give the direction to the registered exchange.
 (2) A reasonable period in subsection (1)(b) is, in the case of a continuous disclosure direction, 2 trading days (or any longer time the Commission wishes to allow) and, in the case of any other direction, any longer time that is reasonable in the circumstances.
 
@@ -1209,7 +1225,7 @@ If the Commission thinks it necessary or desirable in the public interest for a 
 
 ### 36ZT Notice and opportunity to be heard and represented after Commission gives direction
 If a direction is given under section 36ZO, the Commission—
-  (a) must, as soon as reasonably practicable, give written notice to the registered exchange and public issuer or issuers concerned of—
+  (a) must, as soon as reasonably practicable, give written notice to the registered exchange, and in the case of a direction to suspend the trading of securities or a class of securities, the public issuer or issuers concerned, of—
     (i) its opinion that the requirements of section 36ZP or section 36ZQ are satisfied; and
     (ii) the terms of the direction; and
     (iii) the reasons for its opinion; and
@@ -1251,12 +1267,23 @@ If a direction is given under section 36ZO, the Commission—
     (c) Which is a futures contract of a class in which a person referred to in section 38(1) of this Act is authorised to deal:
   - **authorised futures exchange** means—
     (a) a body corporate that is declared by the Commission to be an authorised futures exchange for the purposes of this Part:
+    (ab) a body corporate that is a registered exchange in respect of securities markets and futures markets whose conduct rules for futures markets have effect under section 36I:
     (b) a subsidiary of an authorised futures exchange if the subsidiary conducts a market or exchange in New Zealand for trading in futures contracts.
-  - **Commodity** means any type of goods; and includes foreign currency and a financial instrument
-  - **Dispose of** , in relation to a futures contract, includes—and and have corresponding meanings
+    (c) a subsidiary of a body corporate that is registered in respect of futures markets if the subsidiary's conduct rules for futures markets have effect under section 36I:
+  - **commodity** means any type of goods; and includes foreign currency, a financial instrument, and emissions units
+  - **dispose of** , in relation to a futures contract, includes—and and have corresponding meanings
     (a) In the case of a futures contract described in paragraph (d) of the definition of that term, assign and exercise:
     (b) In the case of any other futures contract, discharge obligations under;—
-  - **Futures contract** means—
+  - **emissions units** means—
+    (a) units as defined in section 4(1) of the Climate Change Response Act 2002; and
+    (b) personal property that—
+      (i) is created by, or in accordance with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol as—
+        (A) one of a fixed number of units issued by reference to a specified amount of greenhouse gas; or
+        (B) evidence of a specified amount of reductions, removals, avoidance, storage, sequestration, or any other form of mitigation of greenhouse gas emissions; and
+      (ii) can be surrendered, retired, cancelled, or otherwise used to—
+        (A) offset greenhouse gas emissions under, or otherwise comply with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol; or
+        (B) enable a person who surrenders, retires, cancels, or otherwise uses it to claim an environmental benefit
+  - **futures contract** means—
     (a) An agreement under which one party agrees to deliver to another party at a specified future time a specified commodity or a quantity of a specified commodity at a price which is fixed when the agreement is made but under which it is contemplated or understood that the obligations of the parties may be satisfied by means other than actual delivery:
     (b) An agreement under which each party has either—depending on whether at a future date the value or price of a specified commodity calculated in a manner specified by, or in accordance with, the agreement is greater or less than the value or price agreed upon by the parties when the agreement was made:
       (i) An obligation to pay a sum of money to the other or to credit the account of the other with payment of a sum of money; or
@@ -1265,10 +1292,11 @@ If a direction is given under section 36ZO, the Commission—
       (i) An obligation to pay a sum of money to the other or to credit the account of the other with payment of a sum of money; or
       (ii) A right to receive payment, or a credit, of a sum of money from the other—
     (d) An option or right to assume, at a specified price or value, or within a specified period, or by a specified date, rights and obligations under an agreement of a kind described in a preceding paragraph:
-    (e) An agreement, option or right which is declared by the Commission, in accordance with this section, to be an agreement, option or right to which this Part of this Act applies:
-    (f) An agreement, option or right which is of a class of agreements, options or rights declared by the Commission, in accordance with this section, to be a class to which this Part of this Act applies:
+    (e) An agreement, option or right which is declared by the Commission, in accordance with this section, to be an agreement, option or right to which this Act or any Part of this Act applies:
+    (f) An agreement, option or right which is of a class of agreements, options or rights declared by the Commission, in accordance with this section, to be a class to which this Act or any Part of this Act applies:
+  - **greenhouse gas** has the meaning set out in section 31 of the Climate Change Response Act 2002
   - **Registered bank** has the same meaning as in section 2 of the Reserve Bank of New Zealand Act 1989.
-(2) For the purposes of this Part of this Act, none of the following agreements or contracts is a futures contract:
+(2) For the purposes of this Act, none of the following agreements or contracts is a futures contract:
   (a) A currency swap agreement to which a registered bank is a party:
   (b) An interest rate swap agreement to which a registered bank is a party:
   (c) A forward exchange rate contract to which a registered bank is a party:
@@ -1290,8 +1318,8 @@ If a direction is given under section 36ZO, the Commission—
   (e) Does any other act or engages in conduct declared by the Commission by notice in the Gazette to constitute dealing in a futures contract for the purposes of this Part of this Act.
 (6) For the purposes of subsection (5)(d) of this section a person shall not be regarded as giving advice or assistance to any person in connection with the acquisition or disposition of a futures contract by reason only that that person gives that advice or assistance in a professional capacity as a solicitor or a chartered accountant.
 (7) The Commission may, by notice in the Gazette, declare—
-  (a) An agreement, option, or right to be an agreement, option, or right to which this Part of this Act applies:
-  (b) A class of agreements, options, or rights to be a class of agreements, options, or rights to which this Part of this Act applies.
+  (a) An agreement, option, or right to be an agreement, option, or right to which this Act applies:
+  (b) A class of agreements, options, or rights to be a class of agreements, options, or rights to which this Act applies.
 (8) The Commission may, on the terms and conditions (if any) that it thinks fit, by notice in the Gazette, declare a body corporate that conducts, or proposes to conduct, a market or exchange in New Zealand for trading in futures contracts to be an authorised futures exchange for the purposes of this Part of this Act.
 (8A) A notice under subsection (8) may include any authorisation given under section 38.
 (9) The Commission may, by notice in the Gazette, declare any act or conduct to constitute dealing in a futures contract for the purposes of this Part of this Act.
@@ -1339,15 +1367,19 @@ If a direction is given under section 36ZO, the Commission—
 (3) A failure to comply with subsection (2) does not invalidate any notice published under section 37C.
 
 ### 38 Dealers in futures contracts to be authorised
-(1) No person shall carry on the business of dealing in futures contracts unless that person is, or is a member of a class of persons that is, authorised by the Commission by notice in the Gazette to carry on the business of dealing in futures contracts.
-(2) For the purposes of subsection (1) of this section, any authorisation may be for—
+(1) No person may carry on the business of dealing in futures contracts unless that person—
+  (a) is, or is a member of a class of persons that is, authorised by the Commission by notice in the Gazette to carry on the business of dealing in futures contracts; or
+  (b) has been approved by an authorised futures exchange under its rules to carry on the business of dealing in futures contracts in accordance with the rules of that exchange.
+(1A) However, a person who receives approval under subsection (1)(b) may carry on the business of dealing in futures contracts only if that dealing is subject to the regulation and oversight of the authorised futures exchange that approved the person.
+(2) For the purposes of subsection (1)(a) of this section, any authorisation may be for—
   (a) Specified futures contracts:
   (b) A specified class or specified classes of futures contracts:
   (c) Futures contracts generally:
   (d) Futures contracts generally other than—and may be on such terms and conditions as the Commission thinks fit.
     (i) Specified futures contracts:
     (ii) A specified class or specified classes of futures contracts—
-(3) The Commission may, by notice in the Gazette, vary or revoke, in whole or in part, any authorisation given under this section.
+(3) The Commission may, by notice in the Gazette, vary or revoke, in whole or in part, any authorisation given under subsection (1)(a).
+(4) For the purposes of subsection (1)(b), rules, in relation to an authorised futures exchange within the meaning of paragraph (ab) of the definition of authorised futures exchange in section 37(1), means conduct rules.
 
 ### 39 Contravention of section 38 an offence
 Every person who contravenes section 38 commits an offence (see section 43C for the maximum penalties of 3 years imprisonment and a $100,000 fine for an individual and a $300,000 fine for a body corporate).
@@ -1854,12 +1886,12 @@ The proceedings under this subpart are civil proceedings and the usual rules of 
   (d) section 35H (offence for failing to publish information on substantial holdings or disclosures).
 
 ### 43B Penalties for failing to comply with Part 2B
-(1) A person who commits an offence against section 36ZX (offence for failing to comply with monitoring of securities exchange provisions) is liable on summary conviction to a fine not exceeding $30,000.
+(1) A person who commits an offence against section 36ZX (offence for failing to comply with monitoring of registered exchange provisions) is liable on summary conviction to a fine not exceeding $30,000.
 (2) A person who commits an offence against any of the following sections is liable on summary conviction to a fine not exceeding $10,000 for every day or part of a day during which the contravention occurs:
   (a) section 36A(1) (no holding out as securities exchange unless registered):
   (b) section 36B(1) (no operation of securities markets unless registered (if restriction applies)):
-  (c) section 36G(1) (registered exchange must operate securities markets with conduct rules that include required matters and have effect):
-  (d) section 36P(1) (registered exchange must not operate new securities market if proposed conduct rules or changes not approved):
+  (c) section 36G(1) (registered exchange must operate securities and futures markets in accordance with conduct rules that include required matters and have effect):
+  (d) section 36P(1) (registered exchange must not operate new market if proposed conduct rules or changes not approved):
   (e) section 36Z (offence for breach of terms or conditions of authorisation).
 (3) A person who commits an offence against section 36Q(1) (conduct rules must be available for public inspection) is liable on summary conviction to a fine not exceeding $5,000.
 (4) A person who commits an offence against section 36U(1)(a) (effect of exceeding control limit) is liable on summary conviction to a fine not exceeding $1,000 for every day or part of a day during which the contravention occurs.
@@ -2111,8 +2143,8 @@ A registered exchange, or an officer or employee of a registered exchange, is no
 (1) The Governor-General may, on the recommendation of the Minister in accordance with section 48F or section 48G, make regulations for the purpose of providing, under section 19C, for continuous disclosure by public issuers of material information that is not generally available to the market.
 (2) Those regulations may—
   (a) declare that section 19C applies to a registered exchange:
-  (b) contain requirements for the purpose of requiring public issuers that are parties to listing agreements with that exchange to notify information about events or matters as they arise (being material information that is not generally available to the market) for the purpose of that information being made available to participants in the registered exchange's market:
-  (c) determine the form in which, how, and when that information must be made available to participants in the registered exchange's market, or provide who may determine any of these matters:
+  (b) contain requirements for the purpose of requiring public issuers that are parties to listing agreements with that exchange to notify information about events or matters as they arise (being material information that is not generally available to the market) for the purpose of that information being made available to participants in the registered exchange's securities market:
+  (c) determine the form in which, how, and when that information must be made available to participants in the registered exchange's securities market, or provide who may determine any of these matters:
   (d) determine the form of, method of, and any additional details required with, the notification of that information, or provide who may determine any of these matters:
   (e) exempt (on terms and conditions, if any) persons, classes of persons, information, and classes of information from compliance with any provision or provisions of the regulations:
   (f) provide for a specified person or persons to exempt (on terms and conditions, if any) persons, classes of persons, information, and classes of information from compliance with any provision or provisions of the regulations, and to vary and revoke those exemptions:
