@@ -1,5 +1,5 @@
 # Personal Property Securities Act 1999
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2009-11-24_
 
 > An Act to reform the law relating to security interests in personal property and, in particular,—ato provide for the creation and enforceability of security interests in personal property; andbto provide for the determination of priority between security interests in the same personal property; andcto provide for the determination of priority between security interests and other types of interests in the same personal property; anddto provide for the enforcement of security interests in personal property other than consumer goods; andeto provide for the establishment of a register of security interests in personal property
 
@@ -107,7 +107,15 @@ Part 12—provides for a 6-month transitional period during which time prior sec
   - **document of title** means a writing issued by or addressed to a bailee—
     (a) that covers goods in the bailee's possession that are identified or are fungible portions of an identified mass; and
     (b) in which it is stated that the goods identified in it will be delivered to a named person, or to the transferee of that person, or to bearer, or to the order of a named person
-  - **emissions unit** means a unit as defined in section 4(1) of the Climate Change Response Act 2002
+  - **emissions units** means—
+    (a) units as defined in section 4(1) of the Climate Change Response Act 2002; and
+    (b) personal property that—
+      (i) is created by, or in accordance with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol as—
+        (A) one of a fixed number of units issued by reference to a specified amount of greenhouse gas; or
+        (B) evidence of a specified amount of reductions, removals, avoidance, storage, sequestration, or any other form of mitigation of greenhouse gas emissions; and
+      (ii) can be surrendered, retired, cancelled, or otherwise used to—
+        (A) offset greenhouse gas emissions under, or otherwise comply with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol; or
+        (B) enable a person who surrenders, retires, cancels, or otherwise uses it to claim an environmental benefit
   - **equipment** means goods that are held by a debtor other than as inventory or consumer goodsExampleAn office computer.
   - **existing secured party** has the meaning set out in section 193
   - **financing change statement** has the meaning set out in section 135
@@ -121,6 +129,7 @@ Part 12—provides for a 6-month transitional period during which time prior sec
     (a) means tangible personal property; and
     (b) includes crops, the unborn young of animals, trees that have been severed, and petroleum or minerals that have been extracted; but
     (c) does not include chattel paper, a document of title, a negotiable instrument, an investment security, or money
+  - **greenhouse gas** has the meaning set out in section 31 of the Climate Change Response Act 2002
   - **intangible** means personal property other than chattel paper, a document of title, goods, an investment security, money, or a negotiable instrumentExampleTrademarks, patents, and copyright.
   - **inventory** means goods that are—
     (a) held by a person for sale or lease, or that have been leased by that person as lessor; or
@@ -250,14 +259,17 @@ For the avoidance of doubt, a beneficial interest in personal property held by a
   (b) in the case of an investment security that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the investment security; or
   (c) in the case of an investment security that is not evidenced by a security certificate and that is not traded or settled through a clearing house or securities depository, the records maintained by the issuer, or on behalf of the issuer, record the interest of the person in the investment security; or
   (d) in the case of an investment security that is held by a nominee, the records of the nominee record the interest of the person in the investment security.
-(1A) For the purposes of this Act, a person takes possession of an investment security that is an emissions unit if the emissions unit is, in the ordinary course of business,—
-  (a) traded or settled through a clearing house or securities depository, if the clearing house or securities depository, as the case may be, records the interest of the person in the emissions unit:
-  (b) not traded or settled through a clearing house or securities depository, if the unit register established under section 18 of the Climate Change Response Act 2002 records the name of the person as the possessor of the unit:
-  (c) held by a nominee, if the records of the nominee record the interest of the person in the emissions unit.
+(1A) For the purposes of this Act, a person (person A) takes possession of an investment security that is an emissions unit if,—
+  (a) in the case of an emissions unit that is evidenced by an emissions unit certificate, person A takes physical possession of that certificate:
+  (b) in the case of an emissions unit that is, in the ordinary course of business, traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of person A in the emissions unit:
+  (c) in the case of an emissions unit that is, in the ordinary course of business, held by a nominee, the records of the nominee record the interest of person A in the emissions unit:
+  (d) in the case of an emissions unit that is a unit as defined in section 4(1) of the Climate Change Response Act 2002 and to which neither paragraph (b) nor (c) applies, the unit register established under section 18 of the Climate Change Response Act 2002 records person A as the possessor of the unit:
+  (e) in the case of an emissions unit that is not a unit as defined in section 4(1) of the Climate Change Response Act 2002 and to which none of paragraphs (a), (b), or (c) apply, a person who is responsible for recording the holders of emissions units (whether by entry in a register or by any other means) records the interest of person A in the emissions unit.
 (2) For the purposes of this Act, a person takes possession of a negotiable instrument if—
   (a) the person takes physical possession of the negotiable instrument; or
   (b) in the case of a negotiable instrument that is traded or settled through a clearing house or securities depository, the clearing house or securities depository, as the case may be, records the interest of the person in the negotiable instrument.
 (3) For the purposes of this Act, a secured party is not in possession of collateral that is in the actual or apparent possession or control of the debtor or the debtor's agent.
+(4) For the purposes of subsection (1A)(a), emissions unit certificate does not include a printed search result, or a copy of a printed search result, that purports to be issued by a registrar.
 
 ### 19 Meaning of knowledge
 (1) For the purposes of this Act,—
@@ -654,8 +666,8 @@ A security interest has the same priority in respect of all advances, including 
 **Priority of purchase money security interests**
 
 ### 73 Priority of purchase money security interest in collateral or its proceeds, other than inventory or intangibles
-A purchase money security interest in collateral or its proceeds, other than inventory or intangibles, has priority over a non-purchase money security interest in the same collateral given by the same debtor if the purchase money security interest in the collateral or its proceeds is perfected not later than 10 working days after the day on which the debtor, or another person at the request of the debtor, obtained possession of the collateral, whichever is earlier.
-ExamplePerson A has a perfected security interest in all of person B's present and after-acquired property.Person B buys a car on hire purchase from person C.Person C registers a financing statement in respect of person B's car 5 working days after person B took possession of the new car.Person C's security interest in person B's car has priority over person A's security interest in person B's car.
+(1) A purchase money security interest in collateral or its proceeds, other than inventory or intangibles, has priority over a non-purchase money security interest in the same collateral given by the same debtor if the purchase money security interest in the collateral or its proceeds is perfected not later than 10 working days after the day on which the debtor, or another person at the request of the debtor, obtained possession of the collateral, whichever is earlier.ExamplePerson A has a perfected security interest in all of person B's present and after-acquired property.Person B buys a car on hire purchase from person C.Person C registers a financing statement in respect of person B's car 5 working days after person B took possession of the new car.Person C's security interest in person B's car has priority over person A's security interest in person B's car.
+(2) However, section 103A overrides this section.
 
 ### 74 Priority of purchase money security interest in inventory or its proceeds
 A purchase money security interest in inventory or its proceeds has priority over a non-purchase money security interest in the same collateral given by the same debtor if the purchase money security interest in the inventory or its proceeds is perfected at the time the debtor, or another person at the request of the debtor, obtains possession of the collateral, whichever is earlier.
@@ -856,6 +868,35 @@ A perfected security interest in crops is not extinguished or prejudicially affe
   (a) if the collateral is seized by an execution creditor or on an execution creditor's behalf, the time of seizure; or
   (b) in any other case, the time when a charging order or a garnishee order is made.
 (2) To avoid doubt, an execution creditor does not include a landlord who exercises a right of distress.
+
+**Priority of interests of certain operators of designated settlement system**
+
+### 103A Priority of interests of certain operators of designated settlement system
+(1) The interest of an operator in personal property has priority over any security interest (including a purchase money security interest) in the same personal property if a participant in a designated settlement system has, in accordance with the rules of that designated settlement system,—
+  (a) either—
+    (i) granted a security interest in that personal property in favour of the operator; or
+    (ii) transferred that personal property, or the operator's interest in that personal property, to the operator; and
+  (b) taken that action for the purpose of, or in connection with, either—
+    (i) effecting a settlement in accordance with the rules of that designated settlement system; or
+    (ii) mitigating a loss that may be incurred by the operator if the participant defaults.
+(2) Subsection (3) applies if—
+  (a) the interest of an operator in personal property has priority under subsection (1); and
+  (b) that interest is a security interest; and
+  (c) the relevant participant has defaulted.
+(3) If this subsection applies, the operator—
+  (a) does not have to comply with section 114(1) in respect of that personal property; and
+  (b) may immediately apply the personal property, in accordance with the rules of the designated settlement system,—
+    (i) to satisfy the participant's obligations in respect of which the participant is in default; or
+    (ii) to mitigate any loss incurred by the operator as a result of the participant's default.
+(4) Whether a loss has been incurred and whether a participant has defaulted, for the purposes of this section, must be determined by reference to, and in accordance with, the rules of the designated settlement system.
+(5) This section overrides anything in this Act to the contrary.
+(6) In this section,—
+  - **operator** means an operator of a designated settlement system who is (and at the time in question remains) specified under section 156N(3)(c) of the Reserve Bank of New Zealand Act 1989 as being an operator to whom this section applies
+  - **participant** —
+    (a) means a person who has agreed to participate in a settlement system in accordance with the rules of that system; and
+    (b) includes an operator of a designated settlement system if the designation under section 156N(3)(b) of the Reserve Bank of New Zealand Act 1989 so provides
+  - **rules** means the rules of a designated settlement system, as that term is defined in paragraph (b) of the definition of rules in section 156M of the Reserve Bank of New Zealand Act 1989.
+(7) In this section, designated settlement system and settlement have the meanings given to them by section 2(1) or 156M of the Reserve Bank of New Zealand Act 1989.
 
 ## Part 9 — Enforcement of security interests
 
