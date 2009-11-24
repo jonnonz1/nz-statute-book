@@ -1,5 +1,5 @@
 # Insolvency Act 1967
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2009-11-24_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to bankruptcy and insolvency
 
@@ -627,7 +627,7 @@ Subject to the provisions of this Act, the Assignee may—
   (c) Any property which, by reason of its nature, situation, value, or other special circumstances, he considers it unnecessary or inadvisable to sell by public auction or public tender:
   (d) Any property for which authority has been given by a resolution of creditors to sell by private contract:
     Provided that the sale shall be in accordance with the terms of the authority so conferred:
-  (e) Securities in any company, securities of the Government of New Zealand, and securities issued by any local authority, if the sale is made through a person authorised to undertake trading activities on a registered exchange's market (within the meaning of section 2(1) of the Securities Markets Act 1988).
+  (e) Securities in any company, securities of the Government of New Zealand, and securities issued by any local authority, if the sale is made through a person authorised to undertake trading activities on a registered exchange's securities market (within the meaning of section 2(1) of the Securities Markets Act 1988).
 (3) The Assignee may surrender to a building society in accordance with the rules of the society any shares of the bankrupt in the society.
 (4) Except in the case of perishable property or any property the sale of which might, in the opinion of the Assignee, be prejudiced from any cause by the delay, none of the property of the bankrupt shall be sold until after the date fixed for the first meeting of creditors:
   Provided that the Assignee may, after consulting with any creditor or creditors, sell any property before the date fixed for the first meeting if expenses will be incurred by the delay.
