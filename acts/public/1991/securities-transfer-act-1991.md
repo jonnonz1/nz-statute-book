@@ -1,5 +1,5 @@
 # Securities Transfer Act 1991
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-11-24_
 
 > An Act to consolidate and amend the law relating to the transfer of securities and to repeal the Securities Transfer Act 1977
 
@@ -37,7 +37,7 @@ In this Act, unless the context otherwise requires,—
   - **Share** , in relation to a company or a body corporate (other than a company), means a share in the share capital of the company or body corporate; and includes stock and an option to acquire a share or shares; but does not include a labour share (as defined in section 2(1) of the Companies Act 1955)
   - **Stock exchange**
   - **Stock exchange transaction** means a sale and purchase of securities in which each of the parties is, or is acting through the agency of, a person authorised to undertake trading activities on a stock exchange's marke acting in the ordinary course of business as such
-  - **stock exchange's market** means a registered exchange's market within the meaning of section 2(1) of the Securities Markets Act 1988.
+  - **stock exchange's market** means a registered exchange's securities market within the meaning of section 2(1) of the Securities Markets Act 1988.
   - **Unlimited company** means—as the case may be.
     (a) A company registered under the Companies Act 1955 not having any limit on the liability of its members; or
     (b) A company registered under the Companies Act 1993 that has one or more shareholders whose liability for the obligations of the company is unlimited,—
