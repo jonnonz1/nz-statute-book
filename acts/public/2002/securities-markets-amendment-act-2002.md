@@ -1,5 +1,5 @@
 # Securities Markets Amendment Act 2002
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2009-11-24_
 
 ### 1 Title
 (1) This Act is the Securities Markets Amendment Act 2002.
@@ -773,7 +773,7 @@ Unless the context otherwise requires, every reference to the principal Act in a
 
 ### 32 Transitional provision relating to securities exchange provisions
 (1) Unless the context otherwise requires, every reference to a stock exchange registered under the Sharebrokers Act 1908 in any enactment, document, or other thing must be read as a reference to a registered exchange (within the meaning of section 2(1) of the principal Act).
-(2) Unless the context otherwise requires, every reference to a member of a stock exchange registered under the Sharebrokers Act 1908 in any enactment, document, or other thing must be read as a reference to a person authorised to undertake trading activities on a registered exchange's market (within the meaning of section 2(1) of the principal Act).
+(2) Unless the context otherwise requires, every reference to a member of a stock exchange registered under the Sharebrokers Act 1908 in any enactment, document, or other thing must be read as a reference to a person authorised to undertake trading activities on a registered exchange's securities market (within the meaning of section 2(1) of the principal Act).
 
 ### 33 Additional transitional provisions relating to New Zealand Stock Exchange
 (1) The NZSE must be treated as having been registered as a registered exchange under section 36F of the principal Act on the commencement of this section.
