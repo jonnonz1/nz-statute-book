@@ -1,5 +1,5 @@
 # Takeovers Act 1993
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2009-11-24_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Takeovers Act 1993.
@@ -10,7 +10,7 @@ _Consolidation as at 2008-04-01_
 (1) In this Act, unless the context otherwise requires,—
   - **company** has the same meaning as in section 2(1) of the Companies Act 1993
   - **Court** means, in relation to any matter, the Court before which the matter is to be determined
-  - **Director** means, in relation to a company or other body corporate, any person occupying the position of a director of the company or body by whatever name called
+  - **director** means, in relation to a company or other body corporate, any person occupying the position of a director of the company or body by whatever name called
   - **document** means any record of information; and includes—
     (a) anything on which there is writing or any image; and
     (b) information recorded by means of any article or device (for example, a disk) from which information is capable of being reproduced with or without the aid of any other article or device; and
@@ -20,21 +20,21 @@ _Consolidation as at 2008-04-01_
   - **Panel** —
     (a) means the Takeovers Panel established under Part 1; or
     (b) for the purposes of determining any matter or class of matter specified in a determination under section 7A, means the division of the Panel specified in the determination in accordance with section 7C(1)(a).
-  - **Public issuer**
-  - **quoted** , in relation to securities of a person, means securities of the person that are approved for trading on a registered exchange's market (and, for the avoidance of doubt, securities do not cease to be quoted merely because trading in those securities is suspended)
+  - **public issuer**
+  - **quoted** , in relation to securities of a person, means securities of the person that are approved for trading on a registered exchange's securities market (and, for the avoidance of doubt, securities do not cease to be quoted merely because trading in those securities is suspended)
   - **registered exchange** has the meaning set out in section 2(1) of the Securities Markets Act 1988
-  - **registered exchange's market** has the meaning set out in section 2(1) of the Securities Markets Act 1988.
+  - **registered exchange's securities market** has the meaning set out in section 2(1) of the Securities Markets Act 1988.
   - **Registrar** means a person who for the time being holds the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993
   - **Securities Commission** means the Securities Commission established by section 9 of the Securities Act 1978
-  - **Security** , in relation to a specified company, means—and includes a security that is convertible, at the option of the security holder, into a security of the type referred to in paragraph (a) or paragraph (b) or paragraph (c) of this definition
-    (a) An equity security within the meaning of section 2 of the Securities Act 1978, whether or not the security carries voting rights:
-    (b) A debt security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the specified company:
-    (c) A participatory security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the specified company,—
+  - **security** , in relation to a specified company, means—and includes a security that is convertible, at the option of the security holder, into a security of the type referred to in paragraph (a) or paragraph (b) or paragraph (c) of this definition
+    (a) an equity security within the meaning of section 2 of the Securities Act 1978, whether or not the security carries voting rights:
+    (b) a debt security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the specified company:
+    (c) a participatory security within the meaning of section 2 of the Securities Act 1978 which carries the right to vote at any annual or general meeting of the specified company,—
   - **specified company** means a company that—
-    (a) is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's market; or
+    (a) is a party to a listing agreement with a registered exchange and that has securities that confer voting rights quoted on the registered exchange's securities market; or
     (b) was within paragraph (a) at any time during a period specified in the takeovers code (being a period not exceeding 12 months before any date or the occurrence of any event referred to in the code); or
     (c) has 50 or more shareholders
-  - **Stock exchange**
+  - **stock exchange**
   - **takeovers code** means the regulations made under section 19
   - **voting right** means a currently exercisable right to cast a vote at meetings of shareholders of a company, not being a right to vote that is exercisable only in 1 or more of the following circumstances
     (a) during a period in which a payment or distribution (or part of a payment or distribution) in respect of the security that confers the voting right is in arrears or some other default exists:
@@ -56,7 +56,7 @@ This Act binds the Crown.
 
 ### 4 Object of this Act
 The object of this Act is to—
-  (a) Establish a panel to be called the Takeovers Panel:
+  (a) establish a panel to be called the Takeovers Panel:
   (b) empower the Minister, in consultation with the Panel, to formulate and make recommendations concerning the takeovers code (which sets out the rules applying to takeovers of specified companies):
   (c) provide for the administration and enforcement of the takeovers code:
   (ca) provide criminal liability for false or misleading statements or information in relation to takeovers of specified companies:
@@ -109,12 +109,12 @@ The object of this Act is to—
 (1) The Panel has the following functions:
   (a) to keep under review the law relating to takeovers of specified companies and to recommend to the Minister any changes to that law that it considers necessary:
   (b)
-  (c) For the purposes of paragraph (a), to keep under review practices relating to takeovers of specified companies:
-  (d) To investigate any act or omission or practice for the purpose of exercising its powers and functions under Part 3 of this Act:
-  (e) To make determinations and orders and make applications to the Court in accordance with Part 3 of this Act:
+  (c) for the purposes of paragraph (a), to keep under review practices relating to takeovers of specified companies:
+  (d) to investigate any act or omission or practice for the purpose of exercising its powers and functions under Part 3 of this Act:
+  (e) to make determinations and orders and make applications to the Court in accordance with Part 3 of this Act:
   (ea) to co-operate with any overseas regulator and, for that purpose (but without limiting this function), to communicate, or make arrangements for communicating, to that overseas regulator information obtained by the Panel in the performance of its functions and powers (whether or not confidential) that the Panel considers may assist that overseas regulator in the performance of its functions:
-  (f) To promote public understanding of the law and practice relating to takeovers:
-  (g) To perform such other functions as are conferred on it by this Act.
+  (f) to promote public understanding of the law and practice relating to takeovers:
+  (g) to perform such other functions as are conferred on it by this Act.
 (2) In the exercise of its functions and powers under Part 3 of this Act and the takeovers code, the Panel shall comply with the principles of natural justice.
 (3) Except as expressly provided otherwise in this or any other Act, the Panel must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
@@ -130,9 +130,9 @@ The object of this Act is to—
 (1) No proceedings, civil or criminal, shall lie against the Panel for anything it may do or fail to do in the course of the exercise or intended exercise of its functions, unless it is shown that the Panel acted without reasonable care or in bad faith.
 (2) No proceedings, civil or criminal, lie against any member of the Panel, or any officer or employee of the Panel, or any member of a committee of the Panel, for anything that person may do or say or fail to do or say in the course of the operations of the Panel, unless it is shown by the Panel that the person acted in bad faith.
 (3) Nothing in subsections (1) and (2) of this section applies in respect of proceedings for—
-  (a) An offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (b) The offence of conspiring to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
-  (c) The offence of attempting to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961.
+  (a) an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78A or section 105 or section 105A of the Crimes Act 1961.
 (3A) Section 59(3) of the Crown Entities Act 2004 (which provides that a statutory entity may bring an action against a member for breach of an individual duty) does not apply, unless it is shown that the person acted in bad faith.
 (3B) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (3C) This section contains an exception to section 121 of the Crown Entities Act 2004.
@@ -178,9 +178,9 @@ The object of this Act is to—
 ### 17 Annual fee in respect of funding of Panel
 (1) Each specified company shall pay such annual fee in respect of the funding of the Panel as may be prescribed by regulations made under this Act.
 (2) Any such fee shall be—
-  (a) Payable to the Registrar of Companies upon delivery to the Registrar of the company's annual return; and
-  (b) Payable in addition to any fee payable in respect of the annual return; and
-  (c) Recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
+  (a) payable to the Registrar of Companies upon delivery to the Registrar of the company's annual return; and
+  (b) payable in addition to any fee payable in respect of the annual return; and
+  (c) recoverable by the Registrar in any court of competent jurisdiction as a debt due to the Crown.
 (3) The Registrar of Companies shall, as soon as practicable, remit to the Panel the fees paid under this section.
 
 ### 17A Panel deemed to be public authority
@@ -197,38 +197,38 @@ The provisions set out in the Schedule to this Act apply in respect of the Panel
 
 ### 20 Objectives of takeovers code
 (1) In formulating recommendations concerning a takeovers code, the Minister shall consider the following objectives as the objectives for the code, namely,—
-  (a) Encouraging the efficient allocation of resources:
-  (b) Encouraging competition for the control of specified companies:
-  (c) Assisting in ensuring that the holders of securities in a takeover are treated fairly:
-  (d) Promoting the international competitiveness of New Zealand's capital markets:
-  (e) Recognising that the holders of securities must ultimately decide for themselves the merits of a takeover offer:
-  (f) Maintaining a proper relation between the costs of compliance with the code and the benefits resulting from it.
+  (a) encouraging the efficient allocation of resources:
+  (b) encouraging competition for the control of specified companies:
+  (c) assisting in ensuring that the holders of securities in a takeover are treated fairly:
+  (d) promoting the international competitiveness of New Zealand's capital markets:
+  (e) recognising that the holders of securities must ultimately decide for themselves the merits of a takeover offer:
+  (f) maintaining a proper relation between the costs of compliance with the code and the benefits resulting from it.
 (2) In formulating recommendations concerning a takeovers code, it is for the Minister to determine the weight that should be given to any particular objective or objectives referred to in subsection (1).
 (3)
 (4)
 
 ### 21 Matters to be considered by Minister in making recommendations concerning takeovers code
 Without limiting the matters that the Minister may consider, the Minister must, in formulating recommendations concerning a takeovers code, consider whether the code should provide—
-  (a) That advance notice and publicity should be given of takeovers:
-  (b) That in a takeover, the specified company and its security holders should be fully informed:
-  (c) That in a takeover, offers should be made to all security holders, that the consideration offered should be the same for all security holders, and that all security holders should have the same opportunity for acceptance:
-  (d) That incremental acquisitions and partial bids should be permitted:
-  (e) That there should be rules to determine the price or prices payable for the acquisition of securities in a takeover:
-  (f) For the compulsory acquisition of securities in a specified company at the option of offerors or security holders, or both:
-  (g) For the regulation of defensive tactics.
+  (a) that advance notice and publicity should be given of takeovers:
+  (b) that in a takeover, the specified company and its security holders should be fully informed:
+  (c) that in a takeover, offers should be made to all security holders, that the consideration offered should be the same for all security holders, and that all security holders should have the same opportunity for acceptance:
+  (d) that incremental acquisitions and partial bids should be permitted:
+  (e) that there should be rules to determine the price or prices payable for the acquisition of securities in a takeover:
+  (f) for the compulsory acquisition of securities in a specified company at the option of offerors or security holders, or both:
+  (g) for the regulation of defensive tactics.
 
 ### 22 Specific provisions applying to takeovers code
 Without limiting section 19, but subject to section 23, regulations under that section may—
-  (a) Define the transactions or classes of transactions in relation to which the code applies and for that purpose define terms and expressions used in the code in such manner as it thinks fit:
-  (b) Prescribe the requirements in relation to offers and the making of offers to acquire securities in a specified company in a takeover including requirements as to the form and content of those offers, variations of those offers, the time during which those offers are to remain open for acceptance, the persons to whom those offers are to be made, and the manner of acceptance:
-  (c) Prescribe the information, statements, certificates, and documents or other matters that must be supplied to a specified company and the security holders of the specified company in a takeover:
-  (d) Prescribe requirements for the registration by the Registrar of Companies of documents in connection with a takeover:
-  (e) Prescribe the duties and obligations of a specified company and the directors of the specified company and other persons in a takeover.
+  (a) define the transactions or classes of transactions in relation to which the code applies and for that purpose define terms and expressions used in the code in such manner as it thinks fit:
+  (b) prescribe the requirements in relation to offers and the making of offers to acquire securities in a specified company in a takeover including requirements as to the form and content of those offers, variations of those offers, the time during which those offers are to remain open for acceptance, the persons to whom those offers are to be made, and the manner of acceptance:
+  (c) prescribe the information, statements, certificates, and documents or other matters that must be supplied to a specified company and the security holders of the specified company in a takeover:
+  (d) prescribe requirements for the registration by the Registrar of Companies of documents in connection with a takeover:
+  (e) prescribe the duties and obligations of a specified company and the directors of the specified company and other persons in a takeover.
 
 ### 23 Takeovers code not to apply in certain cases
 Nothing in the takeovers code shall require any person to comply with the code—
-  (a) By reason only of the fact that, on the coming into force of the code, a particular proportion of securities have been acquired in a specified company, whether by that person or any other person, before the code comes into force; or
-  (b) By reason of the acquisition of securities in a specified company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
+  (a) by reason only of the fact that, on the coming into force of the code, a particular proportion of securities have been acquired in a specified company, whether by that person or any other person, before the code comes into force; or
+  (b) by reason of the acquisition of securities in a specified company, whether by that person or any other person, on or after the coming into force of the code, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the date on which an approved takeovers code comes into force.
 
 ### 24 Co-ordination with Australia
 In formulating recommendations concerning a takeovers code, the Minister must have regard, as far as practicable, to any principles applying to the co-ordination of business law between Australia and New Zealand set out in any agreement or memorandum of understanding between the Governments of Australia and New Zealand.
@@ -301,7 +301,7 @@ Sections 31A, 31B, and 31C do not limit any power that the Panel, Registrar, or 
 ### 31E Non-disclosure of information from inspection
 A person must not communicate to any other person any information acquired in the course of an inspection under section 31A except—
   (a) in accordance with section 31C; or
-  (b) for the purposes of this Act, the Securities Act 1978, the Securities Markets Act 1988, or any of the Acts listed in the First Schedule of the Securities Act 1978; or
+  (b) for the purposes of this Act, the Securities Act 1978, the Securities Markets Act 1988, or any of the Acts listed in the Schedule 1of the Securities Act 1978; or
   (c) in accordance with the Official Information Act 1982 or the Privacy Act 1993; or
   (d) in the course of any criminal proceedings (but subject to the limitation in section 31C(1)(b)).
 
@@ -334,7 +334,7 @@ An appeal under section 31G must be made—
 ### 31I Situation while appeal pending
 While any appeal made under section 31G is pending,—
   (a) the Panel or Registrar, or any person authorised by the Panel or Registrar, may continue to exercise the powers under any of sections 31A to 31C as if no appeal had been made; and
-  (b) No person is excused from fulfilling his or her obligations under any of those sections by reason of the appeal; and
+  (b) no person is excused from fulfilling his or her obligations under any of those sections by reason of the appeal; and
   (c) information that is obtained as a result of an inspection to which the appeal relates is not admissible as evidence in any criminal proceedings against the person to whom the information relates.
 
 ### 31J Determination of appeal
@@ -343,7 +343,7 @@ The Court must determine the appeal by either dismissing the appeal or giving su
 ### 31K Requirements where appeal allowed
 To the extent that an appeal in respect of an act or decision of the Panel or Registrar, or any person authorised by the Panel or Registrar, under any of sections 31A to 31C is allowed or granted—
   (a) the Panel or Registrar must ensure that, as soon as practicable after the decision on the appeal is given, all records made by the Panel or Registrar, or by a person authorised by the Panel or Registrar, under section 31A(1)(c) in respect of the act or decision are destroyed; and
-  (b) No information acquired under paragraph (a) or paragraph (b) of section 31A(1) in respect of the act or decision is admissible in evidence in any proceedings.
+  (b) no information acquired under paragraph (a) or paragraph (b) of section 31A(1) in respect of the act or decision is admissible in evidence in any proceedings.
 
 **Panel's powers for receiving evidence**
 
@@ -463,12 +463,12 @@ The Panel may decide whether to hold any meeting or any part of a meeting in pub
 (1) The Panel may at any time, if it considers that a person may not have acted or may not be acting or may intend not to act in compliance with the takeovers code, after giving that person such written notice of the meeting as the Panel considers appropriate in the circumstances, but in no case exceeding 7 days, hold a meeting for the purpose of determining whether to exercise its powers under this section.
 (2) Where the Panel gives a notice under subsection (1) of this section, it may make a temporary restraining order that is expressed to expire with the close of the second day after the date for which the meeting was convened.
 (3) Following the meeting specified in subsection (1) of this section, the Panel may make a determination—
-  (a) That it is satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code; or
-  (b) That it is not satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code.
+  (a) that it is satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code; or
+  (b) that it is not satisfied that the person has acted or is acting or intends to act in compliance with the takeovers code.
 (3A) If the Panel makes a determination under subsection (3), the Panel must, as soon as reasonably practicable, give written notice of its reasons for the determination to the person the determination concerns.
 (4) Where the Panel makes a determination on reasonable grounds under subsection (3)(b) of this section, the Panel may, at any time before the close of the second day after the date for which the meeting was convened,—
-  (a) Make a temporary restraining order (relating to the non-compliance with the takeovers code) that is expressed to expire with the close of such day as shall be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
-  (b) Make an order continuing any temporary restraining order (relating to the non-compliance with the takeovers code) made under subsection (2) of this section until the close of such day as may be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
+  (a) make a temporary restraining order (relating to the non-compliance with the takeovers code) that is expressed to expire with the close of such day as shall be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
+  (b) make an order continuing any temporary restraining order (relating to the non-compliance with the takeovers code) made under subsection (2) of this section until the close of such day as may be specified in the order, not being a day that is later than 21 days after the date on which the temporary restraining order is made:
   (c) make a permanent compliance order (relating to the non-compliance with the takeovers code):
   (d) if it makes any order under this subsection, also make an order extending, for a reasonable time, the period for which a takeover offer must remain open.
 (4A) If the Panel makes an order under this section, the Panel—
@@ -481,14 +481,14 @@ The Panel may decide whether to hold any meeting or any part of a meeting in pub
 
 ### 33 Temporary restraining orders
 For the purposes of section 32 of this Act, a temporary restraining order is an order for one or more of the following:
-  (a) Restraining a person from acquiring securities in the specified company concerned or any interest in or rights relating to such securities:
-  (b) Restraining a person from disposing of securities in the specified company concerned or any interest in or rights relating to such securities:
-  (c) Restraining a person from exercising the right to vote attaching to securities in the specified company concerned or any other right relating to such securities:
+  (a) restraining a person from acquiring securities in the specified company concerned or any interest in or rights relating to such securities:
+  (b) restraining a person from disposing of securities in the specified company concerned or any interest in or rights relating to such securities:
+  (c) restraining a person from exercising the right to vote attaching to securities in the specified company concerned or any other right relating to such securities:
   (d) restraining a person from taking any action (including from making any statement or distributing any document) that is or that may reasonably be expected to constitute a contravention of the takeovers code (see section 2(2) for the definition of contravention of the takeovers code):
-  (e) Directing the specified company concerned not to make any payments in respect of any securities:
-  (f) Directing the specified company concerned not to register the transfer or transmission of any securities:
-  (g) Directing the specified company concerned not to issue or allot securities to any person:
-  (h) For the purpose of securing compliance with any such order, an order directing a person to do or refrain from doing a specified act.
+  (e) directing the specified company concerned not to make any payments in respect of any securities:
+  (f) directing the specified company concerned not to register the transfer or transmission of any securities:
+  (g) directing the specified company concerned not to issue or allot securities to any person:
+  (h) for the purpose of securing compliance with any such order, an order directing a person to do or refrain from doing a specified act.
 
 ### 33AA Permanent compliance orders
 For the purposes of section 32, a permanent compliance order is an order for one or more of the following:
@@ -649,23 +649,23 @@ If the Court orders that a person pay a pecuniary penalty, and the proceedings w
 
 ### 35 Persons who may apply
 (1) Where the Panel makes a determination under section 32(3)(b) of this Act (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code) the following persons may, subject to subsection (2) of this section, make an application to the Court under section 33F, 33I, or 33K:
-  (a) The Panel:
-  (b) If the specified company's securities are, or were at any material time, quoted on a registered exchange's market, that registered exchange:
-  (c) The specified company concerned:
-  (d) A member or security holder of the specified company concerned:
-  (e) A person who was a member or security holder of the specified company concerned at the time that the conduct to which the application relates occurred:
-  (f) A person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
-  (g) With the leave of the Court, any other person.
+  (a) the Panel:
+  (b) if the specified company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
+  (c) the specified company concerned:
+  (d) a member or security holder of the specified company concerned:
+  (e) a person who was a member or security holder of the specified company concerned at the time that the conduct to which the application relates occurred:
+  (f) a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
+  (g) with the leave of the Court, any other person.
 (2) A person referred to in any of paragraphs (b) to (f) of subsection (1) of this section is not entitled to make an application to the Court unless—
-  (a) The Panel has consented to the making of the application; or
-  (b) That person has requested the Panel in writing to make an application to the Court itself and the Panel has not made such an application before the expiration of 10 days after receiving the request.
+  (a) the Panel has consented to the making of the application; or
+  (b) that person has requested the Panel in writing to make an application to the Court itself and the Panel has not made such an application before the expiration of 10 days after receiving the request.
 (3) Where a request is made to the Panel to hold a meeting under section 32(1) of this Act and the Panel does not, within 14 days after receiving the request, make a determination under section 32(3) of this Act, the following persons may make an application to the Court under section 33F, 33I, or 33K—
-  (a) If the specified company's securities are, or were at any material time, quoted on a registered exchange's market, that registered exchange:
-  (b) The specified company concerned:
-  (c) A member or security holder of the specified company concerned:
-  (d) A person who was a member or security holder of the specified company concerned at the time that the conduct to which the application relates occurred:
-  (e) A person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
-  (f) With the leave of the Court, any other person.
+  (a) if the specified company's securities are, or were at any material time, quoted on a registered exchange's securities market, that registered exchange:
+  (b) the specified company concerned:
+  (c) a member or security holder of the specified company concerned:
+  (d) a person who was a member or security holder of the specified company concerned at the time that the conduct to which the application relates occurred:
+  (e) a person who, at any time within the period of 6 months before the making of the application, has made an offer or offers to acquire securities in the specified company in accordance with the takeovers code:
+  (f) with the leave of the Court, any other person.
 (4) If the Panel makes a determination under section 32(3)(b) (a determination that the Panel is not satisfied that a person has acted or is acting or intends to act in compliance with the takeovers code), the Panel may make an application to the Court under section 33M.
 
 ### 36 Orders
@@ -695,10 +695,10 @@ If the Court orders that a person pay a pecuniary penalty, and the proceedings w
 
 ### 42 Court may require person to give evidence or produce documents relating to interests in securities
 (1) The Court may, in any application under this subpart, for the purpose of ascertaining whether any person—order any person to—
-  (a) Has or had any direct or indirect interest in or right to any security in the specified company concerned; or
-  (b) Has or had any direct or indirect right to exercise any voting rights attaching to any such security,—
-  (c) Attend before the Court and be examined on oath or affirmation; or
-  (d) Produce documents in that person's possession or under that person's control.
+  (a) has or had any direct or indirect interest in or right to any security in the specified company concerned; or
+  (b) has or had any direct or indirect right to exercise any voting rights attaching to any such security,—
+  (c) attend before the Court and be examined on oath or affirmation; or
+  (d) produce documents in that person's possession or under that person's control.
 (2) An order under subsection (1) of this section may be made on the application of any person who is a party to the application under this subpart.
 
 ### 43 More than 1 civil remedy order may be made for same conduct
@@ -870,7 +870,7 @@ Before making an order under this Part, the Court may direct the person making t
 The following persons are entitled to appear and be heard at the hearing of an application to the Court under this Part:
   (a) the applicant:
   (b) the Panel:
-  (c) if the specified company's securities are, or were at the material time, quoted on a registered exchange's market, that registered exchange:
+  (c) if the specified company's securities are, or were at the material time, quoted on a registered exchange's securities market, that registered exchange:
   (d) the specified company:
   (e) a person who is alleged to have suffered, or to be likely to suffer, loss or damage because of an alleged contravention of this Act or the takeovers code (whether that person or another person makes the allegation):
   (f) a person who was a security holder of the specified company at the time that the conduct to which the application relates occurred:
