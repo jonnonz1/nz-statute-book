@@ -1,5 +1,5 @@
 # Corporations (Investigation and Management) Act 1989
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2009-11-24_
 
 > An Act to enable the Registrar of Companies to determine whether corporations are at risk, to enable action to be taken in relation to such corporations in appropriate cases, and to repeal the Companies Special Investigations Act 1958
 
@@ -345,12 +345,12 @@ The Securities Commission shall not make a recommendation under section 38 of th
     (i) The termination, in accordance with the netting agreement, of all or any transactions that are subject to the netting agreement by reason of the occurrence of an event specified in the netting agreement, being an event (including the appointment of a statutory manager) occurring not later than the commencement of statutory management; or
     (ii) The taking of an account, in accordance with the netting agreement, of all money due between the parties to the netting agreement in respect of transactions affected by the termination; and
   (c) Nothing in subsection (1) limits or prevents the exercise by a recognised clearing house (within the meaning of section 310A of the Companies Act 1993), of any right referred to in subsection (1)(d) to (f) in respect of any property of that corporation if the right that is exercised has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under a recognised multilateral netting agreement (within the meaning of that section).
-(8) In the case of netting under the rules of a payment system that is declared to be a designated payment system under Part 5C of the Reserve Bank of New Zealand Act 1989,—
+(8) In the case of netting under the rules of a settlement system that is declared to be a designated settlement system under Part 5C of the Reserve Bank of New Zealand Act 1989,—
   (a) nothing in subsection (1) limits or prevents the exercise of any rights relating to the calculation of a netted balance under those rules; and
-  (b) nothing in subsection subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that corporation if the right that is exercised—
-    (i) is provided under the rules of the designated payment system; and
+  (b) nothing in subsection (1) limits or prevents the exercise of any right referred to in paragraphs (d) to (f) of that subsection in respect of any property of that corporation if the right that is exercised—
+    (i) is provided under the rules of the designated settlement system; and
     (ii) has been granted to secure, or to assist in securing, the due performance, by that corporation, of obligations entered into by that corporation under those rules.
-(9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156L of the Reserve Bank of New Zealand Act 1989.
+(9) For the purpose of subsection (8), netted balance, netting, and rules have the meanings set out in section 156M of the Reserve Bank of New Zealand Act 1989.
 
 ### 43 Prohibition against removal of assets
 (1) Where a corporation is declared to be subject to statutory management, no person shall, except with the consent of the statutory manager, transfer, or remove from New Zealand, any property or assets of the corporation.
@@ -363,7 +363,7 @@ The Securities Commission shall not make a recommendation under section 38 of th
 (1) The statutory manager of a corporation may, notwithstanding the terms of any contract, suspend in whole or in part the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person.
 (2) The suspension by a statutory manager in whole or in part of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person pursuant to subsection (1) of this section shall not constitute a breach or repudiation of any contract entered into by the corporation with any person.
 (3) Nothing in subsection (1) of this section shall authorise the suspension by the statutory manager of the repayment of any deposit, or the payment of any debt, or the discharge of any obligation, to any person where the obligation to repay the deposit, or to pay the debt, or to discharge the obligation, was incurred by the corporation or by the statutory manager after the date upon which, and the time at which, the corporation became subject to statutory management.
-(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156R of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
+(4) Nothing in subsection (1) authorises the suspension by the statutory manager of the payment of any amount that would be included in the calculation of a netted balance in accordance with section 310C of the Companies Act 1993 or section 257 of the Insolvency Act 2006 or section 156T of the Reserve Bank of New Zealand Act 1989, as the case may be. However, subsection (1) applies to the payment of the netted balance.
 
 ### 45 Management of corporation to vest in statutory manager
 (1) Subject to this Part of this Act, where a corporation is declared to be subject to statutory management, the management of that corporation shall, on and after the date, and at and from the time, specified in the order, vest in the statutory manager of that corporation.
