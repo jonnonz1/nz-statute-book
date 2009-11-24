@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2009-07-28_
+_Consolidation as at 2009-11-24_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -23,7 +23,7 @@ _Consolidation as at 2009-07-28_
   - **Bonus bond** means a unit in an approved unit trust within the meaning of section 3(1) of the Finance Act (No 2) 1990
   - **Books and papers**
   - **Building society** has the same meaning as in section 2(1) of the Building Societies Act 1965
-  - **chattel** includes livestock, but does not include a book debt or negotiable instrument
+  - **chattel** includes livestock and emissions units, but does not include a book debt or negotiable instrument
   - **civil liability event** has the meaning set out in section 55B
   - **Commission** —
     (a) means the Securities Commission established under Part 1; or
@@ -76,6 +76,15 @@ _Consolidation as at 2009-07-28_
     (a) anything on which there is writing or any image; and
     (b) information recorded by means of any article or device (for example, a disk) from which information is capable of being reproduced with or without the aid of any other article or device; and
     (c) material subsequently derived from information recorded by that means.
+  - **emissions units** means—
+    (a) units as defined in section 4(1) of the Climate Change Response Act 2002; and
+    (b) personal property that—
+      (i) is created by, or in accordance with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol as—
+        (A) one of a fixed number of units issued by reference to a specified amount of greenhouse gas; or
+        (B) evidence of a specified amount of reductions, removals, avoidance, storage, sequestration, or any other form of mitigation of greenhouse gas emissions; and
+      (ii) can be surrendered, retired, cancelled, or otherwise used to—
+        (A) offset greenhouse gas emissions under, or otherwise comply with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol; or
+        (B) enable a person who surrenders, retires, cancels, or otherwise uses it to claim an environmental benefit
   - **Equity security** means any interest in or right to a share in, or in the share capital of, a company; and includes—but does not include any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be an equity security for the purposes of this Act
     (a) A preference share, and company stock; and
     (b) A security that is declared by regulations to be an equity security for the purposes of this Act; and
@@ -84,6 +93,7 @@ _Consolidation as at 2009-07-28_
   - **Government department** includes—
     (a) the Maori Trustee; and
     (b) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by section 52 of the Public Trust Act 2001.
+  - **greenhouse gas** has the meaning set out in section 31 of the Climate Change Response Act 2002
   - **Interest in a superannuation scheme** means an interest or right to participate in any capital, assets, earnings, or other property of a superannuation scheme; and includes—but does not include any such interest or right, or a security referred to in paragraph (b) of this definition, that is declared by regulations not to be an interest in a superannuation scheme for the purposes of this Act
     (a) Any interest or right that is declared by regulations to be an interest in a superannuation scheme for the purposes of this Act; and
     (b) Any renewal or variation of the terms or conditions of any such interest or right or a security referred to in paragraph (a) of this definition;—
@@ -494,6 +504,7 @@ This Act shall bind the Crown.
   (caa) to keep under review activities on securities markets, and to comment on those activities to the appropriate body; and
   (cab) on the Minister's request, to advise the Minister on the conduct rules, or amendments to those rules, proposed by securities exchanges; and.
   (d) To promote public understanding of the law and practice relating to securities and the law and practice relating to financial advisers; and
+  (da) to keep under review the law and practices relating to settlement systems (as defined in Part 5C of the Reserve Bank of New Zealand Act 1989, but not including any designated settlement system that is declared to be a pure payment system in accordance with section 156N(3)(d)) and to perform the functions and duties, and exercise the powers, given to it under that Part; and
   (e) by agreement with the Takeovers Panel, to provide administrative and support services to the Panel.
 (2) Except as expressly provided otherwise in this or any other Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
@@ -1527,8 +1538,12 @@ Nothing in sections 53 to 53E of this Act derogates from the Companies Act 1993 
 (1) Every issuer of an equity security, a debt security, a unit, or a participatory security offered to the public shall send, or cause to be sent, to the security holder either the security or a certificate of the security within one month of the allotment, or receipt by or on behalf of the issuer of a registrable transfer, of the security.
 (2) Every security or certificate sent to a security holder pursuant to this section shall be executed by or on behalf of the issuer of the security:
   Provided that it shall be sufficient compliance with the provisions of this subsection requiring a security or certificate to be executed by any person if a facsimile of the required signature and seal (if any) is reproduced on the security or certificate.
-(3) In this section, the term certificate means a certificate or other document that properly evidences the nature, ownership, terms, and conditions of the security.
-(4) Nothing in this section applies to a company to which section 95(2) of the Companies Act 1993 applies.
+(3) Nothing in this section applies to an issuer in respect of securities that are approved for transfer under, or in accordance with the rules of, a system that does not require a certificate for the transfer of securities.
+(4) In this section,—
+  - **certificate** means a certificate or any other document that properly evidences the nature, ownership, terms, and conditions of a security
+  - **system** means—
+    (a) a system authorised or approved under the Securities Transfer Act 1991:
+    (b) a designated settlement system (as defined in section 156M of the Reserve Bank of New Zealand Act 1989).
 
 ### 54A Information to be sent periodically to security holders
 Every issuer of securities offered to the public for subscription shall send, or cause to be sent, to each security holder, at the times prescribed by regulations, the documents, information, and other matters required to be sent by those regulations.
