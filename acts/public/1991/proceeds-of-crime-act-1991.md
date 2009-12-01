@@ -1,5 +1,5 @@
 # Proceeds of Crime Act 1991
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-12-01_
 
 > An Act—aTo provide for confiscation of the proceeds of serious criminal offending; andbTo provide for matters incidental thereto
 
