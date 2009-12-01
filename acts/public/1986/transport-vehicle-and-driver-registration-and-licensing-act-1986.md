@@ -1,5 +1,5 @@
 # Transport (Vehicle and Driver Registration and Licensing) Act 1986
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-12-01_
 
 > An Act to consolidate and amend the law relating to the registration and licensing of motor vehicles, the licensing of drivers, and related matters, and to replace Parts 2 and 3 of the Transport Act 1962
 
@@ -429,6 +429,7 @@ Any person to whom section 30 of this Act applies may use on any road the type o
   (d) Provide that exemptions referred to in subsection (1)(a) that are granted by the Secretary are to have effect for such period as the Secretary thinks fit in each case, subject to any limitations imposed by the regulations:
   (e) Provide that exemptions from the requirement in section 5(1A)(a), whether conferred by or under the regulations, have no effect while a vehicle is being used on a road:
   (f) Provide for the renewal and revocation of exemptions referred to in subsection (1)(a) that are granted by the Secretary.
+(3) The Governor-General may, by Order in Council, make regulations setting the number of demerit points to be recorded in respect of an offence under section 17 that concerns the driving of a motor vehicle.
 
 **Fees and charges**
 
