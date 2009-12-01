@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2009-11-17_
+_Consolidation as at 2009-12-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -1632,6 +1632,7 @@ Except as provided in any other enactment, unique identifiers shall not be used 
 |  |  | Ministry of Transport |
 |  |  | Legal Services Agency (access is limited to obtaining information for the purpose of processing cases before a court, and for determining an application for a grant of legal aid relating to a criminal matter) |
 | Vehicles of interest | Particulars of motor vehicles stolen, unlawfully taken, missing, abandoned, or found, or where location is for other reasons required to be known by the Police | Ministry of Transport (access is limited so as to exclude such particulars as the Police may determine in any case) |
+| Vehicles impounded under Land Transport Act 1998 | Particulars of an impounded vehicle, including make, model, type, registration plate number, vehicle identification number; the section of the Land Transport Act 1998 under which it is impounded, the date on which it was impounded, and the place where it is impounded; whether any appeals are yet to be determined; particulars of the person who was driving the vehicle immediately before its impoundment, including the full name, full address, telephone number, occupation, driver licence number, and date of birth of that person and the same particulars also for every person, other than that driver, who is registered in respect of the vehicle | Ministry of Justice (access is limited to giving effect to action taken, under Part 3 of the Summary Proceedings Act 1957, to enforce the payment of fines, reparation, and related payments) |
 | Wanted persons | Particulars concerning persons wanted for arrest | New Zealand Transport Agency |
 |  |  | Ministry of Justice (access is limited to obtaining information for the purposes of— |
 |  |  | (a) subpart 2 of Part 4A of the Land Transport Act 1998: |
