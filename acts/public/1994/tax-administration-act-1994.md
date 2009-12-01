@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2009-12-01_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3118,6 +3118,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
   (g) communicating to any authorised person under section 62 of the Student Loan Scheme Act 1992 any information required for the purpose specified in subsection (2), (2AA), or (2A of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 62A of the Student Loan Scheme Act 1992 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section.
+  (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)(b) of that section:
   (h) communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the Department) or any other function that may from time to time be lawfully conferred on the Commissioner:
   (i) communicating to any person, or employee of that person, being a person engaged by the Commissioner for the performance of services necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the Department) or any other function that may from time to time be lawfully conferred on the Commissioner, such information as the Commissioner considers necessary for the performance of those services:
   (j) communicating any information of a general nature, being information which does not reveal the identity of any taxpayer, to any person authorised by the Minister to receive it, where the Minister—
@@ -3497,10 +3498,11 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
   (c) where it is given by any person referred to in section 81(4)(f) who is an officer or employee or agent of the Accident Rehabilitation and Compensation Insurance Corporation or the Accident Compensation Corporation, be kept by that Corporation as a permanent record:
   (d) where it is given by any person referred to in section 81(4)(g) (being an employee of the loan manager under the Student Loan Scheme or an employee of any tertiary institution or the Secretary of Education or any employee of the Ministry of Education), be kept by the Secretary of Education as a permanent record:
   (db) where it is given by any person referred to in section 81(4)(gb), be kept by the New Zealand Customs Service as a permanent record:
+  (dc) where it is given to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009), be kept by the Commissioner as a permanent record:
   (e) in any other case be kept by the Inland Revenue Department as a permanent record.
 (5) In this section, person with access to restricted information means any person who—
   (a) acquires or has access to or is given restricted information—
-    (i) Through the agency of the Commissioner under any of paragraphs (d), (e), (eb), (f), (g), (gb), (h), (i) and (q) of section 81(4); or
+    (i) Through the agency of the Commissioner under any of paragraphs (d), (e), (eb), (f), (g), (gb), (gc), (h), (i) and (q) of section 81(4); or
     (ii) by virtue of the person's access to the information processing and storage systems of the Department; or
   (b) being a person who, by the nature of his or her physical access to the premises or the information processing and storage systems of the Department may or is likely to have access to restricted information, has been required by the Commissioner to certify in the manner prescribed by subsection (3); or
   (c) accompanies the Commissioner or an authorised officer, as permitted by section 16(2A), to a place where the person may or is likely to have access to restricted information; or
