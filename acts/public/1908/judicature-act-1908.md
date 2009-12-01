@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-12-01_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -16,22 +16,22 @@ In this Act, unless the context otherwise requires,
   - **Chief High Court Judge**
     (a) means the person holding that office under section 4A; and
     (b) includes a Judge of the High Court acting in place of the Chief High Court Judge under section 4A(5)
-  - **Civil proceedings** means any proceedings in the Court, other than criminal proceedings
+  - **civil proceedings** means any proceedings in the Court, other than criminal proceedings
   - **Court** means the High Court of New Zealand
   - **Court of Appeal Rules** means rules which are made under section 51C of this Act and which regulate the practice and procedure of the Court of Appeal (including the practice and procedure on civil appeals from any Court or person to the Court of Appeal); and includes the Court of Appeal Rules 1955
-  - **Defendant** means a person served or intended to be served with any application to the Court for the exercise of its civil or criminal jurisdiction
-  - **Existing** means existing on the coming into operation of this Act
+  - **defendant** means a person served or intended to be served with any application to the Court for the exercise of its civil or criminal jurisdiction
+  - **existing** means existing on the coming into operation of this Act
   - **High Court Rules** means the rules from time to time set out in Schedule 2 to this Act
-  - **Inferior Court** means any Court of judicature within New Zealand of inferior jurisdiction to the High Court
-  - **Interlocutory application**
+  - **inferior Court** means any Court of judicature within New Zealand of inferior jurisdiction to the High Court
+  - **interlocutory application**
     (a) Means any application to the Court in any civil proceedings or criminal proceedings or intended civil proceedings or intended criminal proceedings for an order or a direction relating to a matter of procedure or, in the case of civil proceedings, for some relief ancillary to that claimed in a pleading; and
     (b) Includes an application for a new trial; and
     (c) Includes an application to review an order made, or a direction given, on any application to which paragraph (a) or paragraph (b) of this definition applies:
   - **Judge** means a Judge of the High Court
-  - **Judgment** includes decree
+  - **judgment** includes decree
   - **Master** means a Master of the High Court
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
-  - **Plaintiff** means a person who makes an application (other than an interlocutory application) to the Court for the exercise of its civil or criminal jurisdiction.
+  - **plaintiff** means a person who makes an application (other than an interlocutory application) to the Court for the exercise of its civil or criminal jurisdiction.
   - **Supreme Court** means the Supreme Court of New Zealand established by section 6 of the Supreme Court Act 2003.
 
 ## Part 1 — The High Court
@@ -201,7 +201,7 @@ The liquidator may, by notice in writing, require any person who is liable to pa
 Where the Court appoints a liquidator of an association, no action or proceeding shall be commenced or continued against any person referred to in section 17D of this Act in respect of any debt of the association, except with the leave of the Court, and subject to such terms as the Court may impose.
 
 ### 18 No jurisdiction in cases of felonies or misdemeanours committed before 14 January 1840
-The Court shall not have jurisdiction to try any felony or misdemeanour committed before the 14th day of January 1840.
+[Repealed]
 
 ### 19 Powers of High Court may be exercised by 1 or more Judges
 (1) Each Judge or any 2 or more Judges may in any part of New Zealand exercise all the powers of the Court, except such powers as may by any statute be required to be exercised by the full Court or by any specified number of Judges.
@@ -1460,7 +1460,7 @@ the Crown has the same meaning as in section 2(1) of the Crown Proceedings Act 1
 
 ### 1.13 Failure to give notice
 A failure to comply with rule 1.11 does not prevent a person speaking Māori at a case management conference or pre-trial conference or hearing, but—
-  (a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c) of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
+  (a) the court may adjourn the conference or hearing to enable the Registrar to arrange for a person who holds a certificate of competency under section 15(2)(a) or (c)of the Maori Language Act 1987 or some other person competent to interpret Māori to be available at the adjourned case management conference or hearing:
   (b) the court may treat the failure to comply as a relevant consideration in an award of costs.
 
 ### 1.14 Translation may be ordered by court
@@ -1532,7 +1532,7 @@ When the time for doing any act at a registry of the court expires on a day on w
 (1) An Associate Judge has the jurisdiction and powers of a Judge in chambers conferred by the Act or these rules or another enactment.
 (2) The jurisdiction and powers referred to in subclause (1) are in addition to the jurisdiction and powers conferred by section 26I of the Act.
 (3) Despite subclause (1), an Associate Judge does not have jurisdiction or powers in respect of the matters specified in—
-  (a) section 26J(3) and (4) of the Act; or
+  (a) section 26J(3) and (4)of the Act; or
   (b) section 26P(1) of the Act.
 
 ### 2.2 Interim order on transfer of proceeding
@@ -1642,6 +1642,10 @@ The court’s registries must be open from 9 am to 5 pm on every day that is not
 (3) If the court sits on a court holiday, it may—
   (a) authorise the receipt or issue of any document complying with these rules; and
   (b) despite section 54 of the Act, authorise the service of any document received or issued under paragraph (a).
+
+### 3.3A Vacations
+(1) There is to be a long vacation beginning on 20 December and ending with the close of 31 January.
+(2) There is to be an Easter vacation beginning on the day before Good Friday and ending with the close of the Saturday following Easter.
 
 ### 3.4 Epidemics and emergencies
 (1) Despite rule 3.1, a Judge may order that the court and its registries be closed for a period specified in the order (not exceeding 1 week) if an epidemic or emergency exists in the place where the court is located.
@@ -3855,7 +3859,7 @@ If a Judge considers that a party has impeded the process of discovery and inspe
   (b) specify by description or otherwise a group of persons or a class of persons, each of whom may make the affidavit.
 (2) If the Judge does not specify the person or the group or class of persons, the affidavit of documents may be made as follows:
   (a) by the person required to make discovery:
-  (b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of a registry), by a person who meets the requirements of rule 9.82:
+  (b) if the person required to make discovery is a corporation or a body of persons empowered by law to sue or be sued (whether in the name of the body or in the name of the holder of an office), by a person who meets the requirements of rule 9.82:
   (c) if the person required to make discovery is the Crown, an officer of the Crown who sues or is sued in an official capacity, or as representing a government department, by an officer of the Crown.
 
 ### 8.31 Challenge to privilege or confidentiality claim
@@ -4271,6 +4275,7 @@ Unless otherwise directed by the court or required or authorised by these rules 
 (1) Orders of subpoena in form G 25 to require the attendance of witnesses at the trial to testify or to produce documents, or both, may be obtained by any party, at any time after the filing of the statement of claim.
 (2) A party requiring the issue of an order of subpoena must file a written request to obtain it.
 (3) The names of more than 1 witness may be included in an order of subpoena, but it is not necessary to show the names on the written request.
+(4) Upon receiving a written request under this rule the Registrar must forthwith issue the order or orders of subpoena requested.
 
 ### 9.53 Service of subpoena
 The order of subpoena must be served on the witness personally, by leaving a sealed copy of it with the witness, together with any allowances and travelling expenses required by section 56A(3) of the Act.
@@ -4491,8 +4496,8 @@ If it appears to the taker that the person making the affidavit is wholly or par
 (3) Subclause (2) overrides subclause (1).
 (4) In this rule,—
   - **Registrar** includes—
-    (a) a Deputy Registrar of the High Court:
-    (b) a Registrar of a District Court:
+    (a) a Deputy Registrar of the High Court
+    (b) a Registrar of a District Court
     (c) a Deputy Registrar of a District Court
   - **solicitor** means a person enrolled as a barrister and solicitor of the High Court.
 
@@ -4646,6 +4651,40 @@ If a case stated does not state the facts and documents sufficiently to enable t
 
 ### 10.22 Counsel assisting
 At the request of the court, the Solicitor-General must appoint counsel to appear and be heard as counsel assisting the court.
+
+#### Subpart 6 — Hearings by video link
+
+### 10.23 Interpretation
+In this subpart,—
+  - **eligible persons** means the persons that the Judge considers should be treated as eligible persons for the purposes of a hearing by video link
+  - **judicial location** means the courtroom or other place where the Judge hearing a matter by video link is located
+  - **remote location** means the courtroom or other place, outside the judicial location, where a party, witness, counsel, or other person participating in the hearing of a matter by video link is located
+  - **video link** means facilities that enable audio and visual communication between persons at a judicial location and persons at a remote location.
+
+### 10.24 Judge may preside at hearing of certain matters by video link
+(1) For the purposes of section 26IB of the Act, a Judge may, by video link, preside at the hearing of any matter referred to in section 26I of the Act.
+(2) A Judge may direct that a matter be heard by video link on the application of 1 or more parties or on the Judge's own initiative.
+(3) This rule is subject to rule 10.25.
+(4) This rule does not limit or affect the inherent jurisdiction of the court.
+
+### 10.25 Requirements for hearing by video link
+A Judge must not preside at the hearing of a matter by video link under rule 10.24 unless he or she is satisfied that—
+  (a) the judicial location and every remote location is equipped with facilities that will—
+    (i) enable all eligible persons at every remote location to see and hear the Judge and all eligible persons at the judicial location; and
+    (ii) enable the Judge and all eligible persons at the judicial location to see and hear all eligible persons at every remote location; and
+    (iii) enable any document necessary for the purposes of the hearing to be viewed at both the judicial location and every remote location; and
+  (b) use of a video link is, in all the circumstances, consistent with fairness and the interests of justice.
+
+### 10.26 Incidental directions
+(1) A Judge presiding at the hearing of a matter by video link under rule 10.24 may give directions concerning the procedure for the hearing as he or she thinks fit.
+(2) Without limiting subclause (1), the Judge may—
+  (a) direct that an officer of the court, or other person approved by the court, be present to operate video equipment:
+  (b) direct that an officer of the court, or other person approved by the court, be present to assist in the hearing, and in particular to—
+    (i) introduce persons appearing or witnesses giving evidence:
+    (ii) assist with the administration of oaths and affirmations:
+    (iii) assist with the implementation of any directions or requests given or made by the Judge:
+  (c) direct seating arrangements at a remote location to ensure all participants in the hearing can be seen and heard:
+  (d) direct when the video link must be operational in relation to his or her own entry to, or rising from, the judicial location.
 
 ### Part 11 — Judgment
 
@@ -5163,7 +5202,7 @@ The court may, on the application of a party dissatisfied with the Registrar's d
 ### 796 Interpretation
 In this Part, unless the context otherwise requires,
   - **Act** means the Electoral Act 1993
-  - **Petition**
+  - **petition**
     (a) Means an election petition presented under section 229(3) of the Act (that is, an election petition relating to either
       (i) The return of a member of Parliament representing an electoral district; or
       (ii) A failure to present a return at an election for a member of Parliament representing an electoral district); and
@@ -5189,7 +5228,7 @@ This Part applies to the determination, under sections 230 to 257 of the Act, of
   (j) Rule 129 (Filing and service of statement of defence):
   (k) Rule 130 (Requirements as to statement of defence):
   (l) Rules 135 to 144 (Summary judgment procedure):
-  (m) rules 433 to 438AA (allocation of hearing dates and setting down date):
+  (m) Rules 433 to 438AA (allocation of hearing dates and setting down date):
   (n) Rule 474 (Discontinuance of cause of action):
   (o) Rule 481 (Mode of trial).
 
@@ -6498,7 +6537,7 @@ Applications to the court under the following enactments must be made by origina
   (o) section 12(1)(a) of the Minors’ Contracts Act 1969:
   (p) section 41 of the Patents Act 1953 (subject to Part 22 of these rules):
   (q) sections 128, 131, 167, 168, 179, 181, 182, and 186 of the Personal Property Securities Act 1999:
-  (r) the Proceeds of Crime Act 1991:
+  (r) the Criminal Proceeds (Recovery) Act 2009:
   (s) sections 126, 136, 244, 248, 253, 254, 258, 261, and 357 of the Property Law Act 2007:
   (t) the Protection of Personal and Property Rights Act 1988:
   (u) the Reciprocal Enforcement of Judgments Act 1934:
@@ -6578,6 +6617,10 @@ Rule 7.9 applies, with all necessary modifications, to an originating applicatio
 (1) Despite rule 19.7, an originating application under section 294(5) or 295 of the Companies Act 1993 must be filed in the same office of the court in which the notice under section 294(1) of that Act was filed.
 (2) An originating application under section 299 of the Companies Act 1993 must be filed in the proper office of the court, as determined in accordance with rule 31.38.
 (3) The affidavit filed in support of an originating application under section 294(5) or 295 of the Companies Act 1993 must have attached to it a copy of the notice under section 294(1) of that Act.
+
+### 19.12A Special provisions for service of applications to remove caveats or set aside statutory demands
+(1) An originating application under section 143 of the Land Transfer Act 1952 for the removal of a caveat may be served, in accordance with rule 6.5, at the address for service stated in the caveat.
+(2) An originating application under section 290 of the Companies Act 1993 to set aside a statutory demand may be served, in accordance with rule 6.5, at the address shown in the statutory demand as the creditor's address or the address for payment.
 
 #### Subpart 3 — Evidence in originating applications
 
@@ -6833,8 +6876,8 @@ In this Part, unless the context otherwise requires,—
   - **appropriate registry** means the registry of the court where the appeal or reference is to be filed
   - **decision** includes any order made by a tribunal or person
   - **tribunal** includes any—
-    (a) Minister of the Crown:
-    (b) government department or officer:
+    (a) Minister of the Crown
+    (b) government department or officer
     (c) any other person or body that may be required, or is authorised, by or under any Act to state or refer a case for the opinion of the court.
 
 ### 21.4 Method of commencing appeal or reference
@@ -10868,7 +10911,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 |  | (a) | confer with another expert witness: |
 |  | (b) | try to reach agreement with the other expert witness on matters within the field of expertise of the expert witnesses: |
 |  | (c) | prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement. |
-| 7 | In conferring with another expert witness, the expert witness must exercise independent and professional judgement and must not act on the instructions or directions of any person to withhold or avoid disagreement. |  |
+| 7 | In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement. |  |
 
 #### Schedule 5 — Matters for consideration at case management conference for proceeding other than appeal
 
