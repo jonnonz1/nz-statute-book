@@ -1,5 +1,5 @@
 # Terrorism Suppression Act 2002
-_Consolidation as at 2009-10-17_
+_Consolidation as at 2009-12-01_
 
 ### 1 Title
 This Act is the Terrorism Suppression Act 2002.
@@ -200,7 +200,7 @@ This Act binds the Crown.
   (b) where a financial institution acts to freeze assets of a designated terrorist entity.
 (3) Subsection (1) does not apply—
   (a) if the Prime Minister has, under section 11, authorised the dealing with the property; or
-  (b) if the property concerned is the subject of a direction under section 48 and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under section 50 of the Proceeds of Crime Act 1991 (as modified and applied by section 51(a)).
+  (b) if the property concerned is the subject of a direction under section 48 and the dealing concerned forms part of the exercise by the Official Assignee of his or her powers under section 80 of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by section 51(a)).
 (4) A person who commits an offence against subsection (1) is liable on conviction on indictment to imprisonment for a term not exceeding 7 years.
 (5)
 (6) A reference in the definition of deal with in section 4 to the transfer of property that is a security includes a reference to a transfer of the security by way of loan, mortgage, pledge, or bailment, whether in respect of a legal or an equitable interest.
@@ -589,7 +589,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 
 ### 45 Privileged communication defined
 (1) For the purposes of section 43(3), a communication is a privileged communication only if—
-  (a) it is a confidential communication, whether oral or written, passing between—whether made directly or indirectly through an agent of either; and
+  (a) it is a confidential communication, whether oral or written, passing between— whether made directly or indirectly through an agent of either; and
     (i) a lawyer in his or her professional capacity and another lawyer in that capacity; or
     (ii) a lawyer in his or her professional capacity and his or her client,—
   (b) it is made or brought into existence for the purpose of obtaining or giving legal advice or assistance; and
@@ -661,7 +661,7 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
   (ab) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
   (b) Financial Transactions Reporting Act 1996:
   (c) Mutual Assistance in Criminal Matters Act 1992:
-  (d) Proceeds of Crime Act 1991.
+  (d) Criminal Proceeds (Recovery) Act 2009.
 
 ### 47D Return of goods detained under section 47A
 (1) In this section, investigation period, in relation to goods seized and detained under section 47A,—
@@ -732,17 +732,18 @@ Nothing in this Act prevents a person from bringing any judicial review (whether
 (3) If not earlier revoked, a direction under section 48 in relation to property of an entity expires—
   (a) on the entity ceasing to be subject to the designation under section 22; or
   (ab) on the entity ceasing to be a United Nations listed terrorist entity; or
-  (b) on a forfeiture order being made under section 55 in relation to the property concerned, in which case section 54 of the Proceeds of Crime Act 1991 (as modified and applied by section 57(c) of this Act) applies.
+  (b) on a forfeiture order being made under section 55 in relation to the property concerned, in which case section 85 of the Criminal Proceeds (Recovery) Act 2009 (as modified and applied by section 57(b) of this Act) applies.
 
 ### 51 Further provisions on management of property subject to section 9
-The following sections of the Proceeds of Crime Act 1991 apply, with the following (and all other necessary) modifications, to property that is the subject of a direction under section 48, as if that direction were a restraining order and a direction under section 42(1) of that Act:
-  (a) section 50 (which relates to powers of the Official Assignee to preserve the property):
-  (b) sections 57 and 58 (which relate to registration of directions, and make it an offence to dispose of or deal with the property in contravention of a direction, knowing that the direction has been made in respect of the property):
-  (c) section 59 (which relates to applications to the High Court for orders that certain dispositions or dealings be set aside, except that the applications must be made by the Attorney-General, not by the Solicitor-General):
-  (d) section 61 (which relates to the Official Assignee's liability for payment of rates, etc, on the property):
-  (e) section 62 (which relates to an indemnity for the Official Assignee, except that the indemnity must relate only to the exercise or performance, or purported exercise or performance, or omission to exercise or perform, functions, duties, and powers of the Official Assignee under this Act):
-  (f) section 63, except subsection (1)(b)(i) (which section relates to costs recoverable by the Official Assignee, and any regulations made under that Act for the purposes of that section apply, with all necessary modifications, accordingly):
-  (g) sections 86 and 87 (which relate to the Official Assignee making and revoking delegations, except that the delegations must relate only to functions, duties, and powers of the Official Assignee under this Act).
+The following sections of the Criminal Proceeds (Recovery) Act 2009 apply, with the following (and any other necessary) modifications, to property that is the subject of a direction under section 48, as if the direction were a restraining order under that Act:
+  (a) section 27 (which relates to the registration of restraining orders):
+  (b) section 32 (which relates to applications for orders that certain dispositions or dealings be set aside, except that the applications must be made by the Attorney-General):
+  (c) section 80 (which relates to powers of the Official Assignee to preserve the value of property):
+  (d) section 81 (which relates to the Official Assignee’s liability for payment of rates, etc, on the property):
+  (e) section 87 (which relates to costs recoverable by the Official Assignee, and any regulations made under that Act for the purposes of that section apply, with any necessary modifications, accordingly):
+  (f) sections 88 to 90 (which relate to the Official Assignee making and revoking delegations, except that the delegations must relate only to functions and powers of the Official Assignee under this Act):
+  (g) section 150 (which makes it an offence to dispose of or deal with the property in contravention of a restraining order, knowing that the restraining order has been made in respect of the property):
+  (h) section 157 (which relates to an indemnity for enforcement officers, except that the indemnity must relate only to the exercise or performance, or purported exercise or performance, or omission to exercise or perform, functions and powers of the Official Assignee under this Act).
 
 **Relief for third parties if property is subject to section 9 or application for forfeiture, or is forfeited**
 
@@ -799,14 +800,14 @@ The following sections of the Proceeds of Crime Act 1991 apply, with the followi
 (4) Subsection (3) is subject to section 38.
 
 ### 57 Further provisions relating to orders under section 55
-The following sections of the Proceeds of Crime Act 1991 apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under section 55, as if the order were a forfeiture order under section 15(1) of that Act:
-  (a) section 15(3)(a) and (4) to (7) (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it, including the issue of warrants authorising officers of court to enter and search any place or thing and to seize any document required to effect the transfer of the property):
-  (b) section 16 (which relates to the effect of the order, except that the reference in subsection (4)(b) to the Minister must be read as a reference to the Attorney-General, and references in subsections (5) and (6) to the making of a forfeiture order or the entering of a person's conviction must be read as references to the making of an order under section 55 and to the making of an order under section 35(2)):
-  (c) section 54 (which relates to the Official Assignee discharging the order, except that—
-    (i) the reference to a restraining order must be read as a reference to a direction under section 48:
-    (ii) the direction to discharge must be given by the Attorney-General, not by the Minister:
-    (iii) in determining the relevant appeal period referred to in section 16 of that Act, references in section 16(5) and (6) of that Act to the making of a forfeiture order or the entering of a person's conviction must be read as references to the making of an order under section 55 and to the making of an order under section 35(2):
-    (iv) the reference to sections 17 to 23 of that Act must be read as a reference to sections 52 to 61 of this Act).
+The following sections of the Criminal Proceeds (Recovery) Act 2009 and the Sentencing Act 2002 apply, with the following (and all other necessary) modifications, to the making, effect, operation, and discharge of an order under section 55, as if the order were an instrument forfeiture order under section 142N of the Sentencing Act 2002:
+  (a) sections 70, 72, and 73 of the Criminal Proceeds (Recovery) Act 2009 (which relate to the effect of the order) except that—
+    (i) the reference in section 73(2) to the Official Assignee must be read as a reference to the Attorney-General, and the property may be disposed of or otherwise dealt with in accordance with any direction of the Attorney-General; and
+    (ii) references in section 73 to an instrument forfeiture order must be read as reference to an order under section 35(2) or section 55 of this Act:
+  (b) section 85 of the Criminal Proceeds (Recovery) Act 2009 (which relates to the Official Assignee discharging the order), except that the relevant appeal period in relation to the making of an order under section 35(2) or section 55 of this Act means the period ending—
+    (i) when the time for bringing an appeal against the decision of the court expires, if no such appeal has been brought; or
+    (ii) if an appeal against the decision of the court has been brought, when the appeal is finally determined or withdrawn, whichever occurs first:
+  (c) section 142N(3)(a), (4), and (5) of the Sentencing Act 2002 (which relate to the terms of the order and to any directions that are necessary and convenient for giving effect to it).
 
 ### 58 Appeal against decision on application under section 55
 (1) A party to an application under section 55 may appeal to the Court of Appeal against the decision of the High Court.
@@ -905,8 +906,8 @@ If a person is prosecuted for terrorist bombing or financing of terrorism, the A
 
 **Relationship with other enactments**
 
-### 71 Proceeds of Crime Act 1991 not affected
-Nothing in this Act affects the Proceeds of Crime Act 1991.
+### 71 Criminal Proceeds (Recovery) Act 2009 not affected
+Nothing in this Act affects the Criminal Proceeds (Recovery) Act 2009.
 
 ### 72 United Nations Act 1946 not affected
 (1) Nothing in section 9 or section 10 or section 12 or section 13, or in any other provision of this Act giving effect to the Anti-terrorism Resolution, affects the United Nations Act 1946 or any regulations made under it.
@@ -955,7 +956,7 @@ Amendment(s) incorporated in the Act(s).
 **Amendment to Proceeds of Crime Act 1991**
 
 ### 81 Amendment to Proceeds of Crime Act 1991
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ## Schedule 1 — International Convention for the Suppression of Terrorist Bombings
 
