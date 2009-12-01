@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-12-01_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
@@ -31,7 +31,6 @@ The purpose of this Act is to promote access to justice by—
     (b) proceedings under the Children, Young Persons, and Their Families Act 1989, other than proceedings in respect of an offence; and
     (c) despite paragraph (b), proceedings under Part 2 of the Children, Young Persons, and Their Families Act 1989 on the ground specified in section 14(1)(e) of that Act
   - **community legal services** means services provided or funded under this Act other than through a scheme
-  - **contribution**
   - **cost of services** means the sum of the following
     (a) the fees of, or charges attributable to, the lead provider, as approved for payment under section 75 or prescribed by regulations; and
     (b) the fees of, or charges attributable to, any other listed provider who acted on the matter, as approved for payment under section 75 or prescribed by regulations; and
@@ -42,7 +41,6 @@ The purpose of this Act is to promote access to justice by—
     (c) proceedings for contempt under section 84O of the District Courts Act 1947:
     (d) proceedings before a District Court Judge under the Extradition Act 1999 relating to the surrender to a foreign country of the person to whom the proceedings relate
   - **disposable capital** , in relation to a person, means that person's disposable capital as described in Schedule 1
-  - **disposable income**
   - **duty solicitor scheme** means the scheme of that name administered by the Agency under section 46
   - **former Act** means the Legal Services Act 1991
   - **grant of legal aid** , and any similar expression, means a grant of legal aid under this Act or the former Act; and includes any amendments to that grant
@@ -67,7 +65,7 @@ The purpose of this Act is to promote access to justice by—
   - **maximum grant** means the maximum amount of legal aid granted under a grant of legal aid
   - **mentally disordered** has the same meaning as it has in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **Minister** means the Minister of Justice
-  - **output agreement** has the same meaning as in section 10 of the Crown Entities Act 2004.
+  - **output agreement** has the same meaning as in section 10 of the Crown Entities Act 2004
   - **PDLA scheme** means the police detention legal assistance scheme administered by the Agency under section 49
   - **prescribed manner** means the manner prescribed by the Agency
   - **prescribed repayment amount** is the amount, based on income and capital, set by regulations made under this Act for the purposes of sections 17(1) and 18
@@ -77,7 +75,6 @@ The purpose of this Act is to promote access to justice by—
   - **property** includes real and personal property, any estate or interest in any real or personal property, and any debt, thing in action, and any other right or interest
   - **proposed care recipient** has the meaning given to it by section 6(4) of the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003
   - **proposed patient** has the meaning given to it by section 2A of the Mental Health (Compulsory Assessment and Treatment) Act 1992
-  - **purchase agreement**
   - **repayment** means the amount of money that an aided person is required to pay to the Agency under section 15(2) as a condition of a grant of legal aid
   - **Review Panel** means the Legal Aid Review Panel established under section 62
   - **scheme** means any one or more of the following
@@ -197,6 +194,11 @@ Legal aid may be granted in respect of the following criminal matters:
 (8) Subsections (2), (4)(a) and (b) do not apply to applications for legal aid in respect of victims' claims proceedings.
 (9) Subsections (1), (2), and (4)(a) do not apply to applications for legal aid under section 42 in respect of certain proceedings before the Waitangi Tribunal.
 (10) Subsection (4)(d)(i) does not apply to original proceedings under an enactment specified in Schedule 4.
+(11) The Agency may grant legal aid to an applicant in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009 if the Agency considers that the interests of justice require that the applicant be granted legal aid.
+(12) In considering whether or not the interests of justice require that an applicant be granted legal aid under subsection (7), the Agency must have regard to—
+  (a) whether there are any serious consequences for the applicant if legal aid is not granted; and
+  (b) whether there are any complex factual, legal, or evidential matters in the proceeding that require the applicant to be legally represented.
+(13) Subsections (3) and (4) do not apply to an application for legal aid in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009.
 
 ### 10 Other situations where legal aid refused or limited: civil matters
 (1) Subject to subsection (2), the Agency may not grant legal aid in respect of proceedings involving a decision or matter under the Immigration Act 1987 to a person who—
@@ -1346,7 +1348,7 @@ In this schedule, unless the context otherwise requires,—
 ### 2 Meaning of income
 (1) In relation to an applicant for legal aid, income—
   (a) means the person's total gross income during the 12 months immediately before the application for legal aid, or during such other period of 12 months as the Agency considers appropriate in the circumstances; and
-  (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in section 3(1) of the Social Security Act 1964; and
+  (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in section 3(1)of the Social Security Act 1964; and
   (c) includes a benefit payable under Part 1 of the Social Security Act 1964; but does not include—
     (i) an orphan's benefit payable under section 28 of the Social Security Act 1964; or
     (ii) an unsupported child's benefit payable under section 29 of that Act; or
@@ -1366,7 +1368,8 @@ In this schedule, unless the context otherwise requires,—
   (c) the amount of the value of the person's household furniture, household appliances, personal clothing, and tools of trade:
   (d) the amount of the contingent liabilities of the person that may mature within the next 6 months:
   (e) the amount of the actual debts of the person, other than those that are secured and have been taken into account in determining the amount of the person's assets:
-  (f) the value of the subject matter of the proceedings unless the Agency determines a proportion of that value that should be included in the assessment of the person's total assets.
+  (f) the value of the subject matter of the proceedings, unless the Agency determines a proportion of that value that should be included in the assessment of the person’s total assets:
+  (g) the value of any property that is the subject of a restraining order under the Criminal Proceeds (Recovery) Act 2009.
 (2) This clause is subject to clauses 4 and 5.
 
 ### 4 Resources of spouse or partner, or of parents of minor
@@ -1460,12 +1463,5 @@ If an applicant for legal aid is concerned in the matter only in a representativ
 (5) For the purposes of applying the Government Superannuation Fund Act 1956, the chief executive of the Agency is the controlling authority.
 
 ## Schedule 3 — Enactments amended
-
-### 67 Application of Legal Services Act 2000
-(1) For the purposes of the Legal Services Act 2000, all proceedings under this Act are civil proceedings.
-(2) Nothing in subsection (1) applies in respect of an application for a databank compulsion order that is made at the time of a person's sentencing for an offence.
-(3) A person is not entitled to assistance under the police detention legal assistance scheme administered under the Legal Services Act 2000 merely because—
-  (a) a suspect request or a databank request has been made to that person; and
-  (b) the person has been informed that he or she may consult with a lawyer.
 
 ## Schedule 4 — Specified enactments
