@@ -1,5 +1,5 @@
 # Local Government Act 2002
-_Consolidation as at 2009-09-23_
+_Consolidation as at 2009-12-01_
 
 ### 1 Title
 This Act is the Local Government Act 2002.
@@ -2384,12 +2384,12 @@ In sections 215 to 221 and Schedule 14, unless the context otherwise requires,�
 **Application of rules of court**
 
 ### 213 Application of District Courts Rules to removal orders
-(1) Despite section 247, an application made under section 215 must be made in accordance with Part 6B of the District Courts Rules 1992 and any rules made under subsection (2) or section 214.
+(1) Despite section 247, an application made under section 215 must be made in accordance with Part 8 of the District Courts Rules 2009 and any rules made under subsection (2) or section 214.
 (2) In addition to all the powers conferred by the District Courts Act 1947, the Governor-General may, from time to time, by Order in Council, make rules under that Act—
   (a) regulating the practice and procedure of the District Court in proceedings relating to an application for a removal order; and
   (b) providing for the matters contemplated by, or necessary for giving full effect to, sections 215 to 221 and Schedule 14.
-(3) Rules made under the District Courts Act 1947 in accordance with this section are part of the District Courts Rules 1992.
-(4) In the absence of rules made under the District Courts Act 1947 in accordance with this section, or in a situation not covered by such rules, the District Courts Rules 1992 apply, with all necessary modifications, to proceedings relating to sections 215 to 221.
+(3) Rules made under the District Courts Act 1947 in accordance with this section are part of the District Courts Rules 2009.
+(4) In the absence of rules made under the District Courts Act 1947 in accordance with this section, or in a situation not covered by such rules, the District Courts Rules 2009 apply, with all necessary modifications, to proceedings relating to sections 215 to 221.
 
 ### 214 Scope of rules made under section 213
 Without limiting section 213(2), rules made in accordance with that subsection under the District Courts Act 1947 may—
@@ -2403,12 +2403,12 @@ Without limiting section 213(2), rules made in accordance with that subsection u
     (iii) if an order made under the rules is not complied with; or
     (iv) unless an order made under the rules is complied with:
   (f) prescribe the forms necessary for the purposes of sections 215 to 221 and Schedule 14:
-  (g) apply, with or without modification, provisions of the District Courts Rules 1992.
+  (g) apply, with or without modification, provisions of the District Courts Rules 2009.
 
 **Application for removal order**
 
 ### 215 Application for removal order
-(1) A territorial authority or constable may, without notice, apply to a District Court in the form prescribed in Part 6B of the District Courts Rules 1992 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
+(1) A territorial authority or constable may, without notice, apply to a District Court in the form prescribed in Part 8 of the District Courts Rules 2009 for a removal order requiring an owner or occupier of any property to remove or alter a fence, structure (whether or not forming part of a dwellinghouse or other building), or vegetation.
 (2) Schedule 14 applies to applications made under this section.
 
 **Making of removal orders**
@@ -2421,7 +2421,8 @@ The District Court may make a removal order if—
       (A) the concealment on the property of an unauthorised weapon, controlled drug, tainted property, or property that is stolen or obtained by a crime involving dishonesty; or
       (B) the avoidance of detection or arrest of a person believed or reasonably suspected to have committed an offence; or
       (C) the commission of an offence by a person on or from the property; or
-    (ii) is intended to injure a person.
+    (ii) is intended to injure a person; or
+    (iii) is such that the court is satisfied that it may reasonably be regarded as intimidating.
 
 **Objection to making of removal order**
 
@@ -4973,7 +4974,7 @@ If a removal order is made under section 216, the Judge may, on application or o
 
 ### 3 Basis for removal order taking effect
 A removal order does not take effect unless—
-  (a) a copy of the order is served in accordance with Part 6B of the District Courts Rules 1992 or in accordance with any directions given under clause 2 on—
+  (a) a copy of the order is served in accordance with Part 8 of the District Courts Rules 2009 or in accordance with any directions given under clause 2 on—
     (i) the respondent; and
     (ii) if the respondent is not the owner of the property to which the order relates, the owner of the property; and
     (iii) any mortgagee of the property to which the order relates; and
@@ -4999,12 +5000,12 @@ A removal order may be made under section 216 even if the fence, structure, or v
 (3) The method of proving a previous conviction authorised by subclause (2) is in addition to, and not to the exclusion of, any other method of proof authorised by another enactment or rule of law.
 
 ### 6 Form of removal order
-(1) Subject to subclause (2), a removal order must be in the form prescribed in Part 6B of the District Courts Rules 1992.
+(1) Subject to subclause (2), a removal order must be in the form prescribed in Part 8 of the District Courts Rules 2009.
 (2) If an objection is lodged under section 217(1) and the removal order is subsequently confirmed with or without variation, the Registrar must, without delay, issue a copy of the confirmed order with the date specified by the court in accordance with clause 8(2) as the date by which compliance is required.
 
 ### 7 Notice of objection to removal order
 (1) A notice of objection under section 217(1) must—
-  (a) be in the form prescribed in Part 6B of the District Courts Rules 1992; and
+  (a) be in the form prescribed in Part 8 of the District Courts Rules 2009; and
   (b) be lodged with the court and served on the applicant and, if the objector is not the respondent, the respondent, within 15 working days from the date on which the removal order was served on the objector, or within any further time that the court allows.
 (2) Subject to subclause (4), the Registrar must assign a date for an oral hearing of any objection as soon as practicable if the respondent or, if the respondent is not the owner of the property to which the order relates, the owner of the property—
   (a) objects to the making of the order; and
