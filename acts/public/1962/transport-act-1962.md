@@ -1,5 +1,5 @@
 # Transport Act 1962
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2009-12-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to motor vehicles, to road traffic, and to commercial transport services carried on by means of motor vehicles or harbour ferries
 
@@ -1590,7 +1590,6 @@ Offences against Rental Service Rules (section 39(2) of Act and Part 3 of Schedu
 | Section | Brief Description of Offence | Infringement Fee $ |
 | --- | --- | --- |
 | 31(1)(a) | Driving without appropriate current driver licence | 400 |
-| 31(1)(b) | Driving contrary to the conditions of driver licence | 400 |
 | 31(1)(c) | Failing to produce driver licence | 55 |
 | 34(1)(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is a heavy motor vehicle or is used in a transport service | 600 |
 | 34(1)(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is not a heavy motor vehicle or is not used in a transport service | 200 |
