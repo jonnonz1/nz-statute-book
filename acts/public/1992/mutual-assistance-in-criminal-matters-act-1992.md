@@ -1,5 +1,5 @@
 # Mutual Assistance in Criminal Matters Act 1992
-_Consolidation as at 2009-10-17_
+_Consolidation as at 2009-12-01_
 
 > An Act to facilitate the provision and obtaining of international assistance in criminal matters
 
@@ -10,8 +10,10 @@ _Consolidation as at 2009-10-17_
 ## Part 1 — Preliminary provisions
 
 ### 2 Interpretation
-(1) In this Act, unless the context otherwise requires,—financial institution means either a person within the meaning of financial institution as defined in section 3 of the Financial Transactions Reporting Act 1996 or as defined in section 5 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009
+(1) In this Act, unless the context otherwise requires,—
+  - **assets forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **Central Authority** , in relation to any foreign country, means the person or authority for the time being designated by that country for the purposes of transmitting or receiving requests made under or pursuant to this Act
+  - **Commissioner** means the Commissioner of Police
   - **Convention country** means any foreign country that is a party to a convention referred to in column 1 of the table in the Schedule
   - **Criminal investigation** means,—
     (a) In Part 2 of this Act, an investigation certified by the Attorney-General to have commenced in New Zealand in respect of an offence committed, or suspected on reasonable grounds to have been committed or to be likely to be committed, against the law of New Zealand:
@@ -20,53 +22,85 @@ _Consolidation as at 2009-10-17_
   - **Criminal proceedings** means,—
     (a) In Part 2 of this Act, proceedings certified by the Attorney-General to have been instituted in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the law of New Zealand; and includes the trial of a person for the offence and any proceedings to determine whether or not a person should be tried for the offence:
     (b) In Part 3 of this Act, proceedings certified by the Central Authority of the requesting country to have been instituted in respect of an offence committed, or suspected on reasonable grounds to have been committed, against the law of the country; and includes the trial of a person for the offence and any proceedings to determine whether or not a person should be tried for the offence:
-  - **Document** has the same meaning as in section 2(1) of the Official Information Act 1982
+  - **document** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **examination order** means an order issued under section 107 of the Criminal Proceeds (Recovery) Act 2009
+  - **financial institution** has the same meaning as in section 3 of the Financial Transactions Reporting Act 1996
   - **Foreign country** means any country other than New Zealand
-  - **Foreign drug-dealing offence** means a foreign serious offence that consists of or includes conduct which, if it occurred in New Zealand, would be a drug-dealing offence within the meaning of the Proceeds of Crime Act
-  - **Foreign forfeiture order** means an order, made under the law of a foreign country by any court or other judicial authority, for the forfeiture of property that is tainted property in respect of an offence against the law of that country
+  - **foreign forfeiture order** means—
+    (a) an order made under the law of a foreign country by a court or other judicial authority for the forfeiture of property that is—
+      (i) tainted property (as defined in relation to Part 3); or
+      (ii) property of a person who has unlawfully benefited from significant foreign criminal activity; or
+      (iii) an instrument of crime (as defined in relation to Part 3); or
+    (b) a foreign pecuniary penalty order
   - **Foreign law immunity certificate** means a certificate given, or a declaration made, by a foreign country or under the law of a foreign country, certifying or declaring that, under the law of the foreign country, persons generally or a specified person could or could not, either generally or in specified proceedings and either generally or in specified circumstances, be required—
     (a) To answer a specified question; or
     (b) To provide a specified document:
-  - **Foreign pecuniary penalty order** means an order, made under the law of a foreign country by any court or other judicial authority, imposing a pecuniary penalty in respect of benefits derived by a person from the commission of an offence against the law of that country; but does not include an order for the payment of a sum of money by way of compensation, restitution, or damages to an injured person
+  - **foreign order** means a foreign forfeiture order or a foreign restraining order
+  - **foreign pecuniary penalty order** means an order, made under the law of a foreign country by any court or other judicial authority, imposing a pecuniary penalty in respect of benefits derived by a person from significant foreign criminal activity (whether proved to a civil or criminal standard); but does not include an order for the payment of a sum of money by way of compensation, restitution, or damages to an injured person
   - **Foreign prisoner** means a person who is being held in legal custody in a foreign country—an offence against the law of that foreign country
     (a) Pending trial for, or sentence for; or
     (b) Pursuant to a sentence of imprisonment for,—
-  - **Foreign restraining order** means an order—
-    (a) That is made under the law of a foreign country by any court or other judicial authority in respect of—
-      (i) Property that is or may be tainted property in respect of an offence against the law of that country; or
-      (ii) Benefits that have been derived, or may have been derived, by a person from the commission of such an offence; and
-    (b) That restrains a particular person, or all persons, from dealing with property:
-  - **Foreign serious offence** —
-    (a) means an offence under the law of a foreign country punishable by imprisonment for a term of 5 years or more; and
-    (b) after the commencement of section 15 of the Mutual Assistance in Criminal Matters Amendment Act 2002, includes an offence under the law of a foreign country that is a party to the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000 if—
+  - **foreign qualifying forfeiture offence** means—
+    (a) an offence in a foreign country that is punishable in that country by a maximum term of imprisonment of 5 years or more (including an attempt to commit, conspiring to commit, or being an accessory to an offence if the maximum term of imprisonment for that attempt, conspiracy, or activity is 5 years or more); and
+    (b) an offence under the law of a foreign country that is a party to the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000, if—
       (i) it is punishable by imprisonment for a term of 4 years or more; and
-      (ii) there are reasonable grounds to suspect that it is transnational in nature (as defined in articles 3(2) and 18(1) of that convention) and involves an organised criminal group (as defined in article 2(a) of that convention).
-  - **Forfeiture order** means an order made under section 15(1) of the Proceeds of Crime Act
+      (ii) there are reasonable grounds to suspect that it is transnational in nature (as defined in articles 3(2) and 18(1) of that convention) and involves an organised criminal group (as defined in article 2(a) of that convention)
+  - **foreign restraining order** means an order made under the law of a foreign country by a court or other judicial authority that—
+    (a) restrains a particular person, or all persons, from dealing with the property specified in the order; and
+    (b) relates to—
+      (i) tainted property (as defined in relation to Part 3); or
+      (ii) property of a person who has, or who may have, unlawfully benefited from significant foreign criminal activity; or
+      (iii) an instrument of crime (as defined in relation to Part 3); or
+      (iv) property that will satisfy some or all of a foreign pecuniary penalty order
+  - **forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **instrument forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **instrument of crime** ,—
+    (a) in relation to Part 2, has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009; and
+    (b) in relation to Part 3, means any property used, wholly or in part, to commit or facilitate the commission of a foreign qualifying forfeiture offence
   - **Judge** means a Judge of the High Court
   - **Judicial records** means judgments, orders, and decisions of courts, and other records held by judicial authorities
   - **Minister** means the Minister of Justice
-  - **Monitoring order** means an order made under section 77(1) of the Proceeds of Crime Act
   - **Official records** means documents held by Government departments or agencies or prosecution authorities
-  - **Pecuniary penalty order** means an order made under section 25(1) of the Proceeds of Crime Act
   - **Penal institution**
   - **Prescribed foreign country** means any country (other than New Zealand) that is declared by regulations made under this Act to be a foreign country to which Part 3 of this Act applies
   - **prison** has the same meaning as in section 3(1) of the Corrections Act 2004.
   - **Prisoner** means a person who is for the time being in the legal custody of any person under the Corrections Act 2004
-  - **Proceeds of Crime Act** means the Proceeds of Crime Act 1991
   - **Process** means any summons, warrant, order, or other document issued out of any court, or by any Judge, Master, District Court Judge, Justice, Community Magistrate, or Registrar
-  - **Production order** means an order made under section 69(1) of the Proceeds of Crime Act
-  - **Property** has the same meaning as in section 2(1) of the Proceeds of Crime Act
-  - **Property-tracking document** has the same meaning as in section 67 of the Proceeds of Crime Act
+  - **production order** means an order made under section 105 of the Criminal Proceeds (Recovery) Act 2009
+  - **profit forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **property** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **qualifying instrument forfeiture offence** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **Requesting country** , in relation to a request for assistance made under Part 3 of this Act, means the foreign country that made the request
-  - **Restraining order** means an order made under section 42 of the Proceeds of Crime Act
-  - **Serious offence** means an offence against the law of New Zealand punishable by imprisonment for a term of 5 years or more
-  - **Tainted property** has the same meaning as in section 2(1) of the Proceeds of Crime Act.
-(2) A reference in this Act to criminal proceedings or a criminal investigation includes proceedings or investigations into matters—whether arising under New Zealand law or the law of a foreign country.
-  (a) Relating to revenue (including taxation and customs and excise duties); or
-  (b) Relating to foreign exchange control; or
-  (c) Relating to the forfeiture or confiscation of property in respect of an offence; or
-  (d) Relating to the imposition or recovery of a pecuniary penalty in respect of an offence; or
-  (e) Relating to the restraining of dealings in property, or the freezing of assets, that may be forfeited or confiscated, or that may be needed to satisfy a pecuniary penalty imposed in respect of an offence,—
+  - **restraining order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **significant criminal activity** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
+  - **significant foreign criminal activity** —
+    (a) means an activity engaged in by a person in a foreign country that if proceeded against as a criminal offence in that country—
+      (i) would amount to offending—
+        (A) that consists of, or includes, 1 or more offences punishable by a maximum term of imprisonment of 5 years or more; or
+        (B) from which property, proceeds, or benefits of a value of $30,000 or more have, directly or indirectly, been acquired or derived; and
+      (ii) whether or not—
+        (A) the person has been charged with or convicted of the offending; or
+        (B) the person has been acquitted of the offending; or
+        (C) the person’s conviction for the offending has been quashed or set aside; and
+    (b) includes an offence under the law of a foreign country that is a party to the United Nations Convention against Transnational Organised Crime, done at New York on 15 November 2000, if—
+      (i) it is punishable by imprisonment for a term of 4 years or more; and
+      (ii) there are reasonable grounds to suspect that it is transnational in nature (as defined in articles 3(2) and 18(1) of that convention) and involves an organised criminal group (as defined in article 2(a) of that convention)
+  - **tainted property** ,—
+    (a) in relation to Part 2, has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009; and
+    (b) in relation to Part 3,—
+      (i) means any property that has, wholly or in part, been—
+        (A) acquired as a result of significant foreign criminal activity; or
+        (B) directly or indirectly derived from significant foreign criminal activity; and
+      (ii) includes any property that has been—
+        (A) acquired as a result of more than 1 activity if at least 1 of those activities is a significant foreign criminal activity; or
+        (B) directly or indirectly derived from more than 1 activity if at least 1 of those activities is a significant foreign criminal activity
+  - **unlawfully benefited from significant foreign criminal activity** means a person has knowingly, directly or indirectly, derived a benefit from significant foreign criminal activity (whether or not the person deriving the benefit undertook or was involved in the significant foreign criminal activity)
+(2) A reference in this Act to criminal proceedings or a criminal investigation includes proceedings or investigations into the following matters:
+  (a) revenue (including taxation and customs and excise duties):
+  (b) foreign exchange control:
+  (c) the forfeiture of property as a result of the commission of an offence:
+  (d) the restraint of dealings with property or the freezing of assets that may be forfeited as a result of the commission of an offence:
+  (e) imposing or recovering pecuniary penalties under, and restraining dealing with property needed to satisfy, a foreign pecuniary penalty order imposed as a result of the commission of an offence.
 (3) A reference in this Act to a benefit derived by a person includes a reference to—
   (a) A benefit derived, directly or indirectly, by the person; and
   (b) A benefit derived, directly or indirectly, by another person at the request or direction of the first-mentioned person.
@@ -80,6 +114,32 @@ _Consolidation as at 2009-10-17_
     (ii) for which parties have an obligation to provide to one another assistance in criminal matters; or
   (b) any offence in relation to which New Zealand has agreed in writing with another country that the offence will not be treated as a political offence for the purposes of the provision of assistance in criminal matters between New Zealand and that country.
 
+### 2A Certain investigations relating to civil proceedings deemed to be criminal investigations
+(1) An investigation certified by the Attorney-General to have commenced in New Zealand relating to the restraint or forfeiture of property that is, or is suspected on reasonable grounds to be or to be likely to be, any of the things in subsection (2) must be treated as a criminal investigation for the purposes of Part 2 despite the related proceedings being civil in nature.
+(2) The things referred to in subsection (1) are—
+  (a) tainted property (as defined in relation to Part 2); or
+  (b) property of a person who has unlawfully benefited from significant criminal activity.
+(3) An investigation in a foreign country certified by the Central Authority for that country to have commenced in that country relating to the restraint or forfeiture of property that is, or is suspected on reasonable grounds to be or to be likely to be, any of the things referred to in subsection (4) must be treated as a criminal investigation for the purposes of Part 3 despite the related proceedings being civil in nature.
+(4) The things referred to in subsection (3) are—
+  (a) tainted property (as defined in relation to Part 3); or
+  (b) property of a person who has unlawfully benefited from significant criminal activity; or
+  (c) an instrument of crime (as defined in relation to Part 3); or
+  (d) property that will satisfy all or part of a pecuniary penalty order.
+(5) Investigations treated as criminal investigations under this section are criminal matters for the purposes of Parts 2 and 3.
+
+### 2B Certain civil proceedings deemed to be criminal proceedings
+(1) A proceeding certified by the Attorney-General to have been instituted in respect of the forfeiture or restraint of property that is, or is suspected on reasonable grounds to be or to be likely to be, any of the things referred to in subsection (2) must be treated as a criminal proceeding for the purposes of Part 2 despite being civil in nature.
+(2) The things referred to in subsection (1) are—
+  (a) tainted property (as defined in relation to Part 2); or
+  (b) property of a person who has unlawfully benefited from significant criminal activity.
+(3) A proceeding certified by the Central Authority of the requesting country to have been instituted in respect of the forfeiture or restraint of property that is, or is suspected on reasonable grounds to be or to be likely to be, any of the things referred to in subsection (4) must be treated as a criminal proceeding despite being civil in nature.
+(4) The things referred to in subsection (3) are—
+  (a) tainted property (as defined in relation to Part 3); or
+  (b) property of a person who has unlawfully benefited from significant foreign criminal activity; or
+  (c) an instrument of crime (as defined in relation to Part 3); or
+  (d) property that will satisfy all or part of a foreign pecuniary penalty order.
+(5) Proceedings treated as criminal proceedings under this section are criminal matters for the purposes of Parts 2 and 3.
+
 ### 3 Act to bind the Crown
 This Act binds the Crown.
 
@@ -91,10 +151,14 @@ The object of this Act is to facilitate the provision and obtaining, by New Zeal
   (d) The making of arrangements for persons to give evidence or assist investigations:
   (e) The service of documents:
   (f) The execution of requests for search and seizure:
-  (g) The forfeiture or confiscation of tainted property:
-  (h) The recovery of pecuniary penalties in respect of offences:
-  (i) The restraining of dealings in property, or the freezing of assets, that may be forfeited or confiscated, or that may be needed to satisfy pecuniary penalties imposed, in respect of offences:
-  (j) The location of property that may be forfeited, or that may be needed to satisfy pecuniary penalties imposed, in respect of offences.
+  (g) the forfeiture of—
+    (i) tainted property; and
+    (ii) property of persons who have unlawfully benefited from significant criminal activity or significant foreign criminal activity; and
+    (iii) instruments of crime; and
+    (iv) property that will satisfy all or part of a foreign pecuniary penalty order:
+  (h) the location of property that may be forfeited:
+  (i) the recovery of property to satisfy foreign pecuniary penalty orders:
+  (j) the restraining of dealings with property, or the freezing of assets, that may be forfeited.
 
 ### 5 Act not to limit other provision of assistance
 Nothing in this Act—
@@ -202,19 +266,28 @@ The Attorney-General may request a foreign country to assist in effecting servic
 (1) Subject to subsection (2) of this section, where the Attorney-General is satisfied that there are reasonable grounds for believing that an article or thing is in a foreign country and would, if produced, be relevant to any criminal matter in New Zealand, the Attorney-General may request the foreign country to assist in obtaining, by search and seizure if necessary, the article or thing.
 (2) No request may be made under this section for assistance in obtaining an article or thing by search and seizure unless the Attorney-General is satisfied that there are reasonable grounds for believing that the article or thing would, if produced, be relevant to any criminal matter in respect of an offence against the law of New Zealand punishable by imprisonment for a term of 2 years or more.
 
-**Requests for enforcement of orders made under Proceeds of Crime Act**
+**Request to enforce orders under Criminal Proceeds (Recovery) Act 2009**
 
-### 21 Request for enforcement of orders made under Proceeds of Crime Act
-The Attorney-General may request a foreign country to make arrangements for the enforcement of a forfeiture order, a pecuniary penalty order, or a restraining order, where there are reasonable grounds for believing that some or all of the property in respect of which the order is made is located in that foreign country.
+### 21 Request to enforce orders under Criminal Proceeds (Recovery) Act 2009
+(1) The Attorney-General may, if the circumstances in subsection (2) exist, request a foreign country to make arrangements to enforce any of the following in that country:
+  (a) an assets forfeiture order:
+  (b) a profit forfeiture order:
+  (c) an instrument forfeiture order:
+  (d) a restraining order.
+(2) The circumstances are that the Attorney-General has reasonable grounds to believe that some or all of the property to which the order relates is located in the foreign country.
 
-**Requests for issue of warrants or orders in foreign country**
+**Request to issue warrant or order in foreign country**
 
-### 22 Request for issue of warrants or orders in foreign country
-Where any criminal matter arises in New Zealand in respect of a serious offence, the Attorney-General may request a foreign country to assist in obtaining the issue in that foreign country, in respect of the offence, of a warrant, order, or other instrument similar in nature to any of the following warrants or orders under the Proceeds of Crime Act:
-  (a) A restraining order:
-  (b) A search warrant for tainted property:
-  (c) A production order:
-  (d) A monitoring order.
+### 22 Request to issue warrant or order in foreign country
+(1) The Attorney-General may, if a criminal matter has arisen in New Zealand in respect of any of the things referred to in subsection (2), request a foreign country to issue a warrant or order similar to the following warrants or orders made under the Criminal Proceeds (Recovery) Act 2009 in that country:
+  (a) a restraining order:
+  (b) a search warrant of the kind issued under section 101, 102, or 110 of that Act:
+  (c) a production order:
+  (d) an examination order.
+(2) The things referred to in subsection (1) are—
+  (a) tainted property (as defined in relation to Part 2); or
+  (b) property of a person who has unlawfully benefited from significant criminal activity; or
+  (c) an instrument of crime (as defined in relation to Part 2).
 
 **Miscellaneous provisions**
 
@@ -291,8 +364,11 @@ Every request by a foreign country for assistance under this Part of this Act sh
 ### 27 Refusal of assistance
 (1) A request by a foreign country for assistance under this Part of this Act shall be refused if, in the opinion of the Attorney-General,—
   (a) The request relates to the prosecution or punishment of a person for an offence that is, or is by reason of the circumstances in which it is alleged to have been committed or was committed, an offence of a political character; or
+  (ab) the request relates to the bringing of proceedings of the kind described in section 2B(3) that relate to an activity of a political character; or
   (b) There are substantial grounds for believing that the request has been made with a view to prosecuting or punishing a person for an offence of a political character; or
+  (ba) there are substantial grounds for believing that the request has been made with a view to bringing proceedings of the kind described in section 2B(3) that are of a political character; or
   (c) There are substantial grounds for believing that the request was made for the purpose of prosecuting, punishing, or otherwise causing prejudice to a person on account of the person's colour, race, ethnic origin, sex, religion, nationality, or political opinions; or
+  (ca) there are substantial grounds for believing that the request has been made for the purpose of bringing proceedings of the kind described in section 2B(3) on account of a person’s colour, race, ethnic origin, sex, religion, nationality, or political opinions; or
   (d) The request relates to the prosecution of a person for an offence in a case where the person—whether in the foreign country, in New Zealand, or elsewhere, in respect of that offence or of another offence constituted by the same act or omission as that offence; or
     (i) Has been acquitted, convicted, or pardoned by a competent tribunal or authority; or
     (ii) Has undergone the punishment provided by law,—
@@ -303,7 +379,10 @@ Every request by a foreign country for assistance under this Part of this Act sh
   (i)
 (2) Subject to subsections (3) and (4) of this section, a request by a foreign country for assistance under this Part of this Act may be refused if, in the opinion of the Attorney-General,—
   (a) The request relates to the prosecution or punishment of a person in respect of conduct that, if it had occurred in New Zealand, would not have constituted an offence against New Zealand law; or
+  (ab) the request relates to proceedings of the kind described in section 2B(3) in respect of conduct that, if it had occurred in New Zealand, would not have constituted significant criminal activity in New Zealand; or
   (b) The request relates to the prosecution or punishment of a person in respect of conduct that occurred, or is alleged to have occurred, outside the foreign country and similar conduct occurring outside New Zealand in similar circumstances would not have constituted an offence against New Zealand law; or
+  (ba) the request relates to proceedings of the kind described in section 2B(3) in respect of conduct that occurred, or is alleged to have occurred, outside the foreign country and similar conduct occurring outside New Zealand in similar circumstances would not have constituted significant criminal activity; or
+  (bb) the request relates to proceedings of the kind described in section 2B(3) in respect of conduct that, if it had occurred in New Zealand at the same time, could not have been the subject of proceedings of that kind because of lapse of time or for any other reason; or
   (c) The request relates to the prosecution or punishment of a person in respect of conduct where, if it had occurred in New Zealand at the same time and had constituted an offence against New Zealand law, the person responsible could no longer be prosecuted by reason of lapse of time or for any other reason; or
   (ca) The request relates to the prosecution or punishment of a person for an offence in respect of which the person may be or has been sentenced to death by the appropriate authority in that requesting country, and that requesting country is unable to sufficiently assure the Attorney-General that—
     (i) The person will not be sentenced to death; or
@@ -311,9 +390,13 @@ Every request by a foreign country for assistance under this Part of this Act sh
   (d) In the case of a request made pursuant to section 38 of this Act in respect of a person who is a prisoner in New Zealand, the granting of the request—
     (i) Would not be in the public interest; or
     (ii) Would not be in the interests of the person to whom the request relates; or
-  (e) The provision of the assistance requested could prejudice a criminal investigation or criminal proceedings in New Zealand; or
+  (e) the provision of the assistance requested could prejudice—
+    (i) a criminal investigation or criminal proceeding in New Zealand; or
+    (ii) a proceeding of any kind under the Criminal Proceeds (Recovery) Act 2009 or sections 142A to 142Q of the Sentencing Act 2002; or
   (f) The provision of the assistance would prejudice, or would be likely to prejudice, the safety of any person (whether that person is in New Zealand or not); or
-  (g) The provision of the assistance would impose an excessive burden on the resources of New Zealand; or
+  (g) the provision of assistance—
+    (i) would impose an excessive burden on the resources of New Zealand; or
+    (ii) relates to a matter that is trivial in nature; or
   (h) The request does not comply with the requirements of section 26 of this Act.
 (3) No request shall be refused solely on the grounds contained in subsection (2)(g) of this section unless—
   (a) The Attorney-General has first consulted with the Central Authority of the requesting country about the terms and conditions on which the request may be complied with; and
@@ -537,75 +620,112 @@ Where, pursuant to section 51 of this Act, a foreign country requests the assist
 ### 53 Penalty not to be imposed for failure to comply with summons
 Where, pursuant to section 51 of this Act, a foreign country requests the assistance of the Attorney-General in effecting the service, on any person, of a summons to appear as a witness in that foreign country, the person to whom the request relates shall not be subject to any penalty or liability or otherwise prejudiced in law by reason only of that person's refusal or failure to comply with the summons, notwithstanding any contrary statement in the summons.
 
-**Requests for enforcement of foreign confiscation orders and foreign restraining orders**
+**Requests to enforce foreign restraining orders and foreign forfeiture orders**
 
-### 54 Request for enforcement of foreign confiscation order
-(1) A foreign country may request the Attorney-General to assist with the enforcement of—
-  (a) A foreign forfeiture order, made in respect of a foreign serious offence, against property that is reasonably believed to be located in New Zealand; or
-  (b) A foreign pecuniary penalty order, made in respect of a foreign serious offence, where some or all of the property available to satisfy the order is reasonably believed to be located in New Zealand.
-(2) Where, on receipt of a request made under subsection (1) of this section by a foreign country in respect of a foreign forfeiture order or a foreign pecuniary penalty order, the Attorney-General is satisfied—the Attorney-General may authorise the Solicitor-General, in writing, to apply to the High Court for the registration of the order.
-  (a) That a person has been convicted of the offence in respect of which the foreign order was made; and
-  (b) That the conviction and the order are not subject to further appeal in the foreign country,—
+### 54 Request to enforce foreign restraining order
+(1) A foreign country may request the Attorney-General to assist in enforcing a foreign restraining order that relates to property that is believed to be located in New Zealand.
+(2) The Attorney-General may authorise the Commissioner to apply to the High Court to register a foreign restraining order in New Zealand if satisfied—
+  (a) that the request from the foreign country relates to—
+    (i) tainted property (as defined in relation to Part 3); or
+    (ii) property of a person who has unlawfully benefited from significant foreign criminal activity; or
+    (iii) an instrument of crime (as defined in relation to Part 3); or
+    (iv) property that will satisfy some or all of a foreign pecuniary penalty order; and
+  (b) that there are reasonable grounds to believe some or all of the property that is able to be restrained under the foreign restraining order is located in New Zealand.
+(3) An authority issued under subsection (2) must be in writing.
 
-### 55 Request for enforcement of foreign restraining order
-(1) A foreign country may request the Attorney-General to assist with the enforcement of a foreign restraining order in respect of property that is believed to be located in New Zealand.
-(2) Where, on receipt of a request made under subsection (1) of this section, the Attorney-General is satisfied—the Attorney-General may authorise the Solicitor-General, in writing, to apply to the High Court for the registration of the order.
-  (a) That the request relates to a criminal investigation, or criminal proceedings, in respect of a foreign serious offence; and
-  (b) That there are reasonable grounds for believing that some or all of the property to which the order relates is located in New Zealand,—
+### 55 Request to enforce foreign forfeiture order
+(1) A foreign country may request the Attorney-General to assist in enforcing a foreign forfeiture order that relates to property that is reasonably believed to be located in New Zealand.
+(2) The Attorney-General may authorise the Commissioner to apply to the High Court to register the foreign forfeiture order in New Zealand if satisfied—
+  (a) that the request from the foreign country relates to property that may be forfeited under the foreign forfeiture order and is specific property that—
+    (i) is tainted property (as defined in relation to Part 3); or
+    (ii) belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
+    (iii) is an instrument of crime (as defined in relation to Part 3); or
+    (iv) will satisfy some or all of a foreign pecuniary penalty order; and
+  (b) that there are reasonable grounds to believe that some or all of the property to which the order relates is located in New Zealand.
+(3) An authority issued under subsection (2) must be in writing.
 
-### 56 Method of registration of foreign orders
-(1) Where the Solicitor-General applies to the High Court for the registration of a foreign order in accordance with an authorisation given under section 54 or section 55 of this Act, the Court shall, subject to subsections (3) to (5) of this section, if it is satisfied that the order is in force, order that the order be registered.
-(2) On registering a foreign forfeiture order in accordance with this section, the Court shall comply with section 23B of the Proceeds of Crime Act.
-(3) An order, or an amendment of an order, shall be registered in the Court by the registration, in accordance with the prescribed procedure, of—
-  (a) A copy of the appropriate order or amendment sealed by the Court or other authority making that order or amendment; or
-  (b) A copy of that order or amendment duly authenticated in accordance with section 63 of this Act.
-(4) Where an order is registered in the High Court in accordance with this section, a copy of any amendments made to the order (whether before or after registration) may be registered in the same way as the order, but the amendments do not, for the purposes of this Act and of the Proceeds of Crime Act, have effect until they are so registered.
-(5) A facsimile copy of a sealed or authenticated copy of an order or an amendment of an order shall be regarded for the purposes of this Act as the same as the sealed or authenticated copy, but registration effected by means of the facsimile copy shall cease to have effect on the expiry of the period of 21 days commencing on the date of registration unless, before the expiry of that period, the sealed or authenticated copy is registered.
+### 56 Method for registering foreign orders in New Zealand
+(1) If the High Court is satisfied that a foreign order that the Commissioner has applied to register under section 54 or 55 is in force in a foreign country, the High Court must make an order that it be registered in New Zealand.
+(3) A foreign order, or an amendment to a foreign order (an amendment), may be registered in the High Court in New Zealand by registering either of the following under the prescribed procedure:
+  (a) a copy of the foreign order or amendment sealed by the court or other judicial authority who made it; or
+  (b) a copy of the foreign order or amendment authenticated in accordance with section 63.
+(4) A copy of an amendment (whether made before or after registration) may be registered in the same way as a foreign order.
+(5) A foreign order or an amendment to a foreign order does not have effect under this Act or the Criminal Proceeds (Recovery) Act 2009 until it is registered.
+(6) An exact copy of a sealed or authenticated copy of a foreign order or an amendment must for the purposes of this Act be treated as if it is the sealed or authenticated copy.
+(7) However, registration of an exact copy ceases to have effect on the expiry of the period of 21 days commencing on the date of registration unless, before the expiry of that period, the sealed or authenticated copy is registered.
 
-### 57 Effect of registration of foreign orders
-(1) Subject to sections 23B to 23D of the Proceeds of Crime Act, a foreign forfeiture order registered in accordance with section 56 of this Act has effect, and may be enforced, as if it were a forfeiture order made by the High Court under that Act and entered on the date of registration.
-(2) A foreign pecuniary penalty order registered in accordance with section 56 of this Act has effect, and may be enforced, as if it were a pecuniary penalty order made by the High Court under the Proceeds of Crime Act and entered on the date of registration.
-(3) Subject to section 66B of the Proceeds of Crime Act, a foreign restraining order registered in accordance with section 56 of this Act has effect, and may be enforced, as if it were a restraining order made by the High Court under that Act and entered on the date of registration.
+### 57 Effect of registering foreign orders in New Zealand
+(1) A foreign restraining order registered in New Zealand under section 56 has effect, and may be enforced, as if it is a restraining order—
+  (a) made by the High Court under the Criminal Proceeds (Recovery) Act 2009; and
+  (b) entered on the date it is registered.
+(2) Subsection (1) is subject to sections 136 to 139 of the Criminal Proceeds (Recovery) Act 2009.
+(3) A foreign forfeiture order registered in New Zealand under section 56 has effect, and may be enforced, as if it is a forfeiture order—
+  (a) made by the High Court under the Criminal Proceeds (Recovery) Act 2009; and
+  (b) entered on the date it is registered.
+(4) Subsection (3) is subject to sections 140 to 149 of the Criminal Proceeds (Recovery) Act 2009.
 
-### 58 Cancellation of registration of foreign orders
-(1) Where—has been registered in accordance with section 56 of this Act, the Attorney-General may direct the Solicitor-General to apply to the High Court for cancellation of the registration of the order.
-  (a) A foreign forfeiture order; or
-  (b) A foreign pecuniary penalty order; or
-  (c) A foreign restraining order—
-(2) Without limiting the generality of subsection (1) of this section, the Attorney-General may give a direction under that subsection in relation to an order if the Attorney-General is satisfied—
-  (a) That the order has, since its registration in New Zealand, ceased to have effect in the foreign country in which the order was made; or
-  (b) That cancellation of the order is appropriate having regard to the arrangements entered into between New Zealand and the foreign country in relation to the enforcement of orders of that kind; or
-  (c) That the order was registered in contravention of section 56 of this Act.
-(3) Where, in accordance with a direction given under subsection (1) of this section, the Solicitor-General applies to the High Court for cancellation of the registration of an order, the Court shall cancel the registration accordingly.
-(4) Where, pursuant to the Proceeds of Crime Act, a foreign forfeiture order or a foreign pecuniary penalty order or a foreign restraining order registered in accordance with section 56 of this Act is discharged (in whole or in part) or is revoked, that discharge or revocation may be a ground for an application for cancellation of the order under this section.
+### 58 Cancelling registration of foreign orders in New Zealand
+(1) The Attorney-General may at any time direct the Commissioner to apply to the High Court to cancel the registration in New Zealand of—
+  (a) a foreign restraining order; or
+  (b) a foreign forfeiture order.
+(2) Without limiting subsection (1), the Attorney-General may give a direction of that kind if the Attorney-General is satisfied—
+  (a) that the order has, since being registered in New Zealand, ceased to have effect in the foreign country in which it was made; or
+  (b) that cancelling the order is appropriate having regard to arrangements entered into between New Zealand and the foreign country in relation to the enforcing of orders of that kind; or
+  (c) that the registration of the order in New Zealand contravened section 56; or
+  (d) that, in the case of a foreign restraining order registered in New Zealand, 1 year has passed since the foreign country made the order; or
+  (e) that, after consultation with the foreign country where the order was made, it is desirable that the registration of the foreign order be cancelled; or
+  (f) that the foreign order has been discharged, wholly or in part.
+(3) The High Court must cancel the registration of a foreign order in New Zealand if the Commissioner applies, under a direction under subsection (1), to the High Court to cancel the registration.
 
 **Requests by foreign countries for orders or warrants in New Zealand**
 
-### 59 Request for search warrant in respect of tainted property
-(1) A foreign country may request the Attorney-General to obtain the issue of a search warrant in respect of tainted property believed to be located in New Zealand.
-(2) Where, on receipt of a request made under subsection (1) of this section, the Attorney-General is satisfied—the Attorney-General may authorise a commissioned officer of the Police to make an application under section 38A of the Proceeds of Crime Act for the search warrant requested.
-  (a) That the request relates to a criminal investigation, or criminal proceedings, in respect of a foreign serious offence; and
-  (b) That there are reasonable grounds for believing that tainted property in respect of the offence is in New Zealand,—
+### 59 Request for search warrant in New Zealand
+(1) A foreign country may request the Attorney-General to obtain the issue of a search warrant in New Zealand in respect of a criminal investigation or criminal proceedings relating to—
+  (a) tainted property (as defined in relation to Part 3); or
+  (b) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
+  (c) an instrument of crime (as defined in relation to Part 3); or
+  (d) property that will satisfy some or all of a foreign pecuniary penalty order.
+(2) After a request is made, the Attorney-General may, if satisfied of the matters in subsection (3), do any of the following:
+  (a) authorise a member of the police to apply under section 124 of the Criminal Proceeds (Recovery) Act 2009 for a search warrant under section 101 of that Act in relation to that property:
+  (b) authorise the Commissioner to apply under section 125 of the Criminal Proceeds (Recovery) Act 2009 for a search warrant under section 102 of that Act in relation to that property:
+  (c) authorise the Official Assignee to apply under section 126 of the Criminal Proceeds (Recovery) Act 2009 for a search warrant under section 110 of that Act in relation to that property.
+(3) The matters referred to in subsection (2) are—
+  (a) that the request relates to a criminal investigation or criminal proceedings relating to—
+    (i) tainted property (as defined in relation to Part 3); or
+    (ii) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
+    (iii) an instrument of crime (as defined in relation to Part 3); or
+    (iv) property that will satisfy some or all of a foreign pecuniary penalty order; and
+  (b) that there are reasonable grounds for believing the property is located in New Zealand.
 
-### 60 Request for restraining order
-(1) A foreign country may request the Attorney-General to obtain the issue of a restraining order in respect of property that is believed to be located in New Zealand.
-(2) Where, on receipt of a request made under subsection (1) of this section by a foreign country, the Attorney-General is satisfied—the Attorney-General may authorise the Solicitor-General to make an application under section 66A of the Proceeds of Crime Act for the order requested.
-  (a) That criminal proceedings have been commenced in the foreign country in respect of a foreign serious offence; and
-  (b) That there are reasonable grounds for believing that property that may be made, or is, the subject of a foreign restraining order is located in New Zealand,—
+### 60 Interim foreign restraining order
+(1) A foreign country may request the Attorney-General to obtain the issue of an interim foreign restraining order in respect of property that is believed to be located in New Zealand.
+(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application under section 128 of the Criminal Proceeds (Recovery) Act 2009 for an interim foreign restraining order if the Attorney-General is satisfied that—
+  (a) there is a criminal investigation in relation to—
+    (i) tainted property (as defined in relation to Part 3); or
+    (ii) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
+    (iii) an instrument of crime (as defined in relation to Part 3); or
+    (iv) property that will satisfy some or all of a foreign pecuniary penalty order; and
+  (b) there are reasonable grounds to believe all or part of the property to which the criminal investigation relates is located in New Zealand.
 
-### 61 Request for production order
-(1) A foreign country may request the Attorney-General to obtain the issue of a production order in respect of one or more property-tracking documents.
-(2) Where, on receipt of a request made under subsection (1) of this section by a foreign country, the Attorney-General is satisfied—the Attorney-General may authorise a commissioned officer of the Police to make an application under section 76A of the Proceeds of Crime Act for the order requested.
-  (a) that the request—
-    (i) relates to a criminal matter in the foreign country in respect of a foreign drug-dealing offence; or
-    (ii) is made after the commencement of section 15 of the Mutual Assistance in Criminal Matters Amendment Act 2002, and relates to a foreign serious offence within the meaning of paragraph (b) of the definition of that term in section 2(1); and
-  (b) That there are reasonable grounds for believing that 1 or more property-tracking documents in relation to the offence are located in New Zealand,—
+### 61 Request for production order in New Zealand
+(1) A foreign country may request the Attorney-General to make an application for a production order in New Zealand.
+(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application to a Judge under section 104 of the Criminal Proceeds (Recovery) Act 2009 if the Attorney-General is satisfied that—
+  (a) the request relates to a criminal investigation that relates to—
+    (i) tainted property (as defined in relation to Part 3); or
+    (ii) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
+    (iii) an instrument of crime (as defined in relation to Part 3); or
+    (iv) property that will satisfy some or all of a foreign pecuniary penalty order; and
+  (b) there are reasonable grounds to believe that all or part of the property to which the criminal investigation relates is located in New Zealand.
 
-### 62 Request for monitoring order
-(1) A foreign country may request the Attorney-General to obtain the issue of a monitoring order.
-(2) Where, on receipt of a request made under subsection (1) of this section by a foreign country, the Attorney-General is satisfied—the Attorney-General may authorise a commissioned officer of the Police to make an application under section 81A of the Proceeds of Crime Act for the order requested.
-  (a) That the request relates to a criminal matter in the foreign country in respect of a foreign drug-dealing offence; and
-  (b) That there are reasonable grounds for believing that information about transactions conducted through an account held by a particular person with a financial institution in New Zealand is relevant to the matter,—
+### 62 Request for examination order in New Zealand
+(1) A foreign country may request the Attorney-General to make an application for the issue of an examination order in New Zealand.
+(2) After a request is made, the Attorney-General may authorise the Commissioner to make an application under section 106 of the Criminal Proceeds (Recovery) Act 2009 if the Attorney-General is satisfied—
+  (a) that the request relates to a criminal investigation that relates to—
+    (i) tainted property (as defined in relation to Part 3); or
+    (ii) property that belongs to a person who has unlawfully benefited from significant foreign criminal activity; or
+    (iii) an instrument of crime (as defined in relation to Part 3); or
+    (iv) property that will satisfy some or all of a foreign pecuniary penalty order; and
+  (b) that there are reasonable grounds to believe that all or part of the property to which the criminal investigation relates is located in New Zealand.
 
 ## Part 4 — Miscellaneous provisions
 
@@ -623,7 +743,7 @@ Where, pursuant to section 51 of this Act, a foreign country requests the assist
   (a) That a request for assistance under this Act has been made by a foreign country:
   (b) That the request meets the requirements of this Act:
   (c) That the acceptance of the request has been duly made under and in accordance with this Act.
-(2) In any proceedings under this Act, or any proceedings under or pursuant to the Proceeds of Crime Act that arise directly or indirectly from a request made under this Act, a certificate purporting to have been given under subsection (1) of this section shall, in the absence of proof to the contrary, be sufficient evidence of the matters certified by the certificate.
+(2) In any proceedings under this Act, or any proceedings under or pursuant to the Criminal Proceeds (Recovery) Act 2009 that arise directly or indirectly from a request made under this Act, a certificate purporting to have been given under subsection (1) of this section shall, in the absence of proof to the contrary, be sufficient evidence of the matters certified by the certificate.
 
 ### 64A Certificates relating to convention countries
 (1) For the purposes of Part 3, a certificate given by the Secretary of Foreign Affairs and Trade, certifying that any country is or is not, at any material time, a party to 1 or more of the conventions referred to in column 1 of the table in the Schedule is sufficient evidence of that fact.
@@ -801,3 +921,16 @@ Where, pursuant to section 51 of this Act, a foreign country requests the assist
 ## Schedule 1 — Conventions
 
 ## Schedule 2
+
+### 1 Title
+This Act is the Mutual Assistance in Criminal Matters Amendment Act 2009.
+
+### 2 Commencement
+This Act comes into force on 1 December 2009.
+
+### 12 Savings and transitional provisions
+The Mutual Assistance in Criminal Matters Act 1992 continues in force as it did before the commencement of this Act for the purpose of completing any request or any matter relating to or arising from a request made under that Act before the commencement of this Act, including, without limitation,—
+  (a) taking action in relation to any matter relating to an application under the Mutual Assistance in Criminal Matters Act 1992; and
+  (b) continuing or completing any proceedings or other matter commenced under that Act; and
+  (c) enforcing orders made or registered under that Act; and
+  (d) the exercise of any power or function under the Act in relation to any matter in paragraph (a).
