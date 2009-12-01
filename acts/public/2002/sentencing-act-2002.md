@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2009-10-01_
+_Consolidation as at 2009-12-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -33,6 +33,7 @@ The purposes of this Act are—
   - **determinate sentence of imprisonment** means a sentence of imprisonment for a fixed term
   - **District Court** includes a Youth Court
   - **epidemic management notice** means a notice under section 8(1) of the Epidemic Preparedness Act 2006 stating that the application of this Act is modified in order to deal with the practical effects of the outbreak of the disease referred to in the notice
+  - **forfeiture order** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **health assessor** means a health practitioner who—
     (a) is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine, and who is a practising psychiatrist; or
     (b) is, or is deemed to be, registered with the Psychologists Board continued by section 114(1)(a) of the Health Practitioners Act 2003 as a practitioner of the profession of psychology
@@ -52,6 +53,10 @@ The purposes of this Act are—
       (ii) has the capacity to understand the nature, and to foresee the consequences, of decisions in respect of matters relating to his or her personal care and welfare, but wholly lacks the capacity to communicate decisions in respect of matters of that kind; and
     (b) includes the person being in a state of continuing unconsciousness
   - **indeterminate sentence of imprisonment** means a sentence of imprisonment for life or a sentence of preventive detention
+  - **instrument forfeiture order** means an instrument forfeiture order made under section 142N
+  - **instrument of crime** —
+    (a) means property used (wholly or in part) to commit, or to facilitate the commission of, a qualifying instrument forfeiture offence; and
+    (b) includes, in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1) or (2A) of the Terrorism Suppression Act 2002, funds (as defined in section 4(1) of that Act) allocated for the purpose of committing that offence
   - **minimum period of imprisonment** means the period of imprisonment that the court has, under section 86 or section 89 or section 103, ordered that an offender must serve before he or she can be released under subpart 2 of Part 1 of the Parole Act 2002
   - **non-release day** means a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and, in respect of a particular place where an offender is serving a sentence of community detention or home detention, the anniversary day of the region in which that place is situated
   - **offender** includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
@@ -59,6 +64,9 @@ The purposes of this Act are—
   - **prison** means a prison established or deemed to be established under the Corrections Act 2004
   - **probation area** means an area designated by the chief executive of the Department of Corrections for the administration of release conditions, community-based sentences, sentences of home detention, or orders
   - **probation officer** means a person appointed to be, or designated as, a probation officer under section 124 of the Criminal Justice Act 1985; and includes a person exercising only some of the functions or powers of a probation officer under that Act
+  - **qualifying instrument forfeiture offence** —
+    (a) means an offence punishable by a maximum term of imprisonment of 5 years or more; and
+    (b) includes an attempt to commit, conspiring to commit, or being an accessory to an offence if the maximum term of imprisonment for that attempt, conspiracy, or activity is 5 years or more
   - **sentence of imprisonment** —
     (a) includes a determinate sentence of imprisonment and an indeterminate sentence of imprisonment; but
     (b) does not include a term of imprisonment imposed, whether by committal, sentence, or order, for—
@@ -69,6 +77,7 @@ The purposes of this Act are—
   - **sentencing guidelines** means sentencing guidelines produced by the Sentencing Council in force under the Sentencing Council Act 2007
   - **short-term sentence** has the same meaning as in section 4(1) of the Parole Act 2002
   - **staff member of a prison** means a staff member within the meaning of section 3(1) of the Corrections Act 2004
+  - **tainted property** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009
   - **Trial Judge** , in relation to a District Court, means a Judge who holds a warrant under section 28B of the District Courts Act 1947 to conduct trials on indictment
   - **victim** —
     (a) means—
@@ -140,6 +149,9 @@ In sentencing or otherwise dealing with an offender the court—
     (i) the hostility is because of the common characteristic; and
     (ii) the offender believed that the victim has that characteristic:
   (ha) that the offence was committed as part of, or involves, a terrorist act (as defined in section 5(1) of the Terrorism Suppression Act 2002):
+  (hb) the nature and extent of any connection between the offending and the offender's—
+    (i) participation in an organised criminal group (within the meaning of section 98A of the Crimes Act 1961); or
+    (ii) involvement in any other form of organised criminal association:
   (i) premeditation on the part of the offender and, if so, the level of premeditation involved:
   (j) the number, seriousness, date, relevance, and nature of any previous convictions of the offender and of any convictions for which the offender is being sentenced or otherwise dealt with at the same time.
 (2) In sentencing or otherwise dealing with an offender the court must take into account the following mitigating factors to the extent that they are applicable in the case:
@@ -202,6 +214,22 @@ In sentencing or otherwise dealing with an offender the court—
   (d) community-based sentences of intensive supervision and community detention:
   (e) sentence of home detention:
   (f) sentence of imprisonment.
+
+**Taking account of instrument forfeiture order or successful application for relief**
+
+### 10B Court must take into account instrument forfeiture order or successful application for relief
+(1) In sentencing or otherwise dealing with an offender convicted of a qualifying instrument forfeiture offence, the court must take into account—
+  (a) any instrument forfeiture order made, or to be made, in respect of property used to commit, or to facilitate the commission of, the qualifying instrument forfeiture offence:
+  (b) any forfeiture of that property by any other order or means arising from the offender’s conviction:
+  (c) any order for relief made under section 142L or 142M in favour of another person in respect of property used to commit, or to facilitate the commission of, the qualifying instrument forfeiture offence:
+  (d) the nature of the relationship between that person and the offender:
+  (e) the likely benefit to the offender of any order referred to in paragraph (c).
+(2) In deciding the weight to be given to any matter referred to in subsection (1)(a), (b), or (d), the court must take into account—
+  (a) the value of the property that is the subject of the instrument forfeiture order or that is otherwise forfeited:
+  (b) the nature and extent of the offender’s interest in that property.
+(3) Without limiting any other powers of a court to adjourn, in any case contemplated by this section a court may adjourn the proceedings until—
+  (a) any property that is the subject of a forfeiture order has been surrendered to the Official Assignee; or
+  (b) any appeal or application for relief in relation to an instrument forfeiture order or any other proceeding under the Criminal Proceeds (Recovery) Act 2009 has been determined.
 
 **General provisions about discharge without conviction, etc, and imposition of reparation, fines, community-based sentences, sentences of home detention, and imprisonment**
 
@@ -329,6 +357,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (b) to enable a restorative justice process to occur:
   (c) to enable a restorative justice agreement to be fulfilled:
   (d) to enable a rehabilitation programme or course of action to be undertaken:
+  (da) to determine whether to impose an instrument forfeiture order and, if so, the terms of that order:
   (e) to enable the court to take account of the offender's response to any process, agreement, programme, or course of action referred to in paragraph (b), (c), or (d).
 (2) If proceedings are adjourned under this section or under section 10(4), a Judge or Justice or Community Magistrate having jurisdiction to deal with offences of the same kind (whether or not the same Judge or Justice or Community Magistrate before whom the case was heard) may, after inquiry into the circumstances of the case, sentence or otherwise deal with the offender for the offence to which the adjournment relates.
 
@@ -398,7 +427,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (4) Failure to give a copy of any report in accordance with this section does not affect the validity of the proceedings in a court or of any order made or sentence imposed by a court.
 
 ### 29 Access to reports
-(1) The following persons may have access to any report submitted to a court under section 26 or section 33, and held by the court:
+(1) The following persons may have access to any report submitted to a court under section 26 or section 33 or section 142F, and held by the court:
   (a) the manager or other person in charge of a prison to which the offender is sent, whether during any proceedings or in accordance with any sentence imposed:
   (b) a Director of Area Mental Health Services, or a staff member of a hospital, who requires access to the report for the purposes of his or her official duties:
   (ba) a compulsory care co-ordinator, or a staff member of a facility under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003, who requires access to the report for the purposes of his or her official duties:
@@ -1991,25 +2020,36 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
     (b) a leasing agreement:
     (c) any other agreement entered into between the offender and another party under which the other party obtains or retains any interest in the motor vehicle
   - **hire purchase agreement** means a hire purchase agreement within the meaning of section YA 1 of the Income Tax Act 2007
+  - **impoundment costs** , in relation to a motor vehicle that has been confiscated while impounded under the Land Transport Act 1998, means the fees and charges for towage and storage that are prescribed or assessed in the manner specified by regulations made under section 167 of that Act, and, where those fees and charges have already been paid by the chief executive of the Ministry of Justice, means the amount required to reimburse the chief executive for that payment
   - **interest** means any proprietary interest, whether legal or equitable, and whether vested or contingent
   - **leasing agreement** does not include any agreement entered into between the offender and the holder of a rental service licence under the Land Transport Act 1998
-  - **motor vehicle** means a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998; but does not include a trailer.
+  - **motor vehicle** means a motor vehicle within the meaning of section 2(1) of the Land Transport Act 1998; but does not include a trailer
+  - **person who is registered** , in relation to a motor vehicle, means the person who is registered under the Land Transport Act 1998 in respect of the vehicle, and where several persons are so registered, means any one of those persons
+  - **written caution** means a caution issued under section 129B.
 (2) For the purposes of sections 128 to 142, a motor vehicle is owned by an offender whether the offender owns it solely or as a joint tenant or tenant in common with any other person.
+(3) For the purposes of sections 128 to 142, a person is, in relation to an offender, a substitute for the offender or a substitute if—
+  (a) the person is served with a written caution, under section 129B, about an offence committed by the offender; and
+  (b) within 4 years after the date of the commission of the offence for which that written caution was served, the offender commits a further offence specified in section 128(1) involving a motor vehicle that, at the time of the commission of that offence, the person owns or has an interest in.
 
 ### 128 Confiscation of motor vehicle
 (1) This section applies if a person is convicted of any of the following offences:
   (a) an offence punishable by imprisonment for a term of more than 12 months, or by imprisonment for life:
-  (b) an offence against any of the provisions of sections 35(1)(a), 35(1)(b), 36A(1)(a) or (c), 38(1), 39(1), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
-(2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court by or before which the offender is convicted is satisfied that any motor vehicle owned by the offender or in which the offender has any interest at the time of conviction—
-  (a) was used to commit or facilitate the commission of the offence, whether or not the offender was the driver or person in charge; or
-  (b) in the case of an offence against any of the provisions of sections 35(1)(a), 35(1)(b), 36(1)(a), 36A(1)(a) or (c), 38(1), 39(1), and 56 to 62 of the Land Transport Act 1998, was being driven by, or in the charge of, the offender at the material time; or
-  (c) was used by the offender, whether or not the offender was the driver or person in charge, to facilitate the offender's flight or avoid his or her detection or arrest after the commission of the offence.
+  (b) an offence against any of the provisions of sections 35(1)(a), 35(1)(b), 36A(1)(a) or (c), 38(1), 39(1), 52(1)(aa), 52(1)(c) (but only in relation to failing to stop in accordance with section 114(2) or failing to give particulars in accordance with section 114(3)), or 56 to 60 of the Land Transport Act 1998 (which relate to driving offences).
+(2) A court may exercise the power in subsection (3) if a person is convicted of an offence referred to in subsection (1) and the court by or before which the offender is convicted is satisfied—
+  (a) that a motor vehicle—
+    (i) was used to commit or facilitate the commission of the offence, whether or not the offender was the driver or person in charge; or
+    (ii) in the case of an offence against any of the provisions of sections 35(1)(a) and (b), 36(1)(a), 36A(1)(a) and (c), 38(1), 39(1), 52(1)(aa) and (c), and 56 to 62 of the Land Transport Act 1998, was being driven by, or in the charge of, the offender at the material time; or
+    (iii) was used by the offender, whether or not the offender was the driver or person in charge, to facilitate the offender's flight or avoid his or her detection or arrest after the commission of the offence; and
+  (b) that, at the time of the conviction, the offender or a substitute for the offender owns the motor vehicle or has an interest in the motor vehicle.
 (3) The court may order that the motor vehicle be confiscated.
+(3A) The court must not make an order under this section in respect of a motor vehicle that a substitute for an offender owns or has an interest in if satisfied that—
+  (a) the substitute did not know, and could not reasonably have known, that the offender would commit the offence or offences; or
+  (b) the substitute took all reasonable steps to prevent the offender from committing the offence or offences.
 (4) The court may make an order under this section in addition to, or instead of, passing any other sentence or making any other order.
 (5) In deciding whether to make an order under this section, the court must have regard to—
-  (a) any undue hardship that the making of the order would cause to the offender in relation to his or her trade, business, profession, occupation, or employment:
+  (a) any undue hardship that the making of the order would cause to the offender or, as the case requires, to the substitute for the offender in relation to his or her trade, business, profession, occupation, or employment:
   (b) any undue hardship that the making of the order would cause to any other person who would otherwise have the use or benefit of the motor vehicle on a regular basis:
-  (c) the nature and extent of the offender's interest in the motor vehicle, and the nature and extent of any other person's interest in it:
+  (c) the nature and extent of the offender's interest, or, as the case requires, the interest of the substitute for the offender, in the motor vehicle, and the nature and extent of any other person's interest in it:
   (d) any other considerations that the court thinks fit.
 
 ### 129 Confiscation of motor vehicle after second offence
@@ -2021,35 +2061,147 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 (4) Despite subsection (3), the court must not make an order under that subsection if it will result in extreme hardship to the offender or undue hardship to any other person.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (1) must be treated as a conviction for an offence specified in that subsection.
 
+### 129A Confiscation and destruction after third illegal street racing offence
+(1) This section applies if—
+  (a) an offender commits an offence against section 36A(1)(a) or (c) of the Land Transport Act 1998 (the current offence); and
+  (b) the offender has previously been convicted of 2 offences (the previous offences) against section 36A(1)(a) or (c) of the Land Transport Act 1998 that were each committed within the period of 4 years before the commission of the current offence.
+(2) For the purpose of subsection (1), it does not matter whether or not the offences are of the same kind, but the current offence and each of the previous offences must arise from different incidents.
+(3) The court by or before which the offender is convicted of the current offence may order the confiscation and destruction of any motor vehicle if satisfied that the offender was driving, or was in charge of, the motor vehicle at the material time and that—
+  (a) the offender owns or has any interest in the motor vehicle; or
+  (b) a substitute for the offender owns or has an interest in the motor vehicle if the written caution served on the substitute was issued in respect of an offence specified in subsection (1)(a).
+(4) The court must not make an order under subsection (3) if it will result in extreme hardship to the offender or undue hardship to any other person, including, without limitation, to any substitute for the offender.
+
+### 129B Written caution to persons with interest in motor vehicles involved in offences
+(1) Subsection (2) applies whenever—
+  (a) a court convicts an offender of an offence specified in section 128(1) involving a motor vehicle; and
+  (b) the court is satisfied the offence was committed in circumstances that would permit or require the confiscation of the motor vehicle under section 128, 129, or 129A if the offender owned or had an interest in it at the time of conviction; and
+  (c) it appears to the court that the offender does not own or have an interest in the motor vehicle.
+(2) The court by or before which the offender is convicted must order that a written caution be served on every person (other than the offender) who is registered in respect of the motor vehicle or who the court believes owns or has an interest in the motor vehicle.
+(3) Despite subsection (2), a written caution must not be served—
+  (a) on anyone if the court is satisfied that the motor vehicle—
+    (i) was stolen or converted at the material time; or
+    (ii) was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998:
+  (b) on a person who the court is satisfied—
+    (i) did not own or have an interest in the motor vehicle at the material time; or
+    (ii) is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender.
+(4) On any 1 occasion, a court may only order that 1 written caution is to be served on each recipient described in subsection (2), regardless of the number of convictions entered against the offender.
+(5) A written caution must provide the following information:
+  (a) the name and identifying details of the offender:
+  (b) the relevant convictions against the offender:
+  (c) the identifying details of the motor vehicle:
+  (d) that the recipient is believed to own or have an interest in the motor vehicle and that none of the exceptions stated in subsection (3) has been established to the satisfaction of the court:
+  (e) a warning that if the offender is convicted of a further offence specified in section 128(1) that involves a motor vehicle owned by the recipient or in which the recipient has an interest, the motor vehicle is liable to be confiscated or confiscated and destroyed:
+  (f) the recipient’s right to seek a review of the court’s decision to order the service of the written caution on the recipient.
+(6) The written caution remains current for 4 years after the date of the commission of the offence for which that written caution is served.
+(7) A written caution ordered to be served on a person must be served on the person in one of the following ways:
+  (a) by being delivered to the person personally or by being brought to the person's notice if the person refuses to accept it:
+  (b) by being left for the person at the person's place of residence with another person (other than the offender) who appears to be of or over the age of 14 years.
+(8) A written caution may be served by one of the following persons:
+  (a) a Police employee:
+  (b) an officer of the court:
+  (c) any person who is authorised to serve the written caution under a general or particular authority given by a District Court Judge or Registrar:
+  (d) any officer or employee of a corporation that is authorised by the Secretary for Justice to serve the written caution.
+(9) An endorsement on a copy of a written caution stating the fact, the date, and the time of service and purporting to be signed by a person of a kind described in subsection (8) is, in the absence of evidence to the contrary, sufficient proof of service of the written caution in accordance with this section.
+
+### 129C Review of written caution
+(1) A person served with a written caution may, within 20 working days after the date of service, apply to the court that ordered the service of the written caution for a review of the decision to serve the applicant on 1 or more of the following grounds:
+  (a) the motor vehicle was stolen or converted at the material time:
+  (b) the applicant did not own or have an interest in the motor vehicle at the material time:
+  (c) the applicant is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender:
+  (d) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998.
+(2) Every application must include a statutory declaration that specifies a ground stated in subsection (1) and why that ground applies.
+(3) The Registrar must promptly forward a copy of the application to the prosecuting agency in the proceeding that resulted in the relevant conviction.
+(4) The prosecuting agency may, within 10 working days after the day on which the copy of the application is forwarded to the agency, make a written submission to the court.
+(5) The court must conduct the review on the papers, unless the court considers a hearing necessary.
+(6) If satisfied that a ground stated in subsection (1) applies, the following provisions apply:
+  (a) the court must cancel the written caution served on the applicant:
+  (b) if the ground for cancelling the applicant's written caution is that stated in subsection (1)(a) or (d), the court must also cancel the written caution served on any other person under the same order that required service of the written caution on the applicant:
+  (c) the Registrar must advise, by ordinary post, facsimile, email, or other electronic means, every person (including the applicant) whose written caution is cancelled of that outcome:
+  (d) if a written caution served on a person is cancelled, the written caution is deemed not to have been served on the person.
+
+### 129D Written caution of no effect if conviction quashed
+(1) If all of the convictions in respect of which a written caution has been served on a person are quashed, and no convictions for offences qualifying for confiscation under section 128, 129, or 129A are substituted, the written caution ceases to have effect and is deemed not to have been served.
+(2) If a written caution ceases to have effect under subsection (1), the Registrar must, by ordinary post, facsimile, email, or other electronic means, advise every person served with the written caution of that outcome.
+
+### 129E Appeal against confiscation by persons treated as substitutes
+(1) If the court orders, under section 128 or 129A, the confiscation of a motor vehicle on the basis that the person who owns it, or has an interest in it, is a substitute for the offender, that person may, within 20 working days after the date of the order, or within any further time that the appropriate court allows, appeal to the appropriate court against the order on 1 or more of the following grounds:
+  (a) the appellant did not own or have an interest in the motor vehicle at the material time:
+  (b) the motor vehicle was stolen or converted at the material time:
+  (c) the appellant did not know, and could not reasonably have known, that the offender would commit the offence or offences:
+  (d) the appellant took all reasonable steps to prevent the offender from committing the offence or offences:
+  (e) the appellant had not, prior to the commission of the offence or offences, been served with a written caution under section 129B in relation to the offender:
+  (f) the appellant is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender:
+  (g) the motor vehicle was let on hire at the material time in accordance with a rental service licence under the Land Transport Act 1998.
+(2) The appellant must serve the notice of appeal on—
+  (a) the prosecuting agency in the proceeding that resulted in the relevant conviction; and
+  (b) any other person treated as a substitute who owns or has an interest in the motor vehicle.
+(3) The persons described in subsection (2) are parties to the appeal.
+(4) The right of appeal under subsection (1) is independent of the offender's right of appeal against conviction and sentence for the relevant offence or offences.
+(5) The court must set aside the confiscation of the motor vehicle if satisfied that—
+  (a) a ground stated in subsection (1)(b) or (g) applies; or
+  (b) another ground stated in that subsection applies to the appellant and to every other person who is treated as a substitute for the offender.
+(6) For the purposes of subsection (1),—
+  (a) if the order was made in a District Court, the appeal must be brought in the High Court in accordance with the High Court Rules:
+  (b) if the order was made in the High Court, the appeal must be brought in the Court of Appeal in accordance with the rules of court governing civil appeals to that court.
+
+### 129F Warning notice to secured parties if confiscation not ordered for second illegal street racing offence
+(1) This section applies if—
+  (a) an offender commits an offence against section 36A(1)(a) or (c) of the Land Transport Act 1998 (the current offence); and
+  (b) the offender has previously been convicted of an offence (the previous offence) against section 36A(1)(a) or (c) of the Land Transport Act 1998 committed within the period of 4 years before the commission of the current offence; and
+  (c) the court by or before which the offender is convicted of the current offence is satisfied that a motor vehicle owned by the offender or by the substitute for the offender or in which the offender or the substitute has any interest was being driven by, or in the charge of, the offender at the material time; and
+  (d) the court does not order the confiscation of the motor vehicle.
+(2) The Registrar must—
+  (a) check whether a financing statement has been registered in respect of the motor vehicle on the personal property securities register kept under the Personal Property Securities Act 1999; and
+  (b) issue a warning notice stating that any motor vehicle owned by the offender or by the substitute for the offender or in which the offender or the substitute has an interest is liable to be confiscated and destroyed if the offender commits another offence against section 36A(1)(a) or (c) of the Land Transport Act 1998 before the expiry of 4 years from the commission of the previous offence; and
+  (c) send the warning notice, by ordinary post, facsimile, email, or other electronic means to every person (other than the offender or the substitute) who the Registrar believes is a party to an encumbrance relating to the motor vehicle.
+(3) The jurisdiction of a court to make a confiscation and destruction order under section 129A or 136(4) or the validity of any order made under those sections is not affected by a failure to comply with subsection (2).
+
 ### 130 Court may order declaration of ownership to be completed
-(1) If a court is considering whether to order the confiscation of a motor vehicle under section 128 or section 129, the court may order that the offender complete a declaration of ownership before ordering the confiscation.
+(1) If a court is considering whether to order the confiscation of a motor vehicle under section 128, 129, or 129A, the court may order that the offender complete a declaration of ownership before ordering the confiscation.
 (2) The declaration of ownership must specify—
   (a) whether the offender owns, or has any interest in, the motor vehicle at the date of conviction; and
-  (b) whether any other person owns, or has any interest in, the motor vehicle at the date of conviction and, if so, the name of that person and the nature of that interest; and
+  (b) whether any other person owns, or has any interest (including any encumbrance) in, the motor vehicle at the date of conviction and, if so, the name of that person and the nature of that interest; and
   (c) whether the offender has ceased to be the owner of, or to have any interest in, the motor vehicle at any time subsequent to the commission of the offence but before the date of his or her conviction; and
   (d) if the offender has disposed of his or her interest in the motor vehicle during the period referred to in paragraph (c), to whom the ownership or interest in the motor vehicle was disposed, the relationship of that person to the offender, and the consideration received by the offender.
 (3) For the purposes of having a declaration of ownership completed by the offender, the court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to complete the declaration of ownership.
 (4) If a court does not make an order under this section, that does not affect the validity of any other order of the court.
 
+### 130A Court may disregard disposal of motor vehicle by person after written caution
+(1) This section applies if—
+  (a) a person has been served with a written caution under section 129B in respect of an offender; and
+  (b) after being served with the written caution, the person purports to dispose of his or her ownership interest or other interest in the motor vehicle described in the written caution; and
+  (c) following that disposition, the offender is convicted of a further offence specified in section 128(1) involving that motor vehicle; and
+  (d) it appears to the court that the offender does not own or have an interest in the motor vehicle.
+(2) If the circumstances of the further offence described in subsection (1)(c) would, but for that disposition, enable the court to order the confiscation of the motor vehicle under section 128 or 129A on the basis that the person is a substitute for the offender, and the court is not satisfied that the disposition was made with a bona fide intention to dispose permanently of the person's ownership or interest in the motor vehicle,—
+  (a) the court may, if it thinks fit, set the disposition aside; and
+  (b) section 128 or 129A, as the case may be, applies as if the disposition by the person had not occurred.
+(3) Before making an order under subsection (2), the court must give any person to whom the disposition of the motor vehicle was made an opportunity to be heard.
+
 ### 131 If motor vehicle has been disposed of, court may prohibit offender from acquiring another motor vehicle
-(1) This section applies if, in any case to which section 128 or section 129 would otherwise apply, the offender has, before the date of his or her conviction, ceased to be the owner of the motor vehicle or to have any interest in it.
+(1) This section applies if, in any case to which any of section 128, 129, or 129A would otherwise apply, the offender or any substitute for the offender has, before the date of the offender’s conviction, ceased to be the owner of the motor vehicle or to have any interest in it.
 (2) The court may—
   (a) make an order prohibiting the offender from acquiring any interest in any motor vehicle within 12 months after the date of the order; and
-  (b) if the offender has, at any time after the commission of the offence but before the date of his or her conviction, become the owner of any motor vehicle or acquired any interest in any motor vehicle, order that that motor vehicle be confiscated.
-(3) If the court is not satisfied that the disposition of the motor vehicle was made by the offender with a bona fide intention to dispose permanently of his or her ownership or interest in the vehicle,—
+  (b) if the offender or the substitute for the offender has, at any time after the commission of the offence but before the date of his or her conviction, become the owner of any motor vehicle or acquired any interest in any motor vehicle, order that that motor vehicle be confiscated.
+(3) If the court is not satisfied that the disposition of the motor vehicle was made by the offender or the substitute for the offender with a bona fide intention to dispose permanently of his or her ownership or interest in the vehicle,—
   (a) the court may, if it thinks fit, set the disposition aside; and
-  (b) section 128 or section 129, as the case may be, applies as if the disposition by the offender had not occurred.
+  (b) section 128, 129, or 129A, as the case may be, applies as if the disposition by the offender or by the substitute for the offender had not occurred.
 (4) Before making an order under subsection (3), the court must give any person to whom the disposition of the motor vehicle was made an opportunity to be heard.
 
 ### 132 Enforcement of confiscation order
-(1) If a court makes a confiscation order under section 128 or section 129, it must specify in that order the time and place at which the offender must surrender the motor vehicle to the Registrar or a bailiff or constable.
-(2) If the offender fails to surrender the motor vehicle in accordance with the order, the court must issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to confiscate the motor vehicle.
+(1) If a court makes a confiscation order under any of sections 128, 129, and 129A, it must specify in that order the time and place at which the offender or the substitute for the offender must surrender the motor vehicle to the Registrar or to a bailiff or constable.
+(2) If the offender or the substitute for the offender fails to surrender the motor vehicle in accordance with the order, the court must issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to confiscate the motor vehicle.
 (3) For the purpose of executing a warrant of confiscation issued under this section, the Registrar or bailiff or constable executing it may enter on any premises, by force if necessary, if that officer has reasonable cause to believe that the motor vehicle in respect of which the warrant is issued is on those premises.
 (4) If any person is in actual occupation of the premises, the Registrar or bailiff or constable must, on entering, produce the warrant to that person.
 (5) Despite any enactment, rule of law, or agreement to the contrary, the property in the motor vehicle passes absolutely to the Crown free of all encumbrances when—
-  (a) an offender surrenders a motor vehicle in accordance with an order; or
+  (a) an offender or a substitute for an offender surrenders a motor vehicle in accordance with an order; or
   (b) the Registrar or a bailiff or constable pursuant to a warrant issued under this section seizes the motor vehicle described in the warrant.
 (6) If a motor vehicle is surrendered to or seized by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar of the court.
+
+### 132A Offence to sell or dispose of motor vehicle subject to confiscation order
+(1) This section applies in any case where a motor vehicle—
+  (a) is subject to an order under any of sections 128(3), 129(3), 129A(3), and 136(4); but
+  (b) has not yet been surrendered to, or seized by, a Registrar, bailiff, or constable.
+(2) Every person commits an offence, and is liable on summary conviction to a fine not exceeding $2,000, who sells or disposes of the motor vehicle or any part of the motor vehicle.
 
 ### 133 Offence to remove confiscated vehicle
 (1) A person commits an offence who removes or attempts to remove any motor vehicle surrendered to or seized by any bailiff or constable under section 132 from the custody of that bailiff or constable, or from the custody of the Registrar of the court, without the approval of the Registrar.
@@ -2066,24 +2218,61 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
 
 ### 136 Offender must not acquire new interest in motor vehicle for 12 months
 (1) This section applies if—
-  (a) a court makes an order for the confiscation of a motor vehicle under section 128 or section 129; or
+  (a) a court makes an order for the confiscation of a motor vehicle under any of sections 128, 129, and 129A; or
   (b) a court has made an order under section 131(2)(a) prohibiting an offender from acquiring a motor vehicle for 12 months.
 (2) The offender must not, within 12 months after the date of the order, acquire any interest in any motor vehicle.
 (3) A person commits an offence and is liable on summary conviction to a fine not exceeding $500 who acquires any interest in a motor vehicle in contravention of subsection (2).
-(4) If a court convicts a person of an offence against this section, the court may, instead of, or in addition to, imposing a fine, order the confiscation of the motor vehicle concerned.
-(5) If a court orders the confiscation of a motor vehicle under subsection (4), sections 130 to 135, this section, and sections 137 to 142 apply accordingly.
+(4) If a court convicts a person of an offence against this section, then instead of, or in addition to, imposing a fine, the court may order that the motor vehicle concerned be confiscated and, where this section applies because of an order under section 129A, may also order that the motor vehicle be destroyed.
+(5) If a court orders the confiscation, or the confiscation and destruction, of a motor vehicle under subsection (4), sections 130, 131 to 135, this section, and sections 136A to 142 apply accordingly.
+
+### 136A Registrar must seek deregistration of motor vehicle subject to confiscation and destruction order
+If, under section 129A or 136(4), the court orders a motor vehicle to be confiscated and destroyed, a Registrar must, before the motor vehicle is sold, seek to have the registration of the motor vehicle cancelled by taking, so far as practicable, any steps required to be taken, under the Land Transport Act 1998, for that purpose by the owner of, or the person who is registered in respect of, the motor vehicle.
 
 ### 137 Sale of confiscated motor vehicles
-(1) Subject to section 138, as soon as practicable after a motor vehicle is delivered into a Registrar's custody under section 132, the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the court may direct.
+(1) Subject to section 138, as soon as practicable after a motor vehicle is delivered into a Registrar's custody under section 132, the Registrar must arrange for the sale of the motor vehicle by public auction or in any other manner that the Registrar, subject to any direction by the court, thinks fit.
 (2) The Registrar, or any officer of the Ministry of Justice authorised in writing by the Registrar, may conduct the auction even if the Registrar or that officer does not hold a licence under the Auctioneers Act 1928 or the Motor Vehicle Dealers Act 1975.
-(3) The proceeds of the sale must be applied in the following manner and order of priority:
-  (a) in payment of the costs of the sale (including all costs incurred in seizing the motor vehicle, towing, and storing the vehicle (if it was stored under section 97 of the Land Transport Act 1998), and complying with the provisions of this subpart preliminary to the sale):
-  (b) in satisfaction of any amount owed by the offender under any encumbrance brought to the notice of the Registrar within 1 month after the date of sale and established to the Registrar's satisfaction:
-  (c) in payment of any sum known by the Registrar to be payable by the offender in respect of any fine, or under any sentence of reparation, imposed on the offender, or in payment of any court costs ordered to be paid by the offender:
-  (d) to the offender.
+(3) Subject to subsection (4), the proceeds of the sale must be applied in the following manner and order of priority:
+  (a) if the motor vehicle has been impounded under the Land Transport Act 1998, in paying any impoundment costs:
+  (b) in payment of the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale):
+  (c) in satisfaction of any amount owed under any encumbrance brought to the notice of the Registrar within 1 month after the date of sale and established to the Registrar's satisfaction:
+  (d) in payment of any sentence or order of reparation payable by the offender:
+  (e) in payment of any levy payable by the offender under this Act:
+  (f) in payment of any fine or court costs payable by the offender:
+  (g) to the offender or, as the case requires, the substitute for the offender.
+(4) If the proceeds arise out of the sale of a motor vehicle owned by a substitute for the offender or in which the substitute had an interest, the proceeds must be applied in the manner and order of priority specified in subsection (3), except that the payment described in paragraphs (d) and (f) of that subsection are limited to sums imposed in respect of offences committed by the offender in a motor vehicle that, at the material time, was owned by the substitute or in which the substitute had an interest.
+
+### 137A Certain sales conditional on dismantling and destruction
+(1) This section applies if any motor vehicle sold under section 137 is subject to a confiscation and destruction order under section 129A or 136(4).
+(2) The sale of the motor vehicle is subject to a condition that the purchaser dismantle the motor vehicle for any saleable parts and destroy the remainder of the motor vehicle, to the satisfaction of the Registrar.
+(3) The condition imposed by subsection (2) must be fulfilled within 30 working days after the date of the sale, or within any longer period that the Registrar specifies in writing.
+(4) The property in the motor vehicle does not pass from the Crown to the purchaser until the condition imposed by subsection (2) has been fulfilled.
+
+### 137B Failure to comply with condition to dismantle and destroy
+(1) Where the sale of a motor vehicle is subject to a condition imposed by section 137A(2) and that condition is not fulfilled within the appropriate time, the Registrar may require any person in possession of the motor vehicle to surrender it to the Registrar, or a bailiff or constable, at a specified time and place.
+(2) If the person in possession of the motor vehicle fails to surrender the motor vehicle at the time and place specified by the Registrar, the court may issue a warrant in the prescribed form authorising the Registrar or any bailiff or constable to recover the motor vehicle.
+(3) For the purpose of executing a warrant issued under subsection (2), the Registrar or bailiff or constable executing it may enter on any premises, by force if necessary, if that officer has reasonable cause to believe that the motor vehicle in respect of which the warrant is issued is on those premises.
+(4) If any person is in actual occupation of the premises, the Registrar or bailiff or constable must, on entering, produce the warrant to that person.
+(5) If a motor vehicle is surrendered to or recovered by any bailiff or constable under this section, that officer must, as soon as practicable, deliver it into the custody of the Registrar of the court.
+(6) Sections 133 and 134 apply, with any necessary modifications, in respect of a motor vehicle surrendered or recovered under this section and to a warrant issued under this section.
+
+### 137C Sale of motor vehicle surrendered or recovered under section 137B
+(1) As soon as practicable after a motor vehicle is delivered into a Registrar’s custody under section 137B, the Registrar must arrange for the sale of the motor vehicle, and sections 137(1) and (2), 137A, and 137B apply to that sale with any necessary modifications.
+(2) The proceeds of the sale must be applied in the following manner and order of priority:
+  (a) in payment of the costs of the sale (including all costs incurred in recovering the motor vehicle, and towing and storing the vehicle):
+  (b) in payment of the purchase price to the purchaser to whom the motor vehicle was sold under section 137:
+  (c) in payment of any unsatisfied amounts described in section 137(3) in accordance with that section and with all necessary modifications.
 
 ### 138 Disposal of unsaleable confiscated vehicle
-If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under section 132 is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
+If the Registrar has reasonable grounds to believe that a motor vehicle that is delivered into his or her custody under section 132 or 137B is unsaleable, the Registrar may dispose of the vehicle in any manner he or she thinks fit.
+
+### 138A Offender liable for outstanding costs of seizure, storage, and sale
+(1) If the amount realised from the sale of a motor vehicle under section 137 or its disposal under section 138 is less than the costs described in subsection (2), the offender is liable for the shortfall between that amount and those costs.
+(2) The costs are,—
+  (a) if the motor vehicle has been impounded under the Land Transport Act 1998, any impoundment costs; and
+  (b) the costs of the sale (including all costs incurred in seizing the motor vehicle, towing and storing the vehicle, and complying with the provisions of this subpart preliminary to sale).
+(3) Subsection (1) applies regardless of whether the offender owned or had an interest in the motor vehicle.
+(4) Part 3 (except sections 84 and 85) of the Summary Proceedings Act 1957 or (as the case may require) sections 19 to 19F of the Crimes Act 1961 apply with any necessary modifications to any amount the offender is liable to pay under subsection (1) as if it were a fine.
+(5) A certificate appearing to have been signed by the Registrar that, following the sale or disposal of a motor vehicle, the offender is liable to pay a sum under subsection (1) is, in the absence of proof to the contrary, sufficient evidence of the facts certified, without proof of the signature or office of the person appearing to have signed the certificate.
 
 ### 139 Procedure if notice given that vehicle subject to encumbrance
 (1) If notice is given to the Registrar within 1 month after the date of sale under section 137 that the confiscated motor vehicle is subject to any encumbrance and the claim is not established to the Registrar's satisfaction, the Registrar must issue a summons calling before the court the party making the claim.
@@ -2091,23 +2280,175 @@ If the Registrar has reasonable grounds to believe that a motor vehicle that is 
   (a) the provisions of the High Court Rules relating to interpleader by an officer executing a writ or other order; or
   (b) as the case may require, section 94 of the District Courts Act 1947.
 
-### 140 Party with interest may apply to Registrar
-(1) Any party (other than the offender) to a leasing agreement relating to the confiscated motor vehicle may apply to the Registrar, at any time before the Registrar has sold the motor vehicle, for the transfer of the motor vehicle to that party as if the offender had breached the terms of the agreement.
-(2) If subsection (1) applies, the Registrar may transfer the motor vehicle to that party accordingly.
+### 140 Lessor under leasing agreement may apply to Registrar
+(1) The lessor (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) under a leasing agreement of a confiscated motor vehicle (not being a motor vehicle that is to be destroyed under section 129A or 136(4)) may apply to the Registrar, at any time before the Registrar has sold the motor vehicle, for the transfer of the motor vehicle to the lessor as if the offender or the substitute had breached the terms of the agreement.
+(2) If subsection (1) applies, the Registrar may transfer the motor vehicle to the lessor accordingly.
+(3) This section is subject to section 141A.
 
-### 141 Party with interest may apply to court
-(1) Any party (other than the offender) to any encumbrance other than a leasing agreement relating to the confiscated motor vehicle may apply to the court, at any time before the Registrar has sold the motor vehicle, for an order under subsection (2).
-(2) The court may, if it thinks fit, make an order directing the Registrar to transfer the motor vehicle to that other party for disposal in accordance with the provisions of the encumbrance and of any enactment to which the encumbrance is subject, as if the offender had breached the terms of that encumbrance.
-(3) Every person to whom a motor vehicle is transferred under an order of the court made under this section must, on disposing of the motor vehicle, pay the proceeds of sale to the Registrar.
-(4) The Registrar must apply those proceeds in accordance with subsection (5).
-(5) Out of the proceeds, the Registrar must pay to the person who sold the motor vehicle either,—
-  (a) if the encumbrance is a hire purchase agreement and the motor vehicle is used or was acquired for use primarily for personal, domestic, or household purposes, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount required to settle the agreement under section 31 of that Act; or
-  (b) in any other case, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount owed by the offender under the encumbrance.
-(6) The Registrar must then apply the balance remaining in accordance with section 137(3).
+### 141 Secured party may apply to court
+(1) Any party (not being the offender or a substitute for the offender whose motor vehicle has been confiscated) to any encumbrance (other than a leasing agreement) over a confiscated motor vehicle may apply to the court, at any time before the Registrar has sold the motor vehicle, for an order under subsection (3).
+(2) Subsection (1) does not apply to a motor vehicle that is to be destroyed under section 129A or 136(4).
+(3) The court may, if it thinks fit, make an order—
+  (a) directing the Registrar to transfer the motor vehicle to that other party; and
+  (b) directing that party to sell the motor vehicle and account for the proceeds of sale in accordance with section 141B.
+(4) This section is subject to section 141A.
+
+### 141A Certain payments required before transfers take effect
+(1) An order for the transfer of a motor vehicle under section 140 or 141 does not take effect unless the following costs have been paid into court:
+  (a) if the motor vehicle has been impounded under the Land Transport Act 1998, any impoundment costs:
+  (b) any costs incurred in seizing, towing, and storing the motor vehicle.
+(2) Any costs required to be paid by subsection (1) must be paid within 10 working days after the day on which the lessor or the secured party is notified of the decision to transfer the vehicle, or within any longer period specified by the Registrar in writing.
+(3) If the costs specified in subsection (1) are not paid within the time required by or under subsection (2), the Registrar may proceed with the sale of the vehicle under section 137.
+
+### 141B Application of proceeds of sale by secured party
+(1) Every person to whom a motor vehicle is transferred under section 141 must, on disposing of the motor vehicle,—
+  (a) account to the Registrar for the proceeds of the sale:
+  (b) pay into court the proceeds of the sale, less any costs paid under section 141A, and—
+    (i) if the encumbrance is a hire purchase agreement and the motor vehicle is used or was acquired for use primarily for personal, domestic, or household purposes, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount required to settle the agreement under section 31 of that Act; or
+    (ii) in any other case, the amount of the costs and expenses of, and incidental to, the sale within the meaning of section 33 of the Credit (Repossession) Act 1997 and the amount owed by the offender under the encumbrance.
+(2) The Registrar must then apply the balance remaining in accordance with section 137(3)(d) to (g) with all necessary modifications.
 
 ### 142 Order may be cancelled on application by bona fide purchaser
-(1) On application to it by any person, the court must cancel a confiscation order made in respect of a motor vehicle if it is satisfied that, at any time after the conviction of the offender, that person purchased the motor vehicle in good faith without knowledge of the conviction.
-(2) In the circumstances described in subsection (1), the court may make any other consequential order or orders that it thinks just and reasonable.
+(1) On application to it by any person, the court must cancel a confiscation order (including a confiscation and destruction order under section 129A or 136(4)) made in respect of a motor vehicle if it is satisfied that, at any time after the conviction of the offender, that person purchased the motor vehicle in good faith without knowledge of the conviction.
+(2) In the circumstances described in subsection (1), the court—
+  (a) must make an order prohibiting the offender from acquiring any interest in a motor vehicle within 12 months after the date of the confiscation order or confiscation and destruction order:
+  (b) may make any other consequential order or orders that it thinks just and reasonable.
+(3) Section 136 applies with any necessary modifications to an order made under subsection (2)(a).
+
+**Instrument forfeiture orders**
+
+### 142A Interpretation of terms used in sections 142B to 142Q
+For the purposes of sections 142B to 142Q, unless the context otherwise requires,—
+  - **Commissioner** means the Commissioner of Police
+  - **prosecutor** has the same meaning as in section 5(1) of the Criminal Proceeds (Recovery) Act 2009.
+
+### 142B Duties of prosecutor if offender guilty of qualifying instrument forfeiture offence
+If a person is convicted of a qualifying instrument forfeiture offence and any property was used to commit, or to facilitate the commission of, that offence, the prosecutor must, if in the prosecutor’s opinion the court should consider whether to make an instrument forfeiture order in respect of that property, notify the court in writing of—
+  (a) the details of that property:
+  (b) the name and identifying details of any person (other than the offender) who, to the knowledge of the prosecutor, has an interest in the property.
+
+### 142C Duties of court on notification
+On receiving notice under section 142B, the court, if it is of the opinion that it should consider making an instrument forfeiture order,—
+  (a) must direct the prosecutor to issue and serve any notice required by section 142E:
+  (b) may direct the prosecutor to report further information to the court under section 142F.
+
+### 142D Notice of possible instrument forfeiture order may be recorded on registers
+(1) Subsection (2) applies if the court has given a direction under section 142C relating to property of a kind that is covered by a New Zealand enactment that enables the registration of—
+  (a) title to that property; or
+  (b) charges over that property.
+(2) If this subsection applies, the court may order any authority responsible for administering an enactment of the kind referred to in subsection (1) (an Authority) to enter on the register a note of the fact that the court will consider whether an instrument forfeiture order may be made against the property.
+(3) The court must order an Authority to cancel an entry made on a register under subsection (2) if—
+  (a) the matter to which the entry relates is finally determined and the relevant appeal period (defined in section 73(3) and referred to in section 85 of the Criminal Proceeds (Recovery) Act 2009) has expired; or
+  (b) proceedings to which the entry relates are discontinued for any reason.
+
+### 142E Duties of prosecutor as to service
+(1) If a court gives a direction under section 142C, the prosecutor must take all reasonable steps to notify every person (other than the offender) whose name was included in the notice given to the court under section 142B, any other person whom the prosecutor believes has an interest in the property in question, and the Commissioner—
+  (a) that the property may be made the subject of an instrument forfeiture order:
+  (b) that the person may, within 10 working days of the date of the notice, apply to the court for relief:
+  (c) of the grounds set out in section 77(1) of the Criminal Proceeds (Recovery) Act 2009 on which an application for relief may be made.
+(2) A notice given under subsection (1) must be given as soon as practicable after the court gives a direction under section 142C and in any event not later than 5 working days after the giving of that direction.
+
+### 142F Court may require further information
+The court may, for the purposes of determining whether to make an instrument forfeiture order or an order for relief from an instrument forfeiture order, or for the purposes of determining the terms of an instrument forfeiture order or an order for relief from an instrument forfeiture order, direct the prosecutor, the offender, or any person who applies for relief to provide further information to the court about—
+  (a) the value of the property that comprises the instrument of crime:
+  (b) the nature, extent, and value of the offender’s interest in the property that comprises the instrument of crime:
+  (c) the name of any other person with an interest in the instrument of crime, the nature and extent of that person’s interest, and whether or not that person has been notified of the proceedings:
+  (d) the name of any person who may suffer undue hardship if the property is confiscated and the nature of that hardship:
+  (e) any other matter specified by the court.
+
+### 142G Independent valuation of property
+For the purposes of determining the value of an instrument of crime, a court may, at its own discretion or at the request of either party to the proceedings or any person who claims to have an interest in the property, seek an independent valuation as to the value of the property or any interest in the property.
+
+### 142H Court may order declaration of ownership to be completed
+(1) If a court is considering whether or not to make an instrument forfeiture order, the court may order that the offender, or any other person, complete a declaration of ownership before making the order.
+(2) The declaration of ownership must specify—
+  (a) whether the offender owns, or has any interest in, the property in question at the relevant date; and
+  (b) whether any other person owns, or has any interest in, the property at the relevant date, and, if so, the name of that person and the nature of that interest; and
+  (c) whether the offender has ceased to be the owner of, or to have any interest in, the property in question at any time subsequent to the commission of the offence but before the date of his or her conviction; and
+  (d) if the offender has disposed of his or her interest in the property in question during the period referred to in paragraph (c), to whom the ownership or interest in the property was disposed, the relationship of that person to the offender, and the consideration received by the offender.
+(3) If a court does not make an order under this section that does not affect the validity of any other order of the court.
+(4) In this section, relevant date means the date on which the offender was convicted of the qualifying instrument forfeiture offence.
+
+### 142I Determining ownership of property
+For the purpose of determining the nature and extent of any person’s interest in an instrument of crime, the court may apply the provisions of section 58 of the Criminal Proceeds (Recovery) Act 2009, which applies with all necessary modifications.
+
+### 142J Applications for relief from instrument forfeiture order
+(1) Any person (other than the offender) may make an application for relief from an instrument forfeiture order.
+(2) An application by any person for relief must be made to the court that convicted the offender—
+  (a) on either of the grounds set out in section 77(1) of the Criminal Proceeds (Recovery) Act 2009; and
+  (b) in the prescribed form (if any); and
+  (c) within—
+    (i) the time specified in the notice served on the person under section 142E; or
+    (ii) if no notice is served on the person, 15 working days after the day on which the offender was convicted of the qualifying instrument forfeiture offence; or
+    (iii) the time allowed by the court, if the court grants an application by the person to make an application for relief after the time by which such an application must be made under subparagraph (i) or (ii).
+(3) An applicant for relief from an instrument forfeiture order must serve notice of that application on—
+  (a) the prosecutor:
+  (b) the offender:
+  (c) the Commissioner:
+  (d) the Official Assignee:
+  (e) any other person whom the applicant has reason to believe may—
+    (i) have an interest in the property that is the subject of the application; or
+    (ii) suffer undue hardship as a consequence of the forfeiture of the property:
+  (f) any specified person or class of persons in respect of whom the court directs the applicant to serve notice of the application.
+(4) An applicant for relief must provide the court and the prosecutor with a list of persons on whom notice of the application has been served.
+
+### 142K Hearings concerning instrument forfeiture orders
+(1) If a court issues a direction under section 142C, it may convene a hearing to determine whether to make an instrument forfeiture order or to grant an application made for relief from an instrument forfeiture order under section 142J.
+(2) At the hearing, the prosecutor, the offender, any person making an application for relief from an instrument forfeiture order, and any other person who claims to have an interest in the property that may be the subject of the instrument forfeiture order or who believes that he or she may suffer undue hardship if the property is forfeited, may be heard.
+(3) If a hearing is not held under subsection (1), the matters referred to in that subsection and subsection (2) may occur during the sentencing hearing.
+
+### 142L Court may grant relief from instrument forfeiture order to applicant who establishes interest in property
+(1) This section applies if—
+  (a) a person applies to the court under section 142J for relief from an instrument forfeiture order in respect of an interest in property on the ground set out in section 77(1)(a) of the Criminal Proceeds (Recovery) Act 2009; and
+  (b) the court is satisfied, following a hearing under section 142K, that the applicant has established on the balance of probabilities that the applicant—
+    (i) has an interest in the property to which the instrument forfeiture order relates; and
+    (ii) was not involved in the qualifying instrument forfeiture offence to which the order relates.
+(2) If this section applies, the court must make an order—
+  (a) declaring the nature, extent, and value of the applicant’s interest in the property; and
+  (b) either—
+    (i) directing the Crown to transfer the interest to the applicant; or
+    (ii) declaring that there is payable by the Crown to the applicant an amount equal to the value of the interest declared by the court; or
+    (iii) directing that the interest not be included in an instrument forfeiture order made in respect of the proceedings that gave rise to the application; or
+    (iv) determining, in accordance with section 142N, not to make an instrument forfeiture order.
+(3) Despite subsection (2), the court may, but is not required to, refuse to make an order under subsection (2) if it is satisfied that—
+  (a) the applicant was, in any respect, involved in the commission of the offence in respect of which forfeiture of the property is or was under consideration; or
+  (b) if the applicant acquired the interest at the time of or after the commission of the offence, the applicant did not acquire the interest in the property in good faith and for value.
+(4) The court must not make an order under subsection (2)(b)(ii) unless it is satisfied that it cannot reasonably make an order under subsection (2)(b)(i) or (iii) (for example, because the interest of the applicant is not severable from the other property in question).
+
+### 142M Court may grant relief from instrument forfeiture order to applicant on grounds of undue hardship
+(1) This section applies if a person applies to the court under section 142J for relief from an instrument forfeiture order on the ground set out in section 77(1)(b) of the Criminal Proceeds (Recovery) Act 2009.
+(2) If the court is satisfied that, having regard to all the circumstances, undue hardship is likely to be caused to the person making the application or to another person (other than the offender), by the operation of an instrument forfeiture order, the court—
+  (a) may order that the person is entitled to be paid a specified amount out of the proceeds of sale of the property, being an amount that the court thinks is necessary to prevent undue hardship to that person; and
+  (b) if the person is under 18 years, may make additional orders for the purpose of ensuring the proper application of an amount to be paid to that person.
+(3) The circumstances a court may have regard to under subsection (2) include, without limitation,—
+  (a) the use that is ordinarily made, or was intended to be made, of the property that would be the subject of the instrument forfeiture order; and
+  (b) the nature and extent of any person’s interest in the property; and
+  (c) any other matter relating to the nature and circumstances of the qualifying instrument forfeiture offence to which the property relates.
+
+### 142N Instrument forfeiture orders
+(1) Following a hearing under section 142K, the court may, if it is satisfied that the property described in the notice given under section 142B is an instrument of crime, order that the instrument of crime or any part of it specified by the court be forfeited to the Crown.
+(2) In considering whether or not to make an instrument forfeiture order under subsection (1) in respect of particular property, the court may have regard to—
+  (a) any matter raised in an application for relief under section 142J; and
+  (b) the use that is ordinarily made, or was intended to be made, of the instrument of crime; and
+  (c) any undue hardship that is reasonably likely to be caused to any person by the operation of such an order; and
+  (d) the nature and extent of the offender’s interest in the instrument of crime (if any), and the nature and extent of any other person’s interest in it (if any); and
+  (e) in addition to the matters referred to in section 77(1) of the Criminal Proceeds (Recovery) Act 2009, any other matter relating to the nature and circumstances of the qualifying instrument forfeiture offence or the offender, including the gravity of the qualifying instrument forfeiture offence.
+(3) A court that makes an instrument forfeiture order may, if it considers that it is appropriate to do so, by order,—
+  (a) declare the nature, extent, and value of any person’s interest in an instrument of crime; and
+  (b) declare that the instrument forfeiture order may, to the extent to which it relates to the interest, be discharged under section 85 of the Criminal Proceeds (Recovery) Act 2009.
+(4) If the court orders that property (other than money) be forfeited to the Crown, the court must specify in the order the amount that it considers to be the value of the property at the time the order is made.
+(5) If a court makes an instrument forfeiture order, the court may give any directions that are necessary or convenient for giving effect to the order.
+
+### 142O Offence of providing false or misleading information under section 142F
+Every person is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000 who provides false or misleading information to a court in response to a direction under section 142F.
+
+### 142P Evidence in instrument forfeiture order proceedings
+In determining whether or not to make an instrument forfeiture order under section 142N as a result of a person’s conviction, the court may take into account evidence given in the proceedings taken against that person for the offence, including, without limitation,—
+  (a) documents, exhibits, or other things connected with the proceedings that the court considers relevant; and
+  (b) notes or transcripts of evidence admitted in the proceedings.
+
+### 142Q Relationship with other provisions in Act
+Nothing in sections 142A to 142P affects sections 127 to 142.
 
 ### Subpart 6 — Miscellaneous, transitional, and savings provisions
 
@@ -2380,3 +2721,16 @@ The enactments set out in Schedule 2 are repealed.
 ## Schedule 1 — Amendments to other enactments
 
 ## Schedule 2 — Enactments repealed
+
+### 1 Title
+This Act is the Sentencing (Vehicle Confiscation) Amendment Act 2009.
+
+### 2 Commencement
+This Act comes into force on 1 December 2009.
+
+### 21 Transitional provisions
+(1) Sections 129A, 129B, and 129F of the principal Act, as inserted by section 7 of this Act, do not apply in respect of any offence (whether described in those sections as a first offence, second offence, current offence, previous offence, or in any other way) committed before the commencement of section 7.
+(2) Sections 140 to 142 of the principal Act, as in force before the commencement of section 19 of this Act, continue to apply to any motor vehicle confiscated before that commencement.
+(3) In the period commencing on the commencement of this Act and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009—
+  (a) any reference to a person who is registered in respect of a motor vehicle in sections 129B and 136A of the principal Act (as inserted by this Act) must (despite the definition of that term in section 127(1) of the principal Act) be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
+  (b) the reference in section 136A of the principal Act (as inserted by this Act) to the Land Transport Act 1998 is taken to be a reference to the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
