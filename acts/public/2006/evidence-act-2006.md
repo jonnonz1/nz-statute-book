@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-12-01_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -68,7 +68,7 @@ This Act binds the Crown.
   - **international organisation** means an organisation of States or governments of States or an organ or agency of an organisation of that kind, and includes the Commonwealth Secretariat
   - **interpreter** includes a person who provides communication assistance to a defendant or a witness
   - **investigative questioning** means questioning in connection with the investigation of an offence or a possible offence by, or in the presence of,—
-    (a) a constable; or
+    (a) a member of the Police; or
     (b) a person whose functions include the investigation of offences
   - **Judge** includes a Justice of the Peace, a community magistrate, and any tribunal
   - **lawyer** means a barrister or solicitor, as those terms are defined in section 2 of the Law Practitioners Act 1982
@@ -337,7 +337,7 @@ A witness may state an opinion in evidence in a proceeding if that opinion is ne
   (a) in consequence of a breach of any enactment or rule of law by a person to whom section 3 of the New Zealand Bill of Rights Act 1990 applies; or
   (b) in consequence of a statement made by a defendant that is or would be inadmissible if it were offered in evidence by the prosecution; or
   (c) unfairly.
-(6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a constable has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
+(6) Without limiting subsection (5)(c), in deciding whether a statement obtained by a member of the Police has been obtained unfairly for the purposes of that provision, the Judge must take into account guidelines set out in practice notes on that subject issued by the Chief Justice.
 
 ### 31 Prosecution may not rely on certain evidence offered by other parties
 Evidence that is liable to be excluded if offered by the prosecution in a criminal proceeding because of section 28 or 29 or 30 may not be relied on by the prosecution if that evidence is offered by any other party.
@@ -662,7 +662,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (a) a person is (apart from this section) required to provide specific information—
     (i) in the course of a proceeding; or
     (ii) by a person exercising a statutory power or duty; or
-    (iii) by a constable or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
+    (iii) by a Police officer or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
   (b) the information would, if so provided, be likely to incriminate the person under New Zealand law for an offence punishable by a fine or imprisonment.
 (2) The person—
   (a) has a privilege in respect of the information and cannot be required to provide it; and
@@ -681,7 +681,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
   (a) that a person is (apart from this section) required to provide—
     (i) in the course of a proceeding; or
     (ii) by a person exercising a statutory power or duty; or
-    (iii) by a constable or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
+    (iii) by a Police officer or other person holding a public office in the course of an investigation into a criminal offence or possible criminal offence; and
   (b) that would, if so provided, be likely to incriminate the person under foreign law for an offence punishable by—
     (i) capital punishment; or
     (ii) corporal punishment or imprisonment, or both.
@@ -709,7 +709,7 @@ In a proceeding for defamation that is based on a statement to the effect that a
 (2) A person is an informer for the purposes of this section if the person—
   (a) has supplied, gratuitously or for reward, information to an enforcement agency, or to a representative of an enforcement agency, concerning the possible or actual commission of an offence in circumstances in which the person has a reasonable expectation that his or her identity will not be disclosed; and
   (b) is not called as a witness by the prosecution to give evidence relating to that information.
-(3) An informer may be a constable working undercover.
+(3) An informer may be a member of the Police working undercover.
 
 ### 65 Waiver
 (1) A person who has a privilege conferred by any of sections 54 to 60 and 64 may waive that privilege either expressly or impliedly.
@@ -1062,7 +1062,7 @@ In any proceeding, the party who calls a witness may, if the Judge determines th
 ### 102 Application
 Sections 103 to 106 (which provide for alternative ways of giving evidence) are subject to the following provisions (which deal with specific situations):
   (a) section 107 (which relates to child complainants):
-  (b) sections 108 and 109 (which relate to undercover constables):
+  (b) sections 108 and 109 (which relate to undercover Police officers):
   (c) sections 110 to 119 (which relate to anonymous witnesses).
 
 **General**
@@ -1138,26 +1138,29 @@ If an application for directions is made under section 103, before giving any di
     (ii) the need to promote the recovery of the complainant from the alleged offence; and
   (c) any other factor that is relevant to the just determination of the proceeding.
 
-**Giving of evidence by undercover constables**
+**Giving of evidence by undercover Police officers**
 
-### 108 Undercover constables
+### 108 Undercover Police officers
 (1) This section and section 109 apply in any case where a person is being, or is to be, proceeded against by indictment—
   (a) for any offence that is punishable by imprisonment for life or for a term of at least 7 years; or
   (b) for any other offence against any provisions of the Misuse of Drugs Act 1975, except sections 7 and 13; or
   (c) for an offence against section 98A of the Crimes Act 1961; or
   (d) for conspiracy to commit, or for attempting to commit, an offence described in paragraph (a) or (b).
-(2) If, in any proceeding to which this section applies, it is intended to call an undercover constable as a witness for the prosecution, the Commissioner of Police may, at any time before an indictment is presented, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
-  (a) that during the period specified in the certificate the witness was a constable and acted as an undercover constable:
+(2) If, in any proceeding to which this section applies, it is intended to call an undercover Police officer as a witness for the prosecution, the Commissioner of Police may, at any time before an indictment is presented, file in the court in which the proceedings are to be held a certificate signed by the Commissioner stating, in respect of that witness, the following particulars:
+  (a) that during the period specified in the certificate the witness was a member of the Police and acted as an undercover Police officer:
   (b) that the witness has not been convicted of any offence or (as the case may require) that the witness has not been convicted of any offence other than the offence, or offences, described in the certificate:
   (c) that the witness has not been found guilty of a breach of the code of conduct prescribed under section 20 of the Policing Act 2008, or (as the case may require) that the witness has not been found guilty of any breach of that kind, other than a breach described in the certificate.
 (3) If, to the knowledge of the Commissioner of Police, the credibility of the witness in giving evidence in any other proceeding has been the subject of adverse comment by the Judge, the Commissioner must also include in the certificate a statement of the relevant particulars.
 (4) It is sufficient for the purposes of subsections (2) and (3) if the certificate includes a statement of the nature of any offence or comment referred to in the certificate and the year in which the offence was committed or the comment was made, and it is not necessary to include the venue or precise date of the proceedings or any other particulars that might enable the true name or true address of the witness to be discovered.
-(5) In this section and in section 109, undercover constable, in relation to any proceeding to which this section applies, means a constable whose identity was concealed for the purpose of any investigation relevant to the proceedings.
+(5) In this section and in section 109, undercover Police officer, in relation to any proceeding to which this section applies, means a member of the Police whose identity was concealed for the purpose of any investigation relevant to the proceedings.
+(6) This section also applies, with any necessary modifications, in any case where a person is being, or is to be, proceeded against under—
+  (a) the Criminal Proceeds (Recovery) Act 2009; or
+  (b) sections 142A to 142Q of the Sentencing Act 2002.
 
 ### 109 Effect of certificate under section 108
 (1) If, in any proceeding to which section 108 applies, the Commissioner of Police files a certificate under section 108 relating to any witness, the following provisions apply:
-  (a) if a witness is subsequently called for the prosecution and states that, during the period specified in the certificate, he or she was a constable and acted as an undercover constable under the name specified in the certificate, it must be presumed, in the absence of proof to the contrary, that the certificate has been given in respect of that witness:
-  (b) it is sufficient if the witness is identified by the name by which the witness was known while acting as an undercover constable, and, except if leave is given under paragraph (d), the witness must not be required to state his or her true name or address, or to give any particulars likely to lead to the discovery of that name or address:
+  (a) if a witness is subsequently called for the prosecution and states that, during the period specified in the certificate, he or she was a member of the Police and acted as an undercover Police officer under the name specified in the certificate, it must be presumed, in the absence of proof to the contrary, that the certificate has been given in respect of that witness:
+  (b) it is sufficient if the witness is identified by the name by which the witness was known while acting as an undercover Police officer, and, except if leave is given under paragraph (d), the witness must not be required to state his or her true name or address, or to give any particulars likely to lead to the discovery of that name or address:
   (c) except if leave is given under paragraph (d), no lawyer, officer of the court, or other person involved in the proceeding may state in court the true name or the address of the witness, or give any particulars likely to lead to the discovery of that name or address:
   (d) no evidence may be given, and no question may be put to the witness, or to any other witness, relating directly or indirectly to the true name or the address of the witness, except by leave of the Judge:
   (e) on an application for leave under paragraph (d), the certificate is, in the absence of evidence to the contrary, sufficient evidence of the particulars stated in it.
@@ -1283,7 +1286,7 @@ If, at any time after the events that are the subject of a charge, a witness und
 **Signature of statements by assumed name**
 
 ### 120 Persons who may sign statements by assumed name
-(1) A deposition or other written statement of evidence given by an undercover constable may be given and signed in the name by which the officer was known during the relevant investigation.
+(1) A deposition or other written statement of evidence given by an undercover Police officer may be given and signed in the name by which the officer was known during the relevant investigation.
 (2) A deposition or other written statement given by a witness who is the subject of an application for an anonymity order made under section 112, or who is the subject of an anonymity order made under section 110 or 112, may be given and signed by the witness using the term witness followed by an initial or mark.
 (3) This section overrides any contrary provision in this Act or any other enactment.
 
@@ -1461,10 +1464,10 @@ In a civil proceeding, wherever a party is permitted under rules of court to ins
 (4) The manner of proving a conviction authorised by this section is in addition to any other manner of proving the conviction authorised by law.
 (5) The Governor-General may, by Order in Council, declare that certificates purporting to be made by specified persons or classes of persons in any country other than New Zealand, Australia, United Kingdom, or Canada in respect of convictions for offences committed in that country and to the same effect as certificates under subsection (1) are evidence as if they had been made under subsection (1).
 (6) In this section, fingerprint examiner means a fingerprint examiner who is—
-  (a) a constable or employee of the Police; or
-  (b) a member or employee of a police force in the United Kingdom; or
-  (c) a member or employee of a police force of Australia or the Police force of a State or territory of Australia; or
-  (d) a member or employee of a police force of Canada or the Police force of a Province or territory of Canada.
+  (a) a member or employee of the Police; or
+  (b) a member or employee of a Police force in the United Kingdom; or
+  (c) a member or employee of a Police force of Australia or the Police force of a State or territory of Australia; or
+  (d) a member or employee of a Police force of Canada or the Police force of a Province or territory of Canada.
 (7) Subpart 1 of Part 2 (which relates to hearsay evidence) and subpart 2 of Part 2 (which relates to opinion and expert evidence) do not apply to evidence offered under this section.
 
 ### 141 New Zealand and foreign official documents
@@ -1701,7 +1704,7 @@ Nothing in sections 154 to 161 limits or affects any other powers of a New Zeala
 (3) In this section the appropriate time means the time of service of the subpoena or at some other reasonable time before the witness is required to comply with it.
 
 ### 165 Failure of witness to comply with Australian subpoena
-(1) The High Court may, on receiving from the Australian court which issued the Australian subpoena a certificate stating that the witness has failed to comply with the subpoena, issue a warrant requiring any constable to arrest the witness and to bring him or her before the High Court.
+(1) The High Court may, on receiving from the Australian court which issued the Australian subpoena a certificate stating that the witness has failed to comply with the subpoena, issue a warrant requiring any member of the Police to arrest the witness and to bring him or her before the High Court.
 (2) The High Court may, on the appearance of the witness before the court, impose a fine not exceeding $10,000 unless the court is satisfied that the failure to comply with the subpoena should be excused.
 (3) In determining whether the failure to comply with the subpoena should be excused, the High Court may have regard to—
   (a) any matters that were not brought to the attention of the Australian court which granted leave to serve the subpoena, if the High Court is satisfied that—
