@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2009-10-17_
+_Consolidation as at 2009-12-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -2337,7 +2337,7 @@ Where a document in a foreign language is presented to a Customs officer in rela
 (6) Where the operation of any such order is suspended until the determination of the appeal, the Court determining the appeal may by order annul or vary the order made under this section; and that order, if annulled shall not take effect, and, if varied, shall take effect as so varied.
 (7) In this section the term Court includes the High Court, and any reference to a District Court Judge includes a reference to a High Court Judge.
 
-### 166A Detention of goods suspected to be tainted property
+### 166A Detention of goods suspected to be instrument of crime or tainted property
 A Customs officer or authorised person may, without warrant, seize and detain goods if—
   (a) the goods are in New Zealand and he or she is satisfied that they either—
     (i) are being, or are intended to be, exported from New Zealand; or
@@ -2345,7 +2345,7 @@ A Customs officer or authorised person may, without warrant, seize and detain go
   (b) the goods came to his or her attention, or into his or her possession, during a search, inspection, audit, or examination under—
     (i) this Act; or
     (ii) subpart 6 of Part 2 and sections 114 and 115 of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; and
-  (c) he or she has good cause to suspect that the goods are tainted property (as defined in section 2(1) of the Proceeds of Crime Act 1991).
+  (c) he or she has good cause to suspect that the goods are an instrument of crime or tainted property (as those terms are defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009).
 
 ### 166B Return of cash necessary to satisfy essential human needs
 (1) The power to detain goods under section 166A does not extend to, and the Customs must if practicable return immediately, cash seized under section 166A if the Customs is satisfied that the cash is (or that things for which it might be exchanged are) necessary to satisfy essential human needs—
@@ -2365,7 +2365,7 @@ A Customs officer or authorised person may, without warrant, seize and detain go
   (b) Financial Transactions Reporting Act 1996:
   (ba) Anti-Money Laundering and Countering Financing of Terrorism Act 2009:
   (c) Mutual Assistance in Criminal Matters Act 1992:
-  (d) Proceeds of Crime Act 1991:
+  (d) Criminal Proceeds (Recovery) Act 2009:
   (e) Terrorism Suppression Act 2002.
 
 ### 166D Return of goods detained under section 166A
@@ -2376,10 +2376,10 @@ A Customs officer or authorised person may, without warrant, seize and detain go
   (a) the completion of all relevant investigations, if they show that the goods are not tainted property:
   (b) the expiry of the investigation period.
 (3) However, the Customs need not return the goods as provided in subsection (2), and may continue to detain them until the relevant proceedings or requests (including any resulting applications) are determined if, on or before the expiry of the investigation period,—
-  (a) an information is laid in respect of the relevant serious offence (as defined in section 2(1) of the Proceeds of Crime Act 1991); or
+  (a) an information is laid in respect of the relevant qualifying instrument forfeiture offence (as defined in section 5(1) of the Criminal Proceeds (Recovery) Act 2009); or
   (b) a foreign country makes a request to the Attorney-General under any of the following sections of the Mutual Assistance in Criminal Matters Act 1992:
-    (i) section 55 (which relates to registration of foreign restraining orders):
-    (ii) section 60 (which relates to the issue in New Zealand of a restraining order).
+    (i) section 54 (relating to a request to enforce a foreign restraining order); and
+    (ii) section 60 (relating to an interim foreign restraining order).
 
 ### 166E Extension of 7-day period in section 166D(1)(a)
 (1) The 7-day period in section 166D(1)(a) may be extended (once only) by order of the High Court for a reasonable period up to a further 14 days if, on an application for the purpose made before the expiry of that 7-day period, that Court is satisfied—
