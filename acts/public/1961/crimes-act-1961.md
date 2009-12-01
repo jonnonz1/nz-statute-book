@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2009-10-17_
+_Consolidation as at 2009-12-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -110,7 +110,7 @@ For the purpose of jurisdiction, where any act or omission forming part of any o
   (c) if a person in respect of whom the offence is alleged to have been committed—
     (i) is a New Zealand citizen; or
     (ii) is ordinarily resident in New Zealand; or
-  (d) in the case of an offence against section 98A, if the group of people in which the person to be charged is alleged to have participated are alleged to have as their objective or one of their objectives the obtaining of material benefits by the commission in New Zealand of offences or conduct referred to in paragraph (a) or paragraph (b) of section 98A(2).
+  (d) in the case of an offence against section 98A, if the group of people with or in which the person to be charged is alleged to have participated are alleged to have as their objective or one of their objectives the obtaining of material benefits by the commission in New Zealand of offences or conduct referred to in paragraph (a) or paragraph (b) of section 98A(2).
 (2) Even if the acts or omissions alleged to constitute the offence occurred wholly outside New Zealand, proceedings may be brought for an offence against section 98C or section 98D,—
   (a) in the case of an offence against section 98C(1) or section 98D, if the act or omission is alleged to relate to the entry of a person into New Zealand; or
   (b) in the case of an offence against section 98C(2), if the act or omission is alleged to relate to arranging the bringing of a person to New Zealand.
@@ -837,14 +837,15 @@ Every one is liable to imprisonment for a term not exceeding 7 years who, within
 **Participation in criminal gang**
 
 ### 98A Participation in organised criminal group
-(1) Every one is liable to imprisonment for a term not exceeding 5 years who participates (whether as a member or an associate member or prospective member) in an organised criminal group, knowing that it is an organised criminal group, and—
-  (a) knowing that his or her participation contributes to the occurrence of criminal activity; or
-  (b) reckless as to whether his or her participation may contribute to the occurrence of criminal activity.
+(1) Every person commits an offence and is liable to imprisonment for a term not exceeding 10 years who participates in an organised criminal group—
+  (a) knowing that 3 or more people share any 1 or more of the objectives (the particular objective or particular objectives) described in paragraphs (a) to (d) of subsection (2) (whether or not the person himself or herself shares the particular objective or particular objectives); and
+  (b) either knowing that his or her conduct contributes, or being reckless as to whether his or her conduct may contribute, to the occurrence of any criminal activity; and
+  (c) either knowing that the criminal activity contributes, or being reckless as to whether the criminal activity may contribute, to achieving the particular objective or particular objectives of the organised criminal group.
 (2) For the purposes of this Act, a group is an organised criminal group if it is a group of 3 or more people who have as their objective or one of their objectives—
   (a) obtaining material benefits from the commission of offences that are punishable by imprisonment for a term of 4 years or more; or
   (b) obtaining material benefits from conduct outside New Zealand that, if it occurred in New Zealand, would constitute the commission of offences that are punishable by imprisonment for a term of 4 years or more; or
-  (c) the commission of serious violent offences (within the meaning of section 312A(1)) that are punishable by imprisonment for a term of 10 years or more; or
-  (d) conduct outside New Zealand that, if it occurred in New Zealand, would constitute the commission of serious violent offences (within the meaning of section 312A(1)) that are punishable by imprisonment for a term of 10 years or more.
+  (c) the commission of serious violent offences (within the meaning of section 312A(1)); or
+  (d) conduct outside New Zealand that, if it occurred in New Zealand, would constitute the commission of serious violent offences (within the meaning of section 312A(1)).
 (3) A group of people is capable of being an organised criminal group for the purposes of this Act whether or not—
   (a) some of them are subordinates or employees of others; or
   (b) only some of the people involved in it at a particular time are involved in the planning, arrangement, or execution at that time of any particular action, activity, or transaction; or
@@ -2292,7 +2293,7 @@ Every one who is guilty of obtaining by deception or causing loss by deception i
 ### 244 Defence of enforcement of enactment
 It is a defence to a charge under section 243 if the person charged proves that the act to which the charge relates was done by that person, in good faith, for the purpose of, or in connection with,—
   (a) the enforcement or intended enforcement of this section, any other provision of this Act, or any other enactment relating to a serious offence; or
-  (b) the enforcement or intended enforcement of the Proceeds of Crime Act 1991; or
+  (b) the enforcement or intended enforcement of the Criminal Proceeds (Recovery) Act 2009; or
   (ba) the enforcement or intended enforcement of the Anti-Money Laundering and Countering Financing of Terrorism Act 2009; or
   (c) the enforcement or intended enforcement of the Financial Transactions Reporting Act 1996.
 
@@ -2711,12 +2712,12 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
         (A) that is punishable by a period of imprisonment for a term of 7 years or more; and
         (B) that involved, involves, or would involve conduct of the kind referred to in any of subparagraphs (i) to (iii)
   - **specified offence** means any of the following offences:
-    (a) an offence punishable by a period of imprisonment for a term of 10 years or more:
-    (b) an offence against section 116 (which relates to conspiring to defeat justice):
-    (c) an offence against section 117 (which relates to corrupting juries and witnesses):
-    (d) an offence punishable under section 223(b) (theft of an object exceeding $1,000 in value):
-    (e) an offence against section 243 (which relates to money laundering):
-    (f) an offence punishable under section 247 (which relates to receiving property dishonestly obtained)
+    (a) an offence punishable by a period of imprisonment for a term of 7 years or more:
+    (b) an offence against section 243(3) (which relates to certain money laundering offences):
+    (c) an offence punishable under section 247(b) or (c) (which relate to certain offences in respect of receiving property dishonestly obtained)
+    (d)
+    (e)
+    (f)
   - **terrorist offence** means an offence against any of sections 6A to 13E of the Terrorism Suppression Act 2002.
 (2) A reference in this Part to a party to a private communication is a reference to—
   (a) any originator of the communication and any person intended by the originator to receive it; and
@@ -2725,15 +2726,19 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
 **Applications for interception warrants in relation to organised criminal enterprises**
 
 ### 312B Application by Police for warrant to intercept private communications
-(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any constable to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing that—
-  (a) any member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
-  (b) it is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of such a warrant.
+(1) An application may be made in accordance with this section to a Judge of the High Court for a warrant for any Police employee to intercept a private communication by means of an interception device in any case where there are reasonable grounds for believing—
+  (a) either that—
+    (i) a person has committed, or is committing, an offence under section 98A(1); or
+    (ii) a member of an organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of the enterprise; and
+  (b) it is unlikely that the Police investigation of the case could be brought to a successful conclusion without the grant of the warrant.
 (2) Every application under subsection (1) shall be made by a constable who is of or above the level of position of inspector, in writing, and on oath, and shall set out the following particulars:
-  (a) the facts relied upon to show that there are reasonable grounds for believing that—
-    (i) there is an organised criminal enterprise; and
-    (ii) any member of that enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence as part of a continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
+  (a) the facts relied upon to show that there are reasonable grounds for believing either—
+    (i) that a person has committed, or is committing, an offence under section 98A(1); or
+    (ii) that—
+      (A) there is an organised criminal enterprise; and
+      (B) a member of the organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of the enterprise; and
   (b) a description of the manner in which it is proposed to intercept private communications; and
-  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the Police investigation of the case, or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; and
+  (c) the name and address, if known, of the suspect whose private communications there are reasonable grounds for believing will assist the Police investigation of the case, or, if the name and address of the suspect are not known, a general description of the premises, place, thing, or type of facility in respect of which it is proposed to intercept private communications, being premises or a place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise or by the person who is believed to have committed, or be committing, an offence under section 98A(1) (as the case may be); and
   (d) the period for which a warrant is requested; and
   (e) whichever of the following is applicable:
     (i) the other investigative procedures and techniques that have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case, and the reasons why they have failed in that respect; or
@@ -2742,9 +2747,11 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
 
 ### 312C Matters on which Judge must be satisfied in respect of applications
 (1) On an application made in accordance with section 312B, the Judge may grant an interception warrant if the Judge is satisfied that it would be in the best interests of the administration of justice to do so, and that—
-  (a) there are reasonable grounds for believing that—
-    (i) there is an organised criminal enterprise; and
-    (ii) any member of that organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of the continuing course of criminal conduct planned, organised, or undertaken by members of that enterprise; and
+  (a) there are reasonable grounds for believing either—
+    (i) that a person has committed, or is committing, an offence under section 98A(1); or
+    (ii) that—
+      (A) there is an organised criminal enterprise; and
+      (B) a member of the organised criminal enterprise is planning, participating in, or committing, or has planned, participated in, or committed, criminal offences of which at least 1 is a specified offence, as part of a continuing course of criminal conduct planned, organised, or undertaken by members of the enterprise; and
   (b) there are reasonable grounds for believing that evidence relevant to the investigation of the case will be obtained through the use of an interception device to intercept private communications; and
   (c) whichever of the following is applicable:
     (i) other investigative procedures and techniques have been tried but have failed to facilitate the successful conclusion of the Police investigation of the case; or
@@ -2840,7 +2847,7 @@ Every one who is accessory after the fact to any crime punishable by imprisonmen
 (1) Every interception warrant shall be issued in the prescribed form, and shall—
   (a) state the offence or offences in respect of which the warrant is granted; and
   (b) state,—
-    (i) in the case of a warrant granted under section 312C, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise; or
+    (i) in the case of a warrant granted under section 312C, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility believed to be used for any purpose by any member of the organised criminal enterprise or by the person who is believed to have committed, or be committing, an offence under section 98A(1) (as the case may be); or
     (ii) in the case of a warrant granted under section 312CB, the name and address of the suspect, if known, whose private communications may be intercepted or, if the suspect's name and address are not known, the premises, place, thing, or type of facility in respect of which private communications may be intercepted, being premises or a place, thing, or type of facility believed to be used for any purpose by any person—
       (A) whom it is believed has committed or is committing or is about to commit a serious violent offence; or
       (B) whom it is believed was involved or is involved or will be involved in the commission of a serious violent offence; and
@@ -2901,6 +2908,7 @@ Every interception warrant shall have effect, according to its terms, to authori
   (a) the commission of a specified offence or a conspiracy to commit such an offence; or
   (b) the commission of a serious violent offence or a conspiracy to commit such an offence; or
   (c) a drug dealing offence or a prescribed cannabis offence (as those terms are defined in section 10 of the Misuse of Drugs Amendment Act 1978),—
+(1A) In subsection (1), proceedings includes proceedings under sections 142A to 142Q of the Sentencing Act 2002 and any proceedings under the Criminal Proceeds (Recovery) Act 2009.
 (2) Nothing in subsection (1) shall apply to—
   (a) any record of any information adduced in proceedings in any court, or (in any case where the defendant pleads guilty) of any record of any information that, in the opinion of the Judge to whom the report referred to in subsection (3) is made, would have been adduced had the matter come to trial:
   (b) any record of any information contained in any transcript or written statement given to any person in accordance with section 312L(a).
@@ -2943,7 +2951,8 @@ Even if the communication was intercepted under an interception warrant or an em
   (f) a conspiracy to commit a serious violent offence; or
   (g) a drug dealing offence (as that term is defined in section 10 of the Misuse of Drugs Amendment Act 1978); or
   (h) a prescribed cannabis offence (as that term is defined in section 10 of the Misuse of Drugs Amendment Act 1978); or
-  (i) offences of 2 or more of those kinds.
+  (i) offences of 2 or more of those kinds specified in paragraphs (a) to (h); or
+  (j) an offence specified in paragraphs (a) to (h) and the evidence is relevant to a proceeding under the Criminal Proceeds (Recovery) Act 2009 or a proceeding under sections 142A to 142Q of the Sentencing Act 2002.
 
 ### 312O Privileged evidence
 Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of—such evidence shall remain privileged and shall not be given in any court, except with the consent of the person entitled to waive that privilege.
