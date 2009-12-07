@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2009-12-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1634,7 +1634,7 @@ Capital losses amount: company existing before 1 April 1988
   (a) the amount of the capital gains item in the formula in subsection (1) to the extent derived after 31 March 1988; and
   (b) the amount of the capital property distributed item, minus the amount of the cost item, in the formula.
 Related person transactions
-(11) No capital gain amount is derived or capital loss amount is incurred by a company after 31 March 1988 on disposing of property under an arrangement with a related person. This subsection is overridden by subsection (12).
+(11) No capital gain amount is derived or capital loss amount is incurred by a company after 31 March 1988 on disposing of property under an arrangement with a related person. This subsection is overridden by subsections (7)(c) and (12).
 Close companies liquidations
 (12) Subsection (11) does not apply if—
   (a) the company is a close company; and
@@ -1898,8 +1898,8 @@ Income
 Some definitions
 (2) In this section,—
   - **accident compensation payment** means—
-    (a) a payment under the Accident Compensation Act 1982 of earnings-related compensation that is not recovered or recoverable by, or refunded to, to the chief executive of the administering department:
-    (b) a payment under section 80(4) of the Accident Compensation Act 1982 that is not recovered or recoverable by, or refunded to, to the chief executive of the administering department:
+    (a) a payment under the Accident Compensation Act 1982 of earnings-related compensation that is not recovered or recoverable by, or refunded to, the chief executive of the administering department:
+    (b) a payment under section 80(4) of the Accident Compensation Act 1982 that is not recovered or recoverable by, or refunded to, the chief executive of the administering department:
     (c) a payment of any of the following kinds under the Accident Rehabilitation and Compensation Insurance Act 1992, none of which is recovered or recoverable:
       (i) a vocational rehabilitation allowance under section 25; or
       (ii) compensation for loss of earnings under any of sections 38, 39, and 43; or
@@ -5105,7 +5105,7 @@ No deduction
   (a) input tax on a supply of goods or services to them:
   (b) goods and services tax (GST) payable by them to the Commissioner.
 Deduction
-(2) A registered person is allowed a deduction for output tax on a supply of goods or services that section 21 or 21I(1) to 21I(3) of the Goods and Services Tax Act 1985 treats them as making, but only to the extent to which—
+(2) A registered person is allowed a deduction for output tax on a supply of goods or services that section 21 or 21I(1) to (3) of the Goods and Services Tax Act 1985 treats them as making, but only to the extent to which—
   (a) they are allowed a deduction for expenditure that they incur in acquiring or producing the goods or services; or
   (b) they are allowed a deduction for an amount of depreciation loss for the goods or services.
 Exclusion
@@ -5560,13 +5560,17 @@ Link with subpart DA
 Deduction
 (1) A person is allowed a deduction for expenditure they incur on research or development. This subsection applies only to a person described in any of subsections (2) to (5) and does not apply to the expenditure described in subsection (6).
 Person recognising expenditure as expense
-(2) Subsection (1) applies to a person who recognises the expenditure as an expense for financial reporting purposes under paragraph 68(a) of the reporting standard, applying, for the purposes of that paragraph, paragraphs 54 to 67 of the reporting standard.
+(2) Subsection (1) applies to a person who recognises the expenditure as an expense for financial reporting purposes—
+  (a) under paragraph 5.1 or 5.2 of the old reporting standard or because paragraph 5.4 of that standard applies; or
+  (b) under paragraph 68(a) of the new reporting standard applying, for the purposes of that paragraph, paragraphs 54 to 67 of that standard.
 Person not recognising expenditure as asset
 (3)
 Person recognising expenditure otherwise
 (4) Subsection (1) also applies to a person who—
   (a) recognises the expenditure as an expense for financial reporting purposes because it is an amount written off as an immaterial amount for financial reporting purposes; and
-  (b) would be required, if the expenditure were material, to recognise it for financial reporting purposes under paragraph 68(a) of the reporting standard, applying, for the purposes of that paragraph, paragraphs 54 to 67 of the reporting standard.
+  (b) would be required, if the expenditure were material, to recognise it for financial reporting purposes—
+    (i) under paragraph 5.1 or 5.2 of the old reporting standard or because paragraph 5.4 of that standard applies; or
+    (ii) under paragraph 68(a) of the new reporting standard applying, for the purposes of that paragraph, paragraphs 54 to 67 of that standard.
 Person with minor expenditure
 (5) Subsection (1) also applies to a person who—
   (a) incurs expenditure of $10,000 or less, in total, on research and development in an income year; and
@@ -5597,7 +5601,8 @@ Link with subpart DA
 Definitions
 (1) In this section, and in section DB 34,—
   - **development** is defined in paragraph 8 of the reporting standard
-  - **reporting standard** means the New Zealand Equivalent to International Accounting Standard 38, approved by the Accounting Standards Review Board, as amended from time to time, or an equivalent standard issued in its place
+  - **new reporting standard** means the New Zealand Equivalent to International Accounting Standard 38, approved by the Accounting Standards Review Board, and as amended from time to time or an equivalent standard issued in its place
+  - **old reporting standard** means Financial Reporting Standard No 13 1995 (Accounting for Research and Development Activities) being the standard approved under the Financial Reporting Act 1993, or an equivalent standard issued in its place, that applies in the tax year in which the expenditure is incurred
   - **research** is defined in paragraph 8 of the reporting standard.
 Meaning of research or development: modification by Order in Council
 (2) The Governor-General may make an Order in Council specifying—
@@ -6226,7 +6231,7 @@ Death, accident, sickness, redundancy, or retirement at normal retiring age
   (a) the trustee to transfer the shares to the legal representative of the employee’s estate or to the former employee; or
   (b) at the option of the legal representative or former employee, the trustee to buy the shares at their market value on the date of purchase, subject to the repayment of any outstanding loan under the scheme for the shares.
 Employment ends for other reason
-(4) If the period of restriction ends because the employee ends their employment for any reason other than one described in subsection (3), the scheme must provide for the trustee to buy the shares at their market value on the date on which the employee ends their employment, subject to the repayment of any outstanding loan under the scheme for the shares.
+(4) If the period of restriction ends because the employee ends their employment for any reason other than a reason described in subsection (3), the scheme must provide for the trustee to buy the shares at their market value on the date on which the employee ends their employment, subject to the repayment of any outstanding loan under the scheme for the shares.
 Purchase price when trustee buys shares
 (5) If the trustee buys the shares when the period of restriction ends, the scheme must provide for the purchase price to be no more than the price paid for the shares by the employee.
 
@@ -7116,22 +7121,26 @@ Transfers between associated persons
 Limit on deduction for transferor
 (4) The deduction that the transferor is allowed for the cost of the timber, right to take timber, or standing timber must not be more than the amount of the income.
 Transferee’s deduction
-(5) The deduction that the transferee is allowed for the cost of acquiring the timber is calculated on the basis that the transferee acquired the timber of the total of—
+(5) The deduction that the transferee is allowed for the cost of acquiring the timber is calculated on the basis that the transferee acquired the timber for the total of—
   (a) the cost to the transferee of acquiring the timber; and
   (b) the amount, if any, for which the transferor is denied a deduction under subsection (4).
 
 ### DP 11 Cost of timber
 When this section applies
-(1) This section applies when—
-  (a) an amount of cost of some timber is treated by a person under generally accepted accounting practice as a cost of the timber for the person and reported accordingly for financial reporting purposes; and
-  (b) in the absence of section DB 46 (Avoiding, remedying, or mitigating effects of discharge of contaminant), no other provision of this Act would allow the person a deduction for the amount; and
-  (c) an amount derived by the person from disposing of the timber would be income of the person under section CB 24 (Disposal of timber or right to take timber) or CB 25 (Disposal of land with standing timber).
+(1) This section applies when a person—
+  (a) derives an amount on the disposal of timber and the amount is income of the person under section CB 24 (Disposal of timber or right to take timber) or CB 25 (Disposal of land with standing timber); and
+  (b) has incurred expenditure in relation to the timber that is a cost of timber.
 Deduction
-(2) The person is allowed a deduction for the amount.
-Timing of deduction: trading stock
-(3) If the amount is a cost of trading stock, the deduction is allocated to the income year in which the timber first becomes trading stock of the person.
-Timing of deduction: not trading stock
-(4) If the amount is not a cost of trading stock, the deduction is allocated by section EA 2 (Other revenue account property).
+(2) The person is allowed a deduction for the amount that is a cost of timber.
+Timing of deduction
+(3) The deduction is allocated—
+  (a) for timber harvested from the land before the time of disposal, to the income year in which the timber first becomes trading stock of the person; or
+  (b) otherwise, by section EA 2 (Other revenue account property).
+Meaning of timber
+(4) In this section, timber includes—
+  (a) the creation or grant of a right to take timber:
+  (b) the grant of a licence or an easement in relation to timber:
+  (c) the creation of a forestry right as defined in section 2 of the Forestry Rights Registration Act 1983, other than a right in favour of the proprietor in relation to establishing, maintaining, and harvesting timber.
 Link with subpart DA
 (5) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
 
@@ -7227,7 +7236,7 @@ Exclusion
   (a) the person operates a television station, a television network, or a cable television system, and the film right is acquired mainly to enable the film to be broadcast in New Zealand; or
   (b) the film is intended to be shown as an advertisement; or
   (c) the expenditure is film production expenditure; or
-  (c) section DS 2B applies to the expenditure.
+  (d) section DS 2B applies to the expenditure.
 Timing of deduction
 (3) The deduction is allocated under section EJ 4 (Expenditure incurred in acquiring film rights in feature films) or EJ 5 (Expenditure incurred in acquiring film rights in films other than feature films).
 No other deduction
@@ -7584,7 +7593,7 @@ What this section does
 (1) This section applies when a mining company acquires an asset by incurring mining exploration expenditure or mining development expenditure. It describes the consideration that the mining company is treated as giving for the asset and the consideration that the person who disposes of the asset to the mining company is treated as receiving for it.
 Consideration in various cases
 (2) The consideration is,—
-  (a) in a case other than one described in any of subsections (3) to (6), the consideration that the company incurs for the acquisition of the asset:
+  (a) in a case other than a case described in any of subsections (3) to (6), the consideration that the company incurs for the acquisition of the asset:
   (b) in the case described in subsection (3), the consideration specified in the subsection for the acquisition of the asset:
   (c) in the case described in subsection (4), the consideration specified in the subsection for the acquisition of the asset:
   (d) in the case described in subsection (5), the consideration specified in subsection (6) for the acquisition of the asset.
@@ -11198,7 +11207,9 @@ The amount of a tax credit to which a person is entitled under section EH 30 is 
 
 ### EH 34 Meaning of income from forestry
 Income
-(1) Income from forestry means income derived from either or both of the sales described in subsection (2) in the circumstances described in subsection (3).
+(1) Income from forestry—
+  (a) means income derived from either or both of the sales described in subsection (2) in the circumstances described in subsection (3):
+  (b) includes PFSI forestry income.
 Sales
 (2) The sales are—
   (a) the sale of timber:
@@ -11737,7 +11748,7 @@ When this section applies
     (i) at the time the money was lent, if it was lent during the lender’s current income year; or
     (ii) at the end of the lender’s previous income year, if it was lent before the lender’s current income year.
 Increase treated as credited
-(2) If the difference is an increase, the increase is treated as having been credited in account and capitalised by the borrower for the benefit of the lender on— This subsection is overridden by subsection (3).
+(2) If the difference is an increase, the increase is treated as having been credited in account and capitalised by the borrower for the benefit of the lender on—This subsection is overridden by subsection (3).
   (a) the day following the day on which the level of the relevant index at the end of the lender’s current income year becomes public knowledge; or
   (b) if the level of the relevant index is not calculated for the end of the lender’s current income year, the last date before the end of the income year for which the level is calculated.
 Increase not treated as credited
@@ -12817,10 +12828,10 @@ General IFRS rules
   (b) Determination G14B: Forward contracts for foreign exchange and commodities: an expected value approach:
   (c) Determination G27: Swaps:
   (d) a determination made by the Commissioner under section 90AC(1)(bb) of the Tax Administration Act 1994:
-  (e) a method other than those set out in paragraphs (a) to (d) if the alternative—
+  (e) a method other than those set out in paragraphs (aa) to (d) if the alternative—
     (i) has regard to the purposes of the financial arrangements rules under section EW 1(3); and
-    (ii) is for a financial arrangement similar to 1 to which the methods set out in paragraphs (a) to (d) may apply; and
-    (iii) results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using 1 of the methods set out in paragraphs (a) to (d).
+    (ii) is for a financial arrangement similar to 1 to which the methods set out in paragraphs (aa) to (d) may apply; and
+    (iii) results in the allocation to each income year of amounts that are not materially different from those that would have been allocated using 1 of the methods set out in paragraphs (aa) to (d).
 Modifications
 (3) For a determination alternative that is Determination G9C or G14B, the allocation is modified as follows:
   (a) the term forward contract is treated as including a conditional or unconditional agreement to pay or be paid an amount calculated by reference to the price of property or services, without the property being delivered or the services being performed:
@@ -13058,9 +13069,9 @@ Exception
   (a) the new method is available to them to use; and
   (b) the accounting treatment for the financial arrangement under IFRSs is changed in the same income year in which the method is changed for tax purposes.
 Spreading method adjustment
-(3) For the purposes of subsection (2), section EW 26(3), (4), and EW 27 apply as if the change in method were a change under section EW 26(2). However, those sections do not apply if the change is—
-  (a) from the fair value method; and
-  (b) in respect of a financial arrangement that is not subject to a creditor workout.
+(3) For the purposes of subsection (2), section EW 26(3), (4), and EW 27 apply as if the change in method were a change under section EW 26(2). However, those sections do not apply if the change—
+  (a) is from the fair value method; and
+  (b) relates to a financial arrangement that is not subject to a creditor workout.
 Modification
 (4) Section EZ 52B (Consistency of use of IFRS method: Determination G3 change allowed) modifies subsection (2).
 
@@ -14050,7 +14061,7 @@ Gross
     (ii) owned by the CFC or by another CFC that is associated with the CFC; and
     (iii) not a mobile telephone handset or a radio receiver and transmitter for a ship or aircraft:
   (n) income from a telecommunications service to the extent to which the service is physically performed in New Zealand and is not described in subsection (11).
-Arrangement income
+Arrangement
 (4) Arrangement is the total for the CFC and the accounting period of amounts of income under section CC 3 (Financial arrangements) for—
   (a) an arrangement that—
     (i) is a financial arrangement, or a short-term agreement for sale and purchase for which the CFC has made an election under section EW 8 (Election to treat certain excepted financial arrangements as financial arrangements); and
@@ -14059,7 +14070,7 @@ Arrangement income
   (b) a derivative instrument—
     (i) that is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
     (ii) that is not entered in the ordinary course of a business of the CFC:
-    (iii) to the extent that the income is from a hedging relationship, of a type referred to in NZIAS 39, with income of the CFC referred to in subsection (3) or paragraph (a) or with a transaction producing such income of the CFC.
+    (iii) to the extent to which the income is from a hedging relationship, of a type referred to in NZIAS 39, with income of the CFC referred to in subsection (3) or paragraph (a) or with a transaction producing such income of the CFC.
 Attributable CFC amount: royalties
 (5) A royalty derived by a CFC is included in an attributable CFC amount under subsection (3)(d) if none of the following are satisfied:
   (a) the CFC is regularly engaged in creating, developing, or adding value to property that produces royalties and the royalty is—
@@ -14116,9 +14127,9 @@ Exclusions from attributable CFC amount: shares
 Exclusions from attributable CFC amount: telecommunications services in New Zealand
 (11) Income of a CFC from a telecommunications service physically performed in New Zealand is not included in an attributable CFC amount under subsection (3)(n) if—
   (a) the service is the transmission, emission, or reception of information between New Zealand and the country or territory in which the CFC is liable to income tax on its income because of its domicile, residence, place of incorporation, or centre of management; and
-  (b) the CFC is a network operator under the Telecommunications (Interception Capability) Act 2004 or—
-    (i) a person who is such a network operator holds an income interest of 50% or more in the CFC:
-    (ii) a person who holds a voting interest of 50% or more in such a network operator holds an income interest of 50% or more in the CFC; and
+  (b) the CFC is a network operator under the Telecommunications (Interception Capability) Act 2004 (a network operator), or—
+    (i) a group of persons has, for the whole of the CFC's accounting period, voting interests and, if a market circumstance exists, market value interests, of more than 50% in the CFC; and
+    (ii) the group of persons also has, for the whole of the CFC's accounting period, voting interests and, if a market value circumstance exists, market value interests, of more than 50% in a network operator; and
   (c) the service is not performed using equipment that at the time is physically located in New Zealand and is in the possession of the CFC or of another CFC that is associated with the CFC; and
   (d) the service is not performed by a person who at the time is physically located in New Zealand and is an employee or contractor of the CFC or of another CFC that is associated with the CFC.
 Exclusions from attributable CFC amount: income from financial arrangements other than derivative instruments
@@ -14174,7 +14185,7 @@ Definition of items in formula
   (b) funding is the total amount of outstanding balances for financial arrangements referred to in subsection (7)(a) and of shares referred to in subsection (7)(b):
   (c) group funding is the lesser of the item funding and the total amount of outstanding balances for financial arrangements—
     (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies with common control); and
-    (ii) which produce for the CFC an amount included in the item arrangement income under section EX 20B(4).
+    (ii) which produce for the CFC an amount included in the item arrangement under section EX 20B(4).
 Financial arrangements and shares contributing to funding costs
 (7) A financial arrangement to which a CFC is a party, or a share issued by the CFC, contributes to the item funding costs under subsection (6)(a) for the CFC if it is—
   (a) a financial arrangement that provides funds for the CFC:
@@ -14234,7 +14245,7 @@ Group funding
   (a) if paragraph (b) does not apply, zero; or
   (b) if the interest holder chooses to rely on this paragraph and the item total CFC's assets is greater than the item total CFC's debts, the lesser of the item total CFC's debts and the total amount of outstanding balances for financial arrangements—
     (i) under which the CFC provides funds to another CFC associated with the CFC under section YB 2 (Two companies with common control); and
-    (ii) which produce for the CFC an amount included in the item arrangement income under section EX 20B(4).
+    (ii) which produce for the CFC an amount included in the item arrangement under section EX 20B(4).
 Total CFC's assets
 (8) Total CFC's assets is the total value of the CFC's assets determined under generally accepted accounting practice.
 Fraction for excessively debt funded CFC
@@ -14537,7 +14548,7 @@ Attributable adjustments
   (a) if the interest holder chooses that this paragraph apply, income derived from the supply of personal services—
     (i) included in an attributable CFC amount under section EX 20B(3)(h); and
     (ii) not included in an attributable CFC amount under another paragraph of section EX 20B(3) and (4):
-  (b) if the interest holder chooses that this paragraph apply, the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, that—
+  (b) if the interest holder chooses that this paragraph apply, the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, to which—
     (i) the cost is treated as a deduction of the CFC in the accounting period; and
     (ii) the deduction exceeds the amount of any income under subpart CH (Adjustments) relating to the deduction.
 Gross
@@ -14605,7 +14616,7 @@ Reported passive
   (g) income or loss from a derivative instrument, as defined in NZIAS 39, and included in the CFC's statement of income—
     (i) if the instrument is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
     (ii) if the instrument is not entered in the ordinary course of a business of the CFC:
-    (iii) to the extent that the income or loss is from a hedging relationship, of a type referred to in NZIAS 39, with an amount that would change the numerator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
+    (iii) to the extent to which the income or loss is from a hedging relationship, of a type referred to in NZIAS 39, with an amount that would change the numerator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
   (h) income or gains from a business of insurance, including income or gains from property used to back insurance assets.
 Added passive
 (8) Added passive is the total of amounts not included in the item reported passive for the accounting period that are 1 or more of the following:
@@ -14620,7 +14631,7 @@ Removed passive
   (a) a dividend that is not included in the attributable CFC amount for the accounting period under section EX 20B(3)(a) to (c):
   (b) a royalty that would be included in the attributable CFC amount for the accounting period but for section EX 20B(5)(a) to (d):
   (c) rent that would be included in the attributable CFC amount for the accounting period but for section EX 20B(7)(a) to (c):
-  (d) the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, that—
+  (d) the cost of revenue account property producing an amount (the included amount) included in the attributable CFC amount under section EX 20B(3)(k) to the extent, not exceeding the included amount, to which—
     (i) the cost would be a deduction of the CFC in the accounting period if the CFC were a resident of New Zealand; and
     (ii) the deduction would exceed the amount of any income arising under subpart CH (Adjustments) relating to the deduction.
 Reported revenue
@@ -14636,7 +14647,7 @@ Reported revenue
   (d) a gain or loss from a derivative instrument, as defined in NZIAS 39, and included in the CFC's statement of income—
     (i) if the derivative instrument is held in the course of a business of the CFC for the purpose of dealing with the derivative instrument:
     (ii) if the derivative instrument is not entered in the ordinary course of a business of the CFC:
-    (iii) to the extent that the gain or loss is from a hedging relationship, of a type referred to in NZIAS 39, with an amount that would change the denominator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
+    (iii) to the extent to which the gain or loss is from a hedging relationship, of a type referred to in NZIAS 39, with an amount that would change the denominator of the formula in subsection (5) or with a transaction producing such an amount of income or gain:
   (e) income or a gain from a business of insurance, including from property used to back insurance assets, if the applicable accounting standard is not generally accepted accounting practice without IFRS.
 Added revenue
 (11) Added revenue is zero if the interest holder does not choose to include an amount for this item or is the total of amounts that are not included in the item reported revenue for the accounting period and are either or both of the following:
@@ -14833,7 +14844,7 @@ Exemption
     (i) is between Australia and that other country; and
     (ii) would be a double tax agreement if negotiated between New Zealand and that other country; and
   (e) the unit trust is, at all times in the year, not an entity described in schedule 25, part B (Foreign investment funds); and
-  (f) at all times in the year when the unit trust makes a distribution to investors, there is an RWT proxy under section 15T of the Tax Administration Act 1994 for the unit trust and payments by the unit trust to the person; and
+  (f) at all times in the year when the unit trust makes a distribution to investors, there is an RWT proxy under section 15N of the Tax Administration Act 1994 for the unit trust and payments by the unit trust to the person; and
   (g) for the trust's accounting year (the trust's year) that ends in the person's income year, the unit trust meets—
     (i) the 25% minimum share turnover test in subsection (2):
     (ii) the 70% minimum distribution test in subsection (7).
@@ -15147,10 +15158,10 @@ Certain non-ordinary shares
   (a) a fixed-rate foreign equity:
   (b) a non-participating redeemable share:
   (c) an interest in a non-resident holding directly or indirectly assets of which 80% or more by value at a time in the income year—
-    (i) consist of fixed-rate shares, or financial arrangements providing funds to a person; and
+    (i) consist of fixed-rate foreign equities, or financial arrangements providing funds to a person; and
     (ii) are denominated in New Zealand dollars or, under NZIAS 39, are hedged items having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
   (cb) an interest in a non-resident if––
-    (i) the non-resident holds directly or indirectly assets of which 80% or more by value at a time in the income year consist of fixed-rate shares or financial arrangements providing funds to a person ignoring financial arrangements between the non-resident and other members of a group of companies that it is a member of; and
+    (i) the non-resident holds directly or indirectly assets of which 80% or more by value at a time in the income year consist of fixed-rate foreign equities or financial arrangements providing funds to a person ignoring financial arrangements between the non-resident and other members of a group of companies that it is a member of; and
     (ii) the non-resident is not listed on a recognised exchange or is listed on a recognised exchange but is a foreign investment vehicle, ignoring section HL 10(4) (Further eligibility requirements relating to investments) for the purposes of this subparagraph; and
     (iii) the interest is, under NZIAS 39, a hedged item having a value in New Zealand dollars governed by a hedging instrument that is highly effective:
   (d) a share that involves an obligation—
@@ -15203,7 +15214,7 @@ Income interest
   (b) sections EX 16 and EX 17:
   (c) section EX 26, unless the person chooses to apply subsection (6).
 Election to measure on 31 March only
-(6) In order to simplify the process of calculating the person’s income interest, the person may choose to be treated as holding, at all times during a tax year, the same interest, including a zero one, that they held at the end of the tax year. The person makes the election by completing their return of income accordingly for the relevant income year.
+(6) For an income interest that the person has held for more than 12 months, the person may follow a simplified calculation process by choosing to be treated as holding, at all times in the income year, the same interest, including zero interest, that they held at the end of the income year. The person makes the election by completing their return of income accordingly for the relevant income year.
 Election irrevocable
 (7) An election under subsection (6) is—
   (a) irrevocable and applies to the person and all their attributing interests in the FIF in later years; and
@@ -17672,7 +17683,7 @@ When this section applies
     (ii) the person notifies the Commissioner in writing of their election to apply this section to the financial arrangement for the relevant income year before the last day for filing a return of income for that income year.
 Exception modified
 (2) For the purposes of the exception in section EW 25B(2) (Consistency of use of IFRS method), the person may change a method for IFRS for the financial arrangement if—
-  (a) the method they change to or from is Determination G3 under section EW 15E(2)(aa) (Determination alternatives); and
+  (a) the method they change to or from is Determination G3 under section EW 15E(2)(aa) (Determination alternatives) or an alternative to Determination G3 under section EW 15E(2)(e) (What is included when spreading methods used); and
   (b) that method is available to them to use.
 
 ## Part F — Recharacterisation of certain transactions
@@ -20628,6 +20639,8 @@ Treatment of certain dividends
   (a) has no net income for the tax year in which it pays the dividend other than income attributed under this section, ignoring interest income that is incidental to the company's business; and
   (b) is not a qualifying company; and
   (c) chooses to have the dividend treated as if it were paid by a qualifying company.
+Cancellation of notional imputation credits
+(5) For the purposes of subsection (4), to the extent to which the dividend paid by the company would have had an imputation credit attached that arose under section OB 16 (ICA attribution for personal services) in the absence of the election made under subsection (4)(c), the credit is treated as cancelled immediately before it would have been attached under sections HA 14 to HA 19 (which relate to dividends paid by qualifying companies).
 
 ### GB 28 Interpretation of terms used in section GB 27
 When this section applies
@@ -21507,7 +21520,7 @@ Non-cash dividends
 A tax loss of an LAQC is treated as a loss incurred by the shareholders of the company under sections HA 24 to HA 27.
 
 ### HA 21 Loss balances not carried forward
-In an income year in which a company that is not a qualifying company becomes a qualifying company, subparts IA and IQ (which relate to the treatment of foreign losses) do not apply to carry forward a loss balance of the company to the income year or to later income years.
+In an income year in which a company that is not a qualifying company becomes a qualifying company, subparts IA (General rules for tax losses) and IQ (Attributed controlled foreign company net losses and foreign investment fund net losses) do not apply to carry forward a loss balance of the company to the income year or to later income years.
 
 ### HA 22 Group companies using tax losses
 When this section applies
@@ -21827,17 +21840,21 @@ Statutory amounts treated as derived
 Meaning
 (1) An amount of income derived in an income year by a trustee of a trust is beneficiary income to the extent to which—
   (a) it vests absolutely in interest in a beneficiary of the trust in the income year; or
-  (b) it is paid to a beneficiary of the trust in the income year, or within 6 months after the end of the income year.
+  (b) it is paid to a beneficiary of the trust in the income year or by the date after the end of the income year referred to in subsection (1B).
+Date by which income must be allocated
+(1B) The date referred to in subsection (1)(b) is the later of the following:
+  (a) a date that falls within 6 months of the end of the income year; or
+  (b) the earlier of—
+    (i) the date on which the trustee files the return of income for the income year; or
+    (ii) the date by which the trustee must file a return for the income year under section 37 of the Tax Administration Act 1994.
 Exclusions
 (2) Beneficiary income does not include—
   (a) an amount of income derived by a trustee of a trust in an income year in which the trust is a superannuation fund; or
   (b) an amount of income derived by a trustee that is income to which sections CC 3(2) (Financial arrangements) and EW 50 (Income when debt forgiven to trustee) apply.
-When subsection (4) applies
-(3) Subsection (4) applies when—
-  (a) a trustee is a person with a non-standard income year; and
-  (b) an amount derived by the trustee in the income year is also beneficiary income.
+Deriving beneficiary income in same year
+(3) When an amount derived by a trustee in an income year is also beneficiary income, the beneficiary is treated as having derived the income in the same tax year as that corresponding to the trustee's income year.
 Deriving beneficiary income in same year as trustee
-(4) The beneficiary is treated as having derived the beneficiary income during the same tax year as that corresponding to the trustee’s income year.
+(4)
 
 ### HC 7 Trustee income
 Meaning
@@ -22125,6 +22142,10 @@ Trusts for retirement benefits for employees
 (3) Despite subsection (2), a person resident in New Zealand who makes a settlement on a trust as an employer for the benefit of 1 or more employees is not a settlor of the trust if the following circumstances apply:
   (a) the trust is established or created mainly to provide retirement benefits to natural persons; and
   (b) the trust is neither a foreign superannuation scheme nor a superannuation fund.
+Employee share purchase agreements
+(3B) Despite subsection (2), an employer is not a settlor for the purposes of the trust rules in relation to a payment made by them to the trustee of an employee share purchase agreement if—
+  (a) some or all of the payment is used by the trustee to acquire shares under the terms of the employee share purchase agreement; and
+  (b) an amount that is less than or equal to the payment used by the trustee would be income of an employee under section CE 1(d).
 Indirect settlement
 (4) A person may make the transfer or provision in subsection (2) directly or indirectly, or by 1 transaction or a number of transactions, whether connected or otherwise.
 Nil value of beneficiary relationship
@@ -23344,6 +23365,12 @@ Election
   (d) satisfies the Commissioner that the company would apply to become a listed company if it were to obtain the required consents.
 Election effective for 2 years
 (2) A company that makes an election under subsection (1) stops being a portfolio listed company from the last day of the period of 2 years from the date on which the election takes effect, if the company is not listed on a recognised exchange in New Zealand on that day.
+Extension in certain cases
+(3) Despite subsection (2), a company that makes an election under subsection (1) does not stop being a portfolio listed company from the last day of the period of 2 years from the date on which the election takes effect if—
+  (a) the company has met the requirements of subsection (1)(b) and (c) before 2 July 2009; and
+  (b) a period of 4 years from the date on which the election takes effect has not expired.
+Further extension granted by Commissioner
+(4) Despite subsections (2) and (3), the Commissioner may grant a further extension of time if it is reasonable in the circumstances.
 
 ### HL 13 Becoming portfolio investment entity
 Requirement for effective election
@@ -24039,6 +24066,24 @@ Initial basis
 Initial basis not less than zero
 (3) If the application of sections HG 11 and HG 12, as modified by this section, calculates a partner’s basis as less than zero, then the partner’s basis is treated as being zero.
 
+### HZ 7 Saving of binding rulings relating to settlements on trusts
+When, and extent to which, this section applies
+(1) This section applies when, and to the extent to which,—
+  (a) before the commencement of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009—
+    (i) an applicant has applied for a binding ruling on an arrangement that is entered into, or that the applicant seriously contemplates will be entered into, before the commencement of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009:
+    (ii) a binding ruling is issued; and
+  (b) the binding ruling is about a provision of the Income Tax Act 2004 on the question of whether an amount is a settlement on a trust; and
+  (c) the binding ruling—
+    (i) is made before or after the commencement of this Act and continues to exist at the commencement of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009; and
+    (ii) is made in relation to a provision of the Income Tax Act 2004 to which section ZA 4 (Saving of binding rulings) of this Act would have applied but for the intended change listed in schedule 51 (Identified changes in legislation) for section HC 27(2) (Who is a settlor?); and
+  (d) in the absence of this section, the commencement of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 would mean that the binding ruling would cease to apply because of section 91G of the Tax Administration Act 1994.
+Ruling about new law
+(2) The binding ruling continues to exist despite the intended change referred to in subsection (1)(c)(ii) from the commencement of this Act to the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent.
+No confirmation rulings
+(3) To the extent to which a binding ruling continued by subsection (2) exists and applies to an arrangement, or to a person and an arrangement, the Commissioner must not make a binding ruling in the period that starts on the date of the commencement of this Act and ends on the date on which the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 receives the Royal assent on how—
+  (a) the new law applies to the arrangement or to the person and the arrangement; or
+  (b) this subsection applies to the arrangement or to the person and the arrangement.
+
 ## Part I — Treatment of tax losses
 
 ### Subpart IA — General rules for tax losses
@@ -24052,7 +24097,7 @@ This subpart—
 What is a tax loss?
 (1) A person’s tax loss for a tax year is found by adding together the amounts referred to in subsections (2) to (4).
 Loss balances carried forward
-(2) If the person has a loss balance carried forward to the tax year, the amount is included in their tax loss for the tax year to the extent to which it is not subtracted from their net income for the tax year.
+(2) If the person has a loss balance carried forward under section IA 3(4) to the tax year, the amount is included in their tax loss for the tax year to the extent to which it is not subtracted under section IA 4(1)(a) from their net income for the tax year.
 Net losses
 (3) If the person has a net loss under section BC 4 (Net income and net loss) for the tax year, the amount is a tax loss component included in their tax loss for the tax year.
 Additional amounts
@@ -24060,18 +24105,22 @@ Additional amounts
   (a) a member fund that incurs excess expenditure:
     (i) the amount that is included in the tax loss under section DV 5(4)(b) (Investment funds: transfer of expenditure to master funds); and
     (ii) the amount that the fund chooses under section DV 7(2) (Carry forward of expenditure) to treat as an amount added to the tax loss under this section:
-  (b) a person whose imputation credits are included in their annual gross income for the tax year: the amount of converted imputation credits arising under section LE 1 (Tax credits for imputation credits) for the tax year:
-  (c) a person who has an unallocated deduction for the payment of a supplementary dividend in the corresponding income year: the amount referred to in section LP 10 (Limitation on deductions) for the tax year:
-  (d) a company (company A) if an Australian ICA company has chosen under section OB 69(5) (Further income tax paid satisfying liability for income tax) to have a payment treated as a tax loss component of company A: the payment referred to in section OB 69(5) for the tax year:
-  (e) a person who has an unused attributed controlled foreign company (CFC) net loss for the corresponding income year: the amount referred to in section IQ 2(3) (Ring-fencing cap on attributed CFC net losses) for the corresponding income year:
-  (f) a person who has an unused foreign investment fund (FIF) net loss for the corresponding income year: the amount referred to in section IQ 3 (Ring-fencing cap on FIF net losses) for the corresponding income year:
-  (g) a person with a specified activity net loss for the corresponding income year: the amount referred to in section IZ 1(1) (Use of specified activity net losses) for the corresponding income year.
+  (b) a person whose imputation credits are included in their annual gross income for the tax year: the amount of converted imputation credits arising under section LE 2 (Use of remaining credits by companies and trustees) for the tax year:
+  (c) a person who has an unallocated deduction for the payment of a supplementary dividend in the corresponding income year: the amount referred to in section LP 10(3) (Limitation on deductions) for the tax year:
+  (d) a company (company A) if an Australian ICA company has chosen under section OB 69(5) (Further income tax paid satisfying liability for income tax) to have a payment converted into a tax loss component of company A: the amount calculated under section OB 69(7) for the tax year:
+  (e) a person who has an unused attributed controlled foreign company (CFC) net loss for the tax year: the amount referred to in section IQ 2(3) (Ring-fencing cap on attributed CFC net losses) for the tax year:
+  (f) a person who has an unused foreign investment fund (FIF) net loss for the tax year: the amount referred to in section IQ 3(3) (Ring-fencing cap on FIF net losses) for the tax year:
+  (g) a person with a specified activity net loss for the tax year: the amount referred to in section IZ 1(1) (Use of specified activity net losses) for the tax year.
 Ring-fenced amounts
 (5) This section, and sections IA 3 and IA 4, do not apply to the amounts referred to in section IA 7, which are subject to particular rules in other Parts or subparts that limit the way in which a person may use them.
 Exclusion: net losses from schedular income
-(6) When a person with a schedular income tax liability for a tax year has an amount that would be a net loss for the tax year, if their only income for the tax year were schedular income, the amount is not a net loss under subsection (3) that is included in a tax loss for the tax year.
+(6)
 Meaning of tax loss component
-(7) For the purposes of this Part, a tax loss component means an amount included in a tax loss for a tax year under subsection (3) or (4).
+(7) For the purposes of this subpart, a tax loss component, for a tax year,—
+  (a) means an amount included in a tax loss for the tax year under subsection (3) or (4):
+  (b) includes—
+    (i) an unused amount of a net loss or an amount treated as a net loss or as an available net loss of a person arising before the 2008–09 tax year which the person was entitled to have carried forward under section IE 1 (Net losses may be offset against future net income) of the Income Tax Act 2004 to that tax year:
+    (ii) an amount included in a company's loss balance at the end of the tax year to which sections IZ 4 to IZ 6 (which relate to tax losses for tax years before 1992) apply, or other amounts in relation to which modified continuity rules apply.
 
 ### IA 3 Using tax losses in tax year
 Paying shortfall penalties
@@ -24085,37 +24134,37 @@ Taxable distributions
 (3) The amount of a tax loss for a tax year of a beneficiary of a non-complying trust may be used under section HC 22 (Use of tax losses to reduce taxable distributions from non-complying trusts) to adjust the amount of a taxable distribution derived in the corresponding income year.
 Remaining loss balances carried forward
 (4) If a person has a balance of tax loss remaining for a tax year after the uses described in this section, the balance is carried forward to the next tax year as a loss balance.
-Relationship with sections IA 5 to IA 8
-(5) Sections IA 5 to IA 8 override this section.
+Relationship with other provisions in this subpart
+(5) Sections IA 5, IA 8, and IA 10 override this section.
 
 ### IA 4 Using loss balances carried forward to tax year
 Priority uses
 (1) A person’s loss balance carried forward under section IA 3(4) to a tax year, must—
   (a) first, be subtracted from their net income, so far as it extends, for the tax year; and
-  (b) secondly, to the extent of a remaining loss balance, be included in their tax loss for the tax year.
-Relationship with other provisions
-(2) Sections IA 5 to IA 8 override this section. Section IP 3 (Continuity breach: tax loss components of companies carried forward) modifies this section for a company’s part-year calculations. sections IZ 4 to IZ 6 (which relate to tax losses for earlier tax years) modify this section for certain tax years.
+  (b) secondly, to the extent of a remaining loss balance carried forward under section IA 2(2), be included in their tax loss for the tax year.
+Relationship with other provisions in this subpart
+(2) Sections IA 5 and IA 8 to IA 10 override this section.
 
 ### IA 5 Restrictions on companies’ loss balances carried forward
 General statement
-(1) A company’s tax loss component is carried forward in a loss balance only if the minimum requirements of subsections (2) and (3) are met.
+(1) A company's tax loss component is carried forward in a loss balance only if the minimum continuity requirements of subsections (2) and (3) are met. The tax loss component includes an unused tax loss component carried forward from an earlier income year.
 Continuity of voting interests
 (2) A tax loss component is carried forward in a loss balance under section IA 3(4) only if a group of persons holds for the continuity period minimum voting interests in the company that add up to at least 49%.
 Continuity of market value interests
 (3) If a market value circumstance exists for the company at any time during the continuity period, the group of persons must also hold for the continuity period, minimum market value interests in the company that add up to at least 49%.
 Breach of continuity of ownership in period
-(4) If the requirements of subsection (2) or (3) are not met, section IP 3 (Continuity breach: tax loss components of companies carried forward) applies to determine whether some or all of a tax loss component is carried forward in a loss balance.
+(4) If a tax loss component cannot be carried forward because the requirements of subsections (2) and (3) are not met, the company may apply section IP 3 (Continuity breach: tax loss components of companies carried forward) to determine whether some or all of the tax loss component is carried forward in a loss balance.
 Avoidance arrangements
 (5) Section GB 3 (Arrangements for carrying forward loss balances: companies) may apply to treat a company as not meeting the requirements of subsection (2) or (3).
 Some definitions
 (6) In this section,—
   - **continuity period** means the period of time from the start of the income year that corresponds to the tax year in which a tax loss component is included in the tax loss to the end of the income year that corresponds to the tax year in which the company uses the tax loss component
-  - **minimum market value interest** , for a person and a period, means the lowest market value interest they have in the company during the continuity period
-  - **minimum voting interest** , for a person and a period, means the lowest voting interest they have in the company during the continuity period.
+  - **minimum market value interest** , for a person and a continuity period, means the lowest market value interest they have in the company during the continuity period
+  - **minimum voting interest** , for a person and a continuity period, means the lowest voting interest they have in the company during the continuity period.
 
 ### IA 6 Restrictions on companies grouping tax losses
 Groups of companies
-(1) A company that is part of a group of companies may use a tax loss under subpart IC (Grouping tax losses) only if it meets the requirements of section IC 5 (Company B using company A’s tax loss).
+(1) A company that is part of a group of companies may use under section IA 3(2) a tax loss under subpart IC (Grouping tax losses) only if it meets the requirements of section IC 5 (Company B using company A’s tax loss).
 Consolidated groups
 (2) Subpart ID (Use of tax losses by consolidated groups) applies to the grouping of tax losses by a consolidated group of companies.
 Avoidance arrangements
@@ -24124,8 +24173,10 @@ Avoidance arrangements
 ### IA 7 Restrictions relating to ring-fenced tax losses
 Non-application of sections IA 2 to IA 4
 (1) Sections IA 2 to IA 4 (the general rules) do not apply to an amount referred to in subsections (2) to (8).
+Treatment as tax loss component
+(1B) For the purposes of the application of sections IA 5, IA 6, IA 9, and IA 10, a ring-fenced tax loss under this section is treated as if it were a tax loss component.
 Tax losses of LAQCs
-(2) The general rules do not apply to a loss-attributing qualifying company’s (LAQC) net loss calculated under section BC 4 (Net income and net loss). The provisions that deal with this net loss are sections HA 24 to HA 27 (which relate to tax losses of LAQCs).
+(2) The general rules do not apply in relation to a loss-attributing qualifying company (LAQC) to an amount that would have been a loss balance carried forward under section IA 3(4) in the absence of sections HA 21 and HA 24(5) (which relate to the treatment of losses by LAQCs). The provisions that deal with these losses are sections HA 24 to HA 27.
 Policyholder net losses
 (3) The general rules do not apply to a life insurer’s policyholder net loss under section EY 43(10) (Policyholder income formula). The provision that deals with this net loss is section IT 1 (Life insurers’ policyholder net losses).
 Investment funds’ excess expenditure
@@ -24135,7 +24186,7 @@ Investment funds’ excess expenditure
 Attributed CFC net losses
 (5) The general rules do not apply to an attributed CFC net loss except a surplus under section IQ 2(3) (Ring-fencing cap on attributed CFC net losses). The provisions that deal with this net loss, other than the surplus amount, are sections IQ 2, IQ 4, and IQ 6 to IQ 9 (which relate to foreign losses).
 FIF net losses
-(6) The general rules do not apply to a FIF net loss except a surplus under section IQ 3(3) (Ring-fencing cap on FIF net losses). The provisions that deal with this net loss are sections IQ 3, IQ 5, and IQ 6 to IQ 9.
+(6) The general rules do not apply to a FIF net loss except a surplus amount under section IQ 3(3) (Ring-fencing cap on FIF net losses). The provisions that deal with this net loss are sections IQ 3, IQ 5, and IQ 6 to IQ 9.
 Mining net losses
 (7) The general rules do not apply to a net loss of a mining company, a resident mining operator, or a non-resident mining operator to the extent to which the net loss relates to a mining permit area. The provisions that deal with these net losses are sections IS 1 to IS 4 and IS 6 (which relate to mining companies’ tax losses).
 Petroleum net losses
@@ -24562,7 +24613,7 @@ Meaning of extended return date
 
 ### IQ 1 General treatment
 General statement
-(1) The treatment of amounts of attributed controlled foreign company (CFC) net loss and foreign investment fund (FIF) net loss is dealt with under subpart IA (General rules for tax losses) and in 92 of the Tax Administration Act 1994, as modified by this subpart.
+(1) The treatment of amounts of attributed controlled foreign company (CFC) net loss and foreign investment fund (FIF) net loss is dealt with under sections IA 5, IA 9, and IA 10 (which relate to the continuity rules, the use of losses, and adjustments) and in 92 of the Tax Administration Act 1994, as modified by this subpart.
 When net losses arise
 (2) An attributed CFC net loss or a FIF net loss arises on the last day of the tax year in which the loss is attributed.
 Treatment of net losses by consolidated groups
@@ -24570,11 +24621,14 @@ Treatment of net losses by consolidated groups
 Treatment of net losses on amalgamation
 (4) The treatment of tax losses, including amounts of attributed CFC net loss and FIF net loss, on the amalgamation of companies is dealt with under subpart IE (Treatment of tax losses on amalgamation of companies) and the provisions of this subpart do not apply.
 
+### IQ 1B Losses carried forward to tax year
+An attributed CFC net loss or a FIF net loss or both may be carried forward to a tax year. Section IA 5 (Restrictions on companies' loss balances carried forward) applies for the purposes of this subpart as if the net loss were a tax loss component.
+
 ### IQ 2 Ring-fencing cap on attributed CFC net losses
 Limit on amount
 (1) If a person’s attributed CFC net loss is carried forward to a tax year, the maximum amount that they may subtract from their net income for the tax year must be no more than the total of—
-  (a) all attributed CFC income that they derive in the tax year in relation to a CFC resident in the country in which the loss arose; and
-  (b) all FIF income calculated under the branch equivalent method that they derive in the tax year in relation to a FIF resident in the country in which the loss arose.
+  (a) all attributed CFC income that they derive in the tax year in relation to a CFC resident in the same country in which the CFC that had the loss was resident at the time the loss arose; and
+  (b) all FIF income calculated under the branch equivalent method that they derive in the tax year in relation to a FIF resident in the same country in which the CFC that had the loss was resident at the time the loss arose.
 Attributed CFC net losses from year after transition
 (1B) If a person's attributed CFC net loss relates to an income year for which section IQ 2B applies to the person and is carried forward to the tax year, the amount used for the tax year in reducing the person's net income is equal to the amount subtracted under subsection (1).
 Attributed CFC net losses from income year before transition
@@ -24584,7 +24638,7 @@ Attributed CFC net losses from income year before transition
 Income only once
 (2) In subsection (1), the person may take into account an amount of attributed CFC income or FIF income only to the extent to which they have not accounted for it in—
   (a) calculating a deduction under sections DN 4 or DN 8 (which relate to ring-fencing caps); or
-  (b) establishing their entitlement to make the tax loss available under sections IC 5 (Company B using company A’s tax loss) or IQ 4; or
+  (b) establishing their entitlement to make the attributed CFC net loss carried forward available under sections IC 5 (Company B using company A’s tax loss) or IQ 4; or
   (c) applying subsection (1) in relation to another attributed CFC net loss.
 Treatment of excess
 (3) If the person cannot use all of the maximum amount referred to in subsection (1) because there is insufficient net income, the surplus is no longer available to them as a CFC net loss, but becomes a tax loss component under section IA 2(4) (Tax losses).
@@ -24667,8 +24721,8 @@ Option to determine jurisdictional BE income from accounts
 ### IQ 3 Ring-fencing cap on FIF net losses
 Limit on amount: branch equivalent method
 (1) If a person's FIF net loss is carried forward to a tax year, and they have calculated the amount of FIF net loss under the branch equivalent method, the maximum amount that they may subtract from their net income for the tax year must be no more than—
-  (a) all attributed CFC income that they derive in the tax year in relation to a CFC resident in the country in which the loss arose; and
-  (b) all FIF income calculated under the branch equivalent method that they derive in the tax year in relation to a FIF resident in the country in which the loss arose.
+  (a) all attributed CFC income that they derive in the tax year in relation to a CFC resident in the same country in which the CFC that had the loss was resident at the time the loss arose; and
+  (b) all FIF income calculated under the branch equivalent method that they derive in the tax year in relation to a CFC resident in the same country in which the CFC that had the loss was resident at the time the loss arose.
 Relationship with section CQ 5
 (2) Despite this section, if the person’s FIF net loss is carried forward to a tax year and section CQ 5(1)(d) or (e) (When FIF income arises) applies, they may subtract the amount from their net income for the tax year, but only to the extent to which the amount is no more than their assessable income from interests that would be interests in a FIF for the tax year in the absence of that section.
 Treatment of excess
@@ -24677,18 +24731,18 @@ Treatment of excess
 ### IQ 4 Group companies using attributed CFC net losses
 What this section does
 (1) This section supplements the general rules relating to the grouping of net losses when—
-  (a) a company that is part of a group of companies (company A) has an attributed CFC net loss for a tax year or has an amount of attributed CFC net loss carried forward under sections IA 4, IA 5, and IA 7 (which relate to the general use of tax losses); and
-  (b) company A is not able to use the amount under section IC 5 (Company B using company A’s tax loss).
+  (a) a company that is part of a group of companies (company A) has an attributed CFC net loss for a tax year or has an amount of attributed CFC net loss carried forward under section IQ 1B; and
+  (b) company A is not able to use the amount under section IQ 2.
 General loss rules modified
-(2) If the group of companies is a wholly-owned group of companies, subpart IC (Grouping tax losses) and section GB 4 (Arrangements for grouping tax losses: companies) apply to the attributed CFC net loss.
+(2) If the group of companies is a wholly-owned group of companies, subpart IC (Grouping tax losses) and section GB 4 (Arrangements for grouping tax losses: companies) apply to the attributed CFC net loss, and the part-year grouping rules in subpart IP (Meeting requirements for part-years) do not apply.
 Ring-fencing cap rule modified
-(3) Section IQ 2 applies to the attributed CFC net loss, but is supplemented as follows:
-  (a) the amount of the tax loss that company A may make available to another group company (company B) in the tax year may not be greater than the amount that company B would require as attributed CFC net loss from the same income year or income years to produce a reduction in company B's net income for the tax year equal to the total of—
+(3) If company A cannot use the maximum amount referred to in section IQ 2 before the excess is converted into a tax loss component under section IQ 2(3), company A may use the amount in the following way:
+  (a) the amount of the attributed CFC net loss together with any amount carried forward that company A may make available to another group company (company B) in the tax year may not be greater than the amount that company B would require as attributed CFC net loss from the same income year or income years to produce a reduction in company B's net income for the tax year equal to the total of—
     (i) the amount of attributed CFC income that company B derives in the tax year from a CFC resident in the country in which the loss arose; and
     (ii) the amount of FIF income calculated under the branch equivalent method that company B derives in the tax year from a FIF resident in the country in which the loss arose:
   (b) the amount of company B’s attributed CFC income or FIF income may be taken into account only to the extent to which it has not been accounted for—
     (i) in calculating a deduction of company B under section DN 4 or DN 8 (which relate to ring-fencing caps on deductions); or
-    (ii) in establishing company B’s entitlement to use an attributed CFC net loss under section IC 5 (Company B using company A’s tax loss) or IQ 2:
+    (ii) in establishing company B’s entitlement to use an attributed CFC net loss under section IC 5 (Company B using company A’s tax loss) or this section:
   (c) if company A cannot use some of the amount referred to in paragraph (a) in the tax year because company B’s net income is insufficient, the surplus is no longer available to company A as an attributed CFC net loss, but becomes, for company B, a tax loss component under section IA 2(4) (Tax losses).
 
 ### IQ 5 Group companies using FIF net losses
@@ -24707,7 +24761,7 @@ Ring-fencing cap rule modified
 
 ### IQ 6 Pre-consolidation losses: general treatment
 When this section applies
-(1) This section applies if a company that is part of a consolidated group has under section ID 2 (Pre-consolidation losses: general treatment) an attributed CFC net loss or FIF net loss carried forward to a tax year.
+(1) This section applies if a company that is part of a consolidated group has under section IQ 1B an attributed CFC net loss or FIF net loss carried forward to a tax year.
 First use
 (2) The first use of the amount must be by the company under subsection (3) or (4) in making the amount available to the consolidated group to subtract from its net income, so far as it extends, for the tax year.
 CFC net losses
@@ -24723,13 +24777,13 @@ Second use
 ### IQ 7 When group membership lacking in loss period
 When this section applies
 (1) This section applies if—
-  (a) a company that is part of a consolidated group has a ring-fenced tax loss consisting of either an attributed CFC net loss or FIF net loss, or both, that is carried forward to a tax year and must be used under section ID 2(2) (Pre-consolidation losses: general treatment); and
-  (b) the company was not part of the consolidated group in the earlier tax year; and
+  (a) a company that is part of a consolidated group has a ring-fenced tax loss consisting of either an attributed CFC net loss or FIF net loss, or both, that is carried forward to a tax year and must be used under section IQ 6; and
+  (b) the company was not part of the consolidated group in the earlier tax year in which the net loss arose; and
   (c) the company and 1 or more of the companies in the consolidated group do not meet the requirements for common ownership of section IC 5(1)(a) (Company B using company A’s tax loss) for the loss period.
 Limit on amount
 (2) The amount that may be subtracted from the net income of the consolidated group in the tax year under section ID 2(2) must be no more than the total of—
-  (a) the amount of ring-fenced tax loss that the company could use to reduce its net income in the tax year under sections IA 3 to IA 5 (which relate to the general use of tax losses), and IQ 2 or IQ 3 as applicable, if it were not in the tax year part of a consolidated group; and
-  (b) the amount of ring-fenced tax loss that the company could group with other companies in the group under section IC 5, and section IQ 4 or IQ 5, as applicable, determining—
+  (a) the amount of ring-fenced tax loss referred to in subsection (1) that the company could use to reduce its net income in the tax year under IQ 2 or IQ 3 as applicable, if it were not in the tax year part of a consolidated group; and
+  (b) the amount of ring-fenced tax loss referred to in subsection (1) that the company could group with other companies in the group under section IQ 4 or IQ 5, as applicable, determining—
     (i) the net income for each of the companies using the group’s calculation of each company’s net income; and
     (ii) the maximum amount of tax loss to be made available, ignoring the consolidation of the companies and presuming all steps required under those sections were taken in order for them to apply.
 Relationship with section FM 3
@@ -24739,10 +24793,10 @@ Meaning of loss period
 
 ### IQ 8 When group membership lacking in tax year of use
 When this section applies
-(1) This section applies if a company joins a consolidated group in a tax year with a ring-fenced tax loss consisting of an attributed CFC net loss or FIF net loss, or both, carried forward to the tax year, which must be used in the tax year under section ID 2(2) (Pre-consolidation losses: general treatment).
+(1) This section applies if a company joins a consolidated group in a tax year with a ring-fenced tax loss consisting of an attributed CFC net loss or FIF net loss, or both, carried forward to the tax year, which must be used in the tax year under section IQ 6.
 Limit on amount
 (2) The amount that may be subtracted from the net income of the consolidated group for the tax year under section ID 2(2) is the lesser of—
-  (a) the amount of ring-fenced tax loss that the company could subtract from—
+  (a) the amount of ring-fenced tax loss referred to in section IQ 7(1) that the company could subtract from—
     (i) the amount that would be the company’s net income for the part of the tax year in which it was not part of a consolidated group; and
     (ii) the net income for the tax year of another consolidated group of which the company was part before joining the present group; and
   (b) the amount that would be the group’s net income for the part of the tax year in which the company was part of the consolidated group, established by giving the Commissioner, at the time of providing the group’s return of income for the tax year, adequate financial statements that—
@@ -24759,28 +24813,32 @@ Calculation methods
 
 ### Subpart IS — Mining companies’ and petroleum miners’ tax losses
 
-### IS 1 General treatment of mining companies’ tax losses
+### IS 1 General treatment of mining companies' net losses
 Groups of companies
 (1) In a tax year in which a company is a mining company, section IC 5 (Company B using company A’s tax loss) does not apply, and the company is not included in a group of companies for the purposes of the section.
 Consolidated groups
-(2) A tax loss of a mining company that is part of a consolidated group is dealt with under this subpart and not subpart ID (Use of tax losses by consolidated groups).
+(2) A net mining loss of a mining company that is part of a consolidated group is dealt with under this subpart and not subpart ID (Use of tax losses by consolidated groups).
+Meaning of net mining loss
+(3) For the purposes of this subpart, a net mining loss means that part of a net loss of a mining company, a resident mining operator, or a non-resident mining operator that is described in section IA 7(7) (Restrictions relating to ring-fenced tax losses).
 
-### IS 2 Treatment of tax losses resulting from certain expenditure
+### IS 2 Treatment of net losses resulting from certain expenditure
 When this section applies
 (1) This section applies if a company that is a mining company, or a resident mining operator, or a non-resident mining operator—
-  (a) has a tax loss for a tax year as a result of incurring mining exploration expenditure or mining development expenditure in a mining permit area; and
-  (b) has a loss balance carried forward to a later tax year.
+  (a) has a net mining loss for a tax year as a result of incurring mining exploration expenditure or mining development expenditure in a mining permit area; and
+  (b) has an amount of net mining loss carried forward to a later tax year.
 Using loss balances
-(2) The company may subtract the amount of the loss balance from its net income for the later tax year, even though the continuity of ownership required under section IA 5 (Restrictions on companies’ loss balances carried forward) is broken or is treated as absent under section GB 3 (Arrangements for carrying forward loss balances: companies), but only to the extent set out in subsection (3).
+(2) The company may subtract the amount of the net mining loss from its net income for the later tax year, even though the continuity of ownership required under section IA 5 (Restrictions on companies’ loss balances carried forward) is broken or is treated as absent under section GB 3 (Arrangements for carrying forward loss balances: companies), but only to the extent set out in subsection (3).
 Limit on amount
 (3) The amount subtracted under subsection (2) must be no more than the amount that would be the mining company’s net income if its only assessable income for the later tax year were from the mining permit area.
 Amounts carried forward
-(4) If the company cannot use all the loss balance in the later tax year, the amount is carried forward to later tax years and subsection (2) applies to the remaining balance.
+(4) If the company cannot use all the net mining loss in the later tax year, the amount is carried forward to later tax years and subsection (2) applies to the remaining balance.
+Use against other income
+(5) The company may subtract the amount of the net mining loss from its net income that is not attributable to the mining permit area but only after meeting for the whole of the continuity period the requirements set out in sections GB 3 (Arrangements for carrying forward loss balances: companies) and IA 5 (Restrictions on companies' loss balances carried forward). For the purposes of applying section IA 5, the net mining loss is treated as if it were a tax loss component.
 
 ### IS 3 Holding companies’ tax losses
 When this section applies
 (1) This section applies in a tax year if—
-  (a) a mining company has net income for the tax year after having subtracted an amount of any loss balance that is carried forward; and
+  (a) a mining company has net income for the tax year after having subtracted an amount of any net mining loss that is carried forward; and
   (b) the company and a holding company, which is not a mining company, would be included in a wholly-owned group of companies in the absence of section IS 1(1); and
   (c) the holding company has a tax loss for the tax year that it cannot make available under section IC 5 (Company B using company A’s tax loss) to another company that is part of the wholly-owned group.
 Using tax losses
@@ -24804,7 +24862,7 @@ When this section applies
   (a) relinquishes a petroleum permit for which they have a deduction under section DT 7 (Exploratory well expenditure); or
   (b) incurs expenditure on removal or restoration operations for which they have a deduction under section DT 16 (Removal or restoration operations).
 Net losses reduced
-(2) The petroleum miner’s tax loss is reduced by the amount of the deduction but only to the extent of the amount of the tax loss. The petroleum miner is then allowed a deduction for the amount of the reduction in an earlier tax year allocated under section EJ 14 (Spreading deduction backwards).
+(2) The petroleum miner's tax loss is reduced by the amount of the deduction, but only to the extent of the amount of the tax loss. For the reduction in their tax loss, the petroleum miner is allowed a deduction in an earlier tax year for an amount that is equal to the amount of the reduction. The deduction is allocated under section EJ 14 (Spreading deduction backwards).
 Petroleum mining activities outside New Zealand
 (3) This section applies to a petroleum miner who undertakes petroleum mining activities that are—
   (a) outside New Zealand and undertaken through a branch or a controlled foreign company (CFC); and
@@ -24819,9 +24877,15 @@ For the purposes of sections IS 1 to IS 5, if a mining company whose loss balanc
 
 ### IT 1 Life insurers’ policyholder net losses
 Amounts available
-(1) A life insurer may use a tax loss in calculating their policyholder base income tax liability, but only to the extent to which the amount of the tax loss is no more than their policyholder net loss. Section IA 3(4) (Using tax losses in tax year) applies to any surplus amount.
+(1) In calculating their policyholder base income tax liability for a tax year, a life insurer may use an amount of a policyholder net loss carried forward from an earlier tax year. The policyholder net loss includes an unused policyholder net loss determined under the Income Tax Act 2004 or the Income Tax Act 1994.
+Loss carried forward
+(1B) If a life insurer has a balance of a policyholder net loss remaining for a tax year after the uses described in this section, the balance, including all unused amounts from earlier tax years, is carried forward to the next tax year as a policyholder net loss carried forward.
+Treatment as tax loss component
+(1C) For the purposes of the application of section IA 10 (Amended assessments), a policyholder net loss under this section is treated as if it were a tax loss component.
 Use of policyholder net losses
 (2) A life insurer may use a policyholder net loss only for the purpose of calculating their policyholder base income tax liability.
+Restrictions on use
+(2B) A life insurer must not use a policyholder net loss to reduce a net loss of another life insurer in a tax year except as described in subsection (3).
 Transfer of life insurance business
 (3) If a life insurer transfers their life insurance business to another company in the way described in section EY 45(1) (Policyholder income formula: when life insurance business transferred), the life insurer may choose to have their policyholder net loss for the tax year of the transfer treated as the other company’s policyholder net loss instead of their own. This subsection applies to both a policyholder net loss calculated for a tax year and a loss balance carried forward to a tax year.
 Notifying Commissioner
@@ -26285,7 +26349,7 @@ When requirements no longer met
 What this section applies to
 (1) This section applies to a supplementary dividend holding company that derives a dividend and related supplementary dividend in an income year when, but for this section, both dividends would be exempt income under section CW 10 (Dividend within New Zealand wholly-owned group).
 Income
-(2) The supplementary dividend holding company derives assessable income equal to an amount calculated using the formula—
+(2) The supplementary dividend holding company derives assessable income equal to an amount calculated using the formula— attached credit + dividend tax rate.
 Definition of items in formula
 (3) In the formula,—
   (a) attached credit is the imputation credit attached to the dividend:
@@ -26590,6 +26654,8 @@ Portfolio investor allocated income
 (5) For the purposes of subsection (1), an amount of portfolio investor allocated income that is not excluded income of the person and would be their excluded income in the absence of section CX 56(1)(b) and (c) (Portfolio investor allocated income and distributions of income by portfolio investment entities) is not included in family scheme income.
 Retirement scheme contributions
 (5B) For the purposes of subsection (1), an amount of retirement scheme contribution that is not excluded income of the person and would be their excluded income in the absence of section CX 50B(2) (Contributions to retirement savings schemes) is not included in family scheme income.
+Amounts of depreciation loss on sale of building
+(5C) For the purposes of subsection (1), in relation to a building from the sale of which the person derives assessable income, an amount of depreciation loss allowed in the 2002–03 or earlier income year is not included in family scheme income. However, this subsection does not apply to an amount of depreciation loss of a business that under section MB 4 is treated as having no net income for the purposes of calculating family scheme income.
 All known income sources
 (6) The Commissioner must have regard to—
   (a) the income from all sources known to the Commissioner; and
@@ -27749,7 +27815,9 @@ When this section applies
 Maximum permitted ratio
 (2) A dividend or distribution with a credit attached must not have a ratio for the amount of the credit to the amount of the dividend or distribution that is more than the maximum permitted ratio calculated using the formula—
 Definition of item in formula
-(3) In the formula, tax rate is the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) for the income year in which the dividend or distribution is paid.
+(3) In the formula, tax rate is—
+  (a) for subsection (1)(a) to (e), the basic rate of income tax set out in schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT and attributed fringe benefits) for the income year in which the dividend is paid:
+  (b) for subsection (1)(f), the basic rate of income tax set out in schedule 1, part A, clause 7 for the income year in which the distribution is paid.
 Relationship with sections OZ 8 and OZ 9
 (4) Sections OZ 8 and OZ 9 (which relate to the calculation of maximum permitted ratios in certain income years) may apply to modify this section.
 
@@ -27829,7 +27897,7 @@ No credit
 (3) An ICA company does not have an imputation credit for an amount of—
   (a) a transfer from a tax pooling account to a tax account with the Commissioner; or
   (b) income tax paid on income derived when the company is not an ICA company; or
-  (c) income tax paid by a life insurer subject to section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) to satisfy its policyholder base income tax liability; or
+  (c) income tax paid by a life insurer to satisfy its policyholder base income tax liability; or
   (d) income tax paid under sections LA 2 and LE 1 (which relate to tax credits for imputation credits and their use) by crediting an imputation credit; or
   (e) income tax paid under subpart LA and section LF 1 (which relate to tax credits for FDP credits and their use) by crediting a foreign dividend payment (FDP) credit; or
   (eb) income tax paid by a tax credit under subpart LA and section LH 2 (which relate to tax credits for research development and their use); or
@@ -28246,11 +28314,11 @@ Debit date
 
 ### OB 41 ICA debit for loss of shareholder continuity
 Debit
-(1) An ICA company has an imputation debit for the amount equal to the amount of an imputation credit retained in the imputation credit account and unused before the date on which shareholder continuity is lost.
+(1) An ICA company has an imputation debit for the amount equal to the amount of an imputation credit retained in the imputation credit account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 14 (debit for loss of shareholder continuity).
-Debit date
-(3) The debit date is the day of loss of shareholder continuity.
+When debit arises
+(3) The debit arises at the time shareholder continuity is lost.
 Avoidance arrangements
 (4) Section GB 34 (ICA arrangements for carrying amounts forward) may exclude a company from the application of this section.
 
@@ -29197,11 +29265,11 @@ Debit date
 
 ### OC 24 FDPA debit for loss of shareholder continuity
 Debit
-(1) An FDPA company has an FDP debit for the amount equal to the amount of an FDP credit retained in the FDP account and unused before the date on which shareholder continuity is lost.
+(1) An FDPA company has an FDP debit for the amount equal to the amount of an FDP credit retained in the FDP account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 13 (debit for loss of shareholder continuity).
-Debit date
-(3) The debit date is the day of loss of shareholder continuity.
+When debit arises
+(3) The debit arises at the time shareholder continuity is lost.
 Avoidance arrangements
 (4) Section GB 41 (FDPA arrangements for carrying amounts forward) may apply to treat a company as not meeting the requirements of this section.
 
@@ -29844,11 +29912,11 @@ Credit date
 
 ### OE 10 BETA credit for loss of shareholder continuity
 Credit
-(1) A BETA company has a branch equivalent tax credit for the amount of a branch equivalent tax debit retained in the branch equivalent tax account and unused before the date on which shareholder continuity is lost.
+(1) A BETA company has a branch equivalent tax credit for the amount of a branch equivalent tax debit retained in the branch equivalent tax account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The branch equivalent tax credit in subsection (1) is referred to in table O7: branch equivalent tax credits, row 5 (credit for loss of shareholder continuity).
-Credit date
-(3) The credit date is the day of loss of shareholder continuity.
+When credit arises
+(3) The credit arises at the time shareholder continuity is lost.
 Avoidance arrangements
 (4) Section GB 40 (BETA arrangements for carrying amounts forward) may exclude a company from the application of this section.
 
@@ -30001,7 +30069,7 @@ Effect of election
 
 ### OF 4 ASCA redemption credit
 Credit
-(1) An ASC account company has an ASC credit when the company redeems a share in the company for an amount calculated using the formula—ASC amount – redemption proceeds.
+(1) An ASC account company has an ASC credit when the company redeems a share in the company for an amount calculated using the formula— ASC amount – redemption proceeds.
 Definition of items in formula
 (2) In the formula,—
   (a) ASC amount is the amount of the available subscribed capital for the redemption calculated under section CD 22(4) (Returns of capital: off-market share cancellations):
@@ -30025,7 +30093,7 @@ Debit and credit
 Table references
 (3) The ASC debit in subsection (2)(a) is referred to in table O12: ASC debits, row 2 (transfer to imputation credit account). The imputation credit in subsection (2)(b) is referred to in table O1: imputation credits, row 16 (transfer from ASC account).
 Amount
-(4) The amount of the credit to the imputation credit account is calculated using the formula—credit balance × maximum imputation ratio.
+(4) The amount of the credit to the imputation credit account is calculated using the formula— credit balance × maximum imputation ratio.
 Definition of items in formula
 (5) In the formula,—
   (a) credit balance is some or all of the credit balance in the company’s ASC account that the ASC account company chooses to use:
@@ -30499,11 +30567,11 @@ Debit date
 
 ### OK 15 MACA debit for loss of shareholder continuity
 Debit
-(1) A Maori authority has a Maori authority debit for the amount of a Maori authority credit retained in the Maori authority credit account and unused before the date on which shareholder continuity is lost.
+(1) A Maori authority has a Maori authority debit for the amount of a Maori authority credit retained in the Maori authority credit account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The Maori authority debit in subsection (1) is referred to in table O18: Maori authority debits, row 7 (debit for loss of shareholder continuity).
-Debit date
-(3) The debit date is the day of loss of shareholder continuity.
+When debit arises
+(3) The debit arises at the time shareholder continuity is lost.
 
 ### OK 16 MACA breach of Maori authority credit ratio
 Debit
@@ -31105,11 +31173,11 @@ Debit date
 
 ### OP 42 Consolidated ICA debit for loss of shareholder continuity
 Debit
-(1) A consolidated imputation group has an imputation debit for the amount of an imputation credit retained in the group’s imputation credit account and unused before the date on which shareholder continuity is lost.
+(1) A consolidated imputation group has an imputation debit for the amount of an imputation credit retained in the group’s imputation credit account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity).
-Debit date
-(3) The debit date is the day of loss of shareholder continuity.
+When debit arises
+(3) The debit arises at the time shareholder continuity is lost.
 
 ### OP 43 Consolidated ICA breach of imputation ratio
 Debit
@@ -31443,11 +31511,11 @@ Debit date
 
 ### OP 73 Consolidated FDPA debit for loss of shareholder continuity
 Debit
-(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit retained in the group’s FDP account and unused before the date on which shareholder continuity is lost.
+(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit retained in the group’s FDP account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 11 (debit for loss of shareholder continuity).
-Debit date
-(3) The debit date is the day of loss of shareholder continuity.
+When debit arises
+(3) The debit arises at the time shareholder continuity is lost.
 
 ### OP 74 Consolidated FDPA transfer to policyholder credit account
 Debit
@@ -31808,11 +31876,11 @@ Credit date
 
 ### OP 104 Consolidated BETA credit for loss of shareholder continuity
 Credit
-(1) A consolidated BETA group has a branch equivalent tax credit for the amount of a branch equivalent tax debit retained in the branch equivalent tax account and unused before the date on which shareholder continuity is lost.
+(1) A consolidated BETA group has a branch equivalent tax credit for the amount of a branch equivalent tax debit retained in the branch equivalent tax account and unused at the time at which shareholder continuity is lost.
 Table reference
 (2) The branch equivalent tax credit in subsection (1) is referred to in table O25: branch equivalent tax credits of consolidated BETA groups, row 5 (credit for loss of shareholder continuity).
-Credit date
-(3) The credit date is the day of loss of shareholder continuity.
+When credit arises
+(3) The credit arises at the time shareholder continuity is lost.
 
 **Branch equivalent tax debits of consolidated BETA groups**
 
@@ -33377,7 +33445,11 @@ No amount of tax withheld
 
 ### RD 17 Payment of extra pay with other PAYE income payments
 When this section applies
-(1) This section applies when a person pays an amount of extra pay to an employee who also receives a PAYE income payment from the person. The amount of tax for the extra pay is based on the annualised value of all PAYE income payments, excluding the extra pay, made to the employee in the period that starts 4 weeks before the date of the payment of the extra pay and ends on the date of that payment.
+(1) This section applies when a person pays an amount of extra pay to an employee who also receives a PAYE income payment from the person, regardless of whether the extra pay is paid with or separately from a PAYE income payment. The amount of tax for the extra pay is based on the sum of—
+  (a) the amount of the extra pay; and
+  (b) the annualised value of all PAYE income payments made to the employee in the period that starts 4 weeks before the date of the payment of the extra pay and ends on the date of that payment.
+Calculating annualised value
+(1B) For the purposes of calculating the amount that is the annualised value referred to in subsection (1)(b), the amount of the extra pay referred to in subsection (1)(a) is excluded.
 Between $48,000 and $70,000
 (2) If the sum of the amounts referred to in subsection (1) is more than $48,000 but no more than $70,000, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in schedule 2, part B, table 1, row 2 (Basic tax rates for PAYE income payments).
 Over $70,000
@@ -34159,7 +34231,7 @@ Meaning
 (1) The RWT rules means—
   (a) this subpart; and
   (b) sections LA 4, LA 6, and LB 3 (which relate to tax credits for RWT); and
-  (c) sections 15T, 25 to 28, 32E to 32L, 50 to 55, 78D, and 99, Part 9, sections 170 to 172, and 185 of the Tax Administration Act 1994.
+  (c) sections 15N, 25 to 28, 32E to 32L, 50 to 55, 78D, and 99, Part 9, sections 170 to 172, and 185 of the Tax Administration Act 1994.
 Application
 (2) The RWT rules apply to a person who pays an amount of resident passive income.
 
@@ -34206,7 +34278,8 @@ Exclusions from dividends
   (h) a dividend that is excluded income under section CX 50B (Contributions to retirement savings schemes) or would be excluded income under that section in the absence of subsection (2)(a) and (b):
   (i) a dividend other than a non-cash dividend that—
     (i) has an imputation ratio, FDP ratio, or combined imputation and FDP ratio of 30/70 or more; and
-    (ii) is paid by a unit trust or group investment fund (or RWT proxy on their behalf) that has not withheld RWT from any earlier dividend.
+    (ii) is paid by a unit trust or group investment fund (or RWT proxy on their behalf) that has not withheld RWT from any earlier dividend:
+  (j) a dividend treated as derived by a person under section GB 1(3) (Arrangements involving dividend stripping).
 Beneficiary income
 (6) If a person derives an amount described in this section in their capacity as trustee and the amount is beneficiary income, the amount is treated as not derived by the trustee.
 
@@ -34325,6 +34398,21 @@ Threshold for amounts of interest
   (d) would be liable to withhold RWT for the resident passive income in the absence of this section.
 Minimum amount
 (2) Despite section RE 4(3), the person is required to withhold the amount of tax for the payment only if the total resident passive income consisting of interest paid by the person in the tax year in which the payment is made is more than $5,000.
+
+### RE 10B Amounts withheld from distributions to holders of FIF attributing interests
+When this section applies
+(1) This section applies when—
+  (a) a distribution is made to a holder of an attributing interest in a FIF; and
+  (b) section CD 36 (Foreign investment fund income) or EX 59(2) (Codes: comparative value method, deemed rate of return method, fair dividend rate method, and cost method) applies to the distribution; and
+  (c) an amount is withheld by the payer from the distribution because the payer has treated the distribution as resident passive income subject to the RWT rules.
+Treatment of amount
+(2) The amount withheld is treated as—
+  (a) RWT for the purposes of this subpart and subpart LA (General rules for tax credits), and sections LB 3 (Tax credits for resident withholding tax), and RM 1 to RM 10 (which relate to refunds); and
+  (b) tax paid in excess for the purposes of Part 10B of the Tax Administration Act 1994.
+Treatment of distribution
+(3) The distribution is treated as resident passive income for the purposes of the sections listed in subsection (2).
+Refunds
+(4) Subsection (2) does not apply if the payer or the holder applies under section RM 8(4) or (5) (Overpaid RWT or NRWT), as applicable, for a refund in relation to the amount withheld before the next 31 March after the date on which the amount of tax was withheld.
 
 ### RE 11 Notification by companies
 When this section applies
@@ -34465,7 +34553,7 @@ Dividends, replacement payments, and taxable Maori authority distributions
 ### RE 22 When payment treated as non-resident passive income
 When this section applies
 (1) This section applies when—
-  (a) a person (person A) is liable to pay resident passive income to a person not resident in New Zealand (person B); or
+  (a) a person (person A) is required to pay an amount that would be treated as resident passive income in the absence of this section to another person (person B); and
   (b) person A receives resident passive income as agent or trustee for person B.
 No liability
 (2) If person A concludes on reasonable grounds after making reasonable inquiries that an amount is non-resident passive income derived by person B, and person A has complied with their obligations under this Act and the Tax Administration Act 1994 in relation to paying non-resident withholding tax (NRWT) to the Commissioner, they have no liability under the RWT rules in relation to the amount.
@@ -34580,6 +34668,12 @@ Meaning
   (e) sections 32M, 49, 100, Part 9, and sections 165B and 185 of the Tax Administration Act 1994.
 Application
 (2) The NRWT rules apply to a person who makes a payment that consists of non-resident passive income.
+What this section does not apply to
+(3) This section does not apply to an amount referred to in section CC 1(2)(a) to (d) (Land) to which section CC 9 (Royalties) applies.
+Exception: certain income from land
+(4) Despite subsection (3), this section does apply to non-resident passive income that is an amount paid for—
+  (a) the exploitation of, or right to exploit, plant material or a naturally occurring material or mineral arising in or on the land:
+  (b) the removal of, or right to remove, plant material or a naturally occurring material or mineral arising in or on the land.
 
 ### RF 2 Non-resident passive income
 Interest, certain dividends, and royalties
@@ -34615,7 +34709,10 @@ Interest payable by Commissioner
 **Withholding obligations**
 
 ### RF 3 Obligation to withhold amounts of tax for non-resident passive income
-A person who makes a payment of non-resident passive income must withhold the amount of tax for the payment and pay it to the Commissioner. The obligation to withhold arises under section RA 6(2) (Withholding and payment obligations for passive income) at the time of payment.
+Withholding amount of tax
+(1) A person who makes a payment of non-resident passive income must withhold the amount of tax for the payment and pay it to the Commissioner. The obligation to withhold arises under section RA 6(2) (Withholding and payment obligations for passive income) at the time of payment.
+Exclusion
+(2) Despite subsection (1), no obligation to withhold NRWT arises in relation to an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping).
 
 ### RF 4 Non-resident passive income received by agents and others
 When this section applies
@@ -34633,6 +34730,8 @@ A person is not required to withhold NRWT when some or all of the payment consis
 ### RF 6 When amounts of tax not withheld or partly withheld
 Person as filing taxpayer
 (1) When a person is required under section RA 6(2) (Withholding and payment obligations for passive income) to withhold NRWT and does not withhold the full amount required under this Part, the person deriving the non-resident passive income is treated for this purpose as a filing taxpayer.
+When amount treated as dividend
+(1B) A person who derives non-resident passive income that is a dividend under section GB 1(3) (Arrangements involving dividend stripping) is treated as a filing taxpayer.
 Debt payable
 (2) The amount of tax referred to in subsection (1) as not withheld is a debt payable by the person to the Commissioner, and is treated as having become due under section RA 10 (When obligations not met).
 Non-cash dividends
@@ -34737,7 +34836,7 @@ When this section applies
 Zero-rating
 (2) The rate of NRWT payable on the amount is 0%.
 Interest paid under registered securities
-(3) For the purposes of the NRWT rules, an amount of interest is paid by an approved issuer under a registered security only if it is treated as paid in respect of a registered security under section 86I of the Stamp and Cheque Duties Act 1971.
+(3) For the purposes of the NRWT rules, an amount of interest is paid by an approved issuer under a registered security only if it is treated as paid in relation to a registered security under section 86I of the Stamp and Cheque Duties Act 1971.
 
 ### RF 12B Interest derived jointly with residents
 When payment derived jointly with resident
@@ -34982,6 +35081,26 @@ Refund to person deriving payment or person withholding amount
 (2) The Commissioner must refund the amount of the overpayment to—
   (a) the person who derives the payment from which the amount of tax was withheld; or
   (b) the person who withheld the amount if they have paid the amount of the overpayment to the person deriving the payment and not subtracted the amount under section RA 12(5) and (6) (Adjustment to correct errors: certain excess amounts).
+When subsections (4) and (5) apply
+(3) Subsections (4) and (5) apply when—
+  (a) a holder of an attributing interest in a FIF receives a distribution from which an amount of tax for resident passive income has been withheld; and
+  (b) section CD 36 (Foreign investment fund income) applies to the distribution.
+Certain FIF income: application by holder
+(4) The holder may apply for a refund if—
+  (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show that the threshold referred to in section CQ 5(1)(d) (When FIF income arises) has been exceeded for their corresponding income year; and
+  (b) the person making the distribution has not—
+    (i) paid them a refund of the amount; or
+    (ii) applied themselves under subsection (5) for a refund in relation to the amount; and
+  (c) they notify the person making the distribution of their application under this subsection.
+Certain FIF income: application by payer
+(5) The person making the distribution may apply for a refund if—
+  (a) they apply before the next 31 March after the date on which the amount was withheld, with supporting information to show the payment has been made to the holder without any subtraction permitted by section RA 12(5) and (6) (Adjustment to correct errors: certain excess amounts); and
+  (b) the holder has not applied for a refund under subsection (4) in relation to the amount; and
+  (c) they provide, in relation to the amount,—
+    (i) a statement that they will not include particulars in an RWT withholding reconciliation statement made under section 51 of the Tax Administration Act 1994; and
+    (ii) the disclosure information required by section 52 of that Act.
+Use of refund
+(6) An amount of a refund paid under subsection (4) or (5) may be used under section RM 10 to satisfy a liability under the Inland Revenue Acts.
 
 ### RM 9 Calculations for attributed and non-attributed fringe benefits
 When this section applies
@@ -36085,8 +36204,18 @@ In this Act, unless the context requires otherwise,—
     (a) in subpart EB (Valuation of trading stock (including dealer’s livestock)), for trading stock, means costs incurred in the ordinary course of business to bring trading stock to its present location and condition, including purchase costs and costs of production, calculated under sections EB 6 to EB 8 (which relate to costs for standard valuations), EB 15 to EB 18 (which relate to costs for low-turnover traders), and EB 22 (Valuing closing stock consistently for low-turnover traders):
     (b) is defined in section RD 40(3) (Goods) for the purposes of that section:
     (c) in sections RD 42 and RD 43 (which relate to goods provided with staff discount), for a registered person who may claim input tax for the cost of the goods, means the GST-inclusive cost of the goods to the person
-  - **cost of timber** , for some timber, means the amount given for the timber by section DP 11(1) (Cost of timber) that is a deduction under DP 11(2)
   - **cost method** means a method of calculating FIF income or FIF loss under section EX 56 (Cost method)
+  - **cost of timber** , in sections DP 11, EJ 1, EW 2, EZ 44, FB 6, and FB 7(which relate to the disposal of timber),—
+    (a) means the amount of expenditure incurred by a person in relation to timber—
+      (i) before harvest, for a disposal of harvested timber:
+      (ii) before the disposal of the timber or the relevant right, for a disposal of standing timber or a disposal of a right to take timber, or another right referred to in section DP 11(4) (Cost of timber); and
+    (b) includes, for section DP 11,—
+      (i) expenditure on planning, planting, and growing the timber:
+      (ii) expenditure incurred in relation to the rights listed in section DP 11(4); and
+    (c) excludes—
+      (i) expenditure for which a deduction is allowed under a provision of this Act other than section DP 11:
+      (ii) expenditure to which section DB 46 (Avoiding, remedying, or mitigating effects of discharge of contaminant) applies:
+      (iii) an amount allowed as a deduction under section DQ 4 (Environmental restoration accounts scheme)
   - **cost price** ,—
     (a) in subpart EC (Valuation of livestock), does not include any amount of input tax in relation to the supply of livestock or trading stock to a person; and
     (b) in section FZ 2 (Effect of specified lease on lessor and lessee), and in the definition of specified lease, and for a personal property lease asset, means the amount of expenditure of a capital nature that is incurred, in acquiring and installing the asset,—
@@ -36120,10 +36249,9 @@ In this Act, unless the context requires otherwise,—
       (ib) the period beginning on the day which the Commissioner nominates when requested by the person, in circumstances where, due to matters outside the control of the person, the first deduction of KiwiSaver contributions was delayed, and ending on the day on which securities are first allotted by the KiwiSaver scheme for the person:
       (ii) the days in the month in which securities are first allotted by the scheme or fund for the person:
       (iii) for the period beginning on 1 July 2007 and ending on the day on which securities are first allotted by the scheme for the person, and for a person who contributes to the scheme before 1 November 2007, the days in the month on which the scheme receives a valid application for membership from the person and the days remaining in the period
-  - **creditor workout** means, in relation to financial arrangements,—
-  (a) a compromise (as that term is defined in section 227 of the Companies Act 1993) that is binding under Part 14 or 15 of that Act, to the extent to which the compromise does not cancel all of a debt:
-  (b) an executed deed of company arrangement under Part 15A of the Companies Act 1993, to the extent to which it is a compromise (as that term is defined in section 227 of that Act) that does not cancel all of a debt:
-  (c) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
+  - **creditor workout** , in relation to a financial arrangement, means––
+  (a) a compromise, as that term is defined in section 227 of the Companies Act 1993, in writing that, for the parties to the financial arrangement, is binding under Part 14, 15, or 15A of that Act, or is otherwise legally binding, to the extent to which the compromise does not cancel all of a debt:
+  (b) a suspension in part of the repayment of any deposit, the payment of any debt, or the discharge of any obligation, under section 44 of the Corporations (Investigation and Management) Act 1989
   - **Crown Research Institute** is defined in section 2 of the Crown Research Institutes Act 1992
   - **CTR** means conduit tax relief
   - **CTR account** means the account referred to in section OA 2(1)(c) (Memorandum accounts)
@@ -36255,7 +36383,8 @@ In this Act, unless the context requires otherwise,—
       (i) includes an amount paid to a shareholder that is a company and a related person under section CD 44(15) to (17) (Available capital distribution amount) of the company paying the amount, if the amount is excluded from dividend treatment generally only as a result of sections CD 26(2)(b) (Capital distributions on liquidation or emigration) and CD 44; and
       (ii) does not include any non-cash dividend; and
       (iii) does not include any dividend derived by a life insurer from a company treated as resident in New Zealand because of the Commissioner granting an application under section EY 49 (Non-resident life insurer becoming resident):
-    (e) in sections FM 30, GB 38, OP 58, and OP 64 to OP 68 (which relate to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), subpart OJ (Policyholder credit accounts (PCA)), in the FDP rules and the imputation rules, and in the definitions of benchmark dividend, combined imputation and FDP ratio, company dividend statement, excess credit amount, FDP credit, FDP ratio, foreign dividend, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include any amount treated as a dividend under section CB 34(5) (Amounts derived by members from mutual associations), GB 23 (Excessive remuneration to relatives), or GB 25 (Close company remuneration to shareholders, directors, or relatives)
+    (e) in sections FM 30, GB 38, OP 58, and OP 64 to OP 68 (which relate to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), subpart OJ (Policyholder credit accounts (PCA)), in the FDP rules and the imputation rules, and in the definitions of benchmark dividend, combined imputation and FDP ratio, company dividend statement, excess credit amount, FDP credit, FDP ratio, foreign dividend, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include any amount treated as a dividend under section CB 34(5) (Amounts derived by members from mutual associations), GB 23 (Excessive remuneration to relatives), or GB 25 (Close company remuneration to shareholders, directors, or relatives):
+    (f) in sections FM 30, GB 38, OP 58, and OP 64 to OP 68 (which relate to consolidated groups), subpart OE (Branch equivalent tax accounts (BETA)), subpart OJ (Policyholder credit accounts (PCA)), in the FDP rules and the imputation rules, and in the definitions of benchmark dividend, combined imputation and FDP ratio, company dividend statement, excess credit amount, FDP credit, FDP ratio, imputation credit, imputation ratio, pay, and shareholder dividend statement, does not include an amount treated as a dividend under section GB 1(3) (Arrangements involving dividend stripping)
   - **dividend treated as interest** means a dividend that is paid in relation to a share issued by a company that is at the time of payment—
     (a) a company not resident in New Zealand; or
     (b) a company whose constitution prohibits all of its income or property from being distributed to a proprietor, member, or shareholder of the company; or
@@ -36593,13 +36722,14 @@ In this Act, unless the context requires otherwise,—
       (ii) as may be necessary to compensate the shareholder for a default on the part of the paying company or expenditure or loss suffered by the shareholder, or a person associated with the shareholder, through holding the share; or
       (iii) by a combination of the factors in subparagraphs (i) and (ii):
     (e)
-    (f) in section FA 2B (Stapled debt securities) and the definitions of proportional-stapling company and stapled debt security, means—
+    (f) in section FA 2B (Stapled debt securities), and the definitions of proportional-stapling company and stapled debt security, means—
       (i) a share described in paragraph (a):
-      (ii) a share that would be a share described in paragraph (a) but for any dividend or variation in the rate of dividend that may occur due to a gain arising when the share is converted into another share (the other share), if that gain is attributable solely to––
-        (A) a change in value of the other share in a period, and that period finishes when the share is converted, starts not more than 30 days before the share is converted, and was a term or condition of the share when the share was first issued:
-        (B) a term or condition of the share that was a term or condition when the share was first issued, and that term or condition set, for the gain, a fixed percentage equal to 5%, or a lesser percentage, of the amount subscribed for the share:
-      (iii) a share for which the dividend payable is the equivalent of the payment of interest for money lent having regard to the factors in paragraph (g):
-    (g) for the purposes of paragraph (f)(iii), the factors are––
+      (ii) a share that would be a share described in paragraph (a) but for a dividend or a variation in the rate of dividend that may occur when the share is converted into another share (the other share) if the gain is attributable solely to a cause set out in paragraph (g):
+      (iii) a share for which the dividend payable is the equivalent of the payment of interest for money lent, having regard to the factors set out in paragraph (h):
+    (g) for the purposes of paragraph (f)(ii), the causes are—
+      (i) a change in value of the other share occurs in a period that starts no more than 30 days before the share is converted and ends when the share is converted, and the period was a term or condition of the share when the share was first issued:
+      (ii) a term or condition of the share that existed when the share was first issued, and the term or condition sets the gain at a fixed percentage equal to 5% or a lesser percentage of the amount subscribed for the share:
+    (h) for the purposes of paragraph (f)(iii), the factors are—
       (i) whether or not the share is redeemable:
       (ii) any security provided to the shareholder, including put or call options over the share or any amount payable determined by reference to the amount of dividend payable:
       (iii) the variability or lack of variability of the dividend payable
@@ -36643,6 +36773,7 @@ In this Act, unless the context requires otherwise,—
   - **forest land emissions unit** means a pre-1990 forest land emissions unit or a post-1989 forest land emissions unit
   - **forester** is defined in section EH 3(1)(c) (Persons to whom main income equalisation scheme applies)
   - **forestry assets** is defined in section FC 6 (Forestry assets transferred to close relatives) for the purpose of that section
+  - **forestry business** includes a PFSI forestry business
   - **forestry company** means a company that is incorporated, under an agreement between the Crown, the Maori owners, and a holding company of the company, for the purposes of—
     (a) buying land partly from the Crown, partly from the Maori owners, and partly from a holding company of the company; and
     (b) carrying on a forestry business on the land
@@ -36978,12 +37109,12 @@ In this Act, unless the context requires otherwise,—
       (iii) includes a licence to use intangible property; and
       (iv) includes a hire or bailment; and
       (v) includes a lease that is 2 or more consecutive or successive leases treated as 1 lease because the same personal property lease asset had been leased to the same lessee or an associated person of the lessee under the consecutive or successive leases and the Commissioner, having regard to the tenor of this paragraph, regards the consecutive or successive leases as 1 lease; and
-      (vi) does not include a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (e); and
-      (vii) does not include an assignment of a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (e):
+      (vi) does not include a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (f); and
+      (vii) does not include an assignment of a hire purchase agreement, the definition of which applies, for this purpose, as if it did not contain paragraph (f):
     (e) is defined in section GC 5(5) (Leases for inadequate rent) for the purposes of that section:
     (f) in the financial arrangements rules, means—
       (i) a lease as described in paragraph (d):
-      (ii) an arrangement that would be a lease as described in paragraph (c) if the arrangement did not relate to real property, livestock, or bloodstock
+      (ii) an arrangement that would be a lease as described in paragraph (d) if the arrangement did not relate to real property, livestock, or bloodstock
   - **leasehold estate** includes any estate, however created, other than a freehold estate
   - **legal defeasance** means a defeasance in which the release of a party to a financial arrangement or an excepted financial arrangement from the primary obligation of the financial arrangement or the excepted financial arrangement is—
     (a) acknowledged formally by the creditor; or
@@ -36993,14 +37124,14 @@ In this Act, unless the context requires otherwise,—
   - **legal life** is defined in section EE 67 (Other definitions)
   - **less than 10% holder** is defined in section YC 15(3) (Directors’ knowledge of failure to meet requirements of continuity provision) for the purposes of that section
   - **lessee** ,—
-    (a) for a lease as described in paragraph (b) of the definition of lease, includes the holder of a licence to occupy:
-    (b) for a lease as described in paragraph (c) of the definition of lease,—
+    (a) for a lease as described in paragraph (c) of the definition of lease, includes the holder of a licence to occupy:
+    (b) for a lease as described in paragraph (d) of the definition of lease,—
       (i) means a person who leases a personal property lease asset from a lessor; and
       (ii) includes a trustee or assignee of the person:
     (c) for a hire purchase agreement, means the person who obtains the use of, or the right to use, the hire purchase asset under the agreement
   - **lessor** ,—
-    (a) for a lease as described in paragraph (b) of the definition of lease, includes the grantor of a licence to occupy:
-    (b) for a lease as described in paragraph (c) of the definition of lease,—
+    (a) for a lease as described in paragraph (c) of the definition of lease, includes the grantor of a licence to occupy:
+    (b) for a lease as described in paragraph (d) of the definition of lease,—
       (i) means a person who assembles, manufactures, purchases, or otherwise acquires a personal property lease asset and leases it to a lessee; and
       (ii) includes a trustee or assignee of the person:
     (c) for a hire purchase agreement,—
@@ -37087,7 +37218,11 @@ In this Act, unless the context requires otherwise,—
     (b) means an attributed CFC loss when used in the expression attributed CFC income or loss:
     (c) means a branch equivalent loss when used in the expression branch equivalent income or loss:
     (d) means a FIF loss when used in the expression FIF income or loss
-  - **loss balance** means the balance of a tax loss that is carried forward to a tax year
+  - **loss balance** , for a tax year,—
+    (a) means the sum of all tax loss components—
+      (i) arising in the tax year and included in the tax loss for the tax year under section IA 2(3) and (4) (Tax losses), to the extent not used under section IA 3(1) to (3) or IA 4(1)(a) (which relate to the first use and to particular losses):
+      (ii) arising in an earlier tax year and carried forward under section IA 3(4) to the tax year, to the extent not used under section IA 3(1) to (3) or IA 4(1)(a):
+    (b) does not include a tax loss component included in a company's loss balance at the end of the tax year if the requirements of section IA 5 (Restrictions on companies' loss balances carried forward), as modified by sections IZ 4 to IZ 6 (which relate to tax losses for tax years before 1992), have not been met
   - **loss period** is defined in section IQ 7(4) (When group membership lacking in loss period) for the purposes of that section
   - **loss-attributing qualifying company** is defined in section HA 3 (Meaning of loss-attributing qualifying company)
   - **low-turnover trader** is defined in section EB 13(2) (Low-turnover valuation) for the purposes of subpart EB (Valuation of trading stock (including dealer’s livestock))
@@ -37278,8 +37413,10 @@ In this Act, unless the context requires otherwise,—
   - **net gambling proceeds** means net proceeds as defined in section 4 of the Gambling Act 2003
   - **net income** means net income for a tax year calculated under section BC 4 (Net income and net loss)
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section 177C(5) of the Tax Administration Act 1994
+  - **net mining loss** is defined in section IS 1(3) (General treatment of mining companies' net losses) for the purposes of subpart IS (Mining companies' and petroleum miners' tax losses)
   - **new asset** is defined in section EZ 24 (Meaning of new asset)
   - **new personal tax rate person** means a person whose basic rate of income tax is calculated under schedule 1, part A, clause 1 for the 2008–09 income year or a later income year
+  - **new reporting standard** is defined in section DB 35 (Some definitions) for the purposes of section DB 34 (Research or development)
   - **new start grant** means a grant of money that is—
     (a) designated by the Minister of Agriculture as a new start grant; and
     (b) paid by the Government of New Zealand to a person in relation to an emergency event
@@ -37428,6 +37565,7 @@ In this Act, unless the context requires otherwise,—
     (b) the following provisions of the Tax Administration Act 1994:
       (i) section 60 (as in force before the enactment of section 70 of the Taxation (Accrual Rules and Other Remedial Matters) Act 1999):
       (ii) section 90
+  - **old reporting standard** is defined in section DB 35 (Some definitions) for the purposes of section DB 34 (Research or development)
   - **on-market cancellation** means an acquisition by a company of a share in the company if—
     (a) the company acquires the share in a transaction occurring on a recognised exchange, through a broker or some other similar agent independent of the company; and
     (b) before the transaction, no arrangement existed between the shareholder and the company for the company to acquire the share; and
@@ -37565,6 +37703,12 @@ In this Act, unless the context requires otherwise,—
     (b) an exploration permit:
     (c) a mining permit to the extent to which it remains current
   - **petroleum-related depreciable property** is defined in section EE 67 (Other definitions)
+  - **PFSI forestry business** means the forestry activities carried on by a person who, as landowner, is subject to obligations under a forest sink covenant referred to in section 67X of the Forests Act 1949 in relation to the land specified in the covenant
+  - **PFSI forestry income** , for a person, means the income from a PFSI forestry business—
+    (a) relating to a forest sink covenant entered into by the person; and
+    (b) derived by the person from—
+      (i) receiving an emissions unit under the covenant; or
+      (ii) entering into a transaction in relation to an emissions unit received under the covenant
   - **physical cost of production** is defined in section DZ 11(3) (Film reimbursement scheme on or before 30 June 2001) for the purposes of that section
   - **plant variety rights** means proprietary rights granted for a plant variety under the Plant Variety Rights Act 1987 or similar rights given similar protection under the laws of a country or territory other than New Zealand
   - **planting** is defined in section DO 8 (Meaning of planting and plot) for the purposes of sections DO 5 to DO 8 (which relate to horticultural plants)
@@ -37889,7 +38033,6 @@ In this Act, unless the context requires otherwise,—
     (b) includes a sequential series of replacement permits to the extent to which each permit in the series replaces the previous permit in the series
   - **replacement plant** , in sections DO 6, DO 7, and DO 9 (which relate to horticultural plants) means a listed horticultural plant that replaces a listed horticultural plant, whether or not it is of the same type of listed horticultural plant
   - **reporting bank** is defined in section FE 4 (Some definitions) for the purposes of subpart FE (Interest apportionment on thin capitalisation)
-  - **reporting standard** is defined in section DB 35 (Some definitions) for the purposes of that section and section DB 34 (Research or development)
   - **research** is defined in section DB 35 (Some definitions) for the purposes of that section and section DB 34 (Research or development)
   - **research and development activities** is defined in section LH 7(1) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **resident foreign trustee** is defined in section 3(1) of the Tax Administration Act 1994
@@ -37965,19 +38108,19 @@ In this Act, unless the context requires otherwise,—
       (v) a right, directly or indirectly, to influence a person making a decision about the property; or
       (vi) any other right of a substantially similar nature; and
     (b) does not include the mere right to enforce an agreement for the sale and purchase of property or services or a specified option
-  - **RMBS special purpose vehicle** means a company or a trustee of a trust that, ignoring section HR 9,––
+  - **right in the specified property** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
+  - **right to take timber** includes an easement or licence or right of taking profits or produce from the land to the extent to which the easement, licence, or right relates to timber
+  - **ring-fenced tax loss** means an amount referred to in section IA 7 (Restrictions relating to ring-fenced tax losses)
+  - **RMBS special purpose vehicle** means a company or a trustee of a trust that, ignoring section HR 9 (RMBS special purpose vehicles are transparent),––
     (a) derives no exempt income; and
     (b) has interests in New Zealand-originated residential mortgages, or in loans secured by New Zealand-originated residential mortgages, that are treated, for financial reporting purposes, by a registered bank as held by the registered bank; and
-    (c) the only provision of funds by financial arrangements is in respect of––
+    (c) the only provision of funds by financial arrangements relates to––
       (i) residential mortgage backed securities it has issued; and
       (ii) financial arrangements incidental to its operations; and
     (d) has residential mortgage backed securities it has issued––
       (i) held by the registered bank with the intention of participating in the Reserve Bank of New Zealand's domestic liquidity operations:
       (ii) held by the Reserve Bank of New Zealand and accepted in that bank's domestic liquidity operations:
       (iii) transferred by the Reserve Bank of New Zealand, after acceptance in that bank's domestic liquidity operations, to a person who is resident in New Zealand, or who is not resident in New Zealand but is not associated with the registered bank
-  - **right in the specified property** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
-  - **right to take timber** includes an easement or licence or right of taking profits or produce from the land to the extent to which the easement, licence, or right relates to timber
-  - **ring-fenced tax loss** means an amount referred to in section IA 7 (Restrictions relating to ring-fenced tax losses)
   - **rolling average value** is defined in section EZ 4(5) (Valuation of livestock bailed or leased as at 2 September 1992) for the purposes of that section
   - **routine government action** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **royalty** is defined in section CC 9(2) and (3) (Royalties)
@@ -37985,7 +38128,7 @@ In this Act, unless the context requires otherwise,—
   - **RSCT rules** is defined in section RH 1 (RSCT rules and their application)
   - **RWT** means resident withholding tax and refers to an amount payable as income tax under the RWT rules
   - **RWT exemption certificate** means a certificate described in section 32E of the Tax Administration Act 1994
-  - **RWT proxy** is defined in section 15T of the Tax Administration Act 1994
+  - **RWT proxy** is defined in section 15N of the Tax Administration Act 1994
   - **RWT rules** means the provisions listed in section RE 1(1) (RWT rules and their application)
   - **RWT withholding certificate** means a form provided under section 25 of the Tax Administration Act 1994
   - **salary or wages** —
@@ -38070,7 +38213,7 @@ In this Act, unless the context requires otherwise,—
       (ii) by a share supplier or an associated person for the re-transfer of the original share or an identical share to them; and
     (b) is not a replacement payment
   - **share-lending right** means, for a share supplier under a share-lending arrangement, a conditional or unconditional right to acquire the original share or an identical share under the share-lending arrangement
-  - **share purchase agreement** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income)
+  - **share purchase agreement** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income) and HC 27(3B) (Who is a settlor?)
   - **share purchase scheme** is defined in sections CE 7 (Meaning of share purchase agreement) and CZ 1 (Share purchase agreement income before 19 July 1968) for the purposes of sections CE 1 to CE 4 (which relate to employment income) and section EX 38 (Exemption for employee share purchase scheme of grey list company)
   - **share reorganisation** , in the FIF rules and for a person and an attributing interest in a FIF, means an action of the FIF that causes an increase or reduction, other than for consideration, of the attributing interests held by persons, including the person, who hold attributing interests in the FIF immediately before the action
   - **share supplier** means a person, described as a share supplier, in the definition of , from whom a share user acquires an original share under a returning share transfer
@@ -38309,7 +38452,7 @@ In this Act, unless the context requires otherwise,—
   - **tax file number** means an identification number that the Commissioner has allocated to a person—
     (a) generally for the purposes of this Act; or
     (b) specifically for the purpose of the issue to the person of an RWT exemption certificate under section RE 27 (RWT exemption certificates)
-  - **tax loss** means an amount described in section IA 2(1) (Tax losses)
+  - **tax loss** means an amount described in section IA 2(1) (Tax losses) and includes unused tax loss components arising in the current tax year or in an earlier tax year
   - **tax loss component** is defined in section IA 2(7) (Tax losses)
   - **tax pooling account** is defined in section RP 17B (Tax pooling accounts and their use)
   - **tax withheld** means an amount of tax—
@@ -38327,7 +38470,7 @@ In this Act, unless the context requires otherwise,—
     (b) a bonus issue that a company chooses to treat as a dividend under section CD 8 (Elections to make bonus issue into dividend):
     (c) in the case of a bonus issue made before the enactment of this Act, a bonus issue that the company chose to treat as a dividend under a provision of an earlier Act corresponding to CD 8:
     (d) a bonus issue that is a dividend under section CD 10 (Bonus issue by foreign unit trust instead of money or property)
-  - **taxable distribution** , for a non-complying trust or a foreign trust, is defined in section HC 15(2) (Taxable distributions from non-complying and foreign trusts)
+  - **taxable distribution** , for a non-complying trust or a foreign trust, is defined in section HC 15 (Taxable distributions from non-complying and foreign trusts)
   - **taxable income** means taxable income for a tax year calculated under section BC 5 (Taxable income)
   - **taxable Maori authority distribution** is defined in section HF 7 (Taxable Maori authority distributions)
   - **taxable period** has the meaning given in section 2(1) of the Goods and Services Tax Act 1985
@@ -38368,13 +38511,16 @@ In this Act, unless the context requires otherwise,—
   - **thinning operations income equalisation account** is defined in section EH 79 (Other definitions)
   - **thinning operations income equalisation scheme** means the scheme referred to in section EH 1(2)(c) (Income equalisation schemes)
   - **thinning operations maximum deposit** is defined in section EH 78 (Meaning of thinning operations maximum deposit)
-  - **timber** includes standing timber in—
-    (a) section EB 24 (Apportionment on disposal of business assets that include trading stock):
-    (b) section FB 6 (Timber or right to take timber):
-    (c) section GC 1 (Disposals of trading stock at below market value):
-    (d) the definition of dispose, paragraph (b):
-    (e) the definition of right to take timber:
-    (f) the definition of trading stock, paragraph (b)(iv)
+  - **timber** —
+    (a) is defined in section DP 11(4) (Cost of timber) for the purposes of that section:
+    (b) includes standing timber in—
+      (i) section DP 11:
+      (ii) section EB 24 (Apportionment on disposal of business assets that include trading stock):
+      (iii) section FB 6 (Timber or right to take timber):
+      (iv) section GC 1 (Disposals of trading stock at below market value):
+      (v) the definition of dispose, paragraph (b):
+      (vi) the definition of right to take timber:
+      (vii) the definition of trading stock, paragraph (b)(iv)
   - **time bar** means the provisions of sections 108 and 108B of the Tax Administration Act 1994
   - **time of emigration** for an emigrating company, is the time at which the emigrating company becomes a non-resident for the purposes of subpart FL (Emigration of resident companies)
   - **time of the sale** , in sections DC 10 (Sale of business: transferred employment income obligations) and EA 4 (Deferred payment of employment income), means the date on which the agreement for sale of the business or part of the business is settled by the exchange of the seller’s business or the part for the buyer’s consideration
@@ -38885,6 +39031,8 @@ Treatment of nominee
 (1) In this Act, unless the context otherwise requires, if a person holds something or does something as a nominee for another person, the other person holds or does that thing and the nominee is ignored.
 Who is a nominee?
 (2) A person holds or does something as a nominee for another person if the person acts on the other person’s behalf. However, a trustee is a nominee only if the trustee is a bare trustee.
+Nominal settlements
+(3) A person making a nominal settlement at the request of another person is treated for the purposes of this Act as a nominee in relation to the settlement.
 
 ### Subpart YC — Measurement of company control and ownership
 
@@ -39711,22 +39859,22 @@ Table 1 RowESCT rate threshold amount Tax rate1$0 – $16,800 0.125 2 $16,801 �
 If section RD 67(b) applies, the amount of tax is determined by applying the rate of 0.33 to each dollar of an employer’s superannuation contribution.
 
 ### 3 Interest: general
-If clause 4 does not apply does not apply, the payment rate for a payment of passive resident income that consists of interest is set out in table 2.
-Row Conditions Payment rate 1The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has not received a payment rate election from the recipient of the interest.0.1952The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b) has received a payment rate election from the recipient of the interest, choosing the 0.195 payment rate.0.1953The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b) has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.3304The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b) has received a payment rate election from the recipient of the interest, choosing the 0.39 payment rate.0.3905The payer of the interest has not been supplied with the tax file number of a person who is paid the interest. 0.390
+If clause 4 does not apply does not apply, the payment rate for a payment of resident passive income that consists of interest is set out in table 2.
+Row Conditions Payment rate 1 The payer of the interest: (a)has been supplied with the tax file number of a person who is paid the interest; and (b)has not received a payment rate election from the recipient of the interest.0.1952The payer of the interest: (a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.195 payment rate.0.195 3The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.330 4The payer of the interest: (a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest, choosing the 0.39 payment rate.0.390 5The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.390
 How to use this table Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
 
 ### 4 Interest: most companies
-The payment rate for a payment of passive resident income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not:
+The payment rate for a payment of resident passive income that consists of interest is set out in table 3 if the recipient of the payment is a company that is not:
   (a) a trustee:
   (b) a Maori authority.
-Row Conditions Payment rate 1The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and(b) has not received a payment rate election from the recipient of the interest.0.33 2The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.333The payer of the interest:(a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest, choosing the 0.39 payment rate.0.394The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.39
+Row Conditions Payment rate 1 The payer of the interest: (a)has been supplied with the tax file number of a person who is paid the interest; and (b)has not received a payment rate election from the recipient of the interest.0.332The payer of the interest: (a)has been supplied with the tax file number of a person who is paid the interest; and(b)has received a payment rate election from the recipient of the interest, choosing the 0.33 payment rate.0.33 3The payer of the interest: (a)has been supplied with the tax file number of a person who is paid the interest; and (b)has received a payment rate election from the recipient of the interest, choosing the 0.39 payment rate.0.39 4The payer of the interest has not been supplied with the tax file number of a person who is paid the interest.0.39
 How to use this table Find the applicable condition, in the second column, in order to find the relevant rate to apply, in the third column.
 
 ### 5 Dividends and replacement payments
-The payment rate for a payment of passive resident income that consists of a dividend, or a replacement payment under a share-lending arrangement, is 0.33.
+The payment rate for a payment of resident passive income that consists of a dividend, or a replacement payment under a share-lending arrangement, is 0.33.
 
 ### 6 Taxable Maori authority distributions
-The payment rate for a payment of passive resident income that consists of a taxable Maori authority distribution is set out in table 4.
+The payment rate for a payment of resident passive income that consists of a taxable Maori authority distribution is set out in table 4.
 Row Conditions Payment rate 1 The Maori authority makes a taxable Maori authority distribution and does not meet the condition for the 0.39 payment rate in row 2.0.1952The Maori authority: (a)makes a taxable Maori authority distribution that is more than $200; and (b)does not have a record of the tax file number of the member to whom the distribution is made. 0.390
 How to use this table Find the applicable condition, in the middle column, in order to find the relevant rate to apply, in the right column.
 
@@ -39741,7 +39889,7 @@ The basic tax rate amount for a payment of salary or wages is set by applying th
   (b) the employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994.
 
 ### 2 M, ME, and ML tax codes: payments for pay periods longer than a week
-If an employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula—
+If an employee has notified their employer that the employee’s tax code is M, ME, or ML under section 24B(3) of the Tax Administration Act 1994, and the payment of salary or wages is for a pay period longer than a week, then the basic tax rate amount for the payment is calculated using the formula— total payment×weekly PAYE table amount. weekly portion of the payment
   (a) total payment means the payment of salary or wages to which this clause applies:
   (b) weekly portion of the payment means the portion of the payment that is attributable to the part of the pay period that is for a week if it is assumed that the payment accrued at a uniform daily rate throughout the pay period:
   (c) weekly PAYE table amount means the amount that results from applying the Commissioner’s weekly PAYE table to the weekly portion of the payment (described in paragraph (b)) using the employee’s tax code, as if the weekly portion is a payment for a weekly pay period.
@@ -41421,9 +41569,11 @@ For the purposes of determining a person’s liability to pay a late payment pen
 | FA 5(6) | The time of association is clarified as being the time at which the associated person acquires the asset. |
 | FA 9(2) and (3) | The time of association is clarified as being the time at which the associated person acquires the asset. |
 | FC 2 to FC 6 | The transfer on death to the executor/administrator and the subsequent transfer from the executor/administrator to the estate is treated as one transfer. |
+| GB 1 | Section GB 1(3) is clarified to confirm that the amount of the dividend derived is part of the consideration for the shares. |
 | GB 27(2)(c) | The $60,000 threshold is clarified in order to take into account all income that would be attributed under section GB 29. |
 | GB 35(2)(d) | The ambiguity is removed in order to clarify that multiple purposes are referred to. |
 | GB 42(2)(d) | The ambiguity is removed in order to clarify that multiple purposes are referred to. |
+| HC 27(2) | The definition of settlor is clarified so that any transfer to a trust that increases the net assets of the trust is a settlement on the trust and any deductible payments settled on a trust are included in trustee income. |
 | HC 34(2) | The date for the payment of tax on a taxable distribution from a non-complying trust is the terminal tax date of the person liable to pay that tax. |
 | IA 4(1) | Carried forward tax losses are used first by a person, before the losses may be grouped or otherwise used. |
 | LA 1 to LA 10 | Tax credits (other than personal and family tax credits) are used for the year that corresponds to the income year in which the credits arise. |
@@ -50263,4 +50413,420 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 589 Schedule 32—Recipients of charitable or other public benefit gifts
 (1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 1 Title
+This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 102 and 118(20) come into force on the day that the New Zealand Superannuation and Retirement Income Amendment Act 2009 comes into force.
+(3) Section 164 is treated as coming into force on 1 April 1995.
+(4) Sections 149, 150, 151, 152, 153, 155, 157, 158, 160, 161, 162(2), (5), (6), (7), (8), and (9), and 163, and schedule 2, rows 1, and 3 to 13 are treated as coming into force on 1 April 2005.
+(5) Sections 146 and 162(3) are treated as coming into force on 1 July 2007.
+(6) Section 159 and schedule 2, row 2 are treated as coming into force on 1 October 2007.
+(7) Section 154 is treated as coming into force on 19 December 2007.
+(8) Section 162(4) is treated as coming into force on 25 February 2008.
+(9) Section 156 is treated as coming into force on 4 March 2008.
+(10) Sections 4, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 26, 29, 31, 40, 41, 42, 44, 45, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 80(1), 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104(1), 105, 106, 107, 110, 111, 112, 113, 116, 117, 118(2), (3), (4), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (24), (26), (27), (29), (31), (32), and (33), 121, 122(1), 123(1), 125, 126, 135, 139, and schedule 1, rows 2 to 17, 20, 22, 23, and 27 to 44 are treated as coming into force on 1 April 2008.
+(11) Sections 19, 30, 43, and schedule 1, row 21 are treated as coming into force on 1 April 2009.
+(12) Sections 23, 24, 25, 27, 28, and schedule 1, row 18 are treated as coming into force on 30 June 2009.
+(13) Sections 147 and 165 are treated as coming into force on 1 July 2009.
+(14) Sections 166 and 167 are treated as coming into force on 7 October 2009.
+(15) Sections 74, 75, and 76 come into force on 7 January 2010.
+(16) Sections 78(1), 114, 115, 118(21), and schedule 1, row 35 come into force on 1 February 2010.
+(17) Sections 8, 9, 21, 22, 39, 46, 47, 48, 49, 50, 51, 52, 83, 103, 104(2), 108, 109, 118(5), (18), (22), (23), (25), and (36), 120, 122(2), (4), (5), and (6), 123(2) and (3), 124, 130, 131, 132, 133, and 134(1), (2), (3), (4), (5), (6), and (7), and schedule 1, rows 24 to 26 come into force on 1 April 2010.
+(18) Sections 32, 33, 34, 35, 36, 37, 38, 118(6), (19), (28), and (34), and schedule 1, row 19 come into force on 1 July 2010.
+(19) Sections 77, 78(2), (3), and (5), 118(35), 119, 122(3), and schedule 1, row 37 comes into force on 1 April 2011.
+(20) Sections 73, 78(4) and (6), 79, 80(2), 81, 82, 118(30) and (40), and schedule 1, row 36 come into force on 1 April 2013.
+
+## Part 1 — Amendments to Income Tax Act 2007
+
+### 11 Research or development
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 14 Cost of acquiring timber or right to take timber: other cases
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 15 Section DP 11 replaced
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 16 Acquiring film rights
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 17 Mining exploration expenditure or mining development expenditure on acquisition of asset
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 18 Meaning of income from forestry
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 19 Determination alternatives
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2009–10 and later income years.
+
+### 23 Attributable CFC amount
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
+
+### 24 Net attributable CFC income or loss
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
+
+### 25 Adjustment of fraction for excessively debt funded CFC
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
+
+### 26 Attributable CFC amount and net attributable CFC income or loss
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 27 Non-attributing active CFC: default test
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
+
+### 28 Non-attributing active CFC: test based on accounting standard
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for all income years beginning on or after 1 July 2009.
+
+### 29 Exemption for Australian unit trusts with adequate turnover or distributions
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 31 Accounting profits method
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years. However, subsection (1) does not apply to a person in relation to a tax position taken by the person in a return of income filed before the date of Royal assent of this Act in relation to the calculation of an income interest in a FIF, relying on section EX 49(6) before the amendment made by this section.
+
+### 41 Attribution rule for income from personal services
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 43 Beneficiary income
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for income years corresponding to the 2009–10 and later tax years.
+
+### 44 Who is a settlor?
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years. However, subsection (1) does not apply to a person in relation to a tax position taken by the person—
+  (a) in the period that starts on the first day of the 2008–09 income year and ends on the date of Royal assent of this Act; and
+  (b) in relation to a payment to an employee share purchase agreement in consideration of a valid salary sacrifice made by the employee; and
+  (c) relying upon paragraph (a)(i) of the definition of settlor in the Income Tax Act 2004, that the term settlor in the trust rules, and in the definitions of corpus, foreign trust, and settlement, for a trust other than a unit trust, means a person who makes, or has made at any time, a disposition of property to or for the benefit of the trust or on terms of the trust for less than market value.
+
+### 45 Unlisted company choosing to become portfolio listed company
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 54 Tax losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the Act(s).
+(5) Amendment(s) incorporated in the Act(s).
+(6) Amendment(s) incorporated in the Act(s).
+(7) Amendment(s) incorporated in the Act(s).
+(8) Amendment(s) incorporated in the Act(s).
+(9) Amendment(s) incorporated in the Act(s).
+(10) Subsections (1) to (9) apply for the 2008–09 and later income years.
+
+### 55 Using tax losses in tax year
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 56 Using loss balances carried forward to tax year
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 57 Restrictions on companies' loss balances carried forward
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for the 2008–09 and later income years.
+
+### 58 Restrictions on companies grouping tax losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 59 Restrictions relating to ring-fenced losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for the 2008–09 and later income years.
+
+### 60 General treatment
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 61 New section IQ 1B inserted
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 62 Ring-fencing cap on attributed CFC net losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for the 2008–09 and later income years.
+
+### 63 Ring-fencing cap on FIF net losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 64 Group companies using attributed CFC net losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the Act(s).
+(5) Subsections (1) to (4) apply for the 2008–09 and later income years.
+
+### 65 Pre-consolidation losses: general treatment
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 66 When group membership lacking in loss period
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 67 When group membership lacking in tax year of use
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 68 General treatment of mining companies' tax losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply for the 2008–09 and later income years.
+
+### 69 Treatment of tax losses resulting from certain expenditure
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the Act(s).
+(5) Amendment(s) incorporated in the Act(s).
+(6) Amendment(s) incorporated in the Act(s).
+(7) Subsections (1) to (6) apply for the 2008–09 and later income years.
+
+### 70 Holding companies' tax losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 71 Petroleum miners' tax losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 72 Life insurers' policyholder net losses
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 84 Adjustments for calculation of family scheme income
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 85 Calculation of maximum permitted ratios
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 87 ICA debit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 89 FDPA debit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 91 BETA credit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 93 MACA debit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 95 Consolidated ICA debit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 97 Consolidated FDPA debit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 99 Consolidated BETA credit for loss of shareholder continuity
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 101 Amounts treated as income tax
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 104 Payment of extra pay with other PAYE income payments
+(1) Amendment(s) incorporated in the Act(s).
+(2) Section RD 17(2) and (3) are replaced by the following: Rates applying When secondary tax codes apply Definition of items in formula
+  (2) For the sum of the amounts referred to in subsection (1) listed in the following paragraphs, the amount of tax for the extra pay that must be withheld is the amount determined using the basic amounts of tax for PAYE income payments set out in the relevant row of schedule 2, part B, table 1 (Basic tax rates for PAYE income payments):
+    (a) if the sum of the amounts is $14,000 or less, the amount determined by applying row 1:
+    (b) if the sum of the amounts is more than $14,000 but not more than $48,000, the amount determined by applying row 2:
+    (c) if the sum of the amounts is more than $48,000 but not more than $70,000, the amount determined by applying row 3:
+    (d) if the sum of the amounts is more than $70,000, the amount determined by applying row 4.
+  (3) Despite subsection (2), if the person pays an amount of extra pay to an employee in relation to which the employee has notified the person that a secondary code under section 24B(3)(bb), (c), (d), or (e) of the Tax Administration Act 1994 applies, the rate under schedule 2, part B, table 1 applying to the extra pay is determined using the formula— extra pay + annualised amount + low threshold amount.
+  (4) In the formula,—
+    (a) extra pay is the amount of the employee's extra pay:
+    (b) annualised amount is the amount given by subsections (1)(b) and (1B):
+    (c) low threshold amount is, as applicable,—
+      (i) for secondary code SB, $0:
+      (ii) for secondary code S, $14,001:
+      (iii) for secondary code SH, $48,001:
+      (iv) for secondary code ST, $70,001.
+(3) Subsection (1) applies for the 2008–09 and later income years.
+(4) Subsection (2) applies for the 2010–11 and later income years.
+
+### 105 RWT rules and their application
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 106 Resident passive income
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 107 New section RE 10B inserted
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 110 When payment treated as non-resident passive income
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 111 NRWT rules and their application
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 112 Obligation to withhold amounts of tax for non-resident passive income
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 113 When amounts of tax not withheld or partly withheld
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 117 Overpaid RWT or NRWT
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 118 Definitions
+(1) This section amends section YA 1.
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the Act(s).
+(5) In the definition of employer monthly schedule, in paragraph (k), row 2 is replaced by row 3.
+(6) The definition of employer sponsored group policy is omitted.
+(7) Amendment(s) incorporated in the Act(s).
+(8) Amendment(s) incorporated in the Act(s).
+(9) Amendment(s) incorporated in the Act(s).
+(10) Amendment(s) incorporated in the Act(s).
+(11) Amendment(s) incorporated in the Act(s).
+(12) Amendment(s) incorporated in the Act(s).
+(13) Amendment(s) incorporated in the Act(s).
+(14) Amendment(s) incorporated in the Act(s).
+(15) Amendment(s) incorporated in the Act(s).
+(16) Amendment(s) incorporated in the Act(s).
+(17) Amendment(s) incorporated in the Act(s).
+(18) In the definition of PIE rules, paragraph (a)(vii), ring-fenced losses is replaced by ring-fenced tax losses.
+(19) After the definition of policyholder base income, the following is inserted:.
+  - **policyholder unvested liabilities** means benefits that are allocated to policyholders of profit participation policies but are not vested in a specific policyholder
+(20) The definitions of portable New Zealand superannuation and portable veteran's pension are replaced by the following:.
+  - **portable New Zealand superannuation** means New Zealand superannuation paid or payable overseas under—
+    (a) section 26(2)(a) of the New Zealand Superannuation and Retirement Income Act 2001, or under section 26(2)(b) where the superannuitant is residing in a country to which section 26(1)(a) of that Act applies; or
+    (b) section 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
+    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+  - **portable veteran's pension** means a veteran's pension paid or payable overseas under—
+    (a) section 74J(2)(a) of the War Pensions Act 1954, or under section 74J(2)(b) where the pensioner is residing in a country to which section 74J(1)(a) of that Act applies; or
+    (b) section 74O of the War Pensions Act 1954; or
+    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+(21) After the definition of post-1989 forest land emissions unit the following is inserted: .
+  - **post-treaty tax rate** means the rate of tax, after taking into account the overriding effect of a relevant double tax agreement, if there is one, as provided by section BH 1 (Double tax agreements)
+(22) In the definition of prescribed investor rate, under sections HM 56 to HM 59 (which relate to the default and other tax rates for investors) is replaced by set out in schedule 6, table 1 (Prescribed rates: PIE investments and retirement scheme contributions).
+(23) In the definition of relative,––
+  (a) in paragraph (a), in the words before the subparagraphs, except in section HC 36 (Trusts and minor beneficiary rule) is replaced by for the purposes of only this Act, other than in section HC 36 (Trusts and minor beneficiary rule):
+  (b) in paragraph (b), that section is replaced by only that section:
+  (c) after paragraph (b), the following is added: .
+    (c) for the purposes of the definition of relative in section 2 of the Securities Act 1978, means a person connected with another person by––
+      (i) being within the fourth degree of blood relationship to the other:
+      (ii) being in a marriage, civil union, or de facto relationship with the other:
+      (iii) being in a marriage, civil union, or de facto relationship with a person who is within the fourth degree of blood relationship to the other:
+      (iv) being adopted as a child of the other or as a child of a person who is within the third degree of relationship to the other:
+      (v) being the trustee of a trust under which a relative of the other person has benefited or is eligible to benefit
+(24) Amendment(s) incorporated in the Act(s).
+(25) The definition of retirement scheme prescribed rate is replaced by the following:.
+  - **retirement scheme prescribed rate** , for a person and a retirement scheme contribution made for the person at a time in an income year, means a rate set out in schedule 6, table 2 (Prescribed rates: PIE investments and retirement scheme contributions)
+(26) Amendment(s) incorporated in the Act(s).
+(27) Amendment(s) incorporated in the Act(s).
+(28) The definition of savings product policy is replaced by the following: .
+  - **savings product policy** means a life insurance policy, other than an annuity, that may or may not have a life risk component and that has or will have a surrender value which––
+    (a) is greater than zero; and
+    (b) does not arise wholly from the payback of a portion of a policyholder's premiums
+(29) Amendment(s) incorporated in the Act(s).
+(30) The definition of supplementary dividend holding company is omitted.
+(31) Amendment(s) incorporated in the Act(s).
+(32) Amendment(s) incorporated in the Act(s).
+(33) Amendment(s) incorporated in the Act(s).
+(34) After the definition of working day, the following is inserted: .
+  - **workplace group policy** is defined in section EY 30 (Transitional adjustments: life risk)
+(35) The definition of year of payment is omitted.
+(36) In the definition of zero-rated investor, HM 59 is replaced by HM 57.
+(37) Subsections (2), (3), (4), (7), (8), (9), (10), (11), (12), (13), (14), (17), (27), (29), (31), (32), and (33) apply for the 2008–09 and later income years.
+(38) Subsections (5), (18), (22), (25), and (36) apply for the 2010–11 and later income years.
+(39) Subsections (6), (19), (28), and (34) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+(40) Subsection (30) applies for the 2013–14 and later income years.
+
+### 121 Transparency of nominees
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 122 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
+(1) Amendment(s) incorporated in the Act(s).
+(2) Schedule 1, part D, table 2 is replaced by the following: Table 2RowConditionsPayment rate1The payer of the interest has not been supplied with the tax file number of the person who is paid the interest. 0.380 2For a person who opens a new account after 31 March 2010 the payer of the interest— (a) has been supplied with the tax file number of the person; and(b)has not received a payment rate election from the person.0.380 3For a person who chooses the payment rate of 0.380, the payer of the interest— (a) has been supplied with the tax file number of the person; and (b) has received a payment rate election from the person.0.3804 For a person who chooses the payment rate of 0.330, the payer of the interest— (a) has been supplied with the tax file number of the person; and (b)has received a payment rate election from the person.0.3305For a person in relation to whom RWT is withheld at the payment rate of 0.195 before 1 April 2010, the payer of the interest— (a) has been supplied with the tax file number of the person; and (b)has not received a payment rate election from the person.0.2106 For a person who chooses the payment rate of 0.210, the payer of the interest— (a) has been supplied with the tax file number of the person; and (b)has received a payment rate election from the person.0.2107 For a person other than a trustee who chooses the payment rate of 0.125 and has a reasonable expectation at the time of the election that their income for the income year will be $14,000 or less, the payer of the interest—(a)has been supplied with the tax file number of the person; and (b) has received a payment rate election from the person.0.125 8 For a person— (a) who— (i) receives interest as a trustee of a testamentary trust to which section HC 37 applies; and(ii)chooses the payment rate of 0.125; and(b) in relation to whom, the payer of the interest— (i) has been supplied with the tax file number of the person; and (ii)has received a payment rate election from the person. 0.125How to use this table Find the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+(3) In schedule 1, part D, table 3, 0.33 is replaced by 0.30 in each place where it appears.
+(4) In schedule 1, part D, table 3, 0.39 is replaced by 0.38 in each place where it appears.
+(5) In schedule 1, part D, table 4,—
+  (a) in row 1, 0.39 is replaced by 0.38:
+  (b) in row 2, 0.390 is replaced by 0.380.
+(6) Schedule 1, part D, table 5 is replaced by the following: Table 5RowConditions Payment rate1The person responsible for withholding RSCT— (a) has been notified under section 28C of the Tax Administration Act 1994 that 12.5 cents in the dollar is the person's retirement scheme prescribed rate; and (b) has been supplied with the tax file number of the person.0.1252 The person is a non-resident and a distribution of no more than $200 is made to them by a retirement scheme contributor that is a Maori authority. 0.1253The person responsible for withholding RSCT—(a) has been notified under section 28C of the Tax Administration Act 1994 that 21 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and (b)has been supplied with the tax file number of the person.0.2104 The person responsible for withholding RSCT— (a) has been notified under section 28C of the Tax Administration Act 1994 that 33 cents in the dollar is equal to or greater than the person's retirement scheme prescribed rate; and(b)has been supplied with the tax file number of the person.0.330 5When none of rows 1 to 4 apply.0.380How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+(7) Subsection (1) applies for the 2008–09 and later income years.
+(8) Subsections (2), (4), (5), and (6) apply for the 2010–11 and later income years.
+(9) Subsection (3) applies for the 2011–12 and later income years.
+
+### 123 Schedule 2—Basic tax rates for PAYE income payments
+(1) Amendment(s) incorporated in the Act(s).
+(2) After schedule 2, part A, clause 8, the following is added: “9 “SB” tax code If an employee has notified their employer that the employee's tax code is “SB” under section 24B(3)(bb) of the Tax Administration Act 1994, the basic tax rate amount for a payment of secondary employment earnings is set by applying the rate of 0.125 for each dollar of the payment.”
+(3) Schedule 2, part B, table 1 is replaced by the following: Table 1RowConditionPayment rate 1Section RD 17(2)(a) applies and the sum is $14,000 or less.0.1252Section RD 10(2)(a) or RD 17(2)(b) applies.0.210 3Section RD 10(2)(b) or RD 17(2)(c) applies. 0.330 4 Section RD 10(2)(c) or RD 17(2)(d) applies.0.380How to use this tableFind the applicable condition in the second column, in order to find the relevant rate to apply, in the third column.
+(4) Subsection (1) applies for the 2008–09 and later income years.
+(5) Subsections (2) and (3) apply for the 2010–11 and later income years.
+
+### 125 Schedule 51—Identified changes in legislation
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
