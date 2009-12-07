@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2009-12-07_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -309,6 +309,10 @@ _Consolidation as at 2009-10-06_
 (6) For the purposes of this Act, every public authority is deemed to supply goods and services where, within the meaning of the Public Finance Act 1989, any amount is brought to charge by the public authority as revenue from the Crown for the supply of outputs.
 (6A) For the purposes of this Act, any registration fee paid pursuant to section 7(3) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 (and prescribed in Part 1 of Schedule 2 to that Act), and any annual licence fee paid pursuant to section 10(2) of that Act (and prescribed in Part 2 of Schedule 2 to that Act), shall be deemed to be consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
 (6AB) For the purposes of this Act, a levy that is paid to the New Zealand Fire Service Commission under section 48 of the Fire Service Act 1975 and is not a penalty surcharge or interest payable under that Act is treated as being consideration for a supply of services to the insured person in the course or furtherance of a taxable activity carried on by the Commission.
+(6AC) For the purposes of this Act, a levy that is paid under the Waste Minimisation Act 2008 is treated as being consideration for a supply of services in the course or furtherance of a taxable activity. For the purposes of this subsection, the payment of the levy includes, and is for, the following transactions:
+  (a) a payment made by a waste disposal facility user to a waste disposal facility operator; and
+  (b) a payment made by a waste disposal facility operator to the Secretary for the Ministry for the Environment; and
+  (c) a payment made by the Secretary to a funding recipient or territorial authority to fund waste minimisation activities in the community as described in section 30 of the Waste Minimisation Act 2008.
 (6B) For the purposes of this Act, any amount of road user charge paid on or after the 26th day of April 1993 pursuant to section 9 of the Road User Charges Act 1977 shall be deemed to be a consideration for a supply of services in the course or furtherance of a taxable activity carried on by the New Zealand Transport Agency.
 (6C) For the purposes of this Act, the amount of any deposit specified in, and paid under, section 127A or section 144 or section 146F of the Electoral Act 1993 is deemed to be consideration (inclusive of tax) for a supply of services by the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of the Electoral Act 1993 in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under section 127A(3) or section 144(3) or section 146F(3) of that Act.
 (6CA) For the purposes of this Act, the amount of any deposit referred to in, and paid under, section 55 of the Local Electoral Act 2001 is deemed to be consideration (inclusive of tax) for a supply of services by the relevant local authority in the course or furtherance of a taxable activity, and that supply is deemed to take place when and if the deposit is forfeited under section 59 of that Act.
@@ -414,6 +418,17 @@ This Act shall bind the Crown.
 ### 8 Imposition of goods and services tax on supply
 (1) Subject to this Act, a tax, to be known as goods and services tax, shall be charged in accordance with the provisions of this Act at the rate of 12.5 percent on the supply (but not including an exempt supply) in New Zealand of goods and services, on or after the 1st day of October 1986, by a registered person in the course or furtherance of a taxable activity carried on by that person, by reference to the value of that supply.
 (2) For the purposes of this Act, goods and services shall be deemed to be supplied in New Zealand if the supplier is resident in New Zealand, and shall be deemed to be supplied outside New Zealand if the supplier is a non-resident:
+(2B) To the extent to which a supply of services consists of the facilitation of inbound tour operations, the supply is chargeable with tax under subsection (1), and section 11A does not apply to that part of the supply.
+(2C) Despite subsection (2B), the part of the supply that consists of the facilitation of inbound tour operations is charged at the rate of 0% if—
+  (a) a registered person supplies the services in the period from 1 July 2007 to 30 June 2008 (the transitional period); and
+  (b) the consideration for the supply is an amount quantified—
+    (i) on the basis of the person's gross margin attributable to the facilitation of inbound tour operations; or
+    (ii) by other means that the Commissioner is able to verify.
+(2D) For the purposes of subsection (2C)(b), the amount of the consideration must be—
+  (a) calculated for each of the person's taxable periods that fall in the transitional period:
+  (b) for any days in the person's taxable period that fall outside the transitional period, apportioned on a pro rata basis.
+(2E) If a registered person has supplied services in the transitional period by way of the facilitation of inbound tour operations and tax was paid under this section in relation to the services, the person is entitled to a refund of the amount of tax paid. They must apply for the refund in writing within the period that starts on the date of Royal assent of the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009 and ends 6 months after that date.
+(2F) For the purposes of subsections (2B) and (2C), services that consist of the facilitation of inbound tour operations means the services that a registered person provides in packaging 1 or more domestic tourism products and services in New Zealand and selling them outside New Zealand to a non-resident person. The tourism products and services may include accommodation, meals, transport, and other activities.
 (3) Despite subsection (2), goods and services are treated as being supplied in New Zealand if the supplier is a non-resident and either—
   (a) the goods are in New Zealand at the time of the supply; or
   (b) the services are physically performed in New Zealand by a person who is in New Zealand at the time the services are performed.
