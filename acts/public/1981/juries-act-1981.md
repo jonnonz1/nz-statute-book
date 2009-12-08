@@ -1,5 +1,5 @@
 # Juries Act 1981
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-12-08_
 
 > An Act to consolidate and reform the law relating to juries
 
@@ -79,7 +79,7 @@ The following persons shall not serve on any jury in any court on any occasion:
     (i) the Board of that agency; or
     (ii) the Review Panel established under section 62 of that Act; or
     (iii) the Public Advisory Committee established under Part 7 of that Act):
-  (ha) a party to a management contract entered into under section 4A of the Penal Institutions Act 1954 or to a security contract entered into under section 166 of the Corrections Act 2004; or
+  (ha) a party to a prison management contract entered into under section 198(1) of the Corrections Act 2004 or to a security contract entered into under section 166 of the Corrections Act 2004; or
   (hb) a security officer within the meaning of section 3(1) of the Corrections Act 2004:
   (i)
   (j)
