@@ -1,11 +1,11 @@
 # Resource Management Act 1991
-_Consolidation as at 2009-10-01_
+_Consolidation as at 2009-12-08_
 
 > An Act to restate and reform the law relating to the use of land, air, and water
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Resource Management Act 1991.
-(2) Except as provided in subsection (3), this Act shall come into force on the 1st day of October 1991.
+(2) Except as provided in subsection (3), this Act shall come into force on 1 October 1991.
 (3)
 
 ## Part 1 — Interpretation and application
@@ -14,7 +14,7 @@ _Consolidation as at 2009-10-01_
 (1) In this Act, unless the context otherwise requires,—
   - **abatement notice** means a notice served under section 322
   - **access rights** has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
-  - **access strip** means a strip of land created by the registration of an easement in accordance with section 237B for the purpose of allowing public access to or along any river, or lake, or the coast, or to any esplanade reserve, esplanade strip, other reserve, or land owned by the local authority or by the Crown (but excluding all land held for a public work except land held, administered, or managed under the Conservation Act 1987 and the Acts named in Schedule 1 to that Act)
+  - **access strip** means a strip of land created by the registration of an easement in accordance with section 237B for the purpose of allowing public access to or along any river, or lake, or the coast, or to any esplanade reserve, esplanade strip, other reserve, or land owned by the local authority or by the Crown (but excluding all land held for a public work except land held, administered, or managed under the Conservation Act 1987 and the Acts named in Schedule 1 of that Act)
   - **accredited** means to hold a qualification approved and notified under section 39A
   - **adverse effects assessment** means an assessment carried out—
     (a) by the Minister of Conservation under Part 1 of Schedule 12; or
@@ -24,7 +24,7 @@ _Consolidation as at 2009-10-01_
     (b) by a regional council under section 17B(1)(b), in accordance with Part 2 of Schedule 12
   - **agent** or , in relation to a ship, means—
     (a) any agent in New Zealand of the owner of the ship; or
-    (b) any agent of the ship:
+    (b) any agent of the ship
   - **aircraft** means any machine that can derive support in the atmosphere from the reactions of the air otherwise than by reactions of the air against the surface of the earth
   - **airport** means any defined area of land or water intended or designed to be used, whether wholly or partly, for the landing, departure, movement, or servicing of aircraft
   - **allotment** has the meaning set out in section 218
@@ -122,8 +122,8 @@ _Consolidation as at 2009-10-01_
     (a) ecosystems and their constituent parts, including people and communities; and
     (b) all natural and physical resources; and
     (c) amenity values; and
-    (d) the social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) of this definition or which are affected by those matters
-  - **Environment Court** means the Environment Court referred to in section 247
+    (d) the social, economic, aesthetic, and cultural conditions which affect the matters stated in paragraphs (a) to (c) or which are affected by those matters
+  - **Environment Court** and means the Environment Court referred to in section 247
   - **Environmental Protection Authority** or means the Environmental Protection Authority established under section 42B
   - **esplanade reserve** means a reserve within the meaning of the Reserves Act 1977—
     (a) which is either—
@@ -159,7 +159,7 @@ _Consolidation as at 2009-10-01_
     (b) includes—
       (i) historic sites, structures, places, and areas; and
       (ii) archaeological sites; and
-      (iii) sites of significance to Maori, including wahi tapu; and
+      (iii) sites of significance to Māori, including wāhi tapu; and
       (iv) surroundings associated with the natural and physical resources
   - **holder** , in relation to a customary rights order, has the same meaning as in section 5 of the Foreshore and Seabed Act 2004
   - **incineration** , in relation to waste or other matter, means its deliberate combustion for the purpose of its thermal destruction; and and have corresponding meanings
@@ -184,7 +184,7 @@ _Consolidation as at 2009-10-01_
     (k) facilities for the loading or unloading of cargo or passengers carried by sea, including a port related commercial undertaking as defined in section 2(1) of the Port Companies Act 1988:
     (l) anything described as a network utility operation in regulations made for the purposes of the definition of network utility operator in section 166
   - **interim enforcement order** means an order made under section 320
-  - **internal waters** has the same meaning as in section 4 of the Territorial Sea and Exclusive Economic Zone Act 1977
+  - **internal waters** has the same meaning as in section 4 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **intrinsic values** , in relation to ecosystems, means those aspects of ecosystems and their constituent parts which have value in their own right, including—
     (a) their biological and genetic diversity; and
     (b) the essential characteristics that determine an ecosystem's integrity, form, functioning, and resilience
@@ -203,7 +203,7 @@ _Consolidation as at 2009-10-01_
   - **kaitiakitanga** means the exercise of guardianship by the tangata whenua of an area in accordance with tikanga Maori in relation to natural and physical resources; and includes the ethic of stewardship
   - **lake** means a body of fresh water which is entirely or nearly surrounded by land
   - **land** —
-    (a) includes land covered by water and the air space above land; and
+    (a) includes land covered by water and the airspace above land; and
     (b) in a national environmental standard dealing with a regional council function under section 30 or a regional rule, does not include the bed of a lake or river; and
     (c) in a national environmental standard dealing with a territorial authority function under section 31 or a district rule, includes the surface of water in a lake or river
   - **land use consent** has the meaning set out in section 87(a)
@@ -235,9 +235,9 @@ _Consolidation as at 2009-10-01_
       (iii) a provision of a policy statement or plan; or
     (b) a notice summarising a decision under paragraph (a)
   - **occupier** means—
-    (a) The inhabitant occupier of any property; and
+    (a) the inhabitant occupier of any property; and
     (b)
-    (c) For the purposes of section 16, in relation to any land (including any premises and any coastal marine area), includes any agent, employee, or other person acting or apparently acting in the general management or control of the land, or any plant or machinery on that land
+    (c) for the purposes of section 16, in relation to any land (including any premises and any coastal marine area), includes any agent, employee, or other person acting or apparently acting in the general management or control of the land, or any plant or machinery on that land
   - **occupy** means the activity of occupying any part of the coastal marine area—
     (a) where the occupation is reasonably necessary for another activity; and
     (b) where it is to the exclusion of all or any class of persons who are not expressly allowed to occupy that part of the coastal marine area by a rule in a regional coastal plan and in any relevant proposed regional coastal plan or by a resource consent; and
@@ -262,7 +262,7 @@ _Consolidation as at 2009-10-01_
   - **private way** has the same meaning as in section 315 of the Local Government Act 1974
   - **production land** —and has a corresponding meaning
     (a) means any land and auxiliary buildings used for the production (but not processing) of primary products (including agricultural, pastoral, horticultural, and forestry products):
-    (b) does not include land or auxiliary buildings used or associated with prospecting, exploration, or mining for minerals—
+    (b) does not include land or auxiliary buildings used or associated with prospecting, exploration, or mining for minerals,—
   - **prohibited activity** means an activity described in section 87A(6)
   - **proposed plan** has the meaning given in section 43AAC
   - **proposed policy statement** has the meaning given in section 43AA
@@ -289,8 +289,8 @@ _Consolidation as at 2009-10-01_
   - **regional policy statement** has the meaning given in section 43AA
   - **regional rule** has the meaning given in section 43AAB
   - **regulations** means regulations made under this Act
-  - **requiring authority** has the meaning set out in section 166
   - **renewable energy** means energy produced from solar, wind, hydro, geothermal, biomass, tidal, wave, and ocean current sources
+  - **requiring authority** has the meaning set out in section 166
   - **reservation** has the same meaning as in section 2(1) of the Fisheries Act 1996
   - **resource consent** has the meaning set out in section 87; and includes all conditions to which the consent is subject
   - **restricted coastal activity** means any discretionary activity or non-complying activity that, in accordance with section 68, is stated by a regional coastal plan to be a restricted coastal activity
@@ -302,9 +302,9 @@ _Consolidation as at 2009-10-01_
   - **serve** means serve in accordance with section 352 or section 353
   - **ship** has the same meaning as in section 2(1) of the Maritime Transport Act 1994
   - **soil conservation** means avoiding, remedying, or mitigating soil erosion and maintaining the physical, chemical, and biological qualities of soil
-  - **space** , in relation to the coastal marine area, means any part of the foreshore, seabed, and coastal water, and the air space above the water
+  - **space** , in relation to the coastal marine area, means any part of the foreshore, seabed, and coastal water, and the airspace above the water
   - **special tribunal** means a special tribunal appointed under section 202 to hear an application for a water conservation order
-  - **state highway** has the same meaning as in section 2(1) of the Government Roading Powers Act 1989
+  - **State highway** has the same meaning as in section 2(1) of the Government Roading Powers Act 1989
   - **structure** means any building, equipment, device, or other facility made by people and which is fixed to land; and includes any raft
   - **subdivision consent** has the meaning set out in section 87(b)
   - **subdivision of land** and have the meanings set out in section 218
@@ -320,9 +320,9 @@ _Consolidation as at 2009-10-01_
   - **taonga raranga** means plants which produce material highly prized for use in weaving
   - **tauranga waka** means canoe landing sites
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea and Exclusive Economic Zone Act 1977
+  - **territorial sea** means the territorial sea of New Zealand as defined by section 3 of the Territorial Sea, Contiguous Zone, and Exclusive Economic Zone Act 1977
   - **tikanga Maori** means Maori customary values and practices
-  - **Treaty of Waitangi (Te Tiriti o Waitangi)** has the same meaning as the word as defined in section 2 of the Treaty of Waitangi Act 1975
+  - **Treaty of Waitangi (Te Tiriti o Waitangi)** has the same meaning as the word Treaty as defined in section 2 of the Treaty of Waitangi Act 1975
   - **unit** has the same meaning as in section 2 of the Unit Titles Act 1972; and includes a future development unit as defined in section 2 of the Unit Titles Amendment Act 1979
   - **unit plan** has the same meaning as in section 2 of the Unit Titles Act 1972; and includes a proposed unit development plan within the meaning of that Act but does not include a stage unit plan or a complete unit plan within the meaning of that Act
   - **use** ,—
@@ -332,7 +332,7 @@ _Consolidation as at 2009-10-01_
       (iii) damage, destroy, or disturb the habitats of plants or animals in, on, or under land:
       (iv) deposit a substance in, on, or under land:
       (v) any other use of land; and
-    (b) in sections 9, 10A 81(2), 176(1)(b)(i) and 193(a) also means to enter onto or pass across the surface of water in a lake or river
+    (b) in sections 9, 10A, 81(2), 176(1)(b)(i), and 193(a), also means to enter onto or pass across the surface of water in a lake or river
   - **variation** has the meaning given in section 43AA
   - **waste or other matter** means materials and substances of any kind, form, or description
   - **water** —
@@ -347,14 +347,14 @@ _Consolidation as at 2009-10-01_
     (a) a Saturday, a Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) a day in the period beginning on 20 December in any year and ending with 10 January in the following year.
 (2) In this Act, unless the context otherwise requires,—
-  (a) a reference to a Part, section, or Schedule, is a reference to a Part, section, or Schedule of this Act:
+  (a) a reference to a Part, section, or schedule, is a reference to a Part, section, or schedule of this Act:
   (b) a reference in a section to a subsection is a reference to a subsection of that section:
   (c) a reference in a subsection to a paragraph is a reference to a paragraph of that subsection:
   (d) a reference in a section to a paragraph is a reference to a paragraph of that section:
-  (e) a reference in a Schedule to a clause is a reference to a clause of that Schedule:
-  (f) a reference in a clause of a Schedule to a subclause is a reference to a subclause of that clause:
-  (g) a reference in a subclause in a Schedule to a paragraph is a reference to a paragraph of that subclause:
-  (h) a reference in a clause in a Schedule to a paragraph is a reference to a paragraph of that clause.
+  (e) a reference in a schedule to a clause is a reference to a clause of that schedule:
+  (f) a reference in a clause of a schedule to a subclause is a reference to a subclause of that clause:
+  (g) a reference in a subclause in a schedule to a paragraph is a reference to a paragraph of that subclause:
+  (h) a reference in a clause in a schedule to a paragraph is a reference to a paragraph of that clause.
 
 ### 2AA Definitions relating to notification
 (1) The definitions in subsection (2) apply only in relation to—
@@ -396,9 +396,10 @@ Subject to section 134 and any specific conditions included in the resource cons
 (2) This Act does not apply to any work or activity of the Crown which—
   (a) is a use of land within the meaning of section 9; and
   (b) the Minister of Defence certifies is necessary for reasons of national security.
-(3) Section 9(3) does not apply to any work or activity of the Crown within the boundaries of any area of land held or managed under the Conservation Act 1987 or any other Act specified in Schedule 1 to that Act (other than land held for administrative purposes) that—
-  (a) is consistent with a conservation management strategy, conservation management plan, or management plan established under the Conservation Act 1987 or any other Act specified in Schedule 1 to that Act; and
+(3) Section 9(3) does not apply to any work or activity of the Crown within the boundaries of any area of land held or managed under the Conservation Act 1987 or any other Act specified in Schedule 1 of that Act (other than land held for administrative purposes) that—
+  (a) is consistent with a conservation management strategy, conservation management plan, or management plan established under the Conservation Act 1987 or any other Act specified in Schedule 1 of that Act; and
   (b) does not have a significant adverse effect beyond the boundary of the area of land.
+(3A) Section 9 does not apply to the detention of prisoners in a court cell block that is declared by notice in the Gazette to be a part of a corrections prison.
 (4)
 (5) An abatement notice or excessive noise direction may be served or issued against an instrument of the Crown, in accordance with this Act, only if—
   (a) it is a Crown organisation; and
@@ -441,7 +442,7 @@ Except as otherwise expressly provided in any regulations made under this Act, t
 
 ### 5 Purpose
 (1) The purpose of this Act is to promote the sustainable management of natural and physical resources.
-(2) In this Act, sustainable management means managing the use, development, and protection of natural and physical resources in a way, or at a rate, which enables people and communities to provide for their social, economic, and cultural wellbeing and for their health and safety while—
+(2) In this Act, sustainable management means managing the use, development, and protection of natural and physical resources in a way, or at a rate, which enables people and communities to provide for their social, economic, and cultural well-being and for their health and safety while—
   (a) sustaining the potential of natural and physical resources (excluding minerals) to meet the reasonably foreseeable needs of future generations; and
   (b) safeguarding the life-supporting capacity of air, water, soil, and ecosystems; and
   (c) avoiding, remedying, or mitigating any adverse effects of activities on the environment.
@@ -541,12 +542,12 @@ In achieving the purpose of this Act, all persons exercising functions and power
     (ii) a survey plan, as defined in paragraph (a)(ii) of the definition of survey plan in section 2(1), approved as described in section 228 by the Chief Surveyor; or
     (iii) a survey plan, as defined in paragraph (b) of the definition of survey plan in section 2(1), deposited under Part 10 by the Registrar-General of Land; or
   (b) effected by the acquisition, taking, transfer, or disposal of part of an allotment under the Public Works Act 1981 (except that, in the case of the disposition of land under the Public Works Act 1981, each existing separate parcel of land shall, unless otherwise provided by that Act, be disposed of without further division of that parcel of land); or
-  (c) effected by the establishment, change, or cancellation of a reserve under section 338 of the Te Ture Whenua Maori Act 1993; or
+  (c) effected by the establishment, change, or cancellation of a reserve under section 338 of Te Ture Whenua Maori Act 1993; or
   (ca) effected by a transfer under section 23 of the State-Owned Enterprises Act 1986 or a resumption under section 27D of that Act; or
-  (cb) effected by any vesting in or transfer or gift of any land to the Crown or any local authority or administering body (as defined in section 2 of the Reserves Act 1977) for the purposes (other than administrative purposes) of the Conservation Act 1987 or any other Act specified in Schedule 1 to that Act; or
+  (cb) effected by any vesting in or transfer or gift of any land to the Crown or any local authority or administering body (as defined in section 2 of the Reserves Act 1977) for the purposes (other than administrative purposes) of the Conservation Act 1987 or any other Act specified in Schedule 1 of that Act; or
   (cc) effected by transfer or gift of any land to the New Zealand Historic Places Trust or the Queen Elizabeth the Second National Trust for the purposes of the Historic Places Act 1993 or the Queen Elizabeth the Second National Trust Act 1977; or
   (d) effected by any transfer, exchange, or other disposition of land made by an order under subpart 3 of Part 6 of the Property Law Act 2007 (which relates to the granting of access to landlocked land).
-(2) Subsection (1) does not apply in respect of Maori land within the meaning of the Te Ture Whenua Maori Act 1993 unless that Act otherwise provides.
+(2) Subsection (1) does not apply in respect of Maori land within the meaning of Te Ture Whenua Maori Act 1993 unless that Act otherwise provides.
 
 **Coastal marine area**
 
@@ -622,16 +623,17 @@ To avoid doubt, a coastal permit for aquaculture activities does not expire beca
     (ii) the reasonable needs of an individual's animals for drinking water,—
   (c) in the case of geothermal water, the water, heat, or energy is taken or used in accordance with tikanga Maori for the communal benefit of the tangata whenua of the area and does not have an adverse effect on the environment; or
   (d) in the case of coastal water (other than open coastal water), the water, heat, or energy is required for an individual's reasonable domestic or recreational needs and the taking, use, or diversion does not, or is not likely to, have an adverse effect on the environment; or
-  (e) the water is required to be taken or used for fire-fighting purposes.
+  (e) the water is required to be taken or used for firefighting purposes.
 
 **Discharges**
 
 ### 15 Discharge of contaminants into environment
-(1) No person may discharge any—unless the discharge is expressly allowed by a national environmental standard or other regulations, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
+(1) No person may discharge any—
   (a) contaminant or water into water; or
   (b) contaminant onto or into land in circumstances which may result in that contaminant (or any other contaminant emanating as a result of natural processes from that contaminant) entering water; or
   (c) contaminant from any industrial or trade premises into air; or
   (d) contaminant from any industrial or trade premises onto or into land—
+unless the discharge is expressly allowed by a national environmental standard or other regulations, a rule in a regional plan as well as a rule in a proposed regional plan for the same region (if there is one), or a resource consent.
 (2) No person may discharge a contaminant into the air, or into or onto land, from a place or any other source, whether moveable or not, in a manner that contravenes a national environmental standard unless the discharge—
   (a) is expressly allowed by other regulations; or
   (b) is expressly allowed by a resource consent; or
@@ -643,9 +645,10 @@ To avoid doubt, a coastal permit for aquaculture activities does not expire beca
 (3) This section shall not apply to anything to which section 15A or section 15B applies.
 
 ### 15A Restrictions on dumping and incineration of waste or other matter in coastal marine area
-(1) No person may, in the coastal marine area,—unless the dumping or incineration is expressly allowed by a resource consent.
+(1) No person may, in the coastal marine area,—
   (a) dump any waste or other matter from any ship, aircraft, or offshore installation; or
   (b) incinerate any waste or other matter in any marine incineration facility—
+unless the dumping or incineration is expressly allowed by a resource consent.
 (2) No person may dump, in the coastal marine area, any ship, aircraft, or offshore installation unless expressly allowed to do so by a resource consent.
 (3) Nothing in this section permits the dumping of radioactive waste or radioactive matter (to which section 15C applies) or any discharge of a harmful substance that would contravene section 15B.
 
@@ -699,7 +702,7 @@ To avoid doubt, a coastal permit for aquaculture activities does not expire beca
   (b) a rule in a plan or a proposed plan.
 (2) Subsection (1) applies to a recognised customary activity only if that activity is carried out—
   (a) in accordance with any controls imposed by the Minister of Conservation under Schedule 12; and
-  (b) by any member of the whanau, hapu, or iwi or of the group, as the case may be, entitled to do so under section 52 or section 76 of the Foreshore and Seabed Act 2004; or
+  (b) by any member of the whānau, hapū, or iwi or of the group, as the case may be, entitled to do so under section 52 or section 76 of the Foreshore and Seabed Act 2004; or
   (c) by a person authorised by the holder of the customary rights order to carry out the activity under section 53(1)(a) or section 77(1)(a) of the Foreshore and Seabed Act 2004.
 
 ### 17B Adverse effects assessment
@@ -781,7 +784,7 @@ The Minister for the Environment may—
   (b) make recommendations to the local authority on its exercise or performance of those functions, powers, or duties; and
   (c) investigate the failure or omission by a local authority to exercise or perform any of its functions, powers, or duties under this Act or regulations under this Act; and
   (d) make recommendations to the local authority on its failure or omission to exercise or perform those functions, powers, or duties; and
-  (e) take action under section 25 or section 25A if the local authority's failure or omission to act on a recommendation gives the Minister grounds to take action under 1 or both of those sections.
+  (e) take action under section 25 or section 25A if the local authority's failure or omission to act on a recommendation gives the Minister grounds to take action under one or both of those sections.
 
 ### 25 Residual powers of Minister for the Environment
 (1) Where any local authority is not exercising or performing any of its functions, powers, or duties under this Act to the extent that the Minister for the Environment considers necessary to achieve the purpose of this Act, the Minister may appoint, on such terms and conditions as the Minister thinks fit, 1 or more persons (including any officer of the public service) to exercise or perform all or any of those functions, powers, or duties in place of the local authority.
@@ -814,7 +817,7 @@ The Minister for the Environment may—
 ### 26 Minister may make grants and loans
 (1) The Minister for the Environment may make grants and loans on such conditions as he or she thinks fit to any person to assist in achieving the purpose of this Act.
 (2) All money spent or advanced by the Minister under this section shall be paid out of money appropriated by Parliament for the purpose.
-(3) All money received by the Minister under this Act shall be paid into the Crown Bank Account or such other account as may be approved by the Minister of Finance.
+(3) All money received by the Minister under this Act shall be paid into a Crown Bank Account or such other account as may be approved by the Minister of Finance.
 
 ### 27 Minister may require local authorities to supply information
 (1) The Minister for the Environment may require the bodies described in subsection (2) to supply the information described in subsection (3).
@@ -977,9 +980,9 @@ The Minister of Conservation shall have the following functions under this Act:
   (a) the Minister, for a national environmental standard or a national policy statement; or
   (b) the Minister of Conservation, for the New Zealand coastal policy statement; or
   (c) the local authority, for a policy statement or a plan (except for plan changes that have been requested and the request accepted under clause 25(2)(b) of Schedule 1); or
-  (d) the person who made the request, for plan changes that have been requested and the request accepted under clause 25(2)(b) of the Schedule 1.
+  (d) the person who made the request, for plan changes that have been requested and the request accepted under clause 25(2)(b) of Schedule 1.
 (2) A further evaluation must also be made by—
-  (a) a local authority before making a decision under clause 10 or clause 29(4) of the Schedule 1; and
+  (a) a local authority before making a decision under clause 10 or clause 29(4) of Schedule 1; and
   (b) the relevant Minister before issuing a national policy statement or New Zealand coastal policy statement.
 (3) An evaluation must examine—
   (a) the extent to which each objective is the most appropriate way to achieve the purpose of this Act; and
@@ -997,7 +1000,7 @@ The Minister of Conservation shall have the following functions under this Act:
 
 ### 33 Transfer of powers
 (1) A local authority may transfer any 1 or more of its functions, powers, or duties under this Act, except this power of transfer, to another public authority in accordance with this section.
-(2) For the purposes of this section, public authority includes any local authority, iwi authority, board of a foreshore and seabed reserve, Government department, statutory authority, and joint committee set up for the purposes of section 80.
+(2) For the purposes of this section, public authority includes any local authority, iwi authority, board of a foreshore and seabed reserve, government department, statutory authority, and joint committee set up for the purposes of section 80.
 (3)
 (4) A local authority shall not transfer any of its functions, powers, or duties under this section unless—
   (a) it has used the special consultative procedure set out in section 83 of the Local Government Act 2002; and
@@ -1026,7 +1029,7 @@ The Minister of Conservation shall have the following functions under this Act:
 
 ### 34A Delegation of powers and functions to employees and other persons
 (1) A local authority may delegate to an employee, or hearings commissioner appointed by the local authority (who may or may not be a member of the local authority), any functions, powers, or duties under this Act except the following:
-  (a) the approval of a proposed policy statement or plan under clause 17 of Schedule 1
+  (a) the approval of a proposed policy statement or plan under clause 17 of Schedule 1:
   (b) this power of delegation.
 (2) A local authority may delegate to any other person any functions, powers, or duties under this Act except the following:
   (a) the powers in subsection (1)(a) and (b):
@@ -1102,13 +1105,13 @@ The Minister of Conservation shall have the following functions under this Act:
     (i) charges payable by the requiring authority or heritage protection authority for the amount that the local authority estimates it would cost for the requirement to be heard and decided or recommended on if the request had not been made; and
     (ii) charges payable by the submitters who made a request for equal shares of any amount by which the cost of the requirement being heard and decided or recommended on in accordance with the request exceeds the amount payable by the authority under subparagraph (i):
   (b) charges payable by applicants for resource consents, for the carrying out by the local authority of any 1 or more of its functions in relation to the receiving, processing, and granting of resource consents (including certificates of compliance and existing use certificates):
-  (c) charges payable by holders of resource consents, for the carrying out by the local authority of any 1 or more of its functions in relation to the administration, monitoring, and supervision of resource consents (including certificates of compliance and existing use certificates), and for the carrying out of its resource management functions under section 35:
+  (c) charges payable by holders of resource consents, for the carrying out by the local authority of its functions in relation to the administration, monitoring, and supervision of resource consents (including certificates of compliance and existing use certificates), and for the carrying out of its resource management functions under section 35:
   (ca) charges payable by persons seeking authorisations under Part 7A, for the carrying out by the local authority of its functions in relation to the allocation of authorisations (whether by tender or any other method), including its functions preliminary to the allocation of authorisations:
   (cb) charges payable by holders of resource consents, for the carrying out by the local authority of any 1 or more of its functions in relation to reviewing consent conditions, if—
     (i) the review is carried out at the request of the consent holder; or
     (ii) the review is carried out under section 128(1)(a); or
     (iii) the review is carried out under section 128(1)(c); or
-    (iv) the review is carried out under section 128(2).
+    (iv) the review is carried out under section 128(2):
   (d) charges payable by requiring authorities and heritage protection authorities, for the carrying out by the local authority of any 1 or more of its functions in relation to designations and heritage orders:
   (e) charges for providing information in respect of plans and resource consents, payable by the person requesting the information:
   (f) charges for supply of documents, payable by the person requesting the document:
@@ -1217,7 +1220,7 @@ The following bodies have the powers of a consent authority under sections 37 an
   (a) the Minister, while carrying out any of his or her functions under Part 6AA:
   (b) a board of inquiry appointed under section 149J, while carrying out its functions under Part 6AA, except in respect of the time periods and requirements under section 149R:
   (ba) the EPA, while carrying out its functions under Part 6AA, except in respect of the time periods and requirements under section 146(1):
-  (c) a special tribunal appointed under section 202, for all matters while carrying out its functions.
+  (c) a special tribunal appointed under section 202, for all matters while carrying out its functions:
   (d) the Minister of Conservation, for all matters while carrying out his or her functions under Schedule 12.
 
 **Enforcement officers**
@@ -1227,7 +1230,7 @@ The following bodies have the powers of a consent authority under sections 37 an
   (a) any of its officers; or
   (b) any of the officers of any other local authority, or of the new Ministry, or the Department of Conservation, or Maritime New Zealand, subject to such terms and conditions as to payment of salary and expenses and as to appointment of his or her duties as may be agreed upon between the relevant authorities—
 (2) A local authority may authorise any person who is—to exercise or carry out all or any of the functions and powers of an enforcement officer under sections 327 and 328 (which relate to excessive noise).
-  (a) the holder of a security guard's licence issued under section 26 of the Private Investigators and Security Guards Act 197; or
+  (a) the holder of a security guard's licence issued under section 26 of the Private Investigators and Security Guards Act 1974; or
   (b) employed by a person authorised under paragraph (a) and who is—
     (i) the holder of a certificate of approval issued under section 40 of that Act; or
     (ii) a person in respect of whom permission granted under section 37 of that Act is in force—
@@ -1245,7 +1248,7 @@ The following bodies have the powers of a consent authority under sections 37 an
 ### 39 Hearings to be public and without unnecessary formality
 (1) Where a local authority, a consent authority, or a person given authority to conduct hearings under any of sections 33, 34, 34A, 117, 149J, 202, or 357C, holds a hearing in relation to—the authority shall hold the hearing in public (unless permitted to do otherwise by section 42 (which relates to the protection of sensitive information) or the Local Government Official Information and Meetings Act 1987), and shall establish a procedure that is appropriate and fair in the circumstances.
   (a) a proposed policy statement, a plan, a change, or a variation; or
-  (b) a resource consent; or
+  (b) an application for a resource consent; or
   (c) a review of a resource consent; or
   (d) an application to change or cancel a condition of a resource consent; or
   (e) a matter for which a direction has been made under section 142(2) or 147(1)(a); or
@@ -1478,7 +1481,7 @@ In this Act, unless the context requires another meaning,—
     (ii) the time period during which any matter to which the standard applies continues to have effect:
   (f) require local authorities to review, under section 128(1), all or any of the permits to which paragraph (ba) of that subsection applies as soon as practicable or within the time specified in a national environmental standard.
 (2) A national environmental standard that prohibits an activity—
-  (a) may do 1 or both of the following:
+  (a) may do one or both of the following:
     (i) state that a resource consent may be granted for the activity, but only on the terms or conditions specified in the standard; and
     (ii) require compliance with the rules in a plan or proposed plan as a term or condition; or
   (b) may state that the activity is a prohibited activity.
@@ -1487,7 +1490,7 @@ In this Act, unless the context requires another meaning,—
   (b) state that the activity is a permitted activity.
 (4) A national environmental standard that allows an activity—
   (a) may state that a resource consent is not required for the activity; or
-  (b) may do 1 or both of the following:
+  (b) may do one or both of the following:
     (i) state that the activity is a permitted activity, but only on the terms or conditions specified in the standard; and
     (ii) require compliance with the rules in a plan or proposed plan as a term or condition.
 (5) If a national environmental standard allows an activity and states that a resource consent is not required for the activity, or states that an activity is a permitted activity, the following provisions apply to plans and proposed plans:
@@ -1702,13 +1705,13 @@ A national policy statement may incorporate material by reference under Schedule
   (b) withdraw all or part of the proposed national policy statement and give public notice of the withdrawal, including the reasons for the withdrawal.
 (2) The Governor-General in Council may, on the recommendation of the Minister, approve a national policy statement.
 (3) The Minister must, as soon as practicable after a national policy statement has been approved,—
-  (a) issue the statement by notice in the Gazette ; and
+  (a) issue the statement by notice in the Gazette; and
   (b) publicly notify the statement and the report in whatever form he or she thinks appropriate and send a copy to every local authority; and
   (c) provide every person who made a submission on the statement with a summary of the recommendations and a summary of the Minister’s decision on the recommendations (including reasons for not adopting any recommendations); and
   (d) present a copy of the statement to the House of Representatives.
 
 ### 53 Changes to or review or revocation of national policy statements
-The Minister may review, change, or revoke a national policy statement after using 1 of the processes referred to in section 46A(1) in relation to the preparation of a national policy statement.
+The Minister may review, change, or revoke a national policy statement after using one of the processes referred to in section 46A(1) in relation to the preparation of a national policy statement.
 
 ### 54 Publication of national policy statements
 When a national policy statement is issued, reviewed, changed, or revoked, the Minister shall—
@@ -1744,7 +1747,7 @@ When a national policy statement is issued, reviewed, changed, or revoked, the M
 The purpose of a New Zealand coastal policy statement is to state policies in order to achieve the purpose of this Act in relation to the coastal environment of New Zealand.
 
 ### 57 Preparation of New Zealand coastal policy statements
-(1) There shall at all times be at least 1 New Zealand coastal policy statement prepared and recommended by the Minister of Conservation using 1 of the processes referred to in section 46A(1), as if references in sections 46 to 52 to the Minister were references to the Minister of Conservation and references to a national policy statement were references to a New Zealand coastal policy statement.
+(1) There shall at all times be at least 1 New Zealand coastal policy statement prepared and recommended by the Minister of Conservation using one of the processes referred to in section 46A(1), as if references in sections 46 to 52 to the Minister were references to the Minister of Conservation and references to a national policy statement were references to a New Zealand coastal policy statement.
 (2) Sections 53, 54, and 55, with all necessary modifications, apply to a New Zealand coastal policy statement as if it were a national policy statement and as if references in those sections to the Minister were references to the Minister of Conservation.
 
 ### 58 Contents of New Zealand coastal policy statements
@@ -1857,7 +1860,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 (5) A regional plan may be changed by the regional council in the manner set out in Schedule 1.
 (6) A regional council must amend a proposed regional plan or regional plan to give effect to a regional policy statement, if—
   (a) the statement contains a provision to which the plan does not give effect; and
-  (b) 1 of the following occurs:
+  (b) one of the following occurs:
     (i) the statement is reviewed under section 79 and not changed or replaced; or
     (ii) the statement is reviewed under section 79 and is changed or replaced and the change or replacement becomes operative; or
     (iii) the statement is changed or varied and becomes operative.
@@ -1865,7 +1868,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
   (a) within the time specified in the statement, if a time is specified; or
   (b) as soon as reasonably practicable, in any other case.
 
-### 66 Matters to be considered by regional council
+### 66 Matters to be considered by regional council (plans)
 (1) A regional council shall prepare and change any regional plan in accordance with its functions under section 30, the provisions of Part 2, a direction given under section 25A(1), its duty under section 32, and any regulations.
 (2) In addition to the requirements of section 67(3) and (4), when preparing or changing any regional plan, the regional council shall have regard to—
   (a) any proposed regional policy statement in respect of the region; and
@@ -1951,7 +1954,7 @@ The purpose of a regional policy statement is to achieve the purpose of the Act 
 [Repealed]
 
 ### 69 Rules relating to water quality
-(1) Where a regional council—the rules shall require the observance of the standards specified in that Schedule in respect of the appropriate class or classes unless, in the council's opinion, those standards are not adequate or appropriate in respect of those waters in which case the rules may state standards that are more stringent or specific.
+(1) Where a regional council—the rules shall require the observance of the standards specified in that schedule in respect of the appropriate class or classes unless, in the council's opinion, those standards are not adequate or appropriate in respect of those waters in which case the rules may state standards that are more stringent or specific.
   (a) provides in a plan that certain waters are to be managed for any purpose described in respect of any of the classes specified in Schedule 3; and
   (b) includes rules in the plan about the quality of water in those waters,—
 (2) Where a regional council provides in a plan that certain waters are to be managed for any purpose for which the classes specified in Schedule 3 are not adequate or appropriate, the council may state in the plan new classes and standards about the quality of water in those waters.
@@ -1996,7 +1999,7 @@ The purpose of the preparation, implementation, and administration of district p
 (3) A district plan may be prepared in territorial sections.
 (4) A local authority must amend a proposed district plan or district plan to give effect to a regional policy statement, if—
   (a) the statement contains a provision to which the plan does not give effect; and
-  (b) 1 of the following occurs:
+  (b) one of the following occurs:
     (i) the statement is reviewed under section 79 and not changed or replaced; or
     (ii) the statement is reviewed under section 79 and is changed or replaced and the change or replacement becomes operative; or
     (iii) the statement is changed or varied and becomes operative.
@@ -2066,7 +2069,7 @@ The purpose of the preparation, implementation, and administration of district p
   (b) located within an area in the district that—
     (i) is a reserve (within the meaning of section 2(1) of the Reserves Act 1977); or
     (ii) is subject to a conservation management plan or conservation management strategy prepared in accordance with the Conservation Act 1987 or the Reserves Act 1977.
-(4B) In subsection (4A), urban environment means an allotment no greater than 4000 m2—
+(4B) In subsection (4A), urban environment means an allotment no greater than 4 000 m2—
   (a) that is connected to a reticulated water supply system and a reticulated sewerage system; and
   (b) on which is a building used for industrial or commercial purposes, or a dwellinghouse.
 (5) A rule may exempt from its coverage an area or class of contaminated land if the rule—
@@ -2204,9 +2207,9 @@ If a regional council, after reviewing a policy statement or plan under section 
   (b) whether there is an inconsistency between a regional policy statement or a regional plan and a district plan (including any rules of a plan) on a matter of regional significance; or
   (c) whether a regional policy statement or a plan gives effect to a national policy statement or New Zealand coastal policy statement.
 (2) A Minister or local authority responsible for a relevant national policy statement, New Zealand coastal policy statement, policy statement, plan, or order may refer a dispute to the Environment Court for a decision resolving the matter.
-(3) If a dispute about whether there is an inconsistency described in subsection (1)(a) or (b) is referred to the Court, and the Court considers that there is an inconsistency, the Court must order the authority responsible for the policy statement or plan to remove the inconsistency by initiating a change to the policy statement or plan using the process in Schedule 1.
-(4) If a dispute about whether a regional policy statement or a plan gives effect to a national policy statement or New Zealand coastal policy statement is referred to the Court, and the Court considers that the policy statement or plan does not give effect to the other policy statement, the Court must order the authority responsible for the policy statement or plan to amend it in accordance with section 55.
-(5) However, the Court does not need to make an order under subsection (3) or (4) if it considers that the inconsistency, or failure to give effect to the other policy statement, is of minor significance that does not affect the general intent and purpose of the policy statement, plan, or water conservation order concerned.
+(3) If a dispute about whether there is an inconsistency described in subsection (1)(a) or (b) is referred to the court, and the court considers that there is an inconsistency, the court must order the authority responsible for the policy statement or plan to remove the inconsistency by initiating a change to the policy statement or plan using the process in Schedule 1.
+(4) If a dispute about whether a regional policy statement or a plan gives effect to a national policy statement or New Zealand coastal policy statement is referred to the court, and the court considers that the policy statement or plan does not give effect to the other policy statement, the court must order the authority responsible for the policy statement or plan to amend it in accordance with section 55.
+(5) However, the court does not need to make an order under subsection (3) or (4) if it considers that the inconsistency, or failure to give effect to the other policy statement, is of minor significance that does not affect the general intent and purpose of the policy statement, plan, or water conservation order concerned.
 (6) To avoid doubt, giving effect to a policy statement includes giving effect to it by complying with a direction described in section 55(2).
 
 ### 82A Dispute relating to review under section 79A
@@ -2226,9 +2229,9 @@ A policy statement or plan that is held out by a local authority as being operat
 ### 85 Compensation not payable in respect of controls on land
 (1) An interest in land shall be deemed not to be taken or injuriously affected by reason of any provision in a plan unless otherwise provided for in this Act.
 (2) Notwithstanding subsection (1), any person having an interest in land to which any provision or proposed provision of a plan or proposed plan applies, and who considers that the provision or proposed provision would render that interest in land incapable of reasonable use, may challenge that provision or proposed provision on those grounds—
-  (a) in a submission made under Part 1 of the First Schedule in respect of a proposed plan or change to a plan; or
+  (a) in a submission made under Part 1 of Schedule 1 in respect of a proposed plan or change to a plan; or
   (b) in an application to change a plan made under clause 21 of Schedule 1.
-(3) Where, having regard to Part 3 (including the effect of section 9(3)) and the effect of subsection (1), the Environment Court determines that a provision or proposed provision of a plan or a proposed plan renders any land incapable of reasonable use, and places an unfair and unreasonable burden on any person having an interest in the land, the Court, on application by any such person to change a plan made under clause 21 of Schedule 1, may—
+(3) Where, having regard to Part 3 (including the effect of section 9(3)) and the effect of subsection (1), the Environment Court determines that a provision or proposed provision of a plan or a proposed plan renders any land incapable of reasonable use, and places an unfair and unreasonable burden on any person having an interest in the land, the court, on application by any such person to change a plan made under clause 21 of Schedule 1, may—
   (a) in the case of a plan or proposed plan (other than a regional coastal plan), direct the local authority to modify, delete, or replace the provision; and
   (b) in the case of a regional coastal plan, report its findings to the applicant, the regional council concerned, and the Minister of Conservation, which report may include a direction to the regional council to modify, delete, or replace the provision.
 (4) Any direction given or report made under subsection (3) shall have effect under this Act as if it were made or given under clause 15 of Schedule 1.
@@ -2246,7 +2249,7 @@ A plan or proposed plan must not include a rule that describes an activity as a 
   (a) make a submission to the local authority concerned under clause 6 of Schedule 1; or
   (b) request a change under clause 21 of Schedule 1; or
   (c) apply to the Environment Court in accordance with section 293A(3) for a change to a rule in the plan or proposed plan.
-(2) A local authority or the Environment Court, as the case may be, in determining whether or not a rule in a plan or proposed plan complies with section 85A, must consider the following matters :
+(2) A local authority or the Environment Court, as the case may be, in determining whether or not a rule in a plan or proposed plan complies with section 85A, must consider the following matters:
   (a) the effects of the proposed activity on the recognised customary activity; and
   (b) the area that the proposed activity would have in common with the recognised customary activity; and
   (c) the degree to which the proposed activity must be carried out to the exclusion of other activities; and
@@ -2298,13 +2301,13 @@ A plan or proposed plan must not include a rule that describes an activity as a 
   (a) in a proposed plan or change; and
   (b) that is not a rule of a type described in section 86B(3)(a) to (e) or (6).
 (2) A local authority may apply before or after the proposed plan is publicly notified under clause 5 of Schedule 1 to the Environment Court for a rule to have legal effect from a date other than the date on which the decision on submissions relating to the rule is made and publicly notified under clause 10(4) of Schedule 1.
-(3) If the Court grants the application, the order must specify the date from which the rule is to have legal effect, being a date no earlier than the later of—
+(3) If the court grants the application, the order must specify the date from which the rule is to have legal effect, being a date no earlier than the later of—
   (a) the date that the proposed plan is publicly notified; and
   (b) the date of the court order.
 
 ### 86E Local authorities must identify rules having early or delayed legal effect
 (1) A local authority must clearly identify any rule in a proposed plan that has legal effect from a date other than the date on which the decision on submissions relating to the rule is made and publicly notified under clause 10(4) of Schedule 1—
-  (a) at the time the proposed plan is notified under clause 5 of the Schedule; or
+  (a) at the time the proposed plan is notified under clause 5 of the schedule; or
   (b) as soon as practicable after the date is determined, if the rule concerned is the subject of an application under section 86D and the application is not determined before the proposed plan is notified.
 (2) A local authority must clearly identify any rule of a type described in section 86B(6) at the time the change containing the rule is publicly notified.
 (3) The identification of a rule in a proposed plan or change under subsection (1) or (2)—
@@ -2420,13 +2423,13 @@ In this Act, the term resource consent means any of the following:
   (d) all the information and reports on the application that the authority was supplied with.
 (4) Section 274 applies to the notice of motion.
 (5) Part 11 applies to proceedings under this section.
-(6) If considering a matter that is an application for a resource consent, the Court must apply sections 104 to 112and 138A as if it were a consent authority.
-(7) If considering a matter that is an application for a change to or cancellation of conditions of a resource consent, the Court must apply sections 104 to 112 as if—
+(6) If considering a matter that is an application for a resource consent, the court must apply sections 104 to 112 and 138A as if it were a consent authority.
+(7) If considering a matter that is an application for a change to or cancellation of conditions of a resource consent, the court must apply sections 104 to 112 as if—
   (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
   (b) every reference to a resource consent and to the effects of the activity were, respectively, a reference to the change or cancellation of a condition and the effects of the change or cancellation.
 
 ### 87H Residual powers of consent authority
-The consent authority that would have determined the application had the Environment Court not done so under section 87G has all the functions, duties, and powers in relation to a resource consent granted by the Court as if it had granted the consent itself.
+The consent authority that would have determined the application had the Environment Court not done so under section 87G has all the functions, duties, and powers in relation to a resource consent granted by the court as if it had granted the consent itself.
 
 ### 87I When consent authority must determine application
 (1) This section applies when—
@@ -2453,7 +2456,7 @@ The consent authority that would have determined the application had the Environ
   (a) an application for a resource consent has been made under section 88 or 145; and
   (b) the type of activity (being controlled, restricted, discretionary, or non-complying) for which the application was made, or that the application was treated as being made under section 87B, is altered after the application was first lodged as a result of—
     (i) a proposed plan being notified; or
-    (ii) a decision being made under clause 10(1) of the First Schedule; or
+    (ii) a decision being made under clause 10(1) of Schedule 1; or
     (iii) otherwise.
 (1A) The application continues to be processed, considered, and decided as an application for the type of activity that it was for, or was treated as being for, at the time the application was first lodged.
 (2) Notwithstanding subsection (1), any plan or proposed plan which exists when the application is considered must be had regard to in accordance with section 104(1)(b).
@@ -2563,7 +2566,7 @@ The consent authority that would have determined the application had the Environ
     (i) the date on which one of the persons referred to mediation gives the other persons referred and the mediator a written notice withdrawing the person's consent to the mediation; and
     (ii) the date on which the mediator reports the outcome of the mediation to the authority.
 
-### 89 Applications to territorial authorities for resource consents where land is in the coastal marine area
+### 89 Applications to territorial authorities for resource consents where land is in coastal marine area
 (1) Where an application for a subdivision consent is made to a territorial authority and any part, or all, of the land proposed to be subdivided is in the coastal marine area, the territorial authority shall decide the application as if the whole of that land were part of the district, and the provisions of this Act shall apply accordingly.
 (2) Where—then the authority may hear and decide the application as if the application related to an activity within its district, and the provisions of this Act shall apply accordingly.
   (a) an application is made to a territorial authority for a resource consent for an activity which an applicant intends to undertake within the district of that authority once the proposed location of the activity has been reclaimed; and
@@ -2617,7 +2620,7 @@ The consent authority that would have determined the application had the Environ
 (5)
 
 ### 92A Responses to request
-(1) An applicant who receives a request under section 92(1) must, within 15 working days of the date of the request, take 1 of the following options:
+(1) An applicant who receives a request under section 92(1) must, within 15 working days of the date of the request, take one of the following options:
   (a) provide the information; or
   (b) tell the consent authority in a written notice that the applicant agrees to provide the information; or
   (c) tell the consent authority in a written notice that the applicant refuses to provide the information.
@@ -2790,7 +2793,7 @@ As soon as reasonably practicable after the closing date for submissions, the co
 (1) A consent authority may refer to mediation a person who has made an application for a resource consent and some or all of the persons who have made submissions on the application.
 (2) The authority may exercise the power in subsection (1)—
   (a) either—
-    (i) at the request of 1 of the persons; or
+    (i) at the request of one of the persons; or
     (ii) on its own initiative; and
   (b) only with the consent of all the persons being referred; and
   (c) only for the purpose of mediating between the persons on a matter or issue.
@@ -2818,7 +2821,7 @@ A hearing need not be held in accordance with this Act in respect of an applicat
 (1) If a hearing of an application for a resource consent is to be held, the consent authority shall fix a commencement date and time, and the place, of the hearing.
 (2) The date for the commencement of the hearing is as follows:
   (a) if section 87I, 198G, or 198M applies, the date must be no more than 15 working days after the date on which the authority knows that the section applies:
-  (b) if none of sections 87I 198G and 198M applies and the application was not notified, the date must be within 25 working days after the date the application was first lodged with the authority:
+  (b) if none of sections 87I, 198G, and 198M applies and the application was not notified, the date must be within 25 working days after the date the application was first lodged with the authority:
   (c) if none of sections 87I, 198G and 198M applies and the application was notified, the date must be within 25 working days after the closing date for submissions on the application.
 (2A)
 (3) The consent authority shall give at least 10 working days' notice of the commencement date and time, and the place, of a hearing of an application for a resource consent to—
@@ -2979,7 +2982,7 @@ If a national environmental standard is made to control the effects on climate c
     (ii) any significant adverse effects of the proposed activity on the recognised customary activity will be, or are likely to be, the same or similar in character, intensity, and scale to those that existed before the application for the resource consent was made:
   (b) maintenance work on, to, or in respect of an infrastructure work and its associated operations that were lawfully established before the commencement of Part 3 of the Foreshore and Seabed Act 2004, so long as any significant adverse effects of the maintenance work on the recognised customary activity are temporary in nature.
 (2) In this section, infrastructure work and its associated operations is limited to any infrastructure works and associated operations that are owned, operated, or carried out by 1 or more of the following:
-  (a) the Crown, as defined in section 2(1) of the Public Finance Act 198:
+  (a) the Crown, as defined in section 2(1) of the Public Finance Act 1989:
   (b) a local authority:
   (c) a network utility operator:
   (d) an electricity generator as defined in section 2(1) of the Electricity Act 1992:
@@ -3037,7 +3040,7 @@ If a national environmental standard is made to control the effects on climate c
   (b) other alternatives, including any condition requiring the observance of minimum standards of quality of the receiving environment—
 (9) In this section, financial contribution means a contribution of—
   (a) money; or
-  (b) land, including an esplanade reserve or esplanade strip (other than in relation to a subdivision consent), but excluding Maori land within the meaning of the Te Ture Whenua Maori Act 1993 unless that Act provides otherwise; or
+  (b) land, including an esplanade reserve or esplanade strip (other than in relation to a subdivision consent), but excluding Maori land within the meaning of Te Ture Whenua Maori Act 1993 unless that Act provides otherwise; or
   (c) a combination of money and land.
 (10) A consent authority must not include a condition in a resource consent requiring a financial contribution unless—
   (a) the condition is imposed in accordance with the purposes specified in the plan or proposed plan (including the purpose of ensuring positive effects on the environment to offset any adverse effect); and
@@ -3144,7 +3147,7 @@ Where a consent authority has received a cash contribution under section 108(2)(
   (a) in the case of a subdivision consent, until the date the land to which the consent relates is vested in the consent holder under section 355(3); and
   (b) in every other case, until the proposed location of the activity has been reclaimed and a certificate has been issued under section 245(5) in respect of the reclamation.
 (3)
-(4) Where the Environment Court grants a resource consent under section 87G or 149U, the consent commences on the date of the decision or such later date as the Court states in its decision.
+(4) Where the Environment Court grants a resource consent under section 87G or 149U, the consent commences on the date of the decision or such later date as the court states in its decision.
 (5) Where a board of inquiry grants a resource consent under section 149R, the consent commences on the date of the decision or such later date as the board states in its decision.
 
 **Restricted coastal activities**
@@ -3202,7 +3205,7 @@ Where a consent authority has received a cash contribution under section 108(2)(
 (3) The holder of a resource consent may grant a charge over that consent as if it were personal property, but the consent may only be transferred to the chargee, or by or on behalf of the chargee, to the same extent as it could be so transferred by the holder.
 (4) Subject to the provisions of this Act, and in particular to subsection (3), the Personal Property Securities Act 1999 applies in relation to a resource consent as if—
   (a) the resource consent were goods within the meaning of that Act; and
-  (b) the resource consent were situated in the Provincial District in which the activity permitted by the consent may be carried out (or, where it may be carried out in more than 1 Provincial District, in those Provincial Districts).
+  (b) the resource consent were situated in the provincial district in which the activity permitted by the consent may be carried out (or, where it may be carried out in more than 1 provincial district, in those provincial districts).
 (5) Except to the extent—no coastal permit shall be regarded as—
   (a) that the coastal permit expressly provides otherwise; and
   (b) that is reasonably necessary to achieve the purpose of the coastal permit,—
@@ -3283,7 +3286,7 @@ Except as provided in section 125,—
 (5) If the holder of the existing consent makes an application affected by section 124 more than 3 months before the expiry of the consent, the consent authority must hold the application described in subsection (1)(a) until the determination of the holder's application and any appeal.
 (6) If the result of the determination of the holder's application and any appeal is that the holder's application affected by section 124 is granted, the application described in subsection (1)(a) lapses to the extent to which the use of the resource has been granted to the holder.
 
-### 125 Lapsing of consent
+### 125 Lapsing of consents
 (1) A resource consent lapses on the date specified in the consent or, if no date is specified, 5 years after the date of commencement of the consent unless, before the consent lapses,—
   (a) the consent is given effect to; or
   (b) an application is made to the consent authority to extend the period after which the consent lapses, and the consent authority decides to grant an extension after taking into account—
@@ -3463,7 +3466,7 @@ A consent authority that grants a resource consent may, within 15 working days o
 (4) A surrender of a resource consent takes effect on receipt by the holder of a notice of acceptance of the surrender from the consent authority.
 
 ### 138A Special provisions relating to coastal permits for dumping and incineration
-(1) Without limiting section 104, when considering an application for a coastal permit to do something that would otherwise contravene section 15A(1), the consent authority shall, in having regard to the actual and potential effects of allowing the activity, have regard to—and, without limiting the powers of the consent authority under section 92, it may, at any reasonable time before the hearing (or, if there is no hearing , the determination) of the application, by written notice to the applicant, require the applicant to provide, by way of further information, an explanation of those matters.
+(1) Without limiting section 104, when considering an application for a coastal permit to do something that would otherwise contravene section 15A(1), the consent authority shall, in having regard to the actual and potential effects of allowing the activity, have regard to—and, without limiting the powers of the consent authority under section 92, it may, at any reasonable time before the hearing (or, if there is no hearing, the determination) of the application, by written notice to the applicant, require the applicant to provide, by way of further information, an explanation of those matters.
   (a) the nature of any discharge of any contaminant which the dumping or incineration may involve and the sensitivity of the receiving environment to adverse effects and the applicant's reasons for making the proposed choice; and
   (b) any possible alternative methods of disposal or combustion including any involving discharge into any other receiving environment,—
 (2) Without limiting section 108, but subject to subsection (5), a coastal permit to which subsection (1) applies may include a condition requiring the holder to adopt the best practicable option to prevent or minimise any actual or likely adverse effect on the environment of any discharge of any contaminant which may occur in the exercise of the permit; provided that before a consent authority decides to grant a coastal permit subject to such a condition, it shall be satisfied that, in the particular circumstances, and having regard to—the inclusion of the condition is the most efficient and effective means of preventing or minimising any actual or likely adverse effect on the environment.
@@ -3541,7 +3544,7 @@ A consent authority that grants a resource consent may, within 15 working days o
 ### 140 Outline of this Part
 (1) This section sets out the general scheme and effect of this Part. This section is by way of explanation only and does not limit or affect the other provisions of this Part or this Act.
 (2) This Part provides the Minister with specific powers in relation to applications for resource consents, applications for changes to or cancellation of resource consent conditions, local authority plan changes or variations, requests for plan changes, requests for the preparation of regional plans, and notices of requirement that are or are part of a proposal of national significance.
-(3) If exercised by the Minister, these powers set in motion 1 of 2 procedures by which the application, change, variation, request, or notice (the matter) is decided. Instead of the normal procedures set out in the Act, either a board of inquiry or the Environment Court decides the matter. A decision by a board of inquiry or the Environment Court may be challenged only by an appeal to the High Court on a question of law. If that decision is challenged, a further appeal may be taken to the Supreme Court or the Court of Appeal on a question of law, but only with the leave of the Supreme Court.
+(3) If exercised by the Minister, these powers set in motion one of 2 procedures by which the application, change, variation, request, or notice (the matter) is decided. Instead of the normal procedures set out in the Act, either a board of inquiry or the Environment Court decides the matter. A decision by a board of inquiry or the Environment Court may be challenged only by an appeal to the High Court on a question of law. If that decision is challenged, a further appeal may be taken to the Supreme Court or the Court of Appeal on a question of law, but only with the leave of the Supreme Court.
 (4) There are 3 ways in which a matter may come to the Minister for his or her decision on whether to make a direction to refer a matter to a board of inquiry or the Environment Court for decision. If the matter has been lodged with a local authority, the Minister may decide to make a direction on his or her own initiative or in response to a request from the local authority or the applicant. If the matter has been lodged with the Environmental Protection Authority, the Minister may decide to make a direction after receiving a recommendation from the EPA.
 (5) If the Minister decides not to make a direction to refer a matter to a board of inquiry or the Environment Court for decision, the matter will be processed by the local authority that, in the normal course of the Act, would be responsible for dealing with it. However, the Minister may still intervene in the process, for example, by making a submission on the matter for the Crown, appointing a project co-ordinator to advise the local authority on any thing relating to the matter, or appointing an additional hearings commissioner.
 
@@ -3702,7 +3705,7 @@ The Minister must not call in a matter (by making a direction under section 142(
 (2) The EPA may,—
   (a) by written notice, request an applicant to provide further information relating to the matter:
   (b) require an EPA employee, or commission any person, to prepare a report on any issue relating to a matter (including in relation to information contained in the matter or provided under paragraph (a)).
-(3) An applicant who receives a request under subsection (2)(a) must, within 15 working days after the date of the request, do 1 of the following things:
+(3) An applicant who receives a request under subsection (2)(a) must, within 15 working days after the date of the request, do one of the following things:
   (a) provide the information; or
   (b) tell the EPA by written notice that the applicant agrees to provide the information; or
   (c) tell the EPA by written notice that the applicant refuses to provide the information.
@@ -3718,7 +3721,7 @@ The Minister must not call in a matter (by making a direction under section 142(
   (a) does not provide the information before the deadline; or
   (b) refuses to provide the information.
 
-**How matter processed if direction made to refer matter to board of inquiry or Court**
+**How matter processed if direction made to refer matter to board of inquiry or court**
 
 ### 149A EPA must serve Minister's direction on local authority and applicant
 As soon as practicable after the Minister makes a direction under section 142(2) or 147(1)(a) or (b), the EPA must serve the direction on—
@@ -3811,7 +3814,7 @@ As soon as practicable after the Minister makes a direction under section 142(2)
   (b) the person who made the submission under section 149E to which the further submission relates.
 (7) The further submission must be served no later than 5 working days after the day on which the person provides the EPA with the further submission.
 
-### 149G EPA must provide board or Court with necessary information
+### 149G EPA must provide board or court with necessary information
 (1) This section applies if a matter is referred to a board of inquiry or the Environment Court under this Part.
 (2) The EPA must provide the board of inquiry or Environment Court, as the case may be, with each of the following things as soon as is reasonably practicable after receiving it:
   (a) the matter:
@@ -3827,7 +3830,7 @@ As soon as practicable after the Minister makes a direction under section 142(2)
   (c) every person who made a submission on the matter.
 
 ### 149H Local authority may not notify further change or variation in certain circumstances
-If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to refer any of the following matters to a board of inquiry or the Environment Court, the local authority must not notify a further change or variation relating to the same issue until after the board or the Court, as the case may be, has made a decision on the matter:
+If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to refer any of the following matters to a board of inquiry or the Environment Court, the local authority must not notify a further change or variation relating to the same issue until after the board or the court, as the case may be, has made a decision on the matter:
   (a) a matter that is a change to a plan; or
   (b) a matter that is a variation to a proposed plan; or
   (c) a matter that is a request for the preparation of a regional plan or a request for a change to a plan (including a request that has been accepted or adopted by the local authority or accepted by a board of inquiry).
@@ -3836,7 +3839,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 (1) A local authority may withdraw a change that was notified under clause 5 of Schedule 1, or a variation to a proposed plan, for which the Minister has made a direction under section 142(2) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
 (2) An applicant may withdraw the applicant's request for a proposed regional plan, or request for a change to a plan, for which the Minister has made a direction under section 142(2) or 147(1)(a) or (b) no later than 5 working days after the close of the last day on which further submissions may be made under section 149F.
 
-### Subpart 2 — How matter decided if direction made to refer matter to board of inquiry or Court
+### Subpart 2 — How matter decided if direction made to refer matter to board of inquiry or court
 
 **Matter decided by board of inquiry**
 
@@ -3907,7 +3910,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 (6) The local authority must, no later than 4 months after the local authority was served with the Minister's direction under section 149A,—
   (a) serve a copy of the proposed plan or change on the EPA; and
   (b) give notice to the EPA of any rules in the proposed plan or change that will have legal effect under subsection (8) on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O.
-(7) A rule in a proposed plan or change served on the EPA under subsection (6) has legal effect only once a decision is made by the board of inquiry or Court.
+(7) A rule in a proposed plan or change served on the EPA under subsection (6) has legal effect only once a decision is made by the board of inquiry or court.
 (8) However, a rule has legal effect on and from the date on which the EPA gives public notice of the proposed plan or change under section 149O if the rule—
   (a) protects or relates to water, air, or soil (for soil conservation); or
   (b) protects areas of significant indigenous vegetation; or
@@ -4032,7 +4035,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 
 ### 149T Matter referred to Environment Court
 (1) This section applies if the Minister makes a direction under section 142(2)(b) or 147(1)(b) to refer a matter to the Environment Court for decision.
-(2) The matter is referred to the Environment Court by the applicant lodging with the Court—
+(2) The matter is referred to the Environment Court by the applicant lodging with the court—
   (a) a notice of motion specifying the orders sought and the grounds on which the application is made; and
   (b) a supporting affidavit on the circumstances giving rise to the application.
 (3) The applicant must—
@@ -4040,7 +4043,7 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
   (b) serve the documents as soon as is reasonably practicable after lodging them; and
   (c) tell the Registrar when the documents have been served.
 (4) If the matter is a change to a district plan proposed by a territorial authority under clause 2 of Schedule 1, or a variation to a proposed district plan, the applicant must also serve a copy of the notice of motion and affidavit on any requiring authority that made a requirement under clause 4 of Schedule 1 in respect of the change or variation.
-(5) The Court may at any time direct the applicant to serve a copy of the notice of motion and affidavit on any other person.
+(5) The court may at any time direct the applicant to serve a copy of the notice of motion and affidavit on any other person.
 (6) Section 274 applies to a notice of motion lodged under this section.
 
 ### 149U Consideration of matter by Environment Court
@@ -4048,28 +4051,28 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
   (a) have regard to the Minister's reasons for making a direction in relation to the matter; and
   (b) consider any information provided to it by the EPA under section 149G; and
   (c) act in accordance with subsection (2), (3), (4), (5), (6), or (7), as the case may be.
-(2) If considering a matter that is an application for a resource consent, the Court must apply sections 104 to 112 and 138A as if it were a consent authority.
-(3) If considering a matter that is an application for a change to or cancellation of the conditions of a resource consent, the Court must apply sections 104 to 112 as if—
+(2) If considering a matter that is an application for a resource consent, the court must apply sections 104 to 112 and 138A as if it were a consent authority.
+(3) If considering a matter that is an application for a change to or cancellation of the conditions of a resource consent, the court must apply sections 104 to 112 as if—
   (a) it were a consent authority and the application were an application for resource consent for a discretionary activity; and
   (b) every reference to a resource consent and to the effects of the activity were a reference to the change or cancellation of a condition and the effects of the change or cancellation, respectively.
-(4) If considering a matter that is a notice of requirement for a designation or to alter a designation, the Court—
+(4) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
   (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
-    (iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit; and
+    (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
-(5) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the Court—
+(5) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
-    (iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
-(6) If considering a matter that is a variation to a proposed regional plan, a proposed regional plan, or a change to a regional plan, the Court—
+    (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
+(6) If considering a matter that is a variation to a proposed regional plan, a proposed regional plan, or a change to a regional plan, the court—
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
   (b) may exercise the powers under section 293; and
   (c) must apply sections 66 to 70B and 77A to 77D as if it were a regional council.
-(7) If considering a matter that is a change to a district plan or a variation to a proposed district plan, the Court—
+(7) If considering a matter that is a change to a district plan or a variation to a proposed district plan, the court—
   (a) must apply clause 10(1) to (3) of Schedule 1 as if it were a local authority; and
   (b) may exercise the powers under section 293; and
   (c) must apply sections 74 to 77D as if it were a territorial authority.
@@ -4095,13 +4098,13 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 
 ### Subpart 3 — Miscellaneous provisions
 
-**Process after decision of board of inquiry or Court on certain matters**
+**Process after decision of board of inquiry or court on certain matters**
 
-### 149W Local authority to implement decision of board or Court about proposed regional plan or change or variation
+### 149W Local authority to implement decision of board or court about proposed regional plan or change or variation
 (1) Subsections (2) and (3) apply to a local authority if—
   (a) a board of inquiry or the Environment Court considers a matter that is a proposed regional plan or a change to a plan or a variation to a proposed plan; and
-  (b) the board or the Court, as the case may be, decides that changes must be made to the proposed plan, change, or variation.
-(2) As soon as practicable after receiving notice of the decision of the board or the Court under section 149R(4) or 149U, as the case may be,—
+  (b) the board or the court, as the case may be, decides that changes must be made to the proposed plan, change, or variation.
+(2) As soon as practicable after receiving notice of the decision of the board or the court under section 149R(4) or 149U, as the case may be,—
   (a) the local authority must amend the proposed plan, change, or variation under clause 16(1) of Schedule 1, and that clause applies accordingly as if the decision were a direction of the Environment Court under section 293; and
   (b) if the decision is in respect of a proposed regional plan, or a change or variation to a district or regional plan (other than a regional coastal plan), the local authority must—
     (i) approve the proposed plan, change, or variation under clause 17 of Schedule 1; and
@@ -4166,14 +4169,14 @@ If the Minister makes a direction under section 142(2) or 147(1)(a) or (b) to re
 (4) If the Minister appoints a hearings commissioner under subsection (1)(d), the commissioner has the same powers, functions, and duties as the commissioner or commissioners appointed by the local authority.
 (5) To avoid doubt, if the matter has come before the Minister by way of an application lodged with the EPA, the Minister may exercise the powers under subsection (1) in relation to the matter whether or not the EPA made any recommendations about the matter to the Minister under section 146(2).
 
-**Process if related matter already subject to direction to refer to board of inquiry or Court**
+**Process if related matter already subject to direction to refer to board of inquiry or court**
 
 ### 149ZB How EPA must deal with certain applications and notices of requirement
 (1) This section applies to a matter that is an application or notice of requirement described in subsection (2) if—
   (a) the activity that the application or notice relates to is part of a proposal of national significance in relation to which 1 or more matters have already been subject to a direction under section 142(2) or 147(1)(a) or (b); and
   (b) the application or notice was lodged with the EPA either—
     (i) before the board of inquiry or Environment Court, as the case may be, has determined the matter or matters already subject to a direction under section 142(2) or 147(1)(a) or (b); or
-    (ii) after the matter or matters have been determined by the board or the Court and the matter or matters have been granted or confirmed.
+    (ii) after the matter or matters have been determined by the board or the court and the matter or matters have been granted or confirmed.
 (2) The applications and notices are—
   (a) an application for a resource consent:
   (b) an application for a change to or cancellation of the conditions of a resource consent:
@@ -4399,15 +4402,15 @@ Every authorisation may be transferred by its holder to any other person, but th
 
 ### 164 Authorisation to lapse in certain circumstances
 (1) Subject to subsection (2), an authorisation shall lapse unless, within 2 years after it was granted, its holder has obtained a coastal permit which includes conditions authorising the holder to undertake the activity and (if relevant) occupy the area in respect of which the authorisation was granted.
-(2) Where—the authorisation shall not lapse until the time for lodging an appeal in respect of the decision has expired, or the decision of the Court in respect of any appeal has been given.
+(2) Where—the authorisation shall not lapse until the time for lodging an appeal in respect of the decision has expired, or the decision of the court in respect of any appeal has been given.
   (a) before the second anniversary of the date an authorisation is granted, its holder has applied for a coastal permit in respect of the activity to which the authorisation relates; and
   (b) on that second anniversary date—
     (i) no decision has been made by the consent authority on that application; or
-    (ii) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the Court on that appeal—
+    (ii) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the court on that appeal—
 
 ### 165 Tender money
-(1) Where a person to whom an authorisation has been granted forwarded an initial payment to the Minister pursuant to section 158(2), the money shall be the property of the Crown, and, on granting the authorisation, the Minister shall cause that money to be paid into the Crown Bank Account in accordance with the Public Finance Act 1989.
-(2) Where an authorisation granted to a person to whom subsection (1) applies has lapsed pursuant to section 164, the Minister shall cause 80 percent of the initial payment to be refunded to that person from the Crown Bank Account.
+(1) Where a person to whom an authorisation has been granted forwarded an initial payment to the Minister pursuant to section 158(2), the money shall be the property of the Crown, and, on granting the authorisation, the Minister shall cause that money to be paid into a Crown Bank Account in accordance with the Public Finance Act 1989.
+(2) Where an authorisation granted to a person to whom subsection (1) applies has lapsed pursuant to section 164, the Minister shall cause 80% of the initial payment to be refunded to that person from a Crown Bank Account.
 (3) Where any tenderer who has failed to obtain an authorisation forwarded an initial payment to the Minister pursuant to section 158(2), the Minister shall as soon as practicable cause that money to be refunded to that tenderer.
 
 ## Part 7A — Occupation of coastal marine area
@@ -4476,7 +4479,7 @@ A consent authority must cancel an application for a coastal permit for the occu
       (B) the size of space that may be the subject of a coastal permit granted for the purposes of section 12(2) and the proportion of an aquaculture management area that may be occupied for the purpose of specified activities; and
     (vi) provide for the management of competition for the occupation of space vested in the Crown or a regional council in an aquaculture management area.
 (2) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area must include provisions to ensure that an aquaculture management area is principally for aquaculture activities.
-(3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 200.
+(3) A regional coastal plan or proposed regional coastal plan that provides for an aquaculture management area under subsection (1)(b) must provide that authorisations are to be allocated to the trustee only when and to the extent required by section 9 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 (4) A regional coastal plan or proposed regional coastal plan that provides for aquaculture management areas must be prepared in the manner set out in Schedule 1A.
 (5)
 
@@ -4502,7 +4505,7 @@ A consent authority must cancel an application for a coastal permit for the occu
 (3) A regional council must not offer authorisations for available space in an aquaculture management area (for activities that are not aquaculture activities) by public tender or another method unless the regional coastal plan provides for the allocation of authorisations for available space by public tender or the other method.
 
 ### 165F Offer of authorisations for activities other than aquaculture activities
-A regional council may, by. public notice and in accordance with its regional coastal plan, offer authorisations for coastal permits for the occupation of space in the coastal marine area for activities other than aquaculture activities.
+A regional council may, by public notice and in accordance with its regional coastal plan, offer authorisations for coastal permits for the occupation of space in the coastal marine area for activities other than aquaculture activities.
 
 ### 165G Chief executive to be notified of proposed allocation
 (1) This section applies only in relation to space that is the subject of a reservation relating to commercial fishing.
@@ -4539,7 +4542,7 @@ A regional coastal plan or proposed regional coastal plan may provide for a rule
 (8) Schedule 1 and Schedule 1A do not apply to an amendment made under any of subsections (5), (6), or (7).
 (9) This section applies subject to section 14 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
 
-### 165K Applications not to be made or granted unless applicant holds authorisation
+### 165K When applications not to be made or granted unless applicant holds authorisation
 (1) Subsection (2) applies to space in the coastal marine area if—
   (a) the space is available space and a regional coastal plan does not provide for the allocation of the space by an alternative to an offer of authorisations; or
   (b) the space has been identified by a regional council as space for allocation to the trustee under section 9(1) of the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -4560,17 +4563,17 @@ An authorisation or any part of it may be transferred by its holder to any other
   (a) before the second anniversary of the date on which an authorisation is granted, its holder has applied for a coastal permit in respect of the activity that the authorisation relates to; and
   (b) on the second anniversary date—
     (i) no decision has been made by the consent authority on the application; or
-    (ii) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the Court on the appeal.
+    (ii) the consent authority has made a decision, but the time for lodging appeals to the Environment Court has not expired, or an appeal has been lodged but no decision has been made by the court on the appeal.
 (3) The authorisation does not lapse until—
   (a) the time for lodging an appeal in respect of the decision has expired and no appeal has been lodged; or
-  (b) an appeal has been lodged and the Court has given its decision on the appeal.
+  (b) an appeal has been lodged and the court has given its decision on the appeal.
 
 ### 165O Power of Minister of Conservation to give directions relating to allocation of space
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, direct a regional council—
   (a) not to proceed with a proposed allocation of space in a coastal marine area; or
   (b) in proceeding with a proposed allocation of space in a coastal marine area, to give effect to the matters specified in the Order in Council.
 (2) The Minister may make a recommendation under subsection (1) only for either or both of the following purposes:
-  (a) to give effect to Government policy in the coastal marine area:
+  (a) to give effect to government policy in the coastal marine area:
   (b) to preserve the ability of the Crown to give effect to any of its obligations under any agreement in principle or deed of settlement between the Crown and any group of Maori claimants or representative of any group of Maori claimants in relation to a claim arising from, or relating to, any act or omission by or on behalf of the Crown or by or under any enactment before 21 September 1992.
 (3) The matters referred to in subsection (1)(b) include—
   (a) the allocation method to be used:
@@ -4644,7 +4647,7 @@ If the regional council accepts an offer or reaches an agreement with a person w
 
 ### 165U Tender money
 (1) If the holder of an authorisation obtains a coastal permit authorising the holder to undertake an activity in respect of which the authorisation was granted, the regional council must forward to the Minister 50% of the remuneration received under the tender.
-(2) The Minister must cause the money to be paid into the Crown Bank Account in accordance with the Public Finance Act 1989.
+(2) The Minister must cause the money to be paid into a Crown Bank Account in accordance with the Public Finance Act 1989.
 (3) If an authorisation granted to a successful tenderer has lapsed under section 165N, the regional council must, as soon as possible, refund the remuneration to the tenderer.
 (4) If a tenderer who has failed to obtain an authorisation forwarded a payment to the regional council under section 165Q(3), the regional council must, as soon as possible, refund the payment to the tenderer.
 (5) This section applies subject to section 26 of the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -4881,7 +4884,7 @@ If a territorial authority is given notice of a requirement under section 168, a
 (3) Where a requiring authority rejects the recommendation in whole or in part, or modifies the requirement, the authority shall give reasons for its decision.
 
 ### 173 Notification of decision on designation
-(1) A territorial authority must ensure that, within 15 working days after a decision is made by a requiring authority under section 172, a notice of decision and a statement of the time within which an appeal against the decision may be lodged is served on
+(1) A territorial authority must ensure that, within 15 working days after a decision is made by a requiring authority under section 172, a notice of decision and a statement of the time within which an appeal against the decision may be lodged is served on—
   (a) persons who made a submission; and
   (b) land owners and occupiers directly affected by the decision.
 (2) If the territorial authority gives a notice summarising a decision, it must—
@@ -4897,11 +4900,11 @@ If a territorial authority is given notice of a requirement under section 168, a
   (a) state the reasons for the appeal and the relief sought; and
   (b) state any matters required to be stated by regulations; and
   (c) be lodged with the Environment Court and be served on the requiring authority whose decision is appealed against, within 15 working days of the date on which notice of the decision is given in accordance with section 173.
-(3) The appellant shall ensure that a copy of the notice of appeal is served on every person referred to in subsection (1) (other than the appellant), within 5 working days after the notice is lodged with the Environment Court.
+(3) The appellant shall ensure that a copy of the notice of appeal is served on every person referred to in subsection (1) (other than the appellant), within 5 working days after the notice is lodged with the court.
 (4) In determining an appeal, the Environment Court must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority, and may—
   (a) cancel a requirement; or
   (b) confirm a requirement; or
-  (c) confirm a requirement, but modify it or impose conditions on it as the Court thinks fit.
+  (c) confirm a requirement, but modify it or impose conditions on it as the court thinks fit.
 
 ### 175 Designation to be provided for in district plan
 (1) Subsection (2) applies to a territorial authority if—
@@ -4978,7 +4981,7 @@ If a territorial authority is given notice of a requirement under section 168, a
   (a) state the reasons for the appeal and the relief sought; and
   (b) state any matters required to be stated by regulations; and
   (c) be lodged with the Environment Court and served on the requiring authority whose decision is appealed against within 15 working days of receiving the requiring authority's decision under section 176(1)(b), 177(2), or 178(2).
-(3) In considering an appeal under this section, the Environment Court shall have regard to—and may confirm or reverse the decision appealed against or modify the decision in such manner as the Environment Court thinks fit.
+(3) In considering an appeal under this section, the court shall have regard to—and may confirm or reverse the decision appealed against or modify the decision in such manner as the court thinks fit.
   (a) whether the decision appealed against has caused or is likely to cause serious hardship to the appellant; and
   (b) whether the decision appealed against would render the land which is subject to the designation or requirement incapable of reasonable use; and
   (c) the extent to which the decision may be modified without wholly or partly nullifying the effect of the requirement or designation—
@@ -5040,7 +5043,7 @@ If a territorial authority is given notice of a requirement under section 168, a
   (b) either—
     (i) the designation or requirement prevents reasonable use of the owner's estate or interest in the land; or
     (ii) the applicant was the owner, or the spouse, civil union partner, or de facto partner of the owner, of the estate or interest in the land when the designation or requirement was created.
-(4) Before making an order under subsection (1) the Environment Court may direct the owner to take further action to try to sell the estate or interest in the land.
+(4) Before making an order under subsection (1) the court may direct the owner to take further action to try to sell the estate or interest in the land.
 (5) If the Environment Court makes an order to take an estate or interest in land under the Public Works Act 1981, the owner of that estate or interest shall be deemed to have entered into an agreement with the requiring authority responsible for the designation or requirement for the purposes of section 17 of the Public Works Act 1981.
 (6) Where subsection (5) applies in respect of a requiring authority which is a network utility operator approved under section 167—
   (a) any agreement shall be deemed to have been entered into with the Minister of Lands on behalf of the network utility operator as if the land were required for a government work; and
@@ -5048,7 +5051,7 @@ If a territorial authority is given notice of a requirement under section 168, a
 (7) The amount of compensation payable for an estate or interest in land ordered to be taken under this section shall be assessed as if the designation or requirement had not been created.
 
 ### 186 Compulsory acquisition powers
-(1) A network utility operator that is a requiring authority may apply to the Minister of Lands to have land required for a project or work acquired or taken under Part 2 of the Public Works Act 1981 as if the project or work were a Government work within the meaning of that Act and, if the Minister of Lands agrees, that land may be taken or acquired.
+(1) A network utility operator that is a requiring authority may apply to the Minister of Lands to have land required for a project or work acquired or taken under Part 2 of the Public Works Act 1981 as if the project or work were a government work within the meaning of that Act and, if the Minister of Lands agrees, that land may be taken or acquired.
 (2) The effect of any Proclamation taking land for the purposes of subsection (1) shall be to vest the land in the network utility operator instead of the Crown.
 (3) Land which is subject to a heritage order shall not be taken without the consent of the heritage protection authority.
 (4) Any land held under any enactment or in any other manner by the Crown or a local authority may, with the consent of the Crown or that authority and on such terms and conditions (including price) as may be agreed, be set apart for a project or work of a network utility operator in the manner provided in sections 50 and 52 of the Public Works Act 1981 (with the necessary modifications), but the setting apart shall not be subject to sections 40 and 41 of that Act. Any land so set apart shall vest in the network utility operator.
@@ -5070,7 +5073,7 @@ In this Act—
     (c) the New Zealand Historic Places Trust in so far as it exercises its functions under the Historic Places Act 1993:
     (d) a body corporate that is approved as a heritage protection authority under section 188.
 
-### 188 Application to become a heritage protection authority
+### 188 Application to become heritage protection authority
 (1) Any body corporate having an interest in the protection of any place may apply to the Minister in the prescribed form for approval as a heritage protection authority for the purpose of protecting that place.
 (2) For the purpose of this section, and sections 189 and 191, place includes any feature or area, and the whole or part of any structure.
 (3) The Minister may make such inquiry into the application and request such information as he or she considers necessary.
@@ -5164,7 +5167,7 @@ The following sections shall, with all necessary modifications, apply in respect
   (b) section 173, which relates to public notification of such decisions:
   (c) section 174, which relates to appeals against such decisions:
   (d) section 175, which relates to the provision of designations in district plans:
-  (e) section 180, which relates to the transferability of designations:
+  (e) section 180, which relates to the transferability of designations.
   (f)
 
 ### 193 Effect of heritage order
@@ -5207,7 +5210,7 @@ Where a heritage order is included in a district plan then, regardless of the pr
   (a) state the reasons for the appeal and the relief sought; and
   (b) state any matters required to be stated by regulations; and
   (c) be lodged with the Environment Court and served on the heritage protection authority whose decision is appealed against, within 15 working days of receiving the heritage protection authority's decision under section 193 or section 194.
-(3) In considering an appeal under this section, the Environment Court shall have regard to—and may confirm or reverse the decision appealed against or modify the decision in such manner as the Environment Court thinks fit.
+(3) In considering an appeal under this section, the court shall have regard to—and may confirm or reverse the decision appealed against or modify the decision in such manner as the court thinks fit.
   (a) whether the decision appealed against has caused or is likely to cause serious hardship to the appellant; and
   (b) whether the decision appealed against would render the land which is subject to the heritage order or requirement incapable of reasonable use; and
   (c) the extent to which the decision may be modified without wholly or partly nullifying the effect of the requirement or heritage order—
@@ -5234,21 +5237,21 @@ Section 182 shall apply, with all necessary modifications, in respect of the rem
 (2) Where a heritage protection authority is neither the Crown nor a local authority, section 186 shall apply, with all necessary modifications, as if every reference to a network utility operator were a reference to a heritage protection authority.
 
 ### 198 Environment Court may order land taken, etc
-(1) Upon application made to the Environment Court by the owner of an estate or interest in land (including a leasehold estate or interest) that is subject to a heritage order, or requirement under section 189 or section 189A, if the Environment Court is satisfied that—the Environment Court may make an order giving the heritage protection authority the option of either withdrawing the requirement or causing the heritage order to be removed, as the case may be, or taking the land under the Public Works Act 1981.
+(1) Upon application made to the Environment Court by the owner of an estate or interest in land (including a leasehold estate or interest) that is subject to a heritage order, or requirement under section 189 or section 189A, if the court is satisfied that—the Environment Court may make an order giving the heritage protection authority the option of either withdrawing the requirement or causing the heritage order to be removed, as the case may be, or taking the land under the Public Works Act 1981.
   (a) the applicant was the owner or spouse, civil union partner, or de facto partner of the owner on the date when the heritage order was included in the district plan or the requirement was made; and
   (b) the applicant has tried but been unable to enter into an agreement for the sale of the estate or interest in the land subject to the heritage order or requirement at a price not less than the market value the land would have had if it were not subject to the heritage order or requirement; and
   (c) the heritage order or requirement renders or will render the land in respect of which it applies, incapable of reasonable use,—
-(2) Before making an order under subsection (1), the Environment Court may direct the owner to take further action to try to sell the estate or interest in the land.
-(3) If the Environment Court makes an order to take an estate or interest in land under the Public Works Act 1981, the owner of the land shall be deemed to have entered into an agreement with the heritage protection authority responsible for the heritage order or requirement for the purposes of section 17 of the Public Works Act 1981.
+(2) Before making an order under subsection (1), the court may direct the owner to take further action to try to sell the estate or interest in the land.
+(3) If the court makes an order to take an estate or interest in land under the Public Works Act 1981, the owner of the land shall be deemed to have entered into an agreement with the heritage protection authority responsible for the heritage order or requirement for the purposes of section 17 of the Public Works Act 1981.
 (4) Where subsection (3) applies in respect of a heritage protection authority that is neither the Crown nor a local authority—
-  (a) any agreement shall be deemed to have been entered into with the Minister of Lands on behalf of the heritage protection authority as if the land were required for a government work; and
-  (b) all costs and expenses incurred by the Minister of Lands in respect of the acquisition of the land shall be recoverable from the heritage protection authority as a debt due to the Crown.
+  (a) any agreement shall be deemed to have been entered into with the Minister for Land Information on behalf of the heritage protection authority as if the land were required for a government work; and
+  (b) all costs and expenses incurred by the Minister for Land Information in respect of the acquisition of the land shall be recoverable from the heritage protection authority as a debt due to the Crown.
 (5) The amount of compensation payable for an estate or interest in land ordered to be taken under this section shall be assessed as if the heritage order or requirement had not been made.
 
 **Streamlining decision-making on designations and heritage orders**
 
 ### 198A Sections 198B to 198G apply to requirements under section 168 or 189
-(1) Sections 198B to 198G apply when a requiring authority or heritage protection authority wants 1 of the following requirements to be the subject of a decision by the Environment Court instead of a recommendation by a territorial authority and a decision by the requiring authority or heritage protection authority:
+(1) Sections 198B to 198G apply when a requiring authority or heritage protection authority wants one of the following requirements to be the subject of a decision by the Environment Court instead of a recommendation by a territorial authority and a decision by the requiring authority or heritage protection authority:
   (a) a requirement for a designation under section 168 that has been notified:
   (b) a requirement for a heritage order under section 189 that has been notified:
   (c) a requirement under section 181 (other than a notice to which section 181(3) applies) for an alteration to a designation to which section 168 applied that has been notified:
@@ -5302,19 +5305,19 @@ Section 182 shall apply, with all necessary modifications, in respect of the rem
   (d) all the information and reports on the requirement that the authority was supplied with.
 (4) Section 274 applies to the notice of motion.
 (5) Part 11 applies to proceedings under this section.
-(6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the Court—
+(6) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
   (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
-    (iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit; and
+    (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
-(7) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the Court—
+(7) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
-    (iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
+    (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
 
 ### 198F Residual powers of territorial authority
 The territorial authority that would have dealt with the requirement had the Environment Court not done so under section 198E has all the functions, duties, and powers in relation to the designation or heritage order resulting from the requirement as if it had dealt with the requirement itself.
@@ -5329,7 +5332,7 @@ The territorial authority that would have dealt with the requirement had the Env
 (2) The territorial authority must deal with the requirement.
 
 ### 198H Sections 198I to 198M apply to requirements under section 168A or 189A
-(1) Sections 198I to 198M apply when a territorial authority makes a decision that 1 of the following requirements is to be the subject of a decision by the Environment Court instead of a decision by the territorial authority:
+(1) Sections 198I to 198M apply when a territorial authority makes a decision that one of the following requirements is to be the subject of a decision by the Environment Court instead of a decision by the territorial authority:
   (a) a requirement for a designation under section 168A that has been notified:
   (b) a requirement for a heritage order under section 189A that has been notified:
   (c) a requirement under section 181 (other than a notice to which section 181(3) applies) for an alteration to a designation to which section 168A applied that has been notified:
@@ -5364,19 +5367,19 @@ The territorial authority that would have dealt with the requirement had the Env
   (d) all the information and reports on the requirement that the territorial authority was supplied with.
 (3) Section 274 applies to the notice of motion.
 (4) Part 11 applies to proceedings under this section.
-(5) If considering a matter that is a notice of requirement for a designation or to alter a designation, the Court—
+(5) If considering a matter that is a notice of requirement for a designation or to alter a designation, the court—
   (a) must have regard to the matters set out in section 171(1) and comply with section 171(1A) as if it were a territorial authority; and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
-    (iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit; and
+    (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit; and
   (c) may waive the requirement for an outline plan to be submitted under section 176A.
-(6) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the Court—
+(6) If considering a matter that is a notice of requirement for a heritage order or to alter a heritage order, the court—
   (a) must have regard to the matters set out in section 191(1); and
   (b) may—
     (i) cancel the requirement; or
     (ii) confirm the requirement; or
-    (iii) confirm the requirement, but modify it or impose conditions on it as the Court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
+    (iii) confirm the requirement, but modify it or impose conditions on it as the court thinks fit (including a condition that the heritage protection authority reimburse the owner of the place concerned for any additional costs of upkeep of the place resulting from the making or the modifying of the order).
 
 ### 198L Residual powers of territorial authority
 The territorial authority that would have dealt with the requirement had the Environment Court not done so under section 198K has all the functions, duties, and powers in relation to the designation or heritage order resulting from the requirement as if it had dealt with the requirement itself.
@@ -5504,7 +5507,7 @@ In considering an application for a water conservation order, a special tribunal
 (3) A person who makes a submission shall, within 5 working days of the submission being lodged with the Environment Court, serve a copy of it on the applicant for the proposed water conservation order, the Minister, the regional council, the relevant territorial authorities, the relevant iwi authorities, every person who made a submission on the application, and every other person known by the person making the submission to have made a submission to the Environment Court.
 
 ### 210 Environment Court to hold inquiry
-If 1 or more submissions are lodged with the Environment Court in accordance with section 209, the Environment Court shall conduct a public inquiry in respect of the report to which the submissions relate.
+If 1 or more submissions are lodged with the Environment Court in accordance with section 209, the court shall conduct a public inquiry in respect of the report to which the submissions relate.
 
 ### 211 Who may be heard at inquiry
 The following persons have the right to be heard in person or be represented by another person at an inquiry conducted by the Environment Court under section 210:
@@ -5526,7 +5529,7 @@ In conducting its inquiry, the Environment Court shall have particular regard to
 (1) On completion of its inquiry, the Environment Court shall make a report to the Minister recommending that the special tribunal's report be rejected, or accepted with or without modifications, and, where appropriate,—
   (a) include a draft water conservation order; or
   (b) recommend that the application for a water conservation order be declined.
-(2) The Environment Court shall ensure that its report is publicly notified in such manner as the Court thinks fit.
+(2) The Environment Court shall ensure that its report is publicly notified in such manner as the Environment Court thinks fit.
 
 ### 214 Making of water conservation order
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make a water conservation order in respect of any water body.
@@ -5663,7 +5666,7 @@ No survey plan shall be deposited for the purposes of section 11(1)(a)(i) or (ii
   (d) there is lodged for registration with the Registrar-General of Land a consent notice in respect of any conditions of a kind referred to in paragraph (c)(ii); and
   (e) in relation to any unit plan, the requirements of the Unit Titles Act 1972 and the Unit Titles Amendment Act 1979 relating to the deposit of a unit plan have been complied with; and
   (f) in the case of a subdivision of land to be effected by the grant of a cross lease or company lease, or by the deposit of a unit plan, the territorial authority is satisfied on reasonable grounds that every existing building or part of an existing building (including any building or part thereof under construction) to which the cross lease, company lease, or unit title plan relates complies with or will comply with the provisions of the building code described in section 116A of the Building Act 2004, and a certificate signed by a person authorised by the territorial authority to sign such certificates is lodged with the Registrar-General of Land; and
-  (g) where land is shown upon the survey plan to be subject to an esplanade strip, there is lodged for registration with the Registrar-General of Land as the case may be, an instrument creating that strip; and
+  (g) where land is shown upon the survey plan to be subject to an esplanade strip, there is lodged for registration with the Registrar-General of Land an instrument creating that strip; and
   (h) less than 3 years has elapsed since the territorial authority approved the plan under section 223.
 
 ### 225 Agreement to sell land or building before deposit of plan
@@ -5671,15 +5674,15 @@ No survey plan shall be deposited for the purposes of section 11(1)(a)(i) or (ii
 (2) Subject to subsection (1), any agreement to sell any allotment in a proposed subdivision made before the appropriate survey plan is approved under section 223 shall be deemed to be made subject to the following conditions:
   (a) that the purchaser may, by notice in writing to the vendor, cancel the agreement at any time before the end of 14 days after the date of the making of the agreement:
   (b) that the purchaser may, at any time after the expiration of 2 years after the date of granting of the resource consent or 1 year after the date of the agreement, whichever is the later, by notice in writing to the vendor, rescind the contract if the vendor has not made reasonable progress towards submitting a survey plan to the territorial authority for its approval or has not deposited the survey plan within a reasonable time after the date of its approval.
-(3) An agreement may be rescinded under subsection (2) notwithstanding that the parties cannot be restored to the position that they were in immediately before the agreement was made, and in any such case the rights and obligations of each party shall, in the absence of agreement between the parties, be as determined by a Court of competent jurisdiction.
+(3) An agreement may be rescinded under subsection (2) notwithstanding that the parties cannot be restored to the position that they were in immediately before the agreement was made, and in any such case the rights and obligations of each party shall, in the absence of agreement between the parties, be as determined by a court of competent jurisdiction.
 
-### 226 Restriction upon issue of certificates of title for subdivision
+### 226 Restrictions upon issue of certificates of title for subdivision
 (1) The Registrar-General of Land shall not issue a certificate of title for any land that is shown as a separate allotment on a survey plan (being a certificate issued to give effect to the subdivision shown on that survey plan), unless he or she is satisfied, after due inquiry, that—
   (a) the plan has been deposited in accordance with section 224 or has been approved by the Chief Surveyor for the purposes of section 228 and the provisions of section 228(2) have been complied with; or
   (b) the plan has been deposited in accordance with section 306 of the Local Government Act 1974 or was a Crown plan to which section 306(7) of the Local Government Act 1974 applied; or
   (ba) the plan has been approved under Part 25 of the Municipal Corporations Act 1954; or
   (bb) the plan has been approved under Part 2 of the Counties Amendment Act 1961; or
-  (bc) the plan did not require the approval of the council under Part 2 of the Counties Amendment Act 1961 and was deposited under the Land Transfer Act 1952 after the said Part 2 came into force; or
+  (bc) the plan did not require the approval of the Council under Part 2 of the Counties Amendment Act 1961 and was deposited under the Land Transfer Act 1952 after the said Part 2 came into force; or
   (c) the plan has been deposited in accordance with the Unit Titles Act 1972; or
   (d) the certificate of title is issued to enable effect to be given to any agreement for sale and purchase or agreement to lease or other contract to create an interest in land or a building or part of a building made before the commencement of this Act; or
   (e) the territorial authority has given a certificate signed by the principal administrative officer or other authorised officer to the effect—
@@ -5787,7 +5790,7 @@ An esplanade reserve or an esplanade strip has 1 or more of the following purpos
 (8) The Registrar-General of Land shall make an appropriate entry in the register and on the instrument noting that the instrument has been varied or cancelled, and the instrument shall take effect as so varied or cease to have any effect, as the case may be.
 
 ### 235 Creation of esplanade strips by agreement
-(1) An esplanade strip may at any time be created for any of the purposes specified in section 229 by agreement between the registered proprietor of any land and the local authority, and the provisions of sections 229, 232, 233,234, 237(2), and 237C shall apply, with all necessary modifications.
+(1) An esplanade strip may at any time be created for any of the purposes specified in section 229 by agreement between the registered proprietor of any land and the local authority, and the provisions of sections 229, 232, 233, 234, 237(2), and 237C shall apply, with all necessary modifications.
 (2) No instrument for an esplanade strip by agreement may be registered with the Registrar-General of Land unless every person having a registered interest in the land has endorsed his or her consent on the instrument.
 
 ### 236 Where land previously set aside or reserved
@@ -5796,7 +5799,7 @@ Where—then, notwithstanding that any land of the kind referred to in paragraph
     (i) been set aside as an esplanade reserve under this Part, or has been reserved for the purpose specified in section 289 of the Local Government Act 1974, or for public purposes pursuant to section 29(1) of the Counties Amendment Act 1961 or section 11 of the Land Subdivision in Counties Act 1946; or
     (ii) been set aside or reserved for public recreation purposes pursuant to any other enactment (whether passed before or after the commencement of this Act and whether or not in force at the commencement of this Act); or
     (iii) been reserved from sale or other disposition pursuant to section 24 of the Conservation Act 1987, or section 58 of the Land Act 1948, or the corresponding provisions of any former Act; and
-  (b) A survey plan of land adjoining that land previously set aside or reserved is submitted to the territorial authority under section 223—
+  (b) a survey plan of land adjoining that land previously set aside or reserved is submitted to the territorial authority under section 223—
   (c) be of a width that is the difference between the width of the land previously set aside or reserved and—
     (i) the width required by a rule in a district plan under section 77 for an esplanade reserve, if any, where any allotment 4 hectares or more is created when land is subdivided; or
     (ii) the width required by a rule in a district plan under section 77 for an esplanade reserve, if any, where any allotment less than 4 hectares is created when land is subdivided; or
@@ -5882,7 +5885,7 @@ Where—the Crown or territorial authority, as the case may be, shall pay compen
 (1) When the Registrar-General of Land deposits a survey plan, or a Chief Surveyor approves a survey plan to which section 228 applies, the land shown on the survey plan as road to be vested in a local authority or the Crown vests, free from all interests in land including any encumbrances (without the necessity of any instrument of release or discharge or otherwise),—
   (a) in the case of a regional road, in the territorial authority or regional council, as the case may be:
   (b) in the case of a Government road declared as such under any Act, in the Crown:
-  (c) in the case of a state highway, in the Crown or the territorial authority, as the case may be:
+  (c) in the case of a State highway, in the Crown or the territorial authority, as the case may be:
   (d) in the case of any other road, in the territorial authority.
 (2) This section has effect notwithstanding section 168 of the Land Transfer Act 1952 (which relates to the dedication of roads for public purposes).
 
@@ -5990,7 +5993,7 @@ Where a subdivision consent is granted or any certificate of title is issued sub
 ## Part 11 — Environment Court
 
 ### 247 Planning Tribunal re-named Environment Court
-There shall continue to be a Court of record called the Environment Court which shall be the same Court as the Court called the Planning Tribunal immediately before the commencement of this section and which, in addition to the jurisdiction and powers conferred on it by or pursuant to this Act or any other Act, shall continue to have all the powers inherent in a Court of Record.
+There shall continue to be a court of record called the Environment Court which shall be the same court as the court called the Planning Tribunal immediately before the commencement of this section and which, in addition to the jurisdiction and powers conferred on it by or pursuant to this Act or any other Act, shall continue to have all the powers inherent in a court of record.
 
 ### 248 Membership of Environment Court
 The Environment Court shall consist of the following members:
@@ -6006,7 +6009,7 @@ The Environment Court shall consist of the following members:
 ### 250 Appointment of Environment Judges and alternate Environment Judges
 (1) The Governor-General may, on the recommendation of the Attorney-General, after consultation with the Minister for the Environment and the Minister of Maori Affairs, appoint a person as an Environment Judge or an alternate Environment Judge.
 (2) A person shall hold office as an Environment Judge or as an alternate Environment Judge for such term as he or she holds office as a District Court Judge or Maori Land Court Judge, unless he or she sooner resigns or is removed from office under this Act.
-(3) At any 1 time—
+(3) At any one time—
   (a) no more than 10 Environment Judges shall hold office; and
   (b) any number of alternate Environment Judges shall hold office.
 (4) For the purposes of subsection (3)(a),—
@@ -6016,7 +6019,7 @@ The Environment Court shall consist of the following members:
 
 ### 251 Principal Environment Judge
 (1) The Governor-General may, on the recommendation of the Attorney-General, appoint an Environment Judge as the Principal Environment Judge.
-(2) The Principal Environment Judge shall be responsible for ensuring the orderly and expeditious discharge of the business of the Environment Court and accordingly may, subject to the provisions of this or any other Act and to such consultation with the Environment Judges as is appropriate and practicable, make arrangements as to the Environment Judge or Judges and member or members who is or are to exercise the Environment Court's jurisdiction in particular matters or classes of matters and in particular places and areas.
+(2) The Principal Environment Judge shall be responsible for ensuring the orderly and expeditious discharge of the business of the court and accordingly may, subject to the provisions of this or any other Act and to such consultation with the Environment Judges as is appropriate and practicable, make arrangements as to the Environment Judge or Judges and member or members who is or are to exercise the court's jurisdiction in particular matters or classes of matters and in particular places and areas.
 
 ### 251A Appointment of acting Principal Environment Judge
 (1) This section applies if—
@@ -6034,7 +6037,7 @@ The Environment Court shall consist of the following members:
 **Environment Commissioners and Deputy Environment Commissioners**
 
 ### 253 Eligibility for appointment as Environment Commissioner or Deputy Environment Commissioner
-When considering whether a person is suitable to be appointed as an Environment Commissioner or Deputy Environment Commissioner of the Environment Court, the Attorney-General shall have regard to the need to ensure that the Court possesses a mix of knowledge and experience in matters coming before the Court, including knowledge and experience in—
+When considering whether a person is suitable to be appointed as an Environment Commissioner or Deputy Environment Commissioner of the Environment Court, the Attorney-General shall have regard to the need to ensure that the court possesses a mix of knowledge and experience in matters coming before the court, including knowledge and experience in—
   (a) economic, commercial, and business affairs, local government, and community affairs:
   (b) planning, resource management, and heritage protection:
   (c) environmental science, including the physical and social sciences:
@@ -6070,22 +6073,22 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
 
 ### 259 Special advisors
 (1) The Principal Environment Judge may appoint as a special advisor a person who is able to assist the Environment Court in a proceeding before it.
-(2) A special advisor is not a member of the Environment Court but may sit with it and assist it in any way the Environment Court determines.
+(2) A special advisor is not a member of the court but may sit with it and assist it in any way the court determines.
 
-**Officers of Environment Court**
+**Officers of court**
 
 ### 260 Registrar and other officers
 (1) The Environment Court—
   (a) shall have a Registrar; and
   (aa) may have 1 or more Deputy Registrars; and
   (b) may have other persons to assist it in an administrative capacity.
-(2) The Registrar, a Deputy Registrar, and every other person assisting the Environment Court shall—
+(2) The Registrar, a Deputy Registrar, and every other person assisting the court shall—
   (a) be appointed under the State Sector Act 1988; and
-  (b) be officers of the Environment Court.
+  (b) be officers of the court.
 (2A) A Deputy Registrar has all the powers, functions, duties, and immunity of the Registrar subject to the control of the Registrar.
-(3) An officer of the Environment Court may also hold another office or employment in the Public Service.
+(3) An officer of the court may also hold another office or employment in the Public Service.
 
-**Miscellaneous provisions relating to Environment Court**
+**Miscellaneous provisions relating to court**
 
 ### 261 Protection from legal proceedings
 (1) No action lies against any member of the Environment Court for anything they say, do, or omit to say or do, while acting in good faith in the performance of their duties.
@@ -6093,18 +6096,18 @@ An Environment Judge, alternate Environment Judge, Environment Commissioner, or 
 (3) No action lies against the Registrar for anything the Registrar says or does, or omits to say or do, while acting in good faith under section 278(3), section 281(5), or section 281A.
 
 ### 262 Environment Court members who are ratepayers
-A member of the Environment Court is not to be considered to have an interest in a proceeding before the Environment Court solely on the ground that the member is a ratepayer.
+A member of the Environment Court is not to be considered to have an interest in a proceeding before the court solely on the ground that the member is a ratepayer.
 
 ### 263 Remuneration of Environment Commissioners and special advisors
 There shall be paid, out of money appropriated by Parliament for the purpose, to every Environment Commissioner, Deputy Environment Commissioner, and special advisor, remuneration by way of fees, salary, or allowances, and travelling allowances and expenses, in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly, and—
-  (a) the Environment Court shall be a statutory Board for the purposes of that Act; and
+  (a) the court shall be a statutory Board for the purposes of that Act; and
   (b) every special advisor shall be deemed to be a member of a statutory Board.
 
 ### 264 Annual report of Registrar
-(1) The Registrar shall no later than the 31st day of August in each year, deliver to the Minister of the Crown who is responsible for the Department for Courts a report stating such information relating to the administration, workload, and resources of the Environment Court during the year ending on the preceding 30th day of June as the Minister of the Crown who is responsible for the Department for Courts may require.
-(2) The Minister of the Crown who is responsible for the Department for Courts shall lay before the House of Representatives each report received by him or her under this section within 10 sitting days of receiving it.
+(1) The Registrar shall no later than 31 August in each year, deliver to the Minister of the Crown who is responsible for the Ministry of Justice a report stating such information relating to the administration, workload, and resources of the Environment Court during the year ending on the preceding 30 June as the Minister of the Crown who is responsible for the Ministry of Justice may require.
+(2) The Minister of the Crown who is responsible for the Ministry of Justice shall lay before the House of Representatives each report received by him or her under this section within 10 sitting days of receiving it.
 
-**Constitution of Environment Court**
+**Constitution of court**
 
 ### 265 Environment Court sittings
 (1) The quorum for the Environment Court is—
@@ -6112,23 +6115,23 @@ There shall be paid, out of money appropriated by Parliament for the purpose, to
   (b) 1 Environment Judge sitting alone for the purposes of section 279 or proceedings under Part 12; or
   (c) 1 Environment Commissioner sitting alone in accordance with a direction of the Principal Environment Judge under section 280.
 (2) When an Environment Judge sits with an Environment Commissioner or special advisor, the Environment Judge shall preside at the sitting.
-(3) A decision of a majority of the members of the Environment Court present at a sitting is the decision of the Environment Court but, if there is no majority, the decision of the presiding member is the decision of the Environment Court.
+(3) A decision of a majority of the members of the Environment Court present at a sitting is the decision of the court but, if there is no majority, the decision of the presiding member is the decision of the court.
 
 ### 266 Constitution of the Environment Court not to be questioned
-(1) It is in the sole discretion of the member of the Environment Court presiding at a sitting of the Environment Court to decide whether the Environment Court has been properly constituted and convened.
-(2) The exercise of discretion under subsection (1) may not be questioned in proceedings before the Environment Court or in another Court.
+(1) It is in the sole discretion of the member of the Environment Court presiding at a sitting of the court to decide whether the court has been properly constituted and convened.
+(2) The exercise of discretion under subsection (1) may not be questioned in proceedings before the court or in another court.
 
 **Conferences and additional dispute resolution**
 
 ### 267 Conferences
-(1) An Environment Judge may at any time after the lodging of proceedings require the parties, or any Minister, local authority, or other person which or who has given notice of intention to appear under section 274 to be present in person or by representative at a conference presided over by a member of the Environment Court.
+(1) An Environment Judge may at any time after the lodging of proceedings require the parties, or any Minister, local authority, or other person which or who has given notice of intention to appear under section 274 to be present in person or by representative at a conference presided over by a member of the court.
 (2) Any party may request an Environment Judge to convene a conference under subsection (1).
-(3) The member of the Environment Court presiding at any conference under subsection (1) may, after giving the parties an opportunity to be heard, do all or any of the following things:
+(3) The member of the court presiding at any conference under subsection (1) may, after giving the parties an opportunity to be heard, do all or any of the following things:
   (a) direct that such amendments to pleadings be made as appear to the member to be necessary:
   (b) direct that any admissions which have been made by any party and which do not appear in the pleadings, be recorded in such a manner as the member thinks fit:
   (c) define the issues to be tried:
   (d) direct that any issue, whether of fact or of law or of both, be tried before any other issue:
-  (e) fix the dates by which the respective parties shall deliver to the Environment Court and to the other parties, statements of the evidence to be given on behalf of the respective parties:
+  (e) fix the dates by which the respective parties shall deliver to the court and to the other parties, statements of the evidence to be given on behalf of the respective parties:
   (f) direct the order in which the parties shall present their respective cases:
   (g) direct the order in which a party may cross-examine witnesses called on behalf of any other party:
   (h) limit the number of addresses and cross-examinations of witnesses by parties having the same interest:
@@ -6137,7 +6140,7 @@ There shall be paid, out of money appropriated by Parliament for the purpose, to
   (k) require further or better particulars of any matters connected with the proceedings:
   (l) adjourn the conference to allow for consultations among the parties:
   (m) give such further or other directions as he or she considers necessary.
-(4) The member of the Environment Court presiding at any conference under subsection (1)—
+(4) The member of the court presiding at any conference under subsection (1)—
   (a) shall ensure that the parties are given an opportunity to make all admissions and all agreements as to the conduct of the proceedings which ought reasonably to be made by them; and
   (b) with a view to such special order (if any) as to costs as may be just being made at the hearing, may cause a record to be made, in such form as the member may direct, of any refusal to make any admission or agreement.
 
@@ -6145,31 +6148,31 @@ There shall be paid, out of money appropriated by Parliament for the purpose, to
 (1) At any time after lodgment of any proceedings, for the purpose of encouraging settlement, the Environment Court, with the consent of the parties and of its own motion or upon request, may ask one of its members or another person to conduct mediation, conciliation, or other procedures designed to facilitate the resolution of any matter before or at any time during the course of a hearing.
 (2) A member of the Environment Court is not disqualified from resuming his or her role to decide a matter by reason of the mediation, conciliation, or other procedure under subsection (1) if—
   (a) the parties agree that the member should resume his or her role and decide the matter; and
-  (b) the member concerned and the Environment Court are satisfied that it is appropriate for him or her to do so.
+  (b) the member concerned and the court are satisfied that it is appropriate for him or her to do so.
 
 **Procedure and powers**
 
-### 269 Environment Court procedure
+### 269 Court procedure
 (1) Except as expressly provided in this Act, the Environment Court may regulate its own proceedings in such manner as it thinks fit.
 (2) Environment Court proceedings may be conducted without procedural formality where this is consistent with fairness and efficiency.
 (3) The Environment Court shall recognise tikanga Maori where appropriate.
 (4) The Environment Court may use or allow the use in any proceedings, or conference under section 267, of any telecommunication facility which will assist in the fair and efficient determination of the proceedings or conference.
 
 ### 270 Hearing matters together
-(1) The Environment Court shall hear together 2 or more proceedings relating to the same subject-matter unless in the Environment Court's opinion it is impractical, unnecessary, or undesirable.
+(1) The Environment Court shall hear together 2 or more proceedings relating to the same subject matter unless in the court's opinion it is impractical, unnecessary, or undesirable.
 (2) Subsection (1) applies whenever the Environment Court has jurisdiction to hear the proceedings, whether or not they arise under this Act or another Act or regulation or a combination of Acts and regulations.
 
 ### 271 Local hearings
-The Environment Court shall conduct any conference or hearing at a place as near to the locality of the subject-matter to which the proceedings relate as the Environment Court considers convenient unless the parties otherwise agree.
+The Environment Court shall conduct any conference or hearing at a place as near to the locality of the subject matter to which the proceedings relate as the court considers convenient unless the parties otherwise agree.
 
 ### 271A Submitter may be party to proceedings
 [Repealed]
 
 ### 272 Hearing of proceedings
 (1) The Environment Court shall hear and determine all proceedings as soon as practicable after the date on which the proceedings are lodged with it unless, in the circumstances of a particular case, it is not considered appropriate to do so.
-(2) The time and place of hearing of proceedings before the Environment Court shall be fixed by the Registrar in accordance with regulations made under this Act.
+(2) The time and place of hearing of proceedings before the court shall be fixed by the Registrar in accordance with regulations made under this Act.
 (3) The Registrar shall give not less than 15 working days notice of the time and place fixed for a hearing to every party to the proceedings concerned, except that an Environment Judge may reduce that period in any particular case if he or she thinks fit.
-(4) If a person who has initiated proceedings before the Environment Court fails without sufficient cause to appear before the Environment Court at the time and place fixed for the hearing, the Environment Court may dismiss the proceedings.
+(4) If a person who has initiated proceedings before the court fails without sufficient cause to appear before the court at the time and place fixed for the hearing, the court may dismiss the proceedings.
 
 ### 273 Successors to parties to proceedings
 (1) Proceedings brought before the Environment Court shall be deemed to be also brought on behalf of the personal representatives of the person bringing the same and on behalf of the successors, if any, to the rights or interests affected thereby.
@@ -6214,9 +6217,9 @@ A person who has a right to appear or is allowed to appear before the Environmen
   (a) receive anything in evidence that it considers appropriate to receive; and
   (b) call for anything to be provided in evidence which it considers will assist it to make a decision or recommendation; and
   (c) call before it a person to give evidence who, in its opinion, will assist it in making a decision or recommendation.
-(1A) The Court may, whether or not the parties consent,—
+(1A) The court may, whether or not the parties consent,—
   (a) accept evidence that was presented at a hearing held by the consent authority under section 39:
-  (b) direct how evidence is to be given to the Court.
+  (b) direct how evidence is to be given to the court.
 (2) The Environment Court is not bound by the rules of law about evidence that apply to judicial proceedings.
 (3) The Environment Court may receive evidence written or spoken in Maori and the Maori Language Act 1987 shall apply accordingly.
 
@@ -6240,7 +6243,7 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
 (4) An order made by the Registrar under subsection (3) or an application granted under section 281 must be treated as if it were an order of the Environment Court.
 (5) The Registrar may take a statutory declaration or an affidavit.
 
-### 279 Powers of an Environment Judge sitting alone
+### 279 Powers of Environment Judge sitting alone
 (1) An Environment Judge sitting alone may make any of the following orders:
   (a) an order in the course of proceedings:
   (b) an order that is not opposed:
@@ -6291,14 +6294,14 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
     (ii) what shall be served, whether or not the direction complies with this Act or any other Act or a regulation; or
     (iii) the terms, including terms as to adjournment, costs, or other things, on which any information shall be supplied.
 (2) The Environment Court shall not grant an application under this section unless it is satisfied that none of the parties to the proceedings will be unduly prejudiced.
-(3) Without limiting subsection (2), the Environment Court shall not grant an application under this section to waive a requirement as to the time within which anything shall be lodged with the Environment Court (to which subsection (1)(a)(ii) applies) unless it is satisfied that—
+(3) Without limiting subsection (2), the Environment Court shall not grant an application under this section to waive a requirement as to the time within which anything shall be lodged with the court (to which subsection (1)(a)(ii) applies) unless it is satisfied that—
   (a) the appellant or applicant and the respondent consent to that waiver; or
   (b) any of those parties who have not so consented will not be unduly prejudiced.
 (4) Without limiting subsections (2) and (3), the Environment Court may waive a requirement as to time under this section whether or not an application is made under this section before the requirement has been breached.
 (5) A Registrar may exercise a power in this section if conferred by the Principal Environment Judge either generally or in relation to a specific matter and, in either case, on such terms and conditions as the Principal Environment Judge thinks fit.
 
 ### 281A Registrar may waive, reduce, or postpone payment of fee
-(1) The Registrar may waive, reduce, or postpone the payment to the Court of any fee prescribed by regulations made under this Act.
+(1) The Registrar may waive, reduce, or postpone the payment to the court of any fee prescribed by regulations made under this Act.
 (2) The powers in subsection (1) may be exercised only if—
   (a) the person responsible for paying the fee is unable to pay the fee in whole or in part; or
   (b) in the case of proceedings concerning a matter of public interest, the proceedings are unlikely to be commenced or continued if the powers are not exercised.
@@ -6309,17 +6312,17 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
 (3) The Environment Judge may confirm, modify, or reverse the decision of the Registrar.
 
 ### 282 Power to commit for contempt
-(1) If any person—any officer of the Environment Court, with or without the assistance of any member of the Police or other person, may, in accordance with an order given by a member of the Environment Court, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Environment Court, and an Environment Judge, may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
-  (a) wilfully insults, assaults, threatens, or intimidates the Environment Court or any member of it or any special advisor to or officer of the Environment Court, during a sitting of the Environment Court, or in going to or returning from any sitting; or
-  (b) wilfully interrupts the proceedings of the Environment Court or otherwise misbehaves while the Environment Court is sitting; or
-  (c) wilfully and without lawful excuse disobeys an order or direction of a member of the Environment Court in the course of any proceedings before the Environment Court—
-(2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that Court.
+(1) If any person—any officer of the court, with or without the assistance of any constable or other person, may, in accordance with an order given by a member of the court, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the court, and an Environment Judge, may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
+  (a) wilfully insults, assaults, threatens, or intimidates the court or any member of it or any special advisor to or officer of the court, during a sitting of the court, or in going to or returning from any sitting; or
+  (b) wilfully interrupts the proceedings of the court or otherwise misbehaves while the court is sitting; or
+  (c) wilfully and without lawful excuse disobeys an order or direction of a member of the court in the course of any proceedings before the court—
+(2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
 
 ### 283 Non-attendance or refusal to co-operate
 (1) Except as provided in subsection (2), no person shall, without reasonable cause—
   (a) fail to appear in accordance with a summons issued by an Environment Judge or an Environment Commissioner, or fail to produce anything that he or she is required to produce by such a summons; or
-  (b) refuse to be sworn or give evidence at proceedings before the Environment Court; or
-  (c) refuse to answer any questions put by a member of the Environment Court during proceedings before the Environment Court.
+  (b) refuse to be sworn or give evidence at proceedings before the court; or
+  (c) refuse to answer any questions put by a member of the court during proceedings before the court.
 (2) A person need not comply with subsection (1) if he or she was not given travelling expenses in accordance with the scale for witnesses in civil cases under the District Courts Act 1947 either—
   (a) at the time the summons was served; or
   (b) at some reasonable time before the hearing.
@@ -6327,7 +6330,7 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
 ### 284 Witnesses' allowances
 (1) A witness attending the Environment Court in accordance with a summons is entitled to be paid, by the party requiring his or her attendance, expenses for travelling and maintenance while absent from his or her usual residence.
 (2) Payment of expenses shall be made in accordance with the scale of allowances for witnesses in civil cases under the District Courts Act 1947.
-(3) When a witness is called or evidence is obtained by the Environment Court, the Environment Court may direct that the expenses incurred—
+(3) When a witness is called or evidence is obtained by the court, the court may direct that the expenses incurred—
   (a) form part of the costs of the proceedings; or
   (b) be paid from money appropriated by Parliament for the purpose.
 
@@ -6335,16 +6338,16 @@ A copy of, or extract from, a policy statement or plan, certified to be a true c
 [Repealed]
 
 ### 285 Awarding costs
-(1) The Environment Court may order any party to proceedings before it to pay to any other party the costs and expenses (including witness expenses) incurred by the other party that the Court considers reasonable.
+(1) The Environment Court may order any party to proceedings before it to pay to any other party the costs and expenses (including witness expenses) incurred by the other party that the court considers reasonable.
 (2) Subsection (1) does not apply if the Environment Court makes an order under section 308H(2).
-(3) The Environment Court may order any party to proceedings before it to pay to the Crown all or any part of the Court's costs and expenses.
+(3) The Environment Court may order any party to proceedings before it to pay to the Crown all or any part of the court's costs and expenses.
 (4) Subsection (3) does not apply if the Environment Court makes an order under section 308H(3).
 (5) In proceedings under section 87G, 149T, 198E, or 198K, the Environment Court must,—
   (a) when deciding whether to make an order under subsection (1) or (3),—
     (i) apply a presumption that costs under subsections (1) and (3) are not to be ordered against a person who is a party under section 274(1); and
     (ii) apply a presumption that costs under subsection (3) are to be ordered against the applicant; and
   (b) when deciding on the amount of any order it decides to make, have regard to the fact that the proceedings are at first instance.
-(6) The Environment Court may order a party who fails to proceed with a hearing at the time the Court arranges, or who fails to give adequate notice of the abandonment of the proceedings, to pay to any other party or to the Crown any of the costs and expenses incurred by the other party or the Crown.
+(6) The Environment Court may order a party who fails to proceed with a hearing at the time the court arranges, or who fails to give adequate notice of the abandonment of the proceedings, to pay to any other party or to the Crown any of the costs and expenses incurred by the other party or the Crown.
 
 ### 286 Enforcing orders for costs
 An order for costs made by the Environment Court may be filed in the District Court of the district named in the order and then becomes enforceable as a judgment of the District Court in its civil jurisdiction.
@@ -6352,7 +6355,7 @@ An order for costs made by the Environment Court may be filed in the District Co
 ### 287 Reference of questions of law to High Court
 (1) The Environment Court may, in any proceedings before it, state a case for the opinion of the High Court on any question of law that arises in those proceedings; and for that purpose may either conclude the proceedings subject to that opinion, or adjourn them until after that opinion has been given.
 (2) The case shall be settled and signed by an Environment Judge and sent to the Registrar at the appropriate registry of the High Court.
-(3) The settling and signing of the case by an Environment Judge is deemed to be the statement of the case by the Environment Court.
+(3) The settling and signing of the case by an Environment Judge is deemed to be the statement of the case by the court.
 (4) The Environment Court may, in relation to any case stated under this section, after giving notice to the parties of its intention to do so, request the Registrar at the appropriate registry of the High Court for a fixture for the determination of the case.
 (5) For the purposes of this section, the appropriate registry of the High Court is the office of the High Court nearest to the place where the appeal, inquiry, or other proceedings was or is being conducted.
 
@@ -6364,25 +6367,25 @@ Witnesses and counsel appearing before the Environment Court have the same privi
 ### 289 Reply to appeal or request for inquiry
 [Repealed]
 
-### 290 Powers of Environment Court in regard to appeals and inquiries
+### 290 Powers of court in regard to appeals and inquiries
 (1) The Environment Court has the same power, duty, and discretion in respect of a decision appealed against, or to which an inquiry relates, as the person against whose decision the appeal or inquiry is brought.
 (2) The Environment Court may confirm, amend, or cancel a decision to which an appeal relates.
 (3) The Environment Court may recommend the confirmation, amendment, or cancellation of a decision to which an inquiry relates.
 (4) Nothing in this section affects any specific power or duty the Environment Court has under this Act or under any other Act or regulation.
 
-### 290AA Powers of Court in regard to certain appeals under clause 14 of Schedule 1
+### 290AA Powers of court in regard to certain appeals under clause 14 of Schedule 1
 The Environment Court, when hearing an appeal under clause 14(1) of Schedule 1 relating to a matter included in a document under section 55(2B), may consider only the question of law raised.
 
 ### 290A Environment Court to have regard to decision that is subject of appeal or inquiry
 In determining an appeal or inquiry, the Environment Court must have regard to the decision that is the subject of the appeal or inquiry.
 
-### 291 Other proceedings before Environment Court
+### 291 Other proceedings before court
 (1) Except as otherwise provided in this Act, or any other Act, or regulation, every originating application to the Environment Court shall be made by notice of motion. The notice of motion shall specify the order sought, the grounds upon which the application is made, and the persons upon whom the notice is to be served. Every notice of motion shall be supported by an affidavit as to the matters giving rise to the application.
 (2) The applicant shall as soon as reasonably practicable after lodging a notice of motion with the Registrar, serve copies of the notice and affidavit upon such persons, if any, as are parties to the application and advise the Registrar accordingly.
 (3) An Environment Judge may at any time direct the applicant to serve a copy of the notice of motion and affidavit upon any other person.
 (4) Every person upon whom a notice of motion has been served shall, if he or she desires to be heard on the application, within 15 working days after the date of service upon him or her, give written notice in the prescribed form to the Registrar and the applicant of his or her desire to be heard and of the matters he or she wishes to advance.
 
-**Environment Court's powers in regard to plans and policy statements**
+**Court's powers in regard to plans and policy statements**
 
 ### 292 Remedying defects in plans
 (1) The Environment Court may, in any proceedings before it, direct a local authority to amend a regional plan or district plan to which the proceedings relate for the purpose of—
@@ -6391,14 +6394,14 @@ In determining an appeal or inquiry, the Environment Court must have regard to t
 (2) The local authority to whom a direction is made under subsection (1) shall comply with the direction without using the process in Schedule 1.
 
 ### 293 Environment Court may order change to proposed policy statements and plans
-(1) After hearing an appeal against, or an inquiry into, the provisions of any proposed policy statement or plan that is before the Environment Court, the Court may direct the local authority to—
-  (a) prepare changes to the proposed policy statement or plan to address any matters identified by the Court:
-  (b) consult the parties and other persons that the Court directs about the changes:
-  (c) submit the changes to the Court for confirmation.
-(2) The Court—
+(1) After hearing an appeal against, or an inquiry into, the provisions of any proposed policy statement or plan that is before the Environment Court, the court may direct the local authority to—
+  (a) prepare changes to the proposed policy statement or plan to address any matters identified by the court:
+  (b) consult the parties and other persons that the court directs about the changes:
+  (c) submit the changes to the court for confirmation.
+(2) The court—
   (a) must state its reasons for giving a direction under subsection (1); and
   (b) may give directions under subsection (1) relating to a matter that it directs to be addressed.
-(3) Subsection (4) applies if the Environment Court finds that a proposed policy statement or plan that is before the Court departs from—
+(3) Subsection (4) applies if the Environment Court finds that a proposed policy statement or plan that is before the court departs from—
   (a) a national policy statement:
   (b) the New Zealand coastal policy statement:
   (c) a relevant regional policy statement:
@@ -6422,10 +6425,10 @@ In determining an appeal or inquiry, the Environment Court must have regard to t
   (a) made in accordance with section 291; and
   (b) without limiting the discretion as to service under section 291, served on every relevant local authority.
 
-### 294 Review of decision by Environment Court
-(1) Where, after any decision has been given by the Environment Court, new and important evidence becomes available or there has been a change in circumstances that in either case might have affected the decision, the Environment Court shall have power to order a rehearing of the proceedings on such terms and conditions as it thinks reasonable.
-(2) Any party may apply to the Environment Court on any of those grounds for a rehearing of the proceedings; and in any such case the Environment Court, after notice to the other parties concerned and after hearing such evidence as it thinks fit, shall determine whether and (if so) on what conditions the proceedings shall be reheard.
-(3) The decision of the Environment Court on any such proceedings shall have the same effect as a decision of the Environment Court on the original proceedings.
+### 294 Review of decision by court
+(1) Where, after any decision has been given by the Environment Court, new and important evidence becomes available or there has been a change in circumstances that in either case might have affected the decision, the court shall have power to order a rehearing of the proceedings on such terms and conditions as it thinks reasonable.
+(2) Any party may apply to the court on any of those grounds for a rehearing of the proceedings; and in any such case the court, after notice to the other parties concerned and after hearing such evidence as it thinks fit, shall determine whether and (if so) on what conditions the proceedings shall be reheard.
+(3) The decision of the court on any such proceedings shall have the same effect as a decision of the court on the original proceedings.
 
 **Decisions of Environment Court**
 
@@ -6433,15 +6436,15 @@ In determining an appeal or inquiry, the Environment Court must have regard to t
 A decision of the Environment Court under this Act, or another Act, or regulation, on any matter other than an inquiry, is final unless it is reheard under section 294 or appealed under section 299.
 
 ### 296 No review of decisions unless right of appeal or reference to inquiry exercised
-If there is a right to refer any matter for inquiry to the Environment Court or to appeal to the Environment Court against a decision of a local authority, consent authority or any person under this Act or under any other Act or regulation—unless the right has been exercised by the applicant in the proceedings and the Environment Court has made a decision.
+If there is a right to refer any matter for inquiry to the Environment Court or to appeal to the court against a decision of a local authority, consent authority or any person under this Act or under any other Act or regulation—unless the right has been exercised by the applicant in the proceedings and the court has made a decision.
   (a) no application for review under Part 1 of the Judicature Amendment Act 1972 may be made; and
   (b) no proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, may be heard by the High Court—
 
-### 297 Decisions of Environment Court to be in writing
-Every decision, determination, or order of the Environment Court, unless it is pronounced orally at a sitting of the Environment Court, and every report, recommendation, or determination made by the Environment Court on an inquiry, shall be in writing signed by the member who presided at the hearing or inquiry or by a majority of the members who sat on the hearing or inquiry and shall be authenticated with the seal of the Environment Court.
+### 297 Decisions of court to be in writing
+Every decision, determination, or order of the Environment Court, unless it is pronounced orally at a sitting of the court, and every report, recommendation, or determination made by the court on an inquiry, shall be in writing signed by the member who presided at the hearing or inquiry or by a majority of the members who sat on the hearing or inquiry and shall be authenticated with the seal of the court.
 
 ### 298 Documents judicially noticed
-The Environment Court shall continue to have a seal, and a document to which the seal of the Environment Court has been affixed shall be judicially noticed.
+The Environment Court shall continue to have a seal, and a document to which the seal of the court has been affixed shall be judicially noticed.
 
 **Appeals from Environment Court decisions**
 
@@ -6460,7 +6463,7 @@ The Environment Court shall continue to have a seal, and a document to which the
   (a) the decision or report and recommendation, or part of the decision or report and recommendation, appealed against; and
   (b) the error of law alleged by the appellant; and
   (c) the question of law to be resolved; and
-  (d) the grounds of appeal with sufficient particularity for the Court and other parties to understand them; and
+  (d) the grounds of appeal with sufficient particularity for the court and other parties to understand them; and
   (e) the relief sought.
 (6) The Registrar of the Environment Court shall send a copy of the whole of the decision appealed against to the Registrar of the High Court as soon as reasonably practicable after receiving the notice of appeal.
 
@@ -6468,8 +6471,8 @@ The Environment Court shall continue to have a seal, and a document to which the
 (1) A party to any proceedings or any person who appeared before the Environment Court, who wishes to appear on an appeal to the High Court shall give notice of intention to appear to—
   (a) the appellant; and
   (b) the Registrar of the High Court; and
-  (c) the Registrar of the Environment Court; and
-  (d) when the decision or report and recommendation was made by the Environment Court after an appeal to it, the authority whose decision was appealed.
+  (c) the Registrar of the court; and
+  (d) when the decision or report and recommendation was made by the court after an appeal to it, the authority whose decision was appealed.
 (2) The notice to appear under subsection (1) shall be served within 10 working days after the party was served with the notice of appeal.
 
 ### 302 Parties to the appeal before the High Court
@@ -6480,9 +6483,9 @@ The Environment Court shall continue to have a seal, and a document to which the
 
 ### 303 Orders of the High Court
 (1) The High Court may, on application to it or on its own motion, make an order directing the Environment Court to lodge with the Registrar of the High Court any or all of the following things:
-  (a) anything in the possession of the Environment Court:
-  (b) a report recording, in respect of any matter or issue the High Court may specify, any of the findings of fact of the Environment Court which are not set out in its decision or report and recommendation:
-  (c) a report setting out, so far as is reasonably practicable and in respect of any issue or matter the order may specify, any reasons or considerations to which the Environment Court had regard but which are not set out in its decision or report and recommendation.
+  (a) anything in the possession of the court:
+  (b) a report recording, in respect of any matter or issue the High Court may specify, any of the findings of fact of the court which are not set out in its decision or report and recommendation:
+  (c) a report setting out, so far as is reasonably practicable and in respect of any issue or matter the order may specify, any reasons or considerations to which the court had regard but which are not set out in its decision or report and recommendation.
 (2) An application under subsection (1) shall be made—
   (a) in the case of the appellant, within 20 working days after the date on which the notice of appeal is lodged; or
   (b) in the case of any other party to the appeal, within 20 working days after the date of the service on him or her of a copy of the notice of appeal.
@@ -6491,7 +6494,7 @@ The Environment Court shall continue to have a seal, and a document to which the
 ### 304 Dismissal of appeal
 The High Court may dismiss an appeal if—
   (a) the appellant does not appear at the hearing of the appeal; or
-  (b) the appellant does not proceed with the appeal with due diligence and another party applies to the Court to dismiss the appeal.
+  (b) the appellant does not proceed with the appeal with due diligence and another party applies to the court to dismiss the appeal.
 
 ### 305 Additional appeals on questions of law
 (1) When a party to an appeal other than the appellant wishes to contend that the decision or report and recommendation of the Environment Court is in error on other questions of law, that party may lodge a notice to that effect with the Registrar of the High Court.
@@ -6561,14 +6564,14 @@ Person C must tell the court if person C—
 
 ### 308H Costs orders if declaration made
 (1) This section applies if the Environment Court makes a declaration under section 308G.
-(2) The Environment Court must make an order that the party against whom it makes the declaration pay to any other party an amount for costs and expenses that the Court must calculate by—
+(2) The Environment Court must make an order that the party against whom it makes the declaration pay to any other party an amount for costs and expenses that the court must calculate by—
   (a) totalling all the costs and expenses (including witness expenses) that the other party incurred because the party against whom the declaration is made contravened the provision in this Part; and
   (b) deducting from the total any amount for costs and expenses (including witness expenses) that the party against whom the declaration is made has paid to the other party in previous proceedings on the same matter.
-(3) The Environment Court must make an order that the party against whom it makes the declaration pay to the Crown an amount for costs and expenses that the Court must calculate by—
-  (a) totalling all the costs and expenses incurred by the Court because the party against whom the declaration is made contravened the provision in this Part; and
+(3) The Environment Court must make an order that the party against whom it makes the declaration pay to the Crown an amount for costs and expenses that the court must calculate by—
+  (a) totalling all the costs and expenses incurred by the court because the party against whom the declaration is made contravened the provision in this Part; and
   (b) deducting from the total any amount for costs and expenses that the party against whom the declaration is made has paid to the Crown in previous proceedings on the same matter.
-(4) The Court may decline to make an order under subsection (2) or (3) only if the Court considers that the order should not be made because the circumstances are exceptional. If the Court declines to make an order under subsection (2) or (3), it may make an order under section 285(1) or (3).
-(5) If the Court makes a declaration against person C, it must also make an order that person A not directly or indirectly reimburse person C for the costs and expenses that the Court has ordered person C to pay.
+(4) The court may decline to make an order under subsection (2) or (3) only if the court considers that the order should not be made because the circumstances are exceptional. If the court declines to make an order under subsection (2) or (3), it may make an order under section 285(1) or (3).
+(5) If the court makes a declaration against person C, it must also make an order that person A not directly or indirectly reimburse person C for the costs and expenses that the court has ordered person C to pay.
 
 ### 308I Proceedings for damages in High Court
 (1) A person who obtains a declaration under section 308G may bring proceedings for damages in the High Court against the person against whom the Environment Court made the declaration.
@@ -6619,10 +6622,10 @@ A declaration may declare—
 
 ### 312 Notification of application
 (1) The applicant for a declaration shall serve notice of the application in the prescribed form on every person directly affected by the application.
-(2) Every notice required to be served under this section shall be served within 5 working days after the application is made to the Environment Court.
+(2) Every notice required to be served under this section shall be served within 5 working days after the application is made to the court.
 
 ### 313 Decision on application
-After hearing the applicant, and any person served with notice of the application, and any other person who has the right to be represented at proceedings under section 274, who wishes to be heard, the Environment Court may—
+After hearing the applicant, and any person served with notice of the application, and any other person who has the right to be represented at proceedings under section 274, who wishes to be heard, the court may—
   (a) make the declaration sought by an application under section 311, with or without modification; or
   (b) make any other declaration that it considers necessary or desirable; or
   (c) decline to make a declaration.
@@ -6631,10 +6634,10 @@ After hearing the applicant, and any person served with notice of the applicatio
 
 ### 314 Scope of enforcement order
 (1) An enforcement order is an order made under section 319 by the Environment Court that may do any 1 or more of the following:
-  (a) require a person to cease, or prohibit a person from commencing, anything done or to be done by or on behalf of that person, that, in the opinion of the Environment Court,—
+  (a) require a person to cease, or prohibit a person from commencing, anything done or to be done by or on behalf of that person, that, in the opinion of the court,—
     (i) contravenes or is likely to contravene this Act, any regulations, a rule in a plan, a rule in a proposed plan, a requirement for a designation or for a heritage order, or a resource consent, section 10 (certain existing uses protected), or section 20A (certain existing lawful activities allowed); or
     (ii) is or is likely to be noxious, dangerous, offensive, or objectionable to such an extent that it has or is likely to have an adverse effect on the environment:
-  (b) require a person to do something that, in the opinion of the Environment Court, is necessary in order to—
+  (b) require a person to do something that, in the opinion of the court, is necessary in order to—
     (i) ensure compliance by or on behalf of that person with this Act, any regulations, a rule in a plan, a rule in a proposed plan, a requirement for a designation or for a heritage order, or a resource consent; or
     (ii) avoid, remedy, or mitigate any actual or likely adverse effect on the environment caused by or on behalf of that person:
   (c) require a person to remedy or mitigate any adverse effect on the environment caused by or on behalf of that person:
@@ -6643,16 +6646,16 @@ After hearing the applicant, and any person served with notice of the applicatio
     (ii) an abatement notice; or
     (iii) a rule in a plan or a proposed plan or a resource consent; or
     (iv) any of that person's other obligations under this Act:
-  (da) require a person to do something that, in the opinion of the Environment Court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect on the environment relating to any land of which the person is the owner or occupier:
-  (e) change or cancel a resource consent if, in the opinion of the Environment Court, the information made available to the consent authority by the applicant contained inaccuracies relevant to the enforcement order sought which materially influenced the decision to grant the consent:
-  (f) where the Environment Court determines that any 1 or more of the requirements of Schedule 1 have not been observed in respect of a policy statement or a plan, do any 1 or more of the following:
+  (da) require a person to do something that, in the opinion of the court, is necessary in order to avoid, remedy, or mitigate any actual or likely adverse effect on the environment relating to any land of which the person is the owner or occupier:
+  (e) change or cancel a resource consent if, in the opinion of the court, the information made available to the consent authority by the applicant contained inaccuracies relevant to the enforcement order sought which materially influenced the decision to grant the consent:
+  (f) where the court determines that any 1 or more of the requirements of Schedule 1 have not been observed in respect of a policy statement or a plan, do any 1 or more of the following:
     (i) grant a dispensation from the need to comply with those requirements:
     (ii) direct compliance with any of those requirements:
-    (iii) suspend the whole or any part of the policy statement or plan from a particular date (which may be on or after the date of the order, but no such suspension shall affect any Court order made before the date of the suspension order).
+    (iii) suspend the whole or any part of the policy statement or plan from a particular date (which may be on or after the date of the order, but no such suspension shall affect any court order made before the date of the suspension order).
 (2) For the purposes of subsection (1)(d), actual and reasonable costs include the costs of investigation, supervision, and monitoring of the adverse effect on the environment, and the costs of any actions required to avoid, remedy, or mitigate the adverse effect.
 (3) Except as provided in section 319(2), an enforcement order may be made on such terms and conditions as the Environment Court thinks fit (including the payment of any administrative charge under section 36, the provision of security, or the entry into a bond for performance).
 (4) Without limiting the provisions of subsections (1) to (3), an order may require the restoration of any natural and physical resource to the state it was in before the adverse effect occurred (including the planting or replanting of any tree or other vegetation).
-(5) An enforcement order shall, if the Environment Court so states, apply to the personal representatives, successors, and assigns of a person to the same extent as it applies to that person.
+(5) An enforcement order shall, if the court so states, apply to the personal representatives, successors, and assigns of a person to the same extent as it applies to that person.
 
 ### 315 Compliance with enforcement order
 (1) Where an enforcement order is made against a person, and that enforcement order is served on that person, that person shall—
@@ -6694,7 +6697,7 @@ Except as provided in section 320 (which relates to interim enforcement orders),
     (iii) a designation; and
   (b) the adverse effects in respect of which the order is sought were expressly recognised by the person who approved the plan, or granted the resource consent, or approved the designation, at the time of the approval or granting, as the case may be.
 (3) The Environment Court may make an enforcement order if—
-  (a) the Court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the approval or granting, as the case may be; or
+  (a) the court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the approval or granting, as the case may be; or
   (b) the person was acting in accordance with a resource consent that has been changed or cancelled under section 314(1)(e).
 
 ### 320 Interim enforcement order
@@ -6786,7 +6789,7 @@ Every abatement notice shall be in the prescribed form and shall state—
     (ii) a resource consent; or
     (iii) a designation; and
   (b) the adverse effects in respect of which the notice was served were expressly recognised by the person who approved the plan, or notified the proposed plan, or granted the resource consent, or approved the designation, at the time of the approval, notification, or granting, as the case may be.
-(6) The Environment Court may confirm an abatement notice, that is the subject of an appeal, if the Court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the approval, notification, or granting, as the case may be.
+(6) The Environment Court may confirm an abatement notice, that is the subject of an appeal, if the court considers it appropriate after having regard to the time that has elapsed and any change in circumstances since the approval, notification, or granting, as the case may be.
 
 ### 325A Cancellation of abatement notice
 (1) For the purposes of this section, relevant authority means the local authority or Minister of Conservation which or who authorised, under section 38, the enforcement officer who issued the abatement notice.
@@ -6804,7 +6807,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   (c) by or on behalf of any on-scene commander under section 305 or section 311 of that Act or in accordance with a direction given under section 310 of that Act; or
   (d) by or on behalf of the master or owner of any ship, or the owner or operator of any oil transfer site or offshore installation, or any other person, in accordance with a direction given under section 305 or section 311 of that Act.
 (2) No person (other than the Minister, the Director of Maritime New Zealand, a local authority, or a consent authority) may apply to the Environment Court for an enforcement order to require any person to comply with or cease contravening section 15B (which imposes restrictions on discharges of harmful substances, contaminants, and water from ships and offshore installations).
-(3) No person may apply for an enforcement order of a kind specified in section 314(1)(d) in respect of any actual or reasonable costs and expenses, where the costs and expenses which a person has incurred or is likely to incur constitute pollution damage (as defined in section 342 of the Maritime Transport Act 1994) in respect of which the owner of a CLC ship (as so defined) is liable in damages under Part 25 of that Act; and no order relating to such damage may be made by the Environment Court or any other Court in any proceedings (including prosecutions for offences) under this Act.
+(3) No person may apply for an enforcement order of a kind specified in section 314(1)(d) in respect of any actual or reasonable costs and expenses, where the costs and expenses which a person has incurred or is likely to incur constitute pollution damage (as defined in section 342 of the Maritime Transport Act 1994) in respect of which the owner of a CLC ship (as so defined) is liable in damages under Part 25 of that Act; and no order relating to such damage may be made by the Environment Court or any other court in any proceedings (including prosecutions for offences) under this Act.
 
 **Excessive noise**
 
@@ -6889,11 +6892,11 @@ Every abatement notice shall be in the prescribed form and shall state—
 (3) If the application is made within the time stated in subsection (2), the activity may continue until the application for a resource consent and any appeals have been finally determined.
 
 ### 330B Emergency works under Civil Defence Emergency Management Act 2002
-(1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared under the Civil Defence Emergency Management Act 2002, the provisions of sections 9, 12, 13, 14, and 15 of this Act do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
+(1) If any activity is undertaken by any person exercising emergency powers during a state of emergency declared under the Civil Defence Emergency Management Act 2002, the provisions of sections 9, 12, 13, 14, and 15 do not apply to any activity undertaken by or on behalf of that person to remove the cause of, or mitigate any actual or adverse effect of, the emergency.
 (2) If an activity is undertaken to which subsection (1) applies, the person who authorised the activity must advise the appropriate consent authority, within 7 days, that the activity has been undertaken.
-(3) If such an activity, but for this section, would contravene any of sections 9, 12, 13, 14, and 15 of this Act and the adverse effects of the activity continue, the person who authorised the activity must apply in writing to the appropriate consent authority for any necessary resource consents required in respect of the activity, within 20 working days of the notification under subsection (2).
+(3) If such an activity, but for this section, would contravene any of sections 9, 12, 13, 14, and 15 and the adverse effects of the activity continue, the person who authorised the activity must apply in writing to the appropriate consent authority for any necessary resource consents required in respect of the activity, within 20 working days of the notification under subsection (2).
 (4) If the application is made within the time stated in subsection (3), the activity may continue until the application for a resource consent and any appeals have been finally determined.
-(5) A person does not commit an offence under section 338(1)(a) of this Act by acting in accordance with this section.
+(5) A person does not commit an offence under section 338(1)(a) by acting in accordance with this section.
 
 ### 331 Reimbursement or compensation for emergency works
 (1) Where the local authority or consent authority takes action under section 330(2) because of the default of any person, the authority may require reimbursement from that person of its actual and reasonable costs (as defined in section 314(2)).
@@ -6909,7 +6912,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (1) Any enforcement officer, specifically authorised in writing by any local authority or consent authority to do so, may at all reasonable times go on, into, under, or over any place or structure, except a dwellinghouse, for the purpose of inspection to determine whether or not—
   (a) this Act, any regulations, a rule of a plan, a resource consent, section 10 (certain existing uses protected), or section 10A (certain existing activities allowed), or section 20A (certain lawful existing activities allowed) is being complied with; or
   (b) an enforcement order, interim enforcement order, abatement notice, or water shortage direction is being complied with; or
-  (c) any person is contravening a rule in a proposed plan in a manner prohibited by any of sections 9, 12(3), 14(1), 15(2) and 15(2A); or
+  (c) any person is contravening a rule in a proposed plan in a manner prohibited by any of sections 9, 12(3), 14(1), 15(2), and 15(2A); or
   (d) any control imposed under Schedule 12 on a recognised customary activity is being complied with.
 (2) For the purposes of subsection (1), an enforcement officer may take samples of water, air, soil, or organic matter.
 (2A) Where a sample is taken under subsection (2), an enforcement officer may also take a sample of any substance that the enforcement officer has reasonable cause to suspect is a contaminant of any water, air, soil, or organic matter.
@@ -6964,35 +6967,35 @@ Every abatement notice shall be in the prescribed form and shall state—
 **Return of property**
 
 ### 336 Return of property seized under sections 323 and 328
-(1) Where any property is seized and impounded under section 323 or section 328 (which relate to failure to comply with an abatement notice to reduce noise or an excessive noise direction), the owner of the property or person from whom it was seized may apply to the local authority, consent authority, or police station where the property is held, at any time, to have the property returned to him or her.
-(2) Where an application is made under subsection (1), the local authority, consent authority, or police officer with authority to do so, shall arrange for the return of the property if—
+(1) Where any property is seized and impounded under section 323 or section 328 (which relate to failure to comply with an abatement notice to reduce noise or an excessive noise direction), the owner of the property or person from whom it was seized may apply to the local authority, consent authority, or Police station where the property is held, at any time, to have the property returned to him or her.
+(2) Where an application is made under subsection (1), the local authority, consent authority, or constable with authority to do so, shall arrange for the return of the property if—
   (a) satisfied that the return of the property is not likely to lead to a resumption of the emission of noise beyond a reasonable level; and
-  (b) the applicant has paid all costs incurred by the local authority, consent authority, or police in seizing, impounding, transporting, and storing the property.
-(3) Where the local authority, consent authority, or police officer with authority to do so, refuses to return the property for the reason specified in subsection (2)(a), the applicant may make an application to the Environment Court, and subsections (2) and (4) of section 325 apply as if—
+  (b) the applicant has paid all costs incurred by the local authority, consent authority, or Police in seizing, impounding, transporting, and storing the property.
+(3) Where the local authority, consent authority, or constable with authority to do so, refuses to return the property for the reason specified in subsection (2)(a), the applicant may make an application to the Environment Court, and subsections (2) and (4) of section 325 apply as if—
   (a) the references to service of the abatement notice on the appellant were references to any refusal under this section; and
   (b) the time limit for lodging the application were 6 months from the date of seizure.
 (4) The Environment Court on an application under subsection (3) may—
   (a) order the return of the property subject to any conditions relating to the continued reduction of noise as it thinks fit; or
   (b) refuse the application for the return of the property.
-(5) Where—the local authority, consent authority, or the police may dispose of the property in accordance with subsection (6).
+(5) Where—the local authority, consent authority, or the Police may dispose of the property in accordance with subsection (6).
   (a) any property seized under section 323 or section 328 is not claimed within 6 months of its seizure; or
   (b) the return of the property has been refused under subsection (3) and no application has been lodged within 6 months of the date of seizure; or
   (c) the Environment Court has refused the return of the property under subsection (4)(b),—
-(6) Any local authority, consent authority, or police officer wishing to dispose of property under subsection (5)—
+(6) Any local authority, consent authority, or constable wishing to dispose of property under subsection (5)—
   (a) shall give written notice to the person from whom the property was seized, where the person's address is known; and
   (b) may sell or cause the property to be otherwise disposed of; and
   (c) may, where any proceeds are realised, apply these to the payment of costs and expenses incurred in selling the property under this section and any costs incurred in seizing, impounding, transporting, and storing the property; and
   (d) shall, on demand, pay the remainder of the proceeds to the person from whom the property was seized.
 
 ### 337 Return of property seized under warrant
-(1) Where anything is seized under a warrant issued under section 334, it shall be detained under the custody of a constable, except while it is being used in evidence or is in the custody of any Court, until it is disposed of under this section.
-(2) In any proceedings for an offence relating to anything seized under a warrant issued under section 334, the Court may order, either at the hearing or on application, that the thing be delivered to the person appearing to the Court to be entitled to it, or that it be otherwise disposed of in such manner as the Court thinks fit.
-(3) Any constable may at any time, unless an order has been made under subsection (2), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order as to its disposal. On any such application, the District Court Judge may make any order that a Court may make under subsection (2).
+(1) Where anything is seized under a warrant issued under section 334, it shall be detained under the custody of a constable, except while it is being used in evidence or is in the custody of any court, until it is disposed of under this section.
+(2) In any proceedings for an offence relating to anything seized under a warrant issued under section 334, the court may order, either at the hearing or on application, that the thing be delivered to the person appearing to the court to be entitled to it, or that it be otherwise disposed of in such manner as the court thinks fit.
+(3) Any constable may at any time, unless an order has been made under subsection (2), return the thing to the person from whom it was seized, or apply to a District Court Judge for an order as to its disposal. On any such application, the District Court Judge may make any order that a court may make under subsection (2).
 (4) If proceedings for an offence relating to the thing are not brought within a period of 3 months of seizure, any person claiming to be entitled to the thing may, after the expiration of that period, apply to a District Court Judge for an order that it be delivered to him or her.
 (5) Where any person is convicted in any proceedings for an offence relating to anything in respect of which a warrant has been issued enabling seizure, and any order is made under this section, the operation of the order shall be suspended until—
   (a) the expiration of the time prescribed by this Act for the filing of notice of appeal; and
   (b) where notice of appeal is filed within the prescribed time, until the determination of the appeal.
-(6) Where the operation of any such order is suspended until the determination of the appeal, the Court determining the appeal may by order, cancel or vary the order.
+(6) Where the operation of any such order is suspended until the determination of the appeal, the court determining the appeal may by order, cancel or vary the order.
 
 **Offences**
 
@@ -7018,7 +7021,7 @@ Every abatement notice shall be in the prescribed form and shall state—
     (i) section 283, which relates to non-attendance or refusal to co-operate with the Environment Court:
     (ii) any summons or order to give evidence issued or made pursuant to section 41:
   (c) contravenes, or permits a contravention of, any provision (as provided in Schedule 10) specified in an instrument for the creation of an esplanade strip or in an easement for an access strip, or enters a strip which is closed under section 237C.
-(4) Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against subsection (1), (1A), or (1B) of this section may be laid by any person at any time within 6 months after the time when the contravention giving rise to the information first became known, or should have become known, to the local authority or consent authority.
+(4) Notwithstanding anything in the Summary Proceedings Act 1957, any information in respect of any offence against subsection (1), (1A), or (1B) may be laid by any person at any time within 6 months after the time when the contravention giving rise to the information first became known, or should have become known, to the local authority or consent authority.
 
 ### 339 Penalties
 (1) Every person who commits an offence against section 338(1), (1A), or (1B) is liable on conviction,—
@@ -7034,7 +7037,7 @@ Every abatement notice shall be in the prescribed form and shall state—
 (6) The continued existence of anything, or the intermittent repetition of any actions, contrary to any provision of this Act shall be deemed to be a continuing offence.
 
 ### 339A Protection against imprisonment for dumping and discharge offences involving foreign ships
-(1) No person shall be imprisoned for any offence of contravening or permitting a contravention of section 15A or section 15B involving a foreign ship unless the Court is satisfied that—
+(1) No person shall be imprisoned for any offence of contravening or permitting a contravention of section 15A or section 15B involving a foreign ship unless the court is satisfied that—
   (a) either—
     (i) the person intended to commit the offence; or
     (ii) the offence occurred as a consequence of any reckless act or omission by that person with the knowledge that that act or omission would or would be likely to cause a significant or irreversible adverse effect on the coastal marine area; and
@@ -7042,16 +7045,16 @@ Every abatement notice shall be in the prescribed form and shall state—
 (2) In this section, foreign ship has the same meaning as in section 2(1) of the Maritime Transport Act 1994.
 
 ### 339B Additional penalty for certain offences for commercial gain
-(1) Where a person is convicted of an offence against section 338(1A) or (1B), the Court may, in addition to any penalty which the Court may impose under section 339, order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of the offence if the Court is satisfied that the offence was committed in the course of producing a commercial gain.
-(2) For the purposes of subsection (1), the value of any gain shall be assessed by the Court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
+(1) Where a person is convicted of an offence against section 338(1A) or (1B), the court may, in addition to any penalty which the court may impose under section 339, order that person to pay an amount not exceeding 3 times the value of any commercial gain resulting from the commission of the offence if the court is satisfied that the offence was committed in the course of producing a commercial gain.
+(2) For the purposes of subsection (1), the value of any gain shall be assessed by the court, and any amount ordered to be paid shall be recoverable in the same manner as a fine.
 
 ### 339C Amount of fine or other monetary penalty recoverable by distress and sale of ship or from agent
-(1) Where—the Court may order that the amount of the fine so unpaid be levied by distress and sale of the ship and its equipment.
+(1) Where—the court may order that the amount of the fine so unpaid be levied by distress and sale of the ship and its equipment.
   (a) the master or owner of a ship is convicted of an offence against section 338 in respect of any contravention of section 15A or section 15B or section 15C; and
-  (b) any fine or other monetary penalty imposed by a Court under section 339 or section 339B in respect of that offence is not paid on time,—
+  (b) any fine or other monetary penalty imposed by a court under section 339 or section 339B in respect of that offence is not paid on time,—
 (2) Without limiting subsection (1), where any master or owner of a ship—the agent of the ship shall be civilly liable to pay to the Crown or, where a local authority caused the information in respect of that offence to be laid, to that local authority, such amount of that fine or monetary penalty as remains unpaid and the Crown or that local authority may recover that amount from that agent as a debt.
   (a) is convicted of an offence against section 338 in respect of any contravention of section 15A or section 15B or section 15C; and
-  (b) fails to pay the full amount of any fine or other monetary penalty imposed by the Court under section 339 or section 339B,—
+  (b) fails to pay the full amount of any fine or other monetary penalty imposed by the court under section 339 or section 339B,—
 (3) Every agent of a ship who, under this section, pays the whole or part of any fine or other monetary penalty imposed on the master or owner of the ship shall be entitled to recover the amount so paid from that master or owner as a debt or deduct that amount out of or from any money which is or becomes payable by that agent to that master or owner; and any amount so paid by the agent shall, for the purposes of section 4(1)(p) of the Admiralty Act 1973, be deemed to be a disbursement made on account of the ship.
 (4) Any District Court shall have jurisdiction to hear and determine proceedings for the recovery, in accordance with this section, of any money from any agent or master or owner of a ship whatever the amount of money involved.
 (5) This section shall apply notwithstanding any enactment or rule of law.
@@ -7083,7 +7086,7 @@ Every abatement notice shall be in the prescribed form and shall state—
   (b) that the action or event to which the prosecution relates was due to an event beyond the control of the defendant, including natural disaster, mechanical failure, or sabotage, and in each case—
     (i) the action or event could not reasonably have been foreseen or been provided against by the defendant; and
     (ii) the effects of the action or event were adequately mitigated or remedied by the defendant after it occurred.
-(3) Except with the leave of the Court, subsection (2) does not apply unless, within 7 days after the service of the summons or within such further time as the Court may allow, the defendant delivers to the prosecutor a written notice—
+(3) Except with the leave of the court, subsection (2) does not apply unless, within 7 days after the service of the summons or within such further time as the court may allow, the defendant delivers to the prosecutor a written notice—
   (a) stating that he or she intends to rely on subsection (2); and
   (b) specifying the facts that support his or her reliance on subsection (2).
 
@@ -7106,10 +7109,10 @@ It is a defence to prosecution for an offence of contravening or permitting a co
     (ii) as soon as practicable after that damage occurred, all reasonable steps were taken to prevent the escape of the harmful substance or contaminant or water or, if any such escape could not be prevented, to minimise any escape.
 
 ### 342 Fines to be paid to local authority instituting prosecution
-(1) Subject to subsection (2), where a person is convicted of an offence under section 338 and the Court imposes a fine, the Court shall, if the information for that offence was laid on behalf of a local authority, order that the fine be paid to that local authority.
-(2) There shall be deducted from every amount payable to a local authority under subsection (1), a sum equal to 10 percent thereof, and this sum shall be credited to the Crown Bank Account.
-(3) Notwithstanding anything in subsection (2), where any money awarded by a Court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a local authority under subsection (1), no deduction shall be made under subsection (2) in respect of that money.
-(4) Subject to subsection (2), an order of the Court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the local authority entitled to it under the order.
+(1) Subject to subsection (2), where a person is convicted of an offence under section 338 and the court imposes a fine, the court shall, if the information for that offence was laid on behalf of a local authority, order that the fine be paid to that local authority.
+(2) There shall be deducted from every amount payable to a local authority under subsection (1), a sum equal to 10% thereof, and this sum shall be credited to a Crown Bank Account.
+(3) Notwithstanding anything in subsection (2), where any money awarded by a court in respect of any loss or damage is recovered as a fine, and that fine is ordered to be paid to a local authority under subsection (1), no deduction shall be made under subsection (2) in respect of that money.
+(4) Subject to subsection (2), an order of the court made under subsection (1) shall be sufficient authority for the Registrar receiving the fine to pay that fine to the local authority entitled to it under the order.
 (5) Nothing in section 73 of the Public Finance Act 1989 shall apply to any fine ordered to be paid to any local authority under subsection (1).
 
 ### 343 Discharges from ships
@@ -7185,7 +7188,7 @@ A local authority shall be entitled to retain all infringement fees received by 
   (f) by sending it to the fax number that the person has specified as an address for service; or
   (g) by sending it to the email address that the person has specified as an address for service; or
   (h) by serving it in the manner that the Environment Court directs in the particular case.
-(2) Where a notice or other document is to be served on a Minister of the Crown for the purposes of this Act, service on the chief executive of the appropriate Department of the Public Service in accordance with subsection (1) shall be deemed to be service on the Minister.
+(2) Where a notice or other document is to be served on a Minister of the Crown for the purposes of this Act, service on the chief executive of the appropriate department of the Public Service in accordance with subsection (1) shall be deemed to be service on the Minister.
 (3) Where a notice or other document is to be served on a body (whether incorporated or not) for the purposes of this Act, service on an officer of the body, or on the registered office of the body, in accordance with subsection (1) shall be deemed to be service on the body.
 (4) Where a notice or other document is to be served on a partnership for the purposes of this Act, service on any one of the partners in accordance with subsections (1) and (3) shall be deemed to be service on the partnership.
 (4A) Despite subsection (1), if a notice or other document is to be served on a Crown organisation for the purposes of this Act, it may be served—
@@ -7209,10 +7212,10 @@ A local authority shall be entitled to retain all infringement fees received by 
   - **Registrar** has the same meaning as in section 2(1) of the Summary Proceedings Act 1957.
 
 ### 353 Notices and consents in relation to Maori land
-Part 10 of the Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under section 181(4) of that Act, unless otherwise provided by the local authority.
+Part 10 of Te Ture Whenua Maori Act 1993 shall apply to the service of notices under this Act on owners of Maori land, except that in no case shall the period fixed for anything to be done by the owners be extended by more than 20 working days under section 181(4) of that Act, unless otherwise provided by the local authority.
 
 ### 354 Crown's existing rights to resources to continue
-(1) Without limiting the Acts Interpretation Act 1924 but subject to subsection (2), it is hereby declared that the repeal by this Act or the Crown Minerals Act 1991 of any enactment, including in particular—shall not affect any right, interest, or title, to any land or water acquired, accrued, established by, or vested in, the Crown before the date on which this Act comes into force, and every such right, interest, and title shall continue after that date as if those enactments had not been repealed.
+(1) Without limiting the Interpretation Act 1999 but subject to subsection (2), it is hereby declared that the repeal by this Act or the Crown Minerals Act 1991 of any enactment, including in particular—shall not affect any right, interest, or title, to any land or water acquired, accrued, established by, or vested in, the Crown before the date on which this Act comes into force, and every such right, interest, and title shall continue after that date as if those enactments had not been repealed.
   (a) section 3 of the Geothermal Energy Act 1953; and
   (b) section 21 of the Water and Soil Conservation Act 1967; and
   (c) section 261 of the Coal Mines Act 1979,—
@@ -7271,14 +7274,14 @@ Part 10 of the Te Ture Whenua Maori Act 1993 shall apply to the service of notic
 (4) For the avoidance of doubt, any action taken under subsection (3) to remove any reclaimed land requires a resource consent unless expressly allowed by a rule in a regional coastal plan and any relevant proposed regional coastal plan.
 
 ### 356 Matters may be determined by arbitration
-(1) Except as provided in subsection (2), where—any of those persons may apply to the Environment Court for an order authorising the matter to be determined by arbitration, under the Arbitration Act 1908, on such terms and conditions as the Environment Court considers appropriate.
+(1) Except as provided in subsection (2), where—any of those persons may apply to the Environment Court for an order authorising the matter to be determined by arbitration, under the Arbitration Act 1908, on such terms and conditions as the court considers appropriate.
   (a) any persons are unable to agree about any matter in respect of which any of those persons has a right of appeal under this Act; and
   (b) every person who has such a right of appeal agrees—
 (2) No person may apply to the Environment Court for an order under subsection (1) in relation to any of the following matters:
   (a) any matter relating to a requirement, designation, or heritage order:
   (b) any matter relating to an application for a resource consent in respect of which the Minister has made a direction under section 141C:
   (c) any matter relating to a proposed regional policy statement or proposed regional coastal plan.
-(3) Where an order under subsection (1) is made no person may, in relation to the matter to which the order relates, lodge or proceed with any appeal without the leave of the Environment Court.
+(3) Where an order under subsection (1) is made no person may, in relation to the matter to which the order relates, lodge or proceed with any appeal without the leave of the court.
 (4) Subject to the terms of any order made under subsection (1), the arbitrator has the same powers, duties, and discretions in respect of any decision to which the order relates as the consent authority who made that decision; and may, in his or her award, confirm, amend, or cancel any such decision accordingly.
 (5) Except as otherwise expressly provided, nothing in this section shall limit the right of any persons to refer to arbitration any disputed matter arising under this Act.
 (6)
@@ -7323,12 +7326,12 @@ There is a right of objection,—
   (b) for a person required by the Minister to pay costs under section 149ZD(2) to (4), to the Minister in respect of that requirement.
 
 ### 357C Procedure for making and hearing objection under sections 357 to 357B
-(1) An objection under section 357 or section 357A or section 357B must be made by notice in writing not later than 15 working days after the decision or requirement is notified to the objector, or within any longer time allowed by the person or body to which the objection is made.
+(1) An objection under section 357, 357A,or 357B must be made by notice in writing not later than 15 working days after the decision or requirement is notified to the objector, or within any longer time allowed by the person or body to which the objection is made.
 (2) A notice of objection must set out the reasons for the objection.
 (3) In the case of an objection made under section 357 or section 357A, the person or body to which the objection is made must—
   (a) consider the objection within 20 working days; and
   (b) give at least 5 working days' written notice to the objector of the date, time, and place for a hearing of the objection.
-(4) In the case of an objection made under section 357B, the person or body to which the objection is made, must—
+(4) In the case of an objection made under section 357B, the person or body to which the objection is made must—
   (a) consider the objection as soon as reasonably practicable; and
   (b) give at least 5 working days' written notice to the objector of the date, time, and place for a hearing of the objection.
 
@@ -7342,14 +7345,14 @@ There is a right of objection,—
 
 ### 358 Appeals against certain decisions or objections
 (1) Any person who has made an objection under section 357 or section 357A(1)(a), (d), (f), or (g) or section 357B may appeal to the Environment Court against the decision on the objection. Appeals from objections under section 357(4) or (8) or, for objections only to a board of inquiry, under section 357(2) are excluded.
-(2) Notice of an appeal under this section shall be in the prescribed form, stating the reasons for the appeal, and shall be lodged with the Environment Court within 15 working days after the decision on the objection being notified to that person under section 357D(2) or within such further time as the Environment Court may in any case allow.
+(2) Notice of an appeal under this section shall be in the prescribed form, stating the reasons for the appeal, and shall be lodged with the court within 15 working days after the decision on the objection being notified to that person under section 357D(2) or within such further time as the Environment Court may in any case allow.
 (3) Any person lodging an appeal under this section shall ensure that a copy of the notice of appeal is served on the consent authority or local authority at the same time as the notice is lodged with the Environment Court.
 (4) This section shall not apply to any person who has already exercised a right of appeal in respect of the same matter under section 120.
 
 ### 359 Regional councils to pay rents, royalties, and other money received into Crown Bank Account
 All rents, royalties, and other sums of money which the holders of resource consents are, by virtue of any authorisation granted under section 161 or any regulations made under section 360(1)(c), required to pay, shall be the property of the Crown and every regional council shall—
   (a) collect and receive from the holders of such resource consents in its region, all such rents, royalties, and other sums of money on behalf of the Crown; and
-  (b) pay that money into the Crown Bank Account in accordance with the Public Finance Act 1989.
+  (b) pay that money into a Crown Bank Account in accordance with the Public Finance Act 1989.
 
 ### 360 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
@@ -7364,7 +7367,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
   (c) prescribing the amount, methods for calculating the amount, and circumstances and manner in which holders of resource consents shall be liable to pay for the occupation of the coastal marine area, the bed of any river or lake which is land of the Crown, and the extraction of sand, shingle, shell, and other natural materials from lands of the Crown, and the use of geothermal energy:
   (d) requiring the holders of water permits, discharge permits, coastal permits, or land use consents granted for any activity that would otherwise contravene section 13, to keep records for any purpose under this Act, and prescribing the nature of records, information, and returns, and the form, manner, and times in or at which they shall be kept or furnished:
   (e) providing for any project or work to be a network utility operation for the purpose of section 166:
-  (f) prescribing the practice and procedure of the Environment Court and the form of proceedings, both under this Act and in relation to the exercise of any jurisdiction conferred on the Environment Court by any other Act:
+  (f) prescribing the practice and procedure of the Environment Court and the form of proceedings, both under this Act and in relation to the exercise of any jurisdiction conferred on the court by any other Act:
   (g) prescribing transitional and savings provisions relating to the coming into force of this Act, which may be in addition to or in place of any of the provisions of Part 15; and, without limiting the generality of the foregoing, any such regulations may provide that, subject to such conditions as are specified in the regulations, specified provisions of this Act shall not apply, or specified provisions of Acts repealed or amended by this Act, or of regulations, Orders in Council, notices, schemes, rights, licences, permits, approvals, authorisations, or consents made or given thereunder shall continue to apply, during a specified transitional period:
   (h) prescribing exemptions from any provision of section 15, either absolutely or subject to any prescribed conditions, and either generally or specifically or in relation to particular descriptions of contaminants or to the discharge of contaminants in particular circumstances or from particular sources, or in relation to any area of land, air, or water specified in the regulations:
   (ha) deeming to be included in any regional coastal plan or proposed regional coastal plan rules that may apply generally or specifically and that may do all or any of the following:
@@ -7403,7 +7406,7 @@ All rents, royalties, and other sums of money which the holders of resource cons
 (4) Every Proclamation made under section 132 of the Mining Act 1926 or under the corresponding provisions of any former enactment is hereby revoked.
 
 ### 362 Consequential amendments
-The enactments specified in Schedule 8 are hereby amended in the manner indicated in that Schedule.
+The enactments specified in Schedule 8 are hereby amended in the manner indicated in that schedule.
 
 ### 363 Conflicts with special Acts
 Every local authority or other public body shall be guided, in the exercise of any function, power, or duty in relation to natural or physical resources imposed or conferred by any of the enactments specified in Schedule 9, by the provisions of this Act, and where any conflict arises between any such enactment and this Act, the provisions of this Act shall prevail.
@@ -7421,7 +7424,7 @@ In this Part, the term permission means any of the following:
   (d) any of the following:
     (i) a right in respect of water granted under section 21(3) of the Water and Soil Conservation Act 1967 (or deemed to be so granted by virtue of section 58(2) of the Water and Soil Conservation Amendment Act 1988):
     (ii) any authorisation in respect of water under section 21(2) or section 21(2A) of that Act:
-    (iii) any right referred to in section 21(1) of that Act that was granted during the period commencing on the 10th day of September 1966 and ending with the 31st day of December 1968:
+    (iii) any right referred to in section 21(1) of that Act that was granted during the period commencing on 10 September 1966 and ending with 31 December 1968:
     (iv) any right as expressly authorised by any other Act (other than the Tasman Pulp and Paper Company Enabling Act 1954), Order in Council, or Provincial Ordinance before the enactment of the Water and Soil Conservation Act 1967 in respect of any specified water:
     (v)
     (vi) any damming of a river or stream, and diversion or taking of natural water, and any discharge of natural water into any other natural water, and any use of natural water referred to in section 31 of the Water and Soil Conservation Amendment Act 1973:
@@ -7460,13 +7463,13 @@ Except as otherwise provided in this Part or in any regulations, from the date o
   (b) final water classifications notified under section 26F of the Water and Soil Conservation Act 1967 and classifications deemed to be classifications made under section 26E of that Act by section 25(2)(b) of the Water and Soil Conservation Amendment Act (No 2) 1971:
   (c) maximum and minimum levels, minimum standards of quality, minimum acceptable flow, or maximum range of flow of any water, fixed under section 20J of the Water and Soil Conservation Act 1967:
   (d) authorisations that have been notified under section 22 of the Water and Soil Conservation Act 1967:
-  (e) any bylaw made under—to the extent that the subject-matter of the bylaw could be the subject-matter of a regional rule:
+  (e) any bylaw made under—to the extent that the subject matter of the bylaw could be the subject matter of a regional rule:
     (i) section 149 or section 150 of the Soil Conservation and Rivers Control Act 1941; or
     (ii) section 34A of the Water and Soil Conservation Act 1967 or section 4 of the Water and Soil Conservation Amendment Act 1973; or
     (iii) section 50 of the Land Drainage Act 1908; or
     (iv) section 24(2) or section 55A of the Clean Air Act 1972—
   (f) notices under section 34(2) of the Soil Conservation and Rivers Control Amendment Act 1959 which were notified on or after the day that is 2 years before the date of commencement of this Act:
-  (g) the Clean Air Zone (Christchurch) Order 1977 (except for clause 5G) and the Clean Air Zones (Canterbury Region) Order 1984 (except for clause 5), and sections 2, 7, 8, 10, 15, 16(1), 16(2), 17, 19, and 20 of, and Schedules 1 and 2 to, the Clean Air Act 1972 and the Clean Air (Smoke) Regulations 1975, in so far as they apply in relation to the clean air zones declared by those orders.
+  (g) the Clean Air Zone (Christchurch) Order 1977 (except for clause 5G) and the Clean Air Zones (Canterbury Region) Order 1984 (except for clause 5), and sections 2, 7, 8, 10, 15, 16(1), 16(2), 17, 19, and 20 of, and Schedules 1 and 2 of, the Clean Air Act 1972 and the Clean Air (Smoke) Regulations 1975, in so far as they apply in relation to the clean air zones declared by those orders.
 
 ### 369 Provisions deemed to be regional rules
 (1) A provision that is deemed by section 368(1) to be a provision of a regional plan and that, expressly or by implication and whether or not subject to conditions,—and the provisions of this Act shall apply accordingly.
@@ -7614,7 +7617,7 @@ The regional council or territorial authority of a region or district for which 
 
 ### 378 Proceedings in relation to plans
 (1) Subject to subsection (3), all proposed district schemes, combined schemes, and maritime planning schemes, and all changes and reviews, under the Town and Country Planning Act 1977 that were publicly notified but not operative before the date of commencement of this Act, and all variations (whether publicly notified before or after the commencement of this Act) to such proposed schemes, changes, or reviews may be continued and completed in all respects as if the Town and Country Planning Act 1977 continued in force, and, when completed, shall have effect under this Part as if they had been completed and made operative before the date of commencement of this Act.
-(1A) Notwithstanding subsection (1), any local authority shall take into account the provisions of this Act in relation to any variation publicly notified on or after the 28th day of May 1992.
+(1A) Notwithstanding subsection (1), any local authority shall take into account the provisions of this Act in relation to any variation publicly notified on or after 28 May 1992.
 (1B) All variations to which subsection (1) applies, whether or not completed before the commencement of this subsection, are hereby validated and declared to have been lawfully commenced, notwithstanding that they may have been held invalid in any judicial proceedings before the commencement of this subsection.
 (1C) For the purposes of section 294 (which provides for a review of its decision by an Environment Court), the validation of the variations under subsection (1B) is deemed to be a change of circumstances.
 (2) All proceedings relating to the preparation, amendment, review, or revocation of any instrument referred to in section 368(2) that were commenced before the date of commencement of this Act and have not been completed at that date shall be continued and completed in all respects—and all such proceedings, when completed, shall have effect under this Part after they have been completed as if they had been completed before the date of commencement of this Act.
@@ -7661,14 +7664,14 @@ Every permission—shall be deemed to be a land use consent granted under this A
 ### 383A Existing permissions to allow use of beds of lakes and rivers
 (1) Every Order in Council made under section 175 of the Harbours Act 1950 and every approval granted under section 178(1)(b) or (2) of that Act (or the corresponding provisions of any former enactment) in respect of any area in a region which is river bed or lake bed, and that is in force immediately before the date of commencement of this Act, shall be deemed to be a resource consent required under section 13, and to have been granted under this Act on the same conditions (including those set out in any enactment, whether or not repealed or revoked by this Act, except to the extent that they are inconsistent with the provisions of this Act) by the appropriate regional council; and the provisions of this Act shall apply accordingly.
 (2) Notwithstanding section 13 but subject to section 418(3), (3A), (3B), and (3C), a person who is the holder of a resource consent referred to in subsection (1) shall not thereby be authorised to carry out any activity referred to in section 13 except where that person also holds every other permission, licence, permit, or approval that, immediately before the date of commencement of this Act, he or she was legally required to hold in order to carry out the activity.
-(3) Notwithstanding subsection (2), every resource consent deemed to be granted by subsection (1) shall be deemed to include a condition enabling the holder of the consent, at any time within 3 years after the date of commencement of this Act, to apply to the relevant regional council under section 127(1) to change the permit for the purpose of including, as conditions of that permit, matters that could have been included in a licence, permit, or approval required before the 1st day of October 1991 and of enabling the consent to authorise the activity.
+(3) Notwithstanding subsection (2), every resource consent deemed to be granted by subsection (1) shall be deemed to include a condition enabling the holder of the consent, at any time within 3 years after the date of commencement of this Act, to apply to the relevant regional council under section 127(1) to change the permit for the purpose of including, as conditions of that permit, matters that could have been included in a licence, permit, or approval required before 1 October 1991 and of enabling the consent to authorise the activity.
 
 ### 384 Existing permissions to become coastal permits
 (1) Every—in respect of any area in the coastal marine area, being a permission, licence, permit, or authority in force immediately before the date of commencement of this Act, shall be deemed to be a coastal permit granted under this Act on the same conditions (including those set out in any enactment, whether or not repealed or revoked by this Act, except to the extent that they are inconsistent with the provisions of this Act) by the appropriate consent authority; and the provisions of this Act shall apply accordingly.
   (a) permission granted under any of Parts 2, 4, and 5 of the Town and Country Planning Act 1977 (or the corresponding provisions of any former enactment); and
   (b) licence or permit granted under section 146A or section 156 or section 162 or section 165 of the Harbours Act 1950, Order in Council made under section 175 of that Act, and every approval granted under section 178(1)(b) or (2) of that Act (or the corresponding provisions of any former enactment); and
   (c) licence, permit, or authority granted under any Act that was, at the time of its enactment, a special Act within the meaning of the Harbours Act 1950 or any other enactment that provides for any right of occupation—
-(2) Notwithstanding section 12, a person who is the holder of—shall not thereby be authorised to carry out any activity referred to in section 12, except where that person also holds every other permission, licence, permit, or approval referred to in subsection (1)(a or subsection (1)(b) that, immediately before the date of commencement of this Act, he or she was legally required to hold in order to carry out the activity.
+(2) Notwithstanding section 12, a person who is the holder of—shall not thereby be authorised to carry out any activity referred to in section 12, except where that person also holds every other permission, licence, permit, or approval referred to in subsection (1)(a) or subsection (1)(b) that, immediately before the date of commencement of this Act, he or she was legally required to hold in order to carry out the activity.
   (a) a permission referred to in subsection (1)(a); or
   (b) a licence, permit, or approval referred to in subsection (1)(b); or
   (c) a licence, permit, or authority referred to in subsection (1)(c); or
@@ -7679,11 +7682,11 @@ Every permission—shall be deemed to be a land use consent granted under this A
 
 ### 384A Right of port companies to occupy coastal marine area
 (1) Every port company which considers that—may, in consultation with the appropriate regional council, prepare a draft coastal permit to authorise that occupation.
-  (a) it had, on the 30th day of September 1991, a right to occupy the coastal marine area adjacent to any port related commercial undertaking; and
+  (a) it had, on 30 September 1991, a right to occupy the coastal marine area adjacent to any port related commercial undertaking; and
   (b) such occupation is required for any purpose associated with the operation and management of that undertaking—
-(2) Every such draft coastal permit shall state that it is to expire on the 30th day of September 2026 or such earlier date as the port company specifies.
+(2) Every such draft coastal permit shall state that it is to expire on the 30 September 2026 or such earlier date as the port company specifies.
 (3) Every such draft coastal permit shall identify the location to which it relates; and may identify the location by a plan attached to the draft permit.
-(4) The draft permit and any plan shall be forwarded to the Minister of Transport, along with written notice of any disagreements between the port company and regional council, and submissions by the port company and regional council on the disagreements, before the 30th day of November 1993.
+(4) The draft permit and any plan shall be forwarded to the Minister of Transport, along with written notice of any disagreements between the port company and regional council, and submissions by the port company and regional council on the disagreements, before 30 November 1993.
 (5) The Minister of Transport shall consider—to determine the extent to which a coastal permit authorising occupation is required to enable the port company to manage and operate the port related commercial undertakings acquired under the Port Companies Act 1988.
   (a) the draft permit; and
   (b) any disagreements; and
@@ -7691,7 +7694,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (d) any other matter the Minister considers appropriate—
 (6) Before making any determination under subsection (5), the Minister of Transport shall consult with the Minister of Conservation, the appropriate regional council, any territorial authority having jurisdiction in the area adjacent to the coastal marine area concerned, and the port company.
 (7) The Minister of Transport shall approve the draft coastal permit and any plan, with or without modification, but the proposed expiry date shall not be altered.
-(8) The Minister of Transport's decision, which shall be a coastal permit, shall be sent to the Minister of Conservation, the appropriate regional council, territorial authority, and port company before the 31st day of March 1994; and that decision shall be final unless an application for review under Part 1 of the Judicature Amendment Act 1972, or proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, is made.
+(8) The Minister of Transport's decision, which shall be a coastal permit, shall be sent to the Minister of Conservation, the appropriate regional council, territorial authority, and port company before 31 March 1994; and that decision shall be final unless an application for review under Part 1 of the Judicature Amendment Act 1972, or proceedings seeking a writ of, or in the nature of, mandamus, prohibition, or certiorari, or a declaration or injunction in relation to that decision, is made.
 (9) The appropriate regional council shall ensure that a record of the coastal permit, as decided by the Minister of Transport, is available to the public as required under section 35.
 (10) Where—the consent authority shall, notwithstanding any other provision, adjourn any consideration or hearing of the application until the Minister of Transport has sent his or her decision:
   (a) a regional council receives an application from any person, except a port company; and
@@ -7726,7 +7729,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
     (iii) referred to in subparagraph (vii) of section 365(d)—
   (b) every authority under section 21(2) or section 21(2A) of the Water and Soil Conservation Act 1967 (in this section called an existing authority); and
   (c) every right—(in this section called an existing authority)—
-    (i) referred to in section 21(1) of that Act that was granted during the period commencing on the 10th day of September 1966 and ending with the 31st day of December 1968; or
+    (i) referred to in section 21(1) of that Act that was granted during the period commencing on 10 September 1966 and ending with 31 December 1968; or
     (ii) expressly authorised by any other Act (other than the Tasman Pulp and Paper Company Enabling Act 1954) or Provincial Ordinance before the passing of that Act in respect of any specified water; or
     (iii) referred to in subparagraphs (vi) or (viii) of section 365(d); or
     (iv) deemed to be granted under section 21(3) of the Water and Soil Conservation Act 1967 by virtue of section 25(2)(d) of the Water and Soil Conservation Amendment Act (No 2) 1971—
@@ -7734,7 +7737,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (e) where it does not relate to a coastal marine area—
     (i) a water permit, if it authorises something that would otherwise contravene section 14; or
     (ii) a discharge permit, if it authorises something that would otherwise contravene section 15—
-(2) Where a permit resulting from an existing right would, but for this subsection, not expire by the thirty-fifth anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the thirty-fifth anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
+(2) Where a permit resulting from an existing right would, but for this subsection, not expire by the 35th anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the 35th anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
 (3) Where a permit resulting from an existing authority would, but for this subsection, not expire by the tenth anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the tenth anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
 (4) No enforcement order may be made under section 319 against the holder of any permit resulting from an existing authority in respect of any activity to which the permit relates except upon an application under section 316 made by the relevant regional council.
 (5) No permit resulting from an existing authority shall be transferable from site to site.
@@ -7759,7 +7762,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (aa) refund or remission of rentals, the Minister:
   (b) all other conditions and provisions, the consent authority concerned.
 (5) Subsections (2) to (7) of section 108 of the Crown Minerals Act 1991, with all necessary modifications, shall apply in respect of every water permit or coastal permit to which this section applies, as if references in those subsections to an existing privilege were references to such a water permit or such a coastal permit, as the case may require.
-(6) Where a permit resulting from a licence under the Geothermal Energy Act 1953 would, but for this subsection, not expire by the thirty-fifth anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the thirty-fifth anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
+(6) Where a permit resulting from a licence under the Geothermal Energy Act 1953 would, but for this subsection, not expire by the 35th anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the 35th anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
 (7) Where a permit resulting from a power or authorisation under section 11 of the Geothermal Energy Act 1953 would, but for this subsection, not expire by the tenth anniversary of the date of commencement of this Act, the permit shall be deemed to include a condition to the effect that it finally expires on the tenth anniversary of the date of commencement of this Act, and that condition shall have effect in place of any other provision as to duration.
 
 ### 388 Requirement to supply information
@@ -7792,7 +7795,7 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (a) a right of appeal on any question of law; or
   (b) a right to make an application for review—
 (4) Where the effect of any determination made under this section is that the permission is granted, the grant shall constitute the grant of a resource consent of the appropriate kind under this Act; and this Act shall apply accordingly.
-(5) For the purposes of this section, the term right of appeal includes the hearing and determination of the appeal (including an appeal where the notice of appeal was lodged and the date for the lodging of the appeal expired before the 1st day of October 1991).
+(5) For the purposes of this section, the term right of appeal includes the hearing and determination of the appeal (including an appeal where the notice of appeal was lodged and the date for the lodging of the appeal expired before 1 October 1991).
 
 ### 390B Date on which application deemed to be made
 (1) Except as provided in section 390, every application to which section 389 applies (unless dealt with under section 390A) shall be deemed to be made—
@@ -7810,11 +7813,11 @@ Every permission—shall be deemed to be a land use consent granted under this A
   (b) may be appealed against in accordance with this Act.
 
 ### 390D Timing for renewals
-(1) Where the holder of a permission, licence, permit, or order referred to in either section 389(1) or section 389(2) (in this section called an approval), before the expiry of the approval and before the 1st day of January 1992, made an application for a new approval or resource consent for the same activity, that application shall be deemed to have been made at least 6 months before the expiry of the original approval; and the provisions of section 124 shall apply accordingly.
+(1) Where the holder of a permission, licence, permit, or order referred to in either section 389(1) or section 389(2) (in this section called an approval), before the expiry of the approval and before 1 January 1992, made an application for a new approval or resource consent for the same activity, that application shall be deemed to have been made at least 6 months before the expiry of the original approval; and the provisions of section 124 shall apply accordingly.
 (2) Notwithstanding any other provision of this Act, for the purposes of subsection (1) the date of application shall be the date on which the application was lodged with the then appropriate consent authority, and not the date on which it was received by the relevant consent authority under this Act.
 
 ### 391 Applications for licences and approvals under Clean Air Act 1972
-(1) Where, before the date of commencement of this Act, an application has been made for—and the application has not been granted, declined, or withdrawn before that date, the licensing authority shall, as soon as reasonably practicable, decide whether the application is to be dealt with after that date—and any such decision shall be final and not subject to appeal to, or review by, any Court or the Environment Court.
+(1) Where, before the date of commencement of this Act, an application has been made for—and the application has not been granted, declined, or withdrawn before that date, the licensing authority shall, as soon as reasonably practicable, decide whether the application is to be dealt with after that date—and any such decision shall be final and not subject to appeal to, or review by, any court or the Environment Court.
   (a) a licence within the meaning of the Clean Air Act 1972; or
   (b) an approval under section 31 of that Act in respect of any scheduled premises within the meaning of that Act—
   (c) by the licensing authority, in accordance with the Clean Air Act 1972 as if this Act had not been enacted; or
@@ -7858,11 +7861,11 @@ Every permission—shall be deemed to be a land use consent granted under this A
     (i) endorse on every such application the date on which it was made; and
     (ii) refer every such application and all information relevant to it to the relevant regional council; and
   (d) for the purposes of this Act (but without limiting section 399), the application shall be deemed to have been made to the appropriate regional council on the date that it is received by the regional council; and
-  (e) in the case of an application for approval to carry out harbour works in respect of which—the application shall not be notified under sections 95 to 95F of this Act; and
+  (e) in the case of an application for approval to carry out harbour works in respect of which—the application shall not be notified under sections 95 to 95F; and
     (i) an Order in Council under section 175(2) or section 175(3) of the Harbours Act 1950 has been made; or
     (ii) before the date of commencement of this Act, under section 33 or section 102A or section 110 of the Town and Country Planning Act 1977, a consent relating to the harbour works the subject of the application has been granted or has been sought but has not been determined at that date; or
     (iii) the harbour works the subject of the application are, at the date of commencement of this Act, a permitted use under the provisions of any operative maritime planning scheme under the Town and Country Planning Act 1977 or under any proposed variation, change, or review of any operative maritime planning scheme under that Act which, at the date of commencement of this Act, has been publicly notified—
-  (f) notwithstanding paragraph (e), where the harbour works the subject of any such application are a restricted coastal activity (including a restricted coastal activity the subject of a direction in accordance with section 372 of this Act), the provisions of sections 117 to 119A shall apply except that the application shall not be notified and the Minister of Conservation shall be the only person who may make a submission on the application.
+  (f) notwithstanding paragraph (e), where the harbour works the subject of any such application are a restricted coastal activity (including a restricted coastal activity the subject of a direction in accordance with section 372), the provisions of sections 117 to 119A shall apply except that the application shall not be notified and the Minister of Conservation shall be the only person who may make a submission on the application.
 (2) The granting of an application to which subsection (1) applies in accordance with this section—
   (a) constitutes the granting of a resource consent of the appropriate kind under this Act notwithstanding that all requirements of this Act in relation to applications for, and the granting of, resource consents may not have been complied with; and
   (b) may be appealed against in accordance with this Act accordingly.
@@ -7944,7 +7947,7 @@ Where an application for approval of a scheme plan of subdivision has been made 
   (b) to have been received by the territorial authority on the date of commencement of this Act.
 
 ### 405 Transitional provisions for subdivisions
-(1) For the purpose of subsections (2) and (3), the term district plan means a district plan or a proposed plan constituted under section 373 that has been publicly notified under the Town and Country Planning Act 1977 before the commencement of this Part of this Act.
+(1) For the purpose of subsections (2) and (3), the term district plan means a district plan or a proposed plan constituted under section 373 that has been publicly notified under the Town and Country Planning Act 1977 before the commencement of this Part.
 (2) Notwithstanding anything in section 374(3) or (4), in respect of any district plan—
   (a) every subdivision of land that is contrary to the provisions of the district plan shall be deemed to be a non-complying activity in respect of that plan; and
   (b) every subdivision of land which is subject to a discretion contained in the provisions of that district plan relating to the approval or refusal of a subdivision of land is deemed to be a discretionary activity in respect of that plan; and
@@ -7969,7 +7972,7 @@ Where an application for approval of a scheme plan of subdivision has been made 
   (b) the land has little or no value in terms of the purposes specified in section 229; or
   (c) any value the land has in terms of the purposes specified in section 229 can be adequately provided by other means.
 (5) The provisions of Part 10 shall apply to any esplanade reserve or esplanade strip required under this section.
-(6) Any declaration or decision under section 289(7) of the Local Government Act 1974, or under any corresponding earlier enactment, to exclude the bank of any river from the requirement of an esplanade reserve shall be deemed to be a district rule for the purposes of section 77, where that direction had effect on the 30th day of September 1991.
+(6) Any declaration or decision under section 289(7) of the Local Government Act 1974, or under any corresponding earlier enactment, to exclude the bank of any river from the requirement of an esplanade reserve shall be deemed to be a district rule for the purposes of section 77, where that direction had effect on 30 September 1991.
 (7) Where any action taken pursuant to a declaration or decision which is deemed to be a district rule under subsection (6) was taken before the commencement of this subsection, that action is hereby validated and declared to have been lawfully carried out.
 (8) The application of this section may be excluded or modified at any time in accordance with Schedule 1.
 (9) This section shall cease to have effect in a district on the date that the proposed district plan for the district becomes operative, not being a proposed district plan constituted under section 373.
@@ -7999,7 +8002,7 @@ Where an application for approval of a scheme plan of subdivision has been made 
   (a) to the deposit of a unit plan, or to the issue of a certificate of title for any unit on such a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 5(1)(g) of the Unit Titles Act 1972 or section 5(3)(c) of the Unit Titles Amendment Act 1979:
   (b) to the deposit of a plan to give effect to the registration of a cross lease, or to the issue of a certificate of title for a cross lease in respect of a building or part of a building shown on a plan, where, before the date of commencement of this Act, a certificate has been given in respect of the plan under section 314 of the Local Government Act 1974:
   (c) to the deposit of a plan to give effect to the grant of a company lease, or to the registration or issue of a certificate of title for a company lease in respect of a building or part of a building shown on a plan, where the plan is approved by the Chief Surveyor before the date of commencement of this Act.
-(2) Nothing in section 224(f) of this Act shall apply to any subdivision of land for which a subdivision consent was granted on or after the 1st day of October 1991 and on or before the 30th day of June 1992.
+(2) Nothing in section 224(f) shall apply to any subdivision of land for which a subdivision consent was granted on or after 1 October 1991 and on or before 30 June 1992.
 
 ### 409 Financial contributions for developments
 (1) Subject to section 410, where an application for a resource consent for a development is made in respect of land for which there is no district plan, or where the district plan does not include provisions of the kind contemplated by section 108(2)(a), the territorial authority may impose, as a condition of the consent,—
@@ -8035,7 +8038,7 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
   (d) a discharge permit, if it authorises something that would otherwise contravene section 15; or
   (e) a permit that confers on its holder rights over land in respect of which the holder is not the owner,—
 (2) Without limiting subsection (1), every deemed permit resulting from a mining privilege shall be deemed to include, as conditions of the permit, such of the provisions of sections 4 to 11, 13, 14, 16, 19(1) and (5), and 23(1)(a) and (2) of the Water and Soil Conservation Amendment Act 1971 as applied to the mining privilege immediately before the date of commencement of this Act.
-(3) Every deemed permit resulting from a mining privilege under subsection (1)(c) or (d) shall be deemed to include a condition to the effect that it finally expires on the thirtieth anniversary of the date of commencement of this Act.
+(3) Every deemed permit resulting from a mining privilege under subsection (1)(c) or (d) shall be deemed to include a condition to the effect that it finally expires on the 30th anniversary of the date of commencement of this Act.
 (3A) Subject to subsection (3), sections 19(4) and 23(1)(b) of the Water and Soil Conservation Amendment Act 1971 shall continue to apply to those deemed permits to which they applied immediately before the date of commencement of this Act.
 (4) Sections 12 and 30 to 32 of the Water and Soil Conservation Amendment Act 1971 shall apply to deemed permits as if—
   (a) that Act had not been repealed; and
@@ -8102,7 +8105,7 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
   (a) claims for compensation under this section or under section 415 shall be made and determined in accordance with the Public Works Act 1981; and
   (b) when determining the amount of compensation payable under the Public Works Act 1981 for any loss, damage, or injurious affection suffered, or for the taking or acquisition of the deemed permit,—
     (i) for the purposes of section 62 of that Act in the case of a claim for injurious affection or damage resulting from a regional rule of the kind referred to in section 414, the specified date shall be the date the regional rule becomes operative; and
-    (ii) for the purposes of that Act, the deemed permit shall be deemed to be due to expire on the thirtieth anniversary of the specified date.
+    (ii) for the purposes of that Act, the deemed permit shall be deemed to be due to expire on the 30th anniversary of the specified date.
 
 ### 417 Permits over land other than that of holders to be produced in Land Transfer Office
 (1) Where, immediately before the date of commencement of this Act, a mining privilege that is deemed to be a permit under section 413(1)(e) conferred on its holder rights over land in respect of which the holder is not the owner, then the holder of the deemed permit—
@@ -8129,7 +8132,7 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
   (b) until a district plan or proposed district plan prepared under Schedule 1 provides otherwise.
 (1A) Nothing in subsection (1) shall apply to any commercial activity (being an activity that has, or has the potential to have, as its sole purpose or a related purpose the production of assessable income) carried out in the district of the Queenstown-Lakes District Council.
 (1B) The application of subsection (1) or subsection (1A) may be excluded or modified at any time in accordance with Schedule 1.
-(2) Where any activity is lawfully carried out in any lake or river or on the surface of any lake or river in accordance with a licence or other authorisation granted pursuant to an application made before the 1st day of October 1991 under any Act, regulation, or bylaw, including an Act, regulation, or bylaw amended, repealed, or revoked by this Act, section 9(3) and (4) shall not apply in respect of that activity to the extent that that activity is permitted by that licence or other authorisation and so long as that licence or other authorisation remains in force.
+(2) Where any activity is lawfully carried out in any lake or river or on the surface of any lake or river in accordance with a licence or other authorisation granted pursuant to an application made before 1 October 1991 under any Act, regulation, or bylaw, including an Act, regulation, or bylaw amended, repealed, or revoked by this Act, section 9(3) and (4) shall not apply in respect of that activity to the extent that that activity is permitted by that licence or other authorisation and so long as that licence or other authorisation remains in force.
 (3) Where any activity undertaken in any lake or river or on the surface of any lake or river—section 9(3) and (4) shall not, unless a district plan or a proposed district plan otherwise provides, apply in respect of any such activity to the extent that the activity is permitted by the licence, permit, or authorisation or exempted from the bylaw.
   (a) is authorised by a licence, permit, or authorisation granted pursuant to an application made under any bylaw continued in force by any provision of subsections (1) to (9) of section 424; or
   (b) is, by virtue of section 424(10), exempt from any provision of any bylaw continued in force by subsections (1) to (9) of section 424,—
@@ -8137,11 +8140,11 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 ### 418 Certain existing permitted uses may continue
 (1) For the purposes of this Act, section 15(1)(c) shall not apply in respect of any discharge from any industrial or trade premises which would not have required any licence or other authorisation under the Clean Air Act 1972, unless a regional plan provides otherwise.
 (1A) Notwithstanding subsection (1), for the purposes of this Act, section 15(1)(c) shall apply to any discharges from industrial or trade premises used for the storage, transfer, treatment, or disposal of waste materials or other waste-management purposes, or for composting organic material, commenced after 1 October 1991.
-(1B) For the purposes of this Act, section 15(1)(d) shall not apply in respect of any discharge of a contaminant from any industrial or trade premises which would not have required any licence or other authorisation to discharge contaminants onto or into land under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, unless a regional plan provides otherwise.
+(1B) For the purposes of this Act, section 15(1)(d) does not apply in respect of any discharge of a contaminant from any industrial or trade premises which would not have required any licence or other authorisation to discharge contaminants onto or into land under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, unless a regional plan provides otherwise.
 (1C) Notwithstanding subsection (1B), for the purposes of this Act, section 15(1)(d) shall apply in respect of any discharges from industrial or trade premises used for the storage, transfer, treatment, or disposal of waste materials or other waste-management purposes, or for composting organic material, where that use of premises is in the nature of a waste-transfer station, land fill, rubbish dump or tip, unless—
   (a) the discharge is expressly allowed by a rule in a proposed regional plan; or
   (b) an application for a permit to discharge the contaminant has been lodged with the regional council.
-(2) For the purposes of this Act, section 14(2)(b) and (c) do not apply in respect of any use or taking of geothermal energy for any purpose authorised under section 6 or section 9(1)(b) or section 9(1)(c) of the Geothermal Energy Act 1953 within a region until the third anniversary of the date of commencement of this Act, unless a regional plan for the region sooner provides otherwise.
+(2) For the purposes of this Act, section 14(2)(b) and (c) do not apply in respect of any use or taking of geothermal energy for any purpose authorised under section 6 or section 9(1)(b) or section 9(1)(c) of the Geothermal Energy Act 1953 within a region until the third anniversary of the date of commencement of this Act, unless a regional plan for that region sooner provides otherwise.
 (3) For the purposes of this Act, section 13(1) shall not apply in respect of any activity lawfully being carried out in relation to the bed of any river or lake before 1 October 1991 which did not require any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, until a regional plan provides otherwise.
 (3A) For the purposes of this Act (except where section 383A applies), section 13(1) shall not apply in respect of any activity lawfully being carried out in relation to the bed of any river or lake while any licence or other authorisation, granted pursuant to an application made before 1 October 1991, relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act remains in force, until a regional plan provides otherwise.
 (3B) Notwithstanding section 13(1)(a), any use, erection, reconstruction, placement, alteration, extension, removal, or demolition of any structure or part of any structure in, on, under, or over the bed of any river or lake (whether or not commenced or being carried out) which, before 1 October 1991, could have been lawfully commenced and continued without any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, may be continued or commenced at any time after the date of commencement of this Act until a regional plan provides otherwise.
@@ -8169,12 +8172,12 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
   (c) the expiry of the coastal permit, lease, or licence; or
   (d) where section 124 applies, the determination of any application made for a new coastal permit to replace any such coastal permit, lease, or licence and the determination of any appeals in respect of that application; or
   (e) a rule is included in a regional coastal plan prepared under this Act which provides that the activity is a controlled activity, a restricted discretionary activity, a discretionary activity, a non-complying activity, or a prohibited activity—
-(6A) For the purposes of this Act, where, in respect of any mooring existing before the 1st day of October 1991, no licence or permit was held which could be deemed to be a coastal permit under section 384(1), then section 12(2)(a) shall not apply to that mooring until 1 year after a regional coastal plan provides otherwise.
-(6B) For the purposes of this Act, section 12(1) and (2) shall not apply in respect of any activity lawfully being carried out in the coastal marine area, before the 1st day of October 1991, which did not require any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, until a regional coastal plan provides otherwise.
-(6C) For the purposes of this Act, section 12(2)(a) shall not apply in respect of the occupation of any warehouse, building, wharf, or other structure in or partly within the coastal marine area under any lease, licence, permit, or other authorisation in force immediately before the 1st day of October 1991, and entered into under section 173(f) of the Harbours Act 1950 (or any former enactment).
+(6A) For the purposes of this Act, where, in respect of any mooring existing before 1 October 1991, no licence or permit was held which could be deemed to be a coastal permit under section 384(1), then section 12(2)(a) shall not apply to that mooring until 1 year after a regional coastal plan provides otherwise.
+(6B) For the purposes of this Act, section 12(1) and (2) shall not apply in respect of any activity lawfully being carried out in the coastal marine area, before 1 October 1991, which did not require any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, until a regional coastal plan provides otherwise.
+(6C) For the purposes of this Act, section 12(2)(a) shall not apply in respect of the occupation of any warehouse, building, wharf, or other structure in or partly within the coastal marine area under any lease, licence, permit, or other authorisation in force immediately before 1 October 1991, and entered into under section 173(f) of the Harbours Act 1950 (or any former enactment).
 (7) Except as provided in subsection (6), section 12 shall not apply to any activity being carried out on the date of commencement of this Act in the coastal marine area under section 90 or section 102A(1) or section 108 of the Town and Country Planning Act 1977 until the third anniversary of the date of commencement of this Act, unless a rule in a regional coastal plan prepared under this Act sooner provides that the activity is a controlled activity, a restricted discretionary activity, a discretionary activity, a non-complying activity, or a prohibited activity.
-(8) For the purposes of this Act, section 14(2)(a) shall not apply to the activities of ships, boats, and vessels in respect of the operational needs of those craft where, before the 1st day of October 1991, no licence or authorisation was required for those activities under any Act repealed by this Act, until a regional plan provides otherwise.
-(9) For the purposes of this Act, section 14(2)(a) shall not apply in respect of any activity lawfully being carried out in relation to the taking of water from a reservoir for water supply purposes, before the 1st day of October 1991, which did not require any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, until the tenth anniversary of the date of commencement of this Act, unless a regional plan sooner provides otherwise.
+(8) For the purposes of this Act, section 14(2)(a) shall not apply to the activities of ships, boats, and vessels in respect of the operational needs of those craft where, before 1 October 1991, no licence or authorisation was required for those activities under any Act repealed by this Act, until a regional plan provides otherwise.
+(9) For the purposes of this Act, section 14(2)(a) shall not apply in respect of any activity lawfully being carried out in relation to the taking of water from a reservoir for water supply purposes, before 1 October 1991, which did not require any licence or other authorisation relating to such activity under any of the Acts, regulations, or bylaws, or parts thereof, amended, repealed, or revoked by this Act, until the tenth anniversary of the date of commencement of this Act, unless a regional plan sooner provides otherwise.
 
 ### 419 Certain discharges affected by water classifications
 (1) Where—any person so authorised shall, subject to subsection (2), continue to be so authorised for the same period, to the same extent, and subject to the same conditions, pending that person's application for a resource consent to discharge such waste into the receiving water and the determination of any appeals in respect of that application.
@@ -8198,7 +8201,7 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 (7) Except as provided in subsection (1), every requirement made under section 43 or section 118 of the Town and Country Planning Act 1977 which, immediately before the date of commencement of this Act, has neither been provided for in the relevant district scheme nor been withdrawn or revoked—
   (a) to the extent that the requirement has effect within the coastal marine area, shall be deemed to be withdrawn:
   (b) except as provided in paragraph (a), shall be deemed to be a requirement that has been notified under section 168, and section 422 shall apply to it.
-(8) Subsection (7) applies whether or not the requirement is the subject of any proceedings before a territorial authority, the Environment Court, or any other Court.
+(8) Subsection (7) applies whether or not the requirement is the subject of any proceedings before a territorial authority, the Environment Court, or any other court.
 
 ### 421 Protection notices to become heritage orders
 (1) The following provisions apply in respect of every protection notice issued under section 36 of the Historic Places Act 1980 which, immediately before the commencement of this Act, is included in an operative district scheme or combined scheme under section 125B(10) of the Town and Country Planning Act 1977, or the corresponding provisions of any former enactment, namely:
@@ -8209,14 +8212,14 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
   (b) except as provided in paragraph (a),—
     (i) in a case where a territorial authority has an obligation under section 125B(10) of that Act to include the notice in an operative district scheme or combined scheme but has not done so, the territorial authority shall, as soon as reasonably practicable and without using the process in Schedule 1, include a heritage order in respect of the notice in the relevant district plan in accordance with section 192:
     (ii) in any other case, the notice shall be deemed to be a requirement for a heritage order that has been notified under section 189, and section 422 shall apply to it.
-(3) Subsection (2)(a) shall apply whether or not the notice is the subject of any proceedings before a territorial authority, the Environment Court, or any other Court.
+(3) Subsection (2)(a) shall apply whether or not the notice is the subject of any proceedings before a territorial authority, the Environment Court, or any other court.
 
 ### 422 Procedure for requirements for designations and protection notices
 (1) This section applies to requirements and notices of the kinds referred to in sections 420(7)(b) and 421(2)(b)(ii).
 (2) Where, before the date of commencement of this Act, a local authority has been notified of or served with a requirement or notice to which this section applies, and on the date of commencement of this Act, any hearing involved in the territorial authority's consideration of the requirement or notice—
   (a) has commenced, the territorial authority shall proceed with that consideration and make its recommendation accordingly as if this Act had not been enacted:
   (b) has not commenced, the territorial authority shall deal with the requirement or notice as if it were a requirement for a designation or heritage order, as the case may be, and the provisions of this Act shall apply accordingly.
-(3) Except as provided in subsection (2), a territorial authority that has been notified of or served with a requirement or notice to which this section applies shall, as soon as reasonably practicable after the date of commencement of this Act, decide whether the requirement or notice is to be dealt with after that date—and any such decision shall be final and not subject to appeal to or review by any Court or the Environment Court.
+(3) Except as provided in subsection (2), a territorial authority that has been notified of or served with a requirement or notice to which this section applies shall, as soon as reasonably practicable after the date of commencement of this Act, decide whether the requirement or notice is to be dealt with after that date—and any such decision shall be final and not subject to appeal to or review by any court or the Environment Court.
   (a) in accordance with the Town and Country Planning Act 1977; or
   (b) in accordance with this Act as if the requirement or notice were a requirement for a designation or heritage order, as the case may be; or
   (c) partly in accordance with that Act and otherwise in accordance with this Act,—
@@ -8239,9 +8242,9 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 (1) A national water conservation order made under section 20D of the Water and Soil Conservation Act 1967, and in force immediately before the date of commencement of this Act, shall be deemed to be a water conservation order made on the same terms under section 214.
 (2) Where, before the date of commencement of this Act, an application for a water conservation order has been made under section 20A of the Water and Soil Conservation Act 1967, and on the date of commencement of this Act—
   (a) the application has not been publicly notified under section 20B of that Act, the application shall be deemed to be an application made on that date under section 201, and the provisions of this Act shall apply accordingly; or
-  (b) the application has been publicly notified under section 20B of that Act but, immediately before the date of commencement of this Act, the Minister was still considering the application, the Minister shall, having regard to the progress made in consideration of the application, as soon as reasonably practicable after the date of commencement of this Act, decide whether the application is to be dealt with after that date in accordance with—and shall ensure that written notice of the decision is served as soon as reasonably practicable on every person (including the applicant) whom the Minister considers should receive notice. Any such decision by the Minister shall be final and not subject to appeal to, or review by, any Court or the Environment Court.
+  (b) the application has been publicly notified under section 20B of that Act but, immediately before the date of commencement of this Act, the Minister was still considering the application, the Minister shall, having regard to the progress made in consideration of the application, as soon as reasonably practicable after the date of commencement of this Act, decide whether the application is to be dealt with after that date in accordance with—and shall ensure that written notice of the decision is served as soon as reasonably practicable on every person (including the applicant) whom the Minister considers should receive notice. Any such decision by the Minister shall be final and not subject to appeal to, or review by, any court or the Environment Court.
     (i) the provisions of the Water and Soil Conservation Act 1967 as if this Act had not been enacted; or
-    (ii) the provisions of that Act as if this Act had not been enacted, but having regard to the matters set out in sections 199 and 207 of this Act; or
+    (ii) the provisions of that Act as if this Act had not been enacted, but having regard to the matters set out in sections 199 and 207; or
     (iii) this Act as if the application had been made under this Act,—
 (3) Any person who, if this Act had not been enacted, would have had a right under section 20C(1) of the Water and Soil Conservation Act 1967 to make submissions on or an objection to a draft national water conservation order under section 20B(7)(a) or any decision under section 20B(7)(c) of that Act may continue to exercise that right.
 (4) All inquiries by the Environment Court under section 20C of the Water and Soil Conservation Act 1967 commenced before the date of commencement of this Act and not completed at that date, and all inquiries initiated by the lodging of submissions and objections and not commenced at that date, and all inquiries in respect of submissions or objections made after the date of commencement of this Act by virtue of subsection (3), shall be continued and completed in all respects as if the Water and Soil Conservation Act 1967 continued in force and this Act had not been enacted.
@@ -8264,7 +8267,7 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
   (b) every bylaw referred to in subsection (3) may from time to time be altered or revoked by the territorial authority—
 (6) The alteration under subsection (5) of any bylaw referred to in subsections (2), (3), and (4) shall not come into force until the alteration has been approved by the Minister of Conservation and the Minister of Transport, jointly, by notice in the Gazette.
 (7) Sections 233, 234(2), 235, 236, 237, and 239 of the Harbours Act 1950, so far as they are applicable and with all necessary modifications, shall continue to apply to those bylaws referred to in subsections (2), (3), and (4) as if the regional council or, as the case may be, the territorial authority, were the Harbour Board.
-(8) Where, immediately before the date of commencement of this Act, there was in force any bylaw (in this subsection called a former bylaw) made pursuant to section 3 of the Lakes District Waterways (Shotover River) Empowering Act 1985, there shall be deemed to be in force, as from the date of commencement of this Act, in substitution for the former bylaw, a new bylaw on the same terms and conditions and with the same force and effect as the former bylaw; and subsections (3) to (7) and (9) of this section and section 427 of this Act shall apply to the new bylaw as if that new bylaw were a bylaw made by a public body (within the meaning of the Harbours Act 1950) under the Harbours Act 1950.
+(8) Where, immediately before the date of commencement of this Act, there was in force any bylaw (in this subsection called a former bylaw) made pursuant to section 3 of the Lakes District Waterways (Shotover River) Empowering Act 1985, there shall be deemed to be in force, as from the date of commencement of this Act, in substitution for the former bylaw, a new bylaw on the same terms and conditions and with the same force and effect as the former bylaw; and subsections (3) to (7) and (9) and section 427 shall apply to the new bylaw as if that new bylaw were a bylaw made by a public body (within the meaning of the Harbours Act 1950) under the Harbours Act 1950.
 (9) A local authority that has functions, powers, and duties under any bylaw referred to in any of subsections (2), (3), (4), and (8) may, while the bylaw is in existence, transfer any 1 or more of those functions, powers, or duties to another public authority in accordance with section 33.
 (10) The Water Recreation Regulations 1979 and any regulations amending or in substitution for those regulations shall not apply within any area for which a bylaw made under section 232(42) of the Harbours Act 1950 and in force immediately before the date of commencement of this Act continues to be in force.
 (11) Where a proposed regional coastal plan has been notified and any inconsistencies arise between the provisions of that proposed plan and the bylaws under subsection (2) or subsection (4), the provisions of the proposed regional coastal plan shall prevail.
@@ -8303,10 +8306,10 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 
 ### 427 Deemed transfer of powers to former public bodies
 (1) This section shall apply notwithstanding anything to the contrary in section 33 or in any other enactment or rule of law.
-(2) Where, before the date of commencement of this Act,—then, on the date of commencement of this Act, the relevant regional council shall be deemed to have transferred those functions, powers, and duties that are described in subsection (4) to the public body or public bodies or Harbour Board (as the case may be) for a period commencing on the date of commencement of this Act and ending on the 30th day of June 1992, and the public body or public bodies or Harbour Board (as the case may be) shall be deemed to have accepted the transfer.
+(2) Where, before the date of commencement of this Act,—then, on the date of commencement of this Act, the relevant regional council shall be deemed to have transferred those functions, powers, and duties that are described in subsection (4) to the public body or public bodies or Harbour Board (as the case may be) for a period commencing on the date of commencement of this Act and ending on 30 June 1992, and the public body or public bodies or Harbour Board (as the case may be) shall be deemed to have accepted the transfer.
   (a) any public body, or any 2 or more public bodies acting jointly, or any Harbour Board, were exercising any current function, power, or duty in respect of any bylaws conferred by the Harbours Act 1950 or by any Order in Council under section 8A or section 165 of that Act in relation to any part of the coastal marine area; and
   (b) the public body or public bodies or Harbour Board (as the case may be) were administering any bylaw in force under either of those sections—
-(3) Where, before the date of commencement of this Act,—then, on the date of commencement of this Act, the relevant territorial authority shall be deemed to have transferred those functions, powers, and duties that are described in subsection (5) to the public body or public bodies or Harbour Board (as the case may be) for a period commencing on the date of commencement of this Act and ending on the 30th day of June 1992, and the public body or public bodies or Harbour Board (as the case may be) shall be deemed to have accepted the transfer.
+(3) Where, before the date of commencement of this Act,—then, on the date of commencement of this Act, the relevant territorial authority shall be deemed to have transferred those functions, powers, and duties that are described in subsection (5) to the public body or public bodies or Harbour Board (as the case may be) for a period commencing on the date of commencement of this Act and ending on 30 June 1992, and the public body or public bodies or Harbour Board (as the case may be) shall be deemed to have accepted the transfer.
   (a) any public body, or any 2 or more public bodies acting jointly, or any Harbour Board, were exercising any current function, power, or duty in respect of any bylaws conferred by the Harbours Act 1950 or by any Order in Council under section 8A or section 165 of that Act in relation to any river or lake; and
   (b) the public body or public bodies or Harbour Board (as the case may be) were administering any bylaw in force under either of those sections—
 (4) Subject to subsection (8), the regional council shall be deemed to have transferred to the relevant public body, public bodies, or Harbour Board under subsection (2)—in the same manner and to the same extent as the relevant public body or public bodies were authorised to do so by Order in Council under section 8A or section 165 of the Harbours Act 1950 or, as the case may be, the relevant Harbour Board was authorised to do so under that Act before that Act was amended by this Act.
@@ -8348,8 +8351,8 @@ Parts 20 and 21 of the Local Government Act 1974 shall continue to apply to any 
 ### 429 Savings as to compensation claims
 Where, immediately before the date of commencement of this Act, any claim for compensation under any enactment repealed by this Act has been or could be made, that claim may be made or continued and enforced in all respects as if this Act had not been enacted.
 
-### 430 Savings as to Court proceedings
-Except as expressly provided in this Act, nothing in this Act shall affect the rights of any party to any proceedings commenced in any Court on or before the commencement of this Act.
+### 430 Savings as to court proceedings
+Except as expressly provided in this Act, nothing in this Act shall affect the rights of any party to any proceedings commenced in any court on or before the commencement of this Act.
 
 ### 431 Obligation to prepare draft New Zealand coastal policy statement within 1 year
 (1) The Minister of Conservation shall, in accordance with this Act and within 1 year after the date of commencement of this Act, publicly notify a proposed New Zealand coastal policy statement.
@@ -8357,19 +8360,19 @@ Except as expressly provided in this Act, nothing in this Act shall affect the r
 
 ### 432 Obligation to prepare regional policy statements and coastal plans within 2 years
 (1) Every regional council shall, in accordance with this Act and within 2 years after the date of commencement of this Act, publicly notify a proposed regional policy statement for its region.
-(1A) Every regional council shall, in accordance with this Act, publicly notify, by the 1st day of July 1994, a proposed regional coastal plan or plans for its region.
+(1A) Every regional council shall, in accordance with this Act, publicly notify, by 1 July 1994, a proposed regional coastal plan or plans for its region.
 (2) A regional council that complies with subsection (1) shall not be in breach of section 60 or section 64, as the case may be, during the period from the date of commencement of this Act until the policy statement or plan becomes operative.
 
 ### 433 Collection of water management charges
-All charges fixed by special order made under section 24K of the Water and Soil Conservation Act 1967 in respect of the financial year ending with the 30th day of June 1992 may be collected as if that Act had not been repealed by this Act.
+All charges fixed by special order made under section 24K of the Water and Soil Conservation Act 1967 in respect of the financial year ending with 30 June 1992 may be collected as if that Act had not been repealed by this Act.
 
 ## Schedule 1 — Preparation, change, and review of policy statements and plans
 
 ### 1 Time limits
 (1)
-(2) Where any time limit is set in this Schedule, a local authority may extend it under section 37.
+(2) Where any time limit is set in this schedule, a local authority may extend it under section 37.
 (3) Where no time limit is set, section 21 (obligation to avoid unreasonable delay) applies.
-(4) Where, under this Schedule, a request for a plan change is to be heard and an application for a resource consent or a requirement for a designation or heritage order has been made in relation to the same proposal, section 102 (joint hearings) and section 103 (combined hearings) may apply.
+(4) Where, under this schedule, a request for a plan change is to be heard and an application for a resource consent or a requirement for a designation or heritage order has been made in relation to the same proposal, section 102 (joint hearings) and section 103 (combined hearings) may apply.
 
 ### 2 Preparation of proposed policy statement or plan
 (1) The preparation of a policy statement or plan shall be commenced by the preparation by the local authority concerned, of a proposed policy statement or plan.
@@ -8439,7 +8442,7 @@ A local authority is not required to comply with clause 3 to the extent that any
 (7) If a territorial authority includes a requirement, or modification of a requirement, in its proposed district plan under subclause (6), it must make available for public inspection all information about the requirement that is required by the prescribed form for the notice of that requirement.
 (8) Nothing in this clause applies where a territorial authority publicly notifies a change or variation to a district plan under clause 5.
 (9) A requiring authority may withdraw a requirement for a designation in accordance with section 168(4) and a heritage protection authority may withdraw a requirement for a heritage order in accordance with section 189(4).
-(10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this Schedule, amend its proposed district plan accordingly.
+(10) If a territorial authority receives notice from a requiring authority that a requirement has been withdrawn, the territorial authority must, as soon as reasonably practicable and without using the process in this schedule, amend its proposed district plan accordingly.
 
 ### 5 Public notice and provision of document to public bodies
 (1) A local authority that has prepared a proposed policy statement or plan shall publicly notify it.
@@ -8590,19 +8593,19 @@ Where submissions are made but no person indicates they wish to be heard, or the
 
 ### 15 Hearing by the Environment Court
 (1) The Environment Court shall hold a public hearing into any provision or matter referred to it.
-(2) If the Environment Court, in a hearing into any provision of a proposed policy statement or plan (other than a proposed regional coastal plan), directs a local authority under section 293(1), the local authority must comply with the Court's directions.
-(3) Where the Environment Court hears an appeal against a provision of a proposed regional coastal plan, that appeal is an inquiry and the Environment Court—
+(2) If the Environment Court, in a hearing into any provision of a proposed policy statement or plan (other than a proposed regional coastal plan), directs a local authority under section 293(1), the local authority must comply with the court's directions.
+(3) Where the court hears an appeal against a provision of a proposed regional coastal plan, that appeal is an inquiry and the court—
   (a) shall report its findings to the appellant, the local authority concerned, and the Minister of Conservation; and
-  (b) may include a direction given under section 293(1) to the proposed regional council to make modifications to, deletions from, or additions to, the regional coastal plan.
+  (b) may include a direction given under section 293(1) to the regional council to make modifications to, deletions from, or additions to, the proposed regional coastal plan.
 
 ### 16 Amendment of proposed policy statement or plan
-(1) A local authority must, without using the process in this Schedule, make an amendment to its proposed policy statement or plan that is required by section 55(2) or by a direction of the Environment Court under section 293.
-(2) A local authority may make an amendment, without using the process in this Schedule, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
+(1) A local authority must, without using the process in this schedule, make an amendment to its proposed policy statement or plan that is required by section 55(2) or by a direction of the Environment Court under section 293.
+(2) A local authority may make an amendment, without using the process in this schedule, to its proposed policy statement or plan to alter any information, where such an alteration is of minor effect, or may correct any minor errors.
 (3)
 
 ### 16A Variation of proposed policy statement or plan
 (1) A local authority may initiate variations (being alterations other than those under clause 16) to a proposed policy statement or plan, or to a change, at any time before the approval of the policy statement or plan.
-(2) The provisions of this Schedule, with all necessary modifications, shall apply to every variation as if it were a change.
+(2) The provisions of this schedule, with all necessary modifications, shall apply to every variation as if it were a change.
 
 ### 16B Merger with proposed policy statement or plan
 (1) Every variation initiated under clause 16A shall be merged in and become part of the proposed policy statement or plan as soon as the variation and the proposed policy statement or plan are both at the same procedural stage; but where the variation includes a provision to be substituted for a provision in the proposed policy statement or plan against which a submission or an appeal has been lodged, that submission or appeal shall be deemed to be a submission or appeal against the variation.
@@ -8624,7 +8627,7 @@ Where submissions are made but no person indicates they wish to be heard, or the
 
 ### 19 Ministerial approval of regional coastal plan
 (1) Prior to his or her approval of a regional coastal plan, the Minister of Conservation may require the regional council to make any amendments to the plan specified by that Minister.
-(2) The Minister of Conservation may not require a regional council to make an amendment to a regional coastal plan that is in conflict or inconsistent with any direction of the Environment Court, unless the Minister made a submission on the provision concerned when the provision was referred to the Environment Court.
+(2) The Minister of Conservation may not require a regional council to make an amendment to a regional coastal plan that is in conflict or inconsistent with any direction of the Environment Court, unless the Minister made a submission on the provision concerned when the provision was referred to the court.
 (3) When the Minister of Conservation requires a regional council to make changes under subclause (1), the Minister shall give reasons.
 (3A) If all submissions or inquiries relating to part of a regional coastal plan have been disposed of, the Minister of Conservation may approve that part.
 (4) Every approval of a regional coastal plan under this clause shall be effected by the Minister of Conservation signing the regional coastal plan.
@@ -8645,7 +8648,7 @@ Where submissions are made but no person indicates they wish to be heard, or the
 (6) The obligation imposed by subclause (5) is in addition to the local authority's obligations under section 35 (records).
 
 ### 20A Correction of operative policy statement or plan
-A local authority may amend, without using the process in this Schedule, an operative policy statement or plan to correct any minor errors.
+A local authority may amend, without using the process in this schedule, an operative policy statement or plan to correct any minor errors.
 
 ### 21 Requests
 (1) Any person may request a change to a district plan or a regional plan (including a regional coastal plan).
@@ -8842,7 +8845,7 @@ Material incorporated by reference in a plan or proposed plan that expires or th
 ## Schedule 1A — Preparation and change of regional coastal plans providing for aquaculture activities
 
 ### 1 Preparation and change of regional coastal plans providing for aquaculture activities
-(1AA) This Schedule applies to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
+(1AA) This schedule applies to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
 (1) Schedule 1 applies, subject to this schedule, to the preparation of, and changes to, a regional coastal plan to the extent that the plan provides for aquaculture activities.
 (2) The provisions of this schedule apply, with all necessary modifications, to a variation to a proposed plan or proposed change of a plan as if it were a change.
 
@@ -8862,15 +8865,15 @@ Material incorporated by reference in a plan or proposed plan that expires or th
     (ii) the coastal permit has not lapsed or been cancelled or surrendered; but
     (iii) the application for a marine farming permit or spat catching permit referred to in section 50(3) of that Act has not been made or has been made but has not been determined or withdrawn.
 (2) To avoid doubt, subclause (1) does not prevent a proposed regional coastal plan or a proposed change to a regional coastal plan describing as an aquaculture management area an area to which a deemed coastal permit under the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004 relates.
-(3) Subclause (1) does not apply to a proposed regional coastal plan or a proposed change to a regional coastal plan if the proposed plan or proposed change has been notified under clause 5 or clause 26 of Schedule 1 before the commencement of the Resource Management Amendment Act 2008.
+(3) Subclause (1) does not apply to a proposed regional coastal plan or a proposed change to a regional coastal plan if the proposed plan or proposed change has been notified under clause 5 or 26 of Schedule 1 before the commencement of the Resource Management Amendment Act 2008.
 (4) If a proposed regional coastal plan or a proposed change to a regional coastal plan describes an area as an aquaculture management area in breach of subclause (1), then (to avoid doubt)—
   (a) the area is not, and is not to be treated as, an aquaculture management area; and
   (b) the breach does not invalidate the rest of the plan to the extent that the rest of the plan is not inconsistent with the area not being an aquaculture management area.
 
 ### 2 Assessment of undue adverse effects on fishing
-(1) The regional council must not notify a proposed regional coastal plan or a proposed change to a regional coastal plan under clause 5 or clause 26 of Schedule 1 until—
+(1) The regional council must not notify a proposed regional coastal plan or a proposed change to a regional coastal plan under clause 5 or 26 of Schedule 1 until—
   (a) the chief executive of the Ministry of Fisheries has made an aquaculture decision under section 186E of the Fisheries Act 1996 in relation to any area described in the plan as an aquaculture management area; and
-  (b) the regional council has complied with clause 3 of this Schedule.
+  (b) the regional council has complied with clause 3 of this schedule.
 (2) However, subclause (1) does not apply in relation to an area that is—
   (a) subject to a deemed coastal permit under section 10, 20, or 21 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004; or
   (b) an aquaculture management area in relation to which a determination has already been made under section 186E of the Fisheries Act 1996 or section 38 of the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
@@ -9002,44 +9005,7 @@ Subject to the provisions of any policy statement or plan, any person preparing 
 
 ## Schedule 8 — Enactments amended
 
-### 3A Relationship to Resource Management Act 1991
-Nothing in this Part shall derogate from any of the provisions of the Resource Management Act 1991.
-
-### 12 Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of the Local Government Act 1974 not to apply
-Section 11 and Part 10 of the Resource Management Act 1991 and Part 21 of the Local Government Act 1974 shall not apply to or in respect of the transfer of any land or interest in land pursuant to this Part nor to any subdivision required in respect of any such transfer.
-
-### 13 Activity permitted as of right
-For the purposes of section 375(1)(a)(iii) of the Resource Management Act 1991 and for the avoidance of doubt, where any irrigation scheme is sold or otherwise disposed of under this Part, any use for irrigation purposes of the land upon which the irrigation scheme is situated shall be deemed to be a permitted activity within the meaning of that Act, and section 375 of that Act shall apply accordingly.
-
-### 11 Harbour works on lake restricted
-No regional council shall grant a resource consent under the Resource Management Act 1991 authorising any activity in relation to the lake that is referred to in section 13 or section 14 of that Act without first—
-  (a) seeking the advice of the Guardians of Lake Wanaka on the proposed activity concerned, and considering all advice received from them within a reasonable time of its being sought; and
-  (b) having regard to the purposes of this Act.
-
-### 30 Payment into Departmental Bank Account
-All money received by the Secretary under this Part shall be paid into the Departmental Bank Account of the responsible department of State.
-
-### 3A Relationship to Resource Management Act 1991
-The Corporation shall not be an instrument of the Executive Government of New Zealand for the purposes of the Resource Management Act 1991.
-
-### 36A Transitional procedures for defining middle line
-Where a notice has been issued in the Gazette defining the middle line of a road or railway line under sections 36 to 39, that notice shall continue to have effect until its expiry or until the fifth anniversary of the date of commencement of the Resource Management Act 1991, whichever date first occurs, as if sections 36 to 39 had not been repealed.
-
-### 118 Application of other Acts to stopped roads
-(1) Notwithstanding section 117, where any road or any portion of a road along the mark of mean high water springs of the sea, or along the bank of any river, or the margin of any lake (as the case may be) is stopped under section 116—
-  (a) section 345(3) of the Local Government Act 1974 (relating to esplanade reserves) shall apply to the land comprising the road or portion of the road so stopped if that land was formerly a road vested in a local authority (including a state highway vested in a local authority):
-  (b) Part 4A of the Conservation Act 1987 (relating to marginal strips) shall apply to the land comprising the road or portion of the road so stopped if that land was formerly a Government road or a state highway or other road vested in the Crown.
-(2) For the purpose of subsection (1), lake and river have the same meaning as in section 2(1) of the Resource Management Act 1991.
-
-### 5 Application of Resource Management Act 1991
-Subject to the provisions of this Act, the right granted by section 3(1) shall have the same force and effect as if it had been granted pursuant to the Resource Management Act 1991; and the provisions of that Act (other than sections 128, 129, 130, 131, and 132), so far as is practicable and with all necessary modifications, shall apply accordingly in respect of that right and of the terms, conditions, restrictions, and prohibitions set out in the Schedule.
-
-### 24A Exercise of ancillary rights following repeal of sections 4 and 5
-Every right, power or privilege conferred by sections 7, 9, or 10 shall continue to be exercisable by the Company in connection with the exercise of the water permits that are, by virtue of section 386 of the Resource Management Act 1991, deemed to replace the rights in relation to the river conferred by sections 4 and 5,—
-  (a) in the same manner, and to the same extent, as those rights, powers, and privileges were exercisable before the repeal of sections 4 and 5; and
-  (b) subject to the requirement that the Company shall, in exercising those rights, powers, and privileges, comply in all respect with the Resource Management Act 1991.
-
-## Schedule 9 — Special acts under which local authorities and other public bodies exercise functions, powers, and duties
+## Schedule 9 — Special Acts under which local authorities and other public bodies exercise functions, powers, and duties
 
 ## Schedule 10 — Requirements for instruments creating esplanade strips and access strips
 
@@ -9049,7 +9015,7 @@ Every right, power or privilege conferred by sections 7, 9, or 10 shall continue
   (b) wilfully damaging or interfering with any structure adjoining or on the land, including any building, fence, gate, stile, marker, bridge, or notice:
   (c) wilfully interfering with or disturbing any livestock lawfully permitted on the strip.
 (2) Notwithstanding subclause (1), the prohibitions in paragraphs (b) and (c) shall not apply to the owner or occupier.
-(3) For the purposes of this Schedule, owner and occupier includes any employees or agents authorised by the owner or occupier.
+(3) For the purposes of this schedule, owner and occupier includes any employees or agents authorised by the owner or occupier.
 
 ### 2 Other prohibitions
 Subject to sections 232(4) and 237B(3), every instrument creating an esplanade strip and every easement for an access strip shall specify that the following acts are prohibited on the land over which the esplanade strip or access strip has been created:
@@ -9102,7 +9068,7 @@ The Minister of Conservation may impose controls (including terms, standards, an
   (a) the Minister has either—
     (i) received, under clause 11, a copy of an adverse effects report in relation to that activity; or
     (ii) carried out his or her own adverse effects assessment and completed his or her own adverse effects report; and
-  (b) the Minister has consulted with the holder of the customary rights order and the Minister of Maori Affairs.
+  (b) the Minister has consulted with the holder of the customary rights order and the Minister of Māori Affairs.
 (2) In addition to the consultation required by subclause (1)(b), the Minister of Conservation may seek any relevant information and views before imposing controls on a recognised customary activity.
 (3) The Minister of Conservation must not undertake an assessment under subclause (1)(a)(ii) if, before he or she has begun an assessment, the relevant regional council notifies the Minister of Conservation under clause 7 that it is carrying out an adverse effects assessment of the recognised customary activity in accordance with clause 6.
 (4) The Minister of Conservation must give written notice of his or her decision to carry out an adverse effects assessment under subclause (1)(a)(ii) not later than 5 working days after making that decision, to—
@@ -9131,7 +9097,7 @@ The Minister of Conservation must—
   (b) give written notice of his or her decision, and the reasons for it, to—
     (i) the relevant regional council; and
     (ii) the holder of the customary rights order; and
-    (iii) the Minister of Maori Affairs; and
+    (iii) the Minister of Māori Affairs; and
     (iv) the chief executive of the Ministry of Justice.
 
 ### 6 Adverse effects assessment
@@ -9215,6 +9181,418 @@ The Minister of Conservation may—
   (b) the holder considers, on reasonable grounds, that the effects of the activity on the environment are, or are likely to be, materially different from those effects considered when, whichever is the later,—
     (i) the controls were last imposed; or
     (ii) the controls were last reviewed under Part 3 of this schedule.
+
+### 1 Title
+(1) This Act is the Resource Management Amendment Act 2003.
+(2) In this Act, the Resource Management Act 1991 is called the principal Act.
+
+### 2 Commencement
+(1) Sections 18 to 23 come into force on the day after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on 1August 2003.
+
+## Part 2 — Amendments and repeals of other enactments, transitional provisions, and savings
+
+### Subpart 3 — Transitional and savings provisions
+
+### 109 Transitional provisions relating to New Zealand coastal policy statements
+Despite sections 62(3), 67(2), and 75(2) of the principal Act (as substituted by this Act), a regional policy statement or a plan in force on the date of the commencement of this section does not need to give effect to a New Zealand coastal policy statement, but must not be inconsistent with it.
+
+### 110 Transitional provisions for restricted discretionary activities
+If on the date of commencement of this section a plan or proposed plan includes any rule specifying an activity as a discretionary activity and restricting any discretion under section 68(3B) or section 76(3B) of the principal Act, an application for that activity must be treated as an application for a restricted discretionary activity.
+
+### 111 Transitional provisions for certain rules
+Despite sections 68(5)(e) and 76(4)(e) of the principal Act (as repealed and substituted by this Act), a rule included in accordance with those provisions before the commencement of this section is to be treated as if those provisions had not been repealed and substituted.
+
+### 112 Continuation and completion of matters under principal Act
+(1) If, before the commencement of this section,—the continuation and completion of that matter (including any rights of appeal) must be in accordance with the principal Act as if this Act had not been enacted.
+  (a) an application has been made for a resource consent or for any matter in relation to a resource consent (including a change or review of conditions of an existing consent); or
+  (b) a notice of requirement has been given for a designation or a heritage order; or
+  (c) an application has been made to become a requiring authority or a heritage protection authority; or
+  (d) a policy statement, plan, change, or variation has been publicly notified,—
+(2) If, before the commencement of this section, an appeal has been lodged or an objection made, the continuation and completion of that appeal or objection must be in accordance with the principal Act as if this Act had not been enacted.
+(3) If, before the commencement of this section, an application for a subdivision consent has been made, the continuation and completion of all proceedings in relation to that subdivision, including the approval and deposit of a survey plan, must be in accordance with the principal Act as if this Act had not been enacted.
+(4) If, before the commencement of this section, a declaration, enforcement, or abatement action under Part 12 of the principal Act had commenced, the continuation and completion of that action (including any appeals) must be in accordance with the principal Act as if this section had not been enacted.
+(5) If, before the commencement of this section, a notice of appeal or notice of inquiry has been lodged with the Environment Court, sections 271A and 274 of the principal Act apply as if section 271A had not been repealed, and section 274 had not been repealed and substituted, by this Act.
+(6) For the purposes of this section, an appeal includes a reference to, or an inquiry by, the Environment Court.
+
+### 113 Exercise of authority granted under Historic Places Act 1993
+(1) An authority given under section 9F, section 9H, or section 9L of the Historic Places Act 1954, or section 44, section 46, or section 48 of the Historic Places Act 1980 that has not been wholly or partially exercised on or before the date of commencement of this section lapses.
+(2) An authority given under section 9F, section 9H, or section 9L of the Historic Places Act 1954, or section 44, section 46, or section 48 of the Historic Places Act 1980 that has been partially exercised at the date of commencement of this section may continue to be exercised for a period of 2 years from the date of commencement of this section.
+
+### 1 Title
+(1) This Act is the Resource Management (Energy and Climate Change) Amendment Act 2004.
+(2) In this Act, the Resource Management Act 1991 is called the principal Act.
+
+## Part 1 — Preliminary provisions
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Amendments to principal Act and transitional provisions
+
+### 8 Transitional provision relating to applications made before commencement of Act
+(1) The matters referred to in subsection (2) must be continued and completed in all respects in accordance with the principal Act as if this Act had not been enacted.
+(2) Subsection (1) applies to the following matters, if made or given before the commencement of this Act:
+  (a) an application for a resource consent:
+  (b) a notice of requirement for a designation.
+(3) For the purposes of subsection (1), an application is made, or a notice is given, on the day on which the local authority receives the application, or the notice is given, in accordance with the requirements of the principal Act.
+
+### 9 Transitional provision relating to rules made before commencement of Act
+On the commencement of this Act, an existing rule or part of a rule in a regional plan that controls the discharge into air of greenhouse gases solely for its effects on climate change is revoked.
+
+### 1 Title
+(1) This Act is the Resource Management (Foreshore and Seabed) Amendment Act 2004.
+(2) In this Act, the Resource Management Act 1991 is called the principal Act.
+
+### 2 Commencement
+(1) This section and sections 3, 13, 27, 28, 33, 34, 35, 42, and 43 come into force on the day after the date on which this Act receives the Royal assent.
+(2) The rest of this Act comes into force on 17 January 2005.
+
+### 40 Continuation and completion of applications, etc, under principal Act
+(1) This section applies if, before 17 January 2005,—
+  (a) an application has been made for a resource consent or for any matter in relation to a resource consent (including a change or review of conditions of an existing consent); or
+  (b) a policy statement, plan, change, or variation has been publicly notified.
+(2) The continuation and completion of a matter referred to in subsection (1) must be in accordance with the principal Act as if this Act had not been enacted.
+(3) However, a submission, request, or application made under section 85B(1) in relation to a rule in a plan or a proposed plan must be undertaken in accordance with the principal Act as amended by this Act.
+
+### 41 Continuation and completion of appeals, etc, under principal Act
+(1) If, before the commencement of this section, an appeal has been lodged or an objection made, the continuation and completion of that appeal or objection must be in accordance with the principal Act as if this Act had not been enacted.
+(2) However, an appeal lodged after 17 January 2005 must be determined in accordance with the principal Act as amended by this Act.
+(3) If, before 17 January 2005, an application for a subdivision consent has been made, the continuation and completion of all proceedings in relation to that subdivision, including the approval and deposit of a survey plan, must be in accordance with the principal Act as if this Act had not been enacted.
+(4) If, before 17 January 2005, a declaration, enforcement, or abatement action under Part 12 of the principal Act has been commenced, the continuation and completion of that action (including any appeals) must be in accordance with the principal Act as if this Act had not been enacted.
+
+### 42 Coastal permits relating to public foreshore and seabed
+(1) In this section and section 43, authorisation includes, but is not limited to, a leasehold interest in, or a licence to occupy, a specified area of the public foreshore and seabed.
+(2) This section and section 43 apply to an activity that is lawfully carried out on or in relation to land in the coastal marine area that,—
+  (a) before the commencement of section 13(1) of the Foreshore and Seabed Act 2004, was not—
+    (i) land of the Crown; or
+    (ii) land vested in a regional council; but
+  (b) after the commencement of section 13(1) of the Foreshore and Seabed Act 2004, is vested in the Crown by that section.
+(3) If an activity is carried out under an authorisation granted by the relevant local authority, as the land owner, to occupy land in, or remove sand, shingle, shell, or other natural material from, the public foreshore and seabed,—
+  (a) the authorisation must be treated as a coastal permit for the activity granted under the principal Act; and
+  (b) the same terms and conditions apply as applied under the authorisation; and
+  (c) the provisions of the principal Act apply.
+(4) Despite section 17 of the Foreshore and Seabed Act 2004, a right of renewal under an authorisation referred to in subsection (3) does not apply.
+
+### 43 Activities carried out without authorisation
+If an activity that involves an occupation of land in, or the removal of sand, shingle, shell, or other natural material from, the public foreshore and seabed is being carried out without an authorisation granted by the relevant local authority, as the land owner, section 12(2) of the principal Act does not apply until 1 January 2008.
+
+### 1 Title
+This Act is the Aquaculture Reform (Repeals and Transitional Provisions) Act 2004.
+
+### 2 Commencement
+(1) Section 33 comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) The rest of this Act come into force on 1 January 2005.
+
+**Transitional provisions relating to end of moratorium under Resource Management Act 1991**
+
+### 34 Resource Management Act 1991 called principal Act in sections 35 to 54
+In sections 35 to 54, the Resource Management Act 1991 is called the principal Act.
+
+**Interim aquaculture management areas**
+
+### 35 Interpretation
+In sections 36 to 54,—
+  - **aquaculture decision** means a determination or reservation
+  - **chief executive** means the chief executive of the Ministry of Fisheries
+  - **determination** , in relation to an interim aquaculture management area, means a decision by the chief executive that he or she is satisfied that the interim aquaculture management area will not have an undue adverse effect on fishing or on the sustainability of fisheries resources
+  - **interim aquaculture management area** —
+    (a) means a coastal marine area described in an Order in Council made under section 150C of the principal Act or section 36 of this Act; but
+    (b) does not include a coastal marine area described in paragraph (a) if the area is an aquaculture management area under section 44 of this Act
+  - **reservation** , in relation to an interim aquaculture management area, means a decision by the chief executive that he or she is not satisfied that the interim aquaculture management area will not have an undue adverse effect on fishing or on the sustainability of fisheries resources.
+
+### 36 Interim aquaculture management areas declared by Order in Council
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister of Conservation, declare a coastal marine area described in the order to be an interim aquaculture management area.
+(2) The Minister must not make a recommendation unless—
+  (a) the regional council concerned has requested the Minister to make the recommendation; and
+  (b) a regional coastal plan or proposed regional coastal plan—
+    (i) has, before the commencement of this Act, been notified under clause 5 of Schedule 1 of the principal Act; and
+    (ii) applies to the coastal marine area to be described in the Order in Council; and
+  (c) the Minister is satisfied that he or she has received adequate information to base a recommendation on; and
+  (d) the Minister is satisfied that—
+    (i) the regional coastal plan or the proposed regional coastal plan provides for aquaculture activities as a controlled or restricted discretionary or discretionary or non-complying activity in the area that the request relates to; and
+    (ii) the provisions of the plan or proposed plan adequately address the adverse effects (including cumulative effects) on the environment (other than fisheries resources) of the occupation of a coastal area and of aquaculture activities.
+(3) The Minister must make a recommendation under subsection (1) within 3 months after receiving a request if the Minister is not prevented by subsection (2) from making the recommendation.
+(4) For the purposes of subsection (3), section 37 of the principal Act applies, with all necessary modifications, as if the Minister were acting as a consent authority.
+
+### 37 Application for aquaculture decision in relation to interim aquaculture management area
+(1) A regional council may request the chief executive to make an aquaculture decision in relation to an interim aquaculture management area.
+(2) However, a regional council must not make a request in relation to an area to which section 39(a), (b), or (c) applies.
+
+### 38 Chief executive to make aquaculture decision
+(1) Within 6 months after receiving a request for an aquaculture decision under section 37, the chief executive must—
+  (a) make a determination; or
+  (b) make a reservation; or
+  (c) make 1 or more determinations or reservations or both in relation to different parts of the area.
+(2) The chief executive may request the regional council that requested the aquaculture decision and any person whose interests may be affected to provide him or her with further information about the effects that the interim aquaculture management area would have on access to or displacement of fishing or the sustainability of fisheries resources.
+(3) For the purposes of subsection (1), the period beginning on the day when a request for further information is made and ending on the day when the information is provided is excluded from the 6-month period referred to in subsection (1).
+(4) Before making an aquaculture decision, the chief executive must—
+  (a) consult the persons and organisations that the chief executive considers represent the classes of persons having a customary, commercial, or recreational fishing interest in the interim aquaculture management area; and
+  (b) consider any submissions made by those persons and organisations.
+
+### 39 Aquaculture decisions must not be made in relation to certain areas
+(1) The chief executive must not make an aquaculture decision if the decision would apply to an area for which—
+  (a) a coastal permit under the principal Act authorises occupation for the purposes of an aquaculture activity; or
+  (b) a deemed coastal permit under section 10 or section 20 or section 21 is in force; or
+  (c) an application for a coastal permit under the principal Act to occupy a coastal marine area for the purpose of an aquaculture activity has been made but not determined.
+(2) However, subsection (1)(c) does not apply to the following applications:
+  (a) applications to which section 150B(2) of the principal Act applies:
+  (b) applications made in the period beginning on 1 January 2005 and ending with the close of 9 May 2006.
+
+### 40 Matters to be considered by chief executive
+In deciding whether to make a determination or reservation, the chief executive must have regard only to the following matters:
+  (a) the effect of the interim aquaculture management area on—
+    (i) the biological diversity of the aquatic environment:
+    (ii) the productivity and biological abundance of fisheries resources:
+    (iii) habitats of known significance for fisheries management:
+  (b) the location of the interim aquaculture management area in relation to areas in which fishing is carried out:
+  (c) the effect of the interim aquaculture management area on fishing of any fishery, including the proportion of any fishery likely to become affected:
+  (d) the degree to which aquaculture activities within the interim aquaculture management area will lead to the exclusion of fishing:
+  (e) the extent to which fishing for a species in the interim aquaculture management area can be carried out in other areas:
+  (f) the extent to which the interim aquaculture management area will increase the cost of fishing:
+  (g) the cumulative effect on fishing of any previous aquaculture activities.
+
+### 41 Requirements for aquaculture decision
+(1) An aquaculture decision must—
+  (a) be in writing; and
+  (b) define the areas that are subject to the decision; and
+  (c) provide reasons for the decision; and
+  (d) if the decision is a determination based on a rule in a regional coastal plan or proposed regional coastal plan that relates to the character, intensity, or scale of occupation of the interim aquaculture management area by aquaculture activities,—
+    (i) specify the rule; and
+    (ii) state that the rule may not be revoked or amended until the chief executive makes a further aquaculture decision in relation to the area affected by the revocation or amendment; and
+  (e) be notified to the regional council.
+(2) If the chief executive makes a reservation, the reservation must also include—
+  (a) whether the reservation relates to customary, recreational, or commercial fishing or a combination of them; and
+  (b) if the reservation relates only to commercial fishing, the stocks and areas concerned, specifying any stocks subject to the quota management system, any stocks or species specified in Schedules 4C and 4D, and any stocks for species not subject to the quota management system; and
+  (c) any other matters required by regulations to be included.
+(3) The chief executive must—
+  (a) publicly notify the fact that he or she has made a determination or reservation; and
+  (b) in the notice published for that purpose, include—
+    (i) the information specified in subsections (1) and (2); and
+    (ii) information about where a copy of the determination or reservation can be obtained.
+
+### 42 Appeal against aquaculture decision
+(1) The following persons may appeal to the High Court against an aquaculture decision:
+  (a) the regional council that requested the aquaculture decision:
+  (b) any person consulted or who ought to have been consulted under section 38(4):
+  (c) any person who has an interest in the decision greater than the public generally.
+(2) An appeal must be filed within 3 months after public notification of the aquaculture decision.
+(3) The High Court may confirm or modify the aquaculture decision appealed against or substitute a different aquaculture decision.
+
+### 43 Judicial review of aquaculture decision
+Any person wishing to seek, under Part 1 of the Judicature Amendment Act 1972, judicial review of an aquaculture decision must do so within 3 months after the public notification of the decision.
+
+### 44 Interim aquaculture management area becomes aquaculture management area following aquaculture decision
+(1) If the chief executive makes an aquaculture decision under section 38, the regional council must amend the regional coastal plan and any proposed regional coastal plan as follows:
+  (a) in the case of a determination, by noting on the plan the details of the determination:
+  (b) in the case of a reservation,—
+    (i) by noting on the plan the details of the reservation; and
+    (ii) if the reservation relates to the sustainability of fisheries resources or effects on customary or recreational fishing, by deleting from the plan the area or areas that the reservation relates to.
+(2) However, if, when the aquaculture decision is made under section 38, an interim aquaculture management area is in a regional coastal plan, the regional council must comply with sections 9 to 12 of the Maori Commercial Aquaculture Claims Settlement Act 2004 before it complies with subsection (1).
+(3) Schedules 1 and 1A and of the principal Act do not apply to an amendment made under subsection (1).
+(4) On and from the date on which the regional council complies with subsection (1), the interim aquaculture management area becomes an aquaculture management area.
+
+**Deemed aquaculture management areas**
+
+### 45 Existing coastal permits deemed to be aquaculture management areas
+(1) This section applies—
+  (a) to a coastal permit—
+    (i) that has been deemed to be a coastal permit under any of sections 10, 20, or 21; but
+    (ii) only to the extent contemplated by section 28; and
+  (b) subject to section 53.
+(2) This section does not apply in respect of any space identified in a regional coastal plan or proposed regional coastal plan at the commencement of this Act as space in which aquaculture activities authorised by the coastal permit are prohibited.
+(3) The area to which a coastal permit that this section applies to is deemed to be an aquaculture management area for the purposes of the principal Act and, if the relevant plan is not operative, the relevant plan must be treated as if it were operative.
+(4) The deemed aquaculture management area is subject to the provisions of the regional coastal plan or proposed regional coastal plan that apply to the area.
+(5) An area that is deemed to be an aquaculture management area by this section ceases to be an aquaculture management area if a plan that applies to the area becomes operative after the commencement of this Act and does not provide for the area to continue to be an aquaculture management area.
+
+**Existing applications and coastal permits**
+
+### 46 Pending applications where moratorium ends before 31 December 2004
+(1) This section applies to an application—
+  (a) that section 150B(2) of the principal Act applies to; but
+  (b) only to the extent that it relates to an area that an Order in Council made under section 150C(1) of the principal Act applies to.
+(2) At the end of the moratorium, a consent authority must—
+  (a) resume processing an application; and
+  (b) process and determine the application under rules in the regional coastal plan, and in any proposed regional coastal plan, as at the end of the moratorium.
+(3) For the purposes of subsection (1), rules in a proposed regional coastal plan include any rule prohibiting an activity if the plan has been notified under clause 5 of Schedule 1 of the principal Act.
+(4) Subsection (3) applies subject to section 20 of the principal Act.
+
+### 47 Pending applications where moratorium ends on close of 31 December 2004
+(1) This section applies to an application—
+  (a) that section 150B(2) of the principal Act applies to; but
+  (b) only to the extent that it relates to an area for which the moratorium expires on the close of 31 December 2004.
+(2) After the end of the moratorium, a consent authority must resume processing an application; but only if and to the extent that the application relates to a regional coastal plan that provides for an aquaculture management area and the application relates to the aquaculture management area.
+(3) An application referred to in subsection (2) must be processed and determined under the rules in the regional coastal plan and any proposed regional coastal plan at the time the consent authority resumes processing the application.
+(4) However, a consent authority must not grant a coastal permit to occupy space for aquaculture activities in an aquaculture management area that is subject to a reservation relating to commercial fishing, except to a person specified in a notice given by the chief executive under section 186ZK of the Fisheries Act 1996 as the holder of an aquaculture agreement under that Act.
+(5) An application is deemed to be cancelled on and from the date on which a proposed regional coastal plan is notified under clause 5 of Schedule 1 of the principal Act after the commencement of this Act if and to the extent that the application relates to an area covered by the plan and the plan provides for aquaculture management areas, but it does not include the area that the application relates to.
+(6) An application is deemed to be cancelled on and from 31 December 2014 to the extent that, by that date,—
+  (a) no proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1 of the principal Act; or
+  (b) a proposed regional coastal plan covering the area that the application relates to has been notified under clause 5 of Schedule 1 of the principal Act, but the plan contains no aquaculture management areas.
+(7) This section—
+  (a) prevails over Part 7 of the principal Act; but
+  (b) applies subject to the Maori Commercial Aquaculture Claims Settlement Act 2004.
+(8) In this section, aquaculture management area does not include an area that is deemed to be an aquaculture management area under section 45.
+
+### 48 Certain coastal permits granted during moratorium not to be exercised until end of moratorium
+(1) This section applies to a coastal permit if—
+  (a) the application for the permit was notified during the moratorium but before the commencement of the Resource Management (Aquaculture Moratorium) Amendment Act 2002; or
+  (b) the consent authority decided, during the moratorium but before the commencement of the Resource Management (Aquaculture Moratorium) Amendment Act 2002, not to notify the application for the permit.
+(2) However, this section does not apply to a coastal permit for aquaculture activities that relates to a coastal marine area that, immediately before the moratorium, was subject to—
+  (a) a coastal permit; or
+  (b) a marine farming lease or licence under the Marine Farming Act 1971.
+(3) No person may do anything under a coastal permit until the moratorium has expired in relation to the area that the permit relates to.
+(4) At the end of the moratorium, a regional council may—
+  (a) review the conditions in a coastal permit; and
+  (b) amend the conditions so that they comply with the rules in the regional coastal plan and any proposed regional coastal plan that apply at the end of the moratorium.
+(5) If a coastal permit relates to a restricted coastal activity, section 119A of the principal Act applies in relation to the amendment of conditions under subsection (4)(b).
+(6) At the end of the moratorium,—
+  (a) no person may carry on any aquaculture activities under a coastal permit in any area in which aquaculture is prohibited; and
+  (b) the coastal permit ceases to have any effect and is deemed to be cancelled.
+(7) For the purposes of section 125 of the principal Act, the commencement date of a coastal permit is the later of—
+  (a) the day after the date on which the moratorium ceases to apply to the coastal permit; or
+  (b) the day after the date on which the regional council notifies the holder of the permit of the result of a review under subsection (4).
+(8) Sections 357 and 358 of the principal Act apply to a decision by a regional council to amend conditions under subsection (4).
+
+### 49 Preferential right for deemed permit holder to apply for coastal permit for occupation
+(1) Subsection (2) applies if—
+  (a) a person holds a lease or licence that is deemed to be a coastal permit by section 10; and
+  (b) the deemed coastal permit relates to an area in an aquaculture management area; and
+  (c) the person is giving effect to the deemed coastal permit.
+(2) No person, other than the permit holder, may apply for a coastal permit to occupy the area that the deemed coastal permit relates to.
+(3) However, subsection (2) does not apply if—
+  (a) the permit holder consents in writing to the application; or
+  (b) the coastal permit has expired and—
+    (i) the holder of the permit has not applied for a new coastal permit to occupy the same area to undertake an aquaculture activity; or
+    (ii) the holder of the permit has applied for a new coastal permit for the same area and the application has been refused and all appeals against the refusal have been withdrawn or dismissed; or
+  (c) the coastal permit has lapsed under section 125 of the principal Act; or
+  (d) the coastal permit has been cancelled under section 126 of the principal Act; or
+  (e) the coastal permit has been surrendered under section 138 of the principal Act.
+(4) This section does not limit or affect section 124 of the principal Act.
+
+**Pre-moratorium and pre-commencement applications for coastal permits**
+
+### 50 Pre-moratorium and pre-commencement applications for coastal permits not subject to moratorium
+(1) Subsection (2) applies to an application for a coastal permit under the principal Act to occupy a coastal marine area for aquaculture activities if the application—
+  (a) was made before the commencement of this Act; and
+  (b) is not subject to section 150B(2) of the principal Act; and
+  (c) has not been determined or withdrawn before the commencement of this Act.
+(2) An application to which this subsection applies must be determined under the principal Act as if the Resource Management Amendment Act (No 2) 2004 had not been passed.
+(3) A person who has made an application that subsection (2) applies to may apply, or continue with an application, for a marine farming permit under section 67J of the Fisheries Act 1983 or a spat catching permit under section 67Q(2) of that Act if the application under that Act relates to all or part of the area, and 1 or more of the species of fish, aquatic life, or seaweed, that the application that subsection (2) applies to relates to.
+(4) An application under subsection (3) lapses if the application to which subsection (2) applies is—
+  (a) withdrawn; or
+  (b) declined and any appeal in relation to the declined application has been unsuccessful or withdrawn.
+(5) If an application that subsection (2) applies to is granted, the application under subsection (3) must be determined under the Fisheries Act 1983 as if this Act had not been passed.
+(6) If the application is for a marine farming permit and the application is granted, section 20 applies to the permit as if every reference in that section to the commencement of this Act were a reference to the date on which the application was granted.
+(7) If the application is for a spat catching permit and the application is granted, section 21 applies to the permit as if every reference in that section to the commencement of this Act were a reference to the date on which the application was granted.
+
+### 51 Regional council must request aquaculture decision if application for coastal permit declined or withdrawn
+(1) This section applies to—
+  (a) an application for a coastal permit to occupy a coastal marine area for aquaculture activities if the application—
+    (i) is made before the commencement of this Act; and
+    (ii) is not subject to section 150B(2) of the principal Act; and
+    (iii) relates to part of an interim aquaculture management area; and
+    (iv) has been declined or withdrawn:
+  (b) a coastal permit if—
+    (i) it was granted under an application to which paragraph (a)(i) to (iii) applies; and
+    (ii) no marine farming permit or spat catching permit has been issued in relation to the coastal permit; and
+    (iii) the coastal permit—
+      (A) lapses under section 125 of the principal Act; or
+      (B) expires and the holder of the permit is not entitled under section 124 of the principal Act to continue to operate under the coastal permit; or
+      (C) is cancelled under section 126 of the principal Act; or
+      (D) is surrendered under section 138 of the principal Act.
+(2) The regional council to which the application was made or which granted the coastal permit must request an aquaculture decision for the part of the interim aquaculture management area concerned.
+(3) Sections 38 to 44 apply to the request.
+
+### 52 Areas excluded from interim aquaculture management area
+(1) This section applies to an application for—
+  (a) a marine farming permit under section 67J of the Fisheries Act 1983:
+  (b) a spat catching permit under section 67Q(2) of the Fisheries Act 1983.
+(2) If the chief executive of the Ministry of Fisheries has declined an application to which this section applies, whether before or after the commencement of this Act, the regional council must delete from an interim aquaculture management area any area to which the application applies.
+(3) If the chief executive of the Ministry of Fisheries has granted an application to which this section applies, whether before or after the commencement of this Act, the area to which the application relates is to be treated as if the chief executive had made a determination under section 38 of this Act in relation to it and section 44 applies accordingly.
+
+**Review of off-site farms**
+
+### 53 Off-site farms
+(1) This section applies to a deemed coastal permit under any of sections 10, 20, or 21 for which the actual space is not the authorised space.
+(2) The holder of a deemed coastal permit may, within 2 years after the commencement of this Act, apply in writing to the consent authority to amend the permit to reflect the actual space.
+(3) An application under this section must include—
+  (a) the description, to a standard approved by the consent authority, of the actual space; and
+  (b) the description of the authorised space; and
+  (c) an assessment of the adverse effects on the environment of the activity in the actual space, and of moving the activity to the authorised space (including the effects of moving the activity and the effects of the activity in the authorised space); and
+  (d) the reasons for and against amending the permit to reflect the actual space.
+(4) Section 92 of the principal Act applies, with all necessary modifications, to an application under this section as if it were an application for a resource consent.
+(5) After considering an application under this section and consulting the chief executive about it, the consent authority must—
+  (a) amend the deemed coastal permit as requested by the consent holder; or
+  (b) decline to amend the permit and require the consent holder to move the activity to the authorised space.
+(6) Section 120 of the principal Act applies to a decision of the consent authority under subsection (5) as if the decision were a decision on a review of consent conditions.
+(7) A deemed coastal permit amended under this section must not authorise the holder of the permit to occupy a space greater than the authorised space.
+(8) A consent authority must advise the chief executive of its decision under subsection (5).
+(9) As soon as practicable after receiving the advice under subsection (8), the chief executive must amend the fish farmer registration that the advice relates to.
+(10) Sections 357(5) to (8) and 358 and of the principal Act apply to a decision of the consent authority under subsection (5).
+(11) Section 36 of the principal Act applies to the functions of the consent authority under this section as if an application to amend a deemed coastal permit were an application for resource consent.
+(12) In this section,—
+  - **actual space** means the space in relation to which the deemed coastal permit is being exercised
+  - **authorised space** means the space specified in the deemed coastal permit.
+
+### 54 Consent authority may initiate review of off-site farms
+(1) This section applies to deemed coastal permits to which section 53 applies.
+(2) A consent authority may review a deemed coastal permit to the same extent and within the same time as if the holder of the permit had applied under section 53(2).
+(3) For the purposes of subsection (2), section 53(5) to (12) applies with all necessary modifications.
+
+### 1 Title
+(1) This Act is the Resource Management Amendment Act 2005.
+(2) In this Act, the Resource Management Act 1991 is called the principal Act.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in subsections (2) to (5).
+(2) Section 22(1) comes into force 12 months after the date on which this Act receives the Royal assent.
+(3) The following provisions come into force 24 months after the date on which this Act receives the Royal assent:
+  (a) section 22(2):
+  (b) section 25(2).
+(4) Section 67 comes into force 36 months after the date on which this Act receives the Royal assent.
+(5) The following provisions come into force on a date to be appointed by the Governor-General by Order in Council:
+  (a) section 108:
+  (b) section 115(2) to (4):
+  (c) section 117.
+
+### 131 Transitional provisions relating to provisions of principal Act
+(1) The amendments made by this Act do not apply to—
+  (a) a policy statement, plan, change, or variation that, on or before the commencement of this Act, has been publicly notified but has not proceeded to the stage at which no further appeal is possible; or
+  (b) an application for a resource consent or any other matter in relation to a resource consent that, on or before the commencement of this Act, has been made but has not proceeded to the stage at which no further appeal is possible; or
+  (c) a requirement for a designation or heritage order for which, at the commencement of this Act, notice has been given under sections 168 or 168A or sections 189 or 189A of the principal Act, as the case may be, but which has not proceeded to the stage where no further appeal is possible.
+(2) Subsection (1) applies subject to subsections (3) to (9).
+(3) Section 39B(1) to (4) of the principal Act applies to an application made before the commencement of those provisions if, at their respective commencement dates, the hearing has not commenced.
+(4) Sections 67(1), (2), (3)(a) and (b), (4), and (6) and 75(1), (2), (3)(a) and (b), (4), and (5) of the principal Act, as substituted by sections 41 and 46, apply to a proposed plan that, at the commencement of this Act, has been notified.
+(5) If, at the commencement of this Act, a hearing has not commenced, the following provisions apply to an application for a resource consent made before the commencement of this Act:
+  (a) section 99 of the principal Act as substituted by this Act; and
+  (b) section 99A of the principal Act inserted by this Act.
+(6) The following provisions of the principal Act apply to the matters described in section 140(c) of the principal Act, whether they arise before or after the commencement of this Act:
+  (a) the amendment to section 29 made by this Act; and
+  (b) sections 140 and 141 as substituted by this Act; and
+  (c) sections 141B and 141C inserted by this Act; and
+  (d) sections 142 to 149 as substituted by this Act; and
+  (e) sections 149A and 149B inserted by this Act; and
+  (f) section 150 as substituted by this Act; and
+  (g) section 150AA inserted by this Act.
+(7) Clause 8AA of Schedule 1 of the principal Act applies to a proposed policy statement or a proposed plan if, at the commencement of this Act, the hearing has not commenced.
+(8) The amendments to clause 17 of Schedule 1 of the principal Act made by this Act apply to a policy statement or plan that, at the commencement of this Act, is a proposed policy statement or a proposed plan.
+(9) Clause 20A of Schedule 1 of the principal Act applies to a policy statement or plan that, at the commencement of this Act, is operative.
+(10) Any material incorporated into a plan by reference before the commencement of this Act is treated as if it had been incorporated under clause 30 of Schedule 1 of the principal Act, and clauses 31 to 35 of Schedule 1 of the principal Act apply accordingly, with any necessary modifications.
+
+### 133 Transitional provision for service of notice
+(1) Subsection (2) applies—
+  (a) to plans or proposed plans existing on 1 August 2003; and
+  (b) until those plans are reviewed.
+(2) Despite section 94(1) of the principal Act, a consent authority is not required to serve notice of an application for a resource consent for a controlled or restricted discretionary activity if a rule in a plan or proposed plan expressly provides—
+  (a) that such an application does not need to be notified; or
+  (b) that notice of such an application does not need to be served.
+
+### 134 Transitional provision on allocation plans
+The enactment of section 30(1)(fa) and (fb) and (4) of the principal Act by this Act has no effect on any plan made before the day after the date on which this Act receives the Royal assent.
+
+### 135 Transitional provisions relating to regulations made under provisions of principal Act
+(1) Sections 43B, 43D, and 43E of the principal Act, as substituted by section 29, do not apply to national environmental standards made before the commencement of this Act.
+(2) Regulations made under section 360(1)(hi) of the principal Act may provide how the powers specified in sections 41B and 41C of the principal Act apply to a hearing that has commenced before the regulations come into force.
 
 ### 1 Title
 This Act is the Resource Management (Simplifying and Streamlining) Amendment Act 2009.
