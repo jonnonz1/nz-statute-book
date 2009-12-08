@@ -1,5 +1,5 @@
 # Māori Trustee Amendment Act 2009
-_Consolidation as at 2009-05-12_
+_Consolidation as at 2009-12-08_
 
 ### 1 Title
 This Act is the Māori Trustee Amendment Act 2009.
@@ -17,8 +17,8 @@ This Act amends the Maori Trustee Act 1953.
 (2) Section 2 is amended by adding the following subsections:
   (3) Without limiting subsection (1), in this Act, unless the context otherwise requires,—
     - **Appropriation Account** means the account provided for under section 23
-    - **Common Fund** means the separate fund authorised by section 23(1)(b)
-    - **General Purposes Fund** means the separate fund authorised by section 23(1)(c)
+    - **Common Fund** means the separate fund authorised by section 23(1)﻿(b)
+    - **General Purposes Fund** means the separate fund authorised by section 23(1)﻿(c)
     - **Māori Trustee** —
       (a) means the Māori Trustee established by section 3; and
       (b) includes, as the context requires, the Māori Trustee who—
@@ -106,7 +106,7 @@ Section 21 is repealed.
 ### 11 New sections 26 to 26B substituted
 Section 26 is repealed and the following sections are substituted:Money held in Common Fund invested in FundManagement feesDisclosure requirements
   (1) All money held in trust in the Common Fund is invested in that fund, and any income derived from investment of the money forms part of the Common Fund.
-  (2) Unless an exception is provided for in regulations made under section 52(a)(i), the Māori Trustee must pay distributable income at least annually on that money, in accordance with subsection (3) and as provided for in regulations made under section 52(a)(ii).
+  (2) Unless an exception is provided for in regulations made under section 52(a)﻿(i), the Māori Trustee must pay distributable income at least annually on that money, in accordance with subsection (3) and as provided for in regulations made under section 52(a)﻿(ii).
   (3) Distributable income payable under subsection (2) must be calculated in accordance with the following formula:a − b = cwhere—ais the total amount of money received by the Māori Trustee as income, including amounts properly determined to be realised capital gains less capital losses, from the money held by the Māori Trustee in trust in the Common Fundbis the total amount of the management fees that the Māori Trustee is entitled to charge or retain under section 26Acis the amount of distributable income that must be paid annually under subsection (2), which must be apportioned in accordance with regulations made under section 52(b).
   (4) The Māori Trustee must review, on a quarterly basis, the extent to which the distributable income payable under subsection (2) is commensurate with fair market distributable income paid for the relevant quarter, relative to funds that are—
     (a) comparable in size to those held in trust in the Common Fund; and
@@ -234,7 +234,7 @@ A transferred employee is not entitled to compensation for redundancy by reason 
 (2) On and from the commencement of this Act,—
   (a) the old Maori Trustee and the new Māori Trustee are to be treated as the same person; and
   (b) all transactions entered into by, and all acts of, the old Maori Trustee before the commencement of this Act are to be treated as having been entered into or performed by the new Māori Trustee on the date on which they were entered into or performed by the old Maori Trustee.
-(3) In this section, Inland Revenue Acts has the same meaning as in section 31(1) of the Tax Administration Act 1994.
+(3) In this section, Inland Revenue Acts has the same meaning as in section 3(1) of the Tax Administration Act 1994.
 
 **Consequential and other amendments**
 
