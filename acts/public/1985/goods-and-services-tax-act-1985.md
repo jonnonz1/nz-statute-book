@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2009-12-07_
+_Consolidation as at 2009-12-08_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -176,11 +176,13 @@ _Consolidation as at 2009-12-07_
     (ii) the relative is associated with the trustee under paragraph (f):
   (d) a partnership and a partner in the partnership:
   (e) a partnership and a person if the person is associated with a partner in the partnership:
-  (f) a trustee of a trust and a person who has benefited or is eligible to benefit under the trust, except if, in relation to a supply of goods and services—
-    (i) the trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic or cultural purposes; and
-    (ii) the supply is made in carrying out these purposes:
+  (f) a trustee of a trust and a person who has benefited or is eligible to benefit under the trust, except if, in relation to a supply of goods and services,—
+    (i) the trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes and the supply is made in carrying out these purposes; or
+    (ii) the person is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes and the supply enables them to carry out these purposes:
   (g) a trustee of a trust and a settlor of the trust, except if the trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic or cultural purposes:
-  (h) a trustee of a trust and a trustee of another trust if the same person is a settlor of both trusts:
+  (h) a trustee of a trust and a trustee of another trust if the same person is a settlor of both trusts, except if, in relation to a supply of goods and services,—
+    (i) either trustee is a charitable or non-profit body with wholly or principally charitable, benevolent, philanthropic, or cultural purposes; and
+    (ii) the supply is made in, or enables, the carrying out of the charitable, benevolent, philanthropic, or cultural purposes:
   (i) a person (person A) and another person (person B) if—
     (i) person B is associated with a third person (person C) under any one of paragraphs (a) to (h); and
     (ii) person C is associated with person A under any one of paragraphs (a) to (h).
