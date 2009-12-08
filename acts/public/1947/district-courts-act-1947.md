@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2009-12-08_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -161,7 +161,7 @@ Every Judge, by virtue of his office,—
     (ii) in the Department of Corrections; or
     (iii)
     (iv) as an officer of the High Court or of a District Court; or
-  (d) be a party to a management contract entered into under section 4A of the Penal Institutions Act 1954 or to a security contract entered into under section 166 of the Corrections Act 2004; or
+  (d) be a party to a prison management contract entered into under section 198(1) of the Corrections Act 2004 or to a security contract entered into under section 166 of the Corrections Act 2004; or
   (e) be a security officer within the meaning of section 3(1) of the Corrections Act 2004; or
   (f) be a social worker within the meaning of section 2(1) of the Children, Young Persons, and Their Families Act 1989.
 
