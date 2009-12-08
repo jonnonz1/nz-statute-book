@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2007-08-01_
+_Consolidation as at 2009-12-08_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -161,7 +161,10 @@ In this Act, unless the context otherwise requires,—
     (c) represents the allocation, to a named iwi, of settlement quota for the stock, determined by coastline length under subpart 2 of Part 3
   - **representative Maori organisation** means an organisation specified in Schedule 5
   - **Rongomaiwahine** means the group that is a member of Ngati Kahungunu
-  - **settlement assets** means the assets transferred to Te Ohu Kai Moana Trustee Limited under section 194(1)(c) (including Aotearoa Fisheries Limited and all its assets), and any further quota shares allocated to Te Ohu Kai Moana Trustee Limited under section 44 of the Fisheries Act 1996
+  - **settlement assets** means—
+    (a) the assets transferred to Te Ohu Kai Moana Trustee Limited under section 194(1)(c) (including Aotearoa Fisheries Limited and all its assets); and
+    (b) any further quota shares allocated to Te Ohu Kai Moana Trustee Limited under section 44 of the Fisheries Act 1996; and
+    (c) any New Zealand units allocated to Te Ohu Kai Moana Trustee Limited under the fishing allocation plan issued under the Climate Change Response Act 2002
   - **settlement quota** means quota shares that have a settlement quota interest registered against them
   - **settlement quota interest** has the meaning given to it in section 2(1) of the Fisheries Act 1996
   - **special resolution** , in respect of Te Ohu Kai Moana Trustee Limited, means a resolution approved by 75% or more of the directors entitled to vote on the motion
@@ -1632,7 +1635,7 @@ Information requested by or on behalf of the auditor in relation to an audit con
 ## Part 3 — Allocation and transfer of settlement assets
 
 ### 129 Outline of this Part
-(1) The provisions of this Part govern the allocation and transfer of settlement assets (including settlement money and any surplus funds) and set out the bases for allocation of—
+(1) The provisions of this Part govern the allocation and transfer of settlement assets (including settlement money, any surplus funds, and any New Zealand units allocated to Te Ohu Kai Moana Trustee Limited under the fishing allocation plan issued under the Climate Change Response Act 2002) and set out the bases for allocation of—
   (a) inshore quota; and
   (b) deepwater quota; and
   (c) harbour quota; and
@@ -1746,6 +1749,13 @@ In sections 132 to 134,—
   (b) at least 75% of mandated iwi organisations, representing at least 50% of the total notional iwi population specified in column 3 of Schedule 3, support the proposal in writing to Te Ohu Kai Moana Trustee Limited not later than 20 working days after the date when Te Ohu Kai Moana Trustee Limited submitted the proposal to mandated iwi organisations.
 (4) Despite subsections (2) and (3), Te Ohu Kai Moana Trustee Limited may set aside up to $10 million from the net positive cash balance referred to in subsection (2) against its liability to Te Wai Maori Trustee Limited under section 103(3).
 (5) In this section the forecast net positive cash balance referred to in subsection (1) must be determined according to generally accepted accounting practice, after taking into account the amounts allocated under section 137(1)(a) to (d) and (f), but yet to be paid.
+
+### 138A Allocation and transfer of New Zealand units
+(1) In this section—
+  - **New Zealand units** means New Zealand units allocated to Te Ohu Kai Moana Trustee Limited under the fishing allocation plan issued under the Climate Change Response Act 2002
+  - **unallocated quota** means quota held by Te Ohu Kai Moana Trustee Limited on 24 September 2009 and that had not been allocated pursuant to section 130(1), 135, or 151 of this Act at that date.
+(2) When Te Ohu Kai Moana Trustee Limited allocates and transfers unallocated quota to an iwi or a mandated iwi organisation in accordance with section 130(1), 135, or 151 of this Act, Te Ohu Kai Moana Trustee Limited must, at the same time, allocate and transfer New Zealand units associated with that quota to that iwi or mandated iwi organisation in accordance with those provisions.
+(3) Te Ohu Kai Moana Trustee Limited must notify the Minister responsible for the administration of the Climate Change Response Act 2002 of the details of any allocation and transfer of unallocated quota and New Zealand units associated with that quota under subsection (2) no later than 10 working days after the date on which the unallocated quota and associated New Zealand units are allocated and transferred.
 
 **Income shares**
 
