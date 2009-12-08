@@ -1,5 +1,5 @@
 # Remuneration Authority Act 1977
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2009-12-08_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Remuneration Authority Act 1977.
@@ -69,7 +69,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 (1) The functions of the Authority shall be—
   (a) To consider and determine the following matters:
     (i) The salaries and allowances of members of the House of Representatives, being the salaries and allowances required to be fixed by the Authority pursuant to the Civil List Act 1979:
-    (ii) The remuneration of the highest paid executive officer of each of the corporations and bodies specified (either by name or by class) in Schedule 1 to this Act and the remuneration of such other officers of those corporations and bodies as the Authority from time to time specifies:
+    (ii)
     (iii)
     (iv)
     (v) The remuneration of the officers specified in Schedule 4 to this Act:
@@ -137,13 +137,13 @@ There shall from time to time be appointed by the chief executive of the Departm
 (2) Every determination under subsection (1) of this section shall have effect according to its tenor.
 (3)
 
-### 13 Amendment of Schedules 1, 2, 3, and 4
+### 13 Amendment of Schedules 2, 3, and 4
 (1) The Governor-General may from time to time, by Order in Council—
-  (a) Add to or omit from Schedule 1 to this Act, or any Part thereof, the name of any class of corporation or public body or the name of any specified corporation or public body:
+  (a)
   (b) Add to or omit from Schedule 2 to this Act the name of any university position:
   (c)
   (d) Add to or omit from Schedule 4 to this Act the name of any specified statutory officer:
-  (e) Otherwise amend Schedule 1, Schedule 2, or Schedule 4 to this Act, or revoke any such Schedule or any Part of any such Schedule, and substitute a new Schedule or a new Part, as the case may require.
+  (e) Otherwise amend Schedule 2, or Schedule 4 to this Act, or revoke any such Schedule or any Part of any such Schedule, and substitute a new Schedule or a new Part, as the case may require.
 (2) Every Order in Council made under subsection (1) of this section shall have effect according to its tenor.
 
 ### 14 Implementation of determinations
@@ -153,7 +153,7 @@ There shall from time to time be appointed by the chief executive of the Departm
 ### 15 Release of determinations
 (1) The Authority shall ensure that every determination made by it in respect of the remuneration of any person is, subject to section 16 of this Act, made known to that person and to the person responsible for the payment of the remuneration and to such other persons as have, in the opinion of the Authority, a direct interest in the subject-matter of the determination.
 (2) The Authority shall deliver to the Minister copies of all determinations made by it—
-  (a) Under any of the provisions of section 12(1)(a) of this Act (other than determinations fixing the remuneration of officers of the corporations and bodies specified in Part 2 of Schedule 1 to this Act); or
+  (a) Under any of the provisions of section 12(1)(a) of this Act; or
   (b) Under section 12B of this Act.
 (3)
 (4)
@@ -194,6 +194,14 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
 (2) In determining the remuneration of any persons or group of persons pursuant to any subparagraph of section 12(1)(a) of this Act or in determining the remuneration of any persons or group of persons pursuant to section 12B(1) of this Act or under any other Act, the Authority shall take into account—
   (a) The requirements of the position concerned; and
   (b) The conditions of service enjoyed by the persons whose remuneration is being determined and those enjoyed by the persons or members of the group of persons whose remuneration and conditions of employment are, in the opinion of the Authority, comparable with those of the persons or members of the group of persons whose remuneration is being determined.
+
+### 18A Countervailing economic conditions
+(1) Subsection (2) applies in relation to the Authority in determining the remuneration of any person or group of persons under section 12(1)(a) or 12B(1) or under any other enactment.
+(2) The Authority—
+  (a) must take into account any prevailing adverse economic conditions, based on evidence from an authoritative source; and
+  (b) may determine the remuneration at a rate lower than it would otherwise have determined.
+(3) A determination of remuneration at a lower rate under subsection (2)(b) must not result in the remuneration of a person or group of persons being lower than the remuneration the person or group of persons is entitled to before the determination.
+(4) To avoid doubt, the provisions of any other enactment relating to the setting of remuneration by the Authority must be read together with, and subject to, this section.
 
 ### 19 Frequency of adjustments
 (1) Subject to subsection (4) of this section, every determination shall specify the date on which it expires and shall continue in force at least until the close of that date. The Authority may issue separate determinations, at different times, for the different positions under the jurisdiction of the Authority. The Authority may make a determination before or after the date upon which that determination is to come into force.
@@ -237,7 +245,7 @@ Before making a determination under section 12(1)(a)(i), the Authority must—
 [Repealed]
 
 ### 27 Annual report
-(1) As soon as practicable after the end of each year ending with the 31st day of March, the Authority shall furnish to the Minister a report of its operations during that year.
+(1) As soon as practicable after the end of each year ending with 30 June, the Authority shall furnish to the Minister a report of its operations during that year.
 (2) A copy of the report shall be laid before Parliament.
 
 ### 28 Money to be appropriated by Parliament for purposes of this Act
@@ -254,7 +262,7 @@ Notwithstanding any provision of any other Act authorising any person or body to
 (2) Nothing in this section shall derogate from section 24 of this Act.
 
 ### 32 Consultation with Authority
-Where any corporation or body specified in Part 1 or Part 2 of Schedule 1 to this Act or any University or the University Grants Committee considers that any remuneration which it proposes to agree to, or pay, will or may tend to lead to unreasonable disparities or inappropriate relativities with remuneration determined by the Authority under section 12 or section 12A of this Act, it shall, before agreeing to, or committing itself to the payment of, that remuneration, consult with the Authority and have due regard to any opinions expressed by the Authority and to any relevant remuneration determined by the Authority.
+Where any University or the University Grants Committee considers that any remuneration which it proposes to agree to, or pay, will or may tend to lead to unreasonable disparities or inappropriate relativities with remuneration determined by the Authority under section 12 or section 12A of this Act, it shall, before agreeing to, or committing itself to the payment of, that remuneration, consult with the Authority and have due regard to any opinions expressed by the Authority and to any relevant remuneration determined by the Authority.
 
 ### 33 Consequential amendments
 (1) The enactments specified in Schedule 5 to this Act are hereby amended in the manner indicated in that Schedule.
