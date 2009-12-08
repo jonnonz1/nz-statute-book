@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2009-12-08_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -9,6 +9,7 @@ _Consolidation as at 2008-10-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **2010 Tariff Document** means the document certified under section 9A(1)
   - **chief executive** means the chief executive of the Ministry of Economic Development
   - **Collector**
   - **Comptroller**
@@ -39,6 +40,7 @@ _Consolidation as at 2008-10-01_
   - **Tariff item** means a Tariff item of the Standard Tariff identified by 8 digits; and includes a heading thereto so identified
   - **Tariff subheading** , or , means a subheading appearing in the Standard Tariff and identified by 6 digits or not identified by any number.
   - **TPA** means the Trans-Pacific Strategic Economic Partnership Agreement that was opened for signature by Brunei Darussalam, Chile, New Zealand, and Singapore on 15 June 2005.
+  - **Working Tariff Document** means the document maintained under that name by the person holding office under the State Sector Act 1988 as the Chief Executive of the New Zealand Customs Service
 (2)
 
 ### 2A Act to bind the Crown
@@ -131,8 +133,16 @@ The rate of duty of Free applies under the Tariff to all goods being the produce
 (2) The Governor-General shall not make an Order in Council under this section which has the effect of imposing on any goods a higher duty than specified in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that such an order is necessary or advisable in the public interest and is in conformity with New Zealand's international obligations.
 (3) Any Order in Council under this section may relate generally to all goods or to goods of any specified class or classes or to goods imported from any specified country or from any specified person.
 
-### 9A
-[Repealed]
+### 9A Certification of 2010 Tariff Document
+(1) The chief executive must, by the close of 31 December 2009,—
+  (a) certify a copy of the Working Tariff Document; and
+  (b) retain that copy.
+(2) Before certifying a copy of the Working Tariff Document under subsection (1), the chief executive must be satisfied that the copy is or includes a full and accurate copy of the contents of Schedule 1—
+  (a) as in force at the close of 31 December 2009; but
+  (b) as amended by any order made under section 9 and that comes into force on 1 January 2010, and also as amended by section 10 of the Tariff (AANZFTA) Amendment Act 2009 (which also comes into force on 1 January 2010).
+(3) The chief executive must ensure that—
+  (a) references in the certified copy to Schedule 3 of the Customs and Excise Act 1996 are replaced with references to the Excise and Excise-equivalent Duties Table; and
+  (b) the certified copy indicates clearly that any information in it that is not the contents of Schedule 1 as described in paragraphs (a) and (b) of subsection (2) does not form part of, or have legal effect as part of, the Tariff (as defined after 31 December 2009).
 
 ### 10 Alterations to nomenclature
 (1) The Governor-General may, from time to time, by Order in Council amend the Tariff—
