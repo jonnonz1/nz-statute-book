@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2009-12-08_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -100,7 +100,6 @@ _Consolidation as at 2009-12-01_
   - **Competent objection** , for the purposes of Part 8 and in relation to a person, being a taxpayer, and to any assessment, means an objection made by the person, to the assessment, in accordance with section 126; but does not include any non-qualifying objection
   - **Consideration** , in section 91 of this Act, has the same meaning as in paragraph (a) of the definition of that term in section YA 1 of the Income Tax Act 2007
   - **Contested act of assistance** is defined in section 173B
-  - **Contested tax** is defined in section 173B
   - **contract payment** , for the purpose of section 141AA, has the meaning given by section YA 1 of the Income Tax Act 2007
   - **Co-operative company** , in section 64 of this Act, has the same meaning as in section YA 1 of the Income Tax Act 2007
   - **Corporation** is defined in section 82(9) for the purposes of that section
@@ -609,7 +608,7 @@ There shall continue to be a Department of State, to be known as the Inland Reve
 (4) The Commissioner may use the methods set out in subsections (5) to (8) to give the notice, subject to any conditions described in the subsection.
 (5) The Commissioner may give the notice by personal delivery to an addressee that is not a corporate body.
 (6) The Commissioner may give the notice by personal delivery to an addressee that is a corporate body, if the personal delivery is made to the addressee's office during working hours.
-(7) The Commissioner may give the notice by an electronic means of communication to the addressee, if the Commissioner complies with the Electronic Transactions Act 2002.
+(7) The Commissioner may give the notice to the addressee by an electronic means of communication unless there are reasonable grounds to suppose that the notice will not be received by the addressee. This subsection overrides the consent provisions of the Electronic Transactions Act 2002.
 (8) The Commissioner may give the notice by post—
   (a) to the street address of the addressee's usual or last known place of residence; or
   (b) to the street address of any of the addressee's usual or last known places of business; or
@@ -1774,7 +1773,7 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
   (c) is a person who the Commissioner considers should furnish a return of income for the tax year.
 (3) A person to whom subsection (2) or subsection (2B) applies for a tax year is required to furnish a return of income for that year and is not a person to whom an income statement is required to be issued.
 (4) Subject to section 80D, the Commissioner may not issue an income statement to a person to whom subsection (1) applies.
-(5) The Commissioner must issue an income statement to a natural person to whom none of section 33A(1), (2) and (2B) applies.
+(5) The Commissioner may issue an income statement to a natural person to whom none of section 33A(1), (2) and (2B) applies.
 
 ### 33B Return not required for certain scheduler gross income
 [Repealed]
@@ -2120,7 +2119,7 @@ An employer that is not required to furnish an employer monthly schedule electro
 (2) A certificate as to whether trees are ornamental or incidental provides conclusive evidence on the question if it is given by—
   (a) a properly authorised officer of the Ministry of Forestry; or
   (b) any other person suitably qualified to give a certificate.
-(3) The question whether trees are planted mainly for the purposes of timber production arises under the definitions of listed horticultural plant and non-listed horticultural plant in section YA 1 of the Income Tax Act 2007 and under schedule 20, part A, item 8 of that Act.
+(3) The question whether trees are planted mainly for the purposes of timber production arises under the definitions of listed horticultural plant and non-listed horticultural plant in section YA 1 of the Income Tax Act 2007 and under schedule 20, part A, item 9 of that Act.
 (4) A certificate as to whether trees are planted mainly for the purposes of timber production provides conclusive evidence on the question if it is given by—
   (a) a properly authorised officer of the relevant regional council; or
   (b) a properly authorised officer of the Ministry of Forestry; or
@@ -2749,12 +2748,8 @@ In addition to the returns mentioned in sections 33, 41 to 44, 63, and 79, every
 (3)
 (4) An income statement to which section 80B(1) refers is to be regarded as not having been issued.
 
-### 80C Natural person to request income statement
-(1) A person to whom section 33A(5) refers and who has not received an income statement must request the Commissioner to issue an income statement.
-(1A) Subsection (1) does not apply to a person who has received resident passive income from which insufficient RWT was withheld due to an error made by the payer.
-(2) The request must be received by the Commissioner no later than the person's terminal tax date for the tax year to which the income statement relates.
-(3)
-(4) A person to whom section 33A(1) applies may at any time after the end of the person's tax year request the issue of an income statement relating to that year.
+### 80C Requests for income statements
+A person to whom section 33A(1) applies may, at any time after the end of the person's tax year, request the issue of an income statement relating to that year.
 
 ### 80D Commissioner must issue income statement
 (1) For each income year, the Commissioner must issue an income statement to a person who the Commissioner considers—
@@ -2764,10 +2759,10 @@ In addition to the returns mentioned in sections 33, 41 to 44, 63, and 79, every
     (iii) dividends; and
   (b) did not derive in the tax year any income that is not referred to in paragraph (a); and
   (c) is a person—
-    (i) to whom section 33A(1) does not apply:
+    (i)
     (ii) to whom section 33A(1) does apply and who requests the Commissioner to issue an income statement:
     (iii) to whom section 33A(1) does apply and who is required by section RD 4(2) of the Income Tax Act 2007 to provide to the Commissioner an employer monthly schedule relating to a PAYE income payment that the person derived in the tax year.
-(2) Despite subsection (1), the Commissioner may issue an income statement to a person at any time if the Commissioner considers the person has received income in a tax year.
+(2) Despite subsection (1), the Commissioner may issue an income statement to a person, or require a person to apply for an income statement, at any time if the Commissioner considers the person has received income in a tax year.
 (3) The Commissioner may issue more than one income statement in respect of a tax year to a person.
 
 ### 80E Particulars to be included in income statement
@@ -3040,9 +3035,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
 
 ### 80KV Statement of family scheme income
 (1) This section applies to a person to whom the Commissioner has given a notice of entitlement for a tax year.
-(2) The person must, in the time within which they are required to file their return of income for the tax year, give the Commissioner a statement setting out—
-  (a) a complete statement of their family scheme income signed by the person; and
-  (b) a complete statement of the family scheme income for the tax year of their spouse, civil union partner, or de facto partner signed by that person.
+(2) The person must, in the time within which they are required to file their return of income for the tax year, give the Commissioner a complete statement of their family scheme income for the tax year, including the family scheme income of their spouse, civil union partner, or de facto partner, as applicable.
 
 ### 80KW Effect of extra instalment on entitlement to tax credit
 (1) This section applies to a person who—
@@ -4220,7 +4213,7 @@ In this Part—
   (b) the Gaming Duties Act 1971; or
   (c) the Goods and Services Tax Act 1985, except sections 12 and 13 of that Act; or
   (d) the Stamp and Cheque Duties Act 1971; or
-  (e) the Income Tax Act 1994, on an application to which section YA 4(1)(a)(i) of the Income Tax Act 2004 applies, except to the extent to which the matter in question is or could have been, before the repeal of the Income Tax Act 1994 the subject of a determination of the Commissioner under—
+  (e) the Income Tax Act 1994, except to the extent to which the matter in question is or could have been, before the repeal of the Income Tax Act 1994 the subject of a determination of the Commissioner under—
     (i) sections 90 or 90AC of this Act in relation to a financial arrangement; or
     (iA) section 90A of this Act in relation to the extent to which a financial arrangement provides funds to a party under the arrangement; or
     (ii) section 91 of this Act in relation to petroleum mining; or
@@ -4228,7 +4221,7 @@ In this Part—
     (iv) any of sections EG 4, EG 10, EG 11, and EG 12 of the Income Tax Act 1994 in relation to depreciable property; or
     (v) section EL 4 of the Income Tax Act 1994 in relation to specified livestock; or
     (vi) section EL 9(3) of the Income Tax Act 1994 in relation to non-specified livestock; or
-  (eb) the Income Tax Act 2004, on an application to which section ZA 4(1)(a)(i) of the Income Tax Act 2007 applies, except to the extent to which the matter in question is or could be the subject of a determination of the Commissioner under—
+  (eb) the Income Tax Act 2004, except to the extent to which the matter in question is or could be the subject of a determination of the Commissioner under—
     (i) sections 90 or 90AC in relation to a financial arrangement; or
     (ii) section 90A in relation to the extent to which a financial arrangement provides funds to a party under the arrangement; or
     (iii) section 91 in relation to petroleum mining; or
@@ -4887,6 +4880,14 @@ A notice of assessment issued on or after 1 April 1995 and relating to return pe
 (1) Subject to sections 89N and 113D, the Commissioner may from time to time, and at any time, amend an assessment as the Commissioner thinks necessary in order to ensure its correctness, notwithstanding that tax already assessed may have been paid.
 (2) If any such amendment has the effect of imposing any fresh liability or increasing any existing liability, notice of it shall be given by the Commissioner to the taxpayer affected.
 
+### 113A Correction of minor errors in subsequent returns
+(1) This section applies for the purposes of this Act and the Goods and Services Tax Act 1985 when—
+  (a) a person has provided a return in which the assessment of their liability for income tax, fringe benefit tax, or goods and services tax contains 1 or more minor errors; and
+  (b) the error was caused by a clear mistake, simple oversight, or mistaken understanding on the person's part; and
+  (c) for a single return, the total discrepancy in the assessment that is caused by the error is $500 or less.
+(2) The Commissioner may allow the person to correct the error in the next return that is due after the discovery of the error.
+(3) For the purposes of subsection (1)(c), the liability the person has for income tax, fringe benefit tax, or goods and services tax is treated separately.
+
 ### 113B Amended assessments if dividend recovered or repaid
 (1) This section applies if—
   (a) a company recovers a dividend from a shareholder under section 56 of the Companies Act 1993 or an equivalent provision of foreign law; or
@@ -5492,7 +5493,7 @@ A disputant is entitled to challenge a disputable decision that is not an assess
     (i) the PAYE rules; or
     (ii) the provisional tax rules; or
     (iii) Any of sections CD 15, CD 19, HD 2, HD 3(2), HD 5(4), HD 15, HD 24, HD 26 to HD 29, LA 6 to LA 8, LJ 1 to LJ 7, RD 3, RM 2 to RM 4, RM 6, RM 8, and RM 10 of the Income Tax Act 2007 and sections 33, 89, 92A,139 (insofar as it applies to unpaid tax for periods before 1 April 1997) and 184 of the Tax Administration Act 1994; or
-    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C,80, 88, 89C, 89K, 89M, 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D,183A,183D, and 183F, 225B of this Act; or
+    (iv) any of sections 21 to 23, 34B, 36 to 46, 58, 62, 63, 78B, 78C,80, 88, 89C, 89K, 89M, 92, 106, 107, 108A, 108B, 109, 110, 111, 113, 114, 120A to 120U, 138I(2B), 138N, 142A, 142C, 146, 150A, 157, 160, 166, 166B, 167, 174AA, 176, 177, 177A to 177D,183A,183D, and 183F, 225B of this Act; or
     (ivb) any of Parts 1 to 3 of the KiwiSaver Act 2006; or
     (v) any of Parts 4, 6, 7 and 11 (other than section 76) of the Goods and Services Tax Act 1985—
   (ea) the Commissioner's interpretation of how a taxation law applies to a person, whether or not the person has come into legal existence, and to an arrangement, whether or not a single or a recurring arrangement, as set out in a binding ruling made under Part 5A; or
@@ -6766,10 +6767,6 @@ This Part applies to tax recovery agreements negotiated between the Government o
 In this Part—
   - **Competent authority** has the meaning provided in a double tax agreement or in a tax recovery agreement and includes the Commissioner
   - **Contested act of assistance** means an act of or on behalf of a competent authority that a person affected by the act considers is inconsistent with a tax recovery agreement or this Part
-  - **Contested tax** means an amount of tax that is contested because—
-    (a) a time limit on a right to object to or to challenge the amount of a tax assessed by the competent authority of the territory outside New Zealand has not expired; or
-    (b) the time limit in paragraph (a) has expired and the person assessed with the amount of tax has made a valid objection or challenge to the amount of the tax assessed; and
-    (c) if paragraph (b) applies, the objection or challenge has not been finally determined by a court or tribunal of competent jurisdiction in the territory:
   - **Tax recovery agreement** means—
     (a) a convention or an agreement negotiated to assist in the recovery of unpaid tax due to either or both of the Governments that are parties to the convention or the agreement that has—
       (i) been brought into effect by Order in Council under section 173C; and
@@ -6801,7 +6798,16 @@ In this Part—
 (3) Part 11 applies to this Part.
 
 ### 173G Limitations on assistance in recovery
-(1) The Commissioner must not assist in recovering an amount of unpaid tax that is contested.
+(1) The Commissioner may assist in recovering an amount of unpaid tax only if—
+  (a) payment of the amount is enforceable under the laws of the state of the applicant requesting assistance under a tax recovery agreement; and
+  (b) the amount is owed by a person who cannot, under the laws of the state of the applicant, prevent collection of the amount.
+(1B) The circumstances in which the Commissioner may provide assistance under this section include the following in relation to the amount of unpaid tax:
+  (a) the period within which the person may exercise a right to contest the assessment has expired:
+  (b) the person has withdrawn an objection in relation to the amount:
+  (c) the person has waived a right to contest the assessment:
+  (d) the person is required to pay some or all of the amount, regardless of any right to contest the assessment:
+  (e) the person is otherwise unable, under the laws of the state of the applicant, to prevent collection of the amount.
+(1C) For the purposes of this section and section 173E(2)(a), the amount referred to in subsection (1) is an uncontested amount.
 (2) Subsection (1) does not apply if, after consultation, the competent authorities determine that the taxpayer to whom the request for assistance relates—
   (a) acknowledges that the amount of unpaid tax will no longer be contested; or
   (b) may leave New Zealand in order to defeat recovery action; or
@@ -8396,3 +8402,34 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 700 Remission on application
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
+
+### 1 Title
+This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
+(2) Sections 102 and 118(20) come into force on the day that the New Zealand Superannuation and Retirement Income Amendment Act 2009 comes into force.
+(3) Section 164 is treated as coming into force on 1 April 1995.
+(4) Sections 149, 150, 151, 152, 153, 155, 157, 158, 160, 161, 162(2), (5), (6), (7), (8), and (9), and 163, and schedule 2, rows 1, and 3 to 13 are treated as coming into force on 1 April 2005.
+(5) Sections 146 and 162(3) are treated as coming into force on 1 July 2007.
+(6) Section 159 and schedule 2, row 2 are treated as coming into force on 1 October 2007.
+(7) Section 154 is treated as coming into force on 19 December 2007.
+(8) Section 162(4) is treated as coming into force on 25 February 2008.
+(9) Section 156 is treated as coming into force on 4 March 2008.
+(10) Sections 4, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 26, 29, 31, 40, 41, 42, 44, 45, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 80(1), 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104(1), 105, 106, 107, 110, 111, 112, 113, 116, 117, 118(2), (3), (4), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (24), (26), (27), (29), (31), (32), and (33), 121, 122(1), 123(1), 125, 126, 135, 139, and schedule 1, rows 2 to 17, 20, 22, 23, and 27 to 44 are treated as coming into force on 1 April 2008.
+(11) Sections 19, 30, 43, and schedule 1, row 21 are treated as coming into force on 1 April 2009.
+(12) Sections 23, 24, 25, 27, 28, and schedule 1, row 18 are treated as coming into force on 30 June 2009.
+(13) Sections 147 and 165 are treated as coming into force on 1 July 2009.
+(14) Sections 166 and 167 are treated as coming into force on 7 October 2009.
+(15) Sections 74, 75, and 76 come into force on 7 January 2010.
+(16) Sections 78(1), 114, 115, 118(21), and schedule 1, row 35 come into force on 1 February 2010.
+(17) Sections 8, 9, 21, 22, 39, 46, 47, 48, 49, 50, 51, 52, 83, 103, 104(2), 108, 109, 118(5), (18), (22), (23), (25), and (36), 120, 122(2), (4), (5), and (6), 123(2) and (3), 124, 130, 131, 132, 133, and 134(1), (2), (3), (4), (5), (6), and (7), and schedule 1, rows 24 to 26 come into force on 1 April 2010.
+(18) Sections 32, 33, 34, 35, 36, 37, 38, 118(6), (19), (28), and (34), and schedule 1, row 19 come into force on 1 July 2010.
+(19) Sections 77, 78(2), (3), and (5), 118(35), 119, 122(3), and schedule 1, row 37 comes into force on 1 April 2011.
+(20) Sections 73, 78(4) and (6), 79, 80(2), 81, 82, 118(30) and (40), and schedule 1, row 36 come into force on 1 April 2013.
+
+## Part 2 — Amendments to Tax Administration Act 1994
+
+### 135 Certificates about trees
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies for the 2008–09 and later income years.
