@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2008-09-16_
+_Consolidation as at 2009-12-08_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -932,6 +932,11 @@ Until the commencement of regulations under this Act prescribing a Police crest 
     (a) means the local authority of which he or she was a member immediately before the commencement of section 99; and
     (b) includes a successor to the local authority concerned
   - **sitting member** means a constable, authorised officer, or supervisor who, immediately before the commencement of section 99, was a member of a local authority.
+
+**Validation of constable's oaths**
+
+### 115A Validation of constable's oaths
+A Police employee or judicial officer who has administered the constable's oath described in section 22(1) in the period that commenced on 1 October 2008 and ended with the close of 12 October 2009 is to be treated as having been authorised, throughout that period, by the Commissioner to administer the oath and as having administered the oath in accordance with section 22.
 
 **Terms relating to Police in other enactments**
 
