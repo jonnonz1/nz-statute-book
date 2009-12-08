@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2009-12-07_
+_Consolidation as at 2009-12-08_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -260,6 +260,8 @@ Agreement for recovery of tax
 (5) An agreement that provides for the recovery of unpaid tax is subject to Part 10A of the Tax Administration Act 1994.
 Reference to profits
 (6) A reference in a double tax agreement to the profits of an activity or business is to be read, if possible, as a reference to the amount that would be a person's net income if that activity or business were their only activity or business.
+Reference to unrelated persons
+(7) A reference in a double tax agreement to 2 persons being unrelated is to be read, if possible, as a reference to 2 persons being not associated.
 
 ## Part C — Income
 
