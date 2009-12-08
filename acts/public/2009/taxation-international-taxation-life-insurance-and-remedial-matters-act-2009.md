@@ -1,5 +1,5 @@
 # Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2009-12-08_
 
 ### 1 Title
 This Act is the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009.
@@ -598,7 +598,7 @@ Section CX 55(1)(b) is replaced by the following:
 (2) Subsection (1) applies—
   (a) for a portfolio investment entity, including a life fund PIE, and the New Zealand Superannuation Fund, for the 2010–11 and later income years:
   (b) for a life insurer, other than in relation to a life fund PIE,—
-    (i) on and after 1 July 2010, unless paragraph (b) applies:
+    (i) on and after 1 July 2010, unless subparagraph (ii) applies:
     (ii) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 64 Portfolio investor allocated income and distributions of income by portfolio investment entities
@@ -8361,9 +8361,7 @@ After section DB 8, the following is inserted:Interest or expenditure connected 
 Section DB 17(3)(a) is repealed.
 
 ### 757 Gifts of money by company
-(1) Section DB 32(3) is replaced by the following:Amount of deduction
-  (3) The deduction for the total of all gifts made in an income year is limited to the amount that would be the company's net income in the corresponding tax year in the absence of this section.
-(2) Subsection (1) applies for the 2007–08 and later income years.
+[Repealed]
 
 ### 758 New section DB 46B inserted
 After section DB 46, the following is inserted:Liabilities for emissionsWhen this section appliesNo deductionLink with subpart DADefined in this Act: amount, deduction, general permission, post-1989 forest land, pre-1990 forest land.
