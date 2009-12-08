@@ -1,5 +1,5 @@
 # Crimes Act 1961
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2009-12-08_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
@@ -1520,18 +1520,10 @@ Culpable homicide is murder in each of the following cases:
   (l) section 267 (arson).
 
 ### 169 Provocation
-(1) Culpable homicide that would otherwise be murder may be reduced to manslaughter if the person who caused the death did so under provocation.
-(2) Anything done or said may be provocation if—
-  (a) in the circumstances of the case it was sufficient to deprive a person having the power of self-control of an ordinary person, but otherwise having the characteristics of the offender, of the power of self-control; and
-  (b) it did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide.
-(3) Whether there is any evidence of provocation is a question of law.
-(4) Whether, if there is evidence of provocation, the provocation was sufficient as aforesaid, and whether it did in fact deprive the offender of the power of self-control and thereby induced him to commit the act of homicide, are questions of fact.
-(5) No one shall be held to give provocation to another by lawfully exercising any power conferred by law, or by doing anything which the offender incited him to do in order to provide the offender with an excuse for killing or doing bodily harm to any person.
-(6) This section shall apply in any case where the provocation was given by the person killed, and also in any case where the offender, under provocation given by one person, by accident or mistake killed another person.
-(7) The fact that by virtue of this section one party to a homicide has not been or is not liable to be convicted of murder shall not affect the question whether the homicide amounted to murder in the case of any other party to it.
+[Repealed]
 
 ### 170 Illegal arrest may be evidence of provocation
-An illegal arrest shall not necessarily reduce the offence from murder to manslaughter; but if the illegality was known to the offender it may be evidence of provocation.
+[Repealed]
 
 ### 171 Manslaughter
 Except as provided in section 178, culpable homicide not amounting to murder is manslaughter.
