@@ -1,5 +1,5 @@
 # Forests Act 1949
-_Consolidation as at 2008-09-26_
+_Consolidation as at 2009-12-08_
 
 > An Act to consolidate and amend the law relating to forestry
 
@@ -408,6 +408,9 @@ The purpose of this Part of this Act is to promote the sustainable forest manage
     (ii) the notice of intention includes or is accompanied by a statement of the source of the timber; and
     (iii) the timber has been presented to a Forestry Officer for inspection and he or she has inspected and approved it, and
   (b) until the expiry of a period (if any) specified for the purposes of this paragraph in the notice of intention.
+(4) For the purposes of this section,—of any length that has a cross-sectional area not exceeding 30 000 square millimetres.
+  (a) sawn beech means sawn beech timber; and
+  (b) sawn rimu means sawn rimu timber—
 
 **Sawmill controls**
 
@@ -681,7 +684,7 @@ In this Part, unless the context otherwise requires,—
   (b) may not exceed the sum of—
     (i) all units received in respect of that proportion of the forest (or their monetary equivalent); and
     (ii) any additional units calculated on the basis of an annual compounding rate of 10% applied to each year's carbon sequestration from that proportion of the forest for the period beginning on the date that the covenant came into force and ending on the date that the breach occurred (or their monetary equivalent).
-(3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 80, or in regulations made under section 168(1)(k) of the Climate Change Response Act 2002 or in any guidelines or standards issued under regulations made under section 163(1)(d) of that Act.
+(3A) Regulations made under subsection (1)(k) may incorporate by reference any form or format for a record, return, or information prescribed under section 90 of the Climate Change Response Act 2002, or in regulations made under section 168(1)(k) of that Act, or in any guidelines or standards issued under regulations made under section 163(1)(d) of that Act.
 (4) However, nothing in this Part requires the Minister to negotiate, enter into, or enforce any provisions of, any forest sink covenant.
 
 ### 67Z Content of forest sink covenants
