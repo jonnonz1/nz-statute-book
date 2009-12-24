@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2009-11-16_
+_Consolidation as at 2009-12-24_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -1646,7 +1646,6 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 | --- | --- | --- | --- | --- | --- |
 |  | s 161 | s 162 | s 163 | s 164 |  |
 | Crown Research Institutes |  |  |  |  |  |
-| New Zealand Fast Forward Fund Limited |  |  |  |  |  |
 | New Zealand Venture Investment Fund Limited |  |  |  |  |  |
 | Radio New Zealand Limited |  |  |  |  |  |
 | Television New Zealand Limited |  |  |  |  |  |
