@@ -1,5 +1,5 @@
 # Finance Act (No 2) 1995
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-01-01_
 
 > An Act to make provision with respect to public finances and other matters
 
@@ -13,7 +13,7 @@ This Part of this Act and Schedule 1 to this Act shall be read together with and
 
 ### 3 Schedule 3 amended
 (1) Schedule 3 to the principal Act (as substituted by section 4(1) of the Customs Amendment Act 1989) is hereby amended by inserting, after Note 3 at the beginning of the Schedule, the following Note:
-  The term KTC means kilogram(s) of tobacco content.
+  (4) The term KTC means kilogram(s) of tobacco content.
 (2) The principal Act is hereby amended by repealing so much of Schedule 3 (as substituted by section 4(1) of the Customs Amendment Act 1989) as relates to Excise item numbers 99.60.16D, 99.60.30K, 99.60.40G, 99.65.10G, 99.65.20D, 99.65.30A, 99.65.40J, 99.65.45K, and 99.65.70L, and substituting the Excise item numbers and rates of duty specified in Schedule 1 to this Act.
 (3) The Excise Duty (Tobacco Products Indexation) Amendment Order (No 2) 1995 (SR 1995/264) is hereby consequentially revoked.
 
@@ -31,53 +31,53 @@ This Part of this Act and Schedule 2 to this Act shall be read together with and
 
 ### 6 Validation of appointments to Clinical Dental Technicians Disciplinary Tribunal and Dental Technicians Disciplinary Tribunal
 (1) In this section,—
-  - **The Act** means the Dental Act 1988
+  - **the Act** means the Dental Act 1988
   - **Clinical Dental Technicians Disciplinary Tribunal** means the Clinical Dental Technicians Disciplinary Tribunal constituted under section 47(1) of the Act
   - **Dental Technicians Disciplinary Tribunal** means the Dental Technicians Disciplinary Tribunal constituted under section 48(1) of the Act
-  - **Relevant period** means the period beginning on the 15th day of October 1992 and ending with the close of the 8th day of August 1995
-  - **Specified person** means—
+  - **relevant period** means the period beginning on the 15th day of October 1992 and ending with the close of the 8th day of August 1995
+  - **specified person** means—
     (a) Judith Margaret Waters, of Christchurch, investment consultant:
     (b) Brent Maxwell Smallbone, of Wellington, Disputes Tribunal Referee and trainer:
-  - **Tribunal** means—
-    (a) The Clinical Dental Technicians Disciplinary Tribunal:
-    (b) The Dental Technicians Disciplinary Tribunal.
+  - **tribunal** means—
+    (a) the Clinical Dental Technicians Disciplinary Tribunal:
+    (b) the Dental Technicians Disciplinary Tribunal.
 (2) Notwithstanding that the specified persons were not appointed as members of each Tribunal in accordance with the Act for the relevant period, the specified persons are hereby deemed to have been on the 15th day of October 1992 lawfully appointed—for a term beginning on that day and ending with the expiry of the relevant period.
-  (a) Under section 47(1)(b) of the Act as members of the Clinical Dental Technicians Disciplinary Tribunal; and
-  (b) Under section 48(1)(b) of the Act as members of the Dental Technicians Disciplinary Tribunal—
+  (a) under section 47(1)(b) of the Act as members of the Clinical Dental Technicians Disciplinary Tribunal; and
+  (b) under section 48(1)(b) of the Act as members of the Dental Technicians Disciplinary Tribunal—
 (3) The validity of—shall be determined having regard to subsection (2) of this section.
-  (a) Every purported meeting of a Tribunal held during the relevant period; and
-  (b) Every action and decision of a Tribunal taken during the relevant period—
+  (a) every purported meeting of a Tribunal held during the relevant period; and
+  (b) every action and decision of a Tribunal taken during the relevant period—
 
 ### 7 Validation of proceedings of Nursing Council and other bodies
 (1) In this section,—
-  - **The Act** means the Nurses Act 1977
-  - **Committee** means a committee of the Council appointed under section 13 of the Act
-  - **Council** means the Nursing Council of New Zealand continued by section 3 of the Act
+  - **the Act** means the Nurses Act 1977
+  - **committee** means a committee of the Council appointed under section 13 of the Act
+  - **council** means the Nursing Council of New Zealand continued by section 3 of the Act
   - **Gillian Grew** means Gillian Dorothy Anne Grew, of Wellington, employee of the Ministry of Health
   - **Pamela Messervy** means Pamela Anne Messervy, of Wellington, former employee of the Ministry of Health
   - **Preliminary Proceedings Committee** means the Preliminary Proceedings Committee constituted under section 12 of the Act
-  - **Relevant period** means the period beginning on the 1st day of July 1993 and ending with the close of the 13th day of August 1995.
+  - **relevant period** means the period beginning on the 1st day of July 1993 and ending with the close of the 13th day of August 1995.
 (2) Notwithstanding that Gillian Grew was not appointed as a member of the Council in accordance with the Act for the relevant period, Gillian Grew is hereby deemed to have been on the 1st day of July 1993 lawfully appointed under section 4(1)(a) of the Act as a member of the Council for a term beginning on that day and ending with the expiry of the relevant period.
 (3) The Act shall apply as if, during the relevant period,—
-  (a) The Act had contained a provision—
-    (i) Providing for the Director-General of Health to authorise a nurse employed in the Ministry of Health to attend any meeting of the Council in place of the person holding office as a member of the Council under section 4(1)(a) of the Act, if that member was unable to attend that meeting; and
-    (ii) Providing that while any person was attending any meeting of the Council pursuant to that provision, that person was deemed for all purposes to be a member of the Council; and
-    (iii) Providing that the fact that any person was so attending any such meeting was sufficient evidence of that person's authority so to do in the absence of proof to the contrary; and
+  (a) the Act had contained a provision—
+    (i) providing for the Director-General of Health to authorise a nurse employed in the Ministry of Health to attend any meeting of the Council in place of the person holding office as a member of the Council under section 4(1)(a) of the Act, if that member was unable to attend that meeting; and
+    (ii) providing that while any person was attending any meeting of the Council pursuant to that provision, that person was deemed for all purposes to be a member of the Council; and
+    (iii) providing that the fact that any person was so attending any such meeting was sufficient evidence of that person's authority so to do in the absence of proof to the contrary; and
   (b) Pamela Messervy had been authorised, pursuant to that provision, to attend meetings of the Council in place of Gillian Grew.
 (4) Notwithstanding that Pamela Messervy was not appointed, in accordance with the Act, as a member of the Council or the Preliminary Proceedings Committee for the relevant period, Pamela Messervy is hereby deemed, in respect of every meeting of the Preliminary Proceedings Committee attended by her during the relevant period, to have been on the 1st day of July 1993 lawfully appointed—for a term beginning on that day and ending with the expiry of the relevant period.
-  (a) Under section 4(1)(a) of the Act as a member of the Council; and
-  (b) Under section 12(2) of the Act as a member of the Preliminary Proceedings Committee—
+  (a) under section 4(1)(a) of the Act as a member of the Council; and
+  (b) under section 12(2) of the Act as a member of the Preliminary Proceedings Committee—
 (5) The validity of—shall be determined having regard to subsections (2) to (4) of this section.
-  (a) Every purported meeting of—held during the relevant period; and
-    (i) The Council:
-    (ii) The Preliminary Proceedings Committee:
-    (iii) A committee—
-  (b) Every action and decision of—taken during the relevant period; and
-    (i) The Council:
-    (ii) The Preliminary Proceedings Committee:
-    (iii) A committee—
-  (c) Every action and decision of the chairman or deputy chairman of the Council taken pursuant to section 5(6) of the Act during the relevant period; and
-  (d) Every action and decision of the convenor of the Preliminary Proceedings Committee taken during the relevant period—
+  (a) every purported meeting of—held during the relevant period; and
+    (i) the Council:
+    (ii) the Preliminary Proceedings Committee:
+    (iii) a committee—
+  (b) every action and decision of—taken during the relevant period; and
+    (i) the Council:
+    (ii) the Preliminary Proceedings Committee:
+    (iii) a committee—
+  (c) every action and decision of the chairman or deputy chairman of the Council taken pursuant to section 5(6) of the Act during the relevant period; and
+  (d) every action and decision of the convenor of the Preliminary Proceedings Committee taken during the relevant period—
 
 ## Part 4 — Amendment to Maritime Transport Act 1994
 
