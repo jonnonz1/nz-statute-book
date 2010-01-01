@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-01-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -7269,8 +7269,8 @@ Exclusion
   (c) section DS 2B applies to the film production expenditure.
 Timing of deduction
 (4) The deduction is allocated under—
-  (a) section EJ 4 (Expenditure incurred in acquiring film rights in feature films) or EJ 5 (Expenditure incurred in acquiring film rights in films other than feature films) if the film is one for which a large budget screen production grant is made; or
-  (b) section EJ 7 (Film production expenditure for New Zealand films having no large budget screen production grant) or EJ 8 (Film production expenditure for other films having no large budget screen production grant) if the film is not one for which a large budget screen production grant is made.
+  (a) section EJ 4 or EJ 5 (which relate to expenditure incurred in acquiring film rights) if the film is one for which a government screen production payment is made; or
+  (b) section EJ 7 or EJ 8 (which relate to film production expenditure) if the film is not one for which a government screen production payment is made.
 No other deduction
 (5) No other deduction for film production expenditure is allowed under a provision of this Act other than section DS 2B.
 Avoidance arrangements
@@ -11928,7 +11928,7 @@ Personal representative
 Feature films
 (1) A deduction for expenditure that a person incurs in acquiring a film right is allocated under this section if the film is a feature film and—
   (a) the deduction is allowed under section DS 1 (Acquiring film rights):
-  (b) the deduction is allowed under section DS 2 (Film production expenditure) and the film is one for which a large budget screen production grant is made.
+  (b) the deduction is allowed under section DS 2 (Film production expenditure) and the film is one for which a government screen production payment is made.
 Timing of deduction: retention of film right
 (2) If the person has the film right at the end of an income year, the deduction that is allocated to the income year is the lesser of—
   (a) the greater of—
@@ -11953,7 +11953,7 @@ Meaning of remaining deduction
 Films other than feature films
 (1) A deduction for expenditure that a person incurs in acquiring a film right is allocated under this section if the film is not a feature film and—
   (a) the deduction is allowed under section DS 1 (Acquiring film rights):
-  (b) the deduction is allowed under section DS 2 (Film production expenditure) and the film is one for which a large budget screen production grant is made.
+  (b) the deduction is allowed under section DS 2 (Film production expenditure) and the film is one for which a government screen production payment is made.
 Timing of deduction: retention of film right
 (2) If the person has the film right at the end of an income year,—
   (a) the deduction that is allocated to the income year in which the film right is acquired or the film is completed, whichever is later, is—
@@ -11983,20 +11983,20 @@ Effect of revocation
 Notice of revocation to Commissioner
 (7) The New Zealand Film Commission must give notice to the Commissioner immediately after revoking a provisional certificate or a final certificate.
 
-### EJ 7 Film production expenditure for New Zealand films having no large budget screen production grant
+### EJ 7 Film production expenditure for New Zealand films having no government screen production payment
 New Zealand films
 (1) A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
-  (a) the film is not one for which a large budget screen production grant is made; and
+  (a) the film is not one for which a government screen production payment is made; and
   (b) the film has a final certificate under section EJ 6.
 Timing of deduction: up to completion of film
 (2) A deduction for film production expenditure incurred in or before the income year in which the film is completed is allocated to the income year in which the film is completed.
 Timing of deduction: after completion of film
 (3) A deduction for film production expenditure incurred after the film is completed is allocated to the income year in which it is incurred.
 
-### EJ 8 Film production expenditure for other films having no large budget screen production grant
+### EJ 8 Film production expenditure for other films having no government screen production payment
 Films other than New Zealand films
 (1) A deduction under section DS 2 (Film production expenditure) for film production expenditure is allocated under this section if—
-  (a) the film is not one for which a large budget screen production grant is made; and
+  (a) the film is not one for which a government screen production payment is made; and
   (b) the film does not have a final certificate under section EJ 6.
 Timing of deduction: up to completion of film
 (2) If the person has a film right at the end of the income year in which the film is completed, the deduction for film production expenditure incurred in or before the income year is allocated as follows:
@@ -37092,12 +37092,6 @@ In this Act, unless the context requires otherwise,—
       (iii) includes the continental shelf; and
       (iv) includes the seabed and subsoil below any sea that is beyond the territorial sea of New Zealand but that, by New Zealand legislation and under international law, has been or may be designated as an area in which the rights of New Zealand relating to natural resources may be exercised
   - **LAQC** means a loss-attributing qualifying company as defined in section HA 3 (Meaning of loss-attributing qualifying company)
-  - **large budget screen production grant** means a payment that—
-    (a) is in the nature of a large budget screen production grant; and
-    (b) is made in relation to a film or television production; and
-    (c) is authorised by the New Zealand Film Commission in relation to a company that—
-      (i) is resident in New Zealand; or
-      (ii) has a permanent establishment in New Zealand
   - **late balance date** has the meaning given in section YE 1(7) (References to balance dates and years)
   - **lease** —
     (a) means a disposition that creates a leasehold estate:
@@ -37141,6 +37135,7 @@ In this Act, unless the context requires otherwise,—
       (ii) includes an assignee of the person in relation to the hire purchase agreement
   - **levy** , for a statutory producer board, means a sum payable by a member of the board under a power of the board to require or request the member to pay an amount of levy
   - **licence-specific assets** is defined in section DZ 5(6) (Farmout arrangements for petroleum mining before 16 December 1991) for the purposes of that section
+  - **life financial reinsurance** is defined in section EY 12 (Meaning of life reinsurance)
   - **life insurance** is defined in sections EY 8 (Meaning of life insurance) and EY 14 (Life insurance and life reinsurance: how sections relate)
   - **Life Insurance Fund** means a Life Insurance Fund as defined in section 15 of the Life Insurance Act 1908 and, for a life insurer, means the life insurer’s Life Insurance Fund
   - **life insurance policy** —
@@ -50096,10 +50091,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
     (a) sections CB 7 to CB 11 (which relate to certain land transactions), except CB 8 (Disposal: land used for landfill, if notice of election):
     (b) section CB 15 (Transactions between associated persons):
     (c) sections FB 3 to FB 5 (which relate to the transfer of land on a settlement of relationship property)
-(108) The definition of large budget screen production grant is repealed.
+(108) Amendments incorporated in the principal Act.
 (109) Amendments incorporated in the principal Act.
-(110) After the definition of licence-specific assets, the following is inserted:.
-  - **life financial reinsurance** is defined in section EY 12 (Meaning of life reinsurance)
+(110) Amendments incorporated in the principal Act.
 (111) After the definition of life financial reinsurance, the following is inserted:.
   - **life fund PIE** means a separate identifiable fund forming part of a life insurer that—
     (a) meets the requirements of section HM 7 (Requirements); and
