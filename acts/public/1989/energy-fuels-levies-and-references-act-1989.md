@@ -1,5 +1,5 @@
 # Energy (Fuels, Levies, and References) Act 1989
-_Consolidation as at 2008-12-23_
+_Consolidation as at 2010-01-01_
 
 ### 1 Title and commencement
 (1) This Act is the Energy (Fuels, Levies, and References) Act 1989.
@@ -13,7 +13,7 @@ In this Act, unless the context otherwise requires,—
   - **biofuel** means any gaseous or liquid fuel produced from biomass that can be used as a fuel for engines
   - **distribution** includes sale
   - **energy** means work or heat that is or may be produced or derived from coal, electricity, gas, geothermal activity, petroleum, petroleum products, uranium, wind, biomass, sun, water, or any other fuel (including engine fuel) or any other source
-  - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines, and includes biofuel, diesel, petrol (which is called motor spirit in Schedule 3 of the Customs and Excise Act 1996), synthetic fuel, and blends of these
+  - **engine fuel** means any gaseous or liquid fuel that can be used as a fuel for engines, and includes biofuel, diesel, petrol (which is called motor spirit in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996)), synthetic fuel, and blends of these
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Secretary** means the chief executive of the Ministry.
@@ -132,12 +132,12 @@ Any consent, licence, permit, approval, or remission, given or granted by the Mi
 
 ### 24 Petroleum or engine fuel monitoring levy
 (1) A levy of 0.045 cents, or such lesser amount as may be prescribed, is payable for each complete litre of petroleum or engine fuel that is,—
-  (a) if no Order in Council is in force under paragraph (b), specified in Schedule 3 of the Customs and Excise Act 1996 as a type of—
+  (a) if no Order in Council is in force under paragraph (b), specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as a type of—
     (i) motor spirit; or
     (ii) diesel; or
     (iii) biodiesel; or
-    (iv) ethyl alcohol specified under the heading Fuels in Part A or B of Schedule 3 of the Customs and Excise Act 1996; or
-  (b) specified in Schedule 3 of the Customs and Excise Act 1996 and prescribed by an Order in Council made on the recommendation of the Minister.
+    (iv) ethyl alcohol specified under the heading Fuels in Part A or B of the Excise and Excise-equivalent Duties Table (as so defined); or
+  (b) specified in the Excise and Excise-equivalent Duties Table (as so defined) and prescribed by an Order in Council made on the recommendation of the Minister.
 (2) The levy must be paid to the New Zealand Customs Service—
   (a) by the person who would be liable to pay excise duty or excise-equivalent duty under the Customs and Excise Act 1996 if any were payable; and
   (b) when any excise duty or excise-equivalent duty would be paid if any were payable.
