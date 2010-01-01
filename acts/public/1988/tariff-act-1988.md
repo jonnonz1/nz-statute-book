@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-01-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -10,6 +10,8 @@ _Consolidation as at 2009-12-08_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **2010 Tariff Document** means the document certified under section 9A(1)
+  - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
+  - **ASEAN** means the Association of South East Asian Nations
   - **chief executive** means the chief executive of the Ministry of Economic Development
   - **Collector**
   - **Comptroller**
@@ -20,11 +22,13 @@ _Consolidation as at 2009-12-08_
   - **Goods** means all kinds of movable personal property, including animals
   - **Imported** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Importer** means any person by or for whom any goods are imported; and includes the consignee of any goods and any person who is or becomes the owner of or entitled to the possession of or beneficially interested in any goods on or at any time after their importation and before they have ceased to be subject to the control of the Customs
-  - **Least developed country** means any country for the time being declared by Order in Council, under section 7 of this Act, to be a least developed country for the purposes of this Act
-  - **Less developed country** means any country for the time being declared by an Order in Council, under section 7 of this Act, to be a less developed country for the purposes of this Act
+  - **least developed country** means any country for the time being declared by Order in Council, under section 7A(1)(c), to be a least developed country for the purposes of this Act
+  - **less developed country** means any country for the time being declared by an Order in Council, under section 7A(1)(d), to be a less developed country for the purposes of this Act
   - **Manufacturing area** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Minister** means the Minister of Commerce
   - **Normal Tariff** means the rates of duty and the exemptions from duty specified in the column headed Normal Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
+  - **preferential abbreviation** has the meaning given to it by section 7(3)
+  - **preferential country** has the meaning given to it by section 7(3)
   - **Preferential Tariff** means the rates of duty and the exemptions from duty specified in the column headed Preferential Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **Prescribed** in relation to forms includes prescribed by the chief executive
   - **Rate of duty** includes the term Free
@@ -32,10 +36,13 @@ _Consolidation as at 2009-12-08_
   - **Ship** means any kind of vessel used in navigation, not propelled by oars only
   - **Shipment** includes loading into an aircraft; and to ship and cognate expressions have corresponding meanings
   - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on the 14th day of July 1980; and includes any modification or amendment of it made after that day
-  - **specified TPA party** means a country that is for the time being declared by Order in Council to be a specified TPA party for the purposes of this Act
+  - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)(a) to be a specified AANZFTA party for the purposes of this Act
+  - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)(b) to be a specified TPA party for the purposes of this Act
   - **Standard Tariff** means Standard Tariff comprised in Part 1 of the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **Statistical key** means the code number and unit identified by 2 numeric and one alphabetical digits shown under the heading Statistical Key in the Standard Tariff and includes all the descriptions shown beside such numbers preceded by dots
-  - **Tariff** means the Tariff of New Zealand (comprising the Standard Tariff set out in Part 1 thereof and the provisions set out in Part 2 thereof), as set out in Schedule 1 to this Act; and includes all notes to the Tariff, or to any Part, section, chapter, subchapter, heading, subheading, or item thereof, set out in that Schedule; and also includes any modification or amendment of the Tariff or of the said notes that may hereafter be made
+  - **Tariff** —
+    (a) means the Tariff of New Zealand as set out in the 2010 Tariff Document; but
+    (b) if, and in so far as, the Tariff referred to in paragraph (a) is on or after 1 January 2010 from time to time amended, modified, or revoked and replaced, then despite paragraph (a) means that Tariff as from time to time amended, modified, or revoked and replaced
   - **Tariff heading** or , means a heading of the Standard Tariff (printed in bold type), being a heading of the Harmonised System established by the International Convention on the Harmonised Commodity Description and Coding System signed in Brussels on the 14th day of June 1983 and identified by 4 digits; and includes any modification or amendment thereof that may hereafter be made
   - **Tariff item** means a Tariff item of the Standard Tariff identified by 8 digits; and includes a heading thereto so identified
   - **Tariff subheading** , or , means a subheading appearing in the Standard Tariff and identified by 6 digits or not identified by any number.
@@ -46,8 +53,13 @@ _Consolidation as at 2009-12-08_
 ### 2A Act to bind the Crown
 This Act binds the Crown.
 
-### 3 The tariff
-Subject to the provisions of this Act, duties shall be levied, collected, and paid in accordance with the Tariff, as set out in Schedule 1 to this Act , or with a transitional safeguard measure or a provisional transitional safeguard measure, as the case may require, on goods imported into New Zealand or entered therein for home consumption or entered therein for delivery to a manufacturing area after the commencement of this Act.
+### 3 The Tariff
+(1) Duties must be levied, collected, and paid in accordance with the Tariff, or with a transitional safeguard measure or a provisional transitional safeguard measure, as the case may require, on goods to which this subsection applies.
+(2) Subsection (1) applies to goods that, after the commencement on 1 December 1988 of this Act, are—
+  (a) imported into New Zealand; or
+  (b) entered therein for home consumption; or
+  (c) entered therein for delivery to a manufacturing area.
+(3) Subsection (1) is subject to the provisions of this Act.
 
 ### 3A Removal of all tariff duties by no later than 1 July 2006
 [Repealed]
@@ -66,61 +78,82 @@ Except as otherwise expressly provided in this Act, the value of any imported go
 Subject to this Act, the duty (if any) payable under the Normal Tariff shall be paid on all goods imported into New Zealand or entered therein for home consumption or entered therein for delivery to a manufacturing area.
 
 ### 7 Application of Tariff
-(1) The application of the Tariff shall be in accordance with the following provisions, namely:
-  (a) In the case of goods—at the rate so specified:
-    (i) Being the produce or manufacture of Australia; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation AU in the column headed Preferential Tariff,—
-  (b) In the case of goods—at the rate so specified:
-    (i) Being the produce or manufacture of Canada; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation CA in the column headed Preferential Tariff,—
-  (c) In the case of goods—at the rate so specified:
-    (i) Being the produce or manufacture of Malaysia; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation MY in the column headed Preferential Tariff,—
-  (d) In the case of goods—at the rate so specified:
-    (i) Being the produce or manufacture of the United Kingdom of Great Britain and Northern Ireland, the Isle of Man, or the Channel Islands; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation GB in the column headed Preferential Tariff,—
-  (e) In the case of goods—at the rate so specified, unless by virtue of any Order in Council made under this section the said rate of duty does not apply to that country:
-    (i) Being the produce or manufacture of any country (other than New Zealand or Australia) in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement is in force; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation Pac in the column headed Preferential Tariff,—
-  (f) In the case of goods—at the rate so specified, unless by virtue of any Order in Council made under this section the said rate of duty does not apply to that country:
-    (i) Being the produce or manufacture of a less developed country; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation LDC in the column headed Preferential Tariff,—
-  (g) In the case of goods—at the rate so specified, unless by virtue of any Order in Council under this section, the said rate of duty does not apply to that country:
-    (i) Being the produce or manufacture of a least developed country; and
-    (ii) Being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation LLDC in the column headed Preferential Tariff,—
-  (h) in the case of goods—at the rate so specified.
-    (i) being the produce or manufacture of Thailand; and
-    (ii) being goods included in a tariff item in respect of which a rate of duty is specified after the abbreviation TH in the column headed Preferential tariff',—
-  (i) in the case of goods—at the rate so specified.
-    (i) being the produce or manufacture of a specified TPA party; and
-    (ii) being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation TPA in the column headed Preferential Tariff,—
-  (j) in the case of goods—at the rate so specified.
-    (i) being the produce or manufacture of China; and
-    (ii) being goods included in a Tariff item in respect of which a rate of duty is specified after the abbreviation CN in the column headed Preferential Tariff,—
-(1A) For the purposes of subsection (1)(e)(i) of this section, any certificate given by the Secretary of Foreign Affairs and Trade to the effect that any country is or is not one in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement was in force shall be conclusive evidence of that fact.
-(1B) Any Court or any person acting judicially to which or to whom, in any proceeding, any certificate under subsection (1A) of this section is produced shall take judicial notice of the signature on it of the Secretary of Foreign Affairs and Trade.
-(1C) For the purposes of subsection (1B) of this section, the terms Court, person acting judicially, and proceeding have the meanings assigned to them by the Evidence Act 1908.
-(2) Notwithstanding anything in subsection (1) of this section, the Governor-General may from time to time, by Order in Council,—
-  (a) Declare any country to be a less developed country for the purposes of this Act:
-  (b) Declare that any country shall cease to be a less developed country for the purposes of this Act:
-  (c) Declare any country to be a least developed country for the purposes of this Act:
-  (d) Declare that any country shall cease to be a least developed country for the purposes of this Act.
-(3) Where, by any Order in Council made under subsection (2) of this section, any country is declared to be either a less developed country or to be a least developed country for the purposes of this Act, the Governor-General may by the same or any subsequent Order in Council,—
-  (a) Declare that, in relation to any specified Tariff items, any rates of duty or exemptions from duty otherwise applicable to any of the less developed countries or to any of the least developed countries shall not apply to that country:
-  (b) Modify the Tariff rates of duty applicable to goods from that country, in whole or in part, but so that such modification shall not have the effect of imposing on any goods a higher duty than that set forth in respect of those goods in the Normal Tariff.
-(4) The liability to duty of any goods being the produce or manufacture of any country shall for the purposes of this section be determined according to the status of that country at the time when the goods are imported into New Zealand.
-(5) The Governor-General may, by Order in Council, declare a country to be a specified TPA party for the purposes of this Act if the country—
-  (a) is a party to the TPA; or
-  (b) is provisionally applying the terms of the TPA.
-(6) If, by an Order in Council made under subsection (5), a country is declared to be a TPA party for the purposes of this Act, the Governor-General may, by the same or any subsequent Order in Council,—
-  (a) declare that, in relation to any specified Tariff items, any rate of duty or exemption from duty otherwise applicable to a specified TPA party is not to apply to that country:
-  (b) modify the Tariff rates of duty applicable to goods from that country, in whole or in part.
-(7) No modification made under subsection (6)(b) may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
+(1) The Tariff applies to goods in a Tariff item that are the product or manufacture of a preferential country at the rate—
+  (a) specified after the preferential abbreviation (if any) in the column of the Tariff headed Preferential Tariff; or
+  (b) specified in some other way (for example, in a footnote or other indicator) in the Tariff by reference to the preferential country or the preferential abbreviation.
+  (c) specified in an agreement or document incorporated into an Order in Council in reliance on section 7C by reference to the preferential abbreviation or to the preferential country.
+(2) The liability to duty of any goods that are the produce or manufacture of a country must, for the purposes of this section, be determined according to the status of that country at the time when the goods are imported into New Zealand.
+(3) In this section, unless the context otherwise requires,—
+  - **preferential abbreviation** , in relation to a preferential country listed or described in the first column of note 3 of the Tariff, means the abbreviation specified opposite that country in the second column of that note
+  - **preferential country** means a country listed or described in the first column of note 3 of the Tariff.
+
+### 7A Orders in Council about preferential countries
+(1) The Governor-General may, by Order in Council, do all or any of the following:
+  (a) declare a country that is a party to the AANZFTA to be a specified AANZFTA party for the purposes of this Act:
+  (b) declare a country to be a specified TPA party for the purposes of this Act if the country—
+    (i) is a party to the TPA; or
+    (ii) is provisionally applying the terms of the TPA:
+  (c) declare a country to be, or not to be, a least developed country for the purposes of this Act:
+  (d) declare a country to be, or not to be, a less developed country for the purposes of this Act.
+(2) The Governor-General may, by an Order in Council making a declaration under subsection (1) about a country or any other Order in Council relating to that country,—
+  (a) declare that, in relation to any specified Tariff items, any rate of duty or exemption from duty otherwise applicable to that country is not to apply to that country:
+  (b) modify, in whole or in part, the Tariff rates of duty applicable to goods from that country.
+(3) No modification under subsection (2)(b) relating to a specified TPA party or a specified AANZFTA party may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff, unless the Governor-General is satisfied that the modification is—
   (a) necessary or advisable in the public interest; and
   (b) consistent with New Zealand's international obligations.
+(4) No modification under subsection (2)(b) relating to a less developed country or a least developed country may have the effect of imposing on any goods a higher duty than that set out in respect of those goods in the Normal Tariff.
 
-### 7A Application of Tariff to goods of Singaporean origin
-The rate of duty of Free applies under the Tariff to all goods being the produce or manufacture of Singapore.
+### 7B Evidence of whether South Pacific Regional Trade and Economic Co-operation Agreement is in force in relation to country
+(1) A certificate given by the Secretary of Foreign Affairs and Trade to the effect that any country is or is not one in relation to which, at the time of the importation or entry of the goods into New Zealand, the South Pacific Regional Trade and Economic Co-operation Agreement was in force for the purposes of this Act is conclusive evidence of that fact.
+(2) Any court or any person acting judicially to which or to whom, in any proceeding, any certificate under subsection (1) is produced must take judicial notice of the signature on it of the Secretary of Foreign Affairs and Trade.
+(3) For the purposes of this section,—
+  - **court** includes the Supreme Court, the Court of Appeal, the High Court, and any District Court
+  - **District Court** includes—
+    (a) a Family Court; and
+    (b) a Youth Court
+  - **person acting judicially** means any person having in New Zealand by law authority to hear, receive, and examine evidence
+  - **proceeding** means—
+    (a) a proceeding conducted by a court; and
+    (b) any interlocutory or other application to a court connected with a proceeding.
+
+### 7C Incorporation of provisions by reference in regulations
+(1) An Order in Council made under section 9 or 10 may incorporate by reference any provisions set out in—
+  (a) an international trade agreement to which New Zealand is a party (for example, a free trade agreement); or
+  (b) another document made to give effect to such an agreement.
+(2) The provisions may be incorporated in the Order in Council—
+  (a) in whole or in part; and
+  (b) with modifications, additions, or variations specified in the regulations.
+(3) The incorporated provisions—
+  (a) are the provisions as they exist at the time that the Order in Council is made; and
+  (b) form part of the Order in Council for all purposes and have legal effect accordingly.
+
+### 7D Effect of amendments to, or replacement of, provisions incorporated by reference
+An amendment to, or replacement of, provisions incorporated under section 7C has legal effect as part of the Order in Council only if an Order in Council is made that states that the particular amendment or replacement has that effect.
+
+### 7E Proof of provisions incorporated by reference
+(1) A copy of the provisions incorporated under section 7C, including any amendment to, or replacement of, the provisions, must be—
+  (a) certified as a correct copy of the provisions by the chief executive; and
+  (b) retained by the chief executive.
+(2) The production in proceedings of a certified copy of the provisions is, in the absence of proof to the contrary, sufficient evidence of the incorporation in the Order in Council of the provisions.
+
+### 7F Access to provisions incorporated by reference
+(1) The chief executive must—
+  (a) ensure that copies of any provisions incorporated under section 7C are available for inspection during working hours, free of charge, at places specified in a notice given under paragraph (d); and
+  (b) ensure that copies of the provisions are published on an Internet site that is, so far as practicable, publicly available free of charge; and
+  (c) ensure that copies of the provisions are available for purchase at a reasonable price at places specified in a notice given under paragraph (d); and
+  (d) give notice in the Gazette stating that—
+    (i) the provisions are incorporated in a particular Order in Council and the date on which the Order in Council was made; and
+    (ii) copies of the provisions are available (at all reasonable times) for inspection during working hours, free of charge, at specified places; and
+    (iii) copies of the provisions are available on a specified Internet site; and
+    (iv) copies of the provisions can be purchased at specified places.
+(2) A failure to comply with this section does not invalidate an Order in Council that incorporates provisions under section 7C.
+
+### 7G Acts and Regulations Publication Act 1989 not applicable to provisions incorporated by reference
+The Acts and Regulations Publication Act 1989 does not apply to provisions incorporated under section 7C or to an amendment to, or replacement of, those provisions.
+
+### 7H Application of Regulations (Disallowance) Act 1989 to provisions incorporated by reference
+(1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires provisions incorporated under section 7C to be laid before the House of Representatives.
+(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1) of this section, applies to an Order in Council that incorporates provisions under section 7C.
 
 ### 8 Concessions
 (1) The Minister may from time to time, in the Minister's discretion and in accordance with Part 2 of the Tariff, approve in respect of the entry of goods—the appropriate rate of duty or exemption specified in Part 2.
@@ -143,6 +176,45 @@ The rate of duty of Free applies under the Tariff to all goods being the produce
 (3) The chief executive must ensure that—
   (a) references in the certified copy to Schedule 3 of the Customs and Excise Act 1996 are replaced with references to the Excise and Excise-equivalent Duties Table; and
   (b) the certified copy indicates clearly that any information in it that is not the contents of Schedule 1 as described in paragraphs (a) and (b) of subsection (2) does not form part of, or have legal effect as part of, the Tariff (as defined after 31 December 2009).
+
+### 9B Access to Tariff
+(1) The chief executive must—
+  (a) ensure that copies of the documents referred to in subsection (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 9 of the Acts and Regulations Publication Act 1989.
+(2) The documents are—
+  (a) the Tariff as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
+  (b) the 2010 Tariff Document; and
+  (c) Orders in Council amending or modifying the Tariff and made under section 9 or 10 on or after 1 January 2010.
+(3) Every version of the Tariff referred to in subsection (2)(a) and published or made available under subsection (1) must—
+  (a) indicate that it is the Tariff as in force at the beginning of a stated date; and
+  (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of the Tariff.
+(4) Nothing in section 9A or this section prevents the chief executive from ensuring that other information is published or made available with the Tariff, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, the Tariff.ExampleExamples of other information are—the Excise and Excise-equivalent Duties Table (as that term is defined in the Customs and Excise Act 1996):details of prohibited imports:tables explaining the correlation between former and current Tariff items.
+
+### 9C Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
+Orders in Council amending or modifying the Tariff made under section 9 or 10 on or after 1 January 2010—
+  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
+  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+
+### 9D Judicial notice of Tariff
+Judicial notice must be taken by all courts and persons acting judicially of the Tariff.
+
+### 9E Evidence of Tariff
+Every copy of the documents referred to in section 9B(2) purporting to be published or made available under the authority of the chief executive is, unless the contrary is shown, deemed—
+  (a) to be a correct copy of the document; and
+  (b) to have been so published or made available.
+
+### 9F Tariff may be amended, and must be interpreted, as if it were an enactment
+(1) The Tariff may be amended, revoked, or revoked and replaced by an Act of Parliament as if it were an Act of Parliament.
+(2) The Tariff may be altered or amended by an Order in Council made under section 9 or 10 as if it were a regulation.
+(3) The Interpretation Act 1999 applies to the Tariff as if it were an enactment.
+(4) Nothing in this Act limits or affects the application of—
+  (a) the Acts and Regulations Publication Act 1989 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Tariff, this Act (either alone or with other enactments), or both; or
+  (b) the Interpretation Act 1999 to an Order in Council made under section 9 or 10.
+
+### 9G References to Schedule 1
+Every reference in the following to the Tariff or to Schedule 1 of the Tariff Act 1988 must be read as if it were a reference to the Tariff (as defined by section 2 of the Tariff Act 1988 as amended by section 6(1) of the Tariff Amendment Act 2009):
+  (a) an enactment not added, amended, inserted, or substituted by the Tariff Amendment Act 2009 and in force at the commencement of this section:
+  (b) a document in operation at that commencement.
 
 ### 10 Alterations to nomenclature
 (1) The Governor-General may, from time to time, by Order in Council amend the Tariff—
@@ -185,7 +257,8 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
   - **directly competitive goods** , in relation to any goods, means goods that, as a matter of fact and commercial common sense, are substitutable for imported goods
   - **free trade agreement** means—
     (a) the Thai FTA; or
-    (b) the China FTA
+    (b) the China FTA; or
+    (c) the AANZFTA and AANZFTA side instruments that relate to safeguards
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
@@ -261,7 +334,7 @@ The Minister may extend a transitional safeguard measure applied under section 1
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
   (b) there exist,—
     (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
-    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, critical circumstances; and
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA or the AANZFTA, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
@@ -308,9 +381,6 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (5) Regulations 92 and 98 of the Customs Regulations 1968 are hereby revoked.
 
 ## Schedule 1 — The Tariff
-
-| The Working Tariff Document of New Zealand is not available on this website. For the latest version of The Working Tariff Document of New Zealand see www.customs.govt.nz. |
-| --- |
 
 ## Schedule 2 — Enactments amended
 
