@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-01-01_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -10,6 +10,7 @@ _Consolidation as at 2009-12-08_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
+  - **2010 Excise and Excise-equivalent Document** has the meaning given in section 76A
   - **aircraft** means a machine that can derive support in the atmosphere from the reaction of the air
   - **Armed Forces** has the meaning given to that term by section 2 of the Defence Act 1990
   - **arrival** ,—
@@ -103,7 +104,11 @@ _Consolidation as at 2009-12-08_
     (e) levies imposed by section 213(2)(c) of the Injury Prevention, Rehabilitation, and Compensation Act 2001:
     (f) levies imposed by the Energy (Fuels, Levies, and References) Act 1989
   - **electronic publication** means a thing (including, but not limited to, a disc, or an electronic or computer file) on which is recorded or stored information that, by the use of a computer or other electronic device, is capable of being reproduced or shown as 1 or more (or a combination of 1 or more) images, representations, signs, statements, or words
-  - **excisable goods** means goods on which excise duty is payable in accordance with Part A of Schedule 3 to this Act
+  - **excisable goods** means goods on which excise duty is payable in accordance with Part A of the Excise and Excise-equivalent Duties Table
+  - **Excise and Excise-equivalent Duties Table** has the meaning given in section 76A
+  - **excise item number** —
+    (a) means excise items that appear in the Excise and Excise-equivalent Duties Table and are identified by 6 digits and 1 alphabetical check letter; and
+    (b) includes the heading to those excise items that appear in that Table and are identified in that way
   - **exportation** ,—
     (a) except where otherwise expressly provided, means any shipment in any craft for transportation to a point outside New Zealand; and
     (b) in relation to an electronic publication referred to in section 56, includes the sending of the electronic publication from New Zealand by any means (other than by broadcasting) to a point outside New Zealand
@@ -127,7 +132,7 @@ _Consolidation as at 2009-12-08_
     (a) began outside New Zealand; or
     (b) began in New Zealand and is to continue outside New Zealand
   - **liquefied petroleum gas** means propane, propylene, butane, butylene, or isobutane; and includes a mixture consisting wholly or principally of any such substance, whether or not the mixture contains any other hydrocarbon
-  - **manufacture** , in relation to goods specified in Schedule 3, means,—
+  - **manufacture** , in relation to goods specified in the Excise and Excise-equivalent Duties Table, means,—
     (a) if the goods are tobacco, the process of cutting, pressing, grinding, crushing, or rubbing raw or leaf tobacco, or otherwise preparing raw or leaf tobacco or manufactured or partially manufactured tobacco, and of making cigarettes whether from duty-paid or from non-duty-paid tobacco, and of putting up for use or consumption scraps, waste, chippings, stems, or deposits of tobacco resulting from processing tobacco:
     (b) if the goods are a fuel, any operation, or process, involved in the production of the goods:
     (c) if the goods are neither tobacco nor a fuel,—
@@ -176,9 +181,9 @@ _Consolidation as at 2009-12-08_
   (a) the term alcoholic strength means alcoholic strength by volume at a temperature of 20ºC:
   (b) the alcoholic strength by volume of a mixture of water and ethyl alcohol is the ratio of the volume of alcohol present in the mixture at 20ºC to the total volume of the mixture at the same temperature:
   (c) the expressions percent volume and % vol are used to express alcoholic strength in parts of alcohol per 100 parts of the mixture:
-  (d) the term ‘per litre’, in respect of the levying of excise duty, for all Excise items under the heading fuels in Part A of Schedule 3, means the quantity of product expressed in litres at a temperature of 15°C:
-  (e) the term ‘per litre’, in respect of the levying of excise-equivalent duty, for all Tariff items under the heading fuels in Part B of Schedule 3, means the quantity of product expressed in litres at a temperature of 15°C.
-(3) For the purposes of paragraph (c)(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in Schedule 3 that are neither tobacco nor a fuel, means any 1 or more of the following processes:
+  (d) the term per litre, in respect of the levying of excise duty, for all excise items under the heading Fuels in Part A of the Excise and Excise-equivalent Duties Table, means the quantity of product expressed in litres at a temperature of 15°C:
+  (e) the term per litre, in respect of the levying of excise-equivalent duty, for all Tariff items under the heading Fuels in Part B of the Excise and Excise-equivalent Duties Table, means the quantity of product expressed in litres at a temperature of 15°C.
+(3) For the purposes of paragraph (c)(ii) of the definition of manufacture in subsection (1), the term ancillary process, in relation to the manufacture of goods specified in the Excise and Excise-equivalent Duties Table that are neither tobacco nor a fuel, means 1 or more of the following processes:
   (a) filtering the goods, diluting the goods, or blending the goods with other goods (whether the other goods are the same as, similar to, or different from, the goods):
   (b) putting the goods for the first time into a container (for example, a bag, barrel, bottle, can, cask, drum, or keg) in which they might be presented, or from which they might be dispensed, for sale to the public or any member of the public:
   (c) labelling or marking, for the first time, containers filled with the goods.
@@ -245,7 +250,7 @@ The Customs flag shall be the New Zealand Ensign with the addition in the fly of
 
 ### 10 Customs controlled areas
 Subject to such exemptions as may be prescribed and to sections 12(4), 68A, and 68B of this Act, no area shall be used for—unless that area is licensed as a Customs controlled area.
-  (a) the manufacture of goods specified in Part A of Schedule 3 to this Act; or
+  (a) the manufacture of goods specified in Part A of the Excise and Excise-equivalent Duties Table; or
   (b) the deposit, keeping, or securing of imported or excisable goods, without payment of duty on the goods, pending the export of those goods; or
   (c) the temporary holding of imported goods for the purposes of the examination of those goods under section 151 of this Act (including the holding of the goods while they are awaiting examination); or
   (d) the disembarkation, embarkation, or processing of persons arriving in or departing from New Zealand; or
@@ -1173,13 +1178,24 @@ For the purposes of this Act, unless the context otherwise requires, the terms N
 (2) If any question arises as to the country to which any ship belongs for the purposes of subsection (1) of this section, the question shall be determined by the Chief Executive.
 (3) A person who is dissatisfied with a decision of the Chief Executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to the Customs Appeal Authority against that decision.
 
-### 64A New Zealand certificates of origin for goods for export to China
-(1) A body authorised by the chief executive under section 64B (a certification body) may issue a New Zealand certificate of origin in respect of goods for export to China.
-(2) A New Zealand certificate of origin, in respect of goods for export to China, is a document issued by a certification body that—
+### 64A New Zealand certificates of origin for goods for export to party to free trade agreement
+(1) A body authorised by the chief executive under section 64B (a certification body) in relation to a party to a free trade agreement may issue a New Zealand certificate of origin in respect of goods for export to that party.
+(2) A New Zealand certificate of origin, in respect of goods for export to a party to a free trade agreement, is a document issued by a certification body that—
   (a) identifies the goods to which it relates; and
   (b) certifies that those goods originate in New Zealand.
-(3) Goods originate in New Zealand if, for the purposes of the China FTA, the goods satisfy the requirements of the rules of origin prescribed for the China FTA.
-(4) For the purposes of this section, China FTA means the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008.
+(3) Goods originate in New Zealand if, for the purposes of the relevant free trade agreement, the goods satisfy the requirements of the rules of origin prescribed for that agreement.
+(3A) The Governor-General may, by Order in Council, declare a country that is a party to the AANZFTA to be a specified AANZFTA party for the purposes of this Act.
+(4) For the purposes of this section,—
+  - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
+  - **ASEAN** means the Association of South East Asian Nations
+  - **China FTA** means the Free Trade Agreement between the Government of New Zealand and the Government of the People's Republic of China done at Beijing on 7 April 2008
+  - **free trade agreement** means—
+    (a) the China FTA; or
+    (b) the AANZFTA
+  - **party to a free trade agreement** means,—
+    (a) in relation to the China FTA, China; or
+    (b) in relation to the AANZFTA, a specified AANZFTA party
+  - **specified AANZFTA party** means a country that is for the time being declared by Order in Council to be a specified AANZFTA party for the purposes of this Act.
 
 ### 64B Bodies authorised to issue New Zealand certificates of origin
 ((1)) The chief executive may designate a body as a certification body if the chief executive is satisfied that the body meets the prescribed criteria (if any).
@@ -1218,7 +1234,8 @@ Without limiting the power to make regulations conferred by section 286, the Gov
 ## Part 7 — Excise and excise-equivalent duties
 
 ### 68 Manufacture of excisable goods
-Subject to such exceptions as may be provided for under this Act, no person shall manufacture goods specified in Part A of Schedule 3 to this Act except in a manufacturing area that is licensed under this Act.
+(1) No person may manufacture goods specified in Part A of the Excise and Excise-equivalent Duties Table except in a manufacturing area that is licensed under this Act.
+(2) Subsection (1) is subject to any exceptions provided for under this Act.
 
 ### 68A Exemption for tobacco manufactured for personal use
 (1) Section 68 does not apply to the manufacture of tobacco in a private house or dwelling place, but only if and as long as the conditions specified in subsection (2) are met.
@@ -1239,7 +1256,7 @@ For the purposes of this Act,—
   (b) goods on which work has been done by a contractor shall be deemed to have been manufactured by the contractor.
 
 ### 70 Entry of excisable goods
-(1) Subject to any regulations made under section 71 of this Act, all goods that are specified in Part A of Schedule 3 to this Act must, on removal from a Customs controlled area, be entered —
+(1) Subject to any regulations made under section 71, all goods that are specified in Part A of the Excise and Excise-equivalent Duties Table must, on removal from a Customs controlled area, be entered—
   (a) in such form and manner (including by electronic means into a computer or other device) as may be prescribed; and
   (b) within such time as may be prescribed.
 (1A) Goods required to be entered under subsection (1) must be entered—
@@ -1262,7 +1279,7 @@ For the purposes of this Part of this Act, goods are deemed to be removed for ho
   (c) removed for export or to an export warehouse.
 
 ### 73 Excise duty on goods manufactured in manufacturing areas
-(1) In respect of all goods that are manufactured in a manufacturing area and that are specified in Part A of Schedule 3 to this Act there shall be levied, collected, and paid excise duties, if any, at the appropriate rates set out in Part A of Schedule 3 to this Act.
+(1) In respect of all goods that are manufactured in a manufacturing area and that are specified in Part A of the Excise and Excise-equivalent Duties Table there must be levied, collected, and paid excise duties, if any, at the appropriate rates set out in Part A of the Excise and Excise-equivalent Duties Table.
 (2) Subsection (1) of this section does not apply to beer manufactured in quantities of not more than 100 litres per month by an individual other than the licensee where—
   (a) the beer is exclusively for that individual's personal use and not for sale to any other person; and
   (b) the licensee of the premises does not engage in any aspect or part of the brewing or bottling operation and provides no equipment, ingredients, or service other than—
@@ -1281,17 +1298,17 @@ For the purposes of this Part of this Act, goods are deemed to be removed for ho
 (4) Notwithstanding anything in this Part of this Act, if the excise duty is a combination of a specific rate and an ad valorem rate, the excise duty payable shall be determined as the aggregate of—
   (a) the amount of excise duty calculated by applying the specific rate; and
   (b) the amount of excise duty calculated by applying the ad valorem rate to the value for duty.
-(5) For the purposes of this section, wine means the goods referred to in any of excise item numbers 99.20.20L, 99.25.20B, 99.30.21D, 99.30.26E, 99.30.32K, and 99.30.47H of Part A of Schedule 3.
+(5) For the purposes of this section, wine means the goods referred to in any of excise item numbers 99.20.20L, 99.25.20B, 99.30.21D, 99.30.26E, 99.30.32K, and 99.30.47H of Part A of the Excise and Excise-equivalent Duties Table.
 
 ### 74 Excise duty on goods manufactured outside manufacturing area
-(1) Subject to subsection (2) of this section, where goods specified in Part A of Schedule 3 to this Act are manufactured in an area that is not licensed pursuant to section 12 of this Act, the provisions of this Part and Part 8 of this Act shall apply as if the area were licensed as a manufacturing area under this Act.
+(1) Subject to subsection (2), where goods specified in Part A of the Excise and Excise-equivalent Duties Table are manufactured in an area that is not licensed pursuant to section 12, the provisions of this Part and Part 8 apply as if the area were licensed as a manufacturing area under this Act.
 (2) Subsection (1) of this section does not apply in respect of goods—
   (a) that are manufactured in an area that pursuant to a direction of the Chief Executive under section 12(4) of this Act is not required to be licensed; or
   (b) that are covered by an exemption prescribed under section 10 of this Act; or
   (c) that are manufactured in accordance with the conditions specified by section 68A or 68B.
 
 ### 75 Excise-equivalent duty on imported goods
-(1) Subject to this Act, and in addition to any other duties or levies payable on imported goods, excise-equivalent duty at the appropriate rate specified in Part B of Schedule 3 to this Act shall be levied, collected, and paid on all goods specified in Part B of Schedule 3 to this Act, that are imported.
+(1) Subject to this Act, and in addition to any other duties or levies payable on imported goods, excise-equivalent duty at the appropriate rate specified in Part B of the Excise and Excise-equivalent Duties Table must be levied, collected, and paid on all goods specified in Part B of the Excise and Excise-equivalent Duties Table that are imported.
 (2) Where goods on which excise-equivalent duty is payable under this section are dutiable in accordance with the volume of alcohol present in the goods, the person making the entry in respect of those goods shall specify the volume of alcohol in the prescribed manner.
 (3) Excise-equivalent duty becomes payable—
   (a) when entry for home consumption is passed; or
@@ -1330,20 +1347,61 @@ In this section and in sections 76B to 76G, unless the context otherwise require
   (a) references in the certified copy to Schedule 1 of the Tariff Act 1988 are replaced with references to the Tariff (as defined in section 2(1) of the Tariff Act 1988); and
   (b) the certified copy indicates clearly that any information in it that is not the contents of Schedule 3 as described in paragraphs (a) and (b) of subsection (2) does not form part of, or have legal effect as part of, the Excise and Excise-equivalent Duties Table.
 
-### 77 Modification of rates of excise duty and excise-equivalent duty
-(1) Subject to subsection (2) of this section, the Governor-General may, from time to time, by Order in Council, suspend Schedule 3 to this Act in whole or in part, and by the same or a subsequent Order in Council, in lieu thereof, impose on any goods specified in Schedule 3 such excise duties and excise-equivalent duties as the Governor-General thinks fit.
-(2) Excise duties and excise-equivalent duties imposed on goods pursuant to subsection (1) of this section must not exceed the rate of excise duty or excise-equivalent duty on those goods set out in Schedule 3 to this Act.
+### 76C Access to Excise and Excise-equivalent Duties Table
+(1) The chief executive must—
+  (a) ensure that copies of the documents referred to in subsection (2) are published on an Internet site that is, so far as practicable, publicly available free of charge; and
+  (b) ensure that copies of the documents referred to in subsection (2) are available for purchase at a reasonable price at the places designated under section 9 of the Acts and Regulations Publication Act 1989.
+(2) The documents are—
+  (a) the Excise and Excise-equivalent Duties Table as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
+  (b) the 2010 Excise and Excise-equivalent Duties Document; and
+  (c) Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, or 79A on or after 1 January 2010.
+(3) Every version of the Excise and Excise-equivalent Duties Table referred to in subsection (2)(a) and published or made available under subsection (1) must—
+  (a) indicate that it is that Table as in force at the beginning of a stated date; and
+  (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of that Table.
+(4) Nothing in section 76B or this section prevents the chief executive from ensuring that other information is published or made available with the Excise and Excise-equivalent Duties Table, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, that table.
 
-### 78 Power to amend Schedule 3 for certain purposes
-(1) The Governor-General may, from time to time, by Order in Council, amend Schedule 3 to this Act—
-  (a) by revoking, inserting, or amending any heading, heading number, subheading, item, or item number, or the title of any Part, section, chapter, or subchapter of the Tariff referred to in Schedule 3 in such manner as is necessary to ensure that Schedule 3 conforms to the Tariff; or
-  (b) by revoking, suspending, or amending a provision of the notes forming part of Schedule 3, or by inserting a new provision in the notes, for the purpose of ensuring the proper operation of Schedule 3; or
-  (c) by revoking, suspending, inserting, or amending a statistical unit in Schedule 3.
-(2) Notwithstanding anything in subsection (1)(c) of this section, the Chief Executive may, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in Schedule 3.
-(3) No amendment made pursuant to this section shall alter the duties or exemptions from duty under this Act applicable to goods classified under an item or heading so amended.
+### 76D Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
+Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, or 79A on or after 1 January 2010—
+  (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
+  (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
+
+### 76E Judicial notice of Table
+Judicial notice must be taken by all courts and persons acting judicially of the Excise and Excise-equivalent Duties Table.
+
+### 76F Evidence of Table
+Every copy of the documents referred to in section 76C(2) purporting to be published or made available under the authority of the chief executive is, unless the contrary is shown, deemed—
+  (a) to be a correct copy of the document; and
+  (b) to have been so published or made available.
+
+### 76G Table may be amended, and must be interpreted, as if it were an enactment
+(1) The Excise and Excise-equivalent Duties Table may be amended, revoked, or revoked and replaced by an Act of Parliament as if it were an Act of Parliament.
+(2) The Excise and Excise-equivalent Duties Table may be altered or amended by an Order in Council made under section 77, 78, 79, or 79A as if it were a regulation.
+(3) The Interpretation Act 1999 applies to the Excise and Excise-equivalent Duties Table as if it were an enactment.
+(4) Nothing in this Act limits or affects the application of—
+  (a) the Acts and Regulations Publication Act 1989 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Excise and Excise-equivalent Duties Table, this Act (either alone or with other enactments), or both; or
+  (b) the Interpretation Act 1999 to an Order in Council made under section 77, 78, 79, or 79A.
+
+### 76H References to Schedule 3
+Every reference in the following to Schedule 3 of this Act must be read as if it were a reference to the Excise and Excise-equivalent Duties Table (as defined by section 76A of this Act):
+  (a) an enactment not added, amended, inserted, or substituted by the Customs and Excise Amendment Act 2009 and in force at the commencement of this section:
+  (b) a document in operation at that commencement.
+
+### 77 Modification of rates of excise duty and excise-equivalent duty
+(1) The Governor-General may from time to time, by Order in Council, suspend the Excise and Excise-equivalent Duties Table in whole or in part, and by the same or a subsequent Order in Council, and in its place, impose on any goods specified in that table such excise duties and excise-equivalent duties as the Governor-General thinks fit.
+(1A) Subsection (1) is subject to subsection (2).
+(2) Excise duties and excise-equivalent duties imposed on goods pursuant to subsection (1) must not exceed the rate of excise duty or excise-equivalent duty on those goods set out in the Excise and Excise-equivalent Duties Table.
+
+### 78 Power to amend Excise and Excise-equivalent Duties Table for certain purposes
+(1) The Governor-General may from time to time, by Order in Council, amend the Excise and Excise-equivalent Duties Table by—
+  (a) revoking, inserting, or amending any heading, heading number, subheading, item, or item number or the title of any Part, section, chapter, or subchapter of the Tariff referred to in the Excise and Excise-equivalent Duties Table in any manner necessary to ensure that that Table conforms to the Tariff; or
+  (b) revoking, suspending, or amending a provision of the notes forming part of the Excise and Excise-equivalent Duties Table, or by inserting a new provision in the notes, for the purpose of ensuring the proper operation of the Excise and Excise-equivalent Duties Table; or
+  (c) revoking, suspending, inserting, or amending a statistical unit in the Excise and Excise-equivalent Duties Table.
+(2) Despite subsection (1)(c), the chief executive may, by notice in the Gazette, revoke, suspend, insert, or amend a statistical unit in the Excise and Excise-equivalent Duties Table.
+(3) No amendment made pursuant to this section may alter the duties or exemptions from duty under this Act applicable to goods classified under an item or heading so amended.
 
 ### 79 Indexation of rates of excise duty and excise-equivalent duty on alcoholic beverages and tobacco products
-(1) Subject to this section, the Governor-General may from time to time, by Order in Council, amend Schedule 3 to this Act to impose such rates of excise duty and excise-equivalent duty as the Governor-General thinks fit on all or any of the alcoholic beverages and tobacco products as defined in subsection (4) of this section.
+(1) The Governor-General may from time to time, by Order in Council, amend the Excise and Excise-equivalent Duties Table to impose such rates of excise duty and excise-equivalent duty as the Governor-General thinks fit on all or any of the alcoholic beverages and tobacco products as defined in subsection (4).
+(1A) Subsection (1) is subject to subsections (2) to (4).
 (2) Any change in the rates of excise duty and excise-equivalent duty made by Order in Council under subsection (1) of this section,—
   (a) shall be limited in accordance with this section having regard to movements in the Consumers Price Index All Groups excluding credit services; and
   (b) in the case of a change in the rates of excise duty and excise-equivalent duty for alcoholic beverages, may come into force only on the 1st day of July in any calendar year; and
@@ -1355,14 +1413,16 @@ In this section and in sections 76B to 76G, unless the context otherwise require
   (b) is the Index number of the quarterly Consumers Price Index All Groups excluding credit services issued by the Government Statistician for the quarter ending 12 months before, and expressed on the same base quarter as, the relevant quarter specified in item a of this formula; and
   (c) is the existing rate of duty in respect of the goods to which the order relates.
 (4) In this section,—
-  - **alcoholic beverages** means goods specified in headings 22.03, 22.04, 22.05, 22.06, 22.08, 99.10, 99.20, 99.25, 99.30, 99.45, and 99.50 of Schedule 3 to this Act, not being goods which are exempt from excise duty and excise-equivalent duty; and includes undenatured ethyl alcohol and other goods specified in headings21.05, 21.06, 22.07, 33.02, 99.05, 99.06, 99.35, 99.42, and 99.43 of that Schedule (also not being goods exempt from excise duty and excise-equivalent duty)
-  - **tobacco products** means goods specified in headings 24.02, 24.03, 99.60 and 99.65 of Schedule 3 to this Act.
+  - **alcoholic beverages** means goods that are—
+    (a) goods specified in headings 22.03, 22.04, 22.05, 22.06, 22.08, 99.10, 99.20, 99.25, 99.30, 99.45, and 99.50 of the Excise and Excise-equivalent Duties Table, not being goods that are exempt from excise duty and excise-equivalent duty; or
+    (b) undenatured ethyl alcohol and other goods specified in headings 21.05, 21.06, 22.07, 33.02, 99.05, 99.06, 99.35, 99.42, and 99.43 of that table (also not being goods exempt from excise duty and excise-equivalent duty)
+  - **tobacco products** means goods specified in headings 24.02, 24.03, 99.60, and 99.65 of the Excise and Excise-equivalent Duties Table.
 
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
-(1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending Schedule 3.
+(1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
 (2) In this section,—
   - **financial year** means the 12 months ending on the close of 30 June or any other date determined for the purposes of this section by the Minister of Finance and notified in the Gazette
-  - **motor spirits** means motor spirit and fuels containing motor spirit specified in Excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2207.20.23, 2207.20.35, 2710.19.13, 2710.19.15, 2710.19.21, 2710.19.25, 2710.19.27, 2710.19.39, 2710.19.64, 2710.19.70, 3824.90.87, 3824.90.93, and 3824.90.97 set out in Schedule 3.
+  - **motor spirits** means motor spirit and fuels containing motor spirit specified in excise item numbers 99.75.05F, 99.75.23D, 99.75.29C, 99.75.37D, 99.75.51K, 99.75.59E, 99.75.73L, 99.75.81A, and 99.75.93E and Tariff items 2207.20.23, 2207.20.35, 2710.19.13, 2710.19.15, 2710.19.21, 2710.19.25, 2710.19.27, 2710.19.39, 2710.19.64, 2710.19.70, 3824.90.87, 3824.90.93, and 3824.90.97 set out in the Excise and Excise-equivalent Duties Table.
 
 ### 80 Certain Orders in Council subject to confirmation
 (1) This section applies to the following Orders in Council:
@@ -1392,9 +1452,9 @@ In this section and in sections 76B to 76G, unless the context otherwise require
 ### 83 Excise duty and excise-equivalent duty on spirits and other alcoholic beverages if approval not complied with
 (1) The Chief Executive may make an assessment of duty if the Chief Executive has reasonable cause to suspect that a person granted an approval to which this subsection applies has not complied with the conditions of the approval.
 (2) Subsection (1) applies to an approval granted under any of the following:
-  (a) excise item number 99.35.30E in Part A of Schedule 3:
-  (b) excise item number 99.55.00D in Part A of Schedule 3:
-  (c) tariff item number 2207.10.29 in Part B of Schedule 3.
+  (a) excise item number 99.35.30E in Part A of the Excise and Excise-equivalent Duties Table:
+  (b) excise item number 99.55.00D in Part A of the Excise and Excise-equivalent Duties Table:
+  (c) tariff item number 2207.10.29 in Part B of the Excise and Excise-equivalent Duties Table.
 (3) Where an assessment is made under subsection (1), the rate of duty to be applied must be the rate that would be applicable if the goods to which the relevant approval relates were entered for home consumption.
 (4) The duty assessed in accordance with this section must be paid in accordance with subsection (5) by the person to whom the approval was granted.
 (5) The due date for the payment of any duty assessed in accordance with this section is the date that is 20 working days after the date on which written notice of the assessment is given by the Chief Executive.
@@ -1742,10 +1802,10 @@ Without limiting the power to make regulations conferred by section 286 of this 
 
 ### 119 Application for Customs ruling
 (1) A person may make an application, in respect of particular goods specified in the application, to the Chief Executive for a Customs ruling in respect of any one or more of the following matters:
-  (a) the Tariff classification of those goods under Part 1 of Schedule 1 to the Tariff Act 1988:
-  (b) the excise classification of those goods under Schedule 3 to this Act:
+  (a) the Tariff classification of those goods under Part 1 of the Tariff:
+  (b) the excise classification of those goods under the Excise and Excise-equivalent Duties Table:
   (c) whether or not those goods are, for the purposes of the Tariff and in accordance with any applicable regulations made under this Act, the produce or manufacture of a particular country or group of countries, referred to in the application:
-  (d) whether or not those goods are subject to a specified duty concession under Part 2 of Schedule 1 to the Tariff Act 1988 referred to in the application.
+  (d) whether or not those goods are subject to a specified duty concession under Part 2 of the Tariff referred to in the application.
 (2) An application under subsection (1) of this section may be made—
   (a) in respect of imported goods—
     (i) at any time before the date of importation into New Zealand of the goods that are the subject of the application; or
@@ -1785,10 +1845,10 @@ The Chief Executive shall promptly give notice in writing to the applicant of—
 
 ### 122 Effect of Customs ruling
 (1) Subject to section 125 of this Act, a Customs ruling in respect of particular goods is conclusive evidence for the purposes of this Act and, where applicable, the Tariff Act 1988, that the goods—
-  (a) have a particular Tariff classification under Part 1 of Schedule 1 to the Tariff Act 1988; or
-  (b) have a particular excise classification under Schedule 3 to this Act; or
+  (a) have a particular Tariff classification under Part 1 of the Tariff; or
+  (b) have a particular excise classification under the Excise and Excise-equivalent Duties Table; or
   (c) are or are not, as the case may be in accordance with applicable regulations made under this Act, the produce or manufacture of a particular country, or group of countries, for the purposes of the Tariff Act 1988; or
-  (d) are or are not, as the case may be, subject to a specified duty concession under Part 2 of Schedule 1 to the Tariff Act 1988.
+  (d) are or are not, as the case may be, subject to a specified duty concession under Part 2 of the Tariff.
 (2) Subject to section 125 of this Act, a Customs ruling in respect of a particular matter in respect of which a ruling has been given under section 120(1)(b) of this Act is conclusive evidence for the purposes of this Act and, where applicable, the Tariff Act 1988, of the application of the regulation or regulations on which the ruling was made in relation to that matter.
 
 ### 123 Confirmation of basis of Customs ruling
@@ -1809,7 +1869,7 @@ At any time after a Customs ruling is made, the Chief Executive may, by notice i
 (1) A Customs ruling ceases to have effect on the earliest to occur of the following dates:
   (a) the date on which any information on which the Customs ruling was made ceases to be correct in all material respects; or
   (b) the date of a material change in any of the information or facts on which the Customs ruling was made; or
-  (c) the date of a material change in the Tariff Act 1988, or to Schedule 3 to this Act, or to any applicable regulations made under this Act or the Tariff Act 1988, if that date occurs prior to importation or manufacture of the relevant goods, as the case may be; or
+  (c) the date of a material change to the Tariff Act 1988, or to the Excise and Excise-equivalent Duties Table, or to any applicable regulations made under this Act or the Tariff Act 1988, if that date occurs prior to importation or manufacture of the relevant goods, as the case may be; or
   (d) the date on which any of the conditions to which the Customs ruling was made subject cease to be met or complied with; or
   (e) the date of a failure to satisfy the requirements of the Chief Executive under section 123 of this Act; or
   (f) the date of expiry of 3 years from the date that notice of the Customs ruling, or any amendment to that Customs ruling under section 124 of this Act, is given to the applicant.
@@ -1870,7 +1930,7 @@ An applicant who is dissatisfied with a Customs ruling, or a decision to decline
   (b) an additional penalty of 2 percent of the amount of the penalty, including any additional penalty, unpaid at the end of the period of one month after the due date; and
   (c) an additional penalty of 2 percent of the amount of the penalty, including additional penalty, unpaid at the end of each succeeding period of one month.
 (9) Notwithstanding subsection (8) of this section, the Chief Executive may, in his or her discretion, remit or refund the whole or any part of any additional penalty imposed by that subsection.
-(10) Where the goods referred to in subsection (1) of this section and entered pursuant to section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of Schedule 1 to the Tariff Act 1988 after the entry is made, then the penalty shall be calculated according to the provisions of subsection (2)(a) of this section as if the duty liability had not so changed.
+(10) Where the goods referred to in subsection (1) and entered pursuant to section 39 become free of duty or subject to a lower rate of duty under Part 1 or Part 2 of the Tariff after the entry is made, then the penalty must be calculated according to subsection (2)(a) as if the duty liability had not so changed.
 (11) A person who is dissatisfied with a decision of the Chief Executive under this section may, within 20 working days after the date on which notice of the decision is given, appeal to a Customs Appeal Authority against that decision.
 
 ### 129 Obligation to pay penalty not suspended by appeal
@@ -2144,10 +2204,10 @@ The officer commanding or in charge of any craft in Her Majesty's service having
 (1) A Customs officer and, in the case of paragraph (b), a constable may detain a person who, the Customs officer or, if applicable, the constable believes on reasonable grounds is committing, or is about to commit, an offence under section 180 or 191(1)(e) by,—
   (a) if a craft has arrived at a nominated Customs place or a Customs controlled area within that place under section 24, leaving or boarding the craft without the authority of a Customs officer before an inward report is made under section 26 (in contravention of section 24(2)); or
   (b) if the person has arrived in New Zealand, not reporting forthwith to a Customs officer or a police station (in contravention of section 27(1)); or
-  (c) if the person has arrived in New Zealand and reported to a Customs officer or a police station under section 27(1), leaving the Customs officer or police station to which he or she reported, despite a Customs officer or, if applicable, a constable requiring the person to remain for a reasonable time in order that the Customs officer or, if applicable, the member of police might exercise a power under this Act in relation to that person (in contravention of section 27(1)); or
+  (c) if the person has arrived in New Zealand and reported to a Customs officer or a police station under section 27(1), leaving the Customs officer or police station to which he or she reported, despite a Customs officer or, if applicable, a constable requiring the person to remain for a reasonable time in order that the Customs officer or, if applicable, the member of police might exercise a power under this Act in relation to that person (in contravention of section 27(2)); or
   (d) if the person is on board a craft that has arrived in New Zealand, not complying with any Customs direction concerning disembarkation (in contravention of section 28(1)); or
   (e) having disembarked from a craft that has arrived in New Zealand, leaving a Customs controlled area when the Customs requires the person to remain there for such reasonable time as is required to enable a Customs officer to exercise a power under this Act in relation to that person (in contravention of section 28(3)); or
-  (f) if the person is required to comply with a direction given under section 28(3), failing to comply with that direction.
+  (f) if the person is required to comply with a direction given under section 32B(3), failing to comply with that direction.
 (2) A Customs officer or, if applicable, a constable may only detain a person under subsection (1) for the purpose of ensuring the person's compliance with 1 or more of the provisions referred to in subsection (1).
 (3)
 (4) A Customs officer or, if applicable, a constable must release a person detained under subsection (1) immediately after the person has complied with the requirements of the provision in relation to which he or she was detained and any other applicable provision referred to in subsection (1).
@@ -4104,7 +4164,9 @@ A person who, immediately before the commencement of this Act, was an officer of
 (4) On and after the commencement of this Act,—
   (a) all proceedings that were pending by or against the Customs Department immediately before the commencement of this Act may be carried on, completed, or enforced by or against the New Zealand Customs Service; and
   (b) all rights and obligations of the Customs Department existing immediately before the commencement of this Act shall become the rights and obligations of the New Zealand Customs Service.
-(5) Every reference in any enactment or Order in Council in force immediately before the commencement of this Act to Schedule 3 to the Customs Act 1966 shall, on and after the commencement of this Act, be read as a reference to Schedule 3 to this Act.
+(5) Every reference in any enactment in force immediately before the commencement, on 1 October 1996, of this Act to Schedule 3 of the Customs Act 1966 must, on and after that commencement, be read as a reference to (as the case may be)—
+  (a) Schedule 3 of this Act; or
+  (b) the Excise and Excise-equivalent Duties Table.
 
 ### 295 Transitional provision concerning assessment and payment of duty
 The provisions of the Customs Act 1966 and all regulations, Orders in Council, warrants, and acts of authority under that Act shall continue in force and apply to—as if this Act had not been passed.
@@ -4165,8 +4227,7 @@ Not later than 40 working days after the commencement of this Act the owner or o
 (4) Nothing in this section limits or affects the application of section 20(h) of the Acts Interpretation Act 1924 in relation to the prosecution of offences against the Customs Act 1966.
 
 ### 306 Power to amend Schedule 3 before this Act comes into force
-(1) Without limiting section 12 of the Acts Interpretation Act 1924, the Governor-General may, before the commencement of this Act, from time to time after the date on which this Act receives the Royal assent and before it comes into force, exercise in relation to Schedule 3 to this Act and with effect on the commencement of this Act, any of the powers conferred by this Act to alter or modify that Schedule or create exceptions in respect of goods.
-(2) Where, before the commencement of section 79 of this Act, any Orders in Council have been made and not revoked under section 118CB of the Customs Act 1966 or section 9A of the Tariff Act 1988, the Governor-General may, before the commencement of this Act, by Order in Council amend Schedule 3 to this Act so that the rates of excise duty and excise-equivalent duty in that Schedule correspond with the rates of duty set out in those orders.
+[Repealed]
 
 **Amendment to Goods and Services Tax Act 1985**
 
@@ -4177,10 +4238,10 @@ Not later than 40 working days after the commencement of this Act the owner or o
 **Amendments to Tariff Act 1988**
 
 ### 308 Tariff items substituted
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ### 309 New concession reference inserted
-Amendment(s) incorporated in the Act(s).
+[Repealed]
 
 ## Schedule 1 — Prohibited imports
 
@@ -4378,17 +4439,6 @@ Amendment(s) incorporated in the Act(s).
   (g) arbitrary or fictitious values.
 
 ## Schedule 3 — Excise and excise-equivalent duties
-
-| The complete Schedule 3 is not available on this website. For the latest version of Schedule 3 see www.customs.govt.nz. |
-| --- |
-
-| Notes— |  |
-| --- | --- |
-| 1. | Subject to these Notes, interpretation of this Schedule shall be governed by the same General Rules of Interpretation applicable to Schedule 1 to the Tariff Act 1988. |
-| 2. | For the purpose of the description of goods in this Schedule, the terms tariff item and tariff heading have the same meaning as in section 2 of the Tariff Act 1988. |
-| 3. | The term excise item number means excise items identified by six digits and one alphabetical check letter and includes the heading thereto so identified. |
-| 4. | Duties specified in Part A of this Schedule are duties imposed pursuant to section 73 of this Act. |
-| 5. | Duties specified in Part B of this Schedule are duties imposed pursuant to section 75 of this Act. |
 
 ## Schedule 4 — Valuation of goods for the purposes of excise
 
