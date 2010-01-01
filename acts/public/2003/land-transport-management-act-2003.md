@@ -1,5 +1,5 @@
 # Land Transport Management Act 2003
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2010-01-01_
 
 ### 1 Title
 This Act is the Land Transport Management Act 2003.
@@ -93,7 +93,7 @@ In order to recognise and respect the Crown’s responsibility to take appropria
   - **minor and ancillary works** —
     (a) means works associated with a local road that are determined by the Agency to be minor and ancillary roading works; but
     (b) does not include in-house professional services or works associated with a State highway
-  - **motor spirits** does not include aviation spirits of a kind specified in Schedule 3 of the Customs and Excise Act 1996 as aviation fuel
+  - **motor spirits** does not include aviation spirits of a kind specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as aviation fuel
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **national energy efficiency and conservation strategy** means a strategy issued under the Energy Efficiency and Conservation Act 2000
   - **national land transport fund** or means the fund established under section 10
