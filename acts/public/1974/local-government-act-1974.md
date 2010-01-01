@@ -1,5 +1,5 @@
 # Local Government Act 1974
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-01-01_
 
 > An Act to consolidate and amend the law relating to the reorganisation of the districts and functions of local authorities, to make better provision for the administration of those functions which can most effectively be carried out on a regional basis, and to make provision for the establishment of united councils, regional councils, district councils, district community councils, and community councils, and to consolidate and amend the Municipal Corporations Act 1954, the Counties Act 1956, the Local Authorities (Petroleum Tax) Act 1970, and provisions of other Acts of the Parliament of New Zealand relating to the powers and functions of regional councils, united councils, and territorial local authorities
 
@@ -2408,12 +2408,12 @@ Nothing in this Part of this Act shall be construed to affect the validity or in
   - **engine fuel** has the meaning given by section 1B of the Energy (Fuels, Levies, and References) Act 1989
   - **specified engine fuel** —
     (a) means,—
-      (i) if no Order in Council is in force under subparagraph (ii), engine fuel specified in Schedule 3 of the Customs and Excise Act 1996 as a type of—
+      (i) if no Order in Council is in force under subparagraph (ii), engine fuel specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) as a type of—
         (A) motor spirit; or
         (B) diesel (including blends of diesel and kerosene); or
         (C) biodiesel; or
-        (D) ethyl alcohol specified under the heading Fuels in Part A or B of Schedule 3 of the Customs and Excise Act 1996; or
-      (ii) that part of engine fuel specified in Schedule 3 of the Customs and Excise Act 1996 and prescribed by an Order in Council made under section 199A; but
+        (D) ethyl alcohol specified under the heading Fuels in Part A or B of the Excise and Excise-equivalent Duties Table (as so defined); or
+      (ii) that part of engine fuel specified in the Excise and Excise-equivalent Duties Table (as so defined) and prescribed by an Order in Council made under section 199A; but
     (b) excludes—
       (i) engine fuel supplied for use in the generation of electricity, or the manufacture of gas, for public use at any electric-power station or gas works; or
       (ii) engine fuel supplied for use as fuel for any commercial ship within the meaning of section 2(1) of the Maritime Transport Act 1994; or
@@ -2533,7 +2533,7 @@ For the purposes of this Act, section 159 of the Customs Act 1966, so far as it 
 
 ### 199A Order in Council prescribing local authorities fuel tax
 (1) The Governor-General may, by Order in Council,—
-  (a) specify the engine fuels set out in Schedule 3 of the Customs and Excise Act 1996 to be specified engine fuel for the purposes of this Act; and
+  (a) specify the engine fuels set out in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) to be specified engine fuel for the purposes of this Act; and
   (b) prescribe the scale rates for specified engine fuel.
 (2) The scale rates of the local authorities fuel tax prescribed by an Order in Council under subsection (1)(b) may not exceed the rate of the local authorities fuel tax scale rates set out in Schedule 6 for any class of engine fuel—
   (a) for which the specified engine fuel is a functional substitute; or
@@ -3582,12 +3582,12 @@ If the council names any road for the first time, or alters the name of a road, 
 
 ### 324A Power to carry out works on Maori roadway
 (1) The council may from time to time—
-  (a) Maintain, repair, or improve any roadway laid out in the district in accordance with Part 27 of the Maori Affairs Act 1953; or
+  (a) Maintain, repair, or improve any roadway laid out in the district in accordance with Part 14 of Te Ture Whenua Maori Act 1993; or
   (b) Contribute towards the cost of maintaining, repairing, widening, or improving any roadway of the kind described in paragraph (a) of this subsection.
 (2) The council shall, before exercising in respect of any roadway, any of the powers conferred on it by subsection (1) of this section, obtain the written consent of—
   (a) The owners of the land comprising that roadway; and
   (b) The owners of the land adjoining that roadway if those owners are not the owners of the land comprising the roadway.
-(3) In any case where the owners of land comprising or adjoining a roadway laid out pursuant to Part 27 of the Maori Affairs Act 1953 are or are believed to be Maori and their whereabouts are unknown, consent under subsection (2) of this section may be obtained by applying to the Maori Land Court for the district in which the land is situated for an order under the provisions of Part 9 of the Maori Affairs Amendment Act 1974.
+(3) In any case where the owners of land comprising or adjoining a roadway laid out pursuant to Part 14 of Te Ture Whenua Maori Act 1993 are or are believed to be Maori and their whereabouts are unknown, consent under subsection (2) of this section may be obtained by applying to the Maori Land Court for the district in which the land is situated for an order under the provisions of Part 10 of Te Ture Whenua Maori Act 1993.
 (4) The Maori Land Court shall deal with any application made pursuant to subsection (3) of this section as if a notice under an enactment had been issued to the owners.
 
 ### 325 Road widths
