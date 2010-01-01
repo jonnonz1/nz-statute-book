@@ -1,5 +1,5 @@
 # Customs and Excise (AANZFTA) Amendment Act 2009
-_Consolidation as at 2009-07-22_
+_Consolidation as at 2010-01-01_
 
 ### 1 Title
 This Act is the Customs and Excise (AANZFTA) Amendment Act 2009.
