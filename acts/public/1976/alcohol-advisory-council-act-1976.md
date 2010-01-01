@@ -1,12 +1,12 @@
 # Alcohol Advisory Council Act 1976
-_Consolidation as at 2009-06-19_
+_Consolidation as at 2010-01-01_
 
-> An Act to provide for the establishment of an Alcoholic Liquor Advisory Council having as its primary objective the promotion of moderation in the use of alcoholic liquor and the reduction of the personal, social, and economic evils resulting from the misuse of alcoholic liquor, to define the Council's functions and powers, and to make provision for the funding of the Council's activities by means of a levy on alcoholic liquor imported into or manufactured in New Zealand
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Alcohol Advisory Council Act 1976.
-(2) Sections 25 to 34 and section 40 of this Act shall come into force on the 1st day of April 1978.
-(3) Except as provided in subsection (2) of this section, this Act shall come into force on the date on which it receives the Governor-General's assent.
+(2) Sections 25 to 34 and section 40 shall come into force on 1 April 1978.
+(3) Except as provided in subsection (2), this Act shall come into force on the date on which it receives the Governor-General's assent.
 
 ### 1A Purpose
 The purpose of this Act is to—
@@ -16,29 +16,19 @@ The purpose of this Act is to—
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Aggregate expenditure figure** , in relation to any financial year, means the aggregate expenditure figure assessed in respect of that year by the Minister under section 25(1) of this Act
-  - **Aggregate levy figure** , in relation to any financial year, means the aggregate levy figure determined in respect of that year by the Minister under section 25(2) of this Act
-  - **Alcoholic Liquor Account**
-  - **Alcoholic Liquor Fund** or
-  - **Appointed member**
-  - **Beer** means the product of the alcoholic fermentation by yeast of liquid derived from a mash of drinking water and malt grains with hops or their extracts that on analysis is found to contain more than 1.15 percent volume of alcohol
-  - **Chairman**
-  - **Chairperson**
-  - **class of liquor** means a class of liquor as identified in the table in the Schedule
-  - **Collector of Customs** or
+  - **aggregate expenditure figure** , in relation to any financial year, means the aggregate expenditure figure assessed in respect of that year by the Minister under section 25(1)
+  - **aggregate levy figure** , in relation to any financial year, means the aggregate levy figure determined in respect of that year by the Minister under section 25(2)
+  - **beer** means the product of the alcoholic fermentation by yeast of liquid derived from a mash of drinking water and malt grains with hops or their extracts that on analysis is found to contain more than 1.15% volume of alcohol
+  - **class of liquor** means a class of liquor as identified in the table of the Schedule
   - **Council** means the Alcohol Advisory Council of New Zealand constituted by section 3
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
-  - **Financial year**
-  - **Hotel Investment Account**
-  - **Levy** means a levy payable under section 28 of this Act
-  - **Licensing fund**
+  - **levy** means a levy payable under section 28
   - **Liquor Fund** or means the Liquor Fund established under section 20
   - **Minister** means the Minister of Health
-  - **Official member**
   - **preceding statistical year** means the latest complete period of 12 consecutive months in respect of which, at any material time, the following information is available to the Minister, that is the total number of litres of each class of liquor imported into, and manufactured in, New Zealand during that period
-  - **Primary objective** , in relation to the Council, means the primary objective of the Council as set out in section 7 of this Act
+  - **primary objective** , in relation to the Council, means the primary objective of the Council as set out in section 7
   - **rate** , when referring to a rate for a class of liquor, means the percentage figure, set out in the fourth column of the table in the Schedule, that is used to calculate the levy for that class of liquor
-  - **Spirits** means ethyl alcohol, whether denatured or not, and any spirituous beverages, including brandy, gin, rum, vodka, whisky, and every other description of spirituous liquor derived from ethyl alcohol
+  - **spirits** means ethyl alcohol, whether denatured or not, and any spirituous beverages, including brandy, gin, rum, vodka, whisky, and every other description of spirituous liquor derived from ethyl alcohol
   - **wine** means the product of the complete or partial fermentation of any fruit (including grapes), vegetable, or honey, and—
     (a) includes—
       (i) cider, perry, and mead; and
@@ -46,7 +36,6 @@ The purpose of this Act is to—
     (b) does not include—
       (i) beer or spirits; or
       (ii) any liquor containing no more than 1.15% volume of alcohol
-  - **Wine Institute's trustee**
   - **winemaker** has the same meaning as in the Wine Act 2003.
 (2)
 (2A)
@@ -57,7 +46,7 @@ The purpose of this Act is to—
 (4) For the purposes of sections 28 and 29A, the total number of litres of wine sold in New Zealand during any financial year is deemed to be the same as the total number of litres of wine sold in New Zealand during the preceding statistical year.
 (5) For the purposes of section 26(2) and the Schedule, liquor that is exported from New Zealand during the preceding statistical year is not to be treated as liquor that is imported into or manufactured in New Zealand.
 
-## Part  — Constitution of Council
+**Constitution of Council**
 
 ### 3 Constitution of Alcohol Advisory Council
 (1) For the purposes of this Act there is a Council called the Alcohol Advisory Council of New Zealand.
@@ -68,7 +57,7 @@ The purpose of this Act is to—
 ### 3A Membership of Council
 (1) The Council consists of 8 members.
 (2) The members of the Council must include—
-  (a) at least 1 person who is Maori:
+  (a) at least 1 person who is Māori:
   (b) at least 1 person from the Pacific Island community:
   (c) at least 1 person with experience in public health:
   (d) at least 1 person with experience in the development and implementation of social policy:
@@ -79,13 +68,13 @@ The purpose of this Act is to—
 ### 4 Term of office of members of Council
 [Repealed]
 
-### 5 Deputy Chairperson
+### 5 Deputy chairperson
 [Repealed]
 
 ### 6 Deputies of members
 [Repealed]
 
-## Part  — Objective, functions, and powers of Council
+**Objective, functions, and powers of Council**
 
 ### 7 Primary objective of Council
 The primary objective of the Council is the encouragement and promotion of moderation in the use of liquor, the reduction and discouragement of the misuse of liquor, and the minimisation of the personal, social, and economic harm resulting from the misuse of liquor.
@@ -117,10 +106,10 @@ The primary objective of the Council is the encouragement and promotion of moder
 ### 9 Powers of Council
 (1)
 (2) The Council may—
-  (a) Make grants out of the Liquor Fund to any body, association, or person engaged in any activity in any field with which the Council is concerned:
-  (aa) Make advances out of that Fund to any such body, association, or person, on such terms and subject to such conditions as to the payment of interest, the repayment of principal, the giving of security, and otherwise as the Council thinks fit:
-  (b) Co-operate with any body, association, or person engaged in any activity in any field with which the Council is concerned:
-  (c) Charge such fees (if any) as it may from time to time think reasonable for any material published by it and made available to the public.
+  (a) make grants out of the Liquor Fund to any body, association, or person engaged in any activity in any field with which the Council is concerned:
+  (aa) make advances out of that Fund to any such body, association, or person, on such terms and subject to such conditions as to the payment of interest, the repayment of principal, the giving of security, and otherwise as the Council thinks fit:
+  (b) co-operate with any body, association, or person engaged in any activity in any field with which the Council is concerned:
+  (c) charge such fees (if any) as it may from time to time think reasonable for any material published by it and made available to the public.
 (3) Subsection (2) does not limit sections 16 and 17 of the Crown Entities Act 2004.
 
 ### 10 Council may appoint advisory and technical committees
@@ -129,7 +118,7 @@ The primary objective of the Council is the encouragement and promotion of moder
 ### 11 Council may co-opt specialist advice
 [Repealed]
 
-## Part  — Administrative provisions
+**Administrative provisions**
 
 ### 12 Meetings of Council
 [Repealed]
@@ -173,14 +162,14 @@ All fees, salaries, allowances, and other expenditure payable or incurred under 
 ### 19C Council may borrow funds to meet temporary shortfall
 [Repealed]
 
-## Part  — Liquor Fund
+**Liquor Fund**
 
 ### 20 Establishment of Fund
 (1) For the purposes of this Act there shall be a fund, to be called the Liquor Fund.
 (2) There shall from time to time be paid into the Fund—
-  (a) All money payable to the Council in respect of levies imposed under this Act:
-  (b) Any other money that may be lawfully payable into the Fund pursuant to this Act or any other enactment:
-  (c) Any money that may be donated or bequeathed to the Council for the purposes of the Council.
+  (a) all money payable to the Council in respect of levies imposed under this Act:
+  (b) any other money that may be lawfully payable into the Fund pursuant to this Act or any other enactment:
+  (c) any money that may be donated or bequeathed to the Council for the purposes of the Council.
 (3) There shall from time to time be paid out of the Fund any money that may be lawfully payable out of the Fund pursuant to this Act or any other enactment.
 
 ### 21 Alcoholic Liquor Account
@@ -192,16 +181,16 @@ All fees, salaries, allowances, and other expenditure payable or incurred under 
 ### 23 Crown entity
 [Repealed]
 
-## Part  — Imposition and payment of levies
+**Imposition and payment of levies**
 
 ### 24 Council to prepare and submit annual budget
 [Repealed]
 
 ### 25 Minister to assess aggregate expenditure figure and determine aggregate levy figure
 (1) In respect of each financial year the Minister, acting with the concurrence of the Minister of Finance, shall, after considering the forecast financial statements in the Council's statement of intent, and after consultations with the Council, assess the aggregate expenditure figure for that year, being the amount that, in the opinion of the Minister, would be reasonable for the Council to expend during that year in the performance of its functions.
-(2) Having assessed the aggregate expenditure figure in respect of any financial year under subsection (1) of this section, the Minister shall determine the aggregate levy figure for that year, being an amount equal to the aggregate expenditure figure less the amount that, in the Minister's opinion, is likely to be received by the Council during the financial year by way of interest on money belonging to the Fund invested by the Council.
+(2) Having assessed the aggregate expenditure figure in respect of any financial year under subsection (1), the Minister shall determine the aggregate levy figure for that year, being an amount equal to the aggregate expenditure figure less the amount that, in the Minister's opinion, is likely to be received by the Council during the financial year by way of interest on money belonging to the Fund invested by the Council.
 (3) Nothing in this section shall oblige the Council to expend in any financial year the whole of its income received in that year; instead, the Council may accumulate any part of its income in any financial year and expend it as it sees fit for any of its purposes in any subsequent financial year.
-(4) Notwithstanding anything in subsection (2) of this section, where the Council carries forward any such amount to a subsequent financial year, the Minister may, in determining the aggregate levy figure for that year, take into account the whole or any part of that amount.
+(4) Notwithstanding anything in subsection (2), where the Council carries forward any such amount to a subsequent financial year, the Minister may, in determining the aggregate levy figure for that year, take into account the whole or any part of that amount.
 
 ### 26 Minister to determine amounts of levy for each class of liquor
 (1) After assessing the aggregate levy figure in respect of any financial year, the Minister must determine, in accordance with subsection (2), the amounts of the levies payable under section 28, in respect of each class of liquor, in order to yield an amount equivalent to the aggregate levy figure.
@@ -225,7 +214,7 @@ All fees, salaries, allowances, and other expenditure payable or incurred under 
   (a) enters for home consumption (as that expression is used in the Customs and Excise Act 1996) any imported liquor that contains more than 1.15% volume of alcohol; or
   (b) manufactures in New Zealand any beer or spirits; or
   (c) sells any wine manufactured by that person in New Zealand.
-(2) Notwithstanding anything in subsection (1) of this section, no levy shall be payable under this Act in respect of any liquor that is not subject to or is exempt from Customs duty under the Customs and Excise Act 1996.
+(2) Notwithstanding anything in subsection (1), no levy shall be payable under this Act in respect of any liquor that is not subject to or is exempt from Customs duty under the Customs and Excise Act 1996.
 (3) Notwithstanding anything in this Act, where any person may be allowed, under the Customs and Excise Act 1996, any drawback in respect of any liquor, that person may also be allowed a refund of any levy paid by that person under this Act in respect of that liquor.
 (4) In this section the term Customs duty has the meaning given to the term duty by section 2(1) of the Customs and Excise Act 1996.
 
@@ -243,23 +232,23 @@ All fees, salaries, allowances, and other expenditure payable or incurred under 
 [Repealed]
 
 ### 32 Powers of the Customs
-The powers and authorities of the Customs under the Customs and Excise Act 1996 shall, with all necessary modifications, apply in the same manner to the collection of a levy under this Act as they apply to the collection of duty under that Act.
+The powers and authorities of the Customs under the Customs and Excise Act 1996 shall, with any necessary modifications, apply in the same manner to the collection of a levy under this Act as they apply to the collection of duty under that Act.
 
 ### 33 All levies collected to be paid to Council
-Subject to section 34 of this Act, all levies received under this Act by the Customs, the Wine Institute of New Zealand Incorporated and any Secretary of any District Licensing Agency shall be paid to the Council by the Customs, the Institute, or the Secretary, as the case may be.
+Subject to section 34, all levies received under this Act by the Customs, the Wine Institute of New Zealand Incorporated and any Secretary of any District Licensing Agency shall be paid to the Council by the Customs, the Institute, or the Secretary, as the case may be.
 
 ### 34 Crown may be reimbursed for collection of levies
 (1) Subject to subsection (2), for the purpose of reimbursing the Crown for any expenses incurred by the Customs in collecting any levies under this Act, the Customs may retain such percentage of every levy collected by it as may be determined by the Minister of Finance after consultation with the Council.
 (2) The amount of any levy retained under subsection (1) must not exceed 5% of the amount of the levies collected by the Customs.
 (3) The Crown is entitled in every financial year to recover from the Council out of the fund such sum in respect of the costs incurred by the Director-General of Health in administering this Act as may be determined by the Minister of Finance after consultation with the Council.
 
-## Part  — Miscellaneous provisions
+**Miscellaneous provisions**
 
 ### 35 Transitional provisions relating to funding
 [Repealed]
 
 ### 36 Donations and bequests to Council
-Where, pursuant to the terms of any will or other instrument creating a trust, any money is payable to the Council, whether for the general purposes or for any specific purpose of the Council, the trustee may, unless the will or other instrument otherwise provides, pay the money to the Council without being concerned to see to the application thereof; and a receipt given on behalf of the Council and signed by the Chairperson and one other member of the Council shall be a sufficient discharge to the trustee.
+Where, pursuant to the terms of any will or other instrument creating a trust, any money is payable to the Council, whether for the general purposes or for any specific purpose of the Council, the trustee may, unless the will or other instrument otherwise provides, pay the money to the Council without being concerned to see to the application thereof; and a receipt given on behalf of the Council and signed by the chairperson and 1 other member of the Council shall be a sufficient discharge to the trustee.
 
 ### 37 Exemption from taxation and duty
 (1) The Council is hereby declared to be exempt from the payment of income tax.
@@ -273,12 +262,12 @@ Where, pursuant to the terms of any will or other instrument creating a trust, a
 
 ### 39 Regulations
 (1) The Governor-General may from time to time by Order in Council make regulations for all or any of the following purposes:
-  (a) Providing for returns to be made by persons importing into or manufacturing in New Zealand any liquor, or any class or kind of liquor, for the purpose of ascertaining the amount of any levy payable under this Act, and providing for the verification of such returns:
+  (a) providing for returns to be made by persons importing into or manufacturing in New Zealand any liquor, or any class or kind of liquor, for the purpose of ascertaining the amount of any levy payable under this Act, and providing for the verification of such returns:
+  (b) exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
   (ba) amending or replacing the table in the Schedule, and amending, omitting, or reinserting the description of the method for determining variable rates:
-  (b) Exempting any person or class of persons from paying any levy that would otherwise be payable under this Act in any case where the cost of assessing or collecting the levy exceeds the amount payable by way of the levy:
-  (c) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
+  (c) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for the due administration thereof.
 (2) Regulations under subsection (1)(ba) may be made only—
-  (a) for the purpose of aligning the rates for classes of liquor under this Act with the classification system applied to alcoholic beverages under Part B of Schedule 3 of the Customs and Excise Act 1996; and
+  (a) for the purpose of aligning the rates for classes of liquor under this Act with the classification system applied to alcoholic beverages under Part B of the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996); and
   (b) after consultation with the Minister of Customs.
 
 ### 40 Repeal
@@ -301,6 +290,9 @@ This Act is the Alcohol Advisory Council Amendment Act 2009.
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Alcohol Advisory Council Act 1976.
 
 ## Part 2 — Transitional provision
 
