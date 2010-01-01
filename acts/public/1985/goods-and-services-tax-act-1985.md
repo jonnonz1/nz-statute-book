@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-01-01_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -787,9 +787,9 @@ A supply of services that is chargeable with tax under section 8 must be charged
     (iii) The person who imported the goods exports the goods—
       (A) In the case of goods with the wrong specifications, within 2 months after their importation, or such longer period not exceeding 12 months after their importation as may be approved by the Customs; or
       (B) In the case of faulty goods, within 12 months after their importation; and
-  (e) reference numbers 40, 45, 70, 75, 80, 81 and 82 of Part 2 of Schedule 1 of the Tariff Act 1988 if—
+  (e) reference numbers 40, 45, 70, 75, 80, 81, and 82 of Part 2 of the Tariff (as defined in section 2(1) of the Tariff Act 1988) if—
     (i) the goods are entitled to be entered under any of these reference numbers; or
-    (ii) the goods are entitled to be entered duty free under Part 1 of Schedule 1 of the Tariff Act 1988, but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of Schedule 1 to the Tariff Act 1988.
+    (ii) the goods are entitled to be entered duty free under Part 1 of the Tariff (as so defined), but would have been entitled to be entered under any of these reference numbers if the goods had been dutiable under Part 1 of the Tariff (as so defined).
   (f)
 (5) No liability to goods and services tax shall arise under any provision of the Customs and Excise Act 1996 by virtue of the operation of subsection (3) or subsection (4) of this section.
 (6) For the purposes of this section,—
