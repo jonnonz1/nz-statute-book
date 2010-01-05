@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Amendment Act 2009
-_Consolidation as at 2009-10-27_
+_Consolidation as at 2010-01-05_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Amendment Act 2009.
