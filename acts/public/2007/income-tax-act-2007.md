@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-01-01_
+_Consolidation as at 2010-01-05_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2311,7 +2311,7 @@ Tax rate
 Reduction of income
 (7) The superannuation fund may reduce the income by 25% for each income year to which both the following apply:
   (a) the income year is 1 of the 4 income years before the income year in which the withdrawal is made; and
-  (b) in the corresponding tax year, the total of the member's taxable income and the employer's superannuation cash contributions made for the member's benefit is less than $60,000.
+  (b) in the corresponding tax year, the total of the member's taxable income and the employer's superannuation cash contributions made for the member's benefit is less than $70,000.
 Timing of income
 (8) The income is allocated as follows:
   (a) if the superannuation fund is wound up or becomes a foreign superannuation scheme, the income is allocated to the income year in which the withdrawal is made:
@@ -33276,11 +33276,10 @@ Payments to members of Parliament and judicial officers
 Certain benefits and grants
 (6) A payment of the following benefits or grants is included in salary or wages
   (a) a gratuitous payment as described in paragraph (a) of the definition of pension in section CF 1(2) (Benefits, pensions, compensation, and government grants):
-  (b) a payment of—
-    (i) an income-tested benefit; or
-    (ii) a veteran’s pension; or
-    (iii) New Zealand superannuation; or
-    (iv) a living alone payment:
+  (b) an income-tested benefit:
+  (bb) a veteran's pension, other than a veteran's pension paid under section 74J(2)(b) of the War Pensions Act 1954:
+  (bc) New Zealand superannuation, other than New Zealand superannuation paid under section 26(2)(b) of the New Zealand Superannuation and Retirement Income Act 2001:
+  (bd) a living alone payment:
   (c) a basic grant and independent circumstances grant made under regulations made under section 193 of the Education Act 1964 or section 303 of the Education Act 1989.
 Parental leave payments
 (7) A parental leave payment made under Part 7A of the Parental Leave and Employment Protection Act 1987 is included in salary or wages.
@@ -37723,12 +37722,14 @@ In this Act, unless the context requires otherwise,—
   - **pool** is defined in section EE 67 (Other definitions)
   - **pool method** is defined in section EE 67 (Other definitions)
   - **poolable property** is defined in section EE 66 (Meaning of poolable property)
-  - **portable New Zealand superannuation** means New Zealand superannuation paid or payable overseas under any of—
-    (a) sections 26 to 29 and 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
-    (b) sections 17, 17BA, or 19 of the Social Welfare (Transitional Provisions) Act 1990
-  - **portable veteran’s pension** means a veteran’s pension paid or payable overseas under any of—
-    (a) sections 74J to 74M and 74O of the War Pensions Act 1954:
-    (b) sections 17, 17BA, and 19 of the Social Welfare (Transitional Provisions) Act 1990
+  - **portable New Zealand superannuation** means New Zealand superannuation paid or payable overseas under—
+    (a) section 26(2)(a) of the New Zealand Superannuation and Retirement Income Act 2001, or under section 26(2)(b) where the superannuitant is residing in a country to which section 26(1)(a) of that Act applies; or
+    (b) section 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
+    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+  - **portable veteran’s pension** means a veteran's pension paid or payable overseas under—
+    (a) section 74J(2)(a) of the War Pensions Act 1954, or under section 74J(2)(b) where the pensioner is residing in a country to which section 74J(1)(a) of that Act applies; or
+    (b) section 74O of the War Pensions Act 1954; or
+    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
   - **portfolio allocation period** , for a portfolio tax rate entity, means a period that meets the requirements of section HL 16 (Portfolio allocation period and portfolio calculation period) to which the entity allocates income
   - **portfolio calculation period** , for a portfolio tax rate entity, means a period consisting of 1 or more portfolio allocation periods that meets the requirements of section HL 16 (Portfolio allocation period and portfolio calculation period) for the calculation of portfolio investor allocated income and portfolio investor allocated loss
   - **portfolio class fraction** , for a portfolio tax rate entity and a portfolio investor class, means the fraction of the proceeds from a portfolio entity investment to which the investors in the portfolio investor class are entitled as a group
@@ -50751,15 +50752,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (18) In the definition of PIE rules, paragraph (a)(vii), ring-fenced losses is replaced by ring-fenced tax losses.
 (19) After the definition of policyholder base income, the following is inserted:.
   - **policyholder unvested liabilities** means benefits that are allocated to policyholders of profit participation policies but are not vested in a specific policyholder
-(20) The definitions of portable New Zealand superannuation and portable veteran's pension are replaced by the following:.
-  - **portable New Zealand superannuation** means New Zealand superannuation paid or payable overseas under—
-    (a) section 26(2)(a) of the New Zealand Superannuation and Retirement Income Act 2001, or under section 26(2)(b) where the superannuitant is residing in a country to which section 26(1)(a) of that Act applies; or
-    (b) section 31 of the New Zealand Superannuation and Retirement Income Act 2001; or
-    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
-  - **portable veteran's pension** means a veteran's pension paid or payable overseas under—
-    (a) section 74J(2)(a) of the War Pensions Act 1954, or under section 74J(2)(b) where the pensioner is residing in a country to which section 74J(1)(a) of that Act applies; or
-    (b) section 74O of the War Pensions Act 1954; or
-    (c) section 19 of the Social Welfare (Transitional Provisions) Act 1990
+(20) Amendment(s) incorporated in the Act(s).
 (21) After the definition of post-1989 forest land emissions unit the following is inserted: .
   - **post-treaty tax rate** means the rate of tax, after taking into account the overriding effect of a relevant double tax agreement, if there is one, as provided by section BH 1 (Double tax agreements)
 (22) In the definition of prescribed investor rate, under sections HM 56 to HM 59 (which relate to the default and other tax rates for investors) is replaced by set out in schedule 6, table 1 (Prescribed rates: PIE investments and retirement scheme contributions).
