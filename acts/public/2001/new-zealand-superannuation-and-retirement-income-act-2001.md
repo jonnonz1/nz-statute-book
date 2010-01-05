@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2010-01-05_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -189,10 +189,10 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 **Payment overseas of New Zealand superannuation**
 
 ### 21 Effect of absence from New Zealand on New Zealand superannuation
-A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in sections 22 to 29 or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+A person is not entitled to New Zealand superannuation while that person is absent from New Zealand except as provided in sections 22 to 35 or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
 
 ### 22 First 26 weeks of certain temporary absences
-New Zealand superannuation that would otherwise be payable to a person is payable in respect of the first 26 weeks of any absence from New Zealand if—
+New Zealand superannuation that would otherwise be payable to a person (other than a person who is receiving New Zealand superannuation overseas under section 26) is payable in respect of the first 26 weeks of any absence from New Zealand if—
   (a) the person’s absence does not exceed 30 weeks; or
   (b) the person’s absence exceeds 30 weeks and the chief executive is satisfied that the absence beyond 30 weeks is due to circumstances beyond that person’s control that he or she could not reasonably have foreseen before departure.
 
@@ -212,11 +212,57 @@ The chief executive may pay New Zealand superannuation to any person who would o
 If a person who is absent from New Zealand would have become entitled to New Zealand superannuation during his or her absence but for section 21, the person’s absence is to be regarded as having commenced on the day he or she would have become entitled to New Zealand superannuation.
 
 ### 26 Payment overseas of New Zealand superannuation
-(1) A person who is entitled to receive New Zealand superannuation and who leaves New Zealand to reside in a country with which New Zealand has no agreement relating to reciprocity of social security monetary benefits is entitled, while residing in that country, to be paid 50% of the gross rate of New Zealand superannuation (excluding any living alone payment), as the case may be, that he or she would be entitled to receive if he or she resided in New Zealand.
-(2) However, if a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation has made or is entitled to make an election under section 12, that person who is married or in a civil union or in a de facto relationship is only entitled to be paid under this section 50% of the gross rate payable under clause 1(c) of Schedule 1.
-(3) A person is not entitled to receive payment overseas under this section unless,—
-  (a) on the date of application for the payment, he or she is ordinarily resident and present in New Zealand and is on that date entitled to receive New Zealand superannuation or will be so entitled before leaving New Zealand; and
-  (b) the applicant intends to reside for more than 26 weeks in the overseas country to which the application relates, being a country with which New Zealand has no agreement relating to reciprocity of social security monetary benefits.
+(1) This subsection—
+  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990, that relates to New Zealand superannuation; and
+  (b) applies to a person if he or she has left New Zealand at a time when he or she was—
+    (i) intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 30(1)); or
+    (ii) intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.
+(2) A person to whom subsection (1) applies is entitled to be paid New Zealand superannuation at the appropriate rate specified in subsection (6)—
+  (a) in the case of a person who has left New Zealand at a time when he or she was intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which subsection (1) applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 30(1)), until he or she—
+    (i) begins to reside in a country that is not a country to which subsection (1) applies; or
+    (ii) begins to reside in New Zealand again; or
+    (iii) begins to receive New Zealand superannuation otherwise than under this section; and
+  (b) in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—
+    (i) begins to reside in a country that is not a country to which subsection (1) applies; or
+    (ii) returns to New Zealand.
+(3) For the purposes only of subsection (2)(b)(ii), a person does not return to New Zealand if—
+  (a) he or she—
+    (i) interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then
+    (ii) resumes his or her overseas travel; and
+  (b) he or she does not while in New Zealand begin to receive New Zealand superannuation otherwise than under this section.
+(4) Except to the extent provided by paragraphs (a)(i) and (b)(i) of subsection (2), a person does not cease to be entitled to be paid New Zealand superannuation under that subsection by reason only of changing his or her intentions after leaving New Zealand.
+(5) Subsection (4) is for the avoidance of doubt.
+(6) The rates referred to in subsection (2) are,—
+  (a) for a single person, a rate that is a proportion (calculated under section 26A(1)) of the amount stated in clause 1(b) of Schedule 1:
+  (b) for a person who is married or in a civil union or in a de facto relationship, a rate that is a proportion (calculated under subsection 26A(1)) of the amount stated in clause 1(c) of that schedule.
+(7) This section is subject to section 26B.
+
+### 26A Calculation of amount of New Zealand superannuation payable overseas
+(1) The proportion referred to in section 26(6) is to be calculated by—
+  (a) treating each period during which the person concerned has resided in New Zealand while aged 20 or more and less than 65 as whole calendar months and (where applicable) additional days; and
+  (b) adding the number of additional days (if any), dividing the total by 30, and disregarding any remainder; and
+  (c) adding the number of calendar months and the quotient calculated under paragraph (b); and
+  (d) dividing by 540 the total calculated under paragraph (c).
+(2) In the determination for the purposes of subsection (1) of the periods during which a person has resided in New Zealand, no account is to be taken of—
+  (a) any period of absence from New Zealand of a kind described in section 9(1); or
+  (b) any period of absence from New Zealand—
+    (i) while the person was engaged in missionary work as a member of, or on behalf of, any religious body; or
+    (ii) while the person's spouse or partner was engaged in missionary work as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
+  (c) any period of absence from New Zealand while the person was (by virtue of section 79(1)(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
+(3) Subsection (2) applies to a period of absence only if the chief executive is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
+(4) Subsection (2)(b) applies to a period of absence only if the chief executive is satisfied that the person concerned either was born in New Zealand or—
+  (a) in the case of a person to whom subsection (2)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
+  (b) in the case of a person to whom subsection (2)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+
+### 26B Entitlement
+A person is not entitled to be paid New Zealand superannuation under section 26 unless he or she—
+  (a) has made an application for the payment of New Zealand superannuation under that section stating either (as the case may be)—
+    (i) the country or countries in which he or she intends to reside and the period for which he or she intends to reside there; or
+    (ii) the country or countries to and in which he or she intends to travel; and
+  (b) is ordinarily resident and present in New Zealand on the day he or she makes the application, and—
+    (i) is entitled to receive New Zealand superannuation on that day; or
+    (ii) will become entitled to receive New Zealand superannuation before he or she leaves New Zealand.
 
 ### 27 Applications after leaving New Zealand
 (1) This section applies if a person did not make an application for payment under section 26 while ordinarily resident and present in New Zealand because he or she left New Zealand intending to be absent for 26 weeks or less.
@@ -229,11 +275,12 @@ If a person who is absent from New Zealand would have become entitled to New Zea
 (3) Subsection (2) is subject to section 80AA of the Social Security Act 1964.
 
 ### 29 Relationship with other benefit provisions
-(1) If New Zealand superannuation payable overseas in accordance with section 26 is directly reduced under section 70 of the Social Security Act 1964, the amount payable is 50% of the reduced gross rate that would be payable in New Zealand.
-(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(1)
+(2) A person who is receiving New Zealand superannuation overseas under section 26 is not entitled to receive any living alone payment, supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
 (3) Despite the provisions of section 80 of the Social Security Act 1964, on the death of a person who receives New Zealand superannuation overseas under section 26, the benefit terminates on a date to be determined by the chief executive, being a date not more than 4 weeks after the date of death.
-(4) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than sections 75, 75A, and 76) apply to New Zealand superannuation being paid overseas under section 26.
-(5) This section and sections 26 to 28 apply despite sections 74(a) and 77 of the Social Security Act 1964, but subject to the provisions of this section and of sections 26 to 28 and 30 to 35.
+(4)
+(4A) Except as provided in this section, the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)(a), 75, 75A, 76, 77, and 82(7)) applies to New Zealand superannuation being paid under section 26.
+(5)
 
 ### 30 Specified Pacific country
 (1) In sections 31 to 35, specified Pacific country means a country or territory—
@@ -283,7 +330,7 @@ A person being paid a benefit under section 31 is not entitled to receive—
   (b) a living alone payment under section 13.
 
 ### 35 Application of this Act and Social Security Act 1964
-(1) Sections 21 to 29 do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under section 31.
+(1) Sections 22 to 29 do not apply in respect of New Zealand superannuation being paid in a specified Pacific country under section 31.
 (2) The Social Security Act 1964 (except sections 74(a), 75, 75A, 76, 77, and 80) applies to New Zealand superannuation being paid in a specified Pacific country under section 31.
 
 ## Part 2 — New Zealand Superannuation Fund
