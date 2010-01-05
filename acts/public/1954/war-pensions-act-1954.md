@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2010-01-05_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -808,10 +808,10 @@ On the death of any person who is ordinarily resident in New Zealand on the date
 **Payment overseas of veterans’ pensions**
 
 ### 74E Effect of absence from New Zealand on veteran’s pension
-A person is not entitled to a veteran’s pension while that person is absent from New Zealand, except as provided in sections 74F to 74M or section 74T or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
+A person is not entitled to a veteran’s pension while that person is absent from New Zealand, except as provided in sections 74F to 74T or in any agreement or convention adopted under section 19 of the Social Welfare (Transitional Provisions) Act 1990.
 
 ### 74F First 26 weeks of certain temporary absences
-A veteran’s pension that would otherwise be payable to a person is payable in respect of the first 26 weeks of any absence from New Zealand if—
+A veteran’s pension that would otherwise be payable to a person (other than a person who is receiving a veteran's pension overseas under section 74J) is payable in respect of the first 26 weeks of any absence from New Zealand if—
   (a) the person’s absence does not exceed 30 weeks; or
   (b) the person’s absence exceeds 30 weeks and the Secretary is satisfied that the absence beyond 30 weeks is due to circumstances beyond that person’s control that he or she could not reasonably have foreseen before departure.
 
@@ -830,14 +830,62 @@ The Secretary may, in the Secretary’s discretion, pay a veteran’s pension to
 ### 74I Date absence commences
 If a person who is absent from New Zealand would have become entitled to a veteran’s pension during his or her absence but for section 74E, the person’s absence must be regarded as having commenced on the day that he or she would have become entitled to a veteran’s pension.
 
-### 74J Payment overseas of veteran’s pension
-(1) A person who is entitled to receive a veteran’s pension and who leaves New Zealand to reside in a country with which New Zealand has no agreement relating to the portability of veterans’ pensions is entitled, while residing in that country, to be paid 50% of the gross rate of veteran’s pension (excluding any living alone payment) that he or she would be entitled to receive if he or she resided in New Zealand.
-(2) However, if a person who is married or in a civil union or in a de facto relationship and whose spouse or civil union partner or de facto partner is not entitled to receive a veteran’s pension has made, or is entitled to make, an election under section 74(2), that person who is married or in a civil union or in a de facto relationship is only entitled to be paid, under this section, 50% of the gross rate payable under clause 1(c) of Schedule 11.
-(3) The amount of the gross rate must, before the 50% calculation is made, be abated under section 74D if that section applies to the person.
-(4) A person is not entitled to receive payment overseas under this section unless,—
-  (a) on the date of application for the payment, he or she is ordinarily resident and present in New Zealand and is, on that date, entitled to receive a veteran’s pension or will be so entitled before leaving New Zealand; and
-  (b) the applicant intends to reside for more than 26 weeks in the overseas country to which the application relates, being a country with which New Zealand has no agreement relating to the portability of veterans’ pensions.
-(5) Subsection (1) applies despite sections 74(a) and 77 of the Social Security Act 1964, but subject to the provisions of this section and of sections 74K to 74S.
+### 74J Payment overseas of veteran's pension
+(1) This subsection—
+  (a) applies to a country if it is not a country with whose government New Zealand has a reciprocal agreement or convention, in force under section 19 of the Social Welfare (Transitional Provisions) Act 1990, that relates to the veteran's pension; and
+  (b) applies to a person if he or she has left New Zealand at a time when he or she was—
+    (i) intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which this subsection applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 74N(1)); or
+    (ii) intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand.
+(2) A person to whom subsection (1) applies is entitled to be paid a veteran's pension at the appropriate rate specified in subsection (6)—
+  (a) in the case of a person who has left New Zealand at a time when he or she was intending to reside for a period longer than 26 weeks in a country (or any 2 or more countries) to which subsection (1) applies, but not intending to reside for a period longer than 52 weeks in a specified Pacific country (within the meaning of section 74N(1)), until he or she—
+    (i) begins to reside in a country that is not a country to which subsection (1) applies; or
+    (ii) begins to reside in New Zealand again; or
+    (iii) begins to receive a veteran's pension otherwise than under this section; and
+    (iv) begins to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001; and
+  (b) in the case of a person who has left New Zealand at a time when he or she was intending to travel for a period longer than 26 weeks, but not intending to reside in any country other than New Zealand, until he or she—
+    (i) begins to reside in a country that is not a country to which subsection (1) applies; or
+    (ii) returns to New Zealand.
+(3) For the purposes only of subsection (2)(b)(ii), a person does not return to New Zealand if—
+  (a) he or she—
+    (i) interrupts his or her overseas travel, and travels to and stays briefly in New Zealand, in order to attend an event (for example, a wedding or funeral) or to visit a person (for example, a sick or injured family member); and then
+    (ii) resumes his or her overseas travel; and
+  (b) he or she does not while in New Zealand—
+    (i) begin to receive a veteran's pension otherwise than under this section; or
+    (ii) begin to receive New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001.
+(4) Except to the extent provided by paragraphs (a)(i) and (b)(i) of subsection (2), a person does not cease to be entitled to be paid a veteran's pension under that subsection by reason only of changing his or her intentions after leaving New Zealand.
+(5) Subsection (4) is for the avoidance of doubt.
+(6) The rates referred to in subsection (2) are,—
+  (a) for a single person, a rate that is a proportion (calculated under section 74JA(1)) of the amount stated in clause 1(b) of Schedule 11:
+  (b) for a person who is married or in a civil union or in a de facto relationship, a rate that is a proportion (calculated under section 74JA(1)) of the amount stated in clause 1(c) of that schedule.
+(7) If section 74D applies to a person for whom an amount is specified by subsection (6), the calculation under section 74JA(1) of the proportion of it he or she is entitled to be paid must be made in respect of that amount after it has been abated under that section.
+(8) This section is subject to section 74JB.
+
+### 74JA Calculation of amount of veteran's pension payable overseas
+(1) The proportion referred to in sections 74J(6) and (7) is to be calculated by—
+  (a) treating each period during which the person concerned has resided in New Zealand while aged 20 or more and less than 65 as whole calendar months and (where applicable) additional days; and
+  (b) adding the number of additional days (if any), dividing the total by 30, and disregarding any remainder; and
+  (c) adding the number of calendar months and the quotient calculated under paragraph (b); and
+  (d) dividing by 540 the total calculated under paragraph (c).
+(2) In the determination for the purposes of subsection (1) of the periods during which a person has resided in New Zealand, no account is to be taken of—
+  (a) any period of absence from New Zealand of a kind described in section 9(1) of the New Zealand Superannuation and Retirement Income Act 2001; or
+  (b) any period of absence from New Zealand—
+    (i) while the person was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body; or
+    (ii) while the person's spouse or partner was engaged in missionary work (within the meaning of section 10(4) of the New Zealand Superannuation and Retirement Income Act 2001) as a member of, or on behalf of, any religious body, and the person was with his or her spouse or partner; or
+  (c) any period of absence from New Zealand while the person was (by virtue of section 79(1)(a) of the Social Security Act 1964) deemed to have been resident in New Zealand; or
+  (d) any period of absence from New Zealand while, as the spouse or partner of a person deemed by section 79(1)(a) of the Social Security Act 1964 to have been resident in New Zealand, the person was also (by virtue of section 79(1)(b) of the Social Security Act 1964) deemed to have been resident in New Zealand.
+(3) Subsection (2) applies to a period of absence only if the Secretary is satisfied that during it the person concerned remained ordinarily resident in New Zealand.
+(4) Subsection (2)(b) applies to a period of absence only if the Secretary is satisfied that the person concerned either was born in New Zealand or—
+  (a) in the case of a person to whom subsection (2)(b)(i) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to engage in the missionary work concerned:
+  (b) in the case of a person to whom subsection (2)(b)(ii) applies, was ordinarily resident in New Zealand immediately before leaving New Zealand to accompany or join his or her spouse or partner.
+
+### 74JB Entitlement
+A person is not entitled to be paid a veteran's pension under section 74J unless he or she—
+  (a) has made an application for the payment of a veteran's pension under that section stating either (as the case may be)—
+    (i) the country or countries in which he or she intends to reside and the period for which he or she intends to reside there; or
+    (ii) the country or countries to and in which he or she intends to travel; and
+  (b) is ordinarily resident and present in New Zealand on the day he or she makes the application, and—
+    (i) is entitled to receive a veteran's pension on that day; or
+    (ii) will become entitled to receive a veteran's pension before he or she leaves New Zealand.
 
 ### 74K Applications after leaving New Zealand
 (1) This section applies if a person did not make an application for payment under section 74J while ordinarily resident and present in New Zealand because he or she left New Zealand intending to be absent for 26 weeks or less.
@@ -850,11 +898,11 @@ If a person who is absent from New Zealand would have become entitled to a veter
 (3) Subsection (2) is subject to section 80AA of the Social Security Act 1964.
 
 ### 74M Relationship with other benefit provisions
-(1) If a veteran’s pension is payable overseas in accordance with section 74J and is directly reduced under section 70 of the Social Security Act 1964, the amount payable is 50% of the reduced gross rate that would be payable in New Zealand.
-(2) The amount of the reduced gross rate must, before the 50% calculation is made, be abated under section 74D if that section applies to the person.
-(3) A person who is receiving a veteran’s pension overseas under section 74J is not entitled to receive any supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
-(4) Despite the provisions of section 80 of the Social Security Act 1964, on the death of a person who receives a veteran’s pension overseas under section 74J, the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
-(5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than sections 75, 75A, and 76) apply to veterans’ pensions being paid overseas under section 74J.
+(1)
+(2)
+(3) A person who is receiving a veteran’s pension overseas under section 74J is not entitled to receive any living alone payment, supplementary or special benefit, temporary additional support, lump sum payment, or any other assistance under the Social Security Act 1964 or under any welfare programme approved under section 124(1)(d) of that Act.
+(4) Despite the provisions of section 80BD of the Social Security Act 1964, on the death of a person who receives a veteran’s pension overseas under section 74J, the benefit terminates on a date to be determined by the Secretary, being a date not more than 4 weeks after the date of death.
+(5) Except as otherwise provided in this section, the provisions of the Social Security Act 1964 (other than sections 69G to 69I, 70, 74(1)(a), 75, 76, 77, and 82(7), 75A, and 76) apply to veterans’ pensions being paid overseas under section 74J.
 
 ### 74N Specified Pacific country
 (1) In sections 74O to 74S, specified Pacific country means a country or territory—
@@ -1288,3 +1336,17 @@ This order comes into force on 1 April 2009.
 ### 3 Increasing rates of pensions, lump sum payments, and allowances to reflect changes in CPI
 (1) Amendment(s) incorporated in the Act(s).
 (2) The amendments made by subclause (1) to Schedule 12 of the War Pensions Act 1954 apply in respect of persons who die on or after 1 April 2009.
+
+### 1 Title
+This Act is the War Pensions Amendment Act 2009.
+
+### 2 Commencement
+This Act comes into force on a date to be appointed by the Governor-General by Order in Council.
+
+### 9 Saving
+(1) This subsection applies to a person who, immediately before the commencement of section 6, was entitled to be paid a veteran's pension under section 74J of the principal Act, between—
+  (a) that commencement; and
+  (b) the time he or she ceases to be entitled to be paid a veteran's pension under that section.
+(2) While subsection (1) applies to a person, he or she is entitled to be paid a veteran's pension at the higher of the following rates:
+  (a) the rate at which he or she was entitled to be paid immediately before the commencement of section 6:
+  (b) the rate at which he or she became entitled to be paid on that commencement.
