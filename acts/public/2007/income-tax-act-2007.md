@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-01-05_
+_Consolidation as at 2010-01-06_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -5673,7 +5673,7 @@ Link with subpart DA
 Who this section applies to
 (1)
 Deduction
-(2) A company is allowed a deduction for a charitable or other public benefit gift that it makes to a society, institution, association, organisation, trust, or fund of any of the kinds described in section LD 3(2) (Meaning of charitable or other public benefit gift) or set out in schedule 32 (Recipients of charitable or other public benefit gifts).
+(2) A company is allowed a deduction for a charitable or other public benefit gift that it makes to a donee organisation.
 Amount of deduction
 (3) The deduction for the total of all gifts made in an income year is limited to the amount that would be the company’s net income in the corresponding tax year in the absence of this section.
 Link with subpart DA
@@ -8020,7 +8020,7 @@ Link with subpart DA
 Deduction
 (1) A Maori authority is allowed a deduction for—
   (a) a donation that it makes to a Maori association, as defined in the Maori Community Development Act 1962, for the purposes of the Act:
-  (b) a charitable or other public benefit gift that it makes to a society, institution, association, organisation, trust, or fund to which section LD 3(2) (Meaning of charitable or other public benefit gift) or schedule 32 (Recipients of charitable or other public benefit gifts) applies.
+  (b) a charitable or other public benefit gift that it makes to a donee organisation.
 Amount of deduction
 (2) The deduction for the total of all donations and gifts made in an income year is limited to of the amount that would be the Maori authority’s net income in the corresponding tax year in the absence of this section.
 Link with subpart DA
@@ -25468,7 +25468,7 @@ Full year abatement
 Credit period months
 (6) Credit period months is the number of whole months in the credit period.
 
-### Subpart LD — Tax credits for charitable or other public benefit gifts
+### Subpart LD — Tax credits for gifts and donations
 
 ### LD 1 Tax credits for charitable or other public benefit gifts
 Amount of credit
@@ -25485,13 +25485,14 @@ Refundable credits
 (5) A credit under this section is a refundable tax credit under section LA 7 (Remaining refundable credits: tax credits under social policy schemes) and is excluded from the application of sections LA 2 to LA 6 (which relate to a person’s income tax liability).
 
 ### LD 2 Exclusions
-This subpart does not apply to any of the following persons:
+Section LD 1 does not apply to—
   (a) an absentee:
   (b) a company:
   (c) a public authority:
   (d) a Maori authority:
   (e) an unincorporated body:
-  (f) a trustee liable for income tax under subpart HC, and section HZ 2 (which relate to trusts and distributions from trusts).
+  (f) a trustee liable for income tax under subpart HC, and section HZ 2 (which relate to trusts and distributions from trusts):
+  (g) in relation to the credit, a person who has a tax credit for a payroll donation.
 
 ### LD 3 Meaning of charitable or other public benefit gift
 Meaning
@@ -25507,6 +25508,67 @@ Description of organisations
   (bc) a tertiary education institution that is established under Part 14 of the Education Act 1989 and is not carried on for the private pecuniary profit of any individual:
   (c) a fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a), by a society, institution, association, organisation, or trust that is not carried on for the private pecuniary profit of an individual:
   (d) a public fund established and maintained exclusively for the purpose of providing money for any 1 or more of the purposes within New Zealand set out in paragraph (a).
+
+### LD 4 Tax credits for payroll donations
+Who this section applies to
+(1) This section applies to a person who—
+  (a) is an employee whose employer—
+    (i) files by electronic means an employer monthly schedule and a PAYE income payment form with particulars relating to the person's PAYE income payments for a pay period; and
+    (ii) agrees to offer payroll giving to their employees; and
+  (b) chooses to make a payroll donation in the pay period from an amount derived as pay.
+Amount of credit
+(2) The person has a tax credit for the pay period equal to an amount calculated using the formula—total donations × 331 3%.
+Definition of item in formula
+(3) In the formula, total donations is the total amount of all payroll donations made by the person in the pay period.
+Maximum credit
+(4) Despite subsection (2), the amount of the tax credit must not be more than the amount of tax for the person's pay for the period.
+Non-refundable credits
+(5) A credit under this section is a non-refundable tax credit to which section LA 4(1) (When total tax credit more than income tax liability) applies for the tax year in which the period falls.
+No refunds for donations
+(6) A person who has a tax credit under this section may not make an application under section 41A of the Tax Administration Act 1994 for any refund relating to the amount of a payroll donation.
+Meaning of pay for payroll donation purposes
+(7) For the purposes of this section, and sections LD 8(1) and 24Q of the Tax Administration Act 1994, pay, for a person,—
+  (a) means an amount referred to in section RD 5(1)(a) or (b)(i) (Salary or wages); and
+  (b) includes any similar amount earned by an employee in the normal course of their employment; and
+  (c) excludes a benefit or grant, a payment of fees, a payment of compensation for accident or loss of employment or services, an amount paid for attendant care, or any other similar benefit in money.
+
+### LD 5 Calculating amount of tax credit and filing particulars
+Employer's responsibility
+(1) The employer of a person who makes a payroll donation in a pay period must calculate the amount of the person's tax credit for the pay period under section LD 4, and include the amount in the particulars described in section LD 4(1)(a).
+Credit extinguished
+(2) The tax credit is extinguished if—
+  (a) the Commissioner does not receive an employer monthly schedule and PAYE income payment form for the relevant payroll donation:
+  (b) the relevant particulars filed are incorrect.
+When matters corrected
+(3) Despite subsection (2), the credit is restored to the person if the relevant matter is corrected and, for the purposes of this section, it is as if the error had never been made.
+
+### LD 6 When donation is paid to ineligible recipient
+When this section applies
+(1) This section applies for the purposes of section LD 4 when the employer or PAYE intermediary transfers the person's payroll donation to an entity that is not a donee organisation.
+Credit extinguished
+(2) The tax credit is extinguished.
+Consequences when credit extinguished
+(3) The consequences that arise when a tax credit is extinguished under subsection (2) are—
+  (a) the amount of the credit is included in the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
+  (b) when the extinguishing of the credit results in a shortfall in an amount of tax for a PAYE income payment, section RD 4 (Payment of amounts of tax to Commissioner) applies to the shortfall.
+
+### LD 7 When donation returned to person
+When this section applies
+(1) This section applies for the purposes of section LD 4 when the amount of a payroll donation is, for whatever reason, returned to the person.
+Treatment of credit
+(2) The tax credit is extinguished.
+Consequences when credit extinguished
+(3) The consequences that arise when a tax credit is extinguished under subsection (2) are—
+  (a) the amount of the credit is included in the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
+  (b) when the extinguishing of the credit results in a shortfall in an amount of tax for a PAYE income payment, section RD 4 (Payment of amounts of tax to Commissioner) applies to the shortfall.
+
+### LD 8 Meaning and ranking of payroll donation
+Meaning
+(1) A payroll donation, for a pay period and employer who agrees to offer payroll giving to their employees, is an amount that a person asks their employer to transfer from the amount of the person's pay for the period to a donee organisation.
+Priorities of amounts withheld and other deductions
+(2) A person may make a payroll donation for a pay period only after satisfying—
+  (a) any tax obligation they may have:
+  (b) any statutory or legal requirement they may be obliged to meet from their PAYE income payment.
 
 ### Subpart LE — Tax credits for imputation credits
 
@@ -33200,7 +33262,7 @@ This subpart establishes and measures an employer’s liability under—
 Meaning
 (1) The PAYE rules means—
   (a) section BC 1 (Non-filing and filing taxpayers); and
-  (b) sections LA 6 (Remaining refundable credits: PAYE, RWT, and certain other items) and LB 1 (Tax credits for PAYE income payments); and
+  (b) sections LA 6, LB 1, and LD 4 (which relate to tax credits); and
   (c) sections RD 3 to RD 24; and
   (d) sections RP 2 to RP 16 (which relate to PAYE intermediaries); and
   (e) sections 15C to 15M, 24, 24B to 24P, 48, and 133, Part 9, and sections 167 to 169 of the Tax Administration Act 1994.
@@ -33398,6 +33460,12 @@ When this section applies: becoming subject to PAYE rules
 (2) This section also applies when all or part of a payment of salary or wages becomes subject to the PAYE rules, but the payment is made before the date on which it becomes subject to the rules.
 Addition to amount of tax for next payment
 (3) The amount of the difference caused by the increase referred to in subsection (1)(b) is added to the amount of tax for the next payment of salary or wages made by the employer to the employee.
+
+### RD 13B Adjustments for payroll donations
+When this section applies
+(1) This section applies when an employee makes a payroll donation for a pay period for which they have a tax credit under section LD 4 (Tax credits for payroll donations).
+Subtracting amount of tax credit
+(2) The employer or PAYE intermediary must subtract the amount of the tax credit from the amount of tax for the employee's PAYE income payment for the pay period and record the information in the relevant employer monthly schedule.
 
 ### RD 14 Changes to tax rates for salary or wages
 When subsection (2) applies
@@ -35458,6 +35526,8 @@ An employer must—
   (a) keep a record of—
     (i) the gross salary or wages of an employee for a pay period; and
     (ii) the amounts of tax withheld by the employer for the pay period; and
+    (iii) the amount of any payroll donations for the pay period; and
+    (iv) the amount of any tax credit under section LD 4 (Tax credits for payroll donations); and
   (b) provide information a PAYE intermediary seeks in the time agreed by the employer and PAYE intermediary.
 
 ### RP 9 Authorised transfers from accounts
@@ -35496,6 +35566,7 @@ No liability as employer
 ### RP 14 Collection, payment, and information requirements
 A PAYE intermediary must—
   (a) calculate and withhold the amount of tax for a payment of salary or wages, and pay the amount to the Commissioner by electronic means and in the format required; and
+  (ab) transfer the amount of any payroll donation to the relevant recipient within the period described in section 24Q of the Tax Administration Act 1994; and
   (b) provide an employer monthly schedule to the Commissioner by electronic means and in the format required; and
   (c) provide a PAYE income payment form to the Commissioner if required; and
   (d) keep the records referred to in section 24 of the Tax Administration Act 1994.
@@ -35998,7 +36069,7 @@ In this Act, unless the context requires otherwise,—
   - **category A income** is defined in section HR 3(1) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **category B income** is defined in section HR 3(3) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **CFC** has the same meaning as
-  - **charitable or other public benefit gift** is defined in section LD 3 (Meaning of charitable or other public benefit gift) for the purposes of subpart LD (Tax credits for charitable or other public benefit gifts)
+  - **charitable or other public benefit gift** is defined in section LD 3 (Meaning of charitable or other public benefit gift) for the purposes of sections LD 1 to LD 3 (which relate to tax credits for charitable or other public benefit gifts)
   - **charitable organisation** —
     (a) means, for a quarter or an income year, an association, fund, institution, organisation, society, or trust to which section LD 3(2) (Meaning of charitable or other public benefit gift) or schedule 32 (Recipients of charitable or other public benefit gifts) applies—
       (i) in the quarter; or
@@ -36391,6 +36462,7 @@ In this Act, unless the context requires otherwise,—
     (b) a company whose constitution prohibits all of its income or property from being distributed to a proprietor, member, or shareholder of the company; or
     (c) a company all the income of which is exempt income other than under section CW 9 (Dividend derived by company from overseas) or CW 10 (Dividend within New Zealand wholly-owned group); or
     (d) a company that, in New Zealand, is engaged solely in the business of life insurance referred to in section EY 8(2)(c) (Meaning of life insurance) and is not a company that maintains an FDP account because of an election made under section OC 1 (General rules for companies with FDP accounts)
+  - **donee organisation** means an entity described in section LD 3(2) (Meaning of charitable or other public benefit gift) or listed in schedule 32 (Recipients of charitable or other public benefit gifts)
   - **double tax agreement** is defined in section BH 1 (Double tax agreements)
   - **early balance date** has the meaning given in section YE 1(6) (References to balance dates and years)
   - **early-payment discount** is defined in section RC 40 (Some definitions) for the purposes of sections RC 37 to RC 39 (which relate to discounts of income tax)
@@ -36441,7 +36513,11 @@ In this Act, unless the context requires otherwise,—
     (b) the name of every person who was an employee of the employer at any time during the period to which the employer monthly schedule relates; and
     (c) if supplied to the employer, the tax file number of each employee to whom paragraph (b) refers; and
     (d) the tax code of each employee to whom a PAYE income payment that is not an extra pay is made; and
-    (e) for each employee in the month to which the schedule relates, the amount of gross earnings, the total amount of tax withheld, and the amount of earnings not liable to the earner premium; and
+    (e) for each employee in the month to which the schedule relates,—
+      (i) the amount of gross earnings:
+      (ii) the total amount of tax withheld:
+      (iii) the total amount of tax credits under section LD 4 (Tax credits for payroll donations):
+      (iv) the amount of earnings not liable to the earner premium; and
     (f) if applicable, particulars of child support and student loan deductions made; and
     (g) for each employee in the month to which the schedule relates, if applicable, the amount of total KiwiSaver contribution deductions made under Part 3, subpart 1 of the KiwiSaver Act 2006; and
     (h) for each employee in the month to which the schedule relates, if applicable, the amount of employer's superannuation cash contributions, less any ESCT payable under the ESCT rules; and
@@ -37491,6 +37567,7 @@ In this Act, unless the context requires otherwise,—
   - **non-participating redeemable share** is defined in section CD 22(9) (Returns of capital: off-market share cancellations)
   - **non-refundable tax credit** means—
     (a) a tax credit under subpart LC (Tax credits for natural persons), excluding section LC 6 (Tax credits for housekeeping):
+    (ab) a tax credit under section LD 4 (Tax credits for payroll donations):
     (b) a tax credit under subpart LJ (Tax credits for foreign income tax):
     (c) a tax credit under subpart LK (Tax credits relating to attributed controlled foreign company income):
     (d) a tax credit under subpart LQ (Tax credits of conduit tax relief companies):
@@ -37617,6 +37694,7 @@ In this Act, unless the context requires otherwise,—
       (ii) to credit them for the amount:
       (iii) to deal with the amount in their interest or on their behalf, in some other way:
     (b) for a dividend that is a bonus issue, means to issue shares or to give credit for the shares comprising the bonus issue:
+    (bb) is defined in section LD 4(7) (Tax credits for payroll donations) for the purposes of that section and section LD 8(1) (Meaning and ranking of payroll donation) and for section 24Q of the Tax Administration Act 1994
     (c) is defined in section RD 51(6) (Calculation of all-inclusive pay) for the purposes of that section
   - **pay period** , for an employee receiving regular payments of salary or wages, means the period for which any such payment is payable
   - **PAYE** means pay-as-you-earn and refers to an amount payable as income tax under the PAYE rules
@@ -37643,6 +37721,7 @@ In this Act, unless the context requires otherwise,—
   - **PAYE rules** means the provisions listed in section RD 2(1) (PAYE rules and their application)
   - **payer** , in the RWT rules, means a person who makes a payment of resident passive income
   - **payment relating to incapacity for work** is defined in section CW 34(2) (Compensation payments) for the purposes of that section
+  - **payroll donation** is defined in section LD 8 (Meaning and ranking of payroll donation)
   - **PCA** means policyholder credit account
   - **PCA company** means a company described in section OJ 1(1) (General rules for companies and other persons with policyholder credit accounts)
   - **PCA person** means a person who chooses under section OJ 1(2) and OJ 12 (which relate to persons with policyholder credit accounts) to maintain a policyholder credit account
@@ -49972,15 +50051,15 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
     (c) for a calculation under the exit calculation or provisional tax calculation options, is an income year:
     (d) for a calculation under the exit calculation option when an exit period arises, is the exit period
 (25) Amendments incorporated in the principal Act.
-(26) In the definition of charitable or other public benefit gift, subpart LD (Tax credits for charitable or other public benefit gifts) is replaced by sections LD 1 to LD 3 (which relate to tax credits for charitable or other public benefit gifts).
-(27) After the definition of class, the following is inserted: .
+(26) Amendments incorporated in the principal Act.
+(27) After the definition of class, the following is inserted:.
   - **class of policies** means life insurance policies that have substantially the same terms and conditions, and that are priced by the life insurer using substantially the same assumptions
 (28) Amendments incorporated in the principal Act.
 (29) Amendments incorporated in the principal Act.
 (30) Amendments incorporated in the principal Act.
 (31) The definition of control is repealed.
 (32) Amendments incorporated in the principal Act.
-(33) After the definition of counted associate, the following is inserted:.
+(33) After the definition of counted associate, the following is inserted: .
   - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
 (34) Amendments incorporated in the principal Act.
 (35) After the definition of credit account continuity provisions, the following is inserted:.
@@ -49994,12 +50073,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (42) Amendments incorporated in the principal Act.
 (43) Amendments incorporated in the principal Act.
 (44) In the definition of dividend,—
-  (a) paragraph (c)(ii) is replaced by the following::
+  (a) paragraph (c)(ii) is replaced by the following: :
     (ii) includes an amount paid to a shareholder that is a company and a person associated with the company paying the amount, if the amount is excluded from dividend treatment generally only as a result of sections CD 26(2)(b) (Capital distributions on liquidation or emigration) and CD 44; and
   (b) paragraph (d)(i) is replaced by the following:.
     (i) includes an amount paid to a shareholder that is a company and a person associated with the company paying the amount, if the amount is excluded from dividend treatment generally only as a result of sections CD 26(2)(b) and CD 44; and
-(45) After the definition of dividend treated as interest, the following is inserted:.
-  - **donee organisation** means an entity described in section LD 3(2) (Meaning of charitable or other public benefit gift) or listed in schedule 32 (Recipients of charitable or other public benefit gifts)
+(45) Amendments incorporated in the principal Act.
 (46) After the definition of early balance date, the following is inserted:.
   - **early life regime application day** means, for a life insurer that chooses to apply the new life insurance rules, as provided in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009, for an income year that includes 1 July 2010, the first day of that income year
 (47) Amendments incorporated in the principal Act.
@@ -50008,15 +50086,10 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (50) Amendments incorporated in the principal Act.
 (51) Amendments incorporated in the principal Act.
 (52) Amendments incorporated in the principal Act.
-(53) In the definition of employer monthly schedule, paragraph (e) is replaced by the following: .
-  (e) for each employee in the month to which the schedule relates,—
-    (i) the amount of gross earnings:
-    (ii) the total amount of tax withheld:
-    (iii) the total amount of tax credits under section LD 4 (Tax credits for payroll donations):
-    (iv) the amount of earnings not liable to the earner premium; and
+(53) Amendments incorporated in the principal Act.
 (54) Amendments incorporated in the principal Act.
 (55) Amendments incorporated in the principal Act.
-(56) After the definition of employer-sourced superannuation savings, the following is inserted:.
+(56) After the definition of employer-sourced superannuation savings, the following is inserted: .
   - **employer sponsored group policy** is defined in section EY 30 (Transitional adjustments: life risk)
 (57) Amendments incorporated in the principal Act.
 (58) Amendments incorporated in the principal Act.
@@ -50026,7 +50099,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (62) Amendments incorporated in the principal Act.
 (63) Amendments incorporated in the principal Act.
 (64) Amendments incorporated in the principal Act.
-(65) After the definition of exemption certificate, the following is inserted:.
+(65) After the definition of exemption certificate, the following is inserted: .
   - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
 (66) After the definition of existing privilege, the following are inserted: .
   - **exit level** , for a multi-rate PIE, means the relationship of the entity’s tax liability to the value of the investor’s interest described in section HM 62 (Exit levels for investors)
@@ -50147,8 +50220,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (129) Amendments incorporated in the principal Act.
 (130) Amendments incorporated in the principal Act.
 (131) Amendments incorporated in the principal Act.
-(132) In the definition of non-refundable tax credit, the following is inserted after paragraph (a):.
-  (ab) a tax credit under section LD 4 (Tax credits for payroll donations):
+(132) Amendments incorporated in the principal Act.
 (133) In the definition of non-refundable tax credit, paragraph (g) is replaced by the following:.
   (g) a tax credit under sections LS 3(3) and (4) and LS 4(3) and (4) (which relate to multi-rate PIEs and certain of their investors) and under section LS 1 (Tax credits for multi-rate PIEs) to the extent to which it arises under section HM 51 (Use of foreign tax credits by PIEs)
 (134) Amendments incorporated in the principal Act.
@@ -50163,11 +50235,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (142) Amendments incorporated in the principal Act.
 (143) Amendments incorporated in the principal Act.
 (144) Amendments incorporated in the principal Act.
-(145) In the definition of pay, after paragraph (b), the following is inserted:.
-  (bb) is defined in section LD 4(7) (Tax credits for payroll donations) for the purposes of that section and section LD 8(1) (Meaning and ranking of payroll donation) and for section 24Q of the Tax Administration Act 1994
+(145) Amendments incorporated in the principal Act.
 (146) Amendments incorporated in the principal Act.
-(147) After the definition of payment relating to incapacity for work, the following is inserted:.
-  - **payroll donation** is defined in section LD 8 (Meaning and ranking of payroll donation)
+(147) Amendments incorporated in the principal Act.
 (148) Amendments incorporated in the principal Act.
 (149) Amendments incorporated in the principal Act.
 (150) After the definition of physical cost of production, the following is inserted: .
