@@ -1,5 +1,5 @@
 # Companies Act 1993
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2010-01-07_
 
 > An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
@@ -6102,6 +6102,7 @@ Except as provided in this Schedule and in any regulations made under this Act, 
     (ii) the amount of the costs incurred by that creditor in protecting, preserving the value of, or recovering those assets.
 (2) After paying the claims referred to in subclause (1), the liquidator must next pay, to the extent that they remain unpaid, the following claims:
   (a) subject to clause 3(1), all wages or salary of any employee, whether or not earned wholly or in part by way of commission, and whether payable for time or for piece work, in respect of services provided to the company during the 4 months before the commencement of the liquidation:
+  (aa) subject to clause 3(1), all untransferred amounts of an employee's payroll donations by an employer or PAYE intermediary under section 24Q of the Tax Administration Act 1994 during the 4 months before the commencement of the liquidation:
   (b) subject to clause 3(1), any holiday pay payable to an employee on the termination of his or her employment before, or because of, the commencement of the liquidation:
   (c) subject to clause 3(1), any compensation for redundancy owed to an employee that accrues before, or because of, the commencement of the liquidation:
   (d) subject to clause 3(1), amounts deducted by the company from the wages or salary of an employee in order to satisfy obligations of the employee (including amounts payable to the Commissioner of Inland Revenue in accordance with section 163(1) of the Child Support Act 1991 and section 167(2) of the Tax Administration Act 1994 as applied by section 25 of the Student Loan Scheme Act 1992):
