@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-01-06_
+_Consolidation as at 2010-01-07_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -25530,7 +25530,7 @@ Meaning of pay for payroll donation purposes
 (7) For the purposes of this section, and sections LD 8(1) and 24Q of the Tax Administration Act 1994, pay, for a person,—
   (a) means an amount referred to in section RD 5(1)(a) or (b)(i) (Salary or wages); and
   (b) includes any similar amount earned by an employee in the normal course of their employment; and
-  (c) excludes a benefit or grant, a payment of fees, a payment of compensation for accident or loss of employment or services, an amount paid for attendant care, or any other similar benefit in money.
+  (c)
 
 ### LD 5 Calculating amount of tax credit and filing particulars
 Employer's responsibility
@@ -25549,7 +25549,7 @@ Credit extinguished
 (2) The tax credit is extinguished.
 Consequences when credit extinguished
 (3) The consequences that arise when a tax credit is extinguished under subsection (2) are—
-  (a) the amount of the credit is included in the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
+  (a) the amount of the credit is removed from the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
   (b) when the extinguishing of the credit results in a shortfall in an amount of tax for a PAYE income payment, section RD 4 (Payment of amounts of tax to Commissioner) applies to the shortfall.
 
 ### LD 7 When donation returned to person
@@ -25559,7 +25559,7 @@ Treatment of credit
 (2) The tax credit is extinguished.
 Consequences when credit extinguished
 (3) The consequences that arise when a tax credit is extinguished under subsection (2) are—
-  (a) the amount of the credit is included in the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
+  (a) the amount of the credit is removed from the person's tax credits for PAYE income payments under section LB 1 (Tax credits for PAYE income payments) for the tax year in which the pay period falls:
   (b) when the extinguishing of the credit results in a shortfall in an amount of tax for a PAYE income payment, section RD 4 (Payment of amounts of tax to Commissioner) applies to the shortfall.
 
 ### LD 8 Meaning and ranking of payroll donation
