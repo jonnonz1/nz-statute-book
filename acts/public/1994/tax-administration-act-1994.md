@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-01-07_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1140,6 +1140,7 @@ An information holder who is required to disclose information in relation to a p
   (e) is an employer to whom the FBT rules apply or is a person who provides any fringe benefit to any person who, in relation to any employer to whom the FBT rules apply, is an employee:
   (eb) has a tax credit under section LH 2 of the Income Tax Act 2007:
   (ec) is a listed research provider under section LH 15 of that Act:
+  (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
   (f) is a company that is an ICA company, a FDPA company, a BETA company, a BETA person, a PCA company, or a PCA person:
   (fb) is a resident foreign trustee of a foreign trust in any income year,—
   (g) the assessable income derived by that person from the carrying on of that business, or the carrying on of that other activity, or the making or holding or disposing of that investment; and
@@ -1152,6 +1153,7 @@ An information holder who is required to disclose information in relation to a p
   (kd) the person's compliance with section LH 15(1) of that Act, if the person is a listed research provider under section LH 15 of that Act, to show—
     (i) they meet the start-up requirements and the other continuing requirements; and
     (ii) the amounts derived and incurred by them in performing the research and development activities on behalf of other persons; and
+  (ke) the transfer under section 24Q of an amount of an employee's payroll donation to the recipient of the donation; and
   (l) every employer’s superannuation contribution, and the taxable value of that contribution, made by the person to any superannuation fund, those records to include (without limiting the generality of the preceding provisions of this paragraph) details of the recipient of the employer’s superannuation contribution , the occasion of making it, and any related tax credit under section MK 1(2) of the Income Tax Act 2007.; and
   (lb) every retirement scheme contribution, and the taxable value of that contribution, made by the person to any retirement savings scheme, those records to include, without limiting the generality of the preceding provisions of this paragraph, details of the recipient of the retirement scheme contribution and the occasion of making it; and
   (m) the financial position of the foreign trust,—
@@ -1216,7 +1218,7 @@ An information holder who is required to disclose information in relation to a p
 **Other obligations to keep and provide records**
 
 ### 24 Records to be kept by employer or PAYE intermediary
-(1) An employer who makes a PAYE income payment to an employee must keep a proper record relating to the employee, showing the amount of the PAYE income payment before tax and the amount of the tax withheld from it, and must enter those amounts in the record at the time of making the PAYE income payment.
+(1) An employer who makes a PAYE income payment to an employee must keep a proper record relating to the employee, showing the amount of the PAYE income payment before tax and the amount of the tax withheld from it, and the amount of any payroll donation, and must enter those amounts in the record at the time of making the PAYE income payment.
 (1B) For a pay period in which a person acts as a PAYE intermediary for an employer in relation to an employee—
   (a) the person must keep a proper record of the person's actions as a PAYE intermediary in respect of the employee; and
   (b) the employer must keep a proper record of the employer's payments to the person of salary or wages in respect of the employee.
@@ -1338,6 +1340,15 @@ An employee who wishes to have a tax code for their employment as a private dome
 
 ### 24P Variation of requirements
 The Commissioner may vary the requirements set out in RD 22 of the Income Tax Act 2007, and 24B, 24H, 24I, and 24L for a person or a class of persons.
+
+**Payroll donations**
+
+### 24Q Transfer of payroll donations by employers
+(1) This section applies for a pay period and employer who agrees to offer payroll giving to their employees, when a person asks their employer to transfer an amount of a payroll donation from the person's pay to a donee organisation.
+(2) The employer or PAYE intermediary must transfer the amount to the recipient of the donation on or by the relevant date required by sections RA 15 and RD 4 of the Income Tax Act 2007 that occurs nearest to the expiry of 2 months after the end of the pay period. Until transferred to the recipient, the amount is held on trust for the person.
+(3) Before the transfer referred to in subsection (2) is made, the person must—
+  (a) ensure that the recipient of the donation is a donee organisation; and
+  (b) supply the employer with sufficient details of the recipient to enable the transfer to be made.
 
 ### 25 RWT withholding certificates
 (1) Subsection (1B) applies when a person withholds RWT for resident passive income paid to or derived by any other person that is—
@@ -5952,7 +5963,7 @@ For the purposes of determining a person’s liability to pay a late payment pen
 (1) A taxpayer is liable to pay a shortfall penalty if, in taking a tax position, the taxpayer—(referred to as evasion or a similar act).
   (a) evades the assessment or payment of tax by the taxpayer or another person under a tax law; or
   (b) knowingly applies or permits the application of the amount of a deduction or withholding of tax made or deemed to be made under a tax law for any purpose other than in payment to the Commissioner; or
-  (c) knowingly does not make a deduction or withholding of tax required to be made by a tax law; or
+  (c) knowingly does not make a deduction, withholding of tax, or transfer of payroll donation required to be made by a tax law; or
   (d) obtains a refund or payment of tax, knowing that the taxpayer is not lawfully entitled to the refund or payment under a tax law; or
   (da) attempts to obtain a refund or payment of tax, knowing that the taxpayer is not lawfully entitled to the refund or payment under a tax law; or
   (e) enables another person to obtain a refund or payment of tax, knowing that the other person is not lawfully entitled to the refund or payment under a tax law; or
@@ -8146,11 +8157,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
     (ii) the issues raised by the challenge are not substantially similar to issues being considered by a court or Taxation Review Authority in another challenge for which, at that date, a case management conference or directions hearing or other hearing has been held or a direction has been given that there be no case management conference or directions hearing.
 
 ### 605 Keeping of business and other records
-(1) After section 22(2)(ec), the following is inserted:.
-  (ed) is an employer to whom section RD 13B of that Act applies in relation to the treatment of a tax credit for a payroll donation:
+(1) Amendment(s) incorporated in the Act(s).
 (2) Amendment(s) incorporated in the Act(s).
-(3) After section 22(2)(kd), the following is inserted:.
-  (ke) the transfer under section 24Q of an amount of an employee's payroll donation to the recipient of the donation; and
+(3) Amendment(s) incorporated in the Act(s).
 (4) Subsection (2) applies for all income years beginning on or after 1 July 2009.
 
 ### 607 PAYE tax codes
