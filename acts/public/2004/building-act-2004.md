@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2009-08-01_
+_Consolidation as at 2010-02-01_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -197,6 +197,9 @@ In this Act, unless the context otherwise requires,—
     (b) includes all active and passive protection features required to warn people of fire and to assist in protecting people from the effects of fire in the course of their escape from the fire
   - **Minister** means the Minister of the Crown who, under the authority of a warrant or with the authority of the Prime Minister, is responsible for the administration of this Act
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is responsible for the administration of this Act
+  - **minor customisation** , in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under section 402(1)(kc)
+  - **minor variation** means a minor modification, addition, or variation to a building consent that is permitted by regulations made under section 402(1)(kd)
+  - **national multiple-use approval** means an approval issued by the chief executive under section 30F
   - **natural hazard** has the meaning given to it by section 71
   - **network utility operator** means a person who—
     (a) undertakes or proposes to undertake the distribution or transmission by pipeline of natural or manufactured gas, petroleum, biofuel, or geothermal energy; or
@@ -362,6 +365,7 @@ In this Act, building does not include—
 Under this Act, the chief executive—
   (a) issues compliance documents and reviews those documents; and
   (b) warns against, or bans the use of, particular building methods or products; and
+  (ba) determines applications for national multiple-use approvals; and
   (c) specifies the kinds of applications for a building consent that must be copied to the New Zealand Fire Service Commission under section 46; and
   (d) monitors and reports annually to the Minister in accordance with section 169; and
   (e) publishes guidance information on the requirements of this Act and the building code; and
@@ -440,7 +444,8 @@ Under this Act, a regional authority—
 (1) In general terms, this Part provides—
   (a) that all building work must comply with the building code to the extent required by this Act:
   (b) how compliance with the building code is to be established:
-  (c) that a project information memorandum must be obtained before a building consent is issued:
+  (ba) the effect of a national multiple-use approval and how to apply for one:
+  (c) when a project information memorandum is required and how to apply for one:
   (d) when a building consent is required and how to apply for one:
   (e) that an applicant for a building consent is liable to pay a levy to the chief executive if the application is granted:
   (f) that restricted building work must be carried out or supervised by 1 or more licensed building practitioners:
@@ -478,7 +483,8 @@ All building work must comply with the building code to the extent required by t
   (a) compliance with regulations referred to in section 20:
   (b) compliance with the provisions of a compliance document:
   (c) a determination to that effect made by the chief executive under subpart 1 of Part 3:
-  (d) a current product certificate issued under section 269, if any relevant condition in that product certificate is met:
+  (ca) a current national multiple-use approval issued under section 30F, if every relevant condition in that national multiple-use approval is met:
+  (d) a current product certificate issued under section 269, if every relevant condition in that product certificate is met:
   (e) to the extent that compliance with a requirement imposed by regulations made under the Electricity Act 1992 or the Gas Act 1992 is compliance with any particular provisions of the building code, a certificate issued under any of those regulations to the effect that any energy work complies with those requirements.
 (2) In considering whether something complies with the building code, a building consent authority or, as the case may be, a regional authority—
   (a) must have regard to any relevant warning issued, and ban declared, under section 26(2); and
@@ -608,6 +614,89 @@ A person may comply with a compliance document in order to comply with the provi
   (a) explain the reasons for his or her decision; or
   (b) state where copies of that explanation may be obtained.
 
+**National multiple-use approvals**
+
+### 30A National multiple-use approval establishes compliance with building code
+(1) A national multiple-use approval establishes that the plans and specifications to which it relates comply with the building code.
+(2) To avoid doubt, a national multiple-use approval does not confer the right to carry out building work that requires a building consent.
+
+### 30B How to apply for national multiple-use approval
+(1) An application for a national multiple-use approval must—
+  (a) be made in writing; and
+  (b) be given, in the prescribed form and manner (if any), to the chief executive; and
+  (c) contain the prescribed information (if any); and
+  (d) be accompanied by plans and specifications that are—
+    (i) required by regulations made under section 402; or
+    (ii) if the regulations do not so require, required by the chief executive; and
+  (e) if the application relates to building work for which a compliance schedule is required, be accompanied by a list of all specified systems for the building; and
+  (f) contain or be accompanied by any other information that the chief executive reasonably requires.
+(2) An application for an amendment to a national multiple-use approval must be made as if it were an application for a national multiple-use approval, and sections 30A to 30H apply with any necessary modifications.
+
+### 30C Applications for national multiple-use approval relating to design work that is restricted building work
+(1) This section applies if an application for a national multiple-use approval is accompanied by plans and specifications that contain design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act.
+(2) The design work referred to in subsection (1) must be carried out or supervised by 1 or more licensed building practitioners who are licensed to carry out or supervise that work.
+(3) The plans and specifications that contain the design work referred to in subsection (1) must be accompanied by a memorandum—
+  (a) provided by 1 or more licensed building practitioners who carried out or supervised that design work; and
+  (b) that identifies that design work; and
+  (c) that states—
+    (i) that the design work complies with the building code; or
+    (ii) whether waivers or modifications of the building code are required and, if so, what those waivers or modifications are.
+
+### 30D Chief executive must decide whether to accept, for processing, application for national multiple-use approval
+(1) The chief executive must, as soon as practicable after receiving an application for a national multiple-use approval,—
+  (a) decide whether to accept that application for processing; and
+  (b) give written notice of his or her decision to the applicant; and
+  (c) if the chief executive decides to refuse to accept the application for processing, state the reasons for the refusal in the notice given under paragraph (b).
+(2) The chief executive may require further reasonable information in respect of the application.
+(3) The chief executive may refuse to accept for processing an application for a national multiple-use approval only if the chief executive is satisfied, on reasonable grounds, that the application—
+  (a) does not meet the requirements of this Act; or
+  (b) includes a building method or product in relation to which the chief executive has publicly notified a ban under section 26; or
+  (c) does not meet the prescribed eligibility criteria (if any) for a national multiple-use approval.
+
+### 30E Processing application for national multiple-use approval
+(1) The chief executive must, after accepting for processing an application for a national multiple-use approval, decide whether to—
+  (a) issue the national multiple-use approval; or
+  (b) refuse to issue the national multiple-use approval.
+(2) If regulations made under section 402(1)(kb) are in force, the chief executive must make the decision referred to in subsection (1) within the period of time prescribed in those regulations.
+(3) The chief executive may require further reasonable information in respect of an application for a national multiple-use approval before making the decision referred to in subsection (1), and any prescribed period of time within which that decision must be made is suspended until the chief executive receives that information.
+
+### 30F Issue of national multiple-use approval
+(1) The chief executive must issue a national multiple-use approval if he or she is satisfied, on reasonable grounds, that—
+  (a) the application meets the requirements of section 30B; and
+  (b) the applicant has paid the prescribed fee (if any); and
+  (c) the application meets the prescribed eligibility criteria for a national multiple-use approval (if any); and
+  (d) the application does not involve the use of a building method or product in relation to which the chief executive has publicly notified a ban under section 26; and
+  (e) if building work were properly completed in accordance with the plans and specifications that accompanied the application, that building work would comply with the building code.
+(2) A national multiple-use approval may be issued subject to—
+  (a) a waiver or modification of the building code; and
+  (b) 1 or more conditions, including, but not limited to, conditions that the approval applies only—
+    (i) in specified regions; or
+    (ii) in specified climates or conditions; or
+    (iii) to specified aspects of the building work; or
+    (iv) if the building work complies with specified requirements.
+
+### 30G Refusal to issue national multiple-use approval
+If the chief executive is not satisfied of the matters in section 30F, the chief executive must refuse to issue a national multiple-use approval and must give the applicant written notice of—
+  (a) the refusal; and
+  (b) the reasons for the refusal.
+
+### 30H Suspension or revocation of national multiple-use approval
+(1) The chief executive may, at any time, suspend or revoke a national multiple-use approval, if the chief executive is satisfied that—
+  (a) the approval was obtained by fraud, misrepresentation, or the concealment of facts; or
+  (b) the approval no longer meets the prescribed eligibility criteria for a national multiple-use approval; or
+  (c) building work properly completed in accordance with the approval will no longer comply with the building code because of an amendment to the code.
+(2) Before revoking or suspending a national multiple-use approval the chief executive must give the holder of the approval a reasonable opportunity to be heard.
+(3) When suspending a national multiple-use approval, the chief executive must—
+  (a) give the holder of the approval a reasonable period to rectify the matter that led to the suspension of the national multiple-use approval; and
+  (b) lift the suspension if the chief executive is satisfied that the holder of the approval has rectified the matter within that period.
+(4) Despite subsections (1) and (3), the chief executive must not suspend or revoke a national multiple-use approval if—
+  (a) amendments are made to—
+    (i) the prescribed eligibility criteria for a national multiple-use approval; or
+    (ii) the building code; and
+  (b) the national multiple-use approval no longer meets the eligibility criteria, or complies with the building code, solely as a result of those amendments.
+(5) The limit in subsection (4) applies only during the period of 3 months after the date on which the amendments referred to in that subsection come into force.
+(6) The chief executive must record the suspension or revocation of a national multiple-use approval in the register of national multiple-use approvals.
+
 ### Subpart 3 — Building work—Project information memoranda and building consents
 
 **Project information memoranda**
@@ -617,7 +706,7 @@ A person may comply with a compliance document in order to comply with the provi
   (a) on receiving an application for a building consent, apply for a project information memorandum to the territorial authority for the district in which the proposed building work is to be situated; and
   (b) on receiving the project information memorandum from the territorial authority, provide a copy of the memorandum to the owner.
 (2) Subsection (1) does not apply if—
-  (a) the building consent authority is the territorial authority for the district in which the proposed building work is to be situated (in which case the territorial authority must issue the project information memorandum for the building work and provide a copy of the memorandum to the owner); or
+  (a) the building consent authority is the territorial authority for the district in which the proposed building work is to be situated; or
   (b) a project information memorandum has been issued before the application for a building consent is made.
 
 ### 32 Owner may apply for project information memorandum
@@ -651,6 +740,7 @@ An owner may apply to a territorial authority for a project information memorand
   (b) receives information that affects the project information memorandum.
 
 ### 35 Content of project information memorandum
+(1AA) A project information memorandum must be issued in the prescribed form (if any).
 (1) A project information memorandum must include—
   (a) information likely to be relevant to the proposed building work that identifies—
     (i) the heritage status of the building (if any); and
@@ -680,25 +770,32 @@ An owner may apply to a territorial authority for a project information memorand
     (b) is known to the territorial authority; and
     (c) is not apparent from the district plan under the Resource Management Act 1991.
 
-### 36 Territorial authority may attach development contribution notice to project information memorandum
-If a territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner, the territorial authority may attach to the project information memorandum a notice, in the prescribed form, to the effect that a code compliance certificate for the building work will not be issued unless the development contribution is paid (development contribution notice).
+### 36 Territorial authority may issue development contribution notice
+(1) This section applies if a territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner.
+(2) The territorial authority must issue a notice, in the prescribed form, to the effect that a code compliance certificate for the building work will not be issued unless the development contribution is paid (development contribution notice).
+(3) The development contribution notice must be—
+  (a) attached to the project information memorandum; or
+  (b) if no project information memorandum has been applied for, provided to the building consent authority.
 
-### 37 Territorial authority must attach additional certificate to project information memorandum
+### 37 Territorial authority must issue certificate if resource consent required
 (1) This section applies if a territorial authority considers that—
   (a) a resource consent under the Resource Management Act 1991 has not yet been obtained; and
-  (b) the resource consent will or may materially affect building work to which a project information memorandum relates.
-(2) The territorial authority must attach to the project information memorandum a certificate, in the prescribed form, to the effect that until the resource consent has been obtained—
+  (b) the resource consent will or may materially affect building work to which a project information memorandum or an application for a building consent relates.
+(2) The territorial authority must issue a certificate, in the prescribed form, to the effect that until the resource consent has been obtained—
   (a) no building work may proceed; or
   (b) building work may only proceed to the extent stated in the certificate.
+(3) The certificate must be—
+  (a) attached to the project information memorandum; or
+  (b) if no project information memorandum has been applied for, provided to the building consent authority.
 
 ### 38 Territorial authority must give copy of project information memorandum in certain circumstances
 If a project information memorandum contains information previously supplied to a territorial authority by a network utility operator or a statutory authority, the territorial authority must give a copy of the project information memorandum to that operator or that authority.
 
 ### 39 Territorial authority must advise New Zealand Historic Places Trust in certain circumstances
-(1) If the conditions set out in subsection (2) apply, a territorial authority must advise the New Zealand Historic Places Trust within 5 days after receiving an application for a project information memorandum.
-(2) The conditions are—
-  (a) that the application affects a registered historic place, historic area, wāhi tapu, or wāhi tapu area; and
-  (b) that the territorial authority has not previously issued a project information memorandum for the building work to which the application applies.
+(1) This section applies if—
+  (a) an application for a project information memorandum, or for a building consent, affects a registered historic place, historic area, wāhi tapu, or wāhi tapu area; and
+  (b) the territorial authority has not previously advised the New Zealand Historic Places Trust about the building work to which that application relates.
+(2) The territorial authority must advise the New Zealand Historic Places Trust within 5 days after receiving the application.
 
 **Building consents**
 
@@ -742,6 +839,9 @@ If a project information memorandum contains information previously supplied to 
   (b) be accompanied by plans and specifications that are—
     (i) required by regulations made under section 402; or
     (ii) if the regulations do not so require, required by a building consent authority; and
+  (ba) if a national multiple-use approval has been issued in relation to some or all of the plans and specifications required under paragraph (b), be accompanied by—
+    (i) a copy of that national multiple-use approval; and
+    (ii) details of any proposed minor customisations; and
   (c) contain or be accompanied by any other information that the building consent authority reasonably requires; and
   (d) be accompanied by the charge fixed by the building consent authority; and
   (e) in the case of an application for a building consent that relates to restricted building work, state the name of each licensed building practitioner who, as far as the applicant is aware at the time the application is made, will be involved in carrying out or supervising the restricted building work that is the subject of the application; and
@@ -755,17 +855,32 @@ If a project information memorandum contains information previously supplied to 
       (A) altered in the course of the building work:
       (B) added to the building in the course of the building work:
       (C) removed from the building in the course of the building work.
-(2) If an application for a building consent relates to design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act, any plans and specifications referred to in subsection (1) that accompany the application must—
-  (a) be prepared by, or under the supervision of, 1 or more licensed building practitioners; and
-  (b) be the subject of a memorandum—
-    (i) prepared by 1 or more licensed building practitioners who carried out or supervised the restricted building work; and
-    (ii) that identifies that work; and
-    (iii) that is provided with the plans and specifications.
-(3)
-(4) The memorandum under subsection (2)(b) must state, if the restricted building work was to be properly completed in accordance with the plans and specifications that accompanied the application,—
-  (a) that the restricted building work will comply with the building code; or
-  (b) whether waivers or modifications are required to the building code and, if so, what those waivers or modifications are.
-(5) An application for an amendment to a building consent must be made as if it were an application for a building consent, and this section applies with any necessary modifications.
+(2) If an application for a building consent is accompanied by plans and specifications that contain design work (relating to building work) that is design work of a kind declared by the Governor-General by Order in Council to be restricted building work for the purposes of this Act, that design work must be carried out or supervised by 1 or more licensed building practitioners who are licensed to carry out or supervise that work.
+(3) The plans and specifications that contain the design work referred to in subsection (2) must be accompanied by a memorandum—
+  (a) provided by 1 or more licensed building practitioners who carried out or supervised that design work; and
+  (b) that identifies that design work; and
+  (c) that states—
+    (i) that the design work complies with the building code; or
+    (ii) whether waivers or modifications of the building code are required and, if so, what those waivers or modifications are.
+(4) An application for an amendment to a building consent must,—
+  (a) in the case of a minor variation, be made in accordance with section 45A; and
+  (b) in all other cases, be made as if it were an application for a building consent, and this section, and sections 48 to 51 apply with any necessary modifications.
+(5)
+
+### 45A Minor variations to building consents
+(1) An application for a minor variation to a building consent—
+  (a) is not required to be made in the prescribed form; but
+  (b) must comply with all other applicable requirements of section 45.
+(2) Sections 48 to 50 apply, with all necessary modifications, to an application for a minor variation.
+(3) A building consent authority that grants a minor variation—
+  (a) must record the minor variation in writing; but
+  (b) is not required to issue an amended building consent.
+
+### 45B Changes to plans and specifications that have national multiple-use approval
+(1) When applying for a building consent in reliance on plans and specifications for which a national multiple-use approval has been issued, or for an amendment to such a building consent under section 45(4), changes may be made to those plans and specifications if—
+  (a) the changes are permitted under the terms of the national multiple-use approval; or
+  (b) the changes are minor customisations permitted by regulations made under section 402(1)(kc).
+(2) If any other changes are made to the plans and specifications referred to in subsection (1), the national multiple-use approval does not apply.
 
 ### 46 Copy of certain applications for building consent must be provided to New Zealand Fire Service Commission
 (1) This section applies to an application for a building consent that is of a kind specified by the chief executive by notice published in the Gazette.
@@ -780,10 +895,13 @@ If a project information memorandum contains information previously supplied to 
 (3) If the New Zealand Fire Service Commission does not provide a memorandum within the period specified in subsection (1), the building consent authority may proceed to determine the application without the memorandum.
 
 ### 48 Processing application for building consent
-(1) A building consent authority must, within 20 working days after receiving an application for a building consent that complies with section 45,—
+(1) After receiving an application for a building consent that complies with section 45, a building consent authority must, within the time limit specified in subsection (1A),—
   (a) grant the application; or
   (b) refuse the application.
-(2) A building consent authority may, within the period specified in subsection (1), require further reasonable information in respect of the application, and, if it does so, the period is suspended until it receives that information.
+(1A) The time limit is—
+  (a) if the application includes plans and specifications in relation to which a national multiple-use approval has been issued, within 10 working days after receipt by the building consent authority of the application; and
+  (b) in all other cases, within 20 working days after receipt by the building consent authority of the application.
+(2) A building consent authority may, within the period specified in subsection (1A), require further reasonable information in respect of the application, and, if it does so, the period is suspended until it receives that information.
 (3) In deciding whether to grant or refuse an application for a building consent, the building consent authority must have regard to—
   (a) a memorandum provided by the New Zealand Fire Service Commission under section 47 (if any); and
   (b) whether a building method or product to which a current warning or ban under section 26(2) relates will, or may, be used or applied in the building work to which the building consent relates.
@@ -805,9 +923,10 @@ If a building consent authority refuses to grant an application for a building c
 (1) A building consent must—
   (a) be issued in the prescribed form; and
   (b) have attached to it a copy of—
-    (i) the project information memorandum for the building work to which the building consent relates; and
+    (i) the project information memorandum (if any) for the building work to which the building consent relates; and
     (ii) a development contribution notice under section 36 (if any); and
     (iii) a certificate issued under section 37 (if any); and
+  (ba) contain confirmation that the New Zealand Historic Places Trust has been notified under section 39 (if applicable); and
   (c) if a compliance schedule is required as a result of the building work, state—
     (i) the specified systems that must be covered by the compliance schedule; and
     (ii) the performance standards for the specified systems that are required by the building code; and
@@ -817,11 +936,8 @@ If a building consent authority refuses to grant an application for a building c
 (2) The issue of a building consent does not, of itself,—
   (a) relieve the owner of the building or proposed building to which the building consent relates of any duty or responsibility under any other Act relating to or affecting the building or proposed building; or
   (b) permit the construction, alteration, demolition, or removal of the building or proposed building if that construction, alteration, demolition, or removal would be in breach of any other Act.
-(3) If a building consent authority does not receive a project information memorandum from the territorial authority within the time required in section 34(1) or, as the case may be, section 34(3), the building consent authority may issue the building consent despite subsection (1)(b)(i).
-(4) However, the building consent authority must, on receiving the project information memorandum from the territorial authority, provide the owner with a copy of—
-  (a) the project information memorandum; and
-  (b) a development contribution notice under section 36 (if any); and
-  (c) a certificate issued under section 37 (if any).
+(3) If a building consent authority does not, within the time limit for granting the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)(b) or (ba), the building consent authority may grant the building consent despite that subsection.
+(4) However, the building consent authority must, on receiving the document or information referred to in subsection (3), provide the owner with the document or information.
 
 ### 52 Lapse of building consent
 A building consent lapses and is of no effect if the building work to which it relates does not commence within—
@@ -935,7 +1051,7 @@ If a territorial authority grants a building consent subject to a waiver or modi
   (a) an existing building to which section 118 applies; and
   (b) access and facilities for use by persons with disabilities.
 (2) If this section applies, the chief executive may grant a waiver or modification only in a determination issued under subpart 1 of Part 3.
-(3) This section does not apply to a waiver or modification of the building code that relates to a new building.
+(3) This section does not apply to a waiver or modification of the building code that relates to a new building or that is contained in a national multiple-use approval.
 
 ### 70 Applications relating to energy work
 (1) This section applies if any part of an application for a building consent—
@@ -981,12 +1097,12 @@ Despite section 71, a building consent authority that is a territorial authority
   (a) in the case of an application made by, or on behalf of, the Crown, the appropriate Minister and the Surveyor-General; and
   (b) in the case of an application made by, or on behalf of, the owners of Māori land, the Registrar of the Maori Land Court; and
   (c) in any other case, the Registrar-General of Land.
-(2) The notification under subsection (1)(a) or (b) must be accompanied by a copy of the project information memorandum that relates to the building consent in question.
+(2) The notification under subsection (1)(a) or (b) must be accompanied by a copy of any project information memorandum that has been issued and that relates to the building consent in question.
 (3) The notification under subsection (1)(c) must identify the natural hazard concerned.
 
 ### 74 Steps after notification
 (1) On receiving a notification under section 73,—
-  (a) the Surveyor-General or the Registrar of the Maori Land Court, as the case may be, must enter in his or her records the particulars of the notification together with a copy of the project information memorandum that accompanied the notification:
+  (a) the Surveyor-General or the Registrar of the Maori Land Court, as the case may be, must enter in his or her records the particulars of the notification together with a copy of any project information memorandum that accompanied the notification:
   (b) the Registrar-General of Land must record, as an entry on the certificate of title to the land on which the building work is carried out,—
     (i) that a building consent has been granted under section 72; and
     (ii) particulars that identify the natural hazard concerned.
@@ -1001,9 +1117,9 @@ Despite section 71, a building consent authority that is a territorial authority
 
 ### 75 Construction of building on 2 or more allotments
 (1) This section applies if—
-  (a) an application for a project information memorandum relates to the construction of a building on land that is comprised, or partly comprised, of 2 or more allotments of 1 or more existing subdivisions (whether comprised in the same certificate of title or not); and
+  (a) an application for a project information memorandum or for a building consent relates to the construction of a building on land that is comprised, or partly comprised, of 2 or more allotments of 1 or more existing subdivisions (whether comprised in the same certificate of title or not); and
   (b) those allotments are held by the owner in fee simple.
-(2) The territorial authority must state in the project information memorandum that, as a condition of the grant of a building consent for the building work to which the project information memorandum relates, 1 or more of those allotments specified by the territorial authority (the specified allotments) must not be transferred or leased except in conjunction with any specified other or others of those allotments.
+(2) The territorial authority must issue a certificate that states that, as a condition of the grant of a building consent for the building work to which the application relates, 1 or more of those allotments specified by the territorial authority (the specified allotments) must not be transferred or leased except in conjunction with any specified other or others of those allotments.
 
 ### 76 Exemption from section 75
 (1) Section 75 does not apply if—
@@ -1012,15 +1128,16 @@ Despite section 71, a building consent authority that is a territorial authority
 (2) Section 82 applies if subsection (1)(b) applies.
 
 ### 77 Building consent must not be granted until condition is imposed under section 75
-(1) A building consent authority must not grant a building consent for building work to which section 75 applies until the territorial authority has issued a certificate imposing the condition referred to in section 75(2).
+(1) A building consent authority must not grant a building consent for building work to which section 75 applies until the territorial authority has issued the certificate under section 75(2).
 (2) The territorial authority must impose that condition if the building consent authority requests it to do so.
 (3) The certificate must be—
   (a) authenticated by the territorial authority; and
   (b) signed by the owner.
 (4) The territorial authority must lodge a copy of the certificate with the Registrar-General of Land.
+(5) The building consent authority must note, on the building consent, the condition imposed in the certificate.
 
 ### 78 Registrar-General of Land must record entry on certificate of title when certificate is lodged under section 77
-(1) If a certificate referred to in section 77(1) is lodged with the Registrar-General of Land, he or she must record, as an entry on each certificate of title for the specified allotments, that the certificate of title is subject to the condition referred to in section 75(2).
+(1) If a certificate referred to in section 77(1) is lodged with the Registrar-General of Land, he or she must record, as an entry on each certificate of title for the specified allotments, that the certificate of title is subject to the condition referred to in that certificate.
 (2) The Registrar-General of Land does not need to record the entry on the duplicate of the certificates of title.
 (3) Subsection (1) is subject to section 82.
 
@@ -2371,13 +2488,15 @@ An authorised person supplied with a warrant under section 206—
   (a) a determination by the chief executive under section 188; or
   (b) the chief executive's decision to—
     (i) decline to register the person as a building consent authority; or
-    (ii) take any action referred to in section 203.
+    (ii) take any action referred to in section 203; or
+    (iii) refuse to issue a national multiple-use approval.
 (2) The persons are,—
   (a) in the case of an appeal under subsection (1)(a),—
     (i) the applicant for the determination; or
     (ii) any other party; or
   (b) in the case of an appeal under subsection (1)(b)(i), the applicant for registration; or
-  (c) in the case of an appeal under subsection (1)(b)(ii), the building consent authority concerned.
+  (c) in the case of an appeal under subsection (1)(b)(ii), the building consent authority concerned; or
+  (d) in the case of an appeal under subsection (1)(b)(iii), the applicant for the national multiple-use approval.
 
 ### 209 Procedure for commencing appeal
 (1) An appeal under section 208 must be made—
@@ -2415,9 +2534,7 @@ An authorised person supplied with a warrant under section 206—
   (a) any application for a building consent made to the territorial authority; and
   (b) any building consent granted under that application.
 (2) Subsection (1) does not apply in the case of dams.
-(3) A territorial authority must, in performing its functions as a building consent authority,—
-  (a) issue a project information memorandum before granting a building consent; and
-  (b) provide to the New Zealand Fire Service Commission a copy of every application for a building consent of a kind specified by notice under section 46.
+(3) A territorial authority must, in performing its functions as a building consent authority, provide to the New Zealand Fire Service Commission a copy of every application for a building consent of a kind specified by notice under section 46.
 (4) Subsection (1)—
   (a) is subject to the territorial authority's power to transfer, under section 233, any or all of its functions, duties, or powers under this Act to another territorial authority; and
   (b) does not apply to any function so transferred by the territorial authority.
@@ -2965,6 +3082,7 @@ An application for accreditation under section 263 must—
 
 ### 273 Chief executive must keep registers
 (1) The chief executive must establish and maintain the following registers:
+  (aaa) a register of national multiple-use approvals:
   (a) a register of building consent authorities for the purposes of section 191:
   (b)
   (c) a register of accredited dam owners notified to the chief executive under section 260:
@@ -2984,6 +3102,7 @@ An application for accreditation under section 263 must—
 ### 274 Purpose of registers
 The purpose of each register is—
   (a) to enable members of the public to know,—
+    (iaa) in the case of the register of national multiple-use approvals, the names and contact details of the persons who have been issued with national multiple-use approvals, together with a description of each approval and any conditions that have been imposed; and
     (i) in the case of the register of building consent authorities, the names and contact details of those building consent authorities and, if applicable, the scope of their accreditation; and
     (ii)
     (iii) in the case of the register of accredited dam owners, the names and contact details of those dam owners; and
@@ -3908,6 +4027,7 @@ Any civil proceedings against a building consent authority in respect of the per
   (a) a compliance document:
   (b) a determination made by the chief executive under subpart 1 of Part 3:
   (c) a current product certificate issued under subpart 7 of Part 3:
+  (ca) a current national multiple-use approval issued under section 30F (including, in any particular case, any minor customisations permitted by regulations made under section 402(1)(kc)):
   (d) a code compliance certificate issued under section 95:
   (e) a certificate issued under any regulations made under the Electricity Act 1992 or the Gas Act 1992.
 (2) Subsection (3) applies if—
