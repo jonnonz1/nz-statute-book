@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-01-07_
+_Consolidation as at 2010-02-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -26338,7 +26338,9 @@ Supplementary dividend holding companies
 ### LP 2 Tax credits for supplementary dividends
 When this section applies
 (1) This section applies when a company resident in New Zealand pays a dividend and a related supplementary dividend to—
-  (a) a non-resident; or
+  (a) a non-resident, if––
+    (i) the non-resident has less than a 10% direct voting interest in the company; and
+    (ii) the post-treaty tax rate for the dividend and the related supplementary dividend is 15% or more; or
   (b) a supplementary dividend holding company that is not part of the same consolidated group as the company.
 Amount of credit
 (2) For the year of payment, the company has a tax credit equal to an amount calculated using the formula— attached imputation credit ×7 17.
@@ -34830,7 +34832,7 @@ Calculation of amount of tax
 
 ### RF 9 When dividends fully imputed or fully credited
 When this section applies
-(1) This section applies for the purposes of sections RF 8 and RF 10 to determine the extent to which a dividend is fully imputed or fully credited for FDP or conduit tax relief.
+(1) This section applies for the purposes of sections RF 8, RF 10, and RF 11B to determine the extent to which a dividend is fully imputed or fully credited for FDP or conduit tax relief.
 Fully imputed
 (2) The extent to which a dividend is fully imputed is calculated using the formula—
 Definition of items in formula
@@ -34889,6 +34891,11 @@ When this section applies
   (d) some or all of the price for which company B acquired the share remains after the acquisition unpaid or owing in any way to the non-resident, whether or not the amount is secured.
 Dividend derived
 (2) While an amount of the price remains unpaid or owing, a dividend paid to company B in relation to the share is treated as having been paid to the non-resident and as derived as a dividend by the non-resident at the time the dividend is paid.
+
+### RF 11B Certain dividends paid to certain non-residents
+The rate of NRWT payable on a payment of non-resident passive income is 0% to the extent to which the payment is a fully imputed dividend paid to a non-resident by a company, if––
+  (a) the non-resident has a 10% or more direct voting interest in the company:
+  (b) the non-resident has less than a 10% direct voting interest in the company and, but for this section, the post-treaty tax rate for the dividend is less than 15%.
 
 ### RF 12 Interest paid by approved issuers or transitional residents
 When this section applies
@@ -37885,6 +37892,7 @@ In this Act, unless the context requires otherwise,—
   - **post-1989 forest land emissions unit** , for a person, means an emissions unit—
     (a) transferred to the person under section 64 of the Climate Change Response Act 2002 for growing trees on post-1989 forest land; and
     (b) held continuously by the person since the issue
+  - **post-treaty tax rate** means the rate of tax, after taking into account the overriding effect of a relevant double tax agreement, if there is one, as provided by section BH 1 (Double tax agreements)
   - **pre-1983 investments** is defined in section HR 3(8) (Definitions for section HR 2: group investment funds) for the purposes of section HR 2 (Group investment funds)
   - **pre-1990 forest land** means pre-1990 forest land as defined in section 4(1) of the Climate Change Response Act 2002
   - **pre-1990 forest land emissions unit** , for a person, means an emissions unit—
@@ -50823,8 +50831,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (19) After the definition of policyholder base income, the following is inserted:.
   - **policyholder unvested liabilities** means benefits that are allocated to policyholders of profit participation policies but are not vested in a specific policyholder
 (20) Amendment(s) incorporated in the Act(s).
-(21) After the definition of post-1989 forest land emissions unit the following is inserted: .
-  - **post-treaty tax rate** means the rate of tax, after taking into account the overriding effect of a relevant double tax agreement, if there is one, as provided by section BH 1 (Double tax agreements)
+(21) Amendment(s) incorporated in the Act(s).
 (22) In the definition of prescribed investor rate, under sections HM 56 to HM 59 (which relate to the default and other tax rates for investors) is replaced by set out in schedule 6, table 1 (Prescribed rates: PIE investments and retirement scheme contributions).
 (23) In the definition of relative,––
   (a) in paragraph (a), in the words before the subparagraphs, except in section HC 36 (Trusts and minor beneficiary rule) is replaced by for the purposes of only this Act, other than in section HC 36 (Trusts and minor beneficiary rule):
