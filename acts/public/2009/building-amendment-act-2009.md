@@ -1,5 +1,5 @@
 # Building Amendment Act 2009
-_Consolidation as at 2009-07-31_
+_Consolidation as at 2010-02-01_
 
 ### 1 Title
 This Act is the Building Amendment Act 2009.
@@ -22,28 +22,28 @@ The purpose of this Act is to reduce the compliance requirements under the princ
 ## Part 2 — Amendments to principal Act
 
 ### 5 Interpretation
-Section 7 is amended by inserting the following definitions in their appropriate alphabetical order:.
+Section 7 is amended by inserting the following definitions in their appropriate alphabetical order: .
   - **minor customisation** , in relation to an application for a building consent that incorporates plans and specifications that have national multiple-use approval, means a minor modification, addition, or variation to those plans and specifications that is permitted by regulations made under section 402(1)(kc)
   - **minor variation** means a minor modification, addition, or variation to a building consent that is permitted by regulations made under section 402(1)(kd)
   - **national multiple-use approval** means an approval issued by the chief executive under section 30F
 
 ### 6 Role of chief executive
-Section 11 is amended by inserting the following paragraph after paragraph (b):.
+Section 11 is amended by inserting the following paragraph after paragraph (b): .
   (ba) determines applications for national multiple-use approvals; and
 
 ### 7 Outline of this Part
-(1) Section 15(1) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 15(1) is amended by inserting the following paragraph after paragraph (b): .
   (ba) the effect of a national multiple-use approval and how to apply for one:
-(2) Section 15(1) is amended by repealing paragraph (c) and substituting the following paragraph:.
+(2) Section 15(1) is amended by repealing paragraph (c) and substituting the following paragraph: .
   (c) when a project information memorandum is required and how to apply for one:
 
 ### 8 How compliance with building code is established
-(1) Section 19(1) is amended by inserting the following paragraph after paragraph (c):.
+(1) Section 19(1) is amended by inserting the following paragraph after paragraph (c): .
   (ca) a current national multiple-use approval issued under section 30F, if every relevant condition in that national multiple-use approval is met:
 (2) Section 19(1)(d) is amended by omitting any and substituting every.
 
 ### 9 New heading and sections 30A to 30H inserted
-The following heading and sections are inserted after section 30:National multiple-use approvalsNational multiple-use approval establishes compliance with building codeHow to apply for national multiple-use approvalApplications for national multiple-use approval relating to design work that is restricted building workChief executive must decide whether to accept, for processing, application for national multiple-use approvalProcessing application for national multiple-use approvalIssue of national multiple-use approvalRefusal to issue national multiple-use approvalSuspension or revocation of national multiple-use approval
+The following heading and sections are inserted after section 30: National multiple-use approvals National multiple-use approval establishes compliance with building code How to apply for national multiple-use approval Applications for national multiple-use approval relating to design work that is restricted building work Chief executive must decide whether to accept, for processing, application for national multiple-use approval Processing application for national multiple-use approval Issue of national multiple-use approval Refusal to issue national multiple-use approval Suspension or revocation of national multiple-use approval
   (1) A national multiple-use approval establishes that the plans and specifications to which it relates comply with the building code.
   (2) To avoid doubt, a national multiple-use approval does not confer the right to carry out building work that requires a building consent.
   (1) An application for a national multiple-use approval must—
@@ -118,7 +118,7 @@ Section 35 is amended by inserting the following subsection before subsection (1
   (1AA) A project information memorandum must be issued in the prescribed form (if any).
 
 ### 12 New section 36 substituted
-Section 36 is repealed and the following section substituted:Territorial authority may issue development contribution notice
+Section 36 is repealed and the following section substituted: Territorial authority may issue development contribution notice
   (1) This section applies if a territorial authority considers that a development contribution under the Local Government Act 2002 is payable by the owner.
   (2) The territorial authority must issue a notice, in the prescribed form, to the effect that a code compliance certificate for the building work will not be issued unless the development contribution is paid (development contribution notice).
   (3) The development contribution notice must be—
@@ -135,14 +135,14 @@ Section 36 is repealed and the following section substituted:Territorial authori
     (b) if no project information memorandum has been applied for, provided to the building consent authority.
 
 ### 14 New section 39 substituted
-Section 39 is repealed and the following section substituted:Territorial authority must advise New Zealand Historic Places Trust in certain circumstances
+Section 39 is repealed and the following section substituted: Territorial authority must advise New Zealand Historic Places Trust in certain circumstances
   (1) This section applies if—
     (a) an application for a project information memorandum, or for a building consent, affects a registered historic place, historic area, wāhi tapu, or wāhi tapu area; and
     (b) the territorial authority has not previously advised the New Zealand Historic Places Trust about the building work to which that application relates.
   (2) The territorial authority must advise the New Zealand Historic Places Trust within 5 days after receiving the application.
 
 ### 15 How to apply for building consent
-(1) Section 45(1) is amended by inserting the following paragraph after paragraph (b):.
+(1) Section 45(1) is amended by inserting the following paragraph after paragraph (b): .
   (ba) if a national multiple-use approval has been issued in relation to some or all of the plans and specifications required under paragraph (b), be accompanied by—
     (i) a copy of that national multiple-use approval; and
     (ii) details of any proposed minor customisations; and
@@ -159,7 +159,7 @@ Section 39 is repealed and the following section substituted:Territorial authori
     (b) in all other cases, be made as if it were an application for a building consent, and this section, and sections 48 to 51 apply with any necessary modifications.
 
 ### 16 New sections 45A and 45B inserted
-The following sections are inserted after section 45:Minor variations to building consentsChanges to plans and specifications that have national multiple-use approval
+The following sections are inserted after section 45: Minor variations to building consents Changes to plans and specifications that have national multiple-use approval
   (1) An application for a minor variation to a building consent—
     (a) is not required to be made in the prescribed form; but
     (b) must comply with all other applicable requirements of section 45.
@@ -184,7 +184,7 @@ The following sections are inserted after section 45:Minor variations to buildin
 
 ### 18 Issue of building consent
 (1) Section 51(1)(b)(i) is amended by inserting (if any) after memorandum.
-(2) Section 51(1) is amended by inserting the following paragraph after paragraph (b):.
+(2) Section 51(1) is amended by inserting the following paragraph after paragraph (b): .
   (ba) contain confirmation that the New Zealand Historic Places Trust has been notified under section 39 (if applicable); and
 (3) Section 51 is amended by repealing subsections (3) and (4) and substituting the following subsections:
   (3) If a building consent authority does not, within the time limit for granting the building consent, receive from the territorial authority any document or information required for compliance with subsection (1)(b) or (ba), the building consent authority may grant the building consent despite that subsection.
@@ -223,26 +223,26 @@ Section 212 is amended by repealing subsection (3) and substituting the followin
   (3) A territorial authority must, in performing its functions as a building consent authority, provide to the New Zealand Fire Service Commission a copy of every application for a building consent of a kind specified by notice under section 46.
 
 ### 27 Chief executive must keep registers
-Section 273(1) is amended by inserting the following paragraph before paragraph (a):.
+Section 273(1) is amended by inserting the following paragraph before paragraph (a): .
   (aaa) a register of national multiple-use approvals:
 
 ### 28 Purpose of registers
-Section 274(a) is amended by inserting the following subparagraph before subparagraph (i):.
+Section 274(a) is amended by inserting the following subparagraph before subparagraph (i): .
   (iaa) in the case of the register of national multiple-use approvals, the names and contact details of the persons who have been issued with national multiple-use approvals, together with a description of each approval and any conditions that have been imposed; and
 
 ### 29 Building consent authority not liable
-Section 392(1) is amended by inserting the following paragraph after paragraph (c):.
+Section 392(1) is amended by inserting the following paragraph after paragraph (c): .
   (ca) a current national multiple-use approval issued under section 30F (including, in any particular case, any minor customisations permitted by regulations made under section 402(1)(kc)):
 
 ### 30 Regulations: general
-Section 402(1) is amended by inserting the following paragraphs after paragraph (k):.
+Section 402(1) is amended by inserting the following paragraphs after paragraph (k): .
   (ka) prescribing eligibility criteria for national multiple-use approvals:
   (kb) prescribing the period of time within which the chief executive must decide, under section 30E(1), whether to issue a national multiple-use approval:
   (kc) defining the minor customisations that may be made to plans and specifications in relation to which a national multiple-use approval has been issued when incorporating those plans and specifications into a building consent:
   (kd) defining the minor variations that may be made to a building consent for the purposes of section 45A:
 
 ### 31 New section 402A inserted
-The following section is inserted after section 402:Chief executive must review regulations made under section 402(1)(kb)
+The following section is inserted after section 402: Chief executive must review regulations made under section 402(1)(kb)
   The chief executive must, within 2 years after the commencement of regulations made under section 402(1)(kb),—
     (a) review the prescribed period of time within which the chief executive must decide whether to issue a national multiple-use approval; and
     (b) prepare for the Minister a report on the findings of that review.
