@@ -1,5 +1,5 @@
 # Legal Services Act 2000
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-02-17_
 
 ### 1 Title
 This Act is the Legal Services Act 2000.
@@ -21,17 +21,17 @@ The purpose of this Act is to promote access to justice by—
   - **Agency** means the Legal Services Agency established by section 91
   - **aided person** —
     (a) means a person who is or has been granted legal aid under this Act or the former Act; and
-    (b) includes a person whose grant of legal aid has been withdrawn under section 27 of this Act
+    (b) includes a person whose grant of legal aid has been withdrawn under section 27
   - **approved scheme** means a scheme (other than the legal aid, duty solicitor, or PDLA schemes) that is administered by the Agency and approved by the Minister under a purchase agreement for the provision of particular legal services
   - **auditor** means a person employed or appointed by the Agency for the purpose of conducting examinations, or audits, or both
   - **Board** means the Board of the Agency referred to in section 94
   - **capital** , in relation to a person, means that person's capital as described in Schedule 1
   - **civil proceedings** includes—
-    (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Care of Children Act 2004, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006 and
+    (a) proceedings under the Marriage Act 1955, the Adoption Act 1955, the Care of Children Act 2004, the Domestic Actions Act 1975, the Property (Relationships) Act 1976, the Family Proceedings Act 1980, the Domestic Violence Act 1995, or subparts 5, 7, 8, and 9 of Part 1 of the Weathertight Homes Resolution Services Act 2006; and
     (b) proceedings under the Children, Young Persons, and Their Families Act 1989, other than proceedings in respect of an offence; and
     (c) despite paragraph (b), proceedings under Part 2 of the Children, Young Persons, and Their Families Act 1989 on the ground specified in section 14(1)(e) of that Act
   - **community legal services** means services provided or funded under this Act other than through a scheme
-  - **cost of services** means the sum of the following
+  - **cost of services** means the sum of the following:
     (a) the fees of, or charges attributable to, the lead provider, as approved for payment under section 75 or prescribed by regulations; and
     (b) the fees of, or charges attributable to, any other listed provider who acted on the matter, as approved for payment under section 75 or prescribed by regulations; and
     (c) the disbursements claimed by the lead provider and any other listed provider who acted on the matter, as approved for payment under section 75
@@ -65,8 +65,9 @@ The purpose of this Act is to promote access to justice by—
   - **maximum grant** means the maximum amount of legal aid granted under a grant of legal aid
   - **mentally disordered** has the same meaning as it has in section 2(1) of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **Minister** means the Minister of Justice
+  - **offender** , in relation to a victim, means a person convicted of the crime or offence that affected the victim
   - **output agreement** has the same meaning as in section 10 of the Crown Entities Act 2004
-  - **PDLA scheme** means the police detention legal assistance scheme administered by the Agency under section 49
+  - **PDLA scheme** means the Police Detention Legal Assistance scheme administered by the Agency under section 49
   - **prescribed manner** means the manner prescribed by the Agency
   - **prescribed repayment amount** is the amount, based on income and capital, set by regulations made under this Act for the purposes of sections 17(1) and 18
   - **proceeds of proceedings** , in relation to civil proceedings for which legal aid has been granted, means—
@@ -77,16 +78,26 @@ The purpose of this Act is to promote access to justice by—
   - **proposed patient** has the meaning given to it by section 2A of the Mental Health (Compulsory Assessment and Treatment) Act 1992
   - **repayment** means the amount of money that an aided person is required to pay to the Agency under section 15(2) as a condition of a grant of legal aid
   - **Review Panel** means the Legal Aid Review Panel established under section 62
-  - **scheme** means any one or more of the following
+  - **scheme** means any 1 or more of the following:
     (a) the legal aid scheme:
     (b) the duty solicitor scheme:
     (c) the PDLA scheme:
     (d) an approved scheme
   - **Special Fund** means the Lawyers and Conveyancers Special Fund continued by section 289(1) of the Lawyers and Conveyancers Act 2006
   - **transition date** means 1 February 2001
+  - **victim** —
+    (a) means—
+      (i) a person against whom an offence is committed by another person; and
+      (ii) a person who, through, or by means of, an offence committed by another person, suffers physical injury or loss of, or damage to, property; and
+      (iii) a parent or legal guardian of a child, or of a young person, who falls within subparagraph (i) or (ii), unless that parent or guardian is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and
+      (iv) a member of the immediate family of a person who, as a result of an offence committed by another person, dies or is incapable, unless that member is charged with the commission of, or convicted or found guilty of, or pleads guilty to, the offence concerned; and
+    (b) despite paragraph (a), if an offence is committed by a person, does not include another person charged (whether as a principal or party or accessory after the fact or otherwise) with the commission of, or convicted or found guilty of, or who pleads guilty to,—
+      (i) that offence; or
+      (ii) an offence relating to the same incident or series of incidents as that crime or offence
   - **victims' claims proceedings** means proceedings of the kind specified in section 7(1)(q).
 (2) In this Act, a reference to an application by a person, or a grant to a person includes a reference to an application made by one person on behalf of another, or a grant made in respect of a person other than the person to whom the grant is made.
 (3) In this Act, and in any regulations made under it, references to such things as fees, charges, disbursements, grants, and rates, are references to those things GST inclusive.
+(4) For the purposes of the definitions of offender and victim in subsection (1), the terms child, immediate family, incapable, offence, and young person have the meanings given in section 4 of the Victims' Rights Act 2002.
 
 ### 5 Act binds the Crown
 This Act binds the Crown.
@@ -121,14 +132,17 @@ Legal aid may be granted in respect of the following criminal matters:
   (g) proceedings before the Social Security Appeal Authority:
   (h) proceedings before the Tenancy Tribunal:
   (i) proceedings before a body established under section 63(1)(a)(i) of the Housing Restructuring and Tenancy Matters Act 1992 to hear appeals under section 62 of that Act:
-  (j) proceedings before the Refugee Status Appeals Authority (whether as established by the government of New Zealand or as continued under section 129N of the Immigration Act 1987) in respect of any claim for refugee status made before 1 April 1999 (being the date on which the Immigration Amendment Act 1999 received the Royal assent), or any other matter relating to refugee status that arose before that date:
+  (j) proceedings before the Refugee Status Appeals Authority (whether as established by the Government of New Zealand or as continued under section 129N of the Immigration Act 1987) in respect of any claim for refugee status made before 1 April 1999 (being the date on which the Immigration Amendment Act 1999 received the Royal assent), or any other matter relating to refugee status that arose before that date:
   (k) the processing, under Part 6A of the Immigration Act 1987, of any claim for refugee status first made on or after 1 April 1999 (including proceedings on any appeal in relation to such a claim), and the processing of any other matter arising under section 129L or section 129R of the Immigration Act 1987 that first arose on or after that date (including proceedings on any appeal in relation to such a matter):
   (l) any judicial review proceedings (as defined in section 2 of the Immigration Act 1987) in respect of proceedings or matters to which paragraph (j) or paragraph (k) applies:
   (m) any application under section 114I of the Immigration Act 1987 for a review by the Inspector-General of Intelligence and Security of a decision of the Director of Security to make a security risk certificate:
   (n) all applications, submissions, and appeals under the Resource Management Act 1991 or to the Environment Court under any other Act:
-  (o) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court.
-  (p) proceedings before the tribunal under the Weathertight Homes Resolution Services Act 2006.
+  (o) all applications, submissions, and appeals to any Council or body in any case where an appeal in relation to its decision lies to the Environment Court:
+  (p) proceedings before the tribunal under the Weathertight Homes Resolution Services Act 2006:
   (q) proceedings before a Tribunal under subpart 2 of Part 2 of the Prisoners' and Victims' Claims Act 2005 in respect of 1 or more victims' claims under that subpart.
+(1A) To avoid any doubt, subsection (1)(e)(v) applies, without limitation, to the following proceedings:
+  (a) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; and
+  (b) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which a victim may appear as of right or with the Board's leave.
 (2) Paragraphs (n) and (o) of subsection (1) do not restrict any other paragraph of that subsection.
 (3) Despite subsection (1), but subject to subsection (4)(e), legal aid is not available in proceedings under Part 4 of the Family Proceedings Act 1980 (which relates to proceedings relating to the status of marriage) unless the Agency is of the opinion—
   (a) that the unusual complexity of the case requires that the applicant be legally represented; or
@@ -137,7 +151,7 @@ Legal aid may be granted in respect of the following criminal matters:
   (a) relator actions:
   (b) election petitions under the Electoral Act 1993:
   (c) petitions for inquiry under the Local Electoral Act 2001:
-  (d) proceedings incidental to any proceedings mentioned in any of paragraphs (a) to (c) of this subsection:
+  (d) proceedings incidental to any proceedings mentioned in any of paragraphs (a) to (c):
   (e) proceedings under section 37 of the Family Proceedings Act 1980 (which relates to dissolutions of marriage), or appeals in proceedings under that section:
   (f) any appeal to the Residence Review Board under section 18C of the Immigration Act 1987:
   (g) any appeal to the Removal Review Authority under Part 2 of the Immigration Act 1987:
@@ -191,7 +205,13 @@ Legal aid may be granted in respect of the following criminal matters:
   (d) whether there are any complex factual, legal, or evidential matters that require the determination of a court; and
   (e) whether it is in the public interest that legal aid be granted.
 (7) To avoid doubt, legal aid in respect of civil proceedings is not available to any body of persons, whether corporate or unincorporate, except as provided in subsection (1) and section 42.
-(8) Subsections (2), (4)(a) and (b) do not apply to applications for legal aid in respect of victims' claims proceedings.
+(8) Subsections (2) and (4)(a) and (b) do not apply to—
+  (a) applications for legal aid in respect of victims' claims proceedings; or
+  (b) applications for legal aid by a victim in respect of—
+    (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
+    (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board's leave; or
+  (c) applications for legal aid by a person of a class specified in regulations as exempted from the application of subsections (2) and (4)(a) and (b); or
+  (d) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of subsections (2) and (4)(a) and (b).
 (9) Subsections (1), (2), and (4)(a) do not apply to applications for legal aid under section 42 in respect of certain proceedings before the Waitangi Tribunal.
 (10) Subsection (4)(d)(i) does not apply to original proceedings under an enactment specified in Schedule 4.
 (11) The Agency may grant legal aid to an applicant in respect of a civil proceeding under the Criminal Proceeds (Recovery) Act 2009 if the Agency considers that the interests of justice require that the applicant be granted legal aid.
@@ -269,7 +289,12 @@ A person who has any form of indemnification or insurance in respect of the lega
 (6) This section does not apply to—
   (a) applications for legal aid under section 42 in respect of certain proceedings before the Waitangi Tribunal; or
   (b) applications for legal aid by the proposed patient in proceedings under the Mental Health (Compulsory Assessment and Treatment) Act 1992; or
-  (c) applications for legal aid by the proposed care recipient in proceedings under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003.
+  (c) applications for legal aid by the proposed care recipient in proceedings under the Intellectual Disability (Compulsory Care and Rehabilitation) Act 2003; or
+  (d) applications for legal aid by a victim in respect of—
+    (i) an inquest held by a coroner for the purposes of Part 3 of the Coroners Act 2006; or
+    (ii) a hearing of the New Zealand Parole Board (other than one in a proceeding specified in section 6(c)(i)) that concerns an offender and is a hearing at which the victim may appear as of right or with the Board's leave; or
+  (e) applications for legal aid by a person of a class specified in regulations as exempted from the application of this section; or
+  (f) applications for legal aid in respect of a proceeding of a class specified in regulations as exempted from the application of this section.
 
 ### 16 Special provisions about conditions on grants to persons involved in proceedings under Domestic Violence Act 1995
 (1) In this section, person A means a person who is a party to proceedings (which includes appeals) that in any way relate to, or arise out of, an application by or on behalf of, or a grant in favour of, the person for a protection order under Part 2, or an order relating to property under Part 3, of the Domestic Violence Act 1995.
@@ -505,6 +530,17 @@ At any time, the total amount payable to the Agency by an aided person under the
 (1) An aided person must take all steps necessary to enforce a judgment or out-of-court settlement in order to recover the proceeds of proceedings.
 (2) If the aided person fails to take such steps, the Agency may enforce the judgment or out-of-court settlement as if it were in favour of the Agency, and may recover the costs of doing so from the aided person.
 
+### 36A Agency may decide not to recover debt in certain circumstances
+(1) The Agency may decide not to recover any debt due to the Agency under a grant of legal aid if—
+  (a) the enforcement of the debt would cause serious hardship to the aided person:
+  (b) the cost to the Agency of enforcing the debt is likely to exceed the amount of the debt that is likely to be repaid:
+  (c) the Agency considers that it would be just and equitable not to recover the debt.
+(2) The Agency may make a decision under subsection (1) at the time that legal aid is granted, or at any time after it is granted.
+(3) If the Agency decides under subsection (1) not to recover a debt,—
+  (a) the debt must be treated as being written off for the purposes of section 37; and
+  (b) section 37(2) to (5) apply accordingly.
+(4) In subsection (1), serious hardship has the meaning given in section 37(6).
+
 ### 37 Agency may write off amounts payable
 (1) The Agency may write off all or any part of any interim repayment, repayment, interest, or any other debt payable to the Agency by an aided person in any of the following circumstances:
   (a) the enforcement of the debt would, in the opinion of the Agency, cause serious hardship to the aided person:
@@ -620,10 +656,10 @@ The duties of lawyers who act as duty solicitors include—
   (c) advising unrepresented defendants as to bail:
   (d) carrying out any other duties specified by the Agency.
 
-**Police detention legal assistance scheme**
+**Police Detention Legal Assistance scheme**
 
 ### 49 Continuation and administration of PDLA scheme
-(1) The police detention legal assistance scheme established under section 158C of the former Act continues on and after the transition date as if it were established under this Act.
+(1) The Police Detention Legal Assistance scheme established under section 158C of the former Act continues on and after the transition date as if it were established under this Act.
 (2) The Agency must administer the PDLA scheme in accordance with this Act and any regulations made under it, and in particular must determine the conditions under which listed providers provide services under the scheme.
 
 ### 50 Object of PDLA scheme
@@ -633,12 +669,12 @@ The object of the PDLA scheme is to ensure that there is available a sufficient 
 
 ### 51 Who PDLA scheme applies to, and their rights
 (1) The PDLA scheme applies to every unrepresented person who—
-  (a) is being questioned by the police, or who the police want to question, in relation to the commission or possible commission of an offence by that person, and who is advised by the police, before or in the course of questioning, that he or she may consult a lawyer; or
-  (b) is being detained by the police, with or without arrest, and is entitled, under section 23(1)(b) of the New Zealand Bill of Rights Act 1990, to consult and instruct a lawyer without delay.
+  (a) is being questioned by the Police, or who the Police want to question, in relation to the commission or possible commission of an offence by that person, and who is advised by the Police, before or in the course of questioning, that he or she may consult a lawyer; or
+  (b) is being detained by the Police, with or without arrest, and is entitled, under section 23(1)(b) of the New Zealand Bill of Rights Act 1990, to consult and instruct a lawyer without delay.
 (2) Every person to whom the PDLA scheme applies is entitled (subject to this Act and any regulations made under it) to the services of 1 lawyer during the period for which the person is being questioned or is detained.
 
 ### 52 Duties of listed providers under PDLA scheme
-(1) The duties of lawyers who provide services under the PDLA scheme include the following:
+The duties of lawyers who provide services under the PDLA scheme include the following:
   (a) advising persons to whom the scheme applies of—
     (i) their rights and obligations; and
     (ii) the requirements of any enactment under which they are detained (if applicable):
@@ -742,7 +778,7 @@ The Convenor of the Review Panel may state a case for the opinion of the High Co
 
 ### 62A Delegation by Convenor of Review Panel
 (1) The Convenor of the Review Panel may delegate any of the Convenor's functions, duties, and powers to a member of the Panel who the Convenor is satisfied has the capability, skills, and experience to perform and exercise those functions, duties, or powers.
-(2) A delegation
+(2) A delegation—
   (a) must be in writing; and
   (b) must be to a named person; and
   (c) is revocable at any time, in writing; and
@@ -879,7 +915,7 @@ Claims for payment in respect of legal services provided under the legal aid sch
 (2) A payment may be deferred and a claim, or part of a claim, examined if—
   (a) the claim or part of the claim appears to the Agency to be excessive in light of the Agency's standard rates for payment or its experience with comparable claims; or
   (b) an aided person has requested an examination of the cost of services, under section 38.
-(3) The Agency may decline some or all of a claim on any one or more of the following grounds:
+(3) The Agency may decline some or all of a claim on any 1 or more of the following grounds:
   (a) the claim exceeds the maximum grant specified in the grant:
   (b) the claim or part of a claim is for disbursements of a type not approved for payment by the Agency:
   (c) an examination of the claim or part of a claim under subsection (2) has determined that the claim is excessive or inaccurate.
@@ -1029,7 +1065,7 @@ The functions of the Agency are as follows:
 ### 96 Schedule 2 contains provisions applying to Board and members
 The provisions of Schedule 2 apply to the Board and its members.
 
-### 97 Agency to comply with government policy
+### 97 Agency to comply with Government policy
 [Repealed]
 
 ### 98 Limitation on Minister's powers to direct
@@ -1175,6 +1211,9 @@ Every listed provider or former listed provider commits an offence and is liable
   (m) prescribing the rate of interest that may be charged for the purposes of section 35A:
   (n) increasing, or prescribing a method for increasing, the maximum amount of income or disposable capital for the purposes of determining a person's eligibility for legal aid:
   (o) adjusting, or prescribing a method for adjusting, the maximum amount of repayments for the purposes of section 17:
+  (oa) exempting, in accordance with subsection (8), any specified class or classes of person or proceeding from the application of—
+    (i) section 9(2) and (4)(a) and (b):
+    (ii) section 15:
   (p) providing for any other matters contemplated by the Act, necessary for its administration, or necessary for giving it full effect.
 (2) When prescribing amounts, or methods of calculating amounts, regulations made under this section may—
   (a) distinguish between applicants for legal aid on any grounds, for example, the type of proceedings to which the application relates, or the level of income or disposable capital of the applicant; or
@@ -1188,6 +1227,10 @@ Every listed provider or former listed provider commits an offence and is liable
   (b) the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index from that applying on the date when the requirement to make the immediately preceding adjustment under this subsection arose is 5% or more.
 (6) For the purposes of any adjustment required under subsection (5), the amount of any increase must be rounded up to the nearest whole dollar amount, but any subsequent adjustment must be calculated on the amount of the increase without the rounding.
 (7) Any adjustment required by subsection (5) contained in regulations made under subsection (1) takes effect on the first day of April following the making of those regulations.
+(8) No regulations may be made for the purposes of subsection (1)(oa) unless the Minister is satisfied that the proposed exemption is justified on 1 or more of the following grounds:
+  (a) the proposed exemption is in the public interest:
+  (b) the proposed exemption facilitates access to justice:
+  (c) the proposed exemption is just and equitable in the circumstances.
 
 **Service**
 
@@ -1297,7 +1340,7 @@ Instructions issued by the Legal Services Board under section 96 of the former A
 
 ### 125 Applications for legal aid for certain criminal matters continue to be dealt with by Registrars
 (1) Despite section 12, during the period starting on the transition date and ending with the close of 31 October 2001 (the transition period), applications for legal aid in relation to criminal matters must be made in the prescribed manner to,—
-  (a) in the case of proceedings in the High Court, the Registrar of that Court; or
+  (a) in the case of proceedings in the High Court, the Registrar of that court; or
   (b) in the case of proceedings in a District Court, the Registrar of the relevant District Court; or
   (c) in the case of an application in respect of a matter referred to in section 6(c), the Registrar of the District Court nearest to the prison in which the applicant is detained, or place where the applicant resides, as the case may be.
 (2) After the transition date, applications for legal aid in relation to criminal matters where the proceedings are to be held in the Court of Appeal or the Judicial Committee of the Privy Council must be made in accordance with section 12. (This subsection is for the avoidance of doubt.)
@@ -1318,11 +1361,7 @@ Instructions issued by the Legal Services Board under section 96 of the former A
   (d) Legal Services Amendment Act 1997.
 
 ### 127 Consequential repeals and revocations
-(1) The following sections are consequentially repealed:
-  (a) section 84P of the District Courts Act 1947:
-  (b) section 50 of the Immigration Amendment Act 1991:
-  (c) section 53 of the Criminal Justice Amendment Act 1993:
-  (d) section 64 of the Immigration Amendment Act 1999.
+(1) Amendment(s) incorporated in the Act(s).
 (2) The Legal Aid Districts Notice 1970 (SR 1970/54) is consequentially revoked.
 (3) The following regulations are consequentially revoked:
   (a) Legal Services Regulations 1991 (SR 1991/293):
@@ -1348,7 +1387,7 @@ In this schedule, unless the context otherwise requires,—
 ### 2 Meaning of income
 (1) In relation to an applicant for legal aid, income—
   (a) means the person's total gross income during the 12 months immediately before the application for legal aid, or during such other period of 12 months as the Agency considers appropriate in the circumstances; and
-  (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in section 3(1)of the Social Security Act 1964; and
+  (b) has the meaning given to it in paragraphs (a) to (e) of the definition of income in section 3(1) of the Social Security Act 1964; and
   (c) includes a benefit payable under Part 1 of the Social Security Act 1964; but does not include—
     (i) an orphan's benefit payable under section 28 of the Social Security Act 1964; or
     (ii) an unsupported child's benefit payable under section 29 of that Act; or
@@ -1409,6 +1448,8 @@ If an applicant for legal aid is concerned in the matter only in a representativ
 
 ## Schedule 2 — Provisions applying to Board and members
 
+**Board membership**
+
 ### 1 Members' appointment
 [Repealed]
 
@@ -1420,6 +1461,8 @@ If an applicant for legal aid is concerned in the matter only in a representativ
 
 ### 4 Members not in service of Crown
 [Repealed]
+
+**Procedures of Board**
 
 ### 5 Chairperson
 [Repealed]
@@ -1445,6 +1488,8 @@ If an applicant for legal aid is concerned in the matter only in a representativ
 ### 12 Conflict of interest
 [Repealed]
 
+**Employees**
+
 ### 13 Board to appoint chief executive
 (1) The Board must from time to time appoint a chief executive of the Agency, on terms and conditions agreed between the Board and the person appointed.
 (2) Subclause (1) is subject to section 117 of the Crown Entities Act 2004.
@@ -1457,11 +1502,43 @@ If an applicant for legal aid is concerned in the matter only in a representativ
 
 ### 16 Superannuation
 (1)
-(2) Any person who, immediately before becoming an employee of the Agency is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed for the purpose of that Act to be employed in the government service so long as he or she continues to be an employee of the Agency.
-(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Agency were government service.
+(2) Any person who, immediately before becoming an employee of the Agency is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed for the purpose of that Act to be employed in the Government service so long as he or she continues to be an employee of the Agency.
+(3) The Government Superannuation Fund Act 1956 applies to the person in all respects as if the person's service as an employee of the Agency were Government service.
 (4) Nothing in subclause (1) entitles a person to become a contributor to the Government Superannuation Fund if the person has ceased to be a contributor.
 (5) For the purposes of applying the Government Superannuation Fund Act 1956, the chief executive of the Agency is the controlling authority.
 
 ## Schedule 3 — Enactments amended
 
 ## Schedule 4 — Specified enactments
+
+### 1 Title
+This Act is the Legal Services Amendment Act 2006.
+
+### 2 Commencement
+(1) This Act (except sections 30(2), 31, 32, 33, and 43) comes into force on a date to be appointed by the Governor-General by Order in Council.
+(2) Sections 30(2), 31, 32, 33, and 43 come into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 2 — Transitional provisions
+
+### 47 Applications for legal aid and grants of legal aid made before commencement of this Act
+(1) In this section and section 48, commencement date means the commencement date of the Legal Services Amendment Act 2006.
+(2) The provisions of the Legal Services Amendment Act 2006 do not affect applications for legal aid or grants of legal aid made before the commencement date, except as provided in this section and section 48.
+(3) Sections 40 and 41 of the principal Act (as substituted by section 28 of the Legal Services Amendment Act 2006) apply to any proceeding for which legal aid has been granted on or after the commencement date.
+(4) Section 116A(2) of the principal Act (as substituted by section 43 of the Legal Services Amendment Act 2006) applies to all charges created by or under the Legal Aid Act 1969.
+
+### 48 Transitional provisions in relation to providers of legal services, etc
+(1) Section 68 of the principal Act (as substituted by section 34 of the Legal Services Amendment Act 2006) applies to any person who on or after the commencement date is a provider of legal services under a grant of legal aid, regardless of whether the grant was made before, on, or after the commencement date.
+(2) Section 72A of the principal Act (as inserted by section 35 of the Legal Services Amendment Act 2006) and section 73 of the principal Act (as substituted by section 36 of the Legal Services Amendment Act 2006) apply to any listed provider on or after the commencement date, regardless of whether he or she became a listed provider before, on, or after the commencement date.
+
+### 1 Title
+This Act is the Legal Services Amendment Act 2009.
+
+### 2 Commencement
+This Act comes into force on the date immediately after the expiry of the period of 2 months that commences on the day on which this Act receives the Royal assent.
+
+## Part 2 — Transitional provisions
+
+### 10 Transitional provisions
+(1) In this section, commencement date means the commencement date of the Legal Services Amendment Act 2009.
+(2) The provisions of the Legal Services Amendment Act 2009 apply only to applications for legal aid made on or after the commencement date.
+(3) Section 36A of the principal Act (as inserted by section 8 of the Legal Services Amendment Act 2009) applies to grants of legal aid only if the application for legal aid to which the grant relates was made on or after the commencement date.
