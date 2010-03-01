@@ -1,5 +1,5 @@
 # Reserve Bank of New Zealand Act 1989
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2010-03-01_
 
 > Title [Repealed]
 
@@ -2542,6 +2542,11 @@ A person does not breach a requirement of this Part if—
 
 **Credit ratings**
 
+### 157I Deposit taker must have current credit rating
+A deposit taker must have a current rating of its creditworthiness, or, if required by regulations made under section 157K, the creditworthiness of the borrowing group of which the deposit taker is part, that—
+  (a) complies with the requirements prescribed by regulations made under section 157K; and
+  (b) is given by an approved rating agency.
+
 ### 157J Bank may approve rating agencies
 (1) The Bank may approve a person as a rating agency for the purposes of this Part.
 (2) In deciding whether to approve a person as a rating agency, the Bank must have regard to the following:
@@ -3456,31 +3461,3 @@ Any authorisations or consents relating to the use of a restricted word that wer
 
 ### 52 Existing applications
 An application for registration as a registered bank under the principal Act that has been made, but not determined or withdrawn, before the date of commencement of this Act must continue to be dealt with in accordance with the principal Act and any regulations made under that Act as if this Act had not been enacted.
-
-### 1 Title
-This Act is the Reserve Bank of New Zealand Amendment Act 2008.
-
-### 2 Commencement
-(1) Sections 157M to 157O of the principal Act (as inserted by section 17 of this Act) come into force on 1 September 2009.
-(2) Section 157I of the principal Act (as inserted by section 17 of this Act) comes into force on 1 March 2010.
-(3) Section 157L of the principal Act (as inserted by section 17 of this Act) comes into force on a date to be appointed by the Governor-General by Order in Council.
-(4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the Reserve Bank of New Zealand Act 1989.
-
-## Part 1 — Amendments outside Part 6 of principal Act
-
-### 17 New Part 5D inserted
-The following Part is inserted after section 156ZE:Deposit takersCredit ratingsDeposit taker must have current credit ratingGovernance requirementsGovernance requirements
-  A deposit taker must have a current rating of its creditworthiness, or, if required by regulations made under section 157K, the creditworthiness of the borrowing group of which the deposit taker is part, that—
-    (a) complies with the requirements prescribed by regulations made under section 157K; and
-    (b) is given by an approved rating agency.
-  (1) If a deposit taker is a company or a building society,—
-    (a) the governing body of the deposit taker must include at least 2 independent directors; and
-    (b) the chairperson of the governing body of the deposit taker may not be an employee of either the deposit taker or a related party.
-  (2) If a deposit taker is a subsidiary, the constitution of the deposit taker must not include any provision under which directors of the deposit taker may act otherwise than in the best interests of the deposit taker.
-  (3) For the purposes of this section, independent director means a director that—
-    (a) is not an employee of either the deposit taker or a related party; and
-    (b) is not a director of a related party; and
-    (c) does not, directly or indirectly, have a qualifying interest in more than 10% of the voting securities of the deposit taker or a related party.
