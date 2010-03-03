@@ -1,5 +1,5 @@
 # Land Transport Act 1998
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-03-03_
 
 > An Act—ato promote safe road user behaviour and vehicle safety; andbto provide for a system of rules governing road user behaviour, the licensing of drivers, and technical aspects of land transport, and to recognise reciprocal obligations of persons involved; andcto consolidate and amend various enactments relating to road safety and land transport; anddto enable New Zealand to implement international agreements relating to road safety and land transport
 
@@ -27,10 +27,10 @@ _Consolidation as at 2009-12-01_
   - **approved taxi organisation** means a taxi organisation approved or deemed to be approved by the Agency under this Act, the regulations, or the rules
   - **approved vehicle surveillance equipment** means vehicle surveillance equipment of a kind approved by the Minister of Police, by notice in the Gazette
   - **assessment centre** means an establishment for the time being approved as an assessment centre for the purposes of this Act by the chief executive of the Ministry of Health
-  - **axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules
+  - **axle** means 1 or more shafts, spindles, or bearings in the same vertical transverse plane by means of which, in conjunction with wheels mounted on those shafts, spindles, or bearings, a portion of the weight of the vehicle is transmitted to the roadway; and, except as the provisions of this Act or of the rules otherwise provide, the following provisions apply for the purposes of this Act and the regulations and rules:
     (a) if 2 or more wheels of a motor vehicle are substantially in the same line transversely and some or all of them have separate axles, the axles of all those wheels are to be treated as 1 axle:
     (b) if the longitudinal centre line of an axle of a motor vehicle is less than 1 metre distant from the longitudinal centre line of another axle, the 2 axles are to be treated as 1 axle (a dual axle):
-    (c) for the purposes of measuring the distance of a dual axle from any other axle, the measurement must be taken from the longitudinal centre line of that 1 of the 2 axles comprising the dual axle which is nearer to the axle from which the distance is to be measured
+    (c) for the purposes of measuring the distance of a dual axle from any other axle, the measurement must be taken from the longitudinal centre line of that one of the 2 axles comprising the dual axle which is nearer to the axle from which the distance is to be measured
   - **blood specimen** means a specimen of venous blood taken in accordance with normal medical procedures
   - **blood specimen collecting kit** means a package having endorsed on it or affixed to it or included in it a label indicating that it is a blood specimen collecting kit and that it has been supplied by or on behalf of a laboratory for the time being approved by the Science Minister, by notice in the Gazette, for the purpose of supplying or causing to be supplied blood specimen collecting kits
   - **blood test** means the analysis of a blood specimen
@@ -44,7 +44,7 @@ _Consolidation as at 2009-12-01_
   - **Commissioner** means the Commissioner of Police
   - **compulsory impairment test** means a test, carried out in a manner prescribed by the Minister of Police by notice in the Gazette, to determine whether a person’s capacity to drive is impaired
   - **control** , in relation to a transport service or a proposed or approved taxi organisation, means direct or indirect control of the management of the whole or part of the transport service or taxi organisation by a shareholding or the holding of any position (however described) in the management of the whole or part of the transport service or taxi organisation that gives the person a significant influence on the operation of the whole or part of the service or organisation (whether or not other persons are also involved)
-  - **Court** means a District Court
+  - **court** means a District Court
   - **cruising** means driving repeatedly in the same direction over the same section of a road in a motor vehicle in a manner that—
     (a) draws attention to the power or sound of the engine of the motor vehicle being driven; or
     (b) creates a convoy that—
@@ -61,7 +61,7 @@ _Consolidation as at 2009-12-01_
   - **design** , in relation to a motor vehicle, refers to the construction of the motor vehicle, and not its use or intended use; and has a corresponding meaning
   - **doctor's surgery** means a medical practitioner's surgery or any other place where a medical examination or medical care or treatment is carried out or given
   - **drink** means alcoholic drink
-  - **driver** , in relation to a vehicle, includes the rider of the motor cycle or moped or bicycle; and drive has a corresponding meaning
+  - **driver** , in relation to a vehicle, includes the rider of the motorcycle or moped or bicycle; and drive has a corresponding meaning
   - **driver licence** means a licence to drive that is issued or has effect under this Act; and includes an endorsement on a driver licence
   - **enforcement authority** , in relation to an infringement offence, means—
     (a) the New Zealand Police, in any case:
@@ -72,9 +72,9 @@ _Consolidation as at 2009-12-01_
       (ii) for which an infringement notice is issued by an employee of the local authority or on behalf of the local authority:
     (e) a public road controlling authority that is an enforcement authority for the purposes of an Order in Council made under section 46 of the Land Transport Management Act 2003, in the case of an infringement offence that is a toll offence
   - **enforcement officer** means—
-    (a) A sworn member of the Police:
-    (b) A non-sworn member of the Police who is authorised for the purpose by the Commissioner:
-    (c) A person who is appointed to that office by warrant under section 208 or who holds that office by virtue of this Act
+    (a) a constable:
+    (b) a Police employee who is not a constable who is authorised for the purpose by the Commissioner:
+    (c) a person who is appointed to that office by warrant under section 208 or who holds that office by virtue of this Act
   - **evidence of vehicle inspection** , in relation to a vehicle, means any certificate, label, or document issued under this Act as evidence of the completion of the periodic vehicle inspection requirements in respect of that vehicle
   - **evidential breath test** means a test carried out by means of an evidential breath-testing device in a manner prescribed in respect of that device by the Minister of Police, by notice in the Gazette
   - **evidential breath-testing device** means a device of a kind approved for the purpose of evidential breath tests by the Minister of Police, by notice in the Gazette
@@ -122,7 +122,7 @@ _Consolidation as at 2009-12-01_
   - **land transport** means transport on land by any means and the infrastructure facilitating such transport; and includes rail, surface-effect vehicles, and harbour ferries
   - **land transport documents** means licences, permits, approvals, authorisations, exemptions, certificates, and similar documents issued under the Transport Act 1962, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Government Roading Powers Act 1989, or this Act
   - **land transport register** includes—
-    (a) registers kept under this Act, the Railways Act 2005, ; and
+    (a) registers kept under this Act, the Railways Act 2005; and
     (b) other information and records relating to vehicle and operator licensing kept by the Agency
   - **large passenger service vehicle** means any passenger service vehicle that is designed or adapted to carry more than 12 persons (including the driver)
   - **licensed** means,—
@@ -140,11 +140,11 @@ _Consolidation as at 2009-12-01_
   - **logbook** means a logbook that is in a form approved by the Agency in accordance with the rules, and includes any alternative means approved under section 30ZG
   - **mass** , in relation to a vehicle, means the quantity of material contained in or on that vehicle that, when subjected to acceleration due to gravity, will exert downwards on a level surface a force that can be measured as the weight of the vehicle
   - **medical expenses** means the expenses incurred by a medical practitioner or medical officer in taking a blood specimen
+  - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Laboratory Science Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical officer** means—
     (a) a person acting in a hospital and who, in the normal course of the person's duties, takes blood specimens; or
     (b) a nurse; or
     (c) a medical laboratory technologist
-  - **medical laboratory technologist** means a health practitioner who is, or is deemed to be, registered with the Medical Laboratory Science Board continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medical laboratory science
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **member** means a person appointed as a member of the Agency
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act or the relevant Part or provision of this Act
@@ -294,7 +294,7 @@ _Consolidation as at 2009-12-01_
     (b) includes a person acting under and within the terms of a delegation or authorisation given by the controlling authority
   - **the rules** means the ordinary rules and emergency rules made under this Act and the rules referred to in section 220
   - **Science Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Foundation for Research, Science, and Technology Act 1990
-  - **secretary** means the chief executive of the Ministry
+  - **Secretary** means the chief executive of the Ministry
   - **service** , in Part 4A, includes—
     (a) an operation carried out on 1 occasion only; and
     (b) an operation carried out solely for the benefit of the persons carrying it out
@@ -337,7 +337,7 @@ _Consolidation as at 2009-12-01_
     (b) a vehicle running on self-laying tracks or rollers; or
     (c) a vehicle that operates solely on or in areas to which the public does not have access as of right (whether or not that vehicle is used on a road in connection with that vehicle's inspection, servicing, or repair, or for the purposes of a practical driving test required under any enactment); or
     (d) a vehicle used as a place of abode to the extent that it is not used in a rental service; or
-    (e) a vehicle listed as a farm vehicle in Part 1 of the Schedule to the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 or in any provisions made in substitution for that schedule; or
+    (e) a vehicle listed as a farm vehicle in Part 1 of the Schedule of the Transit New Zealand (Apportionment and Refund of Excise Duty) Regulations 1998 or in any provisions made in substitution for that schedule; or
     (f) a tractor (being a motor vehicle designed principally for traction at speeds not exceeding 50 km per hour; or
     (g) a forklift (being a motor vehicle designed principally for lifting and stacking goods by means of 1 or more forks, tines, platens, or clamps); or
     (h) a hearse; or
@@ -779,13 +779,13 @@ Despite section 28(1)(g) and (4), the date of issue of a driver licence continue
 (2) The holder of a driver licence must, immediately after receiving notice of the suspension or revocation, surrender his or her licence to the Agency if—
   (a) the licence is suspended or revoked under any Act; or
   (b) the suspension or revocation applies to any endorsement or class specified in the licence but not to the whole licence.
-(3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a member of the Police or at any office of the Agency.
+(3) If the holder of a driver licence is disqualified by order of a court from holding or obtaining a driver licence, the holder must (whether or not a demand is made on him or her) immediately surrender the licence to the court where the order was made or to a constable or at any office of the Agency.
 (3A) If an enforcement officer has suspended a person's driver licence in accordance with section 90(2), the person must immediately surrender his or her licence to the officer.
 (4) A person who receives a driver licence under subsection (3), (3A), or (4A)(b) or (c) must immediately forward it to the Agency.
 (4A) The holder of a driver licence must, if that licence is superseded by another driver licence, surrender that driver licence to—
   (a) the Agency; or
   (b) a person appointed by the Agency; or
-  (c) a member of the police.
+  (c) a constable.
 (5) When either—the Agency must, subject to section 83 and as soon as practicable after being satisfied that the holder is eligible to hold such a licence, return the licence to the holder or issue a new licence.
   (a) the disqualification or suspension expires or is removed; or
   (b) a court authorises the issue of a limited licence,—
@@ -917,7 +917,7 @@ Despite section 30L(1) and (2), the Agency may grant the licence on such conditi
 (4) No transport service licence for a transport service operated by any of the following may be suspended or revoked for any reason:
   (a) the Armed Forces; or
   (b) the Fire Services Commission; or
-  (c) the police; or
+  (c) the Police; or
   (d) any emergency service organisation approved by the Agency for the purposes of this section.
 
 ### 30P Agency may grant applications for approved taxi organisations
@@ -1124,7 +1124,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 ### Subpart 3 — Evidence in proceedings
 
 ### 30ZI Evidence in proceedings for offences against subpart 1 or subpart 2
-(1) In proceedings for an offence against subpart 1 or subpart 2, the following is sufficient evidence of the contents of a log-book, unless the contrary is proved by production to the Court of the logbook or of an identical copy of the logbook made simultaneously with the original logbook,—
+(1) In proceedings for an offence against subpart 1 or subpart 2, the following is sufficient evidence of the contents of a log-book, unless the contrary is proved by production to the court of the logbook or of an identical copy of the logbook made simultaneously with the original logbook,—
   (a) evidence given by an enforcement officer authorised to demand the production of logbooks under section 30ZH(2)(b), or by any person who had that status at the time when the alleged offence was committed, as to the contents of any logbook as seen and recorded by that person at the time it was produced; and
   (b) an identical copy of any logbook removed, or a copy of any logbook made, by an enforcement officer in accordance with section 30ZH(3) or section 30ZH(4).
 (2) In any proceedings in respect of an offence against subpart 1 it is presumed, until the contrary is proved, that the contents of any logbook produced to an enforcement officer authorised to demand production of the logbook or removed by an enforcement officer from an accident scene where the driver is incapacitated are an accurate statement of the truth of the matter required to be recorded in the logbook by section 30ZF.
@@ -1140,7 +1140,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
     (ii) without an appropriate driver licence; or
   (b) drives a motor vehicle contrary to the conditions of his or her driver licence; or
   (c) is the driver of a motor vehicle and fails to produce his or her driver licence for inspection without delay after being required to do so by an enforcement officer; or
-  (d) fails to return his or her driver licence to the Agency, a person appointed by the Agency, or a member of the police when required to do so by subsection (2) or subsection (3) or subsection (4A) of section 30.
+  (d) fails to return his or her driver licence to the Agency, a person appointed by the Agency, or a constable when required to do so by subsection (2) or subsection (3) or subsection (4A) of section 30.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $1,000.
 
 ### 32 Contravention of section 5(1)(c)
@@ -1165,8 +1165,8 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 ### 33 Contravention of section 5(2) or (3)
 (1) A person commits an offence if the person holds or applies for a driver licence while disqualified from doing so or while his or her driver licence is suspended.
 (2) If a person is convicted of an offence against subsection (1),—
-  (a) yhe maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
-  (b) yhe court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+  (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
 (3) The imposition of a mandatory disqualification under this section is subject to section 81.
 
 ### 33A Offence to operate as driving instructor without authorisation
@@ -1205,7 +1205,7 @@ The Agency may, in accordance with the rules, approve or revoke an alternative m
 ### 36A Contravention of section 22A
 (1) A person commits an offence if the person—
   (a) operates a motor vehicle in a race, or in an unnecessary exhibition of speed or acceleration, on a road in contravention of section 22A(1); or
-  (b) without reasonable excuse, intentionally pours onto, places on, or allows to spill onto a road
+  (b) without reasonable excuse, intentionally pours onto, places on, or allows to spill onto a road—
     (i) any petrol, oil, or diesel fuel; or
     (ii) any other substance likely to cause a vehicle to undergo loss of traction; or
   (c) without reasonable excuse, operates a motor vehicle on a road in a manner that causes the vehicle to undergo sustained loss of traction in contravention of section 22A(3).
@@ -1302,7 +1302,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 (3) A person commits an offence if the person, without reasonable excuse, fails to report damage to a motor vehicle or other property, in accordance with section 22(4) or (5), when required to do so by the applicable section.
 (4) The maximum penalty on conviction for an offence against subsection (1) or subsection (2) or subsection (3) is a fine not exceeding $5,000.
 
-### 48 Contravention of section 92 (4)
+### 48 Contravention of section 92(4)
 (1) A person commits an offence if the person, without reasonable excuse, fails to attend or pay the fee for a driving improvement course or dangerous goods course in accordance with section 92(4), or neither attends nor pays the fee.
 (2) The maximum penalty on conviction for an offence against subsection (1) is a fine not exceeding $2,000.
 
@@ -1374,7 +1374,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 57 Contravention of specified breath or blood-alcohol limit by person younger than 20
 (1) A person younger than 20 commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's breath, as ascertained by an evidential breath test subsequently undergone by the person under section 69, exceeds 150 micrograms of alcohol per litre of breath.
 (2) A person younger than 20 commits an offence if the person drives or attempts to drive a motor vehicle on a road while the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen subsequently taken from the person under section 72 or section 73, exceeds 30 milligrams of alcohol per 100 millilitres of blood.
-(3) If a person commits an offence against subsection (1) or subsection (2)—
+(3) If a person commits an offence against subsection (1) or subsection (2),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $2,250; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 3 months or more.
 (4) The imposition of a mandatory disqualification under this section is subject to section 81.
@@ -1385,10 +1385,10 @@ A court may impose a fine for an infringement offence, other than an overloading
   (b) the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
 (2) If a person is convicted of a first or second offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
-  (b) the Court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 6 months or more.
 (3) If a person commits a third or subsequent offence against subsection (1) or any of sections 56(1), 56(2), 58(1), 60(1), 61(1), and 61(2) (whether or not that offence is of the same kind as the person’s first or second offence against any of those provisions), the person commits an indictable offence and on conviction—
   (a) the maximum penalty is imprisonment for a term not exceeding 2 years or a fine not exceeding $6,000; and
-  (b) the Court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
+  (b) the court must order the person to be disqualified from holding or obtaining a driver licence for more than 1 year.
 (4) Subsection (3)(b) does not apply if an order is made under section 65.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 that corresponds to an offence specified in subsection (3) is to be treated as a conviction for an offence specified in that subsection.
 (6) The imposition of a mandatory disqualification under this section is subject to section 81.
@@ -1411,8 +1411,8 @@ A court may impose a fine for an infringement offence, other than an overloading
 ### 59 Failure or refusal to remain at specified place or to accompany enforcement officer
 (1) A person commits an offence if the person—
   (a) fails or refuses to remain at the place where the person underwent a breath screening test under section 68 until after the result of the test is ascertained; or
-  (b) fails or refuses to accompany without delay an enforcement officer to a place when required to do so under section 69, 71A or 72; or
-  (c) having accompanied an enforcement officer to a place under a requirement under section 69, 71A or section 72,—
+  (b) fails or refuses to accompany without delay an enforcement officer to a place when required to do so under section 69, 71A, or 72; or
+  (c) having accompanied an enforcement officer to a place under a requirement under section 69, 71A, or 72,—
     (i) fails or refuses to remain at that place until the person is required either to undergo an evidential breath test or a blood test or a compulsory impairment test under this Act; or
     (ii) fails or refuses to accompany an enforcement officer to another place under any of those sections; or
   (d) having undergone an evidential breath test under a requirement under section 69 or a compulsory impairment test under section 71A, fails or refuses to remain at the place where the person underwent the test until after the result of the test is ascertained.
@@ -1460,7 +1460,7 @@ A court may impose a fine for an infringement offence, other than an overloading
   (a) the person causes bodily injury to, or the death of, a person by driving or attempting to drive a motor vehicle; and
   (b) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A; and
   (c) the person's blood, as ascertained from an analysis of a blood specimen subsequently taken under section 72 or 73, contains evidence of the use of a qualifying drug.
-(2) If a person commits an offence against subsection (1), or (1B)—
+(2) If a person commits an offence against subsection (1) or (1B),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 years or a fine not exceeding $10,000; and
   (b) the court must order the person to be disqualified from holding or obtaining a driver licence for 1 year or more.
 (3) The imposition of a mandatory disqualification under this section is subject to section 81.
@@ -1474,12 +1474,12 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 64 Defences
 (1) It is a defence to proceedings for an offence against section 60 (which relates to failing or refusing to supply a blood specimen) if the court is satisfied, on the evidence of a medical practitioner, that the taking of a blood specimen from the defendant would have been prejudicial to the defendant's health.
-(1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1B) if the Court is satisfied that the person has consumed the relevant qualifying drug—
+(1A) It is a defence to proceedings for an offence against section 57A(1) or 62(1B) if the court is satisfied that the person has consumed the relevant qualifying drug—
   (a) in accordance with—
     (i) a current and valid prescription written for that person by a health practitioner; and
     (ii) any instructions from a health practitioner or from the manufacturer of the qualifying drug; or
   (b) because it was administered by a health practitioner, provided that the person complied with the instructions (if any) that the health practitioner has given.
-(1B) It is a defence to proceedings for an offence against section 60(1)(d) if the Court is satisfied that the person's failure or refusal to undergo a compulsory impairment test is because of—
+(1B) It is a defence to proceedings for an offence against section 60(1)(d) if the court is satisfied that the person's failure or refusal to undergo a compulsory impairment test is because of—
   (a) a pre-existing medical condition or pre-existing disability that precludes undergoing the test:
   (b) an injury, sustained in a motor vehicle accident giving rise to an obligation to undergo the test, that precludes undergoing the test.
 (2) It is no defence to proceedings for an offence that a provision forming part of sections 68 to 75A, and 77 has not been strictly complied with or has not been complied with at all, provided there has been reasonable compliance with such of those provisions as apply.
@@ -1504,7 +1504,7 @@ A court may impose a fine for an infringement offence, other than an overloading
 
 ### 65 Mandatory penalties for repeat offences involving use of alcohol or drugs
 (1) This section applies to offences against any of sections 56 to 62.
-(2) If—the court must (unless prevented by subsection (3)) make an order requiring the person to attend an Assessment Centre and disqualifying the person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100.
+(2) If—the court must (unless prevented by subsection (3)) make an order requiring the person to attend an assessment centre and disqualifying the person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100.
   (a) a court convicts a person of an offence to which this section applies; and
   (b) the person convicted has previously been convicted of such an offence committed within 5 years of the date of the commission of the offence being dealt with by the court,—
 (3) The court may not make an order referred to in subsection (2) unless at least 1 of the offences was—
@@ -1512,7 +1512,7 @@ A court may impose a fine for an infringement offence, other than an overloading
     (i) the proportion of alcohol in the person's breath, as ascertained by an evidential breath test, exceeded 1 000 micrograms of alcohol per litre of breath; or
     (ii) the proportion of alcohol in the person's blood, as ascertained from an analysis of a blood specimen, exceeded 200 milligrams of alcohol per 100 millilitres of blood; or
   (b) an offence against section 59 or section 60 (which relate to failing to remain or to accompany or to permit a blood specimen to be taken for the purposes of the administration of breath tests and blood tests).
-(4) The court must make an order that requires a person to attend an Assessment Centre and that disqualifies that person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100 if—
+(4) The court must make an order that requires a person to attend an assessment centre and that disqualifies that person from holding or obtaining a driver licence until the Agency removes that disqualification under section 100 if—
   (a) the court convicts that person of a third or subsequent offence to which this section applies; and
   (b) the 2 or more previous offences were committed within 5 years of the date of the commission of the offence being dealt with by the court.
 (5) For the purposes of this section, a conviction for an offence against a provision of the Transport Act 1962 corresponding to an offence to which this section applies is to be treated as a conviction for an offence specified in subsection (1).
@@ -1600,7 +1600,7 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
     (ii) within 10 minutes of being advised by an enforcement officer of the matters specified in section 77(3)(a) (which sets out the conditions of the admissibility of the test), the person advises the officer that the person wishes to undergo a blood test; or
   (c) an evidential breath testing device is not readily available at the place to which the person has accompanied an enforcement officer under section 69 (whether or not at the time the requirement was made it was likely that the person could undergo an evidential breath test at that place) or to which the person has been taken under arrest (as the case may be), or for any reason an evidential breath test cannot then be carried out at that place; or
   (d) the officer has arrested the person under section 120(1) and has good cause to suspect that the person has committed an offence against any of sections 56 to 62, and either—
-    (i) A medical practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
+    (i) a medical practitioner has examined the person and believes that the person may be under the influence of drink or a drug, or both; or
     (ii) the person has refused to be examined by a medical practitioner for the purposes of this paragraph; or
   (e) the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
 (1A) Subsection (1)(e) only applies if an enforcement officer has good cause to suspect that the person has consumed a drug or drugs.
@@ -1633,7 +1633,7 @@ Unless for special reasons the court thinks fit to order otherwise, the power of
   (b) has examined the person and is satisfied that the taking of the blood specimen would not be prejudicial to the person's proper care or treatment; and
   (c) tells the person (unless the person is unconscious) that the blood specimen is being or was taken under this section for evidential purposes.
 (6) If a blood specimen is taken under this section from a person who is unconscious, the medical practitioner or medical officer who took the specimen must notify the person in writing as soon as practicable that the specimen was taken under this section for evidential purposes.
-(7) No civil or criminal proceedings may be taken against the the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved analyst, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
+(7) No civil or criminal proceedings may be taken against the Crown, a district health board, or any other person in respect of the taking of a blood specimen under this section, or in respect of the sending of a blood specimen to an approved analyst, on the ground of lack of consent of a person whose consent to the taking of the blood specimen would have been otherwise required by law if this section had not been enacted.
 (8) Nothing in subsection (7) applies to any proceeding on the ground of any negligent act or omission in the taking of a blood specimen.
 
 ### 73A Evidence of controlled drug in blood sample taken under section 72 or 73 may not be used as evidence of use of controlled drugs in prosecutions under Misuse of Drugs Act 1975
@@ -1644,9 +1644,9 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
   (a) each part must be placed in a separate bottle and the bottle must then be sealed; and
   (b) each part is a blood specimen for the purposes of this Act.
 (2) One or more preservative substances and anti-coagulant substances may be added to a blood specimen by placing them in the bottle, whether before or after the specimen is taken and placed in the bottle.
-(3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post by registered post or cause to be posted by registered post, both parts of the blood specimen to an approved analyst for the analysis of 1 of those parts and the custody of the other.
+(3) In the case of a blood specimen taken under section 72, an enforcement officer must, within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post by registered post or cause to be posted by registered post, both parts of the blood specimen to an approved analyst for the analysis of one of those parts and the custody of the other.
 (4) In the case of a blood specimen taken under section 73, the medical practitioner or medical officer by whom the specimen was taken must,—
-  (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted by post, both parts of the blood specimen to an approved analyst for the analysis of 1 of those parts and the custody of the other; and
+  (a) within 7 days after the date on which the specimen was taken, deliver or cause to be delivered (whether by courier or otherwise), or post or cause to be posted by registered post, both parts of the blood specimen to an approved analyst for the analysis of one of those parts and the custody of the other; and
   (b) give the Commissioner a written notification—
     (i) identifying the approved analyst to whom the parts of the blood specimen were (or are being) delivered or posted; and
     (ii) naming the person from whom the blood specimen was taken.
@@ -1685,7 +1685,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
     (ii) if the person was unconscious when the specimen was taken, notified the person in writing as soon as practicable that the blood specimen was taken under section 73 for evidential purposes.
 (4) This section also applies to a certificate purporting to be signed by a medical practitioner or medical officer and certifying—
   (a) all the matters referred to in paragraphs (a) to (d) of subsection (2); and
-  (b) that the practitioner or medical officer sent or caused to be sent by post, personal delivery, or delivery by courier, on a specified date, both parts of the specimen (or both specimens) to a specified approved analyst in accordance with section 74; and
+  (b) that the practitioner or medical officer sent or caused to be sent by registered post, personal delivery, or delivery by courier, on a specified date, both parts of the specimen (or both specimens) to a specified approved analyst in accordance with section 74; and
   (c) that the practitioner or medical officer notified the Commissioner in writing of the approved analyst to whom the parts of the specimen (or the specimens) were delivered or posted.
 (5) This section also applies to a certificate purporting to be signed by an approved analyst and certifying that—
   (a) a blood specimen in a sealed bottle was, on a specified date, delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) for analysis, and was delivered by registered post or personal delivery or delivery by courier; and
@@ -1712,7 +1712,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 (1) In proceedings for an offence against this Act it is to be presumed, in the absence of proof to the contrary, that,—
   (a) if a certificate referred to in section 75 names a person having the same name, address, and occupation as the defendant as the person from whom the specimen of blood was taken, the specimen was taken from the defendant:
   (b) every approved analyst who signed a certificate referred to in section 75(5) was duly authorised to sign it:
-  (c) If the bottle in which a blood specimen (or part of a blood specimen) was placed was received by a medical practitioner or medical officer in a sealed blood specimen collecting kit, the bottle contained a substance (whether or not a combination or mixture of 2 or more substances) and that substance was a preservative and anti-coagulant.
+  (c) if the bottle in which a blood specimen (or part of a blood specimen) was placed was received by a medical practitioner or medical officer in a sealed blood specimen collecting kit, the bottle contained a substance (whether or not a combination or mixture of 2 or more substances) and that substance was a preservative and anti-coagulant.
 (2) On the request of a person from whom a blood specimen has been taken under section 72 or section 73, or of the person's solicitor or counsel, copies of any certificates referred to in subsection (1) that relate to that blood specimen must be supplied by the prosecutor to the person making the request.
 
 ### 77 Presumptions relating to alcohol-testing
@@ -1733,7 +1733,7 @@ Evidence of a controlled drug in a blood sample taken under section 72 or 73 may
 If a certificate referred to in section 143 is produced in proceedings for an offence against this Part involving a person who is apparently younger than 20, it is to be presumed, in the absence of proof to the contrary, that the date stated in the certificate as being the date of birth of the person to whom the certificate relates is accurate.
 
 ### 79 Circumstances in which certificate not admissible in proceedings
-(1) No certificate referred to in subsection (2) or subsection (3) or subsection (4) of section 75 (which certificates relate to the taking of a blood specimen by a medical practitioner or medical officer) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that the registered medical practitioner or medical officer who gave the certificate ought to appear as a witness at the hearing.
+(1) No certificate referred to in subsection (2) or subsection (3) or subsection (4) of section 75 (which certificates relate to the taking of a blood specimen by a medical practitioner or medical officer) is admissible in evidence in proceedings for an offence against this Act if the court, on application made by the defendant not less than 14 days before the hearing, orders that the medical practitioner or medical officer who gave the certificate ought to appear as a witness at the hearing.
 (2) No certificate referred to in section 75(5) (which certificate is given by an approved analyst and relates to the presence or proportion of alcohol, a drug, or both, found to be in a blood specimen) is admissible in evidence in proceedings for an offence against this Act if—but this subsection does not apply in respect of a specimen destroyed under the authority of section 74(8) before the date of the application.
   (a) application has been made in accordance with section 74 for 1 part of the blood specimen to be sent to a private analyst; and
   (b) that part of the specimen has not been sent to the private analyst in compliance with the application;—
@@ -1774,7 +1774,7 @@ A licence holder or person having control of a transport service who notifies th
 
 ### 79D Contravention of section 30K
 (1) A person commits an offence if the person applies for a transport service licence while disqualified from holding or obtaining a transport service licence.
-(2) if a person is convicted of an offence against subsection (1),—
+(2) If a person is convicted of an offence against subsection (1),—
   (a) the maximum penalty is imprisonment for a term not exceeding 3 months or a fine not exceeding $4,500; and
   (b) the court must order the person to be disqualified from holding or obtaining a transport service licence for 6 months or more.
 (3) The imposition of a mandatory disqualification under this section is subject, with all necessary modifications, to the criteria specified in section 81.
@@ -1870,7 +1870,7 @@ Every person commits an offence who fails to comply with any work time restricti
 ### 79Q Failure to discharge duties regarding logbooks
 Every person who fails or refuses to comply with any requirement of or demand made under section 30ZH commits an offence and is liable on conviction,—
   (a) in the case of a driver, to a fine not exceeding $2,000, and the person may, for a period of 1 calendar month or any greater period that the court thinks fit, be disqualified from holding or obtaining a licence to drive a vehicle that—
-    (i) requires a class 2, 3, 4, or 5 licence as specified in the rules); and
+    (i) requires a class 2, 3, 4, or 5 licence (as specified in the rules); and
     (ii) is used in the relevant transport service; and
     (iii) is—
       (A) a heavy motor vehicle; and
@@ -1946,7 +1946,7 @@ Every person commits an offence, and is liable on conviction to a fine not excee
   (a) the licence continues to be of no effect after the disqualification ends until the person applies for the same class of licence and the person qualifies for the licence by any or all (as the case may be) of the following:
     (i) completing any courses approved by the Agency for that purpose:
     (ii) passing the tests and examinations approved by the Agency for that purpose; and
-  (b) The Agency may issue a new licence.
+  (b) the Agency may issue a new licence.
 (1A) If a person to whom subsection (1) applies has passed the appropriate theory test, the Agency may—
   (a) issue a new licence to that person with the supervisory condition (if any) applicable to a learner licence for that class of vehicle as specified in the rules; or
   (b) endorse that person's existing licence with the supervisory condition (if any) applicable to a learner licence for that class of vehicle as specified in the rules.
@@ -1972,8 +1972,8 @@ Every person commits an offence, and is liable on conviction to a fine not excee
 
 ### 86 Term of disqualification if person already disqualified
 (1) If—the court must order the person to be disqualified from holding or obtaining a driver licence for a period of 6 months, unless the court for special reasons relating to the offence thinks fit to order otherwise or the court makes an order under section 94.
-  (a) A person is convicted of an offence that renders the person liable to be disqualified from holding or obtaining a driver licence; and
-  (b) At the time of the commission of the offence, the person was already disqualified or was the holder of a limited licence issued under section 105 (or the corresponding provisions of a former enactment),—
+  (a) a person is convicted of an offence that renders the person liable to be disqualified from holding or obtaining a driver licence; and
+  (b) at the time of the commission of the offence, the person was already disqualified or was the holder of a limited licence issued under section 105 (or the corresponding provisions of a former enactment),—
 (2) Nothing in subsection (1) restricts the power of the court to impose any other penalty specified for the offence, and the imposition of a penalty under that subsection does not limit or affect any duty or power of the court to order a longer period of disqualification.
 
 ### 87 Particulars of court orders relating to disqualification to be sent to Agency and offender
@@ -2033,8 +2033,8 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (1) If a person is convicted of an offence (other than an offence detected by approved vehicle surveillance equipment) concerning the driving of a motor vehicle, the Agency must record in respect of that person such number of points (demerit points) as may be prescribed for that offence.
 (2) The Registrar of the court must send to the Agency particulars of convictions to which subsection (1) applies.
 (3) If a person is convicted of 2 or more offences arising out of the same set of circumstances,—
-  (a) Demerit points must be recorded in relation to 1 offence only; and
-  (b) If those offences do not carry the same number of points, points must be recorded for the offence or 1 of the offences that carries the greatest number of points.
+  (a) demerit points must be recorded in relation to 1 offence only; and
+  (b) if those offences do not carry the same number of points, points must be recorded for the offence or one of the offences that carries the greatest number of points.
 (4) Demerit points recorded under subsection (1) have effect on and from the date of the commission of the offence for which the points are recorded.
 (5) For the purposes of subsections (1) and (4), if an infringement fee is paid to the enforcement authority at the address for payment specified in the infringement notice before or within 28 days after service of a reminder notice for that offence or within 5 days after the expiry of that 28-day period, the following provisions apply to an infringement offence:
   (a) the date on which the infringement notice was issued is to be treated as the date on which the offence was committed; and
@@ -2045,8 +2045,8 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) the number of demerit points recorded against that person; and
   (b) the consequences of further demerit points being recorded against that person.
 (2) No suspension imposed under section 90 in respect of a person's driver licence, or disqualification imposed under that section in respect of a person, is invalid merely because—
-  (a) A notice under subsection (1) was not given to that person or was given to that person after the imposition of that suspension or disqualification; or
-  (b) A notice given under that subsection was not received by that person or was received by that person after the imposition of that suspension or disqualification.
+  (a) a notice under subsection (1) was not given to that person or was given to that person after the imposition of that suspension or disqualification; or
+  (b) a notice given under that subsection was not received by that person or was received by that person after the imposition of that suspension or disqualification.
 (3) If a notice given under subsection (1) is sent by ordinary post addressed to the defendant at the defendant's last known place of residence or business or postal address, then, unless the contrary is shown, the notice is served when the notice would have been delivered in the ordinary course of post, and in proving service it is sufficient to prove that the notice was properly addressed and posted.
 
 ### 90 Suspension of licence or disqualification from driving under demerit points system
@@ -2092,7 +2092,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (ii) the effectiveness or otherwise of a previous order of disqualification made in respect of the offender; and
     (iii) the likely effect on the offender of a further order of disqualification; and
     (iv) the interests of the public,—
-  (c) the court considers that it would be appropriate to sentence the offender to a community-based sentence in accordance with Part 2 of the Sentencing Act 2002
+  (c) the court considers that it would be appropriate to sentence the offender to a community-based sentence in accordance with Part 2 of the Sentencing Act 2002.
 (2) Despite any provision of this Act that requires a court (in the absence of special reasons relating to the offence) to order a person convicted of an offence to be disqualified from holding or obtaining a driver licence, the court may instead make an order referred to in subsection (3) if this section applies.
 (3) If the court sentencing an offender determines under this section not to make an order of disqualification,—
   (a) the court must impose a community-based sentence on the offender; and
@@ -2117,7 +2117,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (ii) in any other case,—
       (A) to have a breath alcohol concentration exceeding 650 micrograms of alcohol per litre of breath; or
       (B) to have a blood alcohol concentration exceeding 130 milligrams of alcohol per 100 millilitres of blood; and
-  (b) Failed or refused to undergo a blood test, after having been required or requested to do so under section 72 or section 73; or
+  (b) failed or refused to undergo a blood test, after having been required or requested to do so under section 72 or section 73; or
   (c) driven a motor vehicle on a road at a speed exceeding—
     (i) the applicable permanent posted speed limit by more than 40 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment); or
     (ii) any other speed limit by more than 50 km an hour (which speed was detected by a means other than approved vehicle surveillance equipment).
@@ -2128,14 +2128,14 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) be in a form prescribed by regulations made under this Act or in a form to the same effect; and
   (b) tell the person to whom it is given that his or her driver licence is suspended for 28 days; and
   (c) require the person to immediately surrender his or her driver licence to the enforcement officer; and
-  (d) Outline the person's rights of appeal under sections 101 and 109.
+  (d) outline the person's rights of appeal under sections 101 and 109.
 (3) A suspension under this section starts immediately after the notice is given to the person to whom it applies.
 (4) A person whose driver licence is suspended under this section has the rights of appeal conferred by sections 101 and 109.
 (5) Nothing in this section affects or limits any power of a court to impose a penalty.
 (6) Subsection (1)(c) does not apply if the vehicle—
   (a) was an ambulance fitted with a siren or bell, and at the time was being used on urgent ambulance service; or
-  (b) was conveying a member of the Police in the execution of urgent duty, if compliance with the speed limit would be likely to prevent or hinder the execution of that duty; or
-  (c) was being used by a fire brigade for attendance at fires or other emergencies, and at the time was being used on urgent fire-brigade service.
+  (b) was conveying a constable in the execution of urgent duty, if compliance with the speed limit would be likely to prevent or hinder the execution of that duty; or
+  (c) was being used by a fire brigade for attendance at fires or other emergencies, and at the time was being used on urgent fire brigade service.
 (7) The suspension of a driver licence under subsection (1) ceases to have effect if—
   (a) the Police decide finally that proceedings will not be taken against the person for an offence arising out of circumstances referred to in subsection (1) or if such proceedings have been taken and the person is acquitted; and
   (b) the suspension has not already been removed.
@@ -2149,7 +2149,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (1) An enforcement officer must seize and impound, or seize and authorise the impoundment of, a motor vehicle for 28 days if the officer believes on reasonable grounds that a person drove the vehicle on a road while—
   (a) the person was disqualified from holding or obtaining a driver licence authorising the person to drive that vehicle; or
   (b) the person's driver licence is for the time being suspended or was revoked; or
-  (c) In the case of a person who was previously forbidden to drive because the person was an unlicensed driver or his or her driver licence had expired, the person did not hold a driver licence; or
+  (c) in the case of a person who was previously forbidden to drive because the person was an unlicensed driver or his or her driver licence had expired, the person did not hold a driver licence; or
   (d) the person—
     (i) had a—
       (A) breath alcohol concentration exceeding 400 micrograms of alcohol per litre of breath; or
@@ -2178,7 +2178,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (iv) the place where the vehicle is to be impounded; and
     (v) an outline of the person's rights of appeal under sections 102 and 110; and
   (b) give the driver a copy of the notice, unless the driver has left the scene; and
-  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the Register of Motor Vehicles; and
+  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the register of motor vehicles; and
   (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
@@ -2212,7 +2212,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) he or she has been ordered by a court to attend an approved course or programme; and
   (b) the driving occurs in the course of his or her attendance at that course or programme, either,—
     (i) in the case of a motorcyclist, under the supervision of a person who holds a current certificate of approval as a driving instructor issued by the Agency under the regulations or the rules:
-    (ii) In any other case, while accompanied by a person who holds a certificate referred to in subparagraph (i).
+    (ii) in any other case, while accompanied by a person who holds a certificate referred to in subparagraph (i).
 (9) Nothing in subsection (1A) applies to a person operating a motor vehicle in a manner that is authorised by law within the meaning of section 22A(4).
 
 ### 96A Impoundment of vehicle used in transport service
@@ -2231,7 +2231,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (v) the place where the vehicle is to be impounded; and
     (vi) an outline of the person's rights of appeal under sections 102 and 110; and
   (b) give the driver a copy of the notice, unless the driver has left the scene; and
-  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the Motor Vehicle Register; and
+  (c) give the registered owner of the vehicle a copy of the notice, if the registered owner is present at the time of the seizure, or as soon as practicable send a copy to the registered owner by ordinary post to the registered owner's last known place of residence or business or postal address, or address as recorded on the motor vehicle register; and
   (d) cause a copy of the notice to be given to the storage provider who stores the motor vehicle; and
   (e) retain a copy of the notice for 12 months.
 (2A) The driver of a motor vehicle seized or impounded under this section must, if requested to do so by an enforcement officer,—
@@ -2254,7 +2254,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (b) a person acting on behalf of the owner of the goods if the person produces satisfactory evidence of the owner's consent to such release.
 (5) An enforcement officer does not have to seize or impound a motor vehicle if the officer has good cause to suspect that the vehicle is a stolen vehicle or had been converted, is a write-off, or has suffered severe damage.
 (6) A vehicle to which a notice under this section relates must be released to the owner if—
-  (a) the Director or the police have decided finally that proceedings will not be taken against the transport service operator or the person who drove the vehicle in circumstances referred to in subsection (1) or such proceedings have been taken and the person is acquitted; and
+  (a) the Agency or the Police have decided finally that proceedings will not be taken against the transport service operator or the person who drove the vehicle in circumstances referred to in subsection (1) or such proceedings have been taken and the person is acquitted; and
   (b) the vehicle has not already been released.
 (7) Nothing in subsection (1) authorises the seizure or impoundment of a trailer or any other vehicle without motive power that is being towed by or is attached to a motor vehicle.
 (8) Sections 97 and 98 apply, with any necessary modifications, to a motor vehicle used in a transport service that is impounded under this section.
@@ -2363,7 +2363,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) whether or not the opportunity to attend a programme approved under section 99A was reasonably available to the applicant; and
   (b) whether or not the applicant attended that approved programme; and
   (c) any report of a person conducting such an approved programme on the conduct of the applicant, and on the applicant's awareness of the responsibilities of drivers and suitability to hold or obtain a driver licence; and
-  (d) any report which relates to the medical condition of the applicant and which is from a medical practitioner attached to an Assessment Centre attended by the person other than under an order made under section 65.
+  (d) any report which relates to the medical condition of the applicant and which is from a medical practitioner attached to an assessment centre attended by the person other than under an order made under section 65.
 (4) If an application under this section is refused,—
   (a) the court may accept a further application in respect of the same order if satisfied that the application is supported by relevant evidence that was not available when the previous application was heard; but
   (b) otherwise, a further application in respect of the same order may not be considered until at least 3 months after the date of that refusal.
@@ -2378,8 +2378,8 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 ### 100 Agency to remove certain disqualifications
 (1) If an order has been made under section 65 in respect of a person (the applicant), the Agency must make an order removing the disqualification of the applicant from holding or obtaining a driver licence, if satisfied that—
   (a) the applicant is a fit person to hold a driver licence, having regard to—
-    (i) a report which is from a medical practitioner attached to an Assessment Centre and which is made available to the Agency by the applicant or the Assessment Centre; and
-    (ii) any other evidence submitted by the applicant or otherwise available to the Agency relating to the medical condition of the applicant; and
+    (i) a report which is from a medical practitioner attached to an assessment centre and which is made available to the Agency by the applicant or the assessment centre; and
+    (ii) any other evidence submitted by the applicant or otherwise available to the Agency relating to the medical condition of the applicant.
   (b)
 (2) If the Agency makes an order under subsection (1), every order made under section 65 that applies to the applicant concerned must be treated as having expired.
 (3) No order may be made under subsection (1) if the applicant concerned is subject to an order made under section 65 that has been in force less than 1 year and 1 day.
@@ -2411,7 +2411,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
     (ii) had the relevant transport service licence suspended or revoked; or
     (iii) did not hold a transport service licence and had previously been forbidden to operate a transport service.
 (2) An appeal under this section must be set out in a statutory declaration and lodged no later than 14 days after the date on which the vehicle is seized and impounded.
-(3) An enforcement officer authorised for the purpose by the Commissioner may hear and determine the appeal, and, if satisfied that a ground referred to in subsection (1) has been established,-
+(3) An enforcement officer authorised for the purpose by the Commissioner may hear and determine the appeal, and, if satisfied that a ground referred to in subsection (1) has been established,—
   (a) the authorised officer must direct that the vehicle be released immediately to the owner or a person authorised by the owner; and
   (b) if a direction in respect of the vehicle has been given under section 96(1B), the authorised officer must cancel the direction unless he or she believes on reasonable grounds that the vehicle does not comply with the provisions of the regulations or the rules.
 (4) The authorised officer must consider and determine the appeal as soon as reasonably practicable, and,—
@@ -2425,11 +2425,11 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 (1) Unless prevented by subsection (2), the following persons may apply for an order under section 105 authorising the grant of a limited licence:
   (a) persons who are disqualified by an order made under this Act from holding or obtaining a driver licence:
   (b) persons who are subject to a licence suspension under section 90 (as a result of demerit points).
-(2) The following persons may not apply under this section for an order under section 105 authorising the grant of a limited licence:committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences).
+(2) The following persons may not apply under this section for an order under section 105 authorising the grant of a limited licence:
   (a) a person who is disqualified from holding or obtaining a driver licence by an order made under section 65 (which relates to repeat offences involving alcohol or drugs):
   (b) a person who is disqualified from driving a vehicle being used in a transport service (other than a rental service) by virtue of section 63, if the limited licence would authorise the person to drive a vehicle being used in a transport service (other than a rental service):
   (c) a person who is disqualified from holding or obtaining a driver licence by an order made on his or her conviction for an offence against section 32(1) (which relates to driving while disqualified or contrary to a limited licence):
-  (d) a person who is disqualified by an order made on his or her conviction—
+  (d) a person who is disqualified by an order made on his or her conviction—committed within 5 years after the commission of any other offence specified in this paragraph and arising from a different incident (whether or not both offences are of the same kind, regardless of when convictions were entered for those offences).
     (i) for an offence against any of sections 35, 36, 38, and 39 (which relate to reckless or dangerous driving, careless or inconsiderate driving causing injury or death, and failing to stop after an accident); or
     (ii) for an offence against any of sections 56, 58, 60, 61, and 62 (which relate to offences involving alcohol or drugs); or
     (iii) for an offence against section 33(1) (which relates to applying for or obtaining a driver licence while disqualified from doing so); or
@@ -2556,7 +2556,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 ### 113 Enforcement officers may enforce transport legislation
 (1) An enforcement officer in uniform or in possession of a warrant or other evidence of his or her authority as an enforcement officer may enforce the provisions of—
   (a) the Transport Act 1962, the Local Government Act 1974, the Local Government Act 2002, the Road User Charges Act 1977, the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Public Transport Management Act 2008, the Government Roading Powers Act 1989, the Railways Act 2005, the Land Transport Management Act 2003, and this Act:
-  (b) Regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
+  (b) regulations and rules and bylaws in force under any Acts mentioned in paragraph (a).
 (2) Without limiting any other powers conferred on an enforcement officer, an enforcement officer, in enforcing any provisions referred to in subsection (1), may at any time—
   (a) direct a person on a road (whether or not in charge of a vehicle) to give the person's full name, full address, date of birth, occupation, and telephone number, or such of those particulars as the enforcement officer may specify, and give any other particulars required as to the person's identity, and (unless the person is for the time being detained or under arrest under any enactment) give such information as is within the person's knowledge and as may lead to the identification of the driver or person in charge of a vehicle:
   (b) inspect, test, and examine—
@@ -2627,12 +2627,12 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (c) impound a vehicle—
 (2) A person who—must release the vehicle to that person immediately.
   (a) has possession of a vehicle as a result of its being moved under section 113(2)(c); and
-  (b) When requested at a reasonable time to do so by a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle immediately before it was moved,—
+  (b) when requested at a reasonable time to do so by a person who produces satisfactory evidence to the effect that he or she was lawfully entitled to possession of the vehicle immediately before it was moved,—
 
 ### 118 Owner or hirer or licence holder to give information as to identity of driver or passenger
 (1) If an enforcement officer has reasonable cause to believe that the driver of a vehicle has committed an offence while in charge of the vehicle, the officer may request the owner or hirer of the vehicle to give all information in his or her possession or obtainable by him or her which may lead to the identification and apprehension of the driver of the vehicle.
 (2) If an enforcement officer has reasonable cause to believe that a passenger of a vehicle has committed an offence in or through the use of the vehicle where that use relates to the commission of the offence or the aiding of the commission of the offence or the assisting of that passenger to avoid arrest in connection with or conviction for that offence, the officer may request the owner or hirer of the vehicle to give all information which may lead to the identification and apprehension of the passenger.
-(3) A request under subsection (1) or subsection (2)or subsection (6) may be made orally or in writing and the owner or hirer or licence holder (as the case may be) must comply with the request within 14 days.
+(3) A request under subsection (1) or subsection (2) or subsection (6) may be made orally or in writing and the owner or hirer or licence holder (as the case may be) must comply with the request within 14 days.
 (4) If a vehicle has been used to flee a Police pursuit, an enforcement officer may request the owner of the vehicle to give all information in his or her possession or obtainable by him or her which may lead to the identification and apprehension of the driver, and the owner must give the officer that information immediately.
 (5) Subsection (4) does not apply if the owner has been arrested or detained in relation to the suspected offence.
 (6) If the holder of a transport service licence employs any person to drive a vehicle under that licence, the licence holder, on being informed of any offence alleged to have been committed by that person or by a person driving a vehicle being used under the licence, and on being requested to do so by an enforcement officer, must supply in writing the full name and address of the driver.
@@ -2653,7 +2653,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (b) it is likely that a person was about to remove, conceal, destroy, or dispose of the vehicle; or
   (c) an enforcement officer suspects on reasonable grounds that the vehicle was about to be used in the commission of a crime; or
   (d) because of the time of the day or the locality, it was impracticable to obtain a warrant without creating an opportunity for the person to do any thing referred to in paragraph (b) or subparagraph (c).
-(4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5) of this section.
+(4) For the purposes of seizing and impounding a vehicle under section 96 or section 96A or section 123 in any case where subsection (3) does not apply, an enforcement officer may enter a building or place where a vehicle to which that section applies is being stored or kept only with the consent of the occupier or under a warrant issued under subsection (5).
 (5) An enforcement officer may apply on oath to a District Court Judge for a warrant to enter a place referred to in subsection (4) and, if satisfied that there is reasonable ground for believing that a vehicle to which section 96 or section 96A or section 123 applies is being stored or kept in the building or place, the Judge may issue a warrant authorising an enforcement officer to enter, by force if necessary, any part of the building or place, and seize and impound the vehicle.
 (6) It is the duty of every enforcement officer exercising a power conferred by subsection (2) or subsection (3) or under subsection (5)—
   (a) to identify himself or herself as an enforcement officer to the pursued person and to the occupant of the premises entered; and
@@ -2663,11 +2663,11 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
 
 ### 120 Arrest of persons for alcohol or drug-related offences, or assault on enforcement officer
 (1) An enforcement officer may arrest a person without warrant if the officer has good cause to suspect that the person—
-  (a) Has committed an offence against any of sections 58 to 62; or
+  (a) has committed an offence against any of sections 58 to 62; or
   (b) has assaulted that or any other enforcement officer while the officer was acting in the course of the officer's official duties.
 (1A) An enforcement officer may arrest a person without warrant if the person does not complete a compulsory impairment test in a manner satisfactory to an enforcement officer, who is trained to give the test, when required to do so by an enforcement officer under section 71A.
 (2) A person assisting an enforcement officer may arrest without warrant a person referred to in subsection (1)(b).
-(3) A person other than a sworn member of the Police who exercises any power of arrest conferred by this section must, as soon as practicable, deliver the arrested person into the custody of a sworn member of the Police.
+(3) A person other than a constable who exercises any power of arrest conferred by this section must, as soon as practicable, deliver the arrested person into the custody of a constable.
 (4) The obligation in subsection (3) does not apply until the completion of the exercise of any powers that may be exercised under this Act in respect of the arrested person or any vehicle driven by that person.
 (5) The powers conferred by this section are in addition to any other powers of arrest under this Act.
 
@@ -2712,7 +2712,7 @@ Subpart 5 of Part 4A applies to a decision to suspend a person under section 87D
   (a) the vehicle has been involved in a serious traffic accident or a hit and run offence; or
   (b) the driver has failed to stop in contravention of a signal or request made under section 114(1) or (2).
 (2) Section 96(4) and section 97 (other than subsections (2) to (4)) (which set out requirements and rights relating to the seizure and impoundment of vehicles) apply, with any necessary modifications, to the seizure and impoundment of a vehicle under this section as if the vehicle were being seized under section 96.
-(3) A commissioned officer of Police may from time to time, after giving notice in writing to the registered owner of the vehicle, apply to a District Court Judge for an order extending the period for which a vehicle has been impounded under this section; and a District Court Judge may order that the vehicle be impounded for a further period not exceeding 7 days as the Judge thinks fit and may from time to time renew any extension ordered under this subsection.
+(3) A constable who is of or above the level of position of inspector may from time to time, after giving notice in writing to the registered owner of the vehicle, apply to a District Court Judge for an order extending the period for which a vehicle has been impounded under this section; and a District Court Judge may order that the vehicle be impounded for a further period not exceeding 7 days as the Judge thinks fit and may from time to time renew any extension ordered under this subsection.
 (4) For the purposes of this section,—
   - **hit and run offence** means an offence against this Act or the Crimes Act 1961 involving an event in which a person is struck by a motor vehicle and injured or killed as a result, where the driver fails to comply with his or her duties under section 22
   - **serious traffic accident** means an accident involving a vehicle that results in an injury to or the death of a person.
@@ -2758,7 +2758,7 @@ An enforcement officer may, at a reasonable time, exercise all or any of the fol
 (1) None of the following, namely,—is liable for any loss or damage to a vehicle or its load arising directly or indirectly from the stopping of the vehicle or the removal of any part of its load under a direction given under section 125 or section 126.
   (a) the Crown; or
   (b) any enforcement officer; or
-  (c) any employer of an enforcement officer who is not a member of the Police,—
+  (c) any employer of an enforcement officer who is not a constable,—
 (2) This section does not apply if the enforcement officer concerned acted without good faith or if his or her omission or neglect is a major departure from the standard of care expected of a reasonable person in the circumstances.
 
 ### 128 Enforcement officer to order heavy vehicle to stop until load secured
@@ -2786,7 +2786,7 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
 **Dangerous goods**
 
 ### 129 Vehicles may be inspected and directed to remain stopped for contravening dangerous goods rules
-(1) An enforcement officer or dangerous goods enforcement officer who has good cause to suspect a breach of rules relating to the carriage of dangerous goods involving a vehicle —
+(1) An enforcement officer or dangerous goods enforcement officer who has good cause to suspect a breach of rules relating to the carriage of dangerous goods involving a vehicle—
   (a) may direct the driver or person in charge of the vehicle to stop the vehicle or that the vehicle remain stopped; and
   (b) for the purposes of this subsection, has the powers conferred by section 132.
 (2) An enforcement officer or dangerous goods enforcement officer may also direct that—until the officer is satisfied that the breach has been rectified.
@@ -2818,8 +2818,8 @@ Any enforcement officer who is in uniform or who produces evidence of identity a
   (b) for the purposes of this section, has the powers conferred by section 132.
 (2) A dangerous goods enforcement officer may give such reasonable directions as are necessary in relation to the loading or unloading of a vehicle or rail vehicle or the packing or unpacking of any thing to ensure compliance with the rules or otherwise to ensure safety in relation to the transportation of dangerous goods.
 (3) Every dangerous goods enforcement officer exercising any of the powers conferred under this section must, at the time of exercising that power, and thereafter on request, produce—
-  (a) rvidence of that person's appointment as an enforcement officer; and
-  (b) rEvidence of that person's identity.
+  (a) evidence of that person's appointment as an enforcement officer; and
+  (b) evidence of that person's identity.
 (4) A dangerous goods enforcement officer may, if authorised (either generally or specifically) in writing for the purpose by the Agency or the Commissioner, take a person or animal onto the premises to assist the officer with an inspection, and a person assisting the officer has the powers conferred on a dangerous goods enforcement officer by this section.
 (5) Nothing in this section limits or affects the privilege against self incrimination.
 
@@ -2837,7 +2837,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 ### 133 Owner liability for moving vehicle offences
 (1) Proceedings for a moving vehicle offence may be taken against any 1 or more of the following persons:whether or not (in the case of a person referred to in paragraph (b) or paragraph (c)) the person is an individual or was the driver or person in charge of the vehicle at the time the alleged offence was committed.
   (a) the person who allegedly committed the offence:
-  (b) a person who, at the time of the alleged offence, was registered as the owner, or 1 of the owners, of the vehicle involved in the offence in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
+  (b) a person who, at the time of the alleged offence, was registered as the owner, or one of the owners, of the vehicle involved in the offence in a register kept under section 18 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
   (c) a person who, at the time of the alleged offence, was lawfully entitled to possession of the vehicle involved in the offence (whether jointly with any other person or not);—
 (2) In proceedings taken against a person under paragraph (b) or paragraph (c) of subsection (1), it is to be conclusively presumed that—
   (a) the defendant was the driver or person in charge of the vehicle at the time of the alleged offence (whether or not the person is an individual); and accordingly
@@ -2917,7 +2917,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
     (ii) deny liability for the offence and request a court hearing; or
     (iii) admit liability for the offence, but make written submissions to the court; and
   (c) if the person does nothing, a reminder notice explaining fully how to defend the charge and containing a statement of the person's rights will be issued to the person; and
-  (d) in the case of a moving vehicle offence, the owner of the vehicle is responsible for moving vehicle offences committed with the vehicle unless 1 of the relevant statutory defences can be established.
+  (d) in the case of a moving vehicle offence, the owner of the vehicle is responsible for moving vehicle offences committed with the vehicle unless one of the relevant statutory defences can be established.
 (5) Different forms of infringement notices may be prescribed for different kinds of infringement offences.
 
 ### 140 Reminder notices
@@ -2939,7 +2939,7 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 ### 141 Provisions relating to infringement fees
 (1) The infringement fee payable in respect of an infringement offence is the appropriate infringement fee prescribed in respect of the relevant offence by or under this Act or the Transport Act 1962.
 (2) If an infringement fee is paid to an enforcement authority other than the Police, the enforcement authority must give the Commissioner such particulars of the infringement and of the payment as the Commissioner requires.
-(3) All infringement fees received under this Act by an enforcement authority or recovered under the Summary Proceedings Act 1957 must be paid into the Crown Bank Account, except that the enforcement authority may retain such portion of the fees so received as the Minister of Finance from time to time approves as being the expenses incidental to their collection.
+(3) All infringement fees received under this Act by an enforcement authority or recovered under the Summary Proceedings Act 1957 must be paid into a Crown Bank Account, except that the enforcement authority may retain such portion of the fees so received as the Minister of Finance from time to time approves as being the expenses incidental to their collection.
 (3A) However, an enforcement authority that is the Agency or a local authority may also retain the portion of the infringement fees received by it under this Act—
   (a) that the Minister of Finance from time to time approves; and
   (b) that are fees received in respect of an infringement offence in relation to the use of a special vehicle lane.
@@ -2948,17 +2948,17 @@ For the purposes of sections 129(1), 130(1), and 131(1), any enforcement officer
 **Evidence**
 
 ### 142 Evidence of driver history relating to infringement fees
-(1) In proceedings against a person for an offence in connection with the driving of a motor vehicle, a certificate purporting to be signed by an employee of the Agency or a member of the Police to the effect described in subsection (2) that has annexed to it a printout of the record referred to in that subsection is, in the absence of evidence to the contrary, sufficient evidence of the matters contained in the certificate.
-(2) The certificate referred to in subsection (1) must be to the effect that the employee or member—
-  (a) has checked the information stored in relation to driver history on such computer system as is for the time being maintained by the Police or the Agency or the Department for Courts for the purposes of storing law enforcement information; and
+(1) In proceedings against a person for an offence in connection with the driving of a motor vehicle, a certificate purporting to be signed by an employee of the Agency or a constable to the effect described in subsection (2) that has annexed to it a printout of the record referred to in that subsection is, in the absence of evidence to the contrary, sufficient evidence of the matters contained in the certificate.
+(2) The certificate referred to in subsection (1) must be to the effect that the employee or constable—
+  (a) has checked the information stored in relation to driver history on such computer system as is for the time being maintained by the Police or the Agency or the Ministry of Justice for the purposes of storing law enforcement information; and
   (b) either—
     (i) has found a record to the effect that an infringement fee has been paid by that person in respect of an infringement offence; or
     (ii) has found a record to the effect that a court has made an order in respect of an infringement offence or a minor offence.
 
 ### 143 Evidence of driver licence
 (1) This section applies to offences alleged against paragraph (a) or paragraph (b) of section 31(1).
-(2) In proceedings against a person for an offence to which this section applies, a certificate that meets the requirements of subsection (3) and purports to be signed by a sworn or non-sworn member of the Police or an employee of the Agency is, in the absence of proof to the contrary, sufficient evidence of the matters contained in the certificate.
-(3) A certificate referred to in subsection (2) must state that the member or employee has checked the register of driver licences kept by the Agency under section 199 and—
+(2) In proceedings against a person for an offence to which this section applies, a certificate that meets the requirements of subsection (3) and purports to be signed by a constable or Police employee who is not a constable or an employee of the Agency is, in the absence of proof to the contrary, sufficient evidence of the matters contained in the certificate.
+(3) A certificate referred to in subsection (2) must state that the constable or Police employee who is not a constable or the employee has checked the register of driver licences kept by the Agency under section 199 and—
   (a) has found no record showing that, on or before the date of the alleged offence, the person had ever held a driver licence; or
   (b) has found a record showing that the person has held a licence to drive a vehicle of the class referred to in the proceedings, and that, at the date of the alleged offence, the licence had expired; or
   (c) has found a record showing that, at the date of the alleged offence, the person held a licence to drive a vehicle, but not a vehicle of the class referred to in the proceedings; or
@@ -2983,7 +2983,7 @@ In any proceedings for an offence against Part 6A,—
   (d) it is to be presumed that every certificate purporting to have been certified or given under this section has been certified or given by an officer of the Agency authorised by the Agency to certify documents or give certificates under this section, until the contrary is proved.
 
 ### 146 Evidence of testing and accuracy of speed-measuring devices, etc
-(1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a sworn or non-sworn member of the Police authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
+(1) In proceedings for a speeding offence against any bylaws or enactment, any other offence against this Act, or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of the certificate) purporting to be signed by a constable or Police employee who is not a constable authorised for the purpose by the Commissioner or by a person authorised for the purpose by the Agency, as to the testing and accuracy of any equipment or device to which this section applies that is referred to in the certificate, is, in the absence of proof to the contrary, sufficient proof that the equipment or device referred to was tested on the date specified in the certificate and was accurate on the date of the alleged offence.
 (2) Every document purporting to be a copy of a certificate issued under this section is, in the absence of proof to the contrary, to be presumed to be a true copy.
 (3) Every certificate issued under this section is, in the absence of proof to the contrary, to be presumed to have been signed by a person duly authorised to sign it; and it is not necessary for any such certificate to show on its face that the person signing it was so authorised.
 (4) This section applies to distance-measuring devices, speed-measuring devices, approved vehicle surveillance equipment, and tuning forks used to check such devices or equipment.
@@ -2991,7 +2991,7 @@ In any proceedings for an offence against Part 6A,—
 (6) In any proceedings where a certificate has been produced under this section, the court may, on application made not less than 14 days before the hearing of the charge concerned, and if satisfied that there is good cause to do so, set aside the certificate and require the accuracy of the equipment or device to be established by evidence other than the certificate.
 
 ### 147 Evidence of accuracy of weighing devices and sites
-(1) In proceedings for an offence against this Act or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a sworn or non-sworn member of the Police authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
+(1) In proceedings for an offence against this Act or an offence against the Road User Charges Act 1977, the production of a certificate (or a document purporting to be a copy of a certificate) purporting to be signed by a constable or Police employee who is not a constable authorised by the Commissioner in that behalf (either generally or in a particular case) to the effect described in subsection (2) is, in the absence of evidence to the contrary, sufficient evidence that the device or site to which the certificate relates has been tested and was accurate on the date of the alleged offence.
 (2) A certificate referred to in subsection (1) may be to the effect that,—
   (a) on a specified date, being a date not more than 12 months earlier than the date of the alleged offence, a weighing device referred to in the certificate was tested and found to be accurate by—
     (i) an Inspector of Weights and Measures; or
@@ -3000,7 +3000,7 @@ In any proceedings for an offence against Part 6A,—
     (iv) any other person who is approved for the purpose by the Minister, by notice in the Gazette; or
   (b) on a specified date, being a date not more than 5 years earlier than the date of the alleged offence, a site referred to in the certificate was tested or surveyed, and found to be accurate, by—
     (i) an employee of the Agency; or
-    (ii) a sworn or non-sworn member of the Police; or
+    (ii) a constable or Police employee who is not a constable; or
     (iii) an employee or contractor of a laboratory for the time being approved for the purpose by the Science Minister, by notice in the Gazette.
 (3) A notice given by the Science Minister or the Minister in the Gazette for the purposes of subsection (2) may be in like manner amended or revoked at any time.
 (4) A certificate issued under subsection (1) sufficiently identifies the weighing device to which it refers if (in the case of a portable wheel weigher) it contains the serial number of the wheel weigher or if (in the case of a weighbridge or site) it refers to the location of the weighbridge or site.
@@ -3036,7 +3036,7 @@ In any proceedings for an offence against Part 6A,—
 ### 151 Evidence of rules
 Without limiting any other method of proof, the production in proceedings of a copy of—is, in the absence of evidence to the contrary, sufficient evidence of the rule and of the fact that it has been made in accordance with the provisions of this Act.
   (a) an ordinary rule purporting to have been made by the Minister under Part 11; or
-  (b) An emergency rule purporting to have been made by the Agency under section 162—
+  (b) an emergency rule purporting to have been made by the Agency under section 162—
 
 ## Part 11 — Land transport subordinate legislation
 
@@ -3074,7 +3074,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
   (h) provide for the issue of driver identification cards; and provide for driver identification cards to remain the property of the Agency:
   (i) provide for the recognition of driver licences issued outside New Zealand:
   (j) prescribe the form and content of temporary driver licences for the purposes of this Act:
-  (k) hive effect to any international convention concerning the recognition of driver licences and permits issued outside New Zealand and the recognition of international driving permits.
+  (k) give effect to any international convention concerning the recognition of driver licences and permits issued outside New Zealand and the recognition of international driving permits.
 
 ### 155 Rules concerning vehicles
 Without limiting the general power to make rules under section 152, ordinary rules may—
@@ -3118,7 +3118,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (v) land transport education, training, testing, and licensing organisations:
     (vi) vehicle inspectors and inspecting organisations:
     (vii) vehicle design and construction organisations:
-    (viii) Road controlling authorities:
+    (viii) road controlling authorities:
     (ix) any other person who provides services in the land transport system (other than the rail transport system), and any vehicles, land transport related services, facilities, and equipment operated in support of the land transport system (other than the rail transport system), or classes of such persons, vehicles, land transport related services, facilities, and equipment operated in support of the land transport system (other than the rail transport system):
   (b) provide for the setting of standards, specifications, restrictions, registration, and licensing requirements for all or any of those persons or things specified in paragraph (a), including provisions that—
     (i) specify conditions, privileges, and limitations associated with licences or other forms of approval:
@@ -3147,7 +3147,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
     (xvii) specify requirements for a small passenger service including signs, notices, fares, equipment, identification, driver duties and conduct, availability, complaint management, record keeping, and vehicle condition:
     (xviii) specify requirements for a vehicle recovery service including identification, driver duties and conduct, operator duties, complaints management, record keeping, and towing restrictions and authorisations:
     (xix) specify requirements for a rental service including a register of vehicles and hirers, details to be included in a rental service agreement, insurance requirements, the ability of rental service licence holders to charge hirers for fees incurred from owner-liability offences, and any requirements that rental service operators must comply with when charging for owner-liability offence fees:
-    (xx) provide for the approval of qualifications and specify conditions for the safe use of traction engines.
+    (xx) provide for the approval of qualifications and specify conditions for the safe use of traction engines:
   (c) provide for the appointment or approval of persons or organisations who are to carry out inspections, tests, certify things, issue licences or other documents, and provide other services under this Act:
   (d) set out the procedure for appeals under this Act to a District Court or apply (with such modifications as may be specified in the rules) a procedure for appeals to a District Court under any other enactment.
 
@@ -3193,7 +3193,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (2) Before making an ordinary rule, the Minister must—
   (a) publish in the Gazette, and in the daily newspapers published in Auckland, Hamilton, Wellington, Christchurch, and Dunedin, respectively, a notice of his or her intention to make the rule; and
   (b) give interested persons a reasonable time, which must be specified in the notice published under paragraph (a), to make submissions on the proposal; and
-  (c) consult with such persons, representative groups within the land transport system or elsewhere, Government departments, and Crown entities as the Minister in each case considers appropriate.
+  (c) consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Minister in each case considers appropriate.
 (3) Every ordinary rule must be notified in the Gazette and be made available by the Agency for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
 (4) Every ordinary rule comes into force 28 days after the date of its notification in the Gazette, or on such later day as may be specified in the rule or under section 163(3).
 
@@ -3206,7 +3206,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 (4) Every emergency rule is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation or an instrument for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 163 Procedure for making emergency rules
-(1) Before making an emergency rule, the Agency must consult with such persons, representative groups within the land transport system or elsewhere, Government departments, and Crown entities as the Agency in each case considers appropriate.
+(1) Before making an emergency rule, the Agency must consult with such persons, representative groups within the land transport system or elsewhere, government departments, and Crown entities as the Agency in each case considers appropriate.
 (2) Every emergency rule must be notified in the Gazette and be made available by the Agency for purchase by members of the public at a reasonable price, and the notification must specify a place where the rule is available for inspection free of charge and for purchase.
 (3) Every emergency rule comes into force immediately on being notified in the Gazette, or, where notified by service on a person under subsection (4), immediately on service of notification upon that person and in respect of that person only.
 (4) If, for reasons of safety, it is impracticable or inappropriate to notify an emergency rule in accordance with subsection (2),—
@@ -3302,7 +3302,7 @@ Without limiting the general power to make rules under section 152, ordinary rul
 ### 168 Regulations relating to fees and charges for land transport
 (1) Without limiting the generality of section 167(1)(j), regulations may be made under that provision prescribing, or providing for the fixing of, fees and charges payable for all or any of the following purposes:
   (a) to provide funds for the establishment, maintenance, and operation of facilities, works, goods, and services under the Transport Act 1962, the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, the Railways Act 2005, the Government Roading Powers Act 1989, the Land Transport Management Act 2003, this Act, or any other enactment relating to land transport:
-  (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport.
+  (b) to meet, or assist in meeting, the costs and expenses incurred by the Agency or the Crown in the exercise of functions or powers, or in the performance of duties, or the provision of services under any enactment specified in paragraph (a) or any other enactment relating to land transport:
   (c) to meet, or assist in meeting, the costs incurred by a regional council in processing notifications of the commencement, variation, or withdrawal of commercial public transport services under the Public Transport Management Act 2008.
 (2) Different rates of fees or charges, or both, may be so prescribed or fixed in respect of different classes of persons, vehicles, products, or any other property or item, or on the basis of different times of use, or different distances, or on any other differential basis.
 (3) Regulations under section 167(1)(j) may authorise persons carrying out statutory functions concerning land transport (such as persons issuing evidence of vehicle inspection) to charge a reasonable fee for the service or work performed.
@@ -3510,7 +3510,7 @@ The functions of the Minister under this Act are—
 (4) A person who applies to the Agency and pays the prescribed fee (if any)—
   (a) is, with the consent of the holder of the transport service licence named in the application, entitled to the information stored in the register in respect of the licence holder; but
   (b) is, without the consent of the holder of the transport service licence named in the application, entitled only to the information stored in the register in respect of the licence holder that is—
-    (i) specified in subsection (2)(a) and (g) to (1); and
+    (i) specified in subsection (2)(a) and (g) to (l); and
     (ii) in the case of an approved taxi organisation, specified in subsection (3)(a) to (c) and (e) to (g).
 (5) An application under subsection (4)—
   (a) may be made in writing or electronically or orally; and
@@ -3519,7 +3519,7 @@ The functions of the Minister under this Act are—
 
 ### 200 Restrictions on access to photographic images of driver licence holders
 (1) Except as provided in this section, no person, other than a person acting in the course of the person's official duties as an employee of the Agency, may access any photographic image stored under section 28(5).
-(2) A member of the Police may, for the purpose of enforcing any enactment referred to in section 113(1), access any photographic image stored under section 28(5) on production to the Agency of—
+(2) A constable may, for the purpose of enforcing any enactment referred to in section 113(1), access any photographic image stored under section 28(5) on production to the Agency of—
   (a) written consent to such access given by the individual to whom the image relates; or
   (b) an appropriate warrant issued under section 198 of the Summary Proceedings Act 1957.
 (2A) A person who is the next of kin of a deceased individual to whom a photographic image stored under section 28(5) relates may access the photographic image—
@@ -3566,13 +3566,13 @@ The functions of the Minister under this Act are—
 ## Part 15 — Miscellaneous provisions
 
 ### 208 Appointment of enforcement officers and dangerous goods enforcement officers
-(1) The Commissioner may, by warrant, appoint a person who is not a sworn member of the Police to be—
+(1) The Commissioner may, by warrant, appoint a person who is not a constable to be—
   (a) an enforcement officer for the purposes of—
     (i) this Act:
     (ii) Part 2 of the Land Transport Management Act 2003:
     (iii) the Public Transport Management Act 2008; or
   (b) a dangerous goods enforcement officer.
-(2) The Commissioner may, by warrant, appoint any sworn member of the Police to be a dangerous goods enforcement officer.
+(2) The Commissioner may, by warrant, appoint any constable to be a dangerous goods enforcement officer.
 (3) The Agency may, by warrant, appoint an employee of the Agency to be—
   (a) an enforcement officer for the purposes of—
     (i) any of Parts 4A, 4B, 6A, and 6B, including any rules or regulations made in relation to transport services, or sections 22B, 22C, 36B, 113(2)(f), 113A, 115, 118(6), 124, 128A, 128B, 135(1A), 138, and 139:
@@ -3613,8 +3613,8 @@ The functions of the Minister under this Act are—
 ### 211A Payment of fees
 All fees and other money (not being fines, infringement fees, or other penalties) received or recovered for the purposes of Part 4A must be paid or credited to the Agency.
 
-### 212 Agency to pay sum to Assessment Centres
-The Agency must pay each Assessment Centre, from money appropriated for the purpose by Parliament, such sum as may be prescribed for the first attendance of a person ordered under this Act to attend an Assessment Centre, if that person has not previously attended an Assessment Centre following the making of the order.
+### 212 Agency to pay sum to assessment centres
+The Agency must pay each assessment centre, from money appropriated for the purpose by Parliament, such sum as may be prescribed for the first attendance of a person ordered under this Act to attend an assessment centre, if that person has not previously attended an assessment centre following the making of the order.
 
 ### 213 Customs control over imported vehicles
 (1) If a regulation or rule specifies requirements for motor vehicles imported into New Zealand, a motor vehicle imported into New Zealand must remain subject to the control of Customs until those requirements are complied with.
@@ -3644,7 +3644,7 @@ Without limiting the powers conferred by section 167, the Governor-General may f
   (c) providing that subject to such conditions as may be specified in the regulations, during a specified transitional period,—
     (i) specified provisions of this Act (including definitions) do not apply:
     (ii) specified terms have the meanings given to them by the regulations:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
+    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply:
   (d) prescribing matters that would otherwise be covered by rules made under section 158.
 
 ### 217 Expiry of section 216
@@ -3698,7 +3698,7 @@ All rules made under Part 2 of the Land Transport Act 1993 and in force immediat
     (iii) the administration of fuel excise duty refunds under Part 5 of the Government Roading Powers Act 1989:
     (iv) the collection of revenue under the Road User Charges Act 1977, Part 1 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986, or Part 5 of the Government Roading Powers Act 1989; and
   (b) becomes or is offered the opportunity to become an employee or director of—to which the responsibility for any of the matters specified in paragraph (a) has been or is delegated, contracted, or otherwise transferred (the employer).
-    (i) any Department or other part of the State services (as defined in section 2 of the State Sector Act 1988); or
+    (i) any department or other part of the State services (as defined in section 2 of the State Sector Act 1988); or
     (ii) any company, partnership, or person—
 (2) No transferee is entitled to any payment, benefit, or compensation, whether for redundancy or otherwise, by reason only of the transferee ceasing to be employed by the Agency if—
   (a) the transferee has been or is offered terms and conditions of employment that are similar in overall effect to those of the transferee with the Agency; and
@@ -3714,7 +3714,7 @@ A notice issued under subsection (2) or subsection (2A) of section 68B of the Tr
 ### 225 Savings relating to court orders, proceedings, etc
 (1) A proceeding, action, or investigation commenced under any provision of the Transport Act 1962 or Transport (Vehicle and Driver Registration and Licensing) Act 1986, that is pending or in progress immediately before the repeal of that provision by this Act, may be continued, completed, or enforced (as the case may require) as if that provision had not been repealed.
 (2) A certificate given or evidence produced under any provision of the Transport Act 1962 or Transport (Vehicle and Driver Registration and Licensing) Act 1986 that is repealed by this Act, and given or produced before the commencement of this section for the purposes of any proceeding, action, or investigation to which subsection (1) applies, continues to be as admissible for the purposes of the proceeding, action, or investigation as it would be if this Act had not been passed.
-(3) A limited licence issued under section 38 of the Transport Act 1962 and in force immediately before the commencement of this section has effect as if issued under section 105.
+(3) A limited licence issued under section 38 of the Transport Act 1962 and in force immediately before the commencement of this section has effect as if issued under section 105 of this Act.
 (4) A court order made under any provision of the Transport Act 1962 or the Transport (Vehicle and Driver Registration and Licensing) Act 1986 that is repealed by this Act, which order is in force immediately before the repeal of that provision, has effect under the corresponding provision of this Act.
 (5) In any proceeding, action, or investigation to which subsection (1) applies, service of any document that was effected before the commencement of this section and in accordance with the Transport Act 1962 or Transport (Vehicle and Driver Registration and Licensing) Act 1986 (as the case required) is sufficient service for the purposes of the continuation, completion, and enforcement of the proceeding, action, or investigation.
 
@@ -3742,23 +3742,23 @@ An application pending under any provision of the Transport Act 1962 that is rep
 (2) A blood specimen to which this section applies may be analysed or the analysis of that blood specimen may be completed (as the case requires) under this Act by any approved analyst.
 (3) A certificate of the kind referred to in section 75(5) may, after the commencement of this section, be issued in respect of a blood specimen to which this section applies by any approved analyst.
 (4) No analysis under this Act of a blood specimen to which this section applies, and no certificate issued under this Act in respect of such a blood specimen, is invalid on the ground—
-  (a) that the blood specimen was delivered or posted before the commencement of this section and was addressed to a Ministry analyst (within the meaning of the Transport Act 1962); or
-  (b) that the analysis was done or completed, or the certificate was issued, by an approved analyst who was not the Ministry analyst to whom the blood specimen was delivered or posted, in accordance with subsection (3) or subsection (4) of section 58F of the Transport Act 1962, before the commencement of this Act; or
-  (c) that the person who carried out or completed the analysis or issued the certificate is an approved analyst, regardless of whether or not that person was a Ministry analyst (within the meaning of the Transport Act 1962) at the time the blood specimen was taken.
+  (a) that the blood specimen was delivered or posted before the commencement of this section and was addressed to a ministry analyst (within the meaning of the Transport Act 1962); or
+  (b) that the analysis was done or completed, or the certificate was issued, by an approved analyst who was not the ministry analyst to whom the blood specimen was delivered or posted, in accordance with subsection (3) or subsection (4) of section 58F of the Transport Act 1962, before the commencement of this Act; or
+  (c) that the person who carried out or completed the analysis or issued the certificate is an approved analyst, regardless of whether or not that person was a ministry analyst (within the meaning of the Transport Act 1962) at the time the blood specimen was taken.
 (5) If any person makes an application under section 74 for a part of a blood specimen to which this section applies to be sent to a private analyst,—
   (a) the approved analyst who for the time being has custody of the blood specimen is deemed, for the purposes of section 74(5), to be the approved analyst to whom the blood specimen had been delivered or posted in accordance with subsection (3) or subsection (4) of that section; and
-  (b) the approved analyst having such custody may give a certificate of the kind referred to in section 75(6), and no certificate so given is invalid on the ground that it was given by an approved analyst and not by a Ministry analyst (within the meaning of the Transport Act 1962).
+  (b) the approved analyst having such custody may give a certificate of the kind referred to in section 75(6), and no certificate so given is invalid on the ground that it was given by an approved analyst and not by a ministry analyst (within the meaning of the Transport Act 1962).
 (6) Where a certificate of the kind referred to in section 58G(1)(d) of the Transport Act 1962 has been issued for any blood specimen to which this section applies, a certificate under section 75 may, from time to time, after the commencement of this section, be issued in respect of that blood specimen by any approved analyst who has available to him or her the information that is necessary to enable that analyst to fully complete that certificate.
-(7) Section 58G(1) of the Transport Act 1962 applies in respect of any certificate issued under the authority of subsection (6) as if the certificate had been signed, before the commencement of this Act, by a Ministry analyst (within the meaning of the Transport Act 1962).
+(7) Section 58G(1) of the Transport Act 1962 applies in respect of any certificate issued under the authority of subsection (6) as if the certificate had been signed, before the commencement of this Act, by a ministry analyst (within the meaning of the Transport Act 1962).
 
 ### 232 Savings relating to blood specimens taken under this Act and posted in accordance with Transport Act 1962
 (1) This section applies to a blood specimen if that blood specimen—
-  (a) is taken under section 72 or section 73 and posted by registered post in any package, parcel, or other container that is addressed to a Ministry analyst (within the meaning of the Transport Act 1962); and
+  (a) is taken under section 72 or section 73 and posted by registered post in any package, parcel, or other container that is addressed to a ministry analyst (within the meaning of the Transport Act 1962); and
   (b) is received by an approved analyst (or person employed by an approved laboratory and approved for the purpose by an approved analyst).
 (2) Sections 74 and 75 apply in all respects to a blood specimen to which this section applies as if—
   (a) that blood specimen had been delivered to an approved analyst (or a person employed by an approved laboratory and approved for the purpose by an approved analyst) in a package properly addressed to the approved analyst; and
   (b) that approved analyst is deemed to be the approved analyst notified under section 74(4)(b); and
-  (c) any certificate of the kind referred to in section 75(4) that certifies that the blood specimen was sent or caused to be sent by registered post to a Ministry analyst (within the meaning of the Transport Act 1962) is deemed to certify that the specimen was sent or caused to be sent to a specified approved analyst in accordance with section 74.
+  (c) any certificate of the kind referred to in section 75(4) that certifies that the blood specimen was sent or caused to be sent by registered post to a ministry analyst (within the meaning of the Transport Act 1962) is deemed to certify that the specimen was sent or caused to be sent to a specified approved analyst in accordance with section 74.
 
 ## Part 17 — Motor vehicle registration and licensing
 
@@ -3766,7 +3766,7 @@ An application pending under any provision of the Transport Act 1962 that is rep
 
 ### 233 Interpretation matters applying to this Part
 (1) In this Part, unless the context otherwise requires,—
-  - **accident insurance levy** means the appropriate levy payable under section 214 of the Injury Prevention, Rehabilitation, and Compensation Act 2001
+  - **accident insurance levy** means the appropriate levy payable under section 214 of the Accident Compensation Act 2001
   - **enforcement authority** , in relation to an infringement offence under this Part, means—
     (a) the New Zealand Police:
     (b) the Agency, if an infringement notice is issued by an employee of the Agency or by a person acting on behalf of the Agency:
@@ -3965,510 +3965,6 @@ Nothing in this Part prevents the Minister from appointing the Agency to be the 
 
 ## Schedule 4 — New Parts 1, 2, 5, 7, 8, 9, and 10 substituted in Schedule 2 of Transport Act 1962
 
-|  | Offence |  | Infringement fee |
-| --- | --- | --- | --- |
-| 1. | Any parking offence involving parking on a road in breach of a local authority bylaw, in excess of a period fixed by a meter or otherwise, where the excess time is— |  |  |
-|  |  | Not more than 30 minutes | $12 or such lesser amount as is fixed by the local authority |
-|  |  | More than 30 minutes but not more than 1 hour | $15 or such lesser amount as is fixed by the local authority |
-|  |  | More than 1 hour but not more than 2 hours | $21 or such lesser amount as is fixed by the local authority |
-|  |  | More than 2 hours but not more than 4 hours | $30 or such lesser amount as is fixed by the local authority |
-|  |  | More than 4 hours but not more than 6 hours | $42 or such lesser amount as is fixed by the local authority |
-|  |  | More than 6 hours | $57 or such lesser amount as is fixed by the local authority |
-| 2. | aparked on or within 6 m of an intersection |  | $60 |
-|  | bparked on or near a pedestrian crossing |  | $60 |
-|  | cparked on broken yellow lines |  | $60 |
-|  | ddouble parking |  | $60 |
-|  | einconsiderate parking |  | $60 |
-|  | fparked on a clearway |  | $60 |
-|  | gparked on a bus only lane |  | $60 |
-| 3. | All other parking offences |  | $40 |
-| Towage Fee: Where expenses are incurred by an enforcement authority in respect of the movement or proposed movement under section 113(2)(c) of the Land Transport Act 1998 or section 68BA(2)(b) of this Act of the vehicle involved in the offence (whether or not the vehicle is in fact moved), the infringement fee is the total of the amount specified above in respect of the offence and the amount of the appropriate towage fee (including any goods and services tax payable in respect of the towage fee). |  |  |  |
-
-| Offence |  | Infringement fee($) |
-| --- | --- | --- |
-| Any speeding offence, where the speed exceeds the speed limit by— |  |  |
-|  | not more than 10 kilometres an hour | 30 |
-|  | more than 10 kilometres an hour but not more than 15 kilometres an hour | 80 |
-|  | more than 15 kilometres an hour but not more than 20 kilometres an hour | 120 |
-|  | more than 20 kilometres an hour but not more than 25 kilometres an hour | 170 |
-|  | more than 25 kilometres an hour but not more than 30 kilometres an hour | 230 |
-|  | more than 30 kilometres an hour but not more than 35 kilometres an hour | 300 |
-|  | more than 35 kilometres an hour but not more than 40 kilometres an hour | 400 |
-|  | more than 40 kilometres an hour but not more than 45 kilometres an hour | 510 |
-|  | more than 45 kilometres an hour but not more than 50 kilometres an hour | 630 |
-
-| Section | Brief description of offence | Infringement fee $ |
-| --- | --- | --- |
-| 64 | Failure in certain cases to stop to ascertain railway line clear | 280 |
-| 68BA(6) | Failure to release vehicle towed away, in certain circumstances | 280 |
-
-| Regulation | Brief description of offence | Infringement fee$ |
-| --- | --- | --- |
-| 26 | Offences concerning dangerous substances on roads | 280 |
-| 27 | Operating unsafe vehicles and loads | 600 |
-| (Part 2 generally) | Offences against Part 2 (which relates to driving rules) not otherwise specified in this Part of this Schedule, and not being a speeding or a parking offence against regulation 21, regulation 23, or regulation 25 | 150 |
-| 44B | Careless riding of cycle or moped | 150 |
-| (Part 3 generally) | Offences against Part 3 (which relates to rules for cycles and mopeds) not otherwise specified in this Part of this Schedule | 55 |
-| (Part 4 generally) | Offences against Part 4 (which relates to animal traffic) | 55 |
-| 48E | Failure to observe restrictions affecting cycles, mopeds, and motorcycles | 55 |
-| 50 | Failure to use flag to indicate excess dimensions | 150 |
-| (Part 5 generally) | Offences against Part 5 (which relates to loading and dimensions) not otherwise specified in this Part of this Schedule | 370 |
-| (Part 7 generally) | Offences against Part 7 (which relates to equipment) not otherwise specified in this Part of this Schedule | 150 |
-| (Part 12 generally) | Offences against Part 12 (which relates to traffic signs) | 150 |
-
-| Regulations to which offence relates | Brief description of offence | Infringement fee$ |
-| --- | --- | --- |
-| 5(5) | Unlawful use of Class C road | 370 |
-| 7(5) | Failure to comply with conditions of permit to exceed weight limit | 370 |
-| 8(1) | Operation of vehicle with excessive tyre pressure | 150 |
-| 8(3) | Failure to comply with conditions of permit to exceed minimum tyre pressure | 150 |
-| 10 | Failure to comply with provisions concerning prohibition on certain heavy traffic | 370 |
-| 11 | Failure to comply with provisions concerning protection of bridges | 470 |
-| 13 | Use, etc, of devices to alter axle weights | 370 |
-| 14 | Failure to mark tare weight | 150 |
-| 16 | Unlawful erection of signs, interference with prescribed signs, etc | 150 |
-| 16 | Failure to comply with vehicle standards, etc | 370 |
-| 17 | Failure to comply with requirements of traffic officer, obstruction, etc | 370 |
-
-| Section | Brief description of offence | Infringement fee$ |
-| --- | --- | --- |
-| 31(1)(a) | Driving without appropriate current driver licence | 400 |
-| 31(1)(b) | Driving contrary to the conditions of driver licence | 400 |
-| 31(1)(c) | Failing to produce driver licence | 55 |
-| 34(1)(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is a heavy motor vehicle or is used in a transport service | 600 |
-| 34(1)(b) | Operating vehicle without displaying current evidence of vehicle inspection or certificate of loading, where the vehicle is not a heavy motor vehicle or is not used in a transport service | 200 |
-| 44(1) | Making a false or misleading statutory declaration, etc | 750 |
-| 46(1) | Contravening requirements, conditions, or directions about traffic surveys | 500 |
-| 47(1) | Failing to report damage to other vehicles or property | 370 |
-| 50(1) | Failing to release vehicle towed away, in certain circumstances | 280 |
-| 52(1)(a) | Removing, obscuring, or rendering indistinguishable a notice directing that vehicle not be driven on road | 600 |
-| 52(1)(b) | Driving vehicle contrary to notice under section 115 | 600 |
-| 52(1)(c) or (d) | Failing to comply with direction or requirement concerning off-loading of heavy motor vehicle or securing of load on heavy motor vehicle | 750 |
-| 52(1)(c) | Failing to comply with direction to stop heavy motor vehicle or to drive heavy motor vehicle to weighing device | 1000 |
-| 53(1) | Obstruction, etc, in relation to inspection of vehicle required to have evidence of vehicle inspection or certificate of loading | 370 |
-
-| Provision | Brief description of offence | Infringement fee$ |
-| --- | --- | --- |
-| Section 5, Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Using, etc, unlicensed motor vehicle or motor vehicle that does not have registration plates affixed in the prescribed manner | 200 |
-| Section 17, Transport (Vehicle and Driver Registration and Licensing) Act 1986 | Unauthorised, deceptive, or obscured registration plates or unauthorised licence, etc | 200 |
-| Regulations 11(1), (2), and (3) and 18, Goods Service (Constructional) Regulations 1936 | Failure to comply with any provision of the regulations, and related offences | 280 |
-| Regulation 11(1), Vehicular Traffic Road Closure Regulations 1965 | Use of closed road otherwise than in terms of permit | 280 |
-| Regulation 76, Passenger Service Vehicle Construction Regulations 1978 | Failure to comply with any provisions of the regulations or any provision or restriction in a certificate of loading, and related offences | 280 |
-| Any provision of the Transport (Drivers Licensing) Regulations 1987 | Failure to comply with appropriate regulation | 150 |
-| Any provision of any bylaw involving the use of vehicles, other than a provision— | Failure to comply with appropriate regulation | 750 |
-| asetting a speed limit; or |  | (or such lesser amount as may be set by bylaws) |
-| bimposing a parking prohibition or restriction; or |  |  |
-| cfor which any infringement fee is otherwise specified in this schedule |  |  |
-| Failure to comply with appropriate provision |  |  |
-
-### 1 Title
-(1) This Act is the Land Transport Amendment Act 2005.
-(2) In this Act, the Land Transport Act 1998 is called the principal Act.
-
-### 2 Commencement
-(1) Sections 11 to 16, 21, 24, 30(2), 31 to 34, 36, 43, 44, 46 to 50, 52 to 55, 65, 75, 81, 82(1), (3), (4), and (5), 84, 95(1), (2), and (9), 95(12), 98, and 99 come into force—
-  (a) on 16 January 2006; or
-  (b) on an earlier date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
-(2) Sections 4(1), 4(3), 4(5) to (8), 4(13), 5, 18, 19, 29, 38 to 40, 42, 45, 51, 56, 61 to 63, 66 to 69, 71 to 73, 77, 78(2), 79, 82(2), 83, 85, 86, 91(2) to (6), 91(8), 91(9), 93, 94(1), 95(3) and (4), 95(6), 95(8), 95(11), 96, 97, and 100 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
-(3) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
-
-## Part 2 — Amendments to principal Act
-
-### Subpart 1 — Principal Act
-
-**Mitigation of penalties and rights of appeal**
-
-### 61 New sections 111A and 111B inserted
-(1) Amendments incorporated in the principal Act
-(2) Amendment incorporated in the principal Act
-(3) This section applies to every appeal under this Act to a District Court, whether the appeal is commenced before or after the commencement of this section, subject to the right of appeal being exercised within the applicable time limit in Part 4 of the Summary Proceedings Act 1957.
-
-### Subpart 2 — Repeals, amendments, and transitional and savings provisions
-
-**Transitional and savings provisions**
-
-### 96 Rights of existing transport service licence holders
-(1) Every person who, immediately before the commencement of Part 4A of the principal Act, was the holder of a transport service licence (except a rail service licence) under the Transport Services Licensing Act 1989 is deemed to have been granted, on the commencement of Part 4A of the principal Act, the equivalent transport service licence under this Act.
-(2) Any licence deemed by subsection (1) to have been granted under this Act may at any time on or after the commencement of Part 4A of the principal Act be revoked or suspended or otherwise dealt with in accordance with that Act.
-(3) A certificate of knowledge of law and practice issued under the Transport Services Licensing Act 1989 continues to have effect, and may be revoked or otherwise dealt with as if it had been issued under the principal Act, or the regulations or rules made under the principal Act.
-
-### 97 Rights of existing approved taxi organisations
-(1) Every person who, immediately before the commencement of Part 4A of the principal Act, was an approved taxi organisation under the Transport Services Licensing Act 1989—
-  (a) continues to be an approved taxi organisation on the commencement of Part 4A of the principal Act; and
-  (b) may be dealt with in accordance with Part 4A of the principal Act.
-(2) Any application to be an approved taxi organisation that was lodged before the commencement of Part 4A of the principal Act is to be treated as being lodged under Part 4A of the principal Act.
-
-### 98 Rights of existing operators of traction engines
-(1) Every person who, immediately before the commencement of sections 22B and 22C of the principal Act, was qualified under the Boilers, Lifts, and Cranes Act 1950 to operate a traction engine is deemed to have been granted, on the commencement of those sections, the equivalent qualification under this Act.
-(2) Any qualification deemed by subsection (1) to have been granted under this Act may at any time on or after the commencement of sections 22B and 22C of the principal Act be revoked or suspended or otherwise dealt with in accordance with the rules.
-
-### 99 Transitional provision for notices given under section 96 of the principal Act
-If, after the commencement of section 50, an enforcement officer issues a notice under section 96 of the principal Act in any case to which subsection (1) of that section applies in a form used by enforcement officers before the commencement of section 50, that form does not of itself invalidate the notice.
-
-### 1 Title
-This Act is the Land Transport Management Amendment Act 2008.
-
-### 2 Commencement
-This Act comes into force on 1 August 2008.
-
-## Part 2 — Miscellaneous provisions
-
-### 47 Consequences of establishment of New Zealand Transport Agency
-(1) On 1 July 2008,—
-  (a) Land Transport New Zealand and Transit New Zealand are dissolved; and
-  (b) the office of the Director of Land Transport ceases to exist; and
-  (c) the Transit New Zealand Act 1989 is called the Government Roading Powers Act 1989.
-(2) Schedule 2 applies to this section.
-
-### 48 Transitional and savings provisions
-Other transitional and savings provisions relating to the coming into force of this Act are set out in Schedule 2.
-
-## Schedule.Group
-
-### Schedule 2 — Transitional and savings provisions
-
-**Interpretation**
-
-### 1 Interpretation
-(1) In this schedule, unless the context otherwise requires,—
-  - **Authority** has the same meaning as in section 5 of the Land Transport Management Act 2003 as in force immediately before 1 August 2008
-  - **board** , in relation to the new Agency, means the board specified in section 98 of the Land Transport Management Act 2003
-  - **Director** means the Director of Land Transport
-  - **former agency** means (as the case may require)—
-    (a) Land Transport New Zealand:
-    (b) Transit New Zealand
-  - **land transport programme** has the same meaning as in section 5 of the Land Transport Management Act 2003 as in force immediately before 1 August 2008
-  - **new Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
-  - **property** —
-    (a) means every type of property; and
-    (b) includes—
-      (i) every type of estate and interest in property; and
-      (ii) money
-  - **suitable alternative position** , in relation to an employee, means a position—
-    (a) for which the employee has the appropriate skills and experience; and
-    (b) the pay and conditions of which are, in their overall effect, no less favourable to the employee than those applying to the employee immediately before the date of the employee’s transfer to that position
-  - **transferred employee** means a person who,—
-    (a) immediately before 1 August 2008, is employed by a former agency; and
-    (b) is transferred to the new Agency under clause 26(1)(h).
-(2) Any term or expression that is defined in the Land Transport Management Act 2003 and used, but not defined, in this schedule has, unless the context otherwise requires, the same meaning as in that Act.
-
-**National land transport fund**
-
-### 2 Treatment of certain land transport revenue
-(1) This clause applies to—
-  (a) all land transport revenue referred to in section 9(6) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held in the national land transport fund immediately before that date; and
-  (b) all amounts referred to in section 10(3)(a) of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) and held by the Authority in the national land transport account immediately before that date.
-(2) On 1 August 2008, all land transport revenue and all amounts to which this clause applies must be treated as being part of the national land transport fund referred to in section 10(1) of the Land Transport Management Act 2003 (as in force on and from that date).
-
-### 3 Crown may pay new Agency for certain liabilities incurred before 1 August 2008
-(1) This clause applies to all land transport revenue referred to in section 9(6) (as in force immediately before 1 August 2008) that has not been paid to the Authority before that date, in respect of the 2007/08 financial year.
-(2) Without limiting clause 26(1)(d), the Crown may, without further appropriation than this clause, pay to the new Agency an amount equal to the land transport revenue to which this clause applies, as if the 2007/08 financial year ended on 31 July 2008.
-
-### 4 Crown’s authority to pay for certain expenditure using land transport revenue
-(1) The Crown may use land transport revenue to pay to—
-  (a) the Secretary the following amount in each of the following financial years for the purposes of Waikato rail works:Financial yearAmount ($)2008/095,000,0002009/105,000,000
-  (b) the Secretary to the Treasury the following amount in each of the following financial years for the purposes of upgrades and renewal of the below track Auckland rail infrastructure:Financial yearAmount ($)2008/09155,000,0002009/10130,000,000
-(2) In respect of the 2008/09 and 2009/10 financial years, the amount referred to in section 9(3) of the Land Transport Management Act 2003 is an amount equal to the land transport revenue for the relevant financial year less—
-  (a) any amounts that have been paid in respect of that year under subclause (1); and
-  (b) the amounts for that year that are referred to in section 9(1) and (2) of the Land Transport Management Act 2003.
-(3) In each of the 2008/09 and 2009/10 financial years, the amounts paid under subclause (1) must be deducted from the amount of land transport revenue that constitutes an inflow of the national land transport fund for the relevant financial year under section 10(2)(a) of the Land Transport Management Act 2003.
-(4) The Governor-General may, by Order in Council, reduce or increase any or all amounts or financial years specified in subclause (1), and this clause will apply or continue to apply (as the case may be), with the necessary modifications, in respect of any amended amount or financial year.
-
-**Land transport programmes**
-
-### 5 Completed land transport programmes for 2008/09 financial year to have effect until 1 July 2009
-(1) This clause applies to the following land transport programmes (as defined immediately before 1 August 2008):
-  (a) the land transport programme completed by an approved organisation for the 2008/09 financial year under section 12 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008):
-  (b) the land transport programme completed by the Authority for the 2008/09 financial year under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
-(2) A land transport programme to which this clause applies has effect until 1 July 2009.
-(3) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (2) as if—
-  (a) a reference to the Authority were a reference to the new Agency; and
-  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
-
-### 6 Treatment of police activities and combinations of police activities in Authority’s completed land transport programme for 2008/09 financial year
-(1) This clause applies to the land transport programme referred to in clause 5(1)(b).
-(2) Police activities and combinations of police activities that are included in the land transport programme to which this clause applies are to be treated as if they were recommendations of the new Agency that had been approved by the responsible Minister under section 18L(1) of the Land Transport Management Act 2003.
-(3) However, to avoid doubt, the police activities and combinations of police activities referred to in subclause (2) are not to be treated as if they were the first approval referred to in clause 9.
-
-### 7 Completion of draft land transport programmes for 2008/09 financial year
-(1) This clause applies to any draft land transport programme under section 12 or 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) that was in existence (but not completed) immediately before 1 August 2008.
-(2) Approved organisations must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) when completing their land transport programmes for the 2008/09 financial year.
-(3) The new Agency must, unless it is impracticable to do so, comply with the relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 July 2008) when completing the land transport programme for each former agency for the 2008/09 financial year.
-(4) A land transport programme that is completed under this clause continues to have effect until 30 June 2009.
-(5) Subject to clause 6, the relevant provisions of the Land Transport Management Act 2003 that were in force immediately before 1 August 2008 continue to apply, with all necessary modifications, to a land transport programme that is continued in effect by subclause (4) as if—
-  (a) a reference to the Authority were a reference to the new Agency; and
-  (b) the land transport programme completed by each of the former agencies for the 2008/09 financial year were completed by the new Agency.
-
-**First regional land transport programmes**
-
-### 8 First regional land transport programmes
-Each regional council and ARTA must ensure that their first regional land transport programmes are in place for the 3 financial years commencing on and from 1 July 2009.
-
-**Police activities or combinations of police activities**
-
-### 9 First approval of recommendations
-The Minister must ensure that the first approval under section 18L(1) is for the 3 financial years commencing on and from 1 July 2009.
-
-**National land transport programme**
-
-### 10 National land transport programme for 2008/09 financial year to have effect until 1 July 2009
-(1) This clause applies to the national land transport programme that has been prepared and adopted by the Authority for the 2008/09 financial year under section 19 of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
-(2) The national land transport programme to which this clause applies has effect until 1 July 2009.
-(3) The relevant provisions of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008) continue to apply, with all necessary modifications, to a national land transport programme that is continued in effect by subclause (2) as if—
-  (a) a reference to the Authority were a reference to the new Agency; and
-  (b) the national land transport programme prepared and adopted by Land Transport New Zealand for the 2008/09 financial year were prepared and adopted by the new Agency.
-
-### 11 First national land transport programme of new Agency
-The new Agency must ensure that its first national land transport programme is in place for the 3 financial years commencing on and from 1 July 2009.
-
-**Approval of activities or combinations of activities**
-
-### 12 Approvals in effect immediately before 1 August 2008
-Subject to clause 42, approvals in effect under sections 20 and 21 of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect.
-
-### 13 Approval of activities and combinations of activities for 2008/09 financial year
-Subject to clauses 12 and 14 to 17, the new Agency must, unless it is impracticable to do so (for example, because there is no GPS), comply with the relevant provisions of the Land Transport Management Act 2003 when approving activities and combinations of activities for the 2008/09 financial year.
-
-### 14 Approval of certain activities or combinations of activities
-(1) The new Agency must approve activities and combinations of activities as qualifying for payment from the national land transport fund up to the amount, which is subject to subclause (2), and by the financial year specified in the second column of the following table in order to fulfil the Crown’s commitment described in the first column of that table opposite that amount and financial year:The Crown’s commitmentAmount (which is subject to subclause (2)) and financial year by which amount is to be approved ($)Auckland Land Transport—contribution to implementing Auckland’s regional land transport strategy: the Crown’s commitment was originally $898,000,000 over 2004/05–2014/15, including rail funding130,000,000 by 2012/13Bay of Plenty—to address congestion and improve access and safety through investment in strategic roading, passenger transport, transport demand management, and walking and cycling: the Crown’s commitment was originally $150,000,000 over 2006/07–2014/15135,000,000 by 2015/16 Waikato Land Transport—contribution to implementing Waikato’s regional land transport strategy: the Crown’s commitment was originally $215,000,000 over 2007/08–2016/17, including rail funding188,000,000 by 2017/18 Wellington Land Transport—contribution to implementing Wellington's regional land transport strategy: the Crown's commitment was originally $225,000,000 over 2005/06–2014/15163,000,000 by 2015/16Wellington Land Transport (Western Corridor)—contribution to improve safety and access reliability of the Wellington Western Corridor: the Crown's commitment was originally $660,000,000 over 2006/07–2015/16640,000,000 by 2016/17 made up as follows:
-  (a) up to 405,000,000 to be applied to advance a long-term solution to address access reliability for State Highway 1 between Kapiti and Wellington
-  (b) up to 235,000,000 to be applied to passenger transport and roading to address congestion and to improve safety and access reliability of the Wellington Western Corridor.
-(2) The Governor-General may, by Order in Council, increase any or all of the amounts or periods specified in the second column of the table in subclause (1).
-(3) The new Agency must include in its annual report on the national land transport fund under section 11 of the Land Transport Management Act 2003 a statement of the total expenses or capital expenditure incurred from the 2008/09 financial year to date in fulfilling each of the Crown's commitments listed in subclause (1).
-(4) The reporting requirement in subclause (3) applies until all of the Crown's commitments listed in subclause (1) have been fulfilled.
-(5) To avoid doubt, compliance by the new Agency with this clause does not constitute a breach of section 95(2) of the Land Transport Management Act 2003.
-
-### 15 Approval of new Agency’s activities and combinations of activities (excluding those relating to State highways) for 2008/09 financial year
-(1) This clause applies to activities and combinations of activities (excluding those relating to State highways)―
-  (a) that the new Agency proposes to deliver, or to manage the delivery of, in the 2008/09 financial year; and
-  (b) for which funding is sought from the national land transport fund; and
-  (c) whether or not those activities or combinations of activities have been included in a land transport programme for the 2008/09 financial year that has been completed by the Authority under section 12A of the Land Transport Management Act 2003 (as in force immediately before 1 August 2008).
-(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any activities or combinations of activities to which this clause applies as qualifying for payment from the national land transport fund.
-
-### 16 Treatment of certain costs and expenses of new Agency for 2008/09 financial year
-(1) This clause applies to costs and expenses of the new Agency for the 2008/09 financial year that arise out of the performance of its functions and duties under subpart 1 of Part 2 of the Land Transport Management Act 2003.
-(2) Despite section 20(2)(a), (b), (e), and (f) of the Land Transport Management Act 2003, the new Agency may approve any costs and expenses of the new Agency to which this clause applies as qualifying for payment from the national land transport fund.
-
-### 17 No Ministerial approval required for costs and expenses of new Agency for 2008/09 financial year
-(1) This clause applies despite anything to the contrary in the Land Transport Management Act 2003 (as in force immediately before 1 August 2008 and as in force on and from that date).
-(2) The Minister’s approval of the costs and expenses of the new Agency for the 2008/09 financial year is not required.
-
-### 18 Approved procurement procedures
-Subject to clause 42, approved procurement procedures in effect under section 25 or 95(1) of the Land Transport Management Act 2003 immediately before 1 August 2008 continue to have effect as approved procurement procedures under that Act.
-
-### 19 Reporting requirements for new Agency in 2008/09 and 2009/10 financial years
-Despite section 26(2)(a), the new Agency is required to report on the statement of inflows and expenses and capital expenditure of the national land transport fund as follows:
-  (a) for the 2008/09 financial year, for that financial year:
-  (b) for the 2009/10 financial year, for that financial year and the 2008/09 financial year.
-
-**Regional land transport committees and first regional transport committees**
-
-### 20 Temporary continuation of regional land transport committees (other than Auckland regional transport committee)
-(1) This clause applies to any regional land transport committee (other than the Auckland regional transport committee) that—
-  (a) was established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008); and
-  (b) was in existence immediately before that date.
-(2) A regional land transport committee to which this clause applies continues in existence until whichever is the earlier of the following:
-  (a) a regional transport committee for the region concerned is established under section 105 of the Land Transport Management Act 2003:
-  (b) the close of 30 September 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
-
-### 21 Establishment of first regional transport committees for each region (excluding Auckland region)
-(1) Every regional council, or unitary authority, must establish a regional transport committee, under section 105 of the Land Transport Management Act 2003, for its region before 1 October 2008 or on a date, no later than 31 December 2008, that the Minister agrees.
-(2) If section 105(11) of the Land Transport Management Act 2003 applies, the relevant territorial authority must decide which regional transport committee to join before 1 October 2008.
-
-### 22 Continuation of Auckland regional land transport committee
-The Auckland regional land transport committee established under section 178 of the Land Transport Act 1998 (as in force immediately before 1 August 2008), and in existence immediately before that date, continues in existence as the Auckland regional transport committee under clause 11 of Schedule 7 (as in force from 1 August 2008).
-
-**Regional land transport strategies**
-
-### 23 Existing regional land transport strategies
-(1) This clause applies to regional land transport strategies in force under Part 13 of the Land Transport Act 1998 immediately before the commencement of Part 3 of the Land Transport Management Act 2003.
-(2) Subject to subclause (3) and clause 42, a regional land transport strategy to which this clause applies continues to have effect until it would have ceased to be current under section 176 of the Land Transport Act 1998 (as in force immediately before the commencement of Part 3 of the Land Transport Management Act 2003).
-(3) The Minister may approve the extension of a regional land transport strategy to which this clause applies by a period of up to 18 months.
-
-### 24 First progress reports on regional land transport strategy
-Each regional transport committee must ensure that its first progress report on its regional land transport strategy is for the 3 consecutive financial years ending on 30 June 2011.
-
-**First GPS**
-
-### 25 First GPS
-(1) Despite section 86 of the Land Transport Management Act 2003, the first GPS must be issued with effect on and from 1 July 2009.
-(2) Despite section 87(1)(c) and (2) of the Land Transport Management Act 2003, in preparing the first GPS, the Minister may, but need not,—
-  (a) have regard to the views of Local Government New Zealand and representative groups of land transport users and providers (including representative groups of coastal shipping users and providers):
-  (b) consult with the new Agency.
-
-**Dissolution of Land Transport New Zealand and Transit New Zealand**
-
-### 26 Consequences of dissolution
-(1) On 1 August 2008,—
-  (a) the functions, duties, and powers of the former agencies under any enactment vest in the new Agency; and
-  (b) all property belonging to the former agencies vests in the new Agency; and
-  (c) all information held by the former agencies is held by the new Agency; and
-  (d) all money payable to or by the former agencies becomes payable to or by the new Agency; and
-  (e) all rights, liabilities, contracts, entitlements, and engagements of the former agencies become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
-  (f) all directions to the former agencies in effect immediately before 1 August 2008 become directions to the new Agency; and
-  (g) any delegation by Transit under section 62 of the Transit New Zealand Act 1989 has effect as if it were a delegation by the new Agency; and
-  (h) subject to clause 31, every employee of the former agencies becomes an employee of the new Agency on the same terms and conditions as applied immediately before becoming an employee of the new Agency; and
-  (i) anything done, or omitted to be done, or that is to be done, by, or in relation to, the former agencies is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
-  (j) the commencement, continuation, or enforcement of proceedings by or against the former agencies may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
-  (k) the completion of a matter or thing that would, but for this clause, have been completed by the former agencies, may be completed by the new Agency.
-(2) Despite anything in subclause (1), the board of the new Agency may appoint a new chief executive after 1 August 2008.
-(3) The transfer of information from the former agencies to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
-(4) The dissolution of the former agencies does not, by itself, affect any of the following matters:
-  (a) any decision made, or anything done or omitted to be done, by a former agency in relation to the performance or the exercise of the former agency’s functions, duties, or powers under any enactment:
-  (b) any proceedings commenced by or against a former agency:
-  (c) any other matter or thing arising out of a former agency’s performance or exercise, or purported performance or exercise, of the former agency’s functions, duties, or powers under any enactment.
-
-### 27 Operating principles
-(1) Despite section 96(1)(b)(ii) of the Land Transport Management Act 2003, for the 2008/09 and 2009/10 financial years the new Agency must, but only if and to the extent that it is practicable and reasonable to do so, comply with the operating principle set out in that provision.
-(2) However, the Minister may extend the application of subclause (1) to the new Agency for the 2010/11 financial year.
-(3) Despite section 96(2) of the Land Transport Management Act 2003, the new Agency is only required to comply with that provision after 30 September 2008 or on a date, no later than 31 October 2008, that the Minister agrees.
-
-### 28 References to former agency
-(1) This clause applies to—
-  (a) things that are in force or existing on 1 August 2008 (whether coming into force, entered into, or created before or after the commencement of this clause); and
-  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents and notices.
-(2) If this clause applies, every reference in any thing specified in subclause (1) to a former agency is, on or after 1 August 2008, to be read as a reference to the new Agency unless the context otherwise requires.
-
-### 29 New Agency replaces Transit New Zealand as requiring authority
-(1) This clause applies to any Order in Council, notice, or other instrument that approves of Transit New Zealand as a requiring authority and that was in effect immediately before 1 August 2008, including (without limitation)—
-  (a) the Resource Management (Approval of Transit New Zealand as Requiring Authority) Order 1992; and
-  (b) the Resource Management (Approval of Transit as Requiring Authority) Notice 1994.
-(2) Without limiting clauses 26 and 28, on 1 August 2008,—
-  (a) the new Agency replaces Transit New Zealand as a requiring authority under any Order in Council, notice, or other instrument to which this clause applies; and
-  (b) every reference to Transit New Zealand in any Order in Council, notice, or other instrument to which this clause applies, is, unless the context otherwise requires, to be read as a reference to the new Agency; and
-  (c) anything done, or omitted to be done, or that is to be or may be done (under or in relation to an Order in Council, notice, or other instrument to which this clause applies) by Transit New Zealand is to be treated as having been done, or having been omitted to be done, or to be or may be done, by the new Agency; and
-  (d) every notice of requirement and designation of Transit New Zealand is transferred to and held by the new Agency, with the same status and priority as if Transit New Zealand and the new Agency were the same entity.
-
-### 30 First members of new Agency
-In appointing the first members of the new Agency, the Minister may, but need not, consult in accordance with section 98(2) of the Land Transport Management Act 2003.
-
-### 31 Transferred employees
-(1) The terms and conditions of employment of a transferred employee immediately before 1 August 2008 continue to apply in relation to that employee until—
-  (a) those terms and conditions are varied by agreement between the transferred employee and the new Agency; or
-  (b) the transferred employee accepts a subsequent appointment with the new Agency.
-(2) For the purposes of every enactment, law, determination, contract, and agreement relating to the employment of a transferred employee,—
-  (a) the employment agreement of that employee is to be treated as unbroken; and
-  (b) the employee’s period of service with a former agency, and every other period of service of that employee that is recognised by a former agency as continuous service, is to be treated as a period of service with the new Agency.
-(3) To avoid doubt, the employment of a transferred employee by the new Agency does not constitute new employment for the purposes of the KiwiSaver Act 2006.
-(4) A transferred employee is not entitled to receive any payment or any other benefit because—
-  (a) the position held by the employee in a former agency has ceased to exist; or
-  (b) the employee has ceased (as a result of the transfer to the new Agency) to be an employee of a former agency; or
-  (c) the employee has been transferred to a suitable alternative position.
-
-### 32 Government Superannuation Fund
-(1) This clause applies to every person who, immediately before 1 August 2008, was an employee of a former agency.
-(2) Nothing in this Act affects any entitlement under the Government Superannuation Fund Act 1956 of a person to whom this clause applies.
-(3) This clause is for the avoidance of doubt.
-
-### 33 Final reports and accounts
-(1) As soon as practicable after the commencement of this Act, the new Agency must arrange for the final report of each former agency to be delivered to the Minister.
-(2) The report must—
-  (a) describe the former agency’s operation for the period beginning on 1 July 2007 and ending with 30 June 2008; and
-  (b) include—
-    (i) financial statements of that agency prepared, in accordance with Part 4 of the Crown Entities Act 2004, for that period; and
-    (ii) an audit report prepared by the Auditor-General and a statement of responsibility relating to those financial statements.
-(3) The Minister must present a copy of the final report of each former agency to the House of Representatives as soon as is reasonably practicable after receiving it from the new Agency.
-
-### 34 Responsibility for reports and accounts of former agencies from 1 July 2008
-(1) The new Agency must include in its initial annual report the information in respect of each former agency for the period commencing 1 July 2008 and ending on 31 July 2008 that each former agency would have had to include in the former agency's annual report under section 151 of the Crown Entities Act 2004 had it continued in existence.
-(2) To avoid doubt, the new Agency may, if it so decides, present the information referred to in subclause (1) in a combined form for the whole of the financial year ended 30 June 2009.
-(3) For the purposes of subclause (1), section 45J(1) of the Public Finance Act 1989 does not apply to each former agency in respect of the period commencing 1 July 2008 and ending on 31 July 2008.
-
-### 35 Statements of intent
-A former agency is not required to produce a statement of intent for the financial year commencing 1 July 2008.
-
-### 36 Directions to former agencies continue to have effect as directions to new Agency
-Subject to clause 42, directions to any former agency in effect immediately before 1 August 2008 under any enactment continue to have effect as directions to the new Agency.
-
-### 37 Delegations
-Subject to clause 42, delegations in effect immediately before 1 August 2008 under the Crown Entities Act 2004 or any other Act continue to have effect despite the dissolution of Land Transport New Zealand or Transit New Zealand or the disestablishment of the office of the Director of Land Transport.
-
-### 38 Continuation of certain appointments
-A person who holds office as an enforcement officer or a dangerous goods enforcement officer under section 208 of the Land Transport Act 1998 immediately before the commencement of this Act is to continue in office and holds office, until his or her appointment would have expired under the Land Transport Act 1998, as if this Act had not been passed.
-
-**Disestablishment of office of Director of Land Transport**
-
-### 39 Consequences of disestablishing office of Director of Land Transport
-(1) On 1 August 2008,—
-  (a) the functions, duties, and powers of the Director under any enactment vest in the new Agency; and
-  (b) all property belonging to the Director vests in the new Agency; and
-  (c) all information held by the Director is held by the new Agency; and
-  (d) all money payable to or by the Director becomes payable to or by the new Agency; and
-  (e) all rights, liabilities, contracts, entitlements, and engagements of the Director become the rights, liabilities, contracts, entitlements, and engagements of the new Agency; and
-  (f) anything done, or omitted to be done, or that is to be done, by, or in relation to, the Director is to be treated as having been done, or having been omitted to be done, or to be done, by, or in relation to, the new Agency; and
-  (g) the commencement, continuation, or enforcement of proceedings by or against the Director may instead be commenced, continued, or enforced by or against the new Agency without amendment to the proceedings; and
-  (h) the completion of a matter or thing that would, but for this clause, have been completed by the Director, may be completed by the new Agency.
-(2) The transfer of information from the Director to the new Agency under subclause (1)(c) does not constitute an action that is an interference with the privacy of an individual under section 66 of the Privacy Act 1993.
-(3) The disestablishment of the office of the Director of Land Transport does not, by itself, affect any of the following matters:
-  (a) any decision made, or anything done, or omitted to be done, by the Director in relation to the performance or the exercise of the Director’s functions, duties, or powers under any enactment:
-  (b) any proceedings commenced by or against the Director:
-  (c) any other matter or thing arising out of the Director’s performance or exercise, or purported performance or exercise, of the Director’s functions, duties, or powers under any enactment.
-
-### 40 References to Director
-(1) This clause applies to—
-  (a) things that are in force or existing on 1 August 2008 (whether coming into force, entered into, or created before or after the commencement of this clause); and
-  (b) references in any thing, including (without limitation) enactments, rules, bylaws, deeds, agreements, proceedings, instruments, documents, and notices.
-(2) If this clause applies, every reference in any thing specified in subclause (1) to the Director (or to the Director of Land Transport) is, on and after 1 August 2008, to be read as a reference to the new Agency unless the context otherwise requires.
-
-**Miscellaneous**
-
-### 41 General savings provision
-Except as otherwise expressly provided in this Act, nothing in this Act affects the completion of a matter or thing, or the bringing or completion of proceedings, that relates to an existing right, liability, contract, entitlement, interest, title, immunity, or duty.
-
-### 42 Matters continued by this Act have effect until replaced or revoked
-If a matter or thing is continued with a specified effect by this Act, the matter or thing continues to have that effect until revoked or replaced under the relevant empowering enactment.
-
-### 43 Transitional regulations
-(1) The Governor-General may, by Order in Council, make regulations—
-  (a) prescribing transitional and savings provisions concerning the coming into force of this Act that may be in addition to, or in place of, the transitional and savings provisions in this Act:
-  (b) providing that, subject to such conditions as may be specified in the regulations, during a specified transitional period,—
-    (i) specified provisions of this Act (including definitions) do not apply:
-    (ii) specified terms have the meaning given to them by the regulations:
-    (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
-(2) This clause expires on 1 January 2012.
-
-### 1 Title
-This Act is the Public Transport Management Act 2008.
-
-### 2 Commencement
-This Act comes into force on 1 January 2009.
-
-## Part 2 — Regulation of public transport
-
-### Subpart 3 — Miscellaneous
-
-**Transitional and savings provisions**
-
-### 64 Transitional provision for existing registered services
-(1) A passenger service (or any part of a passenger service) that, before the commencement of this Act, was not a contracted service under Part 2 of the Transport Services Licensing Act 1989 but was registered under section 49 of the Transport Services Licensing Act 1989 is to be treated as a registered commercial public transport service under this Act.
-(2) Subsection (1) does not apply to the following services:
-  (a) taxi services; and
-  (b) shuttle services; and
-  (c) private hire services.
-(3) A passenger service that, before the commencement of this Act, was a contracted service under Part 2 of the Transport Services Licensing Act 1989, and a registered service under that Act, is to be treated as a contracted public transport service that is a registered service under this Act.
-(4) For the purposes of this section, passenger service means a passenger service as defined in section 47 of the Transport Services Licensing Act 1989, as if that Act were still in force.
-
-### 65 Transitional provision for notifications received but not processed before commencement of Act
-A notification received under the Transport Services Licensing Act 1989 but not processed before the commencement of this Act is to be treated as a notification received under section 32, 36, or 46, as the case may require.
-
-### 66 Transitional provision for existing regional passenger transport plans
-(1) Except in the Auckland region, a regional council must adopt a regional public transport plan under section 9 at the same time or as soon as is reasonably practicable after the regional council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
-(2) In the Auckland region, ARTA must adopt a regional public transport plan under section 9 as soon as is reasonably practicable after the Auckland Regional Council has approved a regional land transport strategy for the first time after the commencement of this Act but in any case not later than 3 years after the commencement of this Act, if section 9(1) applies.
-(3) A regional passenger transport plan prepared by a regional council under the Transport Services Licensing Act 1989 expires when the regional council adopts a regional public transport plan in accordance with subsection (1) or (2) or 3 years after the commencement of this Act, whichever is earlier.
-(4) Subject to subsection (5) or (6), until a regional council’s regional passenger transport plan prepared under the Transport Services Licensing Act 1989 expires under subsection (3), that regional passenger transport plan remains in effect as if that Act (immediately before the commencement of this Act) was still in force.
-(5) If a regional passenger transport plan remains in effect under subsection (4), a regional council may not vary the plan to include a control under section 13.
-(6) Sections 14(a)(iii)(B), 18J(2)(c)(ii), 19B(b)(ii), 20(3)(c), 48(1)(c)(i), 58(1)(c), 65J(b)(iii), 82, 105(13) of the Land Transport Management Act 2003 apply as if section 77(h) of that Act were not repealed under section 63(2) if a regional passenger transport plan (other than a plan that relates to the Auckland region) continues in effect under subsection (4) and—
-  (a) is or, immediately before the commencement of this Act, was contained in a regional land transport strategy that has been approved or continued in accordance with the Land Transport Management Act 2003; or
-  (b) would have been required to be contained in a regional land transport strategy but for the repeal of section 77(h) of the Land Transport Management Act 2003.
-
-### 67 Transitional provisions for register of services
-(1) Subject to subsection (2), the register of services established under Part 2 of the Transport Services Licensing Act 1989 is to be treated as the register of services established under this Act.
-(2) All entries in the register of services established under Part 2 of the Transport Services Licensing Act 1989 in relation to taxi services, shuttle services, and private hire services are to be treated as expunged and deleted.
-
-### 68 Transitional provisions for regional councils and ARTA
-(1) Except in the Auckland region, a regional council may adopt a regional public transport plan for the first time under this Act at the same time as it approves a regional land transport programme under the Land Transport Management Act 2003.
-(2) ARTA may prepare and adopt a regional public transport plan for the first time under this Act at the same time as it prepares and approves a regional land transport programme under the Land Transport Management Act 2003.
-
 ### 1 Title
 This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
 
@@ -4481,6 +3977,3 @@ This Act is the Land Transport (Enforcement Powers) Amendment Act 2009.
 
 ### 37 Transitional provision in relation to Transport (Vehicle and Driver Registration and Licensing) Act 1986
 In the period commencing on the commencement of this section and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009, any reference to a registered person in sections 96(2A), 98(1), and 98A(2) of the Land Transport Act 1998 (as inserted or substituted by this Act) must be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
-
-### 38 Transitional provision in relation to Land Transport (Offences and Penalties) Regulations 1999
-In the period commencing on the commencement of this section and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009, any reference to a registered person in the notice in Schedule 3 or 4 of the Land Transport (Offences and Penalties) Regulations 1999 (as substituted by this Act) must be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
