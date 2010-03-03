@@ -1,8 +1,8 @@
-# Injury Prevention, Rehabilitation, and Compensation Act 2001
-_Consolidation as at 2010-01-01_
+# Accident Compensation Act 2001
+_Consolidation as at 2010-03-03_
 
 ### 1 Title
-This Act is the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+This Act is the Accident Compensation Act 2001.
 
 ## Part 1 — Preliminary provisions
 
@@ -103,7 +103,6 @@ This Act binds the Crown.
     (a) means a natural person who engages in employment, whether or not as an employee; and
     (b) includes a person to whom clause 43 or clause 44 of Schedule 1 applies
   - **Earners' Account** means the Account described in section 218
-  - **Earners' Account Residual levy** means the levy payable under section 219(2)
   - **earnings** means—
     (a) earnings as an employee:
     (b) earnings as a self-employed person:
@@ -170,10 +169,12 @@ This Act binds the Crown.
     (a) is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery; and
     (b) holds a current practising certificate
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **moped** has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
   - **motor vehicle** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **Motor Vehicle Account** means the Account described in section 213
-  - **Motor Vehicle Account Residual levy** means the levy payable under section 214(3)
   - **motor vehicle injury** has the meaning set out in sections 29 and 35
+  - **motorcycle** has the meaning given to it in section 2(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986
+  - **Motorcycle Safety levy** means the levy payable under section 214(3)
   - **New Zealand** has the meaning set out in section 16
   - **New Zealand superannuation qualification age** ,—irrespective of whether or not the particular person qualifies for New Zealand superannuation at that or any other age
     (a) for a person born before 1 April 1936, means the appropriate age set out in section 3 of the Social Welfare (Transitional Provisions) Act 1990 (before its repeal):
@@ -264,8 +265,6 @@ This Act binds the Crown.
   - **rehabilitation** —
     (a) means a process of active change and support with the goal of restoring, to the extent provided under section 70, a claimant's health, independence, and participation; and
     (b) comprises treatment, social rehabilitation, and vocational rehabilitation
-  - **Residual Claims Account** means the Account described in section 192
-  - **Residual Claims levy** means the levy payable under section 193
   - **road** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **scope of practice** has the same meaning as in section 5(1) of the Health Practitioners Competence Assurance Act 2003
   - **self-employed person** means a natural person who has earnings as a self-employed person
@@ -346,8 +345,8 @@ Acute treatment, in relation to a claimant, means—
     (iii) sections FB 11 and FB 12 of the Income Tax Act 2007.
 (2) In this section, income-tested benefit, veteran's pension, New Zealand superannuation, living alone payment, and schedular payment have the same meanings as in section YA 1 of the Income Tax Act 2007.
 
-### 12 Earnings as an employee: Work Account levy payable under section 168 and Residual Claims levy payable under section 193
-For the purpose of calculating the Work Account levy payable under section 168 and the Residual Claims levy payable under section 193, earnings as an employee does not include any payment of—
+### 12 Earnings as an employee: Work Account levy payable under section 168
+For the purpose of calculating the Work Account levy payable under section 168, earnings as an employee does not include any payment of—
   (a) first week compensation; or
   (b) weekly compensation.
 
@@ -513,7 +512,7 @@ This Part uses and defines the following key terms:
 (4) Persons to whom this section applies are deemed to have had cover under the 1992 Act for the personal injury described in subsection (1), and the following provisions apply:
   (a) payments made by or through the Corporation (or a subsidiary of the Corporation) or the Department of Labour to those persons for a personal injury described in subsection (1), whether made before or after the commencement of this section, are deemed to be entitlements paid under the 1992 Act to the extent that the correct amounts were paid:
   (b) for the purpose of paragraph (a), it does not matter whether or not the payment is a payment made in the belief that section 8(3) of the 1992 Act provided cover:
-  (c) entitlements available as a result of cover deemed by this section are subject to Part 13 of the Accident Insurance Act 1998 and Part 11 of the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+  (c) entitlements available as a result of cover deemed by this section are subject to Part 13 of the Accident Insurance Act 1998 and Part 11 of this Act:
   (d) Part 5 applies to decisions made by or on behalf of the Corporation between 15 July 2003 and the commencement of this section on claims made under section 8(3) of the 1992 Act for which cover is deemed by this section, and Part 5 applies as if those decisions had been made on the date of the commencement of this section.
 (5) However, the following provisions apply to civil proceedings brought before or after the commencement of this section seeking general damages for mental or nervous shock suffered by a person as an outcome of any act described in subsection (1) (the proceedings):
   (a) if the plaintiff received judgment in the proceedings, in his or her favour, before the commencement of this section, the plaintiff does not have cover under this section for the injury or injuries to which the proceedings relate:
@@ -702,17 +701,7 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
 (7) The circumstances referred to in subsection (6) do not prevent the person's personal injury from being personal injury caused by a work-related gradual process, disease, or infection, but he or she does not have cover for it if section 24 or section 361 applies to him or her.
 
 ### 31 Ministerial advisory panel on work-related gradual process, disease, or infection
-(1) The Minister must appoint a person to convene and chair a ministerial advisory panel (the panel) on work-related gradual process, disease, or infection.
-(2) The function of the panel is to provide independent and specialist advice to the Minister on any matter relating to work-related gradual process, disease, or infection.
-(3) The panel must keep under review and may advise the Minister on—
-  (a) whether Schedule 2 should be amended:
-  (b) how the Corporation deals with claims for cover for personal injury caused by work-related gradual process, disease, or infection:
-  (c) the definition of work-related gradual process, disease, or infection.
-(4) Subsection (3) does not limit subsection (2).
-(5) In appointing members to the panel, the Minister must—
-  (a) have regard to the need to appoint persons who have recognised expertise (including medical expertise) in occupational health and safety; and
-  (b) consult, as the Minister considers appropriate, bodies, organisations, and agencies that have an expertise or interest in matters that come within the panel's function.
-(6) The costs of, and incidental to, the administration and operation of the panel are payable by the Corporation out of the Work Account.
+[Repealed]
 
 ### 32 Treatment injury
 (1) Treatment injury means personal injury that is—
@@ -1991,7 +1980,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 ### 166 Separate Accounts
 (1) The Corporation must maintain and operate—
   (a) a Work Account for the purpose set out in section 167:
-  (b) a Residual Claims Account for the purpose set out in section 192:
+  (b)
   (c)
   (d) a Motor Vehicle Account for the purpose set out in section 213:
   (e) an Earners' Account for the purpose set out in section 218:
@@ -2002,21 +1991,28 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 **Work Account**
 
 ### 167 Application and source of funds
-(1) The purpose of the Work Account is to finance entitlements provided under this Act by the Corporation to employees, private domestic workers, and self-employed persons for work-related personal injuries (other than entitlements funded from the Residual Claims Account).
+(1) The purpose of the Work Account is to—
+  (a) finance entitlements provided under this Act by the Corporation to employees, private domestic workers, and self-employed persons for work-related personal injuries; and
+  (b) finance the following entitlements that are required to be provided in respect of persons whose entitlements would have been provided from the Employers' Account under the Accident Rehabilitation and Compensation Insurance Act 1992:
+    (i) entitlements for work injuries (as defined in the Accident Rehabilitation and Compensation Insurance Act 1992) suffered before 1 July 1999; and
+    (ii) entitlements for non-work injuries to earners suffered before 1 July 1992.
 (2) The funds for the Work Account are to be derived from—
-  (a) levies payable, under sections 168, 168A, 168B, and 211, by employers, private domestic workers, and self-employed persons; and
-  (b) payments made to the Corporation in respect of obligations taken on by the Corporation under section 7 of the Accident Insurance (Transitional Provisions) Act 2000 in relation to the accident insurance contracts of employers and private domestic workers, and for self-employed persons.
+  (a) levies payable under sections 168, 168A, 168B, and 211 by employers, private domestic workers, and self-employed persons; and
+  (b) payments made to the Corporation in respect of obligations taken on by the Corporation under section 7 of the Accident Insurance (Transitional Provisions) Act 2000 in relation to the accident insurance contracts of employers and private domestic workers, and for self-employed persons; and
+  (c) premiums continued by or payable under Part 11.
 (3) The funds in the Work Account must be applied to meet the costs of—
-  (a) entitlements in respect of employees, private domestic workers, and self-employed persons for work-related personal injuries (other than entitlements funded from the Residual Claims Account); and
-  (b) entitlements in respect of employees, private domestic workers, and self-employed persons for personal injury caused by work-related gradual process, disease, or infection if—
-    (i) the employment task, or employment in the particular environment, giving rise to that personal injury was performed or occurred on or after 1 July 1999; and
-    (ii) the claimant was an employee, a private domestic worker, or self-employed when performing that task or in that environment (regardless of whether the claimant was an employee, a private domestic worker, or self-employed at the date on which the personal injury is regarded as having been suffered); and
-  (c) entitlements in respect of obligations, under accident insurance contracts of employers and private domestic workers, and for self-employed persons, taken on by the Corporation under section 7 of the Accident Insurance (Transitional Provisions) Act 2000; and
-  (d) entitlements that are required to be provided in accordance with Part 11 in respect of persons whose entitlements would have been provided from the Self-Employed Work Account under the Accident Insurance Act 1998; and
-  (e) entitlements, in respect of employers, private domestic workers, and self-employed persons that, immediately before 1 April 2007, would have been funded from the Self-Employed Work Account or the Employers' Account; and
+  (a) entitlements in respect of employees, private domestic workers, and self-employed persons for work-related personal injuries; and
+  (b) entitlements in respect of obligations, under accident insurance contracts of employers and private domestic workers, and for self-employed persons, taken on by the Corporation under section 7 of the Accident Insurance (Transitional Provisions) Act 2000; and
+  (c) entitlements that are required to be provided in accordance with Part 11 in respect of persons whose entitlements would have been provided from the Self-Employed Work Account under the Accident Insurance Act 1998; and
+  (d) entitlements in respect of employers, private domestic workers, and self-employed persons that, immediately before 1 April 2007, would have been funded from the Self-Employed Work Account or the Employers' Account; and
+  (e) entitlements that, immediately before the commencement of section 21 of the Accident Compensation Amendment Act 2010, would have been funded from the Residual Claims Account as it was immediately before that commencement; and
   (f) administering the Account; and
   (g) audits and assessments referred to in section 175; and
   (h) any other expenditure authorised by this Act.
+(4) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies payable under sections 168, 168A, 168B, and 211 to provide for or, to the extent that it is necessary, to provide separately for,—
+  (a) the purposes of subsection (3)(a) to (d) and (f) to (h):
+  (b) the purposes of subsection (3)(e), (f), and (h) and the purpose specified in section 169AA(1)(a).
+(5) Those regulations may also relate to the same or different prescribed periods.
 
 ### 168 Employers to pay levies
 (1) An employer must pay, in accordance with this Act and regulations made under this Act, levies to fund the Work Account.
@@ -2038,10 +2034,32 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 
 ### 169 Rates of levies
 (1) Levies are to be paid under sections 168, 168A, and 168B at a rate or rates prescribed in regulations made under this Act, and must be related in whole or in part to—
-  (a) the amount of earnings paid, estimated to be paid, or deemed by regulations to have been paid by an employer to the employer's employees for that period; or
-  (b) the amount of earnings received for that period as a private domestic worker or deemed by regulations to have been received as a private domestic worker for that period; or
+  (a) the amount of earnings paid, estimated to be paid, or deemed by regulations to have been paid by an employer to the employer's employees; or
+  (b) the amount of earnings received as a private domestic worker or deemed by regulations to have been received as a private domestic worker; or
   (c) the level of earnings (other than earnings as an employee) derived, estimated to be derived, or deemed by regulations to be derived, by a self-employed person.
-(2) The extent of funds to be derived from levies under sections 168, 168A, and 168B is to be calculated so that the cost of all claims under the Work Account is fully funded.
+(2) Regulations made under this Act may—
+  (a) establish a system or systems for either or both of the following:
+    (i) the experience rating of employers, private domestic workers, or self-employed persons:
+    (ii) risk sharing between employers, private domestic workers, or self-employed persons, on the one hand, and the Corporation on the other; and
+  (b) adjust the levies under sections 168, 168A, 168B, and 211 in relation to a particular employer, private domestic worker, or self-employed person on the basis of that system or those systems.
+(3) The systems referred to in subsection (2) may include no-claims bonuses, higher or lower levies, and claim thresholds.
+(4) None of the following applies, or can be made to apply, to the portion of the levies payable under sections 168, 168A, 168B, and 211 that is necessary to achieve the purpose specified in section 169AA(1)(a):
+  (a) any of the systems referred to in subsection (2):
+  (b) section 175.
+
+### 169AA Basis on which funds to be calculated
+(1) The extent of funds to be derived from levies under sections 168, 168A, and 168B is to be calculated to achieve the following purposes:
+  (a) the residual amount is to be completely paid off or funded no later than 31 March 2019:
+  (b) the cost of all claims under the Work Account is fully funded.
+(2) The Minister may, by notice in the Gazette, specify the residual amount.
+(3) The Minister's power under subsection (2) may be exercised only once.
+(4) In this section, residual amount means the amount that—
+  (a) is specified by the Minister; and
+  (b) represents, among other things, as at 30 June 2009, the sum of—
+    (i) the estimated value of the outstanding claims liability for the Residual Claims Account (minus the value of any accrued assets); and
+    (ii) the estimated value of the Corporation's potential liability (minus the value of any accrued assets) in respect of future claims for cover for personal injury caused by work-related gradual process, disease, or infection by persons who,—
+      (A) before 1 July 1999, may have been exposed to a particular property or characteristic of their employment tasks or environment that causes, or contributes to the cause of, the personal injury; but
+      (B) by 30 June 2009, have not suffered the personal injury.
 
 ### 169A Limit on offsets in case of earnings as self-employed person
 (1) In determining a person's earnings as a self-employed person, no offset may be allowed for the amount of—
@@ -2050,7 +2068,9 @@ An appeal under section 149 is dealt with in accordance with the District Courts
 (2) If the result of the calculation of a person's earnings as a self-employed person is a negative amount and the person also derives earnings as an employee, the person's earnings as an employee must not be reduced by the negative amount.
 
 ### 170 Classification of industries or risks
-(1) The Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act for the purposes of setting levies payable under sections 168, 168B, and 211.
+(1) The Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act for the following purposes:
+  (a) setting levies payable under sections 168, 168B, and 211:
+  (b) setting those levies to include a portion that is necessary to achieve the purpose specified in section 169AA(1)(a).
 (2) If an employer is engaged in 2 or more activities, the Corporation must classify all the employer's employees in the classification unit for whichever of those activities attracts the highest levy rate under the regulations.
 (3) Despite subsection (2), the Corporation may classify the employer's employees in separate classification units for different activities if the employer meets the threshold (if any) specified in regulations and if—
   (a) the employer so requests; and
@@ -2060,7 +2080,7 @@ An appeal under section 149 is dealt with in accordance with the District Courts
     (i) demonstrate the separate management and operation of each activity; and
     (ii) allocate to each activity the earnings of employees engaged solely in that activity.
 (4) Regulations made under this Act must prescribe a Work Account levy for each industry or risk class defined under subsection (1).
-(4A) The regulations referred to in subsection (4)—
+(4A) The regulations referred to in subsection (4) that relate to an industry or risk class defined under subsection (1)(a)—
   (a) may, until the end of the 2009–10 tax year, prescribe the levies at different rates for employers and self-employed persons classified in the same industry or risk class; and
   (b) must, until the end of the 2009–10 tax year, prescribe the levies at a rate that does not increase or decrease the levy rate payable by employers or self-employed persons in a particular industry or particular risk class by more than 25% of the rate payable in the previous tax year; and
   (c) must, after the end of the 2009–10 tax year, prescribe the levies at the same rate for employers and self-employed persons classified in the same industry or risk class.
@@ -2260,98 +2280,36 @@ The objectives of sections 181 to 189 are to—by allowing accredited employers 
 
 ### 191 Effect on Work Account levy
 (1) If a shareholder-employee purchases agreed weekly compensation under section 190, the employer of the shareholder-employee is not required to pay the Work Account levy in respect of the earnings of that employee.
-(2) Nothing in subsection (1) affects the employer's obligation to pay the Residual Claims levy in respect of the earnings of that employee.
+(2) However, subsection (1) does not affect the employer's obligation to pay the portion of the Work Account levy referred to in section 167(4) that is payable in respect of the earnings of that employee.
 
 **Residual Claims Account**
 
 ### 192 Application and source of funds
-(1) The purpose of the Residual Claims Account is to finance entitlements referred to in subsection (2) that are required to be provided in respect of persons whose entitlements would have been provided from the Employers' Account under the Accident Rehabilitation and Compensation Insurance Act 1992.
-(2) Subsection (1) applies to entitlements in respect of—
-  (a) work injuries (as defined in the Accident Rehabilitation and Compensation Insurance Act 1992) suffered before 1 July 1999; and
-  (b) non-work injuries to earners suffered before 1 July 1992.
-(3) The purpose of the Residual Claims Account is also to pay the costs relating to the injuries referred to in subsection (5)(c).
-(4) The funds for the Residual Claims Account are to be derived from—
-  (a) the prescribed Residual Claims levy in relation to a prescribed period; and
-  (b) premiums continued by or payable under Part 11.
-(5) The funds in the Residual Claims Account must be applied to meet the costs of—
-  (a) entitlements in respect of earners who suffered a work injury (within the meaning of the Accident Rehabilitation and Compensation Insurance Act 1992) before 1 July 1999; and
-  (b) entitlements in respect of earners who suffered a personal injury by accident (other than a motor vehicle injury) for which the person had cover under the Accident Compensation Act 1972 or the Accident Compensation Act 1982; and
-  (c) contributions to entitlements in respect of persons who suffered an injury on or after 1 July 1999 that are attributed to the Corporation in accordance with the cost allocation provisions in sections 107 to 113 and 451 of the Accident Insurance Act 1998, as continued by Part 10 of this Act, because the injury was caused, or contributed to, before 1 July 1999; and
-  (d) administering the Account; and
-  (e) any other expenditure authorised by this Act.
-(6) The funds in the Residual Claims Account must also be applied to meet the costs of entitlements for personal injury caused by work-related gradual process, disease, or infection if—
-  (a) the employment task, or employment in the particular environment, giving rise to that personal injury was performed or occurred before 1 July 1999; and
-  (b) the claimant was an employee or self-employed when performing that task or in that environment (regardless of whether the claimant was an employee or self-employed at the date on which the personal injury is regarded as having been suffered).
+[Repealed]
 
 ### 193 Liability to pay Residual Claims levy
-(1) An employer and a self-employed person must pay to the Corporation, in accordance with this Act and regulations made under it, a levy for the purpose of fully funding no later than 30 June 2014 the outstanding claims liability, as recognised by the Corporation from time to time, for the Residual Claims Account.
-(2) Regulations relating to the levy may prescribe methods of calculating the levy if a payment relates to a period of less than 1 year.
-(3) A levy must relate to a prescribed period.
-(4) An employer must pay the levy—
-  (a) by the date specified for payment, whether in an invoice or other appropriate document given to the employer by the Corporation or an agent of the Corporation; or
-  (b) if the Commissioner is acting as an agent of the Corporation, by 31 May in each year.
-(5) A self-employed person or employer of a shareholder-employee must pay the levy in accordance with the following provisions:
-  (a) a self-employed person must pay the levy by the date specified for payment, whether in an invoice or other appropriate document given to the self-employed person by the Corporation or an agent of the Corporation:
-  (b) however, if the Commissioner is acting as an agent of the Corporation, a self-employed person or employer of a shareholder-employee must pay the levy on or before the date for payment on which income tax not previously due and payable is due and payable as specified in section RA 3 of the Income Tax Act 2007.
-(6) If the Commissioner is acting as an agent of the Corporation, an employer must file a statement with the Commissioner by 31 May in each year setting out the total amount of earnings as an employee paid by the employer.
-(7) If the Commissioner is acting as an agent of the Corporation, a self-employed person must, within the time in which the person is required to furnish a return of income under the Tax Administration Act 1994, deliver to the Commissioner a statement of the person's earnings as a self-employed person for the tax year.
-(8)
-(9) For the purposes of this section, employer includes—
-  (a) an employer to whom section RD 16 of the Income Tax Act 2007 applies; and
-  (b)
-  (c) an employer who makes a payment of an amount to which section RD 3(2) to (4) of the Income Tax Act 2007 applies; and
-  (d) a private domestic worker.
-(10) Sections 195 and 196 apply to private domestic workers as if they were both the employer and the employee.
+[Repealed]
 
 ### 194 Rate of levy
-The Residual Claims levy must be paid at the rate or rates prescribed by regulations made under this Act.
+[Repealed]
 
 ### 195 Classification of industries or risk
-(1) The Corporation must classify an employer and a self-employed person in an industry or risk class that most accurately describes their activity, being an industry or risk class set out in regulations made under this Act for the purposes of setting levies payable under section 193.
-(2) If an employer is engaged in 2 or more activities, the Corporation must classify all the employer's employees in the classification unit for whichever of those activities attracts the highest levy rate under the regulations.
-(3) Despite subsection (2), the Corporation may classify an employer's employees in separate classification units for different activities if the employer meets the threshold (if any) specified in regulations and if—
-  (a) the employer so requests; and
-  (b) the employer is engaged in 2 or more distinct and independent activities; and
-  (c) each of those activities provides services or products to external customers in such a way that each activity could, without adaptation, continue on its own without the other activities; and
-  (d) accounting records are maintained by the employer to the satisfaction of the Corporation that—
-    (i) demonstrate the separate management and operation of each activity; and
-    (ii) allocate to each activity the earnings of employees engaged solely in that activity.
-(4) Regulations made under this Act must prescribe a levy for each industry or risk class defined under subsection (1).
-(5) The Corporation must decide which industry or risk class is appropriate in relation to any employer or self-employed person by whom a levy is payable, and section 239 applies if the classes defined by the regulations do not specifically cover a particular activity.
-(6) The Corporation must separately account for the amounts collected from each industry or risk class under section 193 and the amounts expended for the purposes of section 192(5) in respect of employers or self-employed persons within each industry or risk class.
-(7) If costs relating to a particular claim are attributable to more than 1 industry or risk class, the Corporation must apportion those costs in a way that reasonably represents the relative costs to each of those industry or risk classes.
-(8) Nothing in this section prevents the Corporation from making arrangements to enable employers and self-employed persons to carry out self-assessments for the purposes of this section.
+[Repealed]
 
 ### 196 Classification of employees engaged in 2 or more activities
-(1) If section 195(3) applies, an employee who is engaged in 2 or more activities must be classified in the industry or risk class for whichever of those activities attracts the higher or highest levy rate under the regulations.
-(2) If a particular activity accounts for 5% or less of an employee's earnings for the year, then that activity need not be considered when determining the correct industry or risk class under subsection (1).
-(3) Subsection (2) applies only if the employer maintains records that are sufficient and accurate enough to satisfy the Corporation that the apportionment of total earnings is correct.
+[Repealed]
 
 ### 197 Classification of self-employed persons engaged in 2 or more activities
-(1) A self-employed person who is engaged in 2 or more activities must be classified in the industry or risk class for whichever of those activities attracts the higher or highest levy rate under the regulations.
-(2) If a particular activity accounts for 5% or less of the person's earnings for the year, then that activity need not be considered when determining the correct industry or risk class under subsection (1).
-(3) Subsection (2) applies only if the self-employed person maintains records that are sufficient and accurate enough to satisfy the Corporation that apportionment of total earnings is correct.
+[Repealed]
 
 ### 198 Residual Claims levy where 2 or more employers
-(1) If a person's earnings as an employee for a tax year are paid by 2 or more employers, and those earnings exceed the specified maximum,—
-  (a) each employer must pay a Residual Claims levy on all such earnings paid by the employer (up to the specified maximum); but
-  (b) each employer may apply in writing to the Corporation for a pro rata refund, taking into account the specified maximum and the proportions of levy paid and payable by the employers in respect of the person's earnings.
-(2) An employer is not entitled to a refund under subsection (1)(b) after the expiry of 4 years from the date on which the relevant statement for the tax year is required to be delivered by the employer.
+[Repealed]
 
 ### 199 Promotion of employer involvement
-(1) The Corporation must take all practicable steps to ensure, in carrying out its duties in relation to the Residual Claims Account, that employers are involved to the extent practicable in the rehabilitation of injured persons covered by the Account.
-(2) In this section, employers means—
-  (a) the employer who employed the injured person at the time the personal injury was suffered; and
-  (b) employers in the same industry class as that employer.
-(3) Any policy direction given by the Minister under section 103 of the Crown Entities Act 2004 in respect of the Corporation's duties in relation to the Residual Claims Account may specify which steps may or should be followed (which may include contracting out some or all of the Corporation's duties or functions in relation to that Account).
+[Repealed]
 
 ### 200 Residual Claims levy not payable on earnings over specified maximum
-(1) Except as provided in subsection (2), nothing in this Act requires an employer to pay a Residual Claims levy on earnings of an employee that exceed the specified maximum.
-(1A) Nothing in this Act requires a private domestic worker to pay a Residual Claims levy on his or her relevant earnings that exceed the specified maximum. For the purpose of this subsection, the relevant earnings are the person's earnings as a private domestic worker together with his or her earnings as an employee (other than as a private domestic worker).
-(2) If a person's earnings as an employee for a tax year are paid by 2 or more employers, and the total of those earnings exceeds the specified maximum,—
-  (a) each employer must pay a Residual Claims levy on all earnings paid by the employer up to the specified maximum; but
-  (b) each employer may apply in writing to the Corporation for a pro rata refund of the excess levy paid, to be calculated according to the proportions of earnings paid to the employee by each employer.
-(3) An employer is not entitled to a refund under subsection (2)(b) after the expiry of a period of 4 years beginning from the close of the tax year in respect of which the relevant Residual Claims levy was payable.
+[Repealed]
 
 **Self-Employed Work Account**
 
@@ -2436,17 +2394,19 @@ The Residual Claims levy must be paid at the rate or rates prescribed by regulat
   (c) the extent to which payments of weekly compensation relate to work-related injuries or non-work injuries.
 
 ### 212 Earner levies for self-employed persons who purchase weekly compensation
-A self-employed person who purchases weekly compensation under section 209 must continue to pay the earner levy required by section 219(1) and the Earners' Account Residual levy required by section 219(2).
+A self-employed person who purchases weekly compensation under section 209 must continue to pay the earner levy required by section 219(1).
 
 **Motor Vehicle Account**
 
 ### 213 Application and source of funds
-(1) The purpose of the Motor Vehicle Account is to finance entitlements provided under this Act in respect of motor vehicle injuries.
+(1) The purpose of the Motor Vehicle Account is to—
+  (a) finance entitlements provided under this Act in respect of motor vehicle injuries; and
+  (b) finance the cost of programmes to improve the safety of moped and motorcycle riders from the levy referred to in subsection (2)(d).
 (2) The funds for the Motor Vehicle Account are to be derived from—
   (a) levies to be paid by every registered owner of a motor vehicle; and
   (b) levies to be paid by every person who holds a trade licence issued under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986; and
   (c) a levy to be paid in accordance with section 214(4); and
-  (d) the prescribed Motor Vehicle Account Residual levy; and
+  (d) the prescribed Motorcycle Safety levy; and
   (e) premiums payable under Part 11 that relate to motor vehicle injuries.
 (3) The levy payable under subsection (2)(c) is payable—
   (a) on any fuel (or any category of fuel) specified in the Excise and Excise-equivalent Duties Table (as defined in section 76A of the Customs and Excise Act 1996) that is prescribed by regulations made under this Act; or
@@ -2455,14 +2415,21 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (5) The funds in the Motor Vehicle Account must be applied to meet the costs of—
   (a) entitlements in respect of persons who have cover for personal injury that is a motor vehicle injury; and
   (b) entitlements that are required to be provided in accordance with Part 11 in respect of persons whose entitlements would have been provided from the Motor Vehicle Account under the Accident Insurance Act 1998; and
+  (ba) claims that would have been provided from the Motor Vehicle Account under the Accident Rehabilitation and Compensation Insurance Act 1992; and
   (c) administering the Account; and
   (d) any other expenditure authorised by this Act.
-(6) The purpose of the Motor Vehicle Account Residual levy under subsection (2)(d) is to fund the cost of claims that would have been provided from the Motor Vehicle Account under the Accident Rehabilitation and Compensation Insurance Act 1992.
+(6) To avoid doubt,—
+  (a) subsection (1)(b) does not limit or affect section 263; and
+  (b) section 263 (except section 263(3)(b)) applies to the programmes referred to in subsection (1)(b) as if the references to measures in section 263 were references to the programmes.
+(7) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies (except the Motorcycle Safety levy) to provide for or, to the extent that it is necessary, to provide separately for,—
+  (a) the purposes of subsection (5)(a), (b), (c), and (d):
+  (b) the purposes of subsection (5)(ba), (c), and (d) and the purpose specified in section 215(1)(a).
 
 ### 214 Rate of levies
 (1) A registered owner of a motor vehicle must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
 (2) A person who holds a trade licence issued under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 must pay levies at an annual or other rate or rates prescribed in regulations made under this Act.
-(3) A registered owner of a motor vehicle and a person who holds a trade licence issued under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 must pay, in accordance with this Act and regulations made under it, the prescribed Motor Vehicle Account Residual levy.
+(3) A registered owner of a motor vehicle that is a moped or motorcycle must pay, in accordance with this Act and regulations made under it, the prescribed Motorcycle Safety levy.
+(3A) Subsection (3) does not limit or affect subsection (1).
 (4) The levy payable under section 213(2)(c) is payable—
   (a) at the rate or rates per litre or other unit prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), at the rate of 5.08 cents per litre of motor spirit in respect of which excise duty or excise-equivalent duty is payable under the Customs and Excise Act 1996.
@@ -2473,23 +2440,34 @@ A self-employed person who purchases weekly compensation under section 209 must 
 (5) The rate or rates of the levy prescribed by regulations made under this Act, and the rate prescribed by subsection (4)(b), are exclusive of goods and services tax.
 
 ### 215 Basis on which funds to be calculated
-The extent of funds to be derived under section 213(2) is to be calculated to achieve the following:
-  (a) the outstanding claims liability for the Motor Vehicle Account as at 30 June 1999, as recognised by the Corporation from time to time, is to be fully funded no later than 30 June 2014 by the prescribed Motor Vehicle Account levy:
-  (b) the cost of all other claims under the Motor Vehicle Account is to be fully funded.
+(1) The extent of funds to be derived under section 213(2) is to be calculated to achieve the following purposes:
+  (a) the residual amount is to be completely paid off or funded no later than 30 June 2019:
+  (b) the cost of all claims under the Motor Vehicle Account is to be fully funded.
+(2) Subsection (1) does not apply to the Motorcycle Safety levy.
+(3) The Minister may, by notice in the Gazette, specify the residual amount.
+(4) The Minister's power under subsection (3) may be exercised only once.
+(5) In this section, residual amount means the amount that—
+  (a) is specified by the Minister; and
+  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Motor Vehicle Account (minus the value of any accrued assets) in respect of the claims described in section 213(5)(ba).
 
 ### 216 Levy categories
-Regulations made under this Act may establish a system for differential levies in relation to all or any of the following or categories of the following:
+(1) Regulations made under this Act may establish a system for differential levies in relation to all or any of the following or categories of the following:
   (a) motor vehicles:
   (b) registered owners of motor vehicles:
   (c) persons who hold trade licences under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
   (d) fuel in respect of which a levy is payable under section 213(2)(c).
+(2) The regulations may also classify all or any of the following, or categories of the following, into classes that most accurately describe their risk rating and may impose levies at different rates in relation to those classes in accordance with the system of differential levies referred to in subsection (1):
+  (a) motor vehicles:
+  (b) registered owners of motor vehicles:
+  (c) persons who hold trade licences under section 34(1) of the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+(3) Subsection (2) does not limit subsection (1).
 
 ### 217 Collection of levies
 (1) The levies payable under section 214(1) or (2) are payable on application for a motor vehicle licence under section 10 of the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or on application for a trade licence under section 34 of that Act (as the case may require) or in any other prescribed manner.
 (2) The levy payable under section 213(2)(c) on any fuel is payable—
   (a) in the manner prescribed by regulations made under this Act; or
   (b) in the absence of regulations for the time being in force for the purpose of paragraph (a), with any excise or excise-equivalent duty that is payable on that fuel.
-(3) The levy payable under section 214(3) is payable in the prescribed manner.
+(3) The Motorcycle Safety levy is payable in the prescribed manner.
 (4) Any person who receives any payment of any motor vehicle levy payable to the Corporation must pay that levy to the Corporation not later than the end of the month after the month in which that levy is received.
 (4A) However, in the case of the levy payable under section 213(2)(c), an agent who collects any amount of the levy on the Corporation's behalf must pay that amount to the Corporation—
   (a) in the manner prescribed by regulations made under this Act; or
@@ -2508,7 +2486,7 @@ Regulations made under this Act may establish a system for differential levies i
 (2) The purpose of the Earners' Account is to finance entitlements provided under this Act in respect of personal injury to earners who suffer personal injury that is a non-work injury.
 (3) The funds for the Earners' Account are to be derived from—
   (a) levies payable under section 219 (including premiums payable by virtue of Part 11); and
-  (b) the prescribed Earners' Account Residual levy payable under section 219(2); and
+  (b)
   (c) levies payable by persons under section 223 (the purchase of weekly compensation by non-earners); and
   (d) payments made to the Corporation in respect of obligations for non-work injury taken on by the Corporation under section 7 of the Accident Insurance (Transitional Provisions) Act 2000 in relation to accident insurance contracts for self-employed persons.
 (4) The funds in the Earners' Account must be applied to meet the costs of—
@@ -2517,29 +2495,40 @@ Regulations made under this Act may establish a system for differential levies i
   (c) weekly compensation required to be provided to a person covered by section 223; and
   (d) entitlements that are required to be provided in accordance with Part 11 in respect of persons whose entitlements would have been provided from the Earners' Account under the Accident Insurance Act 1998; and
   (e) entitlements in respect of obligations for non-work injury taken on by the Corporation under section 7 of the Accident Insurance (Transitional Provisions) Act 2000 in relation to accident insurance contracts for self-employed persons; and
+  (ea) claims that would have been provided from the Earners' Account under the Accident Rehabilitation and Compensation Insurance Act 1992; and
   (f) administering the Account; and
   (g) any other expenditure authorised by this Act.
-(5) The purpose of the Earners' Account Residual levy under subsection (3)(b) is to fund the cost of claims that would have been provided from the Earners' Account under the Accident Rehabilitation and Compensation Insurance Act 1992.
+(5) Regulations made under this Act may prescribe, in relation to a prescribed period, a portion of the levies to provide for or, to the extent that it is necessary, to provide separately for,—
+  (a) the purposes of subsection (4)(a) to (e), (f), and (g):
+  (b) the purposes of subsection (4)(ea), (f), and (g) and the purpose specified in section 220A(1)(a).
 
 ### 219 Earners to pay levies
 (1) An earner must pay, in accordance with this Act and regulations made under it, levies to fund the Earners' Account.
-(2) An earner must pay, in accordance with this Act and regulations made under it, the prescribed Earners' Account Residual levy.
+(2)
 (3) A levy must relate to a prescribed period.
 
 ### 220 Rate of levies
 (1) Levies must be paid under section 219 at a rate or rates prescribed by regulations made under this Act and must be related in whole or in part to the level of earnings derived or deemed by regulation to be derived by the earner or category of earner.
-(2) The extent of funds to be derived from levies under section 219 is to be calculated to achieve the following:
-  (a) the outstanding claims liability of the Earners' Account as at 30 June 1999, as recognised by the Corporation from time to time, is to be fully funded no later than 30 June 2014 by the prescribed Earners' Account Residual levy:
-  (b) the cost of all other claims under the Earners' Account is to be fully funded by levies.
+(2)
+
+### 220A Basis on which funds to be calculated
+(1) The extent of funds to be derived from levies under section 219 is to be calculated to achieve the following purposes:
+  (a) the residual amount is to be completely paid off or funded no later than 31 March 2019:
+  (b) the cost of all claims under the Earners' Account is to be fully funded by levies.
+(2) The Minister may, by notice in the Gazette, specify the residual amount.
+(3) The Minister's power under subsection (2) may be exercised only once.
+(4) In this section, residual amount means the amount that—
+  (a) is specified by the Minister; and
+  (b) represents, among other things, as at 30 June 2009, the estimated value of the outstanding claims liability for the Earners' Account (minus the value of any accrued assets) in respect of the claims described in section 218(4)(ea).
 
 ### 221 Collection of levies by deduction from employee earnings
-(1) For the purpose of enabling the collection of the levies (including the Earners' Account Residual levy) payable under section 219 by instalments,—
+(1) For the purpose of enabling the collection of the levies payable under section 219 by instalments,—
   (a) when an employer or a PAYE intermediary for an employer makes a payment to an employee that is included in the earnings of the person as an employee of the employer, the employer or person must, at the time of making that payment, make a deduction in accordance with this section from that amount on account of the levy payable:
   (b) when a private domestic worker receives earnings that are earned in that person's capacity as a private domestic worker, the private domestic worker must, at the time of receiving that payment, make a deduction in accordance with this section from that amount on account of the levy payable.
 (2) Schedule 4 applies to any deduction under subsection (1), and applies to private domestic workers with any necessary modifications.
 (3) In this section, PAYE intermediary means a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007.
 
-### 222 Payment of Earners' Account levy and Earners' Account Residual levy by self-employed persons
+### 222 Payment of Earners' Account levy by self-employed persons
 (1) A self-employed person must pay the levies payable under section 219 by the date specified for payment, whether in an invoice or other appropriate document given to the self-employed person by the Corporation or an agent of the Corporation.
 (2) Schedule 4 applies to any payment made under subsection (1) if the Commissioner collects the levy.
 
@@ -2633,17 +2622,12 @@ Regulations made under this Act may establish a system for differential levies i
 (3) If the person's earnings as an employee for the tax year do not exceed the specified maximum, the levy payable is to be calculated on the basis of an amount equal to the lesser of—
   (a) the specified maximum for the earner levy reduced by the person's earnings as an employee for the tax year; and
   (b) the person's earnings as a self-employed person for the tax year.
-(4) If the person's earnings as an employee for the tax year exceed the specified maximum in relation to the Earners' Account Residual levy, the person is not obliged to pay the levy on the person's earnings as a self-employed person for the tax year.
-(5) If the person's earnings as an employee for the tax year do not exceed the specified maximum, the Earners' Account Residual levy payable is to be calculated on an amount equal to the lesser of—
-  (a) the specified maximum for the Earners' Account Residual levy reduced by the person's earnings as an employee for the tax year; and
-  (b) the person's earnings as a self-employed person for the tax year.
+(4)
+(5)
 
-### 232 Residual Claims levy and Work Account levy payable by employers on disposal or cessation of business or when ceasing to employ
-(1) This section applies to every employer who disposes of or otherwise ceases carrying on a business in respect of which the employer is liable to pay a Residual Claims levy or a Work Account levy or who continues the business as a self-employed person without employing any other person.
-(2) An employer must, by the 15th day of the second month after the month in which the employer disposes of or ceases carrying on the business or continues the business as a self-employed person without employing any other person,—
-  (a) notify the Corporation of the date of disposal or cessation of the business or of continuing the business as a self-employed person without employing any other person; and
-  (b) deliver to the Corporation the statement referred to in section 193 for that part of the last tax year during which the employer was in business; and
-  (c) pay to the Corporation the Residual Claims levy in respect of the earnings required to be specified in that statement.
+### 232 Work Account levy payable by employers on disposal or cessation of business or when ceasing to employ
+(1) This section applies to every employer who disposes of or otherwise ceases carrying on a business in respect of which the employer is liable to pay a Work Account levy or who continues the business as a self-employed person without employing any other person.
+(2) An employer must comply with subsection (3) by the 15th day of the second month after the month in which the employer disposes of or ceases carrying on the business or continues the business as a self-employed person without employing any other person.
 (3) An employer must—
   (a) notify the Corporation of the date of disposal or cessation of the business or of continuing the business as a self-employed person without employing any other person; and
   (b) provide the Corporation with a statement of the relevant employee earnings for that part of the last tax year during which the employer was in business.
@@ -2653,15 +2637,9 @@ Regulations made under this Act may establish a system for differential levies i
 (1) Every self-employed person who, during a tax year, ceases to derive earnings as a self-employed person must—
   (a) deliver to the Commissioner a statement of the person's earnings as a self-employed person for the tax year concerned, within the applicable time within which a return for that tax year is required to be furnished to the Commissioner under the Tax Administration Act 1994; and
   (b) pay to the Corporation, on or before the due date,—
-    (i) the Earners' Account Residual levy, at the rate prescribed, to the extent that it applied to the person's earnings as a self-employed person in that tax year; and
-    (ii) the Residual Claims levy, at the rate prescribed, to the extent that it applied to the person's earnings as a self-employed person in that tax year.
-(2) Every such self-employed person must also—
-  (a) notify the Corporation of the fact that he or she has ceased deriving earnings as a self-employed person, and of the date of that cessation, in such manner and at such time as is required by the Corporation from time to time; and
-  (b) on request from the Corporation, deliver to the Corporation a statement of the person's earnings as a self-employed person for the tax year concerned; and
-  (c) pay to the Corporation, on or before the due date,—
     (i) the Work Account levy, at the rate prescribed, to the extent that it applied to the person's earnings as a self-employed person in that tax year; and
     (ii) the earner levy, at the rate prescribed, to the extent that it applied to the person's earnings as a self-employed person in that tax year.
-(3)
+(2) The provisions of this section (other than subsection (1)(b)(ii)) and sections 239 and 329(1)(b) apply, with any necessary modifications, to private domestic workers.
 
 ### 234 Levies may be collected by instalments
 (1) The Corporation may collect any levy by instalments if the person liable to pay the levy agrees.
@@ -2669,12 +2647,7 @@ Regulations made under this Act may establish a system for differential levies i
 (3) A fee charged under subsection (2) forms part of the associated levy for collection purposes.
 
 ### 235 Collection of levies from self-employed and employers
-(1) Clause 10 of Schedule 4 applies to—
-  (a) the collection of the Earners' Account Residual levy from self-employed persons and from private domestic workers; and
-  (b) the collection of the Residual Claims levy from self-employed persons, from private domestic workers, and from employers.
-(2) For the purposes of subsection (1),—
-  (a) references to earner levy in clause 10 of Schedule 4 must be read as references to the Residual Claims levy or the Earners' Account Residual levy, as the case may be:
-  (b) references to earners in clause 10 of Schedule 4 must be read as references to employers or self-employed persons, as the case may be.
+[Repealed]
 
 ### 236 Challenges to levies
 (1) Any person who is dissatisfied with any decision of the Corporation in respect of any levy paid or payable or claimed to be payable under this Part by that person may seek a review by the Corporation of that decision within 3 months after the person is notified of the decision.
@@ -2696,7 +2669,7 @@ No obligation to pay any levy, and no right to receive or recover any levy, is s
   (c) any person has challenged the amount of levy, or the obligation to pay it, in any other proceedings.
 
 ### 239 Corporation to define risk classification and decide levy if activity not classified by regulations
-(1) This section applies if none of the classifications of industry or risk defined by the regulations made for the purposes of either, or both, of sections 170 (Work Account levies) and 195 (Residual Claims Account levies) specifically applies to the activity of a particular employer or self-employed person.
+(1) This section applies if none of the classifications of industry or risk defined by the regulations made for the purposes of section 170 (Work Account) specifically applies to the activity of a particular employer or self-employed person.
 (2) When this section applies,—
   (a) the Corporation may define a classification of industry or risk that it considers is appropriate in relation to that employer or self-employed person and decide the levy for that classification of industry or risk; and
   (b) that classification of industry or risk applies to all employers or self-employed persons involved in that activity who are not covered by a classification defined by the regulations; and
@@ -2749,6 +2722,12 @@ For the purposes of this Part, the Corporation may determine—
 (2) The Corporation may, for the purposes of this section, from time to time request the Commissioner to provide a list of all those employers, self-employed persons, private domestic workers, and shareholder-employees, or of any category of those employers, self-employed persons, private domestic workers, and shareholder-employees as the Corporation may specify.
 (3) The list is to include the names of the employers, self-employed persons, and private domestic workers, and shareholder-employees to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, their addresses and ACC file numbers, and (if available) the time at which the employers, self-employed persons, private domestic workers, and shareholder-employees became or ceased to be employers, self-employed persons, private domestic workers, or shareholder-employees.
 (4) The Corporation may request the Commissioner to provide any information relating to an employer's, self-employed person's, or private domestic worker's industry classification and the total amount paid by an employer or a private domestic worker as earnings as an employee, or as earnings as a shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, or (in the case of a self-employed person) the earnings as a self-employed person that the Corporation may specify for the purposes of this section.
+(4A) The Corporation may also request the Commissioner to provide any of the following information:
+  (a) whether an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies has a tax agent and, if so, the tax agent's name and contact details:
+  (b) for an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies who is an individual, whether the individual is deceased and, if so,—
+    (i) the individual's date of death; and
+    (ii) the name and contact details of the administrator or executor of the individual's estate.
+(4B) In this section, tax agent has the same meaning as in section 3 of the Tax Administration Act 1994.
 (5) The Commissioner, as agent for the Corporation, is authorised to comply with requests made under this section.
 (6) Any information provided by the Commissioner under this section must be provided under an agreement between the chief executive of the Corporation and the Commissioner.
 (7) If a determination of a levy payable to the Corporation is based on information received from the Commissioner under this section, and the notice of the determination given to the individual concerned specifies the particular information received from the Commissioner, and that notice advises the individual of a right to show why that information should not be used as the Corporation is using it in the determination, then that notice satisfies the requirements of section 103 of the Privacy Act 1993.
@@ -2904,15 +2883,19 @@ Except as otherwise specified in this Act or as required by virtue of any delega
 All money received by the Corporation for injury prevention purposes under section 263(3)(b) and (c), and the expenditure of any money under section 263, must be allocated and managed through the Account or Accounts maintained and operated by the Corporation under section 166 in respect of which a reduction in levy rates or expenditure is expected.
 
 ### 265 Ancillary powers of Corporation
-(1) The Corporation may provide services, in addition to services required to be provided under this Act, on a commercial basis, but only if—
+(1) In addition to services required to be provided under this Act, the Corporation may provide services under subsection (2) or (4)—
+  (a) that are outside the functions of the Corporation under section 262 (as long as the services are consistent with the purposes of this Act):
+  (b) whether or not the services are provided to a person who would not otherwise have cover under this Act.
+(2) The Corporation may provide services on a commercial basis, but only if—
   (a) the service is provided by a Crown entity subsidiary of the Corporation; and
   (b) the provision of the service is a viable commercial proposition for the Crown entity subsidiary; and
   (c) the service being provided is one that is consistent with the role and functions of the Corporation under this Act; and
   (d) any decision to provide the service, and the provision of the service, is consistent with any relevant policy direction given by the Minister under section 103 of the Crown Entities Act 2004.
-(1A) To avoid doubt, the Corporation may provide services under subsection (1)—
-  (a) that are outside the functions of the Corporation under section 262, provided that the services are consistent with the purposes of the Act:
-  (b) whether or not the services are provided to a person who would not otherwise have cover under this Act.
-(2) This section applies despite section 97(a) of the Crown Entities Act 2004.
+(3) Subsection (2) applies despite section 97(a) of the Crown Entities Act 2004.
+(4) The Corporation may provide government services or payments funded by an appropriation by Parliament, other than on a commercial basis, but only if—
+  (a) the service being provided is one that is consistent with the role and functions of the Corporation under this Act; and
+  (b) any decision to provide the service, and the provision of the service, is consistent with any relevant policy direction given by the Minister under section 103 of the Crown Entities Act 2004.
+(5) All money received by the Corporation from an appropriation by Parliament for the purposes of subsection (4), and the expenditure of that money, must be allocated and managed through the Accounts if it is reasonable and practicable to do so; but otherwise it must be applied, accounted for, and reported on separately from the Accounts.
 
 ### 266 Provisions relating to Crown entity subsidiaries
 (1) A Crown entity subsidiary formed by the Corporation must be wholly owned by the Corporation.
@@ -2985,7 +2968,7 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 (1) The Corporation must ensure that revenue and expenditure relating to each Account is received, applied, and accounted for separately.
 (2) Except as otherwise authorised under this Act and subject to subsections (3) to (5), the Corporation must not use funds from one Account to meet any costs arising under another Account.
 (3) Costs in relation to a claim that is associated with more than 1 Account must be apportioned, if practicable, to the relevant Accounts in a way that reasonably represents the relative costs to each Account of the claim concerned.
-(3A) The costs of claims for personal injury caused by work-related gradual process, disease, or infection to which section 167(3)(b) or section 192(6) applies may be apportioned to the Work Account and the Residual Claims Account in a way that the Corporation considers appropriate having regard to the exposure period of the claimant to the injury-causing agent.
+(3A)
 (3B) The Minister may, without complying with section 115(2) of the Crown Entities Act 2004, direct the Corporation to attribute in full, or apportion in part, to the Non-Earners' Account the costs of lump sum compensation for permanent impairment caused by gradual process, disease, or infection.
 (4) The Corporation must take all reasonable steps to ensure that the administration costs in relation to the management of the Accounts are fairly apportioned among the Accounts.
 (5) Costs incurred by the Corporation in carrying out all the functions, duties, and powers under this Act that cannot be directly attributed to an Account must be apportioned,—
@@ -3014,6 +2997,20 @@ The provisions set out in Schedule 5 apply in relation to the Corporation (but, 
 ### 278 Annual financial statements
 (1) The Corporation must include in its annual report under section 150 of the Crown Entities Act 2004 annual financial statements for each Account.
 (2) Sections 154(3), 155, and 156 of the Crown Entities Act 2004 apply to the financial statements under subsection (1) with any necessary modifications.
+
+### 278A Annual financial condition report
+(1) The Corporation must—
+  (a) prepare an annual report on its financial condition as soon as practicable after the end of each financial year; and
+  (b) provide the report to the Minister.
+(2) The purpose of the report is to—
+  (a) provide advice in relation to the Corporation's operations, financial condition, and liabilities; and
+  (b) discuss the implications of any material risks to the Corporation that have been identified in the report.
+(3) The report must—
+  (a) be prepared in accordance with generally accepted practice within the insurance sector in New Zealand; and
+  (b) contain the information required to achieve the purpose in subsection (2).
+(4) The Minister must—
+  (a) provide a copy of the report to the Minister of Finance; and
+  (b) after complying with paragraph (a) but within 5 working days after receiving the report from the Corporation or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament, present the report to the House of Representatives.
 
 **Information collection**
 
@@ -3166,10 +3163,7 @@ Injury-related statistics are a separate class of official statistics under sect
 (3) For the purposes of the Privacy Act 1993 and any other enactment relating to the provision of information, a requirement under subsection (1) is sufficient authority for an agency to provide specified information to a manager.
 
 ### 291 Ministerial advisory panel
-(1) The Minister designated under section 289(2) must appoint a person to convene and chair a ministerial advisory panel comprising stakeholder representatives in the injury sector, including surveillance experts, agency data providers, and users.
-(2) The ministerial advisory panel must provide independent purchase advice directly to the designated Minister on—
-  (a) the direction the information manager is taking or has taken under this Part; and
-  (b) the strategy of the information manager under this Part.
+[Repealed]
 
 **Purchase agreements**
 
@@ -3603,17 +3597,18 @@ For the purposes of Part 5, the Governor-General may, on the recommendation of t
 (2) In the absence of regulations for the time being in force under subsection (1)(a), the use of alternative dispute resolution and the manner in which it is to be conducted is a matter for agreement between the Corporation and the claimant.
 
 ### 329 Regulations relating to levies
-For the purposes of Part 6, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
+(1) For the purposes of Part 6, the Governor-General may, on the recommendation of the Minister, by Order in Council, make regulations—
   (a) specifying, in relation to levies, the maximum amounts and deemed minimum amounts of earnings for levy purposes:
   (b) prescribing earnings deemed,—
     (i) for the purposes of section 169(1), to have been paid by an employer to the employer's employees or earned by a self-employed person; or
-    (ii) for the purposes of sections 169(1) and 193, to have been earned as a private domestic worker:
+    (ii) for the purposes of section 169(1), to have been earned as a private domestic worker:
   (c) prescribing the rates of levies (including maximum and minimum levies) and specifying the manner in which the Corporation is to determine the levies payable:
+  (ca) prescribing the terms and conditions of the system or systems of experience rating or of risk sharing referred to in section 169(2):
   (d) prescribing the period to which any levies relate:
   (e) prescribing, in relation to levies, any discounts to be allowed and any adjustments to be made:
   (f) prescribing classifications, and categories of earners, for levy purposes:
-  (g) prescribing classifications of industries and risks for the purposes of sections 170 and 195:
-  (h) specifying the threshold that must be met for the purpose of multiple classification in sections 170 and 195, being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
+  (g) prescribing classifications of industries and risks for the purposes of section 170:
+  (h) specifying the threshold that must be met for the purpose of multiple classification in section 170, being a threshold based on the liable earnings of groups of employees or the overall levy payable by the employer:
   (i) prescribing the rate of interest payable on any amount under section 250(3) and the method by which the prescribed rate is to be applied (for example, 7.5% compounding monthly on the outstanding amount unpaid):
   (j) providing for levy adjustments and any matters relating to audits of safety management practices referred to in section 175(7):
   (k) prescribing, in relation to the levy payable under section 213(2)(c),—
@@ -3622,16 +3617,25 @@ For the purposes of Part 6, the Governor-General may, on the recommendation of t
     (iii) the rate or rates at which the levy is payable:
     (iv) the manner in which the levy is to be collected and paid to the Corporation:
     (v) the persons or classes of person who are entitled to a refund under section 255(1A), the extent to which any amount of levy may be refunded, the manner in which persons must apply for a refund, and the manner in which refunds are to be paid:
-  (l) establishing a system for differential levies, for the purposes of the Motor Vehicle Account, for categories referred to in section 216:
-  (m) prescribing the manner of payment of the Motor Vehicle Account Residual levy for the purposes of section 217(3):
+  (l) establishing a system for differential levies, for the purposes of the Motor Vehicle Account, for categories referred to in—
+    (i) section 216(1); or
+    (ii) section 216(2):
+  (m) setting, in relation to a prescribed period, a portion of the Work Account, the Motor Vehicle Account, or the Earners' Account that is necessary to achieve,—
+    (i) in the case of the Work Account, the purpose specified in section 169AA(1)(a); and
+    (ii) in the case of the Motor Vehicle Account, the purpose specified in section 215(1)(a); and
+    (iii) in the case of the Earners' Account, the purpose specified in section 220A(1)(a):
+  (ma) prescribing the manner of payment of the Motorcycle Safety levy for the purposes of section 217(3):
   (n) prescribing classes of levy payers for the purposes of the Treatment Injury Account:
   (o) prescribing exempt amounts of levy for the purpose of section 244, which amounts may differ depending on whether the amount invoiced is for—
     (i) a single type of levy; or
     (ii) 2 or more different types of levies; or
     (iii) both.
+(2) Regulations made under subsection (1)(ca) may—
+  (a) specify the types of claims to which the system or systems of experience rating or of risk sharing referred to in section 169(2) apply; and
+  (b) make different provision for different classes of levy payers or in respect of different industries or levies.
 
 ### 330 Consultation requirements for regulations relating to classifications, risk rating, or treatment injury
-The Minister may not make any recommendation in respect of regulations made under section 329(f) or (g) or (l) or (m), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
+The Minister may not make any recommendation in respect of regulations made under section 329(f) or (g) or (l)(i) or (ma), or in relation to the Treatment Injury Account, without first consulting such persons or organisations as the Minister considers appropriate having regard to the subject matter of the proposed regulations.
 
 ### 331 Consultation requirements for regulations relating to levy setting
 (1) The Minister may not recommend the making of regulations under this Act prescribing the rates of levies unless the Minister has first received and considered a recommendation from the Corporation made in accordance with the provisions of this section.
@@ -5305,9 +5309,7 @@ In relation to an employee who is a private domestic worker, neither the employe
 For the purpose of section 221(1), the employer of a shareholder-employee is deemed to make payment to the shareholder-employee of the earnings as an employee for a tax year on the date that the employer finally determines the amount of the earnings as an employee of the shareholder employee for that tax year.
 
 ### 7
-An employer who makes a payment to a shareholder-employee must,—
-(a) within the time within which the employer is required to furnish a return of income under section 33 of the Tax Administration Act 1994, deliver a statement of the total amount of shareholder-employee earnings paid or payable by the employer for the tax year to which the return relates; and
-(b) pay, by the date that income tax not previously due and payable is due and payable by the employer as specified in section RA 3 of the Income Tax Act 2007, the Residual Claims levy payable on such shareholder-employee earnings by virtue of section 193 or Part 11 calculated at the rate prescribed in regulations made under this Act, and the earner levy payable by virtue of section 219 calculated at the rates prescribed by regulations made under this Act.
+An employer who makes a payment to a shareholder-employee must, within the time within which the employer is required to furnish a return of income under section 33 of the Tax Administration Act 1994, deliver a statement of the total amount of shareholder-employee earnings paid or payable by the employer for the tax year to which the return relates.
 
 ### 8
 Neither an employer of any person referred to in section LC 3 of the Income Tax Act 2007 nor a PAYE intermediary is obliged to make any deduction under section 221(1) from amounts paid or provided by the employer to that person, unless the employer or the PAYE intermediary withholds an amount of tax on account of income tax under the PAYE rules from any such amount.
@@ -5350,23 +5352,21 @@ Nothing in clause 14 limits the application of the remission, relief, and refund
 ### 16
 Except as provided in clause 19, every person who has earnings as an employee in a tax year and is subject to the provisions of the Tax Administration Act 1994 as it relates to income statements or the requirements to furnish a return of income must—
 (a) deliver to the Commissioner a statement of the person's earnings as an employee for the tax year, within the applicable time within which the return, income statement, or other relevant information is required under the Tax Administration Act 1994 to be furnished to the Commissioner; and
-(b) pay to the Commissioner, on or before the due date,—
-  (i) an earner levy, at the rate prescribed, on such earnings as do not exceed the specified maximum; and
-  (ii) an Earners' Account Residual levy, at the rate prescribed, on such earnings as do not exceed the specified maximum.
+(b) pay to the Commissioner, on or before the due date, an earner levy, at the rate prescribed, on any earnings that do not exceed the specified maximum.
 
 ### 17
 The amount of any levy payable under this Act and clause 16 must have credited towards it the sum of the deductions (excluding any penalty charged or imposed under clause 10 of Schedule 5 of the Accident Insurance Act 1998) made by an employer of the employee or by a PAYE intermediary under section 221 on account of that levy.
 
 ### 18
-If the sum of the levy deductions from a person's earnings as an employee on account of the earner levy and Earners' Account Residual levy payable by the person exceeds the amount of the earner levy or Earners' Account Residual levy payable on the specified maximum of the levy, the Corporation or its agent must refund the excess to the employee.
+If the sum of the levy deductions from a person's earnings as an employee on account of the earner levy payable by the person exceeds the amount of the earner levy payable on the specified maximum of the levy, the Corporation or its agent must refund the excess to the employee.
 
 ### 19
 If a person with earnings as an employee is not required to furnish a return of income or an income statement under the Tax Administration Act 1994, and does not in fact do so,—
-(a) the amount of the earner levy and Earners' Account Residual levy payable under clause 16 is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under section 221; and
+(a) the amount of the earner levy payable under clause 16 is to be treated as equal to the total of the deductions required to be made (if any) from those earnings by the person's employer or by a PAYE intermediary under section 221; and
 (b) the person need not deliver a statement of earnings as an employee under clause 16.
 
 ### 20
-If the Corporation is satisfied that the amount of levy payable by a person under clause 19 exceeds the amount that would be payable if the levy amount were determined under clause 16, the Corporation must refund to the person the amount of the excess or, at the Corporation's option, credit the excess in payment of any earner levy or Earners' Account Residual levy due and unpaid by the person.
+If the Corporation is satisfied that the amount of levy payable by a person under clause 19 exceeds the amount that would be payable if the levy amount were determined under clause 16, the Corporation must refund to the person the amount of the excess or, at the Corporation's option, credit the excess in payment of any earner levy due and unpaid by the person.
 
 ### 21
 The Corporation may not refund or give credit for any amount under clause 20 more than 4 years after the end of the tax year in respect of which the levy is payable, unless written application for a refund or credit is made to the Corporation by or on behalf of the person concerned before the end of the 4-year period.
@@ -5573,3 +5573,54 @@ This Act is the Injury Prevention, Rehabilitation, and Compensation Amendment Ac
 
 ### 35 Transitional provision for payment of levies and payment of penalties and interest due for unpaid levies
 The amendments in sections 21 to 23, 25, and 34 of this Act apply only in respect of an invoice or other appropriate document that is given to a person by the Corporation or an agent of the Corporation on or after 1 August 2008 in respect of any levy payable under the principal Act.
+
+### 1 Title
+This Act is the Accident Compensation Amendment Act 2010.
+
+### 2 Commencement
+(1) The following provisions come into force on 1 July 2010:
+  (a) section 6(2):
+  (b) section 8:
+  (c) section 9:
+  (d) sections 11 to 13:
+  (e) section 19:
+  (f) section 34:
+  (g) section 47(1) and Part 1 of Schedule 1:
+  (h) sections 53 to 61.
+(2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 2 — Miscellaneous provisions
+
+**Validation**
+
+### 48 Validation of disclosure of information for assessment of levies
+(1) Every disclosure of the information specified in subsection (2) by the Commissioner of Inland Revenue to the Accident Compensation Corporation under section 85E of the Tax Administration Act 1994 that was made before the commencement of this section must be taken to be, and always to have been, lawful.
+(2) The information referred to in subsection (1) is as follows:
+  (a) whether an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies has a tax agent and, if so, the tax agent's name and contact details:
+  (b) for an employer, self-employed person, private domestic worker, or shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies who is an individual, whether the individual is deceased and, if so,—
+    (i) the individual's date of death; and
+    (ii) the name and contact details of the administrator or executor of the individual's estate.
+(3) In this section, tax agent has the same meaning as in section 3 of the Tax Administration Act 1994.
+
+**Transitional provisions for levies**
+
+### 50 Transfer of assets and liabilities to Work Account
+All assets and liabilities of the Residual Claims Account as it was immediately before the commencement of this section are, on that commencement, transferred to the Work Account.
+
+### 51 Sections 330 and 331 of principal Act do not apply to making of regulations for Earners' Account, Motor Vehicle Account, or Work Account
+Sections 330 and 331 of the principal Act do not apply to the making of regulations in relation to—
+  (a) the Earners' Account or the Work Account for the 2010–11 tax year:
+  (b) the Motor Vehicle Account (including the Motorcycle Safety levy) for the period that starts on 1 July 2010 and ends on 30 June 2011.
+
+### 52 Levies continue to be payable
+(1) This section applies to the amounts of levy that were, or will become, payable to the Residual Claims Account, the Motor Vehicle Account, or the Earners' Account as they were immediately before the commencement of this section.
+(2) The amounts to which this section applies—
+  (a) continue to be due and payable; and
+  (b) must be paid,—
+    (i) in the case of the Residual Claims levy, to the Work Account; and
+    (ii) in the case of the Motor Vehicle Account Residual levy, to the Motor Vehicle Account; and
+    (iii) in the case of the Earners' Account Residual levy, to the Earners' Account.
+
+### 62 Members of ministerial advisory panels not entitled to compensation
+(1) Nothing in this Act entitles a member of the ministerial advisory panel referred to in section 31 or 291 of the principal Act to any compensation in respect of the repeal of those sections and the removal of the panel, or for any fees or allowances that would otherwise be payable for the remainder of the term of an appointment affected by the repeals.
+(2) In this section, member includes the chair of the ministerial advisory panel referred to in section 31 or 291 of the principal Act.
