@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2010-01-07_
+_Consolidation as at 2010-03-03_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -3082,7 +3082,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
   (a) shall maintain and aid in maintaining the secrecy of all matters relating to—which come to the officer's knowledge, and shall not, either while the officer is or after the officer ceases to be an officer of the Department, communicate any such matters to any person except for the purpose of carrying into effect the Acts referred to in subparagraphs (i), (ii), and (iia) or any other enactment imposing taxes or duties payable to the Crown, or of carrying into effect the powers, duties, and functions of the Commissioner under the New Zealand Superannuation Act 1974; and
     (i) the Inland Revenue Acts, including all Acts (whether repealed or not) at any time administered by or in the Department; and
     (ii) the Accident Compensation Act 1982 or Accident Rehabilitation and Compensation Insurance Act 1992 or the Accident Insurance Act 1998; and
-    (iia) the Injury Prevention, Rehabilitation, and Compensation Act 2001 where the Commissioner is acting as agent for the collection of levies under sections 193 and 219 and earner levies from employees under section 219 of that Act; and
+    (iia) the Injury Prevention, Rehabilitation, and Compensation Act 2001 where the Commissioner is acting as agent for the collection of levies under section 219 and earner levies from employees under section 219 of that Act; and
     (iii) the New Zealand Superannuation Act 1974,—
   (b) shall, before the officer begins to perform any official duty as an officer of the Department, make a declaration of fidelity and secrecy in the form prescribed by the Commissioner to maintain secrecy in conformity with this section, which declaration may be made before the Commissioner, or an officer of the Department, or any other person authorised by or under the Oaths and Declarations Act 1957 to take statutory declarations.
 (2) Where, before the commencement of this Act, any officer of the Department has made a declaration of fidelity or secrecy under subsection (1)(b) of section 13 of the Inland Revenue Department Act 1974, or was deemed by subsection (2) or subsection (2A) of that section to have made the declaration under that subsection (1)(b), that declaration shall, in either case, be deemed to be a declaration to maintain secrecy, as from the commencement of this Act, in accordance with this section.
@@ -3359,7 +3359,11 @@ Where information is supplied to the Commissioner under section 85B(2), the Comm
   (c) the time at which a self-employed person commenced or ceased business:
   (d) the total amount paid in any year by an employer or a private domestic worker as earnings as an employee:
   (e) in the case of a self-employed person, the earnings as a self-employed person:
-  (f) in the case of a shareholder-employee, the earnings as a shareholder-employee.
+  (f) in the case of a shareholder-employee, the earnings as a shareholder-employee:
+  (g) whether an employer, self-employed person, private domestic worker, or shareholder-employee has a tax agent and, if so, the tax agent's name and contact details:
+  (h) in the case of an employer, self-employed person, private domestic worker, or shareholder-employee who is an individual, whether the individual is deceased and, if so,—
+    (i) the individual's date of death; and
+    (ii) the name and contact details of the administrator or executor of the individual's estate.
 (3) In this section,—
   - **earnings as an employee** , , , and have the meanings given to them by section 6 of the Injury Prevention, Compensation, and Rehabilitation Act 2001
   - **earnings as a self-employed person** has the meaning given to it by section 6 of the Injury Prevention, Compensation, and Rehabilitation Act 2001
@@ -4651,8 +4655,8 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 ### 93 Assessment of FBT
 (1) The Commissioner may, in respect of any person who is chargeable with FBT in respect of any quarter or any income year, make an assessment of the amount of FBT which, in the Commissioner's judgment, ought to be imposed, and that person shall be liable to pay the FBT so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not chargeable with FBT.
 (2) Sections 109, 111, and 113 shall apply, so far as may be, with respect to every assessment made under this section as if—
-  (a) The term tax already assessed in section 113 included FBT already assessed under this section; and
-  (b) The term taxpayer in sections 109, 111, and 113 included a person who is chargeable with FBT.
+  (a) the term tax already assessed in section 113 included FBT already assessed under this section; and
+  (b) the term taxpayer in sections 109, 111, and 113 included a person who is chargeable with FBT.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
 ### 93B Trustee income: Commissioner’s power to assess
@@ -4671,9 +4675,9 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 ### 94 Assessment of qualifying company election tax and additional tax
 (1) The Commissioner may, in respect of any company liable to pay qualifying company election tax under section HA 42 of the Income Tax Act 2007, make an assessment of the amount of qualifying company election tax, and any late payment penalty payable under section 139B of this Act, that, in the Commissioner's judgment, ought to be imposed, and the company shall be liable to pay the qualifying company election tax and any late payment penalty so assessed, except so far as the company establishes in proceedings challenging the assessment that the assessment is excessive or that the company is not chargeable with qualifying company election tax, or the late payment penalty.
 (2) Sections 108 to 111, 113, and 114 shall apply, so far as may be, with respect to every assessment made under this section as if—
-  (a) The term tax already assessed, in section 113, included qualifying company election tax and any late payment penalty already assessed under this section; and
-  (b) The term taxpayer, in sections 109, 111, and 113, included a company which is chargeable with qualifying company election tax; and
-  (c) The term income tax for any year in section 108(1) included an amount assessed under this section, and the term property were substituted for the term income in section 108(2).
+  (a) the term tax already assessed, in section 113, included qualifying company election tax and any late payment penalty already assessed under this section; and
+  (b) the term taxpayer, in sections 109, 111, and 113, included a company which is chargeable with qualifying company election tax; and
+  (c) the term income tax for any year in section 108(1) included an amount assessed under this section, and the term property were substituted for the term income in section 108(2).
 (3) An assessment made under subsection (1) is subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act applies accordingly.
 
 ### 94A Assessment of shortfall penalties
@@ -4685,8 +4689,8 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 
 ### 94B Liability of wholly-owned group and other bodies to pay shortfall penalties
 (1) If the Commissioner treats the companies in a wholly-owned group as if they were a single taxpayer for the purpose of determining a tax shortfall,—
-  (a) The Commissioner may assess one company in the group for the shortfall penalty; but
-  (b) All the other companies remain liable to pay the shortfall penalty until it is paid in full.
+  (a) the Commissioner may assess one company in the group for the shortfall penalty; but
+  (b) all the other companies remain liable to pay the shortfall penalty until it is paid in full.
 (2) All the partners in a partnership, and all the persons in any other group of persons that derive or incur amounts jointly or that are assessed together, are liable individually and collectively for a shortfall penalty imposed by the Commissioner—by the partnership or the other group of persons, as the case may be.
   (a) in respect of a tax position taken; or
   (b) as a consequence of how or the way in which a tax position is taken,—
@@ -4710,7 +4714,7 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 (3) Sections 109, 111, and 113 shall apply with respect to every assessment under this section as if—
   (a) in those sections, the term taxpayer included a company chargeable with imputation penalty tax; and
   (b) in section 113, the term tax already assessed included any imputation penalty tax already assessed under this section.
-(4) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
+(4) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB1 of the Income Tax Act 2007, and Part 8A of this Act shall apply accordingly.
 
 ### 97B Assessment of Maori authority distribution penalty tax
 (1) The Commissioner may, in respect of a Maori authority chargeable with Maori authority distribution penalty tax, make an assessment of the amount of Maori authority distribution penalty tax that the Commissioner considers should be imposed on the Maori authority.
@@ -4738,9 +4742,9 @@ The Commissioner must make an income tax assessment for a tax year for a taxpaye
 ### 99 Assessment of RWT
 (1) The Commissioner may make an assessment of any amount that, in the Commissioner's opinion, any person is liable to account for or pay to the Commissioner under the RWT rules, and any person who is so assessed shall be liable to pay the amount so assessed, except so far as the person establishes in proceedings challenging the assessment that the assessment is excessive or that the person is not liable to account for or pay the amount so assessed.
 (2) Sections 108 to 111, 113, and 114 shall apply, so far as may be, with respect to every assessment made under subsection (1) of this section, as if—
-  (a) The term income tax for any year in section 108(1) included an amount assessed under subsection (1) of this section and the term income in section 108(2) included an amount of resident passive income; and
-  (b) The term taxpayer in sections 109, 111, and 113 included a person who is assessed or is liable to be assessed under subsection (1) of this section; and
-  (c) The term tax already assessed in section 113 included an amount already assessed under subsection (1) of this section.
+  (a) the term income tax for any year in section 108(1) included an amount assessed under subsection (1) of this section and the term income in section 108(2) included an amount of resident passive income; and
+  (b) the term taxpayer in sections 109, 111, and 113 included a person who is assessed or is liable to be assessed under subsection (1) of this section; and
+  (c) the term tax already assessed in section 113 included an amount already assessed under subsection (1) of this section.
 (3) An assessment made under this section shall be subject to challenge in the same manner as an assessment of income tax imposed under section BB 1 of the Income Tax Act 2007, and Parts 7 and 8A of this Act shall apply accordingly.
 
 ### 100 Assessment of NRWT
@@ -5305,7 +5309,7 @@ Except so far as may be expressly provided to the contrary in this Act or the In
 (1) Any person who has been assessed for income tax may object to that assessment by delivering or posting to the Commissioner a notice of objection stating shortly the grounds of the person's objection, within such time as may be specified in that behalf in the notice of assessment, not being less than 14 days after the date on which that notice of assessment is given, or within such extended time as the Commissioner may allow on the application of the person made before the expiry of—
   (a) the time for objection specified in the notice of assessment; or
   (b) any extended time for objection previously allowed by the Commissioner in respect of the assessment:
-  Provided that, where the assessment is an amended assessment, the person so assessed shall have no further right of objection than the person would have had if the amendment had not been made, except to the extent to which by reason of the amendment a fresh liability in respect of any particular is imposed on the person or an existing liability in respect of any particular is increased.
+  provided that, where the assessment is an amended assessment, the person so assessed shall have no further right of objection than the person would have had if the amendment had not been made, except to the extent to which by reason of the amendment a fresh liability in respect of any particular is imposed on the person or an existing liability in respect of any particular is increased.
 (2) No notice of objection given after the time specified in the notice of assessment, or after such extended time as the Commissioner may allow under subsection (1), shall be of any force or effect unless the Commissioner accepts the same and gives notice to the objector accordingly.
 
 ### 127 Commissioner to consider objections and may amend assessment
