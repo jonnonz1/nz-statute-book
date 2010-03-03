@@ -1,5 +1,5 @@
 # Health and Safety in Employment Act 1992
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2010-03-03_
 
 > An Act to reform the law relating to the health and safety of employees, and other people at work or affected by the work of other people
 
@@ -12,20 +12,18 @@ _Consolidation as at 2008-08-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **Accident** means an event that—
-    (a) Causes any person to be harmed; or
-    (b) In different circumstances, might have caused any person to be harmed:
-  - **All practicable steps**
-  - **Approved code of practice** means a statement , for the time being approved under section 20 of this Act; but where any amendment of the statement has been approved under that section, means the statement as amended
+    (a) causes any person to be harmed; or
+    (b) in different circumstances, might have caused any person to be harmed:
+  - **approved code of practice** means a statement , for the time being approved under section 20 of this Act; but where any amendment of the statement has been approved under that section, means the statement as amended
   - **Armed Forces** has the same meaning as in section 2(1) of the Defence Act 1990.
-  - **At work** , in relation to any person, means present, for gain or reward, in the person's place of work
+  - **at work** , in relation to any person, means present, for gain or reward, in the person's place of work
   - **coastal cargo** has the same meaning as in section 198(6) of the Maritime Transport Act 1994.
   - **compliance order** means an order made under section 137 of the Employment Relations Act 2000
-  - **Contractor** means a person engaged by any person (otherwise than as an employee) to do any work for gain or reward
-  - **Crew**
+  - **contractor** means a person engaged by any person (otherwise than as an employee) to do any work for gain or reward
   - **Crown organisation** has the same meaning as in section 4 of the Crown Organisations (Criminal Liability) Act 2002
   - **demise charter** has the same meaning as in section 2(1) of the Ship Registration Act 1992.
-  - **Department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Departmental medical practitioner** means a person for the time being appointed under section 34(1) of this Act
+  - **department** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
+  - **departmental medical practitioner** means a person for the time being appointed under section 34(1) of this Act
   - **employee** , subject to sections 3C to 3F, means any person of any age employed by an employer to do any work (other than residential work) for hire or reward under a contract of service and, in relation to any employer, means an employee of the employer
   - **employer** —
     (a) means a person who or that employs any other person to do any work for hire or reward; and, in relation to any employee, means an employer, subject to sections 3C to 3F, of the employee; and
@@ -38,8 +36,8 @@ _Consolidation as at 2008-08-01_
     (b) in relation to a person other than an inspector,—
       (i) the laying of an information under this Act; or
       (ii) the making of an application for a compliance order.
-  - **Facility** includes amenity and equipment
-  - **Fail** includes refuse; and includes refusal
+  - **facility** includes amenity and equipment
+  - **fail** includes refuse; and includes refusal
   - **harm** —
     (a) means illness, injury, or both; and
     (b) includes physical or mental harm caused by work-related stress
@@ -51,15 +49,15 @@ _Consolidation as at 2008-08-01_
   - **hazard notice** has the meaning set out in section 46A(1)
   - **health and safety committee** means a committee established to support the ongoing improvement of health and safety in a place of work
   - **health and safety representative** means an employee elected, as an individual or as a member of a health and safety committee or both, to represent the views of employees in relation to health and safety at work
-  - **Healthy** means unharmed; and has a corresponding meaning
-  - **Home** means a place occupied as a dwellinghouse; and includes any garden, yard, garage, outhouse, or other appurtenance, of a home
-  - **Improvement notice** means a notice under subsection (1) or subsection (2) of section 39 of this Act
+  - **healthy** means unharmed; and has a corresponding meaning
+  - **home** means a place occupied as a dwellinghouse; and includes any garden, yard, garage, outhouse, or other appurtenance, of a home
+  - **improvement notice** means a notice under subsection (1) or subsection (2) of section 39 of this Act
   - **infringement notice** means a notice given under section 56B
   - **Inspector** means a health and safety inspector for the time being appointed under section 29(1) of this Act
   - **Inspector's notice** means an improvement notice or a prohibition notice
-  - **Machinery** means an engine, motor, or other appliance that provides mechanical energy derived from compressed air, the combustion of fuel, electricity, gas, gaseous products, steam, water, wind, or any other source; and includes—
-    (a) Any plant by or to which the motion of any machinery is transmitted; and
-    (b) A lifting machine, a lifting vehicle, a machine whose motive power is wholly or partly generated by the human body, and a tractor:
+  - **machinery** means an engine, motor, or other appliance that provides mechanical energy derived from compressed air, the combustion of fuel, electricity, gas, gaseous products, steam, water, wind, or any other source; and includes—
+    (a) any plant by or to which the motion of any machinery is transmitted; and
+    (b) a lifting machine, a lifting vehicle, a machine whose motive power is wholly or partly generated by the human body, and a tractor:
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **matter** , in sections 54, 54A, 54C, 54E, 56B, and 56C, means—
     (a) a failure to comply with this Act or regulations made under this Act; or
@@ -67,38 +65,37 @@ _Consolidation as at 2008-08-01_
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **New Zealand** includes all airspace within the territorial limits of New Zealand
   - **New Zealand ship** has the same meaning as in section 2(1) of the Ship Registration Act 1992.
-  - **Person** includes the Crown
-  - **Person who controls a place of work** in relation to a place of work, means a person who is—
-    (a) The owner, lessee, sublessee, occupier, or person in possession, of the place or any part of it; or
-    (b) The owner, lessee, sublessee, or bailee, of any plant in the place:
-  - **Petroleum operations** means petroleum operations prescribed for the purposes of this Act by regulations made under this Act
-  - **Phenomenon** includes radiation
-  - **Place of work** means a place (whether or not within or forming part of a building, structure, or vehicle) where any person is to work, is working, for the time being works, or customarily works, for gain or reward; and, in relation to an employee, includes a place, or part of a place, under the control of the employer (not being domestic accommodation provided for the employee),—
-    (a) Where the employee comes or may come to eat, rest, or get first-aid or pay; or
-    (b) Where the employee comes or may come as part of the employee's duties to report in or out, get instructions, or deliver goods or vehicles; or
-    (c) Through which the employee may or must pass to reach a place of work:
-  - **Plant** includes—
-    (a) Appliance, equipment, fitting, furniture, implement, machine, machinery, tool, and vehicle; and
-    (b) Part of any plant, the controls of any plant, and any thing connected to any plant:
-  - **Principal** means a person who or that engages any person (otherwise than as an employee) to do any work for gain or reward
-  - **Prohibition notice** means a notice under section 41(1) of this Act
-  - **Registered medical practitioner**
-  - **Residential work** , in relation to the occupier of a home, means—by a person employed or engaged by the occupier solely to do work of one or both of those kinds in relation to the home
-    (a) Domestic work done or to be done in the home; or
-    (b) Work done or to be done in respect of the home,—
-  - **Safe** ,—and and have corresponding meanings
-    (a) In relation to a person, means not exposed to any hazards; and
-    (b) In every other case, means free from hazards;—
-  - **Secretary** means the chief executive of the Department
-  - **Serious harm** , subject to subsection (4) of this section, means death, or harm of a kind or description declared by the Governor-General by Order in Council to be serious for the purposes of this Act; and has a corresponding meaning
+  - **person** includes the Crown
+  - **person who controls a place of work** in relation to a place of work, means a person who is—
+    (a) the owner, lessee, sublessee, occupier, or person in possession, of the place or any part of it; or
+    (b) the owner, lessee, sublessee, or bailee, of any plant in the place:
+  - **petroleum operations** means petroleum operations prescribed for the purposes of this Act by regulations made under this Act
+  - **phenomenon** includes radiation
+  - **place of work** means a place (whether or not within or forming part of a building, structure, or vehicle) where any person is to work, is working, for the time being works, or customarily works, for gain or reward; and, in relation to an employee, includes a place, or part of a place, under the control of the employer (not being domestic accommodation provided for the employee),—
+    (a) where the employee comes or may come to eat, rest, or get first-aid or pay; or
+    (b) where the employee comes or may come as part of the employee's duties to report in or out, get instructions, or deliver goods or vehicles; or
+    (c) through which the employee may or must pass to reach a place of work:
+  - **plant** includes—
+    (a) appliance, equipment, fitting, furniture, implement, machine, machinery, tool, and vehicle; and
+    (b) part of any plant, the controls of any plant, and any thing connected to any plant:
+  - **principal** means a person who or that engages any person (otherwise than as an employee) to do any work for gain or reward
+  - **prohibition notice** means a notice under section 41(1) of this Act
+  - **residential work** , in relation to the occupier of a home, means—by a person employed or engaged by the occupier solely to do work of one or both of those kinds in relation to the home
+    (a) domestic work done or to be done in the home; or
+    (b) work done or to be done in respect of the home,—
+  - **safe** ,—and and have corresponding meanings
+    (a) in relation to a person, means not exposed to any hazards; and
+    (b) in every other case, means free from hazards;—
+  - **secretary** means the chief executive of the Department
+  - **serious harm** , subject to subsection (4) of this section, means death, or harm of a kind or description declared by the Governor-General by Order in Council to be serious for the purposes of this Act; and has a corresponding meaning
   - **ship** has the same meaning as in section 2(1) of the Ship Registration Act 1992
-  - **Significant hazard** means a hazard that is an actual or potential cause or source of—
-    (a) Serious harm; or
-    (b) Harm (being harm that is more than trivial) the severity of whose effects on any person depend (entirely or among other things) on the extent or frequency of the person's exposure to the hazard; or
-    (c) Harm that does not usually occur, or usually is not easily detectable, until a significant time after exposure to the hazard:
-  - **Subcontractor** means a person engaged (otherwise than as an employee) by any contractor or subcontractor to do for gain or reward any work the contractor or subcontractor has been engaged (as contractor or subcontractor) to do
-  - **Substance** includes a thing that is an organic material, whether living or not
-  - **Suspension notice** means a notice under section 37(1) of this Act.
+  - **significant hazard** means a hazard that is an actual or potential cause or source of—
+    (a) serious harm; or
+    (b) harm (being harm that is more than trivial) the severity of whose effects on any person depend (entirely or among other things) on the extent or frequency of the person's exposure to the hazard; or
+    (c) harm that does not usually occur, or usually is not easily detectable, until a significant time after exposure to the hazard:
+  - **subcontractor** means a person engaged (otherwise than as an employee) by any contractor or subcontractor to do for gain or reward any work the contractor or subcontractor has been engaged (as contractor or subcontractor) to do
+  - **substance** includes a thing that is an organic material, whether living or not
+  - **suspension notice** means a notice under section 37(1) of this Act.
   - **trained health and safety representative** has the meaning set out in section 46A(1)
   - **union** has the same meaning as in section 5 of the Employment Relations Act 2000
   - **volunteer** —
@@ -107,9 +104,9 @@ _Consolidation as at 2008-08-01_
       (ii) receives no reward for work performed as a volunteer; and
     (b) does not include a person who is in a place of work for the purpose of receiving on the job training or gaining work experience.
 (2) For the avoidance of doubt, it is hereby declared that—
-  (a) A person may at the one time be 2 or more of any of the following: a contractor, an employer, a person who controls a place of work, a principal, a self-employed person, and a subcontractor; and this Act may impose duties on or in respect of the person accordingly; and
-  (b) This Act may at the one time impose the same duty on 2 or more persons, whether in the same capacity or different capacities; and
-  (c) A duty imposed by this Act on any person is not diminished or affected by the fact that it is also imposed on 1 or more other persons, whether in the same capacity or in different capacities.
+  (a) a person may at the one time be 2 or more of any of the following: a contractor, an employer, a person who controls a place of work, a principal, a self-employed person, and a subcontractor; and this Act may impose duties on or in respect of the person accordingly; and
+  (b) this Act may at the one time impose the same duty on 2 or more persons, whether in the same capacity or different capacities; and
+  (c) a duty imposed by this Act on any person is not diminished or affected by the fact that it is also imposed on 1 or more other persons, whether in the same capacity or in different capacities.
 (3) To avoid doubt, a person is in a place of work whenever and wherever the person performs work including in a place that—
   (a) the person moves through; or
   (b) itself moves.
@@ -221,21 +218,21 @@ The object of this Act is to promote the prevention of harm to all persons at wo
 
 ### 6 Employers to ensure safety of employees
 Every employer shall take all practicable steps to ensure the safety of employees while at work; and in particular shall take all practicable steps to—
-  (a) Provide and maintain for employees a safe working environment; and
-  (b) Provide and maintain for employees while they are at work facilities for their safety and health; and
-  (c) Ensure that plant used by any employee at work is so arranged, designed, made, and maintained that it is safe for the employee to use; and
-  (d) Ensure that while at work employees are not exposed to hazards arising out of the arrangement, disposal, manipulation, organisation, processing, storage, transport, working, or use of things—
-    (i) In their place of work; or
-    (ii) Near their place of work and under the employer's control; and
-  (e) Develop procedures for dealing with emergencies that may arise while employees are at work.
+  (a) provide and maintain for employees a safe working environment; and
+  (b) provide and maintain for employees while they are at work facilities for their safety and health; and
+  (c) ensure that plant used by any employee at work is so arranged, designed, made, and maintained that it is safe for the employee to use; and
+  (d) ensure that while at work employees are not exposed to hazards arising out of the arrangement, disposal, manipulation, organisation, processing, storage, transport, working, or use of things—
+    (i) in their place of work; or
+    (ii) near their place of work and under the employer's control; and
+  (e) develop procedures for dealing with emergencies that may arise while employees are at work.
 
 **Duties of employers in relation to hazard management**
 
 ### 7 Identification of hazards
 (1) Every employer shall ensure that there are in place effective methods for—
-  (a) Systematically identifying existing hazards to employees at work; and
-  (b) Systematically identifying (if possible before, and otherwise as, they arise) new hazards to employees at work; and
-  (c) Regularly assessing each hazard identified, and determining whether or not it is a significant hazard.
+  (a) systematically identifying existing hazards to employees at work; and
+  (b) systematically identifying (if possible before, and otherwise as, they arise) new hazards to employees at work; and
+  (c) regularly assessing each hazard identified, and determining whether or not it is a significant hazard.
 (2) Where there occurs any accident or harm in respect of which an employer is required by section 25(1) of this Act to record particulars, the employer shall take all practicable steps to ensure that the occurrence is so investigated as to determine whether it was caused by or arose from a significant hazard.
 
 ### 8 Significant hazards to employees to be eliminated if practicable
@@ -243,26 +240,26 @@ Where there is a significant hazard to employees at work, the employer shall tak
 
 ### 9 Significant hazards to employees to be isolated where elimination impracticable
 Where—
-  (a) There is a significant hazard to employees at work; and
-  (b) Either—the employer shall take all practicable steps to isolate it from the employees.
-    (i) There are no practicable steps that may be taken to eliminate it; or
-    (ii) All practicable steps to eliminate it have been taken, but it has not been eliminated,—
+  (a) there is a significant hazard to employees at work; and
+  (b) either—the employer shall take all practicable steps to isolate it from the employees.
+    (i) there are no practicable steps that may be taken to eliminate it; or
+    (ii) all practicable steps to eliminate it have been taken, but it has not been eliminated,—
 
 ### 10 Significant hazards to employees to be minimised, and employees to be protected, where elimination and isolation impracticable
 (1) Where—
-  (a) There is a significant hazard to employees at work; and
-  (b) Either—
-    (i) There are no practicable steps that may be taken to eliminate it; or
-    (ii) All practicable steps to eliminate it have been taken, but it has not been eliminated; and
-  (c) Either—the employer shall take the steps set out in subsection (2) of this section.
-    (i) There are no practicable steps that may be taken to isolate it from the employees; or
-    (ii) All practicable steps to isolate it from the employees have been taken, but it has not been isolated,—
+  (a) there is a significant hazard to employees at work; and
+  (b) either—
+    (i) there are no practicable steps that may be taken to eliminate it; or
+    (ii) all practicable steps to eliminate it have been taken, but it has not been eliminated; and
+  (c) either—the employer shall take the steps set out in subsection (2) of this section.
+    (i) there are no practicable steps that may be taken to isolate it from the employees; or
+    (ii) all practicable steps to isolate it from the employees have been taken, but it has not been isolated,—
 (2) The steps are—
-  (a) To take all practicable steps to minimise the likelihood that the hazard will be a cause or source of harm to the employees; and
+  (a) to take all practicable steps to minimise the likelihood that the hazard will be a cause or source of harm to the employees; and
   (b) to provide, make accessible to, and ensure the use by the employees of suitable clothing and equipment to protect them from any harm that may be caused by or may arise out of the hazard; and
-  (c) To monitor the employees' exposure to the hazard; and
-  (d) To take all practicable steps to obtain the employees' consent to the monitoring of their health in relation to the hazard; and
-  (e) With their informed consent, to monitor the employees' health in relation to exposure to the hazard.
+  (c) to monitor the employees' exposure to the hazard; and
+  (d) to take all practicable steps to obtain the employees' consent to the monitoring of their health in relation to the hazard; and
+  (e) with their informed consent, to monitor the employees' health in relation to exposure to the hazard.
 (3) An employer does not comply with subsection (2)(b) by—
   (a) paying an employee an allowance or extra salary or wages instead of providing the protective clothing or equipment; or
   (b) requiring an employee to provide his or her own protective clothing or equipment as a pre-condition of employment or as a term or condition in an employment agreement.
@@ -276,35 +273,35 @@ Where—
 
 ### 11 Employees to be given results of monitoring
 (1) This section applies to the results of any monitoring of any employee or place of work if it was undertaken in compliance with this Act; and—
-  (a) If the monitoring was undertaken by or on behalf of an employer; or
-  (b) If—
-    (i) The monitoring was undertaken by or on behalf of a department (within the meaning of the State Sector Act 1988); and
-    (ii) The results have been given to an employer.
+  (a) if the monitoring was undertaken by or on behalf of an employer; or
+  (b) if—
+    (i) the monitoring was undertaken by or on behalf of a department (within the meaning of the State Sector Act 1988); and
+    (ii) the results have been given to an employer.
 (2) Subject to subsection (3) of this section, every employer shall ensure that—
-  (a) Every employee is given all results to which this section applies of monitoring of the employee (whether as an individual or as one of a number of employees) in relation to health or safety; and
-  (b) All employees who ask for them are given all results to which this section applies of general monitoring of—
-    (i) Conditions in the employee's place of work; or
-    (ii) The health or safety of employees there.
+  (a) every employee is given all results to which this section applies of monitoring of the employee (whether as an individual or as one of a number of employees) in relation to health or safety; and
+  (b) all employees who ask for them are given all results to which this section applies of general monitoring of—
+    (i) conditions in the employee's place of work; or
+    (ii) the health or safety of employees there.
 (3) Every employer shall ensure that—
-  (a) There are omitted from all results to which this section applies given to any individual employee all information that identifies, or discloses anything about, any other individual employee; and
-  (b) There are omitted from all results to which this section applies given to any group of employees all information that identifies, or discloses anything about, any employee.
+  (a) there are omitted from all results to which this section applies given to any individual employee all information that identifies, or discloses anything about, any other individual employee; and
+  (b) there are omitted from all results to which this section applies given to any group of employees all information that identifies, or discloses anything about, any employee.
 
 ### 12 Information for employees generally and health and safety representatives
 (1) Every employer shall ensure that every employee who does work of any kind, or uses plant of any kind, or deals with a substance of any kind, in a place of work has been given, and is provided with ready access to, information in a form and manner that the employee is reasonably likely to understand about—
-  (a) What to do if an emergency arises while the employee is doing work of that kind, using plant of that kind, or dealing with substances of that kind, in that place; and
-  (b) All identified hazards to which the employee is or may be exposed while doing work of that kind, using plant of that kind, or dealing with substances of that kind, in that place, and the steps to be taken to minimise the likelihood that the hazards will be a cause or source of harm to the employee; and
-  (c) All identified hazards the employee will or may create while doing work of that kind, using plant of that kind, or dealing with substances of that kind, in that place, and the steps to be taken to minimise the likelihood that the hazards will be a cause or source of harm to other people; and
-  (d) Where all necessary safety clothing, devices, equipment, and materials are kept.
+  (a) what to do if an emergency arises while the employee is doing work of that kind, using plant of that kind, or dealing with substances of that kind, in that place; and
+  (b) all identified hazards to which the employee is or may be exposed while doing work of that kind, using plant of that kind, or dealing with substances of that kind, in that place, and the steps to be taken to minimise the likelihood that the hazards will be a cause or source of harm to the employee; and
+  (c) all identified hazards the employee will or may create while doing work of that kind, using plant of that kind, or dealing with substances of that kind, in that place, and the steps to be taken to minimise the likelihood that the hazards will be a cause or source of harm to other people; and
+  (d) where all necessary safety clothing, devices, equipment, and materials are kept.
 (2) An employer must ensure that all health and safety representatives in a place of work have ready access to sufficient information about health and safety systems and health and safety issues in the place of work to enable the representatives to perform their functions effectively.
 
 **Duties of employers in relation to training and supervision**
 
 ### 13 Training and supervision
 Every employer shall take all practicable steps to ensure that every employee who does work of any kind, or uses plant of any kind, or deals with a substance of any kind, in a place of work—
-  (a) Either—such knowledge and experience of similar places, and work, plant, or substances of that kind, as to ensure that the employee's doing the work, using the plant, or dealing with the substance, is not likely to cause harm to the employee or other people; and
-    (i) Has; or
-    (ii) Is so supervised, by a person who has,—
-  (b) Is adequately trained in the safe use of all plant, objects, substances, and protective clothing and equipment that the employee is or may be required to use or handle.
+  (a) either—such knowledge and experience of similar places, and work, plant, or substances of that kind, as to ensure that the employee's doing the work, using the plant, or dealing with the substance, is not likely to cause harm to the employee or other people; and
+    (i) has; or
+    (ii) is so supervised, by a person who has,—
+  (b) is adequately trained in the safe use of all plant, objects, substances, and protective clothing and equipment that the employee is or may be required to use or handle.
 
 ### 14 Employers to involve employees in development of health and safety procedures
 [Repealed]
@@ -316,31 +313,31 @@ Every employer shall take all practicable steps to ensure that no action or inac
 
 ### 16 Duties of persons who control places of work
 (1) A person who controls a place of work (other than a home occupied by the person) must take all practicable steps to ensure that no hazard that is or arises in the place harms—
-  (a) People in the vicinity of the place (including people in the vicinity of the place solely for the purpose of recreation or leisure):
-  (b) People who are lawfully at work in the place—
-    (i) As employees of the person; or
-    (ii) As contractors engaged by the person; or
-    (iii) As subcontractors to a contractor engaged by the person; or
-    (iv) As employees of a contractor or subcontractor to whom subparagraph (ii) or subparagraph (iii) applies.
+  (a) people in the vicinity of the place (including people in the vicinity of the place solely for the purpose of recreation or leisure):
+  (b) people who are lawfully at work in the place—
+    (i) as employees of the person; or
+    (ii) as contractors engaged by the person; or
+    (iii) as subcontractors to a contractor engaged by the person; or
+    (iv) as employees of a contractor or subcontractor to whom subparagraph (ii) or subparagraph (iii) applies.
 (2) A person who controls a place of work (other than a home occupied by the person) must take all practicable steps to ensure that no hazard that is or arises in the place harms people—
-  (a) Who are in the place with the express or implied consent of the person; and
-  (b) Who—
-    (i) Have paid the person (directly or indirectly) to be there or to undertake an activity there; or
-    (ii) Are there to undertake activities that include buying or inspecting goods from whose sale the person derives or would derive (directly or indirectly) any gain or reward.
+  (a) who are in the place with the express or implied consent of the person; and
+  (b) who—
+    (i) have paid the person (directly or indirectly) to be there or to undertake an activity there; or
+    (ii) are there to undertake activities that include buying or inspecting goods from whose sale the person derives or would derive (directly or indirectly) any gain or reward.
 (3) A person who—must take all practicable steps to warn that other person of the significant hazard.
-  (a) Controls a place of work (other than a home occupied by the person); and
-  (b) Knows of any significant hazard that—
-    (i) Is in, or is likely to arise in, the place of work; and
-    (ii) Arises from work that is being carried on, or has been carried on, for gain or reward in the place of work; and
-    (iii) Would not, in the ordinary course of events, be reasonably expected to be in, or to be likely to arise in, a place of work of that type; and
-  (c) Either—
-    (i) Expressly authorises any other person to be in the place of work; or
-    (ii) Has personally received oral advice that any other person will, under the authority of any enactment, be working in the place of work; and
-  (d) Is not obliged, in relation to that other person, to comply with subsection (1) or subsection (2)—
+  (a) controls a place of work (other than a home occupied by the person); and
+  (b) knows of any significant hazard that—
+    (i) is in, or is likely to arise in, the place of work; and
+    (ii) arises from work that is being carried on, or has been carried on, for gain or reward in the place of work; and
+    (iii) would not, in the ordinary course of events, be reasonably expected to be in, or to be likely to arise in, a place of work of that type; and
+  (c) either—
+    (i) expressly authorises any other person to be in the place of work; or
+    (ii) has personally received oral advice that any other person will, under the authority of any enactment, be working in the place of work; and
+  (d) is not obliged, in relation to that other person, to comply with subsection (1) or subsection (2)—
 (4) Except in the case of the practicable steps required by this section to be taken in relation to any person described in subsection (2) or subsection (3)(c)(i), this section does not impose on any person who controls a place of work any duty in respect of any person who is in the place of work solely for the purpose of recreation or leisure.
 (5) The warning required to be given to a person to whom subsection (3)(c)(i) applies—
-  (a) Must be given to that person at the time at which the express authority to be in the place of work is given to that person; but
-  (b) If the express authority is given in respect of a group of persons or a body of persons, whether corporate or unincorporate, it is sufficient if the warning is given at that time to a representative or member of that group or body of persons.
+  (a) must be given to that person at the time at which the express authority to be in the place of work is given to that person; but
+  (b) if the express authority is given in respect of a group of persons or a body of persons, whether corporate or unincorporate, it is sufficient if the warning is given at that time to a representative or member of that group or body of persons.
 (6) The oral advice required by subsection (3)(c)(ii) must be given by the person who will be working in the place of work or by that person's employer.
 
 ### 17 Duties of self-employed people
@@ -348,8 +345,8 @@ Every self-employed person shall take all practicable steps to ensure that no ac
 
 ### 18 Duties of principals
 (1) Every principal shall take all practicable steps to ensure that—is harmed while doing any work (other than residential work) that the contractor was engaged to do.
-  (a) No employee of a contractor or subcontractor; and
-  (b) If an individual, no contractor or subcontractor,—
+  (a) no employee of a contractor or subcontractor; and
+  (b) if an individual, no contractor or subcontractor,—
 (2) Subsection (1) of this section shall be read subject to section 2(2) of this Act.
 
 ### 18A Duties of persons selling or supplying plant for use in place of work
@@ -368,8 +365,8 @@ Every self-employed person shall take all practicable steps to ensure that no ac
 
 ### 19 Duties of employees
 Every employee shall take all practicable steps to ensure—
-  (a) The employee's safety while at work (including by using suitable protective clothing and suitable protective equipment provided by the employer or, if section 10(4) applies, suitable protective clothing provided by the employee himself or herself); and
-  (b) That no action or inaction of the employee while at work causes harm to any other person.
+  (a) the employee's safety while at work (including by using suitable protective clothing and suitable protective equipment provided by the employer or, if section 10(4) applies, suitable protective clothing provided by the employee himself or herself); and
+  (b) that no action or inaction of the employee while at work causes harm to any other person.
 
 ## Part 2A — Employee participation
 
@@ -457,33 +454,33 @@ In sections 19C(1) and 19F(1), an employee means an employee who has worked for 
 ### 20 Codes of practice
 (1AA) The Minister may direct the Secretary to prepare, and submit for the Minister's approval in accordance with this section, a statement, amendment, or revocation referred to in subsection (1) that relates to a particular health and safety issue.
 (1) The Secretary may from time to time publish in the Gazette notice that the Secretary has asked the Minister to approve—
-  (a) A statement of preferred work practices or arrangements; or
-  (aa) A statement of preferred aims, arrangements, practices, or principles (or any 2 or more of those matters) for the design of plant, protective clothing, or protective equipment, of any kind or description; or
-  (ab) A statement of preferred arrangements, characteristics, components, configurations, elements, or states (or any 2 or more of those matters) for manufactured plant, manufactured protective clothing, or manufactured protective equipment, of any kind or description; or
-  (ac) A statement of preferred characteristics for any manufactured or processed substance used or capable of being used—
-    (i) In or in connection with any protective clothing or protective equipment; or
-    (ii) Otherwise for or in connection with protecting people from hazards; or
+  (a) a statement of preferred work practices or arrangements; or
+  (aa) a statement of preferred aims, arrangements, practices, or principles (or any 2 or more of those matters) for the design of plant, protective clothing, or protective equipment, of any kind or description; or
+  (ab) a statement of preferred arrangements, characteristics, components, configurations, elements, or states (or any 2 or more of those matters) for manufactured plant, manufactured protective clothing, or manufactured protective equipment, of any kind or description; or
+  (ac) a statement of preferred characteristics for any manufactured or processed substance used or capable of being used—
+    (i) in or in connection with any protective clothing or protective equipment; or
+    (ii) otherwise for or in connection with protecting people from hazards; or
   (ad) a statement of preferred practices or arrangements relating to employee participation in health and safety in the place of work; or
-  (b) The amendment or revocation of an approved code of practice.
+  (b) the amendment or revocation of an approved code of practice.
 (2) A notice that the Secretary has asked the Minister to approve a statement under subsection (1) shall include a description of the general purport of the statement; and a notice that the Secretary has asked the Minister to approve the amendment of an approved code of practice shall include a description of the general purport of the amendment.
 (3) Subject to subsection (13) of this section, if—
-  (a) At least a month has passed since the publication of a notice under subsection (1) of this section; and
-  (b) The Minister has—the Minister may, by notice in the Gazette, approve the statement, amendment, or revocation.
-    (i) Consulted all persons affected, or reasonably likely to be affected, by the statement, amendment, or revocation concerned (or representatives of those persons); and
-    (ii) Given them a reasonable time within which to comment; and—
-    (iii) Considered all written comments (from any person) received within that time,—
+  (a) at least a month has passed since the publication of a notice under subsection (1) of this section; and
+  (b) the Minister has—the Minister may, by notice in the Gazette, approve the statement, amendment, or revocation.
+    (i) consulted all persons affected, or reasonably likely to be affected, by the statement, amendment, or revocation concerned (or representatives of those persons); and
+    (ii) given them a reasonable time within which to comment; and—
+    (iii) considered all written comments (from any person) received within that time,—
 (4) A notice under subsection (3) of this section shall come into force on the later of the following days:
-  (a) The 28th day after the date of its publication in the Gazette:
-  (b) A day specified in the notice.
+  (a) the 28th day after the date of its publication in the Gazette:
+  (b) a day specified in the notice.
 (5) The publication by the Minister of a notice in the Gazette approving a statement, amendment, or revocation is conclusive proof that subsection (3)(b) of this section has been complied with in respect of the notice.
 (6) The Secretary shall ensure that at all reasonable times copies of approved codes of practice are available at every office of the Department that deals with matters relating to health and safety in employment for inspection and copying by the public.
 (7) The Secretary may charge any person a reasonable fee for—
-  (a) Providing the person with a copy of an approved code of practice; or
-  (b) Allowing the person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
+  (a) providing the person with a copy of an approved code of practice; or
+  (b) allowing the person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
 (8) Nothing in subsection (6) or subsection (7) of this section requires the Secretary to allow any person to use equipment under the Secretary's control to copy all or any part of an approved code of practice.
 (9) A Court may, in determining whether or not a person charged with failing to comply with any provision of this Act has complied with the provision, have regard to any approved code of practice that—
-  (a) Was in force at the time of the alleged failure; and
-  (b) In the form in which it was then in force, related to matters of a kind to which the provision relates.
+  (a) was in force at the time of the alleged failure; and
+  (b) in the form in which it was then in force, related to matters of a kind to which the provision relates.
 (10) In the absence of proof to the contrary, a document purporting to be an approved code of practice, or an amendment of an approved code of practice, issued by the Secretary shall in any proceedings be deemed to be an approved code of practice or an amendment of an approved code of practice.
 (11) Nothing in subsection (10) of this section limits any method of proof of an approved code of practice or an amendment of an approved code of practice.
 (12) Subject to subsection (13) of this section, an approved code of practice may incorporate, adopt, or apply, with or without modification, all or any part of any other document prepared or issued by any body or authority, including the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996.
@@ -491,55 +488,55 @@ In sections 19C(1) and 19F(1), an employee means an employee who has worked for 
   (a) adopt with modification—
     (i) any document previously approved by another Minister of the Crown; or
     (ii) any compliance document (within the meaning of the Building Act 2004); or.
-  (b) Approve any amendment of any part of a code of practice that comprises a document referred to in paragraph (a),—
+  (b) approve any amendment of any part of a code of practice that comprises a document referred to in paragraph (a),—
 
 **Regulations**
 
 ### 21 Regulations
 (1) Subject to subsection (2) of this section, the Governor-General may from time to time, on the recommendation of the Minister, by Order in Council, make regulations—
-  (a) Imposing duties relating to the health or safety of employees or other people on all or any of the following:
-    (i) Employers, and other persons who or that control places of work:
-    (ii) Employees:
-    (iii) Designers, manufacturers, sellers, and suppliers, of plant, substances, protective clothing, or protective equipment:
+  (a) imposing duties relating to the health or safety of employees or other people on all or any of the following:
+    (i) employers, and other persons who or that control places of work:
+    (ii) employees:
+    (iii) designers, manufacturers, sellers, and suppliers, of plant, substances, protective clothing, or protective equipment:
     (iv) principals, or self-employed persons:
-  (b) Providing for any other matters contemplated by, or necessary for giving full effect to, this Act.
+  (b) providing for any other matters contemplated by, or necessary for giving full effect to, this Act.
 (2) The Minister shall not recommend the making of any regulations without first consulting all persons and organisations the Minister thinks appropriate, having regard to the regulations' content.
 (3) The Minister, before recommending the making of any regulations relating to hazardous substances or new organisms, shall consult with the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996 about the contents of such regulations, and shall take into account any submissions made by that Authority.
 
 ### 22 Application of regulations
 Regulations under section 21(1)(a) of this Act may impose duties—
-  (a) On all employers or other persons who or that control places of work:
-  (b) On employers, or other persons who or that control places of work, of a particular kind or description:
-  (c) On all employees:
-  (d) On employees of a particular kind or description:
-  (e) On all manufacturers, sellers, or suppliers of plant, substances, protective clothing, or protective equipment:
-  (f) On manufacturers, sellers, or suppliers of plant, substances, protective clothing, or protective equipment, of a particular kind or description:
-  (g) On manufacturers, sellers, or suppliers, of a particular kind or description, of plant, substances, protective clothing, or protective equipment:
-  (h) In respect of places of work, plant, processes, activities, or substances, of all kinds and descriptions:
-  (i) In respect of places of work, plant, processes, activities, or substances, of a particular kind or description.
+  (a) on all employers or other persons who or that control places of work:
+  (b) on employers, or other persons who or that control places of work, of a particular kind or description:
+  (c) on all employees:
+  (d) on employees of a particular kind or description:
+  (e) on all manufacturers, sellers, or suppliers of plant, substances, protective clothing, or protective equipment:
+  (f) on manufacturers, sellers, or suppliers of plant, substances, protective clothing, or protective equipment, of a particular kind or description:
+  (g) on manufacturers, sellers, or suppliers, of a particular kind or description, of plant, substances, protective clothing, or protective equipment:
+  (h) in respect of places of work, plant, processes, activities, or substances, of all kinds and descriptions:
+  (i) in respect of places of work, plant, processes, activities, or substances, of a particular kind or description.
 
 ### 23 Other provisions relating to regulations
 (1) Regulations made under section 21(1)(a) of this Act may provide for all or any of the following matters:
-  (a) The registration, licensing, or certification of plant, and places of work:
-  (b) The recording, notification, and investigation of the occurrence in places of work of events that (whether or not any person was in fact harmed) might have caused any person serious harm:
-  (c) The notification of the use of plant, places of work, substances, or work, of a particular kind:
-  (d) The notification of the use of plant, places of work, or substances in a particular manner or for a particular purpose:
-  (e) Persons engaged in particular work or activities to hold, or employ people holding, certificates of competence or registration:
-  (f) The issue, renewal, cancellation, and suspension of certificates of competence, and the examination of applicants for certificates of competence:
-  (g) The recognition and withdrawal of recognition of organisations issuing certificates empowering other organisations, and individuals, to undertake functions and tasks:
-  (h) The issue, renewal, cancellation, and suspension by recognised organisations of certificates empowering other organisations, and individuals, to undertake functions and tasks:
-  (i) The undertaking of functions and tasks by the holders of certificates issued by recognised organisations:
-  (j) The payment of fees in respect of—
-    (i) Matters provided for in this Act; and
-    (ii) Acts performed and services provided under this Act:
-  (k) The granting of exemption from any obligation or requirement under the regulations:
-  (l) The approval, and withdrawal of approval, of testing institutions:
-  (m) The procedures of inquiries under section 27 of this Act:
-  (n) The provision of accommodation for employees, contractors, subcontractors, or employees of contractors or subcontractors.
+  (a) the registration, licensing, or certification of plant, and places of work:
+  (b) the recording, notification, and investigation of the occurrence in places of work of events that (whether or not any person was in fact harmed) might have caused any person serious harm:
+  (c) the notification of the use of plant, places of work, substances, or work, of a particular kind:
+  (d) the notification of the use of plant, places of work, or substances in a particular manner or for a particular purpose:
+  (e) persons engaged in particular work or activities to hold, or employ people holding, certificates of competence or registration:
+  (f) the issue, renewal, cancellation, and suspension of certificates of competence, and the examination of applicants for certificates of competence:
+  (g) the recognition and withdrawal of recognition of organisations issuing certificates empowering other organisations, and individuals, to undertake functions and tasks:
+  (h) the issue, renewal, cancellation, and suspension by recognised organisations of certificates empowering other organisations, and individuals, to undertake functions and tasks:
+  (i) the undertaking of functions and tasks by the holders of certificates issued by recognised organisations:
+  (j) the payment of fees in respect of—
+    (i) matters provided for in this Act; and
+    (ii) acts performed and services provided under this Act:
+  (k) the granting of exemption from any obligation or requirement under the regulations:
+  (l) the approval, and withdrawal of approval, of testing institutions:
+  (m) the procedures of inquiries under section 27 of this Act:
+  (n) the provision of accommodation for employees, contractors, subcontractors, or employees of contractors or subcontractors.
 (2) Regulations made under section 21(1)(a) of this Act may incorporate by reference all or any part of any—
   (a) New Zealand Standard:
-  (b) Standard, requirement, recommended practice, rule, statute, or regulation, of any foreign government or organisation:
-  (c) Document published by or by the authority of the Government of New Zealand.
+  (b) standard, requirement, recommended practice, rule, statute, or regulation, of any foreign government or organisation:
+  (c) document published by or by the authority of the Government of New Zealand.
 (3) Any material incorporated in regulations by reference shall be deemed for all purposes to form part of the regulations; but any amendment made to the material after the commencement of the regulations shall not have effect until regulations have been made incorporating the amendment into the regulations.
 (4) A copy of all material incorporated in regulations by reference shall be made available at the Head Office of the Department for inspection by the public free of charge.
 (5) Regulations made under section 21(1)(a) of this Act may impose prohibitions.
@@ -548,8 +545,8 @@ Regulations under section 21(1)(a) of this Act may impose duties—
 
 ### 24 Saving of regulations made under certain repealed enactments
 Regulations that—may be amended or revoked by regulations made under this Act; but until so revoked shall continue in force as if that enactment had not been repealed.
-  (a) Were made under an enactment repealed by this Act (whether alone or in conjunction with any other enactment or enactments); and
-  (b) Have not been revoked by this Act,—
+  (a) were made under an enactment repealed by this Act (whether alone or in conjunction with any other enactment or enactments); and
+  (b) have not been revoked by this Act,—
 
 ## Part 4 — General provisions
 
@@ -557,10 +554,10 @@ Regulations that—may be amended or revoked by regulations made under this Act;
 
 ### 25 Recording and notification of accidents and serious harm
 (1) Every employer shall maintain (in the prescribed form) a register of accidents and serious harm; and shall record in the register the prescribed particulars relating to—
-  (a) Every accident that harmed (or, as the case may be, might have harmed)—
-    (i) Any employee at work; or
-    (ii) Any person in a place of work controlled by the employer; and
-  (b) Every occurrence of serious harm to an employee at work, or as a result of any hazard to which the employee was exposed while at work, in the employment of the employer.
+  (a) every accident that harmed (or, as the case may be, might have harmed)—
+    (i) any employee at work; or
+    (ii) any person in a place of work controlled by the employer; and
+  (b) every occurrence of serious harm to an employee at work, or as a result of any hazard to which the employee was exposed while at work, in the employment of the employer.
 (1A) Every self-employed person must maintain (in the prescribed form) a register of accidents and serious harm, and must record in the register the prescribed particulars relating to—
   (a) every accident that harmed (or, as the case may be, might have harmed) the self-employed person at work; and
   (b) every accident resulting from the work of the self-employed person that harmed (or, as the case may be, might have harmed) any person; and
@@ -577,8 +574,8 @@ Regulations that—may be amended or revoked by regulations made under this Act;
     (ii) as a result of any hazard to which the self-employed person was exposed while at work and contracted to the principal.
 (1C) Subsection (1B) does not require the occupier of a home to maintain a register or record accidents or serious harm that occur to self-employed persons at work in the home.
 (2) Subsection (3) of this section applies to—
-  (a) Serious harm in respect of which an employer, self-employed person, or principal is required by this section to record particulars; and
-  (b) Accidents of a kind or description required by regulations made under section 21 of this Act to be notified to the Secretary.
+  (a) serious harm in respect of which an employer, self-employed person, or principal is required by this section to record particulars; and
+  (b) accidents of a kind or description required by regulations made under section 21 of this Act to be notified to the Secretary.
 (3) If there occurs any serious harm or accident to which this subsection applies, the employer, self-employed person, or principal concerned must,—
   (a) as soon as possible after the occurrence becomes known to the employer, self-employed person, or principal, notify the Secretary of the occurrence; and
   (b) within 7 days after the occurrence, or, if the occurrence is not known to the employer, self-employed person, or principal within that period, as soon as possible after it becomes known, give the Secretary written notice, in the prescribed manner, of the circumstances of the occurrence.
@@ -593,13 +590,13 @@ The Secretary must, as soon as practicable after he or she is notified of an acc
 
 ### 26 No interference at accident scene
 (1) Where a person is seriously harmed while at work, no person shall, unless authorised to do so by an inspector, remove or in any way interfere with or disturb any wreckage, article, or thing related to the incident except to the extent necessary—
-  (a) To save the life of, prevent harm to, or relieve the suffering of, any person; or
-  (b) To maintain the access of the general public to an essential service or utility; or
-  (c) To prevent serious damage to or serious loss of property.
+  (a) to save the life of, prevent harm to, or relieve the suffering of, any person; or
+  (b) to maintain the access of the general public to an essential service or utility; or
+  (c) to prevent serious damage to or serious loss of property.
 (2) Subsection (1) of this section does not apply where a person is seriously harmed by—
-  (a) An accident involving a motor vehicle on a public highway; or
-  (b) An accident being investigated under Part 8 of the Shipping and Seamen Act 1952, the Armed Forces Discipline Act 1971, the Civil Aviation Act 1990, the Transport Accident Investigation Commission Act 1990, the Electricity Act 1992, or the Gas Act 1992; or
-  (c) An accident being investigated by a member of the Police.
+  (a) an accident involving a motor vehicle on a public highway; or
+  (b) an accident being investigated under Part 8 of the Shipping and Seamen Act 1952, the Armed Forces Discipline Act 1971, the Civil Aviation Act 1990, the Transport Accident Investigation Commission Act 1990, the Electricity Act 1992, or the Gas Act 1992; or
+  (c) an accident being investigated by a member of the Police.
 
 ### 27 Inquiry into cause of accident
 (1) If an accident happens at any place of work, or if any person is seriously harmed while at work, the Minister may, after consultation with the Minister of the Crown who is responsible for the Department for Courts, direct an inquiry to be held before a District Court Judge.
@@ -653,19 +650,19 @@ If so requested by a coroner, an inspector shall give the coroner a written repo
 
 ### 30 Functions of inspectors
 The functions of an inspector are—
-  (a) To help employers, employees, and other persons to improve safety at places of work, and the safety of people at work, by providing information and education; and
-  (b) To ascertain whether or not this Act has been, is being, or is likely to be complied with; and
-  (c) To take all reasonable steps to ensure that this Act is being complied with; and
-  (d) All other functions conferred on inspectors by this Act or any other enactment.
+  (a) to help employers, employees, and other persons to improve safety at places of work, and the safety of people at work, by providing information and education; and
+  (b) to ascertain whether or not this Act has been, is being, or is likely to be complied with; and
+  (c) to take all reasonable steps to ensure that this Act is being complied with; and
+  (d) all other functions conferred on inspectors by this Act or any other enactment.
 
 ### 31 Powers of entry and inspection
 (1) For the purpose of performing any function as an inspector, any inspector may at any reasonable time enter any place of work and—
-  (a) Conduct examinations, tests, inquiries, and inspections, or direct the employer or any other person who or that controls the place of work, to conduct examinations, tests, inquiries, or inspections:
-  (b) Be accompanied and assisted by any other people and bring into the place of work any equipment necessary to carry out the inspector's functions:
-  (c) Take photographs and measurements and make sketches and recordings:
-  (d) Require the employer, or any other person who or that controls the place of work, to ensure that the place of work or any place or thing in the place of work specified by the inspector is not disturbed for a reasonable period pending any examination, test, inquiry, or inspection:
-  (e) Require the employer, or any other person who or that controls the place of work, to produce documents or information relating to the place of work or the employees who work there and permit the inspector to examine and make copies or extracts of the documents and information:
-  (f) Require the employer, or any other person who or that controls the place of work, to make or provide statements, in any form and manner the inspector specifies, about conditions, material, or equipment that affect the safety or health of employees who work there.
+  (a) conduct examinations, tests, inquiries, and inspections, or direct the employer or any other person who or that controls the place of work, to conduct examinations, tests, inquiries, or inspections:
+  (b) be accompanied and assisted by any other people and bring into the place of work any equipment necessary to carry out the inspector's functions:
+  (c) take photographs and measurements and make sketches and recordings:
+  (d) require the employer, or any other person who or that controls the place of work, to ensure that the place of work or any place or thing in the place of work specified by the inspector is not disturbed for a reasonable period pending any examination, test, inquiry, or inspection:
+  (e) require the employer, or any other person who or that controls the place of work, to produce documents or information relating to the place of work or the employees who work there and permit the inspector to examine and make copies or extracts of the documents and information:
+  (f) require the employer, or any other person who or that controls the place of work, to make or provide statements, in any form and manner the inspector specifies, about conditions, material, or equipment that affect the safety or health of employees who work there.
 (1A) An inspector may do any of the things referred to in subsection (1), whether or not—
   (a) the inspector or the person whom the inspector is dealing with is in the place of work; or
   (b) the place of work is still a place of work; or
@@ -677,25 +674,25 @@ The functions of an inspector are—
     (ii) in the place where the inspector is; or
     (iii) in another place.
 (2) Notwithstanding subsection (1) or subsection (1A) of this section, an inspector shall not enter a place of work—except with the consent of an occupier or pursuant to a warrant issued under subsection (3) of this section.
-  (a) That is, or is within, a home; or
-  (b) Through a home,—
+  (a) that is, or is within, a home; or
+  (b) through a home,—
 (3) A District Court Judge who, on application made on oath, is satisfied that there is reasonable ground for believing that a home—may issue to an inspector named in it a warrant to enter any part of the home that is, or is the only practicable means through which the inspector may enter, the place of work.
-  (a) Is a place of work or has a place of work inside it; or
-  (b) Is the only practicable means through which a place of work may be entered,—
+  (a) is a place of work or has a place of work inside it; or
+  (b) is the only practicable means through which a place of work may be entered,—
 (4) Notwithstanding subsection (1) of this section, an inspector shall not enter a defence area (within the meaning of section 2(1) of the Defence Act 1990) except in accordance with a written agreement between the Secretary and the Chief of Defence Force entered into for the purposes of this section and for the time being in force.
 (5) Notwithstanding subsection (1)(e) of this section, if all or any part of a document, or of any information, relates to any person's health status and identifies the person, no inspector shall, without the person's consent,—the document or information (or that part of the document or information).
-  (a) Require any person to produce; or
-  (b) Examine; or
-  (c) Make any copy or extract from,—
+  (a) require any person to produce; or
+  (b) examine; or
+  (c) make any copy or extract from,—
 (6) No person is required on examination or inquiry under this section to give any answer or information tending to incriminate the person.
 
 ### 32 Inspectors to prove identity
 (1) Every inspector who enters any place of work under the authority of this Act shall, on first entering and, if requested, at any later time, produce to the person apparently in charge the inspector's certificate of appointment.
 (2) Where an inspector enters any place of work under the authority of this Act and is unable, despite reasonable efforts, to find any person apparently in charge, the inspector shall before leaving the place of work leave a written notice stating—
-  (a) The inspector's identity; and
-  (b) The address of a place where the inspector may be contacted; and
-  (c) The date and time of entry; and
-  (d) The inspector's reasons for entering.
+  (a) the inspector's identity; and
+  (b) the address of a place where the inspector may be contacted; and
+  (c) the date and time of entry; and
+  (d) the inspector's reasons for entering.
 
 ### 33 Powers to take samples and other objects and things
 (1) An inspector who enters a place of work or a former place of work under section 31 may take or remove a sample of a substance or thing for analysis, or seize and retain any material, substance, or thing, for the purpose of—
@@ -704,14 +701,14 @@ The functions of an inspector are—
   (c) determining whether or not this Act has been, is being, or is likely to be complied with; or
   (d) gathering evidence to support the taking of enforcement action.
 (2) Where an inspector removes or retains a sample, material, substance, or thing under subsection (1) of this section, the following provisions shall apply:
-  (a) As soon as it is reasonable after removing or retaining it, the inspector shall give the employer or other person apparently in charge of the place of work concerned written notice of—
-    (i) What has been (or is being) removed or retained; and
-    (ii) Why it has been (or is being) removed or retained; and
-    (iii) Where it will be kept in the meantime:
-  (b) Subject to paragraph (c) of this subsection, within 7 days of removing or retaining it, the inspector shall give the employer or other person apparently in charge of the place of work concerned written notice of whether the inspector intends to return it or destroy it:
-  (c) Where it is practicable to do so the sample, material, substance, or thing shall be returned to its owner—
-    (i) When it is no longer required for any purpose under this Act (or any other enactment); or
-    (ii) If a Court earlier orders its return.
+  (a) as soon as it is reasonable after removing or retaining it, the inspector shall give the employer or other person apparently in charge of the place of work concerned written notice of—
+    (i) what has been (or is being) removed or retained; and
+    (ii) why it has been (or is being) removed or retained; and
+    (iii) where it will be kept in the meantime:
+  (b) subject to paragraph (c) of this subsection, within 7 days of removing or retaining it, the inspector shall give the employer or other person apparently in charge of the place of work concerned written notice of whether the inspector intends to return it or destroy it:
+  (c) where it is practicable to do so the sample, material, substance, or thing shall be returned to its owner—
+    (i) when it is no longer required for any purpose under this Act (or any other enactment); or
+    (ii) if a Court earlier orders its return.
 (3) This section does not allow an inspector to take a sample from a person's body unless the inspector has that person's informed consent to the taking of the sample.
 
 **Departmental medical practitioners**
@@ -727,62 +724,62 @@ For the purposes of this Act, any departmental medical practitioner may at any r
 
 ### 36 Departmental medical practitioners may require medical examinations of employees
 If satisfied that—
-  (a) Any employee is, has been, or may have been, exposed to a significant hazard while at work; and
-  (b) By examining the employee or causing a sample taken from the employee to be tested or analysed, it is likely to be possible to determine—a departmental medical practitioner may, by notice in writing to the employee, require the employee—
-    (i) Whether or not the employee is or has been exposed to the hazard; or
-    (ii) The extent to which the employee is or has been exposed to the hazard; or
-    (iii) The extent to which the employee's health has been or may have been affected by exposure to the hazard,—
-  (c) To—
-    (i) Be examined by a medical practitioner; and
-    (ii) Provide to the departmental medical practitioner a certificate from the medical practitioner as to the employee's fitness for work; or
-  (d) To—
-    (i) Allow a person (or person of a kind) specified in the notice to take from the employee a sample of a kind specified in the notice; and
-    (ii) Have the sample tested or analysed by a person (or person of a kind) specified in the notice in a manner specified in the notice; and
-    (iii) Provide the departmental medical practitioner with a written report from the person who tests or analyses the sample on the results of the tests and analyses done; or
-  (e) Both.
+  (a) any employee is, has been, or may have been, exposed to a significant hazard while at work; and
+  (b) by examining the employee or causing a sample taken from the employee to be tested or analysed, it is likely to be possible to determine—a departmental medical practitioner may, by notice in writing to the employee, require the employee—
+    (i) whether or not the employee is or has been exposed to the hazard; or
+    (ii) the extent to which the employee is or has been exposed to the hazard; or
+    (iii) the extent to which the employee's health has been or may have been affected by exposure to the hazard,—
+  (c) to—
+    (i) be examined by a medical practitioner; and
+    (ii) provide to the departmental medical practitioner a certificate from the medical practitioner as to the employee's fitness for work; or
+  (d) to—
+    (i) allow a person (or person of a kind) specified in the notice to take from the employee a sample of a kind specified in the notice; and
+    (ii) have the sample tested or analysed by a person (or person of a kind) specified in the notice in a manner specified in the notice; and
+    (iii) provide the departmental medical practitioner with a written report from the person who tests or analyses the sample on the results of the tests and analyses done; or
+  (e) both.
 
 ### 37 Departmental medical practitioners may suspend employees in certain cases
 (1) If satisfied on reasonable grounds that—the departmental medical practitioner may, by written notice to the employee (a copy of which the departmental medical practitioner shall give to the employer),—
-  (a) An employee—
-    (i) Is, has been, or may have been, exposed to a significant hazard while at work; and
-    (ii) Has failed or refused, without reasonable cause, to comply with a notice under section 36 of this Act; or
-  (b) An employee has been so harmed by exposure to a significant hazard while at work that the employee should not continue to be exposed to the hazard,—
-  (c) Require the employee to cease doing anything specified in the notice that, in the departmental medical practitioner's opinion, constitutes, causes, or enhances the employee's exposure to the hazard; and
-  (d) Require the employer to ensure that the employee ceases doing the thing or things specified in the notice.
+  (a) an employee—
+    (i) is, has been, or may have been, exposed to a significant hazard while at work; and
+    (ii) has failed or refused, without reasonable cause, to comply with a notice under section 36 of this Act; or
+  (b) an employee has been so harmed by exposure to a significant hazard while at work that the employee should not continue to be exposed to the hazard,—
+  (c) require the employee to cease doing anything specified in the notice that, in the departmental medical practitioner's opinion, constitutes, causes, or enhances the employee's exposure to the hazard; and
+  (d) require the employer to ensure that the employee ceases doing the thing or things specified in the notice.
 (2) Every employee and employer shall comply with a suspension notice.
 
 ### 38 Administrative provisions
 Sections 44 to 48, 57, and 58 of this Act shall have effect in relation to departmental medical practitioners and suspension notices as if—
-  (a) Every reference to an inspector is a reference to a departmental medical practitioner; and
-  (b) Every reference to a notice is a reference to a suspension notice.
+  (a) every reference to an inspector is a reference to a departmental medical practitioner; and
+  (b) every reference to a notice is a reference to a suspension notice.
 
 **Improvement and prohibition notices**
 
 ### 39 Inspectors may issue improvement notices
 (1) An inspector who believes on reasonable grounds that any person is failing to comply with any provision of this Act may give the person written notice to comply with the provision.
 (2) An inspector who believes that—may give the person written notice to comply with the provision.
-  (a) Any person has failed to comply with any provision of this Act; and
-  (b) The failure (or a similar failure) is likely to occur again,—
+  (a) any person has failed to comply with any provision of this Act; and
+  (b) the failure (or a similar failure) is likely to occur again,—
 (3) An improvement notice shall state that the inspector concerned believes that the person to whom or which it relates is failing, or has failed and is likely to fail again, to comply with a provision of this Act, and shall specify—
-  (a) The provision; and
-  (b) The inspector's reasons for believing that the person is failing, or has failed and is likely to fail again, to comply with it; and
-  (c) The nature of the failure or likely failure; and
-  (d) A day before which compliance is to be completed.
+  (a) the provision; and
+  (b) the inspector's reasons for believing that the person is failing, or has failed and is likely to fail again, to comply with it; and
+  (c) the nature of the failure or likely failure; and
+  (d) a day before which compliance is to be completed.
 (4) An improvement notice may specify steps that could be taken to ensure compliance with the provision concerned.
 (5) Every person to whom or to which an improvement notice is given or posted shall comply with it.
 
 ### 40 How improvement notices to be given
 (1) An improvement notice may be—
-  (a) Given to a person to whom or which it relates; or
-  (b) Given to a person apparently in charge of any activity, building, place of work, plant, process, situation, structure, or substance to which the provision of this Act that the inspector believes has not been complied with applies; or
-  (c) Posted to any such person by registered letter.
+  (a) given to a person to whom or which it relates; or
+  (b) given to a person apparently in charge of any activity, building, place of work, plant, process, situation, structure, or substance to which the provision of this Act that the inspector believes has not been complied with applies; or
+  (c) posted to any such person by registered letter.
 (2) An improvement notice posted under subsection (1)(c) of this section shall be deemed to have been received on the 7th day after it was posted.
 
 ### 41 Inspectors may issue prohibition notices
 (1) An inspector who believes that, by virtue of a failure to comply with a provision of this Act, there is a likelihood of serious harm to any person may give written notice to stop the carrying on, continuing, operating, storing, transporting, or use of the activity, building, place of work, plant, process, situation, structure, or substance, that the inspector believes to constitute the hazard that is likely to cause the harm concerned until an inspector is satisfied that measures sufficient to eliminate the hazard, or minimise the likelihood that the hazard will be a source of harm, have been taken.
 (2) A prohibition notice shall specify—
-  (a) The hazard to which it relates; and
-  (b) The inspector's reasons for believing that it is likely to cause the harm concerned.
+  (a) the hazard to which it relates; and
+  (b) the inspector's reasons for believing that it is likely to cause the harm concerned.
 (3) A prohibition notice may require the withdrawal of all employees of a specified kind or description except such employees as may be necessary to deal with the hazard.
 (4) A prohibition notice may specify steps that could be taken to eliminate the hazard concerned or minimise the likelihood that the hazard will be a source of harm.
 
@@ -798,10 +795,10 @@ An inspector's notice may be addressed to any person under the person's legal na
 
 ### 45 Matters may be completed by different inspectors
 (1) If an inspector has given any notice, authorisation, or consent under this Act (whether or not subject to conditions) any inspector may—
-  (a) Take further steps on or in relation to it; or
-  (b) Revoke or withdraw it; or
-  (c) From time to time vary it; or
-  (d) Revoke, or from time to time vary, any condition on or subject to which it was given.
+  (a) take further steps on or in relation to it; or
+  (b) revoke or withdraw it; or
+  (c) from time to time vary it; or
+  (d) revoke, or from time to time vary, any condition on or subject to which it was given.
 (2) This section does not apply to an infringement notice.
 
 **Appeals**
@@ -811,8 +808,8 @@ An inspector's notice may be addressed to any person under the person's legal na
 (2) The Court shall inquire into the circumstances of the notice or variation, and may vary, rescind, or confirm it.
 (3) An appeal against an inspector's notice or variation does not operate as a stay of the notice or variation.
 (4) Subsections (1) to (3) of this section shall have effect in respect of—as if it is an inspector's notice.
-  (a) Any notice given by an inspector under regulations made under this Act; and
-  (b) Any failure or refusal by an inspector to give or allow an exemption, suspension, or variation provided for in regulations made under this Act,—
+  (a) any notice given by an inspector under regulations made under this Act; and
+  (b) any failure or refusal by an inspector to give or allow an exemption, suspension, or variation provided for in regulations made under this Act,—
 
 **Hazard notices**
 
@@ -839,27 +836,27 @@ An inspector's notice may be addressed to any person under the person's legal na
 
 ### 47 Duty of assistance
 Every person on whom or which any duty is imposed by this Act—the means required by any inspector for an entry, inspection, examination, inquiry, or the exercise of any other power, under this Act in relation to the duty.
-  (a) Shall at all reasonable times furnish; and
-  (b) Shall ensure that at all reasonable times the person's agents and employees furnish,—
+  (a) shall at all reasonable times furnish; and
+  (b) shall ensure that at all reasonable times the person's agents and employees furnish,—
 
 ### 48 Obstruction, etc
 No person shall without reasonable cause—any inspector while the inspector is lawfully exercising or performing any power, function or duty under this Act.
-  (a) Obstruct, delay, hinder, or deceive; or
-  (b) Cause to be obstructed, delayed, hindered, or deceived,—
+  (a) obstruct, delay, hinder, or deceive; or
+  (b) cause to be obstructed, delayed, hindered, or deceived,—
 
 **Offences and penalties**
 
 ### 49 Offences likely to cause serious harm
 (1) Where—the person commits an offence against this Act.
-  (a) A person who, knowing that any action is reasonably likely to cause serious harm to any person, takes the action; and
-  (b) The action is contrary to a provision of this Act,—
+  (a) a person who, knowing that any action is reasonably likely to cause serious harm to any person, takes the action; and
+  (b) the action is contrary to a provision of this Act,—
 (2) Where—the person commits an offence against this Act.
-  (a) A person who, knowing that failure to take any action is reasonably likely to cause serious harm to any person, fails to take the action; and
-  (b) The person is required by this Act to take the action,—
+  (a) a person who, knowing that failure to take any action is reasonably likely to cause serious harm to any person, fails to take the action; and
+  (b) the person is required by this Act to take the action,—
 (3) Every person who commits an offence under this section is liable on conviction to—
   (a) imprisonment for a term of not more than 2 years; or
   (b) a fine of not more than $500,000; or
-  (c) Both.
+  (c) both.
 (4) A person charged with an offence under this section may be convicted of an offence against section 50 of this Act as if the person had been charged under that section.
 
 ### 50 Other offences
@@ -871,8 +868,8 @@ No person shall without reasonable cause—any inspector while the inspector is 
 
 ### 51 Actions taken to prevent harm
 Notwithstanding sections 49 and 50 of this Act, where any employee harms any person by taking any action necessary for the protection of that person or any other person from harm,—
-  (a) The employee does not thereby commit an offence against section 19 of this Act; and
-  (b) The employee's employer does not thereby commit an offence against section 15 of this Act.
+  (a) the employee does not thereby commit an offence against section 19 of this Act; and
+  (b) the employee's employer does not thereby commit an offence against section 15 of this Act.
 
 ### 51A Sentencing criteria
 (1) This section applies when the Court is determining how to sentence or otherwise deal with a person convicted of an offence under this Act.
@@ -954,8 +951,8 @@ Nothing in this Act prevents the taking of enforcement action by an inspector or
 ### 55 Other provisions relating to offences
 (1) An information laid by an inspector in respect of any offence against this Act may be proceeded with and conducted by the informant, any other inspector, or any other person permitted by the Court to proceed with and conduct it.
 (2) For the purposes of subsection (1) of this section, no person shall be called on to prove that—
-  (a) The person is an inspector; or
-  (b) An information was laid by an inspector.
+  (a) the person is an inspector; or
+  (b) an information was laid by an inspector.
 (3) In any proceedings for an offence against this Act in respect of a duty imposed by this Act on employers or persons who control places of work, it is enough to state the name or title under which a person who or that is ostensibly an employer or such a person is usually known or appears to carry on business; and the Court may from time to time amend the indictment or information as to the actual name of the defendant.
 (3A) Subsection (3) is subject to section 3(2).
 (4) In addition to any penalty imposed, a Court may require a person convicted of an offence against this Act to remedy any matter in respect of which the person was convicted.
@@ -1058,7 +1055,7 @@ The Secretary must pay all infringement fees received into the Crown Bank Accoun
 ### 56I Insurance against fines unlawful and of no effect
 (1) To the extent that an insurance policy or contract of insurance indemnifies or purports to indemnify a person for the person's liability to pay a fine or an infringement fee under this Act,—
   (a) the policy or contract is of no effect; and
-  (b) No court or tribunal has jurisdiction to grant relief in respect of the policy or contract, whether under section 7 of the Illegal Contracts Act 1970 or otherwise.
+  (b) no court or tribunal has jurisdiction to grant relief in respect of the policy or contract, whether under section 7 of the Illegal Contracts Act 1970 or otherwise.
 (2) A person must not—
   (a) enter into, or offer to enter into, a policy or contract described in subsection (1); or
   (b) indemnify, or offer to indemnify, another person for the other person's liability to pay a fine or an infringement fee under this Act; or
@@ -1077,8 +1074,8 @@ Every document purporting to be an inspector's notice shall be received in evide
 
 ### 58 Personation of inspectors
 No person shall—
-  (a) Personate the inspector named in any certificate of appointment as an inspector; or
-  (b) Falsely pretend to be an inspector.
+  (a) personate the inspector named in any certificate of appointment as an inspector; or
+  (b) falsely pretend to be an inspector.
 
 **Funding of administration**
 
@@ -1087,15 +1084,15 @@ No person shall—
   - **the applicable Act** means the Injury Prevention, Rehabilitation, and Compensation Act 2001
   - **earner** , , , and have the same meanings as in section 6 of the applicable Act
   - **funding levy** means the levy required to be paid by subsection (2)
-  - **Residual Claims levy** means the levy payable under section 193 of the applicable Act.
+  - **Work Account levy** means the levy payable under section 168, 168A, 168B, or 211 of the applicable Act.
 (2) For the purpose of recovering the expected cost to the Crown of the administration of this Act, there is payable—
   (a) by every employer, on the amount of earnings paid or deemed to have been paid by the employer to the employer's employees, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
   (b) by every earner who has earnings as a self-employed person, on the amount of earnings as a self-employed person derived or deemed to have been derived by the earner, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act; and
   (c) by every shareholder-employee to whom section RD 3(2) to (4) of the Income Tax Act 2007 applies, on the amount of earnings derived or deemed to have been derived by the shareholder-employee, a levy at a rate or rates prescribed by regulations made, on the recommendation of the Minister, under this Act.
-(3) The funding levy must be added to, and is deemed part of, the Residual Claims levy; and—
-  (a) the funding levy is payable, collected, and remitted, and penalties are payable in respect of it, as if it were the Residual Claims levy; and
-  (b) the Corporation and the Commissioner of Inland Revenue have all the powers in respect of the funding levy that they have in respect of the Residual Claims levy; and
-  (c) the Commissioner of Inland Revenue is not required to refer separately to or account separately for, or identify, any funding levy in performing his or her functions in relation to the Residual Claims levy or the funding levy.
+(3) The funding levy must be added to, and is deemed part of, the Work Account levy; and—
+  (a) the funding levy is payable, collected, and remitted, and penalties are payable in respect of it, as if it were the Work Account levy; and
+  (b) the Corporation and the Commissioner of Inland Revenue have all the powers in respect of the funding levy that they have in respect of the Work Account levy; and
+  (c) the Commissioner of Inland Revenue is not required to refer separately to or account separately for, or identify, any funding levy in performing his or her functions in relation to the Work Account levy or the funding levy.
 (4) The Corporation must, by the 20th day of the month after the month in which the Corporation receives any funding levy from the Commissioner of Inland Revenue, pay that funding levy to the Secretary.
 (5) The Corporation may charge the Secretary a fee for collecting the funding levy.
 (6) The Secretary must pay into the Crown Bank Account all of the funding levy the Corporation pays to the Secretary.
@@ -1122,24 +1119,6 @@ An inspector who, in the course of the inspector's duties, discovers anything th
 (5)
 
 ## Schedule 1 — Serious harm
-
-### 1
-Any of the following conditions that amounts to or results in permanent loss of bodily function, or temporary severe loss of bodily function: respiratory disease, noise-induced hearing loss, neurological disease, cancer, dermatalogical disease, communicable disease, musculoskeletal disease, illness caused by exposure to infected material, decompression sickness, poisoning, vision impairment, chemical or hot-metal burn of eye, penetrating wound of eye, bone fracture, laceration, crushing.
-
-### 2
-Amputation of body part.
-
-### 3
-Burns requiring referral to a specialist medical practitioner or specialist outpatient clinic.
-
-### 4
-Loss of consciousness from lack of oxygen.
-
-### 5
-Loss of consciousness, or acute illness requiring treatment by a medical practitioner, from absorption, inhalation, or ingestion, of any substance.
-
-### 6
-Any harm that causes the person harmed to be hospitalised for a period of 48 hours or more commencing within 7 days of the harm's occurrence.
 
 ## Schedule 1A — Employee participation system
 
@@ -1199,68 +1178,6 @@ The following functions of health and safety representatives are examples of fun
 
 ## Schedule 2 — Consequential amendments
 
-| Enactment | Amendment |
-| --- | --- |
-| 1950, No 52—The Machinery Act 1950 (RS Vol 18, p 409) | By repealing the definition in s 2 of the terms boiler, crane, hoist, lift, lifting machine, lifting tackle, lifting vehicle, noise, and winding engine. |
-| 1950, No 53—The Boilers, Lifts, and Cranes Act 1950 (RS Vol 1, p 377) | By repealing the definitions in s 2(1) of the terms crane and lift. |
-| 1975, No 122—The Disabled Persons Community Welfare Act 1975 (RS Vol 26, p 143) | By repealing paragraphs (z) and (za) of section 25(4) (as substituted by section 92(1) of the Building Act 1991), and substituting the following paragraphs:zOther buildings, premises, or facilities where 10 or more people work, whether for gain or reward or otherwise:zaOther buildings, premises, or facilities to which the public are admitted, whether on payment or otherwise:. |
-| 1983, No 143—The Wages Protection Act 1983 | By inserting, after section 12, the following section:12ANo premium to be charged for employment1No employer shall seek or receive any premium in respect of the employment of any person, whether the premium is sought or received from the person employed or proposed to be employed or from any other person.2Where an employer receives any amount of money in contravention of subsection (1) of this section, whether by way of deduction from wages or otherwise, then, irrespective of any penalty to which the employer thereby becomes liable, the person by whom the money was paid or, as the case may be, from whose wages it was deducted, may recover that amount from the employer as a debt due to the person; and civil proceedings for the recovery of the amount may be instituted in the Employment Tribunal by the person or, notwithstanding any disability to which the person is subject, by a Labour Inspector designated under section 143(1) of the Employment Contracts Act 1991 on behalf of the person.3Any such proceedings instituted by any Labour Inspector may be continued or conducted by the same or any other Labour Inspector. |
-
 ## Schedule 3 — Enactments repealed
 
 ## Schedule 4 — Orders in Council and notices revoked
-
-| Title | Statutory Regulations Serial Number |
-| --- | --- |
-| The Construction Regulations 1961 | 1961/5 |
-| The Agricultural Workers Act Commencement Order 1963 | 1963/78 |
-| The Agricultural Workers Accommodation Regulations 1963 | 1963/79 |
-| The Shearers Act Commencement Order 1963 | 1963/82 |
-| The Shearers Regulations 1963 | 1963/83 |
-| The Construction Regulations 1961, Amendment No 1 | 1965/117 |
-| The Construction Regulations 1961, Amendment No 2 | 1965/186 |
-| The Cranes Exemption Order 1966 | 1966/207 |
-| The Construction Regulations 1961, Amendment No 3 | 1967/269 |
-| The Boilers, Lifts, and Cranes Exemption Notice 1968 | 1968/1 |
-| The Boilers (Gas Pipelines) Exemption Order 1969 | 1969/6 |
-| The Construction Regulations 1961, Amendment No 4 | 1969/45 |
-| The Construction Regulations 1961, Amendment No 5 | 1970/317 |
-| The Boilers and Machinery Exemption Order 1971 | 1971/13 |
-| The Construction Regulations 1961, Amendment No 6 | 1971/187 |
-| The Mining (Safety) Regulations 1973 | 1973/82 |
-| The Woodworking Machinery Regulations 1973 | 1973/85 |
-| The Construction Regulations 1961, Amendment No 7 | 1974/215 |
-| The Construction Regulations 1961, Amendment No 8 | 1975/209 |
-| The Shearers Regulations 1963, Amendment No 1 | 1975/220 |
-| The Agricultural Workers Accommodation Regulations 1963, Amendment No 1 | 1975/246 |
-| The Agricultural Workers (Market Gardens) Order 1976 | 1976/201 |
-| The Agricultural Workers (Tobacco Growers) Order 1976 | 1976/302 |
-| The Agricultural Workers (Dairy Farms) Order 1977 | 1977/32 |
-| The Agricultural Workers (Farms and Stations) Wages Order 1977 | 1977/33 |
-| The Agricultural Workers (Orchards and Vineyards) Order 1977 | 1977/218 |
-| The Construction Regulations 1961, Amendment No 9 | 1977/312 |
-| The Agricultural Workers Act Commencement Order 1978 | 1978/100 |
-| The Agricultural Workers Regulations 1978 | 1978/233 |
-| The Petroleum Regulations 1978 | 1978/255 |
-| The Coal Mines (Electrical) Regulations 1980 | 1980/51 |
-| The Coal Mines (Mine Management and Safety) Regulations 1980 | 1980/116 |
-| The Construction Regulations 1961, Amendment No 10 | 1980/148 |
-| The Factories and Commercial Premises Act Commencement Order 1981 | 1981/277 |
-| The Factories and Commercial Premises Regulations 1981 | 1981/323 |
-| The Woodworking Machinery Regulations 1973, Amendment No 1 | 1982/74 |
-| The Quarries Regulations 1983 | 1983/39 |
-| The Tunnels Regulations 1983 | 1983/40 |
-| The Mining (Safety) Regulations 1973, Amendment No 1 | 1983/41 |
-| The Boilers, Lifts, and Cranes Exemption Order 1983 | 1983/89 |
-| The Boilers, Lifts, and Cranes Exemption Notice 1983 | 1983/90 |
-| The Quarries Regulations 1983, Amendment No 1 | 1984/258 |
-| The Tractor Safety Frame Regulations 1986 | 1986/229 |
-| The Factories and Commercial Premises Regulations 1981, Amendment No 1 | 1986/231 |
-| The Coal Mines (Mine Management and Safety) Regulations 1980, Amendment No 1 | 1986/276 |
-| The Coal Mines (Opencast Coal Mines) Regulations 1986 | 1986/277 |
-| The Construction Regulations 1961, Amendment No 13 | 1986/337 |
-| The Mining (Safety) Regulations 1973, Amendment No 2 | 1987/187 |
-| The Quarries Regulations 1983, Amendment No 2 | 1987/188 |
-| The Tunnels Regulations 1983, Amendment No 1 | 1987/189 |
-| The Boilers, Lifts, and Cranes Exemption Notice 1990 | 1990/174 |
-| The Boilers, Lifts, and Cranes (Fees) Regulations 1990 | 1990/321 |
