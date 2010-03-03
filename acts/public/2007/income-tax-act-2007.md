@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-02-01_
+_Consolidation as at 2010-03-03_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -10751,18 +10751,14 @@ Meaning of ACC levy or premium
   (a) the following levy or premium:
     (i) a levy to fund the Work Account under section 168 of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
     (ii) an employer’s premium to fund the Employers’ Account under section 281B of the Accident Insurance Act 1998:
-  (b) a Residual Claims levy under—
-    (i) section 193 of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
-    (ii) section 304 of the Accident Insurance Act 1998:
+  (b)
   (c) the following levy or premium:
     (i) a levy to fund the Work Account under section 168B or 211 of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
     (ii) a premium to fund the Self-Employed Work Account under section 300 of the Accident Insurance Act 1998:
   (d) the following levy or premium:
     (i) a levy to fund the Earners’ Account under section 219(1) of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
     (ii) a premium to fund the Earners’ Account under section 283(1) of the Accident Insurance Act 1998:
-  (e) the following levy:
-    (i) an Earners’ Account Residual levy under section 219(2) of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
-    (ii) an Earners’ Account levy under section 283(2) of the Accident Insurance Act 1998:
+  (e) an Earners' Account levy under section 283(2) of the Accident Insurance Act 1998:
   (f) a levy to meet the costs of the Regulator under section 236 of the Accident Insurance Act 1998:
   (g) a contribution to the Insolvent Insurers Fund under section 246 or 247 of the Accident Insurance Act 1998:
   (h) a levy or penalty payable to the Non-Compliers Fund under section 263 of the Accident Insurance Act 1998:
