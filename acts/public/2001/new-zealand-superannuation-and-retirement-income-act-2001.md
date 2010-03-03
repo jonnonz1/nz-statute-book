@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2010-01-05_
+_Consolidation as at 2010-03-03_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -143,7 +143,7 @@ No person is entitled to New Zealand superannuation unless the person—
   (a) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship, both of whom are qualified to receive New Zealand superannuation, is not less than 65% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by the Department of Statistics before 1 March in each year (after the deduction of standard tax and the earner levies payable on those earnings):
   (b) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who has been granted a living alone payment is 65% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation:
   (c) the standard weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a single person who has not been granted a living alone payment is 60% of the weekly amount of New Zealand superannuation (after the deduction of standard tax) payable to a couple who are married or in a civil union, both of whom are qualified to receive New Zealand superannuation.
-(2) In this section, earner levies means the levies payable under section 219(1) and (2) of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(2) In this section, earner levies means the levies payable under section 219(1) of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
 
 **Non-standard New Zealand superannuation entitlements**
 
