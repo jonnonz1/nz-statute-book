@@ -1,11 +1,11 @@
 # Human Rights Act 1993
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-03-03_
 
-> An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights.
+> An Act to consolidate and amend the Race Relations Act 1971 and the Human Rights Commission Act 1977 and to provide better protection of human rights in New Zealand in general accordance with United Nations Covenants or Conventions on Human Rights
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Human Rights Act 1993.
-(2) This Act shall come into force on the 1st day of February 1994.
+(2) This Act shall come into force on 1 February 1994.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -24,10 +24,10 @@ _Consolidation as at 2008-10-01_
   - **employment agreement** has the meaning given to that term by section 5 of the Employment Relations Act 2000
   - **employment contract** has the meaning given to that term by section 2 of the Employment Contracts Act 1991
   - **Equal Employment Opportunities Commissioner** means the Commissioner appointed as the Equal Employment Opportunities Commissioner under section 8(1)(c)
-  - **General manager** means the General manager of the Commission appointed by the Chief Commissioner under section 18; and includes any acting general manager of the Commission
-  - **Human Rights Review Tribunal or Tribunal** means the Tribunal continued by section 93
+  - **general manager** means the general manager of the Commission appointed by the Chief Commissioner under section 18; and includes any acting general manager of the Commission
+  - **Human Rights Review Tribunal** or means the Tribunal continued by section 93
   - **Minister** means the Minister of Justice
-  - **Office of Human Rights Proceedings or Office** means the office referred to in section 20
+  - **Office of Human Rights Proceedings** or means the office referred to in section 20
   - **prohibited ground of discrimination** has the meaning given to it by section 21
   - **Race Relations Commissioner** means the Commissioner appointed as the Race Relations Commissioner under section 8(1)(b)
   - **relative** , in relation to any person, means any other person who—
@@ -69,7 +69,7 @@ This Act shall bind the Crown.
   (g) to consult and co-operate with other persons and bodies concerned with the protection of human rights:
   (h) to inquire generally into any matter, including any enactment or law, or any practice, or any procedure, whether governmental or non-governmental, if it appears to the Commission that the matter involves, or may involve, the infringement of human rights:
   (i) to appear in or bring proceedings, in accordance with section 6 or section 92B or section 92E or section 92H or section 97:
-  (j) to apply to a court or tribunal, under rules of court or regulations specifying the tribunal's procedure, to be appointed as intervener or as counsel assisting the court or tribunal, or to take part in proceedings before the court or tribunal in another way permitted by those rules or regulations, if, in the Commission's opinion, taking part in the proceedings in that way will facilitate the performance of its functions stated in paragraph (a) of this subsection:
+  (j) to apply to a court or tribunal, under rules of court or regulations specifying the tribunal's procedure, to be appointed as intervener or as counsel assisting the court or tribunal, or to take part in proceedings before the court or tribunal in another way permitted by those rules or regulations, if, in the Commission's opinion, taking part in the proceedings in that way will facilitate the performance of its functions stated in paragraph (a):
   (k) to report to the Prime Minister on—
     (i) any matter affecting human rights, including the desirability of legislative, administrative, or other action to give better protection to human rights and to ensure better compliance with standards laid down in international instruments on human rights:
     (ii) the desirability of New Zealand becoming bound by any international instrument on human rights:
@@ -98,7 +98,7 @@ This Act shall bind the Crown.
   (a) a Commissioner appointed as the Chief Commissioner, whose office is a full-time one:
   (b) a Commissioner appointed as the Race Relations Commissioner, whose office is also a full-time one:
   (c) a Commissioner appointed as the Equal Employment Opportunities Commissioner, whose office is also a full-time one:
-  (d) No more than 5 other Commissioners, whose offices are each part-time ones.
+  (d) no more than 5 other Commissioners, whose offices are each part-time ones.
 (2) The Commissioners are the board for the purposes of the Crown Entities Act 2004.
 (3) The Chief Commissioner holds office as chairperson of the board for the purposes of the Crown Entities Act 2004 for the same term as he or she is Chief Commissioner.
 (4) Clauses 1 to 5 of Schedule 5 of the Crown Entities Act 2004 do not apply to the Commission.
@@ -117,6 +117,8 @@ This Act shall bind the Crown.
   (d) any other Commissioner considers it is not proper or desirable that he or she should participate in the function or activity of the Commission.
 (4) An alternate Commissioner designated under subsection (2) or subsection (3) must, while the alternate Commissioner acts as Chief Commissioner or as a Commissioner, be taken to be the Chief Commissioner or the Commissioner in whose place the alternate Commissioner acts.
 (5) No designation of an alternate Commissioner, and no act done by an alternate Commissioner, and no act done by the Commission while any alternate Commissioner is acting, may in any proceedings be questioned on the ground that the occasion for the alternate Commissioner's designation had not arisen or had ceased.
+
+**Functions of Commissioners**
 
 ### 10 Meetings of Commission
 (1)
@@ -142,9 +144,11 @@ This Act shall bind the Crown.
     (i) advocacy or public education:
     (ii) business, commerce, economics, industry, or financial or personnel management:
     (iii) community affairs:
-    (iv) public administration, or the law relating to public administration:
+    (iv) public administration, or the law relating to public administration.
 (1A) Subsection (1) does not limit section 29 of the Crown Entities Act 2004.
-(2) Nothing in this section limits section 12 section 13 or section 14.
+(2) Nothing in this section limits section 12 or section 13 or section 14.
+
+**Complaints Division**
 
 ### 12 Further criteria for appointment of Chief Commissioner
 In recommending a person for appointment as Chief Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
@@ -159,6 +163,8 @@ In recommending a person for appointment as Race Relations Commissioner, the Min
   (a) understanding of current race relations in New Zealand, and of the origins and development of those relations:
   (b) appreciation of issues or trends in race relations arising in other countries or internationally, and of the relevance of those issues or trends for New Zealand:
   (c) ability to perform the functions stated in section 16.
+
+**Further provisions on Commissioners and alternate Commissioners**
 
 ### 14 Further criteria for appointment of Equal Employment Opportunities Commissioner
 In recommending a person for appointment as the Equal Employment Opportunities Commissioner, the Minister must have regard not only to the criteria stated in section 11 but also to the person's—
@@ -175,7 +181,7 @@ In recommending a person for appointment as the Equal Employment Opportunities C
   (c) to allocate spheres of responsibility among the Commissioners, and to determine the extent to which Commissioners engage in activities undertaken in the performance of the Commission's functions (except for those stated in section 76), but in each case only after consultation with the Minister:
   (d) to act jointly with the Race Relations Commissioner on matters of race relations arising in the course of activities undertaken in the performance of the Commission's functions and to carry out the functions conferred on the Chief Commissioner by section 16(c) and (d):
   (e) to act jointly with the Equal Employment Opportunities Commissioner on matters concerning equal employment opportunities arising in the course of activities undertaken in the performance of the Commission's functions, and to carry out the functions conferred on the Chief Commissioner by section 17(g):
-  (f) to supervise and liaise with the General manager on matters of administration in relation to the Commission and on the activities undertaken in the performance of the Commission's functions:
+  (f) to supervise and liaise with the general manager on matters of administration in relation to the Commission and on the activities undertaken in the performance of the Commission's functions:
   (g) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
 (2) Subsection (1)(d) and (e) is subject to section 7(2).
 
@@ -184,7 +190,7 @@ The Race Relations Commissioner has the following functions:
   (a) to lead discussions of the Commission in relation to matters of race relations:
   (b) to provide advice and leadership on matters of race relations arising in the course of activities undertaken in the performance of the Commission's functions, both when engaging in those activities and otherwise when consulted:
   (c) to ensure, acting jointly with the Chief Commissioner, that activities undertaken in the performance of the Commission's functions in matters of race relations are consistent with the strategic direction and other determinations of the Commission under section 7:
-  (d) to supervise and liaise with the General manager, acting jointly with the Chief Commissioner, on the activities undertaken in the performance of the Commission's functions in matters of race relations:
+  (d) to supervise and liaise with the general manager, acting jointly with the Chief Commissioner, on the activities undertaken in the performance of the Commission's functions in matters of race relations:
   (e) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
 
 ### 17 Functions of Equal Employment Opportunities Commissioner
@@ -194,19 +200,19 @@ The Equal Employment Opportunities Commissioner has the following functions:
   (c) to evaluate, through the use of benchmarks developed by the Commissioner, the role that legislation, guidelines, and voluntary codes of practice play in facilitating and promoting best practice in equal employment opportunities:
   (d) to lead development of guidelines and voluntary codes of practice to facilitate and promote best practice in equal employment opportunities (including codes that identify related rights and obligations in legislation), in accordance with section 5(2)(e):
   (e) to monitor and analyse progress in improving equal employment opportunities in New Zealand, and to report to the Minister on the results of that monitoring and analysis:
-  (f) to liaise with, and complement the work of, any trust or body that has as 1 of its purposes the promotion of equal employment opportunities (including pay equity):
+  (f) to liaise with, and complement the work of, any trust or body that has as one of its purposes the promotion of equal employment opportunities (including pay equity):
   (g) to ensure, acting jointly with the Chief Commissioner, that activities undertaken in the performance of the Commission's functions in matters of equal employment opportunities are consistent with the strategic direction and other determinations of the Commission under section 7:
   (h) any other functions, powers, or duties conferred or imposed on him or her by or under this Act or any other enactment.
 
 **General manager and staff of Commission**
 
 ### 18 General manager and staff of Commission
-(1) The General manager and staff of the Commission undertake activities required to perform the functions of the Commission in accordance with the strategic direction and other determinations of the Commission under section 7.
-(2) The General manager—
+(1) The general manager and staff of the Commission undertake activities required to perform the functions of the Commission in accordance with the strategic direction and other determinations of the Commission under section 7.
+(2) The general manager—
   (a) is responsible to the Chief Commissioner and reports to him or her; and
   (b) is appointed by the Chief Commissioner, in accordance with clause 1 of Schedule 1; and
   (c) is the chief executive of the Commission for the purposes of the Crown Entities Act 2004.
-(3) Employees of the Commission are responsible to the General manager and report to him or her.
+(3) Employees of the Commission are responsible to the general manager and report to him or her.
 
 **Commissioners to act independently**
 
@@ -251,7 +257,7 @@ Except as expressly provided otherwise in this or another Act, the Commission mu
 **Provisions relating to office holders**
 
 ### 20D Office holders to whom sections 20E to 20G apply
-(1) Sections 20F and 20G each applies to a person (the office holder) who holds 1 of the following offices (the office):
+(1) Sections 20F and 20G each applies to a person (the office holder) who holds one of the following offices (the office):
   (a)
   (b)
   (c) Director of Human Rights Proceedings:
@@ -333,158 +339,158 @@ Section 20L applies only for the purposes of—
 
 ### 21 Prohibited grounds of discrimination
 (1) For the purposes of this Act, the prohibited grounds of discrimination are—
-  (a) Sex, which includes pregnancy and childbirth:
+  (a) sex, which includes pregnancy and childbirth:
   (b) marital status, which means being—
     (i) single; or
     (ii) married, in a civil union, or in a de facto relationship; or
     (iii) the surviving spouse of a marriage or the surviving partner of a civil union or de facto relationship; or
     (iv) separated from a spouse or civil union partner; or
     (v) a party to a marriage or civil union that is now dissolved, or to a de facto relationship that is now ended:
-  (c) Religious belief:
-  (d) Ethical belief, which means the lack of a religious belief, whether in respect of a particular religion or religions or all religions:
-  (e) Colour:
-  (f) Race:
-  (g) Ethnic or national origins, which includes nationality or citizenship:
-  (h) Disability, which means—
-    (i) Physical disability or impairment:
-    (ii) Physical illness:
-    (iii) Psychiatric illness:
-    (iv) Intellectual or psychological disability or impairment:
-    (v) Any other loss or abnormality of psychological, physiological, or anatomical structure or function:
-    (vi) Reliance on a guide dog, wheelchair, or other remedial means:
-    (vii) The presence in the body of organisms capable of causing illness:
-  (i) Age, which means,—
-    (i) For the purposes of sections 22 to 41 and section 70 of this Act and in relation to any different treatment based on age that occurs in the period beginning with the 1st day of February 1994 and ending with the close of the 31st day of January 1999, any age commencing with the age of 16 years and ending with the date on which persons of the age of the person whose age is in issue qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001 (irrespective of whether or not the particular person qualifies for national superannuation at that age or any other age):
-    (ii) For the purposes of sections 22 to 41 and section 70 of this Act and in relation to any different treatment based on age that occurs on or after the 1st day of February 1999, any age commencing with the age of 16 years:
-    (iii) For the purposes of any other provision of Part 2 of this Act, any age commencing with the age of 16 years:
-  (j) Political opinion, which includes the lack of a particular political opinion or any political opinion:
-  (k) Employment status, which means—
-    (i) Being unemployed; or
-    (ii) Being a recipient of a benefit under the Social Security Act 1964 or an entitlement under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
-  (l) Family status, which means—
-    (i) Having the responsibility for part-time care or full-time care of children or other dependants; or
-    (ii) Having no responsibility for the care of children or other dependants; or
-    (iii) Being married to, or being in a civil union or de facto relationship with, a particular person; or
-    (iv) Being a relative of a particular person:
-  (m) Sexual orientation, which means a heterosexual, homosexual, lesbian, or bisexual orientation.
-(2) Each of the grounds specified in subsection (1) of this section is a prohibited ground of discrimination, for the purposes of this Act, if—
-  (a) It pertains to a person or to a relative or associate of a person; and
-  (b) It either—
-    (i) Currently exists or has in the past existed; or
-    (ii) Is suspected or assumed or believed to exist or to have existed by the person alleged to have discriminated.
+  (c) religious belief:
+  (d) ethical belief, which means the lack of a religious belief, whether in respect of a particular religion or religions or all religions:
+  (e) colour:
+  (f) race:
+  (g) ethnic or national origins, which includes nationality or citizenship:
+  (h) disability, which means—
+    (i) physical disability or impairment:
+    (ii) physical illness:
+    (iii) psychiatric illness:
+    (iv) intellectual or psychological disability or impairment:
+    (v) any other loss or abnormality of psychological, physiological, or anatomical structure or function:
+    (vi) reliance on a guide dog, wheelchair, or other remedial means:
+    (vii) the presence in the body of organisms capable of causing illness:
+  (i) age, which means,—
+    (i) for the purposes of sections 22 to 41 and section 70 and in relation to any different treatment based on age that occurs in the period beginning with 1 February 1994 and ending with the close of 31 January 1999, any age commencing with the age of 16 years and ending with the date on which persons of the age of the person whose age is in issue qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001 (irrespective of whether or not the particular person qualifies for national superannuation at that age or any other age):
+    (ii) for the purposes of sections 22 to 41 and section 70 and in relation to any different treatment based on age that occurs on or after 1 February 1999, any age commencing with the age of 16 years:
+    (iii) for the purposes of any other provision of Part 2, any age commencing with the age of 16 years:
+  (j) political opinion, which includes the lack of a particular political opinion or any political opinion:
+  (k) employment status, which means—
+    (i) being unemployed; or
+    (ii) being a recipient of a benefit under the Social Security Act 1964 or an entitlement under the Accident Compensation Act 2001:
+  (l) family status, which means—
+    (i) having the responsibility for part-time care or full-time care of children or other dependants; or
+    (ii) having no responsibility for the care of children or other dependants; or
+    (iii) being married to, or being in a civil union or de facto relationship with, a particular person; or
+    (iv) being a relative of a particular person:
+  (m) sexual orientation, which means a heterosexual, homosexual, lesbian, or bisexual orientation.
+(2) Each of the grounds specified in subsection (1) is a prohibited ground of discrimination, for the purposes of this Act, if—
+  (a) it pertains to a person or to a relative or associate of a person; and
+  (b) it either—
+    (i) currently exists or has in the past existed; or
+    (ii) is suspected or assumed or believed to exist or to have existed by the person alleged to have discriminated.
 
 **Discrimination in employment matters**
 
 ### 22 Employment
 (1) Where an applicant for employment or an employee is qualified for work of any description, it shall be unlawful for an employer, or any person acting or purporting to act on behalf of an employer,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or omit to employ the applicant on work of that description which is available; or
-  (b) To offer or afford the applicant or the employee less favourable terms of employment, conditions of work, superannuation or other fringe benefits, and opportunities for training, promotion, and transfer than are made available to applicants or employees of the same or substantially similar capabilities employed in the same or substantially similar circumstances on work of that description; or
-  (c) To terminate the employment of the employee, or subject the employee to any detriment, in circumstances in which the employment of other employees employed on work of that description would not be terminated, or in which other employees employed on work of that description would not be subjected to such detriment; or
-  (d) To retire the employee, or to require or cause the employee to retire or resign,—
+  (a) to refuse or omit to employ the applicant on work of that description which is available; or
+  (b) to offer or afford the applicant or the employee less favourable terms of employment, conditions of work, superannuation or other fringe benefits, and opportunities for training, promotion, and transfer than are made available to applicants or employees of the same or substantially similar capabilities employed in the same or substantially similar circumstances on work of that description; or
+  (c) to terminate the employment of the employee, or subject the employee to any detriment, in circumstances in which the employment of other employees employed on work of that description would not be terminated, or in which other employees employed on work of that description would not be subjected to such detriment; or
+  (d) to retire the employee, or to require or cause the employee to retire or resign,—
 (2) It shall be unlawful for any person concerned with procuring employment for other persons or procuring employees for any employer to treat any person seeking employment differently from other persons in the same or substantially similar circumstances by reason of any of the prohibited grounds of discrimination.
 
 ### 23 Particulars of applicants for employment
-It shall be unlawful for any person to use or circulate any form of application for employment or to make any inquiry of or about any applicant for employment which indicates, or could reasonably be understood as indicating, an intention to commit a breach of section 22 of this Act.
+It shall be unlawful for any person to use or circulate any form of application for employment or to make any inquiry of or about any applicant for employment which indicates, or could reasonably be understood as indicating, an intention to commit a breach of section 22.
 
 **Exceptions in relation to employment matters**
 
 ### 24 Exception in relation to crews of ships and aircraft
-Nothing in section 22 of this Act shall apply to the employment or an application for employment of a person on a ship or aircraft, not being a New Zealand ship or aircraft, if the person employed or seeking employment was engaged or applied for it outside New Zealand.
+Nothing in section 22 shall apply to the employment or an application for employment of a person on a ship or aircraft, not being a New Zealand ship or aircraft, if the person employed or seeking employment was engaged or applied for it outside New Zealand.
 
 ### 25 Exception in relation to work involving national security
-(1) Nothing in section 22 of this Act shall apply to any restrictions on the employment of any person on work involving the national security of New Zealand—
-  (a) By reference to his or her—
-    (i) Religious or ethical belief; or
-    (ii) Political opinion; or
-    (iii) Disability, within the meaning of section 21(1)(h)(iii) or section 21(1)(h)(iv) of this Act; or
-    (iv) Family status, within the meaning of section 21(1)(l)(iii) or section 21(1)(l)(iv) of this Act; or
-    (v) National origin; or
-  (b) By reference to the national origin of any relative of that person.
-(2) It shall not be a breach of section 22 of this Act to decline to employ a person under the age of 20 years on work involving the national security of New Zealand where that work requires a secret or top secret security clearance.
+(1) Nothing in section 22 shall apply to any restrictions on the employment of any person on work involving the national security of New Zealand—
+  (a) by reference to his or her—
+    (i) religious or ethical belief; or
+    (ii) political opinion; or
+    (iii) disability, within the meaning of section 21(1)(h)(iii) or section 21(1)(h)(iv); or
+    (iv) family status, within the meaning of section 21(1)(l)(iii) or section 21(1)(l)(iv); or
+    (v) national origin; or
+  (b) by reference to the national origin of any relative of that person.
+(2) It shall not be a breach of section 22 to decline to employ a person under the age of 20 years on work involving the national security of New Zealand where that work requires a secret or top secret security clearance.
 
 ### 26 Exception in relation to work performed outside New Zealand
-Nothing in section 22 of this Act shall prevent different treatment based on sex, religious or ethical belief, or age if the duties of the position in respect of which that treatment is accorded—
-  (a) Are to be performed wholly or mainly outside New Zealand; and
-  (b) Are such that, because of the laws, customs, or practices of the country in which those duties are to be performed, they are ordinarily carried out only by a person who is of a particular sex or religious or ethical belief, or who is in a particular age group.
+Nothing in section 22 shall prevent different treatment based on sex, religious or ethical belief, or age if the duties of the position in respect of which that treatment is accorded—
+  (a) are to be performed wholly or mainly outside New Zealand; and
+  (b) are such that, because of the laws, customs, or practices of the country in which those duties are to be performed, they are ordinarily carried out only by a person who is of a particular sex or religious or ethical belief, or who is in a particular age group.
 
 ### 27 Exceptions in relation to authenticity and privacy
-(1) Nothing in section 22 of this Act shall prevent different treatment based on sex or age where, for reasons of authenticity, being of a particular sex or age is a genuine occupational qualification for the position or employment.
-(2) Nothing in section 22 of this Act shall prevent different treatment based on sex, religious or ethical belief, disability, age, political opinion, or sexual orientation where the position is one of domestic employment in a private household.
-(3) Nothing in section 22 of this Act shall prevent different treatment based on sex where—
-  (a) The position needs to be held by one sex to preserve reasonable standards of privacy; or
-  (b) The nature or location of the employment makes it impracticable for the employee to live elsewhere than in premises provided by the employer, and—
-    (i) The only premises available (being premises in which more than one employee is required to sleep) are not equipped with separate sleeping accommodation for each sex; and
-    (ii) It is not reasonable to expect the employer to equip those premises with separate accommodation, or to provide separate premises, for each sex.
-(4) Nothing in section 22 of this Act shall prevent different treatment based on sex, race, ethnic or national origins, or sexual orientation where the position is that of a counsellor on highly personal matters such as sexual matters or the prevention of violence.
-(5) Where, as a term or condition of employment, a position ordinarily obliges or qualifies the holder of that position to live in premises provided by the employer, the employer does not commit a breach of section 22 of this Act by omitting to apply that term or condition in respect of employees of a particular sex or marital status if in all the circumstances it is not reasonably practicable for the employer to do so.
+(1) Nothing in section 22 shall prevent different treatment based on sex or age where, for reasons of authenticity, being of a particular sex or age is a genuine occupational qualification for the position or employment.
+(2) Nothing in section 22 shall prevent different treatment based on sex, religious or ethical belief, disability, age, political opinion, or sexual orientation where the position is one of domestic employment in a private household.
+(3) Nothing in section 22 shall prevent different treatment based on sex where—
+  (a) the position needs to be held by one sex to preserve reasonable standards of privacy; or
+  (b) the nature or location of the employment makes it impracticable for the employee to live elsewhere than in premises provided by the employer, and—
+    (i) the only premises available (being premises in which more than 1 employee is required to sleep) are not equipped with separate sleeping accommodation for each sex; and
+    (ii) it is not reasonable to expect the employer to equip those premises with separate accommodation, or to provide separate premises, for each sex.
+(4) Nothing in section 22 shall prevent different treatment based on sex, race, ethnic or national origins, or sexual orientation where the position is that of a counsellor on highly personal matters such as sexual matters or the prevention of violence.
+(5) Where, as a term or condition of employment, a position ordinarily obliges or qualifies the holder of that position to live in premises provided by the employer, the employer does not commit a breach of section 22 by omitting to apply that term or condition in respect of employees of a particular sex or marital status if in all the circumstances it is not reasonably practicable for the employer to do so.
 
 ### 28 Exceptions for purposes of religion
-(1) Nothing in section 22 of this Act shall prevent different treatment based on sex where the position is for the purposes of an organised religion and is limited to one sex so as to comply with the doctrines or rules or established customs of the religion.
-(2) Nothing in section 22 of this Act shall prevent different treatment based on religious or ethical belief where—
-  (a) That treatment is accorded under section 65 of the Private Schools Conditional Integration Act 1975; or
-  (b) The sole or principal duties of the position (not being a position to which section 65 of the Private Schools Conditional Integration Act 1975 applies)—
-    (i) Are, or are substantially the same as, those of a clergyman, priest, pastor, official, or teacher among adherents of that belief or otherwise involve the propagation of that belief; or
-    (ii) Are those of a teacher in a private school; or
-    (iii) Consist of acting as a social worker on behalf of an organisation whose members comprise solely or principally adherents of that belief.
+(1) Nothing in section 22 shall prevent different treatment based on sex where the position is for the purposes of an organised religion and is limited to one sex so as to comply with the doctrines or rules or established customs of the religion.
+(2) Nothing in section 22 shall prevent different treatment based on religious or ethical belief where—
+  (a) that treatment is accorded under section 65 of the Private Schools Conditional Integration Act 1975; or
+  (b) the sole or principal duties of the position (not being a position to which section 65 of the Private Schools Conditional Integration Act 1975 applies)—
+    (i) are, or are substantially the same as, those of a clergyman, priest, pastor, official, or teacher among adherents of that belief or otherwise involve the propagation of that belief; or
+    (ii) are those of a teacher in a private school; or
+    (iii) consist of acting as a social worker on behalf of an organisation whose members comprise solely or principally adherents of that belief.
 (3) Where a religious or ethical belief requires its adherents to follow a particular practice, an employer must accommodate the practice so long as any adjustment of the employer's activities required to accommodate the practice does not unreasonably disrupt the employer's activities.
 
 ### 29 Further exceptions in relation to disability
-(1) Nothing in section 22 of this Act shall prevent different treatment based on disability where—
-  (a) The position is such that the person could perform the duties of the position satisfactorily only with the aid of special services or facilities and it is not reasonable to expect the employer to provide those services or facilities; or
-  (b) The environment in which the duties of the position are to be performed or the nature of those duties, or of some of them, is such that the person could perform those duties only with a risk of harm to that person or to others, including the risk of infecting others with an illness, and it is not reasonable to take that risk.
-(2) Nothing in subsection (1)(b) of this section shall apply if the employer could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
-(3) Nothing in section 22 of this Act shall apply to terms of employment or conditions of work that are set or varied after taking into account—
-  (a) Any special limitations that the disability of a person imposes on his or her capacity to carry out the work; and
-  (b) Any special services or facilities that are provided to enable or facilitate the carrying out of the work.
+(1) Nothing in section 22 shall prevent different treatment based on disability where—
+  (a) the position is such that the person could perform the duties of the position satisfactorily only with the aid of special services or facilities and it is not reasonable to expect the employer to provide those services or facilities; or
+  (b) the environment in which the duties of the position are to be performed or the nature of those duties, or of some of them, is such that the person could perform those duties only with a risk of harm to that person or to others, including the risk of infecting others with an illness, and it is not reasonable to take that risk.
+(2) Nothing in subsection (1)(b) shall apply if the employer could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(3) Nothing in section 22 shall apply to terms of employment or conditions of work that are set or varied after taking into account—
+  (a) any special limitations that the disability of a person imposes on his or her capacity to carry out the work; and
+  (b) any special services or facilities that are provided to enable or facilitate the carrying out of the work.
 
 ### 30 Further exceptions in relation to age
-(1) Nothing in section 22(1)(a) or section 22(1)(d) of this Act shall apply in relation to any position or employment where being of a particular age or in a particular age group is a genuine occupational qualification for that position or employment, whether for reasons of safety or for any other reason.
-(2) Nothing in section 22(1)(b) of this Act shall prevent payment of a person at a lower rate than another person employed in the same or substantially similar circumstances where the lower rate is paid on the basis that the first-mentioned person has not attained a particular age, not exceeding 20 years of age.
-(3) Nothing in section 22(1)(a) of this Act shall prevent preferential treatment based on age accorded to persons who are to be paid in accordance with subsection (2) of this section.
+(1) Nothing in section 22(1)(a) or section 22(1)(d) shall apply in relation to any position or employment where being of a particular age or in a particular age group is a genuine occupational qualification for that position or employment, whether for reasons of safety or for any other reason.
+(2) Nothing in section 22(1)(b) shall prevent payment of a person at a lower rate than another person employed in the same or substantially similar circumstances where the lower rate is paid on the basis that the first-mentioned person has not attained a particular age, not exceeding 20 years of age.
+(3) Nothing in section 22(1)(a) shall prevent preferential treatment based on age accorded to persons who are to be paid in accordance with subsection (2).
 
 ### 30A Exception in relation to employment-related retirement benefits
 (1) Nothing in section 22(1)(b) prevents different treatment based on age with respect to, or in any way related to, the payment of a benefit to an employee on retirement if—
-  (a) The employee's entitlement to that benefit (the retirement benefit), or the calculation of that retirement benefit, is determined in whole or in part (and whether directly or indirectly) by the employee's age; and
-  (b) The retirement benefit is a term of a written employment contract that was in force on or before 1 February 1999; and
-  (c) The employee was, on or before 1 February 1999, a party to that employment contract.
+  (a) the employee's entitlement to that benefit (the retirement benefit), or the calculation of that retirement benefit, is determined in whole or in part (and whether directly or indirectly) by the employee's age; and
+  (b) the retirement benefit is a term of a written employment contract that was in force on or before 1 February 1999; and
+  (c) the employee was, on or before 1 February 1999, a party to that employment contract.
 (2) If a retirement benefit was a term of an employee's written employment contract on 1 February 1999, subsection (1) continues to apply in relation to the payment of that retirement benefit even if either or both of the following things occur after that date:
-  (a) The employee and the employer enter into a new written employment contract or employment agreement under which the employee remains entitled to that retirement benefit:
-  (b) A different person becomes the employee's employer as a result of a merger, takeover, restructuring, or reorganisation, but the employee remains entitled to that retirement benefit by virtue of any enactment or agreement.
+  (a) the employee and the employer enter into a new written employment contract or employment agreement under which the employee remains entitled to that retirement benefit:
+  (b) a different person becomes the employee's employer as a result of a merger, takeover, restructuring, or reorganisation, but the employee remains entitled to that retirement benefit by virtue of any enactment or agreement.
 (3) This section does not limit section 149.
 
 ### 31 Exception in relation to employment of a political nature
-Nothing in section 22 of this Act shall prevent different treatment based on political opinion where the position is one as—
-  (a) A political adviser or secretary to a member of Parliament; or
-  (b) A political adviser to a member of a local authority; or
-  (c) A political adviser to a candidate seeking election to the House of Representatives or to a local authority within the meaning of the Local Electoral Act 2001; or
-  (d) A member of the staff of a political party.
+Nothing in section 22 shall prevent different treatment based on political opinion where the position is one as—
+  (a) a political adviser or secretary to a member of Parliament; or
+  (b) a political adviser to a member of a local authority; or
+  (c) a political adviser to a candidate seeking election to the House of Representatives or to a local authority within the meaning of the Local Electoral Act 2001; or
+  (d) a member of the staff of a political party.
 
 ### 32 Exception in relation to family status
-Nothing in section 22 of this Act shall prevent restrictions imposed by an employer—
-  (a) On the employment of any person who is married to, or in a civil union or in a de facto relationship with, or who is a relative of, another employee if—
-    (i) There would be a reporting relationship between them; or
-    (ii) There is a risk of collusion between them to the detriment of the employer; or
-  (b) On the employment of any person who is married to, or in a civil union or in a de facto relationship with, or who is a relative of, an employee of another employer if there is a risk of collusion between them to the detriment of that person's employer.
+Nothing in section 22 shall prevent restrictions imposed by an employer—
+  (a) on the employment of any person who is married to, or in a civil union or in a de facto relationship with, or who is a relative of, another employee if—
+    (i) there would be a reporting relationship between them; or
+    (ii) there is a risk of collusion between them to the detriment of the employer; or
+  (b) on the employment of any person who is married to, or in a civil union or in a de facto relationship with, or who is a relative of, an employee of another employer if there is a risk of collusion between them to the detriment of that person's employer.
 
-### 33 Armed Forces
+### 33 Armed forces
 [Repealed]
 
 ### 34 Regular forces
-(1) Nothing in section 22(1)(c) or section 22(1)(d) of this Act shall prevent the Chief of Defence Force from instituting, under section 57A of the Defence Act 1990, the discharge or release of a member of the regular forces.
+(1) Nothing in section 22(1)(c) or section 22(1)(d) shall prevent the Chief of Defence Force from instituting, under section 57A of the Defence Act 1990, the discharge or release of a member of the regular forces.
 (2)
 
 ### 35 General qualification on exceptions
-No employer shall be entitled, by virtue of any of the exceptions in this Part of this Act, to accord to any person in respect of any position different treatment based on a prohibited ground of discrimination even though some of the duties of that position would fall within any of those exceptions if, with some adjustment of the activities of the employer (not being an adjustment involving unreasonable disruption of the activities of the employer), some other employee could carry out those particular duties.
+No employer shall be entitled, by virtue of any of the exceptions in this Part, to accord to any person in respect of any position different treatment based on a prohibited ground of discrimination even though some of the duties of that position would fall within any of those exceptions if, with some adjustment of the activities of the employer (not being an adjustment involving unreasonable disruption of the activities of the employer), some other employee could carry out those particular duties.
 
 **Discrimination in partnerships**
 
 ### 36 Partnerships
 (1) It shall be unlawful for a firm, or for persons jointly promoting the formation of a firm,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or to omit to offer a person admission to the firm as a partner; or
-  (b) To offer or afford a person less favourable terms and conditions as a partner than are made available to other members or prospective members of the firm,—
+  (a) to refuse or to omit to offer a person admission to the firm as a partner; or
+  (b) to offer or afford a person less favourable terms and conditions as a partner than are made available to other members or prospective members of the firm,—
 (2) It shall be unlawful for a firm—by reason of any of the prohibited grounds of discrimination.
-  (a) To deny any partner increased status in the firm or an increased share in the capital or profits of the firm; or
-  (b) To expel any partner from the firm or to subject any partner to any other detriment,—
+  (a) to deny any partner increased status in the firm or an increased share in the capital or profits of the firm; or
+  (b) to expel any partner from the firm or to subject any partner to any other detriment,—
 (2A) It is unlawful for a firm, or for persons jointly promoting the formation of a firm, to fail to provide special services or facilities that could reasonably be provided by the firm, or those persons, in the circumstances and that, if provided, would enable a person with a disability—
   (a) to be accepted as a partner and remain in partnership; or
   (b) to be offered the same terms and conditions as a partner (including terms and conditions as to status in the firm or entitlements to shares in capital or profits) that are made available to other members or prospective members of the firm.
@@ -500,9 +506,9 @@ No employer shall be entitled, by virtue of any of the exceptions in this Part o
 
 ### 37 Organisations of employees or employers and professional and trade associations
 (1) It shall be unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or omit to accept any person for membership; or
-  (b) To offer any person less favourable terms of membership and less favourable access to any benefits, facilities, or services, including the right to stand for election and hold office in the organisation, than would otherwise be made available; or
-  (c) To deprive a person of membership, or suspend him or her, in circumstances in which other persons would not be deprived of membership or suspended,—
+  (a) to refuse or omit to accept any person for membership; or
+  (b) to offer any person less favourable terms of membership and less favourable access to any benefits, facilities, or services, including the right to stand for election and hold office in the organisation, than would otherwise be made available; or
+  (c) to deprive a person of membership, or suspend him or her, in circumstances in which other persons would not be deprived of membership or suspended,—
 (1A) It is unlawful for an organisation to which this section applies, or for any person acting or purporting to act on behalf of any such organisation, to fail to provide special services or facilities that could reasonably be provided by the organisation in the circumstances and that, if provided, would enable a person with a disability to—
   (a) be accepted and remain in membership; or
   (b) be given equal access to benefits, facilities, or services provided by the organisation (including the right to stand for election and hold office).
@@ -515,37 +521,37 @@ No employer shall be entitled, by virtue of any of the exceptions in this Part o
 
 ### 38 Qualifying bodies
 (1) It shall be unlawful for an authority or body empowered to confer an approval, authorisation, or qualification that is needed for, or facilitates, engagement in a profession, trade, or calling, or any person acting or purporting to act on behalf of any such authority or body,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or omit to confer that approval, authorisation, or qualification on a person; or
-  (b) To confer that approval, authorisation, or qualification on less favourable terms and conditions than would otherwise be made available; or
-  (c) To withdraw that approval, authorisation, or qualification or vary the terms on which it is held, in circumstances in which it would not otherwise be withdrawn or varied,—
+  (a) to refuse or omit to confer that approval, authorisation, or qualification on a person; or
+  (b) to confer that approval, authorisation, or qualification on less favourable terms and conditions than would otherwise be made available; or
+  (c) to withdraw that approval, authorisation, or qualification or vary the terms on which it is held, in circumstances in which it would not otherwise be withdrawn or varied,—
 (2) For the purposes of this section confer includes renew or extend.
 
 ### 39 Exceptions in relation to qualifying bodies
-(1) Nothing in section 38 of this Act shall apply where the authorisation or qualification is needed for, or facilitates engagement in, a profession or calling for the purposes of an organised religion and is limited to one sex or to persons of that religious belief so as to comply with the doctrines or rules or established customs of that religion.
-(2) Nothing in section 38 of this Act shall prevent different treatment based on disability where—
-  (a) The person seeking or holding the approval, authorisation, or qualification is not, by reason of that person's disability, able to perform the duties required of a person who holds the approval, authorisation, or qualification; or
-  (b) The environment in which the duties required of a person who holds the approval, authorisation, or qualification are to be performed or the nature of those duties, or of some of them, are such that, if that approval, authorisation, or qualification were granted to or retained by the person with a disability, there would be a risk of harm to that person or others, including the risk of infecting others with an illness, and it is not reasonable to take that risk; or
-  (c) Conditions placed on the granting of the approval, authorisation, or qualification to any person or on the retention of the approval, authorisation, or qualification by any person are reasonably related to the disability of that person.
+(1) Nothing in section 38 shall apply where the authorisation or qualification is needed for, or facilitates engagement in, a profession or calling for the purposes of an organised religion and is limited to one sex or to persons of that religious belief so as to comply with the doctrines or rules or established customs of that religion.
+(2) Nothing in section 38 shall prevent different treatment based on disability where—
+  (a) the person seeking or holding the approval, authorisation, or qualification is not, by reason of that person's disability, able to perform the duties required of a person who holds the approval, authorisation, or qualification; or
+  (b) the environment in which the duties required of a person who holds the approval, authorisation, or qualification are to be performed or the nature of those duties, or of some of them, are such that, if that approval, authorisation, or qualification were granted to or retained by the person with a disability, there would be a risk of harm to that person or others, including the risk of infecting others with an illness, and it is not reasonable to take that risk; or
+  (c) conditions placed on the granting of the approval, authorisation, or qualification to any person or on the retention of the approval, authorisation, or qualification by any person are reasonably related to the disability of that person.
 (2A) For the purposes of applying subsection (2)(a) and (b), an authority or body referred to in section 38 must,—
   (a) in the case of subsection (2)(a), take account of whether a disabled person could perform the required duties if he or she was provided with special services or facilities that could reasonably be provided by an employer or by any other relevant person:
   (b) in the case of subsection (2)(b), take account of whether the risk of harm referred to in that paragraph could be reduced to a normal level, without unreasonable disruption to an employer or to any other relevant person.
-(3) Nothing in section 38 of this Act shall apply where—
-  (a) The authority or body imposes a reasonable and appropriate minimum age under which the approval, authorisation, or qualification will not be conferred; or
-  (b) The authority or body imposes reasonable and appropriate terms and conditions on the grant or retention of the approval, authorisation, or qualification by reason of the age of the person seeking or holding it.
+(3) Nothing in section 38 shall apply where—
+  (a) the authority or body imposes a reasonable and appropriate minimum age under which the approval, authorisation, or qualification will not be conferred; or
+  (b) the authority or body imposes reasonable and appropriate terms and conditions on the grant or retention of the approval, authorisation, or qualification by reason of the age of the person seeking or holding it.
 
 ### 40 Vocational training bodies
 It shall be unlawful for any organisation or association which has as its function or one of its principal functions the provision of training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), that would help to fit a person for any employment, or for any person acting or purporting to act on behalf of any such organisation or association,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or omit to provide training, or facilities or opportunities for training; or
-  (b) To provide training, or facilities or opportunities for training, on less favourable terms and conditions than would otherwise be made available; or
-  (c) To terminate training, or facilities or opportunities for training,—
+  (a) to refuse or omit to provide training, or facilities or opportunities for training; or
+  (b) to provide training, or facilities or opportunities for training, on less favourable terms and conditions than would otherwise be made available; or
+  (c) to terminate training, or facilities or opportunities for training,—
 
 ### 41 Exceptions in relation to vocational training bodies
-(1) Nothing in section 40 of this Act shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
-(2) Subject to subsection (3) of this section, nothing in section 40 of this Act shall apply where a person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be provided with training, or facilities or opportunities for training, and it is not reasonable to take that risk.
-(3) Nothing in subsection (2) of this section shall apply if the organisation or association providing training, or facilities or opportunities for training, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
-(4) Nothing in section 40 of this Act shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
-(5) Nothing in section 40 of this Act shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
-(6) Nothing in section 40 of this Act shall prevent an organisation or association from charging different fees to persons in different age groups.
+(1) Nothing in section 40 shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
+(2) Subject to subsection (3), nothing in section 40 shall apply where a person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be provided with training, or facilities or opportunities for training, and it is not reasonable to take that risk.
+(3) Nothing in subsection (2) shall apply if the organisation or association providing training, or facilities or opportunities for training, could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(4) Nothing in section 40 shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
+(5) Nothing in section 40 shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
+(6) Nothing in section 40 shall prevent an organisation or association from charging different fees to persons in different age groups.
 (7) Nothing in section 40 makes it unlawful to fail to provide special services or facilities designed for a specified purpose if those special services or facilities cannot reasonably be provided in the circumstances.
 (8) In subsection (7), a specified purpose means 1 or more of the following purposes:
   (a) to enable a person with a disability to undergo and remain in training; or
@@ -556,172 +562,172 @@ It shall be unlawful for any organisation or association which has as its functi
 
 ### 42 Access by the public to places, vehicles, and facilities
 (1) It shall be unlawful for any person—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
-  (b) To refuse any other person the use of any facilities in that place or vehicle which are available to members of the public; or
-  (c) To require any other person to leave or cease to use that place or vehicle or those facilities,—
+  (a) to refuse to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
+  (b) to refuse any other person the use of any facilities in that place or vehicle which are available to members of the public; or
+  (c) to require any other person to leave or cease to use that place or vehicle or those facilities,—
 (2) In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
 
 ### 43 Exceptions in relation to access by the public to places, vehicles, and facilities
-(1) Section 42 of this Act shall not prevent the maintenance of separate facilities for each sex on the ground of public decency or public safety.
-(2) Nothing in section 42 of this Act requires any person to provide for any person, by reason of the disability of that person, special services or special facilities to enable any such person to gain access to or use any place or vehicle when it would not be reasonable to require the provision of such special services or facilities.
+(1) Section 42 shall not prevent the maintenance of separate facilities for each sex on the ground of public decency or public safety.
+(2) Nothing in section 42 requires any person to provide for any person, by reason of the disability of that person, special services or special facilities to enable any such person to gain access to or use any place or vehicle when it would not be reasonable to require the provision of such special services or facilities.
 (3) Nothing in subsection (2) limits section 118 of the Building Act 2004.
-(4) Subject to subsection (5) of this section, nothing in section 42 of this Act shall apply where the disability of a person is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to have access to or use of any place or vehicle and it is not reasonable to take that risk.
-(5) Subsection (4) of this section shall not apply if the person in charge of the place, vehicle, or facility could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(4) Subject to subsection (5), nothing in section 42 shall apply where the disability of a person is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to have access to or use of any place or vehicle and it is not reasonable to take that risk.
+(5) Subsection (4) shall not apply if the person in charge of the place, vehicle, or facility could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
 **Discrimination in provision of goods and services**
 
 ### 44 Provision of goods and services
 (1) It shall be unlawful for any person who supplies goods, facilities, or services to the public or to any section of the public—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or fail on demand to provide any other person with those goods, facilities, or services; or
-  (b) To treat any other person less favourably in connection with the provision of those goods, facilities, or services than would otherwise be the case,—
-(2) For the purposes of subsection (1) of this section, but without limiting the meaning of the terms goods, facilities, and services in that subsection, the term facilities includes facilities by way of banking or insurance or for grants, loans, credit, or finance.
+  (a) to refuse or fail on demand to provide any other person with those goods, facilities, or services; or
+  (b) to treat any other person less favourably in connection with the provision of those goods, facilities, or services than would otherwise be the case,—
+(2) For the purposes of subsection (1), but without limiting the meaning of the terms goods, facilities, and services in that subsection, the term facilities includes facilities by way of banking or insurance or for grants, loans, credit, or finance.
 (3) Where any club, or any branch or affiliate of any club, that grants privileges to members of any other club, branch, or affiliate refuses or fails on demand to provide those privileges to any of those members, or treats any of those members less favourably in connection with the provision of those privileges than would otherwise be the case, by reason of any of the prohibited grounds of discrimination, that club, branch, or affiliate shall be deemed to have committed a breach of this section.
-(4) Subject to subsection (3) of this section, nothing in this section shall apply to access to membership of a club or to the provision of services or facilities to members of a club.
+(4) Subject to subsection (3), nothing in this section shall apply to access to membership of a club or to the provision of services or facilities to members of a club.
 
 ### 45 Exception in relation to courses and counselling
-Nothing in section 44 of this Act shall prevent the holding of courses, or the provision of counselling, restricted to persons of a particular sex, race, ethnic or national origin, or sexual orientation where highly personal matters, such as sexual matters or the prevention of violence, are involved.
+Nothing in section 44 shall prevent the holding of courses, or the provision of counselling, restricted to persons of a particular sex, race, ethnic or national origin, or sexual orientation where highly personal matters, such as sexual matters or the prevention of violence, are involved.
 
 ### 46 Exception in relation to public decency or safety
-Section 44 of this Act shall not apply to the maintenance or provision of separate facilities or services for each sex on the ground of public decency or public safety.
+Section 44 shall not apply to the maintenance or provision of separate facilities or services for each sex on the ground of public decency or public safety.
 
 ### 47 Exception in relation to skill
-Where the nature of a skill varies according to whether it is exercised in relation to men or women, a person does not commit a breach of section 44 of this Act by exercising the skill in relation to one sex only, in accordance with that person's normal practice.
+Where the nature of a skill varies according to whether it is exercised in relation to men or women, a person does not commit a breach of section 44 by exercising the skill in relation to one sex only, in accordance with that person's normal practice.
 
 ### 48 Exception in relation to insurance
-(1) It shall not be a breach of section 44 of this Act to offer or provide annuities, life insurance policies, accident insurance policies, or other policies of insurance, whether for individual persons or groups of persons, on different terms or conditions for each sex or for persons with a disability or for persons of different ages if the different treatment—
-  (a) Is based on—
-    (i) Actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
-    (ii) Where no such data is available in respect of persons with a disability, reputable medical or actuarial advice or opinion, upon which it is reasonable to rely, whether or not contained in an underwriting manual; and
-  (b) Is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
+(1) It shall not be a breach of section 44 to offer or provide annuities, life insurance policies, accident insurance policies, or other policies of insurance, whether for individual persons or groups of persons, on different terms or conditions for each sex or for persons with a disability or for persons of different ages if the different treatment—
+  (a) is based on—
+    (i) actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
+    (ii) where no such data is available in respect of persons with a disability, reputable medical or actuarial advice or opinion, upon which it is reasonable to rely, whether or not contained in an underwriting manual; and
+  (b) is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
 (2) In assessing, for the purposes of this section, whether it is reasonable to rely on any data or advice or opinion, and whether different treatment is reasonable, the Commission or the Complaints Division may—
-  (a) Require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
-  (b) Request the views of the Government Actuary on the justification for the reliance and for the different treatment.
+  (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
+  (b) request the views of the Government Actuary on the justification for the reliance and for the different treatment.
 
 ### 49 Exception in relation to sport
-(1) Subject to subsection (2) of this section, nothing in section 44 of this Act shall prevent the exclusion of persons of one sex from participation in any competitive sporting activity in which the strength, stamina, or physique of competitors is relevant.
-(2) Subsection (1) of this section does not apply in relation to the exclusion of persons from participation in—
-  (a) The coaching of persons engaged in any sporting activity; or
-  (b) The umpiring or refereeing of any sporting activity; or
-  (c) The administration of any sporting activity; or
-  (d) Sporting activities by persons who have not attained the age of 12 years.
-(3) It shall not be a breach of section 44 of this Act to exclude any person from any competitive sporting event or activity if that person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to take part in that competitive sporting event or activity and it is not reasonable to take that risk.
-(4) It shall not be a breach of section 44 of this Act to conduct competitive sporting events or activities in which only persons with a particular disability or age qualification may take part.
+(1) Subject to subsection (2), nothing in section 44 shall prevent the exclusion of persons of one sex from participation in any competitive sporting activity in which the strength, stamina, or physique of competitors is relevant.
+(2) Subsection (1) does not apply in relation to the exclusion of persons from participation in—
+  (a) the coaching of persons engaged in any sporting activity; or
+  (b) the umpiring or refereeing of any sporting activity; or
+  (c) the administration of any sporting activity; or
+  (d) sporting activities by persons who have not attained the age of 12 years.
+(3) It shall not be a breach of section 44 to exclude any person from any competitive sporting event or activity if that person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to take part in that competitive sporting event or activity and it is not reasonable to take that risk.
+(4) It shall not be a breach of section 44 to conduct competitive sporting events or activities in which only persons with a particular disability or age qualification may take part.
 
 ### 50 Exception in relation to travel services
-It shall not be a breach of section 44 of this Act to provide group travel services which are expressed to be solely for the benefit of persons in a particular age group.
+It shall not be a breach of section 44 to provide group travel services which are expressed to be solely for the benefit of persons in a particular age group.
 
 ### 51 Exception in relation to reduced charges
-It shall not be a breach of section 44 of this Act to provide goods, services, or facilities at a reduced fee, charge, or rate on the ground of age, disability, or employment status, whether or not there are conditions applicable to the reduced fee, charge, or rate.
+It shall not be a breach of section 44 to provide goods, services, or facilities at a reduced fee, charge, or rate on the ground of age, disability, or employment status, whether or not there are conditions applicable to the reduced fee, charge, or rate.
 
 ### 52 Exception in relation to disability
-It shall not be a breach of section 44 of this Act for a person who supplies facilities or services—
-  (a) To refuse to provide those facilities or services to any person if—
-    (i) That person's disability requires those facilities or services to be provided in a special manner; and
-    (ii) The person who supplies the facilities or services cannot reasonably be expected to provide them in that special manner; or
-  (b) To provide those facilities or services to any person on terms that are more onerous than those on which they are made available to other persons, if—
-    (i) That person's disability requires those facilities or services to be provided in a special manner; and
-    (ii) The person who supplies the facilities or services cannot reasonably be expected to provide them without requiring more onerous terms.
+It shall not be a breach of section 44 for a person who supplies facilities or services—
+  (a) to refuse to provide those facilities or services to any person if—
+    (i) that person's disability requires those facilities or services to be provided in a special manner; and
+    (ii) the person who supplies the facilities or services cannot reasonably be expected to provide them in that special manner; or
+  (b) to provide those facilities or services to any person on terms that are more onerous than those on which they are made available to other persons, if—
+    (i) that person's disability requires those facilities or services to be provided in a special manner; and
+    (ii) the person who supplies the facilities or services cannot reasonably be expected to provide them without requiring more onerous terms.
 
 **Discrimination in provision of land, housing, and other accommodation**
 
 ### 53 Land, housing, and other accommodation
 (1) It shall be unlawful for any person, on his or her own behalf or on behalf or purported behalf of any principal,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or fail to dispose of any estate or interest in land or any residential or business accommodation to any other person; or
-  (b) To dispose of such an estate or interest or such accommodation to any person on less favourable terms and conditions than are or would be offered to other persons; or
-  (c) To treat any person who is seeking to acquire or has acquired such an estate or interest or such accommodation differently from other persons in the same circumstances; or
-  (d) To deny any person, directly or indirectly, the right to occupy any land or any residential or business accommodation; or
-  (e) To terminate any estate or interest in land or the right of any person to occupy any land or any residential or business accommodation,—
+  (a) to refuse or fail to dispose of any estate or interest in land or any residential or business accommodation to any other person; or
+  (b) to dispose of such an estate or interest or such accommodation to any person on less favourable terms and conditions than are or would be offered to other persons; or
+  (c) to treat any person who is seeking to acquire or has acquired such an estate or interest or such accommodation differently from other persons in the same circumstances; or
+  (d) to deny any person, directly or indirectly, the right to occupy any land or any residential or business accommodation; or
+  (e) to terminate any estate or interest in land or the right of any person to occupy any land or any residential or business accommodation,—
 (2) It shall be unlawful for any person, on his or her own behalf or on behalf or purported behalf of any principal, to impose or seek to impose on any other person any term or condition which limits, by reference to any of the prohibited grounds of discrimination, the persons or class of persons who may be the licensees or invitees of the occupier of any land or any residential or business accommodation.
 
 ### 54 Exception in relation to shared residential accommodation
-Nothing in section 53 of this Act shall apply to residential accommodation which is to be shared with the person disposing of the accommodation, or on whose behalf it is disposed of.
+Nothing in section 53 shall apply to residential accommodation which is to be shared with the person disposing of the accommodation, or on whose behalf it is disposed of.
 
 ### 55 Exception in relation to hostels, institutions, etc
-Nothing in section 53 of this Act shall apply to accommodation in any hostel or in any establishment (such as a hospital, club, school, university, religious institution, or retirement village), or in any part of a hostel or any such establishment, where accommodation is provided only for persons of the same sex, marital status, or religious or ethical belief, or for persons with a particular disability, or for persons in a particular age group.
+Nothing in section 53 shall apply to accommodation in any hostel or in any establishment (such as a hospital, club, school, university, religious institution, or retirement village), or in any part of a hostel or any such establishment, where accommodation is provided only for persons of the same sex, marital status, or religious or ethical belief, or for persons with a particular disability, or for persons in a particular age group.
 
 ### 56 Further exception in relation to disability
-(1) Subject to subsection (2) of this section, nothing in section 53 of this Act shall apply, in relation to any accommodation, if the disability of the person is such that there would be a risk of harm to that person or others, including the risk of infecting others with an illness, if that person were to live in that accommodation and it is not reasonable to take that risk.
-(2) Subsection (1) of this section shall not apply if the person in charge of the accommodation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(1) Subject to subsection (2), nothing in section 53 shall apply, in relation to any accommodation, if the disability of the person is such that there would be a risk of harm to that person or others, including the risk of infecting others with an illness, if that person were to live in that accommodation and it is not reasonable to take that risk.
+(2) Subsection (1) shall not apply if the person in charge of the accommodation could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 (3) Nothing in section 53 makes it unlawful to fail to provide special services or facilities designed to make accommodation suitable for occupation by a person with a disability, if those special services or facilities cannot reasonably be provided in the circumstances.
 
 **Discrimination in access to educational establishments**
 
 ### 57 Educational establishments
 (1) It shall be unlawful for an educational establishment, or the authority responsible for the control of an educational establishment, or any person concerned in the management of an educational establishment or in teaching at an educational establishment,—by reason of any of the prohibited grounds of discrimination.
-  (a) To refuse or fail to admit a person as a pupil or student; or
-  (b) To admit a person as a pupil or a student on less favourable terms and conditions than would otherwise be made available; or
-  (c) To deny or restrict access to any benefits or services provided by the establishment; or
-  (d) To exclude a person as a pupil or a student or subject him or her to any other detriment,—
-(2) In this section educational establishment includes an establishment offering any form of training or instruction and an educational establishment under the control of an organisation or association referred to in section 40 of this Act.
+  (a) to refuse or fail to admit a person as a pupil or student; or
+  (b) to admit a person as a pupil or a student on less favourable terms and conditions than would otherwise be made available; or
+  (c) to deny or restrict access to any benefits or services provided by the establishment; or
+  (d) to exclude a person as a pupil or a student or subject him or her to any other detriment,—
+(2) In this section educational establishment includes an establishment offering any form of training or instruction and an educational establishment under the control of an organisation or association referred to in section 40.
 
 ### 58 Exceptions in relation to establishments for particular groups
-(1) An educational establishment maintained wholly or principally for students of one sex, race, or religious belief, or for students with a particular disability, or for students in a particular age group, or the authority responsible for the control of any such establishment, does not commit a breach of section 57 of this Act by refusing to admit students of a different sex, race, or religious belief, or students not having that disability or not being in that age group.
-(2) Nothing in section 57 of this Act shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
-(3) Nothing in section 57 of this Act shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
-(4) Nothing in section 57 of this Act shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
-(5) Nothing in section 57 of this Act shall prevent an organisation or association from charging different fees to persons in different age groups.
+(1) An educational establishment maintained wholly or principally for students of one sex, race, or religious belief, or for students with a particular disability, or for students in a particular age group, or the authority responsible for the control of any such establishment, does not commit a breach of section 57 by refusing to admit students of a different sex, race, or religious belief, or students not having that disability or not being in that age group.
+(2) Nothing in section 57 shall prevent an organisation or association from affording persons preferential access to facilities for training that would help to fit them for employment where it appears to that organisation or association that those persons are in special need of training by reason of the period for which they have not been engaged in regular full-time employment.
+(3) Nothing in section 57 shall prevent an organisation or association from providing training, or facilities or opportunities for training (including facilities or opportunities by way of financial grants), only for persons above a particular age or in a particular age group.
+(4) Nothing in section 57 shall prevent the making of financial grants by an organisation or association only to persons above a particular age or in a particular age group.
+(5) Nothing in section 57 shall prevent an organisation or association from charging different fees to persons in different age groups.
 
 ### 59 Exception in relation to courses and counselling
-Nothing in section 57 of this Act shall prevent the holding or provision, at any educational establishment, of courses or counselling restricted to persons of a particular sex, race, ethnic or national origin, or sexual orientation, where highly personal matters, such as sexual matters or the prevention of violence, are involved.
+Nothing in section 57 shall prevent the holding or provision, at any educational establishment, of courses or counselling restricted to persons of a particular sex, race, ethnic or national origin, or sexual orientation, where highly personal matters, such as sexual matters or the prevention of violence, are involved.
 
 ### 60 Further exceptions in relation to disability
 (1) Nothing in section 57 applies to a person whose disability is such that that person requires special services or facilities that in the circumstances cannot reasonably be made available (being services or facilities that are required to enable the person to participate in the educational programme of an establishment referred to in that section or to enable the person to derive substantial benefits from that programme).
-(2) Subject to subsection (3) of this section, nothing in section 57 of this Act shall apply where the person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be admitted to an educational establishment and it is not reasonable to take that risk.
-(3) Nothing in subsection (2) of this section shall apply if the person in charge of the educational establishment could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
+(2) Subject to subsection (3), nothing in section 57 shall apply where the person's disability is such that there would be a risk of harm to that person or to others, including the risk of infecting others with an illness, if that person were to be admitted to an educational establishment and it is not reasonable to take that risk.
+(3) Nothing in subsection (2) shall apply if the person in charge of the educational establishment could, without unreasonable disruption, take reasonable measures to reduce the risk to a normal level.
 
 **Other forms of discrimination**
 
 ### 61 Racial disharmony
 (1) It shall be unlawful for any person—being matter or words likely to excite hostility against or bring into contempt any group of persons in or who may be coming to New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons.
-  (a) To publish or distribute written matter which is threatening, abusive, or insulting, or to broadcast by means of radio or television words which are threatening, abusive, or insulting; or
-  (b) To use in any public place as defined in section 2(1) of the Summary Offences Act 1981, or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting; or
-  (c) To use in any place words which are threatening, abusive, or insulting if the person using the words knew or ought to have known that the words were reasonably likely to be published in a newspaper, magazine, or periodical or broadcast by means of radio or television,—
-(2) It shall not be a breach of subsection (1) of this section to publish in a newspaper, magazine, or periodical or broadcast by means of radio or television a report relating to the publication or distribution of matter by any person or the broadcast or use of words by any person, if the report of the matter or words accurately conveys the intention of the person who published or distributed the matter or broadcast or used the words.
+  (a) to publish or distribute written matter which is threatening, abusive, or insulting, or to broadcast by means of radio or television words which are threatening, abusive, or insulting; or
+  (b) to use in any public place as defined in section 2(1) of the Summary Offences Act 1981, or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting; or
+  (c) to use in any place words which are threatening, abusive, or insulting if the person using the words knew or ought to have known that the words were reasonably likely to be published in a newspaper, magazine, or periodical or broadcast by means of radio or television,—
+(2) It shall not be a breach of subsection (1) to publish in a newspaper, magazine, or periodical or broadcast by means of radio or television a report relating to the publication or distribution of matter by any person or the broadcast or use of words by any person, if the report of the matter or words accurately conveys the intention of the person who published or distributed the matter or broadcast or used the words.
 (3) For the purposes of this section,—
-  - **Newspaper** means a paper containing public news or observations on public news, or consisting wholly or mainly of advertisements, being a newspaper that is published periodically at intervals not exceeding 3 months
-  - **Publishes** or means publishes or distributes to the public at large or to any member or members of the public
-  - **Written matter** includes any writing, sign, visible representation, or sound recording.
+  - **newspaper** means a paper containing public news or observations on public news, or consisting wholly or mainly of advertisements, being a newspaper that is published periodically at intervals not exceeding 3 months
+  - **publishes** or means publishes or distributes to the public at large or to any member or members of the public
+  - **written matter** includes any writing, sign, visible representation, or sound recording.
 
 ### 62 Sexual harassment
-(1) It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3) of this section) to make a request of any other person for sexual intercourse, sexual contact, or other form of sexual activity which contains an implied or overt promise of preferential treatment or an implied or overt threat of detrimental treatment.
-(2) It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3) of this section) by the use of language (whether written or spoken) of a sexual nature, or of visual material of a sexual nature, or by physical behaviour of a sexual nature, to subject any other person to behaviour that—
-  (a) Is unwelcome or offensive to that person (whether or not that is conveyed to the first-mentioned person); and
-  (b) Is either repeated, or of such a significant nature, that it has a detrimental effect on that person in respect of any of the areas to which this subsection is applied by subsection (3) of this section.
-(3) The areas to which subsections (1) and (2) of this section apply are—
-  (a) The making of an application for employment:
-  (b) Employment, which term includes unpaid work:
-  (c) Participation in, or the making of an application for participation in, a partnership:
-  (d) Membership, or the making of an application for membership, of an industrial union or professional or trade association:
-  (e) Access to any approval, authorisation, or qualification:
-  (f) Vocational training, or the making of an application for vocational training:
-  (g) Access to places, vehicles, and facilities:
-  (h) Access to goods and services:
-  (i) Access to land, housing, or other accommodation:
-  (j) Education.
+(1) It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3)) to make a request of any other person for sexual intercourse, sexual contact, or other form of sexual activity which contains an implied or overt promise of preferential treatment or an implied or overt threat of detrimental treatment.
+(2) It shall be unlawful for any person (in the course of that person's involvement in any of the areas to which this subsection is applied by subsection (3)) by the use of language (whether written or spoken) of a sexual nature, or of visual material of a sexual nature, or by physical behaviour of a sexual nature, to subject any other person to behaviour that—
+  (a) is unwelcome or offensive to that person (whether or not that is conveyed to the first-mentioned person); and
+  (b) is either repeated, or of such a significant nature, that it has a detrimental effect on that person in respect of any of the areas to which this subsection is applied by subsection (3).
+(3) The areas to which subsections (1) and (2) apply are—
+  (a) the making of an application for employment:
+  (b) employment, which term includes unpaid work:
+  (c) participation in, or the making of an application for participation in, a partnership:
+  (d) membership, or the making of an application for membership, of an industrial union or professional or trade association:
+  (e) access to any approval, authorisation, or qualification:
+  (f) vocational training, or the making of an application for vocational training:
+  (g) access to places, vehicles, and facilities:
+  (h) access to goods and services:
+  (i) access to land, housing, or other accommodation:
+  (j) education.
 (4) Where a person complains of sexual harassment, no account shall be taken of any evidence of the person's sexual experience or reputation.
 
 ### 63 Racial harassment
 (1) It shall be unlawful for any person to use language (whether written or spoken), or visual material, or physical behaviour that—
-  (a) Expresses hostility against, or brings into contempt or ridicule, any other person on the ground of the colour, race, or ethnic or national origins of that person; and
-  (b) Is hurtful or offensive to that other person (whether or not that is conveyed to the first-mentioned person); and
-  (c) Is either repeated, or of such a significant nature, that it has a detrimental effect on that other person in respect of any of the areas to which this subsection is applied by subsection (2) of this section.
-(2) The areas to which subsection (1) of this section applies are—
-  (a) The making of an application for employment:
-  (b) Employment, which term includes unpaid work:
-  (c) Participation in, or the making of an application for participation in, a partnership:
-  (d) Membership, or the making of an application for membership, of an industrial union or professional or trade association:
-  (e) Access to any approval, authorisation, or qualification:
-  (f) Vocational training, or the making of an application for vocational training:
-  (g) Access to places, vehicles, and facilities:
-  (h) Access to goods and services:
-  (i) Access to land, housing, or other accommodation:
-  (j) Education.
+  (a) expresses hostility against, or brings into contempt or ridicule, any other person on the ground of the colour, race, or ethnic or national origins of that person; and
+  (b) is hurtful or offensive to that other person (whether or not that is conveyed to the first-mentioned person); and
+  (c) is either repeated, or of such a significant nature, that it has a detrimental effect on that other person in respect of any of the areas to which this subsection is applied by subsection (2).
+(2) The areas to which subsection (1) applies are—
+  (a) the making of an application for employment:
+  (b) employment, which term includes unpaid work:
+  (c) participation in, or the making of an application for participation in, a partnership:
+  (d) membership, or the making of an application for membership, of an industrial union or professional or trade association:
+  (e) access to any approval, authorisation, or qualification:
+  (f) vocational training, or the making of an application for vocational training:
+  (g) access to places, vehicles, and facilities:
+  (h) access to goods and services:
+  (i) access to land, housing, or other accommodation:
+  (j) education.
 
 ### 64 Choice of procedures
 [Repealed]
 
 ### 65 Indirect discrimination
-Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part of this Act has the effect of treating a person or group of persons differently on one of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part of this Act other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
+Where any conduct, practice, requirement, or condition that is not apparently in contravention of any provision of this Part has the effect of treating a person or group of persons differently on 1 of the prohibited grounds of discrimination in a situation where such treatment would be unlawful under any provision of this Part other than this section, that conduct, practice, condition, or requirement shall be unlawful under that provision unless the person whose conduct or practice is in issue, or who imposes the condition or requirement, establishes good reason for it.
 
 ### 66 Victimisation
 (1) It shall be unlawful for any person to treat or to threaten to treat any other person less favourably than he or she would treat other persons in the same or substantially similar circumstances—
@@ -731,80 +737,80 @@ Where any conduct, practice, requirement, or condition that is not apparently in
     (iii) has given information or evidence in relation to any complaint, investigation, or proceeding under this Act or arising out of a disclosure under the Protected Disclosures Act 2000; or
     (iv) has declined to do an act that would contravene this Act; or
     (v) has otherwise done anything under or by reference to this Act; or
-  (b) On the ground that he or she knows that that person, or any relative or associate of that person, intends to do any of the things mentioned in subparagraphs (i) to (v) of paragraph (a) of this subsection or that he or she suspects that that person, or any relative or associate of that person, has done, or intends to do, any of those things.
-(2) Subsection (1) of this section shall not apply where a person is treated less favourably because he or she has knowingly made a false allegation or otherwise acted in bad faith.
+  (b) on the ground that he or she knows that that person, or any relative or associate of that person, intends to do any of the things mentioned in subparagraphs (i) to (v) of paragraph (a) or that he or she suspects that that person, or any relative or associate of that person, has done, or intends to do, any of those things.
+(2) Subsection (1) shall not apply where a person is treated less favourably because he or she has knowingly made a false allegation or otherwise acted in bad faith.
 
 ### 67 Advertisements
-(1) It shall be unlawful for any person to publish or display, or to cause or allow to be published or displayed, any advertisement or notice which indicates, or could reasonably be understood as indicating, an intention to commit a breach of any of the provisions of this Part of this Act.
-(2) For the purposes of subsection (1) of this section, use of a job description with a gender connotation (such as postman or stewardess) shall be taken to indicate an intention to discriminate, unless the advertisement contains an indication to the contrary.
+(1) It shall be unlawful for any person to publish or display, or to cause or allow to be published or displayed, any advertisement or notice which indicates, or could reasonably be understood as indicating, an intention to commit a breach of any of the provisions of this Part.
+(2) For the purposes of subsection (1), use of a job description with a gender connotation (such as postman or stewardess) shall be taken to indicate an intention to discriminate, unless the advertisement contains an indication to the contrary.
 
 ### 68 Liability of employer and principals
-(1) Subject to subsection (3) of this section, anything done or omitted by a person as the employee of another person shall, for the purposes of this Part of this Act, be treated as done or omitted by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
-(2) Anything done or omitted by a person as the agent of another person shall, for the purposes of this Part of this Act, be treated as done or omitted by that other person as well as by the first-mentioned person, unless it is done or omitted without that other person's express or implied authority, precedent or subsequent.
+(1) Subject to subsection (3), anything done or omitted by a person as the employee of another person shall, for the purposes of this Part, be treated as done or omitted by that other person as well as by the first-mentioned person, whether or not it was done with that other person's knowledge or approval.
+(2) Anything done or omitted by a person as the agent of another person shall, for the purposes of this Part, be treated as done or omitted by that other person as well as by the first-mentioned person, unless it is done or omitted without that other person's express or implied authority, precedent or subsequent.
 (3) In proceedings under this Act against any person in respect of an act alleged to have been done by an employee of that person, it shall be a defence for that person to prove that he or she took such steps as were reasonably practicable to prevent the employee from doing that act, or from doing as an employee of that person acts of that description.
 
 ### 69 Further provision in relation to sexual or racial harassment in employment
 (1) Where—by a person who is a customer or a client of the employee's employer, the employee may make a complaint in writing about that request or behaviour to the employee's employer.
-  (a) A request of the kind described in section 62(1) of this Act is made to an employee; or
-  (b) An employee is subjected to behaviour of the kind described in section 62(2) or section 63 of this Act—
-(2) The employer, on receiving a complaint under subsection (1) of this section,—shall take whatever steps are practicable to prevent any repetition of such a request or of such behaviour.
-  (a) Shall inquire into the facts; and
-  (b) If satisfied that such a request was made or that such behaviour took place,—
-(3) Where any person, being a person in relation to whom an employee has made a complaint under subsection (1) of this section,—that employer shall be deemed to have committed a breach of this Act and the provisions of this Act shall apply accordingly.
-  (a) Either—
-    (i) Makes to that employee after the complaint a request of the kind described in section 62(1) of this Act; or
-    (ii) Subjects that employee after the complaint to behaviour of the kind described in section 62(2) or section 63 of this Act; and
-  (b) The employer of that employee has not taken whatever steps are practicable to prevent the repetition of such a request or such behaviour,—
+  (a) a request of the kind described in section 62(1) is made to an employee; or
+  (b) an employee is subjected to behaviour of the kind described in section 62(2) or section 63—
+(2) The employer, on receiving a complaint under subsection (1),—shall take whatever steps are practicable to prevent any repetition of such a request or of such behaviour.
+  (a) shall inquire into the facts; and
+  (b) if satisfied that such a request was made or that such behaviour took place,—
+(3) Where any person, being a person in relation to whom an employee has made a complaint under subsection (1),—that employer shall be deemed to have committed a breach of this Act and the provisions of this Act shall apply accordingly.
+  (a) either—
+    (i) makes to that employee after the complaint a request of the kind described in section 62(1); or
+    (ii) subjects that employee after the complaint to behaviour of the kind described in section 62(2) or section 63; and
+  (b) the employer of that employee has not taken whatever steps are practicable to prevent the repetition of such a request or such behaviour,—
 
 **Special provisions relating to superannuation schemes**
 
 ### 70 Superannuation schemes
-(1) Subject to subsection (3) of this section, nothing in section 22 or section 44 of this Act relating to different treatment on the ground of age or disability shall apply to any condition in, or requirement of, a superannuation scheme in existence at the commencement of this Act in relation to a person who was a member of the scheme at the commencement of this Act or who becomes a member of the scheme before the 1st day of January 1996.
+(1) Subject to subsection (3), nothing in section 22 or section 44 relating to different treatment on the ground of age or disability shall apply to any condition in, or requirement of, a superannuation scheme in existence at the commencement of this Act in relation to a person who was a member of the scheme at the commencement of this Act or who becomes a member of the scheme before 1 January 1996.
 (2) It shall continue to be lawful for the provisions of a superannuation scheme to provide—if the different treatment—
-  (a) Different benefits for members of each sex on the basis of the same contributions; or
-  (b) The same benefits for members of each sex on the basis of different contributions,—
-  (c) Is based on actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; and
-  (d) Is reasonable having regard to the applicability of the data, and of any other relevant factors, to the particular circumstances.
+  (a) different benefits for members of each sex on the basis of the same contributions; or
+  (b) the same benefits for members of each sex on the basis of different contributions,—
+  (c) is based on actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; and
+  (d) is reasonable having regard to the applicability of the data, and of any other relevant factors, to the particular circumstances.
 (3) It shall continue to be unlawful to require an applicant for membership of a superannuation scheme to have attained a minimum age.
-(4) Nothing in section 22 or section 44 of this Act shall prevent the provisions of a superannuation scheme from—by reason of the disability or age of those members, if the different treatment—
-  (a) Providing or requiring different contributions for members; or
-  (b) Providing benefits for members that differ in nature or amount,—
-  (c) Is based on—
-    (i) Actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
-    (ii) Where no such data is available in respect of persons with a disability, reputable medical or actuarial advice or opinion, upon which it is reasonable to rely, whether or not contained in an underwriting manual; and
-  (d) Is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
-(5) Nothing in section 22 or section 44 of this Act shall prevent the provisions of a superannuation scheme, or the trustees of the scheme, from—
-  (a) Requiring an applicant for membership of the scheme to be under a specified maximum age; or
-  (b) Permitting a member of the scheme to elect to make increased or reduced contributions to the scheme either temporarily or indefinitely; or
-  (c) Specifying an age of eligibility for each type of benefit provided for members of the scheme; or
-  (d) Subject to section 9C of the Superannuation Schemes Act 1989, requiring persons who become members of the scheme on or after the 1st day of January 1995 to leave the scheme on reaching the age at which persons of that age ordinarily qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001; or
-  (e) Providing benefits on the death or disability of members of the scheme that decrease in value as the age of members increases; or
-  (f) Providing benefits for members of the scheme that differ in nature and amount according to the member's period of membership (including any period deemed by the trustees of the scheme to be membership) of the scheme and of any scheme replaced by that scheme, and, in the case of a superannuation scheme provided by an employer, of any scheme to which the employer has paid contributions on behalf of the employee.
+(4) Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme from—by reason of the disability or age of those members, if the different treatment—
+  (a) providing or requiring different contributions for members; or
+  (b) providing benefits for members that differ in nature or amount,—
+  (c) is based on—
+    (i) actuarial or statistical data, upon which it is reasonable to rely, relating to life-expectancy, accidents, or sickness; or
+    (ii) where no such data is available in respect of persons with a disability, reputable medical or actuarial advice or opinion, upon which it is reasonable to rely, whether or not contained in an underwriting manual; and
+  (d) is reasonable having regard to the applicability of the data or advice or opinion, and of any other relevant factors, to the particular circumstances.
+(5) Nothing in section 22 or section 44 shall prevent the provisions of a superannuation scheme, or the trustees of the scheme, from—
+  (a) requiring an applicant for membership of the scheme to be under a specified maximum age; or
+  (b) permitting a member of the scheme to elect to make increased or reduced contributions to the scheme either temporarily or indefinitely; or
+  (c) specifying an age of eligibility for each type of benefit provided for members of the scheme; or
+  (d) subject to section 9C of the Superannuation Schemes Act 1989, requiring persons who become members of the scheme on or after 1 January 1995 to leave the scheme on reaching the age at which persons of that age ordinarily qualify for national superannuation under section 7 of the New Zealand Superannuation and Retirement Income Act 2001; or
+  (e) providing benefits on the death or disability of members of the scheme that decrease in value as the age of members increases; or
+  (f) providing benefits for members of the scheme that differ in nature and amount according to the member's period of membership (including any period deemed by the trustees of the scheme to be membership) of the scheme and of any scheme replaced by that scheme, and, in the case of a superannuation scheme provided by an employer, of any scheme to which the employer has paid contributions on behalf of the employee.
 (6) In assessing for the purposes of this section whether it is reasonable to rely on any data or advice or opinion and whether different treatment is reasonable, the Commission or the Complaints Division may—
-  (a) Require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
-  (b) Request the views of the Government Actuary on the justification for the reliance and for the different treatment.
+  (a) require justification to be provided for reliance on the data or advice or opinion and for the different treatment; and
+  (b) request the views of the Government Actuary on the justification for the reliance and for the different treatment.
 
 ### 71 Reports on superannuation schemes
 The Commission shall from time to time, after consultation with the Government Actuary, report to the Minister on whether discrimination on the prohibited grounds has been eliminated from superannuation schemes.
 
 ### 72 Power to vary trust deeds
-(1) Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70 of this Act.
-(2) Every amendment to the provisions of an instrument or conditions governing any superannuation scheme made under subsection (1) of this section on or after the commencement of the Human Rights Amendment Act 1994 must be made by deed.
+(1) Notwithstanding any Act or rule of law or the provisions of the instrument or conditions governing any superannuation scheme, the trustees of the scheme may make such amendments to that instrument or those conditions as are necessary or desirable to give effect to the provisions of sections 22, 44, and 70.
+(2) Every amendment to the provisions of an instrument or conditions governing any superannuation scheme made under subsection (1) on or after the commencement of the Human Rights Amendment Act 1994 must be made by deed.
 
 **Other matters**
 
 ### 73 Measures to ensure equality
-(1) Anything done or omitted which would otherwise constitute a breach of any of the provisions of this Part of this Act shall not constitute such a breach if—
-  (a) It is done or omitted in good faith for the purpose of assisting or advancing persons or groups of persons, being in each case persons against whom discrimination is unlawful by virtue of this Part of this Act; and
-  (b) Those persons or groups need or may reasonably be supposed to need assistance or advancement in order to achieve an equal place with other members of the community.
-(2) Nothing in this Part of this Act—
-  (a) Limits the power of the Crown to establish or arrange work or training schemes or employment assistance measures, eligibility for which may, in whole or in part, be determined by a person's age, employment status, or family status; or
-  (b) Makes it unlawful for any person to recruit or refer any other person who is of a particular age or of a particular employment status or of a particular family status for any work or training scheme or employment assistance measure that is established or arranged by the Crown, the eligibility for which may, in whole or in part, be determined by a person's age, employment status, or family status.
+(1) Anything done or omitted which would otherwise constitute a breach of any of the provisions of this Part shall not constitute such a breach if—
+  (a) it is done or omitted in good faith for the purpose of assisting or advancing persons or groups of persons, being in each case persons against whom discrimination is unlawful by virtue of this Part; and
+  (b) those persons or groups need or may reasonably be supposed to need assistance or advancement in order to achieve an equal place with other members of the community.
+(2) Nothing in this Part—
+  (a) limits the power of the Crown to establish or arrange work or training schemes or employment assistance measures, eligibility for which may, in whole or in part, be determined by a person's age, employment status, or family status; or
+  (b) makes it unlawful for any person to recruit or refer any other person who is of a particular age or of a particular employment status or of a particular family status for any work or training scheme or employment assistance measure that is established or arranged by the Crown, the eligibility for which may, in whole or in part, be determined by a person's age, employment status, or family status.
 
 ### 74 Measures relating to pregnancy, childbirth, or family responsibilities
-For the avoidance of doubt it is hereby declared that preferential treatment granted by reason of—shall not constitute a breach of this Part of this Act.
-  (a) A woman's pregnancy or childbirth; or
-  (b) A person's responsibility for part-time care or full-time care of children or other dependants—
+For the avoidance of doubt it is hereby declared that preferential treatment granted by reason of—shall not constitute a breach of this Part.
+  (a) a woman's pregnancy or childbirth; or
+  (b) a person's responsibility for part-time care or full-time care of children or other dependants—
 
 ## Part 3 — Resolution of disputes about compliance with Part 1A and Part 2
 
@@ -860,7 +866,7 @@ Services provided under section 77 may be provided in any manner, including—
 (6) Nothing in this section prevents the Commission from involving any person that it considers appropriate in information gathering and the resolution of disputes.
 
 ### 79A Choice of procedures
-(1) If the circumstances giving rise to a complaint under Part 2 are such that an employee would also be entitled to pursue a personal grievance under the Employment Relations Act 2000, the employee may take 1, but not both, of the following steps:
+(1) If the circumstances giving rise to a complaint under Part 2 are such that an employee would also be entitled to pursue a personal grievance under the Employment Relations Act 2000, the employee may take one, but not both, of the following steps:
   (a) the employee may make in relation to those circumstances a complaint under this Act:
   (b) the employee may, if the grievance is not otherwise resolved, apply to the Employment Relations Authority for the resolution of the grievance under the Employment Relations Act 2000.
 (2) To avoid doubt, a complaint referred to in subsection (1) includes, but is not limited to, a complaint about sexual harassment or racial harassment.
@@ -1121,7 +1127,7 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
   (a) pecuniary loss suffered as a result of, and expenses reasonably incurred by the complainant or, as the case may be, the aggrieved person for the purpose of, the transaction or activity out of which the breach arose:
   (b) loss of any benefit, whether or not of a monetary kind, that the complainant or, as the case may be, the aggrieved person might reasonably have been expected to obtain but for the breach:
   (c) humiliation, loss of dignity, and injury to the feelings of the complainant or, as the case may be, the aggrieved person.
-(2) This section applies subject to sections 92J, 92N, and 92O of this Act and to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
+(2) This section applies subject to sections 92J, 92N, and 92O and to subpart 1 of Part 2 of the Prisoners' and Victims' Claims Act 2005.
 
 ### 92N Directions as to payment of damages in certain cases
 (1) If the plaintiff is a minor who is not married or in a civil union, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust or to a person or trustee corporation acting as the manager of any property of the plaintiff.
@@ -1131,8 +1137,8 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
   (b) if damages do not fall within the terms of the property order, the Tribunal may, in its discretion, direct the defendant to pay damages awarded under section 92M to Public Trust.
 (4) If money is paid to Public Trust under any of subsections (1) to (3),—
   (a) section 12 of the Minors' Contracts Act 1969 applies in the case of a minor who is not married or in a civil union; and
-  (b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (2) or subsection (3)(b) of this section; and
-  (c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (3)(a) of this section.
+  (b) sections 108D, 108F, and 108G of the Protection of Personal and Property Rights Act 1988 apply, with any necessary modifications, in the case of a person referred to in subsection (2) or subsection (3)(b); and
+  (c) section 108E of the Protection of Personal and Property Rights Act 1988 applies, with any necessary modifications, in the case of a person referred to in subsection (3)(a).
 
 ### 92O Tribunal may defer or modify remedies for breach of Part 1A or Part 2 or terms of settlement
 (1) If, in any proceedings under this Part, the Tribunal determines that an act or omission is in breach of Part 1A or Part 2 or the terms of a settlement of a complaint, it may, on the application of any party to the proceedings, take 1 or more of the actions stated in subsection (2).
@@ -1158,14 +1164,14 @@ Proceedings before the Tribunal are to be commenced by the lodging of an applica
   (a) the requirements of fair public administration; and
   (b) the obligation of the Government to balance competing demands for the expenditure of public money.
 
-**Monetary limits on remedies tribunal may grant**
+**Monetary limits on remedies Tribunal may grant**
 
 ### 92Q Monetary limits on remedies Tribunal may grant
 (1) Proceedings under section 92B or section 92E may be brought before the Human Rights Review Tribunal irrespective of the amount of damages claimed or the value of the property in respect of which any remedy is sought.
 (2) However, except as provided in sections 92R to 92V, the Tribunal must not award any damages or grant any remedy in any proceedings of that kind if the making of that award or the granting of that remedy would, because of the monetary limits contained in sections 29 to 34 of the District Courts Act 1947, be beyond the jurisdiction of a District Court.
 (3) For the purposes of subsection (2), if civil proceedings under section 92B are brought on behalf of more than 1 complainant or, as the case may be, more than 1 aggrieved person, those proceedings must, for the purpose of applying any monetary limit under subsection (2), be treated as if each complainant or, as the case may be, each aggrieved person on whose behalf those proceedings are brought, were the plaintiff in a separate action against the defendant.
 
-**Granting of remedies by high court on reference from tribunal**
+**Granting of remedies by High Court on reference from Tribunal**
 
 ### 92R Tribunal to refer granting of remedies to High Court
 The Human Rights Review Tribunal must refer the granting of a remedy in any proceedings under section 92B or section 92E to the High Court if the Tribunal is satisfied on the balance of probabilities that a defendant in the proceedings has committed a breach of Part 1A or Part 2 or the terms of a settlement of a complaint, but that—
@@ -1175,7 +1181,7 @@ The Human Rights Review Tribunal must refer the granting of a remedy in any proc
 ### 92S Further provisions on reference to High Court
 (1) A reference under section 92R is made by sending, to the Registrar of the High Court nearest to where the proceedings were commenced, a report on the proceedings that—
   (a) sets out the Tribunal's finding with regard to the breach of Part 1A or Part 2 or the terms of a settlement of a complaint; and
-  (b) includes, or is accompanied by, a statement of the considerations to which the Tribunal has had regard in making the reference to that Court.
+  (b) includes, or is accompanied by, a statement of the considerations to which the Tribunal has had regard in making the reference to that court.
 (2) A copy of the report must be given or sent promptly to every party to the proceedings.
 (3) Except as provided in this Act, the procedure for a reference under section 92R is the same as the procedure prescribed by rules of court in respect of appeals, and those rules apply with all necessary modifications.
 
@@ -1194,7 +1200,7 @@ The Human Rights Review Tribunal must refer the granting of a remedy in any proc
   (a) limits sections 123 to 125; or
   (b) prevents the making of an appeal in accordance with section 123 in respect of a determination of the Tribunal in which a decision of the High Court is included in accordance with subsection (1)(a).
 
-**Abandonment or agreement to bring claim within tribunal's jurisdiction**
+**Abandonment or agreement to bring claim within Tribunal's jurisdiction**
 
 ### 92V Abandonment to enable Tribunal to make award of damages
 (1) This section applies where the Tribunal would have jurisdiction in any proceedings under section 92B or section 92E to make an award of damages in accordance with section 92M if the amount of the award were within the limit for the time being fixed by section 29(1) of the District Courts Act 1947 (as applied by section 92Q(2)).
@@ -1215,13 +1221,13 @@ The Tribunal constituted by section 45 of the Human Rights Commission Act 1977 a
 
 ### 94 Functions of Tribunal
 The functions of the Tribunal shall be—
-  (a) To consider and adjudicate upon proceedings brought pursuant to sections 92B, 92E, 95, and 97:
-  (b) To exercise and perform such other functions, powers, and duties as are conferred or imposed on it by or under this Act or any other enactment.
+  (a) to consider and adjudicate upon proceedings brought pursuant to sections 92B, 92E, 95, and 97:
+  (b) to exercise and perform such other functions, powers, and duties as are conferred or imposed on it by or under this Act or any other enactment.
 
 ### 95 Power to make interim order
 (1) In respect of any matter in which the Tribunal has jurisdiction under this Act to make any final determination, the Chairperson of the Tribunal shall have power to make an interim order if he or she is satisfied that it is necessary in the interests of justice to make the order to preserve the position of the parties pending a final determination of the proceedings.
 (2) An application for an interim order may be made,—
-  (a) in the case of proceedings under section 92B(1), 92B(2), 92B(3), or 92B(4), by the person or body bringing the proceedings; and
+  (a) in the case of proceedings under section 92B(1), (2), (3), or (4), by the person or body bringing the proceedings; and
   (b) in the case of proceedings under section 92E, by the Commission.
 (3) A copy of the application shall be served on the defendant who shall be entitled to be heard before a decision on the application is made.
 
@@ -1240,15 +1246,15 @@ Where an interim order has been made, the defendant may, with the leave of the T
 
 ### 98 Membership of Tribunal
 The Tribunal shall consist of—
-  (a) A Chairperson; and
-  (b) Two other persons appointed by the Chairperson for the purposes of each hearing from a panel maintained by the Minister under section 101 of this Act.
+  (a) a Chairperson; and
+  (b) 2 other persons appointed by the Chairperson for the purposes of each hearing from a panel maintained by the Minister under section 101.
 
 ### 99 Chairpersons of Tribunal
 (1) Every Chairperson of the Tribunal shall be appointed by the Governor-General on the recommendation of the Minister.
 (2) Where the Governor-General on the recommendation of the Minister considers it necessary, the Governor-General may appoint 2 persons to the office of Chairperson of the Tribunal.
 (3) Where there are 2 Chairpersons of the Tribunal, each Chairperson shall exercise principally those parts of the Tribunal's jurisdiction that are specified from time to time in his or her warrant of appointment but nothing shall prevent each Chairperson from exercising any other part of the Tribunal's jurisdiction.
 (4) Where a second Chairperson of the Tribunal is appointed, a new warrant of appointment may be issued to the existing Chairperson specifying the parts of the Tribunal's jurisdiction that the existing Chairperson is principally to exercise.
-(5) In this Part of this Act, a reference to the Chairperson or the Chairperson of the Tribunal shall be read as a reference to either Chairperson where there are 2 Chairpersons of the Tribunal.
+(5) In this Part, a reference to the Chairperson or the Chairperson of the Tribunal shall be read as a reference to either Chairperson where there are 2 Chairpersons of the Tribunal.
 
 ### 99A Criteria and requirement for appointment of Chairpersons
 (1) In recommending a person for appointment as a Chairperson of the Tribunal, the Minister must have regard not only to the matters stated in section 101(2) but also to the person's—
@@ -1259,16 +1265,16 @@ The Tribunal shall consist of—
 
 ### 100 Appointment and term of office
 (1)
-(2) Except as otherwise provided in section 103 of this Act, every person appointed as a Chairperson of the Tribunal shall hold office for such term, not exceeding 5 years, as the Governor-General on the recommendation of the Minister shall specify in the instrument appointing that Chairperson.
+(2) Except as otherwise provided in section 103, every person appointed as a Chairperson of the Tribunal shall hold office for such term, not exceeding 5 years, as the Governor-General on the recommendation of the Minister shall specify in the instrument appointing that Chairperson.
 (3) Any person appointed as a Chairperson may hold that office concurrently with any other office held by him or her and may from time to time be reappointed.
-(4) Where the term for which a Chairperson has been appointed expires, that Chairperson, unless sooner vacating or removed from office under section 103 of this Act, shall continue to hold office, by virtue of the appointment for the term that has expired, until—
-  (a) That Chairperson is reappointed; or
-  (b) A successor to that Chairperson is appointed; or
-  (c) That Chairperson is informed in writing by the Minister that that Chairperson is not to be reappointed and that a successor to that Chairperson is not to be appointed.
+(4) Where the term for which a Chairperson has been appointed expires, that Chairperson, unless sooner vacating or removed from office under section 103, shall continue to hold office, by virtue of the appointment for the term that has expired, until—
+  (a) that Chairperson is reappointed; or
+  (b) a successor to that Chairperson is appointed; or
+  (c) that Chairperson is informed in writing by the Minister that that Chairperson is not to be reappointed and that a successor to that Chairperson is not to be appointed.
 
 ### 101 Panel
-(1) The Minister shall maintain a panel of not more than 20 persons who may be appointed pursuant to section 98 of this Act.
-(2) In considering the suitability of persons for inclusion on the Panel, the Minister must have regard to the need for persons included on the Panel to have between them knowledge of, or experience in,—
+(1) The Minister shall maintain a panel of not more than 20 persons who may be appointed pursuant to section 98.
+(2) In considering the suitability of persons for inclusion on the panel, the Minister must have regard to the need for persons included on the panel to have between them knowledge of, or experience in,—
   (a) different aspects of matters likely to come before the Tribunal:
   (b) New Zealand law, or the law of another country, or international law, on human rights:
   (c) public administration, or the law relating to public administration:
@@ -1276,11 +1282,11 @@ The Tribunal shall consist of—
   (e) cultural issues and the needs and aspirations (including life experiences) of different communities of interest and population groups in New Zealand society.
 (2A) At least 3 members of the panel must be barristers or solicitors of the High Court of not less than 5 years' practice.
 (3) The name of a person shall be removed from the panel if—
-  (a) The person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
-  (b) The Minister directs that the name of the person be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
-  (c) A period of 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
-  (d) The person requests by writing addressed to the Minister that his or her name be removed.
-(4) Where subsection (3)(c) or subsection (3)(d) of this section applies, the name of the person shall not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
+  (a) the person dies or is, under the Insolvency Act 2006, adjudged bankrupt; or
+  (b) the Minister directs that the name of the person be removed from the panel for disability affecting performance of duty, neglect of duty, or misconduct, proved to the satisfaction of the Minister; or
+  (c) a period of 5 years has elapsed since the date on which the Minister last approved the entry of the person's name; or
+  (d) the person requests by writing addressed to the Minister that his or her name be removed.
+(4) Where subsection (3)(c) or subsection (3)(d) applies, the name of the person shall not be removed from the panel until any hearings in respect of which that person was appointed to the Tribunal have concluded.
 
 ### 102 Deputy Chairperson
 (1) In any case in which a Chairperson of the Tribunal becomes incapable of acting by reason of illness, absence, or other sufficient cause, or if a Chairperson deems it not proper or desirable that he or she should adjudicate on any specified matter, the Governor-General, on the recommendation of the Minister, may appoint a suitable person to be the deputy of that Chairperson to act for that Chairperson for the period or purpose stated in the appointment.
@@ -1317,16 +1323,16 @@ The Tribunal shall consist of—
   (d) receive as evidence any statement, document, information, or matter that may, in its opinion, assist to deal effectively with the matter before it, whether or not it would be admissible in a court of law.
 (2) The Tribunal may take evidence on oath, and for that purpose any member or officer of the Tribunal may administer an oath.
 (3) The Tribunal may permit a person appearing as a witness before it to give evidence by tendering a written statement and, if the Tribunal thinks fit, verifying it by oath.
-(4) Subject to subsections (1) to (3) of this section, the Evidence Act 2006 shall apply to the Tribunal in the same manner as if the Tribunal were a Court within the meaning of that Act.
+(4) Subject to subsections (1) to (3), the Evidence Act 2006 shall apply to the Tribunal in the same manner as if the Tribunal were a court within the meaning of that Act.
 
 ### 107 Sittings to be held in public except in special circumstances
-(1) Except as provided by subsections (2) and (3) of this section, every hearing of the Tribunal shall be held in public.
+(1) Except as provided by subsections (2) and (3), every hearing of the Tribunal shall be held in public.
 (2) The Tribunal may deliberate in private as to its decision in any matter or as to any question arising in the course of any proceedings before it.
 (3) Where the Tribunal is satisfied that it is desirable to do so, the Tribunal may, of its own motion or on the application of any party to the proceedings,—
-  (a) Order that any hearing held by it be heard in private, either as to the whole or any portion thereof:
-  (b) Make an order prohibiting the publication of any report or account of the evidence or other proceedings in any proceedings before it (whether heard in public or in private) either as to the whole or any portion thereof:
-  (c) Make an order prohibiting the publication of the whole or part of any books or documents produced at any hearing of the Tribunal.
-(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c) of this section.
+  (a) order that any hearing held by it be heard in private, either as to the whole or any portion thereof:
+  (b) make an order prohibiting the publication of any report or account of the evidence or other proceedings in any proceedings before it (whether heard in public or in private) either as to the whole or any portion thereof:
+  (c) make an order prohibiting the publication of the whole or part of any books or documents produced at any hearing of the Tribunal.
+(4) Every person commits an offence and is liable on summary conviction to a fine not exceeding $3,000 who acts in contravention of any order made by the Tribunal under subsection (3)(b) or subsection (3)(c).
 
 ### 108 Persons entitled to be heard
 (1) Any person who is a party to the proceedings before the Tribunal, and any person who satisfies the Tribunal that he or she has an interest in the proceedings greater than the public generally, may appear and may call evidence on any matter that should be taken into account in determining the proceedings.
@@ -1345,51 +1351,51 @@ The Tribunal must notify the Attorney-General promptly of the bringing of procee
 ### 109 Witness summons
 (1) The Tribunal may, if it considers it necessary, of its own motion, or on the application of any party to the proceedings, issue a witness summons to any person requiring that person to attend before the Tribunal to give evidence at the hearing of the proceedings.
 (2) The witness summons shall state—
-  (a) The place where the person is to attend; and
-  (b) The date and time when the person is to attend; and
-  (c) The papers, documents, records, or things which that person is required to bring and produce to the Tribunal; and
-  (d) The entitlement to be tendered or paid a sum in respect of allowances and travelling expenses; and
-  (e) The penalty for failing to attend.
+  (a) the place where the person is to attend; and
+  (b) the date and time when the person is to attend; and
+  (c) the papers, documents, records, or things which that person is required to bring and produce to the Tribunal; and
+  (d) the entitlement to be tendered or paid a sum in respect of allowances and travelling expenses; and
+  (e) the penalty for failing to attend.
 (3) The power to issue a witness summons may be exercised by the Tribunal or a Chairperson, or by any officer of the Tribunal purporting to act by the direction or with the authority of the Tribunal or a Chairperson.
 
 ### 110 Service of summons
 (1) A witness summons may be served—
-  (a) By delivering it personally to the person summoned; or
-  (b) By posting it by registered letter addressed to the person summoned at that person's usual place of residence.
+  (a) by delivering it personally to the person summoned; or
+  (b) by posting it by registered letter addressed to the person summoned at that person's usual place of residence.
 (2) The summons shall,—
-  (a) Where it is served under subsection (1)(a) of this section, be served at least 24 hours before the attendance of the witness is required; or
-  (b) Where it is served under subsection (1)(b) of this section, be served at least 10 days before the date on which the attendance of the witness is required.
-(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) of this section to have been served at the time when the letter would be delivered in the ordinary course of post.
+  (a) where it is served under subsection (1)(a), be served at least 24 hours before the attendance of the witness is required; or
+  (b) where it is served under subsection (1)(b), be served at least 10 days before the date on which the attendance of the witness is required.
+(3) If the summons is posted by registered letter, it shall be deemed for the purposes of subsection (2)(b) to have been served at the time when the letter would be delivered in the ordinary course of post.
 
 ### 111 Witnesses' allowances
 (1) Every witness attending before the Tribunal to give evidence pursuant to a summons shall be entitled to be paid witnesses' fees, allowances, and travelling expenses according to the scales for the time being prescribed by regulations made under the Summary Proceedings Act 1957, and those regulations shall apply accordingly.
-(2) On each occasion on which the Tribunal issues a summons under section 109(1) of this Act, the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
-(3) The amount fixed under subsection (2) of this section shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
+(2) On each occasion on which the Tribunal issues a summons under section 109(1), the Tribunal, or the person exercising the power of the Tribunal under subsection (3) of that section, shall fix an amount which, on the service of the summons, or at some other reasonable time before the date on which the witness is required to attend, shall be paid or tendered to the witness.
+(3) The amount fixed under subsection (2) shall be the estimated amount of the allowances and travelling expenses to which, in the opinion of the Tribunal or person, the witness will be entitled according to the prescribed scales if the witness attends at the time and place specified in the summons.
 (4) Where a party to the proceedings has requested the issue of the witness summons, the fees, allowances, and travelling expenses payable to the witness shall be paid by that party.
 (5) Where the Tribunal has of its own motion issued the witness summons, the Tribunal may direct that the amount of those fees, allowances, and travelling expenses—
-  (a) Form part of the costs of the proceedings; or
-  (b) Be paid from money appropriated by Parliament for the purpose.
+  (a) form part of the costs of the proceedings; or
+  (b) be paid from money appropriated by Parliament for the purpose.
 
 ### 112 Privileges and immunities
 Witnesses and counsel appearing before the Tribunal shall have the same privileges and immunities as witnesses and counsel have in proceedings in a District Court.
 
 ### 113 Non-attendance or refusal to co-operate
 (1) Every person commits an offence who, after being summoned to attend to give evidence before the Tribunal or to produce to the Tribunal any papers, documents, records, or things, without sufficient cause,—
-  (a) Fails to attend in accordance with the summons; or
-  (b) Refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings; or
-  (c) Fails to produce any such paper, document, record, or thing.
-(2) Every person who commits an offence against subsection (1) of this section is liable on summary conviction to a fine not exceeding $1,500.
-(3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) of this section unless there was tendered or paid to that person travelling expenses in accordance with section 111 of this Act.
+  (a) fails to attend in accordance with the summons; or
+  (b) refuses to be sworn or to give evidence, or, having been sworn, refuses to answer any question that the person is lawfully required by the Tribunal or any member of it to answer concerning the proceedings; or
+  (c) fails to produce any such paper, document, record, or thing.
+(2) Every person who commits an offence against subsection (1) is liable on summary conviction to a fine not exceeding $1,500.
+(3) No person summoned to attend before a Tribunal shall be convicted of an offence against subsection (1) unless there was tendered or paid to that person travelling expenses in accordance with section 111.
 
 ### 114 Power to commit for contempt
-(1) If any person—any officer of the Tribunal, with or without the assistance of any member of the Police or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
-  (a) Assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
-  (b) Intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
-  (c) Intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,—
-(2) A warrant under subsection (1) of this section may be filed in any District Court and shall then be enforceable as an order made by that Court.
+(1) If any person—any officer of the Tribunal, with or without the assistance of any constable or other person, may, in accordance with any order given by a member of the Tribunal, take the person into custody and detain him or her for a period expiring not later than 1 hour following the rising of the Tribunal, and the Chairperson may, if he or she thinks fit, by warrant under his or her hand, commit the person to prison for any period not exceeding 10 days or impose a fine not exceeding $1,500.
+  (a) assaults, threatens, or intimidates, or intentionally insults, the Tribunal or any member of it or any special adviser to or officer of the Tribunal, during a sitting of the Tribunal, or in going to, or returning from, any sitting; or
+  (b) intentionally interrupts the proceedings of the Tribunal or otherwise misbehaves while the Tribunal is sitting; or
+  (c) intentionally and without lawful excuse disobeys an order or direction of a member of the Tribunal in the course of any proceedings before the Tribunal,—
+(2) A warrant under subsection (1) may be filed in any District Court and shall then be enforceable as an order made by that court.
 
 ### 115 Tribunal may dismiss trivial, etc, proceedings
-The Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E of this Act if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith.
+The Tribunal may at any time dismiss any proceedings brought under section 92B or section 92E if it is satisfied that they are trivial, frivolous, or vexatious or are not brought in good faith.
 
 ### 116 Reasons to be given
 (1) This section applies to the following decisions of the Tribunal:
@@ -1403,7 +1409,7 @@ The Tribunal may at any time dismiss any proceedings brought under section 92B o
 (3) The Tribunal must notify the parties, the Attorney-General, and the Human Rights Commission of every decision of the Tribunal.
 
 ### 117 Seal of Tribunal
-The Tribunal shall have a seal, which shall be judicially noticed in all Courts and for all purposes.
+The Tribunal shall have a seal, which shall be judicially noticed in all courts and for all purposes.
 
 ### 118 Members of Tribunal not personally liable
 No member of the Tribunal shall be personally liable for any act done or omitted to be done by the Tribunal or any member thereof in good faith in pursuance or intended pursuance of the functions, duties, powers, or authorities of the Tribunal.
@@ -1415,11 +1421,11 @@ No member of the Tribunal shall be personally liable for any act done or omitted
 (2) For the purposes of subsection (1), fees framework means the framework determined by the Government from time to time for the classification and remuneration of statutory and other bodies in which the Crown has an interest.
 
 ### 120 Services for Tribunal
-(1) The Department for Courts shall furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
-(2) The cost of any services provided by the Department for Courts pursuant to this section shall be paid from public money appropriated by Parliament for the purpose.
+(1) The Ministry of Justice shall furnish such secretarial, recording, and clerical services as may be necessary to enable the Tribunal to discharge its functions.
+(2) The cost of any services provided by the Ministry of Justice pursuant to this section shall be paid from public money appropriated by Parliament for the purpose.
 
 ### 121 Enforcement
-(1) The following orders made by the Tribunal may, on registration of a certified copy in the District Court, be enforced in all respects as if they were an order of that Court:
+(1) The following orders made by the Tribunal may, on registration of a certified copy in the District Court, be enforced in all respects as if they were an order of that court:
   (a) an order for the award of costs under section 92L; and
   (b) an order for the award of damages under section 92M; and
   (c) an interim order under section 95.
@@ -1455,46 +1461,46 @@ No member of the Tribunal shall be personally liable for any act done or omitted
   (b) a party to the proceedings may, under section 124, appeal to the Court of Appeal against the determination of the High Court on a question of law arising in the proceedings.
 
 ### 123 Appeals to High Court
-(1) Where any party is dissatisfied with any interim order made by the Chairperson under section 95 of this Act, that party may appeal to the High Court against the whole or part of that order.
+(1) Where any party is dissatisfied with any interim order made by the Chairperson under section 95, that party may appeal to the High Court against the whole or part of that order.
 (2) A party to a proceeding under section 92B or section 92E may appeal to the High Court against all or any part of a decision of the Tribunal—
   (a) dismissing the proceeding; or
-  (b) granting one or more of the remedies described in section 92I; or
+  (b) granting 1 or more of the remedies described in section 92I; or
   (c) granting the remedy described in section 92J; or
   (d) refusing to grant the remedy described in section 92J; or
   (e) constituting a final determination of the Tribunal in the proceeding.
 (2A) For the purposes of subsection (2)(d), the Tribunal does not in a proceeding refuse to grant the remedy described in section 92J unless—
   (a) a party to the proceeding expressly applies to the Tribunal for the remedy in relation to a particular enactment; and
   (b) the Tribunal does not grant the remedy in relation to that enactment.
-(3) Where any party is dissatisfied with any decision of the Tribunal making a declaration under section 97 of this Act, that party may appeal to the High Court against the whole or any part of that decision.
+(3) Where any party is dissatisfied with any decision of the Tribunal making a declaration under section 97, that party may appeal to the High Court against the whole or any part of that decision.
 (4) Every appeal under this section shall be made by giving notice of appeal within 30 days after the date of the giving by the Tribunal in writing of the decision to which the appeal relates.
-(5) In determining any appeal under this section the High Court shall have the powers conferred on the Tribunal by sections 105 and 106 of this Act, and those sections shall apply accordingly with such modifications as are necessary.
-(6) In its determination of any appeal, the Court may—
-  (a) Confirm, modify, or reverse the order or decision appealed against, or any part of that order or decision:
-  (b) Exercise any of the powers that could have been exercised by the Tribunal in the proceedings to which the appeal relates.
-(7) Notwithstanding anything in subsection (6) of this section, the Court may in any case, instead of determining any appeal, refer to the Tribunal, in accordance with the rules of Court, for further consideration by the Tribunal, the whole or any part of the matter to which the appeal relates.
-(8) Subject to the provisions of this Act, the procedure in respect of any such appeal shall be in accordance with the rules of Court.
+(5) In determining any appeal under this section the High Court shall have the powers conferred on the Tribunal by sections 105 and 106, and those sections shall apply accordingly with such modifications as are necessary.
+(6) In its determination of any appeal, the court may—
+  (a) confirm, modify, or reverse the order or decision appealed against, or any part of that order or decision:
+  (b) exercise any of the powers that could have been exercised by the Tribunal in the proceedings to which the appeal relates.
+(7) Notwithstanding anything in subsection (6), the court may in any case, instead of determining any appeal, refer to the Tribunal, in accordance with the rules of court, for further consideration by the Tribunal, the whole or any part of the matter to which the appeal relates.
+(8) Subject to the provisions of this Act, the procedure in respect of any such appeal shall be in accordance with the rules of court.
 (9) Notice of appeal shall not operate as a stay of proceedings in respect of the decision to which the appeal relates unless the Tribunal or the High Court so orders.
 
 ### 124 Appeal to Court of Appeal on a question of law
 (1) Any party to any proceedings before the High Court under this Act may, with the leave of the High Court, appeal to the Court of Appeal against any determination of the High Court on a question of law arising in those proceedings:
-  Provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
-(2) A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that Court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that Court, and the High Court may grant leave accordingly if in the opinion of that Court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
-(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that Court, for special leave to appeal to that Court, and the Court of Appeal may grant leave accordingly if, in the opinion of that Court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+  provided that, if the High Court refuses to grant leave to appeal to the Court of Appeal, the Court of Appeal may grant special leave to appeal.
+(2) A party desiring to appeal to the Court of Appeal under this section shall, within 21 days after the determination of the High Court, or within such further time as that court may allow, give notice of his or her application for leave to appeal in such manner as may be directed by the rules of that court, and the High Court may grant leave accordingly if in the opinion of that court the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
+(3) Where the High Court refuses leave to any party to appeal to the Court of Appeal under this section, that party may, within 21 days after the refusal of the High Court or within such further time as the Court of Appeal may allow, apply to the Court of Appeal, in such manner as may be directed by the rules of that court, for special leave to appeal to that court, and the Court of Appeal may grant leave accordingly if, in the opinion of that court, the question of law involved in the appeal is one which, by reason of its general or public importance or for any other reason, ought to be submitted to the Court of Appeal for decision.
 (4) On any appeal to the Court of Appeal under this section, the Court of Appeal shall have the same power to adjudicate on the proceedings as the High Court had.
 (5) The same judgment must be entered in the High Court, and the same execution and other consequences and proceedings must follow on it, as if the decision of the Court of Appeal on an appeal under this section had been given in the High Court.
-(6) The decision of the Court of Appeal on any application to that Court for leave to appeal shall be final.
+(6) The decision of the Court of Appeal on any application to that court for leave to appeal shall be final.
 
 ### 125 Costs of appeal
-The High Court shall have power to make such order as to the whole or any part of the costs of an appeal under section 123 of this Act as may seem just but every order for costs shall follow the outcome of the appeal unless the Court otherwise orders.
+The High Court shall have power to make such order as to the whole or any part of the costs of an appeal under section 123 as may seem just but every order for costs shall follow the outcome of the appeal unless the court otherwise orders.
 
 ### 126 Additional members of High Court for purposes of Act
-(1) For the purpose of the exercise by the High Court of its jurisdiction and powers—there shall be 2 additional members of the Court who shall be persons appointed by a Judge of the Court for the purposes of the hearing or appeal from the panel maintained by the Minister under section 101 of this Act.
-  (a) Under section 92T; or
-  (b) Under section 123 in respect of any appeal under section 123(2) or section 123(3) of this Act in which a question of fact is involved,—
+(1) For the purpose of the exercise by the High Court of its jurisdiction and powers—there shall be 2 additional members of the court who shall be persons appointed by a Judge of the court for the purposes of the hearing or appeal from the panel maintained by the Minister under section 101.
+  (a) under section 92T; or
+  (b) under section 123 in respect of any appeal under section 123(2) or section 123(3) in which a question of fact is involved,—
 (2) Before entering upon the exercise of the duties of their office, the additional members shall take an oath before a Judge of the High Court that they will faithfully and impartially perform the duties of their office.
-(3) The presence of a Judge of the High Court and of at least one additional member shall be necessary to constitute a sitting of the Court.
-(4) The decision of a majority (including the Judge, or, where more than one Judge sits, including a majority of the Judges) of the members present at a sitting of the Court shall be the decision of the Court. If the members present are equally divided in opinion, the decision of the Judge, or of a majority of the Judges, shall be the decision of the Court.
-(5) If any question before the Court cannot be decided in accordance with subsection (4) of this section, the question shall be referred to the Court of Appeal for decision in accordance with the practice and procedure of that Court, which for the purpose shall have all the powers of the Court under this Act. The decision of the Court of Appeal in any proceedings under this subsection shall be final and shall take effect and be entered as if it were a decision of the Court under this Act.
+(3) The presence of a Judge of the High Court and of at least 1 additional member shall be necessary to constitute a sitting of the court.
+(4) The decision of a majority (including the Judge, or, where more than 1 Judge sits, including a majority of the Judges) of the members present at a sitting of the court shall be the decision of the court. If the members present are equally divided in opinion, the decision of the Judge, or of a majority of the Judges, shall be the decision of the court.
+(5) If any question before the court cannot be decided in accordance with subsection (4), the question shall be referred to the Court of Appeal for decision in accordance with the practice and procedure of that court, which for the purpose shall have all the powers of the court under this Act. The decision of the Court of Appeal in any proceedings under this subsection shall be final and shall take effect and be entered as if it were a decision of the court under this Act.
 (6) An additional member is entitled—
   (a) to receive remuneration not within paragraph (b) for services as a member at a rate and of a kind determined by the Minister in accordance with the fees framework; and
   (b) in accordance with the fees framework, to be reimbursed for actual and reasonable travelling and other expenses incurred in carrying out his or her office as a member.
@@ -1519,65 +1525,65 @@ The High Court shall have power to make such order as to the whole or any part o
 (3) Every such examination by a Commission shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
 
 ### 128 Protection and privileges of witnesses, etc
-(1) Every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to, a Commission as witnesses have in any Court.
+(1) Every person shall have the same privileges in relation to the giving of information to, the answering of questions put by, and the production of documents and things to, a Commission as witnesses have in any court.
 (2) No person shall be required to supply any information to or to answer any question put by a Commission in relation to any matter, or to produce to a Commission any document or paper or thing relating to any matter, in any case where compliance with that requirement would be in breach of an obligation of secrecy or non-disclosure imposed on that person by the provisions of any Act or regulations, other than the Official Information Act 1982.
-(3) No person shall be liable to prosecution for an offence against any enactment, other than section 143 of this Act, by reason of that person's compliance with any requirement of a Commission under section 127 of this Act.
-(4) Where the attendance of any person is required by a Commission under section 127 of this Act, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a Court and, for the purpose,—
-  (a) The provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
-  (b) The Commission shall have the powers of a Court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
+(3) No person shall be liable to prosecution for an offence against any enactment, other than section 143, by reason of that person's compliance with any requirement of a Commission under section 127.
+(4) Where the attendance of any person is required by a Commission under section 127, the person shall be entitled to the same fees, allowances, and expenses as if the person were a witness in a court and, for the purpose,—
+  (a) the provisions of any regulations in that behalf under the Summary Proceedings Act 1957 shall apply accordingly; and
+  (b) the Commission shall have the powers of a court under any such regulations to fix or disallow, in whole or in part, or to increase, any amounts payable under the regulations.
 
 ### 129 Disclosure of certain matters not to be required
 (1) Where—the Commission shall not require the information to be given, or, as the case may be, the document or thing to be produced.
-  (a) The Prime Minister certifies that the giving of any information or the answering of any question or the production of any document or thing might prejudice the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
-  (b) The Attorney-General certifies that the giving of any information or the answering of any question or the production of any document or thing—
-    (i) Might prejudice the prevention, investigation, or detection of offences; or
-    (ii) Might involve the disclosure of proceedings of Cabinet, or any committee of Cabinet, relating to matters of a secret or confidential nature, and such disclosure would be injurious to the public interest,—
-(2) Subject to the provisions of subsection (1) of this section, the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of any investigation by a Commission.
+  (a) the Prime Minister certifies that the giving of any information or the answering of any question or the production of any document or thing might prejudice the security, defence, or international relations of New Zealand (including New Zealand's relations with the government of any other country or with any international organisation); or
+  (b) the Attorney-General certifies that the giving of any information or the answering of any question or the production of any document or thing—
+    (i) might prejudice the prevention, investigation, or detection of offences; or
+    (ii) might involve the disclosure of proceedings of Cabinet, or any committee of Cabinet, relating to matters of a secret or confidential nature, and such disclosure would be injurious to the public interest,—
+(2) Subject to the provisions of subsection (1), the rule of law which authorises or requires the withholding of any document, or the refusal to answer any question, on the ground that the disclosure of the document or the answering of the question would be injurious to the public interest shall not apply in respect of any investigation by a Commission.
 
 ### 130 Proceedings privileged
 (1) Sections 120 to 126 of the Crown Entities Act 2004 apply except to the extent provided in subsections (2) and (2A) (which set out special rules relating to proceedings under section 131 (which relates to inciting racial disharmony)).
 (2) No proceedings under section 131 lie against any Commissioner or person engaged or employed in connection with the work of the Commission and the Director of Human Rights Proceedings (relevant person) for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
 (2A) Sections 122 to 126 of the Crown Entities Act 2004 then apply as if the conduct for which a relevant person may be indemnified or insured under those sections included conduct that is covered by the immunity in subsection (2).
 (2B) No relevant person can be required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
-(3) Nothing in subsection (2) of this section applies in respect of proceedings for—
-  (a) An offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) The offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
-(4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a Court.
-(5) For the purposes of clause 3 of Part 2 of Schedule 1 to the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+(3) Nothing in subsection (2) applies in respect of proceedings for—
+  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
+  (b) the offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+(4) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commission or a Commissioner under this Act shall be privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
+(5) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commission or a Commissioner under this Act shall be deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
 ## Part 6 — Inciting racial disharmony
 
 ### 131 Inciting racial disharmony
 (1) Every person commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 3 months or to a fine not exceeding $7,000 who, with intent to excite hostility or ill-will against, or bring into contempt or ridicule, any group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons,—being matter or words likely to excite hostility or ill-will against, or bring into contempt or ridicule, any such group of persons in New Zealand on the ground of the colour, race, or ethnic or national origins of that group of persons.
-  (a) Publishes or distributes written matter which is threatening, abusive, or insulting, or broadcasts by means of radio or television words which are threatening, abusive, or insulting; or
-  (b) Uses in any public place (as defined in section 2(1) of the Summary Offences Act 1981), or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting,—
-(2) For the purposes of this section, publishes or distributes and written matter have the meaning given to them in section 61 of this Act.
+  (a) publishes or distributes written matter which is threatening, abusive, or insulting, or broadcasts by means of radio or television words which are threatening, abusive, or insulting; or
+  (b) uses in any public place (as defined in section 2(1) of the Summary Offences Act 1981), or within the hearing of persons in any such public place, or at any meeting to which the public are invited or have access, words which are threatening, abusive, or insulting,—
+(2) For the purposes of this section, publishes or distributes and written matter have the meaning given to them in section 61.
 
 ### 132 No prosecution without Attorney-General's consent
-No prosecution for an offence against section 131 of this Act shall be instituted without the consent of the Attorney-General.
+No prosecution for an offence against section 131 shall be instituted without the consent of the Attorney-General.
 
 ## Part 7 — Miscellaneous provisions
 
 ### 133 Licences and registration
-(1) Where any person is licensed or registered under any enactment to carry on any occupation or activity or where any premises or vehicle are registered or licensed for any purpose under any enactment, and where the person or other authority authorised to renew, revoke, cancel, or review any such licence or registration is satisfied—there has been a breach of any of the provisions of Part 2 of this Act, the person or authority, in addition to any other powers which that person or authority has, but subject to subsection (2) of this section, may refuse to renew or may revoke or cancel any such licence or registration, as the case may require, or may impose any other penalty authorised by the enactment, whether by way of censure, fine, or otherwise.
-  (a) That in the carrying on of the occupation or activity; or
-  (b) That in the use of the premises or vehicle,—
+(1) Where any person is licensed or registered under any enactment to carry on any occupation or activity or where any premises or vehicle are registered or licensed for any purpose under any enactment, and where the person or other authority authorised to renew, revoke, cancel, or review any such licence or registration is satisfied—there has been a breach of any of the provisions of Part 2, the person or authority, in addition to any other powers which that person or authority has, but subject to subsection (2), may refuse to renew or may revoke or cancel any such licence or registration, as the case may require, or may impose any other penalty authorised by the enactment, whether by way of censure, fine, or otherwise.
+  (a) that in the carrying on of the occupation or activity; or
+  (b) that in the use of the premises or vehicle,—
 (2) Any procedural requirements of the enactment, including any whereby a complaint is a prerequisite to the exercise by the person or authority of its powers under the enactment, shall be observed.
-(3) In any case in which any of the powers conferred by subsection (1) of this section are exercised,—
-  (a) The person or authority shall in giving its decision state that the decision is being made pursuant to subsection (1) of this section; and
-  (b) Any person who would have been entitled to appeal against that decision if it had been made on other grounds shall be entitled to appeal against the decision made pursuant to subsection (1) of this section.
+(3) In any case in which any of the powers conferred by subsection (1) are exercised,—
+  (a) the person or authority shall in giving its decision state that the decision is being made pursuant to subsection (1); and
+  (b) any person who would have been entitled to appeal against that decision if it had been made on other grounds shall be entitled to appeal against the decision made pursuant to subsection (1).
 (4) In this section the term enactment means any provision of any Act, regulations, or bylaws.
 
 ### 134 Access by the public to places, vehicles, and facilities
-(1) Every person commits an offence who—when that refusal or requirement is in breach of any of the provisions of Part 2 of this Act.
-  (a) Refuses to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
-  (b) Refuses any other person the use of any facilities in that place or vehicle which are available to members of the public; or
-  (c) Requires any other person to leave or to cease to use that place or vehicle or those facilities,—
+(1) Every person commits an offence who—when that refusal or requirement is in breach of any of the provisions of Part 2.
+  (a) refuses to allow any other person access to or use of any place or vehicle which members of the public are entitled or allowed to enter or use; or
+  (b) refuses any other person the use of any facilities in that place or vehicle which are available to members of the public; or
+  (c) requires any other person to leave or to cease to use that place or vehicle or those facilities,—
 (2) Every person who commits an offence against this section is liable on summary conviction to a fine not exceeding $3,000.
 (3) In this section the term vehicle includes a vessel, an aircraft, or a hovercraft.
 
 ### 135 No prosecution without Attorney-General's consent
-No prosecution for an offence against section 134 of this Act shall be instituted without the consent of the Attorney-General.
+No prosecution for an offence against section 134 shall be instituted without the consent of the Attorney-General.
 
 ### 136 Condition in restraint of marriage, civil union, or de facto relationship
 A condition, whether oral or contained in a deed, will, or other instrument, which restrains or has the effect of restraining a person from marrying or entering into a civil union or de facto relationship shall be void if the person or class of person whom the person subject to the condition may or may not marry or enter into a civil union or de facto relationship with is identified or defined, expressly or by implication, by reference to the colour, race, or ethnic or national origins of the person or class of person.
@@ -1618,16 +1624,16 @@ The Commission must not, in any report or statement made pursuant to this Act, m
 
 ### 143 Offences
 Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $3,000 who—
-  (a) Without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act:
-  (b) Without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Commission or a Commissioner or any other person under this Act:
-  (c) Makes any false statement knowing it to be false or intentionally misleads or attempts to mislead the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act.
+  (a) without lawful justification or excuse, wilfully obstructs, hinders, or resists the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act:
+  (b) without lawful justification or excuse, refuses or wilfully fails to comply with any lawful requirement of the Commission or a Commissioner or any other person under this Act:
+  (c) makes any false statement knowing it to be false or intentionally misleads or attempts to mislead the Commission or a Commissioner or any other person in the exercise of its or his or her powers under this Act.
 
 ### 144 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing the procedure to be followed under this Act in respect of complaints to and proceedings before the Commission or in respect of proceedings before the Tribunal:
-  (b) Prescribing forms for the purposes of this Act, and requiring the use of such forms:
-  (c) Providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) For the avoidance of doubt, it is hereby declared that the power conferred by subsection (1) of this section to make regulations in respect of proceedings before the Tribunal includes power to make regulations in respect of proceedings in connection with the exercise or performance of any function, power, or duty conferred or imposed on the Tribunal by or under any other enactment.
+  (a) prescribing the procedure to be followed under this Act in respect of complaints to and proceedings before the Commission or in respect of proceedings before the Tribunal:
+  (b) prescribing forms for the purposes of this Act, and requiring the use of such forms:
+  (c) providing for such matters as are contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) For the avoidance of doubt, it is hereby declared that the power conferred by subsection (1) to make regulations in respect of proceedings before the Tribunal includes power to make regulations in respect of proceedings in connection with the exercise or performance of any function, power, or duty conferred or imposed on the Tribunal by or under any other enactment.
 
 ### 145 Related amendments to other enactments
 [Repealed]
@@ -1734,17 +1740,17 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 
 ### 149 Special provisions in relation to written employment contracts in force on 1 April 1992
 (1) This section applies to every employment contract (whether a collective employment contract or an individual employment contract) that—
-  (a) Is in writing; and
-  (b) Was in force on the 1st day of April 1992; and
-  (c) Specifies an age at which an employee is required to retire.
-(2) Where the parties to an employment contract to which this section applies agree in writing, at any time on or after the 1st day of April 1992, to confirm or vary the age specified in the employment contract, the age, as so confirmed or varied, shall have effect notwithstanding section 22 of this Act.
-(3) Where the parties to an employment contract to which this section applies have not agreed in writing to confirm or vary the age specified in the employment contract, section 22 of this Act shall apply in relation to that employment contract.
-(4) Where, as at the 1st day of April 1992, the age at which an employer is required to retire, under a term of that employee's employment contract, was specified only in a document that sets out the employer's policy on the retirement ages of the employer's employees or any of them, this section shall not apply in relation to that employee's employment contract.
+  (a) is in writing; and
+  (b) was in force on 1 April 1992; and
+  (c) specifies an age at which an employee is required to retire.
+(2) Where the parties to an employment contract to which this section applies agree in writing, at any time on or after 1 April 1992, to confirm or vary the age specified in the employment contract, the age, as so confirmed or varied, shall have effect notwithstanding section 22.
+(3) Where the parties to an employment contract to which this section applies have not agreed in writing to confirm or vary the age specified in the employment contract, section 22 shall apply in relation to that employment contract.
+(4) Where, as at 1 April 1992, the age at which an employer is required to retire, under a term of that employee's employment contract, was specified only in a document that sets out the employer's policy on the retirement ages of the employer's employees or any of them, this section shall not apply in relation to that employee's employment contract.
 
 ### 150 Charitable instruments
 (1) Nothing in this Act shall apply—
-  (a) To any provision in an existing or future will, deed, or other instrument where that provision confers charitable benefits, or enables charitable benefits to be conferred, on persons against whom discrimination is unlawful by virtue of Part 2 of this Act; or
-  (b) To any act done in order to comply with any provision described in paragraph (a) of this subsection.
+  (a) to any provision in an existing or future will, deed, or other instrument where that provision confers charitable benefits, or enables charitable benefits to be conferred, on persons against whom discrimination is unlawful by virtue of Part 2; or
+  (b) to any act done in order to comply with any provision described in paragraph (a).
 (2) For the purposes of this section, charitable benefits means benefits for purposes that are charitable in accordance with the law of New Zealand.
 
 ### 151 Other enactments and actions not affected
@@ -1754,26 +1760,26 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 [Repealed]
 
 ### 153 Savings
-(1) Nothing in this Act affects the right to bring any proceedings, whether civil or criminal, that may be brought other than under this Act, but, in assessing any damages to be awarded to or on behalf of any person under this Act or otherwise, a Court must take account of any damages already awarded to or on behalf of that person in respect of the same cause of action.
-(2) Subject to the Illegal Contracts Act 1970, no proceedings, Civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2 of this Act.
+(1) Nothing in this Act affects the right to bring any proceedings, whether civil or criminal, that may be brought other than under this Act, but, in assessing any damages to be awarded to or on behalf of any person under this Act or otherwise, a court must take account of any damages already awarded to or on behalf of that person in respect of the same cause of action.
+(2) Subject to the Illegal Contracts Act 1970, no proceedings, civil or criminal, shall lie against any person, except as provided by this Act, in respect of any act or omission which is unlawful by virtue only of any of the provisions of Part 2.
 (3) Nothing in this Act shall affect any enactment or rule of law, or any policy or administrative practice of the Government of New Zealand, that—
   (a)
-  (b) Distinguishes between New Zealand citizens and other persons, or between British subjects or Commonwealth citizens and aliens.
+  (b) distinguishes between New Zealand citizens and other persons, or between British subjects or Commonwealth citizens and aliens.
 (4)
 
-## Schedule 1 — Administrative provisions applying in respect of commission
+## Schedule 1 — Administrative provisions applying in respect of Commission
 
 ### 1 General manager: appointment, term of office, and conditions
-(1) The General manager—
+(1) The general manager—
   (a) is appointed by the Chief Human Rights Commissioner, after consultation with the Commission, under section 18, and his or her office is a full-time one; and
   (b) holds the office for the term (not longer than 5 years) and under the conditions specified in his or her appointment; and
   (c) may, from time to time, be reappointed; and
   (d) unless he or she sooner vacates or no longer holds or is removed from the office, continues in it until his or her successor comes into it, even though the term for which he or she was appointed has expired.
 (2) Subclause (1) is subject to section 117 of the Crown Entities Act 2004.
-(3) In the case of absence from duty of the General manager (for any reason) or on the occurrence of a vacancy in that position (for any reason) and while the absence or vacancy continues, all or any of the powers and duties of the General manager may be exercised and performed by any other employee of the Commission for the time being directed by the Chief Commissioner (after consultation by the Chief Commissioner with the Commission) to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
+(3) In the case of absence from duty of the general manager (for any reason) or on the occurrence of a vacancy in that position (for any reason) and while the absence or vacancy continues, all or any of the powers and duties of the general manager may be exercised and performed by any other employee of the Commission for the time being directed by the Chief Commissioner (after consultation by the Chief Commissioner with the Commission) to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
 (4) No direction given under subclause (3) and no acts done by any employee of the Commission acting under that direction may in any proceedings be questioned on the ground that—
   (a) the occasion for the direction had not arisen or had ceased; or
-  (b) that the employee has not been appointed to the position of General manager.
+  (b) that the employee has not been appointed to the position of general manager.
 
 ### 2 Staff
 [Repealed]
@@ -1789,8 +1795,8 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 
 ### 6 Superannuation or retiring allowances
 (1) For the purpose of providing superannuation or retiring allowances for the Commissioners, the Commission may, out of the funds of the Commission, make payments to or subsidise any superannuation scheme that is registered under the Superannuation Schemes Act 1989.
-(2) Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the General manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956 Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as a Commissioner or the General manager or, as the case may be, to be an employee of the Commission, and that Act applies to that person in all respects as if that person's service as a Commissioner or the General manager or, as the case may be, as an employee of that kind were Government service.
-(3) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as a Commissioner or the General manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority, in relation to the person, means the Commission.
+(2) Despite anything in this Act, any person who, immediately before being appointed as a Commissioner or the general manager or, as the case may be, becoming an employee of the Commission, is a contributor to the Government Superannuation Fund under Part 2 or Part 2A of the Government Superannuation Fund Act 1956 is deemed to be, for the purposes of the Government Superannuation Fund Act 1956, employed in the Government service so long as that person continues to hold office as a Commissioner or the general manager or, as the case may be, to be an employee of the Commission, and that Act applies to that person in all respects as if that person's service as a Commissioner or the general manager or, as the case may be, as an employee of that kind were Government service.
+(3) For the purpose of applying the Government Superannuation Fund Act 1956, in accordance with subclause (2), to a person who holds office as a Commissioner or the general manager or, as the case may be, is in the service of the Commission as an employee and (in any such case) is a contributor to the Government Superannuation Fund, controlling authority, in relation to the person, means the Commission.
 
 ### 7 Certain Acts do not apply to staff of Commission
 [Repealed]
@@ -1822,7 +1828,7 @@ No act or omission that occurred before 1 January 2002 is capable of being in br
 ### 16 Auditor
 [Repealed]
 
-## Schedule 2 — Administrative provisions applying in respect of office of human rights proceedings
+## Schedule 2 — Administrative provisions applying in respect of Office of Human Rights Proceedings
 
 ### 1 Interpretation
 In this schedule, unless the context otherwise requires,—
@@ -1870,3 +1876,39 @@ Sections 47 and 48 and 120 to 126 of the Crown Entities Act 2004 apply to the Di
 The address for service of the Director and of the Office is the address of the main premises of the Office.
 
 ## Schedule 3 — Enactments repealed
+
+### 1 Short Title
+This Act may be cited as the Human Rights Amendment Act 1994, and shall be read together with and deemed part of the Human Rights Act 1993 (hereinafter referred to as “the principal Act”).
+
+**Application of principal Act and Human Rights Commission Act 1977 to superannuation schemes**
+
+### 2 Application of principal Act to superannuation schemes providing benefits on account of marital status
+(1) Notwithstanding any rule of law, nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either—without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
+  (a) the spouse of that member; or
+  (b) the civil union partner or de facto partner of that member,—
+(2) Subject to subsection (5), this section applies in respect of superannuation schemes established before or after the commencement of this Act.
+(3) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
+(4) Nothing in section 153(1) of the principal Act limits or affects this section.
+(5) Nothing in this section applies to the provision of benefits under a superannuation scheme or by the trustees of a scheme in respect of any person who, at any time on or after 1 January 1996, becomes a member of the scheme unless,—
+  (a) immediately before becoming a member, that person was a member of another superannuation scheme that provides or provided, or the trustees of which provide or provided, benefits of a kind referred to in paragraph (a) or paragraph (b) of subsection (1); and
+  (b) that person became a member of the first-mentioned scheme as a result of a requirement, or the exercise of a right, to leave that other scheme by reason of any merger, takeover, or restructuring of, or reorganisation of the business of, that person's employer.
+(6) Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 72 of the principal Act before the commencement of this Act.
+
+### 3 Application of principal Act to superannuation schemes providing benefits for children and dependants
+(1) For the avoidance of doubt, it is hereby declared that nothing in section 22 or section 44 or section 70 of the principal Act shall prevent, or be taken ever to have prevented, the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for a child or dependant of that member's family, including a child or dependant belonging to a particular class determined by reference to age, disability, or employment status without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
+(2) This section applies in respect of superannuation schemes established before or after the commencement of this Act.
+(3) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
+
+### 4 Savings in respect of certain superannuation schemes
+(1) For the avoidance of doubt, it is hereby declared that nothing in section 22 or section 44 of the principal Act relating to different treatment on the ground of sex or marital status shall apply, or be taken ever to have applied, to—
+  (a) a superannuation scheme to which subsection (2) of section 88 of the Human Rights Commission Act 1977 applied, except in respect of a person who became a member of the scheme on or after 1 April 1980 or to whom amendments to the scheme were applied pursuant to subsection (4) of that section; or
+  (b) a superannuation scheme established as an alternative to making amendments of the kind referred to in subsection (4) of section 88 of the Human Rights Commission Act 1977 to an existing scheme, except in respect of a person who became a member of the scheme by virtue of subsections (4) and (5) of that section.
+(2) For the avoidance of doubt, it is hereby further declared that where any superannuation scheme was amended for the purpose of ensuring that its operation did not involve a breach of section 15(1) or section 24(1) of the Human Rights Commission Act 1977, nothing in the principal Act, and nothing in those amendments, shall deprive, or be taken ever to have deprived, any person who joined the scheme before the date on which those amendments came into force of any right or option to retire at a particular age or on a particular date or to become entitled under the scheme to a pension or other benefit, unless that person relinquishes that right or option.
+
+### 5 Application of Human Rights Commission Act 1977 to superannuation schemes
+(1) Notwithstanding any rule of law, nothing in section 15(1) or section 24(1) or section 88 of the Human Rights Commission Act 1977 shall be taken ever to have prevented the provisions of a superannuation scheme, or the trustees of the scheme, from providing, on the death of a member of the scheme, a benefit for either—without providing a similar or corresponding or equivalent benefit on the death of other members of the scheme.
+  (a) the spouse of that member; or
+  (b) the civil union partner or de facto partner of that member,—
+(2) This section applies notwithstanding any judgment, decision, or order of any court or tribunal given or made before or after the commencement of this Act in proceedings commenced before the commencement of this Act.
+(3) Nothing in section 153(1) of the principal Act limits or affects this section.
+(4) Nothing in this section affects the validity of any amendment to the instrument or conditions governing a superannuation scheme made pursuant to section 90 of the Human Rights Commission Act 1977.
