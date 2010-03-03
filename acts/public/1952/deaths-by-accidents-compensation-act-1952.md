@@ -1,19 +1,19 @@
 # Deaths by Accidents Compensation Act 1952
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-03-03_
 
 > An Act to consolidate and amend certain enactments relating to actions for damages on behalf of the families of persons killed by accident
 
 ### 1 Short Title and commencement
-This Act may be cited as the Deaths by Accidents Compensation Act 1952, and shall come into force on the 1st day of January 1953.
+This Act may be cited as the Deaths by Accidents Compensation Act 1952, and shall come into force on 1 January 1953.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Child** , in relation to any deceased person, means a son, daughter, grandson, granddaughter, stepson, or stepdaughter of the deceased person
-  - **Dependant** , in relation to any deceased person, means any spouse, civil union partner, parent, or child of that person who has suffered injury as a result of the death of the deceased person or who might reasonably have expected to enjoy some actual pecuniary benefit if the deceased person had not died, whether or not the spouse, civil union partner, parent, or child was either wholly or partially dependent upon the deceased person before his death
-  - **Parent** , in relation to any deceased person, means a father, mother, grandfather, grandmother, stepfather, or stepmother of the deceased person
+  - **child** , in relation to any deceased person, means a son, daughter, grandson, granddaughter, stepson, or stepdaughter of the deceased person
+  - **dependant** , in relation to any deceased person, means any spouse, civil union partner, parent, or child of that person who has suffered injury as a result of the death of the deceased person or who might reasonably have expected to enjoy some actual pecuniary benefit if the deceased person had not died, whether or not the spouse, civil union partner, parent, or child was either wholly or partially dependent upon the deceased person before his death
+  - **parent** , in relation to any deceased person, means a father, mother, grandfather, grandmother, stepfather, or stepmother of the deceased person
   - **spouse** and includes, in relation to a deceased person, a person who—
     (a) has been the deceased person's spouse or civil union partner, as the case may be; and
-    (b) at the time of the deceased person's death, was maintained or entitled to be maintained by the deceased person either wholly or partly, or would, but for the incapacity due to the accident from which the deceased person's death resulted, have been so maintained or entitled
+    (b) at the time of the deceased person's death, was maintained or entitled to be maintained by the deceased person either wholly or partly, or would, but for the incapacity due to the accident from which the deceased person's death resulted, have been so maintained or entitled.
 (2)
 
 ### 3 Act to bind the Crown
@@ -24,106 +24,104 @@ This Act shall bind the Crown.
 ### 4 Right of action when death is caused by negligence, etc
 (1) Where the death of a person is caused by any wrongful act, neglect, or default, and the act, neglect, or default is such as would (if death had not ensued) have entitled the party injured to maintain an action and recover damages in respect thereof, the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured, and although the death was caused under such circumstances as to amount in law to a crime.
 (2) Any such action shall lie whether the cause of action arose before or after the commencement of this Act.
-(3) Not more than one action shall lie under this Act for the same subject-matter of complaint.
-(4) This section is subject to sections 317 and 321 of the Injury Prevention, Rehabilitation, and Compensation Act 2001.
+(3) Not more than 1 action shall lie under this Act for the same subject-matter of complaint.
+(4) This section is subject to sections 317 and 321 of the Accident Compensation Act 2001.
 
 ### 5 Action to be for benefit of family
 Every such action shall be for the benefit of the spouse or civil union partner and the parents and children of the person whose death has been so caused.
 
 ### 6 Persons who may bring action
-(1) Every such action shall be brought by and in the name of the executor or administrator of the deceased person:
-  Provided that, where no action is so brought within 6 months after the date of the death of the deceased person, or where within 6 months after the date of the death of the deceased person the executor or administrator declares in writing his desire not to bring the action, or where there is for the time being no executor or administrator of the deceased person, the action may be brought by and in the name of the person, or (if there are more than one) the names of all or of any of the persons, for whose benefit the action would have been if it had been brought by and in the name of the executor or administrator.
+(1) Every such action shall be brought by and in the name of the executor or administrator of the deceased person:provided that, where no action is so brought within 6 months after the date of the death of the deceased person, or where within 6 months after the date of the death of the deceased person the executor or administrator declares in writing his desire not to bring the action, or where there is for the time being no executor or administrator of the deceased person, the action may be brought by and in the name of the person, or (if there are more than 1) the names of all or of any of the persons, for whose benefit the action would have been if it had been brought by and in the name of the executor or administrator.
 (2) Where any such action is brought by and in the name of any person or persons other than the executor or administrator of the deceased person, the action shall be for the benefit of the same person or persons, and shall be subject to the same procedure, as nearly as may be, as if it were brought by and in the name of the executor or administrator.
 
 ### 7 Amount of damages
-(1) In every such action the Court may award—
-  (a) Such damages as it may think proportioned to the injury resulting from the death to the person or persons for whose benefit the action is brought; and
-  (b) Damages in respect of the amount of actual pecuniary benefit which the person or persons for whose benefit the action is brought might reasonably have expected to enjoy if the death had not occurred, whether or not the person or persons have been either wholly or partially dependent upon the deceased person before his death; and
-  (c) Damages in respect of the medical and funeral expenses of the deceased person if the expenses have been incurred by the person or any of the persons by whom or for whose benefit the action is brought.
-(2) In awarding damages in any such action the Court shall not take into account any gain, whether to the estate of the deceased person or to any dependant, that is consequent on the death of the deceased person.
+(1) In every such action the court may award—
+  (a) such damages as it may think proportioned to the injury resulting from the death to the person or persons for whose benefit the action is brought; and
+  (b) damages in respect of the amount of actual pecuniary benefit which the person or persons for whose benefit the action is brought might reasonably have expected to enjoy if the death had not occurred, whether or not the person or persons have been either wholly or partially dependent upon the deceased person before his death; and
+  (c) damages in respect of the medical and funeral expenses of the deceased person if the expenses have been incurred by the person or any of the persons by whom or for whose benefit the action is brought.
+(2) In awarding damages in any such action the court shall not take into account any gain, whether to the estate of the deceased person or to any dependant, that is consequent on the death of the deceased person.
 (3) Where any such action is tried with a jury, the amount of the damages which may be awarded as aforesaid shall be determined by the jury.
 
 ### 8 Plaintiff to deliver full particulars of claim
 In every such action the plaintiff on the record shall be required to deliver to the defendant or his solicitor, in or together with the statement of claim, full particulars of the person or persons for whose benefit the action is brought, and of the nature of the claim in respect of which damages are sought to be recovered.
 
-### 9 Money paid into Court may be paid in one sum
-If the defendant pays money into Court, it shall be sufficient if he pays it in one sum for the benefit of all persons entitled under this Act as a compensation for his wrongful act, neglect, or default, without specifying the shares into which it is to be divided.
+### 9 Money paid into court may be paid in one sum
+If the defendant pays money into court, it shall be sufficient if he pays it in one sum for the benefit of all persons entitled under this Act as a compensation for his wrongful act, neglect, or default, without specifying the shares into which it is to be divided.
 
 ### 10 Limitation of actions
 (1) Except as provided in this section, no action shall be brought under this Act after the expiration of 2 years from the date of the death of the deceased person.
-(2) Application may be made to the Court, after notice to the intended defendant, for leave to bring such an action at any time within 6 years from the date of the death of the deceased person; and the Court may, if it thinks it is just to do so, grant leave accordingly, subject to such conditions (if any) as it thinks it is just to impose, where it considers that the delay in bringing the action was occasioned by mistake or by any other reasonable cause or that the intended defendant was not materially prejudiced in his defence or otherwise by the delay.
-(3) Where any person who is under a disability at the date of the death of the deceased person is entitled, under the proviso to subsection (1) of section 6 of this Act, to bring an action in respect of that death, that action may be brought, without the leave of the Court, within 2 years from the date when he ceased to be under a disability or sooner died, or an application for leave to bring that action may be made under subsection (2) of this section within 6 years from the date when he ceased to be under a disability or sooner died, if when the action (without such leave) is commenced or the application is made, as the case may be,—
-  (a) No other person has commenced an action under this Act in respect of the death of the deceased person or made an application for leave to bring such an action; and
-  (b) No grant of administration and no order to or election by Public Trust to administer (other than a grant or order or election made more than 5 years from the date of the death of the deceased person) has been made in New Zealand in respect of the estate of the deceased person.
+(2) Application may be made to the court, after notice to the intended defendant, for leave to bring such an action at any time within 6 years from the date of the death of the deceased person; and the court may, if it thinks it is just to do so, grant leave accordingly, subject to such conditions (if any) as it thinks it is just to impose, where it considers that the delay in bringing the action was occasioned by mistake or by any other reasonable cause or that the intended defendant was not materially prejudiced in his defence or otherwise by the delay.
+(3) Where any person who is under a disability at the date of the death of the deceased person is entitled, under the proviso to subsection (1) of section 6, to bring an action in respect of that death, that action may be brought, without the leave of the court, within 2 years from the date when he ceased to be under a disability or sooner died, or an application for leave to bring that action may be made under subsection (2) within 6 years from the date when he ceased to be under a disability or sooner died, if when the action (without such leave) is commenced or the application is made, as the case may be,—
+  (a) no other person has commenced an action under this Act in respect of the death of the deceased person or made an application for leave to bring such an action; and
+  (b) no grant of administration and no order to or election by Public Trust to administer (other than a grant or order or election made more than 5 years from the date of the death of the deceased person) has been made in New Zealand in respect of the estate of the deceased person.
 (4) For the purposes of this section, a person shall be deemed to be under a disability while he is an infant or of unsound mind.
 
 ## Part 2 — Apportionment of damages
 
 ### 11 Interpretation
-For the purposes of this Part of this Act,—
-  (a) The expression trustee means Public Trust except where the Court appoints any other trustee, in which case it means the trustee so appointed:
-  (b) Without prejudice to the generality of the expression of unsound mind, a person shall be conclusively presumed to be of unsound mind while he is detained or kept in custody (otherwise than as a voluntary inpatient) under any provision of the Mental Health Act 1969.
+For the purposes of this Part,—
+  (a) the expression trustee means Public Trust except where the court appoints any other trustee, in which case it means the trustee so appointed:
+  (b) without prejudice to the generality of the expression of unsound mind, a person shall be conclusively presumed to be of unsound mind while he is detained or kept in custody (otherwise than as a voluntary boarder) under any provision of the Mental Health Act 1911.
 
 ### 12 Costs, medical and funeral expenses
-Where any damages for which an action lies under this Act are recovered (either in an action or without any action being brought), the costs which are properly payable out of the damages and are not otherwise recovered may be paid thereout, and the amount (if any) recovered in respect of the medical and funeral expenses of the deceased person may be refunded to the person or persons who paid them, and the balance of the damages may be allotted or disposed of by the Court as provided in the following provisions of this Part of this Act.
+Where any damages for which an action lies under this Act are recovered (either in an action or without any action being brought), the costs which are properly payable out of the damages and are not otherwise recovered may be paid thereout, and the amount (if any) recovered in respect of the medical and funeral expenses of the deceased person may be refunded to the person or persons who paid them, and the balance of the damages may be allotted or disposed of by the court as provided in the following provisions of this Part.
 
 ### 13 Damages may be allotted to a dependant or held as class fund
-(1) Where the Court makes an order under this Part of this Act and is satisfied that there was only one dependant of the deceased person, the balance of the damages shall be allotted to that dependant.
-(2) Where the Court makes an order under this Part of this Act and is satisfied that there were 2 or more dependants, the Court may order—
-  (a) That the balance of the damages or so much thereof as it may specify shall be allotted to any dependant exclusively, or shall be allotted in such proportions as the Court determines among the dependants or among such 2 or more of them to the exclusion of the other or others of them as the Court specifies:
-  (b) That the balance of the damages or so much thereof as it may specify shall be held on trust as a class fund for the benefit of the dependants or of such 2 or more of them to the exclusion of the other or others of them as the Court specifies.
+(1) Where the court makes an order under this Part and is satisfied that there was only 1 dependant of the deceased person, the balance of the damages shall be allotted to that dependant.
+(2) Where the court makes an order under this Part and is satisfied that there were 2 or more dependants, the court may order—
+  (a) that the balance of the damages or so much thereof as it may specify shall be allotted to any dependant exclusively, or shall be allotted in such proportions as the court determines among the dependants or among such 2 or more of them to the exclusion of the other or others of them as the court specifies:
+  (b) that the balance of the damages or so much thereof as it may specify shall be held on trust as a class fund for the benefit of the dependants or of such 2 or more of them to the exclusion of the other or others of them as the court specifies.
 
 ### 14 Disposition of damages allotted to a dependant
-(1) Where any amount is allotted to a dependant under section 13 of this Act, that amount shall be paid to him unless he is an infant or of unsound mind or except in so far as the Court orders that the whole or any part of that amount shall be held on trust under subsection (2) of this section.
-(2) Where any amount is allotted to any dependant who is an infant or of unsound mind or the Court orders that the whole or any part of the amount allotted to a dependant is to be held on trust for that dependant under this subsection, then, except so far as the Court directs any immediate payment therefrom, and subject to any directions or conditions given or imposed by the Court—
-  (a) The amount shall be invested and held by the trustee upon trust—
-    (i) To make such payments (if any) to the dependant out of the income and capital of the amount as the Court may specify; and
-    (ii) To apply the income and capital of the amount or so much thereof as the trustee from time to time thinks fit for or towards the maintenance or education (including past maintenance or education provided after the death of the deceased person) or the advancement or benefit of the dependant:
-  (b) The dependant shall have no power, either by himself or in conjunction with any other person or persons, to terminate the trusts upon which the amount is held or to modify or extinguish those trusts:
-  (c) The interest of the dependant in the income and capital of the amount shall not, while it remains in the hands of the trustee, be alienated, or pass by bankruptcy, or be liable to be seized, sold, attached, or taken in execution by process of law.
-(3) Upon any dependant ceasing to be an infant or of unsound mind while any amount is held on trust for his benefit under subsection (2) of this section, the balance of that amount and of the income therefrom remaining in the hands of the trustee shall be paid to the dependant except in so far as the Court may have ordered before the payment is made that the whole or any part of that amount shall continue to be held on trust under that subsection:
-  Provided that where the trustee has notice that an application has been made to the Court for such an order he shall not make any payment under this subsection until the application has been disposed of.
-(4) The Court may order that, if any dependant dies while any amount allotted to him is held on trust under subsection (2) of this section (whether or not he is an infant or of unsound mind) any balance of the amount and of the income therefrom remaining in the hands of the trustee at his death, or so much thereof as the Court may specify, shall form part of the dependant's estate, or shall be added to the amount allotted to any other dependant or to the amounts allotted to all or any of the other dependants in such proportions as the Court may specify or to any class fund set aside out of the balance of the damages, and shall be subject to the trusts of the amount or amounts or fund to which it is added:
-  Provided that if and so far as that balance is not wholly disposed of under any order of the Court made during the lifetime of the dependant for whose benefit it had been held, or made on an application to the Court made not later than 6 months after that dependant's death, it shall form part of his estate.
+(1) Where any amount is allotted to a dependant under section 13, that amount shall be paid to him unless he is an infant or of unsound mind or except in so far as the court orders that the whole or any part of that amount shall be held on trust under subsection (2).
+(2) Where any amount is allotted to any dependant who is an infant or of unsound mind or the court orders that the whole or any part of the amount allotted to a dependant is to be held on trust for that dependant under this subsection, then, except so far as the court directs any immediate payment therefrom, and subject to any directions or conditions given or imposed by the court—
+  (a) the amount shall be invested and held by the trustee upon trust—
+    (i) to make such payments (if any) to the dependant out of the income and capital of the amount as the court may specify; and
+    (ii) to apply the income and capital of the amount or so much thereof as the trustee from time to time thinks fit for or towards the maintenance or education (including past maintenance or education provided after the death of the deceased person) or the advancement or benefit of the dependant:
+  (b) the dependant shall have no power, either by himself or in conjunction with any other person or persons, to terminate the trusts upon which the amount is held or to modify or extinguish those trusts:
+  (c) the interest of the dependant in the income and capital of the amount shall not, while it remains in the hands of the trustee, be alienated, or pass by bankruptcy, or be liable to be seized, sold, attached, or taken in execution by process of law.
+(3) Upon any dependant ceasing to be an infant or of unsound mind while any amount is held on trust for his benefit under subsection (2), the balance of that amount and of the income therefrom remaining in the hands of the trustee shall be paid to the dependant except in so far as the court may have ordered before the payment is made that the whole or any part of that amount shall continue to be held on trust under that subsection:
+  provided that where the trustee has notice that an application has been made to the court for such an order he shall not make any payment under this subsection until the application has been disposed of.
+(4) The court may order that, if any dependant dies while any amount allotted to him is held on trust under subsection (2) (whether or not he is an infant or of unsound mind) any balance of the amount and of the income therefrom remaining in the hands of the trustee at his death, or so much thereof as the court may specify, shall form part of the dependant's estate, or shall be added to the amount allotted to any other dependant or to the amounts allotted to all or any of the other dependants in such proportions as the court may specify or to any class fund set aside out of the balance of the damages, and shall be subject to the trusts of the amount or amounts or fund to which it is added:provided that if and so far as that balance is not wholly disposed of under any order of the court made during the lifetime of the dependant for whose benefit it had been held, or made on an application to the court made not later than 6 months after that dependant's death, it shall form part of his estate.
 
 ### 15 Class fund
-Where any amount is to be held on trust as a class fund for any dependants under subsection (2) of section 13 of this Act, that amount shall be invested and the trustee may at his discretion, but subject to such directions and conditions as the Court may give or impose, apply the income and capital of that amount or so much thereof as the trustee from time to time thinks fit for or towards the maintenance or education (including past maintenance or education provided after the death of the deceased person) or the advancement or benefit of those dependants or of any one or more of them to the exclusion of the other or others of them in such shares and proportions and generally in such manner as the trustee from time to time thinks fit; and may so apply the income and capital of that amount notwithstanding that only one of those dependants remains alive.
+Where any amount is to be held on trust as a class fund for any dependants under subsection (2) of section 13, that amount shall be invested and the trustee may at his discretion, but subject to such directions and conditions as the court may give or impose, apply the income and capital of that amount or so much thereof as the trustee from time to time thinks fit for or towards the maintenance or education (including past maintenance or education provided after the death of the deceased person) or the advancement or benefit of those dependants or of any 1 or more of them to the exclusion of the other or others of them in such shares and proportions and generally in such manner as the trustee from time to time thinks fit; and may so apply the income and capital of that amount notwithstanding that only 1 of those dependants remains alive.
 
-### 16 Power of Court to authorise advances, etc
-(1) The Court may from time to time, at its discretion, authorise money to be advanced to any dependant (whether by way of loan or otherwise) as it thinks fit, and upon or subject to such conditions as it thinks fit, out of the damages or out of any amounts allotted to other dependants or out of any amount held on trust as a class fund, for any purpose that the Court thinks proper in the interests of the dependants or any of them. Without limiting the generality of this subsection, it is hereby declared that any such advance may be made for the purpose of purchasing or otherwise acquiring a residential property for the use of the dependant either alone or in conjunction with any other dependants, or for the purpose of repaying any money secured by way of mortgage or otherwise on any residential property owned by the dependant and so used, or for the purpose of furnishing any such residential property. Where money is advanced by way of loan, the Court may give such directions as it thinks fit in respect of the security to be taken, and may either prescribe the conditions upon or subject to which the money is to be advanced or authorise the trustee to prescribe the conditions at his discretion. The conditions may include power to the trustee to remit interest and principal money or any part thereof to the extent of the amount or value of any maintenance, education, advancement, or benefit which the dependant to whom the money is advanced may provide for any other dependants.
-(2) The Court may exercise any power under section 64 of the Trustee Act 1956 (which relates to dealings with trust property) either on the creation of any trust under any of the provisions of this Part of this Act or from time to time during the continuance of any such trust.
+### 16 Power of court to authorize advances, etc
+(1) The court may from time to time, at its discretion, authorize moneys to be advanced to any dependant (whether by way of loan or otherwise) as it thinks fit, and upon or subject to such conditions as it thinks fit, out of the damages or out of any amounts allotted to other dependants or out of any amount held on trust as a class fund, for any purpose that the court thinks proper in the interests of the dependants or any of them. Without limiting the generality of this subsection, it is hereby declared that any such advance may be made for the purpose of purchasing or otherwise acquiring a residential property for the use of the dependant either alone or in conjunction with any other dependants, or for the purpose of repaying any moneys secured by way of mortgage or otherwise on any residential property owned by the dependant and so used, or for the purpose of furnishing any such residential property. Where moneys are advanced by way of loan, the court may give such directions as it thinks fit in respect of the security to be taken, and may either prescribe the conditions upon or subject to which the moneys are to be advanced or authorize the trustee to prescribe the conditions at his discretion. The conditions may include power to the trustee to remit interest and principal moneys or any part thereof to the extent of the amount or value of any maintenance, education, advancement, or benefit which the dependant to whom the moneys are advanced may provide for any other dependants.
+(2) The court may exercise any power under section 64 of the Trustee Act 1956 (which relates to dealings with trust property) either on the creation of any trust under any of the provisions of this Part or from time to time during the continuance of any such trust.
 
 ### 17 Variation of orders
-The Court may at any time vary any order made by it either before or after the commencement of this Act in respect of damages which have been recovered (either in an action or without an action being brought) under this Act or under the corresponding provisions of any former Act and in respect of the income therefrom so far as the damages and income are for the time being in the hands of a trustee as aforesaid or in the hands of Public Trust or any other trustee under Part 9A of the Protection of Personal and Property Rights Act 1988 or section 12 of the Minors' Contracts Act 1969.
+The court may at any time vary any order made by it either before or after the commencement of this Act in respect of damages which have been recovered (either in an action or without an action being brought) under this Act or under the corresponding provisions of any former Act and in respect of the income therefrom so far as the damages and income are for the time being in the hands of a trustee as aforesaid or in the hands of Public Trust or any other trustee under Part 9A of the Protection of Personal and Property Rights Act 1988 or section 12 of the Minors' Contracts Act 1969.
 
 ### 18 Considerations to be taken into account in making or varying order
-In making or varying an order under this Part of this Act the Court shall have regard to all relevant considerations including, where the damages are recovered in an action which is tried with a jury, any recommendation which the jury may make in respect of the order; and the Court may, whenever it considers that it is just and proper to do so, take into consideration all or any of the following matters:
-  (a) Any gain to any dependant that is consequent on the death of the deceased person; and
-  (b) Circumstances which have arisen after the date of the death of the deceased person; and
-  (c) The probable future needs of the dependants.
+In making or varying an order under this Part the court shall have regard to all relevant considerations including, where the damages are recovered in an action which is tried with a jury, any recommendation which the jury may make in respect of the order; and the court may, whenever it considers that it is just and proper to do so, take into consideration all or any of the following matters:
+  (a) any gain to any dependant that is consequent on the death of the deceased person; and
+  (b) circumstances which have arisen after the date of the death of the deceased person; and
+  (c) the probable future needs of the dependants.
 
 ### 19 Persons who may apply for order or variation of order
-An order or variation of an order under this Part of this Act may be made by the Court of its own motion or on an application made by—
-  (a) Any dependant of the deceased person;
-  (b) The spouse or civil union partner of any such dependant;
-  (c) Any near relation by blood or marriage or civil union of any such dependant;
+An order or variation of an order under this Part may be made by the court of its own motion or on an application made by—
+  (a) any dependant of the deceased person;
+  (b) the spouse or civil union partner of any such dependant;
+  (c) any near relation by blood or marriage or civil union of any such dependant;
   (d) Public Trust;
-  (e) The trustee who holds the amount to which the application relates; or
-  (f) Any other person who adduces proof of circumstances which in the opinion of the Court make it proper that he should make the application.
+  (e) the trustee who holds the amount to which the application relates; or
+  (f) any other person who adduces proof of circumstances which in the opinion of the court make it proper that he should make the application.
 
 ### 20 Orders as to damages recoverable before passing of Act
-The provisions of this Part of this Act shall extend so as to apply to damages that have become recoverable before the passing of this Act under any enactment repealed by this Act except in so far as the damages have been disposed of in accordance with the provisions of any such enactment.
+The provisions of this Part shall extend so as to apply to damages that have become recoverable before the passing of this Act under any enactment repealed by this Act except in so far as the damages have been disposed of in accordance with the provisions of any such enactment.
 
-### 21 Powers of Court not affected by certain other Acts
-Nothing in Part 9A of the Protection of Personal and Property Rights Act 1988 or in section 12 of the Minors' Contracts Act 1969 or in any order made by the Court under either of those sections shall prevent the Court from making an order under this Part of this Act in respect of any damages to which this Part of this Act applies.
+### 21 Powers of court not affected by certain other Acts
+Nothing in Part 9A of the Protection of Personal and Property Rights Act 1988 or in section 12 of the Minors' Contracts Act 1969 or in any order made by the court under either of those sections shall prevent the court from making an order under this Part in respect of any damages to which this Part applies.
 
 ### 22 Validation of certain orders previously made
-Where the Court has made any order before the commencement of this Act and the order was invalid at the time when it was made but would have been valid if this Part of this Act had then been in force, the order shall be deemed to have been validly made and the provisions of this Part of this Act shall be deemed to have applied to the order as from the time when it was made.
+Where the court has made any order before the commencement of this Act and the order was invalid at the time when it was made but would have been valid if this Part had then been in force, the order shall be deemed to have been validly made and the provisions of this Part shall be deemed to have applied to the order as from the time when it was made.
 
 ## Part 3 — Miscellaneous
 
 ### 23 Repeals and savings
-(1) The enactments specified in the Schedule hereto are hereby repealed.
-(2) Without limiting the provisions of the Acts Interpretation Act 1924, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
+(1) The enactments specified in the Schedule are hereby repealed.
+(2) Without limiting the provisions of the Interpretation Act 1999, it is hereby declared that the repeal of any provision by this Act shall not affect any document made or any thing whatsoever done under the provision so repealed or under any corresponding former provision, and every such document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act and as if that provision had been in force when the document was made or the thing was done.
 
 ## Schedule Schedule — Enactments repealed
