@@ -1,50 +1,48 @@
 # Housing Restructuring and Tenancy Matters Act 1992
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2010-03-03_
 
-> An Act to—aProvide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbProvide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcProvide for related matters, income-related rents, information matching, and other tenancy matters
+> An Act to—aprovide for the acquisition by the Crown of shares in the capital of a company incorporated under the Companies Act 1955; andbprovide for the vesting in that company of State housing land held by the Crown under the Housing Act 1955 and assets and liabilities of the Housing Corporation of New Zealand; andcprovide for related matters, income-related rents, information matching, and other tenancy matters
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Housing Restructuring and Tenancy Matters Act 1992.
-(2) Except as provided in subsections (3) and (4) of this section, this Act shall come into force on the date on which it receives the Royal assent.
-(3) Section 38 of this Act shall be deemed to have come into force on the 31st day of March 1989.
-(4) Section 41 of this Act shall come into force on a date to be appointed by the Governor-General by Order in Council.
+(2) Except as provided in subsections (3) and (4), this Act shall come into force on the date on which it receives the Royal assent.
+(3) Section 38 shall be deemed to have come into force on 31 March 1989.
+(4) Section 41 shall come into force on a date to be appointed by the Governor-General by Order in Council.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Agreement** includes a deed, a contract, an agreement, an arrangement, and an understanding, whether oral or written, express or implied, and whether or not enforceable at law
-  - **Board** means the board of directors of the company
+  - **agreement** includes a deed, a contract, an agreement, an arrangement, and an understanding, whether oral or written, express or implied, and whether or not enforceable at law
+  - **board** means the board of directors of the company
   - **company** ,—
     (a) before the day on which the order under section 53 of the Housing Corporation Act 1974 relating to it comes into force, means the company the shares in which—
       (i) on 30 June 2001 were owned by the responsible Minister (as that term was then defined by this section) and the Minister of Finance, having been acquired under the former section 9; and
       (ii) on 1 July 2001 vested in the Corporation under section 52(1) of the Housing Corporation Act 1974; but
-    (b) on and after that day, must be read as a reference to the Corporation as that company's successor.
+    (b) on and after that day, must be read as a reference to the Corporation as that company's successor
   - **Corporation** means the Housing New Zealand Corporation established under section 3 of the Housing Corporation Act 1974
   - **Corporation assets** means any real or personal property of any kind belonging to the Corporation, whether or not subject to rights; and, without limiting the generality of the foregoing, includes—
-    (a) Any estate or interest in any land belonging to the Corporation, including all rights of occupation of land or buildings:
-    (b) All buildings, vehicles, plant, equipment, and machinery belonging to the Corporation, and any rights therein:
-    (c) All securities within the meaning of the Securities Act 1978 belonging to the Corporation:
-    (d) All rights of any kind belonging to the Corporation, including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights:
-    (e) All patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights whether enforceable by Act or rule of law belonging to the Corporation:
-    (f) Goodwill and any business undertaking of the Corporation:
+    (a) any estate or interest in any land belonging to the Corporation, including all rights of occupation of land or buildings:
+    (b) all buildings, vehicles, plant, equipment, and machinery belonging to the Corporation, and any rights therein:
+    (c) all securities within the meaning of the Securities Act 1978 belonging to the Corporation:
+    (d) all rights of any kind belonging to the Corporation, including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights:
+    (e) all patents, trade marks, designs, copyright, plant variety rights, and other intellectual property rights whether enforceable by Act or rule of law belonging to the Corporation:
+    (f) goodwill and any business undertaking of the Corporation
   - **Corporation liabilities** means liabilities of the Corporation
   - **District Land Registrar** means a District Land Registrar appointed under the Land Transfer Act 1952; and includes a Registrar of Deeds
-  - **Liabilities** includes—
-    (a) Liabilities and obligations under any Act or agreement; and
-    (b) Deposits and other debt securities within the meaning of the Securities Act 1978; and
-    (c) Contingent liabilities:
-  - **Responsible Minister**
-  - **Rights** includes powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
-  - **Rules** means the memorandum of association and articles of association of the company
-  - **Security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability, and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
-  - **Shareholding Ministers**
-  - **Sitting day** means a sitting day of the House of Representatives
+  - **liabilities** includes—
+    (a) liabilities and obligations under any Act or agreement; and
+    (b) deposits and other debt securities within the meaning of the Securities Act 1978; and
+    (c) contingent liabilities
+  - **rights** includes powers, privileges, interests, licences, approvals, consents, benefits, and equities of any kind, whether actual, contingent, or prospective
+  - **rules** means the memorandum of association and articles of association of the company
+  - **security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability, and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
+  - **sitting day** means a sitting day of the House of Representatives
   - **State housing assets** means State housing land within the meaning of section 2(1) of the Housing Act 1955; and includes—
-    (a) All buildings, vehicles, plant, equipment, machinery, and chattels belonging to the Crown and relating to State housing land (as so defined) and any rights therein:
-    (b) All rights of the Crown of any kind relating to State housing land (as so defined) including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights; and
-    (c) All securities belonging to the Crown and relating to State housing land (as so defined):
+    (a) all buildings, vehicles, plant, equipment, machinery, and chattels belonging to the Crown and relating to State housing land (as so defined) and any rights therein:
+    (b) all rights of the Crown of any kind relating to State housing land (as so defined) including rights under Acts, deeds, agreements, or licences, and all applications, objections, submissions, and appeals in respect of such rights; and
+    (c) all securities belonging to the Crown and relating to State housing land (as so defined)
   - **State housing liabilities** means all liabilities of the Crown relating to State housing land within the meaning of section 2(1) of the Housing Act 1955
-  - **Statement of corporate intent** means the current statement of corporate intent for the company prepared pursuant to section 15 of this Act
-  - **Subsidiary** has the same meaning as in section 158 of the Companies Act 1955.
+  - **statement of corporate intent** means the current statement of corporate intent for the company prepared pursuant to section 15
+  - **subsidiary** has the same meaning as in section 158 of the Companies Act 1955.
 (2) In this Act, a reference to transfer, authorise, or grant includes entering into an agreement to transfer, authorise, or grant, as the case may be.
 (3) References in this Act to State housing land within the meaning of subsection (1) of section 2 of the Housing Act 1955 shall be construed as references to State housing land within the meaning of that subsection and nothing in subsection (2) of that section shall apply.
 
@@ -111,153 +109,152 @@ The Crown may, from time to time, require the company to enter into agreements f
 ### 21 Protection from disclosure of sensitive information
 [Repealed]
 
-## Part 4 — Vesting of state housing assets and liabilities and corporation assets and liabilities in company
+## Part 4 — Vesting of State housing assets and liabilities and Corporation assets and liabilities in company
 
 ### 22 Agreements in relation to vesting of State housing assets and liabilities and Corporation assets and liabilities
-(1) Notwithstanding any Act, rule of law, or agreement, the shareholding Ministers may, from time to time, do any one or more of the following:
-  (a) Enter into an agreement with the company on such terms and conditions as the shareholding Ministers and the company think fit that identifies the State housing assets or liabilities or Corporation assets or liabilities that the shareholding Ministers and the company agree should be vested in the company and that states the consideration for such vesting:
-  (b) Authorise the company to act on behalf of the Crown or the Corporation in providing housing services or in managing State housing assets or liabilities or Corporation assets or liabilities:
-  (c) Grant to the company leases, licences, easements, permits, or rights of any kind in respect of State housing assets or liabilities or Corporation assets or liabilities.
-(2) Any agreement entered into under subsection (1) of this section may apply to State housing assets or liabilities or Corporation assets or liabilities separately or as a group or class and, for the purposes of this subsection, a class of State housing assets or liabilities or Corporation assets or liabilities may comprise—
-  (a) All or any State housing assets or liabilities or Corporation assets or liabilities:
-  (b) All or any State housing assets or liabilities or Corporation assets or liabilities other than State housing assets or liabilities or Corporation assets or liabilities identified separately or as a group or class.
-(3) The responsible Minister shall lay before the House of Representatives any contract or other document entered into pursuant to subsection (1) of this section within 12 sitting days after the date of that contract or document.
+(1) Notwithstanding any Act, rule of law, or agreement, the shareholding Ministers may, from time to time, do any 1 or more of the following:
+  (a) enter into an agreement with the company on such terms and conditions as the shareholding Ministers and the company think fit that identifies the State housing assets or liabilities or Corporation assets or liabilities that the shareholding Ministers and the company agree should be vested in the company and that states the consideration for such vesting:
+  (b) authorise the company to act on behalf of the Crown or the Corporation in providing housing services or in managing State housing assets or liabilities or Corporation assets or liabilities:
+  (c) grant to the company leases, licences, easements, permits, or rights of any kind in respect of State housing assets or liabilities or Corporation assets or liabilities.
+(2) Any agreement entered into under subsection (1) may apply to State housing assets or liabilities or Corporation assets or liabilities separately or as a group or class and, for the purposes of this subsection, a class of State housing assets or liabilities or Corporation assets or liabilities may comprise—
+  (a) all or any State housing assets or liabilities or Corporation assets or liabilities:
+  (b) all or any State housing assets or liabilities or Corporation assets or liabilities other than State housing assets or liabilities or Corporation assets or liabilities identified separately or as a group or class.
+(3) The responsible Minister shall lay before the House of Representatives any contract or other document entered into pursuant to subsection (1) within 12 sitting days after the date of that contract or document.
 
 ### 23 Assets relating to land and interests in land may be dealt with separately
-The shareholding Ministers and the company may agree pursuant to section 22 of this Act that any State housing assets or Corporation assets that are fixed to, or are under or over, any land may be vested in the company whether or not the land is also vested in the company and, in any such case, for the purposes of this Part of this Act, the assets and the land shall be regarded as separate assets each capable of separate ownership.
+The shareholding Ministers and the company may agree pursuant to section 22 that any State housing assets or Corporation assets that are fixed to, or are under or over, any land may be vested in the company whether or not the land is also vested in the company and, in any such case, for the purposes of this Part, the assets and the land shall be regarded as separate assets each capable of separate ownership.
 
 ### 24 Vesting of State housing assets and liabilities and Corporation assets and liabilities in company
 (1) The Governor-General may from time to time, by Order in Council, appoint a date on which, by virtue of this Act, State housing assets or liabilities and Corporation assets or liabilities referred to in any agreement entered into between the shareholding Ministers and the company, being an agreement specified in the order, shall vest in the company.
-(2) The vesting of State housing assets and liabilities and Corporation assets and liabilities pursuant to this Part of this Act shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Reserves Act 1977, the Public Works Act 1981, the Resource Management Act 1991, or any other enactment relating to land.
+(2) The vesting of State housing assets and liabilities and Corporation assets and liabilities pursuant to this Part shall take effect notwithstanding any enactment or rule of law or agreement and, in particular, but without limitation, the vesting shall take effect notwithstanding any provision contained in the Land Act 1948, the Reserves Act 1977, the Public Works Act 1981, the Resource Management Act 1991, or any other enactment relating to land.
 (3) Every Order in Council under this section shall be deemed to be a regulation for the purposes of the Acts and Regulations Publication Act 1989.
 
 ### 25 Additional provisions relating to vesting
-(1) Nothing in this Part of this Act—
-  (a) Shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of contract or confidence or as otherwise making any of them guilty of a civil wrong; or
-  (b) Shall be regarded as giving rise to a right for any person to terminate or cancel any contract or arrangement or to accelerate the performance of any obligation; or
-  (c) Shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
-  (d) Shall release any surety from any obligation; or
-  (e) Shall invalidate or discharge any contract or security.
-(2) District Land Registrars and other persons charged with the keeping of books or registers are hereby authorised to make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any State housing assets or liabilities and Corporation assets or liabilities in the company under this Part of this Act.
-(3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in the company pursuant to this Part of this Act shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
-(4) Where State housing assets or liabilities or Corporation assets or liabilities vest in the company pursuant to this Part of this Act,—
-  (a) The publication under the Acts and Regulations Publication Act 1989 of any Order in Council made under section 24 of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
-  (b) The Crown or the Corporation, as the case may be, shall remain liable to any third party as if the asset or liability had not been vested but shall be indemnified by the company in respect of any liability to any third party:
-  (c) Any satisfaction or performance by the company in respect of the asset or liability shall be deemed to be also satisfaction or performance by the Crown or the Corporation, as the case may be:
-  (d) Any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the company shall be deemed to be also to the benefit of the Crown or the Corporation, as the case may be.
+(1) Nothing in this Part—
+  (a) shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of contract or confidence or as otherwise making any of them guilty of a civil wrong; or
+  (b) shall be regarded as giving rise to a right for any person to terminate or cancel any contract or arrangement or to accelerate the performance of any obligation; or
+  (c) shall be regarded as placing the Crown, the company, the Corporation, or any other person in breach of any enactment or rule of law or contractual provision prohibiting, restricting, or regulating the assignment or transfer of any property or the disclosure of any information; or
+  (d) shall release any surety from any obligation; or
+  (e) shall invalidate or discharge any contract or security.
+(2) District Land Registrars and other persons charged with the keeping of books or registers are hereby authorised to make such entries in their respective books or registers and do everything necessary to give effect to the vesting of any State housing assets or liabilities and Corporation assets or liabilities in the company under this Part.
+(3) A certificate, signed by the Chief Surveyor for the land district in which the land is situated, that land described in the certificate, or described in any document on which the certificate appears, is land vested in the company pursuant to this Part shall be sufficient evidence, in the absence of proof to the contrary, that the land was so vested.
+(4) Where State housing assets or liabilities or Corporation assets or liabilities vest in the company pursuant to this Part,—
+  (a) the publication under the Acts and Regulations Publication Act 1989 of any Order in Council made under section 24 of this Act relating to those State housing assets or liabilities or Corporation assets or liabilities shall be deemed to be notice of the vesting and any third party shall, after the date of such publication, deal with the company in place of the Crown or the Corporation, as the case may be:
+  (b) the Crown or the Corporation, as the case may be, shall remain liable to any third party as if the asset or liability had not been vested but shall be indemnified by the company in respect of any liability to any third party:
+  (c) any satisfaction or performance by the company in respect of the asset or liability shall be deemed to be also satisfaction or performance by the Crown or the Corporation, as the case may be:
+  (d) any satisfaction or performance in respect of the asset or liability by any third party to the benefit of the company shall be deemed to be also to the benefit of the Crown or the Corporation, as the case may be.
 
 ### 26 Vesting of assets where certain terms and conditions prescribed by statute
 (1) Where—the goods or services shall, to the extent that those terms and conditions are not already contained in contracts between the Crown or the Corporation, as the case may be, and third parties, from the date of vesting be deemed to be provided pursuant to contracts between the company and the third parties (whether or not the Act is repealed).
-  (a) Rights or obligations to provide goods or services to third parties are vested in the company pursuant to this Part of this Act; and
-  (b) Those goods or services have previously been provided by the Crown or the Corporation, as the case may be, on terms and conditions wholly or partly prescribed by any Act; and
-  (c) The Governor-General has, by Order in Council, declared that this subsection shall apply in respect of those goods or services,—
+  (a) rights or obligations to provide goods or services to third parties are vested in the company pursuant to this Part; and
+  (b) those goods or services have previously been provided by the Crown or the Corporation, as the case may be, on terms and conditions wholly or partly prescribed by any Act; and
+  (c) the Governor-General has, by Order in Council, declared that this subsection shall apply in respect of those goods or services,—
 (2) Each such contract shall be deemed to include such of the terms and conditions contained in that Act (with all necessary modifications) as are specified in the Order in Council.
-(3) Where any land that is subject to any lease, licence, permit, or right, created on terms and conditions wholly or partly set out in any Act has been vested in the company pursuant to this Part of this Act, the Governor-General may, by Order in Council, declare that such of the provisions of that Act as are specified in the order shall continue to apply in relation to the land and such lease, licence, permit, or right.
-(4) Where an Order in Council is made under subsection (3) of this section, the provisions of the Act referred to in the order shall, with all necessary modifications, continue to apply in relation to the land and the terms or conditions of the lease, licence, permit, or right subject to any agreement to—made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
-  (a) Amend or revoke any such term or condition; or
-  (b) Revoke any such term or condition and substitute another term or condition for it—
+(3) Where any land that is subject to any lease, licence, permit, or right, created on terms and conditions wholly or partly set out in any Act has been vested in the company pursuant to this Part, the Governor-General may, by Order in Council, declare that such of the provisions of that Act as are specified in the order shall continue to apply in relation to the land and such lease, licence, permit, or right.
+(4) Where an Order in Council is made under subsection (3), the provisions of the Act referred to in the order shall, with all necessary modifications, continue to apply in relation to the land and the terms or conditions of the lease, licence, permit, or right subject to any agreement to—made between the owner for the time being of the land and the holder for the time being of the lease, licence, permit, or right.
+  (a) amend or revoke any such term or condition; or
+  (b) revoke any such term or condition and substitute another term or condition for it—
 
 ### 27 Provisions relating to vesting of land
-(1) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be vested in the company pursuant to this Part of this Act.
-(2) Notwithstanding any other provision of this Act, no land for the time being administered by the Department of Conservation under the Conservation Act 1987 or under any enactment specified in Schedule 1 to that Act shall be vested in the company pursuant to this Part of this Act.
-(3) All land that is subject to the Housing Act 1955 and that is vested in the company pursuant to this Part of this Act shall cease to be subject to that Act from the date of that vesting unless otherwise expressly provided by this Act or any other Act.
-(4) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the vesting of land in the company pursuant to this Part of this Act.
-(5) Nothing in this Part of this Act or in any vesting of land in the company pursuant to this Part of this Act shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
+(1) Notwithstanding any other provision of this Act, no land that is subject to a lease or licence pursuant to section 66 or section 66AA of the Land Act 1948 shall be vested in the company pursuant to this Part.
+(2) Notwithstanding any other provision of this Act, no land for the time being administered by the Department of Conservation under the Conservation Act 1987 or under any enactment specified in Schedule 1 to that Act shall be vested in the company pursuant to this Part.
+(3) All land that is subject to the Housing Act 1955 and that is vested in the company pursuant to this Part shall cease to be subject to that Act from the date of that vesting unless otherwise expressly provided by this Act or any other Act.
+(4) Nothing in sections 40 to 42 of the Public Works Act 1981 shall apply to the vesting of land in the company pursuant to this Part.
+(5) Nothing in this Part or in any vesting of land in the company pursuant to this Part shall derogate from the provisions of section 10 or section 11 of the Crown Minerals Act 1991.
 
 ### 28 Title to land vested in company
 (1) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee,—
-  (a) Register the company as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the company pursuant to this Part of this Act; and
-  (b) Register the company as the proprietor, in substitution for the Corporation, of the estate or the interest of the Corporation in land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the company pursuant to this Part of this Act; and
-  (c) Make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
-(2) The powers conferred by subsection (1) of this section may be exercised in respect of any estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or been determined.
-(3) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers, and on payment of the prescribed fee, issue a certificate of title for land, other than land that is registered under the Land Transfer Act 1952, that is vested in the company pursuant to this Part of this Act in Form No 1 of Schedule 1 to the Land Transfer Act 1952, amended as appropriate.
-(4) A District Land Registrar shall, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a certificate of title for land that is subject to the Land Transfer Act 1952 but for which no certificate of title has been issued and that is vested in the company pursuant to this Part of this Act in Form No 2 in Schedule 1 to the Land Transfer Act 1952, amended as appropriate.
-(5) Every application under subsection (1) or subsection (3) or subsection (4) of this section shall—
-  (a) State that the land has been vested in the company under this Part of this Act; and
-  (b) Contain a description of the land that is sufficient to identify it; and
-  (c) In the case of an application under subsection (3) of this section, be accompanied by a certificate by the Chief Surveyor for the district concerned as to the correctness of the description.
-(6) Where land is vested in the company pursuant to this Part of this Act and at any time before the 1st day of October 1991 (being the date of the coming into force of Part 10 of the Resource Management Act 1991), in relation to a proposed subdivision of the land, either the Crown or the Corporation held an approval under the Local Government Act 1974 (being an approval that expired before that date) or no approval under that Act or any other Act was required, as the case may be,—
-  (a) Any person authorised by either of the shareholding Ministers may, notwithstanding the Resource Management Act 1991, lodge for deposit by a District Land Registrar a survey plan in respect of the land and, in any such case, the District Land Registrar shall, notwithstanding that Act but subject to the provisions of any other applicable enactment,—
-    (i) Deposit any such plan; and
-    (ii) On written application by any such person, issue a certificate of title for any land that is shown as a separate allotment on the plan as so deposited:
-  (b) A District Land Registrar shall, notwithstanding the Resource Management Act 1991, on written application by a person authorised by either of the shareholding Ministers, issue a certificate of title for any land that is shown as a separate allotment on any survey plan in respect of the land that was deposited before the 1st day of October 1991.
-(7) For the purposes of subsection (6) of this section, the expressions allotment, subdivision, and survey plan shall have the same meanings as in the Resource Management Act 1991.
+  (a) register the company as the proprietor, in substitution for the Crown, of the estate or the interest of the Crown in land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the company pursuant to this Part; and
+  (b) register the company as the proprietor, in substitution for the Corporation, of the estate or the interest of the Corporation in land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the company pursuant to this Part; and
+  (c) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
+(2) The powers conferred by subsection (1) may be exercised in respect of any estate or interest that is incorporated in the register by virtue of a lease or licence that has expired or been determined.
+(3) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers, and on payment of the prescribed fee, issue a certificate of title for land, other than land that is registered under the Land Transfer Act 1952, that is vested in the company pursuant to this Part in form 1 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
+(4) A District Land Registrar shall, on written application by a person authorised by either of the shareholding Ministers and on payment of the prescribed fee, issue a certificate of title for land that is subject to the Land Transfer Act 1952 but for which no certificate of title has been issued and that is vested in the company pursuant to this Part in form 2 of Schedule 1 of the Land Transfer Act 1952, amended as appropriate.
+(5) Every application under subsection (1) or subsection (3) or subsection (4) shall—
+  (a) state that the land has been vested in the company under this Part; and
+  (b) contain a description of the land that is sufficient to identify it; and
+  (c) in the case of an application under subsection (3), be accompanied by a certificate by the Chief Surveyor for the district concerned as to the correctness of the description.
+(6) Where land is vested in the company pursuant to this Part and at any time before 1 October 1991 (being the date of the coming into force of Part 10 of the Resource Management Act 1991), in relation to a proposed subdivision of the land, either the Crown or the Corporation held an approval under the Local Government Act 1974 (being an approval that expired before that date) or no approval under that Act or any other Act was required, as the case may be,—
+  (a) any person authorised by either of the shareholding Ministers may, notwithstanding the Resource Management Act 1991, lodge for deposit by a District Land Registrar a survey plan in respect of the land and, in any such case, the District Land Registrar shall, notwithstanding that Act but subject to the provisions of any other applicable enactment,—
+    (i) deposit any such plan; and
+    (ii) on written application by any such person, issue a certificate of title for any land that is shown as a separate allotment on the plan as so deposited:
+  (b) a District Land Registrar shall, notwithstanding the Resource Management Act 1991, on written application by a person authorised by either of the shareholding Ministers, issue a certificate of title for any land that is shown as a separate allotment on any survey plan in respect of the land that was deposited before 1 October 1991.
+(7) For the purposes of subsection (6), the expressions allotment, subdivision, and survey plan shall have the same meanings as in the Resource Management Act 1991.
 
 ### 29 Land certification
-(1) Before a District Land Registrar issues a certificate of title in respect of any land, other than land that is registered under the Land Transfer Act 1952, that is vested in the company pursuant to this Part of this Act, the District Land Registrar shall either receive under the hand of, or request from, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in a form substantially similar to the form set out in Schedule 2 to the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
-(2) A certificate in accordance with subsection (1) of this section shall be filed by the District Land Registrar in the land registry office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in it.
+(1) Before a District Land Registrar issues a certificate of title in respect of any land, other than land that is registered under the Land Transfer Act 1952, that is vested in the company pursuant to this Part, the District Land Registrar shall either receive under the hand of, or request from, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor a certificate in a form substantially similar to the form set out in Schedule 2 of the Land Act 1948 as to the legal description of the land, any trusts, reservations, or restrictions affecting the land, and any other matters that the District Land Registrar considers appropriate.
+(2) A certificate in accordance with subsection (1) shall be filed by the District Land Registrar in the land registry office and shall be conclusive evidence to the District Land Registrar of the matters required to be stated in it.
 
 ### 30 Certification of easements
-(1) Where land is vested in the company pursuant to this Part of this Act subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under section 29(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
+(1) Where land is vested in the company pursuant to this Part subject to the reservation of or together with any easement, not being an easement previously registered under the Land Transfer Act 1952, the Director-General within the meaning of section 2 of the Survey Act 1986 or any Chief Surveyor shall include in the certificate given under section 29(1) of this Act a sufficient description of the easement and particulars as to the rights and powers, terms, covenants, conditions, or restrictions attaching thereto.
 (2) The District Land Registrar shall enter a memorial of the easement upon the relevant certificate of title by reference to the certificate in which it is described as if that certificate were the instrument creating the easement.
-(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2) of this section, the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
+(3) Where a memorial of an easement is entered upon the relevant certificate of title under subsection (2), the easement shall be treated for all purposes including all subsequent dealings as if it had been created under the Land Transfer Act 1952.
 
 ### 31 Orders in Council relating to vesting of State housing assets and liabilities and Corporation assets and liabilities
-For the purpose of facilitating the vesting of State housing assets or liabilities and Corporation assets or liabilities in the company pursuant to this Part of this Act, the Governor-General may, from time to time, by Order in Council, do any one or more of the following:
-  (a) Declare that a reference to the Crown or a Minister, officer, employee, department, or instrument of the Crown or to the Corporation or an officer or employee of the Corporation, as the case may be, in any or all regulations, orders, notices, or documents shall be deemed to be or to include a reference to the company:
-  (b) Declare that the company shall assume or continue to have the rights and obligations of the Crown or a Minister, officer, employee, department, or instrument of the Crown or of the Corporation or an officer or employee of the Corporation, as the case may be, in respect of applications for rights, objections, or proceedings before any court, authority, or other person, being rights and obligations that have been vested in the company pursuant to this Part of this Act:
-  (c) Declare, in respect of any State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part of this Act, that the company shall be deemed to have specified rights or obligations in respect of those assets or liabilities, being rights or obligations that are required in respect of those assets or liabilities as a result of the change of ownership or responsibility from the Crown or the Corporation, as the case may be, to the company:
-  (d) Declare that any Order in Council made under this section shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
-  (e) Direct any authority or other person to register or record any such vesting or declaration.
+For the purpose of facilitating the vesting of State housing assets or liabilities and Corporation assets or liabilities in the company pursuant to this Part, the Governor-General may, from time to time, by Order in Council, do any one or more of the following:
+  (a) declare that a reference to the Crown or a Minister, officer, employee, department, or instrument of the Crown or to the Corporation or an officer or employee of the Corporation, as the case may be, in any or all regulations, orders, notices, or documents shall be deemed to be or to include a reference to the company:
+  (b) declare that the company shall assume or continue to have the rights and obligations of the Crown or a Minister, officer, employee, department, or instrument of the Crown or of the Corporation or an officer or employee of the Corporation, as the case may be, in respect of applications for rights, objections, or proceedings before any court, authority, or other person, being rights and obligations that have been vested in the company pursuant to this Part:
+  (c) declare, in respect of any State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part, that the company shall be deemed to have specified rights or obligations in respect of those assets or liabilities, being rights or obligations that are required in respect of those assets or liabilities as a result of the change of ownership or responsibility from the Crown or the Corporation, as the case may be, to the company:
+  (d) declare that any Order in Council made under this section shall be deemed to be notice to all persons, and that specific notice need not be given to any authority or other person:
+  (e) direct any authority or other person to register or record any such vesting or declaration.
 
 ### 32 Books and documents to remain evidence
-(1) Any document, matter, or thing, which if this Act had not been passed would have been admissible in evidence in respect of any matter relating to State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part of this Act for or against the Crown or the Corporation, as the case may be, shall, on and after the date on which those assets or liabilities vest in the company, be admissible in evidence in respect of the same matter for or against the company.
+(1) Any document, matter, or thing, which if this Act had not been passed would have been admissible in evidence in respect of any matter relating to State housing assets or liabilities or Corporation assets or liabilities vested in the company pursuant to this Part for or against the Crown or the Corporation, as the case may be, shall, on and after the date on which those assets or liabilities vest in the company, be admissible in evidence in respect of the same matter for or against the company.
 (2) In this section document has the same meaning as in section 2(1) of the Evidence Amendment Act (No 2) 1980.
 
 ### 33 Application of Housing Act 1955 to company
-(1) The Housing Act 1955 shall have effect in respect of State housing land within the meaning of section 2(1) of the Housing Act 1955 vested in the company pursuant to this Part of this Act where at the date of vesting there is a lease, licence, permit, agreement, or tenancy in respect of that land to which all or any of the following provisions of the Housing Act 1955 (or any corresponding provisions of any former Housing Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, agreement, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still State housing land subject to the Housing Act 1955 and every reference in those provisions to the Minister of Housing or the Corporation included a reference to the company:
-  (a) Section 17 (which relates to the issue of licences to occupy):
-  (b) Section 18 (which relates to the registration of agreements for sale and licences to occupy):
-  (c) Section 22 (which relates to the acceptance of money after the rescission of an agreement for sale):
-  (d) Section 23 (which relates to the recovery of possession of land):
-  (e) Section 37 (which relates to the registration of dealings with agreements registered under section 18 of the Housing Act 1955).
-(2) Without limiting subsection (1) of this section, section 18 of the Housing Act 1955 shall apply in relation to every licence to occupy land that is issued by the company under section 17 of that Act as applied by subsection (1) of this section.
-(3) Without limiting the powers of the company, the provisions of sections 25 to 30 of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of section 2(1) of the Housing Act 1955 that has been vested in the company pursuant to this Part of this Act, whether or not the land remains vested in the company, as if the land continued to be State housing land subject to that Act and as if the references to the Crown and to the Corporation included a reference to the company.
-(4) Section 36(5) of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of section 2(1) of the Housing Act 1955 vested in the company pursuant to this Part of this Act as if the land continued to be State housing land and as if the references to the Minister of Housing and the Corporation included a reference to the company.
+(1) The Housing Act 1955 shall have effect in respect of State housing land within the meaning of section 2(1) of the Housing Act 1955 vested in the company pursuant to this Part where at the date of vesting there is a lease, licence, permit, agreement, or tenancy in respect of that land to which all or any of the following provisions of the Housing Act 1955 (or any corresponding provisions of any former Housing Act, as the case may be) apply, and those provisions shall continue to apply to that lease, licence, permit, agreement, or tenancy (and any renewal thereof pursuant to a right expressly conferred thereby or by any Act) as if the land were still State housing land subject to the Housing Act 1955 and every reference in those provisions to the Minister of Housing or the Corporation included a reference to the company:
+  (a) section 17 (which relates to the issue of licences to occupy):
+  (b) section 18 (which relates to the registration of agreements for sale and licences to occupy):
+  (c) section 22 (which relates to the acceptance of money after the rescission of an agreement for sale):
+  (d) section 23 (which relates to the recovery of possession of land):
+  (e) section 37 (which relates to the registration of dealings with agreements registered under section 18 of the Housing Act 1955).
+(2) Without limiting subsection (1), section 18 of the Housing Act 1955 shall apply in relation to every licence to occupy land that is issued by the company under section 17 of that Act as applied by subsection (1) of this section.
+(3) Without limiting the powers of the company, the provisions of sections 25 to 30 of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of section 2(1) of the Housing Act 1955 that has been vested in the company pursuant to this Part, whether or not the land remains vested in the company, as if the land continued to be State housing land subject to that Act and as if the references to the Crown and to the Corporation included a reference to the company.
+(4) Section 36(5) of the Housing Act 1955 shall continue to apply in relation to State housing land within the meaning of section 2(1) of the Housing Act 1955 vested in the company pursuant to this Part as if the land continued to be State housing land and as if the references to the Minister of Housing and the Corporation included a reference to the company.
 (5) Section 3 of the Housing Amendment Act 1956 shall have effect as if—
-  (a) The references to the Corporation and the Minister of Housing included references to the company; and
-  (b) The reference in subsection (2) to State housing land included a reference to land vested in the company pursuant to this Part of this Act.
+  (a) the references to the Corporation and the Minister of Housing included references to the company; and
+  (b) the reference in subsection (2) to State housing land included a reference to land vested in the company pursuant to this Part.
 
 ### 34 Acquisition of land under Public Works Act 1981
-Where, before the vesting of any land in the company pursuant to this Part of this Act, any negotiations or action had been commenced by the Crown or the Corporation in respect of the taking or acquisition or setting apart of the land under the Public Works Act 1981, the taking or acquisition or setting apart may be continued and concluded as if the land were required for a public work.
+Where, before the vesting of any land in the company pursuant to this Part, any negotiations or action had been commenced by the Crown or the Corporation in respect of the taking or acquisition or setting apart of the land under the Public Works Act 1981, the taking or acquisition or setting apart may be continued and concluded as if the land were required for a public work.
 
 ### 35 Return of assets or liabilities by company to the Crown
-(1) The Governor-General may, from time to time, by Order in Council, vest in the Crown, on a date specified in the order, any assets or liabilities specified in the order, being assets or liabilities that were State housing assets or liabilities vested in the company pursuant to this Part of this Act and that the shareholding Ministers and the company agree should be vested in the Crown.
-(2) Where, pursuant to an Order in Council under subsection (1) of this section, assets or liabilities vest in the Crown,—
-  (a) The provisions of sections 24(2) and 25 of this Act shall apply, with such modifications as may be necessary:
-  (b) The company shall remain liable to any third party in respect of any liability in relation to the assets or liabilities incurred on or after the vesting of the assets or liabilities in the company under this Part of this Act but shall be indemnified by the Crown in respect of that liability to that third party:
-  (c) Any satisfaction or performance by the Crown in relation to the assets or liabilities shall be deemed to be also satisfaction or performance by the company:
-  (d) Any satisfaction or performance in respect of the assets or liabilities by any third party to the benefit of the Crown shall be deemed to be also to the benefit of the company.
-(3) Where land taken or acquired by the Crown under the Public Works Act 1981 before it was vested in the company pursuant to this Part of this Act is vested in the Crown pursuant to an Order in Council under this section, the provisions of that Act shall apply to the land as if the land continued to be land taken or acquired under that Act.
+(1) The Governor-General may, from time to time, by Order in Council, vest in the Crown, on a date specified in the order, any assets or liabilities specified in the order, being assets or liabilities that were State housing assets or liabilities vested in the company pursuant to this Part and that the shareholding Ministers and the company agree should be vested in the Crown.
+(2) Where, pursuant to an Order in Council under subsection (1), assets or liabilities vest in the Crown,—
+  (a) the provisions of sections 24(2) and 25 shall apply, with such modifications as may be necessary:
+  (b) the company shall remain liable to any third party in respect of any liability in relation to the assets or liabilities incurred on or after the vesting of the assets or liabilities in the company under this Part but shall be indemnified by the Crown in respect of that liability to that third party:
+  (c) any satisfaction or performance by the Crown in relation to the assets or liabilities shall be deemed to be also satisfaction or performance by the company:
+  (d) any satisfaction or performance in respect of the assets or liabilities by any third party to the benefit of the Crown shall be deemed to be also to the benefit of the company.
+(3) Where land taken or acquired by the Crown under the Public Works Act 1981 before it was vested in the company pursuant to this Part is vested in the Crown pursuant to an Order in Council under this section, the provisions of that Act shall apply to the land as if the land continued to be land taken or acquired under that Act.
 
 ### 36 Title to land vested in the Crown
 (1) A District Land Registrar shall, on written application by any person authorised by either of the shareholding Ministers and on payment of the prescribed fee,—
-  (a) Register the Crown as the proprietor, in substitution for the company, of the estate or interest of the company in any land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the Crown pursuant to an Order in Council made under section 35 of this Act; and
-  (b) Make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
+  (a) register the Crown as the proprietor, in substitution for the company, of the estate or interest of the company in any land that is incorporated in the register or otherwise registered in the land registry office of the land registration district concerned and that is vested in the Crown pursuant to an Order in Council made under section 35; and
+  (b) make such entries in the register and on any outstanding documents of title and generally do all such things as may be necessary to give effect to this section.
 (2) Every application under this section shall—
-  (a) State that the land has been vested in the Crown under section 35 of this Act; and
-  (b) Contain a description of the land that is sufficient to identify it.
+  (a) state that the land has been vested in the Crown under section 35; and
+  (b) contain a description of the land that is sufficient to identify it.
 
 ### 37 Application of Housing Act 1955
-Where land is vested in the Crown pursuant to an Order in Council made under section 35 of this Act, the Housing Act 1955 shall apply in relation to the land in the same way as it applied before it was vested in the company.
+Where land is vested in the Crown pursuant to an Order in Council made under section 35, the Housing Act 1955 shall apply in relation to the land in the same way as it applied before it was vested in the company.
 
 ### 38 Amendment to section 34 of Housing Act 1955
-Section 34(1) of the Housing Act 1955 is hereby amended by omitting the expression 31st day of March, and substituting the expression 30th day of June.
+Amendment(s) incorporated in the Act(s).
 
 ### 39 Amendment to Maori Housing Act 1935
-The Maori Housing Act 1935 is hereby amended by repealing section 10 (as amended by section 9(1) of the Ministry of Maori Development Act 1991), and substituting the following section:Rate of interest on advances
-  The rate of interest to be charged on advances made under this Act shall be such rate as the chief executive determines, but not in excess of the rate fixed under section 25 of the Housing Corporation Act 1974 in respect of similar loans made by the Housing Corporation of New Zealand.
+Amendment(s) incorporated in the Act(s).
 
 ### 40 Application of Government Superannuation Fund Act 1956
-(1) For the purposes of the Government Superannuation Fund Act 1956, a person who, at any time within 9 months after the prescribed date, became or becomes an employee of a specified company and who, immediately before becoming such an employee, was an officer or employee of the Corporation and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person was or continues to be employed by that company, be deemed to have been or to be employed in the Government service and that Act shall be deemed to have applied or to apply, as the case may be, to that person as if service with the company were Government service.
-(2) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (1) of this section shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
-(3) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (1) of this section, to a person who is in the service of the company and is a contributor to the Government Superannuation Fund the term controlling authority, in relation to that person, means the chief executive of the company.
+(1) For the purposes of the Government Superannuation Fund Act 1956, a person who, at any time within 9 months after the prescribed date, became or becomes an employee of a specified company and who, immediately before becoming such an employee, was an officer or employee of the Corporation and was a contributor to the Government Superannuation Fund under that Act shall, so long as that person was or continues to be employed by that company, be deemed to have been or to be employed in the government service and that Act shall be deemed to have applied or to apply, as the case may be, to that person as if service with the company were government service.
+(2) Subject to the Government Superannuation Fund Act 1956, nothing in subsection (1) shall entitle any such person to become a contributor to the Government Superannuation Fund after that person has once ceased to be a contributor.
+(3) For the purposes of applying the Government Superannuation Fund Act 1956, in accordance with subsection (1), to a person who is in the service of the company and is a contributor to the Government Superannuation Fund the term controlling authority, in relation to that person, means the chief executive of the company.
 (4) In this section—
-  (a) Prescribed date means a date (whether or not it is a date that is earlier than the date on which this Act comes into force) declared by the responsible Minister by notice in the Gazette to be the prescribed date for the purposes of this section:
-  (b) Specified company means a company declared by the responsible Minister by notice in the Gazette to be a specified company for the purposes of this section.
+  (a) prescribed date means a date (whether or not it is a date that is earlier than the date on which this Act comes into force) declared by the responsible Minister by notice in the Gazette to be the prescribed date for the purposes of this section:
+  (b) specified company means a company declared by the responsible Minister by notice in the Gazette to be a specified company for the purposes of this section.
 
 ### 41 Amendments to other Acts
-The enactments specified in the Schedule to this Act are hereby amended in the manner indicated in that Schedule.
+The enactments specified in the Schedule are hereby amended in the manner indicated in that schedule.
 
 ## Part 5 — Income-related rents
 
@@ -287,9 +284,9 @@ The enactments specified in the Schedule to this Act are hereby amended in the m
   - **income-related purpose** has the same meaning as in section 3(1) of the Social Security Act 1964
   - **income-related rent** , in relation to a tenant, means a rent calculated for the tenant under the calculation mechanism, or under Schedule 3
   - **market rent** , in relation to any HNZ housing, means the rent for the time being determined by the company (or the Tenancy Tribunal under the Residential Tenancies Act 1986) as the market rent for that housing
-  - **partner** , in the phrase and in related contexts, means, in relation to any person (A), a person—
+  - **partner** , in the phrase spouse or partner and in related contexts, means, in relation to any person (), a person—
     (a) who is A's civil union partner or de facto partner; and
-    (b) who is not, in the company's opinion, living apart from A.
+    (b) who is not, in the company's opinion, living apart from A
   - **prescribed** , in any provision of this Part, means for the time being—
     (a) prescribed by the calculation mechanism for the purposes of the provision; or
     (b) calculated under a means prescribed by the calculation mechanism for the purposes of the provision
@@ -356,12 +353,12 @@ The enactments specified in the Schedule to this Act are hereby amended in the m
   (a) the prescribed proportion of the sum of the assessable incomes of the applicable persons concerned, up to the prescribed threshold (or the threshold prescribed for tenants of a category to which the tenant belongs); and
   (b) the prescribed proportion of any amount by which that sum is greater than that threshold; and
   (c) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
-    (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that Subpart; and
+    (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that subpart; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (3) A rent calculated by reference to benefit levels is the sum of—
   (a) the prescribed proportion of the rate (before abatement) stated in paragraphs (a) to (j) of clause 1 of Schedule 9 of the Social Security Act 1964 that would be appropriate if the tenant were a beneficiary; and
   (b) if any of the applicable persons is eligible to receive family tax credits under subparts MA to MF and MZ of the Income Tax Act 2007, the prescribed proportion of the lesser of—
-    (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that Subpart; and
+    (i) the total of the amounts that the applicable persons are eligible to receive as family tax credits under that subpart; and
     (ii) a prescribed amount (or an amount calculated by a prescribed means).
 (4) The income-related rent for any HNZ housing must not exceed its market rent for the time being.
 (5) Subsection (4) overrides subsection (1).
@@ -372,10 +369,10 @@ The assessable income of an applicable person is the company's estimate of the p
   (a) if the company considers that income tax is payable on any part of it, after the deduction of whichever of the following the company thinks fit in the particular case:
     (i) any income tax actually paid in respect of or deducted from that part; or
     (ii) the company's estimate of the amount of income tax payable in respect of it; and
-  (b) if the company considers that any premium is payable in respect of any part of it under section 219(1) of the Injury Prevention, Rehabilatation, and Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
+  (b) if the company considers that any premium is payable in respect of any part of it under section 219(1) of the Accident Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
     (i) any premium actually paid in respect of that part; or
     (ii) the company's estimate of the amount of premium payable in respect of it; and
-  (c) if the company considers that any levy is payable in respect of any part of it under section 219(2) of the Injury Prevention, Rehabilatation, and Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
+  (c) if the company considers that any levy is payable in respect of any part of it under section 219(2) of the Accident Compensation Act 2001, after the deduction of whichever of the following the company thinks fit in the particular case:
     (i) any levy actually paid in respect of that part; or
     (ii) the company's estimate of the amount of levy payable in respect of it.
 
@@ -408,7 +405,7 @@ The assessable income of an applicable person is the company's estimate of the p
   (b) as a consequence of the deprivation, an income-related rent of any HNZ housing in respect of which the person is an applicable person is (or but for this section would be) lower than it would otherwise be,—
 (2) Subsection (1) overrides sections 46(1) and 52.
 (3) In this section,—
-  - **income** does not include any amount that an applicable person might be considered to derive from any impairment lump sum under Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 or lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998 received by the person on or after the date on which this subsection comes into force for the period of 12 months following the receipt of that payment
+  - **income** does not include any amount that an applicable person might be considered to derive from any impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998 received by the person on or after the date on which this subsection comes into force for the period of 12 months following the receipt of that payment
   - **property** does not include any such impairment lump sum or a lump sum payment of an independence allowance received by an applicable person for the period of 12 months following the receipt of that payment.
 
 **Estimating weekly income, and regulations for purposes of calculation mechanism**
@@ -515,7 +512,7 @@ For the purposes of section 54 and Schedule 3,—
   (b) allow the company to inspect any document or other written information; or
   (c) give the company—
     (i) a copy of any document or other written information; or
-    (ii) a print-out of any information stored digitally.
+    (ii) a printout of any information stored digitally.
 (2) The person does not have to comply with the request; but (for the purposes of section 7(1) of the Privacy Act 1993) this subsection authorises the person to make personal information available in response to the request.
 
 ### 60 Recovery where rate of rent too low
@@ -564,9 +561,9 @@ For the purposes of section 54 and Schedule 3,—
     (ii) all or any part of the matter is referred back to the company for further consideration; and
   (b) may award costs against the appellant in respect of any appeal that is refused, if the appeal body believes that it was frivolous or vexatious, or should not have been brought.
 (5) If regulations under section 63(1)(a) establish a body to dispose of appeals under this section, any party to any appeal to the body who is dissatisfied with any determination of the body may appeal to a District Court; and in that case,—
-  (a) within 14 days after the date of the determination, the appellant must lodge a notice of appeal with the Court, and forthwith deliver or post a copy of the notice to every other party to the appeal:
-  (b) the Court or a Judge may, on the application of the appellant or intending appellant, extend any time prescribed or allowed under this section for the lodging of a notice of appeal:
-  (c) except as provided by this subsection, the case must be dealt with in accordance with the District Courts Rules 1992.
+  (a) within 14 days after the date of the determination, the appellant must lodge a notice of appeal with the court, and forthwith deliver or post a copy of the notice to every other party to the appeal:
+  (b) the court or a Judge may, on the application of the appellant or intending appellant, extend any time prescribed or allowed under this section for the lodging of a notice of appeal:
+  (c) except as provided by this subsection, the case must be dealt with in accordance with the District Courts Rules 2009.
 (6) Nothing in this section, or in any regulations under section 63, limits or affects the rights of any tenant of HNZ housing under the Residential Tenancies Act 1986.
 
 ### 63 Regulations for purposes other than calculation mechanism
@@ -577,7 +574,7 @@ For the purposes of section 54 and Schedule 3,—
     (iii) providing that such appeals are to be made to a District Court, and providing that the District Courts Act 1947 and the High Court Rules apply, with or without modification, to the hearing and disposal of appeals; or
     (iv) providing that such appeals are to be made to the Tenancy Tribunal established by the Residential Tenancies Act 1986 as if they were applications under that Act, and providing that sections 86 to 120 of that Act apply, with or without modification, to the hearing and disposal of appeals:
   (b) providing for any other matters contemplated by the provisions of this Part (other than sections 46 to 52), necessary for their administration, or necessary for giving them full effect.
-(2) Any body established under subsection (1)(a)(i) is a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951; and every member of it is entitled to—
+(2) Any body established under subsection (1)(a)(i) is a statutory board within the meaning of the Fees and Travelling Allowances Act 1951; and every member of it is entitled to—
   (a) remuneration by way of fees, salary, or allowances, for the member's services as a member of it:
   (b) payment of travelling allowances and expenses in respect of time spent travelling in its service.
 
@@ -640,12 +637,6 @@ Examples of the information and details referred to in section 68(1)(a) and (b) 
 
 ## Schedule 1 — Enactments amended
 
-| Title of Act | Amendment |
-| --- | --- |
-| 1975, No 9-The Ombudsmen Act 1975 (RS Vol 21, p 657) |  |
-| 1976, No 65-The Income Tax Act 1976 (RS Vol 12, p 1) | By inserting in the Fourteen Schedule (as substituted by section 23(1) of the State Services Conditions of Employment Amendment Act 1987), in its appropriate alphabetical order, the following item:Housing New Zealand Limited. |
-| 1982, No 156-The Official Information Act 1982 (RS Vol 21, p 579) |  |
-
 ## Schedule 2 — Prescribed elements of calculation mechanism
 
 ### 1 Proportion of income up to threshold
@@ -685,7 +676,7 @@ For the purposes of section 49(1)(a), a person's weekly income includes—
     (i) an income-tested benefit (within the meaning of section 3(1) of the Social Security Act 1964) other than an orphan's benefit or an unsupported child's benefit; or
     (ii) New Zealand superannuation under the New Zealand Superannuation and Retirement Income Act 2001 or a veteran's pension under Part 6 of the War Pensions Act 1954; or
     (iii) a study grant; and
-  (b) amounts received from the Corporation or an insurer under the Injury Prevention, Rehabilatation, and Compensation Act 2001 as weekly compensation for loss of earnings or potential earning capacity; and
+  (b) amounts received from the Corporation or an insurer under the Accident Compensation Act 2001 as weekly compensation for loss of earnings or potential earning capacity; and
   (c) any minimum family tax credit the person is eligible for under subparts MA to MF and MZ of the Income Tax Act 2007.
 
 ### 10 Certain payments not to be income
@@ -703,7 +694,7 @@ For the purposes of section 49(1)(b), a person's weekly income does not include�
 (1) For the purposes of section 50(2), assessable assets,—
   (a) in the case of a person with a spouse or partner or a single person with a dependent child or children, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $5,400:
   (b) in any other case, means any cash assets (within the meaning of section 61E of the Social Security Act 1964) in excess of $2,700.
-(2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Injury Prevention, Rehabilitation, and Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)(a) or (b) is considered to be increased by the amount of that payment.
+(2) If, on or after the date this subclause comes into force, a person receives an impairment lump sum under Schedule 1 of the Accident Compensation Act 2001 or a lump sum payment of an independence allowance under Part 13 or Part 4 of Schedule 1 of the Accident Insurance Act 1998, then for the period of 12 months following the receipt of that lump sum payment, the applicable amount in subclause (1)(a) or (b) is considered to be increased by the amount of that payment.
 
 ### 12 Period for estimating income
 The period of 52 weeks is prescribed for the purposes of section 52.
@@ -717,7 +708,7 @@ In this schedule, unless the context otherwise requires,—
     (b) had been a tenant of that housing continuously since at least 30 July 1991; and
     (c) either was, or had a spouse or partner who was, aged 55 or more
   - **accommodation assistance** , in relation to any HNZ housing, means accommodation benefit, accommodation supplement, tenure protection allowance, or special transfer allowance, payable in respect of that housing
-  - **accommodation benefit** means an accommodation benefit under regulation 9 of the Student Allowance Regulations 1998
+  - **accommodation benefit** means an accommodation benefit under regulation 9 of the Student Allowances Regulations 1998
   - **accommodation supplement** means an accommodation supplement under section 61EA of the Social Security Act 1964
   - **affected tenant** means a tenant of HNZ housing to whom this schedule (by virtue of section 54(1)) applies
   - **special transfer allowance** means an amount payable by way of special assistance under the special transfer allowance programme approved under section 124(1)(d) of the Social Security Act 1964
@@ -733,7 +724,7 @@ In this schedule, unless the context otherwise requires,—
     (ii) the weekly amount of tenure protection allowance or special transfer allowance the tenant was entitled to receive in relation to the housing immediately before the appointed day).
 
 ### 3 Saving in respect of 55+ rent protection programme
-(1) this clause applies to an affected tenant who, immediately before the appointed day, was receiving, and was entitled to receive, the protection of the 55+ rent protection programme.
+(1) This clause applies to an affected tenant who, immediately before the appointed day, was receiving, and was entitled to receive, the protection of the 55+ rent protection programme.
 (2) The income-related rent for any HNZ housing occupied immediately before the appointed day by an affected tenant to whom subclause (1) applies must be calculated by deducting from the rent otherwise payable under the calculation mechanism the appropriate rebate (if any)—
   (a) calculated under subclause (3); and
   (b) where appropriate, reduced under subclause (4).
@@ -741,18 +732,18 @@ In this schedule, unless the context otherwise requires,—
   (a) the weekly income-related rent for the housing calculated in accordance with the calculation mechanism—
   (b) the weekly amount of the rent that applied to the tenant immediately before the appointed day under the 55+ rent protection programme (after the deduction of the total of the weekly amounts of any accommodation supplement or accommodation benefit the applicable persons concerned were entitled to receive immediately before the appointed day).
 (4) The company must reduce the amount of the rebate by $5 a week if—
-  (a) It reviews the tenant's income-related rent under section 57 at a time after 30 June 2001; and
+  (a) it reviews the tenant's income-related rent under section 57 at a time after 30 June 2001; and
   (b) the rebate has not been reduced under this subclause during the 12 months before that time.
 
 ### 4 Saving in other circumstances
-(1) The following provisions apply to an affected tenant who is not and never has been entitled to a rebate under clause 2 or clause 3:
+(1) The following provisions apply to an affected tenant who is not and has never been entitled to a rebate under clause 2 or clause 3:
   (a) the income-related rent for the housing must be calculated by applying the calculation mechanism, if—
     (i) not all the applicable persons have consented for the purposes of section 55; or
     (ii) the company is satisfied that the tenant is an affected tenant because of receiving more than the amount of accommodation assistance to which the tenant was entitled:
   (b) in any other case, the income-related rent for the housing must be calculated by deducting from the rent otherwise payable under the calculation mechanism the appropriate rebate (if any)—
     (i) calculated under subclause (2); and
     (ii) where appropriate, reduced under subclause (3).
-(2) The rebate is the amount (if any) by which—exceeds
+(2) The rebate is the amount (if any) by which—exceeds—
   (a) the weekly income-related rent for the housing calculated in accordance with the calculation mechanism—
   (b) the weekly amount of the rent that applied to the tenant immediately before the appointed day (after the deduction of the sum of the accommodation assistance the applicable persons in relation to the housing were entitled to receive immediately before the appointed day).
 (3) The company must reduce the amount of the rebate by $5 a week if—
@@ -766,3 +757,9 @@ In this schedule, unless the context otherwise requires,—
 (2) In subclause (1)(a), replacement HNZ housing, in relation to any HNZ housing in respect of which a rebate applied, means any HNZ housing a tenancy of which replaced—
   (a) a tenancy of that housing; or
   (b) a tenancy of some other HNZ housing that was replacement HNZ housing in relation to that housing.
+
+### 1 Title
+This order may be cited as the Housing New Zealand Limited Vesting Order 1993.
+
+### 3 Appointment of date for vesting of State housing assets and liabilities and Corporation assets and liabilities in Housing New Zealand Limited
+28 June 1993 is hereby appointed as the date on which the State housing assets and liabilities and the Corporation assets and liabilities referred to in an agreement dated 10 June 1993 and entered into pursuant to section 22 of the Act between Ruth Margaret Richardson in her capacity as Minister of Finance and Murray John Finlay Luxton in his capacity as the responsible Minister, of the one part, and the company, of the other part, shall, by virtue of the Act, vest in the company.
