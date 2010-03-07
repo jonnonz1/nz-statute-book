@@ -1,5 +1,5 @@
 # Student Loan Scheme Act 1992
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-03-07_
 
 > An Act to provide for the assessment and collection of loan repayments under the Crown's student loan scheme and to otherwise facilitate the administration of that scheme
 
@@ -143,7 +143,8 @@ Notwithstanding section 4 of this Act or any provision of the loan contract, no 
 
 ### 14 Repayment obligation for New Zealand based borrowers
 (1) The repayment obligation of each New Zealand based borrower in respect of a tax year shall be the amount by which the borrower's net income for the tax year exceeds the repayment threshold multiplied by the repayment percentage.
-(2) Notwithstanding subsection (1) of this section, the repayment obligation for any tax year shall not exceed the amount of the IRD loan balance on the last day of that tax year.
+(2) However, if the borrower was overseas based for part of the relevant tax year, then (in calculating that borrower’s repayment obligation under subsection (1)) only the net income that the borrower derived during the period that the borrower was New Zealand based during that tax year must be taken into account.
+(3) Despite subsections (1) and (2), the repayment obligation for any tax year must not exceed the amount of the IRD loan balance on the last day of that tax year.
 
 **Returns and assessments**
 
@@ -194,8 +195,8 @@ For the purpose of the application of the PAYE rules of the Income Tax Act 2007 
   (b) the tax code prescribed by section 24B(3) of the Tax Administration Act 1994 for the borrower should be followed by the repayment code SL for the purpose of making a repayment deduction from salary or wages paid to the borrower.
 
 ### 19 Employer or PAYE intermediary to make repayment deductions
-(1) If a borrower has given a notice under section 18 to an employer, each time the employer, or a person acting as a PAYE intermediary for the employer, pays an amount to the borrower by way of salary or wages for an tax year, the employer or the person must make a deduction from that amount.
-(2) The deduction shall be made at the standard deduction rate or, if the employer is aware that a special deduction rate applies, at that rate.
+(1) If a borrower has given a notice under section 18, or the Commissioner has given a notice under section 20A, to an employer, each time the employer, or a person acting as a PAYE intermediary for the employer, pays an amount to the borrower by way of salary or wages for an tax year, the employer or the person must make a deduction from that amount.
+(2) The deduction shall be made at the standard deduction rate or, if the employer is aware that a special deduction rate or an increased repayment deduction rate applies, at that rate.
 (3) The repayment deductions made under this section shall be in addition to any tax deductions required to be made under the PAYE rules of the Income Tax Act 2007.
 
 ### 20 Standard deduction rate
@@ -210,6 +211,24 @@ For the purpose of the application of the PAYE rules of the Income Tax Act 2007 
   (d) where the salary or wages is paid four-weekly, four times the amount specified in paragraph (a) of this subsection; and
   (e) where the salary or wages is paid monthly, the amount specified in paragraph (a) of this subsection multiplied by 13 and divided by 3.
 (3) If the repayment percentage is changed by regulations made under section 87 of this Act, the standard deduction rate shall change accordingly.
+
+### 20A Standard deduction rate may be increased in certain circumstances
+(1) This section applies if—
+  (a) the amount of a borrower's repayment deductions in the current tax year or in any tax year prior to the current tax year is, or was, less than the amount required under this Act; or
+  (b) a borrower has failed to pay any amount that has become due and payable in accordance with this Act.
+(2) If this section applies, the Commissioner may, in relation to the borrower, issue an increased repayment deduction rate notice that—
+  (a) varies the standard deduction rate by increasing it up to a maximum rate of 15 cents in each complete dollar; and
+  (b) specifies the total amount payable by the borrower (which may include any penalties, interest, or other amount that has become due and payable); and
+  (c) requires the borrower's employers to make repayment deductions at the increased rate until those repayment deductions equal the amount specified under paragraph (b).
+(3) If the Commissioner issues an increased repayment deduction rate notice, the Commissioner must send that notice, together with a notice that complies with section 18(2), directly to the borrower's employers.
+(4) The increased repayment deduction rate applies until the earlier of the date on which—
+  (a) the repayment deductions made in accordance with the increased repayment deduction rate notice equal the amount specified in subsection (2)(b); or
+  (b) the Commissioner notifies the employer otherwise.
+(5) An increased repayment deduction rate notice issued in relation to a borrower under this section revokes—
+  (a) any special repayment deduction rate certificate previously issued to that borrower; and
+  (b) any notice previously given to an employer by that borrower in accordance with section 18.
+(6) The Commissioner must give a borrower a copy of any notice that is given to that borrower's employers under this section as soon as practicable after it is issued.
+(7) Nothing in this section limits the application of sections 53 to 55D.
 
 ### 21 Special deduction rates
 (1) If a borrower wishes to vary the standard deduction rate, the borrower may apply by notice in writing to the Commissioner for the issue of a special repayment deduction rate certificate that takes into account the greater of—
@@ -381,7 +400,7 @@ Where any borrower to whom section 37 of this Act applies returns to New Zealand
 ### 38AA Full interest write-off for certain borrowers
 (1) A borrower is entitled to the full interest write-off set out in section 38AK if—
   (a) the borrower satisfies the 183-day requirement in section 38AB; or
-  (b) the Commissioner grants an exemption to the borrower under section 38AE or section 38AJ.
+  (b) the Commissioner grants an exemption to the borrower under section 38AE, 38AJ, or 38AJA.
 (2) The conditions in section 38AK(2) apply to subsection (1).
 
 ### 38AB 183-day requirement
@@ -398,7 +417,7 @@ Where any borrower to whom section 37 of this Act applies returns to New Zealand
   (b) he or she is personally absent from New Zealand for the first day of that 184-day absence.
 (3) However, a borrower must not be treated as being personally absent from New Zealand for any day on which that borrower may be treated as being personally present in New Zealand under section 38AB(2).
 (4) A borrower who has had a 184-day absence ceases to be entitled to the full interest write-off set out in section 38AK for the first day within the 184-day absence and, subject to section 38AB, for each subsequent day.
-(5) Subsection (4) is subject to the Commissioner granting an exemption to a borrower under section 38AE or section 38AJ.
+(5) Subsection (4) is subject to the Commissioner granting an exemption to a borrower under section 38AE, 38AJ, or 38AJA.
 
 ### 38AD Treatment of partial days
 For the purposes of sections 38AB to 38AK, if a borrower is personally present in New Zealand for part of a day, that borrower is treated as being personally present in New Zealand for the whole of that day and not being personally absent from New Zealand for any part of that day.
@@ -406,11 +425,12 @@ For the purposes of sections 38AB to 38AK, if a borrower is personally present i
 ### 38AE Power of Commissioner to grant exemptions to borrowers who do not satisfy 183-day requirement
 (1) On the application of a borrower who does not satisfy the 183-day requirement in section 38AB, the Commissioner may, if the Commissioner considers that it is fair and reasonable to do so, grant an exemption to the 183-day requirement to that borrower if the principal reason that the borrower does not satisfy the 183-day requirement is because—
   (a) the borrower was personally absent from New Zealand in the service in any capacity of the Government of New Zealand; or
-  (b) the borrower was personally absent from New Zealand because he or she was working as a volunteer or for token payment for a charitable organisation named in regulations made under this Act (charity); or
+  (b) the borrower was personally absent from New Zealand because he or she was working as a volunteer or for token payment for a charitable organisation that, at the time the borrower did that work, was named in regulations made under this Act (charity); or
   (c) of an unexpected delay; or
   (d) of an unplanned personal absence; or
   (e) the borrower is required to be personally absent from New Zealand because of the borrower's employment or occupation; or
-  (f) the borrower was personally absent from New Zealand because the borrower accompanied his or her wife or husband, civil union partner, or de facto partner (partner) overseas.
+  (f) the borrower was personally absent from New Zealand because the borrower accompanied his or her wife or husband, civil union partner, or de facto partner (partner) overseas; or
+  (g) the borrower was personally absent from New Zealand because he or she was in 1 or more of Niue, the Cook Islands, Tokelau, or the Ross Dependency.
 (2) If the Commissioner grants an exemption under subsection (1), the Commissioner must specify either—
   (a) the start and end dates for the period for which the relevant borrower is treated as being personally present in New Zealand for the purposes of section 38AB; or
   (b) the conditions that must apply or be met in order for the relevant borrower to be treated as being personally present in New Zealand for the purposes of section 38AB.
@@ -422,14 +442,16 @@ For the purposes of sections 38AB to 38AK, if a borrower is personally present i
 (5) The conditions in section 38AG apply to subsection (1)(d).
 (6) The conditions in section 38AH apply to subsection (1)(e).
 (7) The conditions in section 38AI apply to subsection (1)(f).
-(8) A borrower who applies to the Commissioner under this section must supply the Commissioner with all information, and in the manner, that the Commissioner may reasonably require in order to establish whether 1 of the grounds for the grant of an exemption in subsection (1)(a) to (f) applies.
+(7A) The conditions in section 38AIA apply to subsection (1)(g).
+(8) A borrower who applies to the Commissioner under this section must supply the Commissioner with all information, and in the manner, that the Commissioner may reasonably require in order to establish whether 1 of the grounds for the grant of an exemption in subsection (1)(a) to (g) applies.
+(9) Subsections (1)(g) and (7A) apply with effect from 31 March 2009.
 
 ### 38AEA Conditions to charitable organisation exemption
 An applicant under section 38AE(1)(b) must—
   (a) provide proof that the work he or she did as a volunteer or for token payment for a charitable organisation was 1 or more of the following:
     (i) work to relieve poverty, hunger, sickness, or the ravages of war or natural disaster; or
-    (ii) work to improve the economy of a country that is recognised by the United Nations as a developing country; or
-    (iii) work to raise the educational standards of a country that is recognised by the United Nations as a developing country; and
+    (ii) work to improve the economy of a country that is listed on the Organisation for Economic Cooperation and Development’s list of countries receiving development assistance; or
+    (iii) work to raise the educational standards of a country that is listed on the Organisation for Economic Cooperation and Development’s list of countries receiving development assistance; and
   (b) provide the Commissioner with the information described in section 14A(2), and section 14A(3) and (4) applies accordingly.
 
 ### 38AF Conditions to unexpected delay exemption
@@ -472,7 +494,18 @@ An applicant under section 38AE(1)(f) must—
       (A) in the service in any capacity of the Government of New Zealand; or
       (B) because he or she was working as a volunteer or for token payment for a charitable organisation named in regulations made under this Act; or
     (ii) the applicant's partner satisfies the conditions in section 38AH; or
-    (iii) the applicant's partner satisfies the conditions in section 38AJ(2).
+    (iii) the applicant's partner satisfies the conditions in section 38AJ(2); or
+    (iv) the applicant's partner satisfies the conditions in section 38AJA(4).
+
+### 38AIA Conditions to Niue, Cook Islands, Tokelau, and Ross Dependency exemption
+(1) An applicant under section 38AE(1)(g) must—
+  (a) provide proof that he or she—
+    (i) was personally present in 1 or more of New Zealand, Niue, the Cook Islands, Tokelau, or the Ross Dependency for a period of 183 or more consecutive days after 31 March 2009 (a 183-day period); and
+    (ii) was personally present in New Zealand, Niue, the Cook Islands, Tokelau, or the Ross Dependency for the first day of the 183-day period; and
+    (iii) was not personally absent from New Zealand, Niue, the Cook Islands, Tokelau, and the Ross Dependency for a period, or periods in the aggregate, of more than 31 days during a period of what would otherwise have been a 183-day period; and
+  (b) pay his or her repayment obligation in full when, or before, it falls due each tax year; and
+  (c) provide the Commissioner with the information described in section 14A(2), and section 14A(3) and (4) apply accordingly.
+(2) In specifying under section 38AE(2) when, or the basis on which, an applicant under section 38AE(1)(g) is treated as being personally present in New Zealand for the purposes of section 38AB, the Commissioner must apply sections 38AC(1) to (4) and 38AD as if references in those sections to New Zealand are references to New Zealand (which includes Niue, the Cook Islands, Tokelau, and the Ross Dependency), and section 38AK(2)(b) must be interpreted accordingly.
 
 ### 38AJ Power of Commissioner to grant exemption to borrowers undertaking study at post-graduate or under-graduate level overseas
 (1) On the application of a borrower who does not satisfy the 183-day requirement in section 38AB, the Commissioner may, if the Commissioner considers that it is fair and reasonable to do so, grant an exemption to the 183-day requirement to that borrower if the principal reason that the borrower does not satisfy the 183-day requirement is that the borrower is undertaking full-time study at post-graduate or under-graduate level overseas.
@@ -488,12 +521,44 @@ An applicant under section 38AE(1)(f) must—
   - **NZQA** means the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
   - **study at post-graduate or under-graduate level** means study that is assessed by the NZQA as being equivalent to level 7, 8, 9, or 10 on the New Zealand Register of Quality Assured Qualifications developed by the Authority under section 253(1)(c) of the Education Act 1989.
 
+### 38AJA Power of Commissioner to grant exemption to borrowers undertaking full-time overseas study
+(1) On the application of a borrower who does not satisfy the 183-day requirement in section 38AB, the Commissioner may, if the Commissioner considers that it is fair and reasonable to do so, grant an exemption to the 183-day requirement to that borrower if either subsection (2) or (3) applies.
+(2) This subsection applies if the principal reason that the borrower does not satisfy the 183-day requirement is that the borrower is undertaking study that—
+  (a) the borrower is enrolled in with a New Zealand tertiary education provider; and
+  (b) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
+  (c) is assessed by the NZQA as being equivalent to level 7 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)(c) of the Education Act 1989; and
+  (d) is full-time and undertaken overseas as part of either—
+    (i) a formal exchange programme approved by the New Zealand Government; or
+    (ii) a formal agreement between a New Zealand tertiary education provider and an overseas tertiary provider.
+(3) This subsection applies if the principal reason that the borrower does not satisfy the 183-day requirement is that the borrower is undertaking study that—
+  (a) the borrower is enrolled in with a New Zealand tertiary education provider; and
+  (b) if it is completed successfully, will count towards a qualification offered by a New Zealand tertiary education provider; and
+  (c) is assessed by the NZQA as being equivalent to level 8 or above on the New Zealand Register of Quality Assured Qualifications developed by the NZQA under section 253(1)(c) of the Education Act 1989; and
+  (d) is full-time and undertaken overseas; and
+  (e) cannot be completed in New Zealand.
+(4) An applicant under subsection (1)—
+  (a) must provide the Commissioner with evidence from the applicant's New Zealand tertiary education provider verifying that the applicant's study meets the requirements of either—
+    (i) subsection (2)(b), (c), and (d)(i) or (ii); or
+    (ii) subsection (3)(b) to (e); and
+  (b) must supply the Commissioner with all other information, and in the manner, that the Commissioner may reasonably require in order to establish whether the ground for the grant of an exemption under subsection (1) applies; and
+  (c) must provide the Commissioner with the information specified in section 14A(2), and section 14A(3) and (4) apply accordingly.
+(5) If the Commissioner grants an exemption under subsection (1), the Commissioner must specify either—
+  (a) the start and end dates for the period for which the relevant borrower is treated as being personally present in New Zealand for the purposes of section 38AB; or
+  (b) the conditions that must apply or be met in order for the relevant borrower to be treated as being personally present in New Zealand for the purposes of section 38AB.
+(6) In this section,—
+  - **NZQA** means the New Zealand Qualifications Authority established under Part 20 of the Education Act 1989
+  - **overseas tertiary provider** means an institution or organisation that—
+    (a) provides tertiary education or training; and
+    (b) is based in a country other than New Zealand; and
+    (c) is registered by an appropriate education authority in that country.
+(7) This section applies with effect from 31 March 2007.
+
 ### 38AK Terms of full interest write-off
 (1) When a borrower is entitled to a full interest write-off under section 38AA, the amount of interest calculated on the borrower's loan balance for the days to which this subsection applies must be reduced to zero.
 (2) Subsection (1)—
   (a) applies only to days on or after 1 April 2006 on which a borrower—
     (i) is personally present in New Zealand in accordance with the requirements of sections 38AB to 38AD; or
-    (ii) is treated as being personally present in New Zealand under section 38AB(2) or section 38AE(2) or section 38AJ(3); and
+    (ii) is treated as being personally present in New Zealand under section 38AB(2), 38AE(2), 38AJ(3), or 38AJA(5); and
   (b) does not apply to the days on which a borrower is personally present in New Zealand but is treated as being personally absent from New Zealand under section 38AC(2).
 
 ### 38AL Commissioner's discretion for initial 183-day period for new borrowers
@@ -505,6 +570,15 @@ An applicant under section 38AE(1)(f) must—
     (a) first received a student loan after 1 April 2006; and
     (b) was personally absent from New Zealand for a period of 183 days or less during the period starting on the day on which the borrower first received a student loan and ending 182 days after that date
   - **first received** , in relation to a particular borrower, means each time that borrower's loan balance increases from zero or less to greater than zero.
+
+### 38AM Full interest write-off for quick repayment of loan balance
+(1) This section applies to a borrower who—
+  (a) satisfies the 183-day requirement in section 38AB(1) and (2); and
+  (b) fully repays his or her loan balance before the end of the 183-day period.
+(2) The amount of interest calculated on the loan balance of a borrower to whom this section applies must be reduced to zero for the period—
+  (a) beginning on the first day of the 183-day period; and
+  (b) ending on the day on which the borrower fully repays his or her loan balance.
+(3) This section applies with effect from 31 March 2006.
 
 **Full interest write-off for certain students**
 
@@ -559,7 +633,7 @@ An applicant under section 38AE(1)(f) must—
   (a) any part of a terminal repayment obligation; or
   (b) any part of an instalment of an interim repayment; or
   (c) any part of an overseas based repayment obligation; or
-  (d) any amount, being a loan balance or interest, that is payable as a result of a demand made under a loan contract.
+  (d) any amount, being a loan balance or interest, that is payable as a result of a demand made under a loan contract; or
   (e) any underestimation penalty imposed under section 44A.
 (2) The late payment penalty the borrower is liable to pay under subsection (1) of this section is—
   (a) 1.5% of the amount of the default; and
@@ -657,7 +731,7 @@ Any payment in respect of a repayment obligation must be off-set—
   (a) the amount payable by a borrower in any tax year is $20 or less; or
   (b) the amount payable by an employer or a PAYE intermediary in any period is $20 or less.
 (3) The Commissioner may refrain from collecting payment of a repayment obligation (or part of a repayment obligation) if that repayment obligation (or part of a repayment obligation)—
-  (a) is more than $20 but less than $333; and
+  (a) is more than $20 but less than $334; and
   (b) has not been paid by the due date (as that term is defined in section 44).
 (4) Any amount that, under subsection (3), the Commissioner does not collect from a borrower is subject to interest at the total interest rate on the daily amount outstanding (except to the extent that this Act otherwise requires).
 (5) This section applies despite anything in this Act.
@@ -690,7 +764,7 @@ Any payment in respect of a repayment obligation must be off-set—
 
 ### 54 Borrowers may apply for hardship relief
 (1) A borrower may apply to the Commissioner for 1 or more of the following:
-  (a) hardship relief for the tax year immediately prior to the current tax year:
+  (a) hardship relief for any tax year prior to the current tax year:
   (b) hardship relief for the current tax year:
   (c) hardship relief for the next tax year.
 (2) An application under subsection (1)(c) must be made on or before 31 March in the tax year that immediately precedes the tax year for which relief is sought.
@@ -700,38 +774,41 @@ Any payment in respect of a repayment obligation must be off-set—
   (c) in any other manner acceptable to the Commissioner.
 (4) However, the Commissioner may require an application to be made in writing.
 
-### 55 Commissioner may refund or reduce amounts deducted or paid for repayment obligation
-If an application has been made under section 54, the Commissioner may, for any period the Commissioner considers equitable, do either or both of the following:
-  (a) refund any amount that was deducted or paid to meet a repayment obligation in the tax year immediately prior to the current tax year if the Commissioner—
-    (i) is satisfied that payment of that repayment obligation is causing serious hardship to the borrower; or
-    (ii) considers that there are other special reasons that make it fair and reasonable to do so:
-  (b) reduce any amount that must be deducted or paid in order to meet the repayment obligation assessed or to be assessed for the current tax year or the next tax year if the Commissioner—
-    (i) is satisfied that the amount being deducted or paid, or to be deducted or paid, has caused or will cause serious hardship to the borrower; or
-    (ii) considers that there are other special reasons that make it fair and reasonable to do so.
+### 55 Hardship relief for any tax year prior to current tax year
+(1) If an application is made under section 54(1)(a), the Commissioner may, for any period the Commissioner considers equitable, retrospectively decrease that borrower's repayment obligation for any tax year prior to the current tax year if the Commissioner—
+  (a) is satisfied that payment of that repayment obligation is causing, or would cause, serious hardship to the borrower; or
+  (b) considers that there are other special reasons that make it fair and reasonable to do so.
+(2) Except as set out in section 55A, the Commissioner must not refund any amount that was deducted or paid (if any) to meet a repayment obligation for any tax year prior to the current tax year.
 
-### 55A Effect of Commissioner's decision under section 55(a)
-(1) If the Commissioner refunds any amount to a borrower under section 55(a), the Commissioner must—
+### 55A Hardship relief for tax year immediately prior to current tax year may include refund
+(1) If an application is made under section 54(1)(a), the Commissioner may, for any period the Commissioner considers equitable, refund any amount that was deducted or paid to meet a repayment obligation in the tax year immediately prior to the current tax year if the Commissioner—
+  (a) is satisfied that payment of that repayment obligation is causing, or would cause, serious hardship to the borrower; or
+  (b) considers that there are other special reasons that make it fair and reasonable to do so.
+(2) If the Commissioner refunds any amount to a borrower under subsection (1), the Commissioner must—
   (a) retrospectively decrease that borrower's repayment obligation for the relevant tax year; and
   (b) refund the whole or part of the portion of the repayment obligation that is the difference in assessment amounts.
-(2) A refund that is made under this section must be made in the manner required under section 184A of the Tax Administration Act 1994.
+(3) A refund that is made under this section must be made in the manner required under section 184A of the Tax Administration Act 1994.
 
-### 55B Effect of Commissioner's decision under section 55(b)
-(1) If the Commissioner reduces the amount to be deducted or paid by a borrower under section 55(b), the Commissioner must, as appropriate, do 1 of the following:
-  (a) issue to that borrower a special repayment deduction rate certificate that varies the standard deduction rate in accordance with the Commissioner's decision under section 55(b) and, when assessed, reduce that borrower's repayment obligation accordingly; or
-  (b) reduce the percentage payable by that borrower under section 27(1) in accordance with the Commissioner's decision under section 55(b) and, when assessed, reduce that borrower's repayment obligation accordingly; or
-  (c) reduce that borrower's repayment obligation under section 34 in accordance with the Commissioner's decision under section 55(b).
-(2) If the Commissioner reduces the amount to be deducted from, or paid by, a borrower to zero, section 18 does not apply to that borrower for the period for which that reduction applies.
-(3) If a borrower has given his or her employer notice in accordance with section 18 and the Commissioner subsequently reduces the amount to be deducted from, or paid by, a borrower to zero, the borrower must give a copy of the special repayment deduction rate certificate to his or her employer as soon as practicable after it is issued.
-(4) Section 24F of the Tax Administration Act 1994 applies, with all necessary modifications, to any special deduction rate certificate issued under this section.
+### 55B Hardship relief for current tax year or next tax year
+(1) If an application is made under section 54(1)(b) or (c), the Commissioner may, for any period the Commissioner considers equitable, reduce any amount that must be deducted or paid in order to meet the repayment obligation assessed or to be assessed for the current tax year or the next tax year if the Commissioner—
+  (a) is satisfied that the amount being deducted or paid, or to be deducted or paid, has caused or will cause serious hardship to the borrower; or
+  (b) considers that there are other special reasons that make it fair and reasonable to do so.
+(2) If the Commissioner reduces the amount to be deducted or paid by a borrower under subsection (1), the Commissioner must, as appropriate, do 1 of the following:
+  (a) issue to that borrower a special repayment deduction rate certificate that varies the standard deduction rate in accordance with the Commissioner's decision under subsection (1) and, when assessed, reduce that borrower's repayment obligation accordingly; or
+  (b) reduce the percentage payable by that borrower under section 27(1) in accordance with the Commissioner's decision under subsection (1) and, when assessed, reduce that borrower's repayment obligation accordingly; or
+  (c) reduce that borrower's repayment obligation under section 34 in accordance with the Commissioner's decision under subsection (1).
+(3) If the Commissioner reduces the amount to be deducted from, or paid by, a borrower to zero, section 18 does not apply to that borrower for the period for which that reduction applies.
+(4) If a borrower has given his or her employer notice in accordance with section 18 and the Commissioner subsequently reduces the amount to be deducted from, or paid by, a borrower to zero, the borrower must give a copy of the special repayment deduction rate certificate to his or her employer as soon as practicable after it is issued.
+(5) Section 24F of the Tax Administration Act 1994 applies, with all necessary modifications, to any special repayment deduction rate certificate issued under this section.
 
-### 55C Effect of Commissioner's decision under section 55
-(1) Any amount that, as a result of a decision under section 55, the Commissioner has refunded to, or not collected from, a borrower is subject to interest at the total interest rate on the daily amount outstanding (except to the extent that this Act otherwise requires).
+### 55C Effect of Commissioner's decision under section 55, 55A, or 55B
+(1) Any amount that, as a result of a decision under section 55, 55A, or 55B, the Commissioner has refunded to, or not collected from, a borrower is subject to interest at the total interest rate on the daily amount outstanding (except to the extent that this Act otherwise requires).
 (2) Section 56 or 57, as appropriate, applies to a borrower who, as a result of the Commissioner refraining from deducting or collecting any amount from that borrower, or reducing that borrower's repayment obligation, has had deductions made, or has made payments, in excess of that borrower's repayment obligations as set out in section 56(1)(a) to (e) or section 57(1).
 
 ### 55D Borrowers must inform Commissioner of change of circumstances and Commissioner may review
 (1) A borrower who applies for hardship relief under section 54 must inform the Commissioner as soon as practicable if there is a change in the borrower's circumstances that—
   (a) means that any information supplied to the Commissioner under section 54 is incorrect or inaccurate; or
-  (b) may affect whether or not a borrower would have been, or will continue to be, granted hardship relief under section 55.
+  (b) may affect whether or not a borrower would have been, or will continue to be, granted hardship relief under section 55, 55A, or 55B.
 (2) The Commissioner may, at the end of a tax year, review any decision he or she made during that year to grant hardship relief to a borrower.
 (3) If for any reason the Commissioner considers that the circumstances for the grant of that hardship relief have changed, the Commissioner may do either or both of the following:
   (a) require the borrower to take any action that is required in order to reverse the effects of the hardship relief that was granted to the borrower:
@@ -739,7 +816,7 @@ If an application has been made under section 54, the Commissioner may, for any 
 
 **Refunds**
 
-### 56 Excess repayments made by residents
+### 56 Excess repayments made by borrowers
 (1) Where for any tax year a borrower has—the Commissioner shall—
   (a) had repayment deductions made in excess of the repayment obligation for that tax year; or
   (b) paid interim repayments in excess of the repayment obligation for that tax year; or
@@ -826,7 +903,7 @@ If—the IRD loan balance shall be reduced to zero.
 ### 60A Cancellation of interest if IRD loan balance repaid early
 (1) Subsection (2) applies if—
   (a) the Commissioner notifies a borrower of the borrower's outstanding IRD loan balance; and
-  (b) the borrower pays that loan balance in full (including interest charged to the date of notification) within 15 days of the date of notification.
+  (b) the borrower pays that loan balance in full (including interest charged to the date of notification) within 30 days of the date of notification.
 (2) The Commissioner must cancel the interest that accrues between the date of a notification and the date on which the payment is received.
 (3) This section applies to notifications provided on or after 1 June 1998.
 
@@ -892,12 +969,12 @@ Any borrower who is charged with interest in a tax year may, on the ground that 
 
 ### 65A Objection to decision concerning grant of exemption
 A borrower may challenge a decision by the Commissioner—
-  (a) not to grant that borrower an exemption to the 183-day requirement under section 38AE(1) or section 38AJ, on the ground that that decision is not fair and reasonable:
-  (b) that the conditions in section 38AF, 38AG, 38AH, 38AI, or 38AJ(2) are not satisfied by that borrower, on the ground that that decision is erroneous:
-  (c) specifying the start and end dates for the period for which that borrower is treated as being personally present in New Zealand under section 38AE(2)(a) or section 38AJ(3)(a), on the ground that those dates are—
+  (a) not to grant that borrower an exemption to the 183-day requirement under section 38AE(1), 38AJ, or 38AJA, on the ground that that decision is not fair and reasonable:
+  (b) that the conditions in section 38AEA, 38AF, 38AG, 38AH, 38AI, 38AIA, 38AJ(2), or 38AJA(4) are not satisfied by that borrower, on the ground that that decision is erroneous:
+  (c) specifying the start and end dates for the period for which that borrower is treated as being personally present in New Zealand under section 38AE(2)(a), 38AJ(3)(a), or 38AJA(5)(a), on the ground that those dates are—
     (i) not fair and reasonable; or
     (ii) erroneous:
-  (d) specifying the conditions that must apply or be met in order for that borrower to be treated as being personally present in New Zealand under section 38AE(2)(b) or section 38AJ(3)(b), on the ground that those conditions are—
+  (d) specifying the conditions that must apply or be met in order for that borrower to be treated as being personally present in New Zealand under section 38AE(2)(b), 38AJ(3)(b), or 38AJA(5)(b), on the ground that those conditions are—
     (i) not fair and reasonable; or
     (ii) erroneous.
   (e) not to reduce the amount of interest calculated on an eligible borrower's loan balance under section 38AL, on the ground that that decision was not fair and reasonable:
@@ -1045,14 +1122,14 @@ If any borrower evades, or attempts to evade, or does any act with intent to eva
     (iv) the repayment percentage,—
   (ab) specifying a formula or methodology, and other requirements, in accordance with which the total interest rate must be set or reset for the purposes of this Act:
   (ac) determining, in accordance with the formula or methodology and requirements specified under paragraph (ab), the total interest rate that is to apply in respect of any tax year
-  (b) amending any amount specified in section 32 of this Act:
+  (b)
   (ba)
   (bb) specifying a list of charitable organisations for the purposes of section 38AE(1)(b):
   (c) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and the amounts of the fines that may be imposed in respect of any such offences, which fines shall be an amount not exceeding $500:
   (d) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2)
 (3)
-(4) The Commissioner shall notify any borrower affected by any regulation made under subsection (1)(a) or subsection (1)(ac) or subsection (1)(b) of this section of the effect of the regulation.
+(4) The Commissioner shall notify any borrower affected by any regulation made under subsection (1)(a) of the effect of the regulation.
 (5) Such notification shall be, in accordance with the loan contract, either by notice in writing to the borrower or by advertisement in the public notices section of the major New Zealand metropolitan newspapers.
 
 ### 88 Full interest write-offs, base interest write-offs, and interest reductions validated
