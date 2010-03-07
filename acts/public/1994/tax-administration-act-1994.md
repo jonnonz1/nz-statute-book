@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2010-03-07_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1746,9 +1746,9 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
   (d) is not issued a family notice of entitlement for any part of the tax year; and
   (e) is not living in a marriage, civil union, or de facto relationship, with a person who is issued with a family notice of entitlement for any part of the tax year; and
   (f) or the person with whom the natural person lives in a marriage, civil union, or de facto relationship, is not paid by the chief executive of the administering department a family assistance credit for which the amount of family credit abatement under section MD 13 of the Income Tax Act 2007 is greater than zero; and
-  (g) is a person who has a nil IRD loan balance on the last day of the tax year; and
-  (h) is not eligible to receive a full interest write-off under section 38B of the Student Loan Scheme Act 1992; and
-  (i) is not eligible to receive a base interest write-off or reduction under section 39 or section 40 of the Student Loan Scheme Act 1992; and
+  (g) is a person who has a nil IRD loan balance on the last day of the tax year
+  (h)
+  (i)
   (j) is a non-resident seasonal worker.
 (2) Subsection (1) does not apply to a natural person who, in the tax year—
   (a) is a non-resident other than a non-resident seasonal worker employed under the recognised seasonal employment scheme; or
@@ -3120,7 +3120,7 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
     (i) the person is authorised by the New Zealand Customs Service to receive; and
     (ii) relates to a person who is liable to pay financial support under the Child Support Act 1991; and
     (iii) the Commissioner considers is not undesirable to disclose and is reasonably necessary for the purposes specified in sections 280K and 280L of the Customs and Excise Act 1996:
-  (g) communicating to any authorised person under section 62 of the Student Loan Scheme Act 1992 any information required for the purpose specified in subsection (2), (2AA), or (2A of that section:
+  (g) communicating to any authorised person under section 62 of the Student Loan Scheme Act 1992 any information required for the purpose specified in subsection (2) or (2A) of that section:
   (gb) communicating to the chief executive of the New Zealand Customs Service under section 62A of the Student Loan Scheme Act 1992 any information specified in subsection (2) of that section for the purpose set out in subsection (1) of that section.
   (gc) communicating to any authorised person (as defined in section 98(1) of the Criminal Proceeds (Recovery) Act 2009) any information required for the purpose specified in subsection (2)(b) of that section:
   (h) communicating to any officer or employee or agent of any of the State Services any information in relation to the processing of information, data, documents, or any other matter necessary for the effective administration of the Inland Revenue Acts (including all Acts at any time administered by or in the Department) or any other function that may from time to time be lawfully conferred on the Commissioner:
