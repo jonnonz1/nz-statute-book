@@ -1,5 +1,5 @@
 # Official Information Act 1982
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-03-23_
 
 > An Act to make official information more freely available, to provide for proper access by each person to official information relating to that person, to protect official information to the extent consistent with the public interest and the preservation of personal privacy, to establish procedures for the achievement of those purposes, and to repeal the Official Secrets Act 1951
 
@@ -57,7 +57,7 @@ _Consolidation as at 2009-07-01_
     (j) does not include information contained in any correspondence or communication that has taken place between the office of the Privacy Commissioner and any department or Minister of the Crown or organisation and that relates to any investigation conducted by the Privacy Commissioner under the Privacy Act 1993, other than information that came into existence before the commencement of that investigation
     (k) does not include information contained in a victim impact statement (as defined in section 22 of the Victims' Rights Act 2002)
     (l) does not include any evidence, submissions, or other information given or made to—
-      (i) the Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
+      (i) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel, in relation to any matter under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
       (ii) the Judicial Complaints Lay Observer
   - **Ombudsmen** means the Ombudsmen holding office under the Ombudsmen Act 1975
   - **organisation** means—
@@ -99,7 +99,7 @@ _Consolidation as at 2009-07-01_
   (c) a Royal Commission; or
   (d) a commission of inquiry appointed by an Order in Council made under the Commissions of Inquiry Act 1908; or
   (e) a commission of inquiry or board of inquiry or court of inquiry or committee of inquiry appointed, pursuant to, and not by, any provision of an Act, to inquire into a specified matter; or
-  (f) the Judicial Conduct Commissioner or a Judicial Conduct Panel under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
+  (f) the Judicial Conduct Commissioner, the Deputy Judicial Conduct Commissioner, or a Judicial Conduct Panel under the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004; or
   (g) the Judicial Complaints Lay Observer.
 
 ### 3 Act to bind the Crown
