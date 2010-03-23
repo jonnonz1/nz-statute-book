@@ -1,5 +1,5 @@
 # Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-03-23_
 
 ### 1 Title
 This Act is the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004.
@@ -27,6 +27,7 @@ In this Act, unless the context otherwise requires,—
       (i) a referral made under section 12(2) by the Attorney-General; and
       (ii) a complaint initiated under section 12(3) by the Commissioner
   - **coroner** means a person who is not a District Court Judge, but holds office as the chief coroner or acting chief coroner, or as a coroner or relief coroner, under the Coroners Act 2006
+  - **Deputy Commissioner** means a Deputy Judicial Conduct Commissioner appointed under section 8A
   - **District Court Judge** includes a District Court Judge who—
     (a) holds office as the chief coroner or acting chief coroner, or as a relief coroner, under the Coroners Act 2006, or is (under section 8(d) of the District Courts Act 1947) a coroner by virtue of holding office as a District Court Judge; and
     (b) is exercising the judicial authority conferred on a coroner by the Coroners Act 2006
@@ -56,13 +57,15 @@ In this Act, unless the context otherwise requires,—
       (ix) a coroner; and
     (b) includes a person who holds office as a temporary Judge, temporary Associate Judge, or acting Judge of any of those courts; but
     (c) does not include a retired Judge or a former Judge
-  - **Judicial Conduct Commissioner** or means a Judicial Conduct Commissioner appointed under section 7
+  - **Judicial Conduct Commissioner** or —
+    (a) means a Judicial Conduct Commissioner appointed under section 7; and
+    (b) in sections 11 to 20 and 34, and clauses 7, 9, and 10 of Schedule 2, includes a Deputy Judicial Conduct Commissioner appointed under section 8A and carrying out his or her function under section 8B
   - **Judicial Conduct Panel** or means a Judicial Conduct Panel appointed under section 21(1).
 
 ### 6 This Act binds the Crown
 This Act binds the Crown.
 
-**Judicial Conduct Commissioner**
+**Judicial Conduct Commissioner and Deputy Judicial Conduct Commissioner**
 
 ### 7 Judicial Conduct Commissioner
 (1) An office called the Judicial Conduct Commissioner is established.
@@ -70,19 +73,51 @@ This Act binds the Crown.
 (3) Before a recommendation may be made under subsection (2), the Attorney-General must consult the Chief Justice about the proposed appointment and must advise the House of Representatives that the Chief Justice has been consulted.
 (4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Commissioner.
 
-### 8 Functions and powers
+### 8 Functions and powers of Commissioner
 (1) The functions of the Commissioner are—
   (a) to receive complaints about Judges and to deal with the complaints in the manner required by this Act:
   (b) to conduct preliminary examinations of complaints:
   (c) in appropriate cases, to recommend that a Judicial Conduct Panel be appointed to inquire into any matter or matters concerning the conduct of a Judge.
+(1A) In carrying out his or her functions in relation to a complaint, the Commissioner may decide that he or she has a conflict of interest in relation to the complaint.
+(1B) The functions of the Commissioner—
+  (a) must not be carried out by the Commissioner if they relate to a complaint in relation to which the Commissioner has decided that he or she has a conflict of interest; and
+  (b) are not carried out by the Commissioner in relation to any complaints in the situations specified in section 8B(1)(b)(i) and (ii).
+(1C) The Commissioner must refer promptly to the Head of Bench a complaint—
+  (a) referred to the Commissioner by the Deputy Commissioner under section 8B(4); and
+  (b) in relation to which the Commissioner has decided that he or she has a conflict of interest.
 (2) It is not a function of the Commissioner to challenge or call into question the legality or correctness of any instruction, direction, order, judgment, or other decision given or made by a Judge in relation to any legal proceedings.
 (3) The Commissioner has all the powers necessary for carrying out his or her functions.
 
-### 9 Duty to act independently
-The Commissioner must act independently in carrying out his or her functions.
+### 8A Deputy Judicial Conduct Commissioner
+(1) An office called the Deputy Judicial Conduct Commissioner is established.
+(2) The Deputy Commissioner is appointed by the Governor-General on the recommendation of the House of Representatives.
+(3) Before a recommendation may be made under subsection (2), the Attorney-General must consult the Chief Justice about the proposed appointment and must advise the House of Representatives that the Chief Justice has been consulted.
+(4) A person is not to be regarded as being employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 solely because of his or her appointment as the Deputy Commissioner.
 
-### 10 Other provisions relating to Commissioner
-Part 1 of Schedule 2 applies in relation to the Commissioner.
+### 8B Function and powers of Deputy Commissioner
+(1) The function of the Deputy Commissioner is to carry out the functions of the Commissioner in relation to the following complaints (and no others):
+  (a) complaints (other than those that the Deputy Commissioner has referred to the Commissioner under subsection (4)) in relation to which the Commissioner has decided that he or she has a conflict of interest; and
+  (b) complaints of any kind in 1 or more of the following situations:
+    (i) during the absence from office of the Commissioner:
+    (ii) if the Commissioner is incapacitated in a way that affects the carrying out of his or her functions:
+    (iii) during a vacancy in the office of Commissioner.
+(2) In carrying out his or her function in relation to a complaint, the Deputy Commissioner may decide that he or she has a conflict of interest in relation to the complaint.
+(3) After deciding that he or she has a conflict of interest in relation to a complaint, the Deputy Commissioner must—
+  (a) not carry out his or her function in relation to the complaint; and
+  (b) promptly refer the complaint to the Head of Bench (unless the Deputy Commissioner refers the complaint to the Commissioner as soon as practicable under subsection (4)).
+(4) The Deputy Commissioner may refer a complaint to the Commissioner as soon as practicable (instead of referring it promptly to the Head of Bench under subsection (3)(b)) if the Deputy Commissioner—
+  (a) is carrying out the Commissioner's functions in relation to the complaint in 1 or more of the situations specified in subsection (1)(b)(i) to (iii); and
+  (b) decides that he or she has, in relation to the complaint, a conflict of interest; but
+  (c) believes on reasonable grounds, after consulting the complainant (if any), that the Commissioner is likely to be able to begin to deal with the complaint within a reasonable time.
+(5) The Deputy Commissioner has all the powers necessary for carrying out his or her function.
+(6) The fact that the Deputy Commissioner carries out a function or exercises a power is, in the absence of proof to the contrary, sufficient evidence of the Deputy Commissioner’s authority to do so.
+
+### 9 Duty to act independently
+(1) The Commissioner must act independently in carrying out his or her functions.
+(2) The Deputy Commissioner must act independently in carrying out his or her function.
+
+### 10 Other provisions relating to Commissioner and Deputy Commissioner
+Part 1 of Schedule 2 applies in relation to the Commissioner and the Deputy Commissioner.
 
 **Complaints about Judges**
 
@@ -125,8 +160,10 @@ Part 1 of Schedule 2 applies in relation to the Commissioner.
 
 ### 15 Commissioner must conduct preliminary examination
 (1) The Commissioner must conduct a preliminary examination of each complaint and form an opinion as to whether—
-  (a) the subject matter of the complaint, if substantiated, could warrant consideration of the removal of the Judge from office; or
-  (b) there are any grounds for dismissing the complaint under section 16(1).
+  (a) there are any grounds for exercising his or her power under section 15A to take no further action in respect of the complaint; or
+  (b) there are any grounds for dismissing the complaint under section 16; or
+  (c) the subject matter of the complaint, if substantiated, could warrant referral of the complaint to the Head of Bench under section 17; or
+  (d) the subject matter of the complaint, if substantiated, could warrant consideration of the removal of the Judge from office by way of a recommendation under section 18.
 (2) In the course of the preliminary examination, the Commissioner may seek the Judge's response to the complaint.
 (3) In conducting a preliminary examination, the Commissioner must act in accordance with the principles of natural justice.
 (4) For the purpose of a preliminary examination, the Commissioner may—
@@ -134,9 +171,22 @@ Part 1 of Schedule 2 applies in relation to the Commissioner.
   (b) obtain any court documents (including, for example, the transcript of a hearing) that are relevant to an inquiry under paragraph (a):
   (c) consult the Head of Bench.
 (5) Having completed the preliminary examination and formed the opinion required by subsection (1), the Commissioner must take one of the following steps:
+  (aa) exercise his or her power to take no further action in respect of the complaint (section 15A); or
   (a) dismiss the complaint (section 16); or
   (b) refer the complaint to the Head of Bench (section 17); or
   (c) recommend that the Attorney-General appoint a Judicial Conduct Panel to inquire into any matter or matters concerning the conduct of a Judge (section 18).
+
+### 15A Commissioner’s power in certain circumstances to take no further action in respect of complaints
+(1) The Commissioner may take no further action in respect of a complaint if satisfied that further consideration of the complaint would, in all the circumstances, be unjustified.
+(2) Reasons why further consideration of a complaint would, in all the circumstances, be unjustified, may be or include all or any of the following that apply to the complaint:
+  (a) that the complaint has been resolved to the complainant’s satisfaction following an explanation from the Judge who is the subject of the complaint:
+  (b) that the complaint is genuine and made in good faith, but is based on a misunderstanding:
+  (c) that the complaint is one in respect of which the Commissioner, having started the preliminary examination required by section 15, concludes that there is no reasonable prospect of there being available to him or her information that would enable him or her to form an opinion on the matters specified in section 15(1)(b), (c), and (d).
+(3) The fact that a complaint has been resolved to the complainant’s satisfaction because of an apology by the Judge who is the subject of the complaint is not, by itself, a reason why further consideration of a complaint would, in all the circumstances, be unjustified.
+(4) Subsection (2) does not limit subsection (1).
+(5) If the Commissioner exercises his or her power under this section to take no further action in respect of a complaint, he or she must give the complainant and the Judge who is the subject of the complaint written notification stating—
+  (a) that the Commissioner has exercised that power; and
+  (b) the grounds on which he or she is satisfied that further consideration of the complaint would, in all the circumstances, be unjustified.
 
 ### 16 Commissioner must dismiss complaints that fail to meet required threshold
 (1) The Commissioner must dismiss the complaint if he or she is of the opinion that—
@@ -148,15 +198,18 @@ Part 1 of Schedule 2 applies in relation to the Commissioner.
   (f) the complaint is about a judicial decision, or other judicial function, that is or was subject to a right of appeal or right to apply for judicial review; or
   (g) the person who is the subject of the complaint is no longer a Judge; or
   (h) the subject matter of the complaint was considered before the commencement of this section by the Head of Bench or the Judicial Complaints Lay Observer; or
-  (i) he or she has previously considered the subject matter of the complaint, and there are no grounds to justify taking any steps under section 17 or section 18.
+  (i) he or she has considered or previously considered the subject matter of the complaint, and that subject matter could not, if substantiated, warrant either referral to the Head of Bench under section 17 or consideration of the removal of the Judge from office by way of a recommendation under section 18.
+(1A) The Commissioner has previously considered the subject matter of the complaint for the purposes of subsection (1)(i) if he or she has exercised his or her power under section 15A to take no further action in respect of the complaint.
+(1B) Subsection (1A) does not limit subsection (1)(i).
 (2) If the Commissioner dismisses a complaint under this section, he or she must give the complainant and the Judge who is the subject of the complaint written notification stating—
   (a) that the complaint has been dismissed; and
   (b) the grounds on which that decision was made.
 
 ### 17 Commissioner's power to refer complaints to Head of Bench
 (1) The Commissioner must refer a complaint to the Head of Bench unless the Commissioner—
-  (a) dismisses the complaint; or
-  (b) recommends that a Judicial Conduct Panel be appointed.
+  (a) exercises his or her power under section 15A to take no further action in respect of the complaint; or
+  (b) dismisses the complaint under section 16; or
+  (c) recommends under section 18 that a Judicial Conduct Panel be appointed.
 (2) If the Commissioner refers a complaint to the Head of Bench, the Commissioner must advise the complainant and the Judge who is the subject of the complaint of that action.
 (3) This section is subject to section 113(2) of the Coroners Act 2006 (which relates to complaints about the chief coroner).
 
@@ -292,50 +345,56 @@ Part 2 of Schedule 2 applies in relation to Judicial Conduct Panels.
 ### 35 Official Information Act 1982 amended
 Amendment(s) incorporated in the Act(s).
 
-## Schedule 1 — Overview of process for Judicial Conduct Commissioner and Judicial Conduct Panel
+**Savings provision**
+
+### 36 Amendments do not apply to certain complaints
+Complaints made before the commencement of the Judicial Conduct Commissioner and Judicial Conduct Panel (Deputy Commissioner and Disposal of Complaints) Amendment Act 2010 must be dealt with as if that Act had not been enacted.
+
+## Schedule 1 — Overview of process forJudicial Conduct Commissionerand Judicial Conduct Panel
 
 ## Schedule 2 — Provisions relating to Judicial Conduct Commissioner and members of Judicial Conduct Panel
 
-### Part 1 — Judicial Conduct Commissioner
+### Part 1 — Judicial Conduct Commissioner and Deputy Judicial Conduct Commissioner
 
-### 1 Term of office of Commissioner
-(1) A person holds office as the Judicial Conduct Commissioner for a term (which must be not less than 2 years and not more than 5 years) that the Governor-General, on the recommendation of the House of Representatives, specifies in the person's appointment.
-(2) A person may be reappointed as the Commissioner.
-(3) The Commissioner, unless he or she sooner vacates office by death, resignation, removal, or failure to be confirmed in office, continues to hold office, even though the term for which he or she was appointed may have expired, until one of the following occurs:
-  (a) the Commissioner is reappointed; or
+### 1 Term of office of Commissioner and Deputy Commissioner
+(1) A person holds office as the Judicial Conduct Commissioner or as the Deputy Judicial Conduct Commissioner for a term (which must be not less than 2 years and not more than 5 years) that the Governor-General, on the recommendation of the House of Representatives, specifies in the person's appointment.
+(2) A person may be reappointed as the Commissioner or as the Deputy Commissioner.
+(3) The Commissioner or the Deputy Commissioner, unless he or she sooner vacates office by death, resignation, removal, or failure to be confirmed in office, continues to hold office, even though the term for which he or she was appointed may have expired, until one of the following occurs:
+  (a) the Commissioner or the Deputy Commissioner is reappointed; or
   (b) a successor is appointed.
-(4) The Commissioner may resign the office at any time by written notice given to the Governor-General.
+(4) The Commissioner or the Deputy Commissioner may resign the office at any time by written notice given to the Governor-General.
 (5) A notice of resignation under subclause (4) must state the date on which the resignation takes effect.
 
 ### 2 Filling of vacancy
 (1) If a vacancy occurs in the office of Commissioner, the vacancy must be filled by the appointment of a successor by the Governor-General on the recommendation of the House of Representatives.
+(1A) If a vacancy occurs in the office of Deputy Commissioner, the vacancy may be filled by the appointment of a successor by the Governor-General on the recommendation of the House of Representatives.
 (2) Subclause (3) applies if—
-  (a) a vacancy occurs while Parliament is not in session, or exists at the close of a session; and
+  (a) a vacancy specified in subclause (1) or (1A) occurs while Parliament is not in session, or exists at the close of a session; and
   (b) the House of Representatives has not recommended an appointment to fill the vacancy.
 (3) When this subclause applies, the vacancy may, at any time before the commencement of the next ensuing session of Parliament, be filled by the appointment of a successor by the Governor-General in Council.
 (4) An appointment made under subclause (3) lapses and the office again becomes vacant unless, before the end of the 24th sitting day of the House of Representatives following the date of the appointment, the House confirms the appointment.
 
-### 3 Removal of Commissioner
-The Governor-General, on an address from the House of Representatives, may remove the Commissioner from office for—
+### 3 Removal of Commissioner or Deputy Commissioner
+The Governor-General, on an address from the House of Representatives, may remove the Commissioner or the Deputy Commissioner from office for—
   (a) incapacity; or
   (b) misconduct.
 
-### 4 Commissioner protected
-(1) This clause applies to the Commissioner and to every person engaged or employed in connection with the work of the Commissioner.
+### 4 Commissioner and Deputy Commissioner protected
+(1) This clause applies to the Commissioner, to the Deputy Commissioner, and to every person engaged or employed in connection with the work of the Commissioner or the Deputy Commissioner.
 (2) No proceedings, civil or criminal, lie against any person to whom this section applies for anything he or she may do or report or say in the course of the exercise or intended exercise of his or her duties under this Act, unless it is shown that he or she acted in bad faith.
 (3) No person to whom this clause applies is required to give evidence in any court, or in any proceedings of a judicial nature, in respect of anything coming to his or her knowledge in the exercise of his or her functions.
 (4) Nothing in subclause (2) or subclause (3) applies in respect of proceedings for—
   (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981; or
   (b) the offence of attempting or conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961 or against section 20A of the Summary Offences Act 1981.
-(5) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commissioner under this Act is privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
-(6) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
+(5) Anything said or any information supplied or any document or thing produced by any person in the course of any inquiry by, or proceedings before, the Commissioner or the Deputy Commissioner under this Act is privileged in the same manner as if the inquiry or proceedings were proceedings in a court.
+(6) For the purposes of clause 3 of Part 2 of Schedule 1 of the Defamation Act 1992, any report made by the Commissioner or the Deputy Commissioner under this Act is deemed to be an official report made by a person holding an inquiry under the authority of the Parliament of New Zealand.
 
 ### 5 Salary and allowances
-(1) The Commissioner must be paid the remuneration and allowances that the Remuneration Authority determines.
-(2) The Commissioner is entitled to receive from the funds of the Commissioner's office the actual and reasonable costs for travelling and other expenses that relate to the performance of his or her duties and responsibilities as the Commissioner.
+(1) The Commissioner and the Deputy Commissioner must be paid the remuneration and allowances that the Remuneration Authority determines.
+(2) The Commissioner or the Deputy Commissioner is entitled to receive from the funds of the Commissioner’s office the actual and reasonable costs for travelling and other expenses that relate to the performance of his or her duties and responsibilities as the Commissioner or as the Deputy Commissioner.
 
 ### 6 Staff and administrative support
-The Commissioner has the staff and administrative support that is provided by the chief executive of the agency, organisation, or department within which the Commissioner is located.
+The Commissioner and Deputy Commissioner have the staff and administrative support that is provided by the chief executive of the agency, organisation, or department within which the Commissioner and the Deputy Commissioner are located.
 
 ### 7 Delegations
 (1) The Commissioner may by writing, either generally or specifically, delegate any of his or her functions or powers to—
