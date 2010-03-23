@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2010-03-23_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -1018,7 +1018,7 @@ The Governor-General may appoint another coroner to act as chief coroner until t
 
 ### 113 Complaints about coroners
 (1) Complaints about coroners' conduct may be made, received, and dealt with in accordance with the Judicial Conduct Commissioner and Judicial Conduct Panel Act 2004 because coroners are Judges as defined in section 5 of that Act.
-(2) If a complaint is made about the conduct of the chief coroner and, under section 17 of that Act, the Commissioner must refer the complaint to the chief coroner, the Commissioner may also refer the complaint to the Attorney-General.
+(2) If a complaint is made about the conduct of the chief coroner and, under section 17 of that Act, the Commissioner or the Deputy Commissioner must refer the complaint to the chief coroner, the Commissioner or the Deputy Commissioner may also refer the complaint to the Attorney-General.
 
 ### 114 Removal
 (1) The Governor-General may, if he or she thinks fit, remove a coroner from office for inability or misbehaviour.
