@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-03-23_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -60,7 +60,7 @@ _Consolidation as at 2009-12-08_
 
 ### 5 Appointment and qualifications
 (1) The Governor-General may from time to time, by warrant under his hand, appoint fit and proper persons to be District Court Judges to exercise civil and criminal jurisdiction within New Zealand.
-(2) The maximum number of Judges is 140.
+(2) The maximum number of Judges is 156.
 (2A) For the purposes of subsection (2),—
   (a) a Judge who is acting on a full-time basis counts as 1:
   (b) a Judge who is acting on a part-time basis counts as an appropriate fraction of 1:
