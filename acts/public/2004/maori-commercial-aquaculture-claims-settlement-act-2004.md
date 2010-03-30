@@ -1,5 +1,5 @@
 # Maori Commercial Aquaculture Claims Settlement Act 2004
-_Consolidation as at 2008-09-28_
+_Consolidation as at 2010-03-30_
 
 ### 1 Title
 This Act is the Maori Commercial Aquaculture Claims Settlement Act 2004.
@@ -52,6 +52,7 @@ In this Act, unless the context otherwise requires,—
   - **occupy** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **public notice** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **recognised iwi organisation** has the same meaning as in section 5 of the Maori Fisheries Act 2004
+  - **regional agreement** means an agreement of a kind described in section 29A (whether entered into before, on, or after the date of commencement of the Maori Commercial Aquaculture Claims Settlement (Regional Agreements) Amendment Act 2010)
   - **regional council** has the same meaning as in section 2(1) of the Resource Management Act 1991
   - **reservation** has the same meaning as in section 186C of the Fisheries Act 1996
   - **sale** includes—
@@ -67,6 +68,7 @@ In this Act, unless the context otherwise requires,—
 ### 5 Meaning of settlement assets
 (1) In this Act, unless the context otherwise requires, settlement assets—
   (a) means authorisations relating to aquaculture activities, coastal permits to occupy space for aquaculture activities, or the financial equivalent of the authorisations or the permits, transferred or paid or to be transferred or paid to the trustee under this Act; and
+  (ab) includes payments of money and the transfer of any other benefit to the trustee or an iwi aquaculture organisation under a regional agreement; and
   (b) includes any authorisation held by the trustee, an iwi aquaculture organisation, or a company under the Companies Act 1993 wholly owned by 1 or more iwi aquaculture organisations in the same region if—
     (i) the authorisation was transferred in exchange for an authorisation referred to in paragraph (a) or received under a previous transfer to which this paragraph applied; and
     (ii) notice of both transfers was received by the regional council on the same day; and
@@ -211,7 +213,9 @@ The Crown's obligations under sections 22 to 31 apply and must be satisfied on t
 (3) Subsection (1) must be complied with in 1 or more of the following ways:
   (a) by the making of Orders in Council under section 25:
   (b) by purchasing and transferring to the trustee on or after 1 January 2008 established marine farms:
+  (ba) by entering into a regional agreement:
   (c) by paying to the trustee on or after 1 January 2013 amounts equivalent, in part or in full, to the value of the pre-commencement space.
+(3A) If a regional agreement includes a provision of a kind referred to in section 29A(3)(b) or is otherwise conditional, the Crown is taken to have complied with subsection (1) in the way specified in subsection (3)(ba) only if the agreement becomes unconditional.
 (4) To avoid doubt, subsection (3) does not require the Crown at any particular time to comply with subsection (1) in any particular way or combination of ways specified in subsection (3).
 
 ### 23 Preparation of plan
@@ -262,6 +266,19 @@ Before making a payment under section 22(3)(c), the Minister of Fisheries must h
   (a) on a date specified in the right of first refusal for that purpose; or
   (b) if no date is specified, then 30 days after the right of first refusal is given to the trustee.
 
+### 29A Regional agreements
+(1) The Crown may enter into an agreement (including by deed) in respect of 1 or more regions of regional councils, or of 1 or more harbours listed in Schedule 2, with the parties specified in subsection (2) if the Crown and those parties all agree that the Crown's obligation under section 22(1) will be satisfied in respect of those regions and harbours on the terms set out in the agreement.
+(2) The parties referred to in subsection (1) are—
+  (a) the iwi aquaculture organisations of all iwi whose area of interest includes a region or harbour covered by the agreement; or
+  (b) for any iwi referred to in paragraph (a) that do not have iwi aquaculture organisations, the recognised iwi organisations of those iwi.
+(3) A regional agreement must include—
+  (a) the trustee as a party to the agreement in order to confirm that the agreement has been entered into by the parties specified in subsection (2); or
+  (b) a provision that the agreement is conditional on the trustee confirming that the agreement has been entered into by those parties.
+(4) To avoid doubt, a regional agreement is enforceable as a contract in accordance with its terms.
+(5) Section 22(3)(c) does not prevent the Crown from making a payment to the trustee under a regional agreement before 1 January 2013.
+(6) No court or tribunal has jurisdiction to inquire into the quantification or the adequacy of the benefits to be provided by or under a regional agreement.
+(7) However, subsection (6) does not exclude the jurisdiction of a court or tribunal in respect of the interpretation or enforcement of a regional agreement.
+
 ### 30 Entry on iwi aquaculture register
 (1) When the trustee receives settlement assets under this Act, it must record the settlement assets in the iwi aquaculture register.
 (2) Any settlement assets in an aquaculture management area in a harbour listed in Schedule 2 must be recorded as harbour settlement assets.
@@ -274,7 +291,7 @@ Before making a payment under section 22(3)(c), the Minister of Fisheries must h
   (a) determined by the trustee in accordance with section 45(4) or Schedule 1; and
   (b) recorded by the trustee on the iwi aquaculture register.
 (3) Registered settlement assets allocation entitlements are created under this Act for the sole purpose of calculating the amount of settlement assets to be allocated to iwi under this Act.
-(4) A registered settlement assets allocation entitlement binds the iwi concerned in relation to all allocations of settlement assets within the regional coastline or harbour concerned.
+(4) A registered settlement assets allocation entitlement binds the iwi concerned in relation to the allocation of settlement assets within the regional coastline or harbour concerned as determined by the trustee in accordance with section 45(4) or Schedule 1.
 (5) However, the registered settlement assets allocation entitlements do not—
   (a) bind the iwi to which they relate or any other iwi in any matter that is before the Waitangi Tribunal, the Maori Land Court, or any other court, other than under this Act; or
   (b) bind, compromise, advantage or disadvantage, or operate as a precedent for any other matter; or
@@ -289,6 +306,7 @@ Before making a payment under section 22(3)(c), the Minister of Fisheries must h
 (2) An iwi aquaculture organisation may—
   (a) directly receive and hold, on behalf of its iwi, settlement assets allocated to the iwi by the trustee under this Act:
   (b) if relevant, enter into agreements with other iwi aquaculture organisations in relation to the allocation of settlement assets:
+  (ba) enter into regional agreements:
   (c) establish companies to undertake aquaculture activities:
   (d) perform other functions contemplated by or provided for by or under this Act.
 (3) An iwi aquaculture organisation must not undertake commercial aquaculture activities except through a separate enterprise that is responsible to the organisation.
@@ -330,7 +348,8 @@ The trustee is the trustee of the trust.
     (iii) about the allocation and transfer of settlement assets:
   (g) notifying coastal endpoints in the Gazette.
 (2) The trustee may undertake additional activities for related or ancillary purposes (such as facilitating and co-ordinating the development and use of settlement assets, and representing the interests of iwi) if the iwi concerned agree to the trustee doing so.
-(3) The reasonable costs and expenses of the trustee in performing its duties under subsection (1) are to be paid out of money appropriated by Parliament for that purpose.
+(2A) The trustee may also enter into a regional agreement or otherwise agree to be bound by a regional agreement, and perform obligations and exercise rights under or in relation to the agreement.
+(3) The reasonable costs and expenses of the trustee in performing its duties under subsection (1) or its obligations referred to in subsection (2A) are to be paid out of money appropriated by Parliament for that purpose.
 
 ### 39 Reporting requirements of trustee
 (1) In measuring its performance against the annual plan, the trustee must report annually, not later than 5 months after the end of each financial year, to iwi aquaculture organisations, recognised iwi organisations, and the chief executive of the Ministry of Fisheries.
@@ -376,8 +395,13 @@ The iwi aquaculture register must be available for access upon request by—
 
 **Allocation of settlement assets**
 
-### 44 Entitlements to be determined and allocations to be made on regional basis
-The trustee must make its determinations as to settlement assets allocation entitlements and its allocation of settlement assets separately on the basis of the region of each regional council and each harbour listed in Schedule 2.
+### 44 Determinations and allocations generally
+(1) The trustee must make its determinations as to settlement assets allocation entitlements and its allocation of settlement assets separately on the basis of the region of each regional council and each harbour listed in Schedule 2.
+(2) However, if a written agreement referred to in section 45(4) covers more than 1 region or harbour, the trustee may make its determinations as to settlement assets allocation entitlements and its allocation of settlement assets collectively on the basis of the regions and harbours covered by the agreement.
+(3) For a region or harbour, the trustee must make either—
+  (a) a single determination for all of the settlement assets of the region or harbour; or
+  (b) 1 or more determinations for the settlement assets of the region or harbour covered by a regional agreement and a single determination for all the other settlement assets of the region or harbour.
+(4) The trustee may amend a determination to give effect to a written agreement referred to in section 45(4) to the extent that the agreement relates to settlement assets under a regional agreement that was entered into after the written agreement and, if it does so, the amendment becomes a determination of settlement assets allocation entitlements.
 
 ### 45 Allocation of assets to iwi of region
 (1) For the purposes of this section and sections 46 to 51, in the case of the Waikato and Manawatu-Wanganui regions, the east coast and west coast of each region are to be treated as separate regions.
@@ -394,7 +418,7 @@ In reaching an agreement for the purposes of sections 48 and 49, the iwi aquacul
   (b) the desirability of allocating settlement assets that are of an economic size.
 
 ### 47 Basis of allocation of settlement assets
-(1) If by the end of the 12-month period specified in section 45(4) the iwi aquaculture organisations have not made a written agreement, the trustee must determine settlement assets allocation entitlements in accordance with this section and Schedule 1.
+(1) If by the end of the 12-month period specified in section 45(4) the iwi aquaculture organisations for a region have not made a written agreement for all of the settlement assets of the region, the trustee must determine, in accordance with this section and Schedule 1, settlement assets allocation entitlements for any settlement assets for which no written agreement has been made.
 (2) When allocating coastal settlement assets, the trustee must allocate to each iwi the same proportion of settlement assets for the regional coastline that the iwi coastline bears to the total regional coastline as described in a settlement assets allocation entitlement determined in accordance with section 31 and Schedule 1.
 (3) The trustee must allocate to an iwi whose territory abuts a harbour specified in Schedule 2 settlement assets in the harbour.
 (4) If more than 1 iwi has its territory abutting a harbour specified in Schedule 2, the iwi aquaculture organisations of those iwi must take all reasonable steps—
