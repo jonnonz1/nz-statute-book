@@ -1,5 +1,5 @@
 # Privacy Act 1993
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-04-01_
 
 > An Act to promote and protect individual privacy in general accordance with the Recommendation of the Council of the Organisation for Economic Co-operation and Development Concerning Guidelines Governing the Protection of Privacy and Transborder Flows of Personal Data, and, in particular,—ato establish certain principles with respect to—ithe collection, use, and disclosure, by public and private sector agencies, of information relating to individuals; andiiaccess by each individual to information relating to that individual and held by public and private sector agencies; andbto provide for the appointment of a Privacy Commissioner to investigate complaints about interferences with individual privacy; andcto provide for matters incidental thereto
 
@@ -239,7 +239,7 @@ An agency that holds personal information shall not disclose the information to 
   (i) that the disclosure of the information is in accordance with an authority granted under section 54.
 Principle 12 Unique identifiers
 (1) An agency shall not assign a unique identifier to an individual unless the assignment of that identifier is necessary to enable the agency to carry out any one or more of its functions efficiently.
-(2) An agency shall not assign to an individual a unique identifier that, to that agency's knowledge, has been assigned to that individual by another agency, unless those 2 agencies are associated persons within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions).
+(2) An agency shall not assign to an individual a unique identifier that, to that agency's knowledge, has been assigned to that individual by another agency, unless those 2 agencies are associated persons within the meaning of subpart YB of the Income Tax Act 2007.
 (3) An agency that assigns unique identifiers to individuals shall take all reasonable steps to ensure that unique identifiers are assigned only to individuals whose identity is clearly established.
 (4) An agency shall not require an individual to disclose any unique identifier assigned to that individual unless the disclosure is for one of the purposes in connection with which that unique identifier was assigned or for a purpose that is directly related to one of those purposes.
 
@@ -1452,6 +1452,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Dog Control and Hydatids Act 1982 |  |
 | Electoral Act 1956 |  |
 | Electoral Act 1993 | Sections 100, 101, 103, 104, 105, 106, 107, 108, 109, 211, and 212 |
+| Electricity Act 1992 | section 124 |
 | Financial Service Providers (Registration and Dispute Resolution) Act 2008 | Section 24 |
 | Fisheries Act 1996 | Sections 98, 124 |
 | Friendly Societies and Credit Unions Act 1982 | Sections 5, 40, and 130 |
@@ -1482,7 +1483,7 @@ The income of the Commissioner shall be exempt from income tax.
 | Personal Property Securities Act 1999 | Sections 139 and 171 to 174 |
 | Pharmacy Act 1970 |  |
 | Physiotherapy Act 1949 |  |
-| Plumbers, Gasfitters, and Drainlayers Act 1976 | Section 20 |
+| Plumbers, Gasfitters, and Drainlayers Act 2006 | section 70 |
 | Psychologists Act 1981 |  |
 | Radiocommunications Act 1989 | Section 5, 6, and 28 |
 | Rating Powers Act 1988 |  |
