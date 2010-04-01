@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-04-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -49,10 +49,10 @@ _Consolidation as at 2009-12-01_
     (c) Section 32A of the Weights and Measures Act 1987; or
     (ca)
     (d) Section 58 of the Civil Aviation Act 1990; or
-    (da)
+    (da) section 129 of the Plumbers, Gasfitters, and Drainlayers Act 2006; or
     (e) Section 159 or section 159A of the Biosecurity Act 1993; or
     (f) section 66 of the Dog Control Act 1996; or
-    (fa)
+    (fa) section 165B of the Electricity Act 1992; or
     (g) section 139 of the Land Transport Act 1998; or
     (h) section 260A of the Fisheries Act 1996; or
     (i) section 162 of the Animal Welfare Act 1999; or
