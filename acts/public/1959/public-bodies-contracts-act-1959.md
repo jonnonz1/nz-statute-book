@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-04-01_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -94,7 +94,7 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 | The New Zealand Railways Staff Welfare Board | 1981, No 119—The New Zealand Railways Corporation Act 1981. |
 | The North Shore Drainage Board |  |
 | The Nursing Council of New Zealand |  |
-| The Plumbers, Gasfitters, and Drainlayers Board | 1976, No 69—The Plumbers, Gasfitters, and Drainlayers Act 1976. |
+| The Plumbers, Gasfitters, and Drainlayers Board | Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74). |
 | The Queen Elizabeth the Second National Trust | 1977, No 102—The Queen Elizabeth the Second National Trust Act 1977. |
 | The Rural Electrical Reticulation Council | 1992, No 122—The Electricity Act 1992 |
 | The South Canterbury Wallaby Board | 1971, No 74—The Agricultural Pests Destruction Amendment Act 1971. |
