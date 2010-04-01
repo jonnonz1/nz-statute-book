@@ -1,13 +1,13 @@
 # Smoke-free Environments Act 1990
-_Consolidation as at 2009-01-01_
+_Consolidation as at 2010-04-01_
 
-> An Act—aTo reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbTo regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcTo monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddTo establish a Health Sponsorship Council
+> An Act—ato reduce the exposure of people who do not themselves smoke to any detrimental effect on their health caused by smoking by others; andbto regulate the marketing, advertising, and promotion of tobacco products, whether directly or through the sponsoring of other products, services, or events; andcto monitor and regulate the presence of harmful constituents in tobacco products and tobacco smoke; anddto establish a Health Sponsorship Council
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Smoke-free Environments Act 1990.
-(2) Part 1 of this Act shall come into force on the expiry of 3 months after the date on which this Act receives the Royal assent.
-(3) Part 2 of this Act shall come into force on the 16th day of December 1990.
-(4) Except as provided in subsections (2) and (3) of this section, this Act shall come into force on the day after the date on which it receives the Royal assent.
+(2) Part 1 shall come into force on the expiry of 3 months after the date on which this Act receives the Royal assent.
+(3) Part 2 shall come into force on 16 December 1990.
+(4) Except as provided in subsections (2) and (3), this Act shall come into force on the day after the date on which it receives the Royal assent.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -18,67 +18,61 @@ _Consolidation as at 2009-01-01_
     (b) in relation to a herbal smoking product, means a substance forming part of the product that is not dried, or dried and cured, vegetable matter; and includes—
       (i) a substance forming part of the product that has been derived or refined from vegetable matter; and
       (ii) any wrapping forming part of the product that is not itself dried, or dried and cured, vegetable matter
-  - **Aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
-  - **Area health board**
-  - **Automatic vending machine** means any self-service machine that,—
-    (a) On the insertion of a coin or token or by any other means, dispenses by way of sale tobacco products, whether automatically or with the assistance of the purchaser; and
-    (b) Does not require replenishment between each sale:
-  - **casino** means a casino for which a casino venue licence is in force under section 122 or section 137 of the Gambling Act 2003.
-  - **casino operator's licence** means a licence granted under section 130 of the Gambling Act 2003.
+  - **aircraft** has the same meaning as in section 2 of the Civil Aviation Act 1990
+  - **automatic vending machine** means any self-service machine that,—
+    (a) on the insertion of a coin or token or by any other means, dispenses by way of sale tobacco products, whether automatically or with the assistance of the purchaser; and
+    (b) does not require replenishment between each sale
+  - **casino** means a casino for which a casino venue licence is in force under section 122 or section 137 of the Gambling Act 2003
+  - **casino operator's licence** means a licence granted under section 130 of the Gambling Act 2003
   - **children's product** —
     (a) means a product (such as comics, games, and toys) marketed primarily for children; and
     (b) includes confectionery, ice-cream, soft drinks, and other similar products
   - **class 4 gambling venue licence** means a class 4 venue licence within the meaning of section 4(1) of the Gambling Act 2003
   - **coastal cargo** has the meaning given to it by section 198(6) of the Maritime Transport Act 1994
-  - **Code of practice** or
-  - **Company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1955 or the Companies Act 1993 or any other enactment
-  - **Council** means the Health Sponsorship Council established by section 43 of this Act
-  - **Craft** means—
-    (a) An aircraft:
-    (b) A ship (as defined in section 2(1) of the Shipping and Seamen Act 1952):
+  - **company name** includes any corporate name, firm name, or business name, whether or not it is registered or registrable under the Companies Act 1955 or the Companies Act 1993 or any other enactment
+  - **Council** means the Health Sponsorship Council established by section 43
+  - **craft** means—
+    (a) an aircraft:
+    (b) a ship (as defined in section 2(1) of the Maritime Transport Act 1994)
   - **dedicated smoking room** means an internal area in a hospital care institution, a residential disability care institution, or a rest home that is used solely to enable patients or residents who smoke to smoke, or to socialise with each other in a place where smoking is permitted
-  - **Director**
   - **Director-General** means the Director-General of Health
   - **distributor** means a person engaged in the business of selling tobacco products, or (as the case may be) herbal smoking products, otherwise than at retail only
-  - **early childhood education and care centre** has the meaning given to it by section 309 of the Education Act 1989.
-  - **Employee** means any person of any age employed under a contract of service by an employer to do any work for hire or reward
+  - **early childhood education and care centre** has the meaning given to it by section 309 of the Education Act 1989
+  - **employee** means any person of any age employed under a contract of service by an employer to do any work for hire or reward
   - **employer** —
-    (a) means a person who employs one or more employees; and
+    (a) means a person who employs 1 or more employees; and
     (b) includes a person who arranges for volunteers to undertake work
   - **enforcement officer** means a person for the time being appointed under section 14 to enforce Parts 1 and 2, or provisions of Parts 1 and 2
   - **face** , in relation to a tobacco carton or tobacco package,—
     (a) means a more or less flat area of the surface of the carton or package that is bounded by edges of the package; and
     (b) in the case of a tobacco package that is a pouch pack, includes a curved area of the surface of the package that is between 2 faces
   - **foreign ship** means a ship that is not a New Zealand ship
-  - **gambling** has the meaning set out in section 4(1) of the Gambling Act 2003.
-  - **gambling area** , in relation to a casino venue, means the area of the venue in which gambling is conducted.
-  - **Gaming**
-  - **Gaming area**
+  - **gambling** has the meaning set out in section 4(1) of the Gambling Act 2003
+  - **gambling area** , in relation to a casino venue, means the area of the venue in which gambling is conducted
   - **herbal smoking product** means a product that—
     (a) is or contains vegetable matter; and
     (b) is intended to be smoked; but
     (c) contains no tobacco
-  - **Hospital**
   - **hospital care institution** has the meaning given to that term by section 58(4) of the Health and Disability Services (Safety) Act 2001
   - **internal area** , in relation to any premises or vehicle, means an area within or on the premises or vehicle that, when all its doors, windows, and other closeable openings are closed, is completely or substantially enclosed by—
     (a) a ceiling, roof, or similar overhead surface; and
     (b) walls, sides, screens, or other similar surfaces; and
     (c) those openings
-  - **Internal flight** means a flight—
-    (a) Between any 2 or more places in New Zealand; or
-    (b) That commences from any place in New Zealand and is intended to terminate at that same place:
+  - **internal flight** means a flight—
+    (a) between any 2 or more places in New Zealand; or
+    (b) that commences from any place in New Zealand and is intended to terminate at that same place
   - **licensed premises** means any premises, or any part of any premises, on which liquor may be sold pursuant to a licence under the Sale of Liquor Act 1989
   - **managers** , in relation to a school, or premises to which section 7A(4) applies, means all the people who control and manage the school or premises, whether or not they have a proprietary interest in the school or premises
-  - **Manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007 (to the extent to which those rules apply for the whole of that Act excluding the 1973, 1988, and 1990 version provisions)
+  - **manufacturer** includes any company with which a manufacturer is associated within the meaning of subpart YB of the Income Tax Act 2007
   - **Minister** means the Minister of Health
   - **New Zealand continental waters** has the meaning given to it by section 222(1) of the Maritime Transport Act 1994
   - **New Zealand resident** means—
-    (a) A New Zealand citizen:
-    (b) A permanent resident of New Zealand within the meaning of section 38 of the Electoral Act 1956:
-    (c) A company incorporated in New Zealand:
+    (a) a New Zealand citizen:
+    (b) a permanent resident of New Zealand within the meaning of section 73 of the Electoral Act 1993:
+    (c) a company incorporated in New Zealand
   - **New Zealand ship** has the meaning given to it by section 2(1) of the Ship Registration Act 1992
   - **of the same kind** means not differing in a manner stated in subsection (2)
-  - **Office** means a place in which any person is employed, directly or indirectly, to do any clerical work in connection with any business carried on by the occupier of that place
+  - **office** means a place in which any person is employed, directly or indirectly, to do any clerical work in connection with any business carried on by the occupier of that place
   - **open area** , in relation to any premises, means a part of the premises that is not an internal area
   - **operating taxi** means a taxi at a time when—
     (a) it is carrying a passenger; or
@@ -88,33 +82,32 @@ _Consolidation as at 2009-01-01_
       (iii) travelling to pick up a passenger; or
       (iv) returning from carrying a passenger (otherwise than at the end of a shift); or
       (v) resting, eating, or drinking before beginning or resuming plying for hire
-  - **Organised activity** means any cultural, educational, sporting, or recreational activity or event
+  - **organised activity** means any cultural, educational, sporting, or recreational activity or event
   - **package** means a pack, carton, wrapping, or other container in which tobacco products, or (as the case may be) herbal smoking products, are customarily sold at retail
-  - **Passenger service vehicle** and have the same meaning as in section 2 of the Land Transport Act 1998
-  - **Permitted smoking area**
+  - **passenger service vehicle** and have the same meaning as in section 2 of the Land Transport Act 1998
   - **point of sale** —
     (a) means a checkout where tobacco products may be bought; and
     (b) includes a till or cashbox, where tobacco products may be bought, even if it is not at or part of a checkout
+  - **pouch pack** means a package made, from flexible material, in the form of a rectangular pocket with a flap covering the opening
   - **prescribed petroleum operations** means petroleum operations prescribed for the purposes of the Health and Safety in Employment Act 1992 by regulations made under that Act
   - **prison** —
     (a) means a prison within the meaning of the Corrections Act 2004; and
     (b) includes a facility attached to a prison
-  - **pouch pack** means a package made, from flexible material, in the form of a rectangular pocket with a flap covering the opening
-  - **Publish** means—
-    (a) Insert in any newspaper or other periodical publication printed, published, or distributed in New Zealand; or
-    (b) Send to any person, by post or otherwise; or
-    (c) Deliver to any person or leave upon premises in the occupation of any person; or
-    (d) Broadcast within the meaning of the Broadcasting Act 1989; or
-    (e) Include in any film or video recording; or
-    (f) Include in any disk for use with a computer; or
-    (g) Disseminate by means of any other electronic medium; or
-    (h) Distribute by any means; or
-    (ha) Display by way of a sign, notice, poster, or other means; or
-    (i) Bring to the notice of the public in New Zealand in any other manner:
+  - **publish** means—
+    (a) insert in any newspaper or other periodical publication printed, published, or distributed in New Zealand; or
+    (b) send to any person, by post or otherwise; or
+    (c) deliver to any person or leave upon premises in the occupation of any person; or
+    (d) broadcast within the meaning of the Broadcasting Act 1989; or
+    (e) include in any film or video recording; or
+    (f) include in any disk for use with a computer; or
+    (g) disseminate by means of any other electronic medium; or
+    (h) distribute by any means; or
+    (ha) display by way of a sign, notice, poster, or other means; or
+    (i) bring to the notice of the public in New Zealand in any other manner
   - **registered school** has the meaning given to it by section 2(1) of the Education Act 1989
   - **residential disability care institution** has the meaning given to that term by section 58(4) of the Health and Disability Services (Safety) Act 2001
-  - **Restaurant** means any premises, or any part of any premises, where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor is or may be sold on those premises or that part of those premises; and includes any room or area on a ship or train where meals or refreshments are provided for passengers to consume
-  - **Rest home** has the meaning given to it by section 58(4) of the Health and Disability Services (Safety) Act 2001
+  - **rest home** has the meaning given to it by section 58(4) of the Health and Disability Services (Safety) Act 2001
+  - **restaurant** means any premises, or any part of any premises, where the principal business is the selling of meals or refreshments to the general public for consumption on the premises, whether or not liquor is or may be sold on those premises or that part of those premises; and includes any room or area on a ship or train where meals or refreshments are provided for passengers to consume
   - **retailer** means a person engaged in any business that includes the sale of tobacco products, or (as the case may be) herbal smoking products, at retail
   - **school premises** means premises that are—
     (a) a registered school; or
@@ -123,36 +116,36 @@ _Consolidation as at 2009-01-01_
       (ii) cultural or sporting activities (or both) involving, or undertaken for the benefit of, the young people attending the school
   - **ship** has the meaning given to it by section 2(1) of the Ship Registration Act 1992
   - **ship on demise charter to a New Zealand-based operator** has the meaning given to it by section 4 of the Ship Registration Act 1992
-  - **Smoking accessory** means any article or substance that is used in conjunction with smoking, including cigarette papers, pipe cleaners, cigarette lighters, lighter fuel, and ashtrays; and includes the packaging, carton, wrapping, or other container in which smoking accessories are customarily sold at retail
+  - **smoking accessory** means any article or substance that is used in conjunction with smoking, including cigarette papers, pipe cleaners, cigarette lighters, lighter fuel, and ashtrays; and includes the packaging, carton, wrapping, or other container in which smoking accessories are customarily sold at retail
   - **taxi** has the same meaning as in section 2(1) of the Land Transport Act 1998
   - **to smoke** —
     (a) means to smoke, hold, or otherwise have control over an ignited tobacco product, weed, or plant; and
     (b) includes to smoke, hold, or otherwise have control over an ignited product or thing whose customary use is or includes the inhalation from it of the smoke produced from its combustion or the combustion of any part of it; but
     (c) does not include to hold or have control over an ignited product or thing customarily used as incense
   - **tobacco carton** means a box, carton, pack, packet, pouch, tin, wrapping, or other package containing 2 or more tobacco packages
-  - **tobacconist's shop** —
-    (a) means a retail shop that—
-      (i) is held out as a specialist retail seller of tobacco products (even if it is also held out as a specialist retail seller of other products such as newspapers and magazines, or it also provides services such as hairdressing, or both); and
-      (ii) obtains from the retail sale of tobacco products at least 60% of the gross revenue it obtains from retail sales; but
-    (b) does not include any retail shop within premises in which petroleum products are sold to motorists
   - **tobacco package** means a box, carton, pack, packet, pouch, tin, wrapping, or other package that—
     (a) contains a tobacco product or products; but
     (b) does not contain other tobacco packages within it
   - **tobacco packages in a visible stack** means 2 or more tobacco packages so arranged that—
     (a) one is in front of, but does not completely obscure, the other or others; but
     (b) at least 88% of the total surface area of every package behind the front package is obscured
-  - **Tobacco product** means any product manufactured from tobacco and intended for use by smoking, inhalation, or mastication; and includes nasal and oral snuff; but does not include any medicine (being a medicine in respect of which there is in force a consent or provisional consent given under section 20 or section 23 of the Medicines Act 1981) that is sold or supplied wholly or principally for use as an aid in giving up smoking
-  - **Tobacco product advertisement** means any words, whether written, printed, or spoken, including on film, video recording, or other medium, broadcast or telecast, and any pictorial representation, design, or device, used to encourage the use or notify the availability or promote the sale of any tobacco product or to promote smoking behaviour; and includes—and has a corresponding meaning
-    (a) Any trade circular, any label, and any advertisement in any trade journal; and
-    (b) Any depiction, in a film, video recording, telecast, or other visual medium, of a tobacco product or a tobacco product trade mark, where in return for that depiction any money is paid, or any valuable thing is given, whether to the maker or producer of that film, video recording, telecast, or visual medium or to any other person; and
-    (c) The use in any advertisement or promotion to the public of a tobacco products manufacturer's company name where that name or any part of that name is used as, or is included in, a tobacco product trade mark;—
+  - **tobacco product** means any product manufactured from tobacco and intended for use by smoking, inhalation, or mastication; and includes nasal and oral snuff; but does not include any medicine (being a medicine in respect of which there is in force a consent or provisional consent given under section 20 or section 23 of the Medicines Act 1981) that is sold or supplied wholly or principally for use as an aid in giving up smoking
+  - **tobacco product advertisement** means any words, whether written, printed, or spoken, including on film, video recording, or other medium, broadcast or telecast, and any pictorial representation, design, or device, used to encourage the use or notify the availability or promote the sale of any tobacco product or to promote smoking behaviour; and includes—and has a corresponding meaning
+    (a) any trade circular, any label, and any advertisement in any trade journal; and
+    (b) any depiction, in a film, video recording, telecast, or other visual medium, of a tobacco product or a tobacco product trade mark, where in return for that depiction any money is paid, or any valuable thing is given, whether to the maker or producer of that film, video recording, telecast, or visual medium or to any other person; and
+    (c) the use in any advertisement or promotion to the public of a tobacco products manufacturer's company name where that name or any part of that name is used as, or is included in, a tobacco product trade mark;—
+  - **tobacconist's shop** —
+    (a) means a retail shop that—
+      (i) is held out as a specialist retail seller of tobacco products (even if it is also held out as a specialist retail seller of other products such as newspapers and magazines, or it also provides services such as hairdressing, or both); and
+      (ii) obtains from the retail sale of tobacco products at least 60% of the gross revenue it obtains from retail sales; but
+    (b) does not include any retail shop within premises in which petroleum products are sold to motorists
   - **toy tobacco product** means an object that—
     (a) looks like a tobacco product or a smoker's pipe, and can be used to simulate smoking; but
     (b) cannot be smoked, is not confectionery, and has a primary purpose other than to help people stop smoking
-  - **Trade mark** includes any trade mark whether or not it is registered or registrable as such under the Trade Marks Act 2002; and also includes—
-    (a) Any brand name:
-    (b) Any company name, where that name is used for advertising or promotional purposes:
-    (c) Any name, word, or mark, that so resembles any trade mark that it is likely to be taken as, or confused with, that trade mark:
+  - **trade mark** includes any trade mark whether or not it is registered or registrable as such under the Trade Marks Act 2002; and also includes—
+    (a) any brand name:
+    (b) any company name, where that name is used for advertising or promotional purposes:
+    (c) any name, word, or mark that so resembles any trade mark that it is likely to be taken as, or confused with, that trade mark
   - **variant** means sold in tobacco packages, or (as the case may be) packages of a herbal smoking product, that are not of the same kind
   - **volunteer** means a person of any age who—
     (a) performs for an employer, otherwise than for hire or reward, any work arranged by or on behalf of the employer; or
@@ -161,7 +154,7 @@ _Consolidation as at 2009-01-01_
     (a) means an area that is—
       (i) an internal area, within or on a building or structure occupied by the employer, usually frequented by employees or volunteers during the course of their employment; or
       (ii) an internal area, within or on a ship (being a ship to which section 10 applies), an aircraft, or a train, owned, leased, or otherwise operated by the employer, usually frequented by employees or volunteers during the course of their employment; and
-    (b) includes a cafeteria, corridor, lift, lobby, stairwell, toilet, washroom, or other common internal area attached to, forming part of, or used in conjunction with a work place within the meaning of paragraph (a); and
+    (b) includes a cafeteria, corridor, lift, lobby, stairwell, toilet, washroom, or other common internal area attached to, forming part of, or used in conjunction with a workplace within the meaning of paragraph (a); and
     (c) includes an internal area within or on a vehicle that—
       (i) is not an aircraft, a ship, or a train; but
       (ii) is provided by the employer and normally used by employees or volunteers; and
@@ -170,8 +163,8 @@ _Consolidation as at 2009-01-01_
       (i) a motel, or a bedroom or suite in a hotel; or
       (ii) a cabin or suite, for the time being assigned to a passenger or passengers, on a ship; or
       (iii) a sleeping compartment, for the time being assigned to a passenger or passengers, on a train; or
-      (iv) a cabin, for the time being assigned to only one employee or volunteer, or to the master or owner, on a ship; or
-      (v) a sleeping compartment, for the time being assigned to only one employee or volunteer, on a train; or
+      (iv) a cabin, for the time being assigned to only 1 employee or volunteer, or to the master or owner, on a ship; or
+      (v) a sleeping compartment, for the time being assigned to only 1 employee or volunteer, on a train; or
       (vi) a prison cell; or
       (vii) a dwellinghouse occupied by the employer.
 (2) For the purposes of the definition of of the same kind in subsection (1),—
@@ -216,14 +209,14 @@ An employer may permit smoking in a vehicle provided by the employer and normall
 
 ### 6 Dedicated smoking rooms in hospital care institutions, residential disability care institutions, and rest homes
 (1) An employer may permit smoking by patients or residents of a workplace that is, or is part of, a hospital care institution, a residential disability care institution, or a rest home if—
-  (a) the smoking takes place only in one or more dedicated smoking rooms; and
+  (a) the smoking takes place only in 1 or more dedicated smoking rooms; and
   (b) each dedicated smoking room is equipped with or connected to a mechanical ventilation system to which subsection (2) applies; and
   (c) the employer has taken all reasonably practicable steps to minimise the escape of smoke from the dedicated smoking rooms into any part of the workplace that is not a dedicated smoking room; and
   (d) for each dedicated smoking room, there is available for patients or residents who wish to socialise in a smokefree atmosphere an adequate equivalent room.
 (2) This subsection applies to a mechanical ventilation system with which a dedicated smoking room in a workplace is equipped if, and only if,—
   (a) the system is so designed, installed, and operating that it takes air from the room to a place outside the workplace where any smoke the air may contain will not enter any part of the workplace, either—
     (i) directly; or
-    (ii) through one or more other dedicated smoking rooms; and
+    (ii) through 1 or more other dedicated smoking rooms; and
   (b) no part of the workplace that is not a dedicated smoking room is equipped with or connected to the system.
 (3) Subsection (1)—
   (a) does not authorise an employer to permit a person who is not a patient or resident of the institution or home concerned to smoke in a dedicated smoking room; and
@@ -234,7 +227,7 @@ An employer may permit smoking in a vehicle provided by the employer and normall
 (2) The policy—
   (a) must be based on the principles that—
     (i) as far as is reasonably practicable, an employee or inmate who does not smoke, or does not wish to smoke in the prison, must be protected from smoke arising from smoking in the prison's cells:
-    (ii) unless it is not reasonably practicable to do other wise, an inmate who does not wish to smoke in his or her cell must not be required to share it with an inmate who does wish to smoke in it; and
+    (ii) unless it is not reasonably practicable to do otherwise, an inmate who does not wish to smoke in his or her cell must not be required to share it with an inmate who does wish to smoke in it; and
   (b) must state the procedure for making complaints under this Part.
 (3) The superintendent—
   (a) must ensure that the policy complies with subsection (2); and
@@ -266,10 +259,10 @@ An employer may permit smoking in a vehicle provided by the employer and normall
 (2)
 
 ### 9 Smoking restricted in passenger service vehicles
-(1) Subject to subsection (3) of this section, the operator of a passenger service vehicle shall not permit any person to smoke in that vehicle while it is carrying passengers.
+(1) Subject to subsection (3), the operator of a passenger service vehicle shall not permit any person to smoke in that vehicle while it is carrying passengers.
 (1A) The operator of an operating taxi must not permit any person to smoke in it.
 (1B) No person may smoke in an operating taxi, whether or not it is carrying passengers.
-(2) Subject to subsection (3) of this section, no person shall smoke in any passenger service vehicle while it is carrying passengers.
+(2) Subject to subsection (3), no person shall smoke in any passenger service vehicle while it is carrying passengers.
 (3) Nothing in this section shall apply to any small passenger service vehicle (other than an operating taxi) where the driver and every passenger in the vehicle agree that smoking shall be permitted.
 
 ### 10 Application of Act to ships
@@ -283,7 +276,7 @@ This Act applies to a ship if, and only if, it is—
 ### 11 Smoking prohibited in certain travel premises
 (1) This section applies to any area that—
   (a) is located within an enclosed travel terminal; and
-  (b) is a booking area, passenger queuing area, passenger waitingroom, or passenger lounge.
+  (b) is a booking area, passenger queuing area, passenger waiting room, or passenger lounge.
 (2) The owner or occupier of an area to which this section applies must not permit any person to smoke in it.
 (3) No person may smoke in an area to which this section applies.
 
@@ -334,22 +327,22 @@ This Act applies to a ship if, and only if, it is—
   (c) all limitations and restrictions on his or her exercise of enforcement powers imposed under subsection (5)(c).
 
 ### 15 Complaints relating to workplace smoking
-(1) Where any person believes on reasonable grounds that any person has contravened any provision of this Part of this Act in so far as it relates to any workplace, the person may complain to the employer of that workplace, or to the Director-General, specifying the particulars of the complaint.
-(2) Where an employer receives a complaint under subsection (1) of this section, or a complaint is referred to an employer under section 16(2)(a) of this Act, the employer shall, within 20 working days after receipt of the complaint, investigate the complaint, and, if it appears that a contravention has occurred, shall try to resolve the complaint.
+(1) Where any person believes on reasonable grounds that any person has contravened any provision of this Part in so far as it relates to any workplace, the person may complain to the employer of that workplace, or to the Director-General, specifying the particulars of the complaint.
+(2) Where an employer receives a complaint under subsection (1), or a complaint is referred to an employer under section 16(2)(a), the employer shall, within 20 working days after receipt of the complaint, investigate the complaint, and, if it appears that a contravention has occurred, shall try to resolve the complaint.
 (3) Where the contravention is on the part of the employer, the employer shall settle the cause of the complaint, or give an assurance that satisfies the complainant that there will be no repetition of the cause of the complaint.
 (4) Where the contravention is on the part of an employee or volunteer, the employer shall seek to obtain from the employee or volunteer an assurance that satisfies the employer that there will be no repetition of the cause of the complaint.
 (5) The representative of the employees in the workplace shall be entitled to be present at any meeting called by the employer for the purpose of resolving the complaint and avoiding future cause for complaint.
 (6) If within 40 working days after receiving the complaint the employer is unable to investigate it and resolve it by agreement, the employer must refer it, in writing, to the Director-General.
 
 ### 16 Complaints to Director-General
-(1) Any person may make a complaint to the Director-General concerning a contravention by any person of any provision of this Part of this Act.
-(2) When the Director-General receives any complaint alleging contravention of this Part of this Act, the following provisions shall apply:
-  (a) Where—the complaint shall be forwarded by the Director-General to the employer to be dealt with under that section:
-    (i) The contravention allegedly occurred in any workplace; and
-    (ii) The person who is the subject of the complaint is the employer for that workplace, or an employee or volunteer of that employer; and
-    (iii) The complaint was not referred to the Director-General by the employer under subsection (6) of section 15 of this Act,—
-  (b) In all other cases, the matter shall be dealt with as though it were a complaint to which subsection (3) of this section applied.
-(3) On receipt by the Director-General of a complaint under this Part of this Act, a person appointed under section 14 of this Act may make further inquiries by way of investigation in respect of the complaint.
+(1) Any person may make a complaint to the Director-General concerning a contravention by any person of any provision of this Part.
+(2) When the Director-General receives any complaint alleging contravention of this Part, the following provisions shall apply:
+  (a) where—the complaint shall be forwarded by the Director-General to the employer to be dealt with under that section:
+    (i) the contravention allegedly occurred in any workplace; and
+    (ii) the person who is the subject of the complaint is the employer for that workplace, or an employee or volunteer of that employer; and
+    (iii) the complaint was not referred to the Director-General by the employer under subsection (6) of section 15,—
+  (b) in all other cases, the matter shall be dealt with as though it were a complaint to which subsection (3) applied.
+(3) On receipt by the Director-General of a complaint under this Part, a person appointed under section 14 may make further inquiries by way of investigation in respect of the complaint.
 (4) The person who investigates the complaint may take no further action if the complaint is trivial, frivolous, vexatious, or not made in good faith, or if, during the investigation, the person receives a satisfactory assurance that there will be no repetition of the cause for the complaint; and in any such case the person who made the complaint shall be advised of the reasons why no further action is being taken.
 (5) The person investigating the complaint may, on investigation, try to settle the cause of the complaint and obtain a satisfactory assurance against repetition of the cause of the complaint.
 (6) Where no such settlement and assurance can be obtained, or if the cause of complaint is in breach of a previously given assurance, a complaint may be laid under the Summary Proceedings Act 1957 in respect of the relevant offence.
@@ -372,7 +365,7 @@ This Act applies to a ship if, and only if, it is—
 (1) The managers of any premises who commit an offence against section 17(2A) are liable,—
   (a) in the case of managers who are a body corporate, to a fine not exceeding $4,000; and
   (b) in the case of managers who are not a body corporate, to a fine not exceeding $400 each.
-(2) A person who commits an offence against a provision of section 17 other than subsection (2A), subsection (8C), subsection (9), or subsection 10 is liable,—
+(2) A person who commits an offence against a provision of section 17 other than subsection (2A), subsection (8C), subsection (9), or subsection (10) is liable,—
   (a) in the case of a person who is a body corporate, to a fine not exceeding $4,000; and
   (b) in the case of a person who is not a body corporate, to a fine not exceeding $400.
 (3) An employer who commits an offence against section 17(8C) is liable,—
@@ -381,14 +374,14 @@ This Act applies to a ship if, and only if, it is—
 (4) A person who commits an offence against section 17(9) is liable to a fine not exceeding $400.
 
 ### 18 Prosecution of offences
-(1) No prosecution for an offence against any provision of this Part of this Act shall be commenced except on the information of a person appointed pursuant to section 14 of this Act.
-(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against any provision of this Part of this Act may be laid at any time within 1 year after the time when the matter of the information arose.
+(1) No prosecution for an offence against any provision of this Part shall be commenced except on the information of a person appointed pursuant to section 14.
+(2) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against any provision of this Part may be laid at any time within 1 year after the time when the matter of the information arose.
 
 ### 19 Protection of persons acting under authority of Act
-No person appointed under section 14 of this Act who does any act in pursuance or intended pursuance of any of the functions, duties, or powers conferred by or under this Act shall be under any civil or criminal liability in respect of the act, whether on the grounds of want of jurisdiction, or mistake of law or fact, or on any other ground unless he or she has acted in bad faith or without reasonable care.
+No person appointed under section 14 who does any act in pursuance or intended pursuance of any of the functions, duties, or powers conferred by or under this Act shall be under any civil or criminal liability in respect of the act, whether on the grounds of want of jurisdiction, or mistake of law or fact, or on any other ground unless he or she has acted in bad faith or without reasonable care.
 
 ### 20 Saving of powers to make bylaws
-Nothing in this Part of this Act shall limit or affect the powers of a local authority under section 145(b) of the Local Government Act 2002, to make bylaws providing greater protection from tobacco smoke than is provided by this Part of this Act.
+Nothing in this Part shall limit or affect the powers of a local authority under section 145(b) of the Local Government Act 2002, to make bylaws providing greater protection from tobacco smoke than is provided by this Part.
 
 ### 20A Health and Safety in Employment Act 1992 not affected
 Nothing in this Part, and no steps taken in compliance or purported compliance with this Part, limits or affects—
@@ -399,47 +392,47 @@ Nothing in this Part, and no steps taken in compliance or purported compliance w
 
 ### 21 Purpose of this Part
 The purpose of this Part is—
-  (a) To reduce the social approval of tobacco use, particularly among young people, by—
-    (i) Imposing controls on the marketing, advertising, or promotion of tobacco products and their association through sponsorship with other products and events; and
-    (ii) Requiring health messages and other information to be displayed on, or included with, packages containing tobacco products, and on automatic vending machines; and
+  (a) to reduce the social approval of tobacco use, particularly among young people, by—
+    (i) imposing controls on the marketing, advertising, or promotion of tobacco products and their association through sponsorship with other products and events; and
+    (ii) requiring health messages and other information to be displayed on, or included with, packages containing tobacco products, and on automatic vending machines; and
     (iii) prohibiting the sale of toy tobacco products to people younger than 18 years; and
-  (b) To reduce some of the harmful effects of tobacco products on the health of users by monitoring and regulating the presence of harmful substances in the products and in tobacco smoke; and
-  (c) To facilitate the harmonisation of the laws of New Zealand and Australia relating to the labelling of tobacco products (including, without limitation, requirements relating to the display of health messages).
+  (b) to reduce some of the harmful effects of tobacco products on the health of users by monitoring and regulating the presence of harmful substances in the products and in tobacco smoke; and
+  (c) to facilitate the harmonisation of the laws of New Zealand and Australia relating to the labelling of tobacco products (including, without limitation, requirements relating to the display of health messages).
 
 **Promotion and advertising**
 
 ### 22 Advertising of tobacco products
-(1) Subject to the succeeding provisions of this section and to section 23 of this Act, no person shall publish, or arrange for any other person to publish, any tobacco product advertisement in New Zealand.
-(2) Nothing in subsection (1) of this section shall apply to any price list given to retailers of tobacco products if the price list includes the health messages required by or under this Part of this Act.
-(3) Nothing in subsection (1) of this section shall apply to any advertisement included in any book, magazine, or newspaper printed outside New Zealand, or in any radio or television transmission originating outside New Zealand, or in any film or video recording made outside New Zealand, unless—
-  (a) The principal purpose of the book, magazine, newspaper, transmission, film, or video recording is the promotion of the use of tobacco products; or
-  (b) The book, magazine, newspaper, film, or video recording is intended for sale, distribution, or exhibition primarily in New Zealand; or
-  (c) In the case of an advertisement in any radio or television transmission, the advertisement is targeted primarily at a New Zealand audience.
-(4) Nothing in subsection (1) of this section shall apply to the publication by a tobacco products manufacturer of a tobacco product advertisement in a magazine that is intended for distribution only to employees of the manufacturer.
-(5) Nothing in subsection (1) of this section shall apply to—
-  (a) The exhibition, in any museum or art gallery, of any work or artifact:
-  (b) The dissemination, broadcasting, or exhibition of any film, video recording, or sound recording, where—
-    (i) That film, video recording, or sound recording was made before the 16th day of December 1990; and
-    (ii) The tobacco product advertisement included in that film, video recording, or sound recording is in the form of a reference to, or a depiction of, a tobacco product trade mark that is only an incidental part of that film, video recording, or sound recording.
+(1) Subject to the succeeding provisions of this section and to section 23, no person shall publish, or arrange for any other person to publish, any tobacco product advertisement in New Zealand.
+(2) Nothing in subsection (1) shall apply to any price list given to retailers of tobacco products if the price list includes the health messages required by or under this Part.
+(3) Nothing in subsection (1) shall apply to any advertisement included in any book, magazine, or newspaper printed outside New Zealand, or in any radio or television transmission originating outside New Zealand, or in any film or video recording made outside New Zealand, unless—
+  (a) the principal purpose of the book, magazine, newspaper, transmission, film, or video recording is the promotion of the use of tobacco products; or
+  (b) the book, magazine, newspaper, film, or video recording is intended for sale, distribution, or exhibition primarily in New Zealand; or
+  (c) in the case of an advertisement in any radio or television transmission, the advertisement is targeted primarily at a New Zealand audience.
+(4) Nothing in subsection (1) shall apply to the publication by a tobacco products manufacturer of a tobacco product advertisement in a magazine that is intended for distribution only to employees of the manufacturer.
+(5) Nothing in subsection (1) shall apply to—
+  (a) the exhibition, in any museum or art gallery, of any work or artifact:
+  (b) the dissemination, broadcasting, or exhibition of any film, video recording, or sound recording, where—
+    (i) that film, video recording, or sound recording was made before 16 December 1990; and
+    (ii) the tobacco product advertisement included in that film, video recording, or sound recording is in the form of a reference to, or a depiction of, a tobacco product trade mark that is only an incidental part of that film, video recording, or sound recording.
 
 ### 23 Exemptions for retailers and vending machines
 (1) Notwithstanding anything in section 22, a retailer of tobacco products may do either or both of the following things:
   (a)
-  (b) Subject to subsections (3) and (4), display, inside that retailer's place of business, any notice identifying the tobacco products that are available for purchase in that place and indicating their price:
-  (c) Display the retailer's name or trade name on the exterior of the retailer's place of business, in accordance with regulations made under this Part, even though the name contains any word or expression signifying that any tobacco product is available in that place for purchase, so long as the name does not include the trade mark of a tobacco product or the company name of a tobacco products manufacturer.
+  (b) subject to subsections (3) and (4), display, inside that retailer's place of business, any notice identifying the tobacco products that are available for purchase in that place and indicating their price:
+  (c) display the retailer's name or trade name on the exterior of the retailer's place of business, in accordance with regulations made under this Part, even though the name contains any word or expression signifying that any tobacco product is available in that place for purchase, so long as the name does not include the trade mark of a tobacco product or the company name of a tobacco products manufacturer.
 (2) Subject to subsections (3) and (4), any person who offers for sale, by way of an automatic vending machine, any tobacco product may display, on the exterior of the vending machine, any notice identifying that tobacco product and indicating its price.
 (3) Every notice to which subsection (1)(b) or subsection (2) applies must comply with the following requirements:
-  (a) The notice must be no larger than 90mm by 55mm:
-  (b) The background of the notice must be white, and all words, figures, or other material appearing on the notice must be black:
-  (c) No material other than the following may appear on the notice:
-    (i) The name of the tobacco product (which may consist of or include a brand or brand variant):
-    (ii) Any logo, design, or similar device that is usually associated with that tobacco product:
-    (iii) A depiction of the package in which the tobacco product is customarily sold:
-    (iv) The quantity in which the tobacco product is sold (whether by weight or number):
-    (v) The price of the tobacco product.
-(4) The combined area of all notices to which subsection (3) applies and that are displayed—must not exceed, in total, 21cm by 29.7cm.
-  (a) Inside a retailer's place of business; or
-  (b) On the exterior of an automatic vending machine—
+  (a) the notice must be no larger than 90 mm by 55 mm:
+  (b) the background of the notice must be white, and all words, figures, or other material appearing on the notice must be black:
+  (c) no material other than the following may appear on the notice:
+    (i) the name of the tobacco product (which may consist of or include a brand or brand variant):
+    (ii) any logo, design, or similar device that is usually associated with that tobacco product:
+    (iii) a depiction of the package in which the tobacco product is customarily sold:
+    (iv) the quantity in which the tobacco product is sold (whether by weight or number):
+    (v) the price of the tobacco product.
+(4) The combined area of all notices to which subsection (3) applies and that are displayed—must not exceed, in total, 21 cm by 29.7 cm.
+  (a) inside a retailer's place of business; or
+  (b) on the exterior of an automatic vending machine—
 
 ### 23A Compliant product display
 (1) A retailer of tobacco products must not expose a tobacco product for sale inside the retailer's place of business unless its exposure—
@@ -456,22 +449,22 @@ The purpose of this Part is—
   (h) no tobacco carton with a face that has an area greater than 266 cm2 is exposed for sale; and
   (i) either—
     (i) no tobacco product is exposed for sale within 1 metre of any children's product exposed for sale; or
-    (ii) if, because of the size of the place, it is not reasonably practicable to keep all tobacco products exposed for sale at least I metre from any children's product exposed for sale, the retailer has taken all reasonably practicable steps to ensure that every tobacco product exposed for sale that is within 1 metre of any children's product exposed for sale is as far away from the children's product as possible; and
+    (ii) if, because of the size of the place, it is not reasonably practicable to keep all tobacco products exposed for sale at least 1 metre from any children's product exposed for sale, the retailer has taken all reasonably practicable steps to ensure that every tobacco product exposed for sale that is within 1 metre of any children's product exposed for sale is as far away from the children's product as possible; and
   (j) no tobacco product is exposed for sale on any counter top or similar surface; and
-  (k) there is displayed at each point of sale where tobacco products are exposed for sale a rectangular sign, with its longer sides horizontal and its shorter sides vertical, and the message SMOKING KILLS Ka mate koe i to kai hikareti printed in black across it—
+  (k) there is displayed at each point of sale where tobacco products are exposed for sale a rectangular sign, with its longer sides horizontal and its shorter sides vertical, and the message SMOKING KILLS Ka mate koe i te kai hikareti printed in black across it—
     (i) within a black rectangular border that is no wider than an upper case letter i in the point size used for the words SMOKING KILLS; and
     (ii) on a white background within that border; and
     (iii) in the type face known as Helvetica; and
     (iv) in roman font; and
-    (v) with the words SMOKING KILLS printed centred, in upper case letters, in one line; and
-    (vi) with the words Ka mate koe i to kai hikareti printed centred, in upper case and lower case letters (as it is printed in this subparagraph) in one line—
+    (v) with the words SMOKING KILLS printed centred, in upper case letters, in 1 line; and
+    (vi) with the words Ka mate koe i te kai hikareti printed centred, in upper case and lower case letters (as it is printed in this subparagraph) in 1 line—
       (A) beneath the words SMOKING KILLS; and
       (B) in a point size such that its risers are two-thirds the height of the words SMOKING KILLS; and
-    (vii) in a type that is clear and legible, of normal weight, and of such a point size that the words Ka mate koe i to kai hikareti do not touch the vertical elements of the border, but as nearly as possible take up the full width of the sign between them.
+    (vii) in a type that is clear and legible, of normal weight, and of such a point size that the words Ka mate koe i te kai hikareti do not touch the vertical elements of the border, but as nearly as possible take up the full width of the sign between them.
 (3) The sign must have at least the lesser of the following areas:
   (a) 1 square metre:
   (b) 10% of the area of the display in which the tobacco products are exposed for sale.
-(4) The sign may include the attribution Ministry of Health Warning, printed centred, in one line beneath the words Ka mate koe i to kai hikareti,—
+(4) The sign may include the attribution Ministry of Health Warning, printed centred, in 1 line beneath the words Ka mate koe i te kai hikareti,—
   (a) in upper case and lower case letters (as it is set out above); and
   (b) in an italic font in the type face known as Helvetica; and
   (c) in a point size such that its risers are no more than half the height of the words SMOKING KILLS; and
@@ -491,88 +484,88 @@ The purpose of this Part is—
   (b) a tobacco package or tobacco carton is exposed for sale inside a retailer's place of business if it is for sale, and any part of it is visible—
     (i) from outside the place; or
     (ii) from an area inside the place to which members of the public are allowed access.
-(2) In determining for the purposes of section 23(1) in a visible stack are exposed for sale, the front package must be counted; but
+(2) In determining for the purposes of section 23(1) how many tobacco packages in a visible stack are exposed for sale, the front package must be counted; but
   (a) if there are 4 or fewer other packages behind it that are exposed for sale, the other packages must not be counted; and
   (b) if there are 5 or more other packages behind it that are exposed for sale, the first 4 of the other packages must not be counted.
 
 ### 24 Use of trade marks, etc, on goods other than tobacco products, or in relation to sponsored events
 (1) No person shall use, otherwise than in a private capacity, a tobacco product trade mark—even though that person would be, but for this Act, entitled to use the trade mark on that article or for that purpose.
-  (a) On any article other than a tobacco product or a package or container in which a tobacco product is sold or shipped; or
-  (b) For the purpose of advertising or identifying to the public—
-    (i) Any article other than a tobacco product; or
-    (ii) Any service, activity, or event; or
-    (iii) Any scholarship, fellowship, or other educational benefit,—
+  (a) on any article other than a tobacco product or a package or container in which a tobacco product is sold or shipped; or
+  (b) for the purpose of advertising or identifying to the public—
+    (i) any article other than a tobacco product; or
+    (ii) any service, activity, or event; or
+    (iii) any scholarship, fellowship, or other educational benefit,—
 (2) Where a trade mark includes the company name, or part of the company name, of a manufacturer, importer, or distributor in New Zealand of any tobacco product, no person shall, otherwise than in a private capacity, use that company name for the purpose of advertising or identifying to the public—even though that person would be, but for this Act, entitled to use that trade mark or company name for that purpose.
-  (a) Any article other than a tobacco product; or
-  (b) Any service, activity, or event; or
-  (c) Any scholarship, fellowship, or other educational benefit,—
+  (a) any article other than a tobacco product; or
+  (b) any service, activity, or event; or
+  (c) any scholarship, fellowship, or other educational benefit,—
 (3) No person shall distribute, sell, or offer or expose for sale any article, other than a tobacco product or a package or container in which a tobacco product is sold or shipped, that bears a trade mark of a tobacco product that is sold in New Zealand.
-(4) Nothing in subsections (1) to (3) of this section shall apply to a trade mark or company name that, during the year ending with the 31st day of March 1990, was applied to tobacco products and other articles sold at retail in New Zealand if the estimated retail value of those other articles sold during that year exceeded one-quarter of the estimated retail value of those tobacco products sold during that year.
-(5) Nothing in subsections (1) to (3) of this section shall apply to the use, by any person (other than a manufacturer, an importer, a distributor, or a retailer of any tobacco products, or a person acting on behalf of any such manufacturer, importer, distributor, or retailer), of a trade mark or company name for any purpose (other than for application to, or for use in connection with, tobacco products or smoking accessories) if the trade mark or company name—
-  (a) Was in use in New Zealand for that purpose before the 17th day of May 1990; or
-  (b) Was in use for that purpose at any time before that trade mark or company name was first used, in New Zealand, for application to, or in connection with, any tobacco product or smoking accessory.
+(4) Nothing in subsections (1) to (3) shall apply to a trade mark or company name that, during the year ending with 31 March 1990, was applied to tobacco products and other articles sold at retail in New Zealand if the estimated retail value of those other articles sold during that year exceeded one-quarter of the estimated retail value of those tobacco products sold during that year.
+(5) Nothing in subsections (1) to (3) shall apply to the use, by any person (other than a manufacturer, an importer, a distributor, or a retailer of any tobacco products, or a person acting on behalf of any such manufacturer, importer, distributor, or retailer), of a trade mark or company name for any purpose (other than for application to, or for use in connection with, tobacco products or smoking accessories) if the trade mark or company name—
+  (a) was in use in New Zealand for that purpose before 17 May 1990; or
+  (b) was in use for that purpose at any time before that trade mark or company name was first used, in New Zealand, for application to, or in connection with, any tobacco product or smoking accessory.
 
 ### 25 Organising or promoting activity using trade mark, etc, of tobacco products
 No manufacturer, importer, distributor, or retailer of tobacco products shall—where that organised activity involves the use, in the name of that activity, or on any article other than a tobacco product, of a tobacco product trade mark, or of a company name or any part of a company name included in that tobacco product trade mark.
-  (a) Organise or promote any organised activity that is to take place, in whole or in part, in New Zealand; or
-  (b) Make any financial contribution towards any organised activity that is to take place, or is taking place, or has taken place, in whole or in part, in New Zealand; or
-  (c) Make any financial contribution to any person in respect of—any organised activity that is to take place, or is taking place, or has taken place, in whole or in part, in New Zealand—
-    (i) The organisation or promotion, by that person, of; or
-    (ii) The participation, by the person, in—
+  (a) organise or promote any organised activity that is to take place, in whole or in part, in New Zealand; or
+  (b) make any financial contribution towards any organised activity that is to take place, or is taking place, or has taken place, in whole or in part, in New Zealand; or
+  (c) make any financial contribution to any person in respect of—any organised activity that is to take place, or is taking place, or has taken place, in whole or in part, in New Zealand—
+    (i) the organisation or promotion, by that person, of; or
+    (ii) the participation, by the person, in—
 
 ### 26 Exemptions for participants in certain events
-(1) Nothing in section 22 or section 24 or section 25 of this Act shall apply to the display, on any craft, of any tobacco product trade mark or the company name of any tobacco products manufacturer, where—
-  (a) That craft is participating in an international race; and
-  (b) The tobacco products manufacturer who manufactures that tobacco product, or whose company name is so displayed, is sponsoring, in whole or in part, the participation of that craft in that race; and
+(1) Nothing in section 22 or section 24 or section 25 shall apply to the display, on any craft, of any tobacco product trade mark or the company name of any tobacco products manufacturer, where—
+  (a) that craft is participating in an international race; and
+  (b) the tobacco products manufacturer who manufactures that tobacco product, or whose company name is so displayed, is sponsoring, in whole or in part, the participation of that craft in that race; and
   (c) New Zealand is a port of call for that race.
-(2) Notwithstanding anything in section 22 or section 24 or section 25 of this Act, the Minister may, by notice in writing, grant an exemption from any of the provisions of those sections in respect of the promotion of any international craft race where New Zealand is a port of call for that race.
-(3) Notwithstanding anything in section 22 or section 24 or section 25 of this Act, where—the Minister may, by notice in writing, grant an exemption from any of those sections in respect of any participant in that competition (not being a participant who is a New Zealand resident) for the purpose of allowing that participant to fulfil any obligation imposed on that participant to acknowledge any sponsor (being an obligation incurred before that participant submitted that person's entry for that competition).
-  (a) The Minister is satisfied that any competition is of international significance; and
-  (b) Any part of that competition is to take place in New Zealand,—
-(4) The Minister may grant an exemption under subsection (2) or subsection (3) of this section either unconditionally or subject to such conditions as the Minister thinks fit.
-(5) The Minister may from time to time, by notice in writing to the person to whom any exemption is granted under subsection (2) or subsection (3) of this section, amend or revoke that exemption.
+(2) Notwithstanding anything in section 22 or section 24 or section 25, the Minister may, by notice in writing, grant an exemption from any of the provisions of those sections in respect of the promotion of any international craft race where New Zealand is a port of call for that race.
+(3) Notwithstanding anything in section 22 or section 24 or section 25, where—the Minister may, by notice in writing, grant an exemption from any of those sections in respect of any participant in that competition (not being a participant who is a New Zealand resident) for the purpose of allowing that participant to fulfil any obligation imposed on that participant to acknowledge any sponsor (being an obligation incurred before that participant submitted that person's entry for that competition).
+  (a) the Minister is satisfied that any competition is of international significance; and
+  (b) any part of that competition is to take place in New Zealand,—
+(4) The Minister may grant an exemption under subsection (2) or subsection (3) either unconditionally or subject to such conditions as the Minister thinks fit.
+(5) The Minister may from time to time, by notice in writing to the person to whom any exemption is granted under subsection (2) or subsection (3), amend or revoke that exemption.
 
 ### 26A Exemption for multinational sporting events
 (1) In this section, multinational sporting event means any sporting event, or any series of sporting events,—
-  (a) In which 3 or more countries are, or will be, represented; and
-  (b) That is being held, or will be held, in 2 or more countries, including New Zealand.
-(2) Notwithstanding anything in section 22 or section 24 or section 25 of this Act, the Minister may, by notice in writing, grant an exemption from any of the provisions of those sections in respect of—
-  (a) The use, in the name of a multinational sporting event, of—
-    (i) A tobacco product trade mark; or
-    (ii) A company name, or any part of a company name, of any manufacturer, importer, or distributor of tobacco products; or
-  (b) The advertisement of—
-    (i) A multinational sporting event; or
-    (ii) The fact that a multinational sporting event is organised or promoted or sponsored, in whole or in part, by any manufacturer, importer, or distributor of tobacco products; or
-  (c) The use, on any article, of—for the purpose of advertising or promoting or identifying to the public—
-    (i) A tobacco product trade mark; or
-    (ii) A company name, or any part of a company name, of any manufacturer, importer, or distributor of tobacco products—
-    (iii) A multinational sporting event; or
-    (iv) The fact that a multinational sporting event is organised or promoted or sponsored, in whole or in part, by any manufacturer, importer, or distributor of tobacco products.
-(3) The Minister may grant an exemption under subsection (2) of this section either unconditionally or subject to such conditions as the Minister thinks fit.
+  (a) in which 3 or more countries are, or will be, represented; and
+  (b) that is being held, or will be held, in 2 or more countries, including New Zealand.
+(2) Notwithstanding anything in section 22 or section 24 or section 25, the Minister may, by notice in writing, grant an exemption from any of the provisions of those sections in respect of—
+  (a) the use, in the name of a multinational sporting event, of—
+    (i) a tobacco product trade mark; or
+    (ii) a company name, or any part of a company name, of any manufacturer, importer, or distributor of tobacco products; or
+  (b) the advertisement of—
+    (i) a multinational sporting event; or
+    (ii) the fact that a multinational sporting event is organised or promoted or sponsored, in whole or in part, by any manufacturer, importer, or distributor of tobacco products; or
+  (c) the use, on any article, of—for the purpose of advertising or promoting or identifying to the public—
+    (i) a tobacco product trade mark; or
+    (ii) a company name, or any part of a company name, of any manufacturer, importer, or distributor of tobacco products—
+    (iii) a multinational sporting event; or
+    (iv) the fact that a multinational sporting event is organised or promoted or sponsored, in whole or in part, by any manufacturer, importer, or distributor of tobacco products.
+(3) The Minister may grant an exemption under subsection (2) either unconditionally or subject to such conditions as the Minister thinks fit.
 
 ### 27 Exemption for craft in emergencies
-Where any craft on which is displayed any tobacco product trade mark or the company name of any tobacco products manufacturer is compelled, for reasons of health or safety, or for the preservation of life or property, to enter New Zealand, nothing in section 22 or section 24 or section 25 of this Act shall apply to the display, on that craft, of that tobacco product trade mark or that company name for as long as that craft is in New Zealand for any of those reasons.
+Where any craft on which is displayed any tobacco product trade mark or the company name of any tobacco products manufacturer is compelled, for reasons of health or safety, or for the preservation of life or property, to enter New Zealand, nothing in section 22 or section 24 or section 25 shall apply to the display, on that craft, of that tobacco product trade mark or that company name for as long as that craft is in New Zealand for any of those reasons.
 
 ### 28 Free distribution and rewards prohibited
 (1) No manufacturer, distributor, importer, or retailer of tobacco products may,—free of charge, or at a reduced charge.
-  (a) Distribute any tobacco product; or
-  (b) Supply any tobacco product to any person for subsequent distribution; or
-  (c) In the case of a retailer, supply any tobacco product to any person for the purpose of that retailer's business—
+  (a) distribute any tobacco product; or
+  (b) supply any tobacco product to any person for subsequent distribution; or
+  (c) in the case of a retailer, supply any tobacco product to any person for the purpose of that retailer's business—
 (1A) For the purposes of subsection (1), a tobacco product is distributed or supplied at a reduced charge—
   (a) if the charge for the product itself is reduced; or
   (b) if—
     (i) the product is distributed or supplied at a charge that is not or purports not to be reduced; but
     (ii) some other item is supplied, free or at a reduced charge, together with the product.
 (2) No person may—
-  (a) Offer any gift or cash rebate, or the right to participate in any contest, lottery, or game, to the purchaser of a tobacco product in consideration for the purchase of that product, or to any person in consideration for the provision of evidence of such a purchase; or
-  (b) Offer, to any retailer, any gift or cash rebate, or the right to participate in any contest, lottery, or game, as an inducement or reward in relation to—
-    (i) The purchase or sale of tobacco products by that retailer; or
-    (ii) The advertising of tobacco products inside that retailer's place of business; or
-    (iii) The location of tobacco products in a particular part of that retailer's place of business.
+  (a) offer any gift or cash rebate, or the right to participate in any contest, lottery, or game, to the purchaser of a tobacco product in consideration for the purchase of that product, or to any person in consideration for the provision of evidence of such a purchase; or
+  (b) offer, to any retailer, any gift or cash rebate, or the right to participate in any contest, lottery, or game, as an inducement or reward in relation to—
+    (i) the purchase or sale of tobacco products by that retailer; or
+    (ii) the advertising of tobacco products inside that retailer's place of business; or
+    (iii) the location of tobacco products in a particular part of that retailer's place of business.
 (3)
 (4) Nothing in subsection (2) applies in respect of any payment or reward to any person who,—purchases or attempts to purchase any tobacco product.
-  (a) With the authority of the Director-General or of some other person authorised for that purpose by the Director-General; and
-  (b) For the purpose of monitoring compliance with the provisions of this Part,—
+  (a) with the authority of the Director-General or of some other person authorised for that purpose by the Director-General; and
+  (b) for the purpose of monitoring compliance with the provisions of this Part,—
 
 ### 29 Tobacco product not to be advertised or labelled as suitable for chewing, etc
 (1) No person shall publish an advertisement for a tobacco product that directly or indirectly states or suggests that the product is suitable for chewing or for any other oral use (other than smoking).
@@ -641,23 +634,23 @@ Where any craft on which is displayed any tobacco product trade mark or the comp
 
 ### 30A Restrictions on sale of certain tobacco products in small quantities
 (1) In this section and section 36(7A), unless the context otherwise requires,—
-  - **Cigarette** includes the tobacco product commonly known as a cigarillo
-  - **Loose cigarettes** means cigarettes that are not contained in a package
-  - **Loose tobacco** means—
-    (a) Tobacco prepared for smoking in hand-rolled cigarettes:
-    (b) Pipe tobacco.
+  - **cigarette** includes the tobacco product commonly known as a cigarillo
+  - **loose cigarettes** means cigarettes that are not contained in a package
+  - **loose tobacco** means—
+    (a) tobacco prepared for smoking in hand-rolled cigarettes:
+    (b) pipe tobacco.
 (2) No person may—loose cigarettes in amounts of fewer than 20 cigarettes.
-  (a) Sell by retail; or
-  (b) Offer for sale by retail—
+  (a) sell by retail; or
+  (b) offer for sale by retail—
 (3) No manufacturer, importer, distributor, or retailer may sell or offer for sale—
-  (a) Cigarettes in a package that contains fewer than 20 cigarettes; or
-  (b) Loose tobacco in a package that contains less than 30 grams of loose tobacco.
+  (a) cigarettes in a package that contains fewer than 20 cigarettes; or
+  (b) loose tobacco in a package that contains less than 30 grams of loose tobacco.
 (4) Nothing in subsection (2) or subsection (3)(a) applies in respect of cigars (other than cigarillos).
 
 ### 31 Limits on harmful constituents
-No manufacturer or importer may offer for sale or export any tobacco product or herbal smoking product that
-  (a) Contains, or generates in its smoke, a harmful constituent prohibited by regulations made under this Part; or
-  (b) Contains, or generates in its smoke, harmful constituents in excess of the limits prescribed by regulations made under this Part, as determined in accordance with any tests so prescribed.
+No manufacturer or importer may offer for sale or export any tobacco product or herbal smoking product that—
+  (a) contains, or generates in its smoke, a harmful constituent prohibited by regulations made under this Part; or
+  (b) contains, or generates in its smoke, harmful constituents in excess of the limits prescribed by regulations made under this Part, as determined in accordance with any tests so prescribed.
 
 ### 32 Labelling and health messages for tobacco products
 (1) A manufacturer, importer, distributor, or retailer must not sell a tobacco product or offer a tobacco product for sale unless—
@@ -690,35 +683,6 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 (2) In subsection (1), harmful constituent means a substance declared by the regulations to be a harmful constituent for the purposes of that subsection.
 (3) A person who sells a herbal smoking product from an automatic vending machine that can be seen from a place to which members of the public have access must display on the machine, in accordance with regulations under this Act, any health message required by or under this Act (even if the machine is accessible only by the person or his or her employees or agents).
 (4) Subsection (3) does not authorise or excuse a contravention of section 29B.
-
-**Code of practice relating to tobacco product advertising**
-
-### 32A Code of practice relating to tobacco product advertising
-[Repealed]
-
-### 32B Code to be approved by Minister
-[Repealed]
-
-### 32C Availability of code
-[Repealed]
-
-### 32D Commencement of code
-[Repealed]
-
-### 32E Proof of code
-[Repealed]
-
-### 32F Code deemed to be regulations for purposes of disallowance
-[Repealed]
-
-### 32G Amendment and revocation of code
-[Repealed]
-
-### 32H Regulations may require compliance with code
-[Repealed]
-
-### 32I Expiry of sections 32A to 32H
-[Repealed]
 
 **Testing, reports, and returns**
 
@@ -754,23 +718,23 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 **Offences**
 
 ### 36 Offences in respect of smoking products
-(1) Every person who, without reasonable excuse, publishes any advertisement for a tobacco product in contravention of section 22 of this Act commits an offence and is liable,—
-  (a) In the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
-  (b) In any other case, to a fine not exceeding $10,000.
+(1) Every person who, without reasonable excuse, publishes any advertisement for a tobacco product in contravention of section 22 commits an offence and is liable,—
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
+  (b) in any other case, to a fine not exceeding $10,000.
 (1A) A retailer of tobacco products who, without reasonable excuse, exposes a tobacco product for sale inside the retailer's place of business otherwise than in compliance with section 23A commits an offence and is liable to a fine not exceeding $10,000.
-(2) Every person who, without reasonable excuse, uses any trade mark or company name in contravention of subsection (1) or subsection (2) of section 24 of this Act, or who distributes, sells, or offers or exposes for sale any article in contravention of subsection (3) of that section commits an offence and is liable,—
-  (a) In the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
-  (b) In any other case, to a fine not exceeding $10,000.
-(3) Every manufacturer, importer, distributor, or retailer of tobacco products who, in contravention of section 25 of this Act, organises or promotes any organised activity, or makes any financial contribution towards any organised activity, or makes any financial contribution to any other person in respect of the organisation or promotion, by that other person, of, or the participation, by that other person, in, any organised activity, commits an offence and is liable,—
-  (a) In the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
-  (b) In any other case, to a fine not exceeding $10,000.
-(4) Every manufacturer, distributor, importer, or retailer of tobacco products who distributes or supplies any tobacco product in contravention of section 28(1) of this Act commits an offence and is liable to a fine not exceeding $50,000.
+(2) Every person who, without reasonable excuse, uses any trade mark or company name in contravention of subsection (1) or subsection (2) of section 24, or who distributes, sells, or offers or exposes for sale any article in contravention of subsection (3) of that section commits an offence and is liable,—
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
+  (b) in any other case, to a fine not exceeding $10,000.
+(3) Every manufacturer, importer, distributor, or retailer of tobacco products who, in contravention of section 25, organises or promotes any organised activity, or makes any financial contribution towards any organised activity, or makes any financial contribution to any other person in respect of the organisation or promotion, by that other person, of, or the participation, by that other person, in, any organised activity, commits an offence and is liable,—
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $50,000; or
+  (b) in any other case, to a fine not exceeding $10,000.
+(4) Every manufacturer, distributor, importer, or retailer of tobacco products who distributes or supplies any tobacco product in contravention of section 28(1) commits an offence and is liable to a fine not exceeding $50,000.
 (4A) It is a defence to a charge in respect of a contravention of section 28(1) if the person charged proves that he or she was merely giving a normal trade discount or normal trade rebate.
-(5) Every person who offers any gift, cash rebate, or right of participation in contravention of section 28(2) of this Act, or who publishes any advertisement in contravention of section 29(1) of this Act, or who imports, sells, packs, or distributes any tobacco product in contravention of section 29(2) of this Act, commits an offence and is liable,—
-  (a) In the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
-  (b) In any other case, to a fine not exceeding $5,000.
+(5) Every person who offers any gift, cash rebate, or right of participation in contravention of section 28(2), or who publishes any advertisement in contravention of section 29(1), or who imports, sells, packs, or distributes any tobacco product in contravention of section 29(2), commits an offence and is liable,—
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
+  (b) in any other case, to a fine not exceeding $5,000.
 (5A) Every person who, in contravention of section 29A(2), distributes a tobacco product to which section 29A(1) applies, or supplies a tobacco product to which section 29A(1) applies to another person for later distribution, or, in the case of a retailer, supplies a tobacco product to which section 29A(1) applies to another person for the purpose of that retailer's business commits an offence, and is liable,—
-  (a) in the case of a manufacturer, an importer, or, a distributor, to a fine not exceeding $10,000; and
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; and
   (b) in any other case, to a fine not exceeding $5,000.
 (5B) Every person commits an offence and is liable to a fine not exceeding $2,000 who, in contravention of section 29B,—
   (a) permits an automatic vending machine that dispenses or is capable of dispensing tobacco products or herbal smoking products to be located in a place to which members of the public have access; or
@@ -783,27 +747,27 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
   (a) in the case of a person who is a body corporate, to a fine not exceeding $10,000; and
   (b) in the case of a person who is a not a body corporate, to a fine not exceeding $4,000.
 (7A) Every person commits an offence and is liable to a fine not exceeding $2,000 who,—
-  (a) Sells or offers for sale any cigarettes in contravention of section 30A(2); or
-  (b) Being a manufacturer, importer, distributor, or retailer, sells or offers for sale any cigarettes or tobacco in contravention of section 30A(3).
+  (a) sells or offers for sale any cigarettes in contravention of section 30A(2); or
+  (b) being a manufacturer, importer, distributor, or retailer, sells or offers for sale any cigarettes or tobacco in contravention of section 30A(3).
 (8) Every person commits an offence and is liable to a fine not exceeding $10,000 who, being a manufacturer or importer, offers for sale or export any tobacco product that—
-  (a) Contains, or generates in its smoke, any harmful constituent prohibited by regulations made under this Part for the purposes of section 31(a); or
-  (b) Contains, or generates in its smoke, any harmful constituent in excess of the level permitted by regulations made under this Part for the purposes of section 31B(b), as determined in accordance with any tests so prescribed.
-(9) Every manufacturer, importer, distributor, or retailer of tobacco products who sells or offers for sale any tobacco product knowing that it contravenes section 32(1) of this Act commits an offence and is liable,—
-  (a) In the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
-  (b) In the case of a retailer, to a fine not exceeding $4,000.
+  (a) contains, or generates in its smoke, any harmful constituent prohibited by regulations made under this Part for the purposes of section 31(a); or
+  (b) contains, or generates in its smoke, any harmful constituent in excess of the level permitted by regulations made under this Part for the purposes of section 31(b), as determined in accordance with any tests so prescribed.
+(9) Every manufacturer, importer, distributor, or retailer of tobacco products who sells or offers for sale any tobacco product knowing that it contravenes section 32(1) commits an offence and is liable,—
+  (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; or
+  (b) in the case of a retailer, to a fine not exceeding $4,000.
 (9A) Every manufacturer, importer, distributor, or retailer of herbal smoking products who sells or offers for sale a herbal smoking product knowing that it contravenes section 32AA(1) commits an offence and is liable,—
   (a) in the case of a manufacturer, an importer, or a distributor, to a fine not exceeding $10,000; and
   (b) in the case of a retailer, to a fine not exceeding $4,000.
 (10) Every person who offers for sale, by way of an automatic vending machine, any tobacco product and who, in contravention of section 32(3) or section 32AA(3), fails, without reasonable excuse, to display on that vending machine such health message as is required by or under this Act commits an offence and is liable to a fine not exceeding $4,000.
 (11) Every manufacturer or importer of tobacco products who fails, without reasonable excuse,—commits an offence and is liable to a fine not exceeding $10,000.
-  (a) To conduct any test required by section 33(2) of this Act; or
-  (b) To conduct any further test required under section 34 of this Act; or
-  (c) To submit any return required by section 35(1)(a) of this Act; or
-  (d) To submit any report required by section 35(1)(b) of this Act,—
+  (a) to conduct any test required by section 33(2); or
+  (b) to conduct any further test required under section 34; or
+  (c) to submit any return required by section 35(1)(a); or
+  (d) to submit any report required by section 35(1)(b),—
 
 ### 36A Toy tobacco products
 (1) No person may sell a toy tobacco product to a person younger than 18 years.
-(2) Every person who sells a toy tobacco product to a person younger than 18 years in contravention of subsection (1) commits an offence, and is liable to a fine not exceeding $2000.
+(2) Every person who sells a toy tobacco product to a person younger than 18 years in contravention of subsection (1) commits an offence, and is liable to a fine not exceeding $2,000.
 (3) It is a defence to a charge in respect of a contravention of subsection (1) if the person charged proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
 (4) For the purposes of subsection (3), a person charged in respect of a contravention of subsection (1) who proves that he or she sighted an evidence of age document (within the meaning of section 2A of the Sale of Liquor Act 1989) of the person to whom the product concerned was sold, indicating that the person was of or over the age of 18 years, proves that the contravention occurred without his or her knowledge and that he or she took reasonable precautions and exercised due diligence to prevent the contravention of that subsection.
 (5) Subsection (4) does not affect the generality of subsection (3).
@@ -812,9 +776,9 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
   (b) that the person charged believed on reasonable grounds that the person to whom the product concerned was sold was buying it for or on behalf of, or as agent for, a person of or over the age of 18 years.
 
 ### 37 Enforcement
-(1) It shall be the duty of the Director-General to enforce the provisions of this Part of this Act.
-(2) No prosecution for an offence against any provision of this Part of this Act shall be commenced except on the information of the Director-General or of some other person authorised for that purpose by the Director-General.
-(3) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against any provision of this Part of this Act may be laid at any time within 1 year after the time when the matter of the information arose.
+(1) It shall be the duty of the Director-General to enforce the provisions of this Part.
+(2) No prosecution for an offence against any provision of this Part shall be commenced except on the information of the Director-General or of some other person authorised for that purpose by the Director-General.
+(3) Notwithstanding anything in section 14 of the Summary Proceedings Act 1957, any information in respect of any offence against any provision of this Part may be laid at any time within 1 year after the time when the matter of the information arose.
 
 ### 38 Liability of employees, employers, agents, and principals
 (1) For the purposes of this Part, every person is deemed to publish a tobacco product advertisement, whether he or she does so on his or her own account or as the agent or employee of any other person.
@@ -825,18 +789,19 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
 
 ### 39 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing forms, certificates, notices, leaflets, signs, particulars, and notifications, and the persons by whom and the persons to whom any such forms, certificates, notices, leaflets, signs, particulars, and notifications are to be supplied:
-  (b) Prescribing records and registers for the purposes of this Part of this Act; prescribing the manner in which and the period during which any such records and registers are to be kept; and prescribing the persons to whom, and the conditions on which, any such records and registers may be available for searching, inspection, and copying:
-  (c) Prescribing the form and manner in which tobacco products may be identified and depicted on the exterior of vending machines:
+  (a) prescribing forms, certificates, notices, leaflets, signs, particulars, and notifications, and the persons by whom and the persons to whom any such forms, certificates, notices, leaflets, signs, particulars, and notifications are to be supplied:
+  (b) prescribing records and registers for the purposes of this Part; prescribing the manner in which and the period during which any such records and registers are to be kept; and prescribing the persons to whom, and the conditions on which, any such records and registers may be available for searching, inspection, and copying:
+  (c) prescribing the form and manner in which tobacco products may be identified and depicted on the exterior of vending machines:
   (d)
-  (e) Prescribing the form, size, and content of information and messages to be displayed with, on, or in packages of, tobacco products or herbal smoking products, or on automatic vending machines that dispense tobacco products; and prescribing the circumstances and manner in which the information and messages are to be so displayed:
-  (f) Prescribing the class or classes of tobacco products or herbal smoking products to which section 33 of this Act is to apply, and regulating the tests that are to be conducted under that section:
-  (g) Specifying harmful constituents of tobacco products or herbal smoking products for the purposes of this Part:
-  (ga) Prohibiting harmful constituents of tobacco products or herbal smoking products for the purposes of section 31(a):
-  (h) Prescribing the method of determining the constituents of tobacco products or herbal smoking products, and the smoke produced from their combustion:
-  (i) Prescribing the form and manner in which returns and reports are to be filed under section 35 of this Act:
+  (e) prescribing the form, size, and content of information and messages to be displayed with, on, or in packages of, tobacco products or herbal smoking products, or on automatic vending machines that dispense tobacco products; and prescribing the circumstances and manner in which the information and messages are to be so displayed:
+  (f) prescribing the class or classes of tobacco products or herbal smoking products to which section 33 is to apply, and regulating the tests that are to be conducted under that section:
+  (g) specifying harmful constituents of tobacco products or herbal smoking products for the purposes of this Part:
+  (ga) prohibiting harmful constituents of tobacco products or herbal smoking products for the purposes of section 31(a):
+  (h) prescribing the method of determining the constituents of tobacco products or herbal smoking products, and the smoke produced from their combustion:
+  (i) prescribing the form and manner in which returns and reports are to be filed under section 35:
   (ia) prescribing for the purposes of section 23(1)(a)(ii) requirements with which the exposure of tobacco products for sale in a retailer's place of business must comply:
-  (j) Providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part of this Act or its due administration.
+  (j) providing for such other matters as are contemplated by or necessary for giving full effect to the provisions of this Part or its due administration.
+(2)
 (3) Regulations under subsection (1)(ia) may prescribe requirements of either or both of the following kinds:
   (a) requirements that are not of the same kind as those in section 23A:
   (b) requirements that are of the same kind as, but are more stringent than, those in section 23A.
@@ -866,27 +831,25 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
     (iii) the recommended price of each variant of a brand of tobacco product sold by the manufacturer or importer during the previous year.
 (8) If regulations to which subsection (7) applies are made after 31 January and before 1 July in any year, they must come into force no sooner than 1 February in the next year.
 (9) If regulations to which subsection (7) applies are made after 30 June in any year and before 1 February in the next year, they must come into force no sooner than 1 February in the year after that next year.
-(2)
 
 ### 40 Transitional provisions
-(1) Nothing in section 24(3) of this Act shall apply in respect of the distribution or sale before the 1st day of January 1996 of any article that was—
-  (a) Manufactured before the 17th day of May 1990; or
-  (b) Ordered before the 17th day of May 1990 from the manufacturer or distributor otherwise than by the placing of a standing order that required confirmation, or that was subject to cancellation, after that date.
-(2) Notwithstanding anything in section 22 or section 24 or section 25 of this Act, where it is so required by a contract entered into before the 17th day of May 1990, the name of any manufacturer or importer of tobacco products or the trade mark of any tobacco product may be used until the close of the 30th day of June 1995, otherwise than in association with a tobacco product, in a representation to the public—
-  (a) That promotes or is associated with an organised activity; or
-  (b) That acknowledges financial or other contributions made by the manufacturer or importer of the tobacco product toward any such activity.
-(3) The first reports required by section 35(1)(b) of this Act shall be submitted to the Director-General—
-  (a) By the 31st day of January 1991, in the case of cigarettes; or
-  (b) By the 31st day of January 1992, in the case of cigarette tobacco; or
-  (c) By the date specified by the Director-General by notice in writing to the manufacturer or importer, in the case of any other tobacco product.
+(1) Nothing in section 24(3) shall apply in respect of the distribution or sale before 1 January 1996 of any article that was—
+  (a) manufactured before 17 May 1990; or
+  (b) ordered before 17 May 1990 from the manufacturer or distributor otherwise than by the placing of a standing order that required confirmation, or that was subject to cancellation, after that date.
+(2) Notwithstanding anything in section 22 or section 24 or section 25, where it is so required by a contract entered into before 17 May 1990, the name of any manufacturer or importer of tobacco products or the trade mark of any tobacco product may be used until the close of 30 June 1995, otherwise than in association with a tobacco product, in a representation to the public—
+  (a) that promotes or is associated with an organised activity; or
+  (b) that acknowledges financial or other contributions made by the manufacturer or importer of the tobacco product toward any such activity.
+(3) The first reports required by section 35(1)(b) shall be submitted to the Director-General—
+  (a) by 31 January 1991, in the case of cigarettes; or
+  (b) by 31 January 1992, in the case of cigarette tobacco; or
+  (c) by the date specified by the Director-General by notice in writing to the manufacturer or importer, in the case of any other tobacco product.
 
 ### 41 Amendment, repeals, and revocations
 (1)
 (2)
 (3)
 (4)
-(5) Part 6A of the Toxic Substances Regulations 1983 (comprising regulations 46A to 46C) (as substituted by regulation 3 of the Toxic Substances Regulations 1983, Amendment No 2) is hereby revoked.
-(6) Regulation 3 of the Toxic Substances Regulations 1983, Amendment No 2 is hereby revoked.
+((5), (6)) Amendment(s) incorporated in the regulations.
 
 ## Part 2A — Powers of enforcement officers
 
@@ -905,7 +868,7 @@ No manufacturer or importer may offer for sale or export any tobacco product or 
   (e) if the enforcement officer believes on reasonable grounds that the place is a place where tobacco products or herbal smoking products are sold from time to time,—
     (i) exercise the powers given by section 41B:
     (ii) inspect any advertising or display material relating to tobacco products on display in the place, or on the outside of a building containing the place.
-(4) An enforcement officer exercising powers under this section may be accompanied by a member of the police.
+(4) An enforcement officer exercising powers under this section may be accompanied by a constable.
 (5) Subsection (2) does not prevent an enforcement officer from entering a dwellinghouse or other residential accommodation—
   (a) under authority given by or under an enactment other than this section; or
   (b) with the consent of an occupier.
@@ -950,15 +913,15 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 ## Part 3 — Health Sponsorship Council
 
 ### 42 Meaning of sponsorship
-(1) In this Part of this Act, sponsorship means, in broad terms, the provision of assistance by the Council to any person or organisation and, in return, the promotion by that person or organisation of health and healthy lifestyles in a manner agreed by the Council.
+(1) In this Part, sponsorship means, in broad terms, the provision of assistance by the Council to any person or organisation and, in return, the promotion by that person or organisation of health and healthy lifestyles in a manner agreed by the Council.
 (2) Without limiting the generality of the term, such assistance by the Council may take the form of—
-  (a) Money, whether by way of grant or otherwise; or
-  (b) Goods and services; or
-  (c) Trophies, prizes, awards, and scholarships.
+  (a) money, whether by way of grant or otherwise; or
+  (b) goods and services; or
+  (c) trophies, prizes, awards, and scholarships.
 (3) Also, without limiting the generality of the term, such promotion by the person or organisation receiving assistance may take the form of—
-  (a) Publicising messages relating to health and healthy lifestyles; or
-  (b) Publicising messages relating to ill-health and unhealthy lifestyles; or
-  (c) Promoting the aims and objectives of the Council.
+  (a) publicising messages relating to health and healthy lifestyles; or
+  (b) publicising messages relating to ill-health and unhealthy lifestyles; or
+  (c) promoting the aims and objectives of the Council.
 
 ### 43 Council established
 (1) There is hereby established a council, to be known as the Health Sponsorship Council.
@@ -967,12 +930,12 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 
 ### 44 Principal functions of Council
 (1) The principal functions of the Council shall be—
-  (a) To promote health and to encourage healthy lifestyles, whether through the provision of sponsorship or otherwise; and
+  (a) to promote health and to encourage healthy lifestyles, whether through the provision of sponsorship or otherwise; and
   (b)
 (2) For the purposes of its principal functions, the Council may provide sponsorship to—
-  (a) Any person or organisation involved in sports participation, artistic endeavour, cultural pursuits, or recreational activities; or
-  (b) Any person or organisation involved in arranging any sporting, artistic, or recreational activity; or
-  (c) Any person or organisation in accordance with section 56 of this Act.
+  (a) any person or organisation involved in sports participation, artistic endeavour, cultural pursuits, or recreational activities; or
+  (b) any person or organisation involved in arranging any sporting, artistic, or recreational activity; or
+  (c) any person or organisation in accordance with section 56.
 (3) The Council also has any other functions conferred on it by the Minister in accordance with section 112 of the Crown Entities Act 2004.
 
 ### 45 Membership of Council
@@ -990,7 +953,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 ### 48 Conflict of interest
 [Repealed]
 
-### 49 Council to appoint Director
+### 49 Council to appoint chief executive
 (1) The Council shall appoint and employ a suitably qualified person to be the chief executive of the Council.
 (2)
 
@@ -1006,7 +969,7 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 ### 53 Remuneration and allowances for members of Council and committees
 [Repealed]
 
-### 54 Salaries, etc., to be paid out of funds of Council
+### 54 Salaries, etc, to be paid out of funds of Council
 [Repealed]
 
 ### 55 Powers of Council
@@ -1026,8 +989,8 @@ Every person commits an offence, and is liable on summary conviction to a fine n
 
 ### 60 Further provisions relating to funds
 (1) Any funds received by the Council in one year and not expended by the Council in that year shall, without further appropriation by Parliament, be available to, and may be expended by, the Council, in any subsequent year.
-(2) Subject to subsection (3) of this section, the Council shall not commit itself to expend any money by way of sponsorship unless it has the money in hand at the time.
-(3) The Council may in any year commit itself to expend by way of sponsorship in the next succeeding year in aggregate up to 25 percent of the amount of the money appropriated by Parliament for the purposes of the Council for the current year.
+(2) Subject to subsection (3), the Council shall not commit itself to expend any money by way of sponsorship unless it has the money in hand at the time.
+(3) The Council may in any year commit itself to expend by way of sponsorship in the next succeeding year in aggregate up to 25% of the amount of the money appropriated by Parliament for the purposes of the Council for the current year.
 
 ### 61 Liability of Council and members
 (1) The liability of the Council shall be limited to the aggregate value of its assets, including all money standing to its credit at a bank, and all money to which it is entitled by way of repayment of any loan.
