@@ -1,5 +1,5 @@
 # Plumbers, Gasfitters, and Drainlayers Act 1976
-_Consolidation as at 2007-12-03_
+_Consolidation as at 2010-04-01_
 
 > An Act to consolidate and amend the law relating to the registration of plumbers and gasfitters, and to make provision for the registration of drainlayers
 
