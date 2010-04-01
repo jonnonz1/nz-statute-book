@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2010-04-01_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -705,14 +705,14 @@ Unless the context otherwise requires, any reference to the New Zealand Superann
 
 |  |  | $ |
 | --- | --- | --- |
-| 1 | (a)to a single person who has been granted a living alone payment under section 13 | $364.50 a week |
-|  | (b)to a single person who has not been granted a living alone payment under section 13 | $334.28 a week |
-|  | (c)to a person who is married or in a civil union or in a de facto relationship | $273.63 a week |
+| 1 | (a)to a single person who has been granted a living alone payment under section 13 | $373.56 a week |
+|  | (b)to a single person who has not been granted a living alone payment under section 13 | $342.58 a week |
+|  | (c)to a person who is married or in a civil union or in a de facto relationship | $280.62 a week |
 | 2Alternative rate for a person who is married or in a civil union or in a de facto relationship and whose spouse or partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
-|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $547.26 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
-|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $519.72 a week, subject to Income Test 3 |
-| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $34.87 a week |
-| 4Rate of special disability allowance under section 20 |  | $34.87 a week |
+|  | (a)to a person who is married or in a civil union or in a de facto relationship and who was receiving, or had applied for and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $561.24 a week subject to Income Test 3, or the rate for the time being stated in paragraph (b), whichever is the greater |
+|  | (b)to any other person who is married or in a civil union or in a de facto relationship | $531.72 a week, subject to Income Test 3 |
+| 3Hospital rate payable under section 19 to a person who is married or in a civil union or in a de facto relationship and who has no dependent children, or a single person, who receives New Zealand superannuation |  | An amount that, after income tax is deducted under tax code M (as stated in section 24B of the Tax Administration Act 1994) is equal to $35.55 a week |
+| 4Rate of special disability allowance under section 20 |  | $35.55 a week |
 
 ## Schedule 2 — Specified Pacific countries
 
