@@ -1,15 +1,12 @@
 # Gas Act 1992
-_Consolidation as at 2008-10-14_
+_Consolidation as at 2010-04-01_
 
-> An Act to make better provision for the regulation, supply, and use of gas and the gas industry in New Zealand, and to repeal the Gas Act 1982
+> An Act to make better provision for the regulation, supply, and use of gas [and the gas industry] in New Zealand, and to repeal the Gas Act 1982
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Gas Act 1992.
 (2) Except as provided in subsection (3) of this section, this Act shall come into force on the 1st day of April 1993.
 (3) Part 1, Part 4, and sections 54, 55, and 60 of this Act shall come into force on the day after the date on which this Act receives the Royal assent.
-
-### 1A Purposes
-[Repealed]
 
 ## Part 1 — Preliminary provisions
 
@@ -21,105 +18,101 @@ _Consolidation as at 2008-10-14_
     (c) the current state of knowledge about harm or damage of that nature; and
     (d) the current state of knowledge about the means available to achieve the result, and about the likely efficacy of each of those means; and
     (e) the availability and cost of each of those means
-  - **Authorised** means authorised by the Secretary
-  - **Biogas** means the mixture of gases that is produced by anaerobic microbial decomposition of organic matter and that principally comprises methane and carbon dioxide together with lesser amounts of hydrogen sulphide, water vapour, or other gases
-  - **Board** means the Plumbers, Gasfitters, and Drainlayers Board constituted under the Plumbers, Gasfitters, and Drainlayers Act 1976
-  - **Consumer** —
-    (a) Means any person who is supplied, or who applies to be supplied, with gas; but
-    (b) Does not include any gas producer or any gas distributor or gas retailer, except where the gas producer or, as the case may be, the gas distributor or gas retailer is supplied, or applies to be supplied, with gas for its own consumption and not for the purposes of resupply to any other person:
-  - **Container** does not include a pipe
-  - **Corporation** means the Natural Gas Corporation of New Zealand Limited
-  - **Distribution system** means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—to the outlet of the gas measurement system of the place at which the gas is supplied to a consumer or gas refueller (or, where no such gas measurement system is provided, to the custody transfer point of the place at which the gas is supplied to a consumer or gas refueller); and, for the purposes of any regulations made under section 54 of this Act relating to odorisation or the measurement of calorific value, includes a gas transmission system
-    (a) The boundary of the gasworks or gate station outlet flange supplying gas for distribution; or
-    (b) The outlet of the container in which gas for distribution is stored—
-  - **Document** has the same meaning as in section 2(1) of the Official Information Act 1982
-  - **Dwellinghouse** means any building or part of a building occupied as a separate dwelling; but does not include a meter box or gas measurement system located on the exterior of the building or the part of the building
-  - **Electric works** means any works within the meaning of the Electricity Act 1992
-  - **Existing fittings** means any fittings installed before the 1st day of January 1993; and includes any fittings that were partly installed, or work on the installation of which commenced, before the 1st day of January 1993
-  - **Fire brigade** has the same meaning as in section 2 of the Fire Service Act 1975; and includes a defence fire brigade and an industrial fire brigade within the meaning of that Act
-  - **Fittings** means everything used, or designed or intended for use, in or in connection with the supply, distribution, compression, or use of gas
-  - **Gas** means any fuel that is supplied through pipes or in containers and is a gas at a temperature of 15°C and an absolute pressure of 101.325 kilopascals; and includes—
-    (a) Biogas, coal gas, liquefied petroleum gas, natural gas, oil gas, producer gas, refinery gas, reformed natural gas, and tempered liquefied petroleum gas:
-    (b) Any gaseous substance that the Governor-General declares by Order in Council to be a gas for the purposes of this Act:
-    (c) Any mixture of gases:
-  - **Gas appliance** means any appliance that uses, or is designed or intended to use, gas, whether or not it also uses, or is designed or intended to use, any other form of energy
-  - **Gas code of practice** or means a gas code of practice issued pursuant to section 37 of this Act
-  - **Gas distributor** means any person who supplies line function services to any other person or persons
-  - **Gas inspector** has the same meaning as in section 2 of the Plumbers, Gasfitters, and Drainlayers Act 1976
-  - **Gas installation** means an installation, including a gas appliance (other than a portable gas appliance that is designed to have within it, or attached to it, its own source of gas), that is connected or intended to be connected with any source (including any container) from which gas is supplied; and includes any associated fittings; but does not include any part of a distribution system
-  - **Gas measurement system** means a system for measuring the quantity of any gas or the energy content of any gas, whether by actual measurement or by estimation; and includes any equipment that forms part of, or is ancillary to, any such system
-  - **Gas operator** means—
-    (a) Any person that, immediately before the 1st day of April 1993, was the holder, or was deemed to be the holder, of a franchise granted under Part 2 of the Gas Act 1982; and
-    (b) Any person declared under section 5 of this Act to be a gas operator for the purposes of this Act or any provision or provisions of this Act:
-  - **Gas refueller** means a gas retailer that supplies gas in containers, or directly into containers
-  - **Gas retailer** means any person who supplies gas to another person or other persons for any purpose other than for resupply by the other person or persons
-  - **Gas transmission** means the supply of line function services by means of high pressure gas pipelines operated at a gauge pressure exceeding 2,000 kilopascals
-  - **Gas wholesaler** —
-    (a) Means—
-      (i) The Corporation; and
-      (ii) Any person who supplies gas to any other person or persons for the purpose of resupply by the other person or persons (whether or not the person who so supplies the gas is also a gas retailer); and
-    (b) Includes any person any subsidiary of which is a gas wholesaler:
-  - **Gasfitting** has the same meaning as in section 2 of the Plumbers, Gasfitters, and Drainlayers Act 1976
-  - **infringement fee**
-  - **infringement notice**
-  - **infringement offence**
+  - **authorised** means authorised by the Secretary
+  - **biogas** means the mixture of gases that is produced by anaerobic microbial decomposition of organic matter and that principally comprises methane and carbon dioxide together with lesser amounts of hydrogen sulphide, water vapour, or other gases
+  - **Board** means the Plumbers, Gasfitters, and Drainlayers Board continued under the Plumbers, Gasfitters, and Drainlayers Act 2006
+  - **consumer** —
+    (a) means any person who is supplied, or who applies to be supplied, with gas; but
+    (b) does not include any gas producer or any gas distributor or gas retailer, except where the gas producer or, as the case may be, the gas distributor or gas retailer is supplied, or applies to be supplied, with gas for its own consumption and not for the purposes of resupply to any other person
+  - **container** does not include a pipe
+  - **corporation** means the Natural Gas Corporation of New Zealand Limited
+  - **distribution system** means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—to the outlet of the gas measurement system of the place at which the gas is supplied to a consumer or gas refueller (or, where no such gas measurement system is provided, to the custody transfer point of the place at which the gas is supplied to a consumer or gas refueller); and, for the purposes of any regulations made under section 54 of this Act relating to odorisation or the measurement of calorific value, includes a gas transmission system
+    (a) the boundary of the gasworks or gate station outlet flange supplying gas for distribution; or
+    (b) the outlet of the container in which gas for distribution is stored—
+  - **document** has the same meaning as in section 2(1) of the Official Information Act 1982
+  - **dwellinghouse** means any building or part of a building occupied as a separate dwelling; but does not include a meter box or gas measurement system located on the exterior of the building or the part of the building
+  - **electric works** means any works within the meaning of the Electricity Act 1992
+  - **existing fittings** means any fittings installed before the 1st day of January 1993; and includes any fittings that were partly installed, or work on the installation of which commenced, before the 1st day of January 1993
+  - **fire brigade** has the same meaning as in section 2 of the Fire Service Act 1975; and includes a defence fire brigade and an industrial fire brigade within the meaning of that Act
+  - **fittings** means everything used, or designed or intended for use, in or in connection with the supply, distribution, compression, or use of gas
+  - **gas** means any fuel that is supplied through pipes or in containers and is a gas at a temperature of 15°C and an absolute pressure of 101.325 kilopascals; and includes—
+    (a) biogas, coal gas, liquefied petroleum gas, natural gas, oil gas, producer gas, refinery gas, reformed natural gas, and tempered liquefied petroleum gas:
+    (b) any gaseous substance that the Governor-General declares by Order in Council to be a gas for the purposes of this Act:
+    (c) any mixture of gases
+  - **gas appliance** means any appliance that uses, or is designed or intended to use, gas, whether or not it also uses, or is designed or intended to use, any other form of energy
+  - **gas code of practice** or means a gas code of practice issued pursuant to section 37 of this Act
+  - **gas distributor** means any person who supplies line function services to any other person or persons
+  - **gas inspector** has the same meaning as in section 2 of the Plumbers, Gasfitters, and Drainlayers Act 1976
+  - **gas installation** means an installation, including a gas appliance (other than a portable gas appliance that is designed to have within it, or attached to it, its own source of gas), that is connected or intended to be connected with any source (including any container) from which gas is supplied; and includes any associated fittings; but does not include any part of a distribution system
+  - **gas measurement system** means a system for measuring the quantity of any gas or the energy content of any gas, whether by actual measurement or by estimation; and includes any equipment that forms part of, or is ancillary to, any such system
+  - **gas operator** means—
+    (a) any person that, immediately before the 1st day of April 1993, was the holder, or was deemed to be the holder, of a franchise granted under Part 2 of the Gas Act 1982; and
+    (b) any person declared under section 5 of this Act to be a gas operator for the purposes of this Act or any provision or provisions of this Act
+  - **gas refueller** means a gas retailer that supplies gas in containers, or directly into containers
+  - **gas retailer** means any person who supplies gas to another person or other persons for any purpose other than for resupply by the other person or persons
+  - **gas transmission** means the supply of line function services by means of high pressure gas pipelines operated at a gauge pressure exceeding 2 000 kilopascals
+  - **gas wholesaler** —
+    (a) means—
+      (i) the Corporation; and
+      (ii) any person who supplies gas to any other person or persons for the purpose of resupply by the other person or persons (whether or not the person who so supplies the gas is also a gas retailer); and
+    (b) includes any person any subsidiary of which is a gas wholesaler
+  - **gasfitting** has the same meaning as in section 4 of the Plumbers, Gasfitters, and Drainlayers Act 2006
   - **level crossing** has the same meaning as in section 4(1) of the Railways Act 2005
-  - **Line function services** means—
-    (a) The provision and maintenance of pipelines for the conveyance of gas:
-    (b) The operation of such pipelines, including the assumption of responsibility for losses of gas:
+  - **line function services** means—
+    (a) the provision and maintenance of pipelines for the conveyance of gas:
+    (b) the operation of such pipelines, including the assumption of responsibility for losses of gas
   - **local authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **Maintain** includes to repair; and has a corresponding meaning
-  - **Metal working** means the working of any metal by any process of flame cutting, welding, brazing, or silver soldering, involving the use of any gas
+  - **maintain** includes to repair; and has a corresponding meaning
+  - **metal working** means the working of any metal by any process of flame cutting, welding, brazing, or silver soldering, involving the use of any gas
   - **Minister** means, subject to any enactment, the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **Ministry** means, subject to any enactment, the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Official standard** , in relation to a gas code of practice, means—
-    (a) A New Zealand Standard within the meaning of the Standards Act 1988; and
-    (b) A standard specification prescribed by any standards organisation within the meaning of that Act:
-  - **Pipe** includes tubes, hoses, and associated fittings
-  - **Pipeline owner** means a person that owns pipelines for the conveyance of gas
-  - **Place** means—
-    (a) Any land, house, shop, factory, premises, building, or any part of a building that is separately occupied:
-    (b) Any vessel within any harbour or inland waters:
-    (c) Any aircraft, hovercraft, or vehicle:
-  - **Pleasure vessel** has the same meaning as in section 2(1) of the Shipping and Seamen Act 1952
-  - **point of supply**
-  - **Price** includes valuable consideration in any form, whether direct or indirect; and also includes any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
-  - **Relocatable building** means any structure designed or adapted for human occupation that is designed to be relocatable; but does not include any tent
-  - **Road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of section 2(1) of the Government Roading Powers Act 1989; but does not include—
-    (a) A private road within the meaning of section 315 of the Local Government Act 1974; or
-    (b) A motorway within the meaning of the Government Roading Powers Act 1989; or
-    (c) Any roadway laid out by order of the Maori Land Court under Part 27 of the Maori Affairs Act 1953 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under section 421 of that Act to be a road; or
-    (d) Any level crossing:
-  - **Roading structure** means any bridge, underpass, overpass, culvert, or tunnel
+  - **official standard** , in relation to a gas code of practice, means—
+    (a) a New Zealand Standard within the meaning of the Standards Act 1988; and
+    (b) a standard specification prescribed by any standards organisation within the meaning of that Act
+  - **pipe** includes tubes, hoses, and associated fittings
+  - **pipeline owner** means a person that owns pipelines for the conveyance of gas
+  - **place** means—
+    (a) any land, house, shop, factory, premises, building, or any part of a building that is separately occupied:
+    (b) any vessel within any harbour or inland waters:
+    (c) any aircraft, hovercraft, or vehicle
+  - **pleasure vessel** has the same meaning as in section 2(1) of the Shipping and Seamen Act 1952
+  - **price** includes valuable consideration in any form, whether direct or indirect; and also includes any consideration that in effect relates to the acquisition of goods or services or the acquisition or disposition of any interest in land, although ostensibly relating to any other matter or thing
+  - **relocatable building** means any structure designed or adapted for human occupation that is designed to be relocatable; but does not include any tent
+  - **road** has the same meaning as in section 315 of the Local Government Act 1974; and includes a road under the jurisdiction of any local authority; and also includes a public footpath; and also includes a State highway within the meaning of section 2(1) of the Government Roading Powers Act 1989; but does not include—
+    (a) a private road within the meaning of section 315 of the Local Government Act 1974; or
+    (b) a motorway within the meaning of the Government Roading Powers Act 1989; or
+    (c) any roadway laid out by order of the Maori Land Court under Part 27 of the Maori Affairs Act 1953 or under any former Act, except where that order has been cancelled, or where the roadway has been declared under section 421 of that Act to be a road; or
+    (d) any level crossing
+  - **roading structure** means any bridge, underpass, overpass, culvert, or tunnel
   - **Secretary** means the chief executive of the Ministry; and includes any person for the time being authorised by delegation to exercise or perform any of the powers or functions of the Secretary under this Act
   - **serious harm** means—
     (a) death; or
     (b) harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or
     (c) harm that incapacitates, or is likely to incapacitate, the person suffering harm due to the inhalation of carbon monoxide; or
     (d) harm of the kinds and descriptions that are serious harm under the Health and Safety in Employment Act 1992
-  - **Subsidiary**
-  - **Telecommunications line** means any line within the meaning of the Telecommunications Act 2001
-  - **Worker** means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
-  - **Working day** means any day of the week other than—
+  - **subsidiary**
+  - **telecommunications line** means any line within the meaning of the Telecommunications Act 2001
+  - **worker** means any person who is employed or engaged (whether under a contract of service or a contract for services) to do any work for hire or reward
+  - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
-    (b) A day in the period commencing with the 25th day of December in any year and ending with the 15th day of January in the following year.
+    (b) a day in the period commencing with the 25th day of December in any year and ending with the 15th day of January in the following year.
 (2)
 (3) Any notice required or authorised by this Act to be served on any person shall be delivered to that person, and may be delivered either personally or by posting it to that person at the person's last known place of abode or business in New Zealand. A notice so posted shall be deemed to have been served at the time when the letter would in the ordinary course of post be delivered.
 
 ### 3 Application
 (1) Subject to subsection (2) of this section, and except as expressly provided elsewhere in this Act, or in any other Act, this Act shall apply to every gas distributor, every gas retailer, and every consumer.
 (2) Nothing in this Act (other than sections 54(1)(n)(ii) and 55) applies to—
-  (a) Any gas in circumstances in which any of the following enactments, or any regulations made under any of those enactments, apply:
+  (a) any gas in circumstances in which any of the following enactments, or any regulations made under any of those enactments, apply:
     (i) Part 1 of the Crown Minerals Act 1991:
-    (ii) The Shipping and Seamen Act 1952:
-    (iii) The Transport Act 1962 or the Land Transport Act 1998:
-  (b) Any gas installation or class of gas installation that the Governor-General declares by Order in Council to be a gas installation or, as the case requires, a class of gas installation to which this Act does not apply:
-  (c) Any gas appliance or class of gas appliance that the Governor-General declares by Order in Council to be a gas appliance or, as the case requires, a class of gas appliance to which this Act does not apply:
-  (d) Any gas used as a feedstock, excluding any gas being reformed for use as a gaseous fuel:
-  (e) Any gas appliance used in metal working and fuelled exclusively by acetylene or any prescribed gas:
-  (f) Any gas appliance designed to be fuelled exclusively from a container not exceeding 120 millilitres in capacity:
-  (g) Any container used, or designed or intended to be used, for the storage of gas:
-  (h) Any liquefied petroleum gas that is in a liquid form and is in a pipe.
+    (ii) the Shipping and Seamen Act 1952:
+    (iii) the Transport Act 1962 or the Land Transport Act 1998:
+  (b) any gas installation or class of gas installation that the Governor-General declares by Order in Council to be a gas installation or, as the case requires, a class of gas installation to which this Act does not apply:
+  (c) any gas appliance or class of gas appliance that the Governor-General declares by Order in Council to be a gas appliance or, as the case requires, a class of gas appliance to which this Act does not apply:
+  (d) any gas used as a feedstock, excluding any gas being reformed for use as a gaseous fuel:
+  (e) any gas appliance used in metal working and fuelled exclusively by acetylene or any prescribed gas:
+  (f) any gas appliance designed to be fuelled exclusively from a container not exceeding 120 millilitres in capacity:
+  (g) any container used, or designed or intended to be used, for the storage of gas:
+  (h) any liquefied petroleum gas that is in a liquid form and is in a pipe.
 
 ### 4 Act to bind the Crown
 This Act binds the Crown.
@@ -136,50 +129,48 @@ This Act binds the Crown.
 
 ### 6 Functions of Secretary
 The functions of the Secretary under this Act are—
-  (a) To carry out such enquiries, tests, audits or investigations as may be necessary to determine whether or not a person is complying with this Act:
-  (b) To take all such lawful steps as may be necessary to ensure the safe supply and use of gas:
-  (c) To perform such other functions as are provided for under this Act.
+  (a) to carry out such enquiries, tests, audits or investigations as may be necessary to determine whether or not a person is complying with this Act:
+  (b) to take all such lawful steps as may be necessary to ensure the safe supply and use of gas:
+  (c) to perform such other functions as are provided for under this Act.
 
 ### 7 Inspection of distribution systems, etc
 (1) For the purposes of performing any of the Secretary's functions under this Act, the Secretary may at any reasonable time inspect the whole or any part of any distribution system, gas installation, or gas appliance.
 (2) For the purposes of carrying out an inspection under this section, the Secretary may enter and re-enter any place.
 (3) Before carrying out any inspection under this section, the Secretary shall give to the person who has control of or who is using the distribution system, gas installation, or gas appliance, and to the occupier of the land affected, reasonable notice of the Secretary's intention to carry out the inspection.
 (4) Where the Secretary has entered any place under subsection (2) of this section, he or she may—
-  (a) Inspect any fittings or gas appliance:
-  (b) Test any substance that he or she reasonably believes to be gas; test any gas measurement system; and carry out any other test that the person reasonably considers necessary or desirable for the purposes of this Act:
-  (c) Without limiting paragraph (b) of this subsection, take (without payment) samples of any substance that he or she reasonably believes to be gas, for the purposes of examination and testing:
-  (d) For the purposes of examination and testing,—
-    (i) Remove any fittings, unless the removal of those fittings would unreasonably interfere with the operation of any distribution system:
-    (ii) Remove any gas appliance:
-  (e) By notice in writing require any person whom the Secretary reasonably believes to be for the time being in charge of any place, or of any fittings or gas appliance in the place, to take any specified action in respect of that place or those fittings or that gas appliance that the Secretary reasonably believes is necessary to render that place or those fittings safe:
-  (f) Require any person who has control of or who uses the distribution system, gas installation, or gas appliance to produce any document required by this Act or any regulations made under section 54 or section 55 of this Act to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
+  (a) inspect any fittings or gas appliance:
+  (b) test any substance that he or she reasonably believes to be gas; test any gas measurement system; and carry out any other test that the person reasonably considers necessary or desirable for the purposes of this Act:
+  (c) without limiting paragraph (b) of this subsection, take (without payment) samples of any substance that he or she reasonably believes to be gas, for the purposes of examination and testing:
+  (d) for the purposes of examination and testing,—
+    (i) remove any fittings, unless the removal of those fittings would unreasonably interfere with the operation of any distribution system:
+    (ii) remove any gas appliance:
+  (e) by notice in writing require any person whom the Secretary reasonably believes to be for the time being in charge of any place, or of any fittings or gas appliance in the place, to take any specified action in respect of that place or those fittings or that gas appliance that the Secretary reasonably believes is necessary to render that place or those fittings safe:
+  (f) require any person who has control of or who uses the distribution system, gas installation, or gas appliance to produce any document required by this Act or any regulations made under section 54 or section 55 of this Act to be kept by that person, and may examine and make copies of, or take extracts from, any such document.
 (5) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
 ### 8 Report to be compiled
 (1) Where any test is carried out under section 7 of this Act, the person who carries out the test shall—
-  (a) Compile a written report of the results of the test; and
-  (b) Give a copy of the report to—
-    (i) The person whom the person reasonably believed to be in charge of the place in which the test was carried out or from which any substance or fittings or gas appliance was taken for testing; and
-    (ii) The owner or occupier of that place (where that person is not the person referred to in subparagraph (i) of this paragraph); and
-    (iii) The person who had control of or, as the case may be, who was using that substance or those fittings or that gas appliance (where that person is not the person referred to in subparagraph (i) or subparagraph (ii) of this paragraph).
+  (a) compile a written report of the results of the test; and
+  (b) give a copy of the report to—
+    (i) the person whom the person reasonably believed to be in charge of the place in which the test was carried out or from which any substance or fittings or gas appliance was taken for testing; and
+    (ii) the owner or occupier of that place (where that person is not the person referred to in subparagraph (i) of this paragraph); and
+    (iii) the person who had control of or, as the case may be, who was using that substance or those fittings or that gas appliance (where that person is not the person referred to in subparagraph (i) or subparagraph (ii) of this paragraph).
 (2) Where any inspection is carried out under section 7 of this Act, the person who carries out the inspection shall—
-  (a) Compile a written report of the results of the inspection; and
-  (b) Give a copy of the report to any person who is entitled to receive it and who requests such a copy.
+  (a) compile a written report of the results of the inspection; and
+  (b) give a copy of the report to any person who is entitled to receive it and who requests such a copy.
 (3) Without limiting any other enactment, the following persons are entitled, on request, to be given a copy of a report compiled in respect of an inspection carried out under section 7 of this Act in any place:
-  (a) The owner of that place:
-  (b) The occupier of that place:
-  (c) The gas distributor, gas retailer, or consumer concerned (where that person is not the owner or occupier of that place).
+  (a) the owner of that place:
+  (b) the occupier of that place:
+  (c) the gas distributor, gas retailer, or consumer concerned (where that person is not the owner or occupier of that place).
 
 ### 9 Special powers of Secretary
 (1) The Secretary may at any time, by notice in writing, require any person who has control of or who uses any distribution system, gas installation, or gas appliance to take apart or dismantle any fittings to facilitate or assist an inspection for the purposes of this Act.
 (2) The Secretary may at any time, by notice in writing, require any gas wholesaler, gas distributor, gas retailer, or consumer—
-  (a) To replace any gas measurement system, or any part of any gas measurement system, that is owned by that gas wholesaler, gas distributor, gas retailer, or consumer and that is part of a distribution system or a gas installation; and
-  (b) To deliver the replaced gas measurement system or part for inspection and testing.
+  (a) to replace any gas measurement system, or any part of any gas measurement system, that is owned by that gas wholesaler, gas distributor, gas retailer, or consumer and that is part of a distribution system or a gas installation; and
+  (b) to deliver the replaced gas measurement system or part for inspection and testing.
 (3) Where the Secretary believes on reasonable grounds in respect of any place—the Secretary may do all such things, and require any person to refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.
-  (a) That there is a danger or potential danger to the safety of any persons or property arising directly or indirectly from the presence or escape of any gas; or
-  (b) That, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, there would be a danger or potential danger to any persons or property should any gas be present or escape,—
-(3A)
-(3B)
+  (a) that there is a danger or potential danger to the safety of any persons or property arising directly or indirectly from the presence or escape of any gas; or
+  (b) that, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, there would be a danger or potential danger to any persons or property should any gas be present or escape,—
 (4) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
 
 ### 10 Objections to Secretary's requirements
@@ -233,9 +224,9 @@ Subject to section 14 of this Act, where a notice of objection is lodged under s
 (2)
 (3) Where any accident to which this section applies occurs in any place, the appropriate person shall notify the Secretary of the particulars of the accident forthwith on becoming aware of the accident.
 (4) For the purposes of subsection (3) of this section, the appropriate person is as follows:
-  (a) In the case of an accident involving gas supplied by a gas distributor or gas retailer, that gas distributor or gas retailer:
-  (b) Where the accident is discovered by any person who is a registered gasfitter or a craftsman gasfitter or a registered gas inspector within the meaning of the Plumbers, Gasfitters, and Drainlayers Act 1976, or who is working under an employer licence issued under that Act, that person:
-  (c) In all other cases, the occupier of the place where the accident occurred.
+  (a) in the case of an accident involving gas supplied by a gas distributor or gas retailer, that gas distributor or gas retailer:
+  (b) if the accident is discovered by any person who is authorised to do gasfitting under Part 2 of the Plumbers, Gasfitters, and Drainlayers Act 2006, that person:
+  (c) in all other cases, the occupier of the place where the accident occurred.
 (5) Every notice under this section shall be in the prescribed form (if any) and shall contain such particulars as are prescribed (if any).
 (6) Notification of an accident in accordance with either or both of the following provisions is compliance with subsection (3):
   (a) section 16(3) of the Electricity Act 1992:
@@ -263,14 +254,14 @@ Where the Secretary is performing any duty or exercising any power in respect of
 
 ### 21 Obstructing Secretary
 Every person commits an offence and is liable on summary conviction to a fine not exceeding $10,000 who—
-  (a) Intentionally obstructs the Secretary when the Secretary is lawfully carrying out duties under this Act:
-  (b) Refuses or fails without reasonable excuse—
-    (i) To produce any document when required to do so by the Secretary for the purposes of this Act; or
-    (ii) To allow the Secretary to examine or make copies of or take extracts from any such document; or
-    (iii) To supply any information required of the person by the Secretary under this Act; or
+  (a) intentionally obstructs the Secretary when the Secretary is lawfully carrying out duties under this Act:
+  (b) refuses or fails without reasonable excuse—
+    (i) to produce any document when required to do so by the Secretary for the purposes of this Act; or
+    (ii) to allow the Secretary to examine or make copies of or take extracts from any such document; or
+    (iii) to supply any information required of the person by the Secretary under this Act; or
     (iv) To comply with any other lawful order or requisition given or made by the Secretary:
-  (c) Intentionally damages or interferes with any property used by, or supplied for the use or in the possession of, the Secretary for the purposes of this Act:
-  (d) Fails without reasonable excuse to report any accident to which section 17 of this Act applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with section 18(1) of this Act, or, having interfered in any such scene in accordance with section 18(1) of this Act, fails without reasonable excuse to notify the Secretary of the steps he or she has taken as required by section 18(2) of this Act.
+  (c) intentionally damages or interferes with any property used by, or supplied for the use or in the possession of, the Secretary for the purposes of this Act:
+  (d) fails without reasonable excuse to report any accident to which section 17 of this Act applies when required to do so by subsection (3) of that section, or interferes in any way with the scene of any such accident otherwise than in accordance with section 18(1) of this Act, or, having interfered in any such scene in accordance with section 18(1) of this Act, fails without reasonable excuse to notify the Secretary of the steps he or she has taken as required by section 18(2) of this Act.
 
 ### 22 Privilege against self-incrimination
 No person shall be required, pursuant to any provision of this Part of this Act, to reply to any question if the answer might tend to incriminate him or her.
@@ -282,31 +273,31 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 
 ### 24 Rights of entry in respect of existing fittings
 (1) Any person that owns any existing fittings may enter upon land for the purpose of gaining access to those fittings and may perform any act or operation necessary for the purpose of—
-  (a) Inspecting, maintaining, or operating the fittings:
-  (b) In the case of fittings the construction, erection, or laying of which had not been completed before the 1st day of January 1993, completing the fittings.
+  (a) inspecting, maintaining, or operating the fittings:
+  (b) in the case of fittings the construction, erection, or laying of which had not been completed before the 1st day of January 1993, completing the fittings.
 (2) A certificate under the seal of the owner of any existing fittings containing a statement that a specified fitting was installed (in whole or in part) before the 1st day of January 1993 under the authority of the Petroleum Act 1937 or the Gas Act 1982 (or any Act repealed by either of those Acts) or the Electric Power Boards Act 1925 or the Local Government Act 1974 or the Public Works Act 1981 or any local or private Act shall be admissible in evidence in any proceedings and shall, in the absence of proof to the contrary, constitute proof of that statement.
 
 ### 25 Construction or maintenance of fittings on roads
 (1) Except as provided in subsection (2) of this section, a gas operator may from time to time construct, place, and maintain fittings in, on, along, over, across, or under any road, and for any of these purposes may—
-  (a) Open or break up any road:
-  (b) Alter the position of—that are laid or placed in, on, along, over, across, or under that road:
-    (i) Any pipe for the supply of gas; or
-    (ii) Any pipe (not being a main) for the supply of water; or
-    (iii) Any telecommunications line; or
-    (iv) Any electric works—
-  (c) Alter, repair, or remove any fittings so constructed, placed, or maintained, or any part of any such fittings.
+  (a) open or break up any road:
+  (b) alter the position of—that are laid or placed in, on, along, over, across, or under that road:
+    (i) any pipe for the supply of gas; or
+    (ii) any pipe (not being a main) for the supply of water; or
+    (iii) any telecommunications line; or
+    (iv) any electric works—
+  (c) alter, repair, or remove any fittings so constructed, placed, or maintained, or any part of any such fittings.
 (2) No gas operator shall exercise the powers contained in subsection (1) of this section otherwise than in accordance with such reasonable conditions as may be prescribed by—
-  (a) The local authority or other body or person having jurisdiction over the road; and
-  (b) The owner of the pipe, telecommunications line, or electric works, as the case may be.
+  (a) the local authority or other body or person having jurisdiction over the road; and
+  (b) the owner of the pipe, telecommunications line, or electric works, as the case may be.
 (3) Without limiting the generality of subsection (2) of this section, a local authority or other body or person having jurisdiction over a road may impose under that subsection, in relation to any work undertaken by any gas operator, a condition requiring the gas operator to meet the reasonable costs and expenses of that local authority or other body or person—
-  (a) In processing any notice given under section 26(1) of this Act by the gas operator in relation to the work:
-  (b) In supervising the carrying out of the work, where such supervision is necessary in the circumstances of the case.
+  (a) in processing any notice given under section 26(1) of this Act by the gas operator in relation to the work:
+  (b) in supervising the carrying out of the work, where such supervision is necessary in the circumstances of the case.
 (4) Nothing in subsection (1) of this section applies in respect of the construction of fittings for the purposes of gas transmission.
 
 ### 26 Notice to be given before work undertaken
 (1) Except as provided in subsection (5) of this section, before a gas operator proceeds to undertake any work pursuant to the powers contained in section 25(1) of this Act, the gas operator shall give notice of its intention to undertake the work to—
-  (a) The local authority or other body or person having jurisdiction over the road to which the work relates; and
-  (b) The owner of any pipe, telecommunications line, or electric works that are laid or placed in, on, along, over, across, or under that road and that will be affected, or are likely to be affected, by the work.
+  (a) the local authority or other body or person having jurisdiction over the road to which the work relates; and
+  (b) the owner of any pipe, telecommunications line, or electric works that are laid or placed in, on, along, over, across, or under that road and that will be affected, or are likely to be affected, by the work.
 (2) Every such notice shall be in writing, and shall specify the location of the proposed work, the nature of the work to be undertaken, and the reasons for it.
 (3) Within 15 working days after the receipt of the written notice of the intention to undertake work, the persons who are given a notice pursuant to subsection (1) of this section shall notify the gas operator in writing of any conditions imposed pursuant to section 25(2) of this Act.
 (4) Where a person who is given a notice pursuant to subsection (1) of this section fails to notify the gas operator of the conditions imposed pursuant to section 25(2) of this Act within the period referred to in subsection (3) of this section, no such conditions may be imposed, and the gas operator may commence work.
@@ -318,8 +309,8 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 
 ### 28 Appeals in relation to conditions imposed
 (1) A gas operator shall have a right of appeal to a District Court against all or any of the conditions imposed pursuant to section 25(2) of this Act by—
-  (a) The local authority or other body or person having jurisdiction over the road; or
-  (b) The owner of any pipe, telecommunications line, or electric works.
+  (a) the local authority or other body or person having jurisdiction over the road; or
+  (b) the owner of any pipe, telecommunications line, or electric works.
 (2) Every such appeal shall be made by giving notice of appeal within 40 working days after the date of notification of the conditions imposed, or within such further period as the Court may allow on application made to it for that purpose either before or after the expiration of those 40 working days.
 
 ### 29 Determination of appeals
@@ -338,15 +329,15 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 
 ### 32 Rights of entry in respect of level crossings
 (1) Where—the gas operator may, upon giving the owner and occupier of the level crossing not less than 10 working days' notice of its intention to do so, apply to a District Court for an order under this section.
-  (a) A gas operator wishes to enter upon any level crossing for the purpose of constructing, placing, or maintaining any fittings in, on, along, over, across, or under that level crossing; and
-  (b) After taking all reasonable steps to do so, the gas operator has been unable to negotiate an agreement for entry,—
+  (a) a gas operator wishes to enter upon any level crossing for the purpose of constructing, placing, or maintaining any fittings in, on, along, over, across, or under that level crossing; and
+  (b) after taking all reasonable steps to do so, the gas operator has been unable to negotiate an agreement for entry,—
 (2) On being satisfied that the construction, placing, or maintenance of any fittings is necessary for the purposes of distributing gas, and that the gas operator has taken all reasonable steps to negotiate an agreement for entry, and that, in relation to the construction or placing of any fittings, no practical alternative route or site exists, the Court may make an order authorising the gas operator to—
-  (a) Enter and re-enter the level crossing at reasonable times, with or without such assistants, aircraft, boats, vehicles, appliances, machinery, and equipment as are reasonably necessary for the construction, placing, or maintenance of any fittings:
-  (b) Perform such work as may be reasonably necessary to construct, place, or maintain any fittings.
+  (a) enter and re-enter the level crossing at reasonable times, with or without such assistants, aircraft, boats, vehicles, appliances, machinery, and equipment as are reasonably necessary for the construction, placing, or maintenance of any fittings:
+  (b) perform such work as may be reasonably necessary to construct, place, or maintain any fittings.
 (3) Every order under this section shall specify—
-  (a) How and when entry is to be made; and
-  (b) The specific powers intended to be exercised; and
-  (c) Such other conditions (including conditions relating to the payment of compensation) as the Court thinks fit to impose.
+  (a) how and when entry is to be made; and
+  (b) the specific powers intended to be exercised; and
+  (c) such other conditions (including conditions relating to the payment of compensation) as the Court thinks fit to impose.
 (4) Before exercising any powers authorised by an order made under this section, the gas operator shall serve the order on the owner and occupier of the level crossing to which the order relates.
 (5) Every officer, employee, or agent of a gas operator acting in pursuance of an order made under this section shall have with him or her and shall produce on initial entry and, if requested, at any subsequent time, evidence of his or her authority and identity.
 (6) Nothing in this section applies in respect of the construction, placing, or maintenance of fittings for the purposes of gas transmission.
@@ -359,30 +350,30 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 ### 34 Cost of work required under section 33
 (1) Subject to subsection (2) of this section, the reasonable cost of all work required to be done under section 33(1) of this Act shall be paid by the person that requires the work to be done.
 (2) Where any work is required to be done under section 33(1) of this Act by reason that the fittings to which the work relates—the cost of the work shall be paid by the owner of the fittings.
-  (a) Were laid or erected contrary to any provision of—
-    (i) This Act or any regulations made under section 54 of this Act; or
-    (ii) The Gas Act 1982 (or any enactment repealed by that Act); or
-    (iii) The Electric Power Boards Act 1925; or
+  (a) were laid or erected contrary to any provision of—
+    (i) this Act or any regulations made under section 54 of this Act; or
+    (ii) the Gas Act 1982 (or any enactment repealed by that Act); or
+    (iii) the Electric Power Boards Act 1925; or
     (iv) the Local Government Act 1974 or the Local Government Act 2002; or
-    (v) The Public Works Act 1981; or
-    (vi) Any local or private Act; or
-    (vii) Any regulations made under any enactment, or under any enactment of any of the classes of enactment, referred to in any of subparagraphs (ii) to (vi) of this paragraph; or
-  (b) Are in a dangerous or unsafe condition,—
+    (v) the Public Works Act 1981; or
+    (vi) any local or private Act; or
+    (vii) any regulations made under any enactment, or under any enactment of any of the classes of enactment, referred to in any of subparagraphs (ii) to (vi) of this paragraph; or
+  (b) are in a dangerous or unsafe condition,—
 (3) Where any person requires any work to be done under section 33(1) of this Act, no claim by or against that person for betterment shall be allowed in respect of that work.
 (4) Where a controlling authority within the meaning of section 54(1) of the Government Roading Powers Act 1989 requires any work to be done under section 33(1) of this Act in relation to any fittings, subsections (1) to (3) of this section shall apply subject to the following provisions:
-  (a) In all cases the cost of materials (being fittings) that are used in the carrying out of the required work (other than fittings used only during the course of construction) shall be paid by the owner of the fittings:
-  (b) Where—an amount equal to the amount by which the cost, to the controlling authority, of that construction or those alterations, as the case requires, is so increased shall be paid to the controlling authority by the owner of the fittings:
-    (i) As a consequence of the requirement, the owner of the fittings elects to fix fittings to, or install fittings over, under, or through, a roading structure that is being, or is to be, constructed or altered; and
-    (ii) The cost of that construction or those alterations is increased by reason that those fittings will be fixed to, or installed over, under, or through, that roading structure,—
-  (c) Where, as a consequence of the requirement, the owner of the fittings relocates the fittings and reconstructs them to specifications different from those of the original fittings, the owner of the fittings shall pay the difference between—where the amount calculated in accordance with subparagraph (i) of this paragraph is less than the amount calculated in accordance with subparagraph (ii) of this paragraph.
-    (i) What it would have cost to relocate and reconstruct the fittings as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) of this subsection would have applied), taking into account—
-      (A) Any restrictions or conditions imposed by or under any enactment in relation to the relocation and reconstruction; and
-      (B) The location of the original fittings and the alternatives reasonably available to the owner of the fittings; and
-    (ii) The actual cost of the relocation and reconstruction (excluding any costs to which paragraph (a) of this subsection applies),—
+  (a) in all cases the cost of materials (being fittings) that are used in the carrying out of the required work (other than fittings used only during the course of construction) shall be paid by the owner of the fittings:
+  (b) where—an amount equal to the amount by which the cost, to the controlling authority, of that construction or those alterations, as the case requires, is so increased shall be paid to the controlling authority by the owner of the fittings:
+    (i) as a consequence of the requirement, the owner of the fittings elects to fix fittings to, or install fittings over, under, or through, a roading structure that is being, or is to be, constructed or altered; and
+    (ii) the cost of that construction or those alterations is increased by reason that those fittings will be fixed to, or installed over, under, or through, that roading structure,—
+  (c) where, as a consequence of the requirement, the owner of the fittings relocates the fittings and reconstructs them to specifications different from those of the original fittings, the owner of the fittings shall pay the difference between—where the amount calculated in accordance with subparagraph (i) of this paragraph is less than the amount calculated in accordance with subparagraph (ii) of this paragraph.
+    (i) what it would have cost to relocate and reconstruct the fittings as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) of this subsection would have applied), taking into account—
+      (A) any restrictions or conditions imposed by or under any enactment in relation to the relocation and reconstruction; and
+      (B) the location of the original fittings and the alternatives reasonably available to the owner of the fittings; and
+    (ii) the actual cost of the relocation and reconstruction (excluding any costs to which paragraph (a) of this subsection applies),—
 (5) Subsections (1) to (4) of this section shall apply subject to any agreement between the person requiring the work to be done and the owner of the fittings to which that requirement relates.
 (6) The amount of any payment that is required to be made under this section shall be determined in each case—
-  (a) By agreement between the person liable for the payment and the person to whom it is payable; or
-  (b) Failing such agreement, by arbitration under the Arbitration Act 1908, with one arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
+  (a) by agreement between the person liable for the payment and the person to whom it is payable; or
+  (b) failing such agreement, by arbitration under the Arbitration Act 1908, with one arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
 
 ### 35 Government Roading Powers Act 1989 not to apply
 Sections 33 and 34 of this Act shall apply notwithstanding anything to the contrary in section 54 of the Government Roading Powers Act 1989.
@@ -396,42 +387,42 @@ Sections 33 and 34 of this Act shall apply notwithstanding anything to the contr
 
 ### 37 Issue of gas code of practice
 (1) The Secretary may from time to time issue any instrument (in this Act referred to as a gas code of practice) for the purposes of, or relating to,—
-  (a) The setting or endorsing of standards or specifications concerning the design, construction, installation, importation, or manufacture of distribution systems, gas installations, fittings, or gas appliances:
-  (b) The setting of standards in respect of gas that is to be supplied to or used by gas retailers and consumers:
-  (c) The operation or use of distribution systems, gas installations, fittings, or gas appliances:
+  (a) the setting or endorsing of standards or specifications concerning the design, construction, installation, importation, or manufacture of distribution systems, gas installations, fittings, or gas appliances:
+  (b) the setting of standards in respect of gas that is to be supplied to or used by gas retailers and consumers:
+  (c) the operation or use of distribution systems, gas installations, fittings, or gas appliances:
   (d) The inspection or maintenance of distribution systems, gas installations, fittings, or gas appliances:
-  (e) The safety of persons or property associated with or using distribution systems, gas installations, fittings, or gas appliances:
-  (f) The setting or endorsing of standards or requirements relating to—
-    (i) The training required for any specified class or classes of workers for the purposes of establishing and maintaining safety standards in relation to the manufacture, extraction, storage, processing, treatment, distribution, supply, and application of gas:
-    (ii) The levels of technical or other qualifications necessary for the carrying out of any specified class or classes of gas work:
-  (g) The setting or endorsing of standards, specifications, or requirements relating to or concerning the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of gas fitness in respect of such fittings and gas appliances:
-  (h) The setting or endorsing of standards, controls, or requirements for the whole or any part of any tree or vegetation to prevent the interruption of the gas supply system.
+  (e) the safety of persons or property associated with or using distribution systems, gas installations, fittings, or gas appliances:
+  (f) the setting or endorsing of standards or requirements relating to—
+    (i) the training required for any specified class or classes of workers for the purposes of establishing and maintaining safety standards in relation to the manufacture, extraction, storage, processing, treatment, distribution, supply, and application of gas:
+    (ii) the levels of technical or other qualifications necessary for the carrying out of any specified class or classes of gas work:
+  (g) the setting or endorsing of standards, specifications, or requirements relating to or concerning the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of gas fitness in respect of such fittings and gas appliances:
+  (h) the setting or endorsing of standards, controls, or requirements for the whole or any part of any tree or vegetation to prevent the interruption of the gas supply system.
 (2) The Secretary may from time to time issue an amendment or revocation of any gas code of practice.
 (3) Every gas code of practice and every amendment or revocation of a gas code of practice shall show the date on which it was issued.
 (4) The Secretary may issue any code of practice, issued in accordance with the Hazardous Substances and New Organisms Act 1996, as a gas code of practice under this Act.
 
 ### 38 Code may incorporate official standards by reference
 (1) The Secretary may include in any gas code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject-matter of the code.
-  (a) An official standard or a specified part of an official standard; or
-  (b) An official standard or a specified part of an official standard with such additions or variations as are specified in the code—
+  (a) an official standard or a specified part of an official standard; or
+  (b) an official standard or a specified part of an official standard with such additions or variations as are specified in the code—
 (2) On the inclusion, in a code, of a reference to an official standard or part of an official standard, that official standard or, as the case may be, that part of that official standard (as it existed on the date of the inclusion but with such additions or variations (if any) as are specified in the code) shall be deemed to form part of the code.
 
 ### 39 Code to be approved by Minister
 (1) Subject to subsection (5) of this section, a gas code of practice, an amendment to such a code, and a revocation of such a code, shall not have any force or effect until it has been approved by the Minister.
 (2) Subject to subsection (3) of this section, the Minister shall not approve any code, or any amendment or revocation of a code, unless—
-  (a) Not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of the Secretary to apply for approval; and
-  (b) The Minister has consulted such persons as will be affected by the code or amendment or revocation, or representatives of those persons, and they have had the opportunity to consider its possible effects and to comment on those effects to the Minister; and
-  (c) The Minister has considered any comments made to the Minister concerning those effects.
+  (a) not less than 1 month has elapsed since the publication in the Gazette of a notice of the intention of the Secretary to apply for approval; and
+  (b) the Minister has consulted such persons as will be affected by the code or amendment or revocation, or representatives of those persons, and they have had the opportunity to consider its possible effects and to comment on those effects to the Minister; and
+  (c) the Minister has considered any comments made to the Minister concerning those effects.
 (3) The Minister may approve a gas code of practice or any amendment or revocation of that code without complying with the requirements of subsection (2)(a) or (b) of this section if the Minister is satisfied that sufficient consultation has already taken place in respect of the matters in the code or amendment or revocation.
 (4) When the Minister approves a gas code of practice or an amendment or revocation of that code, the Minister shall—
-  (a) Publish a notice of the approval in the Gazette; and
-  (b) Show the date of the approval on the code, amendment, or revocation and promulgate it in such manner as the Minister thinks fit.
+  (a) publish a notice of the approval in the Gazette; and
+  (b) show the date of the approval on the code, amendment, or revocation and promulgate it in such manner as the Minister thinks fit.
 (5) The fact that the Minister has published in the Gazette a notice under subsection (4)(a) of this section shall be conclusive proof that the requirements of this section have been complied with in respect of the approval specified in the notice.
 
 ### 40 Availability of codes
 (1) The Secretary shall ensure that copies of all gas codes of practice, and all amendments to such codes, that are for the time being in force are available—
-  (a) For inspection by members of the public free of charge; and
-  (b) For purchase by members of the public at a reasonable price.
+  (a) for inspection by members of the public free of charge; and
+  (b) for purchase by members of the public at a reasonable price.
 (2) The notice of approval published in the Gazette pursuant to section 39(4)(a) of this Act shall show, in relation to the code, or the amendment to a code, to which it relates, a place at which copies of the code or, as the case requires, the amendment are available for inspection free of charge and for purchase.
 
 ### 41 Emergency amendment of code
@@ -449,11 +440,11 @@ In any regulations made under section 54 of this Act, any gas code of practice o
 ### 43 Proof of code
 (1) Without affecting any other method of proof, the production in any proceedings of a copy of any gas code of practice or amendment or revocation of a gas code of practice, purporting to have been issued by the Secretary and to have been approved by the Minister shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 37 of this Act and approved by the Minister, on the date shown on it as the date of approval, under section 39 of this Act.
 (2) Without affecting any other method of proof, the production in any proceedings of—
-  (a) A copy of an emergency amendment of a gas code of practice purporting to have been issued by the Secretary shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 41 of this Act on the date shown on it as the date of issue:
-  (b) A certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under section 41(3) of this Act.
+  (a) a copy of an emergency amendment of a gas code of practice purporting to have been issued by the Secretary shall, in the absence of proof to the contrary, be sufficient evidence that it has been issued under the authority of section 41 of this Act on the date shown on it as the date of issue:
+  (b) a certificate under the hand of the Minister that the Minister has continued such an amendment in force until a date specified in the certificate shall, in the absence of proof to the contrary, be sufficient evidence that the amendment has been continued in force until that date under section 41(3) of this Act.
 (3) In any proceedings for an offence against this Act or against any regulations made under section 54 of this Act,—
-  (a) Any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by the Secretary:
-  (b) Judicial notice shall be taken of the signature of the Secretary.
+  (a) any requirement or standard prescribed in any gas code of practice by reference to any official standard (not being a New Zealand Standard) may be proved by the production of a copy of such official standard certified to be correct by the Secretary:
+  (b) judicial notice shall be taken of the signature of the Secretary.
 
 ## Part 4A — Governance of Gas Industry
 
@@ -473,11 +464,11 @@ The purpose of this Part is to provide for the governance of the gas industry.
 (6) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### 43C Outline of regulation-making powers
-(1) In this subpart, the principal regulation-making powers are as follows:Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipeline Regulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).They can be made only if—Regulations on wholesale market(a) an industry body is approved (and then only to implement the effect of a recommendation by that body); orRegulations on gas processing facilities(b) the Commission is established (and then only for transitional purposes or to implement the effect of a recommendation by the Commission).Regulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)
+(1) In this subpart, the principal regulation-making powers are as follows:Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipeline Regulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).Regulations on wholesale markThey can be made only if—Regulations on gas processing facilities(a)an industry body is approved (and then only to implement the effect of a recommendation by that body); orRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)(b)the Commission is established (and then only for transitional purposes or to implement the effect of a recommendation by the Commission).
 (2) This section is intended only as a guide to the general scheme and effect of the principal regulation-making powers in this Part.
 
 ### 43D Interpretation
-(1) In this Part, unless the context otherwise requires,—
+In this Part, unless the context otherwise requires,—
   - **board** , in relation to the industry body, means the directors, trustees, or other persons who constitute the governing board of the industry body
   - **Commission** means the Energy Commission to be established under section 43ZZH
   - **constitution** , in relation to the industry body, means its constitution or trust deed or other similar governing document
@@ -535,7 +526,7 @@ The purpose of this Part is to provide for the governance of the gas industry.
 
 ### 43G Other gas governance regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
-(2) The purposes areComplaints resolution systemPrepayment metersAbility of consumers to choose preferred gas retailerTransition arrangements for insolvent gas retailersDisclosure of informationTerms and conditions of accessInformation on customer accountsConsumer contractsDispute resolution proceduresEnforcement of gas governance regulationsProcesses
+(2) The purposes are—Complaints resolution systemPrepayment metersAbility of consumers to choose preferred gas retailerTransition arrangements for insolvent gas retailersDisclosure of informationTerms and conditions of accessInformation on customer accountsConsumer contractsDispute resolution proceduresEnforcement of gas governance regulationsProcesses
   (a) providing for the establishment of, or participation by gas distributors and gas retailers in, a complaints resolution system (that may include codes of practice) for the purpose of addressing complaints by all or any of small consumers (including potential small consumers), or owners and occupiers of land into, through, or against which pipelines have been laid down or placed, relating to gas retailers and gas distributors, or setting out minimum requirements in relation to that system, including—
     (i) provision for compensation up to a maximum of $20,000 to be awarded, and other actions to be taken, by the complaints resolution agency in relation to those complaints:
     (ii) provision for rights of review, or rights of appeal on a question of law only, in relation to decisions relating to those complaints:
@@ -841,7 +832,7 @@ The purpose of this subpart is to provide for co-regulation of the gas industry 
 The objectives of the industry body, in recommending gas governance regulations under section 43F, are as follows:
   (a) the principal objective is to ensure that gas is delivered to existing and new customers in a safe, efficient, and reliable manner; and
   (b) the other objectives are—
-    (i) the facilitation and promotion of the ongoing sup-ply of gas to meet New Zealand's energy needs, by providing access to essential infrastructure and competitive market arrangements:
+    (i) the facilitation and promotion of the ongoing supply of gas to meet New Zealand's energy needs, by providing access to essential infrastructure and competitive market arrangements:
     (ii) barriers to competition in the gas industry are minimised:
     (iii) incentives for investment in gas processing facilities, transmission, and distribution are maintained or enhanced:
     (iv) delivered gas costs and prices are subject to sustained downward pressure:
@@ -998,47 +989,6 @@ For the purposes of the audit of any financial statements referred to in section
 (1) This subpart expires on the date on which subpart 3 comes into force.
 (2) The expiry of this subpart does not affect any gas governance regulations or rules made on the recommendation of the industry body.
 
-### Subpart 3 — Governance of gas industry by Energy Commission
-
-**Preliminary provisions**
-
-### 43ZZG Purpose
-[Repealed]
-
-**Energy Commission**
-
-### 43ZZH Commission to govern gas industry established
-[Repealed]
-
-### 43ZZI Continuation of Commission's functions, objectives, etc
-[Repealed]
-
-### 43ZZJ Additional principal objective of Energy Commission
-[Repealed]
-
-### 43ZZK Additional specific outcomes in relation to gas
-[Repealed]
-
-### 43ZZL Additional functions
-[Repealed]
-
-### 43ZZM Additional duties of members
-[Repealed]
-
-**Role of Energy Commission in relation to gas governance regulations and rules**
-
-### 43ZZN Objectives of recommendations
-[Repealed]
-
-### 43ZZO Consultation and accountability sections apply
-[Repealed]
-
-### 43ZZP Levy of industry participants
-[Repealed]
-
-### 43ZZQ Amendments to Ombudsmen Act 1975 and Public Finance Act 1989
-[Repealed]
-
 ### Subpart 4 — Exemptions from restrictive trade practice provisions of Commerce Act 1986
 
 ### 43ZZR Authorisations for purposes of Commerce Act 1986
@@ -1067,12 +1017,6 @@ All gas supplied shall be of such quality and pressure as is for the time being 
 (1) All distribution systems, gas installations, fittings, and gas appliances shall be of such quality and standard, and shall be constructed, maintained, and operated in accordance with such safety requirements, as are prescribed by regulations made under section 54 of this Act.
 (2) Nothing in subsection (1) of this section applies to any distribution system, gas installation, fittings, or gas appliance exempted from the provisions of this section by regulations made under section 54 of this Act.
 
-### 46A Owners or operators of gas supply systems must have safety management system
-[Repealed]
-
-### 46B Offence to breach requirement to have safety management system
-[Repealed]
-
 ### 47 Testing and inspection of gasfitting work
 (1) Where any gasfitting is carried out, that work or, as the case may require, the gas installation or gas appliance in respect of which that work is carried out shall not be connected to a gas supply unless such testing, certification, and inspection as is required in respect of that work by regulations made under section 54 of this Act has been carried out.
 (2) No person shall sell, or offer for sale, any gas appliance or fittings that have not been tested and certified in accordance with regulations made under section 54 of this Act.
@@ -1081,29 +1025,29 @@ All gas supplied shall be of such quality and pressure as is for the time being 
 
 ### 48 Power of entry
 (1) For the purpose of ensuring that the requirements of section 47 of this Act are complied with in relation to any gasfitting, any person authorised by the Board for the purpose may, at any reasonable time, enter any premises (including a dwellinghouse) and—
-  (a) Inspect and test any gas installation or gas appliance on those premises that is, or is intended to be, connected to a gas supply:
-  (b) Make such inquiries as are necessary to determine whether or not any gasfitting on those premises has been properly certified.
+  (a) inspect and test any gas installation or gas appliance on those premises that is, or is intended to be, connected to a gas supply:
+  (b) make such inquiries as are necessary to determine whether or not any gasfitting on those premises has been properly certified.
 (2) The power of entry conferred by subsection (1) of this section may be exercised whether or not there are any grounds to believe that any gasfitting has not been properly carried out.
 (3) Every person shall give reasonable notice of that person's intention to enter any premises pursuant to subsection (1) of this section to both the owner and the occupier of the premises.
 (4) Every person shall, on entering any premises pursuant to subsection (1) of this section, and when requested at any subsequent time, produce to the person in charge of the premises—
-  (a) Evidence of that person's authority to enter the premises; and
-  (b) Evidence of that person's identity.
+  (a) evidence of that person's authority to enter the premises; and
+  (b) evidence of that person's identity.
 
 ### 49 Power to require information
 (1) Where any gasfitting has been done on any premises, any person (being a gas inspector or any other person authorised by or under this Act to inspect gasfitting) may from time to time require any person who was the occupier of the premises at the time the gasfitting was done to furnish, within such reasonable period as the inspector or authorised person may specify, any information or particulars at that person's disposal that are relevant for the purpose of identifying the person who did the gasfitting.
 (2) Every person commits an offence and is liable on summary conviction to a fine not exceeding $5,000 who,—
-  (a) Without reasonable excuse, refuses or fails to comply with any requirement made under subsection (1) of this section; or
+  (a) without reasonable excuse, refuses or fails to comply with any requirement made under subsection (1) of this section; or
   (b) Makes any statement knowing that it is both incorrect and material in any information or particulars furnished (whether in writing or not) under subsection (1) of this section.
 (3) No person shall be excused from answering any question, or furnishing any information or particulars, when required to do so under subsection (1) of this section on the ground that compliance with that requirement could or would tend to incriminate that person or subject that person to any penalty or forfeiture.
 (4) No statement or disclosure furnished or made by any person in compliance or purported compliance with any requirement made under subsection (1) of this section shall be admissible against that person in any criminal or civil proceedings, other than proceedings for an offence against subsection (2)(b) of this section.
 
 ### 50 Conditions relating to power to enter land or premises
 (1) Subject to subsections (2) and (3) of this section and to sections 32 and 48 of this Act, but notwithstanding any other provision of this Act, any provision in this Act or in any regulations made under section 54 of this Act giving any person the power to enter any land or premises without the consent of the owner or occupier shall be subject to the following conditions:
-  (a) Entry to the land or premises shall only be made by the person specified in the relevant provision or any other person that the person so specified authorises in writing, either specifically or as a member of a class so authorised:
-  (b) Reasonable notice of the intention to enter shall be given unless the giving of the notice would defeat the purpose of the entry:
-  (c) Entry shall be made at reasonable times:
-  (d) The person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on initial entry and, if requested, at any subsequent time:
-  (e) Entry into a dwellinghouse shall be authorised by a warrant from a District Court Judge, Justice, or Community Magistrate, or any Court Registrar (not being a constable), by written application on oath.
+  (a) entry to the land or premises shall only be made by the person specified in the relevant provision or any other person that the person so specified authorises in writing, either specifically or as a member of a class so authorised:
+  (b) reasonable notice of the intention to enter shall be given unless the giving of the notice would defeat the purpose of the entry:
+  (c) entry shall be made at reasonable times:
+  (d) the person entering shall carry a warrant of authority or be working under the immediate control of a person holding such authority, which shall be produced on initial entry and, if requested, at any subsequent time:
+  (e) entry into a dwellinghouse shall be authorised by a warrant from a District Court Judge, Justice, or Community Magistrate, or any Court Registrar (not being a constable), by written application on oath.
 (2) The conditions specified in subsection (1) of this section shall not apply where the entry is necessary in circumstances of probable danger to life or property or where entry is necessary to maintain the continuity or safety of the supply and distribution of gas.
 (3) Nothing in this section shall restrict rights of access in order to obtain consent to enter the land or premises for the authorised purpose in respect of which entry is required.
 (4) Notwithstanding any other provision of this Act, no provision in this Act or in any regulations made under section 54 of this Act giving any person the power to enter any land or premises without the consent of the owner or occupier shall authorise any person to enter or search any restricted area within a defence area (within the meaning of the Defence Act 1990) unless the person entering has a security clearance approved by the person in charge of the area.
@@ -1124,61 +1068,59 @@ Every person commits an offence and is liable on summary conviction to a fine no
 
 ### 54 Regulations
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Providing for the removal of any fittings or gas appliance erected or used contrary to the provisions of this Act or any regulations made under this section, and for the removal or alteration of any dangerous fittings or dangerous gas appliance, at the expense in all cases of the owner of the fittings or gas appliance:
-  (b) Securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly, by—
-    (i) Authorising, controlling, and prescribing conditions in respect of, the design, construction, installation, maintenance, use, management, inspection, and testing of distribution systems or gas installations:
-    (ii) Authorising, controlling, and prescribing conditions in respect of, the design, installation, manufacture, maintenance, use, inspection, importation, sale, and testing of gas appliances or fittings used or intended to be used in the application of gas:
-    (iii) Prohibiting the manufacture, importation, sale, and use of such gas appliances and fittings as do not satisfy any prescribed tests, standards, or safety criteria:
-    (iv) Requiring such types or categories of gas appliances and fittings as are specified in the regulations, or as are from time to time declared by the Secretary by public notice to be subject to the regulations, to be approved by the Secretary before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by the Secretary of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of gas appliances or fittings are deemed to be approved by the Secretary for the purposes of the regulations:
-    (v) Authorising, controlling, restricting, prescribing conditions in respect of, and, where necessary, prohibiting, the construction, installation, use, management, operation, maintenance, transportation, and movement of any structure, device, thing, or substance, whether fixed or movable and whether permanent or temporary, in the vicinity of any fittings or where any fittings may affect or be affected by the structure, device, thing, or substance:
-    (vi) Controlling the existence and location of the whole or any part of any tree or vegetation that is in the vicinity of, or may affect, any fittings:
+  (a) providing for the removal of any fittings or gas appliance erected or used contrary to the provisions of this Act or any regulations made under this section, and for the removal or alteration of any dangerous fittings or dangerous gas appliance, at the expense in all cases of the owner of the fittings or gas appliance:
+  (b) securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly, by—
+    (i) authorising, controlling, and prescribing conditions in respect of, the design, construction, installation, maintenance, use, management, inspection, and testing of distribution systems or gas installations:
+    (ii) authorising, controlling, and prescribing conditions in respect of, the design, installation, manufacture, maintenance, use, inspection, importation, sale, and testing of gas appliances or fittings used or intended to be used in the application of gas:
+    (iii) prohibiting the manufacture, importation, sale, and use of such gas appliances and fittings as do not satisfy any prescribed tests, standards, or safety criteria:
+    (iv) requiring such types or categories of gas appliances and fittings as are specified in the regulations, or as are from time to time declared by the Secretary by public notice to be subject to the regulations, to be approved by the Secretary before being offered for sale in New Zealand; providing for the giving of such approval, for the specifying by the Secretary of conditions subject to which such approval may be given, for the variation or withdrawal of any such approval, and for the revocation, variation, or addition of any condition of any such approval; and prescribing circumstances in which types or categories of gas appliances or fittings are deemed to be approved by the Secretary for the purposes of the regulations:
+    (v) authorising, controlling, restricting, prescribing conditions in respect of, and, where necessary, prohibiting, the construction, installation, use, management, operation, maintenance, transportation, and movement of any structure, device, thing, or substance, whether fixed or movable and whether permanent or temporary, in the vicinity of any fittings or where any fittings may affect or be affected by the structure, device, thing, or substance:
+    (vi) controlling the existence and location of the whole or any part of any tree or vegetation that is in the vicinity of, or may affect, any fittings:
   (bb) prescribing requirements for safety management systems:
   (bc) prescribing, for the purposes of sections 46A, 46B, and 54A, what distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system) and the circumstances and conditions in which any distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system):
-  (c) Prescribing standards in respect of fittings, gas appliances, gas installations, meters, and gas that are or is to be supplied to or used by gas retailers and consumers:
-  (d) Providing for the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of fitness by such persons or class or classes of persons as are prescribed or as are authorised by the Secretary; prescribing fees or maximum fees or authorising the charging of reasonable fees in respect of such examinations (and different fees may be prescribed or provided for in respect of different circumstances and different testing authorities); prescribing the persons to whom any fees are to be paid; and exempting specified relocatable buildings or pleasure vessels, or classes of relocatable buildings or pleasure vessels, from the provisions of the regulations:
-  (e) Prescribing, in relation to workers,—
-    (i) The training required for any specified class or classes of workers for the purposes of establishing and maintaining safety standards in relation to the manufacture, extraction, storage, processing, treatment, distribution, supply, and application of gas:
-    (ii) The levels of technical or other qualifications necessary for the carrying out of any specified class or classes of gas work:
-      Provided that nothing in this paragraph shall authorise the making of any regulation in contradiction to the provisions of the Plumbers, Gasfitters, and Drainlayers Act 1976 or any regulations made under that Act:
-  (f) Regulating and controlling—
-    (i) The distribution and supply of gas:
-    (ii) The installation, use, and maintenance of gas measurement systems used for or in connection with the supply or use of gas:
-  (g) Providing for the protection of fittings:
-  (h) Requiring the keeping and retention of such records as are necessary for the purposes of establishing and maintaining safety standards in relation to the production, transmission, distribution, and application of gas, and prescribing the particulars that shall be included in such records:
-  (i) Requiring gas wholesalers to supply to gas retailers and consumers such information on changes in gas composition or variations in gas supplied as is prescribed:
-  (j) Providing for the testing, inspection, and certification of gasfitting:
-  (k) Prescribing standards in respect of the quality, composition, physical properties, dew point, calorific value, purity, odorisation, and odour of gas supplied:
-  (l) Prescribing permissible pressure ranges in respect of the supply of gas:
-  (m) Providing for the testing and sealing of gas measurement systems and calibration equipment; prescribing the manner in which and the means by which such testing and sealing shall be done; and regulating the manner in which and the means by which gas measurement systems and calibration equipment are reassembled in connection with such testing:
-  (n) Authorising the Secretary—
-    (i) In cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by gas:
-      Provided that any such instruction, order, or requirement shall remain in force for such period, not exceeding 6 months, as may be determined by the Secretary or until its earlier revocation by the Secretary:
-    (ii) To obtain such information concerning the production, transmission, distribution, sale, consumption, application, and supply of gas as may be required for statistical purposes:
-    (iii) To carry out tests on distribution systems, gas installations, fittings, and gas appliances:
+  (c) prescribing standards in respect of fittings, gas appliances, gas installations, meters, and gas that are or is to be supplied to or used by gas retailers and consumers:
+  (d) providing for the periodic examination of fittings and gas appliances installed in relocatable buildings or pleasure vessels, or both, and the issue of warrants of fitness by such persons or class or classes of persons as are prescribed or as are authorised by the Secretary; prescribing fees or maximum fees or authorising the charging of reasonable fees in respect of such examinations (and different fees may be prescribed or provided for in respect of different circumstances and different testing authorities); prescribing the persons to whom any fees are to be paid; and exempting specified relocatable buildings or pleasure vessels, or classes of relocatable buildings or pleasure vessels, from the provisions of the regulations:
+  (e) prescribing, in relation to workers,—
+    (i) the training required for any specified class or classes of workers for the purposes of establishing and maintaining safety standards in relation to the manufacture, extraction, storage, processing, treatment, distribution, supply, and application of gas:
+    (ii) the levels of technical or other qualifications necessary for the carrying out of any specified class or classes of gas work:
+  (f) regulating and controlling—
+    (i) the distribution and supply of gas:
+    (ii) the installation, use, and maintenance of gas measurement systems used for or in connection with the supply or use of gas:
+  (g) providing for the protection of fittings:
+  (h) requiring the keeping and retention of such records as are necessary for the purposes of establishing and maintaining safety standards in relation to the production, transmission, distribution, and application of gas, and prescribing the particulars that shall be included in such records:
+  (i) requiring gas wholesalers to supply to gas retailers and consumers such information on changes in gas composition or variations in gas supplied as is prescribed:
+  (j) providing for the testing, inspection, and certification of gasfitting:
+  (k) prescribing standards in respect of the quality, composition, physical properties, dew point, calorific value, purity, odorisation, and odour of gas supplied:
+  (l) prescribing permissible pressure ranges in respect of the supply of gas:
+  (m) providing for the testing and sealing of gas measurement systems and calibration equipment; prescribing the manner in which and the means by which such testing and sealing shall be done; and regulating the manner in which and the means by which gas measurement systems and calibration equipment are reassembled in connection with such testing:
+  (n) authorising the Secretary—
+    (i) in cases of urgency, to issue, in such manner as may be prescribed, instructions, orders, or requirements for securing the protection of persons from injuries caused, directly or indirectly, by gas:provided that any such instruction, order, or requirement shall remain in force for such period, not exceeding 6 months, as may be determined by the Secretary or until its earlier revocation by the Secretary:
+    (ii) to obtain such information concerning the production, transmission, distribution, sale, consumption, application, and supply of gas as may be required for statistical purposes:
+    (iii) to carry out tests on distribution systems, gas installations, fittings, and gas appliances:
   (o) authorising the Secretary or the chief executive of the department of State responsible for the administration of the Building Act 2004, or both, to exempt specific gas installations, gas appliances, fittings, persons, or things from requirements imposed by regulations made under this section, subject to any conditions that the Secretary or, as the case requires, the chief executive thinks fit:
-  (p) Exempting or providing for the exemption of distribution systems, gas installations, fittings, and gas appliances from the provisions of section 46 of this Act:
-  (q) Prescribing the matters in respect of which fees are payable under this Act; prescribing the amount of the fees or the method by which they are to be assessed; and providing for the remission or refund of any such fees:
-  (r) Prescribing the forms of documents required under this Act, or authorising the Secretary to prescribe or approve such forms, and requiring the use of such forms:
-  (s) Prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fine that may be imposed in respect of any such offence, which fine shall be an amount not exceeding $50,000 and, where the offence is a continuing one, a further amount not exceeding $2,000 for every day or part of a day during which the offence has continued:
+  (p) exempting or providing for the exemption of distribution systems, gas installations, fittings, and gas appliances from the provisions of section 46 of this Act:
+  (q) prescribing the matters in respect of which fees are payable under this Act; prescribing the amount of the fees or the method by which they are to be assessed; and providing for the remission or refund of any such fees:
+  (r) prescribing the forms of documents required under this Act, or authorising the Secretary to prescribe or approve such forms, and requiring the use of such forms:
+  (s) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this section, and the amount of the fine that may be imposed in respect of any such offence, which fine shall be an amount not exceeding $50,000 and, where the offence is a continuing one, a further amount not exceeding $2,000 for every day or part of a day during which the offence has continued:
   (sb) prescribing infringement offences:
   (sc) setting the infringement fee for each infringement offence, which,—
     (i) in the case of an individual, must not exceed $1,000; or
     (ii) in the case of a body corporate, must not exceed $3,000:
   (sd) prescribing information to be included in infringement notices and reminder notices:
   (se) prescribing, for the purposes of this Act, where the point of supply is deemed to be or not to be in relation to any place and the circumstances and conditions in which any point is deemed to be or not to be a point of supply:
-  (t) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+  (t) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 (2) Any regulations made under any of paragraphs (b) to (m) of subsection (1) of this section may—
-  (a) Require compliance with the whole or any part of any gas code of practice or any official standard:
-  (b) Provide that proof of compliance with—shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
-    (i) Any gas code of practice, or any part of such a code; or
+  (a) require compliance with the whole or any part of any gas code of practice or any official standard:
+  (b) provide that proof of compliance with—shall be proof of compliance with such provisions of the regulations as are specified in the regulations.
+    (i) any gas code of practice, or any part of such a code; or
     (ia) any official standard, or any part of an official standard; or
-    (ii) Any approved code of practice for the time being in force pursuant to section 20 of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
+    (ii) any approved code of practice for the time being in force pursuant to section 20 of the Health and Safety in Employment Act 1992, or any part of any such approved code of practice,—
 (2A) Regulations may require compliance with an official standard (or a specified part of an official standard) that relates to the subject matter of the regulations by referring to it in the regulations (with any additions or variations that may be specified in the regulations).
 (2B) That official standard (or the specified part), as it existed on the date of the inclusion (but with any specified additions or variations) is then deemed to form part of the regulations.
 (3) Without limiting paragraph (b) of subsection (1) of this section, regulations made under subparagraph (iv) of that paragraph may require types or categories of gas measurement systems to be approved by the Secretary before being offered for sale in New Zealand, notwithstanding that such approval is not required for the purposes of securing the protection of persons and property from injury or damage caused through gas, either directly or indirectly.
 (4) Without limiting the Acts Interpretation Act 1924, no regulation made under this section shall be invalid because it leaves any matter to the discretion of the Secretary or any other person, or because it authorises the Secretary or any other person—
-  (a) To give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
-  (b) To set any standard.
+  (a) to give any consent or approval on or subject to conditions to be imposed or approved by the Secretary or any other person; or
+  (b) to set any standard.
 (5) Notwithstanding section 1(3) of this Act, and without limiting section 12 of the Acts Interpretation Act 1924, no regulation made under this section may be expressed to come into force before the 1st day of April 1993.
 (6) The Minister, before recommending the making of any regulations under this section, shall consult with the Environmental Risk Management Authority established under the Hazardous Substances and New Organisms Act 1996 about the contents of such regulations and shall take into account any submissions made by that Authority.
 
@@ -1219,36 +1161,36 @@ Every person commits an offence and is liable on summary conviction to a fine no
 
 ### 55 Regulations relating to information disclosure
 (1) The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Requiring every gas wholesaler to publish in the prescribed manner information in relation to the supply of gas by that gas wholesaler (including gas supplied direct to a consumer); and prescribing the information, including (without limitation) prices, terms, and conditions, that the gas wholesaler shall make available:
-  (b) Requiring gas wholesalers, pipeline owners, and gas retailers to make publicly available prescribed financial statements that follow generally accepted accounting principles, including (without limitation) profit and loss statements and balance sheets and statements of accounting principles:
-  (c) Requiring every pipeline owner to publish in the prescribed manner information in relation to the conveyance of gas by means of pipelines owned by that pipeline owner; and prescribing the information that the pipeline owner shall make available, which information may include (without limitation)—
-    (i) Prices, terms, and conditions:
-    (ii) Pricing policies and methodologies:
-    (iii) Costs:
-    (iv) Cost allocation policies and methodologies:
-    (v) Performance measures, or information from which performance measures may be derived, or both:
-    (vi) The amount of gas conveyed:
-    (vii) The capacity of the pipeline owner's pipelines, and the methodology used to measure that capacity:
-  (d) Requiring every gas retailer to publish in the prescribed manner information in relation to gas and prescribed related services supplied by the gas retailer; and prescribing the information, including (without limitation) the prices, terms, and conditions, that every gas retailer shall make available:
-  (e) Prescribing the form and manner in which the financial statements required by regulations made under paragraph (b) of this subsection shall be made available:
-  (f) Prescribing the form of statutory declaration and by whom it shall be made for the purposes of section 56 of this Act:
+  (a) requiring every gas wholesaler to publish in the prescribed manner information in relation to the supply of gas by that gas wholesaler (including gas supplied direct to a consumer); and prescribing the information, including (without limitation) prices, terms, and conditions, that the gas wholesaler shall make available:
+  (b) requiring gas wholesalers, pipeline owners, and gas retailers to make publicly available prescribed financial statements that follow generally accepted accounting principles, including (without limitation) profit and loss statements and balance sheets and statements of accounting principles:
+  (c) requiring every pipeline owner to publish in the prescribed manner information in relation to the conveyance of gas by means of pipelines owned by that pipeline owner; and prescribing the information that the pipeline owner shall make available, which information may include (without limitation)—
+    (i) prices, terms, and conditions:
+    (ii) pricing policies and methodologies:
+    (iii) costs:
+    (iv) cost allocation policies and methodologies:
+    (v) performance measures, or information from which performance measures may be derived, or both:
+    (vi) the amount of gas conveyed:
+    (vii) the capacity of the pipeline owner's pipelines, and the methodology used to measure that capacity:
+  (d) requiring every gas retailer to publish in the prescribed manner information in relation to gas and prescribed related services supplied by the gas retailer; and prescribing the information, including (without limitation) the prices, terms, and conditions, that every gas retailer shall make available:
+  (e) prescribing the form and manner in which the financial statements required by regulations made under paragraph (b) of this subsection shall be made available:
+  (f) prescribing the form of statutory declaration and by whom it shall be made for the purposes of section 56 of this Act:
   (g) requiring, in respect of statements or information required from pipeline owners,—
     (i) the adoption, in the preparation or compilation of those statements or that information, of such methodology as is prescribed in the regulations or in any document published by or under the authority of the Secretary and referred to in the regulations:
     (ii) the disclosure, in the prescribed manner, of the methodology adopted in the preparation or compilation of those statements or that information:
     (iii) the inclusion of any matters prescribed in any document published by or under the authority of the Secretary and referred to in the regulations:
-  (h) Requiring that any statements or information required, by regulations made pursuant to this section, to be made available, or information from which those statements or that information is derived (in whole or in part), be certified, in the prescribed form and manner, by persons belonging to any class of persons specified in that behalf in the regulations:
-  (ha) Requiring, in respect of any person that is required to publish information or to make publicly available prescribed financial statements, that that person include with or in that information, or with or in those prescribed financial statements, information or statements in respect of prescribed business relationships involving that person and involving the supply of gas or the provision of prescribed related services; and, for this purpose, prescribed business relationships involving activities conducted by, or occurring within, one person only are included
-  (i) Prescribing the time limits within which the information disclosure required by any regulations made pursuant to this subsection shall be made to the public:
-  (j) Requiring gas distributors and gas retailers, in charging for the conveyance of gas, or the supply of gas, or both, to disclose, in the prescribed manner, charges, or components of charges, or both:
-  (k) Exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this subsection.
+  (h) requiring that any statements or information required, by regulations made pursuant to this section, to be made available, or information from which those statements or that information is derived (in whole or in part), be certified, in the prescribed form and manner, by persons belonging to any class of persons specified in that behalf in the regulations:
+  (ha) requiring, in respect of any person that is required to publish information or to make publicly available prescribed financial statements, that that person include with or in that information, or with or in those prescribed financial statements, information or statements in respect of prescribed business relationships involving that person and involving the supply of gas or the provision of prescribed related services; and, for this purpose, prescribed business relationships involving activities conducted by, or occurring within, one person only are included
+  (i) prescribing the time limits within which the information disclosure required by any regulations made pursuant to this subsection shall be made to the public:
+  (j) requiring gas distributors and gas retailers, in charging for the conveyance of gas, or the supply of gas, or both, to disclose, in the prescribed manner, charges, or components of charges, or both:
+  (k) exempting or providing for the exemption of any person or class of persons from all or any of the requirements of any regulations made under this subsection.
 (2) The regulations may not require the disclosure of the names of the parties to, or the terms and conditions of, contracts made before 1 August 1990 but, if the contract is modified after that date, the regulations may require the disclosure of information as to the modification, the term or condition that has been modified (including its context), and the names (or characteristics) of the parties.
 (3) Notwithstanding section 1(3) of this Act, and without limiting section 12 of the Acts Interpretation Act 1924, no regulations made under this section may be expressed to come into force before the 1st day of April 1993.
 (4) References in this section to pipeline owners, gas wholesalers, gas retailers, and gas distributors include any person that is or was such a person for any part of a financial year.
 
 ### 56 Information to be supplied to Secretary
 (1) Every person who is required by regulations made under section 55 of this Act to make available statements and information shall supply to the Secretary—
-  (a) A copy of all statements and information, made available to the public pursuant to regulations made under that section, which statements and information must be supplied within 5 working days after the statements and information are first made so available:
-  (b) Any further statements, reports, agreements, particulars, and other information requested in writing by the Secretary for the purpose of monitoring the person's compliance with those regulations.
+  (a) a copy of all statements and information, made available to the public pursuant to regulations made under that section, which statements and information must be supplied within 5 working days after the statements and information are first made so available:
+  (b) any further statements, reports, agreements, particulars, and other information requested in writing by the Secretary for the purpose of monitoring the person's compliance with those regulations.
 (2) Every person to whom a request is made pursuant to subsection (1)(b) of this section shall comply with that request within 30 days after receiving the request or within such further period as the Secretary in any particular case may allow.
 (3) All statements, reports, agreements, particulars, and information supplied to the Secretary under paragraph (a) or paragraph (b) of subsection (1) of this section shall be verified by statutory declaration in the form and by the persons prescribed by regulations made under section 55(1)(f) of this Act.
 
@@ -1258,34 +1200,13 @@ Every person commits an offence and is liable on summary conviction to a fine no
 
 **Miscellaneous provisions**
 
-### 56B Offences for actions or omissions likely to cause serious harm or significant property damage
-[Repealed]
-
 ### 57 Offences
 (1) Every person commits an offence against this section who—
-  (a) Fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 55 of this Act; or
-  (b) Fails, without reasonable excuse, to comply with the requirements of section 56(1)(a) or section 56(1)(b) or section 56(2) or section 56(3) of this Act.
+  (a) fails, without reasonable excuse, to comply with any information disclosure requirements prescribed in regulations made under section 55 of this Act; or
+  (b) fails, without reasonable excuse, to comply with the requirements of section 56(1)(a) or section 56(1)(b) or section 56(2) or section 56(3) of this Act.
 (2) Every person commits an offence against this section who makes a false declaration when supplying any statement, report, agreement, particulars, or information pursuant to section 56 of this Act.
 (3) Every person who commits an offence against subsection (1) of this section is liable on summary conviction to a fine not exceeding $200,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
 (4) Every person who commits an offence against subsection (2) of this section is liable on summary conviction to a fine not exceeding $20,000.
-
-### 57A Time for laying information
-[Repealed]
-
-### 57B Infringement offences
-[Repealed]
-
-### 57C Infringement notices
-[Repealed]
-
-### 57D Procedural requirements for infringement notices
-[Repealed]
-
-### 57E Payment of infringement fee
-[Repealed]
-
-### 57F Effect of infringement notice
-[Repealed]
 
 ### 58 Repeals, revocations, and consequential amendments
 (1) The enactments specified in Schedule 1 to this Act are hereby repealed.
@@ -1307,18 +1228,4 @@ Section 57(1) of the Gas Act 1982 is hereby amended by omitting the words (not b
 
 ## Schedule 2 — Enactments amended
 
-| Enactment amended | Amendment |
-| --- | --- |
-| 1986, No 127—The Environment Act 1986 | By inserting in the Schedule, in its appropriate alphabetical order, the item The Gas Act 1992. |
-| 1989, No 44—The Public Finance Act 1989 | By repealing so much of Schedule 1 as relates to the Gas Act 1982. |
-| 1989, No 140—The Ministry of Energy (Abolition) Act 1989 | By repealing section 23, and substituting the following section:23Gas levies1In this section, unless the context otherwise requires, expressions defined in the Gas Act 1992 shall have the meanings so defined.2Nothing in this section shall apply to gas sold for use as a feedstock or for the generation of electricity or to liquefied petroleum gas.3Not later than 30 days after the last days of March, June, September, and December in each year—aEvery person or body who or which sells piped gas to a gas retailer (whether or not that gas retailer is also a gas wholesaler); andbEvery gas retailer who sells piped gas which is not subject to a levy pursuant to paragraph (a) of this subsection—shall supply the Secretary with true and accurate returns of the energy content of all such gas that has been so sold during the immediately preceding period of 3 months ended with the said last days of March, June, September, and December, respectively, together with the levy calculated in accordance with this section.4Notwithstanding anything in subsection (3) of this section, any person or body who or which has sold, during any period referred to in that subsection in respect of which a levy would, apart from this subsection, be payable under this section by that person or body, less than 10,000 gigajoules of gas need not supply a return, nor pay any levy, in respect of that period.5The levy payable on all pipe gas that has been so sold during the said periods of 3 months shall be 2 cents for each complete gigajoule or such lesser amount for each complete gigajoule as may be prescribed.6All gas measurements made for the purpose of supplying a return and calculating the levy payable under this section shall be made by the use of methods approved by the Secretary.1977 No 33 s 15K; 1987 No 97 s 3(1); 1988 No 134 s 3 By repealing so much of Schedule 1 as relates to the Gas Act 1982. |
-| 1991, No 60—The Judicature Amendment Act 1991 | By repealing so much of the Schedule as relates to the Gas Act 1982. |
-| 1991, No 69—The Resource Management Act 1991 | By repealing so much of Part 1 of Schedule 8 as relates to the Gas Act 1982. |
-| 1992, No 56—The Energy Companies Act 1992 | By omitting from the definition of the term gas in section 2(1) the expression section 2 of the Gas Act 1982, and substituting the expression section 2 of the Gas Act 1982. |
-
 ## Schedule 3 — Regulations revoked
-
-| Title | Statutory Regulations Serial Number |
-| --- | --- |
-| The Gas Industry Regulations 1984 | 1984/246 |
-| The Gas Industry Regulations 1984, Amendment No 2 | 1987/347 |
