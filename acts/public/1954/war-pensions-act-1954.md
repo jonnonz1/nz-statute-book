@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2010-01-05_
+_Consolidation as at 2010-04-01_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -1180,16 +1180,16 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 20— |  |
-|  | in every case | $188.17 a week. |
+|  | in every case | $191.86 a week. |
 | 2 | Under section 23— |  |
-|  | in certain cases of severe disablement (additional pension) | $112.89 a week. |
+|  | in certain cases of severe disablement (additional pension) | $115.12 a week. |
 | 3 | Under section 28— |  |
 |  | clothing allowance (additional pension) as follows— |  |
-|  | aloss of 2 limbs or parts | $20.99 a week. |
-|  | bloss of leg or part | $20.25 a week. |
-|  | closs of arm or part | $14.67 a week. |
-|  | duse of mechanical appliance, etc | $14.67 a week. |
-|  | esoiling of clothing | $14.67 a week. |
+|  | aloss of 2 limbs or parts | $21.40 a week. |
+|  | bloss of leg or part | $20.65 a week. |
+|  | closs of arm or part | $14.96 a week. |
+|  | duse of mechanical appliance, etc | $14.96 a week. |
+|  | esoiling of clothing | $14.96 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 4 | Under section 62— |  |
 |  | the same rates as those specified in Part 1. |  |
@@ -1202,7 +1202,7 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 29— |  |
-|  | in every case | $348.50 a week. |
+|  | in every case | $355.33 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 2 | Under section 62— |  |
 |  | the same rate as that specified in Part 1. |  |
@@ -1217,11 +1217,11 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 32(1)— |  |
-|  | to the surviving spouse or surviving partner in every case | $138.80 a week. |
+|  | to the surviving spouse or surviving partner in every case | $141.52 a week. |
 | 2 | Under section 32(2)— |  |
 |  | additional parent’s allowance to a surviving spouse or surviving partner— |  |
-|  | aon account of first or only dependent child | $147.38 a week. |
-|  | bon account of each additional dependent child after the first | $23.47 a week. |
+|  | aon account of first or only dependent child | $150.27 a week. |
+|  | bon account of each additional dependent child after the first | $23.93 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 3 | Under section 32(1) as applied by section 62— |  |
 |  | the same rate as that specified in clause 1 of Part 1. |  |
@@ -1238,9 +1238,9 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 |  | Part 1—Members of forces |  |
 | --- | --- | --- |
 | 1 | Under section 36— |  |
-|  | in ordinary cases | $8.69 a week. |
+|  | in ordinary cases | $8.86 a week. |
 | 2 | Under section 40— |  |
-|  | in certain cases where parents dead, or child not under control of its mother | $116.25 a week. |
+|  | in certain cases where parents dead, or child not under control of its mother | $118.53 a week. |
 |  | Part 2—Members of mercantile marine |  |
 | 3 | Under section 62— |  |
 |  | the same rates as those specified in Part 1. |  |
@@ -1286,19 +1286,19 @@ The Governor-General may, by Order in Council, upon or subject to such condition
 
 |  |  | Entitlements under section 70(1)(b)(i) or section 70(2) | Entitlements under section 70(1)(b)(ii) or section 71 |
 | --- | --- | --- | --- |
-| 1 | ato a single person who has been granted a living alone payment under section 74U | $364.50 per week | $364.50 per week, subject to section 74D |
-|  | bto a single person who has not been granted a living alone payment under section 74U | $334.28 per week | $334.28 per week, subject to section 74D |
-|  | cto a person who is married or in a civil union or in a de facto relationship | $273.63 per week | $273.63 per week, subject to section 74D |
+| 1 | ato a single person who has been granted a living alone payment under section 74U | $373.56 per week | $373.56 per week, subject to section 74D |
+|  | bto a single person who has not been granted a living alone payment under section 74U | $342.58 per week | $342.58 per week, subject to section 74D |
+|  | cto a person who is married or in a civil union or in a de facto relationship | $280.62 per week | $280.62 per week, subject to section 74D |
 | 2 | Alternative rate for a person who is married or in a civil union or in a de facto relationship, and whose spouse or civil union partner or de facto partner is not entitled to receive New Zealand superannuation or a veteran’s pension— |  |  |
-|  | ato a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $547.26 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $547.26 per week, subject to section 74D, or the rate specified in paragraph (b), whichever is the greater |
-|  | bto any other person who is married or in a civil union or in a de facto relationship | $519.72 per week, subject to Income Test 3 | $519.72 per week, subject to section 74D |
+|  | ato a person who is married or in a civil union or in a de facto relationship and who was receiving or had applied for, and was entitled to receive, New Zealand superannuation or a veteran’s pension at the alternative rate before 1 October 1991 | $561.24 per week, subject to Income Test 3, or the rate specified in paragraph (b), whichever is the greater | $561.24 per week, subject to section 74D, or the rate specified in paragraph (b), whichever is the greater |
+|  | bto any other person who is married or in a civil union or in a de facto relationship | $531.72 per week, subject to Income Test 3 | $531.72 per week, subject to section 74D |
 
 ## Schedule 12 — Payments on death of veteran or veteran’s spouse or civil union partner
 
-| 1 | aon the death of a person who,—ion the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service; andiibefore 1 April 1990, was in receipt of a war veteran’s allowance under the War Pensions Act 1954 | $13,298.51 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
+| 1 | aon the death of a person who,—ion the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service; andiibefore 1 April 1990, was in receipt of a war veteran’s allowance under the War Pensions Act 1954 | $13,559.16 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
 | --- | --- | --- |
-|  | bon the death of any person who, on the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service | $5,274.22 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
-|  | con the death of the spouse or civil union partner or de facto partner of any person if that person is receiving a veteran’s pension on account of his or her own service and if the spouse or civil union partner or de facto partner was in receipt of a veteran’s pension | $4,021.74 to that person |
+|  | bon the death of any person who, on the date of his or her death, was in receipt of a veteran’s pension on account of his or her own service | $5,377.59 to the surviving spouse or surviving civil union partner or surviving de facto partner of that person or, if there is no surviving spouse or surviving civil union partner or surviving de facto partner, to be apportioned equally between any dependent children of that person |
+|  | con the death of the spouse or civil union partner or de facto partner of any person if that person is receiving a veteran’s pension on account of his or her own service and if the spouse or civil union partner or de facto partner was in receipt of a veteran’s pension | $4,100.57 to that person |
 | 2 | There is deductable from any amount payable under clause 1 the amount of any veteran’s pension paid or payable in respect of the person who has died following their death. |  |
 
 ## Schedule 13 — Specified Pacific countries
@@ -1326,16 +1326,6 @@ This Act is the War Pensions Amendment Act 2006.
 (2) A person to whom this section applies is to be treated as a person to whom section 74BA of the War Pensions Act 1954 (as inserted by section 5 of this Act) applies for so long as—
   (a) the person’s spouse or partner continues to be in long-term residential care in a hospital or rest home; and
   (b) the person is not himself or herself in long-term residential care.
-
-### 1 Title
-This order is the War Pensions (Rates of Pensions, Lump Sum Payments, and Allowances) Order 2009.
-
-### 2 Commencement
-This order comes into force on 1 April 2009.
-
-### 3 Increasing rates of pensions, lump sum payments, and allowances to reflect changes in CPI
-(1) Amendment(s) incorporated in the Act(s).
-(2) The amendments made by subclause (1) to Schedule 12 of the War Pensions Act 1954 apply in respect of persons who die on or after 1 April 2009.
 
 ### 1 Title
 This Act is the War Pensions Amendment Act 2009.
