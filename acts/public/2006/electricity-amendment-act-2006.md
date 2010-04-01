@@ -1,5 +1,5 @@
 # Electricity Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-04-01_
 
 ### 1 Title
 This Act is the Electricity Amendment Act 2006.
@@ -219,7 +219,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
   (1) The Board may, by notice in the Gazette,—
     (a) prescribe for each class of registration the minimum standards for registration (including standards relating to required competence, qualifications, and experience) that persons must meet in order to be registered as registered persons and to be issued with practising licences; and
     (b) prescribe for each class of registration the terms and conditions subject to which persons are registered as registered persons; and
-    (c) prescribe for each class of registration the telins and conditions subject to which practising licences are issued; and
+    (c) prescribe for each class of registration the terms and conditions subject to which practising licences are issued; and
     (d) prescribe requirements relating to the completion of competence programmes in respect of persons who—
       (i) apply for practising licences or provisional licences; or
       (ii) hold practising licences or provisional licences; or
@@ -355,7 +355,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
     (b) a condition that imposes limits on the circumstances in which the particular practising licence holder may do, or assist in doing, work:
     (c) a condition that imposes limits on the work that the particular practising licence holder may do, or assist in doing, under the licence.
   (3) The conditions referred to in subsection (2)(b) and (c) may be in addition to, or instead of, any other limits that would otherwise apply in respect of the class of registration concerned.
-  (4) The Board may, by written notice to a registered person, revoke, amend, or add to any teiiii or condition imposed under subsection (1).
+  (4) The Board may, by written notice to a registered person, revoke, amend, or add to any term or condition imposed under subsection (1).
   (5) Subsection (1)(a) is subject to subsection (4) and section 107.
   (1) A practising licence issued under this subpart must specify the date of its expiry.
   (2) The date of expiry must not be later than 5 years after the date of the issue or renewal of the practising licence.
@@ -383,7 +383,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
   (3) If the Board is not satisfied that the registered person is entitled to a renewal of his or her practising licence, the Board must notify the person of—
     (a) the Board's decision; and
     (b) the person's right of appeal to a District Court against the decision.
-  (4) For the purposes of subsection (1)(c), the Board may, if it thinks fit, disregard a breach of a teiiii or condition of the practising licence.
+  (4) For the purposes of subsection (1)(c), the Board may, if it thinks fit, disregard a breach of a term or condition of the practising licence.
   (5) The Board may require a registered person to complete a competence programme before it renews that person's practising licence (regardless of whether or not the Board is satisfied of the matters referred to in subsection (1)(a) to (d)) if the person is required to complete a competence programme when applying for a renewal of the licence in accordance with a condition or requirement imposed by a notice published under section 85.
   (6) Despite subsection (1), if any fee or other money payable to the Board under this Act by the registered person has not been paid, the Board may refuse to renew that person's practising licence until that fee or other money is paid.
   (1) The Board may,—
@@ -489,7 +489,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
     (a) affects or prevents the performance of any function or the exercise of any power by the Board; or
     (b) affects the responsibility of the Board for the actions of the Plumbers, Gasfitters, and Drainlayers Board acting under the delegation; or
     (c) is affected by any change in the membership of the Plumbers, Gasfitters, and Drainlayers Board or the Board.
-  (1) A person is, on application in the prescribed folin (if any) and on payment of the prescribed fee (if any), entitled to be issued with an employer licence by the Board if the person satisfies the Board that the person will at all times maintain a system of operation—
+  (1) A person is, on application in the prescribed form (if any) and on payment of the prescribed fee (if any), entitled to be issued with an employer licence by the Board if the person satisfies the Board that the person will at all times maintain a system of operation—
     (a) that complies with the requirements that are prescribed by regulations; and
     (b) that is sufficient to ensure that employees of that person who do, or assist in doing, prescribed electrical work—
       (i) are competent to carry out the range of work for which they are employed; and
@@ -587,10 +587,10 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
     (a) the Registrar suspends the operation of the register, in whole or in part, in accordance with subsection (4); or
     (b) otherwise provided in regulations.
   (4) The Registrar may refuse access to the register or otherwise suspend the operation of the register, in whole or in part, if the Registrar considers that it is not practical to provide access to the register.
-  (1) The register must contain all of the following information, to the extent that the infolmation is relevant, for each registered person:
+  (1) The register must contain all of the following information, to the extent that the information is relevant, for each registered person:
     (a) full name; and
     (b) street address, telephone number, and email address (if any); and
-    (c) the following infonnation about the status and history of the person's registration and practising licence (if any):
+    (c) the following information about the status and history of the person's registration and practising licence (if any):
       (i) the class or classes of registration in respect of which the person is registered; and
       (ii) the date on which the person was first registered in respect of each of those classes; and
       (iii) whether, in respect of each of those classes, the person holds a current practising licence; and
@@ -619,7 +619,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
   (3) The register must contain—
     (a) all of the information referred to in subsection (1), to the extent that the information is relevant, in relation to a person who was formerly a registered person; and
     (b) all of the information referred to in subsection (2), to the extent that the information is relevant, in relation to a person who was formerly a provisional licence holder or formerly an employer licence holder; and
-    (c) all other infounation and documentation that is prescribed as information and documentation that must be included in the register.
+    (c) all other information and documentation that is prescribed as information and documentation that must be included in the register.
   (4) The register may contain any other information or documentation that the Registrar considers necessary or desirable for the purposes of the register.
   (5) For the purposes of this section, disciplinary matter means an inquiry into, or complaint about, the conduct of a person, or a decision on that inquiry or complaint.
   (1) This section applies to all of the information and documentation contained in the registers that were kept under section 87 (as in force immediately before the commencement of this section).
@@ -666,7 +666,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
     (b) must restrict public access to any information or documentation referred to in section 128(1)(c)(viii), (2)(c)(vi), (3), or (4) or section 129 if—
       (i) required to do so by regulations made under section 169; or
       (ii) directed to do so by the Board.
-  (2) For the purposes of subsection (1)(b), the Board may direct the Registrar to restrict public access to any infoiination or documents referred to in that paragraph if, in the opinion of the Board, it is not necessary, or it is not desirable, for the information or documents to be publicly available.
+  (2) For the purposes of subsection (1)(b), the Board may direct the Registrar to restrict public access to any information or documents referred to in that paragraph if, in the opinion of the Board, it is not necessary, or it is not desirable, for the information or documents to be publicly available.
   A person may search the register in accordance with this Act or the regulations.
   The register may be searched only by reference to criteria to be specified in the regulations.
   A search of the register may be carried out only for a purpose referred to in section 126.
@@ -779,7 +779,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
     (b) an order disqualifying a person from doing, or assisting in doing, prescribed electrical work that the person would otherwise be authorised to do or assist in doing.
   (3) An order under subsection (2) continues in force until—
     (a) the investigator determines that the complaint should not be considered by the Board; or
-    (b) the Board detemiines that it should not exercise its disciplinary powers under section 147M; or
+    (b) the Board determines that it should not exercise its disciplinary powers under section 147M; or
     (c) the Board does any of the things authorised by section 147M.
   (4) The Board may make an order under subsection (2) on the recommendation of the investigator or on its own motion.
   (5) Despite section 156, the Board is not required to give any notice to a person that it intends to make an order under subsection (2) in respect of that person.
@@ -882,7 +882,7 @@ Parts 9 to 12 are repealed and the following Parts are substituted:Restrictions 
     (a) any decision of the Board to decline to register the person or to decline to issue a licence to the person or to decline to renew the licence of the person:
     (b) any decision of the Board to decline to issue a limited certificate under section 78 to the person or to decline to renew the limited certificate of the person:
     (c) any decision of the Board to suspend or cancel the person's registration or licence:
-    (d) any decision of the Board to impose any term or condition in relation to the person's registration or licence or to vary any of those teaks or conditions:
+    (d) any decision of the Board to impose any term or condition in relation to the person's registration or licence or to vary any of those terms or conditions:
     (e) any decision, direction, or order under any of sections 108, 109, 120, 133, 137, and 153 or Part 11 (except section 147C).
   (2) For the purposes of this Part, any decision of the Plumbers, Gasfitters, and Drainlayers Board acting under this Act must be treated as a decision of the Board.
   (3) Subsection (1) does not confer a right to appeal against a decision under any of sections 84 to 90.
@@ -914,7 +914,7 @@ Section 149 is repealed and the following section substituted:Functions of Board
     (a) to designate classes of registration for the purposes of Part 10:
     (b) to specify for each of those classes the prescribed electrical work that a person is authorised to do, or assist in doing, by virtue of being a registered person of a particular class and holding a current practising licence:
     (c) to prescribe the minimum standards for registration for each of those classes that persons must meet in order to be registered as registered persons and to be issued with practising licences:
-    (d) to prescribe the temis and conditions subject to which persons are registered and licences are issued:
+    (d) to prescribe the terms and conditions subject to which persons are registered and licences are issued:
     (e) to prescribe standards or requirements relating to competent and safe work practices and the testing of those practices:
     (f) to recognise appropriate overseas qualifications, certificates, registration, or licences for the purposes of registering persons and issuing licences under Part 10:
     (g) to consider applications for registration and licences under Part 10, and to register persons and issue licences in proper cases:
@@ -1005,7 +1005,7 @@ Sections 160 to 163 are repealed and the following sections are substituted:Fals
   (1) Every person commits an offence if—
     (a) the person takes an action knowing that the action is reasonably likely to cause serious harm to any person or significant property damage; and
     (b) the action is contrary to a provision of this Act; and
-    (c) the person fails to take all practicable steps to prevent the serious halm or significant property damage.
+    (c) the person fails to take all practicable steps to prevent the serious harm or significant property damage.
   (2) Every person commits an offence if—
     (a) the person fails to take an action knowing that the failure to take the action is reasonably likely to cause serious harm to any person or significant property damage; and
     (b) the person is required by this Act to take the action; and
