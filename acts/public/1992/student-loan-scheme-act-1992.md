@@ -1,29 +1,27 @@
 # Student Loan Scheme Act 1992
-_Consolidation as at 2010-03-07_
+_Consolidation as at 2010-04-01_
 
 > An Act to provide for the assessment and collection of loan repayments under the Crown's student loan scheme and to otherwise facilitate the administration of that scheme
 
 ### 1 Short Title and application
 (1) This Act may be cited as the Student Loan Scheme Act 1992.
 (2) This Act is hereby declared to be one of the Inland Revenue Acts within the meaning of the Tax Administration Act 1994.
-(3) Subject to Part 7 of this Act, this Act shall apply to liabilities to repay student loans in respect of the tax year commencing on the 1st day of April 1992 and every subsequent year.
+(3) Subject to Part 7, this Act shall apply to liabilities to repay student loans in respect of the tax year commencing on 1 April 1992 and every subsequent year.
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **assessable income**
   - **borrower** means any person who has received a student loan and who has not fully repaid that loan
-  - **challenge** , for the purposes of Part 5 of this Act, has the meaning given to it in section 3(1) of the Tax Administration Act 1994:.
+  - **challenge** , for the purposes of Part 5, has the meaning given to it in section 3(1) of the Tax Administration Act 1994
   - **chief executive** means the chief executive of the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964
   - **collection** includes administration of a zero loan balance by the Commissioner for the purposes of determining whether the borrower is entitled to an interest write-off or interest reduction or refund under this Act
   - **Commissioner** means the Commissioner of Inland Revenue as defined in the Tax Administration Act 1994
   - **department** means the Inland Revenue Department
   - **employee** means an employee as defined in paragraph (a) of the definition of employee in section YA 1 of the Income Tax Act 2007
   - **employer** means an employer as defined in paragraphs (a) and (b) of the definition of employer in section YA 1 of the Income Tax Act 2007
-  - **extra emolument** , in relation to any person, has the meaning given to extra pay in section YA 1 of the Income Tax Act 2007.
-  - **gross income** has the meaning given to income in section YA 1 of the Income Tax Act 2007.
+  - **extra emolument** , in relation to any person, has the meaning given to extra pay in section YA 1 of the Income Tax Act 2007
+  - **gross income** has the meaning given to income in section YA 1 of the Income Tax Act 2007
   - **income-tested benefit** means an income-tested benefit as defined in section YA 1 of the Income Tax Act 2007
-  - **income year**
-  - **interim repayment** means any repayment required to be made in accordance with sections 26 to 28 of this Act
+  - **interim repayment** means any repayment required to be made in accordance with sections 26 to 28
   - **IRD loan balance** means the total amount outstanding under all loans—and includes any increase under section 103
     (a) obtained by the borrower under the student loan scheme; and
     (b) transferred to the Commissioner for collection—
@@ -31,42 +29,42 @@ _Consolidation as at 2010-03-07_
   - **loan balance** means the total amount outstanding under all loans obtained by the borrower under the student loan scheme, and includes any increase under section 103
   - **loan contract** means any loan agreement or contract entered into by the lender and the borrower under the student loan scheme
   - **loan manager** means any person who is appointed by the lender from time to time to establish and administer loan balances under the student loan scheme (other than any such loan balances that have been transferred to the Commissioner for collection)
-  - **loan year** means a period of 12 months commencing on the 1st day of January and ending with the 31st day of December
+  - **loan year** means a period of 12 months commencing on 1 January and ending with 31 December
   - **net income** means net income as defined in section YA 1 of the Income Tax Act 2007
   - **New Zealand based** has the meaning set out in subsection (2)
   - **non-resident** means a person who is not resident in New Zealand in terms of section YD 1 of the Income Tax Act 2007
   - **overseas based** has the meaning set out in subsection (3)
-  - **overseas based repayment obligation** means a repayment obligation imposed under Part 3 of this Act
-  - **PAYE intermediary** means a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007.
-  - **penal charge** means a charge imposed under section 86 of this Act
-  - **penal repayment obligation** means an obligation imposed under section 85 of this Act
+  - **overseas based repayment obligation** means a repayment obligation imposed under Part 3
+  - **PAYE intermediary** means a PAYE intermediary as defined in section YA 1 of the Income Tax Act 2007
+  - **penal charge** means a charge imposed under section 86
+  - **penal repayment obligation** means an obligation imposed under section 85
   - **penalty** means—
     (a) any penalty chargeable under the loan contract for failure to pay any repayment obligation:
-    (b) any penalty or additional charge or other late payment charge chargeable under this Act or under the Tax Administration Act 1994 (as applied by this Act):
-  - **periodic payer** means a borrower who is obliged to make interim repayments in accordance with sections 26 to 28 of this Act
+    (b) any penalty or additional charge or other late payment charge chargeable under this Act or under the Tax Administration Act 1994 (as applied by this Act)
+  - **periodic payer** means a borrower who is obliged to make interim repayments in accordance with sections 26 to 28
   - **primary employment earnings** , in relation to an employee and to any pay period, means primary employment earnings as defined in section 3(1) of the Tax Administration Act 1994
   - **repayment code** means the repayment code specified in section 17B
-  - **repayment deduction** means any amount required to be deducted from salary or wages in accordance with Part 2 of this Act
+  - **repayment deduction** means any amount required to be deducted from salary or wages in accordance with Part 2
   - **repayment obligation** , in respect of any tax year, means,—
-    (a) in the case of a borrower who is New Zealand based for the whole of the tax year, any repayment obligation assessed by the Commissioner under Part 2 of this Act:
-    (b) in the case of a borrower who is overseas based for the whole or part of the tax year, any repayment obligation assessed by the Commissioner under Part 3 of this Act:
-  - **repayment percentage** means 10 percent or such other rate as may be determined by regulations made under section 87 of this Act
+    (a) in the case of a borrower who is New Zealand based for the whole of the tax year, any repayment obligation assessed by the Commissioner under Part 2:
+    (b) in the case of a borrower who is overseas based for the whole or part of the tax year, any repayment obligation assessed by the Commissioner under Part 3
+  - **repayment percentage** means 10% or such other rate as may be determined by regulations made under section 87
   - **repayment threshold** means,—
-    (a) in respect of the tax year ending with the 31st day of March 1993, $12,670:
-    (b) in respect of the tax year ending with the 31st day of March 1994 and each subsequent tax year, $13,104 or such other amount as may be determined by regulations made under section 87 of this Act:
+    (a) in respect of the tax year ending with 31 March 1993, $12,670:
+    (b) in respect of the tax year ending with 31 March 1994 and each subsequent tax year, $13,104 or such other amount as may be determined by regulations made under section 87
   - **resident** means a person who is resident in New Zealand in terms of section YD 1 of the Income Tax Act 2007
-  - **residual repayment obligation** has the meaning given to that term by section 26(2) of this Act
+  - **residual repayment obligation** has the meaning given to that term by section 26(2)
   - **salary or wages** , in relation to any person, means salary or wages as defined in section YA 1 of the Income Tax Act 2007, except that, in this Act, it includes extra emoluments
   - **secondary employment earnings** , in relation to an employee and to any pay period, means secondary employment earnings as defined in section 3(1) of the Tax Administration Act 1994
   - **student loan** —
     (a) means any money advanced under the student loan scheme to a borrower; and
     (b) includes—
       (i) any interest charged in respect of money advanced to a borrower under the student loan scheme; and
-      (ii) any administration fee payable, in accordance with a loan contract, by the borrower under that loan contract to the lender under that loan contract:
-  - **student loan scheme** means the scheme established by the lender on the 1st day of January 1992 to provide loan assistance to tertiary students; and includes the scheme so established as amended from time to time
+      (ii) any administration fee payable, in accordance with a loan contract, by the borrower under that loan contract to the lender under that loan contract
+  - **student loan scheme** means the scheme established by the lender on 1 January 1992 to provide loan assistance to tertiary students; and includes the scheme so established as amended from time to time
   - **tax year** , in respect of the income of a person, means a tax year as defined in section YA 1 of the Income Tax Act 2007
-  - **terminal repayment obligation** has the same meaning as in section 29(2) of this Act
-  - **total interest rate** means the rate prescribed in respect of a tax year by regulations made under section 87 in the last 6 months of the immediately preceding tax year.
+  - **terminal repayment obligation** has the same meaning as in section 29(2)
+  - **total interest rate** means the total interest rate that applies in respect of any tax year, calculated in accordance with the formula—a% + 0.74% = y%where—a%is the average, rounded to the nearest 2 decimal places, of the monthly average 10-year government bond yield rates published by the Reserve Bank of New Zealand for the 5 years ending in December in the year that precedes the relevant tax yeary%rounded to the nearest 1 decimal place, is the total interest rate for the relevant tax year.
 (2) For the purposes of this Act, a borrower is New Zealand based for each day on which that borrower is entitled to a full interest write-off under section 38AA.
 (3) For the purposes of this Act, a borrower is overseas based for each day on which that borrower is not entitled to a full interest write-off under section 38AA.
 
@@ -86,7 +84,7 @@ This Act shall bind the Crown.
 **Transfer of loan balances**
 
 ### 4 Transfer of loan balances to Commissioner for collection
-(1) Subject to section 12 of this Act, the loan manager shall, in the administration of the student loan scheme, transfer each borrower's loan balance to the Commissioner for collection.
+(1) Subject to section 12, the loan manager shall, in the administration of the student loan scheme, transfer each borrower's loan balance to the Commissioner for collection.
 (2) Every such transfer shall be effected in accordance with this Act and, unless the Commissioner otherwise requests, after the end of each loan year.
 
 ### 5 Notice to borrower
@@ -94,46 +92,46 @@ This Act shall bind the Crown.
   (a) stating that the loan manager is proposing to transfer the borrower's loan balance to the Commissioner for collection; and
   (b) giving the date at which it is proposed that the transfer take effect; and
   (c) specifying the amount of the borrower's loan balance and the date as at which it is calculated; and
-  (d) Notifying the borrower of the rights of objection conferred on the borrower by sections 6 and 8 of this Act.
-(2) Where the loan balance is calculated as at the 31st day of December in any year,—
-  (a) the notice required by subsection (1) of this section shall be given to the borrower not later than the 25th day of January in the following year; and
-  (b) the date on which it is proposed that the transfer take effect shall not be earlier than the 28th day of February in the following year.
-(3) Where the loan balance is calculated as at a date other than the 31st day of December in any year, the notice required by subsection (1) of this section shall be given to the borrower at least one month before the date on which it is proposed that the transfer take effect.
+  (d) notifying the borrower of the rights of objection conferred on the borrower by sections 6 and 8.
+(2) Where the loan balance is calculated as at 31 December in any year,—
+  (a) the notice required by subsection (1) shall be given to the borrower not later than 25 January in the following year; and
+  (b) the date on which it is proposed that the transfer take effect shall not be earlier than 28 February in the following year.
+(3) Where the loan balance is calculated as at a date other than 31 December in any year, the notice required by subsection (1) shall be given to the borrower at least 1 month before the date on which it is proposed that the transfer take effect.
 
 **Objections before transfer of loan balance to Commissioner**
 
 ### 6 Right to object to amount of loan balance being transferred
-(1) Where a notice stating that the loan manager is proposing to transfer a borrower's loan balance to the Commissioner for collection is given to the borrower under section 5 of this Act, the borrower may object to the statement of the loan balance by delivering or posting to the loan manager a written notice of objection stating the grounds of that person's objection.
-(2) If the loan balance is calculated as at the 31st day of December in any year, notice of objection under subsection (1) of this section shall, subject to section 10 of this Act, be delivered or posted to the loan manager not later than the 25th day of February in the following year.
-(3) If the loan balance is calculated as at a date other than the 31st day of December in any year, notice of objection under subsection (1) of this section shall, subject to section 10 of this Act, be delivered or posted to the loan manager not later than the date specified for that purpose in the notice (which date shall be not later than one month after the date on which the notice under section 5 of this Act is given to the borrower).
+(1) Where a notice stating that the loan manager is proposing to transfer a borrower's loan balance to the Commissioner for collection is given to the borrower under section 5, the borrower may object to the statement of the loan balance by delivering or posting to the loan manager a written notice of objection stating the grounds of that person's objection.
+(2) If the loan balance is calculated as at 31 December in any year, notice of objection under subsection (1) shall, subject to section 10, be delivered or posted to the loan manager not later than 25 February in the following year.
+(3) If the loan balance is calculated as at a date other than 31 December in any year, notice of objection under subsection (1) shall, subject to section 10, be delivered or posted to the loan manager not later than the date specified for that purpose in the notice (which date shall be not later than 1 month after the date on which the notice under section 5 is given to the borrower).
 
 ### 7 Loan manager to consider objections
-(1) The loan manager shall consider every objection made under section 6(1) of this Act, and may alter the statement of the loan balance accordingly.
+(1) The loan manager shall consider every objection made under section 6(1), and may alter the statement of the loan balance accordingly.
 (2) The loan manager shall, as soon as practicable, give notice in writing to the objector of the loan manager's decision in respect of the objection, and of the reasons for that decision.
 
 ### 8 Power to require objection to be determined by chief executive
-(1) If an objection under section 6(1) of this Act is not wholly allowed by the loan manager, the objector may, by delivering or posting a written notice to the chief executive, require that the objection be determined by the chief executive.
-(2) Subject to section 10 of this Act, the notice under subsection (1) of this section shall be delivered or posted to the chief executive within 21 days after the date on which the notice of disallowance is given to the objector by or on behalf of the loan manager.
+(1) If an objection under section 6(1) is not wholly allowed by the loan manager, the objector may, by delivering or posting a written notice to the chief executive, require that the objection be determined by the chief executive.
+(2) Subject to section 10, the notice under subsection (1) shall be delivered or posted to the chief executive within 21 days after the date on which the notice of disallowance is given to the objector by or on behalf of the loan manager.
 
 ### 9 Chief executive to consider objections
-(1) The chief executive shall consider every objection made under section 6(1) of this Act that he or she is required to determine under section 8 of this Act, and may alter the statement of the loan balance accordingly.
+(1) The chief executive shall consider every objection made under section 6(1) that he or she is required to determine under section 8, and may alter the statement of the loan balance accordingly.
 (2) The chief executive shall, as soon as practicable, give notice in writing to the objector of the chief executive's decision in respect of the objection, and of the reasons for that decision.
 
 ### 10 Extension of time for objection
 The chief executive may extend—
-  (a) the time allowed under section 6(2) or section 6(3) of this Act for delivering or posting a notice of objection under section 6(1) of this Act; or
-  (b) the time allowed under section 8(2) of this Act for delivering or posting a notice of objection under section 8(1) of this Act; or
+  (a) the time allowed under section 6(2) or section 6(3) for delivering or posting a notice of objection under section 6(1); or
+  (b) the time allowed under section 8(2) for delivering or posting a notice of objection under section 8(1); or
   (c) both.
 
 ### 11 Right to apply to Disputes Tribunal or District Court
-(1) If an objection under section 6(1) of this Act that the chief executive is required to determine under section 8 of this Act is not wholly allowed by the chief executive, the objector may, within 30 days after the date on which the notice of the disallowance is given to the objector by or on behalf of the chief executive, either—
+(1) If an objection under section 6(1) that the chief executive is required to determine under section 8 is not wholly allowed by the chief executive, the objector may, within 30 days after the date on which the notice of the disallowance is given to the objector by or on behalf of the chief executive, either—
   (a) apply to a Disputes Tribunal for determination of the dispute if the amount in dispute is within the financial jurisdiction of the Disputes Tribunal; or
   (b) apply to a District Court for determination of the dispute.
-(2) A Referee of a Disputes Tribunal or a District Court Judge, as the case may be, may extend the time allowed under subsection (1) of this section for applying to a Disputes Tribunal or District Court.
-(3) Notwithstanding anything in the Disputes Tribunals Act 1988 or the District Courts Act 1947, but subject to subsection (1) of this section, no objection to which section 6(1) or section 8(1) of this Act applies shall be heard and determined by a Disputes Tribunal or a District Court.
+(2) A Referee of a Disputes Tribunal or a District Court Judge, as the case may be, may extend the time allowed under subsection (1) for applying to a Disputes Tribunal or District Court.
+(3) Notwithstanding anything in the Disputes Tribunals Act 1988 or the District Courts Act 1947, but subject to subsection (1), no objection to which section 6(1) or section 8(1) applies shall be heard and determined by a Disputes Tribunal or a District Court.
 
 ### 12 Prohibition on transfers
-Notwithstanding section 4 of this Act or any provision of the loan contract, no loan balance shall be transferred to the Commissioner for collection until any outstanding objection under section 6(1) or section 8(1) of this Act and any outstanding application under section 11(1) of this Act in relation to that loan balance has been finally determined.
+Notwithstanding section 4 or any provision of the loan contract, no loan balance shall be transferred to the Commissioner for collection until any outstanding objection under section 6(1) or section 8(1) and any outstanding application under section 11(1) in relation to that loan balance has been finally determined.
 
 ### 13 Notice of total amount outstanding
 (1) As soon as practicable after a loan balance is transferred to the Commissioner for collection, the Commissioner shall give notice in writing to the borrower of the total amount outstanding under the loan (which notice shall specify the net amount of principal and the net amount of interest transferred).
@@ -148,7 +146,7 @@ Notwithstanding section 4 of this Act or any provision of the loan contract, no 
 
 **Returns and assessments**
 
-### 14A Declaration of world-wide income by certain borrowers
+### 14A Declaration of worldwide income by certain borrowers
 (1) This section applies to borrowers who, for the purposes of this Act, are New Zealand based but are not resident.
 (2) For each tax year and each part tax year in respect of which this section applies to a borrower, that borrower must furnish to the Commissioner details of all amounts of that borrower's gross income that are not treated as having a source in New Zealand under section YD 4 of the Income Tax Act 2007.
 (3) The borrower must furnish the information to the Commissioner at the time when the borrower would have furnished his or her return of income for a tax year under the Tax Administration Act 1994 if he or she was resident.
@@ -174,10 +172,10 @@ Sections 21, 33, 34, 36 to 39, 41 to 44, 63, 79, 80, 92, 92A, 106 to 111, 113, a
 **Repayment deductions from salary and wages**
 
 ### 17 Borrowers to whom repayment deduction provisions of this Part apply
-(1) Sections 17B to 25 of this Act apply to any borrower—
+(1) Sections 17B to 25 apply to any borrower—
   (a) who reasonably expects that his or her gross income from salary or wages that are primary employment earnings for any tax year will exceed the repayment threshold for that tax year; or
-  (b) who is issued with a special repayment deduction rate certificate under section 21 of this Act.
-(2) Earnings from employment—(as those terms are defined in section YA 1 of the Income Tax Act 2007) shall not be taken into account under subsection (1)(a) of this section.
+  (b) who is issued with a special repayment deduction rate certificate under section 21.
+(2) Earnings from employment—(as those terms are defined in section YA 1 of the Income Tax Act 2007) shall not be taken into account under subsection (1)(a).
   (a)
   (b)
   (c) as a casual agricultural worker; or
@@ -206,11 +204,11 @@ For the purpose of the application of the PAYE rules of the Income Tax Act 2007 
   (c) any extra emolument paid to the borrower.
 (2) For the purposes of this section, the proportional repayment threshold means,—
   (a) where the salary or wages is paid weekly, an amount equal to one fifty-second of the repayment threshold; and
-  (b) where the salary or wages is paid fortnightly, twice the amount specified in paragraph (a) of this subsection; and
-  (c) where the salary or wages is paid three-weekly, three times the amount specified in paragraph (a) of this subsection; and
-  (d) where the salary or wages is paid four-weekly, four times the amount specified in paragraph (a) of this subsection; and
-  (e) where the salary or wages is paid monthly, the amount specified in paragraph (a) of this subsection multiplied by 13 and divided by 3.
-(3) If the repayment percentage is changed by regulations made under section 87 of this Act, the standard deduction rate shall change accordingly.
+  (b) where the salary or wages is paid fortnightly, twice the amount specified in paragraph (a); and
+  (c) where the salary or wages is paid three-weekly, 3 times the amount specified in paragraph (a); and
+  (d) where the salary or wages is paid four-weekly, 4 times the amount specified in paragraph (a); and
+  (e) where the salary or wages is paid monthly, the amount specified in paragraph (a) multiplied by 13 and divided by 3.
+(3) If the repayment percentage is changed by regulations made under section 87, the standard deduction rate shall change accordingly.
 
 ### 20A Standard deduction rate may be increased in certain circumstances
 (1) This section applies if—
@@ -238,35 +236,35 @@ For the purpose of the application of the PAYE rules of the Income Tax Act 2007 
 (3) Section 24F of the Tax Administration Act 1994 shall apply, with all necessary modifications, to any special deduction rate certificate issued under this section.
 
 ### 22 Commissioner may assess amount of repayment deductions
-(1) If any question is raised as to the amount, if any, of any repayment deduction that ought to be made from any salary or wages, or any part thereof, it shall, subject to any regulations made for the purposes of this Part of this Act, be determined by the Commissioner.
+(1) If any question is raised as to the amount, if any, of any repayment deduction that ought to be made from any salary or wages, or any part thereof, it shall, subject to any regulations made for the purposes of this Part, be determined by the Commissioner.
 (2) As soon as practicable after making any such determination, the Commissioner shall make an assessment of any repayment deductions so determined.
 
 ### 23 Deductions from income-tested benefits
-Notwithstanding section 20 of this Act, where a repayment deduction is required to be made under this Part of this Act from an income-tested benefit, the repayment deduction shall be of such amount as the Commissioner determines in consultation with the chief executive.
+Notwithstanding section 20, where a repayment deduction is required to be made under this Part from an income-tested benefit, the repayment deduction shall be of such amount as the Commissioner determines in consultation with the chief executive.
 
 ### 24 Information to show repayment deductions made
-(1) Every employer or PAYE intermediary who makes a repayment deduction under this Part of this Act from the salary or wages of an employee for any period shall supply the Commissioner with such information, and in such manner, as the Commissioner may reasonably require in order to establish the amount of that repayment deduction.
-(2) The information required pursuant to subsection (1) of this section shall be given in such manner as the Commissioner may reasonably require.
+(1) Every employer or PAYE intermediary who makes a repayment deduction under this Part from the salary or wages of an employee for any period shall supply the Commissioner with such information, and in such manner, as the Commissioner may reasonably require in order to establish the amount of that repayment deduction.
+(2) The information required pursuant to subsection (1) shall be given in such manner as the Commissioner may reasonably require.
 
 ### 25 PAYE rules of Income Tax Act 2007 to apply to repayment deductions
 (1) Subject to this section, the PAYE rules as defined in section YA 1 of the Income Tax Act 2007 shall, as far as applicable and with the necessary modifications, apply as if—and every employer, PAYE intermediary, and employee shall comply with the requirements of the PAYE rules of the Income Tax Act 2007 to the extent to which those rules apply by virtue of this section.
   (a) every reference to income tax were a reference to a borrower's repayment obligation; and
   (b) every reference to withholding or deducting an amount of tax were a reference to repayment deductions; and
   (c) every reference to a tax code were a reference to a repayment code,—
-(2) Notwithstanding subsection (1) of this section, sections BC 1, LD 1(2) and (3), RC 2(1), RC 6, RC 7, RC 16, and RC 17 of the Income Tax Act 2007 shall not apply to any amount required to be deducted under this Part of this Act.
-(3) Any repayment deduction made under this Part of this Act shall not be treated as part of or included in any tax deduction made under the PAYE rules of the Income Tax Act 2007 on account of income tax.
+(2) Notwithstanding subsection (1), sections BC 1, LD 1(2) and (3), RC 2(1), RC 6, RC 7, RC 16, and RC 17 of the Income Tax Act 2007 shall not apply to any amount required to be deducted under this Part.
+(3) Any repayment deduction made under this Part shall not be treated as part of or included in any tax deduction made under the PAYE rules of the Income Tax Act 2007 on account of income tax.
 
 **Interim repayments**
 
 ### 26 Borrowers to whom interim repayment provisions of this Part apply
-(1) Sections 27 and 28 of this Act apply to any borrower whose residual repayment obligation in relation to any tax year is $1,000 or more for that tax year.
+(1) Sections 27 and 28 apply to any borrower whose residual repayment obligation in relation to any tax year is $1,000 or more for that tax year.
 (2) The term residual repayment obligation means the amount by which the borrower's repayment obligation for any tax year exceeds any repayment deductions made for that tax year.
-(3) Every borrower to whom this section applies shall be a periodic payer who is obliged to make interim repayments towards the repayment obligation for the tax year in accordance with sections 27 and 28 of this Act.
-(4) Notwithstanding subsections (1) to (3) of this section, a periodic payer shall have no liability to make interim repayments in respect of the net income for any tax year where that payer was not liable to pay a residual repayment obligation exceeding the sum of $1,000 for the immediately preceding tax year.
+(3) Every borrower to whom this section applies shall be a periodic payer who is obliged to make interim repayments towards the repayment obligation for the tax year in accordance with sections 27 and 28.
+(4) Notwithstanding subsections (1) to (3), a periodic payer shall have no liability to make interim repayments in respect of the net income for any tax year where that payer was not liable to pay a residual repayment obligation exceeding the sum of $1,000 for the immediately preceding tax year.
 
 ### 27 Amount of interim repayments
-(1) The amount payable by a periodic payer by way of interim payments in respect of the net income for any tax year shall be, subject to subsection (2) of this section, an amount equal to 105 percent of the amount of the payer's residual repayment obligation for the immediately preceding tax year.
-(2) The amount payable under subsection (1) of this section, may be varied in accordance with this Act and the provisions of the Income Tax Act 2007 (as applied by section 28 of this Act).
+(1) The amount payable by a periodic payer by way of interim payments in respect of the net income for any tax year shall be, subject to subsection (2), an amount equal to 105% of the amount of the payer's residual repayment obligation for the immediately preceding tax year.
+(2) The amount payable under subsection (1), may be varied in accordance with this Act and the provisions of the Income Tax Act 2007 (as applied by section 28).
 
 ### 28 Interim repayments to be paid in same manner as provisional tax
 (1) Subject to this section, interim repayments shall be payable in the same manner as provisional tax.
@@ -275,11 +273,11 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
   (b) every reference to a provisional taxpayer or a person liable to pay provisional tax were a reference to a periodic payer; and
   (c) every reference to residual income tax were a reference to the amount of residual repayment obligation; and
   (d) every reference to income tax were a reference to the repayment obligation,—
-(3) Notwithstanding subsection (1) of this section,—
+(3) Notwithstanding subsection (1),—
   (a) sections RC 3 and RC 5(2) of the Income Tax Act 2007 and section LB 2 of that Act (which provides that provisional tax is to be credited against a taxpayer's income tax liability) shall not apply to any amount of interim repayments; and
   (b) section RC 5(3) of the Income Tax Act 2007 (which relates to amounts of instalments where return not furnished)—
     (i) shall apply only where the periodic payer's residual repayment obligation for the second preceding tax year exceeds $1,000; and
-    (ii) Shall apply as if, where the return for the immediately preceding tax year, or an estimate of the residual repayment obligation, is not furnished by the due date for payment of the third instalment, the periodic payer is deemed to have furnished a statement showing an estimate of the residual repayment obligation for that tax year equal to the amount of any interim repayments paid by the periodic payer on or before that date; and
+    (ii) shall apply as if, where the return for the immediately preceding tax year, or an estimate of the residual repayment obligation, is not furnished by the due date for payment of the third instalment, the periodic payer is deemed to have furnished a statement showing an estimate of the residual repayment obligation for that tax year equal to the amount of any interim repayments paid by the periodic payer on or before that date; and
   (c) section RC 8 of the Income Tax Act 2007 (under which a provisional taxpayer may use the GST ratio method to determine an amount of provisional tax payable) shall not apply to any amount of interim payments; and
   (d) section RC 9(4)(a)(i) and (ii) and (b)(i) of the Income Tax Act 2007 (which provide for exceptions to the requirements of section RC 9(3) of that Act) shall not apply to any amount of interim payments; and
   (e) section RC 9(5) of the Income Tax Act 2007 (which provides for payments of provisional tax by a provisional taxpayer who pays GST on a 6-monthly basis) shall not apply to any amount of interim payments; and
@@ -288,7 +286,7 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
 **Terminal repayments**
 
 ### 29 Borrowers to whom terminal repayment provisions of this Part apply
-(1) Section 30 of this Act applies to any borrower whose repayment obligation in respect of any tax year exceeds the sum of—
+(1) Section 30 applies to any borrower whose repayment obligation in respect of any tax year exceeds the sum of—
   (a) any repayment deductions credited against the repayment obligation for the tax year; and
   (b) any interim repayments credited against the repayment obligation for the tax year; and
   (c) any voluntary payments made to the Commissioner and credited against the repayment obligation for the tax year.
@@ -296,7 +294,7 @@ Notwithstanding section 20 of this Act, where a repayment deduction is required 
 
 ### 30 Payment of terminal repayment obligation
 (1) A terminal repayment obligation for a tax year that is not previously due and payable is due and payable on the borrower's terminal tax date, as defined in section YA 1 of the Income Tax Act 2007, for the tax year.
-(2) Notwithstanding subsection (1) of this section, where an assessment is not made until after the due date of the terminal repayment obligation, or is increased after the due date of the terminal repayment obligation, the Commissioner may, having regard to the circumstances of the case and if the Commissioner thinks it equitable to do so, fix a new date for the payment of the terminal repayment obligation, or part thereof, or of the increase, as the case may be, and the date so fixed shall be deemed to be the due date for the purposes of this Part of this Act.
+(2) Notwithstanding subsection (1), where an assessment is not made until after the due date of the terminal repayment obligation, or is increased after the due date of the terminal repayment obligation, the Commissioner may, having regard to the circumstances of the case and if the Commissioner thinks it equitable to do so, fix a new date for the payment of the terminal repayment obligation, or part thereof, or of the increase, as the case may be, and the date so fixed shall be deemed to be the due date for the purposes of this Part.
 
 ## Part 3 — Collection of repayments from overseas based borrowers
 
@@ -343,7 +341,7 @@ In this Part, unless the context otherwise requires,—
   (a) $15,000 or less, the borrower's repayment obligation is $1,000 for each full tax year during which the borrower is overseas based:
   (b) more than $15,000 and less than or equal to $30,000, the borrower's repayment obligation is $2,000 for each full tax year during which the borrower is overseas based:
   (c) more than $30,000, the borrower's repayment obligation is $3,000 for each full tax year during which the borrower is overseas based.
-(5) The borrower's repayment obligation for the portion of any tax year (being less than a full tax year) during which the borrower is overseas based is calculated as follows:x × y365where—xis the number of days in the tax year during which the borrower was overseas basedyis 1 of the following:
+(5) The borrower's repayment obligation for the portion of any tax year (being less than a full tax year) during which the borrower is overseas based is calculated as follows:x × y365where—x= the number of days in the tax year during which the borrower was overseas basedy= one of the following:
   (a) $1,000, if the borrower's loan balance is $15,000 or less; or
   (b) $2,000, if the borrower's loan balance is more than $15,000 and less than or equal to $30,000; or
   (c) $3,000, if the borrower's loan balance is more than $30,000.
@@ -387,13 +385,13 @@ If a borrower is overseas based for part, but not the whole, of a tax year as a 
     (i) a permanent overseas address; or
     (ii) a New Zealand address to which any notice to the borrower may be delivered; or
     (iii) the name and address of a person in New Zealand empowered to act for the borrower; and
-  (b) Any information that the Commissioner reasonably requires in order to determine the borrower's overseas based repayment obligation (if any); and
+  (b) any information that the Commissioner reasonably requires in order to determine the borrower's overseas based repayment obligation (if any); and
   (c) any information that the Commissioner reasonably requires in order to determine whether the borrower is entitled to the full interest write-off set out in section 38AK.
 (2) When a borrower who is absent from New Zealand becomes aware that he or she will be absent from New Zealand for a period of more than 6 months, he or she must, as soon as practicable after becoming so aware, provide the Commissioner with the information required by subsection (1).
 (3)
 
 ### 38 Borrower to advise Commissioner of return to New Zealand
-Where any borrower to whom section 37 of this Act applies returns to New Zealand, that borrower shall advise the Commissioner that the borrower has returned to New Zealand.
+Where any borrower to whom section 37 applies returns to New Zealand, that borrower shall advise the Commissioner that the borrower has returned to New Zealand.
 
 **Full interest write-off for borrowers present in New Zealand or granted an exemption**
 
@@ -435,15 +433,15 @@ For the purposes of sections 38AB to 38AK, if a borrower is personally present i
   (a) the start and end dates for the period for which the relevant borrower is treated as being personally present in New Zealand for the purposes of section 38AB; or
   (b) the conditions that must apply or be met in order for the relevant borrower to be treated as being personally present in New Zealand for the purposes of section 38AB.
 (3) The Commissioner may grant an exemption—
-  (a) under subsection (1)(b) in respect of any 1 borrower for a maximum aggregate period of up to 24 months; and
-  (b) under subsection (1)(f) in respect of any 1 borrower whose partner was personally absent from New Zealand because the partner was working as a volunteer or for token payment for a charity, for a maximum aggregate period of up to 24 months.
+  (a) under subsection (1)(b) in respect of any one borrower for a maximum aggregate period of up to 24 months; and
+  (b) under subsection (1)(f) in respect of any one borrower whose partner was personally absent from New Zealand because the partner was working as a volunteer or for token payment for a charity, for a maximum aggregate period of up to 24 months.
 (3A) The conditions in section 38AEA apply to subsection (1)(b).
 (4) The conditions in section 38AF apply to subsection (1)(c).
 (5) The conditions in section 38AG apply to subsection (1)(d).
 (6) The conditions in section 38AH apply to subsection (1)(e).
 (7) The conditions in section 38AI apply to subsection (1)(f).
 (7A) The conditions in section 38AIA apply to subsection (1)(g).
-(8) A borrower who applies to the Commissioner under this section must supply the Commissioner with all information, and in the manner, that the Commissioner may reasonably require in order to establish whether 1 of the grounds for the grant of an exemption in subsection (1)(a) to (g) applies.
+(8) A borrower who applies to the Commissioner under this section must supply the Commissioner with all information, and in the manner, that the Commissioner may reasonably require in order to establish whether one of the grounds for the grant of an exemption in subsection (1)(a) to (g) applies.
 (9) Subsections (1)(g) and (7A) apply with effect from 31 March 2009.
 
 ### 38AEA Conditions to charitable organisation exemption
@@ -612,12 +610,12 @@ An applicant under section 38AE(1)(f) must—
 ### 42 Interest adjustment in respect of credit balances
 (1) Except as provided in this section, no interest shall be payable on any credit balance.
 (2) Where a repayment deduction has been made in respect of any borrower or a borrower has, in any tax year, paid an amount to the Commissioner before the transfer of the loan to the Commissioner and, as a result of that repayment deduction or payment, as the case may be, the balance held by the Commissioner is in credit, any interest chargeable on the money so advanced to the date of the transfer shall be reduced by an amount equal to the interest calculated on the daily credit balance held by the Commissioner at the total interest rate.
-(3) Notwithstanding subsection (2) of this section, the amount of the reduction made in accordance with the said subsection (2) shall not exceed the interest transferred to the Commissioner for collection.
+(3) Notwithstanding subsection (2), the amount of the reduction made in accordance with the said subsection (2) shall not exceed the interest transferred to the Commissioner for collection.
 (4) Nothing in this section limits the application of section 120 of the Tax Administration Act 1994 (as in force before the enactment of the Tax Administration Amendment Act (No 2) 1996),—
   (a) where it applies by virtue of section 36(2) of the Tax Administration Amendment Act (No 2) 1996; and
   (b) which is to be construed as if—
-    (i) references in that section to a competent objection were references to a challenge a borrower is entitled to make under Part 8A of the Tax Administration Act 1994 as it applies by virtue of Part 5 of this Act; and
-    (ii) the proviso to section 120(1) of the Tax Administration Act 1994 read Provided that where the amount of the disputed repayment obligation that has been paid is less than $100, no interest shall be payable under this section.; and
+    (i) references in that section to a competent objection were references to a challenge a borrower is entitled to make under Part 8A of the Tax Administration Act 1994 as it applies by virtue of Part 5; and
+    (ii) the proviso to section 120(1) of the Tax Administration Act 1994 read provided that where the amount of the disputed repayment obligation that has been paid is less than $100 no interest shall be payable under this section.; and
     (iii) all other changes necessary to give effect to this section were made.
 
 ### 43 Interest statement
@@ -635,11 +633,11 @@ An applicant under section 38AE(1)(f) must—
   (c) any part of an overseas based repayment obligation; or
   (d) any amount, being a loan balance or interest, that is payable as a result of a demand made under a loan contract; or
   (e) any underestimation penalty imposed under section 44A.
-(2) The late payment penalty the borrower is liable to pay under subsection (1) of this section is—
+(2) The late payment penalty the borrower is liable to pay under subsection (1) is—
   (a) 1.5% of the amount of the default; and
-  (b) 1.5% of the amount of the default as at each day that falls 1 month after the day on which a penalty is imposed under paragraph (a) of this subsection or under this paragraph.
+  (b) 1.5% of the amount of the default as at each day that falls 1 month after the day on which a penalty is imposed under paragraph (a) or under this paragraph.
 (3) For the purposes of this section—
-  - **amount of the default** meansand includes the amount of any late payment penalty payable under this section
+  - **amount of the default** means:and includes the amount of any late payment penalty payable under this section
     (a) in respect of a terminal repayment obligation, the amount of the terminal repayment obligation not paid by the due date:
     (b) in respect of an interim repayment, the amount that is the smallest of—
       (i) the difference between 105% of the residual repayment obligation for the immediately preceding tax year and the amount of interim repayments made; and
@@ -648,8 +646,8 @@ An applicant under section 38AE(1)(f) must—
     (c) the amount of any instalment of an interim repayment due after the third instalment date not paid by the due date:
     (d) in respect of an overseas based repayment obligation, the amount of any overseas based repayment obligation not paid by the last day of the tax year;—
   - **due date** means—
-    (a) for a terminal repayment obligation, the date specified in schedule 3 of the Income Tax Act 2007 or any later date specified in the notice of assessment:
-    (b) for any instalment of an interim repayment due on or before the third instalment date, the date specified in schedule 3 of the Income Tax Act 2007 as the date for payment of the third instalment:
+    (a) for a terminal repayment obligation, the date specified in Schedule 3 of the Income Tax Act 2007 or any later date specified in the notice of assessment:
+    (b) for any instalment of an interim repayment due on or before the third instalment date, the date specified in Schedule 3 of the Income Tax Act 2007 as the date for payment of the third instalment:
     (c) for any instalment of an interim repayment due after the third instalment date, the date specified in the notice of assessment as the due date:
     (d) for an overseas based repayment obligation, the last day of the tax year.
 
@@ -657,16 +655,16 @@ An applicant under section 38AE(1)(f) must—
 (1) If, at the due date for payment of the third instalment, a periodic payer has estimated the interim repayment obligation and—the person (subject to subsection (3)) is liable to pay to the Commissioner, by way of penalty, an amount calculated in accordance with subsection (2).
   (a) the estimate applying at the third instalment date is less than 80% of the periodic payer's residual repayment obligation and is less than the periodic payer's interim repayment obligation would have been had the periodic payer not estimated; and
   (b) the amount of interim repayments made on or before the third instalment date is less than 80% of the periodic payer's residual repayment obligation for the tax year—
-(2) In relation to any tax year, the amount of underestimation penalty payable under this section is an amount calculated in accordance with the following formula:(a − b) x 10%where—ais the periodic payer's residual repayment obligation for the tax year:bis the greater of—
+(2) In relation to any tax year, the amount of underestimation penalty payable under this section is an amount calculated in accordance with the following formula:(a − b) × 10%where—ais the periodic payer's residual repayment obligation for the tax yearbis the greater of—
   (i) the amount of the periodic payer's estimate, being that estimate applying at the due date for payment of the third instalment; and
   (ii) the amount of the interim repayments paid on or before the due date for payment of the third instalment.
 (3) If the Commissioner is satisfied that a periodic payer has become liable for underestimation penalty for a tax year under this section by reason of—the Commissioner shall, to the extent that the penalty is higher than it would otherwise have been, write off the penalty or a part thereof.
   (a) the enactment of any Act amending the Income Tax Act 2007 or the making of any regulation or Order in Council relating to income tax, on or after 1 March in that tax year and on or before 20 April in the immediately succeeding tax year; or
   (b) the Commissioner making public, on or after 1 March in that tax year and on or before 20 April in the immediately succeeding tax year, any ruling in relation to any provision of the Income Tax Act 2007 and that ruling is different from that previously made public by the Commissioner in relation to that provision; or
-  (c) the adoption by the person of an incorrect tax position which is corrected for the tax year,
+  (c) the adoption by the person of an incorrect tax position which is corrected for the tax year,—
 (4) A penalty imposed under this section is deemed to be due and payable on—
-  (a) the 7th day of the month specified in Schedule 13 Part A of the Income Tax Act 1994 as the month for payment of the borrower's terminal tax, unless the month is January; and
-  (b) the 15th day of January, when January is the month specified in schedule 3, part A of the Income Tax Act 2007.
+  (a) the seventh day of the month specified in Schedule 13, Part A of the Income Tax Act 2004 as the month for payment of the borrower's terminal tax, unless the month is January; and
+  (b) 15 January, when January is the month specified in Schedule 3, Part A of the Income Tax Act 2007.
 
 ### 44B No interest on portion of loan balance subject to penalty
 (1) No interest may be charged on any portion of a loan balance on which a borrower is liable to pay a penalty.
@@ -677,19 +675,69 @@ An applicant under section 38AE(1)(f) must—
 ### 45 Notification of penalties
 The Commissioner shall, as soon as practicable after charging a penalty, give the person charged with that penalty written notice of the amount of that penalty.
 
-**Amnesty from payment of late payment penalties**
+**Ten percent bonus for excess repayments**
 
-### 45A Amnesty in respect of late payment penalties
-[Repealed]
+### 45A Interpretation
+In this section and sections 45B to 45H, unless the context otherwise requires,—
+  - **10% bonus** means the bonus specified in, as appropriate, section 45C(2), 45D(2), or 45E(2)
+  - **excess repayment** has the meaning set out in section 45B
+  - **final excess repayment** means an excess repayment that, when combined with the resulting 10% bonus, results in the borrower's IRD loan balance being fully repaid.
 
-### 45B Conditions of amnesty
-[Repealed]
+### 45B Meaning of excess repayment
+(1) For the purposes of this Act, an excess repayment, in respect of a borrower, is any amount paid to the Commissioner in respect of a tax year in excess of that borrower's repayment obligation for that tax year.
+(2) However, the following are not excess repayments:
+  (a) any amount paid in respect of a tax year when a repayment obligation, repayment deduction, interim repayment, terminal repayment obligation, or penalty is, or will be, due and payable in respect of that tax year or any prior tax year (the due amount), except to the extent that the amount paid is in excess of all due amounts:
+  (b) any amount that was paid before 1 April 2009:
+  (c) any amount that is paid in respect of a tax year that ended on or before 31 March 2009.
+(3) Excess repayments may be made—
+  (a) by any means, including repayment deductions, interim repayments, and voluntary payments; and
+  (b) in 1 or more payments in respect of a tax year; and
+  (c) in respect of a tax year, at any time during that tax year and, if the borrower is a periodic payer, at any time up to and including the due date for payment of the final instalment of that borrower's interim repayments for that tax year.
 
-### 45C Effect of amnesty on repayment obligation and interest
-[Repealed]
+### 45C Borrower's entitlement to 10% bonus for total excess repayments of $500 or more
+(1) Subsection (2) applies to a borrower if—
+  (a) the borrower's total excess repayments in respect of a tax year are $500 or more; and
+  (b) at the beginning of the tax year in respect of which the excess repayments were made, the borrower's IRD loan balance was $550 or more.
+(2) If this subsection applies to a borrower, the Commissioner must reduce the borrower's IRD loan balance by an amount equal to 10% of the borrower's total excess repayments in respect of the relevant tax year.
 
-### 45D Repayment obligation and penalties may be reinstated if amnesty condition breached
-[Repealed]
+### 45D Borrower's entitlement to bonus if IRD loan balance is less than $550
+(1) Subsection (2) applies to a borrower if—
+  (a) the borrower's final excess repayment in respect of a tax year is $500; and
+  (b) at the date on which the final excess repayment was made, the borrower's IRD loan balance was more than $500 but less than $550.
+(2) If this subsection applies to a borrower, the Commissioner must reduce the borrower's IRD loan balance to zero.
+
+### 45E Borrower may be entitled to 10% bonus if under-deduction is due to PAYE system
+(1) Subsection (2) applies to a borrower if—
+  (a) the borrower's total excess repayments in respect of a tax year are less than $500; and
+  (b) the difference between the borrower's total excess repayments in respect of that tax year and $500 (the shortfall) is because of an under-deduction through the PAYE system; and
+  (c) the shortfall meets 1 or more of the following criteria:
+    (i) it is less than $20:
+    (ii) it is due to the borrower commencing or ceasing employment:
+    (iii) it is due to an action or an omission of the borrower's employer; and
+  (d) the Commissioner considers that the borrower's total excess repayments in respect of that tax year would have been $500 or more if the under-deduction referred to in paragraph (b) had not occurred; and
+  (e) at the beginning of the tax year in respect of which the excess repayments were made, the borrower's IRD loan balance was $550 or more.
+(2) If this subsection applies to a borrower, the Commissioner must reduce the borrower's IRD loan balance by an amount equal to 10% of the borrower's total excess repayments in respect of the relevant tax year that the Commissioner considers would have been made if the under-deduction referred to in subsection (1)(b) had not occurred.
+
+### 45F Manner in which 10% bonus is to be provided and restriction on amount of 10% bonus
+(1) If a borrower's IRD loan balance will be fully repaid as a result of it being reduced by a 10% bonus, that bonus must be credited to that borrower's IRD loan balance as at the date on which the final excess repayment was made.
+(2) If a borrower's IRD loan balance will not be fully repaid as a result of it being reduced by a 10% bonus, that bonus must be credited to that borrower's IRD loan balance as at 1 April in the tax year that follows the tax year in respect of which the excess repayments were made.
+(3) Nothing in subsection (1) or (2) requires the Commissioner to credit a 10% bonus to a borrower's IRD loan balance before the Commissioner has determined that borrower's total excess repayments in respect of a tax year.
+(4) The total amount of a 10% bonus that may be provided to a borrower must not exceed an amount equal to one-eleventh of that borrower's IRD loan balance on either—
+  (a) the date on which the 10% bonus is provided; or
+  (b) an earlier date determined by the Commissioner, at his or her discretion, that is within the relevant tax year.
+(5) The Commissioner may only determine a date under subsection (4)(b) if, in respect of a borrower,—
+  (a) 1 or more excess repayments are made in respect of a tax year; and
+  (b) a final excess repayment was made in respect of the same tax year.
+
+### 45G Consequences of refund
+(1) If a borrower elects that the whole or part of an excess repayment in respect of a tax year be refunded, any 10% bonus that was provided to that borrower must be reduced to an amount equal to 10% of the remaining excess repayment (if any) in respect of the tax year that is $500 or more.
+(2) If the 10% bonus was provided under section 45E(2), then the remaining excess repayment (if any) in respect of the tax year that is $500 or more must be determined by reference to the borrower's total excess repayments in respect of the relevant tax year that the Commissioner considered (under section 45E) would have been made if the under-deduction referred to in section 45E(1)(b) had not occurred.
+
+### 45H Commissioner must advise borrowers to seek financial advice
+The Commissioner must, in all material that provides information about repayment bonuses and that is made available to all borrowers, include a statement to the effect that borrowers are advised to seek appropriate financial advice before making excess repayments in order to obtain a 10% bonus.
+
+### 45I Application of sections 45A to 45H
+Sections 45A to 45H apply with effect from 31 March 2009.
 
 **Enforcement**
 
@@ -697,13 +745,13 @@ The Commissioner shall, as soon as practicable after charging a penalty, give th
 (1) Any amount payable under this Act by a borrower shall be recoverable as a debt due to the Crown.
 (2) Sections 156 to 165 of the Tax Administration Act 1994, as far as they are applicable and with the necessary modifications, shall apply for the purposes of this Act, as if—
   (a) every reference in those provisions to income tax were a reference to a repayment obligation; and
-  (b) the reference to an assessment in section 162 were a reference to an assessment made under Part 2 or Part 3 of this Act; and
+  (b) the reference to an assessment in section 162 were a reference to an assessment made under Part 2 or Part 3; and
   (c) every reference to this Act in sections 164 and 165 were a reference to this Act.
 
 **Date on which payments due**
 
 ### 47 Payment date not otherwise specified
-Any amount not otherwise due and payable in accordance with this Act shall be due and payable one month after the date of issue of the assessment or notice.
+Any amount not otherwise due and payable in accordance with this Act shall be due and payable 1 month after the date of issue of the assessment or notice.
 
 **Dates on which payments deemed to be received and credited**
 
@@ -737,16 +785,11 @@ Any payment in respect of a repayment obligation must be off-set—
 (5) This section applies despite anything in this Act.
 
 ### 51A Commissioner may refrain from collecting amounts between $5 and $333
-(1) The Commissioner may refrain from collecting payment of a repayment obligation (or part of a repayment obligation) if that repayment obligation (or part of a repayment obligation)—
-  (a) is more than $5 but less than $333; and
-  (b) has not been paid by the due date (as that term is defined in section 44).
-(2) Any amount that, under subsection (1), the Commissioner does not collect from a borrower is subject to interest at the total interest rate on the daily amount outstanding (except to the extent that this Act otherwise requires).
-(3) This section applies despite anything in this Act.
-(4) This section expires on the close of 30 September 2007.
+[Repealed]
 
 ### 52 No liability in respect of small amounts of penalty
 (1) The Commissioner shall not charge, and there shall be no liability to pay, any penalty imposed in respect of any default in paying any repayment obligation or other amount by its due date where the amount of the penalty calculated in respect of that default does not exceed $5 (or such other amount as the Governor-General may, from time to time, by Order in Council declare for the purposes of this section).
-(2) Where the amount of any penalty initially calculated in respect of any default does not exceed $5 (or such other amount as may be declared under subsection (1) of this section),—
+(2) Where the amount of any penalty initially calculated in respect of any default does not exceed $5 (or such other amount as may be declared under subsection (1)),—
   (a) the amount so calculated shall be deemed not to be a penalty, and shall not be added to the amount in default; and
   (b) no further amount of penalty shall be added under the relevant provision in respect of any further period during which the default continues.
 (3) This section applies only to borrowers' obligations under this Act.
@@ -758,8 +801,8 @@ Any payment in respect of a repayment obligation must be off-set—
   (b) in writing; or
   (c) in any other manner acceptable to the Commissioner.
 (1B) However, the Commissioner may require an application for relief to be made in writing.
-(2) The payment of the penalty, in whole or in part, shall not preclude the Commissioner from granting relief from that penalty in accordance with subsection (1) of this section.
-(3) If the amount of any penalty is reduced, the Commissioner shall apply any amount overpaid in accordance with section 56 or section 57 of this Act.
+(2) The payment of the penalty, in whole or in part, shall not preclude the Commissioner from granting relief from that penalty in accordance with subsection (1).
+(3) If the amount of any penalty is reduced, the Commissioner shall apply any amount overpaid in accordance with section 56 or section 57.
 (4) This section applies only to borrowers' obligations under this Act.
 
 ### 54 Borrowers may apply for hardship relief
@@ -793,7 +836,7 @@ Any payment in respect of a repayment obligation must be off-set—
 (1) If an application is made under section 54(1)(b) or (c), the Commissioner may, for any period the Commissioner considers equitable, reduce any amount that must be deducted or paid in order to meet the repayment obligation assessed or to be assessed for the current tax year or the next tax year if the Commissioner—
   (a) is satisfied that the amount being deducted or paid, or to be deducted or paid, has caused or will cause serious hardship to the borrower; or
   (b) considers that there are other special reasons that make it fair and reasonable to do so.
-(2) If the Commissioner reduces the amount to be deducted or paid by a borrower under subsection (1), the Commissioner must, as appropriate, do 1 of the following:
+(2) If the Commissioner reduces the amount to be deducted or paid by a borrower under subsection (1), the Commissioner must, as appropriate, do one of the following:
   (a) issue to that borrower a special repayment deduction rate certificate that varies the standard deduction rate in accordance with the Commissioner's decision under subsection (1) and, when assessed, reduce that borrower's repayment obligation accordingly; or
   (b) reduce the percentage payable by that borrower under section 27(1) in accordance with the Commissioner's decision under subsection (1) and, when assessed, reduce that borrower's repayment obligation accordingly; or
   (c) reduce that borrower's repayment obligation under section 34 in accordance with the Commissioner's decision under subsection (1).
@@ -823,25 +866,25 @@ Any payment in respect of a repayment obligation must be off-set—
   (c) paid an amount in excess of the amount of any instalment of an interim repayment; or
   (d) made a voluntary payment in excess of the repayment obligation for that tax year; or
   (e) paid an amount in excess of the amount of any penalty charged,—
-  (f) credit the amount so deducted or paid in excess, so far as it extends, to any repayment obligation or instalment of an interim repayment for any other tax year or any other amount that has become due and payable that the borrower has failed to pay in the order in which that repayment obligation or instalment of an interim repayment obligation or other amount became due and apply any amount not so credited in accordance with either subsection (1A) or (1B)
+  (f) credit the amount so deducted or paid in excess, so far as it extends, to any repayment obligation or instalment of an interim repayment for any other tax year or any other amount that has become due and payable that the borrower has failed to pay in the order in which that repayment obligation or instalment of an interim repayment obligation or other amount became due and apply any amount not so credited in accordance with either subsection (1A) or (1B).
   (g)
 (1A) A borrower may elect that the whole or part of the amount not credited—
   (a) be refunded; or
   (b) be applied to the loan balance.
 (1B) Where a borrower does not make an election, the Commissioner must apply the amount not credited to the loan balance.
-(2) Any election under subsection (1A)(b) of this section shall be irrevocable.
+(2) Any election under subsection (1A)(b) shall be irrevocable.
 (2A) Where a borrower has not made an election, the borrower may request the Commissioner, within 6 months of the date on which the Commissioner issued the notice of assessment that showed the amount applied to the loan balance, to refund, in whole or in part, the amount so credited.
 (2B) A refund that is made under this section must comply with section 184A of the Tax Administration Act 1994.
-(3) Notwithstanding subsection (1) of this section, no refund shall be made under this section after the expiry of the period of 8 years immediately after the end of the year in which the assessment was made or, in any case where the original assessment has been altered (whether once or more than once) after the end of the year in which the original assessment was made, unless written application for the refund is made by or on behalf of the borrower before the expiry of that period.
+(3) Notwithstanding subsection (1), no refund shall be made under this section after the expiry of the period of 8 years immediately after the end of the year in which the assessment was made or, in any case where the original assessment has been altered (whether once or more than once) after the end of the year in which the original assessment was made, unless written application for the refund is made by or on behalf of the borrower before the expiry of that period.
 
 ### 57 Election by overseas based borrower to receive refund or to apply overpayment to loan balance
 (1) Where any overseas based borrower has paid an amount in excess of the overseas based repayment obligation for any year, the Commissioner shall—
   (a) credit the amount so paid in excess, so far as it extends, to any repayment obligation for any other tax year or any other amount that has become due and payable that the borrower has failed to pay in the order in which that repayment obligation or other amount became due; and
-  (b) notify the borrower of any amount so paid in excess that is not credited under paragraph (a) of this subsection.
-(2) The borrower may request the Commissioner, within 2 months of the date on which the Commissioner issued the notice, to refund any amount so paid in excess that is not credited under subsection (1)(a) of this section.
+  (b) notify the borrower of any amount so paid in excess that is not credited under paragraph (a).
+(2) The borrower may request the Commissioner, within 2 months of the date on which the Commissioner issued the notice, to refund any amount so paid in excess that is not credited under subsection (1)(a).
 (2A) Unless subsection (4) applies, a refund of an amount paid in excess of a borrower's repayment obligation must be made in the manner required under section 184A of the Tax Administration Act 1994.
 (3) Any such request shall be irrevocable.
-(4) If no such request is made within that time, any amount paid in excess that is not credited under subsection (1)(a) of this section shall be applied in reduction of the loan balance.
+(4) If no such request is made within that time, any amount paid in excess that is not credited under subsection (1)(a) shall be applied in reduction of the loan balance.
 
 ### 57A Application of sections 57B to 57D
 Sections 57B to 57D—
@@ -908,18 +951,18 @@ If—the IRD loan balance shall be reduced to zero.
 (3) This section applies to notifications provided on or after 1 June 1998.
 
 ### 61 Tax year other than 12 months due to change in balance date
-If a borrower's net income is for a period other than 12 months as a result of the borrower changing his or her balance date for income tax purposes, for the purpose of calculating the amount of that borrower's repayment obligation, the repayment threshold is calculated as follows:a × b 365where—ais the amount of the repayment threshold referred to in section 2:bis the number of days in the period.
+If a borrower's net income is for a period other than 12 months as a result of the borrower changing his or her balance date for income tax purposes, for the purpose of calculating the amount of that borrower's repayment obligation, the repayment threshold is calculated as follows:a × b 365where—ais the amount of the repayment threshold referred to in section 2bis the number of days in the period.
 
 ### 62 Disclosure of information
 (1) For the purposes of this section, authorised person means—
   (a) the Commissioner of Inland Revenue or any officer of the Inland Revenue Department who is authorised by the Commissioner to disclose and receive information under this section; or
   (b) any employee of the loan manager who is authorised by the chief executive to disclose and receive information under this section; or
   (c) any employee of any tertiary institution who is authorised by the chief executive to disclose and receive information under this section.
-(1A) For the purposes of section 81(4)(g) of the Tax Administration Act 1994, authorised person includes the Secretary of Education, or any officer of the Ministry of Education who is authorised by the Secretary of Education to disclose or receive information under this section.
+(1A) For the purposes of section 81(4)(g) of the Tax Administration Act 1994, authorised person includes the chief executive, or any officer of the specified department who is authorised by the chief executive to disclose or receive information under this section.
 (2) No obligation as to secrecy or other restriction imposed by any enactment or otherwise on the disclosure of information may prevent—
   (a) an authorised person from disclosing to another authorised person any information required for the purpose of enabling the Commissioner to correctly identify a borrower whose loan is to be transferred from the loan manager to the Commissioner for collection; or
   (ab)
-  (b) The Commissioner from disclosing to the chief executive such information as may be necessary to investigate circumstances in which an authorised person considers—
+  (b) the Commissioner from disclosing to the chief executive such information as may be necessary to investigate circumstances in which an authorised person considers—
     (i) a student loan may have been improperly obtained; or
     (ii) an attempt has been made to obtain a student loan by improper means.
 (2AA)
@@ -930,17 +973,17 @@ If a borrower's net income is for a period other than 12 months as a result of t
   (d) whether a person specified by the chief executive is a taxpayer:
   (e) in respect of an address specified by the chief executive, the number of borrowers recorded as resident at that address:
   (f) any other particulars that the Commissioner considers relevant to the purposes of subsection (2)(b).
-(3) Subject to subsection (4) of this section, information obtained pursuant to subsection (2) of this section shall not be disclosed except to an authorised person and for the purposes of that subsection.
-(4) No obligation as to secrecy or other restriction imposed by any enactment or otherwise upon the disclosure of information shall prevent the chief executive, or any officer of the specified department who is authorised by the chief executive to receive information under this section, from receiving information disclosed from any authorised person to another authorised person in accordance with subsection (2) of this section for any purpose that relates to the administration of the student loan scheme.
+(3) Subject to subsection (4), information obtained pursuant to subsection (2) shall not be disclosed except to an authorised person and for the purposes of that subsection.
+(4) No obligation as to secrecy or other restriction imposed by any enactment or otherwise upon the disclosure of information shall prevent the chief executive, or any officer of the specified department who is authorised by the chief executive to receive information under this section, from receiving information disclosed from any authorised person to another authorised person in accordance with subsection (2) for any purpose that relates to the administration of the student loan scheme.
 (5) For the purposes of section 81(4)(g) of the Tax Administration Act 1994, the chief executive, or any officer of the specifed department who is authorised by the chief executive to receive information under this section, shall be deemed to be an authorised person under this section.
 (6) In this section, specified department means the department that is, with the authority of the Prime Minister, for the time being responsible for the administration of the Social Security Act 1964.
 
 ### 62A Disclosure of information for information matching purposes
-(1) The purpose of this section is to facilitate the exchange of information between the Department and the New Zealand Customs Service for the purpose of establishing an information matching programme to assist the Commissioner to verify—
+(1) The purpose of this section is to facilitate the exchange of information between the department and the New Zealand Customs Service for the purpose of establishing an information matching programme to assist the Commissioner to verify—
   (a) borrowers' entitlements to a full interest write-off under section 38AA:
   (b) whether borrowers are New Zealand based or overseas based for the purposes of this Act:
   (c) whether borrowers are resident or non-resident for the purposes of this Act.
-(2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the Department:
+(2) For the purpose of this section, the Commissioner may provide to the chief executive of the New Zealand Customs Service any of the following information that is held by the department:
   (a) a borrower's name or any other name by which a borrower is known:
   (b) a borrower's date of birth:
   (c) a borrower's tax file number.
@@ -961,11 +1004,11 @@ A loan contract entered into by a borrower (whether before or after the commence
 
 ## Part 5 — Challenges after transfer of loan balance to Commissioner
 
-### 64 Objection to assessment of repayment obligation
-Any borrower whose repayment obligation has been assessed under Part 2 or Part 3 of this Act may, on the ground that the assessment is erroneous or excessive or has been issued in error, challenge the assessment.
+### 64 Challenge to assessment of repayment obligation
+Any borrower whose repayment obligation has been assessed under Part 2 or Part 3 may, on the ground that the assessment is erroneous or excessive or has been issued in error, challenge the assessment.
 
-### 65 Objection to amount of interest charged
-Any borrower who is charged with interest in a tax year may, on the ground that he or she should not have been charged with the amount of interest charged, challenge the notice given to the borrower under section 43 of this Act.
+### 65 Challenge to amount of interest charged
+Any borrower who is charged with interest in a tax year may, on the ground that he or she should not have been charged with the amount of interest charged, challenge the notice given to the borrower under section 43.
 
 ### 65A Objection to decision concerning grant of exemption
 A borrower may challenge a decision by the Commissioner—
@@ -976,16 +1019,16 @@ A borrower may challenge a decision by the Commissioner—
     (ii) erroneous:
   (d) specifying the conditions that must apply or be met in order for that borrower to be treated as being personally present in New Zealand under section 38AE(2)(b), 38AJ(3)(b), or 38AJA(5)(b), on the ground that those conditions are—
     (i) not fair and reasonable; or
-    (ii) erroneous.
+    (ii) erroneous:
   (e) not to reduce the amount of interest calculated on an eligible borrower's loan balance under section 38AL, on the ground that that decision was not fair and reasonable:
   (f) specifying the start and end dates for the period for which the amount of interest calculated on an eligible borrower's loan balance is reduced to zero under section 38AL(2), on the ground that those dates are—
     (i) not fair and reasonable; or
     (ii) erroneous.
 
-### 66 Objection to penalty
-Any person who is charged with a penalty may,—challenge the notice given to the person under section 45 of this Act.
-  (a) On the ground that the person is not chargeable with the amount of the penalty; or
-  (b) On the ground that the amount of the penalty charged is excessive,—
+### 66 Challenge to penalty
+Any person who is charged with a penalty may,—challenge the notice given to the person under section 45.
+  (a) on the ground that the person is not chargeable with the amount of the penalty; or
+  (b) on the ground that the amount of the penalty charged is excessive,—
 
 ### 66A Objection to decisions concerning penalty amnesty
 [Repealed]
@@ -993,28 +1036,28 @@ Any person who is charged with a penalty may,—challenge the notice given to th
 ### 66B Objection to decision concerning significant financial hardship
 A borrower may challenge a decision by the Commissioner under section 57D not to exempt part or all of a refund made to that borrower from section 57C, on the ground that that decision is not fair and reasonable.
 
-### 67 Objection to assessment of repayment deduction
-Any employer or PAYE intermediary who is required to make a repayment deduction determined under section 22 of this Act may, on the ground that the determination is erroneous, challenge the assessment made under section 22(2) of this Act.
+### 67 Challenge to assessment of repayment deduction
+Any employer or PAYE intermediary who is required to make a repayment deduction determined under section 22 may, on the ground that the determination is erroneous, challenge the assessment made under section 22(2).
 
 ### 68 Challenge to penal repayment obligation
-(1) Any borrower who is assessed under section 85 of this Act with a penal repayment obligation may,—challenge the assessment.
+(1) Any borrower who is assessed under section 85 with a penal repayment obligation may,—challenge the assessment.
   (a) on the ground the borrower is not chargeable with the amounts so assessed; or
   (b) on the ground that the amount so assessed is excessive having regard to either or both of—
     (i) the nature and degree of the act or default in respect of which the assessment was made; or
     (ii) the reason for the imposition of the penal repayment obligation,—
-(2) A challenge may be made under subsection (1) of this section notwithstanding that the amount of the assessment is not in excess of treble the amount of the deficient repayment obligation.
+(2) A challenge may be made under subsection (1) notwithstanding that the amount of the assessment is not in excess of treble the amount of the deficient repayment obligation.
 
 ### 69 Objector
 A challenge under any of sections 64 to 68 may be made only by or on behalf of the person to whom the assessment, notice, or decision relates.
 
 ### 69A Application of Parts 4A and 8A of Tax Administration Act 1994
-(1) Parts 4A and 8A of the Tax Administration Act 1994 apply with respect to every notice of assessment or reassessment issued by the Commissioner under this Act on or after the 1st day of October 1996.
-(2) Subsection (1) does not apply to any notice of reassessment issued by the Commissioner under this Act on or after the 1st day of October 1996, if, before that date, the person who has been assessed has made a competent objection to a notice of assessment that precedes the notice of reassessment.
+(1) Parts 4A and 8A of the Tax Administration Act 1994 apply with respect to every notice of assessment or reassessment issued by the Commissioner under this Act on or after 1 October 1996.
+(2) Subsection (1) does not apply to any notice of reassessment issued by the Commissioner under this Act on or after 1 October 1996, if, before that date, the person who has been assessed has made a competent objection to a notice of assessment that precedes the notice of reassessment.
 
 ### 69B No right of challenge to interest payable under loan contract
 Nothing in—confers a right to challenge the rate of interest charged under a loan contract.
   (a) Parts 4A and 8A of the Tax Administration Act 1994; or
-  (b) This Act—
+  (b) this Act—
 
 ### 70 Manner in which objection to be made
 [Repealed]
@@ -1040,24 +1083,24 @@ Nothing in—confers a right to challenge the rate of interest charged under a l
 ## Part 6 — Offences and penalties
 
 ### 77 Offences in respect of repayment deductions
-(1) Subject to subsection (3) of this section, every borrower commits an offence against this Act who—
+(1) Subject to subsection (3), every borrower commits an offence against this Act who—
   (a)
   (b)
   (c)
-  (d) wilfully fails to notify an employer or a PAYE intermediary in accordance with section 18 of this Act or wilfully gives any false information, or wilfully misleads or attempts to mislead the Commissioner or any other officer, or any employer or other person, in relation to any matter or thing affecting a repayment deduction; or
-  (e) negligently fails to notify an employer or a PAYE intermediary in accordance with section 18 of this Act, , or negligently gives any false information, or negligently misleads or attempts to mislead the Commissioner or any other officer, or any employer or other person, in relation to any matter or thing affecting a repayment deduction.
+  (d) wilfully fails to notify an employer in accordance with section 18 or wilfully gives any false information, or wilfully misleads or attempts to mislead the Commissioner or any other officer, or any employer or a PAYE intermediary or other person, in relation to any matter or thing affecting a repayment deduction; or
+  (e) negligently fails to notify an employer in accordance with section 18, or negligently gives any false information, or negligently misleads or attempts to mislead the Commissioner or any other officer, or any employer or a PAYE intermediary or other person, in relation to any matter or thing affecting a repayment deduction.
 (2)
 (3)
 
 ### 78 Penalties for offences in respect of repayment deductions
 (1)
-(2) Every borrower who commits an offence against section 77(1)(d) of this Act shall,—
-  (a) on the first occasion on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $15,000:
-  (b) on every occasion, other than the occasion referred to in paragraph (a) of this subsection, on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $25,000.
-(3) Every borrower who commits an offence against section 77(1)(e) of this Act shall,—
-  (a) on the first occasion on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $2,000:
-  (b) on the second occasion on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $4,000:
-  (c) on every occasion, other than the occasions referred to in paragraphs (a) and (b) of this subsection, on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $6,000.
+(2) Every borrower who commits an offence against section 77(1)(d) shall,—
+  (a) on the first occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $15,000:
+  (b) on every occasion, other than the occasion referred to in paragraph (a), on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $25,000.
+(3) Every borrower who commits an offence against section 77(1)(e) shall,—
+  (a) on the first occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $2,000:
+  (b) on the second occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $4,000:
+  (c) on every occasion, other than the occasions referred to in paragraphs (a) and (b), on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $6,000.
 
 ### 79 Other offences
 (1) Every person commits an offence against this Act who—
@@ -1066,19 +1109,19 @@ Nothing in—confers a right to challenge the rate of interest charged under a l
   (c)
   (d)
   (e) aids, abets, incites, or conspires with any borrower to commit any offence against this Act.
-(2) Every person who commits an offence against subsection (1) of this section shall,—
-  (a) on the first occasion on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $15,000:
-  (b) on every occasion, other than the occasion referred to in paragraph (a) of this subsection, on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $25,000.
+(2) Every person who commits an offence against subsection (1) shall,—
+  (a) on the first occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $15,000:
+  (b) on every occasion, other than the occasion referred to in paragraph (a), on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $25,000.
 (3) Every person commits an offence against this Act who—
   (a) being a borrower, refuses or fails to furnish any return or information as and when required by this Act or the Commissioner; or
   (b) being a borrower, negligently makes any false return, or negligently gives any false information, or negligently misleads or attempts to mislead the Commissioner or any other officer, in relation to any matter or thing affecting the borrower's repayment obligation; or
   (c) being a borrower, obstructs any officer of the Inland Revenue Department acting in the discharge of that officer's duties or in the exercise of that officer's powers under this Act; or
   (d)
   (e)
-(4) Every person who commits an offence against subsection (3) of this section shall,—
-  (a) on the first occasion on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $2,000:
-  (b) on the second occasion on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $4,000:
-  (c) on every occasion, other than the occasions referred to in paragraphs (a) and (b) of this subsection, on which the person is convicted of any such offence or more than one such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $6,000.
+(4) Every person who commits an offence against subsection (3) shall,—
+  (a) on the first occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $2,000:
+  (b) on the second occasion on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $4,000:
+  (c) on every occasion, other than the occasions referred to in paragraphs (a) and (b), on which the person is convicted of any such offence or more than 1 such offence, be liable, in respect of that offence or, as the case may be, each of those offences, to a fine not exceeding $6,000.
 
 ### 80 Officers and employees of corporate bodies
 [Repealed]
@@ -1090,17 +1133,17 @@ Nothing in—confers a right to challenge the rate of interest charged under a l
   (c) terminates, or threatens to terminate, the payment of salary or wages to another person; or
   (d) prejudices, or threatens to prejudice, another person in his or her employment or otherwise in the receipt of salary or wages; or
   (e) intimidates or coerces, imposes any pecuniary or other penalty on, or takes any other disciplinary action in relation to, another person,—
-(2) In a prosecution for an offence against subsection (1) of this section, it is not necessary for the prosecutor to prove the reasons for the defendant's action, but it is a defence to the prosecution if the defendant proves, on the balance of probabilities, that the action was not motivated (either in whole or in part) by a reason specified in that subsection.
-(3) Every person who commits an offence against subsection (1) of this section shall be liable to a fine not exceeding $2,000.
-(4) Where an employer is convicted of an offence against subsection (1) of this section, the Court may order the payment of compensation to the person for loss or damage suffered as a result of the offence.
+(2) In a prosecution for an offence against subsection (1), it is not necessary for the prosecutor to prove the reasons for the defendant's action, but it is a defence to the prosecution if the defendant proves, on the balance of probabilities, that the action was not motivated (either in whole or in part) by a reason specified in that subsection.
+(3) Every person who commits an offence against subsection (1) shall be liable to a fine not exceeding $2,000.
+(4) Where an employer is convicted of an offence against subsection (1), the court may order the payment of compensation to the person for loss or damage suffered as a result of the offence.
 
 ### 82 Proceedings to be taken summarily
 All proceedings for offences under this Act shall be taken by way of summary prosecution before a District Court Judge upon the information of the Commissioner.
 
 ### 83 Information may charge several offences
 (1) Any information may charge the defendant with any number of offences against this Act if those offences are founded on the same set of facts, or form or are part of a series of offences of the same or similar character.
-(2) Where any information charges more than one such offence, particulars of each offence charged shall be set out separately in the information.
-(3) All such charges shall be heard together, unless the Court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
+(2) Where any information charges more than 1 such offence, particulars of each offence charged shall be set out separately in the information.
+(3) All such charges shall be heard together, unless the court, either before or at any time during the hearing, considers it just that any charge should be heard separately and makes an order to that effect.
 
 ### 84 Information may be laid within 10 years
 Notwithstanding anything in the Summary Proceedings Act 1957 or in any other Act, any information in respect of any offence against this Act or against any regulations made under this Act may be laid at any time within 10 years after the end of the year in which the offence was committed.
@@ -1120,8 +1163,8 @@ If any borrower evades, or attempts to evade, or does any act with intent to eva
     (ii)
     (iii)
     (iv) the repayment percentage,—
-  (ab) specifying a formula or methodology, and other requirements, in accordance with which the total interest rate must be set or reset for the purposes of this Act:
-  (ac) determining, in accordance with the formula or methodology and requirements specified under paragraph (ab), the total interest rate that is to apply in respect of any tax year
+  (ab)
+  (ac)
   (b)
   (ba)
   (bb) specifying a list of charitable organisations for the purposes of section 38AE(1)(b):
@@ -1322,64 +1365,91 @@ Where a provision of this Act (a relevant provision)—the repealed provision mu
   (a) refers to a provision of the Tax Administration Act 1994 that is repealed by the Tax Administration Amendment Act (No 2) 1996; and
   (b) incorporates the repealed provision for any purpose to give effect to the relevant provision,—
 
-### 1 Title
-This Act is the Taxation (Depreciation, Payment Dates Alignment, FBT, and Miscellaneous Provisions) Act 2006.
+### 1 Short Title
+This Act may be cited as the Student Loan Scheme Amendment Act 1996, and shall be read together with and deemed part of the Student Loan Scheme Act 1992 (in this Act referred to as the principal Act).
 
-### 2 Commencement
-(1) This Act comes into force on the date on which it receives the Royal assent, except as provided in this section.
-(2) Sections 267 and 279(6) are treated as coming into force on 1 April 1995.
-(3) Sections 274 and 278 are treated as coming into force on 1 April 2003.
-(4) Section 231 is treated as coming into force on 25 November 2003.
-(5) Sections 121 and 122 are treated as coming into force on 4 June 2004.
-(6) Section 281 is treated as coming into force on 1 July 2004.
-(7) Sections 230(1), 234, and 270 are treated as coming into force on 21 December 2004.
-(8) Sections 11(1), 12, 40, 57, 65, 80, 93, 104, 105, 143(5), 180(1), (2), and (3), 187, 191(9), (12), (21), (49), and (60), 193, 199, 202, 206, 207, 208, 210(19), 211(1) to (4) and (6) to (8), 212, 223 to 229, 237, 240, 257, 284(1) and (3), 287(4) and (5), and 303 are treated as coming into force on 1 April 2005.
-(9) Section 73 is treated as coming into force on 19 May 2005.
-(10) Sections 144(1) and (7), 146, and 191(5) are treated as coming into force on 21 July 2005.
-(11) Sections 13, 15(2) and (3), 21, 22, 23, 25, 50, 51, 53, 68, 75, 81, 83(2), 84, 85, 87, 88, 94, 95, 100, 106, 113, 116, 117(1) and (2), 120, 123, 141, 150, 188, 191(10), (15), (17), (18) to (20), (43), (46), (47), (53), (57), and (69), and 198 are treated as coming into force on 1 October 2005.
-(12) Section 191(2) and (72) is treated as coming into force on 21 December 2005.
-(13) Sections 8(2), 15(1), 16, 17, 28, 29 to 37, 45, 91, 92, 97, 98, 111, 125, 131 to 134, 166 to 178, 191(6), (11), (22), (31), (51), and (70), 194(1) and (2), 197(a), and 200 come into force on 1 April 2006.
-(14) Sections 7, 8(1), 14, 20, 39, 41, 44, 59, 66, 67, 83(1), 86, 110, 112, 124, 128 to 130, 142, 143(1) and (3), 145, 147(2) and (4), 148(1) and (3), 152, 153, 155, 156, 179, 180(1) and (6), 181 to 184, 185(1), 186, 191(8), (27), (28), (38), (4), (42), (52), (55), (58), and (59), 197(b), 205, and 214 come into force on 1 July 2006.
-(15) Sections 5, 42, 43, 103, 108, 117(3), 119, 191(48), (54), and (68), 210(3), (9), and (11), 211(2), (5), (7), (8)(a), and (9), 221, 222, 230(2), 254, 255, and 256 come into force on 1 October 2006.
-(16) Sections 292, 293, and 297(1)(a) come into force on 31 March 2007.
-(17) Section 180(7) comes into force on 1 April 2007.
-(18) Sections 77, 114, 115, 118, 137 to 140, 143(2) and (4), 147(1) and (3), 148(2), 149, 160 to 163, 165, 190, 191(4), (7), (16), (26), (29), (30), (44), (45), (5), (56), (61), and (65) to (67), 194(3), 204, 210(4), (5) to (7), (8), (10), (12), (14), (17), and (18), 217, 218, 241 to 251, 258 to 260, 283(4) to (9), 291, 294 to 296, and 300 come into force on 1 October 2007.
-(19) Sections 18, 19, 26, 47, 49, 127, 192, 215, 216, and 297(1)(b) come into force on 1 April 2008.
-(20) Sections 61 to 64, 101, 301, and 302 come into force on 1 August 2006.
-
-### 300 Interim repayments to be paid in same manner as provisional tax
-(1) [Amendments incorporated into principal Act]
-(2) Subsection (1) applies for student loan repayment obligations relating to the 2008–09 and subsequent tax years.
+### 17 Repeal of sections
+(1) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding subsection (1), sections 70 to 76 of the principal Act continue to apply as if they had not been repealed to every notice of assessment or reassessment—
+  (a) issued by the Commissioner under the principal Act before 1 October 1996; or
+  (b) referred to in section 69A(2) of the principal Act (as inserted by section 16 of this Act).
+(3) The Commissioner may, with the written agreement of a person who has been assessed for a liability or obligation under the principal Act, specify that a notice of assessment or reassessment—
+  (a) issued before 1 October 1996, is to be treated as if it had been issued after that date (in which case the provisions of Parts 4A and 8A of the Tax Administration Act 1994 are to apply to the notice):
+  (b) issued on or after 1 October 1996, is to be treated as if it had been issued before that date (in which case the provisions of sections 70 to 76 of the principal Act (as in force before the enactment of this section) are to continue to apply to the notice).
+(4) This section comes into force on 1 October 1996.
 
 ### 1 Title
-This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act 2009.
+(1) This Act is the Student Loan Scheme Amendment Act 2000.
+(2) In this Act, the Student Loan Scheme Act 1992 is called the principal Act.
 
 ### 2 Commencement
-(1) This Act comes into force on the day after the date on which it receives the Royal assent, except as provided in this section.
-(2) Sections 102 and 118(20) come into force on the day that the New Zealand Superannuation and Retirement Income Amendment Act 2009 comes into force.
-(3) Section 164 is treated as coming into force on 1 April 1995.
-(4) Sections 149, 150, 151, 152, 153, 155, 157, 158, 160, 161, 162(2), (5), (6), (7), (8), and (9), and 163, and schedule 2, rows 1, and 3 to 13 are treated as coming into force on 1 April 2005.
-(5) Sections 146 and 162(3) are treated as coming into force on 1 July 2007.
-(6) Section 159 and schedule 2, row 2 are treated as coming into force on 1 October 2007.
-(7) Section 154 is treated as coming into force on 19 December 2007.
-(8) Section 162(4) is treated as coming into force on 25 February 2008.
-(9) Section 156 is treated as coming into force on 4 March 2008.
-(10) Sections 4, 6, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 20, 26, 29, 31, 40, 41, 42, 44, 45, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 80(1), 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99, 100, 101, 104(1), 105, 106, 107, 110, 111, 112, 113, 116, 117, 118(2), (3), (4), (7), (8), (9), (10), (11), (12), (13), (14), (15), (16), (17), (24), (26), (27), (29), (31), (32), and (33), 121, 122(1), 123(1), 125, 126, 135, 139, and schedule 1, rows 2 to 17, 20, 22, 23, and 27 to 44 are treated as coming into force on 1 April 2008.
-(11) Sections 19, 30, 43, and schedule 1, row 21 are treated as coming into force on 1 April 2009.
-(12) Sections 23, 24, 25, 27, 28, and schedule 1, row 18 are treated as coming into force on 30 June 2009.
-(13) Sections 147 and 165 are treated as coming into force on 1 July 2009.
-(14) Sections 166 and 167 are treated as coming into force on 7 October 2009.
-(15) Sections 74, 75, and 76 come into force on 7 January 2010.
-(16) Sections 78(1), 114, 115, 118(21), and schedule 1, row 35 come into force on 1 February 2010.
-(17) Sections 8, 9, 21, 22, 39, 46, 47, 48, 49, 50, 51, 52, 83, 103, 104(2), 108, 109, 118(5), (18), (22), (23), (25), and (36), 120, 122(2), (4), (5), and (6), 123(2) and (3), 124, 130, 131, 132, 133, and 134(1), (2), (3), (4), (5), (6), and (7), and schedule 1, rows 24 to 26 come into force on 1 April 2010.
-(18) Sections 32, 33, 34, 35, 36, 37, 38, 118(6), (19), (28), and (34), and schedule 1, row 19 come into force on 1 July 2010.
-(19) Sections 77, 78(2), (3), and (5), 118(35), 119, 122(3), and schedule 1, row 37 comes into force on 1 April 2011.
-(20) Sections 73, 78(4) and (6), 79, 80(2), 81, 82, 118(30) and (40), and schedule 1, row 36 come into force on 1 April 2013.
+This Act comes into force on the day after the date on which it receives the Royal assent.
 
-## Part 5 — Amendments to other Acts
+## Part 2 — Transitional provisions
 
-**Amendment to Student Loan Scheme Act 1992**
+### 11 Transitional provision relating to transfer of loans entered into before 31 December 1999
+Sections 8 to 11 of the principal Act, as they read immediately before the commencement of this Act, continue to apply to any objection as to a loan balance relating to a student loan—
+  (a) entered into on or before 31 December 1999; and
+  (b) under which money is first advanced to the borrower on or before 31 December 1999.
 
-### 168 Commissioner to assess borrower's repayment obligation
-(1) Amendment(s) incorporated in the principal Act(s).
-(2) Subsection (1) applies for the 2009–10 and later income years.
+### 12 Transitional provision relating to disclosure of information
+Section 62 of the principal Act, as it read immediately before the commencement of this Act, applies to information relating to a student loan—
+  (a) entered into on or before 31 December 1999; and
+  (b) under which money is first advanced to the borrower on or before 31 December 1999.
+
+### 1 Title
+(1) This Act is the Student Loan Scheme Amendment Act 2005.
+(2) In this Act, the Student Loan Scheme Act 1992 is called the principal Act.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 17 Transitional provision for initial 183-day period
+(1) The Commissioner may at his or her discretion, if the Commissioner considers that it is fair and reasonable to do so, reduce the amount of interest calculated on an eligible borrower's loan balance to zero for interest chargeable during some or all of the period starting on 1 April 2006 and ending on 30 September 2006.
+(2) If the Commissioner reduces the amount of interest calculated on an eligible borrower's loan balance to zero under subsection (1), the Commissioner must specify the start and end dates for the period for which the amount of interest is reduced to zero.
+(3) In this section, eligible borrower means a borrower who, during the period starting on 1 April 2006 and ending on 30 September 2006, does not satisfy and is not treated as satisfying the 183-day requirement in section 38AB of the principal Act.
+
+### 18 Transitional provision concerning section 21 of principal Act
+(1) This section applies to borrowers who, on or after 30 November 2005,—
+  (a) apply to the Commissioner for the issue of a special repayment deduction rate certificate under section 21(1) of the principal Act; or
+  (b) are deemed to have made such an application under section 21(2) of the principal Act.
+(2) Despite anything to the contrary in the principal Act or in any other Act, the amount or rate of repayment deductions specified in a certificate issued by the Commissioner under section 21 of the principal Act to a borrower to whom this section applies must, for the period from 29 November 2005 to 31 March 2006, not be less than 10 cents in each complete dollar from—
+  (a) so much of the primary employment earnings paid to the borrower as exceeds the proportional repayment threshold (as defined in section 20(2) of the principal Act); and
+  (b) any secondary employment earnings paid to the borrower; and
+  (c) any extra emolument paid to the borrower.
+
+### 1 Title
+This Act is the Education Amendment Act 2006.
+
+### 2 Commencement
+(1) This Act (except sections 26, 53, 57, and 60) comes into force on the day after the date on which it receives the Royal assent.
+(2) Sections 26, 53, 57, and 60 come into force on a date to be appointed by the Governor-General by Order in Council.
+(3) Despite subsections (1) and (2), sections 314(1) to (4), 317, and 319 (as inserted by section 53 of this Act) come into force on the day after the date on which this Act receives the Royal assent.
+
+## Part 2 — Other enactments
+
+### 59 Student Loan Scheme Act 1992 amended
+(1) Amendment(s) incorporated in the Act(s).
+(2) For the purpose of giving effect to section 2A of the Student Loan Scheme Act 1992 with respect to TeachNZ scholarships entered into before that section comes into force, if TeachNZ scholarships are declared under section 307AC of the principal Act to be bonded scholarships, then—
+  (a) the provisions of the standard 2005 loan contract for student loans that relate to payment of interest are deemed to be included (with any necessary modifications) in the agreements for TeachNZ scholarships; and
+  (b) those provisions are deemed always to have been part of the agreement and therefore apply whether any default under the scholarship occurs before or after the commencement of this section.
+
+### 1 Title
+This Act is the Student Loan Scheme Amendment Act 2007.
+
+### 2 Commencement
+(1) Sections 4(2) to (6) and (8), 5 to 8, 10 to 13, 15, 17, 19, 21, 27, 28, 31, 32, 35, 37(2) and (3), 39, 40, 42, 43(4) and (5), and 44(4) come into force on 1 April 2007.
+(2) Sections 24 and 30 come into force on 1 October 2007.
+(3) Sections 4(1) and (7), 37(1), and 45 come into force on 1 April 2008.
+(4) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to principal Act
+
+### 3 Principal Act amended
+This Part amends the Student Loan Scheme Act 1992.
+
+### 14 Conditions to employment or occupation absence exemption
+(1) Amendment(s) incorporated in the Act(s).
+(2) The requirement of section 38AH(c)(i) (as substituted by subsection (1)) applies to a borrower who—
+  (a) made an application under section 38AE(1)(e) of the principal Act before this section came into force, from 1 April 2008; and
+  (b) makes an application under section 38AE(1)(e) of the principal Act on or after the date on which this section comes into force, from the date of his or her application.
