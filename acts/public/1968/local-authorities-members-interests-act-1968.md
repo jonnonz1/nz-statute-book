@@ -1,5 +1,5 @@
 # Local Authorities (Members' Interests) Act 1968
-_Consolidation as at 2007-10-13_
+_Consolidation as at 2010-04-01_
 
 > An Act to consolidate and amend the law relating to the making of contracts between local authorities and the members thereof, and to the restrictions on the actions of such members when matters in which they have a pecuniary interest are under consideration
 
@@ -208,7 +208,7 @@ The Audit Office shall, either on investigation following receipt of a complaint
 | The North Shore Drainage Board | 1963, No 15 (Local)—The North Shore Drainage Act 1963. |
 | The Otago Museum Trust Board | 1955, No 6 (Local)—The Otago Museum Trust Board Act 1955. |
 | The Overseas Investment Commission | 1973, No 14—The Overseas Investment Act 1973. |
-| The Plumbers, Gasfitters, and Drainlayers Board | 1976, No 69—The Plumbers, Gasfitters, and Drainlayers Act 1976. |
+| The Plumbers, Gasfitters, and Drainlayers Board | Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74) |
 | The Rangitaiki Drainage Board | 1956, No 34—The Rangitaiki Land Drainage Act 1956. |
 | The Riccarton Bush Trustees | 1914, No 15 (Local)—The Riccarton Bush Act 1914. |
 | The South Canterbury Wallaby Board | 1971, No 74—The Agricultural Pests Destruction Amendment Act 1971. |
