@@ -1,5 +1,5 @@
 # Insolvency Act 2006
-_Consolidation as at 2010-01-07_
+_Consolidation as at 2010-04-01_
 
 ### 1 Title
 This Act is the Insolvency Act 2006.
@@ -1234,7 +1234,7 @@ If the bankrupt does not appear for the examination at the appointed time and ha
 **Investigation of company controlled by bankrupt and associate**
 
 ### 182 Assignee may examine company documents, personnel, and shareholders
-(1) If authorised by the court, the Assignee or a person appointed by the Assignee may exercise the powers set out in subsection (2) in relation to a company that is deemed to be controlled by the bankrupt and an associate or associates according to the criteria listed in section YC 1 of the Income Tax Act 2007.
+(1) If authorised by the court, the assignee or a person appointed by the assignee may exercise the power set out in subsection (2) in relation to a company that is associated with the bankrupt under subpart YB of the Income Tax Act 2007.
 (2) The Assignee may—
   (a) examine the documents of the company:
   (b) examine any past or present director, employee, or shareholder of the company on oath about the company's affairs.
