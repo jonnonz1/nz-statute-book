@@ -1,5 +1,5 @@
 # Dairy Industry Restructuring Act 2001
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2010-04-09_
 
 ### 1 Title
 This Act is the Dairy Industry Restructuring Act 2001.
@@ -503,10 +503,10 @@ Section 199 of the Summary Proceedings Act 1957 applies to any property seized b
 (2) A defendant is not, without leave of the court, entitled as part of a defence provided by this section to rely on any of the matters specified in subsection (1)(a) unless the defendant has, not later than 7 working days before the date on which the hearing of the proceedings commences, served on the informant a notice in writing identifying the event or cause relied on by the defendant.
 
 ### 34 Liability of companies and persons for actions of agents or employees
-(1) Any act or omission on behalf of a person other than a body corporate by— is treated, for the purpose of this subpart, also as the act or omission of the first-mentioned person.
+(1) Any act or omission on behalf of a person other than a body corporate by—is treated, for the purpose of this subpart, also as the act or omission of the first-mentioned person.
   (a) an agent or employee of that person; or
   (b) any person at the direction or with the consent or agreement, whether express or implied, of any person referred to in paragraph (a),—
-(2) Any act or omission on behalf of a body corporate by— is treated, for the purpose of this subpart, also as the act or omission of the body corporate.
+(2) Any act or omission on behalf of a body corporate by—is treated, for the purpose of this subpart, also as the act or omission of the body corporate.
   (a) a director, agent, or employee of that body corporate; or
   (b) any other person at the direction or with the consent or agreement, whether express or implied, of any person referred to in paragraph (a)—
 (3) However, if proceedings are brought under section 31 in respect of an act or omission under subsection (1) or subsection (2), it is a good defence if the defendant proves,—
@@ -1173,15 +1173,34 @@ The transitional provisions in sections 110 to 114 apply subject to any agreemen
 ### 115 Obligations concerning milk
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations that—
   (a) require new co-op to supply in New Zealand 1 or more of the following goods or services:
-    (i) raw milk:
-    (ii) components of milk:
-    (iii) products derived from milk:
-    (iv) transportation, processing, and packaging of milk, components of milk, and products derived from milk; and
-  (b) prescribe the terms of supply for goods or services regulated under paragraph (a), and specify a price, or a methodology for determining a price, for those goods or services; and
-  (c) subject to subsection (2), limit the amount of goods or services that new co-op is required to supply, including different limitations for—
+    (i) components of milk:
+    (ii) products derived from milk:
+    (iii) transporting, processing, and packaging milk, components of milk, and products derived from milk; and
+  (b) do 1 or more of the following for 1 or more of the goods or services specified in paragraph (a):
+    (i) specify a price or prices for it or them:
+    (ii) specify a method or methods for determining a price or prices for it or them:
+    (iii) specify the terms of supply for it or them; and
+  (ba) require new co-op to supply raw milk in New Zealand; and
+  (bb) do 1 or more of the following for some or all of the raw milk:
+    (i) specify a price or prices for it:
+    (ii) specify a method or methods, which may include an auction or auctions or any other method at all, for determining a price or prices for it:
+    (iii) specify a method or methods, which may include an auction or auctions or any other method at all, for allocating it:
+    (iv) specify the terms of supply for it; and
+  (bc) do some or all of the following for auctions of raw milk:
+    (i) specify what is auctioned:
+    (ii) specify how the auctions are held:
+    (iii) specify a date and time or a range of dates and times on which the auctions must be held:
+    (iv) specify who are eligible bidders at the auctions:
+    (v) allow the Minister to set a reserve or reserves for the auctions by referring to material not set out in the regulations or by any other means:
+    (vi) require the chief executive to hold the auctions or allow the chief executive to arrange for another person to hold the auctions on the chief executive's behalf:
+    (vii) require the chief executive to maintain a system or systems for holding the auctions or allow the chief executive to arrange for another person to maintain a system or systems for holding the auctions on the chief executive's behalf:
+    (viii) provide for the maintenance of the system or systems for holding the auctions:
+    (ix) allow the chief executive to require new co-op to reimburse the chief executive for the annual operating costs of the auctions:
+    (x) allow some or all of the details about matters referred to in subparagraphs (i) to (ix) to be prescribed by the Minister in 1 or more notices in the Gazette; and
+  (c) limit, subject to subsection (2), the amount of goods or services described in paragraph (a) or (ba) that new co-op is required to supply, including different limitations for—
     (i) different independent processors; and
     (ii) different geographical areas; and
-  (d) allow new co-op to require independent processors to give new co-op advance notice of their requirements for the goods or services to which regulations under paragraph (a) apply, prescribe the maximum period of advance notice that it may require, and authorise new co-op to require buyers to buy the amount of goods or services specified in an advance notice; and
+  (d) allow new co-op to require independent processors to give new co-op advance notice of their requirements for the goods or services to which regulations under paragraph (a) or (ba) apply, prescribe the maximum period of advance notice that it may require, and authorise new co-op to require buyers to buy the amount of goods or services specified in an advance notice; and
   (e) empower the Commerce Commission to fix a discount rate in calculating the price of goods or services regulated under this section; and
   (f) require new co-op and independent processors to provide periodic returns of milksolids collected from dairy farmers; and
   (g) authorise new co-op to perform obligations imposed by the regulations through an associated person.
@@ -1220,6 +1239,9 @@ The transitional provisions in sections 110 to 114 apply subject to any agreemen
 
 ### 119 Regulations prescribing fees
 The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations prescribing fees for applications to the Commission under section 120.
+
+### 119A Incorporation by reference
+Regulations made under this Act may incorporate material by reference under Schedule 5E.
 
 **Determination by Commission**
 
@@ -1618,7 +1640,7 @@ Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 contin
   (j) the right of Shareholders to receive Distributions, including distributions of the surplus assets of the Company on liquidation.
 (4.5) Determination of Fair Value Range: Not later than 1 December each year the Valuer shall advise the Board of the Valuer’s estimates of the Fair Value Range for a Co-operative Share for the next Season. The Board shall promptly require and the Valuer shall promptly provide further estimates if in its opinion circumstances have arisen as a result of which such further estimates would substantially differ from those most recently provided. Not later than the following 15 May, the Valuer shall finally determine and advise the Board of the Fair Value Range for a Co-operative Share for the next Season and the Valuer’s method used in determining them in accordance with this Constitution.
 (4.6) Valuations of the Commodity Milk Price: The Valuer shall, at the times specified in clause 4.5, provide to the Board its estimate and final determination, as the case may be, of the annual forecast Commodity Milk Price for the Season to which that estimate or final determination relates.
-(4.7) Reporting Fair Value Range: At the time the Valuer advises the Board of the estimates and final values in accordance with clause 4.5, the Valuer shall provide to the Board and the Shareholders’ Council an outline of: but this outline shall not contain any confidential information if that information may, in the opinion of the Valuer (in consultation with the Board), adversely affect the Company’s business.
+(4.7) Reporting Fair Value Range: At the time the Valuer advises the Board of the estimates and final values in accordance with clause 4.5, the Valuer shall provide to the Board and the Shareholders’ Council an outline of:but this outline shall not contain any confidential information if that information may, in the opinion of the Valuer (in consultation with the Board), adversely affect the Company’s business.
   (a) Valuer’s determination of the Fair Value Range for a Co-operative Share;
   (b) the method adopted for establishing the Fair Value Range for a Co-operative Share;
   (c) any change in the method used by the Valuer for determining the Fair Value Range for a Co-operative Share;
@@ -1627,10 +1649,10 @@ Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 contin
   (f) the reasons for adopting the method referred to in sub-clause (e); and
   (g) the key assumptions made in determining the values, prices and costs provided by the Valuer;
 (4.8) Estimated Fair Value to be advised by the Board: The Board shall advise Shareholders within 15 days of the receipt by the Board of the estimates referred to in clause 4.5 of the value which the Board then estimates will be the most appropriate Fair Value for a Co-operative Share for the Season to which the estimate relates should no circumstances change between then and the time when it is required to determine the final value pursuant to clause 4.9. Except as may be required by any applicable enactment, that estimate shall not bind the Board when making that final determination.
-(4.9) Determination of Fair Value: The Board shall not later than 1 June each year determine the Fair Value for a Co-operative Share that shall apply for the Season commencing on that date. The Fair Value shall be within the Fair Value Range for a Co-operative Share. In determining that Fair Value the Board shall seek to avoid acting in a manner that is, or is likely to be oppressive, unjustifiably discriminatory, or unfairly prejudicial to: and shall not unjustifiably discriminate between prospective Shareholders of the Company who wish to commence supplying Milk to the Company. The Fair Value for the 2001/2002 Season shall be that specified in the Merger Proposal.
+(4.9) Determination of Fair Value: The Board shall not later than 1 June each year determine the Fair Value for a Co-operative Share that shall apply for the Season commencing on that date. The Fair Value shall be within the Fair Value Range for a Co-operative Share. In determining that Fair Value the Board shall seek to avoid acting in a manner that is, or is likely to be oppressive, unjustifiably discriminatory, or unfairly prejudicial to:and shall not unjustifiably discriminate between prospective Shareholders of the Company who wish to commence supplying Milk to the Company. The Fair Value for the 2001/2002 Season shall be that specified in the Merger Proposal.
   (a) a Shareholder who wishes to surrender Co-operative Shares in, and cease supplying Milk to, the Company; or
   (b) a Shareholder who increases or decreases the supply of Milk to the Company during a Season resulting in that Shareholder having to subscribe for further Co-operative Shares or surrender existing Co-operative Shares, in accordance with the Share Standard,
-(4.10) Disclosure to Shareholders: Upon determining the Fair Value the Board shall promptly disclose to Shareholders: The Board need not disclose confidential information if disclosure of that information may, in the opinion of the Board, adversely affect the Company’s business.
+(4.10) Disclosure to Shareholders: Upon determining the Fair Value the Board shall promptly disclose to Shareholders:The Board need not disclose confidential information if disclosure of that information may, in the opinion of the Board, adversely affect the Company’s business.
   (a) the Board’s determination of the Fair Value for a Co-operative Share;
   (b) the Board’s reasons for determining that Fair Value for a Co-operative Share including any reasons for not determining that Fair Value as the mid point of the Fair Value Range;
   (c) the outline provided by the Valuer pursuant to clause 4.7;
@@ -1642,30 +1664,30 @@ Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 contin
   (a) New Shareholder Shares: Where a new Shareholder whose application to become a new Shareholder in a Season has been accepted by the Board in accordance with clause 2(3), the Board shall issue to that Shareholder the number of Co-operative Shares that Shareholder is required to hold in accordance with the Share Standard (based on the Company’s estimate of supply of Milk by that Shareholder to the Company during that Season). The consideration for the issue of each of those Co-operative Shares shall be the Fair Value for that Season. Those Co-operative Shares shall be issued on or before 15 July in that Season, or as soon as practicable thereafter, but shall be deemed to have been issued at the commencement of that Season.
   (b) Undershared Shareholders: Where a Shareholder holds fewer Co-operative Shares than required by the Share Standard in a Season (based on actual supply of Milk by that Shareholder to the Company during that Season), the Board shall issue to that Shareholder the additional number of Co-operative Shares that Shareholder is so required to hold. The consideration for the issue of each of those Co-operative Shares shall be the Fair Value for that Season or, where the Shareholder holds Supply Redemption Rights, the exercise of the option in clause 6.2. Those Co-operative Shares shall be issued on or before 15 July in the Season next following the Season of supply, or as soon as practicable thereafter, but shall be deemed to have been issued at the commencement of the Season of supply.
   (c) Overshared Shareholders: Where a Shareholder holds more Co-operative Shares than required by the Share Standard in a Season (based on actual supply of Milk by that Shareholder to the Company during that Season), the Company shall require that Shareholder to surrender those excess Co-operative Shares. The consideration for the surrender of each of those Co-operative Shares shall be the Fair Value for that Season less any amount not paid up on that Co-operative Share. The Company shall on or before 15 July in the Season next following the Season of supply, or as soon as practicable thereafter, require the surrender of those Co-operative Shares, but those Co-operative Shares shall be deemed to have been surrendered at the commencement of the Season of supply.
-  (d) Exiting Shareholders: Where a Shareholder has given notice in accordance with clause 5.3 of intention not to supply any Milk to the Company in a Season, the Company shall require that Shareholder to surrender all Co-operative Shares held by that Shareholder and redeem all Peak Notes held by that Shareholder, but for the avoidance of doubt only after any surrenders required by clause 5.1(c) have taken place. The consideration for that surrender or redemption shall be: The Company shall on or before 15 July in the Season in respect of which that Shareholder has given notice of intention not to supply any Milk to the Company, or as soon as practicable thereafter, require the surrender of those Co-operative Shares and redeem those Peak Notes, but those Co-operative Shares and Peak Notes shall be deemed to have been surrendered or redeemed at the commencement of the Season in respect of which that Shareholder has given notice of intention not to supply any Milk to the Company.
+  (d) Exiting Shareholders: Where a Shareholder has given notice in accordance with clause 5.3 of intention not to supply any Milk to the Company in a Season, the Company shall require that Shareholder to surrender all Co-operative Shares held by that Shareholder and redeem all Peak Notes held by that Shareholder, but for the avoidance of doubt only after any surrenders required by clause 5.1(c) have taken place. The consideration for that surrender or redemption shall be:The Company shall on or before 15 July in the Season in respect of which that Shareholder has given notice of intention not to supply any Milk to the Company, or as soon as practicable thereafter, require the surrender of those Co-operative Shares and redeem those Peak Notes, but those Co-operative Shares and Peak Notes shall be deemed to have been surrendered or redeemed at the commencement of the Season in respect of which that Shareholder has given notice of intention not to supply any Milk to the Company.
     (i) in the case of a surrender of each of those Co-operative Shares, the Fair Value for the Season in respect of which that Shareholder has given notice of intention not to supply any Milk to the Company less any amount not paid up on that Co-operative Share; and
     (ii) in the case of a redemption of each of those Peak Notes, the Peak Note Price.
   (e) Split supply Shareholder: Where a Shareholder has given notice of intention to not supply in a Season a percentage of the Milk previously supplied by that Shareholder from a farm or farm dairy (the percentage so notified being called “Diverted Milk Percentage”) and that Milk is to be supplied by that Shareholder to another purchaser pursuant to any applicable enactment, the Company shall require that Shareholder to surrender a percentage of the Co-operative Shares held by that Shareholder at the commencement of that Season equal to the Diverted Milk Percentage. The consideration for the surrender of each of those Co-operative Shares shall be the Fair Value for the Season in respect of which that Shareholder has given notice of intention not to supply the Diverted Milk Percentage to the Company less any amount not paid up on that Co-operative Share. The Company shall on or before 15 July in the Season in respect of which that Shareholder has given notice of intention not to supply the Diverted Milk Percentage to the Company, or as soon as practicable thereafter, require the surrender of those Co-operative Shares, but those Co-operative Shares shall be deemed to have been surrendered at the commencement of the Season in respect of which that Shareholder has given notice of intention not to supply the Diverted Milk Percentage to the Company. The Diverted Milk Percentage shall not at any time exceed 20% of the total Milk produced in the whole of the applicable Season and in each day of that Season on that farm or farm dairy. Whether any such notice may be given by any Shareholder, the time for giving any such notice and the conditions on which it shall be given or accepted shall be those determined by the Board from time to time in a manner consistent with any applicable enactment.
-(5.2) Company may issue or surrender Co-operative Shares during a Season: The Company may at any time during a Season determine that the quantity of Milksolids obtainable from Milk to be supplied to the Company by a Shareholder in that Season will differ from that on which the number of Co-operative Shares required to be held by that Shareholder for the time being is then based. In that case and based on that determination: In exercising this discretion the Company may rely on any information or estimate of supply provided to it by that Shareholder.
+(5.2) Company may issue or surrender Co-operative Shares during a Season: The Company may at any time during a Season determine that the quantity of Milksolids obtainable from Milk to be supplied to the Company by a Shareholder in that Season will differ from that on which the number of Co-operative Shares required to be held by that Shareholder for the time being is then based. In that case and based on that determination:In exercising this discretion the Company may rely on any information or estimate of supply provided to it by that Shareholder.
   (a) the Board may, at any time, issue to that Shareholder the additional number of Co-operative Shares that Shareholder is required to hold in accordance with the Share Standard;
   (b) the Company may, at any time, require that Shareholder to surrender the number of Co-operative Shares held in excess of the number required to be held in accordance with the Share Standard;
   (c) the consideration for the issue of each such Co-operative Share shall be the Fair Value for the Season during which those Co-operative Shares are so issued, or where the Shareholder holds a Supply Redemption Right, the exercise of the option in clause 6.2;
   (d) the consideration for the surrender of each such Co-operative Share shall be the Fair Value for the Season in which that surrender is required less any amount not paid up on that Co-operative Share; and
   (e) those Co-operative Shares shall be deemed to be issued or surrendered, as the case may require, at the commencement of the Season during which those Co-operative Shares are so issued or required to be surrendered.
 (5.3) Notice of intention to cease to supply Milk to the Company: Any Shareholder that intends not to supply any Milk to the Company in a Season, or to supply less Milk in a Season than the minimum that is required at that time for the Shareholder to hold Co-operative Shares pursuant to clause 2.4(a), shall give written notice of that intention to the Company. Such notice (except to the extent agreed otherwise by the Board) shall be given not fewer than three months before the commencement of that Season. If a Shareholder fails to give notice as required by this clause, the payment due to that Shareholder pursuant to clause 5.6 shall, at the discretion of the Board, be due 12 months later than it otherwise would.
-(5.4) Surrender of Co-operative Shares at option of Company: The Company may require a Shareholder to surrender any or all Co-operative Shares held by that Shareholder or the Company may redeem any or all Peak Notes held by a Shareholder at any time, if: and the Board may in its absolute discretion determine the time at which the surrender or redemption will take effect. The consideration for that surrender or redemption: and shall be due at such time as the Board determines, being no later than the date on which it would have been due pursuant to clause 5.3.
+(5.4) Surrender of Co-operative Shares at option of Company: The Company may require a Shareholder to surrender any or all Co-operative Shares held by that Shareholder or the Company may redeem any or all Peak Notes held by a Shareholder at any time, if:and the Board may in its absolute discretion determine the time at which the surrender or redemption will take effect. The consideration for that surrender or redemption:and shall be due at such time as the Board determines, being no later than the date on which it would have been due pursuant to clause 5.3.
   (a) the Company becomes aware that that Shareholder is a person to whom the Board may not then issue Co-operative Shares in accordance with clause 2.4;
   (b) that Shareholder has ceased to supply Milk to the Company; or
   (c) that Shareholder has failed to comply in any material respect with the Terms and Conditions on which that Shareholder supplies Milk to the Company;
   (d) in the case of a surrender of each of those Co-operative Shares, shall be the Fair Value for the Season in which the Board determines the surrender shall take effect less any amount not paid up on that Co-operative Share; and
   (e) in the case of a redemption of each of those Peak Notes, shall be the Peak Note Price;
-(5.5) Payment for the issue of Co-operative Shares: The Board may issue Co-operative Shares on the basis that the consideration for the issue of those Co-operative Shares may be debited to an account of the Shareholder held with the Company and in any event may require or permit: but if the Shareholder holds any Supply Redemption Rights the issue price shall be satisfied by the exercise of the option in clause 6.2.
+(5.5) Payment for the issue of Co-operative Shares: The Board may issue Co-operative Shares on the basis that the consideration for the issue of those Co-operative Shares may be debited to an account of the Shareholder held with the Company and in any event may require or permit:but if the Shareholder holds any Supply Redemption Rights the issue price shall be satisfied by the exercise of the option in clause 6.2.
   (a) payment of the issue price at such time or times as the Board shall specify; and
   (b) satisfaction of the issue price either:
     (i) by the purchase by the Company from the Shareholder or the redemption by the Company (at the Company’s option) of such Capital Notes or Peak Notes having an aggregate principal amount equal to the issue price and the application of the proceeds thereof to the issue price; or
     (ii) by payment in cash; or
     (iii) a combination of (i) and (ii);
-(5.6) Payment for surrender of Co-operative Shares: The Surrender Value for the surrender of Co-operative Shares may be credited to an account of the Shareholder held with the Company and in any event satisfied by any one or more of the following means, and in such combination as the Board determines, but applied in a uniform manner in respect of all Shareholders required to surrender Co-operative Shares at the same time: but in any case where a Shareholder requires the issue of Supply Redemption Rights in accordance with clause 6.1, the Surrender Value shall be satisfied in accordance with clause 6.
+(5.6) Payment for surrender of Co-operative Shares: The Surrender Value for the surrender of Co-operative Shares may be credited to an account of the Shareholder held with the Company and in any event satisfied by any one or more of the following means, and in such combination as the Board determines, but applied in a uniform manner in respect of all Shareholders required to surrender Co-operative Shares at the same time:but in any case where a Shareholder requires the issue of Supply Redemption Rights in accordance with clause 6.1, the Surrender Value shall be satisfied in accordance with clause 6.
   (a) the issue to the Shareholder, within 30 Working Days after the resolution of the Board requiring the surrender of those Co-operative Shares, of Capital Notes having an aggregate Capital Note Value equal to the Surrender Value of the relevant Co-operative Shares being surrendered, but only if Capital Notes are, at that time, quoted on a stock exchange (whether or not that quotation is suspended at that time); or
   (b) payment in cash, within 30 Working Days after the resolution of the Board requiring the surrender of those Co-operative Shares;
 (5.7) Special provisions for surrender in certain circumstances: If, the number of Co-operative Shares required to be surrendered and the number of Supply Redemption Rights being surrendered in any Season exceeds 5% of the total number of Co-operative Shares on issue at the commencement of that Season, and the Board considers that payment of the Surrender Value for those Co-operative Shares required to be surrendered (and payment of the Peak Note Price for the Peak Notes to be redeemed and the surrender value for the Supply Redemption Rights being surrendered in that Season) will be likely to materially adversely affect the ability of the Company to carry out its then current business plan, then the Board may satisfy the Surrender Value for the surrender of those Co-operative Shares by any combination both of the means described in the preceding clause and the issue of Redeemable Preference Shares to the Shareholders surrendering Co-operative Shares as the Board determines, but applied in a uniform manner in respect of all Shareholders required to surrender Co-operative Shares at the same time, except that in any case where a Shareholder requires the issue of Supply Redemption Rights in accordance with clause 6.1, the Surrender Value shall be satisfied in accordance with clause 6. Those Redeemable Preference Shares:
@@ -1682,7 +1704,7 @@ Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 contin
 (7.1) Shareholders to hold number of Peak Notes determined by the Peak Notes Standard: Each Shareholder supplying Milk to the Company in a Season shall hold a number of Peak Notes for that Season, determined in accordance with the Peak Note Standard.
 (7.2) Peak Note Standard: The Peak Note Standard for each Season, and therefore the number of Peak Notes a Shareholder shall hold for that Season, shall be promptly fixed by the Board at the commencement of each Season, but the initial Peak Note Standard shall be that specified in the Merger Proposal. The Company shall give Shareholders reasonable notice of any proposed change to the Peak Note Standard for a Season from that which applied in the preceding Season.
 (7.3) Peak Note Price: The Peak Note Price for a Peak Note shall be fixed by the Board at the time of issue, but the initial Peak Note Price shall be that specified in the Merger Proposal. The Company shall give Shareholders reasonable notice of any proposed change to the Peak Note Price in a Season from that which applied in the preceding Season.
-(7.4) Issue or redemption of Peak Notes: Subject to the terms of the Merger Proposal: All issues and redemptions of Peak Notes pursuant to this clause or clauses 5.1(d), 5.4 or 7.5 shall otherwise be made in accordance with the terms of the Peak Notes Trust Deed.
+(7.4) Issue or redemption of Peak Notes: Subject to the terms of the Merger Proposal:All issues and redemptions of Peak Notes pursuant to this clause or clauses 5.1(d), 5.4 or 7.5 shall otherwise be made in accordance with the terms of the Peak Notes Trust Deed.
   (a) New Shareholder Peak Notes: Where a new Shareholder whose application to become a new Shareholder in a Season has been accepted by the Board in accordance with clause 2.3, the Company shall issue to that Shareholder the number of Peak Notes that Shareholder is required to hold in accordance with the Peak Note Standard (based on the Company’s estimate of the Milk Supply Profile of that Shareholder during that Season). The consideration for the issue of each of those Peak Notes shall be the Peak Note Price. Those Peak Notes shall be issued on or before 15 July in that Season, or as soon as practicable thereafter.
   (b) Under holdings of Peak Notes: Where a Shareholder holds fewer Peak Notes than required by the Peak Note Standard in a Season (based on the Milk Supply Profile of that Shareholder during the preceding Season), the Company shall issue to that Shareholder the additional number of Peak Notes that Shareholder is so required to hold. The consideration for the issue of each of those Peak Notes shall be the Peak Note Price. Those Peak Notes shall be issued on or before 15 July in that Season, or as soon as practicable thereafter.
   (c) Excess holdings of Peak Notes: Where a Shareholder holds more Peak Notes than required by the Peak Note Standard in a Season (based on the Milk Supply Profile of that Shareholder during the preceding Season), the Company may redeem those excess Peak Notes. The consideration for the redemption of each of those Peak Notes shall be the Peak Note Price. Those Peak Notes shall be redeemed on or before 15 July in that Season, or as soon as practicable thereafter.
@@ -1694,10 +1716,10 @@ Despite section 165(1), section 45(2) and (3) of the Dairy Board Act 1961 contin
     (i) by the purchase by the Company from the Shareholder or the redemption by the Company (at the Company’s option) of such Capital Notes having an aggregate principal amount equal to the Peak Note Price and the application of the proceeds thereof to the Peak Note Price; or
     (ii) by payment in cash; or
     (iii) a combination of (i) or (ii).
-(7.8) Payment of Peak Note Price on redemption: The Peak Note Price payable by the Company on redemption of any Peak Notes may be credited to an account of the Shareholder held with the Company and in any event satisfied by any one or more of the following means, and in such combination as the Board determines, but applied in a uniform manner in respect of all Shareholders redeeming Peak Notes at the same time: but otherwise paid or satisfied in accordance with the Peak Notes Trust Deed.
+(7.8) Payment of Peak Note Price on redemption: The Peak Note Price payable by the Company on redemption of any Peak Notes may be credited to an account of the Shareholder held with the Company and in any event satisfied by any one or more of the following means, and in such combination as the Board determines, but applied in a uniform manner in respect of all Shareholders redeeming Peak Notes at the same time:but otherwise paid or satisfied in accordance with the Peak Notes Trust Deed.
   (a) the issue to the Shareholder, within 30 Working Days after the resolution of the Board issuing or requiring the redemption of Peak Notes in accordance with clause 7.4, of Capital Notes having an aggregate Capital Note Value equal to the Peak Note Price of the relevant Peak Notes being redeemed, but only if Capital Notes are, at that time, quoted on a stock exchange (whether or not that quotation is suspended at that time); or
   (b) payment in cash, within 30 Working Days after the resolution of the Board issuing or requiring the redemption of Peak Notes in accordance with clause 7.4;
-(7.9) Special provisions for redemption in certain circumstances: If, the number of Co-operative Shares required to be surrendered and the number of Supply Redemption Rights being surrendered in any Season exceeds 5% of the total number of Co-operative Shares on issue at the commencement of that Season, and the Board considers that payment of the Surrender Value for those Co-operative Shares required to be surrendered (and payment of the Peak Note Price for the Peak Notes to be redeemed and the surrender value for the Supply Redemption Rights being surrendered in that Season) will be likely to materially adversely affect the ability of the Company to carry out its then current business plan, then the Board may satisfy the Peak Note Price payable by the Company on the redemption of Peak Notes by any combination both of the means described in the preceding clause and the issue of Redeemable Preference Shares to the holders of those Peak Notes as Board determines, but applied in a uniform manner in respect of all Shareholders redeeming Peak Notes at the same time. Those Redeemable Preference Shares: In the exercise of its powers pursuant to this clause, the Board shall as far as possible make decisions which apply to an equal proportion of Peak Notes held by each affected Shareholder.
+(7.9) Special provisions for redemption in certain circumstances: If, the number of Co-operative Shares required to be surrendered and the number of Supply Redemption Rights being surrendered in any Season exceeds 5% of the total number of Co-operative Shares on issue at the commencement of that Season, and the Board considers that payment of the Surrender Value for those Co-operative Shares required to be surrendered (and payment of the Peak Note Price for the Peak Notes to be redeemed and the surrender value for the Supply Redemption Rights being surrendered in that Season) will be likely to materially adversely affect the ability of the Company to carry out its then current business plan, then the Board may satisfy the Peak Note Price payable by the Company on the redemption of Peak Notes by any combination both of the means described in the preceding clause and the issue of Redeemable Preference Shares to the holders of those Peak Notes as Board determines, but applied in a uniform manner in respect of all Shareholders redeeming Peak Notes at the same time. Those Redeemable Preference Shares:In the exercise of its powers pursuant to this clause, the Board shall as far as possible make decisions which apply to an equal proportion of Peak Notes held by each affected Shareholder.
   (a) shall have a compulsory redemption date determined by the Board at the time of issue, being a date not later than three years after their issue and may be redeemed at any time at the option of the Company;
   (b) shall be redeemable (at the Company’s option) for cash for an amount, or the issue to the Shareholder of Capital Notes having an aggregate Capital Note Value, equal to the consideration for the redemption of the Peak Notes in respect of which they are issued as at the date of issue of the Redeemable Preference Shares;
   (c) shall have no voting rights except for one vote on a poll for each Redeemable Preference Share on a resolution which relates to actions that affect the rights attached to Redeemable Preference Shares;
@@ -1951,7 +1973,7 @@ Clauses 12.12 to 12.15 of the Board’s constitution apply, with necessary modif
 | United States of America | Other American-type cheese | Product which falls within the product description provided in headnote 17 of Schedule XX/United States of the World Trade Organization for entry under the tariff quota for other American-type cheese of New Zealand origin, even if the product is destined for import into the United States other than under the terms of that tariff quota. |
 | Canada | Butter | Butter falling within HS code 0405.10. |
 | Japan | Prepared edible fat | Product falling within HS code 2106.90 which falls within the product description provided in Schedule XXXVIII/Japan of the World Trade Organization for entry under the tariff quota for prepared edible fat of New Zealand origin, even if the product is destined for import into Japan other than under the terms of that tariff quota. |
-| Japan | Cheese | Product falling within HS code 0406 excluding— a cheeses not made from cows milk; and b mascarpone, ricotta, feta, blue mould cheeses, and white mould cheeses, in each case in immediate packages having a net content not exceeding 12 kilograms; and c all other cheese in immediate packages having a net content not exceeding 3 kilograms (prepared for immediate consumption, not for further processing). |
+| Japan | Cheese | Product falling within HS code 0406 excluding—acheeses not made from cows milk; andbmascarpone, ricotta, feta, blue mould cheeses, and white mould cheeses, in each case in immediate packages having a net content not exceeding 12 kilograms; andcall other cheese in immediate packages having a net content not exceeding 3 kilograms (prepared for immediate consumption, not for further processing). |
 | Dominican Republic | Milk powder | Product which falls within the product description provided in Schedule XXIII/Dominican Republic of the World Trade Organization for entry under the tariff quota for milk powder of New Zealand origin, even if the product is destined for import into the Dominican Republic other than under the terms of that tariff quota. |
 
 ## Schedule 5A — Designated markets following expiry of initial and interim licences
@@ -2008,6 +2030,95 @@ An export licence is to be allocated for a period of 1 quota year.
 
 | *Delete this sentence if no conditions apply. |
 | --- |
+
+## Schedule 5E — Incorporation of material by reference in regulations
+
+### 1 Interpretation
+In this schedule,—
+  - **incorporated** means incorporated by reference
+  - **** means—
+    (a) the head office of the Ministry:
+    (b) any other place determined by the chief executive
+  - **material** means, except in clause 4,—
+    (a) the original material:
+    (b) the original material with amendments incorporated:
+    (c) material that amends the original material:
+    (d) material that replaces the original material
+  - **regulations** means regulations under this Act.
+
+### 2 Incorporation in regulations
+(1) The following written or electronic material may be incorporated in regulations:
+  (a) standards, requirements, or recommended practices of international or national organisations:
+  (b) standards, requirements, or recommended practices prescribed in any country or jurisdiction:
+  (c) material that is from any other source, deals with technical matters, and is too large to include in, or print as part of, the regulations:
+  (d) material that is from any other source and deals with technical matters and that it would be impractical to include in, or print as part of, the regulations.
+(2) Material may be incorporated—
+  (a) wholly or partly; and
+  (b) with modifications, additions, or variations specified in the regulations.
+(3) Material incorporated in regulations has legal effect as part of the regulations.
+
+### 3 Requirement to consult on proposal to incorporate material
+(1) This clause applies if it is proposed to incorporate material in regulations.
+(2) The chief executive must make the material available in 1 or more of the following ways:
+  (a) making it available for reading free of charge during working hours at the inspection sites:
+  (b) making it available for reading free of charge in any other way determined by the chief executive:
+  (c) if it is possible to do so without breaching copyright, making it available free of charge—
+    (i) on an Internet site maintained by or on behalf of the Ministry:
+    (ii) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry to an Internet site maintained by or on behalf of someone else where the material is available free of charge:
+  (d) if it is possible to do so without breaching copyright, making copies of the material available for purchase.
+(3) The chief executive must—
+  (a) give public notice stating that—
+    (i) the material is proposed for incorporation in the regulations; and
+    (ii) the material is available in the way or ways in which the chief executive has made it available; and
+    (iii) public comment on the proposal to incorporate the material may be made to the chief executive; and
+  (b) allow a reasonable opportunity for the public to comment on the proposal; and
+  (c) consider any comments made.
+(4) If the material is not in an official New Zealand language, an accurate translation of the material into an official New Zealand language must also be available in each of the circumstances described in subclause (2).
+(5) Failure to comply with this clause does not invalidate regulations that incorporate material.
+
+### 4 Effect of amendments to, or replacement of, material incorporated
+(1) Material that amends or replaces material incorporated in regulations has legal effect as part of the regulations only if the Minister publishes a notice under subclause (2).
+(2) The Minister may publish a notice in the Gazette that—
+  (a) states that material that amends or replaces material incorporated in regulations has legal effect as part of the regulations; and
+  (b) specifies the date on which the material that amends or replaces material incorporated in regulations has legal effect as part of the regulations.
+(3) Subclause (1) does not apply if the regulations expressly say that it does not apply.
+
+### 5 Proof of material incorporated
+(1) A copy of material incorporated in regulations must be—
+  (a) certified as a correct copy of the material by the chief executive; and
+  (b) retained by the Ministry.
+(2) The production in proceedings of a certified copy of the material is, in the absence of evidence to the contrary, sufficient evidence of the incorporation in the regulations of the material.
+
+### 6 Effect of expiry of material incorporated
+(1) Material incorporated in regulations that expires or that is revoked or that ceases to have effect ceases to have legal effect as part of the regulations only if the Minister publishes a notice under subclause (2).
+(2) The Minister may publish a notice in the Gazette that—
+  (a) states that material incorporated in regulations that has expired or has been revoked or has ceased to have effect ceases to have legal effect as part of the regulations; and
+  (b) specifies the date on which the material ceases to have legal effect as part of the regulations.
+(3) Subclause (1) does not apply if the regulations expressly say that it does not apply.
+
+### 7 Access to material incorporated
+(1) The Minister must make material incorporated in regulations available in 1 or more of the following ways:
+  (a) making it available for reading free of charge during working hours at the inspection sites:
+  (b) making it available for reading free of charge in any other way determined by the Minister:
+  (c) if it is possible to do so without breaching copyright, making it available free of charge—
+    (i) on an Internet site maintained by or on behalf of the Ministry:
+    (ii) by providing a hypertext link from an Internet site maintained by or on behalf of the Ministry to an Internet site maintained by or on behalf of someone else where the material is available free of charge:
+  (d) if it is possible to do so without breaching copyright, making copies of the material available for purchase.
+(2) The Minister must give public notice stating that—
+  (a) the material is incorporated in the regulations; and
+  (b) the material is available in the way or ways in which the Minister has made it available.
+(3) If the material is not in an official New Zealand language, an accurate translation of the material into an official New Zealand language must also be available in each of the circumstances described in subclause (1).
+(4) Failure to comply with this clause does not invalidate regulations that incorporate material.
+
+### 8 Acts and Regulations Publication Act 1989
+The Acts and Regulations Publication Act 1989 does not apply to material incorporated in regulations.
+
+### 9 Regulations (Disallowance) Act 1989
+(1) The Regulations (Disallowance) Act 1989 applies to regulations that incorporate material.
+(2) However, nothing in section 4 of that Act requires material incorporated in regulations to be presented to the House of Representatives.
+
+### 10 Standards Act 1988
+Nothing in this schedule affects the application of sections 22 to 25 of the Standards Act 1988.
 
 ## Schedule 6 — Orders revoked
 
