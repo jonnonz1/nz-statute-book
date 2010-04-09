@@ -1,14 +1,15 @@
 # Immigration Act 2009
-_Consolidation as at 2009-11-16_
+_Consolidation as at 2010-04-09_
 
 ### 1 Title
 This Act is the Immigration Act 2009.
 
 ### 2 Commencement
-(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to (4).
+(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to (5).
 (2) Sections 30, 31, 60, 100, 104, 111, 120, 149(1)(e), 278, 283 to 291, 312, and 400(l) come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
 (3) Section 477 comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
 (4) Sections 475, 476, and 478 come into force on the day after the date on which this Act receives the Royal assent.
+(5) Section 474 comes into force on the day after the date on which the Immigration Act 2009 Amendment Act 2010 receives the Royal assent.
 
 ## Part 1 — Preliminary provisions
 
