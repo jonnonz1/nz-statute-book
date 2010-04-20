@@ -1,63 +1,61 @@
 # Weights and Measures Act 1987
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-04-20_
 
 > An Act to consolidate and amend the law relating to weights and measures
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Weights and Measures Act 1987.
-(2) Subject to sections 17(2) and 18(4) of this Act, this Act shall come into force on the 1st day of April 1987.
+(2) Subject to sections 17(2) and 18(4), this Act shall come into force on 1 April 1987.
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Accredited person** means a person accredited pursuant to section 30A of this Act
-  - **Approved overseas country** means any country outside New Zealand that is declared by notice in the Gazette to be an approved overseas country for the purposes of section 5(3)(b) of this Act
-  - **Automatic volumetric liquid dispensing machine** means an instrument in which self-acting machinery automatically dispenses liquids in measured quantities but which instrument is not itself a calibrated measure or calibrated measuring instrument
-  - **Automatic weighing machine** means a weighing instrument in which self-acting machinery automatically loads the goods to be weighed and which automatically weighs those goods
-  - **Catch weight goods**
+  - **accredited person** means a person accredited pursuant to section 30A
+  - **approved overseas country** means any country outside New Zealand that is declared by notice in the Gazette to be an approved overseas country for the purposes of section 5(3)(b)
+  - **automatic volumetric liquid dispensing machine** means an instrument in which self-acting machinery automatically dispenses liquids in measured quantities but which instrument is not itself a calibrated measure or calibrated measuring instrument
+  - **automatic weighing machine** means a weighing instrument in which self-acting machinery automatically loads the goods to be weighed and which automatically weighs those goods
+  - **catch weight goods** means goods that—
     (a) are enclosed in a package; and
     (b) cannot be portioned to a predetermined quantity because of their nature; and
     (c) are usually sold in varying quantities
-  - **Certificate of accuracy** means a certificate of accuracy issued pursuant to section 22A of this Act
-  - **Chief Inspector**
-  - **Departmental standards** means the standards of weights and measures provided pursuant to section 5 of this Act
-  - **Desiccating goods** means any goods made up in a package that lose weight or volume solely through evaporation when the package is made up.
-  - **Deputy Chief Inspector**
-  - **District standards** means the standards of weights and measures provided pursuant to section 6 of this Act
-  - **Document** has the meaning given to it by section 2(1) of the Official Information Act 1982
-  - **Food** means anything that is used or represented for use as food or drink for human beings; and includes—
+  - **certificate of accuracy** means a certificate of accuracy issued pursuant to section 22A
+  - **departmental standards** means the standards of weights and measures provided pursuant to section 5
+  - **desiccating goods** means any goods made up in a package that lose weight or volume solely through evaporation when the package is made up
+  - **district standards** means the standards of weights and measures provided pursuant to section 6
+  - **document** has the meaning given to it by section 2(1) of the Official Information Act 1982
+  - **food** means anything that is used or represented for use as food or drink for human beings; and includes—
     (a) any ingredient or nutrient or other constituent of any food or drink, whether that ingredient or nutrient or other constituent is consumed or represented for consumption by human beings by itself or when used in the preparation of or mixed with or added to any food or drink; and
     (b) anything that is or is intended to be mixed with or added to any food or drink; and
-    (c) chewing gum, and any ingredient of chewing gum, and anything that is or is intended to be mixed with or added to chewing gum.
-  - **Goods** means all kinds of movable personal property, including animals
-  - **Inadequate package** means a package enclosing goods that contains less than the quantity stated on the package or a label attached to it, where the deficiency is more than twice the amount of error specified for the purpose in regulations made under section 41A.
-  - **Infringement fee** , in relation to an infringement offence, means the amount fixed by section 33A of this Act as the infringement fee for the offence
-  - **Infringement offence** means—
-    (a) An offence against any of sections 10, 14, 15, 16, 16A, 17, 21, and 24:
-    (b) A breach of any regulation made under this Act that is prescribed as an infringement offence:
-  - **Inspector** means an Inspector of Weights and Measures appointed pursuant to section 26 of this Act
-  - **Inspectors' working standards** means the standards of weights and measures provided pursuant to section 7 of this Act
-  - **Lot of packages** means a collection of packages enclosing goods that—
+    (c) chewing gum, and any ingredient of chewing gum, and anything that is or is intended to be mixed with or added to chewing gum
+  - **goods** means all kinds of movable personal property, including animals
+  - **inadequate package** means a package enclosing goods that contains less than the quantity stated on the package or a label attached to it, where the deficiency is more than twice the amount of error specified for the purpose in regulations made under section 41A
+  - **infringement fee** , in relation to an infringement offence, means the amount fixed by section 33A as the infringement fee for the offence
+  - **infringement offence** means—
+    (a) an offence against any of sections 10, 14, 15, 16, 16A, 17, 21, and 24:
+    (b) a breach of any regulation made under this Act that is prescribed as an infringement offence
+  - **Inspector** means an Inspector of Weights and Measures appointed pursuant to section 26
+  - **Inspectors' working standards** means the standards of weights and measures provided pursuant to section 7
+  - **lot of packages** means a collection of packages enclosing goods that—
     (a) are of the same kind; and
     (b) are of the same stated weight, measure, or number; and
     (c) are available for inspection at the same time and place
-  - **Measuring instrument** means any instrument or machine used for measuring any article, thing, liquid, or substance
-  - **Metric system** means the international system of units which uses as its base units of weight, length, area, and volume the units described in Schedule 1 to this Act
-  - **Minister** means the Minister of the Crown who is for the time being responsible for the administration of this Act, under the authority of any warrant or with the authority of the Prime Minister.
-  - **Non-standard package** means a package enclosing goods that contains less than the quantity stated on the package or a label attached to it, where the deficiency is more than the amount of error specified for the purpose in regulations made under section 41A but not more than twice that specified amount of error.
-  - **Package** includes anything in or by which goods are cased, covered, contained, or packed
-  - **Public weighing instrument** means any weighing instrument available for use by the public, or for the use of which a charge is made
-  - **Sale by retail** does not include a sale of goods to any person who is a dealer in goods of that kind and who buys those goods to sell again
+  - **measuring instrument** means any instrument or machine used for measuring any article, thing, liquid, or substance
+  - **metric system** means the international system of units which uses as its base units of weight, length, area, and volume the units described in Schedule 1
+  - **Minister** means the Minister of the Crown who is for the time being responsible for the administration of this Act, under the authority of any warrant or with the authority of the Prime Minister
+  - **non-standard package** means a package enclosing goods that contains less than the quantity stated on the package or a label attached to it, where the deficiency is more than the amount of error specified for the purpose in regulations made under section 41A but not more than twice that specified amount of error
+  - **package** includes anything in or by which goods are cased, covered, contained, or packed
+  - **public weighing instrument** means any weighing instrument available for use by the public, or for the use of which a charge is made
+  - **sale by retail** does not include a sale of goods to any person who is a dealer in goods of that kind and who buys those goods to sell again
   - **Secretary** means the chief executive of the department for the time being responsible for the administration of this Act
-  - **Trainee Inspector** means a Trainee Inspector of Weights and Measures appointed pursuant to section 26 of this Act
-  - **Use for trade** , in relation to any weight, measure, or weighing or measuring instrument,—and has a corresponding meaning
-    (a) Means the use of any weight, measure, or weighing or measuring instrument in connection with, or with a view to, a transaction for—where—
-      (i) The transferring or rendering of money or money's worth in consideration of money or money's worth; or
-      (ii) The making of a payment in respect of any toll or duty—
-      (iii) The transaction is by reference to quantity or is a transaction for the purposes of which there is made or implied a statement of the quantity of goods to which the transaction relates; and
-      (iv) The use is for the purpose of the determination or statement of that quantity; but
-    (b) Does not include such use of any weight, measure, or weighing or measuring instrument where the determination or statement of quantity referred to in paragraph (a)(iv) of this definition is a determination or statement of the quantity of goods required for despatch to a destination outside New Zealand—
-  - **Weighing instrument** means any instrument or machine used for weighing any article, thing, liquid, or substance; and includes weights used in connection with it
-  - **Weight or measure of the metric system** means a unit of weight, length, area, or volume described in Schedule 1 to this Act; and includes any weight or measure derived from any such unit.
+  - **trainee Inspector** means a trainee Inspector of Weights and Measures appointed pursuant to section 26
+  - **use for trade** , in relation to any weight, measure, or weighing or measuring instrument,—and has a corresponding meaning
+    (a) means the use of any weight, measure, or weighing or measuring instrument in connection with, or with a view to, a transaction for—where—
+      (i) the transferring or rendering of money or money's worth in consideration of money or money's worth; or
+      (ii) the making of a payment in respect of any toll or duty—
+      (iii) the transaction is by reference to quantity or is a transaction for the purposes of which there is made or implied a statement of the quantity of goods to which the transaction relates; and
+      (iv) the use is for the purpose of the determination or statement of that quantity; but
+    (b) does not include such use of any weight, measure, or weighing or measuring instrument where the determination or statement of quantity referred to in paragraph (a)(iv) is a determination or statement of the quantity of goods required for despatch to a destination outside New Zealand—
+  - **weighing instrument** means any instrument or machine used for weighing any article, thing, liquid, or substance; and includes weights used in connection with it
+  - **weight or measure of the metric system** means a unit of weight, length, area, or volume described in Schedule 1; and includes any weight or measure derived from any such unit.
 
 ### 3 Act to bind the Crown
 This Act binds the Crown.
@@ -73,40 +71,40 @@ This Act binds the Crown.
 **Standards of weights and measures**
 
 ### 5 Departmental standards
-(1) The Secretary shall provide such standards of the weights and measures specified in Schedule 2 to this Act as are necessary for the purposes of this Act.
+(1) The Secretary shall provide such standards of the weights and measures specified in Schedule 2 as are necessary for the purposes of this Act.
 (2) Such standards shall be known as the departmental standards, and shall be maintained in the custody of such person as the Secretary from time to time directs.
 (3) The Secretary shall ensure that the departmental standards are verified from time to time, at intervals not exceeding 5 years, by reference to—
-  (a) The New Zealand standards for the metre and the kilogram maintained pursuant to the Measurement Standards Act 1992; or
-  (b) Any national standards of measurement maintained by any approved overseas country.
-(4) The Minister of the Crown who is for the time being charged with the administration of the Measurement Standards Act 1992 may from time to time, by notice in the Gazette, declare any country outside New Zealand to be an approved overseas country for the purposes of subsection (3)(b) of this section where the Minister is satisfied that the national standards of measurement maintained by that country are of sufficient accuracy to be used for the purpose of verifying the departmental standards.
-(5) Any notice under subsection (4) of this section may be in like manner amended or revoked at any time.
+  (a) the New Zealand standards for the metre and the kilogram maintained pursuant to the Measurement Standards Act 1992; or
+  (b) any national standards of measurement maintained by any approved overseas country.
+(4) The Minister of the Crown who is for the time being charged with the administration of the Measurement Standards Act 1992 may from time to time, by notice in the Gazette, declare any country outside New Zealand to be an approved overseas country for the purposes of subsection (3)(b) where the Minister is satisfied that the national standards of measurement maintained by that country are of sufficient accuracy to be used for the purpose of verifying the departmental standards.
+(5) Any notice under subsection (4) may be in like manner amended or revoked at any time.
 
 ### 6 District standards
 (1) The Secretary shall provide, for the purposes of this Act, copies of the departmental standards to be known as district standards, which shall be maintained in each district in the custody of an Inspector nominated by the Secretary.
 (2) District standards shall be verified from time to time, at intervals not exceeding 5 years, by reference to—
-  (a) The departmental standards; or
-  (b) The standards referred to in paragraph (a) or paragraph (b) of section 5(3) of this Act.
+  (a) the departmental standards; or
+  (b) the standards referred to in paragraph (a) or paragraph (b) of section 5(3).
 (3) Unless it is impracticable to do so, every district standard shall be marked with an impression of—
-  (a) A Crown and the letters ER and NZ, which impressions shall be in close proximity to one another; and
-  (b) Figures indicating the unit of that weight or measure and the numerical value of that unit.
+  (a) a Crown and the letters ER and NZ, which impressions shall be in close proximity to one another; and
+  (b) figures indicating the unit of that weight or measure and the numerical value of that unit.
 
 ### 7 Inspectors' working standards
 (1) The Secretary shall provide, for the purposes of this Act, copies of the district standards to be known as Inspectors' working standards, which shall be issued to Inspectors and shall be—
-  (a) Maintained in the custody and control of the Inspectors to whom they are issued; and
-  (b) Used by them for the purposes of this Act.
+  (a) maintained in the custody and control of the Inspectors to whom they are issued; and
+  (b) used by them for the purposes of this Act.
 (2) Inspectors' working standards, except those that are used to determine a measure of volume and are constructed of glass, shall be verified from time to time by comparison with the district standards at intervals not exceeding 12 months.
 (2A) Inspectors' working standards that are used to determine a measure of volume and are constructed of glass must be verified by comparison with the district standards at intervals not exceeding 10 years.
 (3) Unless it is impracticable to do so, every Inspectors' working standard shall be marked with an impression of either—
-  (a) A Crown and the letters ER and NZ, together with figures indicating the unit of the weight or measure and the numerical value of that unit, which impressions shall be in close proximity to one another; or
-  (b) A Crown and the letters SW (signifying standard weight), in the case of any weight, and the letters SM (signifying standard measure), in the case of any measure, together with figures indicating the unit of the weight or measure and the numerical value of that unit, which impressions shall be in close proximity to one another.
+  (a) a Crown and the letters ER and NZ, together with figures indicating the unit of the weight or measure and the numerical value of that unit, which impressions shall be in close proximity to one another; or
+  (b) a Crown and the letters SW (signifying standard weight), in the case of any weight, and the letters SM (signifying standard measure), in the case of any measure, together with figures indicating the unit of the weight or measure and the numerical value of that unit, which impressions shall be in close proximity to one another.
 (4) For the purposes of this Act, the fact that any weight or measure in the possession of an Inspector is stamped in accordance with this section shall be sufficient proof that such weight or measure is an Inspectors' working standard.
 
 ### 7A Accredited persons' working standards
 (1) Every accredited person shall maintain such standards of measurement as the Secretary considers necessary to enable the accredited person to exercise or perform that accredited person's functions, duties, and powers under this Act.
-(2) Every accredited person shall from time to time, at intervals not exceeding 12 months, cause the standards maintained by that person pursuant to subsection (1) of this section, except those that are used to determine a measure of volume and are constructed of glass, to be verified by reference to—
-  (a) The departmental standards; or
-  (b) Any district standards; or
-  (c) The standards referred to in paragraph (a) or paragraph (b) of section 5(3) of this Act.
+(2) Every accredited person shall from time to time, at intervals not exceeding 12 months, cause the standards maintained by that person pursuant to subsection (1), except those that are used to determine a measure of volume and are constructed of glass, to be verified by reference to—
+  (a) the departmental standards; or
+  (b) any district standards; or
+  (c) the standards referred to in paragraph (a) or paragraph (b) of section 5(3).
 (3) Every accredited person must, at intervals not exceeding 10 years, cause the standards maintained by that person under subsection (1) that are used to determine a measure of volume and are constructed of glass to be verified by reference to—
   (a) the departmental standards; or
   (b) any district standards; or
@@ -115,57 +113,57 @@ This Act binds the Crown.
 ## Part 2 — Use of weights and measures for trade
 
 ### 8 Obligations to use metric system of weights and measures
-Subject to section 9 of this Act, every person commits an offence who—
-  (a) In relation to any matter, work, goods, or other thing, makes or enters into any contract, or engages in any dealing or transaction, by reference to any weight or measure other than a weight or measure of the metric system; or
-  (b) Uses for trade any weight or measure other than a weight or measure of the metric system; or
-  (c) Uses for trade any weighing or measuring instrument other than a weighing or measuring instrument which weighs or measures only by reference to weights or measures of the metric system.
+Subject to section 9, every person commits an offence who—
+  (a) in relation to any matter, work, goods, or other thing, makes or enters into any contract, or engages in any dealing or transaction, by reference to any weight or measure other than a weight or measure of the metric system; or
+  (b) uses for trade any weight or measure other than a weight or measure of the metric system; or
+  (c) uses for trade any weighing or measuring instrument other than a weighing or measuring instrument which weighs or measures only by reference to weights or measures of the metric system.
 
 ### 9 Exceptions to obligations to use metric system of weights and measures
-Nothing in section 8 of this Act applies to—
-  (a) Any contract, dealing, or transaction in connection with the export of goods to, or the importation of goods from, a country where a system of weights and measures other than the metric system is used; or
-  (b) The weighing or measuring of goods or the doing of any other act for the purposes of any contract, dealing, or transaction in connection with the export of goods to, or the importation of goods from, a country where a system of weights and measures other than the metric system is used.
+Nothing in section 8 applies to—
+  (a) any contract, dealing, or transaction in connection with the export of goods to, or the importation of goods from, a country where a system of weights and measures other than the metric system is used; or
+  (b) the weighing or measuring of goods or the doing of any other act for the purposes of any contract, dealing, or transaction in connection with the export of goods to, or the importation of goods from, a country where a system of weights and measures other than the metric system is used.
 
 ### 10 Obligation to use metric system in advertising goods for sale
-Subject to section 11 of this Act, every person commits an offence who, in the course of, or for the purposes of, any trade or business, uses, whether on any package or price ticket, or in any price list or advertisement or otherwise howsoever, any unit of a weight or measure other than a weight or measure of the metric system in advertising, displaying, or exposing goods for sale.
+Subject to section 11, every person commits an offence who, in the course of, or for the purposes of, any trade or business, uses, whether on any package or price ticket, or in any price list or advertisement or otherwise howsoever, any unit of a weight or measure other than a weight or measure of the metric system in advertising, displaying, or exposing goods for sale.
 
 ### 11 Exceptions to obligation to use metric weights and measures in advertising goods for sale
-Nothing in section 10 of this Act applies to the use by any person of any unit of a weight or measure which is not a unit of a weight or measure of the metric system on any goods displayed or exposed for sale by retail or on the package of any such goods or on both if—
-  (a) That unit is additional to a unit of a weight or measure of the metric system and that unit and the figures in which that unit and the numerical value of that unit are marked are no larger than those of that metric weight or measure; and
-  (b) The goods—
-    (i) Have been imported into New Zealand; or
-    (ii) Are part of a line of goods intended for sale by retail both in New Zealand and another country or were, when marked with the unit of a weight or measure of a system which is not the metric system, intended for sale by retail in another country; and
-  (c) In the case of the goods referred to in paragraph (b)(ii) of this section, those goods were required, by the law of that other country or pursuant to the terms of any contract relating to the import of those goods into that other country, to be marked with that non-metric unit.
+Nothing in section 10 applies to the use by any person of any unit of a weight or measure which is not a unit of a weight or measure of the metric system on any goods displayed or exposed for sale by retail or on the package of any such goods or on both if—
+  (a) that unit is additional to a unit of a weight or measure of the metric system and that unit and the figures in which that unit and the numerical value of that unit are marked are no larger than those of that metric weight or measure; and
+  (b) the goods—
+    (i) have been imported into New Zealand; or
+    (ii) are part of a line of goods intended for sale by retail both in New Zealand and another country or were, when marked with the unit of a weight or measure of a system which is not the metric system, intended for sale by retail in another country; and
+  (c) in the case of the goods referred to in paragraph (b)(ii), those goods were required, by the law of that other country or pursuant to the terms of any contract relating to the import of those goods into that other country, to be marked with that non-metric unit.
 
 ## Part 3 — Sale of goods by weight, measure, or number
 
 ### 12 Obligation to sell goods by net weight or measure
-(1) Subject to subsection (2) of this section, all goods sold or offered or exposed for sale by weight or measure by any person shall be sold or offered or exposed for sale by net weight or measure.
-(2) Nothing in subsection (1) of this section applies to goods exempted from the provisions of this section by regulations made under section 41 of this Act.
+(1) Subject to subsection (2), all goods sold or offered or exposed for sale by weight or measure by any person shall be sold or offered or exposed for sale by net weight or measure.
+(2) Nothing in subsection (1) applies to goods exempted from the provisions of this section by regulations made under section 41.
 
 ### 13 Obligation in respect of invoice or delivery note
-(1) Subject to subsection (2) of this section, every person who delivers to any purchaser at any place other than the premises of the seller any goods sold by weight or measure shall forthwith deliver or send to the purchaser an invoice or delivery note showing the true net weight or measure of those goods.
-(2) Nothing in subsection (1) of this section applies to—
-  (a) Bread; or
-  (b) Milk; or
-  (c) Any goods weighed or measured at the premises of the purchaser in the purchaser's presence; or
-  (d) Any goods enclosed in a package that has a statement of the net weight or measure of the goods marked thereon, or on a label attached thereto; or
-  (e) Goods exempted from the provisions of this section by regulations made under section 41 of this Act.
+(1) Subject to subsection (2), every person who delivers to any purchaser at any place other than the premises of the seller any goods sold by weight or measure shall forthwith deliver or send to the purchaser an invoice or delivery note showing the true net weight or measure of those goods.
+(2) Nothing in subsection (1) applies to—
+  (a) bread; or
+  (b) milk; or
+  (c) any goods weighed or measured at the premises of the purchaser in the purchaser's presence; or
+  (d) any goods enclosed in a package that has a statement of the net weight or measure of the goods marked thereon, or on a label attached thereto; or
+  (e) goods exempted from the provisions of this section by regulations made under section 41.
 
 ### 14 Offences
-(1) Every person who contravenes section 12 or section 13 of this Act commits an offence.
-(2) It shall be a defence to a charge under this section if, where the charge relates to the contravention of section 13 of this Act, the person charged proves that—
-  (a) That person was not the seller of the goods delivered to the purchaser; and
-  (b) That person neither knew, nor might reasonably have been expected to know, nor had any reason to suspect, that the weight or measure stated on the invoice or delivery note was not the true weight or measure of the goods.
+(1) Every person who contravenes section 12 or section 13 commits an offence.
+(2) It shall be a defence to a charge under this section if, where the charge relates to the contravention of section 13, the person charged proves that—
+  (a) that person was not the seller of the goods delivered to the purchaser; and
+  (b) that person neither knew, nor might reasonably have been expected to know, nor had any reason to suspect, that the weight or measure stated on the invoice or delivery note was not the true weight or measure of the goods.
 
 ### 15 Weighing, measuring, and counting of goods sold by retail
 (1) Every person who offers or exposes for sale by retail by weight or measure or number goods which are not prepackaged when so offered or exposed for sale shall weigh or measure or count the goods—
-  (a) At the time of sale; and
-  (b) In the presence of the purchaser; and
-  (c) In the case of goods sold by weight or measure, by means of a suitable weighing or measuring instrument.
-(2) Nothing in subsection (1) of this section applies to bread.
+  (a) at the time of sale; and
+  (b) in the presence of the purchaser; and
+  (c) in the case of goods sold by weight or measure, by means of a suitable weighing or measuring instrument.
+(2) Nothing in subsection (1) applies to bread.
 (3) Every person who offers or exposes for sale by retail by weight any loaf of bread which is not enclosed in a package and which was baked at the premises where it is offered or exposed for sale shall, at the request of the purchaser, weigh that loaf in the presence of the purchaser by means of a suitable weighing instrument.
 (4) Every person who offers or exposes for sale by retail by weight or measure or number goods which are prepackaged and weighed or measured or counted at the premises or place where they are offered or exposed for sale before they are offered or exposed for sale shall, at the request of the purchaser, weigh or measure or count the goods in the presence of the purchaser and, in the case of goods sold by weight or measure, by means of a suitable weighing or measuring instrument.
-(5) Every weighing or measuring instrument used to weigh or measure goods for the purposes of subsection (1) or subsection (3) or subsection (4) of this section and any necessary weights or measures shall be so situated that the weighing or measuring of the goods and the recorded or indicated weight or measurement of the goods can be easily seen by the purchaser.
+(5) Every weighing or measuring instrument used to weigh or measure goods for the purposes of subsection (1) or subsection (3) or subsection (4) and any necessary weights or measures shall be so situated that the weighing or measuring of the goods and the recorded or indicated weight or measurement of the goods can be easily seen by the purchaser.
 (6) Every person who contravenes this section commits an offence.
 
 ### 16 Offence to supply short weight, measure, or number
@@ -176,7 +174,7 @@ Nothing in section 10 of this Act applies to the use by any person of any unit o
 (1) The following definitions apply in this section:
   (a) in subsection (2), person means every person who sells or offers or exposes for sale, or has in that person's possession for sale, by weight, measure, or number, any goods enclosed in a package that states the quantity of the goods or that has a label attached to it stating the quantity of the goods:
   (b) in subsection (2), goods includes catch weight goods:
-  (c) in subsection (3), goods does not include catch weight goods.
+  (c) in subsection (3), goods does not include catch weight goods:
   (d) in subsections (4) and (5), required period means the period beginning at the time when the package was made up and ending on the seventh day after the day the package was made up.
 (2) Every person commits an offence if the weight, measure, or number of the goods in the package is less than that stated on the package or label.
 (3) However, the weight, measure, or number of the goods in the package is deemed to be the same as that stated on the package or label if—
@@ -191,15 +189,15 @@ Nothing in section 10 of this Act applies to the use by any person of any unit o
 
 ### 17 Offence for purchaser to state incorrect weight, measure, or number
 (1) Every person commits an offence who, in the course of that person's business, purchases any goods by weight or measure or number where the weight or measure or number of those goods—
-  (a) Is determined by that person and not by the seller of those goods for the purposes of the purchase; and
-  (b) Is not the true weight or measure or the correct number of those goods.
-(2) This section, so far as it applies in respect of the purchase by weight of carcasses or half-carcasses of meat which, at the time of purchase, are intended for export, shall come into force on the 1st day of October 1987, but shall otherwise come into force on the 1st day of April 1987.
+  (a) is determined by that person and not by the seller of those goods for the purposes of the purchase; and
+  (b) is not the true weight or measure or the correct number of those goods.
+(2) This section, so far as it applies in respect of the purchase by weight of carcasses or half-carcasses of meat which, at the time of purchase, are intended for export, shall come into force on 1 October 1987, but shall otherwise come into force on 1 April 1987.
 
 ### 18 Statement of true weight, etc, to be supplied to seller
 (1) Where any person sells any goods by weight or measure or number, and the weight or measure or number of those goods is determined, for the purposes of that sale, by someone other than the seller of those goods, the person who makes that determination shall forthwith deliver or send to the seller a written statement of the true net weight, measure, or number of those goods.
-(2) Nothing in subsection (1) of this section applies to any goods weighed, measured, or counted at the premises of the seller in the seller's presence.
-(3) Every person who contravenes subsection (1) of this section commits an offence.
-(4) This section, so far as it applies in respect of the sale by weight of carcasses or half-carcasses of meat which, at the time of sale, are intended for export, shall come into force on the 1st day of October 1987, but shall otherwise come into force on the 1st day of April 1987.
+(2) Nothing in subsection (1) applies to any goods weighed, measured, or counted at the premises of the seller in the seller's presence.
+(3) Every person who contravenes subsection (1) commits an offence.
+(4) This section, so far as it applies in respect of the sale by weight of carcasses or half-carcasses of meat which, at the time of sale, are intended for export, shall come into force on 1 October 1987, but shall otherwise come into force on 1 April 1987.
 
 ## Part 4 — Stamping, verification, and approval of weights and measures
 
@@ -210,99 +208,99 @@ Nothing in section 10 of this Act applies to the use by any person of any unit o
 (4) Any weight or measure not in conformity with this section shall not be verified under this Act.
 
 ### 20 Approval of appliances
-Subject to section 22 of this Act, no weight or measure and no weighing or measuring instrument shall be stamped with a mark of verification under this Act unless it is of a type approved by the Secretary in accordance with regulations made under this Act.
+Subject to section 22, no weight or measure and no weighing or measuring instrument shall be stamped with a mark of verification under this Act unless it is of a type approved by the Secretary in accordance with regulations made under this Act.
 
 ### 21 Weights and measures to be stamped with mark of verification
 (1) Subject to any regulations made under this Act, no person shall use for trade, or have in that person's possession for use for trade, any weight or measure or any weighing or measuring instrument which has not been stamped with a mark of verification in accordance with regulations made under this Act.
-(2) Subject to section 22 of this Act, every person commits an offence who uses for trade, or has in that person's possession for use for trade, any weight, measure, or weighing or measuring instrument which is not stamped with a mark of verification as required by this Act.
+(2) Subject to section 22, every person commits an offence who uses for trade, or has in that person's possession for use for trade, any weight, measure, or weighing or measuring instrument which is not stamped with a mark of verification as required by this Act.
 
 ### 22 Sections 20 and 21 not to apply to automatic weighing or dispensing machines
-Nothing in section 20 and section 21 of this Act shall apply to any automatic weighing machine or any automatic volumetric liquid dispensing machine.
+Nothing in section 20 and section 21 shall apply to any automatic weighing machine or any automatic volumetric liquid dispensing machine.
 
 ### 22A Certificate of accuracy
 (1) Any accredited person or any Inspector may from time to time, in accordance with regulations made under this Act, issue a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument.
 (2) Every certificate of accuracy shall be in the prescribed form, and shall state, in relation to the weight, measure, or weighing or measuring instrument in respect of which the certificate is issued,—
-  (a) That it has been examined and tested by an accredited person or an Inspector; and
-  (b) That it complies with such requirements as are prescribed for the purpose by regulations made under this Act.
+  (a) that it has been examined and tested by an accredited person or an Inspector; and
+  (b) that it complies with such requirements as are prescribed for the purpose by regulations made under this Act.
 (3) Different forms of certificates of accuracy may be prescribed for different purposes, including certificates in the form of labels to be attached to weights, measures, or weighing or measuring instruments.
 (4) Unless it is sooner cancelled, every certificate of accuracy shall be in force for such period as is prescribed by regulations made under this Act.
 (5) Nothing in this section applies to any automatic weighing machine or any automatic volumetric liquid dispensing machine.
 
 ### 23 Notification of non-compliance
 (1) Where an accredited person declines to stamp with a mark of verification, or to issue a certificate of accuracy in respect of, any weight, measure, or weighing or measuring instrument on the grounds that the weight, measure, or weighing or measuring instrument does not comply with the requirements of this Act or of any regulations made under this Act, the accredited person shall—
-  (a) Forthwith give to the person in charge of that weight, measure, or weighing or measuring instrument a notice of non-compliance; and
-  (b) As soon as practicable send to the Secretary a copy of the notice.
-(2) Where it is not possible or practicable to give a notice of non-compliance in accordance with subsection (1)(a) of this section, the accredited person shall attach the notice to the weight, measure, or weighing or measuring instrument.
+  (a) forthwith give to the person in charge of that weight, measure, or weighing or measuring instrument a notice of non-compliance; and
+  (b) as soon as practicable send to the Secretary a copy of the notice.
+(2) Where it is not possible or practicable to give a notice of non-compliance in accordance with subsection (1)(a), the accredited person shall attach the notice to the weight, measure, or weighing or measuring instrument.
 (3) Every notice of non-compliance shall be in the prescribed form, and shall contain—
-  (a) Such information as is sufficient to identify the weight, measure, or weighing or measuring instrument in respect of which it is issued, including any serial number or other identifying feature; and
-  (b) Particulars of the respects in which the weight, measure, or weighing or measuring instrument does not comply with the requirements of this Act or of any regulations made under this Act, including details of the time and place of the non-compliance.
+  (a) such information as is sufficient to identify the weight, measure, or weighing or measuring instrument in respect of which it is issued, including any serial number or other identifying feature; and
+  (b) particulars of the respects in which the weight, measure, or weighing or measuring instrument does not comply with the requirements of this Act or of any regulations made under this Act, including details of the time and place of the non-compliance.
 
 ### 24 Offence to use or possess false or unjust weight or measure
-(1) Subject to subsection (2) of this section, every person commits an offence who uses for trade, or has in that person's possession for use for trade, any weight, measure, or weighing or measuring instrument which is false or unjust, notwithstanding that it is stamped with a mark of verification as required by this Act.
-(2) It shall be a defence to a charge under subsection (1) of this section if the person charged proves—
-  (a) That at the time of the offence there was in force in respect of the weight, measure, or weighing or measuring instrument a certificate of accuracy; and
-  (b) That that person neither knew, nor had any reason to suspect, that the weight, measure, or weighing or measuring instrument was false or unjust.
+(1) Subject to subsection (2), every person commits an offence who uses for trade, or has in that person's possession for use for trade, any weight, measure, or weighing or measuring instrument which is false or unjust, notwithstanding that it is stamped with a mark of verification as required by this Act.
+(2) It shall be a defence to a charge under subsection (1) if the person charged proves—
+  (a) that at the time of the offence there was in force in respect of the weight, measure, or weighing or measuring instrument a certificate of accuracy; and
+  (b) that that person neither knew, nor had any reason to suspect, that the weight, measure, or weighing or measuring instrument was false or unjust.
 
 ## Part 5 — Administration
 
-**Appointment and powers of inspectors**
+**Appointment and powers of Inspectors**
 
 ### 25 Chief Inspector and Deputy Chief Inspector of Weights and Measures
 [Repealed]
 
 ### 26 Inspectors of Weights and Measures
-(1) Subject to subsection (2) of this section, there shall be appointed from time to time under the State Sector Act 1988 such number of persons to be Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
+(1) Subject to subsection (2), there shall be appointed from time to time under the State Sector Act 1988 such number of persons to be Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
 (2) No person shall be appointed to be an Inspector unless that person has passed such examinations to test that person's knowledge of the provisions of this Act and any regulations made under this Act and the powers, duties, and functions of Inspectors as the Secretary requires.
-(3) There may from time to time be appointed under the State Sector Act 1988, for periods not exceeding 2 years from the date of their appointment, such number of persons to be Trainee Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
-(4) It shall not be necessary for any person to pass the examinations referred to in subsection (2) of this section to be appointed to be a Trainee Inspector.
-(5) For the purposes of this Act, a Trainee Inspector acting under the supervision of an Inspector (other than a Trainee Inspector) is deemed to be an Inspector.
+(3) There may from time to time be appointed under the State Sector Act 1988, for periods not exceeding 2 years from the date of their appointment, such number of persons to be trainee Inspectors of Weights and Measures as may be necessary for the purposes of this Act.
+(4) It shall not be necessary for any person to pass the examinations referred to in subsection (2) to be appointed to be a trainee Inspector.
+(5) For the purposes of this Act, a trainee Inspector acting under the supervision of an Inspector (other than a trainee Inspector) is deemed to be an Inspector.
 (6) Every person holding an appointment as an Inspector of Weights and Measures pursuant to the Weights and Measures Act 1925 immediately before the commencement of this Act shall be deemed to have been appointed as an Inspector under this section.
 (7)
 
 ### 27 Certificates of appointment
-(1) Every Inspector, and every Trainee Inspector, shall be furnished with a certificate in the prescribed form of that person's appointment pursuant to this Act.
+(1) Every Inspector, and every trainee Inspector, shall be furnished with a certificate in the prescribed form of that person's appointment pursuant to this Act.
 (2) Every such certificate shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the appointee; and
-  (c) A reference to the powers conferred on the appointee by section 28 of this Act.
-(3) Every Inspector or Trainee Inspector, as the case may be, shall produce the certificate—
-  (a) When entering any place, premises, or building, and at any other time when required to do so by the owner or occupier of the place, premises, or building, or by that person's representative, agent, or employee; or
-  (b) As soon as practicable after stopping any vehicle, and at any other time when required to do so by the owner or driver of the vehicle.
+  (a) a reference to this section; and
+  (b) the full name of the appointee; and
+  (c) a reference to the powers conferred on the appointee by section 28.
+(3) Every Inspector or trainee Inspector, as the case may be, shall produce the certificate—
+  (a) when entering any place, premises, or building, and at any other time when required to do so by the owner or occupier of the place, premises, or building, or by that person's representative, agent, or employee; or
+  (b) as soon as practicable after stopping any vehicle, and at any other time when required to do so by the owner or driver of the vehicle.
 
 ### 28 Powers of Inspectors
-(1) Subject to subsections (2) and (3) of this section, any Inspector, accompanied if that Inspector thinks fit by a member of the Police, may, for the purposes of ensuring compliance with this Act and with any regulations made under this Act, at all reasonable times,—
-  (a) Enter any place, premises, or building in which that Inspector has reasonable cause to believe—
-    (i) Weights, measures, or weighing or measuring instruments are used for trade; or
-    (ii) Goods are kept, displayed, or available for sale:
-  (b) Stop any vehicle in which that Inspector has reasonable cause to believe—
-    (i) Weights, measures, or weighing or measuring instruments are used for trade or are carried for use for trade; or
-    (ii) Goods are carried for delivery pursuant to or in connection with a contract of sale:
-  (c) Require any person to make available for inspection by an Inspector any goods for sale in that person's possession:
-  (d) Require any person to make available for inspection by an Inspector any weights, measures, or weighing or measuring instruments in that person's possession for use in connection with the sale of goods:
-  (e) Examine and test any weights, measures, and weighing or measuring instruments used for trade:
-  (f) Stamp any weight, measure, or weighing or measuring instrument used for trade with a mark of verification or a mark of obliteration:
-  (fa) Issue a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument, or cancel any such certificate:
-  (g) Examine, weigh, measure, or count, or cause to be weighed, measured, or counted, any goods kept, displayed, offered, or exposed for sale:
-  (h) Require the production for examination by that Inspector, and take copies of, any book, record, contract, invoice, note, or other document in the possession of any person relating to—
-    (i) Any goods kept, displayed, offered, or exposed for sale; or
-    (ii) Any weights, measures, or weighing or measuring instruments used for trade:
-  (i) Require any person by whom any goods are carried for delivery pursuant to or in connection with a contract of sale to state the name and address of—
-    (i) That person; and
-    (ii) That person's employer (if any); and
-    (iii) The owner of the goods, if known.
-(2) An Inspector shall not enter any dwellinghouse for the purpose of exercising any of the powers conferred under subsection (1) of this section except—
-  (a) With the consent of the occupier of that dwellinghouse; or
-  (b) Pursuant to a warrant issued in accordance with subsection (3) of this section.
-(3) Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), who, on an application in writing made on oath, is satisfied that there is reasonable ground for believing that it is necessary for the purpose of exercising the powers conferred under subsection (1) of this section that an Inspector enter a dwellinghouse, may issue a warrant in the prescribed form authorising an Inspector to enter that dwellinghouse for the purpose of exercising those powers.
+(1) Subject to subsections (2) and (3), any Inspector, accompanied if that Inspector thinks fit by a constable, may, for the purposes of ensuring compliance with this Act and with any regulations made under this Act, at all reasonable times,—
+  (a) enter any place, premises, or building in which that Inspector has reasonable cause to believe—
+    (i) weights, measures, or weighing or measuring instruments are used for trade; or
+    (ii) goods are kept, displayed, or available for sale:
+  (b) stop any vehicle in which that Inspector has reasonable cause to believe—
+    (i) weights, measures, or weighing or measuring instruments are used for trade or are carried for use for trade; or
+    (ii) goods are carried for delivery pursuant to or in connection with a contract of sale:
+  (c) require any person to make available for inspection by an Inspector any goods for sale in that person's possession:
+  (d) require any person to make available for inspection by an Inspector any weights, measures, or weighing or measuring instruments in that person's possession for use in connection with the sale of goods:
+  (e) examine and test any weights, measures, and weighing or measuring instruments used for trade:
+  (f) stamp any weight, measure, or weighing or measuring instrument used for trade with a mark of verification or a mark of obliteration:
+  (fa) issue a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument, or cancel any such certificate:
+  (g) examine, weigh, measure, or count, or cause to be weighed, measured, or counted, any goods kept, displayed, offered, or exposed for sale:
+  (h) require the production for examination by that Inspector, and take copies of, any book, record, contract, invoice, note, or other document in the possession of any person relating to—
+    (i) any goods kept, displayed, offered, or exposed for sale; or
+    (ii) any weights, measures, or weighing or measuring instruments used for trade:
+  (i) require any person by whom any goods are carried for delivery pursuant to or in connection with a contract of sale to state the name and address of—
+    (i) that person; and
+    (ii) that person's employer (if any); and
+    (iii) the owner of the goods, if known.
+(2) An Inspector shall not enter any dwellinghouse for the purpose of exercising any of the powers conferred under subsection (1) except—
+  (a) with the consent of the occupier of that dwellinghouse; or
+  (b) pursuant to a warrant issued in accordance with subsection (3).
+(3) Any District Court Judge, Justice, or Community Magistrate, or any Registrar (not being a constable), who, on an application in writing made on oath, is satisfied that there is reasonable ground for believing that it is necessary for the purpose of exercising the powers conferred under subsection (1) that an Inspector enter a dwellinghouse, may issue a warrant in the prescribed form authorising an Inspector to enter that dwellinghouse for the purpose of exercising those powers.
 (4) Every warrant shall continue in force for 1 month from the date on which it was issued or until the purpose for which it was granted has been satisfied, whichever occurs first.
-(5) If, in any case, it is not practicable to examine, weigh, measure, or count, or cause to be weighed, measured, or counted, any goods referred to in subsection (1) of this section without damaging those goods or any package or container in which those goods are kept, the Inspector may retain those goods on payment to the owner or person having custody of them of the normal selling price of those goods.
+(5) If, in any case, it is not practicable to examine, weigh, measure, or count, or cause to be weighed, measured, or counted, any goods referred to in subsection (1) without damaging those goods or any package or container in which those goods are kept, the Inspector may retain those goods on payment to the owner or person having custody of them of the normal selling price of those goods.
 (6) An Inspector may seize and detain—
-  (a) Any weight or measure that does not comply with or is used in contravention of this Act or any regulations made under this Act; or
-  (b) Any weighing or measuring instrument that does not comply with or is used in contravention of this Act or any regulations made under this Act, or any part of any such instrument the removal of which makes that instrument inoperative; or
-  (c) Any goods referred to in subsection (1)(a), (b), (c), or (g) of this section where the Inspector is satisfied on reasonable grounds that an offence against this Act or any regulations made under this Act has been committed.
+  (a) any weight or measure that does not comply with or is used in contravention of this Act or any regulations made under this Act; or
+  (b) any weighing or measuring instrument that does not comply with or is used in contravention of this Act or any regulations made under this Act, or any part of any such instrument the removal of which makes that instrument inoperative; or
+  (c) any goods referred to in subsection (1)(a), (b), (c), or (g) where the Inspector is satisfied on reasonable grounds that an offence against this Act or any regulations made under this Act has been committed.
 
 ### 29 Privilege against self-incrimination
-Notwithstanding anything in section 28 of this Act, no person shall be required, pursuant to any provision of that section, to produce any book, record, contract, invoice, note, or other document if the production of that book, record, contract, invoice, note, or other document would or could tend to incriminate that person, and that person shall be informed of that right before any Inspector exercises the power conferred by any provision of that section to require the production of any book, record, contract, invoice, note, or other document.
+Notwithstanding anything in section 28, no person shall be required, pursuant to any provision of that section, to produce any book, record, contract, invoice, note, or other document if the production of that book, record, contract, invoice, note, or other document would or could tend to incriminate that person, and that person shall be informed of that right before any Inspector exercises the power conferred by any provision of that section to require the production of any book, record, contract, invoice, note, or other document.
 
 ### 30 Inspector may inspect weights, measures, etc, not used for trade
 [Repealed]
@@ -311,22 +309,22 @@ Notwithstanding anything in section 28 of this Act, no person shall be required,
 
 ### 30A Appointment of accredited persons
 (1) The Secretary may from time to time, by letter of accreditation in the prescribed form (if any), accredit any person to act as an accredited person under this Act for the purposes of—
-  (a) Stamping with a mark of verification any weight, measure, or weighing or measuring instrument; and
-  (b) Issuing certificates of accuracy in respect of any weight, measure, or weighing or measuring instrument.
-(2) Where a person other than a natural person is accredited under subsection (1) of this section, the letter of accreditation shall specify the name of every natural person who is to exercise or perform the powers, duties, and functions of an accredited person on behalf of that person, and this Act shall apply in respect of every person so specified as if that person had been accredited by that letter of accreditation.
-(3) The Secretary may impose in respect of the accreditation of any person under subsection (1) of this section such conditions as the Secretary thinks fit, including conditions limiting or restricting the class or classes of weights, measures, or weighing or measuring instruments to which the accreditation relates.
-(4) Where a letter of accreditation to which subsection (2) of this section applies is issued to any person, the Secretary may from time to time, at the request of that person, and on payment of the prescribed fee (if any), amend the letter of accreditation by omitting or adding the name of any natural person who is to exercise or perform the powers, duties, and functions of an accredited person on behalf of that person.
+  (a) stamping with a mark of verification any weight, measure, or weighing or measuring instrument; and
+  (b) issuing certificates of accuracy in respect of any weight, measure, or weighing or measuring instrument.
+(2) Where a person other than a natural person is accredited under subsection (1), the letter of accreditation shall specify the name of every natural person who is to exercise or perform the powers, duties, and functions of an accredited person on behalf of that person, and this Act shall apply in respect of every person so specified as if that person had been accredited by that letter of accreditation.
+(3) The Secretary may impose in respect of the accreditation of any person under subsection (1) such conditions as the Secretary thinks fit, including conditions limiting or restricting the class or classes of weights, measures, or weighing or measuring instruments to which the accreditation relates.
+(4) Where a letter of accreditation to which subsection (2) applies is issued to any person, the Secretary may from time to time, at the request of that person, and on payment of the prescribed fee (if any), amend the letter of accreditation by omitting or adding the name of any natural person who is to exercise or perform the powers, duties, and functions of an accredited person on behalf of that person.
 
 ### 30B Application for accreditation
-(1) Any person who wishes to be accredited under section 30A of this Act as an accredited person shall apply in writing, in the prescribed form (if any), to the Secretary.
+(1) Any person who wishes to be accredited under section 30A as an accredited person shall apply in writing, in the prescribed form (if any), to the Secretary.
 (2) Every application shall be accompanied by the prescribed fee (if any).
-(3) The Secretary shall not accredit any person under section 30A of this Act unless the applicant satisfies the Secretary that the applicant meets the requirements for accreditation prescribed by regulations made under this Act.
+(3) The Secretary shall not accredit any person under section 30A unless the applicant satisfies the Secretary that the applicant meets the requirements for accreditation prescribed by regulations made under this Act.
 (4) The Secretary shall not decline an application for accreditation under this section without first giving the applicant—
-  (a) A copy of any information on which the Secretary relies in proposing to decline the application; and
-  (b) A reasonable opportunity to make written submissions to the Secretary in relation to that information.
+  (a) a copy of any information on which the Secretary relies in proposing to decline the application; and
+  (b) a reasonable opportunity to make written submissions to the Secretary in relation to that information.
 
 ### 30C Duration and renewal of accreditation
-(1) Subject to this section and to sections 30D and 30DA, every letter of accreditation issued under section 30A of this Act shall be in force for a period of 3 years beginning on the date of its issue.
+(1) Subject to this section and to sections 30D and 30DA, every letter of accreditation issued under section 30A shall be in force for a period of 3 years beginning on the date of its issue.
 (2) Every letter of accreditation, unless it has been revoked pursuant to section 30D or is, at the time of application for its renewal, suspended under section 30DA, may from time to time be renewed in accordance with this section.
 (3) An application for the renewal of a letter of accreditation shall be made in writing, in the prescribed form (if any), to the Secretary, and shall be accompanied by the prescribed fee (if any).
 (4) The Secretary must renew a letter of accreditation for a period of 3 years if the Secretary—
@@ -336,17 +334,17 @@ Notwithstanding anything in section 28 of this Act, no person shall be required,
 (5) Where an application for the renewal of a letter of accreditation has been made but not dealt with before the letter of accreditation expires, the letter of accreditation shall continue in force until the application is dealt with by the Secretary.
 
 ### 30D Revocation of accreditation
-(1) Subject to subsection (3) of this section, the Secretary may at any time revoke the accreditation of any person as an accredited person if the Secretary is satisfied that the person—
-  (a) No longer meets all the requirements for accreditation prescribed by regulations made under this Act; or
-  (b) Has failed to comply with any condition imposed by the Secretary in respect of that person's accreditation; or
-  (c) Has failed to exercise or perform the powers, functions, and duties of an accredited person to a satisfactory standard; or
-  (d) Has been convicted of an offence against section 32(fa) of this Act.
-(2) Subject to subsection (3) of this section, where the Secretary is satisfied that any person whose name is specified in a letter of accreditation pursuant to section 30A(2) of this Act—the Secretary may remove that person's name from that letter of accreditation.
-  (a) Has failed to comply with any condition imposed by the Secretary in respect of that letter of accreditation; or
-  (b) Has failed to exercise or perform the powers, functions, and duties of an accredited person to a satisfactory standard; or
-  (c) Has been convicted of an offence against section 32(fa) of this Act,—
-(3) The Secretary shall not revoke the accreditation of any person pursuant to subsection (1) of this section, or remove the name of any person from a letter of accreditation pursuant to subsection (2) of this section, unless the Secretary has first given that person an opportunity to be heard.
-(4) Where the Secretary revokes the accreditation of any person pursuant to subsection (1) of this section, or removes the name of any person from a letter of accreditation pursuant to subsection (2) of this section, that person shall be deemed, from the date of that revocation or removal, not to be an accredited person for the purposes of this Act.
+(1) Subject to subsection (3), the Secretary may at any time revoke the accreditation of any person as an accredited person if the Secretary is satisfied that the person—
+  (a) no longer meets all the requirements for accreditation prescribed by regulations made under this Act; or
+  (b) has failed to comply with any condition imposed by the Secretary in respect of that person's accreditation; or
+  (c) has failed to exercise or perform the powers, functions, and duties of an accredited person to a satisfactory standard; or
+  (d) has been convicted of an offence against section 32(fa).
+(2) Subject to subsection (3), where the Secretary is satisfied that any person whose name is specified in a letter of accreditation pursuant to section 30A(2)—the Secretary may remove that person's name from that letter of accreditation.
+  (a) has failed to comply with any condition imposed by the Secretary in respect of that letter of accreditation; or
+  (b) has failed to exercise or perform the powers, functions, and duties of an accredited person to a satisfactory standard; or
+  (c) has been convicted of an offence against section 32(fa),—
+(3) The Secretary shall not revoke the accreditation of any person pursuant to subsection (1), or remove the name of any person from a letter of accreditation pursuant to subsection (2), unless the Secretary has first given that person an opportunity to be heard.
+(4) Where the Secretary revokes the accreditation of any person pursuant to subsection (1), or removes the name of any person from a letter of accreditation pursuant to subsection (2), that person shall be deemed, from the date of that revocation or removal, not to be an accredited person for the purposes of this Act.
 
 ### 30DA Suspension of accreditation
 (1) The Secretary may suspend the accreditation of any person as an accredited person if the Secretary is satisfied that the person—
@@ -380,118 +378,118 @@ Notwithstanding anything in section 28 of this Act, no person shall be required,
   (c) that person's name has been removed from the letter of accreditation under section 30D(2).
 
 ### 30E Revocation, etc, of conditions
-The Secretary may, at any time, revoke, amend, or add to any condition imposed under section 30A(3) of this Act.
+The Secretary may, at any time, revoke, amend, or add to any condition imposed under section 30A(3).
 
 ### 30F Appeals against decisions of Secretary
-(1) Any person who is prejudicially affected by any decision of the Secretary under section 30D or section 30DA or section 30E of this Act may appeal to a District Court against the decision.
-(2) An appeal under subsection (1) of this section shall be brought within 28 days after notice of the decision is communicated to the appellant, or within such further time as a District Court Judge may allow on application made before or after the expiration of that period.
+(1) Any person who is prejudicially affected by any decision of the Secretary under section 30D or section 30DA or section 30E may appeal to a District Court against the decision.
+(2) An appeal under subsection (1) shall be brought within 28 days after notice of the decision is communicated to the appellant, or within such further time as a District Court Judge may allow on application made before or after the expiration of that period.
 (3) Subject to any order of a District Court Judge, every decision of the Secretary against which an appeal is lodged shall continue in force and have effect according to its tenor pending the determination of the appeal.
 
 ### 30G Procedure on appeals
-(1) On the hearing of an appeal under section 30F of this Act, the District Court Judge may confirm, reverse, or modify the decision appealed against, or may give any decision that the Secretary could have given in respect of the matter.
-(2) The decision of the District Court Judge on any appeal under section 30F of this Act shall be final.
+(1) On the hearing of an appeal under section 30F, the District Court Judge may confirm, reverse, or modify the decision appealed against, or may give any decision that the Secretary could have given in respect of the matter.
+(2) The decision of the District Court Judge on any appeal under section 30F shall be final.
 
 ### 30H Court may refer appeals back for reconsideration
-(1) Notwithstanding anything in section 30G of this Act, a District Court Judge may, in any case, instead of determining any appeal under that section, direct the Secretary to reconsider, either generally or in respect of any specified matters, the whole or any part of the matter to which the appeal relates.
+(1) Notwithstanding anything in section 30G, a District Court Judge may, in any case, instead of determining any appeal under that section, direct the Secretary to reconsider, either generally or in respect of any specified matters, the whole or any part of the matter to which the appeal relates.
 (2) In giving any direction under this section, the District Court Judge shall—
-  (a) Advise the Secretary of the Judge's reasons for doing so; and
-  (b) Give to the Secretary such directions as the Judge thinks just concerning the reconsideration or otherwise of the whole or any part of the matter that is referred back for reconsideration.
-(3) In reconsidering the matter so referred back, the Secretary shall have regard to the District Court Judge's reasons for giving a direction under subsection (1) of this section, and to the Judge's directions under subsection (2) of this section.
+  (a) advise the Secretary of the Judge's reasons for doing so; and
+  (b) give to the Secretary such directions as the Judge thinks just concerning the reconsideration or otherwise of the whole or any part of the matter that is referred back for reconsideration.
+(3) In reconsidering the matter so referred back, the Secretary shall have regard to the District Court Judge's reasons for giving a direction under subsection (1), and to the Judge's directions under subsection (2).
 
 ### 30I Powers of inspection
 (1) There shall be deemed to be imposed in respect of the accreditation of every accredited person the condition that any Inspector may, for the purpose of ensuring compliance with this Act or any regulations made under this Act,—
-  (a) Require any accredited person to produce for inspection, within such reasonable period as the Inspector may specify,—
-    (i) Any weight, measure, or weighing or measuring instrument in the possession of that accredited person, and may examine and test that weight, measure, or weighing or measuring instrument:
-    (ii) Any document in the possession or under the control of that accredited person, and may take copies of or extracts from any such document:
-  (b) Require any accredited person to furnish, within such reasonable period as the Inspector may specify, such information or particulars as the Inspector may require.
-(2) If any accredited person breaches a condition expressed in subsection (1) of this section, the Secretary may revoke the accreditation of that person pursuant to subsection (1) of section 30D of this Act or, as the case may require, remove the name of that person from a letter of accreditation pursuant to subsection (2) of that section.
+  (a) require any accredited person to produce for inspection, within such reasonable period as the Inspector may specify,—
+    (i) any weight, measure, or weighing or measuring instrument in the possession of that accredited person, and may examine and test that weight, measure, or weighing or measuring instrument:
+    (ii) any document in the possession or under the control of that accredited person, and may take copies of or extracts from any such document:
+  (b) require any accredited person to furnish, within such reasonable period as the Inspector may specify, such information or particulars as the Inspector may require.
+(2) If any accredited person breaches a condition expressed in subsection (1), the Secretary may revoke the accreditation of that person pursuant to subsection (1) of section 30D or, as the case may require, remove the name of that person from a letter of accreditation pursuant to subsection (2) of that section.
 
 ### 30J Application of certain Acts to accredited persons
-No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's accreditation under section 30A of this Act as an accredited person.
+No person shall be deemed to be employed in the service of the Crown for the purposes of the State Sector Act 1988 or the Government Superannuation Fund Act 1956 by reason only of that person's accreditation under section 30A as an accredited person.
 
 ## Part 6 — Offences and penalties
 
 ### 31 Liability of principal for acts of agents, etc
 (1) Where an offence is committed against this Act or against any regulations made under this Act by any person acting as the agent or employee of another person, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act in the same manner and to the same extent as if that other person had personally committed the offence.
-(2) Notwithstanding anything in subsection (1) of this section, where any proceedings are brought by virtue of that subsection for any offence against this Act, it shall be a good defence to the charge if the defendant proves that the offence was committed without the defendant's knowledge and that the defendant took reasonable precautions and exercised due diligence to prevent the commission of the offence.
+(2) Notwithstanding anything in subsection (1), where any proceedings are brought by virtue of that subsection for any offence against this Act, it shall be a good defence to the charge if the defendant proves that the offence was committed without the defendant's knowledge and that the defendant took reasonable precautions and exercised due diligence to prevent the commission of the offence.
 (3) Where any body corporate is convicted of an offence against this Act or against any regulations made under this Act, every director and every person concerned in the management of the body corporate shall be guilty of a like offence unless that director or that person proves that the offence was committed without that director's or that person's knowledge and that that director or that person took reasonable precautions and exercised due diligence to prevent the commission of the offence.
 
 ### 32 Offences
 Every person commits an offence who—
-  (a) Not being an Inspector or Trainee Inspector, pretends to be an Inspector or Trainee Inspector; or
-  (aa) Not being an accredited person, pretends to be an accredited person; or
-  (b) Refuses to allow any Inspector to exercise or prevents an Inspector from exercising any of that Inspector's powers under this Act; or
-  (c) Obstructs or without reasonable excuse delays any Inspector in the exercise or attempted exercise of that Inspector's powers under this Act; or
-  (d) Without lawful excuse fails or refuses to comply with any requirement of an Inspector under this Act; or
-  (e) Forges or counterfeits any stamp or mark used for the stamping or marking of any weight, measure, or weighing or measuring instrument under this Act; or
-  (f) Not being an Inspector or a Trainee Inspector or an accredited person,—
-    (i) Has in that person's possession any stamp or mark, or anything that purports to be a stamp or mark, used for the stamping or marking of weights, measures, or weighing or measuring instruments under this Act; or
-    (ii) Makes on any weight, measure, or weighing or measuring instrument any impression purporting to be the impression of any stamp or mark used for the stamping or marking of weights, measures, or weighing or measuring instruments under this Act; or
-  (fa) Being an accredited person, except as permitted by or under this Act, stamps with a mark of verification, or issues a certificate of accuracy in respect of, any weight, measure, or weighing or measuring instrument; or
-  (g) Except as permitted by or under this Act, alters, defaces, or obliterates any stamp or mark lawfully impressed on any weight, measure, or weighing or measuring instrument under this Act; or
-  (h) Alters or tampers with any stamped or marked weight, measure, or weighing or measuring instrument so as to cause it to weigh or measure falsely or unjustly; or
-  (i) Uses, sells, or offers or exposes for sale any weight, measure, or weighing or measuring instrument that—
-    (i) Contains any forged or unauthorised mark or stamp; or
-    (ii) Has been altered or tampered with after it has been stamped or marked under this Act; or
-  (j) For the purposes of use for trade, makes or sells any weight, measure, or weighing or measuring instrument that is incorrect or that does not comply with this Act or with any regulations made under this Act; or
-  (k) Without lawful excuse increases or diminishes any stamped weight or measure, or uses, sells, or offers or exposes for sale any stamped weight or measure that has been increased or diminished; or
-  (l) Inserts in any weight, measure, or weighing or measuring instrument any stamp or mark that has been removed from any other weight, measure, or weighing or measuring instrument.
+  (a) not being an Inspector or trainee Inspector, pretends to be an Inspector or trainee Inspector; or
+  (aa) not being an accredited person, pretends to be an accredited person; or
+  (b) refuses to allow any Inspector to exercise or prevents an Inspector from exercising any of that Inspector's powers under this Act; or
+  (c) obstructs or without reasonable excuse delays any Inspector in the exercise or attempted exercise of that Inspector's powers under this Act; or
+  (d) without lawful excuse fails or refuses to comply with any requirement of an Inspector under this Act; or
+  (e) forges or counterfeits any stamp or mark used for the stamping or marking of any weight, measure, or weighing or measuring instrument under this Act; or
+  (f) not being an Inspector or a trainee Inspector or an accredited person,—
+    (i) has in that person's possession any stamp or mark, or anything that purports to be a stamp or mark, used for the stamping or marking of weights, measures, or weighing or measuring instruments under this Act; or
+    (ii) makes on any weight, measure, or weighing or measuring instrument any impression purporting to be the impression of any stamp or mark used for the stamping or marking of weights, measures, or weighing or measuring instruments under this Act; or
+  (fa) being an accredited person, except as permitted by or under this Act, stamps with a mark of verification, or issues a certificate of accuracy in respect of, any weight, measure, or weighing or measuring instrument; or
+  (g) except as permitted by or under this Act, alters, defaces, or obliterates any stamp or mark lawfully impressed on any weight, measure, or weighing or measuring instrument under this Act; or
+  (h) alters or tampers with any stamped or marked weight, measure, or weighing or measuring instrument so as to cause it to weigh or measure falsely or unjustly; or
+  (i) uses, sells, or offers or exposes for sale any weight, measure, or weighing or measuring instrument that—
+    (i) contains any forged or unauthorised mark or stamp; or
+    (ii) has been altered or tampered with after it has been stamped or marked under this Act; or
+  (j) for the purposes of use for trade, makes or sells any weight, measure, or weighing or measuring instrument that is incorrect or that does not comply with this Act or with any regulations made under this Act; or
+  (k) without lawful excuse increases or diminishes any stamped weight or measure, or uses, sells, or offers or exposes for sale any stamped weight or measure that has been increased or diminished; or
+  (l) inserts in any weight, measure, or weighing or measuring instrument any stamp or mark that has been removed from any other weight, measure, or weighing or measuring instrument.
 
 ### 32A Infringement offences
 (1) Where an Inspector has reason to believe that a person has committed an infringement offence,—
-  (a) That person may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
-  (b) The Inspector may issue an infringement notice in respect of the alleged offence.
-(2) Any Inspector (not necessarily the Inspector who issued the infringement notice) may do any one or more of the following things:
-  (a) Attach an infringement notice, or a copy of an infringement notice, to the weight, measure, weighing or measuring instrument, or goods to which the notice relates:
-  (b) Deliver an infringement notice, or a copy of an infringement notice, personally to a person:
-  (c) Send an infringement notice, or a copy of an infringement notice, to a person by post addressed to the person at the person's last known place of residence or business.
+  (a) that person may be proceeded against for the alleged offence under the Summary Proceedings Act 1957; or
+  (b) the Inspector may issue an infringement notice in respect of the alleged offence.
+(2) Any Inspector (not necessarily the Inspector who issued the infringement notice) may do any 1 or more of the following things:
+  (a) attach an infringement notice, or a copy of an infringement notice, to the weight, measure, weighing or measuring instrument, or goods to which the notice relates:
+  (b) deliver an infringement notice, or a copy of an infringement notice, personally to a person:
+  (c) send an infringement notice, or a copy of an infringement notice, to a person by post addressed to the person at the person's last known place of residence or business.
 (3) For the purposes of the Summary Proceedings Act 1957—
-  (a) Where an infringement notice, or a copy of an infringement notice, is attached to the weight, measure, weighing or measuring instrument, or goods to which the notice relates pursuant to subsection (2)(a) of this section, the notice or copy shall be deemed to have been served on every person liable in respect of the alleged offence and to have been served when the notice or copy was attached to the weight, measure, weighing or measuring instrument, or goods:
-  (b) Where an infringement notice, or a copy of an infringement notice, is sent to a person by post addressed to the person at the person's last known place of residence or business pursuant to subsection (2)(c) of this section, the notice or copy shall be deemed to have been served on the person when it was so posted.
+  (a) where an infringement notice, or a copy of an infringement notice, is attached to the weight, measure, weighing or measuring instrument, or goods to which the notice relates pursuant to subsection (2)(a), the notice or copy shall be deemed to have been served on every person liable in respect of the alleged offence and to have been served when the notice or copy was attached to the weight, measure, weighing or measuring instrument, or goods:
+  (b) where an infringement notice, or a copy of an infringement notice, is sent to a person by post addressed to the person at the person's last known place of residence or business pursuant to subsection (2)(c), the notice or copy shall be deemed to have been served on the person when it was so posted.
 
 ### 32B Form and content of infringement notice
 (1) Every infringement notice shall be in a form prescribed by regulations made under this Act, and shall contain the following particulars:
-  (a) Such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
-  (b) The amount of the infringement fee specified in respect of that offence in section 33A of this Act; and
-  (c) The address of the place at which the infringement fee may be paid; and
-  (d) The time within which the infringement fee may be paid; and
-  (e) A summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
-  (f) A statement of the right of the person served with the notice to request a hearing; and
-  (g) A statement of the consequences if the person served with the notice does not pay the infringement fee and does not make a request for a hearing; and
-  (h) Such other particulars as are prescribed.
+  (a) such details of the alleged infringement offence as are sufficient fairly to inform a person of the time, place, and nature of the alleged offence; and
+  (b) the amount of the infringement fee specified in respect of that offence in section 33A; and
+  (c) the address of the place at which the infringement fee may be paid; and
+  (d) the time within which the infringement fee may be paid; and
+  (e) a summary of the provisions of section 21(10) of the Summary Proceedings Act 1957; and
+  (f) a statement of the right of the person served with the notice to request a hearing; and
+  (g) a statement of the consequences if the person served with the notice does not pay the infringement fee and does not make a request for a hearing; and
+  (h) such other particulars as are prescribed.
 (2) Different forms of infringement notice may be prescribed in respect of different kinds of infringement offences.
 
 ### 32C Payment of infringement fees
-All infringement fees shall be payable to the Secretary, and all such fees received by the Secretary shall be paid into the Crown Bank Account.
+All infringement fees shall be payable to the Secretary, and all such fees received by the Secretary shall be paid into a Crown Bank Account.
 
 ### 33 Penalties
 (1) Every person who commits an offence against this Act shall be liable on summary conviction,—
-  (a) In the case of an offence against section 32(a) of this Act, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000:
-  (b) In the case of an offence against any of the provisions of paragraphs (aa), (b), (c), (e), (f), (fa), (g), (h), (i), (j), (k), and (l) of section 32 of this Act, to a fine not exceeding $10,000, and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day on which the offence has continued:
-  (c) In every other case (other than the case of an infringement offence) to a fine not exceeding $5,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day on which the offence has continued.
+  (a) in the case of an offence against section 32(a), to imprisonment for a term not exceeding 3 months or to a fine not exceeding $10,000:
+  (b) in the case of an offence against any of the provisions of paragraphs (aa), (b), (c), (e), (f), (fa), (g), (h), (i), (j), (k), and (l) of section 32, to a fine not exceeding $10,000, and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day on which the offence has continued:
+  (c) in every other case (other than the case of an infringement offence) to a fine not exceeding $5,000, and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day on which the offence has continued.
 (2) Every person who commits an infringement offence shall, on being found guilty of, or on pleading guilty to, the offence, be liable to a fine not exceeding $5,000.
 
 ### 33A Infringement fee
 The infringement fee for an infringement offence is,—
-  (a) In the case of an infringement offence against section 16, section 16A section 17, or section 24, $500; or
-  (b) In the case of an infringement offence against section 10, section 14, section 15, section 21, or against any regulations made under this Act that is prescribed as an infringement offence, $200.
+  (a) in the case of an infringement offence against section 16, section 16A, section 17, or section 24, $500; or
+  (b) in the case of an infringement offence against section 10, section 14, section 15, section 21, or against any regulations made under this Act that is prescribed as an infringement offence, $200.
 
 ### 34 Forfeitures
-(1) Where any person is convicted of an offence against this Act or any regulations made under this Act, the convicting Court may, in addition to, or instead of, imposing any other sentence or making any other order, order that any weight, measure, weighing or measuring instrument, or goods in respect of which the offence was committed shall be forfeited to the Crown.
-(2) Any weight, measure, weighing or measuring instrument, or goods ordered, under subsection (1) of this section, to be forfeited to the Crown—
-  (a) Shall thereupon become forfeited to the Crown accordingly; and
-  (b) May be disposed of in such manner as the Secretary directs.
+(1) Where any person is convicted of an offence against this Act or any regulations made under this Act, the convicting court may, in addition to, or instead of, imposing any other sentence or making any other order, order that any weight, measure, weighing or measuring instrument, or goods in respect of which the offence was committed shall be forfeited to the Crown.
+(2) Any weight, measure, weighing or measuring instrument, or goods ordered, under subsection (1), to be forfeited to the Crown—
+  (a) shall thereupon become forfeited to the Crown accordingly; and
+  (b) may be disposed of in such manner as the Secretary directs.
 
 ### 35 Court may order offender to make good any deficiency
-Where any person is convicted of any offence against section 16 or section 16A or section 17 of this Act, the convicting Court, in addition to, or instead of, imposing any other sentence or making any other order, may order the convicted person,—
+Where any person is convicted of any offence against section 16 or section 16A or section 17, the convicting court, in addition to, or instead of, imposing any other sentence or making any other order, may order the convicted person,—
   (a) if the offence was committed against section 16, to make good to the person in respect of whom the offence was committed (other than an Inspector), either in goods or in money, the deficiency between the quantity of goods actually delivered and that charged for or purported to be sold; or
   (aa) if the offence was committed against section 16A, to make good to the person in respect of whom the offence was committed (other than an Inspector), either in goods or in money, the deficiency between the quantity of goods actually delivered and that stated on the package or label; or
-  (b) Where the offence was committed against section 17 of this Act, to make good to the person (other than an Inspector) in respect of whom the offence was committed, the deficiency between the quantity of goods actually purchased and that which the convicted person contracted to purchase.
+  (b) where the offence was committed against section 17, to make good to the person (other than an Inspector) in respect of whom the offence was committed, the deficiency between the quantity of goods actually purchased and that which the convicted person contracted to purchase.
 
 ### 36 Proceedings in relation to offences
 (1) Proceedings for an offence against this Act—
-  (a) Shall be taken only on the information of an Inspector; and
-  (b) May be conducted by any barrister or solicitor or Inspector, or, with the leave of a District Court Judge, by any other person.
+  (a) shall be taken only on the information of an Inspector; and
+  (b) may be conducted by any barrister or solicitor or Inspector, or, with the leave of a District Court Judge, by any other person.
 (2) In any proceedings for an offence against this Act an Inspector who lays an information in respect of any offence shall not be called on to prove that the person is an Inspector.
 
 ### 37 Presumption as to possession of weights, measures, etc, for use for trade
@@ -501,60 +499,60 @@ Where any weight, measure, or weighing or measuring instrument is found in the p
 
 ### 38 Act not to apply to water, electricity, or gas
 Nothing in this Act applies to the measurement or sale of—
-  (a) Water supplied through pipes; or
-  (b) Electricity; or
-  (c) Gas (other than liquefied petroleum gas) supplied through pipes.
+  (a) water supplied through pipes; or
+  (b) electricity; or
+  (c) gas (other than liquefied petroleum gas that is in a liquid form) supplied through pipes.
 
 ### 39 Restoration of articles seized
-On application by way of originating application, a District Court Judge may make such order as that Judge thinks just and expedient for the restoration of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6) of this Act to the person who, in the Court's opinion, is entitled to possession thereof.
+On application by way of originating application, a District Court Judge may make such order as that Judge thinks just and expedient for the restoration of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6) to the person who, in the court's opinion, is entitled to possession thereof.
 
 ### 40 Disposal of articles seized
-(1) Without limiting the operation of any other provision of this Act as to the disposal of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6) of this Act, any such weight, measure, weighing or measuring instrument, or goods that has or have been detained for not less than 12 months may be disposed of in such manner as the Chief Inspector may direct.
-(1A) Notwithstanding anything in subsection (1) of this section, any perishable goods seized and detained pursuant to section 28(6) of this Act may be disposed of at any time in such manner as the Secretary may direct.
-(2) Nothing in this section limits the authority of a District Court Judge to make an order for the restoration of any such weight, measure, weighing or measuring instrument, or any such goods on application made under section 39 of this Act.
+(1) Without limiting the operation of any other provision of this Act as to the disposal of any weight, measure, weighing or measuring instrument, or goods seized and detained pursuant to section 28(6), any such weight, measure, weighing or measuring instrument, or goods that has or have been detained for not less than 12 months may be disposed of in such manner as the Chief Inspector may direct.
+(1A) Notwithstanding anything in subsection (1), any perishable goods seized and detained pursuant to section 28(6) may be disposed of at any time in such manner as the Secretary may direct.
+(2) Nothing in this section limits the authority of a District Court Judge to make an order for the restoration of any such weight, measure, weighing or measuring instrument, or any such goods on application made under section 39.
 
 ### 40A Compensation for loss of perishable goods
-(1) Where—the Court may make such order as the Court thinks just and expedient for the payment by the Crown, to the applicant, of reasonable compensation for the loss of those goods.
-  (a) Any perishable goods are seized and detained pursuant to section 28(6) of this Act; and
-  (b) Those goods are disposed of pursuant to section 40(1A) of this Act; and
-  (c) On application by way of originating application, by any person having an interest in the goods, a District Court finds that there were no reasonable grounds for that seizure and detention,—
-(2) The Court shall not make any order under subsection (1) of this section for the payment of compensation to any person in respect of any goods unless the Court is satisfied that the goods were disposed of before that person had a reasonable opportunity to make an application under section 39 of this Act in respect of the goods.
+(1) Where—the court may make such order as the court thinks just and expedient for the payment by the Crown, to the applicant, of reasonable compensation for the loss of those goods.
+  (a) any perishable goods are seized and detained pursuant to section 28(6); and
+  (b) those goods are disposed of pursuant to section 40(1A); and
+  (c) on application by way of originating application, by any person having an interest in the goods, a District Court finds that there were no reasonable grounds for that seizure and detention,—
+(2) The court shall not make any order under subsection (1) for the payment of compensation to any person in respect of any goods unless the court is satisfied that the goods were disposed of before that person had a reasonable opportunity to make an application under section 39 in respect of the goods.
 
 ### 41 Regulations
 The Governor-General may, from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Defining the duties of the Secretary and of Inspectors under this Act:
-  (b) Regulating the issuing of certificates of accuracy, and the cancellation of such certificates; prescribing the class or classes of weights, measures, and weighing or measuring instruments in respect of which certificates of accuracy may be issued; and prescribing the period for which certificates of accuracy are to be in force (which period may differ for different classes of weights, measures, and weighing or measuring instruments):
-  (c) Regulating the verifying, inspection, and stamping of weights, measures, and weighing or measuring instruments, and prescribing the manner in which and the means by which such verification, inspection, and stamping shall be done:
-  (d) Prescribing the maximum amount of error that may be tolerated in weights, measures, and weighing or measuring instruments:
-  (e) Prescribing the numerical values of weight or measurement to be adhered to in weights or measures or both:
-  (f) Prescribing the shapes, dimensions, and proportions to be adhered to in weights, measures, and weighing or measuring instruments, and the materials of which they shall be made:
-  (g) Exempting or providing for the exemption of weights, measures, and weighing or measuring instruments from the requirements of this Act with regard to stamping with marks of verification:
-  (h) Providing for the approval by the Secretary of the types of weights, measures, and weighing or measuring instruments which may be stamped with marks of verification under this Act; for the specifying by the Secretary of conditions subject to which such weights, measures, and instruments may be approved, and for the variation or withdrawal of any such approval:
-  (i) Limiting the purposes for which certain weights, measures, and weighing or measuring instruments may lawfully be used:
-  (j) Prescribing the accuracy class of certain weights, measures, and weighing or measuring instruments to be used for trade:
-  (k) Prohibiting the use of any particular kind or kinds of weights, measures, or weighing or measuring instruments, either wholly or except in compliance with the conditions set by the Secretary or set out in the regulations:
-  (l) Exempting any weights or class of weights from the provisions of section 19(1) of this Act:
-  (m) Prescribing the manner in which weights and measures shall be marked with their units of weight or measurement, and the numerical value of that unit, and weighing or measuring instruments with their capacities and other markings:
-  (n) Regulating the obliteration of stamps on weights, measures, and weighing or measuring instruments found to be incorrect or not in accordance with this Act or regulations made under this Act:
-  (o) Prescribing the classes of weights to be used on certain kinds of weighing instruments:
-  (p) Providing for the periodic inspection of public weighing instruments, and generally providing for their supervision and control:
-  (q) Regulating the taking of tare weights of any vehicle used for the conveyance of goods sold or carried by weight; the issue and production of tickets showing such weight, or the weight of the loading on such vehicle, or the weight of the loading and the vehicle; providing for such weighing by an Inspector, and for preventing frauds in connection with goods conveyed on vehicles and sold or carried by weight:
-  (r) Regulating the use of liquid measuring instruments and the form and content of tickets showing the volume of any substance that has passed through any such instrument:
-  (s) Regulating the recording of the weight of any goods at the time those goods are weighed:
-  (t) Prohibiting the sale or keeping for sale of any class or description of bread, except at the weights specified in and determined in accordance with the regulations, and determining for the purposes of regulations made under this paragraph what is to be treated as selling or keeping for sale:
-  (u) With respect to the sale of milk, cream, and oil in bottles and other containers, prescribing—
-    (i) The size and capacity of such containers:
-    (ii) The markings to be made on such containers to indicate their capacity and ownership and otherwise to identify them for any purpose, and how such markings shall be made:
-    (iii) The means and manner of testing the capacity of such containers, including the testing by sample of any glass bottles manufactured in batches; and empowering Inspectors to require the destruction of the whole or any part of any batch of glass bottles so tested where any sample from any batch is found not to comply with the requirements of any regulations made under this paragraph:
-  (ua) Regulating the marking and labelling of quantity on any food, and on any package containing food, that is for sale:
-  (v) Prescribing the method of marking on goods their weight or measure:
-  (w) Prescribing goods or classes of goods to be sold by weight or volume or length and regulating the sale of such goods:
-  (x) Exempting any goods or class of goods from the provisions of section 12 or section 13 of this Act:
-  (xa) Prescribing the requirements for accreditation as an accredited person:
-  (y) Prescribing forms of certificates, notices (including infringement notices), and registers, and such other forms as may be required for the purposes of this Act:
-  (ya) Prescribing infringement offences in respect of the contravention of or non-compliance with any regulations made under this Act:
-  (z) Prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and prescribing the amounts of the fines that may be imposed in respect of such offences, which fines shall be an amount not exceeding $2,000:
-  (za) Providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
+  (a) defining the duties of the Secretary and of Inspectors under this Act:
+  (b) regulating the issuing of certificates of accuracy, and the cancellation of such certificates; prescribing the class or classes of weights, measures, and weighing or measuring instruments in respect of which certificates of accuracy may be issued; and prescribing the period for which certificates of accuracy are to be in force (which period may differ for different classes of weights, measures, and weighing or measuring instruments):
+  (c) regulating the verifying, inspection, and stamping of weights, measures, and weighing or measuring instruments, and prescribing the manner in which and the means by which such verification, inspection, and stamping shall be done:
+  (d) prescribing the maximum amount of error that may be tolerated in weights, measures, and weighing or measuring instruments:
+  (e) prescribing the numerical values of weight or measurement to be adhered to in weights or measures or both:
+  (f) prescribing the shapes, dimensions, and proportions to be adhered to in weights, measures, and weighing or measuring instruments, and the materials of which they shall be made:
+  (g) exempting or providing for the exemption of weights, measures, and weighing or measuring instruments from the requirements of this Act with regard to stamping with marks of verification:
+  (h) providing for the approval by the Secretary of the types of weights, measures, and weighing or measuring instruments which may be stamped with marks of verification under this Act; for the specifying by the Secretary of conditions subject to which such weights, measures, and instruments may be approved, and for the variation or withdrawal of any such approval:
+  (i) limiting the purposes for which certain weights, measures, and weighing or measuring instruments may lawfully be used:
+  (j) prescribing the accuracy class of certain weights, measures, and weighing or measuring instruments to be used for trade:
+  (k) prohibiting the use of any particular kind or kinds of weights, measures, or weighing or measuring instruments, either wholly or except in compliance with the conditions set by the Secretary or set out in the regulations:
+  (l) exempting any weights or class of weights from the provisions of section 19(1):
+  (m) prescribing the manner in which weights and measures shall be marked with their units of weight or measurement, and the numerical value of that unit, and weighing or measuring instruments with their capacities and other markings:
+  (n) regulating the obliteration of stamps on weights, measures, and weighing or measuring instruments found to be incorrect or not in accordance with this Act or regulations made under this Act:
+  (o) prescribing the classes of weights to be used on certain kinds of weighing instruments:
+  (p) providing for the periodic inspection of public weighing instruments, and generally providing for their supervision and control:
+  (q) regulating the taking of tare weights of any vehicle used for the conveyance of goods sold or carried by weight; the issue and production of tickets showing such weight, or the weight of the loading on such vehicle, or the weight of the loading and the vehicle; providing for such weighing by an Inspector, and for preventing frauds in connection with goods conveyed on vehicles and sold or carried by weight:
+  (r) regulating the use of liquid measuring instruments and the form and content of tickets showing the volume of any substance that has passed through any such instrument:
+  (s) regulating the recording of the weight of any goods at the time those goods are weighed:
+  (t) prohibiting the sale or keeping for sale of any class or description of bread, except at the weights specified in and determined in accordance with the regulations, and determining for the purposes of regulations made under this paragraph what is to be treated as selling or keeping for sale:
+  (u) with respect to the sale of milk, cream, and oil in bottles and other containers, prescribing—
+    (i) the size and capacity of such containers:
+    (ii) the markings to be made on such containers to indicate their capacity and ownership and otherwise to identify them for any purpose, and how such markings shall be made:
+    (iii) the means and manner of testing the capacity of such containers, including the testing by sample of any glass bottles manufactured in batches; and empowering Inspectors to require the destruction of the whole or any part of any batch of glass bottles so tested where any sample from any batch is found not to comply with the requirements of any regulations made under this paragraph:
+  (ua) regulating the marking and labelling of quantity on any food, and on any package containing food, that is for sale:
+  (v) prescribing the method of marking on goods their weight or measure:
+  (w) prescribing goods or classes of goods to be sold by weight or volume or length and regulating the sale of such goods:
+  (x) exempting any goods or class of goods from the provisions of section 12 or section 13:
+  (xa) prescribing the requirements for accreditation as an accredited person:
+  (y) prescribing forms of certificates, notices (including infringement notices), and registers, and such other forms as may be required for the purposes of this Act:
+  (ya) prescribing infringement offences in respect of the contravention of or non-compliance with any regulations made under this Act:
+  (z) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and prescribing the amounts of the fines that may be imposed in respect of such offences, which fines shall be an amount not exceeding $2,000:
+  (za) providing for such matters as are contemplated by or necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 41A Regulations for purposes of section 16A(3)
 (1) The Governor-General may from time to time, on the recommendation of the Minister, by Order in Council, make regulations for the purposes of section 16A(3)—
@@ -575,22 +573,22 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 
 ### 42 Fees
 (1) The Governor-General may from time to time, by Order in Council, make regulations prescribing the amounts of the fees to be paid in respect of the following matters, or prescribing the method by which any such fee is to be assessed:
-  (a) Applications for accreditation as an accredited person:
-  (b) Applications for the amendment of letters of accreditation:
-  (c) Applications for the renewal of letters of accreditation:
-  (d) Applications for approval, by the Secretary, of weights, measures, and weighing or measuring instruments pursuant to regulations made under section 41(h) of this Act.
+  (a) applications for accreditation as an accredited person:
+  (b) applications for the amendment of letters of accreditation:
+  (c) applications for the renewal of letters of accreditation:
+  (d) applications for approval, by the Secretary, of weights, measures, and weighing or measuring instruments pursuant to regulations made under section 41(h).
 (2) Without limiting the power of an Inspector to charge a fee in any other circumstances, an Inspector may charge a fee in respect of—
-  (a) The stamping of any weight, measure, or weighing or measuring instrument:
-  (b) The issuing of a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument.
-(3) Any fee charged pursuant to subsection (2) of this section shall not exceed such amount as may be reasonable, having regard to the time spent, and the materials and equipment used, in examining and testing the weight, measure, or weighing or measuring instrument for the purpose of determining whether it should be stamped or, as the case may be, whether a certificate of accuracy should be issued.
-(4) Every fee imposed pursuant to subsection (1) of this section, and every fee charged pursuant to subsection (2) of this section, shall be recoverable in any Court of competent jurisdiction as a debt due to the Crown.
+  (a) the stamping of any weight, measure, or weighing or measuring instrument:
+  (b) the issuing of a certificate of accuracy in respect of any weight, measure, or weighing or measuring instrument.
+(3) Any fee charged pursuant to subsection (2) shall not exceed such amount as may be reasonable, having regard to the time spent, and the materials and equipment used, in examining and testing the weight, measure, or weighing or measuring instrument for the purpose of determining whether it should be stamped or, as the case may be, whether a certificate of accuracy should be issued.
+(4) Every fee imposed pursuant to subsection (1), and every fee charged pursuant to subsection (2), shall be recoverable in any court of competent jurisdiction as a debt due to the Crown.
 
 ### 43 Repeals, revocations, and consequential amendments
-(1) The enactments specified in Part 1 of Schedule 3 to this Act are hereby repealed.
-(2) The regulations and Orders in Council specified in Part 2 of Schedule 3 to this Act are hereby revoked.
+(1) The enactments specified in Part 1 of Schedule 3 are hereby repealed.
+(2) The regulations and Orders in Council specified in Part 2 of Schedule 3 are hereby revoked.
 (3) The Weights and Measures (Milk Packaging) Notice 1986 (SR 1986/268) is hereby revoked.
 (4)
-(5) Section 197 of the Transport Act 1962 is hereby amended by omitting from subsection (5) (as substituted by section 24 of the Transport Amendment Act (No 2) 1985) the words the Weights and Measures Act 1925, and substituting the words the Weights and Measures Act 1987.
+(5) Amendment(s) incorporated in the Act(s).
 (6)
 (7)
 
@@ -599,49 +597,49 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 | Unit | Equivalent |
 | --- | --- |
 | Metre (m) | The New Zealand standard of measure of the metre, and compound units derived from it, shall be the same magnitude as the standard of measurement thereof for the time being accepted by the nations adhering to the Convention of the Metre 1875. |
-| Derived Units |  |
-| Kilometre (km) | 1000 metres |
+| Derived units |  |
+| Kilometre (km) | 1 000 metres |
 | Decimetre (dm) | 0.1 metre |
 | Centimetre (cm) | 0.01 metre |
 | Millimetre (mm) | 0.001 metre |
 
 | Unit | Equivalent |
 | --- | --- |
-| Square metre (m2) | An area equal to that of a square each side of which measures one metre. |
-| Derived Units |  |
-| Hectare (ha) | 10000 square metres |
-| Acre(a) | 100 square metres |
+| Square metre (m2) | An area equal to that of a square each side of which measures 1 metre. |
+| Derived units |  |
+| Hectare (ha) | 10 000 square metres |
+| Are (a) | 100 square metres |
 | Square centimetre (cm2) | 0.0001 square metre |
 | Square millimetre (mm2) | 0.000001 square metre |
 
 | Unit | Equivalent |
 | --- | --- |
-| Cubic metre (m3) | A volume equal to that of a cube each edge of which measures one metre. |
+| Cubic metre (m3) | A volume equal to that of a cube each edge of which measures 1 metre. |
 | Derived units |  |
-| Cubic decimetre(dm3) | 0.001 cubic metre |
-| Cubic centimetre(cm3) | 0.001 cubic decimetre |
-| Litre (l) | 0.001 cubic metre |
-| Hectolitre(hl) | 100 litres |
-| Centilitre(cl) | 0.01 litres |
+| Cubic decimetre (dm3) | 0.001 cubic metre |
+| Cubic centimetre (cm3) | 0.001 cubic decimetre |
+| Litre (ℓ) | 0.001 cubic metre |
+| Hectolitre (hl) | 100 litres |
+| Centilitre (cl) | 0.01 litre |
 | Millilitre (ml) | 0.001 litre |
-| Cord | 3.6m3 |
 
 | Unit | Equivalent |
 | --- | --- |
 | Kilogram (kg) | The New Zealand standard of measurement of the kilogram, and compound units derived from it, shall be the same magnitude as the standard of measurement thereof for the time being accepted by the nations adhering to the Convention of the Metre 1875. |
-| Derived Units |  |
-| Tonne (t) | 1000 kilograms |
+| Derived units |  |
+| Tonne (t) | 1 000 kilograms |
 | Gram (g) | 0.001 kilogram |
 | Milligram (mg) | 0.001 gram |
+| Metric carat (CM) | 0.2 gram |
 
 ## Schedule 2 — Standards of weights and measures
 
-| 100 metres | 3 metres | 100 millimetres |
+| 100 metres | 3 metres | 200 millimetres |
 | --- | --- | --- |
-| 50 metres | 2 metres | 50 millimetres |
-| 20 metres | 1 metre | 20 millimetres |
-| 10 metres | 500 millimetres | 10 millimetres |
-| 5 metres | 300 millimetres |  |
+| 50 metres | 2 metres | 100 millimetres |
+| 20 metres | 1 metre | 50 millimetres |
+| 10 metres | 500 millimetres | 20 millimetres |
+| 5 metres | 300 millimetres | 10 millimetres |
 
 | Measures of or any multiple of 1 square decimetre. |
 | --- |
@@ -657,7 +655,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 | 600 millilitres, 300 millilitres, and 150 millilitres only for use for testing milk and cream bottles. |  |  |
 | Measures of any multiple of 1 cubic decimetre in cubic form. |  |  |
 
-| 1000 kilograms | 500 grams | 500 milligrams |
+| 1 000 kilograms | 500 grams | 500 milligrams |
 | --- | --- | --- |
 | 500 kilograms | 200 grams | 400 milligrams |
 | 200 kilograms | 100 grams | 300 milligrams |
@@ -685,14 +683,3 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
 | 2 Carats Metric | 0.01 Carat Metric |
 
 ## Schedule 3
-
-| Title | Statutory Regulations Serial Number |
-| --- | --- |
-| The Weights and Measures Metric Equivalents Order 1972 | 1972/186 |
-| The Weights and Measures Metric Equivalents Order 1972, Amendment No 1 | 1976/259 |
-| The Metrication (Retail Trading) Regulations 1978 | 1978/81 |
-| The Metrication (Retail Trading) Regulations 1978, Amendment No 1 | 1978/266 |
-| The Metrication (Retail Trading) Regulations 1978, Amendment No 2 | 1980/126 |
-| The Metrication (Retail Trading) Regulations 1978, Amendment No 3 | 1983/279 |
-| The Metrication (Retail Trading) Regulations 1978, Amendment No 6 | 1986/92 |
-| The Metrication (Retail Trading) Regulations 1978, Amendment No 7 | 1986/244 |
