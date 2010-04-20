@@ -1,5 +1,5 @@
 # Designs Act 1953
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-04-20_
 
 > An Act to consolidate and amend certain enactments relating to designs
 
@@ -376,6 +376,9 @@ Where by this Act any act has to be done by or to any person in connection with 
   (a) For regulating the business of the Patent Office in relation to designs:
   (b) For regulating all matters by this Act placed under the direction or control of the Commissioner:
   (c) For prescribing the form of applications for registration of designs and of any representations or specimens of designs or other documents which may be filed at the Patent Office, and for requiring copies to be furnished of any such representations, specimens, or documents:
+  (ca) for prescribing the manner in which applications may be made under section 12(2):
+  (cb) for regulating the procedure to be followed in connection with a request to the Commissioner under sections 41A to 41F (including providing for when and how requests must be made, the period for giving notice of opposition, penalties payable under section 41F, and the matters referred to in section 41F(2)(b)):
+  (cc) for regulating the procedure to be followed in connection with a request to the Commissioner under sections 41G to 41J (including providing for when and how requests must be made, the period for giving notice of opposition, and the matters referred to in section 41J(2)):
   (d) For regulating the procedure to be followed in connection with any application or request to the Commissioner or in connection with any proceeding before the Commissioner and for authorising the rectification of irregularities of procedure:
   (e) For regulating the keeping of the register of designs:
   (f) For authorising the publication and sale of copies of representations of designs and other documents in the Patent Office:
