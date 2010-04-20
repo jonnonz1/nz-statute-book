@@ -1,5 +1,5 @@
 # Gas Act 1992
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-04-20_
 
 > An Act to make better provision for the regulation, supply, and use of gas [and the gas industry] in New Zealand, and to repeal the Gas Act 1982
 
@@ -26,7 +26,7 @@ _Consolidation as at 2010-04-01_
     (b) does not include any gas producer or any gas distributor or gas retailer, except where the gas producer or, as the case may be, the gas distributor or gas retailer is supplied, or applies to be supplied, with gas for its own consumption and not for the purposes of resupply to any other person
   - **container** does not include a pipe
   - **corporation** means the Natural Gas Corporation of New Zealand Limited
-  - **distribution system** means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—to the outlet of the gas measurement system of the place at which the gas is supplied to a consumer or gas refueller (or, where no such gas measurement system is provided, to the custody transfer point of the place at which the gas is supplied to a consumer or gas refueller); and, for the purposes of any regulations made under section 54 of this Act relating to odorisation or the measurement of calorific value, includes a gas transmission system
+  - **distribution system** means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from— to the outlet of the gas measurement system of the place at which the gas is supplied to a consumer or gas refueller (or, where no such gas measurement system is provided, to the custody transfer point of the place at which the gas is supplied to a consumer or gas refueller); and, for the purposes of any regulations made under section 54 of this Act relating to odorisation or the measurement of calorific value, includes a gas transmission system
     (a) the boundary of the gasworks or gate station outlet flange supplying gas for distribution; or
     (b) the outlet of the container in which gas for distribution is stored—
   - **document** has the same meaning as in section 2(1) of the Official Information Act 1982
@@ -113,6 +113,7 @@ _Consolidation as at 2010-04-01_
   (f) any gas appliance designed to be fuelled exclusively from a container not exceeding 120 millilitres in capacity:
   (g) any container used, or designed or intended to be used, for the storage of gas:
   (h) any liquefied petroleum gas that is in a liquid form and is in a pipe.
+(3) Despite subsection (2)(d), that paragraph does not apply in relation to Part 4A and, accordingly, Part 4A applies to any gas used as a feedstock.
 
 ### 4 Act to bind the Crown
 This Act binds the Crown.
@@ -168,7 +169,7 @@ The functions of the Secretary under this Act are—
 (2) The Secretary may at any time, by notice in writing, require any gas wholesaler, gas distributor, gas retailer, or consumer—
   (a) to replace any gas measurement system, or any part of any gas measurement system, that is owned by that gas wholesaler, gas distributor, gas retailer, or consumer and that is part of a distribution system or a gas installation; and
   (b) to deliver the replaced gas measurement system or part for inspection and testing.
-(3) Where the Secretary believes on reasonable grounds in respect of any place—the Secretary may do all such things, and require any person to refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.
+(3) Where the Secretary believes on reasonable grounds in respect of any place— the Secretary may do all such things, and require any person to refrain from doing all such things, as the Secretary considers necessary to remove or minimise the danger or potential danger.
   (a) that there is a danger or potential danger to the safety of any persons or property arising directly or indirectly from the presence or escape of any gas; or
   (b) that, because of anything done or omitted to be done, or intended to be done or not to be done, by any person, there would be a danger or potential danger to any persons or property should any gas be present or escape,—
 (4) This section shall apply notwithstanding anything to the contrary in section 52 of the Government Roading Powers Act 1989.
@@ -362,10 +363,10 @@ Any existing fittings, lawfully fixed to or lawfully installed over or under any
 (3) Where any person requires any work to be done under section 33(1) of this Act, no claim by or against that person for betterment shall be allowed in respect of that work.
 (4) Where a controlling authority within the meaning of section 54(1) of the Government Roading Powers Act 1989 requires any work to be done under section 33(1) of this Act in relation to any fittings, subsections (1) to (3) of this section shall apply subject to the following provisions:
   (a) in all cases the cost of materials (being fittings) that are used in the carrying out of the required work (other than fittings used only during the course of construction) shall be paid by the owner of the fittings:
-  (b) where—an amount equal to the amount by which the cost, to the controlling authority, of that construction or those alterations, as the case requires, is so increased shall be paid to the controlling authority by the owner of the fittings:
+  (b) where— an amount equal to the amount by which the cost, to the controlling authority, of that construction or those alterations, as the case requires, is so increased shall be paid to the controlling authority by the owner of the fittings:
     (i) as a consequence of the requirement, the owner of the fittings elects to fix fittings to, or install fittings over, under, or through, a roading structure that is being, or is to be, constructed or altered; and
     (ii) the cost of that construction or those alterations is increased by reason that those fittings will be fixed to, or installed over, under, or through, that roading structure,—
-  (c) where, as a consequence of the requirement, the owner of the fittings relocates the fittings and reconstructs them to specifications different from those of the original fittings, the owner of the fittings shall pay the difference between—where the amount calculated in accordance with subparagraph (i) of this paragraph is less than the amount calculated in accordance with subparagraph (ii) of this paragraph.
+  (c) where, as a consequence of the requirement, the owner of the fittings relocates the fittings and reconstructs them to specifications different from those of the original fittings, the owner of the fittings shall pay the difference between— where the amount calculated in accordance with subparagraph (i) of this paragraph is less than the amount calculated in accordance with subparagraph (ii) of this paragraph.
     (i) what it would have cost to relocate and reconstruct the fittings as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) of this subsection would have applied), taking into account—
       (A) any restrictions or conditions imposed by or under any enactment in relation to the relocation and reconstruction; and
       (B) the location of the original fittings and the alternatives reasonably available to the owner of the fittings; and
@@ -402,7 +403,7 @@ Sections 33 and 34 of this Act shall apply notwithstanding anything to the contr
 (4) The Secretary may issue any code of practice, issued in accordance with the Hazardous Substances and New Organisms Act 1996, as a gas code of practice under this Act.
 
 ### 38 Code may incorporate official standards by reference
-(1) The Secretary may include in any gas code of practice a reference to—if that official standard or, as the case may be, that part of that official standard relates to the subject-matter of the code.
+(1) The Secretary may include in any gas code of practice a reference to— if that official standard or, as the case may be, that part of that official standard relates to the subject-matter of the code.
   (a) an official standard or a specified part of an official standard; or
   (b) an official standard or a specified part of an official standard with such additions or variations as are specified in the code—
 (2) On the inclusion, in a code, of a reference to an official standard or part of an official standard, that official standard or, as the case may be, that part of that official standard (as it existed on the date of the inclusion but with such additions or variations (if any) as are specified in the code) shall be deemed to form part of the code.
@@ -464,7 +465,7 @@ The purpose of this Part is to provide for the governance of the gas industry.
 (6) This section is intended only as a guide to the general scheme and effect of this Part.
 
 ### 43C Outline of regulation-making powers
-(1) In this subpart, the principal regulation-making powers are as follows:Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipeline Regulations on retail and consumer issuesThey can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation).Regulations on wholesale markThey can be made only if—Regulations on gas processing facilities(a)an industry body is approved (and then only to implement the effect of a recommendation by that body); orRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline)(b)the Commission is established (and then only for transitional purposes or to implement the effect of a recommendation by the Commission).
+(1) In this subpart, the principal regulation-making powers are as follows: Type of regulationsHow they can be madeRegulations for terms and conditions of access to Maui pipeline Regulations on retail and consumer issues They can be made at any time, (whether or not the industry body has been approved, or the Commission is established, or has made a recommendation). Regulations on wholesale markThey can be made only if— Regulations on gas processing facilities (a)an industry body is approved (and then only to implement the effect of a recommendation by that body); orRegulations on transmission, and distribution of gas (other than on terms and conditions of access to Maui pipeline) (b)the Commission is established (and then only for transitional purposes or to implement the effect of a recommendation by the Commission).
 (2) This section is intended only as a guide to the general scheme and effect of the principal regulation-making powers in this Part.
 
 ### 43D Interpretation
@@ -477,7 +478,7 @@ In this Part, unless the context otherwise requires,—
   - **gas producer** means a person who supplies gas that is transmitted on gas transmission or distribution pipelines
   - **GPS objectives and outcomes** means objectives and outcomes set under section 43ZO
   - **industry body** means the body approved by Order in Council under section 43ZL
-  - **industry participant** means—but does not include the industry body or the Commission (even to the extent that the industry body or the Commission may be acting as a service provider after an appointment under gas governance regulations)
+  - **industry participant** means— but does not include the industry body or the Commission (even to the extent that the industry body or the Commission may be acting as a service provider after an appointment under gas governance regulations)
     (a) a gas retailer:
     (b) a gas distributor:
     (c) a gas producer:
@@ -510,7 +511,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 43F Gas governance regulations for wholesale market, processing facilities, transmission, and distribution of gas
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
-(2) The purposes are—Wholesale gas marketProcessing facilitiesTransmission and distribution of gas
+(2) The purposes are—Wholesale gas marketProcessing facilities Transmission and distribution of gas
   (a) providing for the establishment and operation of wholesale markets for gas, including for—
     (i) protocols and standards for reconciling and balancing gas:
     (ii) clearing, settling, and reconciling market transactions:
@@ -526,7 +527,7 @@ In this Part, unless the context otherwise requires,—
 
 ### 43G Other gas governance regulations
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister in accordance with sections 43I to 43P, make regulations for all or any of the purposes in subsection (2).
-(2) The purposes are—Complaints resolution systemPrepayment metersAbility of consumers to choose preferred gas retailerTransition arrangements for insolvent gas retailersDisclosure of informationTerms and conditions of accessInformation on customer accountsConsumer contractsDispute resolution proceduresEnforcement of gas governance regulationsProcesses
+(2) The purposes are—Complaints resolution system Prepayment meters Ability of consumers to choose preferred gas retailer Transition arrangements for insolvent gas retailersDisclosure of information Terms and conditions of access Information on customer accounts Consumer contractsDispute resolution procedures Enforcement of gas governance regulations Processes
   (a) providing for the establishment of, or participation by gas distributors and gas retailers in, a complaints resolution system (that may include codes of practice) for the purpose of addressing complaints by all or any of small consumers (including potential small consumers), or owners and occupiers of land into, through, or against which pipelines have been laid down or placed, relating to gas retailers and gas distributors, or setting out minimum requirements in relation to that system, including—
     (i) provision for compensation up to a maximum of $20,000 to be awarded, and other actions to be taken, by the complaints resolution agency in relation to those complaints:
     (ii) provision for rights of review, or rights of appeal on a question of law only, in relation to decisions relating to those complaints:
@@ -635,7 +636,7 @@ If there is a Commission, the Minister may recommend any gas governance regulati
 (2) The Commission or the Minister must advise the Commerce Commission as soon as practicable after making any recommendation for a gas governance regulation that is likely to affect any powers of the Commerce Commission under Part 4 or sections 70 to 72 of the Commerce Act 1986.
 
 ### 43P Urgent regulations
-Sections 43L and 43N (which relate to consultation and assessments) do not apply if the recommending body considers that it is necessary or desirable in the public interest that the proposed regulations be made urgently and, in this case, the recommendation must state that it is made in reliance on this section and then, within 6 months of those regulations being made,—and then, within a further 6 months, the Minister must make that recommendation.
+Sections 43L and 43N (which relate to consultation and assessments) do not apply if the recommending body considers that it is necessary or desirable in the public interest that the proposed regulations be made urgently and, in this case, the recommendation must state that it is made in reliance on this section and then, within 6 months of those regulations being made,— and then, within a further 6 months, the Minister must make that recommendation.
   (a) the recommending body must—
     (i) comply with sections 43L and 43N; and
     (ii) make a recommendation to the Minister on whether the regulations should be revoked, replaced, or amended; and
