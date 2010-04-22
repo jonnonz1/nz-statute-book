@@ -1,5 +1,5 @@
 # Biosecurity Amendment Act 2009
-_Consolidation as at 2009-12-07_
+_Consolidation as at 2010-04-22_
 
 ### 1 Title
 This Act is the Biosecurity Amendment Act 2009.
