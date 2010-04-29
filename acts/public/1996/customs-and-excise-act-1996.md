@@ -1,5 +1,5 @@
 # Customs and Excise Act 1996
-_Consolidation as at 2010-01-01_
+_Consolidation as at 2010-04-29_
 
 > An Act to—areform the law relating to customs, excise, and other duties; andbprovide for the administration and enforcement of Customs controls at the border; andcrepeal the Customs Act 1966; anddprovide for related matters
 
@@ -430,9 +430,9 @@ Section 150 applies to a CASE as if the area were a Customs controlled area; and
 (5) A Customs officer who proposes to give a direction under subsection (4) of this section shall consult with the Chief Executive or a person authorised by the Chief Executive.
 
 ### 24 Craft to arrive at nominated Customs place only
-(1) Subject to sections 21 and 25 of this Act, the person in charge of a craft—
+(1) Subject to sections 21 and 25, the person in charge of a craft—brought in that craft or any other craft from a point outside New Zealand—must ensure that the craft lands, anchors, or otherwise arrives only at a Customs place, which, in the case of a craft to which section 21 applies, shall be the Customs place nominated by that person in accordance with that section.
   (a) that arrives within New Zealand on a journey from a point outside New Zealand; or
-  (b) that is carrying—brought in that craft or any other craft from a point outside New Zealand—must ensure that the craft lands, anchors, or otherwise arrives only at a Customs place, which, in the case of a craft to which section 21 of this Act applies, shall be the Customs place nominated by that person in accordance with that section.
+  (b) that is carrying—
     (i) persons; or
     (ii) goods subject to the control of the Customs—
 (2) On arrival at the nominated Customs place or Customs controlled area within that place, and until an inward report in accordance with section 26 of this Act has been made, no person shall leave or board the craft unless authorised to do so by a Customs officer.
@@ -1354,14 +1354,14 @@ In this section and in sections 76B to 76G, unless the context otherwise require
 (2) The documents are—
   (a) the Excise and Excise-equivalent Duties Table as from time to time amended, modified, or revoked and replaced on or after 1 January 2010; and
   (b) the 2010 Excise and Excise-equivalent Duties Document; and
-  (c) Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, or 79A on or after 1 January 2010.
+  (c) Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, 79AA(2), or 79A on or after 1 January 2010.
 (3) Every version of the Excise and Excise-equivalent Duties Table referred to in subsection (2)(a) and published or made available under subsection (1) must—
   (a) indicate that it is that Table as in force at the beginning of a stated date; and
   (b) list all Acts and Orders in Council that are enacted on or after 1 January 2010 and before the stated date and that amend, modify, revoke, or revoke and replace some or all of that Table.
 (4) Nothing in section 76B or this section prevents the chief executive from ensuring that other information is published or made available with the Excise and Excise-equivalent Duties Table, so long as in doing so the chief executive ensures that it is indicated clearly that the other information does not form part of, or have legal effect as part of, that table.
 
 ### 76D Regulations (Disallowance) Act 1989 and Acts and Regulations Publication Act 1989
-Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, or 79A on or after 1 January 2010—
+Orders in Council amending or modifying the Excise and Excise-equivalent Duties Table and made under section 77, 78, 79, 79AA(2), or 79A on or after 1 January 2010—
   (a) are regulations for the purposes of the Regulations (Disallowance) Act 1989 and must be presented to the House of Representatives not later than 16 sitting days after the day on which they are made; but
   (b) are not regulations for the purposes of the Acts and Regulations Publication Act 1989.
 
@@ -1375,11 +1375,11 @@ Every copy of the documents referred to in section 76C(2) purporting to be publi
 
 ### 76G Table may be amended, and must be interpreted, as if it were an enactment
 (1) The Excise and Excise-equivalent Duties Table may be amended, revoked, or revoked and replaced by an Act of Parliament as if it were an Act of Parliament.
-(2) The Excise and Excise-equivalent Duties Table may be altered or amended by an Order in Council made under section 77, 78, 79, or 79A as if it were a regulation.
+(2) The Excise and Excise-equivalent Duties Table may be altered or amended by an Order in Council made under section 77, 78, 79, 79AA(2), or 79A as if it were a regulation.
 (3) The Interpretation Act 1999 applies to the Excise and Excise-equivalent Duties Table as if it were an enactment.
 (4) Nothing in this Act limits or affects the application of—
   (a) the Acts and Regulations Publication Act 1989 and the Interpretation Act 1999 to an Act amending, revoking, or revoking and replacing the Excise and Excise-equivalent Duties Table, this Act (either alone or with other enactments), or both; or
-  (b) the Interpretation Act 1999 to an Order in Council made under section 77, 78, 79, or 79A.
+  (b) the Interpretation Act 1999 to an Order in Council made under section 77, 78, 79, 79AA(2), or 79A.
 
 ### 76H References to Schedule 3
 Every reference in the following to Schedule 3 of this Act must be read as if it were a reference to the Excise and Excise-equivalent Duties Table (as defined by section 76A of this Act):
@@ -1418,6 +1418,14 @@ Every reference in the following to Schedule 3 of this Act must be read as if it
     (b) undenatured ethyl alcohol and other goods specified in headings 21.05, 21.06, 22.07, 33.02, 99.05, 99.06, 99.35, 99.42, and 99.43 of that table (also not being goods exempt from excise duty and excise-equivalent duty)
   - **tobacco products** means goods specified in headings 24.02, 24.03, 99.60, and 99.65 of the Excise and Excise-equivalent Duties Table.
 
+### 79AA Increases of 10% on 1 January 2011 and 2012 must be made in or by Excise and Excise-equivalent Duties Table (Tobacco Products Indexation or Other) Amendment Orders 2010 and 2011
+(1) An order under section 79(1), and that comes into force on 1 January 2011 or 1 January 2012, must be called an Excise and Excise-equivalent Duties Table (Tobacco Products Indexation and Separate 10% Increase) Amendment Order 2010, or 2011 (as the case requires), and must (despite section 79) impose on all tobacco products (as defined in section 79(4)) new rates of duties that not only—
+  (a) index existing rates of duties on those products (having regard to movements in the Consumers Price Index All Groups excluding credit services) in accordance with section 79(2) to (4); but also
+  (b) include a separate increase of 10% of those existing rates.
+(2) However, if subsection (1) cannot be complied with because no order is or is to be made under section 79(1) so as to come into force on 1 January 2011 or 1 January 2012, the Governor-General must, by an Order in Council made under this subsection, coming into force on that date, and called an Excise and Excise-equivalent Duties Table (Tobacco Products 10% Increase) Amendment Order 2010, or 2011 (as the case requires), amend the Excise and Excise-equivalent Duties Table by—
+  (a) omitting all existing rates of duties on all tobacco products (as defined in section 79(4)); and
+  (b) substituting new rates that include an increase of 10% of those existing rates.
+
 ### 79A Power to alter rates of excise duty and excise-equivalent duty on motor spirits by Order in Council
 (1) At any time during the second financial year, or the third financial year, that follows the financial year in which the current rates of excise duty and excise-equivalent duty on motor spirits came into force, the Governor-General may, by Order in Council, reduce or increase any or all of those rates of excise duty and excise-equivalent duty by amending the Excise and Excise-equivalent Duties Table.
 (2) In this section,—
@@ -1428,6 +1436,7 @@ Every reference in the following to Schedule 3 of this Act must be read as if it
 (1) This section applies to the following Orders in Council:
   (a) an Order in Council made under section 77(1); and
   (b) an Order in Council made under section 79(1); and
+  (ba) an Order in Council made under section 79AA(2); and
   (c) an Order in Council made under section 79A(1) that has the effect of increasing the rates of excise duty or excise-equivalent duty on motor spirits (as defined in section 79A(2)).
 (1A) An Order in Council to which this section applies must,—
   (a) if made on or before 30 June in any year, expire on the close of 31 December of that year except so far as it is expressly confirmed by Act of Parliament passed during that year; and
