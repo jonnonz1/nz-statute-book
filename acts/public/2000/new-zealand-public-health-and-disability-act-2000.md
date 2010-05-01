@@ -1,5 +1,5 @@
 # New Zealand Public Health and Disability Act 2000
-_Consolidation as at 2008-11-01_
+_Consolidation as at 2010-05-01_
 
 ### 1 Title
 This Act is the New Zealand Public Health and Disability Act 2000.
@@ -1122,8 +1122,7 @@ Amendment(s) incorporated in the Act(s).
 | West Coast DHB | Buller District, Grey District, Westland District |
 | Canterbury DHB | Kaikoura District, Hurunui District, Waimakariri District, Banks Peninsula District, Selwyn District, Christchurch City, Ashburton District |
 | South Canterbury DHB | Timaru District, Mackenzie District, Waimate District |
-| Otago DHB | Waitaki District, Queenstown-Lakes District (Wanaka Ward only), Central Otago District, Dunedin City, Clutha District |
-| Southland DHB | Southland District, Gore District, Invercargill City, Queenstown-Lakes District (Arrowtown and Queenstown Wakatipu Wards only) |
+| Southern DHB | Waitaki District, Central Otago District, Dunedin City, Clutha District, Southland District, Gore District, Invercargill City, Queenstown-Lakes District |
 
 ## Schedule 2 — Membership of boards: Election and appointment of members, and effect of boundary changes on membership
 
