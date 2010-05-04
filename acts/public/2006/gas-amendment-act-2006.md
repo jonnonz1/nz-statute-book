@@ -1,5 +1,5 @@
 # Gas Amendment Act 2006
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-05-04_
 
 ### 1 Title
 This Act is the Gas Amendment Act 2006.
@@ -15,7 +15,7 @@ This Act amends the Gas Act 1992.
 The Title is repealed.
 
 ### 5 New section 1A inserted
-The following section is inserted after section 1:Purposes
+The following section is inserted after section 1: Purposes
   The purposes of this Act are—
     (a) to provide for the regulation, supply, and use of gas in New Zealand; and
     (b) to provide for the regulation of the gas industry in New Zealand; and
@@ -23,7 +23,7 @@ The following section is inserted after section 1:Purposes
     (d) to promote the prevention of damage to property in connection with the supply and use of gas in New Zealand.
 
 ### 6 Interpretation
-(1) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order:.
+(1) Section 2(1) is amended by inserting the following definitions in their appropriate alphabetical order: .
   - **all practicable steps** , in relation to achieving any result in any circumstances, means all steps to achieve the result that it is reasonably practicable to take in the circumstances, having regard to—
     (a) the nature and severity of the serious harm or significant property damage that may be suffered if the result is not achieved; and
     (b) the current state of knowledge about the likelihood that harm or damage of that nature and severity will be suffered if the result is not achieved; and
@@ -35,16 +35,16 @@ The following section is inserted after section 1:Purposes
     (b) harm that incapacitates, or is likely to incapacitate, the person suffering harm for 48 hours or more; or
     (c) harm that incapacitates, or is likely to incapacitate, the person suffering harm due to the inhalation of carbon monoxide; or
     (d) harm of the kinds and descriptions that are serious harm under the Health and Safety in Employment Act 1992
-(2) Section 2(1) is amended by repealing the definition of distribution system and substituting the following definition:.
+(2) Section 2(1) is amended by repealing the definition of distribution system and substituting the following definition: .
   - **distribution system** —
     (a) means all fittings, whether above or below ground, under the control of a gas distributor and used to distribute gas from—
       (i) the boundary of the gasworks or gate station outlet flange supplying gas for distribution to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; or
       (ii) the outlet of the container in which gas for distribution is stored to the point of supply of the place at which the gas is supplied to a consumer or gas refueller; and
     (b) includes, for the purposes of any regulations made under section 54 relating to odorisation or the measurement of calorific value, a gas transmission system
 (3) Section 2(1) is amended by repealing the definition of gas inspector.
-(4) Section 2(1) is amended by repealing paragraph (a) of the definition of place and substituting the following paragraph:.
+(4) Section 2(1) is amended by repealing paragraph (a) of the definition of place and substituting the following paragraph: .
   (a) the whole or any part of any land, house, shop, factory, premises, or building:
-(5) Section 2(1) is amended by inserting, in their appropriate alphabetical order, the following definitions:.
+(5) Section 2(1) is amended by inserting, in their appropriate alphabetical order, the following definitions: .
   - **infringement fee** , in relation to an infringement offence, means the amount prescribed by regulations made under section 54 as the infringement fee for the offence
   - **infringement notice** means a notice given under section 57C
   - **infringement offence** means—
@@ -76,7 +76,7 @@ The following section is inserted after section 1:Purposes
     (b) section 25(3) of the Health and Safety in Employment Act 1992.
 
 ### 9 New section 17A inserted
-The following section is inserted after section 17:Transfer of accident information
+The following section is inserted after section 17: Transfer of accident information
   (1) The Secretary must, as soon as practicable after he or she is notified of an accident under section 17, provide the notice or information that has been given to the Secretary to—
     (a) the person who must be notified of the particulars of an accident under section 16(3) of the Electricity Act 1992 if the Secretary is of the opinion that section 16 of that Act applies to the accident; and
     (b) the person who must be notified of the occurrence of an accident under section 25(3) of the Health and Safety in Employment Act 1992 if the Secretary is of the opinion that section 25 of that Act applies to the accident.
@@ -87,7 +87,7 @@ The following section is inserted after section 17:Transfer of accident informat
 (2) Section 21(d) is amended by omitting report and substituting notify.
 
 ### 11 New sections 46A and 46B inserted
-The following sections are inserted after section 46:Owners or operators of gas supply systems must have safety management systemOffence to breach requirement to have safety management system
+The following sections are inserted after section 46: Owners or operators of gas supply systems must have safety management system Offence to breach requirement to have safety management system
   (1) Every person that owns or operates a gas supply system must implement and maintain, in accordance with regulations made under section 54, a safety management system that requires all practicable steps to be taken to prevent the gas supply system from presenting a significant risk of—
     (a) serious harm to any member of the public; or
     (b) significant damage to property owned by a person other than the person that owns or operates the gas supply system.
@@ -98,11 +98,11 @@ The following sections are inserted after section 46:Owners or operators of gas 
 Section 49 is repealed.
 
 ### 13 Regulations
-(1) Section 54(1) is amended by inserting the following paragraphs after paragraph (b):.
+(1) Section 54(1) is amended by inserting the following paragraphs after paragraph (b): .
   (bb) prescribing requirements for safety management systems:
   (bc) prescribing, for the purposes of sections 46A, 46B, and 54A, what distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system) and the circumstances and conditions in which any distribution systems, gas installations, fittings, and gas appliances are deemed to be or not to be a gas supply system (or part of a gas supply system):
 (2) Section 54(1)(s) is amended by omitting $10,000 and substituting $50,000.
-(3) Section 54(1) is amended by inserting the following paragraphs after paragraph (s):.
+(3) Section 54(1) is amended by inserting the following paragraphs after paragraph (s): .
   (sb) prescribing infringement offences:
   (sc) setting the infringement fee for each infringement offence, which,—
     (i) in the case of an individual, must not exceed $1,000; or
@@ -111,7 +111,7 @@ Section 49 is repealed.
   (se) prescribing, for the purposes of this Act, where the point of supply is deemed to be or not to be in relation to any place and the circumstances and conditions in which any point is deemed to be or not to be a point of supply:
 
 ### 14 New sections 54A and 54B inserted
-The following sections are inserted after section 54:Regulations that prescribe requirements for safety management systemsMiscellaneous provisions relating to regulations that prescribe requirements for safety management systems
+The following sections are inserted after section 54: Regulations that prescribe requirements for safety management systems Miscellaneous provisions relating to regulations that prescribe requirements for safety management systems
   (1) Regulations made under section 54(1)(bb) must provide for requirements relating to—
     (a) the systematic identification of—
       (i) existing hazards; and
@@ -143,7 +143,7 @@ The following sections are inserted after section 54:Regulations that prescribe 
   (2) Different requirements may be prescribed under section 54(1)(bb) in respect of different classes of persons.
 
 ### 15 New section 56B inserted
-The following section is inserted before section 57:Offences for actions or omissions likely to cause serious harm or significant property damage1992 No 96 s 49.
+The following section is inserted before section 57: Offences for actions or omissions likely to cause serious harm or significant property damage 1992 No 96 s 49 .
   (1) Every person commits an offence if—
     (a) the person takes an action knowing that the action is reasonably likely to cause serious harm to any person or significant property damage; and
     (b) the action is contrary to a provision of this Act; and
@@ -163,7 +163,7 @@ The following section is inserted before section 57:Offences for actions or omis
 Section 57 is amended by omitting the heading and substituting the heading Other offences.
 
 ### 17 New sections 57A to 57F inserted
-(1) The following sections are inserted after section 57:Time for laying informationInfringement offencesInfringement noticesProcedural requirements for infringement noticesPayment of infringement feeEffect of infringement notice
+(1) The following sections are inserted after section 57: Time for laying information Infringement offences Infringement notices Procedural requirements for infringement notices Payment of infringement fee Effect of infringement notice
   Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against any provision of this Act or against any regulations made under sections 54 or 55 may be laid at any time within 5 years after the time when the matter of the information arose.
   (1) If a person is alleged to have committed an infringement offence, that person may either—
     (a) be proceeded against summarily for the alleged offence under the Summary Proceedings Act 1957; or
@@ -203,5 +203,5 @@ Section 57 is amended by omitting the heading and substituting the heading Other
 (2) Nothing in section 57A of the principal Act (as inserted by this section) enables any proceedings to be brought that were barred before the commencement of this section.
 
 ### 18 Consequential amendment
-Section 2(1) of the Summary Proceedings Act 1957 is amended by inserting in the definition of infringement notice, after paragraph (c), the following paragraph:.
+Section 2(1) of the Summary Proceedings Act 1957 is amended by inserting in the definition of infringement notice, after paragraph (c), the following paragraph: .
   (ca) section 57C of the Gas Act 1992; or
