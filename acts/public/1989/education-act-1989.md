@@ -1,5 +1,5 @@
 # Education Act 1989
-_Consolidation as at 2010-03-01_
+_Consolidation as at 2010-05-20_
 
 > An Act to reform the administration of education
 
@@ -42,7 +42,7 @@ _Consolidation as at 2010-03-01_
   - **secondary school** has the same meaning as in section 145(1)
   - **Secretary** means the chief executive of the Ministry
   - **special education** means education or help from a special school, special class, special clinic, or special service
-  - **State school** means a school that is a primary school, a composite school, or a secondary school
+  - **State school** means a school that is a primary school, a composite school, a secondary school, or a special school
   - **student** , in relation to a school or institution, means a person enrolled at the school or institution
   - **walking distance** , in relation to travel between a person's residence and a school,—
     (a) where there is no public transport that the person can conveniently use, means the distance (measured along the most direct route by public road, public footpath, or combination of both) between the residence and the school; and
@@ -50,7 +50,7 @@ _Consolidation as at 2010-03-01_
       (i) the distance between the residence and the place where public transport must first be taken (or, as the case may be, finally be left); and
       (ii) the distance between the school and the place where public transport must finally be left (or, as the case may be, first be taken); and
       (iii) every intermediate distance between one element of public transport and another
-(2) In this Part, and Parts 2 and 3, unless the context otherwise requires, the terms special class, special clinic, special school, and special service have the meanings assigned to them by section 2 of the Education Act 1964.
+(2) In this Part, and Parts 2 and 3, unless the context otherwise requires, a special school, special class, special clinic, or special service means a school, class, clinic, or service established under section 98(1) of the Education Act 1964 as a special school, special class, special clinic, or special service respectively.
 (3) In the absence of proof to the contrary,—is, for the purposes of subsection (1), conclusive evidence of the matter certified; and judicial notice shall be taken of the signature on any such certificate of the chief executive or (as the case may be) the Secretary.
   (a) a certificate signed by the chief executive of the Ministry of Foreign Affairs and Trade that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an assistance programme administered by the New Zealand Government; or
   (b) a certificate signed by the Secretary that on a specified day, or for a specified period, a specified person was or was not, or will or will not be in New Zealand to study under an exchange programme approved by the New Zealand Government,—
@@ -69,7 +69,7 @@ Except as provided in this Act or the Private Schools Conditional Integration Ac
 ### 4 Enrolment of foreign students
 (1) Subject to section 4A(3), a foreign student—
   (a) shall not be enrolled at a State school without the board's consent; and
-  (b) shall not be enrolled in special education without the consent of the person or body administering the institution or service concerned; but
+  (b) shall not be enrolled in special education without the consent of the person or body administering the institution or service concerned.
 (2) Subject to section 4B and to subsections (3) and (4) of this section, once enrolled at a State school or in special education a foreign student has the same rights to remain enrolled, and to tuition, at the school as a domestic student.
 (3) Except as provided in subsection (5) or subsection (6), no foreign student who is not an exempt student shall be enrolled at a State school if the student's enrolment has the effect that a domestic or exempt student who is entitled to enrol there and has applied for enrolment is not able to be enrolled.
 (4) Except as provided in subsection (5) or subsection (6), no foreign student who is not an exempt student shall be enrolled in any subject, course, or programme at a State school if the student's enrolment has the effect that a domestic or exempt student who is entitled to enrol in the subject or course and has applied for enrolment in it is not able to be enrolled in it.
@@ -298,7 +298,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (2) A school's home zone—
   (a) must be an area for which the school is a reasonably convenient school for a student living in that area to attend; and
   (b) may exclude any area for which another school is also a reasonably convenient school for a student living in that area to attend; and
-  (c) may exclude any area which it is desirable to exclude for the purpose of allowing the Secretary to make best use of the existing network of State schools in the area.
+  (c) may exclude any area that it is desirable to exclude for the purpose of allowing the Secretary to make best use of the existing network of State schools in the area.
 
 ### 11F How to select applicants who live outside home zone
 (1) The order of priority in which applicants who live outside a school's home zone are to be offered places at the school is as follows:
@@ -391,7 +391,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 ### 11M Amendment of enrolment scheme
 (1) The board of a State school that has adopted an enrolment scheme may amend it.
 (2) A board must not amend a scheme unless it is satisfied that an enrolment scheme is still necessary in order to avoid overcrowding, or the likelihood of overcrowding, at the school.
-(3) If the board of a State school (school A) adopts or amends an enrolment scheme, the Secretary may require the board of any nearby State school that also has an enrolment scheme to develop a proposed amendment to its enrolment scheme, in order to take into account the effect of school A's scheme.
+(3) If the board of a State school (school A) adopts or amends an enrolment scheme, the Secretary may require the board of any nearby State school that also has an enrolment scheme to develop a proposed amendment to its enrolment scheme in order to take into account the effect of school A's scheme.
 (4) Sections 11A to 11L apply to an amendment and a proposed amendment to an enrolment scheme as if it were an enrolment scheme or a proposed enrolment scheme (as the case may be).
 
 ### 11MA Making minor amendments to enrolment schemes
@@ -471,7 +471,7 @@ In sections 11C to 11PB, unless the context otherwise requires,—
 (2) Sections 11A to 11PA do not apply to any State school of a type specified by the Secretary by notice in the Gazette.
 
 ### 11Q Obligation to report to Parliament on enrolment schemes
-(1) The annual report on the schools sector which is laid before the House of Representatives by the Minister of Education in accordance with section 87B must include a statement signed by the Secretary that—
+(1) The annual report on the schools sector that is laid before the House of Representatives by the Minister of Education in accordance with section 87B must include a statement signed by the Secretary that—
   (a) lists the schools that have an enrolment scheme in place; and
   (b) states the period for which each scheme has been in place; and
   (c) notes the schools where adjacent schools have schemes in place; and
@@ -758,7 +758,7 @@ The principal of a State school—
 (3) A parent who fails to comply with a notice under subsection (1) to have a student enrolled at a correspondence school commits an offence, and is liable on summary conviction to a fine not exceeding the maximum fine provided for in section 24(1) (which relates to the failure to enrol at a registered school).
 
 ### 29 Penalty for irregular attendance
-(1) Every parent of a person who—commits an offence, and is liable on summary conviction to a fine not exceeding an amount calculated at the rate of $30 for every school day for which the offence has occurred.
+(1) Every parent of a person who,—commits an offence, and is liable on summary conviction to a fine not exceeding an amount calculated at the rate of $30 for every school day for which the offence has occurred.
   (a) while enrolled at a registered school, does not attend as provided in section 25; or
   (b) while enrolled at a correspondence school, does not do the work of the course in which the student is enrolled,—
 (2) Notwithstanding subsection (1), a fine imposed for an offence against that subsection shall not exceed $300 for a first offence against the subsection (or section 120(1) of the Education Act 1964), or $3,000 for a second or subsequent offence.
@@ -807,7 +807,7 @@ In proceedings under this Part of this Act, the burden of proving any of the fol
   (c) the person's exemption from enrolment or attendance at a school.
 
 ### 35 Fines to be paid to boards
-Every fine recovered under this Part shall be paid to the board on whose behalf the proceedings concerned were commenced and shall then become part of the board fund.
+Every fine recovered under this Part shall be paid to the board on whose behalf the proceedings concerned were commenced.
 
 ### 35A Registration and inspection of private schools
 (1) In this section,—
@@ -829,11 +829,11 @@ Every fine recovered under this Part shall be paid to the board on whose behalf 
   (a) between 6 and 12 months after the provisional registration of a school or proposed school; or
   (b) by agreement with its managers, earlier,—
 (8) If satisfied, having considered the review officer's report, that a provisionally registered school is efficient, the Secretary shall fully register the school as a school of the description or descriptions concerned.
-(9) The Chief Review Officer shall ensure that—
-  (a) while registered under this section, a school is reviewed in action by a review officer—
-    (i) before 1 January 1993 or the third anniversary of its registration (whichever is the later); and
-    (ii) thereafter, at intervals of no more than 3 years; and
-  (b) the review officer prepares a written report on the review and gives copies to the Secretary and the school's principal (or other chief executive) and managers.
+(9) The Chief Review Officer must ensure that—
+  (a) a school, while registered under this section, is reviewed in accordance with Part 28; and
+  (b) the review officer who conducts a review—
+    (i) prepares a written report on the review; and
+    (ii) gives copies of it to the Secretary and the school's principal (or other chief executive) and managers.
 (10) Subject to subsection (11), the Secretary may at any time cancel a school's registration under this section.
 (11) The Secretary shall not cancel a school's registration under this section unless, after having—the Secretary is not satisfied that the school is efficient.
   (a) taken all reasonable steps to get all the relevant information; and
@@ -1019,29 +1019,31 @@ The board (or, in the case of a school that is not a State school, the governing
 ## Part 7 — Control and management of State schools
 
 ### 60 Interpretation
-In this Part, and Part 8, unless the context otherwise requires,—
+In this Part, Part 7A, and Part 8, unless the context otherwise requires,—
   - **assisted student** means a foreign student who is in New Zealand to study under an assistance programme administered by the New Zealand Government
   - **board** means a board of trustees constituted under Part 9; and
-    (a) in relation to a school means the school's board; and
+    (a) in relation to a school, means the school's board; and
     (b) in relation to a principal, means the board of the principal's school
   - **board staff** means board staff within the meaning of section 92
   - **charter** means a charter of aims, purposes, and objectives that has been approved for a school under this Part; and, in relation to a school, means the school's charter (or, where it has no charter in fact, the charter it is deemed by section 61(12) to have)
   - **Chief Review Officer** means the chief executive of the Education Review Office
-  - **domestic student** means a person who is not a foreign student
+  - **domestic student** has the same meaning as in section 2(1)
   - **exempt student** means a foreign student who—
     (a) is in New Zealand to study under an exchange programme approved by the New Zealand Government; or
     (b) is for the time being exempted under section 4C
-  - **foreign student** means a person who is not a New Zealand citizen, and is—
-    (a) a person to whom section 7 of the Immigration Act 1987 applies; or
-    (b) a person obliged by or pursuant to that Act or any other enactment to leave New Zealand immediately or within a specified time; or
-    (c) deemed for the purposes of that Act to be in New Zealand illegally
+  - **foreign student** has the same meaning as in section 2(1)
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **national education guidelines** means all the national education goals, foundation curriculum policy statements, national curriculum statements, national standards, and national administration guidelines, for the time being in force under section 60A
   - **parent** means a parent within the meaning of section 92
   - **review officer** means an employee of the Education Review Office
   - **school** means a State school within the meaning of section 2
-  - **Secretary** means the chief executive of the Ministry.
+  - **Secretary** means the chief executive of the Ministry
+  - **Teachers Council** means the New Zealand Teachers Council established under Part 10A
+  - **unsupervised access to students** , in relation to a school, means access to any student on the school's premises that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
+    (a) a registered teacher or holder of a limited authority to teach:
+    (b) an employee of the school on whom a satisfactory Police vet has been conducted within the last 3 years:
+    (c) a parent of the student.
 
 ### 60A National education guidelines
 (1) The Minister may from time to time, by notice in the Gazette, publish (in their entirety, or by way of a general description and an indication of where the full text can be obtained) all or any of the following:
@@ -1143,12 +1145,12 @@ Subject to Part 8A and section 120A, a board may from time to time, in accordanc
 
 ### 65A Length of school year
 (1) The Minister may, before 1 July in any year, prescribe the number of half-days on which schools must be open during the next year; and different numbers may be prescribed for schools of different classes or descriptions.
-(2) Except as provided in this Act, every board shall ensure that each school it administers is in every year open for instruction on the number of half days required under subsection (1).
+(2) Except as provided in this Act, every board shall ensure that each school it administers is in every year open for instruction on the number of half-days required under subsection (1).
 (2A) If, because of a strike or lockout, a school is not open for instruction on any half-day, the school is, for the purposes of subsection (2), deemed to be open for instruction on that half-day.
 (3) Where the Minister has not in fact prescribed for a school a number under subsection (1) in respect of any year, the Minister shall be deemed to have prescribed in respect of the year the number prescribed (or deemed under this subsection to have been prescribed) for the school for the year before.
 
 ### 65B Terms
-(1) The Minister may, before 1 July in any year, prescribe (by reference to specific dates, specified days, the number of half days prescribed under section 65A, or any 2 or more of those means)—
+(1) The Minister may, before 1 July in any year, prescribe (by reference to specific dates, specified days, the number of half-days prescribed under section 65A, or any 2 or more of those means)—
   (a) the terms that schools must observe during the next year; or
   (b) a means for ascertaining or determining those terms.
 (2) Except as provided in this Act, every board shall ensure that the schools it administers are in every year open for instruction on every day during the terms prescribed, ascertained, or determined for the year under subsection (1).
@@ -1169,12 +1171,12 @@ Subject to Part 8A and section 120A, a board may from time to time, in accordanc
 ### 65D Exceptions in particular cases
 (1) The Minister may authorise a board to open any specified school it administers for fewer half-days in any year than required by section 65A(2); and schools may be closed accordingly.
 (2) The Minister may authorise a board to open and close any specified school it administers in accordance with terms and holidays (specified by the Minister) that differ from those otherwise required by this Act to be observed; and, subject to any terms and conditions specified by the Minister when giving the authority, schools may be open and closed accordingly.
-(3) The Minister may authorise a board to apply a meaning of half day that differs from the meaning it has in section 65B(3), if the Minister is satisfied that—
+(3) The Minister may authorise a board to apply a meaning of half-day that differs from the meaning it has in section 65B(3), if the Minister is satisfied that—
   (a) the board has adequately consulted parents, staff, and the local community about the proposal and it is generally acceptable; and
   (b) the adoption of the proposal will not result in the students of the school spending less time in school than other students in comparable schools; and
   (c) the Minister considers that such a variation is appropriate in the circumstances.
 (4) An authorisation under subsection (3) must be given either unconditionally or subject to such conditions as the Minister considers appropriate.
-(5) A student enrolled at a State school must comply with section 25 even if the school's board varies the meaning of half day under subsection (3).
+(5) A student enrolled at a State school must comply with section 25 even if the school's board varies the meaning of half-day under subsection (3).
 (6) Subsection (3) overrides the provisions in section 77 of the Education Act 1964 concerning the times at which State primary schools are to be kept open.
 
 ### 65E Emergencies
@@ -1341,7 +1343,7 @@ Subject to any enactment, the general law of New Zealand, and the school's chart
   (b) a public security:
   (c) as provided in—
     (i) any regulations made under Part 4 of that Act; or
-    (ii) any approval given jointly by the Minister of Education and the Minister of Finance: or
+    (ii) any approval given jointly by the Minister of Education and the Minister of Finance; or
     (iii) this Act.
 
 ### 74 Work for other boards
@@ -1417,30 +1419,30 @@ The principal of a State school shall take all reasonable steps to ensure that�
   (b) whenever subsequently reasonably required to do so by that occupier.
 
 ### 78C Police vetting of non-teaching and unregistered employees at schools
-(1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a position at a school, the board of the school, or (in the case of a school registered under section 35A) the management of the school, must obtain a Police vet of the person from the New Zealand Teachers Council.
-(2) The board of every State school, and the management of every school registered under section 35A, must apply to the New Zealand Teachers Council for a Police vet of every person who is employed by the board or management but is not a registered teacher or holder of a limited authority to teach—
-  (a) within 2 weeks of first employing the person on a casual or temporary basis at the school:
-  (b) in the case of a person employed at the school when this section comes into force, as required by the Teachers Council:
-  (c) in the case of a person on whom a Police vet has been conducted within the last 3 years, on or about the third anniversary of the previous Police vet.
-(3) Despite subsections (1) and (2), no board of a State school, or management of a school registered under section 35A, is obliged to seek a Police vet of a person employed solely to provide classes that are usually held outside normal school hours and that are open to people not enrolled full-time at the school.
+The board of a State school, or the management of a school registered under section 35A, must obtain a Police vet of every person—
+  (a) whom the board or the management appoints, or intends to appoint, to a position at the school; and
+  (b) who is to work at the school during normal school hours; and
+  (c) who is not a registered teacher or holder of a limited authority to teach.
 
 ### 78CA Police vetting of contractors and their employees who work at schools
-(1) The board of every State school, and the management of every school registered under section 35A, must apply to the New Zealand Teachers Council for a Police vet of every contractor who regularly works at the school during school hours—
-  (a) within 2 weeks of the contractor first starting to work at the school:
-  (b) in the case of a contractor working at the school when this section comes into force, as required by the Teachers Council:
-  (c) in the case of a contractor on whom a Police vet has been conducted within the last 3 years, on or about the third anniversary of the previous Police vet.
-(2) In this section, contractor means both—
-  (a) a person who, under contract (other than an employment contract), works at a school; and
-  (b) a person employed by a person referred to in paragraph (a) who, in the course of that employment, works at a school.
+(1) The board of a State school, or the management of a school registered under section 35A, must obtain a Police vet of every contractor, or the employee of a contractor, who has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(2) In this section, contractor means a person who, under contract (other than an employment contract), works at a school.
 
-### 78CB Internal procedures relating to Police vets
-(1) In this section, requester means the board of a State school or the management of a school registered under section 35A that has applied to the Teachers Council for a Police vet of a person.
-(2) Every requester must establish internal procedures for dealing with Police vets that are received as a result of a request under section 78C or section 78CA, which must, in particular,—
-  (a) identify the person or office-holder within the requester to whom Police vets must be sent by the Teachers Council; and
-  (b) ensure that strict confidentiality is observed for Police vets.
-(3) A requester may not take adverse action in relation to a person who is the subject of a Police vet until—
-  (a) the person has validated the information contained in the vet; or
-  (b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+### 78CB Police vet must be obtained before person has unsupervised access to students
+(1) A Police vet required under section 78C or 78CA must be obtained before the person has, or is likely to have, unsupervised access to students at the school during normal school hours.
+(2) The board of a State school, or the management of a school registered under section 35A, that is required under section 78C to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the school.
+
+### 78CC Further Police vets to be obtained under this Part every 3 years
+(1) The board of a State school, or the management of a school registered under section 35A, must obtain a further Police vet of every person on whom a Police vet has already been obtained under this Part by that board or management, as the case may be, and who still works at the school.
+(2) A further Police vet required under subsection (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
+(3) The requirement for a further Police vet under this section does not apply to a person on whom a Police vet under section 78C or 78CA would not be required if he or she were about to be appointed to a position at the school or to work at the school at the time that the further Police vet would otherwise be required.
+
+### 78CD Procedures relating to Police vets
+The board of a State school, or the management of a school registered under section 35A, that applies for a Police vet of a person—
+  (a) must ensure that strict confidentiality is observed for Police vets; and
+  (b) must not take adverse action in relation to a person who is the subject of a Police vet until—
+    (i) the person has validated the information contained in the vet; or
+    (ii) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
 
 ### 78D School risk management scheme
 (1) In this section, and in sections 78E and 78F,—
@@ -1537,6 +1539,9 @@ The purpose of this Part is to provide for a range of interventions that may be 
 (3) Upon publication of the Gazette notice, the Secretary must, by notice to the board,—
   (a) appoint a person to be the limited statutory manager for the board; and
   (b) state the date on which the appointment takes effect.
+(3A) A notice under subsection (3) appointing a person to be the limited statutory manager for the board may refer to the person appointed—
+  (a) by his or her own name; and
+  (b) as being of a named body corporate.
 (4) On and from the date on which his or her appointment takes effect,—
   (a) any functions, powers, or duties of the board specified in a notice under subsection (1) vest in the limited statutory manager; and
   (b) the board must take into consideration advice given by the limited statutory manager on any matter on which he or she is obliged to give advice; and
@@ -1554,6 +1559,9 @@ The purpose of this Part is to provide for a range of interventions that may be 
   (c) the result of an election of trustees is that the board has fewer than 3 trustees elected by parents:
   (d) an election of trustees has not been held as required by this Act:
   (e) it is impossible or impracticable to discover the results of an election of trustees.
+(4) A notice under subsection (2) or (3) appointing a commissioner for a school may refer to the person appointed—
+  (a) by his or her own name; and
+  (b) as being of a named body corporate.
 
 ### 78NA No compensation for loss of office
 (1) A trustee is not entitled to any compensation or other payment or benefit relating to his or her ceasing for any reason to hold office as a trustee.
@@ -1786,7 +1794,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
 ### 92 Interpretation
 (1) In this Part, unless the context otherwise requires,—
   - **adult student** means a student who has turned 20
-  - **board** means a board of trustees constituted under this Part; and—
+  - **board** means a board of trustees constituted under this Part; and,—
     (a) in relation to a school or institution, means the board of the school or institution; and
     (b) in relation to a trustee, means the board of which the trustee is a member
   - **board staff** , in relation to a board on any day, means the people who, on the day, are not students enrolled full-time at a school or institution administered by the board, and who—
@@ -1816,15 +1824,15 @@ In determining for the purposes of section 79 the amount of any grant payable to
   - **parent** , in relation to any person, means a person who is the person's father, mother, guardian, or immediate caregiver
   - **partner** , in the phrase spouse or partner and in related contexts, means civil union partner or de facto partner
   - **primary school** has the same meaning as in section 145(1)
-  - **principal** , in relation to a school or institution, means the principal or other chief executive of the school or institution; and except in section 94(c) includes an acting principal
+  - **principal** , in relation to a school or institution, means the principal or other chief executive of the school or institution; and except in section 94(1)(c) includes an acting principal
   - **Review Office** means the Education Review Office
   - **secondary school** has the same meaning as in section 145(1)
   - **Secretary** means the chief executive of the Ministry
   - **special institution** means an institution that is—
     (a) for the time being specified in Schedule 5; or
     (b) a correspondence school; or
-    (c) an institution (other than an institution that is part of a school) situated in a health camp, an institution under the control of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001)
-  - **State school** means an institution that is a primary school, a composite school, or a secondary school; and—
+    (c) an institution (other than an institution that is part of a school) situated in a health camp, an institution under the control of the chief executive of the department for the time being responsible for the administration of the Children, Young Persons, and Their Families Act 1989, or a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001)
+  - **State school** means an institution that is a primary school, a composite school, or a secondary school; and,—
     (a) in relation to a lone board that administers a school, means that school; and
     (b) in relation to a combined board that administers schools, means those schools or any of them; and
     (c) in relation to a trustee of a lone board that administers a school, means that school; and
@@ -1936,7 +1944,7 @@ In determining for the purposes of section 79 the amount of any grant payable to
 (2) A student representative on a board shall be a person who, on the day on which the roll for the election (or, where there is a supplementary roll, the supplementary roll) closes, is a student (other than an adult student) enrolled full-time in a class in form 3 or above at a school or institution administered by the board, elected by students (other than adult students) enrolled full-time in a class in form 3 or above at a school or institution administered by the board.
 
 ### 98 Boards of newly established schools
-(1) Notwithstanding section 94, until a newly established State school is opened and the members described in paragraphs (a), (c), and (f) of that section have been elected, its members shall be—
+(1) Notwithstanding section 94, until a newly established State school is opened and the members described in paragraphs (a), (c), and (f) of that section have been elected, its members are,—
   (a) at the option of the Minister, either—
     (i) 5 people appointed by the Minister; or
     (ii) 5 people elected by parents of students (other than adult students) likely to be enrolled at the school in the year it opens or the next year; and
@@ -1966,8 +1974,11 @@ At the same time as a board gives the Secretary the annual report as required by
 (2) The board of a school or institution to which subsection (1) applies must hold an election of any student representative on the day fixed for that purpose under subsection (1).
 (3) Subject to subsection (5), in every election year a board shall hold 1 or more elections of other elected trustees.
 (4) Elections under subsection (3) must be held,—
-  (a) in the case of a school that is not a correspondence school, on the second Tuesday in May, unless the board, before 1 February in that year, fixes an earlier date for the election (being a date after 1 February); and
+  (a) in the case of a school that is not a correspondence school,—
+    (i) on a date fixed by the board that is within the range of dates for those elections in that election year that is specified by the Minister by notice in the Gazette; or
+    (ii) if the Minister has not, by notice in the Gazette published on or by 31 October in any year, specified a range of dates for those elections in that election year, on a date fixed by the board that is within the range of dates for those elections in the previous election year; and
   (b) in the case of a correspondence school, on the second Tuesday in July, unless the board, before 1 April in that year, fixes an earlier date for the election (being a date after 1 April).
+(4A) The notice referred to in subsection (4)(a) may specify different ranges of dates, for elections under subsection (3), for boards that have, and for schools that have not, adopted staggered election cycles under section 101A.
 (5) If—are held after 31 October in the year before an election year and before 31 December in the election year, the board shall not hold an election (or, as the case requires, another election) under subsection (3) in the election year.
   (a) the first elections of trustees for the board of a school established or integrated after the commencement of this section; or
   (b) elections under section 78P—
@@ -1977,7 +1988,7 @@ At the same time as a board gives the Secretary the annual report as required by
 (7) Subject to subsection (8), the first elections for and first meetings of boards of schools and institutions established or integrated after the commencement of this Act shall be held on days fixed by the Minister by notice in the Gazette.
 (8) The days fixed by the Minister under subsection (7) for the first elections for and first meeting of the board of a school integrated after the commencement of this Act shall be days before the day on which the integration of the school takes effect.
 (9) The first elections (if any) for and first meeting of the board of a special institution (being a special institution that was established before the commencement of this section but that had not had a first election or meeting before that commencement) shall be held on a day or days specified by the Minister by notice in the Gazette.
-(10) This section is subject to section 101A (which provides for the election of some parent representatives at the mid-point of an election cycle under this section).
+(10) This section is subject to section 101A (which provides for the election of some parent representatives at the mid-point of an election cycle under this section), and to section 101AB (which provides that elections are not to be held when a school is under notice of closure).
 
 ### 101A Staggered elections for parent representatives
 (1) This section and section 101B apply to the election of trustees who are parent representatives.
@@ -1991,6 +2002,9 @@ At the same time as a board gives the Secretary the annual report as required by
 (7) Every parent representative who, in accordance with subsection (6), is to stand down at a mid-term election, goes out of office at the close of the day before the day on which the successor takes office following the election.
 (8) A board that has a staggered election cycle may decide to revert to holding elections only in election years. In that case, at the next election held in an election year, all the parent representatives go out of office in accordance with section 102(8).
 
+### 101AB Election not to be held when school under notice of closure
+Nothing in this Act requires or permits the board of any school or special institution to hold an election for a student representative or other elected trustee if the date for the election calculated in accordance with section 101 or 101A (as the case may be) is after the date of any notice in the Gazette that, in accordance with section 154(2), specifies a day for the school's closure.
+
 ### 101B Consultation requirements for staggered elections of parent representatives
 (1) Every decision under section 101A(2) must be made by the board by resolution passed at a meeting of the board open to all parents of students enrolled at the school or schools administered by the board.
 (2) Before making a decision under section 101A(2), a board must take reasonable steps to ensure that the parents of students enrolled at the school or schools administered by the board have reasonable notice of—
@@ -2000,7 +2014,7 @@ At the same time as a board gives the Secretary the annual report as required by
 
 ### 102 Term of office
 (1) Elected trustees take office 7 days after their election, unless otherwise provided in this section.
-(2) Trustees elected for a board replacing a commissioner take office when the commissioner goes out of office.
+(2) Trustees elected for a board replacing a commissioner take office when the commissioner's appointment ends.
 (3)
 (4) No trustee shall be co-opted until the board has a vacancy for a co-opted trustee; and a co-opted trustee shall take office when co-opted.
 (5) A trustee appointed when the board has a vacancy for a trustee appointed by the body or person concerned takes office on appointment.
@@ -2152,6 +2166,10 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
   (b) the existing boards shall continue in existence as if the combined board had not been established.
 (4) On the day specified in the notice establishing a combined board, all rights, assets, liabilities, and debts of the existing boards shall become rights, assets, liabilities, and debts of the combined board.
 
+### 110A Minister may combine boards at establishment
+(1) A Minister may, by notice in the Gazette, establish a combined board for 2 or more schools that are newly established under section 146.
+(2) The combined board is the board of a newly established school for the purposes of section 98.
+
 ### 111 Restrictions on combining
 (1) No board that administers a special institution may combine with a board that does not.
 (2)
@@ -2161,12 +2179,17 @@ Before a person is elected, co-opted, or appointed as a trustee, the person must
 ### 112 Minister may split combined board
 (1) If satisfied, after consulting the Review Office and the board concerned, that in all the circumstances it is appropriate for a combined board to be split, the Minister may, by notice in the Gazette, establish 2 or more boards for the schools or institutions the combined board administers, with effect on a date specified in the notice.
 (2) If any of the boards established by a notice under subsection (1) is a combined board, the notice shall specify the schools or institutions it is to administer.
-(3) Subject to subsection (4), this Act shall apply to a board established by a notice under subsection (1) as if—
+(3) Subject to subsection (4) and section 112A, this Act shall apply to a board established by a notice under subsection (1) as if—
   (a) the board had been in existence immediately before the day on which the notice was published; and
   (b) every trustee had resigned on the day.
 (4) Until the day specified in a notice under subsection (1) establishing 2 or more boards,—
   (a) the boards established shall have no powers, functions, duties, or rights; and
   (b) the combined board they replace shall continue in existence as if they had not been established.
+
+### 112A Splitting boards that were combined at establishment
+(1) A Minister who, under section 112(1), is splitting a board that was combined under section 110A at establishment for 2 or more schools may designate 1 of the boards established under section 112(1) as being identical to the board that was established under section 110A, except that it need not be a combined board.
+(2) A board that is designated under subsection (1) is to be treated, for the purposes of section 98, as if it were the board of a newly established school.
+(3) This section overrides section 112(3)(b) and (4)(a).
 
 ### 113 Property held in trust
 (1) Where any property is, on the day a notice under section 112(1) is published, held in trust by the combined board of the schools or institutions to which the notice relates, the following provisions apply:shall devise and send to the Solicitor-General a scheme to modify the trust.
@@ -2415,6 +2438,37 @@ The Teachers Council shall register an applicant under section 121 if satisfied 
 (1) For the purposes of this Part, the Teachers Council shall keep a list of people for the time being registered as teachers.
 (2) If the Teachers Council is satisfied that any of the information contained in the register is incorrect, the Council must ensure that the error is corrected.
 
+### 128A Matching of register information and information about payment of teacher salaries at payrolled schools
+(1) The purpose of this section is to facilitate the exchange of information between the Ministry and the Teachers Council for the purposes of enabling—
+  (a) the Teachers Council, in regard to people employed in teaching positions, to identify—
+    (i) the person's employer; and
+    (ii) the person's registration status; and
+  (b) the Ministry, in regard to regular teachers in receipt of salaries at payrolled schools, to identify their salary entitlement or eligibility, if any, for an allowance on the basis of their registration, if any.
+(2) For the purpose set out in subsection (1)(a), the Teachers Council may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
+  (a) require the Secretary to supply all or any of the following information in regard to all or any regular teachers in receipt of salaries at payrolled schools:
+    (i) surname:
+    (ii) first name:
+    (iii) date of birth:
+    (iv) gender:
+    (v) address:
+    (vi) the school at which the person is employed:
+    (vii) payroll number:
+    (viii) registration number; and
+  (b) compare the information supplied under paragraph (a) with the information contained in the register.
+(3) For the purpose set out in subsection (1)(b), the Secretary may from time to time, in accordance with arrangements under the Privacy Act 1993 previously agreed between the Secretary and the Teachers Council,—
+  (a) require the Teachers Council to supply all or any of the following information in regard to all or any people registered as teachers:
+    (i) surname:
+    (ii) first name:
+    (iii) date of birth:
+    (iv) gender:
+    (v) address:
+    (vi) the school at which the person is employed:
+    (vii) registration number:
+    (viii) registration expiry date:
+    (ix) registration classification; and
+  (b) compare the information supplied under paragraph (a) with the information held by the Ministry in regard to teachers.
+(4) In this section, Ministry, payrolled school, regular teacher, school, and Secretary have the same meanings as in section 91A.
+
 ### 129 Cancellation of registration as teacher and cancellation of limited authority to teach
 (1) The Teachers Council must cancel a person's registration or limited authority to teach, if—
   (a) the Teachers Council is satisfied on reasonable grounds that,—
@@ -2633,7 +2687,7 @@ The functions of the Teachers Council are as follows:
   (h) to exercise the disciplinary functions in this Part relating to teacher misconduct and reports of teacher convictions:
   (i) to set the criteria for reporting serious misconduct and for reporting on competence issues:
   (j) to exercise the functions in this Part relating to teacher competence:
-  (k) to co-ordinate a system providing for the vetting by the Police of all teachers and other people employed in schools and early childhood services:
+  (k) to co-ordinate a system providing for the vetting by the Police of all teachers:
   (l) to identify research priorities and, where appropriate, to promote and sponsor research according to those priorities:
   (m) to exercise any other functions conferred on it by this Act, any other enactment, or the Minister in accordance with section 112 of the Crown Entities Act 2004.
 
@@ -2797,7 +2851,9 @@ The Council must from time to time appoint a chief executive, on terms and condi
 (2) Following an investigation, the Complaints Assessment Committee may, in respect of any matter other than a conviction to which section 139AV relates, do any of the following:
   (a) dismiss the matter, or resolve to take it no further:
   (b) refer the teacher concerned to a competency review:
-  (c) refer the teacher concerned to an impairment process which may involve assessing, and (if necessary) assisting with, an impairment:
+  (c) refer the teacher concerned to an impairment process which may involve either or both of the following:
+    (i) assessment of an impairment:
+    (ii) assistance with an impairment:
   (d) by agreement with the teacher and the person who made the complaint or report, do any of the following:
     (i) censure the teacher:
     (ii) impose conditions on the teacher's practising certificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
@@ -2809,16 +2865,42 @@ The Council must from time to time appoint a chief executive, on terms and condi
   (b) the matter should be referred to the Disciplinary Tribunal.
 (5) If a matter is referred to the Disciplinary Tribunal under subsection (4), a notice must be sent to the teacher concerned setting out the charge of misconduct against him or her.
 
-### 139AU Interim suspension to enable investigation
-(1) For the purpose of investigating a complaint of possible serious misconduct about a teacher, the Complaints Assessment Committee may at any time apply to the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
-(2) On an application for an interim suspension, the Disciplinary Tribunal may, either with or without a hearing, suspend the teacher's practising certificate or authority for a specified period, or until specified conditions have been met, but in any case for not more than 3 months.
+### 139AU Interim suspension until complaint of possible serious misconduct concluded
+(1) For the purpose of investigating a complaint of possible serious misconduct about a teacher, the Complaints Assessment Committee may at any time apply to the chairperson of the Disciplinary Tribunal for an interim suspension of the teacher's practising certificate or authority.
+(1A) The Complaints Assessment Committee may apply to the chairperson of the Disciplinary Tribunal for an interim suspension of a teacher's practising certificate or authority, if—
+  (a) a complaint of possible serious misconduct about the teacher has been referred to the Complaints Assessment Committee under section 139AS; and
+  (b) the alleged misconduct is the subject of an investigation by—
+    (i) the New Zealand Police; or
+    (ii) the teacher's employer.
+(2) On an application under subsection (1) or (1A) for an interim suspension, the chairperson of the Disciplinary Tribunal may, either with or without a hearing, suspend the teacher's practising certificate or authority.
+
+### 139AUA Duration of interim suspension
+(1) The duration of an interim suspension under section 139AU is initially until the earliest of the following occurs:
+  (a) the expiry of a period, specified by the chairperson of the Disciplinary Tribunal, that is less than 3 months:
+  (b) the expiry of a period of 3 months after the interim suspension commences:
+  (c) any conditions specified by the chairperson of the Disciplinary Tribunal are met:
+  (d) the interim suspension is otherwise lifted or revoked, for example, as the result of a review under subsection (2).
+(2) The chairperson of the Disciplinary Tribunal must review his or her initial interim suspension decision, if the teacher—
+  (a) requests him or her to do so at any time during the initial interim period of suspension; and
+  (b) provides a written explanation or statement in support of the request.
+(3) The Disciplinary Tribunal may renew an interim suspension under section 139AU for further successive periods of no more than 3 months each, if, at the end of the relevant period of interim suspension,—
+  (a) the matter has not been concluded; and
+  (b) the interim suspension has not been otherwise lifted or revoked, for example, as the result of an appeal against it under subsection (4).
+(4) A teacher whose practising certificate or authority is subject to an interim suspension under section 139AU that is renewed under subsection (3) may, at any time during a further period of interim suspension, make representations in respect of the interim suspension to the Disciplinary Tribunal at a hearing, if he or she believes that there is an unreasonable delay in concluding the matter.
+(5) A hearing under subsection (4) is a hearing before the Disciplinary Tribunal, and sections 139AX to 139AZB apply to it.
+(6) For the purposes of this section, a matter is concluded when the latest of the following occurs in relation to the complaint:
+  (a) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AT(2)(a) to (d):
+  (b) the Complaints Assessment Committee has carried out whatever action it decides to take under section 139AV(2)(a) to (d):
+  (c) the Disciplinary Tribunal has carried out whatever action it decides to take under section 139AW(1)(a) to (i), if the Complaints Assessment Committee has referred the matter to the Disciplinary Tribunal under any of sections 139AT(3) or (4) or 139AV(3).
 
 ### 139AV Investigation by Complaints Assessment Committee of reports of convictions
 (1) Every report of the conviction of a teacher for an offence punishable by 3 months' or more imprisonment that is received by, or comes to the attention of, the Teachers Council must be investigated by the Complaints Assessment Committee.
 (2) Following the investigation of such a conviction, the Complaints Assessment Committee may do any of the following:
   (a) dismiss the matter, or resolve to take it no further:
   (b) refer the teacher concerned to a competency review:
-  (c) refer the teacher concerned to an impairment process which may involve assessing, and (if necessary) assisting with, an impairment:
+  (c) refer the teacher concerned to an impairment process which may involve either or both of the following:
+    (i) assessment of an impairment:
+    (ii) assistance with an impairment:
   (d) by agreement with the teacher, do any of the following:
     (i) censure the teacher:
     (ii) impose conditions on the teacher's practising certificate or authority, such as (without limitation) requiring the teacher to undergo supervision or professional development:
@@ -2892,27 +2974,22 @@ The Council must from time to time appoint a chief executive, on terms and condi
 (5) When the Teachers Council refers a complaint to an employer, the employer must report as required by the Teachers Council.
 (6) If the Teachers Council is satisfied that the employer has not responded, or has not been able to respond, to the complaint in a satisfactory way, the Teachers Council may investigate the complaint.
 (7) When a complaint about competence is made by a member of the Teachers Council, that member may not be involved in any investigation of the complaint.
-(8) If, after investigation, the Teachers Council is satisfied that the teacher has not attained the required level of competence, it may—
+(8) If, after investigation, the Teachers Council is satisfied that the teacher has not attained the required level of competence, it may do any of the following:
   (a) impose conditions on the teacher's practising certificate or authority:
-  (b) refer the teacher to an impairment process involving the assessment of, and (if necessary) assistance with, an impairment:
+  (b) refer the teacher to an impairment process which may involve either or both of the following:
+    (i) assessment of an impairment:
+    (ii) assistance with an impairment:
   (c) order that the teacher's registration or authority be cancelled (see section 129(1)).
 
 **Police vetting**
 
 ### 139AZD Teachers Council must co-ordinate Police vetting
-(1) The Teachers Council must establish a system for co-ordinating Police vetting that is requested by—
-  (a) the Teachers Council, in relation to—
-    (i) teacher registration and the issue of practising certificates; and
-    (ii) the granting of limited authorities to teach; and
-  (b) boards of State schools, and the management of schools registered under section 35A, in relation to—
-    (i) current and prospective non-teaching and unregistered employees; and
-    (ii) contractors who work regularly at the school during school hours; and
-  (c) the management of early childhood services, in relation to—
-    (i) current and prospective non-teaching and unregistered employees; and
-    (ii) contractors who work regularly at the service during normal opening hours.
+(1) The Teachers Council must establish a system for co-ordinating Police vetting, in relation to—
+  (a) teacher registration and the issue of practising certificates; and
+  (b) the granting of limited authorities to teach.
 (2) A copy of the result of the Police vet of a person must be given to both the person or body that requested it and the person who is the subject of the vet.
-(3) The Teachers Council may charge fees to any board or management that requests a Police vet, to cover its administrative costs associated with providing vets and co-ordinating the system of Police vetting.
-(4) The Teachers Council must establish internal procedures for dealing with Police vets requested for its own purposes and for those requested by boards and managements which must, in particular,—
+(3)
+(4) The Teachers Council must establish internal procedures for dealing with Police vets requested for its own purposes, which must, in particular,—
   (a) identify the person or office-holder within the Council to whom Police vets must be sent; and
   (b) ensure that strict confidentiality is observed for Police vets.
 (5) The Teachers Council may not take adverse action in relation to a person who is the subject of a Police vet until—
@@ -3431,7 +3508,6 @@ The Minister may at any time appoint a person to—and in that case the Minister
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **nationally recognised award** means an award granted under section 263 in respect of any approved nationally recognised course of study or training
-  - **New Zealand apprenticeship committee** means an apprenticeship committee established under section 27 of the Apprenticeship Act 1983
   - **personal property** includes money
   - **plan** means a plan in relation to which funding approval has been given
   - **polytechnic** means, subject to subsection (3),—
@@ -4476,7 +4552,7 @@ Notwithstanding anything contained in this Act or any other enactment relating t
   (a) publish a copy of it in the Gazette; and
   (b) present a copy of it to the House of Representatives.
 (6) When a commissioner is appointed under this section, the Minister must review the appointment at least once in every 12 months following the appointment.
-(7) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced to such an extent that is it appropriate that the institution be administered by a council, a new council must be appointed in accordance with the constitution of the council most recently notified in the Gazette.
+(7) As soon as the Minister is satisfied (following an annual review or at any other time) that the risk that gave rise to the appointment of the commissioner has reduced to such an extent that it is appropriate that the institution be administered by a council, a new council must be appointed in accordance with the constitution of the council most recently notified in the Gazette.
 (8) A commissioner's appointment ends on the close of the day before a new council takes office.
 
 ### 195DA Protection of commissioners
@@ -4618,7 +4694,7 @@ The money of an institution shall be applied only—
   (b) the Governor-General has by Order in council declared that this subsection shall apply in respect of that land or those interests, licences, permits, or rights—
 (8)
 (9)
-(10) Where any requirement has been made under section 43 or section 118 of the Town and Country Planning Act 1977 in respect of any work which has been transferred to an institution pursuant to this Act, the procedures specified in the Town and Country Planning Act 1977 may be completed as if a Minister of the Crown continued to be financially responsible for the work and as if the work were a public work.
+(10) Where any requirement has been made under section 43 or section 118 of the Town and Country Planning Act 1977, or under section 168 of the Resource Management Act 1991, in respect of any work which has been transferred to an institution pursuant to this Act, the procedures specified in the Town and Country Planning Act 1977, or in the Resource Management Act 1991, (as the case may be) may be completed as if a Minister of the Crown continued to be financially responsible for the work and as if the work were a public work.
 
 ### 207 Provisions relating to transfer of land
 (1) Notwithstanding any other provision of this Act, Crown land within the meaning of the Land Act 1948 and any lands of the Crown other than lands registered under the Land Transfer Act 1952 that are to be transferred to an institution shall—
@@ -4634,7 +4710,9 @@ The money of an institution shall be applied only—
   (b) section 8 of the Atomic Energy Act 1945:
   (c) section 3 of the Geothermal Energy Act 1953:
   (d) sections 6 and 8 of the Mining Act 1971:
-  (e) sections 5 and 261 of the Coal Mines Act 1979.
+  (e) sections 5 and 261 of the Coal Mines Act 1979:
+  (f) sections 10 and 11 of the Crown Minerals Act 1991:
+  (g) section 354 of the Resource Management Act 1991.
 
 ### 208 Title to land
 (1) A District Land Registrar shall, on written application by any person authorised by the Minister and on payment of the prescribed fee,—
@@ -4781,7 +4859,7 @@ The submission in respect of any land or interest in land of a claim under secti
   (d) an account of the extent to which the council has avoided the creation of unnecessary barriers to the progress of students; and
   (e) an account of the extent to which the council has developed programmes to attract students from groups in the community—
     (i) under-represented in the institution's student body; or
-    (ii) disadvantaged in terms of their ability to attend the institution:
+    (ii) disadvantaged in terms of their ability to attend the institution; and
   (f) in the case of an institution that has a plan, a statement of service performance for that financial year reporting on the performance of the institution as compared with the proposed outcomes described in that plan.
 (2B) Section 156 of the Crown Entities Act 2004 applies to institutions and, for this purpose, is to be read as referring to a statement of service performance under subsection (2A)(f).
 (3) The Minister must present the report to the House of Representatives within 5 working days after receiving the report or, if Parliament is not in session, as soon as possible after the commencement of the next session of Parliament.
@@ -5182,7 +5260,7 @@ The Registrar or other appropriate officer of an institution shall, if so requir
   (h) details reasonably required by the chief executive for the administration of the student loan scheme.
 (7) As soon as possible after the time or times specified in a requirement under subsection (3), an institution must supply the information required to the chief executive or any employee or agent of the department authorised by the chief executive to receive such information.
 (8) Information supplied by an institution under subsection (7) must be in a form previously agreed between the institution and the chief executive under the Privacy Act 1993 (or, where they are unable to agree, in a form settled by the Privacy Commissioner appointed under the Privacy Act 1993), and may include coded information.
-(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in section 226A of the Education Act 1989, the Commissioner, before seeking a report on any of the matters in section 104(2)(a), (d), or (e) from a tertiary institution, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
+(9) Section 104 of the Privacy Act 1993 applies as if subsection (1) of that section also provided that, in relation to the information matching programme in this section, the Commissioner, before seeking a report on any of the matters in section 104(2)(a), (d), or (e) from a tertiary institution, must first seek a report on the matter from the department for the time being responsible for the administration of the Social Security Act 1964.
 
 ### 226B Offences concerning information requests
 (1) Any institution that intentionally fails or refuses to comply with section 226A(7) commits an offence and is liable on summary conviction to the penalty specified in subsection (2).
@@ -5526,7 +5604,7 @@ In this Part, unless the context otherwise requires,—
   (a) prescribe the amount, a method or methods for calculating the amount, or both, of export education levy payable by individual providers, and may prescribe different amounts, or different methods of calculating the amounts, payable by different classes of provider; and
   (b) prescribe when the levy, or any part of the levy, is payable, and the period to which it, or any part of it, relates; and
   (c) designate the agency that will administer the levy and, if that agency is the Ministry, the regulations may authorise the Ministry to delegate all or specified aspects of the levy's collection and use to another body; and
-  (d) require that a provider supplies, on request by the agency responsible for the administration of the levy, information on student numbers or any other matter that is necessary to determine or verify the amount of levy payable by the provider; and
+  (d) require that a provider supplies, on request by the agency responsible for the administration of the levy, information on student numbers or any other matter that is necessary to determine or verify the amount of levy payable by the provider.
   (e)
 (3) The Minister must consult with providers before recommending that regulations be made under subsection (1) that prescribe or amend an export education levy.
 (4) No regulations may be made under this section that impose a levy in respect of tuition fees received in respect of any period before 1 January 2003.
@@ -5630,7 +5708,11 @@ All statutes, regulations, rulings, and decisions, and all other acts of authori
 In this Part and Schedule 15, unless the context otherwise requires,—
   - **Authority** means the Qualifications Authority
   - **member** means a member of the Authority
-  - **secondary school** means a secondary school or composite school, as those terms are defined in section 2.
+  - **relevant school** means—
+    (a) a secondary school (as that term is defined in section 2(1)); or
+    (b) a composite school (as that term is defined in section 2(1)); or
+    (c) a school that is registered under section 35A, but does not include any school registered under that section only as a primary school (as that term is defined in section 2(1)); or
+    (d) a special school (as that term is defined in section 2(2), except that a special school is not deemed to be a primary school for the purposes of this Part, despite the proviso to section 98(1) of the Education Act 1964).
 
 ### 247 Object
 The object of the provisions of this Act relating to the Authority is to establish a consistent approach to the recognition of qualifications in academic and vocational areas.
@@ -5674,16 +5756,16 @@ The object of the provisions of this Act relating to the Authority is to establi
 
 ### 253 Functions of Authority
 (1) The Authority has the following functions:
-  (a) to oversee the setting of standards for qualifications in secondary schools and in post-school education and training:
-  (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in secondary schools and in post-school education and training, either generally or in relation to a particular institution or private training establishment or a particular course of study or training:
-  (c) to develop a framework for national qualifications in secondary schools and in post-school education and training in which—
+  (a) to oversee the setting of standards for qualifications in relevant schools and in post-school education and training:
+  (b) to monitor and regularly review, and advise the Minister on, the standards for qualifications in relevant schools and in post-school education and training, either generally or in relation to a particular institution or a particular course of study or training:
+  (c) to develop a framework for national qualifications in relevant schools and in post-school education and training in which—
     (i) all qualifications have a purpose and a relationship to each other that students and the public can understand; and
     (ii) there is a flexible system for the gaining of qualifications, with recognition of competency already achieved:
   (ca) subject to subsection (2), to establish policies and criteria for the registration of private training establishments:
-  (d) subject to subsection (2), to establish policies and criteria for the approval of courses of study and training at institutions and private training establishments:
-  (e) subject to subsection (2), to establish policies and criteria that will enable institutions, secondary schools, and private training establishments to be granted accreditation to provide courses of study and training:
+  (d) subject to subsection (2), to establish policies and criteria for the approval of courses of study and training at institutions:
+  (e) subject to subsection (2), to establish policies and criteria that will enable institutions to be granted accreditation to provide courses of study and training:
   (ea) to establish policies and criteria relating to the quality assurance of providers of adult and community education:
-  (f) to ensure there are mechanisms in place to guarantee that different institutions, secondary schools, or private training establishments providing approved nationally recognised courses have assessment procedures that are fair, equitable, consistent, and in keeping with the required standard:
+  (f) to ensure there are mechanisms in place to guarantee that different institutions providing approved nationally recognised courses have assessment procedures that are fair, equitable, consistent, and in keeping with the required standard:
   (g) to assist overseas governments, and agencies of those governments, by—
     (i) conducting examinations and assessments:
     (ii) approving programmes and courses of study:
@@ -5694,6 +5776,7 @@ The object of the provisions of this Act relating to the Authority is to establi
   (j) to promote and monitor inter-institutional course approval and moderation procedures:
   (k) such other functions as are conferred on it by this Act or any other enactment:
   (l) to consult such persons, authorities, and bodies as it considers appropriate for the purposes of the performance of any of its functions.
+(1A) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
 (2) Before establishing policies or criteria under subsection (1)(ca), (d), (e), or (ea) in respect of a class of institutions, the Authority shall—and may consult such other bodies as the Authority considers appropriate.
   (a) in the case of criteria or policies in respect of universities, consult the Vice-Chancellors Committee; and
   (ab) in the case of criteria or policies in respect of bodies that are providing adult and community education, consult—
@@ -5734,14 +5817,14 @@ Every person who,—on that commencement becomes an employee of the Qualificatio
   (b) any obligation imposed by that Act.
 
 ### 255 Power to obtain information
-(1AA) In this section, institution includes institutions, government training establishments, registered establishments, secondary schools, and other bodies.
+(1AA) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
 (1) Subject to subsection (2), the chief executive of the Authority or a person authorised by the chief executive of the Authority may—
   (a) by written notice to the Secretary, require the Secretary, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to institutions, being information or documents in the possession of the Secretary, as are specified in the notice; and
   (b) by written notice to the chief executive of an institution, require the chief executive, within such period (being a reasonable period) as is specified in the notice, to supply to the Authority such information or documents relating to the institution as are specified in the notice.
 (2) The powers conferred by subsection (1) may be exercised only where the obtaining of the information or documents is necessary for the purposes of the performance of the functions of the Authority.
 
 ### 255A Compliance notices
-(1) In this section, institution includes institutions, government training establishments, registered establishments, secondary schools, and other bodies.
+(1) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
 (2) The Authority may issue a compliance notice to an institution requiring the institution to do, or refrain from doing, a particular thing in relation to the institution's registration (in the case of an institution that is a registered establishment) or to the institution's course approvals or accreditations.
 (3) Every compliance notice must be in writing and must—
   (a) give the date on which it is issued; and
@@ -5774,7 +5857,7 @@ The Authority has power to carry out such research activities as it considers re
 
 ### 258 Approval of courses
 (1) This section has effect subject to section 260.
-(1A) In this section, institution includes institutions, government training establishments, registered establishments, secondary schools, and other bodies.
+(1A) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
 (2) An institution that proposes to provide a course of study or training may apply to the Authority for the grant of approval to the course.
 (3) The Authority may grant or refuse approval to the course.
 (4) In deciding whether to grant or refuse approval to a course the Authority is required only to consider the course as a whole.
@@ -5793,6 +5876,7 @@ The Authority has power to carry out such research activities as it considers re
 (10) The Authority may, on its own initiative or on application made to it, grant approval to a course of study or training as a nationally recognised course and withdraw any approval so granted, and may impose conditions on any such grant.
 
 ### 258A Conditions on course approvals
+(1AA) In this section, institution includes institutions, government training establishments, registered establishments, relevant schools, and other bodies.
 (1) Every course approval is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)(d) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the approval, from compliance.
 (2) When approving a course, the Authority may impose conditions on the approval that are specific to the approval for that particular course.
 (3) The Authority may at any time, with the agreement of the institution that holds the course approval, impose new conditions on the approval and may amend or revoke any existing conditions.
@@ -5804,7 +5888,7 @@ The Authority has power to carry out such research activities as it considers re
 
 ### 259 Accreditation to provide approved courses
 (1) This section has effect subject to section 260.
-(1A) In this section, institution means an institution, government training establishment, registered establishment, or secondary school.
+(1A) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
 (2) An institution that proposes to provide an approved course of study or training may apply to the Authority for the grant of accreditation to provide that course.
 (3) The Authority may grant or refuse accreditation to an institution to provide an approved course.
 (4) Accreditation may be granted without limitation as to time or for a specified period.
@@ -5816,6 +5900,7 @@ The Authority has power to carry out such research activities as it considers re
 (8) Nothing in this section limits the Authority's power to withdraw an accreditation under section 255A(7).
 
 ### 259A Conditions on accreditation to provide approved courses
+(1AA) In this section, institution means an institution, government training establishment, registered establishment, or relevant school.
 (1) Every accreditation is subject to the condition that the institution will at all times comply with the relevant policies and criteria established by the Authority under section 253(1)(e) that are currently in force, except to the extent that the Authority exempts the institution, by a condition on the accreditation, from compliance.
 (2) When granting accreditation to an institution to provide an approved course of study or training, the Authority may impose conditions on the accreditation that are specific to the accreditation.
 (3) The Authority may at any time, with the agreement of the accredited institution, impose new conditions on the accreditation and may amend or revoke any existing conditions.
@@ -5883,13 +5968,13 @@ When an institution (as defined in section 259(1A)) provides an approved nationa
 (1) The Authority may—
   (a) charge fees to an institution (as defined in section 258(1A) or section 259(1A), as appropriate) for the grant of any approval or accreditation; and
   (b) charge fees to any person for any services provided by the Authority, including fees in relation to sitting for an examination conducted by the Authority, in relation to the making of any assessment by the Authority or in relation to the granting to any person of an award certifying that the person had passed such an examination or been so assessed.
-(2) A fee may not be charged under subsection (1)(b) to a person who is a student at a secondary school unless the Minister has consented to the charging of the fee.
+(2) A fee may not be charged under subsection (1)(b) to a person who is a student at a relevant school unless the Minister has consented to the charging of the fee.
 
 ### 267 Saving of certain statutes, etc, of University of New Zealand
 All statutes, regulations, rulings, decisions, and other acts of authority of the Senate of the University of New Zealand or any committee or board of that Senate or University, or of the Chancellor, Vice-Chancellor or any officer of that University, so far as they relate to the University Entrance Examination and were in force immediately before the commencement of this section by virtue of section 45 of the Universities Act 1961, continue in force except so far as they are repealed, replaced, or amended by any enactment or by regulations, rulings, decisions, or other acts of authority of the Qualifications Authority or of the Council of any university under powers conferred by this Act or any other enactment.
 
 ### 268 Powers of Minister
-(1) In the performance of its functions under this Part, the Authority shall not establish any policy in relation to the systems of evaluation, assessment, or certification of the ability or achievement of students at secondary schools unless the Minister has approved that policy in writing.
+(1) In the performance of its functions under this Part, the Authority shall not establish any policy in relation to the systems of evaluation, assessment, or certification of the ability or achievement of students at relevant schools unless the Minister has approved that policy in writing.
 (2) Section 103 of the Crown Entities Act 2004 applies in the performance of the Authority's functions under this Part.
 (3)
 
@@ -5982,8 +6067,8 @@ In this Part and Schedule 17, unless the context otherwise requires,—
 ### 281 Continuation of Board
 (1) A Board will continue to manage the affairs of the Service and the Board is to be constituted in accordance with this section.
 (2) The Board comprises—
-  (a) a chairperson ; and
-  (b) 6 members; and
+  (a) a chairperson; and
+  (b) 6 members.
   (c)
 (3)
 (4)
@@ -6006,12 +6091,10 @@ It is the duty of the Board in managing the affairs of the Service—
 ### 283B Minister may prepare document where no agreement reached
 [Repealed]
 
-### 283C Contents of documents
-(1)
-(2) Every document of accountability must specify—
+### 283C Contents of statement of intent
+In addition to the information required under section 141 of the Crown Entities Act 2004, every statement of intent must specify—
   (a) the services that the Board is to provide; and
   (b) the persons for whom or which the services are to be provided.
-(3) Subsection (2) does not limit the generality of subsection (1).
 
 ### 283D Amendments to documents
 [Repealed]
@@ -6338,8 +6421,14 @@ In this Part of this Act, unless the context otherwise requires,—
 ### 306A Disclosure of enrolment information by secondary schools
 The provisions of section 226A apply to any secondary school as if such a school were an institution within the meaning of that section.
 
-### 307 Recipients of allowances or student loans may be required to provide information
-(1) In this section,—
+### 307 Recipients of allowances or student loans, and other persons, may be required to provide information
+(1) In this section and sections 307AAA and 307AA,—
+  - **change in the recipient's circumstances** includes a change in another person's circumstances that—
+    (a) the recipient knows about; and
+    (b) the recipient knows materially affects his or her entitlement to a statutory allowance or student loan, or a particular rate of statutory allowance or a particular amount of a student loan
+  - **non-recipient** means a person who is not a recipient, and—
+    (a) includes a person who is acting in his or her official capacity as an officer or employee of a department of State or public body; but
+    (b) does not include a person acting in his or her capacity as an officer of a court
   - **recipient** means a person who holds, has at any time held, or has at any time applied for, a statutory allowance or a student loan
   - **statutory allowance** means an allowance established by regulations under section 303.
 (2) Regulations under section 303 may require officials of institutions at which any statutory allowance established by the regulations is or has at any time been tenable to give the Secretary either or both of the following:
@@ -6359,25 +6448,33 @@ The provisions of section 226A apply to any secondary school as if such a school
 (4) The Secretary (or any person authorised for the purpose by the Secretary) may investigate the circumstances at any time of any recipient so far as they may relate to the recipient's entitlement at any time—
   (a) to a statutory allowance or student loan; or
   (b) to be paid a statutory allowance at a particular rate or any amount of a student loan.
-(5) A person (whether or not a recipient) who is asked questions during an investigation under subsection (4) must answer the questions.
-(6) If satisfied that a person has without reasonable cause failed or refused to comply with a requirement under subsection (3) or to comply with subsection (5), the Secretary may, as the case requires,—
-  (a) suspend any statutory allowance held by the recipient (whether granted before or after the failure or refusal concerned); or
-  (b) refuse to grant any statutory allowance or student loan to the recipient (whether or not the recipient might appear to be entitled to be granted it).
-(6A) However, where a person other than the recipient has without reasonable cause failed or refused to comply with subsection (5), the recipient must be given an opportunity to provide the information sought before any action is taken in respect of the recipient under subsection (6).
-(7) While a statutory allowance is suspended under subsection (6), no payments may be made under it.
+(5) A recipient or non-recipient who is asked questions during an investigation under subsection (4) must answer the questions.
+(6) A recipient must notify the Secretary, as soon as practicable, of any change in the recipient's circumstances that materially affects his or her entitlement at any time—
+  (a) to a statutory allowance or student loan; or
+  (b) to be paid a statutory allowance at a particular rate or a particular amount of a student loan.
+(6A)
+(7)
+
+### 307AAA Suspension or refusal for not providing information
+(1) The Secretary may do whichever of the following the case requires, if he or she is satisfied that a recipient or non-recipient has, without reasonable cause, failed or refused to comply with a requirement under section 307(3) or to comply with section 307(5) and, in the case of a recipient, that the recipient has been warned of the consequence of the failure or refusal and given the opportunity to show reasonable cause or answer the question:
+  (a) suspend any statutory allowance held by the recipient, whether granted before or after the failure or refusal:
+  (b) refuse to grant any statutory allowance, or refuse to advance any student loan, to the recipient, whether or not the recipient may appear to be entitled to be granted the allowance or advanced the loan.
+(2) Despite subsection (1), the recipient must be given an opportunity to provide the information sought before any action is taken in respect of him or her under subsection (1), if the failure or refusal to comply is by a non-recipient.
+(3) Payments must not be made under a statutory allowance while it is suspended under subsection (1).
 
 ### 307AA Offences concerning allowances and student loans
-(1) A person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $2,000, who, in response to a requirement under subsection (3) or a question asked under subsection (4) of section 307, knowingly—
+(1) A person commits an offence against this Act, and is liable on summary conviction to a fine not exceeding $2,000, who, in response to a requirement under subsection (3) or a question asked under subsection (5) of section 307, knowingly—
   (a) makes a false or misleading statement; or
   (b) makes a statement from which any material matter has been omitted; or
   (c) provides any false or misleading paper, document, or record; or
   (d) provides a paper, document, or record from which any material matter has been omitted.
-(2) A recipient must notify the Secretary, as soon as practicable, of any change in the recipient's circumstances that materially affects his or her entitlement at any time—and the recipient commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 if he or she wilfully fails to comply with this subsection for the purpose of receiving or continuing to receive a statutory allowance or student loan, or a statutory allowance at a particular rate or any amount of a student loan, other than that to which the recipient is entitled.
-  (a) to a statutory allowance or student loan; or
-  (b) to be paid a statutory allowance at a particular rate or any amount of a student loan,—
-(2A) For the purposes of subsection (2), a change in the recipient's circumstances includes a change in another person's circumstances that—
-  (a) the recipient knows about; and
-  (b) that the recipient knows materially affects his or her entitlement to an allowance or student loan, or a particular rate of allowance or a particular amount of a student loan.
+(2) A recipient or non-recipient commits an offence against this Act and is liable on summary conviction to a fine not exceeding $2,000 who refuses to comply with section 307(5).
+(2A) A recipient commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $5,000 if he or she, for the purpose of receiving or continuing to receive a statutory allowance or student loan, or a statutory allowance at a particular rate or any amount of a student loan, other than that to which he or she is entitled,—
+  (a) knowingly makes a false or misleading statement in an application for a statutory allowance or student loan; or
+  (b) knowingly makes a false or misleading statement in a notification of a change in the recipient's circumstances that materially affects his or her entitlement at any time—
+    (i) to a statutory allowance or student loan; or
+    (ii) to be paid a statutory allowance at a particular rate or a particular amount of a student loan; or
+  (c) wilfully fails to comply with section 307(6).
 (3) Despite section 14 of the Summary Proceedings Act 1957, an information for an offence against this section may be laid at any time within 12 months after the offence was brought to the Ministry's attention.
 
 ### 307AB Allowances identified by Gazette notice
@@ -6413,7 +6510,7 @@ The provisions of section 226A apply to any secondary school as if such a school
   (da) student loan information about any person may be used by the department for the purposes of verifying—
     (i) the entitlement or eligibility of any person to or for any allowance or benefit; or
     (ii) the amount of any allowance or benefit to which any person is or was entitled or for which any person is or was eligible:
-  (e) allowance information, beneficiary information, and student loan information, about any person may be used by the department—
+  (e) allowance information, beneficiary information, and student loan information about any person may be used by the department—
     (i) for the purpose of recovering from that person any amount for which that person is indebted to the Crown; or
     (ii) for the purpose of prosecuting that person for any offence; or
     (iii) for the purpose of imposing any pecuniary penalty,—
@@ -6463,7 +6560,7 @@ In this Part, unless the context otherwise requires,—
     (a) their own home; or
     (b) the home of the person providing the education or care; or
     (c) any other home nominated by the parents of the children
-  - **hospital-based education and care service** means the provision of education or care to 3 or more children under the age of 6 who are also receiving health services within premises under the control of the Ministry of Health or a district health board established by or under section 19 of the New Zealand Public Health and Disability Act 2000
+  - **hospital-based education and care service** means the provision of education or care to 3 or more children under the age of 6 who are receiving hospital care within the meaning of section 4(1) of the Health and Disability Services (Safety) Act 2001
   - **licensed early childhood education and care centre** means an early childhood education and care centre in respect of which the service provider holds a current licence issued under regulations made under section 317
   - **licensed early childhood service** means an early childhood service in respect of which the service provider holds a current licence issued under regulations made under section 317
   - **licensed home-based education and care service** means a home-based education and care service in respect of which the service provider holds a current licence issued under regulations made under section 317
@@ -6472,13 +6569,18 @@ In this Part, unless the context otherwise requires,—
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Part
   - **playgroup** means a group that meets on a regular basis to facilitate children's play and in respect of which—
     (a) no child attends for more than 4 hours on any day; and
-    (b) more than half the children attending on any occasion have a parent or caregiver present in the same play area at the same time
+    (b) more than half the children attending on any occasion have a parent or caregiver present in the same play area at the same time; and
+    (c) the total number of children attending on any occasion is not greater than 4 times the number of parents and caregivers present in the same play area at the same time
   - **Secretary** means the chief executive of the Ministry
   - **service provider** means each of the following:
     (a) in relation to an early childhood education and care centre, the body, agency, or person who or that operates the centre:
     (b) in relation to a home-based education and care service, the body, agency, or person who or that arranges, or offers to arrange, that education or care:
     (c) in relation to a hospital-based education and care service, the body, agency, or person who or that provides that education or care:
-    (d) in relation to a playgroup, the person or persons who operate the playgroup.
+    (d) in relation to a playgroup, the person or persons who operate the playgroup
+  - **unsupervised access to children** , in relation to a licensed early childhood service, means access to any child that is not access by, or supervised by, or otherwise observed by, or able to be directed (if necessary) by, any 1 or more of the following:
+    (a) a registered teacher or holder of a limited authority to teach:
+    (b) an employee of the service on whom a satisfactory Police vet has been conducted within the last 3 years:
+    (c) a parent of the child.
 
 ### 310 Meaning of early childhood education and care centre
 (1) In this Part, but subject to subsections (2) to (4), early childhood education and care centre means premises used regularly for the education or care of 3 or more children (not being children of the persons providing the education or care, or children enrolled at a school being provided with education or care before or after school) under the age of 6—
@@ -6688,29 +6790,52 @@ The parent or guardian of a child has a right of entry to a licensed early child
 **Police vetting of employees**
 
 ### 319D Police vetting of non-teaching and unregistered employees at licensed early childhood services
-(1) Before appointing a person who is not a registered teacher or holder of a limited authority to teach to a permanent position at a licensed early childhood service, the service provider for the service must obtain a Police vet of the person from the New Zealand Teachers Council.
-(2) The service provider for every licensed early childhood service must apply to the New Zealand Teachers Council for a Police vet of every person who is employed by the service provider but is not a registered teacher or holder of a limited authority to teach—
-  (a) within 2 weeks of first employing the person on a casual or temporary basis at the service; or
-  (b) in the case of a person employed at the service on 22 April 2002, as required by the New Zealand Teachers Council; or
-  (c) in the case of a person on whom a Police vet has been conducted within the last 3 years, on or about the third anniversary of the previous Police vet.
+The service provider of a licensed early childhood service must obtain a Police vet of every person—
+  (a) whom the service provider appoints, or intends to appoint, to a position at the early childhood service; and
+  (b) who is to work at the service during normal opening hours; and
+  (c) who is not a registered teacher or holder of a limited authority to teach.
 
 ### 319E Police vetting of contractors and their employees who work at licensed early childhood services
-(1) The service provider for every licensed early childhood service must apply to the New Zealand Teachers Council for a Police vet of every contractor who regularly works at the service during normal opening hours—
-  (a) within 2 weeks of the contractor first starting to work at the service; or
-  (b) in the case of a contractor working at the service on 22 April 2002, as required by the New Zealand Teachers Council; or
-  (c) in the case of a contractor on whom a Police vet has been conducted within the last 3 years, on or about the third anniversary of the previous Police vet.
-(2) In this section, contractor means both—
-  (a) a person who, under a contract (other than an employment contract), works at an early childhood service; and
-  (b) a person employed by a person referred to in paragraph (a) who, in the course of that employment, works at an early childhood service.
+(1) The service provider of a licensed early childhood service must obtain a Police vet of every contractor, or the employee of a contractor, who has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(2) In this section, contractor means a person who, under contract (other than an employment contract), works at a licensed early childhood service.
 
-### 319F Internal procedures relating to Police vets
-(1) In this section, requester means the service provider for a licensed early childhood service that has applied to the New Zealand Teachers Council for a Police vet of a person.
-(2) Every requester must establish internal procedures for dealing with Police vets that are received as a result of a request under section 319D or section 319E that must, in particular,—
-  (a) identify the person or office-holder within the requester to whom Police vets must be sent by the New Zealand Teachers Council; and
-  (b) ensure that strict confidentiality is observed for Police vets.
-(3) A requester may not take adverse action in relation to a person who is the subject of a Police vet until—
-  (a) the person has validated the information contained in the vet; or
-  (b) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+### 319F Police vet must be obtained before person has unsupervised access to children
+(1) A Police vet required under section 319D or 319E must be obtained before the person has, or is likely to have, unsupervised access to children at the service during normal opening hours.
+(2) The service provider of a licensed early childhood service that is required under section 319D to obtain a Police vet of a person must apply for the vet no later than 2 weeks after the person begins work at the service.
+
+### 319FA Procedures relating to Police vets under section 319D or 319E
+The service provider of a licensed early childhood service that applies for a Police vet of a person under section 319D or 319E—
+  (a) must ensure that strict confidentiality is observed for Police vets; and
+  (b) must not take adverse action in relation to a person who is the subject of a Police vet until—
+    (i) the person has validated the information contained in the vet; or
+    (ii) the person has been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+
+**Police vetting of household members for home-based services**
+
+### 319FB Police vetting of adult members of household where licensed home-based education and care service provided
+(1) The service provider of a licensed home-based education and care service must obtain a Police vet of every adult who lives in a home—
+  (a) where the service is being provided; but
+  (b) that is not the home of every child to whom the service is being provided.
+(2) In this section, adult means a person who is of or over the age of 17 years.
+
+### 319FC When Police vet under section 319FB must be obtained
+A Police vet required under section 319FB must be obtained before the adult is, or is likely to be, present when the service is being provided.
+
+### 319FD Procedures relating to Police vets under section 319FB
+The service provider of a licensed home-based education and care service that applies for a Police vet of a person under section 319FB—
+  (a) must ensure that strict confidentiality is observed for Police vets; and
+  (b) must not take adverse action in relation to the person providing the education or care until the person who is the subject of the Police vet has—
+    (i) validated the information contained in the vet; or
+    (ii) been given a reasonable opportunity to validate the information, but has failed to do so within a reasonable period.
+
+**Service provider to obtain further Police vets under this Part every 3 years**
+
+### 319FE Further Police vets to be obtained every 3 years
+(1) The service provider of a licensed early childhood service must obtain a further Police vet of every person—
+  (a) on whom a Police vet has already been obtained under this Part by that service provider; and
+  (b) who still works at the service, or lives in the home, as the case may be.
+(2) A further Police vet required under subsection (1) must be obtained on or about every third anniversary of any Police vet that has been previously conducted on the person.
+(3) The requirement for a further Police vet under this section does not apply to a person on whom a Police vet under section 319D or 319E would not be required if he or she were about to be appointed to a position at the licensed early childhood service or to work at the service at the time that the further Police vet would otherwise be required.
 
 **Miscellaneous**
 
@@ -6915,7 +7040,7 @@ Review officers designated under section 326 are also review officers for the pu
   (c) require any parent or other person to make or provide statements, in such form and manner as is reasonable in the circumstances, about any matters relating to provision of the educational service provided by that parent or person:
   (d) inspect the work of any person to whom the educational service concerned is (or has been) provided:
   (e) meet and talk with any person to whom the educational service concerned is being provided.
-(2) Nothing in this section confers on a review officer the power to enter any dwelling house without the consent of the owner or occupier.
+(2) Nothing in this section confers on a review officer the power to enter any dwellinghouse without the consent of the owner or occupier.
 
 ### 328D Review officers to prove identity before acting under section 328C
 Every review officer who exercises any power under section 328C must, before exercising that power and, if requested, at any later time, produce to the parent or other person providing the educational service concerned the review officer's certificate of designation.
@@ -7074,7 +7199,7 @@ Despite anything in this Part, a student may use or disclose his or her own nati
 | Section 113 | Safeguarding independence of Crown entities |
 | Section 114 | Crown entity must comply with directions given under statutory power of direction |
 | Section 115 | Procedure for all Ministerial directions |
-| Section 119 | Cross reference to State Sector Act 1988, ss 84–84B |
+| Section 119 | Cross reference to State Sector Act 1988, sections 84 to 84B |
 | Section 131(2) | Application of Ombudsmen Act 1975 and Official Information Act 1982 |
 | Section 133 | Minister's power to request information |
 | Section 134 | Reasons for refusing to supply information |
@@ -7199,7 +7324,9 @@ The powers of a board are not affected by—
   (c) where no such person is for the time being appointed, and either—by the principal.
     (i) such a person presided at the board's last meeting; or
     (ii) the trustee who presided at the board's last meeting is no longer a trustee,—
-(3) Where a casual vacancy occurs, the person for the time being appointed under clause 7 or, where there is no such person, the principal shall fix a time (being within 28 days of the occurrence of the vacancy) and place for a meeting of the board to deal with the vacancy.
+(3) When a casual vacancy occurs, the person for the time being appointed under clause 7 or, where there is no such person, the principal must fix a place for a meeting of the board to deal with the vacancy, and a time for the meeting that is—
+  (a) within 28 days of the vacancy occurring, if it occurs during any period of 6 months commencing on 1 October in a year before an election year; or
+  (b) within 8 weeks of the vacancy occurring, if it occurs at any other time.
 (4) No business shall be transacted at any meeting of a board unless more than half the trustees then holding office are present.
 (5) At a meeting of a board,—
   (a) the person for the time being appointed under clause 7 shall preside if present; and
@@ -7256,12 +7383,12 @@ The powers of a board are not affected by—
 | --- | --- |
 | Section 3 to 8 | Crown entities and categories |
 | Section 10 | Interpretation |
-| Section 119 | Cross reference to State Sector Act 1988, ss 84–84B |
+| Section 119 | Cross reference to State Sector Act 1988, sections 84 to 84B |
 | Section 131(2) | Application of Official Information Act 1982 and Ombudsmen Act 1975 |
 | Section 135 (but only in respect of office holders and employees of tertiary education institutions and Crown entity subsidiaries) | Officials for the purposes of sections of the Crimes Act 1961 |
 | Section 136 | Interpretation for Part 4 |
 | Section 137 | Application of subpart 2 of Part 4 |
-| Section 154, as amended by the Education Act 1989 s 220(2)–(2B), in Sch 6 | Financial statements |
+| Section 154, as amended by the Education Act 1989 section 220(2) to (2B), in Schedule 6 | Financial statements |
 | Section 155 | Statement of responsibility for financial statements |
 | Section 156 | Audit report |
 | Section 157 | Allows for variation of reporting requirements of multi-parent subsidiaries |
@@ -7916,3 +8043,33 @@ In this Part,—
 Before its reconstitution day, the Minister may, by written notice to the chief executive of a polytechnic, give any directions he or she thinks reasonably necessary to ensure that its council as reconstituted can deal effectively with the business before it on and after that day; and—
   (a) the chief executive must give the notice to the council as soon as is practicable after that day; and
   (b) the council must comply with the directions.
+
+### 1 Title
+This Act is the Education Amendment Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Transitional provision, validations, and consequential amendments
+
+**Transitional provision in relation to Police vetting**
+
+### 75 Transitional provision in relation to Police vetting
+Despite sections 78C, 78CA, 319D, and 319E of the Education Act 1989 (as substituted by sections 21 and 69 of this Act), and section 319FB of the Education Act 1989 (as inserted by section 69 of this Act), the board of a State school, or the management of a school registered under section 35A, or a service provider of a licensed early childhood service (as the case may be) must, within 4 weeks after the date on which this Act comes into force, apply for a Police vet of any person in respect of whom—
+  (a) a Police vet is required under section 78C, 78CA, 319D, or 319E of the Education Act 1989 (as substituted by this Act) or under section 319FB of the Education Act 1989 (as inserted by this Act); and
+  (b) no Police vet has been obtained within a period of 3 years immediately before the commencement of this Act, by—
+    (i) that board, management, or service provider; or
+    (ii) the New Zealand Teachers Council, at the request of that board, management, or service provider.
+
+**Validations**
+
+### 76 Validation in respect of Part 20
+The validity of any action of the Authority must be determined as if at all material times—
+  (a) section 246 of the Education Act 1989—
+    (i) contained the definition of relevant school inserted by section 52 of this Act; and
+    (ii) did not contain the definition of secondary school, as repealed by section 52 of this Act; and
+  (b) every other reference in Part 20 of the Education Act 1989 to a secondary school were a reference to a relevant school, within the meaning of that term as inserted in section 246 of that Act by section 52 of this Act.
+
+### 77 Validation in respect of change of proprietor of integrated school
+(1) For the purposes of the Education Act 1989, actions done under that Act or under the Private Schools Conditional Integration Act 1975 before the commencement of this Act are not invalid solely because of a defect or error in the processes relating to a change of proprietor of an integrated school.
+(2) In this section, integrated school and proprietor have the same meanings as in section 2(1) of the Private Schools Conditional Integration Act 1975.
