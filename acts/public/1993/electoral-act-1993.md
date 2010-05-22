@@ -1,5 +1,5 @@
 # Electoral Act 1993
-_Consolidation as at 2009-03-01_
+_Consolidation as at 2010-05-22_
 
 > An Act to reform the electoral system and to provide, in particular, if the proposal for the introduction of the mixed member proportional system is carried at the referendum held under the Electoral Referendum Act 1993,—afor the introduction of the mixed member proportional system of representation in relation to the House of Representatives:bfor the establishment of an Electoral Commission:cfor the repeal of the Electoral Act 1956
 
@@ -143,11 +143,71 @@ A reference to a numbered form is a reference to the form so numbered in Schedul
 (2)
 
 ### 4A Crown Entities Act 2004 to apply
-(1) The Electoral Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(1) The Electoral Commission established by section 4 is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
 (2) The Crown Entities Act 2004 applies to the Electoral Commission except to the extent that this Act expressly provides otherwise.
 
+### 4B Electoral Commission
+(1) This section establishes the Electoral Commission.
+(2) The Electoral Commission is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(3) The Crown Entities Act 2004 applies to the Electoral Commission except to the extent that this Act expressly provides otherwise.
+(4) The Electoral Commission established by subsection (1) is not the same body as the Electoral Commission established by section 4.
+
+### 4C Objective
+The objective of the Electoral Commission established by section 4B is to administer the electoral system impartially, efficiently, effectively, and in a way that—
+  (a) facilitates participation in parliamentary democracy; and
+  (b) promotes understanding of the electoral system and associated matters; and
+  (c) maintains confidence in the administration of the electoral system.
+
+### 4D Membership of Electoral Commission
+(1) The Governor-General, on the recommendation of the House of Representatives, must appoint 3 members of the Electoral Commission established by section 4B as follows:
+  (a) 1 member as the Chief Electoral Officer; and
+  (b) 1 member as the chairperson; and
+  (c) 1 member as the deputy chairperson.
+(2) The member appointed as the Chief Electoral Officer under subsection (1)(a) is the chief executive of the Electoral Commission.
+(3) The members of the Electoral Commission are the board for the purposes of the Crown Entities Act 2004.
+(4) Subsection (1) applies despite—
+  (a) section 28(1)(b) of the Crown Entities Act 2004; and
+  (b) clause 1(2) of Schedule 5 of the Crown Entities Act 2004.
+
+### 4E Appointment of Judge as member not to affect tenure, etc
+The appointment of a Judge as a member of the board of the Electoral Commission established by section 4B does not affect the Judge's tenure of his or her judicial office or the Judge's rank, title, status, precedence, salary, annual or other allowances, or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge's services as a member must be taken to be service as a Judge.
+
+### 4F Resignation of member
+(1) A member of the Electoral Commission established by section 4B may resign from office by written notice to the Governor-General (with a copy to the Electoral Commission) signed by the member.
+(2) The resignation is effective when the Governor-General receives the notice or at any later time specified in the notice.
+(3) This section applies despite section 44 of the Crown Entities Act 2004.
+
+### 4G Power to remove or suspend members
+(1) Section 42 of the Crown Entities Act 2004 applies to any member of the Electoral Commission established by section 4B who is a Judge.
+(2) Section 39(1) of the Crown Entities Act 2004 does not apply to any member.
+(3) Instead, any member who is not a Judge may be removed for just cause by the Governor-General acting upon an address from the House of Representatives.
+(4) Just cause has the same meaning as in section 40 of the Crown Entities Act 2004.
+
+### 4H Filling of vacancy
+(1) If a vacancy occurs in the membership of the Electoral Commission established by section 4B, the Governor-General, on the recommendation of the House of Representatives, may appoint a successor.
+(2) Despite subsection (1), if the vacancy exists at the close of a session, or the vacancy occurs while Parliament is not in session, and the House of Representatives has not recommended an appointment to fill the vacancy, the Governor-General in Council may appoint a successor at any time before the commencement of the next session of Parliament.
+(3) An appointment made under subsection (2) lapses, and the office again becomes vacant, unless the appointment is confirmed by the House of Representatives before the end of the 24th sitting day following the date of the appointment.
+
+### 4I Deputy Electoral Commissioners
+(1) The Electoral Commission established by section 4B may, by written notice, appoint an electoral official to be the deputy for an Electoral Commissioner.
+(2) The persons described in section 30(2) of the Crown Entities Act 2004 are disqualified from being appointed as Deputy Electoral Commissioners.
+(3) The notice of appointment must—
+  (a) state the date on which the appointment takes effect, which must not be earlier than the date on which the notice is received; and
+  (b) state the term of the appointment; and
+  (c) be published by the Electoral Commission in the Gazette as soon as practicable after the appointment is made.
+(4) If an Electoral Commissioner becomes incapable of performing his or her functions or duties or exercising his or her powers by reason of illness, absence, or other sufficient cause, the functions, duties, and powers of that Electoral Commissioner may be performed and exercised by his or her deputy.
+(5) Despite subsection (4), a Deputy Electoral Commissioner—
+  (a) must not act as chairperson or deputy chairperson of the board of the Electoral Commission; and
+  (b) is not eligible to be appointed by the board of the Electoral Commission as a temporary deputy chairperson under clause 5 of Schedule 5 of the Crown Entities Act 2004.
+(6) The Electoral Commission may, at any time, revoke the appointment of any deputy.
+(7) A Deputy Electoral Commissioner is a public servant for the purposes of sections 28(2)(f) and 80(3)(a)(i).
+(8) In subsection (1), electoral official means any person that the Electoral Commission established by section 4B employs or engages for the purpose of assisting with the performance of its functions.
+
+### 4J Proceedings of Electoral Commission
+The provisions of Schedule 1 apply to the Electoral Commission established by section 4B and to its proceedings.
+
 ### 5 Functions
-The principal functions of the Electoral Commission shall be—
+The principal functions of the Electoral Commission established by section 4 are—
   (a) to carry out such duties in relation to the registration of political parties and political party logos as are prescribed by Part 4:
   (b) to supervise political parties’ compliance with the financial disclosure requirements of this Act:
   (ba) to carry out such duties in relation to parliamentary election programmes as are prescribed by Part 6 of the Broadcasting Act 1989:
@@ -158,7 +218,7 @@ The principal functions of the Electoral Commission shall be—
 
 ### 6 Powers
 (1)
-(2) The Commission shall have the power—
+(2) The Electoral Commission established by section 4 has the power—
   (a) to initiate, sponsor, and carry out such studies and research as the Commission thinks necessary for the proper discharge of its functions:
   (aa) to make such inquiries as the Commission thinks necessary for the proper discharge of its functions:
   (b) to publicise, in such manner as the Commission thinks fit, such parts of the Commission’s work as the Commission thinks necessary for the proper discharge of the Commission’s functions, and to consult with any persons or classes of persons:
@@ -166,12 +226,12 @@ The principal functions of the Electoral Commission shall be—
 (3) Subsection (2) does not limit sections 16 and 17 of the Crown Entities Act 2004.
 
 ### 7 Independence
-The Electoral Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
+The Electoral Commission established by section 4 must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
   (a) this Act; and
   (b) any other Act that expressly provides for the functions, duties, or powers of the Electoral Commission (other than the Crown Entities Act 2004).
 
 ### 8 Membership
-(1) The Electoral Commission shall consist of—
+(1) The Electoral Commission established by section 4 consists of—
   (a) the Secretary for Justice:
   (b) the Chief Judge of the Maori Land Court:
   (c) 1 person who shall be appointed by the Governor-General:
@@ -187,7 +247,7 @@ The Electoral Commission must act independently in performing its statutory func
 (5)
 
 ### 9 Appointment of Judge as member not to affect tenure, etc
-The appointment of a Judge as a member of the Electoral Commission, or service by a Judge as a member of the Commission, does not affect the Judge’s tenure of the judicial office or the Judge’s rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge’s services as a member shall be taken to be service as a Judge.
+The appointment of a Judge as a member of the Electoral Commission established by section 4, or service by a Judge as a member of the Commission, does not affect the Judge’s tenure of the judicial office or the Judge’s rank, title, status, precedence, salary, annual or other allowances or other rights or privileges as a Judge (including those in relation to superannuation) and, for all purposes, the Judge’s services as a member shall be taken to be service as a Judge.
 
 ### 10 Term of office
 [Repealed]
@@ -220,7 +280,7 @@ The appointment of a Judge as a member of the Electoral Commission, or service b
 [Repealed]
 
 ### 14 Proceedings of Electoral Commission
-The provisions of Schedule 1 shall have effect in relation to the Electoral Commission and its proceedings.
+The provisions of Schedule 1 shall have effect in relation to the Electoral Commission established by section 4 and its proceedings.
 
 ### 15 Annual report
 [Repealed]
@@ -4248,3 +4308,90 @@ Without limiting the powers conferred by sections 267 and 267A of the principal 
 
 ### 24 Expiry of section 23
 Section 23 expires on the close of 1 March 2011 and on the close of that date is repealed.
+
+### 1 Title
+This Act is the Electoral (Administration) Amendment Act 2010.
+
+### 2 Commencement
+(1) The following provisions come into force on 1 October 2010:
+  (a) the provisions in subpart 2 of Part 1:
+  (b) the provisions in subpart 2 of Part 2.
+(2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+## Part 2 — Consequential amendments and transitional provisions
+
+### 15 Interpretation
+In this Part, unless the context requires otherwise,—
+  - **existing Chief Electoral Officer** means the Chief Electoral Officer appointed under section 18 of the principal Act
+  - **existing Electoral Commission** means the Electoral Commission established by section 4 of the principal Act
+  - **new Electoral Commission** means the Electoral Commission established by section 4B of the principal Act as inserted by section 4 of this Act
+  - **previous employer** , in relation to a transferred employee, means the employer of that employee immediately before 1 October 2010
+  - **transferred employee** means a person who,—
+    (a) immediately before 1 October 2010, was employed by the Ministry of Justice or the existing Electoral Commission; and
+    (b) is transferred to the new Electoral Commission under section 20 or 23.
+
+### Subpart 1 — Provisions coming into force on day after Royal assent
+
+### 16 New Electoral Commission may perform certain functions before 1 October 2010
+Until the close of 30 September 2010, the new Electoral Commission may perform only those functions that are necessary or desirable to bring, or in connection with bringing, the principal Act as amended by this Act into operation.
+
+### 17 Statement of intent
+The existing Electoral Commission is not required to produce a statement of intent for the financial year commencing 1 July 2010.
+
+### 18 References to Electoral Commission
+(1) Until the close of 30 September 2010, any reference to the Electoral Commission—
+  (a) in sections 4B to 4J of the principal Act must be read as a reference to the Electoral Commission established by section 4B of the principal Act; and
+  (b) in the following enactments must be read as a reference to both the Electoral Commission established by section 4 of the principal Act and the Electoral Commission established by section 4B of the principal Act:
+    (i) Schedule 1 of the Crown Entities Act 2004:
+    (ii) Part 2 of Schedule 1 of the Ombudsmen Act 1975:
+    (iii) Schedule 4 of the Remuneration Authority Act 1977; and
+  (c) in any other enactment must be read as a reference to the Electoral Commission established by section 4 of the principal Act.
+(2) On and from 1 October 2010, any reference to the Electoral Commission in any enactment must be read as a reference to the Electoral Commission established by section 4B of the principal Act.
+
+### 19 Assets and liabilities of existing Electoral Commission
+On 1 October 2010, all assets, records, liabilities, and debts of the existing Electoral Commission vest in the new Electoral Commission.
+
+### 20 Employees of existing Electoral Commission
+(1) On 1 October 2010, all employees of the existing Electoral Commission are transferred to the new Electoral Commission.
+(2) Subsection (1) does not apply to any employee who does not consent to being transferred.
+
+### 21 References to Chief Electoral Officer
+(1) Until the close of 30 September 2010, any reference to the Chief Electoral Officer, other than a reference in section 4D of the principal Act, must be read as a reference to the Chief Electoral Officer appointed under section 18 of the principal Act.
+(2) On and from 1 October 2010,—
+  (a) the references to the Chief Electoral Officer in sections 28(2)(c) and 33(4) of the principal Act must be read as references to the Chief Electoral Officer appointed under section 4D(1)(a) of the principal Act; and
+  (b) any other reference to the Chief Electoral Officer in any enactment must be read as a reference to the Electoral Commission established by section 4B of the principal Act.
+
+### 22 Assets and liabilities of Chief Electoral Office
+(1) The Secretary for Justice must identify all assets, records, liabilities, and debts of the Ministry of Justice that, immediately before 1 October 2010, are assets, records, liabilities, and debts used or incurred by the Chief Electoral Office of the Ministry of Justice.
+(2) On 1 October 2010, the assets, records, liabilities, and debts identified by the Secretary for Justice under subsection (1) vest in the new Electoral Commission.
+
+### 23 Employees of Ministry of Justice
+(1) The Secretary for Justice must identify all permanent employees of the Ministry of Justice who, immediately before 1 October 2010, are appointed to positions within the Chief Electoral Office of the Ministry of Justice.
+(2) On 1 October 2010, the employees identified by the Secretary for Justice under subsection (1) are transferred to the new Electoral Commission.
+(3) Subsection (2) does not apply to—
+  (a) the existing Chief Electoral Officer; or
+  (b) any person appointed as Deputy Chief Electoral Officer under section 19 of the principal Act; or
+  (c) any employee who does not consent to being transferred.
+
+### 24 Terms and conditions of transferred employees
+(1) The employment of a transferred employee must be on terms and conditions no less favourable to the transferred employee than those applying to the employee immediately before 1 October 2010.
+(2) Subsection (1)—
+  (a) continues to apply to the terms and conditions of employment of a transferred employee until those terms and conditions are varied by agreement between the transferred employee and the new Electoral Commission; but
+  (b) does not apply to a transferred employee who receives any subsequent appointment with the new Electoral Commission.
+
+### 25 Continuity of employment
+(1) Every transferred employee becomes an employee of the new Electoral Commission on 1 October 2010.
+(2) However, for the purposes of this Act and every enactment, law, determination, contract, and agreement relating to the employment of the transferred employee,—
+  (a) the contract of employment of that employee is deemed to have been unbroken; and
+  (b) that employee's period of service with his or her previous employer, and every other period of service of that employee that is recognised as continuous service by his or her previous employer, is deemed to have been a period of service with the new Electoral Commission.
+
+### 26 Restriction of compensation for technical redundancy
+(1) An employee of the existing Electoral Commission or the Ministry of Justice is not entitled to receive any payment or other benefit from the existing Electoral Commission or the Ministry of Justice on the ground that his or her position with that employer has ceased to exist if—
+  (a) the position ceases to exist as a result of amendments made by this Act; and
+  (b) in connection with the transfer of employees under this Act,—
+    (i) the transfer of the employee would result in substantially equivalent employment in the new Electoral Commission (whether or not the employee consents to the transfer); or
+    (ii) the employee consents to a transfer that will result in other employment in the new Electoral Commission.
+(2) Substantially equivalent employment to the employee's employment with his or her previous employer is employment in the new Electoral Commission that is—
+  (a) in substantially the same position; and
+  (b) on terms and conditions of employment that are no less favourable than those that apply to the employee immediately before the offer of equivalent employment (including any service-related, redundancy, and superannuation conditions); and
+  (c) on terms that treat the period of service with the previous employer (and any other service recognised by the previous employer as continuous service) as if it were continuous service with the new Electoral Commission.
