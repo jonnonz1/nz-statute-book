@@ -1,5 +1,5 @@
 # Judicature Act 1908
-_Consolidation as at 2010-03-23_
+_Consolidation as at 2010-05-24_
 
 > An Act to consolidate certain enactments of the Parliament of New Zealand relating to the High Court and the Court of Appeal, and to certain rules and provisions of law in judicial matters generally
 
@@ -17,6 +17,7 @@ Part 3—Rules and provisions of law in judicial matters generally. (Sections 76
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
+  - **Associate Judge** means an Associate Judge of the High Court
   - **Chief High Court Judge** —
     (a) means the person holding that office under section 4A; and
     (b) includes a Judge of the High Court acting in place of the Chief High Court Judge under section 4A(5)
@@ -111,7 +112,7 @@ No person shall be appointed a Judge unless he has held a practising certificate
 ### 8 Judges may be removed or suspended on address of both Houses of Assembly to the Queen
 [Repealed]
 
-### 9 Governor-General may suspend Judge when Parliament not sitting
+### 9 Governor may suspend Judge when Parliament not sitting
 [Repealed]
 
 ### 9A Salaries and allowances of Judges
@@ -123,21 +124,21 @@ No person shall be appointed a Judge unless he has held a practising certificate
 (1A) The higher duties allowance under subsection (1)(ba) is—
   (a) payable only to a Judge who—
     (i) is or was not a Judge of the Court of Appeal holding office under section 57(2) (in this subsection called a permanent Judge); but
-    (ii) is or was under sections 58A to 58C or section 58F serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal; and
-  (b) payable only in respect of periods of the Judge's service as a member of the division or Full Court; and
-  (c) calculated at a rate expressed per day of service as a member of the division or Full Court in accordance with the following formula: (a − b) × c/d where— ais the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a permanent Judge bis the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a Judge who is not a permanent Judge cis 0.0383561 (the standard payroll factor, which represents the proportion of an annual salary that is paid per fortnight) dis 10 (the number of working days per fortnight).
+    (ii) is or was under sections 58A to 58C or section 58F serving as a member of a criminal or civil division, or as a member of the full court, of the Court of Appeal; and
+  (b) payable only in respect of periods of the Judge's service as a member of the division or full court; and
+  (c) calculated at a rate expressed per day of service as a member of the division or full court in accordance with the following formula:(a − b) × c/d where—ais the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a permanent Judgebis the applicable yearly rate of salary determined by the Remuneration Authority to be payable to a Judge who is not a permanent Judgecis 0.0383561 (the standard payroll factor, which represents the proportion of an annual salary that is paid per fortnight)dis 10 (the number of working days per fortnight).
 (2) Subject to the Remuneration Authority Act 1977, any determination made under subsection (1), and any provision of any such determination, may be made so as to come into force on a date to be specified in that behalf in the determination, being the date of the making of the determination or any other date, whether before or after the date of the making of the determination or the date of the commencement of this section.
 (3) Every such determination, and every provision of any such determination, in respect of which no date is specified as aforesaid shall come into force on the date of the making of the determination.
-(4) The salary and allowances payable for a period during which a Judge acts on a part-time basis must be calculated and paid as a pro-rata proportion of the salary and allowances for a full-time equivalent position.
-(5) For the purpose of section 24 of the Constitution Act 1986, neither the cessation of the payment of a higher duties allowance payable and calculated under subsections (1)(ba) and (1A), nor the payment of salary and allowances on a pro-rata basis under subsection (4), is a reduction of salary.
+(4) The salary and allowances payable for a period during which a Judge acts on a part-time basis must be calculated and paid as a pro rata proportion of the salary and allowances for a full-time equivalent position.
+(5) For the purpose of section 24 of the Constitution Act 1986, neither the cessation of the payment of a higher duties allowance payable and calculated under subsections (1)(ba) and (1A), nor the payment of salary and allowances on a pro rata basis under subsection (4), is a reduction of salary.
 
 ### 10 Salaries of Judges not to be diminished
 [Repealed]
 
 ### 11 Temporary Judges
 (1) Subject to section 11B, at any time during the illness or absence of any Judge, or for any other temporary purpose, the Governor-General may, in the name and on behalf of Her Majesty, appoint any person (including a former Judge) to be a Judge for such term, not exceeding 12 months, as the Governor-General may specify.
-(2) Any person appointed a Judge under this section may be re-appointed, but no Judge shall hold office under this section for more than 2 years in the aggregate.
-(3) Every person appointed a Judge under this section shall, during the term of his appointment, be paid the salary and allowances payable by law to a Judge other than the Chief Justice the other Judges of the Supreme Court, the President of the Court of Appeal, the other Judges of the Court of Appeal, or the Chief High Court Judge.
+(2) Any person appointed a Judge under this section may be reappointed, but no Judge shall hold office under this section for more than 2 years in the aggregate.
+(3) Every person appointed a Judge under this section shall, during the term of his appointment, be paid the salary and allowances payable by law to a Judge other than the Chief Justice, the other Judges of the Supreme Court, the President of the Court of Appeal, the other Judges of the Court of Appeal, or the Chief High Court Judge.
 
 ### 11A Former Judges
 (1) Subject to section 11B, the Governor-General may, in the name and on behalf of Her Majesty, appoint any former Judge to be an acting Judge for such term not exceeding 2 years or, if the former Judge has attained the age of 72 years, not exceeding 1 year, as the Governor-General may specify.
@@ -166,7 +167,7 @@ If the Chief Justice or the President of the Court of Appeal resigns from office
 The court shall continue to have all the jurisdiction which it had on the coming into operation of this Act and all judicial jurisdiction which may be necessary to administer the laws of New Zealand.
 
 ### 16A Power to award damages as well as, or in substitution for, injunction or specific performance
-Where the Court has jurisdiction to entertain an application for an injunction or specific performance, it may award damages in addition to, or in substitution for, an injunction or specific performance.
+Where the court has jurisdiction to entertain an application for an injunction or specific performance, it may award damages in addition to, or in substitution for, an injunction or specific performance.
 
 ### 17 Jurisdiction as to mentally disordered persons, etc
 The court shall also have within New Zealand all the jurisdiction and control over the persons and estates of mentally disordered persons, and persons of unsound mind, and over the managers of such persons and estates respectively, as the Lord Chancellor of England, or any Judge or Judges of Her Majesty's High Court of Justice or of Her Majesty's Court of Appeal, so far as the same may be applicable to the circumstances of New Zealand, has or have in England under the Sign-manual of Her Majesty or otherwise.
@@ -202,7 +203,7 @@ For the purposes of section 17A, an association is unable to pay its debts—
   (d) if it is proved to the satisfaction of the High Court that the association is unable to pay its debts, and in determining whether an association is unable to pay its debts, the court shall take into account the contingent and prospective liabilities of the association.
 
 ### 17D Power of liquidator to enforce liabilities
-The liquidator may, by notice in writing, require any person who is liable to pay or contribute to the payment of— to pay or contribute accordingly and every such person is liable to pay or contribute the amount due in respect of that liability.
+The liquidator may, by notice in writing, require any person who is liable to pay or contribute to the payment of—to pay or contribute accordingly and every such person is liable to pay or contribute the amount due in respect of that liability.
   (a) any debt or liability of the association; or
   (b) any sum for the adjustment of the rights of the members among themselves; or
   (c) the costs and expenses of the liquidation—
@@ -210,7 +211,7 @@ The liquidator may, by notice in writing, require any person who is liable to pa
 ### 17E Actions stayed on liquidation
 Where the court appoints a liquidator of an association, no action or proceeding shall be commenced or continued against any person referred to in section 17D in respect of any debt of the association, except with the leave of the court, and subject to such terms as the court may impose.
 
-### 18 No jurisdiction in cases of felonies or misdemeanours committed before 14 January 1840
+### 18 No jurisdiction in cases of felonies or misdemeanours committed prior to 14 January 1840
 The court shall not have jurisdiction to try any felony or misdemeanour committed before 14 January 1840.
 
 ### 19 Powers of the court may be exercised by 1 or more Judges
@@ -225,12 +226,12 @@ The court shall not have jurisdiction to try any felony or misdemeanour committe
   (a) on the application of either party made with the consent in writing of the other party, both the civil proceedings and counterclaim shall be tried before a Judge without a jury, or before a Judge with a jury, whichever is specified in the application:
   (b) if no such application is made, the civil proceedings and the counterclaim shall, subject to any direction of the court or a Judge under section 19B, be tried in accordance with the foregoing provisions of this section:
     provided that if the court or a Judge orders that the civil proceedings and the counterclaim be tried together, they shall be tried before a Judge with a jury.
-(5) Notwithstanding anything to the contrary in the foregoing provisions of this section, in any case where notice is given as aforesaid requiring any civil proceedings to be tried before a jury, if it appears to a Judge before the trial— the Judge may, on the application of either party, order that the civil proceedings or issue be tried before a Judge without a jury.
+(5) Notwithstanding anything to the contrary in the foregoing provisions of this section, in any case where notice is given as aforesaid requiring any civil proceedings to be tried before a jury, if it appears to a Judge before the trial—the Judge may, on the application of either party, order that the civil proceedings or issue be tried before a Judge without a jury.
   (a) that the trial of the civil proceedings or any issue therein will involve mainly the consideration of difficult questions of law; or
   (b) that the trial of the civil proceedings or any issue therein will require any prolonged examination of documents or accounts, or any investigation in which difficult questions in relation to scientific, technical, business, or professional matters are likely to arise, being an examination or investigation which cannot conveniently be made with a jury,—
 (6) Nothing in this section shall apply in respect of any civil proceedings to be heard by the court in its admiralty jurisdiction.
 
-### 19B All other civil proceedings to be tried before Judge alone, unless Court otherwise orders
+### 19B All other civil proceedings to be tried before Judge alone, unless court otherwise orders
 (1) Except as provided in section 19A of this Act, civil proceedings shall be tried before a Judge alone.
 (2) Notwithstanding subsection (1), if it appears to the court at the trial, or to a Judge before the trial, that the civil proceedings or any issue therein can be tried more conveniently before a Judge with a jury the court or Judge may order that the civil proceedings or issue be so tried.
 
@@ -261,7 +262,7 @@ The Governor-General in Council may from time to time appoint special sittings o
   (c) any act or thing required or authorised by any enactment or rule to be done by any person at that office, whether in respect of any proceedings or in respect of any transaction recorded or document filed there, may be done at the substituted office:
   (d) any address for service, being an address conforming to the requirements of the rules of court, that has been given by any party to any proceedings in respect of which the records are delivered to the substituted office shall continue to be the address for service of that party for the purposes of those proceedings, notwithstanding that because of its distance from the substituted office it may cease to conform to those requirements:
     provided that where, because of its distance from the substituted office, the address does not conform to the requirements of the rules, the party shall give a new address for service conforming to those requirements when he first files in the substituted office any document in the proceedings:
-  (e) if in respect of any proceedings, or of any transaction, document, record, or other matter, any question arises as to the application of any provision of this section or as to the proper procedure to be followed, the Court or a Judge may determine the question and make such order thereon as the Court or Judge thinks fit.
+  (e) if in respect of any proceedings, or of any transaction, document, record, or other matter, any question arises as to the application of any provision of this section or as to the proper procedure to be followed, the court or a Judge may determine the question and make such order thereon as the court or Judge thinks fit.
 
 ### 24 Registrar may act for Judge in certain cases
 [Repealed]
@@ -295,7 +296,7 @@ The Governor-General in Council may from time to time appoint special sittings o
     (ii) defended applications under section 209ZG of the Companies Act 1955 or section 174 of the Companies Act 1993:
     (iii) disputes relating to takeovers:
     (iv) disputes between shareholders or classes of shareholders of companies (other than companies registered under Part 8 of the Companies Act 1955 and companies registered under the Companies Act 1993 and having not more than 25 shareholders):
-  (g) proceedings of a commercial nature required or permitted to be entered on a commercial list by or under any Act or by or under the High Court Rules or any rules made under section 51C.
+  (g) proceedings of a commercial nature required or permitted to be entered on a commercial list by or under any Act or by or under the High Court Rules or any rules made under section 51C of this Act.
 (2) Where any appeal belonging to the class of appeals described in subsection (1)(c) is entered on a commercial list,—
   (a) that appeal shall, notwithstanding section 75(2) of the Commerce Act 1986, be heard and determined by the court; and
   (b) any lay member appointed pursuant to section 77 of the Commerce Act 1986 shall, for the purpose of the hearing and determination of that appeal by the court, be deemed to be a lay member of the court; and
@@ -310,7 +311,7 @@ The Governor-General in Council may from time to time appoint special sittings o
 (1A) The Chief High Court Judge can be nominated under subsection (1).
 (2) After consulting the Chief High Court Judge, the Chief Justice may nominate 1 or more Judges to help the Judge nominated under subsection (1) and to supervise the list when that Judge is absent from duty.
 (3) Every interlocutory application in any proceeding entered on a commercial list shall be determined by a Judge nominated under subsection (1) or subsection (2).
-(4) Where— any party to the dispute may apply to a Judge nominated under subsection (1) or subsection (2) for the determination of the questions involved in the dispute.
+(4) Where—any party to the dispute may apply to a Judge nominated under subsection (1) or subsection (2) for the determination of the questions involved in the dispute.
   (a) any dispute has arisen concerning the construction, status, or application of a contract or document; and
   (b) the dispute could be determined in a proceeding eligible for entry on a commercial list; and
   (c) no proceeding has been commenced in respect of the dispute,—
@@ -393,7 +394,7 @@ For the purpose of providing a superannuation fund or retiring allowance for per
 (2) The period so specified shall not exceed 12 months; but any person appointed under this section may from time to time be reappointed.
 (3) No person shall be appointed as an Associate Judge under this section unless that person is eligible for appointment as an Associate Judge pursuant to section 26C, save that, subject to subsection (4) of this section, a person otherwise qualified who has attained the age of 70 years (including an Associate Judge who has retired after attaining that age) may be appointed as an Associate Judge under this section.
 (4) No person shall be appointed or reappointed as an Associate Judge under this section who has attained the age of 72 years.
-(5) Subject to section 26F(5) of this Act, every person appointed as an Associate Judge under this section shall, during the term of that Associate Judge's appointment, be paid the salary and allowances payable by law to an Associate Judge.
+(5) Subject to section 26F(5), every person appointed as an Associate Judge under this section shall, during the term of that Associate Judge's appointment, be paid the salary and allowances payable by law to an Associate Judge.
 (6) No appointment may be made under this section otherwise than on a certificate signed by the Chief Justice to the effect that, in the opinion of the Chief Justice, it is necessary for the due conduct of the business of the court that a temporary Associate Judge be appointed.
 (7) The Chief Justice must not sign the certificate without first consulting the Chief High Court Judge.
 
@@ -592,7 +593,7 @@ Every oath, affidavit, or affirmation taken or made before any such Commissioner
 **Practice and procedure of the court**
 
 ### 50 Seal of the court
-(1) The Court shall have in the custody of each Registrar a seal of the Court, for the sealing of all writs and other instruments or documents issued by such Registrar and requiring to be sealed.
+(1) The court shall have in the custody of each Registrar a seal of the court, for the sealing of all writs and other instruments or documents issued by such Registrar and requiring to be sealed.
 (2)
 
 ### 51 High Court Rules
@@ -673,7 +674,7 @@ All fees received under this Act must be paid into a Crown Bank Account.
 [Repealed]
 
 ### 54B Discharge of juror or jury
-Nothing in this Act affects the powers of a Court or Judge to discharge a juror or jury for a civil case under section 22 of the Juries Act 1981.
+Nothing in this Act affects the powers of a court or Judge to discharge a juror or jury for a civil case under section 22 of the Juries Act 1981.
 
 **Miscellaneous rules of law and of practice**
 
@@ -718,7 +719,7 @@ Nothing in this Act affects the powers of a Court or Judge to discharge a juror 
 **Contempt of court**
 
 ### 56C Contempt of court
-(1) If any person— any constable or officer of the court, with or without the assistance of any other person, may, by order of the Judge, take the offender into custody and detain him until the rising of the court.
+(1) If any person—any constable or officer of the court, with or without the assistance of any other person, may, by order of the Judge, take the offender into custody and detain him until the rising of the court.
   (a) assaults, threatens, intimidates, or wilfully insults a Judge, or any Registrar, or any officer of the court, or any juror, or any witness, during his sitting or attendance in court, or in going to or returning from the court; or
   (b) wilfully interrupts or obstructs the proceedings of the court or otherwise misbehaves in court; or
   (c) wilfully and without lawful excuse disobeys any order or direction of the court in the course of the hearing of any proceedings—
@@ -734,11 +735,11 @@ The provisions of this Act are to be read subject to section 146A of the Immigra
 
 ### 56D Interpretation
 In this Part, unless the context otherwise requires,—
-  - **Australian proceeding** means a proceeding in which a matter for determination arises under— whether or not any other matter arises for determination; and includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding
+  - **Australian proceeding** means a proceeding in which a matter for determination arises under—whether or not any other matter arises for determination; and includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding
     (a) any of sections 46A, 155A, or 155B of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia; or
     (b) a provision of Part 6 or Part 12 of the Trade Practices Act 1974 of the Parliament of the Commonwealth of Australia in so far as it relates to any of sections 46A, 155A, or 155B of that Act,—
   - **Federal Court** means the Federal Court of Australia
-  - **New Zealand proceeding** means a proceeding in which a matter for determination arises under— whether or not any other matter arises for determination; and includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding.
+  - **New Zealand proceeding** means a proceeding in which a matter for determination arises under—whether or not any other matter arises for determination; and includes an interlocutory proceeding related to such a proceeding and an application for the issue of execution or enforcement of a judgment or order or injunction given or made or granted in such a proceeding.
     (a) any of sections 36A, 98H, or 99A of the Commerce Act 1986; or
     (b) a provision of Part 6 or Part 7 of the Commerce Act 1986 in so far as it relates to any of sections 36A, 98H, or 99A of that Act,—
 
@@ -758,7 +759,7 @@ A person who is entitled to practise as a barrister, or solicitor, or both, in t
 
 ### 56G High Court may set aside subpoena issued in New Zealand proceeding
 (1) The High Court may set aside an order of subpoena issued by the High Court requiring the attendance of a person in Australia to testify or to produce documents to the High Court for the purposes of a New Zealand proceeding.
-(2) An application under subsection (1) of this section shall be made by the person served with the order of subpoena and may be made ex parte.
+(2) An application under subsection (1) shall be made by the person served with the order of subpoena and may be made ex parte.
 (3) Without limiting the grounds on which the order of subpoena may be set aside, the High Court may set the order aside on any of the following grounds:
   (a) that the witness does not have, and could not reasonably be expected to obtain, the necessary travel documents:
   (b) that the witness is liable to be detained for the purpose of serving a sentence:
@@ -808,14 +809,14 @@ Notwithstanding any rule of law, the High Court may, in a New Zealand proceeding
     (i) the Federal Court would have been likely to have set aside the order of subpoena if those matters had been brought to the attention of that court; and
     (ii) the failure to bring those matters to the attention of the Federal Court was not due to any fault on the part of the person alleged to have failed to comply with the order of subpoena or was due to an omission by that person that should be excused; and
   (b) any matters to which the High Court would have regard if the order of subpoena had been issued by the High Court.
-(4) For the purposes of this section, but subject to subsection (3), a certificate under the seal of the Federal Court stating— shall be conclusive evidence of the matters stated in it.
+(4) For the purposes of this section, but subject to subsection (3), a certificate under the seal of the Federal Court stating—shall be conclusive evidence of the matters stated in it.
   (a) that the order of subpoena was issued by that court:
   (b) that the witness failed to comply with the order of subpoena:
   (c) in relation to any application made to that court to have the order of subpoena set aside, the decision of that court or any orders or findings of fact made by that court—
 (5) Subject to subsection (3), no findings of fact made by the Federal Court on an application to that court to have the order of subpoena set aside may be challenged by any person alleged to have failed to comply with the order unless the court was deliberately misled in making those findings of fact.
 
 ### 56M Federal Court of Australia may administer oaths in New Zealand
-(1) The Federal Court may— administer an oath or affirmation in accordance with the practice and procedure of that court.
+(1) The Federal Court may—administer an oath or affirmation in accordance with the practice and procedure of that court.
   (a) at any sitting of that court in New Zealand held for the purposes of an Australian proceeding; or
   (b) for the purposes of obtaining the testimony of a person in New Zealand by video link or telephone conference at a sitting of that court in Australia—
 (2) Evidence given by a person on oath or affirmation administered by the Federal Court under subsection (1), for the purposes of section 108 of the Crimes Act 1961 (which relates to perjury), be deemed to have been given as evidence in a judicial proceeding on oath.
@@ -844,10 +845,10 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
 
 ### 56Q Privileges and immunities of Judges, counsel, and witnesses in Australian proceedings
 (1) A Judge of the Federal Court sitting as a Judge of that court in New Zealand in an Australian proceeding has all the protections, privileges, and immunities of a Judge of the High Court.
-(2) Every witness who gives evidence in an Australian proceeding— has all the privileges and immunities of a witness in the High Court.
+(2) Every witness who gives evidence in an Australian proceeding—has all the privileges and immunities of a witness in the High Court.
   (a) at a sitting in New Zealand of the Federal Court; or
   (b) by video link or telephone conference at a sitting in Australia of the Federal Court—
-(3) A person appearing as a barrister, or solicitor, or both, in an Australian proceeding— has all the privileges and immunities of counsel in the High Court.
+(3) A person appearing as a barrister, or solicitor, or both, in an Australian proceeding—has all the privileges and immunities of counsel in the High Court.
   (a) at a sitting in New Zealand of the Federal Court; or
   (b) by video link or telephone conference at a sitting in Australia of the Federal Court—
 
@@ -921,7 +922,7 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
   (b) 1 or more divisions of the Court of Appeal for the purposes of civil proceedings.
 (4) Each division of the Court of Appeal may exercise all the powers of the Court of Appeal.
 (5) A division of the court may exercise any powers of the court even though 1 or more divisions of the court or a full court is exercising any powers of the court at the same time.
-(6) If the majority of the members of a division of the court considers it desirable to do so, the division may— for the consideration of a full court of the Court of Appeal, and in that case a full court has the power to hear and determine the proceeding, case, or question.
+(6) If the majority of the members of a division of the court considers it desirable to do so, the division may—for the consideration of a full court of the Court of Appeal, and in that case a full court has the power to hear and determine the proceeding, case, or question.
   (a) refer any proceeding; or
   (b) state any case; or
   (c) reserve any question—
@@ -959,10 +960,10 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
 (2) The President of the Court of Appeal must publish in the Gazette any procedure adopted under subsection (1).
 (3) A Judge of the High Court who is eligible to act as a Judge of a division of the Court of Appeal because of a nomination made under section 58A(2) or section 58B(2) may not be assigned to a division without the concurrence of the Chief Justice and the Chief High Court Judge.
 
-### 58D Court of Appeal to Sit as full court in certain cases
+### 58D Court of Appeal to sit as full court in certain cases
 (1) Subject to subsection (3), a full court consists of 5 Judges.
 (2) Subject to section 58F, a full court is constituted only by Judges of the Court of Appeal holding office under section 57(2).
-(3) Where, pending the determination of any proceeding, 1 or more of the members of a full court before whom the proceeding is being heard or was heard— it is not necessary for that proceeding to be reheard, and the remaining members may continue to act as a full court for the purposes of this section with power to determine the proceeding or any incidental matter (including the question of costs) that may arise in the course of that proceeding.
+(3) Where, pending the determination of any proceeding, 1 or more of the members of a full court before whom the proceeding is being heard or was heard—it is not necessary for that proceeding to be reheard, and the remaining members may continue to act as a full court for the purposes of this section with power to determine the proceeding or any incidental matter (including the question of costs) that may arise in the course of that proceeding.
   (a) dies; or
   (b) becomes seriously ill; or
   (c) is otherwise unavailable for any reason,—
@@ -976,7 +977,7 @@ No application for review under Part 1 of the Judicature Amendment Act 1972 and 
 (2) The President of the Court of Appeal must publish in the Gazette any procedure adopted by the Judges of the Court of Appeal under subsection (1).
 
 ### 58F High Court Judges sitting on full court
-(1) Whenever the President of the Court of Appeal certifies in writing that due to— it is necessary for a specified Judge who has been assigned to a division of the court under section 58C to sit as a member of the full court, that Judge may sit as a member of the full court.
+(1) Whenever the President of the Court of Appeal certifies in writing that due to—it is necessary for a specified Judge who has been assigned to a division of the court under section 58C to sit as a member of the full court, that Judge may sit as a member of the full court.
   (a) the illness or absence on leave of any of the Judges holding office under section 57(2); or
   (b) the need for the expertise of a specific Judge of the High Court in a particular case; or
   (c) any other exceptional circumstances,—
@@ -1055,7 +1056,7 @@ The Court of Appeal shall have jurisdiction and power to hear and determine appe
 (4) If leave to appeal referred to in subsection (1)(a) is obtained, the decision of the Court of Appeal on appeal from the High Court is final unless a party, on application, obtains leave to appeal against that decision to the Supreme Court.
 (5) Subsections (1), (3), and (4) are subject to the Supreme Court Act 2003.
 
-### 68 Direct appeal from decision of inferior Courts
+### 68 Direct appeal from decision of inferior courts
 [Repealed]
 
 **Criminal jurisdiction**
@@ -1068,7 +1069,7 @@ The Court of Appeal shall have jurisdiction and power to hear and determine appe
 
 **Appeals from convictions**
 
-### 70 Appeal from Judgment of Supreme Court on conviction
+### 70 Appeal from judgment of Supreme Court on conviction
 [Repealed]
 
 **Miscellaneous**
@@ -1133,12 +1134,11 @@ A co-surety, co-contractor, or co-debtor shall not be entitled to recover from a
 **Interest on money**
 
 ### 87 Interest on debts and damages
-(1) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt or damages, the court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
-  provided that nothing in this subsection shall—
-    (a) authorise the giving of interest upon interest; or
-    (b) apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise; or
-    (c) affect the damages recoverable for the dishonour of a bill of exchange.
-(2) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law or otherwise, there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as the Court thinks fit for the period between the date as from which the interest became payable and the date of the judgment.
+((1)) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt or damages, the court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:provided that nothing in this subsection shall—
+  (a) authorise the giving of interest upon interest; or
+  (b) apply in relation to any debt upon which interest is payable as of right, whether by virtue of any agreement, enactment, or rule of law, or otherwise; or
+  (c) affect the damages recoverable for the dishonour of a bill of exchange.
+(2) In any proceedings in the High Court, the Court of Appeal, or the Supreme Court for the recovery of any debt upon which interest is payable as of right, and in respect of which the rate of interest is not agreed upon, prescribed, or ascertained under any agreement, enactment, or rule of law or otherwise, there shall be included in the sum for which judgment is given interest at such rate, not exceeding the prescribed rate, as the court thinks fit for the period between the date as from which the interest became payable and the date of the judgment.
 (3) In this section the term the prescribed rate means the rate of 7.5% per annum, or such other rate as may from time to time be prescribed for the purposes of this section by the Governor-General by Order in Council.
 
 **Lost instruments**
@@ -1200,7 +1200,7 @@ Relief, whether under section 94A or in equity or otherwise, in respect of any p
 [Repealed]
 
 ### 98A Proceedings in lieu of writs
-(1) Where, immediately before the commencement of the Judicature Amendment Act (No 2) 1985,— then, after the commencement of that Act,—
+(1) Where, immediately before the commencement of the Judicature Amendment Act (No 2) 1985,—then, after the commencement of that Act,—
   (a) the court had jurisdiction to grant any relief or remedy or do any other thing by way of writ, whether of prohibition, mandamus, certiorari, or any other description; or
   (b) in any proceedings in the court for any relief or remedy any writ might have issued out of the court for the purpose of the commencement or conduct of the proceedings, or otherwise in relation to the proceedings, whether the writ might have issued pursuant to any rule or order of the court or of course,—
   (c) the court shall continue to have jurisdiction to grant that relief or remedy or to do that thing; but
@@ -2900,7 +2900,7 @@ The certificate given under rule 6.25 must be sealed with the seal of the court 
 #### Subpart 4 — Service out of New Zealand
 
 ### 6.27 When allowed without leave
-(1) This rule applies to a document that initiates a civil proceeding, or is a notice issued under subpart 4 of Part 4 (Third, fourth and subsequent parties), which under these rules is required to be served but cannot be served in New Zealand under these rules (an originating document).
+(1) This rule applies to a document that initiates a civil proceeding, or is a notice issued under subpart 4 of Part 4 (third, fourth and subsequent parties), which under these rules is required to be served but cannot be served in New Zealand under these rules (an originating document).
 (2) An originating document may be served out of New Zealand without leave in the following cases:
   (a) when a claim is made in tort and—
     (i) any act or omission in respect of which damage was sustained was done or occurred in New Zealand; or
@@ -5051,7 +5051,7 @@ The following general principles apply to the determination of costs:
   (g) so far as possible the determination of costs should be predictable and expeditious.
 
 ### 14.3 Categorisation of proceedings
-(1) For the purposes of rule 14.2(b), proceedings must be classified as falling within one of the following categories: Category 1 proceedings Proceedings of a straightforward nature able to be conducted by counsel considered junior in the High Court Category 2 proceedings Proceedings of average complexity requiring counsel of skill and experience considered average in the High Court Category 3 proceedings Proceedings that because of their complexity or significance require counsel to have special skill and experience in the High Court
+(1) For the purposes of rule 14.2(b), proceedings must be classified as falling within one of the following categories:Category 1 proceedingsProceedings of a straightforward nature able to be conducted by counsel considered junior in the High CourtCategory 2 proceedingsProceedings of average complexity requiring counsel of skill and experience considered average in the High CourtCategory 3 proceedingsProceedings that because of their complexity or significance require counsel to have special skill and experience in the High Court
 (2) The court may at any time determine in advance a proceeding’s category, which applies to all subsequent determinations of costs in the proceeding, unless there are special reasons to the contrary.
 
 ### 14.4 Appropriate daily recovery rates
@@ -5752,7 +5752,7 @@ The court may set aside an enforcement process if it is issued contrary to—
 In this subpart, unless the context otherwise requires,—
   - **employer** , in relation to a liable party, includes—
     (a) a person by whom a retiring allowance or pension or other payment of a similar nature is payable to the liable party:
-    (b) the Accident Compensation Corporation in respect of weekly compensation payable to the liable party under the Injury Prevention, Rehabilitation, and Compensation Act 2001:
+    (b) the Accident Compensation Corporation in respect of weekly compensation payable to the liable party under the Accident Compensation Act 2001:
     (c) the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 in respect of a benefit payable to the liable party:
     (d) a person for whom work is performed under a contract for services
   - **protected earnings amount** means an amount specified in an attachment order below which the net earnings or benefit paid to the liable party must not be reduced
@@ -5761,7 +5761,7 @@ In this subpart, unless the context otherwise requires,—
     (b) a bonus or an incentive payment:
     (c) a payment of commission:
     (d) a payment in consideration of work performed under a contract for services:
-    (e) all payments of weekly compensation made under the Injury Prevention, Rehabilitation, and Compensation Act 2001 by the Accident Compensation Corporation:
+    (e) all payments of weekly compensation made under the Accident Compensation Act 2001 by the Accident Compensation Corporation:
     (f) a benefit within the meaning of the Social Security Act 1964.
 
 ### 17.32 Effect of attachment order
@@ -6209,7 +6209,7 @@ The court may, at any time, order—
 #### Subpart 1 — Application
 
 ### 18.1 Types of proceedings
-This Part applies to the following types of proceedings: Equitable jurisdiction Determinations by court under statutes Contracts for sale of land Mortgages and charges over land Proceedings directed by court
+This Part applies to the following types of proceedings:Equitable jurisdictionDeterminations by court under statutesContracts for sale of landMortgages and charges over landProceedings directed by court
   (a) proceedings in which the relief claimed is wholly within the equitable jurisdiction of the court, such as—
     (i) the determination of a claim to an entitlement as beneficiary under a will or trust or on the intestacy of a deceased person, or as creditor of a deceased person, whether the claim is made by the person claiming to be entitled or by that person’s assignee or successor:
     (ii) the ascertainment of a class of creditors, beneficiaries under a will, or persons entitled on the intestacy of a deceased person, or of beneficiaries under a trust:
@@ -6416,7 +6416,7 @@ The following office holders may seek the directions of the court by originating
 
 ### 19.9 Heading of documents
 (1) The heading of a document presented for filing in a proceeding commenced by originating application must be in form G 1.
-(2) However, if there is neither a defendant nor a respondent to the proceeding, the heading must be in the following form: In the matter of [title of Act] and In the matter of [full name, place of residence, occupation]
+(2) However, if there is neither a defendant nor a respondent to the proceeding, the heading must be in the following form:In the matter of [title of Act]andIn the matter of [full name, place of residence, occupation]
 
 ### 19.10 Application of rules relating to interlocutory applications
 (1) The following rules concerning interlocutory applications apply with all necessary modifications to proceedings commenced by originating application:
@@ -6595,7 +6595,7 @@ Despite rule 20.6(1)(c), the court may dispense with service on a party of a not
 ### 20.13 Security for appeal
 (1) This rule applies to an appeal other than an appeal for which the appellant has been granted legal aid under the Legal Services Act 2000.
 (2) The Judge must fix security for costs at the case management conference relating to the appeal, unless the Judge considers that in the interests of justice no security is required.
-(3) The amount of security must be fixed in accordance with the following formula, unless the Judge otherwise directs: a × b 2 where— ais the daily recovery rate for the proceeding as classified by the Judge under rule 14.4; and bis the number of half days estimated by the Judge as the time required for the hearing.
+(3) The amount of security must be fixed in accordance with the following formula, unless the Judge otherwise directs:a× b2where—ais the daily recovery rate for the proceeding as classified by the Judge under rule 14.4; andbis the number of half days estimated by the Judge as the time required for the hearing.
 (4) Security must be paid to the Registrar at the registry of the court no later than 10 working days after the case management conference, unless the Judge otherwise directs.
 (5) Except in the case of an appeal under the District Courts Act 1947 (where non-compliance with the security order results in a deemed abandonment of the appeal under section 74), if the security is not paid within the time specified under subclause (4), the respondent may apply for an order dismissing the appeal.
 (6) The Judge must defer the fixing of security until the application for legal aid has been determined if—
@@ -9800,7 +9800,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Select one. |
 | --- |
 
-| Item | Particulars | Amount ($) |
+| Item | Particulars | Amount($) |
 | --- | --- | --- |
 | (a) | salary, wages, or other personal earnings |  |
 | (b) | gross income from business, shop, farm, or sale of produce* |  |
@@ -9818,7 +9818,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | *Attach the latest statement of financial position and statement of financial performance. |
 | --- |
 
-| Item in paragraph 2 | Name and address | Amount ($) |
+| Item in paragraph 2 | Name and address | Amount($) |
 | --- | --- | --- |
 | (a) | [employers] |  |
 | (b) | [boarders] |  |
@@ -9829,7 +9829,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | (g) | [persons who paid dividends and interest] |  |
 | (h) | [persons who paid other income] |  |
 
-| Item | Particulars | Amount ($) |
+| Item | Particulars | Amount($) |
 | --- | --- | --- |
 | (a) | income tax |  |
 | (b) | insurance and superannuation |  |
@@ -9852,19 +9852,19 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | (s) | other expenses [specify] |  |
 |  | Total expenses in the 52 weeks: |  |
 
-| Full name | Age | Relationship | Details of separate income ($) |
+| Full name | Age | Relationship | Details of separate income($) |
 | --- | --- | --- | --- |
 
-| Full name | Address | Amount ($) |
+| Full name | Address | Amount($) |
 | --- | --- | --- |
 
-| Full name | Address | Amount ($) |
+| Full name | Address | Amount($) |
 | --- | --- | --- |
 
-| Full name | Address | Amount ($) |
+| Full name | Address | Amount($) |
 | --- | --- | --- |
 
-| Item | Particulars | Amount ($) |
+| Item | Particulars | Amount($) |
 | --- | --- | --- |
 | (a) | land and buildings: [address and capital value] |  |
 | (b) | money in bank accounts: [specify banks and account numbers] |  |
@@ -9878,7 +9878,7 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | (j) | any other property or assets not specified above, including interest in any estate: [specify details] |  |
 |  | Total assets: |  |
 
-| Description of asset | Names and addresses of persons to whom properties given, sold, or otherwise disposed of | Dates of disposal | Amounts received ($) |
+| Description of asset | Names and addresses of persons to whom properties given, sold, or otherwise disposed of | Dates of disposal | Amounts received)($) |
 | --- | --- | --- | --- |
 
 | Name | Address | Item | Amount ($) |
@@ -9887,10 +9887,10 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | Name | Address | Amount of debt ($) |
 | --- | --- | --- |
 
-| Name | Address | Nature of liability | Amount ($) |
+| Name | Address | Nature of liability | Amount($) |
 | --- | --- | --- | --- |
 
-| Particulars | Amount ($) |
+| Particulars | Amount($) |
 | --- | --- |
 | Whole/portion* of judgment debt sought by this order |  |
 | Court fees and solicitor’s costs |  |
@@ -9930,6 +9930,9 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | --- |
 
 | †Select one. |
+| --- |
+
+| *Select one. |
 | --- |
 
 | *Select one. |
@@ -10596,11 +10599,11 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 
 #### Schedule 2 — Appropriate daily recovery rates
 
-| Category of proceedings referred to in rule 14.3 | Appropriate daily recovery rate ($) |
+| Category of proceedings referred to in rule 14.3 | Appropriate daily recovery rate |
 | --- | --- |
-| Category 1 proceedings | 1,070 per day |
-| Category 2 proceedings | 1,600 per day |
-| Category 3 proceedings | 2,370 per day |
+| Category 1 proceedings | $1,250 per day |
+| Category 2 proceedings | $1,880 per day |
+| Category 3 proceedings | $2,780 per day |
 
 #### Schedule 3 — Time allocations
 
@@ -10705,32 +10708,10 @@ The court may make a search order under rule 33.2 only if the court is satisfied
 | 29 | Preparing for hearing of defended specified originating application | The time occupied by the hearing measured in quarter days |  |  |
 | 30 | Appearance at hearing of defended specified originating application | Appearance in court measured in quarter days |  |  |
 
-| *In items 25 to 30, specified originating application means an originating application that is made to the court under any of the following provisions: a sections 143, 145, or 145A of the Land Transfer Act 1952: b section 290 of the Companies Act 1993. |
+| *In items 25 to 30, specified originating application means an originating application that is made to the court under any of the following provisions:asections 143, 145, or 145A of the Land Transfer Act 1952:bsection 290 of the Companies Act 1993. |
 | --- |
 
 #### Schedule 4 — Code of conduct for expert witnesses
-
-| Duty to the court |  |  |
-| --- | --- | --- |
-| 1 | An expert witness has an overriding duty to assist the court impartially on relevant matters within the expert’s area of expertise. |  |
-| 2 | An expert witness is not an advocate for the party who engages the witness. |  |
-| Evidence of expert witness |  |  |
-| 3 | In any evidence given by an expert witness, the expert witness must— |  |
-|  | (a) | acknowledge that the expert witness has read this code of conduct and agrees to comply with it: |
-|  | (b) | state the expert witness’ qualifications as an expert: |
-|  | (c) | state the issues the evidence of the expert witness addresses and that the evidence is within the expert’s area of expertise: |
-|  | (d) | state the facts and assumptions on which the opinions of the expert witness are based: |
-|  | (e) | state the reasons for the opinions given by the expert witness: |
-|  | (f) | specify any literature or other material used or relied on in support of the opinions expressed by the expert witness: |
-|  | (g) | describe any examinations, tests, or other investigations on which the expert witness has relied and identify, and give details of the qualifications of, any person who carried them out. |
-| 4 | If an expert witness believes that his or her evidence or any part of it may be incomplete or inaccurate without some qualification, that qualification must be stated in his or her evidence. |  |
-| 5 | If an expert witness believes that his or her opinion is not a concluded opinion because of insufficient research or data or for any other reason, this must be stated in his or her evidence. |  |
-| Duty to confer |  |  |
-| 6 | An expert witness must comply with any direction of the court to— |  |
-|  | (a) | confer with another expert witness: |
-|  | (b) | try to reach agreement with the other expert witness on matters within the field of expertise of the expert witnesses: |
-|  | (c) | prepare and sign a joint witness statement stating the matters on which the expert witnesses agree and the matters on which they do not agree, including the reasons for their disagreement. |
-| 7 | In conferring with another expert witness, the expert witness must exercise independent and professional judgment, and must not act on the instructions or directions of any person to withhold or avoid agreement. |  |
 
 #### Schedule 5 — Matters for consideration at case management conference for proceeding other than appeal
 
@@ -10749,7 +10730,7 @@ This Act may be cited as the Judicature Amendment Act 1910, and shall form part 
 (1) Where any person neglects or refuses to comply with a judgment or order of the High Court or Court of Appeal directing him to execute any conveyance, contract, or other document, or to indorse any negotiable instrument, the High Court may, on such terms and conditions (if any) as may be just, order that such conveyance, contract, or other document shall be executed or that such negotiable instrument shall be indorsed by such person as the High Court may nominate for that purpose; and in such case the conveyance, contract, document, or instrument so executed or indorsed shall operate and be for all purposes available as if it had been executed or indorsed by the person originally directed to execute or indorse it.
 (2) This section shall not affect any action or other proceeding already commenced in any court, or invalidate anything heretofore lawfully done, or validate anything already declared to be invalid in any proceedings heretofore taken in any court.
 
-### 4 Court or Judge to have discretion in certain cases
+### 4 Court or Judge to have discretion in cases coming within paragraphs (c) and (d) of section 3 of the Imprisonment for Debt Limitation Act 1908
 In any case coming within the exceptions specified in paragraphs (c) and (d) of section 3 of the Imprisonment for Debt Limitation Act 1908, or within either of those exceptions, any court or Judge making the order for payment, or having jurisdiction in the action or proceeding in which the order for payment is made, may inquire into the case, and (subject to the provisoes contained in the said section 3) may grant or refuse, either absolutely or upon terms, any application for a writ of attachment, or other process or order of arrest or imprisonment, and any application to stay the operation of any such writ, process, or order, or for discharge from arrest or imprisonment thereunder.
 
 ### 1 Short Title
@@ -10758,29 +10739,6 @@ This Act may be cited as the Judicature Amendment Act 1952, and shall be read to
 ### 2 Offices of the High Court
 (1) Amendment(s) incorporated in the Act(s).
 (2) Every office of the court heretofore established shall be deemed to have been lawfully established.
-
-### 3 Power of courts to award interest on debts and damages
-(1) Amendment(s) incorporated in the Act(s).
-(2) Section 87 of the principal Act, as substituted by this section, shall apply to proceedings pending or in progress at the passing of this Act as well as to proceedings commenced after the passing of this Act.
-(3) Sections 28 and 29 of the Civil Procedure Act 1833 shall cease to have effect in New Zealand.
-
-### 1 Short Title, etc.
-(1) This Act may be cited as the Judicature Amendment Act 1957, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
-(2) Except as provided in subsection (2) of section 2 and subsection (3) of section 4, this Act shall come into force on 1 January 1958.
-
-**The Court of Appeal**
-
-### 2 Constitution of the Court of Appeal
-(1) Amendment(s) incorporated in the Act(s).
-(2) Any appointment of a Judge of the Court of Appeal may be made under section 57 of the principal Act, as amended by subsection (1) of this section, at any time after the date of the passing of this Act as if this section had come into force on that date. Any person so appointed shall come into office as a Judge of the Court of Appeal on the commencement of this Act.
-
-**Miscellaneous provisions**
-
-### 10
-(1) The enactments specified in the Schedule are hereby repealed.
-(2) Where at the commencement of this Act any appeal or other matter has already been heard or partly heard before the Court of Appeal, that appeal or other matter may be continued and completed before the Court of Appeal as constituted before the commencement of this Act, and the judgment or decision of that court may be given thereon, as if this Act had not been passed.
-(3) Except in any case to which subsection (2) applies, all appeals and proceedings brought in the Court of Appeal before the date of the commencement of this Act and pending or in progress at that date may be continued and completed before the Court of Appeal constituted under the principal Act as amended by this Act.
-(4) Without limiting the provisions of the Interpretation Act 1999, but subject to the foregoing provisions of this section, it is hereby declared that the repeal of any provision by this Act shall not affect any appointment or document made or deemed to have been made or any thing whatsoever done under the provision so repealed or any corresponding former provision, and every such appointment or document or thing, so far as it is subsisting or in force at the time of the repeal and could have been made or done under this Act, shall continue and have effect as if it had been made or done under the corresponding provision of this Act, and as if that provision had been in force when the document was made or the thing was done.
 
 ### 1 Short Title
 This Act may be cited as the Judicature Amendment Act 1972, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
@@ -10895,126 +10853,6 @@ Subject to sections 14 and 15, every reference to any enactment (other than this
 (2) Every person who at the commencement of this section holds office as Deputy Sheriff shall continue to hold that office as if he had been appointed pursuant to section 29 of the principal Act (as substituted by this section).
 (3) This section shall come into force on a date to be appointed for the commencement thereof by the Governor-General by Order in Council.
 
-### 1 Short Title and commencement
-(1) This Act may be cited as the Judicature Amendment Act 1979, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
-(2) This section and sections 3 to 5, 7, and 8 shall come into force on the date on which this Act receives the Governor-General's assent.
-(3) Except as provided in subsection (2), this Act shall come into force on 1 April 1980.
-
-### 13 Transitional provisions
-(1) Every person who, immediately before the commencement of this Act, was holding office as a permanent Judge of the Supreme Court shall be deemed for all purposes to have been appointed as a Judge of the High Court, and his commission shall be construed accordingly.
-(2) Every person who, immediately before the commencement of this Act, was holding office as a temporary Judge of the Supreme Court shall be deemed for all purposes to have been appointed to be a temporary Judge of the High Court, and his commission shall be construed accordingly.
-(3) Every person who, immediately before the commencement of this Act, was holding office as a Registrar or Deputy Registrar or an officer of the Supreme Court shall be deemed for all purposes to have been appointed to be a Registrar or Deputy Registrar or an officer of the High Court.
-(4) Every office of the Supreme Court existing immediately before the commencement of this Act shall be deemed for all purposes to have been established pursuant to section 23A of the principal Act as an office of the High Court.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Judicature Amendment Act 1980, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
-(2) Sections 2 and 3 shall come into force on 1 January 1981.
-(3) Except as provided in subsection (2), this Act shall come into force on 1 May 1981.
-
-### 2 Age of retirement
-(1) Amendment(s) incorporated in the Act(s).
-(2) Amendment(s) incorporated in the Act(s).
-(3) Notwithstanding subsection (2), any Judge who is in office at the commencement of this section may, at his option, continue in office until he attains the age of 72.
-
-### 1 Short Title
-This Act may be cited as the Judicature Amendment Act 1981, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
-
-### 3 Age of retirement
-(1) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding subsection (1), any Judge who was in office on 1 January 1981 (being the date of the commencement of section 2 of the Judicature Amendment Act 1980) and is still in office at the commencement of this Act may, at his option, continue in office until he attains the age of 72.
-(3) Amendment(s) incorporated in the Act(s).
-(4) Amendment(s) incorporated in the Act(s).
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Judicature Amendment Act (No 2) 1985, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
-(2) This Act shall come into force on 1 January 1986.
-
-### 13 Transitional provisions
-(1) Where any civil proceedings commenced before the commencement of this Act, whether by writ or in any other manner prescribed by rules of court repealed or revoked by this Act, are pending or in progress on the commencement of this Act, those civil proceedings may be continued, completed, and enforced under the High Court Rules and the High Court Rules shall, so far as practicable, apply to those civil proceedings. So far as it is not practicable for any provision of the High Court Rules to be applied to any such civil proceedings, the rules repealed or revoked by this Act shall, to such extent as may be necessary, continue to apply to those civil proceedings.
-(2) For the avoidance of doubt it is hereby declared that where any civil proceedings are pending or in progress on the commencement of this Act and those civil proceedings were commenced by the issue of a writ of summons that, on the commencement of this Act, has not been served on the defendant, or on any defendant named therein, rules 127 and 128 of the High Court Rules shall apply as if that writ of summons were a statement of claim and notice of proceeding.
-(3) If in any civil proceedings to which subsection (1) applies any question arises as to the application of any provision of the High Court Rules or of the rules repealed or revoked by this Act, the court may, either on the application of any party to those proceedings or of its own motion, determine the question and make such order thereon as it thinks fit.
-(4) The Interpretation Act 1999 shall apply subject to subsections (1) to (3) and to section 14.
-
-### 14 Saving
-Subject to section 13, all offices, appointments, records, accounts, books, seals, certificates, summonses, applications, notices, documents, warrants, writs, judgments, orders, decisions, directions, appeals, and generally all acts of authority that originated under any of the provisions of the rules hereby repealed or revoked and are subsisting or in force at the commencement of this Act shall enure for the purposes of the High Court Rules as if they had originated under the corresponding provisions of the High Court Rules, and accordingly shall, where necessary, be deemed to have so originated.
-
-### 1 Short Title and commencement
-(1) This Act may be cited as the Judicature Amendment Act (No 3) 1985, and shall be read together with and deemed part of the Judicature Act 1908 (hereinafter referred to as “the principal Act”).
-(2) This Act shall be deemed to have come into force on 1 April 1985.
-
-### 4 Repeals and savings
-(1) Amendment(s) incorporated in the Act(s).
-(2) Notwithstanding anything in this Act, salaries and allowances in respect of which the Remuneration Authority may make determinations shall, until amended or superseded by determination of the Commission, continue to be payable at the rates applicable at the commencement of this Act.
-(3) The repeal effected by subsection (1)(a) shall not affect the amendment made to section 42 of the principal Act by section 4(2) of the Judicature Amendment Act 1978.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules 1986, and shall be read together with and deemed part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (hereinafter referred to as “the High Court Rules”).
-(2) Except as provided in rule 14(3), these rules shall come into force on 1 January 1987.
-
-### 14 Application and savings provisions in respect of certain rules
-(1) The following rules, namely:
-  (a) the Criminal Appeal Rules 1946; and
-  (b) the Court of Appeal Rules 1955; and
-  (c) the Patents Rules 1956; and
-  (d) the Companies (Winding Up) Rules 1956; and
-  (e) the High Court (Companies) Rules 1956; and
-  (f) the Electoral Petition Rules 1957; and
-  (g) the Insolvency Rules 1970; and
-  (h) the Admiralty Rules 1975,— shall have effect as if they had been made under section 51C of the Judicature Act 1908 (as substituted by section 4 of the Judicature Amendment Act (No 2) 1985).
-(2) The amendments made to the Criminal Appeal Rules 1946, the Companies (Winding Up) Rules 1956, the High Court (Companies) Rules 1956, and the Insolvency Rules 1970 by rule 3(4) of the High Court Amendment Rules 1973 shall have effect as if the High Court Amendment Rules 1973 had not been revoked.
-(3) This rule shall come into force on the day after the date of the notification of these rules in the Gazette.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules (No 2) 1987, and shall be read together with and deemed part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (hereinafter referred to as “the High Court Rules”).
-(2) Except as provided in rules 2(2) and 4(2), these rules shall come into force on 1 August 1987.
-
-### 20 Revocation and saving
-(1) The High Court (Companies) Rules 1956 (SR 1956/216) are hereby revoked.
-(2) Where, at the date of the commencement of these rules, proceedings in relation to any application made under the High Court (Companies) Rules 1956 before the commencement of these rules have not been completed, those proceedings may be continued and completed under the High Court (Companies) Rules 1956 as if these rules had not been made.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules 1988, and shall be read together with and deemed part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (hereinafter referred to as “the High Court Rules”).
-(2) Except as provided in rule 4(4), these rules shall come into force on 1 August 1988.
-
-### 10 Saving
-Where, at the commencement of 1 August 1988, proceedings in relation to any petition presented under the Companies (Winding Up) Rules 1956 (SR 1956/215) before the commencement of these rules have not been completed, those proceedings may be continued and completed under the Companies (Winding Up) Rules 1956 as if these rules had not been made.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules (No 2) 1990, and shall be read together with and deemed part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (hereinafter referred to as “the High Court Rules”).
-(2) These rules shall come into force on 1 October 1990.
-
-### 5 Transitional provision
-(1) Where, at the commencement of 1 October 1990, proceedings in relation to any application made or proceeding instituted before the commencement of these rules under the Patents Act 1953 have not been completed, those proceedings may be continued and completed under the High Court Rules and the High Court Rules shall, so far as practicable, apply to those proceedings. So far as it is not practicable for any provision of the High Court Rules to be applied to any such proceedings, the rules revoked by these rules shall, to such extent as may be necessary, continue to apply to those proceedings.
-(2) If in any proceedings to which subclause (1) applies any question arises as to the application of any provision of the High Court Rules or of the rules revoked by these rules, the court may, either on the application of any party to those proceedings or of its own motion, determine the question and make such order thereon as it thinks fit.
-(3) The Interpretation Act 1999 shall apply subject to subclauses (1) and (2) and to rule 6.
-
-### 6 Saving
-Subject to rule 5, all appointments, records, advertisements, applications, notices, documents, judgments, orders, decisions, directions, appeals, and generally all acts of authority that originated under any of the provisions of the rules revoked by these rules and are subsisting or in force at the commencement of these rules shall enure for the purposes of the High Court Rules as if they had originated under the corresponding provisions of the High Court Rules, and accordingly shall, where necessary, be deemed to have so originated.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules 1991, and shall be read together with and deemed part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (hereinafter referred to as “the High Court Rules”).
-(2) This rule shall come into force on 15 August 1991.
-(3) Except as provided in subclause (2) and in rules 6(2), 16(2), 19(3), 20(2), 25(2), and 26(4), these rules shall come into force on 1 October 1991.
-
-### 26 Transitional provisions
-(1) All proceedings that, immediately before 15 August 1991, are pending or in progress under Part 9 or Part 10 of the High Court Rules in relation to any appeal may, subject to section 8 of the Judicature Amendment Act 1991, be continued, completed, and enforced under Part 10 of the High Court Rules (as substituted by rule 20 of these rules) and that Part shall, so far as practicable, apply to those proceedings. So far as it is not practicable for any provision of Part 10 of the High Court Rules (as substituted by rule 20 of these rules) to be applied to any such proceedings, the rules revoked by these rules shall, to such extent as may be necessary, continue to apply to those proceedings.
-(2) If, in any proceedings to which subclause (1) applies, any question arises as to the application of any provision of the High Court Rules or of the rules revoked by these rules, the court may, either on the application of any party to those proceedings or of its own motion, determine the question and make such order thereon as it thinks fit.
-(3) The Interpretation Act 1999 shall apply subject to subclauses (1) and (2) of this rule and to section 8 of the Judicature Amendment Act 1991.
-(4) This rule shall come into force on 15 August 1991.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules 1994, and shall be read together with and deemed part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (hereinafter referred to as “the High Court Rules”).
-(2) These rules shall come into force on 1 July 1994.
-
-### 30 Transitional provisions applying to liquidation of companies
-Nothing in these rules applies to or affects—
-  (a) any company on which a demand under section 218(a) of the Companies Act 1955 has been served before the commencement of these rules:
-  (b) any application to the court for the winding up of a company made before the commencement of these rules:
-  (c) any resolution of a company to be wound up by the court passed before the commencement of these rules:
-  (d) any resolution of a company for voluntary winding up passed before the commencement of these rules:
-  (e) any order made by the court under Part 6 of the Companies Act 1955 before the commencement of these rules,—
-and the provisions of High Court Rules as in force immediately before the commencement of these rules, shall continue to apply in respect of any such demand, application, resolution, order, winding up, dissolution, or other consequence resulting from it as if these rules had not been made.
-
 ### 1 Short Title
 (1) This Act may be cited as the Judicature Amendment Act 1997, and is part of the Judicature Act 1908 (“the principal Act”).
 (2) This Act comes into force on the date on which it receives the Royal assent.
@@ -11023,186 +10861,6 @@ and the provisions of High Court Rules as in force immediately before the commen
 (1) All persons who have, in the period beginning on 1 April 1988 and ending with the commencement of this Act, been appointed under the State Sector Act 1988 as Registrars, Deputy Registrars, ushers, Clerks, criers, or other officers of the High Court or the Court of Appeal are deemed to be, and to have always been, validly appointed to their respective offices.
 (2) Where any person is deemed, by subsection (1), to have been validly appointed as an officer of the High Court, any action taken by that person, in his or her capacity as an officer of the High Court, in the period beginning on 1 April 1988 and ending with the commencement of this Act, is deemed to be, and to have always been, as valid as it would have been if that person had been validly appointed to the office in accordance with section 27 of the principal Act (in the form in which that section stood at the time of that person's appointment).
 (3) Where any person is deemed, by subsection (1), to have been validly appointed as an officer of the Court of Appeal, any action taken by that person in his or her capacity as an officer of the Court of Appeal, in the period beginning on 1 April 1988 and ending with the commencement of this Act, is deemed to be, and to have always been, as valid as it would have been if that person had been validly appointed to the office in accordance with section 72 of the principal Act (in the form in which that section stood at the time of that person's appointment).
-
-### 5 Saving
-Nothing in this Act prevents any appointment made before the commencement of this Act by the Ministry of Justice from being reviewed under the procedure put in place by either Department under section 65 of the State Sector Act 1988.
-
-### 1 Title and commencement
-(1) These rules may be cited as the High Court Amendment Rules 1999, and are part of the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (“the High Court Rules”).
-(2) Part 1, the Schedules, and rules 6 to 9 and 12 to 18 come into force on 1 January 2000.
-(3) Rules 10 and 11 come into force on 1 December 1999.
-
-## Part 1 — New rules relating to costs
-
-### 5 Transitional provisions relating to application of new costs rules
-(1) Costs in proceedings commenced after the coming into force of this Part must be determined in accordance with the High Court Rules as amended by this Part.
-(2) Costs in proceedings commenced before the coming into force of this Part must be determined,—
-  (a) in the case of a step in the proceedings taken before the coming into force of this Part, in accordance with the High Court Rules as in force immediately before the coming into force of this Part:
-  (c) in the case of a step in the proceedings taken after the coming into force of this Part, in accordance with the High Court Rules as amended by this Part.
-(3) For the purposes of subclause (2), a step in a proceeding described in column 1 of Schedule 2 of these rules is taken on the date appearing opposite it in column 2 of that schedule.
-(4) If the application of subclause (2) would, in the opinion of the court, lead to an unjust result, the court may,—
-  (a) if subclause (2)(a) applies, have regard to what the determination of costs would be in relation to the particular step in accordance with the High Court Rules as amended by this Part; or
-  (b) if subclause (2)(b) applies, have regard to what the determination of costs would be in accordance with the High Court Rules as in force immediately before the coming into force of this Part.
-
-## Part 2 — Amendments to other rules
-
-### 7 Transitional provision relating to reviews of decisions of Masters
-Rule 61C, as amended by rule 6, applies to applications made—
-  (a) on or after the coming into force of this rule:
-  (b) before the coming into force of this rule if the hearing of the application has not commenced before the coming into force of this rule.
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules 2000.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 are called “the High Court Rules”.
-
-### 2 Commencement
-These rules come into force on 1 August 2000.
-
-### 4 Transitional provision relating to reviews of decisions of Associate Judges
-Rule 61C of the High Court Rules, as in force immediately before the coming into force of rule 3 of these rules, continues to apply to every appeal from a decision of a Judge given before the coming into force of rule 3 on an application for review of an order or decision made by an Associate Judge in chambers.
-
-### 6 Transitional provision relating to reviews of orders
-Rule 264(2) of the High Court Rules, as in force immediately before the coming into force of rule 5 of these rules, continues to apply to every application made before the coming into force of rule 5 to vary or rescind an order made or decision given on an interlocutory application.
-
-**Transitional provisions relating to voidable transactions**
-
-### 23 Transitional provisions relating to voidable transactions
-Rules 7 to 12, 16 to 18, and 22 apply only in relation to notices served under section 268(1) of the Companies Act 1955 or section 294(1) of the Companies Act 1993 (as the case may be) after the commencement of these rules.
-
-**Transitional provisions relating to arbitration applications**
-
-### 24 Transitional provisions relating to arbitration applications
-Unless the court directs otherwise in any particular case, rules 9(2) and (3), 19, 20, and 22 do not apply in respect of any application referred to in rule 878 of the High Court Rules that is made to the court before the date on which these rules come into force.
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules (No 2) 2000.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 are called “the High Court Rules”.
-
-### 2 Commencement
-These rules come into force on 1 January 2001.
-
-### 5 Transitional provision relating to application of new Schedule 3
-(1) Costs for a step in proceedings taken on or after 1 January 2000 and before the commencement of these rules must be determined in accordance with Schedule 3 of the High Court Rules as in force immediately before the commencement of these rules.
-(2) If the application of subclause (1) would, in the opinion of the court, lead to an unjust result, the court may have regard to what the determination of costs would be for the particular step in the proceeding in accordance with Schedule 3 of the High Court Rules as substituted by rule 4 of these rules.
-(3) Costs for a step in proceedings taken on or after 1 January 2001 must be determined in accordance with Schedule 3 of the High Court Rules as substituted by rule 4 of these rules.
-(4) If the application of subclause (3) would, in the opinion of the court, lead to an unjust result, the court may have regard to what the determination of costs would be for the particular step in the proceeding in accordance with Schedule 3 of the High Court Rules as in force immediately before the commencement of these rules.
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules 2002.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 (1908 No 89) are called the High Court Rules
-
-### 2 Commencement
-These rules come into force on 1 July 2002.
-
-### 8 Transitional provision relating to expert evidence
-Nothing in rule 330A of the High Court Rules (as inserted by rule 7 of these rules) applies to an expert witness if, on the commencement of these rules,—
-  (a) the hearing of a proceeding has commenced; or
-  (b) the time for serving a written statement of the proposed evidence of the expert witness under rule 441B or rule 441C has expired.
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules (No 2) 2002.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 are called “the High Court Rules”.
-
-### 2 Commencement
-These rules come into force on 1 February 2003.
-
-### 7 Transitional provision
-(1) Whenever the question arises whether disbursements paid or invoiced before the commencement of these rules are to be included in an award of costs, the question must be determined as if these rules had not been made.
-(2) If the application of subclause (1) would, in the opinion of the court, lead to an unjust result, the Ccourt may have regard to rule 48H of the High Court Rules.
-
-### 12 Application of rules 8 to 11 to existing proceedings
-(1) Rules 8 to 11 apply to a proceeding commenced before the coming into force of these rules that has not been set down for hearing.
-(2) Rules 8 to 11 do not apply to a proceeding that has, before the coming into force of these rules, been set down for hearing.
-(3) The High Court Rules, as in force immediately before the coming into force of these rules, continue to apply to a proceeding that has, before the coming into force of these rules, been set down for hearing.
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules 2003.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 are called the High Court Rules.
-
-### 2 Commencement
-These rules come into force on 24 November 2003.
-
-### 19 Transitional provisions
-(1) Rules 234 to 269 of the High Court Rules (as in force immediately before the commencement of these rules) continue to apply, so far as they are applicable, to every interlocutory application filed before that commencement.
-(2) Subclauses (3) and (4) each applies to a proceeding (the proceeding) in respect of which,—
-  (a) before the commencement of these rules, a praecipe has been filed under rule 430 of the High Court Rules (as in force immediately before the commencement of these rules); or
-  (b) the court has ordered, under rule 436 of the High Court Rules (as in force immediately before the commencement of these rules), that the proceeding be tried; or
-  (c) at the commencement of these rules, an application under rule 436 of the High Court Rules (as in force immediately before the commencement of these rules) is pending.
-(3) Rules 425 to 438 and rules 441A and 441B of the High Court Rules (as in force immediately before the commencement of these rules) continue to apply, so far as they are applicable, to the proceeding as if these rules had not been made.
-(4) Rules 441M to 441Q (as inserted by these rules) do not apply to the proceeding.
-(5) Rule 458F (as in force immediately before the commencement of these rules) continues to apply to every application under Part 4A filed before that commencement.
-(6) These rules do not affect any order or direction made or given, before the commencement of these rules, under rule 437 or rule 438 of the High Court Rules (as in force before that commencement), and the provisions of the High Court Rules have effect in respect of any such order or direction as if these rules had not been made.
-(7) Part 10 of the High Court Rules, as in force immediately before the commencement of these rules, continues to apply to every appeal commenced under that Part before the coming into force of these rules.
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules (No 2) 2003.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 are called the High Court Rules.
-
-### 2 Commencement
-These rules come into force on 1 January 2004.
-
-### 4 Transitional provision relating to application of new Schedule 2 of High Court Rules
-(1) Costs in a proceeding commenced after the coming into force of these rules must be determined in accordance with Schedule 2 of the High Court Rules as substituted by rule 3 of these rules.
-(2) Costs in a proceeding commenced before the coming into force of these rules must be determined,—
-  (a) in the case of a step in the proceeding taken before the coming into force of these rules, in accordance with Schedule 2 of the High Court Rules as in force immediately before the coming into force of these rules; or
-  (b) in the case of a step in the proceeding taken after the coming into force of these rules, in accordance with Schedule 2 of the High Court Rules as substituted by rule 3 of these rules.
-(3) For the purposes of subclause (2), a step in a proceeding described in column 1 of Schedule 2 of these rules is taken on the date appearing opposite that step in column 2 of that schedule.
-
-## Schedule.Group
-
-### Schedule 2 — Dates on which steps taken for purposes of rule 4(3)
-
-| Step in proceeding |  | Date on which step taken |
-| --- | --- | --- |
-| 1 | A step that requires the filing of a document or a number of documents | The date on which the document or the first of the documents is filed |
-| 2 | Appearance in court or in chambers for each day or part of a day | The date of the actual appearance |
-| 3 | Production of documents for inspection | The date on which the list of documents is filed and served |
-| 4 | Inspection of documents | The date on which the list of documents is filed and served |
-| 5 | Preparation for hearing | The first day of the hearing or, if the hearing does not eventuate, the hearing date allocated |
-
-### 1 Title
-(1) These rules are the High Court Amendment Rules 2004.
-(2) In these rules, the High Court Rules from time to time set out in Schedule 2 of the Judicature Act 1908 are called the High Court Rules.
-
-### 2 Commencement
-These rules come into force on 1 November 2004.
-
-### 8 Transitional provision
-Despite rule 7, rule 48G of the High Court Rules (as in force immediately before the commencement of these rules) continues to apply to an offer under that rule made before the commencement of these rules.
-
-### 14 Transitional provision relating to discovery
-(1) Subclause (2) applies to a proceeding in which, before the commencement of these rules,—
-  (a) a party has filed and served a notice in form 25 of Schedule 1 of the High Court Rules; or
-  (b) the court has made, or a party has applied for, an order under rule 297(1) of the High Court Rules (as in force immediately before that commencement).
-(2) The process of giving discovery must proceed in accordance with the High Court Rules as in force immediately before the commencement of these rules.
-
-### 16 Transitional provision relating to payment into court
-Despite rule 15, rules 347 to 368 of the High Court Rules (as in force immediately before the commencement of these rules) continue to apply to every sum of money paid into court or to any admission of relief under those rules before the commencement of these rules.
-
-### 1 Title
-These rules are the High Court Amendment Rules 2006.
-
-### 2 Commencement
-These rules come into force on 1 June 2006.
-
-### 24 Transitional provision relating to costs
-(1) Costs in a proceeding commenced after the coming into force of these rules must be determined in accordance with the High Court Rules as amended by these rules.
-(2) Costs in a proceeding commenced before the coming into force of these rules must be determined,—
-  (a) in the case of a step in the proceeding taken before the coming into force of these rules, in accordance with the High Court Rules as in force immediately before the coming into force of these rules:
-  (b) in the case of a step in the proceeding taken after the coming into force of these rules, in accordance with the High Court Rules as amended by these rules.
-(3) For the purposes of subclause (2), a step in a proceeding described in column 1 of Schedule 3 of these rules is taken on the date appearing opposite that step in column 2 of that schedule.
-
-## Schedule.Group
-
-### Schedule 3 — Dates on which steps taken for purposes of rule 24(3)
-
-| Step in proceeding |  | Date on which step taken |
-| --- | --- | --- |
-| 1 | A step that requires the filing of a document or a number of documents | The date on which the document or the first of the documents is filed |
-| 2 | Appearance in court or in chambers for each day or part of a day | The date of the actual appearance |
-| 3 | Production of documents for inspection | The date on which the affidavit listing those documents is filed |
-| 4 | Inspection of documents | The date on which the affidavit listing those documents is filed |
-| 5 | Preparation for hearing | The first day of the hearing or, if the hearing does not eventuate, the hearing date allocated |
 
 ### 1 Title
 These rules are the High Court Amendment (Wills Act 2007) Rules 2007.
@@ -11222,11 +10880,15 @@ This Act is the Judicature (High Court Rules) Amendment Act 2008.
 (1) This Act comes into force on 1 February 2009.
 (2) Despite subsection (1), subparts 15 and 16 of Part 5 of the High Court Rules (as substituted by section 8) come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more Orders in Council may be made appointing different dates for different provisions.
 
-## Part 1 — Amendments to principal Act
+### 3 Principal Act amended
+This Act amends the Judicature Act 1908.
 
-### 8 New Schedule 2 substituted
-(1) Schedule 2 is repealed and the Schedule 2 set out in the Schedule of this Act substituted.
-(2) Despite subsection (1), Part 15 and forms 83 to 88 of the High Court Rules (which relate to constituency election petitions) as in force immediately before the commencement of this section continue in force until they are revoked by rules made under section 51C.
+### 4 Purpose
+The purpose of this Act is to—
+  (a) re-enact the High Court Rules in a more accessible form:
+  (b) repeal provisions for district rules:
+  (c) provide for the electronic filing of court documents:
+  (d) enable judgment creditors to attach salaries, wages, and benefits of judgment debtors.
 
 ## Part 2 — Transitional provisions and consequential amendments
 
@@ -11244,80 +10906,6 @@ This Act is the Judicature (High Court Rules) Amendment Act 2008.
   - **Judge** includes an Associate Judge
   - **judgment** includes a decree or order of the court
   - **proceeding** means any application to the court, however commenced, for the exercise of the civil jurisdiction of the court.
-
-## Schedule.Group
-
-### Schedule Schedule — New Schedule 2 substituted
-
-### Schedule 2 — High Court Rules
-
-#### Part 5 — Commencement of proceedings and filing of documents
-
-#### Subpart Subpart 15 — Registration of users for e-filing purposes
-
-### 5.74 Interpretation
-In this subpart and in subpart 16, unless the context otherwise requires,—
-  - **e-file** means to file a document electronically (as those concepts are defined in rule 1.3)
-  - **formal undertaking** is an undertaking by a party or a party’s solicitor on the record to do or abstain from doing some specified thing
-  - **registered user** means a lawyer or a firm of lawyers registered to e-file documents under these rules
-  - **working hours** means hours, whether on the same day as that on which a document was received in a registry or on that day and the next day during which the registry of the court is open.
-
-### 5.75 Registration procedure
-(1) A lawyer or a firm of lawyers may apply in writing to a Registrar for registration under this subpart.
-(2) The Registrar must register the applicant as a registered user if—
-  (a) the applicant has, in the Registrar’s opinion, instituted sufficient measures to prevent persons unauthorised by the applicant filing documents in the applicant’s name; and
-  (b) the applicant has nominated an acceptable electronic address for service; and
-  (c) the applicant’s name is sufficiently distinctive to avoid later confusion between the applicant and another firm or lawyer (including that part of a partnership that has an office in a different place).
-(3) The Registrar may require an applicant to supply the names of those persons who are, from time to time, authorised to e-file on behalf of the applicant.
-(4) No fee is chargeable for registration.
-(5) When granting the application the Registrar must—
-  (a) assign the registered user an electronic identity for use whenever a document is e-filed; and
-  (b) open an account in the name of the registered user.
-(6) The Registrar must keep a register recording the name, electronic address for service, and electronic identity of each registered user and the date of that user’s registration under this subpart.
-(7) The register kept under subclause (6) may be searched by or on behalf of a registered user.
-
-### 5.76 Effect of registration
-(1) A registered user may e-file any document that complies with subpart 16.
-(2) A registered user may file any document in hard copy by physical lodgment (whether or not that document has already been e-filed).
-(3) If there is any difference between the content of an e-filed document and the filed hard-copy version of the same document, the hard-copy version prevails, and the document is treated as filed when it is physically lodged.
-
-### 5.77 Renewal of registration
-Registration lasts 36 months and is then renewable.
-
-#### Subpart Subpart 16 — E-filing documents
-
-### 5.78 Requirements for e-filing
-(1) A document may be e-filed if it complies with this rule.
-(2) An electronic communication sent with a document for e-filing must be authenticated by an electronic identity currently assigned by the Registrar.
-(3) A document that is e-filed, and any electronic communication by which the document is e-filed, must comply with the requirements set out in a practice note issued by the Chief Judge or by a list Judge for a particular registry of the court with the approval of the Chief Judge.
-(4) The practice note may also limit the number of documents that may be filed on a single occasion or in a stated period, and impose other requirements to ensure that electronic filing is convenient to registered users and efficient and reliable and causes no injustice to other parties.
-(5) A document that is e-filed other than in imaged form need not comply with the rules as to shape, size, and format in subpart 2 of this Part (formal requirements for documents).
-(6) A document that is e-filed in imaged form must comply with subpart 2 of this Part.
-(7) An e-filed document must be adequately labelled so that it is obvious what it is, for example, Interlocutory application without notice for interim injunction.
-(8) If, under these rules, a document can be filed only if it is signed or otherwise authenticated, use of the registered user’s electronic identity to authenticate the electronic communication sent with the document must be treated for all purposes as equivalent to that user’s signature or other authentication of that document.
-(9) This rule is subject to rule 5.81.
-
-### 5.79 Provisional filing
-(1) An e-filed document must be treated as provisionally filed at the time it enters the information system designated for this purpose in the applicable practice note issued under rule 5.78(3), and that date and time must be recorded on the court file.
-(2) The Registrar or a Deputy Registrar must ensure that every provisionally filed document is checked to ensure it meets the requirements imposed by this subpart and by that practice note.
-(3) Checking must—
-  (a) be completed within 2 working hours of the provisional filing of an e-filed document; and
-  (b) comply with operational standards not conflicting with this subpart issued by the Ministry of Justice and available on request to registered users and any person considering registration under subpart 15 or the practice note issued under rule 5.78(3).
-
-### 5.80 Acceptance of provisionally filed documents
-(1) Acceptance of a document by the Registrar or a Deputy Registrar must be recorded by dating and timing that acceptance and endorsing the document Accepted for filing and verifying that date, time, and endorsement.
-(2) The Registrar must immediately notify the registered user if an e-filed document is not accepted.
-(3) If an e-filed document is accepted it must be treated for all purposes as having been filed on the date and at the time when it is recorded as having been provisionally filed.
-(4) Upon acceptance of an e-filed document the Registrar must direct debit the registered user with the appropriate fee for that document.
-
-### 5.81 Affidavits and formal undertakings
-(1) An affidavit or a formal undertaking may be e-filed if the e-filing complies with this rule.
-(2) If an affidavit or a formal undertaking is being e-filed, it must be transmitted to the court in imaged form.
-(3) Rule 5.78(2), (3), and (7) applies to the e-filing of an affidavit or a formal undertaking.
-(4) The original hard-copy form of the affidavit or formal undertaking, sworn or signed or authenticated as required by these rules, must be retained by the registered user,—
-  (a) if the affidavit or formal undertaking is filed in connection with an application under Part 18 or 19, or in a proceeding that does not go to trial, for 12 months from the date of e-filing:
-  (b) if it is filed in connection with a proceeding, and that proceeding goes to trial, until no appeal or further appeal from a judgment given in that proceeding is possible.
-(5) If uncertainty as to the content of an affidavit or formal undertaking arises, or a Judge considers that justice requires its production, the Judge, on application or on the Judge’s own initiative, may order that it be filed in court and served on the other party or parties in hard-copy form, and may make such order as to a further hearing as the Judge thinks just.
 
 ### 1 Title
 These rules are the High Court Amendment Rules 2009.
@@ -11338,25 +10926,40 @@ These rules come into force on 12 June 2009.
 Any application or appeal under subpart 2 of Part 3 of the High Court Rules (as in force immediately before the commencement of these rules) that is not disposed of on the commencement of these rules must be dealt with as if rule 4 of these rules had not been made.
 
 ### 1 Title
-This Act is the Immigration Act 2009.
+This Act is the Judicature (Judicial Matters) Amendment Act 2010.
 
 ### 2 Commencement
-(1) This Act comes into force on a date to be appointed by the Governor-General by Order in Council, except as provided in subsections (2) to (4).
-(2) Sections 30, 31, 60, 100, 104, 111, 120, 149(1)(e), 278, 283 to 291, 312, and 400(l) come into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the date appointed under subsection (1)); and 1 or more orders may be made appointing different dates for different provisions.
-(3) Section 477 comes into force on a date to be appointed by the Governor-General by Order in Council (being a date not earlier than the second day after the date on which this Act receives the Royal assent).
-(4) Sections 475, 476, and 478 come into force on the day after the date on which this Act receives the Royal assent.
+This Act comes into force on the day after the date on which it receives the Royal assent.
 
-## Part 12 — Repeals, transitional provisions, saving provisions, and related matters
+**Higher duties allowance for High Court Judges serving on Court of Appeal**
 
-### Subpart 1 — Repeals and related matters
+### 5 Allowances paid previously
+(1) This section applies to higher duties allowances paid out of public money before the commencement of this section to Judges who, for the periods in respect of which the allowances were paid,—
+  (a) were not Judges of the Court of Appeal holding office under section 57(2) of the Judicature Act 1908; but
+  (b) were under sections 58A to 58C or section 58F of that Act serving as a member of a criminal or civil division, or as a member of the Full Court, of the Court of Appeal.
+(2) Those allowances must be taken to be, and to always have been, as authorised and valid as allowances calculated, appropriated, and paid in accordance with sections 9A, 11, and 11A of the Judicature Act 1908 (as those sections are amended by section 4 of this Act).
 
-### 406 Consequential amendments and repeals
-(1) The enactments listed in Schedule 3 are amended in the manner indicated in that schedule.
-(2) The regulations, rules, and orders listed in Schedule 4 are amended in the manner indicated in that schedule.
-(3) The following Acts are repealed:
-  (a) Air Facilitation Act 1993 (1993 No 6):
-  (b) Air Facilitation (Domestic Passengers and Cargo) Act 1994 (1994 No 100).
+### 1 Title
+These rules are the High Court Amendment Rules 2010.
+
+### 2 Commencement
+These rules come into force on 24 May 2010.
+
+### 5 Transitional provision
+(1) Costs in a proceeding commenced after the coming into force of these rules must be determined in accordance with the High Court Rules as amended by these rules.
+(2) Costs in a proceeding commenced before the coming into force of these rules must be determined,—
+  (a) in the case of a step in the proceeding taken before the coming into force of these rules, in accordance with the High Court Rules as in force immediately before the coming into force of these rules:
+  (b) in the case of a step in the proceeding taken after the coming into force of these rules, in accordance with the High Court Rules as amended by these rules.
+(3) For the purposes of subclause (2), a step in a proceeding described in the first column of Schedule 2 of these rules is taken on the date appearing opposite that step in the second column of that schedule.
 
 ## Schedule.Group
 
-### Schedule 3 — Enactments amended
+### Schedule 2 — Dates on which steps taken for purposes of rule 5(3)
+
+| Step in proceeding |  | Date on which step taken |
+| --- | --- | --- |
+| 1 | A step that requires the filing of a document or a number of documents | The date on which the document or the first of the documents is filed |
+| 2 | Appearance in court or in chambers for each day or part of a day | The date of the actual appearance |
+| 3 | Production of documents for inspection | The date on which the affidavit listing those documents is filed |
+| 4 | Inspection of documents | The date on which the affidavit listing those documents is filed |
+| 5 | Preparation for hearing | The first day of the hearing or, if the hearing does not eventuate, the hearing date allocated |
