@@ -1,5 +1,5 @@
 # Tax Administration Act 1994
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-05-28_
 
 > An Act to reorganise and consolidate the law relating to the Inland Revenue Department and the administration of income tax matters
 
@@ -1800,7 +1800,7 @@ For the purposes of section 32E(2)(i), when the person is part of a group of com
 A natural person who derives income in an income year for providing personal services to a person who is a claimant under the Injury Prevention, Rehabilitation, and Compensation Act 2001 is not required to furnish a return of income for the corresponding tax year if—
   (a) a personal service rehabilitation payment is made for the claimant and for the personal services; and
   (b) the taxable income of the person does not exceed $14,000 for the tax year; and
-  (c) tax is withheld at the rate of 12.5% from the personal service rehabilitation payment; and
+  (c) tax is withheld at the rate of 10.5% or 12.5% from the personal service rehabilitation payment; and
   (d) the person is not required to furnish a return of income under section 33A(1) for the tax year, ignoring for the purposes of that section income from providing personal services for which personal service rehabilitation payments are made.
 
 ### 34 Presumption as to authority of person making return
@@ -3126,6 +3126,9 @@ In determining the amount of WFF tax credit that is payable under section 80KN, 
       (i) is satisfied that such information is readily available in the Department; and
       (ii) considers it reasonable and practicable to give that information.
   (lb) communicating, to a person who is named under section RP 18 of the Income Tax Act 2007 by an intermediary as being connected with a deposit to a tax pooling account, the details of the deposit that are connected with the person in the Commissioner's records:
+  (lc) communicating to a taxpayer whose return of income is being or has been prepared by another person as an agent of the taxpayer—
+    (i) whether the person is listed as a tax agent:
+    (ii) any decision of the Commissioner removing the person from the list of tax agents or refusing to list the person as a tax agent:
   (m) publishing a product ruling issued under Part 5A.
   (mb) publishing a list of organisations that are approved organisations:
   (mc) publishing the name of a company that has given the Commissioner a notice under section EX 33B(1)(b) or (2)(b) of the Income Tax Act 2004:
@@ -7046,6 +7049,9 @@ Despite any other provision of this Act or the Income Tax Act 2007, the Commissi
   (c) is outstanding due to amendments to the family scheme made by the Taxation (Personal Tax Cuts, Annual Rates, and Remedial Matters) Act 2008.
 (1C) The Commissioner must write off an amount, not exceeding $100, of outstanding tax to the extent to which the amount––
   (a) is outstanding from the 2008–09 tax year; and
+  (b) is tax payable under section MF 5(2) or MF 6(2) of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
+(1D) The Commissioner must write off an amount, not exceeding $30, of outstanding tax to the extent to which the amount––
+  (a) is outstanding from the 2010–11 tax year; and
   (b) is tax payable under section MF 5(2) or MF 6(2) of the Income Tax Act 2007, or is otherwise the result of WFF tax credit overpayment or overcrediting.
 (2) The Commissioner must write off outstanding tax that cannot be recovered in the following situations:
   (a) bankruptcy:
