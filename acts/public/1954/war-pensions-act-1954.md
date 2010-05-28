@@ -1,5 +1,5 @@
 # War Pensions Act 1954
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-05-28_
 
 > An Act to consolidate and amend the law relating to war pensions and allowances
 
@@ -786,6 +786,9 @@ On the death of any person who is ordinarily resident in New Zealand on the date
   - **earner levy** means the levy payable under section 219(1) and (2) of the Injury Prevention, Rehabilitation, and Compensation Act 2001
   - **standard tax** means the amount of tax reckoned on a weekly basis that would be deductible in accordance with tax code M specified in section 24B of the Tax Administration Act 1994.
 (2) Subject to subsection (3), the rates of veterans’ pensions specified in clauses 1 and 2(b) of Schedule 11 must be adjusted, by Order in Council, as at 1 April each year so that in each case the new rate (after the deduction of standard tax) is the rate at that date (after the deduction of standard tax and before the adjustment under this section is made) adjusted by any percentage movement upwards in the CPI between the CPI for the quarter that ended with 31 December one year before the immediately preceding 31 December and the CPI for the quarter that ended with the immediately preceding 31 December.
+(2A) The adjustments (by any percentage movements upwards in the CPI) required under subsection (2) as at 1 April 2011, 1 April 2012, and 1 April 2013 must, despite subsections (1) and (2), be calculated,—
+  (a) if, and insofar as, they relate to movements during quarters that end before 29 April 2010, using index numbers for those quarters of the consumers price index-all groups published by Statistics New Zealand; and
+  (b) if, and insofar as, they relate to movements during quarters that end after 28 April 2010, using index numbers for those quarters of the consumers price index-all groups excluding cigarettes and other tobacco products published by Statistics New Zealand.
 (3) Every Order in Council made under subsection (2) must adjust the annual rates of the veterans’ pensions so that the weekly amount (before any abatement under section 74D but after the deduction of standard tax) payable to—
   (a) a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension is not less than 65% or more than 72.5% of the average ordinary time weekly earnings (males and females combined) as determined by the last Quarterly Employment Survey of wages published by Statistics New Zealand before 1 March in each year (after the deduction of standard tax and the earner levy payable on those earnings):
   (b) a single person who has been granted a living alone payment is 65% of the weekly amount of the veteran’s pension (before any abatement under section 74D but after the deduction of standard tax) payable to a couple who are married or in a civil union or in a de facto relationship and who are both qualified to receive a veteran’s pension:
