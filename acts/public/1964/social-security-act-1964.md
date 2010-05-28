@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-05-28_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -124,7 +124,7 @@ Every person exercising or performing a function, duty or power under this Act m
     (c) Does not include any part of that benefit, pension, or periodical allowance to which the Government of that country contributes by reason of anything other than that period of employment or service; and
     (d) does not include a benefit, pension, or periodical allowance of the kind set out in paragraph (a) if the person would have been entitled to receive a similar benefit, pension, or periodical allowance paid by, or on behalf of, the Government of that country under a scheme or other arrangement in respect of persons who were not employees or in the service of that Government.
   - **Guaranteed retirement income**
-  - **Health or disability insurance payment** , in relation to a person, means a payment made, or the value of any credit or service provided, on the occurrence of a contingency—and used for paying or reimbursing those costs
+  - **Health or disability insurance payment** , in relation to a person, means a payment made, or the value of any credit or service provided, on the occurrence of a contingency— and used for paying or reimbursing those costs
     (a) Under a contract of insurance, or by reason of the person's membership of any society, organisation, or body whether corporate or unincorporate, that provides for the payment or reimbursement of the costs of health or disability care for the person or a member of his or her family; and
     (b) To the person or to some other person on behalf of or for the benefit of the person or a member of his or her family—
   - **hospital** means a hospital care institution as defined in section 58(4) of the Health and Disability Services (Safety) Act 2001
@@ -399,7 +399,7 @@ Every person exercising or performing a function, duty or power under this Act m
   (b) Advice that the applicant has a right of appeal against the decision to the Social Security Appeal Authority.
 
 ### 11 Power to obtain information
-(1) Subject to this section and to the code of conduct established under section 11B, the chief executive, for any purpose specified in subsection (2) of this section, may by notice in writing require any person (including any person who is an officer or employee in the service of the Crown in a Government department or public body (other than as an officer of a Court), in his or her official capacity,)—within a period (being not less than 5 working days after the notice is given) and in the manner specified in the notice, and without charge.
+(1) Subject to this section and to the code of conduct established under section 11B, the chief executive, for any purpose specified in subsection (2) of this section, may by notice in writing require any person (including any person who is an officer or employee in the service of the Crown in a Government department or public body (other than as an officer of a Court), in his or her official capacity,)— within a period (being not less than 5 working days after the notice is given) and in the manner specified in the notice, and without charge.
   (a) To provide the Department or a specified employee of the Department with such information as the chief executive requires; or
   (b) To produce to the Department or to a specified employee of the Department any document in the custody of or under the control of that person, and to allow copies of or extracts from any such document to be made or taken; or
   (c) To furnish to the Department or to a specified employee of the Department any copies or extracts from any document or record in the custody or under the control of that person—
@@ -414,12 +414,12 @@ Every person exercising or performing a function, duty or power under this Act m
     (ii) Sections 27I to 27ZI (except section 27X) of, and Schedule 20 to, this Act (as preserved by section 256(1) of the Child Support Act 1991); or
     (iii) Section 61CA of this Act; or
   (f) Discharging the chief executive's functions under this Act or under any regulations in force under this Act or under the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or under the New Zealand Superannuation and Retirement Income Act 2001 or under any welfare programme approved by the Minister under section 124(1)(d) of this Act.
-(3) A person who—commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
+(3) A person who— commits an offence and is liable on summary conviction to a fine not exceeding $2,000.
   (a) Refuses or fails without reasonable excuse to comply with a notice under this section to the extent that the person is capable of complying with it; or
   (b) In purported compliance with such a notice knowingly or recklessly furnishes information which is false or misleading in any material particular, or attempts to do so,—
 (4) Nothing in subsection (1) requires any person to provide any information or produce any document that would be privileged in a court of law, except as provided in subsection (5).
 (5) Nothing in subsection (1) of this section shall require any person to provide any information or to produce any document that is legally professionally privileged:
-  Provided that this subsection shall not apply to information or any document that consists wholly or partly of, or relates wholly or partly to,—and is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the law practitioner.
+  Provided that this subsection shall not apply to information or any document that consists wholly or partly of, or relates wholly or partly to,— and is contained in, or comprises the whole or part of, any book, account, statement, or other record prepared by or kept in connection with a trust account of the law practitioner.
     (a) The receipts, payments, income, expenditure, or financial transactions of a specified person (whether a law practitioner, his or her client, or any other person); or
     (b) Investment receipts (being receipts arising or accruing from any money lodged at any time with a law practitioner for investment) of any person or persons (whether the law practitioner, his or her clients, or any other person or persons)—
 (6) Where any person refuses to disclose any information or document on the ground that it is privileged under subsection (4) or subsection (5) of this section, the chief executive or that person or any other person to whom the information or document relates may apply to a District Court Judge for an order determining whether or not the claim of privilege is valid; and, for the purposes of determining any such application, the Judge may require the information or document to be produced to the Court.
@@ -429,7 +429,7 @@ Every person exercising or performing a function, duty or power under this Act m
   - **trust account,** in relation to a law practitioner, has the same meaning as in section 6 of the Lawyers and Conveyancers Act 2006.
 
 ### 11A Power to obtain information for matching purposes
-(1) Where the chief executive has reason to suspect that there is, or may have been, any person or persons in the employ of any employer—that should not have been, the chief executive may, subject to this section, issue a notice under section 11(1) of this Act requiring that employer to provide the following information within a specified period:
+(1) Where the chief executive has reason to suspect that there is, or may have been, any person or persons in the employ of any employer— that should not have been, the chief executive may, subject to this section, issue a notice under section 11(1) of this Act requiring that employer to provide the following information within a specified period:
   (a) To whom benefits or payments under this Act have been paid; or
   (b) To whom entitlement cards have been issued; or
   (c) In respect of whom or whose spouse or partner, a means assessment under Part 4 has been conducted—
@@ -476,7 +476,7 @@ Every person exercising or performing a function, duty or power under this Act m
 
 ### 11C Matters to be included in code of conduct
 (1) The code of conduct established under section 11B must contain the following matters:
-  (a) Provisions—before a requirement under section 11(1) is issued to a person other than the beneficiary, except where compliance with such provision would prejudice the maintenance of the law:
+  (a) Provisions— before a requirement under section 11(1) is issued to a person other than the beneficiary, except where compliance with such provision would prejudice the maintenance of the law:
     (i) Requiring any information or document to be first sought from a beneficiary; and
     (ii) Allowing the beneficiary a reasonable time to provide it—
   (b) A provision prohibiting a requirement under section 11(1) being made in respect of a beneficiary to any person (not being the beneficiary, an employer or former employer of the beneficiary, a financial institution, or a law practitioner) unless there is reasonable cause to make a requirement under that section:
@@ -684,7 +684,7 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
 **Widows' benefits**
 
 ### 21 Widows' benefits
-(1) Subject to the provisions of this Act,—shall be entitled to receive a widow's benefit under this Act.
+(1) Subject to the provisions of this Act,— shall be entitled to receive a widow's benefit under this Act.
   (a) Every widow who is the mother of one or more dependent children; and
   (b) Every widow (not being a widow to whom paragraph (a) of this subsection applies) who satisfies the following conditions, namely:
     (i) That she has had one or more children; and
@@ -805,7 +805,7 @@ The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in
     (g) a child of a brother or sister of person A, or of a person with whom a brother or sister of person A is in a marriage or civil union or de facto relationship:
     (h) a child of an uncle or aunt of person A, or of a person with whom an uncle or aunt of the person is in a marriage or civil union or de facto relationship
   - **woman alone** means a woman who has never been married, in a civil union, or in a de facto relationship, or who has lost the support of her spouse or partner
-(2) The Minister may from time to time, by notice in the Gazette, amend the definition of the term relative in subsection (1) of this section by—and every such notice shall have effect according to its tenor.
+(2) The Minister may from time to time, by notice in the Gazette, amend the definition of the term relative in subsection (1) of this section by— and every such notice shall have effect according to its tenor.
   (a) Inserting any other class of relative:
   (b) Omitting any class of relative—
 (3) Subject to the provisions of this Act, a woman alone with no dependent children shall be entitled to receive a domestic purposes benefit if—
@@ -1045,7 +1045,7 @@ The chief executive may, in his or her discretion, pay a child disability allowa
 
 ### 42 Rates of invalids' benefits
 (1) Subject to the provisions of this Act, the rate of the invalid's benefit payable to any beneficiary shall be the appropriate rate specified in clause 1 of Schedule 6 to this Act.
-(2) Despite Schedule 6, where a person who is married or in a civil union or in a de facto relationship (other than a person who has been means assessed under Part 4) is receiving long-term residential care in a hospital or rest home because he or she has a psychiatric, intellectual, physical, or sensory disability,—and section 83 does not apply to either rate of benefit.
+(2) Despite Schedule 6, where a person who is married or in a civil union or in a de facto relationship (other than a person who has been means assessed under Part 4) is receiving long-term residential care in a hospital or rest home because he or she has a psychiatric, intellectual, physical, or sensory disability,— and section 83 does not apply to either rate of benefit.
   (a) The rate of invalid's benefit payable to the person receiving those services is one-half of the appropriate rate specified in that Schedule; and
   (b) The rate of invalid's benefit payable to that person's spouse or partner (being a spouse or partner who is not receiving long-term residential care in a hospital or rest home) is the appropriate rate of an invalid's benefit that would be payable under this Act if he or she was entitled to that benefit in his or her own right and was single,—
 
@@ -1308,7 +1308,7 @@ A person who is married, in a civil union, or in a de facto relationship is enti
 (1) A person enrolled in a full-time course of secondary instruction is not entitled to an independent youth benefit if—
   (a) He or she has moved from his or her parents' home in order to better his or her educational prospects; and
   (b) There is no breakdown in his or her relationship with his or her parents.
-(2) A person—continues to be entitled to receive the benefit until 31 December of the year in which he or she turns 18 years.
+(2) A person— continues to be entitled to receive the benefit until 31 December of the year in which he or she turns 18 years.
   (a) Entitled to receive an independent youth benefit; and
   (b) Enrolled in a full-time course of secondary instruction during the year in which he or she turns 18 years—
 (3) In this section, parents—
@@ -1740,7 +1740,7 @@ Funeral grants shall not be payable under section 61DB or section 61DC or sectio
   (d) The deceased person, including a deceased child, was not ordinarily resident in New Zealand on the date of death.
 
 ### 61DB Payment of funeral grants where there is a surviving spouse or partner or children
-If a person, other than a child, dies and the deceased person is survived by—the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,855.75 to meet the deceased person's reasonable funeral expenses if—
+If a person, other than a child, dies and the deceased person is survived by— the chief executive may, in the chief executive's discretion, pay a funeral grant not exceeding $1,855.75 to meet the deceased person's reasonable funeral expenses if—
   (a) A spouse or partner; or
   (b) A child or children whom he or she is liable in law to maintain; or
   (c) Any other dependent child or dependent children (whether dependent on the deceased or any other person) aged 16 years or 17 years of whom the deceased person was the parent—
@@ -1806,7 +1806,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
     (b) Money secured over the person's share or shares in any flat owning company within the meaning of Part 7A of the Land Transfer Act 1952:
     (c) Money payable under and secured by a deferred payment licence under the Land Act 1948:
   - **Non-beneficiary** means a person who is not a beneficiary
-  - **Owner** includes a person legally entitled to occupy the premises under—and has a corresponding meaning
+  - **Owner** includes a person legally entitled to occupy the premises under— and has a corresponding meaning
     (a) A deferred payment disposition; or
     (b) A lease, where the occupier is also the lessor as owner or one of the lessors as one of the owners; or
     (ba) a licence to occupy, where the premises are a residential unit in a retirement village (as those terms are defined in the Retirement Villages Act 2003); or
@@ -1851,7 +1851,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 
 ### 61EC Rates of accommodation supplement
 (1) The rate of accommodation supplement granted under section 61EA of this Act shall, in each case, be paid at the appropriate rate specified in Schedule 18 to this Act.
-(2) For the purposes of Schedule 18 to this Act,—shall be deemed to be $1 a week of income.
+(2) For the purposes of Schedule 18 to this Act,— shall be deemed to be $1 a week of income.
   (a) every $100 of cash assets over $5,400 held by—
     (i) a person who is married or in a civil union or in a de facto relationship; or
     (ii) a single person who has a dependent child or children; and
@@ -2091,7 +2091,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
       (i) a former health practitioner within the meaning of that section; and
       (ii) a person who is receiving training or gaining experience under the supervision of a health practitioner
   - **Home-based disability support services** means disability services supplied to a person, being services in relation to the person's domestic affairs (other than medical services, personal care services, attendant care services, and relief care services) that support and allow the person to remain in his or her home and are of a kind that are funded under the New Zealand Public Health and Disability Act 2000
-  - **Income** has the same meaning as in section 3(1); but includes—but does not include any amount specified in regulations made under section 132D
+  - **Income** has the same meaning as in section 3(1); but includes— but does not include any amount specified in regulations made under section 132D
     (a) Any benefit or allowance received under or pursuant to—
       (i) This Act or the Social Welfare (Transitional Provisions) Act 1990 or the New Zealand Superannuation and Retirement Income Act 2001; or
       (ii) The War Pensions Act 1954 (other than a war disability pension); and
@@ -2108,14 +2108,14 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
     (iii) every $100 of cash assets over $2,700 held by any other person; and
   (b) the income of a person who is married or in a civil union or in a de facto relationship includes the income of his or her spouse or partner.
 (5) In any case where the chief executive is satisfied that a person to whom this section applies, or that person's spouse or partner, has not realised any assets available for that person's personal use, the chief executive may treat any such assets as being cash assets for the purposes of subsection (4).
-(6) Every assessment made by the chief executive under subsection (3) must state—and the chief executive must supply a copy of that assessment to that person, and may supply the details specified in paragraphs (a) and (b) to the applicable district health board.
+(6) Every assessment made by the chief executive under subsection (3) must state— and the chief executive must supply a copy of that assessment to that person, and may supply the details specified in paragraphs (a) and (b) to the applicable district health board.
   (a) The date of the assessment; and
   (b) The amount that the person has been assessed as being required to pay toward the cost of the home-based disability support services supplied to that person—
 (7) The chief executive must from time to time review any assessment under this section, and may revise that assessment if—
   (a) The chief executive is satisfied the assessment is in error; or
   (b) The person to whom the assessment relates or his or her spouse or partner fails to provide any relevant information requested or to answer any relevant question; or
   (c) After reviewing the assessment, the chief executive is satisfied that, owing to a change in circumstances of that person or his or her spouse or partner, the assessment is no longer an accurate reflection of that person's ability to pay for his or her home-based disability support services, to take effect from such date as the chief executive determines, being a date on or after the date on which the change may reasonably be held to have occurred.
-(8) In any case where the chief executive is satisfied that any person—or that person's spouse or partner has directly or indirectly deprived himself or herself of any income or assets, the chief executive, in the chief executive's discretion, may assess or, as the case may be, revise the assessment of the person's ability to pay for that person's home-based disability support services as if that deprivation had not occurred.
+(8) In any case where the chief executive is satisfied that any person— or that person's spouse or partner has directly or indirectly deprived himself or herself of any income or assets, the chief executive, in the chief executive's discretion, may assess or, as the case may be, revise the assessment of the person's ability to pay for that person's home-based disability support services as if that deprivation had not occurred.
   (a) Who has applied for an assessment under this section; or
   (b) Whose ability to pay for home-based disability support services has been assessed under this section—
 (9) Every person whose ability to pay for home-based disability support services has been assessed under this section must forthwith advise the Department of any change in the circumstances of that person or his or her spouse or partner that affects that person's ability to pay for his or her home-based disability support services.
@@ -2151,7 +2151,7 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
   (a) The beneficiary:
   (b) The beneficiary's spouse or partner:
   (c) Any dependant of the beneficiary.
-(4) Where a beneficiary does not comply with subsection (3) of this section within 10 working days after the notice has been given, the chief executive may suspend, from such date as the chief executive determines, the benefit granted to the beneficiary until either—whichever occurs first.
+(4) Where a beneficiary does not comply with subsection (3) of this section within 10 working days after the notice has been given, the chief executive may suspend, from such date as the chief executive determines, the benefit granted to the beneficiary until either— whichever occurs first.
   (a) The beneficiary provides information establishing, to the satisfaction of the chief executive, the rate of any overseas pension granted to the beneficiary or the beneficiary's spouse or partner or any dependant of the beneficiary; or
   (b) The benefit is terminated under subsection (5) of this section,—
 (5) Where a benefit has been suspended under subsection (4) of this section, the chief executive may, not less than 40 working days after the suspension, terminate the benefit from such date as the chief executive determines.
@@ -2204,7 +2204,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
     (i) to identify who is in law the other parent of that child; or
     (ii) to make an application for formula assessment of child support, when required to do so by section 9 of the Child Support Act 1991; or
     (iii) to attend and give in evidence all information that is required of the beneficiary during a hearing of a proceeding under the Child Support Act 1991, as required under section 122 of that Act.
-(2) The rate of benefit payable to any beneficiary to whom this section applies shall be reduced in respect of each dependent child in the care of the beneficiary—by an amount equal to $22.
+(2) The rate of benefit payable to any beneficiary to whom this section applies shall be reduced in respect of each dependent child in the care of the beneficiary— by an amount equal to $22.
   (a) Whose other parent has not been identified in law; or
   (b) Whose other parent has not been named in an application for formula assessment of child support under the Child Support Act 1991 as a liable parent from whom child support is sought; or
   (c) Whose other parent the beneficiary has failed or refused to testify against as required under section 122 of the Child Support Act 1991,—
@@ -2258,7 +2258,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
 ### 72 Limitation where applicant receiving another benefit or war pension
 Notwithstanding anything to the contrary in this Act,—
   (a) No person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA,, 61G, and 69C:
-  (b) No person who is granted a pension or allowance under the War Pensions Act 1954 or in respect of whom such a pension or allowance is payable, other than—shall be granted any benefit:
+  (b) No person who is granted a pension or allowance under the War Pensions Act 1954 or in respect of whom such a pension or allowance is payable, other than— shall be granted any benefit:
     (i) A pension or allowance granted to that person by reason of his own disablement; or
     (ia) a pension or payment granted under Part 6 of that Act; or.
     (ii) A pension or a mother's allowance granted to that person as the widow of a deceased member of the New Zealand or any other Commonwealth forces or of the Emergency Reserve Corps or of the New Zealand mercantile marine; or
@@ -2459,7 +2459,7 @@ In this section and in sections 80BA to 80BC of this Act and in Schedule 28 to t
       (xii)
       (xiii)
     (b) The amount of any tax withheld or deducted for any of those benefits under section RD 11(3) of the Income Tax Act 2007:
-  - **Redundancy payment** means a payment (before the deduction of income tax) made in relation to the termination of a person's employment if—but does not include—
+  - **Redundancy payment** means a payment (before the deduction of income tax) made in relation to the termination of a person's employment if— but does not include—
     (a) The main reason for the termination is that the person's position is or will be superfluous to the employer's needs, and the person is not a seasonal worker; or
     (b) The person's usual seasonal employment is not made available by the employer mainly because the person's position, or usual position, is or will be superfluous to the employer's needs;
     (c) A payment solely because of a seasonal lay-off; or
@@ -2553,7 +2553,7 @@ In this section and in sections 80BA to 80BC of this Act and in Schedule 28 to t
 (2) The spouse or partner of a person who is not entitled to a benefit due to the application of section 80BA of this Act shall not be entitled to receive any benefit to which his or her spouse or partner is not entitled.
 
 ### 80D Benefit applications by claimants under Injury Prevention, Rehabilitation, and Compensation Act 2001
-If—the chief executive may, in the chief executive's discretion, treat an application for a benefit made by the claimant as having been made on the date—whichever is the later date.
+If—the chief executive may, in the chief executive's discretion, treat an application for a benefit made by the claimant as having been made on the date— whichever is the later date.
   (a) the Accident Compensation Corporation pays weekly compensation in respect of a claim made under the Injury Prevention, Rehabilitation, and Compensation Act 2001; and
   (b) The claimant subsequently fails to establish his or her claim; and
   (c) The claimant would otherwise have been entitled to a benefit during all or any part of the period in respect of which the compensation would have been paid if the claim had been accepted—
@@ -2580,7 +2580,7 @@ If—the chief executive may, in the chief executive's discretion, treat an appl
 (4) Except as otherwise provided in this Act, every instalment of benefit shall be paid in a manner and at the place determined by the chief executive from time to time, and no appeal under this Act shall lie against that determination.
 (5) If any instalment of any benefit, or any part of any instalment, is not collected within such time as the chief executive may specify, the authority to collect such instalment, or part, shall lapse and the amount of benefit so unpaid shall be forfeited unless the chief executive is satisfied in any particular case that there was good cause for not collecting that instalment or that part of the instalment.
 (6) If it is satisfied that an advance payment of a benefit would best meet the immediate needs of a beneficiary, the chief executive may in the chief executive's discretion, on application by the beneficiary, make payment in advance of any number of instalments of the benefit, or part of it, not yet due, and the amount so paid in advance may be recovered under section 86(1).
-(7) Unless the chief executive in any particular case otherwise determines, it shall be a condition of every benefit that the applicant or beneficiary shall—and every instalment of the benefit may be paid by the chief executive into such account or in respect of such membership, as the case may be.
+(7) Unless the chief executive in any particular case otherwise determines, it shall be a condition of every benefit that the applicant or beneficiary shall— and every instalment of the benefit may be paid by the chief executive into such account or in respect of such membership, as the case may be.
   (a) Supply the Department with particulars of an existing account held by the applicant or beneficiary with—
     (i) The Post Office Bank Limited, a private savings bank, a trustee savings bank, or the Public Service Investment Society Limited; or
     (ii) A registered bank which, on the 31st day of March 1987, was a trading bank; or
@@ -2698,7 +2698,7 @@ The following payments or other sums are debts due to the Crown:
 (10)
 
 ### 86A Deduction of benefit debts
-(1) Where any amount of money may be recovered from any person as a debt due to the Crown under this Act (including, subject to section 86(2B) of this Act, any penalty under section 86(2) of this Act) is not paid by the expiration of the tenth day after the day on which notice of the debt is delivered or posted to that person (whether or not the notice is received by that person), the chief executive may issue, in writing, a deduction notice requiring any other person to deduct the amount due from any sum that is payable or becomes payable, until the deduction notice is revoked, by that other person whether—to the person from whom that money may be recovered as a debt due to the Crown (in this section and in sections 86C to 86I of this Act referred to as the debtor).
+(1) Where any amount of money may be recovered from any person as a debt due to the Crown under this Act (including, subject to section 86(2B) of this Act, any penalty under section 86(2) of this Act) is not paid by the expiration of the tenth day after the day on which notice of the debt is delivered or posted to that person (whether or not the notice is received by that person), the chief executive may issue, in writing, a deduction notice requiring any other person to deduct the amount due from any sum that is payable or becomes payable, until the deduction notice is revoked, by that other person whether— to the person from whom that money may be recovered as a debt due to the Crown (in this section and in sections 86C to 86I of this Act referred to as the debtor).
   (a) On his or her or its own account; or
   (b) As an agent; or
   (c) As a trustee; or
@@ -3104,7 +3104,7 @@ Every job seeker contract that was in effect under this Act on 30 June 2001 cont
 ### 114 Notices
 A notice may be given under section 113 to a person—
   (a) By delivering it to that person personally; or
-  (b) By leaving it—in which case the notice is given when it is left for that person; or
+  (b) By leaving it— in which case the notice is given when it is left for that person; or
     (i) At that person's usual or last known place of residence or business; or
     (ii) At the address given by that person in the most recent application or other document received from that person,—
   (c) By posting it in a letter addressed to that person at that place of residence or business or at that address, in which case the notice is given when it is posted.
@@ -3304,7 +3304,7 @@ Nothing in—to anything done, before 31 December 2001, which—
   (e) In relation to anything done before 1 February 1994, would otherwise have been unlawful under section 24(1) of the Human Rights Commission Act 1977 on the grounds of sex or marital status.
 
 ### 127 Offences
-Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive—commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
+Every person who makes any statement knowing it to be false in any material particular, or who wilfully does or says anything or omits to do or say anything for the purpose of misleading or attempting to mislead any officer concerned in the administration of this Act or any other person whomsoever, for the purpose of receiving or continuing to receive (for himself or for any other person), or which results in himself or any other person receiving or continuing to receive— commits an offence and shall be liable on summary conviction to imprisonment for a term not exceeding 12 months or to a fine not exceeding $5,000, or to both imprisonment and fine.
   (a) Any benefit under this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001; or
   (b) Any exemption from any obligation under this Act; or
   (c) Any payment from the Crown Bank Account in accordance with this Act; or
@@ -3666,7 +3666,7 @@ In this Part, unless the context otherwise requires,—
 (4) If the person's assets are equal to or less than the applicable asset threshold more than 90 days before the date of means assessment that establishes that fact, the funder's liability arises on the date that is 90 days before the date of means assessment.
 
 ### 142 Funder's liability in respect of exempt persons and elderly victims of crime
-(1) In the case of an exempt person, the funder must pay the amount determined in accordance with the following formula:p = c − (b − a)where
+(1) In the case of an exempt person, the funder must pay the amount determined in accordance with the following formula: p = c − (b − a) where
   (p) is the amount the funder must pay
   (c) is the cost of contracted care services provided to the exempt person
   (b) is the amount of any benefit received by the exempt person
@@ -3838,7 +3838,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 | (e) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a benefit (other than a veteran's pension) | $202.20 a week, subject to Income Test 2. |
 | (f) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is not granted a benefit in his or her own right | $202.20 a week, increased by $202.20 a week in respect of his or her spouse or partner, the total rate to be subject to Income Test 1. |
 | (g) To a beneficiary (with or without dependent children) who is married or in a civil union, or in a de facto relationship whose spouse or partner is granted, in his or her own right, a veteran's pension | $202.20 a week, subject to Income Test 1. |
-| Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall—aDisregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; andbDisregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
+| Provided that, in computing the income of any beneficiary for the purpose of this Schedule, the chief executive shall— aDisregard that part of the beneficiary's income (not exceeding $20 a week) earned by the beneficiary's own efforts; andb Disregard all of the income of a totally blind beneficiary earned by the beneficiary's own efforts. |  |
 | 2. Maximum amount from all sources where subsidy paid on earnings of blind invalid, in every case | $312.20 a week, increased by $40.43 a week if the beneficiary is a single person. |
 
 ## Schedule 7 — Rates of miners' benefits and miners' widows' benefits
@@ -3858,7 +3858,7 @@ A person who has been means assessed as to assets may apply for a loan under the
 
 ## Schedule 9 — Rates of unemployment benefits and sickness benefits
 
-| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); andiiWhose benefit commenced on or after 1 July 1998. | $129.41 a week, subject to Income Test 3. |
+| 1. | (aa) | To a single beneficiary under the age of 20 who is—iLiving with a parent (as that term is defined in section 3(1)); and ii Whose benefit commenced on or after 1 July 1998. | $129.41 a week, subject to Income Test 3. |
 | --- | --- | --- | --- |
 |  | (a) | To any other single beneficiary under the age of 25 years without dependent children | $161.76 a week, subject to Income Test 3. |
 |  | (b) | To any other single beneficiary without dependent children | $194.12 a week, subject to Income Test 3. |
@@ -3917,11 +3917,11 @@ A person who has been means assessed as to assets may apply for a loan under the
 ### 1
 For the purposes of this Schedule—
   - **Area 1** means the following parts of New Zealand (as from time to time defined by the Government Statistician)Central Auckland urban zoneNorthern Auckland urban zone
-  - **Area 2** means the following parts of New Zealand (as from time to time defined by the Government Statistician)Algies Bay—Mahurangi area unitArrowtown urban areaAwhitu area unitBombay area unitBrightwater urban areaCape Rodney area unitClevedon area unitGlenbrook area unitGreat Barrier Island area unitHelensville urban areaHunua area unitIslands—Motutapu, Rangitoto, Rakino area unitKarekare area unitKaukapakapa area unitKawau area unitKingseat area unitLeigh area unitLittle Barrier Island area unitMangatawhiri area unitMaramarua area unitMatheson Bay area unitMeremere area unitMuriwai Beach area unitNelson urban areOnewhero area unitOtaua area unitParakai area unitPatumahoe area unitPokeno area unitPukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unitSnells Beach urban areaSouth Head area unitSouthern Auckland urban zoneTahekeroa area unitTauhoa-Puhoi area unitTauranga urban areaWaiheke Island urban areaWaiuku urban areaWakefield urban areaWanaka urban areaWarkworth urban areaWellington urban zoneWellsford urban areaWestern Auckland urban zone
-  - **Area 3** means the following parts of New Zealand (as from time to time defined by the Government Statistician)Alexandra urban areaBlenheim urban areaCambridge urban zoneChristchurch urban areaCloustonville area unitCromwell urban areaDarfield urban areaDunedin urban areaFeilding urban areaHamilton urban zoneHanmer Springs urban areaHastings urban zoneKaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban areaLincoln urban areaLower Hutt urban zoneMakara-Ohariu area unitMana Island area unitMangaroa area unitMatamata urban areaMaungakotukutuku area unitMotueka urban areaNabhra area unitNapier urban zoneNew Plymouth urban areaOpiki area unitOtaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban areaPencarrow area unitPorirua urban zoneRaglan urban areaRangiora urban areaRolleston urban areaRotorua urban areaRussell urban areaTaipa Bay-Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban areaTe Awamutu urban zoneTe Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zoneWaihi Beach urban areaWhakatane urban areaWhangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
+  - **Area 2** means the following parts of New Zealand (as from time to time defined by the Government Statistician)Algies Bay—Mahurangi area unitArrowtown urban areaAwhitu area unitBombay area unit Brightwater urban area Cape Rodney area unitClevedon area unitGlenbrook area unitGreat Barrier Island area unit Helensville urban area Hunua area unitIslands—Motutapu, Rangitoto, Rakino area unit Karekare area unit Kaukapakapa area unitKawau area unitKingseat area unitLeigh area unit Little Barrier Island area unit Mangatawhiri area unit Maramarua area unitMatheson Bay area unitMeremere area unitMuriwai Beach area unit Nelson urban are Onewhero area unitOtaua area unitParakai area unitPatumahoe area unit Pokeno area unit Pukekohe urban areaQueenstown urban areaRewiti area unitRiverhead area unit Snells Beach urban area South Head area unit Southern Auckland urban zoneTahekeroa area unitTauhoa-Puhoi area unitTauranga urban areaWaiheke Island urban area Waiuku urban area Wakefield urban area Wanaka urban areaWarkworth urban areaWellington urban zone Wellsford urban area Western Auckland urban zone
+  - **Area 3** means the following parts of New Zealand (as from time to time defined by the Government Statistician)Alexandra urban areaBlenheim urban areaCambridge urban zone Christchurch urban area Cloustonville area unit Cromwell urban area Darfield urban areaDunedin urban areaFeilding urban areaHamilton urban zone Hanmer Springs urban area Hastings urban zone Kaitaia urban areaKapiti Island area unitKapiti urban areaKatikati Community urban areaKerikeri urban areaLeeston urban area Lincoln urban area Lower Hutt urban zoneMakara-Ohariu area unitMana Island area unitMangaroa area unitMatamata urban area Maungakotukutuku area unit Motueka urban area Nabhra area unitNapier urban zoneNew Plymouth urban area Opiki area unit Otaki urban areaPaekakariki Hill area unitPaihia urban areaPalmerston North urban area Pencarrow area unit Porirua urban zone Raglan urban areaRangiora urban areaRolleston urban area Rotorua urban area Russell urban areaTaipa Bay-Mangonui urban areaTairua urban areaTakaka urban areaTaupo urban area Te Awamutu urban zone Te Puke Community urban areaThames urban areaTokomaru area unitUpper Hutt urban zone Waihi Beach urban area Whakatane urban area Whangamata urban areaWhangarei urban areaWhitianga urban areaWoodend urban area
   - **Area 4** means any part of New Zealand not included in Area 1, Area 2, or Area 3.
   - **Auckland**
-  - **Base rate** means—
+  - **base rate** means, subject to clause 4A,—
     (a) In relation to a single beneficiary under the age of 25 years, the maximum weekly rate of benefit he or she would have been entitled to receive, before any abatement or deduction, if he or she had attained the age of 25 years:
     (b) In relation to a single beneficiary with a dependent child or dependent children, the maximum weekly rate of benefit he or she is entitled to receive, before any abatement or deduction, plus the maximum annual rate of family tax credit (divided by 52) that is payable in respect of an eldest dependent child who is under 16 child under subparts MA to MF and MZ of the Income Tax Act 2007:
     (c) In relation to any other single beneficiary, the maximum weekly rate of benefit he or she would be entitled to receive before any abatement or deduction:
@@ -3950,13 +3950,16 @@ In assessing the income of a person in receipt of a widow's benefit or a domesti
 ### 4
 Every accommodation supplement assessed under this Schedule shall be rounded up to the complete dollar.
 
-| 1. | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 25 percent of the base rate, but not more than-a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4. |
+### 4A
+In determining the base rate in relation to a person in respect of any period that is wholly or partly within the period commencing on 1 October 2010 and ending on the close of 31 March 2011, the chief executive must, under paragraph (b) or (d) or (e)(ii) or (g)(ii) of the definition of base rate in clause 1, use the applicable annual rate, or as the case requires, the maximum annual rate of family tax credit in force immediately before 1 October 2010 as if sections 61 to 63 of the Taxation (Budget Measures) Act 2010 had not been enacted.
+
+| 1. | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are rent or payments for board and lodgings | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 25 percent of the base rate, but not more than- a$225 a week, if the applicant resides in Area 1: b $165 a week, if the applicant resides in Area 2: c $120 a week, if the applicant resides in Area 3:d $75 a week, if the applicant resides in Area 4. |
 | --- | --- | --- |
-| 2. | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 25 percent of the base rate, but not more than—a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4. |
-| 3. | To any other person whose accommodation costs are rent or payments for board and lodgings | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 25 percent of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4. |
-| 4. | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 30 percent of the base rate, but not more than—a$225 a week, if the applicant resides in Area 1:b$165 a week, if the applicant resides in Area 2:c$120 a week, if the applicant resides in Area 3:d$75 a week, if the applicant resides in Area 4. |
-| 5. | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 30 percent of the base rate, but not more than-a$160 a week, if the applicant resides in Area 1:b$125 a week, if the applicant resides in Area 2:c$75 a week, if the applicant resides in Area 3:d$55 a week, if the applicant resides in Area 4. |
-| 6. | To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 30 percent of the base rate, but not more than—a$145 a week, if the applicant resides in Area 1:b$100 a week, if the applicant resides in Area 2:c$65 a week, if the applicant resides in Area 3:d$45 a week, if the applicant resides in Area 4. |
+| 2. | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are rent or payments for board and lodgings | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 25 percent of the base rate, but not more than— a$160 a week, if the applicant resides in Area 1: b $125 a week, if the applicant resides in Area 2: c $75 a week, if the applicant resides in Area 3:d $55 a week, if the applicant resides in Area 4. |
+| 3. | To any other person whose accommodation costs are rent or payments for board and lodgings | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 25 percent of the base rate, but not more than— a$145 a week, if the applicant resides in Area 1: b $100 a week, if the applicant resides in Area 2: c $65 a week, if the applicant resides in Area 3:d $45 a week, if the applicant resides in Area 4. |
+| 4. | To a person who has 1 or more dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 2 or more dependent children, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 30 percent of the base rate, but not more than— a$225 a week, if the applicant resides in Area 1: b $165 a week, if the applicant resides in Area 2: c $120 a week, if the applicant resides in Area 3:d $75 a week, if the applicant resides in Area 4. |
+| 5. | To a person who has no dependent children and who is married or in a civil union or in a de facto relationship, or a sole parent with 1 dependent child, whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 30 percent of the base rate, but not more than- a$160 a week, if the applicant resides in Area 1: b $125 a week, if the applicant resides in Area 2: c $75 a week, if the applicant resides in Area 3:d $55 a week, if the applicant resides in Area 4. |
+| 6. | To any other person whose accommodation costs are the sum of payments required under any mortgage security, and other payments that the chief executive is satisfied are reasonably required to be made in respect of the person's home | 70 percent of the amount by which an applicant's weekly accommodation costs exceeds 30 percent of the base rate, but not more than— a$145 a week, if the applicant resides in Area 1: b $100 a week, if the applicant resides in Area 2: c $65 a week, if the applicant resides in Area 3:d $45 a week, if the applicant resides in Area 4. |
 
 ## Schedule 19 — Rates of child disability allowance and disability allowance
 
@@ -3992,7 +3995,7 @@ Every accommodation supplement assessed under this Schedule shall be rounded up 
 
 ### 1 Applicable asset thresholds
 (1) The table set out in subclause (2) lists the applicable asset thresholds that apply annually from 1 July 2005.
-(2) In the table—YearColumn AColumn B$$1 July 2005 to 30 June 2006150,00055,0001 July 2006 to 30 June 2007160,00065,0001 July 2007 to 30 June 2008170,00075,0001 July 2008 to 30 June 2009180,00085,0001 July 2009 to 30 June 2010190,00095,0001 July 2010 to 30 June 2011200,000105,0001 July 2011 to 30 June 2012210,000115,0001 July 2012 to 30 June 2013220,000125,0001 July 2013 to 30 June 2014230,000135,0001 July 2014 to 30 June 2015240,000145,0001 July 2015 to 30 June 2016250,000155,0001 July 2016 to 30 June 2017260,000165,0001 July 2017 to 30 June 2018270,000175,0001 July 2018 to 30 June 2019280,000185,0001 July 2019 to 30 June 2020290,000195,0001 July 2020 to 30 June 2021300,000205,0001 July 2021 to 30 June 2022310,000215,0001 July 2022 to 30 June 2023320,000225,0001 July 2023 to 30 June 2024330,000235,0001 July 2024 to 30 June 2025340,000245,0001 July 2025 to 30 June 2026350,000255,000
+(2) In the table— YearColumn AColumn B $$ 1 July 2005 to 30 June 2006150,000 55,0001 July 2006 to 30 June 2007 160,00065,0001 July 2007 to 30 June 2008170,00075,000 1 July 2008 to 30 June 2009180,000 85,0001 July 2009 to 30 June 2010 190,00095,0001 July 2010 to 30 June 2011200,000105,000 1 July 2011 to 30 June 2012210,000 115,0001 July 2012 to 30 June 2013 220,000125,0001 July 2013 to 30 June 2014230,000135,000 1 July 2014 to 30 June 2015240,000 145,0001 July 2015 to 30 June 2016 250,000155,0001 July 2016 to 30 June 2017260,000165,000 1 July 2017 to 30 June 2018270,000 175,0001 July 2018 to 30 June 2019 280,000185,0001 July 2019 to 30 June 2020290,000195,000 1 July 2020 to 30 June 2021300,000 205,0001 July 2021 to 30 June 2022 310,000215,0001 July 2022 to 30 June 2023320,000225,000 1 July 2023 to 30 June 2024330,000 235,0001 July 2024 to 30 June 2025 340,000245,0001 July 2025 to 30 June 2026350,000255,000
   (a) Column A applies to every resident assessed as requiring care—
     (i) who has no spouse or partner; or
     (ii) whose spouse or partner is also a resident assessed as requiring care; or
@@ -4027,7 +4030,7 @@ For the purpose of a means assessment as to assets conducted under section 146,�
 
 ### 5 Definitions
 For the purpose of a person's means assessment as to income under section 147,—
-  - **income** means the following, and in every case is the income after deduction of income taxbut does not include the following
+  - **income** means the following, and in every case is the income after deduction of income tax but does not include the following
     (a) the income of the person or his or her spouse or partner that is within the meaning given in section 3(1):
     (b) any benefit received by the person:
     (c) 50% of any amount received by the person or by his or her spouse or partner by way of a pension that—
