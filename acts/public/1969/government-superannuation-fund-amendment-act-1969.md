@@ -1,5 +1,5 @@
 # Government Superannuation Fund Amendment Act 1969
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2010-05-28_
 
 > An Act to amend the Government Superannuation Fund Act 1956
 
@@ -30,6 +30,13 @@ _Consolidation as at 2009-04-01_
 
 ### 3 Adjustable retiring allowances, annual allowances, and annuities
 Every retiring allowance, annual allowance, and annuity payable under the principal Act shall be adjustable in accordance with the provisions of this Act.
+
+### 3A Additional payments for period 1 October 2010 to 27 April 2011
+(1) Every person entitled to receive any retiring allowance, annual allowance, or annuity described in section 3 is entitled to be paid by the Government Superannuation Fund Authority, from any money paid to the Authority by the Crown for the purpose, an additional amount equal to 2.02% of any amount of the allowance or annuity payable to him or her under the principal Act in respect of the period commencing on 1 October 2010 and ending on the close of 27 April 2011.
+(2) An additional amount payable to a person under subsection (1)—
+  (a) must be paid by the Authority on the date or dates the Authority in its discretion decides; and
+  (b) must be disregarded for the purpose of calculating an annual adjustment under this Act; but
+  (c) must for all other purposes be treated as a payment of the person's retiring allowance, annual allowance, or annuity.
 
 ### 4 Provision for annual adjustment
 Subject to the provisions of this Act, every retiring allowance, annual allowance, and annuity specified in section 3 of this Act shall be adjusted annually where appropriate on and after the date of the first 4-weekly payment of the retiring allowance, annual allowance, or annuity under section 89 of the principal Act in each financial year commencing on the 1st day of April and ending with the 31st day of March:
