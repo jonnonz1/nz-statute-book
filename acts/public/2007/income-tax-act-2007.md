@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-05-28_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -1999,6 +1999,16 @@ Consideration less payments or total deductions
   (b) the total amount of the deductions referred to in subsection (1)(b).
 Timing of income
 (4) The income is allocated to the income year of the disposal of the asset.
+
+### CG 8 Capital contributions
+When this section applies
+(1) This section applies for the income year (the first year) in which a person derives a capital contribution and for the 9 income years after that first year.
+Income
+(2) For an income year, the amount given by the following formula is income of the person derived in that income year:capital contribution10.
+Definition of item in formula
+(3) In the formula, capital contribution is the capital contribution that the person derives in the first year.
+Exception
+(4) This section does not apply for the capital contribution if the person has chosen, in accordance with section DB 64(1)(c) (Capital contributions), to apply section DB 64 instead.
 
 ### Subpart CH — Adjustments
 
@@ -6021,6 +6031,17 @@ Definition
 (3) For the purposes of this section, legal expenses means fees for legal services (as defined in the Lawyers and Conveyancers Act 2006) provided by a person who holds a practising certificate issued by the New Zealand Law Society or an Australian equivalent.
 Link with subpart DA
 (4) This section overrides the capital limitation. The general permission must still be satisfied and the other general limitations still apply.
+
+### DB 64 Capital contributions
+When this section applies
+(1) This section applies if,––
+  (a) a person has derived a capital contribution after 20 May 2010; and
+  (b) in the absence of this section, the person would be allowed a deduction for an amount of depreciation loss for an item of depreciable property for which the capital contribution is a contribution (see: definition of capital contribution); and
+  (c) the person has chosen to apply this section in a return of income for the income year in which the capital contribution is derived.
+Deduction
+(2) For the purposes of quantifying the amount of depreciation loss for the income year under subpart EE (Depreciation), the item's adjusted tax value, base value, cost, or value, as applicable, is reduced by the amount of the capital contribution.
+Links with subpart DA
+(3) This section overrides the general permission.
 
 ### Subpart DC — Employee or contractor expenditure
 
@@ -10077,9 +10098,9 @@ Definition of items in formula
 
 ### EE 31 Annual rate for item acquired in person’s 1995–96 or later income year
 What this section is about
-(1) This section is about the annual rate that applies to an item of depreciable property that a person acquires, other than under section FL 2(2) (Treatment of emigrating companies and their shareholders), in their 1995–96 income year or a later income year (not including fixed life intangible property or excluded depreciable property, for which rates are set in sections EE 33 and EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year)).
-Rate
-(2) The rate is 1 of the following:
+(1) This section is about the annual rate that applies to an item of depreciable property that a person acquires, other than under section FL 2(2) (Treatment of emigrating companies and their shareholders), in their 1995–96 income year or a later income year (not including fixed life intangible property or excluded depreciable property, for which rates are set in sections EE 33 and EZ 15 (Annual rate for excluded depreciable property: 1992–93 tax year)). Subsection (2) specifies the annual rate for the item if the person acquires it, or enters into a binding contract for the purchase or construction of it, on or before 20 May 2010, and subsection (3) specifies the annual rate for the item if subsection (2) does not apply and the person acquires it, or enters into a binding contract for the purchase or construction of it, after 20 May 2010.
+Rate for item acquired on or before 20 May 2010
+(2) The rate, if the person acquires the item, or enters into a binding contract for the purchase or construction of the item, on or before 20 May 2010, is 1 of the following:
   (a) the item's economic rate, special rate, or provisional rate, for an item not described in either paragraph (b) or (c):
   (b) the item's economic rate, special rate, or provisional rate, multiplied by 1.2, for an item that—
     (i) has not been used or held for use in New Zealand as an item of depreciable property before the date on which the person acquires it; and
@@ -10087,6 +10108,10 @@ Rate
     (iii) is not a used imported car; and
     (iv) is not an international aircraft:
   (c) a diminishing value rate of 15% or a straight-line rate of 10%, for an international aircraft.
+Rate for item acquired after 20 May 2010
+(3) The rate, if subsection (2) does not apply and the person acquires the item, or enters into a binding contract for the purchase or construction of the item, after 20 May 2010, is 1 of the following:
+  (a) the item's economic rate, special rate, or provisional rate, for an item not described in paragraph (b):
+  (b) a diminishing value rate of 15% or a straight-line rate of 10% for an international aircraft.
 
 ### EE 32 Election in relation to certain depreciable property acquired on or after 1 April 2005
 When this section applies
@@ -10133,8 +10158,8 @@ How rate expressed
 ### EE 35 Special rate or provisional rate
 Rate set for item of depreciable property
 (1) A special rate or a provisional rate is set for an item of depreciable property under sections 91AAG to 91AAJ of the Tax Administration Act 1994.
-No special rate for excluded depreciable property
-(2) A special rate may not be set for an item of excluded depreciable property.
+No special rate for excluded depreciable property, special excluded depreciable property, or building
+(2) A special rate may not be set for an item of excluded depreciable property, an item of special excluded depreciable property, or a building.
 No provisional rate for fixed life intangible property or excluded depreciable property
 (3) A provisional rate may not be set for an item of fixed life intangible property or an item of excluded depreciable property.
 Exception
@@ -10162,8 +10187,13 @@ Income year in which improvement made
   (b) ends at the end of the income year.
 Following income years
 (3) For income years following the income year in which the person makes the improvement,—
-  (a) a person who uses the diminishing value method or the straight-line method for the item that was improved may choose to apply subsection (4) or (5):
+  (a) a person who uses the diminishing value method or the straight-line method for the item that was improved may choose to apply subsection (4) or (5), if paragraph (ab) does not apply:
+  (ab) a person who uses the diminishing value method or the straight-line method for the item that was improved must use subsection (3B) if––
+    (i) the person makes the improvement, or enters into a binding contract for the purchase or construction of the improvement, after 20 May 2010; and
+    (ii) the item that was improved is a grandparented structure, or is not a building, is not a used import car, is not an international aircraft, or has not been used or held for use in New Zealand as an item of depreciable property before the date on which the person acquires it:
   (b) a person who uses the pool method for the item that was improved must apply subsections (6) and (7).
+Improvement compulsorily treated as separate item
+(3B) For the purposes of subsection (3)(ab), a person must treat the improvement as a separate item of depreciable property.
 Improvement treated as separate item
 (4) For the purposes of subsection (3)(a), a person may choose to treat the improvement as a separate item of depreciable property.
 Improvement treated as part of item
@@ -10412,7 +10442,14 @@ Item leaving New Zealand permanently
 Amount of depreciation recovery income
 (1) For the purposes of section EE 44, if the consideration is more than the item’s adjusted tax value on the date on which the disposal or the event occurs, the lesser of the following amounts is the amount of depreciation recovery income derived by the person for the income year in which the disposal or the event occurs:
   (a) the amount by which the consideration is more than the item’s adjusted tax value on the date on which the disposal or the event occurs; and
-  (b) the total of the amounts of depreciation loss for which the person has been allowed deductions for the item including, for an item to which section CZ 11 (Recovery of deductions for software acquired before 1 April 1993) applies, any deduction allowed for its acquisition.
+  (b) the amount given by subsections (1B) and (1C).
+Amount for subsection (1)(b)
+(1B) The amount for the purposes of subsection (1)(b) is given by the following formula:item depreciation loss + CZ 11 item amount + DB 64 item amount.
+Definition of items in formula
+(1C) In the formula in subsection (1B),—
+  (a) item depreciation loss is the total of the amounts of depreciation loss for which the person has been allowed deductions for the item:
+  (b) CZ 11 item amount is the amount of any deduction allowed for the acquisition of the item, for the person, if the item is one to which section CZ 11 (Recovery of deductions for software acquired before 1 April 1993) applies:
+  (c) DB 64 item amount is the amount of the capital contribution for the item, for the person, if the item is one to which section DB 64 (Capital contributions) applies.
 Amount of depreciation loss
 (2) For the purposes of section EE 44, if the consideration is less than the item’s adjusted tax value on the date on which the disposal or the event occurs, the person has an amount of depreciation loss, for the income year in which the disposal or the event occurs, that is the amount by which the consideration is less than the item’s adjusted tax value on that date.
 When this section does not apply
@@ -10648,11 +10685,11 @@ Period
 Meaning
 (1) Annual rate means the annual depreciation rate applying to an item of depreciable property that a person owns. The rate is 1 of the rates described in subsections (2) to (5).
 1995–96 income year or later
-(2) The rate is the rate set by section EE 31(2)(a) or (b) if both the following apply to the item:
+(2) The rate is the rate set by section EE 31(2)(a) or (b), or by section EE 31(3)(a), as applicable, if both the following apply to the item:
   (a) the person acquires it in their 1995–96 income year or a later income year; and
   (b) the item is not dealt with in any of subsections (3) to (5).
 1995–96 income year or later: international aircraft
-(3) The rate is the rate set by section EE 31(2)(c) if the item is an international aircraft that the person acquires in their 1995–96 income year or a later income year.
+(3) The rate is the rate set by section EE 31(2)(c), or by section EE 31(3)(b), as applicable, if the item is an international aircraft that the person acquires in their 1995–96 income year or a later income year.
 Fixed life intangible property
 (4) The rate is the rate set by section EE 33 if both the following apply to the item:
   (a) the item is an item of fixed life intangible property; and
@@ -25425,10 +25462,10 @@ Exclusion
 (2) Despite subsection (1), if the person has a tax credit under section LC 4, they are not allowed a credit under this section.
 Amount of credit
 (3) The person has a tax credit equal to an amount that is the lesser of—
-  (a) $292.50; and
+  (a) $269.10; and
   (b) an amount calculated using the formula in subsection (4).
 Formula
-(4) The formula referred to in subsection (3)(b) is—(net income resident passive − income) ×12.5100.
+(4) The formula referred to in subsection (3)(b) is—(net income resident passive − income) ×11.5100.
 Definition of items in formula
 (5) In the formula,—
   (a) net income is the person’s net income for the tax year:
@@ -25448,11 +25485,11 @@ Amount of credit
 Definition of items in formula
 (3) In the formula in subsection (2),—
   (a) person’s net income is—
-    (i) $728, if the net income of the person for the tax year is less than $6,241; or
+    (i) $669.76, if the net income of the person for the tax year is less than $6,241; or
     (ii) an amount calculated using the formula in subsection (4), if the net income of the person for the tax year is $6,241 or more:
   (b) weekly periods is the number of periods of 1 week for which the person is engaged in full-time work.
 Formula
-(4) The formula referred to in subsection (3)(a)(ii) is—$728 − ((person’s net income − $6,240) × 0.20).
+(4) The formula referred to in subsection (3)(a)(ii) is—$669.76 − ((person’s net income − $6,240) × 0.184).
 Definition of item in formula
 (5) In the formula in subsection (4), person’s net income means the person’s net income for the tax year in complete dollars.
 
@@ -26915,17 +26952,13 @@ Definition of items in formula
 
 ### MB 3 When person carries on 1 or more businesses
 When this section applies
-(1) This section applies for the purposes of determining the amount that represents the family scheme income of a person for an income year if—
-  (a) the person carries on 1 or more businesses in the income year; and
-  (b) the person derives an amount of income that would be their net income or net loss for the income year if the carrying on of the business or businesses were their only source of assessable income.
-Calculation for each business
-(2) The amount that would be the net income or the net loss of the person for the income year must be calculated for each business.
-Net loss
-(3) If a calculation referred to in subsection (2) is a net loss, the amount is treated as zero.
-Depreciation of asset used in more than 1 business
-(4) If, in the income year, an asset of the person is used in more than 1 business carried on by the person, the person must allocate expenditure or amounts of depreciation loss appropriately in relation to the use of the asset.
-Businesses may be treated as single business
-(5) The Commissioner may treat 2 or more businesses carried on by the person in the income year as a single business if the Commissioner considers that the businesses are of the kind that are normally carried on in association with each other.
+(1) This section applies when a person carries on 1 or more businesses in the income year (each separate business, a single family scheme activity).
+Ignore income and deductions for net loss activity
+(2) The income and deductions for a person's family scheme activity for an income year are ignored when calculating the person's family scheme income for the year if, treating the person as having only the income and deductions of that activity, the person would have a net loss for that year.
+Modification of what counts as 1 family scheme activity
+(3) For the purposes of applying subsection (2), and despite subsection (1), 2 or more family scheme activities may be treated as a single business activity, if the Commissioner considers that the 2 or more activities are of the kind that are normally carried on in association with each other.
+Apportionment of deductions between family scheme activities
+(4) For the purposes of applying subsection (2) as modified by subsection (3), deductions that relate to an asset used in carrying on 2 or more family scheme activities must be appropriately apportioned between the activities on the basis of the use of that asset in those 2 or more activities.
 
 ### MB 4 Family scheme income of major shareholders in close companies
 When this section applies
@@ -27128,13 +27161,13 @@ Definition of items in formula
 Prescribed amount
 (4) Prescribed amount is the sum of the following amounts:
   (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
-    (i) $4,487, if the child is younger than 16:
-    (ii) $5,198, if the child is 16 or older:
+    (i) $4,532, if the child is younger than 16:
+    (ii) $5,251, if the child is 16 or older:
     (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
   (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
-    (i) $3,119, if the child is younger than 13:
-    (ii) $3,557, if the child is 13, 14, or 15:
-    (iii) $4,651, if the child is 16 or older:
+    (i) $3,151, if the child is younger than 13:
+    (ii) $3,593, if the child is 13, 14, or 15:
+    (iii) $4,698, if the child is 16 or older:
     (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
     (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
 Days
@@ -27324,7 +27357,7 @@ Formula
 (2) The formula is—
 Definition of items in formula
 (3) In the formula,—
-  (a) prescribed amount is $20,800:
+  (a) prescribed amount is $21,008:
   (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3, for a relationship period containing the entitlement period, of—
     (i) the person; or
     (ii) their spouse, civil union partner, or de facto partner; or
@@ -27501,6 +27534,106 @@ When 56-day period includes 31 March
 Relationship with subject matter
 (10) Sections MD 14 to MD 16, with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
 
+### MF 4D Calculation of instalments: 1 April 2010 to 30 September 2010
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit), or as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 1 April 2010 and finishing on 30 September 2010.
+Family tax credit formula: section MD 3
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount ×days365.
+Definition of items in formula in subsection (2)
+(3) The items in the formula are defined in subsections (4) and (5).
+Prescribed amount
+(4) Prescribed amount is the sum of the following amounts:
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
+    (i) $4,487, if the child is younger than 16:
+    (ii) $5,198, if the child is 16 or older:
+    (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
+    (i) $3,119, if the child is younger than 13:
+    (ii) $3,557, if the child is 13, 14, or 15:
+    (iii) $4,651, if the child is 16 or older:
+    (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
+    (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
+Days
+(5) Days is the number of days in the entitlement period.
+When another person cares for dependent child
+(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
+Family credit abatement formula: section MD 13
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement ×days365.
+Definition of items in formula in subsection (7)
+(8) In the formula,—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14 (Person receiving protected family tax credit).
+When 56-day period includes 31 March
+(9) If a person who qualifies under section MC 2 receives instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
+  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
+  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
+Relationship with subject matter
+(10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+Minimum family tax credit formula: section ME 1
+(11) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the following formula:prescribed amount – net family scheme income ×weekly periods52.
+Definition of items in formula in subsection (11)
+(12) In the formula,—
+  (a) prescribed amount is $20,800:
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of––
+    (i) the person; or
+    (ii) their spouse, civil union, or de facto partner; or
+    (iii) the person and their spouse, civil union, or de facto partner:
+  (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
+Relationship with subject matter
+(13) Sections ME 2 (Meaning of employment for this subpart) and ME 3, with necessary modifications, apply to the calculation of the minimum family tax credit in subsection (11).
+
+### MF 4E Calculation of instalments: 1 October 2010 to 31 March 2011
+When this section applies
+(1) This section applies for calculating the amount of an instalment by way of tax credit under section MD 1 (Abating WFF tax credit), or as applicable, sections MD 1 and ME 1 (Minimum family tax credit) for the period starting on 1 October 2010 and finishing on 31 March 2011.
+Family tax credit formula: section MD 3
+(2) The instalments for the relevant tax credit are calculated using, for the calculation of the family tax credit, the following formula:prescribed amount ×days365.
+Definition of items in formula in subsection (2)
+(3) The items in the formula are defined in subsections (4) and (5).
+Prescribed amount
+(4) Prescribed amount is the sum of the following amounts:
+  (a) for the eldest dependent child for whom the person is a principal caregiver during the entitlement period, 1 of the following, as applicable:
+    (i) $4,578, if the child is younger than 16:
+    (ii) $5,303, if the child is 16 or older:
+    (iii) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period; and
+  (b) for each dependent child for whom the person is a principal caregiver during the entitlement period, other than the eldest dependent child, 1 of the following, as applicable:
+    (i) $3,182, if the child is younger than 13:
+    (ii) $3,629, if the child is 13, 14, or 15:
+    (iii) $4,745, if the child is 16 or older:
+    (iv) a weighted average of the amounts in subparagraphs (i) and (ii) that reflects the proportion of the period for which those subparagraphs apply to the child, if the child turns 13 during the entitlement period:
+    (v) a weighted average of the amounts in subparagraphs (ii) and (iii) that reflects the proportion of the entitlement period for which those subparagraphs apply to the child, if the child turns 16 during the entitlement period.
+Days
+(5) Days is the number of days in the entitlement period.
+When another person cares for dependent child
+(6) A family tax credit must be reduced in proportion to the time in the entitlement period that a dependent child spends in the exclusive care of another person who qualifies under section MC 2 (Who qualifies for entitlements under family scheme?).
+Family credit abatement formula: section MD 13
+(7) The instalments for the relevant tax credit are calculated using, for the calculation of the family credit abatement, the following formula:full-year abatement ×days365.
+Definition of items in formula in subsection (7)
+(8) In the formula,—
+  (a) full-year abatement is,—
+    (i) if the person has no spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess; or
+    (ii) if the person has a spouse, civil union partner, or de facto partner during the entitlement period, and the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for the relationship period containing the entitlement period is more than $36,827, 20 cents for each complete dollar of the excess:
+  (b) days is the number of days in the entitlement period excluding the days of any calendar months in which the person receives protected family tax credit as described in section MD 14 (Person receiving protected family tax credit).
+When 56-day period includes 31 March
+(9) If a person who qualifies under section MC 2receives instalments of the parental tax credit in a 56-day period that includes 31 March, the formula is applied so that—
+  (a) instalments of the parental tax credit received in the first tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year; and
+  (b) instalments of the parental tax credit received in the second tax year are abated against the person’s family scheme income, the family scheme income of their spouse, civil union partner, or de facto partner, or the sum of those incomes for that tax year.
+Relationship with subject matter
+(10) Sections MD 14 to MD 16 (which relate to family credit abatement), with necessary modifications, apply to the calculation of the family credit abatement in subsection (7).
+Minimum family tax credit formula: section ME 1
+(11) The instalments for the relevant tax credit are calculated using, for the calculation of the minimum family tax credit, the following formula:prescribed amount – net family scheme income ×weekly periods52.
+Definition of items in formula in subsection (11)
+(12) In the formula,—
+  (a) prescribed amount is $21,216:
+  (b) net family scheme income is the net family scheme income, calculated using the formula in section ME 3 (Meaning of net family scheme income), for a relationship period containing the entitlement period, of––
+    (i) the person; or
+    (ii) their spouse, civil union, or de facto partner; or
+    (iii) the person and their spouse, civil union, or de facto partner:
+  (c) weekly periods is the number of periods of 1 week in the entitlement period for which the person is a full-time earner.
+Relationship with subject matter
+(13) Sections ME 2 (Meaning of employment for this subpart) and ME 3, with necessary modifications, apply to the calculation of the minimum family tax credit in subsection (11).
+
 ### MF 5 Recovery of overpaid tax credit
 When this section applies
 (1) This section applies when the Commissioner considers that the amount of a tax credit under section MD 1 (Abating WFF tax credit) or ME 1 (Minimum family tax credit) set off or refunded to a person for a tax year is more than the proper amount.
@@ -27531,17 +27664,26 @@ Underpayment
 ### MF 7 Orders in Council
 What may be done by Order in Council
 (1) The Governor-General may, by Order in Council,—
-  (a) increase the amounts appearing as items in the formulas for family tax credit listed in section MD 3(3) (Calculation of family tax credit) and the amount of the threshold set out in MD 13(3) (Calculation of family credit abatement) by amounts that—
-    (i) correspond to the movement in the quarterly all groups index number of the New Zealand Consumers Price Index:
+  (a) increase the amounts appearing as items in the formulas for family tax credit listed in section MD 3(3) (Calculation of family tax credit) by amounts that—
+    (i) correspond to the movement in the New Zealand Consumers Price Index:
     (ii) are rounded up to the nearest whole dollar, without affecting the calculation of later increases made under this paragraph:
   (b) increase the amounts appearing as items in the formula for the in-work tax credit set out in section MD 10(3) (Calculation of in-work tax credit):
   (c) increase the amount appearing as an item in the formula for the parental tax credit set out in section MD 12(3) (Calculation of parental tax credit):
+  (cb) increase the amounts appearing as the amount of the threshold set out in section MD 13(3):
   (d) increase the amount appearing as an item in the formula for the minimum family tax credit in section ME 1(3) (minimum family tax credit):
   (e) replace schedule 31 (Annualised equivalent amount for Part M).
 Order in Council under subsection (1)(a): requirements
 (2) An Order in Council under subsection (1)(a),—
-  (a) in the case of the first Order in Council made under subsection (1)(a), must be made when the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index measured from that applying on 1 October 2008 is 5% or more:
-  (b) in the case of a subsequent Order in Council under subsection (1)(a), must be made when the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+  (a) in the case of the first Order in Council made under subsection (1)(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on 1 October 2008 is 5% or more:
+  (b) in the case of a subsequent Order in Council under subsection (1)(a), must be made when the total percentage increase in the movement in the New Zealand Consumers Price Index measured from that applying on the date when the requirement to make the immediately preceding adjustment arose is 5% or more.
+How movement in CPI determined
+(2B) For the purposes of subsections (1)(a)(i) and (2)(a) and (b), a movement in the New Zealand Consumers Price Index over a period is determined by comparing the following numbers:
+  (a) the number that, when the period started, was the most recent quarterly index number of—
+    (i) the New Zealand Consumers Price Index all groups, if the period starts before 29 April 2010; and
+    (ii) the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products, if the period starts after 28 April 2010:
+  (b) the number that, when the period ended, was the most recent quarterly index number of—
+    (i) the New Zealand Consumers Price Index all groups, if the period ends before 29 April 2010; and
+    (ii) the New Zealand Consumers Price Index all groups excluding cigarettes and other tobacco products, if the period ends after 28 April 2010.
 Timing of Order in Council
 (3) An Order in Council made under this section must be made no later than 1 December in each year and must apply from 1 April following that date.
 Review of in-work tax credit and parental tax credit
@@ -34178,9 +34320,9 @@ Definition of items in formula
   (a) tax on all-inclusive pay is the amount determined at the rate set out in schedule 1, part C, table 1 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) on the amount of the employee’s all-inclusive pay calculated using the formula in section RD 51(2):
   (b) tax on cash pay is the amount calculated under section RD 51(3)(b) or (4)(b).
 Exception for shareholder-employees and persons with attributed income
-(4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 49% of the taxable value of the attributed fringe benefits under RD 52(3)(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
+(4) If the employer has an exception for an employee under section RD 52 in a tax year, and the employer pays FBT at the rate of 45.99% of the taxable value of the attributed fringe benefits under RD 52(3)(a), the employer must deduct the FBT payable in the tax year from the result of the formula in subsection (2).
 Further option
-(5) Instead of calculating FBT under subsections (2) and (4), an employer may choose to pay FBT at the rate of 61.29% on the taxable value of the attributed fringe benefits.
+(5) Instead of calculating FBT under subsections (2) and (4), an employer may choose to pay FBT at the rate of 55.04% on the taxable value of the attributed fringe benefits.
 
 ### RD 51 Calculation of all-inclusive pay
 When this section applies
@@ -34226,8 +34368,8 @@ Calculations under sections RD 50 and RD 51 not required
 (2) Sections RD 50 and RD 51 do not apply in the tax year or income year, as applicable, in which the employer is required to attribute a fringe benefit to the employee.
 Alternative rates
 (3) The employer must either—
-  (a) pay FBT at the rate of 49% of the taxable value of the fringe benefits attributed for the tax year, and apply sections RD 50 and RD 51 to the benefits in the next tax year; or
-  (b) pay FBT at the rate of 61.29% of the taxable value of the fringe benefits attributed for the tax year.
+  (a) pay FBT at the rate of 45.99% of the taxable value of the fringe benefits attributed for the tax year, and apply sections RD 50 and RD 51 to the benefits in the next tax year; or
+  (b) pay FBT at the rate of 55.04% of the taxable value of the fringe benefits attributed for the tax year.
 
 ### RD 53 Pooling non-attributed benefits
 When this section applies
@@ -34245,8 +34387,8 @@ Final quarter pooling
   (b) the second pool is for all other employees.
 Final quarter calculation
 (4) The employer must calculate FBT for the final quarter of the tax year on the annual taxable value of the pooled fringe benefits—
-  (a) at the rate of 61% for the first pool; and
-  (b) at the rate of 49% for the second pool.
+  (a) at the rate of 55.04% for the first pool; and
+  (b) at the rate of 45.99% for the second pool.
 
 **Taxable value of fringe benefits**
 
@@ -34297,7 +34439,9 @@ Schedule 5 rate
 
 ### RD 58 Single rate option
 Rate for all quarters
-(1) An employer who chooses to pay their FBT liability under the single rate option must pay FBT at the rate of 61% of the taxable value of a fringe benefit for each of the 4 quarters of a tax year.
+(1) An employer who chooses to pay their FBT liability under the single rate option must pay FBT at the rate of––
+  (a) 61% of the taxable value of a fringe benefit for each of the first 2 quarters of a tax year:
+  (b) 49.25% of the taxable value of a fringe benefit for each of the last 2 quarters of a tax year.
 Replacing final quarter calculation
 (2) Despite subsection (1), an employer may ask the Commissioner to replace the FBT liability determined for the final quarter under this section with an amount calculated under section RD 59(4). The employer must provide the information necessary for the calculation.
 
@@ -34305,9 +34449,11 @@ Replacing final quarter calculation
 Election
 (1) This section applies when an employer chooses to pay their FBT liability under the alternate rate option.
 First three quarters
-(2) The employer may pay FBT for any or all of the first 3 quarters of a tax year at 49% of the taxable value of a fringe benefit.
+(2) The employer may pay FBT for any or all of the first 2 quarters of a tax year at 49% of, and, for the 3rd quarter, at 43% of, the taxable value of a fringe benefit.
 Alternate rate
-(3) The employer must pay FBT at the rate of 61% of the taxable value of a fringe benefit for any of the first 3 quarters of a tax year for which they do not pay at the rate of 49% under subsection (2).
+(3) The employer must pay FBT at the rate of––
+  (a) 61% of the taxable value of a fringe benefit for any of the first 2 quarters of a tax year for which they do not pay at the rate of 49% under subsection (2):
+  (b) 49% of the taxable value of a fringe benefit for the 3rd quarter of a tax year for which they do not pay at the rate of 43% under subsection (2).
 Final quarter
 (4) For the final quarter of the tax year, the employer must calculate the total pay of each employee under sections RD 50 and RD 53 for the tax year and subtract the amount of FBT payable for the previous 3 quarters of the tax year.
 Decision irrevocable
@@ -34327,7 +34473,7 @@ Income year basis
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)(c) applies.
 Rate or calculation
 (3) The employer must pay FBT on the taxable value of fringe benefits in the income year in which they make their election and in later income years either—
-  (a) at the rate of 61% of the taxable value of a fringe benefit; or
+  (a) at the rate of 55.04% of the taxable value of a fringe benefit; or
   (b) by calculating for the relevant income year the total pay of each employee under sections RD 50 and RD 53.
 Replacing rate with calculated liability
 (4) Despite subsection (3), the employer may ask the Commissioner to replace the FBT liability determined under subsection (3)(a) with a calculation under subsection (3)(b). The employer must provide the information necessary for the calculation.
@@ -34347,7 +34493,7 @@ Annual basis
   (b) the last day of the quarter in which the employer first starts employing employees, if subsection (1)(b) applies.
 Rate or calculation
 (3) The employer must pay FBT on the taxable value of fringe benefits in the tax year in which they make their election and in later tax years either—
-  (a) at the rate of 61% of the taxable value of a fringe benefit; or
+  (a) at the rate of 55.04% of the taxable value of a fringe benefit; or
   (b) by calculating for the relevant tax year the total pay of each employee under sections RD 50 and RD 53.
 Replacing rate with calculated amount
 (4) Despite subsection (3), the employer may ask the Commissioner to replace the FBT liability determined under subsection (3)(a) with a calculation under subsection (3)(b). The employer must provide the information necessary for the calculation.
@@ -36242,6 +36388,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **branch equivalent tax debit** means a debit referred to in section OA 6(5) (Debits)
   - **bribe** is defined in section DB 45(4) (Bribes paid to public officials) for the purposes of that section
   - **broodmare** means a broodmare that is bloodstock
+  - **building** , in subparts EE and EZ, does not include a grandparented structure
   - **building society** is defined in section 2 of the Building Societies Act 1965
   - **business** —
     (a) includes any profession, trade, or undertaking carried on for profit:
@@ -36260,7 +36407,13 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (c) for a calculation under the exit calculation or provisional tax calculation options, is an income year:
     (d) for a calculation under the exit calculation option when an exit period arises, is the exit period
   - **cancellation** , for a company and for a share, means the acquisition, redemption, or other cancellation of the whole share by the company, including on the liquidation of a company, and when a stapled debt security ceases to be a share
-  - **capital contribution** is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
+  - **capital contribution** —
+    (a) in sections CG 8, DB 64, and EE 48 (which relate to capital contributions), means an amount that––
+      (i) is paid by a person (the payer) to a person (the recipient) under an agreement between them that is not a contract of insurance; and
+      (ii) is paid by the payer other than in their capacity of settlor, partner, or shareholder of the recipient; and
+      (iii) is not income of the recipient, ignoring section CG 8; and
+      (iv) is paid, under the express terms and conditions of the agreement, as a contribution for depreciable property owned or to be acquired by the recipient:
+    (b) is defined in section HG 11(12) (Limitation on deductions by partners in limited partnerships) for the purposes of that section
   - **capital limitation** is defined in section DA 2(1) (General limitations)
   - **capital property** is defined in section CD 44(18) (Available capital distribution amount) for the purposes of that section
   - **car** ,—
@@ -37131,6 +37284,13 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (b) the company carries on a business, and the total amount of the company’s finance-related deductions allocated to the income year before the current income year (the previous income year) is—
       (i) zero, because no deductions are allocated to the previous income year; or
       (ii) less than 50% of the company’s total deductions allocated to the previous income year, calculated as if the company were not part of the group and determined under section FM 3 (Liability of consolidated groups and group companies)
+  - **grandparented structure** means, for a person, any item on the following list, if the person acquired the item, or entered into a binding contract for the purchase or construction of the item, on or before 30 July 2009:
+    (a) barns, including barns (drying):
+    (b) carparks (buildings):
+    (c) chemical works:
+    (d) fertiliser works:
+    (e) powder drying buildings:
+    (f) site huts
   - **grant-related suspensory loan** means a loan—
     (a) that—
       (i) is made by a public authority; and
@@ -39944,7 +40104,7 @@ Purpose of schedule
 To the extent to which a person does not have a basic rate under clauses 2 to 8, the basic rate of income tax for the person on each dollar of the person’s taxable income is calculated using the formula—
   (a) tax under table 1 means the total tax, calculated for each dollar in the person’s taxable income, using table 1:
   (b) taxable income means the number of dollars in the person’s taxable income.
-Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.1252$14,001 – $48,0000.2103$48,001 – $70,0000.3304$70,001 upwards0.380How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
+Table 1RowRange of dollar in taxable incomeTax rate1$0 – $14,0000.11502$14,001 – $48,0000.19253$48,001 – $70,0000.31504$70,001 upwards0.3550How to use this table:Find the range in the second column for each dollar in the person's taxable income, and apply the relevant rate for the dollar in the third column.
 
 ### 2 Taxable income: companies
 To the extent to which a company does not have a basic rate under clauses 3 to 8, the basic rate of income tax for the company on each dollar of the company’s taxable income is 0.30.
@@ -39972,10 +40132,10 @@ The basic rate of income tax for a person on each dollar of the person’s sched
 
 | Row | Range of dollar in all-inclusive pay | Tax rate |
 | --- | --- | --- |
-| 1 | $0 – $12,250 | 0.1429 |
-| 2 | $12,251 – $39,110 | 0.2658 |
-| 3 | $39,111 – $53,850 | 0.4925 |
-| 4 | $53,851 upwards | 0.6129 |
+| 1 | $0 – $12,390 | 0.1299 |
+| 2 | $12,391 – $39,845 | 0.2384 |
+| 3 | $39,846 – $54,915 | 0.4599 |
+| 4 | $54,916 upwards | 0.5504 |
 | How to use this table:Find the range in the second column for each dollar in the person's all-inclusive pay under section RD 51, and apply the relevant rate for the dollar in the third column. |  |  |
 
 ### 1 Amount of tax for section RD 67(a)
