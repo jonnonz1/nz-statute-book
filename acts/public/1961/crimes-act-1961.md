@@ -1,12 +1,12 @@
 # Crimes Act 1961
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-06-01_
 
 > An Act to consolidate and amend the Crimes Act 1908 and certain other enactments of the Parliament of New Zealand relating to crimes and other offences
 
 ### 1 Short Title, commencement, etc
 (1) This Act may be cited as the Crimes Act 1961.
 (2) This Act shall come into force on 1 January 1962.
-(3) This Act is divided into Parts, as follows:Part 1—Jurisdiction (sections 5 to 12)Part 2—Punishments (sections 13 to 19F)Part 3—Matters of justification or excuse (sections 20 to 65)Part 4—Parties to the commission of offences (sections 66 to 72)Part 5—Crimes against public order (sections 73 to 98F)Part 6—Crimes affecting the administration of law and justice (sections 99 to 122)Part 7—Crimes against religion, morality, and public welfare (sections 123 to 150)Part 8—Crimes against the person (sections 150A to 210A)Part 9—Crimes against reputation (sections 211 to 216)Part 9A—Crimes against personal privacy (sections 216A to 216N)Part 10—Crimes against rights of property (sections 217 to 305)Part 11—Threatening, conspiring, and attempting to commit offences (sections 306 to 312)Part 11A—Obtaining evidence by listening devices (sections 312A to 312Q)Part 12—Procedure (sections 313 to 378F)Part 13—Appeals (sections 379 to 399)Part 14—Miscellaneous provisions (sections 400 to 415)
+(3) This Act is divided into Parts, as follows:Part 1—Jurisdiction (sections 5 to 12)Part 2—Punishments (sections 13 to 19F)Part 3—Matters of justification or excuse (sections 20 to 65)Part 4—Parties to the commission of offences (sections 66 to 72)Part 5—Crimes against public order (sections 73 to 98F)Part 6—Crimes affecting the administration of law and justice (sections 99 to 122)Part 7—Crimes against religion, morality, and public welfare (sections 123 to 150)Part 8—Crimes against the person (sections 150A to 210A)Part 9—Crimes against reputation (sections 211 to 216)Part 9A—Crimes against personal privacy (sections 216A to 216N)Part 10—Crimes against rights of property (sections 217 to 305)Part 11—Threatening, conspiring, and attempting to commit offences (sections 306 to 312)Part 11A—Obtaining evidence by interception devices (sections 312A to 312Q)Part 12—Procedure (sections 313 to 378F)Part 13—Appeals (sections 379 to 399)Part 14—Miscellaneous provisions (sections 400 to 415)
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
@@ -61,7 +61,7 @@ _Consolidation as at 2009-12-08_
   - **Supreme Court** means the Supreme Court of New Zealand established by section 6 of the Supreme Court Act 2003
   - **territorial waters** , in relation to any country other than New Zealand, means such part of the sea adjacent to the coast of that country as is within the territorial sovereignty of that country; and includes ports, harbours, rivers, and other places in which at the commencement of this Act the Admiralty of England has jurisdiction (whether exclusive or not) in respect of offences of any kind committed on board Commonwealth ships
   - **to injure** means to cause actual bodily harm
-  - **Trial Judge** means,—
+  - **trial Judge** means,—
     (a) if the accused has been committed to the High Court for trial and the case has not been transferred to the District Court for trial under section 184Q of the Summary Proceedings Act 1957, a High Court Judge:
     (b) if the accused has been committed to the District Court for trial or the case has been transferred to that court for trial under section 184Q of the Summary Proceedings Act 1957, and the court has jurisdiction in the matter under section 28A of the District Courts Act 1947, a District Court Judge.
 (1A) For the purposes of paragraph (a) of the definition in subsection (1) of sexual connection, introduction to the slightest degree is enough to effect a connection.
@@ -3189,7 +3189,7 @@ Where any one is charged with any offence in respect of which the leave or conse
 (1) Where any person is committed for any crime to appear at any sitting of the High Court or of a District Court (hereinafter referred to as the court of committal), and it appears to a Judge or a District Court Judge (as the case may require) that it is expedient for the ends of justice that the person should be tried for that crime—the Judge, either of his own motion, or on application made by or on behalf of the prosecutor or the person charged, may by order, either before or after an indictment is filed, direct that the person shall be tried at such place and sitting of the court, or (as the case may require) by such court and at such sitting of that court (hereinafter referred to as the substituted court), as he thinks fit.
   (a) where the High Court is the court of committal, at some place or at some sitting other than the place or sitting for trial to which he was committed, or at which he would in the ordinary course of law be tried; or
   (b) where a District Court is the court of committal, at some District Court or at some sitting of the court of committal other than the court or sitting to which he was committed, or at which he would in the ordinary course of law be tried,—
-(2) Any application for an order as aforesaid may be made to a Judge when sitting in court or in Chambers; and it shall not be necessary for the person charged to be brought or appear in person before the Judge, either upon the making or the determination of the application, or to plead to any such indictment in the court of committal.
+(2) Any application for an order as aforesaid may be made to a Judge when sitting in court or in chambers; and it shall not be necessary for the person charged to be brought or appear in person before the Judge, either upon the making or the determination of the application, or to plead to any such indictment in the court of committal.
 (3) The Judge may make any such order subject to such conditions concerning bail and the payment of the costs of the prosecutor and witnesses, and of the removal of the indictment, and of the removal of the person charged, and concerning the publication of any report or account of the proceedings in connection with the making of the order, and concerning any other matter or thing whatsoever, as the Judge in his discretion thinks fit.
 (4) After any such order has been made, no indictment shall be filed to or at the court of committal against that person for the crime.
 (5) If the indictment has not been filed when the order is made, the indictment may be filed at the substituted court.
@@ -3332,7 +3332,7 @@ Every one who is a party to any crime may be convicted either upon a count charg
   (b) he believes that the admissibility of that evidence may be challenged,—
 (2) The Judge shall give each party an opportunity to be heard in respect of the application before deciding whether or not to make the order.
 (3) The Judge may make an order under this section on such terms and subject to such conditions as he thinks fit.
-(4) Nothing in this section nor in any order made under this section shall affect the right of the prosecutor or the accused to seek to adduce evidence that he claims is admissible during the trial, nor the discretion of the Trial Judge to allow or exclude any evidence in accordance with any rule of law.
+(4) Nothing in this section nor in any order made under this section shall affect the right of the prosecutor or the accused to seek to adduce evidence that he claims is admissible during the trial, nor the discretion of the trial Judge to allow or exclude any evidence in accordance with any rule of law.
 
 **Identification evidence**
 
@@ -3373,53 +3373,53 @@ Every one who is a party to any crime may be convicted either upon a count charg
 (5) The accused is entitled to uplift a copy of the indictment from the Registrar at any time after it has been filed.
 
 ### 345B Extension of time for filing indictment
-(1) If, upon application, it appears to a Trial Judge that it is in the interests of justice to extend the 42-day period referred to in section 345A for filing an indictment, he or she may order that the time be extended for such further period or periods as he or she thinks fit.
-(2) Without limiting the generality of subsection (1), in considering an application under this section, the Trial Judge may have regard to the following matters:
+(1) If, upon application, it appears to a trial Judge that it is in the interests of justice to extend the 42-day period referred to in section 345A for filing an indictment, he or she may order that the time be extended for such further period or periods as he or she thinks fit.
+(2) Without limiting the generality of subsection (1), in considering an application under this section, the trial Judge may have regard to the following matters:
   (a) the number of offences which will or may be counts in the indictment:
   (b) the nature of the offence or offences which will or may be counts in the indictment:
   (c) the complexity of the issues likely to arise in the proceedings:
   (d) whether the accused is charged jointly with any other person:
   (e) whether further or ongoing inquiries are being conducted by or for the prosecution in relation to the subject-matter of the trial.
 (3) An application under this section may be made before or on or after the expiration of the period allowed for filing the indictment, and any period extended under this section may, in like manner, be further extended.
-(4) An application under this section shall, unless a Trial Judge otherwise directs,—
+(4) An application under this section shall, unless a trial Judge otherwise directs,—
   (a) be in writing; and
   (b) include a statement of the reasons for seeking an extension; and
   (c) specify the period for which the extension is sought; and
   (d) give notice of intention (if any) to apply for an order under section 345C(1).
-(5) An application under this section shall, unless a Trial Judge otherwise directs, be served by the prosecutor on the accused at least 4 working days before the date fixed for the hearing of the application,—
+(5) An application under this section shall, unless a trial Judge otherwise directs, be served by the prosecutor on the accused at least 4 working days before the date fixed for the hearing of the application,—
   (a) if the accused was represented by counsel at the committal proceedings for of the charge or charges, or is known by the prosecutor to be represented by counsel or a solicitor, by leaving a copy of the application at the office of the counsel or solicitor or sending a registered letter addressed to the counsel or solicitor at his or her office:
-  (b) in any other case, by delivering a copy of the application personally to the accused or in such other manner as a Trial Judge may direct.
-(6) Any application under this section may be made to a Trial Judge when sitting in court or in Chambers, and if the accused is represented by counsel, it is not necessary for the accused to be brought or appear before the Trial Judge on the hearing of the application.
+  (b) in any other case, by delivering a copy of the application personally to the accused or in such other manner as a trial Judge may direct.
+(6) Any application under this section may be made to a trial Judge when sitting in court or in chambers, and if the accused is represented by counsel, it is not necessary for the accused to be brought or appear before the trial Judge on the hearing of the application.
 (7) A Registrar may exercise the power conferred by subsection (1) if—
   (a) the period of extension sought does not exceed 1 month; and
   (b) the accused has consented to the extension, whether personally or by his or her counsel or solicitor.
 
 ### 345C Trial Judge may excuse disclosure of information relating to Police investigations
-(1) A Trial Judge may, upon application, order that the prosecution be excused from disclosing to the accused any details relating to the nature or the purpose of investigations referred to in the application.
+(1) A trial Judge may, upon application, order that the prosecution be excused from disclosing to the accused any details relating to the nature or the purpose of investigations referred to in the application.
 (2) An order shall not be made under this section in any case unless—
   (a) an application has been made under section 345B in relation to the same case; and
   (b) the reason for that application is that further or continuing investigations in respect of the subject-matter of the trial in that case or any other matter that may affect the trial are being or are to be made by or for the prosecutor; and
   (c) the disclosure of the information will or may prejudice the investigations referred to in the application under this section; and
   (d) it is not contrary to the interests of justice to withhold the information.
-(3) At the hearing of an application under this section, any evidence to be adduced by the prosecutor shall be tendered to the Trial Judge in affidavit form and shall not be disclosed to the accused or to his or her counsel or solicitor unless the Trial Judge otherwise directs after considering the evidence and hearing from the prosecutor.
+(3) At the hearing of an application under this section, any evidence to be adduced by the prosecutor shall be tendered to the trial Judge in affidavit form and shall not be disclosed to the accused or to his or her counsel or solicitor unless the trial Judge otherwise directs after considering the evidence and hearing from the prosecutor.
 (4) If an order is made under subsection (1), the Registrar shall, at the conclusion of the hearing, hold all evidence adduced by the prosecutor secure against search until the order is discharged by the court.
-(5) A Trial Judge may, at any time after an order under subsection (1) has been made, either of his or her own motion or upon application by the accused or the prosecutor, discharge the order if the Trial Judge is satisfied, after hearing from the prosecutor, that—
+(5) A trial Judge may, at any time after an order under subsection (1) has been made, either of his or her own motion or upon application by the accused or the prosecutor, discharge the order if the trial Judge is satisfied, after hearing from the prosecutor, that—
   (a) the investigations which were the subject of the order have been completed; or
   (b) disclosure of the information referred to in the order is necessary in the interests of justice.
 
 ### 345D Leave to file amended indictments
-(1) A Trial Judge may, at any time before the commencement of the trial, upon application by the prosecutor, grant leave to allow the prosecutor to file an amended indictment if it appears to the Trial Judge that the filing of an amended indictment would be conducive to the ends of justice.
+(1) A trial Judge may, at any time before the commencement of the trial, upon application by the prosecutor, grant leave to allow the prosecutor to file an amended indictment if it appears to the trial Judge that the filing of an amended indictment would be conducive to the ends of justice.
 (2) Without limiting the generality of subsection (1), leave may be granted under that subsection to allow the filed indictment to be amended by—
   (a) amending any particulars; or
   (b) removing or adding or substituting charges; or
   (c) adding or removing the name of any accused.
-(3) An application under this section shall, unless a Trial Judge otherwise directs,—
+(3) An application under this section shall, unless a trial Judge otherwise directs,—
   (a) be in writing; and
   (b) include a statement of the reasons why an amendment to the filed indictment is necessary or be accompanied by a copy of the amended indictment in respect of which leave is sought.
-(4) An application under this section shall, unless a Trial Judge otherwise directs, be served by the prosecutor on the accused at least 4 working days before the date fixed for the hearing of the application,—
+(4) An application under this section shall, unless a trial Judge otherwise directs, be served by the prosecutor on the accused at least 4 working days before the date fixed for the hearing of the application,—
   (a) if the accused was represented by counsel at the committal proceedings for the charge or charges, or is known by the prosecutor to be represented by counsel or a solicitor, by leaving a copy of the application at the office of the counsel or solicitor or sending a registered letter addressed to the counsel or solicitor at his or her office:
-  (b) in any other case, by delivering a copy of the application personally to the accused or in such other manner as a Trial Judge may direct.
-(5) Any application under this section may be made to a Trial Judge when sitting in court or in Chambers, and if the accused is represented by counsel, it is not necessary for the accused to be brought or appear before the Trial Judge on the hearing of the application.
+  (b) in any other case, by delivering a copy of the application personally to the accused or in such other manner as a trial Judge may direct.
+(5) Any application under this section may be made to a trial Judge when sitting in court or in chambers, and if the accused is represented by counsel, it is not necessary for the accused to be brought or appear before the trial Judge on the hearing of the application.
 (6) A Registrar may exercise the power conferred by subsection (1) if the accused has consented to the filing of an amended indictment, whether personally or by his or her counsel or solicitor.
 
 ### 346 Failure of prosecutor to file indictment
@@ -3627,7 +3627,9 @@ Where any accused person is not defended by counsel, then, on the completion of 
 (3) If the Judge considers that the sentence is one that could not by law be passed, or that a sentence required by law to be passed has not been passed, he may pass such sentence as ought to have been passed.
 (4) Any Judge to whom an application is made under this section may by order remove the application into the Court of Appeal, which may deal with it as if it were an appeal on a question of law reserved under section 380.
 (5) If the Judge to whom an application is made under this section passes a new sentence, the time for appeal against conviction or sentence or both shall run from the date of the new sentence.
-(6) In this section, the term sentence includes an order, and references to the passing of a sentence include references to the making of an order.
+(6) In this section, sentence includes—
+  (a) an order, and references to the passing of a sentence include references to the making of an order:
+  (b) a record of first warning (within the meaning of section 86A of the Sentencing Act 2002) and a record of final warning (within the meaning of that section), and references to the passing of a sentence include references to the giving and recording of a warning of either kind.
 
 ### 373 Discretion to keep jury together
 (1) From the time when the accused is given in charge to the jury the trial shall proceed continuously, subject to the power of the court to adjourn it.
@@ -3986,7 +3988,7 @@ For the purposes of any appeal or application for leave to appeal against convic
 (1) The Registrar of the Court of Appeal or the Registrar of the Supreme Court shall take all necessary steps for obtaining a hearing of any appeal or application for leave to appeal of which notice is given to him, and shall obtain and lay before the court in proper form all documents, exhibits, and other things connected with the proceedings in the court whose decision is appealed against which appear necessary for the proper determination of the appeal or application.
 (1A) For every appeal against conviction or sentence, the Registrar must prepare a preliminary case on appeal comprising—
   (a) the trial transcript; and
-  (b) the Trial Judge's summing up to the jury, if the Registrar considers it relevant to the grounds of appeal; and
+  (b) the trial Judge's summing up to the jury, if the Registrar considers it relevant to the grounds of appeal; and
   (c) any other documents, exhibits, or other things connected with the proceedings that the Registrar considers are relevant to the grounds of appeal and appropriate for inclusion in the preliminary case on appeal.
 (1B) A preliminary case on appeal prepared under subsection (1A) must be given to—
   (a) the court or Judge deciding the mode of hearing; and
@@ -4195,7 +4197,7 @@ If sections 413 and 414 are inconsistent with any other enactment or rule of law
 | AB |
 | --- |
 
-| JS, Justice of the Peace, CommunityMagistrate, [or Registrar of DistrictCourt (not being a constable)]. |
+| or |
 | --- |
 
 ## Schedule 3 — Enactments amended
@@ -4255,7 +4257,7 @@ This Act shall be read together with and deemed part of the Crimes Act 1961 (her
 (2) This Act shall come into force on 1 January 1990.
 
 ### 3 Transitional provision
-Section 2 shall not apply in respect of any hearing or trial that has commenced before the commencement of this Act; and in respect of any such trial, section 375A of the principal Act (as originally enacted) shall continue to apply as if section 2 had not been enacted.
+Section 2 shall not apply in respect of any hearing or trial that has commenced before the commencement of this Act; and in respect of any such trial, section 375Aof the principal Act (as originally enacted) shall continue to apply as if section 2 had not been enacted.
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Crimes Amendment Act (No 2) 1995, and shall be read together with and deemed part of the Crimes Act 1961 (hereinafter referred to as the principal Act).
@@ -4264,7 +4266,7 @@ Section 2 shall not apply in respect of any hearing or trial that has commenced 
 ### 5 Savings provision relating to indictments
 Nothing in section 3 applies to any indictment in respect of an accused committed for trial before the commencement of that section.
 
-### 6 Transitional and savings provisions relating to power of District Court to order trial by Trial Judge alone
+### 6 Transitional and savings provisions relating to power of District Court to order trial by trial Judge alone
 (1) Nothing effected by section 4 of this Act in relation to section 28D(1) of the District Courts Act 1947 or section 168C of the Summary Proceedings Act 1957 or section 361B(1) or section 361C(2)(a) of the Crimes Act 1961 applies in relation to any accused committed for trial before the date of commencement of that section if the trial of the accused has commenced before that date.
 (2) Where the accused has been committed for trial before the date of commencement of section 4 of this Act, but the trial of the accused has not commenced before that date, section 361B(1) of the Crimes Act 1961 (as amended by section 4) shall, so far as it is applicable, apply as if for the words date on which he is so committed there were substituted the words commencement of section 4 of the Crimes Amendment Act (No 2) 1995.
 
@@ -4274,6 +4276,9 @@ Nothing in section 3 applies to any indictment in respect of an accused committe
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Purpose
+The purpose of this Act is to implement the Convention on Combating Bribery of Foreign Public Officials in International Business Transactions.
 
 **Extradition of offenders**
 
@@ -4350,6 +4355,14 @@ This Act is the Prostitution Reform Act 2003.
 (1) This Act (other than the provisions referred to in subsection (2)) comes into force on the day after the date on which it receives the Royal assent.
 (2) Part 3 and sections 49 and 50(2) come into force 6 months after the date on which this Act receives the Royal assent.
 
+### 3 Purpose
+The purpose of this Act is to decriminalise prostitution (while not endorsing or morally sanctioning prostitution or its use) and to create a framework that—
+  (a) safeguards the human rights of sex workers and protects them from exploitation:
+  (b) promotes the welfare and occupational health and safety of sex workers:
+  (c) is conducive to public health:
+  (d) prohibits the use in prostitution of persons under 18 years of age:
+  (e) implements certain other related reforms.
+
 ## Part 4 — Miscellaneous provisions
 
 **Repeals, amendments, and transitional provisions**
@@ -4386,7 +4399,13 @@ To the extent (if any) that, with or without modification, a provision of the pr
 This Act is the Crimes (Substituted Section 59) Amendment Act 2007.
 
 ### 2 Commencement
-This Act comes into force one month after the date on which it receives the Royal assent.
+This Act comes into force 1 month after the date on which it receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Crimes Act 1961.
+
+### 4 Purpose
+The purpose of this Act is to amend the principal Act to make better provision for children to live in a safe and secure environment free from violence by abolishing the use of parental force for the purpose of correction.
 
 ### 7 Chief executive to monitor effects of this Act
 (1) The chief executive must, in accordance with this section, monitor, and advise the Minister on, the effects of this Act, including the extent to which this Act is achieving its purpose as set out in section 4, and of any additional impacts.
@@ -4402,6 +4421,9 @@ This Act is the Crimes Amendment Act (No 2) 2008.
 ### 2 Commencement
 (1) Section 4 comes into force on the day that is 6 months after the date on which this Act receives the Royal assent.
 (2) The rest of this Act comes into force on the day after the date on which this Act receives the Royal assent.
+
+### 3 Principal Act amended
+This Act amends the Crimes Act 1961.
 
 ### 4 New sections 361D and 361E inserted
 ((1)–(5)) Amendment(s) incorporated in the Act(s).
