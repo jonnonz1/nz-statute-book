@@ -1,5 +1,5 @@
 # Parole Act 2002
-_Consolidation as at 2009-04-04_
+_Consolidation as at 2010-06-01_
 
 ### 1 Title
 This Act is the Parole Act 2002.
@@ -304,6 +304,12 @@ For the purposes of section 15, a programme means any of the following:
   (a) the offender's parole eligibility date as it would be under subsection (1) if he or she were subject only to the sentence or sentences imposed after the commencement date; and
   (b) the offender's parole eligibility date as it would be under subsection (2) if he or she were subject only to the pre-cd sentence or sentences.
 (4) Despite anything in this section, an offender who is subject only to 1 or more short-term sentences does not have a parole eligibility date (unless the short-term sentences are cumulative and form a long-term notional single sentence, in which case subsection (1) applies to the notional single sentence and the offender will have a parole eligibility date under that subsection).
+(5) If an offender is required, by an order under section 86C(4) or 86D(3) of the Sentencing Act 2002, to serve a sentence without parole, the offender—
+  (a) does not have a parole eligibility date in respect of the sentence; and
+  (b) may not be released on parole in respect of that sentence.
+(6) If an offender is required, by an order under section 86E(2) or 103(2A) of the Sentencing Act 2002, to serve a sentence of imprisonment for life without parole, the offender may not be released on parole.
+(7) This subsection applies to an offender who is subject to a sentence (sentence A) in respect of which an order under section 86C(4) or 86D(3) of the Sentencing Act 2002 has been made and who is also subject to 1 or more other sentences (sentence B) in respect of which no such order has been made.
+(8) For the purpose of determining the parole eligibility date (if any) of sentence B of an offender to whom subsection (7) applies, the full term of sentence A must be treated as the non-parole period of sentence A.
 
 ### 21 Consideration for parole of offenders detained in prison
 (1) The Board must, as soon as practicable after the parole eligibility date of an offender who is detained in a prison, consider the offender for release on parole.
@@ -987,11 +993,15 @@ The sentence expiry date of a pre-cd sentence is the date, determined under Part
 
 ### 84 Non-parole periods
 (1) The non-parole period of a long-term determinate sentence is one-third of the length of the sentence, unless the sentence is one to which subsection (2) or subsection (4) applies.
-(2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86, section 89, or section 103 of the Sentencing Act 2002) is the minimum term imposed.
-(3) The non-parole period of a sentence of imprisonment for life (other than one in respect of which the court has imposed a minimum term of imprisonment) is 10 years.
+(2) The non-parole period of a sentence in respect of which the court has imposed a minimum term of imprisonment (whether under section 86, section 86D(4), section 86E(4), section 89, or section 103 of the Sentencing Act 2002) is the minimum term imposed.
+(3) The non-parole period of a sentence of imprisonment for life is 10 years, unless the court—
+  (a) has imposed a minimum term of imprisonment in respect of that sentence; or
+  (b) has made an order under section 86E(2) or 103(2A) of the Sentencing Act 2002 in respect of that sentence.
+(3A) An offender who is subject to an order under section 86E(2) or 103(2A) of the Sentencing Act 2002 is not eligible for parole in respect of the sentence to which the order relates, nor in respect of any other sentence to which he or she is subject when the order is imposed, nor in respect of any sentence subsequently imposed.
 (4) The non-parole period of a long-term notional single sentence is the total obtained by adding together all the non-parole periods of every sentence that makes up the notional single sentence.
 (5) For the purpose only of calculating the non-parole period of a long-term notional single sentence,—
   (a) every short-term sentence (being a sentence imposed after the commencement date) within the notional single sentence must be treated as if it had a non-parole period of one-third of its length; and
+  (ab) every sentence in respect of which an order under section 86C(4) or 86D(3) of the Sentencing Act 2002 has been made must be treated as if the full term of the sentence were the non-parole period of the sentence; and
   (b) every long-term pre-cd sentence under which the offender is eligible for parole must be treated as if it had a non-parole period of the period represented by the time between the commencement of the sentence and the close of the date on which the offender is eligible to be released on parole from that sentence under section 89 of the Criminal Justice Act 1985; and
   (c) every pre-cd sentence under which the offender is not eligible for parole (including every short-term pre-cd sentence) must be treated as if it had a non-parole period of the period represented by the time between the commencement date of the sentence and the close of the date on which the offender must be released from that sentence (the sentence's final release date) under section 90 of the Criminal Justice Act 1985.
 
@@ -1002,6 +1012,7 @@ Pre-cd sentences do not have non-parole periods under this Act and, except for t
 
 ### 86 Release date of sentence
 (1) The release date of a short-term sentence (including a short-term notional single sentence) is the date on which the offender who is subject to the sentence has served half of it.
+(1A) Subsection (1) does not apply to a short-term sentence in respect of which an order has been made under section 86C(4)(b) of the Sentencing Act 2002, and the release date of such a sentence is its sentence expiry date.
 (2) The release date of a long-term determinate sentence (including a long-term notional single sentence) is its sentence expiry date.
 (3) An indeterminate sentence has no release date.
 
@@ -1326,7 +1337,7 @@ The chief executive must ensure that, before an eligible offender is released fr
 ### 107H Hearings relating to extended supervision orders
 (1) In this section, hearing means any hearing before a sentencing court or the Court of Appeal that relates to any of the following:
   (a) an application for an extended supervision order:
-  (b) an application for cancellation of an extended super-vision order:
+  (b) an application for cancellation of an extended supervision order:
   (c) an application for extension of an extended supervision order:
   (d) an appeal under section 107R.
 (2) At any hearing, the court may receive and take into account any evidence or information that it thinks fit for the purpose of determining the application or appeal, whether or not it would be admissible in a court of law.
