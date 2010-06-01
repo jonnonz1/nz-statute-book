@@ -1,5 +1,5 @@
 # Public Bodies Contracts Act 1959
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-06-01_
 
 > An Act to make provision for the making of contracts by local authorities and other public bodies
 
@@ -11,7 +11,7 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
   (a) every public body of any of the classes for the time being specified in Part 1 of Schedule 1:
   (b) every public body for the time being specified in Part 2 of Schedule 1.
 (2) The Governor-General may from time to time, by Order in Council, amend Schedule 1 by including in it or omitting from it the name of any class of public bodies or the name of any specified public body.
-(3) If, by any Order in Council under subsection (2), the name of any class of public body or the name of any specified public body is added to amend Schedule 1, the Act by or pursuant to which that class of public body or that public body was constituted must, so long as the name remains part of Schedule 1, be read subject to the provisions of this Act.
+(3) If, by any Order in Council under subsection (2), the name of any class of public body or the name of any specified public body is added to Schedule 1, the Act by or pursuant to which that class of public body or that public body was constituted must, so long as the name remains part of Schedule 1, be read subject to the provisions of this Act.
 
 ### 3 Mode of contracting by public bodies
 (1) Any contract which, if made by private persons, must be by deed shall, if made by a public body, be in writing and,—
@@ -40,73 +40,57 @@ This Act may be cited as the Public Bodies Contracts Act 1959.
 
 ## Schedule 1 — Public Bodies to which this Act applies
 
-| Class of Public Bodies | Enactment Under Which Constituted |
+| Class of public bodies | Enactment under which constituted |
 | --- | --- |
-| Catchment Boards |  |
-| City Councils |  |
-| Committees of management of secondary schools | 1964, No 135—The Education Act 1964. |
-| District Councils |  |
-| District Noxious Plants Authorities | 1978, No 15—The Noxious Plants Act 1978. |
-| Drainage Boards |  |
-| Governing bodies of community Colleges | 1964, No 135—The Education Act 1964. |
-| Governing bodies of teachers colleges | 1964, No 135—The Education Act 1964. |
-| Governing bodies of technical institutes | 1964, No 135—The Education Act 1964. |
-| Harbour Boards | 1950, No 34—The Harbours Act 1950. Reprinted RS Vol 2, p 551. |
-| Nassella Tussock Boards | 1978, No 15—The Noxious Plants Act 1978. |
-| New Zealand Fire Service Commission | 1975, No 42—The Fire Service Act 1975. |
-| Pest Destruction Boards | 1967, No 147—The Agricultural Pests Destruction Act 1967. |
-| Railway Boards | 1914, No 32—The Local Railways Act 1914. Reprinted RS Vol 17, p 279. |
-| Regional Councils |  |
-| Regional Water Boards | 1967, No 135—The Water and Soil Conservation Act 1967. |
-| River Boards |  |
-| Secondary schools councils | 1964, No 135—The The Education Act 1964. |
-| Secondary schools governing bodies | 1964, No 135— Education Act 1964. |
-| Tertiary Institutions | 1989, No 80—The Education Act 1989. |
+| Committees of management of secondary schools | Education Act 1964 (1964 No 135) |
+| District Noxious Plants Authorities | Noxious Plants Act 1978 (1978 No 15) |
+| Governing bodies of community Colleges | Education Act 1964 (1964 No 135) |
+| Governing bodies of teachers colleges | Education Act 1964 (1964 No 135) |
+| Governing bodies of technical institutes | Education Act 1964 (1964 No 135) |
+| Harbour Boards | Harbours Act 1950 (1950 No 34) (Reprinted RS Vol 2, p 551) |
+| Nassella Tussock Boards | Noxious Plants Act 1978 (1978 No 15) |
+| New Zealand Fire Service Commission | Fire Service Act 1975 (1975 No 42) |
+| Pest Destruction Boards | Agricultural Pests Destruction Act 1967 (1967 No 147) |
+| Railway Boards | Local Railways Act 1914 (1914 No 32) (Reprinted RS Vol 17, p 279) |
+| Regional Water Boards | Water and Soil Conservation Act 1967 (1967 No 135) |
+| Secondary schools councils | The Education Act 1964 (1964 No 135) |
+| Secondary schools governing bodies | Education Act 1964 (1964 No 135) |
+| Tertiary Institutions | Education Act 1989 (1965 No 39) |
 
-| Name of Public Body | Enactment by Which Constituted |
+| Name of public body | Enactment by which constituted |
 | --- | --- |
-| The Accident Compensation Corporation | 2001 No 49—The Injury Prevention, Rehabilitation, and Compensation Act 2001 |
-| The Aotea Centre Board of Management | 1985, No 9 (Local)—The Auckland Aotea Centre Empowering Act 1985. |
-| The Arts Council of New Zealand Toi Aotearoa | 1994, No 19—The Arts Council of New Zealand Toi Aotearoa Act 1994. |
-| The Auckland Metropolitan Drainage Board |  |
-| The Auckland Regional Authority |  |
-| The Auckland Transport Board |  |
-| The Broadcasting Commission | 1989, No 25—The Broadcasting Act 1989 |
-| The Carter Observatory Board | 1938, No 9—The Carter Observatory Act 1938. |
-| The Chatham Islands Council |  |
-| The Christchurch Drainage Board |  |
-| The Christchurch Town Hall Board of Management | 1976, No 2 (Local)—The Christchurch Town Hall Board of Management Act 1976. |
-| The Christchurch Transport Board |  |
+| The Accident Compensation Corporation | Injury Prevention, Rehabilitation, and Compensation Act 2001 (2001 No 49) |
+| The Aotea Centre Board of Management | Auckland Aotea Centre Empowering Act 1985 (1985 No 9) (Local) |
+| The Arts Council of New Zealand Toi Aotearoa | Arts Council of New Zealand Toi Aotearoa Act 1994 (1994 No 19) |
+| The Broadcasting Commission | Broadcasting Act 1989 (1989 No 25) |
+| The Christchurch Town Hall Board of Management | Christchurch Town Hall Board of Management Act 1976 (1976 No 2) (Local) |
 | The Dental Council of New Zealand |  |
 | The Dental Technicians Board |  |
-| The Dunedin Drainage and Sewerage Board |  |
-| The Foundation for Research, Science and Technology | 1990, No 72—The Foundation for Research, Science, and Technology Act 1990. |
-| The Human Rights Commission | 1977, No 49—The Human Rights Commission Act 1977. |
-| The Hutt Valley Drainage Board | 1967, No 3 (Local)—The Hutt Valley Drainage Act 1967. |
+| The Foundation for Research, Science and Technology | Foundation for Research, Science, and Technology Act 1990 (1990 No 72) |
+| The Human Rights Commission | Human Rights Commission Act 1977 (1977 No 49) |
+| The Hutt Valley Drainage Board | Hutt Valley Drainage Act 1967 (1967 No 3) (Local) |
 | The Medical Council of New Zealand |  |
 | The Trustees of the National Library |  |
-| The New Zealand Artificial Limb Board | 1990, No 26—The Social Welfare (Transitional Provisions) Act 1990. |
-| The New Zealand Council for Educational Research | 1972, No 35—The New Zealand Council for Educational Research Act 1972. |
-| The New Zealand Film Commission | 1978, No 61— The New Zealand Film Commission Act 1978. |
-| The New Zealand Horticulture Export Authority | 1987, No 93—The New Zealand Horticulture Export Authority Act 1987. |
-| The New Zealand Maori Arts and Crafts Institute | 1963, No 51—The New Zealand Maori Arts and Crafts Institute Act 1963. |
-| The New Zealand Pork Industry Board | 1982, No 138—The Pork Industry Board Act 1982. |
-| The New Zealand Railways Staff Welfare Board | 1981, No 119—The New Zealand Railways Corporation Act 1981. |
-| The North Shore Drainage Board |  |
+| The New Zealand Artificial Limb Board | Social Welfare (Transitional Provisions) Act 1990 (1990 No 26) |
+| The New Zealand Council for Educational Research | New Zealand Council for Educational Research Act 1972 (1972 No 35) |
+| The New Zealand Film Commission | New Zealand Film Commission Act 1978(1978 No 61) |
+| The New Zealand Horticulture Export Authority | New Zealand Horticulture Export Authority Act 1987 (1987 No 93) |
+| The New Zealand Maori Arts and Crafts Institute | New Zealand Maori Arts and Crafts Institute Act 1963 (1963 No 51) |
+| The New Zealand Pork Industry Board | Pork Industry Board Act 1982 (1982 No 138) |
+| The New Zealand Railways Staff Welfare Board | New Zealand Railways Corporation Act 1981 (1981 No 119) |
 | The Nursing Council of New Zealand |  |
-| The Plumbers, Gasfitters, and Drainlayers Board | Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74). |
-| The Queen Elizabeth the Second National Trust | 1977, No 102—The Queen Elizabeth the Second National Trust Act 1977. |
-| The Rural Electrical Reticulation Council | 1992, No 122—The Electricity Act 1992 |
-| The South Canterbury Wallaby Board | 1971, No 74—The Agricultural Pests Destruction Amendment Act 1971. |
-| Sport and Recreation New Zealand | 2002 No 38—Sport and Recreation New Zealand Act 2002 |
-| The Standards Council | 1988, No 5—The Standards Act 1988. |
-| The Taratahi Agricultural Training Centre (Wairarapa) Trust Board | 1969, No 138—The Taratahi Agricultural Training Centre (Wairarapa) Act 1969. |
-| The Testing Laboratory Registration Council | 1972, No 36—The Testing Laboratory Registration Act 1972. |
+| The Plumbers, Gasfitters, and Drainlayers Board | Plumbers, Gasfitters, and Drainlayers Act 2006 (2006 No 74) |
+| The Queen Elizabeth the Second National Trust | Queen Elizabeth the Second National Trust Act 1977 (1977 No 102) |
+| The Rural Electrical Reticulation Council | Electricity Act 1992 (1992 No 122) |
+| The South Canterbury Wallaby Board | Agricultural Pests Destruction Amendment Act 1971 (1971 No 74) |
+| Sport and Recreation New Zealand | Sport and Recreation New Zealand Act 2002 (2002 No 38) |
+| The Standards Council | Standards Act 1988 (1988 No 5) |
+| The Taratahi Agricultural Training Centre (Wairarapa) Trust Board | Taratahi Agricultural Training Centre (Wairarapa) Act 1969 (1969 No 138) |
+| The Testing Laboratory Registration Council | Testing Laboratory Registration Act 1972 (1972 No 36) |
 | The Trustees of the National Library |  |
-| The Veterinary Council of New Zealand | 2005, No 126—The Veterinarians Act 2005. |
-| The War Pensions Advisory Board | 1988, No 149—The War Pensions Amendment Act 1988. |
-| The Wellington Regional Water Board |  |
-| The Winston Churchill Memorial Trust Board | 1965, No 39—The Winston Churchill Memorial Trust Act 1965. |
+| The Veterinary Council of New Zealand | Veterinarians Act 2005 (2005 No 126) |
+| The War Pensions Advisory Board | War Pensions Amendment Act 1988 (1988 No 149) |
+| The Winston Churchill Memorial Trust Board | Winston Churchill Memorial Trust Act 1965 (1965 No 39) |
 
 ## Schedule 2 — Enactments amended
 
