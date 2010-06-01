@@ -1,5 +1,5 @@
 # District Courts Act 1947
-_Consolidation as at 2010-03-23_
+_Consolidation as at 2010-06-01_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand relating to District Courts and the jurisdiction of District Court Judges in civil proceedings, and to make provision for the exercise of criminal jurisdiction under the Summary Proceedings Act 1957 in District Courts
 
@@ -329,6 +329,7 @@ If any person assaults an officer of a court while in the execution of his duty,
   (e) attempting to commit an indictable offence to which paragraph (b) or (c) applies, or inciting or counselling or attempting to procure any person to commit any such offence, which is not committed:
   (f) being an accessory after the fact to any indictable offence to which paragraph (b) or (c) applies.
 (2) Notwithstanding anything in any of paragraphs (c) to (f) of subsection (1), a court shall not have jurisdiction under this Part to try a person charged with an offence against any of sections 109, 113, 115, 116, and 117 of the Crimes Act 1961 if the charge relates to proceedings that were held in the High Court.
+(3) Despite subsection (1), a court does not have jurisdiction to try a person charged with a stage-3 offence (within the meaning of section 86A of the Sentencing Act 2002).
 
 ### 28B Appointment of trial Judges
 (1) The Governor-General shall from time to time, by warrant under his hand, appoint sufficient trial Judges to exercise the criminal jurisdiction of the courts under this Part.
@@ -369,6 +370,7 @@ If any person assaults an officer of a court while in the execution of his duty,
     (i) in the case of imprisonment, the maximum term prescribed by law; or
     (ii) in the case of a fine, the maximum amount prescribed by law or, if no maximum amount is so prescribed, $10,000:
   (b) any Judge who is not a trial Judge may sentence the person to imprisonment or a fine or both, not exceeding the maximum term or amount prescribed by section 7 of the Summary Proceedings Act 1957.
+(5) Despite subsections (1) to (4), a court does not have jurisdiction to impose a sentence in respect of a stage-3 offence (within the meaning of section 86A of the Sentencing Act 2002).
 
 ### 28G Judge may decline to sentence
 Notwithstanding section 28F, in any case to which that section would otherwise apply, the Judge may decline to sentence the offender under that section and instead commit him to the High Court for sentence; and sections 184K, 184L, and 184T of the Summary Proceedings Act 1957, with any necessary modifications, shall apply.
@@ -1468,9 +1470,6 @@ This Act is the District Courts Amendment Act (No 2) 2008.
 
 ### 2 Commencement
 This Act comes into force on the day after the date on which it receives the Royal assent.
-
-### 3 Principal Act amended
-This Act amends the District Courts Act 1947.
 
 ### 9 Transitional provision
 (1) Subsection (2) applies to any offence that—
