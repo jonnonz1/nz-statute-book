@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-06-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -57,7 +57,7 @@ The purposes of this Act are—
   - **instrument of crime** —
     (a) means property used (wholly or in part) to commit, or to facilitate the commission of, a qualifying instrument forfeiture offence; and
     (b) includes, in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1) or (2A) of the Terrorism Suppression Act 2002, funds (as defined in section 4(1) of that Act) allocated for the purpose of committing that offence
-  - **minimum period of imprisonment** means the period of imprisonment that the court has, under section 86 or section 89 or section 103, ordered that an offender must serve before he or she can be released under subpart 2 of Part 1 of the Parole Act 2002
+  - **minimum period of imprisonment** means the period of imprisonment that the court has, under section 86, 86D(4), 86E(4)(a), 89, or 103, ordered that an offender must serve before he or she can be released under subpart 2 of Part 1 of the Parole Act 2002
   - **non-release day** means a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and, in respect of a particular place where an offender is serving a sentence of community detention or home detention, the anniversary day of the region in which that place is situated
   - **offender** includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
   - **post-detention conditions** means any standard post-detention conditions and special post-detention conditions imposed under section 80N on an offender sentenced to home detention
@@ -1635,6 +1635,160 @@ In determining the length of any sentence of imprisonment to be imposed, the cou
   (b) 10 years.
 (5) For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, an order under this section is a sentence.
 
+**Additional consequences for repeated serious violent offending**
+
+### 86A Interpretation
+In this section and in sections 86B to 86I, unless the context otherwise requires,—
+  - **record of final warning** , in relation to an offender, means a record of a warning that the offender has under section 86C(3) or 86E(8)
+  - **record of first warning** , in relation to an offender, means a record of a warning that the offender has under section 86B(3)
+  - **serious violent offence** means an offence against any of the following provisions of the Crimes Act 1961:
+    (1) section 128B (sexual violation):
+    (2) section 129 (attempted sexual violation and assault with intent to commit sexual violation):
+    (3) section 129A(1) (sexual connection with consent induced by threat):
+    (4) section 131(1) (sexual connection with dependent family member under 18 years):
+    (5) section 131(2) (attempted sexual connection with dependent family member under 18 years):
+    (6) section 132(1) (sexual connection with child):
+    (7) section 132(2) (attempted sexual connection with child):
+    (8) section 132(3) (indecent act on child):
+    (9) section 134(1) (sexual connection with young person):
+    (10) section 134(2) (attempted sexual connection with young person):
+    (11) section 134(3) (indecent act on young person):
+    (12) section 135 (indecent assault):
+    (13) section 138(1) (exploitative sexual connection with person with significant impairment):
+    (14) section 138(2) (attempted exploitative sexual connection with person with significant impairment):
+    (15) section 142A (compelling indecent act with animal):
+    (16) section 144A (sexual conduct with children and young people outside New Zealand):
+    (17) section 172 (murder):
+    (18) section 173 (attempted murder):
+    (19) section 174 (counselling or attempting to procure murder):
+    (20) section 175 (conspiracy to murder):
+    (21) section 177 (manslaughter):
+    (22) section 188(1) (wounding with intent to cause grievous bodily harm):
+    (23) section 188(2) (wounding with intent to injure):
+    (24) section 189(1) (injuring with intent to cause grievous bodily harm):
+    (25) section 191(1) (aggravated wounding):
+    (26) section 191(2) (aggravated injury):
+    (27) section 198(1) (discharging firearm or doing dangerous act with intent to do grievous bodily harm):
+    (28) section 198(2) (discharging firearm or doing dangerous act with intent to injure):
+    (29) section 198A(1) (using firearm against law enforcement officer, etc):
+    (30) section 198A(2) (using firearm with intent to resist arrest or detention):
+    (31) section 198B (commission of crime with firearm):
+    (32) section 200(1) (poisoning with intent to cause grievous bodily harm):
+    (33) section 201 (infecting with disease):
+    (34) section 208 (abduction for purposes of marriage or sexual connection):
+    (35) section 209 (kidnapping):
+    (36) section 232(1) (aggravated burglary):
+    (37) section 234 (robbery):
+    (38) section 235 (aggravated robbery):
+    (39) section 236(1) (causing grievous bodily harm with intent to rob or assault with intent to rob in specified circumstances):
+    (40) section 236(2) (assault with intent to rob)
+  - **stage-1 offence** means an offence that—
+    (a) is a serious violent offence; and
+    (b) was committed by an offender at a time when the offender—
+      (i) did not have a record of first warning given under section 86B; and
+      (ii) was 18 years of age or over
+  - **stage-2 offence** means an offence that—
+    (a) is a serious violent offence; and
+    (b) was committed by an offender at a time when the offender had a record of first warning (in relation to 1 or more offences) but did not have a record of final warning
+  - **stage-3 offence** means an offence that—
+    (a) is a serious violent offence; and
+    (b) was committed by an offender at a time when the offender had a record of final warning (in relation to 1 or more offences).
+
+### 86B Stage-1 offence: offender given first warning
+(1) When a court, on any occasion, convicts an offender of 1 or more stage-1 offences, the court must at the same time—
+  (a) warn the offender of the consequences if the offender is convicted of any serious violent offence committed after that warning (whether or not that further serious violent offence is different in kind from any stage-1 offence for which the offender is being convicted); and
+  (b) record, in relation to each stage-1 offence, that the offender has been warned in accordance with paragraph (a).
+(2) It is not necessary for a Judge to use a particular form of words in giving the warning.
+(3) On the entry of a record under subsection (1)(b), the offender has, in relation to each stage-1 offence (for which a record is entered), a record of first warning.
+(4) The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under subsection (1)(a).
+
+### 86C Stage-2 offence other than murder: offender given final warning and must serve full term of imprisonment
+(1) When, on any occasion, a court convicts an offender of 1 or more stage-2 offences other than murder, the court must at the same time—
+  (a) warn the offender of the consequences if the offender is convicted of any serious violent offence committed after that warning (whether or not that further serious violent offence is different in kind from any stage-2 offence for which the offender is being convicted); and
+  (b) record, in relation to each stage-2 offence, that the offender has been warned in accordance with paragraph (a).
+(2) It is not necessary for a Judge to use a particular form of words in giving the warning.
+(3) On the entry of a record under subsection (1)(b), the offender has, in relation to each stage-2 offence for which a record is entered, a record of a final warning.
+(4) If the sentence imposed on the offender for any stage-2 offences is a determinate sentence of imprisonment, the court must order that the offender serve the full term of the sentence and, accordingly, that the offender,—
+  (a) in the case of a long-term sentence (within the meaning of the Parole Act 2002), serve the sentence without parole; and
+  (b) in the case of a short-term sentence (within the meaning of the Parole Act 2002), not be released before the expiry of the sentence.
+(5) If the sentence imposed on the offender for 1 or more stage-2 offences is a short-term sentence (within the meaning of the Parole Act 2002) and any conditions are imposed on the offender under section 93, then, despite anything in that section, those conditions take effect on the sentence expiry date (within the meaning of the Parole Act 2002).
+(6) If, but for the application of this section, the court would have ordered, under section 86, that the offender serve a minimum period of imprisonment, the court must state, with reasons, the period that it would have imposed.
+(7) The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under subsection (1)(a).
+
+### 86D Stage-3 offences other than murder: offender sentenced to maximum term of imprisonment
+(1) Despite any other enactment,—
+  (a) a defendant who is committed for trial for a stage-3 offence must be committed to the High Court for that trial; and
+  (b) no court other than the High Court, or the Court of Appeal or the Supreme Court on an appeal, may sentence an offender for a stage-3 offence.
+(2) Despite any other enactment, if, on any occasion, an offender is convicted of 1 or more stage-3 offences other than murder, the High Court must sentence the offender to the maximum term of imprisonment prescribed for each offence.
+(3) When the court sentences the offender under subsection (2), the court must order that the offender serve the sentence without parole unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to make the order.
+(4) Despite subsection (3), if the court sentences the offender for manslaughter, the court must order that the offender serve a minimum period of imprisonment of not less than 20 years unless the court considers that, given the circumstances of the offence and the offender, a minimum period of that duration would be manifestly unjust, in which case the court must order that the offender serve a minimum period of imprisonment of not less than 10 years.
+(5) If the court does not make an order under subsection (3) or, where subsection (4) applies, does not order a minimum period of not less than 20 years under subsection (4), the court must give written reasons for not doing so.
+(6) If the court imposes a sentence under subsection (2), any other sentence of imprisonment imposed on the same occasion (whether for a stage-3 offence or for any other kind of offence) must be imposed concurrently.
+(7) Despite subsection (2), this section does not preclude the court from imposing, under section 87, a sentence of preventive detention on the offender, and if the court imposes such a sentence on the offender,—
+  (a) subsections (2) to (5) do not apply; and
+  (b) the minimum period of imprisonment that the court imposes on the offender under section 89(1) must not be less than the term of imprisonment that the court would have imposed under subsection (2), unless the court is satisfied that, given the circumstances of the offence and the offender, the imposition of that minimum period would be manifestly unjust.
+(8) If, in reliance on subsection (7)(b), the court imposes a minimum period of imprisonment that is less than the term of imprisonment that the court would have imposed under subsection (2), the court must give written reasons for doing so.
+
+### 86E When murder is a stage-2 or stage-3 offence
+(1) This section applies if—
+  (a) an offender is convicted of murder; and
+  (b) that murder is a stage-2 offence or a stage-3 offence.
+(2) If this section applies, the court must—
+  (a) sentence the offender to imprisonment for life for that murder; and
+  (b) order that the offender serve that sentence of imprisonment for life without parole unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to do so.
+(3) If the court does not make an order under subsection (2)(b), the court must give written reasons for not doing so.
+(4) If the court does not make an order under subsection (2)(b), the court must,—
+  (a) if that murder is a stage-3 offence, impose a minimum period of imprisonment of not less than 20 years unless the court is satisfied that, given the circumstances of the offence and the offender, it would be manifestly unjust to do so; and
+  (b) if that murder is a stage-2 offence, or if the court is satisfied that a minimum period of imprisonment of not less than 20 years under paragraph (a) would be manifestly unjust, order that the offender serve a minimum period of imprisonment in accordance with section 103.
+(5) If, in the case of a stage-3 offence, the court imposes under subsection (4)(a) a minimum period of imprisonment of less than 20 years, the court must give written reasons for doing so.
+(6) If, in the case of a stage-2 offence, the court makes an order under subsection (4)(b) and the offender does not, at the time of sentencing, have a record of final warning, the court must—
+  (a) warn the offender of the consequences if the offender is convicted of any serious violent offence committed after that warning; and
+  (b) record that the offender has been warned in accordance with paragraph (a).
+(7) It is not necessary for a Judge to use a particular form of words in giving the warning.
+(8) On the entry of a record under subsection (6)(b), the offender has a record of final warning.
+(9) The court must give the offender a written notice that sets out the consequences if the offender is convicted of any serious violent offence committed after the warning given under subsection (6)(a).
+
+### 86F Continuing effect of warnings
+(1) An offender continues to have a record of first warning or a record of final warning regardless of whether the offender has served or otherwise completed the sentence imposed on the offender for the offence (including, without limitation, any sentence imposed under section 86D or 86E) to which the record relates.
+(2) However, an offender ceases to have a record of first warning or a record of final warning if, on an appeal, an appellate court—
+  (a) quashes all the convictions to which the relevant record relates; and
+  (b) does not replace 1 or more of those quashed convictions with a conviction for another serious violent offence.
+(3) If the appellate court quashes a conviction to which a record of first warning or a record of final warning relates, the appellate court must order that the record of the warning be cancelled in respect of that conviction.
+(4) If the appellate court replaces a conviction (the quashed conviction) to which a record of first warning or a record of final warning relates with a conviction for another serious violent offence (the substituted conviction), then any record of first warning or final warning that previously related to the quashed conviction is deemed—
+  (a) to relate to the substituted conviction; and
+  (b) to have taken effect on the date on which the record that related to the quashed conviction took effect.
+(5) If, in accordance with subsection (2), an offender has ceased to have a record of first warning but continues to have a record of final warning, then—
+  (a) the appellate court must order that a record of first warning replace that record of final warning; and
+  (b) that replacement record of first warning is deemed to have taken effect on the date on which the record of final warning took effect.
+(6) Subsection (3) is subject to subsection (4).
+
+### 86G Consequences of cancellation of record on later sentences
+(1) This section applies where,—
+  (a) in accordance with section 86F(2), an offender ceases to have a record of first warning or a record of final warning or both (the previous record); and
+  (b) the offender continues to be subject to a sentence (a later sentence) that was imposed on the offender under any of sections 86C, 86D, or 86E for serious violent offences committed when the offender had the previous record.
+(2) The appellate court must take the actions described in this section that are applicable to the case or remit the matter to the court that sentenced the offender with a direction to take those actions.
+(3) The appropriate court must take the following actions:
+  (a) if the later sentence would not have been imposed but for the previous record, the court must set aside the later sentence and replace it with a sentence that the court would have imposed had the offender not been subject to the previous record:
+  (b) if any order relating to the later sentence would not have been made but for the previous record, the court must cancel the order and, where appropriate, replace it with an order that the court would have made had the offender not been subject to the previous record:
+  (c) if the court considers it just to make any consequential orders, the court must make those orders.
+(4) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for 1 or more stage-2 offences ceases, in accordance with section 86F(2), to have a record of first warning, the appropriate court must—
+  (a) cancel any order imposed on the offender in respect of those stage-2 offences under section 86C(4); and
+  (b) if the court considers it appropriate to do so, impose a minimum period of imprisonment under section 86 in respect of those stage-2 offences, taking into account any indication given by the sentencing court under section 86C(6); and
+  (c) in the case of a stage-2 offence that is murder, cancel any sentence or order imposed on the offender under section 86E(2) and re-sentence the offender under subpart 4 of this Part.
+(5) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for stage-3 offences ceases, in accordance with section 86F(2), to have either a record of first warning or a record of final warning, the appropriate court must,—
+  (a) if the offender has been sentenced under section 86D, re-sentence the offender for the offence concerned by applying section 86C; and
+  (b) in the case of a stage-3 offence that is murder, cancel any order made under section 86E(4)(a) and replace it with an order under section 86E(4)(b).
+(6) Without limiting the generality of subsection (3), if an offender who continues to be subject to a later sentence for stage-3 convictions ceases, in accordance with section 86F(2), to have both a record of first warning and a record of final warning, the court must,—
+  (a) if the offender has been sentenced under section 86D, re-sentence the offender for the offence concerned:
+  (b) in the case of a stage-3 offence that is murder, cancel any sentence or order imposed on the offender under section 86E(2) and any order under section 86E(4) and re-sentence the offender under subpart 4 of this Part:
+  (c) administer a first warning to the offender by taking the action described in section 86B(1).
+
+### 86H Appeal against orders relating to imprisonment
+For the purposes of Part 13 of the Crimes Act 1961, an order under section 86D(3) or (4), or 86E(2)(b) or (4)(a), is a sentence.
+
+### 86I Sections 86B to 86E prevail over inconsistent provisions
+A provision contained in sections 86B to 86E that is inconsistent with another provision of this Act or the Parole Act 2002 prevails over the other provision, to the extent of the inconsistency.
+
 **Preventive detention**
 
 ### 87 Sentence of preventive detention
@@ -1668,6 +1822,7 @@ In determining the length of any sentence of imprisonment to be imposed, the cou
 (2) The minimum period of imprisonment imposed under this section must be the longer of—
   (a) the minimum period of imprisonment required to reflect the gravity of the offence; or
   (b) the minimum period of imprisonment required for the purposes of the safety of the community in the light of the offender's age and the risk posed by the offender to that safety at the time of sentencing.
+(2A) In any case where a sentence of preventive detention is imposed for a stage-3 offence (within the meaning of section 86A), subsections (1) and (2) are subject to section 86D(7).
 (3) For the purposes of Part 13 of the Crimes Act 1961, an order under subsection (1) is a sentence.
 
 ### 90 Procedure if offender convicted in District Court and court believes offender could be sentenced to preventive detention
@@ -1790,24 +1945,31 @@ In determining the length of any sentence of imprisonment to be imposed, the cou
 ### 102 Presumption in favour of life imprisonment for murder
 (1) An offender who is convicted of murder must be sentenced to imprisonment for life unless, given the circumstances of the offence and the offender, a sentence of imprisonment for life would be manifestly unjust.
 (2) If a court does not impose a sentence of imprisonment for life on an offender convicted of murder, it must give written reasons for not doing so.
+(3) This section is subject to section 86E(2).
 
-**Imposition of minimum period of imprisonment**
+**Imposition of minimum period of imprisonment or imprisonment without parole**
 
-### 103 Imposition of minimum period of imprisonment if life imprisonment imposed for murder
-(1) If a court sentences an offender convicted of murder to imprisonment for life it must order that the offender serve a minimum period of imprisonment under that sentence.
+### 103 Imposition of minimum period of imprisonment or imprisonment without parole if life imprisonment imposed for murder
+(1) If a court sentences an offender convicted of murder to imprisonment for life it must,—
+  (a) if section 86E(1) does not apply to the conviction,—
+    (i) order that the offender serve a minimum period of imprisonment under that sentence; or
+    (ii) if subsection (2A) applies, make an order under that subsection; or
+  (b) in any case where section 86E(1) applies to the conviction, take the action prescribed by that section.
 (2) The minimum term of imprisonment ordered may not be less than 10 years, and must be the minimum term of imprisonment that the court considers necessary to satisfy all or any of the following purposes:
   (a) holding the offender accountable for the harm done to the victim and the community by the offending:
   (b) denouncing the conduct in which the offender was involved:
   (c) deterring the offender or other persons from committing the same or a similar offence:
   (d) protecting the community from the offender.
+(2A) If the court that sentences an offender convicted of murder to imprisonment for life is satisfied that no minimum term of imprisonment would be sufficient to satisfy 1 or more of the purposes stated in subsection (2), the court may order that the offender serve the sentence without parole.
+(2B) The court may not make an order under subsection (2A) unless the offender was 18 years of age or over at the time that the offender committed the murder.
 (3)
 (4)
 (5)
 (6)
-(7) This section is subject to section 104.
+(7) Subsection (2) is subject to section 104.
 
 ### 104 Imposition of minimum period of imprisonment of 17 years or more
-The court must make an order under section 103 imposing a minimum period of imprisonment of at least 17 years in the following circumstances, unless it is satisfied that it would be manifestly unjust to do so:
+(1) The court must make an order under section 103 imposing a minimum period of imprisonment of at least 17 years in the following circumstances, unless it is satisfied that it would be manifestly unjust to do so:
   (a) if the murder was committed in an attempt to avoid the detection, prosecution, or conviction of any person for any offence or in any other way to attempt to subvert the course of justice; or
   (b) if the murder involved calculated or lengthy planning, including making an arrangement under which money or anything of value passes (or is intended to pass) from one person to another; or
   (c) if the murder involved the unlawful entry into, or unlawful presence in, a dwelling place; or
@@ -1818,6 +1980,7 @@ The court must make an order under section 103 imposing a minimum period of impr
   (g) if the deceased was particularly vulnerable because of his or her age, health, or because of any other factor; or
   (h) if the offender has been convicted of 2 or more counts of murder, whether or not arising from the same circumstances; or
   (i) in any other exceptional circumstances.
+(2) This section does not apply to an offender in respect of whom an order under section 86E(2)(b) or (4)(a) or 103(2A) is made.
 
 ### 105 Appeal against imposition of minimum period of imprisonment
 For the purposes of Part 13 of the Crimes Act 1961, an order under section 103 is a sentence.
@@ -2734,3 +2897,14 @@ This Act comes into force on 1 December 2009.
 (3) In the period commencing on the commencement of this Act and ending immediately before the commencement of section 32(2) of the Land Transport Amendment Act 2009—
   (a) any reference to a person who is registered in respect of a motor vehicle in sections 129B and 136A of the principal Act (as inserted by this Act) must (despite the definition of that term in section 127(1) of the principal Act) be read as a reference to a registered owner within the meaning of the Transport (Vehicle and Driver Registration and Licensing) Act 1986:
   (b) the reference in section 136A of the principal Act (as inserted by this Act) to the Land Transport Act 1998 is taken to be a reference to the Transport (Vehicle and Driver Registration and Licensing) Act 1986.
+
+### 1 Title
+This Act is the Sentencing and Parole Reform Act 2010.
+
+### 2 Commencement
+(1) This Act comes into force on the day after the date on which it receives the Royal assent.
+(2) Despite subsection (1), section 17(2) comes into force on the commencement of section 49 of the Parole Amendment Act 2007.
+
+### 12 Transitional provision
+(1) Sections 86A to 86I of the principal Act (as inserted by section 6) do not apply to any offence committed, whether in whole or in part, before the commencement of this Act.
+(2) Section 103(2A) of the principal Act (as inserted by section 10) does not apply to any murder committed, whether in whole or in part, before the commencement of this Act.
