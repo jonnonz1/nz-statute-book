@@ -1,5 +1,5 @@
 # Carter Observatory Act 1938
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2010-06-01_
 
 > An Act to provide for the establishment in the City of Wellington of an astronomical observatory, and for the application of certain money bequeathed for that purpose by the late Charles Rooking Carter, and for matters incidental thereto
 
