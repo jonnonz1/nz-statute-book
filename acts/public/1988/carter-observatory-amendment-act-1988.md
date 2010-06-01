@@ -1,5 +1,5 @@
 # Carter Observatory Amendment Act 1988
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-06-01_
 
 > An Act to amend the Carter Observatory Act 1938
 
