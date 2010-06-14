@@ -1,0 +1,1322 @@
+# Local Government (Auckland Transitional Provisions) Act 2010
+_Consolidation as at 2010-06-14_
+
+### 1 Title
+This Act is the Local Government (Auckland Transitional Provisions) Act 2010.
+
+### 2 Commencement
+(1) Parts 1 and 3 (except section 113(2)) come into force on 1 November 2010.
+(2) Section 113(2) comes into force on 1 July 2012.
+(3) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 3 Purpose of this Act
+(1) The purpose of this Act is to resolve further matters relating to the reorganisation of local government in Auckland begun under the Local Government (Tamaki Makaurau Reorganisation) Act 2009 and continued under the Local Government (Auckland Council) Act 2009.
+(2) To this end, this Act—
+  (a) provides transitional arrangements for the operation of the Auckland Council and other local authorities affected by the reorganisation; and
+  (b) provides transitional arrangements in relation to employees affected by the reorganisation, the continuation of collective agreements, and collective bargaining in advance of the reorganisation; and
+  (c) amends and repeals certain enactments.
+
+### 4 Application of Acts and Regulations Publication Act 1989 and Regulations (Disallowance) Act 1989
+An Order in Council made under any provision of section 5 or Part 1 is a regulation for the purposes of the Acts and Regulations Publication Act 1989 and the Regulations (Disallowance) Act 1989.
+
+### 5 Transitional regulations
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations to—
+  (a) prescribe matters in respect of the initial structure and operation of the Auckland Council and its subsidiaries that may be in addition to or in place of the provisions of Part 1 or 2 of this Act:
+  (b) provide that, subject to any conditions specified in the regulations, during a specified period or in specified circumstances, specified provisions of this Act or any other enactment referred to in Part 1 or 2 do not apply, or apply with modifications, to the Council and its subsidiaries:
+  (c) extend the time for completing an action, a step, or a procedure that is required by or under Part 1 or 2 of this Act and that is not done or cannot be done by the time required:
+  (d) make provision for a situation for which no or insufficient provision is made by or under this Act.
+(2) This section expires at the close of 31 October 2013.
+(3) Any regulations made under this section that are in force on 31 October 2013 expire at the close of that day.
+
+## Part 1 — Savings, transitional provisions, and related matters (except employment)
+
+### Subpart 1 — Preliminary matters
+
+### 6 Overview of this Part
+(1) Subpart 2 of this Part sets out how the Auckland Council and its subsidiaries must conduct themselves in relation to specific matters during the first few years of their existence. It supplements the Council's own legislation (the Local Government (Auckland Council) Act 2009) and local government legislation in general. However, whereas that legislation is enduring, the provisions in this subpart are transitional and so apply only for as long as specified or until a certain event occurs.
+(2) Subpart 3 of this Part sets out how other local authorities affected by the reorganisation of local government in Auckland must conduct themselves in relation to specific matters during the first few years after the reorganisation. As with subpart 2, this part is a supplement to local government legislation in general and applies only as long as specified or until a certain event occurs.
+(3) This section is only a guide to the general scheme and effect of this Part. It does not affect the interpretation or application of the other provisions of the Part.
+
+### 7 Interpretation
+(1) In this Part, unless the context requires another meaning,—
+  - **Auckland** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Auckland Council** or has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Auckland Transport** means the entity established by section 38 of the Local Government (Auckland Council) Act 2009
+  - **boundary adjustment Order** means the Order in Council—
+    (a) made under section 35 of the Local Government (Auckland Council) Act 2009; and
+    (b) giving effect to the Local Government Commission's determination of the boundaries of Auckland in accordance with section 33 of that Act; and
+    (c) published in the Gazette (2010, p 858)
+  - **existing local authority** —
+    (a) means the following local authorities that were dissolved on 1 November 2010 by the Reorganisation Act: the Auckland Regional Council, the Auckland City Council, the Franklin District Council, the Manukau City Council, the North Shore City Council, the Papakura District Council, the Rodney District Council, and the Waitakere City Council; but
+    (b) excludes the assets, liabilities, rights, obligations, and other matters of the Franklin District Council transferred to the Hauraki District Council or the Waikato District Council under the boundary adjustment Order
+  - **local board** has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009
+  - **Minister** means the Minister of Local Government
+  - **receiving entity** has the same meaning as in section 5(1) of the Reorganisation Act
+  - **reorganisation** means the reorganisation of local government in Auckland described in section 3(1)
+  - **Reorganisation Act** means the Local Government (Tamaki Makaurau Reorganisation) Act 2009
+  - **terminating organisation** has the same meaning as in section 5(1) of the Reorganisation Act
+  - **Transition Agency** means the Auckland Transition Agency established under section 10 of the Reorganisation Act.
+(2) Unless the context requires another meaning, terms and expressions used and not defined in this Part, but defined in the Local Government Act 2002 or the Local Government (Rating) Act 2002 have the same meaning as in those Acts.
+
+### 8 Relationship between this Part and other enactments
+If there is any inconsistency between this Part and any Acts referred to in this Part, or any regulations made by or under those Acts, this Part prevails.
+
+### Subpart 2 — Savings and transitional provisions relating to Auckland Council and its subsidiaries
+
+**Council governance and framework**
+
+### 9 Prohibition on reorganisation proposals affecting Auckland until after October 2013 triennial general elections
+(1) No person (including the Minister or the Auckland Council) may make a reorganisation proposal affecting Auckland for any matter specified in section 24(1) of the Local Government Act 2002 or section 13A of the Local Government (Auckland Council) Act 2009 until after the completion of the 2013 triennial general elections.
+(2) Subsection (1) applies despite subpart 2 of Part 3 and Schedule 3 of the Local Government Act 2002.
+
+### 10 October 2013 triennial general elections to be conducted using First Past the Post
+The October 2013 triennial general elections for the Auckland Council must be held using the electoral system commonly known as First Past the Post (as defined in section 5(1) of the Local Electoral Act 2001).
+
+**First steps for board established by Part 7 of Local Government (Auckland Council) Act 2009**
+
+### 11 First steps for board established by Part 7 of Local Government (Auckland Council) Act 2009
+(1) The clauses referred to in this section are in Schedule 2 of the Local Government (Auckland Council) Act 2009.
+(2) The board referred to in this section is the board established by Part 7 of the Local Government (Auckland Council) Act 2009.
+(3) The initial members of the board, appointed in accordance with section 53 of the Reorganisation Act, must hold the first meeting of the board no later than 15 November 2010.
+(4) The board must appoint a member to act as chairperson and a member to act as deputy chairperson at its first meeting.
+(5) The members of the board must receive remuneration commensurate with that of a specialist adviser to the Auckland Council until the Council decides on the fee payable to the members of the board under clause 17.
+(6) The first funding agreement must be made under clause 20 within 3 months after the board's first meeting.
+
+**Moratorium on sale of certain Council property**
+
+### 12 Moratorium on sale of certain Council property
+(1) The Auckland Council is prohibited from selling, transferring, or otherwise disposing of any of the following property before the end of the moratorium:
+  (a) shareholdings in any company; and
+  (b) land or buildings currently used or designated for service delivery purposes; and
+  (c) any other land or buildings with a current rating valuation of $250,000 or more.
+(2) Despite subsection (1), the Council may sell, transfer, or otherwise dispose of property referred to in that subsection during the moratorium if—
+  (a) the disposal of the property is a transfer—
+    (i) from the Council to one of its council-controlled organisations or a subsidiary of one of its council-controlled organisations; or
+    (ii) from a council-controlled organisation of the Council or a subsidiary of a council-controlled organisation of the Council to the Council; or
+    (iii) from a council-controlled organisation of the Council or a subsidiary of a council-controlled organisation of the Council to a council-controlled organisation of the Council or a subsidiary of a council-controlled organisation of the Council; or
+  (b) the disposal of the property was contemplated in the current long-term council community plan of an existing local authority; or
+  (c) the disposal of the property is—
+    (i) part of a property development; and
+    (ii) contemplated by the statement of intent of a council-controlled organisation of an existing local authority; or
+  (d) the disposal of the property is required to effect or complete a public work; or
+  (e) the disposal of the property is consequential to a public work; or
+  (f) the property is operational plant or equipment and, during the reorganisation, has been identified as surplus to the Council's requirements.
+(3) Despite subsection (1), the Council may lease, rent, or otherwise authorise the use of any land or building formerly used by an existing local authority or a council-controlled organisation of an existing local authority as offices, as a service centre, or for local service delivery purposes that has been identified, during the reorganisation, as surplus to the Council's requirement.
+(4) In this section,—
+  - **Auckland Council** or (except in subsection (2)(a)) includes—
+    (a) a council-controlled organisation of the Auckland Council; and
+    (b) a subsidiary of a council-controlled organisation of the Auckland Council
+  - **moratorium** means the period beginning on 1 November 2010 and ending at the close of 30 July 2012.
+
+**Existing directors and board members of council-controlled organisations and council organisations**
+
+### 13 Existing directors and board members of council-controlled organisations and council organisations
+(1) This section applies to directors or board members—
+  (a) of council-controlled organisations and council organisations that on 1 November 2010, by operation of the Reorganisation Act, become council-controlled organisations or council organisations of the Auckland Council; and
+  (b) who were appointed by existing local authorities or council-controlled organisations of existing local authorities; and
+  (c) who were holding office immediately before 1 November 2010.
+(2) The directors or board members, including any directors or board members who were elected members of an existing local authority or whose term expired before 31 December 2010, remain in office until new directors or board members are appointed.
+(3) To avoid doubt, nothing in this section applies to a director or board member of a terminating organisation.
+
+**Council-controlled organisations**
+
+### 14 Half-yearly report replaced with 4-month report
+(1) This section applies to council-controlled organisations that on 1 November 2010, by operation of the Reorganisation Act, become council-controlled organisations of the Auckland Council.
+(2) No later than 31 December 2010, the board of the council-controlled organisation must deliver to the shareholders a report on the organisation's operations during the period beginning on 1 July 2010 and ending at the close of 31 October 2010.
+(3) The report must include the information required to be included by its statement of intent.
+(4) A report provided under this section must be treated as satisfying the requirements of section 66 of the Local Government Act 2002 for the 2010/2011 financial year.
+
+### 15 Auckland Regional Holdings
+(1) This section applies only if Auckland Regional Holdings (ARH) is not dissolved under section 38 or 43 of the Reorganisation Act.
+(2) ARH continues its existence, on and from 1 November 2010,—
+  (a) as a body corporate; and
+  (b) as a council-controlled organisation of the Auckland Council.
+(3) Any rules made under section 23(4) of the Local Government (Auckland) Amendment Act 2004 in relation to ARH must be treated, on and from 1 November 2010, as part of the constitution of ARH until the rule or rules are amended or replaced by the Auckland Council.
+(4) Subsection (3) applies despite the repeal of the Local Government (Auckland) Amendment Act 2004 (which established Auckland Regional Holdings) by section 113(1) of this Act.
+
+### 16 Council dealings with directors of council-controlled organisations appointed under Reorganisation Act
+(1) The Council may deal with any director appointed to a council-controlled organisation under section 48 or 49 of the Reorganisation Act in accordance with its powers under the Local Government Act 2002 and the constitution of the organisation.
+(2) This section is for the avoidance of doubt.
+
+**Watercare Services Limited**
+
+### 17 Watercare Services Limited treated as local government organisation
+Until the end of 30 June 2012, Watercare Services Limited, and any subsidiary of Watercare Services Limited, is to be treated as if it were a local government organisation within the meaning of section 124 of the Local Government Act 2002.
+
+### 18 Obligations on Watercare Services Limited until 30 June 2012
+Until the end of 30 June 2012, Watercare Services Limited—
+  (a) may, in accordance with its current statement of corporate intent, fund its business requirements by using 1 or both of the following methods:
+    (i) by including the cost of its business requirements in its prices and charges for any relevant services:
+    (ii) by borrowing or by entering into any financial instrument, financial arrangement, or financial transaction of a debt-raising nature, despite paragraph (b):
+  (b) is limited to the performance of functions, and the conduct of business, in relation to water supply and waste- water services and trade wastes, but has authority to exercise any powers that it agrees with the Auckland Council to exercise for, or in conjunction with, the Auckland Council:
+  (c) must, in its financial statements, identify clearly and separately—
+    (i) the financial position of its reticulated water-supply, waterworks, and bulk water supply activities; and
+    (ii) the financial position of its activities in relation to sewerage and the collection, treatment, and disposal of sewage and trade wastes:
+  (d) must ensure that the activities described in paragraph (c)(i) and (ii) are costed and priced separately:
+  (e) must, at least 4 months before the end of each financial year, prepare and supply to the Auckland Council an indicative asset management plan for the next financial year that must describe the projected condition of its significant assets at the commencement of that year and outline the rationale for and nature, extent, and estimated costs of its proposed activities in respect of—
+    (i) the maintenance and repair of existing assets; and
+    (ii) the renewal of existing assets; and
+    (iii) the upgrading or extension of the performance or capacity of existing assets; and
+    (iv) the acquisition or construction of new assets:
+  (f) must, at least 4 months before the end of each financial year, prepare and supply to the Auckland Council, after undertaking a comparative assessment of different funding options, an indicative funding plan for the next financial year that must identify for the next financial year the nature and scope of the activities proposed to be undertaken (including, but not limited to, operational requirements, renewals, and significant new projects), and its planned funding requirements and funding sources, showing—
+    (i) how the prices and charges proposed in the plan have been calculated:
+    (ii) a summary of the results of the comparative assessment of different funding options:
+    (iii) an appropriate debt to equity ratio:
+    (iv) how any surplus from the previous financial year is proposed to be applied, or any deficit from the previous financial year is proposed to be managed:
+  (g) must, in preparing its draft statement of corporate intent under section 20 of this Act,—
+    (i) consider any written submissions made by the Auckland Council on the asset management plan prepared under paragraph (e) or the funding plan prepared under paragraph (f) within 40 working days of the supply of the plan; and
+    (ii) include in the draft statement of corporate intent a summary of its proposals for the matters dealt with in the plans referred to in subparagraph (i):
+  (h) must include in the statement of corporate intent completed under section 21 of this Act its decisions in respect of the matters dealt with in the plans referred to in paragraph (g)(i):
+  (i) must give written notice to the Auckland Council of any proposed modifications of its then current statement of corporate intent and consider comments on the proposed modifications made by the Council:
+  (j) must—
+    (i) promptly decide, for any year in which a surplus arises, whether or not to return the surplus to its customers; and
+    (ii) if it is to return the surplus, decide on and implement the method by which the surplus may be returned (for example, by way of rebate, discount, or adjustment of charges calculated by reference to prior or future charges to its customers).
+
+### 19 Official information
+Until the end of 30 June 2012, Parts 1 to 6 of the Local Government Official Information and Meetings Act 1987 apply to Watercare Services Limited as if that organisation were a local authority.
+
+### 20 Statement of corporate intent
+(1) This section applies until the end of 30 June 2012.
+(2) The directors of Watercare Services Limited must deliver to the Auckland Council a draft statement of corporate intent not later than 1 month after the commencement of each financial year.
+(3) A statement of corporate intent must specify the following information for the group comprising Watercare Services Limited and any subsidiaries of Watercare Services Limited for the financial year in which it is delivered and each of the immediately following 2 financial years:
+  (a) the objectives of the group:
+  (b) the nature and scope of the activities to be undertaken:
+  (c) the ratio of consolidated shareholders' funds to total assets, and definitions of those terms:
+  (d) the accounting policies:
+  (e) the performance targets and other measures by which the performance of the group may be judged in relation to its objectives:
+  (f) how any residual surplus is to be returned to customers:
+  (g) the kind of information to be provided to the Auckland Council by Watercare Services Limited during the course of those financial years, including the information to be included in each half-yearly report:
+  (h) the procedures to be followed before any member of the group subscribes for, purchases, or otherwise acquires shares in any company or other organisation:
+  (i) any activities for which the directors seek compensation from any local authority (whether or not the local authority has agreed to provide such compensation):
+  (j) the directors' estimate of the commercial value of the shareholders' investment in the group and how, and when, the value is to be reassessed:
+  (k) any other matters that are agreed by the Auckland Council and the directors.
+
+### 21 Completion of statement of corporate intent
+Until the end of 30 June 2012, the directors of Watercare Services Limited—
+  (a) must consider any comments on the draft statement of corporate intent that are made to them within 2 months of the commencement of the financial year by the Auckland Council or a director of Watercare Services Limited; and
+  (b) must provide the completed statement of corporate intent to the Auckland Council within 3 months of the commencement of the financial year.
+
+### 22 Reports and accounts
+(1) This section applies until the end of 30 June 2012.
+(2) Within 2 months after the end of the first half of each financial year, the directors of Watercare Services Limited must provide to the Auckland Council a report on Watercare Services Limited's operations during that half-year.
+(3) Each report must include the information required to be included by the statement of corporate intent.
+(4) Within 3 months after the end of each financial year, the directors must provide to the Auckland Council and make available to the public—
+  (a) a report on the operations of Watercare Services Limited, and any subsidiaries of Watercare Services Limited, during the financial year; and
+  (b) audited consolidated financial statements for that financial year for Watercare Services Limited and any subsidiaries of Watercare Services Limited; and
+  (c) the auditor's report on—
+    (i) those financial statements; and
+    (ii) the performance targets and other measures by which performance has been judged in relation to the objectives.
+(5) The audited consolidated financial statements must be prepared in accordance with generally accepted accounting practice and consist of—
+  (a) a statement of financial position; and
+  (b) an overall operating statement; and
+  (c) an operating statement in respect of each significant activity; and
+  (d) a statement of cash flows; and
+  (e) any other statements that may be necessary to fairly reflect the financial position of Watercare Services Limited and any subsidiaries of Watercare Services Limited, the resources available to them, and the financial results of their operations.
+(6) Every report under subsection (4)(a) must contain the information necessary to enable an informed assessment of the operations of Watercare Services Limited and any subsidiaries of Watercare Services Limited, including a comparison of the performance of Watercare Services Limited and any subsidiaries with any relevant statement of corporate intent.
+
+### 23 Members, local board members, and employees of Auckland Council must not be directors of Watercare Services Limited
+(1) This section applies until the end of 30 June 2012.
+(2) No person who is a member of the governing body of the Auckland Council, a member of a local board, or an employee of the Council may hold office as a director of Watercare Services Limited.
+
+### 24 Restrictions on form and asset ownership of Watercare Services Limited
+(1) The Auckland Council must, until the end of 30 June 2015,—
+  (a) remain the sole owner of Watercare Services Limited; and
+  (b) ensure that Watercare Services Limited does not dispose of any part of its business or any assets that are necessary for the conduct of its business; and
+  (c) provide integrated water supply and wastewater services in Auckland only through Watercare Services Limited.
+(2) The Auckland Council may decide, at its discretion, how it will provide water supply and wastewater services in Auckland on and from 1 July 2015.
+
+### 25 Watercare Services Limited to administer and enforce trade waste bylaws
+(1) On behalf of the Council, Watercare Services Limited must administer and enforce the trade waste bylaws specified in subsection (2) until the earlier of—
+  (a) 1 July 2015:
+  (b) the date on which the Council makes a new trade waste bylaw.
+(2) The trade waste bylaws are—
+  (a) Franklin District Council Trade Waste Bylaw 2007:
+  (b) Rodney District Council General Bylaw 1998 (chapter 17, Trade Waste):
+  (c) North Shore City Bylaw 2000 (part 9, Trade Waste).
+(3) Despite the repeal of the Auckland Regional Authority Act 1963 by section 113(1) of this Act, the Auckland Regional Council Trade Waste Bylaw 1991 made under that Act and in force at the close of 31 October 2010 continues in force, and has effect, until the earlier of—
+  (a) 1 July 2015:
+  (b) the date on which the Council makes a new trade waste bylaw.
+(4) On behalf of the Council, Watercare Services Limited must administer and enforce the Auckland Regional Council Trade Waste Bylaw 1991 for the period that the bylaw continues in force under subsection (3).
+(5) Section 26 applies in respect of the Auckland Regional Council Trade Waste Bylaw 1991.
+
+### 26 Offences for breach of Auckland Regional Council Trade Waste Bylaw 1991
+(1) Every person who breaches section 5 of the Auckland Regional Council Trade Waste Bylaw 1991 (as continued by section 25(3) of this Act) commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(2) Despite the Summary Proceedings Act 1957, Watercare Services Limited may lay an information for an offence against subsection (1) at any time within 6 months after the time when the matter giving rise to the information first became known, or should have become known, to Watercare Services Limited.
+(3) It is a defence to an offence under subsection (1) if the court is satisfied—
+  (a) that—
+    (i) the act giving rise to the offence was necessary to save or protect life or health or prevent injury, or to prevent serious damage to property, or to avoid actual or likely damage to the environment; and
+    (ii) the conduct of the defendant was reasonable in the circumstances; and
+    (iii) the effects of the act or omission were adequately remedied or mitigated by the defendant after the offence occurred; or
+  (b) the act or omission giving rise to the offence was due to an action or event beyond the control of the defendant, and, in each case,—
+    (i) the action or event could not reasonably have been foreseen or prevented by the defendant; and
+    (ii) the effects of the act or omission of the defendant were adequately remedied or mitigated by the defendant after the offence occurred.
+(4) A District Court may, on the application of Watercare Services Limited, grant an injunction restraining a person from committing a breach of the Auckland Regional Council Trade Waste Bylaw 1991.
+(5) An injunction may be granted under subsection (4)—
+  (a) despite anything in any other enactment:
+  (b) whether or not proceedings in relation to the breach have been commenced:
+  (c) if a person is convicted of the breach,—
+    (i) in substitution for, or in addition to, any other penalty; or
+    (ii) in subsequent proceedings.
+
+### 27 Requiring authority status of Watercare Services Limited
+(1) In this section,—
+  - **infrastructure** means the infrastructure—
+    (a) owned or operated by Watercare Services Limited as at 1 November 2010; and
+    (b) used for the purpose of the supply or distribution of water or the collection, treatment, or disposal of sewage in Auckland
+  - **requiring authority approvals** means the following requiring authority approval order and notices for Watercare Services Limited:
+    (a) Resource Management (Approval of Watercare Services Limited as Requiring Authority) Order 1992:
+    (b) Resource Management (Approval of Watercare Services Limited as Requiring Authority) Notice 1994 (Gazette 1994, p 1278):
+    (c) Resource Management (Approval of Watercare Services Limited as Requiring Authority) Notice (No 2) 1994 (Gazette 1994, p 1278).
+(2) Subsection (3) applies to infrastructure only—
+  (a) to the extent that the operation, maintenance, and improvement of infrastructure are not covered by the requiring authority approvals; and
+  (b) until this section expires.
+(3) On and from 1 November 2010, the requiring authority approvals are deemed for the purposes of section 167 of the Resource Management Act 1991 to include the operation, maintenance, and improvement of infrastructure.
+(4) This section expires on the earlier of—
+  (a) the close of 30 June 2012:
+  (b) the date of a decision by the Minister for the Environment under section 167 of the Resource Management Act 1991 on an application by Watercare Services Limited for requiring authority status in relation to any project or work related to the operation, maintenance, and improvement of infrastructure.
+
+**Acquisition of shareholding in Auckland International Airport Limited**
+
+### 28 Exemption from Takeovers Code in relation to Auckland International Airport Limited shares
+Nothing in the Takeovers Code in force under the Takeovers Act 1993 applies in relation to the acquisition by the Auckland Council (or any council-controlled organisation of the Auckland Council or any subsidiary of a council-controlled organisation of the Auckland Council) of up to a 22.8% shareholding in Auckland International Airport Limited as a result of the reorganisation.
+
+**Interim rating matters**
+
+### 29 District valuation roll, rating information database, and rates records
+(1) On and from 1 November 2010,—
+  (a) the district valuation roll of each existing local authority as at the close of 31 October 2010 must be treated as the district valuation roll of the Auckland Council for the area to which each roll relates; and
+  (b) the rating information database of each existing local authority as at the close of 31 October 2010 must be treated as the rating information database of the Auckland Council for the area to which each database relates; and
+  (c) the rates records of each existing local authority as at the close of 31 October 2010 must be treated as the rates records of the Auckland Council.
+(2) In this section,—
+  - **district valuation roll** has the meaning given to it in section 2(1) of the Rating Valuations Act 1998
+  - **rates records** and have the meanings given to them in section 5 of the Local Government (Rating) Act 2002.
+
+### 30 Charges on rates
+(1) This section applies if, by operation of section 35 of the Reorganisation Act, the Auckland Council assumes liability for a loan or an incidental arrangement in relation to which an existing local authority has charged a rate or rates revenue as security.
+(2) Section 115 of the Local Government Act 2002 applies as if the security had been charged by the Auckland Council.
+(3) Every charge to which this section applies must be treated as of equal ranking.
+
+### 31 Consolidation of charges on rates
+(1) This section applies if, by operation of section 35 of the Reorganisation Act, the Auckland Council assumes liability for security arrangements over rates, granted by existing local authorities, in respect of loans or incidental arrangements (existing security arrangements).
+(2) The Governor-General may, by Order in Council made on the recommendation of the Minister, effect the consolidation of the existing security arrangements.
+(3) An order must effect the consolidation by—
+  (a) extinguishing the existing security arrangements; and
+  (b) deeming a single security document to have been granted by the Auckland Council in substitution for the existing security arrangements extinguished under paragraph (a).
+(4) For the purposes of subsection (2), the order must identify each existing security arrangement granted by an existing local authority that is extinguished by the order.
+(5) The Minister must not recommend the making of an order unless he or she—
+  (a) is satisfied that the proposed single security document will comply with the requirements of any relevant enactment; and
+  (b) is satisfied that no party to, or person having a benefit under, the existing security arrangements will be adversely affected by the making of the order; and
+  (c) has consulted the Minister for the time being responsible for the administration of the Securities Act 1978 on the form and substance of the proposed single security document.
+
+### 32 Council authorised to collect and deal with balance of rating matters for 2010/2011 and previous financial years
+(1) In respect of the following rates, the Council may exercise all the powers and perform all the functions and duties of a local authority under the Local Government (Rating) Act 2002, as if the Council had itself set the rates:
+  (a) rates set under section 29B of the Reorganisation Act by each existing local authority; and
+  (b) rates set by an existing local authority prior to 1 July 2010.
+(2) For the purposes of subsection (1), the Council may deliver separate rates assessments and separate rates invoices in respect of the rates set by each existing local authority.
+(3) Any money collected by the Council under subsection (1) in respect of a rate set for water supply or wastewater services provided by Watercare Services Limited must be paid to Watercare Services Limited as soon as practicable.
+(4) Except as provided in subsection (3), nothing in this Act or any other enactment requires the Council to apply any money collected under this section in any particular way or in any particular part of Auckland.
+
+**Rates for 2011/2012 financial year**
+
+### 33 Rates for 2011/2012 financial year
+(1) The Auckland Council must set and assess a transition rate for each rating unit within Auckland for the 2011/2012 financial year.
+(2) The rate must be assessed in accordance with—
+  (a) subsection (3), for a rating unit that is an unchanged rating unit (within the meaning of section 40 of this Act); and
+  (b) subsection (4), for any other rating unit (a changed rating unit).
+(3) The rate on each unchanged rating unit must be a uniform percentage variation from the total liability of that rating unit for rates for the 2010/2011 financial year.
+(4) The rate on each changed rating unit must be the same uniform percentage variation from the total liability for rates that the changed rating unit would have had for the 2010/2011 financial year had the information recorded in the rating information database for that unit for the 2011/2012 financial year been entered in the database for that unit in the 2010/2011 financial year.
+(5) For the purposes of subsections (3) and (4),—
+  (a) the uniform percentage variation must be calculated to meet the rates revenue requirements of the Council for the 2011/2012 financial year; and
+  (b) the total rates liability of an unchanged rating unit or a changed rating unit for the 2010/2011 financial year is determined by the rates set in accordance with section 29B of the Reorganisation Act, excluding any rates set for water supply or wastewater services.
+(6) A rates assessment for the 2011/2012 financial year does not have to contain any of the information required by section 45(1) of the Local Government (Rating) Act 2002 that does not apply in the area of the rating unit to which the assessment relates.
+(7) In subsection (6), area means the former district of the existing local authority in which the rating unit is situated.
+(8) This section prevails over anything to the contrary in the Local Government (Rating) Act 2002.
+
+### 34 Wastewater rate for 2011/2012 financial year
+(1) The Auckland Council must set and assess a wastewater rate for each rating unit within Auckland for the 2011/2012 financial year.
+(2) The rate for each rating unit must be a uniform percentage variation (assessed as described in section 33) from the liability of that rating unit for rates set for wastewater services for the 2010/2011 financial year.
+(3) The wastewater rate must be set at a level sufficient to meet the wastewater revenue requirements of Watercare Services Limited.
+(4) As soon as practicable, the Council must transfer all the money it receives from the wastewater rate to Watercare Services Limited.
+(5) In this section, rating unit within Auckland does not include any rating unit within Auckland that—
+  (a) pays for wastewater services by direct charging; or
+  (b) does not receive wastewater services from Watercare Services Limited.
+
+### 35 Council otherwise prohibited from setting rates for 2011/2012 financial year
+(1) Other than the rates provided for under sections 33 and 34, the Auckland Council is prohibited from setting any other rate, including a local board targeted rate, for the 2011/2012 financial year.
+(2) A local board may not propose any targeted rate for its local board area for the 2011/2012 financial year.
+
+### 36 Application of Local Government (Rating) Act 2002 to rates for 2011/2012 financial year
+(1) Except as required by sections 33, 34, and 35 of this Act, the Local Government (Rating) Act 2002 applies to the setting, assessment, and collection of rates by the Auckland Council for the 2011/2012 financial year.
+(2) Without limiting subsection (1), and to avoid doubt, the Council—
+  (a) may discount rates for the 2011/2012 financial year paid before 1 or more specified dates only in accordance with a policy adopted by the Council under section 55 of that Act; and
+  (b) may impose penalties on unpaid rates for the 2011/2012 financial year only in accordance with a resolution of the Council under section 57 of that Act.
+
+**Payment of rates for 2010/2011 and 2011/2012 financial years**
+
+### 37 Payment of rates for 2010/2011 and 2011/2012 financial years
+(1) Until the close of 30 June 2012, the Auckland Council is not required to accept payment of rates in respect of a rating unit at any office outside the former district of the existing local authority in which the rating unit is located.
+(2) This section prevails over section 52(1)(a) of the Local Government (Rating) Act 2002.
+
+**General rate for 2012/2013 financial year**
+
+### 38 General rate for 2012/2013 financial year must be set using capital value of land
+For the 2012/2013 financial year, the Council must set any general rate under section 13 of the Local Government (Rating) Act 2002 using the capital value of land.
+
+**Mechanism to adjust significant changes resulting from Council moving to single rating system**
+
+### 39 Purpose of sections 40 to 43
+The purpose of sections 40 to 43 is to provide a mechanism by which the Auckland Council may manage any significant changes in rating liability during the 3-year period beginning on 1 July 2012 and ending at the close of 30 June 2015 arising from the reorganisation (and the resultant creation of a single rating system for Auckland).
+
+### 40 Interpretation
+In sections 41 to 43,—
+  - **change limit** means the maximum change in rating liability permitted in relation to a rating unit in a rating year as set out in any Council policy made under section 41
+  - **current rates** , in respect of a rating unit, means the rates assessed in accordance with section 43 of the Local Government (Rating) Act 2002 for the rating unit in a particular rating year
+  - **previous rates** , in respect of a rating unit, means—
+    (a) for the 2012/2013 financial year, the rate assessed for the rating unit under section 33 of this Act in the 2011/2012 financial year:
+    (b) for any other rating year,—
+      (i) the rates assessed for the rating unit in accordance with section 43 of the Local Government (Rating Act) 2002 in the immediately preceding rating year; or
+      (ii) if applicable, the rates liability for the unit under section 42 of this Act in the immediately preceding rating year
+  - **rating year** means the following financial years:
+    (a) the 2012/2013 financial year:
+    (b) the 2013/2014 financial year:
+    (c) the 2014/2015 financial year
+  - **unchanged rating unit** , in respect of a particular rating year, means a rating unit that, compared with the immediately preceding rating year, is unchanged in terms of the information to be used for setting and assessing rates for the rating unit. For the purposes of this definition, the following are not changes in information:
+    (a) a change resulting from the valuation required by section 18B of the Reorganisation Act; or
+    (b) a change resulting from an objection under section 29 of the Local Government (Rating) Act 2002; or
+    (c) a change resulting from a correction under section 40 of the Local Government (Rating) Act 2002; or
+    (d) a change resulting from the implementation of a decision of the Land Valuation Tribunal under section 39 of the Rating Valuations Act 1998.
+
+### 41 Council may have rates transition management policy for 3-year period commencing 1 July 2012
+(1) The Council may include in its long-term council community plan for the period commencing 1 July 2012 a rates transition management policy.
+(2) The policy must identify the change limit for each rating year, being the maximum change in rating liability permitted under the policy in relation to an unchanged rating unit in a rating year.
+(3) The change limit may be—
+  (a) uniform (so that the same change limit applies to increases and decreases in rating liability); or
+  (b) differential (so that the change limit that applies to increases in rating liability is different from the change limit that applies to decreases in rating liability), but only if the difference is calculated so that the expected net impact referred to in subsection (5)(c) is zero.
+(4) The change limit may be an actual amount or a proportion of the previous rates, or both, and, if a differential change limit, the positive and negative components may differ in amount or proportion, or both.
+(5) The policy must also describe the estimated impact of the policy, for each rating year, in terms of—
+  (a) the proportion of rating units for which the policy will result in a reduction in rates liability, and the expected range of reductions; and
+  (b) the proportion of rating units for which the policy will result in an increase in rates liability, and the expected range of increases; and
+  (c) the expected net impact of the policy on the Council's rates revenue.
+(6) Section 102 of the Local Government Act 2002 applies to the policy as if it were a policy listed in subsection (5) of that section.
+
+### 42 How Council must apply rates transition management policy
+(1) This section applies to the calculation of rating liability for rating units within Auckland if the Council adopts a rates transition management policy under section 41 of this Act.
+(2) If the current rates on an unchanged rating unit in a rating year differ from the previous rates for the rating unit by more than the change limit specified for the rating year, the total rating liability for the rating unit for the year is—
+  (a) the previous rates increased by the change limit, if the current rates are higher than the previous rates; or
+  (b) the previous rates reduced by the change limit, if the current rates are lower than the previous rates.
+(3) The adjustment in rating liability described in subsection (2) must be—
+  (a) separately and clearly identified on the rates assessment and rates record for the rating unit; and
+  (b) accounted for separately as if it were a rate itself.
+(4) A rates assessment under section 45 of the Local Government (Rating) Act 2002 for a rating unit to which subsection (2) applies must also include the following information (in addition to the information required under section 45):
+  (a) an explanation of the Council's rates transition management policy; and
+  (b) clear identification of the amount of rates payable in respect of the rating unit (having applied the policy).
+
+### 43 Local Government (Rating) Act 2002 otherwise applies
+(1) Except as modified by sections 41 and 42 of this Act, the Local Government (Rating) Act 2002 otherwise applies to rates assessed in the 2013/2014 and 2014/2015 rating years by the Council.
+(2) Except as modified by sections 38, 41, and 42 of this Act, the Local Government (Rating) Act 2002 otherwise applies to rates assessed in the 2012/2013 rating year by the Council.
+
+**Rates as security**
+
+### 44 Rates as security
+To avoid doubt, nothing in this Part affects the ability of the Council to charge rates or use rates revenue as security for a loan in accordance with the Local Government Act 2002.
+
+**Planning document prepared by Transition Agency**
+
+### 45 Planning document treated as satisfying sections 93 and 95 of Local Government Act 2002
+(1) The planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must be treated as the Council's long-term council community plan for the period beginning on 1 November 2010 and ending at the close of 30 June 2012.
+(2) The planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must also be treated as the Council's annual plan for the period beginning on 1 November 2010 and ending at the close of 30 June 2011.
+(3) Despite subsections (1) and (2), Parts 1 and 2 of Schedule 10 of the Local Government Act 2002 do not apply to the planning document.
+(4) The Council may amend the planning document—
+  (a) in accordance with the requirements for amending a long-term council community plan under the Local Government Act 2002; but
+  (b) any amendment must not be inconsistent with any provision of this Part.
+(5) Without limiting subsection (1), the initial allocation of decision-making responsibility for the non-regulatory activities of the Council between the Council's governing body and its local boards included in the planning document must be treated as satisfying section 18(1) and (2) of the Local Government (Auckland Council) Act 2009.
+
+### 46 Policies included in planning document treated as policies of Council
+(1) On and from 1 November 2010, the policies referred to in clause 4 of Schedule 2 of the Reorganisation Act, included in the planning document prepared by the Transition Agency under section 19A of that Act, must be treated as the policies of the Auckland Council, and section 102(6) of the Local Government Act 2002 applies as if the policies had been adopted under that section.
+(2) However, the development contributions policies referred to in clause 4(3)(a) of that schedule must be amended in accordance with section 54 of this Act.
+
+### 47 Certain policies have effect only in former districts and must be replaced by 30 June 2012
+(1) This section applies to—
+  (a) the policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(3) of Schedule 2 of that Act; and
+  (b) any policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(4) of Schedule 2 of that Act; and
+  (c) any policies or adjusted policies of the existing local authorities included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act in accordance with clause 4(5)(b) or (c) of Schedule 2 of that Act.
+(2) The policies have effect only within the former district of each of the existing local authorities.
+(3) If there is any inconsistency between a policy made by the Auckland Regional Council and a policy made by any of the other existing local authorities, the policy made by the Auckland Regional Council prevails.
+(4) The policies must be replaced by the Council with a single integrated policy no later than 30 June 2012.
+(5) Despite subsection (4), the following policies must be replaced by the Council with a single integrated policy no later than 30 June 2011:
+  (a) the policies of the existing local authorities in relation to remission and postponement of rates on Māori freehold land under section 108 of the Local Government Act 2002:
+  (b) the policies of the existing local authorities in relation to rates remission under section 109 of the Local Government Act 2002:
+  (c) the policies of the existing local authorities in relation to rates postponement under section 110 of the Local Government Act 2002.
+(6) A single integrated policy formulated under subsection (4) or (5) may contain different conditions and criteria to be met based on the former districts of the existing local authorities.
+(7) Subsection (6) is for the avoidance of doubt.
+
+### 48 Allocation in planning document of decision-making responsibility for non-regulatory activities of Council
+(1) The initial allocation of decision-making responsibility for the non-regulatory activities of the Council between the Council's governing body and its local boards included in the planning document prepared by the Transition Agency under section 19A of the Reorganisation Act must be treated as the baseline allocation by the governing body of those responsibilities under section 17 of the Local Government (Auckland Council) Act 2009 until the Council adopts its long-term council community plan for the period beginning 1 July 2012.
+(2) To avoid doubt, the governing body of the Council may, before adopting its long-term council community plan for the period beginning 1 July 2012, make further allocations of decision-making responsibility in favour of 1 or more local boards, but otherwise must not remove or alter any allocation to which subsection (1) applies.
+
+**First local board plans and agreements**
+
+### 49 First local board plans
+(1) This section applies to the local board plans required to be adopted by each local board by 31 October 2011 in accordance with section 20(1)(a) of the Local Government (Auckland Council) Act 2009.
+(2) Section 20 of that Act applies to each local board plan as if—
+  (a) the references to default levels of service in subsection (3) of that section were references to the levels of service for local activities provided in each local board area in the 2010/2011 financial year; and
+  (b) the reference to estimated funding allocation in subsection (4)(b)(iii) of that section were a reference to the funding level in the budget estimated under section 19A(2)(b) of the Reorganisation Act.
+
+### 50 First local board agreements
+(1) This section applies to the local board agreements required to be included in the Council's annual plan for the 2011/2012 financial year in accordance with section 22 of the Local Government (Auckland Council) Act 2009.
+(2) Section 21 of that Act applies to each local board agreement as if—
+  (a) the words in the local board's plan in subsection (2) of that section were replaced with of the communities in the local board area; and
+  (b) subsection (3) of that section were omitted; and
+  (c) the reference to the local board's estimated funding allocation in subsection (5)(c) of that section were a reference to the funding level in the budget estimated under section 19A(2)(b) of the Reorganisation Act.
+
+**Reports prepared by existing local authorities under section 29C of Reorganisation Act**
+
+### 51 Reports prepared by existing local authorities under section 29C of Reorganisation Act
+(1) The Auckland Council must complete and adopt the reports prepared by the existing local authorities under section 29C of the Reorganisation Act.
+(2) Sections 98 and 99 of the Local Government Act 2002 apply, with any necessary modifications, to each report completed and adopted under subsection (1) as if each report were an annual report.
+(3) The audited financial statements in a report completed and adopted under subsection (1) must be treated as satisfying any obligation on an existing local authority under section 53E of the Securities Act 1978 to have its financial statements audited for the 2009/2010 financial year.
+
+**Reports prepared by terminating organisations under section 40 of Reorganisation Act**
+
+### 52 Reports prepared by terminating organisations under section 40 of Reorganisation Act
+(1) A receiving entity must complete and adopt a report prepared by its terminating organisation under section 40(3) of the Reorganisation Act.
+(2) Sections 67 and 68 of the Local Government Act 2002 apply, with any necessary modifications, to a report completed and adopted under subsection (1) as if the report were an annual report.
+
+**Development contributions**
+
+### 53 Development contributions required by existing local authorities
+(1) This section applies to development contributions under subpart 5 of Part 8 of the Local Government Act 2002.
+(2) The Auckland Council must use any development contributions it holds, is owed, or may require by operation of section 35 of the Reorganisation Act for the purposes for which they were required by the existing local authorities.
+(3) However, if the development contributions are held, owed, or required for water supply or wastewater services infrastructure, section 55 applies.
+
+### 54 Interim development contributions policies
+(1) This section applies to the development contributions policies referred to in clause 4(3)(a) of Schedule 2 of the Reorganisation Act.
+(2) Each policy must be amended to remove any power of the Auckland Council to require a development contribution for water supply or wastewater services infrastructure, in accordance with the following procedure:
+  (a) the amendment must be made by resolution of the governing body of the Auckland Council:
+  (b) the amendment is not required to be made as described in section 102(6) of the Local Government Act 2002:
+  (c) the amendment must have effect from 1 July 2011.
+(3) Each policy may be amended by the Auckland Council under section 102(6) of the Local Government Act 2002 at any time.
+
+### 55 Development contributions for certain infrastructure transferred to Watercare Services Limited
+(1) The Auckland Council must immediately transfer to Watercare Services Limited any development contribution (or any part of a development contribution) that is or was required for water supply or wastewater services infrastructure and that is—
+  (a) paid or made to the Council on or after 1 November 2010 under a policy described in section 46; or
+  (b) referred to in section 53(2).
+(2) Subsections (3) to (5) apply to a development contribution—
+  (a) described in subsection (1):
+  (b) vested in Watercare Services Limited by operation of section 37 of the Reorganisation Act.
+(3) Sections 204 and 209 of the Local Government Act 2002 apply in relation to the development contribution as if—
+  (a) the contribution were paid or made to the Auckland Council; and
+  (b) the capital expenditure of Watercare Services Limited were the capital expenditure of the Auckland Council.
+(4) If the development contribution is not used for the purpose for which it was required by the close of 30 June 2019, the Auckland Council must refund or return it under section 209(1)(d) of the Local Government Act 2002.
+(5) Watercare Services Limited must reimburse the Auckland Council for any development contribution refunded or returned under section 209 of the Local Government Act 2002.
+
+### 56 Limitations on requiring further contribution for water supply or wastewater services infrastructure
+(1) An Auckland water organisation must not require a payment in respect of a development for the same purpose for which a development contribution for water supply or wastewater services infrastructure—
+  (a) has been paid or made, or is required to be paid or made, to the Auckland Council after 1 November 2010 under a policy described in section 46; or
+  (b) referred to in section 53(2) was paid or made.
+(2) Despite subsection (1), an Auckland water organisation may require another payment for the same purpose if the payment is required to reflect an increase in the scale or intensity of the development since the original contribution was required.
+(3) In this section, Auckland water organisation has the same meaning as in section 4(1) of the Local Government (Auckland Council) Act 2009.
+
+### 57 Development contributions for transport infrastructure
+(1) This section applies to a development contribution (or any part of a development contribution) that is required for transport infrastructure and that is—
+  (a) paid or made to the Council on or after 1 November 2010 under a policy described in section 46; or
+  (b) referred to in section 53(2).
+(2) If Auckland Transport undertakes the capital expenditure for which the contribution was required, the Council must transfer the contribution to Auckland Transport as part of the Council's funding of that expenditure.
+
+**Financial contributions**
+
+### 58 Financial contributions already made or owed to existing local authorities
+(1) This section applies to financial contributions under the Resource Management Act 1991.
+(2) The Auckland Council must use any financial contributions it holds or receives by operation of section 35 of the Reorganisation Act in reasonable accordance with the purposes for which they were received by the existing local authorities.
+(3) However, if the financial contributions are held or received for water supply or wastewater services infrastructure, section 59 applies.
+
+### 59 Financial contributions for certain infrastructure transferred to Watercare Services Limited
+(1) The Auckland Council must immediately transfer to Watercare Services Limited any financial contribution (or any part of a financial contribution) that is or was required for water supply or wastewater services infrastructure and that is—
+  (a) referred to in section 58; or
+  (b) that the Council receives in accordance with the requirements of any plan referred to in section 78(2).
+(2) Subsection (3) applies to a financial contribution—
+  (a) described in subsection (1); or
+  (b) vested in Watercare Services Limited by operation of section 37 of the Reorganisation Act.
+(3) Watercare Services Limited must use the financial contribution in reasonable accordance with the purposes for which the money was received by the existing local authorities or the Auckland Council.
+
+### 60 Prohibition on requiring contribution for certain infrastructure of Watercare Services Limited
+(1) After 1 July 2011, the Auckland Council must not require any financial contribution under section 108 of the Resource Management Act 1991 for the water supply or wastewater services infrastructure of Watercare Services Limited.
+(2) This section prevails over section 108 of the Resource Management Act 1991 and applies even if a district plan in force under section 78(2) of this Act authorises a financial contribution to be imposed under that Act.
+
+**Bylaws**
+
+### 61 Bylaws about Auckland transport system that are transport-related
+(1) This section applies to bylaws to which all the following apply:
+  (a) they are about the Auckland transport system (as defined in section 37(1) of the Local Government (Auckland Council) Act 2009) and transport-related:
+  (b) they were made by an existing local authority:
+  (c) they are in force at the close of 31 October 2010.
+(2) On and from 1 November 2010, the bylaws are deemed to have been made by Auckland Transport.
+(3) Each bylaw remains in force in the area to which it applied at the close of 31 October 2010.
+(4) Each bylaw must be reviewed by Auckland Transport at the time and in accordance with any requirements of the enactment under which it was made, or last reviewed, by the existing local authority.
+(5) Subsection (4) is for the avoidance of doubt.
+(6) In this section, bylaw includes—
+  (a) a set of bylaws; and
+  (b) an individual bylaw in a set of bylaws; and
+  (c) a provision within an individual bylaw; and
+  (d) a resolution made under a bylaw.
+
+### 62 Bylaws about solid waste
+(1) This section applies to bylaws to which all the following apply:
+  (a) they are either—
+    (i) made under section 56 of the Waste Minimisation Act 2008 or deemed by section 64 of that Act to be made under section 56; or
+    (ii) made under the Local Government Act 2002 or any Part of the Local Government Act 1974 (except Part 31) and are about solid waste:
+  (b) they were made by an existing local authority:
+  (c) they are in force at the close of 31 October 2010.
+(2) On and from 1 November 2010, the bylaws are deemed to have been made by the Auckland Council.
+(3) Each bylaw remains in force in the area to which it applied at the close of 31 October 2010 until 31 October 2012, when it is revoked, unless before that date—
+  (a) the Auckland Council confirms it, in which case the confirmed bylaw becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
+  (b) the Auckland Council amends it, in which case the bylaw as amended becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
+  (c) the Auckland Council revokes it.
+(4) The Auckland Council must use the special consultative procedure before confirming, amending, or revoking a bylaw under subsection (3)(a), (b), or (c).
+(5) Section 58 of the Waste Minimisation Act 2008 applies to any bylaw described in subsection (1)(a)(i) confirmed or amended under this section as if the date of the confirmation or amendment of the bylaw were the date of the last review of the bylaw.
+(6) In this section, bylaw includes—
+  (a) a set of bylaws; and
+  (b) an individual bylaw in a set of bylaws; and
+  (c) a provision within an individual bylaw.
+
+### 63 Bylaws about matters other than transport and solid waste
+(1) This section applies to bylaws to which all the following apply:
+  (a) neither section 61 nor section 62 applies to them:
+  (b) they were made by an existing local authority:
+  (c) they are in force at the close of 31 October 2010.
+(2) On and from 1 November 2010 the bylaws are deemed to have been made by the Auckland Council.
+(3) Each bylaw remains in force in the area to which it applied at the close of 31 October 2010 until 31 October 2015, when it is revoked, unless before that date—
+  (a) the Auckland Council confirms it, in which case the confirmed bylaw becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
+  (b) the Auckland Council amends it, in which case the bylaw as amended becomes a bylaw made by the Auckland Council and remains in force until it expires or is revoked; or
+  (c) the Auckland Council revokes it.
+(4) The Auckland Council must use the special consultative procedure before confirming, amending, or revoking a bylaw under subsection (3)(a), (b), or (c).
+(5) If section 159 of the Local Government Act 2002 applies to a bylaw confirmed or amended under this section, for the purposes of that section the date of the confirmation or amendment of the bylaw must be treated as if it were the date of the initial last review of the bylaw.
+(6) In this section, bylaw includes—
+  (a) a set of bylaws; and
+  (b) an individual bylaw in a set of bylaws; and
+  (c) a provision within an individual bylaw.
+
+**Policies of existing local authorities**
+
+### 64 Policies that are transport-related
+(1) This section applies to policies to which all the following apply:
+  (a) one of the following applies:
+    (i) they are expressly required or authorised by an enactment other than the Local Government Act 2002; or
+    (ii) their title or subject-matter is referred to in secondary or tertiary legislation:
+  (b) they were made by an existing local authority or the Auckland Regional Transport Authority:
+  (c) they are in force at the close of 31 October 2010:
+  (d) they are transport-related, but not related to the regional land transport strategy referred to in section 82(3).
+(2) On and from 1 November 2010, the policies are deemed to have been made by Auckland Transport.
+(3) Each policy remains in force in the area to which it applied at the close of 31 October 2010 until one of the following occurs:
+  (a) Auckland Transport confirms it, in which case the confirmed policy becomes a policy made by Auckland Transport and remains in force until it expires or is revoked:
+  (b) Auckland Transport amends it, in which case the policy as amended becomes a policy made by Auckland Transport and remains in force until it expires or is revoked:
+  (c) Auckland Transport revokes it.
+(4) Auckland Transport must review each policy and confirm, amend, or revoke it before the close of 31 October 2015.
+
+### 65 Policies that are not transport-related
+(1) This section applies to policies to which all the following apply:
+  (a) one of the following applies:
+    (i) they are expressly required or authorised by an enactment other than the Local Government Act 2002 or the Local Government (Rating) Act 2002; or
+    (ii) their title is referred to in secondary or tertiary legislation:
+  (b) they were made by an existing local authority or the Auckland Regional Transport Authority:
+  (c) they are in force at the close of 31 October 2010:
+  (d) they are either—
+    (i) not transport-related; or
+    (ii) only related to the regional land transport strategy.
+(2) On and from 1 November 2010, the policies are deemed to have been made by the Auckland Council.
+(3) Each policy remains in force in the area to which it applied at the close of 31 October 2010 until one of the following occurs:
+  (a) the Auckland Council confirms it, in which case the confirmed policy becomes a policy made by the Auckland Council and remains in force until it expires or is revoked:
+  (b) the Auckland Council amends it, in which case the policy as amended becomes a policy made by the Auckland Council and remains in force until it expires or is revoked:
+  (c) the Auckland Council revokes it.
+(4) The Auckland Council must review each policy and confirm, amend, or revoke it before the close of 31 October 2015.
+
+**Statutory warrants**
+
+### 66 Statutory warrants relating to transport law
+(1) Subsections (2) and (3) apply to warrants to which all the following apply:
+  (a) they relate to the enforcement of transport law:
+  (b) they were issued under section 177 of the Local Government Act 2002 or section 208 of the Land Transport Act 1998:
+  (c) they were issued by an existing local authority to—
+    (i) an employee of or contractor to the existing local authority; or
+    (ii) an employee of or contractor to the Auckland Regional Transport Authority:
+  (d) they are in force at the close of 31 October 2010.
+(2) On and from 1 November 2010, the warrants are deemed to have been issued by Auckland Transport.
+(3) Each warrant remains in force until one of the following occurs:
+  (a) the warrant is revoked (without further authority than this section) because the employee or contractor to whom it was issued does not work or ceases to work for Auckland Transport:
+  (b) Auckland Transport confirms the warrant, in which case the confirmed warrant becomes a warrant issued by Auckland Transport and remains in force until it expires or is revoked:
+  (c) Auckland Transport amends the warrant, in which case the warrant as amended becomes a warrant issued by Auckland Transport and remains in force until it expires or is revoked:
+  (d) Auckland Transport revokes the warrant.
+(4) Subsection (5) applies to warrants to which all the following apply:
+  (a) they relate to the enforcement of transport law:
+  (b) they were issued under section 177 of the Local Government Act 2002 or section 208 of the Land Transport Act 1998:
+  (c) they were issued by the Commissioner of Police to—
+    (i) an employee of or contractor to an existing local authority; or
+    (ii) an employee of or contractor to the Auckland Regional Transport Authority:
+  (d) they are in force at the close of 31 October 2010.
+(5) Each warrant remains in force until either of the following occurs:
+  (a) the warrant is revoked (without further authority than this section) because the employee or contractor to whom it was issued does not work or ceases to work for Auckland Transport:
+  (b) the Commissioner of Police revokes the warrant.
+(6) In this section, warrant includes a document or authorisation in the nature of a warrant.
+
+### 67 Statutory warrants relating to law other than transport law
+(1) This section applies to warrants to which all the following apply:
+  (a) they relate to the enforcement of law other than transport law:
+  (b) they were issued by an existing local authority to—
+    (i) an employee of or contractor to the existing local authority; or
+    (ii) an employee of Watercare Services Limited:
+  (c) they are in force at the close of 31 October 2010.
+(2) On and from 1 November 2010, the warrants are deemed to have been issued by the Auckland Council.
+(3) Each warrant remains in force until one of the following occurs:
+  (a) the warrant is revoked (without further authority than this section) because the employee or contractor to whom it was issued does not work or ceases to work for the Auckland Council or Watercare Services Limited, as the case may be:
+  (b) the Auckland Council confirms the warrant, in which case the confirmed warrant becomes a warrant issued by the Auckland Council and remains in force until it expires or is revoked:
+  (c) the Auckland Council amends the warrant, in which case the warrant as amended becomes a warrant issued by the Auckland Council and remains in force until it expires or is revoked:
+  (d) the Auckland Council revokes the warrant.
+
+**Fees and charges**
+
+### 68 Fees and charges
+(1) This section applies to a fee or charge that—
+  (a) was prescribed or set by an existing local authority; and
+  (b) was in force at the close of 31 October 2010.
+(2) The fee or charge remains in force in the area to which it applied at the close of 31 October 2010 until the Auckland Council—
+  (a) replaces it with a new one; or
+  (b) revokes it without replacing it.
+(3) In subsection (2), Auckland Council means, as the case may be,—
+  (a) the governing body of the Auckland Council; or
+  (b) 1 or more local boards of the Auckland Council; or
+  (c) if a council-controlled organisation of the Auckland Council is responsible for the activity to which the fee or charge relates, the council-controlled organisation.
+
+**Standing orders**
+
+### 69 Standing orders
+The standing orders prescribed by any Order in Council made under section 46 of the Reorganisation Act remain in force until standing orders adopted by the Auckland Council come into force.
+
+**Delegations**
+
+### 70 Delegations (other than in relation to Resource Management Act 1991)
+(1) On and from 1 November 2010, the chief executive of the Auckland Council holds all the responsibilities, duties, and powers of the Council that any Act (except the Resource Management Act 1991) allows a local authority to delegate to an officer of the local authority.
+(2) On and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to an officer or employee of the Council, subject to any restrictions on delegation in the relevant Act.
+(3) The chief executive, and any person to whom a responsibility, duty, or power has been delegated under subsection (2), holds the responsibility, duty, or power until the earlier of the following:
+  (a) the date on which the Auckland Council resolves otherwise (which, for the purposes of this section, includes a resolution delegating the same responsibility, duty, or power):
+  (b) 30 June 2011.
+
+### 71 Delegations under Resource Management Act 1991
+(1) On and from 1 November 2010, the chief executive of the Auckland Council holds all the responsibilities, duties, and powers of the Council that the Resource Management Act 1991 allows a local authority to delegate to an officer of the local authority.
+(2) Despite section 34A(1)(b) of that Act, on and from 1 November 2010, the chief executive may delegate some or all of the responsibilities, duties, and powers to—
+  (a) an officer or employee of the Auckland Council:
+  (b) a hearings commissioner appointed by the Auckland Council (who may or may not be a member of the Council).
+(3) A person to whom the chief executive delegates a function, power, or duty under subsection (2) must not subdelegate it.
+(4) The chief executive, and any person to whom a responsibility, duty, or power has been delegated under subsection (2), holds the responsibility, duty, or power until the earlier of the following:
+  (a) the date on which the Auckland Council resolves otherwise (which, for the purposes of this section, includes a resolution delegating the same responsibility, duty, or power):
+  (b) 30 June 2011.
+
+### 72 Delegations by New Zealand Transport Agency to existing local authority
+(1) This section applies to a delegation that—
+  (a) was made to an existing local authority by the New Zealand Transport Agency; and
+  (b) relates to the Auckland transport system (as defined in section 37 of the Local Government (Auckland Council) Act 2009; and
+  (c) was in force at the close of 31 October 2010.
+(2) On and from 1 November 2010, the delegation must be treated as a delegation to Auckland Transport.
+(3) The delegation remains in force until the earlier of the following:
+  (a) the date on which the New Zealand Transport Agency resolves otherwise (which, for the purposes of this section, includes a resolution delegating the same responsibility, duty, or power):
+  (b) 31 December 2011.
+
+**Building**
+
+### 73 Building
+(1) On and from 1 November 2010, the Auckland Council may act as a building consent authority in accordance with the entry of its name in the register of building consent authorities by the chief executive acting under section 52 of the Reorganisation Act.
+(2) The name of the Auckland Council remains in the register of building consent authorities for the period that—
+  (a) starts on the date on which the chief executive acts under section 52 of the Reorganisation Act; and
+  (b) ends on the earlier of the following:
+    (i) the date on which the chief executive, having applied sections 191 to 197 of the Building Act 2004, enters the Council's name in the register:
+    (ii) 31 October 2011.
+(3) The Governor-General may, by Order in Council made on the recommendation of the Minister, extend the date in subsection (2)(b)(ii).
+(4) On 1 November 2010, the chief executive must remove from the register of building consent authorities the names of any existing local authorities that are in it.
+(5) In this section,—
+  - **chief executive** means the chief executive of the Ministry that is responsible for the administration of the Building Act 2004
+  - **register of building consent authorities** means the register of building consent authorities kept under section 273(1)(a) of the Building Act 2004.
+
+**Civil defence emergency management**
+
+### 74 Civil defence emergency management
+(1) This section applies to the Civil Defence Emergency Management Group established by the existing local authorities under the Civil Defence Emergency Management Act 2002 (CDEMG).
+(2) The Civil Defence Emergency Management Co-ordinating Executive Group established by the CDEMG under section 20 of the Civil Defence Emergency Management Act 2002 continues to perform its functions as if—
+  (a) section 20(1)(a) said the chief executive of the Auckland Council or a person acting on the chief executive's behalf; and
+  (b) the CDEMG had not been dissolved on 1 November 2010.
+(3) Anything done by the CDEMG in the performance of its functions or the exercise of its powers continues to have effect on and from 1 November 2010 as if the CDEMG had not been dissolved on 1 November 2010.
+(4) Subsection (3) ceases to have effect when the Civil Defence Emergency Management Group established by the Auckland Council (ACCDEMG) under section 22(2) of the Civil Defence Emergency Management Act 2002 replaces the thing done by the CDEMG in the performance of its functions or the exercise of its powers with a thing done by the ACCDEMG.
+
+**Fire authority appointments**
+
+### 75 Fire authority appointments
+(1) Subsections (2) and (3) apply to Rural Fire Officers under the Forest and Rural Fires Act 1977 who—
+  (a) were appointed by a Fire Authority that was an existing local authority; and
+  (b) at the close of 31 October 2010, held the office to which they were appointed; and
+  (c) at the close of 31 October 2010, were not Principal Rural Fire Officers.
+(2) On and from 1 November 2010, each officer—
+  (a) must perform his or her functions within the former district of the existing local authority of which he or she was an appointee on 31 October 2010 as if he or she were an appointee of the Auckland Council; and
+  (b) may be directed by the Auckland Council to perform his or her functions in a different area of Auckland as if he or she were an appointee of the Auckland Council.
+(3) Subsection (2) ceases to apply to each officer when the earliest of the following occurs:
+  (a) the Auckland Council appoints him or her:
+  (b) the term of his or her office ends without the Auckland Council appointing him or her:
+  (c) he or she resigns his or her office.
+(4) Subsections (5) and (6) apply to Rural Fire Officers under the Forest and Rural Fires Act 1977 who—
+  (a) were appointed by a Fire Authority that was an existing local authority; and
+  (b) at the close of 31 October 2010, held the office to which they were appointed; and
+  (c) at the close of 31 October 2010, were Principal Rural Fire Officers.
+(5) On and from 1 November 2010, each officer must perform his or her functions within the former district of the existing local authority of which he or she was an appointee on 31 October 2010 as if he or she were an appointee of the Auckland Council.
+(6) Subsection (5) ceases to apply to each officer when the earliest of the following occurs:
+  (a) the Auckland Council appoints him or her as the Principal Rural Fire Officer for Auckland under section 13(1) of the Forest and Rural Fires Act 1977:
+  (b) the Auckland Council appoints another person as the Principal Rural Fire Officer for Auckland:
+  (c) the term of his or her office ends without the Auckland Council appointing him or her as the Principal Rural Fire Officer for Auckland:
+  (d) he or she resigns his or her office.
+
+### 76 Council may direct Principal Rural Fire Officer to also perform functions in other districts
+Until the Auckland Council appoints a Principal Rural Fire Officer for Auckland under section 13(1) of the Forest and Rural Fires Act 1977, it may direct a person described in section 75(4) to also perform the functions of his or her office in the following districts:
+  (a) the district of an existing local authority for which, at the close of 31 October 2010, there is no Principal Rural Fire Officer:
+  (b) the former district of an existing local authority for which, at any time after the close of 31 October 2010 but before the appointment of the Principal Rural Fire Officer for Auckland, there ceases to be a Principal Rural Fire Officer.
+
+**Resource management**
+
+### 77 Section 81 of Resource Management Act 1991 does not apply to areas included within Auckland
+(1) Section 81 of the Resource Management Act 1991 does not apply to any area included within Auckland by the boundary adjustment Order.
+(2) Instead, the relevant parts of section 78 of this Act apply.
+
+### 78 Resource management
+(1) Terms defined in the Resource Management Act 1991 have the same meanings when used in this section. References in this section to sections or schedules are references to sections and schedules of the Resource Management Act 1991 unless otherwise specified. A reference to the RMA in this section is a reference to the Resource Management Act 1991.
+(2) On and from 1 November 2010, any regional plans or district plans of existing local authorities are deemed to be the regional plans and district plans of the Auckland Council. These plans remain until replaced by an operative regional plan or district plan, as the case may be, made by the Auckland Council.
+(3) On and from 1 November 2010, any regional plan of Environment Waikato is deemed to be the regional plan of the Auckland Council, but only to the extent that the plan relates to an area included within Auckland as a result of the boundary adjustment Order. The plan remains until replaced by an operative regional plan made by the Auckland Council.
+(4) On and from 1 November 2010, the regional policy statement of the Auckland Regional Council is deemed to be the regional policy statement of the Auckland Council.
+(5) On and from 1 November 2010, the district plans of the existing local authorities continue to apply to the same geographic areas as they did immediately before 1 November 2010 until replaced by an operative Auckland Council district plan.
+(6) However, nothing limits or affects the Auckland Council amending a plan to which subsection (5) of this section applies under any provision of the RMA.
+(7) The first monitoring report required by the Auckland Council under section 35(2A) is required 5 years from 1 November 2010.
+(8) For the purposes of sections 184 and 184A, every designation included in the district plans of existing local authorities at the close of 31 October 2010 is deemed to have been included in the district plans of the Auckland Council on 1 November 2010.
+(9) Subsection (10) of this section applies to a designation included in the district plan of an existing local authority that lapses in the period beginning with the commencement of this Act and ending on the close of 31 October 2010.
+(10) The designation is deemed to continue until 1 November 2015 unless—
+  (a) the designation is given effect to in accordance with section 184 or 184A; or
+  (b) the Auckland Council fixes a longer period under section 184 or 184A before the designation lapses.
+(11) Existing designations that are not included in an existing district plan continue for the term for which they were granted by the existing local authority.
+(12) For the purposes of section 180(2), the Minister for the Environment is deemed to have been notified of all designations to which subsections (8) and (9) of this section apply.
+(13) In the event of any existing local authorities having transferred any RMA functions, powers, or duties to another public authority, the functions, powers, or duties are deemed to have been transferred by the Auckland Council.
+(14) Where any change to an operative plan, or variation to a proposed plan, has been publicly notified but the process has not been completed by an existing local authority before 1 November 2010, the process continues on and after 1 November 2010 as if it had been publicly notified by the Auckland Council.
+(15) Where any change to a plan, or variation to a proposed plan, relating to an area included within Auckland as a result of the boundary adjustment Order has been publicly notified by any other local authority but the process has not been completed by the local authority before 1 November 2010, the change or variation process continues on and after 1 November 2010 as if it had been publicly notified by the Auckland Council.
+(16) Resource consents, certificates of compliance, or other RMA matters granted, issued, or approved by an existing local authority continue to have effect as if granted, issued, or approved by the Auckland Council.
+(17) Any matter under the RMA that was lodged, notified, or commenced by or with an existing local authority but which has not been determined or completed by the existing local authority is transferred to the Auckland Council.
+(18) Subsections (11), (16), and (17) of this section are for the avoidance of doubt.
+
+### 79 Designations of existing local authorities that relate to transport activities
+(1) This section applies to designations of the existing local authorities—
+  (a) that are transport activities in relation to the Auckland transport system; and
+  (b) for which Auckland Transport has assumed financial responsibility by operation of the Reorganisation Act.
+(2) On and from 1 November 2010, the designations are deemed to have been transferred to Auckland Transport for the purposes of section 180 of the Resource Management Act 1991.
+(3) In this section,—
+  - **Auckland transport system** has the same meaning as in section 37(1) of the Local Government (Auckland Council) Act 2009
+  - **designation** has the same meaning as in section 166 of the Resource Management Act 1991
+  - **transport activities** has the same meaning as the definition of in section 5(1) of the Land Transport Management Act 2003.
+
+**Other planning matters**
+
+### 80 Auckland regional growth strategy
+(1) This section applies to the regional growth strategy adopted, before the commencement of this section, by the Auckland Regional Council under section 37SE of the Local Government Act 1974.
+(2) Until the Auckland Council adopts a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009,—
+  (a) sections 37SE, 37SF, and 37SH of the Local Government Act 1974 apply, despite their repeal by this Act, as if the Auckland Council were the Auckland Regional Council; and
+  (b) the Auckland Council is deemed to have adopted the regional growth strategy; and
+  (c) the regional growth strategy remains in effect; and
+  (d) section 18 of the Waitakere Ranges Heritage Area Act 2008 applies as if it had not been amended by section 113(1) of this Act.
+(3) The regional growth strategy has no effect once the Auckland Council adopts the spatial plan.
+
+### 81 Appeals against change or variation under Local Government (Auckland) Amendment Act 2004
+(1) This section applies to an appeal under the Resource Management Act 1991, lodged before the commencement of this section, against a change or variation to an Auckland planning document prepared and publicly notified under sections 39 and 40 of the Local Government (Auckland) Amendment Act 2004.
+(2) The appeal must be determined as if—
+  (a) sections 38 to 43 of the Local Government (Auckland) Amendment Act 2004 had not been repealed by this Act; and
+  (b) the Auckland Council had not adopted a spatial plan under Part 6 of the Local Government (Auckland Council) Act 2009 (so that section 80(2)(a) to (d) of this Act applies).
+
+### 82 Existing regional land transport programme and regional land transport strategy for Auckland continue in effect
+(1) The Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under Part 2 of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009—
+  (a) must be treated as the regional land transport programme of Auckland Transport; and
+  (b) continues in effect until 30 June 2012.
+(2) Subsection (1) is subject to section 91 of this Act.
+(3) The regional land transport strategy for Auckland prepared and approved under Schedule 7 of the Land Transport Management Act 2003 on 26 April 2010 must be treated as—
+  (a) the regional land transport strategy for Auckland; and
+  (b) continuing in effect until 30 June 2016.
+
+**Tax**
+
+### 83 Tax
+(1) This section applies for the purposes of the Inland Revenue Acts.
+(2) In this section,—
+  (a) ARTA means the Auckland Regional Transport Authority established by section 7 of the Local Government (Auckland) Amendment Act 2004; and
+  (b) council-controlled organisation has the meaning given to it by the Local Government Act 2002; and
+  (c) Inland Revenue Acts has the meaning given to it by section 3(1) of the Tax Administration Act 1994; and
+  (d) other terms defined in the Inland Revenue Acts have the meanings given to them by the Acts.
+(3) Subsections (5) to (15) apply when, in the reorganisation,—
+  (a) the assets and liabilities of an existing local government organisation (person A) become the assets and liabilities of the Auckland Council (person B):
+  (b) the assets and liabilities of an existing local government organisation (person A) become the assets and liabilities of a council-controlled organisation of the Auckland Council or Watercare Services Limited (person B):
+  (c) the assets and liabilities of a terminating organisation (person A) become the assets and liabilities of a receiving entity (person B):
+  (d) the voting interests and market value interests of the notional single person in each of the existing local authorities or ARTA or Auckland Regional Holdings (person A) become the voting interests and market value interests of the notional single person in the Auckland Council (person B).
+(4) Subsections (16) and (17) apply when, in the reorganisation, an asset of an existing local authority or ARTA or Auckland Regional Holdings that is shares becomes the asset of a council-controlled organisation of the Auckland Council (person B).
+(5) On and from the day on which the assets and liabilities become person B's, person B is deemed to be the same person as person A.
+(6) On and from the day on which the voting interests and market value interests become person B's, person B is deemed to have held the voting interests and market value interests without interruption since person A acquired them.
+(7) Everything done by person A before the assets and liabilities and voting interests and market value interests become person B's is deemed to have been done by person B on the date on which it was done by person A.
+(8) Income derived or expenditure incurred by person A before the assets and liabilities become person B's does not become income derived or expenditure incurred by person B just because the assets and liabilities become person B's.
+(9) If an asset of person A's that becomes person B's is anything other than shares, the difference between the asset's market value and any attributed liability is available subscribed capital of person B.
+(10) If person A is a trustee and person B is a company, person A's tax losses become person B's tax losses, despite anything to the contrary in the Inland Revenue Acts.
+(11) If income from a financial arrangement, trading stock, revenue account property, or depreciable property is exempt income of person A and is not exempt income of person B,—
+  (a) person B is treated as having acquired the financial arrangement, trading stock, or revenue account property that becomes person B's on the day on which it becomes person B's for a consideration that is its market value on the day on which it becomes person B's:
+  (b) person B is treated as having acquired the depreciable property at the accounting carrying value of the property for person A on the day on which it becomes person B's.
+(12) If income from a financial arrangement, trading stock, revenue account property, or depreciable property is not exempt income of person A and is exempt income of person B,—
+  (a) person A is treated as having disposed of the financial arrangement, trading stock, or revenue account property that becomes person B's on the day on which it becomes person B's for a consideration that is its market value on the day on which it becomes person B's:
+  (b) person A is treated as having disposed of the depreciable property at the adjusted tax value of the property on the day on which it becomes person B's.
+(13) If a person (person C) is treated as associated with another person (person D) under subpart YB of the Income Tax Act 2007 at any time before 1 November 2010 only by virtue of the application of any of the other subsections in this section, person C is not treated as associated with person D at that time under subpart YB for the purposes of sections CB 6 to CB 15 of the Income Tax Act 2007.
+(14) The voting interests and market value interests of the notional single person in each of the existing local authorities or ARTA or Auckland Regional Holdings become the voting interests and market value interests of the notional single person in the Auckland Council on 1 November 2010.
+(15) The notional single person holding the voting interests and market value interests in the Auckland Council is deemed for the purposes of subpart IC of the Income Tax Act 2007 to have held the voting interests and market value interests in any council-controlled organisation established in the reorganisation for any period before 1 November 2010 during which it has had or is deemed to have had 66% or more voting interests and market value interests in any other council-controlled organisation or existing local government organisation.
+(16) The proceeds of sale of shares is not assessable income of the Auckland Council or a council-controlled organisation of the Auckland Council if the proceeds become the Council's or the organisation's in the following circumstances:
+  (a) the shares have become person B's in the way described in subsection (4); and
+  (b) person B sells the shares and distributes the proceeds to—
+    (i) the Council; or
+    (ii) the council-controlled organisation.
+(17) The transfer of shares to the Auckland Council or a council-controlled organisation of the Auckland Council is not assessable income of the Council or the organisation if the transfer occurs in the following circumstances:
+  (a) the shares have become person B's in the way described in subsection (4); and
+  (b) person B transfers the shares to—
+    (i) the Council; or
+    (ii) the council-controlled organisation.
+(18) The funds, assets, and property described in clause 5 of Schedule 1 of the Local Government (Auckland) Amendment Act 2004 continue not to be dutiable gifts for the purposes of the Estate and Gift Duties Act 1968 despite the dissolution of the Auckland Regional Council and ARTA and the repeal of the Local Government (Auckland) Amendment Act 2004.
+
+**Solid waste**
+
+### 84 Solid waste
+(1) Subsection (2) applies to the existing local authorities' waste management and minimisation plans to which Part 4 of the Waste Minimisation Act 2008 applies.
+(2) On and from 1 November 2010, the plans are deemed to be the Auckland Council's waste management and minimisation plan (ACWMMP).
+(3) Not later than 1 May 2011, the Auckland Council must consider and decide on proposals prepared for it under section 13(1)(cb)(iii) of the Reorganisation Act.
+(4) Not later than 1 July 2012, the Auckland Council must review the ACWMMP in the manner required by the Waste Minimisation Act 2008.
+(5) For the purposes of the review, the Council may rely on any work carried out by the Transition Agency and the existing local authorities under section 13(1)(cb) of the Reorganisation Act, to the extent that it satisfies the requirements of sections 50(2) and 51 of the Waste Minimisation Act 2008.
+(6) Subsection (7) applies to the Council when, after the review, and in accordance with section 50(3) of the Waste Minimisation Act 2008, it is acting under section 44(d) and (e) of that Act.
+(7) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under section 13(1)(cb) of the Reorganisation Act if their consultation satisfied the requirements of section 44(d) and (e) of the Waste Minimisation Act 2008.
+(8) Subsection (9) applies to the Council when, after the review, and in accordance with section 50(3) of the Waste Minimisation Act 2008, it is acting under section 50(3)(b) of that Act.
+(9) The Council is not required to consult on matters that have already been the subject of consultation by the existing local authorities acting under section 13(1)(cb) of the Reorganisation Act if their consultation satisfied the requirements of section 50(3)(b) of the Waste Minimisation Act 2008.
+(10) In relation to the levy money that the Auckland Council receives on or about 20 January 2011 (including the levy money it receives by operation of section 35 of the Reorganisation Act), the Council may spend it under section 32 of the Waste Minimisation Act 2008 without regard to the former boundaries of the existing local authorities.
+(11) In relation to the levy money that the Auckland Council receives in the period from 20 April 2011 until the date on which it completes its review of the ACWMMP, the Council may spend the money in one or both of the following ways:
+  (a) under section 32 of the Waste Minimisation Act 2008:
+  (b) for the purposes of making an assessment under section 51 of the Waste Minimisation Act 2008.
+(12) Section 62 is also about solid waste.
+
+**Titles to land**
+
+### 85 Titles to land
+(1) The Registrar-General of Land must, on written application by any person authorised by the Council and on payment of any prescribed fee,—
+  (a) register the Council, in substitution for an existing local authority, council-controlled organisation, or other entity, as the proprietor of the estate or the interest of the existing local authority, council-controlled organisation, or entity in any registered land transferred to the Council under this Act or the Reorganisation Act; and
+  (b) make the entries in the register and generally do all the things as may be necessary to give effect to this section.
+(2) The Registrar-General of Land must, on written application by any person authorised by the council-controlled organisation and on payment of any prescribed fee,—
+  (a) register the council-controlled organisation as the proprietor, in substitution for an existing local authority, existing council-controlled organisation, or other entity, of the estate or the interest of the existing local authority, existing council-controlled organisation, or entity in any registered land transferred to the council-controlled organisation under this Act or the Reorganisation Act; and
+  (b) make the entries in the register and generally do all the things as may be necessary to give effect to this section.
+
+**Establishment of Pacific and Ethnic Advisory Panels for Auckland**
+
+### 86 Establishment of Pacific and Ethnic Advisory Panels for Auckland
+(1) The mayor of Auckland Council must, not later than 31 March 2011,—
+  (a) establish a Pacific Peoples Advisory Panel; and
+  (b) establish an Ethnic Peoples Advisory Panel; and
+  (c) appoint the members of each panel.
+(2) The purposes of the Pacific Peoples Advisory Panel are—
+  (a) to identify and communicate to the Council the interests and preferences of the Pacific peoples of Auckland in relation to—
+    (i) the content of the strategies, policies, plans, and bylaws of the Council; and
+    (ii) any matter that the Panel considers to be of particular interest or concern to the Pacific peoples of Auckland; and
+  (b) to advise the mayor, and the Council's governing body and local boards, of the Council processes and mechanisms for engagement with Pacific peoples and communities in Auckland.
+(3) The purposes of the Ethnic Peoples Advisory Panel are—
+  (a) to identify and communicate to the Council the interests and preferences of the ethnic peoples of Auckland in relation to—
+    (i) the content of the strategies, policies, plans, and bylaws of the Council; and
+    (ii) any matter that the Panel considers to be of particular interest or concern to the ethnic peoples of Auckland; and
+  (b) to advise the mayor, and the Council's governing body and local boards, of the Council processes and mechanisms for engagement with ethnic peoples and communities in Auckland.
+(4) On 1 November 2013,—
+  (a) the requirements of subsection (1) cease to have effect; and
+  (b) the Pacific Peoples Advisory Panel and the Ethnic Peoples Advisory Panel are disestablished.
+(5) Nothing in this section limits or affects the mayor's powers under section 9(3)(a) of the Local Government (Auckland Council) Act 2009 (which include re-establishing, after 1 November 2013, a Pacific peoples advisory panel or an ethnic peoples advisory panel, or both, in the same or a modified form).
+
+**Remuneration Authority determination**
+
+### 87 Remuneration Authority determination
+(1) This section applies to the Remuneration Authority determination made under section 51 of the Reorganisation Act.
+(2) The determination remains in force for the purposes of payments under clause 12 of Schedule 7 of the Local Government Act 2002 until the Remuneration Authority makes a new determination in relation to the Auckland Council under that Act.
+
+**Regional facilities Acts**
+
+### 88 Effect of dissolution of existing local authorities on regional facilities Acts
+(1) In this section, regional facilities Acts means—
+  (a) the Auckland War Memorial Museum Act 1996 (AWMMA); and
+  (b) the Museum of Transport and Technology Act 2000 (MOTATA); and
+  (c) the Auckland Regional Amenities Funding Act 2008 (ARAFA).
+(2) The dissolution of the existing local authorities under section 35(1) of the Reorganisation Act has the following consequences for the regional facilities Acts:
+  (a) no appointments can be made to the Auckland Museum Electoral College constituted by section 13(1) of the Auckland War Memorial Museum Act 1996; and
+  (b) no contributing authorities (as defined in section 2 of AWMMA and section 3 of MOTATA) or contributing authority (as defined in section 4 of ARAFA) separately exist.
+(3) Subject to certain exceptions stated in the section, section 35(1) of the Reorganisation Act, transfers the functions, powers, duties, and obligations of contributing authorities (as defined in the regional facilities Acts) to the Auckland Council.
+(4) The regional facilities Acts are amended by section 113(1)—
+  (a) to make consequential amendments in relation to the matters in subsection (2); and
+  (b) to make consequential amendments in relation to the matter in subsection (3).
+
+### Subpart 3 — Savings and transitional provisions relating to local authorities other than Auckland Council
+
+### 89 Long-term council community plans
+(1) Without further authority than this section, until 30 June 2012, the long-term council community plans of the Hauraki District Council and the Waikato District Council consist of—
+  (a) the 2009/2019 long-term council community plan adopted by the local authority; and
+  (b) the 2009/2019 long-term council community plan adopted by the Franklin District Council, so far as that plan applies to the part of the former Franklin District that, as a result of the boundary adjustment Order, is now part of the local authority's district.
+(2) Without further authority than this section, until 30 June 2012, the long-term council community plan of the Waikato Regional Council consists of—
+  (a) the 2009/2019 long-term council community plan adopted by the Council; and
+  (b) the 2009/2019 long-term council community plan adopted by the Auckland Regional Council, so far as that plan applies to the part of the former Auckland Region that, as a result of the boundary adjustment Order, is now part of the Waikato Region.
+
+### 90 Annual plans for 2011/2012 financial year
+(1) This section applies to the 2011/2012 financial year annual plans for the following local authorities:
+  (a) Hauraki District Council:
+  (b) Waikato District Council:
+  (c) Waikato Regional Council.
+(2) Section 95 and Schedule 10 of the Local Government Act 2002 apply to the preparation of each annual plan subject to the modifications required by section 89 of this Act.
+
+### 91 Regional land transport programme
+(1) This section applies to the Auckland regional land transport programme prepared by the Auckland Regional Transport Authority under Part 2 of the Land Transport Management Act 2003 for the 3 financial years commencing 1 July 2009.
+(2) The whole or relevant part of any activities or combinations of activities included in the programme that are to be constructed or undertaken in the part of the former Franklin District that, as a result of the boundary adjustment Order, is now part of the Waikato Region must be treated as part of the regional land transport programme approved by the Waikato Regional Council for the 3 financial years commencing 1 July 2009.
+
+### 92 Solid waste
+(1) On and from 1 November 2010,—
+  (a) the Hauraki District Council's waste management and minimisation plan is deemed to include that part of the former Franklin District included in the Hauraki District as a result of the boundary adjustment Order; and
+  (b) the Waikato District Council's waste management and minimisation plan is deemed to include that part of the former Franklin District included in the Waikato District as a result of the boundary adjustment Order.
+(2) Subsections (3) and (4) apply to a territorial authority to which both of the following apply:
+  (a) its boundaries are affected by the boundary adjustment Order; and
+  (b) it receives a share of levy money under section 31 of the Waste Minimisation Act 2008.
+(3) In relation to the levy money that the territorial authority receives on or about 20 January 2011, the authority may spend it under section 32 of the Waste Minimisation Act 2008 without regard to the changes in boundaries.
+(4) In relation to the levy money that a territorial authority receives on or after 20 April 2011, the authority may spend the money only under section 32 of the Waste Minimisation Act 2008.
+
+### 93 Section 81 of Resource Management Act 1991 applies
+(1) Section 81 of the Resource Management Act 1991 applies to the following changes of area as a result of the boundary adjustment Order:
+  (a) the inclusion of areas of the former Franklin District in the Hauraki District:
+  (b) the inclusion of areas of the former Franklin District in the Waikato District:
+  (c) the inclusion of areas of the former Auckland Region in the Waikato Region.
+(2) This section is for the avoidance of doubt.
+
+### 94 Resource management
+(1) Terms defined in the Resource Management Act 1991 have the same meanings when used in this section. A reference to the RMA in this section is a reference to the Resource Management Act 1991.
+(2) In this section, area means any area of the former district of an existing local authority that, as a result of the boundary adjustment Order, is included in the district or region of another local authority.
+(3) Any matter under the RMA relating to an area that was lodged, notified, or commenced by or with the existing local authority, but not determined or completed by the existing local authority, is transferred to the local authority that has gained jurisdiction over that area.
+(4) Where any change to an operative plan, or variation to a proposed plan, relating to an area has been publicly notified but the process has not been completed by the existing local authority before 1 November 2010, the process continues on and after 1 November 2010 as if it had been publicly notified by the local authority that has gained jurisdiction over that area.
+(5) Resource consents, certificates of compliance, or other RMA matters granted, issued, or approved in respect of an area by the existing local authority continue to have effect as if granted, issued, or approved by the local authority that has gained jurisdiction over the area.
+
+### 95 Franklin District Council development contributions not transferred to Auckland Council
+(1) This section applies to development contributions under subpart 5 of Part 8 of the Local Government Act 2002.
+(2) Where the Hauraki District or the Waikato District gains territory from the former Franklin District in accordance with the boundary adjustment Order, any development contributions owing to or required by the former Franklin District Council in respect of that territory are owed to or required by the Hauraki District Council or the Waikato District Council, as the case may be.
+(3) Any subsequent obligation under section 209 or 210 of the Local Government Act 2002 to refund a development contribution made or paid to the former Franklin District Council in respect of the territory to which subsection (2) applies becomes an obligation of the Hauraki District Council or the Waikato District Council, as the case may be.
+
+### 96 Hauraki District Council and Waikato District Council may require schedule development contributions
+(1) The Hauraki District Council may require a development contribution under section 198 of the Local Government Act 2002, in the territory of its district gained from the former Franklin District, in accordance with the schedule of development contributions payable prepared and adopted by the former Franklin District Council under section 29H(2)(b) of the Reorganisation Act.
+(2) For the purpose of subsection (1), the Hauraki District Council must apply the Franklin District Council development contributions policy.
+(3) The Waikato District Council may require a development contribution under section 198 of the Local Government Act 2002, in the territory of its district gained from the former Franklin District, in accordance with the schedule of development contributions payable prepared and adopted by the former Franklin District Council under section 29H(2)(b) of the Reorganisation Act.
+(4) For the purpose of subsection (3), the Waikato District Council must apply the Franklin District Council development contributions policy.
+(5) In this section,—
+  - **development contributions policy** means the policy on development contributions—
+    (a) adopted by the Franklin District Council under section 102(4)(d) of the Local Government Act 2002; and
+    (b) included in its current long-term council community plan as at 1 July 2010
+  - **the territory of its district gained from the former Franklin** means the territory gained by the Hauraki District or the Waikato District, as the case may be, in accordance with the boundary adjustment Order.
+(6) This section expires on the close of 30 June 2012.
+
+## Part 2 — Transitional provisions relating to employment
+
+### Subpart 1 — Preliminary matters
+
+### 97 Overview of Part
+(1) This section—
+  (a) is a guide to the general scheme and effect of this Part; and
+  (b) does not affect the interpretation or application of the other provisions of this Part.
+(2) Subpart 1 contains, in addition to this overview, provisions defining terms used in this Part and recognising when things done in advance of this Part coming into force can be treated as if they had been done under and in accordance with this Part.
+(3) Subpart 2 requires the chief executive of the Auckland Council to review the position of employees and to decide whether employees should be offered positions with a new employer or whether their employment should be terminated. By 30 September 2010, the chief executive must have completed the review and notified employees accordingly.
+(4) Subpart 3 provides whether and to what extent employees are entitled to redundancy or other compensation if they decline an offer of a position with a new employer under subpart 2 or their employment is to be terminated or they are offered a position at a different location or at lower remuneration.
+(5) Subpart 4 provides for related matters about the continuity of employment of employees who accept positions with a new employer, and about the application of Part 6A of the Employment Relations Act 2000 and the KiwiSaver Act 2006.
+(6) Subpart 5 provides transitional provisions about collective bargaining and collective agreements. Certain unions and chief executives are authorised to engage in collective bargaining in advance of the new employers and the new employee positions being established on 1 November 2010. This subpart also provides for the continuation and separate application of collective agreements that do not expire until after 1 November 2010.
+
+### 98 Interpretation
+(1) In this Part, unless the context otherwise requires,—
+  - **chief executive** —
+    (a) means the chief executive of the Auckland Council appointed under section 17 of the Reorganisation Act; and
+    (b) includes the Auckland Transition Agency established by section 10 of that Act if—
+      (i) no person is, for the time being, appointed as chief executive; or
+      (ii) the chief executive agrees to the Auckland Transition Agency exercising his or her powers
+  - **existing employer** means, as the case requires,—
+    (a) an existing local authority:
+    (b) a terminating organisation
+  - **new employer** —
+    (a) means, as the case requires,—
+      (i) the Auckland Council:
+      (ii) Auckland Transport:
+      (iii) Watercare Services Limited:
+      (iv) a council-controlled organisation of the Auckland Council:
+      (v) a subsidiary of a council-controlled organisation of the Auckland Council; but
+    (b) means, in relation to an employee who has not received a notice in accordance with section 100(4),—
+      (i) the Auckland Council, if the employee is employed by an existing local authority or a terminating organisation (other than the Auckland Regional Transport Authority or Auckland Regional Transport Network Limited):
+      (ii) Auckland Transport, if the employee is employed by the Auckland Regional Transport Authority or Auckland Regional Transport Network Limited
+  - **Reorganisation Act** means the Local Government (Tamaki Makaurau Reorganisation) Act 2009.
+(2) A term used in a definition in subsection (1) that is defined in the Reorganisation Act or the Local Government (Auckland Council) Act 2009 has the same meaning in the other Act.
+(3) For the purposes of this Part, a position is not to be treated as not the same or a substantially similar position because the position is at a different location.
+(4) For the purposes of this Part, a position at another location is to be treated as a position at a different location if—
+  (a) a change to the other location would, applying the employee's existing employment agreement, amount to a substantial change in the employee's terms and conditions of employment; or
+  (b) the other location is outside the geographical boundaries in respect of which the employee's existing employer operates and the other location is not a reasonable commuting distance from the employee's place of residence, having regard to—
+    (i) the distance between the old and new sites and the employee's place of residence; and
+    (ii) the employee's usual travel arrangements; and
+    (iii) the availability of suitable public transport; and
+    (iv) the employee's personal circumstances; or
+  (c) the employee's existing employment agreement does not specify whether a location change affects the terms and conditions of employment and the other location is not a reasonable commuting distance from the employee's place of residence, having regard to—
+    (i) the distance between the old and new sites and the employee's place of residence; and
+    (ii) the employee's usual travel arrangements; and
+    (iii) the availability of suitable public transport; and
+    (iv) the employee's personal circumstances.
+(5) A position at another location is also to be treated as a position at a different location if—
+  (a) the employee's existing employer's operations cover more than 1 local authority; and
+  (b) the location of the employee's position is in the district of one local authority; and
+  (c) the location of the other position is in the district of another local authority; and
+  (d) the location of the other position is not a reasonable commuting distance from the employee's place of residence having regard to—
+    (i) the distance between the old and new sites and the employee's place of residence; and
+    (ii) the employee's usual travel arrangements; and
+    (iii) the availability of suitable public transport; and
+    (iv) the employee's personal circumstances.
+(6) In this Part, references to accepting an offer of a position with a new employer include—
+  (a) acceptance of an offer after it has been varied by negotiation; and
+  (b) acceptance of any subsequent offer after the first offer is notified, whether the first offer is accepted or declined.
+(7) To avoid doubt, terms and conditions, in relation to employment, include (as appropriate)—
+  (a) a fixed term included in an employment agreement in accordance with section 66 of the Employment Relations Act 2000:
+  (b) a trial provision included in an employment agreement in accordance with section 67A of the Employment Relations Act 2000.
+
+### 99 Advance exercise of powers
+Anything done before the commencement of this Part that would have complied with this Part had it been in force is to be treated as having been done under and in accordance with this Part.
+
+### Subpart 2 — Review of employment positions
+
+### 100 Review of employment positions
+(1) The chief executive must, in accordance with the change management plan developed in accordance with section 13(2)(b) of the Reorganisation Act,—
+  (a) review the position of persons employed by existing employers; and
+  (b) decide in relation to each employee whether—
+    (i) to offer the employee the same or a substantially similar position with a new employer; or
+    (ii) to offer the employee a position with a new employer that is not the same or a substantially similar position; or
+    (iii) to terminate the employee's employment as at the close of 31 October 2010.
+(2) If the chief executive decides that an employee is to be offered a position with a new employer, the chief executive must also decide—
+  (a) who the new employer is to be; and
+  (b) whether the employee is to be offered the same or a substantially similar position with the new employer; and
+  (c) if the employee is to be offered a position that is not the same or a substantially similar position with the new employer, the terms and conditions of employment to be offered to the employee.
+(3) If the chief executive proposes to decide that a person's new employer is to be other than the Auckland Council, the chief executive must not make a decision unless he or she has consulted the chief executive or interim chief executive (as the case may be) of the other new employer.
+(4) The chief executive must, by 30 September 2010,—
+  (a) complete the review and make the necessary decisions under subsections (1) and (2); and
+  (b) notify in writing each employee and the employee's existing employer of the decision made in relation to the employee in the terms of subsection (1)(b); and
+  (c) in the case of employees who are being offered positions with a new employer, notify each employee concerned—
+    (i) of who the new employer is; and
+    (ii) whether the employee is being offered the same or a substantially similar position with the new employer; and
+    (iii) if the employee is being offered a position that is not the same or a substantially similar position, the terms and conditions of employment of the position being offered; and
+    (iv) of the date by which the employee is to notify the chief executive as to whether the employee accepts or declines the offer.
+
+### 101 Transfer of employment positions
+(1) This section applies to—
+  (a) employees who have been notified in accordance with section 100(4) and—
+    (i) accepted an offer of the same or a substantially similar position with a new employer on and from 1 November 2010; or
+    (ii) neither accepted nor declined an offer of the same or a substantially similar position with a new employer on and from 1 November 2010; and
+  (b) employees who have been notified in accordance with section 100(4) and accepted an offer of a position that is not the same or a substantially similar position with a new employer on and from 1 November 2010; and
+  (c) employees whose employment position is subject to review under section 100, but who have received no notification in accordance with section 100(4).
+(2) Every employee referred to in subsection (1)(a) or (c) becomes an employee of his or her new employer, on and from 1 November 2010, on the same terms and conditions as applied immediately before he or she became an employee of his or her new employer.
+(3) Every employee referred to in subsection (1)(b) becomes an employee of his or her new employer, on and from 1 November 2010, on the terms and conditions notified under section 100(4)(c).
+(4) The terms and conditions of employment of an employee referred to in subsection (2) or (3) continue to apply in relation to the employee until—
+  (a) the terms and conditions are varied—
+    (i) by agreement between the employee and his or her new employer; or
+    (ii) in accordance with the employee's terms and conditions of employment; or
+    (iii) because of the application of section 61(1)(b) of the Employment Relations Act 2000; or
+  (b) the employee accepts a subsequent position with his or her new employer.
+(5) To avoid doubt, subsections (2) and (3) apply,—
+  (a) in the case of an employee bound by an applicable collective agreement, subject to section 61(1)(b) of the Employment Relations Act 2000 and, without limiting this paragraph, subject to an applicable collective agreement or variation of an applicable collective agreement that comes into force on 1 November 2010; and
+  (b) in the case of an employee not bound by an applicable collective agreement, subject to any variation in terms and conditions of employment agreed to before 1 November 2010, but to come into force on that date.
+(6) This section applies subject to an employee resigning before 1 November 2010 or his or her employment being terminated before 1 November 2010.
+
+### 102 Employees who neither accept nor decline offer of position that is not same or substantially similar or position at different location
+(1) This section applies to employees who have been notified in accordance with section 100(4) and have neither accepted nor declined (by the date specified under section 100(4)(c)(iv)) an offer of a position—
+  (a) that is not the same or substantially similar with a new employer:
+  (b) that is at a different location.
+(2) The employment of the employees is terminated on and from 1 November 2010.
+(3) This section applies subject to an employee resigning before 1 November 2010 or his or her employment being terminated before 1 November 2010.
+
+### Subpart 3 — Redundancy and other compensation
+
+### 103 Employees not entitled to redundancy or other compensation just because position or employer ceases to exist
+Except as provided in this subpart, an employee of an existing employer is not entitled to receive any payment or any other benefit (compensation) because—
+  (a) the position held by the employee with an existing employer has ceased to exist; or
+  (b) the employee has ceased to be an employee of an existing employer; or
+  (c) the employee's employer ceases to exist.
+
+### 104 Whether employees entitled to redundancy or other compensation
+(1) The following table specifies whether and to what extent an employee of an existing employer is entitled to compensation because his or her position with an existing employer has ceased to exist or his or her employer has ceased to exist:Employee offered same or substantially similar position with new employerEmployee accepts offerany relocation compensation payable under section 105no compensation payableEmployee declines offercontractual compensation (if any) payableno compensation payableEmployee offered position that is not same or substantially similarEmployee accepts offerany relocation compensation payable under section 105payment of remuneration during the 6 months beginning on 1 November 2010 (or any later date agreed to) at rate not less than rate payable to employee immediately before close of 31 October 2010no compensation payableEmployee declines offer–contractual compensation (if any) payableEmployee notified that employment terminated as at close of 31 October 2010––contractual compensation (if any) payable
+  (a) position is at new location
+  (b) position is at same location
+  (a) position is at different location
+  (b) position not at different location
+  (a) position is at new location at same remuneration
+  (b) position is at new location at lower remuneration
+  (i) any relocation compensation payable under section 105
+  (ii) payment of remuneration during the 6 months beginning on 1 November 2010 (or any later date agreed to) at rate not less than rate payable to employee immediately before close of 31 October 2010
+  (c) position at same location at lower remuneration
+  (d) position at same location at same remuneration
+(2) In subsection (1), offer, in relation to accepting an offer, means—
+  (a) acceptance of an offer as notified under section 100; or
+  (b) if the offer is varied by negotiation, acceptance of the offer as varied; or
+  (c) if any subsequent offer is made after the offer notified in section 100 is accepted (whether or not after negotiation) or declined, acceptance of the subsequent offer.
+(3) This section applies subject to section 106.
+
+### 105 Compensation if employee accepts position at new location
+(1) If an employee referred to in section 101(1)(a) or (b) takes up a position at a new location (whether or not the new location is a different location as defined in section 98), the employee is entitled to—
+  (a) any compensation otherwise payable under the terms and conditions of employment applicable immediately before the close of 31 October 2010 as if the employee had continued to be employed by his or her existing employer; but
+  (b) if no compensation is payable under paragraph (a) or any compensation payable under paragraph (a) is less favourable than the compensation provided in the following table, compensation by way of a single amount in accordance with the following table:Distance differentialAmount payableless than 2 kmsnil2 kms or more, but less than 8 kms$5008 kms or more, but less than 12 kms$90012 kms or more, but less than 20 kms$1,35020 kms or more$2,000
+(2) In the table in subsection (1)(b),—
+  - **distance** means the shortest distance by road
+  - **distance differential** means the difference derived by subtracting the distance referred to in paragraph (a) from the difference referred to in paragraph (b):
+    (a) the distance as at 31 October 2010 from the employee's normal residence to the employee's place of work with his or her existing employer; and
+    (b) the distance as at 1 November 2010 (or any later date on which the employee's place of work shifts to the new location) from the employee's normal residence to the employee's place of work with his or her new employer.
+
+### 106 Compensation deferred if permanent employee accepts fixed term employment
+(1) This section applies to an employee who is a permanent employee of an existing employer and accepts a position under this Part with a new employer, but the position is for a fixed term within the meaning of section 66 of the Employment Relations Act 2000.
+(2) Any compensation payable to the employee in relation to the employee's permanent employment is not to be paid until the conclusion of his or her fixed term employment.
+(3) Subsection (2) applies subject to subsection (4).
+(4) Compensation deferred under subsection (2) ceases to be payable to the employee if the employee, before the end of his or her fixed term employment with the new employer, accepts an offer of permanent employment with the new employer (whether the permanent employment begins before or after the end of the fixed term employment).
+(5) However, if the permanent position accepted by the employee is a position at a new location or at lower remuneration or both, then the employee is entitled to relocation compensation or 6 months' payment of remuneration at a higher level or both (as the case may be) to the same extent as if the employee's permanent position had started on 1 November 2010.
+
+### 107 Which employer responsible for paying compensation
+(1) If an employee's employment is to be terminated, the employee's existing employer must ensure that any compensation payable under section 104 is paid to the employee on or before 31 October 2010.
+(2) However, if an employee's compensation is deferred under section 106, the compensation is payable by the employee's new employer.
+(3) Any compensation payable to an employee who is offered and accepts employment with a new employer is payable by the employee's new employer.
+(4) Any compensation payable under section 105 is payable by the new employer within 1 month after an employee's place of work shifts to the new location.
+
+### Subpart 4 — Related matters
+
+### 108 Continuity of employment
+(1) Subsections (2) and (3) apply for the purposes of every law, determination, contract, and agreement relating to the employment of an employee who, under this Part, becomes an employee of a new employer.
+(2) The employment agreement of the employee is to be treated as continuous.
+(3) The employee's period of service with his or her existing employer, and every other period of service of the employee that is recognised by his or her existing employer, is to be treated as a period of service with the employee's new employer.
+
+### 109 KiwiSaver Act 2006 does not apply to transferred employee
+The employment of an employee who becomes an employee of a new employer under this Part does not constitute new employment for the purposes of the KiwiSaver Act 2006.
+
+### 110 Application of Part 6A of Employment Relations Act 2000
+Part 6A of the Employment Relations Act 2000—
+  (a) does not apply in relation to a person whose employment is subject to review under section 100; but
+  (b) does apply in relation to the person if—
+    (i) his or her employment is terminated as a result of a restructuring within the meaning of that Part; and
+    (ii) the work performed by the person is to be performed by or on behalf of another person that is not a new employer within the meaning of this Part.
+
+### Subpart 5 — Collective bargaining and collective agreements
+
+### 111 Collective bargaining before 1 November 2010 for variation of collective agreement or for new collective agreement to come into force on that date
+(1) Subsection (2) applies if—
+  (a) the employees whose positions are subject to review under section 100 are bound by a collective agreement under the Employment Relations Act 2000 in relation to their employment with their existing employer; and
+  (b) the union or unions that are parties to the collective agreement and the chief executive or the chief executive of another new employer enter into bargaining to vary or to replace the collective agreement with 1 or more new collective agreements and the variation or new collective agreement or agreements are intended to come into force on 1 November 2010.
+(2) For the purposes of the bargaining in the period from the commencement of this Act to the close of 31 October 2010,—
+  (a) the employees are to be treated as if they were employees of their new employer; and
+  (b) their new employer is to be treated as if it were a party to the collective agreement; and
+  (c) section 41 of the Employment Relations Act 2000 does not apply in relation to the bargaining; and
+  (d) the other provisions of the Employment Relations Act 2000 apply accordingly with any necessary modifications.
+(3) For the purposes of ratifying a collective agreement or a variation of a collective agreement, a person is to be treated as an employee only if—
+  (a) the person—
+    (i) has accepted an offer notified under section 100; or
+    (ii) has neither accepted nor declined an offer notified under section 100; or
+    (iii) has not received notice of an offer under section 100; and
+  (b) the following work comes within the coverage clause in the collective agreement—
+    (i) work to be done by the person for his or her new employer (if paragraph (a)(i) applies):
+    (ii) work done by the person for his or her existing employer (if paragraph (a)(ii) or (iii) applies).
+(4) A person whose employment is subject to review under section 100 ceases to be an employee for the purposes of this section if the person has been notified under section 100 and—
+  (a) has declined an offer of a position with a new employer; or
+  (b) has been notified that his or her employment is to be terminated on and from 1 November 2010; or
+  (c) his or her employment is terminated before that date or he or she resigns before that date.
+
+### 112 Application of existing collective agreements on and from 1 November 2010
+(1) Subsection (2) applies if—
+  (a) employees of an existing employer—
+    (i) have received and—
+      (A) accepted an offer of employment with a new employer made under section 100; or
+      (B) neither accepted nor declined an offer of a position that is the same or substantially similar with a new employer made under section 100; or
+    (ii) have not been notified in accordance with section 100 as to whether they are being offered positions with a new employer or their employment with an existing employer is to be terminated; and
+  (b) the employees are bound by a collective agreement under the Employment Relations Act 2000 in relation to their employment with their existing employer; and
+  (c) the collective agreement does not expire until after 1 November 2010.
+(2) On and from 1 November 2010,—
+  (a) the collective agreement is to be treated as a separate collective agreement in relation to each new employer; and
+  (b) a new employer is to be treated as a party to the collective agreement in place of the previous employer; and
+  (c) the collective agreement continues to apply to and bind only the employees referred to in subsection (1) to the extent that the nature of the work they undertake for the new employer comes within the coverage clause of the collective agreement.
+(3) However, subsection (2) applies subject to the extent that the collective agreement as a separate collective agreement is not replaced or varied on 1 November 2010 by a collective agreement or a variation of a collective agreement negotiated under section 111.
+(4) The union that is a party to a separate collective agreement under this section may, by notice in writing to the new employer that is a party to the agreement, specify a date on which the agreement is to expire, being a date that is earlier than a date on which the agreement would otherwise expire under section 52(3) of the Employment Relations Act 2000.
+
+## Part 3 — Amendments and repeals
+
+### 113 Consequential amendments
+(1) The enactments listed in the Schedule are amended, repealed, or revoked in the manner indicated in that schedule.
+(2) Section 6(4)(g) of the Local Government Act 2002 is repealed.
+
+### 114 Repeal of Auckland Metropolitan Drainage Act 1960
+(1) The Auckland Metropolitan Drainage Act 1960 (1960 No 15 (L)) is repealed.
+(2) Despite subsection (1), sections 75, 77, 79, 81, and 84 of that Act continue in force for the purposes of section 25 of this Act until 1 July 2015 as if every reference to the Board were a reference to Watercare Services Limited.
+(3) However, if the Auckland Council makes a new trade waste bylaw before 1 July 2015, subsection (2) ceases to apply.
+
+## Schedule  — Enactments amended, repealed, or revoked
+
+### 27 Powers and obligations of Auckland Council
+The Auckland Council must store the Forum's records and make them available when the Forum requires.
+
+### 17 Form and content of Auckland Transport's regional land transport programmes
+(1) Auckland Transport's regional land transport programme must contain, for the 3 financial years to which the programme relates,—
+  (a) the following activities and combinations of activities that Auckland Transport decides to include in the programme:
+    (i) activities or combinations of activities proposed by Auckland Transport or the governing body of the Auckland Council; and
+    (ii) activities or combinations of activities relating to State highways in the region that are proposed by the Agency; and
+    (iii) activities or combinations of activities, other than those relating to State highways, that the Agency may propose for Auckland and that it wishes to see included in the programme; and
+  (b) any activities or combinations of activities that are proposed by the governing body of the Auckland Council or any other approved organisation to be—
+    (i) included in the programme; and
+    (ii) fully funded from sources other than the national land transport fund; and
+  (c) the order of priority, as determined by Auckland Transport, of the activities or combinations of activities that it decides to include in the programme under paragraph (a); and
+  (d) an assessment of each activity or combination of activities, prepared in accordance with subsection (5) by the organisation that proposed the activity or combination of activities under paragraph (a), which must include—
+    (i) the objective or objectives to be achieved; and
+    (ii) an estimate of the total cost and the cost for each year; and
+    (iii) the expected duration; and
+    (iv) any proposed sources of funding (including, but not limited to, the national land transport fund, tolls, funding from approved organisations, and contributions from other parties); and
+    (v) any other relevant information; and
+  (e) an assessment of each activity or combination of activities, prepared in accordance with subsection (6) by the approved organisation that proposed the activity or combination of activities under paragraph (b), which must include—
+    (i) an estimate of the total cost and the cost for each year; and
+    (ii) the expected duration.
+(2) The programme must contain assessments by Auckland Transport of—
+  (a) how the programme complies with section 15; and
+  (b) the relationship of Police activities or combinations of Police activities to the programme.
+(3) The programme must also include—
+  (a) a statement of transport priorities for the region for the 6 financial years from the start of the programme; and
+  (b) a list of each activity or combination of activities that have been started but are not yet completed; and
+  (c) an identification of those activities or combinations of activities (if any) that have inter-regional significance; and
+  (d) an explanation of the proposed action if it is proposed that an activity or combination of activities be varied, suspended, or abandoned; and
+  (e) an indication of any nationally or regionally significant activities that are likely to be recommended for inclusion in the national land transport programme over the 3 financial years following the programme; and
+  (f) a financial forecast of revenue and expenditure on activities for the 10 financial years from the start of the programme; and
+  (g) a description of how monitoring will be undertaken to assess implementation of the programme; and
+  (h) a summary of the consultation carried out in the preparation of the programme; and
+  (i) a summary of the policy relating to significance adopted by Auckland Transport under section 106(2); and
+  (j) any other relevant matters.
+(4) To include activities or combinations of activities in a national land transport programme, the programme must be in the form and contain the detail that the Agency prescribes in writing to Auckland Transport.
+(5) The assessment under subsection (1)(d) must be in a form and contain the detail required by Auckland Transport, taking account of any prescription made by the Agency under subsection (4).
+(6) The assessment under subsection (1)(e) must be in a form and contain the detail required by Auckland Transport.
+
+### 38AA Duty to co-operate
+(1) It is the duty of the Secretary, the Agency, and approved organisations to give reasonable assistance to each other to enable them to perform their respective functions and duties, and exercise their respective powers, under this Act.
+(2) In acting under this Act, the Agency, Auckland Transport, and the Auckland Council must work co-operatively with each other and the New Zealand Railways Corporation, the Police, and other organisations that have responsibilities in relation to the Auckland transport system and State highways and railways within Auckland, to help ensure a co-ordinated approach to decision making about Auckland transport.
+(3) In subsection (2), Auckland transport system has the same meaning as in section 37(1) of the Local Government (Auckland Council) Act 2009.
+
+| Auckland Council | section 6(1) of the Local Government (Auckland Council) Act 2009 |
+| --- | --- |
+
+### 34 Maximum levy for financial years after first financial year
+(1) The maximum levy is,—
+  (a) for the second financial year,—
+    (i) if section 43 applies as at the specified date, $16 million; or
+    (ii) if section 43 does not apply as at the specified date, $12 million; and
+  (b) for the third financial year,—
+    (i) if section 43 applies as at the specified date, $19 million; or
+    (ii) if section 43 does not apply as at the specified date, $15 million; and
+  (c) for the fourth financial year and each following financial year, the amount equal to 2% of the revenue from rates of the Auckland Council in the previous financial year.
+(2) In subsection (1), specified date means 30 November in the year immediately before the financial year for which the maximum levy is being calculated.
+
+### 36 Auckland Council to pay levy for financial years after second financial year
+(1) This section applies to the levy notified under section 35(2).
+(2) The Auckland Council must pay the amount of the levy—
+  (a) out of its general revenues; and
+  (b) to the Funding Board; and
+  (c) on the next 1 July after the notification.
+
+### 18 Auckland spatial plan
+(1) To the extent of any inconsistency, this Act prevails over the Auckland spatial plan prepared under section 79 of the Local Government (Auckland Council) Act 2009.
+(2) When adopting or amending the Auckland spatial plan, the Auckland Council must ensure that its provisions are not inconsistent with the purpose of this Act or the objectives.
