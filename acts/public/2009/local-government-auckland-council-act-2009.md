@@ -1,25 +1,35 @@
 # Local Government (Auckland Council) Act 2009
-_Consolidation as at 2009-09-22_
+_Consolidation as at 2010-06-15_
 
 ### 1 Title
 This Act is the Local Government (Auckland Council) Act 2009.
 
 ### 2 Commencement
-(1) Part 2 comes into force on the close of 1 November 2010.
+(1) Part 2 comes into force on 1 November 2010.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
 ## Part 1 — Preliminary provisions
 
-### 3 Purpose of Act
+### 3 Purpose
 The purpose of this Act is—
-  (a) to make further provision for the Auckland Council established under section 9 of the Local Government (Tamaki Makaurau Reorganisation) Act 2009, including setting out the matters in relation to its structure and functions, duties, and powers that differ from the general provisions applying to local authorities under the Local Government Act 2002; and
-  (b) to provide the Local Government Commission with the necessary functions and powers to determine certain matters in relation to the Council; and
-  (c) to amend certain enactments.
+  (a) to establish the Auckland Council as a unitary authority for Auckland; and
+  (b) to set out the matters in relation to the Council's structure and functions, duties, and powers that differ from the general provisions applying to local authorities under the Local Government Act 2002 and certain other enactments; and
+  (c) to provide the Local Government Commission with the necessary functions and powers to determine certain matters in relation to the Council; and
+  (d) to establish arrangements for the management of transport and water supply and wastewater services for Auckland; and
+  (e) to require the Auckland Council to adopt a spatial plan for Auckland; and
+  (f) to establish arrangements to promote issues of significance for mana whenua groups and mataawaka for Tamaki Makaurau; and
+  (g) to set out requirements relating to substantive council-controlled organisations.
 
 ### 4 Interpretation
 (1) In this Act, unless the context requires another meaning,—
   - **Auckland** means the area within the boundaries determined by the Local Government Commission under section 33(1) (as that determination is given effect to by Order in Council under section 35(1))
   - **Auckland Council** or means the unitary authority established under section 6
+  - **Auckland Transport** means the entity established by section 38
+  - **Auckland water organisation** ,—
+    (a) until 1 July 2015, means Watercare Services Limited; and
+    (b) on and after 1 July 2015, means—
+      (i) the Auckland Council (except in section 61); and
+      (ii) a council-controlled organisation of the Auckland Council that provides water supply or wastewater services, or both, in Auckland
   - **governing body** means the entity comprising the members of the Auckland Council (being the persons referred to in section 8(1))
   - **local activities** means the non-regulatory activities of the Auckland Council in respect of which a local board is allocated decision-making responsibility under section 17, including—
     (a) providing services; and
@@ -28,13 +38,35 @@ The purpose of this Act is—
   - **local board** means a local board established under section 10
   - **local board agreement** means an agreement referred to in section 21
   - **local board area** means an area specified by Order in Council under section 35 as a local board area
+  - **local board plan** means the plan referred to in section 20 that each local board is required to adopt
   - **Local Government Commission** means the Local Government Commission continued under section 28 of the Local Government Act 2002
   - **LTCCP** means the Auckland Council long-term council community plan
-  - **mayor** means the mayor of Auckland.
+  - **mana whenua group** means an iwi or hapu that—
+    (a) exercises historical and continuing mana whenua in an area wholly or partly located in Auckland; and
+    (b) is 1 or more of the following in Auckland:
+      (i) a mandated iwi organisation under the Maori Fisheries Act 2004:
+      (ii) a body that has been the subject of a settlement of Treaty of Waitangi claims:
+      (iii) a body that has been confirmed by the Crown as holding a mandate for the purposes of negotiating Treaty of Waitangi claims and that is currently negotiating with the Crown over the claims
+  - **mataawaka** means Māori who—
+    (a) live in Auckland; and
+    (b) are not in a mana whenua group
+  - **mayor** means the mayor of Auckland
+  - **selection body** means the body established by clause 2 of Schedule 2
+  - **substantive council-controlled organisation** —
+    (a) means a council-controlled organisation that is either wholly owned or wholly controlled by the Council and either—
+      (i) is responsible for the delivery of a significant service or activity on behalf of the Council; or
+      (ii) owns or manages assets with a value of more than $10 million; and
+    (b) includes Auckland Transport
+  - **water supply and wastewater services** —and , , and have corresponding meanings.
+    (a) includes both bulk and retail supply and services; but
+    (b) does not include—
+      (i) water supply or wastewater schemes that are independent of a water supply network or waste-water network, as the case may be, within Auckland; or
+      (ii) privately owned water supply or wastewater schemes; or
+      (iii) stormwater drainage services, except to the extent that any stormwater drainage infrastructure is also used for wastewater services under normal dry weather flow conditions—
 (2) Unless the context requires another meaning, terms and expressions used and not defined in this Act, but defined in the Local Government Act 2002, have the same meaning as in that Act.
 
-### 5 Relationship between this Act and Local Government Act 2002 and Local Electoral Act 2001
-If there is any inconsistency between this Act and the Local Government Act 2002, the Local Electoral Act 2001, or any regulations made under those Acts, this Act prevails.
+### 5 Relationship between this Act and Local Government Act 2002, Local Government Act 1974, Local Electoral Act 2001, and Land Transport Management Act 2003
+If there is any inconsistency between this Act and the Local Government Act 2002, the Local Government Act 1974, the Local Electoral Act 2001, the Land Transport Management Act 2003, or any regulations made under those Acts, this Act prevails.
 
 ## Part 2 — Auckland Council
 
@@ -319,7 +351,7 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
     (i) the Mangatawhiri River and Mangatangi Stream catchments must, as far as practicable, be excluded (and consequently included in Waikato district and Waikato region); and
     (ii) that part of Franklin district situated between the Mangatangi Stream catchment and the Firth of Thames must, as far as practicable, be excluded (and consequently included in Waikato region and either Hauraki district or Waikato district); and
   (b) determine all matters arising from the boundary adjustment it is required to make under paragraph (a) (for example, the transfer of responsibilities and assets); and
-  (c) without limiting paragraphs (a) and (b), act in accordance with the Schedule.
+  (c) without limiting paragraphs (a) and (b), act in accordance with Schedule 1.
 (3) In making a determination in relation to the remaining boundaries of Auckland, the Local Government Commission must ensure that, so far as is practicable and consistent with the boundary determined under subsection (2), the boundaries follow the boundaries of the Auckland region.
 (4) For the purposes of making a determination, the Local Government Commission—
   (a) may undertake the investigations and consult the persons that it thinks desirable; but
@@ -328,7 +360,7 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
   (a) some further or other provision is necessary to enable, or better enable, the intention of the determination; or
   (b) some provision of the determination is no longer relevant or appropriate to the intention of the determination.
 (6) If the amendment relates to a map or plan, the Commission may amend the map or plan, without further authority than this subsection, but must give notice of the amendment in the Gazette.
-(7) In this section, section 19, and the Schedule,—
+(7) In this section and Schedule 1,—
   - **Auckland region** means the area described as the Auckland region in the Local Government (Auckland Region) Reorganisation Order 1989 (Gazette 1989, p 2247)
   - **Franklin district** means the area described as the Franklin district in the Local Government (Auckland Region) Reorganisation Order 1989 (Gazette 1989, p 2267)
   - **Hauraki district** means the area described as the Hauraki district in the Local Government (Waikato Region) Reorganisation Order 1989 (Gazette 1989, p 2479)
@@ -389,6 +421,14 @@ The chief executive of the Auckland Council is responsible to the Auckland Counc
 (7) An Order in Council under subsection (1)—
   (a) must be made before 10 April 2010; and
   (b) is not a regulation for the purposes of the Regulations (Disallowance) Act 1989 or the Acts and Regulations Publication Act 1989.
+
+### 35A Local Government (Auckland Wards and Local Boards) Determination 2010 amended
+(1) In this section,—
+  - **determination** means the determination made by the Local Government Commission under section 34
+  - **order** means the Order in Council that made the Local Government (Auckland Wards and Local Boards) Determination 2010 (Gazette, 2010 p 856) and that gives effect to the determination.
+(2) Clauses 4(k), 5(k), 6(r), and 7(18) of the order are amended by omitting Te Irirangi and substituting in each case Howick.
+(3) The amendments made to the order by subsection (2) have effect as if they had been included in the determination.
+(4) To avoid doubt, this section applies subject to sections 13A and 103(3).
 
 ### Subpart 2 — Consequential amendments
 
