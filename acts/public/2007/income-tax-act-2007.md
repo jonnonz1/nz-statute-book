@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-05-28_
+_Consolidation as at 2010-06-30_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -17735,6 +17735,16 @@ Exception modified
   (a) the method they change to or from is Determination G3 under section EW 15E(2)(aa) (Determination alternatives) or an alternative to Determination G3 under section EW 15E(2)(e) (What is included when spreading methods used); and
   (b) that method is available to them to use.
 
+### EZ 63 Disposal and acquisition upon entry
+When this section applies
+(1) This section applies for a life insurer immediately before a day (the application day) that is—
+  (a) 1 July 2010, if the life insurer does not have an early life regime application day; or
+  (b) their early life regime application day, if the life insurer does have an early life regime application day.
+Disposal and acquisition upon entry
+(2) Immediately before the application day, all of the property of a life insurer that supports actuarial reserves for the purposes of the policyholder income formula in section EY 43 (Policyholder income formula) is treated as disposed of, for market value consideration, to a third person, and immediately re-acquired from that person for the same consideration.
+Exclusion
+(3) Property that is an interest in a PIE that is not a listed PIE is excluded from the disposal and re-acquisition described in subsection (2).
+
 ## Part F — Recharacterisation of certain transactions
 
 ### Subpart FA — Recharacterisation of certain commercial arrangements
@@ -32588,6 +32598,16 @@ What this section applies to
   (b) a credit and a debit arising to the CTR account of a company or a consolidated group on or after the first day of their 2008–09 income year, if the credit and debit relate to their 2007–08 or earlier income years.
 Reduction
 (2) The amount of the credit and debit are reduced by multiplying the amount by 30/33.
+
+### OZ 18 Credit-back of PCA balance
+When this section applies
+(1) This section applies for a life insurer immediately before a day (the application day) that is—
+  (a) 1 July 2010, if the life insurer does not have an early life regime application day, or
+  (b) their early life regime application day, if the life insurer does have an early life regime application day.
+Credit-back
+(2) Immediately before the application day,—
+  (a) the credit balance of a life insurer's policyholder credit account is credited as an imputation credit to the life insurer's imputation credit account, and the policyholder credit account is debited accordingly:
+  (b) the credit balance of a consolidated group's policyholder credit account is credited as an imputation credit to the consolidated group's imputation credit account, and the consolidated group's policyholder credit account is debited accordingly.
 
 ## Part R — General collection rules
 
