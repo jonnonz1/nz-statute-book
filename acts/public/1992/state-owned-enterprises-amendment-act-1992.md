@@ -1,5 +1,5 @@
 # State-Owned Enterprises Amendment Act 1992
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-07-01_
 
 > An Act to amend the State-Owned Enterprises Act 1986
 
