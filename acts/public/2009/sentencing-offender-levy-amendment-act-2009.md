@@ -1,5 +1,5 @@
 # Sentencing (Offender Levy) Amendment Act 2009
-_Consolidation as at 2009-10-27_
+_Consolidation as at 2010-07-01_
 
 ### 1 Title
 This Act is the Sentencing (Offender Levy) Amendment Act 2009.
