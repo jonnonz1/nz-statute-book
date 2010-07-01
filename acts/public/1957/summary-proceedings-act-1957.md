@@ -1,5 +1,5 @@
 # Summary Proceedings Act 1957
-_Consolidation as at 2010-06-01_
+_Consolidation as at 2010-07-01_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to summary criminal proceedings in District Courts
 
@@ -934,6 +934,9 @@ Except as otherwise provided in this Act, every fine shall be paid within 28 day
 (1) Where a fine is payable, the Court may make an order doing either or both of the following:
   (a) Allowing a greater time than 28 days for payment:
   (b) Allowing payment to be made by instalments.
+(1A) Where a levy is payable under section 105B of the Sentencing Act 2002, an order made under subsection (1)—
+  (a) must require payment of the levy; and
+  (b) must not result in amounts owed by an offender being paid in a different order of priority to that set out in section 105C of the Sentencing Act 2002.
 (2) Where a fine may be paid by instalments and default is made in the payment of any instalment, proceedings may be taken as if default had been made in the payment of all instalments then remaining unpaid.
 
 ### 82 Statement of means
@@ -951,6 +954,7 @@ Except as otherwise provided in this Act, every fine shall be paid within 28 day
   (b) Either—
     (i) The defendant has no fixed place of residence; or
     (ii) The Court is satisfied that, by reason of the gravity of the offence, the character of the defendant, or other special circumstances, the fine should be paid immediately,—
+(1A) Where a levy is payable under section 105B of the Sentencing Act 2002, an order made under subsection (1) must require payment of the levy at the same time as any other amount payable under the order.
 (2) Where any order under subsection (1) of this section is not complied with, the Court may—
   (a) Direct that a warrant to seize property be issued in the prescribed form; or
   (b) Subject to subsection (3A) of this section, direct that a warrant of commitment be issued in the prescribed form for the imprisonment of the defendant for a period not exceeding the maximum prescribed by section 90 of this Act; or
