@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-07-01_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -10,28 +10,28 @@ _Consolidation as at 2009-07-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **child** means a person under the age of 18 years who is not married or in a civil union or a de facto relationship.
-  - **Dependant** , in relation to any ratepayer, means—
-    (a) A child who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, is a child who ordinarily resides on the property in respect of which the rates are payable and is a child—
-      (i) Whose care is primarily the responsibility of the ratepayer or his or her spouse or partner; and
-      (ii) Who is being maintained as a member of the ratepayer's family; and
-      (iii) Who is financially dependent on the ratepayer or his or her spouse or partner; and
-      (iv) Who is not a person in respect of whom payments were being made under section 363 of the Children, Young Persons, and Their Families Act 1989; or
-    (b) A relative of the ratepayer (other than a child to whom paragraph (a) of this definition applies or the spouse or partner of the ratepayer) by blood, marriage, by or through a civil union or de facto relationship, or by adoption who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable and who, at the commencement of that year, receives a social security benefit under the Social Security Act 1964:
-  - **Income** , in relation to any ratepayer and to any preceding tax year,—
-    (a) Includes all money received by the ratepayer from any source for the use or advantage of the ratepayer; and
-    (b) Includes all money received by the spouse of the ratepayer from any source (being a spouse who is ordinarily resident on the property in respect of which a rebate of rates is applied for under this Act) for the use or advantage of the spouse of the ratepayer; and
-    (c) Includes, in the case of a ratepayer who carries on any business as a self-employed person, the amount that would be the ratepayer's net income in the preceding tax year (within the meaning of the Income Tax Act 2007) if the only income for that year of the ratepayer was derived in carrying on that business; but
-    (d) Does not include—
-      (i) Any capital money received from any source:
-      (ii) Any war widows' pensions or war disablement pension:
-      (iii) Any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 determines is analogous to a payment described in subparagraph (ii) of this paragraph:
-      (iv) Any money received as a grant to meet funeral expenses:
-      (v) Any money paid in respect of any military decoration and received by the recipient of such decoration:
-      (vi) Any family tax credit payable under the Income Tax Act 2007:
-      (vii) Any salary or wages of a person in receipt of a widow's, invalid's, domestic purposes, or related emergency benefit under the Social Security Act 1964 or a war veteran's pension under Part 6 of the War Pensions Act 1954 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension:
+  - **dependant** , in relation to any ratepayer, means—
+    (a) a child who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, is a child who ordinarily resides on the property in respect of which the rates are payable and is a child—
+      (i) whose care is primarily the responsibility of the ratepayer or his or her spouse or partner; and
+      (ii) who is being maintained as a member of the ratepayer's family; and
+      (iii) who is financially dependent on the ratepayer or his or her spouse or partner; and
+      (iv) who is not a person in respect of whom payments were being made under section 363 of the Children, Young Persons, and Their Families Act 1989; or
+    (b) a relative of the ratepayer (other than a child to whom paragraph (a) of this definition applies or the spouse or partner of the ratepayer) by blood, marriage, by or through a civil union or de facto relationship, or by adoption who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable and who, at the commencement of that year, receives a social security benefit under the Social Security Act 1964:
+  - **income** , in relation to any ratepayer and to any preceding tax year,—
+    (a) includes all money received by the ratepayer from any source for the use or advantage of the ratepayer; and
+    (b) includes all money received by the spouse of the ratepayer from any source (being a spouse who is ordinarily resident on the property in respect of which a rebate of rates is applied for under this Act) for the use or advantage of the spouse of the ratepayer; and
+    (c) includes, in the case of a ratepayer who carries on any business as a self-employed person, the amount that would be the ratepayer's net income in the preceding tax year (within the meaning of the Income Tax Act 2007) if the only income for that year of the ratepayer was derived in carrying on that business; but
+    (d) does not include—
+      (i) any capital money received from any source:
+      (ii) any war widows' pensions or war disablement pension:
+      (iii) any pension or periodical allowance or any part thereof received by any person from the Government of any Commonwealth country (other than New Zealand) which the chief executive of the department for the time being responsible for the administration of the Social Security Act 1964 determines is analogous to a payment described in subparagraph (ii) of this paragraph:
+      (iv) any money received as a grant to meet funeral expenses:
+      (v) any money paid in respect of any military decoration and received by the recipient of such decoration:
+      (vi) any family tax credit payable under the Income Tax Act 2007:
+      (vii) aAny salary or wages of a person in receipt of a widow's, invalid's, domestic purposes, or related emergency benefit under the Social Security Act 1964 or a war veteran's pension under Part 6 of the War Pensions Act 1954 or a veteran's pension under the Social Welfare (Transitional Provisions) Act 1990, being salary or wages earned in respect of a period before the date of commencement of that benefit or pension:
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
   - **partner** , in relation to any ratepayer, means the civil union partner or de facto partner of the ratepayer, being a civil union partner or de facto partner who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable.
-  - **Preceding tax year** means the period of 12 months ending with the 31st day of March preceding the commencement of the rating year in respect of which the application is made
+  - **preceding tax year** means the period of 12 months ending with the 31st day of March preceding the commencement of the rating year in respect of which the application is made
   - **property** has the meaning given to the term rating unit by section 5A of the Rating Valuations Act 1998
   - **ratepayer** has the meaning given to that term in section 11 of the Local Government (Rating) Act 2002
   - **rates** , in relation to a residential property, means a general rate or targeted rate or uniform annual general charge that is assessed on the property, but does not include—
@@ -39,22 +39,22 @@ _Consolidation as at 2009-07-01_
     (b) the amount of a discount that is allowed under section 55(3) or section 56(4) of the Local Government (Rating) Act 2002, whether or not the discount has been allowed to the ratepayer in question; or
     (c) the amount of a penalty added under section 57 of the Local Government (Rating) Act 2002; or
     (d) rates for which judgment has been entered in a court.
-  - **Rates rebate** or includes a refund of rates under section 6 of this Act
+  - **rates rebate** or includes a refund of rates under section 6 of this Act
   - **rating year** means a period of 12 months beginning on 1 July
-  - **Residential property** means a rating unit under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made; but does not include any unit that is also used principally for commercial or industrial or business or farming purposes
+  - **residential property** means a rating unit under the Local Government (Rating) Act 2002 that is used as the usual place of residence of the ratepayer at the commencement of the rating year in respect of which an application for a rebate under this Act is made; but does not include any unit that is also used principally for commercial or industrial or business or farming purposes
   - **spouse** , in relation to any ratepayer, means the wife or husband of the ratepayer, being a wife or husband who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002.
 (2) For the purposes of paragraph (c) of the definition of the term income in subsection (1) of this section, any income of any person allowed by any provision of the Income Tax Act 2007 to be spread back or forward or allowed to be apportioned to a financial year earlier or later than that in which it was derived shall be included in the income of that person for the financial year in which it was derived.
 (3) For the purposes of the rating year commencing on the 1st day of July 1990, the expression immediately preceding rating year shall refer—
-  (a) In sections 3(1)(a)(ii) and 4 of this Act, to the period of 12 months ending on the 30th day of June 1990:
-  (b) In section 8(1)(a)(i) and (ii), to the period of 12 months ending on the 31st day of March 1990.
+  (a) in sections 3(1)(a)(ii) and 4 of this Act, to the period of 12 months ending on the 30th day of June 1990:
+  (b) in section 8(1)(a)(i) and (ii), to the period of 12 months ending on the 31st day of March 1990.
 
 ### 3 Rates rebate
 (1) A ratepayer who, at the commencement of a rating year was the ratepayer of a residential property is entitled, on application in that year, to a rebate of—whichever amount is the less.
-  (a) So much of the rates payable for that rating year in respect of the property as represents—
-    (i) Two-thirds of the amount by which those rates exceed $160, reduced by
-    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $21,910, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
-  (b) $550,—
+  (a) so much of the rates payable for that rating year in respect of the property as represents—
+    (i) two-thirds of the amount by which those rates exceed $160, reduced by
+    (ii) $1 for each $8 by which the ratepayer's income for the preceding tax year exceeded $22,340, that last-mentioned amount being increased by $500 in respect of each person who was a dependant of the ratepayer at the commencement of the rating year in respect of which the application is made; or
+  (b) $570,—
 (1A) A ratepayer who, at the commencement of a rating year, was the ratepayer of a residential property, and later during that year becomes the ratepayer of another residential property, is entitled to a rates rebate under subsection (1). The amount of the rebate must be apportioned according to the amount of time the ratepayer was the ratepayer of each residential property during the rating year.
 (2) The Governor-General may from time to time, by Order in Council, amend the provisions of subsection (1) of this section by substituting any amount for any amount specified in that subsection.
 
@@ -68,34 +68,34 @@ _Consolidation as at 2009-07-01_
 (3) Every such application shall be made on a form provided for the purpose by the Secretary for Local Government, shall be verified by the declaration of the applicant, and shall be left at the public office of the territorial authority or sent by post addressed to that office.
 (4) Where the amount of any water charges payable to the territorial authority, or of any rates payable to a local authority other than the territorial authority, in respect of the property for the rating year in which the application is made is not known at the time when the application is made, then, for the purpose of determining the amount of the rebate to which the ratepayer is entitled, the amount of those water charges or rates, as the case may be, payable in respect of the property for the rating year shall be deemed to be the same amount as the amount that was payable for the immediately preceding rating year.
 (5) Where application is made to a territorial authority under subsection (2) of this section, and the chief executive of the territorial authority or other officer authorised by him for the purpose is satisfied that the application has been properly completed,—
-  (a) A rebate of rates shall be granted to the applicant of the amount to which he is entitled on the basis of the information contained in his application; and
-  (b) The amount of that rebate shall be deducted from the total amount of the rates due and payable to that territorial authority in respect of the property for the rating year in which the application is made; and
-  (c) The amount then remaining shall be deemed to be the amount of the rates payable in respect of the property to the territorial authority for that rating year:
+  (a) a rebate of rates shall be granted to the applicant of the amount to which he is entitled on the basis of the information contained in his application; and
+  (b) the amount of that rebate shall be deducted from the total amount of the rates due and payable to that territorial authority in respect of the property for the rating year in which the application is made; and
+  (c) the amount then remaining shall be deemed to be the amount of the rates payable in respect of the property to the territorial authority for that rating year:
   Provided that the amount of a penalty added under section 57 of the Local Government (Rating) Act 2002 must be calculated as if the rebate had not been granted.
 (6) The chief executive of the territorial authority or other authorised officer shall not be under any obligation to verify the accuracy of any statement as to his income or the income of any other person or as to the occupancy of the property made by any ratepayer in his application for a rebate.
 
 ### 6 Applications for refunds of rates paid
 (1) Notwithstanding anything in section 5 of this Act, a ratepayer in respect of any residential property may, instead of claiming from the territorial authority a rates rebate for any year under the said section 5, pay the rates in full and apply under subsection (2) of this section for a refund of the amount that he would have been entitled to receive by way of rebate for that year in respect of those rates in accordance with section 3 of this Act if application for a rebate had been made under section 5 of this Act.
 (2) Every application under this section shall—
-  (a) Be made on a form provided for the purpose by the Secretary for Local Government; and
-  (b) Be verified by the declaration of the applicant; and
-  (c) Be accompanied by the receipts for the rates in respect of which the refund is claimed; and
-  (d) Be left at the public office of the territorial authority in whose district the property is situated (whether the rates are payable to that territorial authority or to any other local authority), or sent by post addressed to that office.
+  (a) be made on a form provided for the purpose by the Secretary for Local Government; and
+  (b) be verified by the declaration of the applicant; and
+  (c) be accompanied by the receipts for the rates in respect of which the refund is claimed; and
+  (d) be left at the public office of the territorial authority in whose district the property is situated (whether the rates are payable to that territorial authority or to any other local authority), or sent by post addressed to that office.
 (3) Section 5(4) of this Act shall apply with respect to any application for a refund made under this section.
 (4) Where application for a refund is made under this section and the chief executive of the territorial authority or other officer authorised by the chief executive is satisfied that the application has been properly completed, the chief executive or authorised officer must grant the application and pay to the ratepayer the amount of the refund to which the ratepayer is entitled.
 
 ### 7 Refund to owner of owner-occupier flat of contribution towards rates
 (1) Where the owner of an owner-occupier flat contributes an amount towards the outgoings payable in respect of the property of which the flat forms part, he may apply under subsection (2) of this section for a refund of such part of the amount of that contribution as is made in respect of the rates payable in respect of that property as he would be entitled to receive by way of rebate under section 3 of this Act if—
-  (a) The flat was separately rated and he was the ratepayer in respect thereof; and
-  (b) So much of the amount of his contribution in any rating year as was made in respect of rates was the amount of the rates payable in respect of the flat for that rating year.
+  (a) the flat was separately rated and he was the ratepayer in respect thereof; and
+  (b) so much of the amount of his contribution in any rating year as was made in respect of rates was the amount of the rates payable in respect of the flat for that rating year.
 (2) Every application under this section shall—
-  (a) Be made on a form provided for the purpose by the Secretary for Local Government; and
-  (b) Be verified by the declaration of the applicant; and
-  (c) Be accompanied by a certificate in writing signed by the person appearing in the rate records as the occupier of the rateable property of which the owner-occupier flat forms part and specifying—
-    (i) The total amount of the rates payable in respect of that rateable property for the rating year; and
-    (ii) The amount contributed by the applicant in respect of those rates, or, where no part of the annual contribution made by the applicant was specifically made in respect of rates, the amount of that contribution and the total amount of the annual contributions made by all the owners of owner-occupier flats on the property; and
-    (iii) That the contribution made by the applicant was made pursuant to a written agreement entered into between him and the person appearing in the rate records as the occupier of the rateable property of which the owner-occupier flat forms part before the applicant entered into possession of the flat, or pursuant to a written agreement made by a predecessor in title of the applicant and binding on the applicant; and
-  (d) Be left at the public office of the territorial authority in whose district the property is situated (whether the rates are payable to that territorial authority or to any other local authority), or sent by post addressed to that office.
+  (a) be made on a form provided for the purpose by the Secretary for Local Government; and
+  (b) be verified by the declaration of the applicant; and
+  (c) be accompanied by a certificate in writing signed by the person appearing in the rate records as the occupier of the rateable property of which the owner-occupier flat forms part and specifying—
+    (i) the total amount of the rates payable in respect of that rateable property for the rating year; and
+    (ii) the amount contributed by the applicant in respect of those rates, or, where no part of the annual contribution made by the applicant was specifically made in respect of rates, the amount of that contribution and the total amount of the annual contributions made by all the owners of owner-occupier flats on the property; and
+    (iii) that the contribution made by the applicant was made pursuant to a written agreement entered into between him and the person appearing in the rate records as the occupier of the rateable property of which the owner-occupier flat forms part before the applicant entered into possession of the flat, or pursuant to a written agreement made by a predecessor in title of the applicant and binding on the applicant; and
+  (d) be left at the public office of the territorial authority in whose district the property is situated (whether the rates are payable to that territorial authority or to any other local authority), or sent by post addressed to that office.
 (3) Where no part of the annual contribution made by an applicant in respect of outgoings on the property of which his owner-occupier flat forms part is specifically made in respect of rates, then, for the purposes of this section the applicant shall be deemed to have contributed in respect of rates an amount that bears to the total amount of rates payable in respect of the property the same proportion as the amount of his contribution bears to the total amount of the contributions of all the owners of owner-occupier flats on the property.
 (4) The provisions of subsection (4) of section 5 of this Act shall apply with respect to any application for a refund made under this section.
 (5) Where application for a refund is made under this section and the chief executive of the territorial authority or other officer authorised by the chief executive for the purpose is satisfied that the application has been properly completed, the chief executive or authorised officer must grant the application and pay to the ratepayer the amount of the refund to which the ratepayer is entitled.
