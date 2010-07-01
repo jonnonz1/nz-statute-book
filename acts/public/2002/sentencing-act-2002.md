@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2010-06-01_
+_Consolidation as at 2010-07-01_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -244,6 +244,7 @@ In sentencing or otherwise dealing with an offender the court—
 
 ### 12 Reparation
 (1) If a court is lawfully entitled under Part 2 to impose a sentence of reparation, it must impose it unless it is satisfied that the sentence would result in undue hardship for the offender or the dependants of the offender, or that any other special circumstances would make it inappropriate.
+(1A) When considering undue hardship or other special circumstances under subsection (1), a court must not take into account that the offender is required to pay a levy under section 105B.
 (2) A sentence of reparation may be imposed, in relation to any particular offence, on its own or in addition to any other sentence.
 (3) If a court does not impose a sentence of reparation in a case where it is lawfully entitled to do so, it must give reasons for not doing so.
 
@@ -514,6 +515,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
   (b) payment by instalments in respect of the loss, damage, or harm; or
   (c) both (a) and (b).
 (2) If the court imposes on an offender a sentence of reparation and a sentence of a fine, any payments received from the offender must be applied first in satisfaction of the amount due under the sentence of reparation.
+(3) Subsection (2) is subject to section 105C.
 
 ### 36 Conditions of sentence of reparation
 (1) If a court sentences an offender to make reparation, the court must determine the conditions of the sentence in respect of the following matters:
@@ -548,6 +550,7 @@ No sentence of any kind may be imposed cumulatively on an indeterminate sentence
 (2) Subsection (1) applies whether taking into account the financial capacity of the offender has the effect of increasing or reducing the amount of the fine.
 (3) If under an enactment an offender is liable to a fine of a specified amount, the offender may be sentenced to pay a fine of any less amount, unless a minimum fine is expressly provided for by that enactment.
 (4) If a court imposes a fine in addition to a sentence of reparation, it must, in fixing the amount of the fine, take into account the amount payable under the sentence of reparation.
+(5) When considering the financial capacity of the offender under subsection (1), the court must not take into account that the offender is required to pay a levy under section 105B.
 
 ### 41 Financial capacity of offender
 (1) If the court considers that a fine of less than $100 may be an appropriate sentence, it may assume that the offender has the means to pay the fine unless evidence is presented to the contrary.
@@ -1985,6 +1988,54 @@ A provision contained in sections 86B to 86E that is inconsistent with another p
 ### 105 Appeal against imposition of minimum period of imprisonment
 For the purposes of Part 13 of the Crimes Act 1961, an order under section 103 is a sentence.
 
+### Subpart 4A — Offender levy and victims' services bank account
+
+### 105A Interpretation
+For the purposes of this subpart, unless the context otherwise requires,—
+  - **account** means the Crown bank account known as the victims' services bank account established under section 105G
+  - **approved agency** means an organisation for the time being approved by the Secretary under section 105J
+  - **Secretary** means the Secretary for Justice; and includes a person or body authorised by the Secretary to exercise or perform his or her functions, powers, and duties under this Act.
+
+### 105B Offender to pay levy
+(1) This section applies to an offender who has been convicted of an offence.
+(2) On being sentenced or otherwise dealt with by a court in relation to 1 or more offences, the offender must pay a levy.
+(3) The levy is not a sentence and is in addition to any sentence.
+
+### 105C Priority of payments received from offender
+If the court imposes or has previously imposed on an offender a sentence or an order of reparation or a sentence of a fine, or both, any payments received from the offender must be applied in the following order of priority:
+  (a) in payment of the amount due under any sentence or order of reparation:
+  (b) in payment of the offender levy:
+  (c) in payment of any fine.
+
+### 105D Amount of levy
+The amount of the levy payable under section 105B is $50 unless regulations made under section 147 prescribe otherwise.
+
+### 105E Payment of levy
+An offender must pay the levy to the Secretary, who must pay the levy into the account.
+
+### 105F Distribution of money in account
+The Secretary may, from time to time, pay to an approved agency any amount of money from money that is held in the account.
+
+### 105G Victims' services bank account
+The Secretary must, for the purposes of this subpart, establish through the Treasury a separate Crown bank account to be known as the victims' services bank account.
+
+### 105H Payments from, and other operation of, account
+The Secretary must ensure that money is paid out of the account, and that the account is otherwise operated, only as permitted or required by this subpart or by regulations made under section 105I.
+
+### 105I Regulations on operation of account
+The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+  (a) providing for the circumstances and manner in which money may or must be paid out of the account:
+  (b) providing for the manner in which, and the conditions subject to which, the Secretary may or must otherwise operate the account.
+
+### 105J Approval of agency
+(1) The Secretary may approve an organisation as an approved agency for the purposes of this subpart.
+(2) Before approving an organisation as an approved agency, the Secretary must be satisfied that—
+  (a) the organisation has as one of its roles providing services to victims of crime; and
+  (b) any amount paid to the organisation under section 105F will be applied to provide services to victims of crime; and
+  (c) the organisation has members with the knowledge, experience, and skills to provide services to victims of crime; and
+  (d) the organisation has in place administrative arrangements that will enable money received by the organisation to be accounted for.
+(3) The Secretary may at any time, by notice in writing to an organisation approved under subsection (1), revoke that approval if the Secretary is no longer satisfied of the matters set out in subsection (2) or of any other matters that the Secretary considers relevant.
+
 ### Subpart 5 — Discharge and miscellaneous orders
 
 **Discharge**
@@ -2088,7 +2139,7 @@ The court must not convict and discharge an offender unless it is satisfied that
 (3) If it is not practicable to give a copy of the order to the offender before the offender leaves the court, a copy must be given to the offender in person as soon as practicable after the offender leaves the court.
 (4) A copy of the order must be given to—
   (a) the chief executive of the Department of Corrections; and
-  (b) the officer in charge of the Police station nearest to the court in which the order was made.
+  (b) the constable in charge of the Police station nearest to the court in which the order was made.
 
 ### 116 Right of appeal against non-association order
 For the purposes of Part 4 of the Summary Proceedings Act 1957 and Part 13 of the Crimes Act 1961, a non-association order is a sentence.
@@ -2144,6 +2195,63 @@ If an offender who is subject to a non-association order (whether or not it is c
 (1) Section 72 applies, with any necessary modifications, to every application under section 121.
 (2) Before determining the application, the court may make any inquiries as to the circumstances of the case that the court considers reasonable, and may hear any evidence relevant to those circumstances.
 (3) If the court varies or cancels the non-association order, the Registrar must give written notice of the decision to the chief executive of the Department of Corrections and the constable in charge of the Police station nearest to the court.
+
+**Protection orders**
+
+### 123A Interpretation of terms used in this section and sections 123B to 123G
+In this section and sections 123B to 123G, unless the context otherwise requires,—
+  - **child** has the meaning given to it by section 2 of the Domestic Violence Act 1995
+  - **domestic relationship** has the meaning given to it by section 4 of the Domestic Violence Act 1995
+  - **domestic violence offence** means an offence against any enactment (other than the Domestic Violence Act 1995) involving the use of violence against a person, other than a child, with whom the offender is, or has been, in a domestic relationship
+  - **domestic violence proceedings** means proceedings in a Family Court or a District Court under the Domestic Violence Act 1995 that relate wholly or partly to an application for a protection order
+  - **victim of the offence** means the person against whom the offence was committed by the offender
+  - **violence** has the meaning given to it by section 3(2), (4), and (5) of the Domestic Violence Act 1995.
+
+### 123B Protection order
+(1) This section applies if—
+  (a) an offender is convicted of a domestic violence offence; and
+  (b) there is not currently in force a protection order against the offender made under the Domestic Violence Act 1995 for the protection of the victim of the offence.
+(2) The court may make a protection order against the offender if—
+  (a) it is satisfied that the making of the order is necessary for the protection of the victim of the offence; and
+  (b) the victim of the offence does not object to the making of the order.
+(3) A protection order may be made under this section in addition to imposing a sentence or making any other order.
+(4) An order may be made under subsection (2) even though domestic violence proceedings have been filed by the victim of the offence against the offender, and those proceedings have not yet been determined.
+(5) If an order is made under subsection (2) in the circumstances described in subsection (4), the domestic violence proceedings, in so far as they relate to an application for a protection order against the offender, end.
+
+### 123C Provisions applying to protection order made under section 123B
+(1) Subject to the modifications set out in subsection (2), the following provisions apply so far as applicable to a protection order made under section 123B as if that order were a final protection order made under the Domestic Violence Act 1995:
+  (a) sections 16(1), 19 (except subsection (3)), 20 (except subsection (5)), 21 (except subsections (2)(a), (4), and (5)), 24(3), 25(1) (except paragraph (a)), 26(1), 28 (except subsection (6)), 32(1) and (4), and 33 of the Domestic Violence Act 1995; and
+  (b) section 27 of the Domestic Violence Act 1995, except that the court may not impose a condition relating to the matters set out in subsection (2) of that section.
+(2) The modifications referred to in subsection (1) are as follows:
+  (a) every reference to protection order or final order must be read as a reference to an order made under section 123B:
+  (b) every reference to the respondent must be read as a reference to the offender:
+  (c) every reference to the applicant or protected person must be read as a reference to the victim of the offence.
+
+### 123D Explanation of protection order
+(1) On making a protection order, the Judge or Registrar must explain to the offender—
+  (a) the effect of—
+    (i) the order; and
+    (ii) any direction to attend a programme made under section 32 of the Domestic Violence Act 1995 (as applied by section 123C(1)(a)); and
+  (b) the consequences that may follow if the offender fails to—
+    (i) comply with the terms of the order; or
+    (ii) attend any session of a programme that he or she has been directed to attend; and
+  (c) the means by which the order can be varied or discharged.
+(2) Failure to give the explanation required by subsection (1) does not affect the validity of the order made.
+
+### 123E Protection order to be issued and served on offender
+(1) Where the court makes a protection order under section 123B, the Registrar of that court must—
+  (a) immediately issue the order; and
+  (b) wherever practicable, serve a copy of the order on the offender before he or she leaves the court.
+(2) For the purpose of subsection (1), the court may direct that the offender be detained in the custody of the court for a period, not exceeding 2 hours, that may be necessary to enable the order to be issued and a copy served on the offender.
+
+### 123F Protection order to be sent to Family Court
+(1) Immediately after the issue of a protection order in accordance with section 123E, the court must send a copy of the order to the Family Court nearest to where the victim of the offence resides.
+(2) On receipt of a copy of an order under subsection (1), the Registrar of the Family Court must enter the order in the records of the Family Court.
+
+### 123G Protection order treated as if made by Family Court
+As soon as an order has been entered in the records of the Family Court under section 123F(2),—
+  (a) the order is to be treated as if it were a final protection order made by that court under the Domestic Violence Act 1995; and
+  (b) sections, 22(2)(b) and (6), 23, 29 to 31, 34, 35, 38 to 44, 45(2), 46(1), 47(1), 48 to 50, 82, and 88 to 95 of the Domestic Violence Act 1995 apply to the order accordingly.
 
 **Disqualification from driving**
 
@@ -2247,7 +2355,7 @@ If an offender is disqualified from holding or obtaining a driver licence by an 
   (b) on a person who the court is satisfied—
     (i) did not own or have an interest in the motor vehicle at the material time; or
     (ii) is a party to an encumbrance relating to the motor vehicle but has no relationship of another kind with the offender.
-(4) On any 1 occasion, a court may only order that 1 written caution is to be served on each recipient described in subsection (2), regardless of the number of convictions entered against the offender.
+(4) On any one occasion, a court may only order that 1 written caution is to be served on each recipient described in subsection (2), regardless of the number of convictions entered against the offender.
 (5) A written caution must provide the following information:
   (a) the name and identifying details of the offender:
   (b) the relevant convictions against the offender:
@@ -2641,8 +2749,14 @@ Nothing in this Act limits or affects the Royal prerogative of mercy.
 ### 145 Enforcement of payment of amounts under sentence of reparation, reparation orders, etc
 (1) This section applies to—
   (a) any amount that is required to be paid under a sentence of reparation; or
-  (b) any amount that is required to be paid under any order made under section 106, section 108, or section 110.
+  (b) any amount that is required to be paid under any order made under section 106, section 108, or section 110; or
+  (c) the amount of any levy payable under section 105B.
 (2) Part 3 of the Summary Proceedings Act 1957 or (as the case may require) sections 19 to 19F of the Crimes Act 1961 apply with all necessary modifications as if the amount to be paid were a fine.
+(2A) However, if the only amount payable is the levy,—
+  (a) Part 3 of the Summary Proceedings Act 1957 applies (even if sections 19 and 19B to 19F of the Crimes Act 1961 would be applicable); but
+  (b) sections 83(2)(a) and (b), 87(1)(a), and 88 of the Summary Proceedings Act 1957 do not apply and the following references must be read as follows:
+    (i) the reference in section 88B(1)(a) to the amount of $25 must be read as a reference to the amount of the levy (being $50 or any other amount that may be prescribed by regulation); and
+    (ii) the reference in section 88B(1)(b) to 3 years must be read as a reference to 1 year.
 (3) The remission of the whole or any part of the amount required to be paid under a sentence of reparation does not affect the right of the person who suffered the harm, loss, or damage to bring civil proceedings, or make claims under any accident compensation legislation applicable at the time of the offending, to recover the amount so remitted.
 
 ### 145A Manner in which amounts of reparation must be applied in cases involving same offence
@@ -2693,6 +2807,7 @@ The Governor-General may from time to time, by Order in Council, make regulation
   (a) prescribing forms for the purposes of this Act:
   (b) prescribing the procedure for recording changes to registration details of a motor vehicle when an order for confiscation of a vehicle is made:
   (c) prescribing offences in respect of the contravention of, or non-compliance with, any regulations made under this Act and the amounts of fines that may be imposed in respect of those offences, which fines must not exceed $500:
+  (ca) prescribing the amount of the levy payable under section 105B:
   (d) generally providing for any other matters that are contemplated by, or necessary for giving full effect to, this Act, and for its due administration.
 
 **Transitional and savings provisions**
@@ -2886,10 +3001,53 @@ The enactments set out in Schedule 2 are repealed.
 ## Schedule 2 — Enactments repealed
 
 ### 1 Title
+This Act is the Sentencing Amendment Act 2007.
+
+### 2 Commencement
+This Act comes into force on a day to be appointed by the Governor-General by Order in Council, and 1 or more orders may be made bringing different provisions into force on different dates.
+
+**Transitional provisions**
+
+### 55 Transitional arrangements for intensive supervision
+If an offender is convicted of an offence committed before the commencement of section 54B, the court may sentence the offender to intensive supervision if—
+  (a) the court would have had the power to sentence the offender to supervision if it were dealing with the offence immediately before that date; and
+  (b) the requirements of sections 54B and 54C are satisfied; and
+  (c) the offender consents to the imposition of intensive supervision.
+
+### 56 Transitional arrangements for community detention
+If an offender is convicted of an offence committed before the commencement of section 69B, the court may sentence the offender to community detention if—
+  (a) the court would have had the power to sentence the offender to a community-based sentence if it were dealing with the offence immediately before that date; and
+  (b) the requirements of sections 69B and 69C are satisfied; and
+  (c) the offender consents to the imposition of community detention.
+
+### 57 Transitional arrangements for home detention
+If an offender is convicted of an offence committed before the commencement of section 80A, the court may sentence the offender to home detention if—
+  (a) the court would have had the power to sentence the offender to imprisonment if it were dealing with the offence immediately before that date; and
+  (b) the requirements of section 80A are satisfied; and
+  (c) the offender consents to the imposition of home detention.
+
+### 1 Title
+This Act is the Sentencing Amendment Act 2009.
+
+### 2 Commencement
+This Act comes into force on 1 December 2009.
+
+### 4 Purpose
+The purpose of this Act is to establish a regime for the forfeiture of instruments of crime as part of the sentencing process.
+
+### 5 Application
+The amendments made to the Sentencing Act 2002 by this Act apply in respect of qualifying instrument forfeiture offences committed, or believed to have been committed, before, on, or after the commencement of this Act.
+
+### 1 Title
 This Act is the Sentencing (Vehicle Confiscation) Amendment Act 2009.
 
 ### 2 Commencement
 This Act comes into force on 1 December 2009.
+
+### 4 Purpose
+The purpose of this Act is to reduce traffic offending by—
+  (a) strengthening the powers of the courts to order the confiscation of motor vehicles:
+  (b) empowering the courts to order the destruction of motor vehicles used by persistent illegal street racing offenders.
 
 ### 21 Transitional provisions
 (1) Sections 129A, 129B, and 129F of the principal Act, as inserted by section 7 of this Act, do not apply in respect of any offence (whether described in those sections as a first offence, second offence, current offence, previous offence, or in any other way) committed before the commencement of section 7.
@@ -2904,6 +3062,11 @@ This Act is the Sentencing and Parole Reform Act 2010.
 ### 2 Commencement
 (1) This Act comes into force on the day after the date on which it receives the Royal assent.
 (2) Despite subsection (1), section 17(2) comes into force on the commencement of section 49 of the Parole Amendment Act 2007.
+
+### 3 Purpose
+The purpose of this Act is to—
+  (a) deny parole to certain repeat offenders and to offenders guilty of the worst murders:
+  (b) impose maximum terms of imprisonment on persistent repeat offenders who continue to commit serious violent offences.
 
 ### 12 Transitional provision
 (1) Sections 86A to 86I of the principal Act (as inserted by section 6) do not apply to any offence committed, whether in whole or in part, before the commencement of this Act.
