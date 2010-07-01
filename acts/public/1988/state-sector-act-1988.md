@@ -1,7 +1,7 @@
 # State Sector Act 1988
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-01_
 
-> An Act—aTo ensure that employees in the State services are imbued with the spirit of service to the community; andbTo promote efficiency in the State services and other agencies; andcTo ensure the responsible management of the State services; anddTo maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeTo ensure that every employer in the State services is a good employer; andfTo promote equal employment opportunities in the State services; andgTo provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhTo repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
+> An Act—ato ensure that employees in the State services are imbued with the spirit of service to the community; andbto promote efficiency in the State services and other agencies; andcto ensure the responsible management of the State services; anddto maintain appropriate standards of integrity and conduct among employees in the State services and other agencies; andeto ensure that every employer in the State services is a good employer; andfto promote equal employment opportunities in the State services; andgto provide for the negotiation of conditions of employment in the State services and assistance to other agencies on conditions of employment; andhto repeal the State Services Act 1962, the State Services Conditions of Employment Act 1977, and the Health Service Personnel Act 1983
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the State Sector Act 1988.
@@ -10,31 +10,28 @@ _Consolidation as at 2008-10-01_
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
   - **agency** does not include an agency in the private sector
-  - **Applicable collective agreement** means the collective agreement that is binding on the relevant union and employer, at the relevant point of time in relation to an employee of the employer who is a member of the union.
-  - **Applicable collective employment contract**
-  - **Appropriate Minister** , in relation to a Department, means—
-    (a) The Minister responsible for the Department; or
-    (b) Where 2 or more Ministers are responsible for different functions of a Department, the Minister responsible for the relevant function of the Department:
-  - **Chief executive** ,—
-    (a) In relation to a Department, means, subject to section 44 of this Act, the person holding office under section 31 of this Act, as the chief executive of the Department:
-    (b) In relation to a tertiary education institution, means the person appointed as the chief executive of the institution:
-  - **Collective agreement** means an employment agreement that is binding on 1 or more employers and 2 or more employees
-  - **Collective employment contract**
-  - **College of education**
+  - **applicable collective agreement** means the collective agreement that is binding on the relevant union and employer, at the relevant point of time in relation to an employee of the employer who is a member of the union.
+  - **appropriate Minister** , in relation to a Department, means—
+    (a) the Minister responsible for the Department; or
+    (b) where 2 or more Ministers are responsible for different functions of a Department, the Minister responsible for the relevant function of the Department:
+  - **chief executive** ,—
+    (a) in relation to a Department, means, subject to section 44 of this Act, the person holding office under section 31 of this Act, as the chief executive of the Department:
+    (b) in relation to a tertiary education institution, means the person appointed as the chief executive of the institution:
+  - **collective agreement** means an employment agreement that is binding on 1 or more employers and 2 or more employees
   - **Commission** means the State Services Commission
   - **Commissioner** means the State Services Commissioner appointed under section 3 of this Act
-  - **Conditions of employment** —
-    (a) Includes remuneration; but
-    (b) Does not include—
-      (i) Allowances payable to employees serving outside New Zealand; or
-      (ii) Other conditions of service of employees serving outside New Zealand:
+  - **conditions of employment** —
+    (a) includes remuneration; but
+    (b) does not include—
+      (i) allowances payable to employees serving outside New Zealand; or
+      (ii) other conditions of service of employees serving outside New Zealand:
   - **Crown entity** —
     (a) means a Crown entity within the meaning of section 7 of the Crown Entities Act 2004; but
     (b) does not include a tertiary education institution or a Crown Research Institute or any of their subsidiaries
   - **Crown Research Institute** means a Crown Research Institute formed under the Crown Research Institutes Act 1992, or a Crown entity subsidiary of a Crown Research Institute (within the meaning of Part 1 of the Crown Entities Act 2004)
   - **Department** means any Department specified in Schedule 1 to this Act
-  - **Deputy Commissioner** means the Deputy State Services Commissioner appointed under section 12 of this Act
-  - **Education service** means—
+  - **Deputy Commissioner** means the Deputy State Services Commissioner appointed under 1section 2 of this Act
+  - **education service** means—
     (a) service in the employment of—
       (i) any state school; or
       (ii) any integrated school within the meaning of the Private Schools Conditional Integration Act 1975; or
@@ -42,51 +39,45 @@ In this Act, unless the context otherwise requires,—
       (iv) any other educational institution for which a separate employer for the purposes of this Act is designated by any enactment or by the Minister:
     (b) service as a registered teacher in the employment of any free kindergarten association that controls a free kindergarten within the meaning of section 120 of the Education Act 1989
     (c) service as a teacher in the employment of the Secretary under section 91N of the Education Act 1989.
-  - **Employee** , in relation to the State services,—
-    (a) Means an employee in any part of the State services, whether paid by salary, wages, or otherwise; but
-    (b) Does not include—
-      (i) Any chief executive; or
+  - **employee** , in relation to the State services,—
+    (a) means an employee in any part of the State services, whether paid by salary, wages, or otherwise; but
+    (b) does not include—
+      (i) any chief executive; or
       (ii)
-  - **Employer** ,—
-    (a) In relation to any institution that is subject to Part 9 of the Education Act 1989, means—
-      (i) The Board of Trustees; or
-      (ii) Where a Commissioner has been appointed under the Education Act 1989 to act in place of the Board of Trustees, that Commissioner:
+  - **employer** ,—
+    (a) in relation to any institution that is subject to Part 9 of the Education Act 1989, means—
+      (i) the Board of Trustees; or
+      (ii) where a Commissioner has been appointed under the Education Act 1989 to act in place of the Board of Trustees, that Commissioner:
     (b) in relation to any free kindergarten within the meaning of section 120 of the Education Act 1989, means the free kindergarten association by which that free kindergarten is controlled:
-    (c) In relation to any tertiary education institution, means the chief executive of that institution:
-    (d) In relation to any other institution, means—
-      (i) The person or body designated by any enactment as the employer for the purposes of this Act in respect of that institution; and
-      (ii) Where no such person or body is so designated, means any person or body designated for that purpose by the Minister:
+    (c) in relation to any tertiary education institution, means the chief executive of that institution:
+    (d) in relation to any other institution, means—
+      (i) the person or body designated by any enactment as the employer for the purposes of this Act in respect of that institution; and
+      (ii) where no such person or body is so designated, means any person or body designated for that purpose by the Minister:
     (e) in relation to the employment of a person as a teacher under section 91N of the Education Act 1989, means the Secretary (as defined in section 2(1) of that Act).
-  - **Employment agreement** means a contract of service
-  - **Employment contract**
-  - **Health Service**
-  - **Individual employment agreement** means an employment agreement that is binding on only 1 employer and 1 employee who is not bound by a collective agreement that binds the employer
-  - **Individual employment contract**
-  - **Lockout** has the meaning given to it by section 82 of the Employment Relations Act 2000
+  - **employment agreement** means a contract of service
+  - **individual employment agreement** means an employment agreement that is binding on only 1 employer and 1 employee who is not bound by a collective agreement that binds the employer
+  - **lockout** has the meaning given to it by section 82 of the Employment Relations Act 2000
   - **medical practitioner** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine.
   - **Minister** means the Minister of State Services
-  - **Polytechnic**
   - **Public Service** means the Public Service as defined in section 27 of this Act
-  - **Remuneration** includes—
-    (a) Salary, wages, and other payments, whether in the form of bonuses or otherwise, in return for services; and
-    (b) Benefits and other emoluments (whether in money or not) in return for services:
-  - **Senior executive service**
-  - **State services** —
-    (a) Means all instruments of the Crown in respect of the Government of New Zealand, whether Departments, corporations, agencies, or other instruments; and
+  - **remuneration** includes—
+    (a) salary, wages, and other payments, whether in the form of bonuses or otherwise, in return for services; and
+    (b) benefits and other emoluments (whether in money or not) in return for services:
+  - **state services** —
+    (a) means all instruments of the Crown in respect of the Government of New Zealand, whether Departments, corporations, agencies, or other instruments; and
     (ab) includes a Crown entity; and
     (ac) includes a Crown Research Institute; and
-    (b) Includes the Education service; but
-    (c) Does not include—
-      (i) The Governor-General; or
-      (ii) Any member of the Executive Council; or
-      (iii) Any Minister of the Crown; or
-      (iv) Any member of Parliament; or
-      (v) Any corporation listed in Schedule 1 to the State-Owned Enterprises Act 1986; or
+    (b) includes the Education service; but
+    (c) does not include—
+      (i) the Governor-General; or
+      (ii) any member of the Executive Council; or
+      (iii) any Minister of the Crown; or
+      (iv) any member of Parliament; or
+      (v) any corporation listed in Schedule 1 to the State-Owned Enterprises Act 1986; or
       (vi) any tertiary education institution
-  - **Strike** has the meaning given to it by section 81 of the Employment Relations Act 2000
+  - **strike** has the meaning given to it by section 81 of the Employment Relations Act 2000
   - **tertiary education institution** means an institution within the meaning of section 159(1) of the Education Act 1989
-  - **Union** means a union registered under Part 4 of the Employment Relations Act 2000
-  - **University**
+  - **union** means a union registered under Part 4 of the Employment Relations Act 2000
 
 ## Part 1 — State Services Commissioner
 
@@ -107,16 +98,16 @@ The principal functions of the Commissioner are—
     (i) the allocation of functions to and between departments and other agencies; and
     (ii) the desirability of, or need for, the creation of new departments and other agencies and the amalgamation or abolition of existing departments and other agencies; and
     (iii) the co-ordination of the activities of departments and other agencies:
-  (b) To review the performance of each Department, including the discharge by the chief executive of his or her functions:
-  (c) To appoint chief executives of departments and to negotiate their conditions of employment:
+  (b) to review the performance of each Department, including the discharge by the chief executive of his or her functions:
+  (c) to appoint chief executives of departments and to negotiate their conditions of employment:
   (d) to promote and develop senior leadership and management capability for the Public Service:
-  (e) To negotiate conditions of employment of employees in the Public Service:
-  (f) To promote and develop personnel policies and standards of personnel administration for the Public Service:
-  (g) To promote, develop, and monitor equal employment opportunities policies and programmes for the Public Service:
+  (e) to negotiate conditions of employment of employees in the Public Service:
+  (f) to promote and develop personnel policies and standards of personnel administration for the Public Service:
+  (g) to promote, develop, and monitor equal employment opportunities policies and programmes for the Public Service:
   (h) to provide advice on the training and career development of staff in the Public Service:
   (ha) to provide advice and guidance to employees within the State services (except Crown Research Institutes) on matters, or at times, that affect the integrity and conduct of employees within the State services:
   (i) to provide advice on management systems, structures, and organisations in the Public Service and Crown entities:
-  (j) To exercise such other functions with respect to the administration and management of the Public Service as the Prime Minister from time to time directs (not being functions conferred by this Act or any other Act on a chief executive other than the Commissioner).
+  (j) to exercise such other functions with respect to the administration and management of the Public Service as the Prime Minister from time to time directs (not being functions conferred by this Act or any other Act on a chief executive other than the Commissioner).
 
 ### 7 Powers of Commissioner
 The Commissioner shall have all such powers as are reasonably necessary or expedient to enable the Commissioner to carry out the functions and duties imposed upon the Commissioner under this Act or any other enactment.
@@ -134,29 +125,29 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
 
 ### 10 Power to enter premises
 (1) For the purpose of carrying out the functions of the Commissioner, the Commissioner or any person specifically or generally authorised in writing in that behalf by the Commissioner, may from time to time—
-  (a) Enter the premises of any Department; or
-  (b) Require the production of any information, documents, or files in the custody of any Department, and examine any such information, documents, or files; or
-  (c) Require any member of the staff of any Department to answer questions for the purpose of enabling the Commissioner to carry out the functions assigned to the Commissioner.
+  (a) enter the premises of any Department; or
+  (b) require the production of any information, documents, or files in the custody of any Department, and examine any such information, documents, or files; or
+  (c) require any member of the staff of any Department to answer questions for the purpose of enabling the Commissioner to carry out the functions assigned to the Commissioner.
 (2) Every written authorisation under subsection (1) of this section shall contain—
-  (a) A reference to this section; and
-  (b) The full name of the authorised person; and
-  (c) A statement of the powers conferred on the authorised person by subsection (1) of this section.
+  (a) a reference to this section; and
+  (b) the full name of the authorised person; and
+  (c) a statement of the powers conferred on the authorised person by subsection (1) of this section.
 (3) The power to enter premises pursuant to subsection (1) of this section shall be subject to the following conditions:
-  (a) Entry shall be made only by the Commissioner or by a person specifically or generally authorised in writing by the Commissioner:
-  (b) Reasonable notice of the intention to enter shall be given:
-  (c) Entry shall be made at reasonable times:
-  (d) The person entering shall carry—
-    (i) Evidence of that person's identity; and
-    (ii) Either evidence that that person is the Commissioner or that person's written authorisation under subsection (1) of this section:
-  (e) The person entering shall, on first entering the premises, and, if requested, at any subsequent time, produce to a representative of the Department the evidence referred to in paragraph (d) of this subsection.
+  (a) entry shall be made only by the Commissioner or by a person specifically or generally authorised in writing by the Commissioner:
+  (b) reasonable notice of the intention to enter shall be given:
+  (c) entry shall be made at reasonable times:
+  (d) the person entering shall carry—
+    (i) evidence of that person's identity; and
+    (ii) either evidence that that person is the Commissioner or that person's written authorisation under subsection (1) of this section:
+  (e) the person entering shall, on first entering the premises, and, if requested, at any subsequent time, produce to a representative of the Department the evidence referred to in paragraph (d) of this subsection.
 (4) Every person shall have the same privileges in relation to—under this section as witnesses have in Courts of law.
-  (a) The production of information, documents, and files; and
-  (b) The furnishing of any information or particulars; and
-  (c) The answering of questions—
+  (a) the production of information, documents, and files; and
+  (b) the furnishing of any information or particulars; and
+  (c) the answering of questions—
 (5) No person shall exercise any of the powers conferred by paragraphs (a) to (c) of subsection (1) of this section unless the Commissioner or that person has first given the chief executive of the Department the opportunity of consulting with the Commissioner or that person about the exercise of those powers.
 (6) Nothing in this section derogates from any enactment that imposes a prohibition or restriction on—
-  (a) The availability of any information; or
-  (b) The production or examination of any information, documents, or files.
+  (a) the availability of any information; or
+  (b) the production or examination of any information, documents, or files.
 
 ### 11 Exercise of functions and powers in respect of other State services
 (1) The Prime Minister may from time to time direct the Commissioner in writing, to carry out, in respect of any part of the State services that does not form part of the Public Service, any of the functions and powers conferred on the Commissioner by any provision of sections 6 to 10 of this Act.
@@ -164,8 +155,8 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
 (3) The Commissioner shall comply with that direction and shall have all necessary powers to enable the Commissioner to do so.
 (4) The Commissioner may, if requested by the head of any part of the State services, and must, if requested by the Minister in charge of, or responsible for, any part of the State services, exercise in respect of that part of the State services any of the functions and powers that the Commissioner may exercise in respect of Departments under any provision of sections 6 to 8.
 (5) Nothing in this section—
-  (a) Limits or affects any provision of this or any other Act; or
-  (b) Affects or prevents the exercise by any part of the State services that does not form part of the Public Service, or by any officer or employee of any such part of the State services, of any function or power conferred on or belonging to any such part of the State services or any such officer or employee.
+  (a) limits or affects any provision of this or any other Act; or
+  (b) affects or prevents the exercise by any part of the State services that does not form part of the Public Service, or by any officer or employee of any such part of the State services, of any function or power conferred on or belonging to any such part of the State services or any such officer or employee.
 (6) The Commissioner may, if requested by the head of any part of the State services that does not form part of the Public Service, or of any corporation listed in the Schedule 1 of the State-Owned Enterprises Act 1986, provide assistance in respect of the conditions of employment of its employees.
 
 ### 12 Deputy State Services Commissioner
@@ -178,9 +169,9 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
 (1) The Commissioner and the Deputy Commissioner shall each be appointed for such term, not exceeding 5 years, as shall be specified in the Order in Council by which the Commissioner or the Deputy Commissioner is appointed.
 (2) The Commissioner and the Deputy Commissioner shall each be eligible for reappointment from time to time.
 (3) Where a person who is employed in the State services is appointed as the Commissioner or as the Deputy Commissioner, that person's term of office as Commissioner or Deputy Commissioner shall be deemed, for the purposes of—to be continuous service in that part of the State services in which that person was employed at the date of that person's appointment as Commissioner or Deputy Commissioner.
-  (a) The Government Superannuation Fund Act 1956; and
-  (b) Appointment to any position in the State services on the termination of that person's service as Commissioner or Deputy Commissioner; and
-  (c) Entitlement to leave of absence,—
+  (a) the Government Superannuation Fund Act 1956; and
+  (b) appointment to any position in the State services on the termination of that person's service as Commissioner or Deputy Commissioner; and
+  (c) entitlement to leave of absence,—
 
 ### 14 Acting Commissioner or acting Deputy Commissioner
 (1) In the event of the incapacity of the Commissioner by reason of illness or absence or any other cause, the Governor-General in Council, on the recommendation of the Prime Minister, may appoint an acting Commissioner to act for the Commissioner during that incapacity.
@@ -189,8 +180,8 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
 
 ### 15 Remuneration and expenses of Commissioner and Deputy Commissioner
 (1) The Commissioner and the Deputy Commissioner shall be paid—
-  (a) Such remuneration as may from time to time be determined in each case by the Remuneration Authority; and
-  (b) Such additional allowances, being travelling allowances or other incidental or minor allowances, as may be determined from time to time in each case by the Minister of Finance.
+  (a) such remuneration as may from time to time be determined in each case by the Remuneration Authority; and
+  (b) such additional allowances, being travelling allowances or other incidental or minor allowances, as may be determined from time to time in each case by the Minister of Finance.
 (2) Subject to the Remuneration Authority Act 1977, any determination made under subsection (1) of this section may be made so as to come into force on a date to be specified for that purpose in the determination, being the date of the making of the determination, or any other date, whether before, on, or after the date of the making of the determination.
 (3) Every determination made under subsection (1) of this section in respect of which no date is specified as aforesaid shall come into force on the date of the making of the determination.
 
@@ -203,20 +194,20 @@ The Commissioner shall have all such powers as are reasonably necessary or exped
 
 ### 17 Vacation of office
 (1) Any person who holds office as the Commissioner or the Deputy Commissioner shall be deemed to have vacated office if—
-  (a) Without the approval of the Governor-General that person—
-    (i) Engages during his or her term of office in any paid employment or business other than the duties of his or her office; or
-    (ii) Is appointed to and accepts any other office or position in the State services:
-  (b) That person becomes bankrupt, compounds with his or her creditors, or makes an assignment of his or her salary for their benefit:
-  (c) That person absents himself or herself from duty except with the authority of the Governor-General:
-  (d) That person resigns in writing under his or her hand addressed to the Governor-General.
+  (a) without the approval of the Governor-General that person—
+    (i) engages during his or her term of office in any paid employment or business other than the duties of his or her office; or
+    (ii) is appointed to and accepts any other office or position in the State services:
+  (b) that person becomes bankrupt, compounds with his or her creditors, or makes an assignment of his or her salary for their benefit:
+  (c) that person absents himself or herself from duty except with the authority of the Governor-General:
+  (d) that person resigns in writing under his or her hand addressed to the Governor-General.
 (2) Notwithstanding anything in this section, the Commissioner or the Deputy Commissioner may act temporarily in any position in any Department or organisation of the State services that is for the time being vacant (including the position of chief executive of a Department).
 
 ### 18 Superannuation rights of Commissioner and Deputy Commissioner
 Where any person who is a contributor to the Government Superannuation Fund is appointed as Commissioner or Deputy Commissioner, that person shall, unless—be allowed to receive from the Fund an annual retiring allowance for the rest of his or her life computed in the manner prescribed by Part 2 or Part 2A of the Government Superannuation Fund Act 1956, notwithstanding that the Commissioner or Deputy Commissioner may not have attained the age or have had the length of service that would entitle him or her in accordance with the terms of that Act to a retiring allowance.
-  (a) He or she is reappointed as Commissioner or Deputy Commissioner or, in the case of a person holding office as Deputy Commissioner, becomes the successor of the Commissioner; or
-  (b) He or she is appointed to another office in the Government service (within the meaning of the Government Superannuation Fund Act 1956); or
-  (c) He or she has ceased to be a contributor to the Government Superannuation Fund; or
-  (d) He or she is not entitled under section 16(5) of this Act to a retiring allowance,—
+  (a) he or she is reappointed as Commissioner or Deputy Commissioner or, in the case of a person holding office as Deputy Commissioner, becomes the successor of the Commissioner; or
+  (b) he or she is appointed to another office in the Government service (within the meaning of the Government Superannuation Fund Act 1956); or
+  (c) he or she has ceased to be a contributor to the Government Superannuation Fund; or
+  (d) he or she is not entitled under section 16(5) of this Act to a retiring allowance,—
 
 ### 19 Annual report
 (1) The Commissioner shall, as soon as practicable after the end of each financial year, furnish to the Minister a report on the operations of the Commissioner for that year, and on such other matters affecting the State services as the Commissioner thinks fit.
@@ -238,9 +229,9 @@ The Commissioner may incorporate in his or her report under section 19 of this A
 (1) The Commissioner may from time to time, either generally or particularly, delegate to any person or persons any of the functions or powers of the Commissioner under this Act or any other Act, including functions or powers delegated to the Commissioner under any Act.
 (2) Every delegation under this section shall be in writing.
 (3) No delegation under this section shall include—
-  (a) The power to delegate under this section; or
-  (b) The Commissioner's powers under sections 35 and 36 of this Act (which relate to the appointment and reappointment of chief executives); or
-  (c) The Commissioner's powers under section 39 of this Act (which relates to the removal from office of a chief executive); or
+  (a) the power to delegate under this section; or
+  (b) the Commissioner's powers under sections 35 and 36 of this Act (which relate to the appointment and reappointment of chief executives); or
+  (c) the Commissioner's powers under section 39 of this Act (which relates to the removal from office of a chief executive); or
   (d)
   (e)
 (4) In any case where the Commissioner has, pursuant to subsection (1) of this section, delegated any of the functions or powers of the Commissioner to any person, that person may, with the prior approval in writing of the Commissioner, delegate such of those functions or powers as the Commissioner approves to any other person or to the holder for the time being of any specified office in the State services.
@@ -271,8 +262,8 @@ Notwithstanding anything in the Commissions of Inquiry Act 1908, the Commissione
 (2) Every delegation under this section shall be in writing.
 (3) No delegation under this section shall include the power to delegate under this section.
 (4) The power of the appropriate Minister to delegate under this section—
-  (a) Is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister's functions or powers; but
-  (b) Does not limit any power of delegation conferred on the Minister by any other Act.
+  (a) is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the Minister's functions or powers; but
+  (b) does not limit any power of delegation conferred on the Minister by any other Act.
 (5) Subject to any general or special directions given or conditions imposed by the appropriate Minister, the chief executive may exercise any functions or powers so delegated to the chief executive in the same manner and with the same effect as if they had been conferred on the chief executive directly by this section and not by delegation.
 (6) Where the chief executive purports to act pursuant to any delegation under this section, the chief executive shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (7) No such delegation shall affect or prevent the exercise of any function or power by the appropriate Minister, nor shall any such delegation affect the responsibility of the appropriate Minister for the actions of any person acting under the delegation.
@@ -281,14 +272,14 @@ Notwithstanding anything in the Commissions of Inquiry Act 1908, the Commissione
 (1) Every delegation under section 28 of this Act shall be revocable in writing at will.
 (2) Any such delegation, until it is revoked, shall continue in force according to its tenor.
 (3) In the event of the appropriate Minister by whom any such delegation has been made ceasing to hold office,—
-  (a) It shall continue to have effect as if made by the person for the time being holding office as the appropriate Minister; and
-  (b) The chief executive shall forthwith advise the then appropriate Minister of the terms of any such delegation.
+  (a) it shall continue to have effect as if made by the person for the time being holding office as the appropriate Minister; and
+  (b) the chief executive shall forthwith advise the then appropriate Minister of the terms of any such delegation.
 (4) In the event of the chief executive to whom any such delegation has been made ceasing to hold office, it shall continue to have effect as if made to the person for the time being holding office as chief executive or, if there is no chief executive in office or if the chief executive is absent from duty, to the person for the time being directed to act in the place of the chief executive.
 
 ### 30 Annual reports of Departments
 [Repealed]
 
-### 30A Amendment of First Schedule to reflect reorganisations within Public Service
+### 30A Amendment of Schedule 1 to reflect reorganisations within Public Service
 (1) The Governor-General may, by Order in Council, amend Schedule 1 if a Department is abolished or its name is changed or a new department is established.
 (2) To avoid doubt, this section does not limit the need for a Department that has been established by an Act of Parliament to be abolished or have its name changed by an Act of Parliament.
 
@@ -353,7 +344,7 @@ Sections 60 to 61B and 65 do not apply to the appointment of an employee of Depa
   (b) apply to references in anything, including (without limitation) deeds, agreements, proceedings, instruments, documents, and notices.
 (2) Regulations made under section 30K may apply sections 30H and 30I to things also coming into force, entered into, or created during a transitional period after the relevant name change, abolition, or transfer of functions that is specified in those regulations.
 (3) To avoid doubt, sections 30H and 30I do not limit the need for a Department that has been established by an Act of Parliament to have its name changed, be abolished, or have statutory functions transferred by an Act of Parliament, and sections 30H and 30I apply in respect of that name change, abolition, or transfer only on and after that Act has given effect to it.
-(4) Sections 30H(1) and (2) and 30I(1) and (2) apply only on and after the First Schedule is amended in respect of the relevant name change or abolition.
+(4) Sections 30H(1) and (2) and 30I(1) and (2) apply only on and after Schedule 1 is amended in respect of the relevant name change or abolition.
 (5) Sections 30H and 30I—
   (a) apply to collective employment agreements subject to sections 30B and 30G; but
   (b) do not apply to individual employment agreements.
@@ -374,15 +365,15 @@ The Governor-General may, by Order in Council, provide for savings and transitio
 ### 31 Chief executives
 (1) Each Department shall have, as its administrative head, a chief executive.
 (2) Each chief executive shall be known—
-  (a) By the designation fixed by Act of Parliament in respect of that chief executive; or
-  (b) Where the designation of a chief executive is not fixed by Act of Parliament, by the designation given to that chief executive from time to time by the Prime Minister.
+  (a) by the designation fixed by Act of Parliament in respect of that chief executive; or
+  (b) where the designation of a chief executive is not fixed by Act of Parliament, by the designation given to that chief executive from time to time by the Prime Minister.
 
 ### 32 Principal responsibilities
 The chief executive of a Department shall be responsible to the appropriate Minister for—
-  (a) The carrying out of the functions and duties of the Department (including those imposed by Act or by the policies of the Government); and
-  (b) The tendering of advice to the appropriate Minister and other Ministers of the Crown; and
-  (c) The general conduct of the Department; and
-  (d) The efficient, effective, and economical management of the activities of the Department.
+  (a) the carrying out of the functions and duties of the Department (including those imposed by Act or by the policies of the Government); and
+  (b) the tendering of advice to the appropriate Minister and other Ministers of the Crown; and
+  (c) the general conduct of the Department; and
+  (d) the efficient, effective, and economical management of the activities of the Department.
 
 ### 33 Duty to act independently
 Notwithstanding anything in section 32 of this Act, in matters relating to decisions on individual employees (whether matters relating to the appointment, promotion, demotion, transfer, disciplining, or the cessation of the employment of any employee, or other matters), the chief executive of a Department shall not be responsible to the appropriate Minister but shall act independently.
@@ -394,17 +385,17 @@ Notwithstanding anything in section 32 of this Act, in matters relating to decis
 ### 35 Appointment of chief executives
 (1) Subject to sections 36, 37, 44, and 91 of this Act, each chief executive shall be appointed by the Commissioner in accordance with the provisions of this section.
 (2) Where there is a vacancy or an impending vacancy in the position of chief executive of a Department, the Commissioner shall—
-  (a) Inform the Minister of that vacancy or impending vacancy; and
-  (b) Invite the Minister to inform the Commissioner of any matters that the Minister wishes the Commissioner to take into account in making an appointment to the position.
+  (a) inform the Minister of that vacancy or impending vacancy; and
+  (b) invite the Minister to inform the Commissioner of any matters that the Minister wishes the Commissioner to take into account in making an appointment to the position.
 (3) The Commissioner shall notify the vacancy or impending vacancy in such manner as the Commissioner thinks sufficient to enable suitably qualified persons to apply for the position.
 (4) A panel comprising—shall be established in respect of each vacancy.
-  (a) The Commissioner as chairperson; and
-  (b) The Deputy Commissioner; and
-  (c) One or more persons to be appointed by the Commissioner after consultation with the appropriate Minister or appropriate Ministers,—
+  (a) the Commissioner as chairperson; and
+  (b) the Deputy Commissioner; and
+  (c) one or more persons to be appointed by the Commissioner after consultation with the appropriate Minister or appropriate Ministers,—
 (4A) The panel as constituted under subsection (4) of this section may—
-  (a) Examine applicants for the position; and
-  (b) Seek advice from such other sources as the panel considers relevant; and
-  (c) Deliberate on the person to be recommended for appointment.
+  (a) examine applicants for the position; and
+  (b) seek advice from such other sources as the panel considers relevant; and
+  (c) deliberate on the person to be recommended for appointment.
 (4B) Following the deliberations of the panel, the Commissioner shall decide upon the person to be recommended to the Minister for appointment.
 (5) The Commissioner may invite such other persons as the Commissioner thinks fit to assist in deciding upon the person to be recommended for appointment, and any person so invited may take part in the examination of applicants or in the panel's deliberations on the matter or in both.
 (6) The Commissioner shall forward to the Minister the name of the person decided upon under subsection (4B) of this section as the person recommended for appointment to the position, together with full particulars of that person's qualifications.
@@ -412,20 +403,20 @@ Notwithstanding anything in section 32 of this Act, in matters relating to decis
 (8) The Governor-General in Council shall decide whether the Commissioner's recommendation is to be accepted or declined.
 (9) The Minister shall inform the Commissioner whether the Commissioner's recommendation has been accepted or declined by the Governor-General in Council.
 (10) Where the Commissioner's recommendation is accepted, the Commissioner shall—
-  (a) Appoint the person recommended; and
-  (b) Announce publicly that the appointment has been made.
+  (a) appoint the person recommended; and
+  (b) announce publicly that the appointment has been made.
 (11) Where the Commissioner's recommendation is declined, the following provisions shall apply:
-  (a) The Governor-General in Council may direct the Commissioner to appoint a named person to the position:
-  (b) The Governor-General in Council shall not be required to comply with the preceding subsections of this section:
-  (c) Notice of the making of an appointment pursuant to a direction under paragraph (a) of this subsection shall be published in the Gazette as soon as practicable.
+  (a) the Governor-General in Council may direct the Commissioner to appoint a named person to the position:
+  (b) the Governor-General in Council shall not be required to comply with the preceding subsections of this section:
+  (c) notice of the making of an appointment pursuant to a direction under paragraph (a) of this subsection shall be published in the Gazette as soon as practicable.
 (12) In deciding upon the person to be appointed as chief executive of a Department, the Commissioner or the Governor-General in Council, as the case may be, shall have regard to the need to appoint a person who—
-  (a) Can discharge the specific responsibilities placed on that chief executive; and
-  (b) Will imbue the employees of the Department with a spirit of service to the community; and
-  (c) Will promote efficiency in the Department; and
-  (d) Will be a responsible manager of the Department; and
-  (e) Will maintain appropriate standards of integrity and conduct among the employees of the Department; and
-  (f) Will ensure that the Department is a good employer; and
-  (g) Will promote equal employment opportunities.
+  (a) can discharge the specific responsibilities placed on that chief executive; and
+  (b) will imbue the employees of the Department with a spirit of service to the community; and
+  (c) will promote efficiency in the Department; and
+  (d) will be a responsible manager of the Department; and
+  (e) will maintain appropriate standards of integrity and conduct among the employees of the Department; and
+  (f) will ensure that the Department is a good employer; and
+  (g) will promote equal employment opportunities.
 
 ### 36 Reappointment of chief executives
 (1) The Commissioner may recommend under section 35(6) of this Act that the existing chief executive of a Department be reappointed for a further term.
@@ -449,11 +440,11 @@ The Commissioner may, with the agreement of the Governor-General in Council, for
 
 ### 40 Acting chief executive
 (1) Where—all or any of the functions, powers, and duties of the chief executive or pertaining to the position may be exercised and performed by—for the time being directed by the Commissioner to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
-  (a) There is a vacancy in the position of a chief executive; or
-  (b) A chief executive is absent from duty (from whatever cause arising) and that chief executive is unable to delegate his or her responsibilities under this Act to any other person under section 41 of this Act,—
-  (c) A chief executive of another Department; or
+  (a) there is a vacancy in the position of a chief executive; or
+  (b) a chief executive is absent from duty (from whatever cause arising) and that chief executive is unable to delegate his or her responsibilities under this Act to any other person under section 41 of this Act,—
+  (c) a chief executive of another Department; or
   (d)
-  (e) An employee,—
+  (e) an employee,—
 (2) No such direction and no acts done by any person acting pursuant to any such direction shall in any proceedings be questioned on the ground that the occasion for the direction had not arisen or had ceased, or on the ground that the person had not been appointed to the position of chief executive.
 (3) The Commissioner shall determine the conditions of employment that are to apply to any person directed under subsection (1) of this section to exercise and perform any of the functions, powers, and duties of a chief executive.
 
@@ -463,8 +454,8 @@ The Commissioner may, with the agreement of the Governor-General in Council, for
 (2) In any case where the chief executive has, pursuant to subsection (1) of this section, delegated any functions or powers to any person, that person may, with the prior approval in writing of the chief executive, delegate such of those functions or powers as the chief executive approves to any other person (being an employee) or to the holder for the time being of any specified office in that Department.
 (3) Subject to any general or special directions given or conditions imposed by the chief executive, the person to whom any functions or powers are delegated under this section may exercise those functions or powers in the same manner and with the same effect as if they had been conferred on that person directly by this Act and not by delegation.
 (4) The power of the chief executive to delegate under this section—
-  (a) Is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the chief executive's functions or powers; but
-  (b) Shall not limit any power of delegation conferred on the chief executive by any other Act.
+  (a) is subject to any prohibitions, restrictions, or conditions contained in any other Act in relation to the delegation of the chief executive's functions or powers; but
+  (b) shall not limit any power of delegation conferred on the chief executive by any other Act.
 (5) Every person purporting to act pursuant to any delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 (6) Any delegation under this section may be made to a specified person or to persons of a specified class, or to the holder or holders for the time being of a specified office or specified class of offices.
 (7) No such delegation shall affect or prevent the exercise of any function or power by the chief executive, nor shall any such delegation affect the responsibility of the chief executive for the actions of any person acting under the delegation.
@@ -479,16 +470,16 @@ The Commissioner may, with the agreement of the Governor-General in Council, for
 
 ### 44 Special provisions in relation to certain chief executives
 (1) Nothing in sections 35, 36, 38, 39, 43, and 91 of this Act apply in respect of—
-  (a) The Solicitor-General; or
-  (b) The Controller and Auditor-General; or
-  (c) The Commissioner of Police; or
+  (a) the Solicitor-General; or
+  (b) the Controller and Auditor-General; or
+  (c) the Commissioner of Police; or
   (d) the Director of the Government Communications Security Bureau; or
   (e) the State Services Commissioner.
 (2) For the purposes of this Act, but subject to subsection (1) of this section,—
-  (a) The Solicitor-General shall be the chief executive of the Crown Law Office:
+  (a) the Solicitor-General shall be the chief executive of the Crown Law Office:
   (b)
-  (c) The State Services Commissioner shall be the chief executive in respect of the State Services Commission:
-  (d) The Commissioner of Police is the chief executive of the New Zealand Police.
+  (c) the State Services Commissioner shall be the chief executive in respect of the State Services Commission:
+  (d) the Commissioner of Police is the chief executive of the New Zealand Police.
   (e) the director of the Government Communications Security Bureau is the chief executive of the Government Communications Security Bureau.
 
 ### 45 Application of Labour Relations Act 1987 in respect of chief executives
@@ -549,17 +540,17 @@ The object of this Part is to establish the shared responsibility of the Commiss
   (b) make that policy (including the equal employment opportunities programme) available to its employees; and
   (c) ensure its compliance with that policy (including its equal employment opportunities programme) and report in its annual report on the extent of its compliance.
 (2) For the purposes of this section, a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
-  (a) Good and safe working conditions; and
-  (b) An equal employment opportunities programme; and
-  (c) The impartial selection of suitably qualified persons for appointment; and
-  (d) Recognition of—
-    (i) The aims and aspirations of the Maori people; and
-    (ii) The employment requirements of the Maori people; and
-    (iii) The need for greater involvement of the Maori people in the Public Service; and
-  (e) Opportunities for the enhancement of the abilities of individual employees; and
+  (a) good and safe working conditions; and
+  (b) an equal employment opportunities programme; and
+  (c) the impartial selection of suitably qualified persons for appointment; and
+  (d) recognition of—
+    (i) the aims and aspirations of the Maori people; and
+    (ii) the employment requirements of the Maori people; and
+    (iii) the need for greater involvement of the Maori people in the Public Service; and
+  (e) opportunities for the enhancement of the abilities of individual employees; and
   (f) recognition of the aims and aspirations and employment requirements, and the cultural differences, of ethnic or minority groups; and
-  (g) Recognition of the employment requirements of women; and
-  (h) Recognition of the employment requirements of persons with disabilities.
+  (g) recognition of the employment requirements of women; and
+  (h) recognition of the employment requirements of persons with disabilities.
 (3) In addition to the requirements, specified in subsections (1) and (2) of this section, each chief executive shall ensure that all employees maintain proper standards of integrity, conduct, and concern for the public interest.
 (4)
 
@@ -593,7 +584,7 @@ The Commissioner may advise the responsible Minister if, in the opinion of the C
 
 ### 59 Employees of Departments
 (1) The chief executive of a Department—
-  (a) May from time to time appoint such employees (including acting or temporary or casual employees) as the chief executive thinks necessary for the efficient exercise of the functions, duties, and powers of the Department; and
+  (a) may from time to time appoint such employees (including acting or temporary or casual employees) as the chief executive thinks necessary for the efficient exercise of the functions, duties, and powers of the Department; and
   (b) may, subject to any conditions of employment included in the employment agreement applying to the employee, at any time remove any employee from that employee's office or employment.
 (2) Unless expressly provided to the contrary in this Act, the chief executive shall have all the rights, duties, and powers of an employer in respect of the persons employed in the Department for which the chief executive is responsible.
 
@@ -605,10 +596,10 @@ Where a chief executive of a Department intends to fill a position that is vacan
 
 ### 61A Power to transfer employees
 (1) Where the chief executive of a Department at any time finds in respect of any duties being carried out by the Department—all or any of the persons who are carrying out those duties may subject to the relevant employment agreement either—
-  (a) That those duties are no longer to be carried out by the Department; or
-  (b) That a greater number of persons is employed on those duties than is considered by the chief executive to be necessary for the efficient carrying out of those duties,—
-  (c) Be appointed by the chief executive to other positions in the same Department; or
-  (d) Be appointed by the chief executive of any other Department to positions in that other department.
+  (a) that those duties are no longer to be carried out by the Department; or
+  (b) that a greater number of persons is employed on those duties than is considered by the chief executive to be necessary for the efficient carrying out of those duties,—
+  (c) be appointed by the chief executive to other positions in the same Department; or
+  (d) be appointed by the chief executive of any other Department to positions in that other department.
 (2) Nothing in sections 60, 61, and 65 of this Act shall apply in relation to any appointment made under this section.
 (3) Before making an appointment under this section, the chief executive responsible for the appointment shall consult with the employee about the proposed appointment.
 
@@ -619,8 +610,8 @@ Where a chief executive of a Department intends to fill a position that is vacan
 
 ### 61C Union coverage where Department ceases to be part of Public Service
 When any Department or part of any Department ceases (other than as a result of its abolition) to be part of the Public Service, the union coverage arrangements that prevailed immediately before the date on which the Department or the part of the Department ceased to be part of the Public Service shall continue to apply to the employees of the Department, or that part of it, for a period (not exceeding 12 months) to be agreed between—
-  (a) The union or unions that had coverage of the employees while that Department was part of the Public Service; and
-  (b) The Minister of State Services.
+  (a) the union or unions that had coverage of the employees while that Department was part of the Public Service; and
+  (b) the Minister of State Services.
 
 ### 62 Acting appointments
 (1) In the case of absence from duty of any employee (from whatever cause arising) or on the occurrence from any cause of a vacancy in any position in a Department (whether by reason of death, resignation, or otherwise) and from time to time while the absence or vacancy continues, all or any of the powers and duties of the employee or pertaining to the position may be exercised and performed by any other employee for the time being directed by the chief executive to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
@@ -757,8 +748,8 @@ Despite the provisions of section 74,—
 
 ### 74B Delegation of Commissioner's powers
 (1) The Commissioner may from time to time delegate, in writing, to—any of the Commissioner's powers under section 74 of this Act.
-  (a) An employer; or
-  (b) Any organisation of employers of persons employed in the Education service—
+  (a) an employer; or
+  (b) any organisation of employers of persons employed in the Education service—
 (2) Where the Commissioner, acting under subsection (1), delegates to an employer or an organisation of employers the function, under section 74(1), of conducting negotiations with a union of which the employees are members, the employer or organisation of employers must conduct those negotiations in consultation with—
   (a) the Commissioner; and
   (b) the chief executive of the Ministry of Education.
@@ -767,8 +758,8 @@ Despite the provisions of section 74,—
 ### 74C Negotiation of conditions of employment for employees of tertiary education institutions
 (1) For the period beginning with the commencement of this section and ending with the close of the 31st day of December 1991, the Commissioner shall be responsible for negotiating under the Employment Contracts Act 1991 collective employment contracts that cover or that are proposed to cover any group of employees in any tertiary education institution. The negotiations conducted by the Commissioner under this subsection shall be conducted in consultation with the representatives of the employer or employers who will be bound by the proposed collective employment contracts, which representatives shall be employers, or organisations of employers, of persons employed in a tertiary education institution.
 (2) On and after the 1st day of January 1992, the chief executive of each tertiary education institution shall be responsible either—for negotiating under the Employment Relations Act 2000 collective agreements that are applicable to any group of employees in any tertiary education institution.
-  (a) Individually; or
-  (b) Jointly through any organisation of employers of persons employed in any tertiary education institution—
+  (a) individually; or
+  (b) jointly through any organisation of employers of persons employed in any tertiary education institution—
 (3) Before entering into any collective agreement under the Employment Relations Act 2000, the chief executive of each tertiary education institution or any organisation of employers representing jointly such chief executives, must consult with the State Services Commissioner over the conditions of employment to be included in the collective agreement.
 
 ### 74D Senior positions at tertiary education institutions
@@ -803,27 +794,27 @@ No chief executive and no other employee shall be personally liable for any liab
   (b) make that policy (including the equal employment opportunities programme) available to its employees; and
   (c) ensure its compliance with that policy (including its equal employment opportunities programme) and report in its annual report (if any) on the extent of its compliance.
 (2) For the purposes of this section a good employer is an employer who operates a personnel policy containing provisions generally accepted as necessary for the fair and proper treatment of employees in all aspects of their employment, including provisions requiring—
-  (a) Good and safe working conditions; and
-  (b) An equal employment opportunities programme; and
-  (c) The impartial selection of suitably qualified persons for appointment; and
-  (d) Recognition of—
-    (i) The aims and aspirations of the Maori people; and
-    (ii) The employment requirements of the Maori people; and
-    (iii) The need for greater involvement of the Maori people in the Education service; and
-  (e) Opportunities for the enhancement of the abilities of individual employees; and
+  (a) good and safe working conditions; and
+  (b) an equal employment opportunities programme; and
+  (c) the impartial selection of suitably qualified persons for appointment; and
+  (d) recognition of—
+    (i) the aims and aspirations of the Maori people; and
+    (ii) the employment requirements of the Maori people; and
+    (iii) the need for greater involvement of the Maori people in the Education service; and
+  (e) opportunities for the enhancement of the abilities of individual employees; and
   (f) recognition of the aims and aspirations and employment requirements, and the cultural differences, of ethnic or minority groups; and
-  (g) Recognition of the employment requirements of women; and
-  (h) Recognition of the employment requirements of persons with disabilities.
+  (g) recognition of the employment requirements of women; and
+  (h) recognition of the employment requirements of persons with disabilities.
 (3) In addition to the requirements specified in subsections (1) and (2) of this section, each employer shall ensure that all employees maintain proper standards of integrity, conduct, and concern for—
-  (a) The public interest; and
-  (b) The wellbeing of students attending the institution.
+  (a) the public interest; and
+  (b) the wellbeing of students attending the institution.
 
 ### 77B Code of conduct
 (1) The chief executive of the Ministry of Education may from time to time issue a code of conduct covering the minimum standards of integrity and conduct that are to apply in the Education service.
 (2) The chief executive of the Ministry may issue separate codes of conduct under this section to apply to different parts of the Education service.
 (3) Before the chief executive of the Ministry issues a code of conduct under this section, the chief executive of the Ministry shall consult with—
-  (a) Representatives of the employers whose employees will be bound by the code of conduct, which representatives shall be employers, or organisations of employers, of persons employed in the Education service; and
-  (b) The organisations of employees employed in the Education service that represent the employees who will be bound by the code of conduct; and
+  (a) representatives of the employers whose employees will be bound by the code of conduct, which representatives shall be employers, or organisations of employers, of persons employed in the Education service; and
+  (b) the organisations of employees employed in the Education service that represent the employees who will be bound by the code of conduct; and
   (c) the Commissioner, and must have regard to any code of conduct issued by the Commissioner under section 57.
 (4) Nothing in this section prevents the prescribing by an employer of standards of integrity or conduct that are to apply to that employer's employees (being standards which are not inconsistent with any code of conduct issued by the chief executive of the Ministry under this section and which apply in relation to employees of that employer).
 (5) Nothing in this section shall apply to any tertiary education institution.
@@ -831,10 +822,10 @@ No chief executive and no other employee shall be personally liable for any liab
 ### 77C Performance of teachers
 (1) The chief executive of the Ministry of Education may from time to time, with the agreement of the State Services Commission, prescribe matters that are to be taken into account by employers in assessing the performance of teachers.
 (2) Before the chief executive of the Ministry of Education prescribes any matters under subsection (1) of this section, the chief executive of the Ministry shall consult with—
-  (a) The New Zealand Teachers Council; and
-  (b) The chief executive of the Education Review Office; and
-  (c) Representatives of employers of teachers; and
-  (d) The organisations of teachers that represent teachers who will be subject to the matters prescribed under this section.
+  (a) the New Zealand Teachers Council; and
+  (b) the chief executive of the Education Review Office; and
+  (c) representatives of employers of teachers; and
+  (d) the organisations of teachers that represent teachers who will be subject to the matters prescribed under this section.
 (3) Nothing in this section prevents the prescribing by an employer of matters to be taken into account in assessing the performance of teachers employed by that employer (being matters which are not inconsistent with any matters prescribed under this section by the chief executive of the Ministry and which apply to teachers employed by that employer).
 (4) Nothing in this section shall apply to any teachers employed in any tertiary education institution, or early childhood institution that is not a free kindergarten.
 
@@ -847,7 +838,7 @@ No chief executive and no other employee shall be personally liable for any liab
 
 ### 77E Employees of institutions
 (1) Subject to the provisions of any Act relating to the registration of teachers, each employer—
-  (a) May from time to time appoint such employees (including acting or temporary or casual or relieving employees) as the employer thinks necessary for the efficient exercise of the functions, duties, and powers of the institution; and
+  (a) may from time to time appoint such employees (including acting or temporary or casual or relieving employees) as the employer thinks necessary for the efficient exercise of the functions, duties, and powers of the institution; and
   (b) may, subject to any conditions of employment included in the employment agreement applying to the employee, at any time remove any employee from that employee's employment.
 (2) Unless expressly provided to the contrary in this Act, the employer shall have all the rights, duties, and powers of an ordinary employer in respect of the persons employed in that institution.
 
@@ -893,17 +884,17 @@ Notwithstanding anything to the contrary in any other enactment, the appointment
 (1) Subject to section 77IC of this Act, each Council of a tertiary education institution shall appoint its chief executive in accordance with the provisions of this section.
 (2) Where there is a vacancy or an impending vacancy in the position of chief executive of a tertiary education institution, the Council of the institution shall notify the vacancy or impending vacancy in such manner as it thinks sufficient to enable suitably qualified persons to apply for the position.
 (3) The Council may—
-  (a) Examine applicants for the position; and
-  (b) Seek advice from such sources as it considers relevant.
+  (a) examine applicants for the position; and
+  (b) seek advice from such sources as it considers relevant.
 (4) The Council may invite such other persons as it thinks fit to assist it to decide on the person to be appointed and any person so invited may take part in the examination of applicants or in the Council's deliberations on the matter or in both.
 (5) In deciding upon the person to be appointed as chief executive, the Council shall have regard to the need to appoint a person who—
-  (a) Can discharge the specific responsibilities placed on the chief executive; and
-  (b) Will imbue the employees with a spirit of service to the institution and to the community; and
-  (c) Will promote efficiency; and
-  (d) Will manage the institution in a responsible manner that reflects the needs of academic freedom, accountability, and the proper use of resources; and
-  (e) Will maintain appropriate standards of integrity and conduct among employees and ensure the wellbeing of students attending the institution; and
-  (f) Will ensure that the institution is a good employer; and
-  (g) Will promote equal employment opportunities.
+  (a) can discharge the specific responsibilities placed on the chief executive; and
+  (b) will imbue the employees with a spirit of service to the institution and to the community; and
+  (c) will promote efficiency; and
+  (d) will manage the institution in a responsible manner that reflects the needs of academic freedom, accountability, and the proper use of resources; and
+  (e) will maintain appropriate standards of integrity and conduct among employees and ensure the wellbeing of students attending the institution; and
+  (f) will ensure that the institution is a good employer; and
+  (g) will promote equal employment opportunities.
 
 ### 77IC Reappointment of chief executive
 A Council may reappoint its existing chief executive for a further term without first notifying the impending vacancy or examining other applicants.
@@ -918,8 +909,8 @@ The Council, for just cause or excuse, may remove the chief executive from offic
 
 ### 77IF Acting chief executive
 (1) Where—all or any of the functions, powers, and duties of the chief executive or pertaining to the position may be exercised and performed by an employee, for the time being directed by the Council of the tertiary education institution to exercise and perform them, whether the direction has been given before the absence or vacancy occurs or while it continues.
-  (a) There is a vacancy in the position of a chief executive of a tertiary education institution; or
-  (b) A chief executive of a tertiary education institution is absent from duty (from whatever cause arising),—
+  (a) there is a vacancy in the position of a chief executive of a tertiary education institution; or
+  (b) a chief executive of a tertiary education institution is absent from duty (from whatever cause arising),—
 (2) No such direction and no acts done by any person acting pursuant to any such direction shall in any proceedings be questioned on the ground that the occasion for the direction had not arisen or had ceased, or on the ground that the person had not been appointed to the position of chief executive.
 (3) The Council of the tertiary education institution shall determine the conditions of employment that are to apply to any person directed under subsection (1) of this section to exercise and perform any of the functions, powers, and duties of a chief executive.
 
@@ -1024,11 +1015,11 @@ The regulations and orders specified in Schedule 7 to this Act are hereby revoke
 
 ### 90 Consequential amendments in relation to repeal of State Services Act 1962 and State Services Conditions of Employment Act 1977
 Unless in any case the context otherwise requires, and subject to the provisions of this Act, in any other enactment or in any regulations or in any instrument—
-  (a) Every reference to the State Services Act 1962 or to the State Services Conditions of Employment Act 1977 shall be read as a reference to the State Sector Act 1988:
-  (b) Every reference to an officer, probationer, wage-worker, or temporary employee under the State Services Act 1962 shall be read as a reference to an employee under the State Sector Act 1988:
-  (c) Every reference to the Chairman of the State Services Commission shall be read as a reference to the State Services Commissioner under this Act:
-  (d) Every reference to a permanent head shall be read as a reference to a chief executive:
-  (e) Every reference to a matter being determined under the State Services Conditions of Employment Act 1977 shall be read as a reference to a matter being determined under the State Sector Act 1988.
+  (a) every reference to the State Services Act 1962 or to the State Services Conditions of Employment Act 1977 shall be read as a reference to the State Sector Act 1988:
+  (b) every reference to an officer, probationer, wage-worker, or temporary employee under the State Services Act 1962 shall be read as a reference to an employee under the State Sector Act 1988:
+  (c) every reference to the Chairman of the State Services Commission shall be read as a reference to the State Services Commissioner under this Act:
+  (d) every reference to a permanent head shall be read as a reference to a chief executive:
+  (e) every reference to a matter being determined under the State Services Conditions of Employment Act 1977 shall be read as a reference to a matter being determined under the State Sector Act 1988.
 
 **Transitional provisions and savings**
 
@@ -1036,8 +1027,8 @@ Unless in any case the context otherwise requires, and subject to the provisions
 (1) Except as provided in subsection (2) of this section, any person holding the position of a permanent head of a Department of the Public Service under the State Services Act 1962 (not being an acting appointment) at the commencement of this Act shall be offered employment as the chief executive of that Department for a period of not less than 2 years from the date of the commencement of this Act on terms and conditions of employment (other than tenure of office) no less favourable than the terms and conditions of employment applying immediately before the commencement of this Act in the position as a permanent head of a Department.
 (2) No person shall be entitled to be, but may be, appointed as a chief executive under subsection (1) of this section for any period that would take that person's employment beyond their compulsory date of retirement as determined under the State Services Act 1962 immediately before the commencement of this Act.
 (3) Subsections (1) and (2) of this section shall apply in relation to—as if they were each a permanent head of a Department of the Public Service under the State Services Act 1962.
-  (a) The person holding office immediately before the commencement of this Act (other than in an acting capacity) as Director of the Prime Minister's Office; and
-  (b) The person holding office immediately before the commencement of this Act (other than in an acting capacity) as the Secretary of the Cabinet,—
+  (a) the person holding office immediately before the commencement of this Act (other than in an acting capacity) as Director of the Prime Minister's Office; and
+  (b) the person holding office immediately before the commencement of this Act (other than in an acting capacity) as the Secretary of the Cabinet,—
 (4) Nothing in section 35 of this Act shall apply to an appointment made under subsection (1) of this section.
 
 ### 92 Transitional provisions for senior executive service
@@ -1055,32 +1046,32 @@ Every award and every agreement relating to the terms and conditions of employme
 
 ### 96 Determinations and orders
 (1) Every determination and every order of the Arbitration Commission or the Labour Court, being a determination or order relating to terms and conditions of employment of employees of the State services, which was made under the State Services Act 1962 or the State Services Conditions of Employment Act 1977 and which was in force immediately before the commencement of this Act,—
-  (a) Shall continue in force, except so far as other provision is duly made under this Act fixing the terms and conditions of employment to which that determination or order relates; and
-  (b) Shall be deemed to be an award or an agreement registered under Part 7 of the Labour Relations Act 1987; but
-  (c) The rates of remuneration included in a determination or order deemed by this subsection to be an award or an agreement registered under Part 7 of the Labour Relations Act 1987 shall be paid rates.
+  (a) shall continue in force, except so far as other provision is duly made under this Act fixing the terms and conditions of employment to which that determination or order relates; and
+  (b) shall be deemed to be an award or an agreement registered under Part 7 of the Labour Relations Act 1987; but
+  (c) the rates of remuneration included in a determination or order deemed by this subsection to be an award or an agreement registered under Part 7 of the Labour Relations Act 1987 shall be paid rates.
 (2) An award or an agreement fixing the terms and conditions of employment of the employees of any Department may be delivered to the Arbitration Commission for registration under Part 7 of the Labour Relations Act 1987 at any time before the close of the 30th day of June 1988.
 (3) Except as provided in subsection (6) of this section, where an award or agreement fixing the terms and conditions of employment of employees of the State services has not been delivered to the Arbitration Commission for registration before the close of the 30th day of June 1988, no award or agreement fixing conditions of employment of those employees may be registered until after the expiry date of the determination or order deemed to be an award or agreement under subsection (1) of this section.
 (4) Where any dispute arises between the parties over any matters to be incorporated into the award or agreement that will supersede a determination that is deemed by this section to be an award or agreement, either party may, before the close of the 30th day of June 1988, invoke the disputes procedure set out in Schedule 6 to the Labour Relations Act 1987.
 (5) In making a decision on the dispute, the disputes committee or the Labour Court shall determine—
-  (a) Whether the matter or matters in dispute are identical terms or conditions of employment to which section 94 of this Act applies; and
-  (b) If so, whether they should be incorporated in the proposed award or agreement.
+  (a) whether the matter or matters in dispute are identical terms or conditions of employment to which section 94 of this Act applies; and
+  (b) if so, whether they should be incorporated in the proposed award or agreement.
 (6) Where, as at the close of the 30th day of June 1988, the only matters not settled in relation to the completion of an award or agreement are matters that have been referred to a disputes committee under subsection (4) of this section, that award or agreement may, notwithstanding any of the other provisions of this section, be delivered to the Arbitration Commission for registration forthwith upon the decision of the disputes committee or the Labour Court being advised to the parties.
 (7) Except as provided in subsection (8) of this section, every award or agreement registered by the Arbitration Commission under this section shall come into force on the 1st day of July 1988.
 (8) The Commission may make an adjustment, with effect from the commencement of the 1st day of April 1988, to the salaries of any person or group of persons who, at the commencement of this Act,—
-  (a) Held positions to which section 12(1)(a) of the Higher Salaries Commission Act 1977 applied; or
-  (b) Belonged to a group or class of employees whose salary scale had been the subject of an adjustment that took effect on the 10th day of November 1987 but who have not received an adjustment of at least 7 percent to their salaries as a result of that adjustment.
+  (a) held positions to which section 12(1)(a) of the Higher Salaries Commission Act 1977 applied; or
+  (b) belonged to a group or class of employees whose salary scale had been the subject of an adjustment that took effect on the 10th day of November 1987 but who have not received an adjustment of at least 7 percent to their salaries as a result of that adjustment.
 (9) Any such adjustment made by the Commission under subsection (8) of this section shall be incorporated into the award or agreement that is to come into force on the 1st day of July 1988.
 (10) Except where there is only one employer involved, every document registered under this section shall be an award.
 
 ### 97 Clauses relating to disputes of rights and personal grievances
 Every determination or order deemed to be registered under Part 7 of the Labour Relations Act 1987 by section 96 of this Act shall be deemed to include—
-  (a) With effect from the commencement of the 1st day of April 1988, the clauses set out in Schedule 6 to that Act (which clauses relate to disputes of rights); and
-  (b) With effect from the commencement of the 1st day of July 1988, the clauses set out in Schedule 7 to that Act (which clauses relate to settlement of personal grievances).
+  (a) with effect from the commencement of the 1st day of April 1988, the clauses set out in Schedule 6 to that Act (which clauses relate to disputes of rights); and
+  (b) with effect from the commencement of the 1st day of July 1988, the clauses set out in Schedule 7 to that Act (which clauses relate to settlement of personal grievances).
 
 ### 98 Expiry date of determinations and orders
 Every determination or order—shall be deemed to include an expiry date which shall be the first date upon which any of the conditions of employment contained in that determination or order could have been amended under section 6 of the State Services Conditions of Employment Act 1977 other than by way of amending determination under section 24 of the State Services Conditions of Employment Act 1977.
-  (a) Deemed to be registered under Part 7 of the Labour Relations Act 1987 by section 96(1) of this Act; or
-  (b) Delivered for registration under section 96(2) or (6) of this Act,—
+  (a) deemed to be registered under Part 7 of the Labour Relations Act 1987 by section 96(1) of this Act; or
+  (b) delivered for registration under section 96(2) or (6) of this Act,—
 
 ### 99 Mandatory registration
 (1) Any award or agreement delivered to the Arbitration Commission for registration under section 96 of this Act, shall, subject to subsection (2) of this section, be registered by the Arbitration Commission notwithstanding that the award or agreement does not comply with the requirements of section 150 or section 164 of the Labour Relations Act 1987.
@@ -1100,8 +1091,8 @@ Sections 49 and 52 of the Labour Relations Act 1987 shall not, until the 1st day
 
 ### 103 Union membership
 (1) Where, at the commencement of this Act, any determination contains a membership clause, that clause shall continue to have effect according to its tenor notwithstanding—
-  (a) The repeal of the provisions under which it was made; and
-  (b) The provisions of the Labour Relations Act 1987 relating to the insertion of union membership clauses in awards or agreements.
+  (a) the repeal of the provisions under which it was made; and
+  (b) the provisions of the Labour Relations Act 1987 relating to the insertion of union membership clauses in awards or agreements.
 (2) The provisions of the Labour Relations Act 1987 relating to union membership clauses shall apply in respect of the insertion of any union membership clause in any award or agreement after the commencement of this Act, including the replacement of any membership clause to which subsection (1) of this section applies.
 (3) Every service organisation that is deemed to be a union by section 100 of this Act shall, for a period of 12 months beginning on the 1st day of April 1988, have exclusive and unchangeable coverage of the persons in respect of whom it was recognised under the State Services Conditions of Employment Act 1977 immediately before the commencement of this Act.
 
@@ -1113,11 +1104,11 @@ Notwithstanding the repeal of the State Services Act 1962, the provisions of sec
 
 ### 106 Application of repealed provisions
 (1) The following provisions of the State Services Act 1962, namely, the provisions of—shall continue to apply for the purposes of this Act only to the extent that they are expressly referred to and expressly applied by this Act or any other Act.
-  (a) Sections 22 to 26; and
-  (b) Sections 28 to 31; and
-  (c) Sections 32 to 39; and
-  (d) Sections 44 to 49; and
-  (e) Sections 51 to 60; and
+  (a) sections 22 to 26; and
+  (b) sections 28 to 31; and
+  (c) sections 32 to 39; and
+  (d) sections 44 to 49; and
+  (e) sections 51 to 60; and
   (f) Parts 4 and 5—
 (2) Where, before the commencement of this Act, any person was required by or under any Act or instructions, in force at the commencement of this Act, to retire from any office or employment on attaining a specified age, nothing in this Act entitles that person to continue in that office or employment after attaining that age.
 
@@ -1128,8 +1119,8 @@ Notwithstanding the repeal of the State Services Act 1962, the provisions of sec
 ### 108 Appeal rights of employees of Public Service
 (1) Notwithstanding anything in this Act if, immediately before the 1st day of July 1988, an appeal under section 57 or section 64 of the State Services Act 1962 is pending or if there is a right to such an appeal, either to the State Services Commission or to the Public Service Appeal Board, the provisions of that Act, so far as they are applicable, shall continue to apply to that appeal as if the State Services Act 1962 had not been repealed.
 (2) Notwithstanding anything in this Act, if, immediately before the 1st day of April 1988,—the provisions of that Act, so far as they are applicable, shall continue to apply to that appeal as if the State Services Act 1962 had not been repealed.
-  (a) An appeal under section 64(1)(a) of the State Services Act 1962 is pending; or
-  (b) There is a right to such an appeal,—
+  (a) an appeal under section 64(1)(a) of the State Services Act 1962 is pending; or
+  (b) there is a right to such an appeal,—
 (3) The decision on any appeal to which subsection (1) or subsection (2) of this section applies shall be binding on the employee, the Commission, and on any chief executive who may be affected and shall be implemented as if the State Services Act 1962 were still in force.
 
 ### 109 Apprenticeships preserved
@@ -1160,69 +1151,16 @@ Without limiting the provisions of the Acts Interpretation Act 1924, it is hereb
 
 ## Schedule 5 — Enactments amended
 
-| Title of Act | Amendment |
-| --- | --- |
-| 1938, No 9—The Carter Observatory Act 1938 (RS Vol 1, p 429) | By adding to section 20 the following subsections:2The chief executive officer of the Board shall be paid such remuneration as is from time to time determined by the State Services Commission.3The other officers and servants shall be paid such remuneration as the Board from time to time considers appropriate. |
-| 1946, No 26—The Veterinary Services Act 1946 (RS Vol 11, p 761) |  |
-| 1948, No 51—The Armed Forces Canteens Act 1948 (RS Vol 1, p 143) | By repealing section 6 (as substituted by section 3(1) of the Armed Forces Canteens Amendment Act 1956), and substituting the following section:6Officers of the Council-The Council may from time to time appoint-aA General Manager of the Council; andbA Secretary of the Council; andcSuch other employees as may be deemed necessary to assist in the efficient carrying out of the administrative functions of the Council under this Act. |
-| 1950, No 20—The Medical Research Council Act 1950 (RS Vol 10, p 75) |  |
-| 1956, No 47—The Government Superannuation Fund Act 1956, (RS Vol 21, p 209) | By repealing the definition of the term controlling authority in section 2 (as amended by section 3(10) of the State Services Act 1962, section 2(2)(a) of the Education Act 1964, and section 65(1) of the Health Service Personnel Act 1983), and substituting the following definition:Controlling authority, in relation to,—aA contributor employed in the Public Service, means the chief executive of the Department concerned:bA contributor employed in the Education service (other than in a university), means the chief executive of the Department of Education:cA contributor employed in a university, means the Chairman of the University Grants Committee:dA contributor employed in the Health Service, means the general manager of the appropriate area health board:eA contributor employed in a State enterprise, means the chief executive of that enterprise:fA contributor employed in any other part of the State services, means the employing authority concerned: By repealing the definition of the term Health Service (as inserted by section 65(1) of the Health Service Personnel Act 1983), and substituting the following definition:Health Service means employment by an area health board established under the Area Health Boards Act 1983 By repealing section 23A(8) (as added by section 4(3) of the Government Superannuation Fund Amendment Act 1967), and substituting the following subsection:8The Education Board employees to whom this section applies shall be those employed under the Education Authorities Employment Regulations 1982. |
-| 1957, No 36—The Public Trust Office Act 1957 (Reprinted, 1976, Vol 5, p 4361) | By repealing subsections (2) and (5) of Public Trust Office section 9. |
-| 1963, No 16—The Adult Education Act 1963 (RS Vol 14, p 1) |  |
-| 1964, No 135—The Education Act 1964 (Reprinted, 1975, Vol 3, p 1699) | By omitting from section 165A(4) (as inserted by section 31 of the Education Amendment Act (No 2) 1974) the words with the consent of the State Services Co-ordinating Committee. |
-| 1966, No 6—The Trades Certification Act 1966 (RS Vol 13, p 761) |  |
-| 1966, No 19—The Customs Act 1966 (RS Vol 2, p 57) |  |
-| 1966, No 20—The Industries Design Act 1966 (RS Vol 17, p 225) |  |
-| 1966, No 21—The Consumer Council Act 1966 (RS Vol 17, p 149) |  |
-| 1967, No 38—The Tokelau Amendment Act 1967 (Reprinted, 1976, Vol 5, p 4498) |  |
-| 1969, No 24—The New Zealand Security Intelligence Service Act 1969 (RS Vol 21, p 559) | By omitting from section 6(2) (as substituted by section 6(1) of the New Zealand Security Intelligence Service Amendment Act 1977) the words any subsequent Order in Council prescribing the salary for the office, and substituting the words the Higher Salaries Commission Act 1977. |
-| 1971, No 25—The Mining Act 1971 (RS Vol 17, p 335) |  |
-| 1971, No 60—The Department of Social Welfare Act 1971 |  |
-| 1972, No 35—The New Zealand Council Educational Research Act 1972 | By inserting in section 15, after subsection (1), the following subsection:1ANotwithstanding anything in subsection (1) of this section, the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the State Services Commission. |
-| 1972, No 36—The Testing Laboratory Registration Act 1972 | By inserting in section 15, after subsection (2), the following subsection:2ANotwithstanding anything in subsection (2) of this section, the remuneration payable to the chief executive of the Council shall be determined by the State Services Commission. By repealing paragraph (a) of section 15(4), and substituting the following paragraph:aIn the case of a person subject to the State Sector Act 1988, with the consent of the chief executive to whose control that person is subject. |
-| 1972, No 118—The Equal Pay Act 1972 (RS Vol 18, p 85) | By repealing paragraph (a) of the definition of the term employee in section 2(1), and substituting the following paragraph:aAny person whose rate of remuneration is fixed under the State Sector Act 1988:. By repealing paragraph (d) of the definition of the term employee in section 2(1). |
-| 1974, No 6—The Scientific and Industrial Research Act 1974 |  |
-| 1974, No 19—The Housing Corporation Act 1974 | By repealing subsections (3) to (5) of section 5, and substituting the following subsections:3In addition to his or her functions as chairman of the Corporation, the Director-General shall be deemed, subject to subsection (4) of this section, to be the chief executive of the Corporation for the purposes of the State Sector Act 1988.4The Director-General shall be responsible to the Corporation for the general conduct and the efficient, effective, and economical management of the functions and activities of the Corporation.5Section 32 of the State Sector Act 1988 shall be read subject to this section.6The remuneration and other payment shall be paid by the Corporation out of its own funds. |
-| 1974, No 66—The Local Government Act 1974 |  |
-| 1974, No 67—The Queen Elizabeth the Second Arts Council of New Zealand Act 1974 (RS Vol 21, p 1) |  |
-| 1975, No 65—The Public Finance Act 1977 |  |
-| 1981, No 5—The Psychologists Act 1981 |  |
-| 1982, No 156—The Official Information Act 1982 (RS Vol 21, p 1) | By repealing clause 12 of Schedule 2, and substituting the following clause:12Remuneration, allowances, and expenses of members of Authority1The Authority is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.2The members of the Authority shall be paid remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly. |
-| 1983, No 16—The Apprenticeship Act 1983 |  |
-| 1985, No 159—The Social Security Amendment Act (No 2) 1985 | By repealing section 29. |
-| 1986, No 35—The Union Representatives Education Leave Act 1986 |  |
-| 1987, No 129—The Parental Leave and Employment Protection Act 1987 |  |
-| 1988, No 5—The Standards Act 1988 | By adding to section 12(3) the following proviso:Provided that the remuneration payable to the chief executive officer of the Council shall be determined from time to time by the State Services Commission. |
+### 6
+Officers of the Council-The Council may from time to time appoint-
+  (a) a General Manager of the Council; and
+  (b) a Secretary of the Council; and
+  (c) such other employees as may be deemed necessary to assist in the efficient carrying out of the administrative functions of the Council under this Act.
+
+### 12 Remuneration, allowances, and expenses of members of Authority
+(1) The Authority is hereby declared to be a statutory Board within the meaning of the Fees and Travelling Allowances Act 1951.
+(2) The members of the Authority shall be paid remuneration by way of fees, salary, or allowances and travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly.
 
 ## Schedule 6 — Enactments repealed
 
 ## Schedule 7 — Regulations and orders revoked
-
-| Title | Statutory Regulations Serial Number |
-| --- | --- |
-| The Public Service Regulations 1964 | 1964/115 |
-| The Public Service Regulations 1964, Amendment No 1 | 1965/123 |
-| The Public Service Regulations 1964, Amendment No 2 | 1967/39 |
-| The Public Service Regulations 1964, Amendment No 3 | 1969/176 |
-| The Public Service Regulations 1964, Amendment No 6 | 1973/151 |
-| The State Services Order 1974 | 1974/32 |
-| The Public Service Regulations 1964, Amendment No 8 | 1976/78 |
-| The State Services Conditions of Employment Order 1978 | 1978/218 |
-| The State Services Conditions of Employment Order 1979 | 1979/56 |
-| The State Services Conditions of Employment Act Suspension Order 1979 | 1979/271 |
-| The State Services Conditions of Employment Order 1981 | 1981/147 |
-| The State Services Conditions of Employment Order 1982 | 1982/272 |
-| The State Services Conditions of Employment Order 1983 | 1983/17 |
-| The Public Service Regulations 1964, Amendment No 9 | 1983/88 |
-| The Health Service Personnel (Principal Officers) Order 1984 | 1984/79 |
-| The Health Medical Officers' Advisory Committee Regulations 1984 | 1984/271 |
-| The Health Medical Officers' Grading Committee Regulations 1985 | 1985/31 |
-| The Public Service Regulations 1964, Amendment No 10 | 1985/178 |
-| The State Services Conditions of Employment Order 1985 | 1985/274 |
-| The Public Service Regulations 1964, Amendment No 11 | 1985/285 |
-| The Health Service Personnel (Principal Officers) Order 1984, Amendment No 1 | 1985/305 |
-| The Health Service Personnel Amendment Act Commencement Order 1986 | 1986/196 |
-| The Public Service Regulations 1964, Amendment No 12 | 1987/34 |
-| The State Services Conditions of Employment Order 1987 | 1987/210 |
-| The Health Service Personnel (Principal Officers) Order 1984, Amendment No 2 | 1987/361 |
-| The State Services Salary Order (No 2) 1987 | 1987/404 |
