@@ -1,5 +1,5 @@
 # Ombudsmen Act 1975
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-07-01_
 
 > An Act to consolidate and amend the Parliamentary Commissioner (Ombudsman) Act 1962
 
@@ -12,17 +12,17 @@ _Consolidation as at 2010-04-01_
 (1) In this Act, unless the context otherwise requires,—
   - **Ombudsman** , in relation to any function, power, or duty under this Act, means the Ombudsman for the time being investigating the complaint in respect of which the function, power, or duty is being exercised
   - **State enterprise** means—
-    (a) An organisation that is a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 and that is named in Part 2 of Schedule 1 to this Act:
-    (b) An organisation that was a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 but which continues to be named in Part 2 of Schedule 1 to this Act.
+    (a) an organisation that is a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 and that is named in Part 2 of Schedule 1 to this Act:
+    (b) an organisation that was a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 but which continues to be named in Part 2 of Schedule 1 to this Act.
 (2) For the purposes of Part 2 of Schedule 1 to this Act, a company is a related company of a State enterprise if the State enterprise whether alone or together with any other State enterprise, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,—as the case may be.
-  (a) In the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
-  (b) In the case of a company registered under the Companies Act 1993, the issued shares of the company, (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
-(3) For the purposes of Part 2 of Schedule 1 to this Act, a company is a related company of a Crown Research Institute if the Crown Research Institute, whether alone or together with any other Crown Research Institute, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,—as the case may be.
-  (a) In the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
-  (b) In the case of a company registered under the Companies Act 1993, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
-(4) For the purposes of Part 2 of Schedule 1 to this Act, a company is a related company of a district health board if the district health board, whether alone or together with any other district health board, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,—as the case may be.
-  (a) In the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
-  (b) In the case of a company registered under the Companies Act 1993, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
+  (a) iIn the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
+  (b) in the case of a company registered under the Companies Act 1993, the issued shares of the company, (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
+(3) For the purposes of Part 2 of Schedule 1 to this Act, a company is a related company of a Crown Research Institute if the Crown Research Institute, whether alone or together with any other Crown Research Institute, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,— as the case may be.
+  (a) in the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
+  (b) in the case of a company registered under the Companies Act 1993, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
+(4) For the purposes of Part 2 of Schedule 1 to this Act, a company is a related company of a district health board if the district health board, whether alone or together with any other district health board, directly or indirectly owns, or controls the exercise of all the voting rights attaching to,— as the case may be.
+  (a) in the case of a company registered under the Companies Act 1955, the equity share capital (as defined in section 158 of the Companies Act 1955) of the company; or
+  (b) in the case of a company registered under the Companies Act 1993, the issued shares of the company (other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital),—
 
 ## Part  — Ombudsmen
 
@@ -51,8 +51,8 @@ An Ombudsman shall not be capable of being a member of Parliament or of a local 
 (2) If any vacancy in the office of an Ombudsman occurs at any time while Parliament is in session, it shall be filled by the appointment of an Ombudsman by the Governor-General on the recommendation of the House of Representatives:
   Provided that if the vacancy occurs less than 2 months before the close of that session and no such recommendation is made in that session, the provisions of subsection (3) of this section shall apply as if the vacancy had occurred while Parliament was not in session.
 (3) If any such vacancy occurs at any time while Parliament is not in session, the following provisions shall apply:
-  (a) The Governor-General in Council may appoint an Ombudsman to fill the vacancy, and the person so appointed shall, unless his office sooner becomes vacant, hold office until his appointment is confirmed by the House of Representatives:
-  (b) If the appointment is not so confirmed within 2 months after the commencement of the next ensuing session, the appointment shall lapse and there shall be deemed to be a further vacancy in the office of an Ombudsman.
+  (a) the Governor-General in Council may appoint an Ombudsman to fill the vacancy, and the person so appointed shall, unless his office sooner becomes vacant, hold office until his appointment is confirmed by the House of Representatives:
+  (b) if the appointment is not so confirmed within 2 months after the commencement of the next ensuing session, the appointment shall lapse and there shall be deemed to be a further vacancy in the office of an Ombudsman.
 
 ### 8 Temporary appointments of Ombudsmen
 (1) The Governor-General may, at any time during the illness or absence of any Ombudsman, or for any other temporary purpose whatsoever, appoint an Ombudsman to hold office in accordance with this section, and every such Ombudsman shall be paid such salary, not exceeding the amount payable in accordance with section 9 of this Act to an Ombudsman other than the Chief Ombudsman, as the Governor-General thinks fit.
@@ -63,8 +63,8 @@ An Ombudsman shall not be capable of being a member of Parliament or of a local 
 
 ### 9 Salaries and allowances of Ombudsmen
 (1) There shall be paid to each Ombudsman out of public money, without further appropriation than this section,—
-  (a) A salary at such rate as the Remuneration Authority from time to time determines; and
-  (b) Such allowances as are from time to time determined by the Remuneration Authority.
+  (a) a salary at such rate as the Remuneration Authority from time to time determines; and
+  (b) such allowances as are from time to time determined by the Remuneration Authority.
 (2) In the case of the Chief Ombudsman, the rate of salary and the allowances determined may be higher than those of the other Ombudsmen.
 (3) The salary of an Ombudsman is not to be diminished during the continuance of the Ombudsman's appointment.
 (4) Notwithstanding anything in subsection (1) of this section, there shall be paid to each Ombudsman, in respect of time spent in travelling in the exercise of his functions, travelling allowances and expenses in accordance with the Fees and Travelling Allowances Act 1951, and the provisions of that Act shall apply accordingly as if the Ombudsman were a member of a statutory Board and the travelling were in the service of a statutory Board.
@@ -92,14 +92,13 @@ For the purpose of providing superannuation or retiring allowances for any Ombud
 (5) Without limiting the foregoing provisions of this section, it is hereby declared that at any time the Prime Minister may, with the consent of the Chief Ombudsman, refer to an Ombudsman for investigation and report any matter, other than a matter concerning a judicial proceeding, which the Prime Minister considers should be investigated by an Ombudsman. Where a matter is referred to an Ombudsman pursuant to this subsection, he shall, notwithstanding anything to the contrary in this Act, forthwith investigate that matter and report thereon to the Prime Minister, and may thereafter make such report to Parliament on the matter as he thinks fit. Nothing in section 22 of this Act shall apply in respect of any investigation or report made under this subsection.
 (6) The powers conferred on Ombudsmen by this Act may be exercised notwithstanding any provision in any enactment to the effect that any such decision, recommendation, act, or omission shall be final, or that no appeal shall lie in respect thereof, or that no proceeding or decision of the person or organisation whose decision, recommendation, act, or omission it is shall be challenged, reviewed, quashed, or called in question.
 (7) Nothing in this Act shall authorise an Ombudsman to investigate—
-  (a) Any decision, recommendation, act, or omission in respect of which there is, under the provisions of any Act or regulation, a right of appeal or objection, or a right to apply for a review, available to the complainant, on the merits of the case, to any Court, or to any tribunal constituted by or under any enactment, whether or not that right of appeal or objection or application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired:
-    Provided that the Ombudsman may conduct an investigation (not being an investigation relating to any decision, recommendation, act, or omission to which any other paragraph of this subsection applies) notwithstanding that the complainant has or had such right if by reason of special circumstances it would be unreasonable to expect him to resort or have resorted to it:
-  (b) Any decision, recommendation, act, or omission of any person in his capacity as a trustee within the meaning of the Trustee Act 1956:
-  (c) Any decision, recommendation, act, or omission of any person acting as legal adviser to the Crown pursuant to the rules for the time being approved by the Government for the conduct of Crown legal business, or acting as counsel for the Crown in relation to any proceedings:
-  (d) Any decision, recommendation, act, or omission of any member of the Police, other than any matter relating to the terms and conditions of service of any person as a member of the Police.
+  (a) any decision, recommendation, act, or omission in respect of which there is, under the provisions of any Act or regulation, a right of appeal or objection, or a right to apply for a review, available to the complainant, on the merits of the case, to any Court, or to any tribunal constituted by or under any enactment, whether or not that right of appeal or objection or application has been exercised in the particular case, and whether or not any time prescribed for the exercise of that right has expired: provided that the Ombudsman may conduct an investigation (not being an investigation relating to any decision, recommendation, act, or omission to which any other paragraph of this subsection applies) notwithstanding that the complainant has or had such right if by reason of special circumstances it would be unreasonable to expect him to resort or have resorted to it:
+  (b) any decision, recommendation, act, or omission of any person in his capacity as a trustee within the meaning of the Trustee Act 1956:
+  (c) any decision, recommendation, act, or omission of any person acting as legal adviser to the Crown pursuant to the rules for the time being approved by the Government for the conduct of Crown legal business, or acting as counsel for the Crown in relation to any proceedings:
+  (d) any decision, recommendation, act, or omission of any member of the Police, other than any matter relating to the terms and conditions of service of any person as a member of the Police.
 (8) Nothing in this Act shall authorise an Ombudsman to investigate any matter relating to any person who is or was a member of or provisional entrant to the New Zealand Naval Forces, the New Zealand Army, or the Royal New Zealand Air Force, so far as the matter relates to—
-  (a) The terms and conditions of his service as such member or entrant; or
-  (b) Any order, command, decision, penalty, or punishment given to or affecting him in his capacity as such member or entrant.
+  (a) the terms and conditions of his service as such member or entrant; or
+  (b) any order, command, decision, penalty, or punishment given to or affecting him in his capacity as such member or entrant.
 (9) If any question arises whether an Ombudsman has jurisdiction to investigate any case or class of cases under this Act, he may, if he thinks fit, apply to the High Court for a declaratory order determining the question in accordance with the Declaratory Judgments Act 1908, and the provisions of that Act shall extend and apply accordingly.
 
 ### 14 Limitation of time for certain complaints in respect of local organisations
@@ -117,12 +116,12 @@ Nothing in section 13 of this Act shall permit an Ombudsman to investigate any d
 
 ### 17 Ombudsman may refuse to investigate complaint
 (1) An Ombudsman may—
-  (a) Refuse to investigate a complaint that is within his jurisdiction or to investigate any such complaint further if it appears to him that under the law or existing administrative practice there is an adequate remedy or right of appeal, other than the right to petition the House of Representatives, to which it would have been reasonable for the complainant to resort; or
-  (b) Refuse to investigate any such complaint further if in the course of the investigation of the complaint it appears to him that, having regard to all the circumstances of the case, any further investigation is unnecessary.
+  (a) refuse to investigate a complaint that is within his jurisdiction or to investigate any such complaint further if it appears to him that under the law or existing administrative practice there is an adequate remedy or right of appeal, other than the right to petition the House of Representatives, to which it would have been reasonable for the complainant to resort; or
+  (b) refuse to investigate any such complaint further if in the course of the investigation of the complaint it appears to him that, having regard to all the circumstances of the case, any further investigation is unnecessary.
 (2) Without limiting the generality of the powers conferred on Ombudsmen by this Act, it is hereby declared that an Ombudsman may in his discretion decide not to investigate, or, as the case may require, not to investigate further, any complaint if it relates to any decision, recommendation, act, or omission of which the complainant has had knowledge for more than 12 months before the complaint is received by the Ombudsman, or if in his opinion—
-  (a) The subject-matter of the complaint is trivial; or
-  (b) The complaint is frivolous or vexatious or is not made in good faith; or
-  (c) The complainant has not a sufficient personal interest in the subject-matter of the complaint.
+  (a) the subject-matter of the complaint is trivial; or
+  (b) the complaint is frivolous or vexatious or is not made in good faith; or
+  (c) the complainant has not a sufficient personal interest in the subject-matter of the complaint.
 (3) In any case where an Ombudsman decides not to investigate or make further investigation of a complaint he shall inform the complainant of that decision, and shall state his reasons therefor.
 
 ### 17A Referral of complaint to Privacy Commissioner
@@ -153,31 +152,31 @@ Nothing in section 13 of this Act shall permit an Ombudsman to investigate any d
 ### 19 Evidence
 (1) Subject to the provisions of this section and of section 20 of this Act, an Ombudsman may from time to time require any person who in his opinion is able to give any information relating to any matter that is being investigated by the Ombudsman to furnish to him any such information, and to produce any documents or papers or things which in the Ombudsman's opinion relate to any such matter as aforesaid and which may be in the possession or under the control of that person. This subsection shall apply whether or not the person is an officer, employee, or member of any Department or organisation, and whether or not such documents, papers, or things are in the custody or under the control of any Department or organisation.
 (2) An Ombudsman may summon before him and examine on oath—and for that purpose may administer an oath. Every such examination by the Ombudsman shall be deemed to be a judicial proceeding within the meaning of section 108 of the Crimes Act 1961 (which relates to perjury).
-  (a) Any person who is an officer or employee or member of any Department or organisation named or specified in Schedule 1 to this Act and who in the Ombudsman's opinion is able to give any such information as aforesaid; or
-  (b) Any complainant; or
-  (c) With the prior approval of the Attorney-General in each case, any other person who in the Ombudsman's opinion is able to give any such information—
+  (a) any person who is an officer or employee or member of any Department or organisation named or specified in Schedule 1 to this Act and who in the Ombudsman's opinion is able to give any such information as aforesaid; or
+  (b) any complainant; or
+  (c) with the prior approval of the Attorney-General in each case, any other person who in the Ombudsman's opinion is able to give any such information—
 (3) Subject to this section and to subsection (1) of section 20 of this Act, any person who is bound by the provisions of any enactment (being any Act of Parliament or any regulations within the meaning of the Acts and Regulations Publication Act 1989 made by Order in Council) to maintain secrecy in relation to, or not to disclose, any matter may be required to supply any information to or answer any question put by an Ombudsman in relation to that matter, or to produce to an Ombudsman any document or paper or thing relating to it, notwithstanding that compliance with that requirement would otherwise be in breach of the obligation of secrecy or non-disclosure.
 (4) Compliance with a requirement of an Ombudsman (being a requirement made pursuant to subsection (3) of this section) is not a breach of the relevant obligation of secrecy or non-disclosure or of the enactment by which that obligation is imposed.
 (5) Every person shall have the same privileges in relation to the giving of information, the answering of questions, and the production of documents and papers and things as witnesses have in any Court.
-(5A) In any investigation carried out under this Act pursuant to the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, nothing in subsection (5) prevents an Ombudsman from—for the purpose of determining whether the information, document, paper, or thing would be properly withheld, but not so as to give the Ombudsman any information, or enable the Ombudsman to make any use of the information, document, paper, or thing that he or she would not, apart from this subsection, be entitled to.
-  (a) Requiring, under subsection (1), the furnishing of any information or the production of any document, paper, or thing for which privilege is claimed by any person; and
-  (b) Considering the information or inspecting any such document, paper, or thing—
+(5A) In any investigation carried out under this Act pursuant to the Official Information Act 1982 or the Local Government Official Information and Meetings Act 1987, nothing in subsection (5) prevents an Ombudsman from— for the purpose of determining whether the information, document, paper, or thing would be properly withheld, but not so as to give the Ombudsman any information, or enable the Ombudsman to make any use of the information, document, paper, or thing that he or she would not, apart from this subsection, be entitled to.
+  (a) requiring, under subsection (1), the furnishing of any information or the production of any document, paper, or thing for which privilege is claimed by any person; and
+  (b) considering the information or inspecting any such document, paper, or thing—
 (5B) On the production of any information, document, paper, or thing pursuant to subsection (5A), the Ombudsman—
-  (a) Must not release the information, document, paper, or thing, or any information derived from the document, paper, or thing to any person other than—
-    (i) The producer of the information, document, paper, or thing; or
-    (ii) Any barrister or solicitor engaged by the Ombudsman for the purpose of providing legal advice as to whether the information, document, paper, or thing would be properly withheld by that producer under subsection (5); or
-    (iii) A court:
-  (b) May give his or her opinion only to the producer of the information, document, paper or thing and the complainant as to whether or not the claim of privilege is valid:
-  (c) Must not take into account the information or any information in the document, paper, or thing in forming any opinion concerning the release of any other information, unless the Ombudsman considers the claim of privilege is not valid and has notified the person concerned of that decision.
+  (a) must not release the information, document, paper, or thing, or any information derived from the document, paper, or thing to any person other than—
+    (i) the producer of the information, document, paper, or thing; or
+    (ii) any barrister or solicitor engaged by the Ombudsman for the purpose of providing legal advice as to whether the information, document, paper, or thing would be properly withheld by that producer under subsection (5); or
+    (iii) a court:
+  (b) may give his or her opinion only to the producer of the information, document, paper or thing and the complainant as to whether or not the claim of privilege is valid:
+  (c) must not take into account the information or any information in the document, paper, or thing in forming any opinion concerning the release of any other information, unless the Ombudsman considers the claim of privilege is not valid and has notified the person concerned of that decision.
 (6) Except on the trial of any person for perjury within the meaning of the Crimes Act 1961 in respect of his sworn testimony, no statement made or answer given by that or any other person in the course of any inquiry by or any proceedings before an Ombudsman shall be admissible in evidence against any person in any Court or at any inquiry or in any other proceedings, and no evidence in respect of proceedings before an Ombudsman shall be given against any person.
 (7) No person shall be liable to prosecution for an offence against any enactment, other than this Act, by reason of his compliance with any requirement of an Ombudsman under this section.
 (8) Where any person is required by an Ombudsman to attend before him for the purposes of this section, the person shall be entitled to the same fees, allowances, and expenses as if he were a witness in a Court, and the provisions of any regulations in that behalf made under the Summary Proceedings Act 1957 and for the time being in force shall apply accordingly. For the purposes of this subsection an Ombudsman shall have the powers of a Court under any such regulations to fix or disallow, in whole or in part, or increase the amounts payable thereunder.
 
 ### 20 Disclosure of certain matters not to be required
 (1) Where the Attorney-General certifies that the giving of any information or the answering of any question or the production of any document or paper or thing—an Ombudsman shall not require the information or answer to be given or, as the case may be, the document or paper or thing to be produced.
-  (a) Might prejudice the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation), or the investigation or detection of offences; or
-  (b) Might involve the disclosure of the deliberations of Cabinet; or
-  (c) Might involve the disclosure of proceedings of Cabinet, or of any committee of Cabinet, relating to matters of a secret or confidential nature, and would be injurious to the public interest—
+  (a) might prejudice the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation), or the investigation or detection of offences; or
+  (b) might involve the disclosure of the deliberations of Cabinet; or
+  (c) might involve the disclosure of proceedings of Cabinet, or of any committee of Cabinet, relating to matters of a secret or confidential nature, and would be injurious to the public interest—
 (2) Subject to the provisions of subsection (1) of this section, the rule of law which authorises or requires the withholding of any document or paper, or the refusal to answer any question, on the ground that the disclosure of the document or paper or the answering of the question would be injurious to the public interest shall not apply in respect of any investigation by or proceedings before an Ombudsman.
 
 ### 21 Ombudsmen and staff to maintain secrecy
@@ -186,46 +185,46 @@ Nothing in section 13 of this Act shall permit an Ombudsman to investigate any d
 (3) Every person holding any office or appointment under the Chief Ombudsman shall, before he begins to perform any official duty under this Act, take an oath, to be administered by an Ombudsman, that he will not divulge any information received by him under this Act except for the purpose of giving effect to this Act.
 (4) Notwithstanding anything in subsections (1) to (3) of this section, an Ombudsman may disclose such matters as in the Ombudsman's opinion ought to be disclosed for the purposes of an investigation or in order to establish grounds for the Ombudsman's conclusions and recommendations.
 (5) The power conferred by subsection (4) of this section shall not extend to—
-  (a) Any matter that might prejudice—
-    (i) The security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
-    (ii) Any interest protected by section 7 of the Official Information Act 1982; or
-    (iii) The prevention, investigation, or detection of offences; or
-  (b) Any matter that might involve the disclosure of the deliberations of Cabinet; or
-  (c) Any information, answer, document, paper, or thing obtained by an Ombudsman by reason only of compliance with a requirement made pursuant to subsection (3) of section 19 of this Act.
+  (a) any matter that might prejudice—
+    (i) the security, defence, or international relations of New Zealand (including New Zealand's relations with the Government of any other country or with any international organisation); or
+    (ii) any interest protected by section 7 of the Official Information Act 1982; or
+    (iii) the prevention, investigation, or detection of offences; or
+  (b) any matter that might involve the disclosure of the deliberations of Cabinet; or
+  (c) any information, answer, document, paper, or thing obtained by an Ombudsman by reason only of compliance with a requirement made pursuant to subsection (3) of section 19 of this Act.
 
 ### 21A Consultation with Privacy Commissioner
 Notwithstanding anything in section 21 of this Act, an Ombudsman may from time to time undertake consultation with the Privacy Commissioner under the Privacy Act 1993 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Privacy Commissioner such information as the Ombudsman considers necessary for that purpose.
-  (a) For the purposes of making a determination under section 17A of this Act:
-  (b) In relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
-  (c) In relation to any matter relating to privacy, whether or not the matter arises out of a particular complaint made under this Act,—
+  (a) for the purposes of making a determination under section 17A of this Act:
+  (b) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
+  (c) in relation to any matter relating to privacy, whether or not the matter arises out of a particular complaint made under this Act,—
 
 ### 21B Consultation with Health and Disability Commissioner
 Notwithstanding anything in section 21 of this Act, an Ombudsman may from time to time undertake consultation with the Health and Disability Commissioner under the Health and Disability Commissioner Act 1994 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and, for the purposes of any such consultation, an Ombudsman may disclose to the Health and Disability Commissioner such information as the Ombudsman considers necessary for that purpose.
-  (a) For the purposes of making a determination under section 17B of this Act:
-  (b) In relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
-  (c) In relation to any matter that is within the jurisdiction of the Health and Disability Commissioner, whether or not the matter arises out of a particular complaint made under this Act,—
+  (a) for the purposes of making a determination under section 17B of this Act:
+  (b) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
+  (c) in relation to any matter that is within the jurisdiction of the Health and Disability Commissioner, whether or not the matter arises out of a particular complaint made under this Act,—
 
 ### 21C Consultation with Inspector-General of Intelligence and Security
 Notwithstanding anything in section 21 of this Act, an Ombudsman may from time to time undertake consultation with the Inspector-General of Intelligence and Security holding office under section 5 of the Inspector-General of Intelligence and Security Act 1996 in relation to any matter relating to the functions of the Ombudsman, including (without limitation) consultation—and for the purposes of any such consultation, an Ombudsman may disclose to the Inspector-General of Intelligence and Security such information as the Ombudsman considers necessary for that purpose.
-  (a) For the purposes of making a determination under section 17C of this Act:
-  (b) In relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
-  (c) In relation to any matter that is within the jurisdiction of the Inspector-General of Intelligence and Security, whether or not the matter arises out of a particular complaint made under this Act,—
+  (a) for the purposes of making a determination under section 17C of this Act:
+  (b) in relation to any matter arising out of or in the course of an investigation under this Act or any other enactment:
+  (c) in relation to any matter that is within the jurisdiction of the Inspector-General of Intelligence and Security, whether or not the matter arises out of a particular complaint made under this Act,—
 
 ### 22 Procedure after investigation
 (1) The provisions of this section shall apply in every case where, after making any investigation under this Act, an Ombudsman is of opinion that the decision, recommendation, act, or omission which was the subject-matter of the investigation—
-  (a) Appears to have been contrary to law; or
-  (b) Was unreasonable, unjust, oppressive, or improperly discriminatory, or was in accordance with a rule of law or a provision of any Act, regulation, or bylaw or a practice that is or may be unreasonable, unjust, oppressive, or improperly discriminatory; or
-  (c) Was based wholly or partly on a mistake of law or fact; or
-  (d) Was wrong.
+  (a) appears to have been contrary to law; or
+  (b) was unreasonable, unjust, oppressive, or improperly discriminatory, or was in accordance with a rule of law or a provision of any Act, regulation, or bylaw or a practice that is or may be unreasonable, unjust, oppressive, or improperly discriminatory; or
+  (c) was based wholly or partly on a mistake of law or fact; or
+  (d) was wrong.
 (2) The provisions of this section shall also apply in any case where an Ombudsman is of opinion that in the making of the decision or recommendation, or in the doing or omission of the act, a discretionary power has been exercised for an improper purpose or on irrelevant grounds or on the taking into account of irrelevant considerations, or that, in the case of a decision made in the exercise of any discretionary power, reasons should have been given for the decision.
-(3) If in any case to which this section applies an Ombudsman is of opinion—the Ombudsman shall report his opinion, and his reasons therefor, to the appropriate Department or organisation, and may make such recommendations as he thinks fit. In any such case he may request the Department or organisation to notify him, within a specified time, of the steps (if any) that it proposes to take to give effect to his recommendations. The Ombudsman shall also, in the case of an investigation relating to a Department or organisation named or specified in Parts 1 and 2 of Schedule 1 to this Act, send a copy of his report or recommendations to the Minister concerned, and, in the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1 to this Act, send a copy of his report or recommendations to the Mayor or chairperson of the organisation concerned.
-  (a) That the matter should be referred to the appropriate authority for further consideration; or
-  (b) That the omission should be rectified; or
-  (c) That the decision should be cancelled or varied; or
-  (d) That any practice on which the decision, recommendation, act, or omission was based should be altered; or
-  (e) That any law on which the decision, recommendation, act, or omission was based should be reconsidered; or
-  (f) That reasons should have been given for the decision; or
-  (g) That any other steps should be taken—
+(3) If in any case to which this section applies an Ombudsman is of opinion— the Ombudsman shall report his opinion, and his reasons therefor, to the appropriate Department or organisation, and may make such recommendations as he thinks fit. In any such case he may request the Department or organisation to notify him, within a specified time, of the steps (if any) that it proposes to take to give effect to his recommendations. The Ombudsman shall also, in the case of an investigation relating to a Department or organisation named or specified in Parts 1 and 2 of Schedule 1 to this Act, send a copy of his report or recommendations to the Minister concerned, and, in the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1 to this Act, send a copy of his report or recommendations to the Mayor or chairperson of the organisation concerned.
+  (a) that the matter should be referred to the appropriate authority for further consideration; or
+  (b) that the omission should be rectified; or
+  (c) that the decision should be cancelled or varied; or
+  (d) that any practice on which the decision, recommendation, act, or omission was based should be altered; or
+  (e) that any law on which the decision, recommendation, act, or omission was based should be reconsidered; or
+  (f) that reasons should have been given for the decision; or
+  (g) that any other steps should be taken—
 (4) If within a reasonable time after the report is made no action is taken which seems to an Ombudsman to be adequate and appropriate, the Ombudsman, in his discretion, after considering the comments (if any) made by or on behalf of any Department or organisation affected, may send a copy of the report and recommendations to the Prime Minister, and may thereafter make such report to the House of Representatives on the matter as he thinks fit.
 (5) The Ombudsman shall attach to every report sent or made under subsection (4) of this section a copy of any comments made by or on behalf of the Department or organisation affected.
 (6) Subsections (4) and (5) of this section shall not apply in the case of an investigation relating to an organisation named or specified in Part 3 of Schedule 1 to this Act.
