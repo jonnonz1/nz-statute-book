@@ -1,5 +1,5 @@
 # Accident Compensation Act 2001
-_Consolidation as at 2010-03-03_
+_Consolidation as at 2010-07-01_
 
 ### 1 Title
 This Act is the Accident Compensation Act 2001.
@@ -290,7 +290,7 @@ This Act binds the Crown.
     (b) includes a member of any occupational group included in the definition of treatment provider by regulations made under section 322
   - **vocational independence** , in relation to a claimant, means the claimant's capacity, as determined under section 107, to engage in work—
     (a) for which he or she is suited by reason of experience, education, or training, or any combination of those things; and
-    (b) for 35 hours or more a week
+    (b) for 30 hours or more a week
   - **weekly compensation** means compensation for loss of earnings, or loss of potential earning capacity, and compensation for the spouse or partner, child, or other dependant of a deceased claimant, that is payable by the Corporation—
     (a) under any of clauses 32, 47, 66, 70, and 71 of Schedule 1; or
     (b) under sections 131, 210, 224, Part 10, or Part 11
@@ -618,6 +618,11 @@ This Part uses and defines the following key terms:
   (d) mental injury suffered by a person in the circumstances described in section 21; or
   (da) work-related mental injury that is suffered by a person in the circumstances described in section 21B; or
   (e) damage (other than wear and tear) to dentures or prostheses that replace a part of the human body.
+(1A) Personal injury includes any degree of hearing loss that is 6% or more of binaural hearing loss caused by a personal injury described in section 20(2).
+(1B) Personal injury does not include any degree of hearing loss caused by—
+  (a) a personal injury other than a personal injury described in section 20(2); or
+  (b) the ageing process; or
+  (c) any other factors.
 (2) Personal injury does not include personal injury caused wholly or substantially by a gradual process, disease, or infection unless it is personal injury of a kind described in section 20(2)(e) to (h).
 (3) Personal injury does not include a cardiovascular or cerebrovascular episode unless it is personal injury of a kind described in section 20(2)(i) or (j).
 (4) Personal injury does not include—
@@ -669,19 +674,19 @@ Mental injury means a clinically significant behavioural, cognitive, or psycholo
   (a) suffered by a person; and
   (b) caused by a gradual process, disease, or infection; and
   (c) caused in the circumstances described in subsection (2).
-(1A) Subsection (1)(c) is subject to subsection (2A).
+(1A)
 (2) The circumstances are—
   (a) the person—
     (i) performs an employment task that has a particular property or characteristic; or
     (ii) is employed in an environment that has a particular property or characteristic; and
   (b) the particular property or characteristic—
     (i) causes, or contributes to the cause of, the personal injury; and
-    (ii)
+    (ii) is not found to any material extent in the non-employment activities or environment of the person; and
     (iii) may or may not be present throughout the whole of the person's employment; and
-  (c) that, if the particular property or characteristic is present in both the person’s employment tasks or environment and non-employment activities or environment, it is more likely that the person’s personal injury was caused as a result of the employment tasks or environment rather than the non-employment activities or environment.
-(2A) However, even if it is established that a claimant’s personal injury was caused in the circumstances described in subsection (2), the Corporation may decline the claim if the Corporation establishes that the risk of suffering the personal injury is not significantly greater for persons who—
-  (a) perform the employment task than it is for persons who do not perform it; or
-  (b) are employed in that type of environment than it is for persons who are not.
+  (c) the risk of suffering the personal injury—
+    (i) is significantly greater for persons who perform the employment task than for persons who do not perform it; or
+    (ii) is significantly greater for persons who are employed in that type of environment than for persons who are not.
+(2A)
 (3) Personal injury caused by a work-related gradual process, disease, or infection includes personal injury that is—
   (a) of a type described in Schedule 2; and
   (b) suffered by a person who is or has been in employment—
@@ -1263,7 +1268,7 @@ An occupational assessment must be undertaken by an assessor whom the Corporatio
   (a) take into account information provided by the Corporation and the claimant; and
   (b) discuss with the claimant all the types of work that are available in New Zealand and suitable for the claimant; and
   (c) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subsection (1)(b), the occupational assessor must take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
+(1A) In considering the suitability of the types of work referred to in subsection (1)(b), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an initial occupational assessment.
 
 ### 92 Report on initial occupational assessment
@@ -1532,7 +1537,16 @@ If the Corporation determines under section 107 that a claimant has vocational i
   (c) is entitled, because of section 318(3), to complete the proceedings.
 
 ### 119 Disentitlement for wilfully self-inflicted personal injuries and suicide
-[Repealed]
+(1) The Corporation must not provide any entitlements under Schedule 1 for any of the following:
+  (a) a personal injury that a claimant wilfully inflicts on himself or herself, or, with intent to injure himself or herself, causes to be inflicted upon himself or herself:
+  (b) the death of a claimant due to an injury inflicted in the circumstances described in paragraph (a):
+  (c) the death of a claimant due to suicide.
+(2) However, subsection (1) does not excuse the Corporation from liability to provide the claimant with entitlements for—
+  (a) treatment; and
+  (b) any ancillary service related to treatment referred to in clause 3(1) of Schedule 1.
+(3) Subsection (1) does not apply if the personal injury or death was the result of—
+  (a) mental injury suffered because of physical injuries suffered by the claimant for which he or she had cover; or
+  (b) mental injury suffered by the claimant in the circumstances described in section 21 or 21B.
 
 ### 120 Disentitlement for conviction for murder
 (1) The Corporation must not provide any entitlement under Part 4 of Schedule 1 to a claimant if the claimant—
@@ -1552,26 +1566,24 @@ If the Corporation determines under section 107 that a claimant has vocational i
 (2) The Corporation is not required to undertake any assessments or make any payments under Part 3 of Schedule 1 to a claimant while the claimant is a prisoner in any prison.
 (3) In this section, prisoner and prison have the same meaning as in section 3(1) of the Corrections Act 2004.
 
-### 122 Court may deny entitlements to previously imprisoned offender
-(1) The Corporation may apply to a District Court in the following circumstances:
-  (a) a claimant suffers personal injury in the course of committing an offence; and
-  (b) the claimant is sentenced to imprisonment for committing the offence; and
-  (c) the Corporation would, but for this section, be liable to provide entitlements to the claimant for the personal injury; and
-  (d) the Corporation is aware of the claimant's sentence.
-(2) The application must ask for a determination, in relation to the entitlements that the Corporation is liable to provide to the claimant, that either—
-  (a) the Corporation must provide them all when the claimant is released from a prison (within the meaning of section 3(1) of the Corrections Act 2004); or
-  (b) the Corporation must not provide 1 or more specified entitlements, either wholly or partly, at any time because it would be repugnant to justice for the claimant to receive it or them.
-(3) In determining whether it would be repugnant to justice for the claimant to receive a specified entitlement, the court must have regard, without limitation, to the following matters:
-  (a) the harm caused by the claimant's offence; and
-  (b) the gravity of the offence; and
-  (c) the claimant's personal culpability for the offence; and
-  (d) the extent of other penalties the claimant has already suffered because of the offence; and
-  (e) the claimant's personal circumstances; and
-  (f) the nature of the entitlement; and
-  (g) the strength of the claimant's need for the entitlement; and
-  (h) the resources the claimant has to meet that need.
-(4) The Corporation is liable to provide the entitlements until the court makes a determination to the contrary under subsection (2)(b), if the claimant is no longer imprisoned and no determination has been made under subsection (2)(b).
-(5) Every application to a District Court under this section must be made by originating application.
+### 122 Disentitlement for certain imprisoned offenders
+(1) The Corporation must not provide any entitlements under Schedule 1 to a claimant if—
+  (a) the claimant suffers a personal injury in the course of committing an offence; and
+  (b) the offence is punishable by a maximum term of imprisonment of 2 years or more; and
+  (c) the claimant is sentenced to imprisonment or home detention for committing the offence; and
+  (d) the Corporation would, but for this section, be liable to provide entitlements to the claimant for the personal injury.
+(2) In addition, the Corporation must not provide any entitlements under Schedule 1 to the following persons if the Corporation would, but for subsection (1), be liable to provide entitlements to any of them in relation to a deceased claimant's personal injury:
+  (a) the surviving spouse or partner of the deceased claimant:
+  (b) any child of the deceased claimant:
+  (c) any other dependant of the deceased claimant.
+(3) However, subsection (1) does not excuse the Corporation from liability to provide the claimant with entitlements for—
+  (a) treatment; and
+  (b) any ancillary service related to treatment referred to in clause 3(1) of Schedule 1.
+(4) Despite subsection (3), the Corporation must not provide any entitlement for surgery unless the surgery is required to restore the claimant's function to enable him or her to return to work.
+
+### 122A Exemption from section 122(1)
+(1) The Minister may exempt a claimant from section 122(1) if the Minister is satisfied that there are exceptional circumstances relating to the claimant.
+(2) Nothing in this section gives a claimant the right to apply for an exemption under subsection (1).
 
 **General provisions**
 
@@ -2275,8 +2287,8 @@ The objectives of sections 181 to 189 are to—by allowing accredited employers 
 **Purchase of weekly compensation by shareholder-employees**
 
 ### 190 Purchase of weekly compensation by shareholder-employees
-(1) A person with earnings as a shareholder-employee may apply to purchase from the Corporation, in accordance with subsection (2), the right to receive weekly compensation provided in an agreed manner for loss of earnings as a shareholder-employee for any personal injury for which the person has cover under this Act.
-(2) For the purposes of subsection (1), sections 175, 208(2), 209, 210, 211(1) and (2), and 212, and any relevant regulations made under this Act, apply with necessary modifications, as if the person with earnings as a shareholder-employee were a self-employed person.
+(1) A shareholder-employee may apply to purchase from the Corporation, in accordance with subsection (2), the right to receive weekly compensation provided in an agreed manner for loss of earnings as a shareholder-employee for any personal injury for which the shareholder-employee has cover under this Act.
+(2) For the purposes of subsection (1), sections 175, 208(2), 209, 210, 211(1) and (2), and 212, and any relevant regulations made under this Act, apply with necessary modifications, as if the shareholder-employee were a self-employed person.
 
 ### 191 Effect on Work Account levy
 (1) If a shareholder-employee purchases agreed weekly compensation under section 190, the employer of the shareholder-employee is not required to pay the Work Account levy in respect of the earnings of that employee.
@@ -2543,7 +2555,7 @@ A self-employed person who purchases weekly compensation under section 209 must 
   (a) the date on which the right to receive weekly compensation will start, which may be the date on which the application is made or any later date; and
   (b) the period for which the application is applicable, which may not be more than 2 years; and
   (c) an amount that is to be regarded as the earnings of the person for the purpose of the application, which may not exceed the weekly earnings of the person calculated under Schedule 1 as if—
-    (i) the person were in employment; and
+    (i) the person were in permanent employment; and
     (ii) the person had an incapacity that commenced on the last full day of the employment referred to in subsection (2)(a) and that resulted from a personal injury for which he or she had cover; and
     (iia) the weekly earnings were to be calculated for a period of incapacity after the first 5 weeks of incapacity; and
     (iii) the person would have continued to derive earnings from that employment but for that incapacity.
@@ -4569,12 +4581,12 @@ The Corporation is not liable—
 An occupational assessment must be undertaken by an assessor whom the Corporation considers has the appropriate qualifications and experience to do the assessment required in the particular case.
 
 ### 25 Conduct of occupational assessment
-(1) An occupational assessor undertaking an occupational assessment as part of an assessment of a claimant's vocational independence under section 108 must—
+(1) An occupational assessor undertaking an occupational assessment as part of an assessment of a claimant's vocational independence under section 108 may—
   (a) take into account information provided by the Corporation and the claimant; and
   (b) consider the individual rehabilitation plan prepared for the claimant and review the vocational rehabilitation carried out under the plan; and
   (c) discuss with the claimant all the types of work that the assessor identifies as suitable for the claimant; and
   (d) consider any comments the claimant makes to the assessor about those types of work.
-(1A) In considering the suitability of the types of work referred to in subclause (1)(c), the occupational assessor must take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
+(1A) In considering the suitability of the types of work referred to in subclause (1)(c), the occupational assessor may take into account, among other things, the claimant’s earnings before the claimant’s incapacity.
 (2) The Corporation must provide to an occupational assessor all information the Corporation has that is relevant to an occupational assessment.
 
 ### 26 Report on occupational assessment
@@ -4653,20 +4665,28 @@ If the Corporation is determining earnings under this Part in relation to a self
 (5) The amount of weekly compensation payable to the claimant must be adjusted in the manner provided in section 115.
 (6) In this clause, earner includes a person who has purchased weekly compensation under section 223.
 
-**Employee claimant**
+**Employee in permanent employment**
 
 ### 33 Weekly earnings if earner had earnings as employee immediately before incapacity commenced: application of clause 34
 (1) Clause 34 applies to a claimant who—
   (a) was an earner immediately before his or her incapacity commenced; and
-  (b) had earnings as an employee at that time.
-(2) If the claimant had employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under clause 34 and aggregated under clause 41.
+  (b) was in permanent employment at that time; and
+  (c) had earnings as an employee from that permanent employment at that time.
+(2) If the claimant had permanent employment with more than 1 employer at that time, the weekly earnings of the claimant, in respect of each employer he or she had at that time, are as calculated separately under clause 34 and aggregated under clause 41.
+(3) For the purposes of this clause and clause 34, the claimant is regarded as having been in permanent employment if, in the opinion of the Corporation, he or she would have continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
+(4) Subclause (5) applies if—
+  (a) the claimant was in permanent employment (that was full-time employment) as an employee immediately before his or her incapacity commenced; and
+  (b) before the employment, the claimant was employed by the same employer for less than 30 hours per week.
+(5) The weekly earnings of the claimant is the greater of—
+  (a) the claimant's weekly earnings calculated in accordance with clause 34:
+  (b) the claimant's weekly earnings calculated in accordance with clause 36, as if the claimant were not in permanent employment immediately before his or her incapacity commenced.
 
-### 34 Weekly earnings if earner had earnings as an employee immediately before incapacity commenced: calculations
+### 34 Weekly earnings if earner had earnings as an employee in permanent employment immediately before incapacity commenced: calculations
 (1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:where—
-  (a) is the claimant's earnings as an employee (from the claimant’s employment immediately before the claimant’s incapacity commenced) in the 4 weeks immediately before his or her incapacity commenced
+  (a) is the claimant's earnings as an employee (from that permanent employment) in the 4 weeks immediately before his or her incapacity commenced
   (b) is the number of full or part weeks during which the claimant earned those earnings as an employee in those 4 weeks.
 (2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:where—
-  (a) is the claimant's earnings as an employee (from the claimant’s employment immediately before the claimant’s incapacity commenced) in the 52 weeks immediately before his or her incapacity commenced
+  (a) is the claimant's earnings as an employee (from employment with that employer) in the 52 weeks immediately before his or her incapacity commenced
   (b) is the number of full or part weeks during which the claimant earned those earnings as an employee.
 (3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
   (a) any period during which the claimant was entitled to weekly compensation; and
@@ -4674,11 +4694,25 @@ If the Corporation is determining earnings under this Part in relation to a self
 
 **Employee not in permanent employment**
 
-### 35 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: application of clause 36
-[Repealed]
+### 35 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: application of clause 36
+(1) Clause 36 applies to a claimant who—
+  (a) was an earner immediately before his or her incapacity commenced; and
+  (b) had at that time earnings as an employee (from employment that was not permanent employment).
+(2) For the purposes of this clause and clause 36, employment is not permanent employment if, in the opinion of the Corporation, the claimant would have not continued to receive earnings from that employment for a continuous period of more than 12 months after the date on which his or her incapacity commenced, if he or she had not suffered the personal injury.
 
-### 36 Weekly earnings if earner had earnings as an employee not in permanent employment immediately before incapacity commenced: calculations
-[Repealed]
+### 36 Weekly earnings if earner had earnings as employee not in permanent employment immediately before incapacity commenced: calculations
+(1) This subclause applies to each of the 4 weeks after the first week of incapacity. The claimant's weekly earnings for each of the 4 weeks are calculated using the following formula:abwhere—ais the claimant's earnings as an employee (from all employment that was not permanent employment) in the 4 weeks immediately before his or her incapacity commencedbis the number of full or part weeks during which the claimant earned those earnings as an employee in the 4 weeks immediately before his or her incapacity commenced.
+(2) This subclause applies to any weekly period of incapacity after the 4 weeks described in subclause (1). The claimant's weekly earnings for any such weekly period are calculated using the following formula:abwhere—ais the claimant's earnings as an employee (from all employment that was not permanent employment) in the 52 weeks immediately before his or her incapacity commencedbis 52 or such smaller number, if adjustments are required under subclause (4).
+(3) For the purposes of this clause the following must be disregarded in calculating weekly earnings:
+  (a) any period during which the claimant was entitled to weekly compensation:
+  (b) any continuous period of unpaid sick leave, during a period of employment, of more than 1 week:
+  (c) any period during which—
+    (i) the claimant did not receive earnings as an employee; and
+    (ii) the claimant did receive earnings as a self-employed person or as a shareholder-employee; and
+    (iii) those earnings ceased before the commencement of the claimant's incapacity:
+  (d) any earnings in respect of any period under paragraph (a), (b), or (c).
+(4) In item b of the formula set out in subclause (2), the expression 52 is adjusted by deducting from it any number of weekly periods that subclause (3)(a), (b), or (c) applies to.
+(5) For the purposes of subclause (3)(c), the Corporation may determine the number of weeks that fairly and reasonably represent the period during which the claimant received earnings as a self-employed person or as a shareholder-employee.
 
 **Self-employed claimant**
 
@@ -4715,7 +4749,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 (4) A claimant is eligible for the greater of—
   (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
   (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
-(5) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of his or her earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 and 34.
+(5) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of his or her earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 to 36.
 (6) This clause applies to claims for weekly compensation made on or after 1 July 2005, whether made in respect of a period of incapacity that started before the day on which this clause comes into force or that starts on or after that day.
 (7) To avoid doubt, if a claim for weekly compensation is made in respect of a period of incapacity that commenced before 1 July 2005, this clause—
   (a) applies only to the calculation of weekly earnings for the purposes of weekly compensation that is payable for a period commencing on or after 1 July 2005; and
@@ -4733,7 +4767,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 
 ### 39 Weekly earnings if claimant had earnings as shareholder-employee immediately before incapacity commenced
 (1) The weekly earnings of a claimant who had earnings as a shareholder-employee immediately before his or her incapacity commenced are the higher of—
-  (a) the relevant amount calculated under clause 34; and
+  (a) the relevant amount calculated under clause 34 or clause 36, whichever is applicable; and
   (b) the relevant amount calculated under subclause (2).
 (2) The amounts to be calculated under this subclause are,—
   (a) for claimants who first commenced receiving earnings as a shareholder-employee in the tax year in which the incapacity commenced, the amount calculated using the following formula:where—
@@ -4751,8 +4785,8 @@ If the Corporation is determining earnings under this Part in relation to a self
 (3) A claimant is eligible for the greater of—
   (a) the amount calculated under subclause (2) with the inclusion of earnings as an employee in the calculation; and
   (b) the amount calculated under subclause (2) with the exclusion of earnings as an employee from the calculation.
-(4) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of their earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 and 34.
-(5) If a claimant's weekly earnings as a shareholder employee are calculated under subclause (2), the same earnings cannot be used as earnings as an employee for the purposes of clauses 33 and 34.
+(4) If the claimant's weekly earnings are calculated under subclause (2) with the inclusion of their earnings as an employee, the claimant is not also eligible to have his or her weekly earnings calculated under clauses 33 to 36.
+(5) If a claimant's weekly earnings as a shareholder employee are calculated under subclause (2), the same earnings cannot be used as earnings as an employee for the purposes of clauses 33 to 36.
 (6) This clause applies to claims for weekly compensation made on or after 1 July 2005, whether made in respect of a period of incapacity that started before the day on which this clause comes into force or that starts on or after that day.
 (7) To avoid doubt, if a claim for weekly compensation is made in respect of a period of incapacity that commenced before 1 July 2005, this clause—
   (a) applies only to the calculation of weekly earnings for the purposes of weekly compensation that is payable for a period commencing on or after 1 July 2005; and
@@ -4769,16 +4803,16 @@ If the Corporation is determining earnings under this Part in relation to a self
 **Aggregation of calculations**
 
 ### 41 Calculations for multiple employment situations
-(1) Claimants to whom clause 38 applies, and to whom clauses 33 and 34 apply because they have earnings as an employee at the time their incapacity commences, may—
+(1) Claimants to whom clause 38 applies, and to whom clauses 33 to 36 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 38 with the inclusion of their earnings as an employee; or
-  (b) have their weekly earnings calculated under clause 38 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 and 34 and aggregated under subclause (5).
+  (b) have their weekly earnings calculated under clause 38 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 to 36 and aggregated under subclause (5).
 (2) If a claimant's weekly earnings are calculated in accordance with subclause (1)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
-(3) Claimants to whom clause 39 applies, and to whom clauses 33 and 34 apply because they have earnings as an employee at the time their incapacity commences, may—
+(3) Claimants to whom clause 39 applies, and to whom clauses 33 to 36 apply because they have earnings as an employee at the time their incapacity commences, may—
   (a) have their weekly earnings calculated under clause 39 with the inclusion of their earnings as an employee; or
-  (b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 and 34 and aggregated under subclause (5).
+  (b) have their weekly earnings calculated under clause 39 excluding their earnings as an employee, but may also have their employee earnings calculated under clauses 33 to 36 and aggregated under subclause (5).
 (4) If a claimant's weekly earnings are calculated in accordance with subclause (3)(a), the same earnings cannot be used as earnings as an employee for the purposes of any other calculation of an amount of weekly earnings.
-(5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 34 or clause 38 or clause 39, the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
-(6) However, a claimant's weekly earnings calculated under clause 34 must not be aggregated with the claimant's weekly earnings under clause 39 if the claimant's weekly earnings under clause 39 are his or her earnings under clause 34.
+(5) If a claimant is not prohibited from doing so by subclause (2) or subclause (4), and would have more than 1 amount of weekly earnings from different employment situations because of the operation of clause 34 or clause 36 or clause 38 or clause 39, the claimant's weekly earnings are to be calculated by doing the relevant calculations under those clauses separately and then aggregating the results.
+(6) However, a claimant's weekly earnings calculated under clause 34 or clause 36 must not be aggregated with the claimant's weekly earnings under clause 39 if the claimant's weekly earnings under clause 39 are his or her earnings under clause 34 or clause 36.
 
 **Adjustments for low earners**
 
@@ -4787,9 +4821,9 @@ If the Corporation is determining earnings under this Part in relation to a self
   (a) was, immediately before his or her incapacity commenced,—
     (i) in the category of earners liable to pay the minimum levy set in regulations made for the purposes of section 168B; or
     (ii) an earner in full-time employment; and
-  (b) had weekly earnings calculated under clause 41 or, if that clause does not apply, under any of clauses 34, 38, or 39 of less than the minimum weekly earnings as determined under subclause (3); and
-  (c) is incapacitated for more than 1 week after the incapacity first commenced.
-(2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the first week of incapacity, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
+  (b) had weekly earnings calculated under clause 41 or, if that clause does not apply, under any of clauses 34, 36, 38, or 39 of less than the minimum weekly earnings as determined under subclause (3); and
+  (c) is incapacitated for more than 5 weeks after the incapacity first commenced.
+(2) For the purpose of calculating weekly compensation for loss of earnings payable to the claimant for any period after the 5-week period, the claimant is deemed to have had, immediately before his or her incapacity commenced, the minimum weekly earnings as determined under subclause (3).
 (3) The minimum weekly earnings are—
   (a) for a person under 18 years of age, the amount as at 1 July each year which is the greater of—
     (i) the minimum weekly wage under the Minimum Wage Act 1983 for a person aged 18 years or older to whom section 4(1)(c) of that Act does not apply; or
@@ -4882,7 +4916,7 @@ If the Corporation is determining earnings under this Part in relation to a self
   (b) does not include full-time study or training in living or social skills.
 (2) The weekly compensation payable is 80% of the claimant's weekly earnings calculated under this clause.
 (3) The weekly compensation is payable when the claimant has been incapacitated for at least 6 months.
-(4) For the purpose of calculating the claimant's weekly compensation, the claimant’s weekly earnings are deemed to be the amount of weekly earnings determined under clause 42(3) multiplied by 125%.
+(4) For the purpose of calculating the claimant's weekly compensation, the claimant’s weekly earnings are deemed to be the amount of weekly earnings determined under clause 42(3).
 (5) This clause does not apply if the claimant has an entitlement under any other provision of this schedule to weekly compensation for loss of earnings that is greater than the claimant's entitlement under this clause.
 (6) A claimant does not have any entitlement to weekly compensation for loss of earnings, if he or she has an entitlement under this clause to weekly compensation for loss of potential earning capacity that is greater than any entitlement he or she has to weekly compensation for loss of earnings under any other provision of this schedule.
 (7) This clause is subject to clauses 49 to 53.
@@ -4901,7 +4935,7 @@ If the Corporation is determining earnings under this Part in relation to a self
 ### 49 Earnings definitions for purposes of clause 51
 (1)
 (2)
-(3) In clause 51(2), earnings does not include any payment made on the termination of employment in respect of leave entitlements.
+(3) In clause 51(2), earnings includes any payment made on the termination of employment in respect of leave entitlements. The Corporation must treat such a payment as having been derived after the termination of employment for a period that is equal to the total period that the claimant could have taken as leave if the claimant had not received the payment.
 (4) In clause 51(2)—
   (a) earnings includes payments—
     (i) whether made in New Zealand or overseas:
@@ -5620,6 +5654,49 @@ Sections 330 and 331 of the principal Act do not apply to the making of regulati
     (i) in the case of the Residual Claims levy, to the Work Account; and
     (ii) in the case of the Motor Vehicle Account Residual levy, to the Motor Vehicle Account; and
     (iii) in the case of the Earners' Account Residual levy, to the Earners' Account.
+
+**Transitional provisions for other matters**
+
+### 53 Transitional provision for disentitlement for wilfully self-inflicted personal injuries and suicide
+To avoid doubt, this Act applies to disentitle a claimant for a wilfully self-inflicted personal injury, death, or suicide described in section 119 of the principal Act (as inserted by this Act) only if the personal injury was suffered or, as the case may be, the death or suicide occurred on or after the commencement of this section.
+
+### 54 Transitional provision for disentitlement for certain imprisoned offenders
+(1) To avoid doubt, this Act applies to disentitle a claimant who suffers a personal injury in the circumstances described in section 122 of the principal Act (as substituted by this Act) only if the personal injury was suffered on or after the commencement of this section.
+(2) To avoid doubt, despite the amendment of section 122 of the principal Act by section 13 of this Act, section 122 of the principal Act (as it read immediately before the commencement of this section) continues to apply to a claimant who, before the commencement of this section, suffered a personal injury in the circumstances described in section 122 (as it so read).
+
+### 55 Claims for personal injury including hearing loss that have been lodged but not decided
+(1) This section applies if, before the commencement of this section,—
+  (a) a person has suffered a personal injury that includes any degree of hearing loss that is less than 6% of binaural hearing loss caused by a personal injury described in section 20(2) of the principal Act; and
+  (b) he or she has lodged a claim with the Accident Compensation Corporation under section 48 of the principal Act in respect of the personal injury; and
+  (c) the Corporation has not made a decision on the claim.
+(2) On or after the commencement of this section, the Corporation must make a decision on the claim in all respects as if section 8 of this Act had not been enacted.
+
+### 56 Claims for work-related gradual process, disease, or infection that have been lodged but not decided
+(1) This section applies if, before the commencement of this section,—
+  (a) a person has suffered a personal injury caused by a work-related gradual process, disease, or infection; and
+  (b) he or she has lodged a claim with the Accident Compensation Corporation under section 48 of the principal Act in respect of the personal injury; and
+  (c) the Corporation has not made a decision on the claim.
+(2) On or after the commencement of this section, the Corporation must make a decision on the claim in all respects as if section 9 of this Act had not been enacted.
+
+### 57 Assessment of vocational independence
+An assessment of a claimant's vocational independence that has been commenced, but not determined, before the commencement of this section must, on or after that commencement, be considered and determined in all respects as if sections 6(2), 11, and 47 (to the extent that it relates to clause 25 of Schedule 1 of the principal Act) of this Act had not been enacted.
+
+### 58 Calculations of weekly earnings for weekly compensation
+To avoid doubt, sections 223(3)(c)(i) and clauses 33, 34, 35, 36, 38, 39, 41, and 42 of Schedule 1 of the principal Act (as amended by this Act) apply to the calculation of weekly earnings for the purposes of weekly compensation that is payable in respect of a period of incapacity that commences only on or after the commencement of this section.
+
+### 59 Calculations of weekly compensation for loss of potential earning capacity
+(1) This section applies to—
+  (a) a claimant who is incapacitated before the commencement of this section, but who is not entitled to weekly compensation for loss of potential earning capacity immediately before that commencement:
+  (b) a claimant who is incapacitated only on or after the commencement of this section.
+(2) To avoid doubt, clause 47 of Schedule 1 of the principal Act (as amended by this Act) applies to the calculation of weekly compensation for loss of potential earning capacity in respect of a claimant to whom this section applies.
+
+### 60 Special provision for claimant already entitled to receive weekly compensation for loss of potential earning capacity
+(1) This section applies to a claimant who is incapacitated before the commencement of this section and who is entitled to weekly compensation for loss of potential earning capacity immediately before that commencement.
+(2) The weekly compensation payable to the claimant is the amount of weekly compensation to which the claimant was entitled immediately before the commencement of this section.
+(3) However, if the calculation of weekly compensation for loss of potential earning capacity in respect of the claimant is, but for subsection (2) and section 59, more favourable to the claimant under clause 47(4) of Schedule 1 of the principal Act (as amended by this Act), then clause 47(4) applies despite subsection (2) and section 59.
+
+### 61 Abatement of weekly compensation
+To avoid doubt, clause 49 of Schedule 1 of the principal Act (as amended by this Act) applies to the abatement of a claimant's weekly compensation in accordance with that clause and clause 51 of Schedule 1 of the principal Act in respect of a period of incapacity that commences only on or after the commencement of this section.
 
 ### 62 Members of ministerial advisory panels not entitled to compensation
 (1) Nothing in this Act entitles a member of the ministerial advisory panel referred to in section 31 or 291 of the principal Act to any compensation in respect of the repeal of those sections and the removal of the panel, or for any fees or allowances that would otherwise be payable for the remainder of the term of an appointment affected by the repeals.
