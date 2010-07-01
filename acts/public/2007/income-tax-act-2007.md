@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-06-30_
+_Consolidation as at 2010-07-01_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -2217,31 +2217,11 @@ The amount of any FIF income is calculated, using the relevant calculation metho
 
 ### Subpart CR — Income from insurance
 
-### CR 1 Income of life insurer
-Income: premium loading
-(1) The premium loading that a life insurer has in an income year is income of the life insurer in the income year.
-Income: mortality profit
-(2) The mortality profit that a life insurer has in an income year is income of the life insurer in the income year.
-Income: discontinuance profit
-(3) The discontinuance profit that a life insurer has in an income year is income of the life insurer in the income year.
-Income: policyholder income
-(4) The policyholder income that a life insurer has in an income year is income of the life insurer in the income year.
-Income: disposal amount
-(5) An amount that a life insurer derives from disposing of any property of their life insurance business is income of the life insurer.
-Disposals at below market value
-(6) Section GC 3 (Disposals by life insurers) may apply to treat a life insurer as receiving an amount on disposal of property.
+### CR 1 Policyholder base income of life insurer
+If, but for this section, a life insurer has an amount of policyholder base income for an income year, and that amount is not income under this Part, the amount is income of the life insurer for the income year.
 
-### CR 2 Amount of income of life insurer
-Premium loading
-(1) The premium loading that a life insurer has in an income year is quantified under sections EY 15 to EY 24 (which relate to premium loading).
-Mortality profit
-(2) The mortality profit that a life insurer has in an income year is quantified under sections EY 25 to EY 34 (which relate to mortality profit).
-Discontinuance profit
-(3) The discontinuance profit that a life insurer has in an income year is quantified under sections EY 35 to EY 41 (which relate to discontinuance profit).
-Policyholder income
-(4) The policyholder income that a life insurer has in an income year is quantified under sections EY 42 to EY 45 (which relate to policyholder income).
-Disposal of property
-(5) The amount of income that a life insurer derives from disposing of any property of their life insurance business is quantified under section EY 46 (Income from disposal of property).
+### CR 2 Shareholder base income of life insurer
+If, but for this section, a life insurer has an amount of shareholder base income for an income year, and that amount is not income under this Part, the amount is income of the life insurer for the income year.
 
 ### CR 3 Income of non-resident general insurer
 What this section applies to
@@ -4073,6 +4053,9 @@ Distributions
   (a) the trustee of the Niue International Trust Fund:
   (b) the trustee of the Tokelau International Trust Fund.
 
+### CW 59C Life reinsurance outside New Zealand
+An amount of life reinsurance claim derived by a life insurer is exempt income to the extent to which, for the relevant life reinsurance policy, deductions for premiums are denied under section DR 3 (Life reinsurance outside New Zealand).
+
 ### CW 60 Stake money
 Stake or prize money for a dog race, horse race, or trotting race is exempt income if—
   (a) it is paid by a club that is licensed to use the totalisator under the Racing Act 2003; or
@@ -4484,14 +4467,7 @@ Exclusion: private use
 **Insurance**
 
 ### CX 39 Life insurers and fully reinsured persons
-Persons to whom this section applies
-(1) The amounts described in subsection (2) are excluded income of—
-  (a) a life insurer:
-  (b) a person who is carrying on a business of providing life insurance but who is treated as not carrying on a business of providing life insurance because they have full reinsurance.
-Excluded income
-(2) The amounts are—
-  (a) a premium derived by the life insurer or the person under a life insurance policy; or
-  (b) a claim receivable by the life insurer or the person under a life reinsurance policy.
+[Repealed]
 
 ### CX 40 Superannuation fund deriving amount from life insurance policy
 When this section applies
@@ -7235,44 +7211,37 @@ Link with subpart DA
 
 ### Subpart DR — Life insurance business expenditure
 
-### DR 1 Mortality profit formula: negative result
-When this section applies
-(1) This section applies when—
-  (a) a life insurer follows the steps in section EY 26(2) (Mortality profit: when life insurers providing life insurance at start of income year) or EY 27(2) (Mortality profit: when life insurers not providing life insurance at start of income year) for an income year and gets a negative result; and
-  (b) the negative result is not treated as zero because 1 of the exceptions in section EY 33(2) to (4) (Mortality profit formula: individual result may be negative only in some cases) applies.
+### DR 1 Policyholder base allowable deduction of life insurer
 Deduction
-(2) The life insurer is allowed a deduction of the amount quantified in section EY 34(2) (Mortality profit formula: negative result).
-Timing of deduction
-(3) The deduction is allocated to the income year described in section EY 34(3).
+(1) If, but for this section, a life insurer has an amount of policyholder base allowable deduction for an income year and that amount is neither a deduction under this Part nor denied as a deduction under this Part, the amount is a deduction of the life insurer for the income year.
+No cross-deducting: section EY 2
+(2) A policyholder base allowable deduction is not allowed against shareholder base income. Section EY 2 (Policyholder base) deals with allowing policyholder base allowable deductions against policyholder base income, and deals with deductions that relate to the life insurer's schedular income derived by their life fund PIE that is a multi-rate PIE.
 Link with subpart DA
-(4) This section supplements the general permission. The general limitations still apply.
+(3) Subsections (1) and (2) override the general permission.
 
-### DR 2 Disposal of property
-When this section applies
-(1) This section applies when a life insurer disposes of any property of their life insurance business.
-Exclusions
-(2) This section does not apply when the property is—
-  (a) a share to which section DB 24 (Share losses) applies; or
-  (b) a financial arrangement; or
-  (c) property for whose cost the life insurer has already been allowed a deduction, other than for an amount of depreciation loss.
+### DR 2 Shareholder base allowable deduction of life insurer
 Deduction
-(3) The life insurer is allowed a deduction of the amount quantified in section EY 47(2) (Deductions for disposal of property).
-Timing of deduction
-(4) The deduction is allocated to the income year described in section EY 47(3).
+(1) If, but for this section, a life insurer has an amount of shareholder base allowable deduction for an income year and that amount is neither a deduction under this Part nor denied as a deduction under this Part, the amount is a deduction of the life insurer for the income year.
+No cross-deducting
+(2) A shareholder base allowable deduction is not allowed against policyholder base income.
 Link with subpart DA
-(5) This section supplements the general permission and overrides the capital limitation. The other general limitations still apply.
+(3) Subsections (1) and (2) override the general permission.
 
-### DR 3 Specific deductions denied to life insurers and fully reinsured persons
+### DR 3 Life reinsurance outside New Zealand
 No deduction
-(1) A life insurer is denied a deduction for—
-  (a) a claim payable by the life insurer under a life insurance policy; or
-  (b) expenditure or loss incurred by the life insurer in deriving policyholder income; or
-  (c) a bonus or other discretionary amount added to the actuarial reserves; or
-  (d) a premium payable by the life insurer under a life reinsurance policy.
-Inclusion
-(2) This section applies to a person who is carrying on a business of providing life insurance but who is treated as not carrying on a business of providing life insurance because they have full reinsurance.
+A life insurer is denied a deduction for life reinsurance premiums they incur if the relevant life reinsurance policy,––
+  (a) was not offered in New Zealand:
+  (b) was not entered into in New Zealand.
+
+### DR 4 Life insurers' claims reserves
+No deduction on account of claims
+(1) For a life insurer's life insurance policies, the life insurer is denied a deduction relating to the life insurer's outstanding claims or for a claim's expenditure or loss for an income year, except as provided by––
+  (a) section EY 24 (Outstanding claims reserving amount: non-participation policies not annuities):
+  (b) subsection (2).
+Deduction for payments of current claims
+(2) The life insurer is allowed a deduction for the amount of expenditure or loss of a claim paid under a life insurance policy for the income year.
 Link with subpart DA
-(3) This section overrides the general permission.
+(3) This section supplements the general permission. The general limitations still apply.
 
 ### Subpart DS — Film industry expenditure
 
@@ -12628,7 +12597,7 @@ Meaning
   (a) an arrangement described in any of subsections (18) to (20) may cease to be an excepted financial arrangement through the operation of section EW 7:
   (b) an arrangement described in any of subsections (21) to (25) may cease to be an excepted financial arrangement for a party who makes an election under section EW 8.
 Annuity
-(2) Each of the following is an excepted financial arrangement:
+(2) Each of the following is an excepted financial arrangement to the extent to which it is not life financial reinsurance:
   (a) an annuity for a term contingent on human life:
   (b) an annuity for a term not contingent on human life to which section EY 8(2)(c) (Meaning of life insurance) applies.
 Bet
@@ -12649,7 +12618,7 @@ Group investment fund
 Hire purchase: livestock or bloodstock
 (7) A hire purchase agreement for livestock or bloodstock is an excepted financial arrangement.
 Insurance contract
-(8) An insurance contract is an excepted financial arrangement.
+(8) An insurance contract to the extent to which it is not life financial reinsurance is an excepted financial arrangement.
 Lease not finance lease
 (9) A lease that is not a finance lease is an excepted financial arrangement.
 Loan in New Zealand currency
@@ -16041,78 +16010,82 @@ Examples of methods
 **Introductory provisions**
 
 ### EY 1 What this subpart does
-Life insurance rules
-(1) This subpart contains most of the life insurance rules.
-Meaning of life insurance rules
-(2) Life insurance rules means—
-  (a) the sections in this subpart; and
-  (b) subpart CR (Income from life insurance); and
-  (c) section CX 39 (Life insurers and fully reinsured persons); and
-  (d) subpart DR (Life insurance business expenditure); and
-  (e) section DZ 2 (Life insurers acquiring property before 1 April 1988); and
-  (f) section EZ 1 (Life insurers acquiring property before 1 April 1988); and
-  (g) section GC 3 (Disposals by life insurers); and
-  (h) section IT 1 (Life insurers’ policyholder net losses).
+Two bases
+(1) This subpart provides for the taxation of life insurers on 2 separate bases, the policyholder base and the shareholder base. Sections EY 2 and EY 3 describe the general apportionment of income and deductions between the 2 bases under this Part. Section LA 8B (General rules particular to life insurers) provides some general rules for tax credits relating to the 2 bases. Parts L and O include tax credit rules and memorandum account rules specific to the 2 bases.
+Schedular policyholder base income and PIE schedular income
+(2) Section EY 2 uses the assessable income in a life insurer's policyholder base income, and the life insurer's policyholder base allowable deductions, to calculate their schedular policyholder base income. A life insurer's schedular income derived by their life fund PIE that is a multi-rate PIE is excluded from their schedular policyholder base income, along with deductions for that income.
+Counting once
+(3) Income and deductions must be apportioned to either the policyholder base or the shareholder base. There is no double-counting.
 
-### EY 2 Matters to which this subpart relates
-The matters to which this subpart relates are—
-  (a) the meaning of actuarial reserves, claim, life insurance, life insurance policy, life insurer, life reinsurance, life reinsurer, and life reinsurance policy, seesections EY 3 to EY 14:
-  (b) life insurers’ premium loading, seesections EY 15 to EY 24:
-  (c) life insurers’ mortality profit, seesections EY 25 to EY 34:
-  (d) life insurers’ discontinuance profit, seesections EY 35 to EY 41:
-  (e) life insurers’ policyholder income, seesections EY 42 to EY 45:
-  (f) life insurers’ income and deductions when disposing of property, seesections EY 46 and EY 47:
-  (g) non-resident life insurers, seesections EY 48 and EY 49.
+### EY 2 Policyholder base
+Policyholder base income
+(1) A life insurer has policyholder base income,—
+  (a) for savings product policies that are not profit participation policies, under section EY 15:
+  (b) for profit participation policies, under section EY 17:
+  (c) under section EY 27(4).
+Policyholder base allowable deductions
+(2) A life insurer has policyholder base allowable deductions,—
+  (a) for savings product policies that are not profit participation policies, under section EY 16:
+  (b) for profit participation policies, under section EY 18:
+  (c) under section EY 27(4):
+  (d) under section EZ 61 (Allowance for cancelled amount: spreading):
+  (e) under section LE 2B (Use of remaining credits by life insurer on policyholder base).
+Schedular policyholder base income
+(3) A life insurer's schedular policyholder base income is the amount given by subtracting their policyholder base allowable deductions for an income year, and any amount carried forward to the income year under subsection (5), from the assessable income in their policyholder base income for the income year.
+Cap on subtracting: ring-fencing policyholder base allowable deductions
+(4) Despite subsection (3), the total amount that is subtracted under subsection (3), including an amount carried forward to the current year under subsection (5), is no more than the amount of the assessable income in the life insurer’s policyholder base income for the income year.
+Excess allocations: carrying forward and re-instating next year
+(5) Any excess not able to be subtracted in the current year because of subsection (4) is carried forward to the next income year.
+Exception
+(6) Despite subsections (3) to (5) a life insurer's schedular income derived by their life fund PIE that is a multi-rate PIE is excluded from their schedular policyholder base income, along with deductions for that income.
 
-### EY 3 Meaning of actuarial reserves
-Meaning
-(1) Actuarial reserves means a life insurer’s reserves as calculated under section EY 4.
-Link between actuarial reserves and life insurer
-(2) Actuarial reserves, for a life insurer at any time, means the life insurer’s actuarial reserves at that time.
+### EY 3 Shareholder base
+Shareholder base income
+(1) A life insurer has shareholder base income,—
+  (a) for policies that are not profit participation policies, under section EY 19: see also subsection (3), for reserves:
+  (b) for profit participation policies, under sections EY 21, EY 28, and EY 29:
+  (c) for annuities, under section EY 31.
+Shareholder base allowable deductions
+(2) A life insurer has shareholder base allowable deductions,—
+  (a) for policies that are not profit participation policies, under section EY 20: see also subsection (3), for reserves:
+  (b) for profit participation policies, under sections EY 22 and EY 28:
+  (c) for the period and policies described in section EY 30, under that section:
+  (d) for annuities, under section EY 31.
+Reserves
+(3) Under sections EY 23 to EY 27, a life insurer calculates reserving amounts for life insurance policies, other than annuities, that have a life risk component and are not profit participation policies. A reserving amount may be income included in their shareholder base income, or a deduction that is included in their shareholder base allowable deduction, as provided by the relevant sections.
 
-### EY 4 Actuarial reserves: calculation
-Calculation by actuary
-(1) The life insurer’s actuarial reserves must be calculated by an actuary.
-All reserves or 1 or more amounts
-(2) The actuary may calculate—
-  (a) the actuarial reserves for all the life insurance policies for which the life insurer is the insurer; or
-  (b) the amount in the life insurer’s actuarial reserves for 1 or more life insurance policies for which the life insurer is the insurer.
-Interest, mortality, and other assumptions and bases of calculation
-(3) The actuary must do the calculation using interest, mortality, and other assumptions and bases of calculation that—
-  (a) are based on the same principles as those used in the actuarial advice on which the following are calculated:
-    (i) the level of surplus funds available to the life insurer for allotment or payment to shareholders or policyholders; or
-    (ii) the level of surplus funds available to the life insurer, if a superannuation scheme, for allotment to objects of the scheme other than the object of providing for members’ benefits; and
-  (b) are likely to produce a reasonable estimation of the future experience of the life insurer in relation to life insurance policies of which the life insurer is the insurer, having regard to the past experience of the life insurer in relation to life insurance policies of which the life insurer was the insurer; and
-  (c) conform with commercially acceptable practice.
-Reserves for policy never negative
-(4) The amount in the actuarial reserves for a life insurance policy must never be negative.
-Reserves for all policies never less than total of surrender values
-(5) The actuarial reserves at any time must not be less than the total of the surrender values of all the life insurance policies they cover at that time.
-Reserves for policies same at end of one, and start of next, income year
-(6) The amount in the actuarial reserves for life insurance policies at the start of an income year is the same as the amount in the actuarial reserves for the life insurance policies at the end of the previous income year.
-Effect of partial reinsurance
-(7) The actuarial reserves of a life insurer who has partial reinsurance must be reduced by an amount that the actuary responsible for actuarial control of the life insurer considers appropriate having regard to the nature of the life reinsurance policies.
+### EY 4 Apportionment of income of particular source or nature, and of tax credits
+Default basis
+(1) For a class of policies, income of a particular source or nature, and tax credits received, are apportioned between the policyholder base and shareholder base––
+  (a) in the same proportion as the policyholder base income relating to the particular source, nature, or credits bears to the life insurer's total gross gains relating to the particular source, nature, or credits, in the case of the policyholder base:
+  (b) in the same proportion as the shareholder base income relating to the particular source, nature, or credits bears to the life insurer's total gross gains relating to the particular source, nature, or credits, in the case of the shareholder base.
+More equitable or reasonable basis
+(2) For a class of policies, the life insurer may use a basis of apportionment that is different from the basis described in subsection (1), if that basis results in an amount, actuarially determined, that is more equitable and reasonable than an amount determined using the basis described in subsection (1).
 
-### EY 5 Actuarial reserves: actuary’s declaration
-Content
-(1) The actuary responsible for actuarial control of a life insurer must provide, with the life insurer’s return of income, a declaration that—
-  (a) states that the actuary is the actuary responsible for actuarial control of the life insurer; and
-  (b) states the specific interest, mortality, and other assumptions and bases of calculation applied in calculating the life insurer’s premium loading, mortality profit, discontinuance profit, and policyholder income or policyholder net loss for the income year of the return; and
-  (c) states that the assumptions and bases of calculation comply with section EY 4.
-Form
-(2) The declaration must be in the form, if any, required by the Commissioner.
+### EY 5 Part-year tax calculations
+Part-year tax calculations
+(1) For their life insurance and for their general insurance contracts outstanding claims reserve, a life insurer does part-year tax calculations, described in subsection (2), if they do not have an early life regime application day and 1 July 2010 is not the first day of their income year.
+First year part-year calculations: description
+(2) For calculating their income tax liability for the tax year that corresponds to the income year that includes 1 July 2010, where 1 July 2010 is not the first day of the income year, the life insurer treats references, in the new life insurance rules and in the rules they replace, to an income year or a tax year as if they are references to 2 separate tax years and corresponding income years (the part-years) within that first tax year, divided by 1 July 2010 (for example: a rule to calculate an amount of policyholder income for an income year under the replaced rules means the calculation is done for the relevant part-year before 1 July 2010. A rule to calculate an opening reserve amount under sections EY 23 to EY 27 at the beginning of an income year under the new rules means the calculation is done on 1 July 2010, at the beginning of the relevant part-year).
+First year part-year calculations: effect
+(3) The part-year calculations may give rise to income and deductions for the income year, but they do not create any part-year tax return obligations. The 2 part-year calculations compose 1 income tax liability for 1 income year.
+Part-year calculations for transfers
+(4) Where a life insurer (the transferor) transfers life insurance business to another life insurer (the transferee), the transferor does a part-year calculation, as described in subsection (2), for each class of policy in the transferred business, but only for their part-year ending on the day the transfer occurs. The transferee also does a part-year calculation for the transferred policies, as described in subsection (2), but only for their part-year starting on the day the transfer occurs. The transferee's relevant opening part-year reserve amounts under sections EY 23 to EY 27 equal the transferor's relevant closing part-year reserve amounts.
+Part-year calculations for transfers: effect
+(5) Transferor's and transferee's part-year calculations may give rise to income and deductions for the income year, but they do not create any part-year tax return obligations.
+Part-year calculations for transfers: adjustments
+(6) If life reinsurance, associated with a class of policies transferred, is assigned by the transferor to the transferee, then the transferor's relevant closing part-year reserve amounts and the transferee's relevant opening part-year reserve amounts are adjusted, by adding the life reinsurance's value to the transferee's opening, and subtracting it from the transferor's closing.
+Part-year calculations: end of transitional adjustments
+(7) Where, for relevant life insurance policies, the life insurer has a relevant period under section EY 30(5) that ends on 30 June 2015, and 1 July 2015 is not the first day of their income year, the life insurer does part-year tax calculations for the income year that includes 1 July 2015, as described in subsection (2), for the policies, but the income year is divided by 1 July 2015. The effect of the part-year calculations is described in subsection (3).
 
-### EY 6 Actuarial reserves: powers of Commissioner
-Seeking advice from Government Actuary or other actuary
-(1) The Commissioner may seek the advice of the Government Actuary or any other actuary on the interest, mortality, and other assumptions and bases of calculation used by the actuary who did the calculation under section EY 4(3).
-Assessment on different basis
-(2) Whether or not the Commissioner seeks or obtains any such advice, the Commissioner may make an assessment for a life insurer and an income year on the basis of interest, mortality, and other assumptions and bases of calculation different from those used by the actuary who did the calculation under section EY 4(3).
+### EY 6 Actuarial advice and guidance
+The Commissioner may seek the advice of the Government Actuary or any other actuary on anything that is required to be actuarially determined, or any related matter.
 
 ### EY 7 Meaning of claim
 Meaning in life insurance rules
 (1) In the life insurance rules, claim—
   (a) means the amount that a life insurer is liable to pay under a life insurance policy because the contingency against which the life insured is covered under the policy has occurred; subsections (2) to (5) expand on the amount that a life insurer is liable to pay:
-  (b) includes a payment made by a life insurer on the transfer of some or all of its life insurance business:
+  (b) excludes a payment made by a life insurer on the transfer of some or all of its life insurance business:
   (c) in the expression claim arising, does not have the meaning given to the word claim in paragraph (a) or (b).
 Cash and non-cash benefits
 (2) For the purposes of subsection (1)(a), the amount that a life insurer is liable to pay includes—
@@ -16226,7 +16199,13 @@ Meaning of related by employment
 
 ### EY 12 Meaning of life reinsurance
 Meaning
-(1) Life reinsurance means insurance provided to a life insurer by another person (person C), under which person C secures the life insurer, fully or partially, against the life insurer’s liability under a life insurance policy. The words fully and partially describe the extent to which the life insurer is secured against the life insurer’s liability under the life insurance policy; they do not describe the term for which the reinsurance is provided.
+(1) Life reinsurance—
+  (a) means a contract of insurance between a life insurer and another person (person C) under which the life insurer is secured, fully or partially, against a risk by person C:
+  (b) does not include a contract that—
+    (i) secures against financial risk unless, in the contract, it is incidental to securing against life risk:
+    (ii) is, or is part of, a tax avoidance arrangement.
+Fully and partially
+(1B) The words fully and partially describe the extent to which the life insurer is secured against life risk; they do not describe the term for which the reinsurance is provided.
 Full reinsurance
 (2) The life insurer has full reinsurance if all the following apply:
   (a) the life insurer offered or was offered or entered into a life insurance policy or policies,—
@@ -16245,8 +16224,17 @@ Partial reinsurance
     (i) in the case of a life insurer resident in New Zealand, as part of their business of providing life insurance; or
     (ii) in the case of a life insurer not resident in New Zealand, as part of their New Zealand business; and
   (c) the life insurer offered or was offered or entered into the life reinsurance policy or policies in New Zealand.
-Life reinsurer
-(4) Life reinsurer means a person in the position of person C.
+Exclusion: financial arrangements and general insurance
+(4) To the extent to which a contract is a financial arrangement or is insurance that secures a life insurer against liability that arises from insurable events other than death or survival of a human being, that contract is not life reinsurance.
+Other definitions
+(5) In this Act,—
+  - **life financial reinsurance** is a contract that may be life reinsurance under subsection (1)(a), but is not included under subsection (1)(b)
+  - **financial risk** ––
+    (a) means risk, whether or not specific to a party to the relevant arrangement relating to risk, that is contingent on a valuation or disposal of financial arrangements, or contingent on profitability or creditworthiness, or contingent on a variable such as future expenditure:
+    (b) does not include life risk
+  - **life reinsurer** means a person in the position of person C.
+Relationship with subject matter
+(6) Section EZ 62 (Reinsurance transition: life financial reinsurance may be life reinsurance) overrides this section.
 
 ### EY 13 Meaning of life reinsurance policy
 Life reinsurance policy means a policy to the extent to which it states the terms under which life reinsurance is covered.
@@ -16259,415 +16247,414 @@ Life reinsurance definitions
 Life insurance term usually includes life reinsurance term
 (3) A reference in this Act to any of the terms defined in sections EY 8 to EY 11 includes the equivalent term in sections EY 12 and EY 13—for example, life insurer includes life reinsurer—unless the context requires otherwise.
 
-**Premium loading**
+**Non-participation policies**
 
-### EY 15 How premium loading is calculated
-Life insurer providing life insurance at start of income year
-(1) Section EY 16 sets out the steps that a life insurer follows to calculate the life insurer’s premium loading for an income year if the life insurer is in the business of providing life insurance at the start of the income year.
-Life insurer not providing life insurance at start of income year
-(2) Section EY 17 sets out the steps that a life insurer follows to calculate the life insurer’s premium loading for an income year if the life insurer starts the business of providing life insurance in the income year.
-Premium loading formula (life)
-(3) Section EY 18(1) sets out the premium loading formula (life). This is the formula a life insurer uses, as the first step in calculating the life insurer’s premium loading for an income year, to calculate an amount for a life insured under a life insurance policy, except to the extent to which an annuity is being paid under the policy at some time in the income year.
-Premium loading formula (active annuities)
-(4) Section EY 18(2) sets out the premium loading formula (active annuities). This is the formula a life insurer uses, as the first step in calculating the life insurer’s premium loading for an income year, to calculate an amount for a life insured under a life insurance policy, to the extent to which an annuity is being paid under the policy at some time in the income year.
-
-### EY 16 Premium loading: when life insurers providing life insurance at start of income year
-Calculation of premium loading
-(1) If a life insurer is in the business of providing life insurance at the start of an income year, the life insurer calculates their premium loading for the income year by following the steps in subsection (2).
-Steps
-(2) The steps are,—
-  (a) first, use the relevant premium loading formula to calculate an amount for each life insured under each life insurance policy existing at the start of the income year:
-  (b) second, for each such life insurance policy, add together the amounts for the lives insured under it:
-  (c) third, add together the totals reached under paragraph (b).
-
-### EY 17 Premium loading: when life insurers not providing life insurance at start of income year
-Calculation of premium loading
-(1) If a life insurer has started to carry on a business of providing life insurance in an income year, the life insurer calculates the life insurer’s premium loading for the income year by following the steps in subsection (2).
-Steps
-(2) The steps are,—
-  (a) first, use the relevant premium loading formula, adjusted as described in section EY 19, to calculate an amount for each life insured under each life insurance policy existing at some time in the income year:
-  (b) second, for each such life insurance policy, add together the amounts for the lives insured under it:
-  (c) third, add together the totals reached under paragraph (b).
-
-### EY 18 Premium loading formulas
-Premium loading formula (life)
-(1) The premium loading formula (life) is—0.2 × claim probability × (opening sum assured - opening actuarial reserves).
-Premium loading formula (active annuities)
-(2) The premium loading formula (active annuities) is—0.01 × claim probability × opening actuarial reserves.
-Definition of items in formulas
-(3) The items in the formulas are defined in subsections (4) to (6).
-Claim probability
-(4) Claim probability is the probability of a claim arising under the policy for the life insured’s death in the income year. It is determined at the start of the income year using the same mortality assumptions as are used to calculate the life insurer’s actuarial reserves at the start of the income year. It is expressed as a decimal. Variations to claim probability are in sections EY 19(2) and EY 20(2).
-Opening sum assured
-(5) Opening sum assured is the claim that would be payable under the policy for the life insured’s death in the income year or, if no such claim would be payable, the claim that would be payable under the policy for the life insured’s survival to the relevant date or age specified in the policy. It is determined at the start of the income year. It may be zero. Variations to opening sum assured are in sections EY 19(3), EY 21(2), EY 22(3), and EY 23(2).
-Opening actuarial reserves
-(6) Opening actuarial reserves is the amount in the life insurer’s actuarial reserves for the life insured under the policy. It is determined at the start of the income year. A variation to opening actuarial reserves is in section EY 19(4).
-
-### EY 19 Premium loading formulas: when life insurers not providing life insurance at start of income year
-When this section applies
-(1) This section applies when a life insurer has started to carry on a business of providing life insurance in an income year.
-Claim probability
-(2) In using the relevant premium loading formula, the life insurer treats the reference in claim probability to the start of the income year as a reference to the date on which the life insurance policy started to cover the life insured.
-Opening sum assured
-(3) In using the premium loading formula (life), the life insurer treats the reference in opening sum assured to the start of the income year as a reference to the date on which the life insurance policy started to cover the life insured.
-Opening actuarial reserves
-(4) In using the relevant premium loading formula, the life insurer treats the reference in opening actuarial reserves to the start of the income year as a reference to the end of the income year.
-
-### EY 20 Premium loading formulas: option when more than 1 life insured
-When this section applies
-(1) This section applies when a life insurance policy covers more than 1 life insured.
-Claim probability
-(2) In using the relevant premium loading formula, the life insurer may use as claim probability a common factor for all the lives insured under the policy.
-Features of common factor
-(3) The common factor must be a reasonable approximation of the average probability of a claim arising under the policy for each life insured’s death in the income year. It must be weighted as necessary to take account of—
-  (a) differing claims for individual lives insured under the policy; and
-  (b) differing amounts in the life insurer’s actuarial reserves for individual lives insured under the policy.
-
-### EY 21 Premium loading formula (life): when annuity payable on death
-When this section applies
-(1) This section applies when, and to the extent to which, a life insurance policy provides for the payment of an annuity the start of which is contingent on the life insured’s death.
-Opening sum assured
-(2) In using the premium loading formula (life), the life insurer uses as opening sum assured the net present value of the annuity. The net present value is determined—
-  (a) at the start of the income year; and
-  (b) on the assumption that the life insured died at the start of the income year; and
-  (c) using the same assumptions and bases of calculation as are used to calculate the life insurer’s actuarial reserves for the income year.
-
-### EY 22 Premium loading formulas: when annuity payable on survival to date or age specified in policy
-When this section applies
-(1) This section applies when, and to the extent to which, a life insurance policy provides for the payment of an annuity the start of which is contingent on the life insured’s survival to the relevant date or age specified in the policy.
-Claim probability
-(2) In using the relevant premium loading formula, the life insurer must use claim probability as defined in section EY 18(4), without regard to the fact that the payment of the annuity is not contingent on the life insured’s death.
-Opening sum assured
-(3) In using the premium loading formula (life), the life insurer must use as opening sum assured the net present value of the annuity. The net present value is determined—
-  (a) at the relevant date or age specified in the policy; and
-  (b) on the assumption that the life insured survived to the date or age; and
-  (c) using the same assumptions and bases of calculation as are used to calculate the life insurer’s actuarial reserves for the income year.
-
-### EY 23 Premium loading formula (life): when partial reinsurance exists
-When this section applies
-(1) This section applies when a life insurer has partial reinsurance.
-Opening sum assured
-(2) In using the premium loading formula (life), the life insurer must reduce opening sum assured by the claim receivable by the life insurer under the life reinsurance policy for the contingency against which the life insured is covered under the life insurance policy.
-
-### EY 24 Premium loading formulas: individual result may never be negative
-If a life insurer gets a negative result from using a premium loading formula to calculate an amount for a life insured under a life insurance policy for an income year, the result is treated as zero.
-
-**Mortality profit**
-
-### EY 25 How mortality profit is calculated
-Life insurer providing life insurance at start of income year
-(1) Section EY 26 sets out the steps that a life insurer follows to calculate their mortality profit for an income year if they are in the business of providing life insurance at the start of the income year.
-Life insurer not providing life insurance at start of income year
-(2) Section EY 27 sets out the steps that a life insurer follows to calculate their mortality profit for an income year if they start the business of providing life insurance in the income year.
-Mortality profit formula
-(3) Section EY 28 sets out the mortality profit formula that a life insurer uses, as the first step in calculating the life insurer’s mortality profit for an income year, to calculate an amount for a life insured under a life insurance policy.
-
-### EY 26 Mortality profit: when life insurers providing life insurance at start of income year
-Calculation of mortality profit
-(1) If a life insurer is in the business of providing life insurance at the start of an income year, the life insurer calculates the life insurer’s mortality profit for the income year by following the steps in subsection (2).
-Steps
-(2) The steps are,—
-  (a) first, use the mortality profit formula to calculate an amount for each life insured under each life insurance policy existing at the start of the income year:
-  (b) second, for each such life insurance policy, add together the amounts for the lives insured under it:
-  (c) third, add together the totals reached under paragraph (b):
-  (d) fourth, if the result is positive, take it as the mortality profit. If the result is negative, sections EY 33 and EY 34 apply.
-
-### EY 27 Mortality profit: when life insurers not providing life insurance at start of income year
-Calculation of mortality profit
-(1) If a life insurer has started to carry on a business of providing life insurance in an income year, the life insurer calculates the life insurer’s mortality profit for the income year by following the steps in subsection (2).
-Steps
-(2) The steps are,—
-  (a) first, use the mortality profit formula, adjusted as described in section EY 29, to calculate an amount for each life insured under each life insurance policy existing at some time in the income year:
-  (b) second, for each such life insurance policy, add together the amounts for the lives insured under it:
-  (c) third, add together the totals reached under paragraph (b):
-  (d) fourth, if the result is positive, take it as the mortality profit. If the result is negative, sections EY 33 and EY 34 apply.
-
-### EY 28 Mortality profit formula
-Formula
-(1) The mortality profit formula is—claim probability × (opening sum assured - opening actuarial reserves) - (closing sum assured - opening actuarial reserves).
+### EY 15 Policyholder base income: non-participation policies
+What is included
+(1) For an income year, a life insurer's income is included as their policyholder base income if it relates to life insurance policies that are not profit participation policies, and it––
+  (a) does not relate to life risk components of premiums and claims:
+  (b) is investment income that––
+    (i) is included in investment income gains or losses in the financial statements of the life insurer; and
+    (ii) is not a premium; and
+    (iii) is fairly attributable to savings product policies.
+Certain income: basis of apportionment
+(2) Despite subsection (1), if an amount of investment income is included in a life insurer's policyholder base income under subsection (1), but may also be shareholder base income under section EY 19, ignoring section EY 19(1)(d), then the investment income is included in policyholder base income to the extent provided by the formula—income × average surrender valueaverage savings assets.
 Definition of items in formula
-(2) The items in the formula are defined in subsections (3) to (8).
-Claim probability
-(3) Claim probability is the probability of a claim arising under the policy for the life insured’s death in the income year. It is determined at the start of the income year using the same mortality assumptions as are used to calculate the life insurer’s actuarial reserves at the start of the income year. It is expressed as a decimal. Variations to claim probability are in sections EY 29(2) and EY 30(2).
-Opening sum assured
-(4) Opening sum assured is the claim that would be payable under the policy for the life insured’s death in the income year. It is determined at the start of the income year. It may be zero. Variations to opening sum assured are in sections EY 29(3), EY 31(2), and EY 32(2).
-Opening actuarial reserves
-(5) Opening actuarial reserves is the amount in the life insurer’s actuarial reserves for the life insured under the policy. It is determined at the start of the income year. A variation to opening actuarial reserves is in section EY 29(4).
-Closing sum assured if life insured dies in current income year
-(6) If a life insured dies in the income year to which the formula is being applied, closing sum assured is the claim payable under the policy for the death. It may be zero. A variation to closing sum assured is in section EY 32(3).
-Closing sum assured if life insured dies in 1990–91 income year or year up to current income year
-(7) If a life insured dies in the 1990–91 income year or a later income year before the income year to which the formula is being applied, and the claim has not already been included in closing sum assured for an income year, closing sum assured is the claim payable under the policy for the death. It may be zero. A variation to closing sum assured is in section EY 32(3).
-Closing sum assured if subsections (6) and (7) do not apply
-(8) If subsections (6) and (7) do not apply, closing sum assured is the same as opening actuarial reserves.
+(3) In the formula,—
+  (a) income is the income described in subsection (2):
+  (b) average surrender value is, for the savings product policies to which the income relates, the average surrender value of the policies for the income year. The life insurer may determine an equitable and reasonable basis for the measurement of the average:
+  (c) average savings assets is, for the savings product policies to which the income relates, the average market value of assets held by the life insurer for the policies for the income year. The life insurer may determine an equitable and reasonable basis for the measurement of the average.
+More equitable or reasonable basis of apportionment
+(4) Despite subsections (2) and (3), for investment income described in subsection (2), the life insurer may use a basis of apportionment that is different from the one described in subsections (2) and (3), if that basis results in an amount, actuarially determined, that is more equitable and reasonable than an amount determined using the basis described in subsections (2) and (3).
+Treatment of de minimis life risk component amounts
+(5) An amount of income relating to a policy that, but for this subsection, is an amount related to the life risk of a premium or life reinsurance claim, is treated as not relating to the relevant life risk component for the purposes of subsection (1), if––
+  (a) the life insurer has actuarially determined that the life risk is 1% or less of the premium or life reinsurance claim; and
+  (b) chooses to apply this subsection for the policy.
 
-### EY 29 Mortality profit formula: when life insurers not providing life insurance at start of income year
-When this section applies
-(1) This section applies when a life insurer starts to carry on a business of providing life insurance in an income year.
-Claim probability
-(2) In using the mortality profit formula, the life insurer treats the reference in claim probability to the start of the income year as a reference to the date on which the life insurance policy started to cover the life insured.
-Opening sum assured
-(3) In using the mortality profit formula, the life insurer treats the reference in opening sum assured to the start of the income year as a reference to the date on which the life insurance policy started to cover the life insured.
-Opening actuarial reserves
-(4) In using the mortality profit formula, the life insurer treats the reference in opening actuarial reserves to the start of the income year as a reference to the end of the income year.
+### EY 16 Policyholder base allowable deductions: non-participation policies
+What is included
+(1) For an income year, a life insurer's deduction that relates to life insurance policies that are not profit participation policies is included as their policyholder allowable deduction to the extent to which it is incurred in relation to their policyholder base income under section EY 15.
+Basis of apportionment
+(2) Despite subsection (1), if a deduction is included in a life insurer's policyholder base allowable deduction under subsection (1), but may also be a shareholder base allowable deduction under section EY 20, ignoring section EY 20(1)(d), the life insurer must use a basis of apportionment for the deduction which is––
+  (a) the same as in section EY 15(2) and (3) with necessary modifications; or
+  (b) is the same as in section EY 15(4) with necessary modifications.
 
-### EY 30 Mortality profit formula: option when more than 1 life insured
-When this section applies
-(1) This section applies when a life insurance policy covers more than 1 life insured.
-Claim probability
-(2) In using the mortality profit formula, the life insurer may use as claim probability a common factor for all the lives insured under the policy.
-Features of common factor
-(3) The common factor must be a reasonable approximation of the average probability of a claim arising under the policy for each life insured’s death in the income year. It must be weighted as necessary to take account of—
-  (a) differing claims for individual lives insured under the policy; and
-  (b) differing amounts in the life insurer’s actuarial reserves for individual lives insured under the policy.
+**Profit participation policies**
 
-### EY 31 Mortality profit formula: when annuity payable on death
+### EY 17 Policyholder base income: profit participation policies
+What is included
+(1) For an income year, a life insurer has policyholder base income to the extent to which they have an amount for profit participation policies calculated using the formula—asset base gross income × (1 − retained earnings average − future shareholder transfers average) + net transfers.
+Definition of items in formula
+(2) In the formula,—
+  (a) asset base gross income is the amount of annual gross income that the life insurer would have for the policies' asset base, if––
+    (i) the life insurer is treated as having no assets other than the asset base; and
+    (ii) amounts under sections EY 28 and EY 29 are ignored:
+  (b) retained earnings average is an actuarially determined amount that is the average of the following 2 proportions:
+    (i) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the year before the income year:
+    (ii) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the income year:
+  (c) future shareholder transfers average is an actuarially determined amount that is the average of the following 2 proportions:
+    (i) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the beginning of the income year:
+    (ii) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the end of the income year:
+  (d) net transfers is the amount transferred to the benefit of policyholders from shareholders in relation to profit participation policies.
+Meaning of supporting asset base
+(3) Supporting asset base means the asset base for relevant policies excluding—
+  (a) the value of assets supporting the life insurer's policyholder unvested liabilities:
+  (b) the value of assets attributable to the life insurer's shareholders.
+
+### EY 18 Policyholder base allowable deductions: profit participation policies
+For an income year, a life insurer has policyholder base allowable deductions equal to the amount they would have, for profit participation policies, under the formula in section EY 17(1), if––
+  (a) the life insurer is treated as having no assets other than the asset base; and
+  (b) the item asset base gross income is treated as being the annual total deduction for the policies' asset base; and
+  (c) the item net transfers is ignored.
+
+**Non-participation policies**
+
+### EY 19 Shareholder base income: non-participation policies
+What is included
+(1) For an income year, a life insurer's income is included as their shareholder base income if it relates to life insurance policies that are not profit participation policies, and it––
+  (a) relates to life risk components of premiums and claims, other than for annuities, and is not described in paragraphs (b) to (d):
+  (b) relates to fees and commissions:
+  (c) relates to the life risk component of life reinsurance claims:
+  (d) is investment income that is not included as their policyholder base income under section EY 15:
+  (e) is not otherwise accounted for in this subpart, for the income year.
+Treatment of de minimis life risk component amounts
+(2) An amount of income relating to a policy that, but for this subsection, is an amount related to the life risk of a premium or life reinsurance claim, is treated as not relating to the life risk component for the purposes of subsection (1), if––
+  (a) the life insurer has actuarially determined that the life risk is 1% or less of the premium or life reinsurance claim; and
+  (b) chooses to apply section EY 15(5) for the policy.
+No double-counting
+(3) If an amount is included as shareholder base income under sections EY 23 to EY 29, it is not included under this section.
+
+### EY 20 Shareholder base allowable deductions: non-participation policies
+What is included
+(1) For an income year, a life insurer's deduction is included as their shareholder base allowable deduction if it relates to life insurance policies that are not profit participation policies, and it––
+  (a) relates to life risk components of premiums and claims, other than for annuities, and is not described in paragraphs (b) to (e):
+  (b) relates to fees and commissions:
+  (c) relates to the life risk component of life reinsurance premiums:
+  (d) is a deduction in relation to investment income that is not included as their policyholder base allowable deduction under section EY 16:
+  (e) is a premium payback amount, and––
+    (i) section EY 19 applies or has applied to include the original premium as shareholder base income; and
+    (ii) section EY 30(7) does not apply or has not applied to calculate a transitional amount for the original premium:
+  (f) is not otherwise accounted for in this subpart, for the income year.
+No double-counting
+(2) If an amount is included as shareholder base allowable deduction under sections EY 23 to EY 29, it is not included under this section.
+
+**Profit participation policies**
+
+### EY 21 Shareholder base income: profit participation policies
+What is included
+(1) For an income year, a life insurer has shareholder base income to the extent to which they have an amount for profit participation policies calculated using the formula—asset base gross income × (retained earnings average + future shareholder transfers average) − net transfers.
+Definition of items in formula
+(2) In the formula,—
+  (a) asset base gross income is the amount of annual gross income that the life insurer would have for the profit participation policies' asset base, if––
+    (i) the life insurer is treated as having no assets other than the asset base; and
+    (ii) amounts under sections EY 28 and EY 29 are ignored:
+  (b) retained earnings average is an actuarially determined amount that is the average of the following 2 proportions:
+    (i) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the year before the income year:
+    (ii) the proportion of the value of the policies' asset base that is attributable to the life insurer's shareholder's retained earnings at the end of the income year:
+  (c) future shareholder transfers average is an actuarially determined amount that is the average of the following 2 proportions:
+    (i) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the beginning of the income year:
+    (ii) the proportion of the value of the policies' asset base that is attributable to the present value (net) of future transfers to the life insurer's shareholders for future bonus declarations that are able to be supported by the supporting asset base at the end of the income year:
+  (d) net transfers is the amount transferred to the benefit of policyholders from shareholders in relation to profit participation policies.
+
+### EY 22 Shareholder base allowable deductions: profit participation policies
+For an income year, a life insurer has shareholder base allowable deductions equal to the amount they would have, for profit participation policies, under the formula in section EY 21(1) if––
+  (a) the life insurer is treated as having no assets other than the asset base; and
+  (b) the item asset base gross income is treated as being the annual total deduction for the policies' asset base; and
+  (c) the item net transfers is ignored.
+
+**Non-participation policies: reserves**
+
+### EY 23 Reserving amounts for life insurers: non-participation policies
+Reserves
+(1) Sections EY 24 to EY 27 apply to calculate a life insurer's reserving amounts for life insurance policies, other than annuities, that have a life risk component and that are not profit participation policies.
+Actuarial determination
+(2) All reserving amounts must be actuarially determined, for each class of policies.
+Positive and negative amounts: shareholder base income or shareholder base allowable deduction
+(3) If a reserving amount calculated under sections EY 24 to EY 27 is a positive amount, the life insurer has that amount as income included in their shareholder base income. If a reserving amount calculated under sections EY 24 to EY 27 is a negative amount, the life insurer has that amount as a deduction included in their shareholder base allowable deductions.
+Which reserve can be used when?
+(4) For an income year, for a relevant class of policies, a life insurer has a reserving amount described in—
+  (a) section EY 24, for outstanding claims reserves (the outstanding claims reserving amount):
+  (b) section EY 25, for premium smoothing reserves (the premium smoothing reserving amount) if the life insurer chooses to calculate a premium smoothing reserving amount and the PSR periods for policies in the class of policies begins, continues or ends in the income year:
+  (c) section EY 26, for unearned premium reserves (the unearned premium reserving amount), if the life insurer chooses to not calculate a premium smoothing reserving amount:
+  (d) section EY 27, for capital guarantee reserves (the capital guarantee reserving amount).
+Choice
+(5) Despite subsection (4)(b) and (c), a life insurer may not change between calculating a premium smoothing reserving amount and an unearned premium reserving amount for a class of policies once the premium smoothing reserving amount is used for the class of policies. If a policy in a class of policies does not meet the relevant requirements described in subsection (6), then a life insurer has an unearned premium reserving amount for that class of policy.
+Meaning of PSR period
+(6) PSR period means, for a policy in the relevant class of policies, a period beginning, continuing or ending in the income year for which––
+  (a) premiums payable are level or substantially level, and the period is 1 or more years; or
+  (b) there is a material mismatch between the incidence of life risk components and the timing of premiums payable, and the period is 1 or more years.
+
+### EY 24 Outstanding claims reserving amount: non-participation policies not annuities
+Calculation of reserving amount
+(1) For an income year (the current year), a life insurer has an outstanding claims reserving amount for a class of policies calculated using the formula—opening outstanding claims reserve − closing outstanding claims reserve.
+Definition of items in formula
+(2) In the formula in subsection (1),—
+  (a) opening outstanding claims reserve is—
+    (i) the amount of the life insurer’s closing outstanding claims reserve for the class of policies, for the income year before the current year (the prior year); or
+    (ii) if the life insurer has no closing outstanding claims reserve for the prior year, the amount of the life insurer's outstanding claims reserve under subsections (3) and (4) for the class of policies, calculated at the beginning of the current year, but excluding amounts that were included in the closing sum insured for the calculation of mortality profit for the prior year or an earlier income year:
+  (b) closing outstanding claims reserve is the amount of the life insurer’s outstanding claims reserve calculated under subsections (3) and (4) for the class of policies at the end of the current year.
+Outstanding claims reserve calculation
+(3) A life insurer’s outstanding claims reserve is calculated for the relevant policies using the formula—life risk claims incurred + life risk claims reported + risk margin.
+Definition of items in formula
+(4) In the formula in subsection (3),—
+  (a) life risk claims incurred is the actuarially determined estimate of present values (gross) for the life risk components of claims not yet reported to the life insurer before the end of the current year, but the insured-against event has occurred. The life risk components must take into account the probability of the claims being paid, and future expenses for administering the claims, but the present value (gross) of relevant life reinsurance claims must be subtracted from the total:
+  (b) life risk claims reported is the present values (gross) of the life risk components of claims reported but not yet paid. The life risk components must take into account the probability of the claims being paid, and future expenses for administering the claims, but the present values (gross) of relevant life reinsurance claims must be subtracted from the total:
+  (c) risk margin is the appropriate margin for the life risk components of claims described in paragraph (a) or (b), to the extent to which the margin is actuarially determined, reflects the uncertainty of the estimates that arise from the use of the relevant best estimate assumptions, and is not already included in the life risk components of the claims.
+
+### EY 25 Premium smoothing reserving amount: non-participation policies not annuities
+Calculation of reserving amount
+(1) For an income year (the current year), a life insurer has a premium smoothing reserving amount for a class of policies, during the policies' PSR periods, calculated using the formula––opening premium smoothing reserve − closing premium smoothing reserve.
+Definition of items in formula
+(2) In the formula,—
+  (a) opening premium smoothing reserve is––
+    (i) the amount of the life insurer’s closing premium smoothing reserve for the class of policies, for the income year (the prior year) before the current year; or
+    (ii) the amount of the life insurer’s premium smoothing reserve calculated under the principles in subsection (3) for the class of policies, calculated at the beginning of the current year, if the life insurer has no closing premium smoothing reserve for the prior year:
+  (b) closing premium smoothing reserve is the amount of the life insurer’s premium smoothing reserve calculated under the principles in subsection (3) for the class of policies, calculated at the end of the current year.
+Premium smoothing reserve calculation: principles
+(3) A premium smoothing reserve for policies in a class of policies, during their PSR periods, is calculated using the following principles:
+  (a) the premium smoothing reserve must allow the calculation of a reserving amount for an income year, such that the reserving amount plus the life risk component of premiums for the policies for the income year must equal the expected life risk proportion:
+  (b) the life risk component of premiums plus reserving amount recognised for tax purposes during the policies' PSR periods must equal the total life risk component of premiums recognised for financial reporting purposes during the PSR periods.
+Best estimate assumptions for PSR
+(4) Closing and opening premium smoothing reserve amounts must be actuarially determined, using best estimate assumptions.
+Special grouping rule for the purposes of best estimate assumptions
+(5) For the purposes of determining premium smoothing reserve amounts, life insurance policies may be grouped together if the policies have in common,––
+  (a) substantially the same contractual terms and conditions, other than their PSR periods; and
+  (b) substantially the same assumptions for pricing their life risk.
+Meaning of expected life risk proportion
+(6) In this section, expected life risk proportion means a proportion of the total life risk and life risk renewal expenses of premiums for life insurance policies in the relevant class during their PSR periods, where that proportion fairly reflects the life risk and an amount of life risk renewal expenses expected to be borne in that income year if the policies were still existing at the earlier of––
+  (a) the end of the income year:
+  (b) immediately before the end of the policies' PSR period.
+
+### EY 26 Unearned premium reserving amount: non-participation policies not annuities
+Calculation of reserving amount
+(1) For an income year (the current year), a life insurer has an unearned premium reserving amount for a class of policies calculated using the formula—opening unearned premium reserve − closing unearned premium reserve.
+Definition of items in formula
+(2) In the formula,—
+  (a) opening unearned premium reserve is—
+    (i) the amount of the life insurer’s closing unearned premium reserve for the class of policies, for the income year before the current year; or
+    (ii) the amount of the life insurer’s unearned premium reserve under subsection (3) for the class of policies, calculated at the beginning of the current year, if the life insurer has no closing unearned premium reserve for the income year before the current year:
+  (b) closing unearned premium reserve is the amount of the life insurer’s unearned premium reserve under subsection (3) for the class of policies, calculated at the end of the current year.
+Unearned premium reserve
+(3) A life insurer's unearned premium reserve is the amount of the premium in the current year or a prior year, for the relevant policies, that relates to life risk components and relevant costs, in income years after the current year, but subtracting relevant life reinsurance premiums.
+
+### EY 27 Capital guarantee reserving amount: non-participation policies not annuities
+Calculation of reserving amount
+(1) For an income year (the current year), a life insurer has a reserving amount for a class of policies calculated using the formula—opening capital guarantee reserve − closing capital guarantee reserve.
+Definition of items in formula
+(2) In the formula,—
+  (a) opening capital guarantee reserve is—
+    (i) the amount of the life insurer’s closing capital guarantee reserve for the class of policies, for the income year before the current year; or
+    (ii) the amount of the life insurer’s capital guarantee reserve under subsection (3) for the class of policies, calculated at the beginning of the current year, if the life insurer has no closing capital guarantee reserve for the income year before the current year:
+  (b) closing capital guarantee reserve is the amount of the life insurer’s capital guarantee reserve under subsection (3) for the class of policies, calculated at the end of the current year.
+Capital guarantee reserve
+(3) A life insurer’s capital guarantee reserve is the net amount of credits and debits on account of a risk-linked provision for future obligations in relation to a guarantee, for the class of policies, by the life insurer that capital invested will be returned or that a minimum return on capital will be paid.
+Reflex in policyholder base
+(4) For the current year, if the reserving amount under this section is positive, the life insurer has that amount as a deduction included in their policyholder base allowable deductions. For the current year, if the reserving amount under this section is negative, the life insurer has that amount as income included in their policyholder base income.
+Reflex in policyholder base: exception
+(5) Despite subsection (4), for the current year, the life insurer does not have that amount as income included in their policyholder base income to the extent to which the amount represents payment on account of lost capital in the policyholder base.
+
+**Shareholder base other profit: profit participation policies**
+
+### EY 28 Shareholder base other profit: profit participation policies that are existing business
+Calculation of income
+(1) For an income year, a life insurer has an amount, for profit participation policies that are existing business, that is calculated using the formula––other profit × gate(1 + gate).
+Definition of items in formula
+(2) In the formula in subsection (1),—
+  (a) other profit is the amount calculated for the income year under subsection (4):
+  (b) gate is the proportion of a policyholder's share of profits from the asset base that is used in the formula that calculates a transfer to the benefit of the life insurer's shareholders from the profits of the asset base, as described in paragraph (a)(iii) of the definition of profit participation policy.
+Formula: negative amounts and positive amounts
+(3) If, for an income year, the formula in subsection (1) calculates a positive amount, that amount is included as income in the life insurer’s shareholder base income. If it is a negative amount, then that amount is included as a deduction in the life insurer’s shareholder base allowable deductions.
+Other profit
+(4) For the purposes of the item other profit in subsection (2), an amount is calculated, for the income year (the current year) for profit participation policies that are existing business, using the following formula:(premiums − premiums estimate) − (claims − claims estimate) − (closing policy liabilities − estimated closing policy liabilities).
+Definition of items in formula
+(5) In the formula in subsection (4),—
+  (a) premiums is the amount of premiums for policies for the current year, but subtracting relevant life reinsurance premiums:
+  (b) premiums estimate is the actuarially determined total amount of premiums that the life insurer expected, using best estimate assumptions, to receive in the current year for policies that were in force at the start of the current year or are first entered into in the current year, after subtracting the present value (net) of relevant life reinsurance premiums:
+  (c) claims is the amount of claims for the current year, after subtracting relevant life reinsurance claims:
+  (d) claims estimate is the actuarially determined total amount of claims that the life insurer expected, using best estimate assumptions, to receive in the current year for policies that were in force at the start of the current year or are first entered into in the current year, after subtracting the present value (net) of relevant life reinsurance claims:
+  (e) closing policy liabilities is the total amount of policy liabilities for policies determined at the end of the current year for vested benefits after the previous year's bonus declaration:
+  (f) estimated closing policy liabilities is the total estimated policy liabilities at the end of the current year for policies in force at the start of the current year and expected to be in force at the end of the current year, taking into account vested benefits after the previous year's bonus. The estimated policy liabilities must not take into account any future bonus declarations, and must use best estimate assumptions.
+Meaning of policy liabilities
+(6) For the purposes of subsection (5), policy liabilities means, for a policy, an actuarially determined amount that is the present value (net) of future claims, plus the present value (net) of future expenditure or loss, plus the present value (net) of future tax payments, less the present value (net) of future premiums. Relevant life reinsurance premiums and claims must be subtracted.
+Basis of best estimate assumptions in actuarially determining items
+(7) The same best estimate assumptions must be used for actuarially determining the items premiums estimate, claims estimate, and policy liabilities in this section. The assumptions may be appropriate for the start of the year, or for the end of the year, but once the choice is made between start of the year and end of the year, that basis may not be changed.
+Meaning of existing business
+(8) For the purposes of this section and section EY 29, existing business means, for a policy, that it is––
+  (a) issued on or before 30 June 2009; or
+  (b) issued after 30 June 2009, if––
+    (i) issued on the same substantial and material terms, conditions, and bonus entitlements as profit participation policies that the life insurer issued on or before 30 June 2009, ignoring any annual increase in life insurance cover that is less than 10% or less than annual percentage change in the consumer price index:
+    (ii) issued as the result of conversion rights in a policy issued on or before 30 June 2009.
+
+### EY 29 Shareholder base other profit: profit participation policies that are new business
+Calculation of income
+(1) For an income year, a life insurer has an amount, for profit participation policies that are new business, that is calculated using the formula—other profit × gate– previous negative amount.(1 + gate)
+Definition of items in formula
+(2) In the formula in subsection (1),—
+  (a) other profit is the amount calculated for the income year under subsections (5) to (9):
+  (b) gate is the proportion of a policyholder's share of profits from the asset base that is used in the formula that calculates a transfer to the benefit of the life insurer's shareholders from the profits of the asset base, as described in paragraph (a)(iii) of the definition of profit participation policy:
+  (c) previous negative amount is the amount from the previous year described in subsections (3) and (4).
+Formula: negative amounts and positive amounts
+(3) If, for an income year, the formula in subsection (1) calculates a positive amount, that amount is included as income in the life insurer’s shareholder base income. If it is a negative amount, then that amount is not included as a deduction in the life insurer’s shareholder base allowable deductions, but see subsection (4).
+Negative amounts: carry forward
+(4) The amount by which the amount calculated using the formula in subsection (1) is less than zero is carried forward to the next income year, to be used under this section in the formula as the item previous negative amount in that next year.
+Other profit
+(5) For the purposes of the item other profit in subsection (2), an amount is calculated, for the income year (the current year) for profit participation policies that are new business, using the following formula:(premiums − premiums estimate) − (claims − claims estimate) − (closing policy liabilities − estimated closing policy liabilities).
+Definition of items in formula
+(6) In the formula in subsection (5),—
+  (a) premiums is the amount of premiums for policies for the current year, but subtracting relevant life reinsurance premiums:
+  (b) premiums estimate is the amount of valuation premiums that the life insurer expected, using best estimate assumptions, to receive in the current year for policies that are in force at the start of the current year, or are first entered into in the current year, after subtracting the present value (net) of relevant life reinsurance premiums:
+  (c) claims is the amount of claims for the current year, after subtracting relevant life reinsurance claims:
+  (d) claims estimate is the actuarially determined amount of claims that the life insurer expected, using best estimate assumptions, to receive in the current year for policies that are in force at the start of the current year, or are first entered into in the current year, ignoring surrenders and after subtracting the present value (net) of relevant life reinsurance claims:
+  (e) closing policy liabilities is the amount of policy liabilities for policies determined at the end of the current year for vested benefits after the previous year's bonus declaration:
+  (f) estimated closing policy liabilities is the estimated policy liabilities at the end of the current year for policies in force at the start of the current year and expected to be in force at the end of the current year, taking into account vested benefits after the previous year's bonus. The estimated policy liabilities must not take into account any future bonus declarations, and must use best estimate assumptions.
+Meaning of valuation premiums
+(7) In this section, valuation premiums means the amount of premiums payable for a policy, actuarially determined by reference to the premium formula used when the policy was first entered into, or, if the premium formula is unavailable, by reference to mortality, expense, and other assumptions applicable to premiums for similar policies at the beginning of the income year in which the policy was first entered into. The valuation premiums must not include any allowance for future bonus declarations or future shareholder profits. The amount of the valuation premium for a policy must not change, unless significant changes to the policy justify changing the valuation premium.
+Meaning of policy liabilities
+(8) In this section, policy liabilities means, for a policy, an actuarially determined amount that is the present value (net) of future mortality and maturity claims, plus the present value (net) of future expenditure or loss, plus the present value (net) of future tax payments, less the present value (net) of future valuation premiums. The amount of policy liabilities must not include any allowance for surrenders or the payment of surrender values and relevant life reinsurance premiums and claims must be subtracted. The minimum amount of policy liabilities for a policy is the current surrender value of the policy.
+Basis of best estimate assumptions in actuarially determining items
+(9) The same best estimate assumptions must be used for actuarially determining the items premiums estimate, claims estimate, and policy liabilities in this section. The assumptions may be appropriate for the start of the year, or for the end of the year, but once the choice is made between start of the year and end of the year, the assumptions must not be changed.
+Meaning of new business
+(10) For the purposes of this section, new business means, for a policy, that it is not existing business under section EY 28.
+
+**Transitional adjustments and annuities**
+
+### EY 30 Transitional adjustments: life risk
+When this section applies: treatment of old and new policies
+(1) This section applies to life insurance policies described in subsections (2) to (4). For the purposes of this section, a policy (the new policy) is treated as being issued at the same time as another policy (the old policy) that the new policy replaces, if the replacement is caused by––
+  (a) reinstating the old policy due to a lapse by the insured in premium payments, if the new policy comes into force within 90 days of the lapse, and the life insurer treats the new policy and old policy the same; or
+  (b) the life insurer being sold, or the life insurer selling its rights and obligations under the old policy.
+Life insurance policies
+(2) This section applies to a life insurance policy, excluding an annuity, a group life master policy, credit card repayment insurance, and an workplace group policy, if the policy is issued by the life insurer before the grandparenting start day or if the life insurer receives an application and a deposit in money before the grandparenting start day for the policy which is issued after that day, and––
+  (a) the life insurer has no policyholder base income or policyholder base allowable deduction for the policy; and
+  (b) the policy meets the relevant requirements for the relevant period described in subsection (5)(a) to (c); and
+  (c) the amount of life insurance cover does not increase for a cover review period that is wholly or partly in the relevant income year by more than the greater of––
+    (i) 10% of the insurance cover at the beginning of the cover review period; and
+    (ii) the percentage change in consumer price index for the cover review period.
+Group life master policies
+(3) This section applies to a group life master policy, if the policy is issued by the life insurer before the grandparenting start day or if the life insurer receives an application and a deposit in money before the grandparenting start day for the policy which is issued after that day, and––
+  (a) the life insurer has no policyholder base income or policyholder base allowable deduction for the policy; and
+  (b) the policy meets the requirements for the period described in subsection (5)(c), or, looking through to the individual lives covered, to the extent to which the policy meets the requirements for the period described in subsection (5)(a); and
+  (c) to the extent to which, looking through to the individual lives covered, the cover was first in place before the grandparenting start day; and
+  (d) the substantial and material terms and conditions of the policy do not change on or after the grandparenting start day; and
+  (e) the amount of life insurance cover, looking through to the individual lives covered, does not increase for a cover review period that is wholly or partly in the relevant income year by more than the greater of––
+    (i) 10% of the life insurance cover at the beginning of the cover review period; and
+    (ii) the percentage change in consumer price index for the cover review period.
+Credit card repayment insurance and workplace group policies
+(4) This section applies to a credit card repayment insurance and to an workplace group policy, if the policy is issued by the life insurer before the grandparenting start day or if the life insurer receives an application and a deposit in money before the grandparenting start day, and––
+  (a) the life insurer has no policyholder base income or policyholder base allowable deduction for the policy; and
+  (b) the policy, if it is a credit card repayment insurance, meets the requirements for the period described in subsection (5)(c), or, if it is a workplace group policy, meets the requirements for the period described in subsection (5)(d); and
+  (c)
+  (d) the substantial and material terms and conditions of the policy do not change on or after the grandparenting start day.
+Requirements and periods for which this section applies
+(5) The following are the requirements and periods for the purposes of subsections (2)(b), (3)(b), and (4)(b), for a policy:
+  (a) for a life insurance policy for which only 1 premium is ever payable, or for which the amount of each premium is the same, the period that––
+    (i) starts on the grandparenting start day; and
+    (ii) finishes on the day that the policy ceases to be in force:
+  (b) for a life insurance policy for which the premium is set for a continuous period beginning before the grandparenting start day and the premium does not go up in the period (the continuous rate period), the period that starts on the grandparenting start day and ends on the later of the following:
+    (i) the day that is the last day of the continuous rate period:
+    (ii) whichever day described in paragraph (c)(i) and (ii) is earlier:
+  (c) for a life insurance policy for which the premium may vary each year, the period that starts on the grandparenting start day and ends on the earlier of the following:
+    (i) the day that the policy expires:
+    (ii) the day that is before the 5 years anniversary of the grandparenting start day:
+  (d) for a life insurance policy for which the premium may vary each year, the period that starts on the grandparenting start day and ends on the earlier of the following:
+    (i) the day that the policy expires:
+    (ii) the day that is before the 3 years anniversary of the grandparenting start day.
+When this section does not apply: once-only opt out
+(6) This section does not apply to a class of policies after the life insurer irrevocably chooses in a notice received by the Commissioner that this section does not apply for the class.
+Adjustment
+(7) For the income year, a life insurer has an amount of shareholder base allowable deduction calculated for a class of policies using the formula––premiums − total net reserving amounts − (1.2 × expected death strain).
+Definition of items in formula
+(8) In the formula,—
+  (a) premiums is the life insurer’s total premiums for the income year for the policies, but subtracting relevant life reinsurance premiums:
+  (b) total net reserving amounts is the total of reserving amounts for the income year under sections EY 24 to EY 27, but treating amounts that are shareholder base income as negative amounts, and amounts that are shareholder base allowable deductions as positive amounts:
+  (c) expected death strain is the amount calculated under the expected death strain formula (life) in accordance with sections EZ 53 to EZ 60 (which relate to the transitional adjustment for expected death strain) for the income year.
+Negative amounts
+(9) If subsection (7) gives a negative amount for a policy, it is ignored for that policy.
+Meaning of cover review period
+(10) Cover review period means––
+  (a) the relevant income year, if the life insurer has not chosen a different period under paragraph (b):
+  (b) a period of a year that has a starting and anniversary date that the life insurer irrevocably chooses, for a class of policies, in a return of income for the tax year corresponding to the income year in which the grandparenting start day is included.
+Meaning of credit card repayment insurance
+(11) Credit card repayment insurance means a life insurance policy, if the benefits of the cover are for the repayment of an outstanding debt balance of a credit card.
+Meaning of employer sponsored group policies
+(12)
+Meaning of grandparenting start day
+(13) Grandparenting start day means––
+  (a) 1 July 2010, if paragraph (b) does not apply:
+  (b) a life insurer's early life regime application day, if the life insurer irrevocably chooses that day as their grandparenting start day.
+Meaning of group life master policies
+(14) Group life master policy means a life insurance policy with multiple individual's life insurance cover grouped under it, if the group of individuals is identified in the policy and the general public are excluded. Life reinsurance policies are group life master policies but credit card repayment insurance and workplace group policies are not group life master policies.
+Meaning of workplace group policy
+(15) Workplace group policy means a life insurance policy with multiple individual's life insurance cover grouped under it, if––
+  (a) the group of individuals is a class of employees of an employer, and the employer is the sponsor of the policy, or are members of a union registered under the Employment Relations Act 2000, and the trade union is the sponsor of the policy; and
+  (b) the general public is excluded; and
+  (c) where the sponsor is the employer, joining the life insurance policy is compulsory for the relevant class of employees, and the employer must pay the premiums.
+
+### EY 31 Annuities
 When this section applies
-(1) This section applies when, and to the extent to which, a life insurance policy provides for the payment of an annuity the start of which is contingent on the life insured’s death.
-Opening sum assured
-(2) In using the mortality profit formula, the life insurer uses as opening sum assured the net present value of the annuity. The net present value is determined—
-  (a) at the start of the income year; and
-  (b) on the assumption that the life insured died at the start of the income year; and
-  (c) using the same assumptions and bases of calculation as are used to calculate the life insurer’s actuarial reserves for the income year.
+(1) This section applies when a life insurance policy is an annuity.
+Adjustment
+(2) For the income year, a life insurer has an amount calculated for the relevant annuities using the formula—closing actuarial reserves − (0.99 × expected death strain).
+Definition of items in formula
+(3) In the formula,—
+  (a) closing actuarial reserves is the life insurer’s closing actuarial reserves (active annuities), calculated in accordance with section EZ 59(2) (Meaning of actuarial reserves):
+  (b) expected death strain is the amount calculated under the expected death strain formula (active annuities) in accordance with sections EZ 53 to EZ 60 (which relate to the transitional adjustment for expected death strain) for the income year.
+Positive and negative amounts
+(4) If the formula in subsection (2) gives a positive amount, the life insurer has that amount as income included in their shareholder base income. If the formula in subsection (2) gives a negative amount, the life insurer has that amount as a deduction included in their shareholder base allowable deductions.
 
 ### EY 32 Mortality profit formula: when partial reinsurance exists
-When this section applies
-(1) This section applies when a life insurer has partial reinsurance.
-Opening sum assured
-(2) In using the mortality profit formula, the life insurer must reduce opening sum assured by the claim receivable by the life insurer under the life reinsurance policy for the contingency against which the life insured is covered under the life insurance policy.
-Closing sum assured
-(3) In using the mortality profit formula, the life insurer must reduce closing sum assured by the claim receivable by the life insurer under the life reinsurance policy for the contingency against which the life insured is covered under the life insurance policy.
+[Repealed]
 
 ### EY 33 Mortality profit formula: individual result may be negative only in some cases
-Rule: not negative
-(1) If a life insurer gets a negative result from using the mortality profit formula to calculate an amount for a life insured under a life insurance policy for an income year, the result is treated as zero. However, a negative result is not treated as zero if 1 of the exclusions in subsections (2) to (4) applies.
-Exclusion: death in income year
-(2) The first exception is when the life insured died in the income year.
-Exclusion: death in 1990–91 income year or later
-(3) The second exception is when—
-  (a) the life insured died in the 1990–91 income year or a later income year before the income year for which the formula is being used; and
-  (b) the claim has not already been included in closing sum assured for an income year.
-Exclusion: annuity being paid
-(4) The third exception is when, and to the extent to which, the benefit under the policy is an annuity that is being paid at some time in the income year.
+[Repealed]
 
 ### EY 34 Mortality profit formula: negative result
-When this section applies
-(1) This section applies when a life insurer is allowed a deduction under section DR 1 (Mortality profit formula: negative result).
-Amount of deduction
-(2) The amount of the deduction is the negative result.
-Timing of deduction
-(3) The life insurer is allowed the deduction in the income year.
-
-**Discontinuance profit**
+[Repealed]
 
 ### EY 35 How discontinuance profit is calculated
-Life insurer providing life insurance at any time
-(1) Section EY 36 sets out the steps that a life insurer follows to calculate the life insurer’s discontinuance profit for an income year.
-Discontinuance profit formula (existing policies)
-(2) Section EY 37 sets out the discontinuance profit formula (existing policies). This is the formula a life insurer uses, as the first step in calculating the life insurer’s discontinuance profit for an income year, to calculate an amount for a life insurance policy that exists at the start of the income year and to which 1 of the following applies in the income year:
-  (a) it terminates, wholly or partly, for a reason other than the life insured’s death or the life insured’s survival to the relevant date or age specified in the policy; or
-  (b) a claim is paid under it for a reason other than the life insured’s death or the life insured’s survival to the relevant date or age specified in the policy.
-Discontinuance profit formula (new policies)
-(3) Section EY 38 sets out the discontinuance profit formula (new policies). This is the formula a life insurer uses, as the first step in calculating the life insurer’s discontinuance profit for an income year, to calculate an amount for a life insurance policy to which both the following apply:
-  (a) it does not exist at the start of the income year; and
-  (b) it terminates in the income year for a reason other than the life insured’s death or the life insured’s survival to the relevant date or age specified in the policy.
+[Repealed]
 
 ### EY 36 Discontinuance profit for income year
-Calculation of discontinuance profit
-(1) A life insurer calculates the life insurer’s discontinuance profit for an income year by following the steps in subsection (2).
-Steps
-(2) The steps are,—
-  (a) first, use the relevant discontinuance profit formula to calculate an amount for each life insurance policy existing at some time in the income year:
-  (b) second, add all the amounts together.
+[Repealed]
 
 ### EY 37 Discontinuance profit formula (existing policies)
-Formula
-(1) The discontinuance profit formula (existing policies) is—pre-termination actuarial reserves - post-termination actuarial reserves - termination payment.
-Definition of items in formula
-(2) The items in the formula are defined in subsections (3) to (5).
-Pre-termination actuarial reserves
-(3) Pre-termination actuarial reserves is the amount in the life insurer’s actuarial reserves for the life insurance policy, determined immediately before the event described in section EY 35(2)(a) or (b). It is calculated using the same assumptions and bases of calculation as were used at the start of the income year to calculate the amount in the life insurer’s actuarial reserves for the policy.
-Post-termination actuarial reserves
-(4) Post-termination actuarial reserves is the amount in the life insurer’s actuarial reserves for the life insurance policy, determined immediately after the event described in section EY 35(2)(a) or (b) and having regard to the fact that the event has occurred. It is calculated using the same assumptions and bases of calculation as were used at the start of the income year to calculate the amount in the life insurer’s actuarial reserves for the policy.
-Termination payment
-(5) Termination payment is the claim payable by the life insurer on the occurrence of the event described in section EY 35(2)(a) or (b). It may be zero. A variation to termination payment is in section EY 39(2).
+[Repealed]
 
 ### EY 38 Discontinuance profit formula (new policies)
-Formula
-(1) The discontinuance profit formula (new policies) is—premium - termination payment.
-Definition of items in formula
-(2) The items in the formula are defined in subsections (3) and (4).
-Premium
-(3) Premium is all the premiums paid to the life insurer for the life insurance policy, including a premium due before, but paid after, it terminates. A variation to premium is in section EY 40(2).
-Termination payment
-(4) Termination payment is the claim payable by the life insurer when the life insurance policy terminates. It may be zero. A variation to termination payment is in section EY 40(3).
+[Repealed]
 
 ### EY 39 Discontinuance profit formula (existing policies): when partial reinsurance exists
-When this section applies
-(1) This section applies when a life insurer has partial reinsurance.
-Termination payment
-(2) In using the discontinuance profit formula (existing policies), the life insurer must reduce termination payment by the claim receivable by the life insurer under the life reinsurance policy on the occurrence of the event described in section EY 35(2)(a) or (b).
+[Repealed]
 
 ### EY 40 Discontinuance profit formula (new policies): when partial reinsurance exists
-When this section applies
-(1) This section applies when a life insurer has partial reinsurance.
-Premium
-(2) In using the discontinuance profit formula (new policies), the life insurer must reduce premium by an amount to which both the following apply:
-  (a) it is part of the premiums payable by the life insurer in the income year for a life reinsurance policy or policies (the life reinsurance premiums); and
-  (b) it is the part of the life reinsurance premiums that relates to the life insurance policy.
-Termination payment
-(3) In using the discontinuance profit formula (new policies), the life insurer must reduce termination payment by the claim receivable by the life insurer under the life reinsurance policy for the termination of the life insurance policy.
+[Repealed]
 
 ### EY 41 Discontinuance profit formulas: individual result may never be negative
-If a life insurer gets a negative result from using a discontinuance profit formula to calculate an amount for a life insurance policy for an income year, the result is treated as zero.
-
-**Policyholder income**
+[Repealed]
 
 ### EY 42 How policyholder income is calculated
-Section EY 43 sets out the policyholder income formula that a life insurer uses for each income year to calculate the life insurer’s policyholder income for the income year.
+[Repealed]
 
 ### EY 43 Policyholder income formula
-Formula
-(1) The policyholder income formula is—claim due + (closing actuarial reserves – opening actuarial reserves) – (FDR adjustment + PILF adjustment) – (premium – underwriting result)(1 – tax rate).
-Definition of items in formula
-(2) The items in the formula are defined in subsections (3) to (8).
-Claim due
-(3) Claim due is the total of—
-  (a) each claim that became due and payable in the income year; and
-  (b) each claim that became due and payable in an earlier income year to the extent to which—
-    (i) the claim relates to a contingency that was met in the 1990–91 income year or a later income year before the income year for which the formula is being used; and
-    (ii) the claim has not already been included in claim in an income year.
-Closing actuarial reserves
-(4) Closing actuarial reserves is the life insurer’s actuarial reserves, determined at the end of the income year. A variation to closing actuarial reserves is in section EY 45(2).
-Opening actuarial reserves
-(5) Opening actuarial reserves is the life insurer’s actuarial reserves, determined at the start of the income year. A variation to opening actuarial reserves is in section EY 45(3).
-FDR adjustment
-(5B) FDR adjustment is the amount set out in section EY 43B to the extent to which it applies.
-PILF adjustment
-(5C) PILF adjustment is the amount set out in section EY 43C to the extent to which it applies.
-Premium
-(6) Premium is all the premiums due and payable to the life insurer in the income year. Premium does not include a premium due and payable to the life insurer in an earlier income year. A variation to premium is in section EY 44.
-Underwriting result
-(7) Underwriting result is the total of the following that the life insurer has in the income year:
-  (a) the premium loading; and
-  (b) the mortality profit; and
-  (c) the discontinuance profit.
-Tax rate
-(8) Tax rate is the basic rate of income tax set out in schedule 1, part A, clause 8 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
-Positive result
-(9) A positive result from using the policyholder income formula is policyholder income in the income year.
-Negative result
-(10) A negative result from using the policyholder income formula is policyholder net loss for the income year, and is dealt with under section IT 1 (Life insurers’ policyholder net losses).
+[Repealed]
 
 ### EY 43B Policyholder income formula: FDR adjustment
-What this section applies to
-(1) This section applies for the purposes of section EY 43(5B) to property that supports only actuarial reserves to the extent to which—
-  (a) property is an attributing interest in a FIF held by a life insurer or by a multi-rate PIE that the life insurer has invested in, directly or indirectly; and
-  (b) the life insurer or the multi-rate PIE uses the fair dividend rate method for the property; and
-  (c) section EY 43C does not apply.
-When has life insurer indirectly invested in multi-rate PIE?
-(2) For the purposes of subsection (1), a life insurer is treated as investing indirectly in a multi-rate PIE (PIE A) when a multi-rate PIE has invested in PIE A and the investment may be traced through an unbroken chain of investments in multi-rate PIEs to a direct investment by the life insurer in a multi-rate PIE.
-FDR adjustment
-(3) In using the policyholder income formula, the life insurer may calculate the item FDR adjustment —
-  (a) using the formula in subsection (5); or
-  (b) by calculating, using a reasonable method for the information available to the life insurer, the amount credited to actuarial reserves in relation to the property, but excluding amounts that are related to FIF income under the fair dividend rate method.
-Consistency requirement
-(4) (4) In using the policyholder income formula, the life insurer must calculate the item FDR adjustment by always applying whichever of subsection (3)(a) or (b) is first used.
-Formula
-(5) The formula referred to in subsection (3)(a) is—0.6 × (FIF result − FDR income).
-Definition of items in formula
-(6) The items in the formula are defined in subsections (7) and (8).
-FIF result
-(7) FIF result is the life insurer's gains and losses for the income year, for the property, calculated using accepted accounting practice.
-FDR income
-(8) FDR income is the amount for the income year of the life insurer's income related to FIF income under the fair dividend rate method for the property, calculated using a reasonable method for the information available to the life insurer.
+[Repealed]
 
 ### EY 43C Policyholder income formula: PILF adjustment
-What this section applies to
-(1) This section applies for the purposes of section EY 42(5C) to property that supports only actuarial reserves for a life fund PIE to the extent to which the property is—
-  (a) an attributing interest in a FIF—
-    (i) held by a life insurer or a multi-rate PIE that the life insurer has invested in directly or indirectly; and
-    (ii) for which the life insurer or multi-rate PIE uses the fair dividend rate method:
-  (b) shares described in section CX 55 (Proceeds from certain disposals by portfolio investment entities or New Zealand Superannuation Fund) held by the life insurer.
-When has life insurer invested indirectly in multi-rate PIE?
-(2) For the purposes of subsection (1), a life insurer is treated as investing indirectly in a multi-rate PIE (PIE A) when a multi-rate PIE has invested in PIE A and the investment may be traced through an unbroken chain of investments in multi-rate PIEs to a direct investment by the life insurer in a multi-rate PIE.
-PIE adjustment
-(3) In using the policyholder income formula, the life insurer may calculate the item PILF adjustment —
-  (a) using the formula in subsection (5); or
-  (b) by calculating, using a reasonable method for the information available to the life insurer, the amount credited to actuarial reserves in relation to the property, but excluding amounts that are—
-    (i) related to FIF income under the fair dividend rate method:
-    (ii) dividends or distributions for shares described in subsection (1)(b) other than a distribution from a multi-rate PIE to which section CX 56B (Distributions to investors in multi-rate PIEs) applies.
-Consistency requirement
-(4) In using the policyholder income formula, the life insurer must calculate the item PILE adjustment by always applying whichever of subsection (3)(a) or (b) is first used.
-Formula
-(5) In using the policyholder income formula, the life insurer must calculate the item PILF adjustment using the following formula:0.9 × (FIF result − FDR income) + 0.9 × excluded shares.
-Definition of items in formula
-(6) The items in the fonnula are defined in subsections (7) to (9).
-FIF result
-(7) FIF result is the life insurer's gains or losses for the income year, for the property described in subsection (1)(a), calculated using accepted accounting practice.
-FDR income
-(8) FDR income is the amount for the income year of the life insurer's income related to FIF income under the fair dividend rate method for the property described in subsection (1)(a), calculated using a reasonable method for the information available to the life insurer.
-Excluded shares
-(9) Excluded shares is the total for the life insurer, for shares described in subsection (1)(b), of—
-  (a) the positive amount of income excluded by section CX 55(2):
-  (b) the negative amount of a deduction not allowed by section DB 23(3)(b) (Cost of revenue account property):
-  (c) the gains and losses for the shares, calculated using accepted accounting practice, but excluding—
-    (i) amounts already accounted for under paragraphs (a) and (b) or under subsection (7); and
-    (ii) dividends and distributions for the shares, other than distributions from a multi-rate PIE to which section CX 56B applies.
+[Repealed]
 
 ### EY 44 Policyholder income formula: when partial reinsurance exists
-When this section applies
-(1) This section applies when a life insurer has partial reinsurance.
-Premium
-(2) In using the policyholder income formula, the life insurer must reduce premium by an amount calculated using the formula—reinsurance premium - reinsurance claim.
-Definition of items in formula
-(3) The items in the formula are defined in subsections (4) and (5).
-Reinsurance premium
-(4) Reinsurance premium is the total of the premiums due and payable by the life insurer in the income year under the life reinsurance policies under which the life insurer has partial reinsurance. Reinsurance premium does not include premiums due and payable by the life insurer in earlier income years.
-Reinsurance claim
-(5) Reinsurance claim is the total of the claims receivable by the life insurer in the income year under the life reinsurance policies under which the life insurer has partial reinsurance. Reinsurance claim does not include claims receivable by the life insurer in earlier income years.
+[Repealed]
 
 ### EY 45 Policyholder income formula: when life insurance business transferred
-When this section applies
-(1) This section applies when a life insurance business is transferred in a transfer to which all the following apply:
-  (a) the transferor and the transferee, whether or not resident in New Zealand, are part of the same wholly-owned group of companies immediately before and immediately after the transfer; and
-  (b) 1 of the following is met:
-    (i) if the transferor is resident in New Zealand, all the transferor’s life insurance business is transferred to the transferee; or
-    (ii) if the transferor is not resident in New Zealand, all the life insurance policies offered or entered into in New Zealand that are held by the transferor are transferred to the transferee; and
-  (c) the Commissioner receives confirmation from the Government Actuary that—
-    (i) the requirements of paragraph (b) are met; and
-    (ii) no policyholder will be unduly disadvantaged as a result of the transfer; and
-  (d) the Commissioner is satisfied that the transfer is being undertaken for commercial reasons and that no undue tax advantage to either the transferor or the transferee will arise as a result of the transfer.
-Closing actuarial reserves
-(2) In using the policyholder income formula for the income year in which the transfer occurs, the transferor must use as closing actuarial reserves the transferor’s actuarial reserves immediately before the transfer.
-Opening actuarial reserves
-(3) In using the policyholder income formula for the income year in which the transfer occurs, the transferee must use as opening actuarial reserves the total of—
-  (a) the transferee’s actuarial reserves, determined at the start of the income year; and
-  (b) the transferee’s actuarial reserves for the business or policies transferred to the transferee, determined immediately after the transfer.
-
-**Disposal of property**
+[Repealed]
 
 ### EY 46 Income from disposal of property
-When this section applies
-(1) This section applies when a life insurer disposes of any property of their life insurance business.
-Property generally
-(2) An amount that a life insurer derives from disposing of any property of their life insurance business is income of the life insurer under section CR 1(5) (Income of life insurer). However, if the property is a financial arrangement, subsections (3) to (5) apply instead of this subsection.
-Financial arrangement: application of financial arrangements rules
-(3) If the life insurer disposes of a financial arrangement to which the financial arrangements rules apply, subpart EW (Financial arrangements rules) applies.
-Financial arrangement: application of old financial arrangements rules
-(4) If the life insurer disposes of a financial arrangement to which the old financial arrangements rules apply, sections EZ 33 to EZ 52 (which relate to the old financial arrangements rules) apply.
-Financial arrangement: before old financial arrangements rules
-(5) If the life insurer receives an amount on or after 1 April 1982 as repayment or partial repayment of a financial arrangement to which the old financial arrangements rules would have applied if section EZ 45 (Application of old financial arrangements rules) had not existed, the amount is income of the life insurer.
+[Repealed]
 
 ### EY 47 Deductions for disposal of property
-When this section applies
-(1) This section applies when a life insurer is allowed a deduction under section DR 2 (Disposal of property).
-Amount of deduction
-(2) The amount of the deduction is—
-  (a) the property’s acquisition value or cost; or
-  (b) the amount described in section EZ 2(1) (Deductions for disposal of property: 1982–83 and 1989–90 income years); or
-  (c) the amount described in section EZ 2(2).
-Timing of deduction
-(3) The life insurer is allowed the deduction in the income year in which they dispose of the property.
+[Repealed]
 
 **Non-resident life insurers**
 
@@ -16676,12 +16663,12 @@ When this section applies
 (1) This section applies when a life insurer not resident in New Zealand offers or is offered or enters into life insurance policies in New Zealand.
 Income derived from New Zealand
 (2) The life insurer’s income from the business of providing life insurance, as determined under this section, is income derived from New Zealand.
-Underwriting result and policyholder income
-(3) The life insurer applies the items of the premium loading formula, the mortality profit formula, the discontinuance profit formula, and the policyholder income formula only to—
-  (a) the life insurance policies the life insurer, as insurer, offered or was offered or entered into in New Zealand; and
-  (b) the life reinsurance policies held by the life insurer that relate exclusively to the life insurance policies the life insurer, as insurer, offered or was offered or entered into in New Zealand.
+Shareholder base and policyholder base
+(3) The life insurer's income and deductions are apportioned between their policyholder base or shareholder base under the provisions of this subpart to the extent to which the income or deductions relate to—
+  (a) life insurance policies that the life insurer, as insurer, offered or was offered or entered into in New Zealand:
+  (b) life reinsurance policies held by the life insurer that relate exclusively to life insurance policies described in paragraph (a).
 Other income
-(4) The life insurer’s income from the business of providing life insurance, other than under a formula referred to in subsection (3), is determined only in relation to the life insurer’s New Zealand business.
+(4) The life insurer’s income from the business of providing life insurance, other than under the provisions of this subpart, is determined only in relation to the life insurer’s New Zealand business.
 
 ### EY 49 Non-resident life insurer becoming resident
 Non-resident life insurer may apply
@@ -16729,12 +16716,12 @@ Timing of deduction
 (10) The life insurer is allowed the deduction in the income year in which they dispose of the property.
 
 ### EZ 2 Deductions for disposal of property: 1982–83 and 1989–90 income years
-Section EY 47(2)(b)
-(1) For the purposes of section EY 47(2)(b) (Deductions for disposal of property), for property to which both the following apply, the amount of the deduction is the market value of the property on the last day of the 1989–90 income year:
+Deduction
+(1) For the purposes of this Act, for property to which both the following apply, the amount of the deduction is the market value of the property on the last day of the 1989–90 income year:
   (a) the property is land or buildings acquired on or before the last day of the 1989–90 income year; and
   (b) the profit from the property’s disposal on or before the last day of the 1989–90 income year, had it been disposed of then at a profit, would have been a capital profit or gain and not a profit on disposal of an investment subject to income tax under section 204 of the Income Tax Act 1976 (as that section was immediately before its repeal and substitution by section 13(1) of the Income Tax Amendment Act (No 2) 1990).
-Section EY 47(2)(c)
-(2) For the purposes of section EY 47(2)(c), for property to which both the following apply, the amount of the deduction is the specified base cost for 1983 income year property:
+Deduction
+(2) For the purposes of this Act, for property to which both the following apply, the amount of the deduction is the specified base cost for 1983 income year property:
   (a) the property was acquired on or before the last day of the 1982–83 income year; and
   (b) subsection (1) does not apply to the property.
 
@@ -17734,6 +17721,130 @@ Exception modified
 (2) For the purposes of the exception in section EW 25B(2) (Consistency of use of IFRS method), the person may change a method for IFRS for the financial arrangement if—
   (a) the method they change to or from is Determination G3 under section EW 15E(2)(aa) (Determination alternatives) or an alternative to Determination G3 under section EW 15E(2)(e) (What is included when spreading methods used); and
   (b) that method is available to them to use.
+
+**Expected death strain formulas**
+
+### EZ 53 How expected death strain is calculated
+Calculation of expected death strain: steps
+(1) For an income year, the life insurer calculates their expected death strain by following these steps:
+  (a) first, use the relevant expected death strain formula to calculate an amount for each life insured under each life insurance policy existing at the start of the income year (see: subsections (2) and (3) for guidance on the relevant expected death strain formula):
+  (b) second, for each such life insurance policy, add together the amounts for the lives insured under it:
+  (c) third, add together the totals reached under paragraph (b).
+Expected death strain formula (life)
+(2) Section EZ 54(1) sets out the expected death strain formula (life). This is the formula a life insurer uses for an income year, to calculate an amount for a life insured under a life insurance policy, except to the extent to which an annuity is being paid under the policy at some time in the income year.
+Expected death strain formula (active annuities)
+(3) Section EZ 54(2) sets out the expected death strain formula (active annuities). This is the formula a life insurer uses for an income year, to calculate an amount for a life insured under a life insurance policy, to the extent to which an annuity is being paid under the policy at some time in the income year.
+
+### EZ 54 Expected death strain formulas
+Expected death strain formula (life)
+(1) The expected death strain formula (life) is—claim probability × (opening sum assured − opening actuarial reserves).
+Expected death strain formula (active annuities)
+(2) The expected death strain formula (active annuities) is—claim probability × opening actuarial reserves.
+Definition of items in formulas
+(3) The items in the formulas are defined in subsections (4) to (6).
+Claim probability
+(4) Claim probability is the probability of a claim arising under the policy for the life insured’s death in the income year. It is determined at the start of the income year using the same mortality assumptions as are used to calculate the life insurer’s actuarial reserves at the start of the income year. It is expressed as a decimal. Variations to claim probability are in sections EZ 55(2) and EZ 57(2).
+Opening sum assured
+(5) Opening sum assured is the claim that would be payable under the policy for the life insured’s death in the income year or, if no such claim would be payable, the claim that would be payable under the policy for the life insured’s survival to the relevant date or age specified in the policy. It is determined at the start of the income year. It may be zero. Variations to opening sum assured are in sections EZ 56(2), EZ 57(3), and EZ 58(2).
+Opening actuarial reserves
+(6) Opening actuarial reserves is the amount in the life insurer’s actuarial reserves for the life insured under the policy. It is determined at the start of the income year.
+
+### EZ 55 Expected death strain formulas: option when more than 1 life insured
+When this section applies
+(1) This section applies when a life insurance policy covers more than 1 life insured.
+Claim probability
+(2) In using the relevant expected death strain formula, the life insurer may use as claim probability a common factor for all the lives insured under the policy.
+Features of common factor
+(3) The common factor must be a reasonable approximation of the average probability of a claim arising under the policy for each life insured’s death in the income year. It must be weighted as necessary to take account of—
+  (a) differing claims for individual lives insured under the policy; and
+  (b) differing amounts in the life insurer’s actuarial reserves for individual lives insured under the policy.
+
+### EZ 56 Expected death strain formula (life): when annuity payable on death
+When this section applies
+(1) This section applies when, and to the extent to which, a life insurance policy provides for the payment of an annuity the start of which is contingent on the life insured’s death.
+Opening sum assured
+(2) In using the expected death strain formula (life), the life insurer uses as opening sum assured the present value (net) of the annuity. The present value (net) is determined—
+  (a) at the start of the income year; and
+  (b) on the assumption that the life insured died at the start of the income year; and
+  (c) using the same assumptions and bases of calculation as are used to calculate the life insurer’s actuarial reserves for the income year.
+
+### EZ 57 Expected death strain formulas: when annuity payable on survival to date or age specified in policy
+When this section applies
+(1) This section applies when, and to the extent to which, a life insurance policy provides for the payment of an annuity the start of which is contingent on the life insured’s survival to the relevant date or age specified in the policy.
+Claim probability
+(2) In using the relevant expected death strain formula, the life insurer must use claim probability as defined in section EZ 54(4), without regard to the fact that the payment of the annuity is not contingent on the life insured’s death.
+Opening sum assured
+(3) In using the expected death strain formula (life), the life insurer must use as opening sum assured the present value (net) of the annuity. The present value (net) is determined—
+  (a) at the relevant date or age specified in the policy; and
+  (b) on the assumption that the life insured survived to the date or age; and
+  (c) using the same assumptions and bases of calculation as are used to calculate the life insurer’s actuarial reserves for the income year.
+
+### EZ 58 Expected death strain formula (life): when partial reinsurance exists
+When this section applies
+(1) This section applies when a life insurer has partial life reinsurance.
+Opening sum assured
+(2) In using the expected death strain formula (life), the life insurer must reduce opening sum assured by the claim receivable by the life insurer under the life reinsurance policy for the contingency against which the life insured is covered under the life insurance policy.
+
+**Actuarial reserves**
+
+### EZ 59 Meaning of actuarial reserves
+Actuarial reserves generally
+(1) For the purposes of sections EZ 53 to EZ 58, actuarial reserves means a life insurer’s reserves as calculated under section EZ 60.
+Closing actuarial reserves for annuities
+(2) For the purposes of the item closing actuarial reserves in section EY 31(3) (Annuities), closing actuarial reserves (active annuities) means a life insurer's opening actuarial reserves under section EZ 54(6) for a life insurance policy, to the extent to which an annuity is being paid under the policy where the life insured dies in the income year for which the formula in section EY 31 is applied. Where the life insured survives to the end of that income year, the closing actuarial reserves (active annuities) is zero.
+Link between actuarial reserves and life insurer
+(3) Actuarial reserves, for a life insurer at any time, means the life insurer’s actuarial reserves at that time.
+
+### EZ 60 Actuarial reserves: calculation
+Calculation by actuary
+(1) The life insurer’s actuarial reserves must be actuarially determined.
+All reserves or 1 or more amounts
+(2) The actuary may calculate—
+  (a) the actuarial reserves for all the life insurance policies for which the life insurer is the insurer; or
+  (b) the amount in the life insurer’s actuarial reserves for 1 or more life insurance policies for which the life insurer is the insurer.
+Interest, mortality, and other assumptions and bases of calculation
+(3) The actuary must do the calculation using interest, mortality, and other assumptions and bases of calculation that—
+  (a) are based on the same principles as those used in the actuarial advice on which the following are calculated:
+    (i) the level of surplus funds available to the life insurer for allotment or payment to shareholders or policyholders; or
+    (ii) the level of surplus funds available to the life insurer, if a superannuation scheme, for allotment to objects of the scheme other than the object of providing for members’ benefits; and
+  (b) are likely to produce a reasonable estimation of the future experience of the life insurer in relation to life insurance policies of which the life insurer is the insurer, having regard to the past experience of the life insurer in relation to life insurance policies of which the life insurer was the insurer; and
+  (c) conform with commercially acceptable practice.
+Reserves for policy never negative
+(4) The amount in the actuarial reserves for a life insurance policy must never be negative.
+Reserves for all policies never less than total of surrender values
+(5) The actuarial reserves at any time must not be less than the total of the surrender values of all the life insurance policies they cover at that time.
+Reserves for policies same at end of one, and start of next, income year
+(6) The amount in the actuarial reserves for life insurance policies at the start of an income year is the same as the amount in the actuarial reserves for the life insurance policies at the end of the previous income year.
+Effect of partial reinsurance
+(7) The actuarial reserves of a life insurer who has partial life reinsurance must be reduced by an amount that the actuary responsible for actuarial control of the life insurer considers appropriate having regard to the nature of the life reinsurance policies.
+
+**Entry to new life insurance regime: transitional and miscellaneous provisions**
+
+### EZ 61 Allowance for cancelled amount: spreading
+Policyholder base allowable deduction
+(1) For an income year that includes 1 July 2010 and later income years, a life insurer may choose, by a notice received by the Commissioner on or before the last day for furnishing a return of income for the relevant income year or within such further time as the Commissioner may allow, that an amount (the deduction amount) is included as their policyholder base allowable deduction for the income year, if––
+  (a) the life insurer has no taxable income, other than in relation to its policyholder base, for the tax year corresponding to the income year, and no taxable income, other than in relation to its policyholder base, for every earlier tax year going back to, and including, the tax year that corresponds with the income year that includes 1 July 2010; and
+  (b) the deduction amount is stated in the notice and it is equal to or less than the least of the following:
+    (i) the available tax loss for the tax year that corresponds with the income year, before applying this section; and
+    (ii) the available concession amount for the income year, described in subsection (2); and
+    (iii) the amount that would be the life insurer's schedular policyholder base income for the income year, before applying this section for the year.
+Available concession amount
+(2) For the purposes of subsection (1), the available concession amount for the income year is a positive amount calculated using the formula—base concession amount − used.
+Definition of items in formula
+(3) In the formula,—
+  (a) base concession amount is the lesser of the following:
+    (i) the cancelled amount described in section IT 1 (Cancellation of life insurer's policyholder net losses); and
+    (ii) the amount of available tax loss for the tax year that corresponds with the income year that includes 1 July 2010, before applying this section for the year:
+  (b) used is the total amount of policyholder base allowable deductions that have arisen under this section for income years before the income year.
+
+### EZ 62 Reinsurance transition: life financial reinsurance may be life reinsurance
+(1) If a life contract that is entered into before a life insurer's reinsurance grandparenting start day would be a contract for life financial reinsurance but for this section, then it is treated as life reinsurance, instead of life financial reinsurance, for the period starting on the reinsurance grandparenting start day, and ending on the earlier of,––
+  (a) the last day of the term of the contract, as that term is stated in the contract before the reinsurance grandparenting start day; and
+  (b) the day 5 years after the reinsurance grandparenting start day.
+Meaning of reinsurance grandparenting start day
+(2) Reinsurance grandparenting start day means––
+  (a) 1 July 2010, if the life insurer does not have an early life regime application day; or
+  (b) a life insurer's early life regime application day, if the life insurer has an early life regime application day.
 
 ### EZ 63 Disposal and acquisition upon entry
 When this section applies
@@ -24381,7 +24492,7 @@ Treatment as tax loss component
 Tax losses of LAQCs
 (2) The general rules do not apply in relation to a loss-attributing qualifying company (LAQC) to an amount that would have been a loss balance carried forward under section IA 3(4) in the absence of sections HA 21 and HA 24(5) (which relate to the treatment of losses by LAQCs). The provisions that deal with these losses are sections HA 24 to HA 27.
 Policyholder net losses
-(3) The general rules do not apply to a life insurer’s policyholder net loss under section EY 43(10) (Policyholder income formula). The provision that deals with this net loss is section IT 1 (Life insurers’ policyholder net losses).
+(3)
 Investment funds’ excess expenditure
 (4) The general rules do not apply to excess expenditure of an investment fund under sections DV 5 and DV 7 (which relate to investment funds) except for—
   (a) the amount under section DV 5(4)(a) that the fund must treat as a tax loss component under section IA 2(4)(a)(i); and
@@ -24402,6 +24513,7 @@ Net losses of multi-rate PIEs
 ### IA 8 Restrictions relating to schedular income
 Certain schedular income
 (1) For the purposes of section BC 7 (Income tax liability of person with schedular income), a person must not take a tax loss into account in calculating a schedular income tax liability for a tax year for income described in the following paragraphs of the definition of schedular income:
+  ((aa)) paragraph (a), which relates to life insurers' schedular policyholder base income; or
   (a)
   (b) paragraph (f), for non-resident passive income described in section RB 3 (Schedular income tax liability for filing taxpayers for non-resident passive income); or
   (c) paragraph (g), which relates to non-resident shippers; or
@@ -25076,23 +25188,27 @@ Using tax loss components
 ### IS 6 When company stops being mining company
 For the purposes of sections IS 1 to IS 5, if a mining company whose loss balance is carried forward to a tax year stops being a mining company at or before the end of the tax year, the company is nevertheless treated for the tax year as if it had continued as a mining company.
 
-### Subpart IT — Life insurers’ net losses
+### Subpart IT — Cancellation of life insurer's losses
 
-### IT 1 Life insurers’ policyholder net losses
-Amounts available
-(1) In calculating their policyholder base income tax liability for a tax year, a life insurer may use an amount of a policyholder net loss carried forward from an earlier tax year. The policyholder net loss includes an unused policyholder net loss determined under the Income Tax Act 2004 or the Income Tax Act 1994.
-Loss carried forward
-(1B) If a life insurer has a balance of a policyholder net loss remaining for a tax year after the uses described in this section, the balance, including all unused amounts from earlier tax years, is carried forward to the next tax year as a policyholder net loss carried forward.
-Treatment as tax loss component
-(1C) For the purposes of the application of section IA 10 (Amended assessments), a policyholder net loss under this section is treated as if it were a tax loss component.
-Use of policyholder net losses
-(2) A life insurer may use a policyholder net loss only for the purpose of calculating their policyholder base income tax liability.
-Restrictions on use
-(2B) A life insurer must not use a policyholder net loss to reduce a net loss of another life insurer in a tax year except as described in subsection (3).
-Transfer of life insurance business
-(3) If a life insurer transfers their life insurance business to another company in the way described in section EY 45(1) (Policyholder income formula: when life insurance business transferred), the life insurer may choose to have their policyholder net loss for the tax year of the transfer treated as the other company’s policyholder net loss instead of their own. This subsection applies to both a policyholder net loss calculated for a tax year and a loss balance carried forward to a tax year.
-Notifying Commissioner
-(4) If the life insurer chooses to have the policyholder net loss treated as the other company’s policyholder net loss, they must notify the Commissioner of their election.
+### IT 1 Cancellation of life insurer's policyholder net losses
+What this section applies to
+(1) This section applies to the amount of a life insurer's tax loss to be carried forward to the tax year corresponding to the income year that includes 1 July 2010 (the tax year), to the extent to which the amount (the cancelled amount) would be a ring-fenced tax loss for policyholder net losses under section IA 7(3) (Restrictions relating to ring-fenced losses) if the enactment of the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 were ignored.
+Cancellation of life insurer's policyholder net losses
+(2) The cancelled amount—
+  (a) is removed from the life insurer's available tax loss for the tax year, except as provided by section EY 5(2) (Part-year tax calculations) for the first part-year; and
+  (b) must not be subtracted from the life insurer's net income under section BC 5 (Taxable income) for the tax year, except as provided by section EY 5(2) for the first part-year; and
+  (c) is not a tax loss component on and after 1 July 2010; and
+  (d) is cancelled on and after 1 July 2010.
+
+### IT 2 Cancellation of life insurer's tax loss when allowed into policyholder base
+What this section applies to
+(1) This section applies to the amount of a life insurer's tax loss to be carried forward to a tax year corresponding to an income year that includes 1 July 2010 and later tax years.
+Cancellation of life insurer's tax loss
+(2) When the life insurer has for an income year a policyholder base allowable deduction as provided by section EZ 61 (Allowance for cancelled amount: spreading), an equal amount—
+  (a) is removed from the life insurer's available tax loss for the tax year corresponding to the income year; and
+  (b) must not be subtracted from the life insurer's net income under section BC 5 for the tax year; and
+  (c) is not a tax loss component; and
+  (d) is cancelled.
 
 ### Subpart IV — Treatment of certain supplementary dividends
 
@@ -25353,6 +25469,21 @@ Use of credits
 (2) The Commissioner must—
   (a) first, treat the tax credit as tax paid in excess and as transferable under Part 10B of the Tax Administration Act 1994:
   (b) second, refund the tax credit under sections RB 4, RM 2 to RM 8, and RM 10 (which relate to refunds and their use), as applicable.
+
+### LA 8B General rules particular to life insurers
+Apportionment
+(1) For the purposes of this subpart, a life insurer’s total tax credit is apportioned between their policyholder base and shareholder base, to the extent to which section EY 4 (Apportionment of income of particular source or nature, and of tax credits) applies and apportions the credit.
+Unsatisfied income tax liability
+(2) Despite section LA 3,—
+  (a) a life insurer has an unsatisfied income tax liability to the extent to which—
+    (i) the tax credit apportioned to their policyholder base is less than their schedular income tax liability for schedular policyholder base income (the policyholder base income tax liability):
+    (ii) the tax credit apportioned to their shareholder base is less than their income tax liability for the tax year, calculating their income tax liability (the shareholder base income tax liability) as if they only had shareholder base income and allowable deductions:
+  (b) the amount of unsatisfied income tax liability is the total of the difference, if any, described in paragraph (a)(i) and the difference, if any, described in paragraph (a)(ii):
+  (c) the amount of unsatisfied income tax liability under paragraph (b) is satisfied when the life insurer pays their terminal tax for the tax year.
+Use of credits
+(3) Despite section LA 4,—
+  (a) if the tax credit apportioned to the policyholder base or the shareholder base is greater than the relevant base income tax liability described in subsection (2)(a)(i) or (ii), the tax credit is used, in the order prescribed in section LA 4(1), to satisfy the relevant base income tax liability. There is no cross-crediting:
+  (b) tax credits not used under paragraph (a) are treated as remaining tax credits referred to in section LA 4(2) and the life insurer must deal with the credits under section LA 5.
 
 ### LA 9 Use of tax credits
 An amount of a tax credit is used once, so far as it extends.
@@ -25794,22 +25925,34 @@ Arrangements for tax advantage
 
 ### LE 2 Use of remaining credits by companies and trustees
 When this section applies
-(1) This section applies when a person described in subsection (2) has an amount of tax credit remaining for a tax year under section LA 5(4) (Treatment of remaining credits).
+(1) This section applies when––
+  (a) a person described in subsection (2) has an amount of tax credit remaining for a tax year under section LA 5(4) (Treatment of remaining credits):
+  (b) a life insurer has an amount of tax credit remaining for a tax year under section LA 5(4), but only to the extent to which the amount is for their shareholder base.
 Certain persons only
-(2) The person referred to in subsection (1) must be—
-  (a) a company; or
+(2) The person referred to in subsection (1)(a) must be—
+  (a) a company that is not a life insurer; or
   (b) a trustee (other than the Maori trustee); or
   (c) a Maori authority.
 Calculating amount of tax loss component
-(3) The person has a tax loss component for the corresponding income year equal to an amount calculated using the formula—
+(3) The person or the life insurer, as applicable, has a tax loss component for the corresponding income year equal to an amount calculated using the formula—
 Definition of items in formula
 (4) In the formula,—
-  (a) person’s remaining credit is the amount of the tax credit remaining for the tax year under section LA 5(4):
+  (a) person’s remaining credit is the amount of the tax credit remaining for the tax year under section LA 5(4), but, for a life insurer, only to the extent to which the amount is for their shareholder base:
   (b) tax rate is the basic rate of income tax set out in schedule 1, part A (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
+
+### LE 2B Use of remaining credits by life insurer on policyholder base
+When this section applies
+(1) This section applies to a life insurer who has an amount of tax credit remaining for a tax year (the surplus credit year) under section LA 5(4) (Treatment of remaining credits), but only to the extent to which the amount is for their policyholder base.
+Policyholder base allowable deduction
+(2) The life insurer has a deduction included as their policyholder base allowable deduction, for the income year corresponding to the tax year after the surplus credit year equal to an amount calculated using the formula––policyholder remaining creditpolicyholder rate.
+Definition of items in formula
+(3) In the formula,––
+  (a) policyholder remaining credit is the amount of the tax credit remaining for the surplus credit year under section LA 5(4), but only to the extent to which the amount is for the life insurer's policyholder base:
+  (b) policyholder rate is the basic rate of income tax set out in schedule 1, part A, clause 8 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits).
 
 ### LE 3 Use of remaining credits by others
 When this section applies
-(1) This section applies when a person other than a person referred to in section LE 2(2) has an amount of tax credit remaining for a tax year under section LA 5(4) (Treatment of remaining credits).
+(1) This section applies when a person other than a person referred to in section LE 2(2) or a life insurer has an amount of tax credit remaining for a tax year under section LA 5(4) (Treatment of remaining credits).
 Amount carried forward
 (2) The amount may be carried forward to the next tax year as a credit carried forward.
 Amount of reduction
@@ -27876,13 +28019,13 @@ This Part provides some rules of general application for recording amounts as cr
 ### OA 2 Memorandum accounts
 Types of account in this Part
 (1) The following accounts are dealt with in this Part
-  (a) an imputation credit account, seesubparts OB and OP:
-  (b) a foreign dividend payment (FDP) account, seesubparts OC and OP:
-  (c) a conduit tax relief (CTR) account, seesubparts OD and OP:
-  (d) a branch equivalent tax account, seesubparts OE and OP:
-  (e) an available subscribed capital (ASC) account, seesubpart OF:
-  (f) a policyholder credit account, seesubparts OJ and OP:
-  (g) a Maori authority credit account, seesubpart OK.
+  (a) an imputation credit account, see subparts OB and OP:
+  (b) a foreign dividend payment (FDP) account, see subparts OC and OP:
+  (c) a conduit tax relief (CTR) account, see subparts OD and OP:
+  (d) a branch equivalent tax account, see subparts OE and OP:
+  (e) an available subscribed capital (ASC) account, see subpart OF:
+  (f)
+  (g) a Maori authority credit account, see subpart OK.
 Role of accounts
 (2) A memorandum account is an account listed in subsection (1) that provides a record of the credits and debits arising in the account.
 Tax year
@@ -27918,7 +28061,8 @@ What this section does
 Imputation credits
 (2) A credit is an imputation credit if it is an amount—
   (a) set out in any of sections OA 7, OB 4 to OB 29, and OP 7 to OP 27:
-  (b) described in a row of table O1: imputation credits or table O19: imputation credits of consolidated imputation groups.
+  (b) described in a row of table O1: imputation credits or table O19: imputation credits of consolidated imputation groups:
+  (c) credited under section OZ 18 (Credit-back of PCA balance).
 FDP credits
 (3) A credit is an FDP credit if it is an amount—
   (a) set out in any of sections OA 7, OC 6 to OC 12, and OP 56 to OP 63:
@@ -27943,16 +28087,7 @@ ASC credits
   (a) set out in section OA 7 or OF 4:
   (b) described in a row of table O11: ASC credits.
 Policyholder credits
-(7) A credit is a policyholder credit if it is an amount,—
-  (a) for a policyholder credit account (PCA) company,—
-    (i) set out in any of sections OA 7 and OJ 3 to OJ 7:
-    (ii) described in a row of table O13: policyholder credits:
-  (b) for a PCA person,—
-    (i) set out in any of sections OA 7, OJ 14, and OJ 15:
-    (ii) described in a row of table O15: person’s policyholder credits:
-  (c) for a consolidated group with a policyholder credit account,—
-    (i) set out in any of sections OA 7 and OP 110 to OP 114:
-    (ii) described in a row of table O27: policyholder credits of consolidated groups.
+(7)
 Maori authority credits
 (8) A credit is a Maori authority credit if it is an amount—
   (a) set out in any of sections OA 7 and OK 2 to OK 9:
@@ -27989,16 +28124,7 @@ ASC debits
   (a) set out in section OA 7 or OF 5:
   (b) described in a row of table O12: ASC debits.
 Policyholder debits
-(7) A debit is a policyholder debit if it is an amount,—
-  (a) for a PCA company,—
-    (i) set out in any of sections OA 7 and OJ 8 to OJ 11:
-    (ii) described in a row of table O14: policyholder debits:
-  (b) for a PCA person,—
-    (i) set out in any of sections OA 7 and OJ 16 to OJ 18:
-    (ii) described in a row of table O16: person’s policyholder debits:
-  (c) for a consolidated group with a policyholder credit account,—
-    (i) set out in any of sections OA 7, OP 115, and OP 116:
-    (ii) described in a row of table O28: policyholder debits of consolidated groups.
+(7)
 Maori authority debits
 (8) A debit is a Maori authority debit if it is an amount—
   (a) set out in any of sections OA 7 and OK 10 to OK 18:
@@ -28019,10 +28145,7 @@ Credit date
     (ii) of a BETA person, the first day of the income year; or
     (iii) of a consolidated BETA group, the first day of the tax year:
   (e) for an ASC account, the first day of the tax year:
-  (f) for a policyholder credit account—
-    (i) of a PCA company, the first day of the tax year; or
-    (ii) of a PCA person, the first day of the income year; or
-    (iii) of a consolidated group, the first day of the tax year:
+  (f)
   (g) for a Maori authority credit account, the first day of the tax year.
 First year
 (3) If a consolidated group, company, or person starts a memorandum account during a tax year, no credit for an opening balance arises in the account. But this subsection does not apply—
@@ -28280,6 +28403,9 @@ General rules
 Consolidated imputation groups
 (2) Under section OP 2 (When credits and debits arise only in group accounts), certain credits and debits do not arise in an ICA company’s memorandum account if the company is part of a consolidated imputation group.
 
+### OB 3B General rule for life insurer's policyholder base
+An imputation credit does not arise in relation to a life insurer's policyholder base. Similarly, an imputation debit does not arise in relation to a life insurer's policyholder base.
+
 **Imputation credits**
 
 ### OB 4 ICA payment of tax
@@ -28291,7 +28417,7 @@ No credit
 (3) An ICA company does not have an imputation credit for an amount of—
   (a) a transfer from a tax pooling account to a tax account with the Commissioner; or
   (b) income tax paid on income derived when the company is not an ICA company; or
-  (c) income tax paid by a life insurer to satisfy its policyholder base income tax liability; or
+  (c) income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
   (d) income tax paid under sections LA 2 and LE 1 (which relate to tax credits for imputation credits and their use) by crediting an imputation credit; or
   (e) income tax paid under subpart LA and section LF 1 (which relate to tax credits for FDP credits and their use) by crediting a foreign dividend payment (FDP) credit; or
   (eb) income tax paid by a tax credit under subpart LA and section LH 2 (which relate to tax credits for research development and their use); or
@@ -28348,7 +28474,7 @@ Credit date
 
 ### OB 8 ICA resident withholding tax withheld
 Credit
-(1) An ICA company has an imputation credit for resident withholding tax (RWT) that is treated under section RA 9(1)(b) (Treatment of amounts withheld as received) as derived by the company.
+(1) An ICA company has an imputation credit for resident withholding tax (RWT) that is treated under section RA 9(1)(b) (Treatment of amounts withheld as received) as derived by the company other than as policyholder base income.
 Table reference
 (2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 6 (amount of tax withheld for resident passive income).
 Credit date
@@ -28439,12 +28565,7 @@ Credit date
 (3) The credit date is the last day of the tax year for which the attribution is made.
 
 ### OB 17 ICA transfer from policyholder credit account
-Credit
-(1) An ICA company has an imputation credit for an amount equal to the amount of a debit under section OJ 9 (PCA transfer to imputation credit account) for a transfer of a credit balance from its policyholder credit account.
-Table references
-(2) The imputation credit in subsection (1) is referred to in table O1: imputation credits, row 15 (transfer from policyholder credit account). The policyholder debit in subsection (1) is referred to in table O14: policyholder debits, row 3 (transfer to imputation credit account).
-Credit date
-(3) The credit date is the day the amount is transferred.
+[Repealed]
 
 ### OB 18 ICA transfer from ASC account
 Credit
@@ -28591,6 +28712,7 @@ Debit
 No debit
 (2) A debit under subsection (1) does not include—
   (a) a refund of income tax paid for a period when the company was not an ICA company; or
+  (ab) a refund of income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
   (b) a refund of income tax paid before a debit arises under section OB 41, but only to the extent to which the amount of the refund is less than the amount of the debit; or
   (c) a refund under subpart LP (Tax credits for supplementary dividends) because the supplementary dividend generating the refund was paid before a debit arises under section OB 41, but only to the extent to which the amount of the refund is less than the amount of the debit.
 Table references
@@ -28658,6 +28780,14 @@ Debit date for companies other than qualifying companies
   (c) the last day of the previous tax year for the remainder of the debit.
 Debit date for qualifying companies
 (5) The debit date for a qualifying company is the day the refund is made.
+
+### OB 35B ICA debit for transfer from tax pooling account for policyholder base liability
+Debit
+(1) An ICA company has an imputation debit for the amount transferred from a tax pooling account to their tax account with the Commissioner, to the extent to which the company is a life insurer, and the amount satisfies its schedular income tax liability for schedular policyholder base income or its income tax liability for a life fund PIE that is a multi-rate PIE.
+Table reference
+(2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 7B (debit for transfer from tax pooling account for policyholder base liability).
+Debit date
+(3) The debit date is the last day of the tax year.
 
 ### OB 36 ICA refund of FDP
 Debit
@@ -28808,45 +28938,13 @@ Table reference
 Debit date
 (4) The debit date is the last day of the tax year corresponding to the income year in which the expenditure is deducted.
 
-### OB 47 ICA transfer to policyholder credit account
-Election
-(1) An ICA company that is also a policyholder credit account (PCA) company may, for a tax year,—
-  (a) choose to transfer some or all of a credit balance in the company’s imputation credit account to the company’s policyholder credit account; or
-  (b) be treated as choosing to transfer an imputation credit to the policyholder credit account.
-Debit and credit
-(2) A credit balance or credit transferred under this section is—
-  (a) an imputation debit in the company’s imputation credit account; and
-  (b) a policyholder credit under section OJ 3 (PCA transfer from imputation credit account) in the company’s policyholder credit account.
-Table references
-(3) The imputation debit in subsection (2) is referred to in table O2: imputation debits, row 20 (transfer to policyholder credit account). The policyholder credit in subsection (2) is referred to in table O13: policyholder credits, row 2 (transfer from imputation credit account).
-Method of election
-(4) The company makes the election by recording the balance transferred as—
-  (a) a debit in the company’s imputation credit account; and
-  (b) a credit in the company’s policyholder credit account.
-Election for some credits
-(5) The company must make the election no later than the last day of the tax year for an amount of the credit balance that arises in the following circumstances:
-  (a) the company has adopted a non-standard accounting year; and
-  (b) during the tax year the company derives a dividend that gives rise to a credit in the company’s imputation credit account under—
-    (i) section OB 9 (table O1: imputation credits, row 7 (dividend derived with imputation credit)); or
-    (ii) section OB 10 (table O1: imputation credits, row 8 (dividend derived with FDP credit)); and
-  (c) the credit is included in the credit balance because it has not been used, and no loss of shareholder continuity as required by section OA 8 (Shareholder continuity requirements for memorandum accounts) has occurred.
-Mandatory transfer for company with non-standard accounting year
-(6) Despite the absence of an election during the tax year, a company that has adopted a non-standard accounting year is treated as having chosen at the end of the tax year to transfer the credit described in subsection (7) from the imputation credit account to the policyholder credit account.
-Credit
-(7) The company is treated as having made an election for a tax year to the extent to which—
-  (a) during the tax year, or no later than the end of the accounting year corresponding with the tax year, a credit arises under—
-    (i) section OB 4 (table O1: imputation credits row 2 (payment of tax)) for a payment of provisional tax; or
-    (ii) section OB 11 (table O1: imputation credits row 9 (payment of FDP)) for a payment of FDP; and
-  (b) during the tax year, the credit has not been cancelled by a later debit arising under—
-    (i) section OB 32 (table O2: imputation debits row 4 (refund of income tax)) for a refund of provisional tax paid during the accounting year:
-    (ii) section OB 36 (table O2: imputation debits row 8 (refund of FDP)) for a refund of FDP paid during the accounting year; and
-  (c) the credit has not been included in a credit balance transferred by an election under subsection (4).
-Ordering rule
-(8) For the purpose of determining under subsection (7)(b) whether a debit has cancelled a credit, debits are treated as cancelling credits in the order in which the credits arise.
-Credit and debit dates
-(9) The credit dates and debit dates for the credit balance and credit transferred are—
-  (a) the day of election for the credit balance transferred under subsection (4); and
-  (b) the last day of the tax year for a credit that the company is treated as having chosen under subsection (5) to transfer.
+### OB 47 Debit for policyholder base imputation credits
+Debit
+(1) An ICA company has an imputation debit for the amount of an imputation credit attached to a dividend derived by the company, to the extent to which it is derived by it as a life insurer and apportioned to their policyholder base.
+Table reference
+(2) The imputation debit in subsection (1) is referred to in table O2: imputation debits, row 20 (debit for policyholder base imputation credits).
+Debit date
+(3) The debit date is the last day of the tax year.
 
 ### OB 48 ICA credit balance when Maori authority credit account starts
 Debit
@@ -29408,6 +29506,9 @@ General rules apply
 Consolidated groups
 (2) Under section OP 54 (When credits and debits arise only in consolidated FDP group accounts), certain credits and debits do not arise in the account if the company is part of a consolidated group.
 
+### OC 2B General rule for life insurer's policyholder base
+An FDP credit does not arise in relation to a life insurer's policyholder base. Similarly, an FDP debit does not arise in relation to a life insurer's policyholder base.
+
 ### OC 3 Choosing to become FDPA company
 Election
 (1) A company that chooses to become an FDPA company must notify the Commissioner of the election no later than 21 days after the date of the election or by a later date if the Commissioner allows.
@@ -29577,38 +29678,13 @@ Table references
 Debit date
 (6) The debit date is the last day of the tax year.
 
-### OC 20 FDPA transfer to policyholder credit account
-Election
-(1) An FDPA company that is also a policyholder credit account (PCA) company may, for a tax year,—
-  (a) choose to transfer some or all of a credit balance in the company’s FDP account to its policyholder credit account; or
-  (b) be treated as choosing to transfer a credit in the FDP account to the policyholder credit account.
-Debit and credit
-(2) The credit balance or the amount of the credit transferred is—
-  (a) an FDP debit; and
-  (b) a policyholder credit under section OJ 4 (PCA transfer from FDP account).
-Method of election
-(3) The FDPA company makes the election by recording the amount transferred as—
-  (a) a debit in the FDP account; and
-  (b) a credit in the policyholder credit account.
-Scope of election
-(4) If the credit balance in subsection (1)(a) includes an FDP credit under section OC 7, the company must make the election under subsection (1) no later than the end of the tax year in which the debit date for the transfer of the FDP credit occurs.
-Mandatory transfer
-(5) In the absence of an election under subsection (1)(a), an FDPA company is treated as having chosen to transfer a credit balance that includes an FDP credit under section OC 6 during the tax year when the FDP credit has not been cancelled by a later FDP debit under section OC 14 before the end of the company’s accounting year corresponding to the tax year.
-Cancellation order
-(6) For the purposes of subsection (5), debits are treated as reducing credits in the order in which the credits arise.
-Table references
-(7) The table references are as follows:
-  (a) the FDP debit in subsection (2)(a) is referred to in table O4: FDP debits, row 9 (transfer to policyholder credit account):
-  (b) the policyholder credit in subsection (2)(b) is referred to in table O13: policyholder credits, row 3 (transfer from FDP account):
-  (c) the FDP credit in subsection (4) is referred to in table O3: FDP credits, row 4 (dividend derived with FDP credit):
-  (d) the FDP credit in subsection (5) is referred to in table O3: FDP credits, row 2 (payment of FDP):
-  (e) the FDP debit in subsection (5) is referred to in table O4: FDP debits, row 3 (refund of FDP).
-CTR companies
-(8) Despite subsection (1), an FDPA company that is also a CTR company may not choose to make the transfer.
-Credit and debit dates
-(9) The credit dates and the debit dates for the credit balance and the credits transferred are—
-  (a) the day of election for the credit balance transferred at the company’s election under subsection (1); and
-  (b) the last day of the tax year for a credit that the company is treated under subsection (5) as having chosen to transfer.
+### OC 20 Debit for policyholder base FDP credits
+Debit
+(1) An FDP company has an FDP debit for the amount of an FDP credit attached to a dividend derived by the company, to the extent to which it is derived by it as a life insurer and apportioned to their policyholder base.
+Table reference
+(2) The FDP debit in section (1) is referred to in table O4: FDP debits, row 9 (debit for policyholder base FDP credits).
+Debit date
+(3) The debit date is the last day of the tax year.
 
 ### OC 21 FDPA transfer to group account
 Debit
@@ -29634,28 +29710,7 @@ Debit date
 (5) The debit date is the last day of the tax year.
 
 ### OC 23 FDPA breach of FDP ratio by PCA company
-Debit
-(1) An FDPA company has an FDP debit for a tax year for an amount described in subsection (2) when—
-  (a) the company is also a PCA company; and
-  (b) the company is not also a CTR company; and
-  (c) during the tax year the company pays a dividend with an FDP credit attached; and
-  (d) the dividend does not result from an election by—
-    (i) a statutory producer board under sections OB 73 to OB 75 (which relate to producer boards’ notional distributions); or
-    (ii) a co-operative company under sections OB 78 to OB 80 (which relate to co-operative companies’ notional distributions); and
-  (e) a positive amount exists for the total amount of the company’s policyholder income and policyholder net loss for the tax year under the policyholder base calculation for each tax year of the FDP reference period; and
-  (f) the shareholder FDP ratio for the FDP reference period is more than the policyholder FDP ratio.
-Table reference
-(2) The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 12 (breach of FDP ratio by PCA company).
-Amount of debit
-(3) The amount of the debit is—
-  (a) the maximum deficit debit if the credit balance in the FDP account at the end of the tax year, but before the debit arises, is more than the maximum deficit debit; or
-  (b) the reduced deficit debit if paragraph (a) does not apply.
-Consolidated group
-(4) This section applies, modified as necessary, to a consolidated group with a policyholder credit account as if the group were a single company. In the application of this section to the group,—
-  (a) the definition of the item total credits in the definition of policyholder FDP ratio in section OC 37(3) is read as referring to a transfer under section FM 30(3) and (4) (Application of certain provisions to consolidated groups) to the group’s policyholder credit account; and
-  (b) a dividend paid between group companies is disregarded.
-Debit date
-(5) The debit date is the last day of the tax year.
+[Repealed]
 
 ### OC 24 FDPA debit for loss of shareholder continuity
 Debit
@@ -29794,65 +29849,19 @@ Alternative for consolidated group
 **Some definitions**
 
 ### OC 35 Meaning of FDP reference period
-When this section applies
-(1) This section applies for the purposes of sections OC 23 and OC 36 to OC 39.
-Meaning
-(2) FDP reference period, for an FDPA company, means the period comprising the tax year and the longest period of consecutive tax years in which the FDPA company did not pay a dividend with an FDP credit attached that—
-  (a) starts on or after the debit date for the debit; and
-  (b) ends on the last day of the tax year that falls before the tax year in which the dividend referred to in section OC 23(1)(c) is paid.
+[Repealed]
 
 ### OC 36 Meaning of maximum deficit debit
-When this section applies
-(1) This section applies for the purposes of section OC 23.
-Meaning
-(2) Maximum deficit debit means the amount calculated using the formula—(shareholder ratio – policyholder ratio) × net result × (1 – tax rate).
-Definition of items in formula
-(3) In the formula,—
-  (a) shareholder ratio is an FDPA company’s shareholder FDP ratio for the FDP reference period:
-  (b) policyholder ratio is the company’s policyholder FDP ratio for the FDP reference period:
-  (c) net result is the amount of the company’s policyholder income less its policyholder net losses for the FDP reference period under the policyholder base calculation for each tax year:
-  (d) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
+[Repealed]
 
 ### OC 37 Meaning of policyholder FDP ratio
-When this section applies
-(1) This section applies for the purposes of sections OC 23 and OC 36.
-Meaning
-(2) Policyholder FDP ratio means the ratio of credits to the underlying amount that is calculated using the formula—
-Definition of items in formula
-(3) In the formula,—
-  (a) total credits is the total policyholder credits under section OJ 4 (PCA transfer from FDP account) (table O13: policyholder credits, row 3 (transfer from FDP account)) in an FDPA company’s policyholder credit account during the FDP reference period:
-  (b) net result is the amount of the company’s policyholder income less the amount of policyholder net losses for the FDP reference period under the policyholder base calculation for each tax year:
-  (c) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
+[Repealed]
 
 ### OC 38 Meaning of reduced deficit debit
-When this section applies
-(1) This section applies for the purposes of section OC 23.
-Meaning
-(2) Reduced deficit debit means the amount calculated for a tax year using the formula—
-Definition of items in formula
-(3) In the formula,—
-  (a) balance is the credit balance in an FDPA company’s FDP account at the end of the previous tax year:
-  (b) FDPC is the total amount of all FDP credits attached to dividends paid by the company during the FDP reference period:
-  (c) dividends is the total amount of all dividends paid by the company during the FDP reference period:
-  (d) PCAC is the total amount of policyholder credits under section OJ 4 (PCA transfer from FDP account) (table O13: policyholder credits, row 3 (transfer from FDP account)) in the company’s policyholder credit account during the FDP reference period:
-  (e) net result is the amount of the company’s policyholder income less the amount of policyholder net losses for the FDP reference period under the policyholder base calculation for each tax year:
-  (f) tax rate is the basic rate of income tax set out in—
-    (i) schedule 1, part A, clause 2 (Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits) if the company is not a Maori authority; or
-    (ii) schedule 1, part A, clause 7 if the company is a Maori authority.
+[Repealed]
 
 ### OC 39 Meaning of shareholder FDP ratio
-When this section applies
-(1) This section applies for the purposes of sections OC 23 and OC 36.
-Meaning
-(2) Shareholder FDP ratio means the ratio of the credits to the underlying amount that is calculated using the formula—
-Definition of items in formula
-(3) In the formula,—
-  (a) credits attached is the total amount of all FDP credits attached to dividends paid by an FDPA company during the FDP reference period:
-  (b) total dividends is the total amount of all dividends paid by the company during the FDP reference period.
+[Repealed]
 
 **Table O3: FDP credits**
 
@@ -30512,265 +30521,74 @@ Debit date
 **Introductory provision**
 
 ### OJ 1 General rules for companies and other persons with policyholder credit accounts
-PCA company
-(1) A company resident in New Zealand and carrying on a life insurance business is a policyholder credit account (PCA) company.
-PCA person
-(2) A person other than a PCA company who carries on a life insurance business and has policyholder income to which section CR 1(4) (Income of life insurer) applies, may choose to have a policyholder credit account.
-General rules: PCA company
-(3) The general rules on memorandum accounts set out in sections OA 2 and OA 3 (which relate to the treatment of memorandum accounts) apply to a PCA company’s policyholder credit account.
-General rules: PCA person
-(4) Sections OA 2 and OA 3 apply to a PCA person and their policyholder credit account as if references in those sections to a tax year were references to an income year.
+[Repealed]
 
 **Companies with policyholder credit accounts**
 
 **Introductory provision**
 
 ### OJ 2 Policyholder credit accounts of companies
-Accounts
-(1) A PCA company must maintain a policyholder credit account for a tax year. The account is a record of policyholder credits and policyholder debits that arise in the account during the tax year.
-Credits
-(2) Credits to the account may include a transfer of an amount from the PCA company’s imputation credit account or foreign dividend payment (FDP) account.
-Debits
-(3) Debits to the account may include a credit balance applied to satisfy a PCA company’s policyholder base income tax liability.
-Consolidated groups
-(4) A consolidated group has a policyholder credit account if a group company is a PCA company.
-Credit and debits arising in group accounts
-(5) Certain credits and debits arise in the policyholder credit account of the group and not in the account of a group company.
+[Repealed]
 
 **Policyholder credits of PCA company**
 
 ### OJ 3 PCA transfer from imputation credit account
-Credit
-(1) A PCA company has a policyholder credit for an amount equal to the amount of an imputation debit, as applicable,—
-  (a) under section OB 47 (ICA transfer to policyholder credit account) if the company is not part of a consolidated group; or
-  (b) under section OP 44 (Consolidated ICA transfer to policyholder credit account) if the company is part of a consolidated imputation group.
-Table references
-(2) The table references are as follows:
-  (a) the policyholder credit in subsection (1) is referred to in table O13: policyholder credits, row 2 (transfer from imputation credit account):
-  (b) the imputation debit in subsection (1)(a) is referred to in table O2: imputation debits, row 20 (transfer to policyholder credit account):
-  (c) the imputation debit in subsection (1)(b) is referred to in table O20: imputation debits of consolidated imputation groups, row 18 (transfer to policyholder credit account).
-Credit date
-(3) The credit date is the same as the debit date recorded for the transfer in the imputation credit account.
+[Repealed]
 
 ### OJ 4 PCA transfer from FDP account
-Credit
-(1) A PCA company has a policyholder credit for an amount equal to the amount of an FDP debit under section OC 20 (FDPA transfer to policyholder credit account) for the transfer of a credit balance or the amount of a credit from the company’s FDP account.
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O13: policyholder credits, row 3 (transfer from FDP account). The FDP debit in subsection (1) is referred to in table O4: FDP debits, row 9 (transfer to policyholder credit account).
-Credit date
-(3) The credit date is the same as the debit date recorded for the transfer in the FDP account.
+[Repealed]
 
 ### OJ 5 PCA transfer of life insurance business
-When this section applies
-(1) This section applies when a PCA company or a PCA person transfers a life insurance business to another PCA company.
-Credit
-(2) The PCA company that is the transferee has a policyholder credit for an amount equal to an amount of a policyholder debit under section OJ 11.
-Table reference
-(3) The policyholder credit in subsection (2) is referred to in table O13: policyholder credits, row 4 (transfer of life insurance business).
-Credit date
-(4) The credit date is the day the life insurance business is transferred.
+[Repealed]
 
 ### OJ 6 PCA credit for maximum deficit in FDP account
-Credit
-(1) A PCA company has a policyholder credit for a tax year for an amount equal to the amount of an FDP debit—
-  (a) that arises in the company’s FDP account under section OC 23 (FDPA breach of FDP ratio by PCA company); and
-  (b) whose amount is calculated under sections OC 23 and OC 36 (Meaning of maximum deficit debit).
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O13: policyholder credits, row 5 (credit for maximum deficit in FDP account). The FDP debit in subsection (1)(a) is referred to in table O4: FDP debits, row 12 (breach of FDP ratio by PCA company).
-Credit date
-(3) The credit date is the last day of the tax year.
+[Repealed]
 
 ### OJ 7 PCA credit for reduced deficit in FDP account
-Credit
-(1) A PCA company has a policyholder credit for a tax year for an amount equal to the amount of an FDP debit—
-  (a) that arises in the company’s FDP account under section OC 23 (FDPA breach of FDP ratio by PCA company); and
-  (b) whose amount is calculated under sections OC 23 and OC 38 (Meaning of reduced deficit debit).
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O13: policyholder credits, row 6 (credit for reduced deficit in FDP account). The FDP debit in subsection (1)(a) is referred to in table O4: FDP debits, row 12 (breach of FDP ratio by PCA company).
-Credit date
-(3) The credit date is the last day of the tax year.
+[Repealed]
 
 **Policyholder debits of PCA company**
 
 ### OJ 8 PCA payment of tax relating to policyholder base
-Election
-(1) A PCA company may choose that some or all of a credit balance in the company’s policyholder credit account is treated as applied to satisfy—
-  (a) a policyholder base income tax liability of the company; or
-  (b) a provisional tax liability of the company for its policyholder base.
-Manner of election
-(2) A company makes an election under subsection (1) by recording as a debit the balance applied to satisfy the policyholder base income tax liability or policyholder base provisional tax.
-Effect of election
-(3) As a result of an election under this section,—
-  (a) a policyholder debit arises in the company’s policyholder credit account; and
-  (b) the company’s liability for the income tax or provisional tax is satisfied.
-Table reference
-(4) The policyholder debit in subsection (3) is referred to in table O14: policyholder debits, row 2 (payment of tax relating to policyholder base).
-Debit date
-(5) The debit date is the last day of the company’s income year corresponding to the tax year for which the policyholder base income tax liability or policyholder base provisional tax arises.
+[Repealed]
 
 ### OJ 9 PCA transfer to imputation credit account
-Election
-(1) A PCA company may choose to treat some or all of a credit balance in the company’s policyholder credit account as transferred to an imputation credit account. Subsection (2) overrides this subsection.
-Exclusion
-(2) An election under subsection (1) excludes an amount that arises when—
-  (a) the company has adopted a non-standard accounting year; and
-  (b) during the accounting year, the company has made an election that means the credit balance includes a credit under section OJ 3 or OJ 4; and
-  (c) the election would result in a debit to the policyholder credit account during the tax year that corresponds to the accounting year.
-Debit and credit
-(3) The amount of the credit balance transferred is—
-  (a) a debit in the company’s policyholder credit account; and
-  (b) a credit under, as applicable,—
-    (i) section OB 17 (ICA transfer from policyholder credit account) in the company’s imputation credit account; or
-    (ii) section OP 20 (Consolidated ICA transfer from group company’s policyholder credit account) in the consolidated imputation group’s imputation credit account.
-Table references
-(4) The table references are as follows:
-  (a) the policyholder debit in subsection (3)(a) is referred to in table O14: policyholder debits, row 3 (transfer to imputation credit account):
-  (b) the imputation credit in subsection (3)(b)(i) is referred to in table O1: imputation credits, row 15 (transfer from policyholder credit account):
-  (c) the imputation credit in subsection (3)(b)(ii) is referred to in table O19: imputation credits of consolidated imputation groups, row 15 (transfer from company’s policyholder credit account).
-Credit balance reduced
-(5) Despite subsection (2)(b), the credit balance includes a credit that is cancelled by a later debit to the account. Whether a debit cancels a credit is determined by treating a debit as offsetting a credit in the order in which credits arise in the account.
-Other accounts
-(6) The company may treat the amount of a credit balance that can be transferred as transferred to—
-  (a) the company’s imputation credit account; or
-  (b) the imputation credit account of an imputation group, if the company is part of the group.
-Manner of election
-(7) The company makes the election by recording the amount of the credit balance transferred as—
-  (a) a debit in the company’s policyholder credit account; and
-  (b) a credit in the imputation credit account of, as applicable,—
-    (i) the company; or
-    (ii) the imputation group.
-Debit date
-(8) The debit date is the day of election.
+[Repealed]
 
 ### OJ 10 PCA transfer to group account
-Debit
-(1) A PCA company has a policyholder debit in a tax year for an amount equal to the amount of a policyholder credit under section OP 112 (Consolidated PCA group company’s credit) for a credit transferred to the policyholder credit account of the consolidated group of which the company is part.
-Table references
-(2) The policyholder debit in subsection (1) is referred to in table O14: policyholder debits, row 4 (transfer to group account). The policyholder credit in subsection (1) is referred to in table O27: policyholder credits of consolidated groups, row 4 (group company’s credit).
-Debit date
-(3) The debit date is the credit date recorded in the group account for the transfer.
+[Repealed]
 
 ### OJ 11 PCA company’s transfer of life insurance business
-Election
-(1) A PCA company may choose to transfer a credit balance in the company’s policyholder credit account to another person on the transfer of the company’s life insurance business to—
-  (a) another PCA company; or
-  (b) a PCA person.
-Requirements
-(2) A PCA company may make an election under subsection (1) if—
-  (a) the transfer meets the requirements of section EY 45(1) (Policyholder income formula: when life insurance business transferred); and
-  (b) after the transfer, the company is no longer required to maintain a policyholder credit account.
-Debit
-(3) As a result of the election, the PCA company that is the transferor has a debit for the amount of the credit balance transferred under subsection (1).
-Table reference
-(4) The policyholder debit in subsection (3) is referred to in table O14: policyholder debits, row 5 (transfer of life insurance business).
-Manner of election
-(5) The company makes the election by recording the amount of the credit balance transferred as a debit in the company’s policyholder credit account.
-Debit date
-(6) The debit date is the day the life insurance business is transferred.
+[Repealed]
 
 **Persons with policyholder credit accounts**
 
 **Introductory provisions**
 
 ### OJ 12 Choosing to become PCA person
-Notifying Commissioner
-(1) A person who is eligible under section OJ 1(2) and who chooses to be a PCA person must notify the Commissioner of their election—
-  (a) no later than 21 days after the election; or
-  (b) by a later date if the Commissioner allows.
-Effect of election
-(2) A PCA person must maintain the policyholder credit account referred to in section OJ 1(2) from the start of the income year in which the PCA person makes the election.
+[Repealed]
 
 ### OJ 13 Choosing to stop being PCA person
-Election
-(1) A PCA person may choose to stop being a PCA person.
-When election made
-(2) An election under subsection (1) may be made only in an income year that is later than the income year in which the person chooses to become a PCA person.
-When person’s status as PCA person ends
-(3) The person ends their status as a PCA person from the start of the income year following the year of election but only if they file an annual PCA return for the year of election in the time allowed by section 66(3) of the Tax Administration Act 1994.
+[Repealed]
 
 **Policyholder credits of PCA person**
 
 ### OJ 14 PCA person’s equivalent credit
-Credit
-(1) A PCA person has a policyholder credit for an equivalent credit, described in a row of table O1: imputation credits, that would arise in the imputation credit account of an imputation credit account (ICA) company if that company were carrying on the person’s life insurance business.
-Determining credits arising
-(2) The following paragraphs apply to determine what are the equivalent credits:
-  (a) a credit under the following sections and described in the following rows of table O1: imputation credits, is excluded:
-    (i) section OB 9 (ICA dividend derived with imputation credit) row 7 (dividend derived with imputation credit):
-    (ii) section OB 10 (ICA dividend derived with FDP credit) row 8 (dividend derived with FDP credit):
-    (iii) section OB 17 (ICA transfer from policyholder credit account) row 15 (transfer from policyholder credit account):
-  (b) a credit under section OB 4 (ICA payment of tax) must not be more than the income tax liability that would arise if—
-    (i) the person’s only activity related to life insurance policies offered or entered into in New Zealand; and
-    (ii) section RF 2(4) (Non-resident passive income) is disregarded.
-Table references
-(3) The policyholder credit in subsection (1) is referred to in table O15: person’s policyholder credits, row 2 (treatment of imputation credit account). The imputation credit in subsection (2)(b) is referred to in table O1: imputation credits, row 2 (payment of tax).
-Credit date
-(4) The credit date is—
-  (a) the same as the credit date for the equivalent credit; and
-  (b) the day the relevant dividend is paid if the equivalent credit is for income tax treated as paid by the person under section LE 1, LF 1, or OE 19 (which relate to imputation credits, FDP credits, and foreign tax paid on branch equivalent income).
+[Repealed]
 
 ### OJ 15 PCA person’s credit for transfer of life insurance business
-When this section applies
-(1) This section applies when a PCA company or a PCA person transfers a life insurance business to another PCA person.
-Credit
-(2) The PCA person who is the transferee has a policyholder credit for an amount equal to an amount of a policyholder debit under section OJ 18.
-Table reference
-(3) The policyholder credit in subsection (2) is referred to in table O15: person’s policyholder credits, row 3 (transfer of life insurance business).
-Credit date
-(4) The credit date is the day the life insurance business is transferred.
+[Repealed]
 
 **Policyholder debits of PCA person**
 
 ### OJ 16 PCA person’s payment of tax relating to policyholder base
-Election
-(1) A PCA person may choose that some or all of the credit balance in the person’s policyholder credit account is applied to satisfy—
-  (a) a policyholder base income tax liability of the person; or
-  (b) a provisional tax liability of the person for the person’s policyholder base.
-Manner of election
-(2) The person makes an election under subsection (1) by recording as a debit the balance applied to satisfy the policyholder base income tax liability or policyholder base provisional tax liability.
-Effect of election
-(3) As a result of the election,—
-  (a) a policyholder debit arises in the person’s policyholder credit account; and
-  (b) the person’s liability for the income tax or provisional tax is satisfied.
-Table reference
-(4) The policyholder credit in subsection (3)(a) is referred to in table O16: person’s policyholder debits, row 2 (payment of tax relating to policyholder base).
-Debit date
-(5) The debit date is the date of the election referred to in subsections (1) to (3).
+[Repealed]
 
 ### OJ 17 PCA person’s equivalent debit
-Debit
-(1) A PCA person has a policyholder debit for an equivalent debit, described in a row of table O2: imputation debits, that would arise in the imputation credit account of an ICA company if that company were carrying on the person’s life insurance business.
-Determining debits arising
-(2) The following paragraphs apply to determine what are the equivalent debits:
-  (a) a debit under the following sections and described in the following rows of table O2: imputation debits, is excluded—
-    (i) section OB 41 (ICA debit for loss of shareholder continuity), row 14 (debit for loss of shareholder continuity):
-    (ii) section OB 42 (ICA on-market cancellation), row 15 (on-market cancellation):
-    (iii) section OB 47 (ICA transfer to policyholder credit account), row 20 (transfer to policyholder credit account):
-  (b) the amount of a refund of a payment of income tax that gave rise to a credit under section OJ 14 is treated as a debit in the person’s policyholder credit account.
-Table references
-(3) The policyholder debit in subsection (1) is referred to in table O16: person’s policyholder debits, row 3 (treatment of imputation credit account). The policyholder credit in subsection (2)(b) is referred to in table O15: person’s policyholder credits, row 2 (equivalent credit).
-Debit date
-(4) The debit date is—
-  (a) the same as the debit date for the equivalent debit; or
-  (b) the date the credit would have arisen in the imputation credit account of the PCA person if—
-    (i) they were an ICA company in relation to the business of providing life insurance; and
-    (ii) their policyholder credit account were an imputation credit account.
+[Repealed]
 
 ### OJ 18 PCA person’s debit for transfer of life insurance business
-Election
-(1) A PCA person may choose to transfer a credit balance in their policyholder credit account to another person on the transfer of the person’s life insurance business to—
-  (a) a PCA company; or
-  (b) another PCA person.
-Requirements
-(2) A PCA person may make an election under subsection (1) if—
-  (a) the transfer meets the requirements of section EY 45(1) (Policyholder income formula: when life insurance business transferred); and
-  (b) after the transfer, the person is no longer required to maintain a policyholder credit account.
-Debit
-(3) As a result of the election, the transferor has a debit described in table O16: person’s policyholder debits, row 4 (transfer of life insurance business) for the amount of the credit balance transferred under subsection (1).
-Manner of election
-(4) The person makes the election by recording as a debit the amount of the credit balance transferred in the person’s policyholder credit account.
-Debit date
-(5) The debit date is the day the life insurance business is transferred.
+[Repealed]
 
 **Table O13 policy holder credits**
 
@@ -31156,13 +30974,15 @@ Particular debits
   (b) section OP 30, row 4 (refund of income tax):
   (c) section OP 32, row 6 (refund from tax pooling account):
   (d) section OP 33, row 7 (transfer to tax pooling account):
+  (db) section OP 33B, row 7B (debit for transfer from tax pooling account for policyholder base liability):
   (e) section OP 34, row 8 (refund of FDP):
   (f) section OP 35, row 9 (refund of tax credit):
   (g) section OP 37, row 11 (group company’s debit):
   (h) section OP 39, row 13 (replacement payment under share-lending arrangement):
   (i) section OP 40, row 14 (returning share transfer):
   (j) section OP 41, row 15 (credit transfer):
-  (k) section OP 43, row 17 (breach of imputation ratio).
+  (k) section OP 43, row 17 (breach of imputation ratio):
+  (l) section OP 44, row 18 (debit for policyholder base imputation credits).
 
 ### OP 6 Provisions applying to consolidated imputation groups
 Single company, tax liabilities
@@ -31205,7 +31025,7 @@ No credit
   (a) income tax paid as a trustee, unless paid on category A income; or
   (b) a transfer from a tax pooling account to a tax account with the Commissioner; or
   (c) income tax paid on income derived by a company that is not an imputation credit account (ICA) company; or
-  (d) income tax paid by a life insurer subject to section EY 48 (Non-resident life insurers with life insurance policies in New Zealand) to satisfy the tax year’s policyholder base income tax liability; or
+  (d) income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
   (e) income tax paid under section LE 1 (Tax credits for imputation credits) by crediting an imputation credit; or
   (f) income tax paid under section LF 1 (Tax credits for FDP credits) by crediting a foreign dividend payment (FDP) credit; or
   (fb) income tax paid by a tax credit under subpart LA (Tax credits and other credits) and section LH 2 (Tax credits relating to expenditure on research and development); or
@@ -31296,7 +31116,7 @@ Credit date
 
 ### OP 17 Consolidated ICA resident withholding tax withheld
 Credit
-(1) A consolidated imputation group has an imputation credit for resident withholding tax (RWT) that is treated under section RA 9(1)(b) (Treatment of amounts withheld as received) as derived by a group company.
+(1) A consolidated imputation group has an imputation credit for resident withholding tax (RWT) that is treated under section RA 9(1)(b) (Treatment of amounts withheld as received) as derived by a group company other than as policyholder base income.
 Table reference
 (2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 12 (RWT withheld).
 Credit date
@@ -31319,20 +31139,10 @@ Credit date
 (3) The credit date is the same as the debit date for the transfer.
 
 ### OP 20 Consolidated ICA transfer from group company’s policyholder credit account
-Credit
-(1) A consolidated imputation group has an imputation credit for an amount equal to the amount of a debit under section OJ 9 (PCA transfer to imputation credit account) for the transfer of a credit balance from a group company’s policyholder credit account.
-Table references
-(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 15 (transfer from company’s policyholder credit account). The policyholder debit in subsection (1) is referred to in table O14: policyholder debits, row 3 (transfer to imputation credit account).
-Credit date
-(3) The credit date is the same as the debit date for the transfer.
+[Repealed]
 
 ### OP 21 Consolidated ICA transfer from group’s policyholder credit account
-Credit
-(1) A consolidated imputation group has an imputation credit for an amount equal to the amount of a debit under section OP 116 for a transfer from the policyholder credit account of a consolidated group.
-Table references
-(2) The imputation credit in subsection (1) is referred to in table O19: imputation credits of consolidated imputation groups, row 16 (transfer from group’s policyholder credit account). The policyholder debit in subsection (1) is referred to in table O28: policyholder debits of consolidated groups, row 3 (transfer to imputation credit account).
-Credit date
-(3) The credit date is the same as the debit date for the transfer.
+[Repealed]
 
 ### OP 22 Consolidated ICA group company’s credit
 Credit
@@ -31429,9 +31239,11 @@ Debit date
 Debit
 (1) A consolidated imputation group has an imputation debit for the amount of a refund of income tax or provisional tax paid to the group. Subsection (2) overrides this subsection.
 No debit
-(2) The debit does not include a refund of income tax paid before a debit arises under section OP 42 to the extent to which the amount of the refund is less than the amount of the debit.
+(2) The debit in subsection (1) does not include––
+  (a) a refund of income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
+  (b) a refund of income tax paid before a debit arises under section OP 42 to the extent to which the amount of the refund is less than the amount of the debit.
 Table references
-(3) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 4 (refund of income tax). The imputation debit in subsection (2) is referred to in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity).
+(3) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 4 (refund of income tax). The imputation debit in subsection (2)(b) is referred to in table O20: imputation debits of consolidated imputation groups, row 16 (debit for loss of shareholder continuity).
 Debit date
 (4) The debit date is the day the refund is made.
 Relationship with section OP 35
@@ -31478,6 +31290,14 @@ Debit date
   (a) the last day of the previous tax year to the extent of the amount of the debit that is no more than the credit balance in the imputation credit account on that date:
   (b) the day the refund is made to the extent of the remaining amount of the debit that is no more than the credit balance in the imputation credit account on the day of refund:
   (c) the last day of the previous tax year for the remainder of the imputation debit.
+
+### OP 33B Consolidated ICA debit for transfer from tax pooling account for policyholder base liability
+Debit
+(1) A consolidated imputation group has an imputation debit for the amount transferred from a tax pooling account to their tax account with the Commissioner, to the extent to which the amount satisfies its schedular income tax liability for schedular policyholder base income or its income tax liability for a life fund PIE that is a multi-rate PIE.
+Table reference
+(2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 7B (debit for transfer from tax pooling account for policyholder base liability).
+Debit date
+(3) The debit date is the last day of the tax year.
 
 ### OP 34 Consolidated ICA refund of FDP
 Debit
@@ -31581,32 +31401,13 @@ Table references
 Debit date
 (3) The debit date is the last day of the tax year.
 
-### OP 44 Consolidated ICA transfer to policyholder credit account
-Election
-(1) The nominated company of a consolidated imputation group may choose to transfer some or all of a credit balance in the group’s imputation credit account to the policyholder credit account of a group company. Subsection (2) overrides this subsection.
-Restriction
-(2) Subsection (1) does not apply to a consolidation imputation group that is also a resident imputation subgroup.
-Method and result of election
-(3) The company makes the election by recording the credit balance transferred as—
-  (a) a debit in the group’s imputation credit account; and
-  (b) a credit in the group’s policyholder credit account under section OP 110.
-Table references
-(4) The imputation debit in subsection (3)(a) is referred to in table O20: imputation debits of consolidated imputation groups, row 18 (transfer to policyholder credit account). The policyholder credit in subsection (3)(b) is referred to in table O27: policyholder credits of consolidated groups, row 2 (transfer from imputation credit account).
+### OP 44 Consolidated ICA debit for policyholder base imputation credits
+Debit
+(1) A consolidated imputation group has an imputation debit for the amount of an imputation credit attached to a dividend derived by a group company, to the extent to which it is derived by a group company that is a life insurer and apportioned to that life insurer's policyholder base.
+Table reference
+(2) The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 18 (debit for policyholder base imputation credits).
 Debit date
-(5) The debit date is the day the election is made.
-Mandatory transfer for group with non-standard accounting year
-(6) Despite the absence of an election during the tax year, a consolidated imputation group that has adopted a non-standard accounting year is treated as having chosen at the end of the tax year to transfer the credit described in subsection (7) from the imputation credit account to the policyholder credit account.
-Credit
-(7) The consolidated imputation group is treated as having made an election for a tax year to the extent to which—
-  (a) during the tax year, or no later than the end of the accounting year corresponding to the tax year, a credit arises under—
-    (i) section OP 7: table O19 (imputation credits of consolidated imputation groups), row 2 (income tax paid for group tax liability) for a payment of provisional tax; or
-    (ii) section OP 14: table O19 (imputation credits of consolidated imputation groups), row 9 (FDP paid by group company) for a payment of FDP; and
-  (b) during the tax year, the credit has not been cancelled by a later debit arising under—
-    (i) section OP 30: table O20 (imputation debits of consolidated imputation groups), row 4 (refund of income tax or provisional tax to group) for a refund of provisional tax paid during the accounting year:
-    (ii) section OP 34: table O20 (imputation debits of consolidated imputation groups), row 8 (refund of FDP when no FDP account) for a refund of FDP paid during the accounting year; and
-  (c) the credit has not been included in a credit balance transferred by an election under subsection (3).
-Ordering rule
-(8) For the purpose of determining under subsection (7)(b) whether a debit has cancelled a credit, debits are treated as cancelling credits in the order in which the credits arise.
+(3) The debit date is the last day of the tax year.
 
 ### OP 45 Consolidated ICA redemption debit
 Debit
@@ -31739,7 +31540,8 @@ Particular debits
   (a) section OP 64, row 2 (payment of dividend):
   (b) section OP 66, row 4 (refund of FDP):
   (c) section OP 68, row 6 (refund of tax credit):
-  (d) section OP 72, row 10 (breach of FDP ratio).
+  (d) section OP 72, row 10 (breach of FDP ratio):
+  (e) section OP 74, row 12 (debit for policyholder base FDP credits).
 
 ### OP 55 Provisions applying to consolidated FDP groups
 Single company, tax liabilities
@@ -31911,13 +31713,13 @@ Table reference
 When debit arises
 (3) The debit arises at the time shareholder continuity is lost.
 
-### OP 74 Consolidated FDPA transfer to policyholder credit account
+### OP 74 Consolidated FDPA debit for policyholder base FDP credits
 Debit
-(1) A consolidated FDP group has an FDP debit for the amount equal to a credit balance transferred under section FM 30(3) and (4) (Application of certain provisions to consolidated groups) to the group’s policyholder credit account.
+(1) A consolidated FDP group has an FDP debit for the amount of an FDP credit attached to a dividend derived by a group company, to the extent to which it is derived by a group company that is a life insurer and apportioned to that life insurer's policyholder base.
 Table reference
-(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 12 (transfer to policyholder credit account).
+(2) The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 12 (debit for policyholder base FDP credits).
 Debit date
-(3) The debit date is the day of election under section FM 30(2).
+(3) The debit date is the last day of the tax year.
 
 ### OP 75 Consolidated FDPA breach of FDP ratio by PCA company
 Debit
@@ -32304,113 +32106,36 @@ If a consolidated BETA group has a credit balance in its branch equivalent tax a
 **Introductory provision**
 
 ### OP 109 Policyholder credit accounts of consolidated groups
-A consolidated group has a policyholder credit account if a group company is a policyholder credit account (PCA) company.
+[Repealed]
 
 **Policyholder credits of consolidated groups**
 
 ### OP 110 Consolidated PCA transfer from imputation credit account
-Credit
-(1) A consolidated group has a policyholder credit for an amount equal to an imputation debit under section OP 44.
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O27: policyholder credits of consolidated groups, row 2 (transfer from imputation credit account). The imputation debit in subsection (1) is referred to in table O20: imputation debits of consolidated imputation groups, row 18 (transfer to policyholder credit account).
-Credit date
-(3) The credit date is the same as the debit date recorded for the transfer in the imputation credit account.
+[Repealed]
 
 ### OP 111 Consolidated PCA transfer from FDP account
-Credit
-(1) A consolidated group has a policyholder credit for an amount equal to the amount of an FDP debit under section OP 74.
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O27: policyholder credits of consolidated groups, row 3 (transfer from FDP account). The FDP debit in subsection (1) is referred to in table O22: FDP debits of consolidated FDP groups, row 12 (transfer to policyholder credit account).
-Credit date
-(3) The credit date is the day of election referred to in section OP 74.
+[Repealed]
 
 ### OP 112 Consolidated PCA group company’s credit
-Credit
-(1) A consolidated group has a policyholder credit for the amount of a credit arising as follows:
-  (a) a policyholder credit described in a row of table O13: policyholder credits, arises in the policyholder credit account of a group company; and
-  (b) a policyholder debit described in a row of table O28: policyholder debits of consolidated groups, arises in the policyholder credit account of the group; and
-  (c) the debit is not offset by a credit arising in the group account before or on the same date on which the credit arose in the group company’s account.
-Table reference
-(2) The policyholder credit in subsection (1) is referred to in table O27: policyholder credits of consolidated groups, row 4 (group company’s credit).
-Offsetting debits
-(3) For the purposes of subsection (1)(c), to determine whether a debit has been offset by a credit in the group account—
-  (a) credits are treated as reducing debits in the order in which the credits arise; and
-  (b) a credit, whether some or all, is counted only once in determining whether the debit has been offset; and
-  (c) credits in the accounts of more than 1 group company become a credit to the group account—
-    (i) in the order of their credit date; and
-    (ii) as chosen by the group, if the credits arise on the same credit date; and
-    (iii) on a pro rata basis, if no election is made under subparagraph (ii).
-Credit date
-(4) The credit date is the day the debit is recorded in the group account.
+[Repealed]
 
 ### OP 113 Consolidated PCA maximum deficit debit in FDP account
-Credit
-(1) A consolidated group has a policyholder credit for a tax year for an amount equal to the amount of the FDP debit—
-  (a) that arises during the tax year in the group’s FDP account under section OP 75; and
-  (b) whose amount is calculated under sections OC 23 and OC 36 (which relate to the maximum deficit debit).
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O27: policyholder credits of consolidated groups, row 5 (credit for FDP account maximum deficit). The FDP debit in subsection (1)(a) is referred to in table O22: FDP debits of consolidated FDP groups, row 13 (breach of FDP ratio by PCA company).
-Credit date
-(3) The credit date is the last day of the tax year.
+[Repealed]
 
 ### OP 114 Consolidated PCA reduced deficit debit in FDP account
-Credit
-(1) A consolidated group has a policyholder credit for a tax year for an amount equal to the amount of the FDP debit—
-  (a) that arises during the tax year in the group’s FDP account under section OP 75; and
-  (b) whose amount is calculated under sections OC 23 and OC 38 (which relate to the reduced deficit debit).
-Table references
-(2) The policyholder credit in subsection (1) is referred to in table O27: policyholder credits of consolidated groups, row 6 (credit for FDP account reduced deficit). The FDP debit in subsection (1)(a) is referred to in table O22: FDP debits of consolidated FDP groups, row 13 (breach of FDP ratio by PCA company).
-Credit date
-(3) The credit date is the last day of the tax year.
+[Repealed]
 
 **Policyholder debits of consolidated groups**
 
 ### OP 115 Consolidated PCA payment of tax relating to policyholder base
-Election
-(1) The nominated company of a consolidated group may choose for a tax year to apply some or all of a credit balance in the group’s policyholder credit account to satisfy—
-  (a) a policyholder base income tax liability of the group; or
-  (b) a provisional tax liability of the group for its policyholder base.
-Manner of election
-(2) The company makes an election under subsection (1) by recording as a debit in the group account the amount of the credit balance applied to satisfy the policyholder base income tax liability.
-Effect of election
-(3) As a result of the election—
-  (a) a policyholder debit arises in the policyholder credit account; and
-  (b) the group’s liability for the income tax or provisional tax is satisfied.
-Table reference
-(4) The policyholder debit in subsection (3)(a) is referred to in table O28: policy-holder debits of consolidated groups, row 2 (payment of tax relating to policyholder base).
-Debit date
-(5) The debit date is the last day of the income year corresponding to the tax year.
+[Repealed]
 
 ### OP 116 Consolidated PCA transfer to imputation credit account
-Election
-(1) The nominated company of a consolidated group may choose for a tax year to transfer some or all of a credit balance in the group’s policyholder credit account to the imputation credit account of—
-  (a) the consolidated imputation group that the company is part of; or
-  (b) the imputation group that includes the companies in the consolidated group.
-Exclusion
-(2) Despite subsection (1), the election must exclude an amount of the credit balance that arises in the following circumstances:
-  (a) the group has adopted a non-standard accounting year; and
-  (b) during the accounting year that includes the last day of the tax year, an election has been made that means the credit balance includes a credit under the following sections and described in the following rows of table O27: policyholder credits of consolidated groups:
-    (i) section OP 110, row 2 (transfer from imputation credit account):
-    (ii) section OP 111, row 3 (transfer from FDP account); and
-  (c) an election under this section would result in a debit to the policyholder credit account during the tax year.
-Debit and credit
-(3) The amount of the credit balance transferred under subsection (1) is—
-  (a) a debit in the group’s policyholder credit account; and
-  (b) a credit under section OP 21 in the imputation credit account of the relevant group.
-Table references
-(4) The policyholder debit in subsection (3)(a) is referred to in table O28: policyholder debits of consolidated groups, row 3 (transfer to imputation credit account). The imputation credit in subsection (3)(b) is referred to in table O19: imputation credits of consolidated imputation groups, row 16 (transfer from group’s policyholder credit account).
-Credit balance reduced
-(5) Despite subsection (2)(b), the credit balance includes a credit that is cancelled by a later debit to the account.
-Cancellation
-(6) Whether a debit cancels a credit for the purposes of subsection (3) is found by treating debits as offsetting credits in the order in which the credits arise in the account.
-Manner of election
-(7) The company makes the election by recording the amount of the credit balance transferred as—
-  (a) a debit in the group’s policyholder credit account; and
-  (b) a credit in the imputation credit account of—
-    (i) the consolidated imputation group; or
-    (ii) the imputation group.
-Debit date
-(8) The debit date is the day of election.
+[Repealed]
+
+**Table O27: policyholder credits of consolidated groups**
+
+**Table O28: policyholder debits of consolidated groups**
 
 ### Subpart OZ — Terminating provisions
 
@@ -36229,7 +35954,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **acquisition** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6 to GC 13 (which relate to transfer pricing arrangements)
   - **acquisition price** is defined in section EZ 48 (Definitions) for the purposes of the old financial arrangements rules
   - **active service area** is defined in section CW 24(2) (Deferred military pay for active service) for the purposes of that section
-  - **actuarial reserves** is defined in section EY 3 (Meaning of actuarial reserves)
+  - **actuarial reserves** is defined in section EZ 59 (Meaning of actuarial reserves)
   - **actuarially determined** , for an amount, means a requirement that is met when an actuary has calculated the amount using relevant actuarial standards and a proper and reasonable calculation methodology
   - **actuary** means a person who is—
     (a) a Fellow of the New Zealand Society of Actuaries; or
@@ -36328,6 +36053,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **asset** —
     (a) is defined in section CU 11 (Meaning of asset for sections CU 3 to CU 10) for the purposes of sections CU 3 to CU 10 (which relate to income from mining):
     (b) is defined in section DU 8 (Meaning of asset for sections DU 1 to DU 7) for the purposes of sections DU 1 to DU 7 (which relate to deductions for mining)
+  - **asset base** means a segregated or identifiable group of assets or proportion of a group of assets attributable to profit participation policies
   - **associated, associated person, person associated** , and other expressions indicating the association of persons with each other are defined in sections YB 1 to YB 16 (which relate to associated persons)
   - **associated internal software developer** is defined in section LH 17 (Some definitions) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **associated mining operations** is defined in section CU 29 (Other definitions)
@@ -36380,6 +36106,10 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (b) chooses to become a PIE under section HM 71 (Choosing to become PIE); and
     (c) has not chosen to cancel PIE status under section HM 29 (Choosing to cancel status); and
     (d) does not attribute amounts to investors
+  - **best estimate assumptions** means assumptions about the future that––
+    (a) are actuarially determined; and
+    (b) are made using professional judgement, training and experience; and
+    (c) are not deliberately overstated or understated
   - **BETA** has the same meaning as
   - **BETA company** means a company that chooses under section OE 1(1) and OE 3 (which relate to companies with branch equivalent tax accounts) to become a BETA company
   - **BETA person** means a person who chooses under section OE 1(2) and OE 17 (which relate to persons with branch equivalent tax accounts) to become a BETA person
@@ -36484,6 +36214,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **class** , in subpart EC (Valuation of livestock), and in the definition of ,—
     (a) means a category of livestock listed in schedule 17, column 2 (Types and classes of livestock); and
     (b) when used of a particular type of livestock, means any of the categories listed for that particular type
+  - **class of policies** means life insurance policies that have substantially the same terms and conditions, and that are priced by the life insurer using substantially the same assumptions
   - **close company** —
     (a) means, at any time, a company to which 1 of the following applies:
       (i) at the time there are 5 or fewer natural persons the total of whose voting interests in the company is more than 50% (treating all natural persons associated at the time as 1 natural person); or
@@ -36693,10 +36424,12 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (viii) Watercare Services Limited and any subsidiaries it has: but
     (b) does not include the Auckland Regional Transport Authority (as established by section 7 of the Local Government (Auckland) Amendment Act 2004) or Auckland Regional Holdings (as established by section 18 of the Local Government (Auckland) Amendment Act 2004
   - **counted associate** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
+  - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit account continuity provisions** means—
     (a) section OB 41 (ICA debit for loss of shareholder continuity); and
     (b) section OC 24 (FDPA debit for loss of shareholder continuity); and
     (c) section OE 10 (BETA credit for loss of shareholder continuity)
+  - **credit card repayment insurance** is defined in section EY 30 (Transitional adjustments: life risk)
   - **credit of tax** has the same meaning as
   - **credit transfer notice** means a credit transfer notice issued under section 30C of the Tax Administration Act 1994
   - **creditable membership** , for a person,—
@@ -36850,6 +36583,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **donee organisation** means an entity described in section LD 3(2) (Meaning of charitable or other public benefit gift) or listed in schedule 32 (Recipients of charitable or other public benefit gifts)
   - **double tax agreement** is defined in section BH 1 (Double tax agreements)
   - **early balance date** has the meaning given in section YE 1(6) (References to balance dates and years)
+  - **early life regime application day** means, for a life insurer that chooses to apply the new life insurance rules, as provided in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009, for an income year that includes 1 July 2010, the first day of that income year
   - **early-payment discount** is defined in section RC 40 (Some definitions) for the purposes of sections RC 37 to RC 39 (which relate to discounts of income tax)
   - **economic rate** is defined in section EE 67 (Other definitions)
   - **education grant** is defined in section CF 1(2) (Benefits, pensions, compensation, and government grants) for the purposes of that section
@@ -37016,10 +36750,12 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (f) payable on an overpaid levy under section 173 of the Injury Prevention, Rehabilitation, and Compensation Act 2001; or
     (g) payable by the Commissioner under section 84 of the KiwiSaver Act 2006
   - **exemption certificate** means a certificate provided by the Commissioner under section 24M of the Tax Administration Act 1994
+  - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
   - **existing farmer** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
   - **existing privilege** is defined in section 106 of the Crown Minerals Act 1991, and includes mining privilege and mining licence under the Mining Act 1971 and prospecting licence or mining licence under the Petroleum Act 1937
   - **exit level** , for a multi-rate PIE, means the relationship of the entity’s tax liability to the value of the investor’s interest described in section HM 62 (Exit levels for investors)
   - **exit period** , for an investor in a multi-rate PIE, means a period set out in section HM 63 (Exit periods)
+  - **expected life risk proportion** is defined in section EY 25 (Premium smoothing reserving amount: non-participation policies not annuities) for the purposes of that section
   - **expenditure** —
     (a) is defined in section DD 2(7) (Limitation rule) for the purposes of that section:
     (b) is defined in section DW 1(2) (Airport operators) for the purposes of that section
@@ -37129,6 +36865,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **financial arrangements rules** is defined in section EW 1(2) (What this subpart does)
   - **financial asset** has the same meaning as in NZIAS 32
   - **financial assistance** is defined in section HC 36(5) (Trusts and minor beneficiary rule) for the purposes of that section
+  - **financial risk** is defined in section EY 12 (Meaning of life reinsurance)
   - **financial statements** is defined in section 8 of the Financial Reporting Act 1993, but the references in the definition to an entity and to a reporting entity are to be read as references to a person
   - **financial value** is defined in section FE 20(1) (Financial value and regulatory value) for the purposes of sections FE 7, FE 19, and FE 21 to FE 23 (which relate to a New Zealand banking group’s equity threshold)
   - **financially independent** means—
@@ -37311,6 +37048,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (d) fertiliser works:
     (e) powder drying buildings:
     (f) site huts
+  - **grandparenting start day** is defined in section EY 30 (Transitional adjustments: life risk)
   - **grant-related suspensory loan** means a loan—
     (a) that—
       (i) is made by a public authority; and
@@ -37335,6 +37073,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (a) Public Trust Act 2001 ; or
     (b) Trustee Companies Act 1967 ; or
     (c) Public Trust Office Act 1957
+  - **group life master policy** is defined in section EY 30 (Transitional adjustments: life risk)
   - **group of companies** is defined in section IC 3 (Common ownership: group of companies)
   - **group of persons** includes 1 person
   - **GST** means goods and services tax under the Goods and Services Tax Act 1985
@@ -37640,6 +37379,12 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (a) is defined in sections EY 13 (Meaning of life reinsurance policy) and EY 14 (Life insurance and life reinsurance: how sections relate); and
     (b) when referred to in relation to a life reinsurer, means a life reinsurance policy under which the life reinsurer is the reinsurer
   - **life reinsurer** is defined in sections EY 12(4) (Meaning of life reinsurance) and EY 14 (Life insurance and life reinsurance: how sections relate)
+  - **life risk** means an actuarially determined risk contingent on human life
+  - **life risk component** ––
+    (a) means––
+      (i) for a premium paid under a life insurance policy, the amount of the premium that gives rise to income derived by the life insurer for providing services, including the bearing of life risk:
+      (ii) for a claim payable under a life insurance policy, the amount of the claim that gives rise to deductions for the life insurer for providing services, including the bearing of life risk:
+    (b) does not include an amount that is a savings component
   - **limitation rule** is defined in section DD 1(3) (Entertainment expenditure generally)
   - **limited attribution company** is a company that is—
     (a) a building society:
@@ -37876,8 +37621,6 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (ii) person B’s promise is not required to be secured or evidenced in writing:
       (iii) person B includes any other person with whom person B is an associated person
   - **monthly instalment plan** is defined in section EZ 30(3) (Base premium for 1998–99 premium year under Accident Insurance Act 1998) for the purposes of that section
-  - **mortality profit** means the amount calculated by a life insurer following the steps in section EY 26(2) (Mortality profit: when life insurers providing life insurance at start of income year) or EY 27(2) (Mortality profit: when life insurers not providing life insurance at start of income year), as applicable
-  - **mortality profit formula** means the formula in section EY 28 (Mortality profit formula)
   - **mortgage** means a mortgage, charge, or other security, whether legal or equitable
   - **motor vehicle** ,—
     (a) in subpart DE (Motor vehicle expenditure), means a motor vehicle that—
@@ -37892,7 +37635,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (b) chooses to become a PIE under section HM 71 (Choosing to become PIE); and
     (c) has not chosen to cancel PIE status under section HM 29 (Choosing to cancel status); and
     (d) is not a benefit fund PIE; and
-    (e) is not a life fund PIE
+    (e)
   - **mutual transaction** means a transaction of the kind described in section HE 2 (Classes of mutual transaction) entered into between an association and its members, or with members and other persons who are not members
   - **national average market value** , for a class of livestock and for an income year, means the national average market value determined under section EC 15 (Determining national average market values) for livestock of the class for the income year
   - **national standard cost scheme** means the livestock valuation method specified in section EC 22 (National standard cost scheme)
@@ -37917,6 +37660,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **net loss** means a net loss for a tax year calculated under section BC 4 (Net income and net loss) and reduced by the amount extinguished by the Commissioner under section 177C(5) of the Tax Administration Act 1994
   - **net mining loss** is defined in section IS 1(3) (General treatment of mining companies' net losses) for the purposes of subpart IS (Mining companies' and petroleum miners' tax losses)
   - **new asset** is defined in section EZ 24 (Meaning of new asset)
+  - **new business** is defined in section EY 29 (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **new personal tax rate person** means a person whose basic rate of income tax is calculated under schedule 1, part A, clause 1 for the 2008–09 income year or a later income year
   - **new reporting standard** is defined in section DB 35 (Some definitions) for the purposes of section DB 34 (Research or development)
   - **new start grant** means a grant of money that is—
@@ -38234,15 +37978,11 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **planting** is defined in section DO 8 (Meaning of planting and plot) for the purposes of sections DO 5 to DO 8 (which relate to horticultural plants)
   - **pleasure craft** is defined in section CW 21(2) (Amounts derived by visiting crew of pleasure craft) for the purposes of that section
   - **plot** is defined in section DO 8 (Meaning of planting and plot) for the purposes of sections DO 5 to DO 8 (which relate to horticultural plants)
-  - **policyholder base** , for a life insurer and for an income year, means the benefits accruing to policyholders by way of claims paid and payable and amounts included in the life insurer’s actuarial reserves
-  - **policyholder base income tax liability** means the schedular income tax liability for a tax year of a life insurer for the policyholder base, determined under section BC 7 (Income tax liability of person with schedular income)
-  - **policyholder credit** means a credit referred to in section OA 5(7) (Credits)
-  - **policyholder credit account** is the account referred to in section OA 2(1)(f) (Memorandum accounts)
-  - **policyholder debit** means a debit referred to in section OA 6(7) (Debits)
-  - **policyholder FDP ratio** is defined in section OC 37 (Meaning of policyholder FDP ratio) for the purposes of sections OC 23 and OC 36 (which relate to FDP credits and debits)
-  - **policyholder income** means a positive result of the application of the policyholder income formula
-  - **policyholder income formula** means the formula in section EY 43 (Policyholder income formula)
-  - **policyholder net loss** means a negative result of the application of the policyholder income formula, including a policyholder net loss referred to in section II 2 (Policyholder net loss for tax year preceding 1990–91) of the Income Tax Act 2004
+  - **policy liabilities** is defined in section EY 29(8) (Shareholder base other profit: profit participation policies that are new business) for the purposes of section EY 29
+  - **policyholder base** means, for a life insurer, the base for policyholder base income and allowable deductions and to which income of a particular source or nature, and tax credits received are apportioned under section EY 4 (Apportionment of income of particular source or nature, and of tax credits)
+  - **policyholder base allowable deductions** means policyholder base allowable deductions described in section EY 2(2) (Policyholder base)
+  - **policyholder base income** means policyholder base income described in section EY 2(1) (Policyholder base)
+  - **policyholder unvested liabilities** means benefits that are allocated to policyholders of profit participation policies but are not vested in a specific policyholder
   - **pool** is defined in section EE 67 (Other definitions)
   - **pool method** is defined in section EE 67 (Other definitions)
   - **poolable property** is defined in section EE 66 (Meaning of poolable property)
@@ -38283,12 +38023,12 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (a) for life insurance,—
       (i) means any consideration, however described, payable under a life insurance policy to a life insurer; and
       (ii) does not include interest on an unpaid premium:
+      (iii) does not include consideration received by a life insurer for the transfer of life insurance business:
     (b) in sections CR 3, HD 16, HD 17, and YD 8 (which relate to non-resident general insurers), for general insurance or guarantee against risk, means an amount payable in relation to the contract of insurance or guarantee, as applicable, entered into by the insured person:
     (c) in section EZ 8 (Premium paid on land leased before 1 April 1993) and for the purposes of section DZ 9 (Premium paid on land leased before 1 April 1993),—
       (i) includes a payment in the nature of a fine, a payment for goodwill attaching to the land, and a payment in consideration of the grant, transfer, or renewal of the lease; and
       (ii) does not include rent
-  - **premium loading** means the amount calculated by a life insurer following the steps in section EY 16(2) (Premium loading: when life insurers providing life insurance at start of income year) or EY 17(2) (Premium loading: when life insurers not providing life insurance at start of income year), as applicable
-  - **premium loading formula** means the formula in section EY 18(1) (Premium loading formulas) or the formula in section EY 18(2)
+  - **premium payback amount** means an amount of life risk component premium refunded in accordance with the terms and conditions of the relevant life insurance policy or the discretion of the life insurer
   - **prepaid expenditure** means expenditure to which section EA 3 (Prepayments) applies
   - **prescribed** means—
     (a) prescribed by regulations under this Act; or
@@ -38299,6 +38039,12 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **prescribed period** is defined in section CU 29 (Other definitions)
   - **prescribed proportion** is defined in section CU 29 (Other definitions)
   - **prescribed rate of interest** means the rate of interest declared by regulations made under section RA 21(3) (Regulations) to be the rate applying to employment-related loans
+  - **present value (gross)** means––
+    (a) a present value calculated using the risk-free rate of return as the discount rate, gross of tax; but
+    (b) face value, if the whole discount period is less than a year
+  - **present value (net)** means––
+    (a) a present value calculated using the risk-free rate of return as the discount rate, net of tax; but
+    (b) face value, if the whole discount period is less than a year
   - **price** —
     (a) is defined in section RD 40(3) (Goods) for the purposes of that section:
     (b) is defined in section RD 41(4) (Services) for the purposes of that section:
@@ -38331,6 +38077,14 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (iii) are sales or other disposals of the produce or goods by the company to its shareholders, if a principal activity of the company involves the supply of such produce or goods to its shareholders
   - **producer board** has the same meaning as
   - **profit** is defined in section DB 28(6) (Amount from land affected by change and not already in income) for the purposes of that section
+  - **profit participation policy** ––
+    (a) means a class of life insurance policy having––
+      (i) a segregated or identifiable asset base; and
+      (ii) policyholders who are entitled to a share of profits that is distributed to, or vested in, the policyholders from the asset base, and the policies provide for the entitlement; and
+      (iii) a fixed formula, expressed in terms of a proportion of a policyholder's share of profits from the asset base, that calculates a transfer to the benefit of the life insurer's shareholders from the profits of the asset base, and that fixed formula is consistently applied:
+    (b) includes a class of life insurance policy that substantially meets the requirements of paragraph (a) and that has a guarantee by the life insurer that capital invested will be returned or that a minimum return on capital will be paid, if—
+      (i) the life insurer has irrevocably chosen that the class be treated as a profit participation policy; and
+      (ii) the Commissioner receives a notice of the election before the start of the first income year to which it relates
   - **profit-related debenture** is defined in section FA 2(4) (Recharacterisation of certain debentures)
   - **profit-sharing arrangement** means an arrangement under which—
     (a) a person (person A) makes specified livestock available, without specifying a fee for doing so, to another person (person B) who carries on a business in which the livestock are used; and
@@ -38354,6 +38108,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **provisional rate** is defined in section EE 67 (Other definitions)
   - **provisional tax** means an amount payable as provisional tax under the provisional tax rules
   - **provisional tax rules** means the provisions listed in section RC 2 (Provisional tax rules and their application)
+  - **PSR period** is defined in section EY 23 (Reserving amounts for life insurers: non-participation policies)
   - **public authority** —
     (a) means every department or instrument of the Executive Government of New Zealand; and
     (b) includes the Public Trust and the Maori Trustee
@@ -38434,6 +38189,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **reinsurance contract** includes—
     (a) a cover note:
     (b) a renewal of a reinsurance contract
+  - **reinsurance grandparenting start day** is defined in section EZ 62 (Reinsurance transition: life financial reinsurance may be life reinsurance)
   - **reinvestment profit** is defined in section CU 29 (Other definitions)
   - **related activity** is defined in section IZ 1(12) (Use of specified activity net losses) for the purposes of that section
   - **related by employment** is defined in section EY 11(14) (Superannuation schemes providing life insurance) for the purposes of that section
@@ -38576,8 +38332,14 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **salary or wages** —
     (a) is defined in section RD 5 (Salary or wages):
     (b) is further defined in section RD 65(13) (Employer’s superannuation contributions) and schedule 28, clause 7 (Requirements for complying fund rules) for the purposes of those sections
+  - **savings component** means,––
+    (a) for a premium paid under a life insurance policy, the actuarially determined amount of the premium that is like the policyholder making an investment and is accounted for as increasing policyholder liabilities:
+    (b) for a claim payable under a life insurance policy, the actuarially determined amount of the claim that is like the policyholder withdrawing an investment and is accounted for as reducing policyholder liabilities
+  - **savings product policy** means a life insurance policy, other than an annuity, that may or may not have a life risk component and that has or will have a surrender value which––
+    (a) is greater than zero; and
+    (b) does not arise wholly from the payback of a portion of a policyholder's premiums
   - **schedular income** means income of any of the following types
-    (a) policyholder income under section CR 1(4) (Income of life insurer):
+    (a) schedular policyholder base income:
     (b) income derived from a mining venture by a non-resident mining operator:
     (c)
     (d) category A income derived by a trustee of a group investment fund:
@@ -38589,6 +38351,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (i) income to which section YD 8 (Apportionment of premiums derived by non-resident general insurers) applies
   - **schedular income tax liability** means the amount determined under section BC 7 (Income tax liability of person with schedular income)
   - **schedular payment** is defined in section RD 8 (Schedular payments)
+  - **schedular policyholder base income** means schedular policyholder base income described in section EY 2(3) (Policyholder base)
   - **schedular taxable income** , for a tax year and a person who has schedular income of a particular kind for the tax year, means the amount of taxable income that the person has in calculating the schedular income tax liability for the kind for the tax year
   - **scientific or technological uncertainty** is defined in section LH 7(3) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **seal and abandonment** means the seal and abandonment of an exploratory well when a petroleum miner files a statutory declaration with the Commissioner stating that the miner has no intention of utilising the well in petroleum mining operations or of applying for a petroleum mining permit in relation to the area in which the well is located
@@ -38674,6 +38437,9 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
       (i) the company's constitution:
       (ii) the terms of a debt security:
       (iii) the terms of the company's shares
+  - **shareholder base** , for a life insurer, means the base for shareholder income and allowable deductions and to which income of a particular source or nature, and tax credits received are apportioned under section EY 4 (Apportionment of income of particular source or nature, and of tax credits)
+  - **shareholder base allowable deductions** means shareholder base allowable deductions described in section EY 3(2) (Shareholder base)
+  - **shareholder base income** means shareholder base income described in section EY 3(1) (Shareholder base)
   - **shareholder decision-making right** means a right, carried by a share issued by a company or an option over a share issued by a company, to vote or participate in any decision-making concerning—
     (a) a dividend or other distribution to be paid or made by the company, whether on a liquidation of the company or otherwise, excluding decision-making undertaken by directors acting only in their capacity as directors; or
     (b) the constitution of the company; or
@@ -38859,7 +38625,9 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
     (d) in which 1 or more voting interests are held by non-residents; and
     (e) that derives dividends that are not excluded income or exempt income other than income under sections CW 9 to CW 11 (which relate to income from equity)
   - **supply** is defined in section GC 14 (Definitions for sections GC 6 to GC 13) for the purposes of sections GC 6, GC 9 and GC 10 (which relate to transfer pricing arrangements)
+  - **supporting asset base** is defined in section EY 17 (Policyholder base income: profit participation policies)
   - **surrender** , for an emissions unit, means surrender as defined in section 4(1) of the Climate Change Response Act 2002
+  - **surrender value** means the amount paid (the surrender amount) when a life insurance policy is cancelled before it reaches the maturity or expiry date contracted for under the policy, excluding an amount that is the repayment of unexpired premiums. There is no netting off against the surrender amount of unpaid premiums, outstanding loans, or interest balances (the debt obligations) owed by an insured unless the policy is terminated by the insurer and the debt obligations are greater than the surrender amount
   - **systematic, investigative, and experimental activities** is defined in section LH 7(2) (Research and development activities and related terms) for the purposes of subpart LH (Tax credits for expenditure on research and development)
   - **tax** means income tax, but in the provisions in which the term income tax has an extended or limited meaning, tax has a corresponding meaning
   - **tax account with the Commissioner** , for a person, means an account dealing with the person’s transactions with the Commissioner in relation to income tax
@@ -39053,6 +38821,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **unlisted trust** is defined in section CD 22(9) (Returns of capital: off-market share cancellations) for the purposes of that section
   - **unlisted widely-held trust** means a widely-held trust the units or interests in which are not quoted on the official list of a recognised exchange
   - **unwind** is defined in section HR 10 (What happens when vehicle stops being RMBS special purpose vehicle?)
+  - **valuation premiums** is defined in section EY 29(7) (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
   - **variable principal debt instrument** ,—
     (a) in the financial arrangements rules, means a financial arrangement that contemplates that 1 party may, on demand or call,—
       (i) advance further amounts to the other party; or
@@ -39104,6 +38873,7 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign’s birthday, and Waitangi Day; and
     (b) a day in the period starting on 25 December in a year and ending on 15 January (both dates inclusive) in the following year
+  - **workplace group policy** is defined in section EY 30 (Transitional adjustments: life risk)
   - **work-related relocation** is defined in section CW 17B(4) (Relocation payments)
   - **work-related vehicle** is defined in section CX 38 (Meaning of work-related vehicle)
   - **year** means a 12-month period
@@ -40147,8 +39917,8 @@ To the extent to which a trustee does not have a basic rate under clause 4 or 5,
 ### 7 Taxable income: Maori authorities
 The basic rate of income tax for a Maori authority on each dollar of the Maori authority’s taxable income is 0.195.
 
-### 8 Schedular taxable income: policyholder income
-The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is for policyholder income is 0.30.
+### 8 Schedular taxable income: schedular policyholder base income
+The basic rate of income tax for a person on each dollar of the person’s schedular taxable income that is for schedular policyholder base income is 0.30.
 
 | Row | Range of dollar in all-inclusive pay | Tax rate |
 | --- | --- | --- |
@@ -48434,6 +48204,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
+### 33 Sections CR 1 and CR 2 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 34 New section CR 4 added
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies—
@@ -48492,6 +48268,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (a) the final application for the large budget screen production grant is made on or after 1 October 2009; and
   (b) the company does not incur before 1 July 2008 an amount of $3,000,000 or more in expenditure on the project to which the large budget screen production grant relates.
 
+### 49 New section CW 59C inserted
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 50 New section CW 62B inserted
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2009–10 and later income years.
@@ -48504,6 +48286,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 54 Section CX 28 replaced
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 55 Section CX 39 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 56 Government grants to businesses
 (1) Amendments incorporated in the principal Act.
@@ -48588,6 +48376,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 92 Section DO 11B repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2009–10 and later income years.
+
+### 94 Sections DR 1 to DR 3 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 97 New section DT 1A inserted
 (1) Amendments incorporated in the principal Act.
@@ -48701,6 +48495,16 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 131 Sections EJ 19 and EJ 20 replaced
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for expenditure incurred on or after 1 April 2008.
+
+### 132 What is an excepted financial arrangement?
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Amendments incorporated in the principal Act.
+(6) Subsections (1) and (3) apply—
+  (a) on and after 1 July 2010, unless paragraph (b) applies; or
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 135 IFRS financial reporting method
 (1) Amendments incorporated in the principal Act.
@@ -48851,11 +48655,59 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2009–10 and later income years.
 
+### 185 Sections EY 1 to EY 5 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 186 Section EY 6 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 187 Meaning of claim
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 188 Superannuation schemes providing life insurance
 (1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
+
+### 189 Meaning of life reinsurance
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Subsections (1) and (2) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 190 Sections EY 15 to EY 47 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 193 Non-resident life insurers with life insurance policies in New Zealand
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsections (1) and (2) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 194 Deductions for disposal of property: 1982–83 and 1989–90 income years
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Subsections (1) to (4) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 195 Section EZ 31 repealed
 (1) Amendments incorporated in the principal Act.
@@ -48864,6 +48716,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 197 Income and expenditure where financial arrangement redeemed or disposed of
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 199 New headings and sections EZ 53 to EZ 62 added
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 202 New section FA 2B inserted
 (1) Amendments incorporated in the principal Act.
@@ -49236,11 +49094,11 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 296 Restrictions relating to ring-fenced tax losses
-(1) Section IA 7(3) is repealed.
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
 (4) Amendments incorporated in the principal Act.
-(5) In section IA 7, in the list of defined terms, life insurer and policyholder net loss are omitted.
+(5) Amendments incorporated in the principal Act.
 (6) Amendments incorporated in the principal Act.
 (7) Subsection (1) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
@@ -49249,10 +49107,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (9) Subsection (4) applies for the 2010–11 and later income years.
 
 ### 297 Restrictions relating to schedular income
-(1) After the opening words in section IA 8(1), the following is inserted:.
-  ((aa)) paragraph (a), which relates to life insurers' schedular policyholder base income; or
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
-(3) In section IA 8, in the list of defined terms, schedular policyholder base income is inserted.
+(3) Amendments incorporated in the principal Act.
 (4) Subsections (1) and (3) apply––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -49299,6 +49156,18 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
+### 307 Subpart IT replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 310 New section LA 8B inserted
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 311 Use of tax credits
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
@@ -49330,6 +49199,29 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (5) Amendments incorporated in the principal Act.
 (6) Subsection (1) applies for the 2008–09 and later income years.
 (7) Subsection (3) applies for the 2010–11 and later income years.
+
+### 325 Use of remaining credits by companies and trustees
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Amendments incorporated in the principal Act.
+(5) Amendments incorporated in the principal Act.
+(6) Subsections (1) to (4) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 326 New section LE 2B inserted
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 327 Use of remaining credits by others
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 330 Who this subpart applies to
 (1) Amendments incorporated in the principal Act.
@@ -49486,6 +49378,34 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
+### 372 Memorandum accounts
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 373 Credits
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
+(4) Subsections (1) and (2) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 374 Debits
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 375 Opening balances of memorandum accounts
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 377 Section OA 12 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
@@ -49505,15 +49425,25 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
+### 380 New section OB 3B inserted
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 381 ICA payment of tax
-(1) Section OB 4(3)(c) is replaced by the following:.
-  (c) income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
-(3) In section OB 4, in the list of defined terms,—
-  (a) policyholder base income tax liability is omitted:
-  (b) schedular income tax liability and schedular policyholder base income are inserted.
+(3) Amendments incorporated in the principal Act.
 (4) Subsection (2) applies for the 2008–09 and later income years.
 (5) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 382 ICA resident withholding tax withheld
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
@@ -49521,15 +49451,20 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for dividends received in all income years beginning on or after 1 July 2009.
 
+### 386 Section OB 17 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 387 ICA transfer to master fund
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
 
 ### 388 ICA refund of income tax
-(1) After section OB 32(2)(a), the following is inserted:.
-  (ab) a refund of income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
-(3) In section OB 32, in the list of defined terms, life insurer, schedular income tax liability, and schedular policyholder base income are inserted.
+(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -49548,6 +49483,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) the refund is received in the company's 2008–09 income year but before 2 July 2008; and
   (c) the company has relied on section OB 34(4), as it was before the amendment made by this section, to determine the date of the debit.
 
+### 392 New section OB 35B inserted
+(1) Amendments incorporated in the principal Act.\
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 393 ICA refund of tax credit
 (1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
@@ -49560,6 +49501,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 395 Section OB 39 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
+
+### 396 Section OB 47 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 397 ICA benchmark dividend rules
 (1) Amendments incorporated in the principal Act.
@@ -49577,7 +49524,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
 (4) Amendments incorporated in the principal Act.
-(5) Table O1, row 15 is repealed.
+(5) Amendments incorporated in the principal Act.
 (6) Subsection (2) applies for the 2009–10 and later income years.
 (7) Subsection (3) applies for all income years beginning on or after 1 July 2009.
 (8) Subsection (4) applies for the 2008–09 and later income years.
@@ -49586,10 +49533,10 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 400 Table O2: imputation debits
-(1) In table O2, after row 7, the following is inserted:7BDebit for transfer from tax pooling account for policyholder base liability31 Marchsection OB 35B
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
-(4) In table O2, row 20 is replaced by the following:20Debit for policyholder base imputation credits31 Marchsection OB 47
+(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (4) apply––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -49602,6 +49549,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for the 2010–11 and later income years.
 (5) Subsection (2) applies for all income years beginning on or after 1 July 2009.
+
+### 402 New section OC 2B inserted
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 403 When company chooses to stop being FDPA company
 (1) Amendments incorporated in the principal Act.
@@ -49632,6 +49585,18 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
+### 410 Section OC 20 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 411 Section OC 23 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 413 Payment of further FDP for closing debit balance
 (1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
@@ -49660,13 +49625,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
+### 418 Heading and sections OC 35 to OC 39 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 419 Table O3: FDP credits
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 420 Table O4: FDP debits
 (1) Amendments incorporated in the principal Act.
-(2) In table O4, row 9 is replaced by the following:9Debit for policyholder base FDP credits31 Marchsection OC 20
+(2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 (4) Subsection (2) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
@@ -49745,6 +49716,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
+### 439 Subpart OJ repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 440 MACA payment of tax
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
@@ -49767,10 +49744,8 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 
 ### 445 When credits and debits arise only in consolidated imputation group accounts
 (1) Amendments incorporated in the principal Act.
-(2) After section OP 5(4)(d), the following is inserted:.
-  (db) section OP 33B, row 7B (debit for transfer from tax pooling account for policyholder base liability):
-(3) In section OP 5(4)(k), ratio). is replaced by ratio): and the following is added:
-  (l) section OP 44, row 18 (debit for policyholder base imputation credits).
+(2) Amendments incorporated in the principal Act.
+(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (5) Subsections (2) and (3) apply––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
@@ -49783,12 +49758,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (4) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
 ### 447 Consolidated ICA payment of tax
-(1) Section OP 7(3)(d) is replaced by the following:.
-  (d) income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
-(3) In section OP 7, in the list of defined terms,—
-  (a) policyholder base income tax liability is omitted:
-  (b) schedular income tax liability and schedular policyholder base income are inserted.
+(3) Amendments incorporated in the principal Act.
 (4) Subsection (1) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -49798,14 +49770,30 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
+### 449 Consolidated ICA resident withholding tax withheld
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 450 Section OP 20 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 451 Section OP 21 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 452 Consolidated ICA refund of income tax
-(1) Section OP 30(2) is replaced by the following:No debit
-  (2) The debit in subsection (1) does not include––
-    (a) a refund of income tax paid by a life insurer to satisfy its schedular income tax liability for schedular policyholder base income; or
-    (b) a refund of income tax paid before a debit arises under section OP 42 to the extent to which the amount of the refund is less than the amount of the debit.
-(2) In section OP 30(3), subsection (2) is replaced by subsection (2)(b).
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
-(4) In section OP 30, in the list of defined terms, life insurer, schedular income tax liability, and schedular policyholder base income are inserted.
+(4) Amendments incorporated in the principal Act.
 (5) Subsections (1) and (2) apply––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -49814,6 +49802,12 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 453 Consolidated ICA amount applied to pay other taxes
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 454 New section OP 33B inserted
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 455 Consolidated ICA refund of tax credit
 (1) Amendments incorporated in the principal Act.
@@ -49830,20 +49824,26 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for the 2008–09 and later income years.
 
+### 458 Section OP 44 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 459 Table O19: imputation credits of consolidated imputation groups
 (1) Amendments incorporated in the principal Act.
-(2) Table O19, rows 15 and 16 are repealed.
+(2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 460 Table O20: imputation debits of consolidated imputation groups
-(1) In table O20, after row 7, the following is inserted:7BDebit for transfer from tax pooling account for policyholder base liability31 Marchsection OP 33B
+(1) Amendments incorporated in the principal Act.
 (2) Amendments incorporated in the principal Act.
 (3) Amendments incorporated in the principal Act.
 (4) Amendments incorporated in the principal Act.
-(5) In table O20, row 18 is replaced by the following:18Debit for policyholder base imputation credits31 Marchsection OP 44
+(5) Amendments incorporated in the principal Act.
 (6) Subsections (1) and (5) apply––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
   (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
@@ -49852,8 +49852,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 
 ### 461 When credits and debits arise only in consolidated FDP group accounts
 (1) Amendments incorporated in the principal Act.
-(2) In section OP 54(4)(d), ratio). is replaced by ratio): and the following is added:
-  (e) section OP 74, row 12 (debit for policyholder base FDP credits).
+(2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
@@ -49880,13 +49879,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (2) Amendments incorporated in the principal Act.
 (3) Subsections (1) and (2) apply for the 2008–09 and later income years.
 
+### 467 Section OP 74 replaced
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
 ### 468 Table O21: FDP credits of consolidated FDP groups
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 
 ### 469 Table O22: FDP debits of consolidated FDP groups
 (1) Amendments incorporated in the principal Act.
-(2) In table O22, row 12 is replaced by the following:12Debit for policyholder base FDP credits31 Marchsection OP 74
+(2) Amendments incorporated in the principal Act.
 (3) Subsection (1) applies for all income years beginning on or after 1 July 2009.
 (4) Subsection (2) applies––
   (a) on and after 1 July 2010, unless paragraph (b) applies:
@@ -49943,6 +49948,18 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 482 Table O26 repealed
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for all income years beginning on or after 1 July 2009.
+
+### 483 Headings and sections OP 109 to OP 116 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
+
+### 484 Tables O27 and O28 repealed
+(1) Amendments incorporated in the principal Act.
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 485 ASCA lost excess available subscribed capital
 (1) Amendments incorporated in the principal Act.
@@ -50256,14 +50273,13 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (3) Amendments incorporated in the principal Act.
 (4) Amendments incorporated in the principal Act.
 (5) Amendments incorporated in the principal Act.
-(6) In the definition of actuarial reserves, section EY 3 is replaced by section EZ 59.
+(6) Amendments incorporated in the principal Act.
 (7) Amendments incorporated in the principal Act.
 (8) Amendments incorporated in the principal Act.
 (9) Amendments incorporated in the principal Act.
 (10) Amendments incorporated in the principal Act.
 (11) Amendments incorporated in the principal Act.
-(12) After the definition of asset, the following is inserted:.
-  - **asset base** means a segregated or identifiable group of assets or proportion of a group of assets attributable to profit participation policies
+(12) Amendments incorporated in the principal Act.
 (13) Amendments incorporated in the principal Act.
 (14) Amendments incorporated in the principal Act.
 (15) Amendments incorporated in the principal Act.
@@ -50271,29 +50287,22 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (17) Amendments incorporated in the principal Act.
 (18) Amendments incorporated in the principal Act.
 (19) Amendments incorporated in the principal Act.
-(20) After the definition of benefit fund PIE, the following is inserted:.
-  - **best estimate assumptions** means assumptions about the future that––
-    (a) are actuarially determined; and
-    (b) are made using professional judgement, training and experience; and
-    (c) are not deliberately overstated or understated
+(20) Amendments incorporated in the principal Act.
 (21) Amendments incorporated in the principal Act.
 (22) Amendments incorporated in the principal Act.
 (23) Amendments incorporated in the principal Act.
 (24) Amendments incorporated in the principal Act.
 (25) Amendments incorporated in the principal Act.
 (26) Amendments incorporated in the principal Act.
-(27) After the definition of class, the following is inserted:.
-  - **class of policies** means life insurance policies that have substantially the same terms and conditions, and that are priced by the life insurer using substantially the same assumptions
+(27) Amendments incorporated in the principal Act.
 (28) Amendments incorporated in the principal Act.
 (29) Amendments incorporated in the principal Act.
 (30) Amendments incorporated in the principal Act.
 (31) Amendments incorporated in the principal Act.
 (32) Amendments incorporated in the principal Act.
-(33) After the definition of counted associate, the following is inserted:.
-  - **cover review period** is defined in section EY 30 (Transitional adjustments: life risk)
+(33) Amendments incorporated in the principal Act.
 (34) Amendments incorporated in the principal Act.
-(35) After the definition of credit account continuity provisions, the following is inserted:.
-  - **credit card repayment insurance** is defined in section EY 30 (Transitional adjustments: life risk)
+(35) Amendments incorporated in the principal Act.
 (36) Amendments incorporated in the principal Act.
 (37) Amendments incorporated in the principal Act.
 (38) Amendments incorporated in the principal Act.
@@ -50304,8 +50313,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (43) Amendments incorporated in the principal Act.
 (44) Amendments incorporated in the principal Act.
 (45) Amendments incorporated in the principal Act.
-(46) After the definition of early balance date, the following is inserted:.
-  - **early life regime application day** means, for a life insurer that chooses to apply the new life insurance rules, as provided in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009, for an income year that includes 1 July 2010, the first day of that income year
+(46) Amendments incorporated in the principal Act.
 (47) Amendments incorporated in the principal Act.
 (48) Amendments incorporated in the principal Act.
 (49) Amendments incorporated in the principal Act.
@@ -50315,8 +50323,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (53) Amendments incorporated in the principal Act.
 (54) Amendments incorporated in the principal Act.
 (55) Amendments incorporated in the principal Act.
-(56) After the definition of employer-sourced superannuation savings, the following is inserted:.
-  - **employer sponsored group policy** is defined in section EY 30 (Transitional adjustments: life risk)
+(56) Amendments incorporated in the principal Act.
 (57) Amendments incorporated in the principal Act.
 (58) Amendments incorporated in the principal Act.
 (59) Amendments incorporated in the principal Act.
@@ -50325,17 +50332,14 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (62) Amendments incorporated in the principal Act.
 (63) Amendments incorporated in the principal Act.
 (64) Amendments incorporated in the principal Act.
-(65) After the definition of exemption certificate, the following is inserted:.
-  - **existing business** is defined in section EY 28 (Shareholder base other profit: profit participation policies that are existing business) for the purposes of that section and section EY 29 (Shareholder base other profit: profit participation policies that are new business)
+(65) Amendments incorporated in the principal Act.
 (66) Amendments incorporated in the principal Act.
-(67) Before the definition of expenditure, the following is inserted:.
-  - **expected life risk proportion** is defined in section EY 25 (Premium smoothing reserving amount: non-participation policies not annuities) for the purposes of that section
+(67) Amendments incorporated in the principal Act.
 (68) Amendments incorporated in the principal Act.
 (69) Amendments incorporated in the principal Act.
 (70) Amendments incorporated in the principal Act.
 (71) Amendments incorporated in the principal Act.
-(72) After the definition of financial assistance, the following is inserted:.
-  - **financial risk** is defined in section EY 12 (Meaning of life reinsurance)
+(72) Amendments incorporated in the principal Act.
 (73) Amendments incorporated in the principal Act.
 (74) Amendments incorporated in the principal Act.
 (75) Amendments incorporated in the principal Act.
@@ -50350,12 +50354,10 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (84) Amendments incorporated in the principal Act.
 (85) Amendments incorporated in the principal Act.
 (86) Amendments incorporated in the principal Act.
-(87) After the definition of grandparented consolidated company, the following is inserted:.
-  - **grandparenting start day** is defined in section EY 30 (Transitional adjustments: life risk)
+(87) Amendments incorporated in the principal Act.
 (88) Amendments incorporated in the principal Act.
 (89) Amendments incorporated in the principal Act.
-(90) After the definition of group investment fund, the following is inserted:.
-  - **group life master policy** is defined in section EY 30 (Transitional adjustments: life risk)
+(90) Amendments incorporated in the principal Act.
 (91) Amendments incorporated in the principal Act.
 (92) Amendments incorporated in the principal Act.
 (93) Amendments incorporated in the principal Act.
@@ -50377,26 +50379,19 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (109) Amendments incorporated in the principal Act.
 (110) Amendments incorporated in the principal Act.
 (111) Amendments incorporated in the principal Act.
-(112) After the definition of life reinsurer, the following is inserted:.
-  - **life risk** means an actuarially determined risk contingent on human life
-(113) Before the definition of limitation rule, the following is inserted:.
-  - **life risk component** ––
-    (a) means––
-      (i) for a premium paid under a life insurance policy, the amount of the premium that gives rise to income derived by the life insurer for providing services, including the bearing of life risk:
-      (ii) for a claim payable under a life insurance policy, the amount of the claim that gives rise to deductions for the life insurer for providing services, including the bearing of life risk:
-    (b) does not include an amount that is a savings component
+(112) Amendments incorporated in the principal Act.
+(113) Amendments incorporated in the principal Act.
 (114) Amendments incorporated in the principal Act.
 (115) Amendments incorporated in the principal Act.
 (116) Amendments incorporated in the principal Act.
 (117) Amendments incorporated in the principal Act.
 (118) Amendments incorporated in the principal Act.
 (119) Amendments incorporated in the principal Act.
-(120) The definitions of mortality profit and mortality profit formula are repealed.
+(120) Amendments incorporated in the principal Act.
 (121) Amendments incorporated in the principal Act.
-(122) In the definition of multi-rate PIE, paragraph (e) is repealed.
+(122) Amendments incorporated in the principal Act.
 (123) Amendments incorporated in the principal Act.
-(124) After the definition of new asset, the following is inserted:.
-  - **new business** is defined in section EY 29 (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
+(124) Amendments incorporated in the principal Act.
 (125) Amendments incorporated in the principal Act.
 (126) Amendments incorporated in the principal Act.
 (127) Amendments incorporated in the principal Act.
@@ -50423,13 +50418,9 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (148) Amendments incorporated in the principal Act.
 (149) Amendments incorporated in the principal Act.
 (150) Amendments incorporated in the principal Act.
-(151) After the definition of plot, the following is inserted:.
-  - **policy liabilities** is defined in section EY 29(8) (Shareholder base other profit: profit participation policies that are new business) for the purposes of section EY 29
-(152) The definition of policyholder base is replaced by the following:.
-  - **policyholder base** means, for a life insurer, the base for policyholder base income and allowable deductions and to which income of a particular source or nature, and tax credits received are apportioned under section EY 4 (Apportionment of income of particular source or nature, and of tax credits)
-  - **policyholder base allowable deductions** means policyholder base allowable deductions described in section EY 2(2) (Policyholder base)
-  - **policyholder base income** means policyholder base income described in section EY 2(1) (Policyholder base)
-(153) The definitions of policyholder base income tax liability, policyholder credit, policyholder credit account, policyholder debit, policyholder FDP ratio, policyholder income, policyholder income formula, and policyholder net loss are repealed.
+(151) Amendments incorporated in the principal Act.
+(152) Amendments incorporated in the principal Act.
+(153) Amendments incorporated in the principal Act.
 (154) Amendments incorporated in the principal Act.
 (155) Amendments incorporated in the principal Act.
 (156) Amendments incorporated in the principal Act.
@@ -50437,42 +50428,24 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (158) Amendments incorporated in the principal Act.
 (159) Amendments incorporated in the principal Act.
 (160) Amendments incorporated in the principal Act.
-(161) In the definition of premium, in paragraph (a), the following is added:.
-  (iii) does not include consideration received by a life insurer for the transfer of life insurance business:
-(162) The definitions of premium loading and premium loading formula are repealed.
-(163) Before the definition of prepaid expenditure, the following is inserted:.
-  - **premium payback amount** means an amount of life risk component premium refunded in accordance with the terms and conditions of the relevant life insurance policy or the discretion of the life insurer
+(161) Amendments incorporated in the principal Act.
+(162) Amendments incorporated in the principal Act.
+(163) Amendments incorporated in the principal Act.
 (164) Amendments incorporated in the principal Act.
 (165) Amendments incorporated in the principal Act.
 (166) Amendments incorporated in the principal Act.
 (167) Amendments incorporated in the principal Act.
-(168) After the definition of prescribed rate of interest, the following is inserted:.
-  - **present value (gross)** means––
-    (a) a present value calculated using the risk-free rate of return as the discount rate, gross of tax; but
-    (b) face value, if the whole discount period is less than a year
-  - **present value (net)** means––
-    (a) a present value calculated using the risk-free rate of return as the discount rate, net of tax; but
-    (b) face value, if the whole discount period is less than a year
-(169) After the definition of profit, the following is inserted:.
-  - **profit participation policy** ––
-    (a) means a class of life insurance policy having––
-      (i) a segregated or identifiable asset base; and
-      (ii) policyholders who are entitled to a share of profits that is distributed to, or vested in, the policyholders from the asset base, and the policies provide for the entitlement; and
-      (iii) a fixed formula, expressed in terms of a proportion of a policyholder's share of profits from the asset base, that calculates a transfer to the benefit of the life insurer's shareholders from the profits of the asset base, and that fixed formula is consistently applied:
-    (b) includes a class of life insurance policy that substantially meets the requirements of paragraph (a) and that has a guarantee by the life insurer that capital invested will be returned or that a minimum return on capital will be paid, if—
-      (i) the life insurer has irrevocably chosen that the class be treated as a profit participation policy; and
-      (ii) the Commissioner receives a notice of the election before the start of the first income year to which it relates
+(168) Amendments incorporated in the principal Act.
+(169) Amendments incorporated in the principal Act.
 (170) Amendments incorporated in the principal Act.
 (171) Amendments incorporated in the principal Act.
-(172) After the definition of provisional tax rules, the following is inserted:.
-  - **PSR period** is defined in section EY 23 (Reserving amounts for life insurers: non-participation policies)
+(172) Amendments incorporated in the principal Act.
 (173) Amendments incorporated in the principal Act.
 (174) Amendments incorporated in the principal Act.
 (175) Amendments incorporated in the principal Act.
 (176) Amendments incorporated in the principal Act.
 (177) Amendments incorporated in the principal Act.
-(178) After the definition of reinsurance contract, the following is inserted:.
-  - **reinsurance grandparenting start day** is defined in section EZ 62 (Reinsurance transition: life financial reinsurance may be life reinsurance)
+(178) Amendments incorporated in the principal Act.
 (179) Amendments incorporated in the principal Act.
 (180) Amendments incorporated in the principal Act.
 (181) Amendments incorporated in the principal Act.
@@ -50483,36 +50456,25 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (186) Amendments incorporated in the principal Act.
 (187) Amendments incorporated in the principal Act.
 (188) Amendments incorporated in the principal Act.
-(189) After the definition of salary or wages, the following is inserted:.
-  - **savings component** means,––
-    (a) for a premium paid under a life insurance policy, the actuarially determined amount of the premium that is like the policyholder making an investment and is accounted for as increasing policyholder liabilities:
-    (b) for a claim payable under a life insurance policy, the actuarially determined amount of the claim that is like the policyholder withdrawing an investment and is accounted for as reducing policyholder liabilities
-  - **savings product policy** means a life insurance policy, other than annuity, that has or will have a surrender value greater than zero, but the policy may have a life risk component
-(190) In the definition of schedular income, paragraph (a) is replaced by the following:.
-  (a) schedular policyholder base income:
+(189) Amendments incorporated in the principal Act.
+(190) Amendments incorporated in the principal Act.
 (191) Amendments incorporated in the principal Act.
 (192) Amendments incorporated in the principal Act.
 (193) Amendments incorporated in the principal Act.
-(194) After the definition of schedular payment, the following is inserted:.
-  - **schedular policyholder base income** means schedular policyholder base income described in section EY 2(3) (Policyholder base)
+(194) Amendments incorporated in the principal Act.
 (195) Amendments incorporated in the principal Act.
 (196) Amendments incorporated in the principal Act.
 (197) Amendments incorporated in the principal Act.
 (198) Amendments incorporated in the principal Act.
 (199) Amendments incorporated in the principal Act.
 (200) Amendments incorporated in the principal Act.
-(201) After the definition of shareholder agreement, the following is inserted:.
-  - **shareholder base** , for a life insurer, means the base for shareholder income and allowable deductions and to which income of a particular source or nature, and tax credits received are apportioned under section EY 4 (Apportionment of income of particular source or nature, and of tax credits)
-  - **shareholder base allowable deductions** means shareholder base allowable deductions described in section EY 3(2) (Shareholder base)
-  - **shareholder base income** means shareholder base income described in section EY 3(1) (Shareholder base)
+(201) Amendments incorporated in the principal Act.
 (202) Amendments incorporated in the principal Act.
 (203) Amendments incorporated in the principal Act.
 (204) Amendments incorporated in the principal Act.
-(205) After the definition of supply, the following is inserted:.
-  - **supporting asset base** is defined in section EY 17 (Policyholder base income: profit participation policies)
+(205) Amendments incorporated in the principal Act.
 (206) Amendments incorporated in the principal Act.
-(207) After the definition of surrender, the following is inserted:.
-  - **surrender value** means the amount paid (the surrender amount) when a life insurance policy is cancelled before it reaches the maturity or expiry date contracted for under the policy, excluding an amount that is the repayment of unexpired premiums. There is no netting off against the surrender amount of unpaid premiums, outstanding loans, or interest balances (the debt obligations) owed by an insured unless the policy is terminated by the insurer and the debt obligations are greater than the surrender amount
+(207) Amendments incorporated in the principal Act.
 (208) Amendments incorporated in the principal Act.
 (209) Amendments incorporated in the principal Act.
 (210) Amendments incorporated in the principal Act.
@@ -50523,8 +50485,7 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 (215) Amendments incorporated in the principal Act.
 (216) Amendments incorporated in the principal Act.
 (217) Amendments incorporated in the principal Act.
-(218) After the definition of unwind, the following is inserted:.
-  - **valuation premiums** is defined in section EY 29(7) (Shareholder base other profit: profit participation policies that are new business) for the purposes of that section
+(218) Amendments incorporated in the principal Act.
 (219) Amendments incorporated in the principal Act.
 (220) Amendments incorporated in the principal Act.
 (221) Amendments incorporated in the principal Act.
@@ -50580,6 +50541,13 @@ This Act is the Taxation (International Taxation, Life Insurance, and Remedial M
 ### 576 New section YZ 2 inserted
 (1) Amendments incorporated in the principal Act.
 (2) Subsection (1) applies for the 2008–09 and later income years.
+
+### 577 Schedule 1—Basic tax rates: income tax, ESCT, RSCT, RWT, and attributed fringe benefits
+(1) Amendments incorporated in the principal Act.
+(2) Amendments incorporated in the principal Act.
+(3) Subsection (1) applies—
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in this Act in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 579 Schedule 4—Rates of tax for schedular payments
 (1) Amendments incorporated in the principal Act.
@@ -50711,6 +50679,51 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 ### 31 Accounting profits method
 (1) Amendment(s) incorporated in the Act(s).
 (2) Subsection (1) applies for the 2008–09 and later income years. However, subsection (1) does not apply to a person in relation to a tax position taken by the person in a return of income filed before the date of Royal assent of this Act in relation to the calculation of an income interest in a FIF, relying on section EX 49(6) before the amendment made by this section.
+
+### 33 Policyholder base income: profit participation policies
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the Act(s).
+(5) Subsections (1) to (4) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 34 Policyholder base allowable deductions: profit participation policies
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 36 Shareholder base income: profit participation policies
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Subsections (1) to (3) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009in a return of income for the tax year corresponding to the first relevant income year.
+
+### 37 Shareholder base allowable deductions: profit participation policies
+(1) Amendment(s) incorporated in the Act(s).
+(2) Subsection (1) applies––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
+
+### 38 Transitional adjustments: life risk
+(1) Amendment(s) incorporated in the Act(s).
+(2) Amendment(s) incorporated in the Act(s).
+(3) Amendment(s) incorporated in the Act(s).
+(4) Amendment(s) incorporated in the Act(s).
+(5) Amendment(s) incorporated in the Act(s).
+(6) Amendment(s) incorporated in the Act(s).
+(7) Amendment(s) incorporated in the Act(s).
+(8) Amendment(s) incorporated in the Act(s).
+(9) Amendment(s) incorporated in the Act(s).
+(10) Amendment(s) incorporated in the Act(s).
+(11) Amendment(s) incorporated in the Act(s).
+(12) Subsections (1) to (11) apply––
+  (a) on and after 1 July 2010, unless paragraph (b) applies:
+  (b) for an income year that includes 1 July 2010 and later income years, if the life insurer chooses to apply the new life insurance rules in the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 in a return of income for the tax year corresponding to the first relevant income year.
 
 ### 41 Attribution rule for income from personal services
 (1) Amendment(s) incorporated in the Act(s).
@@ -50931,7 +50944,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (3) Amendment(s) incorporated in the Act(s).
 (4) Amendment(s) incorporated in the Act(s).
 (5) Amendment(s) incorporated in the Act(s).
-(6) The definition of employer sponsored group policy is omitted.
+(6) Amendment(s) incorporated in the Act(s).
 (7) Amendment(s) incorporated in the Act(s).
 (8) Amendment(s) incorporated in the Act(s).
 (9) Amendment(s) incorporated in the Act(s).
@@ -50944,8 +50957,7 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (16) Amendment(s) incorporated in the Act(s).
 (17) Amendment(s) incorporated in the Act(s).
 (18) Amendment(s) incorporated in the Act(s).
-(19) After the definition of policyholder base income, the following is inserted:.
-  - **policyholder unvested liabilities** means benefits that are allocated to policyholders of profit participation policies but are not vested in a specific policyholder
+(19) Amendment(s) incorporated in the Act(s).
 (20) Amendment(s) incorporated in the Act(s).
 (21) Amendment(s) incorporated in the Act(s).
 (22) Amendment(s) incorporated in the Act(s).
@@ -50954,17 +50966,13 @@ This Act is the Taxation (Consequential Rate Alignment and Remedial Matters) Act
 (25) Amendment(s) incorporated in the Act(s).
 (26) Amendment(s) incorporated in the Act(s).
 (27) Amendment(s) incorporated in the Act(s).
-(28) The definition of savings product policy is replaced by the following: .
-  - **savings product policy** means a life insurance policy, other than an annuity, that may or may not have a life risk component and that has or will have a surrender value which––
-    (a) is greater than zero; and
-    (b) does not arise wholly from the payback of a portion of a policyholder's premiums
+(28) Amendment(s) incorporated in the Act(s).
 (29) Amendment(s) incorporated in the Act(s).
 (30) The definition of supplementary dividend holding company is omitted.
 (31) Amendment(s) incorporated in the Act(s).
 (32) Amendment(s) incorporated in the Act(s).
 (33) Amendment(s) incorporated in the Act(s).
-(34) After the definition of working day, the following is inserted:.
-  - **workplace group policy** is defined in section EY 30 (Transitional adjustments: life risk)
+(34) Amendment(s) incorporated in the Act(s).
 (35) The definition of year of payment is omitted.
 (36) Amendment(s) incorporated in the Act(s).
 (37) Subsections (2), (3), (4), (7), (8), (9), (10), (11), (12), (13), (14), (17), (27), (29), (31), (32), and (33) apply for the 2008–09 and later income years.
