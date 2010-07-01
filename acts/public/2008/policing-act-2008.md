@@ -1,5 +1,5 @@
 # Policing Act 2008
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-07-01_
 
 ### 1 Title
 This Act is the Policing Act 2008.
@@ -831,17 +831,13 @@ In any proceedings,—
   (b) the Commissioner’s certificate is, in the absence of proof to the contrary, sufficient evidence of the matters certified.
 
 ### 99 Police involvement in elections
-(1) No constable, authorised officer, or supervisor may take part in any election of a member of the House of Representatives or a member of a local authority other than—
+(1) No constable, authorised officer, or supervisor may take part in any election of a member of the House of Representatives other than—
   (a) by voting; or
-  (b) as a candidate in accordance with sections 52 and 53 of the Electoral Act 1993 or subsections (2) to (4) of this section; or
+  (b) as a candidate in accordance with sections 52 and 53 of the Electoral Act 1993; or
   (c) in the discharge of his or her duties as a constable, authorised officer, or supervisor.
-(2) If a constable, authorised officer, or supervisor desires to become a candidate for election as a member of a local authority,—
-  (a) he or she must be placed on leave of absence for the purposes of his or her candidature; and
-  (b) subsections (3) to (6) of section 52 of the Electoral Act 1993 apply accordingly with any necessary modifications.
-(3) If a constable, authorised officer, or supervisor is elected as a member of a local authority,—
-  (a) he or she must, as soon as he or she is declared to be elected, be treated as having vacated his or her position as a Police employee; and
-  (b) subsections (3) to (6) of section 53 of the Electoral Act 1993 apply accordingly with any necessary modifications.
-(4) In this section, local authority and member of a local authority have the meanings given in section 5(1) of the Local Electoral Act 2001.
+(2)
+(3)
+(4)
 
 ### 100 Scope of review by State Services Commissioner
 If the State Services Commissioner is directed or requested under section 11 of the State Sector Act 1988 to carry out, under section 6(b)of that Act, a review of the performance of the Police, that review may relate only to the matters referred to in section 16(1).
@@ -920,18 +916,7 @@ Until the commencement of regulations under this Act prescribing a Police crest 
   (b) the definition in section 4 of Police article has effect accordingly.
 
 ### 115 Sitting members of local authorities
-(1) A sitting member does not have to be treated as having vacated his or her position as a Police employee on the commencement of section 99.
-(2) An elected sitting member does not have to be placed on leave of absence for the purposes of his or her candidature for election as a member of the local authority concerned at a future election if he or she has not, at some earlier future election, failed to be elected as a member of the local authority concerned.
-(3) An elected sitting member does not have to be treated as having vacated his or her position as a Police employee on being declared to be elected a member of the local authority concerned at a future election if he or she has not, at some earlier future election, failed to be elected as a member of the local authority concerned.
-(4) Subsections (1) to (3) override section 99(2) and (3).
-(5) In this section,—
-  - **elected sitting member** means a constable, authorised officer, or supervisor who, immediately before the commencement of section 99, was an elected member of a local authority
-  - **future election** means a triennial general election held under the Local Electoral Act 2001 after the commencement of section 99
-  - **local authority** and have the meanings given by section 5(1) of the Local Electoral Act 2001
-  - **local authority concerned** , in relation to a sitting member,—
-    (a) means the local authority of which he or she was a member immediately before the commencement of section 99; and
-    (b) includes a successor to the local authority concerned
-  - **sitting member** means a constable, authorised officer, or supervisor who, immediately before the commencement of section 99, was a member of a local authority.
+[Repealed]
 
 **Validation of constable's oaths**
 
