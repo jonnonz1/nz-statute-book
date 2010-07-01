@@ -1,18 +1,20 @@
 # Financial Service Providers (Registration and Dispute Resolution) Act 2008
-_Consolidation as at 2008-09-29_
+_Consolidation as at 2010-07-01_
 
 ### 1 Title
 This Act is the Financial Service Providers (Registration and Dispute Resolution) Act 2008.
 
 ### 2 Commencement
-(1) Part 2 and section 48 come into force on a date to be appointed by the Governor-General by Order in Council, and 1 or more Orders in Council may be made appointing different dates in respect of different types of financial service providers.
+(1) Part 2 and section 48 come into force on a date to be appointed by the Governor-General by Order in Council; and 1 or more orders may be made that do either or both of the following:
+  (a) bring different provisions into force on different dates:
+  (b) bring provisions into force on different dates in respect of different types of financial service or financial service provider.
 (2) The rest of this Act comes into force on the day after the date on which it receives the Royal assent.
 
 ## Part 1 — Preliminary provisions
 
 ### 3 Overview
 (1) This Act requires financial service providers to be registered.
-(2) In order to be registered, financial service providers are required to be members of a dispute resolution scheme if they provide financial services to the public.
+(2) In order to be registered, financial service providers are generally required to be members of a dispute resolution scheme if they provide financial services to retail clients.
 (3) The Act sets out how a dispute resolution scheme may be approved by the Minister, why the approval might be withdrawn, and how a dispute resolution scheme may be appointed as the reserve scheme.
 (4) The Act provides that the reserve scheme is to act as the default dispute resolution scheme and is to be capable of resolving disputes relating to all types of financial service providers.
 (5) This section is intended as a guide only.
@@ -23,10 +25,17 @@ In this Act, unless the context otherwise requires,—
   - **annual confirmation** means the annual confirmation relating to a registered provider supplied to the Registrar under section 28
   - **annual report** means the annual report relating to an approved dispute resolution scheme supplied to the Minister under section 68
   - **approved dispute resolution scheme** has the meaning given by section 50
+  - **broker** has the meaning given by section 77A of the Financial Advisers Act 2008
+  - **broking service** has the meaning given by section 77B of the Financial Advisers Act 2008
   - **business** includes any profession, trade, or undertaking, whether or not carried on with the intention of making a pecuniary profit
+  - **chartered accountant** has the same meaning as in section 2 of the Institute of Chartered Accountants of New Zealand Act 1996
   - **chief executive** means the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
+  - **contract of insurance** —
+    (a) means every contract of insurance including a contract of life insurance (including endowment and annuity contracts) and reinsurance; but
+    (b) does not include a class of contract declared not to be a contract of insurance by regulations
   - **controlling owner** means, in relation to a financial service provider that is not an individual, any person who beneficially owns 50% or more of that provider
+  - **conveyancing practitioner** has the meaning given by section 6 of the Lawyers and Conveyancers Act 2006
   - **credit contract** —
     (a) has the meaning given by section 7 of the Credit Contracts and Consumer Finance Act 2003; but
     (b) does not include—
@@ -47,28 +56,29 @@ In this Act, unless the context otherwise requires,—
     (a) the 40 Recommendations adopted by FATF at its plenary meeting on 20 June 2003:
     (b) the Special Recommendations on Terrorist Financing adopted by FATF at its extraordinary plenary meeting on 31 October 2001:
     (c) Special Recommendation IX on Terrorist Financing adopted by FATF at its plenary meeting between 20 and 22 October 2004
-  - **financial adviser service** has the meaning given by sections 10 and 12 of the Financial Advisers Act 2008
+  - **financial adviser service** has the meaning given by section 9 of the Financial Advisers Act 2008
   - **financial service** has the meaning given by section 5
   - **financial service provider** means a person who provides or offers to provide a financial service
   - **in the business of providing a financial service** has the meaning given by section 6
-  - **insurance business** includes—
-    (a) mortgage guarantee insurance as defined in section 2 of the Insurance Companies' Deposits Act 1953:
-    (b) life insurance (including endowment and annuity contracts):
-    (c) reinsurance:
-    (d) every other class of insurance business
+  - **incorporated law firm** has the meaning given by section 6 of the Lawyers and Conveyancers Act 2006
+  - **insurer** means a person by whom or on whose behalf the risk or part of the risk to which any contract of insurance relates is accepted
   - **lawyer** has the meaning given by section 6 of the Lawyers and Conveyancers Act 2006
-  - **licensing authority** means a body, identified in Schedule 2, that licenses, registers, authorises, or otherwise approves a person to be a licensed provider
+  - **licensed** means licensed, registered, authorised, or otherwise approved by a licensing authority
   - **licensed provider** means a person, identified in Schedule 2, who—
     (a) provides or offers to provide a licensed service; and
     (b) is licensed, registered, authorised, or otherwise approved by a licensing authority
-  - **licensed service** means a financial service that is required by an enactment identified in Schedule 2 to be provided only by a person who is licensed, registered, authorised, or otherwise approved by a licensing authority
+  - **licensed service** means a financial service in respect of which a licensing enactment requires a person to be licensed (or to be exempt from that requirement) to—
+    (a) provide the service; or
+    (b) hold out that the person provides the service
+  - **licensing authority** means a body, identified in Schedule 2, that licenses, registers, authorises, or otherwise approves a person to be a licensed provider
+  - **licensing enactment** means an enactment identified in Schedule 2
   - **member** , in relation to a dispute resolution scheme, has the meaning given by section 48(2)
   - **member of a local authority** has the meaning given by section 5(1) of the Local Government Act 2002
   - **Minister** means—
     (a) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act and for Parts 1 and 2; and
     (b) the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for Part 3
   - **Ministry** means the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **person** includes a corporation sole, a body corporate, an unincorporated body, and a superannuation scheme as defined in section 2A of the Superannuation Schemes Act 1989
+  - **person** includes a corporation sole, a body corporate, and an unincorporated body
   - **prescribed** means prescribed by this Act or by any regulations made under this Act
   - **real estate agent** means a person who is a licensee under the Real Estate Agents Act 2008
   - **register** means the register of financial service providers established and maintained under section 24
@@ -76,12 +86,15 @@ In this Act, unless the context otherwise requires,—
   - **related company** has the meaning given by section 2(3) of the Companies Act 1993
   - **reserve scheme** has the meaning given by section 71
   - **responsible financial service provider** is a person declared to be a responsible financial service provider under section 23(1)
+  - **retail client** has the meaning set out in section 49
   - **senior manager** means, in relation to a financial service provider, a person who is not a director but occupies a position that allows the person to exercise significant influence over the management or administration of that provider (for example, a chief executive or a chief financial officer)
-  - **tax agent** has the meaning given by section 3(1) of the Tax Administration Act 1994.
+  - **tax agent** has the meaning given by section 3(1) of the Tax Administration Act 1994
+  - **wholesale client** has the meaning set out in section 49.
 
 ### 5 Meaning of financial service
 In this Act, financial service means any of the following financial services:
   (a) a financial adviser service:
+  (ab) a broking service:
   (b) acting as a deposit taker as defined in the Reserve Bank of New Zealand Act 1989:
   (c) being a registered bank:
   (d) keeping, investing, administering, or managing money, securities, or investment portfolios on behalf of other persons:
@@ -89,38 +102,47 @@ In this Act, financial service means any of the following financial services:
   (f) operating a money or value transfer service:
   (g) issuing and managing means of payment (for example, credit and debit cards, cheques, travellers’ cheques, money orders, bankers’ drafts, and electronic money):
   (h) giving financial guarantees:
-  (i) participating in the offer of a security to the public as any of the following:
-    (i) an issuer, a contributory mortgage broker, a trustee, a unit trustee, a superannuation trustee, a statutory supervisor, a promoter, or a manager within the meaning of those terms in section 2(1) of the Securities Act 1978:
-    (ii) a public issuer within the meaning of that term in section 2(1) of the Securities Markets Act 1988:
+  (i) participating in an offer of securities to the public in either of the following capacities (within the meaning of those terms under section 2(1) of the Securities Act 1978):
+    (i) as an issuer of the securities:
+    (ii) as a promoter:
+  (ia) acting in any of the following capacities (within the meaning of those terms under section 2(1) of the Securities Act 1978) in respect of securities offered to the public:
+    (i) as a trustee:
+    (ii) as a unit trustee:
+    (iii) as a superannuation trustee:
+    (iv) as a manager:
   (j) changing foreign currency:
   (k) entering into derivative transactions, or trading in money market instruments, foreign exchange, interest rate and index instruments, transferable securities (including shares), and futures contracts on behalf of another person:
   (l) providing forward foreign exchange contracts:
-  (m) carrying on insurance business:
+  (m) acting as an insurer:
   (n) providing any other financial service that is prescribed for the purposes of New Zealand complying with the FATF Recommendations, other recommendations by FATF, or other similar international obligations that are consistent with the purpose of this Act.
 
 ### 6 Meaning of in the business of providing a financial service
 In this Act, in the business of providing a financial service means carrying on a business of providing or offering to provide a financial service (whether or not the business is the provider's only business or the provider's principal business).
 
 ### 7 Application of Act
-(1) This Act applies to people who are in the business of providing a financial service.
-(2) The following people are not financial service providers to whom this Act applies:
-  (a) a lawyer in the course of that person’s professional practice as a lawyer if the financial service is a necessary incident of legal practice:
-  (b) a chartered accountant in the course of that person’s professional practice as a chartered accountant if the financial service is a necessary incident of professional accounting practice:
-  (c) a tax agent in the course of that person's professional practice as a tax agent if the financial service is a necessary incident of tax practice:
-  (d) a real estate agent in the course of that person's professional practice as a real estate agent if the financial service is a necessary incident of real estate practice:
-  (e) the government departments listed in Schedule 1 of the State Sector Act 1988:
-  (f) the Reserve Bank of New Zealand (and any subsidiaries):
-  (g) the statutory entities listed in Schedule 1 of the Crown Entities Act 2004:
-  (h) any person engaged in terminating the business of a financial service provider after that provider has been deregistered:
-  (i) a non-profit organisation in respect of free financial services:
-  (j) an affiliated entity (except to the extent that the entity may be required to be registered under the Financial Advisers Act 2008):
-  (k) a trustee of a family trust in respect of financial services provided by the trustee to the beneficiaries of that trust:
-  (l) an employee, controlling owner, or director of a person listed in any of paragraphs (a) to (j) (while acting as an employee, controlling owner, or director):
-  (m) an employee, controlling owner, or director of a registered financial service provider (while acting as an employee, controlling owner, or director).
-(3) This Act does not apply with respect to financial services provided between related companies.
+(1) This Act applies to persons who are in the business of providing a financial service.
+(2) None of the following persons are in the business of providing a financial service for the purposes of this Act to the extent this subsection applies to them:
+  (a) a lawyer, incorporated law firm, conveyancing practitioner, chartered accountant, tax agent, or real estate agent providing a service in the ordinary course of business of the relevant kind:
+  (b) a government department listed in Schedule 1 of the State Sector Act 1988:
+  (c) the Reserve Bank of New Zealand (and any subsidiaries):
+  (d) the statutory entities listed in Schedule 1 of the Crown Entities Act 2004:
+  (e) a person engaged in terminating the business of a financial service provider after that provider has been deregistered:
+  (f) a non-profit organisation in respect of free financial services:
+  (g) an affiliated entity:
+  (h) an executor, administrator, or trustee in respect of services provided in the administration of an estate or a trustee in respect of services provided to beneficiaries of a family trust:
+  (i) a nominated representative (within the meaning of the Financial Advisers Act 2008) while acting in that capacity:
+  (j) an employer while providing services to enable employees of the employer to obtain rights or benefits under a registered superannuation scheme (as defined in section 2(1) of the Superannuation Schemes Act 1989) or a KiwiSaver scheme (as defined in section 4(1) of the KiwiSaver Act 2006), being a scheme in which that employer participates for the benefit of its employees:
+  (k) any person exempted, under regulations made under this Act or by or under any other enactment, from the application of this Act or from the requirement to register under this Act (to the extent of the relevant exemption).
+(3) If subsection (2) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person while acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
+(4) However, subsections (2) and (3) do not apply if, and to the extent that, any other enactment requires a person referred to in those subsections to be registered under this Act.
 
 ### 8 Act binds the Crown
 This Act binds the Crown.
+
+### 8A Territorial scope
+This Act applies to a person who—
+  (a) is ordinarily resident in New Zealand (within the meaning of section 4 of the Crimes Act 1961) or has a place of business in New Zealand, regardless of where the financial service is provided; or
+  (b) is, or is required to be, a licensed provider under a licensing enactment.
 
 ## Part 2 — Registration
 
@@ -140,13 +162,15 @@ The purpose of this Part is to—
 ### Subpart 1 — No holding out or being in business of providing financial service unless registered
 
 ### 11 No being in business of providing financial service unless registered
-(1) A person to whom this Act applies must not be in the business of providing a financial service unless that person is registered under this Part.
+(1) A person to whom this Act applies must not be in the business of providing a financial service unless that person is registered for that service under this Part.
 (2) Every person who knowingly breaches subsection (1) commits an offence and is liable on summary conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 
 ### 12 No holding out that in business of providing financial service unless registered
-(1) A person to whom this Act applies must not hold out (whether directly or indirectly) that the person is registered under this Act or entitled, qualified, able, or willing to be in the business of providing a financial service unless that person is registered under this Part.
+(1) A person to whom this Act applies must not—
+  (a) hold out that the person is registered under this Act unless that person is registered under this Part; or
+  (b) hold out that the person is registered in respect of a particular service or entitled, qualified, able, or willing to be in the business of providing a financial service unless that person is registered for that service under this Part.
 (2) Every person who knowingly breaches subsection (1) commits an offence and is liable on summary conviction,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $100,000, or to both; or
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
@@ -157,7 +181,7 @@ The purpose of this Part is to—
 A person is qualified to be registered as a financial service provider if—
   (a) the person is not disqualified under section 14; and
   (b) the person is a member of an approved dispute resolution scheme, or the reserve scheme, if required by section 48; and
-  (c) in the case of a person who provides or offers to provide a licensed service, the person is a licensed provider.
+  (c) if a licensing enactment requires the person to be a licensed provider, the person is, or will be (on and from commencing to be in the relevant business), a licensed provider.
 
 ### 14 Disqualified person
 (1) A person is disqualified if,—
@@ -184,14 +208,15 @@ A person is qualified to be registered as a financial service provider if—
   (b) be in the form (if any) required by the Registrar; and
   (c) confirm that the applicant is not disqualified under section 14; and
   (d) contain, or be accompanied by, any other prescribed information or documents; and
-  (e) be accompanied by the prescribed fee (if any).
-(2) If the application relates to a licensed service, it must be accompanied by any prescribed information required to become a licensed provider.
+  (e) be accompanied by the prescribed fee or levy (if any).
+(2) If the application relates to a licensed service, it must be accompanied by any information required, by or under the licensing enactment, to become a licensed provider.
 
 ### 16 Registration of financial service provider
 (1) If the Registrar accepts that an applicant is qualified to be registered as a financial service provider, the Registrar must—
   (a) enter the following details on the register (as relevant to the provider):
     (i) the name and business address of the provider:
     (ii) the name and business address of the approved dispute resolution scheme or the reserve scheme of which the provider is a member:
+    (iia) the type or types of financial service for which the provider is registered:
     (iii) if the provider is a licensed provider in relation to a particular licensed service, that fact and the name and business address of the relevant licensing authority:
     (iv) any other information prescribed in regulations; and
   (b) allocate a due date for the provider’s annual confirmation, notify the provider of that date, and notify that date on the register.
@@ -201,8 +226,11 @@ A person is qualified to be registered as a financial service provider if—
 
 ### 17 Duty to notify changes relating to financial service provider
 (1) Each of the following persons must notify the Registrar about the following relevant changes relating to a financial service provider:
-  (a) a financial service provider, if the provider knows that the provider is no longer qualified for registration in accordance with section 13:
-  (b) in the case of a financial service provider that is a licensed provider, the relevant licensing authority:
+  (a) a financial service provider, if—
+    (i) the provider knows that the provider is no longer qualified for registration in accordance with section 13; or
+    (ii) the provider is in a business of providing a financial service for which the provider is not registered; or
+    (iii) the provider knows that any details on the register are no longer correct:
+  (b) the licensing authority, if the licensing authority knows that a financial service provider has ceased to be licensed:
   (c) the person responsible for an approved dispute resolution scheme or the reserve scheme of which a financial service provider was a member, if the person knows that the provider is no longer a member of that scheme.
 (2) The time within which a person must notify the Registrar under subsection (1) is 10 working days from the date the person comes to know about the change.
 (3) A financial service provider who breaches subsection (1)(a) commits an offence and is liable on summary conviction to a fine not exceeding $10,000.
@@ -213,9 +241,9 @@ A person is qualified to be registered as a financial service provider if—
 ### 18 Deregistration of financial service provider
 (1) The Registrar must deregister a financial service provider after a notice period in accordance with sections 19 and 20, if the Registrar is satisfied that the provider—
   (a) is no longer qualified to be registered in accordance with section 13; or
-  (b) is no longer in the business of providing a financial service; or
+  (b) is not in the business of providing a financial service (at any time after the expiry of 3 months after registration); or
   (c) has been registered because of a false or misleading representation or omission; or
-  (d) has proffered an application fee or annual confirmation fee that has subsequently been dishonoured, declined, or reversed.
+  (d) has proffered an application fee or annual confirmation fee or levy that has subsequently been dishonoured, declined, or reversed.
 (2) The Registrar must deregister a financial service provider if the provider so requests in writing, with effect from any future date requested. The Registrar must notify any relevant licensing authority of this deregistration.
 (3) For the purposes of this section and sections 19 and 20, notice period means 20 working days from the date of the Registrar’s notification under section 19.
 
@@ -241,7 +269,7 @@ If the Registrar deregisters a financial service provider, the Registrar must no
 ### 22 Reregistration of financial service provider
 (1) The Registrar may reregister a financial service provider who was deregistered—
   (a) on the grounds set out in section 18(1)(b) if the Registrar is satisfied that the financial service provider was still in the business of providing a financial service at the time of deregistration; or
-  (b) on the grounds set out in section 18(1)(d) if the Registrar is satisfied that the application fee or annual confirmation fee has been paid.
+  (b) on the grounds set out in section 18(1)(d) if the Registrar is satisfied that the application fee or annual confirmation fee or levy has been paid.
 (2) A reregistration is effective from the date of deregistration as if the deregistration had not occurred.
 (3) If the Registrar reregisters a financial service provider, the Registrar must notify—
   (a) the financial service provider; and
@@ -279,6 +307,7 @@ The purposes of the register are—
     (ii) access information about—
       (A) the name and business address of a registered financial service provider; and
       (B) the approved dispute resolution scheme or the reserve scheme of which a registered financial service provider is a member (if required by section 48); and
+      (BA) the type or types of financial service for which a financial service provider is registered; and
       (C) whether a registered financial service provider provides a licensed service; and
   (b) to assist any person in the exercise of the person’s powers or the performance of the person’s functions under this Act or any other enactment; and
   (c) to conform with New Zealand’s obligations under the FATF Recommendations.
@@ -287,6 +316,7 @@ The purposes of the register are—
 The register must contain the following information about each registered person (to the extent that the information is relevant):
   (a) the registered financial service provider’s name and business address:
   (b) the name and business address of the approved dispute resolution scheme or the reserve scheme of which the registered financial service provider is a member:
+  (ba) the type or types of financial service for which the registered financial service provider is registered:
   (c) in relation to a licensed provider,—
     (i) the relevant licensed service:
     (ii) the name and business address of the relevant licensing authority:
@@ -295,7 +325,7 @@ The register must contain the following information about each registered person
 ### 28 Annual confirmation
 (1) Each registered financial service provider must supply to the Registrar each year by the due date an annual confirmation of details relating to that provider.
 (2) The annual confirmation must—
-  (a) be in the form (if any) required by the Registrar and be accompanied by the prescribed fee (if any); and
+  (a) be in the form (if any) required by the Registrar and be accompanied by the prescribed fee (if any) and any levy payable by the provider; and
   (b) confirm that the provider is not disqualified under section 14; and
   (c) contain, or be accompanied by, any other prescribed information or documents.
 (3) If a registered financial service provider does not comply with subsection (1) by the due date, the Registrar may assume that the provider is no longer in the business of providing a financial service and sections 18 to 20 apply.
@@ -306,7 +336,7 @@ The Registrar must amend the register if—
   (b) a financial service provider informs the Registrar of information that is different from the information entered on the register (where the Registrar is satisfied that the situations described in section 18(1) do not apply); or
   (c) a licensing authority informs the Registrar that a registered financial service provider has become a licensed provider in relation to a particular licensed service; or
   (d) the Registrar is satisfied at any time that the register contains a typographical error or a mistake, or omits information supplied to the Registrar; or
-  (e) any other information prescribed by regulations.
+  (e) regulations made under this Act require the Registrar to do so in circumstances specified by the regulations.
 
 ### 30 Registrar may refuse to accept document
 The Registrar may refuse to accept a document received by the Registrar under this Act if that document—
@@ -382,7 +412,7 @@ A person who searches a public register for personal information for a purpose t
   (a) in the case of an individual, to a fine not exceeding $30,000:
   (b) in the case of a person who is not an individual, to a fine not exceeding $300,000.
 (9) In this section, relevant document means a document that contains information relating to whether a person—
-  (a) is in the business of providing a financial service; or
+  (a) is in the business of providing a financial service or a particular financial service; or
   (b) is holding out or has held out that the person is in the business of providing a financial service in breach of section 12; or
   (c) is qualified or has been qualified to be registered in accordance with section 13; or
   (d) has made a false or misleading representation or omission in breach of section 41.
@@ -406,8 +436,8 @@ A person who searches a public register for personal information for a purpose t
   (b) no person is excused from fulfilling an obligation under that section by reason of that appeal or application.
 (2) Subsection (3) overrides subsection (1).
 (3) If the appeal or application is allowed or granted,—
-  (a) the Registrar must ensure that, as soon as is reasonably practicable after the Court’s decision is delivered, any copy of a document taken or retained under section 37 is destroyed; and
-  (b) no information acquired under section 37 is admissible in evidence in any proceedings unless the Court hearing the proceedings in which it is sought to adduce the evidence is satisfied it was not obtained unfairly.
+  (a) the Registrar must ensure that, as soon as is reasonably practicable after the court’s decision is delivered, any copy of a document taken or retained under section 37 is destroyed; and
+  (b) no information acquired under section 37 is admissible in evidence in any proceedings unless the court hearing the proceedings in which it is sought to adduce the evidence is satisfied it was not obtained unfairly.
 
 ### Subpart 5 — Miscellaneous
 
@@ -427,8 +457,8 @@ If any financial service provider that is not an individual commits an offence a
   (a) not registering an applicant as a financial service provider under section 16:
   (b) a deregistration under section 18:
   (c) a decision of the Registrar or a person authorised by the Registrar under section 37.
-(2) The time within which an appeal under subsection (1) may be made is 20 working days after the date of notification of the decision, or within any further time that the Court allows.
-(3) On appeal, the Court may do any of the following:
+(2) The time within which an appeal under subsection (1) may be made is 20 working days after the date of notification of the decision, or within any further time that the court allows.
+(3) On appeal, the court may do any of the following:
   (a) confirm, modify, or reverse the decision or any part of it:
   (b) exercise any of the powers that could have been exercised by the Registrar in relation to the matter to which the appeal relates:
   (c) refer the decision back to the Registrar with directions to reconsider the whole or a specified part of the act or decision.
@@ -437,8 +467,10 @@ If any financial service provider that is not an individual commits an offence a
 Unless the High Court orders otherwise, a decision appealed against under section 42 continues in effect.
 
 ### 44 Regulations under Part 1 and this Part
-(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
+(1) The Governor-General may, by Order in Council on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (aa) declaring a class of contract to be a contract of insurance for the purposes of this Act:
   (a) prescribing a financial service for the purposes of section 5(n):
+  (ab) exempting any service or person or class of service or persons from the application of this Act, and prescribing the terms and conditions (if any) of the exemption:
   (b) specifying information or documents to be included in, or provided with, applications, and requiring documents to be signed by specified persons:
   (c) prescribing procedures, requirements, and other matters, not inconsistent with this Part or with the purposes described in section 26, relating to the register, including matters that relate to—
     (i) the operation of the register:
@@ -451,8 +483,11 @@ Unless the High Court orders otherwise, a decision appealed against under sectio
     (ii) an overseas agency that is the equivalent of the Registrar or of a body referred to in section 34(4)(a) to (c) for the purposes of section 34:
   (e) prescribing fees payable to the Registrar in respect of any matter under this Act or the manner in which fees may be calculated:
   (f) providing for any other matters contemplated by Part 1 or by this Part, necessary for its administration, or necessary for giving it full effect.
+(1A) The Minister must, in relation to a recommendation under subsection (1)(ab),—
+  (a) before making a recommendation, have regard to New Zealand's obligations under the FATF Recommendations; and
+  (b) not make the recommendation unless the Minister is satisfied that the costs of compliance with this Act would be unreasonable or not justified by the benefit of compliance.
 (2) Without limiting subsection (1)(b), information or documents may be prescribed under that subsection for the purpose of assisting any person with the person’s powers, functions, or duties as a licensing authority under the relevant enactment identified in Schedule 2 (regardless of whether or not that information or documentation is collected for the purposes of this Part).
-(3) The Registrar may refuse to perform a function or exercise a power until a prescribed fee is paid.
+(3) The Registrar may refuse to perform a function or exercise a power until a prescribed fee or levy is paid.
 (4) Any Order in Council made under subsection (1)(e) may—
   (a) prescribe the method of payment of a fee; and
   (b) authorise the Registrar to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee in relation to any person or class of persons.
@@ -468,7 +503,7 @@ Unless the High Court orders otherwise, a decision appealed against under sectio
 (3) As soon as practicable after receiving the report, the Minister must present a copy of that report to the House of Representatives.
 
 ### 46 Territorial scope
-This Act applies to the provision in New Zealand of a financial service by a person who is in New Zealand, regardless of where the financial service provider is resident, is incorporated, or carries on business.
+[Repealed]
 
 ## Part 3 — Dispute resolution
 
@@ -478,19 +513,80 @@ The purpose of this Part is to promote confidence in financial service providers
 ### Subpart 1 — Financial service provider must be member of dispute resolution scheme
 
 ### 48 Financial service provider must be member of dispute resolution scheme
-(1) Every financial service provider must be a member of either an approved dispute resolution scheme, or the reserve scheme, in respect of a financial service provided to the public.
+(1) Every financial service provider must be a member of either an approved dispute resolution scheme, or the reserve scheme, in respect of a financial service provided to a retail client.
 (2) A member, in relation to an approved dispute resolution scheme or the reserve scheme, is a financial service provider who may be the subject of a complaint to that scheme.
+(3) However, this obligation does not apply—
+  (a) to a financial service provider if—
+    (i) it is in the business of providing financial services only because it is an issuer or promoter participating in 1 or more offers of securities to the public; and
+    (ii) doing so is not its only or principal business; or
+  (b) to a financial service provider if it is exempted from the obligation by or under any other Act or by regulations made under section 79.
 
-### 49 Meaning of reference to providing financial service to public
-(1) The reference in section 48 to providing a financial service to the public includes—
-  (a) a reference to providing the service to any section of the public, however selected; and
-  (b) a reference to providing the service to a person if the person became known to the provider as a result of any advertisement made by or on behalf of the provider and that was intended or likely to result in the public seeking further information or advice about the service.
-(2) Providing a financial service to any or all of the following persons only does not constitute providing the service to the public:
-  (a) relatives (within the meaning of the Human Rights Act 1993), related companies, or close business associates of the provider:
-  (b) persons, or classes of persons, that are connected to the provider in the prescribed manner or that meet prescribed criteria:
-  (c) any other person who in all the circumstances can properly be regarded as having been selected otherwise than as a member of the public.
-(3) A person is not precluded from being regarded as a member of the public in regard to the provision of a financial service to the person by reason only that the person is a purchaser of goods or services from, or an employee or client of, the provider.
-(4) Proof of providing a financial service to 1 person selected as a member of the public is prima facie evidence of providing the service to the public.
+### 49 Who are retail clients
+(1) A retail client is any person who receives a financial service who is not a wholesale client.
+(2) The following persons who receive a financial service are wholesale clients in respect of that financial service:
+  (a) a person who is in the business of providing any financial service and receives the financial service in the course of that business:
+  (b) a person whose principal business is the investment of money or who, in the course of and for the purposes of the person's business, habitually invests money:
+  (c) an entity to which at least 1 of the following applied at the end of each of the last 2 completed accounting periods:
+    (i) at the balance date, the net assets of the entity exceeded $1 million:
+    (ii) the turnover of the entity for the accounting period exceeded $1 million:
+  (d) a related body corporate (within the meaning of section 5B(2) of the Securities Markets Act 1988) of an entity to which paragraph (c) applies:
+  (e) a local authority, a Crown entity, a State enterprise, the Reserve Bank of New Zealand, and the National Provident Fund (and a company appointed under clause 3(1)(b) of Schedule 4 of the National Provident Fund Restructuring Act 1990):
+  (f) a person who falls within 1 or more of the categories listed in section 3(2), 5(2CB), or 5(2CBA) of the Securities Act 1978 if the service relates to securities that may be offered to that person, or that have been subscribed for by that person, in a private offer of securities:
+  (g) an eligible investor under section 49A:
+  (h) if the financial service is a financial adviser service or a broking service, a person who is a wholesale client in respect of that service under the Financial Advisers Act 2008.
+(3) If subsection (2) applies to a person (A), it applies equally to any controlling owner, director, employee, agent, or other person acting in the course of, and for the purposes of, A's business to the same extent as it applies to A.
+(4) In this section,—
+  - **entity** —
+    (a) includes a body corporate and an unincorporated body (including partners in a partnership, members of a joint venture, or the trustees of a trust) and the sole trustee of a trust acting in his, her, or its capacity as trustee of that trust; but
+    (b) does not include an individual
+  - **private offer of securities** means an offer of securities that—
+    (a) does not constitute an offer of securities to the public under section 3 of the Securities Act 1978; or
+    (b) is exempt from Part 2 (other than sections 38B and 58) of that Act under section 5(2CB) or 5(2CBA) of that Act.
+
+### 49A Who are eligible investors
+(1) A client is an eligible investor if—
+  (a) the client certifies in writing that the client understands that, as a consequence of certifying himself, herself, or itself to be an eligible investor, the financial service provider may not be a member of an approved dispute resolution scheme; and
+  (b) the client states the reasons for this certification; and
+  (c) a financial service provider signs a written acceptance of the certification in accordance with section 49B.
+(2) A certification may be specific to a particular service or class of services or may be general (but is effective only in relation to services provided after all of the requirements of subsection (1)(a) to (c) are met).
+
+### 49B Acceptance of certification
+(1) A financial service provider must not accept a certification unless he, she, or it, having considered the client's reasons for the certification,—
+  (a) is satisfied that the client has been sufficiently advised of the consequences of the certification; and
+  (b) has no reason to believe that the certification is incorrect or that further information or investigation is required as to whether or not the certification is correct.
+(2) The person who accepts the certification of a client may be the person providing the financial services to the client (but does not need to be).
+(3) A financial service provider who accepts a certification without having complied with subsection (1) contravenes a wholesale certification requirement.
+(4) Contravention of this section may give rise to a pecuniary penalty order or compensatory order (see sections 79A and 79B).
+
+### 49C Revocation of certification
+(1) A client who is an eligible investor may revoke a certification, in relation to a financial service provider to whom the certification has been given, by giving the financial service provider a signed notification to that effect.
+(2) A revocation is effective only in relation to services provided after it is given.
+
+### 49D How to opt out of being wholesale client
+(1) A person may opt out of being a wholesale client, in relation to a financial service provider, by giving the financial service provider a signed notification to that effect.
+(2) A notification may be specific to a particular service, or class of services, or may be general for all services provided by the financial service provider to whom it is given.
+(3) A person may vary or revoke a notification in the same way as the notification may be given.
+(4) A notification (or variation or revocation of a notification) under this section is effective only in relation to services provided after it is given.
+(5) This section does not apply if a person is a wholesale client by reason of being an eligible investor.
+
+### 49E Giving revocation of certification or notification of opt out
+(1) A revocation of a certification under section 49C or a notification under section 49D is sufficiently given to a financial service provider if—
+  (a) it is provided to the financial service provider; or
+  (b) delivered or posted to the financial service provider at the person's business address stated on the register or (if not registered) the person's last known place of business in New Zealand; or
+  (c) sent by fax or email to the person's fax number or email address stated on the register.
+(2) The revocation or notification is treated as received by the person no later than 7 days after it is posted or 2 days after it is faxed or emailed, unless the person to whom it is posted or sent proves that it was not received (otherwise than through fault on the person's part).
+
+### 49F Members of dispute resolution scheme must comply with rules and binding resolutions
+(1) A member of an approved dispute resolution scheme or the reserve scheme must comply with the rules of the scheme.
+(2) On the application of the person responsible for the scheme, a District Court may make an order requiring a member of the scheme to do either or both of the following:
+  (a) comply with the rules of the scheme:
+  (b) comply with a resolution of a complaint that constitutes a binding resolution under those rules (a binding settlement).
+(3) If a District Court is satisfied that the terms of a binding settlement of a complaint are manifestly unreasonable, the court's order under subsection (2) may modify the terms of the binding settlement.
+(4) If an order requiring a member to comply with a binding settlement includes a requirement that the member pay an amount of money to a person, that order (or part of the order) may be enforced as if it were a judgment by a District Court for the payment of a sum of money.
+
+### 49G Offence to fail to comply with District Court order
+(1) A member of an approved dispute resolution scheme or the reserve scheme who, knowing that the member is subject to an order made under section 49F, fails to comply with the order, or fails to comply with the order within the time or in the manner required by the order, commits an offence and is liable on summary conviction to a fine not exceeding $200,000.
+(2) Nothing in this section applies to an order or part of an order of a District Court referred to in section 49F(4).
 
 ### Subpart 2 — Approval of dispute resolution schemes
 
@@ -610,11 +706,7 @@ The person responsible for an approved dispute resolution scheme must issue rule
   (d) how complaints about a member may be made for resolution by the scheme:
   (e) a period after which the scheme, if asked by a complainant, must investigate a complaint that has been made directly to a member:
   (f) that complaints about members must be investigated in a way that is consistent with the rules of natural justice:
-  (g) that complaints about members may be made relating to any of the following things:
-    (i) breaches of contract by the member:
-    (ii) breaches of statutory obligations by the member:
-    (iii) breaches of industry codes by the member:
-    (iv) any other matters provided for in the rules:
+  (g) that the scheme has jurisdiction in respect of a breach of contract, statutory obligation, or industry code, or any other matter provided for in the rules:
   (h) that any information may be considered in relation to a complaint and any inquiry made that is fair and reasonable in the circumstances:
   (i) the remedial action that the scheme can impose on a member to resolve a complaint (for example, a requirement to change systems or to compensate a complainant up to a certain amount stated in the rules):
   (j) how remedial action may be enforced against the scheme’s members, including after members have left the scheme:
@@ -648,7 +740,8 @@ The person responsible for an approved dispute resolution scheme must notify the
 The person responsible for an approved dispute resolution scheme must—
   (a) co-operate with other approved dispute resolution schemes and with the reserve scheme if a complaint involves members of those other schemes (disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
-  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority.
+  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority:
+  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Securities Commission.
 
 **Annual reports and information requests by Minister**
 
@@ -676,7 +769,8 @@ The reserve scheme is a dispute resolution scheme that has been appointed by Ord
 ### 72 Appointment of reserve scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister,—
   (a) appoint a dispute resolution scheme to fulfil the functions of the reserve scheme (with or without conditions) for a term recommended by the Minister; and
-  (b) prescribe rules about the functions of the reserve scheme.
+  (b) prescribe rules about the functions of the reserve scheme; and
+  (c) prescribe rules about the funding of the reserve scheme (see section 72A).
 (2) Rules made under subsection (1)(b) must provide for equivalent matters to those required by section 63 to be provided for, or set out, in the rules of an approved dispute resolution scheme.
 (3) The Minister may make a recommendation only if—
   (a) the person responsible for the scheme consents in writing to the scheme being appointed to fulfil the functions of the reserve scheme in accordance with the rules made under subsection (1)(b); and
@@ -695,6 +789,20 @@ The reserve scheme is a dispute resolution scheme that has been appointed by Ord
   (a) the governance arrangements relating to the reserve scheme:
   (b) other prescribed matters that relate to the principles listed in section 52(2).
 (8) The Minister's first recommendation for an Order in Council referred to in subsection (1) must be made within 2 years of this section coming into force.
+
+### 72A Reserve scheme: rules about fees and charges
+(1) Rules made under section 72(1)(c) may—
+  (a) provide for an applicant for membership, or for renewal of membership, to pay a fee in respect of the application:
+  (b) require members to pay a membership fee:
+  (c) if a complaint is made about a member, require the member to pay a charge in respect of the complaint in circumstances provided in the rules:
+  (d) exempt a person or class of persons from liability to pay a fee or charge in whole or in part:
+  (e) provide for the refund or waiver of a fee or charge, in whole or in part, for a person or class of persons:
+  (f) provide for the termination of the membership of a member who fails to pay a fee or charge within the period provided in the rules.
+(2) The charge under subsection (1)(c) may be—
+  (a) a fixed amount; or
+  (b) an amount calculated by reference to the costs of investigating and determining the complaint; or
+  (c) a combination of the amounts referred to in paragraphs (a) and (b).
+(3) Rules for the purposes of this section may make different provision for different classes of financial service provider.
 
 ### 73 Revocation of appointment as reserve scheme
 (1) The Governor-General may, by Order in Council made on the recommendation of the Minister, revoke an appointment made under section 72(1)(a).
@@ -723,25 +831,13 @@ The reserve scheme is a dispute resolution scheme that has been appointed by Ord
 The person responsible for a reserve scheme must—
   (a) co-operate with approved dispute resolution schemes if a complaint involves members of those schemes (disclosing personal information in accordance with the Privacy Act 1993 and protecting information that is subject to an obligation of confidence); and
   (b) co-operate with the Registrar, including by communicating information to the Registrar in accordance with sections 17 and 34; and
-  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority.
+  (c) if there is a series of material complaints about a particular licensed provider or class of licensed provider, communicate that fact to the relevant licensing authority:
+  (d) if there is a series of material complaints about a particular broker or class of broker, communicate that fact to the Securities Commission.
 
 **Levy to fund reserve scheme**
 
 ### 77 Levy to fund reserve scheme
-(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations—
-  (a) specifying that levies to fund the reserve scheme are payable by all members or by any class of members, and that different levies may apply to members who provide different types of financial service:
-  (b) specifying the amounts of levies payable under this section:
-  (c) providing for the method by which levies will be calculated:
-  (d) specifying the criteria and other requirements by and against which levies will be set or reset:
-  (e) specifying the financial year or part-financial year to which levies apply:
-  (f) providing for the payment and collection of levies:
-  (g) exempting any member from paying levies:
-  (h) providing for waivers or refunds of the whole or any part of any levy paid by any member or class of members:
-  (i) providing for interest to be paid if a member fails to pay levies by the due date specified in the regulations:
-  (j) enabling the reserve scheme to terminate the membership of a member who has failed to pay levies by the due date specified in the regulations.
-(2) Regulations made under subsection (1) must provide that no other membership fee apart from the levies may be charged by the reserve scheme.
-(3) The Minister may only make a recommendation under subsection (1) after consultation with any persons (or their representatives) that the Minister considers are likely to be substantially affected by the regulations.
-(4) A failure to comply with subsection (3) does not affect the validity of an Order in Council made under subsection (1).
+[Repealed]
 
 ### Subpart 4 — Miscellaneous
 
@@ -755,13 +851,37 @@ The person responsible for a reserve scheme must—
   (a) the names of approved dispute resolution schemes and the name and business address of the person responsible for each scheme; and
   (b) the name of the reserve scheme and the name and business address of the person responsible for the reserve scheme.
 
+**Levy**
+
+### 78A Levy
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations requiring registered financial service providers (or a prescribed class of financial service providers) to pay a levy to the Minister.
+(2) The purpose of the levy is to meet, in whole or in part, the costs of—
+  (a) the Ministry's functions under this Part (including the costs of collecting the levy); and
+  (b) the reserve scheme (to the extent that these are not met by fees and charges imposed in rules made under section 72(1)(c)).
+(3) Regulations under this section may—
+  (a) specify an amount payable as the levy or a method of calculating or ascertaining the levy (which may be based on the estimated costs):
+  (b) include or provide for including in the levy any shortfall in recovering the actual costs:
+  (c) refund or provide for refunds of any over-recovery of those actual costs:
+  (d) specify the financial year or part financial year to which the levy applies, and apply the levy to that financial year and each subsequent financial year until the levy is revoked or repealed:
+  (e) for the first financial year to which the levy applies, include in the levy costs from 1 January 2009:
+  (f) require payment of a levy for a financial year or part financial year irrespective of the fact that the regulations may be made after that financial year has commenced:
+  (g) provide for the collection and payment of the levy, including the time by which the levy must be paid:
+  (h) exempt a person or class of persons from liability to pay the levy, in whole or in part:
+  (i) provide for a waiver or refund of the levy, in whole or in part, for a person or class of persons:
+  (j) provide for interest to be paid if a person fails to pay the levy by the due date.
+(4) Regulations under this section may make different provision for different classes of registered financial service providers including, without limitation, for—
+  (a) members of the reserve scheme:
+  (b) members of approved dispute resolution schemes:
+  (c) those who provide different types of financial service.
+(5) The levy is recoverable as a debt due to the Crown.
+(6) Before making a recommendation under subsection (1), the Minister must consult with persons or representatives of persons that the Minister considers are likely to be substantially affected by the proposed regulations.
+(7) A failure to comply with subsection (6) does not affect the validity of the regulations.
+
 **Regulations under this Part**
 
 ### 79 Regulations under this Part
-(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:
-  (a) prescribing, for the purposes of section 49(2)(b),—
-    (i) persons, or classes of persons, that are connected to a financial service provider; or
-    (ii) criteria that persons, or classes of persons, must meet:
+(1) The Governor-General may, by Order in Council made on the recommendation of the Minister, make regulations for all or any of the following purposes:
+  (a) exempting any person or class of persons from the obligation to be a member of either an approved dispute resolution scheme or the reserve scheme, and prescribing the terms and conditions (if any) of the exemption:
   (b) prescribing the information or documents to be supplied to the Minister as part of an application under this Part:
   (c) prescribing processes for applications for the approval of dispute resolution schemes:
   (d) prescribing rules for a class of approved dispute resolution scheme or for all approved dispute resolution schemes in the event that approval of those schemes is withdrawn:
@@ -770,11 +890,34 @@ The person responsible for a reserve scheme must—
     (ii) information about a scheme’s operation (including complaints received):
   (f) prescribing fees payable in respect of any matter under this Part or the manner in which fees may be calculated:
   (g) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
+(1A) The Minister must not recommend the making of regulations under subsection (1)(a), unless the Minister is satisfied that—
+  (a) the exemption is consistent with the purposes of this Act; and
+  (b) the costs of compliance with the obligation would be unreasonable or not justified by the benefits of compliance.
 (2) The Minister may refuse to make a decision under this Part until the prescribed fee is paid.
 (3) Any Order in Council made under subsection (1) may—
   (a) prescribe the method of payment of a fee; and
   (b) authorise the Minister to refund or waive, in whole or in part and on any prescribed conditions, payment of a fee in relation to any person or class of persons.
 (4) Any fee or amount payable under this Part is recoverable in any court of competent jurisdiction as a debt due to the Crown.
+
+**Pecuniary and compensatory orders for contravening wholesale certification requirement**
+
+### 79A Pecuniary order for contravening wholesale certification requirement
+(1) The High Court may, on application by the Commission, order a person to pay a pecuniary penalty to the Crown if the court is satisfied that the person has, without reasonable excuse, contravened a wholesale certification requirement under section 49B.
+(2) The amount of the pecuniary penalty must not, in respect of each act or omission, exceed $100,000 in the case of an individual or $300,000 in the case of an entity.
+(3) In setting the amount of the pecuniary penalty, the court must take into account all of the following matters:
+  (a) the nature and extent of the contravention:
+  (b) the nature and extent of any loss or damage suffered by a person as a result of the contravention, including the effect on a person of the loss of the opportunity to make a complaint to an approved dispute resolution scheme or the reserve scheme:
+  (c) the circumstances in which the contravention took place (including whether the contravention was intentional, inadvertent, or caused by negligence):
+  (d) whether the person has previously been found by the court in proceedings under this Act to have engaged in similar conduct.
+(4) A financial service provider may not be liable to more than 1 pecuniary penalty in respect of the same conduct.
+(5) Proceedings under this section may be commenced at any time within 3 years after the contravention occurred.
+
+### 79B Compensation for contravention of wholesale certification requirement
+(1) If the court orders a person to pay a pecuniary penalty under section 79A in respect of the contravention of a wholesale certification requirement, the court may, in addition, order a person to pay compensation to any person who has suffered, or is likely to suffer, loss or damage as a result of the contravention (the aggrieved person).
+(2) An application for orders under this section may be made by the Commission or any aggrieved person.
+(3) The application must be made within 1 year of the date of the pecuniary penalty order.
+(4) The court may make an order under this section whether or not any aggrieved person is a party to the proceedings.
+(5) In proceedings under this section, the court may make such orders as it thinks fit.
 
 **Review and report on operation of this Part**
 
@@ -799,7 +942,5 @@ The enactment specified in Schedule 1 is amended in the manner indicated in that
 
 | Licensing authority | Licensed provider | Enactment |
 | --- | --- | --- |
-| Government Actuary | Registered superannuation schemes | Superannuation Schemes Act 1989 |
-| Government Actuary | Registered KiwiSaver schemes | KiwiSaver Act 2006 |
 | Securities Commission | Authorised financial advisers and qualifying financial entities | Financial Advisers Act 2008 |
 | Reserve Bank of New Zealand | Registered banks | Reserve Bank of New Zealand Act 1989 |
