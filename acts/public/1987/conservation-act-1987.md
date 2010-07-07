@@ -1,5 +1,5 @@
 # Conservation Act 1987
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2010-07-07_
 
 > An Act to promote the conservation of New Zealand's natural and historic resources, and for that purpose to establish a Department of Conservation
 
@@ -24,13 +24,13 @@ _Consolidation as at 2010-04-20_
   - **certified aerodrome** means an aerodrome licensed under the Civil Aviation Regulations 1953 or certificated under rules made under the Civil Aviation Act 1990
   - **companion dog** means a dog certified by the Top Dog Companion Trust as being a companion dog or a dog under training as a companion dog
   - **concession** or —
-    (a) means— granted under Part 3B of this Act; and
+    (a) means—granted under Part 3B of this Act; and
       (i) a lease; or
       (ii) a licence; or
       (iii) a permit; or
       (iv) an easement—
     (b) includes any activity authorised by the concession document
-  - **concessionaire** means a person who is— under Part 3B of this Act
+  - **concessionaire** means a person who is—under Part 3B of this Act
     (a) a lessee; or
     (b) a licensee; or
     (c) a permit holder; or
@@ -50,7 +50,6 @@ _Consolidation as at 2010-04-20_
   - **Deputy Director-General** means a Deputy Director-General of Conservation
   - **Director** means the manager of the New Zealand Fish and Game Council
   - **Director-General** means the Director-General of Conservation
-  - **District Anglers Notice**
   - **effect** has the same meaning as it has in the Resource Management Act 1991
   - **Fish and Game Council** means a Fish and Game Council established under section 26P of this Act
   - **fish and game ranger** means a fish and game ranger appointed pursuant to section 26FA of this Act or deemed to be appointed under that section
@@ -80,7 +79,7 @@ _Consolidation as at 2010-04-20_
   - **indigenous fish** means any freshwater fish that is indigenous to New Zealand
   - **interest** , in relation to any land, includes an estate in, and a right over or in respect of, the land; but does not include any right under or in respect of any covenant registered against land
   - **lake** means a body of fresh water whose bed has an area of 8 hectares or more and which is entirely or nearly surrounded by land
-  - **lease** — and has a corresponding meaning
+  - **lease** —and has a corresponding meaning
     (a) means—
       (i) a grant of an interest in land that—
         (A) gives exclusive possession of the land; and
@@ -92,18 +91,17 @@ _Consolidation as at 2010-04-20_
     (a) means—
       (i) a profit a prendre or any other grant that gives a non-exclusive interest in land; or
       (ii) a grant that makes provision for any activity on the land that the licensee is permitted to carry out; and
-    (b) includes— and licensee has a corresponding meaning
+    (b) includes—and licensee has a corresponding meaning
       (i) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a) of this definition) and issued under any former Act; and
       (ii) any document purporting to be a licence and purporting to grant an exclusive interest in land, and issued under any former Act or issued under this Act before the commencement of section 2(2) of the Conservation Amendment Act 1996; and
       (iii) any document purporting to be a licence (whether or not the licence gives an interest, or makes any provision, referred to in paragraph (a) of this definition) and issued under this Act before the commencement of the said section 2(2);—
   - **livestock** means any ass, cattle, or other browsing animal (not being a deer or goat or a marine mammal, fish, or shellfish), horse, mule, sheep, or swine, of whatever age or sex and whether or not neutered; and includes any animal, of whatever age or sex and whether or not neutered, of a class declared to be livestock for the purposes of this Act by the Governor-General by Order in Council
-  - **Management plan**
   - **manawhenua** means customary authority exercised by an iwi or hapu or individual in an identified area
   - **Maori** has the same meaning as in Te Ture Whenua Maori Act 1993
   - **Maori land** has the same meaning as in Te Ture Whenua Maori Act 1993
   - **marginal strip** means any strip of land reserved or deemed to be reserved by section 24 or section 24E(3) or section 24G of this Act for the purposes specified in section 24C of this Act; and includes any part of any such strip
   - **Minister** means the Minister of Conservation
-  - **natural resources** means— and includes any interest in a natural resource
+  - **natural resources** means—and includes any interest in a natural resource
     (a) plants and animals of all kinds; and
     (b) the air, water, and soil in or on which any plant or animal lives or may live; and
     (c) landscape and landform; and
@@ -115,7 +113,7 @@ _Consolidation as at 2010-04-20_
   - **Nga Whenua Rahui kawenata** means an agreement entered into under section 27A of this Act
   - **open dog area** means any area declared, by notice published in the Gazette under section 26ZS of this Act, to be an open dog area
   - **operational work plan** means an annual operational work plan having effect under section 26Q(3) of this Act
-  - **owner** , in relation to any dog, means every person who— but does not include any person who has seized or taken custody of the dog under this Act or the Animal Welfare Act 1999 or the National Parks Act 1980 or the Dog Control Act 1996 or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
+  - **owner** , in relation to any dog, means every person who—but does not include any person who has seized or taken custody of the dog under this Act or the Animal Welfare Act 1999 or the National Parks Act 1980 or the Dog Control Act 1996 or any order made under the Dog Control Act 1996 or the Animal Welfare Act 1999
     (a) owns the dog; or
     (b) has the dog in his or her possession, whether the dog is at large or in confinement, otherwise than for a period not exceeding 72 hours for the purpose of preventing the dog causing injury, damage, or distress, or for the sole purpose of restoring a lost dog to its owner; or
     (c) the parent or guardian of a person under the age of 16 years who—
@@ -810,7 +808,7 @@ The following provisions shall apply to the preparation and approval of draft co
 In granting any concession, the Minister may impose such conditions as he or she considers appropriate for the activity, structure, or facility, including (but not limited to) conditions relating to or providing for—
   (a) the activity itself, the carrying out of the activity, and the places where it may be carried out:
   (b) the name and full address of every person or body to whom the concession is granted and who may carry out the activity:
-  (c) The payment of rent, fees, and royalties as provided in section 17Y of this Act:
+  (c) the payment of rent, fees, and royalties as provided in section 17Y of this Act:
   (d) the payment of compensation for any adverse effects of the activity on the Crown's or public interest in the land concerned, unless such compensation has been provided for in the setting of rent:
   (e) the provision by the concessionaire of bonds—
     (i) to cover any costs incurred by the Minister in carrying out work that the concessionaire has failed to carry out and that was required by the concession document to be carried out; or
@@ -859,7 +857,7 @@ In granting any concession, the Minister may impose such conditions as he or she
   (a) the variation is of a minor and technical nature and does not materially increase the adverse effects of the activity or the term of the activity or materially change the location of the activity; or
   (b) the variation will result in a reduction of the adverse effects or the duration of the activity.
 (2) The concessionaire may at any time apply to the Minister for a variation or extension to the concession and such application shall be treated as if it were an application for a concession; and the provisions of sections 17S to 17ZB of this Act shall apply accordingly.
-(3) The Minister, on request or on his or her own motion, may vary the conditions of a concession where— and the concessionaire shall be bound by every such variation.
+(3) The Minister, on request or on his or her own motion, may vary the conditions of a concession where—and the concessionaire shall be bound by every such variation.
   (a) the variation is the result of a review provided for in the concession document; or
   (b) the variation is necessary to deal with significant adverse effects of the activity that were not reasonably foreseeable at the time the concession was granted; or
   (c) the variation is necessary because the information made available to the Minister by the concessionaire for the purposes of the concessionaire's application contained inaccuracies that materially influenced the decision to grant a concession and the effects of the activity permitted by the concession require more appropriate conditions;—
@@ -960,7 +958,7 @@ Every ecological area shall so be managed as to protect the value for which it i
 Every sanctuary area shall be managed to preserve in their natural state the indigenous plants and animals in it, and for scientific and other similar purposes.
 
 ### 23 Watercourse areas
-(1) Subject to subsections (2) and (3) of this section, if satisfied that any land that is— adjoins any river, lake, or stream, for which a water conservation order has been made under the Resource Management Act 1991, or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the Gazette, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
+(1) Subject to subsections (2) and (3) of this section, if satisfied that any land that is—adjoins any river, lake, or stream, for which a water conservation order has been made under the Resource Management Act 1991, or that is otherwise protected, and has, when considered with the river, lake, or stream, outstanding wild, scenic, or other natural or recreational characteristics, the Minister may, by notice in the Gazette, declare it to be held for the purpose of a watercourse area; and, subject to this Act, it shall thereafter be so held.
   (a) land held under this Act for conservation purposes; or
   (b) a reserve classified pursuant to section 16 of the Reserves Act 1977; or
   (c) held under section 21(2)(a) of the Queen Elizabeth the Second National Trust Act 1977; or
@@ -992,7 +990,7 @@ Every amenity area shall be so managed—
   (a) any foreshore; or
   (b) the normal level of the bed of any lake not subject to control by artificial means; or
   (c) the bed of any river or any stream (not being a canal under the control of a State enterprise within the meaning of section 2 of the State-Owned Enterprises Act 1986 and used by the State enterprise for, or as part of any scheme for, the generation of electricity), being a bed that has an average width of 3 metres or more.
-(2) There shall be deemed to be reserved from the sale or other disposition by the Crown of any land extending along and abutting the landward margin of any lake controlled by artificial means a strip of land that— whichever is the greater.
+(2) There shall be deemed to be reserved from the sale or other disposition by the Crown of any land extending along and abutting the landward margin of any lake controlled by artificial means a strip of land that—whichever is the greater.
   (a) is 20 metres wide; or
   (b) has a width extending from the maximum operating water level to the maximum flood level of the lake,—
 (2A) Where the Crown proposes to sell or otherwise dispose of any land, the responsible department of State or agency shall notify the Director-General of the proposal; and the sale or other disposition shall have no effect unless and until that requirement is complied with.
@@ -1014,7 +1012,7 @@ Every amenity area shall be so managed—
 
 ### 24A Power to reduce width of marginal strip
 (1) Notwithstanding section 24 of this Act, in the case of a marginal strip extending along and abutting the landward margin of the sea or a lake, the Minister may, at any time before the disposition by the Crown of the land adjoining the marginal strip, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in section 24C of this Act will not be diminished.
-(2) Notwithstanding section 24 of this Act, in the case of land extending along and abutting the bed of a river or stream where— the Minister may, at any time before the disposition by the Crown of the land, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in section 24C of this Act will not be diminished.
+(2) Notwithstanding section 24 of this Act, in the case of land extending along and abutting the bed of a river or stream where—the Minister may, at any time before the disposition by the Crown of the land, approve the reduction of the width of the strip to not less than 3 metres if he or she is satisfied that its value in terms of the purposes specified in section 24C of this Act will not be diminished.
   (a) the bed is not less than 3 metres in width; and
   (b) the land (including the marginal strip) contains not more than 2 hectares,—
 
@@ -1178,7 +1176,7 @@ Every stewardship area shall so be managed that its natural and historic resourc
 
 ### 26 Disposal of stewardship areas
 (1) Subject to subsections (2) and (3) of this section, the Minister may dispose of any stewardship area that is not foreshore or any interest in any stewardship area that is not foreshore.
-(2) The Minister shall not dispose of any land or any interest in any land adjacent to— unless satisfied that its retention and continued management as a stewardship area would not materially enhance the conservation or recreational values of the adjacent conservation area or land or, in the case of any marginal strip, of the adjacent water, or public access to it.
+(2) The Minister shall not dispose of any land or any interest in any land adjacent to—unless satisfied that its retention and continued management as a stewardship area would not materially enhance the conservation or recreational values of the adjacent conservation area or land or, in the case of any marginal strip, of the adjacent water, or public access to it.
   (a) any conservation area that is not a stewardship area; or
   (b) land administered by the Department under some enactment other than this Act,—
 (3) The Minister shall not dispose of any land or any interest in land without first giving notice of intention to do so; and section 49 of this Act shall apply accordingly.
@@ -1489,7 +1487,7 @@ No member of a Fish and Game Council shall be personally liable for any default 
 (4) Every question before any meeting of a Fish and Game Council shall be determined by a majority of the members present and voting on the question.
 (5) At any meeting of a Fish and Game Council, the Chairperson of that meeting shall have a deliberative vote and, in the case of an equality of votes, shall also have a casting vote.
 (6) The powers of a Fish and Game Council shall not be affected by any vacancy in its membership, nor shall the proceedings of the Council be invalidated merely because of the subsequent discovery that some defect existed in the appointment of any member.
-(7) As soon as practicable after the end of its financial year and not later than 3 months thereafter, in every year of its operation, each Fish and Game Council shall call a public annual general meeting at which the Council shall present its annual report and financial statement for the period of 12 months that ended on that day.
+(7) As soon as practicable after the end of its financial year and not later than 4 months thereafter, in every year of its operation, each Fish and Game Council shall call a public annual general meeting at which the Council shall present its annual report and financial statement for the period of 12 months that ended on that day.
 (8) Subject to the provisions of this Act, a Fish and Game Council may regulate its procedure in such manner as it thinks fit.
 
 ### 26ZE Director-General entitled to attend meetings of Fish and Game Councils
@@ -1523,7 +1521,7 @@ Notice in writing of every meeting of a Fish and Game Council and of the busines
 (1) Subject to this Act, every person commits an offence and is liable to a fine not exceeding $5,000 who—
   (a) takes sports fish from any freshwater at any time, unless that person is the holder of a licence issued under this Act authorising him or her to take such fish from such waters at such time; or
   (b) has in his or her possession any sports fish taken from any freshwater, unless the fish have been taken lawfully.
-(2) nothing in subsection (1) of this section shall apply to the taking of sports fish for the purposes of scientific investigation or data collection, under a permit or authority under this Act, and in accordance with any conditions imposed by such permit or authority.
+(2) Nothing in subsection (1) of this section shall apply to the taking of sports fish for the purposes of scientific investigation or data collection, under a permit or authority under this Act, and in accordance with any conditions imposed by such permit or authority.
 (3) Every person commits an offence and is liable to a fine not exceeding $5,000 who establishes, manages, or operates any fish hatchery for sports fish except pursuant to regulations made under this Act; but nothing in this subsection shall apply in relation to any hatchery for sports fish that is established or is being established at the commencement of this Part of this Act.
 (4) No person shall establish, manage, or operate a fish farm for trout.
 
@@ -1622,13 +1620,15 @@ No competition involving the taking of sports fish shall be held unless it confo
 
 ### 26ZR Using hazardous substances to catch or destroy fish
 (1) Every person commits an offence who, for the purpose of taking or destroying any freshwater fish, uses in any water any hazardous substance, narcotic substance, or any electric fishing device.
-(2) Subsection (1) of this section shall not apply to actions taken by a warranted officer or any person authorised in writing by the Director-General.
+(2) Subsection (1) does not apply to actions taken by—
+  (a) a warranted officer or a fish and game ranger; or
+  (b) any person authorised in writing for the purpose by the Director-General, the Director, or the appropriate Fish and Game Council.
 (3) In this section, the term hazardous substance has the same meaning as in section 2 of the Hazardous Substances and New Organisms Act 1996.
 
 ## Part 5C — Control of dogs
 
 ### 26ZS Controlled dog areas and open dog areas
-(1) Subject to sections 26ZT to 26ZZF of this Act, the Minister may from time to time, by notice in the Gazette, declare any part or parts of the land managed and administered by the Minister or Department under any of the following Acts, namely,— to be either a controlled dog area or an open dog area.
+(1) Subject to sections 26ZT to 26ZZF of this Act, the Minister may from time to time, by notice in the Gazette, declare any part or parts of the land managed and administered by the Minister or Department under any of the following Acts, namely,—to be either a controlled dog area or an open dog area.
   (a) the Foreshore and Seabed Endowment Revesting Act 1991 so far as it is saved by section 30(2) of the Foreshore and Seabed Act 2004:
   (ab) the Foreshore and Seabed Act 2004:
   (b) the Reserves Act 1977:
@@ -1696,7 +1696,7 @@ The Minister, in determining the conditions to be included in any notice publish
   (b) the purposes for which the land is held:
   (c) the provisions of any relevant statement of general policy, conservation management strategy, or conservation management plan:
   (d) the need to preserve the safety of members of the public who are likely to be on the land or in the vicinity of the land:
-  (e) any conflict between— that may or will occur on the land in relation to the use of the land.
+  (e) any conflict between—that may or will occur on the land in relation to the use of the land.
     (i) dogs or people with dogs; and
     (ii) other users of the land—
 
@@ -1793,7 +1793,7 @@ The Director-General may amend or revoke any dog control permit issued under sec
   (b) any condition, being a condition imposed under section 26ZU(c) of this Act in relation to the controlled dog area or a condition of the permit, is not being observed in relation to the dog; or
   (c) the holder of the permit is in the immediate vicinity of the dog but the warranted officer has good cause to suspect that the holder of the permit is unwilling or unable to control the dog; or
   (d) the dog has caused injury to any person or to any protected wildlife or has killed any protected wildlife.
-(3) Where a dog is at large in an open dog area and, a warranted officer or any other person, has good cause to suspect— that warranted officer or other person may seize that dog.
+(3) Where a dog is at large in an open dog area and, a warranted officer or any other person, has good cause to suspect—that warranted officer or other person may seize that dog.
   (a) that any condition imposed under section 26ZU(c) of this Act in relation to the open dog area is not being observed in relation to that dog; or
   (b) that dog is likely to cause annoyance or distress to any person or animal; or
   (c) that dog is likely to damage any property in the open dog area; or
@@ -1821,7 +1821,7 @@ The Director-General may amend or revoke any dog control permit issued under sec
 (1) No employee of the Department shall disclose, otherwise than in accordance with this section, information which is given to a territorial authority under section 26ZZM(2)(b)(i) of this Act and which—
   (a) identifies, or will assist any person to identify, the name and address of the registered owner of any specified dog; or
   (b) identifies, or will assist any person to identify, the address at which the specified dog is ordinarily kept.
-(2) Where— requests, for any lawful purpose, any information of the kind described in subsection (1) of this section which is held by the Department, the Department shall comply with the request.
+(2) Where—requests, for any lawful purpose, any information of the kind described in subsection (1) of this section which is held by the Department, the Department shall comply with the request.
   (a) any member of the Police; or
   (b) any officer of the Department; or
   (c) any territorial authority; or
@@ -1841,9 +1841,11 @@ Every person commits an offence against this Act and is liable on summary convic
   (d) being the owner or a person in charge of a dog, fails, in relation to any controlled dog area or open dog area, to comply with any condition imposed under section 26ZU(c) of this Act in relation to that controlled dog area or open dog area.
 
 ### 26ZZQ Dogs causing serious injury to protected wildlife
-The owner of any dog that, in any controlled dog area or open dog area, attacks any protected wildlife and causes—commits an offence and is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000, or both, and the Court shall, on convicting the owner, make an order for the destruction of the dog unless satisfied that the circumstances of the attack were exceptional and do not justify destruction.
-  (a) the death of any protected wildlife; or
-  (b) such injury to any protected wildlife that it becomes necessary to destroy the animal to terminate its suffering,—
+(1) A person commits an offence if the person is the owner, or a person in charge, of a dog that attacks protected wildlife in a controlled dog area or an open dog area and causes—
+  (a) the death of protected wildlife; or
+  (b) injury to protected wildlife so that it becomes necessary to destroy the wildlife to end its suffering.
+(2) The person is liable on summary conviction to imprisonment for a term not exceeding 12 months or a fine not exceeding $10,000, or both.
+(3) The court must, on convicting the person, make an order for the destruction of the dog unless satisfied that the circumstances of the attack were exceptional and do not justify destruction.
 
 ### 26ZZR Power of warranted officer to request information
 (1) Any warranted officer may, for the purposes of dog control in any controlled dog area, request any person who is in that controlled dog area and who appears to be in charge of any dog to state his or her own name, address, and date of birth, and, where that person claims not to be the owner of the dog, to state the name and address of the owner of the dog.
@@ -1909,7 +1911,7 @@ The Minister may enter into any agreement, contract, or arrangement of any kind 
   (aa) in accordance with an access arrangement under the Crown Minerals Act 1991; or
   (b) in accordance with a lease or licence granted before the commencement of this Act; or
   (c)
-  (ca) Pursuant to subsection (5) or subsection (6) of section 24H of this Act; or
+  (ca) pursuant to subsection (5) or subsection (6) of section 24H of this Act; or
   (d)
 (2) The Director-General may authorise any person to take on or from a conservation area any plant intended to be used for traditional Maori purposes.
 (3) Except as provided in subsection (2) of this section, the Director-General shall not authorise any person to take any indigenous plant on or from a conservation area for the purpose, or with the intention, of deriving gain or reward, whether pecuniary or otherwise, from its wood.
@@ -1952,7 +1954,7 @@ A local authority may make contributions out of its general fund or account for 
 (2) Every person commits an offence against this Act who fails or refuses to produce a permit, concession, right, or authority, when required by subsection (1) of this section to do so.
 
 ### 38 Hunting, etc
-(1) The Director-General may,— issue permits for hunting in the area or any specified part of it.
+(1) The Director-General may,—issue permits for hunting in the area or any specified part of it.
   (a) if it is in accordance with the management plan (if any) of a conservation area; and
   (b) having had regard to the safety of members of the public who are likely to be in the area, or any part of it, or any other land near the area,—
 (2) A permit may be issued under subsection (1) of this section either unconditionally or subject to any conditions the Director-General thinks fit.
@@ -2216,7 +2218,7 @@ There shall from time to time be appointed under the State Sector Act 1988 a Dir
 ### 54 Deputy Directors-General of Conservation
 (1) There shall from time to time be appointed under the State Sector Act 1988 one or more Deputy Directors-General of Conservation, as may be necessary or desirable for the effective and efficient carrying out of the functions of the Department.
 (2) Subject to the control of the Director-General, a Deputy Director-General shall have and may exercise all of the powers, duties, and functions of the Director-General (including any powers delegated by the Minister under section 57 of this Act) and shall perform any other duties the Director-General thinks fit.
-(3) On the occurrence from any cause of a vacancy in the office of Director-General (whether by reason of death or resignation, or otherwise), or in the case of absence (from whatever cause arising) of the Director-General, and for so long as the vacancy or absence continues,— shall have and may exercise and perform all the powers, functions, and duties of the Director-General (including any powers delegated by the Minister under section 57 of this Act).
+(3) On the occurrence from any cause of a vacancy in the office of Director-General (whether by reason of death or resignation, or otherwise), or in the case of absence (from whatever cause arising) of the Director-General, and for so long as the vacancy or absence continues,—shall have and may exercise and perform all the powers, functions, and duties of the Director-General (including any powers delegated by the Minister under section 57 of this Act).
   (a) the Deputy Director-General if there is only one; or
   (b) a Deputy Director-General authorised in writing in that behalf by the State Services Commission (before, on, or after the occurrence of the vacancy or absence) in every other case,—
 (4) The fact that a Deputy Director-General exercises or performs any power, function, or duty of the Director-General shall be conclusive evidence of the authority of the Deputy Director-General to do so; and no authority given under subsection (3)(b) of this section and no act done by a Deputy Director-General under any such authority or under subsection (2) or subsection (3) of this section shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased or that the act was contrary to a direction of the Director-General.
@@ -2284,7 +2286,7 @@ There shall from time to time be appointed under the State Sector Act 1988 such 
 
 ### 60 Purchase of land for administrative purposes
 (1) The Director-General may acquire land or any interest in land for the purposes of the Department and the due administration of this Act.
-(2) The Director-General may on behalf of Her Majesty the Queen, without complying with any provision of this Act (other than section 50(2)) or any provision of the Land Act 1948, dispose of— if the land concerned is, at the time of disposal, neither a conservation area nor Crown land.
+(2) The Director-General may on behalf of Her Majesty the Queen, without complying with any provision of this Act (other than section 50(2)) or any provision of the Land Act 1948, dispose of—if the land concerned is, at the time of disposal, neither a conservation area nor Crown land.
   (a) any land acquired under subsection (1) of this section; or
   (b) any interest in any such land; or
   (c) any interest in land (being an interest acquired under subsection (1) of this section)—
@@ -2303,7 +2305,7 @@ This section applies to the Minister, the Director-General, the holder of any of
   (d) the Director-General may, on behalf of the Minister, recover those costs or that part as a debt due to the Crown by that latter person.
 (2) Subsection (1) of this section shall have effect whether or not any person was under a duty imposed by any enactment or by law to take or undertake the action concerned.
 (3) The Director-General may, in the Director-General's absolute discretion, refund or waive payment of all or any part of any sum paid or required to be paid pursuant to this section.
-(4) Where any person applies to a person to whom section 60A of this Act applies for, or otherwise requests from any such person,— the person to whom the section applies shall take all reasonable steps to ensure that—
+(4) Where any person applies to a person to whom section 60A of this Act applies for, or otherwise requests from any such person,—the person to whom the section applies shall take all reasonable steps to ensure that—
   (a) any approval, authority, concession, concurrence, consent, decision, licence, order, permission, permit, waiver, or other action, in respect of which the Director-General is empowered by subsection (1) of this section to recover any costs; or
   (b) any thing for which any such action is necessary,—
   (c) the other person is informed of the general effect of the subsection in relation to the action or thing applied for or requested; and
@@ -2354,7 +2356,7 @@ All money paid to the Director-General under section 60B of this Act or under an
 
 ### 61 Certain former State forest land to become protected area on commencement of Act
 (1) Any land that, immediately before the commencement of this Act, was a forest sanctuary shall be deemed to have been declared to be held for the purpose of a sanctuary area by a notice under section 18(1) of this Act published in the Gazette on that commencement.
-(2) Any land that, immediately before the commencement of this Act,— shall, until it—be deemed to be a conservation park.
+(2) Any land that, immediately before the commencement of this Act,—shall, until it—be deemed to be a conservation park.
   (a) was a forest park; and
   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of section 24 of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,—
   (c) is declared to be held for conservation purposes under section 7(1) of this Act; or
@@ -2362,13 +2364,13 @@ All money paid to the Director-General under section 60B of this Act or under an
 (2A) Nothing in subsection (2) of this section applies to any land that, immediately before the commencement of the Crown Forest Assets Act 1989, was shown as being allocated to New Zealand Forestry Corporation Limited on record plans lodged in the office of the Chief Surveyor for the land district in which the land is situated.
 (2B) Land of the kind referred to in subsection (2A) of this section that has, before the commencement of the Crown Forest Assets Act 1989, been declared to be held for conservation purposes under section 7(1) of this Act, shall, with effect from the commencement of that Act, be deemed not to have been declared to be held for those purposes.
 (3) When any land to which subsection (2) of this section applies is declared to be held for conservation purposes under section 7(1) of this Act, it shall be deemed to have been declared to be held for the purpose of a conservation park by a notice in the Gazette under section 18(1) of this Act.
-(4) Any land that, immediately before the commencement of this Act,— shall, until it—be deemed to be a wilderness area.
+(4) Any land that, immediately before the commencement of this Act,—shall, until it—be deemed to be a wilderness area.
   (a) was State forest land dedicated under section 15(ba) of the Forests Act 1949 as a wilderness area; and
   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of section 24 of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,—
   (c) is declared to be held for conservation purposes under section 7(1) of this Act; or
   (d) is vested in a State enterprise under the said section 24,—
 (5) When any land to which subsection (4) of this section applies is declared to be held for conservation purposes under section 7(1) of this Act, it shall be deemed to have been declared to be held for the purpose of a wilderness area by a notice in the Gazette under section 18(1) of this Act.
-(6) Any land that, immediately before the commencement of this Act,— shall, until it—be deemed to be an ecological area.
+(6) Any land that, immediately before the commencement of this Act,—shall, until it—be deemed to be an ecological area.
   (a) was State forest land dedicated under section 15(ba) of the Forests Act 1949 as an ecological area; and
   (b) was not shown on any plan lodged in the office of the Chief Surveyor for the land district in which it is situated (being a plan certified as correct for the purposes of section 24 of the State-Owned Enterprises Act 1986 by the Chief Surveyor) as being allocated for possible transfer to a State enterprise,—
   (c) is declared to be held for conservation purposes under section 7(1) of this Act; or
@@ -2393,10 +2395,10 @@ All money paid to the Director-General under section 60B of this Act or under an
 (2) Nothing in subsection (1) of this section restricts or prevents the granting under this Act of a concession over any land.
 
 ### 63 Certain land may become protected area without public notification
-(1) Notwithstanding section 18(2) of this Act, where— the Minister may, under section 18(1) of this Act, declare the land to be held for any of the purposes specified in that subsection without giving public notice of intention to do so.
+(1) Notwithstanding section 18(2) of this Act, where—the Minister may, under section 18(1) of this Act, declare the land to be held for any of the purposes specified in that subsection without giving public notice of intention to do so.
   (a) before the commencement of this Act, the Minister of Lands (in respect of any Crown land) or the Minister of Forests (in respect of any State forest land) has approved in writing that any specified Crown land or State forest land should become an ecological area, an amenity area, or a wilderness area after the 1st day of April 1987; and
   (b) that land has subsequently become a conservation area,—
-(2) The Minister may, by notice in the Gazette, declare that any land— is held for the purpose of an ecological area under section 21 or an amenity area under section 23A or a wildlife management area under section 23B of this Act; and, subject to this Act, it shall thereafter be so held and, in the case of any land that was a reserve under the Reserves Act 1977, the reservation of the land as a reserve shall thereupon be deemed to have been revoked in accordance with that Act.
+(2) The Minister may, by notice in the Gazette, declare that any land—is held for the purpose of an ecological area under section 21 or an amenity area under section 23A or a wildlife management area under section 23B of this Act; and, subject to this Act, it shall thereafter be so held and, in the case of any land that was a reserve under the Reserves Act 1977, the reservation of the land as a reserve shall thereupon be deemed to have been revoked in accordance with that Act.
   (a) identified in the first column of Schedule 4 to this Act for protection as an ecological area, amenity reserve, wildlife corridor, or wildlife management reserve; and
   (b) held and managed as a conservation area under section 7 or section 61 or section 62 of this Act or as a reserve under the Reserves Act 1977—
 (3) The purpose for which any land identified in Schedule 4 to this Act is held shall be as specified in the third column of that Schedule.
@@ -2478,7 +2480,7 @@ Where, immediately before the commencement of this Act, there was in existence a
 (13) Where there was in force immediately before the commencement of this Act any licence, permit, approval, or consent under the Harbours Act 1950 that, if granted, issued, or given, after that commencement, would have had to be granted, issued, or given by—it shall continue in force as if so granted, issued, or given, and may be amended, revoked, or renewed, accordingly.
   (a) the Minister; or
   (b) the Minister and the Minister of Transport jointly; or
-  (c) The Minister of Transport on the recommendation of the Minister; or
+  (c) the Minister of Transport on the recommendation of the Minister; or
   (d) the Minister of Transport after consultation with the Minister; or
   (e) the Minister after consultation with the Minister of Transport,—
 (14) Notwithstanding the repeal or amendment of any provision in the Marine Farming Act 1971, the validity, invalidity, effect, or consequences of any thing already done or suffered in respect of any licence, permit, approval, or consent under that Act, shall not be affected:
@@ -2490,43 +2492,9 @@ Where, immediately before the commencement of this Act, there was in existence a
 
 ## Schedule 3 — Consequential amendments to regulations
 
-| Regulation Amended | Amendment |
-| --- | --- |
-| The Land Act Regulations 1949 (SR 1949/37) | By omitting the word Commissioner, wherever it appears, and substituting, in each case, the words Director-General of Conservation. |
-| The Wildlife Regulations 1955 (SR 1962/199) | By omitting the word Secretary, wherever it appears, and substituting, in each case, the word Director-General. |
-| The Little Shag Notice 1955 (SR 1955/181) | By omitting from clause 4 the words Secretary for Internal Affairs, and substituting the words Director-General of Conservation. By omitting from clause 7(c) the words Secretary for Internal Affairs and substituting, respectively, the words Director- General of Conservation and Director-General. |
-| The Council of North Island Acclimatisation Societies Regulations 1959 (SR 1959/73) | By omitting from regulations 5(e), 9(2), and 10(1) the words Secretary for Internal Affairs, and substituting in each case, the words Director-General of Conservation. |
-| The Wildlife Sanctuary/Sulphur Point, Lake Rotorua Order 1964 (SR 1964/201) | By omitting from the definition in clause 2 of the term Department the words Internal Affairs, and substituting the word Conservation. By inserting in clause 2, after the definition of the term Department, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting the word Secretary, wherever it appears, and substituting, in each case, the expression Director-General. By omitting the words the Wildlife Branch of, wherever they appear. By omitting from clause 4(a) the words Conservator of Wildlife at Rotorua, and substituting the expression Director-General. |
-| The Wildlife Sanctuary (Aldermen Islands) Order 1965 (SR 1965/81) | By inserting in clause 2, after the definition of the term The Act,the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(e) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Wildlife Sanctuary (Karewa Island) Order 1965 (SR 1965/182) | By inserting in clause 2, after the definition of the term The Act the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(c) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Wildlife Sanctuary (Mokohinau Islands) Order 1965 (SR 1963/183) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(d) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Wildlife Sanctuary (Otamatou Rocks) Order 1965 (SR 1965/184) | By inserting in clause 2, after the definition of the term Closed period, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting the word Secretary wherever it appears, and substituting, in each case, the expression Director-General. |
-| The Wildlife Sanctuary (Trio Islands) Order 1965 (SR 1963/1985) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(d) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Wildlife Sanctuary (Stephens Island) Order 1966 (SR 1966/63) |  |
-| The Wildlife Sanctuary (White Rocks, Duffers Reef, and Sentinel Rock) Order 1966 (SR 1966/131) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(c) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Lake Rotorua (Motutara) Wildlife Refuge Order 1967 (SR 1967/53) | By omitting from clause 3 the words Secretary for Internal Affairs, and substituting the words Director-General of Conservation. |
-| The Lake Rotomahana Wildlife Refuge Order 1967 (SR 1967/198) | By omitting from clause 3 the words Secretary for Internal Affairs, and substituting the words Director-General of Conservation. |
-| The Lake Grasmere Wildlife Refuge Order 1968 (SR 1968/145) | By omitting from clause 3 the words Secretary for Internal Affairs, and substituting the words Director-General of Conservation. |
-| The Wildlife Sanctuary (Motunau Island) Order 1969 (SR 1969/165) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(e) and 5 the word Secretary, and substituting, in each case, the expression Director-General. By omitting from the proviso to clause 5(a) the words Internal Affairs, and substituting the word Conservation. |
-| The Wildlife Sanctuary (the Brothers Islands) Order 1970 (SR 1970/87) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(e) and 5 the word Secretary and substituting, in each case, the expression Director-General. |
-| The Buller River Mouth Wildlife Refuge Order 1973 (SR 1973/272) | By omitting from clause 3 the words: Secretary for Internal Affairs and Secretary, and substituting, respectively, the words Director- General of Conservation and Director- General. |
-| The Hart's Creek Wildlife Refuge Order 1973 (SR 1973/273) | By omitting from clause 3 the words Secretary for Internal Affairs and Secretary and substituting, respectively, the words Director-General of Conservation and Director- General. |
-| The Lakes Orakai, Tutira, and Waikopiro Wildlife Refuge Order 1973 (SR 1973/274) | By omitting from clause 3 the words Secretary for Internal Affairs and Secretary, and substituting, respectively, the words Director-General of Conservation and Director- General. |
-| The Hawksbury Lagoon Wildlife Refuge Order 1974 (SR 1974/28) | By omitting from clause 3 the words Secretary for Internal Affairs and Secretary, and substituting, respectively, the words Director-General of Conservation and Director- General. |
-| The Wildlife Sanctuary (Whangamata Islands) Order 1976 (SR 1976/301) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(e) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Chatham Islands (Wildlife) Notice 1977 (SR 1977/106) | By omitting from clause 9 the word Secretary, in each place that it occurs, and substituting, in each case, the expression Director- General. |
-| The Titi (Muttonbird) Island Regulations 1978 (SR 1978/59) | By repealing the definition in regulation 2 of the term Commissioner. By inserting in regulation 2, after the definition of the term Crown island, the following definition:Director-General means the Director-General of Conservation . By omitting the word Commissioner, wherever it appears, and substituting, in each case, the words Director- General. |
-| The Council of South Island Acclimatisation Societies Regulations 1978 (SR 1978/281) | By omitting the words Department of Internal Affairs and Secretary for Internal Affairs, wherever they appear, and substituting, respectively, the words Department of Conservation and Director- General of Conservation. |
-| The Wildlife Sanctuary (Taiaroa Head Foreshore) Order 1979 (SR 1979/146) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(c) and 5 the word Secretary, and substituting, in each case, the expression Director-General. |
-| The Central North Island Wildlife Conservancy Council Regulations 1980 (SR 1980/48) | By omitting from the definition in regulation 2 of the term Department the words Internal Affairs, and substituting the word Conservation. By omitting from subclauses (4) and (5) of regulation 3 the words Secretary for Internal Affairs, in each place that they occur, and substituting, in each case, the words Director-General of Conservation. By revoking regulation 5(b), and substituting the following paragraph:bTwo officers of the Department designated by the Director-General of Conservation . By revoking regulation 9(1), and substituting the following subclause:1In the absence from any meeting of the Council of either of the officers of the Department designated by the Director- General of Conservation, the designated officer may, subject to any general or specific direction given by the Director-General, authorise another officer of the Department to attend in his place.. By omitting from regulation 10(10) the words Secretary for Internal Affairs, and substituting the expression Director-General of Conservation. By omitting from paragraphs (b) and (c) of regulation 11(1) the words Internal Affairs, and substituting the word Conservation. By omitting from regulations 12(4), 14(2), 15(1)(g), 16(4), and 17(3), and the proviso to regulation 14(2), the words Secretary for Internal Affairs, in each place where they appear, and substituting, in each case, the words Director-General of Conservation. By omitting from subclauses (2) and (4) of regulation 17 the words Internal Affairs, in each place where they appear, and substituting, in each case, the word Conservation. |
-| The Wildlife Sanctuary (Gannet Island) Order 1980 (SR 1980/90) | By inserting in clause 2, after the definition of the term The Act, the following definition:Director-General means the Director-General of Conservation . By revoking the definition in clause 2 of the term Secretary. By omitting from clauses 4(e) and 5 the word Secretary, and substituting, in each case, the expression Director-General. By omitting from the proviso to clause 5(a) the words Internal Affairs, and substituting the word Conservation. |
-| The Freshwater Fisheries Regulations 1983 (SR 1983/277) | By omitting from the proviso to regulation 16 and from regulation 18(1) the words Internal Affairs, and substituting the word Conservation. |
-| The Freshwater Fish Farming Regulations 1983 (SR 1983/278) | By omitting from paragraph (a) of the definition in regulation 2 of the term fish farm the words Internal Affairs, and substituting the word Conservation. |
-| The Taupo Fishing Regulations 1984 (SR 1984/347) | By inserting in regulation 2(1), after the definition of the term Day, the following definition: Director-General means the Director-General of Conservation. By revoking the definition in regulation 2(1) of the term Secretary. By omitting the words Secretary and Conservator, wherever they appear, and substituting, in each case the expression Director- General. |
-
 ## Schedule 4 — Land that may be protected area
 
-| Land | Category A or B | Proposed Purpose | Boundary documents |
+| Land | Category A or B | Proposed purpose | Boundary documents |
 | --- | --- | --- | --- |
 | Ngakawau Ecological Area and two extensions | Ngakawau Ecological Area: Category A Two extensions: Category B | Ecological Area | S.O. Plan 15258, Nelson Land District |
 | Rahui Ecological Area | Category A | Ecological Area |  |
