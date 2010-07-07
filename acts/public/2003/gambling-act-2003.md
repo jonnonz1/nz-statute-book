@@ -1,5 +1,5 @@
 # Gambling Act 2003
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Gambling Act 2003.
@@ -2565,7 +2565,7 @@ The Secretary may appoint an administrator—
 (6) This section does not prevent money raised by, or paid to, a licensed promoter being paid into the society’s bank account if the payment is permitted by the licensed promoter’s agreement with the society.
 
 ### 212 Trust account must be audited
-A licensed promoter’s trust account must be audited by a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) at the times and in the manner prescribed by regulations made under section 219.
+A licensed promoter’s trust account must be audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) at the times and in the manner prescribed by regulations made under section 219.
 
 ### 213 Licensed promoter must render account to society
 (1) A licensed promoter must render an account to the society that sets out, in full, particulars of—
