@@ -1,5 +1,5 @@
 # Immigration Advisers Licensing Act 2007
-_Consolidation as at 2008-04-29_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Immigration Advisers Licensing Act 2007.
@@ -69,12 +69,15 @@ No person may provide immigration advice unless that person—
   (b) is exempt under section 11 from the requirement to be licensed.
 
 ### 7 What constitutes immigration advice
-In this Act, immigration advice—
+(1) In this Act, immigration advice—
   (a) means using, or purporting to use, knowledge of or experience in immigration to advise, direct, assist, or represent another person in regard to an immigration matter relating to New Zealand, whether directly or indirectly and whether or not for gain or reward; but
   (b) does not include—
     (i) providing information that is publicly available, or that is prepared or made available by the Department; or
     (ii) directing a person to the Minister or the Department, or to an immigration officer, a visa officer, or a refugee status officer (within the meaning of the Immigration Act 1987), or to a list of licensed immigration advisers; or
     (iii) carrying out clerical work, translation or interpreting services, or settlement services.
+(2) To avoid doubt, a person is not considered to be providing immigration advice within the meaning of this Act if the person provides the advice in the course of acting under or pursuant to—
+  (a) the Ombudsmen Act 1975; or
+  (b) any other enactment by which functions are conferred on Ombudsmen holding office under that Act.
 
 ### 8 Offshore immigration advice
 (1) This Act applies in respect of immigration advice provided by a person outside New Zealand, as well as advice provided by a person within New Zealand, except as provided in this section.
@@ -230,6 +233,8 @@ The Registrar may satisfy himself or herself of an applicant's competence by all
 (1) The holder of a limited licence may at any time apply to the Registrar for the grant of a full licence.
 (2) The holder of a provisional licence may at any time apply to the Registrar for the grant of a full licence or a limited licence.
 (3) Sections 18 to 22 apply, with any necessary modifications, in relation to any such application as if it were an application for a licence under section 18.
+(4) If an application for an upgrade of a licence has been made but not determined before the date on which the licence would otherwise expire, the licence continues in force until the application is determined.
+(5) The grant of an upgrade of a licence takes effect from the date of expiry of the previous licence (as determined before the application of subsection (4)) or the date on which it is granted, whichever occurs first.
 
 ### 24 Renewal of licence
 (1) An application for renewal of a licence must be made to the Registrar on or before the date on which the licence expires.
