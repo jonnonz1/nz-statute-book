@@ -1,5 +1,5 @@
 # Lawyers and Conveyancers Act 2006
-_Consolidation as at 2009-11-16_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Lawyers and Conveyancers Act 2006.
@@ -1416,7 +1416,7 @@ The Governor-General may, from time to time, by Order in Council, make regulatio
   (c) provide that satisfactory results from assessment or examination be required as part of training:
   (d) exempt, or provide for the exemption of, any lawyer or class of lawyer or any conveyancing practitioner or class of conveyancing practitioner or any other person or class of person from all or any regulations made under section 115(g):
   (e) provide that fees may be charged to any person applying for or undertaking the training required by regulations made under section 115(g).
-(5) Regulations made under section 115 do not limit or derogate from the disciplinary powers of a Standards Committee or the Disciplinary Tribunal under this Act or of the Appeals Council under the Institute of Chartered Accountants of New Zealand Act 1996.
+(5) Regulations made under section 115 do not limit or derogate from the disciplinary powers of a Standards Committee or the Disciplinary Tribunal under this Act or of the Appeals Council under the New Zealand Institute of Chartered Accountants Act 1996.
 (6) Without prejudice to subsection (5), wilful failure to comply with any regulations made under section 115 is, if the High Court thinks fit, ground for the exercise of the High Court's summary jurisdiction under this Act.
 
 **Barristers, Senior Counsel, and Queen's Counsel**
@@ -1759,7 +1759,7 @@ A Standards Committee that receives a report from an investigator may, in its di
   (c) the Law Society inspectorate or the Conveyancers Society inspectorate, as the case may require:
   (d) the auditor of the trust account of the practitioner or former practitioner to whom, or of an incorporated firm or former incorporated firm to which, the report relates:
   (e) the Council of the New Zealand Law Society or the Council of the New Zealand Society of Conveyancers, as the case may require:
-  (f) a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996):
+  (f) a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996):
   (g) any Police employee or member of the Serious Fraud Office acting in the performance of his or her duty:
   (h) the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment:
   (i) any client of the practitioner or former practitioner to whom, or of the incorporated firm or former incorporated firm to which, the report relates.
@@ -2091,7 +2091,7 @@ Every counsel appearing before a Standards Committee has the same privileges and
     (i) a Standards Committee; or
     (ii) the Legal Complaints Review Officer; or
     (iii) the Disciplinary Tribunal; or
-    (iv) the Disciplinary Tribunal of the Institute of Chartered Accountants of New Zealand; or
+    (iv) the Disciplinary Tribunal of the New Zealand Institute of Chartered Accountants; or
   (e) to a Police employee or member of the Serious Fraud Office acting in the performance of his or her duty; or
   (f) to any person who—
     (i) holds office under section 109 as a person appointed to examine the accounts of lawyers or firms of lawyers or incorporated law firms or as a person appointed to examine the accounts of conveyancing practitioners or firms of conveyancing practitioners or incorporated conveyancing firms; and
@@ -3989,16 +3989,16 @@ Where the New Zealand Law Society or the New Zealand Society of Conveyancers rec
   (a) to any lawyer or conveyancing practitioner to whom the report relates, or any lawyer representing that lawyer or conveyancing practitioner, or, if that lawyer or conveyancing practitioner is a partner in a firm of lawyers or conveyancing practitioners, to any partner in the firm:
   (b) to any incorporated law firm or incorporated conveyancing firm to which the report relates, or to any lawyer representing that firm or practice:
   (c) to any auditor of the trust account of the lawyer or conveyancing practitioner or firm or practice:
-  (d) to the Council of the Institute of Chartered Accountants of New Zealand:
+  (d) to the Council of the New Zealand Institute of Chartered Accountants:
   (e) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty:
   (f) to the Registrar-General of Land if the society considers that the communication of the contents of the report, or of part of the contents of the report, to the Registrar-General of Land is relevant to the discharge by the Registrar-General of Land of his or her duties under the Land Transfer Act 1952 or any other enactment.
 
 ### 7 Power to give information to client
 Nothing in this schedule prevents the New Zealand Law Society or the New Zealand Society of Conveyancers, in its discretion, from giving to any client of a lawyer or firm of lawyers or of an incorporated law firm or of a conveyancing practitioner or firm of conveyancing practitioners or of an incorporated conveyancing firm any information disclosed in a report made to the society by a person appointed under section 109 so far as that report relates to the client's affairs and is required by that client.
 
-### 8 Restrictions on publication by Council of Institute of Chartered Accountants
-(1) If the contents, or any part of the contents, of any report made by a person appointed under section 109 are disclosed to the Council of the Institute of Chartered Accountants of New Zealand under clause 6, that Council must consider the information given in private and not otherwise.
-(2) It is not lawful for any member of the Council of the Institute of Chartered Accountants of New Zealand or for any officer of the institute to publish to any person any information so disclosed except in evidence in disciplinary proceedings under the Institute of Chartered Accountants of New Zealand Act 1996.
+### 8 Restrictions on publication by Council of New Zealand Institute of Chartered Accountants
+(1) If the contents, or any part of the contents, of any report made by a person appointed under section 109 are disclosed to the Council of the New Zealand Institute of Chartered Accountants under clause 6, that Council must consider the information given in private and not otherwise.
+(2) It is not lawful for any member of the Council of the New Zealand Institute of Chartered Accountants or for any officer of the institute to publish to any person any information so disclosed except in evidence in disciplinary proceedings under the New Zealand Institute of Chartered Accountants Act 1996.
 
 ## Schedule 3 — Provisions applying in relation to Legal Complaints Review Officer
 
@@ -4067,7 +4067,7 @@ Every counsel appearing before the Legal Complaints Review Officer has the same 
     (i) a Standards Committee; or
     (ii) the Legal Complaints Review Officer; or
     (iii) the Disciplinary Tribunal; or
-    (iv) the Disciplinary Tribunal of the Institute of Chartered Accountants of New Zealand; or
+    (iv) the Disciplinary Tribunal of the New Zealand Institute of Chartered Accountants; or
   (c) to a constable or member of the Serious Fraud Office acting in the performance of his or her duty; or
   (d) to the Registrar-General of Land for the purpose of enabling the Registrar-General of Land to discharge his or her duties under the Land Transfer Act 1952 or any other enactment; or
   (e) in evidence in any court.
