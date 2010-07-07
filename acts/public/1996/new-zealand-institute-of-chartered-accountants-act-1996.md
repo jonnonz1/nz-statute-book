@@ -1,10 +1,10 @@
-# Institute of Chartered Accountants of New Zealand Act 1996
-_Consolidation as at 2008-01-01_
+# New Zealand Institute of Chartered Accountants Act 1996
+_Consolidation as at 2010-07-07_
 
-> An Act to—acontinue the New Zealand Society of Accountants under the name Institute of Chartered Accountants of New Zealand; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
+> An Act to—acontinue the New Zealand Society of Accountants under the name New Zealand Institute of Chartered Accountants; andbrequire the Institute to have rules governing membership, discipline, and other matters and a code of ethics governing the professional conduct of its members; andcprohibit the use of terms implying membership of the Institute by persons who are not members; anddprovide for related matters; anderepeal the New Zealand Society of Accountants Act 1958
 
 ### 1 Short Title and commencement
-(1) This Act may be cited as the Institute of Chartered Accountants of New Zealand Act 1996.
+(1) This Act may be cited as the New Zealand Institute of Chartered Accountants Act 1996.
 (2) Except as provided in subsection (3), this Act shall come into force on 1 October 1996.
 (3) Subsections (3) and (4) of section 21 shall come into force on a date to be appointed by the Governor-General by Order in Council.
 
@@ -18,7 +18,7 @@ In this Act, unless the context otherwise requires,—
   - **disciplinary body** or means the Disciplinary Tribunal or the Appeals Council
   - **Disciplinary Tribunal** means the Disciplinary Tribunal referred to in section 6(1)(g)
   - **document** includes any book or paper
-  - **Institute** means the Institute of Chartered Accountants of New Zealand constituted under this Act
+  - **Institute** means the New Zealand Institute of Chartered Accountants constituted under this Act
   - **member** means a person who, under the rules of the Institute, is a full member or provisional member of the Institute
   - **Professional Conduct Committee** means the Professional Conduct Committee referred to in section 6(1)(f)
   - **Registrar** means the Registrar of Companies at Wellington
@@ -29,10 +29,10 @@ In this Act, unless the context otherwise requires,—
 ### 3 Act to bind the Crown
 This Act binds the Crown.
 
-**Institute of Chartered Accountants of New Zealand**
+**New Zealand Institute of Chartered Accountants**
 
 ### 4 Continuation of Society as Institute
-(1) The body corporate existing under the name of the New Zealand Society of Accountants immediately before the day on which this section comes into force continues on and after that day under the name Institute of Chartered Accountants of New Zealand.
+(1) The body corporate existing under the name of the New Zealand Society of Accountants immediately before the day on which this section comes into force continues on and after that day under the name New Zealand Institute of Chartered Accountants.
 (2) The Institute is a body corporate with perpetual succession and a common seal, and has and may exercise all the rights, powers, and privileges, and may incur all the liabilities and obligations, of a natural person of full age and capacity.
 (3) The Institute shall have members in accordance with the rules and this Act; but membership does not of itself—
   (a) impose on the members any liability in respect of any contract, debt, or other obligation made or incurred by the Institute; or
@@ -160,6 +160,9 @@ In the exercise of their functions and powers, the Professional Conduct Committe
 
 ### 18 References to Society
 Every reference to the Society in any enactment or document shall, unless the context otherwise requires, be read as a reference to the Institute.
+
+### 18A References to Institute of Chartered Accountants of New Zealand
+A reference in an enactment or in a document to the Institute of Chartered Accountants of New Zealand must, unless the context otherwise requires, be read as a reference to the New Zealand Institute of Chartered Accountants.
 
 ### 19 References to chartered accountants
 Every reference in any enactment to a—in relation to the holding of any office (including the office of auditor), the performance of any function, the exercise of any power, or acting in any particular capacity, shall, unless the context otherwise requires, be read as a reference to a chartered accountant (within the meaning of section 2) who, under the rules, is entitled to hold that office, perform that function, exercise that power, or act in that capacity.
