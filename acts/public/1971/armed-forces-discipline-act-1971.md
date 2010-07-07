@@ -1,5 +1,5 @@
 # Armed Forces Discipline Act 1971
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate and amend certain enactments of the Parliament of New Zealand and the Parliament of the United Kingdom relating to the discipline of Her Majesty’s Armed Forces of New Zealand, and to provide for the discipline of and the administration of justice within those forces
 
@@ -50,6 +50,7 @@ _Consolidation as at 2009-07-01_
   - **Commonwealth force** means a naval, military, or air force raised in any part of the Commonwealth
   - **competent service authority** —
     (a) means every superior commander; and
+    (ab) includes every Judge; and
     (b) includes any officer, not below the rank of lieutenant commander in the Navy, major in the Army, or squadron leader in the Air Force, appointed as a competent service authority by a superior commander; but
     (c) does not include any chaplain
   - **controlled drug** means a controlled drug within the meaning of the Misuse of Drugs Act 1975
@@ -97,7 +98,7 @@ _Consolidation as at 2009-07-01_
   - **Navy** means the New Zealand Naval Forces constituted under section 11(3) of the Defence Act 1990
   - **New Zealand force** or has the same meaning as New Zealand force in the section 2(1) of the Defence Act 1990
   - **non-commissioned officer** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
-  - **oath** includes an affirmation; and references to swearing shall be construed accordingly
+  - **oath** includes an ; and references to swearing shall be construed accordingly
   - **officer** has the meaning assigned to that term by section 2(1) of the Defence Act 1990
   - **part of the Commonwealth** means a country (other than New Zealand) which is a member of the Commonwealth of Nations; and includes every territory for whose international relations the Government of any such country is responsible
   - **prescribed** means prescribed by this Act, or by rules of procedure or regulations made under this Act, or by regulations made under the Defence Act 1990 or by Defence Force Orders issued under this Act or the Defence Act 1990
@@ -988,7 +989,7 @@ In no case shall any person be sentenced by the Court Martial to detention for a
   (c) the warrant must specify the maximum punishment for the offence under the service law of the sending State.
 (2) A person who is delivered into service custody under a warrant issued under subsection (1) must, as soon as practicable, be handed over to the authorities of the other State at such place in New Zealand as may be agreed.
 (3) The authorities of the other State into whose custody a person is delivered under this section may detain the person and may remove the person from New Zealand, but nothing in this subsection limits any other powers that the authority may have in relation to the person.
-(4) The provisions of subsections (3) to (7) of section 101 do not apply to any person to whom subsection (2) applies.
+(4) Section 101(3) to (5) does not apply to any person to whom subsection (2) applies.
 
 ### 93 Detention in civil custody of arrested persons
 (1) Notwithstanding anything to the contrary in sections 89, 89A, 91, 92, and 92A, where a constable arrests any person in accordance with any of those sections, he may detain the arrested person at a Police station, or some other place provided for the holding of persons in custody, for such period, but no longer, as may be reasonably necessary to enable the arrested person to be delivered into service custody or, if the arrested person is one to whom section 91 relates, to the officer in charge of the place where he was imprisoned or detained before he escaped or was temporarily released.
@@ -1285,16 +1286,20 @@ If there is no person who is empowered to act as a disciplinary officer in relat
 
 **Certification and amendment of charges**
 
-### 112 Charge must be certified if disciplinary officer may impose certain punishments
-(1) A disciplinary officer must, after a charge is referred to him or her under section 109 or 110 but before the accused is brought before him or her, consider whether he or she may, if the accused were found guilty, impose a punishment consisting of or including 1 or more of the following:
-  (a) detention:
-  (b) reduction in rank:
-  (c) a fine.
+### 112 Charge must be certified if disciplinary officer may impose certain punishments or make certain compensation orders
+(1) A disciplinary officer must, after a charge is referred to him or her under section 109 or 110 but before the accused is brought before him or her, consider whether he or she may, if the accused were found guilty,—
+  (a) impose a punishment consisting of or including 1 or more of the following:
+    (i) detention:
+    (ii) reduction in rank:
+    (iii) a fine of an amount that exceeds the accused's basic pay for a period of 7 days; or
+  (b) order the accused to pay an amount by way of compensation that exceeds the accused's basic pay for a period of 7 days.
 (2) In considering the matter under subsection (1), the disciplinary officer—
   (a) must have regard to the charge referred to him or her (including the nature of the offence alleged by the charge); and
   (b) is not required to have regard to any other information or document, or to make any further inquiries.
 (3) The disciplinary officer must stay the proceedings until a specified certificate is received if—
-  (a) he or she considers that, if the accused were found guilty, a punishment consisting of or including 1 or more of the punishments referred to in subsection (1) may be imposed; and
+  (a) he or she considers that, if the accused were found guilty,—
+    (i) a punishment consisting of or including 1 or more of the punishments referred to in subsection (1)(a) may be imposed; or
+    (ii) an order for compensation referred to in subsection (1)(b) may be made; and
   (b) he or she has not yet received a specified certificate.
 (4) The accused must be brought before the disciplinary officer and the disciplinary officer must proceed in relation to the charge in accordance with this subpart if—
   (a) the proceedings are not stayed under subsection (3); or
@@ -1556,7 +1561,7 @@ After the disciplinary officer has received all the evidence under subpart 2 and
 (3) The disciplinary officer must ensure that he or she has received a specified certificate if he or she intends to impose a punishment consisting of or including 1 or more of the following:
   (a) detention:
   (b) reduction in rank:
-  (c) a fine.
+  (c) a fine of an amount that exceeds the offender's basic pay for a period of 7 days.
 (4) In this section, victim has the same meaning as in section 4 of the Victims’ Rights Act 2002.
 
 ### 117S Disciplinary officer may impose punishment, order offender to appear for punishment if called on, or discharge offender
@@ -1636,6 +1641,7 @@ If a person tried summarily, or otherwise dealt with, under this Part in respect
 (2) However,—
   (a) if the offender was given the right to elect trial by the Court Martial under section 117D or 117M, he or she may not be ordered under this section to pay an amount by way of compensation exceeding his or her basic pay for a period of 28 days:
   (b) if the offender was not given the right to elect trial by the Court Martial wider section 117D or 117M, he or she may not be ordered to pay an amount by way of compensation exceeding his or her basic pay for a period of 14 days.
+(3) The disciplinary officer must ensure that he or she has received a specified certificate if he or she intends to order the offender to pay an amount by way of compensation that exceeds the offender's basic pay for a period of 7 days.
 
 ### Subpart 5 — Miscellaneous matters
 
@@ -2113,7 +2119,7 @@ The Governor-General may, by Order in Council, make rules of procedure for all o
   (h) authorising the Chief of Defence Force to prescribe the information, documents, and forms referred to in paragraph (g):
   (i) providing for the recording of proceedings before disciplinary officers (including providing for the authentication, storage, and control of, and access to, those records):
   (j) providing for adequate disclosure to be made to an accused or an appellant in connection with a proceeding before a military tribunal:
-  (k) providing for the expenses of members of the Court Martial and of witnesses giving evidence before the Court Martial and other proceedings under this Act:
+  (k) providing for the payment of fees, allowances, and expenses of witnesses and interpreters giving evidence before a military tribunal or a court of inquiry and prescribing the amount of the fees, allowances, and expenses payable or the method by which they are to be calculated:
   (l) providing for the procedure to be observed in proceedings before the Summary Appeal Court:
   (m) providing for the procedure to be observed in trials by the Court Martial:
   (n) providing for the recording of pleas in relation to charges before the Court Martial (including the recording of a plea of guilty before a Judge sitting alone) and the circumstances in which a plea may be accepted:
@@ -2121,7 +2127,7 @@ The Governor-General may, by Order in Council, make rules of procedure for all o
   (p) empowering the Director of Military Prosecutions, with the leave of a Judge, in such cases and to such extent as the rules specify, to amend a charge before the Court Martial:
   (q) specifying any matter referred to in section 87A(1) in relation to the suspension of orders for compensation; and providing for the retention of deductions from pay made pursuant to any order for compensation while the order is suspended:
   (r) specifying any matter referred to in section 87A(1) in relation to the suspension of orders for restitution and the suspension in certain cases of the provisions of section 26(1) of the Sale of Goods Act 1908; and providing for the retention and safe custody of any property to which any order for restitution or those provisions apply while the order or the operation of those provisions is suspended:
-  (s) providing for the remuneration and expenses of members and witnesses attending a court of inquiry:
+  (s)
   (t) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect, in relation to the investigation, trial, and punishment of offences against this Act.
 
 **Protection from civil liability, privileges, and immunities**
@@ -2229,7 +2235,7 @@ A person who is not subject to this Act commits a contempt of a military tribuna
 
 ### 154 Authority must consider petition for reconsideration
 (1) The Authority must consider every petition it receives under section 153 in accordance with this Part.
-(2) However, if the Authority remits a punishment or part of a punishment or commutes a punishment, it must not make a decision that has the effect of imposing a punishment more severe than the punishment that had effect before that remission or commutation.
+(2) However, if the Authority remits a punishment or part of a punishment, it must not make a decision that has the effect of imposing a punishment more severe than the punishment that had effect before that remission.
 
 ### 155 Procedure for reconsideration
 (1) The Authority must give a service prisoner or detainee whose sentence is to be reconsidered at least 14 days’ written notice of the reconsideration.
