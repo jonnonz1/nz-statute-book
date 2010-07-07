@@ -1,5 +1,5 @@
 # Superannuation Schemes Act 1989
-_Consolidation as at 2009-04-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to provide for the registration of superannuation schemes, and to provide a procedure to enable both benefits payable from superannuation schemes and annuities to be reduced as a result of changes in taxation
 
@@ -12,7 +12,7 @@ _Consolidation as at 2009-04-01_
 (1) In this Act, unless the context otherwise requires,—
   - **actuary** means a person who is a Fellow of the New Zealand Society of Actuaries
   - **administration manager** , in relation to any superannuation scheme, means the person (if any) to whom the trustees have contracted some or all of the administration of the scheme
-  - **auditor** means a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996)
+  - **auditor** means a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996)
   - **beneficiary** , in relation to any superannuation scheme, means—
     (a) a natural person who is eligible to receive a benefit from the scheme:
     (b) the trustee of another registered superannuation scheme which is eligible to receive a benefit from the scheme
