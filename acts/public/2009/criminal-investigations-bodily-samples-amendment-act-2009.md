@@ -1,5 +1,5 @@
 # Criminal Investigations (Bodily Samples) Amendment Act 2009
-_Consolidation as at 2009-11-02_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Criminal Investigations (Bodily Samples) Amendment Act 2009.
@@ -455,6 +455,7 @@ Section 26B(1)(b) (as inserted by section 9 of this Act) is amended by adding or
 | --- | --- |
 |  | Animal Welfare Act 1999 |
 | Wilful ill-treatment of animals | section 28 |
+| Reckless ill-treatment of animals | section 28A |
 |  | Arms Act 1983 |
 | Carrying or possession of firearms, airguns, pistols, restricted weapons, or explosives, except for lawful, proper, and sufficient purpose | section 45 |
 | Unlawful possession of pistol or restricted weapon | section 50 |
