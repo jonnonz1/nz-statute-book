@@ -1,5 +1,5 @@
 # Incorporated Societies Act 1908
-_Consolidation as at 2009-10-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to make provision for the incorporation of societies which are not established for the purpose of pecuniary gain
 
@@ -207,9 +207,22 @@ A society may be put into liquidation by the appointment by the High Court as li
 (7) This section shall bind the Crown.
 
 ### 28 Dissolution by Registrar
-(1) If at any time the Registrar is satisfied that a society is no longer carrying on its operations or has been registered by reason of a mistake of fact or law, he may make under his seal a declaration that the society is dissolved as from the date of the declaration, and shall thereupon publish the declaration in the Gazette, and make in the register an entry of the dissolution of the society.
-(2) On the making of that entry the society shall be dissolved as from the date of the declaration.
-(3) At any time thereafter the Registrar, on being satisfied that the declaration was made in error and ought to be revoked, may revoke the same by a declaration published in the Gazette, and shall thereupon make an entry of that revocation in the register, and the society shall thereupon be revived from the date of the dissolution thereof as if no such dissolution had taken place.
+(1) The Registrar may make a declaration (a declaration of dissolution) that a society is dissolved, if the Registrar is satisfied that the society—
+  (a) is no longer carrying on its operations; or
+  (b) has been registered because of a mistake of fact or law.
+(2) The Registrar must ensure that, as soon as practicable after it is made, the declaration of dissolution is—
+  (a) recorded in the register; and
+  (b) published—
+    (i) in the Gazette; and
+    (ii) on an Internet site maintained by, or on behalf of, the Registrar, at all reasonable times, for a period of not less than 20 working days.
+(3) A society is dissolved at the time the declaration of dissolution is recorded in the register, with effect from the date of the declaration.
+(4) If the Registrar is satisfied that a declaration of dissolution was made in error and should be revoked, the Registrar may make a declaration (a declaration of revocation) that the declaration of dissolution is revoked.
+(5) The Registrar must ensure that, as soon as practicable after it is made, the declaration of revocation is—
+  (a) recorded in the register; and
+  (b) published—
+    (i) in the Gazette; and
+    (ii) on an Internet site maintained by, or on behalf of, the Registrar, at all reasonable times, for a period of not less than 20 working days.
+(6) At the time the declaration of revocation is recorded in the register the society is revived, as if no dissolution had taken place, with effect from the time that the society was dissolved.
 
 ### 29 Corporate body may become member of society
 Any corporate body, whether incorporated under this Act or in any other manner, may be a member of a society incorporated under this Act, unless the purposes for which the society is established are ultra vires of the said corporate body.
@@ -228,6 +241,9 @@ In estimating—every corporate body that is a subscriber or member shall be tak
 
 ### 33 Registrar to keep register of incorporated societies
 (1) The Registrar shall keep a register in which there shall be recorded all matters required by this Act or by any regulations to be recorded by the Registrar.
+(1A) The register may be kept in any manner that the Registrar thinks fit, including, either wholly or partly, by means of a device or facility—
+  (a) that records or stores information electronically or by other means; and
+  (b) that permits the information so recorded or stored to be readily inspected or reproduced in a usable form.
 (2) The Registrar shall keep a seal for the authentication of any documents required for the purposes of this Act.
 (2A) The Registrar may from time to time, in his discretion, direct the transfer of any register that is kept in the office of an Assistant Registrar under or by virtue of section 2 of the Incorporated Societies Amendment Act 1922 from that office to any other such office, and may also direct that any documents so kept, and relating to any society, be so transferred. Forthwith after any such transfer the Registrar shall give notice in the Gazette of the transfer.
 (3) There shall be paid to the Registrar such fees as may be prescribed by regulations in respect of such matters as may be so prescribed.
@@ -246,6 +262,7 @@ In estimating—every corporate body that is a subscriber or member shall be tak
   (b) In any case where the Registrar or the person authorised by him considers that the aforesaid purpose cannot be achieved by inspecting only the documents specified in paragraph (a) of this subsection, or where such documents are not produced for inspection, require any person (including any officer employed in or in connection with any Government Department) to produce for inspection any registers, records, accounts, books, or papers that contain information relating to any money or other property that is or has been managed, supervised, controlled, or held in trust by or for the society; and
   (c) Inspect and make records of any such registers, records, accounts, books, or papers; and
   (d) For the purposes of making records thereof, take possession of and remove from the premises where they are kept, for such period of time as is reasonable in the circumstances, any such registers, records, accounts, books, or papers.
+(1A) To avoid doubt, in subsection (1) registers, records, accounts, books, or papers includes any of those things in an electronic form.
 (2) Nothing in subsection (1) of this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
 (3)
 (4) A person who has made an inspection under subsection (1) of this section shall give, divulge, or communicate any records or information that he has acquired in the course of the inspection to such of the following persons as may require such records or information, namely:
