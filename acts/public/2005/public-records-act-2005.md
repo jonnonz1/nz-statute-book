@@ -1,5 +1,5 @@
 # Public Records Act 2005
-_Consolidation as at 2005-04-21_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Public Records Act 2005.
@@ -586,7 +586,7 @@ Despite section 66(b) (which repeals Part 17 of the Local Government Act 1974), 
 (1) In classifying the access status of a local authority record under section 45, the administrative head of the controlling local authority must consider whether—
   (a) there are good reasons to restrict public access to the local authority record, having regard to any relevant standard or advice issued by the Chief Archivist; or
   (b) another enactment requires the local authority record to be withheld from public access.
-(2) If there are no good reasons to restrict public access under subsection (1)(a), or if no enactment requires a local authority record to be withheld from public access, the administrative head of the controlling public office must classify the record as an open access record.
+(2) If there are no good reasons to restrict public access under subsection (1)(a), or if no enactment requires a local authority record to be withheld from public access, the administrative head of the controlling local authority must classify the record as an open access record.
 (3) However, if there are good reasons to restrict public access under subsection (1)(a), or if another enactment requires a local authority record to be withheld from public access, the administrative head of the controlling local authority must, having regard to any relevant standard or advice issued by the Chief Archivist,—
   (a) determine whether it is necessary—
     (i) to restrict public access to the local authority record for a specified period of time (which must not be for a period greater than 25 years); or
@@ -746,7 +746,7 @@ The Governor-General may, by Order in Council, make regulations for all or any o
 (1) Despite section 66(a), the agreements or other matters referred to in subsection (2) that are in force immediately before the commencement of this Act continue in force in the manner specified in that subsection.
 (2) The agreements and other matters to which subsection (1) applies are—
   (a) an agreement made under section 8(2)(a) or (b) of the Archives Act 1957, for the term of the agreement, as if it were made under section 22(1)(b) of this Act:
-  (b) an agreement made under section 11 of the Archives Act 1957, for the term of the agreement, as if it were made under section 42(2)(a)(iii) of this Act:
+  (b) an agreement made under section 11 of the Archives Act 1957, for the term of the agreement, as if it were made under section 42(3)(c) of this Act:
   (c) an agreement made under section 13 of the Archives Act 1957, as if it were made under section 24 of this Act:
   (d) a certificate of authority given under section 16(6) of the Archives Act 1957—
     (i) as if it authorised the disposal of public records; and
