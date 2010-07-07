@@ -1,5 +1,5 @@
 # Marriage Act 1955
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate and amend the law relating to marriage
 
@@ -83,9 +83,18 @@ _Consolidation as at 2009-01-24_
 (3) If the Registrar-General is satisfied that any person so nominated is of good character and otherwise qualified to act as a marriage celebrant, and that the provisions of this Act in respect of the submission of his name have been complied with, he shall enter the name of the person on the list.
 (4) If the Registrar-General fails or refuses to enter in the list the name of any person nominated pursuant to this section he shall, if required to do so by any signatory to the certificate accompanying the person's nomination, refer the nomination to the Minister , who may direct the Registrar-General to enter the person's name in the list and in that case the Registrar-General shall forthwith enter the person's name in the list.
 
-### 11 Justices of the Peace, etc, may be marriage celebrants
-(1) Where the Registrar-General is satisfied that for geographical, administrative, or other reasons it would be convenient for the residents of any locality for a Justice of the Peace or other person of good character residing in that locality, who wishes to be a marriage celebrant, to be able to solemnise marriages, the Registrar-General may enter that person's name in the list.
-(2)
+### 11 Other persons may be marriage celebrants
+(1) Any person may apply to the Registrar-General to have his or her name entered on the list.
+(2) The application must—
+  (a) be made in a form approved for the purpose by the Registrar-General; and
+  (b) contain, or be accompanied by, such information as the Registrar-General requires; and
+  (c) be accompanied by the prescribed fee (if any).
+(3) The Registrar-General may approve an application made under subsection (1) and enter the applicant's name on the list if the Registrar-General is satisfied that—
+  (a) the applicant is—
+    (i) a Justice of the Peace; or
+    (ii) a person who is otherwise of good character; and
+  (b) the applicant will conscientiously perform the duties of a marriage celebrant under this Act and under the Births, Deaths, Marriages, and Relationships Registration Act 1995; and
+  (c) it is in the interests of the public generally, or of a particular community (whether defined by geography, interest, belief, or some other factor) that the person be a marriage celebrant.
 
 ### 12 Renewal of list
 Where it is desired that any person shall continue to act as a marriage celebrant, his name shall, in the month of December in each year, be sent to the Registrar-General, and the provisions of this Part of this Act shall apply in any such case as if it were an application for the original entry of the name of the person concerned in the list.
