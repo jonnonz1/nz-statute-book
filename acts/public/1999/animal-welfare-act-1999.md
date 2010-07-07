@@ -1,5 +1,5 @@
 # Animal Welfare Act 1999
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 > An Act—ato reform the law relating to the welfare of animals and the prevention of their ill-treatment; and, in particular,—ito require owners of animals, and persons in charge of animals, to attend properly to the welfare of those animals:iito specify conduct that is or is not permissible in relation to any animal or class of animals:iiito provide a process for approving the use of animals in research, testing, and teaching:ivto establish a National Animal Welfare Advisory Committee and a National Animal Ethics Advisory Committee:vto provide for the development and issue of codes of welfare and the approval of codes of ethical conduct:bto repeal the Animals Protection Act 1960
 
@@ -412,8 +412,8 @@ A person commits an offence who, being the owner of, or a person in charge of, a
 
 ### 25 Penalties
 A person who commits an offence against section 12 or section 14(1) or section 14(2) or section 21(1) or section 21(2) or section 22(2) or section 23(1) or section 23(2) is liable on summary conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; or
-  (b) in the case of a body corporate to a fine not exceeding $125,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000 or to both; or
+  (b) in the case of a body corporate to a fine not exceeding $250,000.
 
 **Safari parks**
 
@@ -430,13 +430,38 @@ The purpose of this Part is to state conduct that is or is not permissible in re
 **Ill-treatment of animals**
 
 ### 28 Wilful ill-treatment of animals
-(1) A person commits an offence who wilfully ill-treats an animal in such a way that—
+(1) A person commits an offence if that person wilfully ill-treats an animal with the result that—
   (a) the animal is permanently disabled; or
   (b) the animal dies; or
-  (c) the pain or distress caused to the animal is so great that it is necessary to destroy the animal in order to end its suffering.
-(2) A person who commits an offence against this section is liable on conviction on indictment,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $50,000 or to both; or
-  (b) in the case of a body corporate, to a fine not exceeding $250,000.
+  (c) the pain or distress caused to the animal is so great that it is necessary to destroy the animal in order to end its suffering; or
+  (d) the animal is seriously injured or impaired.
+(2) For the purposes of subsection (1)(d), an animal is seriously injured or impaired if the injury or impairment—
+  (a) involves—
+    (i) prolonged pain and suffering; or
+    (ii) a substantial risk of death; or
+    (iii) loss of a body part; or
+    (iv) permanent or prolonged loss of a bodily function; and
+  (b) requires treatment by or under the supervision of a veterinarian.
+(3) A person who commits an offence against this section is liable on conviction on indictment,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 5 years or to a fine not exceeding $100,000 or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $500,000.
+
+### 28A Reckless ill-treatment of animals
+(1) A person commits an offence if that person recklessly ill-treats an animal with the result that—
+  (a) the animal is permanently disabled; or
+  (b) the animal dies; or
+  (c) the pain or distress caused to the animal is so great that it is necessary to destroy the animal in order to end its suffering; or
+  (d) the animal is seriously injured or impaired.
+(2) For the purposes of subsection (1)(d), an animal is seriously injured or impaired if the injury or impairment—
+  (a) involves—
+    (i) prolonged pain and suffering; or
+    (ii) a substantial risk of death; or
+    (iii) loss of a body part; or
+    (iv) permanent or prolonged loss of a bodily function; and
+  (b) requires treatment by or under the supervision of a veterinarian.
+(3) A person who commits an offence against this section is liable on conviction on indictment,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $75,000 or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $350,000.
 
 ### 29 Further offences
 A person commits an offence who—
@@ -525,8 +550,8 @@ A person commits an offence who, without reasonable excuse and for the purpose o
 
 ### 37 Penalties
 A person who commits an offence against section 29 or section 31(1) or section 34 or section 35(1) or section 35(2) is liable on summary conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $25,000 or to both; and
-  (b) in the case of a body corporate, to a fine not exceeding $125,000.
+  (a) in the case of an individual, to imprisonment for a term not exceeding 12 months or to a fine not exceeding $50,000 or to both; and
+  (b) in the case of a body corporate, to a fine not exceeding $250,000.
 
 ## Part 3 — Animal exports
 
@@ -1732,28 +1757,36 @@ Notwithstanding section 37 of the Summary Proceedings Act 1957, if—an inspecto
   (a) an information has been laid by an inspector; or
   (b) proceedings have been commenced by the filing of a notice under section 21 of that Act,—
 
-### 169 Power to disqualify persons from having custody of animals
-(1) Where any person is convicted of an offence against—the court may (in addition to or substitution for any other penalty) disqualify a person, for such period as it thinks fit, from being the owner of, or exercising authority in respect of, an animal or animals of a particular kind or description.
-  (a) section 28; or
-  (b) any section in Part 1 or Part 2 and that person has previously been convicted of an offence against—
-    (i) any section in Part 1 or Part 2; or
-    (ii) section 3 or section 4 or section 16(3) of the Animals Protection Act 1960; or
-  (c) any section in Part 1 or Part 2 and the court is of the opinion that by reason of the serious nature of the offence the person should be disqualified under this subsection; or
+### 169 Court may disqualify person from owning or exercising authority in respect of animals
+(1) A court may (in addition to or in substitution for any other penalty) disqualify a person for any period that it thinks fit from being the owner of, or exercising authority in respect of, an animal or animals of a particular kind or description where the court convicts that person of an offence against—
+  (a) section 28 or 28A; or
+  (b) any section in Part 1 or 2 and the person has previously been convicted of an offence against—
+    (i) any section in Part 1 or 2; or
+    (ii) any of sections 3, 4, and 16(3) of the Animals Protection Act 1960; or
+  (c) any section in Part 1 or 2 and the court considers that by reason of the serious nature of the offence the person should be disqualified under this section; or
   (d) section 152(1); or
-  (e) subsection (5),—
-(2) Any person who is disqualified under subsection (1) or under section 16(1) of the Animals Protection Act 1960 may, at any time after the expiration of 12 months from the date of the order and from time to time, apply to the court for the removal of the disqualification.
-(3) At the hearing of the application, the court may, if it thinks fit, having regard to—order that, as from a date to be specified in the order, the disqualification be removed, or the order of disqualification be varied or refuse the application.
+  (e) section 169B(1).
+(2) In making an order under subsection (1), the court may also specify a minimum disqualification period.
+
+### 169A Disqualified person may apply to court for removal or variation of disqualification
+(1) A person who is disqualified under section 169(1) may apply to the court for the removal or variation of the disqualification.
+(2) A person may not apply under subsection (1) before—
+  (a) the expiry of the minimum disqualification period, if there is one; or
+  (b) if there is no minimum disqualification period, the expiry of 2 years from the date of the disqualification order.
+(3) The court may order that, as from a date specified in the order, the disqualification be removed or varied, or that the application be refused.
+(4) In deciding an application under this section, the court may have regard to—
   (a) the character of the applicant; and
-  (b) the applicant's conduct since the order was made; and
+  (b) the applicant's conduct since the disqualification order was made; and
   (c) the nature of the offence of which the applicant was convicted; and
-  (d) any other circumstances of the case,—
-(4) If a court has, under subsection (3), ordered that an order of disqualification be varied, or has refused an application, the person who is disqualified may not make a further application under subsection (2) within 12 months after the date of the order of variation or the refusal.
-(5) A person commits an offence who,—becomes the owner or exercises authority in respect of an animal or animals of a particular kind or description to which the order or the varied order, as the case may be, relates.
-  (a) in contravention of an order made under subsection (1) or under section 16(1) of the Animals Protection Act 1960; or
-  (b) in contravention of an order made under subsection (1) and varied under subsection (3) or an order made under section 16(1) of the Animals Protection Act 1960 and varied under subsection (2) of that section or subsection (3) of this section or both,—
-(6) A person who commits an offence against subsection (5) is liable on summary conviction,—
-  (a) in the case of an individual, to imprisonment for a term not exceeding 6 months or to a fine not exceeding $50,000 or to both; or
-  (b) in the case of a body corporate, to a fine not exceeding $250,000.
+  (d) any other circumstance of the case.
+(5) If the court varies the disqualification or refuses the application, the person who is disqualified may not re-apply under subsection (1) before the expiry of 12 months after the date of the order of variation or the refusal.
+
+### 169B Offence of contravening disqualification order
+(1) A person commits an offence who, in contravention of an order made under section 169(1), becomes the owner of, or exercises authority in respect of, an animal or animals of a particular kind or description to which the order relates.
+(2) A person who commits an offence against subsection (1) is liable on summary conviction,—
+  (a) in the case of an individual, to imprisonment for a term not exceeding 3 years or to a fine not exceeding $75,000 or to both:
+  (b) in the case of a body corporate, to a fine not exceeding $350,000.
+(3) In subsection (1), order includes an order varied under section 169A.
 
 ### 170 Liability for damage
 (1) If a person is convicted of an offence against this Act, the court may order that that person pay to any other person such sum as the court thinks fit by way of compensation for any loss of property suffered by that second-mentioned person through or by means of the offence.
@@ -1763,8 +1796,11 @@ Notwithstanding section 37 of the Summary Proceedings Act 1957, if—an inspecto
 ### 171 Application of fines recovered in respect of offences
 Where proceedings for an offence against any provision of this Act are instituted by an inspector appointed under section 124(2), the court may order that the whole or any part of any fine recovered in respect of that offence be paid to an approved organisation.
 
-### 172 Power of court to order that certain animals be forfeited to the Crown
-(1) If the owner of an animal is convicted of an offence against this Act in respect of that animal, the court may, if it thinks it desirable for the protection of the animal (in addition to or in substitution for any other penalty), order that the animal be forfeited to the Crown or to an approved organisation.
+### 172 Power of court to order that certain animals be forfeited to the Crown or approved organisation
+(1) The court convicting a person (the offender) of an offence against this Act in respect of an animal or animals may (in addition to or in substitution for any other penalty) order that any or all of the following animals be forfeited to the Crown or to an approved organisation:
+  (a) the animal or animals to which the charge relates and of which the offender is the owner:
+  (b) any other animals at the date of conviction owned by the offender.
+(1A) The court may make an order of forfeiture only if it thinks that it is desirable for the protection of the animal or animals in question.
 (2) An animal forfeited under this section may be sold or otherwise disposed of as the Minister or the approved organisation, as the case may be, thinks fit.
 
 ### 173 Expenses incurred by inspectors and territorial authorities
@@ -2188,3 +2224,12 @@ The Director-General may, if he or she thinks fit, and on payment of the prescri
 ## Schedule 6 — Enactments repealed
 
 ## Schedule 7 — Regulations continued in force as code of welfare
+
+### 1 Title
+This Act is the Animal Welfare Amendment Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+### 8 Transitional provision in respect of section 169 of principal Act
+Section 169 before amendment by this Act (old section 169) continues in force as if it had not been amended in respect of any person who, on the commencement of this Act, is subject to a disqualification order made under old section 169(1) or under section 16(1) of the Animals Protection Act 1960.
