@@ -1,5 +1,5 @@
 # Rates Rebate Act 1973
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to make provision for the granting of rebates of rates payable in respect of certain residential properties
 
@@ -19,7 +19,7 @@ _Consolidation as at 2010-07-01_
     (b) a relative of the ratepayer (other than a child to whom paragraph (a) of this definition applies or the spouse or partner of the ratepayer) by blood, marriage, by or through a civil union or de facto relationship, or by adoption who, at the commencement of the rating year in respect of which an application for a rebate under this Act is made, ordinarily resides on the property in respect of which the rates are payable and who, at the commencement of that year, receives a social security benefit under the Social Security Act 1964:
   - **income** , in relation to any ratepayer and to any preceding tax year,—
     (a) includes all money received by the ratepayer from any source for the use or advantage of the ratepayer; and
-    (b) includes all money received by the spouse of the ratepayer from any source (being a spouse who is ordinarily resident on the property in respect of which a rebate of rates is applied for under this Act) for the use or advantage of the spouse of the ratepayer; and
+    (b) includes all money received by the spouse or partner of the ratepayer from any source (being a spouse or partner who is ordinarily resident on the property in respect of which a rebate of rates is applied for under this Act) for the use or advantage of the spouse or partner of the ratepayer; and
     (c) includes, in the case of a ratepayer who carries on any business as a self-employed person, the amount that would be the ratepayer's net income in the preceding tax year (within the meaning of the Income Tax Act 2007) if the only income for that year of the ratepayer was derived in carrying on that business; but
     (d) does not include—
       (i) any capital money received from any source:
