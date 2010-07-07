@@ -1,5 +1,5 @@
 # Social Security Act 1964
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate and amend the Social Security Act 1938 and its amendments
 
@@ -374,7 +374,7 @@ Every person exercising or performing a function, duty or power under this Act m
 (1) This section applies to—
   (a) an applicant or beneficiary affected by a decision made by any person in the exercise of any power, function, or discretion conferred on the person by delegation , against which the applicant or beneficiary has a right of appeal under section 12J; or
   (b) an applicant, beneficiary, or other person in respect of whom a person makes any decision in the exercise of a power under section 19D(1)(a) of the Social Welfare (Transitional Provisions) Act 1990 conferred on the decision-making person by delegation , against which the applicant or beneficiary or other person has a right of appeal under section 12J.
-(1A) A person to whom this section applies may apply in writing for a review of the decision to the appropriate district review committee established under this section.
+(1A) A person to whom this section applies may apply in writing for a review of the decision to the appropriate benefits review committee established under this section.
 (1B) The application must be made—
   (a) within 3 months after receiving notification of the decision; or
   (b) if the committee considers there is good reason for the delay, within such further period as the committee may allow on application made either before or after the expiration of that period of 3 months.
@@ -654,6 +654,10 @@ On the determination of any appeal, the Secretary shall send to the chief execut
 
 ### 12R Appeals to Court of Appeal
 The provisions of section 144 of the Summary Proceedings Act 1957 shall apply in respect of any determination of the High Court under section 12Q of this Act as if the determination were made under section 107 of the Summary Proceedings Act 1957.
+
+### 12S Appeals to Supreme Court
+(1) Any person affected by a determination of the High Court made under section 12Q, or a determination of the Court of Appeal made under section 12R, may apply, in accordance with the Supreme Court Act 2003, to the Supreme Court for leave to appeal against the determination.
+(2) Subsection (1) is by way of explanation only.
 
 **National superannuation**
 
@@ -1816,7 +1820,7 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
   - **Tenant** , in relation to any rented premises, includes a person who pays rent, whether or not he or she is a party to the tenancy agreement or lease of the premises
   - **Weekly accommodation costs** means the greater of—
     (a) The total amount of a person's accommodation costs for a 12-month period divided by 52; or
-    (b) The amount which, at the time of application or subsequent renewal, the person is required to pay weekly for accommodation costs or may reasonably be required to set aside weekly to pay accommodation costs.
+    (b) The amount which, at the time of application or any subsequent review, the person is required to pay weekly for accommodation costs or may reasonably be required to set aside weekly to pay accommodation costs.
 (2) While a person is not entitled to an accommodation supplement under section 80C of this Act, the accommodation costs of that person shall be considered to be the accommodation costs of that person's spouse or partner for the purposes of—
   (a) This section; and
   (b) Sections 61EA and 61EC of this Act; and
@@ -1954,8 +1958,8 @@ The purpose of sections 61E to 61EC and Schedule 18 is to provide targeted finan
 
 **Miscellaneous provisions as to monetary benefits**
 
-### 62 Grant or renewal of benefit after death of applicant
-Where any applicant for a benefit or for the renewal of a benefit dies before the completion of the investigation of his application, the chief executive may, in the chief executive's discretion, grant or renew the benefit as if the applicant had not died, and in such a case the provisions of sections 61D and 61DA to 61DF of this Act shall apply as if the applicant had been in receipt of the benefit at the time of his death.
+### 62 Grant of benefit after death of applicant
+Where any applicant for a benefit dies before the completion of the investigation of his application, the chief executive may, in the chief executive's discretion, grant the benefit as if the applicant had not died, and in such a case the provisions of sections 61D and 61DA to 61DF of this Act shall apply as if the applicant had been in receipt of the benefit at the time of his death.
 
 ### 63 Conjugal status for benefit purposes
 For the purposes of determining any application for any benefit, or of reviewing any benefit already granted, or of determining the rate of any benefit, or of the granting of any payment of a funeral grant under section 61DB of this Act or of any welfare programme approved by the Minister under section 124(1)(d) of this Act, or of assessing the financial means of any person under section 69FA or Part 4 the chief executive may in the chief executive's discretion— and may determine a date on which they shall be regarded as having commenced to live apart or a date on which they shall be regarded as having entered into such a relationship, as the case may be, and may then in the chief executive's discretion grant a benefit, refuse to grant a benefit, or terminate, reduce, or increase any benefit already granted, from that date accordingly.
@@ -2054,10 +2058,10 @@ Notwithstanding anything to the contrary in this Act, where any person has let h
 (4) Despite anything to the contrary in this section, the chief executive may, in the chief executive's discretion, refuse to grant a disability allowance or may terminate a disability allowance already granted or may grant a disability allowance at a reduced rate, if the applicant is in receipt of a war disablement pension under the War Pensions Act 1954, or an entitlement under the Injury Prevention, Rehabilitation, and Compensation Act 2001, or an overseas pension or periodical allowance which the chief executive deems to be analogous to such war disablement pension or entitlement, in respect of a disability which gives rise to an application for a disability allowance under this section.
 (5) Notwithstanding anything in this section but subject to section 68A of this Act, if— the chief executive shall grant a special disability allowance at the rate specified in Schedule 19 to this Act to the recipient for the purpose of defraying expenses arising from the hospitalisation of the spouse or partner.
   (a) A person who is married or in a civil union or in a de facto relationship (the recipient) is in receipt of New Zealand superannuation or a veteran's pension, or of an invalid's benefit, or an unemployment benefit or a sickness benefit, or a related emergency benefit; and
-  (b) The spouse or partner of the recipient is either—
-    (i) A patient in a hospital as defined in section 75(1) of this Act; or
-    (ii) a resident assessed as requiring care (as defined in section 136) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142; and
-  (c) That spouse or partner is in receipt of a reduced benefit under section 75(3) or (4) of this Act—
+  (b) the recipient's spouse or partner is either—
+    (i) a patient in a hospital (as defined in section 75(1)) who is in receipt of a reduced benefit under section 75(3) or (4); or
+    (ii) a resident assessed as requiring care (as defined in section 136), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or 142,—
+  (c)
 (6) Despite subsection (2)(a), the chief executive may grant a disability allowance under this section to any person who would otherwise qualify for it and—
   (a) Whose life expectancy is less than 6 months; or
   (b) It is not possible to determine whether the disability is likely to continue for not less than 6 months but that is a reasonably possible prognosis.
@@ -2257,7 +2261,7 @@ It is the duty of the chief executive to take all reasonable steps to assist any
 
 ### 72 Limitation where applicant receiving another benefit or war pension
 Notwithstanding anything to the contrary in this Act,—
-  (a) No person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA,, 61G, and 69C:
+  (a) No person is entitled to receive more than 1 benefit in his or her own right, except as provided in sections 39D, 61EA,, 61G, 61GA, and 69C, and section 23 of the Social Security (Working for Families) Amendment Act 2004:
   (b) No person who is granted a pension or allowance under the War Pensions Act 1954 or in respect of whom such a pension or allowance is payable, other than— shall be granted any benefit:
     (i) A pension or allowance granted to that person by reason of his own disablement; or
     (ia) a pension or payment granted under Part 6 of that Act; or.
@@ -2267,10 +2271,10 @@ Notwithstanding anything to the contrary in this Act,—
     Provided further that any person may receive an invalid's benefit or a sickness benefit, or an independent youth benefit on the ground specified in section 60F(1)(c)(i), or a child disability allowance, in addition to a child's pension under section 36, section 62, or section 65 of the War Pensions Act 1954:
   (c) Where any part of a benefit is payable in respect of the spouse or partner of an applicant, that part shall not be paid for any period when a personal benefit is payable in respect of the spouse or partner.
 
-### 73 Limitation where applicant entitled to claim under Family Protection Act 1955 or Maori Affairs Act 1953
-(1) Notwithstanding anything to the contrary in this Act, the chief executive may, in the chief executive's discretion, refuse to grant any benefit (other than New Zealand superannuation, or a veteran's pension not subject to an income test) or may grant any such benefit at a reduced rate or may cancel any such benefit already granted, in any case where any person, being a relative of the applicant, has died without, in the opinion of the chief executive, making adequate provision under his will for the proper maintenance and support of the applicant, and the applicant has, in the opinion of the chief executive, failed without good and sufficient reason to institute proceedings under the Family Protection Act 1955 or under Part 11 of the Maori Affairs Act 1953 for a share in or further provision out of the estate of the relative, and to prosecute with all due diligence any proceedings so instituted by him or any such proceedings on an application under the Family Protection Act 1955 or under Part 11 of the Maori Affairs Act 1953 made or deemed to have been made on his behalf.
+### 73 Limitation where applicant entitled to claim under Family Protection Act 1955
+(1) Notwithstanding anything to the contrary in this Act, the chief executive may, in the chief executive's discretion, refuse to grant any benefit (other than New Zealand superannuation, or a veteran's pension not subject to an income test) or may grant any such benefit at a reduced rate or may cancel any such benefit already granted, in any case where any person, being a relative of the applicant, has died without, in the opinion of the chief executive, making adequate provision under his will for the proper maintenance and support of the applicant, and the applicant has, in the opinion of the chief executive, failed without good and sufficient reason to institute proceedings under the Family Protection Act 1955 for a share in or further provision out of the estate of the relative, and to prosecute with all due diligence any proceedings so instituted by him or any such proceedings on an application under the Family Protection Act 1955 made or deemed to have been made on his behalf.
 (2) In any such proceedings the chief executive shall be entitled to appear and show cause why provision or further provision, as the case may be, should be made for the applicant out of the relative's estate.
-(3) In this section the term relative means a person out of whose estate the applicant is entitled to make a claim for provision under the Family Protection Act 1955 or Part 11 of the Maori Affairs Act 1953.
+(3) In this section the term relative means a person out of whose estate the applicant is entitled to make a claim for provision under the Family Protection Act 1955.
 
 ### 74 Limitation in certain other cases
 (1) Notwithstanding anything to the contrary in this Act or the Social Welfare (Transitional Provisions) Act 1990 or Part 6 of the War Pensions Act 1954 or the New Zealand Superannuation and Retirement Income Act 2001, the chief executive may, in the chief executive's discretion, refuse to grant any benefit or may terminate or reduce any benefit already granted or may grant a benefit at a reduced rate in any case where the chief executive is satisfied—
@@ -2291,6 +2295,9 @@ Notwithstanding anything to the contrary in this Act,—
     (ii) is exempt from holding a residence permit under section 12 of that Act; and
   (b) is ordinarily resident in New Zealand when he or she first applies for the benefit; and
   (c) except in the case of a person who has refugee status under the Immigration Act 1987, has resided continuously in New Zealand for a period of at least 2 years at any one time after the day on which paragraph (a) first applied to him or her.
+(1A) Subsection (1) does not apply to a person at a time when—
+  (a) there is in force under section 19(1) of the Social Welfare (Transitional Provisions) Act 1990 an order declaring that the provisions contained in an agreement or convention with the government of another country set out in a schedule to the order have force and effect so far as they relate to New Zealand; and
+  (b) he or she is ordinarily resident in that country.
 (2) The benefits referred to in subsection (1) are a domestic purposes benefit, an independent youth benefit, an invalid's benefit, a sickness benefit, an unemployment benefit, and a widow's benefit.
 
 ### 74A Persons unlawfully resident or present in New Zealand
@@ -2359,9 +2366,9 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
 (2) If, before the commencement of this subsection, a person left New Zealand while in receipt of an age benefit or a superannuation benefit, such benefit shall, for the purposes of this section, be deemed to be New Zealand superannuation.
 
 ### 79 Persons liable for income tax on earnings while employed overseas deemed to be resident in New Zealand
-(1) Where any person has been employed outside New Zealand and while so employed was liable for the payment of income tax on earnings from that employment, then, for the purposes of satisfying the residential qualification for any benefit after the return to New Zealand of that person or the spouse or partner or any child of that person,—
-  (a) That person shall be deemed to have been resident in New Zealand during the period of such employment outside New Zealand:
-  (b) If the spouse or partner or any child of that person was with the person during that period or any part of it, the spouse or partner or child shall be deemed to have been resident in New Zealand during that period or that part of it, as the case may be:
+(1) Where any person has been employed outside New Zealand and while so employed was liable for the payment of income tax on earnings from that employment, then, for the purposes of satisfying the residential qualification for any benefit after the return, on or after 23 June 1987, to New Zealand of that person or the spouse or partner or any child of that person,—
+  (a) That person shall be deemed to have been resident and present in New Zealand during the period of such employment outside New Zealand:
+  (b) If the spouse or partner or any child of that person was with the person during that period or any part of it, the spouse or partner or child shall be deemed to have been resident and present in New Zealand during that period or that part of it, as the case may be:
   (c) Any child of that person born out of New Zealand during that period shall be deemed to have been born in New Zealand.
 (2) Nothing in subsection (1) of this section shall be construed to derogate from the provisions of section 77 of this Act.
 
@@ -2397,7 +2404,9 @@ Notwithstanding anything to the contrary in this Act, where a beneficiary, or an
 (8) A benefit shall commence on the later of the day after the date a person's employment ceased or the date of the application for the benefit, if—
   (a) The person received a benefit before accepting the offer of the employment; and
   (b) The benefit was cancelled or suspended because of the employment; and
-  (c) The employment was temporary employment, whether or not the person was aware it would be temporary employment when accepting the offer; and
+  (c) the employment—
+    (i) was temporary employment, whether or not the person was aware it would be temporary employment when accepting the offer; or
+    (ii) was part-time work for a period of less than 26 weeks, whether or not the person was aware it would be part-time work for a period of less than 26 weeks when accepting the offer; and
   (d) The person applies for a benefit following the termination of the employment.
 (9)
 (10) If a person is required to pay all or a part of a benefit towards the cost of the person's treatment or care in a residential programme, the chief executive may commence the benefit on any date but not earlier than the later of—
@@ -2780,7 +2789,7 @@ Every person commits an offence and shall be liable on summary conviction to a f
 
 ## Part 1A — Family care grants
 
-## Part 2 — Community wage
+## Part 2 — Unemployment benefit and work testing
 
 ### 87 Purposes of this Part
 [Repealed]
@@ -2867,7 +2876,7 @@ In this Part, unless the context otherwise requires,—
 (5) The chief executive is not required to investigate the person's claim for an unemployment benefit under section 12 unless satisfied that the person has undertaken any required pre-benefit activities.
 (6) Subsection (5) applies whether or not the person has completed the form of application for an unemployment benefit.
 (7) If the person fails to undertake any required pre-benefit activities within 20 working days after the date of first contact, any application for an unemployment benefit the person has made lapses.
-(8) Subsection (7) overrides section 11D(5).
+(8) Subsection (7) overrides section 11D(7).
 (9) This subsection applies to a person if the chief executive considers that he or she has, without a good and sufficient reason, failed to comply with a requirement under paragraph (b) or (c) of subsection (2).
 (10) If subsection (9) applies to a person, the chief executive must, as the case requires,—
   (a) refuse to grant the person an unemployment benefit; or
@@ -2958,7 +2967,7 @@ The chief executive must take reasonable and appropriate steps to make every per
     (i) to undertake the job-search activities set out in the agreement; and
     (ii) to undertake and complete any job-seeker development activity or recognised community activity described in the agreement (subject to the chief executive's taking reasonable steps to arrange for the person to undertake the activity); and
     (iii) to undertake and complete any other activities set out in the agreement; and
-  (h) in the case of a beneficiary to whom subsection (2B) applies, to undertake, when required by the chief executive, any activity (including rehabilitation but not medical treatment) the chief executive considers suitable for the beneficiary to improve the beneficiary's work-readiness or prospects for employment.
+  (h) in the case of a beneficiary to whom subsection (2C) applies, to undertake, when required by the chief executive, any activity (including rehabilitation but not medical treatment) the chief executive considers suitable for the beneficiary to improve the beneficiary's work-readiness or prospects for employment.
 (2A) A person—
   (a) cannot be required to include in his or her job seeker agreement provisions relating to his or her undertaking activity in the community; and
   (b) cannot be required under subsection (1) to undertake activity in the community (whether or not it is included in his or her job seeker agreement).
@@ -3431,7 +3440,9 @@ The Governor-General may from time to time, by Order in Council, make regulation
 (2) If regulations made under subsection (1) prescribe eligibility criteria or amounts of childcare assistance based on the income of the principal caregiver and his or her spouse or partner, the income limits so prescribed must be adjusted, by regulations made under subsection (1), by an amount equal to the percentage movement referred to in paragraph (a) or (b), as the case requires, if,—
   (a) the total percentage increase in the movements in the quarterly all groups index number of the New Zealand Consumers Price Index from that applying on 4 October 2004 is 5% or more:
   (b) the total percentage increase in the movements in the quarterly all groups index: number of the New Zealand Consumers Price Index from that applying on the date when the requirement to make the immediately preceding adjustment under this subsection arose is 5% or more.
-(3) For the purposes of any adjustment required under subsection (2), the amount of any increase must be rounded up to the nearest whole dollar amount, but any subsequent adjustment must be calculated on the amount of the increase without the rounding.
+(3) For the purposes of any adjustment required under subsection (2), the amount of—
+  (a) any income limit to be adjusted is the amount in force immediately before the adjustment takes effect; and
+  (b) any increase must be rounded up to the nearest whole dollar amount, but any subsequent adjustment must be calculated on the amount of the increase without the rounding.
 (4) Any adjustment required by subsection (2) contained in regulations made under subsection (1) takes effect on the first day of April following the making of those regulations.
 
 ### 132B Regulations providing for assessment of financial means of people requiring disability services
@@ -3800,7 +3811,7 @@ A person who has been means assessed as to assets may apply for a loan under the
   (j) prescribing an amount or type of income, or an amount of a certain type of income, that is not to be included in a means assessment as to income, as provided for in paragraph (k) of the definition of income in Part 3 of Schedule 27:
   (k) prescribing the amount of personal allowance:
   (l) providing for any other matters contemplated by this Part, necessary for its administration, or necessary for giving it full effect.
-(2) The income-from-assets exemption (as defined in Part 3 of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the All Groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 1 March.
+(2) The income-from-assets exemption (as defined in Part 3 of Schedule 27) must be increased on 1 July 2007, and on every following 1 July, by an amount that reflects the movement in the All Groups index number of the New Zealand Consumers Price Index (published by Statistics New Zealand) for the year ending on the previous 31 March.
 (3) If the adjusted amount of income-from-assets exemption is not a whole number of dollars—
   (a) it must be rounded up to the nearest whole number of dollars; but
   (b) the adjustment made in the following year must be based on the income-from-assets exemption as it was before it was rounded up.
