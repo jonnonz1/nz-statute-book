@@ -1,7 +1,7 @@
 # Companies Act 1993
-_Consolidation as at 2010-04-20_
+_Consolidation as at 2010-07-07_
 
-> An Act to reform the law relating to companies, and, in particular,—a to reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; and bto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; and c to define the relationships between companies and their directors, shareholders, and creditors; and d to encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; and e to provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
+> An Act to reform the law relating to companies, and, in particular,—ato reaffirm the value of the company as a means of achieving economic and social benefits through the aggregation of capital for productive purposes, the spreading of economic risk, and the taking of business risks; andbto provide basic and adaptable requirements for the incorporation, organisation, and operation of companies; andcto define the relationships between companies and their directors, shareholders, and creditors; anddto encourage efficient and responsible management of companies by allowing directors a wide discretion in matters of business judgment while at the same time providing protection for shareholders and creditors against the abuse of management power; andeto provide straightforward and fair procedures for realising and distributing the assets of insolvent companies
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Companies Act 1993.
@@ -29,7 +29,7 @@ _Consolidation as at 2010-04-20_
   - **Court** means the High Court of New Zealand
   - **designated settlement system** has the meaning set out in section 156M of the Reserve Bank of New Zealand Act 1989
   - **director** has the meaning set out in section 126 of this Act
-  - **distribution** , in relation to a distribution by a company to a shareholder, means— in relation to shares held by that shareholder, and whether by means of a purchase of property, the redemption or other acquisition of shares, a distribution of indebtedness, or by some other means
+  - **distribution** , in relation to a distribution by a company to a shareholder, means—in relation to shares held by that shareholder, and whether by means of a purchase of property, the redemption or other acquisition of shares, a distribution of indebtedness, or by some other means
     (a) the direct or indirect transfer of money or property, other than the company's own shares, to or for the benefit of the shareholder; or
     (b) the incurring of a debt to or for the benefit of the shareholder—
   - **dividend** has the meaning set out in section 53 of this Act
@@ -90,7 +90,7 @@ _Consolidation as at 2010-04-20_
 (2) Where,—the document may be delivered or that thing may be done to that District Registrar or Assistant Registrar on the next working day.
   (a) in relation to a company or an overseas company, any document is required to be delivered or any thing is required to be done to a District Registrar or an Assistant Registrar in whose office the records relating to the company or overseas company are kept within a period specified by this Act; and
   (b) the last day of that period falls on the day of the anniversary of the province in which that office is situated,—
-(3) In this Act, a company is related to another company if— and related company has a corresponding meaning.
+(3) In this Act, a company is related to another company if—and related company has a corresponding meaning.
   (a) the other company is its holding company or subsidiary; or
   (b) more than half of the issued shares of the company, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, is held by the other company and companies related to that other company (whether directly or indirectly, but other than in a fiduciary capacity); or
   (c) more than half of the issued shares, other than shares that carry no right to participate beyond a specified amount in a distribution of either profits or capital, of each of them is held by members of the other (whether directly or indirectly, but other than in a fiduciary capacity); or
@@ -113,6 +113,9 @@ _Consolidation as at 2010-04-20_
   (b) in at least 1 issue of a newspaper circulating in the area in which is situated—
     (i) the place of business in New Zealand of the overseas company; or
     (ii) if the overseas company has more than 1 place of business in New Zealand, the principal place of business in New Zealand of the overseas company.
+(3) However, subsections (1) and (2) do not apply to the public notice required to be given by the Registrar under sections 319(1)(c), 320(1), 328(3)(a), and 360A(2)(b).
+(4) The public notice required to be given by the Registrar under the provisions referred to in subsection (3) must be given by publishing the notice in at least 1 issue of the Gazette.
+(5) The Registrar must ensure that a copy of the notice referred to in subsection (4) is available on an Internet site maintained by or on behalf of the Registrar, at all reasonable times, for a period of not less than 20 working days.
 
 ### 4 Meaning of solvency test
 (1) For the purposes of this Act, a company satisfies the solvency test if—
@@ -154,7 +157,7 @@ For the purposes of section 5 of this Act, without limiting the circumstances in
 ### 8 Certain matters to be disregarded
 In determining whether a company is a subsidiary of another company,—
   (a) shares held or a power exercisable by that other company in a fiduciary capacity are not to be treated as held or exercisable by it:
-  (b) subject to paragraphs (c) and (d) of this section, shares held or a power exercisable— are to be treated as held or exercisable by that other company:
+  (b) subject to paragraphs (c) and (d) of this section, shares held or a power exercisable—are to be treated as held or exercisable by that other company:
     (i) by a person as a nominee for that other company, except where that other company is concerned only in a fiduciary capacity; or
     (ii) by, or by a nominee for, a subsidiary of that other company, not being a subsidiary which is concerned only in a fiduciary capacity,—
   (c) shares held or a power exercisable by a person under the provisions of debentures of the company or of a trust deed for securing an issue of debentures shall be disregarded:
@@ -233,7 +236,7 @@ A company is a legal entity in its own right separate from its shareholders and 
 (3) The fact that an act is not, or would not be, in the best interests of a company does not affect the capacity of the company to do the act.
 
 ### 18 Dealings between company and other persons
-(1) A company or a guarantor of an obligation of a company may not assert against a person dealing with the company or with a person who has acquired property, rights, or interests from the company that— unless the person has, or ought to have, by virtue of his or her position with or relationship to the company, knowledge of the matters referred to in any of paragraphs (a), (b), (c), (d), or (e), as the case may be, of this subsection.
+(1) A company or a guarantor of an obligation of a company may not assert against a person dealing with the company or with a person who has acquired property, rights, or interests from the company that—unless the person has, or ought to have, by virtue of his or her position with or relationship to the company, knowledge of the matters referred to in any of paragraphs (a), (b), (c), (d), or (e), as the case may be, of this subsection.
   (a) this Act or the constitution of the company has not been complied with:
   (b) a person named as a director of the company in the most recent notice received by the Registrar under section 159 of this Act—
     (i) is not a director of a company; or
@@ -331,7 +334,7 @@ Subject to section 16(2) of this Act, the constitution of a company may contain�
 
 ### 31 Effect of constitution
 (1) The constitution of a company has no effect to the extent that it contravenes, or is inconsistent with, this Act.
-(2) Subject to this Act, the constitution of a company is binding as between— in accordance with its terms.
+(2) Subject to this Act, the constitution of a company is binding as between—in accordance with its terms.
   (a) the company and each shareholder; and
   (b) each shareholder—
 
@@ -538,16 +541,16 @@ Subject to the constitution of the company, the board of a company may issue sha
   (a) the shareholder received the distribution in good faith and without knowledge of the company's failure to satisfy the solvency test; and
   (b) the shareholder has altered the shareholder's position in reliance on the validity of the distribution; and
   (c) it would be unfair to require repayment in full or at all.
-(2) If, in relation to a distribution made to shareholders,— a director who—is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.
+(2) If, in relation to a distribution made to shareholders,—a director who—is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.
   (a) the procedure set out in section 52 or section 70 or section 77 of this Act, as the case may be, has not been followed; or
   (b) reasonable grounds for believing that the company would satisfy the solvency test in accordance with section 52 or section 70 or section 77 of this Act, as the case may be, did not exist at the time the certificate was signed,—
   (c) failed to take reasonable steps to ensure the procedure was followed; or
   (d) signed the certificate, as the case may be,—
-(3) If, by virtue of section 52(3) or section 70(3) or section 77(3) of this Act, as the case may be, a distribution is deemed not to have been authorised, a director who— is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.
+(3) If, by virtue of section 52(3) or section 70(3) or section 77(3) of this Act, as the case may be, a distribution is deemed not to have been authorised, a director who—is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.
   (a) ceased after authorisation but before the making of the distribution to be satisfied on reasonable grounds for believing that the company would satisfy the solvency test immediately after the distribution is made; and
   (b) failed to take reasonable steps to prevent the distribution being made,—
 (4) If, by virtue of section 55(5) of this Act, a distribution is deemed not to have been authorised, a director who failed to take reasonable steps to prevent the distribution being made is personally liable to the company to repay to the company so much of the distribution as is not able to be recovered from shareholders.
-(5) If, in an action brought against a director or shareholder under this section, the Court is satisfied that the company could, by making a distribution of a lesser amount, have satisfied the solvency test, the Court may— an amount equal to the value of any distribution that could properly have been made.
+(5) If, in an action brought against a director or shareholder under this section, the Court is satisfied that the company could, by making a distribution of a lesser amount, have satisfied the solvency test, the Court may—an amount equal to the value of any distribution that could properly have been made.
   (a) permit the shareholder to retain; or
   (b) relieve the director from liability in respect of—
 
@@ -723,7 +726,7 @@ For the purposes of section 61 of this Act, a disclosure document is a document 
 ### 68 Meaning of redeemable
 For the purposes of this Act, a share is redeemable if—
   (a) the constitution of the company makes provision for the company to issue redeemable shares; and
-  (b) the constitution or the terms of issue of the share makes provision for the redemption of that share by the company— for a consideration that is—
+  (b) the constitution or the terms of issue of the share makes provision for the redemption of that share by the company—for a consideration that is—
     (i) at the option of the company; or
     (ii) at the option of the holder of the share; or
     (iii) on a date specified in the constitution or the terms of issue of the share—
@@ -947,7 +950,7 @@ Shares in a company may pass by operation of law notwithstanding the constitutio
 (1) A company must maintain a share register that records the shares issued by the company and states—
   (a) whether, under the constitution of the company or the terms of issue of the shares, there are any restrictions or limitations on their transfer; and
   (b) where any document that contains the restrictions or limitations may be inspected.
-(2) The share register must state, with respect to each class of shares,— each shareholder within the last 10 years, and in relation to the transfer, the name of the person to or from whom the shares were transferred.
+(2) The share register must state, with respect to each class of shares,—each shareholder within the last 10 years, and in relation to the transfer, the name of the person to or from whom the shares were transferred.
   (a) the names, alphabetically arranged, and the latest known address of each person who is, or has within the last 10 years been, a shareholder; and
   (b) the number of shares of that class held by each shareholder within the last 10 years; and
   (c) the date of any—
@@ -1091,7 +1094,7 @@ In this Act, the term shareholder, in relation to a company, means—
 (6) For the purposes of subsection (1) of this section, specified period means—
   (a) a period of 1 year before the date of commencement of the liquidation of the company together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that has been put into liquidation by the Court, the period of 1 year before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date on which, and at the time at which, the order was made; and
-  (c) if— the period of 1 year before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 1 year before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 
@@ -1121,7 +1124,7 @@ In this Act, the term shareholder, in relation to a company, means—
   (b) the person to whom the share was issued no longer holds that share,—
 
 ### 101 Shareholders not required to acquire shares by alteration to constitution
-Notwithstanding anything in the constitution of the company, a shareholder is not bound by an alteration of the constitution of a company that— unless the shareholder agrees in writing to be bound by the alteration either before, on, or after it is made.
+Notwithstanding anything in the constitution of the company, a shareholder is not bound by an alteration of the constitution of a company that—unless the shareholder agrees in writing to be bound by the alteration either before, on, or after it is made.
   (a) requires the shareholder to acquire or hold more shares in the company than the number held on the date the alteration is made; or
   (b) increases the liability of the shareholder to the company—
 
@@ -1148,7 +1151,7 @@ Notwithstanding anything in the constitution of the company, a shareholder is no
 (2) An ordinary resolution is a resolution that is approved by a simple majority of the votes of those shareholders entitled to vote and voting on the question.
 
 ### 106 Powers exercised by special resolution
-(1) Notwithstanding the constitution of a company, when shareholders exercise a power to— the power must be exercised by special resolution.
+(1) Notwithstanding the constitution of a company, when shareholders exercise a power to—the power must be exercised by special resolution.
   (a) adopt a constitution or, if it has one, alter or revoke the company's constitution:
   (b) approve a major transaction:
   (c) approve an amalgamation of the company under section 221 of this Act:
@@ -1203,7 +1206,7 @@ Where—that shareholder is entitled to require the company to purchase those sh
   (d) where the resolution to exercise the power was passed under section 122 of this Act, the shareholder did not sign the resolution,—
 
 ### 111 Notice requiring purchase
-(1) A shareholder of a company who is entitled to require the company to purchase shares by virtue of section 110 or section 118 of this Act may,— give a written notice to the company requiring the company to purchase those shares.
+(1) A shareholder of a company who is entitled to require the company to purchase shares by virtue of section 110 or section 118 of this Act may,—give a written notice to the company requiring the company to purchase those shares.
   (a) within 10 working days of the passing of the resolution at a meeting of shareholders; or
   (b) where the resolution was passed under section 122 of this Act, before the expiration of 10 working days after the date on which notice of the passing of the resolution is given to the shareholder,—
 (2) Within 20 working days of receiving a notice under subsection (1) of this section, the board must—
@@ -1276,7 +1279,7 @@ Where—that shareholder is entitled to require the company to purchase those sh
 (3) The Court shall not make an order under subsection (2) of this section on either of the grounds set out in paragraph (a) or paragraph (b) of subsection (1) of this section unless it is satisfied that the company has made reasonable efforts to arrange for another person to purchase the shares in accordance with section 111(2)(b) of this Act.
 
 ### 115 Court may grant exemption if company insolvent
-(1) If— the company must apply to the Court for an order exempting it from the obligation to purchase the shares.
+(1) If—the company must apply to the Court for an order exempting it from the obligation to purchase the shares.
   (a) a notice is given to a company under section 111 of this Act; and
   (b) the board has resolved that the purchase by the company of the shares to which the notice relates would result in it failing to satisfy the solvency test; and
   (c) the company has, having made reasonable efforts to do so, been unable to arrange for the shares to be purchased by another person in accordance with section 111(2)(b) of this Act,—
@@ -1298,7 +1301,7 @@ Where—that shareholder is entitled to require the company to purchase those sh
     (c) subject to subsection (2)(b) of this section, who comprise the holders of 1 or more classes of shares in the company.
 (2) For the purposes of this Act and the definition of the term interest group,—
   (a) 1 or more interest groups may exist in relation to any action or proposal; and
-  (b) if— holders of shares in the same class may fall into 2 or more interest groups.
+  (b) if—holders of shares in the same class may fall into 2 or more interest groups.
     (i) action is taken in relation to some holders of shares in a class and not others; or
     (ii) a proposal expressly distinguishes between some holders of shares in a class and other holders of shares of that class,—
 
@@ -1347,7 +1350,7 @@ A special meeting of shareholders entitled to vote on an issue—
 (1) Subject to subsections (2) and (3), a resolution in writing signed by not less than—whichever is the greater, of the shareholders who would be entitled to vote on that resolution at a meeting of shareholders who together hold not less than 75% or, if a higher percentage is required by the constitution, that higher percentage, of the votes entitled to be cast on that resolution, is as valid as if it had been passed at a meeting of those shareholders.
   (a) 75%; or
   (b) such other percentage as the constitution may require for passing a special resolution,—
-(2) A resolution in writing that— is made in accordance with this Act or the constitution of the company.
+(2) A resolution in writing that—is made in accordance with this Act or the constitution of the company.
   (a) relates to a matter that is required by this Act or by the constitution to be decided at a meeting of the shareholders of a company; and
   (b) is signed by the shareholders specified in subsection (3) of this section—
 (3) For the purposes of subsection (2)(b) of this section, the shareholders are,—
@@ -1364,7 +1367,7 @@ A special meeting of shareholders entitled to vote on an issue—
   (b) every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(1) of this Act.
 
 ### 123 Court may call meeting of shareholders
-(1) If the Court is satisfied that— the Court may order a meeting of shareholders to be held or conducted in such manner as the Court directs.
+(1) If the Court is satisfied that—the Court may order a meeting of shareholders to be held or conducted in such manner as the Court directs.
   (a) it is impracticable to call or conduct a meeting of shareholders in the manner prescribed by this Act or the constitution; or
   (b) it is in the interests of a company that a meeting of shareholders be held,—
 (2) Application to the Court may be made by a director, or a shareholder, or a creditor of the company.
@@ -1376,7 +1379,7 @@ The provisions of Schedule 1 to this Act govern proceedings at meetings of share
 **Ascertaining shareholders**
 
 ### 125 Shareholders entitled to receive distributions, attend meetings, and exercise rights
-(1) The shareholders who are— are,—
+(1) The shareholders who are—are,—
   (a) entitled to receive distributions; or
   (b) entitled to exercise pre-emptive rights to acquire shares in accordance with section 45 of this Act; or
   (c) entitled to exercise any other right or receive any other benefit under this Act or the constitution or pursuant to the terms of issue of shares—
@@ -1401,7 +1404,7 @@ The provisions of Schedule 1 to this Act govern proceedings at meetings of share
   (d) for the purposes of sections 145 to 149, and clause clause 3(4)(b) of Schedule 7 of this Act, a person in accordance with whose directions or instructions a person referred to in paragraphs (a) to (c) of this subsection may be required or is accustomed to act in respect of his or her duties and powers as a director.
 (1A) In this Act, director, in relation to a company, does not include a receiver.
 (2) If the constitution of a company confers a power on shareholders which would otherwise fall to be exercised by the board, any shareholder who exercises that power or who takes part in deciding whether to exercise that power is deemed, in relation to the exercise of the power or any consideration concerning its exercise, to be a director for the purposes of sections 131 to 138 of this Act.
-(3) If the constitution of a company requires a director or the board to exercise or refrain from exercising a power in accordance with a decision or direction of shareholders, any shareholder who takes part in— as the case may be, is deemed, in relation to making any such decision, to be a director for the purposes of sections 131 to 138 of this Act.
+(3) If the constitution of a company requires a director or the board to exercise or refrain from exercising a power in accordance with a decision or direction of shareholders, any shareholder who takes part in—as the case may be, is deemed, in relation to making any such decision, to be a director for the purposes of sections 131 to 138 of this Act.
   (a) the making of any decision that the power should or should not be exercised; or
   (b) the making of any decision whether to give a direction,—
 (4) Paragraphs (b) to (d) of subsection (1) of this section do not include a person to the extent that the person acts only in a professional capacity.
@@ -1619,7 +1622,7 @@ Subject to the constitution of the company, a director of a company who is inter
 (3) Subsection (1) of this section does not apply in relation to a share or security that is acquired or disposed of by a director only as a nominee for the company or a related company.
 (4) Where a director acquires shares or securities in contravention of subsection (1)(a) of this section, the director is liable to the person from whom the shares or securities were acquired for the amount by which the fair value of the shares or securities exceeds the amount paid by the director.
 (5) Where a director disposes of shares or securities in contravention of subsection (1)(b) of this section, the director is liable to the person to whom the shares or securities were disposed of for the amount by which the consideration received by the director exceeds the fair value of the shares or securities.
-(6) Nothing in this section applies in relation to a company to which Part 1 of the Securities Markets Amendment Act 1988 applies.
+(6) Nothing in this section applies in relation to a company to which Part 1 of the Securities Markets Act 1988 applies.
 
 **Appointment and removal of directors**
 
@@ -1687,7 +1690,7 @@ The acts of a person as a director are valid even though—
   (b) the person is not qualified for appointment.
 
 ### 159 Notice of change of directors
-(1) The board of a company must ensure that notice in the prescribed form of— is delivered to the Registrar for registration.
+(1) The board of a company must ensure that notice in the prescribed form of—is delivered to the Registrar for registration.
   (a) a change in the directors of a company, whether as the result of a director ceasing to hold office or the appointment of a new director, or both; or
   (b) a change in the name or the residential address of a director of a company—
 (2) A notice under subsection (1) of this section must—
@@ -1714,10 +1717,10 @@ Subject to the constitution of a company, the provisions set out in Schedule 3 t
 (2) The board must ensure that forthwith after authorising the making of the payment or the provision of the benefit or the making of the loan or the giving of the guarantee or the entering into of the contract, as the case may be, particulars of the payment or benefit or loan or guarantee or contract are entered in the interests register.
 (3) The payment of remuneration or the giving of any other benefit to a director in accordance with a contract authorised under subsection (1) of this section need not be separately authorised under that subsection.
 (4) Directors who vote in favour of authorising a payment, benefit, loan, guarantee, or contract under subsection (1) of this section must sign a certificate stating that, in their opinion, the making of the payment or the provision of the benefit, or the making of the loan, or the giving of the guarantee, or the entering into of the contract is fair to the company, and the grounds for that opinion.
-(5) Where a payment is made or other benefit provided or a guarantee is given to which subsection (1) of this section applies and either— the director or former director to whom the payment is made or the benefit is provided, or in respect of whom the guarantee is given, as the case may be, is personally liable to the company for the amount of the payment, or the monetary value of the benefit, or any amount paid by the company under the guarantee, except to the extent to which he or she proves that the payment or benefit or guarantee was fair to the company at the time it was made, provided, or given.
+(5) Where a payment is made or other benefit provided or a guarantee is given to which subsection (1) of this section applies and either—the director or former director to whom the payment is made or the benefit is provided, or in respect of whom the guarantee is given, as the case may be, is personally liable to the company for the amount of the payment, or the monetary value of the benefit, or any amount paid by the company under the guarantee, except to the extent to which he or she proves that the payment or benefit or guarantee was fair to the company at the time it was made, provided, or given.
   (a) the provisions of subsections (1) and (4) of this section have not been complied with; or
   (b) reasonable grounds did not exist for the opinion set out in the certificate given under subsection (4) of this section,—
-(6) Where a loan is made to which subsection (1) of this section applies and either— the loan becomes immediately repayable to the company by the director, notwithstanding the terms of any agreement relating to the giving of the loan, except to the extent to which he or she proves that the loan was fair to the company at the time it was given.
+(6) Where a loan is made to which subsection (1) of this section applies and either—the loan becomes immediately repayable to the company by the director, notwithstanding the terms of any agreement relating to the giving of the loan, except to the extent to which he or she proves that the loan was fair to the company at the time it was given.
   (a) the provisions of subsections (1) and (4) of this section have not been complied with; or
   (b) reasonable grounds did not exist for the opinion set out in the certificate given under subsection (4) of this section,—
 
@@ -1729,7 +1732,7 @@ Subject to the constitution of a company, the provisions set out in Schedule 3 t
 (3) A company may, if expressly authorised by its constitution, indemnify a director or employee of the company or a related company for any costs incurred by him or her in any proceeding—
   (a) that relates to liability for any act or omission in his or her capacity as a director or employee; and
   (b) in which judgment is given in his or her favour, or in which he or she is acquitted, or which is discontinued.
-(4) A company may, if expressly authorised by its constitution, indemnify a director or employee of the company or a related company in respect of— not being criminal liability or liability in respect of a breach, in the case of a director, of the duty specified in section 131 of this Act or, in the case of an employee, of any fiduciary duty owed to the company or related company.
+(4) A company may, if expressly authorised by its constitution, indemnify a director or employee of the company or a related company in respect of—not being criminal liability or liability in respect of a breach, in the case of a director, of the duty specified in section 131 of this Act or, in the case of an employee, of any fiduciary duty owed to the company or related company.
   (a) liability to any person other than the company or a related company for any act or omission in his or her capacity as a director or employee; or
   (b) costs incurred by that director or employee in defending or settling any claim or proceeding relating to any such liability,—
 (5) A company may, if expressly authorised by its constitution and with the prior approval of the board, effect insurance for a director or employee of the company or a related company in respect of—
@@ -1804,7 +1807,7 @@ No proceedings brought by a shareholder or a director or in which a shareholder 
 ### 169 Personal actions by shareholders against directors
 (1) A shareholder or former shareholder may bring an action against a director for breach of a duty owed to him or her as a shareholder.
 (2) An action may not be brought under subsection (1) of this section to recover any loss in the form of a reduction in the value of shares in the company or a failure of the shares to increase in value by reason only of a loss suffered, or a gain forgone, by the company.
-(3) Without limiting subsection (1) of this section, the duties of directors set out in— are duties owed to shareholders, while the duties of directors set out in— are duties owed to the company and not to shareholders.
+(3) Without limiting subsection (1) of this section, the duties of directors set out in—are duties owed to shareholders, while the duties of directors set out in—are duties owed to the company and not to shareholders.
   (a) section 90 of this Act (which relates to the duty to supervise the share register); and
   (b) section 140 of this Act (which relates to the duty to disclose interests); and
   (c) section 148 of this Act (which relates to the duty to disclose share dealings)—
@@ -2035,7 +2038,7 @@ In proceedings against a company for breach of a pre-incorporation contract whic
   (a) in written form; and
   (b) without charge; and
   (c) at a reasonable time specified by the director.
-(2) The Court may, on application by the company, if it is satisfied that— direct that the records need not be made available for inspection or limit the inspection of them in any manner it thinks fit.
+(2) The Court may, on application by the company, if it is satisfied that—direct that the records need not be made available for inspection or limit the inspection of them in any manner it thinks fit.
   (a) it would not be in the company's interests for a director to inspect the records; or
   (b) the proposed inspection is for a purpose that is not properly connected with the director's duties,—
 
@@ -2086,10 +2089,10 @@ In proceedings against a company for breach of a pre-incorporation contract whic
 ### 195 Place accounting records to be kept
 (1) A company need not keep its accounting records in New Zealand.
 (2) If the records are not kept in New Zealand,—
-  (a) the company must ensure that accounts and returns for the operations of the company that— are sent to, and kept at, a place in New Zealand; and
+  (a) the company must ensure that accounts and returns for the operations of the company that—are sent to, and kept at, a place in New Zealand; and
     (i) disclose with reasonable accuracy the financial position of the company at intervals not exceeding 6 months; and
     (ii) will enable the preparation in accordance with the Financial Reporting Act 1993 of the company's financial statements and any group financial statements and any other document required by this Act—
-  (b) notice of the place where— are kept, must be given to the Registrar.
+  (b) notice of the place where—are kept, must be given to the Registrar.
     (i) the accounting records; and
     (ii) the accounts and returns required under paragraph (a) of this subsection—
 (3) If a company fails to comply with subsection (2) of this section,—
@@ -2136,7 +2139,7 @@ The fees and expenses of an auditor of a company shall be fixed,—
 
 ### 199 Qualifications of auditors
 (1) A person must not be appointed or act as an auditor of a company unless—
-  (a) the person is a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996); or
+  (a) the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
   (b)
   (c) the person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where—
     (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this section by the Registrar; and
@@ -2189,7 +2192,7 @@ An auditor of a company must ensure, in carrying out the duties of an auditor un
 (2) An auditor of a company is entitled to require from a director or employee of the company such information and explanations as he or she thinks necessary for the performance of his or her duties as auditor.
 (3) If the board of a company fails to comply with subsection (1) of this section, every director commits an offence and is liable on conviction to the penalty set out in section 374(2) of this Act.
 (4) A director or employee who fails to comply with subsection (2) of this section commits an offence and is liable on conviction to the penalty set out in section 373(2) of this Act.
-(5) It is a defence to an employee charged with an offence against subsection (4) of this section if he or she proves that— as the case may be.
+(5) It is a defence to an employee charged with an offence against subsection (4) of this section if he or she proves that—as the case may be.
   (a) he or she did not have the information required in his or her possession or under his or her control; or
   (b) by reason of the position occupied by him or her or the duties assigned to him or her, he or she was unable to give the explanations required,—
 
@@ -2308,7 +2311,7 @@ Subject to the constitution of a company, the failure to send an annual report, 
 (10) If the board of a company fails to comply with subsection (1) or subsection (2) of this section, every director of the company commits an offence and is liable on conviction to the penalty set out in section 374(2) of this Act.
 
 ### 214A Registrar may alter New Zealand register
-If the annual return contains— that is different from the address of the registered office, the address for service, or the postal address of the company entered on the New Zealand register, the Registrar may alter the New Zealand register accordingly.
+If the annual return contains—that is different from the address of the registered office, the address for service, or the postal address of the company entered on the New Zealand register, the Registrar may alter the New Zealand register accordingly.
   (a) an address of the registered office of the company; or
   (b) an address for service of the company; or
   (c) a postal address of the company—
@@ -2444,7 +2447,7 @@ On the date shown in a certificate of amalgamation,—
 
 ### 225A Registers
 (1) Where an amalgamation becomes effective, no Registrar of Deeds or District Land Registrar or other person charged with the keeping of any books or registers shall be obliged, solely by reason of the amalgamation becoming effective, to change the name of an amalgamating company to that of an amalgamated company in those books or registers or in any documents.
-(2) The presentation to any Registrar or other person of any instrument (whether or not comprising an instrument of transfer) by the amalgamated company— shall, in the absence of evidence to the contrary, be sufficient evidence that the property has become the property of the amalgamated company.
+(2) The presentation to any Registrar or other person of any instrument (whether or not comprising an instrument of transfer) by the amalgamated company—shall, in the absence of evidence to the contrary, be sufficient evidence that the property has become the property of the amalgamated company.
   (a) executed or purporting to be executed by the amalgamated company; and
   (b) relating to any property held immediately before the amalgamation by an amalgamating company; and
   (c) stating that that property has become the property of the amalgamated company by virtue of this Part of this Act—
@@ -2518,14 +2521,14 @@ In this Part of this Act, unless the context otherwise requires,—
     (i) proceedings in relation to a debt owing by the company be stayed; or
     (ii) a creditor refrain from taking any other measure to enforce payment of a debt owing by the company.
 (2) Nothing in subsection (1)(b) of this section affects the right of a secured creditor during that period to take possession of, realise, or otherwise deal with, property of the company over which that creditor has a charge.
-(3) If the Court is satisfied, on the application of a creditor of a company who was entitled to vote on a compromise that— the Court may order that the creditor is not bound by the compromise or make such other order as it thinks fit.
+(3) If the Court is satisfied, on the application of a creditor of a company who was entitled to vote on a compromise that—the Court may order that the creditor is not bound by the compromise or make such other order as it thinks fit.
   (a) insufficient notice of the meeting or of the matter required to be notified under section 229 of this Act was given to that creditor; or
   (b) there was some other material irregularity in obtaining approval of the compromise; or
   (c) in the case of a creditor who voted against the compromise, the compromise is unfairly prejudicial to that creditor, or to the class of creditors to which that creditor belongs,—
 (4) An application under subsection (3) of this section must be made not later than 10 working days after the date on which notice of the result of the voting was given to the creditor.
 
 ### 233 Effect of compromise in liquidation of company
-(1) Where a compromise is approved under section 230 of this Act, the Court may, on the application of— make such order as the Court thinks fit with respect to the extent, if any, to which the compromise will, if the company is put into liquidation, continue in effect and be binding on the liquidator of the company.
+(1) Where a compromise is approved under section 230 of this Act, the Court may, on the application of—make such order as the Court thinks fit with respect to the extent, if any, to which the compromise will, if the company is put into liquidation, continue in effect and be binding on the liquidator of the company.
   (a) the company; or
   (b) a receiver appointed in relation to property of the company; or
   (c) with the leave of the Court, any creditor or shareholder of the company,—
@@ -3641,7 +3644,7 @@ Where there have been mutual credits, mutual debts, or other mutual dealings bet
   (b) in satisfaction of a call in respect of an outstanding liability of the shareholder made by the board of the company or by the administrator.
 
 ### 239AEI Calculation of netted balance
-If a company in administration is a party to a netting agreement,— as the case may be.
+If a company in administration is a party to a netting agreement,—as the case may be.
   (a) any netted balance payable by or to the company must be calculated in accordance with the netting agreement; and
   (b) that netted balance constitutes, in respect of the transactions that are included in the calculation,—
     (i) the debt that is owed to the creditor and that may be admitted under the deed of company arrangement; or
@@ -3663,7 +3666,7 @@ Sections 239AEI to 239AEP apply to transactions that are subject to a bilateral 
 
 ### 239AEM Transactions under netting agreement and effect on certain sections
 (1) Nothing in sections 239AEH to 239AEP prevents the operation of section 56 or, subject to section 239ACB, section 292, 297 or 298 in respect of a transaction that is subject to a netting agreement.
-(2) However, nothing in section 292(3) applies to a transaction that is subject to a netting agreement.
+(2) However, nothing in section 292(4A) applies to a transaction that is subject to a netting agreement.
 (3) For the purposes of sections 292 and 297, the term transaction, in relation to a company, does not include a netting agreement entered into by the company, except to the extent that the effect of entering into the netting agreement is to reduce any amount that was owing by or to the company at the time the company entered into the agreement.
 
 ### 239AEN Rights under netting agreement not affected by commencement of administration
@@ -3812,7 +3815,7 @@ Where 2 or more persons are appointed as liquidators of a company, those persons
 (11) Except for subsection (5), this section does not apply if the liquidator is appointed under section 241(2)(d).
 
 ### 244 Liquidator to summon meeting of creditors in other cases
-Subject to section 245 of this Act, the liquidator of a company who was not, by reason of section 243(8) of this Act, required to call a meeting of creditors of the company must,— forthwith call a meeting of the creditors of the company for the purpose specified in paragraph (a) or paragraph (b) of subsection (1) of section 243 of this Act, as the case may be; and the provisions of that section shall apply accordingly with such modifications as may be necessary.
+Subject to section 245 of this Act, the liquidator of a company who was not, by reason of section 243(8) of this Act, required to call a meeting of creditors of the company must,—forthwith call a meeting of the creditors of the company for the purpose specified in paragraph (a) or paragraph (b) of subsection (1) of section 243 of this Act, as the case may be; and the provisions of that section shall apply accordingly with such modifications as may be necessary.
   (a) if the liquidator is satisfied that the directors who voted in favour of a resolution referred to in that subsection did not have reasonable grounds to believe that the company would, on the appointment of a liquidator under paragraph (a) or paragraph (b) of subsection (2) of section 241 of this Act, be able to pay its debts; or
   (b) if the liquidator is satisfied that the company is not able to pay its debts,—
 
@@ -3867,7 +3870,7 @@ Subject to section 245 of this Act, the liquidator of a company who was not, by 
 (6) If any question arises as to whether on the date on which an interim liquidator was appointed an act was done or a transaction was entered into or effected before or after the time at which the interim liquidator was appointed, that act or transaction is, in the absence of proof to the contrary, deemed to have been done or entered into or effected, as the case may be, after that time.
 
 ### 247 Power to stay or restrain certain proceedings against company
-At any time after the making of an application to the Court under section 241(2)(c) of this Act to appoint a liquidator of a company and before a liquidator is appointed, the company or any creditor or shareholder of the company may,— and the Court or Court of Appeal, as the case may be, may stay or restrain the application or proceeding on such terms as it thinks fit.
+At any time after the making of an application to the Court under section 241(2)(c) of this Act to appoint a liquidator of a company and before a liquidator is appointed, the company or any creditor or shareholder of the company may,—and the Court or Court of Appeal, as the case may be, may stay or restrain the application or proceeding on such terms as it thinks fit.
   (a) in the case of any application or proceeding against the company that is pending in the Court or Court of Appeal, apply to the Court or Court of Appeal, as the case may be, for a stay of the application or proceeding:
   (b) in the case of any other application or proceeding pending against the company in any court or tribunal, apply to the Court to restrain the application or proceeding—
 
@@ -3948,12 +3951,12 @@ The liquidation of a company is completed when the liquidator—as the case may 
 **Duties, rights, and powers of liquidators**
 
 ### 253 Principal duty of liquidator
-Subject to section 254 of this Act, the principal duty of a liquidator of a company is— in a reasonable and efficient manner.
+Subject to section 254 of this Act, the principal duty of a liquidator of a company is—in a reasonable and efficient manner.
   (a) to take possession of, protect, realise, and distribute the assets, or the proceeds of the realisation of the assets, of the company to its creditors in accordance with this Act; and
   (b) if there are surplus assets remaining, to distribute them, or the proceeds of the realisation of the surplus assets, in accordance with section 313(4) of this Act—
 
 ### 254 Liquidator not required to act in certain cases
-Notwithstanding any other provisions of this Part of this Act,— the Official Assignee shall not be required, without the consent of the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act, to carry out any duty or exercise any power in connection with the liquidation if, to do so, would or would be likely to involve incurring any expense.
+Notwithstanding any other provisions of this Part of this Act,—the Official Assignee shall not be required, without the consent of the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act, to carry out any duty or exercise any power in connection with the liquidation if, to do so, would or would be likely to involve incurring any expense.
   (a) except where the charge is surrendered or taken to be surrendered or redeemed under section 305 of this Act, a liquidator may, but is not required to, carry out any duty or exercise any power in relation to property that is subject to a charge:
   (b) where—
     (i) a company is put into liquidation under section 241(2)(c) of this Act; and
@@ -4276,13 +4279,13 @@ The appointment of a person, other than an Official Assignee, as liquidator is o
   (g) declare whether or not the liquidator was validly appointed or validly assumed custody or control of property:
   (h) make an order concerning the retention or the disposition of the accounts and records of the liquidation or of the company.
 (2) The powers given by subsection (1) of this section are in addition to any other powers a Court may exercise in its jurisdiction relating to liquidators under this Part of this Act, and may be exercised in relation to a matter occurring either before or after the commencement of the liquidation, or the removal of the company from the New Zealand register, and whether or not the liquidator has ceased to act as liquidator when the application or the order is made.
-(3) Subject to subsection (4) of this section, a liquidator who has— is entitled to rely on having so acted as a defence to a claim in relation to anything done or not done in accordance with the direction.
+(3) Subject to subsection (4) of this section, a liquidator who has—is entitled to rely on having so acted as a defence to a claim in relation to anything done or not done in accordance with the direction.
   (a) obtained a direction of a Court with respect to a matter connected with the exercise of the powers or functions of liquidator; and
   (b) acted in accordance with the direction—
 (4) A Court may, on the application of any person, order that, by reason of the circumstances in which a direction was obtained under subsection (1) of this section, the liquidator does not have the protection given by subsection (3) of this section.
 
 ### 285 Meaning of failure to comply
-(1) In section 286 of this Act unless the context otherwise requires, failure to comply means a failure of a liquidator to comply with a relevant duty arising— and comply, compliance, and failed to comply have corresponding meanings.
+(1) In section 286 of this Act unless the context otherwise requires, failure to comply means a failure of a liquidator to comply with a relevant duty arising—and comply, compliance, and failed to comply have corresponding meanings.
   (a) under this or any other Act or rule of law or Rules of Court; or
   (b) under any order or direction of a Court other than an order to comply made under that section;—
 (2) In subsection (1), relevant duty includes the duty of a person in his or her capacity as administrator or deed administrator of a company.
@@ -4294,7 +4297,7 @@ The appointment of a person, other than an Official Assignee, as liquidator is o
   (c) a liquidation committee:
   (d) a creditor, shareholder, other entitled person, or a director of the company in liquidation:
   (e) a receiver appointed in relation to property of the company in liquidation:
-  (f) if the liquidator is a chartered accountant, the President of the Institute of Chartered Accountants of New Zealand:
+  (f) if the liquidator is a chartered accountant, the President of the New Zealand Institute of Chartered Accountants:
   (g) if the liquidator is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
   (h) an Official Assignee.
 (2) No application may be made to a Court by a person other than a liquidator in relation to a failure to comply unless notice of the failure to comply has been served on the liquidator not less than 5 working days before the date of the application and, as at the date of the application, there is a continuing failure to comply.
@@ -4310,7 +4313,7 @@ The appointment of a person, other than an Official Assignee, as liquidator is o
 (6) A person to whom a prohibition order applies must not—
   (a) act as a liquidator in a current or other liquidation; or
   (b) act as a receiver in a current or other receivership.
-(7) Evidence that, on 2 or more occasions,— is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of this section.
+(7) Evidence that, on 2 or more occasions,—is, in the absence of special reasons to the contrary, evidence of persistent failures to comply for the purposes of this section.
   (a) a Court has made an order to comply under this section in respect of the same person; or
   (b) an application for an order to comply under this section has been made in respect of the same person and that in each case the person has complied after the making of the application and before the hearing,—
 (8) In making an order under this section a Court may, if it thinks fit,—
@@ -4358,7 +4361,7 @@ Unless the contrary is proved, and subject to section 288 of this Act, a company
 (7) An order under this section may be made subject to conditions.
 
 ### 291 Additional powers of Court on application to set aside statutory demand
-(1) If, on the hearing of an application under section 290 of this Act, the Court is satisfied that there is a debt due by the company to the creditor that is not the subject of a substantial dispute, or is not subject to a counterclaim, set-off, or cross-demand, the Court may— on the ground that the company is unable to pay its debts.
+(1) If, on the hearing of an application under section 290 of this Act, the Court is satisfied that there is a debt due by the company to the creditor that is not the subject of a substantial dispute, or is not subject to a counterclaim, set-off, or cross-demand, the Court may—on the ground that the company is unable to pay its debts.
   (a) order the company to pay the debt within a specified period and that, in default of payment, the creditor may make an application to put the company into liquidation; or
   (b) dismiss the application and forthwith make an order under section 241(4) of this Act putting the company into liquidation,—
 (2) For the purposes of the hearing of an application to put the company into liquidation pursuant to an order made under subsection (1)(a) of this section, the company is presumed to be unable to pay its debts if it failed to pay the debt within the specified period.
@@ -4389,13 +4392,13 @@ Unless the contrary is proved, and subject to section 288 of this Act, a company
 (5) For the purposes of subsections (1) and (4B), specified period means—
   (a) the period of 2 years before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date on which, and at the time at which, the order was made; and
-  (c) if— the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 (6) For the purposes of subsection (4A), restricted period means—
   (a) the period of 6 months before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date on which, and at the time at which, the order of the Court was made; and
-  (c) if— the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 
@@ -4418,13 +4421,13 @@ Unless the contrary is proved, and subject to section 288 of this Act, a company
 (6) For the purposes of subsection (1) of this section, specified period means—
   (a) the period of 2 years before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of the application and ending on the date on which, and at the time at which, the order of the Court was made; and
-  (c) if— the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 (7) For the purposes of subsection (2) of this section, restricted period means—
   (a) the period of 6 months before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of the application and ending on the date on which, and at the time at which, the order of the Court was made; and.
-  (c) if— the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 
@@ -4490,7 +4493,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
   (b) specified period means—
     (i) the period of 2 years before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
     (ii) in the case of a company that was put into liquidation by the Court, the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date on which, and at the time at which, the order of the Court was made; and
-    (iii) if— the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+    (iii) if—the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
       (A) an application was made to the Court to put a company into liquidation; and
       (B) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 
@@ -4511,7 +4514,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
 (4) For the purposes of subsections (1) and (2) of this section, specified period means—
   (a) the period of 3 years before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 3 years before the making of the application to the Court together with the period commencing on the date of the making of the application and ending on the date on which, and at the time at which, the order of the Court was made; and
-  (c) if— the period of 3 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 3 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 
@@ -4529,7 +4532,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
 (5) The provisions of section 7 of this Act apply with such modifications as may be necessary to determine control of a company.
 
 ### 300 Liability if proper accounting records not kept
-(1) Subject to subsection (2) of this section, if— the Court, on the application of the liquidator, may, if it thinks it proper to do so, declare that any 1 or more of the directors and former directors of the company is, or are, personally responsible, without limitation of liability, for all or any part of the debts and other liabilities of the company as the Court may direct.
+(1) Subject to subsection (2) of this section, if—the Court, on the application of the liquidator, may, if it thinks it proper to do so, declare that any 1 or more of the directors and former directors of the company is, or are, personally responsible, without limitation of liability, for all or any part of the debts and other liabilities of the company as the Court may direct.
   (a) a company that is in liquidation and is unable to pay all its debts has failed to comply with—
     (i) section 194 of this Act (which relates to the keeping of accounting records); or
     (ii) section 10 of the Financial Reporting Act 1993 (which relates to the preparation of financial statements); and
@@ -4557,7 +4560,7 @@ If a transaction or charge is set aside under section 294, the Court may make 1 
 **Creditors' claims**
 
 ### 302 Application of bankruptcy rules to liquidation of insolvent companies
-(1) Subject to this Part of this Act, the rules in force under the law of bankruptcy with respect to the estates of persons adjudged bankrupt apply in the liquidation of a company that is unable to pay its debts to— and all persons who in any such case would be entitled to make claims and receive payment in whole or in part are so entitled in the liquidation.
+(1) Subject to this Part of this Act, the rules in force under the law of bankruptcy with respect to the estates of persons adjudged bankrupt apply in the liquidation of a company that is unable to pay its debts to—and all persons who in any such case would be entitled to make claims and receive payment in whole or in part are so entitled in the liquidation.
   (a) the rights of secured and unsecured creditors:
   (b) claims by creditors:
   (c) the valuation of annuities and future and contingent liabilities—
@@ -4648,7 +4651,7 @@ Nothing in this Part of this Act limits or affects the recovery of—
   (a) as the consideration, or part of the consideration, for the issue of a share; or
   (b) in satisfaction of a call in respect of an outstanding liability of the shareholder made by the board of directors or by the liquidator.
 (5) In this section, related person means a related company and includes a director of the company in liquidation.
-(6) For the purposes of subsection (2) of this section, specified period means— the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+(6) For the purposes of subsection (2) of this section, specified period means—the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
   (a) the period of 6 months before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 6 months before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date on which, and at the time at which, the order of the Court was made; and
   (c) if—
@@ -4657,7 +4660,7 @@ Nothing in this Part of this Act limits or affects the recovery of—
 (7) For the purposes of subsection (3) of this section, restricted period means—
   (a) the period of 2 years before the date of commencement of the liquidation together with the period commencing on that date and ending at the time at which the liquidator is appointed; and
   (b) in the case of a company that was put into liquidation by the Court, the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date on which, and at the time at which, the order of the Court was made; and
-  (c) if— the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
+  (c) if—the period of 2 years before the making of the application to the Court together with the period commencing on the date of the making of that application and ending on the date and at the time of the commencement of the liquidation.
     (i) an application was made to the Court to put a company into liquidation; and
     (ii) after the making of the application to the Court a liquidator was appointed under paragraph (a) or paragraph (b) of section 241(2),—
 
@@ -4714,7 +4717,7 @@ Sections 310A to 310O apply to transactions that are subject to a bilateral nett
 
 ### 310G Transactions under netting agreement and effect on certain sections
 (1) Nothing in sections 310A to 310O prevents the operation of section 56 or section 292 or section 297 or section 298 in respect of a transaction that is subject to a netting agreement.
-(2) However, nothing in section 292(3) applies to a transaction that is subject to a netting agreement.
+(2) However, nothing in section 292(4A) applies to a transaction that is subject to a netting agreement.
 (3) For the purposes of sections 292 and 297, the term transaction, in relation to a company, does not include a netting agreement entered into by the company, except to the extent that the effect of entering into the netting agreement is to reduce any amount that was owing by or to the company at the time the company entered into the agreement.
 
 ### 310H Rights under netting agreement not affected by commencement of liquidation
@@ -4930,15 +4933,15 @@ A company is removed from the New Zealand register when a notice signed by the R
   (a) the objection has been withdrawn; or
   (b) any facts on which the objection is based are not, or are no longer, correct; or
   (c) the objection is frivolous or vexatious.
-(2) If an objection to the removal of a company from the New Zealand register is made on a ground specified in section 321(1)(d), (e), or (f) of this Act, the Registrar must give notice to the person objecting that, unless notice of an application to the Court by that person for an order— is served on the Registrar not later than 20 working days after the date of the notice, the Registrar intends to proceed with the removal.
+(2) If an objection to the removal of a company from the New Zealand register is made on a ground specified in section 321(1)(d), (e), or (f) of this Act, the Registrar must give notice to the person objecting that, unless notice of an application to the Court by that person for an order—is served on the Registrar not later than 20 working days after the date of the notice, the Registrar intends to proceed with the removal.
   (a) under section 241(2)(c) of this Act, that the company be put into liquidation; or
   (b) under section 323 of this Act, that, on any ground specified in section 321 of this Act, the company not be removed from the New Zealand register—
-(3) If— the Registrar must proceed with the removal.
+(3) If—the Registrar must proceed with the removal.
   (a) notice of such an application to the Court is not served on the Registrar; or
   (b) the application is withdrawn; or
   (c) on the hearing of such an application, the Court refuses to grant either an order putting the company into liquidation or an order that the company not be removed from the New Zealand register,—
 (4) Every person who makes such an application must give the Registrar notice in writing of the decision of the Court within 5 working days of the decision being given.
-(5) The Registrar must send— to a person who sent or delivered to the Registrar a request that the company be removed from the New Zealand register under section 318(1)(d) of this Act or, while acting as liquidator, sent or delivered to the Registrar the documents referred to in section 318(1)(e) of this Act.
+(5) The Registrar must send—to a person who sent or delivered to the Registrar a request that the company be removed from the New Zealand register under section 318(1)(d) of this Act or, while acting as liquidator, sent or delivered to the Registrar the documents referred to in section 318(1)(e) of this Act.
   (a) a copy of an objection under section 321 of this Act; and
   (b) a copy of a notice given by or served on the Registrar under this section; and
   (c) if the company is removed from the New Zealand register, notice of the removal—
@@ -4966,7 +4969,7 @@ A company is removed from the New Zealand register when a notice signed by the R
 (2) The Secretary must forthwith give public notice of the disclaimer.
 (3) Property that is disclaimed under this section shall be deemed not to have vested in the Crown under section 324 of this Act.
 (4) Subsections (3), (5), and (6) of section 269 of this Act apply to any property that is disclaimed under this section as if the property had been disclaimed under that section immediately before the company was removed from the New Zealand register.
-(5) Subject to any order of the Court, the Secretary to the Treasury is not entitled to disclaim property unless— whichever occurs first.
+(5) Subject to any order of the Court, the Secretary to the Treasury is not entitled to disclaim property unless—whichever occurs first.
   (a) the property is disclaimed within 12 months after the vesting of the property in the Crown first comes to the notice of the Secretary; or
   (b) if any person gives notice in writing to the Secretary requiring the Secretary to elect, before the close of such date as is stated in the notice, not being a date that is less than 60 working days after the date on which the notice is received by the Secretary, whether to disclaim the property, the property is disclaimed before the close of that date,—
 (6) A statement in a notice disclaiming property under this section that the vesting of the property in the Crown first came to the notice of the Secretary to the Treasury on a specified date shall, in the absence of proof to the contrary, be evidence of the fact stated.
@@ -4982,7 +4985,7 @@ The removal of a company from the New Zealand register does not affect the liabi
   (a) the company was still carrying on business or other reason existed for the company to continue in existence; or
   (b) the company was a party to legal proceedings; or
   (c) the company was in receivership, or liquidation, or both.
-(2) Any person who, at the time the company was removed from the New Zealand register, was— may make an application under subsection (1) of this section.
+(2) Any person who, at the time the company was removed from the New Zealand register, was—may make an application under subsection (1) of this section.
   (a) a shareholder or director of the company; or
   (b) a creditor of the company; or
   (c) a liquidator, or a receiver of the property, of the company—
@@ -5187,7 +5190,7 @@ An overseas company must not be registered as a company under this Act unless—
   (a) the company is in liquidation; or
   (b) a receiver or manager has been appointed, whether by a court or not, in relation to the property of the company; or
   (c) the company has entered into a compromise or arrangement with a creditor that is in force; or
-  (d) an application has been made to a court, whether in New Zealand or in another country,— and has not been dealt with.
+  (d) an application has been made to a court, whether in New Zealand or in another country,—and has not been dealt with.
     (i) to put the company into liquidation or wind it up; or
     (ii) for the approval of a compromise or arrangement between the company and a creditor—
 (2) An overseas company must not be registered as a company under this Act unless the overseas company would, immediately after becoming registered under this Act, satisfy the solvency test.
@@ -5253,7 +5256,7 @@ A company must not apply to be removed from the New Zealand register under secti
 ## Part 20 — Registrar of companies
 
 ### 357 Registrar and Deputy Registrars of Companies
-(1) There must be— each of whom must be appointed under the State Sector Act 1988.
+(1) There must be—each of whom must be appointed under the State Sector Act 1988.
   (a) a Registrar of Companies; and
   (b) as many Deputy Registrars of Companies as may be necessary for the purposes of this Act and the Limited Partnerships Act 2008,—
 (2) Subject to the control of the Registrar a Deputy Registrar has and may exercise the powers, duties and functions of the Registrar under this Act and the Limited Partnerships Act 2008.
@@ -5314,7 +5317,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 (1) On receipt of a document for registration under this Act, the Registrar must,—
   (a) subject to subsection (2) of this section, register the document in the New Zealand register or the overseas register, as the case may be; and
   (b) in the case of a document that is not an annual return, give written advice of the registration to the person from whom the document was received.
-(2) If a document received by the Registrar for registration under this Act— the Registrar may refuse to register the document, and in that event, must request either—
+(2) If a document received by the Registrar for registration under this Act—the Registrar may refuse to register the document, and in that event, must request either—
   (a) is not in the prescribed form, if any; or
   (b) does not comply with this Act or regulations made under this Act; or
   (c) is not printed or typewritten; or
@@ -5329,7 +5332,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 (4) Neither registration, nor refusal of registration, of a document by the Registrar affects, or creates a presumption as to, the validity or invalidity of the document or the correctness or otherwise of the information contained in it.
 
 ### 363 Inspection and evidence of registers
-(1) A person may, on payment of any fees that are prescribed, inspect— during the hours when the office of the District Registrar is open to the public for the transaction of business on a working day.
+(1) A person may, on payment of any fees that are prescribed, inspect—during the hours when the office of the District Registrar is open to the public for the transaction of business on a working day.
   (a) any document that constitutes part of the New Zealand register or the overseas register:
   (b) particulars of any registered document that have been entered on any device or facility referred to in section 360(4) of this Act:
   (c) any registered document particulars of which have been entered in any such device or facility—
@@ -5342,7 +5345,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 (3) A process to compel the production of—must not issue from the Court without the leave of the Court and, if it does, it must have a statement attached to it that it is issued with the leave of the Court.
   (a) a registered document kept by the Registrar; or
   (b) evidence of the entry of particulars of a registered document in any device or facility referred to in section 360(4) of this Act—
-(4) A copy of, or extract from, a registered document— certified to be a true copy or extract by the Registrar is admissible in evidence in legal proceedings to the same extent as the original document.
+(4) A copy of, or extract from, a registered document—certified to be a true copy or extract by the Registrar is admissible in evidence in legal proceedings to the same extent as the original document.
   (a) that constitutes part of the New Zealand register or the overseas register; or
   (b) particulars of which have been entered in any device or facility referred to in section 360(4) of this Act—
 (5) An extract certified by the Registrar as containing particulars of a registered document that have been entered in any device or facility referred to in section 360(4) of this Act is, in the absence of proof to the contrary, conclusive evidence of the entry of those particulars.
@@ -5360,7 +5363,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
   (b) is certified by the Registrar, or by a person authorised by the Registrar, as having been derived from a device or facility that records or stores information electronically or by other means—
 
 ### 365 Registrar's powers of inspection
-(1) The Registrar or a person authorised by the Registrar may,— do any of the following:
+(1) The Registrar or a person authorised by the Registrar may,—do any of the following:
   (a) for the purpose of—
     (i) ascertaining whether a company or a director of a company is complying, or has complied, with this Act or the Financial Reporting Act 1993; or
     (ii) ascertaining whether the Registrar should exercise any of his or her rights or powers under this Act or the Financial Reporting Act 1993; or
@@ -5373,7 +5376,7 @@ Where, pursuant to this Act or any regulations under this Act, any action is req
 (2) Nothing in this section limits or affects the Tax Administration Act 1994 or the Statistics Act 1975.
 (3) The Registrar or a person authorised by the Registrar must consult with the Reserve Bank of New Zealand before exercising any of the powers conferred by subsection (1) of this section if the purpose of exercising the power relates to a company that is a registered bank (within the meaning of section 2 of the Reserve Bank of New Zealand Act 1989).
 (4) A person must not obstruct or hinder the Registrar or a person authorised by the Registrar while exercising a power conferred by subsection (1) of this section.
-(5) Any person who— commits an offence and is liable on conviction to the penalty set out in section 373(2) of this Act.
+(5) Any person who—commits an offence and is liable on conviction to the penalty set out in section 373(2) of this Act.
   (a) fails to comply with a requirement under subsection (1)(c) of this section; or
   (b) acts in contravention of subsection (4) of this section—
 (6) In this section,—
@@ -5509,7 +5512,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
 (3) A person convicted of an offence against any of the following sections of this Act is liable to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years:
   (a) section 261(6A) (which relates to the power of liquidators to obtain documents and information):
   (b) section 273(2) (which relates to certain prohibited conduct):
-  (c) 274(2) section (which relates to the duty to identify and deliver property).
+  (c) section 274(2) (which relates to the duty to identify and deliver property).
 (4) A person convicted of an offence against any of the following sections of this Act is liable to imprisonment for a term not exceeding 5 years or to a fine not exceeding $200,000:
   (a) section 304(6) (which relates to false claims by unsecured creditors in liquidations):
   (b) section 305(11) (which relates to false claims by secured creditors in liquidations):
@@ -5593,7 +5596,7 @@ Notwithstanding any other Act or rule of law, a report prepared by a person in r
   (c) in the circumstances he or she could not reasonably have been expected to take steps to ensure that the company complied with the requirements of this Act.
 
 ### 377 False statements
-(1) Every person who, with respect to a document required by or for the purposes of this Act,— commits an offence, and is liable on conviction to the penalties set out in section 373(4) of this Act.
+(1) Every person who, with respect to a document required by or for the purposes of this Act,—commits an offence, and is liable on conviction to the penalties set out in section 373(4) of this Act.
   (a) makes, or authorises the making of, a statement in it that is false or misleading in a material particular knowing it to be false or misleading; or
   (b) omits, or authorises the omission from it of, any matter knowing that the omission makes the document false or misleading in a material particular—
 (2) Every director or employee of a company who makes or furnishes, or authorises or permits the making or furnishing of, a statement or report that relates to the affairs of the company and that is false or misleading in a material particular, to—knowing it to be false or misleading, commits an offence, and is liable on conviction to the penalties set out in section 373(4) of this Act.
@@ -5618,7 +5621,7 @@ Every director, employee, or shareholder of a company who—commits an offence, 
 
 ### 380 Carrying on business fraudulently
 (1) Every person who is knowingly a party to a company carrying on business with intent to defraud creditors of the company or any other person or for a fraudulent purpose commits an offence and is liable on conviction to the penalties set out in section 373(4) of this Act.
-(2) Every director of a company who,— commits an offence and is liable on conviction to the penalties set out in section 373(4) of this Act.
+(2) Every director of a company who,—commits an offence and is liable on conviction to the penalties set out in section 373(4) of this Act.
   (a) by false pretences or other fraud induces a person to give credit to the company; or
   (b) with intent to defraud creditors of the company,—
     (i) gives, transfers, or causes a charge to be given on, property of the company to any person; or
@@ -5661,7 +5664,7 @@ Any person who, not being incorporated with limited liability, whether alone or 
 (7) In this section, company includes an overseas company.
 
 ### 384 Liability for contravening sections 382 and 383
-A person who acts as a director of a company in contravention of section 382 of this Act or an order made under section 383 of this Act is personally liable to— while that person was so acting.
+A person who acts as a director of a company in contravention of section 382 of this Act or an order made under section 383 of this Act is personally liable to—while that person was so acting.
   (a) a liquidator of the company for every unpaid debt incurred by the company; and
   (b) a creditor of the company for a debt to that creditor incurred by the company—
 
@@ -5686,14 +5689,14 @@ A person who acts as a director of a company in contravention of section 382 of 
   (b) the Registrar considers any representations made by the person.
 (6) No person to whom a notice under subsection (3) of this section applies shall be a director or promoter of a company, or be concerned or take part (whether directly or indirectly) in the management of a company.
 (7) Where a person to whom the Registrar has issued a notice under subsection (3) of this section appeals against the issue of the notice under this Act or otherwise seeks judicial review of the notice, the notice remains in full force and effect pending the determination of the appeal or review, as the case may be.
-(8) The Registrar may, by notice in writing to a person to whom a notice under subsection (3) of this section has been given,— Every such notice shall be published in the Gazette.
+(8) The Registrar may, by notice in writing to a person to whom a notice under subsection (3) of this section has been given,—Every such notice shall be published in the Gazette.
   (a) revoke that notice; or
   (b) exempt that person from the notice in relation to a specified company or companies.
 (9) Every person to whom a notice under subsection (3) of this section is given who fails to comply with the notice commits an offence and is liable on conviction to the penalties set out in section 373(4) of this Act.
 (10) In this section, company includes an overseas company that carries on business in New Zealand.
 
 ### 386 Liability for contravening section 385
-A person who acts in contravention of a notice under section 385 of this Act is personally liable to— while that person was so acting.
+A person who acts in contravention of a notice under section 385 of this Act is personally liable to—while that person was so acting.
   (a) a liquidator of the company for every unpaid debt incurred by the company; and
   (b) a creditor of the company for a debt to that creditor incurred by the company—
 
@@ -5800,7 +5803,7 @@ A document, other than a document in any legal proceedings, may be served on an 
   (d) delivered in accordance with an agreement made with the body corporate; or
   (e) posted to the address of the principal office of the body corporate or delivered to a box at a document exchange which the body corporate is using at the time; or
   (f) sent by facsimile machine to a telephone number used for the transmission of documents by facsimile at the principal office or principal place of business of the body corporate.
-(4) Where a liquidator sends documents— and the documents are returned unclaimed 3 consecutive times, the liquidator need not send further documents to the shareholder or creditor until the shareholder or creditor gives notice to the company of its new address.
+(4) Where a liquidator sends documents—and the documents are returned unclaimed 3 consecutive times, the liquidator need not send further documents to the shareholder or creditor until the shareholder or creditor gives notice to the company of its new address.
   (a) to the last known address of a shareholder or creditor who is a natural person; or
   (b) to the address for service of a shareholder or creditor that is a company—
 
@@ -5851,10 +5854,10 @@ A requirement imposed by any provision of this Act that directors of a company m
 (2) Different forms for the purposes of this Act may be prescribed for different classes of persons.
 
 ### 396 Summary Proceedings Act 1957 amended
-Part 2 of Schedule 1 to the Summary Proceedings Act 1957 is hereby amended by inserting, in its appropriate alphabetical order, the following item: The Companies Act 1993304(6)Claims by unsecured creditors 305(11) Rights and duties of secured creditors 377False statements 378Fraudulent use or destruction of property 379Falsification of records380Carrying on business fraudulently 382(4)Persons prohibited from managing companies 383(6)Court may disqualify directors385(9) Registrar may prohibit persons from managing companies.
+Part 2 of Schedule 1 to the Summary Proceedings Act 1957 is hereby amended by inserting, in its appropriate alphabetical order, the following item:The Companies Act 1993304(6)Claims by unsecured creditors305(11)Rights and duties of secured creditors377False statements378Fraudulent use or destruction of property379Falsification of records380Carrying on business fraudulently382(4)Persons prohibited from managing companies383(6)Court may disqualify directors385(9)Registrar may prohibit persons from managing companies.
 
 ### 397 Securities Transfer Act 1991 amended
-Section 9(5) of the Securities Transfer Act 1991 is hereby amended by inserting, after paragraph (a), the following paragraph: .
+Section 9(5) of the Securities Transfer Act 1991 is hereby amended by inserting, after paragraph (a), the following paragraph:.
   (ab) sections 35, 39(1), and 84, of the Companies Act 1993:
 
 ## Schedule 1 — Proceedings at meetings of shareholders
