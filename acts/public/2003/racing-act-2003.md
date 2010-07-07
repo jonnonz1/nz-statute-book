@@ -1,5 +1,5 @@
 # Racing Act 2003
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Racing Act 2003.
@@ -172,7 +172,7 @@ The objectives of the Board are—
 ### 13 Accounts and audit
 (1) The Board must, as soon as practicable after the end of each racing year,—
   (a) prepare financial statements for that year; and
-  (b) have those financial statements audited by a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996).
+  (b) have those financial statements audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996).
 (2) The financial statements of the Board for a racing year must be prepared in accordance with generally accepted accounting practice and must include—
   (a) a statement of financial position at the balance date; and
   (b) a statement of financial performance for the year; and
@@ -1037,7 +1037,7 @@ The Authority may, with the prior written approval of the Board, borrow money by
 ### 13 Accounts and audit
 (1) The Authority must keep full and correct accounts of all money received and expended by it.
 (2) At the end of every racing year, the Authority must cause to be prepared full and true statements and accounts of all its income and expenditure in that year, together with a balance sheet as at the last day of that year.
-(3) The statement and balance sheet must be audited by a chartered accountant (within the meaning of the Institute of Chartered Accountants of New Zealand Act 1996).
+(3) The statement and balance sheet must be audited by a chartered accountant (within the meaning of the New Zealand Institute of Chartered Accountants Act 1996).
 (4) No person who is an officer, agent, employee, or member of the Authority may be appointed as an auditor under subclause (3).
 
 ### 14 Annual report
