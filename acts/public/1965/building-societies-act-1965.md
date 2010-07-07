@@ -1,5 +1,5 @@
 # Building Societies Act 1965
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to building societies
 
@@ -804,7 +804,7 @@ Every society shall have at least 2 directors.
 
 ### 100 Disqualifications for appointment as auditor
 (1) Subject to subsection (2) of this section, no person shall be qualified for appointment as auditor of a society unless he is—
-  (a) A chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996):
+  (a) A chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996):
   (b) A member, fellow, or associate of an association of accountants constituted outside New Zealand which is for the time being approved for the purposes of section 199 of the Companies Act 1993.
 (2) Nothing in subsection (1) of this section shall disqualify any person appointed as auditor of a society before the commencement of this Act from acting as auditor of that society, or from being at any time and from time to time reappointed as auditor thereof.
 (3) None of the following persons shall be qualified for appointment as auditor of a society:
