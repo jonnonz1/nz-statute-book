@@ -1,5 +1,5 @@
 # Crown Entities Act 2004
-_Consolidation as at 2009-12-24_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Crown Entities Act 2004.
@@ -277,8 +277,12 @@ In sections 15 to 23, unless the context otherwise requires,—
 (2) The appointment must be made by written notice to the member (with a copy to the entity).
 (3) The notice must—
   (a) state the date on which the appointment takes effect which must not be earlier than the date on which the notice is received; and
-  (b) state the term of the appointment; and
-  (c) be published by the responsible Minister in the Gazette as soon as practicable after being given.
+  (b) state the term of the appointment.
+  (c)
+(4) The responsible Minister must ensure that the following are notified in the Gazette as soon as is reasonably practicable after an appointment is made:
+  (a) the name of the appointee and the statutory entity; and
+  (b) the date on which the appointment takes effect; and
+  (c) the term of the appointment.
 
 ### 29 Criteria for appointments or recommendations by responsible Minister
 (1) A responsible Minister of a statutory entity must appoint, or recommend the appointment of, members under section 28 in accordance with any criteria for members and any process for appointment under this or another Act.
@@ -1711,28 +1715,28 @@ The enactments specified in Schedule 6 are amended in the manner shown in that s
 
 **Chairperson and deputy chairperson of board**
 
-###  Appointment
+### 1 Appointment
 (1) The responsible Minister may appoint 1 of the members as the chairperson, and another member as the deputy chairperson, of the board of a Crown agent or an autonomous Crown entity by written notice to the member (with a copy to the board).
 (2) The Governor-General may, on the recommendation of the responsible Minister, appoint 1 of the members as the chairperson, and another member as the deputy chairperson, of the board of an independent Crown entity by written notice to the member (with a copy to the board).
 (3) The notice of appointment must state the date on which the appointment takes effect.
 
-###  Term of appointment
+### 2 Term of appointment
 The chairperson and the deputy chairperson each hold that office until—
   (a) he or she resigns from that office; or
   (b) he or she is removed from it by the responsible Minister or the Governor-General, as the case may be; or
   (c) he or she ceases to hold office as a member; or
   (d) the term of office that may have been specified on appointment expires, unless the member is reappointed for a further term.
 
-###  Resignation
+### 3 Resignation
 (1) A chairperson or deputy chairperson may, without resigning as a member, resign from that office by written notice to the responsible Minister (with a copy to the board).
 (2) The notice of resignation must state the date on which the resignation takes effect.
 
-###  Removal
+### 4 Removal
 (1) The responsible Minister may, after consultation with the person concerned, remove a chairperson or deputy chairperson of the board of a Crown agent or an autonomous Crown entity from that office by written notice to the person (with a copy to the board).
 (2) The Governor-General may, on the recommendation of the responsible Minister and after consultation with the person concerned, remove a chairperson or deputy chairperson of the board of an independent Crown entity from that office by written notice to the person (with a copy to the board).
 (3) The notice of removal must state the date on which the removal takes effect.
 
-###  Exercise of chairperson's functions and powers during vacancy
+### 5 Exercise of chairperson's functions and powers during vacancy
 (1) The deputy chairperson of a statutory entity has and may exercise all of the functions and powers of the chairperson in relation to a matter if—
   (a) the chairperson is unavailable; or
   (b) the chairperson is interested in the matter.
@@ -1743,10 +1747,10 @@ The chairperson and the deputy chairperson each hold that office until—
 
 **Procedure of board**
 
-###  Procedure generally
+### 6 Procedure generally
 Except as otherwise provided under this or another Act, the members may regulate their own procedure.
 
-###  Notice of meetings
+### 7 Notice of meetings
 (1) The board or the chairperson must appoint the times and places of ordinary meetings of the board, and give notice of those meetings to each member not present when the appointment is made.
 (2) The chairperson or any 2 members (or, if the board consists of only 2 members, either member) may call a special meeting of the board by giving at least 5 working days' notice (or any shorter notice period that all the members agree) of the special meeting, and the business to be transacted at the meeting, to each member for the time being in New Zealand.
 (3) Only the business stated in the notice of special meeting may be transacted at the special meeting.
@@ -1758,21 +1762,21 @@ Except as otherwise provided under this or another Act, the members may regulate
   (a) attend the meeting without protesting about the irregularity; or
   (b) do not attend the meeting, but agree before the meeting is held to the waiver of the irregularity.
 
-###  Methods of holding meetings
+### 8 Methods of holding meetings
 A meeting of the board may be held—
   (a) by a quorum of the members, being assembled together at the time and place appointed for the meeting; or
   (b) by means of audio, audio and visual, or electronic communication provided that—
     (i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
     (ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
 
-###  Quorum
+### 9 Quorum
 (1) A quorum for a meeting of the board is the number that is—
   (a) half the number of members (if the board has an even number of members); or
   (b) a majority of the members (if the board has an odd number of members).
 (2) If the board has only 2 members, the quorum for a meeting is both members.
 (3) No business may be transacted at a meeting of the board if a quorum is not present.
 
-###  Special provisions for boards with only 1 member available to act
+### 10 Special provisions for boards with only 1 member available to act
 (1) This section applies while a board has only 1 member who is available (for example, because of a vacancy or because section 66, but not section 68, applies to 1 or more members).
 (2) The quorum for a meeting of the board is 1.
 (3) The available member—
@@ -1781,30 +1785,30 @@ A meeting of the board may be held—
   (c) need not send a notice of meeting for those meetings; and
   (d) may enter into any obligation that, under section 127(2), may be entered into by 2 or more members.
 
-###  Presiding at meetings
+### 11 Presiding at meetings
 (1) At a meeting of the board, the following person presides:
   (a) if there is a chairperson and he or she is present and is not interested in the matter, the chairperson; or
   (b) if there is no chairperson or he or she is not present or is interested in the matter, the deputy chairperson; or
   (c) in any other case, the temporary deputy chairperson.
 (2) A person referred to in subclause (1)(b) or (c) may exercise all the powers and functions of the chairperson for the purposes of the meeting.
 
-###  Voting at meetings
+### 12 Voting at meetings
 (1) Each member has 1 vote.
 (2) In addition to his or her general vote, the chairperson at a meeting has, in the case of an equality of votes, a casting vote.
 (3) A resolution of the board is passed if it is agreed to by all members present without dissent or if a majority of the votes cast on it are in favour of it.
 (4) A member present at a meeting of the board is presumed to have agreed to, and to have voted in favour of, a resolution of the board unless he or she expressly dissents from or votes against the resolution at the meeting.
 
-###  Unanimous written resolutions
+### 13 Unanimous written resolutions
 (1) A resolution signed or assented to in writing (whether sent by post, delivery, or electronic communication) by all members is as valid and effectual as if it had been passed at a meeting of the board duly called and constituted.
 (2) The resolution may consist of several documents containing the same resolution, each signed or assented to in writing by 1 or more members.
 
-###  Board may appoint committees
+### 14 Board may appoint committees
 (1) The board may, by resolution, appoint committees—
   (a) to advise it on any matters relating to the entity's functions and powers that are referred to the committee by the board; or
   (b) to perform or exercise any of the entity's functions and powers that are delegated to the committee, if the committee includes at least 1 member of the board and any other person or persons that the board thinks fit.
 (2) A person must not be appointed as a member of a committee unless, before appointment, he or she discloses to the board the details of any interest the person may have if he or she were a member of that committee.
 
-###  Provisions relating to committee members
+### 15 Provisions relating to committee members
 (1) Sections 43, 47, 48, 57, 77, 118, 120 to 126, 135, 152(1)(e), (f), and (2), 189, and 190 apply to each member of a committee who is not a member of the board with necessary modifications.
 (2) Sections 62 to 72 apply to each member of a committee who is not a member of the board as if the committee member were a board member and as if the disclosure must be made to both the committee and the board, and with other necessary modifications.
 
