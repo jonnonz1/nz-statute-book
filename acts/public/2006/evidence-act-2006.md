@@ -1,5 +1,5 @@
 # Evidence Act 2006
-_Consolidation as at 2010-06-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Evidence Act 2006.
@@ -1064,6 +1064,11 @@ Sections 103 to 106 (which provide for alternative ways of giving evidence) are 
   (a) section 107 (which relates to child complainants):
   (b) sections 108 and 109 (which relate to undercover Police officers):
   (c) sections 110 to 119 (which relate to anonymous witnesses).
+
+### 102A Relationship of Courts (Remote Participation) Act 2010 to sections 103 to 106
+Nothing in the Courts (Remote Participation) Act 2010 affects or limits the ability of—
+  (a) a party to apply under section 103(1) for evidence to be given in an alternative way; or
+  (b) a Judge to make directions under that subsection.
 
 **General**
 
