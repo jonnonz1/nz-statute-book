@@ -1,5 +1,5 @@
 # Commodity Levies Act 1990
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-07-07_
 
 > An Act to enable the making of Orders in Council imposing on certain commodities levies payable to bodies corporate representing the views and interests of the persons primarily responsible for paying those levies
 
@@ -34,8 +34,8 @@ _Consolidation as at 2007-09-03_
     (b) if completed, whether completed validly or invalidly,—
   - **plant** means any member of the plant kingdom; and includes an alga and a fungus
   - **potential levy payer** , in relation to a support referendum, means a person who, when the referendum is held, would be one of the persons primarily responsible for paying the proposed levy to which the referendum relates if there were then in force a levy order imposing that levy
-  - **supporter** , in relation to a support referendum, means a participant who returned a valid ballot paper supporting the imposition of the levy concerned
   - **support referendum** means a referendum on whether to approve a proposal that a levy, payable to an organisation, should be imposed on a commodity
+  - **supporter** , in relation to a support referendum, means a participant who returned a valid ballot paper supporting the imposition of the levy concerned
   - **thing** includes any place, premises, or site, (for example an apiary)
   - **wild product** means an animal or plant product (whether fossilised or not) that is—in farms, forests, gardens, orchards, waters, or the wild.
     (a) gathered or harvested; or
@@ -63,7 +63,7 @@ Subject to section 5, the Governor-General may from time to time, on the recomme
     (i) within the previous 12 months; or
     (ii) within the previous 18 months, and before the commencement of the Commodity Levies Amendment Act 1993,—
   (ab) that the support referendum was competently devised; and
-  (ac) that the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) to be specified in a levy order, and (in particular) indicated that the imposition of the levy was proposed to be on the basis of 1 of the following:
+  (ac) that the ballot paper described the proposal clearly, specifying in relation to it all the matters required by section 6(1) to be specified in a levy order, and (in particular) indicated that the imposition of the levy was proposed to be on the basis of one of the following:
     (i) production of the commodity:
     (ii) the value of the commodity produced:
     (iii) the area of land devoted to the production of the commodity:
@@ -73,7 +73,7 @@ Subject to section 5, the Governor-General may from time to time, on the recomme
       (C) the capacity of plant or buildings; and
   (ad) that the support referendum was so publicised that potential levy payers had a reasonable opportunity to be adequately informed about its holding, nature, and possible consequences; and
   (ae) that the support referendum was so held that potential levy payers were given a reasonable opportunity to participate in it; and
-  (af) that the voting in the support referendum was conducted on the basis of 1 of the matters specified in subparagraphs (i) to (iv) of paragraph (ac) (but not necessarily the matter that the ballot paper indicated was the proposed basis of the levy's imposition); and
+  (af) that the voting in the support referendum was conducted on the basis of one of the matters specified in subparagraphs (i) to (iv) of paragraph (ac) (but not necessarily the matter that the ballot paper indicated was the proposed basis of the levy's imposition); and
   (ag) that more than half of the participants in the support referendum were supporters; and
   (ah) where voting in the support referendum was conducted on the basis of production of the commodity, that during the 12 months before the support referendum was held the total amount of the commodity produced by supporters was more than half of the total amount of the commodity produced of all participants; and
   (ai) where voting in the support referendum was conducted on the basis of the value of the commodity, that during the 12 months before the support referendum was held the value of the total amount of the commodity produced by supporters was more than half of the value of the total amount of the commodity produced of all participants; and
@@ -158,7 +158,7 @@ Where a levy order has been made imposing on any commodity a levy payable to any
   (a) every person responsible for paying the levy to the organisation shall do so:
   (b) the organisation may recover the levy from any person responsible for paying it to the organisation—
     (i) by deducting it from any amount the organisation owes the person; or
-    (ii) as a debt due in any Court of competent jurisdiction:
+    (ii) as a debt due in any court of competent jurisdiction:
   (c) where a person responsible for paying the levy to the organisation—notwithstanding any rule of law to the contrary, the amount deducted or (if the larger amount from which it is required to be deducted is still in the person's possession) required to be deducted shall, until it has been paid to the organisation, be deemed to be money held in trust for the organisation:
     (i) is not primarily responsible for paying any amount of the levy; but
     (ii) is required to deduct that amount from any amount the person owes the person primarily responsible, and pay it to the organisation,—
@@ -168,7 +168,7 @@ Where a levy order has been made imposing on any commodity a levy payable to any
     (iii) fails to make the full deduction required before paying the amount owed to the person who is owed it,—
   (e) where a person who has paid the levy to the organisation is not the person primarily responsible for paying it, the former may recover the amount paid from the latter—
     (i) by deducting it from any amount the former owes the latter; or
-    (ii) as a debt due in any Court of competent jurisdiction.
+    (ii) as a debt due in any court of competent jurisdiction.
 
 ### 8 Conscientious objectors
 Every levy order shall make special provision for the payment of amounts of levy by persons who object on conscientious or religious grounds to paying it in the manner otherwise provided for in the order.
@@ -195,15 +195,15 @@ Where a levy order has imposed a levy payable to an industry organisation,—
     (vii) education, information, promotion, or training, (relating or relevant to the commodity or commodities concerned):
     (viii) day to day administration of the organisation's activities (not being the administration, direct or indirect, of any commercial or trading activity undertaken by the organisation or on its behalf):
     (ix) any other purpose the Minister thinks fit.
-(3) Subsection (2)(b) does not limit the generality of section 6(2)(a).
+(3) Subsection (2)(b) of this section does not limit the generality of section 6(2)(a).
 (4) An industry organisation may, with the written approval of a Minister, and subject to the conditions (if any) subject to which the approval was given, spend any amount of a levy it has imposed pursuant to a levy order for a purpose prohibited by subsection (1) or by the order.
 (5) The Minister shall not give an approval under subsection (4) unless satisfied that—
   (a) the spending of money for the purpose concerned will benefit most of the persons primarily responsible for the payment of the levy concerned; and
   (b) if some members of the industry spend money for the purpose, other members who have not done so will derive unearned benefits from the expenditure; and
   (c) persons who, together, are primarily responsible for paying considerably more than half the amount of the levy concerned each year support the spending of money for the purpose.
 (6) Nothing in subsection (1) prevents an industry organisation from—
-  (a) using any part of a levy for buying limited quantities of the commodity or commodities concerned, or of any product made from it or them, if those quantities are bought for one or more of the following purposes: promotion, research, education, product development, and market development; or
-  (b) reselling (with or without modification or processing) all or any part of any limited quantity of the commodity or commodities bought for one or more of those purposes.
+  (a) using any part of a levy for buying limited quantities of the commodity or commodities concerned, or of any product made from it or them, if those quantities are bought for 1 or more of the following purposes: promotion, research, education, product development, and market development; or
+  (b) reselling (with or without modification or processing) all or any part of any limited quantity of the commodity or commodities bought for 1 or more of those purposes.
 (7) Nothing in subsection (1) prevents an industry organisation from—
   (a) using any part of a levy to undertake or pay for the undertaking of any promotion, research, product development, or market development, undertaken with the intention of achieving commercial or financial benefits; or
   (b) exploiting commercially (otherwise than by the use of any part of a levy) the results of any promotion, research, or development, for whose undertaking any part of a levy was (whether with or without the intention of achieving commercial or financial benefits) used or paid; or
@@ -234,12 +234,12 @@ Every levy order shall provide for—
   (c) confirmed by an Act of Parliament,—
 
 ### 13 Levy orders to expire after 6 years
-(1) Subject to subsection (2), a levy order shall be deemed to have been revoked with the close of the 6th anniversary of the day before the day on which it was made, unless—
-  (a) it has been revoked (or has been deemed to have been revoked) with effect on or before the 6th anniversary of the day on which it was made; or
-  (b) it has ceased to have effect on or before the 6th anniversary of the day on which it was made, by virtue of the Regulations (Disallowance) Act 1989.
+(1) Subject to subsection (2), a levy order shall be deemed to have been revoked with the close of the sixth anniversary of the day before the day on which it was made, unless—
+  (a) it has been revoked (or has been deemed to have been revoked) with effect on or before the sixth anniversary of the day on which it was made; or
+  (b) it has ceased to have effect on or before the sixth anniversary of the day on which it was made, by virtue of the Regulations (Disallowance) Act 1989.
 (2) Subject to subsection (3), the Governor-General may, by Order in Council made at least 12 months before the day on which the order concerned would otherwise be deemed under subsection (1) to have been revoked, extend for a specified period (of not more than 5 years) the currency of a levy order that is then in force; and in that case (subject to subsection (3)), the order shall not be deemed under subsection (1) to have been revoked until the extended period has expired.
 (3) Where the currency of a levy order has been extended under subsection (2), it may from time to time be further extended under that subsection.
-(4) Section 12 and, except for subsection (1)(b), section 5 apply to the making of an order under subsection (2).
+(4) Section 12 and, except for subsection (1)(b), section 5 apply to the making of an order under subsection (2) of this section.
 
 ## Part 2 — Miscellaneous provisions
 
@@ -249,35 +249,35 @@ For the purpose of ascertaining whether or not a levy order is being complied wi
   (b) any such records to be retained for a specified period.
 
 ### 15 Compliance audits
-(1) While a levy order is in force, the Minister who recommended its making may, at the request of the industry organisation, appoint one or more Auditors to conduct an audit of the affairs of all or any of the following:
+(1) While a levy order is in force, the Minister who recommended its making may, at the request of the industry organisation, appoint 1 or more auditors to conduct an audit of the affairs of all or any of the following:
   (a) some or all of the persons collecting the levy:
   (b) some or all of the persons who are or may be liable to pay the levy (whether or not as persons primarily responsible for paying it):
   (c) both.
-(2) While a levy order is in force, the Minister who recommended its making may, if a mediator has been appointed to resolve a dispute, appoint an Auditor to conduct an audit of the affairs of all or any of the persons involved in the dispute.
-(3) No person is qualified for appointment as an Auditor unless the person is a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996), or a member fellow or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993 by notice published in the Gazette.
-(4) No officer or employee of any of the following persons or organisations shall be appointed an Auditor:
+(2) While a levy order is in force, the Minister who recommended its making may, if a mediator has been appointed to resolve a dispute, appoint an auditor to conduct an audit of the affairs of all or any of the persons involved in the dispute.
+(3) No person is qualified for appointment as an auditor unless the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996), or a member fellow or associate of an association of accountants constituted in some part of the Commonwealth outside New Zealand, and for the time being approved for the purpose of the audit of company financial statements by the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of the Companies Act 1993 by notice published in the Gazette.
+(4) No officer or employee of any of the following persons or organisations shall be appointed an auditor:
   (a) any industry organisation:
   (b) any person engaged in the collection of levies under the levy order concerned:
   (c) any person who is or may be liable to pay a levy under the levy order concerned.
-(5) Every person appointed as an Auditor shall be entitled to remuneration (paid by the industry organisation concerned) as provided in the relevant levy order.
+(5) Every person appointed as an auditor shall be entitled to remuneration (paid by the industry organisation concerned) as provided in the relevant levy order.
 
 ### 16 Purpose of compliance audits
-(1) The purpose of an audit conducted by an Auditor appointed under section 15(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister on, as many of the following matters as are relevant to those affairs:
+(1) The purpose of an audit conducted by an auditor appointed under section 15(1) is (so far as is practicable) to ascertain in respect of the affairs of the persons whose affairs are to be audited, and report to the Minister on, as many of the following matters as are relevant to those affairs:
   (a) the extent to which persons required to pay the levy concerned are doing and have done so:
   (b) the extent to which appropriate amounts of the levy concerned are being and have been paid:
   (c) the extent to which appropriate amounts of the levy concerned are being and have been collected:
   (d) the extent to which appropriate amounts of the levy concerned are being and have been paid over to the organisation by persons collecting it:
   (e) the extent to which accounts and records are being and have been kept:
   (f) the extent to which accounts and records that are being and have been kept are being and have been properly kept.
-(2) The purpose of an audit conducted by an Auditor appointed under section 15(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the mediator concerned, the Minister, and those parties, on matters of fact that are in dispute.
+(2) The purpose of an audit conducted by an auditor appointed under section 15(2) is (so far as is practicable) to ascertain in respect of the affairs of the parties to the dispute, and report to the mediator concerned, the Minister, and those parties, on matters of fact that are in dispute.
 
-### 17 Power of Auditors to require production of records
-(1) For the purposes of conducting an audit, any Auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being an industry organisation, a person collecting levies, a person who is or may be liable to pay levies, or any employee or officer of an industry organisation or any such person) to produce for inspection within a reasonable period specified by the Auditor any records or accounts in the possession or under the control of that person (being records or accounts that are required to be kept under this Act or by a levy order), and may take copies of or extracts from any such document.
+### 17 Power of auditors to require production of records
+(1) For the purposes of conducting an audit, any auditor specifically or generally authorised in writing in that behalf by a Minister may from time to time require any person (being an industry organisation, a person collecting levies, a person who is or may be liable to pay levies, or any employee or officer of an industry organisation or any such person) to produce for inspection within a reasonable period specified by the auditor any records or accounts in the possession or under the control of that person (being records or accounts that are required to be kept under this Act or by a levy order), and may take copies of or extracts from any such document.
 (2) Every authorisation under subsection (1) shall contain—
   (a) a reference to this section; and
-  (b) the full name of the Auditor; and
-  (c) a statement of the powers conferred on the Auditor by subsection (1).
-(3) Subject to section 16(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no Auditor who exercises powers under this section shall disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the Auditor as a result of the exercise of the power.
+  (b) the full name of the auditor; and
+  (c) a statement of the powers conferred on the auditor by subsection (1).
+(3) Subject to section 16(2), except in respect of a prosecution under this Act or an action for the recovery of any amount due under this Act, no auditor who exercises powers under this section shall disclose to any other person (other than a Minister or a person authorised in that behalf by a Minister) any information obtained by the auditor as a result of the exercise of the power.
 (4) Notwithstanding subsection (3), the Official Information Act 1982 applies in respect of any information held by a Minister that was obtained pursuant to this section.
 
 ### 18 Assessment of performance of industry organisations
@@ -288,22 +288,22 @@ For the purpose of ascertaining whether or not a levy order is being complied wi
 (2) If—the Minister may appoint any person to conduct an assessment of, and report to the Minister on, that performance.
   (a) satisfied that there is sufficient concern among the persons primarily responsible for paying a levy under a levy order about the performance of the industry organisation to justify an assessment of that performance; or
   (b) not satisfied that the performance of an industry organisation under a levy order is adequate,—
-(3) For the purpose of conducting an assessment, a person appointed under subsection (2) has, and may exercise and perform, all the powers of an Auditor under section 17; and sections 15(5) and 24 shall apply accordingly.
+(3) For the purpose of conducting an assessment, a person appointed under subsection (2) has, and may exercise and perform, all the powers of an auditor under section 17; and sections 15(5) and 24 shall apply accordingly.
 (4) Within 28 days of receiving a report under subsection (2), the Minister shall give a copy to the industry organisation concerned.
 
 ### 19 Power of search
-(1) A District Court Judge, a Justice, a Community Magistrate, or a Court Registrar (not being a constable) who, on an application in writing made on oath by a member of the Police or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant in the form set out in the Schedule to this Act authorise the member or person to search the place.
+(1) A District Court Judge, a Justice, a Community Magistrate, or a court Registrar (not being a constable) who, on an application in writing made on oath by a constable or designated person, is satisfied that there are reasonable grounds to believe that there is in any place any document, article, commodity, or thing that is evidence of the commission of an offence against this Act, may by warrant in the form set out in the Schedule authorise the constable or person to search the place.
 (2) A person who applies for a warrant shall, having made reasonable inquiries, disclose—
   (a) details of every previous application for a warrant to search the place that the person knows has been made within the preceding 28 days; and
   (b) the result of each application.
-(3) In this section a designated person means a person (being an Auditor or a person employed in the public service) who is for the time being—
+(3) In this section a designated person means a person (being an auditor or a person employed in the Public Service) who is for the time being—
   (a) designated by a Minister as a person who may exercise powers of search under this Act; or
   (b) a member of a class of person designated by the Minister as persons who may exercise powers of search under this Act.
 (4) No person or class of person shall be designated under subsection (3), unless the Minister concerned is satisfied that the person, or persons of that class, is or are suitably qualified and trained to exercise the powers of a designated person.
 
 ### 20 Powers conferred by warrant
 (1) A warrant issued under section 19 authorises the person named in it—
-  (a) to enter and search the place specified in the warrant on one occasion within 30 days of the date of issue of the warrant at a time that is reasonable in the circumstances; and
+  (a) to enter and search the place specified in the warrant on 1 occasion within 30 days of the date of issue of the warrant at a time that is reasonable in the circumstances; and
   (b) to use any assistance that is reasonable in the circumstances; and
   (c) to use any force for gaining entry or for breaking open any article or thing that is reasonable in the circumstances; and
   (d) to search for and remove documents, articles, or things, that the person believes on reasonable grounds are evidence of any offence against this Act; and
