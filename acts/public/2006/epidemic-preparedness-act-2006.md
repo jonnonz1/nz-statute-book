@@ -1,5 +1,5 @@
 # Epidemic Preparedness Act 2006
-_Consolidation as at 2008-09-02_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Epidemic Preparedness Act 2006.
@@ -183,31 +183,25 @@ A modification made by a prospective modification order—
 Every immediate modification order must be presented to the House of Representatives as soon as is practicable after it is made.
 
 ### 17 Disallowance of immediate modification orders
-(1) A member of Parliament may give a notice of motion under this section to disallow an immediate modification order within 6 sitting days after the day on which it was made.
-(2) Subsection (1) applies whether or not the order has been presented to the House of Representatives.
+[Repealed]
 
 ### 18 When immediate modification orders disallowed
-An immediate modification order is disallowed if a notice of motion under section 17 to disallow it is agreed to within 6 sitting days after the day on which it was made.
+An immediate modification order is disallowed if, within 6 sitting days after the day on which it was made, the House of Representatives resolves to disallow it.
 
 ### 19 Disallowance has effect of revocation
-An immediate modification order that is disallowed under section 18 is revoked at the close of the day after the day on which the notice of motion to disallow it is agreed to.
+An immediate modification order that is disallowed under section 18 is revoked at the close of the day after the day on which the House of Representatives resolves to disallow it.
 
 ### 20 Lapse of notice of motion to disallow immediate modification order
-A notice of motion under section 17 to disallow an immediate modification order lapses if—
-  (a) it is not agreed to within 6 sitting days after the day on which the order was made; or
-  (b) the member of Parliament who gave it withdraws it; or
-  (c) Parliament is dissolved or expires.
+[Repealed]
 
 ### 21 Notice of resolution to disallow immediate modification order
-(1) If a resolution disallowing an immediate modification order is agreed to by the House of Representatives, the Clerk of the House of Representatives must promptly give written notice of the disallowance to the Prime Minister and the Chief Parliamentary Counsel.
+(1) If the House of Representatives resolves to disallow an immediate modification order, the Clerk of the House of Representatives must promptly give written notice of the disallowance to the Prime Minister and the Chief Parliamentary Counsel.
 (2) The notice must show the date on which the resolution was agreed to and be accompanied by the text of the resolution.
 (3) The notice is conclusive evidence of the day on which the resolution was agreed to.
 (4) The Chief Parliamentary Counsel must arrange for the notice to be printed and published under section 4 of the Acts and Regulations Publication Act 1989 as if it were a regulation.
 
 ### 22 Application of Regulations (Disallowance) Act 1989
-An immediate modification order cannot be disallowed under the Regulations (Disallowance) Act 1989 if a notice of motion under section 17 to disallow it—
-  (a) has lapsed; or
-  (b) has not been agreed to.
+An immediate modification order cannot be disallowed under the Regulations (Disallowance) Act 1989.
 
 **Other matters**
 
