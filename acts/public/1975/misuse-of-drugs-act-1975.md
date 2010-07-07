@@ -1,5 +1,5 @@
 # Misuse of Drugs Act 1975
-_Consolidation as at 2009-12-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate and amend the Narcotics Act 1965 and to make further provision for the prevention of misuse of drugs
 
@@ -168,7 +168,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (b) not exceeding 10 years where paragraph (a) does not apply but a Class B controlled drug was the controlled drug or one of the controlled drugs in relation to which the offence was committed:
   (c) not exceeding 7 years in any other case.
 (3) Notwithstanding anything in section 7 of the Summary Proceedings Act 1957, where any person is summarily convicted of an offence against this section relating to a Class C controlled drug, the District Court may sentence him to imprisonment for a term not exceeding 1 year or to a fine not exceeding $1,000.
-(4) Notwithstanding anything in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug— the Judge or court shall impose a sentence of imprisonment (within the meaning of that Act) unless, having regard to the particular circumstances of the offence or of the offender, including the age of the offender if he is under 20 years of age, the Judge or court is of the opinion that the offender should not be so sentenced.
+(4) Notwithstanding anything in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug—the Judge or court shall impose a sentence of imprisonment (within the meaning of that Act) unless, having regard to the particular circumstances of the offence or of the offender, including the age of the offender if he is under 20 years of age, the Judge or court is of the opinion that the offender should not be so sentenced.
   (a) against paragraph (c) or paragraph (f) of subsection (1); or
   (b) against paragraph (a) or paragraph (b) of subsection (1) committed in circumstances indicating to the Judge or court an intention to offend against paragraph (c) of that subsection,—
 (4A) Without limiting anything in subsections (3) and (4) or in Part 1 or section 39 or section 81 of the Sentencing Act 2002, where any person is convicted of an offence relating to a Class A controlled drug or a Class B controlled drug against any of paragraphs (a), (b), (c), and (f) of subsection (1), the Judge or court, if he or it decides to impose a sentence of imprisonment, shall consider whether or not he or it should also impose a fine.
@@ -261,10 +261,10 @@ For the purposes of this Act, the functions of the Minister include the provisio
   (c) to imprisonment for a term not exceeding 6 months or to a fine not exceeding $500 or to both in any other case.
 
 ### 12A Equipment, material, and substances used in production or cultivation of controlled drugs
-(1) Every person commits an offence against this Act who supplies, produces, or manufactures— knowing that the equipment, material, or substance is to be used in, or for, the commission of an offence against those provisions.
+(1) Every person commits an offence against this Act who supplies, produces, or manufactures—knowing that the equipment, material, or substance is to be used in, or for, the commission of an offence against those provisions.
   (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)(b) or section 9; or
   (b) any precursor substance—
-(2) Every person commits an offence against this Act who has in his or her possession— with the intention that the equipment, material, or substance is to be used in, or for, the commission of an offence against that provision.
+(2) Every person commits an offence against this Act who has in his or her possession—with the intention that the equipment, material, or substance is to be used in, or for, the commission of an offence against that provision.
   (a) any equipment or material that is capable of being used in, or for, the commission of an offence against section 6(1)(b) or section 9; or
   (b) any precursor substance—
 (3) Every person who commits an offence against this section is liable on conviction on indictment,—
@@ -325,7 +325,7 @@ For the purposes of this Act, the functions of the Minister include the provisio
 (3) Subject to subsections (6) to (8), every person commits an offence and is liable on conviction on indictment to imprisonment for a term not exceeding 5 years who obtains or has in his or her possession any property (which property is the proceeds of a specified drug offence committed by another person)—
   (a) with intent to engage in a money laundering transaction concerning that property; and
   (b) knowing or believing that all or part of the property is the proceeds of a specified drug offence, or being reckless as to whether or not the property is the proceeds of a specified drug offence.
-(4) For the purposes of this section, a person engages in a money laundering transaction if that person— for the purpose of—
+(4) For the purposes of this section, a person engages in a money laundering transaction if that person—for the purpose of—
   (a) deals with any property; or
   (b) assists any other person, whether directly or indirectly, to deal with any property—
   (c) concealing that property; or
@@ -451,7 +451,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (1) The Minister may from time to time, by notice in the Gazette, prohibit the import, manufacture, production, procuring, possession, supply, administration, or other use of any specified controlled drug, either absolutely or subject to such conditions as he thinks fit, for any specified period not exceeding 1 year:
   provided that this power shall not be exercised more than once in respect of any controlled drug so specified.
 (1A) The Minister may from time to time, by notice in the Gazette, prohibit the import or supply of any class of pipe or other utensil, not being a needle or syringe, that may be used for administering any controlled drug or in the preparation of any controlled drug to be administered, either absolutely or subject to such conditions as the Minister thinks fit.
-(2) Every person commits an offence against this Act who,— contravenes or fails to comply with that notice.
+(2) Every person commits an offence against this Act who,—contravenes or fails to comply with that notice.
   (a) being a person permitted by or under this Act to import, manufacture, produce, procure, possess, supply, administer, or otherwise use, as the case may require, a controlled drug specified in a notice under subsection (1); or
   (b) were it not for a notice issued under subsection (1), would be permitted by or under this Act to import, manufacture, produce, procure, possess, supply, administer, or otherwise use, as the case may require, a controlled drug specified in that notice,—
 (3) Every person commits an offence against this Act who—
@@ -461,7 +461,7 @@ Every person commits an offence against this Act who wilfully obstructs, hinders
 (4) Subject to subsection (5), every person who commits an offence against subsection (3) is liable,—
   (a) in the case of an individual, to imprisonment for a term not exceeding 3 months or to a fine not exceeding $1,000, or to both; or
   (b) in the case of a body corporate, to a fine not exceeding $5,000.
-(5) Where— that person is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
+(5) Where—that person is liable to imprisonment for a term not exceeding 3 months or to a fine not exceeding $5,000, or to both.
   (a) a body corporate is convicted of an offence against subsection (3); and
   (b) under section 17(2), a person (being a director or person concerned in the management of that body corporate) is also guilty of that offence,—
 (6) Every notice issued under subsection (1A) is a regulation for the purposes of the Regulations (Disallowance) Act 1989, but is not a regulation for the purposes of the Acts and Regulations Publication Act 1989.
@@ -578,11 +578,11 @@ Without prejudice to subsection (8) of section 67 of the Summary Proceedings Act
 (1) For the purposes of this section, the term analyst means—
   (a) any person who is designated by the Minister by notice in the Gazette as the analyst in charge of an approved laboratory; or
   (b) any person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to act as an analyst for the purposes of this Act, either generally or in any particular case.
-(2) Subject to subsections (3) and (4), in any proceedings for an offence against this Act, a certificate purporting to be signed by an analyst, and certifying that, on a date stated in the certificate, the substance, preparation, mixture, or article to which the certificate relates was received by the signatory personally in any case or (where the substance, preparation, mixture, or article was delivered in a sealed package or by registered post) by any other person (being a person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to receive it), from the member of the Police or employee of the Police Department or officer of Customs named in the certificate, and that upon analysis that substance, preparation, mixture, or article was found to be or to contain a particular controlled drug or precursor substance (whether of a specified or an unspecified weight) or a particular prohibited plant, or a particular part of a particular prohibited plant, or a seed or fruit of a particular prohibited plant, specified or described in the certificate, shall until the contrary is proved be sufficient evidence—
+(2) Subject to subsections (3) and (4), in any proceedings for an offence against this Act, a certificate purporting to be signed by an analyst, and certifying that, on a date stated in the certificate, the substance, preparation, mixture, or article to which the certificate relates was received by the signatory personally in any case or (where the substance, preparation, mixture, or article was delivered in a sealed package using a traceable system) by any other person (being a person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to receive it), from the member of the Police or employee of the Police Department or officer of Customs named in the certificate, and that upon analysis that substance, preparation, mixture, or article was found to be or to contain a particular controlled drug or precursor substance (whether of a specified or an unspecified weight) or a particular prohibited plant, or a particular part of a particular prohibited plant, or a seed or fruit of a particular prohibited plant, specified or described in the certificate, shall until the contrary is proved be sufficient evidence—
   (a) of the qualifications and authority of the person by whom the analysis was carried out; and
   (b) of the authority of the person who signed the certificate to sign that certificate; and
   (c) of the facts stated in the certificate.
-(2A) Where the substance, preparation, mixture, or article was delivered in a sealed package or by registered post and received by any person (not being the person who signed the certificate but being a person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to receive it) from any person referred to in subsection (2),—
+(2A) Where the substance, preparation, mixture, or article was delivered in a sealed package using a traceable system and received by any person (not being the person who signed the certificate but being a person who works in an approved laboratory and who is authorised, by the analyst in charge of that laboratory, to receive it) from any person referred to in subsection (2),—
   (a) the person who made the analysis may give evidence of receipt by that other person of the substance, preparation, mixture, or article that is the subject of the analysis; and
   (b) such evidence shall, in the absence of evidence to the contrary, be admissible as sufficient proof of the proper receipt of the substance, preparation, mixture, or article by the person who made the analysis.
 (3) A certificate referred to in subsection (2) shall be admissible in evidence only if—
@@ -622,7 +622,7 @@ A person who does any act in pursuance or intended pursuance of any of the funct
 (3) A certificate signed by the Commissioner of Police to the effect that, at any specified time or during any specified period, the constable named in the certificate was acting as an undercover officer shall, for the purposes of subsection (2), be conclusive evidence of that fact.
 
 ### 35 Crimes deemed to be included in extradition treaties
-(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act,— if not already described in the treaty, is deemed to be an offence described in any extradition treaty referred to in subsection (2).
+(1) For the purposes of the Extradition Act 1999 and any Order in Council in force under section 15 or section 104 of that Act,—if not already described in the treaty, is deemed to be an offence described in any extradition treaty referred to in subsection (2).
   (a) each crime described in section 6 or section 9, including—
     (i) attempting or conspiring to commit that crime; or
     (ii) aiding, abetting, inciting, counselling, or procuring any person to commit that crime; and
@@ -646,7 +646,7 @@ A person who does any act in pursuance or intended pursuance of any of the funct
 (2) If, in any case to which subsection (1) applies, it is subsequently determined that proceedings should not be brought in New Zealand against the person in respect of the act or omission, the Attorney-General must advise the court accordingly, and the court must proceed with the matter as if the Attorney-General’s certificate had never been given.
 
 ### 35D Evidence
-For any purpose in connection with this Act, a certificate, given by the Secretary of Foreign Affairs and Trade certifying— is sufficient evidence of that fact.
+For any purpose in connection with this Act, a certificate, given by the Secretary of Foreign Affairs and Trade certifying—is sufficient evidence of that fact.
   (a) that any country is or is not, or was or was not at any material time, a party to—
     (i) the Single Convention on Narcotic Drugs 1961, as amended by the Protocol amending that Convention, done at Geneva on 25 March 1972; or
     (ii) the Convention on Psychotropic Substances 1971; or
@@ -670,7 +670,7 @@ For any purpose in connection with this Act, a certificate, given by the Secreta
   (fa) regulating the issue of standing orders that authorise the supply and administration of controlled drugs, imposing conditions, limitations, requirements, or restrictions in relation to the contents of standing orders of that kind and their use, and providing for any other matters that are necessary or desirable for the administration of standing orders of that kind:
   (g) regulating the issue by medical practitioners, dentists, midwives, designated prescribers, and veterinarians of prescriptions for the supply of any controlled drug, and requiring persons issuing or dispensing prescriptions in respect of any such drug to furnish such information relating to those prescriptions as may be prescribed:
   (ga) prescribing the circumstances in which, and the conditions under which, any person or class of persons may possess needles or syringes notwithstanding that those needles or syringes may be intended to be used for the purpose of the commission of offences against this Act:
-  (gb) regulating the sale, exchange, or supply of needles or syringes— notwithstanding that those needles or syringes may be intended by the persons to whom they are sold or supplied, or with whom they are exchanged, to be used for the commission of offences against this Act:
+  (gb) regulating the sale, exchange, or supply of needles or syringes—notwithstanding that those needles or syringes may be intended by the persons to whom they are sold or supplied, or with whom they are exchanged, to be used for the commission of offences against this Act:
     (i) by medical practitioners or pharmacists generally, or by those approved for the purpose by the Director-General of Health; or
     (ii) by authorised representatives of any agency, association, or body approved for the purpose by the Director-General of Health,—
   (h) requiring any medical practitioner who attends a person whom he considers, or has reasonable grounds to suspect, is dependent on controlled drugs of any description to furnish such particulars with respect to that person as may be prescribed:
@@ -1140,7 +1140,7 @@ The salts of the substances listed in clause 1 whenever the existence of such sa
 ## Schedule 5 — Amount, level, or quantity at and over which controlled drugs are presumed to be for supply
 
 ### 1 The controlled drugs listed in the first column are presumed to be for supply at and over the amount, level, or quantity listed in the second column.
-Amphetamine 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug Morphine 5 grams, whether or not contained in a substance, preparation, or mixture Cocaine half a gram, whether or not contained in a substance, preparation, or mixture Heroin half a gram, whether or not contained in a substance, preparation, or mixture Lysergide two and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug DOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA) 100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug MDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug N-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug MDA (2-amino-1-(3,4-methylenedioxyphenyl)propane) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug Tetrahydrocannabinol (as described in Schedule 2) 250 milligrams, whether or not contained in a substance, preparation, or mixture Any cannabis preparation (as described in Schedule 2) 5 grams or 100 cigarettes containing the drug Cannabis plant (as described in Schedule 3) 28 grams or 100 cigarettes containing the drug BZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane)) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug TFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug pFPP (1-(4-fluorophenyl)piperazine) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug MeOPP (1-(4-methoxyphenyl)piperazine) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug mCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug MBZP (1-methyl-4-benzylpiperazine) 5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drug Methamphetamine 5 grams, whether or not contained in a substance, preparation, or mixture
+Amphetamine5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMorphine5 grams, whether or not contained in a substance, preparation, or mixtureCocainehalf a gram, whether or not contained in a substance, preparation, or mixtureHeroinhalf a gram, whether or not contained in a substance, preparation, or mixtureLysergidetwo and a half milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugDOB (2-amino-1-(4-bromo-2,5-dimethoxyphenyl)propane) (also known as bromo-DMA)100 milligrams or 25 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDMA (2-methylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugN-ETHYL MDA (2-ethylamino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMDA (2-amino-1-(3,4-methylenedioxyphenyl)propane)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTetrahydrocannabinol (as described in Schedule 2)250 milligrams, whether or not contained in a substance, preparation, or mixtureAny cannabis preparation (as described in Schedule 2)5 grams or 100 cigarettes containing the drugCannabis plant (as described in Schedule 3)28 grams or 100 cigarettes containing the drugBZP (1-benzylpiperazine or A2 benzylpiperazine or N-benzylpiperazine (1-benzyl-1,4-diazacyclohexane))5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugTFMPP (1-(3-trifluoromethylphenyl)piperazine or N-(3-trifluoromethylphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugpFPP (1-(4-fluorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMeOPP (1-(4-methoxyphenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugmCPP (1-(meta-chlorophenyl)piperazine) or 1-(3-chlorophenyl)piperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMBZP (1-methyl-4-benzylpiperazine)5 grams or 100 flakes, tablets, capsules, or other drug forms each containing some quantity of the drugMethamphetamine5 grams, whether or not contained in a substance, preparation, or mixture
 
 ### 2
 Any controlled drug not specified in clause 1 is presumed to be for supply at and over the level of 56 grams.
@@ -1155,7 +1155,7 @@ This Act may be cited as the Misuse of Drugs Amendment Act 1978, and shall be re
   - **dealing in cannabis on a substantial scale** means—
     (a) dealing (in any of the ways referred to in section 6(1) of the principal Act) with a substantial amount of a controlled drug in respect of which a prescribed cannabis offence may be committed:
     (b) cultivation of a prohibited plant (being a prohibited plant in respect of which a prescribed cannabis offence may be committed) on a substantial scale
-  - **drug dealing offence** means,— in relation to a Class A controlled drug or a Class B controlled drug
+  - **drug dealing offence** means,—in relation to a Class A controlled drug or a Class B controlled drug
     (a) in sections 30, 34, 38 to 41, 43, 46, and 47, any offence against section 12C(1)(a) of the principal Act:
     (b) any offence against section 6 of the principal Act—
   - **emergency permit** means a permit granted under section 19 to intercept a private communication by means of an interception device
@@ -1189,7 +1189,7 @@ This Part shall apply notwithstanding anything in the Postal Services Act 1998 o
 **Special powers of Police and Customs officers**
 
 ### 12 Allowing delivery of unlawfully imported drugs or precursor substances for purpose of detection, etc
-(1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,— as the case may require.
+(1) Where any Customs officer acting in the course of his or her official duties believes on reasonable grounds that there is in or on any craft, package, mail, vehicle, or goods any controlled drug or precursor substance that has been imported into New Zealand in contravention of section 6(1)(a) or section 12AB of the principal Act, he or she may, for the purpose of his or her investigation of the matter, leave or replace that drug or precursor substance, or any portion of it, in or on the craft, package, mail, vehicle, or goods and may, in the same manner as if there had been delivery from Customs control,—as the case may require.
   (a) allow the craft or vehicle to leave; or
   (b) allow the package or goods to be collected by or delivered to or on behalf of the consignee; or
   (c) return the goods or mail to the appropriate carrier for delivery to the addressee—
@@ -1282,7 +1282,7 @@ On causing any person to be detained under section 13A, a constable or an office
   (e) if any such examination has been conducted, the results of that examination as set out in the certificate given under section 13D(1).
 (2) In any case where, because of the urgency of the matter or for any other sufficient cause, it seems proper to do so, a District Court Judge may permit an application under this section to be made on oath orally, but in that event the Judge shall make a note in writing of the particulars referred to in paragraphs (a) to (e) of subsection (1).
 (3) In considering an application made under this section, the Judge may take into account any oral or documentary material that the Judge considers relevant, whether or not it would be admissible in a court of law.
-(4) If, on an application made under this section, a Judge is satisfied— the Judge may grant a detention warrant in the prescribed form authorising the continued detention of the person to whom it relates under section 13A.
+(4) If, on an application made under this section, a Judge is satisfied—the Judge may grant a detention warrant in the prescribed form authorising the continued detention of the person to whom it relates under section 13A.
   (a) that there has been reasonable compliance with the requirements of section 13B; and
   (b) that there is reasonable cause to believe that the detained person has secreted within that person’s body any Class A controlled drug or Class B controlled drug for any unlawful purpose; and
   (c) that the premises in which the detained person is being detained, or any other premises in which it is proposed to detain that person, are suitable for the purpose,—
@@ -1351,10 +1351,10 @@ A constable or a Customs officer who undertakes a search under section 13EA must
 
 ### 13F On grant of warrant, Judge to appoint barrister or solicitor and medical practitioner
 (1) On granting a detention warrant under section 13E, a District Court Judge shall appoint, or arrange for the appointment of, a barrister or solicitor and a medical practitioner to report to the court on the matters referred to in subsections (2) and (3).
-(2) The function of the barrister or solicitor appointed under this section shall be to satisfy himself or herself— and to report to the Judge if the barrister or solicitor is not so satisfied in any particular respect.
+(2) The function of the barrister or solicitor appointed under this section shall be to satisfy himself or herself—and to report to the Judge if the barrister or solicitor is not so satisfied in any particular respect.
   (a) that the detention is being conducted in accordance with the provisions of this Act, the terms of the detention warrant, and any directions given by the Judge; and
   (b) that the detained person is aware of his or her rights in relation to the detention, and that the exercise of any of those rights by that person is not being interfered with unreasonably,—
-(3) The function of the medical practitioner appointed under this section shall be to satisfy himself or herself— and to report to the Judge if the medical practitioner is not so satisfied in any particular respect.
+(3) The function of the medical practitioner appointed under this section shall be to satisfy himself or herself—and to report to the Judge if the medical practitioner is not so satisfied in any particular respect.
   (a) that the detained person is being accommodated, fed, and generally cared for in a reasonable and proper manner; and
   (b) that the detained person is being offered all such medical care (if any) as may seem to the medical practitioner to be necessary or desirable in the interests of that person,—
 (4) Notwithstanding anything in subsection (2) or subsection (3), where—
@@ -1560,7 +1560,7 @@ Every interception warrant shall have effect, according to its terms, to authori
 (2) Every person who fails to comply with subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
 
 ### 22 Destruction of relevant records made by use of interception device
-(1) The Commissioner of Police must ensure that every record, whether written or otherwise, of the information obtained by the Police from the interception of a private communication in pursuance of an interception warrant or an emergency permit, being information that relates wholly or partly and directly or indirectly to— is destroyed as soon as it appears that no proceedings, or no further proceedings, will be taken in which the information would be likely to be required to be produced in evidence.
+(1) The Commissioner of Police must ensure that every record, whether written or otherwise, of the information obtained by the Police from the interception of a private communication in pursuance of an interception warrant or an emergency permit, being information that relates wholly or partly and directly or indirectly to—is destroyed as soon as it appears that no proceedings, or no further proceedings, will be taken in which the information would be likely to be required to be produced in evidence.
   (a) the commission of a drug dealing offence or a prescribed cannabis offence; or
   (b) the commission of a specified offence or a serious violent offence (as those terms are defined in section 312A of the Crimes Act 1961), or a conspiracy to commit such an offence,—
 (2) Nothing in subsection (1) shall apply to—
@@ -1569,7 +1569,7 @@ Every interception warrant shall have effect, according to its terms, to authori
 (3) Every report made to a Judge in accordance with section 28 shall state whether or not subsection (1) has yet been complied with, and, if it has not, the Judge shall give such directions relating to the eventual destruction of the record as he thinks necessary to ensure compliance with that subsection, including a requirement that he be advised when the record has been destroyed.
 
 ### 23 Prohibition on disclosure of private communications lawfully intercepted
-(1) No person who— shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of his duty.
+(1) No person who—shall knowingly disclose the substance, meaning, or purport of that communication, or any part of that communication, otherwise than in the performance of his duty.
   (a) intercepts or assists in the interception of a private communication in pursuance of an interception warrant or emergency permit; or
   (b) acquires knowledge of a private communication as a direct or indirect result of that interception—
 (2) Every person who acts in contravention of subsection (1) commits an offence and is liable on summary conviction to a fine not exceeding $500.
@@ -1609,7 +1609,7 @@ Particulars of a private communication intercepted pursuant to an interception w
 (2) In subsection (1), serious violent offence, specified offence, and terrorist offence have the meanings given to those terms by section 312A of the Crimes Act 1961.
 
 ### 27 Privileged evidence
-Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of— such evidence shall remain privileged and shall not be given in any court, except with the consent of the person entitled to waive that privilege.
+Where evidence obtained by the interception of a private communication would, but for the interception, have been privileged by virtue of—such evidence shall remain privileged and shall not be given in any court, except with the consent of the person entitled to waive that privilege.
   (a) any of the provisions of Part 3 of the Evidence Amendment Act (No 2) 1980; or
   (b) any rule of law that confers privilege on communications of a professional character between a barrister or solicitor and his client,—
 
@@ -1647,7 +1647,7 @@ The Commissioner of Police must include in every annual report prepared by the C
 In any case where any person is convicted of a drug dealing offence and the court by which he is convicted is satisfied on the balance of probabilities that any money or assets owned by the offender at the date of his trial has or have been acquired by him directly or indirectly from the offence, the court may, having regard to the amount of such money or the value of such assets, impose a fine greater than it would otherwise have imposed on the offender for the offence.
 
 ### 39 Court may impose greater fine having regard to previous dealings
-(1) In any case where any person is convicted of a drug dealing offence (in this section referred to as the primary offence) and the court by which he is convicted is, on the application of the Crown,— the court may, having regard to the amount of such money or the value of such assets, impose a fine greater than it would otherwise have imposed on the offender for the primary offence.
+(1) In any case where any person is convicted of a drug dealing offence (in this section referred to as the primary offence) and the court by which he is convicted is, on the application of the Crown,—the court may, having regard to the amount of such money or the value of such assets, impose a fine greater than it would otherwise have imposed on the offender for the primary offence.
   (a) satisfied beyond reasonable doubt that, before the commission of the primary offence, the offender had engaged in any conduct (other than conduct that constituted the primary offence) that constitutes a drug dealing offence; and
   (b) satisfied on the balance of probabilities that any money or assets owned by the offender at the date of his trial has or have been acquired by him directly or indirectly from such conduct,—
 (2) Where the prosecutor intends to seek leave to adduce evidence of the matters referred to in subsection (1), he shall give written notice of his intention and of the particulars of the evidence to be adduced to the court and to the defendant as soon as practicable after the conviction is entered, and in any event not later than 5 days before the date set for sentencing.
@@ -1670,7 +1670,7 @@ Where, in any case to which section 38 or section 39 applies, it appears to the 
 
 ### 43 Enforcement of fines imposed in High Court
 (1) Where the court sentences an offender on conviction on indictment of a drug dealing offence to pay a fine and that fine is not paid within 14 days thereafter, or within such further time as may be allowed or fixed for the payment thereof, the following provisions shall apply:
-  (a) the Registrar shall inquire into the means of the offender, and shall— to enable the offender to be orally examined as to his means:
+  (a) the Registrar shall inquire into the means of the offender, and shall—to enable the offender to be orally examined as to his means:
     (i) where the offender is detained in a prison, issue a warrant to produce the offender; or
     (ii) issue a summons requiring the offender, unless he sooner pays the amount outstanding under the conviction, to appear at the time and place appointed in the summons; or
     (iii) if in the opinion of the Registrar a warrant is necessary to compel the attendance of the defendant, issue a warrant to arrest him and bring him before the court—
@@ -1698,7 +1698,7 @@ Where any District Court sentences an offender on conviction of a drug dealing o
 Where any District Court sentences an offender on conviction of a drug dealing offence to pay a fine and the Registrar of that court is satisfied that payment of that fine may be more effectively enforced in the High Court, he may file a certificate to that effect under his hand in that court, containing full particulars of the conviction and the amount of the fine, and thereafter payment of the fine shall be enforced as if the fine had been imposed in the High Court.
 
 ### 46 Garnishee proceedings
-(1) For the purpose of enforcing the payment of any fine imposed by any court on conviction of an offender of a drug dealing offence, a sum that stands to the credit of the offender with any person (including a bank or savings bank) and that is on deposit with that person or is held by him in a current or other account (including a deposit account) shall be deemed to be a sum due or accruing to the Registrar enforcing the fine and shall be attachable accordingly, notwithstanding that any of the following conditions applicable to the deposit or account, that is to say— has not been satisfied.
+(1) For the purpose of enforcing the payment of any fine imposed by any court on conviction of an offender of a drug dealing offence, a sum that stands to the credit of the offender with any person (including a bank or savings bank) and that is on deposit with that person or is held by him in a current or other account (including a deposit account) shall be deemed to be a sum due or accruing to the Registrar enforcing the fine and shall be attachable accordingly, notwithstanding that any of the following conditions applicable to the deposit or account, that is to say—has not been satisfied.
   (a) any condition that notice is required before any money is withdrawn:
   (b) any condition that a demand for payment must be made:
   (c) any condition that a personal application must be made before any money is withdrawn:
@@ -1723,7 +1723,7 @@ This Part shall be administered by the Ministry of Justice.
 (1) Notwithstanding the amendment, by section 5, of subsections (1), (2), and (2A) of section 31 of the principal Act,—
   (a) section 31(2) of the principal Act shall, after the commencement of this section, continue to apply, in respect of any certificate that is referred to in section 31(2) of the principal Act and that was given before the commencement of this section, as if section 5 had not been passed:
   (b) Subsection (2A) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section) shall, after the commencement of this section, continue to apply, in respect of the receipt of any substance, preparation, mixture, or article before the commencement of this section, as if section 5 had not been passed.
-(2) Notwithstanding anything in section 31 of the principal Act, where,— the following provisions shall apply:
+(2) Notwithstanding anything in section 31 of the principal Act, where,—the following provisions shall apply:
   (a) before the commencement of this section, any substance, preparation, mixture, or article has been delivered or posted to an analyst within the meaning of subsection (1) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section); and
   (b) any 1 or more of the following circumstances apply in relation to that substance, preparation, mixture, or article, namely,—
     (i) in the case of any substance, preparation, mixture, or article that was posted before the commencement of this section, that substance, preparation, mixture, or article was not received by the analyst until after the commencement of this section; or
@@ -1738,7 +1738,7 @@ This Part shall be administered by the Ministry of Justice.
     (iii) that the person who carried out or completed the analysis or issued the certificate either was not, before the commencement of this section, an analyst within the meaning of subsection (1) of section 31 of the principal Act (as that subsection existed immediately before the commencement of this section), or was such an analyst before the commencement of this section and was, after the commencement of this section, an analyst within the meaning of that subsection (as amended by section 5).
 (3) Notwithstanding anything in section 31 of the principal Act, where, before the commencement of this section, any certificate of the kind referred to in subsection (2) of that section has been issued in respect of the analysis of any substance, preparation, mixture, or article, a certificate of that kind may, from time to time, after the commencement of this section, be issued by any analyst within the meaning of subsection (1) of that section (as amended by section 5) in any case where that analyst has available to him or her such information as is necessary to enable that analyst to fully complete that certificate.
 (4) Section 31(2) of the principal Act shall apply in respect of any certificate issued under the authority of subsection (3) of this section as if the certificate had been signed, before the commencement of this section, by an analyst who had personally received the substance, preparation, mixture, or article to which the certificate relates.
-(5) Notwithstanding anything in section 31 of the principal Act, where, after the commencement of this section,— section 31 of the principal Act shall apply in all respects as if that substance, preparation, mixture, or article had been delivered to that analyst in a package properly addressed to that analyst.
+(5) Notwithstanding anything in section 31 of the principal Act, where, after the commencement of this section,—section 31 of the principal Act shall apply in all respects as if that substance, preparation, mixture, or article had been delivered to that analyst in a package properly addressed to that analyst.
   (a) any substance, preparation, mixture, or article is posted by registered post in any package, parcel, or other container that is addressed to the Dominion Analyst or a Government Analyst; and
   (b) that substance, preparation, mixture, or article is received by an analyst within the meaning of section 31(1) of the principal Act (as amended by section 5),—
 
@@ -2128,7 +2128,7 @@ The functions of the Expert Advisory Committee on Drugs (as established under se
 **Regulations**
 
 ### 62 Regulations
-(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes: Exemptions Place of sale or supply restrictions Advertising restrictions and requirements Labelling restrictions and requirements Packaging restrictions and requirements Health warning requirements Signage requirements Quantity, dosage, form, and serving requirements Storage and display restrictions Record-keeping requirements General
+(1) The Governor-General may, by Order in Council, make regulations for all or any of the following purposes:ExemptionsPlace of sale or supply restrictionsAdvertising restrictions and requirementsLabelling restrictions and requirementsPackaging restrictions and requirementsHealth warning requirementsSignage requirementsQuantity, dosage, form, and serving requirementsStorage and display restrictionsRecord-keeping requirementsGeneral
   (a) exempting any specified preparation, concentration, form, or use of a restricted substance from being a restricted substance:
   (b) prescribing restrictions on the places and premises from which restricted substances may be sold or supplied, or both, including, without limitation, restrictions of the following kinds:
     (i) a restriction completely prohibiting the sale or supply, or both, of restricted substances from premises of a specified kind (for example, from non-fixed premises, such as a vehicle):
