@@ -1,9 +1,11 @@
 # Births, Deaths, Marriages, and Relationships Registration Act 1995
-_Consolidation as at 2009-01-24_
+_Consolidation as at 2010-07-07_
+
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Births, Deaths, Marriages, and Relationships Registration Act 1995.
-(2) This Act shall come into force on the 1st day of September 1995.
+(2) This Act shall come into force on 1 September 1995.
 
 ## Part 1 — Preliminary
 
@@ -17,58 +19,57 @@ The purposes of this Act are—
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Adopted person** means a person information (not being information derived from an adoption order that has been discharged) relating to whom has been recorded under section 24 or section 25 of this Act, or under a corresponding provision of a former Act or a former Adoption Act
-  - **Adoption information** means information relating to an adoption; and, in relation to any adoption, means information relating to that adoption
-  - **Birth** includes a still-birth; but does not include a miscarriage
-  - **Birth certificate** means a document—and, in relation to any person, means a birth certificate containing registered birth information relating to the person's birth
-    (a) Issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
-    (b) Containing registered birth information;—
-  - **Birth information** means information relating to a birth; and, in relation to any birth, means information relating to that birth
-  - **Body** means a dead person; but does not include a dead foetus
+  - **adopted person** means a person information (not being information derived from an adoption order that has been discharged) relating to whom has been recorded under section 24 or section 25, or under a corresponding provision of a former Act or a former Adoption Act
+  - **adoption information** means information relating to an adoption; and, in relation to any adoption, means information relating to that adoption
+  - **birth** includes a still-birth; but does not include a miscarriage
+  - **birth certificate** means a document—and, in relation to any person, means a birth certificate containing registered birth information relating to the person's birth
+    (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
+    (b) containing registered birth information;—
+  - **birth information** means information relating to a birth; and, in relation to any birth, means information relating to that birth
+  - **body** means a dead person; but does not include a dead foetus
   - **celebrant** means, as the case requires,—
     (a) in relation to a marriage, a person who is a marriage celebrant under the Marriage Act 1955; and, in relation to a marriage solemnised by a celebrant, means the celebrant who solemnised it; and
-    (b) in relation to a civil union, a person who is a civil union celebrant under the Civil Union Act 2004; and, in relation to a civil union solemnised by a celebrant, means the celebrant who solemnised it.
+    (b) in relation to a civil union, a person who is a civil union celebrant under the Civil Union Act 2004; and, in relation to a civil union solemnised by a celebrant, means the celebrant who solemnised it
   - **Chief Archivist** means the person holding that office under the Public Records Act 2005
-  - **Child** includes a still-born child
+  - **child** includes a still-born child
   - **civil union certificate** means—
     (a) a document that is issued by, and signed or sealed by or stamped with the seal of, a Registrar, and that contains registered civil union information; and
     (b) in relation to any civil union, means a civil union certificate containing registered civil union information relating to that civil union
   - **civil union information** means information relating to a civil union; and, in relation to any civil union, means information relating to that civil union
-  - **Computer system** means any system of computers, or computers and terminals,—
-    (a) Used for storing information recorded under this Act or a former Act; and
-    (b) Accessible by the Registrar-General or a Registrar; and
-    (c) Under the control of—
-      (i) The Registrar-General or a Registrar; or
-      (ii) A person (other than the Registrar-General or a Registrar) who has the function of managing, on behalf of the Registrar-General, information recorded under this Act or a former Act:
+  - **computer system** means any system of computers, or computers and terminals,—
+    (a) used for storing information recorded under this Act or a former Act; and
+    (b) accessible by the Registrar-General or a Registrar; and
+    (c) under the control of—
+      (i) the Registrar-General or a Registrar; or
+      (ii) a person (other than the Registrar-General or a Registrar) who has the function of managing, on behalf of the Registrar-General, information recorded under this Act or a former Act
   - **coroner's authorisation** , in relation to a body, means an authorisation by a coroner under section 42 of the Coroners Act 2006 for the release of the body
-  - **Dead foetus** means a foetus that, whether or not the umbilical cord had been severed or the placenta had detached, at no time after issuing completely from its mother breathed or showed any other sign of life (such as beating of the heart, pulsation of the umbilical cord, or definite movement of the voluntary muscles)
-  - **Death** does not include a miscarriage or a still-birth
-  - **Death certificate** means a document—and, in relation to any person, means a death certificate containing registered death information relating to the person's death
-    (a) Issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
-    (b) Containing registered death information;—
-  - **Death information** means information relating to a death; and, in relation to any death, means information relating to that death
-  - **Delivery** means a birth or a still-birth
-  - **Deputy Registrar-General** means a Deputy Registrar-General appointed under section 80(1) of this Act
+  - **dead foetus** means a foetus that, whether or not the umbilical cord had been severed or the placenta had detached, at no time after issuing completely from its mother breathed or showed any other sign of life (such as beating of the heart, pulsation of the umbilical cord, or definite movement of the voluntary muscles)
+  - **death** does not include a miscarriage or a still-birth
+  - **death certificate** means a document—and, in relation to any person, means a death certificate containing registered death information relating to the person's death
+    (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
+    (b) containing registered death information;—
+  - **death information** means information relating to a death; and, in relation to any death, means information relating to that death
+  - **Deputy Registrar-General** means a Deputy Registrar-General appointed under section 80(1)
   - **Director of Security** means the Director of Security holding office under the New Zealand Security Intelligence Service Act 1969
-  - **Disposal** , includes burial and cremation; and has a corresponding meaning
+  - **disposal** , includes burial and cremation; and has a corresponding meaning
   - **doctor** means a health practitioner who is, or is deemed to be, registered with the Medical Council of New Zealand continued by section 114(1)(a) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of medicine
   - **doctor's certificate** , in relation to a death or a body, means a doctor's certificate referred to in sections 46B and 46C of the Burial and Cremation Act 1964 relating to the cause of death or, as the case may be, the cause of death of the person whose body it is
-  - **Document** means a document in any form; and includes any photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced; and has a corresponding meaning
+  - **document** means a document in any form; and includes any photograph, film, negative, tape, or other device in which 1 or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced; and has a corresponding meaning
   - **Family Court** means the division of a District Court known, in accordance with section 4 of the Family Courts Act 1980, as a Family Court
   - **foreign registration authority** means an authority constituted in a State outside New Zealand that has the function of recording information relating to name changes or deaths within that State
-  - **Former Act** means the Births and Deaths Registration Act 1951 or the Marriage Act 1955 or any Act relating to the registration of births and deaths or marriages that was repealed before the 1st day of September 1995
-  - **Former Adoption Act** means the Infants Act 1908 or the Maori Land Act 1931 or the Maori Affairs Act 1953 or any Act relating to the adoption of children that was repealed before the 1st day of September 1995
-  - **Hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
-  - **Index** includes part of an index
-  - **Marriage** means a marriage solemnised under the Marriage Act 1955 or a former Act; and includes a service marriage
-  - **Marriage certificate** means a document—and, in relation to any marriage, means a marriage certificate containing registered marriage information relating to that marriage
-    (a) Issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
-    (b) Containing registered marriage information;—
-  - **Marriage information** means information relating to a marriage; and, in relation to any marriage, means information relating to that marriage
-  - **Medical** includes psychological and surgical
-  - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery.
+  - **former Act** means the Births and Deaths Registration Act 1951 or the Marriage Act 1955 or any Act relating to the registration of births and deaths or marriages that was repealed before 1 September 1995
+  - **former Adoption Act** means the Infants Act 1908 or the Maori Land Act 1931 or the Maori Affairs Act 1953 or any Act relating to the adoption of children that was repealed before 1 September 1995
+  - **hospital** means a hospital care institution within the meaning of section 58(4) of the Health and Disability Services (Safety) Act 2001
+  - **index** includes part of an index
+  - **marriage** means a marriage solemnised under the Marriage Act 1955 or a former Act; and includes a service marriage
+  - **marriage certificate** means a document—and, in relation to any marriage, means a marriage certificate containing registered marriage information relating to that marriage
+    (a) issued by, and signed or sealed by or stamped with the seal of, a Registrar; and
+    (b) containing registered marriage information;—
+  - **marriage information** means information relating to a marriage; and, in relation to any marriage, means information relating to that marriage
+  - **medical** includes psychological and surgical
+  - **midwife** means a health practitioner who is, or is deemed to be, registered with the Midwifery Council established by section 114(3) of the Health Practitioners Competence Assurance Act 2003 as a practitioner of the profession of midwifery
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Miscarriage** means the issue from its mother, before the 21st week of pregnancy, of a dead foetus weighing less than 400g
+  - **miscarriage** means the issue from its mother, before the 21st week of pregnancy, of a dead foetus weighing less than 400 g
   - **name change certificate** means—
     (a) a document—
       (i) issued by, and signed or sealed by, or stamped with the seal of, a Registrar; and
@@ -76,14 +77,14 @@ In this Act, unless the context otherwise requires,—
     (b) in relation to a person, a document within the meaning of paragraph (a) that contains registered name change information relating to each of the person's name changes
   - **name change information** means information relating to a name change; and, in relation to any name change, means information relating to that name change
   - **New Zealand** includes the Ross Dependency
-  - **Occupier** , in relation to any premises, means the person for the time being in charge of them
-  - **Prescribed fee** includes a fee calculated or ascertained in accordance with regulations made under this Act
+  - **occupier** , in relation to any premises, means the person for the time being in charge of them
+  - **prescribed fee** includes a fee calculated or ascertained in accordance with regulations made under this Act
   - **Privacy Commissioner** means the Privacy Commissioner holding that office under section 12 of the Privacy Act 1993
   - **record** includes to cause to be recorded
   - **register** means that a Registrar records (in a manner authorised by the Registrar-General) information under this Act, a former Act, or a former Adoption Act
-  - **Registrar** means a person for the time being holding office under section 81(1) of this Act; and includes the Registrar-General and every Deputy Registrar-General
-  - **Registrar-General** means the Registrar-General appointed under section 79(1) of this Act and includes every Deputy Registrar-General
-  - **Service marriage** has the meaning given to it by section 2 of the Marriage Act 1955
+  - **Registrar** means a person for the time being holding office under section 81(1); and includes the Registrar-General and every Deputy Registrar-General
+  - **Registrar-General** means the Registrar-General appointed under section 79(1) and includes every Deputy Registrar-General
+  - **service marriage** has the meaning given to it by section 2 of the Marriage Act 1955
   - **source document** means a document (other than a register) that—
     (a) contains information recorded under this Act or a former Act; and
     (b) is accessible by the Registrar-General or a Registrar; and
@@ -92,12 +93,12 @@ In this Act, unless the context otherwise requires,—
       (ii) a person (other than the Registrar-General or a Registrar) who has the function of managing, on behalf of the Registrar-General, information recorded under this Act or a former Act; or
       (iii) the Chief Archivist
   - **standard form** means the relevant form issued by the Registrar-General under section 87B
-  - **Still-birth** means the issue from its mother of a still-born child
-  - **Still-born child** means a dead foetus that—
-    (a) Weighed 400g or more when it issued from its mother; or
-    (b) Issued from its mother after the 20th week of pregnancy:
-  - **Unavailable** means dead, unknown, missing, of unsound mind, or unable to act by virtue of a medical condition
-  - **Working day** , in relation to the office of the Registrar-General or a Registrar, means any day of the week on which the office is open for business; but does not include a Saturday.
+  - **still-birth** means the issue from its mother of a still-born child
+  - **still-born child** means a dead foetus that—
+    (a) weighed 400 g or more when it issued from its mother; or
+    (b) issued from its mother after the 20th week of pregnancy
+  - **unavailable** means dead, unknown, missing, of unsound mind, or unable to act by virtue of a medical condition
+  - **working day** , in relation to the office of the Registrar-General or a Registrar, means any day of the week on which the office is open for business; but does not include a Saturday.
 
 ### 3 Act binds the Crown
 This Act binds the Crown.
@@ -109,7 +110,7 @@ This Act binds the Crown.
 ## Part 2 — Births
 
 ### 5 Births in New Zealand to be notified and registered
-Every birth in New Zealand shall be notified and registered in accordance with this Part of this Act.
+Every birth in New Zealand shall be notified and registered in accordance with this Part.
 
 ### 5A Preliminary notice of birth
 (1) A preliminary notice must be given in accordance with this section for each birth in New Zealand.
@@ -122,16 +123,16 @@ Every birth in New Zealand shall be notified and registered in accordance with t
 (5) The Registrar-General must notify the Director-General of Health of all still-births for which a preliminary notice has been given.
 
 ### 6 Births outside New Zealand
-Except as provided in sections 7(2) and 8 and Part 4 of this Act, no birth outside New Zealand shall be registered.
+Except as provided in sections 7(2) and 8 and Part 4, no birth outside New Zealand shall be registered.
 
 ### 7 Foundlings
 (1) A person who—shall as soon as is practicable tell a Police employee, who shall notify the Registrar-General.
-  (a) Believes that a child in the person's charge is recently born and was found abandoned in New Zealand; and
-  (b) Is not satisfied that a Registrar has been notified of the child's birth—
-(2) As far as it is practicable to do so, the Registrar-General shall register the birth of all children of whose finding the Registrar-General is notified under subsection (1) of this section.
+  (a) believes that a child in the person's charge is recently born and was found abandoned in New Zealand; and
+  (b) is not satisfied that a Registrar has been notified of the child's birth—
+(2) As far as it is practicable to do so, the Registrar-General shall register the birth of all children of whose finding the Registrar-General is notified under subsection (1).
 
 ### 8 Births on New Zealand aircraft or ships
-Any person may notify to the Registrar-General, and the Registrar-General may cause to be registered, as if it had occurred in New Zealand, any birth that occurred outside New Zealand on an aircraft registered in New Zealand under the Civil Aviation Regulations 1953 or a New Zealand ship (within the meaning of the Maritime Transport Act 1994) or an aircraft or ship of the armed forces (within the meaning of the Armed Forces Discipline Act 1971).
+Any person may notify to the Registrar-General, and the Registrar-General may cause to be registered, as if it had occurred in New Zealand, any birth that occurred outside New Zealand on an aircraft registered in New Zealand under the Civil Aviation Act 1990 or a New Zealand ship (within the meaning of the Maritime Transport Act 1994) or an aircraft or ship of the armed forces (within the meaning of the Armed Forces Discipline Act 1971).
 
 ### 9 Parents primarily responsible for notifying birth
 (1) Both parents of a child born in New Zealand must, as soon as is reasonably practicable after the birth,—
@@ -140,6 +141,9 @@ Any person may notify to the Registrar-General, and the Registrar-General may ca
 (2) However, a Registrar may accept the form signed by only 1 parent if he or she is satisfied that—
   (a) the child has only 1 parent at law; or
   (b) the other parent is unavailable; or
+  (ba) it is not reasonably practicable to obtain the other parent's signature because—
+    (i) he or she is overseas; and
+    (ii) he or she cannot be contacted within a period of time that is reasonable in the circumstances; or
   (c) requiring the other parent to sign the form would cause unwarranted distress to either of the parents.
 (3) A person who is not a child's parent must not notify a Registrar of the child's birth and is not capable of doing so except as provided in sections 7, 8, and 10.
 (4) For the purposes of this section, a child has 1 parent at law if—
@@ -152,37 +156,37 @@ A guardian of a child other than a parent, or a person authorised by the Registr
   (b) the child's parent has failed or refused to do so (if section 9(2) applies).
 
 ### 11 Manner of notification of birth
-(1) Subject to subsection (3) of this section, a person notifying a Registrar of a birth shall do so by completing and signing the standard form and giving, sending, or posting it to the Registrar.
-(2) Subject to subsection (3) of this section, a person who completes and signs the standard form and posts it to the Registrar shall be deemed to do so at the time the form would be received by the Registrar in the normal course of post.
-(3) Where—a Registrar may authorise the person, or any other person required by section 9(1) of this Act or authorised by section 10 of this Act to notify a Registrar of the birth, to do so as if the form had never been sent or posted; and in that case the person concerned may do so.
-  (a) Any person has notified a Registrar of a birth by completing and signing the standard form and sending or posting it to a Registrar; but
-  (b) It has not arrived or has been lost or destroyed,—
+(1) Subject to subsection (3), a person notifying a Registrar of a birth shall do so by completing and signing the standard form and giving, sending, or posting it to the Registrar.
+(2) Subject to subsection (3), a person who completes and signs the standard form and posts it to the Registrar shall be deemed to do so at the time the form would be received by the Registrar in the normal course of post.
+(3) Where—a Registrar may authorise the person, or any other person required by section 9(1) or authorised by section 10 to notify a Registrar of the birth, to do so as if the form had never been sent or posted; and in that case the person concerned may do so.
+  (a) any person has notified a Registrar of a birth by completing and signing the standard form and sending or posting it to a Registrar; but
+  (b) it has not arrived or has been lost or destroyed,—
 
 ### 12 Registration of births
 (1) Unless authorised by the Registrar-General to register births, a Registrar who is notified of a birth in New Zealand shall, to the extent that the information given is information required by the standard form (and subject to section 12A), send it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs).
-(2) Subject to sections 12A, 14 to 16 and 82 of this Act,—
-  (a) A Registrar (being a Registrar authorised by the Registrar-General to register births) who—shall, to the extent that the information given is information required by the standard form, register it; and
-    (i) Is notified of a birth in New Zealand; or
-    (ii) Has been sent birth information under subsection (1) of this section—
-  (b) If sent birth information under subsection (1) of this section, the Registrar-General shall, to the extent that it is information required by the standard form, register it.
+(2) Subject to sections 12A 14 to 16 and 82,—
+  (a) a Registrar (being a Registrar authorised by the Registrar-General to register births) who—shall, to the extent that the information given is information required by the standard form, register it; and
+    (i) is notified of a birth in New Zealand; or
+    (ii) has been sent birth information under subsection (1)—
+  (b) if sent birth information under subsection (1), the Registrar-General shall, to the extent that it is information required by the standard form, register it.
 (3) Every still-birth shall so be registered that the fact that the birth is a still-birth can clearly be ascertained.
 
 ### 12A Record of citizenship
-(1) If a Registrar is satisfied that a person born on or after 1 January 2006 is a New Zealand citizen by birth in terms of section 6 of the Citizenship Act 1977, the Registrar must record the person's citizenship status on the birth record.
-(2) If the chief executive or other appropriate officer of the Department for the time being responsible for the administration of the Citizenship Act 1977 informs a Registrar that a person born on or after 1 January 2006 is a New Zealand citizen by birth, the Registrar must record that citizenship status on the birth record.
+(1) If a Registrar is satisfied that a person born on or after 1 January 2006 is a New Zealand citizen by birth in terms of section 6 of the Citizenship Act 1977, the Registrar must record the person's citizenship status as part of the child's birth information.
+(2) If the chief executive or other appropriate officer of the department for the time being responsible for the administration of the Citizenship Act 1977 informs a Registrar that a person born on or after 1 January 2006 is a New Zealand citizen by birth, the Registrar must record that citizenship status as part of the child's birth information.
 (3) In deciding for the purposes of subsection (1) whether or not a person is a New Zealand citizen by birth, a Registrar must have regard to the following information, if available:
   (a) information provided by any guardian or parent of the person:
-  (b) any birth register information about the parents or parent of the person:
+  (b) any birth information registered under this Act or a former Act about the parents or parent of the person:
   (c) information about the citizenship status or immigration status of the person or the parents or parent of the person:
   (d) whether or not the parents or parent have immunity from jurisdiction under the Diplomatic Privileges and Immunities Act 1968 or the Consular Privileges and Immunities Act 1971, or are enemy aliens.
 
 ### 13 Registration of certain still-births
-(1) This section applies to every still-birth that occurred after the 24th day of July 1991 and before the commencement of this Act.
-(2) Subject to subsection (3) of this section, a still-birth to which this section applies is registrable to the same extent, and in the same manner, as if it had occurred after the commencement of this Act.
-(3) Nothing in subsection (2) of this section requires any person to notify a registrar of a still-birth to which this section applies.
+(1) This section applies to every still-birth that occurred after 24 July 1991 and before the commencement of this Act.
+(2) Subject to subsection (3), a still-birth to which this section applies is registrable to the same extent, and in the same manner, as if it had occurred after the commencement of this Act.
+(3) Nothing in subsection (2) requires any person to notify a Registrar of a still-birth to which this section applies.
 
 ### 14 Maori custom marriages
-(1) No Registrar shall include in the registered birth information any information relating to a Maori custom marriage entered into after the 31st day of March 1952.
+(1) No Registrar shall include in the registered birth information any information relating to a Maori custom marriage entered into after 31 March 1952.
 (2) All registered information relating to a Maori custom marriage shall so be recorded that the fact that the marriage is a Maori custom marriage can clearly be ascertained.
 
 ### 15 Registration of parents' details
@@ -206,9 +210,9 @@ A guardian of a child other than a parent, or a person authorised by the Registr
   (b) decline to register as part of a child's birth information any information indicating or purporting to indicate that a person is the child's parent, or decline to direct a Registrar to do so.
 (2) The person affected may, within 28 days after receiving written notice of the Registrar-General's decision, appeal against the decision to the Family Court nearest the Registrar-General's office.
 (3) The Family Court must, when considering an appeal,—
-  (a) give every person the Court thinks has an interest in the matter an opportunity to be heard; and
-  (b) receive any evidence the Court thinks fit.
-(4) The Court must then—
+  (a) give every person the court thinks has an interest in the matter an opportunity to be heard; and
+  (b) receive any evidence the court thinks fit.
+(4) The court must then—
   (a) either confirm the Registrar-General's decision or make a decision that it thinks fit; and
   (b) where necessary, direct the Registrar-General to include or delete the information concerned in or from the information recorded under this Act or a former Act.
 (5) This section does not apply in relation to a decision of the Registrar-General that gives effect to a declaration made by a Family Court or by the High Court or to a paternity order made by a Family Court.
@@ -218,57 +222,57 @@ No Registrar other than the Registrar-General shall register a birth notified mo
 
 ### 17 Parents who marry or enter into civil union after birth of child may have particulars of marriage or civil union recorded
 (1) If satisfied that—the Registrar-General shall do so.
-  (a) The parents of any person married, or entered into a civil union with, each other after the person's birth; and
-  (b) Either—
-    (i) The parents have jointly requested the Registrar-General to record information relating to their marriage or civil union as part of the information relating to the person's birth recorded under this Act or a former Act; or
-    (ii) One parent is unavailable and the other has so requested,—
+  (a) the parents of any person married, or entered into a civil union with, each other after the person's birth; and
+  (b) either—
+    (i) the parents have jointly requested the Registrar-General to record information relating to their marriage or civil union as part of the information relating to the person's birth recorded under this Act or a former Act; or
+    (ii) one parent is unavailable and the other has so requested,—
 (2) Any person affected by a decision of the Registrar-General to decline to record information relating to a marriage or civil union between the parents of a person that took place after the person's birth as part of the information relating to the birth recorded under this Act or a former Act may, within 28 days after receiving written notice that the Registrar-General has so decided, appeal against the decision to the Family Court nearest the Registrar-General's office; and the Family Court shall, after—either confirm the Registrar-General's decision or make such decision as the Family Court thinks fit and, where necessary, direct the Registrar-General to cause to be included in the information recorded under this Act or a former Act in respect of the birth concerned the information in dispute.
-  (a) Giving every person the Court thinks has an interest in the matter an opportunity to be heard; and
-  (b) Receiving any evidence the Court thinks fit,—
+  (a) giving every person the court thinks has an interest in the matter an opportunity to be heard; and
+  (b) receiving any evidence the court thinks fit,—
 (3) For the purposes of this section, the only information recorded under this Act or a former Act in respect of an adopted person's birth is the information originally recorded.
 
 ## Part 3 — Names
 
 ### 18 Acceptance of names
 (1) A Registrar shall not include any name or names in the information recorded under this Act or a former Act relating to a person's birth, or omit or amend any name or names so included, unless—
-  (a) The effect is that there are so included—
-    (i) One name designated to be treated as the person's surname; and
-    (ii) One or more other names; or
-  (b) The religious or philosophical beliefs, or cultural traditions, of—require the person to bear only one name; and the effect is that there is so included only one name.
-    (i) The person, if the person has attained the age of 18 years or earlier married or entered into a civil union; or
-    (ii) A parent (living or dead) or living guardian of the person, if the person has not attained the age of 18 years or earlier married or entered into a civil union—
-(2) Subject to subsections (1) and (3) of this section, a Registrar shall include in the information recorded under this Act or a former Act relating to a person's birth any name or combination of names specified unless, in the Registrar's opinion, it may be undesirable in the public interest for the person to bear it.
+  (a) the effect is that there are so included—
+    (i) 1 name designated to be treated as the person's surname; and
+    (ii) 1 or more other names; or
+  (b) the religious or philosophical beliefs, or cultural traditions, of—require the person to bear only 1 name; and the effect is that there is so included only 1 name.
+    (i) the person, if the person has attained the age of 18 years or earlier married or entered into a civil union; or
+    (ii) a parent (living or dead) or living guardian of the person, if the person has not attained the age of 18 years or earlier married or entered into a civil union—
+(2) Subject to subsections (1) and (3), a Registrar shall include in the information recorded under this Act or a former Act relating to a person's birth any name or combination of names specified unless, in the Registrar's opinion, it may be undesirable in the public interest for the person to bear it.
 (3) If, in the opinion of a Registrar (other than the Registrar-General) who would otherwise include any name or combination of names in the information recorded under this Act or a former Act relating to a person's birth, it may be undesirable in the public interest for the person to bear it, the Registrar shall notify the Registrar-General of the name or combination of names concerned, and shall not include it unless directed by the Registrar-General to do so.
 (4) The Registrar-General shall include a name or combination of names in the information recorded under this Act or a former Act relating to a person's birth (or direct a Registrar to do so) unless, in the Registrar-General's opinion, it is undesirable in the public interest for the person to bear it.
 (5) Any person affected by a decision of the Registrar-General to decline to include any name or combination of names in the information recorded under this Act or a former Act relating to a birth, or to decline to direct a Registrar to do so, may, within 28 days of receiving written notice that the Registrar-General has so declined, appeal against the decision to the Family Court nearest the Registrar-General's office.
-(6) On an appeal under subsection (5) of this section, the Family Court shall, unless satisfied that it is undesirable in the public interest for the person concerned to bear the name or combination of names concerned, direct the Registrar concerned to include the name or combination of names in the information recorded under this Act or a former Act in respect of the person's birth.
-(7) In determining an appeal under subsection (5) of this section, the Family Court—
-  (a) Shall give every person the Court thinks has an interest in the matter an opportunity to be heard; and
-  (b) May receive any evidence the Court thinks fit.
+(6) On an appeal under subsection (5), the Family Court shall, unless satisfied that it is undesirable in the public interest for the person concerned to bear the name or combination of names concerned, direct the Registrar concerned to include the name or combination of names in the information recorded under this Act or a former Act in respect of the person's birth.
+(7) In determining an appeal under subsection (5), the Family Court—
+  (a) shall give every person the court thinks has an interest in the matter an opportunity to be heard; and
+  (b) may receive any evidence the court thinks fit.
 (8) For the purposes of this section, it is undesirable in the public interest for a person to bear a name or combination of names if, and only if,—
-  (a) It might cause offence to a reasonable person; or
-  (b) It is unreasonably long; or
-  (c) Without adequate justification, it is, includes, or resembles, an official title or rank.
+  (a) it might cause offence to a reasonable person; or
+  (b) it is unreasonably long; or
+  (c) without adequate justification, it is, includes, or resembles, an official title or rank.
 
 ### 19 Names to be specified when birth notified
 (1) The person or persons who notify a Registrar of the birth of a child under section 9 or 10 must also specify for the child—
   (a) 1 name designated to be treated as the child's surname and 1 or more other names; or
   (b) if the religious or philosophical beliefs, or cultural traditions, of a parent (whether living or dead) or living guardian of the child require the child to bear only 1 name, 1 name.
-(2) Nothing in subsection (1) of this section requires any name other than a name designated to be treated as the child's surname to be specified in the notification of a still-birth.
+(2) Nothing in subsection (1) requires any name other than a name designated to be treated as the child's surname to be specified in the notification of a still-birth.
 (3) Where—the question of whether or not subsection (1) has been complied with must be determined as if the name or names whose inclusion has been declined had not been specified.
-  (a) Either—
-    (i) The Registrar-General has declined to include any name or names in the information recorded under this Act relating to a birth; or
-    (ii) A Registrar has declined to include any name or names in the information recorded under this Act relating to a birth, and the Registrar-General has declined to direct the Registrar to do so; and
-  (b) A Family Court has not determined that the name or names whose inclusion has been declined should be included,—
+  (a) either—
+    (i) the Registrar-General has declined to include any name or names in the information recorded under this Act relating to a birth; or
+    (ii) a Registrar has declined to include any name or names in the information recorded under this Act relating to a birth, and the Registrar-General has declined to direct the Registrar to do so; and
+  (b) a Family Court has not determined that the name or names whose inclusion has been declined should be included,—
 
 ### 20 Guardians may change child's names within 2 years of birth
-(1) Subject to subsection (2) of this section, within 2 years of a child's birth—may, by notice in writing to a Registrar, request the Registrar to omit, amend, or replace any name specified for the child under section 19 of this Act or under a former Act, or specify for the child a further name or names; and in that case, subject to subsection (2) of this section and section 18 of this Act, the Registrar shall, on payment of the prescribed fee, include the child's new names in the information relating to the birth recorded under the Act concerned.
-  (a) The child's guardians jointly; or
-  (b) If any guardians are unavailable, the other or others of them; or
-  (c) If, on the application of one guardian, the Family Court has consented to a change in the child's name, that guardian,—
-(2) A Registrar shall not, under subsection (1) of this section, include any new names in the registration of a child's birth—
-  (a) If the request concerned was made pursuant to an order of the Family Court, and is not in accordance with any conditions subject to which the order was made; or
-  (b) More than once in respect of the same child, unless satisfied that there are special reasons making it appropriate to do so.
+(1) Subject to subsection (2), within 2 years of a child's birth—may, by notice in writing to a Registrar, request the Registrar to omit, amend, or replace any name specified for the child under section 19 or under a former Act, or specify for the child a further name or names; and in that case, subject to subsection (2) of this section and section 18, the Registrar shall, on payment of the prescribed fee, include the child's new names in the information relating to the birth recorded under the Act concerned.
+  (a) the child's guardians jointly; or
+  (b) if any guardians are unavailable, the other or others of them; or
+  (c) if, on the application of one guardian, the Family Court has consented to a change in the child's name, that guardian,—
+(2) A Registrar shall not, under subsection (1), include any new names in the registration of a child's birth—
+  (a) if the request concerned was made pursuant to an order of the Family Court, and is not in accordance with any conditions subject to which the order was made; or
+  (b) more than once in respect of the same child, unless satisfied that there are special reasons making it appropriate to do so.
 
 ### 21 Definitions for sections 21A and 21B
 In sections 21A and 21B,—
@@ -289,7 +293,7 @@ In sections 21A and 21B,—
 (2) An application for registration of a name change is made by paying the prescribed fee (if any) and depositing with the Registrar-General—
   (a) a statutory declaration made, in accordance with subsection (3), by an eligible person or the guardian of an eligible person on a form provided by the Registrar-General for the purpose (accompanied by the eligible person’s written consent if the eligible person is 16 years of age or older and the application was made by the eligible person’s guardian); or
   (b) a deed poll executed before 1 September 1995, evidencing any change in the eligible person’s names; or
-  (c) a copy of a deed poll executed and filed in an office of the High Court before 1 September 1995 and certified by a Registrar of the Court in which it was filed.
+  (c) a copy of a deed poll executed and filed in an office of the High Court before 1 September 1995 and certified by a Registrar of the court in which it was filed.
 (3) The eligible person or the guardian of the eligible person must declare, in the statutory declaration provided under subsection (2)(a),—
   (a) an intention to abandon (and to adopt some other names instead of) the names most recently included in—
     (i) the eligible person’s birth information or name change information; or
@@ -310,28 +314,28 @@ In sections 21A and 21B,—
 (3) However, the Registrar-General must not register a name change if it is an abandonment of a surname assumed on marriage or entry into a civil union (not being the surname most recently included in the person’s birth information or name change information) and a reversion to the most recently included surname.
 
 ### 22 Registrar-General to give effect to decisions under Care of Children Act 2004
-Subject to section 18 of this Act, but notwithstanding any other provision of this Part of this Act, an order under section 44(3) or section 46(1) of the Care of Children Act 2004 requiring the Registrar-General to include any names in the information recorded under this Act or a former Act relating to a child's birth shall have effect according to its tenor.
+Subject to section 18, but notwithstanding any other provision of this Part, an order under section 44(3) or section 46(1) of the Care of Children Act 2004 requiring the Registrar-General to include any names in the information recorded under this Act or a former Act relating to a child's birth shall have effect according to its tenor.
 
 ## Part 4 — Adoptions
 
 ### 23 Registrar-General to be notified of New Zealand adoptions
-Forthwith after the making of an adoption order under the Adoption Act 1955, the Court concerned or its Registrar shall give the Registrar-General notice of the following matters (so far as they are known to the Court):
-  (a) The names (if any) of the adopted person immediately before the making of the order:
-  (b) The names conferred on the person by the order:
-  (c) The names of the persons who were the person's parents immediately before the making of the order:
-  (d) Whether or not the adoptive parent or parents want the words adoptive parent or adoptive parents to appear on the face of birth certificates relating to the person:
-  (e) The date of the order:
-  (f) The name of the Court:
-  (g) Those matters required by the standard form for the purposes of section 11 of this Act (which relates to the notification of births) that would have been appropriate if the adopted person had been born to the adoptive parent or parents:
-  (h) Any other matters prescribed.
+Forthwith after the making of an adoption order under the Adoption Act 1955, the court concerned or its Registrar shall give the Registrar-General notice of the following matters (so far as they are known to the court):
+  (a) the names (if any) of the adopted person immediately before the making of the order:
+  (b) the names conferred on the person by the order:
+  (c) the names of the persons who were the person's parents immediately before the making of the order:
+  (d) whether or not the adoptive parent or parents want the words adoptive parent or adoptive parents to appear on the face of birth certificates relating to the person:
+  (e) the date of the order:
+  (f) the name of the court:
+  (g) those matters required by the standard form for the purposes of section 11 (which relates to the notification of births) that would have been appropriate if the adopted person had been born to the adoptive parent or parents:
+  (h) any other matters prescribed.
 
 ### 24 Registration of New Zealand adoptions
 (1) On receiving—a person whose birth has been registered, the Registrar-General shall forthwith cause the information it contains to be included in the registration.
-  (a) Notice under section 23 of this Act or section 21 of the Births and Deaths Registration Act 1951 relating to the adoption of; or
-  (b) Notice of the adoption under a former Adoption Act of—
+  (a) notice under section 23 of this Act or section 21 of the Births and Deaths Registration Act 1951 relating to the adoption of; or
+  (b) notice of the adoption under a former Adoption Act of—
 (2) On receiving—a person whose birth has not been registered, the Registrar-General shall, if satisfied of the correctness or likely correctness of the information relating to the date and place of the person's birth, forthwith record the information it contains as if the person's birth is registered and the information is included in the registration.
-  (a) Notice under section 23 of this Act or section 21 of the Births and Deaths Registration Act 1951 relating to the adoption of; or
-  (b) Notice of the adoption under a former Adoption Act of—
+  (a) notice under section 23 of this Act or section 21 of the Births and Deaths Registration Act 1951 relating to the adoption of; or
+  (b) notice of the adoption under a former Adoption Act of—
 (3) The Registrar-General must include additional information described in subsection (5) in the birth information of an adopted person if an application—
   (a) is made under subsection (4)(a); or
   (b) is made under subsection (4)(b) and is accompanied by the adopted person's written consent if he or she is 16 or 17 years of age.
@@ -341,23 +345,23 @@ Forthwith after the making of an adoption order under the Adoption Act 1955, the
     (i) the adoptive parents (if there are 2 adoptive parents and they are both alive); or
     (ii) the adoptive parent (if there is only 1 adoptive parent or 1 adoptive parent alive).
 (5) The additional information is—
-  (a) notice of whether the words ‘adoptive parent’ or ‘adoptive parents' should appear on birth certificates relating to the adopted person; and
+  (a) notice of whether the words adoptive parent or adoptive parents should appear on birth certificates relating to the adopted person; and
   (b) other information relating to the birth, subject to section 83.
 
 ### 25 Registration of overseas adoptions
 If the Registrar-General—the Registrar-General may direct that section 24 of this Act should apply to the adoption; and in that case that section and section 27 of this Act, with any necessary modifications, shall apply as if the adoption had been effected by an adoption order under the Adoption Act 1955.
-  (a) Is satisfied that section 17(1) of the Adoption Act 1955 or section 11 of the Adoption (Intercountry) Act 1997 applies to the adoption outside New Zealand of a person whose birth is registered; and
-  (b) Has received any particulars the Registrar-General requires for the purpose, and is satisfied that they are or are likely to be correct,—
+  (a) is satisfied that section 17(1) of the Adoption Act 1955 or section 11 of the Adoption (Intercountry) Act 1997 applies to the adoption outside New Zealand of a person whose birth is registered; and
+  (b) has received any particulars the Registrar-General requires for the purpose, and is satisfied that they are or are likely to be correct,—
 
 ### 26 Registrar-General may supply adoption information to registration authorities overseas
 If satisfied that—the Registrar-General may supply to the authority any information relating to the adoption.
-  (a) An authority constituted in a state outside New Zealand has the function of recording information relating to births within the state; and
-  (b) A person who has been adopted in New Zealand was born in the state; and
-  (c) The authority has so requested,—
+  (a) an authority constituted in a State outside New Zealand has the function of recording information relating to births within the State; and
+  (b) a person who has been adopted in New Zealand was born in the State; and
+  (c) the authority has so requested,—
 
 ### 27 Variation or discharge of adoption order
-(1) Subject to subsection (2) of this section, forthwith after the variation or discharge of an adoption order under the Adoption Act 1955, the Registrar of the Court concerned shall send a copy of the order to the Registrar-General, who shall cause to be included in the registration of the birth of the person to whom the adoption order related particulars of the variation or discharge including (where appropriate) a name or names for the person.
-(2) The Registrar-General may, if it seems expedient to do so, treat any order varying any adoption order as if it is a further adoption order; and in that case section 24 of this Act shall apply accordingly.
+(1) Subject to subsection (2), forthwith after the variation or discharge of an adoption order under the Adoption Act 1955, the Registrar of the court concerned shall send a copy of the order to the Registrar-General, who shall cause to be included in the registration of the birth of the person to whom the adoption order related particulars of the variation or discharge including (where appropriate) a name or names for the person.
+(2) The Registrar-General may, if it seems expedient to do so, treat any order varying any adoption order as if it is a further adoption order; and in that case section 24 shall apply accordingly.
 
 ## Part 5 — Declarations of Family Court as to sex
 
@@ -381,66 +385,66 @@ In sections 28 and 29,—
       (ii) has never been in a marriage, in a civil union, or in a de facto relationship.
 
 ### 28 Declarations of Family Court as to sex to be shown on birth certificates issued for adults
-(1) Subject to subsection (3) of this section, a Family Court may, on the application of an eligible adult (the applicant), declare that it is appropriate that birth certificates issued in respect of the applicant should contain the information that the applicant is a person of a sex specified in the application (in subsection (3) of this section referred to as the nominated sex).
-(2) The Court must cause a copy of the application to be served on—
+(1) Subject to subsection (3), a Family Court may, on the application of an eligible adult (the applicant), declare that it is appropriate that birth certificates issued in respect of the applicant should contain the information that the applicant is a person of a sex specified in the application (in subsection (3) referred to as the nominated sex).
+(2) The court must cause a copy of the application to be served on—
   (a) the Registrar-General, if the applicant's birth is registered or is registrable under this Act but is not yet registered; and
-  (b) any other person who, in the Court's opinion, is interested in it or might be affected by the granting of the declaration.
-(3) The Court shall issue the declaration if, and only if,—
-  (a) It is satisfied either that the applicant's birth is registrable under this Act but is not yet registered, or that there is included in the record of the applicant's birth—
-    (i) Information that the applicant is a person of the sex opposite to the nominated sex; or
-    (ii) Information that the applicant is a person of indeterminate sex; or
-    (iii) No information at all as to the applicant's sex; and
-  (b) It is satisfied that the applicant is not a person of the nominated sex, but—
-    (i) Has assumed and intends to maintain, or has always had and intends to maintain, the gender identity of a person of the nominated sex; and
-    (ii) Wishes the nominated sex to appear on birth certificates issued in respect of the applicant; and
-  (c) Either—
-    (i) It is satisfied, on the basis of expert medical evidence, that the applicant—
-      (A) Has assumed (or has always had) the gender identity of a person of the nominated sex; and
-      (B) Has undergone such medical treatment as is usually regarded by medical experts as desirable to enable persons of the genetic and physical conformation of the applicant at birth to acquire a physical conformation that accords with the gender identity of a person of the nominated sex; and
-      (C) Will, as a result of the medical treatment undertaken, maintain a gender identity of a person of the nominated sex; or
-    (ii) It is satisfied that the applicant's sexual assignment or reassignment as a person of the nominated sex has been recorded or recognised in accordance with the laws of a state for the time being recognised for the purposes of this section by the Minister by notice in the Gazette.
+  (b) any other person who, in the court's opinion, is interested in it or might be affected by the granting of the declaration.
+(3) The court shall issue the declaration if, and only if,—
+  (a) it is satisfied either that the applicant's birth is registrable under this Act but is not yet registered, or that there is included in the record of the applicant's birth—
+    (i) information that the applicant is a person of the sex opposite to the nominated sex; or
+    (ii) information that the applicant is a person of indeterminate sex; or
+    (iii) no information at all as to the applicant's sex; and
+  (b) it is satisfied that the applicant is not a person of the nominated sex, but—
+    (i) has assumed and intends to maintain, or has always had and intends to maintain, the gender identity of a person of the nominated sex; and
+    (ii) wishes the nominated sex to appear on birth certificates issued in respect of the applicant; and
+  (c) either—
+    (i) it is satisfied, on the basis of expert medical evidence, that the applicant—
+      (A) has assumed (or has always had) the gender identity of a person of the nominated sex; and
+      (B) has undergone such medical treatment as is usually regarded by medical experts as desirable to enable persons of the genetic and physical conformation of the applicant at birth to acquire a physical conformation that accords with the gender identity of a person of the nominated sex; and
+      (C) will, as a result of the medical treatment undertaken, maintain a gender identity of a person of the nominated sex; or
+    (ii) it is satisfied that the applicant's sexual assignment or reassignment as a person of the nominated sex has been recorded or recognised in accordance with the laws of a State for the time being recognised for the purposes of this section by the Minister by notice in the Gazette.
 
 ### 29 Declarations of Family Court as to appropriate gender identity for children
-(1) Subject to subsections (3) and (4) of this section, a Family Court may, on the application of the guardian of an eligible child (the child), declare—
-  (a) That it is in the child's best interests to be brought up as a person of a sex specified in the application (in subsection (3) of this section referred to as the nominated sex); and
-  (b) That any birth certificate issued in respect of the child should contain the information that the child is a person of the sex specified in the application.
-(2) The Court must cause a copy of the application to be served on—
+(1) Subject to subsections (3) and (4), a Family Court may, on the application of the guardian of an eligible child (the child), declare—
+  (a) that it is in the child's best interests to be brought up as a person of a sex specified in the application (in subsection (3) referred to as the nominated sex); and
+  (b) that any birth certificate issued in respect of the child should contain the information that the child is a person of the sex specified in the application.
+(2) The court must cause a copy of the application to be served on—
   (a) the Registrar-General, if the child's birth is registered or is registrable under this Act but is not yet registered; and
-  (b) any other person who, in the Court's opinion, is interested in it or might be affected by the granting of the declaration.
-(3) The Court shall issue the declaration if, and only if,—
-  (a) It is satisfied either that the child's birth is registrable under this Act but is not yet registered, or that there is included in the record of the child's birth—
-    (i) Information that the child is a person of the sex opposite to the nominated sex; or
-    (ii) Information that the child is a person of indeterminate sex; or
-    (iii) No information at all as to the child's sex; and
-  (b) It is satisfied that the child is not a person of the nominated sex, but—
-    (i) The guardian intends to bring the child up as a person of the nominated sex; and
-    (ii) Wishes the nominated sex to appear on birth certificates issued in respect of the applicant; and
-  (c) It is satisfied, on the basis of expert medical evidence, that the child—medical treatment reasonably necessary to enable the child to assume and maintain the gender identity of a person of the nominated sex; and
-    (i) Has already undergone; or
-    (ii) If the Court grants the declaration will undergo,—
-  (d) It is satisfied, on the basis of expert medical evidence, that the child's physical conformation and gonadal and genital development are such that it is more likely that the child will be able (after undergoing any of the medical treatment not yet undergone) to assume the gender identity of a person of the nominated sex than it is that the child will be able to assume the gender identity of a person of the opposite sex (with or without medical intervention).
-(4) The declaration shall specify (with as much particularity as is possible in all the circumstances) all medical treatment (if any) that the child has not yet undergone that in the Court's opinion (reached in the light of the expert medical evidence) is reasonably necessary to enable the child's successful assumption and maintenance of the gender identity of a person of the nominated sex.
+  (b) any other person who, in the court's opinion, is interested in it or might be affected by the granting of the declaration.
+(3) The court shall issue the declaration if, and only if,—
+  (a) it is satisfied either that the child's birth is registrable under this Act but is not yet registered, or that there is included in the record of the child's birth—
+    (i) information that the child is a person of the sex opposite to the nominated sex; or
+    (ii) information that the child is a person of indeterminate sex; or
+    (iii) no information at all as to the child's sex; and
+  (b) it is satisfied that the child is not a person of the nominated sex, but—
+    (i) the guardian intends to bring the child up as a person of the nominated sex; and
+    (ii) wishes the nominated sex to appear on birth certificates issued in respect of the applicant; and
+  (c) it is satisfied, on the basis of expert medical evidence, that the child—medical treatment reasonably necessary to enable the child to assume and maintain the gender identity of a person of the nominated sex; and
+    (i) has already undergone; or
+    (ii) if the court grants the declaration will undergo,—
+  (d) it is satisfied, on the basis of expert medical evidence, that the child's physical conformation and gonadal and genital development are such that it is more likely that the child will be able (after undergoing any of the medical treatment not yet undergone) to assume the gender identity of a person of the nominated sex than it is that the child will be able to assume the gender identity of a person of the opposite sex (with or without medical intervention).
+(4) The declaration shall specify (with as much particularity as is possible in all the circumstances) all medical treatment (if any) that the child has not yet undergone that in the court's opinion (reached in the light of the expert medical evidence) is reasonably necessary to enable the child's successful assumption and maintenance of the gender identity of a person of the nominated sex.
 
 ### 30 Registrar-General may add information to registration of birth
-(1) Subject to subsection (2) of this section, where there is deposited with the Registrar-General a declaration issued under section 28 or section 29 of this Act that relates to a person whose birth has been registered or is later registered, the Registrar-General shall, on payment of the prescribed fee (if any), include in the information relating to the birth recorded under this Act or a former Act information that the person is a person of the nominated sex.
-(2) The Registrar-General shall not at any time act under subsection (1) of this section if the person concerned is then lawfully married to a person of the nominated sex.
+(1) Subject to subsection (2), where there is deposited with the Registrar-General a declaration issued under section 28 or section 29 that relates to a person whose birth has been registered or is later registered, the Registrar-General shall, on payment of the prescribed fee (if any), include in the information relating to the birth recorded under this Act or a former Act information that the person is a person of the nominated sex.
+(2) The Registrar-General shall not at any time act under subsection (1) if the person concerned is then lawfully married to a person of the nominated sex.
 
 ### 31 Registrar-General may delete information where procedures not completed
 If satisfied that—the Registrar-General may delete from the information recorded the information that was included.
-  (a) Information that a person is a person of a particular sex has under section 30 of this Act been included in the information relating to the person's birth recorded under this Act or a former Act; and
-  (b) The information was included after the deposit with the Registrar-General of a declaration issued under section 29 of this Act; and
-  (c) The declaration of the Family Court included with the documents specified medical treatment that was, in the Court's opinion, reasonably necessary to enable the person's successful assumption and maintenance of the gender identity of a person of that sex; and
-  (d) There has been produced to the Registrar-General expert medical evidence to the effect that the person has not undergone that medical treatment, or other medical treatment having the same effect,—
+  (a) information that a person is a person of a particular sex has under section 30 been included in the information relating to the person's birth recorded under this Act or a former Act; and
+  (b) the information was included after the deposit with the Registrar-General of a declaration issued under section 29; and
+  (c) the declaration of the Family Court included with the documents specified medical treatment that was, in the court's opinion, reasonably necessary to enable the person's successful assumption and maintenance of the gender identity of a person of that sex; and
+  (d) there has been produced to the Registrar-General expert medical evidence to the effect that the person has not undergone that medical treatment, or other medical treatment having the same effect,—
 
 ### 32 Other powers not affected
-Nothing in sections 28 to 31 of this Act limits or affects—
-  (a) The power of the Registrar-General under section 84(2) of this Act to substitute for—correct information relating to the person's sex; or
-    (i) Incorrect information relating to a person's sex; or
-    (ii) Information that a person is of indeterminate sex,—
-  (b) The power of the Registrar-General under section 84(3) of this Act to cause correct information relating to a person's sex to be recorded where previously no information at all as to the person's sex was recorded.
+Nothing in sections 28 to 31 limits or affects—
+  (a) the power of the Registrar-General under section 84(2) to substitute for—correct information relating to the person's sex; or
+    (i) incorrect information relating to a person's sex; or
+    (ii) information that a person is of indeterminate sex,—
+  (b) the power of the Registrar-General under section 84(3) to cause correct information relating to a person's sex to be recorded where previously no information at all as to the person's sex was recorded.
 
 ### 33 New information not to affect general law
-Notwithstanding this Part of this Act, the sex of every person shall continue to be determined by reference to the general law of New Zealand.
+Notwithstanding this Part, the sex of every person shall continue to be determined by reference to the general law of New Zealand.
 
 ## Part 6 — Deaths
 
@@ -449,10 +453,10 @@ Notwithstanding this Part of this Act, the sex of every person shall continue to
 (2) Subsection (1) does not apply to a death to which section 19(1) of the Visiting Forces Act 2004 applies.
 
 ### 35 Deaths outside New Zealand
-Except as provided in sections 36, 48(3), and 50 of this Act, no death outside New Zealand shall be registered under this Act.
+Except as provided in sections 36, 48(3), and 50, no death outside New Zealand shall be registered under this Act.
 
 ### 36 Deaths on New Zealand aircraft or ships
-Any person may notify the Registrar-General and the Registrar-General may cause to be registered, as if it had occurred in New Zealand, any death that occurred outside New Zealand on an aircraft registered in New Zealand under the Civil Aviation Regulations 1953 or a New Zealand ship (within the meaning of the Maritime Transport Act 1994) or an aircraft or ship of the armed forces (within the meaning of the Armed Forces Discipline Act 1971).
+Any person may notify the Registrar-General and the Registrar-General may cause to be registered, as if it had occurred in New Zealand, any death that occurred outside New Zealand on an aircraft registered in New Zealand under the Civil Aviation Act 1990 or a New Zealand ship (within the meaning of the Maritime Transport Act 1994) or an aircraft or ship of the armed forces (within the meaning of the Armed Forces Discipline Act 1971).
 
 ### 37 Medical certificates in relation to illness
 [Repealed]
@@ -470,130 +474,130 @@ Any person may notify the Registrar-General and the Registrar-General may cause 
 [Repealed]
 
 ### 42 Registrar to be notified when body disposed of or removed
-(1) A person who disposes of a body (not being the body of a person whose death has already been notified under subsection (2) of this section) shall forthwith notify a Registrar of the death of the person concerned.
+(1) A person who disposes of a body (not being the body of a person whose death has already been notified under subsection (2)) shall forthwith notify a Registrar of the death of the person concerned.
 (2) Before removing a body—the person proposing to remove it shall notify a Registrar of the death of the person concerned.
-  (a) From New Zealand for disposal outside New Zealand; or
-  (b) For anatomical examination under the Human Tissue Act 2008,—
+  (a) from New Zealand for disposal outside New Zealand; or
+  (b) for anatomical examination under the Human Tissue Act 2008,—
 
-### 43 Notification of death where Court gives leave to swear to death
+### 43 Notification of death where court gives leave to swear to death
 Where, in any proceedings under the Administration Act 1969, the High Court gives leave to swear to the death of any person,—
-  (a) The Registrar of the Court shall forthwith notify the Registrar-General; and
-  (b) The Registrar-General may authorise a Registrar to register the person's death; and
-  (c) In that case, so far as this Act may be complied with in the circumstances, the Registrar shall do so.
+  (a) the Registrar of the court shall forthwith notify the Registrar-General; and
+  (b) the Registrar-General may authorise a Registrar to register the person's death; and
+  (c) in that case, so far as this Act may be complied with in the circumstances, the Registrar shall do so.
 
 ### 44 Notification of death reported to coroner where body destroyed or irrecoverable
 A coroner who has established—shall notify a Registrar of the person's death.
-  (a) That a person (being a person whose body is destroyed, impossible or impracticable to recover, or lost) has died; and
-  (b) The person's identity,—
+  (a) that a person (being a person whose body is destroyed, impossible or impracticable to recover, or lost) has died; and
+  (b) the person's identity,—
 
 ### 45 Notification of death reported to coroner in other cases
 (1) The coroner to whom a death has been reported (or any coroner acting in that coroner's place) shall give a Registrar written notice of all particulars known to the coroner relating to the date, place, cause of the death, and identity of the person concerned,—
-  (a) Forthwith after issuing a coroner's authorisation in relation to the person's body, in the case of particulars then known to the coroner:
-  (b) Forthwith after acquiring them, in the case of particulars learned of later.
-(2) A coroner shall not include in any particulars given under subsection (1) of this section any matter that tends to incriminate any person of any offence.
+  (a) forthwith after issuing a coroner's authorisation in relation to the person's body, in the case of particulars then known to the coroner:
+  (b) forthwith after acquiring them, in the case of particulars learned of later.
+(2) A coroner shall not include in any particulars given under subsection (1) any matter that tends to incriminate any person of any offence.
 
 ### 46 Other person may be authorised to notify
 (1) Where—the other person may do so.
-  (a) A person required by any of sections 42 to 45 of this Act to notify a death has signed and given to some other person written authority to notify it; or
-  (b) Every person required by any of sections 42 to 45 of this Act to notify a death has failed or refused to do so, and the Registrar-General has authorised some other person to notify it,—
-(2) Except as provided in subsection (1) of this section, a person not required by any of sections 42 to 45 of this Act to notify a death shall not notify it, and is not capable of notifying it.
-(3) Notwithstanding subsection (1) of this section, where any person required by any of sections 42 to 45 of this Act to notify a death authorises any other person to notify it, the requirement is not discharged until the other person duly notifies it.
+  (a) a person required by any of sections 42 to 45 to notify a death has signed and given to some other person written authority to notify it; or
+  (b) every person required by any of sections 42 to 45 to notify a death has failed or refused to do so, and the Registrar-General has authorised some other person to notify it,—
+(2) Except as provided in subsection (1), a person not required by any of sections 42 to 45 to notify a death shall not notify it, and is not capable of notifying it.
+(3) Notwithstanding subsection (1), where any person required by any of sections 42 to 45 to notify a death authorises any other person to notify it, the requirement is not discharged until the other person duly notifies it.
 
 ### 47 Manner of notification of death
 (1) A person notifying a Registrar of a death shall do so—
-  (a) By completing and signing the standard form and giving, sending, or posting it to the Registrar; or
-  (b) By sending the prescribed information relating to the death to the Registrar by an electronic means approved by the Registrar-General.
-(2) Subject to subsection (3) of this section, a person who completes and signs the standard form and posts it to the Registrar shall be deemed to do so at the time the form would be received by the Registrar in the normal course of post.
-(3) Where—a Registrar may authorise the person, or any other person required by any of sections 42 to 45 of this Act to notify a Registrar of the death, to do so as if the form had never been sent or posted; and in that case the person concerned may do so.
-  (a) Any person has notified a Registrar of a death by completing and signing the standard form and sending or posting it to a Registrar; but
-  (b) It has not arrived or has been lost or destroyed,—
+  (a) by completing and signing the standard form and giving, sending, or posting it to the Registrar; or
+  (b) by sending the prescribed information relating to the death to the Registrar by an electronic means approved by the Registrar-General.
+(2) Subject to subsection (3), a person who completes and signs the standard form and posts it to the Registrar shall be deemed to do so at the time the form would be received by the Registrar in the normal course of post.
+(3) Where—a Registrar may authorise the person, or any other person required by any of sections 42 to 45 to notify a Registrar of the death, to do so as if the form had never been sent or posted; and in that case the person concerned may do so.
+  (a) any person has notified a Registrar of a death by completing and signing the standard form and sending or posting it to a Registrar; but
+  (b) it has not arrived or has been lost or destroyed,—
 
 ### 48 Time within which death to be notified
-(1) A person required by section 42(1) of this Act to notify a death shall do so within 3 working days after the disposal of the body concerned.
-(2) A coroner required by section 44 of this Act to notify a death shall do so within 3 working days of the completion of the inquiry concerned.
-(3) If the Registrar-General is satisfied that—the death may be notified at any time; but (without limiting the generality of section 82 of this Act) the Registrar-General may decline to allow information relating to it to be recorded if not satisfied that its registration is appropriate.
-  (a) Any death in New Zealand has not previously been registered; or
-  (b) The death of a person ordinarily resident in New Zealand occurred in a place outside New Zealand where—
-    (i) There was no system for recording information relating to deaths; or
-    (ii) The system for recording information relating to deaths did not apply to the person,—
+(1) A person required by section 42(1) to notify a death shall do so within 3 working days after the disposal of the body concerned.
+(2) A coroner required by section 44 to notify a death shall do so within 3 working days of the completion of the inquiry concerned.
+(3) If the Registrar-General is satisfied that—the death may be notified at any time; but (without limiting the generality of section 82) the Registrar-General may decline to allow information relating to it to be recorded if not satisfied that its registration is appropriate.
+  (a) any death in New Zealand has not previously been registered; or
+  (b) the death of a person ordinarily resident in New Zealand occurred in a place outside New Zealand where—
+    (i) there was no system for recording information relating to deaths; or
+    (ii) the system for recording information relating to deaths did not apply to the person,—
 
 ### 49 Registrars to register deaths
 (1) Unless authorised by the Registrar-General to register deaths, a Registrar who is notified of a death under this Act shall, to the extent that the information given is information required by the standard form, send it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs).
-(2) Subject to sections 48 and 82 of this Act,—
-  (a) A Registrar (being a Registrar authorised by the Registrar-General to register deaths) who—shall, to the extent that the information given is information required by the standard form, register it; and
-    (i) Is notified of a death under this Act; or
-    (ii) Has been sent death information under subsection (1) of this section,—
-  (b) If sent death information under subsection (1) of this section, the Registrar-General shall, to the extent that it is information required by the standard form, register it.
-(3) A Registrar who records information relating to a person's death (whether under subsection (1) of this section or under section 50 of this Act) at a time when the Registrar has access to a computer system on which information relating to births is recorded shall—
-  (a) Take all reasonable steps to find out if information relating to the person's birth is recorded on the system; and
-  (b) If so, ensure that there is recorded, with but not as part of that information, the fact that the person is dead.
+(2) Subject to sections 48 and 82,—
+  (a) a Registrar (being a Registrar authorised by the Registrar-General to register deaths) who—shall, to the extent that the information given is information required by the standard form, register it; and
+    (i) is notified of a death under this Act; or
+    (ii) has been sent death information under subsection (1),—
+  (b) if sent death information under subsection (1), the Registrar-General shall, to the extent that it is information required by the standard form, register it.
+(3) A Registrar who records information relating to a person's death (whether under subsection (1) of this section or under section 50) at a time when the Registrar has access to a computer system on which information relating to births is recorded shall—
+  (a) take all reasonable steps to find out if information relating to the person's birth is recorded on the system; and
+  (b) if so, ensure that there is recorded, with but not as part of that information, the fact that the person is dead.
 
 ### 50 Register of deaths of certain service personnel
-(1) The Registrar-General shall take all reasonable steps to ensure that there is and continues to be recorded in respect of each person who, in the Registrar-General's opinion, died outside New Zealand while a member of, and on service with,—all the information (so far as it is known) described in subsection (2) of this section.
-  (a) A naval, military, or air force raised in New Zealand, or in—
-    (i) Any other state that was a Commonwealth country when the force was raised; or
-    (ii) Any state for whose international relations New Zealand or another state that was a Commonwealth country when the force was raised was then responsible; or
-  (b) A United Nations activity within the meaning of sections 91 to 95 of the Policing Act 2008,—
+(1) The Registrar-General shall take all reasonable steps to ensure that there is and continues to be recorded in respect of each person who, in the Registrar-General's opinion, died outside New Zealand while a member of, and on service with,—all the information (so far as it is known) described in subsection (2).
+  (a) a naval, military, or air force raised in New Zealand, or in—
+    (i) any other State that was a Commonwealth country when the force was raised; or
+    (ii) any State for whose international relations New Zealand or another State that was a Commonwealth country when the force was raised was then responsible; or
+  (b) a United Nations activity within the meaning of sections 91 to 95 of the Policing Act 2008,—
 (2) The information to be recorded is:
-  (a) Name and sex:
-  (b) Force or unit served in, and rank or level of position, at the time of death, and official number:
-  (c) Last occupation and usual place of abode before departure from New Zealand:
-  (d) Birthplace and parentage:
-  (e) Date of birth, or age at date of death:
+  (a) name and sex:
+  (b) force or unit served in, and rank or level of position, at the time of death, and official number:
+  (c) last occupation and usual place of abode before departure from New Zealand:
+  (d) birthplace and parentage:
+  (e) date of birth, or age at date of death:
   (f) relationship status at time of death:
-  (g) Date and place of death:
-  (h) Cause of death:
-  (i) Place of disposal:
-  (j) The source of information from which the particulars were obtained.
+  (g) date and place of death:
+  (h) cause of death:
+  (i) place of disposal:
+  (j) the source of information from which the particulars were obtained.
 (3) For the purpose of recording information under this section, the Registrar-General may accept—
-  (a) In proof of the death of any person—
-    (i) The fact that the High Court has granted probate or administration of the estate of the person; or
-    (ii) The fact that the High Court has granted leave to swear to the death; or
-    (iii) A certificate signed by an officer of the force concerned; or
-    (iv) A certificate signed by an officer of a force (being a force of another country or of the United Nations) acting in co-operation with the force concerned; or
-    (v) A certificate signed by any person approved for the purpose by the Minister of Defence or, as the case requires, the Minister of Police:
-  (b) In proof of the death of any person, or of any other information required by subsection (2) of this section to be recorded, any evidence the Registrar-General thinks sufficient.
+  (a) in proof of the death of any person—
+    (i) the fact that the High Court has granted probate or administration of the estate of the person; or
+    (ii) the fact that the High Court has granted leave to swear to the death; or
+    (iii) a certificate signed by an officer of the force concerned; or
+    (iv) a certificate signed by an officer of a force (being a force of another country or of the United Nations) acting in co-operation with the force concerned; or
+    (v) a certificate signed by any person approved for the purpose by the Minister of Defence or, as the case requires, the Minister of Police:
+  (b) in proof of the death of any person, or of any other information required by subsection (2) to be recorded, any evidence the Registrar-General thinks sufficient.
 
 ### 51 Registrar to be notified when disinterred body disposed of or removed
 (1) A person who disposes of a body that has been disinterred (otherwise than by returning it to the place where it was previously interred) shall, within 5 working days of doing so, notify a Registrar of where and how it was disposed of.
 (2) A person who removes—a body that has been disinterred shall notify a Registrar of the removal.
-  (a) From New Zealand for disposal outside New Zealand; or
-  (b) For anatomical examination under the Human Tissue Act 2008,—
-(3) Subject to section 82 of this Act, a Registrar who is notified under this section shall record as information relating to the death of the person whose body has been disposed of or removed—
-  (a) Where the body has been disposed of; or
-  (b) That the body has been removed from New Zealand for disposal outside New Zealand; or
-  (c) That the body has been removed for anatomical examination under the Human Tissue Act 2008.
+  (a) from New Zealand for disposal outside New Zealand; or
+  (b) for anatomical examination under the Human Tissue Act 2008,—
+(3) Subject to section 82, a Registrar who is notified under this section shall record as information relating to the death of the person whose body has been disposed of or removed—
+  (a) where the body has been disposed of; or
+  (b) that the body has been removed from New Zealand for disposal outside New Zealand; or
+  (c) that the body has been removed for anatomical examination under the Human Tissue Act 2008.
 
 ### 52 Deposit with Registrar-General of death certificates issued outside New Zealand
 (1) Subject to this section, any person may, on payment of the prescribed fee and in the manner prescribed by regulations made under this Act, deposit with the Registrar-General a death certificate issued outside New Zealand in respect of the death outside New Zealand, whether before or after the commencement of this Act, of a New Zealand citizen or of a person ordinarily resident in New Zealand.
-(2) Where any person delivers to the Registrar-General, for deposit under subsection (1) of this section, a document that purports to be a death certificate to which that subsection applies, the Registrar-General shall, if satisfied that the document appears to be such a certificate, accept it for deposit and record the information contained in it.
-(3) Where a death certificate to which subsection (1) of this section applies is not in the English language, the Registrar-General shall not accept it for deposit unless it is accompanied by a translation of that death certificate into the English language.
+(2) Where any person delivers to the Registrar-General, for deposit under subsection (1), a document that purports to be a death certificate to which that subsection applies, the Registrar-General shall, if satisfied that the document appears to be such a certificate, accept it for deposit and record the information contained in it.
+(3) Where a death certificate to which subsection (1) applies is not in the English language, the Registrar-General shall not accept it for deposit unless it is accompanied by a translation of that death certificate into the English language.
 (4) The Registrar-General shall not be responsible for the authenticity of any death certificate deposited under this section nor for the truth of any information contained in any such death certificate.
 (5) Where a death certificate is deposited under this section, the Registrar-General may, on payment of the prescribed fee, issue a written statement—
-  (a) Stating that that death certificate is, under this section, deposited with the Registrar-General; and
-  (b) Giving the information contained in that death certificate; but
-  (c) Stating that the Registrar-General is not responsible for the authenticity of that death certificate nor for the truth of any information contained in that death certificate.
+  (a) stating that that death certificate is, under this section, deposited with the Registrar-General; and
+  (b) giving the information contained in that death certificate; but
+  (c) stating that the Registrar-General is not responsible for the authenticity of that death certificate nor for the truth of any information contained in that death certificate.
 (6) Where a death certificate is deposited under this section with the Registrar-General at a time when the Registrar-General has access to a computer system on which information relating to births is recorded, the Registrar-General shall—
-  (a) Take all reasonable steps to find out if information relating to the person's birth is recorded on the system; and
-  (b) If so, ensure that there is recorded, with but not as part of that information, the fact that a death certificate issued outside New Zealand has been deposited but the recording of that fact shall note that the death certificate has not been authenticated.
+  (a) take all reasonable steps to find out if information relating to the person's birth is recorded on the system; and
+  (b) if so, ensure that there is recorded, with but not as part of that information, the fact that a death certificate issued outside New Zealand has been deposited but the recording of that fact shall note that the death certificate has not been authenticated.
 (6A) Sections 74 and 75 apply to information provided by the Registrar under subsection (5).
-(7) Nothing in this section limits or affects the provisions of sections 48(3)(b) and 50 of this Act.
+(7) Nothing in this section limits or affects the provisions of sections 48(3)(b) and 50.
 
 ## Part 7 — Marriages
 
 ### 53 Marriages in New Zealand to be registered
-Every marriage solemnised in New Zealand shall be registered in accordance with this Part of this Act.
+Every marriage solemnised in New Zealand shall be registered in accordance with this Part.
 
 ### 54 Marriages outside New Zealand
-Except as provided in sections 56 and 58 of this Act, no marriage solemnised outside New Zealand shall be registered.
+Except as provided in sections 56, 57, and 58, no marriage solemnised outside New Zealand shall be registered.
 
 ### 55 Marriage information to be sent to Registrar
 (1) A celebrant shall,—
-  (a) Forthwith after solemnising a marriage,—
-    (i) Enter on both forms provided under section 24 of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
-    (ii) Ensure that both forms are signed by the husband, the wife, the celebrant, and 2 witnesses to the solemnisation; and
-    (iii) Give one form to the parties; and
-  (b) Within 10 days of solemnising the marriage, give, send, or post the other form to a Registrar.
+  (a) forthwith after solemnising a marriage,—
+    (i) enter on both forms provided under section 24 of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
+    (ii) ensure that both forms are signed by the husband, the wife, the celebrant, and 2 witnesses to the solemnisation; and
+    (iii) give one form to the parties; and
+  (b) within 10 days of solemnising the marriage, give, send, or post the other form to a Registrar.
 (2) If a marriage has been solemnised in accordance with the marriage regulations of the religious Society of Friends (commonly called Quakers) or, as the case may require, in accordance with the rules and procedures of an exempt religious body,—
   (a) the husband and wife must, immediately after the solemnisation,—
     (i) enter on both forms provided under section 24 of the Marriage Act 1955 with the licence for the marriage the prescribed information relating to the marriage; and
@@ -602,51 +606,51 @@ Except as provided in sections 56 and 58 of this Act, no marriage solemnised out
   (b) as soon as is practicable after receiving a form under paragraph (a)(iii) or subsection (4), the registering officer of the Society of Friends or, as the case may require, the registering officer of the exempt religious body must give, send, or post it to a Registrar.
 (2A) In subsection (2), exempt religious body has the same meaning as in section 32A(5) of the Marriage Act 1955.
 (3) A person who solemnises a service marriage (other than a service marriage solemnised in a Commonwealth country, particulars of which have been recorded in that country in accordance with its laws) shall,—
-  (a) Forthwith after the solemnisation,—
-    (i) Make and keep a record of information relating to the marriage on the form for the time being supplied with licences under section 24 of the Marriage Act 1955, or in a form as nearly as possible in accordance with that form; and
-    (ii) Ensure that the record and 2 copies of it are signed by the husband, the wife, the person, and 2 witnesses to the solemnisation; and
-    (iii) Give one copy to the parties; and
-  (b) As soon as is practicable after the solemnisation, send or post the other copy to the Registrar-General.
+  (a) forthwith after the solemnisation,—
+    (i) make and keep a record of information relating to the marriage on the form for the time being supplied with licences under section 24 of the Marriage Act 1955, or in a form as nearly as possible in accordance with that form; and
+    (ii) ensure that the record and 2 copies of it are signed by the husband, the wife, the person, and 2 witnesses to the solemnisation; and
+    (iii) give one copy to the parties; and
+  (b) as soon as is practicable after the solemnisation, send or post the other copy to the Registrar-General.
 (4) Where a form or copy record prepared under this section (or a document prepared under an equivalent provision of a former Act) has been lost or mislaid, the Registrar-General may direct the person or persons who prepared it to prepare and give, send, or post another; and in that case the person or persons shall do so.
 
 ### 56 Registrars to register marriages
 (1) Unless authorised by the Registrar-General to register marriages,—
-  (a) A Registrar who receives a form given, sent, or posted under section 55 of this Act shall, to the extent that the information given is information required by the standard form, send it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs):
-  (b) A Registrar who solemnises a marriage shall send the prescribed information relating to it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs).
-(2) Subject to section 82 of this Act,—
-  (a) A Registrar (being a Registrar authorised by the Registrar-General to register marriages) who receives a form given, sent, or posted under section 55 of this Act shall, to the extent that the information given is information required by the standard form, register it:
-  (b) A Registrar (being a Registrar authorised by the Registrar-General to register marriages) who solemnises a marriage shall register the prescribed information relating to it:
-  (c) If sent marriage information under subsection (1) of this section, the Registrar-General shall, to the extent that it is information required by the standard form, register it.
+  (a) a Registrar who receives a form given, sent, or posted under section 55 shall, to the extent that the information given is information required by the standard form, send it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs):
+  (b) a Registrar who solemnises a marriage shall send the prescribed information relating to it to the Registrar-General or to a Registrar specified by the Registrar-General (as the Registrar-General for the time being directs).
+(2) Subject to section 82,—
+  (a) a Registrar (being a Registrar authorised by the Registrar-General to register marriages) who receives a form given, sent, or posted under section 55 shall, to the extent that the information given is information required by the standard form, register it:
+  (b) a Registrar (being a Registrar authorised by the Registrar-General to register marriages) who solemnises a marriage shall register the prescribed information relating to it:
+  (c) if sent marriage information under subsection (1), the Registrar-General shall, to the extent that it is information required by the standard form, register it.
 
 ### 57 Registrar-General may register certain marriages
-(1) Subject to section 82 of this Act, the Registrar-General may record any of the prescribed information relating to a marriage that has not been recorded under this Act or a former Act—
-  (a) Whether or not a form has been prepared in respect of the marriage under section 55 of this Act (or a part of the register, certificate, or copy of particulars has been prepared in respect of the marriage under section 11(2), section 32, or section 36 of the Marriage Act 1955, or a corresponding provision of a former Act); and
-  (b) Whether or not information to the same effect, or conflicting information, was contained in any such form, part, certificate, or copy.
-(2) Subject to section 82 of this Act, where the Registrar-General—the Registrar-General may record the information or any of it.
-  (a) Has received from a party to a service marriage, or a descendant of the parties to a service marriage, or some other person on behalf of such a party or descendant,—
-    (i) An original record of information relating to the marriage recorded under section 55(3)(a) of this Act, purporting to be signed by the person who solemnised it; or
-    (ii) An original certificate of its solemnisation under section 45(1) of the Marriage Act 1955 (or a corresponding provision of a former Act), containing information relating to it and purporting to be signed by the person who solemnised it; or
-    (iii) Some other information relating to the marriage; and
-  (b) Is satisfied that the record, certificate, or information is authentic; and
-  (c) Is satisfied that it is impracticable to produce a copy record or copy certificate (as the case requires),—
+(1) Subject to section 82, the Registrar-General may record any of the prescribed information relating to a marriage that has not been recorded under this Act or a former Act—
+  (a) whether or not a form has been prepared in respect of the marriage under section 55 (or a part of the register, certificate, or copy of particulars has been prepared in respect of the marriage under section 11(2), section 32, or section 36 of the Marriage Act 1955, or a corresponding provision of a former Act); and
+  (b) whether or not information to the same effect, or conflicting information, was contained in any such form, part, certificate, or copy.
+(2) Subject to section 82, where the Registrar-General—the Registrar-General may record the information or any of it.
+  (a) has received from a party to a service marriage, or a descendant of the parties to a service marriage, or some other person on behalf of such a party or descendant,—
+    (i) an original record of information relating to the marriage recorded under section 55(3)(a), purporting to be signed by the person who solemnised it; or
+    (ii) an original certificate of its solemnisation under section 45(1) of the Marriage Act 1955 (or a corresponding provision of a former Act), containing information relating to it and purporting to be signed by the person who solemnised it; or
+    (iii) some other information relating to the marriage; and
+  (b) is satisfied that the record, certificate, or information is authentic; and
+  (c) is satisfied that it is impracticable to produce a copy record or copy certificate (as the case requires),—
 
 ### 58 Overseas ceremony where New Zealand representative attends
 The Registrar-General shall record all information contained in a duplicate copy of a certificate forwarded to the Registrar-General under section 43(1) of the Marriage Act 1955.
 
 ### 59 Dissolutions to be recorded
 (1) Upon the making of—under the Family Proceedings Act 1980, the Registrar of the Family Court concerned shall forthwith send to the Registrar-General a certificate of the order; and the Registrar-General shall record the information it contains as part of the information recorded under this Act or a former Act relating to the marriage.
-  (a) An order dissolving a marriage; or
-  (b) An order declaring that a party to a marriage is presumed to be dead and that the marriage is dissolved; or
-  (c) An order declaring a marriage to be void ab initio,—
+  (a) an order dissolving a marriage; or
+  (b) an order declaring that a party to a marriage is presumed to be dead and that the marriage is dissolved; or
+  (c) an order declaring a marriage to be void ab initio,—
 (2) The Registrar-General may record, as part of the information recorded under this Act or a former Act relating to a marriage, any information contained in—
-  (a) Any order described in subsection (1) of this section; or
-  (b) Any equivalent order or decree made under a former divorce enactment (that is to say an Act repealed by the Family Proceedings Act 1980 or by a former divorce enactment).
+  (a) any order described in subsection (1); or
+  (b) any equivalent order or decree made under a former divorce enactment (that is to say an Act repealed by the Family Proceedings Act 1980 or by a former divorce enactment).
 
 ### 60 Convictions for bigamy to be recorded
-Upon the conviction of any person for bigamy, the Registrar of the Court concerned shall forthwith send to the Registrar-General a certificate of the conviction specifying in respect of each bigamous marriage the parties to the marriage, the date and place of the marriage, and the date of the conviction; and the Registrar-General shall, if information relating to the bigamous marriage has been recorded under this Act or a former Act, record as part of that information the information sent to the Registrar-General.
+Upon the conviction of any person for bigamy, the Registrar of the court concerned shall forthwith send to the Registrar-General a certificate of the conviction specifying in respect of each bigamous marriage the parties to the marriage, the date and place of the marriage, and the date of the conviction; and the Registrar-General shall, if information relating to the bigamous marriage has been recorded under this Act or a former Act, record as part of that information the information sent to the Registrar-General.
 
 ### 61 Celebrants and Registrars to be notified
-The Registrar-General shall give the living celebrant or Registrar who solemnised a marriage in respect of which the Registrar has received a certificate under section 59 or section 60 of this Act (or, where appropriate, a successor of the celebrant or Registrar) a copy of the certificate; and a celebrant, Registrar, or successor who has custody of a register book in which information relating to the marriage is recorded shall note on the entry concerned that the marriage has been dissolved or (as the case may be) was bigamous.
+[Repealed]
 
 ### 62 Recording new names in relation to marriages
 (1) Subsection (2) applies if, during the course of a marriage, a party to the marriage changes his or her name and the change is recorded in the person's birth information or name change information.
@@ -684,14 +688,14 @@ If the Registrar-General or a Registrar receives information that the parties to
   (c) ensure that a link is created between the registered information relating to the earlier marriage or civil union and the registered information relating to the later marriage or civil union.
 
 ### 62E Dissolutions to be recorded
-(1) The Registrar of a Family Court must immediately send to the Registrar-General a certificate of any of the following orders made in that Court under the Family Proceedings Act 1980:
+(1) The Registrar of a Family Court must immediately send to the Registrar-General a certificate of any of the following orders made in that court under the Family Proceedings Act 1980:
   (a) an order dissolving a civil union:
   (b) an order declaring that a party to a civil union is presumed dead and the civil union is dissolved:
   (c) an order declaring that a civil union is void ab initio.
 (2) The Registrar-General must record the information contained in a certificate received under subsection (1) as part of the information recorded under this Act relating to the civil union.
 
 ### 62F Convictions for bigamy to be recorded
-(1) When a person who is a party to a civil union is convicted of bigamy, the Registrar of the Court concerned must immediately send to the Registrar-General a certificate of the conviction specifying—
+(1) When a person who is a party to a civil union is convicted of bigamy, the Registrar of the court concerned must immediately send to the Registrar-General a certificate of the conviction specifying—
   (a) the names of the parties to the bigamous marriage or civil union; and
   (b) the date and place of the bigamous marriage or civil union; and
   (c) the date of the conviction.
@@ -707,31 +711,31 @@ If the Registrar-General or a Registrar receives information that the parties to
 
 ### 63 Birth certificates for adopted persons
 (1) Except as provided in section 11(4)(a) of the Adult Adoption Information Act 1985, no birth certificate shall be provided in respect of an adopted person unless it has been requested—
-  (a) By reference to the names most recently included in the registration of the person's birth under section 24 or section 25 of this Act, or under a corresponding provision of a former Act (not being names derived from an adoption that has been discharged); or
+  (a) by reference to the names most recently included in the registration of the person's birth under section 24 or section 25 of this Act, or under a corresponding provision of a former Act (not being names derived from an adoption that has been discharged); or
   (b) by reference to a name or names later recorded for the person under section 21B, or an earlier corresponding provision.
 (2) Except as provided in the Adult Adoption Information Act 1985, a birth certificate provided in respect of a person in respect of whom information (not being information derived from an adoption order that has been discharged) has been recorded under section 24 or section 25 of this Act,—
-  (a) Subject to paragraph (b) of this subsection, shall contain the information that such a certificate would contain if the adoptive parents by whom the person was most recently adopted (otherwise than under an adoption order that has been discharged) were the person's biological mother and father, and the name or names recorded under that section had been recorded as information relating to the person's birth; and
-  (b) Shall state that those adoptive parents are or are not adoptive parents according to the information in that behalf most recently recorded under section 24 of this Act or a corresponding provision of a former Act; and
-  (c) Shall contain no other information.
+  (a) subject to paragraph (b), shall contain the information that such a certificate would contain if the adoptive parents by whom the person was most recently adopted (otherwise than under an adoption order that has been discharged) were the person's biological mother and father, and the name or names recorded under that section had been recorded as information relating to the person's birth; and
+  (b) shall state that those adoptive parents are or are not adoptive parents according to the information in that behalf most recently recorded under section 24 of this Act or a corresponding provision of a former Act; and
+  (c) shall contain no other information.
 
 ### 64 Birth certificates after sexual assignment or reassignment
-(1) A birth certificate provided in respect of a person in respect of whom it is for the time being recorded under section 30 of this Act that the person is a person of a particular sex—
-  (a) Shall, where new names have been included in the registration of the person's birth since it was recorded that the person was a person of that sex, contain the information that such a certificate would contain if the names first so included had been the person's names since birth; and
-  (b) Subject to paragraph (a) of this subsection, shall contain the information that such a certificate would contain if the person had always been a person of that sex; and
-  (c) Shall contain no other information.
-(2) Where the Registrar-General records under section 30 of this Act information that a person is a person of a particular sex and that person, before that information is recorded, has had a new name or names included in the information recorded under this Act or a former Act in respect of that person's birth, being a name or names that accord with the sex subsequently recorded by the Registrar-General under section 30 of this Act, that person may nominate one name or combination of names (including the name or names already so included in the information recorded under this Act or the former Act in respect of that person's birth), which names shall appear on all future birth certificates issued in respect of that person.
-(3) Any birth certificate issued in accordance with subsection (2) of this section—
-  (a) Shall contain the information that such a certificate would contain if the nominated names had been the person's names since birth; and
-  (b) Shall, subject to that subsection, contain the information that such a certificate would contain if that person had always been a person of that sex; and
-  (c) Shall contain no other information.
-(4) Notwithstanding subsections (1) to (3) of this section, a birth certificate provided in respect of a person at any time while, under section 30 of this Act, there is included in the information relating to the person's birth recorded under this Act or a former Act information that the person is a person of a particular sex may, by virtue of the serial number it bears, be capable of indicating that the information has been recorded.
+(1) A birth certificate provided in respect of a person in respect of whom it is for the time being recorded under section 30 that the person is a person of a particular sex—
+  (a) shall, where new names have been included in the registration of the person's birth since it was recorded that the person was a person of that sex, contain the information that such a certificate would contain if the names first so included had been the person's names since birth; and
+  (b) subject to paragraph (a), shall contain the information that such a certificate would contain if the person had always been a person of that sex; and
+  (c) shall contain no other information.
+(2) Where the Registrar-General records under section 30 information that a person is a person of a particular sex and that person, before that information is recorded, has had a new name or names included in the information recorded under this Act or a former Act in respect of that person's birth, being a name or names that accord with the sex subsequently recorded by the Registrar-General under section 30, that person may nominate 1 name or combination of names (including the name or names already so included in the information recorded under this Act or the former Act in respect of that person's birth), which names shall appear on all future birth certificates issued in respect of that person.
+(3) Any birth certificate issued in accordance with subsection (2)—
+  (a) shall contain the information that such a certificate would contain if the nominated names had been the person's names since birth; and
+  (b) shall, subject to that subsection, contain the information that such a certificate would contain if that person had always been a person of that sex; and
+  (c) shall contain no other information.
+(4) Notwithstanding subsections (1) to (3), a birth certificate provided in respect of a person at any time while, under section 30, there is included in the information relating to the person's birth recorded under this Act or a former Act information that the person is a person of a particular sex may, by virtue of the serial number it bears, be capable of indicating that the information has been recorded.
 
 ### 65 Request for new identity information for certain witnesses, etc
 (1) The following persons may make a written request to the Minister to create new identity information:
   (a) the Minister of Police, for the purpose of protecting a person who—
     (i) is, has been, or will be—
       (A) a witness in any proceeding; or
-      (B) an undercover police officer:
+      (B) an undercover Police officer:
     (ii) needs protection because of his or her relationship to a person who is, has been, or will be a witness in any proceeding:
   (b) the Minister in charge of the New Zealand Security Intelligence Service, for the purpose of protecting a person who is, has been, or will be—
     (i) an officer or employee of the New Zealand Security Intelligence Service; or
@@ -747,29 +751,29 @@ If the Registrar-General or a Registrar receives information that the parties to
   (b) the Director of Security in relation to new identity information created as a result of a request under subsection (1)(b).
 (5) In this section,—
   - **employee** and have the same meaning as in section 2 of the New Zealand Security Intelligence Service Act 1969
-  - **undercover police officer** means a person who is a member of the police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
+  - **undercover Police officer** means a person who is a member of the Police or a corresponding overseas law enforcement agency and whose identity is concealed for the purpose of an undercover investigation approved by the Commissioner of Police.
 
 ### 66 Birth certificates where error in birth registration corrected
-(1) Subject to subsection (2) of this section, where an error in the registration of a person's birth has been corrected under this Act or a former Act, a birth certificate later provided in respect of the person—
-  (a) Shall contain the information that such a certificate would contain if the error had not been made; and
-  (b) Shall contain no other information.
+(1) Subject to subsection (2), where an error in the registration of a person's birth has been corrected under this Act or a former Act, a birth certificate later provided in respect of the person—
+  (a) shall contain the information that such a certificate would contain if the error had not been made; and
+  (b) shall contain no other information.
 (2) Where—a birth certificate later provided in respect of the person shall show the names first included after the error was corrected as if they were the names recorded when the person's birth was registered.
-  (a) Under this Act or a former Act an error as to a person's sex has been corrected in the registration of the person's birth; and
-  (b) Since the error was corrected new names have been included in the registration,—
-(3) Notwithstanding subsection (1) of this section, where under this Act or a former Act an error in respect of the registration of a person's birth has been corrected, there may be provided in respect of that person a birth certificate that, by virtue of the serial number it bears, is capable of indicating that such an error has been corrected.
+  (a) under this Act or a former Act an error as to a person's sex has been corrected in the registration of the person's birth; and
+  (b) since the error was corrected new names have been included in the registration,—
+(3) Notwithstanding subsection (1), where under this Act or a former Act an error in respect of the registration of a person's birth has been corrected, there may be provided in respect of that person a birth certificate that, by virtue of the serial number it bears, is capable of indicating that such an error has been corrected.
 
 ### 67 Birth certificates generally
 (1) Every birth certificate shall contain as much information (being information relating to the birth to which the certificate relates recorded under this Act or a former Act at the time the certificate is issued) as is then prescribed.
-(2) Subsection (1) of this section is subject to sections 63 to 66 of this Act.
-(3) Notwithstanding sections 63(2)(c), 64(1)(c), 65(3), and 66(1)(b) of this Act, if satisfied that the person to whom a birth certificate relates was still-born or is dead, the Registrar issuing it shall cause it to bear the expression STILL-BORN or, as the case requires, DECEASED.
+(2) Subsection (1) is subject to sections 63 to 66.
+(3) Notwithstanding sections 63(2)(c), 64(1)(c), 65(3), and 66(1)(b), if satisfied that the person to whom a birth certificate relates was still-born or is dead, the Registrar issuing it shall cause it to bear the expression still-born or, as the case requires, deceased.
 (4)
 (5)
 (6)
 
 ### 68 Surnames on certain birth certificates
-In relation to births registered under a former Act before the 1st day of January 1972, section 67 of this Act shall have effect,—
-  (a) In the case of a birth in respect of which there was recorded the information that the parents of the person concerned were married to each other, as if there had been recorded the information that the person had the surname of the person's father; and
-  (b) In every other case, as if there had been recorded the information that the person had the surname of the person's mother.
+In relation to births registered under a former Act before 1 January 1972, section 67 shall have effect,—
+  (a) in the case of a birth in respect of which there was recorded the information that the parents of the person concerned were married to each other, as if there had been recorded the information that the person had the surname of the person's father; and
+  (b) in every other case, as if there had been recorded the information that the person had the surname of the person's mother.
 
 ### 69 Death certificates
 Every death certificate shall contain as much information (being information relating to the death to which the certificate relates recorded under this Act or a former Act at the time the certificate is issued) as is then prescribed.
@@ -785,7 +789,7 @@ Every civil union certificate must contain as much information (being informatio
 (2) A name change certificate must not be issued for a person whose birth has been registered.
 
 ### 71 Certificates to be prima facie evidence
-A birth, death, marriage certificate, civil union, or name change certificate certificate shall in any proceedings be received as prima facie evidence of the truth of the information it contains.
+A birth, death, marriage certificate, civil union, or name change certificate shall in any proceedings be received as prima facie evidence of the truth of the information it contains.
 
 ### 72 Fees for certificates
 No birth certificate, death certificate, marriage, civil union, or name change certificate shall be provided to any person unless the prescribed fee has been paid.
@@ -890,7 +894,7 @@ In sections 74 to 75G,—
   (a) a public sector agency that requires the information to avoid prejudice to the maintenance of the law (including the prevention, detection, investigation, prosecution, and punishment of offences):
   (b) a public sector agency to whom disclosure of the information is contemplated or authorised by any other enactment:
   (c) the New Zealand Security Intelligence Service if it requires the information for the exercise of its security-related functions:
-  (d) the police so they can notify next of kin of a person’s death.
+  (d) the Police so they can notify next of kin of a person’s death.
 
 ### 75G Searches for purposes of gathering statistics, or for health, historical, or demographic research
 (1) Despite sections 74, 75A(2)(b), 75B(2), and 75D(2), the Registrar-General may direct a Registrar to cause a search to be made or to provide information if the request for the information is made by a person acting on behalf of a government agency or a body or person for the purpose of—
@@ -916,79 +920,79 @@ In sections 74 to 75G,—
 
 ### 76 Restrictions on searches relating to adopted persons
 (1) This section applies to information if—
-  (a) It relates to an adopted person; and
-  (b) It was recorded under section 24 or section 25 of this Act, or a corresponding provision of a former Act.
+  (a) it relates to an adopted person; and
+  (b) it was recorded under section 24 or section 25, or a corresponding provision of a former Act.
 (2) No person other than the Registrar-General shall permit a person to inspect any document containing information to which this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information.
 (3) The Registrar-General may permit a person to inspect any document containing information to which this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, if satisfied—
-  (a) That—
-    (i) The person wishes to inspect the document or have the print-out or copy for a purpose in connection with the administration of an estate or trust; and
-    (ii) The person is executor, administrator, or trustee of the estate or trust; and
-    (iii) The information is material for the purpose; or
-  (b) That—
-    (i) The person wishes to inspect the document or have the print-out or copy for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955 or the Civil Union Act 2004; and
-    (ii) The person is a Registrar or celebrant; or
-  (c) That section 11(4)(b) of the Adult Adoption Information Act 1985 so authorises (but in that case shall permit it to the extent only that the said section 11(4)(b) so authorises); or
-  (d) That the adopted person concerned, the adoptive parents, and such of the adopted person's natural parents as had information relating to them recorded under this Act or a former Act as part of the information relating to the adopted person's birth, are all dead; or
-  (e) That 120 years has passed since the birth of the adopted person concerned.
-(4) Except as provided in subsection (3) of this section, the Registrar-General shall not permit a person to inspect any document containing information to which this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, except on the order of a Family Court, a District Court, or the High Court, made—
-  (a) For the purposes of a prosecution for making a false statement; or
-  (b) In the event of any question of the validity or effect of any interim order or adoption order; or
-  (c) On any other special ground.
+  (a) that—
+    (i) the person wishes to inspect the document or have the print-out or copy for a purpose in connection with the administration of an estate or trust; and
+    (ii) the person is executor, administrator, or trustee of the estate or trust; and
+    (iii) the information is material for the purpose; or
+  (b) that—
+    (i) the person wishes to inspect the document or have the print-out or copy for the purpose of investigating forbidden degrees of relationship under the Marriage Act 1955 or the Civil Union Act 2004; and
+    (ii) the person is a Registrar or celebrant; or
+  (c) that section 11(4)(a) of the Adult Adoption Information Act 1985 so authorises (but in that case shall permit it to the extent only that the said section 11(4)(a) so authorises); or
+  (d) that the adopted person concerned, the adoptive parents, and such of the adopted person's natural parents as had information relating to them recorded under this Act or a former Act as part of the information relating to the adopted person's birth, are all dead; or
+  (e) that 120 years has passed since the birth of the adopted person concerned.
+(4) Except as provided in subsection (3), the Registrar-General shall not permit a person to inspect any document containing information to which this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, except on the order of a Family Court, a District Court, or the High Court, made—
+  (a) for the purposes of a prosecution for making a false statement; or
+  (b) in the event of any question of the validity or effect of any interim order or adoption order; or
+  (c) on any other special ground.
 
 ### 77 Restrictions on searches where error relating to person's sex has been corrected or sexual assignment or reassignment has been registered
 (1) In this section, birth information, in relation to any person, means information recorded under this Act or a former Act as information relating to the person's birth.
 (2) This subsection applies to information if—
-  (a) It is birth information relating to a person's sex; and it has later been corrected under section 84 of this Act or a corresponding provision of a former Act; or
-  (b) It is information relating to the correction under section 84 of this Act or a corresponding provision of a former Act of birth information relating to a person's sex.
+  (a) it is birth information relating to a person's sex; and it has later been corrected under section 84 or a corresponding provision of a former Act; or
+  (b) it is information relating to the correction under section 84 or a corresponding provision of a former Act of birth information relating to a person's sex.
 (3) This subsection applies to information if—
-  (a) It is birth information specifying names for a person; and—
-    (i) After it was recorded the birth information relating to the person's sex has been corrected under section 84 of this Act or a corresponding provision of a former Act; and
-    (ii) After the correction was made, new names adopted by the person have been recorded as birth information; or
-  (b) It is information relating to the recording, after the correction under section 84 of this Act of birth information relating to a person's sex, of new names adopted by the person.
+  (a) it is birth information specifying names for a person; and—
+    (i) after it was recorded the birth information relating to the person's sex has been corrected under section 84 or a corresponding provision of a former Act; and
+    (ii) after the correction was made, new names adopted by the person have been recorded as birth information; or
+  (b) it is information relating to the recording, after the correction under section 84 of birth information relating to a person's sex, of new names adopted by the person.
 (4) This subsection applies to information if—
-  (a) It is birth information that a person is a person of indeterminate sex; and after it was recorded there has been recorded under Part 5 of this Act birth information that the person is a person of a particular sex; or
-  (b) It is information to the effect that a person's birth information at one time did not include any information relating to the person's sex; and there has since been recorded under Part 5 of this Act information that the person is a person of a particular sex; or
-  (c) It is birth information that a person is a person of a particular sex; and after it was recorded there has been recorded under Part 5 of this Act information that the person is a person of the opposite sex; or
-  (d) It is information relating to the recording under Part 5 of this Act of information that a person is a person of a particular sex, or the sex opposite to that recorded when birth information relating to the person was first recorded; or
-  (e) It is birth information specifying names for a person; and—
-    (i) After it was recorded there has been recorded under Part 5 of this Act information that the person is a person of a particular sex or the sex opposite to that recorded when the names were recorded; and
-    (ii) After the sex information was recorded, names other than those specified in the birth information have, in accordance with this Act, been recorded as birth information; or
-  (f) It is information relating to the recording, for the first time after the recording under Part 5 of this Act of information that a person is a person of a particular sex or the sex opposite to that recorded when birth information relating to the person was first recorded, of new names adopted by the person.
-(5) No person other than the Registrar-General shall permit a person to inspect any document containing information to which subsection (2) or subsection (3) or subsection (4) of this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information.
-(6) The Registrar-General may permit a person to inspect any document containing information to which subsection (4) of this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, if satisfied—
-  (a) That the person is the person to whom the information relates; or
-  (b) That—
-    (i) The person wishes to inspect the document or have the print-out or copy for a purpose in connection with the administration of an estate or trust; and
-    (ii) The person is executor, administrator, or trustee of the estate or trust; and
-    (iii) The information is material for the purpose; or
-  (c) That—
-    (i) The person wishes to inspect the document or have the print-out or copy for the purpose of investigating whether or not the parties to a proposed marriage are a man and a woman; and
-    (ii) The person is a celebrant or Registrar; and
-    (iii) The information is material for the purpose.
-(7) The Registrar-General may permit a person to inspect any document containing information to which subsection (3) or subsection (4) of this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, if satisfied that—
-  (a) The person who wishes to inspect the document or have the print-out or copy is the person to whom the information relates; or
-  (b) One hundred and twenty years has passed since the birth of the person to whom the information relates.
-(8) Except as provided in subsections (6) and (7) of this section, the Registrar-General shall not permit a person to inspect any document containing information to which subsection (2) or subsection (3) or subsection (4) of this section applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, except on the order of a Family Court, a District Court, or the High Court, made—
-  (a) For the purposes of a prosecution for making a false statement; or
-  (b) In the event of any question as to the validity of a marriage; or
-  (c) In the event of any question as to the validity of any information recorded under section 30(1) of this Act; or
-  (d) On any other special ground.
-(9) Notwithstanding anything in this Act, the Registrar-General may notify any Government agency that has an interest in ensuring that people should not have more than one identity of—
-  (a) The fact that any person has had the person's sexual assignment or reassignment registered under section 30(1) of this Act, or has had birth information relating to the person's sex corrected under section 84 of this Act:
-  (b) The person's names at the time:
-  (c) Any new names later adopted by the person.
+  (a) it is birth information that a person is a person of indeterminate sex; and after it was recorded there has been recorded under Part 5 birth information that the person is a person of a particular sex; or
+  (b) it is information to the effect that a person's birth information at one time did not include any information relating to the person's sex; and there has since been recorded under Part 5 information that the person is a person of a particular sex; or
+  (c) it is birth information that a person is a person of a particular sex; and after it was recorded there has been recorded under Part 5 information that the person is a person of the opposite sex; or
+  (d) it is information relating to the recording under Part 5 of information that a person is a person of a particular sex, or the sex opposite to that recorded when birth information relating to the person was first recorded; or
+  (e) it is birth information specifying names for a person; and—
+    (i) after it was recorded there has been recorded under Part 5 information that the person is a person of a particular sex or the sex opposite to that recorded when the names were recorded; and
+    (ii) after the sex information was recorded, names other than those specified in the birth information have, in accordance with this Act, been recorded as birth information; or
+  (f) it is information relating to the recording, for the first time after the recording under Part 5 of information that a person is a person of a particular sex or the sex opposite to that recorded when birth information relating to the person was first recorded, of new names adopted by the person.
+(5) No person other than the Registrar-General shall permit a person to inspect any document containing information to which subsection (2) or subsection (3) or subsection (4) applies, or provide any person with a print-out or copy of any such document or a print-out of any such information.
+(6) The Registrar-General may permit a person to inspect any document containing information to which subsection (4) applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, if satisfied—
+  (a) that the person is the person to whom the information relates; or
+  (b) that—
+    (i) the person wishes to inspect the document or have the print-out or copy for a purpose in connection with the administration of an estate or trust; and
+    (ii) the person is executor, administrator, or trustee of the estate or trust; and
+    (iii) the information is material for the purpose; or
+  (c) that—
+    (i) the person wishes to inspect the document or have the print-out or copy for the purpose of investigating whether or not the parties to a proposed marriage are a man and a woman; and
+    (ii) the person is a celebrant or Registrar; and
+    (iii) the information is material for the purpose.
+(7) The Registrar-General may permit a person to inspect any document containing information to which subsection (3) or subsection (4) applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, if satisfied that—
+  (a) the person who wishes to inspect the document or have the print-out or copy is the person to whom the information relates; or
+  (b) 120 years has passed since the birth of the person to whom the information relates.
+(8) Except as provided in subsections (6) and (7), the Registrar-General shall not permit a person to inspect any document containing information to which subsection (2) or subsection (3) or subsection (4) applies, or provide any person with a print-out or copy of any such document or a print-out of any such information, except on the order of a Family Court, a District Court, or the High Court, made—
+  (a) for the purposes of a prosecution for making a false statement; or
+  (b) in the event of any question as to the validity of a marriage; or
+  (c) in the event of any question as to the validity of any information recorded under section 30(1); or
+  (d) on any other special ground.
+(9) Notwithstanding anything in this Act, the Registrar-General may notify any government agency that has an interest in ensuring that people should not have more than 1 identity of—
+  (a) the fact that any person has had the person's sexual assignment or reassignment registered under section 30(1), or has had birth information relating to the person's sex corrected under section 84:
+  (b) the person's names at the time:
+  (c) any new names later adopted by the person.
 
 ### 78 Restrictions on searches relating to new names of certain witnesses, etc
-(1) While section 65 of this Act applies to a person, no person other than the Registrar-General shall permit any person to inspect, or obtain a copy or print-out of any information contained in, any document relating to the acquisition of the new identity the Registrar-General has been directed to protect.
+(1) While section 65 applies to a person, no person other than the Registrar-General shall permit any person to inspect, or obtain a copy or print-out of any information contained in, any document relating to the acquisition of the new identity the Registrar-General has been directed to protect.
 (2) The Registrar-General may permit a person (in this subsection referred to as the applicant) to inspect, or obtain a copy of or print-out of any information contained in, the document if satisfied that the person to whom it relates—
-  (a) Is the applicant; or
-  (b) Has given the Registrar-General written consent to the applicant's inspecting it; or
-  (c) Is dead; or
-  (d) Was born more than 120 years ago.
-(3) Except as provided in subsection (2) of this section, the Registrar-General shall not permit any person to inspect, or obtain a copy of or print-out of any information contained in, the document, except on the order of a Family Court, a District Court, or the High Court, made—
-  (a) For the purposes of a prosecution for making a false statement; or
-  (b) In the event of any question as to the validity of a marriage or civil union; or
-  (c) On any other special ground.
+  (a) is the applicant; or
+  (b) has given the Registrar-General written consent to the applicant's inspecting it; or
+  (c) is dead; or
+  (d) was born more than 120 years ago.
+(3) Except as provided in subsection (2), the Registrar-General shall not permit any person to inspect, or obtain a copy of or print-out of any information contained in, the document, except on the order of a Family Court, a District Court, or the High Court, made—
+  (a) for the purposes of a prosecution for making a false statement; or
+  (b) in the event of any question as to the validity of a marriage or civil union; or
+  (c) on any other special ground.
 (4) The Registrar-General may notify a government agency that has an interest in ensuring that people do not have more than 1 identity of the fact that section 65 applies to a person and provide details about the person, such as the person's date of birth, former name, and new name, to the agency.
 (5) However, the Registrar-General may do so only if he or she has the written approval of—
   (a) the Commissioner of Police, in the case of a new identity created as the result of a request made under section 65(1)(a); or
@@ -1065,7 +1069,7 @@ The Registrar-General may publish or otherwise disclose statistical information 
   (a) change or manipulate the information into a form different from the form in which it was provided:
   (b) place the information on the Internet or otherwise make it available for public search:
   (c) use or disclose the information for a purpose other than the purpose specified in the agreement.
-(8) Subsection 7(b) does not prevent the other party that obtains information under this section from placing the information on an Internet site that is not generally available to members of the public if the Registrar-General so agrees.
+(8) Subsection (7)(b) does not prevent the other party that obtains information under this section from placing the information on an Internet site that is not generally available to members of the public if the Registrar-General so agrees.
 
 ### 78G Definition for sections 78H and 78I
 In sections 78H and 78I, historical information means information that relates to—
@@ -1142,21 +1146,21 @@ In sections 78H and 78I, historical information means information that relates t
 (3) Subject to this Act, every Registrar shall exercise and perform powers and duties under this Act in accordance with the directions for the time being (if any) of the Registrar-General.
 
 ### 80 Deputy Registrar-General
-(1) There shall from time to time be appointed under the State Sector Act 1988 one or more Deputy Registrars-General as may be desirable for the effective and efficient administration of this Act.
+(1) There shall from time to time be appointed under the State Sector Act 1988 1 or more Deputy Registrars-General as may be desirable for the effective and efficient administration of this Act.
 (2) Subject to the control of the Registrar-General, a Deputy Registrar-General has and may exercise and perform any of the powers, functions, and duties of the Registrar-General.
 (3) On the occurrence from any cause of a vacancy in the office of Registrar-General (whether by reason of death or resignation or otherwise) or in the absence (from whatever cause arising) of the Registrar-General, and for so long as the vacancy or absence continues,—has and may exercise and perform all the powers, functions, and duties of the Registrar-General.
-  (a) The Deputy Registrar-General if there is only one; or
-  (b) A Deputy Registrar-General authorised in writing in that behalf by the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (before, on, or after the occurrence of the vacancy or absence) in every other case,—
-(4) The fact that a Deputy Registrar-General exercises or performs any power, function, or duty of the Registrar-General is conclusive evidence of the Deputy Registrar-General's authority to do so; and no authority given under subsection (3)(b) of this section, and no act done by a Deputy Registrar-General under any such authority or under subsection (2) or subsection (3) of this section, shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased, or that the act was contrary to a direction of the Registrar-General.
+  (a) the Deputy Registrar-General if there is only 1; or
+  (b) a Deputy Registrar-General authorised in writing in that behalf by the chief executive of the department of State that, with the authority of the Prime Minister, is for the time being responsible for the administration of this Act (before, on, or after the occurrence of the vacancy or absence) in every other case,—
+(4) The fact that a Deputy Registrar-General exercises or performs any power, function, or duty of the Registrar-General is conclusive evidence of the Deputy Registrar-General's authority to do so; and no authority given under subsection (3)(b), and no act done by a Deputy Registrar-General under any such authority or under subsection (2) or subsection (3), shall in any proceedings be questioned on the ground that the occasion for the giving of the authority had not arisen or had ceased, or that the act was contrary to a direction of the Registrar-General.
 
 ### 81 Registrars
 (1) There shall from time to time be appointed such number of persons to be Registrars as is necessary for the purposes of this Act or any other Act under which Registrars exercise functions.
-(2) Appointments under subsection (1) of this section shall,—
-  (a) In the case of persons who on their appointment will become employed in the Public Service, be in accordance with the State Sector Act 1988; and
-  (b) In every other case, be in writing under the hand of the Registrar-General, specifying either—
-    (i) The name of the person appointed; or
-    (ii) An office whose holder for the time being is to hold the appointment; and
-  (c) Specify whether the person appointed, or the office holder, is to exercise and perform all or some of the powers, functions, and duties of a Registrar under this Act or any other Act under which Registrars exercise functions and, if some only, which of those powers, functions, and duties.
+(2) Appointments under subsection (1) shall,—
+  (a) in the case of persons who on their appointment will become employed in the Public Service, be in accordance with the State Sector Act 1988; and
+  (b) in every other case, be in writing under the hand of the Registrar-General, specifying either—
+    (i) the name of the person appointed; or
+    (ii) an office whose holder for the time being is to hold the appointment; and
+  (c) specify whether the person appointed, or the office holder, is to exercise and perform all or some of the powers, functions, and duties of a Registrar under this Act or any other Act under which Registrars exercise functions and, if some only, which of those powers, functions, and duties.
 
 ## Part 11 — Powers of inquiry and correction and updating of records
 
@@ -1187,11 +1191,11 @@ In sections 78H and 78I, historical information means information that relates t
 (3) In this section, AHR procedure has the same meaning as in section 15 of the Status of Children Act 1969.
 
 ### 85 Family Court may consider proposed corrections in cases of difficulty or dispute
-(1) The Registrar-General, if uncertain as to any matter in respect of which the Registrar-General is required to be satisfied for the purposes of section 84 or 84A of this Act, may apply to the Family Court nearest the Registrar-General's office to have the matter determined.
-(2) Any person who wishes the Registrar-General to act under section 84 or 84A of this Act in respect of any matter may apply to the Family Court nearest the Registrar-General's office to have the matter determined.
-(3) A Family Court to which application is made under this section shall, notwithstanding section 84 or 84A of this Act, after—determine whether or not the Registrar-General should act under that section.
-  (a) Giving every person whom the Court considers to have an interest in the matter an opportunity to be heard; and
-  (b) Receiving any evidence the Court thinks fit,—
+(1) The Registrar-General, if uncertain as to any matter in respect of which the Registrar-General is required to be satisfied for the purposes of section 84 or 84A, may apply to the Family Court nearest the Registrar-General's office to have the matter determined.
+(2) Any person who wishes the Registrar-General to act under section 84 or 84A in respect of any matter may apply to the Family Court nearest the Registrar-General's office to have the matter determined.
+(3) A Family Court to which application is made under this section shall, notwithstanding section 84 or 84A, after—determine whether or not the Registrar-General should act under that section.
+  (a) giving every person whom the court considers to have an interest in the matter an opportunity to be heard; and
+  (b) receiving any evidence the court thinks fit,—
 
 ### 85A Health information may be used to correct records
 (1) The chief executive of the department for the time being responsible for administering the New Zealand Public Health and Disability Act 2000 may—
@@ -1224,35 +1228,35 @@ This Act does not limit the provision of information under the Statistics Act 19
 
 ### 88 Regulations
 (1) The Governor-General may, by Order in Council, make regulations—
-  (a) Prescribing fees to be paid for the purposes of this Act:
+  (a) prescribing fees to be paid for the purposes of this Act:
   (ab) specifying the grounds on which a request for a non-disclosure direction may be made to the Registrar-General under section 75A(2)(b):
   (ac) specifying the grounds on which a request for the reinstatement of a non-disclosure direction may be made to the Registrar-General under section 75B(4)(b):
   (ad) prescribing the period referred to in section 75B(3)(a) for which a non-disclosure direction under section 75A(2)(b) remains in force, including the conditions subject to which any such direction ceases to be in force:
-  (b) Providing for any other matters contemplated by or necessary for giving full effect to this Act and for its due administration.
-(2) Regulations made under subsection (1) of this section may require the giving and collection of information for the purpose of statistics, including matters to be notified, matters to be registered, or both.
+  (b) providing for any other matters contemplated by or necessary for giving full effect to this Act and for its due administration.
+(2) Regulations made under subsection (1) may require the giving and collection of information for the purpose of statistics, including matters to be notified, matters to be registered, or both.
 
 ### 89 Offences and penalties
 (1) Every person commits an offence who—
-  (a) Makes or causes to be made, for the purpose of the recording of any information under this Act, any statement that is, and is known by that person to be, false in relation to any particular matter required to be notified or recorded under this Act:
-  (b) Being a person (other than a Registrar) with control of or access to a device on which registered information is stored electronically, knowingly and without the consent of a Registrar—(whether directly or by alteration of or damage to the device, its programming, any other device, the programming of any other device, or any electronic storage medium):
-    (i) Deletes or alters any information stored on the device; or
-    (ii) Allows any information stored on the device to be deleted or altered; or
-    (iii) Stores any information (whether correct or incorrect) on the device; or
-    (iv) Allows any information (whether correct or incorrect) to be stored on the device,—
-  (c) Being a Registrar, knowingly—otherwise than in accordance with this Act (whether directly or by alteration of or damage to the device, its programming, any other device, the programming of any other device, or any electronic storage medium):
-    (i) Deletes or alters any registered information stored electronically on any device; or
-    (ii) Allows any registered information stored electronically on any device to be deleted or altered; or
-    (iii) Stores any information (whether correct or incorrect) on a device on which registered information is stored electronically by or on behalf of the Registrar-General; or
-    (iv) Allows any information (whether correct or incorrect) to be stored on a device on which registered information is stored electronically by or on behalf of the Registrar-General,—
-  (d) Acts in contravention of or fails to comply with any provision of this Act (not being a provision requiring the person to give any notice or information):
-  (e) Having had the relevant provision of this Act drawn to the person's attention, fails or refuses to give any information required by this Act to be given:
-  (f) Being a Registrar,—
-    (i) Negligently loses or damages a document containing information recorded under this Act or a former Act, or any part of such a document; or
-    (ii) Negligently allows it to be damaged; or
-    (iii) Negligently does any act referred to in paragraph (c) of this subsection.
+  (a) makes or causes to be made, for the purpose of the recording of any information under this Act, any statement that is, and is known by that person to be, false in relation to any particular matter required to be notified or recorded under this Act:
+  (b) being a person (other than a Registrar) with control of or access to a device on which registered information is stored electronically, knowingly and without the consent of a Registrar—(whether directly or by alteration of or damage to the device, its programming, any other device, the programming of any other device, or any electronic storage medium):
+    (i) deletes or alters any information stored on the device; or
+    (ii) allows any information stored on the device to be deleted or altered; or
+    (iii) stores any information (whether correct or incorrect) on the device; or
+    (iv) allows any information (whether correct or incorrect) to be stored on the device,—
+  (c) being a Registrar, knowingly—otherwise than in accordance with this Act (whether directly or by alteration of or damage to the device, its programming, any other device, the programming of any other device, or any electronic storage medium):
+    (i) deletes or alters any registered information stored electronically on any device; or
+    (ii) allows any registered information stored electronically on any device to be deleted or altered; or
+    (iii) stores any information (whether correct or incorrect) on a device on which registered information is stored electronically by or on behalf of the Registrar-General; or
+    (iv) allows any information (whether correct or incorrect) to be stored on a device on which registered information is stored electronically by or on behalf of the Registrar-General,—
+  (d) acts in contravention of or fails to comply with any provision of this Act (not being a provision requiring the person to give any notice or information):
+  (e) having had the relevant provision of this Act drawn to the person's attention, fails or refuses to give any information required by this Act to be given:
+  (f) being a Registrar,—
+    (i) negligently loses or damages a document containing information recorded under this Act or a former Act, or any part of such a document; or
+    (ii) negligently allows it to be damaged; or
+    (iii) negligently does any act referred to in paragraph (c):
   (g) makes a written or oral statement, knowing that it is false or being reckless as to whether it is false, for the purpose of obtaining a source document, or a copy of a source document, or information recorded under this Act:
   (h) for a purpose contemplated by this Act, provides any means of identification knowing that it is false or having reason to suspect that it has been forged or falsified.
-(2) Every person who commits an offence against subsection (1)(a) or subsection (1)(b) or subsection (1)(c) of this section shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
+(2) Every person who commits an offence against subsection (1)(a) or subsection (1)(b) or subsection (1)(c) shall be liable on conviction on indictment to imprisonment for a term not exceeding 5 years.
 (2A) A person who commits an offence against subsection (1)(g) or (h) is liable, on summary conviction, to a term of imprisonment not exceeding 3 months or a fine not exceeding $10,000, or both.
 (3) A person who commits any other offence against this Act is liable, on summary conviction, to a fine not exceeding—
   (a) $50,000 for a contravention of or failure to comply with section 78F(7) or 78I:
@@ -1273,8 +1277,8 @@ No prosecution for an offence against this Act shall be commenced without the au
 ### 91 Fees
 (1) If empowered by this Act or any other Act to do any act for which a fee is payable, the Registrar-General or a Registrar may refuse to do the act until the fee is paid.
 (2) Notwithstanding anything in this Act, the Registrar-General (or to the extent that a Registrar is authorised by the Registrar-General to do so, the Registrar) may—
-  (a) Dispense with the payment of all or any part of any fee payable under this Act; or
-  (b) Refund all or any part of any fee paid under this Act.
+  (a) dispense with the payment of all or any part of any fee payable under this Act; or
+  (b) refund all or any part of any fee paid under this Act.
 (3) Despite anything in this Act, a fee is not payable, within 10 years after the death of a person, for any of the following in respect of information about that person recorded under section 50:
   (a) permitting the inspection of a document containing the information:
   (b) providing access to, or a copy of, a document containing the information:
@@ -1289,37 +1293,21 @@ No civil or criminal proceedings may be brought against the Crown, a Registrar, 
 **Amendments to Marriage Act 1955**
 
 ### 92 Interpretation
-The Marriage Act 1955 is hereby amended by repealing section 2 (as amended by section 2(1) of the Marriage Amendment Act 1976 and section 2(2) of the Marriage Amendment Act 1982), and substituting the following section:
-  (1) In this section, unless the context otherwise requires,—
-    - **Commonwealth country** includes a territory for whose international relations the Government of a Commonwealth country is responsible
-    - **Marriage celebrant** means a person authorised to act as a marriage celebrant under this Act
-    - **New Zealand representative** means a person who is for the time being a head of mission or head of post (within the meaning of section 2 of the Foreign Affairs Act 1988) or a person assigned or reassigned to service overseas under section 6 of that Act
-    - **Service marriage** means a marriage solemnised outside New Zealand at a time when the person who solemnised it, and at least one party to it, is a member of a naval, military, or air force raised in New Zealand, and the person who solemnised it—
-      (a) Is both a chaplain and a marriage celebrant; or
-      (b) In the case only of a marriage solemnised before the commencement of the Births, Deaths, and Marriages Registration Act 1995, is a person duly authorised to solemnise it.
-  (2) In this Act, unless the context otherwise requires, the terms Registrar-General, Deputy Registrar-General, and Registrar have the meanings assigned to them by section 2 of the Births, Deaths, and Marriages Registration Act 1995.
+Amendment(s) incorporated in the Act(s).
 
 ### 93 Issue of marriage licence and information return
-The Marriage Act 1955 is hereby further amended by repealing section 24 (as amended by section 5(1) of the Marriage Amendment Act 1976), and substituting the following section:
-  (1) Subject to the provisions of this Act, if a marriage is to be solemnised by a marriage celebrant or under section 32 of this Act, and notice has been given to a Registrar in accordance with section 23 of this Act, the Registrar shall, not earlier than the 3rd day after the day the notice was given, issue to the person who gave the notice—
-    (a) A marriage licence in the prescribed form, authorising the marriage of the persons named in it at the place, or either of 2 places (being a place or places situated in New Zealand), specified in it; and
-    (b) Two copies of a form provided by the Registrar-General for the purpose of returning information relating to marriages solemnised by marriage celebrants or under section 32 of this Act.
-  (2) Notwithstanding subsection (1) of this section, if satisfied that—a Registrar may issue a marriage licence and marriage return forms before the 3rd day after the day the notice concerned was given.
-    (a) A proposed marriage is not prohibited by this Act; and
-    (b) The requirements of this Act have been complied with; and
-    (c) The parties to the proposed marriage would otherwise be inconvenienced,—
+Amendment(s) incorporated in the Act(s).
 
 ### 94 Validity of service marriages
-The Marriage Act 1955 is hereby further amended by repealing section 44, and substituting the following section:
-  A service marriage shall be deemed to have been and to be as valid as if it had been solemnised in New Zealand in accordance with the provisions of this Act.
+Amendment(s) incorporated in the Act(s).
 
 **Consequential amendments and repeals**
 
 ### 95 Consequential amendments
-The enactments specified in Schedule 1 to this Act are hereby consequentially amended in the manner specified in that Schedule.
+The enactments specified in Schedule 1 are hereby consequentially amended in the manner specified in that schedule.
 
 ### 96 Repeals
-The enactments specified in the Second Schedule to this Act are hereby repealed.
+The enactments specified in Schedule 2 are hereby repealed.
 
 ## Schedule 1A — Disclosure of information to specified agencies
 
@@ -1336,28 +1324,28 @@ The enactments specified in the Second Schedule to this Act are hereby repealed.
 | Government Superannuation Fund Authority | Birth information, marriage information, civil union information, name change information, and death information | To verify the identity of a member or beneficiary of the Government Superannuation Fund, and the eligibility or continuing eligibility of a member or beneficiary for payments under the Fund |
 | Inland Revenue Department | Birth information, marriage information, civil union information, and name change information | To verify the identity of a person to establish—athe tax file number of the person:bthe details of an applicant for child support |
 |  | Death information | To identify deceased taxpayers and verify their details |
-| Land Transport New Zealand | Birth information and name change information | To verify details supplied by an applicant for a driver licence |
-|  | Marriage information and civil union information | To verify the name change of the holder of a driver licence |
-|  | Death information | To identify deceased holders of driver licences |
 | Ministry of Education | Birth information, name change information, and death information | To verify and update student information on the National Student Index |
 | Ministry of Health | Birth information, name change information, and death information | To verify and update health information on the National Health Index |
 |  | Birth information and death information | To compile mortality statistics |
 | Ministry of Justice | Marriage information and civil union information | To verify a fine defaulter's name change |
 |  | Death information | To—aremove the names of deceased persons from jury lists:bremit or enforce payment of fines owed by deceased persons |
 | Ministry of Justice (Maori Land Court Unit) | Death information | To identify deceased Maori landowners |
-| Ministry of Social Development | Birth information, marriage information, civil union information, name change information, and death information | To—averify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances: bverify a person's eligibility or continuing eligibility for a community services card or a card the availability of which is based principally on the age and residence of a person, or of his or her spouse or civil union partner, or former spouse or civil union partner:cidentify debtors, including any person no longer in receipt of a benefit, war pension, grant, loan, or allowance. |
+| Ministry of Social Development | Birth information, marriage information, civil union information, name change information, and death information | To—averify a person's eligibility or continuing eligibility for benefits, war pensions, grants, loans, or allowances: bverify a person's eligibility or continuing eligibility for a community services card or a card the availability of which is based principally on the age and residence of a person, or of his or her spouse or civil union partner, or former spouse or civil union partner:cidentify debtors, including any person no longer in receipt of a benefit, war pension, grant, loan, or allowance |
+| New Zealand Transport Agency | Birth information and name change information | To verify details supplied by an applicant for a driver licence |
+|  | Marriage information and civil union information | To verify the name change of the holder of a driver licence |
+|  | Death information | To identify deceased holders of driver licences |
 
 ## Schedule 1 — Consequential amendments
 
-| Enactment Amended | Amendment |  |
-| --- | --- | --- |
-| 1955, No 93—The Adoption Act 1955 (RS Vol 1, p 35) | By repealing section 16(1), and substituting the following subsections:1Every adoption order shall confer on the adopted child a surname, and one or more given names.1AThe names conferred on an adopted child by an adoption order shall be those specified by the applicant for the order, unless the Court is satisfied it is not in the public interest for the child to bear those names.1BNotwithstanding subsection (1) of this section, if the Court is satisfied that it is contrary to the religious beliefs or cultural traditions of the applicant for an adoption order for the adopted child to bear a given name, the order may confer on the child a surname only. |  |
-| 1964, No 75— The Burial and Cremation Act 1964 (RS Vol 16, p 1) | By inserting, after section 46, the following section:46AStill-born childrenNo person shall bury, cremate, or otherwise dispose of any still-born child unless there has been delivered to the person—aA written certificate that the child was born dead, signed—iBy a person registered as a medical practitioner under the Medical Practitioners Act 1968 (hereafter in this section referred to as a doctor) who was present at the birth or examined the child after birth; oriiIf no doctor was present at the birth or examined the child after birth, by a person present at the birth whose name appears in that part of the Register of Nurses kept under section 16 of the Nurses Act 1977 relating to registered midwives (hereafter in this section referred to as a midwife); orbA statutory declaration, made by the person required by the Births, Deaths, and Marriages Registration Act 1995 to notify the birth, to the effect that the child was born dead, and that—iNo doctor or midwife was present at the birth; oriiIt is impossible to obtain a certificate under paragraph (a) of this section from any doctor or midwife present at the birth; orcAn order by a coroner for the disposal of the child. |  |
-| 1969, No 18—The Status of Children Act 1969 (RS Vol 4, p 893) | By repealing paragraph (a) of section 8(1) as enacted by section 2 of the Status of Children Amendment Act 1990), and substituting the following paragraph:aAny provision of the Births, Deaths, and Marriages Registration Act 1995 or the corresponding provision of any former Act (within the meaning of that Act); or. By repealing subsection (4) of section 9, and substituting the following subsection:4For the purposes of this section, Registrar-General has the same meaning as in section 2 of the Births, Deaths, and Marriages Registration Act 1995. |  |
-| 1985, No 127—The Adult Adoption Information Act 1985 | By repealing the definition in section 2 of the term original birth certificate, and substituting the following definition:Original birth certificate, in relation to any person, means a birth certificate (within the meaning of the Births, Deaths, and Marriages Registration Act 1995) containing information recorded under that Act or a former Act (within the meaning of that Act) relating to the person's birth bearing on its face the words ISSUED FOR THE PURPOSES OF THE ADULT ADOPTION INFORMATION ACT 1985; and includes any such certificate from which there have been omitted, in accordance with this Act, any details relating to either or both of the person's birth parents. By omitting from section 5(1) the words all details relating to the applicant's birth parents have been omitted, and substituting the words there have been removed all details relating to the applicant's birth parents, and every reference to any surname registered for the applicant. By adding to section 5 the following subsection:4There shall be omitted from every original birth certificate sent under subsection (2) of this section every reference to any surname registered for the applicant if—aThere is on the original entry of the applicant's birth an unexpired endorsement under section 3(2) of this Act relating to a parent who has that surname; andbThe Registrar-General is not satisfied that that parent is dead. By omitting from section 11(4) the words section 21(7) of the Births and Deaths Registration Act 1951, and substituting the words section 63 of the Births, Deaths, and Marriages Registration Act 1995. |  |
-| 1993, No 28—The Privacy Act 1993 | By omitting from Part 1 of Schedule 2 the item relating to the Births and Deaths Registration Act 1951, and substituting the following item: |  |
-|  | “Births, Deaths, Marriages and Registration Act 1995 | Sections 5, 7(2), 8, 24, 25, 34, 36, 48(3), 50, 53, 56, 58”. |
-|  | By omitting from Part 1 of Schedule 2 the item relating to the Marriage Act 1955, and substituting the following item: |  |
-|  | “Marriage Act 1955 | Section 7”. |
-
 ## Schedule 2 — Enactments repealed
+
+### 1 Title
+This Act is the Births, Deaths, Marriages, and Relationships Registration Amendment Act 2008.
+
+### 2 Commencement
+This Act comes into force 6 months after the date on which it receives the Royal assent.
+
+## Part 1 — Amendments to principal Act
+
+### 43 Transitional provision relating to applications under principal Act
+Applications under the Births, Deaths, and Marriages Registration Act 1995 made before the commencement of this Act are to be continued and completed in accordance with the Births, Deaths, and Marriages Registration Act 1995 as if this Act had not been enacted.
