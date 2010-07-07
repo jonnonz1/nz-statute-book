@@ -1,5 +1,5 @@
 # Flags, Emblems, and Names Protection Act 1981
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to declare the New Zealand Ensign to be the New Zealand Flag and to make provision relating to its use and to the use of certain other flags, and to make better provision for the protection of certain names and emblems of Royal, national, international, commercial, or other significance
 
@@ -213,7 +213,9 @@ Nothing in this Part shall limit or affect Her Majesty’s powers to approve, or
   (n) the name Agricultural Research Centre:
   (o) the name Management Consultancy Services:
   (p) the word MAF:
-  (q) the name New Zealand Communicable Disease Centre.
+  (q) the name New Zealand Communicable Disease Centre:
+  (r) the name New Zealand Food Safety Authority:
+  (s) the word NZFSA.
 (4) Subsections (1) and (2) do not apply to the use of any word or name where that use is expressly authorised by or under any other Act or by the Governor-General by Order in Council.
 (5) A registering authority may authorise the registration of any association under any name, title, style, or designation that includes any word or name to which subsection (1) applies if the Registrar is satisfied that—and, in the context in which it is used or is intended to be used, is not likely to deceive any person.
   (a) the word or name comprises the whole or part of the proper name of any town or road or other place, and that the name is or is to be used in full by the association; or
