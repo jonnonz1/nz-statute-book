@@ -1,5 +1,5 @@
 # Coroners Act 2006
-_Consolidation as at 2010-03-23_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Coroners Act 2006.
@@ -1226,7 +1226,7 @@ Every person commits an offence against this section, and is liable on summary c
 
 ### 140 Regulations
 The Governor-General may, by Order in Council, make regulations for either or both of the following purposes:
-  (a) prescribing fees, allowances, and travelling allowances and expenses, for specialist advisers, witnesses, doctors, analysts, and pathologists, who perform any function under this Act or give evidence for the purposes of an inquiry conducted, or at an inquest held, under this Act:
+  (a) prescribing salaries, fees, allowances, and travelling allowances and expenses, for specialist advisers, witnesses, doctors, analysts, and pathologists, who perform any function under this Act or give evidence for the purposes of an inquiry conducted, or at an inquest held, under this Act:
   (b) providing for any other matters contemplated by this Act, necessary for its administration, or necessary for giving it full effect.
 
 ### 141 Transitional provisions: amendments to Coroners Act 1988 effective day after assent are in Schedule 1
