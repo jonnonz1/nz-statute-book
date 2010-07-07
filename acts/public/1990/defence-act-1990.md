@@ -1,5 +1,5 @@
 # Defence Act 1990
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-07-07_
 
 > An Act—ato continue to authorise the raising and maintaining of armed forces for certain purposes; andbto constitute the New Zealand Defence Force, comprising—ithe Armed Forces under the command of the Chief of Defence Force; andiithe Civil Staff under the control of the Chief of Defence Force; andcto reaffirm that the Armed Forces are under Ministerial authority; anddto define the respective roles and relationships of the Minister of Defence, the Secretary of Defence, and the Chief of Defence Force; andeto redefine the relationship of the Chief of Defence Force to the Chiefs of Service; andfto make provision generally in respect of the establishment, control, and activities of the New Zealand Defence Force, and related matters
 
@@ -649,7 +649,7 @@ Notwithstanding sections 53 to 55, the Chief of Defence Force, or a Chief of Ser
 (8) All documents required to be executed for the purposes of subsection (6) or subsection (7) by or on behalf of the Crown may be executed by the Chief of Defence Force.
 (9) Without limiting the power of the Chief of Defence Force to issue orders under section 27, orders may be issued under that section prescribing rules for the administration, supervision, accounting, and auditing of any fund established under this section.
 (10) The appropriate service authority may from time to time vary the objects of any such fund, or abolish any such fund and transfer its assets to any other such fund, having due regard to the purposes for which the varied or abolished fund was established and to any conditions specifically imposed by any person from whom any money in the fund was received.
-(11) Notwithstanding anything in the Public Finance Act 1989, the assets of any fund established under this section shall be deemed not to be public money within the meaning of that Act, except that the accounts of any such fund may, if considered desirable by the Controller and Auditor-General, be audited by the Auditor-General, which for that purpose shall have all such powers as it has under that Act in respect of public money.
+(11) Notwithstanding anything in the Public Finance Act 1989, the assets of any fund established under this section shall be deemed not to be public money within the meaning of that Act, except that the accounts of any such fund may, if considered desirable by the Controller and Auditor-General, be audited by the Auditor-General, who for that purpose has all of the powers that he or she has under the Public Audit Act 2001 for the purposes of exercising or performing his or her functions, duties, or powers.
 (12) The Crown shall not be liable in respect of any loss sustained by any fund established under this section, whether arising out of any act or omission of an employee of the Crown or by reason of any other cause.
 (13) The provisions of this section shall apply with respect to all funds established before the passing of this Act for any of the purposes specified in subsections (2) to (5) and in existence at the passing of this Act as if they had been established under this section. If any question arises as to whether any fund is a fund to which this subsection applies, it shall be decided by the Minister, and that decision shall be final.
 (14) Where any part of any Service of the Armed Forces has been abolished, altered, or reconstituted, whether before or after the commencement of this Act, its non-public funds and all of its other property shall be disposed of, transferred, or held by the appropriate service authority for such purposes as are authorised by subsections (2) to (5), as the authority may determine, having due regard to the purposes for which the funds were established or the property was given or acquired, as the case may be, and to any conditions specifically imposed by any person from whom any property or any money in the funds was received.
@@ -887,7 +887,7 @@ Every person commits an offence and is liable on summary conviction to imprisonm
 (6) For the purposes of this section, the term defence area does not include any road, street, or other thoroughfare through which members of the general public are authorised to pass.
 
 ### 90 Evidence
-Any document that would be evidence in any proceedings under the Armed Forces Discipline Act 1971 by virtue of section 147(2) of that Act shall, in like manner, be evidence in proceedings under this Part.
+Any document that would be evidence in any proceedings under the Armed Forces Discipline Act 1971 by virtue of sections 71 to 74 of the Court Martial Act 2007 shall, in like manner, be evidence in proceedings under this Part.
 
 ## Part 8 — Miscellaneous provisions
 
