@@ -1,5 +1,5 @@
 # Juries Amendment Act 2008
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Juries Amendment Act 2008.
@@ -12,13 +12,16 @@ This Act is the Juries Amendment Act 2008.
 This Act amends the Juries Act 1981.
 
 ### 4 Jury districts
+(1AA) Section 5(1) is amended by adding (in this section referred to as a High Court jury district).
 (1) Section 5 is amended by repealing subsections (3) and (3A) and substituting the following subsection:
   (3) Every jury district comprises every place that is within—
     (a) 45 km by the most practicable route from the courthouse in the Court town in which jury trials may be held; and
-    (b) if the jury district is a District Court jury district, any boundary of the district that is declared by the Governor-General by a notice under subsection (4).
+    (b) any boundary of the district that is declared by the Governor-General by a notice under subsection (4).
 (2) Section 5(4) is consequentially amended by omitting , or subsection (3) and subsection (3A).
-(3) Section 5(4) is consequentially amended by repealing paragraph (b) and substituting the following paragraph:
-  (b) no place included in a District Court jury district for a Court town is more than 45 km by the most practicable route from the courthouse in that town.
+(3) Section 5 is amended by repealing subsection (4) and substituting the following subsection:
+  (4) If, by virtue of subsection (3), a place would be in 2 or more jury districts (both or all of which are High Court jury districts, or both or all of which are District Court jury districts), the boundaries of each of those districts must be declared by the Governor-General, by notice in the Gazette given on the advice of the Minister of the Crown who is responsible for the Ministry of Justice, in such a way as to ensure that—
+    (a) no place is included in 2 or more jury districts; and
+    (b) no place included in a jury district for a Court town is more than 45 km by the most practicable route from the courthouse in that town.
 (4) Section 16A is consequentially amended by repealing subsection (3) and substituting the following subsection:
   (3) No person is required to attend for jury service at the new venue if that venue is outside the jury district and is more than 45 km by the most practicable route from that person's place of residence.
 (5) The Juries Amendment Act 2001 (2001 No 69) is consequentially repealed.
@@ -83,10 +86,10 @@ The following section is inserted after section 14:Restrictions on use of jury p
 
 ### 11 New sections 14B and 14C inserted
 (1) The following sections are inserted before section 15:Deferral of jury serviceFurther provisions relating to deferral of jury service
-  (1) The Registrar may permit a person summoned to attend as a juror on an occasion to defer that person's attendance to a time that—
-    (a) is within 12 months after the date on which the person is required to attend under the summons; and
-    (b) is specified by the Registrar; and
-    (c) the person has indicated would be more convenient.
+  (1) The Registrar may permit a person summoned to attend as a juror on an occasion to defer that person's attendance to serve as a juror to a time within a period that—
+    (a) starts at least 8 weeks, and ends no later than 1 year, after the date on which the person is required to attend under the summons; and
+    (b) is specified by the Registrar but lasts for at least 1 month; and
+    (c) the person has indicated would be a more convenient period for the commencement of any jury service of that person that may result from the person having been summoned to attend as a juror.
   (2) However, the Registrar may exercise that power—
     (a) only in respect of a summons that is not a replacement summons under section 14C(1)(d); and
     (b) only once for each summons of that kind; and
@@ -95,28 +98,31 @@ The following section is inserted after section 14:Restrictions on use of jury p
     (a) the nature of that person's occupation or business, or of any special and pressing commitment arising in the course of that person's occupation or business:
     (b) that person's disability:
     (c) that person's state of health, or family commitments, or other personal circumstances.
-  (1) On or after accepting an application under section 14B, the Registrar must—
-    (a) record in some manner the exercise of the power of deferral in respect of the summons concerned; and
-    (b) delete the person's details from the panel that was—
+  (1) After accepting an application under section 14B, the Registrar must—
+    (a) promptly record in some way the exercise of the power of deferral in respect of the summons in relation to which the application under section 14B was made; and
+    (b) promptly delete the person's details from the panel that was—
       (i) compiled under section 13(1); and
       (ii) the basis of the issue of that summons; and
-    (c) ensure the person's details are included, in accordance with the jury rules, in a later panel compiled under section 13(1); and
-    (d) issue under section 13(1), and on the basis of the later panel compiled under that section, a replacement summons that states the time specified under section 14B(1)(b).
+    (c) if a later panel is compiled under section 13(1) because jury trials are to be held in the court and that later panel is so compiled at a time that enables the person to be summoned for jury service at a time within the period specified for the person under section 14B(1)(b), ensure the person's details are included, in accordance with the jury rules, in that later panel and promptly issue under section 13(1), and on the basis of that later panel, a replacement summons that states a time within that period; and
+    (d) if satisfied that no jury trials are to be held in the court during the period specified for the person under section 14B(1)(b) and therefore that it is unnecessary to compile under section 13(1) a later panel at a time that would enable the person to be summoned to attend for jury service at a time within that period, promptly serve on the person, in accordance with the jury rules, written notice that the person is no longer liable to serve as a juror as a result of the summons in relation to which the application under section 14B was made.
   (2) If the Registrar declines an application under section 14B, the applicant may, in accordance with the jury rules, appeal against that decision to the Court before which the applicant is summoned to appear.
   (3) The acceptance of an application under section 14B in respect of a summons does not prevent an application under section 15 or 16 in respect of a replacement summons under subsection (1)(d) of this section.
   (4) The Registrar may, if the Registrar thinks fit, treat an application under section 14B as if it were an application for excusal under section 15(1) and, if the Registrar does so, the application must be determined accordingly.
 (2) Section 13 is consequentially amended by inserting the following subsection after subsection (3):
   (3A) Subsection (3) does not apply to a person who is summoned for jury service if—
-    (a) the Registrar has, under section 14B, permitted the person to defer that person's jury service (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons issued under section 14C(1)(d)); or
+    (a) the Registrar has, following an application under section 14B, permitted the person to defer that person's jury service and—
+      (i) the person is summoned under a replacement summons issued under section 14C(1)(c) (in which case the person is liable to serve until the end of the week for which the person is summoned under the replacement summons); or
+      (ii) the Registrar has served on the person a written notice under section 14C(1)(d) (in which case the person is no longer liable to serve as a juror as a result of the summons in respect of which the application under section 14B was made); or
     (b) the Registrar has, under section 15, excused the person from jury service; or
     (c) a Judge has, under section 16, excused the person from jury service; or
     (d) a Judge has, under section 16AA, discharged the summons of the person.
 (3) Section 13(4) is consequentially amended by omitting Every and substituting Despite subsections (3) and (3A), every.
 (4) Section 16(a) is consequentially amended by inserting or to permit that person to defer jury service under section 14B after that section.
-(5) Section 35(1) is consequentially amended by repealing paragraph (d) and substituting the following paragraph:.
-  (d) prescribing the method or methods by which any of the following applications can be made:
+(5) Section 35(1) is consequentially amended by repealing paragraph (d) and substituting the following new paragraphs:.
+  (d) prescribing the method or methods by which either or both of the following applications can be made:
     (i) an application under section 14B for deferral of jury service:
     (ii) an application under section 15 or 16 to be excused from jury service:
+  (da) prescribing the method or methods of service for a written notice under section 14C(1)(d):
 
 ### 12 Registrar may excuse from jury service
 (1) Section 15 is amended by repealing subsection (1), and substituting the following subsections:
