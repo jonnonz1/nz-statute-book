@@ -1,5 +1,5 @@
 # Building Research Levy Act 1969
-_Consolidation as at 2007-09-03_
+_Consolidation as at 2010-07-07_
 
 > An Act to authorise the levying of building contractors to provide money for research into improved techniques and materials for use in the building industry
 
@@ -121,7 +121,7 @@ This Act shall bind the Crown.
 (3) At the end of each financial year, the association shall prepare an income and expenditure account showing its financial transactions for that year, together with a statement of financial position as at the last day of that year. Every such statement of financial position shall give a true and fair view of the state of affairs of the association as at the end of its financial year, and every such income and expenditure account shall give a true and fair view of the income and expenditure for that year.
 
 ### 12 Auditors and auditing of accounts
-(1) The association shall, at its annual general meeting, appoint a chartered accountant or chartered accountants (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) to hold office until its next annual general meeting as its auditor or auditors for the purpose of auditing its accounts:
+(1) The association shall, at its annual general meeting, appoint a chartered accountant or chartered accountants (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) to hold office until its next annual general meeting as its auditor or auditors for the purpose of auditing its accounts:
   Provided that no person who is an officer, member, or servant of the association shall be capable of being appointed as an auditor under this subsection.
 (2) In the event of there being a vacancy in the office of auditor due to death, resignation, removal from office for misconduct, or inability to act, the board of the association may appoint a person qualified to hold office as auditor under subsection (1) of this section to fill the vacancy until the next annual general meeting of the association. While any such vacancy continues the surviving or continuing auditor or auditors (if any) may act.
 (3) The remuneration of any auditor appointed under subsection (1) of this section shall be fixed by the association at its annual general meeting. The remuneration of any auditor appointed under subsection (2) of this section shall be fixed by the board of the association.
