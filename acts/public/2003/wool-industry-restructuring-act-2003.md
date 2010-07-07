@@ -1,5 +1,5 @@
 # Wool Industry Restructuring Act 2003
-_Consolidation as at 2008-04-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Wool Industry Restructuring Act 2003.
@@ -453,7 +453,7 @@ The following activities are specified activities for the purpose of this Act:
 
 ### 52 Appointment of auditor
 (1) The Minister may appoint a person referred to in subsection (2) as an auditor to exercise the powers in section 51 if the company so requests.
-(2) A person whom the Minister may appoint as an auditor under subsection (1) must be a chartered accountant (as defined in section 19 of the Institute of Chartered Accountants of New Zealand Act 1996).
+(2) A person whom the Minister may appoint as an auditor under subsection (1) must be a chartered accountant (as defined in section 19 of the New Zealand Institute of Chartered Accountants Act 1996).
 (3) However, the Minister must not appoint a person as an auditor who is an officer or employee of—
   (a) the company; or
   (b) a collection agent; or
