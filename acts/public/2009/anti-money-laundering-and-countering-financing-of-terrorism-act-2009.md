@@ -1,5 +1,5 @@
 # Anti-Money Laundering and Countering Financing of Terrorism Act 2009
-_Consolidation as at 2009-10-16_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Anti-Money Laundering and Countering Financing of Terrorism Act 2009.
@@ -775,7 +775,7 @@ A reporting entity’s AML/CFT programme must be based on the risk assessment un
 (2) A reporting entity must ensure its risk assessment and AML/CFT programme are audited every 2 years or at any other time at the request of the relevant AML/CFT supervisor.
 (3) The audit must be carried out by an independent person appointed by the reporting entity who is appropriately qualified to conduct the audit.
 (4) A person appointed to conduct an audit is not required to be—
-  (a) a chartered accountant within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996; or
+  (a) a chartered accountant within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996; or
   (b) qualified to undertake financial audits.
 (5) A person appointed to conduct an audit must not have been involved in—
   (a) the establishment, implementation, or maintenance of the reporting entity's AML/CFT programme:
