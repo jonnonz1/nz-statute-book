@@ -1,5 +1,5 @@
 # Court Martial Act 2007
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Court Martial Act 2007.
@@ -861,7 +861,7 @@ The enactments specified in Schedule 2 are amended in the manner indicated in th
 | 11 | Section 41(a) (striking another person subject to this Act who is of inferior rank). | Section 41(b) (ill-treating such a person otherwise than by striking him or her). |
 | 12 | Section 44(2)(a) (striking a member of the Armed Forces ordering offender into arrest). | aSection 44(2)(b) (using violence to a member of the Armed Forces ordering offender into arrest otherwise than by striking); orbSection 44(2)(c) (offering violence to any such member of the Armed Forces). |
 | 13 | Section 44(2)(b) (using violence to a member of the Armed Forces who has ordered offender into arrest). | Section 44(2)(c) (offering violence to any such member of the Armed Forces). |
-| 14 | Section 44(3)(a) (striking person who is apprehending an offender or who is holding him or her in custody). | aSection 22(3)(b) (using violence to any such person otherwise than by striking); orbSection 44(3)(c) (offering violence to any such person). |
+| 14 | Section 44(3)(a) (striking person who is apprehending an offender or who is holding him or her in custody). | aSection 44(3)(b) (using violence to any such person otherwise than by striking); orbSection 44(3)(c) (offering violence to any such person). |
 | 15 | Section 44(3)(b) (using violence to any person who is apprehending an offender or who is holding him or her in custody). | Section 44(3)(c) (offering violence to any such person). |
 | 16 | Section 46(1) (permitting the escape of prisoners and other persons in custody wilfully and without authority). | Section 46(2) (doing certain specified acts with intent to facilitate escape). |
 | 17 | Section 47 (desertion). | Section 48 (absence without leave). |
