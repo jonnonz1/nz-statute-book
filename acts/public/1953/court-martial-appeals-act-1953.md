@@ -1,5 +1,5 @@
 # Court Martial Appeals Act 1953
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to establish a Court Martial Appeal Court and to provide for appeals thereto from the Court Martial
 
@@ -75,6 +75,13 @@ _Consolidation as at 2009-07-01_
   (a) within 21 days after the date of the decision; or
   (b) within any further time that the court may allow.
 (3) For the purposes of an appeal under this section, the failure of a Judge of the Court Martial to impose any condition of bail, or any particular condition of bail, on any occasion on which the condition could lawfully have been imposed is deemed to be a refusal to impose the condition.
+(4) On an appeal under this section, the court may—
+  (a) confirm the decision; or
+  (b) vary the decision; or
+  (c) set the decision aside.
+(5) If subsection (4)(c) applies, the court may make any other decision that—
+  (a) could have been made in the first place; and
+  (b) the court thinks appropriate.
 
 ### 7 Appeal against ruling
 (1) This section applies to a ruling given by a Judge of the Court Martial on a question of law or procedure that arises during proceedings in that court.
@@ -195,7 +202,7 @@ On an appeal to the court against sentence, the court must—
 (6) If the court is satisfied that the appellant is mentally impaired, the court must—
   (a) give the appellant and the respondent an opportunity to be heard and to present evidence as to whether the appellant is unfit to stand trial; and
   (b) confirm or quash the finding relating to the appellant’s fitness to stand trial.
-(7) If the result of the appeal is that the appellant is fit to stand trial, the court must give written notice of that fact to the Director of Military Prosecutions, who may then lay before the Registrar the charge sheet that, in accordance with section 101E(c) of the Armed Forces Discipline Act 1971, he or she has previously certified in respect of the appellant.
+(7) If the result of the appeal is that the appellant is fit to stand trial, the court must give written notice of that fact to the Director of Military Prosecutions, who may then lay before the Registrar the charge sheet that, in accordance with section 101F(c) of the Armed Forces Discipline Act 1971, he or she has previously certified in respect of the appellant.
 
 ### 9F Powers of court to acquit on account of insanity on appeal against conviction
 (1) If in the case of an appeal against conviction it appears to the court that the appellant did or omitted the act constituting the offence for which he was convicted, but was at the time at which he did or omitted the act insane, the court shall—
