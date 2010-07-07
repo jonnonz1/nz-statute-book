@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2008-09-11_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1547,7 +1547,7 @@ A final cost calculation determination made under section 93C must include,—
     (ii) would not, in the opinion of the Commission, be likely to unreasonably prejudice the commercial position of the TSO provider; and
   (c) in all cases, the amount (if any) by which the total amount that the TSO provider would receive from all liable persons in relation to the TSO instrument must be reduced because the TSO provider has not complied with the TSO instrument; and
   (d) an amount payable by each liable person in relation to the TSO instrument to the TSO provider in respect of the financial year calculated in accordance with section 93F; and
-  (e) an amount payable by each liable person in relation to the TSO instrument to the TSO provider for the loss of use of the amount referred to in paragraph (c), calculated at the 90-day bank bill rate (as at the date of the final determination) for the period commencing from the end of the TSO provider's financial year and ending with the date of the final determination.
+  (e) an amount payable by each liable person in relation to the TSO instrument to the TSO provider for the loss of use of the amount referred to in paragraph (d), calculated at the 90-day bank bill rate (as at the date of the final determination) for the period commencing from the end of the TSO provider's financial year and ending with the date of the final determination.
 
 **Calculation of amount payable by liable person**
 
@@ -1563,7 +1563,7 @@ The amount payable by a liable person in relation to a TSO instrument that must 
     (f) is the net cost referred to in section 93E(a).
 
 ### 94 Payment by liable persons to TSO provider
-(1) A liable person in relation to a TSO instrument must pay to the TSO provider the amounts set out in the determination under section 92(f) and (g) not later than 20 working days after the date of the determination.
+(1) A liable person in relation to a TSO instrument must pay to the TSO provider the amounts set out in the determination under section 93E(d) and (e) not later than 20 working days after the date of the determination.
 (2) Any amount that is not paid, under subsection (1), to the TSO provider by a liable person in relation to a TSO instrument before the expiration of the 20-working day period is recoverable in any court of competent jurisdiction as a debt due to the TSO provider.
 (3) If a liable person has not paid the whole amount referred to in subsection (1) before the expiration of the 20-working day period, the liable person must pay to the TSO provider interest on the unpaid amount at the 90-day bank bill rate (as at 21 working days after the date of the determination), plus 5% for the period commencing on that working day to the date of payment of the whole amount.
 (4) Subsection (3) does not authorise the giving of interest upon interest.
