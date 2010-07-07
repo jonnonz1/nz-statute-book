@@ -1,5 +1,5 @@
 # New Zealand Superannuation and Retirement Income Act 2001
-_Consolidation as at 2010-05-28_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the New Zealand Superannuation and Retirement Income Act 2001.
@@ -182,10 +182,10 @@ However, every person to whom section 17(2)(a) or (b) applies is entitled to rec
 ### 20 Special disability allowance
 (1) This section applies if—
   (a) a person receives New Zealand superannuation; and
-  (b) the person’s spouse or partner is either—
-    (i) a patient in a hospital as defined in section 19; or
-    (ii) a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964) in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or section 142 of that Act; and
-  (c) that spouse or partner receives a reduced benefit under section 19(4) or (5).
+  (b) the person's spouse or partner is either—
+    (i) a patient in a hospital (as defined in section 19(1)) who is in receipt of a reduced benefit under section 19(4) or (6); or
+    (ii) a resident assessed as requiring care (as defined in section 136 of the Social Security Act 1964), and in respect of whom a funder (as defined in that section) is paying some or all of the cost of contracted care services (as defined in that section) under section 141 or 142 of that Act.
+  (c)
 (2) The chief executive must grant a special disability allowance at the rate stated in clause 4 of Schedule 1, for the purpose of defraying expenses arising from the spouse’s or partner’s hospitalisation.
 (3) This section applies despite anything in section 69C of the Social Security Act 1964 but subject to section 68A of that Act.
 
