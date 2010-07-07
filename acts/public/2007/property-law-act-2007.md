@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2008-09-25_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -1345,8 +1345,13 @@ A term has no effect if it—
 (1) A mortgagee who exercises a power to enter into possession of mortgaged land or goods in accordance with section 137 becomes a mortgagee in possession of the land or goods on the earlier of—
   (a) the date on which the mortgagee enters into, or takes, physical possession of the land or goods; or
   (b) the date on which the mortgagee first receives any income from the land or goods as mortgagee in possession; or
-  (c) the date of an application to the court for an order for possession of the land or goods by the mortgagee if the court makes the order.
+  (c) the date of the mortgagee's application to the court for the order if—
+    (i) the mortgagee applies to the court for an order for possession of the land or goods; and
+    (ii) the court, in response to the mortgagee's application, makes the order.
 (2) A reference to the date or time of entry into possession of land or goods by a mortgagee in possession has a corresponding meaning.
+(3) Despite subsections (1) and (2), sections 156, 162, and 163 apply to a mortgagee who becomes a mortgagee in possession under subsection (1)(c) of this section—
+  (a) as if the references in sections 156(1) and 162(1) to the mortgagee's entering into possession were references to the making of the order for possession of the land or goods by the mortgagee; and
+  (b) as if the references in sections 156(1)(b) and (c) and 163(1)(a) to the date of entry into possession were references to the date of the making of that order.
 
 ### 140 Mortgagees in possession of accounts receivable
 (1) For the purposes of this Part, a mortgagee under a mortgage over accounts receivable who is entitled to receive payment of accounts receivable must be treated as becoming a mortgagee in possession of the accounts receivable on the date on which the mortgagee first requires payment from any debtor.
