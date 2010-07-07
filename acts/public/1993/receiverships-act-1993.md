@@ -1,5 +1,5 @@
 # Receiverships Act 1993
-_Consolidation as at 2008-01-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to reform the law relating to receivers
 
@@ -10,43 +10,43 @@ _Consolidation as at 2008-01-01_
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
   - **account receivable** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **Company** has the same meaning as in—as the case may be; and includes an overseas company
+  - **company** has the same meaning as in—as the case may be; and includes an overseas company
     (a) Section 2 of the Companies Act 1955; or
     (b) Section 2 of the Companies Act 1993,—
   - **Court** means the High Court
-  - **Creditor** includes a person to whom the grantor owes a debt or is under a liability, whether present or future, certain or contingent, and whether an ascertained debt or liability or a liability in damages
-  - **Director** , in relation to—but does not include a receiver
+  - **creditor** includes a person to whom the grantor owes a debt or is under a liability, whether present or future, certain or contingent, and whether an ascertained debt or liability or a liability in damages
+  - **director** , in relation to—but does not include a receiver
     (a) A company within the meaning of section 2 of the Companies Act 1955 or a company within the meaning of section 2 of the Companies Act 1993, as the case may be, includes—
       (i) Any person occupying the position of director of the company by whatever name called; and
       (ii) A person in accordance with whose directions or instructions a person referred to in subparagraph (i) of this paragraph may be required or is accustomed to act; and
       (iii) A person in accordance with whose directions or instructions the board of the company may be required or is accustomed to act:
     (b) An overseas company, includes an agent, officer, or employee responsible in New Zealand for the business of the overseas company:
     (c) Any other body corporate, means a person having functions similar to those of a director of a company;—
-  - **Document** means a document in any form; and includes—
+  - **document** means a document in any form; and includes—
     (a) Any writing on material; and
     (b) Information recorded or stored by means of a tape-recorder, computer, or other device; and material subsequently derived from information so recorded or stored; and
     (c) A book, graph, or drawing; and
     (d) A photograph, film, negative, tape, or other device in which one or more visual images are embodied so as to be capable (with or without the aid of equipment) of being reproduced:
-  - **Grantor** means the person in respect of whose property a receiver is, or may be, appointed
+  - **grantor** means the person in respect of whose property a receiver is, or may be, appointed
   - **inventory** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **Liquidator** means a liquidator appointed under Part 6 of the Companies Act 1955 or under Part 16 of the Companies Act 1993, as the case may be; and has a corresponding meaning
+  - **liquidator** means a liquidator appointed under Part 6 of the Companies Act 1955 or under Part 16 of the Companies Act 1993, as the case may be; and has a corresponding meaning
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
-  - **Mortgage** includes a charge on property for securing money or money's worth
-  - **Mortgagee** includes a person from time to time deriving title under the original mortgagee; but does not include a receiver
+  - **mortgage** includes a charge on property for securing money or money's worth
+  - **mortgagee** includes a person from time to time deriving title under the original mortgagee; but does not include a receiver
   - **new value** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
   - **Official Assignee** means, in relation to the estate of a bankrupt, any Official Assignee or Deputy Assignee appointed under the Insolvency Act 2006 and having charge of that estate
-  - **Overseas company** means a company incorporated outside New Zealand
-  - **Preferential claims** means the claims referred to in Schedule 7 to the Companies Act 1993 (except clause 1(1) of that Schedule)
+  - **overseas company** means a company incorporated outside New Zealand
+  - **preferential claims** means the claims referred to in Schedule 7 to the Companies Act 1993 (except clause 1(1) of that Schedule)
   - **proceeds** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **Property** includes—
+  - **property** includes—
     (a) Real and personal property:
     (b) An estate or interest in real or personal property:
     (c) A debt:
     (d) Any thing in action:
     (e) Any other right or interest:
-  - **Property in receivership** means property in respect of which a receiver is appointed
+  - **property in receivership** means property in respect of which a receiver is appointed
   - **purchase money security interest** has the same meaning as in section 16(1) of the Personal Property Securities Act 1999
-  - **Receiver** means a receiver, or a manager, or a receiver and manager in respect of any property appointed—whether or not the person appointed is empowered to sell any of the property in receivership; but does not include—
+  - **receiver** means a receiver, or a manager, or a receiver and manager in respect of any property appointed—whether or not the person appointed is empowered to sell any of the property in receivership; but does not include—
     (a) By or under any deed or agreement; or
     (b) By the Court in the exercise of a power conferred on the Court or in the exercise of its inherent jurisdiction—
     (c) a mortgagee who, whether personally or through an agent, exercises a power to—
@@ -456,7 +456,7 @@ In section 37 of this Act, failure to comply in relation to a receiver means a f
   (f) A creditor of the grantor:
   (g) A guarantor of an obligation of the grantor:
   (h) If the grantor is a company, a liquidator of the grantor:
-  (i) If the receiver is a chartered accountant, the President of the Institute of Chartered Accountants of New Zealand:
+  (i) If the receiver is a chartered accountant, the President of the New Zealand Institute of Chartered Accountants:
   (j) If the receiver is a barrister and solicitor or a solicitor, the President of the New Zealand Law Society:
   (k) If the grantor is a person who has been adjudged bankrupt, the Official Assignee of the estate of the grantor.
 (2) An application for an order under this section may be made by a receiver of the property of a grantor in relation to a failure to comply by another receiver of the property of the grantor.
@@ -506,7 +506,7 @@ The Court may, on making an order that removes, or has the effect of removing, a
   (b) Make it a condition of the further supply of the service to a receiver or to the owner of property in receivership that payment be made of outstanding charges due for the service in relation to a period before the date of the appointment of the receiver; or
   (c)
 
-## Part  — Local authorities
+**Local authorities**
 
 ### 40A Instrument may provide for appointment of receiver
 Subject to the Personal Property Securities Act 1999, and without limiting any other rights or remedies of the holder of a charge over any asset of a local authority, an instrument creating or evidencing the terms and conditions of the charge may provide for the appointment of a receiver of such assets in such terms as the parties may agree and the holder of that charge may exercise any such other rights or use any such other remedies.
