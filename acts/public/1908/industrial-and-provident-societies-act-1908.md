@@ -1,5 +1,5 @@
 # Industrial and Provident Societies Act 1908
-_Consolidation as at 2007-09-20_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate certain enactments of the General Assembly relating to industrial and provident societies
 
@@ -300,7 +300,7 @@ With respect to penalties under this Act the following provisions shall have eff
 ### 19 Appointment of auditors
 (1) Any registered society may from time to time appoint an auditor or auditors of the society.
 (1A) Whenever any registered society has no auditor the Registrar may, on the application of any member of the society, appoint an auditor of the society. The remuneration of an auditor appointed by the Registrar may be fixed by the Registrar.
-(2) No person shall be qualified for appointment under this section as auditor of a registered society unless he is a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996).
+(2) No person shall be qualified for appointment under this section as auditor of a registered society unless he is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996).
 (3) Nothing in this section shall be construed to limit or affect in any way any provision in the rules of a registered society for the appointment, in accordance with those rules, of 2 or more persons as auditors of the society, and nothing in subsection (2) of this section shall apply to any person so appointed.
 
 ### 20 Fees
