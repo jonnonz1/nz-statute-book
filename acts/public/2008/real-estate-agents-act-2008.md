@@ -1,5 +1,5 @@
 # Real Estate Agents Act 2008
-_Consolidation as at 2008-09-16_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Real Estate Agents Act 2008.
@@ -575,7 +575,7 @@ The Registrar may at any time make any amendments to the register that are neces
   (b) correct a mistake caused by any error or omission on the part of the Registrar or any person to whom the Registrar has delegated his or her functions, duties, or powers.
 
 ### 69 Search of register
-(1) A person may search the register, on payment of the prescribed fee, for a purpose set out in section 64.
+(1) A person may search the register, on payment of the prescribed fee (if any), for a purpose set out in section 64.
 (2) The Registrar must make the register available for public inspection—
   (a) during the hours when the office of the Registrar is open to the public for the transaction of business on a working day; and
   (b) at any other time that the Registrar allows.
@@ -1211,7 +1211,7 @@ A person commits an offence who, without reasonable excuse,—
   (g) prescribing any act or thing necessary to supplement or render more effectual the provisions of this Act as to the conduct of proceedings before the Disciplinary Tribunal:
   (h) prescribing for the appointment of auditors, auditing requirements, and conferring such powers, including the power of inspection of documents and records, as may be necessary or desirable for the purposes of carrying out an audit; and
   (i) prescribing the form in which a client’s consent must be given for the purposes of section 134:
-  (j) prescribing any form of proof of identity that is acceptable for the purposes of section 138:
+  (j)
   (k) prescribing offences in respect of the contravention of or non-compliance with any regulations made under this Act, and setting the maximum penalty for each offence, which—
     (i) in the case of an individual, may not exceed $25,000; or
     (ii) in the case of a company, may not exceed $50,000:
