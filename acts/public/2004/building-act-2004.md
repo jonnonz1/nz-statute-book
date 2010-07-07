@@ -1,5 +1,5 @@
 # Building Act 2004
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Building Act 2004.
@@ -2189,25 +2189,27 @@ In sections 177 to 190, party, in relation to a determination, means any or all 
   (g) any person or organisation who or that has a right or an obligation under any other Act to give written notice to a territorial authority in respect of matters to which this Act relates.
 
 ### 177 Application for determination
-A party may apply to the chief executive for a determination in relation to 1 or more of the following matters:
+(1) A party may apply to the chief executive for a determination in relation to either or both of the following:
   (a) whether particular matters comply with the building code:
-  (b) a building consent authority's decision to—
-    (i) issue, or refuse to issue, a building consent, code compliance certificate, or compliance schedule; or
-    (ii) refuse to allow, under section 52(b), an extension of the period during which building work must be commenced before a building consent lapses; or
-    (iii) issue a notice to fix; or
-    (iv) refuse to allow, under section 93(2)(b)(ii), an extension of the period during which the building consent authority must decide whether or not to issue a code compliance certificate; or
-    (v) amend a building consent, notice to fix, or code compliance certificate; or
-    (vi) impose a condition on a notice to fix or compliance schedule or to amend that condition:
-  (c) a territorial authority's decision to—
-    (i) grant or refuse a waiver or modification of the building code under section 67; or
-    (ii) issue, or refuse to issue, a certificate of acceptance under section 96; or
-    (iia) grant or refuse an exemption from building consent requirements under paragraph (k) of Schedule 1; or
-    (iii) amend a compliance schedule under section 106 or section 107; or
-    (iiia) issue or refuse to issue a certificate for public use under section 363A; or
-    (iv) issue, amend, or impose a condition on a notice to fix:
-  (d) the exercise by a territorial authority of its powers under sections 112 and 115 to 116 (which relate to alterations to, or changes in the use of, a building) and the issue by a territorial authority of a certificate under section 224(f) of the Resource Management Act 1991:
-  (e) the exercise by a territorial authority of its powers under section 124 or section 129 (which relate to dangerous, earthquake-prone, and insanitary buildings) or the failure to exercise those powers:
-  (f) the exercise by a regional authority of its powers in relation to a dam or the failure to exercise those powers.
+  (b) the exercise, failure or refusal to exercise, or proposed or purported exercise by an authority in subsection (2), (3), or (4) of a power of decision to which this paragraph applies by virtue of that subsection.
+(2) Subsection (1)(b) applies to any power of decision of a building consent authority in respect of all or any of the following:
+  (a) a building consent:
+  (b) an extension under section 52(b) of the period during which building work must be commenced before a building consent lapses:
+  (c) an extension under section 93(2)(b)(ii) of the period during which the authority must decide whether to issue a code compliance certificate:
+  (d) a code compliance certificate:
+  (e) a compliance schedule:
+  (f) a notice to fix.
+(3) Subsection (1)(b) applies to any power of decision of a territorial authority in respect of, or under, all or any of the following:
+  (a) any waiver or modification of the building code under section 67:
+  (b) a certificate of acceptance under section 96:
+  (c) an exemption from building consent requirements under paragraph (k) of Schedule 1:
+  (d) an amendment to a compliance schedule under section 106, 107, or 109:
+  (e) a notice to fix:
+  (f) sections 112, 113, 115, and 116 (which relate to alterations to, or changes in the use of, a building) and 124 and 129 (which relate to dangerous, earthquake-prone, and insanitary buildings):
+  (g) a certificate for public use under section 363A:
+  (h) a certificate under section 224(f) of the Resource Management Act 1991.
+(4) Subsection (1)(b) applies to any power of decision under this Act of a regional authority in respect of a dam.
+(5) Nothing in this section limits or affects section 70(4) or 446(1)(c).
 
 ### 178 Requirements for application for determination
 (1) An application for a determination must—
@@ -2486,12 +2488,13 @@ An authorised person supplied with a warrant under section 206—
 ### 208 Appeals to District Court
 (1) The persons referred to in subsection (2) may appeal to a District Court against—
   (a) a determination by the chief executive under section 188; or
+  (aa) a written direction given by the chief executive under section 190 to the applicant or another party, and requiring that person to meet some or all of the other party's costs in respect of, or in respect of an application for, a determination against which all or any of the persons referred to in subsection (2) have made an appeal under paragraph (a) (whether or not that appeal has been determined); or
   (b) the chief executive's decision to—
     (i) decline to register the person as a building consent authority; or
     (ii) take any action referred to in section 203; or
     (iii) refuse to issue a national multiple-use approval.
 (2) The persons are,—
-  (a) in the case of an appeal under subsection (1)(a),—
+  (a) in the case of an appeal under subsection (1)(a) or (aa),—
     (i) the applicant for the determination; or
     (ii) any other party; or
   (b) in the case of an appeal under subsection (1)(b)(i), the applicant for registration; or
@@ -2502,6 +2505,7 @@ An authorised person supplied with a warrant under section 206—
 (1) An appeal under section 208 must be made—
   (a) by the appellant filing a notice of appeal with the Registrar of the District Court within 15 working days after,—
     (i) in the case of an appeal under section 208(1)(a), the date of the determination or the date on which the chief executive amends the determination by way of clarification under section 189; or
+    (ia) in the case of an appeal under section 208(1)(aa), the date of the written direction given by the chief executive under section 190; or
     (ii) in the case of an appeal under section 208(1)(b), the date of the relevant decision of the chief executive; and
   (b) otherwise in accordance with the District Courts Rules (except to any extent that those rules are inconsistent with this section).
 (2) The Registrar of the District Court may extend the time for making an appeal under section 208(1)(a) if the chief executive amends the determination by way of clarification under section 189.
@@ -2509,7 +2513,7 @@ An authorised person supplied with a warrant under section 206—
 ### 210 Steps after appeal is commenced
 (1) Either before or immediately after an appeal under section 208 is made, the appellant must serve a copy of the notice of appeal on—
   (a) the chief executive; and
-  (b) in the case of an appeal under section 208(1)(a), any other party.
+  (b) in the case of an appeal under section 208(1)(a) or (aa), any other party.
 (2) A person served with the notice under subsection (1) who wishes to appear on the appeal must give notice of the person's intention to appear to—
   (a) the appellant; and
   (b) the Registrar of the District Court; and
@@ -2518,11 +2522,11 @@ An authorised person supplied with a warrant under section 206—
 
 ### 211 Powers of District Court on appeal
 (1) On the hearing of an appeal under section 208, a District Court may—
-  (a) confirm, reverse, or modify the determination or decision of the chief executive; or
+  (a) confirm, reverse, or modify the determination, direction, or decision of the chief executive; or
   (b) refer the matter back to the chief executive in accordance with the rules of court; or
-  (c) make any determination or decision that the chief executive could have made in respect of the matter.
-(2) This section does not give the District Court power to review any part of the chief executive's determination or decision other than the part against which the appellant has appealed.
-(3) Subject to any order of the District Court, every determination and decision of the chief executive against which an appeal is made continues in force and has effect according to its tenor pending the determination of the appeal.
+  (c) make or give any determination, direction, or decision that the chief executive could have made or given in respect of the matter.
+(2) This section does not give the District Court power to review any part of the chief executive's determination, direction, or decision other than the part against which the appellant has appealed.
+(3) Subject to any order of the District Court, every determination, direction, and decision of the chief executive against which an appeal is made continues in force and has effect according to its tenor pending the determination of the appeal.
 (4) The decision of the District Court on an appeal is final.
 
 ### Subpart 2 — Responsibilities of territorial authorities
@@ -3063,7 +3067,7 @@ An application for accreditation under section 263 must—
   (d) the building code no longer applies to the building method or product because of an amendment to the code.
 (2) A product certification body that, or chief executive who, suspends a product certificate must—
   (a) give the proprietor of the building method or product a reasonable period to rectify the matter that led to the suspension of the product certificate; and
-  (b) lift the suspension if it or he or she is satisfied that the product certification body has rectified the matter within that period.
+  (b) lift the suspension if it or he or she is satisfied that the proprietor of the building method or product has rectified the matter within that period.
 (3) A product certification body or the chief executive may revoke the product certificate at the expiry of the period given in subsection (2) if, within that period, the proprietor of the building method or product has not rectified the matter that led to the suspension of the product certificate.
 (4) Despite subsections (1) and (3), the product certification body or the chief executive must not suspend or revoke a product certificate if—
   (a) the prescribed criteria and standards for certification are amended; and
@@ -4304,7 +4308,7 @@ The Acts and Regulations Publication Act 1989 does not apply to material incorpo
 
 ### 412 Application of Regulations (Disallowance) Act 1989 to material incorporated by reference
 (1) Nothing in section 4 of the Regulations (Disallowance) Act 1989 requires material that is incorporated by reference in an instrument made or issued under this Act to be laid before the House of Representatives.
-(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1), applies to an instrument made or issued under this Act that incorporates material by reference.
+(2) The Regulations (Disallowance) Act 1989, apart from the modification to the application of section 4 of that Act made by subsection (1), applies to an instrument made or issued under this Act (other than a compliance document) that incorporates material by reference.
 
 ### 413 Application of Standards Act 1988 not affected
 Sections 405 to 412 do not affect the application of sections 22 to 25 of the Standards Act 1988.
