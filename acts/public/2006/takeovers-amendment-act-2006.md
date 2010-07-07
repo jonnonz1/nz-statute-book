@@ -1,5 +1,5 @@
 # Takeovers Amendment Act 2006
-_Consolidation as at 2008-02-29_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Takeovers Amendment Act 2006.
@@ -397,8 +397,8 @@ The following Part is added after rule 63:Market manipulationMisleading or decep
 
 ### 31 Transitional provision for acquisitions made or committed to before commencement of this section
 No amendment made by this Act requires a person to comply with the principal Act or the code—
-  (a) by reason only of the fact that, on the commencement of this section, a particular proportion of securities have been acquired in a specified company, whether by that person or any other person before the commencement of this section; or
-  (b) by reason of the acquisition of securities in a specified company, whether by that person or any other person, on or after the commencement of this section, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the commencement of this section.
+  (a) by reason only of the fact that, on the commencement of this section, a particular proportion of securities have been acquired in a code company, whether by that person or any other person before the commencement of this section; or
+  (b) by reason of the acquisition of securities in a code company, whether by that person or any other person, on or after the commencement of this section, if the acquisition arises from the performance of a contractual obligation incurred, or the exercise of a right acquired, before the commencement of this section.
 
 ### 32 Transitional provision for existing offences and contraventions
 (1) The principal Act and the code continue to have effect as if they were not amended by this Act for the purpose of—
