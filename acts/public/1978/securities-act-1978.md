@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2009-11-24_
+_Consolidation as at 2010-07-07_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
@@ -9,69 +9,65 @@ _Consolidation as at 2009-11-24_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Advertisement** has the meaning set out in section 2A of this Act
-  - **Allot** includes sell, issue, assign, and convey; and has a corresponding meaning
-  - **Approved superannuation scheme**
-  - **Associated persons** or are—
-    (a) Persons who are relatives within the meaning of the Income Tax Act 2007; or
-    (b) Persons who are partners to whom the Partnership Act 1908 applies; or
-    (c) Bodies corporate that consist substantially of the same members or shareholders or that are under the control of the same persons; or
-    (d) A body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25 percent or more of the voting securities of the body corporate; or
-    (e) A body corporate and a person who is a director of the body corporate:
-  - **Authorised advertisement** has the meaning assigned to it by section 38 or section 38AA of this Act
-  - **Authorised life insurance company**
-  - **Bonus bond** means a unit in an approved unit trust within the meaning of section 3(1) of the Finance Act (No 2) 1990
-  - **Books and papers**
-  - **Building society** has the same meaning as in section 2(1) of the Building Societies Act 1965
+  - **advertisement** has the meaning set out in section 2A of this Act
+  - **allot** includes sell, issue, assign, and convey; and has a corresponding meaning
+  - **associated persons** or are—
+    (a) persons who are relatives within the meaning of the Income Tax Act 2007; or
+    (b) persons who are partners to whom the Partnership Act 1908 applies; or
+    (c) bodies corporate that consist substantially of the same members or shareholders or that are under the control of the same persons; or
+    (d) a body corporate and a person who has the power, directly or indirectly, to exercise, or control the exercise of, the rights to vote attached to 25 percent or more of the voting securities of the body corporate; or
+    (e) a body corporate and a person who is a director of the body corporate:
+  - **authorised advertisement** has the meaning assigned to it by section 38 or section 38AA of this Act
+  - **bonus bond** means a unit in an approved unit trust within the meaning of section 3(1) of the Finance Act (No 2) 1990
+  - **building society** has the same meaning as in section 2(1) of the Building Societies Act 1965
   - **chattel** includes livestock and emissions units, but does not include a book debt or negotiable instrument
   - **civil liability event** has the meaning set out in section 55B
   - **Commission** —
     (a) means the Securities Commission established under Part 1; or
     (b) for the purposes of determining any matter or class of matter specified in a determination under section 14B, means the division of the Commission specified in the determination in accordance with section 14D(1)(a).
   - **company** means a company, or an overseas company, within the meaning of section 2(1) of the Companies Act 1993
-  - **Contributory mortgage** means a mortgage of land that—and, for the purposes of this definition, money owing to not more than 5 persons as joint tenants shall be deemed to be owed to one person
-    (a) Secures money owing to 2 or more persons or to a nominee on behalf of 2 or more persons, whether or not the mortgage originally secured money owing to only one person; or
-    (b) Has the same priority in respect of the land as another mortgage or mortgages of that land;—
-  - **Contributory mortgage broker** means a person (not being a mortgagor under the mortgage or any other person to whom or for whose benefit any money is lent in consideration for the mortgage given by the mortgagor) who—
-    (a) Offers an interest in a contributory mortgage to the public for subscription; or
-    (b) Manages interests in a contributory mortgage, being interests that have been offered to the public for subscription, whether or not that person holds beneficially any interest in that mortgage:
-  - **Contributory scheme** means any scheme or arrangement that, in substance and irrespective of the form thereof, involves the investment of money in such circumstances that—but does not include such a scheme or arrangement if the number of investors therein does not exceed 5, and neither a manager of the scheme nor any associated person is a manager of any other such scheme or arrangement
-    (a) The investor acquires or may acquire an interest in or right in respect of property; and
-    (b) Pursuant to the terms of investment that interest or right will or may be used or exercised in conjunction with any other interest in or right in respect of property acquired in like circumstances, whether at the same time or not;—
-  - **Convertible note** has the same meaning as in section YA 1 of the Income Tax Act 2007
-  - **Co-operative company** means—
-    (a) A company registered as a co-operative company under the Co-operative Companies Act 1956 or the Co-operative Companies Act 1996; or
-    (b) A company registered as a co-operative dairy company under the Co-operative Dairy Companies Act 1949 or Part 3 of the Co-operative Companies Act 1996; or
-    (c) A company registered as a co-operative freezing company under the Co-operative Freezing Companies Act 1960; or
-    (d) A company registered as a co-operative forestry company under the Co-operative Forestry Companies Act 1978:
+  - **contributory mortgage** means a mortgage of land that—and, for the purposes of this definition, money owing to not more than 5 persons as joint tenants shall be deemed to be owed to one person
+    (a) secures money owing to 2 or more persons or to a nominee on behalf of 2 or more persons, whether or not the mortgage originally secured money owing to only one person; or
+    (b) has the same priority in respect of the land as another mortgage or mortgages of that land;—
+  - **contributory mortgage broker** means a person (not being a mortgagor under the mortgage or any other person to whom or for whose benefit any money is lent in consideration for the mortgage given by the mortgagor) who—
+    (a) offers an interest in a contributory mortgage to the public for subscription; or
+    (b) manages interests in a contributory mortgage, being interests that have been offered to the public for subscription, whether or not that person holds beneficially any interest in that mortgage:
+  - **contributory scheme** means any scheme or arrangement that, in substance and irrespective of the form thereof, involves the investment of money in such circumstances that—but does not include such a scheme or arrangement if the number of investors therein does not exceed 5, and neither a manager of the scheme nor any associated person is a manager of any other such scheme or arrangement
+    (a) the investor acquires or may acquire an interest in or right in respect of property; and
+    (b) pursuant to the terms of investment that interest or right will or may be used or exercised in conjunction with any other interest in or right in respect of property acquired in like circumstances, whether at the same time or not;—
+  - **convertible note** has the same meaning as in section YA 1 of the Income Tax Act 2007
+  - **co-operative company** means—
+    (a) a company registered as a co-operative company under the Co-operative Companies Act 1956 or the Co-operative Companies Act 1996; or
+    (b) a company registered as a co-operative dairy company under the Co-operative Dairy Companies Act 1949 or Part 3 of the Co-operative Companies Act 1996; or
+    (c) a company registered as a co-operative freezing company under the Co-operative Freezing Companies Act 1960; or
+    (d) a company registered as a co-operative forestry company under the Co-operative Forestry Companies Act 1978
   - **Court** means, in relation to any matter, the Court before which the matter is to be determined.
   - **The Crown** includes a Government department
-  - **Date of a balance sheet** or
-  - **Date of a prospectus** means the date specified on a prospectus pursuant to section 39(1)(a)
-  - **Date of a registered prospectus** means the date specified on a registered prospectus pursuant to section 39(1)(a)
-  - **Date of a statement of financial position** or means the date as at which the statement of affairs contained in the statement of financial position or interim statement of financial position has been drawn up
-  - **Debt security** means any interest in or right to be paid money that is, or is to be, deposited with, lent to, or otherwise owing by, any person (whether or not the interest or right is secured by a charge over any property); and includes—but does not include—
-    (a) A debenture, debenture stock, bond, note, certificate of deposit, and convertible note; and
-    (b) An interest or right that is declared by regulations to be a debt security for the purposes of this Act; and
-    (c) A renewal or variation of the terms or conditions of any such interest or right or of a security referred to in paragraph (a) or paragraph (b) of this definition;—
-    (d) An interest in a contributory mortgage where the interest is offered by a contributory mortgage broker; or
-    (e) Any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be a debt security for the purposes of this Act:
+  - **date of a prospectus** means the date specified on a prospectus pursuant to section 39(1)(a)
+  - **date of a registered prospectus** means the date specified on a registered prospectus pursuant to section 39(1)(a)
+  - **date of a statement of financial position** or means the date as at which the statement of affairs contained in the statement of financial position or interim statement of financial position has been drawn up
+  - **debt security** means any interest in or right to be paid money that is, or is to be, deposited with, lent to, or otherwise owing by, any person (whether or not the interest or right is secured by a charge over any property); and includes—but does not include—
+    (a) a debenture, debenture stock, bond, note, certificate of deposit, and convertible note; and
+    (b) an interest or right that is declared by regulations to be a debt security for the purposes of this Act; and
+    (c) a renewal or variation of the terms or conditions of any such interest or right or of a security referred to in paragraph (a) or paragraph (b) of this definition;—
+    (d) an interest in a contributory mortgage where the interest is offered by a contributory mortgage broker; or
+    (e) any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be a debt security for the purposes of this Act:
   - **delayed allotment order** means an order made by the Commission under section 44A(2) or (3) that delays the date of allotment of a security that is offered in a simplified disclosure prospectus
   - **Director** means—
-    (a) In relation to a company, any person occupying the position of a director of the company by whatever name called:
-    (b) In relation to a partnership (other than a special partnership or limited partnership), any partner:
-    (c) In relation to a special partnership or limited partnership, any general partner:
-    (d) In relation to a body corporate or unincorporate, other than a company, partnership, or special partnership or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company:
-    (e) In relation to any other person, that person:
+    (a) in relation to a company, any person occupying the position of a director of the company by whatever name called:
+    (b) in relation to a partnership (other than a special partnership or limited partnership), any partner:
+    (c) in relation to a special partnership or limited partnership, any general partner:
+    (d) in relation to a body corporate or unincorporate, other than a company, partnership, or special partnership or limited partnership, any person occupying a position in the body that is comparable with that of a director of a company:
+    (e) in relation to any other person, that person:
   - **disclosure obligation** means—
     (a) the requirements of the continuous disclosure provisions as defined in section 19D of the Securities Markets Act 1988; and
     (b) any obligation that—
       (i) requires ongoing disclosure of information to the public or to a person who has a role in monitoring the person who disclosed the information; and
       (ii) is imposed by an enactment; and
       (iii) is specified in the regulations
-  - **Distribute** includes—
-    (a) Make available, publish, and circulate; and
-    (b) Communicate by letter, newspaper, broadcasting, sound recording, television, cinematographic film, video, or any form of electronic or other means of communication:
+  - **distribute** includes—
+    (a) make available, publish, and circulate; and
+    (b) communicate by letter, newspaper, broadcasting, sound recording, television, cinematographic film, video, or any form of electronic or other means of communication:
   - **document** means any record of information; and includes—
     (a) anything on which there is writing or any image; and
     (b) information recorded by means of any article or device (for example, a disk) from which information is capable of being reproduced with or without the aid of any other article or device; and
@@ -85,201 +81,200 @@ _Consolidation as at 2009-11-24_
       (ii) can be surrendered, retired, cancelled, or otherwise used to—
         (A) offset greenhouse gas emissions under, or otherwise comply with, any enactment (whether of New Zealand, another country, or any jurisdiction of any country), rule of law, contractual provision, or international treaty or protocol; or
         (B) enable a person who surrenders, retires, cancels, or otherwise uses it to claim an environmental benefit
-  - **Equity security** means any interest in or right to a share in, or in the share capital of, a company; and includes—but does not include any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be an equity security for the purposes of this Act
-    (a) A preference share, and company stock; and
-    (b) A security that is declared by regulations to be an equity security for the purposes of this Act; and
-    (c) A renewal or variation of the terms or conditions of any such interest or right or a security referred to in paragraph (a) or paragraph (b) of this definition;—
-  - **Expert** means any person who holds himself or herself out to be of a profession or calling that gives authority to a statement made by him or her; but does not include a person acting in his or her capacity as an auditor or as a director or officer of a body
+  - **equity security** means any interest in or right to a share in, or in the share capital of, a company; and includes—but does not include any such interest or right or a security referred to in paragraph (a) or paragraph (c) of this definition that is declared by regulations not to be an equity security for the purposes of this Act
+    (a) a preference share, and company stock; and
+    (b) a security that is declared by regulations to be an equity security for the purposes of this Act; and
+    (c) a renewal or variation of the terms or conditions of any such interest or right or a security referred to in paragraph (a) or paragraph (b) of this definition;—
+  - **expert** means any person who holds himself or herself out to be of a profession or calling that gives authority to a statement made by him or her; but does not include a person acting in his or her capacity as an auditor or as a director or officer of a body
   - **Government department** includes—
     (a) the Maori Trustee; and
     (b) Public Trust, but in relation only to money constituted in the common fund of Public Trust that is entitled to the protection against deficiency afforded by section 52 of the Public Trust Act 2001.
   - **greenhouse gas** has the meaning set out in section 31 of the Climate Change Response Act 2002
-  - **Interest in a superannuation scheme** means an interest or right to participate in any capital, assets, earnings, or other property of a superannuation scheme; and includes—but does not include any such interest or right, or a security referred to in paragraph (b) of this definition, that is declared by regulations not to be an interest in a superannuation scheme for the purposes of this Act
-    (a) Any interest or right that is declared by regulations to be an interest in a superannuation scheme for the purposes of this Act; and
-    (b) Any renewal or variation of the terms or conditions of any such interest or right or a security referred to in paragraph (a) of this definition;—
-  - **Investment statement** has the meaning set out in section 38C of this Act
-  - **Issuer** means,—
-    (a) In relation to an equity security or a debt security, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to an equity security or a debt security, or to a trust deed that relates to a debt security, the person on whose behalf any money paid in consideration of the allotment of the security is received:
-    (b) In relation to a participatory security, or to an advertisement, investment statement, prospectus, or registered prospectus, or to a deed of participation that relates to a participatory security, the manager:
-    (c) In relation to an interest in a contributory mortgage offered by a contributory mortgage broker, or to an advertisement that relates to such an interest, the contributory mortgage broker:
-    (d) In relation to a unit in a unit trust, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such a unit, the manager:
-    (e) In relation to a life insurance policy, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to a life insurance policy, the life insurance company that is liable under the policy:
-    (f) In relation to an interest in a superannuation scheme, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such an interest, the superannuation trustee of the scheme:
-  - **Labour share**
-  - **Life insurance company** means any person or association of persons, whether incorporated or unincorporated, which, in the course of business issues, or is liable under, life insurance policies
-  - **Life insurance policy** means a policy of life or endowment insurance, or a policy securing an annuity; and includes—but does not include any such policy, or a security referred to in paragraph (b) of this definition, or a term life insurance policy (within the meaning of regulations) that is declared by regulations not to be a life insurance policy for the purposes of this Act
-    (a) A policy of insurance that is declared by regulations to be a life insurance policy for the purposes of this Act; and
-    (b) A renewal or variation of the terms or conditions of any such policy or a security referred to in paragraph (a) of this definition;—
+  - **interest in a superannuation scheme** means an interest or right to participate in any capital, assets, earnings, or other property of a superannuation scheme; and includes—but does not include any such interest or right, or a security referred to in paragraph (b) of this definition, that is declared by regulations not to be an interest in a superannuation scheme for the purposes of this Act
+    (a) any interest or right that is declared by regulations to be an interest in a superannuation scheme for the purposes of this Act; and
+    (b) any renewal or variation of the terms or conditions of any such interest or right or a security referred to in paragraph (a) of this definition;—
+  - **investment statement** has the meaning set out in section 38C of this Act
+  - **issuer** means,—
+    (a) in relation to an equity security or a debt security, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to an equity security or a debt security, or to a trust deed that relates to a debt security, the person on whose behalf any money paid in consideration of the allotment of the security is received:
+    (b) in relation to a participatory security, or to an advertisement, investment statement, prospectus, or registered prospectus, or to a deed of participation that relates to a participatory security, the manager:
+    (c) in relation to an interest in a contributory mortgage offered by a contributory mortgage broker, or to an advertisement that relates to such an interest, the contributory mortgage broker:
+    (d) in relation to a unit in a unit trust, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such a unit, the manager:
+    (e) in relation to a life insurance policy, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to a life insurance policy, the life insurance company that is liable under the policy:
+    (f) in relation to an interest in a superannuation scheme, or to an advertisement, investment statement, prospectus, or registered prospectus that relates to such an interest, the superannuation trustee of the scheme:
+  - **life insurance company** means any person or association of persons, whether incorporated or unincorporated, which, in the course of business issues, or is liable under, life insurance policies
+  - **life insurance policy** means a policy of life or endowment insurance, or a policy securing an annuity; and includes—but does not include any such policy, or a security referred to in paragraph (b) of this definition, or a term life insurance policy (within the meaning of regulations) that is declared by regulations not to be a life insurance policy for the purposes of this Act
+    (a) a policy of insurance that is declared by regulations to be a life insurance policy for the purposes of this Act; and
+    (b) a renewal or variation of the terms or conditions of any such policy or a security referred to in paragraph (a) of this definition;—
   - **local authority** has the meaning set out in section 5(1) of the Local Government Act 2002
-  - **Manager** ,—
+  - **manager** ,—
     (a) in relation to a participatory security,—
       (i) means a person—
         (A) on whose behalf any money paid in consideration of the allotment of the security is received; or
         (B) with a substantial obligation to security holders to act in the continuing administration or management of the scheme to which the security relates; or
         (C) to whom both subsubparagraphs (A) and (B) apply; but
       (ii) does not include a person who is a participatory security trustee in relation to the security if the person acts in the continuing administration or management of the scheme to which the security relates solely in the person's capacity as a participatory security trustee; and
-    (b) In relation to a unit in a unit trust, has the same meaning as in section 2(1) of the Unit Trusts Act 1960:
+    (b) in relation to a unit in a unit trust, has the same meaning as in section 2(1) of the Unit Trusts Act 1960:
   - **Minister** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the administration of this Act
-  - **Money** includes money's worth
-  - **Offer** includes an invitation, and any proposal or invitation to make an offer; and has a corresponding meaning
+  - **money** includes money's worth
+  - **offer** includes an invitation, and any proposal or invitation to make an offer; and has a corresponding meaning
   - **offered in a simplified disclosure prospectus** means an offer of securities to the public for subscription that is made—
     (a) by or on behalf of an issuer; and
     (b) in, or accompanied by, a simplified disclosure prospectus
   - **overseas regulator** means a body in another country with functions corresponding to those of the Commission
-  - **Participatory security** means any security other than—
-    (a) An equity security; or
-    (b) A debt security; or
-    (c) A unit in a unit trust; or
-    (d) An interest in a superannuation scheme; or
-    (e) A life insurance policy:
+  - **participatory security** means any security other than—
+    (a) an equity security; or
+    (b) a debt security; or
+    (c) a unit in a unit trust; or
+    (d) an interest in a superannuation scheme; or
+    (e) a life insurance policy:
   - **participatory security trustee** means a person appointed as a trustee in respect of participatory securities
-  - **Person** includes a corporation sole, a company or other body corporate (whether incorporated in New Zealand or elsewhere), an unincorporated body of persons, a public body, and a Government department
+  - **person** includes a corporation sole, a company or other body corporate (whether incorporated in New Zealand or elsewhere), an unincorporated body of persons, a public body, and a Government department
   - **portfolio investment entity** means a portfolio investment entity within the meaning of the Income Tax Act 2004
   - **portfolio investment interest** means a portfolio investment interest within the meaning of the Income Tax Act 2004
-  - **Prescribed** means prescribed by regulations made under the authority of this Act
-  - **Principal officer** , in relation to a body corporate or other body, means—
-    (a) A director of the body; or
-    (b) A person in accordance with whose directions or instructions any or all of the directors of the body are accustomed to act; or
-    (c) In relation to any particular requirement of this Act, any person whose function it is, or who has undertaken, to ensure that that requirement is complied with by the body:
+  - **prescribed** means prescribed by regulations made under the authority of this Act
+  - **principal officer** , in relation to a body corporate or other body, means—
+    (a) a director of the body; or
+    (b) a person in accordance with whose directions or instructions any or all of the directors of the body are accustomed to act; or
+    (c) in relation to any particular requirement of this Act, any person whose function it is, or who has undertaken, to ensure that that requirement is complied with by the body:
       Provided that for the purposes of this Act, a person shall not be regarded as a person in accordance with whose directions or instructions any or all of the directors of a body are accustomed to act by reason only that the directors act on advice given by him or her solely in a professional capacity:
   - **prohibition order** means an order made by the Commission under section 44AE(1) that prohibits a person from using a simplified disclosure prospectus
-  - **Promoter** , in relation to securities offered to the public for subscription,—
-    (a) Means a person who is instrumental in the formulation of a plan or programme pursuant to which the securities are offered to the public; and
-    (b) Where a body corporate is a promoter, includes every person who is a director thereof; but
-    (c) Does not include a director or officer of the issuer of the securities or a person acting solely in his or her professional capacity:
-  - **Prospective investor** , in relation to a security, means any person who, under the terms of issue of the security, is eligible to subscribe for the security
-  - **Prospectus** means a document that contains an offer of securities to the public for subscription, and that is intended to be, or has been, delivered to the Registrar for registration under section 42 of this Act:
-  - **Qualified auditor** has the meaning given to it by section 2C of this Act
-  - **Receive** , in relation to a document, information, or other matter, includes receive by any form of electronic or other means of communication in a manner that enables the recipient to readily store the document, information, or other matter in a permanent form and, with or without the aid of any equipment, to retrieve and read it
-  - **Registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
-  - **Registered prospectus** means—
-    (a) Except where paragraph (b) of this definition applies—
-      (i) A prospectus that has been registered under section 42 of this Act, and the registration of which has not been cancelled or suspended under section 44 of this Act; or
-      (ii) A document that, except in the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to such a prospectus:
-    (b) Where a memorandum of amendments to a prospectus of the kind specified in paragraph (a)(i) of this definition has been registered under section 43 of this Act, and the registration of that prospectus as so amended has not been cancelled or suspended under section 44 of this Act—
-      (i) That prospectus as so amended; or
-      (ii) A document that, except for the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to that prospectus as so amended:
+  - **promoter** , in relation to securities offered to the public for subscription,—
+    (a) means a person who is instrumental in the formulation of a plan or programme pursuant to which the securities are offered to the public; and
+    (b) where a body corporate is a promoter, includes every person who is a director thereof; but
+    (c) does not include a director or officer of the issuer of the securities or a person acting solely in his or her professional capacity:
+  - **prospective investor** , in relation to a security, means any person who, under the terms of issue of the security, is eligible to subscribe for the security
+  - **prospectus** means a document that contains an offer of securities to the public for subscription, and that is intended to be, or has been, delivered to the Registrar for registration under section 42 of this Act:
+  - **qualified auditor** has the meaning given to it by section 2C of this Act
+  - **receive** , in relation to a document, information, or other matter, includes receive by any form of electronic or other means of communication in a manner that enables the recipient to readily store the document, information, or other matter in a permanent form and, with or without the aid of any equipment, to retrieve and read it
+  - **registered bank** has the same meaning as in section 2(1) of the Reserve Bank of New Zealand Act 1989
+  - **registered prospectus** means—
+    (a) except where paragraph (b) of this definition applies—
+      (i) a prospectus that has been registered under section 42 of this Act, and the registration of which has not been cancelled or suspended under section 44 of this Act; or
+      (ii) a document that, except in the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to such a prospectus:
+    (b) where a memorandum of amendments to a prospectus of the kind specified in paragraph (a)(i) of this definition has been registered under section 43 of this Act, and the registration of that prospectus as so amended has not been cancelled or suspended under section 44 of this Act—
+      (i) that prospectus as so amended; or
+      (ii) a document that, except for the matters specified in paragraphs (a) and (b) of section 41 of this Act, is identical to that prospectus as so amended:
   - **Registrar** means,—
-    (a) In sections 67A to 68B , 68G, 68I, and 68K, a person for the time being holding the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993:
-    (b) In all other sections of this Act, the Registrar of Companies appointed in accordance with the Companies Act 1993 and, pursuant to sections 357 and 358 of that Act, includes every Deputy Registrar of Companies, District Registrar of Companies, and Assistant Registrar of Companies appointed in accordance with that Act:
-  - **Regulations** means regulations made under section 70 of this Act
-  - **Relative** has the same meaning as in the Income Tax Act 2007
-  - **Scheme** means,—
-    (a) In relation to a participatory security, the arrangement or scheme to which the security relates; and
-    (b) In relation to an interest in a superannuation scheme, that superannuation scheme; and
-    (c) In relation to a unit in a unit trust, that unit trust:
-  - **Security** has the meaning set out in section 2D of this Act
-  - **Security holder** , in relation to a security offered to the public, means—
-    (a) In the case of a bearer security or a security to which section 51 of this Act does not apply, the holder of that security; or
-    (b) In the case of any other security, the person who is registered as the holder of the security in a register kept pursuant to section 51 of this Act:
-  - **Send** , in relation to a document, information, or other matter, includes send by electronic or other means that enables the recipient to readily store the matter in a permanent and legible form
+    (a) in sections 67A to 68B , 68G, 68I, and 68K, a person for the time being holding the office of Registrar of Companies or Deputy Registrar of Companies in accordance with the Companies Act 1993:
+    (b) in all other sections of this Act, the Registrar of Companies appointed in accordance with the Companies Act 1993 and, pursuant to sections 357 and 358 of that Act, includes every Deputy Registrar of Companies, District Registrar of Companies, and Assistant Registrar of Companies appointed in accordance with that Act:
+  - **regulations** means regulations made under section 70 of this Act
+  - **relative** has the same meaning as in the Income Tax Act 2007
+  - **scheme** means,—
+    (a) in relation to a participatory security, the arrangement or scheme to which the security relates; and
+    (b) in relation to an interest in a superannuation scheme, that superannuation scheme; and
+    (c) in relation to a unit in a unit trust, that unit trust:
+  - **security** has the meaning set out in section 2D of this Act
+  - **security holder** , in relation to a security offered to the public, means—
+    (a) in the case of a bearer security or a security to which section 51 of this Act does not apply, the holder of that security; or
+    (b) in the case of any other security, the person who is registered as the holder of the security in a register kept pursuant to section 51 of this Act:
+  - **send** , in relation to a document, information, or other matter, includes send by electronic or other means that enables the recipient to readily store the matter in a permanent and legible form
   - **simplified disclosure prospectus** means a registered prospectus that may be used only if—
     (a) the issuer is subject to a disclosure obligation; and
     (b) the regulations provide for the use of a simplified disclosure prospectus by a person who is subject to that type of disclosure obligation
-  - **Statutory supervisor** means a person appointed as a statutory supervisor in respect of participatory securities for the purposes of, and in accordance with, this Act
-  - **Subscribe** includes purchase and contribute to, whether by way of cash or otherwise; and and have corresponding meanings
+  - **statutory supervisor** means a person appointed as a statutory supervisor in respect of participatory securities for the purposes of, and in accordance with, this Act
+  - **subscribe** includes purchase and contribute to, whether by way of cash or otherwise; and and have corresponding meanings
   - **Superannuation scheme** means a registered superannuation scheme within the meaning of section 2(1) of the Superannuation Schemes Act 1989
   - **Superannuation trustee** has the same meaning as the term trustees has in the Superannuation Schemes Act 1989
   - **Takeovers Panel** means the Takeovers Panel established under Part 1 of the Takeovers Act 1993.
-  - **Trust deed** means a trust deed required by section 33(2)(a) of this Act
-  - **Trustee** means a person appointed as a trustee in respect of debt securities for the purposes of, and in accordance with, this Act
-  - **Trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act of the Parliament of New Zealand to administer the estates of deceased persons and other trust estates.
-  - **Unit** means an interest or right to participate in any capital, assets, earnings, or other property of a unit trust; and includes—but does not include any such interest or right or a security referred to in paragraph (b) of this definition that is declared by regulations not to be a unit for the purposes of this Act
-    (a) Any interest or right that is declared by regulations to be a unit for the purposes of this Act; and
-    (b) Any renewal or variation of the terms or conditions of any such interest or right;—
-  - **Unit trust** has the same meaning as in section 2(1) of the Unit Trusts Act 1960
-  - **Unit trustee** has the same meaning as the term trustee has in section 2(1) of the Unit Trusts Act 1960
-  - **Working day** means a day of the week other than—
+  - **trust deed** means a trust deed required by section 33(2)(a) of this Act
+  - **trustee** means a person appointed as a trustee in respect of debt securities for the purposes of, and in accordance with, this Act
+  - **trustee corporation** means Public Trust or the Maori Trustee or any corporation authorised by any Act of the Parliament of New Zealand to administer the estates of deceased persons and other trust estates.
+  - **unit** means an interest or right to participate in any capital, assets, earnings, or other property of a unit trust; and includes—but does not include any such interest or right or a security referred to in paragraph (b) of this definition that is declared by regulations not to be a unit for the purposes of this Act
+    (a) any interest or right that is declared by regulations to be a unit for the purposes of this Act; and
+    (b) any renewal or variation of the terms or conditions of any such interest or right;—
+  - **unit trust** has the same meaning as in section 2(1) of the Unit Trusts Act 1960
+  - **unit trustee** has the same meaning as the term trustee has in section 2(1) of the Unit Trusts Act 1960
+  - **working day** means a day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, the Sovereign's Birthday, Labour Day, and Waitangi Day; and
-    (b) A day in the period commencing with the 25th day of December in any year and ending with the 2nd day of January in the following year; and
-    (c) If the 1st day of January in any year falls on a Friday, the following Monday; and
-    (d) If the 1st day of January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday:
-  - **Writing** includes—and has a corresponding meaning.
-    (a) The recording of words in a permanent and legible form; and
-    (b) The display of words by any form of electronic or other means of communication in a manner that enables the words to be readily stored in a permanent form and, with or without the aid of any equipment, to be retrieved and read;—
+    (b) a day in the period commencing with the 25th day of December in any year and ending with the 2nd day of January in the following year; and
+    (c) if the 1st day of January in any year falls on a Friday, the following Monday; and
+    (d) if the 1st day of January in any year falls on a Saturday or a Sunday, the following Monday and Tuesday:
+  - **writing** includes—and has a corresponding meaning.
+    (a) the recording of words in a permanent and legible form; and
+    (b) the display of words by any form of electronic or other means of communication in a manner that enables the words to be readily stored in a permanent form and, with or without the aid of any equipment, to be retrieved and read;—
 (2)
 
 ### 2A Meaning of advertisement
 (1) In this Act, unless the context otherwise requires, advertisement means a form of communication—
-  (a) That—
-    (i) Contains or refers to an offer of securities to the public for subscription; or
-    (ii) Is reasonably likely to induce persons to subscribe for securities of an issuer, being securities to which the communication relates and that have been, or are to be, offered to the public for subscription; and
-  (b) That is authorised or instigated by, or on behalf of, the issuer of the securities or prepared with the co-operation of, or by arrangement with, the issuer of the securities; and
-  (c) That is to be, or has been, distributed to a person.
+  (a) that—
+    (i) contains or refers to an offer of securities to the public for subscription; or
+    (ii) is reasonably likely to induce persons to subscribe for securities of an issuer, being securities to which the communication relates and that have been, or are to be, offered to the public for subscription; and
+  (b) that is authorised or instigated by, or on behalf of, the issuer of the securities or prepared with the co-operation of, or by arrangement with, the issuer of the securities; and
+  (c) that is to be, or has been, distributed to a person.
 (2) The following are also advertisements:
-  (a) A statement relating to an interest in a contributory mortgage required to be distributed to a person by regulations:
-  (b) An investment statement.
+  (a) a statement relating to an interest in a contributory mortgage required to be distributed to a person by regulations:
+  (b) an investment statement.
 (3) None of the following is an advertisement:
-  (a) A registered prospectus:
+  (a) a registered prospectus:
   (b)
-  (c) A statement or report made in accordance with section 3(7) of this Act:
-  (d) A disclosure statement published by a registered bank under section 81 of the Reserve Bank of New Zealand Act 1989.
+  (c) a statement or report made in accordance with section 3(7) of this Act:
+  (d) a disclosure statement published by a registered bank under section 81 of the Reserve Bank of New Zealand Act 1989.
 (4) A communication is an advertisement whether or not consideration is to be, or has been, paid for the distribution of the communication.
 (5) The definition of the term advertisement in this section does not apply to the term advertisement in section 3(1)(c) of this Act.
 (6) Where—those advertisements are deemed to be a single advertisement within the meaning of this section.
-  (a) An advertisement within the meaning of this section appears in association with another advertisement that is not an advertisement within the meaning of this section; and
-  (b) Both advertisements are authorised or instigated by, or on behalf of, the same person or prepared with the co-operation of, or by arrangement with, the same person,—
+  (a) an advertisement within the meaning of this section appears in association with another advertisement that is not an advertisement within the meaning of this section; and
+  (b) both advertisements are authorised or instigated by, or on behalf of, the same person or prepared with the co-operation of, or by arrangement with, the same person,—
 (7) Unless this Act or regulations provide otherwise, nothing in this Act or regulations limits the information, statements, and other matters that may be contained in an advertisement.
 
 ### 2B Meaning of due enquiry
 (1) For the purposes of this Act, a person who is required to make due enquiry about a matter does not fail to do so if—
-  (a) He or she receives information or advice about the matter from another person whom he or she believes on reasonable grounds is reliable and competent; and
-  (b) The information or advice received—
-    (i) Is of the same kind and standard as that which it would be reasonable to expect to be supplied in the ordinary course of management of businesses of the same kind to persons in the same kind of position; and
-    (ii) Does not state or indicate that further information, advice, or investigation is or may be required; and
-  (c) He or she has no reason to believe that the information or advice is or may be incorrect.
+  (a) he or she receives information or advice about the matter from another person whom he or she believes on reasonable grounds is reliable and competent; and
+  (b) the information or advice received—
+    (i) is of the same kind and standard as that which it would be reasonable to expect to be supplied in the ordinary course of management of businesses of the same kind to persons in the same kind of position; and
+    (ii) does not state or indicate that further information, advice, or investigation is or may be required; and
+  (c) he or she has no reason to believe that the information or advice is or may be incorrect.
 (2) Nothing in subsection (1) of this section limits the ways in which a person may make due enquiry about a matter.
 
 ### 2C Meaning of qualified auditor
 (1) For the purposes of this Act, a person is a qualified auditor only if—
-  (a) The person is a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996); or
-  (b) The person is an auditor appointed by the Auditor-General under section 32 of the Public Audit Act 2001; or
-  (c) The person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where—
-    (i) The association is, by notice in the Gazette, approved for the time being for the purposes of this Act by the Registrar; and
-    (ii) The person is entitled to act as an auditor in the country, state, or territory in which the association is constituted; or
-  (d) The person, not being a person referred to in paragraph (c) of this subsection, is—
-    (i) Entitled to act as an auditor in a country, state, or territory outside New Zealand; and
-    (ii) Approved for the time being for the purposes of this Act by the Registrar by notice in the Gazette.
+  (a) the person is a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996); or
+  (b) the person is an auditor appointed by the Auditor-General under section 32 of the Public Audit Act 2001; or
+  (c) the person is a member, fellow, or associate of an association of accountants constituted outside New Zealand where—
+    (i) the association is, by notice in the Gazette, approved for the time being for the purposes of this Act by the Registrar; and
+    (ii) the person is entitled to act as an auditor in the country, state, or territory in which the association is constituted; or
+  (d) the person, not being a person referred to in paragraph (c) of this subsection, is—
+    (i) entitled to act as an auditor in a country, state, or territory outside New Zealand; and
+    (ii) approved for the time being for the purposes of this Act by the Registrar by notice in the Gazette.
 (2) None of the following persons is qualified for appointment as an auditor of the accounting or other records of an issuer of securities:
-  (a) The issuer, or a principal officer, officer, or employee of the issuer:
-  (b) A person who is a partner of or in the employment of a person specified in paragraph (a) of this subsection:
-  (c) A body corporate.
+  (a) the issuer, or a principal officer, officer, or employee of the issuer:
+  (b) a person who is a partner of or in the employment of a person specified in paragraph (a) of this subsection:
+  (c) a body corporate.
 (3) A person is not qualified for appointment as auditor of an issuer of securities if the person is, by virtue of subsection (2) of this section, disqualified for appointment as auditor of a person that is the issuer's subsidiary or holding company or a subsidiary of the issuer's holding company, or would be so disqualified if that person were a company.
 
 ### 2D Meaning of security
 (1) In this Act, unless the context otherwise requires, the term security means any interest or right to participate in any capital, assets, earnings, royalties, or other property of any person; and includes—but does not include any such interest or right (other than a security referred to in paragraph (f) of this subsection) that is declared by regulations not to be a security for the purposes of this Act.
-  (a) An equity security; and
-  (b) A debt security; and
-  (c) A unit in a unit trust; and
-  (d) An interest in a superannuation scheme; and
-  (e) A life insurance policy; and
-  (f) Any interest or right that is declared by regulations to be a security for the purposes of this Act; and
+  (a) an equity security; and
+  (b) a debt security; and
+  (c) a unit in a unit trust; and
+  (d) an interest in a superannuation scheme; and
+  (e) a life insurance policy; and
+  (f) any interest or right that is declared by regulations to be a security for the purposes of this Act; and
   (g) Any renewal or variation of the terms or conditions of any such interest or right;—
 (2) Where the terms of a security require or allow the subscriber to pay separate amounts of money at different times, each such payment shall, for the purposes of this Act, be treated as payment for the same security as each other payment.
 
 ### 3 Construction of references to offering securities to the public
 (1) Any reference in this Act to an offer of securities to the public shall be construed as including—whether or not any such offer is calculated to result in the securities becoming available for subscription by persons other than those receiving the offer.
-  (a) A reference to offering the securities to any section of the public, however selected; and
-  (b) A reference to offering the securities to individual members of the public selected at random; and
-  (c) A reference to offering the securities to a person if the person became known to the offeror as a result of any advertisement made by or on behalf of the offeror and that was intended or likely to result in the public seeking further information or advice about any investment opportunity or services,—
+  (a) a reference to offering the securities to any section of the public, however selected; and
+  (b) a reference to offering the securities to individual members of the public selected at random; and
+  (c) a reference to offering the securities to a person if the person became known to the offeror as a result of any advertisement made by or on behalf of the offeror and that was intended or likely to result in the public seeking further information or advice about any investment opportunity or services,—
 (2) None of the following offers shall constitute an offer of securities to the public:
-  (a) An offer of securities made to any or all of the following persons only:
-    (i) Relatives or close business associates of the issuer or of a director of the issuer:
-    (ii) Persons whose principal business is the investment of money or who, in the course of and for the purposes of their business, habitually invest money:
+  (a) an offer of securities made to any or all of the following persons only:
+    (i) relatives or close business associates of the issuer or of a director of the issuer:
+    (ii) persons whose principal business is the investment of money or who, in the course of and for the purposes of their business, habitually invest money:
     (iia) persons who are each required to pay a minimum subscription price of at least $500,000 for the securities before the allotment of those securities:
     (iib) persons who have each previously paid a minimum subscription price of at least $500,000 for securities (the initial securities) in a single transaction before the allotment of the initial securities, provided that—
       (A) the offer of the securities is made by the issuer of the initial securities; and
       (B) the offer of the securities is made within 18 months of the date of the first allotment of the initial securities:
-    (iii) Any other person who in all the circumstances can properly be regarded as having been selected otherwise than as a member of the public:
-  (b) An invitation to a person to enter into a bona fide underwriting or sub-underwriting agreement with respect to an offer of securities:
+    (iii) any other person who in all the circumstances can properly be regarded as having been selected otherwise than as a member of the public:
+  (b) an invitation to a person to enter into a bona fide underwriting or sub-underwriting agreement with respect to an offer of securities:
   (c)
 (3) A person shall not be precluded from being regarded as a member of the public in regard to any offer of securities by reason only that he or she is a purchaser of goods from, or an employee or client of, or a holder of securities previously issued by, the issuer or any promoter of the securities.
 (4) Any reference in this Act to an offer of securities to the public shall be construed as including a reference to distributing an advertisement, a prospectus, a registered prospectus, or an application form for the subscription of securities.
 (5) Proof of an offer of securities to one person selected as a member of the public shall be prima facie evidence of an offer of securities to the public.
 (6)
 (7) A statement or report—shall not constitute an offer of securities to the public.
-  (a) Made to or for the purposes of a general meeting of the members of the issuer, or a report of the proceedings of such a meeting; or
-  (b) Relating to the affairs of the issuer made to any stock exchange for the purposes of compliance with the listing requirements relating to that stock exchange, by or on behalf of that issuer, or any report of such statement or report—
+  (a) made to or for the purposes of a general meeting of the members of the issuer, or a report of the proceedings of such a meeting; or
+  (b) relating to the affairs of the issuer made to any stock exchange for the purposes of compliance with the listing requirements relating to that stock exchange, by or on behalf of that issuer, or any report of such statement or report—
 (8) In calculating the subscription price payable, or paid, for securities for the purposes of subsection (2)(a)(iia) or (iib), any amount payable, or paid, must be disregarded to the extent to which it is to be paid, or was paid, out of money lent by the issuer, the offeror, or any associated person of the issuer or offeror.
 (9) The Governor-General may, by Order in Council, amend the minimum subscription price that applies under subsection (2)(a)(iia) or (iib).
 
@@ -297,16 +292,16 @@ _Consolidation as at 2009-11-24_
 ### 5 Exemptions from this Act
 (1) Nothing in Part 2 of this Act shall apply in respect of—
   (a)
-  (b) Any estate or interest in land for which a separate certificate of title can be issued under the Land Transfer Act 1952 or the Unit Titles Act 1972, other than any such estate or interest that—
-    (i) Forms part of a contributory scheme; and
-    (ii) Does not entitle the holder to a right in respect of a specified part of the land for which a separate certificate of title can be so issued; or
-  (c) Any proprietary right to chattels (other than any such right that forms part of a contributory scheme); or
-  (d) Any share in the share capital of a flat or office owning company (as defined in section 121A(1) of the Land Transfer Act 1952); or
-  (e) Any interest or right to participate in the capital, assets, earnings, royalties, or other property of any company, partnership, or other person whose sole undertaking is the practice, conduct, or operation of any one or more of the professions, occupations, or businesses that may in law be practised, conducted, or operated only by persons having or possessing qualifications specified in Schedule 2 to this Act; or
-  (f) A mortgage of land other than a contributory mortgage; or
+  (b) any estate or interest in land for which a separate certificate of title can be issued under the Land Transfer Act 1952 or the Unit Titles Act 1972, other than any such estate or interest that—
+    (i) forms part of a contributory scheme; and
+    (ii) does not entitle the holder to a right in respect of a specified part of the land for which a separate certificate of title can be so issued; or
+  (c) any proprietary right to chattels (other than any such right that forms part of a contributory scheme); or
+  (d) any share in the share capital of a flat or office owning company (as defined in section 121A(1) of the Land Transfer Act 1952); or
+  (e) any interest or right to participate in the capital, assets, earnings, royalties, or other property of any company, partnership, or other person whose sole undertaking is the practice, conduct, or operation of any one or more of the professions, occupations, or businesses that may in law be practised, conducted, or operated only by persons having or possessing qualifications specified in Schedule 2 to this Act; or
+  (f) a mortgage of land other than a contributory mortgage; or
   (g)
   (h) a share purchased or subscribed for by an employee of a company under a share purchase scheme as defined in section YA 1 of the Income Tax Act 2007; or
-  (i) An interest in the Government Superannuation Fund; or
+  (i) an interest in the Government Superannuation Fund; or
   (j)
   (k) an interest in a retirement village that is an interest exempted from this Act by section 107(1) of the Retirement Villages Act 2003.
 (2)
@@ -374,9 +369,9 @@ _Consolidation as at 2009-11-24_
   (b) prescribing how net assets referred to in subsection (2CD) are to be determined and valued, either generally or in specified circumstances:
   (c) prescribing how gross income referred to in subsection (2CD) is to be calculated, either generally or in specified circumstances.
 (2D) Nothing in sections 37A(1)(a) and 38C to 38F of this Act shall apply in respect of—
-  (a) An interest in a call debt security as defined in regulations made under this Act; or
-  (b) An interest in a call building society share as defined in regulations made under this Act; or
-  (c) An interest in a bonus bond.
+  (a) an interest in a call debt security as defined in regulations made under this Act; or
+  (b) an interest in a call building society share as defined in regulations made under this Act; or
+  (c) an interest in a bonus bond.
 (2E)
 (2F)
 (3) Nothing in sections 33(2), 33(3), 34 to 37, 37A(1)(c) and (d) and (2), 39 to 44, 44B to 54, and 57A to 69 of this Act shall apply in respect of any security the issuer of which is—
@@ -399,7 +394,7 @@ _Consolidation as at 2009-11-24_
 (4B) The exemption in subsection (4A) does not apply if the portfolio investment entity has under section HL 7(4) of the Income Tax Act 2004 offered the investor a choice of the method of adjustment.
 (5) The Commission may, in its discretion and upon such terms and conditions (if any) as it thinks fit, by notice in the Gazette, exempt any person or class of persons or any transaction or class of transactions from compliance with any provision or provisions of—and may in like manner vary or revoke any such exemption. Every such exemption shall have effect according to its tenor.
   (a) Part 2 of this Act; or
-  (b) Any regulations made under section 70(1) of this Act; or
+  (b) any regulations made under section 70(1) of this Act; or
   (c)
   (d)
 (5A) The Commission's reasons for granting an exemption under subsection (5) (including why the exemption is appropriate) must be notified in the Gazette together with the exemption.
@@ -446,26 +441,26 @@ The exemption in section 5A is subject to the conditions that—
 (2A) All the provisions of this Act shall apply in respect of a unit in a unit trust that has previously been allotted (whether in New Zealand or elsewhere) and that is being offered, sold, or otherwise disposed of to the public for subscription by the manager or unit trustee of the unit trust or by an associated person of that manager or unit trustee.
 (3) All the provisions of this Act shall apply in respect of an equity security or a security convertible into an equity security if the holder or offeror, not being the original allotter, offers the security for sale to the public and the original allotter advises, encourages, or knowingly assists the holder or offeror in connection with the offer or sale of the security.
 (4) Nothing in subsection (3) of this section applies in respect of—
-  (a) An offer by the holder of a security, being an offer of the security to the public, that is made only to persons who, at the time of the offer, are holders of securities of the original allotter under terms of the articles of association or the constitution of the original allotter that require the offer to be made to those persons; or
-  (b) An offer by the holder of a security, being an offer of the security to the public, where the aggregate amount received by the holder, or persons associated with the holder, pursuant to offers of such securities to the public for subscription does not exceed $200,000 in any period of 12 months; or
-  (c) An offer by the holder of a security that is made—
-    (i) To not more than 6 members of the public; or
-    (ii) If the offer is made to more than 6 members of the public, the offer is made with a view to its being accepted by not more than 6 members of the public.
+  (a) an offer by the holder of a security, being an offer of the security to the public, that is made only to persons who, at the time of the offer, are holders of securities of the original allotter under terms of the articles of association or the constitution of the original allotter that require the offer to be made to those persons; or
+  (b) an offer by the holder of a security, being an offer of the security to the public, where the aggregate amount received by the holder, or persons associated with the holder, pursuant to offers of such securities to the public for subscription does not exceed $200,000 in any period of 12 months; or
+  (c) an offer by the holder of a security that is made—
+    (i) to not more than 6 members of the public; or
+    (ii) if the offer is made to more than 6 members of the public, the offer is made with a view to its being accepted by not more than 6 members of the public.
 (5) For the purposes of subsections (2) and (2AA) of this section, unless the contrary is proved, a security shall be deemed to have been allotted with a view to its being offered for sale to the public if it is shown—
-  (a) That an offer of the security for sale to the public was made within 6 months after the allotment; or
-  (b) That, at the date when the offer was made, the consideration to be received by the allotter in respect of the security had not been received.
+  (a) that an offer of the security for sale to the public was made within 6 months after the allotment; or
+  (b) that, at the date when the offer was made, the consideration to be received by the allotter in respect of the security had not been received.
 (6) For the purposes of subsection (4)(c) of this section, unless the contrary is proved, an offer shall be deemed to have been made with a view to its being accepted by more than 6 members of the public if, within the period of 12 months immediately following the making of the offer, more than 6 persons acquire an interest, whether direct or indirect, in securities of the same class offered to the public for subscription by the holder.
 (7) Notwithstanding anything in section 2 of this Act, in this Act, unless the context otherwise requires, in relation to a security to which subsection (2) or subsection (2AA) or subsection (2A) or subsection (3) of this section applies, the term issuer means the original allotter of the security, and, except for the purposes of sections 51 to 54 of this Act, also includes the offeror of the security.
 
 ### 6A Term implied in certain offers of previously allotted securities
 (1) This section applies to a security—
-  (a) That is exempted from the application of sections 33, 34, 37 to 38A, 38C to 44, and 44B to 59 of this Act by virtue of section 6(1) of this Act; and
-  (b) That is not a security to which any of subsections (2), (2AA), (2A), or (3) of section 6 of this Act applies; and
-  (c) That is offered to the public.
+  (a) that is exempted from the application of sections 33, 34, 37 to 38A, 38C to 44, and 44B to 59 of this Act by virtue of section 6(1) of this Act; and
+  (b) that is not a security to which any of subsections (2), (2AA), (2A), or (3) of section 6of this Act applies; and
+  (c) that is offered to the public.
 (2) Subject to subsection (3) of this section, it is an implied term of every offer of a security to which this section applies, that, except to the extent disclosed for the purposes of the offer of the security, the offeror has no information in relation to the original allotter that is not publicly available and that would, or would be likely to, affect materially the price of the security if it were so disclosed.
 (3) For the purposes of subsection (2) of this section, an offeror is not to be taken to have information in relation to the original allotter if—
-  (a) Arrangements existed to ensure that no individual who took part in the decision to offer the securities to the public received, or had access to, that information or was influenced, in relation to that decision, by an individual who had that information; and
-  (b) No individual who took part in the decision to offer the securities to the public received, or had access to, that information or was influenced, in relation to that decision, by an individual who had that information.
+  (a) arrangements existed to ensure that no individual who took part in the decision to offer the securities to the public received, or had access to, that information or was influenced, in relation to that decision, by an individual who had that information; and
+  (b) no individual who took part in the decision to offer the securities to the public received, or had access to, that information or was influenced, in relation to that decision, by an individual who had that information.
 
 ### 7 Territorial scope of Part 2
 (1) Part 2 applies to securities offered to the public in New Zealand, regardless of—
@@ -497,13 +492,13 @@ This Act shall bind the Crown.
 
 ### 10 Functions of Commission
 (1) The functions of the Commission shall be—
-  (a) To perform the functions and duties conferred or imposed on it by or under this Act or any other enactment; and
-  (b) To keep under review the law relating to bodies corporate, securities, financial advisers, and unincorporated issuers of securities, and to recommend to the Minister any changes thereto that it considers necessary; and
-  (c) To keep under review practices relating to securities and financial advisers, and to comment thereon to any appropriate body; and
-  (ca) To co-operate with any overseas regulator and for that purpose, but without limiting this function, to communicate, or make arrangements for communicating, information obtained by the Commission in the performance of its functions and powers, confidential or not, to that overseas regulator which the Commission considers may assist that overseas regulator in the performance of its functions; and
+  (a) to perform the functions and duties conferred or imposed on it by or under this Act or any other enactment; and
+  (b) to keep under review the law relating to bodies corporate, securities, financial advisers, and unincorporated issuers of securities, and to recommend to the Minister any changes thereto that it considers necessary; and
+  (c) to keep under review practices relating to securities and financial advisers, and to comment thereon to any appropriate body; and
+  (ca) to co-operate with any overseas regulator and for that purpose, but without limiting this function, to communicate, or make arrangements for communicating, information obtained by the Commission in the performance of its functions and powers, confidential or not, to that overseas regulator which the Commission considers may assist that overseas regulator in the performance of its functions; and
   (caa) to keep under review activities on securities markets, and to comment on those activities to the appropriate body; and
   (cab) on the Minister's request, to advise the Minister on the conduct rules, or amendments to those rules, proposed by securities exchanges; and.
-  (d) To promote public understanding of the law and practice relating to securities and the law and practice relating to financial advisers; and
+  (d) to promote public understanding of the law and practice relating to securities and the law and practice relating to financial advisers; and
   (da) to keep under review the law and practices relating to settlement systems (as defined in Part 5C of the Reserve Bank of New Zealand Act 1989, but not including any designated settlement system that is declared to be a pure payment system in accordance with section 156N(3)(d)) and to perform the functions and duties, and exercise the powers, given to it under that Part; and
   (e) by agreement with the Takeovers Panel, to provide administrative and support services to the Panel.
 (2) Except as expressly provided otherwise in this or any other Act, the Commission must act independently in performing its statutory functions and duties, and exercising its statutory powers, under—
@@ -567,8 +562,8 @@ This Act shall bind the Crown.
 
 ### 15A Completion of proceedings where member unable to attend meeting
 (1) Despite section 15, if—the remaining 2 members of the Commission constitute a quorum for the purposes of completing the proceeding, inquiry, or transaction of business.
-  (a) A meeting of the Commission with 3 or more members commences any proceeding, inquiry, or the transaction of other business; and
-  (b) The number of those members able to attend any subsequent meeting is reduced to 2 as a result of illness, accident, or other unavoidable cause, or the expiration of a member's term, or the resignation or removal from office of a member,—
+  (a) a meeting of the Commission with 3 or more members commences any proceeding, inquiry, or the transaction of other business; and
+  (b) the number of those members able to attend any subsequent meeting is reduced to 2 as a result of illness, accident, or other unavoidable cause, or the expiration of a member's term, or the resignation or removal from office of a member,—
 (2) At a meeting of the Commission at which those 2 members are present, each of those members has a deliberative vote and, in the event of an equality of votes, the presiding member has a casting vote.
 
 ### 16 Assent to resolution without a meeting
@@ -639,9 +634,9 @@ This Act shall bind the Crown.
 (3)
 (4)
 (5) Nothing in subsections (1) and (2) applies in respect of proceedings for—
-  (a) An offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (b) The offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
-  (c) The offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
+  (a) an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
+  (b) the offence of conspiring to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961; or
+  (c) the offence of attempting to commit an offence against section 78 or section 78A(1) or section 105 or section 105A or section 105B of the Crimes Act 1961.
 (5A) Sections 122 to 126 of the Crown Entities Act 2004 apply as if the conduct for which a person may be indemnified or insured under those sections were conduct that is covered by the protection from liability in this section.
 (5B) This section contains an exception to section 121 of the Crown Entities Act 2004.
 (6)
@@ -685,25 +680,25 @@ The income of the Commission shall be exempt from income tax.
 
 ### 33 Restrictions on offer of securities to the public
 (1) No security shall be offered to the public for subscription, by or on behalf of an issuer, unless—
-  (a) The offer is made in, or accompanied by, an authorised advertisement that is an investment statement that complies with this Act and regulations; or
-  (b) The offer is made in an authorised advertisement that is not an investment statement; or
-  (c) The offer is made in, or accompanied by, a registered prospectus that complies with this Act and regulations.
+  (a) the offer is made in, or accompanied by, an authorised advertisement that is an investment statement that complies with this Act and regulations; or
+  (b) the offer is made in an authorised advertisement that is not an investment statement; or
+  (c) the offer is made in, or accompanied by, a registered prospectus that complies with this Act and regulations.
 (2) No debt security shall be offered to the public for subscription, by or on behalf of an issuer, unless—
-  (a) The issuer of the security has appointed a person as a trustee in respect of the security and both the issuer and that person have signed a trust deed relating to the security; and
-  (b) A copy of the trust deed has been registered by the Registrar pursuant to section 46 of this Act; and
-  (c) Where the provisions of the trust deed have been amended, a copy of the instrument amending the deed has been registered by the Registrar pursuant to section 47 of this Act.
+  (a) the issuer of the security has appointed a person as a trustee in respect of the security and both the issuer and that person have signed a trust deed relating to the security; and
+  (b) a copy of the trust deed has been registered by the Registrar pursuant to section 46 of this Act; and
+  (c) where the provisions of the trust deed have been amended, a copy of the instrument amending the deed has been registered by the Registrar pursuant to section 47 of this Act.
 (3) No participatory security shall be offered to the public for subscription, by or on behalf of an issuer, unless—
-  (a) The issuer of the security has appointed a person as a statutory supervisor in respect of the security and both the issuer and that person have signed a deed of participation relating to the security; and
-  (b) A copy of the deed of participation has been registered by the Registrar pursuant to section 46 of this Act; and
-  (c) Where the provisions of the deed of participation have been amended, a copy of the instrument amending the deed has been registered by the Registrar pursuant to section 47 of this Act.
+  (a) the issuer of the security has appointed a person as a statutory supervisor in respect of the security and both the issuer and that person have signed a deed of participation relating to the security; and
+  (b) a copy of the deed of participation has been registered by the Registrar pursuant to section 46 of this Act; and
+  (c) where the provisions of the deed of participation have been amended, a copy of the instrument amending the deed has been registered by the Registrar pursuant to section 47 of this Act.
 
 ### 34 Restrictions on distribution of prospectuses
 (1) No registered prospectus shall be distributed by or on behalf of an issuer,—
-  (a) After it has been amended unless all the amendments have been incorporated in, or attached by way of memorandum to, every copy of the registered prospectus that is so distributed; or
-  (b) If it is false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not it became so misleading as a result of a change in circumstances occurring after the date of the prospectus).
+  (a) after it has been amended unless all the amendments have been incorporated in, or attached by way of memorandum to, every copy of the registered prospectus that is so distributed; or
+  (b) if it is false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not it became so misleading as a result of a change in circumstances occurring after the date of the prospectus).
 (2) A registered prospectus shall not be distributed by or on behalf of an issuer unless it is accompanied by,—
-  (a) If the registered prospectus refers to, but does not contain, financial statements registered under the Financial Reporting Act 1993, a copy of those financial statements; and
-  (b) A copy of any documents registered under this Act for the purpose of extending the period during which allotments may be made under the registered prospectus.
+  (a) if the registered prospectus refers to, but does not contain, financial statements registered under the Financial Reporting Act 1993, a copy of those financial statements; and
+  (b) a copy of any documents registered under this Act for the purpose of extending the period during which allotments may be made under the registered prospectus.
 (3) However, subsection (2)(a) does not apply to a simplified disclosure prospectus.
 
 ### 35 Restrictions on door-to-door sales
@@ -723,8 +718,8 @@ An issuer must ensure that subscriptions for securities offered to the public ar
   (a) by a person who is subject to a prohibition order while that order is in force; or
   (b) in contravention of section 44AD(1).
 (2) No allotment shall be made of an equity security or a participatory security or a unit in an unit trust offered to the public for subscription unless the amount stated in the registered prospectus relating thereto as the minimum amount which, in the opinion of the directors of the issuer, must be raised by the issue of the securities in order to provide for the matters specified in regulations made under this Act, is subscribed, and that amount is paid to, and received by, the issuer within 4 months after the date of the registered prospectus; and, for the purposes of this subsection—
-  (a) A sum shall be deemed to have been paid to, and received by, the issuer if a cheque for that sum is received in good faith by the issuer and the directors of the issuer have no reason to suspect that the cheque will not be paid:
-  (b) The amount so stated in the registered prospectus shall be reckoned exclusively of any amount payable otherwise than in cash.
+  (a) a sum shall be deemed to have been paid to, and received by, the issuer if a cheque for that sum is received in good faith by the issuer and the directors of the issuer have no reason to suspect that the cheque will not be paid:
+  (b) the amount so stated in the registered prospectus shall be reckoned exclusively of any amount payable otherwise than in cash.
 (2A) Subsection (2) does not apply if there is no minimum amount which, in the opinion of the directors of the issuer, must be raised by the issue of the securities in order to provide for the matters specified in regulations made under this Act.
 (3) An allotment of a participatory security offered to the public for subscription must not be made unless, at the time of allotment, a written statement from the subscriber authorising the subscription for that particular security has been received by—
   (a) the statutory supervisor; or
@@ -732,7 +727,7 @@ An issuer must ensure that subscriptions for securities offered to the public ar
 (4) Any allotment made in contravention of the provisions of this section shall be invalid and of no effect.
 (5) Where subscriptions for securities are received by or on behalf of an issuer, but, by virtue of this section, the securities may not be allotted, or for any reason the securities are not allotted, the issuer shall ensure that—
   (a)
-  (b) The subscriptions, together with such interest (if any) as has been earned thereon, are repaid to the subscribers as soon as reasonably practicable.
+  (b) the subscriptions, together with such interest (if any) as has been earned thereon, are repaid to the subscribers as soon as reasonably practicable.
 (6) If any subscriptions to which this section applies are not so repaid within 2 months after the date on which the subscriptions were received by or on behalf of the issuer (or, in any case to which subsection (2) of this section applies, within 5 months after the date of the registered prospectus), the issuer and all the directors thereof shall be jointly and severally liable to repay the subscriptions, together with interest at a rate prescribed from time to time by regulations made under this Act from the date on which the subscriptions were received by or on behalf of the issuer:
   Provided that a director shall not be so liable if he or she proves that the default in the repayment of the subscriptions was not due to any misconduct or negligence on his or her part.
 (7) For the purposes of the Limitation Act 1950, any sum recoverable under subsection (5) or subsection (6) is not a penalty or forfeiture or sum by way of penalty or forfeiture.
@@ -934,33 +929,33 @@ If the Court makes a relief order under section 37AH or section 37AI, the Court 
 
 ### 37A Voidable irregular allotments
 (1) No allotment of a security offered to the public for subscription shall be made if—
-  (a) The subscriber did not receive an investment statement relating to the security before subscribing for the security; or
+  (a) the subscriber did not receive an investment statement relating to the security before subscribing for the security; or
   (ab) in the case of a security that is offered in a simplified disclosure prospectus,—
     (i) the subscriber did not receive, before subscribing for the security, a copy of—
       (A) that simplified disclosure prospectus; and
       (B) every memorandum of amendments to that prospectus that is registered by the Registrar under section 43 before the time of allotment; or
     (ii) the Commission made a delayed allotment order in relation to that simplified disclosure prospectus and the subscriber subscribed for the security before the delayed allotment order was made; or
-  (b) At the time of allotment, the investment statement or registered prospectus relating to the security is known by the issuer of the security, or any director of the issuer, to be false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not the investment statement or registered prospectus became so false or misleading as a result of a change of circumstances occurring after the date of the investment statement or registered prospectus); or
-  (c) The date of allotment would be more than,—
-    (i) Where the registered prospectus relating to the security contains or refers to a statement of financial position or interim statement of financial position in accordance with regulations and no certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that statement of financial position or interim statement of financial position (whichever is the later); or
-    (ii) Where the registered prospectus relating to the security contains or refers to a statement of financial position (but not an interim statement of financial position) in accordance with regulations and a certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that certificate; or
-    (iii) In any other case, 6 months after the date of the registered prospectus; or
-  (d) In the case of an equity security, debt security, or participatory security, after the allotment, the total amount of securities allotted under the registered prospectus relating to the security would (after deducting, in the case of an allotment of debt securities, the total amount of debt securities of the issuer redeemed since the date of the registered prospectus) exceed the amount specified in the registered prospectus as the maximum amount that will be so allotted.
+  (b) at the time of allotment, the investment statement or registered prospectus relating to the security is known by the issuer of the security, or any director of the issuer, to be false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances (whether or not the investment statement or registered prospectus became so false or misleading as a result of a change of circumstances occurring after the date of the investment statement or registered prospectus); or
+  (c) the date of allotment would be more than,—
+    (i) where the registered prospectus relating to the security contains or refers to a statement of financial position or interim statement of financial position in accordance with regulations and no certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that statement of financial position or interim statement of financial position (whichever is the later); or
+    (ii) where the registered prospectus relating to the security contains or refers to a statement of financial position (but not an interim statement of financial position) in accordance with regulations and a certificate has been registered in relation to that prospectus under subsection (1A) of this section, 9 months after the date of that certificate; or
+    (iii) in any other case, 6 months after the date of the registered prospectus; or
+  (d) in the case of an equity security, debt security, or participatory security, after the allotment, the total amount of securities allotted under the registered prospectus relating to the security would (after deducting, in the case of an allotment of debt securities, the total amount of debt securities of the issuer redeemed since the date of the registered prospectus) exceed the amount specified in the registered prospectus as the maximum amount that will be so allotted.
 (1AA) However, subsection (1)(a) does not apply to securities that are offered in a simplified disclosure prospectus.
 (1A) For the purposes of subsection (1)(c) of this section, if no interim statement of financial position is contained or referred to in a registered prospectus, an issuer may deliver to the Registrar for registration under this Act, and the Registrar shall register, a certificate that relates to the registered prospectus and that—
-  (a) Is signed on behalf of all the directors by at least 2 directors of the issuer (or, where the issuer has only 1 director, by that director); and
-  (b) Is dated no later than 9 months after the date of the statement of financial position contained or referred to in the registered prospectus; and
-  (c) States that, in the opinion of all directors of the issuer after due enquiry by them,—
-    (i) The financial position shown in the statement of financial position referred to in paragraph (b) of this subsection has not materially and adversely changed during the period from the date of that statement of financial position to the date of the certificate; and
-    (ii) The registered prospectus is not, at the date of the certificate, false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances; and
-  (d) Where the registered prospectus relates to equity securities, debt securities, or participatory securities, is accompanied by financial statements—
-    (i) For the 6-month period from the date of the statement of financial position referred to in paragraph (b) of this subsection; and
-    (ii) Prepared in accordance with regulations as if they were required to be contained or referred to in a registered prospectus for those securities, except that they need not be audited.
+  (a) is signed on behalf of all the directors by at least 2 directors of the issuer (or, where the issuer has only 1 director, by that director); and
+  (b) is dated no later than 9 months after the date of the statement of financial position contained or referred to in the registered prospectus; and
+  (c) states that, in the opinion of all directors of the issuer after due enquiry by them,—
+    (i) the financial position shown in the statement of financial position referred to in paragraph (b) of this subsection has not materially and adversely changed during the period from the date of that statement of financial position to the date of the certificate; and
+    (ii) the registered prospectus is not, at the date of the certificate, false or misleading in a material particular by reason of failing to refer, or give proper emphasis, to adverse circumstances; and
+  (d) where the registered prospectus relates to equity securities, debt securities, or participatory securities, is accompanied by financial statements—
+    (i) for the 6-month period from the date of the statement of financial position referred to in paragraph (b) of this subsection; and
+    (ii) prepared in accordance with regulations as if they were required to be contained or referred to in a registered prospectus for those securities, except that they need not be audited.
 (2)
 (3) An allotment made in contravention of this section is (whether or not the issuer is in liquidation) voidable at the instance of the subscriber by notice in writing to the issuer at any time within the prescribed period.
 (4) For the purpose of subsection (3) of this section, prescribed period means—whichever is the lesser.
-  (a) A period of one year after the security or a certificate of the security has been sent to the subscriber; or
-  (b) A period of 6 months after the subscriber knows, or ought reasonably to know, that the allotment was made in contravention of the provisions of this section—
+  (a) a period of one year after the security or a certificate of the security has been sent to the subscriber; or
+  (b) a period of 6 months after the subscriber knows, or ought reasonably to know, that the allotment was made in contravention of the provisions of this section—
 (5) Without limiting any enactment or rule of law, an allotment made in contravention of this section shall be valid unless notice avoiding the allotment is given by the subscriber in accordance with subsection (3) of this section.
 (6) Where an allotment made in contravention of this section is avoided by the subscriber under subsection (3) of this section, the issuer shall forthwith upon receiving notice under that subsection, repay the subscriptions to the subscriber.
 (7) If such subscriptions are not so repaid within one month after the date of the receipt by the issuer of notice under subsection (3) of this section, the issuer and all the directors thereof shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date on which such notice was received:
@@ -1054,38 +1049,38 @@ If the Court makes a relief order under section 37C or section 37D, the Court ma
 
 ### 38 Meaning of authorised advertisement
 In this Act, the term authorised advertisement means,—
-  (a) In relation to an offer of securities to the public in respect of which an investment statement is required, an advertisement—
-    (i) That is an investment statement that relates to the securities and that complies with this Act and regulations; or
-    (ii) That refers to an investment statement that relates to the securities referred to in the advertisement and that complies with this Act and regulations:
-  (b) In relation to an offer of securities to the public in respect of which an investment statement is not required, but in respect of which a registered prospectus or a disclosure statement under section 81 of the Reserve Bank of New Zealand Act 1989 is required, an advertisement—
-    (i) That refers to a registered prospectus or a current disclosure statement; and
-    (ii) That describes where a copy of the prospectus or the disclosure statement can be obtained free of charge; and
-    (iii) That complies with this Act and regulations:
-  (c) In any other case, an advertisement that complies with this Act and regulations.
+  (a) in relation to an offer of securities to the public in respect of which an investment statement is required, an advertisement—
+    (i) that is an investment statement that relates to the securities and that complies with this Act and regulations; or
+    (ii) that refers to an investment statement that relates to the securities referred to in the advertisement and that complies with this Act and regulations:
+  (b) in relation to an offer of securities to the public in respect of which an investment statement is not required, but in respect of which a registered prospectus or a disclosure statement under section 81 of the Reserve Bank of New Zealand Act 1989 is required, an advertisement—
+    (i) that refers to a registered prospectus or a current disclosure statement; and
+    (ii) that describes where a copy of the prospectus or the disclosure statement can be obtained free of charge; and
+    (iii) that complies with this Act and regulations:
+  (c) in any other case, an advertisement that complies with this Act and regulations.
 
 ### 38AA Meaning of authorised advertisement in relation to offers of debt securities by registered banks
 [Repealed]
 
 ### 38A Statement in advertisement by expert
 No advertisement shall contain a statement purporting to be made by an expert unless—
-  (a) The expert has given and has not, before distribution of the advertisement, withdrawn his or her written consent to the distribution of the advertisement with the statement included in the form and context in which it is included; and
-  (b) A statement of the expert's qualifications appears in the advertisement; and
-  (c) If the expert is, or is intended to be, an officer, director, or employee of, or professional adviser to, the issuer of the securities referred to in the advertisement, a statement appears in the advertisement to that effect.
+  (a) the expert has given and has not, before distribution of the advertisement, withdrawn his or her written consent to the distribution of the advertisement with the statement included in the form and context in which it is included; and
+  (b) a statement of the expert's qualifications appears in the advertisement; and
+  (c) if the expert is, or is intended to be, an officer, director, or employee of, or professional adviser to, the issuer of the securities referred to in the advertisement, a statement appears in the advertisement to that effect.
 
 ### 38B Prohibition of advertisements
 (1) Where, at any time, the Commission is of the opinion that an advertisement—the Commission may make an order prohibiting the distribution of that advertisement or any advertisement which relates to the offer of securities.
-  (a) Is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
-  (b) Is inconsistent with any registered prospectus referred to in it; or
-  (c) Does not comply with this Act and regulations,—
+  (a) is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
+  (b) is inconsistent with any registered prospectus referred to in it; or
+  (c) does not comply with this Act and regulations,—
 (2) Without limiting subsection (1) of this section, where, at any time, the Commission is of the opinion that an advertisement that contains or refers to an offer of debt securities the issuer of which is a registered bank is inconsistent with the most recent disclosure statement published by the registered bank under section 81 of the Reserve Bank of New Zealand Act 1989, the Commission may make an order prohibiting the distribution of that advertisement or any advertisement which relates to the offer of securities.
 (3) An order may be made on such terms and conditions as the Commission thinks fit.
 (4) Where the Commission makes an order under this section,—
-  (a) It shall forthwith notify the issuer of the securities that the order has been made and the reasons for making it; and
-  (b) It may notify any other person that the order has been made and the reasons for making it.
+  (a) it shall forthwith notify the issuer of the securities that the order has been made and the reasons for making it; and
+  (b) it may notify any other person that the order has been made and the reasons for making it.
 (5) Every person who contravenes an order made under this section commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
 (6) It is a defence to a charge under subsection (5) of this section if the defendant proves that the advertisement was distributed—
-  (a) Without the defendant's knowledge; or
-  (b) Without the defendant's knowledge of the order.
+  (a) without the defendant's knowledge; or
+  (b) without the defendant's knowledge of the order.
 (7) At any time after an order has been made under this section, the issuer of the securities to which the advertisement relates shall be entitled to be heard and represented before the Commission.
 (8) The Commission, if it is satisfied that the order should not continue in force, may revoke the order.
 (9) In this section, the term advertisement does not include an investment statement.
@@ -1094,53 +1089,53 @@ No advertisement shall contain a statement purporting to be made by an expert un
 
 ### 38C Meaning of investment statement
 In this Act, the term investment statement means a written document that—
-  (a) Contains or refers to one or more offers of securities to the public for subscription; and
-  (b) States that it is an investment statement for the purposes of this Act.
+  (a) contains or refers to one or more offers of securities to the public for subscription; and
+  (b) states that it is an investment statement for the purposes of this Act.
 
 ### 38D Purpose of investment statement
 The purpose of an investment statement is to—
-  (a) Provide certain key information that is likely to assist a prudent but non-expert person to decide whether or not to subscribe for securities; and
-  (b) Bring to the attention of such a person the fact that other important information about the securities is available to that person in other documents.
+  (a) provide certain key information that is likely to assist a prudent but non-expert person to decide whether or not to subscribe for securities; and
+  (b) bring to the attention of such a person the fact that other important information about the securities is available to that person in other documents.
 
 ### 38E Form and content of investment statement
 (1) Every investment statement shall—
-  (a) Be in writing; and
-  (b) State, in a prominent place, the date as at which the investment statement is prepared; and
-  (c) If a registered prospectus is required in respect of the securities referred to in the investment statement, state that there is a registered prospectus containing an offer of securities to which the investment statement relates; and
-  (d) Contain all information, statements, and other matters that it is required to contain by regulations.
+  (a) be in writing; and
+  (b) state, in a prominent place, the date as at which the investment statement is prepared; and
+  (c) if a registered prospectus is required in respect of the securities referred to in the investment statement, state that there is a registered prospectus containing an offer of securities to which the investment statement relates; and
+  (d) contain all information, statements, and other matters that it is required to contain by regulations.
 (2) An investment statement may relate to any or all of the following:
-  (a) One or more kinds of securities:
-  (b) One or more offers of or subscriptions for securities of a particular kind.
+  (a) one or more kinds of securities:
+  (b) one or more offers of or subscriptions for securities of a particular kind.
 (3) Unless this Act or regulations provide otherwise, nothing in this Act or in regulations limits the information, statements, or other matters that may be contained in an investment statement.
 
 ### 38F Suspension and prohibition of investment statement
 (1) Where, at any time, the Commission is of the opinion that an investment statement—the Commission may exercise either or both of the following powers in respect of the investment statement:
-  (a) Is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
-  (b) Is inconsistent with any registered prospectus referred to in it; or
-  (c) Does not comply with this Act and regulations,—
-  (d) If it considers that suspension of the investment statement is desirable in the public interest, the Commission may make an order suspending the investment statement for a period not exceeding 14 days:
-  (e) After giving the issuer of the investment statement not less than 7 days' written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, make an order prohibiting the distribution of the investment statement.
+  (a) is likely to deceive, mislead, or confuse with regard to any particular that is material to the offer of securities to which it relates; or
+  (b) is inconsistent with any registered prospectus referred to in it; or
+  (c) does not comply with this Act and regulations,—
+  (d) if it considers that suspension of the investment statement is desirable in the public interest, the Commission may make an order suspending the investment statement for a period not exceeding 14 days:
+  (e) after giving the issuer of the investment statement not less than 7 days' written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, make an order prohibiting the distribution of the investment statement.
 (2) An order may be made on such terms and conditions as the Commission thinks fit.
 (3) Where the Commission suspends an investment statement pursuant to this section,—
-  (a) It shall forthwith notify the issuer of the suspension and the reasons for it; and
-  (b) None of the following persons shall, except for the purposes of paragraph (a) of this subsection or following prohibition of the distribution of the investment statement under this section, or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the suspension or any matter relating to it:
-    (i) A member of the Commission or an officer or employee of the Commission:
-    (ii) A person appointed under section 21 of this Act.
+  (a) it shall forthwith notify the issuer of the suspension and the reasons for it; and
+  (b) none of the following persons shall, except for the purposes of paragraph (a) of this subsection or following prohibition of the distribution of the investment statement under this section, or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the suspension or any matter relating to it:
+    (i) a member of the Commission or an officer or employee of the Commission:
+    (ii) a person appointed under section 21 of this Act.
 (4) Subject to subsection (6), while an investment statement is suspended no allotment may be made of the securities subscribed for, whether before or after the suspension order is made.
 (5) The Commission, if it is satisfied that the suspension of an investment statement should not continue in force, may revoke the suspension.
 (6) Subsection (4) of this section ceases to apply if—
-  (i) The Commission revokes the suspension of an investment statement; or
-  (ii) The period of suspension of an investment statement expires and the distribution of the investment statement has not been prohibited under this section.
+  (i) the Commission revokes the suspension of an investment statement; or
+  (ii) the period of suspension of an investment statement expires and the distribution of the investment statement has not been prohibited under this section.
 (7) Where the Commission revokes the suspension of an investment statement pursuant to this section,—
-  (a) It shall forthwith notify the issuer of the revocation of the suspension; and
-  (b) None of the following persons shall, except for the purposes of paragraph (a) of this subsection or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the revocation of the suspension or any matter relating to it:
-    (i) A member of the Commission or an officer or employee of the Commission:
-    (ii) A person appointed under section 21 of this Act.
+  (a) it shall forthwith notify the issuer of the revocation of the suspension; and
+  (b) none of the following persons shall, except for the purposes of paragraph (a) of this subsection or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the revocation of the suspension or any matter relating to it:
+    (i) a member of the Commission or an officer or employee of the Commission:
+    (ii) a person appointed under section 21 of this Act.
 (8) Where the Commission prohibits the distribution of an investment statement pursuant to this section,—
-  (a) It shall forthwith notify the issuer of the prohibition and the reasons for it; and
-  (b) It may notify any other person of the prohibition and the reasons for it.
+  (a) it shall forthwith notify the issuer of the prohibition and the reasons for it; and
+  (b) it may notify any other person of the prohibition and the reasons for it.
 (9) Subject to subsection (11) of this section, where the distribution of an investment statement is prohibited,—
-  (a) No allotment shall be made of any securities subscribed for whether before or after the prohibition order is made:
+  (a) no allotment shall be made of any securities subscribed for whether before or after the prohibition order is made:
   (b) all subscriptions received for securities to which the investment statement relates, not being subscriptions for securities that were allotted before any order was made under subsection (1) in respect of the investment statement, must be immediately repaid to the subscribers.
   (c)
 (10) The Commission, if it is satisfied that the prohibition of the distribution of an investment statement should not continue in force, may revoke the prohibition.
@@ -1153,90 +1148,90 @@ The purpose of an investment statement is to—
 
 ### 39 Form and content of prospectus
 (1) Every prospectus and registered prospectus shall—
-  (a) Be in writing and be dated; and
-  (b) Specify any documents required by section 41 of this Act to be endorsed on or attached to the prospectus or registered prospectus for the purposes of that section; and
-  (c) Contain all information, statements, certificates, and other matters that it is required to contain by regulations made under this Act.
+  (a) be in writing and be dated; and
+  (b) specify any documents required by section 41 of this Act to be endorsed on or attached to the prospectus or registered prospectus for the purposes of that section; and
+  (c) contain all information, statements, certificates, and other matters that it is required to contain by regulations made under this Act.
 (2) A prospectus or registered prospectus may form part of, or be combined with, any annual report or other document that is required by any enactment; and, in any such case, the provisions of this Act and of all regulations made under this Act shall apply to that annual report or other document.
 (3) Unless this Act or regulations provide otherwise, nothing in this Act or in regulations made under this Act limits the information, statements, certificates, or other matters that may be contained in a prospectus or registered prospectus.
 
 ### 40 Statement in prospectus by expert
 (1) No prospectus delivered to the Registrar for registration under this Act, and no registered prospectus, shall contain a statement purporting to be made by an expert unless—
-  (a) The expert has given and has not, before delivery of a copy of the prospectus for registration in accordance with section 41 of this Act, withdrawn his or her written consent to the distribution of the prospectus with the statement included in the form and context in which it is included; and
-  (b) A statement that the expert has given and has not withdrawn his or her consent as aforesaid appears in the prospectus or registered prospectus; and
-  (c) A statement of the expert's qualifications appears in the prospectus or registered prospectus; and
-  (d) A statement which appears in the prospectus or registered prospectus states whether or not the expert is or is intended to be a director, officer, or employee of, or professional adviser to, the issuer of the prospectus; and
-  (e) If the statement by the expert was made more than 4 months before the date of delivery of the prospectus for registration in accordance with section 41 of this Act, a supplementary statement on the same matter made by the same or another expert less than 4 months before that date appears in the prospectus and registered prospectus.
+  (a) the expert has given and has not, before delivery of a copy of the prospectus for registration in accordance with section 41 of this Act, withdrawn his or her written consent to the distribution of the prospectus with the statement included in the form and context in which it is included; and
+  (b) a statement that the expert has given and has not withdrawn his or her consent as aforesaid appears in the prospectus or registered prospectus; and
+  (c) a statement of the expert's qualifications appears in the prospectus or registered prospectus; and
+  (d) a statement which appears in the prospectus or registered prospectus states whether or not the expert is or is intended to be a director, officer, or employee of, or professional adviser to, the issuer of the prospectus; and
+  (e) if the statement by the expert was made more than 4 months before the date of delivery of the prospectus for registration in accordance with section 41 of this Act, a supplementary statement on the same matter made by the same or another expert less than 4 months before that date appears in the prospectus and registered prospectus.
 (2) Where under subsection (1)(e) of this section, a supplementary statement by an expert is required to appear in a prospectus or registered prospectus—
-  (a) The supplementary statement shall specifically affirm, deny, or qualify all assertions of fact contained in the original statement; and
-  (b) If in the opinion of the expert making the supplementary statement, any opinions expressed in the original statement require further comment because of any such denial or qualification of any assertions of fact, or for any other reason, the supplementary statement shall contain such comments.
+  (a) the supplementary statement shall specifically affirm, deny, or qualify all assertions of fact contained in the original statement; and
+  (b) if in the opinion of the expert making the supplementary statement, any opinions expressed in the original statement require further comment because of any such denial or qualification of any assertions of fact, or for any other reason, the supplementary statement shall contain such comments.
 
 ### 41 Requirements relating to prospectuses delivered to registrar for Registration
 Every prospectus delivered to the Registrar for registration under this Act shall—
-  (a) Have endorsed thereon or attached thereto—
-    (i) Any consent to the issue thereof required by section 40 of this Act from any person as an expert; and
-    (ii) All documents, information, certificates, and other matters required to be endorsed thereon or attached thereto for the purposes of this section by regulations made under this Act; and
-  (b) Be signed by—
-    (i) The issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the prospectus is delivered to the Registrar, or by its or his or her agent authorised in writing; and
-    (ii) Every promoter of the securities to which the prospectus relates, or by its or his or her agent authorised in writing.
+  (a) have endorsed thereon or attached thereto—
+    (i) any consent to the issue thereof required by section 40 of this Act from any person as an expert; and
+    (ii) all documents, information, certificates, and other matters required to be endorsed thereon or attached thereto for the purposes of this section by regulations made under this Act; and
+  (b) be signed by—
+    (i) the issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the prospectus is delivered to the Registrar, or by its or his or her agent authorised in writing; and
+    (ii) every promoter of the securities to which the prospectus relates, or by its or his or her agent authorised in writing.
 
 ### 42 Registration of prospectus
 (1) Subject to subsections (2) and (3) of this section, the Registrar shall forthwith register every prospectus delivered to him or her in accordance with section 41 of, and any regulations made under, this Act.
 (2) The Registrar may refuse to register a prospectus if—
-  (a) It does not comply with this Act; or
-  (b) It contains any misdescription or error or any matter that is not clearly legible or is contrary to law; or
-  (c) The prescribed amount payable on registration is not paid.
+  (a) it does not comply with this Act; or
+  (b) it contains any misdescription or error or any matter that is not clearly legible or is contrary to law; or
+  (c) the prescribed amount payable on registration is not paid.
 (3) The Registrar shall refuse to register a prospectus if—
-  (a) The date of registration would be earlier than the date of the prospectus; or
-  (b) He or she is of the opinion that the prospectus contains a statement that is false or misleading on a material particular or omits any material particular.
+  (a) the date of registration would be earlier than the date of the prospectus; or
+  (b) he or she is of the opinion that the prospectus contains a statement that is false or misleading on a material particular or omits any material particular.
 (4) Notwithstanding subsections (2) and (3) of this section,—
-  (a) The Registrar shall not refuse to register a prospectus pursuant to either of those subsections if—
-    (i) The text, diagrams, illustrations, photographs, and other information, the size and style of the print, and the layout used in the prospectus are (except for the colours used and any signatures) the same as those used or specified in a prospectus, including any attachment relating thereto, previously approved by him or her as suitable for registration; and
-    (ii) He or she considers that the colours used in the prospectus are such that every word therein is clearly legible:
-  (b) The Registrar may register a prospectus that does not comply with section 41 of this Act if he or she is satisfied that it complies with all provisions of this Act other than section 41 and, except for the matters referred to in that section, it is a satisfactory copy of a registered prospectus.
+  (a) the Registrar shall not refuse to register a prospectus pursuant to either of those subsections if—
+    (i) the text, diagrams, illustrations, photographs, and other information, the size and style of the print, and the layout used in the prospectus are (except for the colours used and any signatures) the same as those used or specified in a prospectus, including any attachment relating thereto, previously approved by him or her as suitable for registration; and
+    (ii) he or she considers that the colours used in the prospectus are such that every word therein is clearly legible:
+  (b) the Registrar may register a prospectus that does not comply with section 41 of this Act if he or she is satisfied that it complies with all provisions of this Act other than section 41 and, except for the matters referred to in that section, it is a satisfactory copy of a registered prospectus.
 (5) Upon registration of a prospectus pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the prospectus has been registered under this section.
 
 ### 43 Amendment of registered prospectus
 (1) A registered prospectus may be amended by a memorandum of amendments to the registered prospectus delivered to the Registrar and registered under this section.
 (2) Every memorandum of amendments to a registered prospectus delivered to the Registrar must be—
-  (i) Signed by the issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the memorandum is delivered to the Registrar, or by its or his or her agent authorised in writing; and
+  (i) signed by the issuer of the prospectus (if an individual) and every person who is a director of the issuer at the time the memorandum is delivered to the Registrar, or by its or his or her agent authorised in writing; and
   (ii) accompanied by a copy of the registered prospectus as amended.
 (3) Subject to subsections (4) and (5) of this section, the Registrar shall forthwith register every memorandum of amendments to a registered prospectus delivered to him or her in accordance with this section.
 (4) The Registrar may refuse to register a memorandum of amendments to a registered prospectus if—
-  (a) Pursuant to section 42(2) of this Act, he or she could have refused to register the registered prospectus as amended if it had been delivered for registration at the time of the delivery to him or her of the memorandum; or
-  (b) The prescribed amount payable on registration is not paid.
+  (a) pursuant to section 42(2) of this Act, he or she could have refused to register the registered prospectus as amended if it had been delivered for registration at the time of the delivery to him or her of the memorandum; or
+  (b) the prescribed amount payable on registration is not paid.
 (5) The Registrar shall refuse to register a memorandum of amendments to a registered prospectus if—
-  (a) He or she is of the opinion that the registered prospectus as amended contains a statement that is false or misleading on a material particular or omits any material particular; or
-  (b) The date of the registered prospectus is altered.
+  (a) he or she is of the opinion that the registered prospectus as amended contains a statement that is false or misleading on a material particular or omits any material particular; or
+  (b) the date of the registered prospectus is altered.
 (6) Upon registration of a memorandum of amendments to a registered prospectus pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the memorandum has been registered under this section.
 
 ### 44 Suspension and cancellation of registration of registered prospectus
 (1) Where at any time the Commission is of the opinion that a registered prospectus is false or misleading as to a material particular or omits any material particular (whether or not it was so false or misleading, or the omission was material, at the time the prospectus was registered), or does not comply with this Act and regulations made under this Act, the Commission may exercise either or both of the following powers in respect of the registered prospectus:
-  (a) If it considers that suspension of the registration of the registered prospectus is desirable in the public interest, the Commission may suspend the registration thereof for a period not exceeding 14 days:
-  (b) After giving the issuer named in the registered prospectus not less than 7 days' written notice of the meeting at which the matter will be considered by the Commission, the Commission may at that meeting cancel the registration thereof.
+  (a) if it considers that suspension of the registration of the registered prospectus is desirable in the public interest, the Commission may suspend the registration thereof for a period not exceeding 14 days:
+  (b) after giving the issuer named in the registered prospectus not less than 7 days' written notice of the meeting at which the matter will be considered by the Commission, the Commission may at that meeting cancel the registration thereof.
 (2) Where the Commission suspends the registration of a registered prospectus pursuant to this section,—
-  (a) It shall forthwith notify the issuer named in the prospectus of the suspension and the reasons for it; and
-  (b) It may notify the Registrar of the suspension and the reasons for it; and
-  (c) None of the following persons shall, except for the purposes of paragraph (a) or paragraph (b) of this subsection or following cancellation of the registered prospectus under this section or in the course of any criminal proceedings, divulge or communicate to any person the fact of the suspension or any matter relating to it:
-    (i) A member of the Commission or an officer or employee of the Commission:
-    (ii) A person appointed under section 21 of this Act:
-    (iii) The Registrar.
+  (a) it shall forthwith notify the issuer named in the prospectus of the suspension and the reasons for it; and
+  (b) it may notify the Registrar of the suspension and the reasons for it; and
+  (c) none of the following persons shall, except for the purposes of paragraph (a) or paragraph (b) of this subsection or following cancellation of the registered prospectus under this section or in the course of any criminal proceedings, divulge or communicate to any person the fact of the suspension or any matter relating to it:
+    (i) a member of the Commission or an officer or employee of the Commission:
+    (ii) a person appointed under section 21 of this Act:
+    (iii) the Registrar.
 (3) Subject to subsection (4A), while the registration of a registered prospectus is suspended no allotment may be made of the securities subscribed for, whether before or after the suspension order is made.
 (4) The Commission, if it is satisfied that the suspension of the registration of a registered prospectus should not continue in force, may revoke the suspension.
 (4A) Subsection (3) of this section ceases to apply if—
-  (i) The Commission revokes the suspension of registration of a registered prospectus; or
-  (ii) The period of suspension of registration of a registered prospectus expires and the registration of that registered prospectus is not cancelled under this section.
+  (i) the Commission revokes the suspension of registration of a registered prospectus; or
+  (ii) the period of suspension of registration of a registered prospectus expires and the registration of that registered prospectus is not cancelled under this section.
 (4B) Where the Commission revokes the suspension of the registration of a registered prospectus pursuant to this section,—
-  (a) It shall forthwith notify the issuer named in the prospectus of the revocation of the suspension; and
-  (b) It may notify the Registrar of the revocation of the suspension; and
-  (c) None of the following persons shall, except for the purposes of paragraph (a) or paragraph (b) of this subsection or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the revocation of the suspension or any matter relating to it:
-    (i) A member of the Commission or an officer or employee of the Commission:
-    (ii) A person appointed under section 21 of this Act:
-    (iii) The Registrar.
+  (a) it shall forthwith notify the issuer named in the prospectus of the revocation of the suspension; and
+  (b) it may notify the Registrar of the revocation of the suspension; and
+  (c) none of the following persons shall, except for the purposes of paragraph (a) or paragraph (b) of this subsection or in the course of any criminal proceedings, divulge or communicate to any other person the fact of the revocation of the suspension or any matter relating to it:
+    (i) a member of the Commission or an officer or employee of the Commission:
+    (ii) a person appointed under section 21 of this Act:
+    (iii) the Registrar.
 (5) Where the Commission cancels the registration of a registered prospectus pursuant to this section—
-  (a) It shall forthwith notify the issuer named therein of the cancellation and the reasons therefor; and
-  (b) It may notify any other person of the cancellation and the reasons therefor.
+  (a) it shall forthwith notify the issuer named therein of the cancellation and the reasons therefor; and
+  (b) it may notify any other person of the cancellation and the reasons therefor.
 (6) Where the registration of a registered prospectus is cancelled—
-  (a) No allotment shall be made of any securities subscribed for whether before or after the cancellation of the registration of the registered prospectus:
+  (a) no allotment shall be made of any securities subscribed for whether before or after the cancellation of the registration of the registered prospectus:
   (b) all subscriptions received for securities to which the registered prospectus relates, not being subscriptions for securities that were allotted before any power was exercised under subsection (1) in respect of the registered prospectus, must be immediately repaid to the subscribers.
   (c)
 (7) Subject to subsection (8) of this section, if any subscriptions which are required to be repaid to the subscribers entitled thereto are not so repaid within one month after the date of the cancellation of the registration of the registered prospectus, the issuer named therein and all the directors thereof shall be jointly and severally liable to repay the subscriptions with interest at a rate prescribed from time to time by regulations made under this Act from the date the subscriptions were received by or on behalf of the issuer.
@@ -1350,25 +1345,25 @@ If the Commission makes a prohibition order,—
 ### 44B Commission's powers in respect of contributory mortgages
 (1) Where the Registrar receives a report from an auditor appointed pursuant to regulations made under this Act to the effect that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or regulations made under this Act, the Registrar may forward a copy of that report to the Commission.
 (2) The Commission may, either on the receipt of that report or for any other reason, if it is satisfied that a contributory mortgage broker is contravening, or has contravened, any of the provisions of this Act or regulations made under this Act, and that it is desirable in the public interest to do so, exercise any one or more of the following powers:
-  (a) Order that the contributory mortgage broker be prohibited from offering interests in contributory mortgages to the public for subscription for a period not exceeding 14 days; or
-  (b) After giving the contributory mortgage broker not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, order that the contributory mortgage broker be prohibited from offering interests in contributory mortgages to the public for subscription for such period as the Commission thinks fit; or
-  (c) After giving the contributory mortgage broker not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, order that the contributory mortgage broker shall forthwith cease to act as contributory mortgage broker in respect of all or any contributory mortgages which have previously been allotted by him or her and appoint another person to act as contributory mortgage broker in his or her place with respect to those contributory mortgages; or
-  (d) After giving the contributory mortgage broker and any director or secretary of that broker's nominee company not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, by order, remove any of the directors or secretary (as the case may be) of any nominee company of that contributory mortgage broker and appoint any person as a director or secretary (as the case may be) in his or her place.
+  (a) order that the contributory mortgage broker be prohibited from offering interests in contributory mortgages to the public for subscription for a period not exceeding 14 days; or
+  (b) after giving the contributory mortgage broker not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, order that the contributory mortgage broker be prohibited from offering interests in contributory mortgages to the public for subscription for such period as the Commission thinks fit; or
+  (c) after giving the contributory mortgage broker not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, order that the contributory mortgage broker shall forthwith cease to act as contributory mortgage broker in respect of all or any contributory mortgages which have previously been allotted by him or her and appoint another person to act as contributory mortgage broker in his or her place with respect to those contributory mortgages; or
+  (d) after giving the contributory mortgage broker and any director or secretary of that broker's nominee company not less than 7 days written notice of the meeting at which the matter will be considered by the Commission, the Commission may, at that meeting, by order, remove any of the directors or secretary (as the case may be) of any nominee company of that contributory mortgage broker and appoint any person as a director or secretary (as the case may be) in his or her place.
 (3) Where the Commission makes an order under subsection (2) of this section—
-  (a) It shall forthwith notify the broker of the order and the reasons therefor; and
-  (b) It may notify any other person or persons of the order and the reasons therefor.
+  (a) it shall forthwith notify the broker of the order and the reasons therefor; and
+  (b) it may notify any other person or persons of the order and the reasons therefor.
 (4) Any such order made by the Commission under subsection (2) of this section may be made upon such terms and conditions as the Commission sees fit and shall have effect according to its tenor.
 
 ### 44C Powers and duties of persons appointed to act as broker
 (1) Where a person (in this section called the appointee) has been appointed by the Commission to act as a contributory mortgage broker in respect of contributory mortgages under section 44B(2)(c) of this Act, the appointee shall have and may exercise all the powers of the contributory mortgage broker he or she is appointed to replace (in this section called the defaulting broker), including, but without limitation, the following powers—
-  (a) To take and to retain possession of all property, whatsoever and wheresoever situated, of the defaulting broker and his or her nominee company relating to the contributory mortgages which were being managed by the defaulting broker (in this section called the mortgages) and to hold and administer that property for the benefit of the contributors to the mortgages in their respective rights and interests:
-  (b) To demand and receive all money payable to the defaulting broker on account of the mortgages:
-  (c) To sue for and recover all debts due and other money payable to the defaulting broker on account of the mortgages:
-  (d) To pay over, in the discretion of the appointee, and in such manner and to such extent as he or she thinks fit, any money received by him or her in his or her capacity as appointee, whether arising from real or personal property and whether capital or income, for any purpose for or to which the defaulting broker might lawfully have applied that money:
-  (e) To carry out and perform contracts relating to the mortgages entered into by the defaulting broker before the appointment of the appointee:
-  (f) To take any such action, including, without limitation, actions at law or in equity, to enforce the rights of the mortgagee under the mortgages:
-  (g) To consult and employ counsel, solicitors, accountants, and other persons for the purpose of performing his or her duties hereunder:
-  (h) To do all acts and to execute, in the name of the defaulting broker all deeds, receipts, and other documents, and for that purpose to use, when necessary, the seal of the defaulting broker (if any).
+  (a) to take and to retain possession of all property, whatsoever and wheresoever situated, of the defaulting broker and his or her nominee company relating to the contributory mortgages which were being managed by the defaulting broker (in this section called the mortgages) and to hold and administer that property for the benefit of the contributors to the mortgages in their respective rights and interests:
+  (b) to demand and receive all money payable to the defaulting broker on account of the mortgages:
+  (c) to sue for and recover all debts due and other money payable to the defaulting broker on account of the mortgages:
+  (d) to pay over, in the discretion of the appointee, and in such manner and to such extent as he or she thinks fit, any money received by him or her in his or her capacity as appointee, whether arising from real or personal property and whether capital or income, for any purpose for or to which the defaulting broker might lawfully have applied that money:
+  (e) to carry out and perform contracts relating to the mortgages entered into by the defaulting broker before the appointment of the appointee:
+  (f) to take any such action, including, without limitation, actions at law or in equity, to enforce the rights of the mortgagee under the mortgages:
+  (g) to consult and employ counsel, solicitors, accountants, and other persons for the purpose of performing his or her duties hereunder:
+  (h) to do all acts and to execute, in the name of the defaulting broker all deeds, receipts, and other documents, and for that purpose to use, when necessary, the seal of the defaulting broker (if any).
 (2) The appointee may, at any time, in his or her discretion apply to the Court ex parte for directions with respect to the exercise of his or her powers, and the Court may, on any such application, make such order as the Court thinks fit.
 (3) The Court may, on application of the appointee, enlarge the powers of the appointee in such manner as it thinks fit.
 (4) It shall be the duty of all persons having possession or control of any documents or other property, whatsoever and wheresoever situated, belonging to the defaulting broker and relating to the mortgages, forthwith after the appointment of the appointee to yield up the same to the appointee.
@@ -1380,8 +1375,8 @@ If the Commission makes a prohibition order,—
 
 ### 44D Powers and duties of person appointed to act as director or secretary of Nominee Company
 (1) Any person appointed by the Commission pursuant to section 44B(2)(d) of this Act—
-  (a) Shall not be liable for any acts or omissions by him or her in good faith in the exercise of his or her powers as a director or secretary, and no action or proceeding shall be commenced against that person except by leave of the Court and subject to such terms and conditions as the Court may impose:
-  (b) Shall be entitled to be paid out of the property held in the name of the nominee company, in priority to all other claims, all costs, charges, and expenses properly incurred by him or her in the exercise of his or her powers and functions (including such remuneration as may be approved by the Commission) as a director or secretary.
+  (a) shall not be liable for any acts or omissions by him or her in good faith in the exercise of his or her powers as a director or secretary, and no action or proceeding shall be commenced against that person except by leave of the Court and subject to such terms and conditions as the Court may impose:
+  (b) shall be entitled to be paid out of the property held in the name of the nominee company, in priority to all other claims, all costs, charges, and expenses properly incurred by him or her in the exercise of his or her powers and functions (including such remuneration as may be approved by the Commission) as a director or secretary.
 (2) It shall be the duty of all persons having possession or control of any documents, whatsoever and wheresoever situated, relating to the contributory mortgage broker in respect of whose nominee company the order has been made, to deliver to any person appointed pursuant to section 44B(2)(d), such documents as that person may require for the purpose of exercising his or her powers and functions as a director or secretary.
 
 **Trust deeds and deeds of participation**
@@ -1394,19 +1389,19 @@ If the Commission makes a prohibition order,—
 ### 46 Registration of trust deeds and deeds of participation
 (1) Subject to subsection (2) of this section, the Registrar shall forthwith register every copy of a trust deed or deed of participation delivered to him or her for registration under this Act.
 (2) The Registrar may refuse to register a trust deed or deed of participation if—
-  (a) It does not comply with this Act; or
-  (b) It contains any misdescription or error or any matter that is not clearly legible; or
-  (c) The prescribed registration fee is not paid.
+  (a) it does not comply with this Act; or
+  (b) it contains any misdescription or error or any matter that is not clearly legible; or
+  (c) the prescribed registration fee is not paid.
 (3) Upon registration of a copy of a deed pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the deed has been registered under this section.
 
 ### 47 Amendment of registered deed
 (1) Where a trust deed or deed of participation that has been registered under this Act has been lawfully amended, the issuer shall ensure that there is delivered to the Registrar, as soon as practicable after the amendment, a copy of the instrument by which the amendment to the deed was made.
 (2) Subject to subsection (3) of this section, the Registrar shall forthwith register every copy of an instrument amending a deed that—
-  (a) Is delivered to him or her for registration under this section; and
-  (b) If the Registrar so requires, is accompanied by a copy of the deed as amended.
+  (a) is delivered to him or her for registration under this section; and
+  (b) if the Registrar so requires, is accompanied by a copy of the deed as amended.
 (3) The Registrar may refuse to register a copy of an instrument amending a deed if—
-  (a) Pursuant to section 46(2) of this Act, he or she could have refused to register the deed as amended if it had been delivered for registration at the time of the delivery to him or her of the copy of the instrument; or
-  (b) The prescribed registration fee is not paid.
+  (a) pursuant to section 46(2) of this Act, he or she could have refused to register the deed as amended if it had been delivered for registration at the time of the delivery to him or her of the copy of the instrument; or
+  (b) the prescribed registration fee is not paid.
 (4) Upon registration of a copy of an instrument pursuant to this section, the Registrar shall forthwith give a certificate of that registration, and the certificate shall be conclusive evidence that the copy has been registered under this section.
 
 **Trustees and statutory supervisors**
@@ -1414,8 +1409,8 @@ If the Commission makes a prohibition order,—
 ### 48 Persons who may act as trustees and statutory supervisors
 (1) No person other than a trustee corporation or a person approved for the purpose by the Commission in accordance with this section, shall accept appointment or act as a trustee or statutory supervisor.
 (2) No trustee or statutory supervisor shall, without the consent of the Court, be discharged or retire from that position until—
-  (a) All functions and duties of that position have been fulfilled and performed; or
-  (b) The issuer of the securities has appointed another person as a trustee or statutory supervisor, as the case may be, in its place, and that person has accepted appointment as such.
+  (a) all functions and duties of that position have been fulfilled and performed; or
+  (b) the issuer of the securities has appointed another person as a trustee or statutory supervisor, as the case may be, in its place, and that person has accepted appointment as such.
 (3) The Commission may from time to time, by notice in the Gazette, approve any person or persons, or class or classes of persons, to act as a trustee or statutory supervisor for the purposes of this Act. Any such approval may be in respect of specified securities, or a specified class or classes of securities only, or in respect of all securities; and may be on such terms and conditions as the Commission thinks fit.
 (4) The Commission may at any time, by notice in the Gazette, revoke any approval of a person, or class of persons, given by it under this section:
   Provided that no such revocation shall affect any appointment of that person or a person of that class made before the date of the revocation, or the powers, duties, or obligations of the person under or by virtue of any such appointment.
@@ -1424,17 +1419,17 @@ If the Commission makes a prohibition order,—
 
 ### 49 Trustees and statutory supervisors may apply to Court for orders relating to securities
 (1) Where at any time after due inquiry, a trustee or statutory supervisor of securities is of the opinion that—the trustee or statutory supervisor may, in its absolute discretion, apply to the Court for an order or orders under this section.
-  (a) The issuer and any guarantor of the securities are unlikely to be able to pay all money owing in respect of the securities when it becomes due; or
-  (b) The provisions of any deed relating to the securities are no longer adequate to give proper protection to the security holders—
+  (a) the issuer and any guarantor of the securities are unlikely to be able to pay all money owing in respect of the securities when it becomes due; or
+  (b) the provisions of any deed relating to the securities are no longer adequate to give proper protection to the security holders—
 (2) An application to the Court under this section shall be served on such persons as the Court may direct.
 (3) On an application by a trustee or statutory supervisor under this section, the Court may, after giving the issuer and such other persons as it thinks fit an opportunity of being heard, by order—In making any such order the Court shall have regard to the interests of all creditors of the issuer.
-  (a) Amend the provisions of any deed relating to the securities:
-  (b) Impose such restrictions on the activities of the issuer, including restrictions on advertising, as the Court thinks necessary for the protection of the interests of the security holders:
-  (c) Direct the issuer or the trustee or statutory supervisor to convene a meeting of the security holders for the purpose of having placed before them by the trustee or statutory supervisor such information relating to their interests, and such proposals for the protection of their interests, as the Court or the trustee or statutory supervisor considers necessary or appropriate, and for the purpose of obtaining their opinions or directions in relation thereto; and the Court may give such directions in relation to the conduct of the meeting as the Court thinks fit:
-  (d) Stay all civil actions or civil proceedings before any Court by or against the issuer or any guarantor of the securities:
-  (e) Restrain the payment of any money by the issuer or any guarantor of the securities to the security holders or any class of such holders:
-  (f) Appoint a receiver or manager of such of the property as constitutes the security (if any) for the securities:
-  (g) Give such other directions as the Court considers necessary to protect the interests of the security holders, other holders of securities of the issuer, any guarantor of the securities, or the public.
+  (a) amend the provisions of any deed relating to the securities:
+  (b) impose such restrictions on the activities of the issuer, including restrictions on advertising, as the Court thinks necessary for the protection of the interests of the security holders:
+  (c) direct the issuer or the trustee or statutory supervisor to convene a meeting of the security holders for the purpose of having placed before them by the trustee or statutory supervisor such information relating to their interests, and such proposals for the protection of their interests, as the Court or the trustee or statutory supervisor considers necessary or appropriate, and for the purpose of obtaining their opinions or directions in relation thereto; and the Court may give such directions in relation to the conduct of the meeting as the Court thinks fit:
+  (d) stay all civil actions or civil proceedings before any Court by or against the issuer or any guarantor of the securities:
+  (e) restrain the payment of any money by the issuer or any guarantor of the securities to the security holders or any class of such holders:
+  (f) appoint a receiver or manager of such of the property as constitutes the security (if any) for the securities:
+  (g) give such other directions as the Court considers necessary to protect the interests of the security holders, other holders of securities of the issuer, any guarantor of the securities, or the public.
 (4) The Court may at any time vary or rescind any order made under this section.
 
 **Duties of auditors**
@@ -1442,16 +1437,16 @@ If the Commission makes a prohibition order,—
 ### 50 Duty of auditor to report to trustee or statutory supervisor
 (1) Whenever the auditor of an issuer of debt securities or participatory securities offered to the public (being securities that are held by members of the public) furnishes to the issuer or its members or shareholders or the security holders any report, financial statements, certificate, or other document that is required by any Act or by any deed relating to the securities to be so furnished, the auditor shall forthwith send a copy to the trustee or statutory supervisor of the securities.
 (2) Whenever, in the performance of the auditor's duties, the auditor of an issuer of debt securities or participatory securities offered to the public (being securities that are held by members of the public) becomes aware of any matter that, in the auditor's opinion, is relevant to the exercise or performance of the powers or duties of the trustee or statutory supervisor of the securities, the auditor shall, within 7 working days of becoming aware of the matter, send—
-  (a) To the issuer, a report in writing on the matter; and
-  (b) To the trustee or statutory supervisor, as the case may be, a copy of that report.
+  (a) to the issuer, a report in writing on the matter; and
+  (b) to the trustee or statutory supervisor, as the case may be, a copy of that report.
 (3) The auditor of an issuer of debt securities or participatory securities offered to the public (being securities that are held by members of the public) shall from time to time, at the request of the trustee or statutory supervisor, furnish to the trustee or statutory supervisor such information or particulars relating to the issuer as are requested and are within the auditor's knowledge and are, in the auditor's opinion, relevant to the exercise or performance of the powers or duties of the trustee or statutory supervisor.
 (4) Nothing in this section affects the duties or liability of a trustee or statutory supervisor.
 
 ### 50A Duty of auditor to report to unit trustee
 (1) Whenever the auditor of an issuer of units in a unit trust furnishes to the issuer any report, financial statements, certificate, or other documents required by any Act or any trust deed relating to the unit trust, the auditor shall forthwith send a copy to the unit trustee.
 (2) Whenever, in the performance of the auditor's duties, the auditor of a unit trust that has units held by members of the public becomes aware of any matter that, in the auditor's opinion, is relevant to the exercise or performance of the powers or duties of the unit trustee, the auditor shall, within 7 working days of becoming aware of the matter, send—
-  (a) To the issuer of the units, a report in writing on the matter; and
-  (b) To the unit trustee, a copy of that report.
+  (a) to the issuer of the units, a report in writing on the matter; and
+  (b) to the unit trustee, a copy of that report.
 (3) The auditor of an issuer of units in a unit trust that has units held by members of the public shall from time to time, at the request of the unit trustee, furnish to the unit trustee such information or particulars relating to the issuer as are requested and are within the auditor's knowledge and are, in the auditor's opinion, relevant to the exercise or performance of the powers or duties of the unit trustee.
 (4) Nothing in this section affects the duties or liability of an issuer of units in a unit trust or a unit trustee.
 
@@ -1459,29 +1454,29 @@ If the Commission makes a prohibition order,—
 
 ### 51 Issuers to keep registers of securities
 (1) Every issuer of securities offered to the public shall keep in New Zealand—of which it is the issuer.
-  (a) A register of all equity securities; and
-  (b) Where the issuer is a company, a register of all debentures, debenture stock, bonds, notes, certificates of deposit, and convertible notes; and
-  (c) A register of all participatory securities; and
-  (d) A register of all units in unit trusts; and
-  (e) A register of all interests in superannuation schemes; and
-  (f) A register of all life insurance policies—
+  (a) a register of all equity securities; and
+  (b) where the issuer is a company, a register of all debentures, debenture stock, bonds, notes, certificates of deposit, and convertible notes; and
+  (c) a register of all participatory securities; and
+  (d) a register of all units in unit trusts; and
+  (e) a register of all interests in superannuation schemes; and
+  (f) a register of all life insurance policies—
 (2) Every register kept for the purposes of this section shall contain, in respect of every security entered in it,—
-  (a) The name and address of the holder; and
-  (b) The date on which the security was allotted or transferred to the holder, as the case may be; and
-  (c) The nature of the security; and
-  (d) The amount of the security (if any); and
-  (e) The due date of the security (if any); and
-  (f) Such other particulars as are required to be entered in the register by regulations.
+  (a) the name and address of the holder; and
+  (b) the date on which the security was allotted or transferred to the holder, as the case may be; and
+  (c) the nature of the security; and
+  (d) the amount of the security (if any); and
+  (e) the due date of the security (if any); and
+  (f) such other particulars as are required to be entered in the register by regulations.
 (3) Nothing in paragraphs (a) and (b) of subsection (2) of this section applies to bearer securities.
 (4) No notice of any trust, expressed, implied, or constructive, shall be entered on a register kept under any of paragraphs (a) to (c), and (f) of subsection (1) of this section.
 (5) Every register kept under this section is prima facie evidence of the matters required by this Act to be entered in it.
 (6) Every issuer of securities offered to the public (other than securities that have been redeemed) shall ensure that every register kept by it under this section is audited at least once a year by a qualified auditor.
 (7) Nothing in subsection (6) of this section applies to a superannuation scheme if, by virtue of section 13(2) of the Superannuation Schemes Act 1989, the annual accounts of the scheme need not be audited.
 (8) If the auditor considers at any time that this section is not being complied with, the auditor shall forthwith advise the issuer and,—
-  (a) In the case of equity securities, the security holders at their next meeting:
-  (b) In the case of debt securities, the trustee:
-  (c) In the case of participatory securities, the statutory supervisor:
-  (d) In the case of units in a unit trust, the unit trustee.
+  (a) in the case of equity securities, the security holders at their next meeting:
+  (b) in the case of debt securities, the trustee:
+  (c) in the case of participatory securities, the statutory supervisor:
+  (d) in the case of units in a unit trust, the unit trustee.
 (9) Every issuer shall send a notice to the Registrar of the place where its registers are kept and of any change in that place.
 (10) Subsection (9) of this section does not apply to an issuer that is a company if the registers of the company are kept at its registered office.
 (11) Nothing in this section derogates from the Life Insurance Act 1908 or the Companies Act 1993.
@@ -1496,20 +1491,20 @@ If the Commission makes a prohibition order,—
 
 ### 53 Issuers to keep proper accounting records
 (1) Every issuer of securities offered to the public (other than securities that have been redeemed) shall ensure that there are kept at all times accounting records that—
-  (a) Correctly record and explain the transactions,—
-    (i) In the case of an issuer of equity securities, debt securities, or life insurance policies, of the issuer; and
-    (ii) In the case of an issuer of participatory securities, units in a unit trust, or interests in a superannuation scheme, of the scheme; and
-  (b) Will at any time enable the financial position of the issuer or scheme, as the case may be, to be determined with reasonable accuracy; and
-  (c) Will enable the issuer to ensure that the financial statements of the issuer or scheme, as the case may be, comply with the Financial Reporting Act 1993 and any applicable regulations made under this Act; and
-  (d) Will enable the financial statements of the issuer or scheme, as the case may be, to be readily and properly audited.
+  (a) correctly record and explain the transactions,—
+    (i) in the case of an issuer of equity securities, debt securities, or life insurance policies, of the issuer; and
+    (ii) in the case of an issuer of participatory securities, units in a unit trust, or interests in a superannuation scheme, of the scheme; and
+  (b) will at any time enable the financial position of the issuer or scheme, as the case may be, to be determined with reasonable accuracy; and
+  (c) will enable the issuer to ensure that the financial statements of the issuer or scheme, as the case may be, comply with the Financial Reporting Act 1993 and any applicable regulations made under this Act; and
+  (d) will enable the financial statements of the issuer or scheme, as the case may be, to be readily and properly audited.
 (2) The accounting records referred to in subsection (1) of this section must be kept in a manner that will enable the financial statements of the issuer or scheme, as the case may be, to be readily and properly audited.
 (3) Without limiting subsection (1) of this section, accounting records kept under that subsection shall contain, in respect of the issuer or scheme concerned,—
-  (a) Entries of money received and spent each day and the matters to which those entries relate:
-  (b) A record of the assets and liabilities of the issuer or scheme:
-  (c) If the business of the issuer or scheme involves dealing in goods,—
-    (i) A record of goods bought or sold, except goods sold for cash in the ordinary course of carrying on a retail business, that identifies the goods and buyers and sellers and relevant invoices; and
-    (ii) A record of stock held at the end of the financial year together with records of any stocktakings during the year:
-  (d) If the business of the issuer or scheme involves providing services, a record of services provided and relevant invoices.
+  (a) entries of money received and spent each day and the matters to which those entries relate:
+  (b) a record of the assets and liabilities of the issuer or scheme:
+  (c) if the business of the issuer or scheme involves dealing in goods,—
+    (i) a record of goods bought or sold, except goods sold for cash in the ordinary course of carrying on a retail business, that identifies the goods and buyers and sellers and relevant invoices; and
+    (ii) a record of stock held at the end of the financial year together with records of any stocktakings during the year:
+  (d) if the business of the issuer or scheme involves providing services, a record of services provided and relevant invoices.
 
 ### 53A Place where accounting records to be kept
 (1) Subject to subsection (2) of this section, accounting records required by section 53 of this Act shall be kept at the registered office of the issuer, if any, or at such other place as the directors of the issuer think fit.
@@ -1552,23 +1547,23 @@ Every issuer of securities offered to the public for subscription shall send, or
 (1) Every issuer of securities offered to the public shall, at the request of a security holder and on payment of any prescribed fee, send, or cause to be sent, to the security holder such documents, information, and other matters of a kind prescribed by regulations as are requested by the security holder.
 (2) The documents, information, and other matters must be sent to the security holder as soon as practicable but, in any event, within 5 working days of the issuer receiving the request.
 (3) Every issuer of securities offered to the public shall, upon the request of a security holder or a prospective investor for a copy of the registered prospectus relating to the securities, without fee, send, or cause to be sent, to that security holder or prospective investor,—
-  (a) A copy of that registered prospectus; and
-  (b) A copy of any financial statements of the issuer or scheme concerned that have been registered under the Financial Reporting Act 1993 and that are referred to in the registered prospectus; and
-  (c) A copy of any documents registered under this Act for the purpose of extending the period during which allotments may be made under the registered prospectus.
+  (a) a copy of that registered prospectus; and
+  (b) a copy of any financial statements of the issuer or scheme concerned that have been registered under the Financial Reporting Act 1993 and that are referred to in the registered prospectus; and
+  (c) a copy of any documents registered under this Act for the purpose of extending the period during which allotments may be made under the registered prospectus.
 (4) The documents referred to in subsection (3) of this section must be sent to the security holder or prospective investor as soon as practicable but, in any event, within 5 working days of the issuer receiving the request.
 
 **Liability of issuers, etc, and offences**
 
 ### 55 Interpretation of provisions relating to advertisements, prospectuses, and registered prospectuses
 For the purposes of this Act,—
-  (a) A statement included in an advertisement or registered prospectus is deemed to be untrue if—
-    (i) It is misleading in the form and context in which it is included; or
-    (ii) It is misleading by reason of the omission of a particular which is material to the statement in the form and context in which it is included:
-  (b) A statement is deemed to be included in an advertisement or registered prospectus if it is—
-    (i) Contained in the advertisement or registered prospectus; or
-    (ii) Appears on the face of the advertisement or registered prospectus; or
-    (iii) Contained in any financial statements, report, memorandum, or document that accompany, or are incorporated by reference or referred to in, or distributed with, the advertisement or registered prospectus:
-  (c) A certificate registered under section 37A(1A) of this Act, and any financial statements that accompany that certificate, shall be deemed to be included in the registered prospectus to which the certificate relates.
+  (a) a statement included in an advertisement or registered prospectus is deemed to be untrue if—
+    (i) it is misleading in the form and context in which it is included; or
+    (ii) it is misleading by reason of the omission of a particular which is material to the statement in the form and context in which it is included:
+  (b) a statement is deemed to be included in an advertisement or registered prospectus if it is—
+    (i) contained in the advertisement or registered prospectus; or
+    (ii) appears on the face of the advertisement or registered prospectus; or
+    (iii) contained in any financial statements, report, memorandum, or document that accompany, or are incorporated by reference or referred to in, or distributed with, the advertisement or registered prospectus:
+  (c) a certificate registered under section 37A(1A) of this Act, and any financial statements that accompany that certificate, shall be deemed to be included in the registered prospectus to which the certificate relates.
 
 **Civil liability**
 
@@ -1633,18 +1628,18 @@ A declaration of civil liability must state the following:
   (d) the person is a promoter of the securities referred to in the advertisement or registered prospectus.
 (2) No person shall be liable under subsection (1)(c) of this section in respect of any untrue statement included in a registered prospectus if he or she proves that, having consented to become a director of the issuer, he or she withdrew his or her consent before the distribution of the registered prospectus, and that he or she gave written notice of his or her withdrawal and the reason therefor to the Commission, and that the registered prospectus was distributed without his or her authority or consent.
 (3) No person shall be liable under subsection (1) of this section in respect of any untrue statement included in an advertisement or registered prospectus, as the case may be, if he or she proves that—
-  (a) The advertisement was distributed or the prospectus was registered, as the case may be, without his or her knowledge or consent, and on becoming aware of its distribution or registration he or she forthwith gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission that it was distributed or registered without his or her knowledge or consent, and also gave reasonable public notice that it was distributed or registered without his or her knowledge or consent; or
-  (b) After the distribution of the advertisement or the registration of the prospectus, as the case may be, and before the securities were subscribed for, he or she, on becoming aware of any untrue statement therein, withdrew his or her consent thereto and forthwith gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission of the withdrawal and of the reason therefor, and also forthwith gave reasonable public notice of the withdrawal; or
+  (a) the advertisement was distributed or the prospectus was registered, as the case may be, without his or her knowledge or consent, and on becoming aware of its distribution or registration he or she forthwith gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission that it was distributed or registered without his or her knowledge or consent, and also gave reasonable public notice that it was distributed or registered without his or her knowledge or consent; or
+  (b) after the distribution of the advertisement or the registration of the prospectus, as the case may be, and before the securities were subscribed for, he or she, on becoming aware of any untrue statement therein, withdrew his or her consent thereto and forthwith gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission of the withdrawal and of the reason therefor, and also forthwith gave reasonable public notice of the withdrawal; or
   (ba) (in the case of liability for a pecuniary penalty order) as regards every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he or she had reasonable grounds to believe and did believe, up to the time of the distribution of the advertisement or registered prospectus, that the statement was true; or
   (c) (in the case of liability for compensation) as regards every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he or she had reasonable grounds to believe and did, up to the time of the subscription for the securities, believe that the statement was true; or
-  (d) As regards every untrue statement purporting to be a statement by an expert or contained in what purports to be a copy of or extract from a report or valuation of an expert,—
-    (i) It fairly represented the statement, or was a correct and fair copy of or extract from the report or valuation; and
-    (ii) He or she had reasonable grounds to believe and did, up to the time of the distribution of the advertisement or the registration of the prospectus, as the case may be, believe that the person making the statement was competent to make it; and
-    (iii) That person had given the consent required by section 38A and section 40 of this Act to the distribution of the advertisement or the registration of the prospectus, as the case may be, and had not withdrawn that consent before distribution of the advertisement, or delivery of the prospectus for registration or, to the defendant's knowledge, before the securities were subscribed for; or
-  (e) As regards every untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document, it was a correct and fair representation of the statement or copy of or extract from the document.
+  (d) as regards every untrue statement purporting to be a statement by an expert or contained in what purports to be a copy of or extract from a report or valuation of an expert,—
+    (i) it fairly represented the statement, or was a correct and fair copy of or extract from the report or valuation; and
+    (ii) he or she had reasonable grounds to believe and did, up to the time of the distribution of the advertisement or the registration of the prospectus, as the case may be, believe that the person making the statement was competent to make it; and
+    (iii) that person had given the consent required by section 38A and section 40 of this Act to the distribution of the advertisement or the registration of the prospectus, as the case may be, and had not withdrawn that consent before distribution of the advertisement, or delivery of the prospectus for registration or, to the defendant's knowledge, before the securities were subscribed for; or
+  (e) as regards every untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document, it was a correct and fair representation of the statement or copy of or extract from the document.
 (4) Where—the directors of the issuer, except any without whose knowledge or consent the advertisement was distributed or the prospectus was registered, shall be liable to indemnify the person named as aforesaid or whose consent was required as aforesaid, as the case may be, against all damages, costs, and expenses to which he or she may be made liable by reason of his or her name having been inserted in the advertisement or registered prospectus or of the inclusion therein of a statement purporting to be made by him or her as an expert, as the case may be, or in defending himself or herself against any action or legal proceedings brought against him or her in respect thereof.
-  (a) An advertisement or a registered prospectus contains the name of a person as a director of the issuer, or as having agreed to become a director thereof, and he or she has not consented to become a director, or has withdrawn his or her consent before the distribution of the advertisement or registration of the prospectus, and has not authorised or consented to the distribution of the advertisement or registration of the prospectus; or
-  (b) The consent of a person is required under section 38A or section 40 of this Act to the distribution of an advertisement or registered prospectus and he or she either, has not given that consent, or has withdrawn it before the distribution of the advertisement, or delivery of the prospectus for registration—
+  (a) an advertisement or a registered prospectus contains the name of a person as a director of the issuer, or as having agreed to become a director thereof, and he or she has not consented to become a director, or has withdrawn his or her consent before the distribution of the advertisement or registration of the prospectus, and has not authorised or consented to the distribution of the advertisement or registration of the prospectus; or
+  (b) the consent of a person is required under section 38A or section 40 of this Act to the distribution of an advertisement or registered prospectus and he or she either, has not given that consent, or has withdrawn it before the distribution of the advertisement, or delivery of the prospectus for registration—
 (5) Where any person acting in good faith, believing a statement in an advertisement or prospectus to be untrue, withdraws his or her consent to the distribution of the advertisement or registration of the prospectus, he or she shall not be liable in respect of the withdrawal to the issuer or any other person, whether or not the statement is untrue.
 
 ### 57 Which experts are liable for misstatements
@@ -1652,8 +1647,8 @@ A declaration of civil liability must state the following:
   (a) the person gave consent to the distribution of the advertisement or registered prospectus under section 38A or section 40 or under regulations made under this Act; and
   (b) the untrue statement purports to be made by him or her as an expert.
 (2) No person shall be liable under subsection (1) of this section if he or she proves that—
-  (a) Having given his or her consent to the distribution of the advertisement or registered prospectus, he or she withdrew it in writing before distribution of the advertisement or registered prospectus; or
-  (b) After distribution of the advertisement or registered prospectus and before the securities were subscribed for, he or she, on becoming aware of the untrue statement or omission, withdrew his or her consent in writing and gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission of the withdrawal and of the reason therefor, and also gave reasonable public notice of the withdrawal; or
+  (a) having given his or her consent to the distribution of the advertisement or registered prospectus, he or she withdrew it in writing before distribution of the advertisement or registered prospectus; or
+  (b) after distribution of the advertisement or registered prospectus and before the securities were subscribed for, he or she, on becoming aware of the untrue statement or omission, withdrew his or her consent in writing and gave notice to the trustee or statutory supervisor or unit trustee (if any), the Registrar, and the Commission of the withdrawal and of the reason therefor, and also gave reasonable public notice of the withdrawal; or
   (ba) (in the case of liability for a pecuniary penalty order) he or she was competent to make the statement and that he or she had reasonable grounds to believe and did, up to the time of the distribution of the advertisement or registered prospectus, believe that the statement was true; or
   (c) (in the case of liability for compensation) he or she was competent to make the statement and that he or she had reasonable grounds to believe and did, up to the time of the subscription for the securities, believe that the statement was true.
 (3) Where any person acting in good faith, believing a statement in an advertisement or registered prospectus to be untrue, withdraws his or her consent to the distribution of the advertisement or registered prospectus, he or she shall not be liable in respect of the withdrawal to the issuer or to any other person, whether or not the statement is untrue.
@@ -1665,9 +1660,9 @@ A declaration of civil liability must state the following:
     (i) the contributory mortgage broker; or
     (ii) a director of the contributory mortgage broker that is acting, or is charged with acting, as the contributory mortgage broker for the contributory mortgage at the time that the breach occurred.
 (2) No person who is a director of a contributory mortgage broker shall be liable under subsection (1)(b) of this section if he or she proves that—
-  (a) The breach occurred without his or her knowledge or consent; and
-  (b) He or she had reasonable grounds to believe and did, up to the time that he or she learned of the breach, believe that the contributory mortgage broker had complied with the regulations made under this Act; and
-  (c) Upon becoming aware of the breach he or she forthwith gave reasonable notice of the breach to the Registrar and any person to whom such notice is required to be given pursuant to regulations made under this Act.
+  (a) the breach occurred without his or her knowledge or consent; and
+  (b) he or she had reasonable grounds to believe and did, up to the time that he or she learned of the breach, believe that the contributory mortgage broker had complied with the regulations made under this Act; and
+  (c) upon becoming aware of the breach he or she forthwith gave reasonable notice of the breach to the Registrar and any person to whom such notice is required to be given pursuant to regulations made under this Act.
 
 **General provisions on civil liability remedies**
 
@@ -1689,8 +1684,8 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 
 ### 58 Criminal liability for misstatement in advertisement or registered prospectus
 (1) Subject to subsection (2) of this section, where an advertisement that includes any untrue statement is distributed,—commits an offence.
-  (a) The issuer of the securities referred to in the advertisement, if an individual; or
-  (b) If the issuer of the securities is a body, every director thereof at the time the advertisement is distributed—
+  (a) the issuer of the securities referred to in the advertisement, if an individual; or
+  (b) if the issuer of the securities is a body, every director thereof at the time the advertisement is distributed—
 (2) No person shall be convicted of an offence under subsection (1) of this section if the person proves either that the statement was immaterial or that he or she had reasonable grounds to believe, and did, up to the time of the distribution of the advertisement, believe that the statement was true.
 (3) Subject to subsection (4) of this section, where a registered prospectus that includes an untrue statement is distributed, every person who signed the prospectus, or on whose behalf the registered prospectus was signed for the purposes of section 41(b) of this Act, commits an offence.
 (4) No person shall be convicted of an offence under subsection (3) of this section if the person proves either that the statement was immaterial or that he or she had reasonable grounds to believe, and did, up to the time of the distribution of the prospectus, believe that the statement was true.
@@ -1704,13 +1699,13 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 
 ### 59 Criminal liability for offering, distributing, or allotting in contravention of this act
 (1) Subject to subsection (2) of this section, if an offer of a security is made to the public, or a registered prospectus relating to a security is distributed, or a security is allotted, in contravention of this Act, (or, in the case of an interest in a contributory mortgage, in contravention of regulations made under this Act),—each commits an offence, and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued.
-  (a) The issuer of the security; and
-  (b) Every person who is a principal officer of the issuer at the time of the contravention; and
-  (c) Every promoter of the security; and
-  (d) Every person who has authorised himself or herself to be named and is named in any advertisement or registered prospectus relating to the security as a director of the issuer or as having agreed to become a director either immediately or after an interval of time—
+  (a) the issuer of the security; and
+  (b) every person who is a principal officer of the issuer at the time of the contravention; and
+  (c) every promoter of the security; and
+  (d) every person who has authorised himself or herself to be named and is named in any advertisement or registered prospectus relating to the security as a director of the issuer or as having agreed to become a director either immediately or after an interval of time—
 (2) No person shall be convicted under subsection (1) of this section for any such contravention if—
-  (a) The contravention was in respect of matters which in the opinion of the Court dealing with the case were immaterial, or was otherwise such as, in the opinion of the Court having regard to all the circumstances of the case, ought reasonably to be excused; or
-  (b) In the case of a person other than the issuer, in the opinion of the Court dealing with the case, the contravention did not take place with his or her knowledge and consent.
+  (a) the contravention was in respect of matters which in the opinion of the Court dealing with the case were immaterial, or was otherwise such as, in the opinion of the Court having regard to all the circumstances of the case, ought reasonably to be excused; or
+  (b) in the case of a person other than the issuer, in the opinion of the Court dealing with the case, the contravention did not take place with his or her knowledge and consent.
 
 ### 59A Criminal liability for obstructing exercise of powers
 (1) Every person commits an offence who—
@@ -1732,12 +1727,12 @@ The proceedings under sections 55A to 57A are civil proceedings and the usual ru
 (1) Every person who—commits an offence and is liable on summary conviction to a fine not exceeding $5,000.
   (a)
   (b)
-  (c) Makes a record of or divulges or communicates to any other person, without reasonable excuse and otherwise than in accordance with section 67(5) of this Act or for the purposes of this Act or any of the Acts listed in Schedule 1 to this Act or in the course of any criminal proceedings, any information that he or she has acquired in the course of an inspection under section 67 of this Act; or
+  (c) makes a record of or divulges or communicates to any other person, without reasonable excuse and otherwise than in accordance with section 67(5) of this Act or for the purposes of this Act or any of the Acts listed in Schedule 1 to this Act or in the course of any criminal proceedings, any information that he or she has acquired in the course of an inspection under section 67 of this Act; or
   (d) without reasonable excuse, acts in contravention of, or fails to comply in any respect with, any provision of sections 35, 47, 50, 51, 52, and 54 of this Act or any requirement imposed pursuant to any of those sections—
 (2) If a person contravenes or fails to comply in any respect with any provision of sections 7, 37(4), 48, 53 to 53E, 54A, and 54B of this Act, or any requirement imposed pursuant to any of those sections, the person, and every principal officer thereof, commits an offence, and is liable on summary conviction to a fine not exceeding $300,000 and, if the offence is a continuing one, to a further fine not exceeding $10,000 for every day or part of a day during which the offence is continued:
   Provided that—
-    (a) No person shall be convicted under this subsection in respect of any such contravention or failure to comply if the contravention or failure was in respect of matters which in the opinion of the Court dealing with the case were immaterial, or was otherwise such as, in the opinion of the Court having regard to all the circumstances of the case, ought reasonably to be excused:
-    (b) No principal officer shall be convicted under this subsection in respect of any such contravention or failure to comply if, in the opinion of the Court dealing with the case, the contravention or failure did not take place with his or her knowledge and consent.
+    (a) no person shall be convicted under this subsection in respect of any such contravention or failure to comply if the contravention or failure was in respect of matters which in the opinion of the Court dealing with the case were immaterial, or was otherwise such as, in the opinion of the Court having regard to all the circumstances of the case, ought reasonably to be excused:
+    (b) no principal officer shall be convicted under this subsection in respect of any such contravention or failure to comply if, in the opinion of the Court dealing with the case, the contravention or failure did not take place with his or her knowledge and consent.
 
 **Management bans**
 
@@ -1860,20 +1855,20 @@ In sections 61 to 61B,—
 ### 62 Liability of trustees and statutory supervisors
 (1) Subject to the following provisions of this section, any provision of a deed or contract relating to debt securities or participatory securities shall be void in so far as it would have the effect of exempting a trustee or statutory supervisor thereof from or indemnifying him or her against liability for breach of trust where he or she fails to show the degree of care and diligence required of him or her as trustee or statutory supervisor having regard to the provisions of any deed conferring on him or her any powers, authorities, or discretions.
 (2) Subsection (1) of this section shall not invalidate—
-  (a) Any release otherwise validly given in respect of anything done or omitted to be done by a trustee or statutory supervisor before the giving of the release; or
-  (b) Any provision enabling such a release to be given—
-    (i) On the agreement thereto of a majority comprising not less than three-fourths in value of the security holders voting in person or, where proxies are permitted, by proxy at a meeting summoned for the purpose; and
-    (ii) Either with respect to specific acts or omissions or on the trustee or statutory supervisor being wound up or ceasing to act.
+  (a) any release otherwise validly given in respect of anything done or omitted to be done by a trustee or statutory supervisor before the giving of the release; or
+  (b) any provision enabling such a release to be given—
+    (i) on the agreement thereto of a majority comprising not less than three-fourths in value of the security holders voting in person or, where proxies are permitted, by proxy at a meeting summoned for the purpose; and
+    (ii) either with respect to specific acts or omissions or on the trustee or statutory supervisor being wound up or ceasing to act.
 (3) Subsection (1) of this section shall not operate—
-  (a) To invalidate any provision in force at the commencement of this Part of this Act; or
-  (b) To deprive any person of any exemption or right to be indemnified in respect of anything done or omitted to be done by him or her while any such provision was in force.
+  (a) to invalidate any provision in force at the commencement of this Part of this Act; or
+  (b) to deprive any person of any exemption or right to be indemnified in respect of anything done or omitted to be done by him or her while any such provision was in force.
 
 ### 63 Power of Court to grant relief in certain cases
 (1) If in any proceedings against any person for negligence, default, breach of duty, or breach of trust in connection with—it appears to the Court hearing the case that the person is or may be liable in respect of the negligence, default, breach of duty, or breach of trust, but that he or she has acted honestly and reasonably, and that having regard to all the circumstances of the case, including those connected with his or her appointment, he or she ought fairly to be excused for the negligence, default, breach of duty, or breach of trust, the Court may relieve him or her either wholly or partly from his or her liability, on such terms as the Court may think fit.
-  (a) An offer to the public or allotment of securities; or
-  (b) The distribution of a registered prospectus or advertisement; or
-  (c) The management of securities offered to the public; or
-  (d) Any matter related thereto—
+  (a) an offer to the public or allotment of securities; or
+  (b) the distribution of a registered prospectus or advertisement; or
+  (c) the management of securities offered to the public; or
+  (d) any matter related thereto—
 (2) Where any such person has reason to apprehend that any claim will or might be made against him or her in respect of any such negligence, default, breach of duty, or breach of trust, he or she may apply to the Court for relief, and the Court on any such application shall have the same power to relieve him or her as under this section it would have had if it had been a Court before which proceedings against that person for negligence, default, breach of duty, or breach of trust had been brought.
 (3) Where any case to which subsection (1) of this section applies is being tried by a Judge with a jury, the Judge may, after hearing the evidence, if he or she is satisfied that the defendant ought in pursuance of that subsection to be relieved wholly or partly from the liability sought to be enforced against him or her, withdraw the case wholly or partly from the jury and forthwith direct judgment to be entered for the defendant on such terms as to costs or otherwise as the Judge may think proper.
 
@@ -1943,7 +1938,7 @@ The Commission may carry out an inspection under section 67, or request or appro
 (2) A person authorised by the Commission or Registrar to carry out an inspection under section 67 must, if requested at the time of carrying out the inspection, produce evidence of that person's authority to carry out the inspection.
 
 ### 68B Disclosure of information from inspection
-(1) On the direction of the Commission or Registrar, a person who has made an inspection under section 67 must give all records and disclose all information acquired in the course of the inspection to any person specified by the Commission or Registrar for the purposes of—
+(1) On the direction of the Commission or Registrar, a person who has made an inspection under section 67A must give all records and disclose all information acquired in the course of the inspection to any person specified by the Commission or Registrar for the purposes of—
   (a) this Act, the Securities Markets Act 1988, the Takeovers Act 1993, or any of the other Acts listed in Schedule 1:
   (b) detecting and prosecuting offences against any other Act, but, in this case, those records and information are not admissible in any criminal proceedings against the person from whom the records or information were acquired or any person to whom the records or information relate:
   (c) assisting the Commission to comply with the request of an overseas regulator under section 69F or otherwise co-operate with an overseas regulator.
@@ -1979,7 +1974,7 @@ An appeal under section 68G must be made—
 ### 68I Situation while appeal pending
 While any appeal under section 68G is pending,—
   (a) the Commission or Registrar, or any person authorised by the Commission or Registrar, may continue to exercise the powers under any of sections 67 to 68B as if no appeal had been made; and
-  (b) No person is excused from fulfilling his or her obligations under any of those sections by reason of the appeal; and
+  (b) no person is excused from fulfilling his or her obligations under any of those sections by reason of the appeal; and
   (c) information that is obtained as a result of an inspection to which the appeal relates is not admissible as evidence in any criminal proceedings against the person to whom the information relates.
 
 ### 68J Determination of appeal
@@ -1992,8 +1987,8 @@ To the extent that an appeal in respect of an act or decision of the Commission 
 
 ### 69 Appeals against other decisions of Registrar
 (1) Any person who is aggrieved by—may within 15 working days after being notified of such refusal, act, or decision, or within such further time as the Commission may allow, appeal against the refusal, act, or decision to the Commission.
-  (a) The refusal of the Registrar to register any prospectus, deed, memorandum of amendments to a registered prospectus, or instrument amending a deed; or
-  (b) Any other refusal, act, or decision of the Registrar under any provision of this Act (other than section 67 or section 67A) or any regulations made under this Act,—
+  (a) the refusal of the Registrar to register any prospectus, deed, memorandum of amendments to a registered prospectus, or instrument amending a deed; or
+  (b) any other refusal, act, or decision of the Registrar under any provision of this Act (other than section 67 or section 67A) or any regulations made under this Act,—
 (2) On hearing the appeal, the Commission may confirm the refusal, act, or decision of the Registrar or may give such directions or make such other determination in the matter as it thinks fit; and, subject to section 26 of this Act, the determination of the Commission on the appeal shall be final and binding on the parties thereto.
 (3) On any appeal under this section the Commission may make an order for the payment by any party to the appeal of the costs incurred in respect of the appeal by any other party to the appeal, and in any such case the costs so awarded shall be recoverable as a debt due by the party against whom they have been awarded to the party in whose favour they have been awarded.
 
@@ -2257,14 +2252,14 @@ Sections 70AA to 70AAE do not affect the application of sections 22 to 25 of the
 
 ### 70A Fees and charges
 (1) The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) Prescribing the amount to be paid on the registration of a prospectus under section 42 of this Act and different amounts may be prescribed in respect of different amounts of securities being offered; and
-  (b) Prescribing the amount to be paid on the registration of a memorandum of amendments to a registered prospectus under section 43 of this Act and in the case of amendments increasing the amount of the securities being offered different amounts may be prescribed in respect of increases of different amounts.
+  (a) prescribing the amount to be paid on the registration of a prospectus under section 42 of this Act and different amounts may be prescribed in respect of different amounts of securities being offered; and
+  (b) prescribing the amount to be paid on the registration of a memorandum of amendments to a registered prospectus under section 43 of this Act and in the case of amendments increasing the amount of the securities being offered different amounts may be prescribed in respect of increases of different amounts.
 (2) The Governor-General may from time to time, by Order in Council, make regulations prescribing fees and charges to be paid for the purposes of this Act.
 (3) Without limiting subsection (2) of this section, regulations may be made under that subsection—
-  (a) Prescribing fees and charges which the Commission may require to be paid to it—
-    (i) In connection with the exercise by the Commission of any power or function conferred on it by this Act:
-    (ii) On an application to the Commission to exercise any power or function conferred on it by this Act:
-  (b) Authorising the Commission to require payment of any costs incurred by the Commission.
+  (a) prescribing fees and charges which the Commission may require to be paid to it—
+    (i) in connection with the exercise by the Commission of any power or function conferred on it by this Act:
+    (ii) on an application to the Commission to exercise any power or function conferred on it by this Act:
+  (b) authorising the Commission to require payment of any costs incurred by the Commission.
 
 ## Part 5 — Recognition and application regimes
 
@@ -2436,7 +2431,7 @@ Registration (including interim or temporary registration) as a medical practiti
 [Repealed]
 
 ### 5
-A qualification entitling the holder to practise the profession of accountancy in New Zealand (which qualification may consist of membership of the Institute of Chartered Accountants of New Zealand and require the holder to comply with the applicable rules of the Institute).
+A qualification entitling the holder to practise the profession of accountancy in New Zealand (which qualification may consist of membership of the New Zealand Institute of Chartered Accountants and require the holder to comply with the applicable rules of the Institute).
 
 ### 6
 A qualification entitling the holder to practise the profession of engineering in New Zealand (which qualification may consist of membership of the Institution of Professional Engineers of New Zealand Incorporated and require the holder to comply with the applicable rules of the Institution).
