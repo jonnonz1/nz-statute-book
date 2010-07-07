@@ -1,5 +1,5 @@
 # Financial Advisers Act 2008
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Financial Advisers Act 2008.
@@ -85,7 +85,7 @@ In this Act, unless the context otherwise requires,—
     (j) a life insurance policy (within the meaning of section 2(1) of the Securities Act 1978) issued before 1 January 2009; or
     (k) any other product specified by the regulations; or
     (l) a renewal or variation of the terms or conditions of any existing category 2 product
-  - **chartered accountant** has the same meaning as in section 2 of the Institute of Chartered Accountants of New Zealand Act 1996
+  - **chartered accountant** has the same meaning as in section 2 of the New Zealand Institute of Chartered Accountants Act 1996
   - **class of financial products** means a group of financial products with similar characteristics
   - **class service** has the meaning set out in section 15(3)
   - **client** has the meaning set out in section 5A
