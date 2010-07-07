@@ -1,5 +1,5 @@
 # Motor Vehicle Sales Act 2003
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Motor Vehicle Sales Act 2003.
@@ -1469,7 +1469,7 @@ The purpose of section 159 is to ensure that the Institute is able to carry out 
 ### 162 Winding up of Fund
 (1) At any time after all the claims against the Fund have been received and fully dealt with, the Institute may, by notice in the Gazette, specify a date (being not less than 1 month after the date of the publication of the notice in the Gazette) on which the Fund is to be wound up.
 (2) On and from the date so specified, any remaining assets of the Fund cease to be held by the Institute and may be used by the Institute for any lawful purpose that it determines.
-(3) The Institute must, as soon as practicable after the date so specified, prepare final accounts for the Fund audited by a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) appointed for the purpose by the Institute.
+(3) The Institute must, as soon as practicable after the date so specified, prepare final accounts for the Fund audited by a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) appointed for the purpose by the Institute.
 
 **Review of Act**
 
