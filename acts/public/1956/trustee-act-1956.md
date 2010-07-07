@@ -1,5 +1,5 @@
 # Trustee Act 1956
-_Consolidation as at 2009-07-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to consolidate and amend certain enactments of the General Assembly relating to trusts and trustees
 
@@ -943,7 +943,7 @@ This Act, and every order purporting to be made under this Act, shall be a compl
 In the case of any trust estate administered by a trustee corporation, a solicitor or accountant authorised in writing by a beneficiary shall be entitled as of right to examine at any reasonable time the accounts of that estate, and for that purpose shall have access to the trustee corporation's books and vouchers (but not the file) relating to that estate, and to the securities and documents of title held by the trustee corporation on account of that estate.
 
 ### 83B Audit of other trust estates
-(1) Subject to the provisions of any regulations made under this Act, and unless the Court otherwise orders, the condition and accounts of any trust estate (being an estate which is not being administered by a trustee corporation) shall, on an application being made and notice thereof being given in the prescribed manner by or on behalf of any trustee or beneficiary in that estate, be investigated and audited by such solicitor or such chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) as may be agreed on between the applicant trustee and his co-trustees and Public Trust, or between the applicant beneficiary and the trustees and Public Trust, as the case may be, or, in default of any such agreement, by a solicitor or a chartered accountant (within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996) appointed by Public Trust:
+(1) Subject to the provisions of any regulations made under this Act, and unless the Court otherwise orders, the condition and accounts of any trust estate (being an estate which is not being administered by a trustee corporation) shall, on an application being made and notice thereof being given in the prescribed manner by or on behalf of any trustee or beneficiary in that estate, be investigated and audited by such solicitor or such chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) as may be agreed on between the applicant trustee and his co-trustees and Public Trust, or between the applicant beneficiary and the trustees and Public Trust, as the case may be, or, in default of any such agreement, by a solicitor or a chartered accountant (within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996) appointed by Public Trust:
   Provided that—
     (a) Except with the leave of the Court, such an investigation or audit shall not be required within 12 months after any such previous investigation or audit; and
     (b) A beneficiary shall not be appointed under this section to make an investigation or audit; and
