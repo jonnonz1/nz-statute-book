@@ -1,5 +1,5 @@
 # Sentencing Act 2002
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-07-07_
 
 ### 1 Title
 This Act is the Sentencing Act 2002.
@@ -56,7 +56,8 @@ The purposes of this Act are—
   - **instrument forfeiture order** means an instrument forfeiture order made under section 142N
   - **instrument of crime** —
     (a) means property used (wholly or in part) to commit, or to facilitate the commission of, a qualifying instrument forfeiture offence; and
-    (b) includes, in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1) or (2A) of the Terrorism Suppression Act 2002, funds (as defined in section 4(1) of that Act) allocated for the purpose of committing that offence
+    (b) includes, in relation to a qualifying instrument forfeiture offence that is an offence against section 8(1) or (2A) of the Terrorism Suppression Act 2002, funds (as defined in section 4(1) of that Act) allocated for the purpose of committing that offence; and
+    (c) in relation to any property referred to in paragraphs (a) and (b), the proceeds of any disposition of that property or any other property into which that property is converted, after the commission of the qualifying instrument forfeiture offence, except to the extent provided otherwise by any order of a court under this Act or the Criminal Proceeds (Recovery) Act 2009, excluding any severable interest or granting relief
   - **minimum period of imprisonment** means the period of imprisonment that the court has, under section 86, 86D(4), 86E(4)(a), 89, or 103, ordered that an offender must serve before he or she can be released under subpart 2 of Part 1 of the Parole Act 2002
   - **non-release day** means a Saturday, a Sunday, Christmas Day, Boxing Day, New Year's Day, the second day of January, Waitangi Day, Good Friday, Easter Monday, Anzac Day, the Sovereign's birthday, Labour Day, and, in respect of a particular place where an offender is serving a sentence of community detention or home detention, the anniversary day of the region in which that place is situated
   - **offender** includes a person who is dealt with or is liable to be dealt with for non-payment of a sum of money, disobedience of a court order, or contempt of court
