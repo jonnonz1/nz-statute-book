@@ -1,5 +1,5 @@
 # Fire Service Act 1975
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to establish the New Zealand Fire Service and to consolidate and amend the law relating to the protection of life and property from fire and to certain other emergency services
 
@@ -490,7 +490,7 @@ Every person who makes a delegation under section 73 of the Crown Entities Act 2
   (a) the gathering together, for any purpose, of 100 or more persons:
   (b) providing employment facilities for 10 or more persons:
   (c) providing accommodation for more than 5 persons (other than in 3 or fewer household units):
-  (d) storing or processing hazardous substances in quantities exceeding the prescribed minimum amounts:
+  (d) a place where hazardous substances are present in quantities exceeding the prescribed minimum amounts, whatever the purpose for which the building is used:
   (e) providing early childhood facilities (other than in a household unit):
   (f) providing nursing, medical, or geriatric care (other than in a household unit):
   (g) providing specialised care for persons with disabilities (other than in a household unit):
