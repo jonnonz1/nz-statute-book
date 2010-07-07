@@ -1,5 +1,5 @@
 # Animal Products Act 1999
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to replace the Meat Act 1981 and the Dairy Industry Act 1952, and to reform and restate the law relating to the processing of animal material into products for use, trade, and export
 
@@ -182,7 +182,7 @@ The object of this Act is to—
     (f) offering as a public prize or reward, or giving away for the purpose of advertisement or in the furtherance of any trade or business; and
     (g) every other method of disposition for valuable consideration
   - **verification** includes the ongoing checks carried out by recognised persons to determine whether—
-    (a) operations that are subject to a risk management programme or a regulated control scheme are in compliance with the requirements of the programme or of this Act:
+    (a) operations that are subject to a risk management programme or a regulated control scheme are in compliance with the requirements of the programme or the scheme or of this Act:
     (b) animal material or products for whose export an official assurance is required have been produced or processed in a way that meets the requirements for the official assurance
   - **wholesomeness** , in relation to any regulated animal product, means that the product does not contain or have attached to it, enclosed with it, or in contact with it anything that is offensive, or whose presence would be unexpected or unusual in product of that description
   - **wild animal** means an animal that—
@@ -368,7 +368,7 @@ The object of this Part is to provide, as the main means for ensuring that anima
 (4) The register may be kept in such manner as the Director-General thinks fit, including, either wholly or partly, by means of a device or facility—
   (a) that records or stores information electronically or by other means; and
   (b) that permits the information so recorded to be readily inspected or reproduced in usable form; and
-  (c) that permits the information in the register to be accessed by electronic means, including (without limitation) by means of remote log-on access.
+  (c) that permits the information in the register to be accessed by electronic means, including (without limitation) by means of remote logon access.
 
 ### 19 Matters to be shown in register of risk management programmes
 The register of risk management programmes must contain the following particulars in relation to each programme registered under this Part:
@@ -511,7 +511,7 @@ The register of risk management programmes must contain the following particular
 (6) The deregistration of a risk management programme under this section does not affect any other actions that the Director-General may take under this Act.
 (7) If a person acting under the delegated authority of the Director-General deregisters a risk management programme under this section, the operator of the risk management programme or of the animal product business concerned may seek a review of the deregistration under section 162.
 
-### 28A Removal of business operator from coverage of wider risk management programme
+### 28A Removal of animal product business from coverage of wider risk management programme
 (1) The Director-General may at any time remove any animal product business from the coverage of a registered risk management programme that applies to 2 or more comparable businesses if the Director-General is satisfied that deregistration of the programme would be appropriate under section 28(1) if the animal product business were the only one operating under the programme.
 (2) Subsections (2) to (7) of section 28 apply in relation to the removal of the business from the coverage of the risk management programme as if references in these sections to deregistration of the programme were references to removal from the coverage of the programme.
 
@@ -620,7 +620,7 @@ The object of this Part is to provide for regulated control schemes which are sp
   (b) allows the Minister or the Director-General to impose specifications or requirements as to the performance of any activities.
 (3) The Minister may not recommend the making of regulations for the purposes of imposing a regulated control scheme unless he or she—
   (a) is satisfied that any 1 or more of the criteria specified in section 38(1) apply; and
-  (b) has carried out appropriate consultation in accordance with section 163.
+  (b) is satisfied that appropriate consultation has been carried out in accordance with section 163.
 (4) In determining whether or not to recommend the making of a regulated control scheme, or the content of such a scheme, the Minister is to have regard to—
   (a) the need to protect the health of consumers and users of animal products:
   (b) the most effective way of handling the relevant risk factors:
@@ -1459,9 +1459,9 @@ No animal product officer, official assessor, recognised person employed under t
 ### 105 Conditions of recognition
 (1) A recognition under section 103 may be subject to such conditions as the Director-General thinks fit and specifies in the notice of recognition.
 (2) It is to be a condition of every recognition of an agency that, with the exception of administrative functions and related support matters, any verification activities of the agency that are specified in the terms of the recognition are to be carried out only by individuals who have themselves been recognised.
-(3) Conditions imposed under subsection (1) may include requirements as to the provision of such returns, records, and other information as the Director-General may reasonably require from time to time to ensure that the recognised agency person is properly carrying out the functions and activities for which they were recognised.
+(3) Conditions imposed under subsection (1) may include requirements as to the provision of such returns, records, and other information as the Director-General may reasonably require from time to time to ensure that the recognised agency or person is properly carrying out the functions and activities for which they were recognised.
 (4) The Director-General may at any time, by written notice to a recognised agency or person, revoke, amend, or add to any conditions imposed under subsection (1).
-(5) Except where any variation to the conditions of recognition is made on the application of the recognised agency person and in accordance with the terms of that application, the Director-General may not vary any condition of recognition imposed under this section without (to the extent practicable in the circumstances of the variation proposed) first giving the affected agency or person a reasonable opportunity to make written submissions to or be heard by the Director-General in relation to the matter.
+(5) Except where any variation to the conditions of recognition is made on the application of the recognised agency or person and in accordance with the terms of that application, the Director-General may not vary any condition of recognition imposed under this section without (to the extent practicable in the circumstances of the variation proposed) first giving the affected agency or person a reasonable opportunity to make written submissions to or be heard by the Director-General in relation to the matter.
 
 ### 106 Duties of recognised agencies
 In undertaking the specified functions and activities for which it is recognised, a recognised agency has the following duties:
@@ -2201,4 +2201,4 @@ A person who is required by or under section 159 to keep records or any other in
   (e) repeal of the Dairy Industry Act 1952 (with effect on the commencement of the Animal Products (Ancillary and Transitional Provisions) Amendment Act 2005), together with associated revocations, amendments, and savings and transitional provisions.
 (2) For the purposes of sections 20, 21 and 22 of the Interpretation Act 1999, this Act, together with the Animal Products (Ancillary and Transitional Provisions) Act 1999, is to be treated as having repealed the Meat Act 1981 and the Apiaries Act 1969 and (with effect on the commencement of the Animal Products Amendment Act 2005) the Dairy Industry Act 1952 and having been passed in substitution for those Acts (but without preventing the Biosecurity Act 1993 from being similarly treated in relation to relevant provisions of the Apiaries Act 1969).
 
-## Schedule Schedule
+## Schedule
