@@ -1,5 +1,5 @@
 # Maori Fisheries Act 2004
-_Consolidation as at 2009-12-08_
+_Consolidation as at 2010-07-07_
 
 ## Preamble
 (1) By the Treaty of Waitangi, the Queen of England confirmed and guaranteed to the chiefs, tribes, and individual Maori the full, exclusive, and undisturbed possession of their fisheries for so long as they wished to retain them:
@@ -1412,7 +1412,7 @@ Each of the entities referred to in section 105, or 2 or more jointly, must arra
   (a) appointed by the entity that is to be audited; and
   (b) who is appropriately qualified to conduct the audit.
 (2) A person appointed to conduct an audit is not required to be—
-  (a) a chartered accountant within the meaning of section 19 of the Institute of Chartered Accountants of New Zealand Act 1996; or
+  (a) a chartered accountant within the meaning of section 19 of the New Zealand Institute of Chartered Accountants Act 1996; or
   (b) qualified to undertake financial audits.
 (3) In carrying out an audit, the person appointed must—
   (a) maintain the appropriate degree of impartiality and independence; and
