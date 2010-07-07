@@ -1,5 +1,5 @@
 # Agricultural Compounds and Veterinary Medicines Act 1997
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-07-07_
 
 > An Act to reform and restate the law relating to agricultural compounds, and to repeal—athe Stock Foods Act 1946; andbthe Fertilisers Act 1960; andcthe Animal Remedies Act 1967; anddthe Fertilisers Act 1982
 
@@ -255,7 +255,7 @@ The importer of any goods may, for the purposes of section 6(3)(a)(i), make a de
 (3) The Director-General may waive the requirement to notify an application in accordance with section 14 if—
   (a) the trade name product is not, and does not contain, a hazardous substance or new organism (within the meaning of the Hazardous Substances and New Organisms Act 1996); and
   (b) the Minister has advised the Director-General in writing that—
-    (i) an emergency has arisen under this Act; and
+    (i) an emergency has arisen under that Act; and
     (ii) the Minister agrees to the Director-General considering whether to grant a waiver; and
   (c) the Director-General is of the opinion that the trade name product is likely to be required for use in the emergency.
 
@@ -423,9 +423,9 @@ The Director-General must, when evaluating the risks and benefits under section 
 
 ### 29 Reassessment of trade name products
 (1) The Director-General may, after consultation with the registrant, decide to reassess a trade name product registered under section 21 or a group of trade name products registered under section 21 with the same active ingredient and similar formulations if, in the opinion of the Director-General,—
-  (a) significant new information on a matter related to the use of the registered trade name product has become available; or
+  (a) significant new information on a matter related to the use of the registered trade name product or group of trade name products has become available; or
   (b) there has been a significant change in the use of any or all of the registered trade name products.
-(2) A decision under subsection (1) must be notified to the registrant or registrants and notified in accordance with sections 13 and 14.
+(2) A decision under subsection (1) must be notified to the registrant or registrants and notified in accordance with sections 13 and 14, and those sections apply with any necessary modifications.
 (3) A decision under subsection (1) is deemed to be a new application for the trade name product and the provisions of sections 11, 12, and 17 to 25 apply to the application with any necessary modifications.
 
 ### 30 Reassessment of provisional registration
@@ -448,8 +448,8 @@ The Director-General must, when evaluating the risks and benefits under section 
 (8) If a person acting under the delegated authority of the Director-General suspends any registration under this section, the registrant may seek a review of the suspension under section 77A.
 (9) The effect of a suspension of registration under this section is that no person may import, manufacture, sell, or use the relevant trade name product during the period of suspension, unless allowed to do so by a condition or requirement imposed under subsection (2).
 
-### 31 Director-General may prohibit or restrict product
-Where a decision has been made in accordance with section 29 or section 30 to reassess a registered trade name product, the Director-General may, if he or she thinks fit, prohibit or restrict the importation, manufacture, sale, or use of that trade name product until a decision is made under section 21 or section 27.
+### 31 Director-General may prohibit or restrict product or group of products
+Where a decision has been made in accordance with section 29 or section 30 to reassess a registered trade name product or group of trade name products, the Director-General may, if he or she thinks fit, prohibit or restrict the importation, manufacture, sale, or use of that trade name product or group of trade name products until a decision is made under section 21 or section 27.
 
 ### 32 Meaning of new information
 For the purposes of sections 29 and 30, new information includes, but is not limited to, information not previously considered by the Director-General during an assessment of the registered trade name product and information indicating that conditions placed on the registered trade name product in accordance with section 23 or section 27 do not adequately manage the risks associated with that trade name product.
