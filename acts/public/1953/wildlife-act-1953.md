@@ -1,5 +1,5 @@
 # Wildlife Act 1953
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2010-07-08_
 
 > An Act to consolidate and amend the law relating to the protection and control of wild animals and birds, the regulation of game shooting seasons, and the constitution and powers of acclimatisation societies
 
@@ -1045,7 +1045,7 @@ A court may sentence any person who commits an offence against this Act to a sen
   (a) may take into account salaries, wages, and incidental expenses incurred in the investigation of the act constituting the offence or in remedying the loss or damage caused by the act; and
   (b) must take into account all other relevant factors.
 
-### 68 Offences to be tried summarily to offences in respect of marine wildlife
+### 68 Offences to be tried summarily
 (1) Every offence against this Act or against any regulations under this Act shall be punishable on summary conviction before a District Court Judge alone.
 (2) Any officer or servant of the Department, although not the informant, and any fish and game ranger, may appear and conduct the prosecution in all proceedings for offences against this Act.
 (3) The Court by which any person is convicted of any such offence may direct that any part, not exceeding half, of any fine recovered under this Act shall be paid to any person instrumental in securing the conviction in respect of which the fine is imposed (not being a person in the employment of the Crown acting in the course of his official duties), and that part of the fine shall be paid to that person by the Registrar of the Court in which the conviction is recorded.
@@ -1073,7 +1073,7 @@ Notwithstanding anything to the contrary in section 14 of the Summary Proceeding
   (g) section 66(2) (which relates to failing to give a name and address, or giving a false name and address).
 (6) Sections 63A and 63B continue to apply as if this section had not been enacted.
 
-### 68B Defences
+### 68B Defences to offences in respect of marine wildlife
 (1) Where any person (not being a New Zealand citizen) is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters.
 (2) Where any New Zealand citizen is charged with any offence under this Act, it shall be a defence to the charge if the defendant proves that the act or omission constituting the offence took place beyond the outer limits of New Zealand fisheries waters and did not contravene any international agreement to which effect had been given by regulations made under section 72 of this Act or by any other enactment.
 (3) Where any person is charged with an offence against section 63A of this Act, it is a defence to the charge if the defendant proves that the act or omission constituting the offence took place in circumstances of stress or emergency and was necessary for the preservation, protection, or maintenance of human life.
