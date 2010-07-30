@@ -1,7 +1,7 @@
 # Public Finance Act 1989
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-07-30_
 
-> An Act to amend the law governing the use of public financial resources and to that end to—aprovide a framework for Parliamentary scrutiny of the Government's management of the Crown's assets and liabilities, including expenditure proposals; and b establish lines of responsibility for the use of public financial resources; and cestablish financial management incentives to encourage effective and efficient use of financial resources in departments and Crown entities; and d specify the minimum financial reporting obligations of the Crown, departments, and Crown entities; ande safeguard public assets by providing statutory authority and control for the raising of loans, issuing of securities, giving of guarantees, operation of bank accounts, and investment of funds
+> An Act to amend the law governing the use of public financial resources and to that end to—aprovide a framework for Parliamentary scrutiny of the Government's management of the Crown's assets and liabilities, including expenditure proposals; andbestablish lines of responsibility for the use of public financial resources; andcestablish financial management incentives to encourage effective and efficient use of financial resources in departments and Crown entities; anddspecify the minimum financial reporting obligations of the Crown, departments, and Crown entities; andesafeguard public assets by providing statutory authority and control for the raising of loans, issuing of securities, giving of guarantees, operation of bank accounts, and investment of funds
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Public Finance Act 1989.
@@ -1560,7 +1560,7 @@ Any money paid by the Crown under a guarantee or indemnity given under section 6
 (3) The Minister or the Treasury may give directions as to any terms and conditions under which a Trust Bank Account may be operated.
 
 ### 68 Investment of trust money
-(1) The Treasury or any agent of the Crown appointed by the Treasury for the purpose may from time to time invest any trust money held by the Crown for such periods and on such terms and conditions as it thinks fit— and may from time to time sell or convert into money any such securities.
+(1) The Treasury or any agent of the Crown appointed by the Treasury for the purpose may from time to time invest any trust money held by the Crown for such periods and on such terms and conditions as it thinks fit—and may from time to time sell or convert into money any such securities.
   (a) on deposit with any bank in New Zealand or any bank outside New Zealand approved by the Minister for the purpose; or
   (b) in public securities; or
   (c) in such other securities as the Minister may from time to time approve for the purpose—
@@ -1763,7 +1763,7 @@ Notwithstanding section 14 of the Summary Proceedings Act 1957, any information 
 (7) Every reference to any of the accounts specified in subsection (1) of this section in any Act, regulation, order, agreement, deed, instruction, application, notice, or other document whatever shall, unless the context otherwise requires, be read as a reference to a Crown Bank Account.
 
 ### 84 Registration of public securities, local authority stock, and other stock
-Notwithstanding the repeal by section 87 of the Act of— those provisions shall continue to apply to—
+Notwithstanding the repeal by section 87 of the Act of—those provisions shall continue to apply to—
   (a)
   (b) Part 6A of the Reserve Bank of New Zealand Act 1964:
   (c) section 4 of the Reserve Bank of New Zealand Amendment Act 1977 and so much of Schedule 3 as relates to section 109(2A) of the Local Authorities Loans Act 1951:
@@ -1814,6 +1814,7 @@ The enactments specified in Schedule 2 to this Act are hereby repealed.
 | Asia New Zealand Foundation |  |  |  |  |  |  |  |  |
 | Auckland Transition Agency |  |  |  |  |  |  |  |  |
 | Crown Fibre Holdings Limited |  |  |  |  |  |  |  |  |
+| Health Benefits Limited |  |  |  |  |  |  |  |  |
 | Leadership Development Centre Trust |  |  |  |  |  |  |  |  |
 | Learning State Limited |  |  |  |  |  |  |  |  |
 | the Māori Trustee |  |  |  |  |  |  |  |  |
