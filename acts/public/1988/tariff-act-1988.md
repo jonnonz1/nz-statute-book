@@ -1,5 +1,5 @@
 # Tariff Act 1988
-_Consolidation as at 2010-01-01_
+_Consolidation as at 2010-08-01_
 
 > An Act to consolidate and amend the law relating to the imposition of tariff duty
 
@@ -13,28 +13,24 @@ _Consolidation as at 2010-01-01_
   - **AANZFTA** means the Agreement Establishing the ASEAN–Australia–New Zealand Free Trade Area done at Cha-am, Phetchaburi, Thailand on 27 February 2009
   - **ASEAN** means the Association of South East Asian Nations
   - **chief executive** means the chief executive of the Ministry of Economic Development
-  - **Collector**
-  - **Comptroller**
-  - **Customs**
   - **Customs** or has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Customs value** or , in relation to any goods, means the Customs value of those goods, determined in accordance with the provisions set out in Schedule 2 to the Customs and Excise Act 1996
-  - **Duty** means any duty imposed on goods under any of the provisions of this Act
-  - **Goods** means all kinds of movable personal property, including animals
-  - **Imported** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
-  - **Importer** means any person by or for whom any goods are imported; and includes the consignee of any goods and any person who is or becomes the owner of or entitled to the possession of or beneficially interested in any goods on or at any time after their importation and before they have ceased to be subject to the control of the Customs
+  - **duty** means any duty imposed on goods under any of the provisions of this Act
+  - **goods** means all kinds of movable personal property, including animals
+  - **imported** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **importer** means any person by or for whom any goods are imported; and includes the consignee of any goods and any person who is or becomes the owner of or entitled to the possession of or beneficially interested in any goods on or at any time after their importation and before they have ceased to be subject to the control of the Customs
   - **least developed country** means any country for the time being declared by Order in Council, under section 7A(1)(c), to be a least developed country for the purposes of this Act
   - **less developed country** means any country for the time being declared by an Order in Council, under section 7A(1)(d), to be a less developed country for the purposes of this Act
-  - **Manufacturing area** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
+  - **manufacturing area** has the meaning given to it by section 2(1) of the Customs and Excise Act 1996
   - **Minister** means the Minister of Commerce
   - **Normal Tariff** means the rates of duty and the exemptions from duty specified in the column headed Normal Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
   - **preferential abbreviation** has the meaning given to it by section 7(3)
   - **preferential country** has the meaning given to it by section 7(3)
   - **Preferential Tariff** means the rates of duty and the exemptions from duty specified in the column headed Preferential Tariff in the Tariff; and includes any modification or amendment thereof that may hereafter be made
-  - **Prescribed** in relation to forms includes prescribed by the chief executive
-  - **Rate of duty** includes the term Free
-  - **Secretary**
-  - **Ship** means any kind of vessel used in navigation, not propelled by oars only
-  - **Shipment** includes loading into an aircraft; and to ship and cognate expressions have corresponding meanings
+  - **prescribed** in relation to forms includes prescribed by the chief executive
+  - **rate of duty** includes the term Free
+  - **ship** means any kind of vessel used in navigation, not propelled by oars only
+  - **shipment** includes loading into an aircraft; and to ship and cognate expressions have corresponding meanings
   - **South Pacific Regional Trade and Economic Co-operation Agreement** means the agreement of that name done at Tarawa on the 14th day of July 1980; and includes any modification or amendment of it made after that day
   - **specified AANZFTA party** means a country that is for the time being declared by Order in Council under section 7A(1)(a) to be a specified AANZFTA party for the purposes of this Act
   - **specified TPA party** means a country that is for the time being declared by Order in Council under section 7A(1)(b) to be a specified TPA party for the purposes of this Act
@@ -157,8 +153,8 @@ The Acts and Regulations Publication Act 1989 does not apply to provisions incor
 
 ### 8 Concessions
 (1) The Minister may from time to time, in the Minister's discretion and in accordance with Part 2 of the Tariff, approve in respect of the entry of goods—the appropriate rate of duty or exemption specified in Part 2.
-  (a) Of any of the classes specified in Part 2; or
-  (b) In any of the circumstances specified in Part 2,—
+  (a) of any of the classes specified in Part 2; or
+  (b) in any of the circumstances specified in Part 2,—
 (2) The Minister may from time to time, by notice in the Gazette, withdraw or modify any approval granted under subsection (1) of this section.
 
 ### 9 Alterations and modifications of Tariff
@@ -218,9 +214,9 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
 
 ### 10 Alterations to nomenclature
 (1) The Governor-General may, from time to time, by Order in Council amend the Tariff—
-  (a) By revoking, or amending any heading, heading number, subheading, item, or item number, or the title of any Part, section, chapter, or subchapter of the Tariff, or by inserting any new heading, heading number, subheading, item, or item number, or title, in such manner as is necessary for the purpose of ensuring that the Tariff conforms to any international nomenclature; or
-  (b) By revoking, suspending, or amending any provision of the notes forming part of the Tariff, or by inserting any new provision in the notes, for the purpose of ensuring the proper operation of the Tariff; or
-  (c) By revoking, suspending, or amending any statistical requirements of the Tariff.
+  (a) by revoking, or amending any heading, heading number, subheading, item, or item number, or the title of any Part, section, chapter, or subchapter of the Tariff, or by inserting any new heading, heading number, subheading, item, or item number, or title, in such manner as is necessary for the purpose of ensuring that the Tariff conforms to any international nomenclature; or
+  (b) by revoking, suspending, or amending any provision of the notes forming part of the Tariff, or by inserting any new provision in the notes, for the purpose of ensuring the proper operation of the Tariff; or
+  (c) by revoking, suspending, or amending any statistical requirements of the Tariff.
 (2) Notwithstanding anything in subsection (1)(c) of this section, the Minister may, by notice in the Gazette, revoke, suspend, or amend any statistical requirement of the Tariff.
 (3) The statistical requirements of the Tariff shall be those set out in the columns headed Statistical Key in the Tariff, including any amendment thereof that may hereafter be made.
 (4) No amendment made pursuant to this section shall alter the duties or exemptions from duty applicable to goods classified under any item or heading so amended.
@@ -248,8 +244,8 @@ Every reference in the following to the Tariff or to Schedule 1 of the Tariff Ac
 
 ### 15 Power of chief executive to prescribe forms
 For the purposes of this Act—
-  (a) The chief executive may from time to time prescribe any forms the chief executive deems necessary:
-  (b) The production of any document under the hand of the chief executive purporting to be a prescribed form or an extract from a prescribed form or a copy of any such form or extract shall in all Courts and in all proceedings be sufficient evidence of the fact that the form was prescribed; and all Courts shall in all proceedings take judicial notice of the signature of the chief executive either to the prescribed form or to any such extract or copy.
+  (a) the chief executive may from time to time prescribe any forms the chief executive deems necessary:
+  (b) the production of any document under the hand of the chief executive purporting to be a prescribed form or an extract from a prescribed form or a copy of any such form or extract shall in all Courts and in all proceedings be sufficient evidence of the fact that the form was prescribed; and all Courts shall in all proceedings take judicial notice of the signature of the chief executive either to the prescribed form or to any such extract or copy.
 
 ### 15A Interpretation
 In this section and sections 15B to 15H, unless the context otherwise requires,—
@@ -258,13 +254,15 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
   - **free trade agreement** means—
     (a) the Thai FTA; or
     (b) the China FTA; or
-    (c) the AANZFTA and AANZFTA side instruments that relate to safeguards
+    (c) the AANZFTA and AANZFTA side instruments that relate to safeguards; or
+    (d) the Malaysia FTA
   - **industry** , in relation to any goods, means—
     (a) the New Zealand producers, as a whole, of like or directly competitive goods; or
     (b) the New Zealand producers of like or directly competitive goods whose collective output constitutes a major proportion of the total production of those goods
   - **like goods** , in relation to any goods, means—
     (a) other goods that are like those goods in all respects; or
     (b) in the absence of goods referred to in paragraph (a), goods that have characteristics closely resembling those goods
+  - **Malaysia FTA** means the Malaysia–New Zealand Free Trade Agreement done at Kuala Lumpur on 26 October 2009
   - **provisional transitional safeguard measure** means a provisional transitional safeguard measure applied under section 15H
   - **serious injury** means a significant overall impairment in the position of a domestic industry
   - **Thai FTA** means the New Zealand–Thailand Closer Economic Partnership Agreement done at Bangkok on 19 April 2005
@@ -284,9 +282,9 @@ In this section and sections 15B to 15H, unless the context otherwise requires,�
 (1) Before any transitional safeguard investigation, the chief executive must specify administrative procedures for the conduct of transitional safeguard investigations that—
   (a) are consistent with New Zealand's international obligations; and
   (b) include the following matters:
-  (i) the provision of public notice of the investigation; and
-  (ii) an opportunity for interested parties to respond to submissions of other parties; and
-  (iii) the treatment of confidential material provided by interested parties.
+    (i) the provision of public notice of the investigation; and
+    (ii) an opportunity for interested parties to respond to submissions of other parties; and
+    (iii) the treatment of confidential material provided by interested parties.
 (2) The chief executive may amend the procedures specified under subsection (1).
 (3) An amendment to the procedures does not apply to an investigation being undertaken when the amendment comes into force, unless the amendment specifies otherwise.
 (4) The chief executive must publish the procedures, and any amendments to the procedures, in the Gazette.
@@ -334,7 +332,7 @@ The Minister may extend a transitional safeguard measure applied under section 1
     (ii) are causing, or threatening to cause, serious injury to an industry producing a like or directly competitive good; and
   (b) there exist,—
     (i) in relation to a provisional transitional safeguard measure to be applied under the Thai FTA, highly unusual and critical circumstances; or
-    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA or the AANZFTA, critical circumstances; and
+    (ii) in relation to a provisional transitional safeguard measure to be applied under the China FTA, the AANZFTA, or the Malaysia FTA, critical circumstances; and
   (c) the delay in applying a transitional safeguard measure under section 15F would cause serious injury to the industry which would be difficult to repair.
 (2) A provisional transitional safeguard measure applies on and from—
   (a) the date specified in the measure (which may be a date before, on, or after the date on which the determination is made); or
@@ -358,15 +356,15 @@ Without limiting the Acts Interpretation Act 1924, no Order in Council under thi
 
 ### 16A Fees
 The Governor-General may from time to time, by Order in Council, make regulations prescribing the fees to be paid in respect of—
-  (a) Applications for any approval under section 8(1) of this Act in respect of the entry of goods—
-    (i) Of any of the classes specified in Part 2 of the Tariff; or
-    (ii) In any of the circumstances specified in Part 2 of the Tariff:
-  (b) Applications for any withdrawal or modification, under section 8(2) of this Act, of any approval granted under section 8(1) of this Act.
+  (a) applications for any approval under section 8(1) of this Act in respect of the entry of goods—
+    (i) of any of the classes specified in Part 2 of the Tariff; or
+    (ii) in any of the circumstances specified in Part 2 of the Tariff:
+  (b) applications for any withdrawal or modification, under section 8(2) of this Act, of any approval granted under section 8(1) of this Act.
 
 ### 16B Regulations relating to goods temporarily imported and drawbacks of duty
 The Governor-General may from time to time, by Order in Council, make regulations—
-  (a) Declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 116 of the Customs and Excise Act 1996 shall not be applied:
-  (b) Declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 117 of the Customs and Excise Act 1996 shall not be applied.
+  (a) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 116 of the Customs and Excise Act 1996 shall not be applied:
+  (b) declaring specified goods or classes of goods subject to duty under this Act to be goods in respect of which the provisions of section 117 of the Customs and Excise Act 1996 shall not be applied.
 
 ### 17 Transitional provisions
 (1) At any time after the date on which this Act receives the Governor-General's assent, the Governor-General may, by Order in Council, exercise in respect of the Tariff, with effect from the commencement of this Act, any of the powers to alter or modify the Tariff, and create exemptions in respect of any goods, conferred on the Governor-General by any provision of this Act for the purpose of giving effect to that provision, and for the purpose of bringing the Tariff into effective operation at the commencement of this Act.
