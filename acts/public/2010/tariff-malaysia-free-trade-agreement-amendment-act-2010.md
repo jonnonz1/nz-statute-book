@@ -1,5 +1,5 @@
 # Tariff (Malaysia Free Trade Agreement) Amendment Act 2010
-_Consolidation as at 2010-06-30_
+_Consolidation as at 2010-08-01_
 
 ### 1 Title
 This Act is the Tariff (Malaysia Free Trade Agreement) Amendment Act 2010.
