@@ -1,5 +1,5 @@
 # Arms Act 1983
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-08-01_
 
 > An Act to consolidate and amend the law relating to firearms and to promote both the safe use and the control of firearms and other weapons
 
@@ -20,6 +20,7 @@ In this Act, unless the context otherwise requires,—
       (ii) is not designed for firing, and is not capable of firing, rimfire or centrefire cartridge ammunition; or
     (b) any firearm declared by regulations made under this Act to be an antique firearm for the purposes of this Act
   - **arms office** means any Police station or Police office appointed as such by the Commissioner
+  - **cluster munition** has the meaning given to it by section 6 of the Cluster Munitions Prohibition Act 2009
   - **Commissioner** means the Commissioner of Police
   - **explosive** —
     (a) means any substance or mixture or combination of substances which in its normal state is capable either of decomposition at such rapid rate as to result in an explosion or of producing a pyrotechnic effect; and
@@ -74,6 +75,7 @@ In this Act, unless the context otherwise requires,—
     (ii) a member of the Police or an armourer employed by the Police; or
     (iii) a person employed by the Police to provide firearms training to members of the Police; or
     (iv) an officer as defined by section 4 of the Anti-Personnel Mines Prohibition Act 1998; or
+    (iva) an officer as defined by section 7 of the Cluster Munitions Prohibition Act 2009; or
     (v) a person authorised by the Commissioner to provide training to members of the Police in the use of a restricted weapon that is a gas or some other disabling substance, or a device designed to discharge such a substance; or
     (vi) an employee of the body that, immediately before the commencement of the Arms Amendment Act 2000 was known as the Institute of Environmental Science and Research Ltd; or
     (vii) a person working in any forensic laboratory or facility that provides forensic services to the Police:
@@ -97,7 +99,7 @@ In this Act, unless the context otherwise requires,—
   (b) manufacture for sale any firearm, airgun, pistol, or restricted weapon,—
 (2) Every application for a dealer's licence shall be made on a form provided by a member of the Police.
 (3) A dealer's licence shall be issued if the commissioned officer of Police to whom the application is made is satisfied that the applicant is a fit and proper person to carry on the business of a dealer in, or manufacturer for sale of, firearms, airguns, pistols, and restricted weapons.
-(3A) Despite subsections (1) to (3), no dealer's licence is to be issued for the carrying on of business as a dealer in, or manufacturer for sale of, anti-personnel mines.
+(3A) Despite subsections (1) to (3), no dealer's licence is to be issued for the carrying on of business as a dealer in, or manufacturer for sale of, anti-personnel mines or cluster munitions.
 (4) Every person commits an offence against this Act and is liable on summary conviction to a fine not exceeding $1,000 who contravenes subsection (1).
 
 ### 6 Dealer's licence to be personal to holder
@@ -189,7 +191,7 @@ Without prejudice to section 67(8) of the Summary Proceedings Act 1957, in any p
   (b) parts of a pistol, military style semi-automatic firearm, or restricted weapon,—
 (3) Any permit issued for the purposes of section 16(1) is personal to the person to whom it is issued and may not be transferred to any other person.
 (4) Any permit issued for the purposes of section 16(1) may be at any time revoked by a commissioned officer of Police.
-(5) A permit for the purposes of section 16(1) is in no case to be granted in respect of an anti-personnel mine.
+(5) A permit for the purposes of section 16(1) is in no case to be granted in respect of an anti-personnel mine or a cluster munition.
 
 ### 18A Expiration of permits to import firearms or parts of firearms
 Unless sooner revoked under section 18(4), a permit issued for the purposes of section 16(1) shall expire 12 months after the date on which that permit was issued.
@@ -296,7 +298,7 @@ Without limiting the generality of sections 24 and 27, it is hereby declared tha
 (1) Any person, being—may apply at an Arms Office to a member of the Police for an endorsement permitting that person to have possession of that kea gun.
   (a) an applicant for a firearms licence or a holder of a firearms licence; and
   (b) a person who has been the registered owner of a kea gun since before 1 January 1984,—
-(2) Any person, being an applicant for a firearms licence or a holder of a firearms licence, may apply at an Arms Office to a member of the Police for an endorsement permitting that person to have possession of a pistol or a restricted weapon (other than an anti-personnel mine) in his capacity as—
+(2) Any person, being an applicant for a firearms licence or a holder of a firearms licence, may apply at an Arms Office to a member of the Police for an endorsement permitting that person to have possession of a pistol or a restricted weapon (other than an anti-personnel mine or a cluster munition) in his capacity as—
   (a) a member of an incorporated pistol shooting club for the time being recognised by the Commissioner for the purposes of this section; or
   (b) a bona fide collector of firearms; or
   (c) a person to whom the pistol or restricted weapon has special significance as an heirloom or memento; or
@@ -386,7 +388,7 @@ Without limiting the generality of the provisions of sections 5, 9, 24, 27, 29, 
   (b) that the person to whom it is issued is the holder of a firearms licence that bears an endorsement made under section 30 or section 30B and that, by virtue of that licence and its endorsement, that person is permitted to have possession of the pistol, military style semi-automatic firearm, or restricted weapon, as the case may be.
 (3) Every permit issued under this section shall, unless sooner revoked, remain in force for such period, not exceeding 1 month, as may be specified in the permit.
 (4) Any permit issued under this section may at any time during its currency be revoked by a commissioned officer of Police.
-(5) No permit is to be issued under this section in respect of an anti-personnel mine.
+(5) No permit is to be issued under this section in respect of an anti-personnel mine or a cluster munition.
 
 ### 36 Offence to carry pistol or restricted weapon without authority
 (1) No person shall carry a pistol or restricted weapon in any place beyond the curtilage of his dwelling, save under and in accordance with the conditions endorsed on his firearms licence by a member of the Police.
@@ -816,7 +818,7 @@ The enactments specified in the Schedule are hereby repealed.
   (c) as if certain conditions were not, immediately before the commencement of this Act, conditions of his licence or permit.
 (9) The Acts Interpretation Act 1924 shall apply subject to this section.
 
-## Schedule Schedule — Enactments repealed
+## Schedule  — Enactments repealed
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Arms Amendment Act 1992, and shall be read together with and deemed part of the Arms Act 1983 (hereinafter referred to as “the principal Act”).
