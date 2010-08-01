@@ -1,5 +1,5 @@
 # Cluster Munitions Prohibition Act 2009
-_Consolidation as at 2009-12-17_
+_Consolidation as at 2010-08-01_
 
 ### 1 Title
 This Act is the Cluster Munitions Prohibition Act 2009.
