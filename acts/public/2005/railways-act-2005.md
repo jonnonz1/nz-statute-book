@@ -1,5 +1,5 @@
 # Railways Act 2005
-_Consolidation as at 2008-10-01_
+_Consolidation as at 2010-08-06_
 
 ### 1 Title
 This Act is the Railways Act 2005.
@@ -929,6 +929,8 @@ A decision of the Agency appealed against under section 68 or section 71 or sect
 
 ### 75 Access to railway by easements or for works
 (1) Despite anything in any other Act, no person may exercise a right under an easement, or construct or carry out work on, over, or under any railway infrastructure or railway premises, without having first sought and obtained the written permission of the licensed access provider or railway premises owner concerned.
+(1A) The New Zealand Railways Corporation, and any other licensed access provider that the Minister, by notice in the Gazette, declares to be subject to this subsection, must publish, on a publicly available Internet site, the criteria that the Corporation or other body will apply when considering whether to grant permission under subsection (1), and must apply those criteria when considering whether to grant permission.
+(1B) If a local authority or owner of any pipe, line, or other work associated with wastewater or the supply of water, electricity, gas, or telecommunications requests, in writing, permission for access to any railway infrastructure or railway premises for the purpose of carrying out work on any such pipe, line, or other works, the licensed access provider or railway premises owner must respond to the request, in writing, within 30 working days of receiving the request.
 (2) The licensed access provider or railway premises owner may require the person to execute a deed or agreement setting out the conditions subject to which the permission is granted.
 (3) Permission given under subsection (1) is not negated by a change in the licensed access provider or railway premises owner.
 (4) If a condition in a deed or agreement executed under subsection (2) constitutes a charge, that charge must be reasonable.
@@ -1288,3 +1290,14 @@ A proceeding commenced under a provision of the Transport Services Licensing Act
 ## Schedule 1 — Acts consequentially amended
 
 ## Schedule 2 — Regulations consequentially amended
+
+### 1 Title
+This Act is the Infrastructure (Amendments Relating to Utilities Access) Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provision**
+
+### 28 Transitional provision
+To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
