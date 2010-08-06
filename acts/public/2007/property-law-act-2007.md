@@ -1,5 +1,5 @@
 # Property Law Act 2007
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-08-06_
 
 ### 1 Title
 This Act is the Property Law Act 2007.
@@ -2653,6 +2653,17 @@ A covenant made by 2 or more covenantors binds both or all the covenantors joint
 
 ### 277 Effect of covenants for benefit of 2 or more covenantees
 A covenant for the benefit of 2 or more covenantees binds the covenantor to perform the obligations under the covenant for the benefit of 1 or more survivors of those covenantees, unless a contrary intention appears in the instrument or in the short-term lease not made in writing.
+
+### 277A Certain covenants void
+(1) A covenant concerning land is void if a principal purpose of the covenant is to stop the land being used for housing for—
+  (a) people on low incomes; or
+  (b) people with special housing needs; or
+  (c) people whose disabilities mean that they need support or supervision in their housing.
+(2) Without limiting the covenants that are void under subsection (1), covenants to the following effect are void:
+  (a) a covenant that the transferee will not directly or indirectly convey the land to Housing New Zealand Corporation, any other central or local government body, or a private body that may facilitate the occupation of housing on the land by people selected by the corporation or the body:
+  (b) a covenant that the transferee will not directly or indirectly convey the land to Housing New Zealand Corporation, a subsidiary company of Housing New Zealand Corporation, any other central or local government body, or a private body that provides housing to tenants on a subsidised basis:
+  (c) a covenant that the transferee will not directly or indirectly convey the land to a central or local government body or a private body for the purposes of public or institutional housing.
+(3) This section applies only to covenants entered into on or after the day on which this section comes into force.
 
 ### 278 Covenants persons made with themselves
 (1) A covenant that a person made with himself, herself, or itself is enforceable in the same way as a covenant that that person made with 1 or more people, none of whom is that person.
