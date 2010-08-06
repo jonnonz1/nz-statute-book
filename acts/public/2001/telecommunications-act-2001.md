@@ -1,5 +1,5 @@
 # Telecommunications Act 2001
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-08-06_
 
 ### 1 Title
 This Act is the Telecommunications Act 2001.
@@ -1808,6 +1808,8 @@ In this subpart, evidence of authority, in relation to an officer, employee, or 
   (g) the co-ordination with road construction work by the local authority or other person who has jurisdiction over that road:
   (h) the need of a network operator to establish a telecommunications network in a timely manner.
 (2) Nothing in subsection (1) limits a local authority's or other person's ability to impose reasonable conditions under section 135(2) or section 142(2)(b).
+(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
+(4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
 
 **Rights of entry to land in respect of lines**
 
@@ -1901,14 +1903,16 @@ If a network operator removes or trims a tree, shrub, or plant on any land or ro
 (2) A network operator must exercise the powers contained in subsection (1) in accordance with any reasonable conditions that the local authority or other person who has jurisdiction over that road requires.
 
 ### 136 Notice requirement
-(1) Except as provided in section 139, before a network operator proceeds to open or break up any road, the network operator must give to the local authority or other person who has jurisdiction over the road written notice of the intention to carry out the work.
+(1) Except as provided in section 139, before a network operator proceeds to open or break up any road, the network operator must give notice of the intention to carry out the work to—
+  (a) the local authority or other person who has jurisdiction over the road; and
+  (b) any utility operator (as defined in section 4 of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work.
 (2) Every notice must specify the location of the proposed work, the nature of the work to be carried out, and the reasons for it.
 
 ### 137 Network operator to be notified of conditions
-Not later than 20 working days after the receipt of the written notice of the intention to carry out work, the local authority or other person who has jurisdiction over the road must notify the network operator in writing of any conditions imposed under section 135(2).
+Not later than 15 working days after the receipt of the written notice of the intention to carry out work, the local authority or other person who has jurisdiction over the road must notify the network operator in writing of any conditions imposed under section 135(2).
 
 ### 138 Failure to notify conditions
-If a local authority or other person who has jurisdiction over the road fails to notify the network operator of the conditions imposed under section 135(2) within the 20-working day period referred to in section 137, those conditions may not be imposed, and the network operator may commence work.
+If a local authority or other person who has jurisdiction over the road fails to notify the network operator of the conditions imposed under section 135(2) within the 15-working day period referred to in section 137, those conditions may not be imposed, and the network operator may commence work.
 
 ### 139 Urgency
 If work is urgent and necessary because of any defective equipment, or other emergency, the network operator—
@@ -1931,16 +1935,18 @@ If work is urgent and necessary because of any defective equipment, or other eme
 ### 142 Construction, etc, of telephone cabinets or other similar appliances
 (1) Subject to subsection (2), a network operator may construct, place, and maintain public telephone cabinets, distribution cabinets, or any other similar appliances on a road.
 (2) A network operator must—
-  (a) give to the local authority or other person who has jurisdiction over that road at least 10 working days' notice of its intention to place a cabinet or appliance on the road; and
+  (a) give notice of its intention to place a cabinet or other appliance on the road to—
+    (i) the local authority or other person who has jurisdiction over the road; and
+    (ii) any utility operator (as defined in section 4 of the Utilities Access Act 2010) whose pipes, lines, or other structures will or are likely to be affected by the work; and
   (b) comply with any reasonable conditions that are imposed by the local authority or other person who has jurisdiction over that road on which the cabinet or appliance is to be placed; and
   (c) not intentionally place the cabinet or appliance on the road so that it interferes with the ordinary traffic.
 (3) Every notice under subsection (2)(a) must specify where the cabinet or appliance is to be placed on the road and the reasons for it.
 
 ### 143 Network operator to be notified of conditions
-Not later than 20 working days after the receipt of the written notice of the network operator's intention to place a cabinet or appliance on a road under section 142, the local authority or other person who has jurisdiction over that road must notify the network operator in writing of any conditions imposed under section 142(2)(b).
+Not later than 15 working days after the receipt of the written notice of the network operator's intention to place a cabinet or appliance on a road under section 142, the local authority or other person who has jurisdiction over that road must notify the network operator in writing of any conditions imposed under section 142(2)(b).
 
 ### 144 Failure to notify conditions
-If a local authority or other person who has jurisdiction over a road fails to notify the network operator of the conditions imposed under section 142(2)(b) within the 20-working day period referred to in section 143, those conditions may not be imposed and the network operator may commence work.
+If a local authority or other person who has jurisdiction over a road fails to notify the network operator of the conditions imposed under section 142(2)(b) within the 15-working day period referred to in section 143, those conditions may not be imposed and the network operator may commence work.
 
 ### 145 Urgency
 If the telephone cabinet or appliance must be placed on a road urgently and it is necessary because of any defective equipment or other emergency, the network operator—
@@ -1957,6 +1963,42 @@ If the telephone cabinet or appliance must be placed on a road urgently and it i
 (2) An appeal must be made not later than 45 working days after the date of notification of the conditions imposed or within any further time that the District Court may allow.
 (3) In its determination of any appeal, a District Court may confirm, modify, or cancel any or all of the conditions imposed.
 (4) The decision of a District Court in the determination of an appeal under this section is final.
+
+**Local authority, etc, requiring work to be done**
+
+### 147A Local authority, etc, may require lines, etc, to be moved
+(1) Where a network operator owns lines, cabinets, or other similar appliances that are on a road, the local authority or other person having jurisdiction over the road may, by notice in writing, require the network operator to raise, lower, or otherwise alter the position of the lines, cabinets, or other similar appliances.
+(2) If the network operator refuses or fails, within a reasonable period, to do the work required, the person requiring the work may do the work or have it done by some other person.
+(3) Before doing work as permitted by subsection (2), the person requiring the work must give notice to the network operator at least 15 working days before the work commences.
+
+### 147B Cost of work required under section 147A
+(1) The reasonable cost of all work required to be done under section 147A must be paid by the person that requires the work to be done.
+(2) However, the cost of the work must be paid by the network operator if the reason that the work is required is that the lines, cabinets, or other appliances—
+  (a) were constructed contrary to any of the following:
+    (i) this Act or any regulations made under section 157:
+    (ii) the Telecommunications (Residual Provisions) Act 1987:
+    (iii) the Local Government Act 1974 or the Local Government Act 2002, and any predecessor of those Acts:
+    (iv) the Public Works Act 1981:
+    (v) any local or private Act:
+    (vi) any regulations made under any of the enactments referred to in subparagraphs (ii) to (v); or
+  (b) are in a dangerous or unsafe condition.
+(3) A person that requires work to be done under section 147A may not claim for betterment in respect of that work, and no claim for betterment may be made against the person.
+(4) The following provisions apply if the person requiring the work is the New Zealand Transport Agency or the agent of the Minister of Transport:
+  (a) the cost of all lines, cabinets, other appliances, and associated equipment that are used in carrying out the required work (other than things used only during the course of construction) must be paid by the network operator:
+  (b) if, as a consequence of the requirement, the network operator elects to fix or install any lines, cabinets, or other appliances over, under, or through any roading structure (being a bridge, underpass, overpass, culvert, or tunnel) that is being, or is to be, constructed or altered, and if the cost of constructing or altering the roading structure is thereby increased, then the network operator must pay the increase in cost:
+  (c) if, as a consequence of the requirement, the network operator relocates the lines, cabinets, or other similar appliances and reconstructs them to specifications different from those of the original lines, cabinets, or other appliances, then, if the costs described in paragraph (d)(i) are less than the costs described in paragraph (d)(ii), the network operator is liable to pay the difference:
+  (d) the costs referred to in paragraph (c) are—
+    (i) what it would have cost to relocate and reconstruct the lines, cabinets, or other similar appliances as near as reasonably practicable to their original specifications (excluding any costs to which paragraph (a) applies), taking into account—
+      (A) any restrictions or conditions imposed by or under any enactment in relation to the relocation and reconstruction; and
+      (B) the location of the original works and the alternatives reasonably available to the network operator:
+    (ii) the actual cost of the relocation and reconstruction (excluding any costs to which paragraph (a) applies).
+(5) Subsections (1) to (4) apply subject to any agreement between the person requiring the work and the network operator.
+(6) The amount of payment required under this section must be determined—
+  (a) by agreement between the person liable for the payment and the person to whom it is payable; or
+  (b) failing such agreement, by arbitration under the Arbitration Act 1996, with 1 arbitrator to be appointed by each party and an umpire to be appointed by those arbitrators before entering upon their reference.
+
+### 147C Relationship with section 54 of Government Roading Powers Act 1989
+Sections 147A and 147B apply despite anything to the contrary in section 54 of the Government Roading Powers Act 1989.
 
 **Miscellaneous**
 
@@ -2955,3 +2997,14 @@ Despite the amendments made to the designated access services under Part 2 of Sc
 (2) The Commission may continue and complete an investigation to which this section applies in accordance with—
   (a) Schedule 3 of the principal Act (as if this Act had not been enacted); or
   (b) Schedule 3 of the principal Act (as amended by this Act).
+
+### 1 Title
+This Act is the Infrastructure (Amendments Relating to Utilities Access) Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provision**
+
+### 28 Transitional provision
+To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
