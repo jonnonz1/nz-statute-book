@@ -1,5 +1,7 @@
 # Housing Corporation Act 1974
-_Consolidation as at 2008-09-17_
+_Consolidation as at 2010-08-06_
+
+> Title
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Housing Corporation Act 1974.
@@ -12,14 +14,11 @@ The purpose of this Act is to—
 
 ### 2 Interpretation
 In this Act, unless the context otherwise requires,—
-  - **Appointed member**
-  - **Approved securities** means—
-    (a) The bonds, stock, debentures, funds, or other securities of the Government of New Zealand; or
-    (b) Any other securities that are for the time being approved by the Minister for the purposes of this Act:
-  - **committee**
+  - **approved securities** means—
+    (a) the bonds, stock, debentures, funds, or other securities of the Government of New Zealand; or
+    (b) any other securities that are for the time being approved by the Minister for the purposes of this Act
   - **Corporation** means Housing New Zealand Corporation established (as the Housing Corporation of New Zealand) by section 3(1)
-  - **Crown entity subsidiary** has the same meaning as in section 8(2) of the Crown Entities Act 2004.
-  - **Director-General**
+  - **Crown entity subsidiary** has the same meaning as in section 8(2) of the Crown Entities Act 2004
   - **existing company** —
     (a) means HNZ or Community Housing Limited (a company that on the commencement of the Housing Corporation Amendment Act 2001 was duly incorporated under the Companies Act 1993); and
     (b) includes any subsidiary (within the meaning of the Companies Act 1993) of an existing company
@@ -27,12 +26,12 @@ In this Act, unless the context otherwise requires,—
   - **land** includes interests in land, and houses and buildings
   - **Minister** , except when immediately followed by the words of Finance or of Housing, means the Minister of Finance and the Minister of Housing, acting jointly
   - **Minister of Housing** means the Minister of the Crown who, under the authority of any warrant or with the authority of the Prime Minister, is for the time being responsible for the Corporation
-  - **Property** includes real or personal property, and any estate or interest in any real or personal property, and any debt, and any security and any thing in action, and any licence or authority, and any other right or interest
-  - **Security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
+  - **property** includes real or personal property, and any estate or interest in any real or personal property, and any debt, and any security and any thing in action, and any licence or authority, and any other right or interest
+  - **security** means a mortgage, submortgage, charge (whether legal or equitable), bond, stock, debenture, bill of exchange, promissory note, guarantee, indemnity, defeasance, hypothecation, instrument by way of security, lien, pledge, or other security for the payment of money or for the discharge of any other obligation or liability and in any case whether upon demand or otherwise, whether present or future and whether actual or contingent, and includes an acknowledgment of debt (whether or not otherwise secured) and an agreement or undertaking to give or execute whether upon demand or otherwise any of the foregoing
   - **solicitor** means a person who is duly enrolled as a barrister and solicitor under or by virtue of the Lawyers and Conveyancers Act 2006 and who holds a current practising certificate as a barrister and solicitor under that Act
+  - **State Services Commissioner** means the State Services Commissioner appointed under section 3 of the State Sector Act 1988
   - **statement of intent** means a statement of intent under section 139 of the Crown Entities Act 2004
   - **subsidiary** , in relation to the Corporation, means a body that would under the Companies Act 1993 be a subsidiary of the Corporation if the Corporation were a company within the meaning of that Act
-  - **State Services Commissioner** means the State Services Commissioner appointed under section 3 of the State Sector Act 1988
   - **vesting day** ,—
     (a) in relation to an existing company or an asset or liability of an existing company, means the day on which the order under section 53 relating to that company comes into force; and
     (b) in relation to an asset or liability of the Crown, means the day on which an order under section 53 relating to that asset or liability comes into force.
@@ -42,8 +41,9 @@ In this Act, unless the context otherwise requires,—
 ### 3 Establishment of Corporation
 (1) There is hereby established Housing New Zealand Corporation.
 (2) The Corporation is a Crown entity for the purposes of section 7 of the Crown Entities Act 2004.
+(2A)
 (3) The Crown Entities Act 2004 applies to the Corporation except to the extent that this Act expressly provides otherwise.
-(4)
+(5)
 
 ### 3AA Membership of Corporation
 (1) The Corporation must have at least 2, but no more than 8, members appointed under section 28(1)(a) of the Crown Entities Act 2004.
@@ -60,8 +60,8 @@ The Corporation's objectives are—
     (i) exhibits a sense of social responsibility by having regard to the interests of the community in which it operates; and
     (ii) exhibits a sense of environmental responsibility by having regard to the environmental implications of its operations; and
     (iii) operates with good financial oversight and stewardship, and efficiently and effectively manages its assets and liabilities and the Crown's investment; and
-  (b) to ensure that the Minister of Housing receives appropriate policy advice, other advice, and information, on housing and services related to housing; and
-  (c) to arrange for territorial authorities applying the Affordable Housing: Enabling Territorial Authorities Act 2008 to receive appropriate advice and information, of a policy or other nature, about housing and services related to housing.
+  (b) to ensure that the Minister of Housing receives appropriate policy advice, other advice, and information, on housing and services related to housing.
+  (c)
 
 ### 3C Communication of the Crown's social objectives
 (1) To enable the Corporation to achieve the objective stated in section 3B(a) and to prepare its statements of intent, the Minister must, at least 2 months before the commencement of each financial year of the Corporation, give it written notice of the Crown's social objectives for the provision of housing and services related to housing by the Corporation.
@@ -150,14 +150,15 @@ Schedule 1A applies to the Corporation.
   (c) any other person or organisation.
 (1B) Subsection (1A) does not limit section 17 of the Crown Entities Act 2004.
 (2)
-(3) Nothing in this section or in section 18 of this Act shall authorise or empower the Corporation to do anything in respect of any property owned by any other person, without the owner's consent.
-(4) Without limiting section 17 of the Crown Entities Act 2004, the Corporation may also from time to time—and may provide any legal advice or legal services attendant upon any such work, and in return for such work, advice, or services may charge any fees or other remuneration that may be agreed on between the Corporation and the person for or on behalf of whom it is acting.
-  (a) Act as an agent for the Crown, or for any Government department, or for any other person or body, and in return for such services charge any fees or other remuneration that may be agreed on between the Corporation and the principal; and
+(3) Nothing in this section or in section 18 shall authorise or empower the Corporation to do anything in respect of any property owned by any other person, without the owner's consent.
+(4) Without limiting section 17 of the Crown Entities Act 2004, the Corporation may also from time to time—
+  (a) act as an agent for the Crown, or for any Government department, or for any other person or body, and in return for such services charge any fees or other remuneration that may be agreed on between the Corporation and the principal; and
   (b)
-  (c) Acting through a solicitor, or through a person acting under the supervision of a solicitor, draw or prepare for or on behalf of any other person—
-    (i) Any conveyance within the meaning of the Property Law Act 2007 of any real or personal property; or
-    (ii) Any deed within the meaning of the Property Law Act 2007 relating to any real or personal property; or
-    (iii) Any tenancy agreement or lease, or any agreement evidencing any tenancy or lease—
+  (c) acting through a solicitor, or through a person acting under the supervision of a solicitor, draw or prepare for or on behalf of any other person—
+    (i) any conveyance within the meaning of the Property Law Act 2007 of any real or personal property; or
+    (ii) any deed within the meaning of the Property Law Act 2007 relating to any real or personal property; or
+    (iii) any tenancy agreement or lease, or any agreement evidencing any tenancy or lease—
+  and may provide any legal advice or legal services attendant upon any such work, and in return for such work, advice, or services may charge any fees or other remuneration that may be agreed on between the Corporation and the person for or on behalf of whom it is acting.
 (5) The Corporation, in acting for any principal, may with the agreement and on behalf of the principal make any investment in the name of the Corporation.
 (6)
 
@@ -170,7 +171,7 @@ Schedule 1A applies to the Corporation.
 ### 19C Ministerial reviews
 [Repealed]
 
-### 20 Corporation to give effect to Government policy
+### 20 Corporation to give effect to government policy
 (1) The Minister may require the Corporation to give effect to the policy of the Government, by—
   (a) giving the Corporation a direction under section 103 of the Crown Entities Act 2004; or
   (b) giving the Corporation a direction requiring it to enter into a written agreement with the Minister to give effect to a policy stated in the agreement.
@@ -214,7 +215,7 @@ Sections 20 to 20B apply to Crown entity subsidiaries of the Corporation as if e
 
 ### 24 Loans, guarantees, and indemnities at request of Minister of Finance
 (1) The Minister of Finance may from time to time in writing request the Corporation under this section to make any loan or expend any money or give any guarantee or indemnity, for any purpose specified in this Act, on such conditions as the Minister of Finance may specify.
-(2) Where the Corporation makes any loan or expends any money or gives any guarantee or indemnity pursuant to a request by the Minister of Finance under subsection (1) of this section, and in accordance with the conditions specified by the Minister of Finance under that subsection, the Corporation shall be deemed to be guaranteed by the Minister of Finance in respect of any loss that may be incurred by the Corporation arising out of the loan, expenditure, guarantee, or indemnity; and any money payable to the Corporation by the Minister of Finance pursuant to any such guarantee in favour of the Corporation shall be paid to the Corporation from the Crown Bank Account without further appropriation than this section.
+(2) Where the Corporation makes any loan or expends any money or gives any guarantee or indemnity pursuant to a request by the Minister of Finance under subsection (1), and in accordance with the conditions specified by the Minister of Finance under that subsection, the Corporation shall be deemed to be guaranteed by the Minister of Finance in respect of any loss that may be incurred by the Corporation arising out of the loan, expenditure, guarantee, or indemnity; and any money payable to the Corporation by the Minister of Finance pursuant to any such guarantee in favour of the Corporation shall be paid to the Corporation from a Crown Bank Account without further appropriation than this section.
 
 ## Part 3 — Securities for loans
 
@@ -225,36 +226,36 @@ Sections 20 to 20B apply to Crown entity subsidiaries of the Corporation as if e
 (1) Where a registered leasehold interest in land is subject to any mortgage under which the Corporation is the mortgagee, the mortgage shall be deemed to extend to and include the mortgagor's interest in any registered lease that may be granted to him in renewal of the mortgaged lease, or otherwise in lieu of the mortgaged lease.
 (2) In this section—
   - **Corporation** includes a transferee or assignee from the Corporation
-  - **Mortgage** includes a charge
-  - **Registered** means registered under the Land Transfer Act 1952.
+  - **mortgage** includes a charge
+  - **registered** means registered under the Land Transfer Act 1952.
 
 ### 27 Special provisions as to mortgages of leasehold interests in Crown land or certain classes of Maori land
 (1) This section applies to any mortgage under which the Corporation is the mortgagee for the time being and which is a mortgage of the mortgagor's interest in—
-  (a) Any lease of any Crown land or of any other land vested in Her Majesty; or
-  (b) Any lease of land that is subject to the Maori Vested Lands Administration Act 1954 or to the Maori Reserved Land Act 1955 ; or
-  (c) Any lease to which section 57 of the Maori Vested Lands Administration Act 1954 applies.
+  (a) any lease of any Crown land or of any other land vested in Her Majesty; or
+  (b) any lease of land that is subject to the Maori Vested Lands Administration Act 1954 or to the Maori Reserved Land Act 1955; or
+  (c) any lease to which section 57 of the Maori Vested Lands Administration Act 1954 applies.
 (2) In this section—
   - **Corporation** includes a transferee or assignee from the Corporation
-  - **Lease** includes an agreement to lease and a licence to occupy
-  - **Leasing authority** , in relation to any lease referred to in paragraph (a) of subsection (1) of this section, means the Land Settlement Board; and, in relation to any lease referred to in paragraph (b) or paragraph (c) of that subsection, means the Maori Trustee.
+  - **lease** includes an agreement to lease and a licence to occupy
+  - **leasing authority** , in relation to any lease referred to in paragraph (a) of subsection (1), means the Land Settlement Board; and, in relation to any lease referred to in paragraph (b) or paragraph (c) of that subsection, means the Māori Trustee.
 (3) Except with the consent of the Corporation, and on such terms as it thinks fit, it shall not be lawful for any leasing authority to forfeit or cancel the mortgagor's interest in any lease for breach of the conditions, or to accept any surrender thereof, or to cancel the mortgagor's right to compensation for or valuation of improvements, without giving to the Corporation at least 3 months' previous notice in writing of its intention so to do.
 (4) Notwithstanding such forfeiture, cancellation, or surrender, the mortgage to the Corporation shall, by virtue of this section, be deemed to be a first charge on the improvements then existing on the land for all money payable in respect thereof by any incoming tenant or occupier of the land (to the extent to which the mortgagor would have had interest therein if his title to the land had been lawfully determined otherwise than by forfeiture, cancellation, or surrender), and such money shall be paid to the Corporation accordingly:
-  Provided that the Corporation may accept from such incoming tenant or occupier a mortgage of his estate and interest in the land in lieu of cash, and any restrictions imposed by any Act on the right of the tenant to mortgage or assign his interest shall not apply in the case of a mortgage granted under this subsection.
+  provided that the Corporation may accept from such incoming tenant or occupier a mortgage of his estate and interest in the land in lieu of cash, and any restrictions imposed by any Act on the right of the tenant to mortgage or assign his interest shall not apply in the case of a mortgage granted under this subsection.
 (5) If, in the event of such forfeiture, cancellation, or surrender, the Corporation and the leasing authority are unable to agree as to the value of the mortgagor's interest in the improvements, such value shall be determined by arbitration.
 (6) In the event of the Corporation, as mortgagee in possession, granting a lease or other tenancy of the land, or of any part of the land (which it is hereby empowered to do without the consent of the leasing authority), then, for the purpose of preventing forfeiture or cancellation of the mortgagor's title for breach of conditions, but for no other purpose, fulfilment of conditions by the person in actual possession under such lease or other tenancy shall be considered as fulfilment by the mortgagor:
-  Provided that, in the case of any land administered by the Land Settlement Board, the grant of a lease by the Corporation shall be subject to the approval of the Minister of Lands and in the case of any land administered by the Maori Trustee the grant of a lease by the Corporation shall be subject to the approval of the Minister of Maori Affairs.
-(7) Where the Corporation as mortgagee in possession of any land grants a lease or other tenancy of the land in accordance with subsection (6) of this section, the rent received by the Corporation shall be apportioned between the Corporation and the leasing authority in proportion to the values of the capital interests in the land of the Corporation and the leasing authority (as representing the Crown or other owner of the land) or in such other proportions as may be mutually agreed to between the Corporation and the leasing authority. Any rent or other revenue that may be received by the leasing authority in respect of a temporary lease or licence granted after the cancellation, forfeiture, or surrender of the mortgagor's title shall be similarly apportioned between the leasing authority and the Corporation.
+  provided that, in the case of any land administered by the Land Settlement Board, the grant of a lease by the Corporation shall be subject to the approval of the Minister of Lands and in the case of any land administered by the Māori Trustee the grant of a lease by the Corporation shall be subject to the approval of the Minister of Maori Affairs.
+(7) Where the Corporation as mortgagee in possession of any land grants a lease or other tenancy of the land in accordance with subsection (6), the rent received by the Corporation shall be apportioned between the Corporation and the leasing authority in proportion to the values of the capital interests in the land of the Corporation and the leasing authority (as representing the Crown or other owner of the land) or in such other proportions as may be mutually agreed to between the Corporation and the leasing authority. Any rent or other revenue that may be received by the leasing authority in respect of a temporary lease or licence granted after the cancellation, forfeiture, or surrender of the mortgagor's title shall be similarly apportioned between the leasing authority and the Corporation.
 (8) If the Corporation sells the security in exercise of its powers of sale, any restrictions imposed by any Act on the right of lessee or licensee to mortgage or assign his interest in the land shall not apply with respect to the sale to the purchaser, nor shall any such restrictions apply with respect to the mortgage by the purchaser of his estate or interest in the land to the Corporation to secure the whole or any part of the purchase money.
 (9) Any sale by the Corporation in the exercise of its powers of sale may be by public auction or private contract, as the Corporation in its discretion thinks fit, and in the case of sale by private contract advertising shall not be necessary:
-  Provided that in the case of any land administered by the Land Settlement Board the sale shall be subject to the approval of the Minister of Lands.
+  provided that in the case of any land administered by the Land Settlement Board the sale shall be subject to the approval of the Minister of Lands.
 (10) Notwithstanding anything to the contrary in any other Act, the power of sale shall be deemed to arise and accrue and may, without the consent of the leasing authority, be exercised by the Corporation at any time after the expiration of the period limited in that behalf by the mortgage.
 
 ### 28 Repayment of loans
 [Repealed]
 
 ### 29 Borrowers to contribute to Corporation's funds
-(1) Every person who receives from the Corporation a loan of money (except a loan made pursuant to section 24 of this Act) may be required by the Corporation to pay to the credit of the Corporation's funds a sum to be fixed from time to time by the Corporation, not exceeding in any case 2 percent of the amount of the loan.
-(2) Any sum payable pursuant to subsection (1) of this section to the Corporation's funds may be paid in cash at the time of the making of the loan or, at the option of the borrower, may be added to the amount of the loan, and in the latter case it may be secured by any security instrument in respect of the loan as if it formed part of the loan.
+(1) Every person who receives from the Corporation a loan of money (except a loan made pursuant to section 24) may be required by the Corporation to pay to the credit of the Corporation's funds a sum to be fixed from time to time by the Corporation, not exceeding in any case 2% of the amount of the loan.
+(2) Any sum payable pursuant to subsection (1) to the Corporation's funds may be paid in cash at the time of the making of the loan or, at the option of the borrower, may be added to the amount of the loan, and in the latter case it may be secured by any security instrument in respect of the loan as if it formed part of the loan.
 
 ## Part 4 — Financial provisions
 
@@ -292,7 +293,7 @@ So far as concerns any lender or holder,—
 
 ### 31 Securities issued by Corporation to be guaranteed by Crown
 (1) All bonds, stock, and other securities issued by the Corporation before the commencement of the Housing Corporation Amendment Act 2001 (including all bonds, stock, and other securities taken over by the Corporation under section 49 of this Act) are hereby declared to be guaranteed in accordance with the following provisions of this section.
-(2) If any default is made by the Corporation in the payment of any principal or interest payable by it in respect of any bonds, stock, or other securities referred to in subsection (1) of this section, such principal or interest, as the case may be, shall forthwith be paid by the Minister of Finance out of the Crown Bank Account without further appropriation than this section.
+(2) If any default is made by the Corporation in the payment of any principal or interest payable by it in respect of any bonds, stock, or other securities referred to in subsection (1), such principal or interest, as the case may be, shall forthwith be paid by the Minister of Finance out of a Crown Bank Account without further appropriation than this section.
 (3) All money paid by the Minister of Finance under the authority of this section on account of any bonds, stock, or other securities shall constitute a debt due by the Corporation to the Crown, and shall be recoverable accordingly.
 
 ### 32 Investments in securities issued by Corporation
@@ -320,10 +321,10 @@ So far as concerns any lender or holder,—
 [Repealed]
 
 ### 40 Distribution of profits
-(1) The Corporation must pay its surplus for each financial year into the Crown bank account, unless the Minister authorises the Corporation to keep all or any part of it.
+(1) The Corporation must pay its surplus for each financial year into a Crown bank account, unless the Minister authorises the Corporation to keep all or any part of it.
 (2) In subsection (1), surplus means surplus capital, and any operating net surplus, after any provision the Minister thinks proper has been made for any matters that, in the Minister's opinion (reached in the light of the Corporation's statement of intent) are necessary for the efficient and effective conduct of the Corporation's operations.
 
-### 41 Audit of Accounts
+### 41 Audit of accounts
 [Repealed]
 
 ### 41A Crown entity
@@ -344,16 +345,16 @@ So far as concerns any lender or holder,—
   (b) the name Housing New Zealand Corporation; or
   (c) any other name so resembling either of those names as to be calculated to deceive.
 (2A) Subsections (1) and (2) do not prevent HNZ from continuing to use the name Housing New Zealand.
-(3) Any person who contravenes subsection (2) of this section commits an offence and shall be liable on summary conviction to a fine not exceeding $100 and to a further fine not exceeding $10 for each day on which the offence has continued.
+(3) Any person who contravenes subsection (2) commits an offence and shall be liable on summary conviction to a fine not exceeding $100 and to a further fine not exceeding $10 for each day on which the offence has continued.
 
 ### 43A Conveyancing
-(1) Where, pursuant to paragraph (c) of section 19(4) of this Act, the Corporation draws or prepares any conveyance, deed, agreement, or lease of a kind mentioned in that paragraph for or on behalf of any other person (hereafter in this section called the client), the solicitor referred to in that paragraph shall, in the drawing or preparing of that document and in the provision of any legal advice or legal service attendant upon that work, be deemed for all purposes to be employed by the client, and shall not be subject to direction by the Corporation or by any employee of the Corporation of the Corporation.
-(2) Nothing in subsection (1) of this section shall affect the right of the solicitor to act for the Corporation or any other person as well as the client.
+(1) Where, pursuant to paragraph (c) of section 19(4), the Corporation draws or prepares any conveyance, deed, agreement, or lease of a kind mentioned in that paragraph for or on behalf of any other person (hereafter in this section called the client), the solicitor referred to in that paragraph shall, in the drawing or preparing of that document and in the provision of any legal advice or legal service attendant upon that work, be deemed for all purposes to be employed by the client, and shall not be subject to direction by the Corporation or by any employee of the Corporation.
+(2) Nothing in subsection (1) shall affect the right of the solicitor to act for the Corporation or any other person as well as the client.
 (3)
-(4) If, as a result of anything done or omitted to be done by the Corporation in the exercise of any of its powers under section 19(4)(c) of this Act, the client suffers any loss, the client shall have the same right (if any) to recover in damages as the client would have had if the Corporation were a solicitor acting on behalf of the client.
-(5) Nothing in sections 21, 22, or 24 of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under section 19(4)(c) of this Act.
-(6) Notwithstanding anything in section 9 of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under section 19(4)(c) of this Act.
-(7) No solicitor employed, engaged, or instructed by the Corporation shall be personally liable for any act done or default made in good faith by the solicitor while acting for the Corporation in the exercise or purported exercise by the Corporation of any of its powers under section 19(4)(c) of this Act.
+(4) If, as a result of anything done or omitted to be done by the Corporation in the exercise of any of its powers under section 19(4)(c), the client suffers any loss, the client shall have the same right (if any) to recover in damages as the client would have had if the Corporation were a solicitor acting on behalf of the client.
+(5) Nothing in sections 21, 22, or 24 of the Lawyers and Conveyancers Act 2006 shall apply to anything done by the Corporation in the exercise of any of its powers under section 19(4)(c).
+(6) Notwithstanding anything in section 9 of the Lawyers and Conveyancers Act 2006, no solicitor shall be guilty of misconduct in the solicitor's professional capacity merely because that solicitor is acting in pursuance of the exercise by the Corporation of any of its powers under section 19(4)(c).
+(7) No solicitor employed, engaged, or instructed by the Corporation shall be personally liable for any act done or default made in good faith by the solicitor while acting for the Corporation in the exercise or purported exercise by the Corporation of any of its powers under section 19(4)(c).
 
 ### 44 Prohibition of procuration fees
 [Repealed]
@@ -369,28 +370,28 @@ The Corporation shall be liable for taxes and rates to the same extent as if it 
 
 ### 48 Regulations
 The Governor-General may from time to time, by Order in Council, make regulations for all or any of the following purposes:
-  (a) Prescribing forms of mortgage or other securities given in favour of the Corporation:
-  (b) Providing for such matters as are contemplated by or are necessary for giving full effect to the provisions of this Act and for its due administration.
+  (a) prescribing forms of mortgage or other securities given in favour of the Corporation:
+  (b) providing for such matters as are contemplated by or are necessary for giving full effect to the provisions of this Act and for its due administration.
 
 ### 49 Corporation to succeed State Advances Corporation
 (1) The Corporation shall be the successor to the State Advances Corporation of New Zealand established under the State Advances Corporation Act 1965.
 (2) On the commencement of this Act,—
-  (a) Every director of the State Advances Corporation shall retire from office; and
-  (b) All real and personal property that immediately before the commencement of this Act was vested in the State Advances Corporation shall, without conveyance, transfer, or assignment, vest in the Corporation for the estate and interest of the State Advances Corporation of New Zealand, subject to all liabilities, charges, obligations, and trusts affecting the property; and
-  (c) All the contracts, debts, and liabilities of the State Advances Corporation immediately before the commencement of this Act (including every guarantee and indemnity continuing to have effect, immediately before the commencement of this Act, under subsection (3) of section 2 of the State Advances Corporation Amendment Act 1970) shall become the contracts, debts, and liabilities of the Corporation.
+  (a) every director of the State Advances Corporation shall retire from office; and
+  (b) all real and personal property that immediately before the commencement of this Act was vested in the State Advances Corporation shall, without conveyance, transfer, or assignment, vest in the Corporation for the estate and interest of the State Advances Corporation of New Zealand, subject to all liabilities, charges, obligations, and trusts affecting the property; and
+  (c) all the contracts, debts, and liabilities of the State Advances Corporation immediately before the commencement of this Act (including every guarantee and indemnity continuing to have effect, immediately before the commencement of this Act, under subsection (3) of section 2 of the State Advances Corporation Amendment Act 1970) shall become the contracts, debts, and liabilities of the Corporation.
 (3) A District Land Registrar shall, on written application by the Corporation, register it as the proprietor of any estate or interest that is registered in his land registration district under the Land Transfer Act 1952 and is vested in the Corporation by this section.
-(4) In the financial year ending with the 31st day of March 1975, the Corporation and the State Advances Corporation of New Zealand shall be deemed to be the same body corporate for the purposes of sections 41 and 42 of this Act, so that one set of accounts and one general report may be prepared, delivered to the Minister, and laid before Parliament by the Corporation, for that financial year.
+(4) In the financial year ending with 31 March 1975, the Corporation and the State Advances Corporation of New Zealand shall be deemed to be the same body corporate for the purposes of sections 41 and 42, so that one set of accounts and one general report may be prepared, delivered to the Minister, and laid before Parliament by the Corporation, for that financial year.
 
 ### 49A References to Housing Corporation of New Zealand
 Every reference to the Corporation under its former name of the Housing Corporation of New Zealand in any enactment, agreement, contract, deed, or other document enacted, entered into, or created before 1 July 2001 must be read as a reference to the Corporation under its present name.
 
 ### 50 Amendments to other enactments, repeals, and savings
-(1) The enactments specified in Schedule 1 to this Act are hereby amended in the manner indicated in that Schedule.
-(2) The enactments specified in Schedule 2 to this Act are hereby repealed.
-(3) Subject to the other provisions of this Act, and unless in any case the context otherwise requires, every reference in any enactment, regulation, rule, order, agreement, deed, instrument, application, notice, licence or other document whatsoever, in force at the commencement of this Act,—
-  (a) To the State Advances Corporation of New Zealand shall hereafter be read as a reference to the Corporation established by this Act:
-  (b) To the Managing Director or General Manager of the State Advances Corporation of New Zealand shall hereafter be read as a reference to the person for the time being holding office as the chief executive (however designated) of the Corporation.
-(4) Notwithstanding the repeal of the State Advances Corporation Act 1965 by this section, all securities vested in the Corporation by section 49 of this Act that immediately before the commencement of this Act were approved securities of the State Advances Corporation of New Zealand within the meaning of the State Advances Corporation Act 1965 shall be deemed to be approved securities within the meaning of section 2 of this Act.
+(1) The enactments specified in Schedule 1 are hereby amended in the manner indicated in that schedule.
+(2) The enactments specified in Schedule 2 are hereby repealed.
+(3) Subject to the other provisions of this Act, and unless in any case the context otherwise requires, every reference in any enactment, regulation, rule, order, agreement, deed, instrument, application, notice, licence, or other document whatsoever, in force at the commencement of this Act,—
+  (a) to the State Advances Corporation of New Zealand shall hereafter be read as a reference to the Corporation established by this Act:
+  (b) to the Managing Director or General Manager of the State Advances Corporation of New Zealand shall hereafter be read as a reference to the person for the time being holding office as the chief executive (however designated) of the Corporation.
+(4) Notwithstanding the repeal of the State Advances Corporation Act 1965 by this section, all securities vested in the Corporation by section 49 that immediately before the commencement of this Act were approved securities of the State Advances Corporation of New Zealand within the meaning of the State Advances Corporation Act 1965 shall be deemed to be approved securities within the meaning of section 2 of this Act.
 
 ## Part 6 — Restructuring of housing entities
 
@@ -514,7 +515,7 @@ The period during which a transferred employee's old agreement continues to appl
   (a) he or she—
     (i) ceases to be an employee of the Corporation; or
     (ii) is appointed to some other position in the employment of the Corporation; or
-  (b) any of the conditions of employment applying to him or her under it are varied (otherwise than under section67).
+  (b) any of the conditions of employment applying to him or her under it are varied (otherwise than under section 67).
 
 ### 66 Circumstances in which new employment agreement to apply
 The conditions of employment of a person appointed to a position in the employment of the Corporation under section 62 must be determined in accordance with his or her employment agreement with the Corporation, after—
@@ -525,7 +526,7 @@ The conditions of employment of a person appointed to a position in the employme
 (1) If during the period referred to in section 65 there is a change to a transferred employee's duties or location arising out of his or her appointment to a position in the employment of the Corporation under section 62,—
   (a) his or her conditions of employment may be varied by agreement to reflect that change; but
   (b) the varied conditions must be no less favourable than those he or she was entitled to under his or her old agreement.
-(2) Subsection (1) overrides section64.
+(2) Subsection (1) overrides section 64.
 
 ### 68 Transfer not enough to break continuous employment
 For the purposes of any provisions of a transferred employee's old agreement relating to continuity of service, his or her appointment to a position in the employment of the Corporation under section 62 is not enough by itself to break his or her employment.
@@ -537,47 +538,10 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 
 ## Schedule 1A — Further provisions relating to Corporation
 
-| Contents |  |  |  |
-| --- | --- | --- | --- |
-| 1 | Interpretation (Repealed) |  | Use of information |
-|  | Members' appointments | 27 | Restrictions on disclosure or use of information (Repealed) |
-| 2 | Criteria for appointments (Repealed) | 28 | When member may rely on certain information and advice (Repealed) |
-| 3 | Method of appointment (Repealed) | 29 | When clause 28 applies (Repealed) |
-| 4 | When appointment takes effect (Repealed) |  | Procedure of Corporation: general |
-| 5 | Position where concurrent office (Repealed) | 30 | Procedure generally (Repealed) |
-|  | Term of office |  | Procedure of Corporation: meetings |
-| 6 | Term of office (Repealed) | 31 | Ordinary meetings (Repealed) |
-| 7 | Restrictions on persons who may be members (Repealed) | 32 | Special meetings (Repealed) |
-| 8 | Members must consent and certify to appointment and disclose interests (Repealed) | 33 | Methods of holding meetings (Repealed) |
-|  | Duties of members | 34 | Quorum (Repealed) |
-| 9 | Duties of members (Repealed) | 35 | Who presides at meetings (Repealed) |
-|  | Liability of members | 36 | Voting at meetings (Repealed) |
-| 10 | Liability of members and committee members (Repealed) | 37 | Resolutions (Repealed) |
-|  | Resignation and removal of members | 38 | Method of contracting (Repealed) |
-| 11 | Resignation (Revoked) | 39 | Attorneys (Repealed) |
-| 12 | Removal from office (Repealed) |  | Delegations |
-|  | Vacancies in the Corporation's membership | 40 | Ability for Corporation to delegate functions and powers (Repealed) |
-| 13 | Effect of vacancy in membership (Repealed) | 41 | Certain powers must not be delegated |
-|  | Remuneration | 42 | Effect of delegation (Repealed) |
-| 14 | Remuneration of members (Repealed) | 43 | Presumption of acting in accordance with delegation (Repealed) |
-|  | Chairperson and deputy chairperson | 44 | Other matters relating to delegation (Repealed) |
-| 15 | Appointment (Repealed) |  | Subsidiaries |
-| 16 | Term of office (Repealed) | 45 | Subsidiaries (Repealed) |
-| 17 | Resignation (Repealed) |  | Committees |
-| 18 | Exercise of chairperson's functions, duties, and powers during vacancy, etc (Repealed) | 46 | Corporation committees (Repealed) |
-|  | Acts not to be called into question |  | Employees |
-| 19 | Acts not to be called into question (Repealed) | 47 | Appointment of chief executive (Repealed) |
-|  | Disclosure of interest | 48 | Appointment of other employees (Repealed) |
-| 20 | Obligation to disclose interest (Repealed) | 49 | Liability of employees (Repealed) |
-| 21 | Meaning of interested (Repealed) | 50 | Personnel policy (Repealed) |
-| 22 | Disclosure of interest (Repealed) | 51 | Equal employment opportunities (Repealed) |
-| 23 | Consequences of disclosure (Repealed) | 52 | Superannuation or retiring allowances (Repealed) |
-| 24 | Matters to be delegated to committee (Repealed) | 53 | Application of certain Acts to members and employees (Repealed) |
-| 25 | Exceptions (Repealed) | 54 | Existing Government Superannuation Fund members |
-| 26 | Effect of non-compliance (Repealed) |  |  |
-
 ### 1 Interpretation
 [Repealed]
+
+**Members' appointments**
 
 ### 2 Criteria for appointments
 [Repealed]
@@ -591,6 +555,8 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 5 Position where concurrent office
 [Repealed]
 
+**Term of office**
+
 ### 6 Term of office
 [Repealed]
 
@@ -600,11 +566,17 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 8 Members must consent and certify to appointment and disclose interests
 [Repealed]
 
+**Duties of members**
+
 ### 9 Duties of members
 [Repealed]
 
+**Liability of members**
+
 ### 10 Liability of members and committee members
 [Repealed]
+
+**Resignation and removal of members**
 
 ### 11 Resignation
 [Repealed]
@@ -612,11 +584,17 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 12 Removal from office
 [Repealed]
 
+**Vacancies in Corporation's membership**
+
 ### 13 Effect of vacancy in membership
 [Repealed]
 
+**Remuneration**
+
 ### 14 Remuneration of members
 [Repealed]
+
+**Chairperson and deputy chairperson**
 
 ### 15 Appointment
 [Repealed]
@@ -630,8 +608,12 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 18 Exercise of chairperson's functions, duties, and powers during vacancy, etc
 [Repealed]
 
+**Acts not to be called into question**
+
 ### 19 Acts not to be called into question
 [Repealed]
+
+**Disclosure of interest**
 
 ### 20 Obligation to disclose interest
 [Repealed]
@@ -654,6 +636,8 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 26 Effect of non-compliance
 [Repealed]
 
+**Use of information**
+
 ### 27 Restrictions on disclosure or use of information
 [Repealed]
 
@@ -663,8 +647,12 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 29 When clause 28 applies
 [Repealed]
 
+**Procedure of Corporation: General**
+
 ### 30 Procedure generally
 [Repealed]
+
+**Procedure of Corporation: Meetings**
 
 ### 31 Ordinary meetings
 [Repealed]
@@ -693,6 +681,8 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 39 Attorneys
 [Repealed]
 
+**Delegations**
+
 ### 40 Ability for Corporation to delegate functions and powers
 [Repealed]
 
@@ -711,11 +701,17 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 ### 44 Other matters relating to delegation
 [Repealed]
 
+**Subsidiaries**
+
 ### 45 Subsidiaries
 [Repealed]
 
+**Committees**
+
 ### 46 Corporation committees
 [Repealed]
+
+**Employees**
 
 ### 47 Appointment of chief executive
 [Repealed]
@@ -745,13 +741,23 @@ A transferred employee is not entitled to receive compensation for redundancy, o
 
 ## Schedule 1 — Enactments amended
 
-| 1941, No 25—The Rehabilitation Act 1941 (1957 Reprint, Vol 13, p 233) | The amendments specified have been incorporated in the reprinted Rehabilitation Act 1941 (1982, RS Vol 10, p 729). |
-| --- | --- |
-| 1953, No 94—The Maori Affairs Act 1953 (Reprinted 1968, Vol 3, p 2199) | The amendments specified have been incorporated in the reprinted Maori Affairs Act 1953 (1981, RS Vol 8, p 13). |
-| 1955, No 51—The Housing Act 1955 (1957 Reprint, Vol 6, p 221) | The amendment specified has been incorporated in the reprinted Housing Act 1955 (1981, RS Vol 7, p 297). |
-| 1962, No 139—The Sale of Liquor Act 1962 (Reprinted 1969, Vol 4, p 2795) | The amendments specified have been incorporated in the reprinted Sale of Liquor Act 1962 (1982, RS Vol 9, p 201). |
-| 1964, No 32—The Family Benefits (Home Ownership) Act 1964 | The amendments specified have been incorporated in the reprinted Family Benefits (Home Ownership) Act 1964 (1984, RS Vol 16, p 139). |
-| 1971, No 51—The Stamp and Cheque Duties Act 1971 | The amendments specified have been incorporated in the reprinted Stamp and Cheque Duties Act 1971 (1988, RS Vol 23, p 771). |
-| 1974, No 3—The Rural Banking and Finance Corporation Act 1974 | The amendments specified have been incorporated in the reprinted Rural Banking and Finance Corporation Act 1974 (1989, RS Vol 24). |
-
 ## Schedule 2 — Enactments repealed
+
+### 1 Short Title and commencement
+(1) This Act may be cited as the Housing Corporation Amendment Act 1992, and shall be read together with and deemed part of the Housing Corporation Act 1974 (hereinafter referred to as the principal Act).
+(2) Except as provided in subsections (3), (4), and (5), this Act shall come into force on the date on which it receives the Royal assent.
+(3) Sections 2(1), 4, 5, 8, 14, 15, and 17 shall come into force on a date to be appointed by the Governor-General by Order in Council and 1 or more Orders in Council may be made bringing different provisions into force on different dates.
+(4) Section 12 shall be deemed to have come into force on 31 March 1989.
+(5) Section 16 shall be deemed to have come into force on 1 July 1992.
+
+### 9 Section empowering Corporation to make loans for industry and other purposes repealed
+(1) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding its repeal by subsection (1), section 22 of the principal Act shall continue to apply in relation to any loan made by the Corporation before the commencement of this section.
+
+### 10 Section empowering Corporation to give guarantees and indemnities repealed
+(1) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding its repeal by subsection (1), section 23 of the principal Act shall continue to apply in relation to any guarantee or indemnity given by the Corporation before the commencement of this section.
+
+### 11 Section relating to guarantees and indemnities under Residential Tenancies Act 1986 repealed
+(1) Amendment(s) incorporated in the Act(s).
+(2) Notwithstanding its repeal by subsection (1), section 23A of the principal Act shall continue to apply in relation to any guarantee or indemnity given by the Corporation before the commencement of this section.
