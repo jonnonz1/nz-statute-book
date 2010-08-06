@@ -1,5 +1,5 @@
 # Electricity Act 1992
-_Consolidation as at 2010-04-01_
+_Consolidation as at 2010-08-06_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Electricity Act 1992.
@@ -411,9 +411,7 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
     (ii) any telecommunications line; or
     (iii) any works—
   (c) alter, repair, or remove any works so constructed or maintained, or any part of any such works.
-(2) No electricity operator shall exercise the powers contained in subsection (1) of this section otherwise than in accordance with such reasonable conditions as may be prescribed by—
-  (a) the local authority or other body or person having jurisdiction over the road; and
-  (b) the owner of the pipe, telecommunications line, or works, as the case may require.
+(2) No electricity operator may exercise the powers contained in subsection (1) otherwise than in accordance with such reasonable conditions as may be prescribed by the local authority or other body or person having jurisdiction over the road.
 (3) Without limiting the generality of subsection (2) of this section, a local authority or other body or person having jurisdiction over a road may impose under that subsection, in relation to any work undertaken by any electricity operator, a condition requiring the electricity operator to meet the reasonable costs and expenses of that local authority or other body or person—
   (a) in processing any notice given under section 25(1) of this Act by the electricity operator in relation to the work:
   (b) in supervising the carrying out of the work, where such supervision is necessary in the circumstances of the case.
@@ -423,6 +421,20 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
   (c) any owner referred to in section 25(1)﻿(b).
 (5) Subsection (1) does not apply to the construction of works that are intended to convey, or are associated with, electricity at a voltage of more than 110 KV and a capacity of more than 100 MVA.
 (6) In subsection (5), works means works located at or above ground level in, on, along, over, or across a road, but does not include works suspended above a road.
+
+### 24A Criteria for setting reasonable conditions
+(1) In setting, varying, or revoking reasonable conditions under section 24(2), the local authority or other body or person having jurisdiction over the road concerned may consider all or any of the following matters:
+  (a) the safe and efficient flow of traffic (whether pedestrian or vehicular):
+  (b) the health and safety of any person who is, or class of persons who are, likely to be directly affected by the work on the road:
+  (c) the need to lessen the damage that is likely to be caused to property (including structural integrity of the roads) as a result of work on the road:
+  (d) the compensation that may be payable under section 57 for property that is likely to be damaged as a result of work on the road:
+  (e) the need to lessen disruption to the local community (including businesses):
+  (f) the co-ordination of installation of other networks:
+  (g) the co-ordination with road construction work by the local authority or other body or person who has jurisdiction over that road:
+  (h) the need of the electricity operator to establish an electricity network in a timely manner.
+(2) Nothing in subsection (1) limits a local authority's or other body's or person's ability to impose reasonable conditions under section 24(2).
+(3) However, a condition requiring a network operator to increase amenity values (rather than to merely maintain them) must not be imposed unless the work to be done is in an area identified in a district plan as an area in relation to which, under the district plan, there are particular considerations, or rules or requirements, relating to amenity values.
+(4) If the cost to the network operator of complying with a condition referred to in subsection (3) is higher than it would have been if there were not a requirement to increase amenity values, then the person imposing the condition must pay that increase in cost.
 
 ### 25 Notice to be given before work undertaken
 (1) Except as provided in subsection (5) of this section, before an electricity operator proceeds to undertake any work pursuant to the powers contained in section 24(1) of this Act, the electricity operator shall give notice of its intention to undertake the work to—
@@ -491,7 +503,7 @@ Sections 23A to 23D do not limit or override any new or existing agreement that 
     (vii) any regulations made under any enactment, or under any enactment of any of the classes of enactment, referred to in any of subparagraphs (ii) to (vi) of this paragraph; or
   (b) are in a dangerous or unsafe condition,—
 (3) Where any person requires any work to be done under section 32(1) of this Act, no claim by or against that person for betterment shall be allowed in respect of that work.
-(4) Where a controlling authority within the meaning of section 54(1) of the Government Roading Powers Act 1989 requires any work to be done under section 32(1) of this Act in relation to any works, subsections (1) to (3) of this section shall apply subject to the following provisions:
+(4) Where a controlling authority (being the New Zealand Transport Agency or the agent of the Minister of Transport) requires any work to be done under section 32(1) of this Act in relation to any works, subsections (1) to (3) of this section shall apply subject to the following provisions:
   (a) in all cases the cost of all fittings that are used in the carrying out of the required work (other than fittings used only during the course of construction) shall be paid by the owner of the works:
   (b) where—an amount equal to the amount by which the cost, to the controlling authority, of that construction or those alterations, as the case requires, is so increased shall be paid to the controlling authority by the owner of the works:
     (i) as a consequence of the requirement, the owner of the works elects to fix works to, or install works over, under, or through, a roading structure that is being, or is to be, constructed or altered; and
@@ -3144,3 +3156,14 @@ This Act is the Electricity Amendment Act 2006.
 (1) The Governor-General may, by Order in Council, make regulations prescribing transitional or savings provisions relating to the coming into force of this Act.
 (2) Any transitional or savings provisions prescribed in regulations made under subsection (1) are in addition to the provisions of sections 32 to 41.
 (3) All regulations made under this section that are still in force on the day that is 3 years after the commencement of this section expire at the close of that day.
+
+### 1 Title
+This Act is the Infrastructure (Amendments Relating to Utilities Access) Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provision**
+
+### 28 Transitional provision
+To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
