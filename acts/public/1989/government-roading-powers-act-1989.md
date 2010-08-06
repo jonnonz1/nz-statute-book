@@ -1,5 +1,5 @@
 # Government Roading Powers Act 1989
-_Consolidation as at 2008-08-01_
+_Consolidation as at 2010-08-06_
 
 ### 1 Short Title and commencement
 (1) This Act may be cited as the Government Roading Powers Act 1989.
@@ -7,54 +7,29 @@ _Consolidation as at 2008-08-01_
 
 ### 2 Interpretation
 (1) In this Act, unless the context otherwise requires,—
-  - **Administration**
   - **Agency** means the New Zealand Transport Agency established under section 93 of the Land Transport Management Act 2003
-  - **Approved**
-  - **Approved safety (administration) programme**
-  - **Capital project**
   - **Commissioner** means the Commissioner of Police
-  - **Competitive pricing procedure**
   - **council-controlled organisation** means a council-controlled organisation within the meaning of the Local Government Act 2002
   - **Crown Bank Account** has the same meaning as in the Public Finance Act 1989
-  - **Director of Land Transport Safety**
-  - **District roading programme**
-  - **Employee of the Board**
-  - **Excise duty** means excise duty payable on motor spirits, compressed natural gas, and liquefied petroleum gas under the Customs and Excise Act 1996
-  - **Fees and charges**
-  - **Financial year** , in relation to the Agency, means the period of 12 months commencing on the 1st day of July in any year and ending with the close of the 30th day of June in the next year
+  - **excise duty** means excise duty payable on motor spirits, compressed natural gas, and liquefied petroleum gas under the Customs and Excise Act 1996
+  - **financial year** , in relation to the Agency, means the period of 12 months commencing on the 1st day of July in any year and ending with the close of the 30th day of June in the next year
   - **land transport** has the same meaning as in section 5 of the Land Transport Management Act 2003
-  - **Land Transport Safety Authority**
   - **local authority** means a local authority within the meaning of the Local Government Act 2002
-  - **Local authority trading enterprise**
-  - **Local road** means any road (other than a State highway) in the district of a territorial authority
+  - **local road** means any road (other than a State highway) in the district of a territorial authority
   - **Minister** means the Minister of Transport
   - **Ministry** means the Ministry of Transport
-  - **Motorway** —
-    (a) Means a motorway declared as such by the Governor-General in Council under section 138 of the Public Works Act 1981 or under section 71 of this Act; and
-    (b) Includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but
-    (c) Does not include any local road, access way, or service lane (or the supports of any such road, way, or lane) that crosses over or under a motorway on a different level:
-  - **National roading programme**
-  - **National Roads Account** or
-  - **Outputs**
-  - **Passenger service**
-  - **passenger transport company**
-  - **Passenger transport operation**
-  - **Performance agreement**
-  - **Planning, design, and supervision**
+  - **motorway** —
+    (a) means a motorway declared as such by the Governor-General in Council under section 138 of the Public Works Act 1981 or under section 71 of this Act; and
+    (b) includes all bridges, drains, culverts, or other structures or works forming part of any motorway so declared; but
+    (c) does not include any local road, access way, or service lane (or the supports of any such road, way, or lane) that crosses over or under a motorway on a different level
   - **regional council** means a regional council within the meaning of the Local Government Act 2002
-  - **Regional land transport committee** means a regional land transport committee established under section 178 of the Land Transport Act 1998
-  - **Regional programme**
-  - **Registered service**
-  - **Road** means, subject to sections 43(1), 51(1), 54(1), and 55 of this Act, any road as defined in section 315(1) of the Local Government Act 1974; and has a corresponding meaning
-  - **Safety (administration)**
-  - **Safety (administration) programme**
+  - **regional land transport committee** means a regional land transport committee established under section 178 of the Land Transport Act 1998
+  - **road** means, subject to sections 43(1), 51(1), 54(1), and 55 of this Act, any road as defined in section 315(1) of the Local Government Act 1974; and has a corresponding meaning
   - **Secretary** means the Secretary for Transport
-  - **State highway** has the same meaning as in section 5 of the Land Transport Management Act 2003
-  - **State Highways Account**
-  - **State highways programme**
+  - **state highway** has the same meaning as in section 5 of the Land Transport Management Act 2003
   - **territorial authority** means a territorial authority within the meaning of the Local Government Act 2002
-  - **Traffic officer** means an enforcement officer under the Land Transport Act 1998
-  - **Year** means the financial year of the Board.
+  - **traffic officer** means an enforcement officer under the Land Transport Act 1998
+  - **year** means the financial year of the Board.
 (2)
 (3)
 (4) Every reference in this Act to a road or a State highway shall, unless the context otherwise requires, include the land on which the road or State highway exists, and shall also include all bridges, culverts, ferries, fords, signs, signals, barriers, or other structures forming or intended by the territorial authority or the Agency to form part of the road, State highway, or land.
@@ -314,22 +289,21 @@ This Act shall bind the Crown.
   - **Chief Surveyor** means the Chief Surveyor appointed for the land district in which is situated any land to be dealt with under this Act; and includes the Chief Surveyor's deputy
   - **Crown land** means all land included within that term in the Land Act 1948, except lands held or occupied by any person under the Crown on deferred payment, occupation with right of purchase, perpetual lease, lease in perpetuity, renewable lease, or under any other kind of lease or licence, or for any other estate or interest
   - **District Land Registrar** means the District Land Registrar of the District within which any land to be dealt with or affected is situated; and includes the Registrar of Deeds of that district
-  - **Drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
+  - **drain** means a passage, channel, or pipe on, over, or under the ground for the reception and discharge of stormwater or pollutants, whether continuously or intermittently
   - **Environment Court** means the Environment Court constituted under the Resource Management Act 1991
   - **Government work** means a work or an intended work that is to be constructed, undertaken, established, managed, operated, or maintained by or under the control of the Crown or any Minister of the Crown for any public purpose
-  - **Land** includes any estate or interest in land
-  - **Notice** means a statement conveying the general effect of a matter or thing done or intended to be done
-  - **Planning tribunal**
-  - **Public work** and mean every Government work or local work that the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain, and every use of land for any Government work or local work which the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain by or under this or any other Act; and include anything required directly or indirectly for any such Government work or local work or use
-  - **Road** means a public highway, whether carriageway, bridle path, or footpath; and includes the soil of—and, unless repugnant to the context, includes all roads which have been or may hereafter be set apart, defined, proclaimed, or declared roads under any law or authority for the time being in force, and all bridges, culverts, drains, ferries, fords, gates, buildings, and other things thereto belonging, upon the line and within the limits of the road
+  - **land** includes any estate or interest in land
+  - **notice** means a statement conveying the general effect of a matter or thing done or intended to be done
+  - **public work** and mean every Government work or local work that the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain, and every use of land for any Government work or local work which the Crown or any local authority is authorised to construct, undertake, establish, manage, operate, or maintain by or under this or any other Act; and include anything required directly or indirectly for any such Government work or local work or use
+  - **road** means a public highway, whether carriageway, bridle path, or footpath; and includes the soil of—and, unless repugnant to the context, includes all roads which have been or may hereafter be set apart, defined, proclaimed, or declared roads under any law or authority for the time being in force, and all bridges, culverts, drains, ferries, fords, gates, buildings, and other things thereto belonging, upon the line and within the limits of the road
     (a) Crown land over which a road is laid out and marked on the record maps:
     (b) Land over which right of way has in any manner been granted or dedicated to the public by any person entitled to make such grant or dedication:
     (c) Land taken for road under the provisions of this Act, the Public Works Act 1981, or any other Act or Provincial Ordinance formerly in force:
     (d) Land over which a road has been or is in use by the public which has been formed or improved out of the public funds, or out of the funds of any former province, or out of the ordinary funds of any local authority, for the width formed, used, agreed upon, or fenced, and a sufficient plan of which, approved by the Chief Surveyor of the land district in which such road is situated, has been or is hereafter registered by the District Land Registrar against the properties affected by it; and the Registrar is hereby authorised and required to register any such plans accordingly, anything in any other Act notwithstanding, when the plans are presented for registration by or on behalf of the Minister:
     (e) Land over which any road, notwithstanding any legal or technical informality in its taking or construction, has been taken, constructed, or used under the authority of the Government of any former province, or of any local authority, and a sufficient plan of which is registered in the manner provided for in paragraph (d) of this subsection,—
-  - **Stopping** , in relation to a road, includes diverting
-  - **Urban area** means any area within the boundaries of any district within the meaning of the Local Government Act 2002 that immediately before the 1st day of November 1989 was or formed part of any borough, town district, or community as those terms were then defined in that Act
-  - **Working day** means any day of the week other than—
+  - **stopping** , in relation to a road, includes diverting
+  - **urban area** means any area within the boundaries of any district within the meaning of the Local Government Act 2002 that immediately before the 1st day of November 1989 was or formed part of any borough, town district, or community as those terms were then defined in that Act
+  - **working day** means any day of the week other than—
     (a) Saturday, Sunday, Good Friday, Easter Monday, Anzac Day, Labour Day, the Sovereign's birthday, and Waitangi Day; and
     (b) Any day in the period commencing with the 25th day of December in any year and ending with the 15th day of January in the following year.
 (2) Where land is taken or acquired under the Public Works Act 1981 for the functioning indirectly of any road, the land so taken or acquired shall not constitute a road for the purposes of frontage to any land; and no person shall have any right of access to, on, under, over, or through the land so taken or acquired without the consent of the authority taking or acquiring the land.
@@ -357,33 +331,34 @@ All Government roads declared as such under this Act, the Public Works Act 1981,
 (1) All rights and powers vested in any local authority under sections 331, 332, 334, 335, 337 to 341, and 353 of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may, in respect of any Government road, be exercised by the Minister.
 (2) The Minister may from time to time, by notice in the Gazette, make bylaws with respect to any Government road on the subject-matters referred to in paragraphs (13) to (20) and (38) to (41A) of section 684(1) of the Local Government Act 1974.
 (3) The Minister shall have power to do all things necessary to construct and maintain in good repair any road under the Minister's control, and in particular, but without limiting any power conferred on the Minister elsewhere in this Act, to do the following things:
-  (a) To alter the line of any road, but a new line of road shall not be laid out by the Minister without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
-  (b) To increase or diminish the width of any road:
-  (c) To determine what part of a road shall be a carriageway and what part a cycle track or footpath only:
-  (d) To construct, erect, dig, or grow on any road or remove from it, such barriers, dividing strips, guide or sign posts, pillars, or other markers, trees, hedges, lawns, gardens, and other devices, as may in the opinion of the Minister be necessary or desirable:
-  (e) To place or construct temporarily or permanently on any carriageway any reasonable device or thing for the purpose of controlling vehicle speeds, if it is desirable for the safety of road workers, or users of the road or members of the public, or to protect any part of the road:
-  (f) To place or construct, or allow to be placed or constructed, on any road clear of the carriageway any road-making or maintenance materials, plant and equipment, traffic weigh stations, traffic control aids, and stations, facilities, and amenities for road users:
-  (g) To alter the level of any road:
-  (h) To stop, divert, or otherwise control the traffic upon any road temporarily while any work or investigation is being undertaken or for the structural protection of any part of the road:
-  (i) To close to traffic any road, or any part of a road, for such period as the Minister considers necessary to execute repairs or to remove any obstruction:
-  (j) To enter on any land and make such ditches, drains, and conduits as may be required to drain water from any road, and to keep such ditches, drains, and conduits open at all times for the flow of water; and to erect floodgates therein and to open or close them as the Minister thinks fit, doing as little damage as possible:
-  (k) To exercise the powers given by section 74 of this Act as if the road were a motorway:
-  (l) To enter on any land so as to gain access to other land for the purposes of this subsection:
-  (m) To enter on any land and to remove from any culvert, river, stream, lake, or other water, any material which may be lodged in its bed or against its banks or against any bridge, dam, ford, or weir, and which may impede the free flow of water in its natural channel whereby any part of a road under the Minister's control may be damaged.
+  (a) to alter the line of any road, but a new line of road shall not be laid out by the Minister without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
+  (b) to increase or diminish the width of any road:
+  (c) to determine what part of a road shall be a carriageway and what part a cycle track or footpath only:
+  (d) to construct, erect, dig, or grow on any road or remove from it, such barriers, dividing strips, guide or sign posts, pillars, or other markers, trees, hedges, lawns, gardens, and other devices, as may in the opinion of the Minister be necessary or desirable:
+  (e) to place or construct temporarily or permanently on any carriageway any reasonable device or thing for the purpose of controlling vehicle speeds, if it is desirable for the safety of road workers, or users of the road or members of the public, or to protect any part of the road:
+  (f) to place or construct, or allow to be placed or constructed, on any road clear of the carriageway any road-making or maintenance materials, plant and equipment, traffic weigh stations, traffic control aids, and stations, facilities, and amenities for road users:
+  (g) to alter the level of any road:
+  (h) to stop, divert, or otherwise control the traffic upon any road temporarily while any work or investigation is being undertaken or for the structural protection of any part of the road:
+  (i) to close to traffic any road, or any part of a road, for such period as the Minister considers necessary to execute repairs or to remove any obstruction:
+  (j) to enter on any land and make such ditches, drains, and conduits as may be required to drain water from any road, and to keep such ditches, drains, and conduits open at all times for the flow of water; and to erect floodgates therein and to open or close them as the Minister thinks fit, doing as little damage as possible:
+  (k) to exercise the powers given by section 74 of this Act as if the road were a motorway:
+  (l) to enter on any land so as to gain access to other land for the purposes of this subsection:
+  (m) to enter on any land and to remove from any culvert, river, stream, lake, or other water, any material which may be lodged in its bed or against its banks or against any bridge, dam, ford, or weir, and which may impede the free flow of water in its natural channel whereby any part of a road under the Minister's control may be damaged.
+(3A) Before exercising any power under subsection (3) that will or is likely to interfere with any pipe, line, or other work associated with wastewater or the supply of water, electricity, gas, or telecommunications, the Minister (or an officer of the Agency acting on the Minister's behalf) must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.
 (4) Entry shall not be made under subsection (3) of this section without the consent of the owner or occupier, if the land is within the curtilage of a dwelling or other building, or is within a stockyard, orchard, vineyard, plant nursery, shelter belt, airstrip, garden, or shrubbery.
 (5) Before entering on any land pursuant to any power conferred by subsection (3) of this section, the Minister or an officer of the Agency acting on the Minister's behalf shall (except in the case of any emergency or danger) give to the owner and to the occupier of the land not less than 10 working days' notice in writing of the intention to enter, and shall state in that notice—
-  (a) A description of the land affected; and
-  (b) The nature of any work to be carried out; and
-  (c) The type of any material required; and
-  (d) The approximate quantity of any material required; and
-  (e) The use proposed to be made of any material to be removed; and
-  (f) How and when entry is to be made; and
-  (g) A statement of the owner's or occupier's rights under subsection (6) of this section; and
-  (h) The estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
+  (a) a description of the land affected; and
+  (b) the nature of any work to be carried out; and
+  (c) the type of any material required; and
+  (d) the approximate quantity of any material required; and
+  (e) the use proposed to be made of any material to be removed; and
+  (f) how and when entry is to be made; and
+  (g) a statement of the owner's or occupier's rights under subsection (6) of this section; and
+  (h) the estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
 (6) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Minister or officer of the owner's intention to do so, apply to the District Court nearest to the land concerned, and the Court may thereupon summon the Minister or officer to appear before the Court at a time and place to be named in the summons.
 (7) If it appears to the Court that the use proposed to be made of the land is unreasonable or unnecessary, the Court may—and all persons concerned shall be bound by any such order.
-  (a) Order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
-  (b) Direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit—
+  (a) order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
+  (b) direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit—
 (8) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
 
 ### 49 Powers of Minister in regard to swing gates and cattle stops on roads
@@ -400,94 +375,96 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
 ### 51 Penalties for damage to roads, bridges, etc
 (1) In this section the expression road means a State highway or a road under the control of the Minister; and includes any work or thing in, on, over, or under a road.
 (2) Every person commits an offence who, without the written permission of the Agency (in the case of a State highway) or of the Minister (in the case of a road under the Minister's control),—and is liable on summary conviction to a fine not exceeding $1,000 and to a further fine not exceeding $50 for each day or part of a day during which the offence is continued.
-  (a) Encroaches on a road by making or erecting any building, fence, pole, ditch, or other obstacle or work of any kind upon, over, or under the road, or by planting any tree or shrub on it; or
-  (b) Places or leaves on a road any machinery, timber, stones, earth, or other material; or
-  (c) Digs up, removes, or alters in any way the soil or surface of a road; or
-  (d) Damages, removes, or alters any gate or cattle stop lawfully erected across any road; or
-  (e) Causes or allows any water, tailings, or sludge, or any offensive matter, to flow from any vehicle, building, or land under the person's control or in the person's occupation on to a road, or into any ditch or drain associated with the road, whether or not on the road; or
-  (f) Causes or allows any material or thing to fall on to a road from any vehicle to the danger of lawful road users; or
-  (g) Paints, marks, gouges, or otherwise disfigures any part of a road; or
-  (h) Wilfully or negligently causes or allows any substance harmful to sealed or paved road surfaces, or likely to create a danger to vehicles on such surfaces, to escape onto any road having a sealed or paved surface; or
-  (i) Causes or permits any material (whether or not part of a vehicle), not being wholly raised above the ground on wheels, to be dragged on a road; or
-  (j) Fills up, alters, or obstructs any ditch, drain, pipe, culvert, or soakpit, whether on or under the road or elsewhere, made by or under the authority of the controlling authority of the road; or
-  (k) Digs up or removes any stone, gravel, sand, or other material from a riverbed within 50 metres of a bridge, dam, ford, or weir forming part of a road; or
-  (l) Causes or negligently allows any foundation, retaining structure, wall, or fence erected on any land, or any earth batter or slope, or any building, erection, material or thing, to give way or fall so as to damage or obstruct a road; or
-  (m) Does or causes or permits to be done any act whatever by which any damage or obstruction is caused to a road,—
+  (a) encroaches on a road by making or erecting any building, fence, pole, ditch, or other obstacle or work of any kind upon, over, or under the road, or by planting any tree or shrub on it; or
+  (b) places or leaves on a road any machinery, timber, stones, earth, or other material; or
+  (c) digs up, removes, or alters in any way the soil or surface of a road; or
+  (d) damages, removes, or alters any gate or cattle stop lawfully erected across any road; or
+  (e) causes or allows any water, tailings, or sludge, or any offensive matter, to flow from any vehicle, building, or land under the person's control or in the person's occupation on to a road, or into any ditch or drain associated with the road, whether or not on the road; or
+  (f) causes or allows any material or thing to fall on to a road from any vehicle to the danger of lawful road users; or
+  (g) paints, marks, gouges, or otherwise disfigures any part of a road; or
+  (h) wilfully or negligently causes or allows any substance harmful to sealed or paved road surfaces, or likely to create a danger to vehicles on such surfaces, to escape onto any road having a sealed or paved surface; or
+  (i) causes or permits any material (whether or not part of a vehicle), not being wholly raised above the ground on wheels, to be dragged on a road; or
+  (j) fills up, alters, or obstructs any ditch, drain, pipe, culvert, or soakpit, whether on or under the road or elsewhere, made by or under the authority of the controlling authority of the road; or
+  (k) digs up or removes any stone, gravel, sand, or other material from a riverbed within 50 metres of a bridge, dam, ford, or weir forming part of a road; or
+  (l) causes or negligently allows any foundation, retaining structure, wall, or fence erected on any land, or any earth batter or slope, or any building, erection, material or thing, to give way or fall so as to damage or obstruct a road; or
+  (m) does or causes or permits to be done any act whatever by which any damage or obstruction is caused to a road,—
 (3) Every person who commits an offence against this section may, in addition to any penalty for the offence, be ordered by the Court to pay the cost incurred by the Agency or the Minister in removing any such encroachment, obstruction, hazard, disfigurement, or matter, or in repairing any such damage.
 (4) A fine shall not be imposed, and an order for payment of costs incurred shall not be made, under this section unless the information or complaint is laid—
-  (a) By authority of the Agency or of the Minister or of the Commissioner; or
-  (b) By an officer of the Agency or an employee of the Ministry or a traffic officer or a constable.
+  (a) by authority of the Agency or of the Minister or of the Commissioner; or
+  (b) by an officer of the Agency or an employee of the Ministry or a traffic officer or a constable.
 (5) Any permission under this section may be given subject to such conditions and payment of rent as the Agency or Minister thinks fit, and unless otherwise agreed may be revoked without compensation on not less than 3 months' notice in writing.
 
 ### 52 Notice to be given of local authority works
 (1) Any local authority or other person having lawful power to execute or maintain works on, under, or over any road shall not commence any works or maintenance—
-  (a) On any State highway, without the consent of the Agency; or
-  (b) On any Government road, without the consent of the Minister; or
-  (c) On any road (including any State highway) under the control of a local authority, without the consent of the local authority.
+  (a) on any State highway, without the consent of the Agency; or
+  (b) on any Government road, without the consent of the Minister; or
+  (c) on any road (including any State highway) under the control of a local authority, without the consent of the local authority.
 (2) Any consent under subsection (1) of this section may be given subject to such conditions as the Agency or the Minister or the local authority thinks fit for the protection and safety of the public or of the State highway, Government road, or road.
+(2A) The Agency and the Minister must each publish, on a publicly available Internet site, the criteria that the Agency and the Minister respectively will apply when considering whether to give consent under this section, and must apply those criteria when considering whether to give consent.
 (3) Nothing in this section shall apply to—
-  (a) The maintenance of any work on any part of the road other than the carriageway; or
-  (b) The immediate repair to or reconstruction of any work if that repair or reconstruction is required as a result of an earthquake, flood, landslide, or other emergency.
+  (a) the maintenance of any work on any part of the road other than the carriageway; or
+  (b) the immediate repair to or reconstruction of any work if that repair or reconstruction is required as a result of an earthquake, flood, landslide, or other emergency.
+(4) This section does not prevail over any provision in the Electricity Act 1992, the Gas Act 1992, or the Telecommunications Act 2001 that relates to works or maintenance on, under, or over a road.
 
 ### 53 Poles, etc, on roads to be adjacent to boundaries
 (1) Notwithstanding anything to the contrary in any Act or rule of law but subject to paragraph (d) of this subsection, a pole or tower (other than a lighting standard required solely for effective road illumination or a support for a traffic sign or signal) shall not be erected or re-erected on any road outside the urban area of a district of a territorial authority otherwise than adjacent to the frontage line of the land adjoining the road, or as near thereto as is practicable, having regard to—
-  (a) The desirability of any cross-arms and wires not encroaching over the adjoining land:
-  (b) The necessity of ensuring that any telecommunications line or electricity transmission line is not susceptible to instability or to damage by, or interference from, natural causes, or trees or structures or other lines or transmission lines:
-  (c) The necessity of ensuring that any such line or transmission line is reasonably accessible for repair and maintenance:
-  (d) The necessity of complying with any other enactment by which express provision is made as to the distance of any pole or tower from any other thing, or as to the distance between poles or towers that support different lines or transmission lines.
+  (a) the desirability of any cross-arms and wires not encroaching over the adjoining land:
+  (b) the necessity of ensuring that any telecommunications line or electricity transmission line is not susceptible to instability or to damage by, or interference from, natural causes, or trees or structures or other lines or transmission lines:
+  (c) the necessity of ensuring that any such line or transmission line is reasonably accessible for repair and maintenance:
+  (d) the necessity of complying with any other enactment by which express provision is made as to the distance of any pole or tower from any other thing, or as to the distance between poles or towers that support different lines or transmission lines.
 (2) Subsection (1) of this section shall not apply in any case—
-  (a) When the Agency determines (after consultation with the authority having control of the road and the authority proposing to erect or re-erect a pole or tower) that the proposed position of any pole or tower, although not complying with that subsection, is such that the pole or tower will not be dangerous to vehicles and persons in them using any road; or
-  (b) If, in the public interest, it is essential that any pole or tower be re-erected without delay; or
-  (c) If, because of technical difficulties or disproportionate costs, it is not practicable to re-erect a pole or tower otherwise than in its previous position.
+  (a) when the Agency determines (after consultation with the authority having control of the road and the authority proposing to erect or re-erect a pole or tower) that the proposed position of any pole or tower, although not complying with that subsection, is such that the pole or tower will not be dangerous to vehicles and persons in them using any road; or
+  (b) if, in the public interest, it is essential that any pole or tower be re-erected without delay; or
+  (c) if, because of technical difficulties or disproportionate costs, it is not practicable to re-erect a pole or tower otherwise than in its previous position.
 
 ### 54 Removal of roadside structures
 (1) In this section, unless the context otherwise requires,—
-  - **Controlling authority** , in relation to any road, means the authority in which is vested the control of the road; and includes the Minister or the Agency, as the case may be, where the control of the road is vested in the Minister or the Agency
-  - **Road** includes any motorway or service lane
-  - **Structure** means any tower, pole, or post lawfully upon or in or over a road or any pipes, cables, chambers, drains, or other services lawfully under a road; and includes any equipment that must be removed with the structure if the structure is removed; but does not include—
-    (a) Any part of a bridge or culvert:
-    (b) Any fence, gate, or cattle stop erected in accordance with this Act or the Local Government Act 1974:
-    (c) Anything provided for the assistance or control of traffic:
-    (d) Any structure that was erected when the land was not a road:
-  - **Utility authority** , in relation to any structure, means the Crown, or any Minister of the Crown, local authority, company, or person lawfully authorised to construct, maintain, utilise, or use the structure.
+  - **controlling authority** , in relation to any road, means the authority in which is vested the control of the road; and includes the Minister or the Agency, as the case may be, where the control of the road is vested in the Minister or the Agency
+  - **road** includes any motorway or service lane
+  - **structure** means any tower, pole, or post lawfully upon or in or over a road or any pipes, cables, chambers, drains, or other services lawfully under a road; and includes any equipment that must be removed with the structure if the structure is removed; but does not include—
+    (a) any part of a bridge or culvert:
+    (b) any fence, gate, or cattle stop erected in accordance with this Act or the Local Government Act 1974:
+    (c) anything provided for the assistance or control of traffic:
+    (d) any structure that was erected when the land was not a road
+  - **utility authority** , in relation to any structure, means the Crown, or any Minister of the Crown, local authority, company, or person lawfully authorised to construct, maintain, utilise, or use the structure.
 (2) Where any structure has been erected upon, in, over, or under any road by any utility authority, either before or after the commencement of this Act, and the controlling authority has by notice in writing to the utility authority or to a responsible officer of it required the removal of the structure because—the utility authority shall remove the structure within such period as may be specified in the notice.
-  (a) It is, or is likely to become, dangerous to vehicles and persons in them using the road; or
-  (b) It is in the way of any work undertaken or proposed for the improvement of the road; or
-  (c) The controlling authority desires its removal from under the road for the purposes of any work undertaken or proposed for the improvement of the road,—
+  (a) it is, or is likely to become, dangerous to vehicles and persons in them using the road; or
+  (b) it is in the way of any work undertaken or proposed for the improvement of the road; or
+  (c) the controlling authority desires its removal from under the road for the purposes of any work undertaken or proposed for the improvement of the road,—
 (3) Where any structure that has been erected upon, in, over, or under any road by any utility authority, either before or after the commencement of this Act, is unsafe or is likely to become unsafe because of any work undertaken or proposed to be undertaken for the improvement of the road as a public highway, the utility authority, after giving at least 5 working days' notice in writing to the controlling authority of its intention to do so, may remove the structure.
 (4) Subject to any agreement to the contrary, the reasonable costs incurred by a utility authority in so removing any structure and (where reasonably necessary) in re-erecting the structure (or an equivalent structure provided by the utility authority at its expense), including compensation payable to the owners and occupiers of the alternative site and a reasonable sum for proper overhead charges, shall, subject to subsection (5) of this section, be borne by the controlling authority and the utility authority in equal shares, and the amount payable to the utility authority may be recovered as a debt.
 (5) A controlling authority or a utility authority may apply to a District Court to vary the proportions in which the costs and compensation shall be borne; and, in exceptional circumstances where it is reasonable to do so, the District Court may, after hearing the parties, vary those proportions, and the decision of the District Court shall be final and binding on all parties.
 (6) Any dispute as to—shall be heard and determined by a District Court on application made to it in that behalf; and the decision of the District Court shall be final and binding on all parties. The costs and expenses of determining any dispute under this subsection shall be borne as the District Court may direct.
-  (a) The length of the period within which any structure is required to be so removed; or
-  (b) Whether any structure is or is likely to become dangerous to vehicles and persons in them using a road; or
-  (c) Whether any structure is unsafe or likely to become unsafe because of any work undertaken or proposed to be undertaken for the improvement of the road; or
-  (d) Where a structure removed under this section (or any equivalent structure) may be re-erected or placed in relation to the road—
+  (a) the length of the period within which any structure is required to be so removed; or
+  (b) whether any structure is or is likely to become dangerous to vehicles and persons in them using a road; or
+  (c) whether any structure is unsafe or likely to become unsafe because of any work undertaken or proposed to be undertaken for the improvement of the road; or
+  (d) where a structure removed under this section (or any equivalent structure) may be re-erected or placed in relation to the road—
 (7) Notwithstanding anything to the contrary in subsection (6) of this section, the period within which any structure is required to be so removed may from time to time be extended by agreement between the parties or by a District Court on application made to it in that behalf.
 (8) If the utility authority, after receiving notice under subsection (2) of this section, fails within the period so determined to remove the structure that is the subject of the notice, the controlling authority, after giving 10 working days' further notice of its intention to do so, may apply to a District Court for an order requiring the utility authority to remove the structure within such period as may be specified in the order; and in any such case, if the District Court orders the removal of the structure, the whole cost of carrying out the removal and re-erection of the structure shall be borne by the utility authority and shall be recoverable from it by the controlling authority as a debt.
 (9) Nothing in the Limitation Act 1950 or in any other Act or any rule of law shall cause or be deemed to have caused the right or title of the controlling authority of the road or of the authority in which the road is vested to be extinguished by reason of the road being occupied by any structure, and nothing in this or in any other Act or any rule of law shall entitle any utility authority to compensation otherwise than under this section for the removal of any structure from any road or in respect of the re-erection of any such structure (or equivalent structure), or in respect of any alteration of any road that necessitates any such removal or re-erection.
 
 ### 55 Removal of trees, hedges, etc, that obscure visibility or interfere with public work
 (1) In this section and in sections 56 and 57 of this Act, unless the context otherwise requires,—
-  - **Cut down** , in relation to any tree, hedge, or shrub, includes the total removal of the tree, hedge, or shrub
-  - **Responsible authority** , in relation to a public work, means—and, in relation to a road, means the authority having control of the road
-    (a) Any Minister of the Crown who is responsible for the work, where the work is a Government work:
-    (b) The local authority which has financial responsibility for the work, where the work is a local work,—
+  - **cut down** , in relation to any tree, hedge, or shrub, includes the total removal of the tree, hedge, or shrub
+  - **responsible authority** , in relation to a public work, means—and, in relation to a road, means the authority having control of the road
+    (a) any Minister of the Crown who is responsible for the work, where the work is a Government work:
+    (b) the local authority which has financial responsibility for the work, where the work is a local work,—
   - **Road** includes a motorway, access way, and service lane.
 (2) The responsible authority may require the owner or occupier of any land adjoining a road or public work to do any of the following things:
-  (a) To cut down, lower, or trim any tree, hedge, or shrub that is overhanging or overshadowing a road to such an extent as to damage the road, or to endanger or obstruct the lawful use of the road, or to be detrimental to the maintenance of the road and any associated drainage system:
-  (b) To cut down, lower, or trim any tree, hedge, or shrub, or remove any debris, if parts of it may be blown on to any road or public work or if it may otherwise interfere with the lawful use of the road or any public work:
-  (c) To cut down, lower, or trim any tree, hedge, or shrub on any land that is in such a position that it interferes with or is damaging, or is likely to interfere with or damage, any road or public work or the construction, operation, or maintenance of any road or public work:
-  (d) To cut down or grub up, and remove any tree, hedge, or shrub that is obstructing a road or its drainage system owing to the growth of any vegetation or the spreading of roots upon or under the road up to its middle line:
-  (e) To cut down, lower, or trim any tree, hedge, or shrub or to lower or remove any wall, fence, or other structure, that in the opinion of the responsible authority wholly or partially obscures visibility at any bend of a road, or at any road or railway crossing, or at any road intersection, or that causes any danger to the traffic on any road:
-  (f) To remove any structure that encroaches either wholly or partially on to a road or on to any land used for a public work, unless the encroachment has been authorised under section 51 of this Act and notice of termination has not been issued.
+  (a) to cut down, lower, or trim any tree, hedge, or shrub that is overhanging or overshadowing a road to such an extent as to damage the road, or to endanger or obstruct the lawful use of the road, or to be detrimental to the maintenance of the road and any associated drainage system:
+  (b) to cut down, lower, or trim any tree, hedge, or shrub, or remove any debris, if parts of it may be blown on to any road or public work or if it may otherwise interfere with the lawful use of the road or any public work:
+  (c) to cut down, lower, or trim any tree, hedge, or shrub on any land that is in such a position that it interferes with or is damaging, or is likely to interfere with or damage, any road or public work or the construction, operation, or maintenance of any road or public work:
+  (d) to cut down or grub up, and remove any tree, hedge, or shrub that is obstructing a road or its drainage system owing to the growth of any vegetation or the spreading of roots upon or under the road up to its middle line:
+  (e) to cut down, lower, or trim any tree, hedge, or shrub or to lower or remove any wall, fence, or other structure, that in the opinion of the responsible authority wholly or partially obscures visibility at any bend of a road, or at any road or railway crossing, or at any road intersection, or that causes any danger to the traffic on any road:
+  (f) to remove any structure that encroaches either wholly or partially on to a road or on to any land used for a public work, unless the encroachment has been authorised under section 51 of this Act and notice of termination has not been issued.
 (3) Within 10 working days after service of a notice under subsection (2) of this section, the owner or occupier may apply to the District Court nearest to the land for an order setting aside the notice.
 (4) A copy of any such application shall be served on the responsible authority either before or immediately after it is lodged with the Court.
 (5) The Registrar of the Court shall give notice of the time and place fixed for the hearing of the application to the applicant and the responsible authority, and they shall be entitled to be present and to be heard, either personally or by their counsel or by an officer of the responsible authority.
 (6) On hearing the application, the Court, whose decision shall be final, shall determine whether the notice should or should not be set aside, and in the former case the notice shall be deemed to be void.
 (7) Every person on whom a notice has been served under this section commits an offence against this Act if the person fails to comply with the requirement contained in the notice within 1 month after—whichever is the later, and shall be liable on summary conviction to a fine not exceeding $500; and the responsible authority, by its employees or agents, may enter on the land in respect of which the requirement was made, carry out the required work, and recover the cost from the owner.
-  (a) The expiry of the time in which application may be made to a Court, if the person has not exercised that right; or
-  (b) The date of the Court's order, if an application to set aside the notice has been made and it has not been set aside; or
-  (c) The date on which any application to the Court has been withdrawn by the applicant—
+  (a) the expiry of the time in which application may be made to a Court, if the person has not exercised that right; or
+  (b) the date of the Court's order, if an application to set aside the notice has been made and it has not been set aside; or
+  (c) the date on which any application to the Court has been withdrawn by the applicant—
 (8) All costs and expenses incurred by a responsible authority in carrying out any work under subsection (7) of this section may be recovered from the person who failed to comply with the requirement as a debt due to the responsible authority.
 (9) The power of entry conferred by subsection (7) of this section may be exercised in addition to or instead of the laying of an information for an offence under that subsection.
 
@@ -506,15 +483,15 @@ For the purpose of erecting or removing any swing gate or cattle stop across any
 ### 58 Minister may construct access ways and service lanes
 (1) Subject to subsection (2) of this section the Minister may, in accordance with the provisions of Part 21 of the Local Government Act 1974, from time to time lay out and construct proposed access ways and service lanes on land belonging to the Crown, and may in respect of such access ways and service lanes exercise all the powers, rights, duties, and authorities conferred on a council under that Part of that Act.
 (2) An access way or service lane shall not be laid out or constructed on any land under subsection (1) of this section without the written consent of—
-  (a) The lessee or licensee, if the land is held under lease or licence:
-  (b) The Minister of Railways, if the land is held for a railway:
-  (c) The Minister of Conservation, if the land is a public reserve or part of a public reserve:
-  (d) The Minister in charge of any Department of State that administers the land:
-  (e) The Minister of Lands, if the land is Crown land.
+  (a) the lessee or licensee, if the land is held under lease or licence:
+  (b) the Minister of Railways, if the land is held for a railway:
+  (c) the Minister of Conservation, if the land is a public reserve or part of a public reserve:
+  (d) the Minister in charge of any Department of State that administers the land:
+  (e) the Minister of Lands, if the land is Crown land.
 (3) Where under any Act or other lawful authority the Crown is empowered to—that authority shall be deemed to include power to take, purchase, accept dedication of, or otherwise acquire, land for an access way or service lane, to declare land as an access way or service lane, or to stop or close an access way or service lane, as the case may be.
-  (a) Take, purchase, accept dedication of, or otherwise acquire, any land for a road; or
-  (b) Declare land as a road; or
-  (c) Stop or close a road,—
+  (a) take, purchase, accept dedication of, or otherwise acquire, any land for a road; or
+  (b) declare land as a road; or
+  (c) stop or close a road,—
 
 ### 59 Control and management may be vested in territorial authority
 The Minister may, by notice in the Gazette, declare that any access way or service lane constructed or controlled by the Minister within a district shall be under the control and management of the territorial authority of that district, and such access way or service lane shall thereupon be vested in that territorial authority.
@@ -529,36 +506,37 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (2) All rights and powers vested in any local authority under sections 331, 332, 334, 335, 337 to 341, and 353 of the Local Government Act 1974, and all rights and powers vested in any local authority in relation to roads under any other Act, may in respect of any State highway be exercised by the Agency.
 (2A) For the purpose of erecting any swing gate or cattle stop across any State highway, the provisions of section 344 of the Local Government Act 1974 shall apply as if references in that section to the council were references to the Agency.
 (2B) Any pilot of an overweight or over dimension vehicle for which a permit has been issued by the Agency under regulations made under the Transport Act 1962, or under regulations or rules made under the Land Transport Act 1998, who is authorised for the purpose by that permit, may stop other vehicles on any State highway under the control of the Agency where such action is necessary for the purposes of safety.
-(3) The Agency may from time to time, by notice in the Gazette, make bylaws with respect to any State highway on the subject-matters referred to in paragraphs (13) to (20), and (38) to (41A) of section 684(1) of the Local Government Act 1974.
+(3) The Agency may from time to time, by notice in the Gazette, make bylaws with respect to any State highway on the subject-matters referred to in paragraphs (13) to (20), and (38) to (41A) of section 684(1)of the Local Government Act 1974.
 (4) The Agency shall have power to do all things necessary to construct and maintain in good repair any State highway, and in particular, but without limiting any power conferred on the Agency elsewhere in this Act, to do the following things:
-  (a) To alter the line of any State highway, but a new line shall not be laid out by the Agency without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
-  (b) To increase or diminish the width of any State highway:
-  (c) To determine what part of a State highway shall be a carriageway and what part a cycle track or footpath only:
-  (d) To construct, erect, dig, or grow on any State highway, or remove from it, such barriers, dividing strips, guide or sign posts, pillars, or other markers, trees, hedges, lawns, gardens, and other devices, as may in the opinion of the Agency be necessary or desirable:
-  (e) To place or construct temporarily or permanently on any carriageway any reasonable device or thing for the purpose of controlling vehicle speeds, if it is desirable for the safety of road workers or users of the State highway, or members of the public, or to protect any part of the State highway:
-  (f) To place or construct, or allow to be placed or constructed, on any State highway clear of the carriageway any road-making or maintenance materials, plant and equipment, traffic weigh stations, traffic control aids, and stations, facilities, and amenities for State highway users:
-  (g) To alter the level of any State highway:
-  (h) To stop, divert, or otherwise control the traffic upon any State highway temporarily while any work or investigation is being undertaken or for the structural protection of any part of the State highway:
-  (i) To close to traffic any State highway, or any part of it, for such period as the Agency considers necessary to execute repairs or to remove any obstruction:
-  (j) Subject to this section, to enter on any land and make such ditches, drains, and conduits as may be required to drain water from any State highway, and to keep such ditches, drains, and conduits open at all times for the flow of water; and to erect floodgates therein and to open or close them as the Agency thinks fit, doing as little damage as possible:
-  (k) To exercise the powers given by section 74 of this Act as if the State highway were a motorway:
-  (l) Subject to this section, to enter on any land so as to gain access to other land for the purposes of this subsection:
-  (m) Subject to this section, to enter on any land and to remove from any culvert, river, stream, lake, or other water, any material which may be lodged in its bed or against its banks or against any bridge, dam, ford, or weir, and which may impede the free flow of water in its natural channel whereby any part of a State highway may be damaged.
+  (a) to alter the line of any State highway, but a new line shall not be laid out by the Agency without the written consent of those persons whose written consent would be required under section 114(2) of the Public Works Act 1981 if the land were to be declared to be a road:
+  (b) to increase or diminish the width of any State highway:
+  (c) to determine what part of a State highway shall be a carriageway and what part a cycle track or footpath only:
+  (d) to construct, erect, dig, or grow on any State highway, or remove from it, such barriers, dividing strips, guide or sign posts, pillars, or other markers, trees, hedges, lawns, gardens, and other devices, as may in the opinion of the Agency be necessary or desirable:
+  (e) to place or construct temporarily or permanently on any carriageway any reasonable device or thing for the purpose of controlling vehicle speeds, if it is desirable for the safety of road workers or users of the State highway, or members of the public, or to protect any part of the State highway:
+  (f) to place or construct, or allow to be placed or constructed, on any State highway clear of the carriageway any road-making or maintenance materials, plant and equipment, traffic weigh stations, traffic control aids, and stations, facilities, and amenities for State highway users:
+  (g) to alter the level of any State highway:
+  (h) to stop, divert, or otherwise control the traffic upon any State highway temporarily while any work or investigation is being undertaken or for the structural protection of any part of the State highway:
+  (i) to close to traffic any State highway, or any part of it, for such period as the Agency considers necessary to execute repairs or to remove any obstruction:
+  (j) subject to this section, to enter on any land and make such ditches, drains, and conduits as may be required to drain water from any State highway, and to keep such ditches, drains, and conduits open at all times for the flow of water; and to erect floodgates therein and to open or close them as the Agency thinks fit, doing as little damage as possible:
+  (k) to exercise the powers given by section 74 of this Act as if the State highway were a motorway:
+  (l) subject to this section, to enter on any land so as to gain access to other land for the purposes of this subsection:
+  (m) subject to this section, to enter on any land and to remove from any culvert, river, stream, lake, or other water, any material which may be lodged in its bed or against its banks or against any bridge, dam, ford, or weir, and which may impede the free flow of water in its natural channel whereby any part of a State highway may be damaged.
 (5) The Agency or any local authority may, in the construction and maintenance of any State highway, include such works for the preservation of any Maori historical, cultural, or spiritual interests affected or likely to be affected by the construction or maintenance as may be agreed between the Agency or local authority and the iwi or hapu to which those interests relate.
+(5A) Before exercising any power under subsection (4) that will or is likely to interfere with any pipe, line, or other work associated with wastewater or the supply of water, electricity, gas, or telecommunications, the Agency (or an officer of the Agency acting on the Agency's behalf) must give not less than 10 working days' notice in writing of the proposed interference to the owner of the pipe, line, or other work, except in the case of any emergency or danger.
 (6) Entry shall not be made under subsection (4) of this section without the consent of the owner or occupier, if the land is within the curtilage of a dwelling or other building, or is within a stockyard, orchard, vineyard, plant nursery, shelter belt, airstrip, garden, or shrubbery.
 (7) Before entering on any land pursuant to any power conferred by subsection (4) of this section, the Agency or an officer of the Agency acting on the Authority's behalf shall (except in the case of any emergency or danger) give to the owner and to the occupier of the land not less than 10 working days' notice in writing of the intention to enter, and shall state in that notice—
-  (a) A description of the land affected; and
-  (b) The nature of any work to be carried out; and
-  (c) The type of any material required; and
-  (d) The approximate quantity of any material required; and
-  (e) The use proposed to be made of any material to be removed; and
-  (f) How and when entry is to be made; and
-  (g) A statement of the owner's or occupier's rights under subsection (8) of this section; and
-  (h) The estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
+  (a) a description of the land affected; and
+  (b) the nature of any work to be carried out; and
+  (c) the type of any material required; and
+  (d) the approximate quantity of any material required; and
+  (e) the use proposed to be made of any material to be removed; and
+  (f) how and when entry is to be made; and
+  (g) a statement of the owner's or occupier's rights under subsection (8) of this section; and
+  (h) the estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
 (8) The owner or occupier may, within 10 working days after receiving such a notice and after giving notice to the Agency or officer of the owner's intention to do so, apply to the District Court nearest to the land concerned, and the Court may thereupon summon the Agency, through any officer, or the officer, to appear before the Court at a time and place to be named in the summons.
 (9) If it appears to the Court that the use proposed to be made of the land is unreasonable or unnecessary, the Court may—
-  (a) Order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
-  (b) Direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit.
+  (a) order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
+  (b) direct that the land be occupied and used or material taken from it in such manner and subject to such limitations and restrictions as it thinks fit.
 (10) Nothing in this section (other than any provision of this section that is relied on in an emergency) shall derogate from the provisions of the Resource Management Act 1991.
 (11) Nothing in this section shall divest any territorial authority of the property in any road that may form part of a State highway.
 
@@ -567,9 +545,9 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (2) Every lease or tenancy or licence granted under subsection (1) of this section shall be subject to the condition that it may be revoked without compensation if the controlling authority gives the lessee or licensee not less than 6 months' notice of its intention to revoke the lease or licence.
 (3) While any lease or tenancy or licence granted under subsection (1) of this section is in force, the status of the land as a road or highway shall be suspended.
 (4) All rents and profits derived from land under this section shall—as the case may require.
-  (a) Be paid into a Crown Bank Account or a Departmental Bank Account in accordance with the Public Finance Act 1989; or
-  (b) Be paid into the bank account of the Crown entity (within the meaning of the Public Finance Act 1989) holding or managing the land; or
-  (c) Be paid into the general revenues of the local authority or controlling authority,—
+  (a) be paid into a Crown Bank Account or a Departmental Bank Account in accordance with the Public Finance Act 1989; or
+  (b) be paid into the bank account of the Crown entity (within the meaning of the Public Finance Act 1989) holding or managing the land; or
+  (c) be paid into the general revenues of the local authority or controlling authority,—
 (5) The Minister for the time being responsible for the administration of section 45 of the Public Works Act 1981 or the controlling authority may at any time accept the surrender of any lease, tenancy, or licence to occupy granted under this section.
 
 ### 62 Delegation of powers and duties to territorial authorities
@@ -585,9 +563,9 @@ The Minister may, by notice in the Gazette, declare that any access way or servi
 (2) Any such delegation, and any such delegation made by the National Roads Board before the commencement of this Act, may at any time be revoked or varied by resolution of the Agency.
 (3) The fact that any territorial authority purports to perform any function or duty or exercise any power pursuant to any delegation by the Agency (or by the National Roads Board before the commencement of this Act) shall, in the absence of proof to the contrary, be sufficient evidence of its authority to do so.
 (4) While powers of the Agency are delegated to a territorial authority under this Act—
-  (a) The territorial authority shall exercise the delegated powers in its own name and shall be liable accordingly; and
-  (b) Neither the Agency nor the Crown shall be answerable for any act or default of the territorial authority in the exercise of any powers so delegated; and
-  (c) The Agency shall not have power to exercise any of the powers so delegated without first revoking that delegation pursuant to subsection (2) of this section.
+  (a) the territorial authority shall exercise the delegated powers in its own name and shall be liable accordingly; and
+  (b) neither the Agency nor the Crown shall be answerable for any act or default of the territorial authority in the exercise of any powers so delegated; and
+  (c) the Agency shall not have power to exercise any of the powers so delegated without first revoking that delegation pursuant to subsection (2) of this section.
 (5) Any delegation by the National Roads Board to any person or body other than a territorial authority before the commencement of this Act is hereby revoked.
 
 ### 64 Territorial authority may surrender delegated powers and duties
@@ -605,9 +583,9 @@ The Agency shall have full power and control over State highway policy notwithst
 
 ### 68 Provision of other facilities
 (1) Subject to section 17 of this Act, the Agency may—
-  (a) Construct any vehicle parking place or parking building on land adjacent to, over, or under any State highway:
-  (b) Construct and operate, or allow to be constructed and operated, on, over, under, or adjacent to any State highway, any building, facility, amenity, or service that the Agency considers to be desirable for the convenience of State highway users:
-  (c) Construct any facility of benefit or advantage to users of the land transport system or for improving public safety.
+  (a) construct any vehicle parking place or parking building on land adjacent to, over, or under any State highway:
+  (b) construct and operate, or allow to be constructed and operated, on, over, under, or adjacent to any State highway, any building, facility, amenity, or service that the Agency considers to be desirable for the convenience of State highway users:
+  (c) construct any facility of benefit or advantage to users of the land transport system or for improving public safety.
 (2) Notwithstanding anything to the contrary in this Act, the Agency may lease or let, or grant a licence in respect of, any such parking place, parking building, building, facility, amenity, or service for such period, at such rental, and on such terms and conditions as it thinks fit.
 (3) Any land may be acquired for the purposes of this section under Part 2 of the Public Works Act 1981 as for a public work, and any land so acquired shall be held for a public work.
 
@@ -621,8 +599,8 @@ Every bylaw in force in respect of any State highway on the commencement of this
 
 ### 71 Governor-General may authorise and declare motorways
 (1) At the request of the Agency, the Governor-General may from time to time, by Order in Council published in the Gazette,—
-  (a) Authorise the construction of any motorway, and in doing so state as nearly as possible the route of the motorway, and its 2 termini:
-  (b) Declare any land, or any part of the air space above or the subsoil below the surface of any land, or any road, whether then actually constructed as a motorway or not, to be a motorway.
+  (a) authorise the construction of any motorway, and in doing so state as nearly as possible the route of the motorway, and its 2 termini:
+  (b) declare any land, or any part of the air space above or the subsoil below the surface of any land, or any road, whether then actually constructed as a motorway or not, to be a motorway.
 (2) Every Order in Council under this section may in the same manner from time to time be amended or revoked.
 (3) No request may be made under subsection (1) that affects or is likely to affect Maori land, land registered in the name of Pootatau Te Wherowhero under section 19 of the Waikato Raupatu Claims Settlement Act 1995, land subject to any other Maori claims settlement Act, or Maori historical, cultural, or spiritual interests, unless the Agency has consulted,—
   (a) in the case of land registered in the name of Pootatau Te Wherowhero or interests relating to that land, the land holding trustee (as defined in section 7 of the Waikato Raupatu Claims Settlement Act 1995):
@@ -633,63 +611,63 @@ Every bylaw in force in respect of any State highway on the commencement of this
 (5) Where any land affected by any Order in Council made under subsection (1)(b) of this section is Maori land, the Minister shall cause a copy of that order to be deposited in the office of the Registrar of the Maori Land Court who shall record it in the records of the Court.
 (6) Every motorway declared as such by the Governor-General under section 138 of the Public Works Act 1981 and having that status under that Act immediately before the commencement of this Act is hereby deemed to have been declared to be a motorway under this Act.
 
-### 72
+### 72 Middle line procedures
 [Repealed]
 
 ### 73 Power to construct motorways
 Subject to the restrictions specified in this Part of this Act and subject to section 17 of this Act, the Agency may do the following things in respect of any motorway declared under this Act:
-  (a) Construct works of every description and material necessary to the making of the motorway:
-  (b) Take machinery and vehicles of any kind on to and across any land within the area set out in the notice defining the route of the motorway, and use the machinery and vehicles on that land:
-  (c) Make any part of the motorway on and along any part of any road, access way, or service lane:
-  (d) Make the motorway on, across, over, or under any road, motorway, access way, service lane, railway, or tramway along the defined route; and alter the level of any road, access way, motorway, service lane, railway, or tramway for that purpose:
-  (e) Subject to compliance with the Harbours Act 1950 and the Resource Management Act 1991, make the motorway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
-  (f) Subject to compliance with the Resource Management Act 1991, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
-  (g) Remove or alter any drain or sewer or any pipes, wire, cable, or duct, together with any associated equipment, belonging to any person, within or adjacent to the defined limits of the motorway:
-  (h) Make or construct all such buildings, bridges, roads, approaches, and other structures and works in connection with the motorway as the Agency thinks necessary:
-  (i) Construct such roads as the Agency thinks desirable for the purpose of giving access to any motorway:
-  (j) Construct such roads, service lanes, or access ways as the Agency thinks desirable for the purpose of giving access to any land whose access is severed by a motorway:
-  (k) Exercise the powers, rights, duties, and liabilities vested in or imposed on the Minister as if the motorway were a Government road for the purposes of section 48 of this Act.
+  (a) construct works of every description and material necessary to the making of the motorway:
+  (b) take machinery and vehicles of any kind on to and across any land within the area set out in the notice defining the route of the motorway, and use the machinery and vehicles on that land:
+  (c) make any part of the motorway on and along any part of any road, access way, or service lane:
+  (d) make the motorway on, across, over, or under any road, motorway, access way, service lane, railway, or tramway along the defined route; and alter the level of any road, access way, motorway, service lane, railway, or tramway for that purpose:
+  (e) subject to compliance with the Harbours Act 1950 and the Resource Management Act 1991, make the motorway across any arm of the sea or any river, stream, lake, or water (whether navigable or not) by means of a bridge, causeway, or tunnel:
+  (f) subject to compliance with the Resource Management Act 1991, alter the course or the level of any river that is not navigable, or of any stream, watercourse, ditch, or drain:
+  (g) remove or alter any drain or sewer or any pipes, wire, cable, or duct, together with any associated equipment, belonging to any person, within or adjacent to the defined limits of the motorway:
+  (h) make or construct all such buildings, bridges, roads, approaches, and other structures and works in connection with the motorway as the Agency thinks necessary:
+  (i) construct such roads as the Agency thinks desirable for the purpose of giving access to any motorway:
+  (j) construct such roads, service lanes, or access ways as the Agency thinks desirable for the purpose of giving access to any land whose access is severed by a motorway:
+  (k) exercise the powers, rights, duties, and liabilities vested in or imposed on the Minister as if the motorway were a Government road for the purposes of section 48 of this Act.
 
 ### 74 Land may be temporarily occupied
 (1) Subject to the conditions specified in this section, the Agency may temporarily occupy or use any land for the purpose of constructing, reconstructing, or repairing a motorway, and may do the following things on the land:
-  (a) Deposit any construction materials:
-  (b) Deposit, permanently or temporarily, any material suitable for use in landscaping or restoration of that land or of the motorway:
-  (c) Form and use drains and hard standings:
-  (d) Manufacture or fabricate materials and construct incidental works:
-  (e) Erect workshops, sheds, and other buildings of a temporary nature, and store or use any plant or equipment.
+  (a) deposit any construction materials:
+  (b) deposit, permanently or temporarily, any material suitable for use in landscaping or restoration of that land or of the motorway:
+  (c) form and use drains and hard standings:
+  (d) manufacture or fabricate materials and construct incidental works:
+  (e) erect workshops, sheds, and other buildings of a temporary nature, and store or use any plant or equipment.
 (2) The engineer or other person having the charge of the motorway shall, before so occupying or using any land and, except in the case of accident to the motorway requiring immediate repair, give the owner and the occupier of the land not less than 10 working days' notice in writing, and shall include in the notice—
-  (a) A description of the land affected; and
-  (b) A detailed statement of the use proposed to be made of the land; and
-  (c) When and for how long such use is intended; and
-  (d) A statement of the owner or occupier's rights under subsection (3) of this section; and
-  (e) The estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
+  (a) a description of the land affected; and
+  (b) a detailed statement of the use proposed to be made of the land; and
+  (c) when and for how long such use is intended; and
+  (d) a statement of the owner or occupier's rights under subsection (3) of this section; and
+  (e) the estimated amount of compensation to which the owner or occupier would be entitled under this or any other Act.
 (3) The owner or occupier may, within 10 working days after receiving such a notice, and after giving notice to the engineer or other person of his or her intention to do so, apply to the District Court nearest to the land concerned for the issue of a summons requiring the engineer or other person to appear before the Court at a time and place to be named in the summons; and upon any such application the Court may issue a summons accordingly.
 (4) If it appears to the Court that the use proposed to be made of the land is unreasonable or unnecessary, the Court may—and all persons concerned shall be bound by any such order.
-  (a) Order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
-  (b) Direct that the land be occupied and used in such manner and subject to such limitations and restrictions as it thinks fit,—
+  (a) order that the land in question shall not be occupied or used, or shall not be occupied or used in the manner proposed; or
+  (b) direct that the land be occupied and used in such manner and subject to such limitations and restrictions as it thinks fit,—
 
 ### 75 Compensation where road interfered with or wholly closed
 (1) Except as provided in section 63 of the Public Works Act 1981, compensation shall not be payable to any person in respect of—if reasonable and sufficient access to the nearest road crossing over or under the motorway is available by some other road, whether it has been provided or constructed by the Agency or not.
-  (a) Any road being wholly closed under the powers conferred by section 37 of the Public Works Act 1981; or
-  (b) The use or occupation of any road for any motorway; or
-  (c) Any inconvenience to the users of any land fronting or adjoining any such road—
+  (a) any road being wholly closed under the powers conferred by section 37 of the Public Works Act 1981; or
+  (b) the use or occupation of any road for any motorway; or
+  (c) any inconvenience to the users of any land fronting or adjoining any such road—
 (2) If any question arises as to whether other reasonable and sufficient access is so available, it shall be determined in such manner as is agreed upon between the owners and occupiers of the land, the territorial authority having the control of roads in the district, and the Agency.
 (3) If no such agreement is reached, all claims for compensation in respect of the matters referred to in subsection (1) of this section shall be determined in the manner provided by the Public Works Act 1981, but no compensation shall be awarded if in the opinion of the Land Valuation Tribunal other reasonable and sufficient access is so available.
 
 ### 76 Access to land cut off from road or separated by motorway
 (1) If the making of a motorway has—and the Agency has not provided access to the land so cut off or between the pieces of land so separated, the Agency shall provide access to the land so cut off or between the pieces of land so separated—
-  (a) Cut off all access by road to any land other than Crown land; or
-  (b) Separated one piece of the land of any person from another piece of land of that person—
-  (c) By constructing a road, access way, or service lane; or
-  (d) By constructing a crossing under or over the motorway between the pieces of land that have been separated.
+  (a) cut off all access by road to any land other than Crown land; or
+  (b) separated one piece of the land of any person from another piece of land of that person—
+  (c) by constructing a road, access way, or service lane; or
+  (d) by constructing a crossing under or over the motorway between the pieces of land that have been separated.
 (2) No access need be provided under this section as a consequence of the land having been subdivided after the construction of the motorway.
 (3) Where the Agency is satisfied that alternative access has become available to any land that has been granted an access under this section, the Agency may close any access provided under this section on giving not less than 3 months' notice in writing to the owner and occupier of the land affected.
 (4) If the owner or occupier of the land to which subsection (1) of this section applies objects to any decision of the Agency under this section, the Agency shall appoint a competent person to confer with the owner and, if possible, to agree with the owner as to the matter in dispute; and if no agreement can be reached between the parties the matter shall be referred to the nearest District Court, and the decision of the Court thereon shall be final.
 
 ### 77 Alterations to roads, drains, etc
 (1) Where it is found necessary for the construction of a motorway to alter any road, tramway, watercourse, or drain, or any other public work, or any water supply pipe or gas supply pipe, or any power supply or telecommunication link, the alterations shall be made in such manner as will—
-  (a) Interfere as little as possible with the work altered; and
-  (b) So far as practicable, provide the public and every person entitled to use the work altered with the equivalent use and convenience as they had before the alteration.
+  (a) interfere as little as possible with the work altered; and
+  (b) so far as practicable, provide the public and every person entitled to use the work altered with the equivalent use and convenience as they had before the alteration.
 (2) Before commencing any such alteration, the Agency shall cause a plan of it to be prepared and to be submitted to the local authority having the control of the work proposed to be altered, or to the owner of the water supply pipe or gas supply pipe, power supply, or link, or other work, as the case may be.
 (3) If the local authority or owner objects to the proposed alteration, the Agency shall appoint a competent person to confer with the local authority or owner, and, if possible, to agree with the local authority or the owner as to the manner in which the alteration shall be made; and if no agreement can be reached between the parties, the matter shall be referred to the District Court nearest to the work in question, and the decision of the Court thereon shall be final.
 (4) The Agency may at any time interfere with any such road, public work, pipe, power supply, or link so far as is necessary to effect all necessary repairs on any motorway lawfully constructed thereon, but shall give to such local authority or owner not less than 10 working days' notice of its intention to do so, except in the circumstances set out in subsection (5) of this section.
@@ -698,14 +676,18 @@ Subject to the restrictions specified in this Part of this Act and subject to se
 ### 78 Restrictions on poles, etc, on motorways
 Neither the Crown nor any local authority nor any other person shall place any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under any motorway or on, over, or under any land that has been taken, purchased, set apart, or acquired for the purpose of constructing a motorway, without the prior written consent of the Agency.
 
+### 78A Response to requests for access to motorway
+(1) If the Agency receives a request in accordance with subsection (2), the Agency must respond, in writing, within 30 working days of receiving it.
+(2) The requests to which subsection (1) applies are those from local authorities, or owners of any pipe, line, or other works associated with wastewater or the supply of water, electricity, gas, or telecommunications, for access to a motorway for the purpose of constructing, maintaining, or in any other way altering any such pipe, line, or other works, or any wire, cable, pipe, tower, pole, or other structure or thing on, over, or under the motorway.
+
 ### 79 Availability for traffic
 (1) No part of any motorway shall be opened for public traffic until it has been inspected by some proper person appointed by the Agency for the purpose, and until that person has reported to the Agency that he or she has inspected the whole of that part and that it is in good and efficient repair and may safely and conveniently be used for public traffic.
 (2) If, in the opinion of the Agency or of any officer of the Agency, any part of any motorway cannot safely be used for public traffic, the Agency or officer may temporarily close that part for public traffic by such means as are immediately available pending inspection and action by the Agency in accordance with subsection (3) of this section.
 (3) If any part of any motorway has been inspected by some proper person appointed by the Agency for the purpose, and that person has reported to the Agency that he or she has inspected the part and that it cannot safely and conveniently be used for public traffic, the Agency may fence off and close such part of the motorway as it may consider necessary or expedient, and thereafter the provisions of subsection (1) of this section shall apply as if the part of the motorway so closed had not been opened for public traffic.
 (4) The Agency may open for the use of traffic or any specified category of traffic any land held for motorway purposes notwithstanding that it has not been declared to be a motorway under section 71 of this Act.
 (5) While any land is open for the use of any traffic or category of traffic pursuant to subsection (4) of this section the land shall be deemed to be—
-  (a) A road for the purposes of the Transport Act 1962 and the Land Transport Act 1998, and of any regulations or rules in force under either of those Acts; and
-  (b) A motorway for the purposes of any regulations in force under this Act relating to motorways and of section 52 of the Transport Act 1962.
+  (a) a road for the purposes of the Transport Act 1962 and the Land Transport Act 1998, and of any regulations or rules in force under either of those Acts; and
+  (b) a motorway for the purposes of any regulations in force under this Act relating to motorways and of section 52 of the Transport Act 1962.
 
 ### 80 Maintenance and control of motorways
 (1) Subject to the provisions of this Part of this Act, the Agency shall have the sole powers of control for all purposes, including construction and maintenance, of all motorways, and for that purpose shall have all the powers and rights vested in it by this Act as if every motorway were a State highway.
@@ -721,25 +703,25 @@ Neither the Crown nor any local authority nor any other person shall place any w
 
 ### 82 Restrictions on use of motorways
 (1) Except as provided in this or any other enactment, a person shall not be on a motorway unless the person is—
-  (a) In or on a vehicle that is entitled to be on the motorway; or
-  (b) On the motorway as a result of any crash, breakdown, or other emergency; or
-  (c) On the motorway in connection with any work that is authorised by the Agency or under any enactment to be carried out on the motorway or any work that is being carried out pursuant to a delegation granted by the Agency under section 62 of this Act; or
-  (d) On the motorway for the purposes of enforcing any enactment.
+  (a) in or on a vehicle that is entitled to be on the motorway; or
+  (b) on the motorway as a result of any crash, breakdown, or other emergency; or
+  (c) on the motorway in connection with any work that is authorised by the Agency or under any enactment to be carried out on the motorway or any work that is being carried out pursuant to a delegation granted by the Agency under section 62 of this Act; or
+  (d) on the motorway for the purposes of enforcing any enactment.
 (2) No person shall cause or permit any animal or thing that is or ought to be under that person's control to be on any motorway unless—
-  (a) It is a vehicle that is entitled to be on the motorway or is carried in or on such vehicle; or
-  (b) It is on the motorway for the purposes of assisting at any crash, breakdown, or other emergency; or
-  (c) It is on the motorway in connection with any work that is—
-    (i) Authorised by the Agency or under any enactment to be carried out on the motorway; or
-    (ii) Being carried out pursuant to a delegation by the Agency under section 62 of this Act; or
-  (d) It is expressly authorised by any enactment to be on a motorway.
+  (a) it is a vehicle that is entitled to be on the motorway or is carried in or on such vehicle; or
+  (b) it is on the motorway for the purposes of assisting at any crash, breakdown, or other emergency; or
+  (c) it is on the motorway in connection with any work that is—
+    (i) authorised by the Agency or under any enactment to be carried out on the motorway; or
+    (ii) being carried out pursuant to a delegation by the Agency under section 62 of this Act; or
+  (d) it is expressly authorised by any enactment to be on a motorway.
 (3) The owner or person in charge of any animal or thing which is on a motorway in breach of subsection (2) of this section shall be liable for any damage that may result from collision with or attempted avoidance of the animal or thing, unless the owner or person proves that the presence of the animal or thing on the motorway in breach of that subsection was not due to any negligence on his or her part.
 
 ### 83 Vehicles which may be operated on motorways
 A person may operate any vehicle or combination of vehicles on a motorway if—
-  (a) The vehicle, or each vehicle of the combination, is supported by pneumatic tyres while it is being operated, and—
-    (i) Is registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or is a vehicle that is exempt from registration pursuant to clause 5 of Part 1 of Schedule 1 to that Act; and
-    (ii) In the case of a vehicle or combination of vehicles which may not be operated on a motorway without a permit issued under regulations in force under this or any other Act, such a permit is in force; or
-  (b) The vehicle is a cycle being operated on a part of the motorway where such operation is approved.
+  (a) the vehicle, or each vehicle of the combination, is supported by pneumatic tyres while it is being operated, and—
+    (i) is registered under the Transport (Vehicle and Driver Registration and Licensing) Act 1986 or is a vehicle that is exempt from registration pursuant to clause 5 of Part 1 of Schedule 1 to that Act; and
+    (ii) in the case of a vehicle or combination of vehicles which may not be operated on a motorway without a permit issued under regulations in force under this or any other Act, such a permit is in force; or
+  (b) the vehicle is a cycle being operated on a part of the motorway where such operation is approved.
 
 ### 84 Restrictions on access to motorways
 (1) A person driving a vehicle shall not enter, cross, or leave any motorway except at a motorway, State highway, or road from which vehicular access to the motorway has been constructed and is authorised by the Agency, and subject to such conditions as may be approved and publicly notified by the Minister on the recommendation of the Agency.
@@ -754,10 +736,10 @@ The engineer in charge of the construction or maintenance of any motorway shall 
 
 ### 87 Offences and penalties
 (1) Every person commits an offence who—and is liable on summary conviction to a fine not exceeding $500.
-  (a) Acts in contravention of or fails to comply in any respect with any provision of section 82 of this Act; or
-  (b) Acts in contravention of or fails to comply in any respect with any provision of section 83 of this Act; or
-  (c) Fails to comply with any condition specified in any authorisation granted under section 84 of this Act; or
-  (d) Uses or makes any unauthorised crossing place on to a motorway,—
+  (a) acts in contravention of or fails to comply in any respect with any provision of section 82 of this Act; or
+  (b) acts in contravention of or fails to comply in any respect with any provision of section 83 of this Act; or
+  (c) fails to comply with any condition specified in any authorisation granted under section 84 of this Act; or
+  (d) uses or makes any unauthorised crossing place on to a motorway,—
 (2) The owner or person in charge of any animal or thing which is on a motorway in breach of section 82(2) of this Act shall not be guilty of an offence under subsection (1) of this section if the owner or person proves that the presence of the animal or thing on the motorway in breach of that subsection was not due to any negligence on his or her part.
 
 **Limited access roads**
@@ -768,15 +750,15 @@ The engineer in charge of the construction or maintenance of any motorway shall 
 (3) Every limited access road in existence under section 4(4) of the Public Works Amendment Act 1963 immediately before the commencement of the Public Works Act 1981 shall be deemed to be a road and State highway in addition, and shall be deemed to have been declared a limited access road under this Act.
 (4) Every limited access road declared as such by the National Roads Board under section 153 of the Public Works Act 1981 and having that status immediately before the commencement of this Act shall be deemed to have been declared to be a limited access road under this Act.
 (5) The Agency may from time to time, by notice in the Gazette and publicly notified, revoke the status of limited access road from any State highway or part of it—
-  (a) Which has been created a limited access road under either subsection (1) or subsection (2) of this section, but subject to section 96(1) of this Act; or
-  (b) Which has been created a limited access road under section 4 of the Public Works Act Amendment Act 1963, but subject to section 96(1) of this Act; or
-  (c) Whose administration has passed to the Agency under section 96(2) of this Act.
+  (a) which has been created a limited access road under either subsection (1) or subsection (2) of this section, but subject to section 96(1) of this Act; or
+  (b) which has been created a limited access road under section 4 of the Public Works Act Amendment Act 1963, but subject to section 96(1) of this Act; or
+  (c) whose administration has passed to the Agency under section 96(2) of this Act.
 (6) Where any land becomes State highway by virtue of section 238(1)(c) of the Resource Management Act 1991 and section 60 of this Act, and such State highway is a limited access road, such land shall thereupon become part of the limited access road.
 
 ### 89 Provisions of Acts relating to roads to apply to limited access roads
 Subject to the provisions of this Part of this Act, the provisions of this Act and of every other enactment relating to roads shall, so far as they are applicable and with the necessary modifications, apply to—
-  (a) All limited access roads, whether declared under section 88(1) of this Act, or purchased, set apart, acquired, or declared pursuant to section 88(2) of this Act, or created as such under section 4 of the Public Works Amendment Act 1963 or section 153 of the Public Works Act 1981, or whose administration has passed to the Agency under section 96(2) of this Act; and
-  (b) The purchase and acquisition of land for limited access road, and the setting apart or declaring of land as limited access road.
+  (a) all limited access roads, whether declared under section 88(1) of this Act, or purchased, set apart, acquired, or declared pursuant to section 88(2) of this Act, or created as such under section 4 of the Public Works Amendment Act 1963 or section 153 of the Public Works Act 1981, or whose administration has passed to the Agency under section 96(2) of this Act; and
+  (b) the purchase and acquisition of land for limited access road, and the setting apart or declaring of land as limited access road.
 
 ### 90 Access to and from land
 (1) Each parcel of land that adjoins or has legal access to a State highway or part of a State highway which is a limited access road and that does not have reasonably practicable alternative legal access to some other road, shall be entitled to at least 1 crossing place at which vehicles are permitted to proceed to and from the limited access road from and to the parcel of land. The location of each crossing place shall be specified by the Agency from time to time by notice issued to the owner under section 91 of this Act.
@@ -784,59 +766,59 @@ Subject to the provisions of this Part of this Act, the provisions of this Act a
 
 ### 91 Authorisation of crossing places
 (1) The Agency, in the case of any limited access road under its control, may from time to time—
-  (a) By notice to the owner of the parcel of land affected—
-    (i) Authorise, subject to such conditions (if any) as it may impose, any crossing place, whether formed or not, at which vehicles may proceed to and from the limited access road from and to any specified parcel of land:
-    (ii) Specify the location of any crossing place, whether authorised under section 90 of this Act or under this section:
-    (iii) Cancel the right to use any crossing place, whether authorised under section 90 of this Act or under this section or located by a specification under subparagraph (ii) of this paragraph, if the parcel of land has reasonably practicable legal access to some other road or has another authorised crossing place:
-    (iv) Cancel or vary all or any of the conditions imposed under this section, or impose further conditions, or vary the location of any authorised crossing place:
-  (b) Construct any road or service lane that it may be expedient to construct to give access, whether additional or not, to any land adjoining or near the limited access road.
+  (a) by notice to the owner of the parcel of land affected—
+    (i) authorise, subject to such conditions (if any) as it may impose, any crossing place, whether formed or not, at which vehicles may proceed to and from the limited access road from and to any specified parcel of land:
+    (ii) specify the location of any crossing place, whether authorised under section 90 of this Act or under this section:
+    (iii) cancel the right to use any crossing place, whether authorised under section 90 of this Act or under this section or located by a specification under subparagraph (ii) of this paragraph, if the parcel of land has reasonably practicable legal access to some other road or has another authorised crossing place:
+    (iv) cancel or vary all or any of the conditions imposed under this section, or impose further conditions, or vary the location of any authorised crossing place:
+  (b) construct any road or service lane that it may be expedient to construct to give access, whether additional or not, to any land adjoining or near the limited access road.
 (2) Any notice given by the Agency under this section may be registered by the Agency under the Land Transfer Act 1952 against every certificate of title, provisional register, or other instrument of title registered or lodged in the District Land Registrar's office that is affected by the notice by lodging with the District Land Registrar two copies of the notice.
 (3) Each copy of any notice given under this section shall identify the land to which it relates, including the certificate of title reference for the land affected by the notice.
 (4) On receipt of 2 copies of any notice issued under this section and the prescribed fee (if any), the District Land Registrar shall, if everything is in order,—
-  (a) Sign and seal on both copies a statement of the time and date of receipt; and
-  (b) Record and file one of the copies in his or her office, and endorse on both copies the record reference; and
-  (c) Enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office that is affected by the notice, the fact of the notice; and
-  (d) Return the remaining copy to the Agency.
+  (a) sign and seal on both copies a statement of the time and date of receipt; and
+  (b) record and file one of the copies in his or her office, and endorse on both copies the record reference; and
+  (c) enter on every certificate of title, provisional register, or other instrument of title registered or lodged in his or her office that is affected by the notice, the fact of the notice; and
+  (d) return the remaining copy to the Agency.
 (5) The entry by the District Land Registrar on a certificate of title, provisional register, or other instrument of title registered or lodged in his or her office of the particulars of a notice is evidence of the existence of the notice but does not create any estate or interest under the Land Transfer Act 1952.
 (6) Any notice entered by the District Land Registrar under subsection (4)(c) of this section may be cancelled or varied upon production by the Agency of a notice of cancellation or notice of variation.
 
 ### 92 Restricting movement to or from limited access road
 Without restricting any provision of any other Act, it is hereby declared that a person shall not drive or move any vehicle or animal, or permit any vehicle or animal to be driven or moved, on to or from any limited access road, except—
-  (a) At a motorway, road, or service lane from which vehicles might lawfully be driven or moved on to the State highway or part thereof immediately before its creation as a limited access road:
-  (b) At a motorway, road, or service lane from which vehicular access to the limited access road has been authorised by the Agency and subject to such conditions as it may approve:
-  (c) At a crossing place authorised and specified by the Agency and subject to such conditions as are for the time being imposed by the Agency in accordance with section 91 of this Act.
+  (a) at a motorway, road, or service lane from which vehicles might lawfully be driven or moved on to the State highway or part thereof immediately before its creation as a limited access road:
+  (b) at a motorway, road, or service lane from which vehicular access to the limited access road has been authorised by the Agency and subject to such conditions as it may approve:
+  (c) at a crossing place authorised and specified by the Agency and subject to such conditions as are for the time being imposed by the Agency in accordance with section 91 of this Act.
 
 ### 93 Limited access road not a road for certain purposes
 (1) Where any person wishes to exercise any right involving the subdivision or use of land, and that right is conditional upon the land having a frontage or access to a road, or is in any other way conditional upon the existence of a road, for those purposes a limited access road which is a State highway shall be deemed not to be a road, except for such purpose, to such extent, and on such conditions, as may be notified from time to time to the territorial authority or, as the case may require, to the District Land Registrar by the Minister at the request of the Agency.
 (2) Any person aggrieved at—may object in writing to the Environment Court within 30 days after being notified of such refusal or conditions.
-  (a) The refusal of the Agency to request the Minister to issue a notice under subsection (1) of this section or at the refusal of the Minister to issue such a notice; or
-  (b) Any condition subject to which any such notice is issued—
+  (a) the refusal of the Agency to request the Minister to issue a notice under subsection (1) of this section or at the refusal of the Minister to issue such a notice; or
+  (b) any condition subject to which any such notice is issued—
 (3) The provisions of section 24 of the Public Works Act 1981 shall, so far as they are applicable and with the necessary modifications, apply to the hearing of any objection under this section.
 
 ### 94 Requirements relating to declaration of limited access road
 The following provisions shall apply in respect of the declaration under section 88(1) of this Act of a limited access road:
-  (a) Every such declaration shall refer to a plan showing—
-    (i) The road or part of a road to which the declaration relates:
-    (ii) Any crossing places to be authorised:
-    (iii) The boundaries of all road frontages of each parcel of land adjoining the road or part to which the declaration relates:
-    (iv) The boundaries of all other types (if any) of legal access (whether rights of way, roadlines, private roads, or any other types whatever) connecting the road or part to any other parcel of land:
-    (v) The title references of every parcel of land to which subparagraph (iii) or subparagraph (iv) of this paragraph applies:
-  (b) Every such declaration shall indicate where the plan is held and may be inspected:
-  (c) The Agency shall cause to be forwarded to the District Land Registrar a copy of the declaration as gazetted, together with a certificate signed by a duly authorised officer of the Agency, setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land described in it:
-  (d) Where any land affected by the declaration is Maori land the authority shall cause to be deposited in the office of the Registrar of the Maori Land Court a copy of the declaration as gazetted, together with a certificate in the form and containing the details specified in paragraph (c) of this section, and the Registrar shall record the declaration and the certificate in the records of the Court:
-  (e) The Agency shall cause a copy of the declaration and plan to be sent to every territorial authority in whose district the limited access road or part is situated:
-  (f) The Agency shall cause a copy of the declaration as published in the Gazette to be served on the owners and occupiers of all land which is affected by the declaration, so far as they can be ascertained.
+  (a) every such declaration shall refer to a plan showing—
+    (i) the road or part of a road to which the declaration relates:
+    (ii) any crossing places to be authorised:
+    (iii) the boundaries of all road frontages of each parcel of land adjoining the road or part to which the declaration relates:
+    (iv) the boundaries of all other types (if any) of legal access (whether rights of way, roadlines, private roads, or any other types whatever) connecting the road or part to any other parcel of land:
+    (v) the title references of every parcel of land to which subparagraph (iii) or subparagraph (iv) of this paragraph applies:
+  (b) every such declaration shall indicate where the plan is held and may be inspected:
+  (c) the Agency shall cause to be forwarded to the District Land Registrar a copy of the declaration as gazetted, together with a certificate signed by a duly authorised officer of the Agency, setting out by sufficient descriptions and title references every parcel of land that is affected by that limited access road, either by reason of the parcel of land adjoining the limited access road or by reason of the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road; and the District Land Registrar shall record it against the titles to all the parcels of land described in it:
+  (d) where any land affected by the declaration is Maori land the authority shall cause to be deposited in the office of the Registrar of the Maori Land Court a copy of the declaration as gazetted, together with a certificate in the form and containing the details specified in paragraph (c) of this section, and the Registrar shall record the declaration and the certificate in the records of the Court:
+  (e) the Agency shall cause a copy of the declaration and plan to be sent to every territorial authority in whose district the limited access road or part is situated:
+  (f) the Agency shall cause a copy of the declaration as published in the Gazette to be served on the owners and occupiers of all land which is affected by the declaration, so far as they can be ascertained.
 
 ### 95 Certificate of land affected to be forwarded to District Land Registrar
 (1) Where any land is purchased, set apart, or otherwise acquired for, or declared to be, a limited access road under section 88(2) of this Act, there shall be forwarded to the District Land Registrar a certificate by a duly authorised officer of the Agency that the land referred to in it by sufficient descriptions and title references comprises every parcel of land that is affected by that limited access road, either by reason of—and the District Land Registrar shall record the certificate against the titles so specified.
-  (a) The parcel of land adjoining the limited access road; or
-  (b) The legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road—
+  (a) the parcel of land adjoining the limited access road; or
+  (b) the legal access of the parcel of land to any other road being lost or adversely affected as a result of the creation of the limited access road—
 (2) Where any land to which subsection (1) of this section applies is Maori land then the provisions of that subsection shall apply, in addition, as if the District Land Registrar were the Registrar of the Maori Land Court, who shall record the certificate in the records of that Court.
 (3) Where the Agency revokes the status of limited access road from any State highway or part, it shall cause a copy of the Gazette notice, together with a certificate signed by a duly authorised officer of the Agency setting out by sufficient descriptions and title references all parcels of land affected by the revocation, to be forwarded to—
-  (a) The District Land Registrar, who shall record the certificate against the titles to all the parcels of land so described; and
-  (b) The Registrar of the Maori Land Court, if any of the land affected is Maori land, who shall record the certificate in the records of the Court; and
-  (c) Every territorial authority in whose district the State highway or part is situated; and
-  (d) The owner and occupier of each parcel of land so described.
+  (a) the District Land Registrar, who shall record the certificate against the titles to all the parcels of land so described; and
+  (b) the Registrar of the Maori Land Court, if any of the land affected is Maori land, who shall record the certificate in the records of the Court; and
+  (c) every territorial authority in whose district the State highway or part is situated; and
+  (d) the owner and occupier of each parcel of land so described.
 
 ### 96 Administration of limited access roads
 (1) If any limited access road which is a State highway ceases to be a State highway, it shall thereupon be deemed to be a limited access road created under the Local Government Act 1974; and the administration of that road shall pass to the territorial authority responsible for the control of roads in the district.
@@ -844,9 +826,9 @@ The following provisions shall apply in respect of the declaration under section
 
 ### 97 Offences
 Every person commits an offence who—and is liable on summary conviction to a fine not exceeding $500.
-  (a) Acts in contravention of or fails to comply in any respect with any provision of section 92 of this Act; or
-  (b) Fails to comply with any condition specified in any authorisation granted under section 91 or section 92 of this Act; or
-  (c) Uses or makes any unauthorised crossing place on to a limited access road,—
+  (a) acts in contravention of or fails to comply in any respect with any provision of section 92 of this Act; or
+  (b) fails to comply with any condition specified in any authorisation granted under section 91 or section 92 of this Act; or
+  (c) uses or makes any unauthorised crossing place on to a limited access road,—
 
 ### 98 Compensation
 Every person having an estate or interest in land which is injuriously affected by the creation of a limited access road under section 88 of this Act shall, notwithstanding section 60 of the Public Works Act 1981, be entitled to full compensation from the Crown under Part 5 of that Act.
@@ -881,14 +863,14 @@ Every person having an estate or interest in land which is injuriously affected 
 
 ### 105 Public availability of documents
 Where the Agency or any local authority is required under this Act to make any document or matter available to the public, it shall—
-  (a) Make sufficient copies of that document or matter available for public inspection, free of charge; and
-  (b) Make sufficient copies of that document or matter available for purchase, at a reasonable price, during normal office hours at the principal office of the Agency or local authority; and
-  (c) Notify that availability by advertisement in a newspaper circulating in the region or district, or regions or districts, to which the document or matter relates.
+  (a) make sufficient copies of that document or matter available for public inspection, free of charge; and
+  (b) make sufficient copies of that document or matter available for purchase, at a reasonable price, during normal office hours at the principal office of the Agency or local authority; and
+  (c) notify that availability by advertisement in a newspaper circulating in the region or district, or regions or districts, to which the document or matter relates.
 
 ### 106 Power of Agency to direct roading work
 (1) If at any time the Agency has reasonable cause to believe that any road, State highway, or motorway under the control of the Agency or a territorial authority is not in reasonable or satisfactory condition,—
-  (a) It may inquire into the circumstances; and
-  (b) If, in the opinion of the Agency, the territorial authority in control of the road, State highway, or motorway has not carried out work which the Agency considers necessary and justified in the interest of road users, having regard to the money available to the territorial authority, the Agency may by notice require the Agency or the territorial authority to undertake such work as it may specify and within such period as may be stated in the notice.
+  (a) it may inquire into the circumstances; and
+  (b) if, in the opinion of the Agency, the territorial authority in control of the road, State highway, or motorway has not carried out work which the Agency considers necessary and justified in the interest of road users, having regard to the money available to the territorial authority, the Agency may by notice require the Agency or the territorial authority to undertake such work as it may specify and within such period as may be stated in the notice.
 (2) In the event of the Agency or the territorial authority not undertaking the work as required and within the period specified in the notice under subsection (1)(b) of this section, the Agency itself may arrange for the work to be carried out and may recover the costs of that work from the Agency or the territorial authority, either as a debt due to the Agency or by deducting the amount from payments then due or becoming due to the Agency or the territorial authority from the National Roads Account.
 
 ### 107 Application of Act to Chatham Islands
@@ -901,10 +883,10 @@ The Secretary, the Agency and every local authority shall upon request by any of
 (1) Every person who commits a breach of any bylaw made or deemed to have been made under this Act is liable to a fine not exceeding $500.
 (2) Where a person commits a continuing breach of any bylaw, then, notwithstanding anything in any other Act, a District Court, on application by the Agency or by a territorial authority where the bylaw was made by the territorial authority acting pursuant to a delegation under section 62 of this Act, may grant an injunction restraining the further continuance of the breach by that person.
 (3) An injunction may be granted under subsection (2) of this section,—
-  (a) Notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
-  (b) Where the person is convicted of such an offence, either,—
-    (i) In the proceedings for the offence, in substitution for or in addition to any penalty awarded for the offence; or
-    (ii) In subsequent proceedings.
+  (a) notwithstanding that proceedings for the offence constituted by the breach have not been taken; or
+  (b) where the person is convicted of such an offence, either,—
+    (i) in the proceedings for the offence, in substitution for or in addition to any penalty awarded for the offence; or
+    (ii) in subsequent proceedings.
 
 ### 110 Regulations
 The Governor-General may from time to time, by Order in Council, make such regulations as are necessary or expedient for giving full effect to this Act and for its due administration.
@@ -913,13 +895,13 @@ The Governor-General may from time to time, by Order in Council, make such regul
 (1) The following bodies are hereby abolished:
   (a) The National Roads Board:
   (b) The Urban Transport Council:
-  (c) Every other body established by or under the National Roads Act 1953 or the Urban Transport Act 1980.
+  (c) every other body established by or under the National Roads Act 1953 or the Urban Transport Act 1980.
 (2) Every member of the bodies abolished by subsection (1) of this section shall vacate office on the commencement of this Act, and shall not be entitled to any compensation in respect of such loss of office.
 (3) Subject to sections 113 and 114 of this Act, on the date of commencement of this Act—
-  (a) All real and personal property belonging to or vested in the National Roads Board or the Urban Transport Council shall become vested in the Authority, subject to all encumbrances, liens, and other interests to which it is subject on that date:
-  (b) All money payable to the National Roads Board or the Urban Transport Council shall become payable to the Authority:
-  (c) All liabilities, contracts, and engagements, and all rights and authorities of any nature whatever, of the National Roads Board or the Urban Transport Council shall become liabilities, contracts, engagements, rights, and authorities of the Authority:
-  (d) All proceedings pending by or against the National Roads Board or the Urban Transport Council may be carried on, completed, and enforced by or against the Authority.
+  (a) all real and personal property belonging to or vested in the National Roads Board or the Urban Transport Council shall become vested in the Authority, subject to all encumbrances, liens, and other interests to which it is subject on that date:
+  (b) all money payable to the National Roads Board or the Urban Transport Council shall become payable to the Authority:
+  (c) all liabilities, contracts, and engagements, and all rights and authorities of any nature whatever, of the National Roads Board or the Urban Transport Council shall become liabilities, contracts, engagements, rights, and authorities of the Authority:
+  (d) all proceedings pending by or against the National Roads Board or the Urban Transport Council may be carried on, completed, and enforced by or against the Authority.
 (4) On and from 1 July 2008, the Agency has all the rights and obligations conferred on the Authority by subsection (3).
 
 ### 112 Matters pending to lapse
@@ -956,18 +938,6 @@ The Transport (Refunds of Excise Duty) Order 1989 (SR 1989/140) (as made pursuan
 ## Schedule 3 — Enactments repealed
 
 ## Schedule 4 — Enactments amended
-
-| Enactment | Amendment |
-| --- | --- |
-| 1939, No 18-The Hutt Road Act 1939. | By omitting from section 6(2) (as amended by section 3(4) of the Finance Act (No 2) 1947) the words National Roads Fund, and substituting the words Crown Bank Account and credited to the Land Transport Fund. |
-| 1953, No 31-The Wildlife Act 1953. (RS Vol 7, p 819.) | By omitting from Schedule 9 the words the National Roads Act 1953, and substituting the words Transit New Zealand Act 1989 |
-| 1962, No 135-The Transport Act 1962 (RS Vol 16, p 659.) | By omitting from section 72(1) the words to section 13 of the National Roads Act 1953, and. By omitting from section 72(7) the words the National Roads Board, and substituting the words Transit New Zealand. 1989, No 74-The Transport Licensing Act 1989. 1989, No 75-The Transit New Zealand Act 1989. |
-| 1974, No 66-The Local Government Act 1974 (RS Vol 20, p 1.) | By omitting from the definition of the term State highway in section 2(1) (as amended by section 3(2) of the Local Government Amendment Act 1978) the words section 11 of the National Roads Act 1953, and substituting the words section 60 of the Transit New Zealand Act 1989. By omitting from section 293(9) (as substituted by section 13 of the Local Government Amendment Act 1988) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 277(d) (as substituted by section 11 of the Local Government Amendment Act 1988) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 279(8) (as substituted by section 12 of the Local Government Amendment Act 1988) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 316(2) (as enacted by section 2 of the Local Government Amendment Act 1978) the words the National Roads Board and substituting the words Transit New Zealand. By omitting from section 317(1)(a) (as so enacted) the words the National Roads Board and also the words section 13 of the National Roads Act 1953, and substituting, respectively, the words Transit New Zealand and the words section 62 of the Transit New Zealand Act 1989. By omitting from section 317(2)(a) (as so enacted) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from the proviso to section 336 (as so enacted) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 363 (as so enacted) the words the National Roads Board wherever they occur, and substituting in each case the words Transit New Zealand. By omitting from section 364(1)(b) (as so enacted) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from the section 368(2) (as so enacted) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 369(1) (as so enacted) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 374(1) and (3) (as so enacted) the words the National Roads Board, and substituting the words Transit New Zealand. |
-| 1975, No 9-The Ombudsmen Act 1975 (RS Vol 21, p 657.) | By omitting from Part 2 of Schedule 1 the item the National Roads Board, and inserting, in its appropriate alphabetical order, the item Transit New Zealand. |
-| 1978, No 51-The Christchurch-Lyttelton RoadTunnel Authority Dissolution Act 1978 | By inserting in section 2, in the appropriate alphabetical order, the following definitions:Account means the Land Transport Account established by the Transit New Zealand Act 1989Transit New Zealand means Transit New Zealand established by the Transit New Zealand Act 1989:. By omitting from subsections (1) and (2)(b) of section 5 the word Board, and substituting in each case the words Transit New Zealand. By repealing subsections (2) and (3) of section 6, and substituting the following subsection:2Subject to sections 4 and 7 of this Act, and to section 17 of the Transit New Zealand Act 1989,-aThere shall be payable, out of the Account, all costs in respect of the operation and maintenance of the said public highway:bAll money payable to the Authority or to the Board shall be payable to Transit New Zealand and become part of the Account:cThe benefit of any contract or undertaking entered into by or on behalf of the Authority or the Board shall be deemed to be assigned to Transit New Zealand on behalf of the Crown. By omitting from section 7 the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 8(1) all the words after the expression Christchurch- Lyttelton Road Tunnel Act 1956,, and substituting the words unless sooner revoked, and all bylaws made by the Board under this Act, shall become bylaws of Transit New Zealand and may be revoked or altered by Transit New Zealand, but until so revoked every such bylaw shall remain in force. By omitting from subsections (2) and (3) of section 8 the words the Board, and substituting in all 3 cases the words Transit New Zealand. By omitting from section 8(3) the expression National Roads Act 1953, and substituting the expression Transit New Zealand Act 1989. |
-| 1981, No 35-The Public Works Act 1981 | By omitting from section 2 the definition of the term National Roads Board and inserting, in its appropriate alphabetical order, the following definition:Transit New Zealand means Transit New Zealand established under the Transit New Zealand Act 1989. By omitting from section 2 in the definition of State highway the words section 11 of the National Roads Act 1953, and substituting the words section 60 of the Transit New Zealand Act 1989. By omitting from section 61(2) the words the National Road Board, and substituting the words Transit New Zealand. By omitting from section 62(1)(f) the words the National Roads Board of any power under section 156 of this Act, and substituting the words Transit New Zealand of any power under section 91 of the Transit New Zealand Act 1989. By omitting from section 62(2)(e) the expressions section 163 of this Act and section 153 of this Act, and substituting, respectively, the words section 99 of the Transit New Zealand Act 1989 and section 88 of the Transit New Zealand Act 1989. By omitting from section 114(1)(g) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 116(2)(c) the words the National Roads Board, and substituting the words Transit New Zealand. By omitting from section 122 the words National Roads Act 1953, and substituting the words Transit New Zealand Act 1989. |
-| 1985, No 141-The Goods and Services Tax Act 1985 (RS Vol 19, p 369) | By repealing subsection (13A) of section 5 (as inserted by section 5(6) of the Goods and Services Tax Amendment Act 1986), and substituting the following subsection:13AFor the purposes of this Act, where a registered person receives any refund of excise duty paid out of the Land Transport Fund pursuant to section 101 of the Transit New Zealand Act 1989 that refund shall, to the extent that it relates to excise duty incurred for the principal purpose of makin taxable supplies, be deemed to be consideration received for a supply of services by that registered person in the course or furtherance of that person's taxable activity. By repealing section 11(3) (as substituted by section 9(9) of the Goods and Services Tax Amendment Act 1986). |
-| 1986, No 127-The Environment Act 1986 | By omitting from the Schedule the item The National Roads Act 1953., and inserting in its appropriate alphabetical order the item The Transit New Zealand Act 1989.. |
 
 ### 1 Title
 This Act is the Land Transport Management Amendment Act 2008.
@@ -1290,3 +1260,14 @@ If a matter or thing is continued with a specified effect by this Act, the matte
     (ii) specified terms have the meaning given to them by the regulations:
     (iii) specified provisions repealed or amended or revoked by this Act are to continue to apply.
 (2) This clause expires on 1 January 2012.
+
+### 1 Title
+This Act is the Infrastructure (Amendments Relating to Utilities Access) Act 2010.
+
+### 2 Commencement
+This Act comes into force on the day after the date on which it receives the Royal assent.
+
+**Transitional provision**
+
+### 28 Transitional provision
+To avoid doubt, the amendments made by this Act are intended to apply prospectively only and do not apply to or affect any notice given, request made, condition proposed or agreed to, or any other thing done before this Act comes into force.
