@@ -1,5 +1,5 @@
 # Affordable Housing: Enabling Territorial Authorities Act 2008
-_Consolidation as at 2008-09-16_
+_Consolidation as at 2010-08-06_
 
 ### 1 Title
 This Act is the Affordable Housing: Enabling Territorial Authorities Act 2008.
