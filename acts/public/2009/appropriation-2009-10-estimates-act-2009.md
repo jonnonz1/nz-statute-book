@@ -1,5 +1,5 @@
 # Appropriation (2009/10 Estimates) Act 2009
-_Consolidation as at 2009-09-01_
+_Consolidation as at 2010-08-06_
 
 ## Preamble
 (1) Section 4(1) of the Public Finance Act 1989 provides that the Crown or an Office of Parliament must not incur expenses or capital expenditure except as expressly authorised by an appropriation, or other authority, by or under an Act of Parliament:
