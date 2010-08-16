@@ -1,5 +1,5 @@
 # Securities Act 1978
-_Consolidation as at 2010-07-07_
+_Consolidation as at 2010-08-16_
 
 > An Act to establish a Securities Commission; and to consolidate and amend the law relating to the offering of securities to the public, and to extend the application thereof
 
