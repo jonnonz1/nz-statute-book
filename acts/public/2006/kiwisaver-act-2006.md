@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2009-10-06_
+_Consolidation as at 2010-08-16_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -2115,8 +2115,8 @@ Nothing effected or authorised by the trustees of a registered superannuation sc
 (3) The statements required by this section must be included at the end of the Who is involved in providing it for me? section of the investment statement.
 (4) For the purposes of the Securities Act 1978, a failure to comply with this section is also treated as if it were a failure to comply with the Securities Regulations 1983.
 
-### 206 Factual description of, or transmission of information about, KiwiSaver scheme not investment advice
-For the avoidance of doubt, the Crown or any other person does not give investment advice and is not an investment broker or a broker, for the purposes of the Investment Advisers (Disclosure) Act 1996 if the Crown or that person—
+### 206 Factual description of, or transmission of information about, KiwiSaver scheme not financial adviser service
+For the avoidance of doubt, the Crown or any other person does not perform a financial adviser service for the purposes of the Financial Advisers Act 2008 if the Crown or that person—
   (a) supplies an information pack as required or authorised by this Act; or
   (b) gives a factual description to another person of the features of a KiwiSaver scheme or of KiwiSaver schemes, (for example, information about admission as a member or termination of membership); or
   (c) gives information of the type referred to in paragraph (b) in the course of promoting the benefits of retirement savings in general; or
