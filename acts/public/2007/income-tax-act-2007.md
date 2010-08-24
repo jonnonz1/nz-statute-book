@@ -1,5 +1,5 @@
 # Income Tax Act 2007
-_Consolidation as at 2010-07-01_
+_Consolidation as at 2010-08-24_
 
 ### A 1 Title
 This Act is the Income Tax Act 2007.
@@ -36473,12 +36473,18 @@ In this Act, unless the context requires otherwise,—zero-rated investor, for a
   - **deemed rate of return method** means the method of calculating FIF income or FIF loss in section EX 55 (Deemed rate of return method)
   - **deferred military pay** is defined in section CW 24(2) (Deferred military pay for active service) for the purposes of that section
   - **defined benefit fund** means a superannuation scheme, registered under the Superannuation Schemes Act 1989, that must comply with section 15(1)(a) of that Act
-  - **dependent child** , for a child and for a person, means a child—
-    (a) whose care is primarily the responsibility of the person; and
-    (b) who is being maintained as a member of the person’s family; and
-    (c) who is financially dependent on the person; and
-    (d) who is not a child for whom payments are being made under section 363 of the Children, Young Persons, and Their Families Act 1989; and
-    (e) who is not a child for whom a benefit is being paid under section 28 or 29 of the Social Security Act 1964
+  - **dependent child** , for a child and a person,—
+    (a) means a child—
+      (i) whose care is primarily the responsibility of the person; and
+      (ii) who is maintained as a member of that person's family; and
+      (iii) who is financially dependent on that person:
+    (b) does not include a child in relation to whom—
+      (i) a payment is made under section 363 of the Children, Young Persons, and Their Families Act 1989:
+      (ii) a benefit is being paid under section 28 or 29 of the Social Security Act 1964:
+    (c) despite paragraph (b)(i), includes a child or a young person, as defined in section 2(1) of the Children, Young Persons, and Their Families Act 1989,—
+      (i) of whom the person is a parent within the meaning of that Act; and
+      (ii) to whom section 361 of that Act applies; and
+      (iii) who, under section 362 of that Act, is placed in the charge of the person
   - **deposit** —
     (a) is defined in section EH 36 (Other definitions) for the purposes of the main income equalisation scheme:
     (b) is defined in section EH 62 (Other definitions) for the purposes of the adverse event income equalisation scheme:
