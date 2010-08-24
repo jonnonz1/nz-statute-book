@@ -1,5 +1,5 @@
 # Children, Young Persons, and Their Families Act 1989
-_Consolidation as at 2009-06-29_
+_Consolidation as at 2010-08-24_
 
 > An Act to reform the law relating to children and young persons who are in need of care or protection or who offend against the law and, in particular,—ato advance the well-being of families and the well-being of children and young persons as members of families, whanau, hapu, iwi, and family groups:bto make provision for families, whanau, hapu, iwi, and family groups to receive assistance in caring for their children and young persons:cto make provision for matters relating to children and young persons who are in need of care or protection or who have offended against the law to be resolved, wherever possible, by their own family, whanau, hapu, iwi, or family group:deto repeal the Children and Young Persons Act 1974
 
@@ -3325,6 +3325,9 @@ Subject to sections 43, 81, 104, and 114(2)(c), the chief executive or, as the c
 (1) The chief executive shall from time to time determine the rates of payment to persons and organisations in whose charge a child or young person is placed pursuant to section 362.
 (2) Where, pursuant to section 362, any person (being the chief executive or an iwi social service or a cultural social service or the director of a child and family support service) places a child or young person in the charge of a person or organisation, it is the duty of the first-mentioned person to ensure that the payments specified in subsection (1) are made and that any additional payments necessary to meet the reasonable needs of the child or young person are made.
 (3) Subject to any limits that are determined from time to time by the chief executive, the chief executive or, as the case requires, an iwi social service or a cultural social service or the director of a child and family support service may make payments under this section at a higher rate in cases where there is special need.
+(4) Subsections (1) to (3) do not apply, and must be treated as never having applied, in respect of a child's or young person's placement with his or her parent (before or after the commencement of this subsection) if—
+  (a) the child or young person is or was a child or young person to whom section 361 applies or applied; and
+  (b) under section 362, the child or young person is or was placed in the charge of the parent.
 
 **Residences**
 
