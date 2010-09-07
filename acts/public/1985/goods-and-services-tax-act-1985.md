@@ -1,5 +1,5 @@
 # Goods and Services Tax Act 1985
-_Consolidation as at 2010-08-06_
+_Consolidation as at 2010-09-07_
 
 > An Act to make provision for the imposition and collection of goods and services tax
 
@@ -707,13 +707,12 @@ This Act shall bind the Crown.
       (A) a 12-month period that includes the taxable period; or
       (B) a period acceptable to the Commissioner; and
     (ii) not less than 75% of the total value of the supplies referred to in subparagraph (i) consists of taxable supplies that are not charged with tax at the rate of 0% under this paragraph or under paragraph (q); or
-  (s) the services are an emissions unit and the supply is the transfer of the emissions unit under—
-    (i) section 64 of the Climate Change Response Act 2002:
-    (ii) Part 4, subpart 2 of that Act:
-    (iii) a covenant entered under the Forests (Permanent Forest Sink) Regulations 2007; or
+  (s) the services are an emissions unit and the supply is the transfer of the emissions unit, other than a transfer by the Crown under—
+    (i) an agreement relating to a project to reduce emissions:
+    (ii) a negotiated greenhouse agreement, to a person because the person exceeds the milestone targets under the agreement.
   (t) the services are an emissions unit, and the supply is the surrender of the emissions unit under section 63 of the Climate Change Response Act 2002; or
   (u) the services are supplied as consideration for a supply that is chargeable at the rate of 0% under paragraph (s) or (t); or
-  (v) the services are an emissions unit and the supply is a sale or other disposal of the emissions unit, other than a transfer of the emissions unit from the Crown without payment of a price; or
+  (v)
   (w) the supply is a sale or other disposal of services that are a unit—
     (i) issued by reference to the sequestration, or avoidance of emission, of human-induced greenhouse gases; and
     (ii) other than an emissions unit; and
@@ -1112,7 +1111,7 @@ Subject to this section, a registered person who has made an election under sect
     (a) would not be able to deduct under section 20(3) in the absence of this section; and
     (b) would be able to deduct under section 20(3), other than under section 20(3)(h), if all supplies of financial services by the registered person were taxable supplies:
   (b) is the total value of exempt supplies of financial services by the registered person to the direct supplier in respect of the taxable period:
-  (c) is the total value of supplies by the registered person in respect of the taxable period:
+  (c) is the total value of exempt supplies of financial services by the registered person in respect of the taxable period:
   (d) is the total value of taxable supplies by the direct supplier in respect of the taxable period, determined under section 20D:
   (e) is the total value of supplies by the direct supplier in respect of the taxable period, determined under section 20D.
 
@@ -1959,6 +1958,66 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
 (5) Where any supply is or becomes charged with tax pursuant to this Act, the amount of any increase in consideration in respect of that supply attributable to the tax charged on that supply shall be recoverable by the supplier from the recipient of the taxable supply.
 (6) This section does not apply to a supply of services that is treated by section 8(4B) as being made in New Zealand.
 
+### 78AA Exceptions to effect of increase of tax
+(1) For the purposes of this section,—
+  (a) rate change day is the day on which an increase in the rate of tax imposed by section 8 comes into force:
+  (b) original rate is the rate of tax imposed by section 8 immediately before the rate change day.
+(2) Despite section 8(1), subsection (3) applies to an insurer who is deemed under section 5(13B) to receive a recovered amount as consideration for a supply—
+  (a) to the extent that the insurer, before the rate change day, accepts the claim to which the recovery relates and—
+    (i) pays the claim:
+    (ii) agrees the recovered amount unconditionally; and
+  (b) if the amount recovered is received by the insurer on or after the rate change day; and
+  (c) if the insurer elects that subsection (3) apply to the recovery by treating the recovery in that way in a return provided to the Commissioner.
+(3) The deemed supply by the insurer is charged with tax at the original rate.
+(4) Despite section 8(1), subsection (5) applies to a supply of goods that are personal property by a registered person under an agreement if—
+  (a) section 9(3)(a) applies to the supply; and
+  (b) the recipient of the supply makes periodic payments to the registered person during the term of the agreement; and
+  (c) part of the amount payable to the registered person under the agreement is consideration for a supply that is the provision of credit under a credit contract; and
+  (d) if the agreement were to end early, the amount of tax imposed by section 8 on the supply of the goods would be calculated on the basis that a periodic payment included an amount of payment for the supply referred to in paragraph (c) that decreased for each successive periodic payment; and
+  (e) the term of the agreement—
+    (i) begins before the rate change day; and
+    (ii) ends on or after the rate change day; and
+    (iii) is less than or equal to 5 years; and
+  (f) the registered person elects that subsection (5) apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner; and
+  (g) within 30 days after the rate change day, the registered person gives notice to the recipient of the supplies, if the recipient is a registered person, that payments by the recipient made after the rate change day include goods and services tax charged at the original rate.
+(5) Each successive supply under the agreement that is deemed to take place after the rate change day is charged with tax at the original rate.
+(6) Despite section 5(5), subsection (7) applies to a supply of goods under an agreement that is a layby sale to which the Layby Sales Act 1971 applies if—
+  (a) the agreement is made before the day on which the increase in the rate of tax is announced; and
+  (b) after the rate change day, the goods are delivered to the buyer and the property in the goods is transferred to the buyer; and
+  (c) the registered person elects that subsection (7) apply to supplies made under the agreement by treating each supply in that way in a return provided to the Commissioner.
+(7) Goods and services tax is charged on the supply of the goods under the agreement (the agreed supply) as if there were 2 supplies consisting of—
+  (a) a supply on the day before the rate change day, for which the consideration is the payment for the agreed supply that the registered person receives before the rate change day; and
+  (b) a supply on the day that the agreed supply would have occurred in the absence of this subsection, for which the consideration is the payment for the agreed supply that the registered person receives on or after the rate change day.
+(8) Subsection (9) applies to a supply of goods or services if—
+  (a) the invoice for the supply is dated before the rate change day; and
+  (b) the invoice is issued—
+    (i) on or before the second Monday after the rate change day; and
+    (ii) consistently with the registered person's practice of issuing invoices for such supplies; and
+  (c) payment for the supply is due on or before the day that is 60 days after the date of the invoice; and
+  (d) the registered person elects that subsection (9) apply to the supply by treating the supply in that way in a return provided to the Commissioner.
+(9) The supply is treated as being made on the day of the date of the invoice, despite section 9(3)(a) if that provision would otherwise apply.
+(10) Despite section 9(1), (2)(a), and (3), subsection (11) applies to a supply by a registered person under an agreement if—
+  (a) section 9(3)(a) would apply to the supply in the absence of this subsection; and
+  (b) the term of the agreement begins before the rate change day and ends after the rate change day; and
+  (c) under the agreement, the consideration for a supply is set or reviewed for periods of 396 days or less during the term of the agreement; and
+  (d) the registered person elects that subsection (11) apply to supplies made under the agreement during a period in which the day before the rate change day occurs (the rate change period) by including on that basis each supply in a return provided to the Commissioner; and
+  (e) within 30 days after the rate change day, the registered person gives notice to the recipient of the supplies, if the recipient is a registered person, that payments made after the rate change day by the recipient for supplies made in the rate change period include goods and services tax charged at the original rate.
+(11) If this subsection applies to a supply for a rate change period and, in the absence of this subsection, the supply would be made on or after the rate change day,—
+  (a) the supply is treated as being made on the day before the rate change day; and
+  (b) the registered person is treated as issuing a tax invoice as required by section 24 for the supply on the day before the rate change day.
+(12) Despite sections 25(3) and (3C) and 143A(1)(f), subsection (13) applies to a supply by a registered person who has provided a tax invoice in relation to the supply if—
+  (a) the rate change day occurs after the registered person provides the tax invoice for the supply; and
+  (b) in the absence of this subsection and subsection (13), the registered person would be required to provide after the rate change day a credit note or debit note for the supply; and
+  (c) the registered person elects that subsection (13) apply to the supply by including on that basis the supply in a return provided to the Commissioner.
+(13) If, in the absence of this subsection, the registered person would be required to provide a—
+  (a) credit note for a supply,—
+    (i) the registered person may provide a replacement tax invoice for the supply; and
+    (ii) goods and services tax is charged on the supply under that invoice at the original rate:
+  (b) debit note for a supply, the registered person may provide a replacement tax invoice for the supply.
+(14) Despite section 5(13)(a), a supply of services under section 5(13) by a registered person who receives a payment under a contract of insurance on or after the rate change day is treated as being made on the day before the rate change day if—
+  (a) the payment is made before the rate change day; and
+  (b) the registered person receives the payment on or before the second Monday after the rate change day.
+
 ### 78A Returns to be furnished in 2 parts for taxable period in which change in rate of tax occurs
 (1) Where there is a change in the rate of tax imposed by section 8 of this Act, every registered person who does not have a taxable period beginning on the same day as the date on which the new rate comes into force (other than a person with a taxable period commencing within 7 days before or after the day immediately preceding that date who furnishes returns in accordance with subsection (5) of this section) shall furnish to the Commissioner a return in 2 parts for the taxable period in which the new rate comes into force, comprising—
   (a) a Part 1 return, covering the period beginning on the first day of the person's taxable period and ending with the day immediately preceding the date on which the new rate comes into force; and
@@ -1972,7 +2031,7 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
   (c) the earlier of those periods ended with the day immediately preceding the date on which the new rate of tax comes into force; and
   (d) the later of those periods commenced on the day on which the new rate of tax comes into force.
 
-### 78B Adjustments to tax payable for persons furnishing returns on payments basis following change in rate of tax
+### 78B Adjustments to tax payable for persons furnishing returns following change in rate of tax
 (1) Where there is a change in the rate of tax imposed by section 8 of this Act,—
   (a) any payments that are made or received by a registered person on or after the date on which the new rate comes into force, to the extent that—shall be deemed, notwithstanding any other provision of this Act, to be consideration for a supply made or received by that registered person on or after the date on which the new rate of tax comes into force, and the amount of any input tax or output tax in respect of any such supply shall accordingly be determined on the basis of the new rate of tax; but
     (i) any such payment is made or received in respect of any qualifying supply referred to in subsection (2A)(a) of this section by a registered person who, as at that date, is required to account for tax payable on a payments basis; or
@@ -1991,20 +2050,29 @@ For the purposes of this Act, all amounts of money shall be expressed in terms o
     (iii) any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)(c) of the input tax definition applies; or
     (iv) any supply made by the registered person that is a specified supply within the meaning of section 86 of this Act; and
   (aa) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on a hybrid basis,—
+    (ia) any supply that is made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
     (i) any taxable supply made to the registered person; or
     (ii) any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)(c) of the input tax definition applies; and
-  (b) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on an invoice basis, any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)(c) of the input tax definition applies,—
+  (b) in relation to a person who, as at the date on which the new rate of tax comes into force, is required to account for tax payable on an invoice basis,—
+    (i) any supply made by the registered person as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989 and for which consideration is held in trust on the day before that date, if the registered person includes such supplies in the form referred to in subsection (2); or
+    (ii) any supply made to the registered person that is a supply of secondhand goods to which section 3A(1)(c) applies,—
   (c) as at the commencement of the day on which the new rate of tax comes into force, the consideration for the supply—
     (i) remains unpaid; and
     (ii) has not been written off by the registered person as a bad debt; and
   (d) the supply is not required to be taken into account (otherwise than pursuant to this section) in calculating the tax payable by the registered person in respect of—
     (i) that part of the taxable period in which the new rate of tax comes into force that is required by section 78A of this Act to be covered by a Part 1 return; or
     (ii) any other taxable period ending before the new rate of tax comes into force; and
-  (e) the supply is not charged with tax at the rate of zero percent; and
+  (e) the supply is not charged with tax at—
+    (i) the rate of zero percent; or
+    (ii) a rate that is unaffected by the change to section 8; and
   (f) the supply, in the case of a supply made to the registered person, is a supply in respect of which—
     (i) a tax invoice or debit note or credit note has been provided in accordance with sections 24 and 25 of this Act and is held by that registered person at the time the prescribed form is furnished in accordance with subsection (2) of this section; or
     (ii) a tax invoice is not required to be issued pursuant to section 24(5) or section 24(6) of this Act, or a debit note or credit note is not required to be issued pursuant to section 25 of this Act; or
     (iii) sufficient records are maintained as required pursuant to section 24(7) of this Act, where the supply is a supply of secondhand goods to which that section relates.
+(2B) For the purposes of this section, a taxable supply made by a registered person on or after the date on which the new rate of tax comes into force is treated as being made before that date if—
+  (a) the registered person makes the supply as a private training establishment granted registration by the Qualifications Authority under section 236 of the Education Act 1989; and
+  (b) the consideration for the supply is held in trust on the day before that date; and
+  (c) the registered person includes such supplies in the form referred to in subsection (2).
 (3) The adjustment required by this section shall be calculated as follows:
   (a) first determine the amount of consideration payable by the registered person on qualifying supplies made to the registered person:
   (b) subtract the amount of the consideration payable to the registered person on qualifying supplies made by the registered person:
