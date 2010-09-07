@@ -1,5 +1,5 @@
 # KiwiSaver Act 2006
-_Consolidation as at 2010-08-16_
+_Consolidation as at 2010-09-07_
 
 ### 1 Title
 This Act is the KiwiSaver Act 2006.
@@ -77,6 +77,7 @@ This Act is the KiwiSaver Act 2006.
   - **fee subsidy** means a Crown subsidy for fees that are payable by a member or a class of members of a KiwiSaver scheme as prescribed under section 228(n) or (o)
   - **Government Actuary** includes any person authorised by delegation by the Government Actuary to exercise or perform any of the duties, functions, or powers of the Government Actuary
   - **gross salary or wages** means salary or wages before the deduction of tax (as tax is defined in section 3(1) of the Tax Administration Act 1994)
+  - **guardian** has the same meaning as in the Care of Children Act 2004
   - **holding account** means the Inland Revenue KiwiSaver Holding Account established by the Commissioner under section 72
   - **inactive account** , in relation to a member of a KiwiSaver scheme, means a member’s account in respect of which no contribution has been received for at least 2 years
   - **independent trustee** , in relation to a KiwiSaver scheme, means—
@@ -302,9 +303,9 @@ The Commissioner must, as soon as practicable after accepting an opt-out notice 
 ### 21 Opt-out only applies to employment that triggered automatic enrolment rules
 An opt-out notice given in respect of one employment terminates the application of the automatic enrolment rules only in respect of that one employment, and does not apply to any other new employment in respect of which the employee may become subject to the automatic enrolment rules in the future.
 
-**Notice requirements for people who start new employment**
+**Notice requirements for employees and employers**
 
-### 22 Employees must give information to employers
+### 22 Employees giving information to employers
 (1) Every person who starts new employment must give notice to the employer of—
   (a) his or her name and address; and
   (b) his or her tax file number; and
@@ -312,6 +313,7 @@ An opt-out notice given in respect of one employment terminates the application 
     (i) give to his or her employer a KiwiSaver deduction notice; or
     (ii) give or show to his or her employer a copy of a notice given by the Commissioner under section 105 that grants a contributions holiday that has not yet ended.
 (2) That information must be given as soon as practicable after the person starts the new employment.
+(3) A person who is in temporary employment and who is a member of a KiwiSaver scheme may give their temporary employer a KiwiSaver deduction notice.
 
 ### 23 Employers must give information to Commissioner
 (1) Every employer of a person who starts new employment must give notice to the Commissioner of the information referred to in section 22(1)(a) and (b) that the employee gives the employer, if the employer is satisfied that the employee is subject to the automatic enrolment rules.
@@ -333,8 +335,8 @@ For the purposes of sections 22 and 23, a PAYE intermediary (within the meaning 
   (a) every person who becomes, on or after the date of commencement of the automatic enrolment rules, a permanent employee (including a part-time employee) of that employer, and who is aged 18 or over but less than the New Zealand superannuation qualification age, must be eligible, in practice, at the time when the person so becomes an employee,—
     (i) to become a member of the scheme; and
     (ii) to transfer to the scheme the member’s accumulation in relation to other superannuation schemes (to the extent that transfers are available from those other superannuation schemes); and
-  (b) the scheme must be a registered superannuation scheme that is registered on or before the day after the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 receives the Royal assent; and
-  (bb) the relevant participation agreement must be entered into by the employer before the day after the Taxation (International Taxation, Life Insurance, and Remedial Matters) Act 2009 receives the Royal assent; and
+  (b) the scheme must be a registered superannuation scheme that is registered on or before 7 October 2009; and
+  (bb)
   (c) the trust deed of the scheme must have the effect that each member who satisfies the scheme’s requirements for a withdrawal benefit, and who elects to withdraw from membership of the scheme, may transfer the member’s accumulation to another registered superannuation scheme or KiwiSaver scheme (to the extent that transfers are available to those other schemes); and
   (d) the trust deed of the scheme must provide for an amount equal to at least 4% of annual gross base salary or wages to be contributed to, or otherwise credited within, the scheme in respect of each person who becomes, on or after the date of commencement of the automatic enrolment rules, a permanent employee of that employer and a member of the scheme.
 (2) However, subsection (1)(d) does not apply—
@@ -371,14 +373,20 @@ An employer who provides access to a superannuation scheme for its employees tha
   (c) anything else that the Government Actuary decides is relevant to evidencing compliance with the rules in section 25, in respect of the employer’s employees.
 
 ### 29 How to apply to be exempt employer
-(1) A person may apply to the Government Actuary for approval of an employer as an exempt employer.
+(1) A person may make an application to the Government Actuary for approval of an employer (the current employer) as an exempt employer if,––
+  (a) an application (the old application) was received by the Government Actuary on or before 19 November 2009; and
+  (b) as a result of the Government Actuary's consideration of that old application under section 30 an employer was approved as an exempt employer; and
+  (c) either that exempt employer is the current employer, or the current employer is a succeeding employer for that exempt employer.
 (2) The application must be accompanied by—
   (a) information that satisfies the Government Actuary that the scheme complies with the rules in section 25; and
   (b) the names, addresses, and tax file numbers of each employer in respect of whom the application is made; and
   (c) if the application is made in respect of an employer that is part of a group of companies, such details of the names, addresses, tax file numbers, and payroll arrangements of any other members of the group that the Government Actuary may request.
+(3) In this section succeeding employer means, for an exempt employer,––
+  (a) an employer who succeeds the exempt employer due to a merger or acquisition of the exempt employer; and
+  (b) another employer who succeeds a succeeding employer for the exempt employer due to a merger or acquisition of that succeeding employer.
 
 ### 30 How applications to be exempt employer must be dealt with
-(1) The Government Actuary must, within 28 days after receiving an application under section 29 and the documents required to accompany the application,—
+(1) The Government Actuary must, within 28 days after receiving an application that may be made under section 29(1) and the documents required under section 29(2) to accompany the application,—
   (a) consider whether he or she is satisfied that each employer in respect of whom the application is made is eligible to be approved as an exempt employer; and
   (b) if so satisfied, approve the employer as an exempt employer and register the employer on the register of exempt employers.
 (2) The Government Actuary must—
@@ -406,8 +414,8 @@ A person may opt in at any time provided—
   (b) the person is not already a member of a KiwiSaver scheme; and
   (c) the person is not subject to the automatic enrolment rules.
 
-### 34 How to opt in
-(1) A person who wishes to opt in may do either or both of the following:
+### 34 Opting in by person 18 years or more
+(1) A person who is 18 years or more and who wishes to opt in may do either or both of the following:
   (a) contract directly with a provider of a KiwiSaver scheme to become a member of a KiwiSaver scheme:
   (b) if the person is an employee, give his or her employer a KiwiSaver deduction notice.
 (2) A person who opts in by giving his or her employer a KiwiSaver deduction notice must give the employer—
@@ -418,8 +426,18 @@ A person may opt in at any time provided—
 (5) For the purposes of sections 34 to 37, a PAYE intermediary (within the meaning of section YA 1 of the Income Tax Act 2007) acting under sections RP 2 and RP 6 to RP 16 of that Act is treated as an employer.
 
 ### 35 Opting in by persons under 18
-(1) A person who is less than 18 years and who wishes to opt in may only opt in in accordance with section 34(1)(a).
-(2) If a provider of a KiwiSaver scheme accepts a person who is less than 18 years as a member of the KiwiSaver scheme, the contract between the provider and the person under 18 years must be treated, for the purposes of the Minors’ Contracts Act 1969, as if the person were aged 18 years.
+(1) A person who is less than 18 years may only opt in in accordance with this section.
+(2) A person who is less than 16 years may opt in if all their guardians contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+  (a) contracting directly with the provider; and
+  (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
+  (c) opting in under section 34(1)(a).
+(3) A person who is 16 or 17 years old with a guardian may opt in if the person and 1 of their guardians jointly contract directly with a provider, in the name of the person. If the provider accepts the person, then the person is treated as––
+  (a) contracting directly with the provider; and
+  (b) 18 years for the purposes of the Minors' Contracts Act 1969; and
+  (c) opting in under section 34(1)(a).
+(4) A person who is 16 or 17 years old with no guardian may opt in if the person contracts directly with a provider. If the provider accepts the person, then the person is treated as––
+  (a) 18 years for the purposes of the Minors' Contracts Act 1969:
+  (b) opting in under section 34(1)(a).
 
 ### 36 Effect of opting in by employees
 (1) An employee who opts in under section 34(1)(a) or (b)—
@@ -770,7 +788,7 @@ The employer must make deductions of contributions from each payment of the empl
   (d) every reference to an amount required to be deducted under the PAYE rules were a reference to an amount required to be deducted under this Act.
 (2) Every employer and employee must comply with the requirements of the PAYE rules to the extent to which those rules apply under this section.
 (3) However, the following do not apply to any amount required to be deducted under this subpart:
-  (a) sections BC 1, LA 6, RA 2, RD 9 to RD 11, RD 16, RD 17, and RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994; and
+  (a) sections BC 1, LA 6, RA 2, RD 9, RD 10, RD 16, RD 17, and RD 18 of the Income Tax Act 2007 and sections 24B to 24P of the Tax Administration Act 1994; and
   (b) sections 139C, 140 to 140DB, 141FD, 141JA, 142E, 144, and 150B of the Tax Administration Act 1994.
 (4) Any deduction made under this subpart is not part of or included in any amount of tax withheld under the PAYE rules on account of income tax.
 (5) The deductions made under this subpart are in addition to any amounts of tax required to be withheld under the PAYE rules.
@@ -895,7 +913,7 @@ Part 2 of the Trustee Act 1956 does not apply to the Commissioner in respect of 
 ### 86 Interest rate
 (1) The interest rate at which interest is payable under sections 84 to 91 is—Commissioner’s paying rate × (1 − lowest tax rate)where—
   - **Commissioner’s paying rate** is the rate of interest established and notified as the Commissioner’s paying rate by an Order in Council made under section 120H of the Tax Administration Act 1994 as the Commissioner’s paying rate applying on the day on which the contribution is received or treated as received
-  - **lowest tax rate** is the tax rate in schedule 1, part A, table 1, row 1, column 3 of the Income Tax Act 2007.
+  - **lowest tax rate** is the tax rate in schedule 1, part D, table 2, row 7, column 3 of the Income Tax Act 2007.
 (2) The interest rate calculated using the formula is expressed as a percentage, rounded to 2 decimal places, with numbers at the midpoint or greater being rounded up and other numbers being rounded down.
 
 ### 87 Amount of interest payable
@@ -1342,6 +1360,9 @@ In this Part, unless the context otherwise requires, any term or expression that
 (4) Section 16(2) of the Superannuation Schemes Act 1989 applies in relation to KiwiSaver schemes subject to any exemptions made under regulations made under section 228(t).
 (5) Section 17 of the Superannuation Schemes Act 1989 applies subject to the following:
   (a) the requirement in section 17(1)(a) (which relates to a requirement to give members a copy of the annual report) does not apply in relation to a member’s account that is an inactive account unless the member requests a copy of the annual report; and
+  (ab) the requirement in section 17(1)(a) is treated as met in respect of a member, if––
+    (i) the member has consented, in writing, to receive a world wide web uniform resource locator for access to an electronic copy of the annual report (the annual report URL); and
+    (ii) the provider gives the annual report URL to the member within 6 months of the close of the relevant financial year; and
   (b) the requirements in section 17(1)(b)(ii) and (iii) must be treated as if the references to a trust deed exclude participation agreements that do not relate to the relevant member.
 (6) Section 18 of the Superannuation Schemes Act 1989 applies in relation to a KiwiSaver scheme as if it also required the trustees of a KiwiSaver scheme that is not constituted under an Act of Parliament, and in respect of which any of the trustees is a corporate trustee, to notify the Government Actuary as soon as practicable after the corporate trustee ceases to have at least 1 director who is a New Zealand resident.
 
@@ -2478,7 +2499,7 @@ A trustee may reasonably require a member who applies to make a permitted withdr
   (b) the person holds the estate in land as a trustee who—
     (i) is a discretionary, contingent, or vested beneficiary under the relevant trust; but
     (ii) has no reasonable expectation of being entitled to occupy the land as the principal place of residence for the person or the person’s family until the death of the person who currently occupies the land (the occupier) or the death of the occupier’s survivor.
-(6) In this clause, estate means a fee simple estate, a leasehold estate, or a stratum estate.
+(6) In this clause, estate means a fee simple estate or a stratum estate.
 (7) It is a condition of subclause (3) that—
   (a) any withdrawal made under that provision must be paid to the member’s solicitor; and
   (b) the trustees may require from the member’s solicitor, before payment of the withdrawal,—
